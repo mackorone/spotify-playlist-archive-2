@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,819 likes - 80 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,824 likes - 80 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 19 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 |
 | 20 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 |
 | 21 | [Hold Me Back](https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw) | [Heize](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Queen of Tears \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE) | 3:52 |
-| 22 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 |
-| 23 | [Heavenly fate](https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Heavenly fate \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq) | 4:31 |
-| 24 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 |
+| 22 | [Heavenly fate](https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR) | [LEECHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Heavenly fate \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq) | 4:31 |
+| 23 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 |
+| 24 | [Heavenly Ever After](https://open.spotify.com/track/7kjVCymE7vn0HizmGCGFWQ) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Heavenly Ever After](https://open.spotify.com/album/0aYRlVT4Mt63KpofZcaBoc) | 4:55 |
 | 25 | [A Letter](https://open.spotify.com/track/0VdwOoAKPe9aGahkpllfkH) | [BUMJIN](https://open.spotify.com/artist/3vljSA6N2aSE8U3OhNFkPy) | [A Letter](https://open.spotify.com/album/5XOHCaEeZyiKWDMZ3h2zbZ) | 3:35 |
 | 26 | [TIME CAPSULE](https://open.spotify.com/track/3CQw6HqsBu12wUj89vUQ5M) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [TIME CAPSULE](https://open.spotify.com/album/4rBya5shYbNkTLfc1IhRq2) | 4:12 |
 | 27 | [If You Ask Me What Love Is](https://open.spotify.com/track/5zsMOF3yWT4U1Vw5eaMQFH) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [If You Ask Me What Love Is](https://open.spotify.com/album/79ZPROThlkTsw8QqWGYkPe) | 3:43 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 55 | [Can't Get Over You](https://open.spotify.com/track/5F3032rq3MJG7cDjRtj0wo) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Queen of Tears \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7g7kanYeDjN7vPQHW7wFhd) | 4:05 |
 | 56 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 |
 | 57 | [COVID\-19 \(feat\. SUPERBEE\)](https://open.spotify.com/track/32qLwcEpoKeutWxwrJM4FX) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [COVID\-19](https://open.spotify.com/album/1RKCttAVNGpm1pTar0drh5) | 3:16 |
-| 58 | [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 |
-| 59 | [As If](https://open.spotify.com/track/4CBQXkillvktWczebMlqip) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [As If](https://open.spotify.com/album/5cQBqXCPndAmOPRZfLLL3a) | 4:34 |
+| 58 | [As If](https://open.spotify.com/track/4CBQXkillvktWczebMlqip) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [As If](https://open.spotify.com/album/5cQBqXCPndAmOPRZfLLL3a) | 4:34 |
+| 59 | [Grain of Sand](https://open.spotify.com/track/4WUpMUjdoi47LY7gBQBXe3) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Grain of Sand](https://open.spotify.com/album/1Sf3c8MEe4cXaxZzOKgnhc) | 3:40 |
 | 60 | [Do you want to hear](https://open.spotify.com/track/68QnW4ShMGTk9vvE3Tihng) | [M.O.M](https://open.spotify.com/artist/0JnspQOKIcEUcw8GWSIqtn) | [Do you want to hear](https://open.spotify.com/album/1tFJR4bNSvL6UpCNWEC8K5) | 2:47 |
 | 61 | [Hopeless Romantic \(Feat\. LEE SUHYUN\)](https://open.spotify.com/track/0LY4jOJChwNOYUp2dTNEss) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Hopeless Romantic](https://open.spotify.com/album/1EVvzyt33kcS37UOcQIhYS) | 3:55 |
 | 62 | [With you](https://open.spotify.com/track/7FrabSVdfcPggA25gq3LJU) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [With you](https://open.spotify.com/album/7Hhn7y6LSD30X5Y0jYPWWi) | 3:43 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 79 | [Dial Your Number](https://open.spotify.com/track/1j9WEdAk0W4n7kPgir3pyq) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Dial Your Number](https://open.spotify.com/album/6tsig8yLsCng3ZGcQcmK3g) | 4:18 |
 | 80 | [No More Encore](https://open.spotify.com/track/3W2kHl0GltIhAxO1zNqOxY) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Bloom Again](https://open.spotify.com/album/2Ki6NwC0tAoWpIQIW5at94) | 4:05 |
 
-Snapshot ID: `AAAAANbJqK+aTKqOOgzDZ83FHoLvCl1e`
+Snapshot ID: `AAAAAB6x23cJAmFJ2qd+l0wb4lYXCyO5`

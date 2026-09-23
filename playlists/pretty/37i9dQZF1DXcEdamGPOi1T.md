@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 
 > De la vitamine D en musique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,883 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,881 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 82 | [Onde sensuelle](https://open.spotify.com/track/3NmN4hypKhZ7eMlJecsP0z) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:04 |
 | 83 | [Midnight Ride](https://open.spotify.com/track/2BFnfCnAW6O1a1vZ8NZvkO) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Midnight Ride](https://open.spotify.com/album/0q0asrBrmBwrRMXeqxDvBY) | 3:31 |
 | 84 | [J't'en vacances \(j'fais c'que j'veux\) \[feat\. Orange Lessard\]](https://open.spotify.com/track/3cgOQLfKsHchjogpWaFE41) | [Classe Moyenne](https://open.spotify.com/artist/4MStgkjCDOLFVmyMMmUo9v), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4), [Zach Chico](https://open.spotify.com/artist/3vBQx85S7A8c09r9FATr37), [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc), [Phil Rxcket](https://open.spotify.com/artist/6WvhHcxi6ddlrEoaeYrRVt), [Orange Lessard](https://open.spotify.com/artist/4Y7Z6989C1MbKYFpCVtvC6) | [J't'en vacances \(j'fais c'que j'veux\)](https://open.spotify.com/album/2MKmI0ZxUvXA5ZlEHeuvml) | 3:05 |
-| 85 | [BOBO \(feat\. Maud Elka\)](https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [BOBO \(feat\. Maud Elka\)](https://open.spotify.com/album/2iEZOJ87JrwsP7HOmcv8Qy) | 2:48 |
-| 86 | [La vérité](https://open.spotify.com/track/239VMs4BzjqIRdFtltxfPo) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:20 |
+| 85 | [La vérité](https://open.spotify.com/track/239VMs4BzjqIRdFtltxfPo) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [On s'enverra des fleurs](https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH) | 2:20 |
+| 86 | [BOBO \(feat\. Maud Elka\)](https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [BOBO \(feat\. Maud Elka\)](https://open.spotify.com/album/2iEZOJ87JrwsP7HOmcv8Qy) | 2:48 |
 | 87 | [Video \(feat\. Ravyn Lenae\)](https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [TIMELESS](https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh) | 3:12 |
 | 88 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
 | 89 | [Miami](https://open.spotify.com/track/5JgaSkvLDbERK7BkekoQi6) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 2:46 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 96 | [Mok ya mok](https://open.spotify.com/track/2yQn0Y5mODyHfCk4oxBPfr) | [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Khadija El Warzazia](https://open.spotify.com/artist/2ygf9jdzulwgls2Gx1jTdm) | [Mok ya mok](https://open.spotify.com/album/6bf0QljuZqYPriKjVQtwG7) | 2:38 |
 | 97 | [Fille de personne II](https://open.spotify.com/track/4lHLa0Z48pb3T7iuZ6T9xR) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 3:58 |
 | 98 | [Louxor j'adore](https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Robots Après Tout](https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9) | 3:02 |
-| 99 | [Madame](https://open.spotify.com/track/0K9EmVgpvkteeQwzhmb4oM) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Madame](https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P) | 1:58 |
-| 100 | [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/track/2JZHtLw2uT5vWEhpFCBSv9) | [DJ LEWIS](https://open.spotify.com/artist/7tcmR6KRcQZL4qnA98Fide), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/album/2S0fAWBZHxr1QG2BwGD4Yf) | 2:28 |
+| 99 | [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/track/2JZHtLw2uT5vWEhpFCBSv9) | [DJ LEWIS](https://open.spotify.com/artist/7tcmR6KRcQZL4qnA98Fide), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/album/2S0fAWBZHxr1QG2BwGD4Yf) | 2:28 |
+| 100 | [Madame](https://open.spotify.com/track/0K9EmVgpvkteeQwzhmb4oM) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Madame](https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P) | 1:58 |
 
 Snapshot ID: `AAAAAG7p7L3OtXxDtnUOM5vZ0ahUr4L2`

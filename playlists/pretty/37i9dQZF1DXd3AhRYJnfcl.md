@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 
 ### [التوب](https://open.spotify.com/playlist/37i9dQZF1DXd3AhRYJnfcl)
 
-> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: عمرو دياب
+> أفضل الأغاني المصرية الآن من قلب مصر إلى العالم🔥🔝\. الغلاف: ليجي\-سي
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,486 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,697 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Lola El Banat](https://open.spotify.com/track/0Vo4u6tAmqikBgieiJ3Nca) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Habeitek](https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH) | 3:32 |
-| 2 | [Wala Ash Wala Kan](https://open.spotify.com/track/0Bcrb7ZOOxkVgcZEtPWxXy) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Sadeek El Bernameg](https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn) | 3:04 |
-| 3 | [Shoft Kalam](https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [Shoft Kalam](https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX) | 3:29 |
+| 1 | [Shoft Kalam](https://open.spotify.com/track/2HtFhMMHqwdobOT1DQC0Iu) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3), [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [HatemBas](https://open.spotify.com/artist/5kapqwWcLC1LL2xjaxEwJU) | [Shoft Kalam](https://open.spotify.com/album/1swHEm5aUSHiK5tGm8ToHX) | 3:29 |
+| 2 | [Lola El Banat](https://open.spotify.com/track/0Vo4u6tAmqikBgieiJ3Nca) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Habeitek](https://open.spotify.com/album/7FFkwNEUU5r3NlNSXNCmjH) | 3:32 |
+| 3 | [Wala Ash Wala Kan](https://open.spotify.com/track/0Bcrb7ZOOxkVgcZEtPWxXy) | [TUL8TE](https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf) | [Sadeek El Bernameg](https://open.spotify.com/album/1GH8hyS9kFWIu5m0EE2kvn) | 3:04 |
 | 4 | [Merayt El Hob](https://open.spotify.com/track/5EpEEaHLB2vPYQzP1oSlfr) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Merayt El Hob](https://open.spotify.com/album/1yMgg1hKgdEGV7J1Hyt4RN) | 4:03 |
 | 5 | [Mot Leh](https://open.spotify.com/track/6gjUxA4kTiQadHyRvCyD0Q) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Sary Hany](https://open.spotify.com/artist/4PnNbdBG62BEGFDAKDUrV1) | [Supernova](https://open.spotify.com/album/6bMRDWTllCiFBjlbVwiKUh) | 4:44 |
 | 6 | [لو تعرف](https://open.spotify.com/track/77ZOB2eqNN47xcnNQ08Fws) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [القمر](https://open.spotify.com/album/5RdwG4WQd1R7t6gABF6v2b) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd3AhRYJnfcl.md) - [plain]
 | 49 | [حبيبي وابن حبيبي \- من مسلسل كامل العدد ++](https://open.spotify.com/track/5OcVGQFVNvHt25O5ko22tF) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [حبيبي وابن حبيبي \(من مسلسل كامل العدد ++\)](https://open.spotify.com/album/67zii02wzTY1Zq4ExpGAUy) | 3:16 |
 | 50 | [لا أبالي](https://open.spotify.com/track/61GQ8j8SU63HhNGlGuLg8X) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [لا أبالي](https://open.spotify.com/album/5GXQ90huKrqo2SNjDpJcAz) | 2:54 |
 
-Snapshot ID: `AAAAALSUGw6XfMbZ3oqVlzkxxosvD7Oz`
+Snapshot ID: `AAAAAA0UnFjL/ObVBPhWH+Zmz08fg7nx`

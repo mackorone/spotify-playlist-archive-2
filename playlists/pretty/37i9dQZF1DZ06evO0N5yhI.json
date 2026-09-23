@@ -1,12 +1,12 @@
 {
   "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
-  "num_followers": 151921,
+  "num_followers": 151993,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADbJb6m84ISXo0HFLsy2txU",
+  "snapshot_id": "arBzgAAAAACuCuySBwUqz7Mn28OCHfno",
   "tracks": [
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+      "duration_ms": 206465,
+      "name": "Me & My Dog",
+      "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
     },
     {
       "added_at": null,
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
         }
       ],
-      "duration_ms": 206465,
-      "name": "Me & My Dog",
-      "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": null,

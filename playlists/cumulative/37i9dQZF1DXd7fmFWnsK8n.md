@@ -4,7 +4,7 @@
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-173 songs - 12 hr 7 min
+174 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [NATSU☆しようぜ!](https://open.spotify.com/track/22r4nAGU4E9hZMDD0AfyWI) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [SECRET NIGHT](https://open.spotify.com/album/4NNXje0vFMRdepgyK9sp7C) | 5:09 | 2022-06-09 | 2022-07-28 |
 | [NAVIGATOR:](https://open.spotify.com/track/70YXK5UcjBp74yOZKNwhRk) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [NAVIGATOR:](https://open.spotify.com/album/3u1xs9zPQSgdCcf5JxUEUj) | 3:29 | 2026-03-10 |  |
 | [NEVER LOSE, MY RULE](https://open.spotify.com/track/6ppmAfQF2yqhBEksloIB07) | [ŹOOĻ](https://open.spotify.com/artist/1LgBFKxJLtN9InWxHRCCth) | [NEVER LOSE, MY RULE](https://open.spotify.com/album/5vNWgs4IRclxjr6vj64jgm) | 4:42 | 2022-08-30 |  |
+| [Night Bloom](https://open.spotify.com/track/7Dz0WGMqQO2EXxcEq8pfGG) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Night Bloom](https://open.spotify.com/album/6G59ipgFuBzvfYSC3CUCvz) | 3:27 | 2026-09-22 |  |
 | [NiGHTFALL](https://open.spotify.com/track/4Q4R3WUd3DntZTApoIbI4N) | [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 3:51 | 2023-05-24 | 2026-02-03 |
 | [NO DOUBT](https://open.spotify.com/track/3a1YngFQXMRL0qyYUKVdGt) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [NO DOUBT](https://open.spotify.com/album/4rWk8ApWuufjAhA6KuXveM) | 4:51 | 2022-06-14 | 2022-11-12 |
 | [No Sacrifice](https://open.spotify.com/track/6dDfgZ38eXNgk6aX9kWVxs) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Survivor](https://open.spotify.com/album/7oF2ENI6Jr9g9Rmi3zHcLX) | 4:06 | 2022-06-09 | 2026-06-01 |
@@ -175,7 +176,7 @@
 | [未来絵](https://open.spotify.com/track/0rrHfKEeBrsEXITZErWIyr) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [Intermezzo](https://open.spotify.com/album/0usMI7YhKzGwU3SUp72XAx) | 3:52 | 2022-06-09 | 2025-11-09 |
 | [永遠性理論](https://open.spotify.com/track/7f2ObaiZyLWe8Vuuq4OaaV) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re\-raise](https://open.spotify.com/album/1ahdCCGrE726AaQLrl5bu2) | 4:09 | 2022-06-09 | 2022-07-29 |
 | [激情](https://open.spotify.com/track/4qHyUISAAOWmdZvARpq5Y4) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 4:23 | 2022-06-09 | 2025-12-22 |
-| [激情](https://open.spotify.com/track/3qOVMClhpgvWo1NLVeCn6T) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [TVアニメ『アイドリッシュセブン Second BEAT!』オリジナルサウンドトラック「BEYOND THE SHiNE」](https://open.spotify.com/album/0MgWGPhbTjNGKwLltSznhc) | 4:23 | 2022-06-09 |  |
+| [激情](https://open.spotify.com/track/3qOVMClhpgvWo1NLVeCn6T) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH), [IDOLiSH7](https://open.spotify.com/artist/0IcPjyCeXNduddHImlSKLH) | [TVアニメ『アイドリッシュセブン Second BEAT!』オリジナルサウンドトラック「BEYOND THE SHiNE」](https://open.spotify.com/album/0MgWGPhbTjNGKwLltSznhc) | 4:23 | 2022-06-09 | 2026-09-23 |
 | [甘さひかえめ](https://open.spotify.com/track/2FPdAw9tcOWuYZWmemOOmo) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [雨](https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k) | 5:23 | 2022-06-09 | 2022-07-29 |
 | [男子タルモノ!～MATSURI～](https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [男子タルモノ!～MATSURI～](https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr) | 3:50 | 2022-06-09 |  |
 | [解決ミステリー](https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [解決ミステリー](https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq) | 3:32 | 2022-06-09 |  |

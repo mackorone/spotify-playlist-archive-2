@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,405 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,408 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 42 | [Até o Mundo Acabar](https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Até o Mundo Acabar](https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm) | 3:24 |
 | 43 | [Tudo Vai Mudar](https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Tudo Vai Mudar](https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt) | 2:53 |
 | 44 | [Chore Não](https://open.spotify.com/track/5aC2Avnr6X3HVRJcu4R9ar) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Chore Não](https://open.spotify.com/album/24S4f5Zoxvtp846vd4DzOd) | 2:56 |
-| 45 | [Fake](https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Fake](https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd) | 2:36 |
-| 46 | [Bonjour](https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Bonjour](https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2) | 3:10 |
+| 45 | [Bonjour](https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c) | [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Rod Melim](https://open.spotify.com/artist/1jrAx0NUqEwHHkkxD2UbAM) | [Bonjour](https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2) | 3:10 |
+| 46 | [Fake](https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Fake](https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd) | 2:36 |
 | 47 | [Poetisas No Topo 2](https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Kmila Cdd](https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Poetisas No Topo 2](https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu) | 9:16 |
 | 48 | [Melhor Não](https://open.spotify.com/track/0HaI4Im8kE1YuZQRB7Kuaa) | [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Frio e Vento](https://open.spotify.com/album/2iUn2X1RgWoNH0XYR88W4Z) | 3:33 |
 | 49 | [Nosso Relacionamento](https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nosso Relacionamento](https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF) | 3:20 |
 | 50 | [Ele Me Falou](https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh) | [Ele Me Falou](https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh) | 3:29 |
 
-Snapshot ID: `aq8iAAAAAABjnNhZxgbzSnh9gos0xVzm`
+Snapshot ID: `arBzgAAAAABx84nu+1axOkkUInBAxa1j`

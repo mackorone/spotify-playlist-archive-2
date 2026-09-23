@@ -4,7 +4,7 @@
 
 > 蓮ノ空女学院スクールアイドルクラブ」の楽曲を1つのプレイリストで。Enjoy music from " LoveLive! HASU NO SORA JOGAKUIN SCHOOL IDOL CLUB"\. ©プロジェクトラブライブ！蓮ノ空女学院スクールアイドルクラブ
 
-105 songs - 6 hr 46 min
+106 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Yup! Yup! Yup!](https://open.spotify.com/track/7AN8QGE9n9yGjFVqOX0rQ7) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [夏めきペイン](https://open.spotify.com/album/3Vre0ze8CjAYmoNK11UIBC) | 3:37 | 2025-07-08 |  |
 | [いつでも、いつまでも](https://open.spotify.com/track/1PAoyDTPSKDAK8sFdDImy8) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [いつでも、いつまでも](https://open.spotify.com/album/4TcdV223zFv3NmTe8tm0yI) | 4:27 | 2025-07-08 |  |
 | [おいでよ！石川大観光](https://open.spotify.com/track/4EfoSsOAPAUbRiGZjhSxby) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [おいでよ！石川大観光](https://open.spotify.com/album/2LrYMDymVNT5bBK3RLIXfo) | 3:49 | 2025-07-08 |  |
+| [おいでよ！石川大観光Ⅱ](https://open.spotify.com/track/4RNa7VkSBaKnyV8IMfi3Ci) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [おいでよ！石川大観光Ⅱ](https://open.spotify.com/album/3IVw6r9oxnbKl7Mh2cWgFZ) | 4:13 | 2026-09-22 |  |
 | [かくれんぼしよう](https://open.spotify.com/track/7B2SpXv7P4TRr34MA6L5Us) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [全方位キュン♡](https://open.spotify.com/album/4uSBq63O22gnohnyE8pZac) | 3:36 | 2025-07-08 |  |
 | [とーひょー☆スター！](https://open.spotify.com/track/7FbU4Do8EeYd1bfqTfA6u9) | [蓮ノ空女学院スクールアイドルクラブ](https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb) | [アイドゥーミー！](https://open.spotify.com/album/1MK8vxdcbl42x8IeugnlJR) | 3:26 | 2025-07-08 |  |
 | [みらくりえーしょん](https://open.spotify.com/track/7nLo00R9CRhadDNcOlg29U) | [みらくらぱーく!](https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4) | [Dream Believers \(104期 Ver.\)](https://open.spotify.com/album/09e3NdPCk6KwvP4cR2MEgf) | 3:34 | 2025-07-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 11248,
+  "num_followers": 11247,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADTh+o7auOGpq96y/LpWJEi",
+  "snapshot_id": "arBzgAAAAACRRTtPIibdb2UZ8Q+QJAEh",
   "tracks": [
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way of Light",
-        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 196906,
-      "name": "My Way of Light",
-      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
+      "duration_ms": 212282,
+      "name": "American Dream",
+      "url": "https://open.spotify.com/track/1CYoOaiXFZgFmoy6LbNa2v"
     },
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Love",
-        "url": "https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L"
+        "name": "My Way of Light",
+        "url": "https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 212282,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/1CYoOaiXFZgFmoy6LbNa2v"
+      "duration_ms": 196906,
+      "name": "My Way of Light",
+      "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
     },
     {
       "added_at": null,

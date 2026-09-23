@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 605721,
+  "num_followers": 605857,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -803,30 +803,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Pininfarina (Remix)",
-        "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
-      },
-      "artists": [
-        {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Neo Pistea",
-          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 260787,
-      "name": "Pininfarina - Remix",
-      "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "Tacos Altos",
         "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
       },
@@ -855,6 +831,30 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Pininfarina (Remix)",
+        "url": "https://open.spotify.com/album/0CzV3HI7g08eTofa53ewRP"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 260787,
+      "name": "Pininfarina - Remix",
+      "url": "https://open.spotify.com/track/1mVLbFwad1wce7mAhFw2Ih"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
+        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
+      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Me Llamas",
         "url": "https://open.spotify.com/album/3acSJqw0A0SdZX6j1nfXxI"
       },
@@ -1111,26 +1131,6 @@
       "duration_ms": 327999,
       "name": "Me Llamas",
       "url": "https://open.spotify.com/track/3LgtCt7CVhMvNSMGoQD9i1"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
-        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Cazzu: Bzrp Music Sessions, Vol. 32/66",
-      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "KHEA: Bzrp Music Sessions, Vol. 34/66",
+        "url": "https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 198703,
+      "name": "KHEA: Bzrp Music Sessions, Vol. 34/66",
+      "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Crecia",
         "url": "https://open.spotify.com/album/308DxwOKHOWzIhnUIz0bpy"
       },
@@ -1227,26 +1247,6 @@
       "duration_ms": 270000,
       "name": "Crecia",
       "url": "https://open.spotify.com/track/7GfSJBI4qbAG40RTa9jhVu"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "KHEA: Bzrp Music Sessions, Vol. 34/66",
-        "url": "https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 198703,
-      "name": "KHEA: Bzrp Music Sessions, Vol. 34/66",
-      "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Bando Boyz Free",
+        "url": "https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 179244,
+      "name": "Bando Boyz Free",
+      "url": "https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Fresko",
         "url": "https://open.spotify.com/album/5CF5dNA0aLDCPlgS4DlAia"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 201290,
       "name": "Fresko",
       "url": "https://open.spotify.com/track/2Zbw0nOYZoKU27sOYbrsv7"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Bando Boyz Free",
-        "url": "https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 179244,
-      "name": "Bando Boyz Free",
-      "url": "https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr"
     },
     {
       "added_at": "2026-08-11 14:10:49",

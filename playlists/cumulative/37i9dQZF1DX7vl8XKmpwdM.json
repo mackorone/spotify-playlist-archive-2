@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "Aane Wala Star",
+        "url": "https://open.spotify.com/album/6oh1KtCCDzeuzdFbZV1AW5"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Dholu bholu",
+          "url": "https://open.spotify.com/artist/3P1t2nnqpPMD8auDRSSZy6"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132712,
+      "name": "Aane Wala Star",
+      "url": "https://open.spotify.com/track/34520Ev0rl6reqiIKSr2eK"
+    },
+    {
+      "album": {
         "name": "Aasa Kooda (From \"Think Indie\")",
         "url": "https://open.spotify.com/album/4AGLzJHGevDOnuHsQ0gxO5"
       },
@@ -2154,7 +2176,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 240224,
       "name": "God Bless U",
       "url": "https://open.spotify.com/track/29LS3SQD2KdQDRqYCP0yS5"
@@ -2586,6 +2608,32 @@
       "duration_ms": 260000,
       "name": "Inna Mylu - From \"Lift\"",
       "url": "https://open.spotify.com/track/5M0osd70WeG2LaAqvbe89r"
+    },
+    {
+      "album": {
+        "name": "Irumudi Kattu",
+        "url": "https://open.spotify.com/album/0Ll3ZRvsBv9h7CnZeJTs98"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Ananthu",
+          "url": "https://open.spotify.com/artist/2UbN2AxPOv8kc1x4J4SGjc"
+        },
+        {
+          "name": "Balaji Venugopal",
+          "url": "https://open.spotify.com/artist/2AgNfl8BFrDlCLKeZgBZli"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249115,
+      "name": "Irumudi Kattu",
+      "url": "https://open.spotify.com/track/3WJIfLrfKIYdnzIUMnoWXI"
     },
     {
       "album": {
@@ -4754,7 +4802,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 198101,
       "name": "Og Sambavam",
       "url": "https://open.spotify.com/track/0PUsbQjwaYos1H2zRHOaJD"
@@ -4784,6 +4832,36 @@
       "duration_ms": 198101,
       "name": "Og Sambavam (From \"Good Bad Ugly\")",
       "url": "https://open.spotify.com/track/361FMJC5uRSXzato4NE5Zg"
+    },
+    {
+      "album": {
+        "name": "Ooroda Oththa Don (From \"Baththa\")",
+        "url": "https://open.spotify.com/album/0Tnilwc3EzTS1KSGvUUnFr"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Vangal Pulla Vicky",
+          "url": "https://open.spotify.com/artist/5eJHTflIBLyKN3EvU1rDAu"
+        },
+        {
+          "name": "Thamizh Aadhavan",
+          "url": "https://open.spotify.com/artist/2naoxh21roEyvOd7NWwDUb"
+        },
+        {
+          "name": "KK Nagar Gana Jeeva",
+          "url": "https://open.spotify.com/artist/1cUDO71ZRpdJdV6zwSGwyO"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211948,
+      "name": "Ooroda Oththa Don - From \"Baththa\"",
+      "url": "https://open.spotify.com/track/0pTGPqGEP0nziPXhOZrbuM"
     },
     {
       "album": {
@@ -5698,7 +5776,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 266134,
       "name": "Rai Rai Raa Raa (From \"Peddi\") [TAMIL]",
       "url": "https://open.spotify.com/track/7ISILI8vaVUdpETDbXuPtk"

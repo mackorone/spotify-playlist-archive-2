@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 34193,
+  "num_followers": 34207,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -91,26 +91,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Cavaquinho",
-        "url": "https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS"
-      },
-      "artists": [
-        {
-          "name": "Oaty.",
-          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
-        },
-        {
-          "name": "Chancla",
-          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
-        }
-      ],
-      "duration_ms": 138795,
-      "name": "Cavaquinho",
-      "url": "https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Barrio",
         "url": "https://open.spotify.com/album/0imkduEmra1IizYfmE9kwS"
       },
@@ -127,6 +107,26 @@
       "duration_ms": 125861,
       "name": "Barrio",
       "url": "https://open.spotify.com/track/7zftgI2rGLbbhItcjdIbHc"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Cavaquinho",
+        "url": "https://open.spotify.com/album/3lzaTrd6xnDq33RyIETTfS"
+      },
+      "artists": [
+        {
+          "name": "Oaty.",
+          "url": "https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU"
+        },
+        {
+          "name": "Chancla",
+          "url": "https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs"
+        }
+      ],
+      "duration_ms": 138795,
+      "name": "Cavaquinho",
+      "url": "https://open.spotify.com/track/05bT4XYxT4fnBgfrpvu6Rw"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -515,6 +515,30 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Monstera",
+        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Acrylic Label",
+          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
+        }
+      ],
+      "duration_ms": 144333,
+      "name": "Monstera",
+      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Girasoles",
         "url": "https://open.spotify.com/album/3Umn5tilaSDrOEdXObGBFv"
       },
@@ -539,30 +563,6 @@
       "duration_ms": 123810,
       "name": "Girasoles",
       "url": "https://open.spotify.com/track/3YAT7ZuCsfFQCF9DnQCpBB"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Monstera",
-        "url": "https://open.spotify.com/album/30UdncbDNXsZjQUqXYKEg5"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Acrylic Label",
-          "url": "https://open.spotify.com/artist/2lxS712XGJoaF1xUVsOz2F"
-        }
-      ],
-      "duration_ms": 144333,
-      "name": "Monstera",
-      "url": "https://open.spotify.com/track/3EFGb8vn5z3sYG8QTVLb70"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -759,22 +759,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Metro Mexico",
-        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Metro Mexico",
-      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "De La Selva",
         "url": "https://open.spotify.com/album/0nOAvowyJmiZVhMvN5Y3Li"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 240981,
       "name": "Chipek",
       "url": "https://open.spotify.com/track/2mH8lUthrUdYuahDXfJGlI"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Metro Mexico",
+        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Metro Mexico",
+      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -851,6 +851,26 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
+        "name": "Viendo el mundial con pap\u00e1",
+        "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 129854,
+      "name": "Viendo el mundial con pap\u00e1",
+      "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
         "name": "Sunset on Vallarta",
         "url": "https://open.spotify.com/album/0zst4Hkj5ewPQQXhJRNbbh"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 134400,
       "name": "Fr\u00edo",
       "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
-        "name": "Viendo el mundial con pap\u00e1",
-        "url": "https://open.spotify.com/album/3BeOJF0rFsw8HY32U54oOW"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 129854,
-      "name": "Viendo el mundial con pap\u00e1",
-      "url": "https://open.spotify.com/track/4WL5S9cINoUEez1KCBOM0F"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "un atardecer a tu lado",
-        "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
-      },
-      "artists": [
-        {
-          "name": "neptune kid",
-          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
-        }
-      ],
-      "duration_ms": 101065,
-      "name": "bailar contigo",
-      "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Mi\u00e9rcoles Azul",
         "url": "https://open.spotify.com/album/1iVDIHm1Zt46HjCsgPYFvI"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 167857,
       "name": "Mi\u00e9rcoles Azul",
       "url": "https://open.spotify.com/track/4FgibQuPiwuS5DYHxVvoAL"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "un atardecer a tu lado",
+        "url": "https://open.spotify.com/album/780CebS2TzpEVOOXivIY2l"
+      },
+      "artists": [
+        {
+          "name": "neptune kid",
+          "url": "https://open.spotify.com/artist/7GjoXTEjUzwT08uo4DRMRA"
+        }
+      ],
+      "duration_ms": 101065,
+      "name": "bailar contigo",
+      "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Beautiful Lights",
-        "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
-      },
-      "artists": [
-        {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
-        }
-      ],
-      "duration_ms": 148860,
-      "name": "Diamond Sparkle",
-      "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Quiet Process",
         "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 168103,
       "name": "Trust",
       "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Beautiful Lights",
+        "url": "https://open.spotify.com/album/3ok7EPy5XclmIyEs3XgPtR"
+      },
+      "artists": [
+        {
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+        }
+      ],
+      "duration_ms": 148860,
+      "name": "Diamond Sparkle",
+      "url": "https://open.spotify.com/track/7d08Kkyq06ODhGR1wS7w1x"
     },
     {
       "added_at": "2025-04-04 04:00:19",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2025-04-04 04:00:19",
       "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 122273,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
-    },
-    {
-      "added_at": "2025-04-04 04:00:19",
-      "album": {
         "name": "Hora Azul",
         "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 165976,
       "name": "Lunes Azul",
       "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
+    },
+    {
+      "added_at": "2025-04-04 04:00:19",
+      "album": {
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa"
+      },
+      "artists": [
+        {
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
+        }
+      ],
+      "duration_ms": 122273,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz"
     },
     {
       "added_at": "2025-04-04 04:00:19",

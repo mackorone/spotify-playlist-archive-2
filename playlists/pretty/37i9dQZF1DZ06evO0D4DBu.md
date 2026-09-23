@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,710 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,711 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 18 | [Juice](https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap \(10th Anniversary \- Complete Edition\)](https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1) | 3:35 |
 | 19 | [Same Drugs](https://open.spotify.com/track/6m9qPYXmhge2QhBLfFKnVF) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 4:17 |
 | 20 | [The Way \(feat\. Chance the Rapper\)](https://open.spotify.com/track/0Kz9XqLxIeMQveGISrWvz3) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [You Should Be Here](https://open.spotify.com/album/3JFEZqTae3svhW8226cnNL) | 4:22 |
-| 21 | [Living Single](https://open.spotify.com/track/36xxq7VDZZsGwARsn6Clo7) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Living Single](https://open.spotify.com/album/02pV9mCJ2PJNPVWyOFTv37) | 4:36 |
-| 22 | [Acid Rain](https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap](https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid) | 3:36 |
+| 21 | [Acid Rain](https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap](https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid) | 3:36 |
+| 22 | [Living Single](https://open.spotify.com/track/36xxq7VDZZsGwARsn6Clo7) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Living Single](https://open.spotify.com/album/02pV9mCJ2PJNPVWyOFTv37) | 4:36 |
 | 23 | [Juke Jam \(feat\. Justin Bieber & Towkio\)](https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:39 |
 | 24 | [Bad Idea \(feat\. Chance the Rapper\)](https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:54 |
 | 25 | [Need To Know \(feat\. Chance The Rapper\)](https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 49 | [Bad Boys 2](https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [Bad Boys 2](https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW) | 2:13 |
 | 50 | [14,400 Minutes](https://open.spotify.com/track/2C4qO9u7TFMm4gt5MReyAD) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [10 Day](https://open.spotify.com/album/71BfvzpZmuVgW6zdQ93bin) | 2:08 |
 
-Snapshot ID: `aq8iAAAAAAAtpr2DrI7ZS5DtRjKbVqnC`
+Snapshot ID: `arBzgAAAAADAS76ySL72YniLIvF4xx/2`

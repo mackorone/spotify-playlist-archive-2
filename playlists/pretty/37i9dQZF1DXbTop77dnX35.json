@@ -1,12 +1,12 @@
 {
   "description": "New Music from Seyi Vibez, BNXN, Olamide, Clean Bandit, M.anifest, and more ",
-  "num_followers": 218786,
+  "num_followers": 218867,
   "original_name": "New Music Friday Naija",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAISsr26+usDU9fstNv2spz32IW9O",
+  "snapshot_id": "AAAAAM96u7T092NC5KbJtBZNKIciIq8K",
   "tracks": [
     {
       "added_at": "2026-09-18 00:01:29",
@@ -700,12 +700,12 @@
           "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
         },
         {
-          "name": "Bkay EastGaad",
-          "url": "https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW"
-        },
-        {
           "name": "Nextee",
           "url": "https://open.spotify.com/artist/6Vtd4CyHV0peHLymMcKCXu"
+        },
+        {
+          "name": "Bkay EastGaad",
+          "url": "https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW"
         }
       ],
       "duration_ms": 160551,

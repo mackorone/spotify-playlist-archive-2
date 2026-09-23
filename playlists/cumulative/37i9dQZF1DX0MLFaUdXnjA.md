@@ -4,7 +4,7 @@
 
 > Sit back and relax to the chillest pop\.  Cover: Ashe
 
-2,741 songs - 6 day 3 hr 49 min
+2,742 songs - 6 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,7 +454,7 @@
 | [Clear My Head](https://open.spotify.com/track/0Z0fvzxTJK8TXQat8bqVYn) | [Leah Nobel](https://open.spotify.com/artist/5WHKBKrvTBMPoQX3v3Bq8J) | [Love, Death, Etc.](https://open.spotify.com/album/3nGTAuv2q3JkQrToMhdGIk) | 3:16 | 2021-06-12 | 2021-07-17 |
 | [Clementine](https://open.spotify.com/track/5rpxIbX4f1q9ZpiIxGPeSl) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Clementine](https://open.spotify.com/album/0Rn7zIvRdlXAcODx7C7IoX) | 3:36 | 2021-09-04 | 2021-09-18 |
 | [Click](https://open.spotify.com/track/7cAFrpq9c6nJJcnF04ah39) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Silver Lining II](https://open.spotify.com/album/1XXSATOgeCXLaDRLDGfs6Y) | 3:07 | 2021-06-19 | 2021-09-04 |
-| [Clockwork](https://open.spotify.com/track/3cZHlJKR00a64Fuvn9c2fF) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Clockwork](https://open.spotify.com/album/1jkeyPuT9E74tt3Gn1HeNT) | 3:28 | 2026-04-24 |  |
+| [Clockwork](https://open.spotify.com/track/3cZHlJKR00a64Fuvn9c2fF) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Clockwork](https://open.spotify.com/album/1jkeyPuT9E74tt3Gn1HeNT) | 3:28 | 2026-04-24 | 2026-09-23 |
 | [Closer \(From “The Idea of You”\)](https://open.spotify.com/track/0MUt629ACWlm5ncrqlRlTv) | [August Moon](https://open.spotify.com/artist/4INWJGqEB91KDU1xAwLRaA) | [Closer \(From “The Idea of You”\)](https://open.spotify.com/album/7exYFqgMgVbJYQhpBCUtBi) | 2:47 | 2024-04-12 | 2024-06-08 |
 | [Closest Thing](https://open.spotify.com/track/2VQ8sUv17EhbDYPTFikF1J) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [Closest Thing](https://open.spotify.com/album/3F2Oyu797ixoao5346Hu5h) | 2:59 | 2025-05-23 | 2025-07-12 |
 | [Closure](https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Closure](https://open.spotify.com/album/7r0izRbbyoAQc3C2I4JO7K) | 3:16 | 2021-04-03 | 2021-07-04 |
@@ -1608,6 +1608,7 @@
 | [My Sunny Day \- Kina Remix](https://open.spotify.com/track/17uhetjXsCctreur8sxfqo) | [Ted Fresco](https://open.spotify.com/artist/2lH1vV1rGOw0ETBmnTAyvZ), [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v), [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF) | [My Sunny Day \(Kina Remix\)](https://open.spotify.com/album/4GKIrekHWizVNtsyHFeWgV) | 1:56 | 2022-03-25 | 2022-09-28 |
 | [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 | 2020-07-24 | 2020-08-21 |
 | [My Wife & 2 Dogs](https://open.spotify.com/track/4v2sn6bAwasHE6SPY0zil2) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [My Wife & 2 Dogs](https://open.spotify.com/album/17xtwQqIkV3lbQNlzDVFuC) | 2:18 | 2021-02-19 | 2021-04-24 |
+| [Myth Of You](https://open.spotify.com/track/6IfO15ZbPrp48eCq8Zkmsk) | [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Everything's Coming Up Roses](https://open.spotify.com/album/3pjaIC5ZO4PyHI9dMuwMsv) | 3:38 | 2026-09-22 |  |
 | [N Side](https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Apollo XXI](https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE) | 3:44 | 2021-03-26 | 2021-04-03 |
 | [Nail In The Coffin](https://open.spotify.com/track/3BxRbDLMu7dVXCgVuhYzDI) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Nail In The Coffin](https://open.spotify.com/album/42gDWkXhiRGpSrYKVVaMAL) | 3:45 | 2023-04-21 | 2023-07-22 |
 | [Natalie](https://open.spotify.com/track/3axvKVVUSPSZ45ccjEF7MD) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Natalie](https://open.spotify.com/album/4TuCf4bW5jxNuk47vkXESC) | 3:49 | 2024-01-05 | 2024-01-27 |

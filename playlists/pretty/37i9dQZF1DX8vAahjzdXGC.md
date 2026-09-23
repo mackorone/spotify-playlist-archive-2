@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari no na, ROSÉ, Miley Cyrus, Dominic Fike, Piche Kota, Akbar Chalay, Mingse dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,133 likes - 113 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,075 likes - 113 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 17 | [Tandem Bike](https://open.spotify.com/track/6NUrORpYDdSFLYk96VrQlr) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [Too Close For Running](https://open.spotify.com/album/5rkPZZREcGzY34cLajIzcg) | 2:52 |
 | 18 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
 | 19 | [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 |
-| 20 | [Last Call \(Ewh\)](https://open.spotify.com/track/7t9RtbN6jImqmnn3uaMycU) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Dexfa](https://open.spotify.com/artist/23IhEjICWUc9WGFjKuCXrs), [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07), [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [Last Call \(Ewh\)](https://open.spotify.com/album/2TpNYTar0e5DHHzUrbj9Yi) | 3:01 |
+| 20 | [Last Call \(Ewh\)](https://open.spotify.com/track/7t9RtbN6jImqmnn3uaMycU) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07), [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu), [Dexfa](https://open.spotify.com/artist/23IhEjICWUc9WGFjKuCXrs) | [Last Call \(Ewh\)](https://open.spotify.com/album/2TpNYTar0e5DHHzUrbj9Yi) | 3:01 |
 | 21 | [Nona Sayange](https://open.spotify.com/track/3UNz1yeL1jTDOnzrhgxj4H) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Asmara and Swag](https://open.spotify.com/album/5Z1rtvLxAY5ZSQflKm8j39) | 3:15 |
 | 22 | [DUNGDAT](https://open.spotify.com/track/3H51Qgx4OU7cX5gV0zWzdE) | [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [DUNGDAT](https://open.spotify.com/album/2aSd9KavccUhHUegttWrej) | 3:07 |
 | 23 | [Astaga Naga](https://open.spotify.com/track/2APBM7zzzGs4fRzIsIzVSr) | [King Nassar](https://open.spotify.com/artist/2SsGOU0OZ5ElIz6PN7aSYg) | [Astaga Naga](https://open.spotify.com/album/6LjkIK54rYLDLQF76kpy5n) | 4:02 |

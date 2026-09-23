@@ -1,6 +1,6 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483965,
+  "num_followers": 483940,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Naked At Your Door",
-        "url": "https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4"
-      },
-      "artists": [
-        {
-          "name": "Day We Ran",
-          "url": "https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Stranger (Mariachi)",
         "url": "https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 204626,
       "name": "Stranger - Mariachi",
       "url": "https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Naked At Your Door",
+        "url": "https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4"
+      },
+      "artists": [
+        {
+          "name": "Day We Ran",
+          "url": "https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -651,22 +651,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Ooooo",
-        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
-      },
-      "artists": [
-        {
-          "name": "Easy Honey",
-          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
-        }
-      ],
-      "duration_ms": 154811,
-      "name": "Alright, Alright",
-      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Read My Mind",
         "url": "https://open.spotify.com/album/2zkiJVltIWQUHL5UDOzntc"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 212490,
       "name": "Read My Mind",
       "url": "https://open.spotify.com/track/6L0BqIVT6KY4QhgDeexcrY"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -763,6 +763,22 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
+        "name": "Mushroom",
+        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
         "name": "Thrift Store",
         "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Mushroom",
-        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+        "name": "Ozonia",
+        "url": "https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal"
       },
       "artists": [
         {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+          "name": "The Bures Band",
+          "url": "https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV"
         }
       ],
-      "duration_ms": 205974,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
+      "duration_ms": 344666,
+      "name": "SLPM",
+      "url": "https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -843,18 +859,18 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Ozonia",
-        "url": "https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal"
+        "name": "LONG LIVE THE WILDERNESS",
+        "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
       },
       "artists": [
         {
-          "name": "The Bures Band",
-          "url": "https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV"
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
         }
       ],
-      "duration_ms": 344666,
-      "name": "SLPM",
-      "url": "https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP"
+      "duration_ms": 286209,
+      "name": "LONG LIVE THE WILDERNESS",
+      "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -875,34 +891,18 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "LONG LIVE THE WILDERNESS",
-        "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
+        "name": "Out Of Here",
+        "url": "https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx"
       },
       "artists": [
         {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+          "name": "The Belair Lip Bombs",
+          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
         }
       ],
-      "duration_ms": 286209,
-      "name": "LONG LIVE THE WILDERNESS",
-      "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
-        "name": "We Gotta Groove (2025 Mix)",
-        "url": "https://open.spotify.com/album/3WhrPteS4a0RkneRARgAiB"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 129893,
-      "name": "We Gotta Groove - 2025 Mix",
-      "url": "https://open.spotify.com/track/7xwuRnHSNZMF9cTyQ9Empv"
+      "duration_ms": 151838,
+      "name": "Out Of Here",
+      "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -923,18 +923,18 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Out Of Here",
-        "url": "https://open.spotify.com/album/1CRnBfgRX2TzO7sKeJVzJx"
+        "name": "We Gotta Groove (2025 Mix)",
+        "url": "https://open.spotify.com/album/3WhrPteS4a0RkneRARgAiB"
       },
       "artists": [
         {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 151838,
-      "name": "Out Of Here",
-      "url": "https://open.spotify.com/track/3HiH0AHki9UZDRfXnjL0dJ"
+      "duration_ms": 129893,
+      "name": "We Gotta Groove - 2025 Mix",
+      "url": "https://open.spotify.com/track/7xwuRnHSNZMF9cTyQ9Empv"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Recycle",
-        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
-      },
-      "artists": [
-        {
-          "name": "loren north",
-          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
-        }
-      ],
-      "duration_ms": 204342,
-      "name": "Recycle",
-      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "MOVING ON",
         "url": "https://open.spotify.com/album/2PaJHZzyi7UZJBX57mdbMW"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 248000,
       "name": "MOVING ON",
       "url": "https://open.spotify.com/track/52gV8gK6iG1QXBbAZmrskz"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Recycle",
+        "url": "https://open.spotify.com/album/5UOkH3bvPVKhPyq4iEc9L2"
+      },
+      "artists": [
+        {
+          "name": "loren north",
+          "url": "https://open.spotify.com/artist/2rBIJIECWuDEzaiewMf0Kr"
+        }
+      ],
+      "duration_ms": 204342,
+      "name": "Recycle",
+      "url": "https://open.spotify.com/track/30bPsTvD3ikvd5IvRudsPI"
     },
     {
       "added_at": "2026-09-17 14:00:53",

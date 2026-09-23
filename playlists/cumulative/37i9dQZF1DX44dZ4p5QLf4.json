@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hand-picked releases from the new wave in soul. Cover: F\u00c4M",
+  "description": "Hand-picked releases from the new wave in soul. Cover: Shamis",
   "name": "Soul Currents",
   "tracks": [
     {
@@ -217,6 +217,24 @@
     },
     {
       "album": {
+        "name": "All Okay",
+        "url": "https://open.spotify.com/album/3TybNP0JDEg1wsCblw2hB0"
+      },
+      "artists": [
+        {
+          "name": "Hannah Sopacuwa",
+          "url": "https://open.spotify.com/artist/6DsCVmUQa4qFrh86EaMpzH"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146803,
+      "name": "All Okay",
+      "url": "https://open.spotify.com/track/5gZwT7zUt45ouvt8dBtSJn"
+    },
+    {
+      "album": {
         "name": "When It's All Said And Done... Take Time",
         "url": "https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd"
       },
@@ -246,7 +264,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 221228,
       "name": "Almost There",
       "url": "https://open.spotify.com/track/4PUwcojfOWPrGvEcPw1MOy"
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 209760,
       "name": "Can't Wait to Meet You",
       "url": "https://open.spotify.com/track/4Btm2bOAkyMFxSRSrpnasS"
@@ -1998,7 +2016,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 202340,
       "name": "Change Me",
       "url": "https://open.spotify.com/track/1N2T53a0By0Bek0jS3zqrW"
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 189763,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/03wxFeOZ6eqS7v53yNFdZg"
@@ -3429,6 +3447,24 @@
     },
     {
       "album": {
+        "name": "Feel At Home",
+        "url": "https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG"
+      },
+      "artists": [
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145822,
+      "name": "Feel At Home",
+      "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
+    },
+    {
+      "album": {
         "name": "Feeling Blue",
         "url": "https://open.spotify.com/album/4SBXfE0Szlqg6nUO19tzzH"
       },
@@ -4030,7 +4066,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 175750,
       "name": "Get Away From It",
       "url": "https://open.spotify.com/track/2r4cKBorqcpsCUG1J09NFD"
@@ -4224,7 +4260,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 156363,
       "name": "Glow",
       "url": "https://open.spotify.com/track/0X9ViQWrgaSzDE7mACBH4R"
@@ -4698,7 +4734,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 168791,
       "name": "Heat",
       "url": "https://open.spotify.com/track/2sFhb5wOheqeUU3vAa5Nmt"
@@ -5433,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "I Am Human",
+        "url": "https://open.spotify.com/album/6hSE8OSbErozqIr5SEuFYs"
+      },
+      "artists": [
+        {
+          "name": "GeeJay",
+          "url": "https://open.spotify.com/artist/43l4GGl1QwpqP7R2k43M9W"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175136,
+      "name": "I Am Human",
+      "url": "https://open.spotify.com/track/0pI9nSJdUDgpG7rwc7B4CE"
+    },
+    {
+      "album": {
         "name": "i believe",
         "url": "https://open.spotify.com/album/2K0DUYJpUvufJ9ixM67PVE"
       },
@@ -5892,7 +5946,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 308551,
       "name": "Imperfections",
       "url": "https://open.spotify.com/track/6S6MXD4L4Zo8rUfUMTPM9i"
@@ -7538,7 +7592,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 285799,
       "name": "MEET THE SUN",
       "url": "https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa"
@@ -7836,7 +7890,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 152267,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/7KhtBkiYMt0ewSHsXZJHlq"
@@ -8630,7 +8684,7 @@
       ],
       "date_added": "2026-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 176273,
       "name": "Only Love\u2019s to Blame",
       "url": "https://open.spotify.com/track/6aA0wenLdVQESqvB3pmdMe"
@@ -8710,7 +8764,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 190458,
       "name": "Orange Wine",
       "url": "https://open.spotify.com/track/7gZWypmpJYDJB7DV8p0Vjk"
@@ -8986,7 +9040,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 205301,
       "name": "Pay Day",
       "url": "https://open.spotify.com/track/58TQZqfL0jKekC40I6pVPu"
@@ -9390,7 +9444,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 278425,
       "name": "Rain Down",
       "url": "https://open.spotify.com/track/5KHnTI1ASa7uPyXV5gzY4N"
@@ -11034,7 +11088,7 @@
       ],
       "date_added": "2025-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 192144,
       "name": "Sorry Not Sorry (feat. Braxton Cook & Tallulah Rose)",
       "url": "https://open.spotify.com/track/29x4dI3F48pWHQvPKNZLVk"
@@ -11273,6 +11327,28 @@
     },
     {
       "album": {
+        "name": "Stitch or Gantu",
+        "url": "https://open.spotify.com/album/08b5A9eIWVojq1GQATB6cl"
+      },
+      "artists": [
+        {
+          "name": "Carbonara Collective",
+          "url": "https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6"
+        },
+        {
+          "name": "ZYHH",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150754,
+      "name": "Stitch or Gantu",
+      "url": "https://open.spotify.com/track/3tt296QleD9BM59VWBPRq2"
+    },
+    {
+      "album": {
         "name": "Stop Calling",
         "url": "https://open.spotify.com/album/1wvNp6UtLDiudcC94mauni"
       },
@@ -11292,6 +11368,24 @@
       "duration_ms": 203000,
       "name": "Stop Calling",
       "url": "https://open.spotify.com/track/3iuU4Jg2XftluSKfSv22KL"
+    },
+    {
+      "album": {
+        "name": "Stop Signs / Stop Signs Pt. 2",
+        "url": "https://open.spotify.com/album/3tFd67koMuFUz6Hd97V6bn"
+      },
+      "artists": [
+        {
+          "name": "Shamis",
+          "url": "https://open.spotify.com/artist/6zJSQoZfurX2beU3qbe717"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244705,
+      "name": "Stop Signs",
+      "url": "https://open.spotify.com/track/33DqDuY7zb0H1BLl9HXbnV"
     },
     {
       "album": {
@@ -12138,6 +12232,24 @@
       "duration_ms": 234285,
       "name": "That",
       "url": "https://open.spotify.com/track/2iCh6HCII4LRuxiQJxklsu"
+    },
+    {
+      "album": {
+        "name": "That's Me",
+        "url": "https://open.spotify.com/album/4qr4wscnEzB7I1p72vJGj6"
+      },
+      "artists": [
+        {
+          "name": "Ebony Winter",
+          "url": "https://open.spotify.com/artist/1Ekh3b1IXXH4buiLX1oBJk"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159882,
+      "name": "That's Me",
+      "url": "https://open.spotify.com/track/0JlJiS9UGwwuFuKvy302ro"
     },
     {
       "album": {
@@ -13178,7 +13290,7 @@
       ],
       "date_added": "2026-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 198894,
       "name": "Waiting For You (feat. Reggie Dartey)",
       "url": "https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M"

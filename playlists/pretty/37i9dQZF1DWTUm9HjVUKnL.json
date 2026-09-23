@@ -1,13 +1,77 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Mack Keane",
-  "num_followers": 240031,
+  "num_followers": 240034,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB/cfiRhFqU74wTxxDnKQJ/cVI8v",
+  "snapshot_id": "AAAAACY2T6MDhMwyDbFBXDSt3IV/qK0b",
   "tracks": [
+    {
+      "added_at": "2026-09-22 13:49:34",
+      "album": {
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
+    },
+    {
+      "added_at": "2026-09-22 13:49:34",
+      "album": {
+        "name": "Blood Bank (Spotify Singles)",
+        "url": "https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 305210,
+      "name": "Blood Bank - Spotify Singles",
+      "url": "https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w"
+    },
+    {
+      "added_at": "2026-09-22 13:49:34",
+      "album": {
+        "name": "Martha Sways (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3Gb20a0lgpweeO3k98i2vg"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 296192,
+      "name": "Martha Sways - Spotify Singles",
+      "url": "https://open.spotify.com/track/0o96BRVCx7wR4NtUHsvbCN"
+    },
+    {
+      "added_at": "2026-09-22 13:51:49",
+      "album": {
+        "name": "Bless the Telephone - Spotify Singles",
+        "url": "https://open.spotify.com/album/4xBa5tQ9IJNWVoq482z3c2"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "duration_ms": 138242,
+      "name": "Bless the Telephone - Spotify Singles",
+      "url": "https://open.spotify.com/track/61OLbx1bhsaYJAlkpxb2Xj"
+    },
     {
       "added_at": "2026-09-14 19:52:08",
       "album": {

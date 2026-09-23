@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-1,315 songs - 3 day 5 hr 17 min
+1,316 songs - 3 day 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [All Through the Night](https://open.spotify.com/track/6mLeXPjNAiOcyY3Ae2bQ6M) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [I Have a Dream.](https://open.spotify.com/album/5BsKu3LytHgLEfYRAdBKWn) | 3:01 | 2023-02-07 | 2023-02-09 |
 | [Always](https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Always](https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp) | 3:27 | 2023-06-22 | 2023-07-02 |
 | [Always Get Through To You](https://open.spotify.com/track/0g8nIlk2ltpZP8lYlPvRx1) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [When Will We Land?](https://open.spotify.com/album/5LASDBDtLLEt3QqVtgOoaM) | 4:06 | 2023-10-26 | 2023-12-13 |
-| [Always on Your Side](https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Always on Your Side](https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0) | 3:28 | 2026-08-12 |  |
+| [Always on Your Side](https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Always on Your Side](https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0) | 3:28 | 2026-08-12 | 2026-09-23 |
 | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/track/29k925te93jCuDE5xj0xIV) | [Roomies](https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt) | [Amai Yume \~Sweet Dreams\~](https://open.spotify.com/album/3k9HxwEgXVk4zKyfBlM0rp) | 4:30 | 2023-01-19 | 2023-03-01 |
 | [Amber](https://open.spotify.com/track/0HIcErGFH4fNMUfw6YK0ge) | [Kenny](https://open.spotify.com/artist/3i0SazQig71kiRdJLBkq9p) | [Amber](https://open.spotify.com/album/35PZxX2K1g5oZGm5f1ElmN) | 2:36 | 2023-09-05 | 2023-10-06 |
 | [Amber \- DJ Mitsu the Beats Remix](https://open.spotify.com/track/5qTzeMG3WMLV0Q77gROV1B) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc), [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Amber \(DJ Mitsu the Beats Remix\)](https://open.spotify.com/album/4cSDPs6LlsuAViLRHaovGR) | 3:26 | 2022-10-20 | 2022-10-26 |
@@ -940,6 +940,7 @@
 | [Slow Motion](https://open.spotify.com/track/5zuV1H77nGNalXohUCsjTY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Slow Motion](https://open.spotify.com/album/5yOtAcU6AkGjqjiutHxawu) | 3:23 | 2025-01-29 | 2025-04-12 |
 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 | 2026-03-04 | 2026-05-01 |
 | [Slug](https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Slug](https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK) | 3:00 | 2024-02-29 | 2024-05-07 |
+| [small talk](https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [small talk](https://open.spotify.com/album/2REu11evStja6Sagu3Tmer) | 2:58 | 2026-09-16 |  |
 | [So Beautiful](https://open.spotify.com/track/6Ek1zQgHRuUvngPQAFYoVw) | [Johnny Venus](https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [So Beautiful](https://open.spotify.com/album/1vXBs4AY9fjXsp8tivxXwb) | 3:47 | 2025-03-04 | 2025-06-11 |
 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 | 2025-10-01 |  |
 | [So In Love](https://open.spotify.com/track/3rGJn2JwFW26XDfE4Ww1MF) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [So In Love](https://open.spotify.com/album/1boCyrHryblqZSM5cbDXiQ) | 4:06 | 2024-05-08 | 2024-07-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Taio Cruz. The essential tracks, all in one playlist.",
-  "num_followers": 19317,
+  "num_followers": 19319,
   "original_name": "This Is Taio Cruz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAAYBkHTz3ehjbaGo5ffN1Xl",
+  "snapshot_id": "arBzgAAAAAA7gW6N72/aw0kltzt49qZ/",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me On You",
-        "url": "https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        }
-      ],
-      "duration_ms": 196222,
-      "name": "Me On You",
-      "url": "https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Row The Body (feat. French Montana)",
         "url": "https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR"
       },
@@ -447,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rokstarr (Special Edition)",
+        "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
+      },
+      "artists": [
+        {
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
+        }
+      ],
+      "duration_ms": 217280,
+      "name": "No Other One - Remastered",
+      "url": "https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp"
       },
@@ -463,18 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rokstarr (Special Edition)",
-        "url": "https://open.spotify.com/album/3h80tQ7iMvnWIE7EdtRhEm"
+        "name": "Me On You",
+        "url": "https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme"
       },
       "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
         {
           "name": "Taio Cruz",
           "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         }
       ],
-      "duration_ms": 217280,
-      "name": "No Other One - Remastered",
-      "url": "https://open.spotify.com/track/5kcgBrYujE674rAnACCNkM"
+      "duration_ms": 196222,
+      "name": "Me On You",
+      "url": "https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM"
     },
     {
       "added_at": null,

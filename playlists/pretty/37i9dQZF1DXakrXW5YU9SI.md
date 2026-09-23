@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,490 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,559 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 25 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
 | 26 | [Daughter from Hell](https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:04 |
 | 27 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
-| 28 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
-| 29 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
-| 30 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
-| 31 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
-| 32 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
+| 28 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
+| 29 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
+| 30 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
+| 31 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
+| 32 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
 | 33 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
 | 34 | [Później Ci opowiem](https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Później Ci opowiem](https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh) | 3:05 |
 | 35 | [cigarette smoke](https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 5:40 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 55 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |
 | 56 | [Kafejka na Ochocie](https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG) | [Fida](https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6) | [Kafejka na Ochocie](https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD) | 3:10 |
 | 57 | [czekaj!](https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [szpila](https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos) | 3:01 |
-| 58 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 |
-| 59 | [Pockets](https://open.spotify.com/track/751tUKr45Dpv1IJESgZp6K) | [Amor y Vida](https://open.spotify.com/artist/4WbjNKMrENIAYaDZmHIMoc) | [Pockets](https://open.spotify.com/album/0KSC9lDzmynrSiUDWbN8Pd) | 4:28 |
-| 60 | [Co jeśli](https://open.spotify.com/track/0YehOz9CnOBYzozZffdHsh) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d) | [Co jeśli](https://open.spotify.com/album/4T0VL4OOb7EK65ba5j0Pk9) | 2:57 |
+| 58 | [Pockets](https://open.spotify.com/track/751tUKr45Dpv1IJESgZp6K) | [Amor y Vida](https://open.spotify.com/artist/4WbjNKMrENIAYaDZmHIMoc) | [Pockets](https://open.spotify.com/album/0KSC9lDzmynrSiUDWbN8Pd) | 4:28 |
+| 59 | [Ostatnia piosenka o Tobie](https://open.spotify.com/track/2dPogT3VVbNWnEVuDttpeu) | [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg) | [Ostatnia piosenka o Tobie](https://open.spotify.com/album/541lg2IcAwOf8NFZeLZstd) | 3:31 |
+| 60 | [sad, alone?](https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR), [kurtis baker](https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv) | [sad, alone?](https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q) | 2:41 |
 
 Snapshot ID: `AAAAAJbqJ6H/e7rIQ7sItME43XOvKiD5`

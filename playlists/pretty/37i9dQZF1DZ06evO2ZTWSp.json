@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 474790,
+  "num_followers": 474774,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAD+W9inQmI72XNNsYxqvVRW",
+  "snapshot_id": "arBzgAAAAAC9AgKu5wGJoS6LmLJCoDBp",
   "tracks": [
     {
       "added_at": null,
@@ -350,15 +350,11 @@
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "UCB (Uncalled 4 Band)",
-          "url": "https://open.spotify.com/artist/3B9swkXOxcCCEEnuak3oIF"
         }
       ],
-      "duration_ms": 170760,
-      "name": "Sexy Ladies (feat. UCB (Uncalled 4 Band))",
-      "url": "https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2"
+      "duration_ms": 208312,
+      "name": "Don\u2019t Make Me Love U",
+      "url": "https://open.spotify.com/track/7ISr8TkvybzZcEE5vYIORI"
     },
     {
       "added_at": null,
@@ -422,11 +418,15 @@
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "UCB (Uncalled 4 Band)",
+          "url": "https://open.spotify.com/artist/3B9swkXOxcCCEEnuak3oIF"
         }
       ],
-      "duration_ms": 208312,
-      "name": "Don\u2019t Make Me Love U",
-      "url": "https://open.spotify.com/track/7ISr8TkvybzZcEE5vYIORI"
+      "duration_ms": 170760,
+      "name": "Sexy Ladies (feat. UCB (Uncalled 4 Band))",
+      "url": "https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2"
     },
     {
       "added_at": null,
@@ -663,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You (Super Deluxe)",
-        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
+        "name": "3rd Ward Bounce",
+        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
       },
       "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 133058,
-      "name": "Better in Color",
-      "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
+      "duration_ms": 185890,
+      "name": "Karaoke (feat. Lizzo)",
+      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
     },
     {
       "added_at": null,
@@ -715,22 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "3rd Ward Bounce",
-        "url": "https://open.spotify.com/album/6wzAzsG8uu5DxGR1q4tVxj"
+        "name": "Cuz I Love You (Super Deluxe)",
+        "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
       "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 185890,
-      "name": "Karaoke (feat. Lizzo)",
-      "url": "https://open.spotify.com/track/4nefFqiukTvjgt8hkv73PP"
+      "duration_ms": 133058,
+      "name": "Better in Color",
+      "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
     },
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MY FACE HURTS FROM SMILING",
+        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "STILL CANT FUH (FEAT. DOJA CAT)",
+      "url": "https://open.spotify.com/track/64WutS3mx1cgLmkWl5EZJK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rockstar",
         "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 468590,
       "name": "Stairway To Heaven",
       "url": "https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MY FACE HURTS FROM SMILING",
-        "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "STILL CANT FUH (FEAT. DOJA CAT)",
-      "url": "https://open.spotify.com/track/64WutS3mx1cgLmkWl5EZJK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Ariyo Wahab
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,436 likes - 99 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,411 likes - 99 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Jonas Blue. The essential tracks, all in one playlist.",
-  "num_followers": 88429,
+  "num_followers": 88434,
   "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABa3pfDgEq2/bVZS75UWFdF",
+  "snapshot_id": "arBzgAAAAADWRjouI2yraKZBjSMHE5nG",
   "tracks": [
     {
       "added_at": null,
@@ -403,6 +403,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Head & My Heart (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 179512,
+      "name": "My Head & My Heart - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Say",
-        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "L\u00c9ON",
-          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
-        }
-      ],
-      "duration_ms": 190772,
-      "name": "Hear Me Say",
-      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
     },
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Head & My Heart (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe"
+        "name": "Hear Me Say",
+        "url": "https://open.spotify.com/album/0mTHF0Grl8yVxVZHAMZn9V"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        },
-        {
           "name": "Jonas Blue",
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "L\u00c9ON",
+          "url": "https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia"
         }
       ],
-      "duration_ms": 179512,
-      "name": "My Head & My Heart - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh"
+      "duration_ms": 190772,
+      "name": "Hear Me Say",
+      "url": "https://open.spotify.com/track/7dk9EBvTbbKBbFxjCAJpwK"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I See Love (From Hotel Transylvania 3)",
         "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 173220,
       "name": "I See Love - From Hotel Transylvania 3",
       "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 188891,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "yes, and? (remixes)",
         "url": "https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 212903,
       "name": "yes, and? - Jonas Blue Remix",
       "url": "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 188891,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        }
-      ],
-      "duration_ms": 210921,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cyan",
         "url": "https://open.spotify.com/album/7hYzoKqAwWkfXQEZ8rXw4h"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 164782,
       "name": "In Your Arms Tonight",
       "url": "https://open.spotify.com/track/2Ka17lh9JIVVTZetW8Cbnv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        }
+      ],
+      "duration_ms": 210921,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8"
     },
     {
       "added_at": null,

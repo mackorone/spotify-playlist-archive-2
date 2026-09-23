@@ -1,6 +1,6 @@
 {
   "description": "Country music to accompany you on the open road. Cover: Cody Johnson",
-  "num_followers": 506977,
+  "num_followers": 507247,
   "original_name": "Country Drive",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "Be Her",
-        "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 217240,
-      "name": "Be Her",
-      "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 224213,
       "name": "'Til You Can't",
       "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
+        "name": "Be Her",
+        "url": "https://open.spotify.com/album/0xY9ccawTTfHlwdVlkDT90"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 217240,
+      "name": "Be Her",
+      "url": "https://open.spotify.com/track/05CjWFAcAlY6O9po6Qwakk"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "I Know I Know",
-        "url": "https://open.spotify.com/album/6vt7I2vcCWzmo8ExiTahAA"
+        "name": "Tangled Up",
+        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
       },
       "artists": [
         {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 159210,
-      "name": "I Know I Know",
-      "url": "https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc"
+      "duration_ms": 227426,
+      "name": "Die A Happy Man",
+      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -867,18 +867,18 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "Tangled Up",
-        "url": "https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy"
+        "name": "I Know I Know",
+        "url": "https://open.spotify.com/album/6vt7I2vcCWzmo8ExiTahAA"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Die A Happy Man",
-      "url": "https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n"
+      "duration_ms": 159210,
+      "name": "I Know I Know",
+      "url": "https://open.spotify.com/track/1Ot6QuJzCY66UdLK1ci3sc"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 191441,
-      "name": "Don't We",
-      "url": "https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 194426,
       "name": "There Was This Girl",
       "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 191441,
+      "name": "Don't We",
+      "url": "https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "weren't for the wind",
-        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "weren't for the wind",
-      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
         "name": "Kane Brown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4UoCJkoqgUmaWMiWifq4vp"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 177333,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/1HXy5I3HTWq8OvxCn0z7G7"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
+        "name": "weren't for the wind",
+        "url": "https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "duration_ms": 193666,
+      "name": "weren't for the wind",
+      "url": "https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "Body Like A Back Road",
-        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 165386,
-      "name": "Body Like A Back Road",
-      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
         "name": "Never Enough",
         "url": "https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 233869,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
+        "name": "Body Like A Back Road",
+        "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 165386,
+      "name": "Body Like A Back Road",
+      "url": "https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "Hands Up",
-        "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Hands Up",
-      "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
         "name": "Pawn Shop",
         "url": "https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 335480,
       "name": "Stay A Little Longer",
       "url": "https://open.spotify.com/track/23EkfwUdsRIz7jAZIcC8gb"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/0sgUIRGCsKo9P1ixNC99au"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/1E6l75Po0SL0C1Clobjf5v"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
+        "name": "Wildflowers and Wild Horses",
+        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Wildflowers and Wild Horses (Single Version)",
+      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
         "name": "Pour Me A Drink",
         "url": "https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
-        "name": "Wildflowers and Wild Horses",
-        "url": "https://open.spotify.com/album/4yec2VewOzxBHjBgQ0yauV"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Wildflowers and Wild Horses (Single Version)",
-      "url": "https://open.spotify.com/track/6d3QUBsiAw3aZI6F2mMhzk"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
         "name": "Pretty Little Poison",
         "url": "https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 218160,
       "name": "Pretty Little Poison",
       "url": "https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+        }
+      ],
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2026-09-18 04:02:02",
@@ -2303,22 +2303,6 @@
     {
       "added_at": "2026-09-18 04:02:02",
       "album": {
-        "name": "How Far Does A Goodbye Go",
-        "url": "https://open.spotify.com/album/0afhYLtsOqvFHx5OpJAqRn"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 235727,
-      "name": "How Far Does A Goodbye Go",
-      "url": "https://open.spotify.com/track/17U2M7HB14yGe9QSAmbyyB"
-    },
-    {
-      "added_at": "2026-09-18 04:02:02",
-      "album": {
         "name": "This Town's Been Too Good To Us",
         "url": "https://open.spotify.com/album/1QVjRGmRPZIbdlL22aUmol"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 191626,
       "name": "This Town's Been Too Good To Us",
       "url": "https://open.spotify.com/track/6vsa5VDsIaWC8oJnowU65l"
+    },
+    {
+      "added_at": "2026-09-18 04:02:02",
+      "album": {
+        "name": "How Far Does A Goodbye Go",
+        "url": "https://open.spotify.com/album/0afhYLtsOqvFHx5OpJAqRn"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 235727,
+      "name": "How Far Does A Goodbye Go",
+      "url": "https://open.spotify.com/track/17U2M7HB14yGe9QSAmbyyB"
     },
     {
       "added_at": "2026-09-18 04:02:02",

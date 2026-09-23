@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jeshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,379 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,376 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 15 | [Talk To Us](https://open.spotify.com/track/3seQbLVKLV93Gt3rLbala4) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [A\. K\. Paul](https://open.spotify.com/artist/5Ur4wFDyKGnavclr0esWLe) | [Talk To Us](https://open.spotify.com/album/1oRLjsdxRcWHxjHCKQbQfF) | 3:15 |
 | 16 | [All Night Long](https://open.spotify.com/track/7rTDt4MbccGE53h72e5zbW) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [All Night Long](https://open.spotify.com/album/4XU6CXzUW673zn5ncvBcAM) | 3:30 |
 | 17 | [Floo](https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX) | [DJ Jackum](https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX) | [Context](https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH) | 4:26 |
-| 18 | [Essa Ta Quente \(feat\. Skrillex\)](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente \(feat\. Skrillex\)](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
+| 18 | [Essa Ta Quente](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
 | 19 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
 | 20 | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Khadija Al Hanafi](https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5) | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH) | 2:40 |
 | 21 | [Forever Now](https://open.spotify.com/track/09OPfu1Xy5fD0a9L93hhIh) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Forever Now](https://open.spotify.com/album/2yP3uKb0hJmDd3YuloPgYQ) | 2:56 |

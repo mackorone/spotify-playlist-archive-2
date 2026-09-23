@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Kontra K, Miley Cyrus, James Arthur, Sido, Shakira & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,650 likes - 93 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,594 likes - 93 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

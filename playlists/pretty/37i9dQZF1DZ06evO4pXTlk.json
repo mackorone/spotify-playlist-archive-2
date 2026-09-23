@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAC84NwWHTlai0LmQf7Zigy2",
+  "snapshot_id": "arBzgAAAAACyUyb3WguDMmDXxhmEeU/e",
   "tracks": [
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 262190,
-      "name": "Crisis in the Slow Lane",
-      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
+      "duration_ms": 292628,
+      "name": "Aberdeen 1987",
+      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 167691,
-      "name": "Drag Me Out",
-      "url": "https://open.spotify.com/track/1mxA1LEz7XZ5IS78LBdWCJ"
+      "duration_ms": 81332,
+      "name": "Inhale (her)",
+      "url": "https://open.spotify.com/track/58PNAiIBCBLZDe3ZFSiS7b"
     },
     {
       "added_at": null,
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 247324,
-      "name": "Home Versus Home",
-      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
+      "duration_ms": 262190,
+      "name": "Crisis in the Slow Lane",
+      "url": "https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV"
     },
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 122528,
-      "name": "Jealousy",
-      "url": "https://open.spotify.com/track/0MRquMVJQiDJaeC1i3U8D0"
+      "duration_ms": 167691,
+      "name": "Drag Me Out",
+      "url": "https://open.spotify.com/track/1mxA1LEz7XZ5IS78LBdWCJ"
     },
     {
       "added_at": null,
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
         }
       ],
-      "duration_ms": 292628,
-      "name": "Aberdeen 1987",
-      "url": "https://open.spotify.com/track/4IPBnGpwKJIlSdlq8kgZVv"
+      "duration_ms": 247324,
+      "name": "Home Versus Home",
+      "url": "https://open.spotify.com/track/1xCHmRrMoqWgW3pMlyiJpR"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
       "duration_ms": 316893,
       "name": "Cool Ethan",
       "url": "https://open.spotify.com/track/2qHRHqAVw7HPjCiJHF4UPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap"
-      },
-      "artists": [
-        {
-          "name": "The XCERTS",
-          "url": "https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5"
-        }
-      ],
-      "duration_ms": 195066,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/4WcdCE3c0lY31jac8qPRnt"
     }
   ],
   "unique_name": "This Is The XCERTS",

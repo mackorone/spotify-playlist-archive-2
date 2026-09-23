@@ -4,7 +4,7 @@
 
 > This week's top new releases, including Kontra K, Shakira, GIMS, Travis Scott, EAZ, Miley Cyrus & many more!
 
-24,272 songs - 50 day 3 hr 13 min
+24,273 songs - 50 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -743,6 +743,7 @@
 | [Affogato](https://open.spotify.com/track/1nAt4Tusgg3s6E3OxCy9L6) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Mercato](https://open.spotify.com/album/55bJNcQMCKlf8JOfG5CpS3) | 3:09 | 2022-02-17 | 2022-02-25 |
 | [Afraid Of Nothing](https://open.spotify.com/track/2w0GwKe9lBBhArfBpcjXsy) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Afraid Of Nothing](https://open.spotify.com/album/7CEVUPCS8SjIizi6Kx1jsm) | 3:13 | 2023-10-19 | 2023-10-27 |
 | [AFRICAN GIRLS](https://open.spotify.com/track/1pDVWzY2lp3Y7Qi0WTY4Ad) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Kidd Carder](https://open.spotify.com/artist/3XpBO9TZxfQtfKXg8guWYI) | [AFRICAN GIRLS](https://open.spotify.com/album/7F76UW4g4Mq8rRLznvAAuc) | 2:03 | 2026-05-21 | 2026-05-29 |
+| [After \(feat\. Young Miko\)](https://open.spotify.com/track/59cR3FClp2PlkHV5511R7x) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [After \(feat\. Young Miko\)](https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq) | 3:09 | 2026-09-18 |  |
 | [After All](https://open.spotify.com/track/1C3SJEsAIPrHNz6bNZepoQ) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [After All](https://open.spotify.com/album/2T3aSEeEs6pXm9OpS9tWPq) | 4:12 | 2026-07-16 | 2026-07-24 |
 | [after all](https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [after all](https://open.spotify.com/album/7lzGyOwEpw8hCGQge8SS2D) | 3:13 | 2026-06-18 | 2026-06-26 |
 | [After Hours](https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [After Hours](https://open.spotify.com/album/062urW4KS66GPlEHIueefz) | 3:22 | 2024-04-04 | 2024-04-12 |

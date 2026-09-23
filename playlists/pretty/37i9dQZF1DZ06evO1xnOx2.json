@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 633548,
+  "num_followers": 633589,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAC/KxUUl0MGoVH+K3TNQoTF",
+  "snapshot_id": "arBzgAAAAAAcObB7uBMOyqIFxceLGCAx",
   "tracks": [
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wasteland, Baby! (Special Edition)",
-        "url": "https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5"
+        "name": "The Parting Glass (Live from the Late Late Show)",
+        "url": "https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 248333,
-      "name": "Why Would You Be Loved",
-      "url": "https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1"
+      "duration_ms": 135133,
+      "name": "The Parting Glass - Live from the Late Late Show",
+      "url": "https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Parting Glass (Live from the Late Late Show)",
-        "url": "https://open.spotify.com/album/53AzSufY9kjmbz1BELRn2A"
+        "name": "Wasteland, Baby! (Special Edition)",
+        "url": "https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 135133,
-      "name": "The Parting Glass - Live from the Late Late Show",
-      "url": "https://open.spotify.com/track/782her82K8V3a1JAL6LBbJ"
+      "duration_ms": 248333,
+      "name": "Why Would You Be Loved",
+      "url": "https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1"
     },
     {
       "added_at": null,

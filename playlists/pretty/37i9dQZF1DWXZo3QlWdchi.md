@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,210 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,237 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 28 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 29 | [Retrograde](https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Gigaton](https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut) | 5:22 |
 | 30 | [Pride \(In The Name Of Love\) \- Songs Of Surrender](https://open.spotify.com/track/6CKAooQEn3KvEqJjTqCeMI) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Pride \(In The Name Of Love\) \[Songs Of Surrender\]](https://open.spotify.com/album/6A7Gfg1fPBLrbRxQdya0vK) | 3:57 |
-| 31 | [Canção Da Meia\-Noite \- Ao Vivo](https://open.spotify.com/track/6GqOkQXQsXI63XpVmeF9tc) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Acústico Ao Vivo](https://open.spotify.com/album/0rUezt2zWnNwsAcdiFcNPy) | 4:02 |
-| 32 | [My Hero \- Live at Studio 606 West, Northridge, CA \- September 2007](https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00070725 Live At Studio 606](https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X) | 4:39 |
+| 31 | [My Hero \- Live at Studio 606 West, Northridge, CA \- September 2007](https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [00070725 Live At Studio 606](https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X) | 4:39 |
+| 32 | [Canção Da Meia\-Noite \- Ao Vivo](https://open.spotify.com/track/6GqOkQXQsXI63XpVmeF9tc) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [Acústico Ao Vivo](https://open.spotify.com/album/0rUezt2zWnNwsAcdiFcNPy) | 4:02 |
 | 33 | [Ignorance \- Acoustic](https://open.spotify.com/track/2fW669XemOdBBStneImx2g) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Ignorance](https://open.spotify.com/album/3yrzFvMY394se6kudvIfwv) | 3:40 |
 | 34 | [Regina Let's Go \- Live](https://open.spotify.com/track/4RDAoIi6TCV4madz9hL0CF) | [CPM 22](https://open.spotify.com/artist/2Jw4Lrfjnyv2QsDoBgnrAP) | [CPM 22 \- Acústico](https://open.spotify.com/album/4LzjCuCcssmyxrnUHRwhE4) | 2:56 |
 | 35 | [Aposta \- Ao Vivo](https://open.spotify.com/track/0lXUZraUXsJbi6zLHUNWkG) | [Detonautas](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Acústico 20 Anos \- O Amor Não Tem Inimigos, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3LTygGSVzMpi4sgAoCxPPJ) | 3:35 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang wajib ada dalam playlist\. Cover: Ammar Haikal
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,568 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,545 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 47 | [Foto kita blur](https://open.spotify.com/track/5POrnkQAprvkordH0kB25O) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 4:31 |
 | 48 | [Jatuh Suka](https://open.spotify.com/track/6PqWdGIYq5xdLaa4zCZfRp) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 3:55 |
 | 49 | [iqro'](https://open.spotify.com/track/2YRHj7X19faZv4WZZ3JnZq) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Iqro'](https://open.spotify.com/album/60e4PvVMY5S565Rt56dzHs) | 3:54 |
-| 50 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/79tbBuciPV221EozY3RKQv) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Resonance](https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4) | 4:05 |
+| 50 | [Jangan Paksa Rindu](https://open.spotify.com/track/79tbBuciPV221EozY3RKQv) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Resonance](https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4) | 4:05 |
 
 Snapshot ID: `AAAAANsXtcFjuVzsVH8/R191n4E3Ay3X`

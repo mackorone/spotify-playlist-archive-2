@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113046,
+  "num_followers": 113069,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,26 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
+        "name": "P\u00f3\u017aniej Ci opowiem",
+        "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh"
+      },
+      "artists": [
+        {
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
+        },
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "duration_ms": 185346,
+      "name": "P\u00f3\u017aniej Ci opowiem",
+      "url": "https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
         "name": "Ta\u0144cz\u0119",
         "url": "https://open.spotify.com/album/1YzaYcqieg8UA13VvY7r3S"
       },
@@ -415,22 +435,18 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
-        "name": "P\u00f3\u017aniej Ci opowiem",
-        "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh"
+        "name": "sezon",
+        "url": "https://open.spotify.com/album/31swt0uojnqryFf44XBDzx"
       },
       "artists": [
         {
-          "name": "Dawid Kwiatkowski",
-          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
-        },
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+          "name": "Dawid Podsiad\u0142o",
+          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
         }
       ],
-      "duration_ms": 185346,
-      "name": "P\u00f3\u017aniej Ci opowiem",
-      "url": "https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon"
+      "duration_ms": 181700,
+      "name": "sezon",
+      "url": "https://open.spotify.com/track/5CvvWZp4Lsw97zYMg30PyL"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -451,22 +467,6 @@
       "duration_ms": 177713,
       "name": "Faded Eyes",
       "url": "https://open.spotify.com/track/6xO2IVnHMQ8szZq67ctTSM"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "sezon",
-        "url": "https://open.spotify.com/album/31swt0uojnqryFf44XBDzx"
-      },
-      "artists": [
-        {
-          "name": "Dawid Podsiad\u0142o",
-          "url": "https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW"
-        }
-      ],
-      "duration_ms": 181700,
-      "name": "sezon",
-      "url": "https://open.spotify.com/track/5CvvWZp4Lsw97zYMg30PyL"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
+        "name": "halo Houston",
+        "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
+      },
+      "artists": [
+        {
+          "name": "Jasiek Piwowarczyk",
+          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
+        }
+      ],
+      "duration_ms": 143048,
+      "name": "halo Houston",
+      "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
         "name": "a\u017c nie chce si\u0119 wraca\u0107",
         "url": "https://open.spotify.com/album/0HucmneaAqFQ3TM2AcnLTW"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 134563,
       "name": "a\u017c nie chce si\u0119 wraca\u0107",
       "url": "https://open.spotify.com/track/422iOvOmu1a7tx3DDHEylm"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "halo Houston",
-        "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
-      },
-      "artists": [
-        {
-          "name": "Jasiek Piwowarczyk",
-          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
-        }
-      ],
-      "duration_ms": 143048,
-      "name": "halo Houston",
-      "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
     },
     {
       "added_at": "2026-09-18 08:00:22",

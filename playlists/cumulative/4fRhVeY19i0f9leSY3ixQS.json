@@ -21016,7 +21016,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 178425,
       "name": "Like a Burning Page",
       "url": "https://open.spotify.com/track/3aJ0RtdpOB5oKkXu6KoJbs"
@@ -24075,6 +24075,24 @@
     },
     {
       "album": {
+        "name": "My Pierced Heart",
+        "url": "https://open.spotify.com/album/0ofSWhpd5pOr4iNosam0z1"
+      },
+      "artists": [
+        {
+          "name": "Storm",
+          "url": "https://open.spotify.com/artist/54xkUQxKSduHJ1BBJuoMdv"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174085,
+      "name": "My Pierced Heart",
+      "url": "https://open.spotify.com/track/0vv0YhYz82Ti6fszj1LwdA"
+    },
+    {
+      "album": {
         "name": "My Politics Are My Own",
         "url": "https://open.spotify.com/album/7riMysPD5r79NTcWcsYrUv"
       },
@@ -27085,6 +27103,32 @@
     },
     {
       "album": {
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/63bqiTdIfeQ3dNk6KBMMqm"
+      },
+      "artists": [
+        {
+          "name": "Poetic Descent",
+          "url": "https://open.spotify.com/artist/1gkj2iirvS02OA7AELr5b3"
+        },
+        {
+          "name": "Joel Holycross",
+          "url": "https://open.spotify.com/artist/5csPdazRvz9lZOLP1ELF9l"
+        },
+        {
+          "name": "Mahalath",
+          "url": "https://open.spotify.com/artist/7hswMi13YPRpHFuguqs2gt"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214736,
+      "name": "Pariah",
+      "url": "https://open.spotify.com/track/3EwunkfboifnbfTRQfBaS3"
+    },
+    {
+      "album": {
         "name": "Fool's Paradise",
         "url": "https://open.spotify.com/album/2YOe6yPybwnOvHFmX9C622"
       },
@@ -28704,7 +28748,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 164670,
       "name": "Rain Of Regret - Emo Rap",
       "url": "https://open.spotify.com/track/46Nkn0ATiaBJ9XfwFEKukE"
@@ -36572,7 +36616,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 334921,
       "name": "The Illusion of Freedom",
       "url": "https://open.spotify.com/track/7cSYywcw6ZupLdPqzQlx1n"
@@ -42386,6 +42430,24 @@
       "duration_ms": 249493,
       "name": "You Oughta Know - 2015 Remaster",
       "url": "https://open.spotify.com/track/3jS7bB0oXVOwGFZn3aE5NV"
+    },
+    {
+      "album": {
+        "name": "You Smile When You're Lying",
+        "url": "https://open.spotify.com/album/35Tpy9f6cKun8tc7cYfxpf"
+      },
+      "artists": [
+        {
+          "name": "GRAVEKEY",
+          "url": "https://open.spotify.com/artist/5Uj3Yqq7OaoVmdsa7nYIZC"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "You Smile When You're Lying",
+      "url": "https://open.spotify.com/track/2wGet9XTv6jssvv1wu30bi"
     },
     {
       "album": {

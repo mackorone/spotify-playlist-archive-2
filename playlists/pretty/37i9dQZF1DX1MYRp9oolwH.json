@@ -1,13 +1,61 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : The Paradise",
-  "num_followers": 171518,
+  "num_followers": 171568,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOoUTz3l8VxJZMvIUoPCry8pmHI6",
+  "snapshot_id": "AAAAAIbzMGg7QWh+gRc8/1pDfBqw4Y5Z",
   "tracks": [
+    {
+      "added_at": "2026-09-21 15:02:16",
+      "album": {
+        "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/3SBWD56siGLfTGGm40Zsre"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 230976,
+      "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
+    },
+    {
+      "added_at": "2026-08-18 08:00:06",
+      "album": {
+        "name": "Chinni Chinni (From \"Itllu Arjuna\")",
+        "url": "https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Kalyan Chakravarthy",
+          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
+        }
+      ],
+      "duration_ms": 250027,
+      "name": "Chinni Chinni (From \"Itllu Arjuna\")",
+      "url": "https://open.spotify.com/track/7BS4pIh5jmj89BEf7hmW5Z"
+    },
     {
       "added_at": "2026-09-11 12:07:38",
       "album": {
@@ -61,54 +109,6 @@
       "url": "https://open.spotify.com/track/0HG0q1rtcVe1kXlreHz9Kf"
     },
     {
-      "added_at": "2026-09-21 15:02:16",
-      "album": {
-        "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
-        "url": "https://open.spotify.com/album/3SBWD56siGLfTGGm40Zsre"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Sublahshini",
-          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 230976,
-      "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
-      "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
-    },
-    {
-      "added_at": "2026-08-18 08:00:06",
-      "album": {
-        "name": "Chinni Chinni (From \"Itllu Arjuna\")",
-        "url": "https://open.spotify.com/album/2MIL7U7zxY7KqUbyZ1CuXg"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Kalyan Chakravarthy",
-          "url": "https://open.spotify.com/artist/4SunIIZcXlrd6CdimZc7PO"
-        }
-      ],
-      "duration_ms": 250027,
-      "name": "Chinni Chinni (From \"Itllu Arjuna\")",
-      "url": "https://open.spotify.com/track/7BS4pIh5jmj89BEf7hmW5Z"
-    },
-    {
       "added_at": "2026-06-30 08:25:33",
       "album": {
         "name": "Chilaka (From \"Thellakaagitham\")",
@@ -131,30 +131,6 @@
       "duration_ms": 285473,
       "name": "Chilaka (From \"Thellakaagitham\")",
       "url": "https://open.spotify.com/track/0fF2INV3W1UJALLC2Ctif7"
-    },
-    {
-      "added_at": "2026-09-07 07:00:41",
-      "album": {
-        "name": "Allakallolamga (From \"Gaja\")",
-        "url": "https://open.spotify.com/album/7mu1G8eXIaXODNaw6cMuuw"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Ram Miriyala",
-          "url": "https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj"
-        },
-        {
-          "name": "Mittapalli Surender",
-          "url": "https://open.spotify.com/artist/0LUtud7Iv6TKLKNWK7uMbB"
-        }
-      ],
-      "duration_ms": 233181,
-      "name": "Allakallolamga (From \"Gaja\")",
-      "url": "https://open.spotify.com/track/5rR5vmFvPLjgEn1NnZkZkY"
     },
     {
       "added_at": "2026-08-14 06:21:50",
@@ -213,32 +189,28 @@
       "url": "https://open.spotify.com/track/4pdqNcjVz9sPjBg1mJY0rS"
     },
     {
-      "added_at": "2026-09-07 07:00:41",
+      "added_at": "2026-09-22 07:23:31",
       "album": {
-        "name": "Nee Parichayam Nee Parichayam (From \"Tortoise - Telugu\")",
-        "url": "https://open.spotify.com/album/27VcP7d64f3l8o2HShF2kr"
+        "name": "Nee Valle (From \"Sangeet\")",
+        "url": "https://open.spotify.com/album/5r8wB4d4oXZd2tvO3P1wpC"
       },
       "artists": [
         {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
         },
         {
-          "name": "Anup Rubens",
-          "url": "https://open.spotify.com/artist/05ppw2jwDfW9zo4mj6HNXp"
+          "name": "Achu",
+          "url": "https://open.spotify.com/artist/13M1OXRslYiaRoeaUx75uY"
         },
         {
-          "name": "Janhavi Yerram",
-          "url": "https://open.spotify.com/artist/2S1gi8rHfqRE7XyNiAHj9n"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+          "name": "Vikram Shiva",
+          "url": "https://open.spotify.com/artist/7ClD18rvcER4RoRyYAL7Ts"
         }
       ],
-      "duration_ms": 309802,
-      "name": "Nee Parichayam Nee Parichayam (From \"Tortoise - Telugu\")",
-      "url": "https://open.spotify.com/track/6m02kwU0iujvuLvV6PoO5r"
+      "duration_ms": 265974,
+      "name": "Nee Valle (From \"Sangeet\")",
+      "url": "https://open.spotify.com/track/3OabsfpwgjmxJg1yEi8IHi"
     },
     {
       "added_at": "2026-07-27 13:39:46",
@@ -313,6 +285,30 @@
       "url": "https://open.spotify.com/track/0oLfwDDvhEYVIUwBih2lG5"
     },
     {
+      "added_at": "2026-09-22 07:23:31",
+      "album": {
+        "name": "Naa Prema Devatha (From \"Chakkora - A Lunar Love Bird\")",
+        "url": "https://open.spotify.com/album/5tMhg03GENR5k0GXzdjVqZ"
+      },
+      "artists": [
+        {
+          "name": "Prince Henry",
+          "url": "https://open.spotify.com/artist/3vJDvKa5cfjEH2vFEhj4EY"
+        },
+        {
+          "name": "Sri Krishna",
+          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 192022,
+      "name": "Naa Prema Devatha (From \"Chakkora - A Lunar Love Bird\")",
+      "url": "https://open.spotify.com/track/12ZsYalun5iIQl0Xo4FobX"
+    },
+    {
       "added_at": "2026-09-03 11:48:37",
       "album": {
         "name": "Romanchakam",
@@ -331,6 +327,34 @@
       "duration_ms": 180062,
       "name": "Chalo Chalo",
       "url": "https://open.spotify.com/track/5ytViR76Kwz9TDwcFmrT7O"
+    },
+    {
+      "added_at": "2026-09-22 07:23:31",
+      "album": {
+        "name": "Manchulaa Jaarele (From \"Premane Oorilo\")",
+        "url": "https://open.spotify.com/album/1DQDm0eE1HL8kDtXigrokm"
+      },
+      "artists": [
+        {
+          "name": "Sunaad Gowtham",
+          "url": "https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB"
+        },
+        {
+          "name": "Geetha Madhuri",
+          "url": "https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai"
+        },
+        {
+          "name": "Saketh Komanduri",
+          "url": "https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L"
+        },
+        {
+          "name": "Rambabu Gosala",
+          "url": "https://open.spotify.com/artist/6dEfOjGcbT3HYATS6jETvH"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Manchulaa Jaarele (From \"Premane Oorilo\")",
+      "url": "https://open.spotify.com/track/1cgc1Z6qqokCTIlu7SY4UB"
     },
     {
       "added_at": "2026-08-13 13:51:15",
@@ -557,30 +581,6 @@
       "url": "https://open.spotify.com/track/5BrghXpf2wv88Tdz74jBtD"
     },
     {
-      "added_at": "2026-06-22 07:48:51",
-      "album": {
-        "name": "Jigithara (From \"Chennai Love Story\")",
-        "url": "https://open.spotify.com/album/38RXYS8OBRy1hm9RWuPGHZ"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
-        }
-      ],
-      "duration_ms": 252074,
-      "name": "Jigithara (From \"Chennai Love Story\")",
-      "url": "https://open.spotify.com/track/19FpS3dwFo73nEFwz0NnIw"
-    },
-    {
       "added_at": "2026-08-04 08:15:46",
       "album": {
         "name": "Kamsahamnida (From \"Korean Kanakaraju\")",
@@ -603,34 +603,6 @@
       "duration_ms": 193269,
       "name": "Kamsahamnida (From \"Korean Kanakaraju\")",
       "url": "https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9"
-    },
-    {
-      "added_at": "2026-07-06 13:37:02",
-      "album": {
-        "name": "Hoyila Hoyila (From \"Chennai Love Story\")",
-        "url": "https://open.spotify.com/album/6D93U2TFas7TbIqbdRs7gf"
-      },
-      "artists": [
-        {
-          "name": "Mani Sharma",
-          "url": "https://open.spotify.com/artist/3AMxH9QIPZbK8ND8C9j4Ss"
-        },
-        {
-          "name": "Sahithi Chaganti",
-          "url": "https://open.spotify.com/artist/01dP5AXWzqsUZj4VIcUSDM"
-        },
-        {
-          "name": "Dhanunjay Seepana",
-          "url": "https://open.spotify.com/artist/5DxwUWyGp1uejyE80iJcn0"
-        },
-        {
-          "name": "Anantha Sreeram",
-          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
-        }
-      ],
-      "duration_ms": 242149,
-      "name": "Hoyila Hoyila (From \"Chennai Love Story\")",
-      "url": "https://open.spotify.com/track/69HFjzMqwtoLsyZDIlf8UG"
     },
     {
       "added_at": "2026-08-20 06:42:40",
@@ -963,30 +935,6 @@
       "duration_ms": 231000,
       "name": "Fanaa (From \"HIGH\")",
       "url": "https://open.spotify.com/track/55uR1YKMkPrCZbNOAeN9vA"
-    },
-    {
-      "added_at": "2026-06-30 08:25:33",
-      "album": {
-        "name": "Oh Sukumari Title Song (From \"Oh Sukumari\")",
-        "url": "https://open.spotify.com/album/0UNygN2hxn43nKH6zoW6En"
-      },
-      "artists": [
-        {
-          "name": "Bharath Manchiraju",
-          "url": "https://open.spotify.com/artist/0IwPGyWLTlaS0TXIvVEqb7"
-        },
-        {
-          "name": "Abhijith Rao",
-          "url": "https://open.spotify.com/artist/34uPPT8En9O7fAEPO8S3Fp"
-        },
-        {
-          "name": "Purnachary",
-          "url": "https://open.spotify.com/artist/1ZFFT98lBNfyXcsCbXZP7j"
-        }
-      ],
-      "duration_ms": 251474,
-      "name": "Oh Sukumari Title Song (From \"Oh Sukumari\")",
-      "url": "https://open.spotify.com/track/0EzsIQXT3U7E6fk0WukmQF"
     },
     {
       "added_at": "2026-07-23 06:03:20",

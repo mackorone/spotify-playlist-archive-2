@@ -1,6 +1,6 @@
 {
   "description": "Feel-good <a href=\"spotify:genre:edm_dance\">dance music</a>!",
-  "num_followers": 2642933,
+  "num_followers": 2643002,
   "original_name": "Happy Beats",
   "owner": {
     "name": "Spotify",
@@ -583,18 +583,22 @@
     {
       "added_at": "2026-09-18 04:02:36",
       "album": {
-        "name": "Baby Girl",
-        "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
+        "name": "I Could Be Madonna",
+        "url": "https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3"
       },
       "artists": [
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
         }
       ],
-      "duration_ms": 111074,
-      "name": "Baby Girl",
-      "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
+      "duration_ms": 195942,
+      "name": "I Could Be Madonna",
+      "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
     },
     {
       "added_at": "2026-09-18 04:02:36",
@@ -619,6 +623,22 @@
     {
       "added_at": "2026-09-18 04:02:36",
       "album": {
+        "name": "Baby Girl",
+        "url": "https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        }
+      ],
+      "duration_ms": 111074,
+      "name": "Baby Girl",
+      "url": "https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz"
+    },
+    {
+      "added_at": "2026-09-18 04:02:36",
+      "album": {
         "name": "Whatever Turns You On (ft. Bonn)",
         "url": "https://open.spotify.com/album/0R5bksr4b5l8QRF5AIXeO1"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 195727,
       "name": "Whatever Turns You On",
       "url": "https://open.spotify.com/track/7cvWEBFsf7JvEQf7RzATSk"
-    },
-    {
-      "added_at": "2026-09-18 04:02:36",
-      "album": {
-        "name": "I Could Be Madonna",
-        "url": "https://open.spotify.com/album/25rXWsmagwP3BHX2wC7vn3"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 195942,
-      "name": "I Could Be Madonna",
-      "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
     },
     {
       "added_at": "2026-09-18 04:02:36",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2026-09-18 04:02:36",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        }
-      ],
-      "duration_ms": 144501,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
-    },
-    {
-      "added_at": "2026-09-18 04:02:36",
-      "album": {
         "name": "Woke Up in Love",
         "url": "https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy"
       },
@@ -1079,6 +1059,26 @@
       "duration_ms": 216873,
       "name": "Woke Up in Love",
       "url": "https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo"
+    },
+    {
+      "added_at": "2026-09-18 04:02:36",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "duration_ms": 144501,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ"
     },
     {
       "added_at": "2026-09-18 04:02:36",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2026-09-18 04:02:36",
       "album": {
+        "name": "Music Don't Stop",
+        "url": "https://open.spotify.com/album/4sFGrLwLDtaAYyST7IJqLu"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "Music Don't Stop",
+      "url": "https://open.spotify.com/track/0KcEUsbDhld6ZFK2eYOVtG"
+    },
+    {
+      "added_at": "2026-09-18 04:02:36",
+      "album": {
         "name": "Chills (Feel My Love)",
         "url": "https://open.spotify.com/album/5D3qYKt4IFBEQENqzzlh1Y"
       },
@@ -1599,42 +1619,6 @@
     {
       "added_at": "2026-09-18 04:02:36",
       "album": {
-        "name": "Music Don't Stop",
-        "url": "https://open.spotify.com/album/4sFGrLwLDtaAYyST7IJqLu"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 215500,
-      "name": "Music Don't Stop",
-      "url": "https://open.spotify.com/track/0KcEUsbDhld6ZFK2eYOVtG"
-    },
-    {
-      "added_at": "2026-09-18 04:02:36",
-      "album": {
-        "name": "Upside Down",
-        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        }
-      ],
-      "duration_ms": 162684,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
-    },
-    {
-      "added_at": "2026-09-18 04:02:36",
-      "album": {
         "name": "Forever (with Kid Cudi)",
         "url": "https://open.spotify.com/album/4D6sxB4kldq1PNm43cMyul"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 251693,
       "name": "Forever (with Kid Cudi)",
       "url": "https://open.spotify.com/track/0TryO56AxrMAMmGSng6z9C"
+    },
+    {
+      "added_at": "2026-09-18 04:02:36",
+      "album": {
+        "name": "Upside Down",
+        "url": "https://open.spotify.com/album/3GE1ciHI7qSIoY8HQ2jePH"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        }
+      ],
+      "duration_ms": 162684,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0c4Nc8b09Ry23plhCf387W"
     },
     {
       "added_at": "2026-09-18 04:02:36",
@@ -1679,26 +1679,6 @@
     {
       "added_at": "2026-09-18 04:02:36",
       "album": {
-        "name": "SYW (feat. Cecile Believe)",
-        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "Cecile Believe",
-          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
-        }
-      ],
-      "duration_ms": 166840,
-      "name": "SYW (feat. Cecile Believe)",
-      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
-    },
-    {
-      "added_at": "2026-09-18 04:02:36",
-      "album": {
         "name": "Next To You (feat. Kane Brown)",
         "url": "https://open.spotify.com/album/2lN4M7HJ3xPgPFpVuInEQe"
       },
@@ -1719,6 +1699,26 @@
       "duration_ms": 161344,
       "name": "Next To You (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/6iZ2inFhxOuHKxOlTwwhZq"
+    },
+    {
+      "added_at": "2026-09-18 04:02:36",
+      "album": {
+        "name": "SYW (feat. Cecile Believe)",
+        "url": "https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "duration_ms": 166840,
+      "name": "SYW (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V"
     },
     {
       "added_at": "2026-09-18 04:02:36",
@@ -1943,30 +1943,6 @@
     {
       "added_at": "2026-09-18 04:02:36",
       "album": {
-        "name": "Lots of Love",
-        "url": "https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH"
-      },
-      "artists": [
-        {
-          "name": "Brothers Macklovitch",
-          "url": "https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl"
-        },
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 187965,
-      "name": "Lots of Love",
-      "url": "https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4"
-    },
-    {
-      "added_at": "2026-09-18 04:02:36",
-      "album": {
         "name": "It's A Feeling",
         "url": "https://open.spotify.com/album/3lV6tjpfPlg08Yjs4WjsDZ"
       },
@@ -1987,6 +1963,30 @@
       "duration_ms": 189223,
       "name": "It's A Feeling",
       "url": "https://open.spotify.com/track/3py9E6Yll3JY9VKQEaZzP8"
+    },
+    {
+      "added_at": "2026-09-18 04:02:36",
+      "album": {
+        "name": "Lots of Love",
+        "url": "https://open.spotify.com/album/50vTpftBnpvCMzTGLZ0cYH"
+      },
+      "artists": [
+        {
+          "name": "Brothers Macklovitch",
+          "url": "https://open.spotify.com/artist/74ituHOQ0RtRfPGwyfZYPl"
+        },
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 187965,
+      "name": "Lots of Love",
+      "url": "https://open.spotify.com/track/3ZOgyddOAOBl3jpY6gLIC4"
     },
     {
       "added_at": "2026-09-18 04:02:36",
@@ -2063,26 +2063,6 @@
     {
       "added_at": "2026-09-18 04:02:36",
       "album": {
-        "name": "It's Love",
-        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "Cavi",
-          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "It's Love",
-      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
-    },
-    {
-      "added_at": "2026-09-18 04:02:36",
-      "album": {
         "name": "Every Cloud - Silver Linings",
         "url": "https://open.spotify.com/album/6OU7EFtbj258KWnSd0SJFo"
       },
@@ -2111,6 +2091,26 @@
     {
       "added_at": "2026-09-18 04:02:36",
       "album": {
+        "name": "It's Love",
+        "url": "https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX"
+      },
+      "artists": [
+        {
+          "name": "Tseba",
+          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
+        },
+        {
+          "name": "Cavi",
+          "url": "https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "It's Love",
+      "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
+    },
+    {
+      "added_at": "2026-09-18 04:02:36",
+      "album": {
         "name": "Tu Coraz\u00f3n (Your Heart)",
         "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
       },
@@ -2127,22 +2127,6 @@
       "duration_ms": 180120,
       "name": "Tu Coraz\u00f3n (Your Heart)",
       "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-09-18 04:02:36",
-      "album": {
-        "name": "feel",
-        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
-      },
-      "artists": [
-        {
-          "name": "oskar med k",
-          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
-        }
-      ],
-      "duration_ms": 220622,
-      "name": "Sweet Nothings",
-      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
     },
     {
       "added_at": "2026-09-18 04:02:36",
@@ -2183,6 +2167,22 @@
       "duration_ms": 161068,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/7quk6gEs1XOu8LOO6iaDZJ"
+    },
+    {
+      "added_at": "2026-09-18 04:02:36",
+      "album": {
+        "name": "feel",
+        "url": "https://open.spotify.com/album/0tGAZEwyy5wDfDMB5o3VOL"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "duration_ms": 220622,
+      "name": "Sweet Nothings",
+      "url": "https://open.spotify.com/track/4ktcn64pJ9DzzddRutzrqq"
     },
     {
       "added_at": "2026-09-18 04:02:36",
@@ -2607,26 +2607,6 @@
     {
       "added_at": "2026-09-18 04:02:36",
       "album": {
-        "name": "Anemoia",
-        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        },
-        {
-          "name": "TEED",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 218757,
-      "name": "Devotion (feat. TEED)",
-      "url": "https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr"
-    },
-    {
-      "added_at": "2026-09-18 04:02:36",
-      "album": {
         "name": "food 4 thought",
         "url": "https://open.spotify.com/album/1UyGFAy9dzqupFmIHRcPP1"
       },
@@ -2647,6 +2627,26 @@
       "duration_ms": 158563,
       "name": "food 4 thought",
       "url": "https://open.spotify.com/track/6RKp3bBhPjWXnDOgXWypSQ"
+    },
+    {
+      "added_at": "2026-09-18 04:02:36",
+      "album": {
+        "name": "Anemoia",
+        "url": "https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        },
+        {
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 218757,
+      "name": "Devotion (feat. TEED)",
+      "url": "https://open.spotify.com/track/6wgm6R3hGR820RHkX1cfTr"
     },
     {
       "added_at": "2026-09-18 04:02:36",

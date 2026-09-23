@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 
 > 🌱🌸🌾🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,133 likes - 85 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,126 likes - 85 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,11 +50,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 40 | [Fiji](https://open.spotify.com/track/4goZlS7441L0Atf2BzC2lH) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fiji](https://open.spotify.com/album/7B8bJuucCOAPu2wvYSGxfv) | 2:38 |
 | 41 | [Hånd i hånd](https://open.spotify.com/track/66AfUjHnIjqXqyeI9IRjtZ) | [Tobias Sten](https://open.spotify.com/artist/2dy8l9ul5UQAvF3bL6Q3Mz) | [Hånd i hånd](https://open.spotify.com/album/6ecIxoN986DqqDyGR7TxjY) | 4:18 |
 | 42 | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/track/3JJrV0alnSfJ6n9EtiqRk9) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Der du brente vår bro \- Spotify Singles](https://open.spotify.com/album/1HoKUWp7mHeJErg7rRWp5q) | 2:53 |
-| 43 | [SKJORTE & SLIPS](https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SKJORTE & SLIPS](https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM) | 3:02 |
-| 44 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
+| 43 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
+| 44 | [SKJORTE & SLIPS](https://open.spotify.com/track/0XX70hZPPFTnPQRL7NlWYO) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [SKJORTE & SLIPS](https://open.spotify.com/album/2EmNWkiQvPfcyXZqbVsNnM) | 3:02 |
 | 45 | [Jeg spør for en venn](https://open.spotify.com/track/2icHHKPqztIkn5neapSswk) | [Zimmermann](https://open.spotify.com/artist/624LRh2tnvHek6iQrWZcmB) | [Jeg spør for en venn](https://open.spotify.com/album/1fwGUwoY9ipUsVm45sCiJy) | 3:13 |
-| 46 | [Changes](https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Changes](https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu) | 3:18 |
-| 47 | [Det går bra](https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Det går bra](https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF) | 3:17 |
+| 46 | [Det går bra](https://open.spotify.com/track/1a7vBJg7GDMy5ClHexkfvv) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Det går bra](https://open.spotify.com/album/3QIyVTcQmGRyUPjzvw6PwF) | 3:17 |
+| 47 | [Changes](https://open.spotify.com/track/32VOsoPR0N9dEZNbogPIeZ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Changes](https://open.spotify.com/album/0aeOy0WXVNFc2e1b8nTIlu) | 3:18 |
 | 48 | [Don't Let Me Go](https://open.spotify.com/track/6syQOKJfd5BR6z5YAGzQaa) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Don't Let Me Go](https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o) | 4:52 |
 | 49 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 |
 | 50 | [Siste første dans](https://open.spotify.com/track/7EnHeRdXqIAMGDL7sT8Ba9) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Bedre dager](https://open.spotify.com/album/5HHcnHBqXIUVRMnhPiBco4) | 3:40 |
@@ -73,12 +73,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RrjZR06viH.md) - [plain]
 | 63 | [Milk and Honey](https://open.spotify.com/track/4CYhRXlYS1PMIvqF2XCDjK) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Milk and Honey](https://open.spotify.com/album/7HCxPekCpgu7wlhahLmxFf) | 3:30 |
 | 64 | [Hva vi kunne bli](https://open.spotify.com/track/11A6wBoTeemgHHuCotUL3u) | [Randi Oline](https://open.spotify.com/artist/5O7vw7DOXDVSqVWWc8FpYV) | [Hva vi kunne bli](https://open.spotify.com/album/0UG3jUBKtxD87IoznNgrev) | 2:55 |
 | 65 | [Gå bli lykkelig, du](https://open.spotify.com/track/7BW1YkNQ1lsCKBE2UXXQpS) | [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Gå bli lykkelig, du](https://open.spotify.com/album/4jp2qk1lRXaEk8FhnvKm2g) | 3:07 |
-| 66 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
-| 67 | [Her vil e vær](https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Her vil e vær](https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN) | 2:25 |
+| 66 | [Her vil e vær](https://open.spotify.com/track/1kuBj9IjKtP64mKrHIuBYX) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Her vil e vær](https://open.spotify.com/album/3ksUT0ilC4HVItX51CEHvN) | 2:25 |
+| 67 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 |
 | 68 | [God Knows](https://open.spotify.com/track/0yOwc5hOnEQSgDTApRPgzC) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [God Knows](https://open.spotify.com/album/3G3sTPzTb0R6OQTt3nJI7i) | 2:50 |
 | 69 | [Alt man tenker på](https://open.spotify.com/track/1DPL5Rw5K7D4VyLFMqfVp7) | [Paul Fjell](https://open.spotify.com/artist/0i1LGaibJwWVJlJKNXftS7) | [Alt man tenker på](https://open.spotify.com/album/35y5zwVgFUL32EnG2J4xA5) | 3:46 |
-| 70 | [American Wedding](https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [American Wedding](https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G) | 3:11 |
-| 71 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
+| 70 | [Clean](https://open.spotify.com/track/0tBXqaYjAqaQp55uRdhgAt) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Love & Hyperbole \(Deluxe\)](https://open.spotify.com/album/6rBEtMQZsYPe9xtPpP9QdC) | 3:12 |
+| 71 | [American Wedding](https://open.spotify.com/track/0hGpO1KkCV1DKmIp0Nt942) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [American Wedding](https://open.spotify.com/album/4zczMW68cS6edG4PEwrw8G) | 3:11 |
 | 72 | [I'm Still \- A COLORS SHOW](https://open.spotify.com/track/5TAOdwZGUDfbgb9oohIDwT) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [I’m Still \- A COLORS SHOW](https://open.spotify.com/album/5W72esMYrAOYLedSAb3Enl) | 2:39 |
 | 73 | [Memory Be a Blade](https://open.spotify.com/track/6kM3Uqz3MRTVGTzu93EZIA) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [Memory Be a Blade](https://open.spotify.com/album/459tZ5BMnPXsDQpLsfTI00) | 3:41 |
 | 74 | [Skyfri himmel](https://open.spotify.com/track/1zQPWQuZRK63pvxAVhC9za) | [Bjørn Eidsvåg](https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz), [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [Skyfri himmel](https://open.spotify.com/album/1ZMfhQD8MkMGSqydaXAGgN) | 3:45 |

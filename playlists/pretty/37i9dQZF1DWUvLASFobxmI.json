@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Gerardo Coronel en portada.",
-  "num_followers": 531890,
+  "num_followers": 531905,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -279,18 +279,22 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
-        "name": "El Peor De Mis Fracasos",
-        "url": "https://open.spotify.com/album/65cJJr6gZYn8snv8nvxkkR"
+        "name": "HOTEL",
+        "url": "https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl"
       },
       "artists": [
         {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
         }
       ],
-      "duration_ms": 219733,
-      "name": "El Peor De Mis Fracasos",
-      "url": "https://open.spotify.com/track/4MYLhfLke4k2leJnHthOmq"
+      "duration_ms": 153745,
+      "name": "HOTEL",
+      "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -327,22 +331,18 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
-        "name": "HOTEL",
-        "url": "https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl"
+        "name": "El Peor De Mis Fracasos",
+        "url": "https://open.spotify.com/album/65cJJr6gZYn8snv8nvxkkR"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Bohemio",
-          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
         }
       ],
-      "duration_ms": 153745,
-      "name": "HOTEL",
-      "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
+      "duration_ms": 219733,
+      "name": "El Peor De Mis Fracasos",
+      "url": "https://open.spotify.com/track/4MYLhfLke4k2leJnHthOmq"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -523,26 +523,6 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
-        "name": "Se Rindi\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Amanecer",
-          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
-        },
-        {
-          "name": "Conjunto Rio Grande",
-          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
-        }
-      ],
-      "duration_ms": 153885,
-      "name": "Se Rindi\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
-    },
-    {
-      "added_at": "2026-09-18 04:02:49",
-      "album": {
         "name": "De Todas Y De Nadie",
         "url": "https://open.spotify.com/album/3ASDDNxxZalJZiGLYPdc4n"
       },
@@ -555,6 +535,22 @@
       "duration_ms": 183996,
       "name": "De Todas Y De Nadie",
       "url": "https://open.spotify.com/track/2AN5kdD4iULNxtb17QniI7"
+    },
+    {
+      "added_at": "2026-09-18 04:02:49",
+      "album": {
+        "name": "Dulce Amargo",
+        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 129802,
+      "name": "TREMENDA",
+      "url": "https://open.spotify.com/track/3yaA1F3bvFbZyx5db6fm5M"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -575,18 +571,22 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
-        "name": "Dulce Amargo",
-        "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
+        "name": "Se Rindi\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
       },
       "artists": [
         {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        },
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
         }
       ],
-      "duration_ms": 129802,
-      "name": "TREMENDA",
-      "url": "https://open.spotify.com/track/3yaA1F3bvFbZyx5db6fm5M"
+      "duration_ms": 153885,
+      "name": "Se Rindi\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
+        "name": "La Pen\u00ednsula",
+        "url": "https://open.spotify.com/album/5CkfhaeczdgCQ7qRUya2Ld"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 163669,
+      "name": "La Pen\u00ednsula",
+      "url": "https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ"
+    },
+    {
+      "added_at": "2026-09-18 04:02:49",
+      "album": {
         "name": "El Scrappy",
         "url": "https://open.spotify.com/album/2G32KZDrfUv4cpf4BJD959"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 227551,
       "name": "El Scrappy",
       "url": "https://open.spotify.com/track/1AN1Jemy82iQlzbxMezAAG"
-    },
-    {
-      "added_at": "2026-09-18 04:02:49",
-      "album": {
-        "name": "La Pen\u00ednsula",
-        "url": "https://open.spotify.com/album/5CkfhaeczdgCQ7qRUya2Ld"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 163669,
-      "name": "La Pen\u00ednsula",
-      "url": "https://open.spotify.com/track/45j5pajkmVDnUw05tIRGfJ"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
-        "name": "A Tiempo",
-        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
+        "name": "RED FLAG",
+        "url": "https://open.spotify.com/album/2Xrqwoo0r2aVvGcR3omQK9"
       },
       "artists": [
         {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
         }
       ],
-      "duration_ms": 202860,
-      "name": "Explicaci\u00f3n real",
-      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
+      "duration_ms": 186968,
+      "name": "RED FLAG",
+      "url": "https://open.spotify.com/track/2QxPWfq2OEzzqpmGxzPCdV"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -819,18 +819,34 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
-        "name": "RED FLAG",
-        "url": "https://open.spotify.com/album/2Xrqwoo0r2aVvGcR3omQK9"
+        "name": "A Tiempo",
+        "url": "https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA"
       },
       "artists": [
         {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 186968,
-      "name": "RED FLAG",
-      "url": "https://open.spotify.com/track/2QxPWfq2OEzzqpmGxzPCdV"
+      "duration_ms": 202860,
+      "name": "Explicaci\u00f3n real",
+      "url": "https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x"
+    },
+    {
+      "added_at": "2026-09-18 04:02:49",
+      "album": {
+        "name": "Anomalia",
+        "url": "https://open.spotify.com/album/2Z3xDmWwTIuaTIGTT9CEI4"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Anomalia",
+      "url": "https://open.spotify.com/track/0zDuC2iFojk5rSmg7KkH0Z"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -851,22 +867,6 @@
       "duration_ms": 142586,
       "name": "Terco Y Que",
       "url": "https://open.spotify.com/track/5gm23dibSsjTnlPEU3Yj7V"
-    },
-    {
-      "added_at": "2026-09-18 04:02:49",
-      "album": {
-        "name": "Anomalia",
-        "url": "https://open.spotify.com/album/2Z3xDmWwTIuaTIGTT9CEI4"
-      },
-      "artists": [
-        {
-          "name": "Equipo HC",
-          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Anomalia",
-      "url": "https://open.spotify.com/track/0zDuC2iFojk5rSmg7KkH0Z"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
-        "name": "LAS QUE SUENAN EN MI TROCA",
-        "url": "https://open.spotify.com/album/6xdYPEZELEEsQjuXIwaShL"
-      },
-      "artists": [
-        {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
-        }
-      ],
-      "duration_ms": 227488,
-      "name": "Entre Hierva Polvo y Plomo",
-      "url": "https://open.spotify.com/track/0hzxFetIXZjbF22Ays2ljq"
-    },
-    {
-      "added_at": "2026-09-18 04:02:49",
-      "album": {
         "name": "De Peri\u00f3dico Un Gallito (En Vivo)",
         "url": "https://open.spotify.com/album/5K5GgkBth8AKzx02bHSqEE"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 207140,
       "name": "De Peri\u00f3dico Un Gallito - En Vivo",
       "url": "https://open.spotify.com/track/0wWuyRbvxCAOUZkDwzQ1XZ"
+    },
+    {
+      "added_at": "2026-09-18 04:02:49",
+      "album": {
+        "name": "LAS QUE SUENAN EN MI TROCA",
+        "url": "https://open.spotify.com/album/6xdYPEZELEEsQjuXIwaShL"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "duration_ms": 227488,
+      "name": "Entre Hierva Polvo y Plomo",
+      "url": "https://open.spotify.com/track/0hzxFetIXZjbF22Ays2ljq"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
-        "name": "Lo Que Yo M\u00e1s Quiero",
-        "url": "https://open.spotify.com/album/1YajfU6lgORvLT54x7ddhY"
-      },
-      "artists": [
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        }
-      ],
-      "duration_ms": 153168,
-      "name": "Lo Que Yo M\u00e1s Quiero",
-      "url": "https://open.spotify.com/track/2NezX5wn4kfTeyIcyqPFdk"
-    },
-    {
-      "added_at": "2026-09-18 04:02:49",
-      "album": {
         "name": "Tokio",
         "url": "https://open.spotify.com/album/413VfZS0gDZw3pXhMEmzoT"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 140145,
       "name": "Tokio",
       "url": "https://open.spotify.com/track/5McvNcl1jvckdcGc5I316i"
+    },
+    {
+      "added_at": "2026-09-18 04:02:49",
+      "album": {
+        "name": "Lo Que Yo M\u00e1s Quiero",
+        "url": "https://open.spotify.com/album/1YajfU6lgORvLT54x7ddhY"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "duration_ms": 153168,
+      "name": "Lo Que Yo M\u00e1s Quiero",
+      "url": "https://open.spotify.com/track/2NezX5wn4kfTeyIcyqPFdk"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
-        "name": "Gara\u00f1on",
-        "url": "https://open.spotify.com/album/5M4Zae9UgwKkxzT5zKLnnZ"
-      },
-      "artists": [
-        {
-          "name": "David Ornelas",
-          "url": "https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq"
-        }
-      ],
-      "duration_ms": 162730,
-      "name": "Gara\u00f1on",
-      "url": "https://open.spotify.com/track/6BAezFY3sjw5aXrR9eZmWG"
-    },
-    {
-      "added_at": "2026-09-18 04:02:49",
-      "album": {
         "name": "Dos Botellas De Mezcal",
         "url": "https://open.spotify.com/album/23cru7artXa7AdyifqwPEU"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 220613,
       "name": "Dos Botellas De Mezcal",
       "url": "https://open.spotify.com/track/0ayUOJMUh5fGejMbhdQkcp"
+    },
+    {
+      "added_at": "2026-09-18 04:02:49",
+      "album": {
+        "name": "Gara\u00f1on",
+        "url": "https://open.spotify.com/album/5M4Zae9UgwKkxzT5zKLnnZ"
+      },
+      "artists": [
+        {
+          "name": "David Ornelas",
+          "url": "https://open.spotify.com/artist/0z2TqgHJgpKgAuArw50eiq"
+        }
+      ],
+      "duration_ms": 162730,
+      "name": "Gara\u00f1on",
+      "url": "https://open.spotify.com/track/6BAezFY3sjw5aXrR9eZmWG"
     },
     {
       "added_at": "2026-09-18 04:02:49",

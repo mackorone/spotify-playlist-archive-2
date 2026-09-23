@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de agosto 2026\. Cover: Nsqk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,943 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,789 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 44 | [suéltame](https://open.spotify.com/track/6ZLpEYDN1alkr0wWOcmfuD) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [suéltame](https://open.spotify.com/album/6Ed3eUKovBiVFfK9iujjmr) | 3:53 |
 | 45 | [por como me cuidas](https://open.spotify.com/track/1yvKopniXF1xWBCabuqLN9) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [por como me cuidas](https://open.spotify.com/album/5JBd37KdO0T5rjZDN10WKG) | 2:04 |
 | 46 | [PERMANENTE](https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [PERMANENTE](https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d) | 2:22 |
-| 47 | [Creo En Ti](https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Creo En Ti](https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v) | 3:22 |
-| 48 | [El Premio](https://open.spotify.com/track/15Qpoi7VSKdE5JNdfVfsgM) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Miss Me Much?](https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2) | 3:17 |
+| 47 | [El Premio](https://open.spotify.com/track/15Qpoi7VSKdE5JNdfVfsgM) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Miss Me Much?](https://open.spotify.com/album/1a84mOgwvjDxfwSBpJxoP2) | 3:17 |
+| 48 | [Creo En Ti](https://open.spotify.com/track/69vFMxC1GJZpwo5kgGuofZ) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Creo En Ti](https://open.spotify.com/album/30kc0EqIqIfkPYRG78M01v) | 3:22 |
 | 49 | [Imborrable](https://open.spotify.com/track/45Hz1aS6HYhpkgu1FOQndk) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 2:59 |
 | 50 | [Bombas de Amor](https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE) | [Rada Mancy](https://open.spotify.com/artist/21PrTkKjHMMwD1cNVzfr0R), [LOWLIGHT](https://open.spotify.com/artist/7LHU5Uga349zOVMpDPf4ij) | [Bombas de Amor](https://open.spotify.com/album/4rs98Hvm7jujBnsanUI1yM) | 2:42 |
 

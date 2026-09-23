@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: This is Lorlelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,906,038 likes - 53 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,901 likes - 53 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

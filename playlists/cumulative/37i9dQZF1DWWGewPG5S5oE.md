@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 佐瀬悠輔
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 4Aces
 
-577 songs - 1 day 23 hr 7 min
+580 songs - 1 day 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Fantasy](https://open.spotify.com/track/3SHBfBhaNvxeFm9rk4upHM) | [miki et nana](https://open.spotify.com/artist/6VJbP7sFsIyu2nILJEQkcZ), [宮本美季](https://open.spotify.com/artist/61Z9gC4wurRMsYQPPbueOE), [Miku Yonezawa](https://open.spotify.com/artist/74un9WJ6c4Ak1wqQIxZ920) | [Fantasy](https://open.spotify.com/album/4GnFsm5X8ChxeZRf85tet4) | 5:07 | 2026-09-15 |  |
 | [Fiction](https://open.spotify.com/track/0iSowMxJqhNn89D6aM3UQ8) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Heart of Tokage](https://open.spotify.com/album/7Do6pM4reRPvvgwKYg6hL9) | 3:42 | 2023-03-21 | 2023-05-17 |
 | [Find You Find Me](https://open.spotify.com/track/4d2I2W72Hnal6K6w86mYK9) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [Find You Find Me](https://open.spotify.com/album/1xYZtlGvIcHC5qYtjdTy9N) | 3:58 | 2025-03-18 | 2025-05-26 |
+| [First Impact](https://open.spotify.com/track/7mTUig0CXahcbdrFzJV2Zi) | [Spice PlayboyZ](https://open.spotify.com/artist/36iAb9qfgxhVeieTnlPc3z), [Shinya”MONKY”Ienaga](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [First Impact](https://open.spotify.com/album/4i20IpOda0nBocTsvvxb9a) | 5:19 | 2026-09-23 |  |
 | [FIRST NOTE](https://open.spotify.com/track/03IckTW2qNaWUvrOHtuYhL) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 7:45 | 2023-02-16 | 2025-06-04 |
 | [Flowing Rhyme](https://open.spotify.com/track/27R5CLTecHiNhM5BdghE1Z) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Flowing Rhyme](https://open.spotify.com/album/4gNAtde98C74XXWrJa5ntF) | 3:25 | 2022-10-18 | 2022-11-03 |
 | [For Heaven's Sake](https://open.spotify.com/track/5jhNKwaF4LKm6467Hje4ma) | [若井優也トリオ](https://open.spotify.com/artist/0eeeQmje30ZSbmXjqPfaUQ), [若井優也](https://open.spotify.com/artist/0nWojq8ioTZppcPeHEz6gd), [Satsuki Kusui](https://open.spotify.com/artist/5mZuS1wsHq3AvUtaekeYTD), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Will II](https://open.spotify.com/album/5ESRlLUl54WKrTjdUJJdWg) | 8:06 | 2024-05-28 | 2024-07-17 |
@@ -466,6 +467,7 @@
 | [Two Shadows](https://open.spotify.com/track/6DeMB7zj9PHsErZClrdna5) | [arauchi yu](https://open.spotify.com/artist/04bUFAiWthHUAI5TsPxTlS), [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [Sisei](https://open.spotify.com/album/4uRAlLzyBxwLHOtBBg6HDV) | 3:41 | 2022-09-06 | 2022-09-15 |
 | [UHOPE](https://open.spotify.com/track/1xUJg0XOmAN7u0Y2YAu7St) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [UHOPE](https://open.spotify.com/album/7q9hNKpqQbGXDeRWkwCmlZ) | 4:23 | 2022-12-20 | 2023-01-25 |
 | [Un Poco Loco](https://open.spotify.com/track/6QGESpJ5Olu3J9EAbdyvED) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Un Poco Loco](https://open.spotify.com/album/11ulHNjlgRjdpi8gASI1XA) | 4:25 | 2024-10-01 | 2024-10-23 |
+| [Unbound \(feat.TiA\)](https://open.spotify.com/track/3OIiVdKfX3HEDXolXj1x3h) | [PYRAMID](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [TiA](https://open.spotify.com/artist/7McY8NwWEwM49D53tGVoqp) | [PYRAMID 6](https://open.spotify.com/album/7cLaKfJXz2Vq0DlyDeZR7p) | 4:00 | 2026-09-23 |  |
 | [Unstoppable journey](https://open.spotify.com/track/6xsIxv84qSgqehvLu7HPhK) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [Wind Loop Case](https://open.spotify.com/artist/5JNs2HESqeKZBoMGnElAMh) | [Unstoppable journey](https://open.spotify.com/album/0sVwGWNZIzQm6kyWtwWHEN) | 4:01 | 2025-11-11 |  |
 | [URAH](https://open.spotify.com/track/0Yb57OXbeD7SLeYlfWcTCr) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [URAH](https://open.spotify.com/album/2r1B1VZu7DXsismv94sH0h) | 3:43 | 2025-03-11 |  |
 | [Veb](https://open.spotify.com/track/0W6nAyQD0qsxEWIOheMyzg) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [Budding](https://open.spotify.com/album/3slPLtQUaccyXUbEYH1wbw) | 3:19 | 2024-08-20 | 2024-09-18 |
@@ -570,6 +572,7 @@
 | [架空都市](https://open.spotify.com/track/1WR0Ow20xUHfXvYhKRHQYr) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [架空都市](https://open.spotify.com/album/4gk9e4b1F40Gv5Vmkjj5ix) | 2:48 | 2023-08-01 | 2023-09-16 |
 | [残酷な天使のテーゼ](https://open.spotify.com/track/2qsEXWB1PgF9cYFvryo7F2) | [Anime That Jazz](https://open.spotify.com/artist/0AmBT7fJDVHS4BshgbY8Aw) | [EVENING!](https://open.spotify.com/album/6Fx9cVaFK9sjeXjQbPoOrf) | 4:23 | 2022-09-06 | 2023-06-19 |
 | [流星の茶話会](https://open.spotify.com/track/4swDVIH5fT96oMp9AGi2XX) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [流星の茶話会](https://open.spotify.com/album/2KKdWldMNePwOF9x0biuC0) | 3:39 | 2025-01-14 | 2025-02-09 |
+| [海辺](https://open.spotify.com/track/1nJUhtqUpByIh7ZWZz7ZSe) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL), [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [海辺](https://open.spotify.com/album/0L6pd82JVKFmVPzjhx9luC) | 4:00 | 2026-09-23 |  |
 | [炎のインプロビゼーション](https://open.spotify.com/track/0oLlJAlVk0nRJrOX7bmHYP) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Beat Swing](https://open.spotify.com/album/0UDOcS1jMBweDDsF2qWXQp) | 2:02 | 2023-09-12 | 2023-10-20 |
 | [熱帯回廊](https://open.spotify.com/track/1cQOzGQC6lvtmnp90BlRnd) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [熱帯回廊](https://open.spotify.com/album/2atvkylrZP3KHrzqIyqlrD) | 3:21 | 2025-08-05 | 2025-09-23 |
 | [疾走する閃光 \- 2024 NEW TAKE](https://open.spotify.com/track/4PM4nCH3fiJ6LH3v35Hpm3) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [疾走する閃光 \(2024 NEW TAKE\)](https://open.spotify.com/album/4lOSMUJfyIiUDlAJopEWuR) | 3:49 | 2024-07-09 | 2024-09-21 |

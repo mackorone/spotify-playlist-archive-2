@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s fresh! Nathan Bank y Mia Salinas en portada \u2728",
-  "num_followers": 96381,
+  "num_followers": 96391,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2026-09-11 06:00:25",
       "album": {
+        "name": "Una y Otra Vez",
+        "url": "https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT"
+      },
+      "artists": [
+        {
+          "name": "Kenia Os",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 182129,
+      "name": "Una y Otra Vez",
+      "url": "https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n"
+    },
+    {
+      "added_at": "2026-09-11 06:00:25",
+      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/6kn5ZIUlHA3NBsacObuBiU"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 250006,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7IwG40uAh2A39GQtqANRNW"
-    },
-    {
-      "added_at": "2026-09-11 06:00:25",
-      "album": {
-        "name": "Una y Otra Vez",
-        "url": "https://open.spotify.com/album/2mIRZwtWJfTMXb9IlD92WT"
-      },
-      "artists": [
-        {
-          "name": "Kenia Os",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 182129,
-      "name": "Una y Otra Vez",
-      "url": "https://open.spotify.com/track/01Jau2dvxahy6s00VFFB0n"
     },
     {
       "added_at": "2026-09-11 06:00:25",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-09-11 06:00:25",
       "album": {
+        "name": "AMOR",
+        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 180857,
+      "name": "AMOR",
+      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
+    },
+    {
+      "added_at": "2026-09-11 06:00:25",
+      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
-    },
-    {
-      "added_at": "2026-09-11 06:00:25",
-      "album": {
-        "name": "AMOR",
-        "url": "https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 180857,
-      "name": "AMOR",
-      "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
     },
     {
       "added_at": "2026-09-11 06:00:25",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-09-11 06:00:25",
       "album": {
-        "name": "Tu Coraz\u00f3n (Your Heart)",
-        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "Tu Coraz\u00f3n (Your Heart)",
-      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
-    },
-    {
-      "added_at": "2026-09-11 06:00:25",
-      "album": {
         "name": "Bella Nostalgia",
         "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 210181,
       "name": "Mantra",
       "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
+    },
+    {
+      "added_at": "2026-09-11 06:00:25",
+      "album": {
+        "name": "Tu Coraz\u00f3n (Your Heart)",
+        "url": "https://open.spotify.com/album/18b9Dj6RtCqtorAu7l9PKX"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "Tu Coraz\u00f3n (Your Heart)",
+      "url": "https://open.spotify.com/track/64PXpstU2BDJ1iMcPNLJyS"
     },
     {
       "added_at": "2026-09-11 06:00:25",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-09-11 06:00:25",
       "album": {
+        "name": "Tengamos Pasado",
+        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "Tengamos Pasado",
+      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
+    },
+    {
+      "added_at": "2026-09-11 06:00:25",
+      "album": {
         "name": "Lienzo",
         "url": "https://open.spotify.com/album/3PaifgkK7vVua23LjjhXEv"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 180643,
       "name": "Lienzo",
       "url": "https://open.spotify.com/track/6Z7Pj8Yq2rUWh9kT9NMmUN"
-    },
-    {
-      "added_at": "2026-09-11 06:00:25",
-      "album": {
-        "name": "Tengamos Pasado",
-        "url": "https://open.spotify.com/album/5INXB8bPP0WzT5lLuhRSlF"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 180648,
-      "name": "Tengamos Pasado",
-      "url": "https://open.spotify.com/track/4fBDh59Cybyp5UNqoNGRfP"
     },
     {
       "added_at": "2026-09-11 06:00:25",

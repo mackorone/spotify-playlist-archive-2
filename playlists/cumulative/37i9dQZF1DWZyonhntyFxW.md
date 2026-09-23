@@ -4,7 +4,7 @@
 
 > أقوى تراكات الهيب هوب في مصر\. الغلاف: شاهين
 
-496 songs - 1 day 0 hr 8 min
+497 songs - 1 day 0 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [B.B\. King \(feat\. Dhom Altlasy\)](https://open.spotify.com/track/3foWJiDgHfG2OJfoiB6W9i) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q), [دحوم الطلاسي](https://open.spotify.com/artist/1oqdsH0De57FaORaUIF9gC) | [Aqareb \(Side B\)](https://open.spotify.com/album/0N7f8HwliUbikVCIfogDgv) | 3:12 | 2025-12-15 |  |
 | [B5L3](https://open.spotify.com/track/5vElTBWlBEIbD4rEDK3xcM) | [$AVAGE](https://open.spotify.com/artist/2W8Ohp09zW7NhBbdXQd5Kn), [IL DOD](https://open.spotify.com/artist/3iRoeoGmK8clvIA0tko3TZ) | [B5L3](https://open.spotify.com/album/0BJ8CTwZak4vm3zsxAn9oo) | 2:24 | 2026-05-07 | 2026-06-04 |
 | [Baba](https://open.spotify.com/track/0HjAtdzoK8MsULTU5VwyFT) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp) | [Madina](https://open.spotify.com/album/5XLUPYK6v0Mbnu95pbh3Tp) | 3:53 | 2022-09-13 | 2022-12-24 |
-| [BABA](https://open.spotify.com/track/6DfufSrieDt7oDP7CbxtnZ) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Masr El Qadeema](https://open.spotify.com/album/6XMsjLJeaWPcKQkcHCu3ZL) | 2:54 | 2026-06-04 |  |
+| [BABA](https://open.spotify.com/track/6DfufSrieDt7oDP7CbxtnZ) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [Masr El Qadeema](https://open.spotify.com/album/6XMsjLJeaWPcKQkcHCu3ZL) | 2:54 | 2026-06-04 | 2026-09-23 |
 | [Baby](https://open.spotify.com/track/4TwTditvJMYwrziGh8lie2) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Nemshy Men Hena](https://open.spotify.com/album/5pR4Pul9p5vc41ZYUfcWfK) | 3:06 | 2024-01-28 | 2024-02-23 |
 | [Baby Blue](https://open.spotify.com/track/46wGwb238XBRZru8F7tDWu) | [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Law Makonash 7awelna](https://open.spotify.com/album/4jgrUDNCGIQDq8I7sxAuY7) | 2:42 | 2022-11-07 | 2023-05-17 |
 | [BABY SHARK](https://open.spotify.com/track/0kk9vdY4MkMkUHXChid1uF) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM) | [BABY SHARK](https://open.spotify.com/album/2d1wj8Lrbg0iD7o3v44HP3) | 1:54 | 2026-02-25 | 2026-06-10 |
@@ -116,6 +116,7 @@
 | [CEO](https://open.spotify.com/track/6IsX1rs9rcMd3wv93o6qfG) | [Shahyn](https://open.spotify.com/artist/3SMvE0QyULRkKy2Y2FLbUG), [Coolpix](https://open.spotify.com/artist/3ZMiLbKwMsHFQekTHnBBdZ) | [Taltesh](https://open.spotify.com/album/6aMnPHAhk61cqirNCy6pGi) | 2:19 | 2026-08-24 |  |
 | [CHA CHA MATCHA](https://open.spotify.com/track/57dMVjmPjXVXGbbg5STyCb) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [CHA CHA MATCHA](https://open.spotify.com/album/5TYiEK0q0nU8lXJWMerMKm) | 2:55 | 2026-08-10 |  |
 | [CHAPTER III: GORAA](https://open.spotify.com/track/11CLR83zp5oox9U0dr21Uw) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [TRAUMA \(2023\)](https://open.spotify.com/album/7i1bXILDFwI9u4SaHFOTEJ) | 3:02 | 2023-02-20 | 2023-03-03 |
+| [Chroma](https://open.spotify.com/track/0g2elefSy3GShR1ubYszF0) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Chroma](https://open.spotify.com/album/5wMhz1w51hcKQtXnHM6tRh) | 2:38 | 2026-09-22 |  |
 | [CITY](https://open.spotify.com/track/64TWN5dXHFAfPdTrl7tm6e) | [Omar Keif](https://open.spotify.com/artist/2sc7PVTWRHueOWkvt4cxEf), [Mousv](https://open.spotify.com/artist/6CGE1o9Swi1tAEa23wRTah) | [CITY](https://open.spotify.com/album/3CA3aSk21SllyOedccrxr9) | 2:45 | 2026-05-07 |  |
 | [Code](https://open.spotify.com/track/6zgFCgu5goQ6fvcRZ8zvbT) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Code](https://open.spotify.com/album/3RrKOzOn551GmZ18WCrRnj) | 4:08 | 2024-01-29 | 2025-10-07 |
 | [CRISTIANO](https://open.spotify.com/track/70o1xXReo9Y5N0OPKxHB8v) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl), [EVO](https://open.spotify.com/artist/3zg3iSMFyA6Jl24iLbQIlx) | [EL\- RAYES x CR7](https://open.spotify.com/album/22l5F8L05DBTaQ6IjDIgJV) | 2:26 | 2024-01-25 | 2024-02-07 |

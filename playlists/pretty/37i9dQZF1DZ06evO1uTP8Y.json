@@ -1,12 +1,12 @@
 {
   "description": "This is Odeal. The essential tracks, all in one playlist.",
-  "num_followers": 16231,
+  "num_followers": 16252,
   "original_name": "This Is Odeal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAC5PYkuhpsI/yksQ52lj82/",
+  "snapshot_id": "arBzgAAAAAA19WzeNX81ZRlDhSkS5uCP",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
+      },
+      "artists": [
+        {
+          "name": "Odeal",
+          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "You're Stuck",
+      "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/5Bhe2wkVUz1nOjPp2L80t9"
       },
@@ -643,26 +663,6 @@
       "duration_ms": 142135,
       "name": "Space",
       "url": "https://open.spotify.com/track/43Gw9Yd4mYtpJ1AHFA00oY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lustropolis",
-        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
-      },
-      "artists": [
-        {
-          "name": "Odeal",
-          "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "You're Stuck",
-      "url": "https://open.spotify.com/track/5lqrfNrGrMfNlPxcCrlmyp"
     },
     {
       "added_at": null,
@@ -903,8 +903,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OVMBR: Roses",
-        "url": "https://open.spotify.com/album/66LEmqkDYl5OFC62EA5M7q"
+        "name": "Lustropolis",
+        "url": "https://open.spotify.com/album/6fxMeTRs7F0zyooUfR9YSa"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh"
         }
       ],
-      "duration_ms": 161211,
-      "name": "24/48",
-      "url": "https://open.spotify.com/track/3GwovMvw7GvDsbolWbHImh"
+      "duration_ms": 183703,
+      "name": "HBTS (Haven't Been The Same)",
+      "url": "https://open.spotify.com/track/6rWgCitTZWRCk8DgfJWsiV"
     }
   ],
   "unique_name": "This Is Odeal",

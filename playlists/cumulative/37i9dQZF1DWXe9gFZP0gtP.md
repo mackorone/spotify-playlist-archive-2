@@ -4,7 +4,7 @@
 
 > Calm your mind from anxiety with gentle piano and ambient music.
 
-815 songs - 1 day 14 hr 30 min
+822 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Lana](https://open.spotify.com/track/3MGCNZbekjphNk5SKVCdme) | [Julian Nema](https://open.spotify.com/artist/1Q6EETJLIdmRFA2OVj97HS) | [Nova](https://open.spotify.com/album/1rvBfxWsbgqQKg0UHdTTeT) | 2:35 | 2022-10-21 | 2025-05-07 |
 | [Landing on clouds](https://open.spotify.com/track/10UEnZDKuuAuQitOyVhS6Y) | [Dust Merchant](https://open.spotify.com/artist/4fbbE6iUtkyYBXQpYuuyqn) | [Insomnia Tamer](https://open.spotify.com/album/1XELmRwGmVDmehuINfxmZ2) | 2:24 | 2022-07-15 | 2025-02-13 |
 | [Last Night](https://open.spotify.com/track/0mEtQh163dmE6NjbaPqf6o) | [Jedisol](https://open.spotify.com/artist/7kmBZkdNHbYShCHyfyK49b) | [Last Night](https://open.spotify.com/album/4dLc9E2edRxouguIrCA1OX) | 2:07 | 2021-12-17 | 2022-09-03 |
+| [Latitude Two](https://open.spotify.com/track/63utctzEfEF6Naw7VBWA1I) | [Molnen](https://open.spotify.com/artist/3XcViLMjxgKWbdC7bBvHQd) | [Latitude Two](https://open.spotify.com/album/50npeW8lipEdKJJR6OnZnO) | 2:42 | 2026-09-22 |  |
 | [Lavender](https://open.spotify.com/track/3T0pE0Y5DAzNAZTrnLagCt) | [Broken Peak](https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os) | [Lavender](https://open.spotify.com/album/6BuLXbQHZ8hO5KHHdLTxHF) | 2:52 | 2024-09-05 |  |
 | [Leaning Back](https://open.spotify.com/track/6sEppTDQ5OVa27FhMt6ZeG) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Leaning Back](https://open.spotify.com/album/0EVltHR7eEhOy4vMNScqBR) | 2:46 | 2026-03-20 |  |
 | [Lenitivo](https://open.spotify.com/track/6PEwEkL4lzRbGMGH7j7kBB) | [Jeanelle Bolduc](https://open.spotify.com/artist/395oAJMtpPY7ovJ9GbFkGQ) | [Lenitivo](https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi) | 3:00 | 2021-12-17 | 2024-05-12 |
@@ -484,6 +485,7 @@
 | [More Than Words](https://open.spotify.com/track/6p0x4LWAyvfaiGzAnlyvgF) | [Niccolò Pagliani](https://open.spotify.com/artist/59yX2grILnPdqDdLnYhKJE) | [Aria](https://open.spotify.com/album/0fDLayEBsm8M2lF439Fcol) | 3:38 | 2021-12-17 | 2022-04-22 |
 | [Morning Glow](https://open.spotify.com/track/6lFTI52bgQ1Y8aABzzvSis) | [August Cole](https://open.spotify.com/artist/6eHsrWVVrIr0IlQTbMJE8O) | [Morning Glow](https://open.spotify.com/album/09KckEMotdvUTIx1t1ZbO9) | 2:43 | 2026-07-03 |  |
 | [Morning Stillness](https://open.spotify.com/track/0RnPPtolUwGGofZqmjQWkr) | [Neidar](https://open.spotify.com/artist/7H5LahVbGPNKKR1YzHNdaP) | [Morning Stillness](https://open.spotify.com/album/6fQKkR8w8gvIW77YzXJ03t) | 2:28 | 2023-02-17 | 2025-10-24 |
+| [Morning Stillness](https://open.spotify.com/track/0pYL6TZfYdJ2yCxVxyqbVe) | [Richome](https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS) | [Morning Stillness](https://open.spotify.com/album/0uRwCU0AOJVbDDFDKlH837) | 2:48 | 2026-09-22 |  |
 | [Moving Like the Mountain](https://open.spotify.com/track/2Ka7W7Gz06zhtKCOrLB0pR) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Courage In Her Pocket](https://open.spotify.com/album/3Dk9dKPZo1KaTwcXE3zXMx) | 2:59 | 2021-12-17 | 2022-09-03 |
 | [Mu](https://open.spotify.com/track/0TcMJaa7AS7iAIjODoEG2y) | [Bayesian](https://open.spotify.com/artist/5ebRLrbXM24DFqfrCuBjB8) | [Mu](https://open.spotify.com/album/6893AcTPpaEg7AyyCi0lwJ) | 2:37 | 2025-01-07 | 2026-02-12 |
 | [Muer](https://open.spotify.com/track/1InzFeMtTWJIWBIfcvVwMu) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Muer](https://open.spotify.com/album/3joygzJUq0xtgNkoJMZTk4) | 3:33 | 2021-12-17 | 2024-03-27 |
@@ -665,6 +667,7 @@
 | [Sofolix](https://open.spotify.com/track/4JepoLsttGu6IKGpbkZ1wC) | [Koma](https://open.spotify.com/artist/74UZVMMnRA5yLeGJarnV49) | [Sofolix](https://open.spotify.com/album/7oQYlY3k09dl13cJrhYVlE) | 2:22 | 2025-06-16 |  |
 | [Soft](https://open.spotify.com/track/6HR82S6IU4a7Lq0Gg8fx8U) | [Madna Eúra](https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe) | [Soft](https://open.spotify.com/album/33WqLEqPxoOwdF2ZnE6YTx) | 2:52 | 2023-09-29 | 2025-03-01 |
 | [Soft Glow](https://open.spotify.com/track/0QUg8u6Be41lGGP1p7X5M9) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Soft Glow](https://open.spotify.com/album/3SGsjqjfKfRPdoLKsTLUJe) | 2:41 | 2025-10-23 |  |
+| [Soft Ground](https://open.spotify.com/track/5TBnLDLCDtCBOo7BoV0agL) | [Stardustara](https://open.spotify.com/artist/7iIzmOCuv0CRaTzzvGvEsS) | [Soft Ground](https://open.spotify.com/album/4iUPToIGkYOzuX2rDNETbF) | 2:54 | 2026-09-22 |  |
 | [Soft Lumen](https://open.spotify.com/track/3EKU40HWu6FIp0nYeP5XsQ) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Soft Lumen](https://open.spotify.com/album/2lDL9s7dQ5NZE51TsnGvzI) | 2:42 | 2026-06-12 |  |
 | [Soft Sky](https://open.spotify.com/track/4fQVzBgjBG5EgGOpW7IDLe) | [Siestaphonic](https://open.spotify.com/artist/0Yq3eHs1DRXkUOwMoJyfap) | [Soft Sky](https://open.spotify.com/album/6uK20Ot6zllADVfMruvFbk) | 2:43 | 2026-07-03 |  |
 | [Softness](https://open.spotify.com/track/2aWJIRowX2FRrKWiZZ6TD7) | [Quiet Tones](https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z) | [Softness](https://open.spotify.com/album/1Ph1MEBjnpFsucCBdTKGhK) | 2:11 | 2026-07-03 |  |
@@ -731,6 +734,7 @@
 | [The Quiet Return](https://open.spotify.com/track/40kLh8BMKtxYzClE877nBd) | [Paix Sonique](https://open.spotify.com/artist/5g4W27S2ZTFOatbUBDXCwd) | [The Quiet Return](https://open.spotify.com/album/4hReEt7a5CioBBLQbB6O5a) | 2:57 | 2025-09-10 | 2026-03-21 |
 | [The Return](https://open.spotify.com/track/5jJPUauvwb8FH6nElcdawu) | [Echo River](https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8) | [The Return](https://open.spotify.com/album/6dVvEmW1yxccq33wBqpCb3) | 3:55 | 2025-06-04 |  |
 | [The Return](https://open.spotify.com/track/0yuos80cVkjKN1gLKAoVBg) | [Poery](https://open.spotify.com/artist/4bBUpmis3SXC5W9N92H3xC) | [The Return](https://open.spotify.com/album/4vopNqveoyiZML72Np4CAj) | 2:39 | 2024-09-05 | 2025-10-24 |
+| [The Silence we keep](https://open.spotify.com/track/3lygKCiYc0OlPXjAKiOBby) | [Mahyar](https://open.spotify.com/artist/5bYzD2YaRwu1jMrnao3Yxv) | [The Silence we keep](https://open.spotify.com/album/6ujwoVF1Axz3MGdU5fIML1) | 2:26 | 2026-09-22 |  |
 | [The Slow Horizon](https://open.spotify.com/track/30gYInRpcHDr1iBMTpFy55) | [Elvin Mercher](https://open.spotify.com/artist/5GVmxZZpLOj3mPeqMmNoFv) | [The Slow Horizon](https://open.spotify.com/album/6N8Ae9PL3bKFmR5cQShP8n) | 2:18 | 2026-06-12 |  |
 | [The Space After Dreams](https://open.spotify.com/track/0NwgKlxkxQL6vc1j0H7OTP) | [Koroan](https://open.spotify.com/artist/2ZiQmEObZQrqrEZuibyqFD) | [The Space After Dreams](https://open.spotify.com/album/7bM5UpsoyKyE6YhTOLENpr) | 2:28 | 2026-07-31 |  |
 | [The Space Between Dreams](https://open.spotify.com/track/42sptsSu3qydbov3DVQqnj) | [OmniBrain](https://open.spotify.com/artist/5OIg5Mtsl62IziXx0cGh06) | [The Space Between Dreams](https://open.spotify.com/album/01QW1tgRNQ6KEldWrvDVFk) | 3:00 | 2025-02-12 | 2026-06-05 |
@@ -791,11 +795,14 @@
 | [Wave After Wave](https://open.spotify.com/track/3OUKRGnpsMenK14ZDdSHmk) | [The Only Star In The Sky](https://open.spotify.com/artist/0V0CTs5Y6qKqbzZ7lomgkz) | [Wave After Wave EP](https://open.spotify.com/album/2BTITyM3Rlo6tL1Z2wnZj2) | 3:32 | 2021-12-17 | 2022-09-03 |
 | [Waves](https://open.spotify.com/track/4iIxW6p4FAFjBV8L14hQfC) | [Unilow](https://open.spotify.com/artist/3zSgZfjvgK6sEyiEVa2vQa) | [Porcelain](https://open.spotify.com/album/4JM38aezOxi9ZN7dKawJcx) | 3:21 | 2022-11-11 | 2025-05-07 |
 | [Way of Shadows](https://open.spotify.com/track/71mN9aVMlm4vBZ6YzKPKeR) | [Astral Shade](https://open.spotify.com/artist/42c3aLrVih68JMreBuRe8m) | [Cloudless Night](https://open.spotify.com/album/2PNoGpXnFx0qIxy5VXJboe) | 2:55 | 2021-12-17 | 2022-10-08 |
+| [Wayfarer](https://open.spotify.com/track/02oysLUxVPQMs9p5vVoYwZ) | [Cipher](https://open.spotify.com/artist/1Uwvwh3IvEvIgZUfF6U8hl) | [Wayfarer](https://open.spotify.com/album/2xsFKMrHKrEdP9Rr6ebCYx) | 2:18 | 2026-09-22 |  |
 | [we almost stayed](https://open.spotify.com/track/1CcXSXZG7QU62yvSnoCvaj) | [Avyr](https://open.spotify.com/artist/0iybthpZvuI5HJIYhxSC01) | [we almost stayed](https://open.spotify.com/album/09qh1W1YCp86S8cC0PGExd) | 2:39 | 2026-08-21 |  |
 | [Weightless Light](https://open.spotify.com/track/1QNt0WNMyTThXRbUWaYrH2) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Weightless Light](https://open.spotify.com/album/01UbUydjguo8BrOw0cDGuj) | 2:27 | 2026-06-12 |  |
 | [West coast sunset](https://open.spotify.com/track/1lz3cwq320jLXQplcZF0HZ) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [West coast sunset](https://open.spotify.com/album/5mRHmIVxOKQSuenfCbzYZS) | 2:52 | 2025-10-23 |  |
+| [Westering](https://open.spotify.com/track/2CRkvqtuRGj1RKGfDjF42I) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Westering](https://open.spotify.com/album/5ouB5gx3nk0S276wiGxgKA) | 2:50 | 2026-09-22 |  |
 | [What's Best For You](https://open.spotify.com/track/3YPMSEyEJkYpvQB1kcs5Rl) | [Esmay Gouin](https://open.spotify.com/artist/7FmXiPBaufqqZHoBmGEiCx) | [What's Best For You](https://open.spotify.com/album/2k0IJZavMYJ2Pi3ZRymD86) | 3:38 | 2021-12-17 | 2022-04-15 |
 | [When It Was Just A Dream](https://open.spotify.com/track/286oXCQiXd21D7WVeMMYCc) | [Diya Wiler](https://open.spotify.com/artist/0DZNNKLNypEjKUpkgJS01w) | [When It Was Just A Dream](https://open.spotify.com/album/4jmFY2PjbsmX14YRwENDJZ) | 3:25 | 2021-12-17 | 2025-02-08 |
+| [When The Dial Slows](https://open.spotify.com/track/2vmVlTtVQRJVRIzNI4vuRY) | [Nicolas Riber](https://open.spotify.com/artist/764OZZA9pVhDi1Wej23zJr) | [When The Dial Slows](https://open.spotify.com/album/2JsaCsdFwz7qBzQPQkU0Wc) | 2:42 | 2026-09-22 |  |
 | [When the Layers Fall Away](https://open.spotify.com/track/5ffWxwyjRSnfGxBobiUk6T) | [Embershine Air](https://open.spotify.com/artist/0t0Tr9gZYNykV3EIFHSkUt) | [When the Layers Fall Away](https://open.spotify.com/album/73aVy42Wf4mLCg7sA7FmbT) | 2:55 | 2025-12-02 | 2026-06-05 |
 | [When You Feel](https://open.spotify.com/track/1CWZw2kURWX9xDfMgInLO3) | [Lumen Sonitus](https://open.spotify.com/artist/3SDNlIofTaP7JPLmq0KnYW) | [When You Feel](https://open.spotify.com/album/6O5CNFZmFf4YqY2bNu2VZ4) | 2:53 | 2025-01-07 | 2026-02-05 |
 | [Where Dreams Begin](https://open.spotify.com/track/6Q3W3lQNWQJ3wGzXlAmHd7) | [Acirassi](https://open.spotify.com/artist/30uYGdJCm0u2mNZzICXAf9) | [Where Dreams Begin](https://open.spotify.com/album/0PsJWHZYcrJYa6TOIBamrD) | 2:43 | 2021-12-17 | 2024-05-12 |

@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 76748,
+  "num_followers": 76778,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -23,42 +23,6 @@
       "duration_ms": 337560,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/4VI7berVSzuaBt1BGrBksC"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "THANKFUL",
-        "url": "https://open.spotify.com/album/0Lukg1vKeWF4qQ0k4YcN0C"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 136458,
-      "name": "THANKFUL",
-      "url": "https://open.spotify.com/track/3q7GRmWPTNo5S6CEq6SURW"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "SO BE IT",
-        "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 299583,
-      "name": "God I'm Just Grateful",
-      "url": "https://open.spotify.com/track/21od4Ae35Nvx91Qel9gRiw"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -95,6 +59,42 @@
       "duration_ms": 465744,
       "name": "I Thank God (feat. Dante Bowe, Maryanne Joshua George & Aaron Moses)",
       "url": "https://open.spotify.com/track/3IBHk8pwBYyzlKYGVmoWQt"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "SO BE IT",
+        "url": "https://open.spotify.com/album/6OF8Psf3BjjHnBIfUpOYHp"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 299583,
+      "name": "God I'm Just Grateful",
+      "url": "https://open.spotify.com/track/21od4Ae35Nvx91Qel9gRiw"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "THANKFUL",
+        "url": "https://open.spotify.com/album/0Lukg1vKeWF4qQ0k4YcN0C"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 136458,
+      "name": "THANKFUL",
+      "url": "https://open.spotify.com/track/3q7GRmWPTNo5S6CEq6SURW"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -503,26 +503,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "Grateful",
-        "url": "https://open.spotify.com/album/5eh5evi4KTG3lCse4cMcod"
-      },
-      "artists": [
-        {
-          "name": "Michael Ketterer",
-          "url": "https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo"
-        },
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        }
-      ],
-      "duration_ms": 179987,
-      "name": "Grateful",
-      "url": "https://open.spotify.com/track/2JBhGHLxi1AEFNhTttc8l2"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "Thankful",
         "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 150313,
       "name": "thank you",
       "url": "https://open.spotify.com/track/6cf0agH2MqxT8t4ea1FSD7"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "Grateful",
+        "url": "https://open.spotify.com/album/5eh5evi4KTG3lCse4cMcod"
+      },
+      "artists": [
+        {
+          "name": "Michael Ketterer",
+          "url": "https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo"
+        },
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        }
+      ],
+      "duration_ms": 179987,
+      "name": "Grateful",
+      "url": "https://open.spotify.com/track/2JBhGHLxi1AEFNhTttc8l2"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
+        "name": "Things I'm Thankful For",
+        "url": "https://open.spotify.com/album/3Ya7msaCiI22qG9iIRo0cn"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Things I'm Thankful For",
+      "url": "https://open.spotify.com/track/1dskRzY3rg3ilpyQvkUrPS"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/2l5xqSAVtEUj0U26vjL0SQ"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 168785,
       "name": "THANK YOU JESUS",
       "url": "https://open.spotify.com/track/3YLX1VjbWgtAd44hD8T5I8"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "Things I'm Thankful For",
-        "url": "https://open.spotify.com/album/3Ya7msaCiI22qG9iIRo0cn"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Things I'm Thankful For",
-      "url": "https://open.spotify.com/track/1dskRzY3rg3ilpyQvkUrPS"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 392586,
-      "name": "Give Thanks - Live",
-      "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
         "name": "Spirit Of David",
         "url": "https://open.spotify.com/album/0pET03T6EolzBlC1Orb28h"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 295306,
       "name": "Oh Give Thanks (Psalm 136)",
       "url": "https://open.spotify.com/track/78cTCjjaCUHCmFqaHwROcC"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 392586,
+      "name": "Give Thanks - Live",
+      "url": "https://open.spotify.com/track/6BlbfgFzbNc8jM9hAZIOmh"
     },
     {
       "added_at": "2026-06-12 00:48:36",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-06-12 00:48:36",
       "album": {
+        "name": "Faithful To Believe",
+        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
+      },
+      "artists": [
+        {
+          "name": "Byron Cage",
+          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
+        }
+      ],
+      "duration_ms": 386466,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
+    },
+    {
+      "added_at": "2026-06-12 00:48:36",
+      "album": {
         "name": "Thank You",
         "url": "https://open.spotify.com/album/1ZjYyqnWU5CV1buejFZFk1"
       },
@@ -1607,22 +1623,6 @@
       "duration_ms": 195882,
       "name": "Thank You",
       "url": "https://open.spotify.com/track/1jSHuG8UuSHITdKR8EqtrE"
-    },
-    {
-      "added_at": "2026-06-12 00:48:36",
-      "album": {
-        "name": "Faithful To Believe",
-        "url": "https://open.spotify.com/album/5jbp09QYOKPcxnqrokbz61"
-      },
-      "artists": [
-        {
-          "name": "Byron Cage",
-          "url": "https://open.spotify.com/artist/1bxsoj9E6Z2GoHVIswbRez"
-        }
-      ],
-      "duration_ms": 386466,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
     },
     {
       "added_at": "2026-06-12 00:48:36",

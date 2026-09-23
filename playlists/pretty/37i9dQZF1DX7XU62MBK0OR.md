@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XU62MBK0OR.md) - [plain]
 
 > The official Bluey Playtime Playlist! Fun, feel\-good songs for every game, adventure and dance mode moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,248 likes - 30 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,537 likes - 30 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XU62MBK0OR.md) - [plain]
 | 29 | [Rain \(Boldly in the Pretend\) \(feat\. Jazz D'Arcy\)](https://open.spotify.com/track/56iEY3wqtdlwwy081F3XmI) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV), [Jazz D'Arcy](https://open.spotify.com/artist/2LemGUdMgljx9x6YVkfLij) | [Dance Mode!](https://open.spotify.com/album/2WLF2MEPy84iUHEkSElL4Z) | 4:08 |
 | 30 | [Rug Island \- Full Version](https://open.spotify.com/track/5NuyJAjEhItkHFJ2l5pkWX) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [Rug Island \(Full Version\)](https://open.spotify.com/album/7gPsHxkyML0jgQ3JMgYxTc) | 4:04 |
 
-Snapshot ID: `AAAAABTq11cfh1sJbsE8uSirM5XIEa03`
+Snapshot ID: `AAAAAAl39suX7JXQCYzp1GIvt8LP/RVE`

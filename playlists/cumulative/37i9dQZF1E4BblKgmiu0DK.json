@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 185333,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/2HDo9PLQ66EOVESfVjydro"
@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 229506,
       "name": "Get You Off",
       "url": "https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5"
@@ -4854,7 +4854,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 254400,
       "name": "Hang On Me",
       "url": "https://open.spotify.com/track/34RCix3Dx61ufZFSDlIyNs"
@@ -5870,7 +5870,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 131880,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1zFGHFw826rsYq9xlAX9Ox"
@@ -6819,6 +6819,24 @@
     },
     {
       "album": {
+        "name": "First Harmony",
+        "url": "https://open.spotify.com/album/68o7QqjLU27H5pGfDIfcSz"
+      },
+      "artists": [
+        {
+          "name": "Doctor Swarm",
+          "url": "https://open.spotify.com/artist/0vrwHelio44eHkRSvPXZzX"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175372,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/0TDtixsT2psc3aHdVsIpIM"
+    },
+    {
+      "album": {
         "name": "Lick the Spoon",
         "url": "https://open.spotify.com/album/0RvbdUUEU0fhw916Fse1y5"
       },
@@ -7688,7 +7706,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 207666,
       "name": "Misfit",
       "url": "https://open.spotify.com/track/6b3K0vdC7n2MSvJ5e6jOb0"
@@ -7904,7 +7922,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 244533,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4I4jpzMZY4LA0YOHYfNQTN"
@@ -8884,7 +8902,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 222586,
       "name": "One Way Or Another",
       "url": "https://open.spotify.com/track/2pyi6s2enD11IuyS7GGMni"
@@ -9957,6 +9975,24 @@
     },
     {
       "album": {
+        "name": "Rotura infinita",
+        "url": "https://open.spotify.com/album/63GxOzE8gliQTIlv0900xl"
+      },
+      "artists": [
+        {
+          "name": "PunkTurismo",
+          "url": "https://open.spotify.com/artist/4RcszqK69Zl9xD5KIW8Oay"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328814,
+      "name": "Rotura infinita",
+      "url": "https://open.spotify.com/track/5jW6cyuvWZvy6qFsOBt1ZE"
+    },
+    {
+      "album": {
         "name": "Ruin You",
         "url": "https://open.spotify.com/album/7tsnbxX5EpgDphSwgxA5jR"
       },
@@ -10184,7 +10220,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 235266,
       "name": "See Through",
       "url": "https://open.spotify.com/track/0K7wNQkyiRqhAcoIxxXA37"
@@ -11284,7 +11320,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 202560,
       "name": "Tap That",
       "url": "https://open.spotify.com/track/1Apbd1y0Umu8WtVPWKUmdJ"
@@ -11450,7 +11486,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 177187,
       "name": "The One",
       "url": "https://open.spotify.com/track/1qURvQI23nMGYzRyt8dGNF"
@@ -12358,7 +12394,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 115480,
       "name": "Watch Me Move",
       "url": "https://open.spotify.com/track/0E70YerfAQ1gbc6f7P2qdC"
@@ -12448,7 +12484,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 198570,
       "name": "Welcome To The Badlands",
       "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"

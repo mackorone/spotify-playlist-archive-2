@@ -1,6 +1,6 @@
 {
   "description": "Soak up the serenity with these beautiful melodies.",
-  "num_followers": 302978,
+  "num_followers": 302982,
   "original_name": "Peaceful Pop",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
+        "name": "I Can\u2019t Believe We Never Went Out Dancing",
+        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "I Can\u2019t Believe We Never Went Out Dancing",
+      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+    },
+    {
+      "added_at": "2026-02-10 13:00:15",
+      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/5ipsC4SrBYv87aO75cHV7o"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "I Can\u2019t Believe We Never Went Out Dancing",
-        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "I Can\u2019t Believe We Never Went Out Dancing",
-      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
-    },
-    {
-      "added_at": "2026-02-10 13:00:15",
-      "album": {
         "name": "Pieces",
         "url": "https://open.spotify.com/album/20udlOmp16aNccOj3iGupw"
       },
@@ -943,18 +943,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Where Have You Been",
-        "url": "https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y"
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
         }
       ],
-      "duration_ms": 237906,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa"
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
     },
     {
       "added_at": "2026-02-10 13:00:15",
@@ -975,18 +975,18 @@
     {
       "added_at": "2026-02-10 13:00:15",
       "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/6Kpy8J83AQc61i8f1RHL3y"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+      "duration_ms": 237906,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/4rvgToT6t8w9Vm9MbqjNHa"
     },
     {
       "added_at": "2026-02-10 13:00:15",

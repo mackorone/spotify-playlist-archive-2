@@ -1,12 +1,12 @@
 {
   "description": "This is Tyla. The essential tracks, all in one playlist.",
-  "num_followers": 88045,
+  "num_followers": 88074,
   "original_name": "This Is Tyla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABxgOjzuhNPndDwx0M6Mh8w",
+  "snapshot_id": "arBzgAAAAAAlEXCuYLluurC/bBo5ibfO",
   "tracks": [
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 167746,
+      "name": "On and On",
+      "url": "https://open.spotify.com/track/2bBaAOsFVQfKwMAe4wVQb6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girl Next Door",
         "url": "https://open.spotify.com/album/1FLS0YAOPY3Mcb0o5n5fl4"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 180682,
       "name": "Girl Next Door",
       "url": "https://open.spotify.com/track/000N4CJL8IjQ0f2I4grgBO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 167746,
-      "name": "On and On",
-      "url": "https://open.spotify.com/track/2bBaAOsFVQfKwMAe4wVQb6"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girls Need Love (Girls Mix)",
-        "url": "https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 158350,
-      "name": "Girls Need Love (Girls Mix) (feat. Tyla)",
-      "url": "https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/6q5zDop76n4wtnZg3Zhfo1"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 187037,
       "name": "Memories",
       "url": "https://open.spotify.com/track/4zMoZEkWSHb5NXuflbLHNI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Girls Need Love (Girls Mix)",
+        "url": "https://open.spotify.com/album/06oN7xkWw9ZJcbK6tIAI71"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 158350,
+      "name": "Girls Need Love (Girls Mix) (feat. Tyla)",
+      "url": "https://open.spotify.com/track/2SPr7EDc5WBw1tM6bNgcZC"
     },
     {
       "added_at": null,

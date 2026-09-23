@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 > This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,905 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,927 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 49 | [Piratita](https://open.spotify.com/track/6bxwhfXrbMk73UWxmPmmoU) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Piratita](https://open.spotify.com/album/4HP6iTCu0ph8dye2cYietb) | 1:55 |
 | 50 | [Un Solo Cielo](https://open.spotify.com/track/4stl58kTet0Jj6fvzWUa4h) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 2:59 |
 
-Snapshot ID: `aq8iAAAAAACHQS/skzMy8F+OYDsqewcj`
+Snapshot ID: `arBzgAAAAACQ8BU1kZ0NUCznU1hiLSZu`

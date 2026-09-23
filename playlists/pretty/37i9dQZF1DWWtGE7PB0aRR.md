@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,409 likes - 65 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,430 likes - 65 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 60 | [I'm Alright](https://open.spotify.com/track/6GxbzsagGFou6mhUWOiuox) | [Laura Evans](https://open.spotify.com/artist/5Da0bmelsF7cVnNaHoHHpS) | [I'm Alright](https://open.spotify.com/album/3wjqdkdOR2mOhdE0YdL8Hv) | 3:09 |
 | 61 | [So Tired of Living](https://open.spotify.com/track/5NzKWVIBmPJ0xp7VP0c2rn) | [Malone Sibun](https://open.spotify.com/artist/0m2ru7d9GvCPhRMV9Pf1yH), [Innes Sibun](https://open.spotify.com/artist/0mn36s1sBsCtzNXvxwZ7qj), [Marcus Malone](https://open.spotify.com/artist/1N3tM9SkDC5lYIDRVBBuiR) | [Come Together](https://open.spotify.com/album/5J9IEJ8AfBEuFKzNHaV7aF) | 6:29 |
 | 62 | [No Fool Baby](https://open.spotify.com/track/4nY5qPRiY5x0t1cwMBhNuS) | [Mick Clarke](https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt) | [No Fool Baby](https://open.spotify.com/album/1IaVCs3r55S02WlrZmKzP8) | 3:52 |
-| 63 | [Can't Keep from Loving You](https://open.spotify.com/track/1lM4AreOWHdLZV5YmPs3G4) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Can't Keep From Loving You](https://open.spotify.com/album/6tIe49swz5w7eBuCAFCOWQ) | 3:05 |
-| 64 | [God Loves A Loser](https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO) | [Todd Sharpville](https://open.spotify.com/artist/4iOFTwfnN1WfcIGYRoa3vE) | [Medication Time](https://open.spotify.com/album/2NLkkqOBsfu247XfAjhhns) | 5:47 |
+| 63 | [God Loves A Loser](https://open.spotify.com/track/3bu4JcUpOOoMCyEnDivHFO) | [Todd Sharpville](https://open.spotify.com/artist/4iOFTwfnN1WfcIGYRoa3vE) | [Medication Time](https://open.spotify.com/album/2NLkkqOBsfu247XfAjhhns) | 5:47 |
+| 64 | [Can't Keep from Loving You](https://open.spotify.com/track/1lM4AreOWHdLZV5YmPs3G4) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [Can't Keep From Loving You](https://open.spotify.com/album/6tIe49swz5w7eBuCAFCOWQ) | 3:05 |
 | 65 | [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 |
 
 Snapshot ID: `AAAAADSTDGyGKnGjs7nte8ug0OA+i7hS`

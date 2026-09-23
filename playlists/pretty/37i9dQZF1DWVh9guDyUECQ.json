@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del Trap, Rap, R&B, Afrobeats y Reggaeton Cristiano. Foto: Niko Eme",
-  "num_followers": 280154,
+  "num_followers": 280159,
   "original_name": "Flow Cristiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIVJE4EMRxE4zn6j55D0Erps4N//",
+  "snapshot_id": "AAAAAF+RYvfSVmP23RA/EtOkGy580avC",
   "tracks": [
     {
       "added_at": "2026-09-19 04:59:33",
@@ -1003,6 +1003,30 @@
       "duration_ms": 174342,
       "name": "SIN TRAMPA RMX",
       "url": "https://open.spotify.com/track/6uXF5ynH27OSiNFymNgFBe"
+    },
+    {
+      "added_at": "2026-09-19 04:59:33",
+      "album": {
+        "name": "Full",
+        "url": "https://open.spotify.com/album/4souUcjqJjC245DxpZJob8"
+      },
+      "artists": [
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "Diamnd El Cientifico",
+          "url": "https://open.spotify.com/artist/6cO9lHBHUhwyLxcEuasjWe"
+        },
+        {
+          "name": "DesXa",
+          "url": "https://open.spotify.com/artist/5qzVmbbH3gdkxI0C0fZ1Us"
+        }
+      ],
+      "duration_ms": 171136,
+      "name": "Full",
+      "url": "https://open.spotify.com/track/3dQAGoOi5KA39kS4ptHl6Q"
     },
     {
       "added_at": "2026-09-19 04:59:33",

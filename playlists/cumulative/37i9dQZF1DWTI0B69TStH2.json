@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:39XQyulUHjrvqGQ1bo5rtF\">Pe\u0142nia</a>",
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:39XQyulUHjrvqGQ1bo5rtF\">barekprzesta\u0144</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -2404,6 +2404,24 @@
       "duration_ms": 286552,
       "name": "Alert",
       "url": "https://open.spotify.com/track/669ZVOoFg0OjYY8QFQUPVo"
+    },
+    {
+      "album": {
+        "name": "Algorytm",
+        "url": "https://open.spotify.com/album/3nKqdr0MwTD7JcuLWakJnF"
+      },
+      "artists": [
+        {
+          "name": "Adam Milaro",
+          "url": "https://open.spotify.com/artist/4dFCYNAIZxmlemYQy3APqt"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208189,
+      "name": "Algorytm",
+      "url": "https://open.spotify.com/track/7wl8ypBgTdBsxhaz7lWe2F"
     },
     {
       "album": {
@@ -7924,6 +7942,24 @@
       "duration_ms": 182769,
       "name": "B\u0141YSK",
       "url": "https://open.spotify.com/track/0jHKZZOgLfsAQGYPmyMSR7"
+    },
+    {
+      "album": {
+        "name": "B\u0142\u0105d",
+        "url": "https://open.spotify.com/album/24EsRKM47sr3gKqq3SSug2"
+      },
+      "artists": [
+        {
+          "name": "Arthur Samuel",
+          "url": "https://open.spotify.com/artist/64WaRVdoiHIvj6kZWhv1bl"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152184,
+      "name": "B\u0142\u0105d",
+      "url": "https://open.spotify.com/track/6aFF2MwHXffPhSXYBjTSFm"
     },
     {
       "album": {
@@ -27589,6 +27625,28 @@
     },
     {
       "album": {
+        "name": "klucze na dach",
+        "url": "https://open.spotify.com/album/6tBK28pIM5fOodD1tpk6xW"
+      },
+      "artists": [
+        {
+          "name": "barekprzesta\u0144",
+          "url": "https://open.spotify.com/artist/1383ErJnn3u9Iwr70nySEI"
+        },
+        {
+          "name": "Ola Poskrop",
+          "url": "https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251250,
+      "name": "klucze na dach",
+      "url": "https://open.spotify.com/track/0DVTWUvfL4SI3mYTrSgLkf"
+    },
+    {
+      "album": {
         "name": "Melodie 2",
         "url": "https://open.spotify.com/album/0NzTf7inBXVkvSZqIcOKyT"
       },
@@ -31900,7 +31958,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 147272,
       "name": "Letni film",
       "url": "https://open.spotify.com/track/7jf98oX41YnhjndheFmc16"
@@ -42176,7 +42234,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 229500,
       "name": "Nie t\u0119dy droga",
       "url": "https://open.spotify.com/track/7y08ZSBOtWhjazBozOsjoz"
@@ -42198,6 +42256,24 @@
       "duration_ms": 198715,
       "name": "Nie t\u0119skni\u0119, to smutek",
       "url": "https://open.spotify.com/track/3cfZ3I237kjE2IHzl04Uhz"
+    },
+    {
+      "album": {
+        "name": "nie umiem inaczej",
+        "url": "https://open.spotify.com/album/2Vxni60OqOrr4l9WW80WXn"
+      },
+      "artists": [
+        {
+          "name": "Zuzia Dudek",
+          "url": "https://open.spotify.com/artist/6lrqSwgfR4RGvpzTGlynHz"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199947,
+      "name": "nie umiem inaczej",
+      "url": "https://open.spotify.com/track/2qW0fgqz7EUWOZOGfr3Utq"
     },
     {
       "album": {
@@ -45042,7 +45118,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 100740,
       "name": "nowe miasto",
       "url": "https://open.spotify.com/track/1TnHRSyEstFojnJZHu7QkM"
@@ -56064,7 +56140,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 200538,
       "name": "red dinosaur",
       "url": "https://open.spotify.com/track/5MvvFr5XkmUwMa8WNcN0tS"
@@ -57638,6 +57714,28 @@
       "duration_ms": 210237,
       "name": "Sad Sometimes",
       "url": "https://open.spotify.com/track/7BCjLHsyoNPX2ncFg5y5cY"
+    },
+    {
+      "album": {
+        "name": "sad, alone?",
+        "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "kurtis baker",
+          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161904,
+      "name": "sad, alone?",
+      "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
     },
     {
       "album": {
@@ -78724,7 +78822,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 191102,
       "name": "Zaloty",
       "url": "https://open.spotify.com/track/7e07gvdtoAR9f1SD5Tzgsq"
@@ -80722,7 +80820,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 166846,
       "name": "Zostawiam",
       "url": "https://open.spotify.com/track/5NwuChRS3XXxxCj9Agc1zU"
@@ -81454,6 +81552,24 @@
       "duration_ms": 131844,
       "name": "\u0142yk",
       "url": "https://open.spotify.com/track/0BvfdHJXD8efCDXxzPIED4"
+    },
+    {
+      "album": {
+        "name": "\u0141YK",
+        "url": "https://open.spotify.com/album/7dLXz7VTCgvLZIZrxXYUWD"
+      },
+      "artists": [
+        {
+          "name": "waitforfriday",
+          "url": "https://open.spotify.com/artist/2taU3Fsy7TWxGNHDtY9UbO"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178893,
+      "name": "\u0141YK",
+      "url": "https://open.spotify.com/track/0GaUDdNvmoXXz4Ek6MzBVJ"
     },
     {
       "album": {

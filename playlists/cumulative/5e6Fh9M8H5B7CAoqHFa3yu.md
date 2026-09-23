@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,572 songs - 6 day 6 hr 41 min
+2,575 songs - 6 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Alice e le creature selvagge](https://open.spotify.com/track/7GocVAL8CA2DchgaV5yltL) | [Giambo Riot](https://open.spotify.com/artist/3E2ouU0jc9SncJlUS3ZMYO) | [Alice e le creature selvagge](https://open.spotify.com/album/0Tg84jnFEr3eOMv60xFJ3E) | 2:39 | 2024-06-24 |  |
 | [Aliens](https://open.spotify.com/track/5tg21NdePCn5m8F9BXOEeJ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [ARIRANG](https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h) | 2:47 | 2026-04-12 |  |
 | [Aline](https://open.spotify.com/track/4rkGfxSpVY72e4MaMus61G) | [Nine Angel](https://open.spotify.com/artist/1Lc1Ou5z78fgizSFbUlj8Y) | [Aline](https://open.spotify.com/album/6MBjuIW1nMFAbsaoBvW8Vs) | 3:15 | 2026-04-23 | 2026-08-27 |
+| [Alisten La Garganta](https://open.spotify.com/track/3TjHCjWbB1szPTwWwPvWMd) | [Carlos Iriarte](https://open.spotify.com/artist/3Mzy71hae4iIELXAZ4qh7O) | [Alisten La Garganta](https://open.spotify.com/album/3km1cfhzdHGjE2nlFiTkzL) | 3:14 | 2026-09-22 |  |
 | [Alive](https://open.spotify.com/track/6uHS8IQdVysaVEWbNWyH4p) | [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh), [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi), [Steve Fox](https://open.spotify.com/artist/5HieGYijqqAt5A5CYC3ubT) | [Alive](https://open.spotify.com/album/3lI7915rnBhQTRiVTWNTec) | 3:59 | 2025-02-21 |  |
 | [Alive Dub](https://open.spotify.com/track/5HttBfENE8LXuqOcaXUbIO) | [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh), [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud), [Sister Maki](https://open.spotify.com/artist/0fTqAE38kumHlbefsPeUDi), [Steve Fox](https://open.spotify.com/artist/5HieGYijqqAt5A5CYC3ubT) | [Alive](https://open.spotify.com/album/3lI7915rnBhQTRiVTWNTec) | 4:04 | 2025-02-23 |  |
 | [Alive Melodica](https://open.spotify.com/track/0AuOqH9ZHoYEjwr5HEv5HK) | [Aki Mittoo](https://open.spotify.com/artist/0O38dWRxPpOcLZiN5EEjIh), [Shanti\-K](https://open.spotify.com/artist/3I7lnCSO69tEjEePSWpcud) | [Alive](https://open.spotify.com/album/3lI7915rnBhQTRiVTWNTec) | 3:28 | 2025-02-21 |  |
@@ -297,6 +298,7 @@
 | [BRB](https://open.spotify.com/track/7c31jvxFrx9TDqX2gg6eHE) | [Naavikaran](https://open.spotify.com/artist/73OvlFoab3sGiZw30ONsHk) | [FREQ DISCOTHEQ](https://open.spotify.com/album/5v4EBLczUkUYajL10Ph8UL) | 2:51 | 2024-10-11 |  |
 | [Breakfast In America \- Remastered 2010](https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Breakfast In America \(Deluxe Edition\)](https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna) | 2:39 | 2026-04-12 |  |
 | [Breaking Final \- Ver.1](https://open.spotify.com/track/3aJ1ZzSKxk7vqXc2EI8TXB) | [肖青天](https://open.spotify.com/artist/1W7Z6sHuIKJgbY2s15JhRy) | [Red Bull Bc One World Final 2019](https://open.spotify.com/album/1Pr7nWIgxhKORJOwlVRuaX) | 1:51 | 2026-02-07 |  |
+| [Breathing](https://open.spotify.com/track/6N57S50JyGCwhbDxoYf4BS) | [Ghosther](https://open.spotify.com/artist/5BgILNlqsXzjC59uCR0sKK) | [Through Fire](https://open.spotify.com/album/3MeADmLuVVANZ7ymuqag1r) | 4:35 | 2026-09-22 |  |
 | [Brick Talk](https://open.spotify.com/track/6AQ33b5da9SfhK5ZbstA49) | [Lazy Tee](https://open.spotify.com/artist/3EgnfLVBautKZM3fQmWDCd) | [Brick Talk](https://open.spotify.com/album/2gH0FDxOAymSHpsmR8B7fq) | 1:19 | 2025-10-07 |  |
 | [Bright As A Star](https://open.spotify.com/track/2jczOB4RCfobrIsUkQiMaN) | [D Future](https://open.spotify.com/artist/52f5kN6FI2gd6D1MIy8Rzg) | [Bright As A Star](https://open.spotify.com/album/3sysdmSUqQE8huhyMGUFnz) | 4:00 | 2025-10-07 |  |
 | [brilho de ouro](https://open.spotify.com/track/7IbiNVGH6r8ghEF65A1UP6) | [MC NEMINHO](https://open.spotify.com/artist/5kwiiAZRW2ngQmkrglNTYR) | [BRILHO DE OURO](https://open.spotify.com/album/0dolXPcE9GU6vtZnV6TdBC) | 3:11 | 2026-01-25 |  |
@@ -1059,6 +1061,7 @@
 | [In Memoriam \(Live\)](https://open.spotify.com/track/1Dj1Bsy2O5Ea07MdyAOxUY) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF) | [The Struggle](https://open.spotify.com/album/12yCKhNpF3JAGb9N72tuGK) | 4:42 | 2024-04-29 |  |
 | [In My Dreams](https://open.spotify.com/track/3bJmToSAKBi018GPh5dZk5) | [Emma Galanaki](https://open.spotify.com/artist/3uLWfPiygNLK6JFhj2gCG7) | [In My Dreams](https://open.spotify.com/album/0FFKptQv4URWBWRSJj8Vcx) | 3:45 | 2025-11-15 |  |
 | [In ogni cosa di buono](https://open.spotify.com/track/54QzBeGwcSPQOJLS7gBlq9) | [Fabrizio Urbani](https://open.spotify.com/artist/2pQiqp2nTCDI4JnPgxGbIN) | [In ogni cosa di buono](https://open.spotify.com/album/1lxihRPr7maVHUy9XlRR44) | 4:44 | 2026-08-28 |  |
+| [In The Club \- Big Reunion Remix Edit](https://open.spotify.com/track/4WvH5Yol94s0pynxe208xa) | [Mr Ludwik](https://open.spotify.com/artist/2EQ1ue9aPklRwKhAkUYmJd), [Big Reunion](https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls) | [In The Club](https://open.spotify.com/album/34yPdiRKsRcq4SDmfdSFv1) | 2:41 | 2026-09-22 |  |
 | [In the Night](https://open.spotify.com/track/6cnsNfZr2MAEztGiOSPMwJ) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 4:44 | 2024-09-25 |  |
 | [In The Night](https://open.spotify.com/track/2D1ApfVhLwpnrKCQuwkhKg) | [Ruthless Vision](https://open.spotify.com/artist/6lzWhXhEjGm4IdfghiQg9O) | [In The Night](https://open.spotify.com/album/2LJ1HkiNgKsTUBVpln6bmb) | 3:27 | 2025-08-14 |  |
 | [In The Trap](https://open.spotify.com/track/2GLJ6ix9u9CuQk0iSHv54i) | [Yung Pager](https://open.spotify.com/artist/4GaK4K1SUk1cXNMseEkQvK) | [Things I See In The Dark](https://open.spotify.com/album/5Mjrhi3OnXbqTCEfOQu1R4) | 2:30 | 2026-09-05 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: LAUSBUB",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002 Cover: \u4e2d\u5cf6 \u5bc2",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -438,7 +438,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 215600,
       "name": "1mm",
       "url": "https://open.spotify.com/track/4TZAlnT2z2pCcBWxlRjI7y"
@@ -5206,7 +5206,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 211500,
       "name": "Cynical City - 2026",
       "url": "https://open.spotify.com/track/4TZNuSe4YESYzKmoxAVJx5"
@@ -6203,6 +6203,24 @@
     },
     {
       "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/21z1fNY6xXjnVRc9H35nDb"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146037,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/38Ly5TWg9E7B7inRwrcAbs"
+    },
+    {
+      "album": {
         "name": "Lonely Paradox",
         "url": "https://open.spotify.com/album/6Qlte9o32U238sw3gElTtF"
       },
@@ -6330,6 +6348,24 @@
       "duration_ms": 213552,
       "name": "doll",
       "url": "https://open.spotify.com/track/7lZgyhI0XOvjzi7g0eeHBA"
+    },
+    {
+      "album": {
+        "name": "Dominant",
+        "url": "https://open.spotify.com/album/73SINYDWU5e2uKOqO4dILk"
+      },
+      "artists": [
+        {
+          "name": "Vuat",
+          "url": "https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210628,
+      "name": "Dominant",
+      "url": "https://open.spotify.com/track/6VgzbEY3fnYktgZKFhcFOd"
     },
     {
       "album": {
@@ -10410,7 +10446,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 169763,
       "name": "Hiyake (feat. kZm)",
       "url": "https://open.spotify.com/track/6Iyy0yB4pYsT6KZeIOnMpx"
@@ -10648,6 +10684,24 @@
       "duration_ms": 203424,
       "name": "HOPE",
       "url": "https://open.spotify.com/track/0gBfHrAHah7hoyWiOHSNia"
+    },
+    {
+      "album": {
+        "name": "hora",
+        "url": "https://open.spotify.com/album/51SClLoJGlqlkEOoTX5xrU"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "hora",
+      "url": "https://open.spotify.com/track/4p4RcxZBkJOhRq1fAWDVu9"
     },
     {
       "album": {
@@ -16866,7 +16920,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 234815,
       "name": "ojigi",
       "url": "https://open.spotify.com/track/4XTJaCl0DLgZrd7ZexuXQh"
@@ -22381,6 +22435,24 @@
     },
     {
       "album": {
+        "name": "Still Blond, Stay Gold",
+        "url": "https://open.spotify.com/album/3HobvfSqoSCILU2H6HHdCb"
+      },
+      "artists": [
+        {
+          "name": "AOTO",
+          "url": "https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164374,
+      "name": "Still Blond, Stay Gold",
+      "url": "https://open.spotify.com/track/0hwgcD47X0NaZn0DCmeEyl"
+    },
+    {
+      "album": {
         "name": "Still do",
         "url": "https://open.spotify.com/album/3GZ5Im54ZCIZc8rYZwxRTk"
       },
@@ -25508,7 +25580,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 176344,
       "name": "WASSUP (feat. NORIKIYO)",
       "url": "https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx"
@@ -33370,6 +33442,24 @@
       "duration_ms": 269440,
       "name": "\u30d5\u30fc\u30ea\u30c3\u30b7\u30e5\u30b5\u30de\u30fc feat. \u82a6\u7530\u83dc\u540d\u5b50 from 7co",
       "url": "https://open.spotify.com/track/6obhcVwTeDGLBDOPewOjHm"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30e9\u30c3\u30c9\u2661\u30b9\u30d1\u30fc\u30af\u30b9",
+        "url": "https://open.spotify.com/album/1wbenwd9fJRZZWFJcoze6O"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145081,
+      "name": "\u30d6\u30e9\u30c3\u30c9\u2661\u30b9\u30d1\u30fc\u30af\u30b9",
+      "url": "https://open.spotify.com/track/0MtmpkswjRWBAfKk9isee5"
     },
     {
       "album": {
@@ -41547,6 +41637,24 @@
     },
     {
       "album": {
+        "name": "\u7121\u6a5f\u8cea",
+        "url": "https://open.spotify.com/album/4xUJTwmwemjf0r6dv0GqUs"
+      },
+      "artists": [
+        {
+          "name": "Aogumo",
+          "url": "https://open.spotify.com/artist/605C4AcUUwB66JjpKjX1aO"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173493,
+      "name": "\u7121\u6a5f\u8cea",
+      "url": "https://open.spotify.com/track/63la9ShAib2e1s80hOCQ2a"
+    },
+    {
+      "album": {
         "name": "\u7121\u82b1\u679c",
         "url": "https://open.spotify.com/album/28pLgFhi7pTzRKFbdBoXzB"
       },
@@ -44804,6 +44912,24 @@
       "duration_ms": 253364,
       "name": "\u9be8\u306e\u5b50",
       "url": "https://open.spotify.com/track/1b1XlfWkqe6bAsi5go0Ppg"
+    },
+    {
+      "album": {
+        "name": "\u9e97\u3089\u304b",
+        "url": "https://open.spotify.com/album/0DIc7YVrF5alr9JWnNsT7G"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u5cf6 \u5bc2",
+          "url": "https://open.spotify.com/artist/3XJ7WCAaSoiqWePVw9qZdL"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244653,
+      "name": "\u9e97\u3089\u304b",
+      "url": "https://open.spotify.com/track/7M8NP3Oxt1CQPfcRZW9sSU"
     },
     {
       "album": {

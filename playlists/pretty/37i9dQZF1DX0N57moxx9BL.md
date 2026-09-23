@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover: Stephen Stanley
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,771 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,849 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 74 | [GOD LIKE MINE](https://open.spotify.com/track/0dxzsEv8UhVAFejUFKrfGa) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Quasarpro](https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww) | [GOD LIKE MINE](https://open.spotify.com/album/3kadN9C49ygTXwJT5ANU8q) | 2:47 |
 | 75 | [When Angels & Serpents Dance \- 2022 Remixed & Remastered](https://open.spotify.com/track/0J9gierW99wkbmJqZVD6T3) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/6aMuZClWGBnBfYeNr36peJ) | 3:14 |
 
-Snapshot ID: `AAAAALQowrtmKghW1VihIQcXtyWcku4B`
+Snapshot ID: `AAAAAOw2U2gBvE54av9/OOmIjlXudouC`

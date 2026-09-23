@@ -1,6 +1,6 @@
 {
   "description": "Timeless easy listening from the sixties...",
-  "num_followers": 366015,
+  "num_followers": 366012,
   "original_name": "Easy 60s",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "The Best Of Canned Heat",
-        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
-      },
-      "artists": [
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Going Up The Country",
-      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "The Best Of Canned Heat",
+        "url": "https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi"
+      },
+      "artists": [
+        {
+          "name": "Canned Heat",
+          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Going Up The Country",
+      "url": "https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "Hello Louis - The Hit Years (1963-1969)",
-        "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 137466,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
-    },
-    {
-      "added_at": "2024-06-03 14:49:59",
-      "album": {
         "name": "Music From Big Pink (Expanded Edition)",
         "url": "https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 278626,
       "name": "The Weight - Remastered",
       "url": "https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB"
+    },
+    {
+      "added_at": "2024-06-03 14:49:59",
+      "album": {
+        "name": "Hello Louis - The Hit Years (1963-1969)",
+        "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 137466,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -967,8 +967,8 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/03Qh833fEdVT30Pfs93ea6"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 140173,
-      "name": "Love Me Do - Mono / Remastered",
-      "url": "https://open.spotify.com/track/5JT7CoUSGNk7mMNkHMQjqr"
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered",
+      "url": "https://open.spotify.com/track/4Z92RMiyJpUrApZi3LtpJ6"
     },
     {
       "added_at": "2024-06-03 14:49:59",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2024-06-03 14:49:59",
       "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/03Qh833fEdVT30Pfs93ea6"
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
       },
       "artists": [
         {
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered",
-      "url": "https://open.spotify.com/track/4Z92RMiyJpUrApZi3LtpJ6"
+      "duration_ms": 140173,
+      "name": "Love Me Do - Mono / Remastered",
+      "url": "https://open.spotify.com/track/5JT7CoUSGNk7mMNkHMQjqr"
     },
     {
       "added_at": "2024-06-03 14:49:59",

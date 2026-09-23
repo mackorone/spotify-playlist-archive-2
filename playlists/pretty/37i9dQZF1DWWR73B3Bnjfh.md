@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 
 > The melancholic and soft sound of Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,806 likes - 75 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,979 likes - 75 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWR73B3Bnjfh.md) - [plain]
 | 15 | [\(It Will Have To Do\) Until The Real Thing Comes Along \- Remastered](https://open.spotify.com/track/37MsN9jkHraBoRU0rbl64A) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [A Swingin' Affair](https://open.spotify.com/album/2MDFi0jt8SnjYIFwgtU2Q3) | 6:49 |
 | 16 | [I Waited For You](https://open.spotify.com/track/5h7ww9vWMlfYJ2cPhmt9pz) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Volume 2](https://open.spotify.com/album/01EFyT5MpC3LYaOzws2Yjv) | 3:29 |
 | 17 | [Lonely Woman \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/23VGdNEZzKVCpIazC3ZHK6) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Song For My Father](https://open.spotify.com/album/4LEnATSqKeANOJ0mLUAuCE) | 7:02 |
-| 18 | [Blue Lester](https://open.spotify.com/track/427fYkFx1Arn2qGQeGVGNT) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Blue Lester: The Immortal Lester Young](https://open.spotify.com/album/0knfA8bBrs5nQc4Q2ixFBt) | 3:25 |
-| 19 | [Out Of Nowhere](https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 4:08 |
+| 18 | [Out Of Nowhere](https://open.spotify.com/track/1qYNJUM4BeTZHwe0uQ9D1w) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Jazz Masters](https://open.spotify.com/album/3kxHhea3gA46uP2ylxbzQt) | 4:08 |
+| 19 | [Blue Lester](https://open.spotify.com/track/427fYkFx1Arn2qGQeGVGNT) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Blue Lester: The Immortal Lester Young](https://open.spotify.com/album/0knfA8bBrs5nQc4Q2ixFBt) | 3:25 |
 | 20 | [Where Are You \- Remastered](https://open.spotify.com/track/3EvT0m0eRWFtdXA89M2sk8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 5:10 |
 | 21 | [Something I Dreamed Last Night](https://open.spotify.com/track/1ve0606S2phkNq4AoTRS3V) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Steamin' \[Rudy Van Gelder edition\]](https://open.spotify.com/album/6KJgxZYve2dbchVjw3MxBQ) | 6:11 |
 | 22 | [502 Blues \(Drinkin' And Drivin'\) \- Rudy Van Gelder Edition/2000 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/0F8xfPspwyXxRjsiW12mya) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:34 |

@@ -874,7 +874,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 168967,
       "name": "Human",
       "url": "https://open.spotify.com/track/1mktkNkZoAkNKYXctbO4Ya"
@@ -1335,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "Bold Right Life",
+        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224160,
+      "name": "My Boyfriend",
+      "url": "https://open.spotify.com/track/7icW5cA4utEGoqEo2EVCVr"
+    },
+    {
+      "album": {
         "name": "My City - Single",
         "url": "https://open.spotify.com/album/2nLXrmWwWYef7UOgkuUMd6"
       },
@@ -1590,7 +1608,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 196988,
       "name": "Paid It All",
       "url": "https://open.spotify.com/track/4wzFepzEcy21hrLGpk4PxI"
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 282440,
       "name": "So Glad",
       "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"

@@ -1,6 +1,6 @@
 {
   "description": "good vibes, all the time",
-  "num_followers": 455513,
+  "num_followers": 455552,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 247586,
-      "name": "u + me = <3",
-      "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 247586,
+      "name": "u + me = <3",
+      "url": "https://open.spotify.com/track/6Hdc3IQeyCxG5d14uAcwQW"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -475,6 +475,26 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 173433,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
         "name": "High Hopes 3000",
         "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
       },
@@ -503,26 +523,6 @@
       "duration_ms": 116630,
       "name": "Funny Thing",
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
-        "name": "STORM",
-        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
-      },
-      "artists": [
-        {
-          "name": "GENER8ION",
-          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 173433,
-      "name": "STORM II",
-      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "The Crux",
-        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 203349,
-      "name": "Delete Ya",
-      "url": "https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "The Crux",
+        "url": "https://open.spotify.com/album/1xQGeKOIMZrPBUlDJuqZGQ"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/7tFI5cqfAoR7MIvmbw1qd8"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -911,18 +911,18 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
+        "name": "drifting",
+        "url": "https://open.spotify.com/album/4KJfSAhzqcMZaWFTwnfkNK"
       },
       "artists": [
         {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
         }
       ],
-      "duration_ms": 229444,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
+      "duration_ms": 212440,
+      "name": "drifting",
+      "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
     },
     {
       "added_at": "2026-08-14 15:37:09",
@@ -943,18 +943,18 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "drifting",
-        "url": "https://open.spotify.com/album/4KJfSAhzqcMZaWFTwnfkNK"
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
       },
       "artists": [
         {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
         }
       ],
-      "duration_ms": 212440,
-      "name": "drifting",
-      "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
+      "duration_ms": 229444,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1293,20 +1293,20 @@
       "url": "https://open.spotify.com/track/4csm3bIilOko37LEVW1v8P"
     },
     {
-      "added_at": "2026-08-14 15:37:09",
+      "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
+        "name": "Dancing On The Wall",
+        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 239377,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
+      "duration_ms": 230573,
+      "name": "Eastside Girls",
+      "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Dancing On The Wall",
-        "url": "https://open.spotify.com/album/2CJw4ooOgUAxJkJpNiKcd3"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "Eastside Girls",
-      "url": "https://open.spotify.com/track/2GmMuH5UXe9DazNasUgGgM"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "The Afterparty",
         "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
+    },
+    {
+      "added_at": "2026-08-14 15:37:09",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 239377,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1601,22 +1601,6 @@
       "url": "https://open.spotify.com/track/4ZjAfdKKRfibE5gVDkDCWs"
     },
     {
-      "added_at": "2026-08-14 15:37:09",
-      "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
-    },
-    {
       "added_at": "2026-06-18 20:32:33",
       "album": {
         "name": "Can we talk about Isaac?",
@@ -1631,6 +1615,22 @@
       "duration_ms": 243203,
       "name": "Can we talk about Isaac?",
       "url": "https://open.spotify.com/track/1SsyXtMR9nDhGCqJeWPB0r"
+    },
+    {
+      "added_at": "2026-08-14 15:37:09",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
     },
     {
       "added_at": "2026-06-18 20:32:33",

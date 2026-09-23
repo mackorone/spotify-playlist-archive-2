@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Dabda\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Parannoul\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,222 songs - 3 day 2 hr 20 min
+1,224 songs - 3 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [An Ordinary Day](https://open.spotify.com/track/7lTo6C0sGaPdQvS4qAvVzp) | [Weather Boat](https://open.spotify.com/artist/0c5kjsZX8dPw8M1Oepgv4d) | [An Ordinary Day](https://open.spotify.com/album/3T4GnTXcyIHB3syGdr5JIS) | 4:06 | 2022-07-04 | 2022-07-28 |
 | [An Ordinary Day \(haru\)](https://open.spotify.com/track/1SWOMV36fMbpect803gbWV) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower6.jpg](https://open.spotify.com/album/3gG1cvpghDYMbAClqFM6WU) | 3:10 | 2025-05-15 | 2025-05-17 |
 | [Analogue](https://open.spotify.com/track/0HtmQKd6mUKlUsUgSpM1RJ) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [The Lost Time](https://open.spotify.com/album/12nDUGuOGoo86f1OrBUMtM) | 3:34 | 2022-04-12 | 2022-07-16 |
-| [Angel](https://open.spotify.com/track/1dOuFZpx2lu0RO1iFhMj9D) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Angel](https://open.spotify.com/album/0hcWzqGgS45DYvrj4Hu336) | 4:18 | 2026-09-19 |  |
+| [Angel](https://open.spotify.com/track/1dOuFZpx2lu0RO1iFhMj9D) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Angel](https://open.spotify.com/album/0hcWzqGgS45DYvrj4Hu336) | 4:18 | 2026-09-19 | 2026-09-23 |
 | [Another Day](https://open.spotify.com/track/6dKQ8gHWUIHOkKPhPYyEk1) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB), [노바소닉](https://open.spotify.com/artist/2zIq92ejtjxbwJ01a6VKkE) | [Another Day](https://open.spotify.com/album/1OGcVFDHhXEKwktaBaHofl) | 4:11 | 2022-04-22 | 2022-07-29 |
 | [Ant, Go Run](https://open.spotify.com/track/3tbzKxaika0fcyA61YOgH0) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Stock Struck \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/4ZhtmPkIeJdCFMYa6Kd8IU) | 3:00 | 2022-09-05 | 2022-10-01 |
 | [Anthems of Defiance](https://open.spotify.com/track/1IxFHdxSdC5vK1mvxCE0BM) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 5:06 | 2024-10-24 | 2024-12-19 |
@@ -115,6 +115,7 @@
 | [Bloomer](https://open.spotify.com/track/53J8QLyMIkwMwRVLKDkiFM) | [HOA](https://open.spotify.com/artist/2oz9zN3Vtp4RnFZOlsGNCu) | [Bloomer](https://open.spotify.com/album/14g0sNqOr1UXqvXCSpdmkL) | 4:24 | 2022-07-04 | 2022-07-23 |
 | [blu print](https://open.spotify.com/track/03B8ay9lItNvNIBbmPoL7C) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [KAIL](https://open.spotify.com/artist/4bephLmNrnXUBtw49vUZeO) | [blu\-print](https://open.spotify.com/album/0PeK8hbEin6A7aGO3HFQgV) | 3:34 | 2025-04-22 | 2025-05-08 |
 | [blue daisy \(feat\. Mulasaki Ima\)](https://open.spotify.com/track/3Fm1m14KmAljsk4CSNJe81) | [can't be blue](https://open.spotify.com/artist/32mluwkanSuuM3hm3d3Fh5), [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [can't be blue](https://open.spotify.com/album/61f7Qz1pcOV9CmpDiWZIam) | 3:25 | 2026-06-20 | 2026-08-01 |
+| [Blue Heroine](https://open.spotify.com/track/6CKCScNDppsarIuvfkVDGB) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Blue Syndrome](https://open.spotify.com/album/3QlLm6RFMW6OS6otn2CNl5) | 3:38 | 2026-09-23 |  |
 | [Blue Moon](https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Once in a BLUE MOON](https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4) | 3:35 | 2024-06-07 | 2024-11-07 |
 | [Blue Voyage](https://open.spotify.com/track/6s1vHqyxFQKPqAhMwHVZyT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Trip:Tape \#03](https://open.spotify.com/album/2nX3XXhjp9ME34rATFEWk9) | 3:09 | 2022-06-03 | 2022-07-28 |
 | [Blue Whale](https://open.spotify.com/track/3YfmmJkPj0IH58IP1FN8Z0) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [Special Single 'Blue Whale'](https://open.spotify.com/album/4J4HRHJCwGHHutsosHWA3J) | 4:06 | 2025-10-06 | 2025-11-05 |
@@ -221,7 +222,7 @@
 | [Dear Me](https://open.spotify.com/track/35Zg9ymD0ytUfRpyAnXv49) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Dear Me](https://open.spotify.com/album/0owjEdpdMRcomZHxqOzITp) | 3:36 | 2025-09-18 | 2025-09-24 |
 | [Dear Me](https://open.spotify.com/track/2izlCxatn0nR7SyRyrkUW1) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album Repackage](https://open.spotify.com/album/5IlYFprRPoMZ0qeNh6ghcs) | 3:42 | 2022-06-23 | 2022-06-30 |
 | [Deep Dawn](https://open.spotify.com/track/067O1ePjUgjvjPd4wWGf5y) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [Deep Dawn](https://open.spotify.com/album/2x51QxlV8KSW1GfzmFL48h) | 2:57 | 2026-03-06 | 2026-03-10 |
-| [Deep Dive](https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC) | [Alice Syndrome](https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx) | [Deep Dive](https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI) | 2:21 | 2026-07-28 | 2026-09-22 |
+| [Deep Dive](https://open.spotify.com/track/2BWqnsiMhGNpNa9NGLv9VC) | [Alice Syndrome](https://open.spotify.com/artist/7fNeWBcx24ttY7l6TxFDJx) | [Deep Dive](https://open.spotify.com/album/6OHUIjVYP12r5212ioJtRI) | 2:21 | 2026-07-28 |  |
 | [Deep Inside](https://open.spotify.com/track/7GRWbXqGv4UZhmnL6nSyus) | [NELL](https://open.spotify.com/artist/5WY88tCMFA6J6vqSN3MmDZ) | [X : 3 / ?](https://open.spotify.com/album/5Rud2sFOI6cg4tkdM1pqmw) | 4:00 | 2026-03-03 | 2026-03-17 |
 | [Deja Vu](https://open.spotify.com/track/3qvfE7DGsIlkWzKMOS4gAm) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [Raid of Dream](https://open.spotify.com/album/7jvAjSM0NOSwJYsLzHQ9KZ) | 3:44 | 2023-08-17 | 2024-03-22 |
 | [Delphinium](https://open.spotify.com/track/2gIsvJiWoNaPQB8wOYfheq) | [Kim Ahyun](https://open.spotify.com/artist/6esTEzOF6SNHgbeSRr5hdy) | [Delphinium](https://open.spotify.com/album/2kFzT61GpDF05G6TflIQOW) | 3:50 | 2025-11-27 | 2025-12-03 |
@@ -678,7 +679,7 @@
 | [NamgungFEFERE \(feat\. Japanese Breakfast\)](https://open.spotify.com/track/29sI2nRMCyKqmmpWZ6WJsi) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [NamgungFEFERE](https://open.spotify.com/album/1ymy46awOlT3qoFofw8r94) | 3:48 | 2025-07-10 | 2025-08-01 |
 | [NAN CHUN](https://open.spotify.com/track/4TBHfv2isYco3fNKjQ8oSI) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN](https://open.spotify.com/album/10vZm1P5k6mIJSlPg127eb) | 3:49 | 2024-06-05 | 2024-11-07 |
 | [NAN CHUN 난춘](https://open.spotify.com/track/320twJYO0LC64eWCuCC5vj) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [NAN CHUN 난춘](https://open.spotify.com/album/5aMMzZZNRZ1yBr6aArv4Dh) | 3:49 | 2022-04-12 | 2024-03-22 |
-| [NANSEN](https://open.spotify.com/track/2eOb1YsZdVTmOq0dKlI5sK) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [NANSEN](https://open.spotify.com/album/2REBQJXgMJiIZF7wlii1G5) | 3:37 | 2026-09-17 |  |
+| [NANSEN](https://open.spotify.com/track/2eOb1YsZdVTmOq0dKlI5sK) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [NANSEN](https://open.spotify.com/album/2REBQJXgMJiIZF7wlii1G5) | 3:37 | 2026-09-17 | 2026-09-23 |
 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 | 2025-03-19 | 2025-04-02 |
 | [Natural History Museum](https://open.spotify.com/track/3SqTKxJvLkJAAcPBfjzKEG) | [The Electriceels](https://open.spotify.com/artist/0srGDil29MFy5x8asXqmfK) | [Natural History Museum](https://open.spotify.com/album/4nh8S3OoLrRBy0jHAPIl0t) | 3:13 | 2023-05-31 | 2023-06-14 |
 | [Navillera](https://open.spotify.com/track/5J4E8EChG1AJWFwxZNgn76) | [Biuret](https://open.spotify.com/artist/3ebT6m7SiOMVzQKgc3y9yn) | [Navillera](https://open.spotify.com/album/2pLW8MHtuFT62bk9WC7oA4) | 3:12 | 2023-10-27 | 2023-11-04 |
@@ -728,7 +729,7 @@
 | [Oh Perfect!](https://open.spotify.com/track/3LKZCLEnspadu6UQIOTPVD) | [Dragon Pony](https://open.spotify.com/artist/2aRhzujDfJ1mVe2XdddXYL) | [RUN RUN RUN](https://open.spotify.com/album/6Vt0Kc0kEMII0c0nHBZrjN) | 3:11 | 2026-03-11 | 2026-04-01 |
 | [Ohio](https://open.spotify.com/track/4m1yAglyrf4tCJqFrIkRMA) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Ohio](https://open.spotify.com/album/2ZJ2iiGnv7d8J4IOO0YmKx) | 2:46 | 2022-04-22 | 2022-06-26 |
 | [ON MY OWN](https://open.spotify.com/track/1mnw7B1EQPalqnY3u4QqUy) | [THE MIDNIGHT ROMANCE](https://open.spotify.com/artist/0oD9KiqTgoOgEYyL5kIC6v) | [ON MY OWN](https://open.spotify.com/album/7Iiyw5TWZCZxfuAWEKyDIr) | 3:56 | 2022-04-12 | 2022-07-29 |
-| [ON\(百\)](https://open.spotify.com/track/0dkXKwpxb35tkPfN7oZUH7) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [ON\(百\)](https://open.spotify.com/album/6ivPxyvAS74hBHROw2omw3) | 7:18 | 2026-09-17 |  |
+| [ON\(百\)](https://open.spotify.com/track/0dkXKwpxb35tkPfN7oZUH7) | [Dabda](https://open.spotify.com/artist/0ndvlJnYkMJZhet7fVhk9C) | [ON\(百\)](https://open.spotify.com/album/6ivPxyvAS74hBHROw2omw3) | 7:18 | 2026-09-17 | 2026-09-23 |
 | [On\-Air](https://open.spotify.com/track/4Z7tPcXoeP0JJ6Qyve84aC) | [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [On\-Air](https://open.spotify.com/album/5oHhTiPxMWyfp3A21IlgxW) | 3:16 | 2022-05-02 | 2022-07-23 |
 | [ONE \(BJ멸망전 공식 주제가\)](https://open.spotify.com/track/3eZO90Rawae6JZuLGufzJd) | [Rolling Quartz](https://open.spotify.com/artist/5mVYT7sPm3xsNMrA8YWONe) | [ONE \(BJ멸망전 공식 주제가\)](https://open.spotify.com/album/7kdODFIZj9q63ixg8PUF2G) | 2:45 | 2022-06-08 | 2022-07-15 |
 | [Only Forward](https://open.spotify.com/track/48U3KFipj0Z1mJ3BCqOQH0) | [Nam Woo\-hyun](https://open.spotify.com/artist/2TYMXWSySlq8RgLAYd8MCg) | [Tree Ring](https://open.spotify.com/album/1avoknFOZaYIFnQEE6D4X8) | 3:23 | 2025-08-01 | 2025-08-05 |
@@ -819,6 +820,7 @@
 | [Regret of the Times \- 2024 aespa Remake Version](https://open.spotify.com/track/6WJTEsLxWtSIlXML3NVSzA) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Regret of the Times \(2024 aespa Remake Version\) \- SM STATION](https://open.spotify.com/album/4Nav3JE8TIOFiuY5x95MIh) | 2:51 | 2024-01-15 | 2024-11-07 |
 | [Regret of the Times \- 2024 Remastered Version](https://open.spotify.com/track/5RcGQ7is0iQEhS7XsTOiST) | [Seo Taiji and Boys](https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm) | [Regret of the Times \(2024 Remastered Version\)](https://open.spotify.com/album/0DVYKxYfMt8kUGav5K3bqq) | 3:28 | 2024-01-12 | 2024-05-10 |
 | [Regulus](https://open.spotify.com/track/299CpDyNkUS3aFAZCr0c9A) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [2/4](https://open.spotify.com/album/55ucpTq6CWc40dJakIPajP) | 3:42 | 2022-04-12 | 2022-07-25 |
+| [Remaining](https://open.spotify.com/track/33ELi9WmNVCWwkrSNby6dz) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Single Mind Worst Thought](https://open.spotify.com/album/6KK5thxoELIqPhFfWm2681) | 5:17 | 2026-09-23 |  |
 | [Remedy](https://open.spotify.com/track/0iJXk34vAEuHtFdgONxCas) | [Vanillare](https://open.spotify.com/artist/1snfnH0w3DHTY1GXJ630Ys) | [Remedy](https://open.spotify.com/album/4ybo5wS56wFFUexsDM5Xne) | 3:04 | 2022-06-09 | 2022-06-26 |
 | [Remember!](https://open.spotify.com/track/0sQ7Ej7deFPs7dQeScxVgZ) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Remember!](https://open.spotify.com/album/11EGNnLOAlNLUXysHvuH2t) | 3:31 | 2025-06-20 | 2025-06-30 |
 | [Reminiscence](https://open.spotify.com/track/4Zv2V3I230aVG0jmvrjVr4) | [DAYBREAK](https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2) | [Reminiscence 〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/4U0JSvaaf9DmrdBEZF8nJc) | 3:54 | 2025-04-18 | 2025-04-23 |

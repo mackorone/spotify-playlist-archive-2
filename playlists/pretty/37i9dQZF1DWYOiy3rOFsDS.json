@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Luciano Daniel en portada.",
-  "num_followers": 537099,
+  "num_followers": 537028,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Mam\u00e1",
-        "url": "https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I"
-      },
-      "artists": [
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        },
-        {
-          "name": "Kim Loaiza",
-          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
-        }
-      ],
-      "duration_ms": 202799,
-      "name": "Mam\u00e1",
-      "url": "https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Coraz\u00f3n de Oro",
         "url": "https://open.spotify.com/album/2ue1P1zJ9G8JQGvcNTOLNg"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 211800,
       "name": "Tu Aprendiz",
       "url": "https://open.spotify.com/track/7KwMslS46xt7nNxvjmpMDn"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Mam\u00e1",
+        "url": "https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I"
+      },
+      "artists": [
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        },
+        {
+          "name": "Kim Loaiza",
+          "url": "https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A"
+        }
+      ],
+      "duration_ms": 202799,
+      "name": "Mam\u00e1",
+      "url": "https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Mil Vidas",
         "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 182733,
       "name": "Amar Y Vivir - En Vivo",
       "url": "https://open.spotify.com/track/1nqOX76aLJYNY74ZDBPSBO"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Puro Teatro",
-        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
-      },
-      "artists": [
-        {
-          "name": "Celeste Sanazi",
-          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
-        }
-      ],
-      "duration_ms": 137131,
-      "name": "Puro Teatro",
-      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Desde Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/2040erAeJrkzHBcxYHaj2T"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 164791,
       "name": "Desde Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/3srXo4ebUPLbzuDvuze63p"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
+      },
+      "artists": [
+        {
+          "name": "Celeste Sanazi",
+          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
+        }
+      ],
+      "duration_ms": 137131,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Te So\u00f1\u00e9",
-        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
-      },
-      "artists": [
-        {
-          "name": "Mia Salinas",
-          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
-        }
-      ],
-      "duration_ms": 164798,
-      "name": "Te So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Aquellos Ojos Verdes",
         "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 201829,
       "name": "Aquellos Ojos Verdes",
       "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Te So\u00f1\u00e9",
+        "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
+      },
+      "artists": [
+        {
+          "name": "Mia Salinas",
+          "url": "https://open.spotify.com/artist/7joyMZS5bboTR4PghWa3Um"
+        }
+      ],
+      "duration_ms": 164798,
+      "name": "Te So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "Empecemos a Empezar",
+        "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
+      },
+      "artists": [
+        {
+          "name": "Licenciado Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m"
+        },
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 200859,
+      "name": "Empecemos a Empezar",
+      "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Parada Obligatoria (1ra Parada)",
         "url": "https://open.spotify.com/album/2egjoQlWOOcvoUu0YwDfJt"
       },
@@ -1571,26 +1591,6 @@
       "duration_ms": 250960,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Empecemos a Empezar",
-        "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
-      },
-      "artists": [
-        {
-          "name": "Licenciado Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/2uEHk08DPegu9Q5e0OoG1m"
-        },
-        {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
-        }
-      ],
-      "duration_ms": 200859,
-      "name": "Empecemos a Empezar",
-      "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
     },
     {
       "added_at": "2026-07-24 06:00:45",

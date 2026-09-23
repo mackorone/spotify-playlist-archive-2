@@ -1,28 +1,124 @@
 {
-  "description": "now all I know is the ending",
-  "num_followers": 150059,
+  "description": "it's finally folk weather \ud83c\udf42",
+  "num_followers": 150288,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA3DnamI9nzWceexcJl5+q97Ai16",
+  "snapshot_id": "AAAAAP38KMEy12VLlzrXbI1c8l3hSAHU",
   "tracks": [
     {
-      "added_at": "2026-09-11 04:01:01",
+      "added_at": "2026-09-22 04:00:41",
       "album": {
-        "name": "No Thank You, I Love You, Goodbye",
-        "url": "https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj"
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
       },
       "artists": [
         {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
         }
       ],
-      "duration_ms": 179042,
-      "name": "No Thank You, I Love You, Goodbye",
-      "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
+    },
+    {
+      "added_at": "2026-09-22 04:00:41",
+      "album": {
+        "name": "Blood Bank (Spotify Singles)",
+        "url": "https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 305210,
+      "name": "Blood Bank - Spotify Singles",
+      "url": "https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w"
+    },
+    {
+      "added_at": "2026-09-22 04:00:41",
+      "album": {
+        "name": "Martha Sways (Spotify Singles)",
+        "url": "https://open.spotify.com/album/3Gb20a0lgpweeO3k98i2vg"
+      },
+      "artists": [
+        {
+          "name": "Hudson Freeman",
+          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
+        }
+      ],
+      "duration_ms": 296192,
+      "name": "Martha Sways - Spotify Singles",
+      "url": "https://open.spotify.com/track/0o96BRVCx7wR4NtUHsvbCN"
+    },
+    {
+      "added_at": "2026-09-22 12:16:45",
+      "album": {
+        "name": "Bless the Telephone - Spotify Singles",
+        "url": "https://open.spotify.com/album/4xBa5tQ9IJNWVoq482z3c2"
+      },
+      "artists": [
+        {
+          "name": "Winnie Raeder",
+          "url": "https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK"
+        }
+      ],
+      "duration_ms": 138242,
+      "name": "Bless the Telephone - Spotify Singles",
+      "url": "https://open.spotify.com/track/61OLbx1bhsaYJAlkpxb2Xj"
+    },
+    {
+      "added_at": "2026-09-22 12:26:44",
+      "album": {
+        "name": "I see them, I see me",
+        "url": "https://open.spotify.com/album/2dIevXo4isEeTr9fmU9eZd"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "When You Look at Me",
+      "url": "https://open.spotify.com/track/4vzmREv8I7PDPC95mK8t6V"
+    },
+    {
+      "added_at": "2026-09-22 12:26:44",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 235163,
+      "name": "Two elevens",
+      "url": "https://open.spotify.com/track/5eyA1FEEE0pMazqeAA3AYD"
+    },
+    {
+      "added_at": "2026-09-18 14:01:21",
+      "album": {
+        "name": "say it",
+        "url": "https://open.spotify.com/album/5Ing5q75Z5e4uqQNC0yh4Z"
+      },
+      "artists": [
+        {
+          "name": "Frankie Venter",
+          "url": "https://open.spotify.com/artist/4OpEtCxKCkuq7XqJ18zVYn"
+        }
+      ],
+      "duration_ms": 197846,
+      "name": "say it",
+      "url": "https://open.spotify.com/track/31gyMsBSLitwetPKlcntZv"
     },
     {
       "added_at": "2026-09-18 04:01:46",
@@ -39,6 +135,22 @@
       "duration_ms": 173808,
       "name": "just embers now",
       "url": "https://open.spotify.com/track/5odEnVcWzR91r5h0ww62GF"
+    },
+    {
+      "added_at": "2026-09-11 04:01:01",
+      "album": {
+        "name": "No Thank You, I Love You, Goodbye",
+        "url": "https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 179042,
+      "name": "No Thank You, I Love You, Goodbye",
+      "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
     },
     {
       "added_at": "2026-09-18 04:01:46",
@@ -71,22 +183,6 @@
       "duration_ms": 265912,
       "name": "True Feeling",
       "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
-    },
-    {
-      "added_at": "2026-09-18 14:01:21",
-      "album": {
-        "name": "say it",
-        "url": "https://open.spotify.com/album/5Ing5q75Z5e4uqQNC0yh4Z"
-      },
-      "artists": [
-        {
-          "name": "Frankie Venter",
-          "url": "https://open.spotify.com/artist/4OpEtCxKCkuq7XqJ18zVYn"
-        }
-      ],
-      "duration_ms": 197846,
-      "name": "say it",
-      "url": "https://open.spotify.com/track/31gyMsBSLitwetPKlcntZv"
     },
     {
       "added_at": "2026-09-18 04:01:46",
@@ -157,6 +253,22 @@
       "url": "https://open.spotify.com/track/2yfUnaOSiO4ffdlglZhHzw"
     },
     {
+      "added_at": "2026-09-22 12:26:44",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 229264,
+      "name": "Anybody's fool",
+      "url": "https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ"
+    },
+    {
       "added_at": "2026-08-28 04:01:49",
       "album": {
         "name": "Leaving The Zoo",
@@ -187,6 +299,22 @@
       "duration_ms": 155017,
       "name": "Unforgivable Things",
       "url": "https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB"
+    },
+    {
+      "added_at": "2026-09-22 12:26:44",
+      "album": {
+        "name": "I see them, I see me",
+        "url": "https://open.spotify.com/album/2dIevXo4isEeTr9fmU9eZd"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 202506,
+      "name": "Jess Has a Place",
+      "url": "https://open.spotify.com/track/2aMNAN8gGV8QtJnNxLouzL"
     },
     {
       "added_at": "2026-08-28 04:01:49",
@@ -1851,26 +1979,6 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
-        "name": "Adult Contemporary",
-        "url": "https://open.spotify.com/album/3GUtMJU1SvmsqJ7UYyVKrb"
-      },
-      "artists": [
-        {
-          "name": "Hudson Freeman",
-          "url": "https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8"
-        },
-        {
-          "name": "The Bedroomer",
-          "url": "https://open.spotify.com/artist/40nN0AtXvLlPJMnUX7B7SB"
-        }
-      ],
-      "duration_ms": 183378,
-      "name": "Somehow",
-      "url": "https://open.spotify.com/track/04xfDpReIdCIXPZWdaMHun"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
         "name": "The Great Divide",
         "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
       },
@@ -2019,22 +2127,6 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
-        "name": "cowboy cologne",
-        "url": "https://open.spotify.com/album/5efGnWhQVinfcpZGFIfzUZ"
-      },
-      "artists": [
-        {
-          "name": "Runnner",
-          "url": "https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "cowboy cologne",
-      "url": "https://open.spotify.com/track/4DNSzh4zhyJPQ5qsp7INPj"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
         "name": "Wendy Eisenberg",
         "url": "https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5"
       },
@@ -2047,22 +2139,6 @@
       "duration_ms": 223155,
       "name": "Will You Dare",
       "url": "https://open.spotify.com/track/0qI9b53TUwd5tnT0eoIeqm"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr"
-      },
-      "artists": [
-        {
-          "name": "Betty",
-          "url": "https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs"
-        }
-      ],
-      "duration_ms": 248981,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/5S1BO9BS02VIBBDjh2ybEA"
     },
     {
       "added_at": "2026-06-19 04:01:40",
@@ -2095,22 +2171,6 @@
       "duration_ms": 261533,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Shine On Me",
-        "url": "https://open.spotify.com/album/1ztMEOs9UAIsrb6Dv9h8Tw"
-      },
-      "artists": [
-        {
-          "name": "Alex Amen",
-          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
-        }
-      ],
-      "duration_ms": 296926,
-      "name": "Shine On Me",
-      "url": "https://open.spotify.com/track/0AlzSN8wxisdzlyd8m2Q12"
     }
   ],
   "unique_name": "juniper",

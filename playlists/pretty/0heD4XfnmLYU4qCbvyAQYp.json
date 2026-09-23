@@ -6,8 +6,24 @@
     "name": "Reinhard Zwisler",
     "url": "https://open.spotify.com/user/21wd7qshyzbn3fhu246sdxwpi"
   },
-  "snapshot_id": "AAAPQClHHL+On/13pOHr1mAWCBecPVpH",
+  "snapshot_id": "AAAPQQMg3yD/Jw7+85C3sGTsG8RH9DK0",
   "tracks": [
+    {
+      "added_at": "2026-09-22 07:22:16",
+      "album": {
+        "name": "Quando Sorridi",
+        "url": "https://open.spotify.com/album/5dR0HWZxbT0b8ySI0Hve9s"
+      },
+      "artists": [
+        {
+          "name": "David Monni",
+          "url": "https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx"
+        }
+      ],
+      "duration_ms": 217467,
+      "name": "Quando Sorridi",
+      "url": "https://open.spotify.com/track/0IfTiyMes24Nb7f2W3YTU1"
+    },
     {
       "added_at": "2026-09-13 15:56:15",
       "album": {

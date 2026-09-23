@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 448677,
+  "num_followers": 448815,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABlDC51ndXVPN63LBUPFYY1",
+  "snapshot_id": "arBzgAAAAADCKAxVRWQj8pzDdXZ8j4z0",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Automaton",
-        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 314493,
-      "name": "Shake It On",
-      "url": "https://open.spotify.com/track/4bL5GNTF2zw5WyEle7irMf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 360013,
       "name": "High Times - Remastered 2013",
       "url": "https://open.spotify.com/track/45vbV4YznRHi1uKS9l0xkI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Automaton",
+        "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 314493,
+      "name": "Shake It On",
+      "url": "https://open.spotify.com/track/4bL5GNTF2zw5WyEle7irMf"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 286212,
-      "name": "Deeper Underground - Full Version",
-      "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Travelling Without Moving (Remastered)",
         "url": "https://open.spotify.com/album/4yrrPNjd9RcqnuDnoEhlER"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 245786,
       "name": "Drifting Along - Remastered 2013",
       "url": "https://open.spotify.com/track/7a3ts6r8HHYp7VU7sefVAl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 286212,
+      "name": "Deeper Underground - Full Version",
+      "url": "https://open.spotify.com/track/1mtcRkSZdWWx91aQGunCq0"
     },
     {
       "added_at": null,

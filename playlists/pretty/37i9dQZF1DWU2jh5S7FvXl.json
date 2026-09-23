@@ -1,6 +1,6 @@
 {
   "description": "Move to this mix of recent dance hits! Cover: WHIPPED CREAM",
-  "num_followers": 95934,
+  "num_followers": 95928,
   "original_name": "Dance Favourites",
   "owner": {
     "name": "Spotify",
@@ -283,30 +283,6 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Sybil",
-          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
-    },
-    {
-      "added_at": "2026-08-07 04:01:10",
-      "album": {
         "name": "Victory Lap",
         "url": "https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo"
       },
@@ -327,6 +303,30 @@
       "duration_ms": 165857,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP"
+    },
+    {
+      "added_at": "2026-08-07 04:01:10",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Sybil",
+          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "added_at": "2026-08-07 04:01:10",
@@ -547,26 +547,6 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
-        "name": "Dirty Cash (Money Talks)",
-        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        },
-        {
-          "name": "The Adventures Of Stevie V",
-          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "duration_ms": 221448,
-      "name": "Dirty Cash (Money Talks)",
-      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
-    },
-    {
-      "added_at": "2026-08-07 04:01:10",
-      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 181411,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
+    },
+    {
+      "added_at": "2026-08-07 04:01:10",
+      "album": {
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "duration_ms": 221448,
+      "name": "Dirty Cash (Money Talks)",
+      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
       "added_at": "2026-08-07 04:01:10",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
+        "name": "I Only Smoke When I Drink",
+        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "I Only Smoke When I Drink",
+      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
+    },
+    {
+      "added_at": "2026-08-07 04:01:10",
+      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
-    },
-    {
-      "added_at": "2026-08-07 04:01:10",
-      "album": {
-        "name": "I Only Smoke When I Drink",
-        "url": "https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG"
-      },
-      "artists": [
-        {
-          "name": "nimino",
-          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "I Only Smoke When I Drink",
-      "url": "https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR"
     },
     {
       "added_at": "2026-08-07 04:01:10",
@@ -1919,26 +1919,6 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
-        "name": "Whistle (feat. Calum Scott)",
-        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
-      },
-      "artists": [
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 181957,
-      "name": "Whistle (feat. Calum Scott)",
-      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
-    },
-    {
-      "added_at": "2026-08-07 04:01:10",
-      "album": {
         "name": "Neverender",
         "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
       },
@@ -1955,6 +1935,26 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
+    },
+    {
+      "added_at": "2026-08-07 04:01:10",
+      "album": {
+        "name": "Whistle (feat. Calum Scott)",
+        "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+      },
+      "artists": [
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 181957,
+      "name": "Whistle (feat. Calum Scott)",
+      "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
     },
     {
       "added_at": "2026-08-07 04:01:10",
@@ -2035,6 +2035,26 @@
     {
       "added_at": "2026-08-07 04:01:10",
       "album": {
+        "name": "COOK",
+        "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 170243,
+      "name": "COOK",
+      "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
+    },
+    {
+      "added_at": "2026-08-07 04:01:10",
+      "album": {
         "name": "Coming Up (It\u2019s Dare)",
         "url": "https://open.spotify.com/album/2aXtY87dtUYnV93D8xTdmq"
       },
@@ -2055,26 +2075,6 @@
       "duration_ms": 180895,
       "name": "Coming Up (It\u2019s Dare)",
       "url": "https://open.spotify.com/track/7JHkJ5mDS868b5j5h67cwL"
-    },
-    {
-      "added_at": "2026-08-07 04:01:10",
-      "album": {
-        "name": "COOK",
-        "url": "https://open.spotify.com/album/1mgSGruu0KTcdCW9eY3ikP"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 170243,
-      "name": "COOK",
-      "url": "https://open.spotify.com/track/4H2rI43vuXJuUrRIMxknzA"
     },
     {
       "added_at": "2026-08-07 04:01:10",

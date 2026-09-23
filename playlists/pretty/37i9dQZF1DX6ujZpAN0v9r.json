@@ -1,6 +1,6 @@
 {
   "description": "The essential beautiful noise: sweet and sour fuzz to warm your heart. Slowdive on cover",
-  "num_followers": 703527,
+  "num_followers": 703590,
   "original_name": "Shoegaze Classics",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Psychocandy (Expanded Version)",
-        "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 102333,
-      "name": "Taste of Cindy",
-      "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Creation",
         "url": "https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 301224,
       "name": "Flood in Heaven",
       "url": "https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Psychocandy (Expanded Version)",
+        "url": "https://open.spotify.com/album/2t1hVEwp82QebO7lq21Vto"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 102333,
+      "name": "Taste of Cindy",
+      "url": "https://open.spotify.com/track/0skJx6IOESP4iDf33bBBq9"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -1279,6 +1279,22 @@
       "duration_ms": 566466,
       "name": "In Your Room",
       "url": "https://open.spotify.com/track/7l5XWtUfIclO2xCTFvts8V"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "In Undertow",
+        "url": "https://open.spotify.com/album/61a1ci1fZ9jmDfXJ33hu5E"
+      },
+      "artists": [
+        {
+          "name": "Alvvays",
+          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
+        }
+      ],
+      "duration_ms": 197186,
+      "name": "In Undertow",
+      "url": "https://open.spotify.com/track/4fh4Zjs8KY4LfVUf3JnweG"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2023,22 +2039,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "In Undertow",
-        "url": "https://open.spotify.com/album/61a1ci1fZ9jmDfXJ33hu5E"
-      },
-      "artists": [
-        {
-          "name": "Alvvays",
-          "url": "https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt"
-        }
-      ],
-      "duration_ms": 197186,
-      "name": "In Undertow",
-      "url": "https://open.spotify.com/track/4fh4Zjs8KY4LfVUf3JnweG"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Slow Burner",
         "url": "https://open.spotify.com/album/6ebK1vEcESDStL6bMvnsQw"
       },
@@ -2067,6 +2067,22 @@
       "duration_ms": 324213,
       "name": "Solar Song",
       "url": "https://open.spotify.com/track/46gX5K76xOjp80hRROhuKy"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Odes to the Void",
+        "url": "https://open.spotify.com/album/4i5SFwqCIqlqtNFyYIXojb"
+      },
+      "artists": [
+        {
+          "name": "Life On Venus",
+          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
+        }
+      ],
+      "duration_ms": 208450,
+      "name": "For the Kill",
+      "url": "https://open.spotify.com/track/7JDoiqNTFEkzHGTUTRz2pG"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2103,22 +2119,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Odes to the Void",
-        "url": "https://open.spotify.com/album/4i5SFwqCIqlqtNFyYIXojb"
-      },
-      "artists": [
-        {
-          "name": "Life On Venus",
-          "url": "https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE"
-        }
-      ],
-      "duration_ms": 208450,
-      "name": "For the Kill",
-      "url": "https://open.spotify.com/track/7JDoiqNTFEkzHGTUTRz2pG"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "The Comforts of Madness (30th Anniversary Reissue)",
         "url": "https://open.spotify.com/album/7xQDvA5N69lyWSRyQnUtBF"
       },
@@ -2147,6 +2147,22 @@
       "duration_ms": 268800,
       "name": "Taker",
       "url": "https://open.spotify.com/track/0ZdSPHnoFUAE1tck8oxSyJ"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "The Soft Cavalry",
+        "url": "https://open.spotify.com/album/2YbM8PN17mT9zpxohKc2s5"
+      },
+      "artists": [
+        {
+          "name": "The Soft Cavalry",
+          "url": "https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ"
+        }
+      ],
+      "duration_ms": 255384,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/5TvkWUGywzfVF5HQ9uySVF"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2183,22 +2199,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "The Soft Cavalry",
-        "url": "https://open.spotify.com/album/2YbM8PN17mT9zpxohKc2s5"
-      },
-      "artists": [
-        {
-          "name": "The Soft Cavalry",
-          "url": "https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ"
-        }
-      ],
-      "duration_ms": 255384,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/5TvkWUGywzfVF5HQ9uySVF"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "You Tear the World in Two (Woodhouse Studio LP Demo) [Remastered]",
         "url": "https://open.spotify.com/album/5X2ZlpiHUls5qnhYWOQb1M"
       },
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Isn't Anything",
-        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Feed Me with Your Kiss",
-      "url": "https://open.spotify.com/track/3yRVw6tj1WBOXVwfLkWH9q"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Mouth By Mouth",
         "url": "https://open.spotify.com/album/7sMhtwP2qwANyUlwijcn5j"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 179533,
       "name": "Lip",
       "url": "https://open.spotify.com/track/26eNgATTW7K0N1QjWHnyjf"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Isn't Anything",
+        "url": "https://open.spotify.com/album/3mnv6nzZV5AQhDG7OUsLdo"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Feed Me with Your Kiss",
+      "url": "https://open.spotify.com/track/3yRVw6tj1WBOXVwfLkWH9q"
     },
     {
       "added_at": "2021-06-03 02:39:04",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2021-06-03 02:39:04",
       "album": {
-        "name": "Tremolo",
-        "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
-      },
-      "artists": [
-        {
-          "name": "my bloody valentine",
-          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
-        }
-      ],
-      "duration_ms": 293840,
-      "name": "Swallow (EP Version)",
-      "url": "https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS"
-    },
-    {
-      "added_at": "2021-06-03 02:39:04",
-      "album": {
         "name": "Sing to Me Candy",
         "url": "https://open.spotify.com/album/7gWUl5AZunW4c83qaCa146"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 344155,
       "name": "Sing to Me Candy",
       "url": "https://open.spotify.com/track/47Y4i7hLPazl7BS4sGWsYd"
+    },
+    {
+      "added_at": "2021-06-03 02:39:04",
+      "album": {
+        "name": "Tremolo",
+        "url": "https://open.spotify.com/album/03UHwtQ59jUS4l8C1bekMA"
+      },
+      "artists": [
+        {
+          "name": "my bloody valentine",
+          "url": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
+        }
+      ],
+      "duration_ms": 293840,
+      "name": "Swallow (EP Version)",
+      "url": "https://open.spotify.com/track/4lYac7OxuhaKYV75XDkRBS"
     },
     {
       "added_at": "2021-06-03 02:39:04",

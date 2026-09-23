@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 12426,
+  "num_followers": 12454,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABRIohgwj7NO5GteqeLyh4O",
+  "snapshot_id": "arBzgAAAAAC4T1edwSIdRwgKP2wJ1jqo",
   "tracks": [
     {
       "added_at": null,
@@ -47,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 184894,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Try",
         "url": "https://open.spotify.com/album/6CPueje2KqooPG806INnOW"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 133773,
       "name": "Try",
       "url": "https://open.spotify.com/track/2P8GdpevIzNxDQWRtGgmYq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1XsKZfYDE58uwXMoQJNtip"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 184894,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/172TikKKeEeGLMiHPdKR1J"
     },
     {
       "added_at": null,
@@ -199,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Major",
-        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
       },
       "artists": [
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Skiibii",
-          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
         }
       ],
-      "duration_ms": 132856,
-      "name": "Kilo",
-      "url": "https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy"
+      "duration_ms": 227239,
+      "name": "Gbedu",
+      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
     },
     {
       "added_at": null,
@@ -251,18 +247,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+        "name": "El Major",
+        "url": "https://open.spotify.com/album/1bzj6N5AlG4yQwcGVltCxn"
       },
       "artists": [
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Skiibii",
+          "url": "https://open.spotify.com/artist/72Z2AhMKpxZjLNnPMyinUE"
         }
       ],
-      "duration_ms": 227239,
-      "name": "Gbedu",
-      "url": "https://open.spotify.com/track/2s8ccek0lQmwQOTB3aKh6V"
+      "duration_ms": 132856,
+      "name": "Kilo",
+      "url": "https://open.spotify.com/track/1CtTVV922T15I2JV6h5jgy"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Fresh Prince Of Lagos",
-        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
-      },
-      "artists": [
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Oba (feat. Barry Jhay)",
-      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jogo (Smoke Up)",
         "url": "https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 169195,
       "name": "Jogo - Smoke Up",
       "url": "https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fresh Prince Of Lagos",
+        "url": "https://open.spotify.com/album/2TW9HhvTA2KZaPufW4XVoc"
+      },
+      "artists": [
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Oba (feat. Barry Jhay)",
+      "url": "https://open.spotify.com/track/6lAkaaut9o97qgyWJXT2gZ"
     },
     {
       "added_at": null,

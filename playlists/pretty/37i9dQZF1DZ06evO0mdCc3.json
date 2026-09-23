@@ -1,12 +1,12 @@
 {
   "description": "This is Kittie. The essential tracks, all in one playlist.",
-  "num_followers": 16695,
+  "num_followers": 16694,
   "original_name": "This Is Kittie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAAyBRkPGvG74jOVV5dbUZ99",
+  "snapshot_id": "arBzgAAAAAAcaOtl2+QzFVVCHAHSEzEY",
   "tracks": [
     {
       "added_at": null,
@@ -395,38 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spit XXV",
-        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 253940,
-      "name": "Charlotte XXV",
-      "url": "https://open.spotify.com/track/4zxlavFPfVahz5Rj5l9cU8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Until the End",
-        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 253400,
-      "name": "Until the End",
-      "url": "https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Unforgiven (From 'Queen of the Ring - Music From The Motion Picture')",
         "url": "https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0"
       },
@@ -455,6 +423,38 @@
       "duration_ms": 352242,
       "name": "The Unforgiven - From 'Queen of the Ring - Music From The Motion Picture'",
       "url": "https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Until the End",
+        "url": "https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 253400,
+      "name": "Until the End",
+      "url": "https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spit XXV",
+        "url": "https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 253940,
+      "name": "Charlotte XXV",
+      "url": "https://open.spotify.com/track/4zxlavFPfVahz5Rj5l9cU8"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brackish (Live)",
-        "url": "https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92"
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 172334,
-      "name": "Brackish - Live",
-      "url": "https://open.spotify.com/track/61Scy8gj0GspFOvWy4P7VG"
+      "duration_ms": 131853,
+      "name": "I've Failed You",
+      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
+        "name": "Brackish (Live)",
+        "url": "https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 131853,
-      "name": "I've Failed You",
-      "url": "https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j"
+      "duration_ms": 172334,
+      "name": "Brackish - Live",
+      "url": "https://open.spotify.com/track/61Scy8gj0GspFOvWy4P7VG"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Funeral For Yesterday",
-        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+        "name": "I've Failed You",
+        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 238038,
-      "name": "Witch Hunt",
-      "url": "https://open.spotify.com/track/6C8vQKRucg3uuwA9UKpyh6"
+      "duration_ms": 270653,
+      "name": "Time Never Heals",
+      "url": "https://open.spotify.com/track/012vdVPwJ2GtBaEHIXAPWH"
     },
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Funeral For Yesterday",
+        "url": "https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj"
+      },
+      "artists": [
+        {
+          "name": "Kittie",
+          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
+        }
+      ],
+      "duration_ms": 238038,
+      "name": "Witch Hunt",
+      "url": "https://open.spotify.com/track/6C8vQKRucg3uuwA9UKpyh6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I've Failed You",
         "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
       },
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
         }
       ],
-      "duration_ms": 270653,
-      "name": "Time Never Heals",
-      "url": "https://open.spotify.com/track/012vdVPwJ2GtBaEHIXAPWH"
+      "duration_ms": 221773,
+      "name": "Empires (Part 2)",
+      "url": "https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 177000,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I've Failed You",
-        "url": "https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr"
-      },
-      "artists": [
-        {
-          "name": "Kittie",
-          "url": "https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc"
-        }
-      ],
-      "duration_ms": 221773,
-      "name": "Empires (Part 2)",
-      "url": "https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V"
     }
   ],
   "unique_name": "This Is Kittie",

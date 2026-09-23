@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: CLOSE YOUR EYES\)
 
-1,809 songs - 4 day 0 hr 28 min
+1,810 songs - 4 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -353,7 +353,7 @@
 | [Crown](https://open.spotify.com/track/4iu11uPXYHUJaq5vr9cLwW) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [REVERXE \- The 8th Album](https://open.spotify.com/album/4ZXDMoZKLnkxFyqRGmCLnB) | 3:18 | 2026-01-19 | 2026-03-20 |
 | [CRUSH](https://open.spotify.com/track/2qiWQf7ka0C4XoA7JAZ1q5) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [MELTING POINT](https://open.spotify.com/album/5XHHcWUt6zy1nkbzt707ys) | 2:49 | 2023-11-08 | 2024-01-30 |
 | [Crush!](https://open.spotify.com/track/6lZrMteR4f7nHrNW4ot3H1) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Crush!](https://open.spotify.com/album/0clcYq3eLhpPzTF4TCp8XB) | 2:08 | 2023-12-01 | 2024-02-02 |
-| [Crushed](https://open.spotify.com/track/7qWMlEMiKxnrl1bFTOcVPT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crushed](https://open.spotify.com/album/0sXjgH2vb0I2ifgstdSztt) | 4:02 | 2026-07-04 |  |
+| [Crushed](https://open.spotify.com/track/7qWMlEMiKxnrl1bFTOcVPT) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Crushed](https://open.spotify.com/album/0sXjgH2vb0I2ifgstdSztt) | 4:02 | 2026-07-04 | 2026-09-23 |
 | [CRZY](https://open.spotify.com/track/2jlVG4zVT1HEeuZJlfnQt5) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [TASTE \- The 1st Album](https://open.spotify.com/album/6hMu9KtkE3ZXcS10QaC82U) | 3:26 | 2025-09-09 | 2025-10-21 |
 | [Cupid](https://open.spotify.com/track/0w54OKbroNiI06hCHdSGBR) | [DKZ](https://open.spotify.com/artist/31eyTcfjAke5hFX3az3nRE) | [DKZ 6th Single Album 'CHASE EPISODE 2\. MAUM'](https://open.spotify.com/album/4j5d4JxHVJvb6m5hA9hgoe) | 3:13 | 2022-04-12 | 2022-06-22 |
 | [Cupid](https://open.spotify.com/track/4dKa5ZzlGqUy3Wo0yaXKNI) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-02-28 | 2023-04-04 |
@@ -489,6 +489,7 @@
 | [Empty](https://open.spotify.com/track/15sqqtN3pxdFqYnVxKPHt9) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOOR \- The 4th Mini Album](https://open.spotify.com/album/57tUagZl5Lg8x2fogKCzjA) | 4:04 | 2024-05-31 | 2024-07-19 |
 | [Encore](https://open.spotify.com/track/2mf9FitEJnH6mcUU6y0Hkw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Encore](https://open.spotify.com/album/6yESzO6GMS3fJ7FrDhYtDi) | 3:32 | 2021-02-20 | 2021-05-11 |
 | [Energy](https://open.spotify.com/track/5jZs79KOjXHJaEKDvSCt6W) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [null](https://open.spotify.com/album/6g45D7w415qJrQjaCxg7hr) | 2:41 | 2025-08-20 | 2025-10-01 |
+| [ENOuGH](https://open.spotify.com/track/7MYgrDGoz1NlwTdBU9sXAg) | [HONGJOONG](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [ENOuGH](https://open.spotify.com/album/6NNgbHl1bfglbnPKeX5aSJ) | 2:23 | 2026-09-22 |  |
 | [Episode](https://open.spotify.com/track/7H9e5GKSY1PQTW1edqvHb9) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Glow to Haze](https://open.spotify.com/album/1y9IjyEYyMaoxKCgGrHS1o) | 2:42 | 2025-06-17 | 2025-07-22 |
 | [ERASE ME](https://open.spotify.com/track/1K2cYJekjVTqjSPJdLhGQB) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [PYGMALION](https://open.spotify.com/album/5NMfRjmFyNsyF0j8znCOPJ) | 3:09 | 2023-05-15 | 2023-10-06 |
 | [Errr Day](https://open.spotify.com/track/6q1tSNXzxeexSAXwp0dCiG) | [Youngjae](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Errr Day](https://open.spotify.com/album/7uoPw6yndoEeatuxKzacnK) | 3:24 | 2023-03-14 | 2023-04-27 |

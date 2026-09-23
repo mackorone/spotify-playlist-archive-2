@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 556385,
+  "num_followers": 556355,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Manot",
-        "url": "https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E"
+        "name": "Alexa",
+        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
       },
       "artists": [
         {
-          "name": "Gildcoustic",
-          "url": "https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU"
+          "name": "Alexa",
+          "url": "https://open.spotify.com/artist/19aDvXqd8iJncnUTcxy4Ge"
         }
       ],
-      "duration_ms": 348000,
-      "name": "Manot",
-      "url": "https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp"
+      "duration_ms": 257760,
+      "name": "Dewi",
+      "url": "https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0"
     },
     {
       "added_at": "2026-02-27 14:15:13",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2026-02-27 14:15:13",
       "album": {
-        "name": "Alexa",
-        "url": "https://open.spotify.com/album/570sRCpoqrYLlOmKVC8yog"
+        "name": "Manot",
+        "url": "https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E"
       },
       "artists": [
         {
-          "name": "Alexa",
-          "url": "https://open.spotify.com/artist/19aDvXqd8iJncnUTcxy4Ge"
+          "name": "Gildcoustic",
+          "url": "https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU"
         }
       ],
-      "duration_ms": 257760,
-      "name": "Dewi",
-      "url": "https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0"
+      "duration_ms": 348000,
+      "name": "Manot",
+      "url": "https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp"
     }
   ],
   "unique_name": "Kopikustik",

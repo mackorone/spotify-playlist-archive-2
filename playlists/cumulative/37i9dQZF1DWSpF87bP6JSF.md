@@ -4,7 +4,7 @@
 
 > Los éxitos del pop latino, con Camilo en portada.
 
-916 songs - 1 day 22 hr 59 min
+917 songs - 1 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 | 2021-12-17 | 2022-06-10 |
 | [COMO TU](https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [BABABA WORLD](https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS) | 2:34 | 2025-06-13 | 2025-08-02 |
 | [Como Yo :\(](https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Como Yo :\(](https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1) | 2:21 | 2023-06-23 | 2023-09-16 |
+| [COMPA COLETO \(uy\_como\)](https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch) | 3:20 | 2026-09-22 |  |
 | [Con otra](https://open.spotify.com/track/38EGs4h8GqgrS1HT344SCQ) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Con otra](https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD) | 3:51 | 2025-03-21 | 2025-05-03 |
 | [Constelación](https://open.spotify.com/track/7wH1efzwFeSsaLoOIxx0YT) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Lia Kali](https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:20 | 2024-11-08 | 2025-01-25 |
 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 | 2022-07-22 | 2022-12-17 |
@@ -820,7 +821,7 @@
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-02-24 | 2023-09-16 |
 | [torpe](https://open.spotify.com/track/2NCV9stP4wBkIi7QsKcyJG) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [al romper la burbuja 2](https://open.spotify.com/album/0laGuJ1xeprihqPkexp5PB) | 3:25 | 2026-01-30 | 2026-02-28 |
 | [Tortura](https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tortura](https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg) | 2:12 | 2024-03-15 | 2024-06-15 |
-| [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 | 2026-07-24 |  |
+| [TOTOTO \(+4\)](https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [TOTOTO \(+4\)](https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab) | 2:18 | 2026-07-24 | 2026-09-23 |
 | [Touching The Sky](https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Touching The Sky](https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa) | 3:07 | 2024-05-24 | 2024-08-24 |
 | [Toy en el Mic](https://open.spotify.com/track/3DeZc9cOc1DM8YNoJV8lAv) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:17 | 2023-10-13 | 2024-01-27 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 | 2024-02-24 |

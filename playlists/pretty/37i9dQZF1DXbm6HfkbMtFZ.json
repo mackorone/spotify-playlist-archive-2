@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 844432,
+  "num_followers": 844464,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Carry On",
-        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 168767,
-      "name": "Carry On",
-      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Carry On",
+        "url": "https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 168767,
+      "name": "Carry On",
+      "url": "https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -235,22 +235,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Cool Cat - Remastered 2011",
-      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Straight from the Heart (Remastered)",
         "url": "https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g"
       },
@@ -267,22 +251,18 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Lou's Tune",
-        "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
       "artists": [
         {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 102634,
-      "name": "Lou's Tune",
-      "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
+      "duration_ms": 209106,
+      "name": "Cool Cat - Remastered 2011",
+      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -319,6 +299,26 @@
       "duration_ms": 234493,
       "name": "Around The Sun",
       "url": "https://open.spotify.com/track/3OeHPk27py8JaMUqIebznh"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Lou's Tune",
+        "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        }
+      ],
+      "duration_ms": 102634,
+      "name": "Lou's Tune",
+      "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "The Miraculous Hump Returns From The Moon",
-        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
-      },
-      "artists": [
-        {
-          "name": "Sopwith Camel",
-          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
-        }
-      ],
-      "duration_ms": 314653,
-      "name": "Fazon",
-      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1hy99Geeqk41ERKiyLz0b1"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 189284,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/6MGDifi2vBHgHLpqCUmX16"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "The Miraculous Hump Returns From The Moon",
+        "url": "https://open.spotify.com/album/4EUJpUUKkFMIzq10y3CbvZ"
+      },
+      "artists": [
+        {
+          "name": "Sopwith Camel",
+          "url": "https://open.spotify.com/artist/79yziupbWWcD49xCvek9Uf"
+        }
+      ],
+      "duration_ms": 314653,
+      "name": "Fazon",
+      "url": "https://open.spotify.com/track/6l5Rzt6HhkL89NhWLOGom0"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Mr. Right Now",
-        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
-      },
-      "artists": [
-        {
-          "name": "Tiger Lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "Mr. Right Now",
-      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "The Gold (Nick Waterhouse Remix)",
         "url": "https://open.spotify.com/album/0QgLeJOCYZN6V9kUTlgNHu"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 249773,
       "name": "The Gold - Nick Waterhouse Remix",
       "url": "https://open.spotify.com/track/5qVVPptGHVCPMci6NCbLCq"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Mr. Right Now",
+        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
+      },
+      "artists": [
+        {
+          "name": "Tiger Lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "Mr. Right Now",
+      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
         "name": "All I Really Wanna Do",
         "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 250933,
       "name": "Two Trees",
       "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Choose Your Own Adventure",
-        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "The Conservation of Energy",
-      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Last One Standing (Radio Edit)",
         "url": "https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 203589,
       "name": "Last One Standing - Radio Edit",
       "url": "https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Choose Your Own Adventure",
+        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "The Conservation of Energy",
+      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Open Season",
-        "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 240453,
-      "name": "One Evening - Remix By VV",
-      "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Bye Bye 17",
         "url": "https://open.spotify.com/album/3lJgfGvlQIdJ9JdWAAape1"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 125962,
       "name": "Late Night Morning Light",
       "url": "https://open.spotify.com/track/36Jk4Gov47YOevltFX97sD"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Open Season",
+        "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 240453,
+      "name": "One Evening - Remix By VV",
+      "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
     },
     {
       "added_at": "2026-09-11 17:50:27",

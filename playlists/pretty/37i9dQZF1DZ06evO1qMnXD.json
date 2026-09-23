@@ -1,12 +1,12 @@
 {
   "description": "This is Mitski. The essential tracks, all in one playlist.",
-  "num_followers": 300226,
+  "num_followers": 300244,
   "original_name": "This Is Mitski",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADSknNaBwKy7N7meQdDi2GW",
+  "snapshot_id": "arBzgAAAAACFQhxR10PHTkn8rsfL980x",
   "tracks": [
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 104253,
-      "name": "When Memories Snow",
-      "url": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
+      "duration_ms": 224333,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx"
+      "duration_ms": 104253,
+      "name": "When Memories Snow",
+      "url": "https://open.spotify.com/track/0QzJS1fQv5l0s1mqKTECRX"
     },
     {
       "added_at": null,

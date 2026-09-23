@@ -1,12 +1,12 @@
 {
   "description": "Symphonic and power metal at its most epic. Cover: Beast In Black \n",
-  "num_followers": 824663,
+  "num_followers": 824699,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQz6kMwM5O68vd4TuT5znkOVwBI",
+  "snapshot_id": "AAAAAAaOe31LeigNv8Tx7Cq4rBMPbIfS",
   "tracks": [
     {
       "added_at": "2026-09-22 01:57:25",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/064UVjs0ry86dP8JLssD45"
-      },
-      "artists": [
-        {
-          "name": "Xandria",
-          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
-        }
-      ],
-      "duration_ms": 316306,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/2nSbrtuPsawg8s64WB740M"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Liars Linger",
         "url": "https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 367063,
       "name": "Liars Linger",
       "url": "https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/064UVjs0ry86dP8JLssD45"
+      },
+      "artists": [
+        {
+          "name": "Xandria",
+          "url": "https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL"
+        }
+      ],
+      "duration_ms": 316306,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/2nSbrtuPsawg8s64WB740M"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
-      },
-      "artists": [
-        {
-          "name": "Ignea",
-          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
-        }
-      ],
-      "duration_ms": 320546,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "I Will Die In It",
         "url": "https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 224811,
       "name": "I Will Die In It",
       "url": "https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Darkness",
+        "url": "https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda"
+      },
+      "artists": [
+        {
+          "name": "Ignea",
+          "url": "https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM"
+        }
+      ],
+      "duration_ms": 320546,
+      "name": "Darkness",
+      "url": "https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Oceans Above, Stars Below",
-        "url": "https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ"
-      },
-      "artists": [
-        {
-          "name": "Triosphere",
-          "url": "https://open.spotify.com/artist/0hk3NBCfedrc9J4qj27UxG"
-        }
-      ],
-      "duration_ms": 281973,
-      "name": "Shorelines",
-      "url": "https://open.spotify.com/track/0sez9ahsBLUMI3VNXtUJgq"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 226128,
       "name": "The Hanging Tree",
       "url": "https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Oceans Above, Stars Below",
+        "url": "https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ"
+      },
+      "artists": [
+        {
+          "name": "Triosphere",
+          "url": "https://open.spotify.com/artist/0hk3NBCfedrc9J4qj27UxG"
+        }
+      ],
+      "duration_ms": 281973,
+      "name": "Shorelines",
+      "url": "https://open.spotify.com/track/0sez9ahsBLUMI3VNXtUJgq"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "We Come Alive",
-        "url": "https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 181440,
-      "name": "We Come Alive",
-      "url": "https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "The Rune (2025)",
         "url": "https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 406269,
       "name": "The Rune (2025)",
       "url": "https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "We Come Alive",
+        "url": "https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 181440,
+      "name": "We Come Alive",
+      "url": "https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp"
     },
     {
       "added_at": "2026-09-22 01:57:25",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-09-22 01:57:25",
       "album": {
-        "name": "Survival of Mankind",
-        "url": "https://open.spotify.com/album/5jtg4TupNSaLLZYtBtpFh9"
-      },
-      "artists": [
-        {
-          "name": "Dragonland",
-          "url": "https://open.spotify.com/artist/5qwH9gKvchSfuv8V6pBU71"
-        }
-      ],
-      "duration_ms": 246471,
-      "name": "Survival of Mankind",
-      "url": "https://open.spotify.com/track/4mZI916WYg2ddnIHaz6L7W"
-    },
-    {
-      "added_at": "2026-09-22 01:57:25",
-      "album": {
         "name": "Kings of Ragnar\u00f6k",
         "url": "https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 234775,
       "name": "Dance with the Devil",
       "url": "https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv"
+    },
+    {
+      "added_at": "2026-09-22 01:57:25",
+      "album": {
+        "name": "Survival of Mankind",
+        "url": "https://open.spotify.com/album/5jtg4TupNSaLLZYtBtpFh9"
+      },
+      "artists": [
+        {
+          "name": "Dragonland",
+          "url": "https://open.spotify.com/artist/5qwH9gKvchSfuv8V6pBU71"
+        }
+      ],
+      "duration_ms": 246471,
+      "name": "Survival of Mankind",
+      "url": "https://open.spotify.com/track/4mZI916WYg2ddnIHaz6L7W"
     },
     {
       "added_at": "2026-09-22 01:57:25",

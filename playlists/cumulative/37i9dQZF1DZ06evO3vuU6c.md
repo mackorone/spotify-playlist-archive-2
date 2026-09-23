@@ -4,7 +4,7 @@
 
 > This is Sia\. The essential tracks, all in one playlist.
 
-114 songs - 6 hr 55 min
+115 songs - 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 | 2023-07-28 |  |
 | [Cheap Thrills](https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh) | 3:31 | 2023-07-28 |  |
 | [Cheap Thrills \(feat\. Sean Paul\)](https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [This Is Acting](https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ) | 3:44 | 2023-07-28 |  |
+| [Cool You Down \(feat\. Sia\)](https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:30 | 2026-09-23 |  |
 | [Courage to Change](https://open.spotify.com/track/2MbgQKWhoii8bqsMBWWWgA) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Courage to Change](https://open.spotify.com/album/09bnoLaXqJi7naZtDXHIbh) | 4:52 | 2023-07-28 | 2025-10-17 |
 | [Courage to Change](https://open.spotify.com/track/7FPJ3rncDYvcdgW11PhTMw) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:52 | 2025-10-17 |  |
 | [Dance Alone](https://open.spotify.com/track/1XZy2eprbATl4AnL9Fpsw1) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Dance Alone](https://open.spotify.com/album/6VFvESDvhvsBjCSlIXpIXw) | 2:52 | 2024-02-08 | 2026-05-23 |
@@ -90,7 +91,7 @@
 | [Reaper](https://open.spotify.com/track/4Vw3UGCAUQetVTmNdh6W5d) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:39 | 2023-12-13 | 2023-12-30 |
 | [Salted Wound \- From "Fifty Shades Of Grey" Soundtrack](https://open.spotify.com/track/54ssLbJIu1evMyaERFYHjs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Of Grey \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4gnEi23PFBwHXT9rMqTsN5) | 4:30 | 2023-07-30 | 2024-11-20 |
 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:26 | 2023-12-13 | 2023-12-30 |
-| [Saved My Life](https://open.spotify.com/track/0Ts6bcB1AQYkt28yZXk1qQ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:55 | 2026-09-21 |  |
+| [Saved My Life](https://open.spotify.com/track/0Ts6bcB1AQYkt28yZXk1qQ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 3:55 | 2026-09-21 | 2026-09-23 |
 | [Saved My Life](https://open.spotify.com/track/5cpw6QKJcoXzpNBLNUJx2i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Saved My Life](https://open.spotify.com/album/1kKYFo3YmUCRmT1tUj31wp) | 3:55 | 2023-07-28 | 2023-12-30 |
 | [She Wolf \(Falling to Pieces\) \[feat\. Sia\]](https://open.spotify.com/track/1SgdUjvppHnIp6L7DZSnwc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 3:42 | 2023-07-28 |  |
 | [Snowflake](https://open.spotify.com/track/0DbGG3nbq1R3TNLkKTx6aZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 4:02 | 2023-12-21 | 2023-12-30 |

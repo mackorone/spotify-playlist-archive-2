@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 
 > The rule breakers who shaped the punk rock ethos, and the artists who carry it forward today\. Cover: Amy Taylor \(Amyl and The Sniffers\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,784 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,910 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,28 +58,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX51TD2wakW3K.md) - [plain]
 | 48 | [Somebody's Gonna Get Their Head Kicked in Tonight](https://open.spotify.com/track/3q8pRsDaXqHZdo73Vsittc) | [The Rezillos](https://open.spotify.com/artist/0nbaBQTlGxUPLQ07N7onwv) | [Can't Stand The Rezillos: The \[Almost\] Complete Rezillos](https://open.spotify.com/album/3gkTVYznHVW1Z9v3AOGNKo) | 1:54 |
 | 49 | [Sweet '69](https://open.spotify.com/track/55oE1XL7HceNY7VR7Nz4yu) | [Babes In Toyland ](https://open.spotify.com/artist/3Xdna5z74yNICNKqdaNX9z) | [Nemesisters](https://open.spotify.com/album/7KGRLGS0Bwc494GS7awFsL) | 4:04 |
 | 50 | [Control](https://open.spotify.com/track/6ydPTlLqw0Y1hWmEqCiRQK) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [Perfect](https://open.spotify.com/album/1SmNCUA35KrRKfzwk02FSD) | 3:15 |
-| 51 | [Cool Schmool](https://open.spotify.com/track/65bY1D2pZJkNTDrxWncY8W) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/7lzJitndL2gmgt4cP4tmnj) | 2:03 |
-| 52 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 |
-| 53 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 |
+| 51 | [Free Money](https://open.spotify.com/track/1wP1qnWy0cZWxnbWkzf9La) | [Patti Smith](https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP) | [Horses \(Legacy Edition\)](https://open.spotify.com/album/7xg7u99lilTCPbaRfnYuy6) | 3:52 |
+| 52 | [One More Hour](https://open.spotify.com/track/1WtpkJyC5UNqE4dC3iHplB) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Dig Me Out \(Remastered\)](https://open.spotify.com/album/3tshnNFNhHrO6NUQ0BHw42) | 3:19 |
+| 53 | [Cool Schmool](https://open.spotify.com/track/65bY1D2pZJkNTDrxWncY8W) | [Bratmobile](https://open.spotify.com/artist/3GTaO7e3uPaG0SJR7Hxy8L) | [Pottymouth](https://open.spotify.com/album/7lzJitndL2gmgt4cP4tmnj) | 2:03 |
 | 54 | [Trust Me](https://open.spotify.com/track/2MJ99N6jENvKonfgegDtZx) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Bless My Psyche](https://open.spotify.com/album/6l15xlxmDJGC2C8xJNx673) | 3:00 |
 | 55 | [Brother](https://open.spotify.com/track/20JlEDQcD9ztcH7fpByrUA) | [The Organ](https://open.spotify.com/artist/7aFKbKHCNNDNAG0jSmr9go) | [Grab That Gun](https://open.spotify.com/album/6zvv44hOAYmFoJH7dcx0gF) | 4:01 |
 | 56 | [Worldwide](https://open.spotify.com/track/05TRbrINOYAeoOCRy4jbMW) | [Snõõper](https://open.spotify.com/artist/197lTCdMFPariBJ2Xd1xNb) | [Worldwide](https://open.spotify.com/album/1Lej9DPOh2ljmeiyKTFHrz) | 2:34 |
-| 57 | [Womanarchist](https://open.spotify.com/track/3Viq6H7Yuo5S9dZDi76CNJ) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Warriors](https://open.spotify.com/album/54ThBfBsIYq8IjvMKEFxWc) | 2:52 |
+| 57 | [Terrorist](https://open.spotify.com/track/5svfeW2c5FttYvj2IB5Gq6) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 1:57 |
 | 58 | [Unbeschreiblich Weiblich](https://open.spotify.com/track/4dzQVQl0NKLseUq5arIw0W) | [Nina Hagen](https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj), [Spliff](https://open.spotify.com/artist/47U0ujLT2qD3wSOGl5WDth) | [Nina Hagen Band](https://open.spotify.com/album/0xhbRH15usL0err9cL56Dx) | 3:30 |
-| 59 | [Terrorist](https://open.spotify.com/track/5svfeW2c5FttYvj2IB5Gq6) | [Heavens To Betsy](https://open.spotify.com/artist/0nMGtVCtOB828z1CYKDzGZ) | [Calculated](https://open.spotify.com/album/7j1FVjRMoFdboNookYCXQB) | 1:57 |
+| 59 | [Womanarchist](https://open.spotify.com/track/3Viq6H7Yuo5S9dZDi76CNJ) | [Bad Cop Bad Cop](https://open.spotify.com/artist/226ZwHRFmxyMqgXCoEkUbq) | [Warriors](https://open.spotify.com/album/54ThBfBsIYq8IjvMKEFxWc) | 2:52 |
 | 60 | [Ha Ha Ha Armageddon](https://open.spotify.com/track/0brTq66ZftMGbr6OfKFUM9) | [The Julie Ruin](https://open.spotify.com/artist/3jCDV35GjiUGWYWKgMd9CF) | [The Punk Singer \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2) | 3:16 |
 | 61 | [Libel](https://open.spotify.com/track/62bgpXZkqvbKNwSx0LXyit) | [Tilt](https://open.spotify.com/artist/71nmu8vx7OHvivVKv3dIRq) | ['Til It Kills](https://open.spotify.com/album/07G1rWGaIb0iD4N6YaH2wW) | 2:22 |
 | 62 | [Special](https://open.spotify.com/track/0mXI7POSEk4jRlIH0R0VAv) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Are We All Angels](https://open.spotify.com/album/0zDdwRsOg2sVvOFpjEOtHs) | 2:57 |
 | 63 | [Woman Driver](https://open.spotify.com/track/28Zo6zxUvjalBnftQpC8Qe) | [The Pill](https://open.spotify.com/artist/4XtMirRxOoonxsbLRJvlwO) | [Woman Driver](https://open.spotify.com/album/6SxfRfXTWGh20SiGGunINs) | 2:04 |
-| 64 | [Lucky Guy](https://open.spotify.com/track/2jSdbHZZRp6eLq8F5KPtoR) | [The Muffs](https://open.spotify.com/artist/4FYk4moRCGHdXIK3AMcelO) | [The Muffs](https://open.spotify.com/album/3f9SPyuKWxyufWWXdEmzT2) | 2:47 |
-| 65 | [Fight Like a Girl](https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [Nailed It](https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5) | 3:13 |
+| 64 | [Fight Like a Girl](https://open.spotify.com/track/1oB95k1m9xX1M7FkRxhFPS) | [Cheap Perfume](https://open.spotify.com/artist/2vfwEEEv5PVpGMMnC5jajB) | [Nailed It](https://open.spotify.com/album/2x0q1zOoj9ETJhN9nhCLg5) | 3:13 |
+| 65 | [Lucky Guy](https://open.spotify.com/track/2jSdbHZZRp6eLq8F5KPtoR) | [The Muffs](https://open.spotify.com/artist/4FYk4moRCGHdXIK3AMcelO) | [The Muffs](https://open.spotify.com/album/3f9SPyuKWxyufWWXdEmzT2) | 2:47 |
 | 66 | [Bad Ass Bitch](https://open.spotify.com/track/6RnIQtsHeCWSA9ILQgx6J1) | [Lunachicks](https://open.spotify.com/artist/3p3KAZ6zqhFkkH5ZdTuS5X) | [Luxury Problem](https://open.spotify.com/album/5QZhFMU4gDHawZeZFCjKXr) | 4:08 |
 | 67 | [Crimson Wave](https://open.spotify.com/track/6ixncUHZXJpLWbej9oOms2) | [Tacocat](https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW) | [NVM](https://open.spotify.com/album/1InarU1z2GghO47Wb4Nm9m) | 2:03 |
 | 68 | [Don't Dictate \- Demo](https://open.spotify.com/track/0LzCSYjFxH3LKSU4UIeRBk) | [Penetration](https://open.spotify.com/artist/0XLpzWw7BLdlsf32qlMXKV) | [Moving Targets](https://open.spotify.com/album/7LHgN8wNZITpIywXHVBRLb) | 2:56 |
 | 69 | [Love is Short](https://open.spotify.com/track/4lWBGCEsNyMEcNVHCb7Vxi) | [Otoboke Beaver](https://open.spotify.com/artist/0HutkALC7kq2L8b9bnZUkq) | [ITEKOMA HITS](https://open.spotify.com/album/0A7dXsu3QAMbs2Wu0FUdF4) | 2:11 |
 | 70 | [Husbands](https://open.spotify.com/track/5yoJk1yR5QmwE8Zj2qatpK) | [Savages](https://open.spotify.com/artist/1WFsBUAgQmrGQQEUyFKS60) | [Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) | 2:50 |
-| 71 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
-| 72 | [Touch Me Again](https://open.spotify.com/track/21oFKSwN0SnBYC4bFtDZEI) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Talk of Violence](https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl) | 3:04 |
+| 71 | [Touch Me Again](https://open.spotify.com/track/21oFKSwN0SnBYC4bFtDZEI) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Talk of Violence](https://open.spotify.com/album/64bdsls9U5ZGarwEkCbVfl) | 3:04 |
+| 72 | [Joy](https://open.spotify.com/track/6HpSFu3gX3y9IVP2MZ8p6R) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Secret Love](https://open.spotify.com/album/79o6ZvFsXaAkL9MHCE6ts4) | 2:53 |
 | 73 | [Across The Line](https://open.spotify.com/track/4JJPlu2TWZ7p0MRgh5Td9T) | [Remember Sports](https://open.spotify.com/artist/2DftUzexejBW6l00wmnMoc) | [The Refrigerator](https://open.spotify.com/album/6BJcPDec1HjMQ0H3WyWckR) | 3:19 |
 | 74 | [Outcast Stomp](https://open.spotify.com/track/7x2JpcsehK3idTXuzsimLJ) | [G.L.O.S.S.](https://open.spotify.com/artist/2s4gtd98phMFZf7dMagxjU) | [Demo 2015](https://open.spotify.com/album/2v3FQ4S6xMKm9YL0JapDKl) | 1:54 |
 | 75 | [It's Obvious](https://open.spotify.com/track/5gPOiq7h6NydcfXEv2XiYg) | [Au Pairs](https://open.spotify.com/artist/5nGQE2ehuRkkK1iNUQQthd) | [Stepping Out of Line \- The Anthology](https://open.spotify.com/album/1rQBMMOdTHjqRcg3mD54VK) | 6:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sW0tJ.md) - [plain]
 
 > This is Clara Schumann\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,192 likes - 44 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,195 likes - 44 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sW0tJ.md) - [plain]
 | 43 | [Soirées musicales \- N° 5 Mazurka](https://open.spotify.com/track/1siOkybas59yBpzfMTHqe2) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC) | [Soirées musicales](https://open.spotify.com/album/5PgY486B6EbdVZ4WFIWKUi) | 2:03 |
 | 44 | [3 Romances, Op\. 21: I\. Andante](https://open.spotify.com/track/0yYHpgxYYjgSnzFUcNEPQo) | [Clara Schumann](https://open.spotify.com/artist/2yzaWNFV3cxmcRZtwtr5WC), [Solveig Funseth](https://open.spotify.com/artist/6l3GMOsBBND81JhWMgbMgF) | [Women Composers](https://open.spotify.com/album/44nfUcdSTmWtjvNvdkvKEN) | 6:15 |
 
-Snapshot ID: `aq8iAAAAAABLlyVuzrtwapd2Kn5G1mph`
+Snapshot ID: `arBzgAAAAAC2oylIe+nydFiueT1T7fm+`

@@ -473,6 +473,24 @@
     },
     {
       "album": {
+        "name": "Attendance",
+        "url": "https://open.spotify.com/album/41L0U3KAnDNpyY05tHZfrF"
+      },
+      "artists": [
+        {
+          "name": "Flouriiche",
+          "url": "https://open.spotify.com/artist/5bExeTiMM34JLG1L7Tiszr"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162633,
+      "name": "Attendance",
+      "url": "https://open.spotify.com/track/2Jv00VJQHQNlW6pWfYamja"
+    },
+    {
+      "album": {
         "name": "Aube",
         "url": "https://open.spotify.com/album/0vRjV5no9GIdfHUKnMaNyy"
       },
@@ -1168,7 +1186,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 176727,
       "name": "Dawn to Dusk",
       "url": "https://open.spotify.com/track/277J9t6hZSZfZ5nl0ZQdVZ"
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 195666,
       "name": "Embodied Awareness",
       "url": "https://open.spotify.com/track/2Qp9Ysar36Ak7e8Coi5LST"
@@ -2018,6 +2036,24 @@
       "duration_ms": 192157,
       "name": "Fall in Dreams",
       "url": "https://open.spotify.com/track/6CvtpsdnOtuo6m7RPjvOHL"
+    },
+    {
+      "album": {
+        "name": "Floating Through",
+        "url": "https://open.spotify.com/album/6wYl5KCYKtR2VNfqfIHW6Y"
+      },
+      "artists": [
+        {
+          "name": "Xoi Xoi",
+          "url": "https://open.spotify.com/artist/2sn3KUN2HhvxV2SLWMWxKl"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127619,
+      "name": "Floating Through",
+      "url": "https://open.spotify.com/track/0BEuZ8qOhCaaB032iFLlAl"
     },
     {
       "album": {
@@ -3400,7 +3436,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 149250,
       "name": "Mystic Reverberations",
       "url": "https://open.spotify.com/track/6c7SjzTC92FI18MmItSPSq"
@@ -3494,7 +3530,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 199500,
       "name": "Night Vision",
       "url": "https://open.spotify.com/track/2fRzBSbWD0BPCZy8KXc5IT"
@@ -4603,6 +4639,24 @@
     },
     {
       "album": {
+        "name": "Shistar",
+        "url": "https://open.spotify.com/album/7jyS7P1FVh0OrUX8jchJpJ"
+      },
+      "artists": [
+        {
+          "name": "Mzarta Brokin",
+          "url": "https://open.spotify.com/artist/6EvITxC3tnjSP8THRKrPtf"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126037,
+      "name": "Shistar",
+      "url": "https://open.spotify.com/track/4NQOccvHtfqfm12qvL59Z2"
+    },
+    {
+      "album": {
         "name": "Silent Aurora",
         "url": "https://open.spotify.com/album/34spoj4NANjQSWpPQuCNGn"
       },
@@ -5320,6 +5374,24 @@
       "duration_ms": 170958,
       "name": "Tangerine Dreams",
       "url": "https://open.spotify.com/track/0loHXV5PTemi8u167w9NYi"
+    },
+    {
+      "album": {
+        "name": "Technetium",
+        "url": "https://open.spotify.com/album/1SId4iArgWNI0ALzHxuCo9"
+      },
+      "artists": [
+        {
+          "name": "Hudba Lyrika",
+          "url": "https://open.spotify.com/artist/21JKDXC6Hihde2MshJBXM7"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155056,
+      "name": "Technetium",
+      "url": "https://open.spotify.com/track/5PkD63dtA3QCUl8OGTraij"
     },
     {
       "album": {

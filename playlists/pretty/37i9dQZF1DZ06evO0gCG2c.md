@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 
 > This is Akon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,098 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,147 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 15 | [Sorry, Blame It On Me](https://open.spotify.com/track/61BqwgSRTyWH9M4uPjsC3B) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Konvicted \(Complete Edition\)](https://open.spotify.com/album/4SAz7HhY1uBvxF6O9k1iyq) | 4:55 |
 | 16 | [Hypnotized \(feat\. Akon\)](https://open.spotify.com/track/3LN41NUdHkyNqQhi9gExMm) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 3:08 |
 | 17 | [Ghetto](https://open.spotify.com/track/09JkIMWSVYi143LoWnY1fa) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 |
-| 18 | [We Don't Care](https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:16 |
-| 19 | [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 |
-| 20 | [I Wanna Fuck You](https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 2:58 |
+| 18 | [Troublemaker](https://open.spotify.com/track/7FOXrArO9CU6xVZotChlD8) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Sweet Rush](https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 3:57 |
+| 19 | [I Wanna Fuck You](https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Tha Blue Carpet Treatment](https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI) | 2:58 |
+| 20 | [Soul Survivor](https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Let's Get It: Thug Motivation 101](https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN) | 4:40 |
 | 21 | [Hold My Hand \(with Akon\)](https://open.spotify.com/track/1652voE1ZeLyehNC2kbHMb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Michael](https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf) | 3:32 |
-| 22 | [Troublemaker](https://open.spotify.com/track/7FOXrArO9CU6xVZotChlD8) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Sweet Rush](https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 3:57 |
+| 22 | [We Don't Care](https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 4:16 |
 | 23 | [Body On Me](https://open.spotify.com/track/2IyL2CyHoenwQLds5jSuqK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Declaration](https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d) | 3:20 |
 | 24 | [AKON'S BEAUTIFUL DAY](https://open.spotify.com/track/355StcShfdvt9gf4m863gm) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [BEAUTIFUL DAY](https://open.spotify.com/album/0beloHUnrqAmH58rSMxDoa) | 2:37 |
 | 25 | [Baby, I'm Back](https://open.spotify.com/track/00da5UpHHr2CcmAedVX3Be) | [Baby Bash](https://open.spotify.com/artist/12PSlydMSjEHzSCj9X5qv7), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Super Saucy](https://open.spotify.com/album/3PVZuZnUTxhpUN7T5A4O5x) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gCG2c.md) - [plain]
 | 49 | [Came To Do \(feat\. Akon\)](https://open.spotify.com/track/3fLXPbXiezgmbJEEOkT8ve) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [X \(Expanded Edition\)](https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY) | 3:48 |
 | 50 | [Criminal](https://open.spotify.com/track/39bx4zZrPxTjw8VNuvjt6X) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Ra\-One](https://open.spotify.com/album/5x2eTJrbEvmOTEcWWWubLy) | 5:06 |
 
-Snapshot ID: `aq8iAAAAAACMh033tqzkY4fPqb1/E0jM`
+Snapshot ID: `arBzgAAAAABTS6VLTVfBJ/YUpnKWyhyx`

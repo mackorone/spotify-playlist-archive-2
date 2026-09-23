@@ -6049,6 +6049,24 @@
     },
     {
       "album": {
+        "name": "Arriba en la Cordillera",
+        "url": "https://open.spotify.com/album/0qKkB8oasao1lWN5BT20Pr"
+      },
+      "artists": [
+        {
+          "name": "Patricio Manns",
+          "url": "https://open.spotify.com/artist/0qX7rdOqbH8vUUeXUUsiqf"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219013,
+      "name": "Arrriba en la Cordillera",
+      "url": "https://open.spotify.com/track/5MFmzDIygDTiQuikj5T04Q"
+    },
+    {
+      "album": {
         "name": "Arsenal",
         "url": "https://open.spotify.com/album/7rbRBzaKbxyp4HnJOSgBvP"
       },
@@ -49402,7 +49420,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 226666,
       "name": "Paseo De Gracia - Rough Mix",
       "url": "https://open.spotify.com/track/5OEedo8zlNQT3fqf0jITag"
@@ -63990,7 +64008,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 87293,
       "name": "Ta Llegando Gente al Baile",
       "url": "https://open.spotify.com/track/6wGUozfWPY1zH8D6nn0obZ"
@@ -70492,7 +70510,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 253400,
       "name": "Too Late - Eric Woolfson Rough Guide Vocal",
       "url": "https://open.spotify.com/track/2XPAhHvhrXXuzcFdjdvIpi"
@@ -74238,7 +74256,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 87266,
       "name": "Waltz No. 16 in A-Flat Major, KK IVa/13",
       "url": "https://open.spotify.com/track/4DlSuD8AXLcFnHzDpCYE1d"
@@ -74260,7 +74278,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 155866,
       "name": "Waltz No. 19 in A Minor, KK IVb/11",
       "url": "https://open.spotify.com/track/5oOqhC4TUixHoMKsUTAKSY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT goes post\-grunge as Silver Side Up turns 25\. Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,262,402 likes - 30 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,262,320 likes - 30 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

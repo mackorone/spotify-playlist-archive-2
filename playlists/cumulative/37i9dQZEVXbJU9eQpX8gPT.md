@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-2,171 songs - 4 day 21 hr 28 min
+2,172 songs - 4 day 21 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,7 +692,7 @@
 | [FOR LIFE](https://open.spotify.com/track/1sRrW5JHJMsDPyjix1I1YQ) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:00 | 2026-05-23 | 2026-06-07 |
 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 | 2023-09-09 | 2023-09-11 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-19 |
-| [FORAS](https://open.spotify.com/track/1349sJ9c4sT6KBgUqZiK6S) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [FORAS](https://open.spotify.com/album/0DvwAM1ehhlLSaANGCVCS5) | 2:52 | 2026-09-12 | 2026-09-21 |
+| [FORAS](https://open.spotify.com/track/1349sJ9c4sT6KBgUqZiK6S) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [FORAS](https://open.spotify.com/album/0DvwAM1ehhlLSaANGCVCS5) | 2:52 | 2026-09-12 |  |
 | [FOREVER](https://open.spotify.com/track/6C30qhTvYwramIzP9vQgtD) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [OMEGA](https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt) | 2:31 | 2025-01-10 | 2025-02-17 |
 | [Forever And Ever](https://open.spotify.com/track/0DAEnPBk4LYHloZYO5AnML) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:11 | 2021-04-18 | 2021-04-19 |
 | [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-03 | 2023-06-04 |
@@ -1551,10 +1551,11 @@
 | [Pikala \(feat\. 3robi & Inkonnu\)](https://open.spotify.com/track/51V6P9QhItNSNVgu72PF5c) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [MON VOYAGE](https://open.spotify.com/album/4tCCEyA2VMRbda3WAsMAqy) | 2:50 | 2021-07-11 | 2021-08-08 |
 | [PILLAVE](https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [PILLAVE](https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6) | 2:33 | 2026-08-15 |  |
 | [Pilule](https://open.spotify.com/track/6yXYNT6oQZH0MzeAPLXYbJ) | [Diib](https://open.spotify.com/artist/1PAFc1G2WeoQ4DeGKETVdi) | [Immortal](https://open.spotify.com/album/6DIp3xw3tPfwQx9jHCoSLV) | 2:46 | 2022-05-28 | 2022-05-30 |
+| [Pilé](https://open.spotify.com/track/0PMhBcbq0a5EDngAlVQLAy) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker](https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn) | 2:36 | 2026-09-22 |  |
 | [Pilé](https://open.spotify.com/track/2qfAnCOsLPFs8zOQc2pNKI) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt\. 1](https://open.spotify.com/album/1I88RaknA3oyzxIuHV0qHN) | 2:36 | 2026-07-31 | 2026-08-26 |
 | [Pilé](https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker Part.1](https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj) | 2:36 | 2026-05-21 | 2026-06-30 |
 | [Pilé](https://open.spotify.com/track/5sOXBp183GxCmKH56sH1yo) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt\. 1](https://open.spotify.com/album/5tU1xjeA4dANiKn3a7wrwR) | 2:36 | 2026-06-29 | 2026-08-01 |
-| [Pilé](https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.1](https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa) | 2:36 | 2026-08-25 |  |
+| [Pilé](https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.1](https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa) | 2:36 | 2026-08-25 | 2026-09-23 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2022-09-01 |
 | [Pink Venom](https://open.spotify.com/track/5zwwW9Oq7ubSxoCGyW1nbY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 3:06 | 2022-09-17 | 2022-09-21 |
 | [Pipe Down](https://open.spotify.com/track/11pEKMLmavDu8fxOB5QjbQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:25 | 2021-09-05 | 2021-09-07 |
@@ -1627,7 +1628,7 @@
 | [RAPPEL](https://open.spotify.com/track/48BdA5qBxXVoe59xvu0bwc) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 3:37 | 2022-07-02 | 2022-07-05 |
 | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/track/4MqDpQPykbFcJeF8xruknN) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb) | [Rassi \(feat\. ElGrandeToto\)](https://open.spotify.com/album/58SNMyClBKyTzSRQLaGHzv) | 3:00 | 2025-04-05 | 2025-07-15 |
 | [RATA](https://open.spotify.com/track/2nBxbWSTEo2hxo5opMViwn) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SUEÑO MAGNIFICO](https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7) | 3:30 | 2024-12-30 | 2025-01-27 |
-| [RATA](https://open.spotify.com/track/4JZxNGb8DmD3A5goTyy8Bu) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SUEÑO MAGNIFICO](https://open.spotify.com/album/3WrZoo947muSaqPYhFxkbT) | 3:30 | 2026-09-21 |  |
+| [RATA](https://open.spotify.com/track/4JZxNGb8DmD3A5goTyy8Bu) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI) | [SUEÑO MAGNIFICO](https://open.spotify.com/album/3WrZoo947muSaqPYhFxkbT) | 3:30 | 2026-09-21 | 2026-09-23 |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-15 | 2025-03-23 |
 | [RAYII](https://open.spotify.com/track/6zcx6TuwOCD8flrAJVt1B9) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [PLAN B](https://open.spotify.com/album/4p3aP0cbVIb90Lm3h2TD1N) | 3:08 | 2025-11-22 | 2025-12-07 |
 | [RAZONES \(feat\. Morad\)](https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 3:04 | 2023-11-24 | 2025-09-11 |

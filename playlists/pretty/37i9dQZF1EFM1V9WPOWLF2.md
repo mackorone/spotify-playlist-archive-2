@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79 likes - 116 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 116 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 70 | [Noches de Soledad](https://open.spotify.com/track/6wYzqcXiX3orkFVkKZtZkF) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Noches de Soledad](https://open.spotify.com/album/3HPJ0W9d8RSosSZeZfM7AE) | 3:04 |
 | 71 | [Dime](https://open.spotify.com/track/4XYlzNajGoarznEKOhs7To) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:50 |
 | 72 | [Never](https://open.spotify.com/track/6WJWxEIY8c8wmW6TxCplw7) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Never](https://open.spotify.com/album/23sn6gTKYXUA29zWrUSChH) | 3:11 |
-| 73 | [Tokio](https://open.spotify.com/track/6fE7XcLoadUog7a85tVjne) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:32 |
-| 74 | [Forget](https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57) | [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Albert Hype](https://open.spotify.com/artist/1E7XNYAEwSLSAiLDYRMs1G) | [Forget](https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o) | 2:33 |
+| 73 | [Forget](https://open.spotify.com/track/2BI2OuANKzF2YhheQSwO57) | [Sorry My Love](https://open.spotify.com/artist/59eMWEcg6fxHRhWb5rJbtM), [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Albert Hype](https://open.spotify.com/artist/1E7XNYAEwSLSAiLDYRMs1G) | [Forget](https://open.spotify.com/album/2Orndc0Xnp9yWgVhRdCQ7o) | 2:33 |
+| 74 | [Tokio](https://open.spotify.com/track/6fE7XcLoadUog7a85tVjne) | [WANDA ORIGINAL](https://open.spotify.com/artist/2H8Dwb3Tbgux2nJixSW6LD) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:32 |
 | 75 | [Pa' Chile](https://open.spotify.com/track/0xINw5OfMEFpgqfgVnN3Bu) | [Diego Smith](https://open.spotify.com/artist/60d7XKY1qqY5cPnXOCVvo6) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:39 |
 | 76 | [Volverás](https://open.spotify.com/track/7e7jwhhF97ivaOrqXa7dju) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Volverás](https://open.spotify.com/album/5VhDef51qADRAeqqLZdIL4) | 2:44 |
 | 77 | [COMPLICADO](https://open.spotify.com/track/2FKIbvksdWBHXe0KjF2Jdx) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [COMPLICADO](https://open.spotify.com/album/34acwC6W2OjOMfEZXfUOFH) | 2:51 |
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 115 | [Terrifying](https://open.spotify.com/track/2ANynrvIPu167ZHz2DJ3xk) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Terrifying](https://open.spotify.com/album/732sY0DgQ57NUeH5wNSDL4) | 3:24 |
 | 116 | [Its Weird](https://open.spotify.com/track/4S9pwJF1RwFY9rjuyVlTOB) | [Awgust](https://open.spotify.com/artist/0cC1TGgq52GNhAhed6SHj6) | [Its Weird](https://open.spotify.com/album/4XqWvGatggpkv5iGNmgp0T) | 2:59 |
 
-Snapshot ID: `Acc7nAAAAAAai/TpSCwn5C7wFckXrIbC`
+Snapshot ID: `AcdBRgAAAACyJhKp4PjtlLtAFdWzuXN7`

@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 541359,
+  "num_followers": 541368,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "The Allman Brothers Band (Deluxe)",
-        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 317438,
-      "name": "Whipping Post",
-      "url": "https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
         "name": "Molly Hatchet",
         "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 177600,
       "name": "Bounty Hunter",
       "url": "https://open.spotify.com/track/50d2zWUEVp9jn0EphgvdWe"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
+        "name": "The Allman Brothers Band (Deluxe)",
+        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "duration_ms": 317438,
+      "name": "Whipping Post",
+      "url": "https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
-        "name": "Shake Hands With Shorty",
-        "url": "https://open.spotify.com/album/2QoQtXjJhpQ5thjzBptKHq"
+        "name": "Laid Back",
+        "url": "https://open.spotify.com/album/5F7PzrH7DqZg1LunR0zL23"
       },
       "artists": [
         {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
         }
       ],
-      "duration_ms": 248960,
-      "name": "Shake 'Em On Down",
-      "url": "https://open.spotify.com/track/0c89AX1OJlQM22def9hr0n"
+      "duration_ms": 268600,
+      "name": "Midnight Rider",
+      "url": "https://open.spotify.com/track/2I2Z3BMH3wjVVxNHcJG0kO"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Shake Hands With Shorty",
+        "url": "https://open.spotify.com/album/2QoQtXjJhpQ5thjzBptKHq"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        }
+      ],
+      "duration_ms": 248960,
+      "name": "Shake 'Em On Down",
+      "url": "https://open.spotify.com/track/0c89AX1OJlQM22def9hr0n"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "Dark Side of the Mule (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 197093,
       "name": "Refried Funky Chicken",
       "url": "https://open.spotify.com/track/1zmoz57QRPXJUJBQOicp0U"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Southern Rock Gold",
-        "url": "https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN"
-      },
-      "artists": [
-        {
-          "name": "Elvin Bishop",
-          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
-        }
-      ],
-      "duration_ms": 436546,
-      "name": "Travelin' Shoes",
-      "url": "https://open.spotify.com/track/156F2CPm7xEokUNSg4CLh4"
     },
     {
       "added_at": "2025-06-20 04:06:02",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-06-20 04:06:02",
       "album": {
+        "name": "Southern Rock Gold",
+        "url": "https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN"
+      },
+      "artists": [
+        {
+          "name": "Elvin Bishop",
+          "url": "https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11"
+        }
+      ],
+      "duration_ms": 436546,
+      "name": "Travelin' Shoes",
+      "url": "https://open.spotify.com/track/156F2CPm7xEokUNSg4CLh4"
+    },
+    {
+      "added_at": "2025-06-20 04:06:02",
+      "album": {
         "name": "The Deep End Vol. 1",
         "url": "https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 467800,
       "name": "Soulshine",
       "url": "https://open.spotify.com/track/1oHdIbwsw3jJvrIKvZdB2e"
-    },
-    {
-      "added_at": "2025-06-20 04:06:02",
-      "album": {
-        "name": "Laid Back",
-        "url": "https://open.spotify.com/album/5F7PzrH7DqZg1LunR0zL23"
-      },
-      "artists": [
-        {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "Midnight Rider",
-      "url": "https://open.spotify.com/track/2I2Z3BMH3wjVVxNHcJG0kO"
     },
     {
       "added_at": "2025-06-20 04:06:02",

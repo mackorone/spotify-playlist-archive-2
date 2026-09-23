@@ -4,7 +4,7 @@
 
 > For the quiet hours when the world sleeps, and your thoughts speak the loudest.
 
-53 songs - 3 hr 17 min
+54 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Already Gone](https://open.spotify.com/track/7fkXzzIVo98CgjOkpd9H0V) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Already Gone](https://open.spotify.com/album/5uicIhSFTrEr6hXoS2q7V2) | 4:00 | 2025-09-09 |  |
 | [always, i'll care](https://open.spotify.com/track/0rbKrBvZUYY9GN9l057BuY) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [love is not dying](https://open.spotify.com/album/5mkf4N44kdEwYgaOk3hRLF) | 2:26 | 2020-12-15 |  |
 | [Apocalypse](https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 4:50 | 2025-06-05 |  |
+| [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2026-09-22 |  |
 | [bandaids](https://open.spotify.com/track/2ZP85Jq4K27V6WWVXfINSR) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [bandaids](https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ) | 3:35 | 2020-12-14 |  |
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2025-06-07 |  |
 | [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-06-07 |  |

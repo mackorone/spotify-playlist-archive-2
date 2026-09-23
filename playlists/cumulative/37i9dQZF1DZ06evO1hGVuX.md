@@ -4,7 +4,7 @@
 
 > This is Ana Roxanne\. The essential tracks, all in one playlist.
 
-34 songs - 2 hr 39 min
+35 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [III](https://open.spotify.com/track/1QASMyabE1yQ1a09J0YklZ) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 3:43 | 2026-04-13 | 2026-06-28 |
 | [Immortality](https://open.spotify.com/track/7umwXBtyRHfXl0UnhsWKRZ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 4:04 | 2026-03-12 |  |
 | [In a Small Valley](https://open.spotify.com/track/5ZLqOeBBYZFIl6xjKlPKLg) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:24 | 2026-03-12 |  |
-| [It's a Rainy Day on the Cosmic Shore](https://open.spotify.com/track/2fvphQzLUCR89aLAwTyDuL) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:20 | 2026-03-12 |  |
+| [It's a Rainy Day On The Cosmic Shore](https://open.spotify.com/track/1j5rkmHiuDWtEK513AORvL) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/5N6kyq6w51apGqPwgC09I2) | 5:20 | 2026-09-23 |  |
+| [It's a Rainy Day on the Cosmic Shore](https://open.spotify.com/track/2fvphQzLUCR89aLAwTyDuL) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [\~\~\~](https://open.spotify.com/album/2oPJNXmIuWrJq9ozINmwFW) | 5:20 | 2026-03-12 | 2026-09-23 |
 | [Keepsake](https://open.spotify.com/track/1O1Qmb9eZYK6lAU9EWpTpQ) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Poem 1](https://open.spotify.com/album/4eLf3APm1Cb4vqmJUnDLpr) | 4:38 | 2026-05-05 |  |
 | [Keepsake](https://open.spotify.com/track/4V179yjVt1dZNemsd6487f) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Keepsake](https://open.spotify.com/album/2GMrnxW0ZcLdTZyxaBKaP5) | 4:38 | 2026-03-12 | 2026-05-05 |
 | [Natural Wonder Beauty Concept](https://open.spotify.com/track/1womnt3S3SEd8vl43UwwlH) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/5fuCjaj3t1OkkrMH7EjuLu), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/0W8AIAf0mUGX4VZ0jH31FX) | 4:24 | 2026-04-27 |  |

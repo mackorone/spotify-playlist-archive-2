@@ -4,7 +4,7 @@
 
 > Música alegre para que el trabajo se te pase volando.
 
-495 songs - 1 day 3 hr 58 min
+496 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,7 +169,7 @@
 | [El Wey](https://open.spotify.com/track/4bFDvUCl0ZMQ6yHAUaSsF5) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [El Wey](https://open.spotify.com/album/52neKij6fmer1UfXcau0Dr) | 3:17 | 2023-04-24 | 2023-11-13 |
 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 | 2023-12-22 | 2024-02-22 |
 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 | 2022-08-08 | 2023-10-27 |
-| [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2023-12-22 |  |
+| [Energía Bacana](https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Energía Bacana](https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq) | 2:27 | 2023-12-22 | 2026-09-23 |
 | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/track/2y4tVYe37VJaEkYbWTJvHE) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/album/7daj8IRYx1YWlcYwRlFc5O) | 3:55 | 2022-01-10 | 2026-03-11 |
 | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/track/4lYGDM2P0P6NosnaoFiPqB) | [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Entre Sobras Y Sobras Me Faltas](https://open.spotify.com/album/2NdVSWwmCmdCamPxCSt1er) | 3:54 | 2022-08-08 | 2023-01-02 |
 | [Escuela de Calor](https://open.spotify.com/track/7J0niAY0FLzGiCVJUREl88) | [Radio Futura](https://open.spotify.com/artist/4qKJA8Cf8R44cMThP6q8KM) | [La Ley Del Desierto](https://open.spotify.com/album/12q1hQoVuKLVUaqlksygIu) | 3:30 | 2025-07-18 | 2026-01-15 |
@@ -325,6 +325,7 @@
 | [noche de san juan](https://open.spotify.com/track/0OXUqgdMVTNGgV0LJ8irvP) | [Hey Kid](https://open.spotify.com/artist/1x8mAhfvCw7JXRX7Ild0lF) | [a nuevos lugares](https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4) | 2:41 | 2025-07-02 |  |
 | [Nochentera](https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Nochentera](https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v) | 3:22 | 2023-04-24 |  |
 | [Noches de bohemia \- Radio Edit](https://open.spotify.com/track/1JpZMDDAkfhnrO6nXIQZ2g) | [Navajita Platea](https://open.spotify.com/artist/14QPRrwRDAiUhdGC6D3VpE) | [Desde Mi Azotea](https://open.spotify.com/album/79Le8lGTHNh1tB8RaY7xPH) | 4:07 | 2024-07-12 |  |
+| [NUDITO \- Remix](https://open.spotify.com/track/21JKuRHUBIIT9uscKVKoDs) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw), [Marta Santos](https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK) | [NUDITO \(Remix\)](https://open.spotify.com/album/78Mm8dllG3k0QFVXFPZC9C) | 2:19 | 2026-09-17 |  |
 | [Oh, Pretty Woman](https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Oh, Pretty Woman](https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0) | 2:58 | 2022-08-08 | 2024-04-19 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-08-08 | 2023-04-25 |
 | [Olvidé Olvidarte](https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI) | [Marlon](https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Olvidé Olvidarte](https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P) | 3:01 | 2023-12-22 | 2024-06-11 |

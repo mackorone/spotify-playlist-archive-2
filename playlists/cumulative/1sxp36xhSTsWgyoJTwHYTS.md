@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-258 songs - 13 hr 50 min
+260 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [La Nuit](https://open.spotify.com/track/21tJYf8GxZ2nbMOu2i2aVg) | [Mike Moonnight](https://open.spotify.com/artist/6T8Ols663KRRS4UdzGPbFf) | [La Nuit](https://open.spotify.com/album/6SBT3l51BiLME0uhMwUUuU) | 2:47 | 2026-06-25 |  |
 | [La Nuit n'a pas Sommeil](https://open.spotify.com/track/6VMyovpmPXZrKQHAM6nsH9) | [Jeremy Laroch](https://open.spotify.com/artist/0KC8MXn0i9tjZNf4txHmKJ), [Christianne Braspenning](https://open.spotify.com/artist/4Dw0rwTMGywJ3WPAWEGO58) | [La Nuit n'a pas Sommeil](https://open.spotify.com/album/1TimoJpAjnHtAVqV2NZHo1) | 2:47 | 2024-12-04 |  |
 | [La Paye](https://open.spotify.com/track/7eCwjQQvoe4k3iMUUjwHaC) | [Seroan](https://open.spotify.com/artist/0ES16jKLCbea3NsA9utjis) | [La Paye](https://open.spotify.com/album/0wgcFjReyuWvjcxZKpTvYi) | 2:45 | 2023-10-24 |  |
+| [la pluie sur un sourire](https://open.spotify.com/track/7EPM28iVOgUqfDc8mcssz5) | [Indécis](https://open.spotify.com/artist/2Ob8Sw8cUGdNE1t1ZtFFDC) | [la pluie sur un sourire](https://open.spotify.com/album/62DYJajnXXjqOHP4oEzVWm) | 2:29 | 2026-09-22 |  |
 | [Laisse filer](https://open.spotify.com/track/40SuTRwcXhStcIKm5s5wZd) | [Hub30](https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0) | [Laisse filer](https://open.spotify.com/album/3P3QbHcKoWht4IraOk7EPH) | 3:16 | 2024-05-28 |  |
 | [Last Night in Goa](https://open.spotify.com/track/4usUCtBGbuLdZYHVxYqKcY) | [Hub30](https://open.spotify.com/artist/385GnVcvtt3cbhl512XWp0) | [Last Night in Goa](https://open.spotify.com/album/2j4EM9IjsMcBeKQCegBctl) | 2:17 | 2024-12-20 |  |
 | [LAUNDRY DAY](https://open.spotify.com/track/5eYSDrU3OwMBlRaRO56jXq) | [Ellis Evason](https://open.spotify.com/artist/6w8E53hPHlIEl7TVL9BVrA) | [LAUNDRY DAY](https://open.spotify.com/album/3UEmminxc6c4QcEAUTXHEy) | 3:37 | 2024-10-08 |  |
@@ -181,6 +182,7 @@
 | [Olympe](https://open.spotify.com/track/71vhGEYtkLVIIkQkAoHrAT) | [Gabriel de Valois](https://open.spotify.com/artist/5sE523XGbxa2qOcUwLpm9Q) | [Olympe](https://open.spotify.com/album/60ivxdiprJAGZjB2mQwjDk) | 2:50 | 2024-11-18 |  |
 | [On fait quoi ?](https://open.spotify.com/track/495a3z39IrxT1ImrRKfJBT) | [Chicho](https://open.spotify.com/artist/0hh5lHx4BxY3xwvXr9PU2l), [Gocha](https://open.spotify.com/artist/2Tr69m7IVbi8izg1KweGHi) | [On fait quoi ?](https://open.spotify.com/album/5GxSOSarCVKjVUtbbKdKWU) | 2:10 | 2023-06-03 |  |
 | [On se prépare pour l'hiver](https://open.spotify.com/track/1hfiVYUa7x2QypvFKNuhs8) | [Jeremy Laroch](https://open.spotify.com/artist/0KC8MXn0i9tjZNf4txHmKJ) | [On se prépare pour l'hiver](https://open.spotify.com/album/2mpjVchhs0DsKJZOnImFkC) | 3:37 | 2024-12-04 |  |
+| [On se sait](https://open.spotify.com/track/77tyR0eQEbNglQPA0OxTsS) | [JANEREVA](https://open.spotify.com/artist/7J2WoLXgGpYTjnKiIZCN44) | [On se sait](https://open.spotify.com/album/6bt1zfR2cvJFd2Ouv30iSF) | 3:46 | 2026-09-22 |  |
 | [Only You](https://open.spotify.com/track/4iIIfxkw3SOLf4SUcPN452) | [Dead Rick](https://open.spotify.com/artist/0SnosqHsAY7BItEHvGkZgj), [Digitz](https://open.spotify.com/artist/1eu47jjV8LoU0Wg4M5IDf9), [Grizzy the Great](https://open.spotify.com/artist/2dFownQTopLKtVpRmMWXNi) | [Only You](https://open.spotify.com/album/0MZdht4JruRhOraCGOmQ6v) | 3:22 | 2024-01-23 |  |
 | [ophelie](https://open.spotify.com/track/6XdxQd4EFvYOvWYqr1KXm3) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh) | [Home of Sanity \(the playlist\)](https://open.spotify.com/album/0HuDE3XfOnoI068AEUaLmE) | 3:56 | 2023-01-11 |  |
 | [Or Nah \- Spanish Version](https://open.spotify.com/track/3Z6uOkCcj1ELbozu14Fez9) | [The Samu](https://open.spotify.com/artist/1hyzQSk08cK1aPlEKx5dOP) | [Or Nah \(Spanish Version\)](https://open.spotify.com/album/4vS40y44RIMbkqxbssAoJS) | 2:05 | 2024-07-23 |  |

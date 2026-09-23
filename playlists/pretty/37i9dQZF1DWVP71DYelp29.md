@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 
 > The hits you know like you’ve never heard before\. Cover: Alessia Cara
 
-[Spotify](https://open.spotify.com/user/spotify) - 730,634 likes - 125 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 730,625 likes - 125 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVP71DYelp29.md) - [plain]
 | 58 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 59 | [Bad At Love \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1kTugNMVMbaQep1srMua2q) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Spotify Singles](https://open.spotify.com/album/0AwgzJZxt4sf2teqdEjxwV) | 3:01 |
 | 60 | [Like A Virgin \- Spotify Singles](https://open.spotify.com/track/0CbtHNmNuPXSYbH4Uz3roM) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Spotify Singles](https://open.spotify.com/album/6kTnZzeB1WcyjYZDRS4Wci) | 3:11 |
-| 61 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
-| 62 | [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 |
+| 61 | [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 |
+| 62 | [Feel It Still \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 2:49 |
 | 63 | [Stan \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6H98N10OCmld8m5XyyulO3) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 3:22 |
 | 64 | [Life is Like a Dice Game \- Spotify Singles](https://open.spotify.com/track/5iBEUyRJL5fV0Hl5L5AqoR) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [Life is Like a Dice Game \- Spotify Singles](https://open.spotify.com/album/07XItOn4L2uyxBeZBOAwVt) | 4:44 |
 | 65 | [Teenage Dirtbag \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0P9RpXoU2UnYmjzrEMlupy) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Spotify Singles](https://open.spotify.com/album/6vJ831b419D1qjX1clMjk6) | 4:06 |

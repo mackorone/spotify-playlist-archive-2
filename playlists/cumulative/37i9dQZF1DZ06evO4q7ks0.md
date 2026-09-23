@@ -4,7 +4,7 @@
 
 > This is The Cranberries\. The essential tracks, all in one playlist.
 
-104 songs - 6 hr 30 min
+105 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,10 +24,11 @@
 | [Dreams \- Acoustic Version](https://open.spotify.com/track/2J8xeXaGojJxfwlgcXISez) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Something Else](https://open.spotify.com/album/6rTGpCVnXY2ph0a1aaIrEL) | 4:24 | 2025-03-08 |  |
 | [Dreams \- Remastered 2026](https://open.spotify.com/track/458JkK5eJhh4C4s6nTuz7g) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We? \(Remastered 2026\)](https://open.spotify.com/album/4xIcI1EC3MoCNZWkhMjShN) | 4:33 | 2026-06-12 |  |
 | [Dreams \- Spanish Mix \(2026\)](https://open.spotify.com/track/05T4MrrXyH4HvBCFieKqKY) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9), [ANASOF](https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm) | [Everybody Else Is Doing It, So Why Can't We? \(Deluxe / Remastered 2026\)](https://open.spotify.com/album/7ktarJEh4sDBnMvmGeAXuA) | 4:37 | 2026-05-24 | 2026-06-21 |
+| [Dying Inside](https://open.spotify.com/track/71yv2oUlDswarpajuXlw5O) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Wake Up And Smell The Coffee](https://open.spotify.com/album/592j1syleeHJWGP5a4kYPm) | 3:10 | 2026-09-23 |  |
 | [Electric Blue](https://open.spotify.com/track/2ZlWxTsv7PE6jGmEYB7s2E) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [To The Faithful Departed](https://open.spotify.com/album/5G3I9bLpCZxK4XeLyJ69iu) | 4:50 | 2025-03-08 |  |
 | [Empty](https://open.spotify.com/track/5kXxYIVOQeERF8SuP7ASDW) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:26 | 2025-07-27 | 2025-09-05 |
 | [Empty \- 2025 Remastered](https://open.spotify.com/track/3HrNcD2Loy5lKsNZ3069Ye) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:25 | 2025-09-05 | 2025-09-13 |
-| [Empty \- Live At The London Astoria II, 1994](https://open.spotify.com/track/3vdQT29MvBGPuOCwuzGRGH) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Empty \(Live At The London Astoria II, 1994\)](https://open.spotify.com/album/3sxI9ZA68u8oeLBKX9FwmX) | 3:52 | 2026-07-10 |  |
+| [Empty \- Live At The London Astoria II, 1994](https://open.spotify.com/track/3vdQT29MvBGPuOCwuzGRGH) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Empty \(Live At The London Astoria II, 1994\)](https://open.spotify.com/album/3sxI9ZA68u8oeLBKX9FwmX) | 3:52 | 2026-07-10 | 2026-09-23 |
 | [Empty \- Live MTV Unplugged](https://open.spotify.com/track/12sxeMvMRpKGe9vqBImiBS) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Empty](https://open.spotify.com/album/4W52uLWuYeNT3GJWoAb5fl) | 4:10 | 2025-09-21 | 2025-10-19 |
 | [Everything I Said](https://open.spotify.com/track/3dw1KIS8K5INsoeEXHQDdy) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 3:52 | 2025-09-05 | 2025-09-09 |
 | [Everything I Said \- 2025 Remastered](https://open.spotify.com/track/2Dm6YlM8g7iyaP2rlWeYS9) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(2025 Remastered\)](https://open.spotify.com/album/6E2UIe7qUVYi6v2fVbGddX) | 3:52 | 2026-08-26 | 2026-09-16 |

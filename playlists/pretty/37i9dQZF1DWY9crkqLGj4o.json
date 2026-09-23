@@ -1,6 +1,6 @@
 {
   "description": "Lavando e louvando a Deus com grandes hinos.",
-  "num_followers": 451860,
+  "num_followers": 451866,
   "original_name": "Louvando e Lou\u00e7a",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2026-01-30 13:05:09",
       "album": {
+        "name": "Andando na Luz",
+        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
+      },
+      "artists": [
+        {
+          "name": "Heloisa Rosa",
+          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
+        }
+      ],
+      "duration_ms": 348499,
+      "name": "H\u00e1 um Lugar",
+      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
+    },
+    {
+      "added_at": "2026-01-30 13:05:09",
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 336716,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc"
-    },
-    {
-      "added_at": "2026-01-30 13:05:09",
-      "album": {
-        "name": "Andando na Luz",
-        "url": "https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK"
-      },
-      "artists": [
-        {
-          "name": "Heloisa Rosa",
-          "url": "https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM"
-        }
-      ],
-      "duration_ms": 348499,
-      "name": "H\u00e1 um Lugar",
-      "url": "https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II"
     },
     {
       "added_at": "2026-01-30 13:05:09",

@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. El Bogueto",
-  "num_followers": 872871,
+  "num_followers": 872955,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -371,18 +371,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Hombre De Bien",
-        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
+        "name": "Que Se Siente",
+        "url": "https://open.spotify.com/album/45XvFLRB93yz21YcXAB29L"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Hombre De Bien",
-      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
+      "duration_ms": 138512,
+      "name": "Que Se Siente",
+      "url": "https://open.spotify.com/track/2vTorS5pBxHr4LNrbbJk8K"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -407,22 +411,18 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Que Se Siente",
-        "url": "https://open.spotify.com/album/45XvFLRB93yz21YcXAB29L"
+        "name": "Hombre De Bien",
+        "url": "https://open.spotify.com/album/6tUMEhQHiTN8kzVz8lfCQ3"
       },
       "artists": [
         {
-          "name": "Eley Romero",
-          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
-        },
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 138512,
-      "name": "Que Se Siente",
-      "url": "https://open.spotify.com/track/2vTorS5pBxHr4LNrbbJk8K"
+      "duration_ms": 181714,
+      "name": "Hombre De Bien",
+      "url": "https://open.spotify.com/track/2FkhJgD9FUnaoAxbWv6cyy"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Ay Weyy",
-        "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
-      },
-      "artists": [
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 154699,
-      "name": "Mostaza",
-      "url": "https://open.spotify.com/track/5lDLahSiRoPLcZlDiOmcGK"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/7oBdGYVwSvPz1WzR3pd76l"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 171880,
       "name": "Bling Bling",
       "url": "https://open.spotify.com/track/502mmHexQnDW9CLOsnhcuG"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "Ay Weyy",
+        "url": "https://open.spotify.com/album/7CCnBjQRcWctQWGcyfxWlY"
+      },
+      "artists": [
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 154699,
+      "name": "Mostaza",
+      "url": "https://open.spotify.com/track/5lDLahSiRoPLcZlDiOmcGK"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Perdonarte, \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/3LLzCUi4FDCG7C3HYyENn8"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 193432,
       "name": "Perdonarte, \u00bfPara Qu\u00e9?",
       "url": "https://open.spotify.com/track/3lJpgC9I7R3Botguwpi6j8"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "T\u00fa Ni En Cuenta",
-        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 203801,
-      "name": "T\u00fa Ni En Cuenta",
-      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Repetimos",
         "url": "https://open.spotify.com/album/7KxkbZmg6Vgb9qw6PWN2wQ"
       },
@@ -1183,6 +1163,26 @@
       "duration_ms": 212258,
       "name": "Repetimos",
       "url": "https://open.spotify.com/track/76ygErvy3Y0YwhLbbB6MvZ"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "T\u00fa Ni En Cuenta",
+        "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 203801,
+      "name": "T\u00fa Ni En Cuenta",
+      "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
     },
     {
       "added_at": "2026-09-18 06:00:16",

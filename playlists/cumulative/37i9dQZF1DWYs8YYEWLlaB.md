@@ -2,9 +2,9 @@
 
 ### [trend 2026](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Baneva
+> viral, trend ve yükselenler\. Kapak: Candan Erçetin
 
-321 songs - 16 hr 12 min
+322 songs - 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [Fark Ettim](https://open.spotify.com/track/4rbXJipz3CaSQwtG3xXzzT) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Fark Ettim](https://open.spotify.com/album/4hnVK5UgO5xWJdwxBwmsFv) | 2:35 | 2024-07-02 | 2025-01-12 |
 | [Farzet](https://open.spotify.com/track/5mL3lm7htBJ2TOlvHm2c5S) | [Sertab Erener](https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s) | [Ben Yaşarım](https://open.spotify.com/album/70jZNJODlWajFGhTRqwCgR) | 4:09 | 2025-04-07 | 2025-11-26 |
 | [Galata](https://open.spotify.com/track/0w5mKLexkMJqgcMpjLmqq6) | [Halil Sezai](https://open.spotify.com/artist/0Aoou2kIWXrzTOfhFzmNqa) | [İncir Reçeli 2 \(Soundtrack\)](https://open.spotify.com/album/2pH6A5ZsYaq1b1eJSJiF8D) | 4:24 | 2025-08-28 | 2025-11-19 |
+| [Gamsız Hayat](https://open.spotify.com/track/0MKjkTpnPt1OI1YFV1N1ZO) | [Candan Erçetin](https://open.spotify.com/artist/51YBtWvwOP37hIGmnxf4yC) | [Neden](https://open.spotify.com/album/0EhMbdRliQhYRyGCRiREig) | 3:51 | 2026-09-22 |  |
 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 | 2026-02-16 |  |
 | [GEL GEL GEL](https://open.spotify.com/track/2tni0FShSW5lPlCGyhy6xR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [GEL GEL GEL](https://open.spotify.com/album/6POXXtou8ETiuvDKpCc5HK) | 2:40 | 2026-05-25 |  |
 | [GELME İSTEMEM](https://open.spotify.com/track/2X4NUYZN0ylbM41ADKYv1X) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [GELME İSTEMEM](https://open.spotify.com/album/3tZxBZL1BaJajOariJZHVF) | 3:06 | 2025-02-18 | 2026-03-24 |
@@ -157,7 +158,7 @@
 | [İmdadım](https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [İmdadım](https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd) | 2:09 | 2024-07-02 | 2025-04-29 |
 | [İntihaşk](https://open.spotify.com/track/0SrrvZUjqo1MtUyno4gGhA) | [Onur Can Özcan](https://open.spotify.com/artist/2QslFlDyZVpLYwfqyRDkNs) | [Yaramızda Kalsın](https://open.spotify.com/album/3KxWgiua2gAClmIDcGAoIs) | 3:12 | 2026-01-08 | 2026-04-28 |
 | [İNTİHAR](https://open.spotify.com/track/6G8XtIFpmAm0AUaCOJhTuS) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM), [NASTEISHA](https://open.spotify.com/artist/37kh4W61I9Gm5R3hOFfIG9) | [7EDI](https://open.spotify.com/album/5s1IdEyrFWZ3fEjiu9Jyl7) | 2:08 | 2024-07-02 | 2024-08-08 |
-| [İyi Köpek](https://open.spotify.com/track/7iqPBG7YqLgO86UZ5j6Zqt) | [Murat Ceylan Wish](https://open.spotify.com/artist/3OtUW9avgYnDVlywxxjzml) | [İyi Köpek](https://open.spotify.com/album/03BQLyK7DzzGtNoRx7NydV) | 3:09 | 2026-09-02 |  |
+| [İyi Köpek](https://open.spotify.com/track/7iqPBG7YqLgO86UZ5j6Zqt) | [Murat Ceylan Wish](https://open.spotify.com/artist/3OtUW9avgYnDVlywxxjzml) | [İyi Köpek](https://open.spotify.com/album/03BQLyK7DzzGtNoRx7NydV) | 3:09 | 2026-09-02 | 2026-09-23 |
 | [Kabul Olan Tek Duamsın](https://open.spotify.com/track/36oBlwSPNtA48TLYqk4SNp) | [Shawty](https://open.spotify.com/artist/6B8uJGKax0QnL9hQSu8pVn) | [Kabul Olan Tek Duamsın](https://open.spotify.com/album/711zVBGg9kjmtHfcHZIZZE) | 3:30 | 2024-08-22 | 2025-04-08 |
 | [Kader Sağ Olsun](https://open.spotify.com/track/2crO2eSwgjOoAanagD2sFc) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp) | [Geçiyor Zaman](https://open.spotify.com/album/0flBR9Gz8N0UXPplEbrP1p) | 2:47 | 2024-08-15 | 2025-04-24 |
 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 | 2024-07-02 | 2025-04-24 |

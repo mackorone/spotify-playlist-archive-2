@@ -5748,7 +5748,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 175346,
       "name": "Baraque au Bled",
       "url": "https://open.spotify.com/track/4DOmaofCT3iUb6dMllhWBc"
@@ -9534,7 +9534,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 183813,
       "name": "CARTIER SANTOS",
       "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
@@ -11102,7 +11102,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 161795,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/5GW0Vh78Qa8aEVHByOCuYn"
@@ -31324,7 +31324,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
@@ -31346,6 +31346,24 @@
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
+    },
+    {
+      "album": {
+        "name": "L'undertaker",
+        "url": "https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/33Plu4Rq3ZmOfLLNQcAGva"
     },
     {
       "album": {
@@ -34390,7 +34408,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 198520,
       "name": "Mopao aye",
       "url": "https://open.spotify.com/track/0YjcIRiArrvDYyZz3YUegi"
@@ -39777,6 +39795,24 @@
     },
     {
       "album": {
+        "name": "L'undertaker",
+        "url": "https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/0PMhBcbq0a5EDngAlVQLAy"
+    },
+    {
+      "album": {
         "name": "L'undertaker, Pt. 1",
         "url": "https://open.spotify.com/album/1I88RaknA3oyzxIuHV0qHN"
       },
@@ -39842,7 +39878,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
@@ -45080,7 +45116,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 138591,
       "name": "Serrure #5",
       "url": "https://open.spotify.com/track/74bFjTmlTbZVH9lG3EH7C2"
@@ -46764,7 +46800,7 @@
       ],
       "date_added": "2026-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 131563,
       "name": "Soleil",
       "url": "https://open.spotify.com/track/2QfcxxXiORn553zXq7qrFG"

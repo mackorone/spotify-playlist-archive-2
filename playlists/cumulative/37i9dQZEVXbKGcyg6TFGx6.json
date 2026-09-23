@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -7194,7 +7194,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 225834,
       "name": "BbY WOW",
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
@@ -8358,7 +8358,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -13234,7 +13234,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -17562,7 +17562,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 158458,
       "name": "Dis-moi - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0Zq4kjz9AWHeFeMw358s2c"
@@ -19428,7 +19428,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -22484,7 +22484,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 169586,
       "name": "Fille \u00e0 Papa",
       "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
@@ -27528,7 +27528,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 167047,
       "name": "Highlife",
       "url": "https://open.spotify.com/track/3oKRQ4a0iiO8tZ4tbt0ra0"
@@ -31490,7 +31490,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -34376,7 +34376,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 150511,
       "name": "La p\u00e9tasse",
       "url": "https://open.spotify.com/track/2FGUvuu07YxBUcK4fQ0nom"
@@ -36762,7 +36762,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -37252,6 +37252,24 @@
       "duration_ms": 191638,
       "name": "Love Of My Life",
       "url": "https://open.spotify.com/track/1mw0RgNXIpYRyyCdBQbLgA"
+    },
+    {
+      "album": {
+        "name": "Woman I want",
+        "url": "https://open.spotify.com/album/5jKS4mlUW7ftfeIaXMtf2J"
+      },
+      "artists": [
+        {
+          "name": "Museblade",
+          "url": "https://open.spotify.com/artist/1g8boEvbowpz0j4wsYEE0i"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148677,
+      "name": "Love Promises",
+      "url": "https://open.spotify.com/track/5NAfpkjNfW7QGbRRdKnbUI"
     },
     {
       "album": {
@@ -38566,7 +38584,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80"
@@ -38588,6 +38606,24 @@
       "duration_ms": 192000,
       "name": "Maladie",
       "url": "https://open.spotify.com/track/2n4L2a5xgpJmPdLzDl3mE6"
+    },
+    {
+      "album": {
+        "name": "L'undertaker",
+        "url": "https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Maladie",
+      "url": "https://open.spotify.com/track/33Plu4Rq3ZmOfLLNQcAGva"
     },
     {
       "album": {
@@ -40466,7 +40502,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 125357,
       "name": "Mi Chico - Official - Jason Derulo x Melody",
       "url": "https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX"
@@ -41388,7 +41424,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 130500,
       "name": "MON B\u00c9B\u00c9",
       "url": "https://open.spotify.com/track/1twXUY8kbuu6uUKIHeFuHM"
@@ -43978,7 +44014,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 181270,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
@@ -46778,7 +46814,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -48979,6 +49015,24 @@
     },
     {
       "album": {
+        "name": "L'undertaker",
+        "url": "https://open.spotify.com/album/1rXL3cUD3A3EU693Dolxrn"
+      },
+      "artists": [
+        {
+          "name": "Mauvais djo",
+          "url": "https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156076,
+      "name": "Pil\u00e9",
+      "url": "https://open.spotify.com/track/0PMhBcbq0a5EDngAlVQLAy"
+    },
+    {
+      "album": {
         "name": "L'undertaker, Pt. 1",
         "url": "https://open.spotify.com/album/1I88RaknA3oyzxIuHV0qHN"
       },
@@ -49044,7 +49098,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 156076,
       "name": "Pil\u00e9",
       "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
@@ -49084,7 +49138,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 160487,
       "name": "Pineapple",
       "url": "https://open.spotify.com/track/1jSRu1IRoB6DPKsWTVGzTB"

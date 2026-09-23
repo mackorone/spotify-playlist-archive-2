@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4EMdfaADzDUr.md) - [plain]
 
 > With GONE, After Cooking, Douran and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,598 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,601 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

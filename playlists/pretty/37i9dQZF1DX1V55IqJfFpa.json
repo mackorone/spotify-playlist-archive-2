@@ -1,6 +1,6 @@
 {
   "description": "aqu\u00ed pura vibra chida \u2728 Rauw Alejandro en portada",
-  "num_followers": 494956,
+  "num_followers": 494990,
   "original_name": "rolitas chidas ",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,18 @@
     {
       "added_at": "2026-09-18 06:00:18",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+        "name": "A M\u00ed",
+        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+      "duration_ms": 209680,
+      "name": "A M\u00ed",
+      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
     },
     {
       "added_at": "2026-09-18 06:00:18",
@@ -599,18 +595,22 @@
     {
       "added_at": "2026-09-18 06:00:18",
       "album": {
-        "name": "A M\u00ed",
-        "url": "https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO"
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 209680,
-      "name": "A M\u00ed",
-      "url": "https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa"
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2026-09-18 06:00:18",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-18 06:00:18",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
-    },
-    {
-      "added_at": "2026-09-18 06:00:18",
-      "album": {
         "name": "Ese Vato No Te Queda",
         "url": "https://open.spotify.com/album/4Z9Ib007Z7ZFmYLfyp2qH9"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 198607,
       "name": "Ese Vato No Te Queda",
       "url": "https://open.spotify.com/track/4Ndjd6DhKIC5IPoBIrMQuX"
+    },
+    {
+      "added_at": "2026-09-18 06:00:18",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
       "added_at": "2026-09-18 06:00:18",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2026-09-18 06:00:18",
       "album": {
+        "name": "Mu\u00e9velo",
+        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 127366,
+      "name": "Mu\u00e9velo",
+      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
+    },
+    {
+      "added_at": "2026-09-18 06:00:18",
+      "album": {
         "name": "mi refe",
         "url": "https://open.spotify.com/album/78NyvN1k9wNAf3NyZlxtxM"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 159404,
       "name": "mi refe",
       "url": "https://open.spotify.com/track/7ricDBUakN3N0YkkKE8Obu"
-    },
-    {
-      "added_at": "2026-09-18 06:00:18",
-      "album": {
-        "name": "Mu\u00e9velo",
-        "url": "https://open.spotify.com/album/6tKu7fGPGQyKD1nbSMWTje"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 127366,
-      "name": "Mu\u00e9velo",
-      "url": "https://open.spotify.com/track/7N3mR4WnEuq1MUQlxb6JWH"
     },
     {
       "added_at": "2026-09-18 06:00:18",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2026-09-18 06:00:18",
       "album": {
+        "name": "Mar Azul",
+        "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 221082,
+      "name": "Mar Azul",
+      "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
+    },
+    {
+      "added_at": "2026-09-18 06:00:18",
+      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 182793,
       "name": "Mi Yo de Antes",
       "url": "https://open.spotify.com/track/0RAlrJTWdsaZVtfh1wDb3r"
-    },
-    {
-      "added_at": "2026-09-18 06:00:18",
-      "album": {
-        "name": "Mar Azul",
-        "url": "https://open.spotify.com/album/3XRUkLadMbJMvotaYFmWbH"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 221082,
-      "name": "Mar Azul",
-      "url": "https://open.spotify.com/track/23SET9hn8zMfkhH43SqNCE"
     },
     {
       "added_at": "2026-09-18 06:00:18",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-09-18 06:00:18",
       "album": {
-        "name": "La Magia de Conectar",
-        "url": "https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 160979,
-      "name": "La Magia de Conectar",
-      "url": "https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM"
-    },
-    {
-      "added_at": "2026-09-18 06:00:18",
-      "album": {
         "name": "Palabra De Honor",
         "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 180239,
       "name": "La Chica Del Bikini Azul",
       "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
+    },
+    {
+      "added_at": "2026-09-18 06:00:18",
+      "album": {
+        "name": "La Magia de Conectar",
+        "url": "https://open.spotify.com/album/2Vqcd4I66u5K5w9lvHp3yl"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "La Magia de Conectar",
+      "url": "https://open.spotify.com/track/4YR75fZeEXYgmWj7bjX4wM"
     },
     {
       "added_at": "2026-09-18 06:00:18",
@@ -1783,22 +1783,18 @@
     {
       "added_at": "2026-09-18 06:00:18",
       "album": {
-        "name": "Qu\u00e9 Andas Haciendo",
-        "url": "https://open.spotify.com/album/5aglfekM0ZJCRb83xKQ2Re"
+        "name": "00:00",
+        "url": "https://open.spotify.com/album/371qTqzTdc0reynwwfM2Bt"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         }
       ],
-      "duration_ms": 199994,
-      "name": "Qu\u00e9 Andas Haciendo",
-      "url": "https://open.spotify.com/track/2Pv1g4OMtsdeQw3QF5v1it"
+      "duration_ms": 215251,
+      "name": "00:00",
+      "url": "https://open.spotify.com/track/7l4cSfrED7RrtT0t5CSOzv"
     },
     {
       "added_at": "2026-09-18 06:00:18",

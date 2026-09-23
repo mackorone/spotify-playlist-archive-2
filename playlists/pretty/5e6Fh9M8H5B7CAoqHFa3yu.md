@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,641 songs - 6 day 10 hr 39 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,644 songs - 6 day 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2649,5 +2649,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2639 | [The Big House](https://open.spotify.com/track/1horHByM1axyVe7mQmgI9I) | [Alessandro Liccardo](https://open.spotify.com/artist/256CcBQU76vRqixx59jpgN) | [The Venosa Session](https://open.spotify.com/album/5zQmf6E0PQ5Ln7hPOUZUkT) | 3:47 |
 | 2640 | [Kopf aus, Herz an](https://open.spotify.com/track/7qVf3mM1KTblvIvBHH5x4K) | [Claudius Mach](https://open.spotify.com/artist/0pwgyvU4c9jWbzHuP0yPUY) | [Kopf aus, Herz an](https://open.spotify.com/album/5nnFUHq6srcKC86jXRm6Zm) | 4:08 |
 | 2641 | [Alles Okay](https://open.spotify.com/track/04WUfyc04zu4Jvn39b0OUZ) | [Jamin](https://open.spotify.com/artist/2ENKqKJLJHCtan7k5y7s69) | [Alles Okay](https://open.spotify.com/album/3E7Opp5ENpxtjyJbBsEOVp) | 2:26 |
+| 2642 | [In The Club \- Big Reunion Remix Edit](https://open.spotify.com/track/4WvH5Yol94s0pynxe208xa) | [Mr Ludwik](https://open.spotify.com/artist/2EQ1ue9aPklRwKhAkUYmJd), [Big Reunion](https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls) | [In The Club](https://open.spotify.com/album/34yPdiRKsRcq4SDmfdSFv1) | 2:41 |
+| 2643 | [Breathing](https://open.spotify.com/track/6N57S50JyGCwhbDxoYf4BS) | [Ghosther](https://open.spotify.com/artist/5BgILNlqsXzjC59uCR0sKK) | [Through Fire](https://open.spotify.com/album/3MeADmLuVVANZ7ymuqag1r) | 4:35 |
+| 2644 | [Alisten La Garganta](https://open.spotify.com/track/3TjHCjWbB1szPTwWwPvWMd) | [Carlos Iriarte](https://open.spotify.com/artist/3Mzy71hae4iIELXAZ4qh7O) | [Alisten La Garganta](https://open.spotify.com/album/3km1cfhzdHGjE2nlFiTkzL) | 3:14 |
 
-Snapshot ID: `AAALTQRa+GJht6juJKQ4mb5Hv3c6Fwwv`
+Snapshot ID: `AAALUBYl0081GScfRIyNgZKKc+VivGks`

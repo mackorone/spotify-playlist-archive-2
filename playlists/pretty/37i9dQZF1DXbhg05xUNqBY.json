@@ -1,6 +1,6 @@
 {
   "description": "Let go and let God.",
-  "num_followers": 345380,
+  "num_followers": 345360,
   "original_name": "Be Still",
   "owner": {
     "name": "Spotify",
@@ -167,22 +167,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "The Old Rugged Cross (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58"
-      },
-      "artists": [
-        {
-          "name": "Sondae",
-          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
-        }
-      ],
-      "duration_ms": 188251,
-      "name": "The Old Rugged Cross - Spotify Singles",
-      "url": "https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "Lead Me To The Cross",
         "url": "https://open.spotify.com/album/5Qf0ApIttYLer5IfSFGAvB"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 248972,
       "name": "Lead Me To The Cross",
       "url": "https://open.spotify.com/track/5cxHgLbvXOjCyg3pNEv88s"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "The Old Rugged Cross (Spotify Singles)",
+        "url": "https://open.spotify.com/album/6PPQduXeIf3ShWuJJGOg58"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "duration_ms": 188251,
+      "name": "The Old Rugged Cross - Spotify Singles",
+      "url": "https://open.spotify.com/track/7zvRdGXBx4ypKHzXwnmk58"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "taking my time",
+        "url": "https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 244109,
+      "name": "taking my time",
+      "url": "https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Take It All Back (Acoustic)",
         "url": "https://open.spotify.com/album/2FW6TWA6ccm3KS3ssxAE5O"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 237417,
       "name": "Take It All Back - Acoustic",
       "url": "https://open.spotify.com/track/1QCe8uDq9pJWls24qMuNzx"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "taking my time",
-        "url": "https://open.spotify.com/album/7pO51aCa2ipEwMlCSxyIAl"
-      },
-      "artists": [
-        {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
-        }
-      ],
-      "duration_ms": 244109,
-      "name": "taking my time",
-      "url": "https://open.spotify.com/track/72e5glwqOjwtCoqQqnHzlu"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "wake up",
-        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
-      },
-      "artists": [
-        {
-          "name": "Cade Biers",
-          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
-        }
-      ],
-      "duration_ms": 186558,
-      "name": "wake up",
-      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "not alone",
         "url": "https://open.spotify.com/album/3k0JfPDoQf2NQxVNakBo2o"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 137250,
       "name": "not alone",
       "url": "https://open.spotify.com/track/3PKCtiaRoDhrtnRuNBelaq"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "wake up",
+        "url": "https://open.spotify.com/album/1Pnu2EthKCf1TTFkecWL4c"
+      },
+      "artists": [
+        {
+          "name": "Cade Biers",
+          "url": "https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj"
+        }
+      ],
+      "duration_ms": 186558,
+      "name": "wake up",
+      "url": "https://open.spotify.com/track/1qzWO4HCAMVwGEHaoqhnLb"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Delight",
+        "url": "https://open.spotify.com/album/4LlazaBbAkS2AjWXKV8DPW"
+      },
+      "artists": [
+        {
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+        }
+      ],
+      "duration_ms": 242391,
+      "name": "Delight",
+      "url": "https://open.spotify.com/track/0fv3Yqa69AM2RiP1eW5ibI"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "Old & Grey",
         "url": "https://open.spotify.com/album/1pDZ8YEQvFT6TLSB94S2tq"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 199939,
       "name": "Old & Grey",
       "url": "https://open.spotify.com/track/7qdpP7QoPXSr8b2mWvGNMP"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Delight",
-        "url": "https://open.spotify.com/album/4LlazaBbAkS2AjWXKV8DPW"
-      },
-      "artists": [
-        {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
-        }
-      ],
-      "duration_ms": 242391,
-      "name": "Delight",
-      "url": "https://open.spotify.com/track/0fv3Yqa69AM2RiP1eW5ibI"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "MATIN: Home",
-        "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
+        "name": "BROKEN BUT I RISE",
+        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
       },
       "artists": [
         {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
+          "name": "New Path Worship",
+          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
         }
       ],
-      "duration_ms": 240687,
-      "name": "All My Tears",
-      "url": "https://open.spotify.com/track/1GQOcxv5TqzcGB6htUFpnr"
+      "duration_ms": 199719,
+      "name": "BROKEN BUT I RISE",
+      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "BROKEN BUT I RISE",
-        "url": "https://open.spotify.com/album/0nYNua9sCXMBEiVX8wvtri"
+        "name": "MATIN: Home",
+        "url": "https://open.spotify.com/album/0Qucx2hDKwy57AZ7Wtj5Th"
       },
       "artists": [
         {
-          "name": "New Path Worship",
-          "url": "https://open.spotify.com/artist/4yCUY08zixGRrIgIpre2Hx"
+          "name": "Jess Ray",
+          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
         }
       ],
-      "duration_ms": 199719,
-      "name": "BROKEN BUT I RISE",
-      "url": "https://open.spotify.com/track/2eEB9M9XOw4T41uc2Q8WYm"
+      "duration_ms": 240687,
+      "name": "All My Tears",
+      "url": "https://open.spotify.com/track/1GQOcxv5TqzcGB6htUFpnr"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1639,26 +1639,6 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Second To You (Live)",
-        "url": "https://open.spotify.com/album/3Q2LSJfX7RzKfa6uFiVgkM"
-      },
-      "artists": [
-        {
-          "name": "Eliza King",
-          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
-        },
-        {
-          "name": "fieldlily",
-          "url": "https://open.spotify.com/artist/7n6Wv6j3eHPu2YS1KL1zos"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Second To You - Live",
-      "url": "https://open.spotify.com/track/1WnwI6WcScwYtxHlRT55om"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
         "name": "green",
         "url": "https://open.spotify.com/album/7KqxY6kXilzCr1fOIwBGYl"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 190133,
       "name": "Faithful (To The End)",
       "url": "https://open.spotify.com/track/6bp5xcAS8GhJA3ndU1L4xE"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
+        "name": "Second To You (Live)",
+        "url": "https://open.spotify.com/album/3Q2LSJfX7RzKfa6uFiVgkM"
+      },
+      "artists": [
+        {
+          "name": "Eliza King",
+          "url": "https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa"
+        },
+        {
+          "name": "fieldlily",
+          "url": "https://open.spotify.com/artist/7n6Wv6j3eHPu2YS1KL1zos"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Second To You - Live",
+      "url": "https://open.spotify.com/track/1WnwI6WcScwYtxHlRT55om"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1915,22 +1915,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "The Invitation",
-        "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
+        "name": "El Roi",
+        "url": "https://open.spotify.com/album/6m0G3Yny9o3iNgv1xwdgtj"
       },
       "artists": [
         {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
-        },
-        {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Heather Suzanne",
+          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
         }
       ],
-      "duration_ms": 212543,
-      "name": "The Invitation",
-      "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
+      "duration_ms": 179573,
+      "name": "El Roi",
+      "url": "https://open.spotify.com/track/3dBKAPLPzLQqEbIpkD4ekL"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -1951,18 +1947,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "El Roi",
-        "url": "https://open.spotify.com/album/6m0G3Yny9o3iNgv1xwdgtj"
+        "name": "The Invitation",
+        "url": "https://open.spotify.com/album/1oWUOQrnEIFoZLFbfttoAW"
       },
       "artists": [
         {
-          "name": "Heather Suzanne",
-          "url": "https://open.spotify.com/artist/0KGGZqBsiH7iJ5DdGLV8KO"
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+        },
+        {
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 179573,
-      "name": "El Roi",
-      "url": "https://open.spotify.com/track/3dBKAPLPzLQqEbIpkD4ekL"
+      "duration_ms": 212543,
+      "name": "The Invitation",
+      "url": "https://open.spotify.com/track/4AGlWzSEKMDsMgGUhQdcQx"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
+        "name": "Sparrows (Acoustic)",
+        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
+      },
+      "artists": [
+        {
+          "name": "Jason Gray",
+          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Sparrows - Acoustic",
+      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
+    },
+    {
+      "added_at": "2026-07-29 15:30:21",
+      "album": {
         "name": "You Put My Mind at Ease",
         "url": "https://open.spotify.com/album/0ZcUYUHN4M9zbvSgNIdh4i"
       },
@@ -2119,22 +2135,6 @@
       "duration_ms": 216155,
       "name": "You Put My Mind at Ease",
       "url": "https://open.spotify.com/track/5EjFqeH8AtSN2HGMXNXcTR"
-    },
-    {
-      "added_at": "2026-07-29 15:30:21",
-      "album": {
-        "name": "Sparrows (Acoustic)",
-        "url": "https://open.spotify.com/album/0E94vgyTNf1RpZ2veOwoSo"
-      },
-      "artists": [
-        {
-          "name": "Jason Gray",
-          "url": "https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Sparrows - Acoustic",
-      "url": "https://open.spotify.com/track/5GthXBUgkvddK66Z609MoZ"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Who Is Greatest?",
-        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
+        "name": "Every Day I Love You",
+        "url": "https://open.spotify.com/album/2gQLhZ5ML6OQO8ZZmABpU9"
       },
       "artists": [
         {
-          "name": "Jon Guerra",
-          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
+          "name": "Tenielle Neda",
+          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
         }
       ],
-      "duration_ms": 214046,
-      "name": "Who Is Greatest?",
-      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
+      "duration_ms": 169853,
+      "name": "Every Day I Love You",
+      "url": "https://open.spotify.com/track/51LgJSmjDz5BTmoVg7t2yf"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2243,18 +2243,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Every Day I Love You",
-        "url": "https://open.spotify.com/album/2gQLhZ5ML6OQO8ZZmABpU9"
+        "name": "Who Is Greatest?",
+        "url": "https://open.spotify.com/album/4a15s3a0vNceZTyJ59RKCn"
       },
       "artists": [
         {
-          "name": "Tenielle Neda",
-          "url": "https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD"
+          "name": "Jon Guerra",
+          "url": "https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o"
         }
       ],
-      "duration_ms": 169853,
-      "name": "Every Day I Love You",
-      "url": "https://open.spotify.com/track/51LgJSmjDz5BTmoVg7t2yf"
+      "duration_ms": 214046,
+      "name": "Who Is Greatest?",
+      "url": "https://open.spotify.com/track/37oevNYcdgB2GRjiXljhIy"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2487,18 +2487,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Cutting Through",
-        "url": "https://open.spotify.com/album/05k0qlSJHk8Puqyppo78ru"
+        "name": "Where You Found Me",
+        "url": "https://open.spotify.com/album/5Ek7IXlnZTsHTHmC8kTxt7"
       },
       "artists": [
         {
-          "name": "Young Oceans",
-          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
+          "name": "Seth Carpenter",
+          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
         }
       ],
-      "duration_ms": 266815,
-      "name": "Cutting Through",
-      "url": "https://open.spotify.com/track/3VLyEMI7b12KZFbaMa36YK"
+      "duration_ms": 320580,
+      "name": "Seen What I Have Seen",
+      "url": "https://open.spotify.com/track/0ICgAlYUYUr0snPhO4LwfK"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2535,18 +2535,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Where You Found Me",
-        "url": "https://open.spotify.com/album/5Ek7IXlnZTsHTHmC8kTxt7"
+        "name": "Cutting Through",
+        "url": "https://open.spotify.com/album/05k0qlSJHk8Puqyppo78ru"
       },
       "artists": [
         {
-          "name": "Seth Carpenter",
-          "url": "https://open.spotify.com/artist/2jveyjr93fq4ZFgIjG4vFt"
+          "name": "Young Oceans",
+          "url": "https://open.spotify.com/artist/41crVXG3GeS8TmyWEaPZVr"
         }
       ],
-      "duration_ms": 320580,
-      "name": "Seen What I Have Seen",
-      "url": "https://open.spotify.com/track/0ICgAlYUYUr0snPhO4LwfK"
+      "duration_ms": 266815,
+      "name": "Cutting Through",
+      "url": "https://open.spotify.com/track/3VLyEMI7b12KZFbaMa36YK"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2567,22 +2567,18 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Tomorrow Mind",
-        "url": "https://open.spotify.com/album/2kY3zCakEuOOS48ac4boMJ"
+        "name": "Between Garden and Glory",
+        "url": "https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B"
       },
       "artists": [
         {
-          "name": "Yaz Williams",
-          "url": "https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy"
-        },
-        {
-          "name": "Callan Brown",
-          "url": "https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu"
+          "name": "The Dodds",
+          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
         }
       ],
-      "duration_ms": 219402,
-      "name": "Tomorrow Mind",
-      "url": "https://open.spotify.com/track/4uRn1bBTKoYX3VukJW7F0U"
+      "duration_ms": 299236,
+      "name": "Between Garden and Glory",
+      "url": "https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g"
     },
     {
       "added_at": "2026-07-29 15:30:21",
@@ -2603,18 +2599,22 @@
     {
       "added_at": "2026-07-29 15:30:21",
       "album": {
-        "name": "Between Garden and Glory",
-        "url": "https://open.spotify.com/album/1DQrVH9FevzD9EkqDDYM6B"
+        "name": "Tomorrow Mind",
+        "url": "https://open.spotify.com/album/2kY3zCakEuOOS48ac4boMJ"
       },
       "artists": [
         {
-          "name": "The Dodds",
-          "url": "https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl"
+          "name": "Yaz Williams",
+          "url": "https://open.spotify.com/artist/1Vr3BdiaDRuVLTMdrCjuTy"
+        },
+        {
+          "name": "Callan Brown",
+          "url": "https://open.spotify.com/artist/1KQTt65tDsEgrbihGs4ruu"
         }
       ],
-      "duration_ms": 299236,
-      "name": "Between Garden and Glory",
-      "url": "https://open.spotify.com/track/5SS74lv4c1dHRDv7J1Mj8g"
+      "duration_ms": 219402,
+      "name": "Tomorrow Mind",
+      "url": "https://open.spotify.com/track/4uRn1bBTKoYX3VukJW7F0U"
     },
     {
       "added_at": "2026-07-29 15:30:21",

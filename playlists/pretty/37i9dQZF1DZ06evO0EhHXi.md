@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 
 > This is Ramones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,250 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,278 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0EhHXi.md) - [plain]
 | 49 | [The Crusher](https://open.spotify.com/track/1yWz1AZo5g18ZQXYuAVOqr) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Adios Amigos](https://open.spotify.com/album/5IhnXiHgiPfsuxbrrWsPUB) | 2:27 |
 | 50 | [I Don't Wanna Go Down to the Basement \- 2016 Remaster](https://open.spotify.com/track/1us4ws1sSw7HkGzytAtNk3) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(2017 Remaster\)](https://open.spotify.com/album/3ToX9inehiXTv17hpaOyie) | 2:40 |
 
-Snapshot ID: `aq8iAAAAAAA3DWcn0NXKFrkAJijCAbRL`
+Snapshot ID: `arBzgAAAAACRVItB3O7P89LijFomYYmW`

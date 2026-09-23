@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the American songbook classics. Cover: Miles Davis",
-  "num_followers": 181098,
+  "num_followers": 181164,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 321026,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Waltz For Debby (Original Jazz Classics Remaster 2010)",
         "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 297320,
       "name": "My Foolish Heart",
       "url": "https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 321026,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 266706,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "Stan Getz & Bill Evans",
         "url": "https://open.spotify.com/album/5hDoJAJdkIETlQajUu71hQ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 405853,
       "name": "Night And Day",
       "url": "https://open.spotify.com/track/6pxtYyPZ0bRGknKlughfXL"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        }
-      ],
-      "duration_ms": 266706,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Sony Jazz Collection",
-        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 323226,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Warm Woods",
         "url": "https://open.spotify.com/album/4lj7s0K81qfLbXdLaDt2Ba"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 484106,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/3YiuJ3OstUEa93UBqb1vcn"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Sony Jazz Collection",
+        "url": "https://open.spotify.com/album/006BXWFpgckHlmMvpeQKqI"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 323226,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4YhDhdIh1YYVmNUvnYjoRy"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "The Complete Savoy Master Takes",
-        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
-      },
-      "artists": [
-        {
-          "name": "Erroll Garner",
-          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "I Only Have Eyes For You",
-      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/4TFAfEx0k896Far2wypeh9"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 496893,
       "name": "Blame It On My Youth",
       "url": "https://open.spotify.com/track/47ncHNZLs7ZHvDkCi9tvun"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "The Complete Savoy Master Takes",
+        "url": "https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0"
+      },
+      "artists": [
+        {
+          "name": "Erroll Garner",
+          "url": "https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "I Only Have Eyes For You",
+      "url": "https://open.spotify.com/track/6QUFqmU2xu1gXkmpbqHPsi"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "Piano In The Background (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
-      },
-      "artists": [
-        {
-          "name": "Duke Ellington",
-          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
-        }
-      ],
-      "duration_ms": 322333,
-      "name": "Lullaby of Birdland",
-      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Memorial Album (Remastered / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5ZhKPGumfjqX8mz0lql2QZ"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 224053,
       "name": "Easy Living",
       "url": "https://open.spotify.com/track/5yiImOvhyoK3QXUHVWcUUl"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "Piano In The Background (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5HRYqb7mp810fhgWiUL0uo"
+      },
+      "artists": [
+        {
+          "name": "Duke Ellington",
+          "url": "https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A"
+        }
+      ],
+      "duration_ms": 322333,
+      "name": "Lullaby of Birdland",
+      "url": "https://open.spotify.com/track/1SOdC5J2VbpVuvxOxmsVdX"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
+        "name": "Konitz Meets Mulligan",
+        "url": "https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Gerry Mulligan Quartet",
+          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
+        }
+      ],
+      "duration_ms": 178640,
+      "name": "Almost Like Being In Love",
+      "url": "https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -1463,26 +1483,6 @@
       "duration_ms": 237333,
       "name": "You Took Advantage Of Me",
       "url": "https://open.spotify.com/track/1QpoiqlsaMLOfxfcnjIpuy"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
-        "name": "Konitz Meets Mulligan",
-        "url": "https://open.spotify.com/album/7yXH6IIoz1egpOdG62fiMh"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Gerry Mulligan Quartet",
-          "url": "https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO"
-        }
-      ],
-      "duration_ms": 178640,
-      "name": "Almost Like Being In Love",
-      "url": "https://open.spotify.com/track/4wUYuo0KGplgiav1AzY1RV"
     },
     {
       "added_at": "2026-05-28 09:37:04",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-05-28 09:37:04",
       "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 266360,
-      "name": "In A Mellow Tone",
-      "url": "https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367"
-    },
-    {
-      "added_at": "2026-05-28 09:37:04",
-      "album": {
         "name": "Soulville",
         "url": "https://open.spotify.com/album/6JyAtY4rZhDFfOR3aRBVBc"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 508933,
       "name": "Lover Come Back To Me",
       "url": "https://open.spotify.com/track/4loyHz5lJBVKcZIMJ4jmzZ"
+    },
+    {
+      "added_at": "2026-05-28 09:37:04",
+      "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 266360,
+      "name": "In A Mellow Tone",
+      "url": "https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367"
     },
     {
       "added_at": "2026-05-28 09:37:04",

@@ -1,12 +1,12 @@
 {
   "description": "This is Miles Davis. The essential tracks, all in one playlist.",
-  "num_followers": 249970,
+  "num_followers": 249983,
   "original_name": "This Is Miles Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADHVuK1GnqC1tZajuXaLxKb",
+  "snapshot_id": "arBzgAAAAACwTaLr67xyEwRAf0zi4Twr",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porgy And Bess",
-        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/25H0Wd1ugPRXGM2LlpjVXM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birth Of The Cool",
         "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 193546,
       "name": "Jeru",
       "url": "https://open.spotify.com/track/7o3lr6ptQ4qAP4uUl81zG1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porgy And Bess",
+        "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/25H0Wd1ugPRXGM2LlpjVXM"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Night of Miles Davis",
-        "url": "https://open.spotify.com/album/16cOIJcGCSl6UAqh0K8Ygi"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 225146,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/1NPbR9xEe9mtaW4wRkryPQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birth Of The Cool",
         "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 200296,
       "name": "Moon Dreams",
       "url": "https://open.spotify.com/track/3GRRmV65lSUxQ82GHyVAZO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Night of Miles Davis",
+        "url": "https://open.spotify.com/album/16cOIJcGCSl6UAqh0K8Ygi"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 225146,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/1NPbR9xEe9mtaW4wRkryPQ"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles Ahead (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Miles Ahead",
-      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birth Of The Cool",
         "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
@@ -563,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Miles Ahead (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6WOddaa5Vqp8gQZic8ZUw9"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Miles Ahead",
+      "url": "https://open.spotify.com/track/43QzmxhO9uwi60JhYmr9ox"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -575,38 +575,6 @@
       "duration_ms": 230690,
       "name": "Chez le photographe du motel - Bande originale du film \"Ascenseur pour l'\u00e9chafaud\"",
       "url": "https://open.spotify.com/track/7rR1QRYxx4JBaMtAyLrhrq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
-        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "Sonny Rollins",
-          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
-        },
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        },
-        {
-          "name": "Kenny Clarke",
-          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
-        },
-        {
-          "name": "Percy Heath",
-          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
-        }
-      ],
-      "duration_ms": 293640,
-      "name": "Doxy - RVG Remastered 2008",
-      "url": "https://open.spotify.com/track/3vZIYc2V9Ql80jWI2ZApEC"
     },
     {
       "added_at": null,
@@ -659,6 +627,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bags' Groove (Rudy Van Gelder 2008 Remaster)",
+        "url": "https://open.spotify.com/album/3rs2Wq1755vGmXxIioU7Xo"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "Sonny Rollins",
+          "url": "https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR"
+        },
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        },
+        {
+          "name": "Kenny Clarke",
+          "url": "https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa"
+        },
+        {
+          "name": "Percy Heath",
+          "url": "https://open.spotify.com/artist/0vKbTTNdtagd8xiERj6Szb"
+        }
+      ],
+      "duration_ms": 293640,
+      "name": "Doxy - RVG Remastered 2008",
+      "url": "https://open.spotify.com/track/3vZIYc2V9Ql80jWI2ZApEC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ascenseur pour l'\u00e9chafaud",
         "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
       },
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miles '54: The Prestige Recordings (Remastered 2024)",
-        "url": "https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg"
-      },
-      "artists": [
-        {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        }
-      ],
-      "duration_ms": 372332,
-      "name": "Blue Haze - Remastered 2024",
-      "url": "https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Birth Of The Cool",
         "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 154340,
       "name": "Move",
       "url": "https://open.spotify.com/track/7nCdeDrv9Tu4nsT3K638em"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miles '54: The Prestige Recordings (Remastered 2024)",
+        "url": "https://open.spotify.com/album/3n0Rai2wkPIKr2CsfRkaNg"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        }
+      ],
+      "duration_ms": 372332,
+      "name": "Blue Haze - Remastered 2024",
+      "url": "https://open.spotify.com/track/2u1f3xfVNZ1q8RXnalGsKO"
     },
     {
       "added_at": null,

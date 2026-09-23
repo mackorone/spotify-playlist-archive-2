@@ -54,7 +54,7 @@
 | [Moving Forward](https://open.spotify.com/track/616mFykmRuytlxj9mpCX7V) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:54 | 2026-07-19 | 2026-08-08 |
 | [Multiverse](https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Triptych Continuum](https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0) | 3:26 | 2022-11-17 |  |
 | [Omission](https://open.spotify.com/track/272gzjFWqRDs9kZLzKZa21) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Quicksand](https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S) | 2:26 | 2026-08-26 | 2026-08-27 |
-| [Omission](https://open.spotify.com/track/7ckA1e9ERiVGLj9pKYivO0) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:33 | 2022-11-17 |  |
+| [Omission](https://open.spotify.com/track/7ckA1e9ERiVGLj9pKYivO0) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:33 | 2022-11-17 | 2026-09-23 |
 | [Phase 90](https://open.spotify.com/track/0o5YYTNfafNubrZ4JyBe3X) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:34 | 2022-12-28 |  |
 | [Regenerate](https://open.spotify.com/track/0ZBy3gSWbLQOi71t8bshya) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Get To It](https://open.spotify.com/album/501oPIRjZkYmnCqGrAp9aj) | 2:55 | 2026-04-25 | 2026-07-20 |
 | [Regenerate](https://open.spotify.com/track/4t71rEXChK7qThGHZvHgqv) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Bring On The Psychics](https://open.spotify.com/album/12S97Ot3KogCZ3cZZoiCa0) | 2:55 | 2026-07-20 |  |
@@ -70,7 +70,7 @@
 | [The Philosopher](https://open.spotify.com/track/4784qRJpsaPr7oZPPTOha6) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:28 | 2023-08-04 | 2023-08-08 |
 | [Thorn In My Side](https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:36 | 2022-11-17 |  |
 | [Under The Screw](https://open.spotify.com/track/0PrZsr6FIiBu3p8uJrbFjg) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 2:56 | 2022-11-17 |  |
-| [Unfulfilled](https://open.spotify.com/track/7lfcap6innWNBNfdDS3WYb) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:23 | 2025-01-02 | 2026-08-27 |
+| [Unfulfilled](https://open.spotify.com/track/7lfcap6innWNBNfdDS3WYb) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:23 | 2025-01-02 |  |
 | [Warm And Low](https://open.spotify.com/track/57yUjPDCY10YUcXLhUFY4F) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:48 | 2022-11-17 |  |
 
 \*This playlist was first scraped on 2022-11-18. Prior content cannot be recovered.

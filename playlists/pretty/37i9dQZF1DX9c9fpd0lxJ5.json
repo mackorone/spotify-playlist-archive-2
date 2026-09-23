@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 431682,
+  "num_followers": 431645,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "FLOTANDO",
-        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "FLOTANDO",
-      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "D\u00edas Negros",
         "url": "https://open.spotify.com/album/5aAukLeOUD7CH1qE36t7mt"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 182320,
       "name": "D\u00edas Negros",
       "url": "https://open.spotify.com/track/7GggClJIZhrWpNYfFt5RAQ"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "FLOTANDO",
+        "url": "https://open.spotify.com/album/2P2zEMA1YeWmLGNrxGvHBY"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "FLOTANDO",
+      "url": "https://open.spotify.com/track/40OkDypNOibhDLHZ94bKQc"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "Cartagena",
-        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 212052,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "maracuy\u00e1",
         "url": "https://open.spotify.com/album/7Gpi18GWmvz5jalQ0GsZ07"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 138500,
       "name": "maracuy\u00e1",
       "url": "https://open.spotify.com/track/47D4eR0SaFkuo6vXEqFI0h"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "Cartagena",
+        "url": "https://open.spotify.com/album/124bBBgDpOBMRYk95rpXhx"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 212052,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -855,6 +855,26 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
+        "name": "Fuma",
+        "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
+      },
+      "artists": [
+        {
+          "name": "Technicolor Fabrics",
+          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Fuma",
+      "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
         "name": "Santo Domingo",
         "url": "https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI"
       },
@@ -887,26 +907,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "Fuma",
-        "url": "https://open.spotify.com/album/4hZ5N4HR23RStTtFKzvktM"
-      },
-      "artists": [
-        {
-          "name": "Technicolor Fabrics",
-          "url": "https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "Fuma",
-      "url": "https://open.spotify.com/track/256iSpPtbeB473PZ9gtlsL"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Pelo Negro",
         "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
       },
@@ -919,26 +919,6 @@
       "duration_ms": 192340,
       "name": "Pelo Negro",
       "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
-        "name": "Libre",
-        "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        },
-        {
-          "name": "Nella",
-          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
-        }
-      ],
-      "duration_ms": 279840,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -959,6 +939,26 @@
       "duration_ms": 164444,
       "name": "El Ride",
       "url": "https://open.spotify.com/track/6QZCS1tO3dL3gm9ZHWL4d0"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        },
+        {
+          "name": "Nella",
+          "url": "https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh"
+        }
+      ],
+      "duration_ms": 279840,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "inigualable",
-        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
-      },
-      "artists": [
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/6jJIITlQ2jlZkQrISnHddP"
-        },
-        {
-          "name": "ALOISIO",
-          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
-        }
-      ],
-      "duration_ms": 178645,
-      "name": "inigualable",
-      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Talk Too Much",
         "url": "https://open.spotify.com/album/2nCLBUPR0M5n5jX0vkWN66"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 222115,
       "name": "Otros Ritmos",
       "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "inigualable",
+        "url": "https://open.spotify.com/album/3o1aaswVqoB6hrjtzqeptq"
+      },
+      "artists": [
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/6jJIITlQ2jlZkQrISnHddP"
+        },
+        {
+          "name": "ALOISIO",
+          "url": "https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U"
+        }
+      ],
+      "duration_ms": 178645,
+      "name": "inigualable",
+      "url": "https://open.spotify.com/track/0dgiJjVATkBD3IYJr6lTI2"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "Trebol",
-        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
-      },
-      "artists": [
-        {
-          "name": "Ben Aler",
-          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
-        }
-      ],
-      "duration_ms": 226393,
-      "name": "Trebol",
-      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Un Rayo de Luz",
         "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 222991,
       "name": "Un Rayo de Luz",
       "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "Trebol",
+        "url": "https://open.spotify.com/album/6dt3VZujKnHrJGRZyGZzzD"
+      },
+      "artists": [
+        {
+          "name": "Ben Aler",
+          "url": "https://open.spotify.com/artist/0jMMS87c4v40JITdDE0c1R"
+        }
+      ],
+      "duration_ms": 226393,
+      "name": "Trebol",
+      "url": "https://open.spotify.com/track/35CU2ZcMhXIrfhVR93zs3o"
     },
     {
       "added_at": "2026-08-21 04:01:56",

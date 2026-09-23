@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 15126,
+  "num_followers": 15132,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAB3DK6IRgJqhccTCilJBYa2",
+  "snapshot_id": "arBzgAAAAADQjue3XuT3Bx+wnti/H+7I",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 210442,
       "name": "Pain Killer",
       "url": "https://open.spotify.com/track/6mh4mOVMWIHyBXWW3C2qiF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "E No Easy",
-        "url": "https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "DopeNation",
-          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
-        }
-      ],
-      "duration_ms": 190719,
-      "name": "E No Easy",
-      "url": "https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x"
     },
     {
       "added_at": null,
@@ -91,6 +71,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "E No Easy",
+        "url": "https://open.spotify.com/album/2TPQ4alxvgfyHnKlZ3723j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "DopeNation",
+          "url": "https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky"
+        }
+      ],
+      "duration_ms": 190719,
+      "name": "E No Easy",
+      "url": "https://open.spotify.com/track/0AxUoDxP0qtepOj4Fh227x"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ODO PA",
         "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
       },
@@ -107,22 +107,6 @@
       "duration_ms": 156000,
       "name": "ODO PA",
       "url": "https://open.spotify.com/track/4XyamF81pJyWkC8Q1ps1Ff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Otan",
-        "url": "https://open.spotify.com/album/35glKQJdjELPoOBIYQ1T3a"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 197045,
-      "name": "Otan",
-      "url": "https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1"
     },
     {
       "added_at": null,
@@ -163,6 +147,22 @@
       "duration_ms": 185806,
       "name": "Violence (feat. Kweku Smoke)",
       "url": "https://open.spotify.com/track/7g7xysGXIN9YwwgpKhfV1Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/35glKQJdjELPoOBIYQ1T3a"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 197045,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/40QrEzU7KQxJUViO5IF9U1"
     },
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give Up and See",
-        "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
-      },
-      "artists": [
-        {
-          "name": "King Paluta",
-          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 216737,
-      "name": "Give Up and See",
-      "url": "https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Till We Die",
         "url": "https://open.spotify.com/album/5qPR8jUBZNR9QCrtpuQhiV"
       },
@@ -447,6 +427,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Give Up and See",
+        "url": "https://open.spotify.com/album/3pv7jABm0LT7rfYMcZ5BFf"
+      },
+      "artists": [
+        {
+          "name": "King Paluta",
+          "url": "https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 216737,
+      "name": "Give Up and See",
+      "url": "https://open.spotify.com/track/7oeDsbL96qpvc19iGFp59f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Put It On God",
         "url": "https://open.spotify.com/album/5Lj5IvWqfZkWjbbYIu0wCH"
       },
@@ -463,26 +463,6 @@
       "duration_ms": 214426,
       "name": "Put It On God",
       "url": "https://open.spotify.com/track/0NdcAYoqISuYatf5IDQ7FK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Rudeboy",
-          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
-        }
-      ],
-      "duration_ms": 267660,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/2ChuNrtRECfBmGlW34Bq0Q"
     },
     {
       "added_at": null,
@@ -511,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/4hPzCGUS1pXGK533LHm0gN"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Rudeboy",
+          "url": "https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT"
+        }
+      ],
+      "duration_ms": 267660,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2ChuNrtRECfBmGlW34Bq0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
         "url": "https://open.spotify.com/album/0OgcD1QZoeHTbxzFvBLFez"
       },
@@ -531,6 +531,26 @@
       "duration_ms": 242860,
       "name": "Grind Day (Remix) [feat. Sarkodie & Medikal]",
       "url": "https://open.spotify.com/track/1fzWiGhmYO15nxapbpKHbm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit"
+      },
+      "artists": [
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 179250,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/1H3xndRZIQBSHjEeNjWZXK"
     },
     {
       "added_at": null,
@@ -559,26 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/6XeLqCyD4eWpW45Y0YMgit"
-      },
-      "artists": [
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 179250,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/1H3xndRZIQBSHjEeNjWZXK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/2OASYXR3lBYmnNKIT26hdq"
       },
@@ -599,6 +599,26 @@
       "duration_ms": 201433,
       "name": "La Familia",
       "url": "https://open.spotify.com/track/6rjkvAGpEeyf67CAM9Lb09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure",
+        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        }
+      ],
+      "duration_ms": 185196,
+      "name": "Coachella",
+      "url": "https://open.spotify.com/track/28VXhY9rrvBAc8qcxyb8oA"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
       "duration_ms": 156791,
       "name": "NEXT DOOR (with Sarkodie)",
       "url": "https://open.spotify.com/track/7ngTKqkPVMV5sVrIWcBnTC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Pressure",
-        "url": "https://open.spotify.com/album/6DZCzwNsgp4cFKdPnqnL0j"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        }
-      ],
-      "duration_ms": 185196,
-      "name": "Coachella",
-      "url": "https://open.spotify.com/track/28VXhY9rrvBAc8qcxyb8oA"
     },
     {
       "added_at": null,
@@ -951,6 +951,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jailer",
         "url": "https://open.spotify.com/album/3ikyOGpU9GzXGDCSc65Rin"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 230588,
       "name": "Jailer",
       "url": "https://open.spotify.com/track/4YIGk7VneqverAJPWTMVJR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/7zNJevs3UMsQZ4pPMov7VB"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/3AeYPcgBAAno6njUHKRixA"
     },
     {
       "added_at": null,

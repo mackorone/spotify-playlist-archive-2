@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 
 > Video musik lagu\-lagu Indonesia hanya untuk pengguna premium\. Cover: Yura Yunita
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,250 likes - 102 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,262 likes - 102 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GFJ6vkCaiW.md) - [plain]
 | 12 | [Teh Hijau](https://open.spotify.com/track/4R9G7azXaZe93KTX65P9fU) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Teh Hijau](https://open.spotify.com/album/7A38wbAswxuZGB5aFvK9Qn) | 3:32 |
 | 13 | [Wals Akhir Zaman](https://open.spotify.com/track/1LwnJ36kvYmZVQ0Ol6ULn4) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Wals Akhir Zaman](https://open.spotify.com/album/1irM7toJ5iqS1vY82rGhTK) | 3:12 |
 | 14 | [Kacamata](https://open.spotify.com/track/3f3eUkY1fLK7hqqtByAhUm) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Kacamata](https://open.spotify.com/album/7A28H5rQ3TaREoMvcqJZqP) | 3:16 |
-| 15 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu \(Beda\)](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 |
+| 15 | [Jangan Paksa Rindu](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 |
 | 16 | [Biar Kita Jadi Kenangan](https://open.spotify.com/track/0EJytap4wCTQIwzqPTR5Gq) | [Paul Aro](https://open.spotify.com/artist/1ZRLddMCJmTZ6pUb9h8czB) | [Biar Kita Jadi Kenangan](https://open.spotify.com/album/4PKTiGlZctPWOUN14IoxNy) | 2:39 |
 | 17 | [Melompat Lebih Tinggi](https://open.spotify.com/track/1NuvCcuRUGN54bkSLk51LC) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Melompat Lebih Tinggi](https://open.spotify.com/album/0ffA9bCAagLRj3pp2kYocZ) | 3:40 |
 | 18 | [MMG \(My Mine Gueh\)](https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [MMG \(My Mine Gueh\)](https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM) | 3:13 |

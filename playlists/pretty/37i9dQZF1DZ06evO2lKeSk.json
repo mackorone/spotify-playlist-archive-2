@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 375559,
+  "num_followers": 375588,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADdZeAeDieK3ItMQidTyZ2f",
+  "snapshot_id": "arBzgAAAAAAaxhtIzgDPPZZWR6gY9/A9",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivencias",
-        "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "No Te Hago Falta",
-      "url": "https://open.spotify.com/track/6wwlTwsmum6s8nHDR2q7QQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Esencial De Ana Gabriel",
         "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 257453,
       "name": "Cosas del Amor (with Vikki Carr)",
       "url": "https://open.spotify.com/track/4BBJezanyqAj6rRC1fKIg4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivencias",
+        "url": "https://open.spotify.com/album/6DVtXmghv4ZqMbnxWFJs7J"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "No Te Hago Falta",
+      "url": "https://open.spotify.com/track/6wwlTwsmum6s8nHDR2q7QQ"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
       "duration_ms": 260173,
       "name": "C\u00f3mo Olvidar",
       "url": "https://open.spotify.com/track/3pCUxgW9zVi8vjZdZP6KOQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayer Y Hoy",
-        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 208066,
-      "name": "Qu\u00e9 Manera de Perder",
-      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
     },
     {
       "added_at": null,
@@ -359,6 +343,22 @@
       "duration_ms": 237466,
       "name": "El Ultimo Adi\u00f3s - Varios Artistas Version",
       "url": "https://open.spotify.com/track/0tzixmHNQfE6S6SirSToxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 208066,
+      "name": "Qu\u00e9 Manera de Perder",
+      "url": "https://open.spotify.com/track/1Tntl6GISO58wXuQ7bxXcg"
     },
     {
       "added_at": null,

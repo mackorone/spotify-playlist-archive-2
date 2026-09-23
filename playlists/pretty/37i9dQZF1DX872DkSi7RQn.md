@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,250 likes - 95 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,258 likes - 95 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 31 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 |
 | 32 | [Benediction \- Radio Edit](https://open.spotify.com/track/0GPFq2mWMC6jKfTGDkAL9F) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3) | [Benediction \(Radio Edit\)](https://open.spotify.com/album/19ttnqNmMDuCHBZFsi6IxP) | 3:17 |
 | 33 | [Final Credits](https://open.spotify.com/track/6b5IJEVYFEZ1YkgZ0oXaJK) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/6sGZ51P1PpHUlApJzb4dWa) | 7:19 |
-| 34 | [Prayer \- Edit](https://open.spotify.com/track/4Gd5Cxw7V4JCM9Uj6VpiwL) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Prayer \(Edit\)](https://open.spotify.com/album/4fW8eARlhtdJkC2b3IeolF) | 3:46 |
-| 35 | [Mwaki](https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/6fdKAh0QOzR2EENZSkEEXV) | 3:28 |
+| 34 | [Mwaki](https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/6fdKAh0QOzR2EENZSkEEXV) | 3:28 |
+| 35 | [Prayer \- Edit](https://open.spotify.com/track/4Gd5Cxw7V4JCM9Uj6VpiwL) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Prayer \(Edit\)](https://open.spotify.com/album/4fW8eARlhtdJkC2b3IeolF) | 3:46 |
 | 36 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 37 | [Haven't You Heard \- Fitzy's Half Charged Mix](https://open.spotify.com/track/1b0e8KK2tIgMkT2tub9M93) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Haven't You Heard](https://open.spotify.com/album/5vJAPCAVezRH826izLGTeD) | 2:39 |
 | 38 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 42 | [Raw](https://open.spotify.com/track/2U9RtZORzcu54vkWI19PIL) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Raw](https://open.spotify.com/album/2CJ61dRA06lmlIw8hVvmak) | 3:12 |
 | 43 | [Careless](https://open.spotify.com/track/7iHIbOhn3N0AZF5Tky6DhM) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Careless](https://open.spotify.com/album/3UvoNUY5z5XnLmYavKyDLN) | 6:31 |
 | 44 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
-| 45 | [Disco Tetris \- Edit](https://open.spotify.com/track/2G5jdY4fPzbpCKh9f1QRRk) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/7cSa3dyGTOfU5mgd5fmGM9) | 3:18 |
-| 46 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
+| 45 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
+| 46 | [Disco Tetris \- Edit](https://open.spotify.com/track/2G5jdY4fPzbpCKh9f1QRRk) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/7cSa3dyGTOfU5mgd5fmGM9) | 3:18 |
 | 47 | [Knights of the Jaguar](https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK) | [Rolando](https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx) | [Paradise Garage: Inspirations](https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC) | 6:37 |
 | 48 | [What They Say](https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [What They Say EP](https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI) | 6:40 |
 | 49 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 78 | [Trans Love Vibration \(Eris Goes to Church\)](https://open.spotify.com/track/2pu66iltKEpEmVx1aK8wRh) | [Eris Drew](https://open.spotify.com/artist/4VKbZ8lm0Bm1AbtzAbBdpO) | [Devotion](https://open.spotify.com/album/2e7LQqvJdInqGHnjEIsAaJ) | 5:04 |
 | 79 | [Hackney Parrot](https://open.spotify.com/track/170ukLhJmsiTNqLHbNtcsG) | [Tessela](https://open.spotify.com/artist/1ZgWT8v2NTxXJapNzqJMnd) | [Hackney Parrot / Helter Skelter](https://open.spotify.com/album/6Dc87OjfKGyKAI6DVTLuzN) | 5:44 |
 | 80 | [Regret](https://open.spotify.com/track/0hhu27TVhfBKjIvKOL83IQ) | [Shinichi Atobe](https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv) | [From the Heart, It's a Start, A Work of Art](https://open.spotify.com/album/6CRb9D4dG00bz36EAucgHy) | 9:47 |
-| 81 | [Cutie](https://open.spotify.com/track/4JdUdTVkEDNFZtzyW8hBZH) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 6:24 |
-| 82 | [el cielo no es de nadie](https://open.spotify.com/track/6ZJdW1sZg4zATn9EKih013) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 4:21 |
-| 83 | [Theme from Q](https://open.spotify.com/track/7Bzyr2VDVOAIU4o0KpSWnp) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#4](https://open.spotify.com/album/1dMTbnutjku3NdjGjsN3zK) | 7:20 |
+| 81 | [Theme from Q](https://open.spotify.com/track/7Bzyr2VDVOAIU4o0KpSWnp) | [Objekt](https://open.spotify.com/artist/44z1nVVXZE8d4njcQmQLWc) | [Objekt \#4](https://open.spotify.com/album/1dMTbnutjku3NdjGjsN3zK) | 7:20 |
+| 82 | [Cutie](https://open.spotify.com/track/4JdUdTVkEDNFZtzyW8hBZH) | [Shanti Celeste](https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM) | [Cutie](https://open.spotify.com/album/0xhMSimANUFkwXpS5n1HSl) | 6:24 |
+| 83 | [el cielo no es de nadie](https://open.spotify.com/track/6ZJdW1sZg4zATn9EKih013) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [acts of rebellion](https://open.spotify.com/album/6PhhsnbohAEOXBdqsURBeh) | 4:21 |
 | 84 | [Roadkill](https://open.spotify.com/track/70bNn1Q83HtKuySvCTOh7M) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [HYBRID: A Decade Of Dubfire](https://open.spotify.com/album/6XMKjGOdmOQBAs1ogp4B0Y) | 8:16 |
 | 85 | [Pura](https://open.spotify.com/track/4h0ahxYxMcgg6rmwVTr9AA) | [Ceri Wax](https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew) | [Pura](https://open.spotify.com/album/2WsUR9vWIndOnjKXvYcu3c) | 2:51 |
 | 86 | [Duofade](https://open.spotify.com/track/18aVHbdnr0Uu0vDsTJfYwR) | [Leon Vynehall](https://open.spotify.com/artist/2o7L9DNcmzocYll1o0GGTU) | [Duofade](https://open.spotify.com/album/5JjxlBFREiVPgFpW1wP5mK) | 3:56 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,053 likes - 120 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,058 likes - 120 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 3 | [Molotof](https://open.spotify.com/track/4kmWkoE7csW6LW6uZdrrRE) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [AlOo](https://open.spotify.com/artist/6eYwJ3snGdsn7vO5ZLdETU) | [Molotof](https://open.spotify.com/album/0tSrGMuOoOtSqmTZf4jvwQ) | 3:02 |
 | 4 | [Warm Pants](https://open.spotify.com/track/11ZY9wPKm72osWrXBPYoSc) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Warm Pants](https://open.spotify.com/album/7Aa1y7FVfTeMlcToaq2HoN) | 5:14 |
 | 5 | [المكتوب](https://open.spotify.com/track/5GFxMEv0vSTt0OsZ2dt9br) | [Dafencii](https://open.spotify.com/artist/6tiw0jaXjPqUqupLzCCfiv) | [المكتوب](https://open.spotify.com/album/10EkLcK0m7rpoThtN23D3d) | 2:56 |
-| 6 | [Bringi](https://open.spotify.com/track/6j6RB7ohZG8vPwornVd5KO) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Bringi](https://open.spotify.com/album/1wDrVmraB9J80VV0X7JBWq) | 2:19 |
-| 7 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 |
+| 6 | [III IV V](https://open.spotify.com/track/4M9KDFkhwSMVrIbHWtMu2n) | [Rotation](https://open.spotify.com/artist/3juZpBl6TvM4KdFKFRj4So) | [III IV V](https://open.spotify.com/album/2m3crqNTdjgWR46h9FTdDY) | 3:12 |
+| 7 | [Bringi](https://open.spotify.com/track/6j6RB7ohZG8vPwornVd5KO) | [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [Bringi](https://open.spotify.com/album/1wDrVmraB9J80VV0X7JBWq) | 2:19 |
 | 8 | [Mary Jane](https://open.spotify.com/track/3LhgpEnPjrpFPKOUXgGHfS) | [Hleem Taj Alser](https://open.spotify.com/artist/1taUz5RunniiDh3pyqXBKN), [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Vivian](https://open.spotify.com/album/3qbio1BIAtbBZI46g1Bx6t) | 3:00 |
 | 9 | [mOth](https://open.spotify.com/track/3UV2laHcnxTSLMZiSXoDDX) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [mOth](https://open.spotify.com/album/3vq470zfgc6AyX2jecQyl8) | 2:48 |
 | 10 | [Cabana](https://open.spotify.com/track/5KpdhAgDR2JCY8xu11RLTg) | [77](https://open.spotify.com/artist/2yOrzp26sCzukpaG23nI9U), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN), [Swani](https://open.spotify.com/artist/0MMq3ksIvp1PtO6nYZOToA) | [Cabana](https://open.spotify.com/album/5RbpvPnE2WOPoxX065eXYl) | 2:57 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 40 | [Igd Allooli \(The Pearl Necklace\)](https://open.spotify.com/track/1KUmHS4kiZ4KZvfjyTg0dJ) | [Saied Khalifa](https://open.spotify.com/artist/4mlKHZfOm6Zl3t8tpprMXy) | [Two Niles to Sing a Melody: The Violins & Synths of Sudan](https://open.spotify.com/album/6kHSUBrq8O2qT9g64Ow3mZ) | 4:27 |
 | 41 | [Gatluak](https://open.spotify.com/track/4hO1yAA2fkmAAEhjkUhZOj) | [Nyaruach](https://open.spotify.com/artist/6kpYdtbD0QinjBcwkxLPm3), [Friday](https://open.spotify.com/artist/514K0z1r3agJbyK5VfqUGx) | [Naath](https://open.spotify.com/album/0wPRCemh0eIjlowDg6yE6k) | 3:26 |
 | 42 | [بسحروك](https://open.spotify.com/track/0nOAJ6NOwB8JVPMKBae4GU) | [طه سليمان](https://open.spotify.com/artist/0RsFnQRoeQXmyhWzNqWvYJ) | [بسحروك](https://open.spotify.com/album/374yLPef14svHDy8PJ8WRQ) | 3:21 |
-| 43 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 |
-| 44 | [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 |
-| 45 | [Salimmik](https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7) | [Maha AJ](https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX), [Nijeery](https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC) | [Salimmik](https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d) | 3:22 |
+| 43 | [HYSTERIA](https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [HYSTERIA](https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48) | 2:28 |
+| 44 | [Salimmik](https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7) | [Maha AJ](https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX), [Nijeery](https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC) | [Salimmik](https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d) | 3:22 |
+| 45 | [Al Sourah \(The Photo\)](https://open.spotify.com/track/4SCrXi9ykaO1ARxy3LpoDX) | [Mohammed Wardi](https://open.spotify.com/artist/313bd0jXbLkPKmko793BuU) | [Al Sourah \(The Photo\)](https://open.spotify.com/album/6ZIkpdcwNKpPwT05nVe1aj) | 9:03 |
 | 46 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
 | 47 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 |
 | 48 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |

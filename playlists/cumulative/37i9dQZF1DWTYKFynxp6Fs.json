@@ -925,6 +925,36 @@
     },
     {
       "album": {
+        "name": "Flesh & Blood (From \"I'M Game - Malayalam\")",
+        "url": "https://open.spotify.com/album/0JyAkrJgAo7k42A1GRfpSP"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        },
+        {
+          "name": "Adhri Joe",
+          "url": "https://open.spotify.com/artist/2hvEuxhkaNKn2mAp39fZv3"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176826,
+      "name": "Flesh & Blood - From \"I'M Game - Malayalam\"",
+      "url": "https://open.spotify.com/track/32iCvhPtSAkg3UQQFNrF57"
+    },
+    {
+      "album": {
         "name": "Galatta (From \"Aavesham\")",
         "url": "https://open.spotify.com/album/4OqRjbYHNCSKXkh7wnvez8"
       },
@@ -2320,7 +2350,7 @@
       ],
       "date_added": "2025-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 234428,
       "name": "Munthirichar",
       "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"

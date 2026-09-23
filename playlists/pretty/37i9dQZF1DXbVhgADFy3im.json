@@ -1,6 +1,6 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1353920,
+  "num_followers": 1354314,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
@@ -551,30 +551,6 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "Udi Udi",
-        "url": "https://open.spotify.com/album/6ZRXnfTz48dWXDlDrumiYE"
-      },
-      "artists": [
-        {
-          "name": "Aneesh",
-          "url": "https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2"
-        },
-        {
-          "name": "Sarkar",
-          "url": "https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh"
-        },
-        {
-          "name": "Hruday",
-          "url": "https://open.spotify.com/artist/5LAR3fyRELNNXHIfnptaXF"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Udi Udi",
-      "url": "https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat"
-    },
-    {
-      "added_at": "2026-09-09 08:39:42",
-      "album": {
         "name": "Boom Shaka",
         "url": "https://open.spotify.com/album/30WCmigi6kMczGUKjmtqxb"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 242916,
       "name": "Sitaare (From \"Ikkis\")",
       "url": "https://open.spotify.com/track/6WlARP6h4CDVOcY386wW0W"
+    },
+    {
+      "added_at": "2026-09-09 08:39:42",
+      "album": {
+        "name": "Udi Udi",
+        "url": "https://open.spotify.com/album/6ZRXnfTz48dWXDlDrumiYE"
+      },
+      "artists": [
+        {
+          "name": "Aneesh",
+          "url": "https://open.spotify.com/artist/2K1yi9M4TJ3cEEO6hFG1z2"
+        },
+        {
+          "name": "Sarkar",
+          "url": "https://open.spotify.com/artist/2R4yA8DlTWiUCpYlC0NMZh"
+        },
+        {
+          "name": "Hruday",
+          "url": "https://open.spotify.com/artist/5LAR3fyRELNNXHIfnptaXF"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Udi Udi",
+      "url": "https://open.spotify.com/track/4ROldgaRDDAI2VP8rWkjat"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -779,30 +779,6 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "Yeh Awarapan (From \"Awarapan 2\")",
-        "url": "https://open.spotify.com/album/5xahy2Tzi8r1KbjVeOM0fd"
-      },
-      "artists": [
-        {
-          "name": "Amaal Mallik",
-          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Rashmi Virag",
-          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
-        }
-      ],
-      "duration_ms": 298144,
-      "name": "Yeh Awarapan (From \"Awarapan 2\")",
-      "url": "https://open.spotify.com/track/45WZToFfKWqeN8A9GyBETB"
-    },
-    {
-      "added_at": "2026-09-09 08:39:42",
-      "album": {
         "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
         "url": "https://open.spotify.com/album/1QxshnBv2N7xiC2OmGpldW"
       },
@@ -835,6 +811,30 @@
       "duration_ms": 265449,
       "name": "O Sanam",
       "url": "https://open.spotify.com/track/7HuuShTJs1tf6rFLDElyik"
+    },
+    {
+      "added_at": "2026-09-09 08:39:42",
+      "album": {
+        "name": "Yeh Awarapan (From \"Awarapan 2\")",
+        "url": "https://open.spotify.com/album/5xahy2Tzi8r1KbjVeOM0fd"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "duration_ms": 298144,
+      "name": "Yeh Awarapan (From \"Awarapan 2\")",
+      "url": "https://open.spotify.com/track/45WZToFfKWqeN8A9GyBETB"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "LAAVAN",
-        "url": "https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Mofusion",
-          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
-        }
-      ],
-      "duration_ms": 185046,
-      "name": "LAAVAN",
-      "url": "https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf"
-    },
-    {
-      "added_at": "2026-09-09 08:39:42",
-      "album": {
         "name": "Kaise Hua (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
       },
@@ -1135,6 +1115,26 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
+        "name": "LAAVAN",
+        "url": "https://open.spotify.com/album/5uHvJi0f62wZqQIZae2Eah"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        },
+        {
+          "name": "Mofusion",
+          "url": "https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv"
+        }
+      ],
+      "duration_ms": 185046,
+      "name": "LAAVAN",
+      "url": "https://open.spotify.com/track/0RWLe6Dx5cWyPuB1sw6eWf"
+    },
+    {
+      "added_at": "2026-09-09 08:39:42",
+      "album": {
         "name": "Awarapan (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7a7eM4QH71vqwvga5NrgiD"
       },
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "Raga of Revenge (From \"DC\")",
-        "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        }
-      ],
-      "duration_ms": 131250,
-      "name": "Raga of Revenge (From \"DC\")",
-      "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
-    },
-    {
-      "added_at": "2026-09-09 08:39:42",
-      "album": {
         "name": "Dhun (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/7oUQEGYiwyjH8OFCu5Y4IG"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 276643,
       "name": "Dhun (From \"Saiyaara\")",
       "url": "https://open.spotify.com/track/1GFQthxDi4Tqe3wJ5j0G5S"
+    },
+    {
+      "added_at": "2026-09-09 08:39:42",
+      "album": {
+        "name": "Raga of Revenge (From \"DC\")",
+        "url": "https://open.spotify.com/album/0E0UiqvTJlvYqnEaLuTaL8"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 131250,
+      "name": "Raga of Revenge (From \"DC\")",
+      "url": "https://open.spotify.com/track/4cVgfaHzVDu3srYfJEP0AN"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -1215,6 +1215,26 @@
       "duration_ms": 193124,
       "name": "Kashish",
       "url": "https://open.spotify.com/track/3anHs4ijBd3Iw0E0fBPwtH"
+    },
+    {
+      "added_at": "2026-09-09 08:39:42",
+      "album": {
+        "name": "Pesamale",
+        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
+      },
+      "artists": [
+        {
+          "name": "Siri Xander",
+          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
+        },
+        {
+          "name": "Arra Aria Khayal",
+          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
+        }
+      ],
+      "duration_ms": 178124,
+      "name": "Pesamale",
+      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -1251,26 +1271,6 @@
       "duration_ms": 217148,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
-    },
-    {
-      "added_at": "2026-09-09 08:39:42",
-      "album": {
-        "name": "Pesamale",
-        "url": "https://open.spotify.com/album/0ZgVl0ncJxwGTys1izl3iQ"
-      },
-      "artists": [
-        {
-          "name": "Siri Xander",
-          "url": "https://open.spotify.com/artist/1YN9DIwQxOUnAzfgOWWiNR"
-        },
-        {
-          "name": "Arra Aria Khayal",
-          "url": "https://open.spotify.com/artist/3ktOCDucYtvRTm3UZosG93"
-        }
-      ],
-      "duration_ms": 178124,
-      "name": "Pesamale",
-      "url": "https://open.spotify.com/track/2lo95sXI2RkrXLOYTXpZwe"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -1347,30 +1347,6 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "Sang Rahiyo",
-        "url": "https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "Ujjwal Kashyap",
-          "url": "https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq"
-        },
-        {
-          "name": "Neeraj Rajawat",
-          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
-        }
-      ],
-      "duration_ms": 213288,
-      "name": "Sang Rahiyo",
-      "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
-    },
-    {
-      "added_at": "2026-09-09 08:39:42",
-      "album": {
         "name": "Deewaniyat (From \"Ek Deewane Ki Deewaniyat\") (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6oq1rHa949qiVoUZiTyWG7"
       },
@@ -1395,18 +1371,26 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "Ranjheya Ve",
-        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
+        "name": "Sang Rahiyo",
+        "url": "https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ"
       },
       "artists": [
         {
-          "name": "Zain Zohaib",
-          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Ujjwal Kashyap",
+          "url": "https://open.spotify.com/artist/6RzPQpJ5z2JkOJlmsCVxJq"
+        },
+        {
+          "name": "Neeraj Rajawat",
+          "url": "https://open.spotify.com/artist/3yjKvP7LiyIw2dzB5CCGxM"
         }
       ],
-      "duration_ms": 278474,
-      "name": "Ranjheya Ve",
-      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
+      "duration_ms": 213288,
+      "name": "Sang Rahiyo",
+      "url": "https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -1431,6 +1415,22 @@
       "duration_ms": 350739,
       "name": "Vaaroon",
       "url": "https://open.spotify.com/track/4sgYmcu4FKb1ZC6qBlxMiw"
+    },
+    {
+      "added_at": "2026-09-09 08:39:42",
+      "album": {
+        "name": "Ranjheya Ve",
+        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
+      },
+      "artists": [
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "duration_ms": 278474,
+      "name": "Ranjheya Ve",
+      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
     },
     {
       "added_at": "2026-09-09 08:39:42",

@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 73113,
+  "num_followers": 73134,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Alles gl\u00e4nzt",
-        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
-      },
-      "artists": [
-        {
-          "name": "Feine Sahne Fischfilet",
-          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
-        }
-      ],
-      "duration_ms": 196699,
-      "name": "Komm mit aufs Boot",
-      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/7KjCryDYEfzwFJNaL93Eb0"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 159498,
       "name": "I Had Some Help",
       "url": "https://open.spotify.com/track/16vZqHIxTpNbsI7pNVPtmw"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Alles gl\u00e4nzt",
+        "url": "https://open.spotify.com/album/4cza578bKGMMNKX8tTYv0l"
+      },
+      "artists": [
+        {
+          "name": "Feine Sahne Fischfilet",
+          "url": "https://open.spotify.com/artist/1BdtWszUR1z5SeU5qXNU31"
+        }
+      ],
+      "duration_ms": 196699,
+      "name": "Komm mit aufs Boot",
+      "url": "https://open.spotify.com/track/1zM8AIh7bHEQBYWuxEf9yh"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Class of Nations",
-        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
-      },
-      "artists": [
-        {
-          "name": "The Offenders",
-          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
-        }
-      ],
-      "duration_ms": 191824,
-      "name": "Marchez",
-      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Random Hand",
         "url": "https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 192193,
       "name": "Devil With a Microphone",
       "url": "https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Class of Nations",
+        "url": "https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1"
+      },
+      "artists": [
+        {
+          "name": "The Offenders",
+          "url": "https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "Marchez",
+      "url": "https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Hard Band For Dead",
-        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "2-Tone Army",
-      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "Raise A Glass (feat. Dicky Barrett of The Defiant & The Mighty Mighty Bosstones)",
         "url": "https://open.spotify.com/album/1urJBgoe0uuLb6sjL5l32C"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 219216,
       "name": "Raise A Glass (feat. Dicky Barrett of The Defiant & The Mighty Mighty Bosstones)",
       "url": "https://open.spotify.com/track/65PmhK4bAAqQm7LYovOM5X"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Hard Band For Dead",
+        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 199560,
+      "name": "2-Tone Army",
+      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
     },
     {
       "added_at": "2026-08-21 06:00:30",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
-        "name": "Weit, weit weg",
-        "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
-      },
-      "artists": [
-        {
-          "name": "Sondaschule",
-          "url": "https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk"
-        }
-      ],
-      "duration_ms": 157626,
-      "name": "Weit, weit weg",
-      "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
         "name": "El \u00c1tico",
         "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 242813,
       "name": "El \u00c1tico",
       "url": "https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
+        "name": "Weit, weit weg",
+        "url": "https://open.spotify.com/album/66pkYBmUtCx43fgkPaeYb9"
+      },
+      "artists": [
+        {
+          "name": "Sondaschule",
+          "url": "https://open.spotify.com/artist/0HqXpSKyNcTg8a1xg6hDQk"
+        }
+      ],
+      "duration_ms": 157626,
+      "name": "Weit, weit weg",
+      "url": "https://open.spotify.com/track/6hUErGPzA3hScjIo6rGtpc"
     },
     {
       "added_at": "2026-08-21 06:00:30",

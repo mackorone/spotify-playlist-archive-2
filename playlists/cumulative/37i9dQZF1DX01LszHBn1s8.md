@@ -4,7 +4,7 @@
 
 > babygirl in control, I feel like Nicole..
 
-1,731 songs - 3 day 19 hr 23 min
+1,732 songs - 3 day 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1182,6 +1182,7 @@
 | [Paro](https://open.spotify.com/track/6zvHwijlnwqjS6d46yAffi) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro](https://open.spotify.com/album/7Kt404MeesjKF910O5fTop) | 3:24 | 2022-09-08 | 2025-01-08 |
 | [Paro \- Speed Up](https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Paro \(Speed Up\)](https://open.spotify.com/album/0BmdP9lVjRCVYqhGg3pGTL) | 2:33 | 2022-08-04 | 2025-01-08 |
 | [Partition](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:19 | 2023-12-08 | 2025-01-08 |
+| [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 | 2026-09-22 |  |
 | [party 4 u](https://open.spotify.com/track/2RdEC8Ff83WkX7kDVCHseE) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:56 | 2025-02-20 | 2026-09-11 |
 | [Pass The Dutchie](https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I) | [Anthology](https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi) | 3:25 | 2022-06-12 | 2025-01-08 |
 | [Pass The Dutchie \- Sped Up Version](https://open.spotify.com/track/2Z4F9imB3AsYjFb22VdvZK) | [Musical Youth](https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I), [Speed Radio](https://open.spotify.com/artist/7lbOsvk3lUWYry0Kjzsj5V) | [Pass The Dutchie \(Sped Up Version\)](https://open.spotify.com/album/65aKnNfr705eNPbLgVX6R6) | 3:02 | 2022-06-23 | 2025-01-08 |

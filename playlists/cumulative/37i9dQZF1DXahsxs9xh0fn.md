@@ -4,7 +4,7 @@
 
 > we shall sing when night’s decay ushers in a drearier day
 
-306 songs - 19 hr 50 min
+309 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Blackberry Song](https://open.spotify.com/track/72uGzzpAcDuLge9d536Jmp) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Childish Prodigy](https://open.spotify.com/album/3LJQ0Hfr5fbaor3iBWg9c4) | 3:26 | 2023-11-22 |  |
 | [Blame The Moon](https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Blame The Moon](https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2) | 3:43 | 2023-08-28 |  |
 | [Blood](https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [The Recordings of the Middle East](https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ) | 5:26 | 2024-09-20 |  |
+| [Blood Bank \- Spotify Singles](https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Blood Bank \(Spotify Singles\)](https://open.spotify.com/album/78fVJQuJUToifqbMGHH8Jw) | 5:05 | 2026-09-22 |  |
 | [Blood Red Sentimental Blues](https://open.spotify.com/track/2akMYW6w4sOWL1nhTzPJWu) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/44TwNftgA3QYaX3BBJAvGO) | 4:36 | 2022-09-21 | 2024-04-19 |
 | [Blood Red Sentimental Blues](https://open.spotify.com/track/6m2OUSC736AxOVJ3W0FcEr) | [Cotton Jones](https://open.spotify.com/artist/6RHDASo3OVNiNY2nrGx3qc) | [Paranoid Cocoon](https://open.spotify.com/album/2oASnIn2Mt8QE4tDmSyWpy) | 4:36 | 2023-11-22 |  |
 | [Bloom \- Bonus Track](https://open.spotify.com/track/1HMQmOWrkieKYWlFsjUP3D) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Woodland](https://open.spotify.com/album/1lq6KMHFACcE6GQZysxnSZ) | 3:30 | 2026-09-01 |  |
@@ -178,6 +179,7 @@
 | [Lover of Mine](https://open.spotify.com/track/5wejUto9orDIV7g8eb6VZ6) | [John Vincent III](https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb) | [Songs from the Valley](https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH) | 3:47 | 2024-08-20 |  |
 | [Luckiest Man Alive](https://open.spotify.com/track/5z9xZaHfKstmls12x9kGOn) | [Buffalo Traffic Jam](https://open.spotify.com/artist/22LEPYRDhoThnbpShy6fV7) | [Pictures of You](https://open.spotify.com/album/2hyyd5HYo3Xx1hyYzhoKUi) | 3:44 | 2026-09-01 |  |
 | [Maine](https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cape Elizabeth](https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj) | 3:52 | 2024-08-01 |  |
+| [Martha Sways \- Spotify Singles](https://open.spotify.com/track/0o96BRVCx7wR4NtUHsvbCN) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [Martha Sways \(Spotify Singles\)](https://open.spotify.com/album/3Gb20a0lgpweeO3k98i2vg) | 4:56 | 2026-09-22 |  |
 | [Misty](https://open.spotify.com/track/0jX7GLf5pVGZpchy64sluA) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Misty](https://open.spotify.com/album/70ozU7uYRApcu4Dluq0xMV) | 3:44 | 2022-09-21 |  |
 | [Misty](https://open.spotify.com/track/58qd3nuwT6pse9UpUojZIQ) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Misty](https://open.spotify.com/album/1GRqKwM4H3FLbZq3Fudbtz) | 3:44 | 2022-09-21 | 2024-04-19 |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-09-23 |  |
@@ -203,6 +205,7 @@
 | [Porch Light](https://open.spotify.com/track/0AV4GhGeGCVJphsMTxDWdE) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Porch Light](https://open.spotify.com/album/2E1WqaMb2UoM3ivJyJT03q) | 4:22 | 2026-09-01 |  |
 | [Punchline](https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:26 | 2023-09-29 | 2024-07-19 |
 | [Queens](https://open.spotify.com/track/1ES1Rhc2f8mVw1ffi8vJoF) | [The Dove & the Wolf](https://open.spotify.com/artist/3GXHx6w51K9F5Xvzp9vFo6) | [Conversations](https://open.spotify.com/album/0DlblgyYD08uHVr9HOBr2Z) | 4:32 | 2022-09-21 | 2025-08-27 |
+| [Razor Love \- Spotify Singles](https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [Razor Love \- Spotify Singles](https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js) | 6:04 | 2026-09-22 |  |
 | [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 | 2025-08-26 |  |
 | [Reflections After Jane](https://open.spotify.com/track/4tvcK5VeTECYIepVxloVSG) | [The Clientele](https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0) | [Suburban Light \(Remastered\)](https://open.spotify.com/album/6sOIIDr9NbfzC3DKqA5dia) | 3:24 | 2022-09-21 | 2024-08-21 |
 | [Rewind \- Echo Mountain Sessions](https://open.spotify.com/track/6vXBhZm9Yv8CvYX9ukLNz8) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Echo Mountain Sessions EP](https://open.spotify.com/album/7iMZ2wghJOguDaRo8Pn1DU) | 4:50 | 2022-09-21 | 2026-09-02 |

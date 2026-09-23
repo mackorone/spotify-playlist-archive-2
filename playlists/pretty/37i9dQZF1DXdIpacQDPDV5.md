@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > Canada's best dance hits, featuring Isla Den
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,027 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,996 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 13 | [U know me](https://open.spotify.com/track/4HIyXZ63ucWnHXCfrlWWOq) | [CHRIS STASSY](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So), [Marz Fay](https://open.spotify.com/artist/54n62ymWbi4eV4AbE8ol3i) | [U know me](https://open.spotify.com/album/1Em9Twkxncip9jFX4lIzLw) | 3:14 |
 | 14 | [MYSTERY OF RAW](https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [MYSTERY OF RAW](https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw) | 3:48 |
 | 15 | [drift away](https://open.spotify.com/track/3bbfBPg7KrlTCEj8ikrJpm) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [AURA](https://open.spotify.com/album/6eJNFQ3WtEYfEBN7OKV7qd) | 4:17 |
-| 16 | [Essa Ta Quente \(feat\. Skrillex\)](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente \(feat\. Skrillex\)](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
+| 16 | [Essa Ta Quente](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
 | 17 | [We Not Tired](https://open.spotify.com/track/76eRWUypaYjpJMhpHNtJJH) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [We Not Tired](https://open.spotify.com/album/3DsheIzz2QBqCBs1pftrvG) | 2:52 |
 | 18 | [seeing stars](https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [50 ballerinas](https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51) | 2:38 |
 | 19 | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC) | 3:18 |

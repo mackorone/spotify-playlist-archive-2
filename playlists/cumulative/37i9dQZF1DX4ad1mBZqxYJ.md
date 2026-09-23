@@ -4,7 +4,7 @@
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-401 songs - 23 hr 3 min
+402 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [A Tu Merced](https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 2:55 | 2022-02-18 | 2026-09-19 |
 | [A tus Pies](https://open.spotify.com/track/6j1fzONzT6xPv85ofe3ZWd) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [MAWZ](https://open.spotify.com/album/1SBHFu8QLBlhsqLL7WQtlR) | 3:31 | 2021-12-07 | 2022-06-25 |
 | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x) | 4:30 | 2021-12-07 |  |
+| [After \(feat\. Young Miko\)](https://open.spotify.com/track/59cR3FClp2PlkHV5511R7x) | [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [After \(feat\. Young Miko\)](https://open.spotify.com/album/7IvDBWhqyMPoSZcmcEI6Eq) | 3:09 | 2026-09-18 |  |
 | [Ahogándome en Alcohol](https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Ahogándome en Alcohol](https://open.spotify.com/album/2mzpFXzP8MMSCOp0YjpshS) | 4:17 | 2022-10-04 |  |
 | [Ajenos](https://open.spotify.com/track/5sb5zLIDC3FjMyBqGCopf9) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Ajenos / El Día de tu Muerte](https://open.spotify.com/album/7k2cOeyxBoImq2kEmwRYxR) | 3:37 | 2021-12-07 | 2022-07-28 |
 | [Aka Entre el Humo](https://open.spotify.com/track/1jGQu9LPVLRZ41u9onpfXy) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Aka Entre el Humo](https://open.spotify.com/album/2NJuKDOUh9mANpFIKr7N9K) | 3:19 | 2022-09-26 | 2024-03-06 |

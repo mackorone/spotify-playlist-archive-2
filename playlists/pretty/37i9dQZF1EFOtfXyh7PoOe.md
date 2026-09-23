@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 893 likes - 137 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 894 likes - 137 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 15 | [House On Fire](https://open.spotify.com/track/0Le4FRrPfbFzpyy8SsaCLf) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:19 |
 | 16 | [Don't Play](https://open.spotify.com/track/2j7WMNAPSknc94Id7Ciuas) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [KSI](https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:08 |
 | 17 | [Sacrifice](https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:40 |
-| 18 | [Stay With Me](https://open.spotify.com/track/64a4Zjj4vVTLVfVboFNXIZ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Seventies Collection](https://open.spotify.com/album/2YKnYeoibLqjjnhzcOiAe6) | 4:40 |
-| 19 | [imagine if \(feat\. ruth b.\)](https://open.spotify.com/track/0fMPPMAd8Zo5dF6ADmHfgi) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [imagine if \(feat\. ruth b.\)](https://open.spotify.com/album/0555yBTrInIBZIOeqRujAG) | 3:17 |
+| 18 | [imagine if \(feat\. ruth b.\)](https://open.spotify.com/track/0fMPPMAd8Zo5dF6ADmHfgi) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw), [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [imagine if \(feat\. ruth b.\)](https://open.spotify.com/album/0555yBTrInIBZIOeqRujAG) | 3:17 |
+| 19 | [Stay With Me](https://open.spotify.com/track/64a4Zjj4vVTLVfVboFNXIZ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Seventies Collection](https://open.spotify.com/album/2YKnYeoibLqjjnhzcOiAe6) | 4:40 |
 | 20 | [We Don't Care](https://open.spotify.com/track/6THwtgImf1ZAR2w3iknjeS) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:26 |
 | 21 | [Magic](https://open.spotify.com/track/6KFhu3gk0whUnGCeOjkL8A) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [SWEET](https://open.spotify.com/album/60A86b5rgjI35DzjphO0Iy) | 2:39 |
 | 22 | [LMLY](https://open.spotify.com/track/3kPoV6L9vXpbxoM4Ux0KnX) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [LMLY](https://open.spotify.com/album/34AzRj375jbSNqI8TfMogd) | 3:29 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 73 | [Love Shot \- Chinese Version](https://open.spotify.com/track/7K45R30uQUtN22SgOjVLK2) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 |
 | 74 | [Pray for Rain](https://open.spotify.com/track/1T6yWVW5ftl0NQqJHgFQSP) | [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Pray For Rain](https://open.spotify.com/album/6ZoTp37vsTqhkbfwq5vIao) | 3:31 |
 | 75 | [Both Of Us](https://open.spotify.com/track/2Mtj4On4ARe1gnJER2g57a) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:46 |
-| 76 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 |
-| 77 | [If My Heart Was A House](https://open.spotify.com/track/4gUBKK0CR57iovGWBXcVOq) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 2:55 |
+| 76 | [If My Heart Was A House](https://open.spotify.com/track/4gUBKK0CR57iovGWBXcVOq) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY! THE ENCORE](https://open.spotify.com/album/7IjN10VEnyA5wnPOcLx12H) | 2:55 |
+| 77 | [The Wrong Ones](https://open.spotify.com/track/6Ngm2VhQna3DJGSYf5ePVG) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [The Wrong Ones](https://open.spotify.com/album/44uWdDSJjRmiB0nWbth1jO) | 2:47 |
 | 78 | [Underwater](https://open.spotify.com/track/2Z67nk5utFiET8P1eDmS32) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Ur an Angel I’m Just Particles](https://open.spotify.com/album/6rcYUB0G3fFJrRQSmIHO93) | 3:34 |
 | 79 | [S.I.N.G.L.E](https://open.spotify.com/track/0Rs2UGxt1HwI9ZxcuywX9k) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [S.I.N.G.L.E](https://open.spotify.com/album/2PeCHxcEBzPUwodr7oWZ0V) | 2:42 |
 | 80 | [Death Row](https://open.spotify.com/track/07K1WRKXskn1izYOFPnl0A) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 3:00 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 136 | [The View](https://open.spotify.com/track/0038fnjL6UVsKq5jzV5QGm) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [The View](https://open.spotify.com/album/4y8f3Y73QLPyoqGTzAn9qG) | 2:59 |
 | 137 | [Season of Our Love](https://open.spotify.com/track/0lpJumwXtUE3xD8RP0oll4) | [R.I.Pablo](https://open.spotify.com/artist/7KGkYFExwTNpryurLNxdwb) | [Season of Our Love](https://open.spotify.com/album/4M15n8kQVAQkGrP6XoBhyi) | 2:08 |
 
-Snapshot ID: `Acc7pgAAAACcbKP8D2OptPgHvQ1d4E8H`
+Snapshot ID: `AcdBUAAAAABDJAV4w6yjD0rGFOaq19lt`

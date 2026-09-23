@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 13547,
+  "num_followers": 13557,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-09-08 13:24:58",
       "album": {
-        "name": "Closely Far Away",
-        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "Closely Far Away",
-      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
-    },
-    {
-      "added_at": "2026-09-08 13:24:58",
-      "album": {
         "name": "Hospital",
         "url": "https://open.spotify.com/album/3Nj0yXmZnHRu4MMP31sUVK"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 325000,
       "name": "Heya",
       "url": "https://open.spotify.com/track/0V3eVNmgkOzJ5wQztnCpAV"
+    },
+    {
+      "added_at": "2026-09-08 13:24:58",
+      "album": {
+        "name": "Closely Far Away",
+        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Closely Far Away",
+      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
     },
     {
       "added_at": "2026-09-08 13:24:58",
@@ -719,6 +719,22 @@
     {
       "added_at": "2026-09-08 13:24:58",
       "album": {
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i"
+      },
+      "artists": [
+        {
+          "name": "ONE OK ROCK",
+          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Taking Off",
+      "url": "https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9"
+    },
+    {
+      "added_at": "2026-09-08 13:24:58",
+      "album": {
         "name": "Lost Mood",
         "url": "https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 159000,
       "name": "Blue mood",
       "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
-    },
-    {
-      "added_at": "2026-09-08 13:24:58",
-      "album": {
-        "name": "Ambitions",
-        "url": "https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i"
-      },
-      "artists": [
-        {
-          "name": "ONE OK ROCK",
-          "url": "https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Taking Off",
-      "url": "https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9"
     },
     {
       "added_at": "2026-09-08 13:24:58",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-09-08 13:24:58",
       "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
-    },
-    {
-      "added_at": "2026-09-08 13:24:58",
-      "album": {
         "name": "My blue wavy room",
         "url": "https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 229854,
       "name": "Blue rain",
       "url": "https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd"
+    },
+    {
+      "added_at": "2026-09-08 13:24:58",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     }
   ],
   "unique_name": "\ubb3c \uba4d",

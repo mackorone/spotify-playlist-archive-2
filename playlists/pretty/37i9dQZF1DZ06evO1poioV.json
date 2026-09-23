@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 125147,
+  "num_followers": 125170,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAACdSKP6168mFOHtLtBX9bbK",
+  "snapshot_id": "arBzgAAAAADZgt2nxPztQgfkLT/ufdW9",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stick Season (Forever)",
         "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 286369,
       "name": "You\u2019re Gonna Go Far (with Brandi Carlile)",
       "url": "https://open.spotify.com/track/2U15ix0JMkQY8EsxneUfyL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "By the Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 196973,
-      "name": "The Mother",
-      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unreal Unearth",
         "url": "https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 268653,
       "name": "Damage Gets Done (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By the Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 196973,
+      "name": "The Mother",
+      "url": "https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer"
     },
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Uninvited (Live at Newport Folk)",
+        "url": "https://open.spotify.com/album/0vnpFlDtL4MvrVU8OP5dUf"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 311346,
+      "name": "Uninvited - Live at Newport Folk",
+      "url": "https://open.spotify.com/track/6SoNwpuHbn8YmTZhaLpQEe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -371,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uninvited (Live at Newport Folk)",
-        "url": "https://open.spotify.com/album/0vnpFlDtL4MvrVU8OP5dUf"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 311346,
-      "name": "Uninvited - Live at Newport Folk",
-      "url": "https://open.spotify.com/track/6SoNwpuHbn8YmTZhaLpQEe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/4hL63mh3FYiIQp35YAKNoo"
       },
@@ -415,6 +415,26 @@
       "duration_ms": 242329,
       "name": "A War With Time",
       "url": "https://open.spotify.com/track/5VerAFKM0vDyjsRfxFFTZh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're Not Alone [Feat. Brandi Carlile]",
+        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 309746,
+      "name": "You're Not Alone [Feat. Brandi Carlile]",
+      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
     },
     {
       "added_at": null,
@@ -467,26 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Not Alone [Feat. Brandi Carlile]",
-        "url": "https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 309746,
-      "name": "You're Not Alone [Feat. Brandi Carlile]",
-      "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Returning To Myself",
         "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
       },
@@ -515,74 +515,6 @@
       "duration_ms": 221813,
       "name": "Mama Werewolf",
       "url": "https://open.spotify.com/track/3prWmTfS6HnvkKgezSQFJO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Highwomen",
-        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
-      },
-      "artists": [
-        {
-          "name": "The Highwomen",
-          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Natalie Hemby",
-          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Amanda Shires",
-          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        }
-      ],
-      "duration_ms": 142840,
-      "name": "Loose Change",
-      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Human (feat. Jon Hopkins) [Sad Gay Version]",
-        "url": "https://open.spotify.com/album/4mv0k5VhGDcbq3FCwVZoS5"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        },
-        {
-          "name": "Jon Hopkins",
-          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
-        }
-      ],
-      "duration_ms": 235986,
-      "name": "Human (feat. Jon Hopkins) - Sad Gay Version",
-      "url": "https://open.spotify.com/track/3bVFS7hCCgwqmkCeVpxVZc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 263976,
-      "name": "No One Knows Us",
-      "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
     },
     {
       "added_at": null,
@@ -628,9 +560,45 @@
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
         }
       ],
-      "duration_ms": 193373,
-      "name": "If She Ever Leaves Me",
-      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
+      "duration_ms": 142840,
+      "name": "Loose Change",
+      "url": "https://open.spotify.com/track/2cWVBN3jm1gm9ztho9Ca1E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/3e2Q0TkwIIfmWUAssLAJ8U"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 263976,
+      "name": "No One Knows Us",
+      "url": "https://open.spotify.com/track/6wBZkDA5FDcxC8DkukCsSR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human (feat. Jon Hopkins) [Sad Gay Version]",
+        "url": "https://open.spotify.com/album/4mv0k5VhGDcbq3FCwVZoS5"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Jon Hopkins",
+          "url": "https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI"
+        }
+      ],
+      "duration_ms": 235986,
+      "name": "Human (feat. Jon Hopkins) - Sad Gay Version",
+      "url": "https://open.spotify.com/track/3bVFS7hCCgwqmkCeVpxVZc"
     },
     {
       "added_at": null,
@@ -647,6 +615,38 @@
       "duration_ms": 222293,
       "name": "That Wasn't Me",
       "url": "https://open.spotify.com/track/6iqAJh3X8bf94eo4reme5L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Highwomen",
+        "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
+      },
+      "artists": [
+        {
+          "name": "The Highwomen",
+          "url": "https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        },
+        {
+          "name": "Natalie Hemby",
+          "url": "https://open.spotify.com/artist/7vCxajHPmtfUUisBDnynrx"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Amanda Shires",
+          "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "If She Ever Leaves Me",
+      "url": "https://open.spotify.com/track/7eU4GSfrANUlZBptlflhR5"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Hard Way Home",
+      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "(self-titled)",
         "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 224893,
       "name": "How (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Hard Way Home",
-      "url": "https://open.spotify.com/track/3tAwGmIYlx4dqC0PAT9y8I"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Onward (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 213732,
+      "name": "Carried Me With You",
+      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Highwomen",
         "url": "https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl"
       },
@@ -827,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onward (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5GVC60ITCVDwfUGjblfsst"
+        "name": "The Story",
+        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
       },
       "artists": [
         {
@@ -836,25 +852,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 213732,
-      "name": "Carried Me With You",
-      "url": "https://open.spotify.com/track/0HL3y3bsKSARBSP0qaImwb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bear Creek",
-        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Raise Hell",
-      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
+      "duration_ms": 182186,
+      "name": "Josephine",
+      "url": "https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv"
     },
     {
       "added_at": null,
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story",
-        "url": "https://open.spotify.com/album/23XH8Ej694esQAb3IYu00h"
+        "name": "Bear Creek",
+        "url": "https://open.spotify.com/album/5b8YTIrc88vdnfRguZqvVE"
       },
       "artists": [
         {
@@ -884,9 +884,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/2IjAfjpkHB1KcQHn5zqzdv"
+      "duration_ms": 248240,
+      "name": "Raise Hell",
+      "url": "https://open.spotify.com/track/4TWn4YeBaTqDURrYLd6k0a"
     },
     {
       "added_at": null,

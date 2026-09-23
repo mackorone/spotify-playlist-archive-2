@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > 'tá na rua? traz salsinha?' \(eternamente\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,207 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,197 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 17 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
 | 18 | [Gamboa](https://open.spotify.com/track/0ZaAT8SdM8LYoLPSaITLWt) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Um Mar Pra Cada Um,](https://open.spotify.com/album/7s4sDqfWp9bbkWgU185WVh) | 3:42 |
 | 19 | [Lucidez \- Ao Vivo](https://open.spotify.com/track/13BXqbpPugY1uRAx0mPZEz) | [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG) | [Sorriso Eu Gosto no Pagode Vol\. 3 \- Homenagem ao Fundo de Quintal \(Gravado em Londres\) \[Ao Vivo\]](https://open.spotify.com/album/0iC5MQKsKz2Kn6T6zVfpLR) | 4:18 |
-| 20 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
-| 21 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
+| 20 | [Azul](https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY) | [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:56 |
+| 21 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
 | 22 | [Brother, Father, Sister And Mother](https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia](https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER) | 3:19 |
 | 23 | [Qual É A Sua?](https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:10 |
 | 24 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 40 | [Faz Uma Loucura Por Mim](https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL) | [Malía](https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u), [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Faz Uma Loucura Por Mim](https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM) | 3:35 |
 | 41 | [SAMBA DE CRIA](https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ) | [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [TÁ FELIZ?!](https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg) | 3:11 |
 | 42 | [Quem Tem Um Amigo \(Tem Tudo\) \(Remix\) \(feat\. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid\)](https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Quem Tem Um Amigo \(Tem Tudo\)](https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3) | 4:06 |
-| 43 | [Hexagrama 28](https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 3:26 |
-| 44 | [Tibethânica](https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [A Dança do Mundo](https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE) | 3:22 |
+| 43 | [Tibethânica](https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG) | [A Dança do Mundo](https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE) | 3:22 |
+| 44 | [Hexagrama 28](https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN) | [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [AFIM](https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7) | 3:26 |
 | 45 | [Pra Sempre](https://open.spotify.com/track/4ElEPqphxDORaD5Ov08hSp) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Improviso](https://open.spotify.com/album/7AQwtFS7T46IR3VcDy8iCj) | 3:51 |
 | 46 | [Abrigo](https://open.spotify.com/track/6zKELA7gCngukYmDKQ6Lqb) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Abrigo](https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs) | 2:46 |
 | 47 | [Samurai](https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Slap](https://open.spotify.com/artist/5eREEFPNFmR3YY5HqMKm6v) | [Canto Djavan](https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ) | 3:20 |

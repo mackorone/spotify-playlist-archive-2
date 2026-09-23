@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 4,562 likes - 63 songs - 3 hr 48 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 4,568 likes - 63 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 19 | [Blue Light \(feat\. Blood Orange\)](https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Dream House](https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6) | 3:08 |
 | 20 | [Ten Days](https://open.spotify.com/track/6lOkKps0whraM4M4mxEnOd) | [Evangelos Lascos](https://open.spotify.com/artist/4nJy1mI5gMeGQKNaw0LKr5) | [Ten Days](https://open.spotify.com/album/1lbehDebGjf8tQ5LPkfD8f) | 4:28 |
 | 21 | [Radio Station](https://open.spotify.com/track/2ixKxWKW6ejtIVr5gm00K7) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Radio Station](https://open.spotify.com/album/71x0gASJv5sOZdv6J6MQ66) | 4:12 |
-| 22 | [go away](https://open.spotify.com/track/1UompprRXr2JJn9FokMZzo) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [a nice place to be](https://open.spotify.com/album/7KssJJV5Wbdcf0IYZUPHyQ) | 3:53 |
+| 22 | [go away](https://open.spotify.com/track/1UompprRXr2JJn9FokMZzo) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT), [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [a nice place to be](https://open.spotify.com/album/7KssJJV5Wbdcf0IYZUPHyQ) | 3:53 |
 | 23 | [Sewale](https://open.spotify.com/track/4uGsrh07DGgij4r7SihX0C) | [Falle Nioke](https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J) | [Sewale](https://open.spotify.com/album/0NIIqOKEi0OUDAzh0sii2J) | 4:50 |
 | 24 | [Cant Be Wrong](https://open.spotify.com/track/2YaFYPamhlsqvRDN5cHuei) | [Frankie Rose](https://open.spotify.com/artist/44mVqYPHmFgrDJxv6CWrOo) | [HILA](https://open.spotify.com/album/14RPjiECpua6NQJ5tviC11) | 3:06 |
 | 25 | [Hand To The Flame](https://open.spotify.com/track/3z4jCG8WB8anomnjDK4Q3p) | [GIFT](https://open.spotify.com/artist/1dwirHaSjsKJUYDHgvl2op) | [Hand To The Flame](https://open.spotify.com/album/0wKUHdNeoyK0SMjVDo5sB9) | 3:28 |

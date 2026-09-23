@@ -979,6 +979,24 @@
     },
     {
       "album": {
+        "name": "Blue Hour",
+        "url": "https://open.spotify.com/album/3XS37goKOizx2EzOLi6567"
+      },
+      "artists": [
+        {
+          "name": "Luca Kerr",
+          "url": "https://open.spotify.com/artist/2jhFEyMpycPOddBCSQYjap"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132466,
+      "name": "Blue Hour",
+      "url": "https://open.spotify.com/track/4KBuYJzWLsUfWLyukShOab"
+    },
+    {
+      "album": {
         "name": "Blue Lagoon",
         "url": "https://open.spotify.com/album/7eJ4LCFtQiBgMY3dQrSU6O"
       },
@@ -1591,6 +1609,24 @@
     },
     {
       "album": {
+        "name": "Connection through Motion",
+        "url": "https://open.spotify.com/album/4J97a3EOhvGfDFZOB3HzV7"
+      },
+      "artists": [
+        {
+          "name": "Primrose Moon",
+          "url": "https://open.spotify.com/artist/7CIFhfgjXwNBmDEmJPxc3t"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Connection through Motion",
+      "url": "https://open.spotify.com/track/4TyUlKjpeWcX47hADHTNo1"
+    },
+    {
+      "album": {
         "name": "Benny Bernstein",
         "url": "https://open.spotify.com/album/0H6fiGx3oWLzmtCvxhr2lM"
       },
@@ -1606,6 +1642,24 @@
       "duration_ms": 154246,
       "name": "Conscious Jorney",
       "url": "https://open.spotify.com/track/5huIzPcRJkbL7UyyzViQPU"
+    },
+    {
+      "album": {
+        "name": "Contemplation",
+        "url": "https://open.spotify.com/album/1xwUmPFLJZ2VTD41BFm459"
+      },
+      "artists": [
+        {
+          "name": "Are Morica",
+          "url": "https://open.spotify.com/artist/4c9U2okyrbpYWuXm9u5PXg"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160800,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/1M4RzQJfVDzWNfUV0VopiF"
     },
     {
       "album": {
@@ -2945,6 +2999,24 @@
     },
     {
       "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/0NAVH9QhTO4BomMgKWQ11P"
+      },
+      "artists": [
+        {
+          "name": "Quiet Tones",
+          "url": "https://open.spotify.com/artist/0ZXLhPxIihjrquOaJFGU6Z"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117750,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/20o3E39PFhtjGXF0qiVWqg"
+    },
+    {
+      "album": {
         "name": "Flower of Peace (with nature sounds)",
         "url": "https://open.spotify.com/album/4nIAKDkoPdl872LjX8VcQ6"
       },
@@ -4018,10 +4090,32 @@
       ],
       "date_added": "2025-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 192000,
       "name": "Hydration",
       "url": "https://open.spotify.com/track/6euwKpkQB92wk3DluAidnQ"
+    },
+    {
+      "album": {
+        "name": "I Wish Rain Danced",
+        "url": "https://open.spotify.com/album/2WVSf8CZLyyHQJM8espPvu"
+      },
+      "artists": [
+        {
+          "name": "Center of Attention",
+          "url": "https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs"
+        },
+        {
+          "name": "Domy Castellano",
+          "url": "https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "I Wish Rain Danced",
+      "url": "https://open.spotify.com/track/7vEs9emtFXQX3LEDo2oBiF"
     },
     {
       "album": {
@@ -6193,6 +6287,24 @@
     },
     {
       "album": {
+        "name": "Patagonia",
+        "url": "https://open.spotify.com/album/6jLVKuvK1j8BwXFahWnjQR"
+      },
+      "artists": [
+        {
+          "name": "Moments of Clarity",
+          "url": "https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Patagonia",
+      "url": "https://open.spotify.com/track/6sE6j0OVmzcCJcZwpw8q0S"
+    },
+    {
+      "album": {
         "name": "Peace of Rain",
         "url": "https://open.spotify.com/album/2UzKVDUabqDDcOVRptDfpe"
       },
@@ -6352,6 +6464,24 @@
       "duration_ms": 138248,
       "name": "Petals",
       "url": "https://open.spotify.com/track/2zSyKGCR1MExzpcSen7aSc"
+    },
+    {
+      "album": {
+        "name": "Petrichor",
+        "url": "https://open.spotify.com/album/3PaokbWqzprU5NvY9cmHCr"
+      },
+      "artists": [
+        {
+          "name": "Richome",
+          "url": "https://open.spotify.com/artist/7wT96tCUu2nwZ056pObwZS"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Petrichor",
+      "url": "https://open.spotify.com/track/2PtLGbF6SA4FM7YY6uyMg1"
     },
     {
       "album": {
@@ -6820,6 +6950,24 @@
       "duration_ms": 177577,
       "name": "Recreation And Peace",
       "url": "https://open.spotify.com/track/1oQmOuEApsxo5SKBiToT7m"
+    },
+    {
+      "album": {
+        "name": "Redwood Grove Awakening",
+        "url": "https://open.spotify.com/album/1ca0GWh2Nt8k9YAnVT9Z2V"
+      },
+      "artists": [
+        {
+          "name": "For Mel",
+          "url": "https://open.spotify.com/artist/2w0jPSsETa72zNH53Fb7bR"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154750,
+      "name": "Redwood Grove Awakening",
+      "url": "https://open.spotify.com/track/6DyqneHpr8Bm5acsQbJk3p"
     },
     {
       "album": {
@@ -8749,6 +8897,24 @@
     },
     {
       "album": {
+        "name": "the creek at 5am",
+        "url": "https://open.spotify.com/album/1dhNdPRPiPqBvCpgkyO9G3"
+      },
+      "artists": [
+        {
+          "name": "sloer",
+          "url": "https://open.spotify.com/artist/2pDfZekvEL4mWRmeUHoYa6"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160124,
+      "name": "the creek at 5am",
+      "url": "https://open.spotify.com/track/1lrGLo1JQCKDOwkMgCL7Al"
+    },
+    {
+      "album": {
         "name": "The Danish Waterfall",
         "url": "https://open.spotify.com/album/5gtlJrqr9VuRQbPPRpcDXu"
       },
@@ -9902,6 +10068,24 @@
       "duration_ms": 199090,
       "name": "Whispering Dryad",
       "url": "https://open.spotify.com/track/3IqatHS3VQu8WWZpCBh6f5"
+    },
+    {
+      "album": {
+        "name": "Whispering Forest",
+        "url": "https://open.spotify.com/album/14FEpq0g3LPdk2umIinH5F"
+      },
+      "artists": [
+        {
+          "name": "For Mel",
+          "url": "https://open.spotify.com/artist/2w0jPSsETa72zNH53Fb7bR"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164624,
+      "name": "Whispering Forest",
+      "url": "https://open.spotify.com/track/6QykaUjB5NfURylWukcdrO"
     },
     {
       "album": {

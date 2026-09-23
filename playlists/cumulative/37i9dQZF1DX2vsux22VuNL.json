@@ -2173,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "COMO ELA VEM",
+        "url": "https://open.spotify.com/album/5GD0XJyxQ1XZ329MEHMDbe"
+      },
+      "artists": [
+        {
+          "name": "FERMI",
+          "url": "https://open.spotify.com/artist/6JZ3QLbC4COuCxfIecHyck"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145151,
+      "name": "COMO ELA VEM",
+      "url": "https://open.spotify.com/track/0CUl44EpqRW4o4Age0ovZD"
+    },
+    {
+      "album": {
         "name": "Como \u00c9 Que Faz",
         "url": "https://open.spotify.com/album/4MZVN5ztuGCDwsiwTScY1e"
       },
@@ -3370,7 +3388,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 141030,
       "name": "Ela \u00e9 de Escorpi\u00e3o",
       "url": "https://open.spotify.com/track/3d3XrOWyEH4tISxQzh4kqf"

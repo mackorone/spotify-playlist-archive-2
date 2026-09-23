@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 25 | [Lying \(feat\. Lil Tjay\)](https://open.spotify.com/track/6x8V3kUNlhVbwRbVP0QeSS) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Lying \(feat\. Lil Tjay\)](https://open.spotify.com/album/7whrfVw1VGwlQB1z9pHEbq) | 3:23 |
 | 26 | [How Bad Do You Want It \(Oh Yeah\)](https://open.spotify.com/track/7EcMaRZ5PeKgsF1PhpXUZf) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [How Bad Do You Want It \(Oh Yeah\)](https://open.spotify.com/album/5Anvuuz9x1tgrMIxurIvw3) | 3:44 |
 | 27 | [All The Way](https://open.spotify.com/track/0SB9oIIBgZaYdV2GrwkxbX) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 2:59 |
-| 28 | [Know Better](https://open.spotify.com/track/27NUaTccqswtSOoYJB1FY8) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Suicide Squad: The Album \(Collector's Edition\)](https://open.spotify.com/album/2t9pr5VGDNuKcf5PGpeNjV) | 3:27 |
-| 29 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
+| 28 | [Out Of My League](https://open.spotify.com/track/3JSATYGj6yxP1Vc1b49SSK) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [a beautiful blur](https://open.spotify.com/album/5w3zZsY4gg9M0L599NNmV2) | 3:26 |
+| 29 | [Know Better](https://open.spotify.com/track/27NUaTccqswtSOoYJB1FY8) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Suicide Squad: The Album \(Collector's Edition\)](https://open.spotify.com/album/2t9pr5VGDNuKcf5PGpeNjV) | 3:27 |
 | 30 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 |
 | 31 | [Love Back](https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Love Back](https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB) | 3:05 |
 | 32 | [Undress Rehearsal](https://open.spotify.com/track/1aPqexHVW20OTamBHdWWVL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:34 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 200 | [Wasted Time With Folsom Prison Blues \- Live from the HIGH AND ALIVE WORLD TOUR](https://open.spotify.com/track/0g0Gbad2qQmYfFHwFlKSdp) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH AND A\(LIVE\)](https://open.spotify.com/album/1q6FBBTLay0BuSkMFgOVOL) | 8:10 |
 | 201 | [Let It Rain](https://open.spotify.com/track/1TG6k7kK3uHX1WyCh2xNpD) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Pressing Onward](https://open.spotify.com/album/6Q4UcPfHz8RnPNn2NlJ71C) | 3:04 |
 
-Snapshot ID: `Acc7kgAAAAAi3QjnDTmoHjvP4jdbSFD5`
+Snapshot ID: `AcdBKAAAAABb9rAjuXJPXmrJPOtGPju8`

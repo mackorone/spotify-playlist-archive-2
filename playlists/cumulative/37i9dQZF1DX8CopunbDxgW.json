@@ -47083,6 +47083,28 @@
     },
     {
       "album": {
+        "name": "Wish You Luck",
+        "url": "https://open.spotify.com/album/0A7DP5rChjnxOCYDfAhSMN"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "kid on air",
+          "url": "https://open.spotify.com/artist/3qh0b8JcyeKr7QPlIIlTw2"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223251,
+      "name": "Wish You Luck",
+      "url": "https://open.spotify.com/track/3Hxz9OpJIUFkFytyrOAxWj"
+    },
+    {
+      "album": {
         "name": "wishing well",
         "url": "https://open.spotify.com/album/3hzcBFb7iuuYShvvCHXBn9"
       },

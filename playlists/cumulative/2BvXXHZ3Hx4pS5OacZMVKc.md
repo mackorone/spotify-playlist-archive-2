@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-476 songs - 1 day 0 hr 25 min
+478 songs - 1 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Dead of Night](https://open.spotify.com/track/3nVK1WJpMLATbK7QEg840r) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Dead of Night](https://open.spotify.com/album/5wl7bVpnMRoal4apZYUO3k) | 3:53 | 2022-02-03 | 2022-09-15 |
 | [Dead Of Night \(VIP\) \- Remix](https://open.spotify.com/track/3z3wBalHCvpnAO63d6na7v) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK) | [Dead Of Night \(VIP\) \[Remix\]](https://open.spotify.com/album/1kuliqL1e3KkvuPbFvQ31X) | 4:02 | 2022-02-03 | 2023-08-11 |
 | [Deep End](https://open.spotify.com/track/784DsuZ2P86jqOmhzYTkdv) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Fendy Cisneros](https://open.spotify.com/artist/2LwuboX4U5ljjdoDmuMRc2), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Deep End](https://open.spotify.com/album/2Ny0KwjIuUXwUWEzTiJedo) | 4:21 | 2026-05-15 |  |
+| [Defect](https://open.spotify.com/track/1VfoY7t1Z79IA7rU2gAc8i) | [Reece Rosé](https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5) | [The People](https://open.spotify.com/album/7zP5P3ddTfoYYnaxW75ouB) | 3:00 | 2026-09-22 |  |
 | [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-06-14 |  |
 | [Demnuhbad](https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Demnuhbad](https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH) | 3:06 | 2022-11-03 | 2023-08-11 |
 | [Desperate](https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Desperate](https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv) | 3:15 | 2023-04-28 |  |
@@ -163,6 +164,7 @@
 | [For You](https://open.spotify.com/track/004GETE44RiciWPNPUGqZK) | [ReauBeau](https://open.spotify.com/artist/5fKpGPlcEvjFMDDWDKniND), [Eline Mann](https://open.spotify.com/artist/7B68JAWDHgVV7OiLmtjxtu) | [For You](https://open.spotify.com/album/2dOfeD6IChI72iXCkNRQAE) | 2:44 | 2023-01-12 | 2023-08-11 |
 | [Forget](https://open.spotify.com/track/4AvIxgGf0NeC0vBKHGYBP1) | [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Forget](https://open.spotify.com/album/10BF8MKRZo0ECoym9qxIbu) | 3:24 | 2022-11-04 | 2024-11-20 |
 | [Freaky](https://open.spotify.com/track/4C39BJ7XjxFYhN4jPHvJwn) | [Hush](https://open.spotify.com/artist/5yumQW70M7N3EeWFWV7fUZ) | [Freaky](https://open.spotify.com/album/26N7ToBjh2bBMvvBiUwDv9) | 2:58 | 2022-02-03 | 2022-09-15 |
+| [Free](https://open.spotify.com/track/2hRyusPNX4YQE9546uY6y7) | [Reece Rosé](https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5) | [The People](https://open.spotify.com/album/7zP5P3ddTfoYYnaxW75ouB) | 3:02 | 2026-09-22 |  |
 | [Freedom](https://open.spotify.com/track/1roivsvHAUwl9VhnEpRGjD) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Freedom](https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f) | 3:45 | 2022-09-02 | 2023-08-11 |
 | [Freefalling](https://open.spotify.com/track/3rO1nOn3RTpDTkop8lCeY0) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Freefalling](https://open.spotify.com/album/0nBHpS95DU0znkctgMQ4Ty) | 2:33 | 2022-02-03 | 2022-09-15 |
 | [Galactic](https://open.spotify.com/track/2XG44lK8ODf0Ziikx8pzxo) | [Natty Lou](https://open.spotify.com/artist/01iBGqeIP82ClBsWKXEW1O), [Sebotage](https://open.spotify.com/artist/6wGjRjiTXERLfPwoMY19iP) | [Galactic](https://open.spotify.com/album/7KylNpVIx4aYFZR7WNI1mx) | 3:23 | 2024-03-07 |  |

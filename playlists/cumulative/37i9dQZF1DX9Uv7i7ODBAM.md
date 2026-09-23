@@ -4,7 +4,7 @@
 
 > Enjoy music from "My Hero Academia"! ©堀越耕平／集英社・僕のヒーローアカデミア製作委員会
 
-169 songs - 9 hr 44 min
+170 songs - 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [You Can Do It!](https://open.spotify.com/track/1JoRfbbe7UxJxxtpS00OPH) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TV Animation My Hero Academia FINAL SEASON Original Soundtrack](https://open.spotify.com/album/0B5QyUPqrzDmRSFk185nBt) | 7:38 | 2025-12-15 |  |
 | [You can still be](https://open.spotify.com/track/1TspAYLTvHLsTvkBrj2Jqh) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 3:17 | 2024-07-07 |  |
 | [You Say Run](https://open.spotify.com/track/0hHc2igYYlSUyZdByauJmB) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:48 | 2022-10-01 |  |
+| [You Say Run \- 10th Anniversary ver.](https://open.spotify.com/track/3T8OGzdBT8aUMRuqvSoFdY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [You Say Run \(10th Anniversary ver.\)](https://open.spotify.com/album/1sCeRAMF6PlSzVGuoEIk55) | 3:51 | 2026-09-22 |  |
 | [You Say Run \-Succession\-](https://open.spotify.com/track/79pUjmHv3aAN8aWyvTqrvk) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 10:37 | 2024-07-07 |  |
 | [You two are weird](https://open.spotify.com/track/7N2IuVkHtWUeybtFcmBJCp) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』7thオリジナルサウンドトラック〜Pre\-release〜](https://open.spotify.com/album/0vl6bXwWnFEujAIzbGKvDT) | 3:22 | 2024-07-07 |  |
 | [「好敵手」たちと書いて「同級生」と読む](https://open.spotify.com/track/5uO0HUPwd7AUSXze0wC6z8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』5th オリジナルサウンドトラック](https://open.spotify.com/album/6qCjxP9ABgwgEdSNfmQgbI) | 3:00 | 2023-03-14 |  |

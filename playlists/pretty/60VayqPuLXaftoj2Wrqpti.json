@@ -1,6 +1,6 @@
 {
   "description": "Explore this week\u2019s new additions to KEXP\u2019s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps. Learn more and join our community at kexp.org!",
-  "num_followers": 4562,
+  "num_followers": 4568,
   "original_name": "New This Week",
   "owner": {
     "name": "KEXP",
@@ -406,6 +406,10 @@
         {
           "name": "Fakear",
           "url": "https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT"
+        },
+        {
+          "name": "Jesse Mac Cormack",
+          "url": "https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C"
         }
       ],
       "duration_ms": 233503,

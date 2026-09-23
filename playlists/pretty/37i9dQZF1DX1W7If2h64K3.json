@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 59526,
+  "num_followers": 59536,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,26 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
+        "name": "Schumann: Humoreske, Op. 20 / Fantasia In C, Op. 17",
+        "url": "https://open.spotify.com/album/3udA4oqeaONjqWRcudxaCo"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Richard Goode",
+          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
+        }
+      ],
+      "duration_ms": 1579000,
+      "name": "Humoreske, op. 20",
+      "url": "https://open.spotify.com/track/59vvQ1vzVLkGZ8CsaaaJDi"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
         "name": "Schumann: Dichterliebe & Kerner-Lieder",
         "url": "https://open.spotify.com/album/4msRhMwkhcY2HHEmPF10Lf"
       },
@@ -383,26 +403,6 @@
       "duration_ms": 136320,
       "name": "Schumann: Dichterliebe, Op. 48: 10. H\u00f6r' ich das Liedchen klingen",
       "url": "https://open.spotify.com/track/1FF7Uo5lDxNVZrClnxvFn9"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
-        "name": "Schumann: Humoreske, Op. 20 / Fantasia In C, Op. 17",
-        "url": "https://open.spotify.com/album/3udA4oqeaONjqWRcudxaCo"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Richard Goode",
-          "url": "https://open.spotify.com/artist/1OBaEwgkgZqtb6ePRHm58A"
-        }
-      ],
-      "duration_ms": 1579000,
-      "name": "Humoreske, op. 20",
-      "url": "https://open.spotify.com/track/59vvQ1vzVLkGZ8CsaaaJDi"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -555,8 +555,8 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Mussorgsky: Pictures at an Exhibition",
-        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
+        "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
+        "url": "https://open.spotify.com/album/3g5eeiTV00Nr01OOeBIYip"
       },
       "artists": [
         {
@@ -564,13 +564,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Paul Lewis",
-          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
+          "name": "Ll\u0177r Williams",
+          "url": "https://open.spotify.com/artist/1hIMnRye51lifBy0mV2jdE"
         }
       ],
-      "duration_ms": 738560,
-      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
-      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
+      "duration_ms": 188666,
+      "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
+      "url": "https://open.spotify.com/track/2JIPjHPXrYqpcYN0izpNf4"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -595,8 +595,8 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
-        "url": "https://open.spotify.com/album/3g5eeiTV00Nr01OOeBIYip"
+        "name": "Mussorgsky: Pictures at an Exhibition",
+        "url": "https://open.spotify.com/album/37F9lsM2rWGbSMLl6X3nNM"
       },
       "artists": [
         {
@@ -604,13 +604,13 @@
           "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         },
         {
-          "name": "Ll\u0177r Williams",
-          "url": "https://open.spotify.com/artist/1hIMnRye51lifBy0mV2jdE"
+          "name": "Paul Lewis",
+          "url": "https://open.spotify.com/artist/4LYCuV8d6rylb6zjv2k03l"
         }
       ],
-      "duration_ms": 188666,
-      "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
-      "url": "https://open.spotify.com/track/2JIPjHPXrYqpcYN0izpNf4"
+      "duration_ms": 738560,
+      "name": "Fantasie in C Major, Op. 17: I. Durchaus phantastisch und leidenschaftlich vorzutragen - Im Legenden",
+      "url": "https://open.spotify.com/track/3VwB9QamFLmYcBTm7bNKOE"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -907,26 +907,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Miniatures",
-        "url": "https://open.spotify.com/album/2LhUNzatsH2xPnzbzkwdx8"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 149693,
-      "name": "Bunte Bl\u00e4tter, Op. 99: F\u00fcnf Albumbl\u00e4tter: No. 4",
-      "url": "https://open.spotify.com/track/0KxhcgyTMPW6GSUAPYR4T6"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Piano Pieces",
         "url": "https://open.spotify.com/album/3s7iUla63fkBt3XwwMUFc7"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 151000,
       "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo (Colla pi\u00f9 grande energia)",
       "url": "https://open.spotify.com/track/7Jbuk6fy23BwXeegTvsRcj"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Miniatures",
+        "url": "https://open.spotify.com/album/2LhUNzatsH2xPnzbzkwdx8"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 149693,
+      "name": "Bunte Bl\u00e4tter, Op. 99: F\u00fcnf Albumbl\u00e4tter: No. 4",
+      "url": "https://open.spotify.com/track/0KxhcgyTMPW6GSUAPYR4T6"
     },
     {
       "added_at": "2025-12-15 12:40:07",

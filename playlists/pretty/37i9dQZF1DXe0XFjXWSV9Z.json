@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 51874,
+  "num_followers": 51877,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
+        "name": "Historia natural",
+        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
+      },
+      "artists": [
+        {
+          "name": "Los Pira\u00f1as",
+          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
+        }
+      ],
+      "duration_ms": 223488,
+      "name": "Todos tenemos hogar",
+      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
         "name": "Agujas en el pecho",
         "url": "https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 320682,
       "name": "Agujas en el pecho",
       "url": "https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Historia natural",
-        "url": "https://open.spotify.com/album/6R4jGvcdmRiF8wL6yqp34N"
-      },
-      "artists": [
-        {
-          "name": "Los Pira\u00f1as",
-          "url": "https://open.spotify.com/artist/1TWdamQsAiOgB0szQsMSeq"
-        }
-      ],
-      "duration_ms": 223488,
-      "name": "Todos tenemos hogar",
-      "url": "https://open.spotify.com/track/0TS5b5bVfUtGi2VOimdjIH"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -331,22 +331,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Los Charapas de Oro",
-        "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 221393,
-      "name": "La Danza del Petrolero",
-      "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Harta",
         "url": "https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 185083,
       "name": "Harta",
       "url": "https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Los Charapas de Oro",
+        "url": "https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 221393,
+      "name": "La Danza del Petrolero",
+      "url": "https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
-      },
-      "artists": [
-        {
-          "name": "XIXA",
-          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
-        }
-      ],
-      "duration_ms": 206430,
-      "name": "Eclipse",
-      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Teniente Harina (Cumbia Manifiesto)",
         "url": "https://open.spotify.com/album/3DpKcXVDBjNm7QvhOUd6Wq"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 141882,
       "name": "Teniente Harina - Cumbia Manifiesto, Pt. 2",
       "url": "https://open.spotify.com/track/6U6gOELlEzLMDYcBY3FQFf"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d"
+      },
+      "artists": [
+        {
+          "name": "XIXA",
+          "url": "https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e"
+        }
+      ],
+      "duration_ms": 206430,
+      "name": "Eclipse",
+      "url": "https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -547,22 +547,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
-        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
-      },
-      "artists": [
-        {
-          "name": "Los Beta 5",
-          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
-        }
-      ],
-      "duration_ms": 169746,
-      "name": "El Bicho",
-      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Pa\u00f1uelo De Seda",
         "url": "https://open.spotify.com/album/3WEV4lzWJkdrWC13gGurcY"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 183103,
       "name": "Pa\u00f1uelo De Seda",
       "url": "https://open.spotify.com/track/3LWywxs7H28pgy0PCqIiPd"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Cumbias Chichadelicas: Peruvian Psychedelic Chicha",
+        "url": "https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo"
+      },
+      "artists": [
+        {
+          "name": "Los Beta 5",
+          "url": "https://open.spotify.com/artist/1pdQ0V3hvJIh1GXXUVT06O"
+        }
+      ],
+      "duration_ms": 169746,
+      "name": "El Bicho",
+      "url": "https://open.spotify.com/track/6tw3U6AdbTZvuuZpNqjLkW"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -855,22 +855,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cumbia del Metr\u00f3nomo",
-        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
-      },
-      "artists": [
-        {
-          "name": "Las Muiscas",
-          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
-        }
-      ],
-      "duration_ms": 304000,
-      "name": "Cumbia del Metr\u00f3nomo",
-      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Estraik Back",
         "url": "https://open.spotify.com/album/5RdZA6wy7EDXvrmAzdlUcY"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 231226,
       "name": "Perro Rabioso",
       "url": "https://open.spotify.com/track/1m3rYHSyIcwoeC3bKncV3D"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Cumbia del Metr\u00f3nomo",
+        "url": "https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac"
+      },
+      "artists": [
+        {
+          "name": "Las Muiscas",
+          "url": "https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige"
+        }
+      ],
+      "duration_ms": 304000,
+      "name": "Cumbia del Metr\u00f3nomo",
+      "url": "https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Amaru Tribe",
-        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
-      },
-      "artists": [
-        {
-          "name": "Amaru Tribe",
-          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
-        }
-      ],
-      "duration_ms": 401937,
-      "name": "Cumbia Ocea\u00cc\u0081nica",
-      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Mamarron, Vol.1",
         "url": "https://open.spotify.com/album/6MEwYeSu3l3mHBoJvtp2Zy"
       },
@@ -1275,6 +1259,38 @@
       "duration_ms": 320000,
       "name": "Dame Tu Wasap",
       "url": "https://open.spotify.com/track/7kdiYDV1BZrowuXi6eylIw"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Que Tumba",
+        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
+      },
+      "artists": [
+        {
+          "name": "Romperayo",
+          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
+        }
+      ],
+      "duration_ms": 196421,
+      "name": "Que Tumba",
+      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Amaru Tribe",
+        "url": "https://open.spotify.com/album/1rby9yHujnG7XFTYk867Pc"
+      },
+      "artists": [
+        {
+          "name": "Amaru Tribe",
+          "url": "https://open.spotify.com/artist/4WM3avQmPhr3SUGOkWRUIu"
+        }
+      ],
+      "duration_ms": 401937,
+      "name": "Cumbia Ocea\u00cc\u0081nica",
+      "url": "https://open.spotify.com/track/3cN6fppIE9XDq4iHZRnU1H"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1311,22 +1327,6 @@
       "duration_ms": 280821,
       "name": "Sonido Yoryi",
       "url": "https://open.spotify.com/track/6NOq1ssPUVhIOjhAPzaRxt"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
-        "name": "Que Tumba",
-        "url": "https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr"
-      },
-      "artists": [
-        {
-          "name": "Romperayo",
-          "url": "https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu"
-        }
-      ],
-      "duration_ms": 196421,
-      "name": "Que Tumba",
-      "url": "https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
-        "url": "https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00e1n Mayorga",
-          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
-        }
-      ],
-      "duration_ms": 234231,
-      "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
-      "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "Porrov\u00eda",
         "url": "https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 207000,
       "name": "Porrov\u00eda",
       "url": "https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
+        "url": "https://open.spotify.com/album/41OUIwrSh0rnfRHYVKUNdU"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e1n Mayorga",
+          "url": "https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui"
+        }
+      ],
+      "duration_ms": 234231,
+      "name": "Cuando tengo fiebre veo la cabeza de un leopardo magn\u00edfico",
+      "url": "https://open.spotify.com/track/5klF20vzC2HpEQbhn7CdKE"
     },
     {
       "added_at": "2025-05-19 17:05:09",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-05-19 17:05:09",
       "album": {
-        "name": "Virgen de Guadalupe",
-        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
-      },
-      "artists": [
-        {
-          "name": "Los Pe\u00f1aloza",
-          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
-        }
-      ],
-      "duration_ms": 222214,
-      "name": "Virgen de Guadalupe",
-      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
-    },
-    {
-      "added_at": "2025-05-19 17:05:09",
-      "album": {
         "name": "El Vacile Del T\u00edo",
         "url": "https://open.spotify.com/album/5kLj6KoLyNvJ8qNppOipmg"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 146496,
       "name": "El Vacile Del T\u00edo",
       "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
+    },
+    {
+      "added_at": "2025-05-19 17:05:09",
+      "album": {
+        "name": "Virgen de Guadalupe",
+        "url": "https://open.spotify.com/album/5l1BXk01Bi8lsWqvGvoH5D"
+      },
+      "artists": [
+        {
+          "name": "Los Pe\u00f1aloza",
+          "url": "https://open.spotify.com/artist/5HCLthv6IZFjkrhGMHKmli"
+        }
+      ],
+      "duration_ms": 222214,
+      "name": "Virgen de Guadalupe",
+      "url": "https://open.spotify.com/track/4DpBpURKuXKwWECFwMkr7T"
     },
     {
       "added_at": "2025-05-19 17:05:09",

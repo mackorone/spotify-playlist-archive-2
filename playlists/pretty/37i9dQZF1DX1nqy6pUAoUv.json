@@ -1,6 +1,6 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 170406,
+  "num_followers": 170402,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
+        "name": "L'air de rien",
+        "url": "https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9t\u00e9",
+          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Eleanor Rigby",
+      "url": "https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
         "name": "No Rain, No Rose (Vinyl)",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 313078,
       "name": "I Am California (feat. Gregory Alan Isakov)",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
-        "name": "L'air de rien",
-        "url": "https://open.spotify.com/album/4VVAoEKNpdeKpOoQE5NqSW"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9t\u00e9",
-          "url": "https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Eleanor Rigby",
-      "url": "https://open.spotify.com/track/1iaM7chr2wSLLZXg8UxFkG"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Songs of Our Native Daughters",
-        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
-      },
-      "artists": [
-        {
-          "name": "Our Native Daughters",
-          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
-        }
-      ],
-      "duration_ms": 282586,
-      "name": "Quasheba, Quasheba",
-      "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Gold Record",
         "url": "https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 325093,
       "name": "Pigeons",
       "url": "https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Songs of Our Native Daughters",
+        "url": "https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A"
+      },
+      "artists": [
+        {
+          "name": "Our Native Daughters",
+          "url": "https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW"
+        }
+      ],
+      "duration_ms": 282586,
+      "name": "Quasheba, Quasheba",
+      "url": "https://open.spotify.com/track/1Ksgx6hc1sXyIWmUMa2wKJ"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "Dressed in Roses",
         "url": "https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 206013,
       "name": "Barbaro",
       "url": "https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "Walk Into a Storm",
-        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
-      },
-      "artists": [
-        {
-          "name": "The Lone Bellow",
-          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
-        }
-      ],
-      "duration_ms": 306216,
-      "name": "Walk Into a Storm",
-      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
-    },
-    {
-      "added_at": "2025-09-02 20:08:27",
-      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF"
       },
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2025-09-02 20:08:27",
       "album": {
-        "name": "The Ocean",
-        "url": "https://open.spotify.com/album/3FM3jYla1quF55JdBUM7gc"
+        "name": "Walk Into a Storm",
+        "url": "https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp"
       },
       "artists": [
         {
-          "name": "Wallis Bird",
-          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
+          "name": "The Lone Bellow",
+          "url": "https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7"
         }
       ],
-      "duration_ms": 201294,
-      "name": "The Ocean",
-      "url": "https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG"
+      "duration_ms": 306216,
+      "name": "Walk Into a Storm",
+      "url": "https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4"
     },
     {
       "added_at": "2025-09-02 20:08:27",
@@ -1607,6 +1591,22 @@
       "duration_ms": 231263,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/0tTPqTWwd4lyd3HQUPIr8C"
+    },
+    {
+      "added_at": "2025-09-02 20:08:27",
+      "album": {
+        "name": "The Ocean",
+        "url": "https://open.spotify.com/album/3FM3jYla1quF55JdBUM7gc"
+      },
+      "artists": [
+        {
+          "name": "Wallis Bird",
+          "url": "https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX"
+        }
+      ],
+      "duration_ms": 201294,
+      "name": "The Ocean",
+      "url": "https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG"
     },
     {
       "added_at": "2025-09-02 20:08:27",

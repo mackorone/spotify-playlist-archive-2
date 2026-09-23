@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 641 likes - 260 songs - 13 hr 58 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 641 likes - 262 songs - 14 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -268,5 +268,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 258 | [Génies scientifique](https://open.spotify.com/track/6PzkOPBnlFRDAoOhIlYeF7) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Génies scientifique](https://open.spotify.com/album/2exEwBS6coFrHQ77YNA4my) | 3:07 |
 | 259 | [mademoiselle laure](https://open.spotify.com/track/1y9Jv6jp1fucNXYtlYhEXr) | [laurēm](https://open.spotify.com/artist/0bUuJyeXDY266ily5TLek6) | [mademoiselle laure](https://open.spotify.com/album/58ukECXLDXmAqcYdpjT6YE) | 6:11 |
 | 260 | [Solitude connectée](https://open.spotify.com/track/3J2o5tps0Ngst3K0C2syl9) | [Djeïkeï](https://open.spotify.com/artist/7iLafw9GtisYxELUXgUP4Q) | [Solitude connectée](https://open.spotify.com/album/63PR5fliqR9pEJHK96a4S5) | 3:45 |
+| 261 | [la pluie sur un sourire](https://open.spotify.com/track/7EPM28iVOgUqfDc8mcssz5) | [Indécis](https://open.spotify.com/artist/2Ob8Sw8cUGdNE1t1ZtFFDC) | [la pluie sur un sourire](https://open.spotify.com/album/62DYJajnXXjqOHP4oEzVWm) | 2:29 |
+| 262 | [On se sait](https://open.spotify.com/track/77tyR0eQEbNglQPA0OxTsS) | [JANEREVA](https://open.spotify.com/artist/7J2WoLXgGpYTjnKiIZCN44) | [On se sait](https://open.spotify.com/album/6bt1zfR2cvJFd2Ouv30iSF) | 3:46 |
 
-Snapshot ID: `AAABLq7DIAzlH+4QyHTGv+A9e5RK2BCx`
+Snapshot ID: `AAABMEeK74Kl1R+XBcITGCe3dwW1QZoH`

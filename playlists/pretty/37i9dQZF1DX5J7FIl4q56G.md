@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Vana
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,196 likes - 189 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,399 likes - 189 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

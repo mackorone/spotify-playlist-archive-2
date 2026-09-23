@@ -4,7 +4,7 @@
 
 > 
 
-599 songs - 1 day 15 hr 7 min
+600 songs - 1 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -549,6 +549,7 @@
 | [Until Next Time](https://open.spotify.com/track/2HDow2VcRndo1AiDBnU5fD) | [Nikitch](https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv) | [All the Best](https://open.spotify.com/album/4VExi6hqWD2Y81Hoc4DWPD) | 4:58 | 2025-10-15 |  |
 | [Uprising](https://open.spotify.com/track/2BYaYTs3EIWIo5Mh2qcYzH) | [Magic Sword](https://open.spotify.com/artist/6PzFRXjgGHQw6K4WeERMK1) | [Legend](https://open.spotify.com/album/4M3VsCT6C1ZKdqYjX3b42v) | 5:04 | 2020-03-11 |  |
 | [VALENTINO](https://open.spotify.com/track/0c7K73roy6RW4ebDkf4yGh) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [VALENTINO](https://open.spotify.com/album/2iPZkrN305Ow3wO0LL90Cg) | 2:59 | 2022-05-09 |  |
+| [Vampires \- Instrumental](https://open.spotify.com/track/1y4b0aF5jQaBUXLbMxVEPE) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer \(The Instrumentals\)](https://open.spotify.com/album/6Ps5rLCGCHuQvLXHnhsW9j) | 5:15 | 2026-09-22 |  |
 | [verdigris](https://open.spotify.com/track/1xRLIZjXpB1QhPs1uYvQAK) | [SERAPHINE NOIR](https://open.spotify.com/artist/2KD9QZ3u2oLgdRKsKVSW4I), [Mauricesax](https://open.spotify.com/artist/4YvnZ5cfeBuJeIHB0U3hJf) | [verdigris](https://open.spotify.com/album/2JhqZovg4706FwFQ8QnL8o) | 3:20 | 2025-10-15 |  |
 | [Vibsing Ting](https://open.spotify.com/track/0tC2QY7L5minvugmaG3yy6) | [TQD](https://open.spotify.com/artist/4VUDd8QHsZm8qSVUsAhCFG), [Royal\-T](https://open.spotify.com/artist/0Eob3oXbs3eny5yHhM2QeW), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [UKG](https://open.spotify.com/album/66tnj849qldME96ih4LbZo) | 5:18 | 2022-05-09 |  |
 | [VILLAIN](https://open.spotify.com/track/33CZravFcGBOwRw5dCOCel) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [ALL OUT](https://open.spotify.com/album/3wX4yrxMuHapSLvadxQkVV) | 3:19 | 2025-10-15 |  |

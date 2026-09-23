@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 873111,
+  "num_followers": 873165,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACQARUlxl7wCoK0nu4SVc7hTrBRW",
+  "snapshot_id": "AAAAAEoB8DCI8Fi8dgtBS+Rs5jBQVoHD",
   "tracks": [
     {
       "added_at": "2026-08-28 20:34:46",
@@ -337,20 +337,20 @@
       "url": "https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd"
     },
     {
-      "added_at": "2026-09-17 22:02:27",
+      "added_at": "2026-09-22 22:00:12",
       "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+        "name": "Dans l'ar\u00e8ne",
+        "url": "https://open.spotify.com/album/6YfcTA8389KZ0DTDjkioQK"
       },
       "artists": [
         {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
         }
       ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
+      "duration_ms": 256226,
+      "name": "D\u00e9stabilis\u00e9",
+      "url": "https://open.spotify.com/track/00qC62jeyVSYuNISq9mGmK"
     },
     {
       "added_at": "2026-07-09 22:01:34",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-09-17 22:02:27",
       "album": {
-        "name": "Stop The Wedding!",
-        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
       },
       "artists": [
         {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         }
       ],
-      "duration_ms": 198840,
-      "name": "Stop The Wedding!",
-      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
     },
     {
       "added_at": "2026-09-10 22:02:05",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL"
     },
     {
+      "added_at": "2026-09-17 22:02:27",
+      "album": {
+        "name": "Stop The Wedding!",
+        "url": "https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Stop The Wedding!",
+      "url": "https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T"
+    },
+    {
       "added_at": "2026-07-27 06:00:15",
       "album": {
         "name": "RMB (Ring My Bell)",
@@ -711,22 +727,6 @@
       "duration_ms": 174222,
       "name": "RMB (Ring My Bell)",
       "url": "https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS"
-    },
-    {
-      "added_at": "2026-06-09 14:17:45",
-      "album": {
-        "name": "Num\u00e9ro d'\u00e9crou",
-        "url": "https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf"
-      },
-      "artists": [
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 141266,
-      "name": "PARLU",
-      "url": "https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA"
     },
     {
       "added_at": "2026-08-19 17:22:11",

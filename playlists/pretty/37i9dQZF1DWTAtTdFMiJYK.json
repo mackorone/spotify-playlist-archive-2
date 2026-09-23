@@ -1,6 +1,6 @@
 {
   "description": "Most exciting artists from the Indian Indie scene. Cover: OutStation",
-  "num_followers": 202928,
+  "num_followers": 203014,
   "original_name": "RADAR India",
   "owner": {
     "name": "Spotify",
@@ -915,8 +915,8 @@
     {
       "added_at": "2026-09-17 11:15:34",
       "album": {
-        "name": "Aaja Re Piya",
-        "url": "https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf"
+        "name": "Jee Na Paaye",
+        "url": "https://open.spotify.com/album/7ddSBdRGiFibkVZsqEztuL"
       },
       "artists": [
         {
@@ -924,13 +924,17 @@
           "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
         },
         {
-          "name": "Khushi Pareek",
-          "url": "https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8"
+          "name": "Priyankit Jaiswal",
+          "url": "https://open.spotify.com/artist/2m2eci1WqPBHVqrHyrpCsP"
+        },
+        {
+          "name": "Sagnik Kolay",
+          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
         }
       ],
-      "duration_ms": 154782,
-      "name": "Aaja Re Piya",
-      "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
+      "duration_ms": 232918,
+      "name": "Jee Na Paaye",
+      "url": "https://open.spotify.com/track/1IGvo9KLLTHiW35zisOi8I"
     },
     {
       "added_at": "2026-09-17 11:15:34",
@@ -1019,8 +1023,8 @@
     {
       "added_at": "2026-09-17 11:15:34",
       "album": {
-        "name": "Jee Na Paaye",
-        "url": "https://open.spotify.com/album/7ddSBdRGiFibkVZsqEztuL"
+        "name": "Aaja Re Piya",
+        "url": "https://open.spotify.com/album/29ESWyP2Waa639JBQSwkxf"
       },
       "artists": [
         {
@@ -1028,17 +1032,13 @@
           "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
         },
         {
-          "name": "Priyankit Jaiswal",
-          "url": "https://open.spotify.com/artist/2m2eci1WqPBHVqrHyrpCsP"
-        },
-        {
-          "name": "Sagnik Kolay",
-          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
+          "name": "Khushi Pareek",
+          "url": "https://open.spotify.com/artist/4XklST8Nob4VrG6o933En8"
         }
       ],
-      "duration_ms": 232918,
-      "name": "Jee Na Paaye",
-      "url": "https://open.spotify.com/track/1IGvo9KLLTHiW35zisOi8I"
+      "duration_ms": 154782,
+      "name": "Aaja Re Piya",
+      "url": "https://open.spotify.com/track/1jk5EKgpuQCMRZ5PTO7MFO"
     },
     {
       "added_at": "2026-09-17 11:15:34",
@@ -1075,30 +1075,6 @@
       "duration_ms": 125714,
       "name": "NYC",
       "url": "https://open.spotify.com/track/6CXXFkeXci75sGBieR2LKA"
-    },
-    {
-      "added_at": "2026-09-17 11:15:34",
-      "album": {
-        "name": "Jaane Bhi Do",
-        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
-      },
-      "artists": [
-        {
-          "name": "Khwaab",
-          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
-        },
-        {
-          "name": "Pavithra Chari",
-          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
-        },
-        {
-          "name": "Rahul Shah",
-          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
-        }
-      ],
-      "duration_ms": 170890,
-      "name": "Jaane Bhi Do",
-      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
     },
     {
       "added_at": "2026-09-17 11:15:34",
@@ -1147,6 +1123,30 @@
       "duration_ms": 138600,
       "name": "Naina",
       "url": "https://open.spotify.com/track/4K0TR5DK2XKXuHdNmSFp2e"
+    },
+    {
+      "added_at": "2026-09-17 11:15:34",
+      "album": {
+        "name": "Jaane Bhi Do",
+        "url": "https://open.spotify.com/album/4QtXk2lAPdBVQhTW4H62TX"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Pavithra Chari",
+          "url": "https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG"
+        },
+        {
+          "name": "Rahul Shah",
+          "url": "https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu"
+        }
+      ],
+      "duration_ms": 170890,
+      "name": "Jaane Bhi Do",
+      "url": "https://open.spotify.com/track/3kjUjZmSctzPB5IpsnYhDC"
     },
     {
       "added_at": "2026-09-17 11:15:34",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2026-09-17 11:15:34",
       "album": {
+        "name": "Jhumki",
+        "url": "https://open.spotify.com/album/6uqr7Jx77Vttq72IxpOO3B"
+      },
+      "artists": [
+        {
+          "name": "Tanmay Gururaj",
+          "url": "https://open.spotify.com/artist/2vEgbajKankISg2uwrw8w5"
+        },
+        {
+          "name": "Sachit Clare",
+          "url": "https://open.spotify.com/artist/3fPQPuqoKfqCZXTGQwP9kI"
+        }
+      ],
+      "duration_ms": 168191,
+      "name": "Jhumki",
+      "url": "https://open.spotify.com/track/02TtzIxJej92ghL8hFJt6h"
+    },
+    {
+      "added_at": "2026-09-17 11:15:34",
+      "album": {
         "name": "Achaar Samachaar",
         "url": "https://open.spotify.com/album/6j7mJeoD9OjVipnxoUnWyR"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 214945,
       "name": "Achaar Samachaar",
       "url": "https://open.spotify.com/track/0igKMM5Qi3KBog0Rv4uoDt"
-    },
-    {
-      "added_at": "2026-09-17 11:15:34",
-      "album": {
-        "name": "Jhumki",
-        "url": "https://open.spotify.com/album/6uqr7Jx77Vttq72IxpOO3B"
-      },
-      "artists": [
-        {
-          "name": "Tanmay Gururaj",
-          "url": "https://open.spotify.com/artist/2vEgbajKankISg2uwrw8w5"
-        },
-        {
-          "name": "Sachit Clare",
-          "url": "https://open.spotify.com/artist/3fPQPuqoKfqCZXTGQwP9kI"
-        }
-      ],
-      "duration_ms": 168191,
-      "name": "Jhumki",
-      "url": "https://open.spotify.com/track/02TtzIxJej92ghL8hFJt6h"
     },
     {
       "added_at": "2026-09-17 11:15:34",

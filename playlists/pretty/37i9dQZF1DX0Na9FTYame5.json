@@ -1,12 +1,12 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 569781,
+  "num_followers": 569766,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMF6TTKI4iNFSgduIPVB6D5JsdTh",
+  "snapshot_id": "AAAAAJgFH53Z3pkT118cL3xt24NBXHVL",
   "tracks": [
     {
       "added_at": "2026-09-14 09:21:00",
@@ -543,6 +543,26 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
+        "name": "Keine Homies",
+        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        },
+        {
+          "name": "Maxe",
+          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+        }
+      ],
+      "duration_ms": 122241,
+      "name": "Keine Homies",
+      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
         "name": "tempo",
         "url": "https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7"
       },
@@ -567,22 +587,18 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Keine Homies",
-        "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
+        "name": "6 Kugeln",
+        "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
       },
       "artists": [
         {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        },
-        {
-          "name": "Maxe",
-          "url": "https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm"
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
         }
       ],
-      "duration_ms": 122241,
-      "name": "Keine Homies",
-      "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+      "duration_ms": 184877,
+      "name": "6 Kugeln",
+      "url": "https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -607,18 +623,34 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "6 Kugeln",
-        "url": "https://open.spotify.com/album/1oUIROs1hGFj45271O2h0T"
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 184877,
-      "name": "6 Kugeln",
-      "url": "https://open.spotify.com/track/7bFQISsrghalrVI3BbPXs2"
+      "duration_ms": 142153,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "Anderer Mann",
+        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
+      },
+      "artists": [
+        {
+          "name": "Milano",
+          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
+        }
+      ],
+      "duration_ms": 135294,
+      "name": "Anderer Mann",
+      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -643,22 +675,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Anderer Mann",
-        "url": "https://open.spotify.com/album/4gI2vFMDTWeR7awhqWIrMg"
-      },
-      "artists": [
-        {
-          "name": "Milano",
-          "url": "https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm"
-        }
-      ],
-      "duration_ms": 135294,
-      "name": "Anderer Mann",
-      "url": "https://open.spotify.com/track/2aDAIq3vLuLFUUTOy1aZqY"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "21 Gramm",
         "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 181778,
       "name": "Ein Lied f\u00fcr dich",
       "url": "https://open.spotify.com/track/3awCCyQfwNbQdf3lL5EL7C"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
-        "name": "Marbella",
-        "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 142153,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/3kUkQYLPgw2aqBMcilZ4kt"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -799,22 +799,18 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Gl\u00fcck",
-        "url": "https://open.spotify.com/album/4Mgv8693VB0RY2REV6jnOO"
+        "name": "MOST VALUABLE PLAYA",
+        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
       },
       "artists": [
         {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
         }
       ],
-      "duration_ms": 164985,
-      "name": "Gl\u00fcck",
-      "url": "https://open.spotify.com/track/7j1OD1NADcP0m05LpZvBrl"
+      "duration_ms": 140235,
+      "name": "Rollercoaster",
+      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -859,22 +855,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "MOST VALUABLE PLAYA",
-        "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 140235,
-      "name": "Rollercoaster",
-      "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "L\u00e4cheln (Wenn ich wein)",
         "url": "https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 129705,
       "name": "L\u00e4cheln (Wenn ich wein)",
       "url": "https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "Gl\u00fcck",
+        "url": "https://open.spotify.com/album/4Mgv8693VB0RY2REV6jnOO"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 164985,
+      "name": "Gl\u00fcck",
+      "url": "https://open.spotify.com/track/7j1OD1NADcP0m05LpZvBrl"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
+        "name": "Wenn der Himmel weint",
+        "url": "https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 128641,
+      "name": "Wenn der Himmel weint",
+      "url": "https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
         "name": "wie du manchmal fehlst",
         "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
       },
@@ -1263,6 +1283,22 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 154776,
+      "name": "Blessed",
+      "url": "https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
         "name": "glaub dir nicht",
         "url": "https://open.spotify.com/album/5Kvs1nas4NfDpR9YFCyL0c"
       },
@@ -1279,42 +1315,6 @@
       "duration_ms": 135600,
       "name": "glaub dir nicht",
       "url": "https://open.spotify.com/track/0Px456UcSYPzNpL2R0uzwN"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
-        "name": "Wenn der Himmel weint",
-        "url": "https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 128641,
-      "name": "Wenn der Himmel weint",
-      "url": "https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/1fu1KcaqGJUP8BjVLtQtC7"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 154776,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/32bZCHZS1dx4Tab16TVy2B"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Meilen",
-        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
-      },
-      "artists": [
-        {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
-        }
-      ],
-      "duration_ms": 139920,
-      "name": "Meilen",
-      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "NICHT PERFEKT",
         "url": "https://open.spotify.com/album/2iSwZs9gVVvnEo9ms2EqH8"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 147895,
       "name": "NICHT PERFEKT",
       "url": "https://open.spotify.com/track/6vDOXReG8oIfhsrdKT6eQN"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "Meilen",
+        "url": "https://open.spotify.com/album/04I4jarsRUw4i2yM1dFIR0"
+      },
+      "artists": [
+        {
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7g8mQetiw4nzFyy0i9RTvf"
+        }
+      ],
+      "duration_ms": 139920,
+      "name": "Meilen",
+      "url": "https://open.spotify.com/track/5pfCq9M2nEztdSLpEwhgwC"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1519,6 +1519,26 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
+        "name": "Sterne (feat. Bozza)",
+        "url": "https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        },
+        {
+          "name": "Bozza",
+          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
+        }
+      ],
+      "duration_ms": 236056,
+      "name": "Sterne (feat. Bozza)",
+      "url": "https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
         "name": "Was du nicht siehst (feat. ela.)",
         "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
       },
@@ -1567,26 +1587,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Sterne (feat. Bozza)",
-        "url": "https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        },
-        {
-          "name": "Bozza",
-          "url": "https://open.spotify.com/artist/4WoSAKuoaPxrbwp3Y1PvKb"
-        }
-      ],
-      "duration_ms": 236056,
-      "name": "Sterne (feat. Bozza)",
-      "url": "https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Erkl\u00e4re mir die Liebe",
         "url": "https://open.spotify.com/album/54vtpKW0Li3YhiNi8ev1XX"
       },
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "Alice Stark",
-          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Regentage",
         "url": "https://open.spotify.com/album/0PFt6WX6A7W0MIJsBtK0b0"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 178217,
       "name": "Regentage",
       "url": "https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "Alice Stark",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "TIEFPUNKT",
-        "url": "https://open.spotify.com/album/5ePq52Y4bcPnNpe0P3j5RM"
-      },
-      "artists": [
-        {
-          "name": "HoodBlaq",
-          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
-        },
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "TIEFPUNKT",
-      "url": "https://open.spotify.com/track/58O70zSrgckp8Kli3kSqXn"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Simpel",
         "url": "https://open.spotify.com/album/6wDfuAJ9aaOhaATIhnsQpL"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 159500,
       "name": "WENN DU MICH SIEHST",
       "url": "https://open.spotify.com/track/6cT1JGlT1HZaRZLzq3iHjA"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "TIEFPUNKT",
+        "url": "https://open.spotify.com/album/5ePq52Y4bcPnNpe0P3j5RM"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "TIEFPUNKT",
+      "url": "https://open.spotify.com/track/58O70zSrgckp8Kli3kSqXn"
     },
     {
       "added_at": "2026-09-14 09:21:00",

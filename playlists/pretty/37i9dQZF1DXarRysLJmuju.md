@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today’s pop, plugged into the culture w/ Miley
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,103 likes - 98 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,026 likes - 98 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

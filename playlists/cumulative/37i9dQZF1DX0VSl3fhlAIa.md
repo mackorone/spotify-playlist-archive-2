@@ -4,7 +4,7 @@
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-59 songs - 4 hr 14 min
+60 songs - 4 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [no pride](https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [When was that](https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB) | 2:46 | 2025-09-30 |  |
 | [Over The Moon \- feat\. Sagiri Sól](https://open.spotify.com/track/2WPC6nZTTdbDJ5J2KMkhRN) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Juliet is the moon](https://open.spotify.com/album/4PeztBLuZAi4GvZqQXNM19) | 3:23 | 2025-09-30 |  |
 | [OVERHEAT](https://open.spotify.com/track/0Bm1E39pljqvab5us0ucUO) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w), [Shurkn Pap](https://open.spotify.com/artist/1LFHjuuofxqkQL8vrJtpFB) | [OVERHEAT](https://open.spotify.com/album/5EbV1i5shtromh6PVT61qs) | 3:22 | 2026-08-30 |  |
-| [Rock the Boat](https://open.spotify.com/track/13rd7wgmULlHg0EuTwOiTc) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Rock the Boat](https://open.spotify.com/album/6Rr6bZEFB4VZDedY7jLVrR) | 4:28 | 2026-07-18 |  |
+| [Rock the Boat](https://open.spotify.com/track/13rd7wgmULlHg0EuTwOiTc) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Rock the Boat](https://open.spotify.com/album/6Rr6bZEFB4VZDedY7jLVrR) | 4:28 | 2026-07-18 | 2026-09-23 |
 | [Romance](https://open.spotify.com/track/75OqiU9QFLNeLTLvOCudWr) | [Tokyo Gal](https://open.spotify.com/artist/4Og0GstkKZkmI5BkkntBwX) | [Romance](https://open.spotify.com/album/6SUTDYK3cMr9mFR82UU5vG) | 2:38 | 2025-09-30 |  |
 | [Safe Place](https://open.spotify.com/track/42S0Kub6ebpzcpLwDFgl6M) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Safe Place](https://open.spotify.com/album/3SQngxWaRDieH1AbZdkA4A) | 3:29 | 2026-06-12 | 2026-09-08 |
 | [Shadow](https://open.spotify.com/track/0pVxvSry724FChsTsP6ZSr) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [Shadow](https://open.spotify.com/album/1qmGrgbeAmlxOgM8Ebuxd8) | 3:45 | 2026-04-27 |  |
@@ -58,6 +58,7 @@
 | [The Joker](https://open.spotify.com/track/7gJ3QOh4SVrGXaVL5lFh3w) | [SAKURA](https://open.spotify.com/artist/4CEz4WJQ9VkNsa5JdXRE8q) | [daylight](https://open.spotify.com/album/1ns1zXYtubxZhrV5xAjC9I) | 4:11 | 2025-09-30 |  |
 | [the Sound of Carnival](https://open.spotify.com/track/31d4AsUA23WddpidqaWsVh) | [Toshinobu Kubota](https://open.spotify.com/artist/45JvI0rkPkFFL14Cj0eput) | [As One](https://open.spotify.com/album/0g0RRKsclwRPg2rCjfbFIS) | 4:43 | 2025-09-30 |  |
 | [TRUE LIES](https://open.spotify.com/track/2QVQwcNEvfBIPzji3uSeqP) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [MUSIC GREETINGS VOLUME ONE](https://open.spotify.com/album/4lNYjjTPXpjVNGTvsweTyb) | 5:27 | 2025-09-30 |  |
+| [two thirty \- feat\. Jua](https://open.spotify.com/track/6uJysOI5hXQP6WmTs9rjUK) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9), [Jua](https://open.spotify.com/artist/4DC1obPJLR8W43ruJxQ0Rk) | [two thirty \(feat\. Jua\)](https://open.spotify.com/album/6XZdMscKy5HYIZpuRbJu61) | 2:38 | 2026-09-22 |  |
 | [Wonderland](https://open.spotify.com/track/3DMz5XiVasCKSHXgYrSc9i) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Shade](https://open.spotify.com/album/54Xk8agoEmBJtxl0qMwixB) | 3:44 | 2025-09-30 |  |
 | [YOU NEVER SAY THAT](https://open.spotify.com/track/7zHvV0uRh49mI9qm3yywus) | [Arche](https://open.spotify.com/artist/3jDlhNVDWv8mLSdTekLgZI) | [YOU NEVER SAY THAT](https://open.spotify.com/album/5EjcsYJZgSh5OjOgKD6RNK) | 3:14 | 2025-09-30 |  |
 | [リズム](https://open.spotify.com/track/6unVdOe8fsmhMsLsZOXV3q) | [UA](https://open.spotify.com/artist/43XHGbWVe5qKVCuI0HMep0) | [11](https://open.spotify.com/album/6jKrKuTzfnd3i65YkCskia) | 5:52 | 2025-09-30 |  |

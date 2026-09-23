@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-595 songs - 1 day 0 hr 49 min
+597 songs - 1 day 0 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Afternoon coffee](https://open.spotify.com/track/3KXDFfFbo3U3DW4pTmiKNp) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Lonely Girl](https://open.spotify.com/album/4ni82roXtsWZccH6LDOAVO) | 2:27 | 2022-07-28 | 2022-08-05 |
 | [afternoon shower](https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [afternoon shower](https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1) | 2:07 | 2021-09-12 | 2025-05-13 |
 | [Again](https://open.spotify.com/track/24Jk4wYlLRXI9TUMdkHoMN) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [Penthouse](https://open.spotify.com/album/5MWhs2N3eO78ppIYmRUzmH) | 2:23 | 2019-05-26\* | 2020-03-27 |
+| [Aioi](https://open.spotify.com/track/7EjgI1VC27npyNlZvZMagW) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [Aioi](https://open.spotify.com/album/3Nmno9l7cr2Z4qoHQnqAbG) | 2:36 | 2026-09-22 |  |
 | [Algebreak](https://open.spotify.com/track/24zpLtGPVHOFQ6xyvi95hj) | [Allmos](https://open.spotify.com/artist/4caJwBnZ75geSKhAhqFXDE) | [Mostly Instrumentals LP](https://open.spotify.com/album/5IofXcZhek4Whxlo4r7wuk) | 2:05 | 2023-02-02 | 2024-06-03 |
 | [All Night](https://open.spotify.com/track/5eK7UkpC3nJaB5SCRUSF9K) | [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [SCRATCH TAPE 1](https://open.spotify.com/album/2zbezmLCnOolWaMhr7N3sK) | 3:14 | 2024-08-03 | 2024-10-11 |
 | [Along the Canal](https://open.spotify.com/track/6G6dZWtU0skdMZtfZVpoKW) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [Daniele Raciti](https://open.spotify.com/artist/2tjVTUk1L6sZnI8gUcCInM) | [Along the Canal](https://open.spotify.com/album/4CSw0dTBvn79JwEFuLJoPe) | 2:45 | 2021-07-04 | 2021-09-08 |
@@ -121,6 +122,7 @@
 | [Dance of Love](https://open.spotify.com/track/5ntW6ojguEtt0d9zMOMfLr) | [Murmur](https://open.spotify.com/artist/21h7fpqGaOoiOShHsTbYhX), [Akasha](https://open.spotify.com/artist/5oFsjDzNu5UwbtKnGXKacN), [Natsu](https://open.spotify.com/artist/6dGOlA4GtIDnOgbmT2Q8Xq) | [Reminders](https://open.spotify.com/album/0ybTK4uEYcnk3g5LPAILnN) | 2:21 | 2021-07-22 | 2025-10-11 |
 | [Day 12](https://open.spotify.com/track/51Dae1jpRALuKCnR9LofRZ) | [Chris Mazuera](https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE) | [Dozing](https://open.spotify.com/album/7bXkKZXR1ydKXkIdish6Hx) | 2:02 | 2020-06-19 | 2021-08-31 |
 | [day dreamin'](https://open.spotify.com/track/3H44wDdlcJr8hnJ3DmilcP) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB) | [In My Dreams](https://open.spotify.com/album/7qMzOdCIG9I5FfRZajCytg) | 1:52 | 2019-05-26\* | 2022-04-20 |
+| [Day Off](https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Day Off](https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4) | 3:04 | 2026-09-22 |  |
 | [Dedicate](https://open.spotify.com/track/0ZqZasY1NcovlaPFS9T8Y0) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Dedicate](https://open.spotify.com/album/1r8ZqsMWq8Z0ENt7NgLZE0) | 2:47 | 2021-05-07 | 2022-07-29 |
 | [Demons \- Instrumental](https://open.spotify.com/track/2Z4SmUaikRbDi5TLuVWzxx) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [2010 Mixtape \(Instrumentals\)](https://open.spotify.com/album/21jms5cANK6iBdNoGrbY71) | 2:23 | 2024-08-29 | 2024-10-24 |
 | [Dersen Cafe](https://open.spotify.com/track/1GhtPXeqONUwX91jVh3Obu) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Dersen Cafe & Give Nothing](https://open.spotify.com/album/4YU2bHRmTiy9fSI6arBkYH) | 2:04 | 2025-09-04 |  |
@@ -391,7 +393,7 @@
 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 | 2020-06-19 | 2026-08-20 |
 | [Papayaberry](https://open.spotify.com/track/2wWlTrI1hF4MTf8fS9dAQb) | [Mndsgn](https://open.spotify.com/artist/4GcpBLY8g8NrmimWbssM26) | [Snaxx](https://open.spotify.com/album/55cgr9FoU9jQ56xRtOQCXI) | 1:26 | 2019-06-14 | 2021-12-20 |
 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 | 2023-05-25 |  |
-| [pastels](https://open.spotify.com/track/2CIR0nS7E3kJxim6o4rmK0) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [pastels](https://open.spotify.com/album/4eiL6uYYp4Nn2IjLgR9usG) | 2:08 | 2026-08-07 |  |
+| [pastels](https://open.spotify.com/track/2CIR0nS7E3kJxim6o4rmK0) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [pastels](https://open.spotify.com/album/4eiL6uYYp4Nn2IjLgR9usG) | 2:08 | 2026-08-07 | 2026-09-23 |
 | [Perfect Your Own](https://open.spotify.com/track/0ehy55QZL3X2oHqbmJwsbB) | [Stan Forebee](https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez) | [Jazz Sessions](https://open.spotify.com/album/7HhTefYFbHAb6UPCh1GPJo) | 3:07 | 2019-05-26\* | 2020-01-14 |
 | [Pico](https://open.spotify.com/track/2FbsTN9G2FaPR3VathE4Hr) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Pico](https://open.spotify.com/album/0KShUCdCUmicwnDk2WQBZY) | 1:36 | 2019-05-26\* | 2020-03-27 |
 | [piece of you](https://open.spotify.com/track/07a7G5dHYhnqK5pqICfzV2) | [Jadu Jadu](https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc), [TAMBALA](https://open.spotify.com/artist/2ypQgMFGak7MXlYK0RyO1F) | [piece of you](https://open.spotify.com/album/1yhEihD2M0bqImpJ64hiUW) | 2:49 | 2022-08-04 | 2022-10-23 |
@@ -599,7 +601,7 @@
 | [ZENSORIUM](https://open.spotify.com/track/5Y5g5KeujSAI3CTpLw9ff8) | [Nujakasha](https://open.spotify.com/artist/6cyDwv8RqKLeSjs5IKPJnI) | [ZENSORIUM](https://open.spotify.com/album/54vkQDOsaTJXoRMhB8nApP) | 1:52 | 2026-03-09 |  |
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-07-18 | 2026-01-15 |
 | [Zimzilla](https://open.spotify.com/track/5KBh3fUwv6xrDFO6wZzmFI) | [Mad Q](https://open.spotify.com/artist/7IxHBmCE0jN2vhoLKQSZR6) | [Zimzilla](https://open.spotify.com/album/5LVHMBwC8BMucytnEejcTj) | 3:28 | 2019-05-26\* | 2019-08-13 |
-| [アルゴリズム \(Algorithm\)](https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [アルゴリズム \(Algorithm\)](https://open.spotify.com/album/3KaAWv5vYooRAcYWwLc5UY) | 3:27 | 2026-04-08 |  |
+| [アルゴリズム \(Algorithm\)](https://open.spotify.com/track/5EO2F73atj1IigcN6nPGMv) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [アルゴリズム \(Algorithm\)](https://open.spotify.com/album/3KaAWv5vYooRAcYWwLc5UY) | 3:27 | 2026-04-08 | 2026-09-23 |
 | [夜桜](https://open.spotify.com/track/5p0XdPnjJGBe3939Ythxil) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夜桜](https://open.spotify.com/album/0sZamxxWUgGiRSDf98w8KE) | 2:06 | 2022-04-07 | 2022-07-28 |
 | [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-10 | 2022-07-29 |
 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 | 2025-07-11 |  |

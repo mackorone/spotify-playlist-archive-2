@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Symphonic and power metal at its most epic\. Cover: Beast In Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 824,663 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,699 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 34 | [82nd All the Way](https://open.spotify.com/track/1GK39qL3zPowvvb0UpWGyQ) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [82nd All the Way](https://open.spotify.com/album/3HCUmVHEIhTnDdQjdf60gb) | 3:21 |
 | 35 | [Sinners of the Seven Seas](https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Sinners of the Seven Seas](https://open.spotify.com/album/1kKbGYBoupZiV7HVOFymvP) | 3:00 |
 | 36 | [Wicked Game](https://open.spotify.com/track/2GSGkiNYLUL74QxQULIVU7) | [Mortemia](https://open.spotify.com/artist/5RUUgjv8Q0H2osxIC3AYBi), [Leah](https://open.spotify.com/artist/5JrVokmullzV1zq8M8iP69) | [Wicked Game](https://open.spotify.com/album/53MGY3VEcybgWzpB9aYEUP) | 4:42 |
-| 37 | [Eclipse](https://open.spotify.com/track/2nSbrtuPsawg8s64WB740M) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Eclipse](https://open.spotify.com/album/064UVjs0ry86dP8JLssD45) | 5:16 |
-| 38 | [Liars Linger](https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Liars Linger](https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B) | 6:07 |
+| 37 | [Liars Linger](https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Liars Linger](https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B) | 6:07 |
+| 38 | [Eclipse](https://open.spotify.com/track/2nSbrtuPsawg8s64WB740M) | [Xandria](https://open.spotify.com/artist/1jzIEzXVJ4p1kFDmio6LEL) | [Eclipse](https://open.spotify.com/album/064UVjs0ry86dP8JLssD45) | 5:16 |
 | 39 | [Got The Time](https://open.spotify.com/track/0cuT5kNhxJT4IQ1bR521zr) | [Korpiklaani](https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy) | [Got The Time](https://open.spotify.com/album/0ZdAro7zVwHX1rwTN22EDz) | 2:31 |
 | 40 | [Freedom Concept](https://open.spotify.com/track/3g8dRL2mQOgqUZVdK4Ba6O) | [Sonata Arctica](https://open.spotify.com/artist/5YeoQ1L71cXDMpSpqxOjfH) | [Freedom Concept](https://open.spotify.com/album/3a67wBiTMAQbtz4MtJTqqX) | 4:13 |
 | 41 | [Last Goodbye](https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq) | [Battle Beast](https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize) | [Last Goodbye](https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB) | 3:32 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 49 | [The Legend Of Achilles](https://open.spotify.com/track/3EshPU6k9poWWUY38XKfEx) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Legend Of Achilles](https://open.spotify.com/album/7mKISLZO6I96vXlTSL2Mnw) | 4:27 |
 | 50 | [The Tower: Lean Into Fear](https://open.spotify.com/track/1P4Iv9OYmZ8BEhjFquGHML) | [Temperance](https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J) | [The Tower: Lean Into Fear](https://open.spotify.com/album/2UAeb1Fo9EqKHbHxRRZ85v) | 3:21 |
 | 51 | [Call My Name](https://open.spotify.com/track/0dHrBbmoftbULEKvNawKSe) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Call My Name](https://open.spotify.com/album/4OSwoYZStFewvoB9RYM3XO) | 4:21 |
-| 52 | [Darkness](https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN) | [Ignea](https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM) | [Darkness](https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda) | 5:20 |
-| 53 | [I Will Die In It](https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [I Will Die In It](https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV) | 3:44 |
+| 52 | [I Will Die In It](https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [I Will Die In It](https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV) | 3:44 |
+| 53 | [Darkness](https://open.spotify.com/track/4fi9x5DYfP6HPvV72LMjlN) | [Ignea](https://open.spotify.com/artist/7E7V95LId9MPJ6anIK1qrM) | [Darkness](https://open.spotify.com/album/0w2xkA4lGgkfjcDjbw4zda) | 5:20 |
 | 54 | [Apollo Never Stopped Chasing Daphne](https://open.spotify.com/track/0jp5NEjtIbpMyrb2cIK6Kb) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Our Long Cursed Sleep](https://open.spotify.com/album/6u41SbykBZcOT0YvyEKjxj) | 3:43 |
 | 55 | [Natural Born Killer](https://open.spotify.com/track/6zF7mIV7Yx74FALTZh3UMZ) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [Natural Born Killer](https://open.spotify.com/album/44aKRAvfkITepinjdP1jVb) | 3:25 |
 | 56 | [Moth to a Flame](https://open.spotify.com/track/3nRzfRi5pdXe2aA9rbE0S8) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:07 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 60 | [Armada](https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4) | [Visions of Atlantis](https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x) | [Armada](https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr) | 4:03 |
 | 61 | [A Thousand Anemones](https://open.spotify.com/track/4Zzx5Xt2ud4nIcU6egxJ7a) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [A Thousand Anemones](https://open.spotify.com/album/7LBjy0QhBtwr65cxFfo6JJ) | 4:13 |
 | 62 | [Reincarnation](https://open.spotify.com/track/3scNYs59MN2puKtlwnzq9Z) | [Beyond The Black](https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf) | [Reincarnation](https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ) | 4:09 |
-| 63 | [Shorelines](https://open.spotify.com/track/0sez9ahsBLUMI3VNXtUJgq) | [Triosphere](https://open.spotify.com/artist/0hk3NBCfedrc9J4qj27UxG) | [Oceans Above, Stars Below](https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ) | 4:41 |
-| 64 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
+| 63 | [The Hanging Tree](https://open.spotify.com/track/2dZaznMM1CnsCcRprcYs5Z) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [The Hanging Tree](https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG) | 3:46 |
+| 64 | [Shorelines](https://open.spotify.com/track/0sez9ahsBLUMI3VNXtUJgq) | [Triosphere](https://open.spotify.com/artist/0hk3NBCfedrc9J4qj27UxG) | [Oceans Above, Stars Below](https://open.spotify.com/album/6mgHyrEwwUUaXQ9Fk5vdWQ) | 4:41 |
 | 65 | [Silence Like The Grave](https://open.spotify.com/track/6E4BYC297NbL2cx90DRmId) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Silence Like The Grave](https://open.spotify.com/album/6OEsAy6XJxHpCINQj8bIaH) | 4:47 |
 | 66 | [Cold Heavens](https://open.spotify.com/track/0kQoTeOEL9Zy8SIORD8rB4) | [Draconian](https://open.spotify.com/artist/1TX9g1uSl0B0DQIE9lBqmU) | [Cold Heavens](https://open.spotify.com/album/1Zg2EGTHiMKrL0A8weyNqz) | 5:13 |
 | 67 | [One Of Us Will Be Next](https://open.spotify.com/track/35bKgNh5mdHvtOsHUBHgEW) | [Lord Of The Lost](https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI) | [One Of Us Will Be Next](https://open.spotify.com/album/3CZHmf17F6Q58OMiMaA2u9) | 4:21 |
@@ -86,13 +86,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 76 | [Wayfarer's Reverie](https://open.spotify.com/track/2hCqhR7bYBRRBeHHGIh657) | [Crystal Gates](https://open.spotify.com/artist/250Dng1E4jK89iWvEwI24u) | [East of the Sun](https://open.spotify.com/album/23k3kBUenvakhulKLOrcE0) | 4:50 |
 | 77 | [Hear My Voice](https://open.spotify.com/track/6A9dQfqxtX9R4eBQ2DODW5) | [Alterium](https://open.spotify.com/artist/5oh1CpxnZIlp8WvW9769nV) | [Hear My Voice](https://open.spotify.com/album/4Npj8uxMIwwdrIUe5k91qV) | 3:18 |
 | 78 | [World on Fire](https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [World on Fire](https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj) | 4:26 |
-| 79 | [We Come Alive](https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [We Come Alive](https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI) | 3:01 |
-| 80 | [The Rune \(2025\)](https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S) | [Týr](https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa) | [The Rune \(2025\)](https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd) | 6:46 |
+| 79 | [The Rune \(2025\)](https://open.spotify.com/track/5k6LqI2iBDkVQa3gixPB7S) | [Týr](https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa) | [The Rune \(2025\)](https://open.spotify.com/album/1EY79HaW7GIniTTMA9LVJd) | 6:46 |
+| 80 | [We Come Alive](https://open.spotify.com/track/1uUdfXGIcEC3O7SqboXGLp) | [Gothminister](https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx) | [We Come Alive](https://open.spotify.com/album/1CBC8kMy5E274Kvcp7oJyI) | 3:01 |
 | 81 | [Winter Storm Vigilantes](https://open.spotify.com/track/7FBdViGNTaDNc2sl6MWGew) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm Vigilantes](https://open.spotify.com/album/4JHwxd0eitIEtYQU3ffGPs) | 5:12 |
 | 82 | [Field of Swords](https://open.spotify.com/track/2ULATnbyvbvqH1IZey2xb3) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Field of Swords](https://open.spotify.com/album/7Emw3aKs6NFzesCtjH4qbr) | 4:11 |
-| 83 | [Survival of Mankind](https://open.spotify.com/track/4mZI916WYg2ddnIHaz6L7W) | [Dragonland](https://open.spotify.com/artist/5qwH9gKvchSfuv8V6pBU71) | [Survival of Mankind](https://open.spotify.com/album/5jtg4TupNSaLLZYtBtpFh9) | 4:06 |
-| 84 | [Kings of Ragnarök](https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Kings of Ragnarök](https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw) | 3:54 |
-| 85 | [Dance with the Devil](https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Dance with the Devil](https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g) | 3:54 |
+| 83 | [Kings of Ragnarök](https://open.spotify.com/track/3iPS8BKAhf2fWIxBMIT0CE) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Kings of Ragnarök](https://open.spotify.com/album/6G82fwitv9GPD2zoHyKDtw) | 3:54 |
+| 84 | [Dance with the Devil](https://open.spotify.com/track/128HMhWqF74Fxk3DB0jllv) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI) | [Dance with the Devil](https://open.spotify.com/album/6JL9byP3gmakaNLrWVZu5g) | 3:54 |
+| 85 | [Survival of Mankind](https://open.spotify.com/track/4mZI916WYg2ddnIHaz6L7W) | [Dragonland](https://open.spotify.com/artist/5qwH9gKvchSfuv8V6pBU71) | [Survival of Mankind](https://open.spotify.com/album/5jtg4TupNSaLLZYtBtpFh9) | 4:06 |
 | 86 | [The Last Ballad of Damrod \(feat\. Jens Kidman\)](https://open.spotify.com/track/2zEAc2z7WvJnKT3i1Va4LQ) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Jens Kidman](https://open.spotify.com/artist/0iTaLLCMTSi9pO4TE8sZTh) | [The Last Ballad of Damrod \(feat\. Jens Kidman\)](https://open.spotify.com/album/0b2OSKTJWsVRmLcXaLo5hl) | 3:17 |
 | 87 | [Krigsherren](https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Krigsherren](https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl) | 3:29 |
 | 88 | [Nexus](https://open.spotify.com/track/0bHN1SE0RM5vvLPJZlirTs) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Equinox](https://open.spotify.com/album/6IHhKcwU6zUiDMifJSOYdZ) | 4:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 99 | [Take My Hand \- Bonus Track](https://open.spotify.com/track/0IKCUlp8MlxCRpxJXrSRY8) | [Metalite](https://open.spotify.com/artist/18RXUrxy1BYOOvrW0XuFBg) | [Take My Hand \(Bonus Track\)](https://open.spotify.com/album/7bHSYDdLOzMRWYwcbQbjKq) | 3:09 |
 | 100 | [As Empires Fall](https://open.spotify.com/track/07LBI2Yn6yQxyDnzVqgkj5) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [As Empires Fall](https://open.spotify.com/album/0ZUFNx8WwNfdIaFUUp1Wbk) | 3:54 |
 
-Snapshot ID: `AAAAACQz6kMwM5O68vd4TuT5znkOVwBI`
+Snapshot ID: `AAAAAAaOe31LeigNv8Tx7Cq4rBMPbIfS`

@@ -1,6 +1,6 @@
 {
   "description": "\u00bfQu\u00e9 es lo que est\u00e1 pasando? ",
-  "num_followers": 572465,
+  "num_followers": 572480,
   "original_name": "Amor y Desamor",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,6 @@
     {
       "added_at": "2026-09-11 21:27:17",
       "album": {
-        "name": "Todo Historias",
-        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 288986,
-      "name": "Cosas De La Vida",
-      "url": "https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri"
-    },
-    {
-      "added_at": "2026-09-11 21:27:17",
-      "album": {
         "name": "Todo Cambio",
         "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 182520,
       "name": "S\u00f3lo para Ti",
       "url": "https://open.spotify.com/track/0GNWo2IgoBKdk10gdnaSVk"
+    },
+    {
+      "added_at": "2026-09-11 21:27:17",
+      "album": {
+        "name": "Todo Historias",
+        "url": "https://open.spotify.com/album/6nWZLgTAuIgulKZcJxgsg4"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 288986,
+      "name": "Cosas De La Vida",
+      "url": "https://open.spotify.com/track/0z3Voyxi0FH0SQBc7c4wri"
     },
     {
       "added_at": "2026-09-11 21:27:17",
@@ -891,6 +891,22 @@
     {
       "added_at": "2026-09-11 21:27:17",
       "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 230720,
+      "name": "Abr\u00e1zame",
+      "url": "https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv"
+    },
+    {
+      "added_at": "2026-09-11 21:27:17",
+      "album": {
         "name": "Supernatural (Remastered)",
         "url": "https://open.spotify.com/album/10aiDpdFGyfCFEcqpx6XTq"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 274773,
       "name": "Corazon Espinado (feat. Mana)",
       "url": "https://open.spotify.com/track/2WoqgtWEBbbBKMDN6Becs7"
-    },
-    {
-      "added_at": "2026-09-11 21:27:17",
-      "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
-      },
-      "artists": [
-        {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
-        }
-      ],
-      "duration_ms": 230720,
-      "name": "Abr\u00e1zame",
-      "url": "https://open.spotify.com/track/6rCyXpDwlMf1GH2qlpjJWv"
     },
     {
       "added_at": "2026-09-11 21:27:17",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2026-09-11 21:27:17",
       "album": {
-        "name": "Secuencia",
-        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "Invierno",
-      "url": "https://open.spotify.com/track/5saQ13jGnI9vZzZ1nQFKrn"
-    },
-    {
-      "added_at": "2026-09-11 21:27:17",
-      "album": {
         "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
         "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 257440,
       "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
       "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
+    },
+    {
+      "added_at": "2026-09-11 21:27:17",
+      "album": {
+        "name": "Secuencia",
+        "url": "https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "Invierno",
+      "url": "https://open.spotify.com/track/5saQ13jGnI9vZzZ1nQFKrn"
     },
     {
       "added_at": "2026-09-11 21:27:17",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47uat5buwl0.md) - [plain]
 
 > Banger na banger\. Cover: Nachtdienst & Amelie 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,689 likes - 72 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,662 likes - 72 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

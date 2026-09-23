@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-981 songs - 2 day 16 hr 34 min
+982 songs - 2 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -462,6 +462,7 @@
 | [SANDIE](https://open.spotify.com/track/5q5guN8XfOeRUnzVBcXcRt) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [SANDIE](https://open.spotify.com/album/2BsnkWZSqQsMHxz9zx915T) | 4:47 | 2022-05-24 | 2023-03-22 |
 | [Sanzameku](https://open.spotify.com/track/09rGKRSeUIxhbD6AIJoJDK) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Sanzameku](https://open.spotify.com/album/6aQcVCTEE1ps7pME44kVpO) | 3:05 | 2024-01-30 | 2024-02-09 |
 | [Sanzameku](https://open.spotify.com/track/0XWKTGEZy1UxKERL4ZuPEz) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [NEO TOKYO METRO](https://open.spotify.com/album/3QmE1SZpwTswgKFSIBkuuv) | 3:05 | 2024-02-06 | 2024-02-14 |
+| [sayonara radio](https://open.spotify.com/track/5tTT9ClnbfuVRhGUMd3EIa) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p), [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [sayonara radio](https://open.spotify.com/album/68ToVq4WzoGDMx31oCrkEQ) | 3:55 | 2026-09-22 |  |
 | [Scramble City \(feat\. 財津マイ\)](https://open.spotify.com/track/0cSuhEqdlu88AT9lh1Sp2b) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [財津マイ](https://open.spotify.com/artist/3OIexTrKQiwSu7xsAmXbN3), [KiBi](https://open.spotify.com/artist/39Jmzhw5DYrOqgrGjAo1Rm) | [Scramble City \(feat\. 財津マイ\)](https://open.spotify.com/album/2HAWZ7SXN2JyDi9Dvy2M9V) | 3:50 | 2026-01-06 | 2026-03-06 |
 | [SCRAMBLE CROSS](https://open.spotify.com/track/2svcuXkuP1Y8CSTvjWZ8CB) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ANOTHER SUMMER REMIX](https://open.spotify.com/album/2WBgDzIFNojmCZqKgRm3Gy) | 4:22 | 2023-03-28 | 2023-04-05 |
 | [Seaside Hotel](https://open.spotify.com/track/70lScDkHEcMOQuNqNMQEey) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [TOKYO TOWER](https://open.spotify.com/album/54r1yKfQSmUOHiConU2Heb) | 4:49 | 2023-01-24 | 2023-03-25 |
@@ -747,7 +748,7 @@
 | [サマーレモネード](https://open.spotify.com/track/4KcAqMwqFBUOQxNlTuwK7O) | [Zenya](https://open.spotify.com/artist/6XaIIyEQtuyCbBsPdt6TyY) | [サマーレモネード](https://open.spotify.com/album/1MrOfdXIBZdkGm3gKYNR9x) | 3:18 | 2023-07-18 | 2023-07-26 |
 | [サマー・イズ・オーバー](https://open.spotify.com/track/5qnqGyCTpod2Gly4mI6SYd) | [下町ノ夏](https://open.spotify.com/artist/5KaPkUZq3z8WTXjvGkAR84) | [Ramune](https://open.spotify.com/album/1IpPbsEQuEobATCp5TJZsS) | 4:16 | 2023-08-01 | 2023-08-09 |
 | [サンシャイン・ベイ](https://open.spotify.com/track/7u50rPr1co7HgH2mJcaET3) | [ぷにぷに電機](https://open.spotify.com/artist/0vroxhoPPl0k04dqKWYHZK) | [フリークエンシー・イン・ブルー](https://open.spotify.com/album/47MBRYj48CUS5rk0LrPCxE) | 3:16 | 2022-05-24 | 2022-07-29 |
-| [シティホテル](https://open.spotify.com/track/3L2RXDGiE3CdalnwpJiE6s) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [シティホテル](https://open.spotify.com/album/34ITjp6W3YHh8AGyQiwvJW) | 3:53 | 2026-04-14 |  |
+| [シティホテル](https://open.spotify.com/track/3L2RXDGiE3CdalnwpJiE6s) | [Khaki](https://open.spotify.com/artist/0z60oOEtiYBZkMkZ93pxZd) | [シティホテル](https://open.spotify.com/album/34ITjp6W3YHh8AGyQiwvJW) | 3:53 | 2026-04-14 | 2026-09-23 |
 | [シュプール](https://open.spotify.com/track/5jbEk0qaloLbLSp2MInRzl) | [DEEN](https://open.spotify.com/artist/1Tg3cYxIGONHrwVagR1QlG) | [シュプール](https://open.spotify.com/album/2vfxMDrwJPp5W2c3shcE2D) | 3:47 | 2022-05-24 | 2022-07-14 |
 | [シューズは脱がないで](https://open.spotify.com/track/79uQGELJZmGKRB1d6ru7zH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [シューズは脱がないで](https://open.spotify.com/album/6oBRsPbalhRy2TmM8TbcyQ) | 4:08 | 2022-12-13 | 2025-10-01 |
 | [シラフ](https://open.spotify.com/track/2kmiYDRuLggy8rAsifrybE) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [into the wind](https://open.spotify.com/album/7LrHpRzmWf26GXIJ4uqR6R) | 3:40 | 2023-06-20 | 2024-09-22 |

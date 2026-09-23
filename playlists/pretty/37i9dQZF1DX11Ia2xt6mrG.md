@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Deorro y Jessica Audiffred en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,594 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,603 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 48 | [CONTIGO](https://open.spotify.com/track/5qCTJioPNb1VRqBr2q5paD) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [CONTIGO](https://open.spotify.com/album/4wFW6LZYOlP9Z8k61EkSKX) | 2:28 |
 | 49 | [Un Poquito Más](https://open.spotify.com/track/1ShgziqogzD9PeYRNugqNU) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Un Poquito Más](https://open.spotify.com/album/7bj3LncFV0WD4jIJa0O6ME) | 3:16 |
 | 50 | [Polos Opuestos](https://open.spotify.com/track/4MV1iXML2gwkk4haby8ygZ) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Jay Silva](https://open.spotify.com/artist/4WUY2d3N6bKRs8rGh6xamn) | [Polos Opuestos](https://open.spotify.com/album/58mn4pU4sc7RwRmV4q1hrT) | 2:46 |
-| 51 | [ESTAMOS READY](https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [ESTAMOS READY](https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9) | 3:34 |
-| 52 | [Prende y Pasa](https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Prende y Pasa](https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC) | 2:43 |
+| 51 | [Prende y Pasa](https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly) | [Prende y Pasa](https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC) | 2:43 |
+| 52 | [ESTAMOS READY](https://open.spotify.com/track/6CjUXBFn8rqt11iIgxroIE) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS), [Nfasis](https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM), [Dj Human Star](https://open.spotify.com/artist/0g5a7nTAbwPPMzJi4KvaYW) | [ESTAMOS READY](https://open.spotify.com/album/030z0CjAA6B2JJ6nxvOcZ9) | 3:34 |
 | 53 | [ADICTO](https://open.spotify.com/track/2KHyLUWCECWuTmy19158HN) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [ADICTO](https://open.spotify.com/album/4AGy5HEITh2mxlmGnswNyE) | 2:20 |
 | 54 | [SONI23BALL](https://open.spotify.com/track/6FAAoH80QaTzWOUTCa8oTZ) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L) | [BOTAS & RAVE](https://open.spotify.com/album/0aJgOjin88gJ7ZpiTTilYz) | 3:16 |
 | 55 | [Sin Sentir](https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx) | [Pato Shoucair](https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC), [Dr Babe](https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW) | [Sin Sentir](https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7) | 3:39 |

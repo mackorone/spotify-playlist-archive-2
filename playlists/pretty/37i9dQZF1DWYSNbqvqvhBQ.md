@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYSNbqvqvhBQ.md) - [plain]
 
 > Nieuwe tijdloze muziek\. Cover: Zoë Livay \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a><br/>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,599 likes - 80 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,586 likes - 80 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

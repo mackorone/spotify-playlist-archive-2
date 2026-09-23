@@ -4,7 +4,7 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-160 songs - 7 hr 43 min
+161 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Mis Padres](https://open.spotify.com/track/77tboh0O7eULVRwwIqUgax) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/2pQaVwjXRlqHnQ0RD8cf4e) | 2:31 | 2022-10-12 | 2024-11-20 |
 | [A Mis Padres](https://open.spotify.com/track/39fu6sQOQip2OC5JEbl209) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/7Ja4lDuleKTZV67LuqlGA5) | 2:34 | 2022-06-04 | 2022-06-06 |
 | [A Mis Padres](https://open.spotify.com/track/3A88K2Z8gpp4wNCBz9Ia4K) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña \(Serie Clásica\)](https://open.spotify.com/album/5JvV0kzyy2plXnHkMwVSkt) | 2:34 | 2024-11-20 | 2025-12-02 |
+| [A mis padres](https://open.spotify.com/track/1TN6hXn1VlNfEcERIGqMdP) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tumbando Caña](https://open.spotify.com/album/1PvbsgyLoDZU7tmL1MmrxM) | 2:35 | 2026-09-23 |  |
 | [Alma de Acero](https://open.spotify.com/track/4t6sb6BrGJXzjit9bdFrBO) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [15 Canciones Favoritas](https://open.spotify.com/album/7bQTZGWH4siZ5JBnGsOAcU) | 2:23 | 2022-06-01 | 2024-05-17 |
 | [Alma de Acero](https://open.spotify.com/track/3wrpsjzRr22LrymHq2iagR) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Escorpion](https://open.spotify.com/album/5e7wv748rJffgylHrbQR6L) | 2:26 | 2024-06-14 |  |
 | [Aniversario De Un Adiós](https://open.spotify.com/track/3eb16j5rbejD4pIR40wAt2) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Para Que No Me Olvides](https://open.spotify.com/album/2I1Gl3XePqBREJ3iLNm7lf) | 3:27 | 2022-06-01 | 2023-03-20 |
@@ -132,7 +133,7 @@
 | [Porque Es Amor](https://open.spotify.com/track/1HpuLuxNb7xn0yAL9yRDL4) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:30 | 2022-06-09 | 2023-11-11 |
 | [Porque Es Amor](https://open.spotify.com/track/0YQ0mzh7HZBYRtmO62cvd8) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS) | 2:30 | 2023-11-10 | 2025-01-15 |
 | [Porque Es Amor](https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH) | 2:30 | 2025-01-15 |  |
-| [Que El Mundo Ruede \(Ven Conmigo Cariñito\)](https://open.spotify.com/track/0ynPwKFEs5siAwGp28MTf3) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w), [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Que El Mundo Ruede \(Ven Conmigo Cariñito\)](https://open.spotify.com/album/1QdUVFZtyXjs6M0gDTWNZj) | 3:27 | 2026-07-29 |  |
+| [Que El Mundo Ruede \(Ven Conmigo Cariñito\)](https://open.spotify.com/track/0ynPwKFEs5siAwGp28MTf3) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w), [David Olivarez](https://open.spotify.com/artist/41WfhF5UfpKXMpkkCXbeCm) | [Que El Mundo Ruede \(Ven Conmigo Cariñito\)](https://open.spotify.com/album/1QdUVFZtyXjs6M0gDTWNZj) | 3:27 | 2026-07-29 | 2026-09-23 |
 | [Que Sacrificio](https://open.spotify.com/track/0H4sY34re8cnzGfwKQboiE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj) | 2:25 | 2023-11-10 | 2024-12-07 |
 | [Que Sacrificio](https://open.spotify.com/track/2K0pLW0bk9Lqji0pGAMrvj) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/1XUEpKccqhu7ww9kna6pv0) | 2:25 | 2024-12-07 |  |
 | [Que Sacrificio](https://open.spotify.com/track/3g8CL3kQy1YYtTbjTKTt2H) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:27 | 2022-06-01 | 2023-11-11 |

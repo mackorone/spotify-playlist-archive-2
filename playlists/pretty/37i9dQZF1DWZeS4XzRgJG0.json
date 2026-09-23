@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43488,
+  "num_followers": 43508,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 219427,
+      "name": "Obsessica",
+      "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
         "name": "Midnight Memories (Deluxe)",
         "url": "https://open.spotify.com/album/7p1fX8aUySrBdx4WSYspOu"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/1wVuPmvt6AWvTL5W2GJnzZ"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
-        "name": "Do That Again",
-        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 219427,
-      "name": "Obsessica",
-      "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "This City",
-        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 194853,
-      "name": "This City",
-      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Our Version Of Events (Special Edition)",
         "url": "https://open.spotify.com/album/0QwbgAJnx9FEFFC3EsyLrQ"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 283706,
       "name": "Read All About It, Pt. III",
       "url": "https://open.spotify.com/track/30BsewEJZPxfuLNAlZPFje"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "This City",
+        "url": "https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 194853,
+      "name": "This City",
+      "url": "https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Love Is A Stillness",
-        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 114637,
-      "name": "Love Is A Stillness",
-      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 145710,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "Love Is A Stillness",
+        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 114637,
+      "name": "Love Is A Stillness",
+      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "All Because Of You",
-        "url": "https://open.spotify.com/album/3fh6Utv3GaGmWNhHt5LhQQ"
-      },
-      "artists": [
-        {
-          "name": "Bas Serra",
-          "url": "https://open.spotify.com/artist/5U9tbqPg5LH6tCC4Oq5hXj"
-        }
-      ],
-      "duration_ms": 192241,
-      "name": "All Because Of You",
-      "url": "https://open.spotify.com/track/04SoyoWgLygq4QD5aqxAny"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "THE ART OF BEING A MESS (DELUXE)",
         "url": "https://open.spotify.com/album/1zv8XVn1rFyaZJS2Uih0xU"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 190066,
       "name": "somebody you're supposed to love",
       "url": "https://open.spotify.com/track/0gGd0SR4Sw9VFJx26bHcPd"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "All Because Of You",
+        "url": "https://open.spotify.com/album/3fh6Utv3GaGmWNhHt5LhQQ"
+      },
+      "artists": [
+        {
+          "name": "Bas Serra",
+          "url": "https://open.spotify.com/artist/5U9tbqPg5LH6tCC4Oq5hXj"
+        }
+      ],
+      "duration_ms": 192241,
+      "name": "All Because Of You",
+      "url": "https://open.spotify.com/track/04SoyoWgLygq4QD5aqxAny"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Kiss Me",
-        "url": "https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 240900,
-      "name": "Kiss Me - Acoustic",
-      "url": "https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "most to me",
         "url": "https://open.spotify.com/album/2VBBVsnhQAnQvYLJpsIoWx"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 156212,
       "name": "most to me",
       "url": "https://open.spotify.com/track/1r5UhJ5N8uOsmC1zP4TMR4"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "Kiss Me",
+        "url": "https://open.spotify.com/album/23A1VrlL0AyJkv6OpZofNy"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 240900,
+      "name": "Kiss Me - Acoustic",
+      "url": "https://open.spotify.com/track/7xQUulzggtLVXbo8tLwpjc"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "10/10",
-        "url": "https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX"
-      },
-      "artists": [
-        {
-          "name": "joel",
-          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Lose You To Love Me",
         "url": "https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "10/10",
+        "url": "https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX"
+      },
+      "artists": [
+        {
+          "name": "joel",
+          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
+        }
+      ],
+      "duration_ms": 172653,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "7 Years",
-        "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Dancing On My Own",
         "url": "https://open.spotify.com/album/5Hq4LcmCQ6BP3kM8J5lgga"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 260004,
       "name": "Dancing On My Own",
       "url": "https://open.spotify.com/track/02WacdrRpm4zlP8H7X6bnQ"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "7 Years",
+        "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -2683,6 +2683,22 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
+        "name": "You Let Me Walk Alone",
+        "url": "https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 177886,
+      "name": "You Let Me Walk Alone",
+      "url": "https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
         "name": "Beneath Your Beautiful",
         "url": "https://open.spotify.com/album/3eXbGItoetZbAKx5gxKcq8"
       },
@@ -2703,18 +2719,18 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "You Let Me Walk Alone",
-        "url": "https://open.spotify.com/album/2zxvzQeDY4lmXsJnS6Hxun"
+        "name": "Ma Fleur",
+        "url": "https://open.spotify.com/album/7ow7A9W9gqHAL0qKDL7ki9"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
         }
       ],
-      "duration_ms": 177886,
-      "name": "You Let Me Walk Alone",
-      "url": "https://open.spotify.com/track/2VE2Ys42iJr9q9rVucRJT4"
+      "duration_ms": 370666,
+      "name": "To Build A Home (feat. Patrick Watson)",
+      "url": "https://open.spotify.com/track/4aBi3ZJdrtLYKiMCKVvvht"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -2779,22 +2795,6 @@
       "duration_ms": 209687,
       "name": "Hungry",
       "url": "https://open.spotify.com/track/5Va4EmNp4g8lniR5MiR4oT"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
-        "name": "Ma Fleur",
-        "url": "https://open.spotify.com/album/7ow7A9W9gqHAL0qKDL7ki9"
-      },
-      "artists": [
-        {
-          "name": "The Cinematic Orchestra",
-          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
-        }
-      ],
-      "duration_ms": 370666,
-      "name": "To Build A Home (feat. Patrick Watson)",
-      "url": "https://open.spotify.com/track/4aBi3ZJdrtLYKiMCKVvvht"
     },
     {
       "added_at": "2026-09-21 12:00:15",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/21JhxcGHq3awKEjLrsnRD8">Emily Weisband</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,091 likes - 220 songs - 12 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092 likes - 220 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 133 | [175 Lbs](https://open.spotify.com/track/05YXhWUPrxOD0aJswE18Ok) | [Wé Ani](https://open.spotify.com/artist/0VcXm1al35QNsj9tbAnCJm) | [175 Lbs](https://open.spotify.com/album/4PltYDitGybS0xhmqpvStG) | 2:54 |
 | 134 | [In This Town](https://open.spotify.com/track/6ndf4BahK3UEiuuvrM4WPc) | [Homegrown Trio](https://open.spotify.com/artist/2BVJ6xbABKHgRHAOXgaei2) | [Part One](https://open.spotify.com/album/74PXR9KISCAXtpaC5AeQKf) | 3:09 |
 | 135 | [Our Days Are Numbered](https://open.spotify.com/track/4O8AzdrqO4IJ4vJC3CRrFX) | [Five Roses](https://open.spotify.com/artist/6MN4Gf274aRJNoPjj0GTok) | [Jukebox Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/1VnHNTAwtXV3a4DcNrpztP) | 3:29 |
-| 136 | [Sleepless](https://open.spotify.com/track/7iJcazBT96Opg2Z4y5M3BS) | [On The Outside](https://open.spotify.com/artist/13Li6fzmLzxxOzMEIRr0TN) | [Sleepless](https://open.spotify.com/album/2hTBQXEgJgBg38wugiS9ev) | 3:20 |
-| 137 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 136 | [Every Minute Of It](https://open.spotify.com/track/3GmJ2KRfqE7addvkfhmt3V) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Every Minute Of It](https://open.spotify.com/album/4gdcr6w8k7SCLNUx851aEO) | 3:28 |
+| 137 | [Sleepless](https://open.spotify.com/track/7iJcazBT96Opg2Z4y5M3BS) | [On The Outside](https://open.spotify.com/artist/13Li6fzmLzxxOzMEIRr0TN) | [Sleepless](https://open.spotify.com/album/2hTBQXEgJgBg38wugiS9ev) | 3:20 |
 | 138 | [Off The Highway](https://open.spotify.com/track/3COk8dMEndoyUTFdCxHHN8) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Chapter & Verse](https://open.spotify.com/album/4pfspuo0DUzho0hGtZHI9r) | 2:58 |
 | 139 | [Coming Soon To A Bar Near You](https://open.spotify.com/track/3XBZixQLGON2Ka1S4sJUzC) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Coming Soon To A Bar Near You](https://open.spotify.com/album/5L9sBBd5ew1CKx9KcLJ24T) | 3:46 |
 | 140 | [To Be Honest](https://open.spotify.com/track/5TFu4FGmslo543UyEuxS9l) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [to be honest](https://open.spotify.com/album/3m59dkD0z3TuzwwZSEGt25) | 3:25 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFO7Uzjunmbbs.md) - [plain]
 | 219 | [Stay](https://open.spotify.com/track/7AYev376NUrJ1JaxmfhKyM) | [Andenix](https://open.spotify.com/artist/1vxk9sFXF2O4fUymcUUllP), [Josh Knox](https://open.spotify.com/artist/7ynWG75kdenNhClpJwwx4M) | [Stay](https://open.spotify.com/album/2tXewxcwpzvvZw7prXByPS) | 4:07 |
 | 220 | [Heartache](https://open.spotify.com/track/1ANoywqSXzofnUGE2ZXENq) | [Lil JJ Reynolds](https://open.spotify.com/artist/6tOlcdCH7l4MwVW8EyHBDC) | [Heartache](https://open.spotify.com/album/0R8XSYdAgRsBc5saCdVQUl) | 3:12 |
 
-Snapshot ID: `Acc7ugAAAAA2kc6UiZrpsik01XjwjRT1`
+Snapshot ID: `AcdBZAAAAADNYBNSlLc2F+CH4kllwBIR`

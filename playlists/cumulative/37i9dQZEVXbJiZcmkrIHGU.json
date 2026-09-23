@@ -7598,7 +7598,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 127071,
       "name": "Augenblick",
       "url": "https://open.spotify.com/track/1qfwmUz3Zj5WkLoAHXgskK"
@@ -17387,6 +17387,28 @@
     },
     {
       "album": {
+        "name": "The Divine Feminine",
+        "url": "https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480186,
+      "name": "Cinderella (feat. Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
+    },
+    {
+      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -25094,7 +25116,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -36246,7 +36268,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 158206,
       "name": "Hin und Her",
       "url": "https://open.spotify.com/track/5PcZTsUAo5ZH9JcTmBNy5t"
@@ -42004,7 +42026,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 249359,
       "name": "Joseph",
       "url": "https://open.spotify.com/track/1BdI8NEvZx61tnkbuAxC5x"
@@ -42682,7 +42704,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 182893,
       "name": "Kapitel 01: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/0v0jR15q6GwzpcjzoFNAcV"
@@ -42718,7 +42740,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 182680,
       "name": "Kapitel 02: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/3ZQJIZKA3yvqbBiEXat5vH"
@@ -42754,7 +42776,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 182400,
       "name": "Kapitel 03: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/0AbgIorz9tYbHHmYlGwvcf"
@@ -42790,7 +42812,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 183506,
       "name": "Kapitel 04: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/4Ylr926r7kmHevJaY94VAp"
@@ -42844,7 +42866,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 185173,
       "name": "Kapitel 05: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/4s8pGeZw3iRzXqHUkTJRFb"
@@ -42898,7 +42920,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 183613,
       "name": "Kapitel 06: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/0vDlsHVy76hGpmKdyzGgUi"
@@ -42970,7 +42992,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 181600,
       "name": "Kapitel 07: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/0bSDT4yqaXH113ANfUVAn5"
@@ -43024,7 +43046,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 184266,
       "name": "Kapitel 08: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/3oFCDhwr2ZpYw5NONtSNyw"
@@ -43078,7 +43100,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 182720,
       "name": "Kapitel 09: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/7a1c0vc0PvJgC1MzmMZnwR"
@@ -43132,7 +43154,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 181493,
       "name": "Kapitel 10: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/1RxXL4P0cC0Dc4uv7NIdeF"
@@ -43186,7 +43208,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 183986,
       "name": "Kapitel 11: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/6olEEpfG6LcFGi3Ekhp3p2"
@@ -43240,7 +43262,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 182213,
       "name": "Kapitel 12: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/0TwO4gfRgPKSmPvOM8PwRB"
@@ -43294,7 +43316,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 187120,
       "name": "Kapitel 13: Meister des Lichts - Folge 241",
       "url": "https://open.spotify.com/track/0blClfLUWmWWRstuR6JNWR"
@@ -47466,7 +47488,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
@@ -58443,6 +58465,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "album": {
         "name": "Nie am Meer",
         "url": "https://open.spotify.com/album/4wRBCUGypXUFJGoHn06i07"
       },
@@ -59840,7 +59880,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -60114,7 +60154,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 236200,
       "name": "Nur ein Wort",
       "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
@@ -62858,7 +62898,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 157291,
       "name": "Paper",
       "url": "https://open.spotify.com/track/4OHZawF8aSfIBErnsh0oJZ"
@@ -78364,7 +78404,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/5vXnH99Tn0qAh84SWU5sfc"
@@ -79604,7 +79644,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -79680,7 +79720,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -82206,7 +82246,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -84102,7 +84142,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"

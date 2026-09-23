@@ -4,10 +4,11 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-603 songs - 1 day 12 hr 33 min
+606 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| ['Til It All Goes up in Flames](https://open.spotify.com/track/3PKQRbSgi6DzeS9L0rBgS2) | [Narcotic Hearts](https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0) | ['Til It All Goes up in Flames](https://open.spotify.com/album/2le4AUKaXXzAgvaTeBY2qE) | 2:45 | 2026-09-22 |  |
 | [\(You Make Me Feel Like\) a Natural Woman](https://open.spotify.com/track/5LtrxQp3PyGoArlj3A6e0V) | [Companhia da Música](https://open.spotify.com/artist/0ssB1qf1ATFwpRWDkZZFmr) | [20](https://open.spotify.com/album/6t01iFld3K2PUfxwc6X1bD) | 3:29 | 2023-01-10 |  |
 | [1000](https://open.spotify.com/track/0GvRrODCK9IOLGSTtBpa2e) | [romeo lowercase](https://open.spotify.com/artist/3sQ2cEmJTO9mgmkjSAWptH) | [1000](https://open.spotify.com/album/2PFh9IL2F1pF8LxS8AquAh) | 3:13 | 2025-01-07 |  |
 | [1969](https://open.spotify.com/track/6Qab6S5q4yUxgRdXkZa0xr) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [1969 \(Remastered 2024\)](https://open.spotify.com/album/514Bco4YigBzdv8bAk9kHP) | 3:30 | 2024-12-24 |  |
@@ -302,6 +303,7 @@
 | [Life At The North](https://open.spotify.com/track/2fXKuHFosXaloa4ICR6DzL) | [BAK2beats](https://open.spotify.com/artist/0PicyahEhr2rbFvtvoChAQ), [Late Night Flow](https://open.spotify.com/artist/4ViIfH1eAQemZLduQC0OTQ), [Easy Man](https://open.spotify.com/artist/1ZqTxGga20t8Vgx9DjgY8Y) | [Life At The North](https://open.spotify.com/album/6n2MYj5NAXCGMb3rMhl6rh) | 2:35 | 2023-11-12 |  |
 | [Life is a Dream](https://open.spotify.com/track/4y6QSLwe7GBy69lgrnl3LK) | [Vitaly Stone](https://open.spotify.com/artist/5hy31SMIJ3m4YuH4Zu0NZc), [Saner](https://open.spotify.com/artist/3Zt2brurJIxYWStLhLnmIA), [Kvestar](https://open.spotify.com/artist/1SZ9wvt4Z02rLS4p9PsLEX) | [Life is a Dream](https://open.spotify.com/album/6vS8qrTQKKshYISyNgYj6t) | 2:52 | 2024-06-15 |  |
 | [Lifeline](https://open.spotify.com/track/3rtV0a90wbNBqlHgxXNZFq) | [Elliott Jones](https://open.spotify.com/artist/7MWQM2kFM8HyN61ef30q0a) | [Lifeline](https://open.spotify.com/album/52BqeaV5ViwRflH5wYUtGQ) | 4:08 | 2025-02-20 |  |
+| [Lift Me Up](https://open.spotify.com/track/6MS9JFqZY2bxILcwyr3n5n) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [Lift Me Up](https://open.spotify.com/album/44YEDKM5XEB1MbzyeiGYqe) | 4:03 | 2026-09-22 |  |
 | [Light My Fire](https://open.spotify.com/track/4cGEUvLKGj5lQM2xozOkIe) | [Dripnay](https://open.spotify.com/artist/0sRS4gqZgm2gnJJC8oXMUU) | [Light My Fire](https://open.spotify.com/album/5zyZMvN8gDNftVl5gqdMFJ) | 2:06 | 2025-11-05 |  |
 | [Lightning](https://open.spotify.com/track/4zJxARpvIv9k1b4NDVjc7V) | [Mynxx](https://open.spotify.com/artist/5mECqG3e91RUoOxLoXUDOX) | [Lightning](https://open.spotify.com/album/7nJnJS2Tb3dOQ5uKhkJ0wr) | 2:41 | 2025-03-19 |  |
 | [Like It or Not](https://open.spotify.com/track/1f3qXwfGyOtBDqpXH1bBSe) | [Private Party](https://open.spotify.com/artist/1Nelw0xdSyeJOqMhjL4IkL) | [Like It or Not](https://open.spotify.com/album/67v7EdBMd9ZC2Ym9frnWVd) | 3:12 | 2023-03-25 |  |
@@ -324,6 +326,7 @@
 | [MANICOMIO](https://open.spotify.com/track/3Ux41ZPEtDqOoy00m56aLa) | [Bestia Docil](https://open.spotify.com/artist/4W9McCRaPkCt4fE0warreQ) | [MANICOMIO](https://open.spotify.com/album/6dPqo5n2Y824Ipqya0RLPs) | 4:57 | 2024-05-28 |  |
 | [march of the damned](https://open.spotify.com/track/0ZWPPgX4GT5EBwlvtsy8fJ) | [Garvey Dwight](https://open.spotify.com/artist/6cpYn8obpaGMPpVTrwT3xQ) | [march of the damned](https://open.spotify.com/album/5PMcxwvY9YMEs4BGSqLiRj) | 3:35 | 2023-02-19 |  |
 | [Matching Scars from This Heartbreak](https://open.spotify.com/track/3Ck049u8Q5cpIe8rsfJew3) | [Iris Wilde](https://open.spotify.com/artist/7adtF74608GPpIWNAQsSr3) | [Matching Scars from This Heartbreak](https://open.spotify.com/album/5bAD3JYNw7xClxnnD48iGx) | 3:36 | 2024-11-18 |  |
+| [Me importa un cojón](https://open.spotify.com/track/3pWlrEpxByKgEAZSnNsBD8) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Me importa un cojón](https://open.spotify.com/album/1f4DJDBJGPlzMJyonkPNpj) | 2:55 | 2026-09-22 |  |
 | [Me Leva Pra Dançar](https://open.spotify.com/track/3QXx7owFeVGe0nz24xewZw) | [Banda Plataforma 101](https://open.spotify.com/artist/6IxaPk2wAFtLhPwHJtMs3t) | [Me Leva Pra Dançar](https://open.spotify.com/album/1B2Sp6qePWLxGJDG7SSSJ1) | 3:04 | 2024-12-24 |  |
 | [Medo de Errar](https://open.spotify.com/track/6BorBzvUlqNxJuLkEl4O78) | [Thiago Barba](https://open.spotify.com/artist/08IHljRCkTZ3v2X65B1U5I) | [Medo de Errar](https://open.spotify.com/album/1mTkeo8bLpqQiXHIucedHK) | 3:22 | 2023-03-19 |  |
 | [MEJOR VIVIR EL SUEÑO](https://open.spotify.com/track/2lRmCN3OW8jLgYSFavsCip) | [Manu Geijo](https://open.spotify.com/artist/1Lcqhy5qgKAS6bvwjXIoxs) | [EN TUS ALAS](https://open.spotify.com/album/2pjUG7lufJVJ9uM8YYijp2) | 3:59 | 2025-05-06 |  |

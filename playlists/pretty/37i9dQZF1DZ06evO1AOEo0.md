@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,013 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,019 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Goodness of God](https://open.spotify.com/track/55TW6H9X6pMfiOhmPk4luE) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 17](https://open.spotify.com/album/0cxR2OoCW1u1F2wAWciDjZ) | 5:04 |
-| 2 | [As the Deer](https://open.spotify.com/track/2G83Bi2pnml8ZEskoheM0Y) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 4:16 |
+| 1 | [As the Deer](https://open.spotify.com/track/2G83Bi2pnml8ZEskoheM0Y) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 4:16 |
+| 2 | [Goodness of God](https://open.spotify.com/track/55TW6H9X6pMfiOhmPk4luE) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Bethany Barnard](https://open.spotify.com/artist/7Gv0LZfeF8TMugerDVAMDk) | [The Worship Initiative, Vol\. 17](https://open.spotify.com/album/0cxR2OoCW1u1F2wAWciDjZ) | 5:04 |
 | 3 | [You've Already Won \- Radio Version](https://open.spotify.com/track/0AFFHQofm2gRvFEHmnT7o1) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [You've Already Won \(Radio Version\)](https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK) | 4:22 |
 | 4 | [Heart of Worship](https://open.spotify.com/track/1ZeRu0bj5lCsD0Vh8hpM6I) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 9](https://open.spotify.com/album/3aeBnj6TtXewcHW50wUwP1) | 5:06 |
 | 5 | [How Great Thou Art](https://open.spotify.com/track/1SnZi2eVU2kcXRNJT6ek4J) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:54 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 35 | [Living Water](https://open.spotify.com/track/6TyyGSk69X8S922AF5L4qE) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 3:45 |
 | 36 | [Psalm 139 \(Far Too Wonderful\)](https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:12 |
 | 37 | [Sovereign Over Us](https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:48 |
-| 38 | [All Sufficient Merit \- Live](https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [All Sufficient Merit \(Live\)](https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI) | 5:30 |
+| 38 | [Praise to the Lord \(Joyful, Joyful\)](https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 2](https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4) | 4:19 |
 | 39 | [Psalm 90 \(Satisfy Us with Your Love\)](https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:15 |
-| 40 | [Praise to the Lord \(Joyful, Joyful\)](https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 2](https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4) | 4:19 |
+| 40 | [All Sufficient Merit \- Live](https://open.spotify.com/track/5p6uP5TGLpeCBlcK3Kd1yQ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [All Sufficient Merit \(Live\)](https://open.spotify.com/album/2mKX49Xl7KBPNJlXT5dkJI) | 5:30 |
 | 41 | [Better Is One Day](https://open.spotify.com/track/5agB4G7lpX3nFov22BqWpm) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 2](https://open.spotify.com/album/4CjbL4RfKRS81ixWDcZc97) | 4:33 |
 | 42 | [Jesus Paid It All](https://open.spotify.com/track/1vxLrzkZv3VICnuuJoVDBH) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 5](https://open.spotify.com/album/7sR0mdV33yuZymVBo0y7aF) | 3:48 |
 | 43 | [Turn Your Eyes Upon Jesus \(Acoustic\)](https://open.spotify.com/track/5sM3BfN131EnsfNUxJYIJz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns in the Round](https://open.spotify.com/album/06mNMNp8K3S2YtrAzlacOf) | 4:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AOEo0.md) - [plain]
 | 49 | [Great I Am](https://open.spotify.com/track/21ttJ3sHDRuWEQqOCzbKLv) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:21 |
 | 50 | [Oh But God](https://open.spotify.com/track/5aQCI8gmJvmLtvBocSS954) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Sunday Setlist \#1](https://open.spotify.com/album/47ZXDoLEV4UZj7uaHu302z) | 4:13 |
 
-Snapshot ID: `aq8iAAAAAACXoi6Lkjegkq2iPHTepJX0`
+Snapshot ID: `arBzgAAAAAAPMImsUiYGxI0X7vYc0DHA`

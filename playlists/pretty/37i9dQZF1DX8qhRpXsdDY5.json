@@ -1,6 +1,6 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 233158,
+  "num_followers": 233151,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Navidad con Pandora",
-        "url": "https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 165306,
-      "name": "Los Peces en el R\u00edo",
-      "url": "https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "Mi Navidad (Edici\u00f3n Especial En Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/5cHGo1b8Ubhl6HGZw6RIkN"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 195743,
       "name": "Dios nos bendecir\u00e1",
       "url": "https://open.spotify.com/track/6F89Ii7pfMzniZ4ueP5xDp"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Navidad con Pandora",
+        "url": "https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "Los Peces en el R\u00edo",
+      "url": "https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "Nuestra Navidad",
-        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 148740,
-      "name": "Jingle Bell Rock",
-      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
-    },
-    {
-      "added_at": "2025-12-04 18:43:31",
-      "album": {
         "name": "Love & Christmas",
         "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 217024,
       "name": "Viva La Navidad",
       "url": "https://open.spotify.com/track/2UwNxIMMnQBoHE97RYry2k"
+    },
+    {
+      "added_at": "2025-12-04 18:43:31",
+      "album": {
+        "name": "Nuestra Navidad",
+        "url": "https://open.spotify.com/album/1O7QyLYHlgNncDGgjaDvR4"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 148740,
+      "name": "Jingle Bell Rock",
+      "url": "https://open.spotify.com/track/0Gv1UhtOeQToknqz6hi9CD"
     },
     {
       "added_at": "2025-12-04 18:43:31",
@@ -859,18 +859,18 @@
     {
       "added_at": "2025-12-04 18:43:31",
       "album": {
-        "name": "La Ni\u00f1a del Tambor",
-        "url": "https://open.spotify.com/album/74ffHQoDZJec5trpwgFdRu"
+        "name": "Cinco Pa' las 12",
+        "url": "https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2"
       },
       "artists": [
         {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+          "name": "N\u00e9stor Zavarce",
+          "url": "https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr"
         }
       ],
-      "duration_ms": 266808,
-      "name": "Jes\u00fas",
-      "url": "https://open.spotify.com/track/0tvj2F88KQi0rZDpneC5bp"
+      "duration_ms": 181133,
+      "name": "Cinco Pa' las 12",
+      "url": "https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG"
     }
   ],
   "unique_name": "Latin Christmas Classics",

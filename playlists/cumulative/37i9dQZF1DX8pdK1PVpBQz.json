@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Annika Rani",
+  "description": "The best new music by independent artists and labels. Cover: Half/Angel",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -8709,6 +8709,24 @@
     },
     {
       "album": {
+        "name": "Blisters",
+        "url": "https://open.spotify.com/album/7LnqVF5eKjt7iaq9pF8NAF"
+      },
+      "artists": [
+        {
+          "name": "Evie Lulu",
+          "url": "https://open.spotify.com/artist/73Sb3mo57Dwh1PZ2jXQ1KB"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180326,
+      "name": "Blisters",
+      "url": "https://open.spotify.com/track/4SNV5mTySHmzLK9QxRAJQY"
+    },
+    {
+      "album": {
         "name": "BLK&WHT.",
         "url": "https://open.spotify.com/album/5Jdb9VEVJ4LLqvhF2inft1"
       },
@@ -10826,6 +10844,24 @@
       "duration_ms": 166245,
       "name": "Bumps In The Night",
       "url": "https://open.spotify.com/track/2wTTbWXRqZoMyN6YwJiLL1"
+    },
+    {
+      "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/4mfVL4HFXerm8dfQKDmK76"
+      },
+      "artists": [
+        {
+          "name": "Half/Angel",
+          "url": "https://open.spotify.com/artist/37vKRv7TfLattsUjatE4Sx"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233923,
+      "name": "Bunny",
+      "url": "https://open.spotify.com/track/7gey52oeBPQdZvvycxijaY"
     },
     {
       "album": {
@@ -34979,6 +35015,24 @@
     },
     {
       "album": {
+        "name": "How Can I Tell You?",
+        "url": "https://open.spotify.com/album/6z2hWP2mbv7YcXC0dqjVj1"
+      },
+      "artists": [
+        {
+          "name": "Clare Perrott",
+          "url": "https://open.spotify.com/artist/0NtVBmAaVZ0UDsofolIhel"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254813,
+      "name": "How Can I Tell You?",
+      "url": "https://open.spotify.com/track/3Ql2otBhdrgdqqJrRXfJED"
+    },
+    {
+      "album": {
         "name": "How Could You?",
         "url": "https://open.spotify.com/album/0BXq5SgpyDayDxxjb4wArt"
       },
@@ -47548,7 +47602,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 156535,
       "name": "masterpiece",
       "url": "https://open.spotify.com/track/3jySZ4eDUjll4fLEfktGiJ"
@@ -60526,7 +60580,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 170635,
       "name": "Push Through",
       "url": "https://open.spotify.com/track/1WcGvyxLZYr3TVxKgOLakR"
@@ -61196,6 +61250,28 @@
       "duration_ms": 227162,
       "name": "Ransom",
       "url": "https://open.spotify.com/track/3khCD3lUTYeSEDxQiZlhMM"
+    },
+    {
+      "album": {
+        "name": "RATCHET",
+        "url": "https://open.spotify.com/album/0kDASUOvxFITAJT8M2ZXau"
+      },
+      "artists": [
+        {
+          "name": "JXL",
+          "url": "https://open.spotify.com/artist/4JFNijhQywWg9Y1vmdGoMQ"
+        },
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123873,
+      "name": "RATCHET",
+      "url": "https://open.spotify.com/track/2iknEeofB6C8poQ7otdwts"
     },
     {
       "album": {
@@ -76370,7 +76446,7 @@
       ],
       "date_added": "2026-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 140922,
       "name": "Those Shoes You March In",
       "url": "https://open.spotify.com/track/7rj1HpQkIwyYkwoYxSotCb"
@@ -76964,6 +77040,24 @@
       "duration_ms": 169812,
       "name": "TIME TELLS",
       "url": "https://open.spotify.com/track/7ELCXw1QxMe1tOcAcEv8KN"
+    },
+    {
+      "album": {
+        "name": "Time/Afterlife",
+        "url": "https://open.spotify.com/album/0nQcqL17DLfdAyAv0mxmzc"
+      },
+      "artists": [
+        {
+          "name": "Pop Radio",
+          "url": "https://open.spotify.com/artist/0CzdKRcwzpsapwKkKFBFAg"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329000,
+      "name": "Time/Afterlife",
+      "url": "https://open.spotify.com/track/6dOBaneZAe3mrwwOn6Jr0B"
     },
     {
       "album": {
@@ -80492,7 +80586,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 322469,
       "name": "vincent vol. 1",
       "url": "https://open.spotify.com/track/5OHSIq4y3ZZA0pEcJH9XEf"
@@ -80918,7 +81012,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 166775,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/6LE83kMa6t2lF26XWRHefs"

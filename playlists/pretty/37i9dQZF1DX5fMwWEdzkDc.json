@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 26038,
+  "num_followers": 26050,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Perfect Man - The 5th Album",
-        "url": "https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV"
-      },
-      "artists": [
-        {
-          "name": "SHINHWA",
-          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "\uc601\ubbfc",
         "url": "https://open.spotify.com/album/3yQ7TxvLguE04t7eTYE7mF"
       },
@@ -379,18 +363,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Reply 1988 (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM"
+        "name": "Perfect Man - The 5th Album",
+        "url": "https://open.spotify.com/album/69Lv2IpuvYd0ccNJR3AOlV"
       },
       "artists": [
         {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+          "name": "SHINHWA",
+          "url": "https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0"
         }
       ],
-      "duration_ms": 226274,
-      "name": "A Little Girl",
-      "url": "https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23"
+      "duration_ms": 205000,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/115a4lQhDJGnu4QVSa8bUW"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -407,6 +391,22 @@
       "duration_ms": 331154,
       "name": "No matter where",
       "url": "https://open.spotify.com/track/7oT5JOWwxnwcZRI6NLzhWs"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Reply 1988 (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM"
+      },
+      "artists": [
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 226274,
+      "name": "A Little Girl",
+      "url": "https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 251846,
-      "name": "\ud30c\ub3c4",
-      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Wax02 : \ud654\uc7a5\uc744 \uace0\uce58\uace0",
         "url": "https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 250386,
       "name": "\ud654\uc7a5\uc744 \uace0\uce58\uace0",
       "url": "https://open.spotify.com/track/0e70x113268aBzaBaNHmrR"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 251846,
+      "name": "\ud30c\ub3c4",
+      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "A bicycle Ride",
-        "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
-      },
-      "artists": [
-        {
-          "name": "Jatanpung",
-          "url": "https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5"
-        }
-      ],
-      "duration_ms": 222853,
-      "name": "Me to You, You to Me",
-      "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Re - Feel",
         "url": "https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 272875,
       "name": "The man and the woman",
       "url": "https://open.spotify.com/track/4m2OYFeg88zIZBKdQKsggf"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "A bicycle Ride",
+        "url": "https://open.spotify.com/album/4dNI0uPp7lWdClgD8hGTVg"
+      },
+      "artists": [
+        {
+          "name": "Jatanpung",
+          "url": "https://open.spotify.com/artist/0rmwTliQlHxi4uQQ0auZm5"
+        }
+      ],
+      "duration_ms": 222853,
+      "name": "Me to You, You to Me",
+      "url": "https://open.spotify.com/track/1oW9H74WFBF0AsjP2e61YZ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The Jadu 3",
         "url": "https://open.spotify.com/album/0jUxZh8BKRhj7IqvPVmmJ4"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 225866,
       "name": "\uae40\ubc25",
       "url": "https://open.spotify.com/track/7tSt4Jbnml5l7MMWqxfx7f"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uc0b4\ub2e4\uac00",
-        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 243026,
-      "name": "\uc8c4\uc640 \ubc8c (\u7f6a\uc640 \u7f70)",
-      "url": "https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "SHOO. EUGENE. SEA - The 2nd Album",
         "url": "https://open.spotify.com/album/28tAVahvzLKAVZ6ewYUrvl"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 245773,
       "name": "Dreams Come True",
       "url": "https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\uc0b4\ub2e4\uac00",
+        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "\uc8c4\uc640 \ubc8c (\u7f6a\uc640 \u7f70)",
+      "url": "https://open.spotify.com/track/2yfD1eKDVlNRxDUE5Q1n3Y"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\uc0b4\ub2e4\uac00",
-        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
-      },
-      "artists": [
-        {
-          "name": "SG Wannabe",
-          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
-        }
-      ],
-      "duration_ms": 283786,
-      "name": "\uc0b4\ub2e4\uac00",
-      "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "The Way I Am",
         "url": "https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216323,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\uc0b4\ub2e4\uac00",
+        "url": "https://open.spotify.com/album/0BneVJK0dUlj0q9RRjADQe"
+      },
+      "artists": [
+        {
+          "name": "SG Wannabe",
+          "url": "https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn"
+        }
+      ],
+      "duration_ms": 283786,
+      "name": "\uc0b4\ub2e4\uac00",
+      "url": "https://open.spotify.com/track/0qqHi5iyYkcbvCpnWwHKLl"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "My love has faded away",
-        "url": "https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB"
-      },
-      "artists": [
-        {
-          "name": "Monday Kiz",
-          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
-        }
-      ],
-      "duration_ms": 220466,
-      "name": "My love has faded away",
-      "url": "https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Gugip: C.J.2002",
         "url": "https://open.spotify.com/album/706OvChSHJpCoIeyfpZQEs"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 260480,
       "name": "Seulpun honjatmal",
       "url": "https://open.spotify.com/track/0JRVGUATX7IKaKVwsgExmj"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "My love has faded away",
+        "url": "https://open.spotify.com/album/69dtdfRPdV7cV3taX0horB"
+      },
+      "artists": [
+        {
+          "name": "Monday Kiz",
+          "url": "https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD"
+        }
+      ],
+      "duration_ms": 220466,
+      "name": "My love has faded away",
+      "url": "https://open.spotify.com/track/1K7POuN7vtBx5MCAi2W6DJ"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Cool Best",
-        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
-      },
-      "artists": [
-        {
-          "name": "COOL",
-          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
-        }
-      ],
-      "duration_ms": 255844,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Exhibition",
         "url": "https://open.spotify.com/album/5lH78eRxZ9J5M6wlTPS9Gj"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "So Fresh",
-        "url": "https://open.spotify.com/album/697XKzYvrKSG7K5G1kqYSi"
+        "name": "Cool Best",
+        "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
       "artists": [
         {
-          "name": "MC MONG",
-          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+          "name": "COOL",
+          "url": "https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9"
         }
       ],
-      "duration_ms": 244927,
-      "name": "So Fresh",
-      "url": "https://open.spotify.com/track/7h2JM9Sp1lAtXXyOpBiHMR"
+      "duration_ms": 255844,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1563,6 +1547,22 @@
       "duration_ms": 238466,
       "name": "To My Boyfriend",
       "url": "https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "So Fresh",
+        "url": "https://open.spotify.com/album/697XKzYvrKSG7K5G1kqYSi"
+      },
+      "artists": [
+        {
+          "name": "MC MONG",
+          "url": "https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD"
+        }
+      ],
+      "duration_ms": 244927,
+      "name": "So Fresh",
+      "url": "https://open.spotify.com/track/7h2JM9Sp1lAtXXyOpBiHMR"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "WHISPERS OF LOVE",
-        "url": "https://open.spotify.com/album/6IPStm5DZgYsitK37MoH3F"
-      },
-      "artists": [
-        {
-          "name": "The NuTs",
-          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
-        }
-      ],
-      "duration_ms": 254093,
-      "name": "\uc794\uc18c\ub9ac",
-      "url": "https://open.spotify.com/track/2BWtvTeKwOJ0h0tdgUncyv"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Big 5",
         "url": "https://open.spotify.com/album/1jePHxR3ksfXevvOi2IiiN"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 244509,
       "name": "Sad Fate",
       "url": "https://open.spotify.com/track/3cgyPqSOEKIjW63CeOyJb1"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "WHISPERS OF LOVE",
+        "url": "https://open.spotify.com/album/6IPStm5DZgYsitK37MoH3F"
+      },
+      "artists": [
+        {
+          "name": "The NuTs",
+          "url": "https://open.spotify.com/artist/56NKtypwi90dIOb5ZQZwHb"
+        }
+      ],
+      "duration_ms": 254093,
+      "name": "\uc794\uc18c\ub9ac",
+      "url": "https://open.spotify.com/track/2BWtvTeKwOJ0h0tdgUncyv"
     },
     {
       "added_at": "2024-08-05 16:59:31",

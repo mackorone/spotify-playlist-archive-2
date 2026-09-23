@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Son Volt",
-  "num_followers": 240016,
+  "num_followers": 240039,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "The New World Wave",
-        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
-      },
-      "artists": [
-        {
-          "name": "Lambchop",
-          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
-        }
-      ],
-      "duration_ms": 307706,
-      "name": "The New World Wave",
-      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Servant of Love",
         "url": "https://open.spotify.com/album/5ISnw1aCUfzN5D3EVTQ77e"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 317213,
       "name": "Shine a Different Way",
       "url": "https://open.spotify.com/track/0idcoARtmuQYpMuU1gMzZW"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "The New World Wave",
+        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "duration_ms": 307706,
+      "name": "The New World Wave",
+      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "I Am Shelby Lynne (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/73PlmZa9hwjzFEmQgy0WLi"
+      },
+      "artists": [
+        {
+          "name": "Shelby Lynne",
+          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Gotta Get Back",
+      "url": "https://open.spotify.com/track/0nRjKEtUgbkooWRkMX0fCL"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Great Television",
         "url": "https://open.spotify.com/album/7gBCrGIdA2KIp7BABfDa2l"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 210540,
       "name": "Don\u2019t Look Back",
       "url": "https://open.spotify.com/track/5G87BJzH4ueDysXpopu2Mm"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "I Am Shelby Lynne (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/73PlmZa9hwjzFEmQgy0WLi"
-      },
-      "artists": [
-        {
-          "name": "Shelby Lynne",
-          "url": "https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4"
-        }
-      ],
-      "duration_ms": 219306,
-      "name": "Gotta Get Back",
-      "url": "https://open.spotify.com/track/0nRjKEtUgbkooWRkMX0fCL"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Too Blessed to Be Stressed",
-        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
-      },
-      "artists": [
-        {
-          "name": "Paul Thorn",
-          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
-        }
-      ],
-      "duration_ms": 284253,
-      "name": "Everything's Gonna Be Alright",
-      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "1988",
         "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 172733,
       "name": "Django and Jimmie",
       "url": "https://open.spotify.com/track/6cZ8T2c95NfRTrGEXqThIq"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Too Blessed to Be Stressed",
+        "url": "https://open.spotify.com/album/5ijCn137sHy33W2TvoOM0p"
+      },
+      "artists": [
+        {
+          "name": "Paul Thorn",
+          "url": "https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ"
+        }
+      ],
+      "duration_ms": 284253,
+      "name": "Everything's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/2cAAnvrlJr4Jg7DhvWZ9T5"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "You're My Favorite Song / Wild At Heart",
-        "url": "https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m"
-      },
-      "artists": [
-        {
-          "name": "Neil Diamond",
-          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "You're My Favorite Song",
-      "url": "https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "I Could Have Told You",
         "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 216520,
       "name": "I Could Have Told You",
       "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "You're My Favorite Song / Wild At Heart",
+        "url": "https://open.spotify.com/album/4JXNUHFgUywwhpdirguz7m"
+      },
+      "artists": [
+        {
+          "name": "Neil Diamond",
+          "url": "https://open.spotify.com/artist/7mEIug7XUlQHikrFxjTWes"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "You're My Favorite Song",
+      "url": "https://open.spotify.com/track/0Qa7dWiWyviTU70B7a4byN"
     },
     {
       "added_at": "2026-08-28 04:02:17",

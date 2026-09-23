@@ -4,7 +4,7 @@
 
 > Dive into a diverse collection of recent releases from Christian and inspirational artists across all genres\. Cover: Cory Asbury
 
-1,566 songs - 4 day 0 hr 33 min
+1,567 songs - 4 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -800,6 +800,7 @@
 | [Let The Church Sing](https://open.spotify.com/track/1Kb56ii7Gr2DgRMon5tgmD) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [gio.](https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn), [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [Let The Church Sing](https://open.spotify.com/album/0MeSS7BlmQYdx0vRXWUnpn) | 3:16 | 2025-09-14 | 2025-10-07 |
 | [Let the light shine in](https://open.spotify.com/track/3SIu52NmPiho1jFjoWn7ST) | [Joshua Luke Smith](https://open.spotify.com/artist/29wlT5isBRIOp8YZYVAZ0A) | [Let the light shine in](https://open.spotify.com/album/0EOCubgXZCeMXMcPIgLP6W) | 3:08 | 2025-08-04 | 2025-10-07 |
 | [Let Them See You](https://open.spotify.com/track/658IHccgv9C6DRpKNxcRZC) | [Weeks Revival](https://open.spotify.com/artist/1Zi57yVO40T6LnTmyTBU7O) | [Weeks Revival](https://open.spotify.com/album/2H0gB938PD9kL3lWvsXJiE) | 3:56 | 2026-08-21 |  |
+| [Let There Be Light](https://open.spotify.com/track/097IBpFmpPAsqQIXeAFEuF) | [Seacoast](https://open.spotify.com/artist/0x6XZndsBaAe2jNT5j3VHv), [Andy Cherry](https://open.spotify.com/artist/67xUi7je7BPGgGdem8oycN) | [Let There Be Light](https://open.spotify.com/album/1g5jklgkDtpSnaf96eEwyG) | 4:31 | 2026-09-18 |  |
 | [Let's Build A House](https://open.spotify.com/track/6rDA22IVMyv0t2knSa4ROE) | [Good Weather Forecast](https://open.spotify.com/artist/4HkAv0IL2kiVIC4CylhUer), [Real Life Guys](https://open.spotify.com/artist/7seL1mF4LajINchp4Ax5s5) | [Let's Build A House](https://open.spotify.com/album/2YBFk3aM0OTxompx4kXmYJ) | 2:09 | 2024-08-09 | 2024-11-30 |
 | [Let's Hope Again](https://open.spotify.com/track/6hHuoltYpCPEbwerV3ROEV) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Songs from the Valley](https://open.spotify.com/album/0QjeghvE34mmEBpby2n4Lf) | 3:46 | 2025-10-20 | 2025-12-06 |
 | [Letters To Heaven](https://open.spotify.com/track/3yetakf9ED4buJVMTTh9pU) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Letters To Heaven](https://open.spotify.com/album/65znZ3ee5OJ7YDaT9SAXRT) | 4:13 | 2025-12-06 | 2026-01-18 |
@@ -1567,7 +1568,7 @@
 | [Your Love](https://open.spotify.com/track/7pvu7uNMHqULQW3dWYXbSg) | [Kevin Winebarger](https://open.spotify.com/artist/0Mihk33hOz5pYMIDALdiFG) | [Your Love](https://open.spotify.com/album/5CMEgMzRAFGo9wSW4pLkEa) | 3:18 | 2025-09-14 | 2025-11-16 |
 | [Your Love](https://open.spotify.com/track/6FEWELlUL95LbTc3BdOmn6) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [Your Love](https://open.spotify.com/album/1wL8nxLrSs5RBYOTFp5cIu) | 3:33 | 2026-04-17 | 2026-05-20 |
 | [Your Love Is A Flood](https://open.spotify.com/track/4DY5O3TgTFuTIsYDn6arlc) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Your Love Is A Flood](https://open.spotify.com/album/57S7kWSTHvOpOnFuREKtRA) | 3:45 | 2025-08-04 | 2025-09-15 |
-| [Your Spirit](https://open.spotify.com/track/3rB9oUKkKELWw5HD7DvLK2) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Your Spirit](https://open.spotify.com/album/3lIPGiL0tCwQOe50SQUTRt) | 3:21 | 2026-08-07 |  |
+| [Your Spirit](https://open.spotify.com/track/3rB9oUKkKELWw5HD7DvLK2) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Your Spirit](https://open.spotify.com/album/3lIPGiL0tCwQOe50SQUTRt) | 3:21 | 2026-08-07 | 2026-09-23 |
 | [Your Unfailing Love](https://open.spotify.com/track/7hseWCWgCUXAE2trkTs2Pb) | [Darin and Brooke Aldridge](https://open.spotify.com/artist/5pwpynH9ZDP8ECECyMJFHK) | [Your Unfailing Love](https://open.spotify.com/album/3eVe6E36MiaVsV13rwSo0b) | 3:03 | 2026-01-17 | 2026-02-21 |
 | [YOUR WAY](https://open.spotify.com/track/6MmU56aIG5mW3qwvE45rXl) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [YOUR WAY](https://open.spotify.com/album/3gmSMDHYNmLidMIFAChMKH) | 3:50 | 2025-06-21 | 2025-07-20 |
 | [YOUR WAY'S BETTER](https://open.spotify.com/track/4qrbjoNP9NZwe79Rg9IlFU) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [YOUR WAY'S BETTER](https://open.spotify.com/album/6BDk028UnxaR4py1gf8Vtk) | 3:18 | 2025-04-18 | 2025-06-22 |

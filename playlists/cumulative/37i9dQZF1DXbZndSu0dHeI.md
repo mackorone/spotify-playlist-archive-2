@@ -4,7 +4,7 @@
 
 > Really lovely songs.
 
-564 songs - 1 day 9 hr 57 min
+565 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,7 @@
 | [Hail](https://open.spotify.com/track/450ZDkFvuRfdsfbbeDQfyq) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Bright Things I Found In The Dark](https://open.spotify.com/album/2xLweeSXmZEPeXMWoRpudT) | 4:40 | 2026-05-01 |  |
 | [Hallelujah](https://open.spotify.com/track/6P2ZBHJZfp2yltmlk2M2gD) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [I'll Be Waiting \(Sad At Christmas\)](https://open.spotify.com/album/0jC03OijHmOVjS2sc9yUuM) | 3:20 | 2023-01-20 | 2023-08-15 |
 | [Halloween Costume](https://open.spotify.com/track/1vv16Pho6EfYcpsO5hydxh) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Halloween Costume](https://open.spotify.com/album/7p1474NP93HoaWyfjds5Tw) | 2:29 | 2023-09-29 | 2026-04-24 |
-| [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-22 |  |
+| [Hannah Montana](https://open.spotify.com/track/00ko8Vr9Hbw0hJC9laqBOj) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Hannah Montana](https://open.spotify.com/album/1rcZE2CoDdOF8W0XUC4Yjp) | 2:25 | 2022-06-22 | 2026-09-23 |
 | [HAPPY DAY](https://open.spotify.com/track/2mLXBgBD4cvE09yRDWTrWt) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [OUCH](https://open.spotify.com/album/3bHZqrZ32NA0BG7YTKf4Gp) | 3:54 | 2025-03-29 | 2025-04-16 |
 | [hate to be lame](https://open.spotify.com/track/26MJjeJ0NSOQDKeZzrEFMl) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 2:36 | 2022-08-05 | 2024-04-19 |
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-08 | 2022-11-02 |
@@ -407,6 +407,7 @@
 | [rollercoaster](https://open.spotify.com/track/2Gx7vUqoi6u6nHiYUMrrH0) | [søftbleach](https://open.spotify.com/artist/6dKuAS35mJiyRGAjOtSS17) | [rollercoaster](https://open.spotify.com/album/4iXlTnAz2lAS2oXsm8xAKY) | 2:31 | 2026-04-23 | 2026-06-16 |
 | [Rooftop](https://open.spotify.com/track/2Yml7AfTUeD314liazChNC) | [Cinema Gold](https://open.spotify.com/artist/0K7BbW3FkOqwtpgLyTUAca) | [Rooftop](https://open.spotify.com/album/3Igeg1be3hBUPElfNhxRbO) | 3:08 | 2022-03-19 | 2022-04-10 |
 | [Running/Planning](https://open.spotify.com/track/65Csu3DczS27ZFv6LCieKl) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Running/Planning](https://open.spotify.com/album/31gACQVSidtVeFzL4hUGy2) | 4:26 | 2025-03-29 |  |
+| [Sabbath Deep Cuts](https://open.spotify.com/track/0ytgwF282jWaH1rtTsJMgc) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Sabbath Deep Cuts](https://open.spotify.com/album/0XrxPkmUNib3Fmcko01Joi) | 3:34 | 2026-08-14 |  |
 | [Sad Summer](https://open.spotify.com/track/1BK4EhT0zIW5FoD4LQRD4b) | [sundayclub](https://open.spotify.com/artist/7dcTyitRlZLvXG825D7AqM) | [Sad Summer](https://open.spotify.com/album/3gX6kR3RhrMDD6P6gh03dI) | 3:29 | 2026-06-18 | 2026-08-29 |
 | [Saltwater](https://open.spotify.com/track/2QSrwZ7iVknZgkfi4aD6cn) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/7DdxUB0yaxk3JTWDhrYFhH) | 4:07 | 2022-06-22 | 2024-04-19 |
 | [Saltwater](https://open.spotify.com/track/4mC5Bp4nDFI6yht9XrO7VA) | [Geowulf](https://open.spotify.com/artist/01TQ6CLvPSOYGUqRQ3nWgZ) | [Great Big Blue](https://open.spotify.com/album/73b3NhgAXQiC6fmbR0Y2CA) | 4:07 | 2022-03-19 | 2022-06-24 |

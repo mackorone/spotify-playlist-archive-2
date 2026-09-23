@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 88488,
+  "num_followers": 88518,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "If I Was (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 192053,
       "name": "I'm on Fire",
       "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "The Place I Left Behind",
         "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 244840,
       "name": "The Place I Left Behind",
       "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Painting of a Panic Attack (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y"
-      },
-      "artists": [
-        {
-          "name": "Frightened Rabbit",
-          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "Get Out",
-      "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Bedouine (Deluxe)",
         "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 231066,
       "name": "Nice and Quiet",
       "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Painting of a Panic Attack (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y"
+      },
+      "artists": [
+        {
+          "name": "Frightened Rabbit",
+          "url": "https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr"
+        }
+      ],
+      "duration_ms": 201146,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "No Rain, No Rose (Vinyl)",
-        "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
-      },
-      "artists": [
-        {
-          "name": "John Craigie",
-          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
-        },
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 313078,
-      "name": "I Am California (feat. Gregory Alan Isakov)",
-      "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Small Town Heroes",
         "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
       },
@@ -1523,6 +1503,26 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
+        "name": "No Rain, No Rose (Vinyl)",
+        "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
+      },
+      "artists": [
+        {
+          "name": "John Craigie",
+          "url": "https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK"
+        },
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 313078,
+      "name": "I Am California (feat. Gregory Alan Isakov)",
+      "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
         "name": "The Weather Station",
         "url": "https://open.spotify.com/album/31zbZWJ5o51IijJaVjZDOQ"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "The Carpenter",
-        "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 271186,
-      "name": "Live And Die",
-      "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Ripely Pine",
         "url": "https://open.spotify.com/album/0f0Owyducr559mI43AW8Mt"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 387693,
       "name": "Crane Your Neck - Remastered",
       "url": "https://open.spotify.com/track/7FMedJPiag48GjON0tp2PO"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "The Carpenter",
+        "url": "https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 271186,
+      "name": "Live And Die",
+      "url": "https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml"
     },
     {
       "added_at": "2024-08-28 14:05:36",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-08-28 14:05:36",
       "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 242493,
-      "name": "Mint Condition",
-      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
-    },
-    {
-      "added_at": "2024-08-28 14:05:36",
-      "album": {
         "name": "Bashed Out",
         "url": "https://open.spotify.com/album/7DbfCArRXJvf4cgKWPUHIv"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 221120,
       "name": "Bashed Out",
       "url": "https://open.spotify.com/track/1chmZUBdfxoLWN1LCZ6HLO"
+    },
+    {
+      "added_at": "2024-08-28 14:05:36",
+      "album": {
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
+      },
+      "artists": [
+        {
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
+        }
+      ],
+      "duration_ms": 242493,
+      "name": "Mint Condition",
+      "url": "https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA"
     },
     {
       "added_at": "2024-08-28 14:05:36",

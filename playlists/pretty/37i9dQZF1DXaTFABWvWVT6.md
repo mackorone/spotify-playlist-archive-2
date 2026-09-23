@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,226 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,239 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 73 | [Fine Night](https://open.spotify.com/track/5BoA4ehsprvSzDBuFOPgdA) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fine Night](https://open.spotify.com/album/43Hg8uG1b3ZpSeP4y8Novn) | 2:41 |
 | 74 | [Boujee](https://open.spotify.com/track/5jcgGbYZAFYR9s2HuVO7ff) | [Stephani B](https://open.spotify.com/artist/1KO1lRmzn2ruREb8hlFa0A), [Scott Forshaw](https://open.spotify.com/artist/2B3lljR6lMaymKtckOsdoy) | [Boujee](https://open.spotify.com/album/3JQg1rv2uGIQEdfnoir8CJ) | 2:32 |
 | 75 | [Don’t Forget My Love](https://open.spotify.com/track/3LnETnq2xyUpKcGqAQLJy1) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Diplo](https://open.spotify.com/album/2Lm2otWdTB4ChDfvbRXHIu) | 3:19 |
-| 76 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
-| 77 | [Crazy](https://open.spotify.com/track/7aYBPp0VIdidTQr7H77pio) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392), [EWAN CARTER](https://open.spotify.com/artist/1wjHMUncSf4Iq5APKUGmAI) | [Crazy](https://open.spotify.com/album/5JjO5PjxA1tm3PD6z7tXiZ) | 3:38 |
+| 76 | [Crazy](https://open.spotify.com/track/7aYBPp0VIdidTQr7H77pio) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392), [EWAN CARTER](https://open.spotify.com/artist/1wjHMUncSf4Iq5APKUGmAI) | [Crazy](https://open.spotify.com/album/5JjO5PjxA1tm3PD6z7tXiZ) | 3:38 |
+| 77 | [Different Side](https://open.spotify.com/track/76Lq3l4TEzt2javAjXezAr) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [Different Side](https://open.spotify.com/album/5MvoxzRfTWDYjNF98qRezc) | 3:13 |
 | 78 | [Rock The Rhythm \(I Like That\)](https://open.spotify.com/track/5IH4qsWYYpC4o1SNm1aQX2) | [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Richard Vission](https://open.spotify.com/artist/3EBdhh05GoAX3lIqJSPVXt), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Club Rompas, Vol\. 2](https://open.spotify.com/album/5TbqhCXehVUcD9htuxteQX) | 2:49 |
 | 79 | [Finder \- Radio\-Edit](https://open.spotify.com/track/7az0Hd7YKK5UT10M1nG56c) | [Ninetoes](https://open.spotify.com/artist/5MP4PiGA5PNFrsVjtauFnC) | [Finder](https://open.spotify.com/album/11fQed1lTippkC0Emeah41) | 3:26 |
 | 80 | [Holding You Back](https://open.spotify.com/track/7zS6n4RW68iQOusZM0KtPH) | [Vivace](https://open.spotify.com/artist/6wxjw4LylYC3No7kmbsPCt), [Gusta](https://open.spotify.com/artist/1fNsy2CqJXAA2kA0dIPGFS), [K.ONE](https://open.spotify.com/artist/4f15TpvwbbqszvGawHTMFt) | [Holding You Back](https://open.spotify.com/album/2QswxBkfJjlYtacXdDhtJT) | 4:24 |

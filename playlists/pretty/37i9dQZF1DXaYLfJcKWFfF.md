@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from Africa and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,462 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,480 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 30 | [Exit Signs](https://open.spotify.com/track/1AUn3FMh5YsMB9Kv37097W) | [Hannovr](https://open.spotify.com/artist/0o2zqxVB0ofk28wqpPzFZf) | [Exit Signs](https://open.spotify.com/album/03u4t8s1QezNAXlVLQobii) | 4:46 |
 | 31 | [OKAY!](https://open.spotify.com/track/6lmewW4pJlDGmZWgaWa1mT) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [OKAY!](https://open.spotify.com/album/329L2mns4w0MAQTmxg00v8) | 2:57 |
 | 32 | [Running](https://open.spotify.com/track/2882IVT2uMwSdlDpi8gbUT) | [Cut Capers](https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Running](https://open.spotify.com/album/4lnIg2FghrzIFd5sVpq7K5) | 3:34 |
-| 33 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
+| 33 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 |
 | 34 | [Expiry](https://open.spotify.com/track/471xYWSi7bUgkD3xYrbOl7) | [Akeeda](https://open.spotify.com/artist/2yuVKgx8du6G6BGl5LrHcK) | [Expiry](https://open.spotify.com/album/1O2OWeGOolahIVjZzawhyp) | 4:21 |
 | 35 | [infrunayou](https://open.spotify.com/track/13nDtpeYtIelDBrniTD7Z3) | [Baves O](https://open.spotify.com/artist/42tS8RFwfqTZFuyW0FrPIs) | [infrunayou](https://open.spotify.com/album/4xQp8J3Yzvu13vTsQEJ9Yf) | 2:24 |
 | 36 | [All The Things](https://open.spotify.com/track/0Wknp7wThnRkNl2xw4h19g) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [All The Things](https://open.spotify.com/album/2RGi75eKSdLPC99WnzMggs) | 3:01 |
@@ -52,15 +52,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 42 | [Killer](https://open.spotify.com/track/6c38SPfKudn76YKBDy60cL) | [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Killer](https://open.spotify.com/album/4cL9lVAmKtRqA1hC8nNwe5) | 3:28 |
 | 43 | [Rabbit Hole](https://open.spotify.com/track/6uZhBQRPCVOvMs9g58EEm1) | [Ava like Lava](https://open.spotify.com/artist/2L7QE83MaWKPuIwaxSyEfk) | [Malice in Wonderland \(Deluxe\)](https://open.spotify.com/album/4njgWtWmM9y6EVA7HohLTT) | 2:37 |
 | 44 | [Where's Your Girlfriend](https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Where's Your Girlfriend](https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS) | 3:33 |
-| 45 | [Old Friend](https://open.spotify.com/track/2WY82DxJJon1zXRuFLdwkg) | [David Derman](https://open.spotify.com/artist/7wxxhtLbg3D7B6q4HsYQ3A) | [Old Friend](https://open.spotify.com/album/1Vv7pCT3NRnkznBwdWyejW) | 3:09 |
+| 45 | [Panic Island](https://open.spotify.com/track/03TKqOsWlyjFA5IhWflp5t) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [Cincinnati Pumpin!!](https://open.spotify.com/album/5krskJ12OhkTlYuGwxJ0W3) | 2:02 |
 | 46 | [Unloved](https://open.spotify.com/track/6JDDPUvENdRLOyfpLGPLif) | [Jack Apk](https://open.spotify.com/artist/0dze6vYaglBcALjI2P2vrs), [two.cozyy](https://open.spotify.com/artist/5VaI5ZkKSmiL5GeQWhlCCH) | [Unloved](https://open.spotify.com/album/6aXzs8k5WXmJMlVoxSQrsd) | 3:41 |
 | 47 | [Souls x Mates](https://open.spotify.com/track/7x46LYaPdZCdare3bWBiwo) | [Dandi Noxx](https://open.spotify.com/artist/1Hq5fqbb6DloZnrHnsPubz) | [Souls x Mates](https://open.spotify.com/album/56sY9khk2hWWxssbXtnAaA) | 3:51 |
 | 48 | [Burn](https://open.spotify.com/track/6GEsX9hkY1PnmXKVwHWfG8) | [Ashlie Skye](https://open.spotify.com/artist/51cBqHMx6juJ3TTwwGfEgM) | [Burn](https://open.spotify.com/album/1b5a25IOKqULsVhZilxxd1) | 3:10 |
 | 49 | [Mediocre Man](https://open.spotify.com/track/1hUQcaN5z13FvtnNhhPsoy) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Mediocre Man](https://open.spotify.com/album/5IpW6tVPJe4bVGn2dKnRLn) | 3:05 |
 | 50 | [I’m On Fire \(feat\. The Cavemen.\)](https://open.spotify.com/track/50caDbmTdqSkDXmTm8e5xa) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [HOPE!!](https://open.spotify.com/album/3x1Avu2Fct0HPWBpl0ob4b) | 2:38 |
 | 51 | [Ordinary](https://open.spotify.com/track/0Dyc3YFggv7hi2Atndeuqr) | [Kaiya Gamble](https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU), [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Ordinary](https://open.spotify.com/album/2W5j0AdIbhTOiu1faWcCMV) | 2:46 |
-| 52 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 |
-| 53 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
+| 52 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
+| 53 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 |
 | 54 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
 | 55 | [Wayside Lover](https://open.spotify.com/track/1bHXMTrHyKqy0k4lOm1rrA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Wayside Lover](https://open.spotify.com/album/75IL5pjKVwJZKLWVTzLKkj) | 4:11 |
 | 56 | [UNGOWAM](https://open.spotify.com/track/06iPJ5s9KJ5oGmEFdiKvk9) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [UNGOWAM](https://open.spotify.com/album/02pEPun8I1XhMp8RvMXVBK) | 3:13 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 73 | [Not Alone](https://open.spotify.com/track/5wqvuhFNzwgiopq90xJiGy) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Not Alone](https://open.spotify.com/album/5DHve1hHU8qGaBeOM6MMtE) | 2:53 |
 | 74 | [Holu Lufuno](https://open.spotify.com/track/0uIEnVQQGOOtOf9VMhJbub) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [NOGA](https://open.spotify.com/artist/60jmvD80E7jJjJ07M1tRDn) | [Holu Lufuno](https://open.spotify.com/album/4LfLIWQuUkomZgDTZhb2Nu) | 3:21 |
 | 75 | [Let Love Be](https://open.spotify.com/track/6OydM37e9K9svTV4oXbFlV) | [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Duality Pt 2 Peace](https://open.spotify.com/album/1oVxjncoOHzk6B56gcRhgw) | 4:25 |
-| 76 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 |
-| 77 | [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 |
+| 76 | [The Coffee Song](https://open.spotify.com/track/1Ah4lhKd037z5lbG7BO7of) | [Louis Island](https://open.spotify.com/artist/6rJfoutBvVApGcMV0FNIft) | [The Coffee Song](https://open.spotify.com/album/1apdfQVzlefD9wbTQrMCkN) | 2:21 |
+| 77 | [With You in Mind](https://open.spotify.com/track/7IbiKaKBeEC9226RizprKv) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6), [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [With You in Mind](https://open.spotify.com/album/5dDVYZyFfxvCZR9lUrQPsC) | 2:57 |
 | 78 | [Kú yâk ñtuà éyét](https://open.spotify.com/track/54kVmozEcghsPjSXk8uHvm) | [Etuk Ubong](https://open.spotify.com/artist/1vb5a9BPGYGCGt0zFQ4up7) | [Kú yâk ñtuà éyét](https://open.spotify.com/album/3j2J214yaLBbnBUQL4W8R6) | 5:51 |
-| 79 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
-| 80 | [You Want Me](https://open.spotify.com/track/4uWaSDMiSisZW5cf7mCNdF) | [Rebecca Lee](https://open.spotify.com/artist/5Mm5UKAlvabjuuw6i4oz98) | [You Want Me](https://open.spotify.com/album/6DzCw29EiZh5vbzfJwo7L7) | 3:07 |
+| 79 | [You Want Me](https://open.spotify.com/track/4uWaSDMiSisZW5cf7mCNdF) | [Rebecca Lee](https://open.spotify.com/artist/5Mm5UKAlvabjuuw6i4oz98) | [You Want Me](https://open.spotify.com/album/6DzCw29EiZh5vbzfJwo7L7) | 3:07 |
+| 80 | [Old Days](https://open.spotify.com/track/2V5cFMSrVqHBcHauVHffSY) | [Diamond Jimma](https://open.spotify.com/artist/2751FBlPyUIlDQ9mHySmPf) | [Akanbi](https://open.spotify.com/album/5Ly3Szv83dSvm2wC1LJ7r3) | 2:24 |
 
 Snapshot ID: `AAAAACbhYHavTDaEfRVOXy/Nrg9PWvKz`

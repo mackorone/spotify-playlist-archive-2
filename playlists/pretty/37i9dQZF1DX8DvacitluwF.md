@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: TEEKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,129 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,138 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 23 | [2FRESH](https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:34 |
 | 24 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
 | 25 | [Every Part of Me](https://open.spotify.com/track/54GqsB6gSZk8yejl2L0kOX) | [Clxrity](https://open.spotify.com/artist/1Wt7vyNhtYEL9GKf7fnDzt), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Rehsa](https://open.spotify.com/artist/4LAzTlAerez2KIQhodG2Po) | [Every Part of Me](https://open.spotify.com/album/1D1J7SRHy9NlSmDEqdy8Fc) | 5:07 |
-| 26 | [FOOL ME ONCE \(feat\. Leon Thomas\)](https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:18 |
-| 27 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
+| 26 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
+| 27 | [FOOL ME ONCE \(feat\. Leon Thomas\)](https://open.spotify.com/track/1cfQL9PukFheShxHQ1vlIK) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:18 |
 | 28 | [have to.](https://open.spotify.com/track/7GApeoo08HHJ70980XyPZz) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Icon](https://open.spotify.com/album/7oBZ821DTjUc2Ky2fV6l6Q) | 3:27 |
 | 29 | [Big Daddy](https://open.spotify.com/track/5WcQ5AwCp9mSqpsul6ccx4) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Is A Kingdom](https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c) | 2:46 |
 | 30 | [Healer](https://open.spotify.com/track/2wRrrlLs4fncP1TzVjt2Gt) | [Ila Nia](https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp), [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN) | [Healer](https://open.spotify.com/album/5jXUCN23b2kr4SAl7vTegF) | 3:55 |

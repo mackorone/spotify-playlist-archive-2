@@ -1,6 +1,6 @@
 {
   "description": "Les nouveaut\u00e9s rap franco sans fronti\u00e8res. Photo: Djadja & Dinaz",
-  "num_followers": 23993,
+  "num_followers": 24007,
   "original_name": "Rap francophone",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,42 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
+        "name": "Fille \u00e0 Papa",
+        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Fille \u00e0 Papa",
+      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
+    },
+    {
+      "added_at": "2026-09-18 04:03:35",
+      "album": {
+        "name": "Original",
+        "url": "https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1"
+      },
+      "artists": [
+        {
+          "name": "Yuzmv",
+          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
+        }
+      ],
+      "duration_ms": 144335,
+      "name": "Original",
+      "url": "https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR"
+    },
+    {
+      "added_at": "2026-09-18 04:03:35",
+      "album": {
         "name": "Allo Doudou",
         "url": "https://open.spotify.com/album/46wfAT112nlHK5bOeQIF2U"
       },
@@ -711,22 +747,6 @@
       "duration_ms": 170681,
       "name": "Allo Doudou",
       "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
-    },
-    {
-      "added_at": "2026-09-18 04:03:35",
-      "album": {
-        "name": "Original",
-        "url": "https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1"
-      },
-      "artists": [
-        {
-          "name": "Yuzmv",
-          "url": "https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm"
-        }
-      ],
-      "duration_ms": 144335,
-      "name": "Original",
-      "url": "https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR"
     },
     {
       "added_at": "2026-09-18 04:03:35",
@@ -843,42 +863,6 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
-        "name": "Ch\u00e9rie coco",
-        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Ch\u00e9rie coco",
-      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
-    },
-    {
-      "added_at": "2026-09-18 04:03:35",
-      "album": {
-        "name": "Fille \u00e0 Papa",
-        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        },
-        {
-          "name": "La Rvfleuze",
-          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Fille \u00e0 Papa",
-      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
-    },
-    {
-      "added_at": "2026-09-18 04:03:35",
-      "album": {
         "name": "Histoire sans fin",
         "url": "https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 209617,
       "name": "Histoire sans fin",
       "url": "https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8"
+    },
+    {
+      "added_at": "2026-09-18 04:03:35",
+      "album": {
+        "name": "Ch\u00e9rie coco",
+        "url": "https://open.spotify.com/album/2BrEGJdhqggfkJeFe8OMnU"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Ch\u00e9rie coco",
+      "url": "https://open.spotify.com/track/0xQsGakPk9wUzWNQEmut53"
     },
     {
       "added_at": "2026-09-18 04:03:35",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
-        "name": "GROSEILLE",
-        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
-      },
-      "artists": [
-        {
-          "name": "Timar",
-          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "GROSEILLE",
-      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
-    },
-    {
-      "added_at": "2026-09-18 04:03:35",
-      "album": {
         "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
         "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 174000,
       "name": "TERIYAKI - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/1kbzRJsAFqLuAHZRDH7L5A"
+    },
+    {
+      "added_at": "2026-09-18 04:03:35",
+      "album": {
+        "name": "GROSEILLE",
+        "url": "https://open.spotify.com/album/6wmE0E3apoelhUyLxr95i3"
+      },
+      "artists": [
+        {
+          "name": "Timar",
+          "url": "https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "GROSEILLE",
+      "url": "https://open.spotify.com/track/3j5YZKkYPMQLJP8K0WvOjo"
     },
     {
       "added_at": "2026-09-18 04:03:35",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
-        "name": "Blanco nemesis",
-        "url": "https://open.spotify.com/album/1CVD0XgRZjmkeO11U90NPo"
-      },
-      "artists": [
-        {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
-        }
-      ],
-      "duration_ms": 193750,
-      "name": "Kendall",
-      "url": "https://open.spotify.com/track/0wBAbM87bxaz3q1tzAawEM"
-    },
-    {
-      "added_at": "2026-09-18 04:03:35",
-      "album": {
         "name": "MCM",
         "url": "https://open.spotify.com/album/09EfixvderJHbDPcLYfajv"
       },
@@ -1359,22 +1343,18 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
-        "name": "L.T.P",
-        "url": "https://open.spotify.com/album/346djqe1ayiS4I67IvgwM5"
+        "name": "Blanco nemesis",
+        "url": "https://open.spotify.com/album/1CVD0XgRZjmkeO11U90NPo"
       },
       "artists": [
         {
-          "name": "Tvslym",
-          "url": "https://open.spotify.com/artist/7jPzAS2xqIxyKHhGHIfuyf"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
         }
       ],
-      "duration_ms": 126829,
-      "name": "L.T.P",
-      "url": "https://open.spotify.com/track/65zLXqR3Odxg5P4BepHoKi"
+      "duration_ms": 193750,
+      "name": "Kendall",
+      "url": "https://open.spotify.com/track/0wBAbM87bxaz3q1tzAawEM"
     },
     {
       "added_at": "2026-09-18 04:03:35",
@@ -1399,6 +1379,26 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
+        "name": "L.T.P",
+        "url": "https://open.spotify.com/album/346djqe1ayiS4I67IvgwM5"
+      },
+      "artists": [
+        {
+          "name": "Tvslym",
+          "url": "https://open.spotify.com/artist/7jPzAS2xqIxyKHhGHIfuyf"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 126829,
+      "name": "L.T.P",
+      "url": "https://open.spotify.com/track/65zLXqR3Odxg5P4BepHoKi"
+    },
+    {
+      "added_at": "2026-09-18 04:03:35",
+      "album": {
         "name": "bracelet",
         "url": "https://open.spotify.com/album/2wazVZzdvI2BUwYMHD078A"
       },
@@ -1411,22 +1411,6 @@
       "duration_ms": 153213,
       "name": "bracelet",
       "url": "https://open.spotify.com/track/0Dk8i2Hj2ySXul7RjdJ3mg"
-    },
-    {
-      "added_at": "2026-09-18 04:03:35",
-      "album": {
-        "name": "PUBLIC ENEMY",
-        "url": "https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4"
-      },
-      "artists": [
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 115488,
-      "name": "BLICK",
-      "url": "https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z"
     },
     {
       "added_at": "2026-09-18 04:03:35",
@@ -1447,6 +1431,22 @@
       "duration_ms": 163199,
       "name": "Maradona",
       "url": "https://open.spotify.com/track/2dTrVHZNTqbPbiwhQK60Kk"
+    },
+    {
+      "added_at": "2026-09-18 04:03:35",
+      "album": {
+        "name": "PUBLIC ENEMY",
+        "url": "https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 115488,
+      "name": "BLICK",
+      "url": "https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z"
     },
     {
       "added_at": "2026-09-18 04:03:35",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax"
-      },
-      "artists": [
-        {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
-        }
-      ],
-      "duration_ms": 138247,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1"
-    },
-    {
-      "added_at": "2026-09-18 04:03:35",
-      "album": {
         "name": "La fuite en avant",
         "url": "https://open.spotify.com/album/130L3uMANE28R0eH0GtmZS"
       },
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/450FUfwWpz8SxcUgfwDzax"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        }
+      ],
+      "duration_ms": 138247,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/3ULzX5ajD6j2sNjGQOj3T1"
+    },
+    {
+      "added_at": "2026-09-18 04:03:35",
+      "album": {
         "name": "On dort pas",
         "url": "https://open.spotify.com/album/3MOlECxhatYw14ImA2wb5b"
       },
@@ -1547,6 +1547,26 @@
       "duration_ms": 168461,
       "name": "On dort pas",
       "url": "https://open.spotify.com/track/4P4CgJm0ganaDLF9FuJRef"
+    },
+    {
+      "added_at": "2026-09-18 04:03:35",
+      "album": {
+        "name": "PASADENA",
+        "url": "https://open.spotify.com/album/5VqUIAfpED1w5lmy98VowY"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "SativaMusic",
+          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
+        }
+      ],
+      "duration_ms": 178203,
+      "name": "PASADENA",
+      "url": "https://open.spotify.com/track/0tMrzFkVagrVZ5b6zAidIy"
     },
     {
       "added_at": "2026-09-18 04:03:35",
@@ -1623,6 +1643,30 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
+        "name": "Ma Ch\u00e9rie",
+        "url": "https://open.spotify.com/album/01bNJzetmG3fFtvsjptaO3"
+      },
+      "artists": [
+        {
+          "name": "Le D",
+          "url": "https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX"
+        },
+        {
+          "name": "Gradur",
+          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 220327,
+      "name": "Ma Ch\u00e9rie",
+      "url": "https://open.spotify.com/track/2y4m6INRnuGtmF0nwaZbNx"
+    },
+    {
+      "added_at": "2026-09-18 04:03:35",
+      "album": {
         "name": "BEAUX GAR\u00c7ONS",
         "url": "https://open.spotify.com/album/5rstd8cBg9dbCzEpS2KxQw"
       },
@@ -1659,26 +1703,22 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
-        "name": "Ma Ch\u00e9rie",
-        "url": "https://open.spotify.com/album/01bNJzetmG3fFtvsjptaO3"
+        "name": "Balenciaga",
+        "url": "https://open.spotify.com/album/7j2wA5aFxbuatJhKAwnquD"
       },
       "artists": [
         {
-          "name": "Le D",
-          "url": "https://open.spotify.com/artist/1q3qfgcLt7dhYNdWLEXgkX"
+          "name": "HOUZ",
+          "url": "https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8"
         },
         {
-          "name": "Gradur",
-          "url": "https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl"
-        },
-        {
-          "name": "Genezio",
-          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+          "name": "BSF",
+          "url": "https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon"
         }
       ],
-      "duration_ms": 220327,
-      "name": "Ma Ch\u00e9rie",
-      "url": "https://open.spotify.com/track/2y4m6INRnuGtmF0nwaZbNx"
+      "duration_ms": 152750,
+      "name": "Balenciaga",
+      "url": "https://open.spotify.com/track/5aYvQs8EzhOLTfQyJ2qiJ1"
     },
     {
       "added_at": "2026-09-18 04:03:35",
@@ -1703,26 +1743,6 @@
     {
       "added_at": "2026-09-18 04:03:35",
       "album": {
-        "name": "Balenciaga",
-        "url": "https://open.spotify.com/album/7j2wA5aFxbuatJhKAwnquD"
-      },
-      "artists": [
-        {
-          "name": "HOUZ",
-          "url": "https://open.spotify.com/artist/2P5XNsALI1wxi2eZfSPPC8"
-        },
-        {
-          "name": "BSF",
-          "url": "https://open.spotify.com/artist/1t9UFK5cJL4JP0jndHqmon"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "Balenciaga",
-      "url": "https://open.spotify.com/track/5aYvQs8EzhOLTfQyJ2qiJ1"
-    },
-    {
-      "added_at": "2026-09-18 04:03:35",
-      "album": {
         "name": "The cat",
         "url": "https://open.spotify.com/album/4YnR2N1LjIrS712qZvBWs7"
       },
@@ -1735,26 +1755,6 @@
       "duration_ms": 156190,
       "name": "TENTATION",
       "url": "https://open.spotify.com/track/4WqDVE0ilxE71vNeRJkirk"
-    },
-    {
-      "added_at": "2026-09-18 04:03:35",
-      "album": {
-        "name": "PASADENA",
-        "url": "https://open.spotify.com/album/5VqUIAfpED1w5lmy98VowY"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "SativaMusic",
-          "url": "https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv"
-        }
-      ],
-      "duration_ms": 178203,
-      "name": "PASADENA",
-      "url": "https://open.spotify.com/track/0tMrzFkVagrVZ5b6zAidIy"
     },
     {
       "added_at": "2026-09-18 04:03:35",
@@ -1775,6 +1775,26 @@
       "duration_ms": 207991,
       "name": "Billets Mauves (feat. SDM)",
       "url": "https://open.spotify.com/track/3yz9i3umZaQTIlUYb8o6bn"
+    },
+    {
+      "added_at": "2026-09-18 04:03:35",
+      "album": {
+        "name": "NEW JACK",
+        "url": "https://open.spotify.com/album/46HVCUHDELAytwlDiSqx7S"
+      },
+      "artists": [
+        {
+          "name": "Beendo Z",
+          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
+        },
+        {
+          "name": "Guizmo",
+          "url": "https://open.spotify.com/artist/6sYR8JTRUUUzSD9IydLhfG"
+        }
+      ],
+      "duration_ms": 165900,
+      "name": "NEW JACK",
+      "url": "https://open.spotify.com/track/0DMX3t9vbuXIbR0Ty9x1RU"
     },
     {
       "added_at": "2026-09-18 04:03:35",
@@ -1811,26 +1831,6 @@
       "duration_ms": 178210,
       "name": "Prime",
       "url": "https://open.spotify.com/track/5ynyV6EvdxJW3HlzSRoRHQ"
-    },
-    {
-      "added_at": "2026-09-18 04:03:35",
-      "album": {
-        "name": "NEW JACK",
-        "url": "https://open.spotify.com/album/46HVCUHDELAytwlDiSqx7S"
-      },
-      "artists": [
-        {
-          "name": "Beendo Z",
-          "url": "https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO"
-        },
-        {
-          "name": "Guizmo",
-          "url": "https://open.spotify.com/artist/6sYR8JTRUUUzSD9IydLhfG"
-        }
-      ],
-      "duration_ms": 165900,
-      "name": "NEW JACK",
-      "url": "https://open.spotify.com/track/0DMX3t9vbuXIbR0Ty9x1RU"
     },
     {
       "added_at": "2026-09-18 04:03:35",

@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 216800,
+  "num_followers": 216877,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABkMthSkBYI3CAPzSHHQP4H",
+  "snapshot_id": "arBzgAAAAABePnZXYI1dQ97qdzMVrpuq",
   "tracks": [
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+        "name": "Jesus Paid It All",
+        "url": "https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 179013,
-      "name": "BEAUTIFUL AS YOU",
-      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
+      "duration_ms": 236765,
+      "name": "Jesus Paid It All (Worthy of The Price)",
+      "url": "https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Paid It All",
-        "url": "https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7"
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
         }
       ],
-      "duration_ms": 236765,
-      "name": "Jesus Paid It All (Worthy of The Price)",
-      "url": "https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST"
+      "duration_ms": 179013,
+      "name": "BEAUTIFUL AS YOU",
+      "url": "https://open.spotify.com/track/73bTh9EIdUabrw26Dyesc3"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
       "duration_ms": 168058,
       "name": "THE ROCK",
       "url": "https://open.spotify.com/track/62MEz6nR7fEtrUVwGLLNxq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CHILD OF GOD (DELUXE)",
-        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Nic D",
-          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
-        }
-      ],
-      "duration_ms": 152750,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
     },
     {
       "added_at": null,
@@ -795,6 +775,26 @@
       "duration_ms": 155067,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CHILD OF GOD (DELUXE)",
+        "url": "https://open.spotify.com/album/18ACKqrML722TjiOO4hUB9"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "duration_ms": 152750,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/6EAuqHM3lqLmiqqHAiF9Qq"
     },
     {
       "added_at": null,

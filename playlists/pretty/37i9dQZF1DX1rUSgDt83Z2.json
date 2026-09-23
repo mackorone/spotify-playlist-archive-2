@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 81562,
+  "num_followers": 81609,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -47,26 +47,6 @@
     {
       "added_at": "2026-09-17 22:02:12",
       "album": {
-        "name": "Ik Ben Niet Meer Bang",
-        "url": "https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi"
-      },
-      "artists": [
-        {
-          "name": "Hannah Mae",
-          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
-        },
-        {
-          "name": "BL\u00d8F",
-          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
-        }
-      ],
-      "duration_ms": 181326,
-      "name": "Ik Ben Niet Meer Bang",
-      "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
-    },
-    {
-      "added_at": "2026-09-17 22:02:12",
-      "album": {
         "name": "Hoe hou ik dit vast",
         "url": "https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh"
       },
@@ -83,6 +63,26 @@
       "duration_ms": 218898,
       "name": "Hoe hou ik dit vast",
       "url": "https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq"
+    },
+    {
+      "added_at": "2026-09-17 22:02:12",
+      "album": {
+        "name": "Ik Ben Niet Meer Bang",
+        "url": "https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        },
+        {
+          "name": "BL\u00d8F",
+          "url": "https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB"
+        }
+      ],
+      "duration_ms": 181326,
+      "name": "Ik Ben Niet Meer Bang",
+      "url": "https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY"
     },
     {
       "added_at": "2026-09-17 22:02:12",
@@ -871,18 +871,18 @@
     {
       "added_at": "2026-09-17 22:02:12",
       "album": {
-        "name": "Ruimte",
-        "url": "https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8"
+        "name": "Je weet dat ik zo ben",
+        "url": "https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr"
       },
       "artists": [
         {
-          "name": "Simon Keizer",
-          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+          "name": "LOE.",
+          "url": "https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R"
         }
       ],
-      "duration_ms": 164813,
-      "name": "Je bent de lente",
-      "url": "https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL"
+      "duration_ms": 182710,
+      "name": "Je weet dat ik zo ben",
+      "url": "https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a"
     }
   ],
   "unique_name": "Helemaal NL",

@@ -4,7 +4,7 @@
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-216 songs - 11 hr 12 min
+217 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,9 +100,10 @@
 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 | 2024-11-04 |  |
 | [Is Het Gek](https://open.spotify.com/track/1imEuX1GPOSvGMlGbzJCD2) | [SANN!E](https://open.spotify.com/artist/2K6EYEUYCstKryMWqZDbGf), [Jim Bakkum](https://open.spotify.com/artist/0RJ6eS1cimNNF64vRXGwfD) | [Is Het Gek](https://open.spotify.com/album/1yJ0JSDA5BESShXio4fuT2) | 2:33 | 2026-03-19 | 2026-07-19 |
 | [It's You Or Me](https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It's You Or Me](https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl) | 3:54 | 2024-06-24 | 2024-11-05 |
-| [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 | 2025-03-27 |  |
+| [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 | 2025-03-27 | 2026-09-23 |
 | [Je Draagt Het Niet Alleen](https://open.spotify.com/track/1sJ91H9pD2L0MXgyjJUZSo) | [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE) | [Beste Zangers 2024 \(Aflevering 3\- Matthijn Buwalda\)](https://open.spotify.com/album/08pHaYLv5D5f7uX86DtRXq) | 3:23 | 2025-01-08 | 2026-03-28 |
 | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/track/7ijzPwiRgNqNqa65zHnRD2) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Je Hoort Nog Steeds Bij Mij](https://open.spotify.com/album/3O6Fegs8MtjUGwVzXAlFMm) | 2:51 | 2026-05-07 |  |
+| [Je weet dat ik zo ben](https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [Je weet dat ik zo ben](https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr) | 3:02 | 2026-09-17 |  |
 | [Je Weet Pas Wat Je Hebt](https://open.spotify.com/track/1vuxcc1UDLpbbNudLtgcbL) | [Elieve](https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf) | [Je Weet Pas Wat Je Hebt](https://open.spotify.com/album/4NdhuGDtL29qQoiKUePuER) | 2:35 | 2025-04-03 | 2025-04-30 |
 | [Jij Was Alles Voor Mij](https://open.spotify.com/track/4FvK8IX6o58SuLSvDWVLU7) | [Ray Benjamin](https://open.spotify.com/artist/0VwHX0pPR8qRDo2xHpTXCJ) | [Jij Was Alles Voor Mij](https://open.spotify.com/album/5BWvQ5dsckUjysCBJnQZeX) | 3:01 | 2024-12-02 | 2025-03-13 |
 | [Kamers Van Je Hart](https://open.spotify.com/track/2AGZtaBJprg0gcHae60e96) | [Jeroen Van Der Boom](https://open.spotify.com/artist/5zEUGwAdlfTQqKplCJJuua) | [Kamers Van Je Hart](https://open.spotify.com/album/23xvYYsPwhQD2Sc543wZf2) | 3:10 | 2025-02-20 | 2025-05-31 |

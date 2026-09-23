@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: beabadoobee
 
-2,318 songs - 5 day 15 hr 14 min
+2,319 songs - 5 day 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,7 @@
 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 | 2024-01-25 | 2024-02-23 |
 | [Creature In The Black Night](https://open.spotify.com/track/4kMBP4BSFB0vNYQDVGiJq6) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Creature In The Black Night](https://open.spotify.com/album/2YWEecYJkLwMbNOG1o4cap) | 3:48 | 2025-07-10 | 2025-10-31 |
 | [Creep \- Spotify Singles](https://open.spotify.com/track/1PZvPorXQLC44jmIQuLfmG) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Spotify Singles](https://open.spotify.com/album/1adXyfI1jkHpWe7145pXK4) | 5:02 | 2023-11-09 | 2023-11-17 |
-| [critic](https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [critic](https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm) | 2:26 | 2026-08-29 |  |
+| [critic](https://open.spotify.com/track/6rXaE630jO1Mzc86aJuUN7) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [critic](https://open.spotify.com/album/4v8eiMaBeDhakgqoJh92Fm) | 2:26 | 2026-08-29 | 2026-09-23 |
 | [Cross The Line](https://open.spotify.com/track/31Y2CcHh4lcGAmw28LWaiI) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Cross The Line](https://open.spotify.com/album/3ZkRYEmyvckTVsN1PHP44a) | 3:07 | 2023-07-06 | 2023-07-14 |
 | [Cross Your Fingers](https://open.spotify.com/track/2kDS2SAoh9qDZjg1uNxDyz) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Cross Your Fingers](https://open.spotify.com/album/6uHfrz1awx019bmQvuqcax) | 3:49 | 2024-02-15 | 2024-02-23 |
 | [Crown of Horns](https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Crown of Horns](https://open.spotify.com/album/5TbeGCTi2n5y7xFuWBAE8D) | 5:45 | 2024-01-18 | 2024-01-26 |
@@ -1579,6 +1579,7 @@
 | [Prize Fighter](https://open.spotify.com/track/0CnzuwAURBgG4Zd7vsR19w) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Rock A Bye Baby, Glimmer of God](https://open.spotify.com/album/7KXoonGSm7oBWn267d5XPa) | 3:49 | 2025-11-27 | 2026-03-05 |
 | [Prizefighter](https://open.spotify.com/track/1mvStaNiiO38hfsdWs5d2F) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Prizefighter](https://open.spotify.com/album/6wSfrkBLBrN619oQx8OYTq) | 3:20 | 2025-04-03 | 2025-05-30 |
 | [Prophecy of the Dragon](https://open.spotify.com/track/6sDP5eAl2X2VZXc6vQfRJM) | [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Prophecy of the Dragon](https://open.spotify.com/album/2vgY7kyz9brbPUKBE6DAqs) | 4:53 | 2023-05-25 | 2023-06-02 |
+| [Protégé](https://open.spotify.com/track/23uXxwZcuhuk4V8cx8YAoG) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [Protégé](https://open.spotify.com/album/79Fvi89pb2gaC0DLSIKju9) | 3:06 | 2026-09-17 |  |
 | [Prove It To You](https://open.spotify.com/track/4Z7kVvEhQ3jqhskvmcrgfW) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Prove It To You](https://open.spotify.com/album/4Xz22ylDIPE8D3KGjptD4J) | 3:20 | 2024-01-25 | 2024-02-02 |
 | [PROWLER](https://open.spotify.com/track/5fD5ikfL6P5NZkbQYCfXa7) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [PROWLER](https://open.spotify.com/album/4o8ibLshDMD2wTrG9s2GwO) | 2:45 | 2026-04-20 | 2026-05-01 |
 | [Psycho](https://open.spotify.com/track/6s3MpvQ1ulwrTuRhBgv0Eu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Psycho](https://open.spotify.com/album/1dK86eMRKHfAeN92ZwFaCe) | 3:56 | 2023-06-15 | 2023-08-31 |

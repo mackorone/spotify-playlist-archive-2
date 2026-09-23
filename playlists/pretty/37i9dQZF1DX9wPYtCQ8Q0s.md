@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,997 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,955 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 83 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
 | 84 | [Go Stupid \(feat\. NLE Choppa & Mike WiLL Made\-It\)](https://open.spotify.com/track/74fV8TuLZKVzSIOOGu8wwI) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Go Stupid \(feat\. NLE Choppa & Mike WiLL Made\-It\)](https://open.spotify.com/album/4oSUWBr6s2gIN7IAtHFXsX) | 2:45 |
 | 85 | [Real Hustla \(ft\. GloRilla\)](https://open.spotify.com/track/01lRLiKslwD7pzTa9PqvND) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [Real Hustla \(ft\. GloRilla\)](https://open.spotify.com/album/72RV7iDvkVQdqELmYtw5xF) | 2:28 |
-| 86 | [Quaresma](https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Quaresma](https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9) | 1:14 |
+| 86 | [Light It Up \(with Tyga & Chris Brown\)](https://open.spotify.com/track/4Q8aDd3H6LF8t4eY7So9O8) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Light It Up \(with Tyga & Chris Brown\)](https://open.spotify.com/album/4jOMXJSDTGNMZMhUbwH7AZ) | 2:17 |
 | 87 | [Old Town Road \- Diplo Remix](https://open.spotify.com/track/3kgKVcBpBGuSeaEC0AZGlb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Billy Ray Cyrus](https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Old Town Road \(Diplo Remix\)](https://open.spotify.com/album/66FxETmTBazRMZNbvGtGQl) | 3:24 |
-| 88 | [Light It Up \(with Tyga & Chris Brown\)](https://open.spotify.com/track/4Q8aDd3H6LF8t4eY7So9O8) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Light It Up \(with Tyga & Chris Brown\)](https://open.spotify.com/album/4jOMXJSDTGNMZMhUbwH7AZ) | 2:17 |
+| 88 | [Quaresma](https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9) | [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Quaresma](https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9) | 1:14 |
 | 89 | [Moana](https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Moana](https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0) | 2:58 |
 | 90 | [American Dream \(feat\. J\. Cole, Kendrick Lamar\)](https://open.spotify.com/track/2j8MsmmNqmc6UBEA54KOlY) | [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Pressure](https://open.spotify.com/album/4IJsz38bUJjUXkFBhU8icl) | 4:09 |
 | 91 | [redrum](https://open.spotify.com/track/3OQrbQGIHe3Q0nKN4ricz2) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2NmIkHfuMdIdqJlu3LtxwU) | 4:30 |

@@ -1,6 +1,6 @@
 {
   "description": "Pop hits to keep your workout fresh",
-  "num_followers": 4699533,
+  "num_followers": 4699238,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-07-07 19:55:59",
       "album": {
-        "name": "Midnight Sun",
-        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 189898,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
-    },
-    {
-      "added_at": "2026-07-07 19:55:59",
-      "album": {
         "name": "NOT CUTE ANYMORE",
         "url": "https://open.spotify.com/album/6wKHLrZczZAhDVsMEG4JXt"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 131997,
       "name": "NOT CUTE ANYMORE",
       "url": "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr"
+    },
+    {
+      "added_at": "2026-07-07 19:55:59",
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 189898,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -733,6 +733,22 @@
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
     },
     {
+      "added_at": "2026-09-18 04:54:31",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 144692,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/5QHdBMFvD4ow4ePzZRNZQB"
+    },
+    {
       "added_at": "2026-07-07 19:55:59",
       "album": {
         "name": "i like the way you kiss me",
@@ -763,22 +779,6 @@
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
-    },
-    {
-      "added_at": "2026-09-18 04:54:31",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 144692,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/5QHdBMFvD4ow4ePzZRNZQB"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-07-07 19:55:59",
       "album": {
-        "name": "Cruel World",
-        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 225985,
-      "name": "White Noise",
-      "url": "https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG"
-    },
-    {
-      "added_at": "2026-07-07 19:55:59",
-      "album": {
         "name": "13 Reasons Why (Season 2)",
         "url": "https://open.spotify.com/album/4RpgjxgSxcRwGNuWnImneN"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 210240,
       "name": "Back To You",
       "url": "https://open.spotify.com/track/514rhnksEwHUh6LxXsQ4Y9"
+    },
+    {
+      "added_at": "2026-07-07 19:55:59",
+      "album": {
+        "name": "Cruel World",
+        "url": "https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 225985,
+      "name": "White Noise",
+      "url": "https://open.spotify.com/track/0rjGD5jVtVbj131wDsfbJG"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
-      "added_at": "2026-07-17 04:01:50",
-      "album": {
-        "name": "Club To Your Arms",
-        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
-      },
-      "artists": [
-        {
-          "name": "Rose Gray",
-          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
-        }
-      ],
-      "duration_ms": 191596,
-      "name": "Club To Your Arms",
-      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
-    },
-    {
       "added_at": "2026-07-07 19:55:59",
       "album": {
         "name": "Youngblood",
@@ -1523,6 +1507,22 @@
       "duration_ms": 203417,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
+    },
+    {
+      "added_at": "2026-07-17 04:01:50",
+      "album": {
+        "name": "Club To Your Arms",
+        "url": "https://open.spotify.com/album/4DQcEgRzMAtF4fvSFWGzda"
+      },
+      "artists": [
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        }
+      ],
+      "duration_ms": 191596,
+      "name": "Club To Your Arms",
+      "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -1681,6 +1681,22 @@
       "url": "https://open.spotify.com/track/2Am4WNCZJk67cCTGnmQz1U"
     },
     {
+      "added_at": "2026-09-18 04:54:31",
+      "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/0s4rVGY7s4aqu4kNLKCAEJ"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 130654,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/3lc0I6QEKB8BAp8342J8N6"
+    },
+    {
       "added_at": "2026-07-07 19:55:59",
       "album": {
         "name": "Night at the Opera",
@@ -1711,22 +1727,6 @@
       "duration_ms": 227175,
       "name": "GALA",
       "url": "https://open.spotify.com/track/6laUIsJKwTQMXAAEKnCwES"
-    },
-    {
-      "added_at": "2026-09-18 04:54:31",
-      "album": {
-        "name": "Bender",
-        "url": "https://open.spotify.com/album/0s4rVGY7s4aqu4kNLKCAEJ"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 130654,
-      "name": "Bender",
-      "url": "https://open.spotify.com/track/3lc0I6QEKB8BAp8342J8N6"
     },
     {
       "added_at": "2026-07-07 19:55:59",

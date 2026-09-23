@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,207 songs - 2 day 14 hr 24 min
+1,208 songs - 2 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -345,6 +345,7 @@
 | [Dubidubidu \(Chipi Chipi Chapa Chapa\)](https://open.spotify.com/track/7DXDIcjpwkRvO645vuLwbZ) | [Christell](https://open.spotify.com/artist/5H5ZQaEOmSoUTEn8IzI62V) | [Christell](https://open.spotify.com/album/3akGM9qVRzmn3WIDKc2xiz) | 3:46 | 2024-01-05 | 2024-02-03 |
 | [Dès que j'te vois](https://open.spotify.com/track/1MqT9xK56smYYOaHPqIQM8) | [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Divinidylle](https://open.spotify.com/album/0Sh8ciS5EVvzbBMyA1373p) | 3:23 | 2024-05-03 | 2024-06-01 |
 | [Délit](https://open.spotify.com/track/200KWc4kIOPeF5zP3ckTVS) | [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN) | [Délit](https://open.spotify.com/album/7sKoDDg4cns52JOPb74TTW) | 2:03 | 2023-10-27 | 2024-03-23 |
+| [Déstabilisé](https://open.spotify.com/track/00qC62jeyVSYuNISq9mGmK) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Dans l'arène](https://open.spotify.com/album/6YfcTA8389KZ0DTDjkioQK) | 4:16 | 2026-09-22 |  |
 | [Détestable](https://open.spotify.com/track/1Xhh0KjyQCZGKhwafMjwpH) | [Dalí](https://open.spotify.com/artist/02gko1zWBeKdi4oXeV8qfo) | [Détestable](https://open.spotify.com/album/6lW8IitF6FuaEtBDbhUoXr) | 2:47 | 2024-07-25 | 2024-09-07 |
 | [Earrings](https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Sweet Boy](https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ) | 2:31 | 2026-05-21 | 2026-07-10 |
 | [Eenie Meenie \- Radio Version](https://open.spotify.com/track/4Yaw2PmyOETOnEM3TCf98I) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Eenie Meenie EP](https://open.spotify.com/album/6DOZI2LfBRYHRhZV21LrOu) | 3:21 | 2026-01-09 | 2026-03-21 |
@@ -867,7 +868,7 @@
 | [PARISIENNE](https://open.spotify.com/track/3igbfkHq3s5wGMvC8iAscj) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [PARISIENNE](https://open.spotify.com/album/0uLbgYJN8rKSL8Xn7dSL9b) | 2:38 | 2025-08-22 | 2026-01-17 |
 | [Parle en sah](https://open.spotify.com/track/1xysbkgOGqOBgyVqNeSMla) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86), [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV) | [Focus](https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK) | 2:41 | 2025-04-18 | 2025-07-26 |
 | [Parler tout bas](https://open.spotify.com/track/78llSmtimcWfFlybSZlmJz) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Parler tout bas](https://open.spotify.com/album/0cISJv7xclDDO4wKFH8ldc) | 3:21 | 2024-04-26 | 2024-08-22 |
-| [PARLU](https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Numéro d'écrou](https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf) | 2:21 | 2026-04-10 |  |
+| [PARLU](https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Numéro d'écrou](https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf) | 2:21 | 2026-04-10 | 2026-09-23 |
 | [PAS DANS ÇA !](https://open.spotify.com/track/6yykXQWw9vH9KEjaEf2xiE) | [ssax8](https://open.spotify.com/artist/5CW94mr360Q6wQyRjNLnMO) | [PAS DANS ÇA !](https://open.spotify.com/album/4YDVFCEx5Nz5AViBMmGWFx) | 2:08 | 2026-03-20 | 2026-04-04 |
 | [PAS DE REMORDS](https://open.spotify.com/track/7l2BGF9fCc6hmhGfNjbKit) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [AMBITION](https://open.spotify.com/album/48JSJ6nOB4SegSt9Gs2cZY) | 2:53 | 2024-01-05 | 2024-03-07 |
 | [pas différent](https://open.spotify.com/track/5p0yASvfzEmGvFMB9M8R7I) | [MP404](https://open.spotify.com/artist/78H2pO7f0OzfsKvT5VqofA) | [pas différent](https://open.spotify.com/album/5WkpNZFiU82YeeqXqTJtcu) | 2:47 | 2025-05-22 | 2025-06-26 |

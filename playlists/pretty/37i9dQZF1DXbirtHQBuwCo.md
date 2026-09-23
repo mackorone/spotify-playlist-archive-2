@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover:  Stun Ave, SUNNA, Grant\)
+> Trendy & Chill Korean R&B music\. \(Cover:  jeebanoff\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,097,627 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,097,555 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [aROMa](https://open.spotify.com/track/4JSsDAVf1URO7cxf3pJ1Hu) | [Stun Ave](https://open.spotify.com/artist/1IEbitnybGxyhtBkmJVmhj), [SUNNA](https://open.spotify.com/artist/0QF1QHASPYv41VzIgDofow), [Grant](https://open.spotify.com/artist/7ezsVVLoKNDOch4vv5nzHv) | [aROMa](https://open.spotify.com/album/3O72Kq4kEymHQTLkN25iUQ) | 3:12 |
+| 1 | [Love game](https://open.spotify.com/track/0qjjy799gEJdFKNvILwZRq) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Talking Book 2](https://open.spotify.com/album/77ud4wz2LUtWAQtr732DIo) | 3:02 |
 | 2 | [Free](https://open.spotify.com/track/5DxDLsW6PsLz5gkwC7Mk5S) | [Rumi](https://open.spotify.com/artist/18Z49sdpTYjv4TmBJPHMCb), [Jinu](https://open.spotify.com/artist/1CUhHjPhPbMDlGJyUGxzP2), [KPop Demon Hunters Cast](https://open.spotify.com/artist/7mW7Tv7NvywKKXqafZo0Lc), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY), [Andrew Choi](https://open.spotify.com/artist/7JBaynR7JFeniONqbnn1U4) | [KPop Demon Hunters \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/14JkAa6IiFaOh5s0nMyMU9) | 3:07 |
 | 3 | [New Jeans](https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 'Super Shy'](https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I) | 1:48 |
 | 4 | [FRI\(END\)S](https://open.spotify.com/track/0PBTlQ84CBJF0tBnKGmQa6) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [FRI\(END\)S](https://open.spotify.com/album/7v4sqd0NZ9Fm8HnwCcCGIs) | 2:28 |
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 50 | [love you twice](https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [love you twice](https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4) | 2:52 |
 | 51 | [Dope Lovers](https://open.spotify.com/track/6cvbvXaRbQcuv54SjYXP86) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In This Order](https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA) | 3:20 |
 | 52 | [Unconditional](https://open.spotify.com/track/4j0W96NZvBFqwIyhCb9uGX) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Unconditional](https://open.spotify.com/album/4Q6W1RKslZCLWZPmagDEy9) | 3:04 |
-| 53 | [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 |
+| 53 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 |
 | 54 | [Elevator](https://open.spotify.com/track/0mFkmiC5u1V4JBP6PsoVP0) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Essence of Reverie](https://open.spotify.com/album/5m3xaHvFvODdctmtdQ9qzB) | 3:06 |
-| 55 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
+| 55 | [HAWWAH](https://open.spotify.com/track/2BGgGlQy3mrrBZ5O9NFgNx) | [dodree](https://open.spotify.com/artist/7aIg9z17jL7GCGoAxlnCCN) | [HAWWAH](https://open.spotify.com/album/1HSIe6cSV6tZjA0Gdp6vy0) | 2:53 |
 | 56 | [Mood](https://open.spotify.com/track/0nEsLR5KTySCO9CfyC2yjg) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:02 |
 | 57 | [Forever Only](https://open.spotify.com/track/0fN27m84ofEpWHGwJ0THYz) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Forever Only \- SM STATION : NCT LAB](https://open.spotify.com/album/519WmtnoFNzzyyh7Czfhi8) | 3:16 |
-| 58 | [All My Poetry](https://open.spotify.com/track/1qGihPwp76LainqxoRQ4Y0) | [CLOSE YOUR EYES](https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5) | [ETERNALT](https://open.spotify.com/album/5N8nzYvaqnls4UduaKAQjh) | 3:35 |
+| 58 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
 | 59 | [Magic \(Feat\. JULIE of KISS OF LIFE\)](https://open.spotify.com/track/6pLYWcPnBdFJShuUARDIwj) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [JULIE](https://open.spotify.com/artist/3ZMTicGYs90UxyTEIScT5h) | [NA](https://open.spotify.com/album/5zQI9dFbS9TrhvC9clgjz7) | 3:26 |
 | 60 | [Doctor! Doctor!](https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL) | 2:32 |
 | 61 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbirtHQBuwCo.md) - [plain]
 | 71 | [GANADARA \(Feat\. IU\)](https://open.spotify.com/track/5quFr5s5PXYfUX5jV2EBZ1) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [GANADARA](https://open.spotify.com/album/4cwyl5ynvYVojZRbZ3dSFH) | 3:23 |
 | 72 | [UFO](https://open.spotify.com/track/3RIDQ0NiYcV896kb0mWz3k) | [Gemini](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Inside Out](https://open.spotify.com/album/3xA110ttA5PDmnDIBoyb7b) | 3:19 |
 | 73 | [Baby, Honey](https://open.spotify.com/track/1UeL63z2l6pAFTDsKdcNLz) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Baby, Honey](https://open.spotify.com/album/7jJCkk3TCopiXz3M2JF0tM) | 2:25 |
-| 74 | [jellyfish](https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [jellyfish](https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC) | 2:37 |
-| 75 | [Adore You](https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Adore You](https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3) | 2:31 |
+| 74 | [Adore You](https://open.spotify.com/track/07PoEUxnoQBW49Xa7vwcR2) | [Riaan](https://open.spotify.com/artist/18ddvXa7OXbffUym1vpjim) | [Adore You](https://open.spotify.com/album/2Im0Kp661vY0hBwUDQC2H3) | 2:31 |
+| 75 | [jellyfish](https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [jellyfish](https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC) | 2:37 |
 
-Snapshot ID: `AAAAABCFwKwbRYYHkwG1T95HQ6jMD9Wg`
+Snapshot ID: `AAAAALS6UkbGqRBRebgdBBhSvEpsyHN+`

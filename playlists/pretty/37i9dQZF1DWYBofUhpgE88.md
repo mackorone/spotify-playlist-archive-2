@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > per spingere come veri gym bro e gym sis
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,305 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,322 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,12 +100,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 90 | [Je M'appelle](https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN) | [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [Je M'appelle](https://open.spotify.com/album/6T6uWGOSAUhvoZfLlIyDuJ) | 2:19 |
 | 91 | [Exotica](https://open.spotify.com/track/08VceLSSJJ83Yz3NTCyxZC) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Greg Taro](https://open.spotify.com/artist/1Tt4xvs31iOOnA5A37891U) | [Exotica](https://open.spotify.com/album/3Xa6Auj3cpJ6vAnch7vsCD) | 2:01 |
 | 92 | [Soldi in Nero \- feat\. Sfera Ebbasta](https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Soldi in Nero \(feat\. Sfera Ebbasta\)](https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH) | 3:03 |
-| 93 | [AUTORITÀ](https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [AUTORITÀ](https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO) | 3:03 |
-| 94 | [∞ LOVE \(feat\. Guè\)](https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:38 |
+| 93 | [∞ LOVE \(feat\. Guè\)](https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:38 |
+| 94 | [AUTORITÀ](https://open.spotify.com/track/44igqinwL0GzbSEX4lovsi) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [AUTORITÀ](https://open.spotify.com/album/2CCna0QTtaOVDjFvobTZeO) | 3:03 |
 | 95 | [Space Jam](https://open.spotify.com/track/683hRieVmYdAhVA1DkjSAk) | [Quad City DJ's](https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS) | [Space Jam \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/5qdsq5YryqAynT65vpaumI) | 5:04 |
 | 96 | [Push It \(feat\. ANNA\)](https://open.spotify.com/track/3uExyCdMa9XfVuXpuYhod4) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Anche gli Eroi Muoiono](https://open.spotify.com/album/5QGyZ7xyZX8vrwI4DB6pvV) | 2:55 |
-| 97 | [Everything's Fine \(PM\)](https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Everything's Fine](https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR) | 2:45 |
-| 98 | [Rumble](https://open.spotify.com/track/74fmYjFwt9CqEFAh8ybeBD) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:26 |
+| 97 | [Rumble](https://open.spotify.com/track/74fmYjFwt9CqEFAh8ybeBD) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Quest For Fire](https://open.spotify.com/album/7tWP3OG5dWphctKg4NMACt) | 2:26 |
+| 98 | [Everything's Fine \(PM\)](https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Everything's Fine](https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR) | 2:45 |
 | 99 | [Giovane fuoriclasse](https://open.spotify.com/track/60muwbD6E61lEYQSnEYlLc) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [20](https://open.spotify.com/album/0KYX8LOknGNZ7CkC5EuHJw) | 3:41 |
 | 100 | [TT LE GIRLZ \(feat\. Niky Savage\)](https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg) | [VERA BADDIE](https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2) | 2:24 |
 

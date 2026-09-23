@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 7571,
+  "num_followers": 7570,
   "original_name": "Projekt Melody Official Playlist",
   "owner": {
     "name": "Melody",
     "url": "https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih"
   },
-  "snapshot_id": "AAABnthg3beI+qrLnS8oxBu2153uoQ+h",
+  "snapshot_id": "AAABn9aL9mHRUaWPYKX6zWPoeceK4jJe",
   "tracks": [
     {
       "added_at": "2020-03-11 15:33:22",
@@ -10623,6 +10623,22 @@
       "duration_ms": 311893,
       "name": "Rebels of the Sacred Heart",
       "url": "https://open.spotify.com/track/23EFEf3mbHHixv3VkxaBaj"
+    },
+    {
+      "added_at": "2026-09-22 20:55:18",
+      "album": {
+        "name": "Endless Summer (The Instrumentals)",
+        "url": "https://open.spotify.com/album/6Ps5rLCGCHuQvLXHnhsW9j"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "duration_ms": 315855,
+      "name": "Vampires - Instrumental",
+      "url": "https://open.spotify.com/track/1y4b0aF5jQaBUXLbMxVEPE"
     }
   ],
   "unique_name": "Projekt Melody Official Playlist",

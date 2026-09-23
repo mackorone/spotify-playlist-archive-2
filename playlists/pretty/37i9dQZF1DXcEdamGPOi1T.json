@@ -1,6 +1,6 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 20883,
+  "num_followers": 20881,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "On s'enverra des fleurs",
+        "url": "https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 140583,
+      "name": "La v\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/239VMs4BzjqIRdFtltxfPo"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "BOBO (feat. Maud Elka)",
         "url": "https://open.spotify.com/album/2iEZOJ87JrwsP7HOmcv8Qy"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 168311,
       "name": "BOBO (feat. Maud Elka)",
       "url": "https://open.spotify.com/track/6Jy3euwzBYBWtN0lZwYCie"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "On s'enverra des fleurs",
-        "url": "https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 140583,
-      "name": "La v\u00e9rit\u00e9",
-      "url": "https://open.spotify.com/track/239VMs4BzjqIRdFtltxfPo"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Madame",
-        "url": "https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P"
-      },
-      "artists": [
-        {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
-        }
-      ],
-      "duration_ms": 118431,
-      "name": "Madame",
-      "url": "https://open.spotify.com/track/0K9EmVgpvkteeQwzhmb4oM"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "My Motivation (feat. NAIIM)",
         "url": "https://open.spotify.com/album/2S0fAWBZHxr1QG2BwGD4Yf"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 148250,
       "name": "My Motivation (feat. NAIIM)",
       "url": "https://open.spotify.com/track/2JZHtLw2uT5vWEhpFCBSv9"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "Madame",
+        "url": "https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 118431,
+      "name": "Madame",
+      "url": "https://open.spotify.com/track/0K9EmVgpvkteeQwzhmb4oM"
     }
   ],
   "unique_name": "Sp\u00e9cial soleil",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,279 likes - 609 songs - 1 day 12 hr 56 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 612 songs - 1 day 13 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -617,5 +617,8 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 607 | [Inflictor](https://open.spotify.com/track/6hMjrIUiej8Jz0D3mJ63Zw) | [Worldview](https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J) | [Inflictor](https://open.spotify.com/album/593StCh46ilmoJGWfRdt6p) | 3:46 |
 | 608 | [Cruisin' The Pike](https://open.spotify.com/track/1giSRFi2qO3IO87tvmPyya) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Cruisin' The Pike](https://open.spotify.com/album/3yTyYRxHm5cFfJYqUhxK36) | 4:39 |
 | 609 | [Não Venha Sem Avisar](https://open.spotify.com/track/3HXJlragpVyaqhoAjtWwoJ) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [Não Venha Sem Avisar](https://open.spotify.com/album/2EUidS1qnhNkBZzAvPTPgs) | 2:51 |
+| 610 | [Me importa un cojón](https://open.spotify.com/track/3pWlrEpxByKgEAZSnNsBD8) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Me importa un cojón](https://open.spotify.com/album/1f4DJDBJGPlzMJyonkPNpj) | 2:55 |
+| 611 | ['Til It All Goes up in Flames](https://open.spotify.com/track/3PKQRbSgi6DzeS9L0rBgS2) | [Narcotic Hearts](https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0) | ['Til It All Goes up in Flames](https://open.spotify.com/album/2le4AUKaXXzAgvaTeBY2qE) | 2:45 |
+| 612 | [Lift Me Up](https://open.spotify.com/track/6MS9JFqZY2bxILcwyr3n5n) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [Lift Me Up](https://open.spotify.com/album/44YEDKM5XEB1MbzyeiGYqe) | 4:03 |
 
-Snapshot ID: `AAAC91nOttFMjftdWYQ2liNcNT3Ss9rF`
+Snapshot ID: `AAAC+rTNtXyzp1KfBUFzTtZ3gxwvYdJk`

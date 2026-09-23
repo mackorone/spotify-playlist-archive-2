@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 石川紅奈
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,270 likes - 158 songs - 11 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,272 likes - 158 songs - 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 157 | [HOURS:AFTER](https://open.spotify.com/track/2efKpdGah3AVLf8qjtJ7NE) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [HOURS:AFTER](https://open.spotify.com/album/01k267Jci58J6dSWrpKJwI) | 3:50 |
 | 158 | [Within Me](https://open.spotify.com/track/7H0KBslgob52P0haWSUoFL) | [Charlotte Dos Santos](https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM) | [Within Me](https://open.spotify.com/album/4Q6bfiZbfA7fnuURrTZbKd) | 3:09 |
 
-Snapshot ID: `AAAAAD6rRgFAuLliOq08h7tuL9+UPPW+`
+Snapshot ID: `AAAAAGf0v2AFf1Rxz9OCZNFT7t9GyPrM`

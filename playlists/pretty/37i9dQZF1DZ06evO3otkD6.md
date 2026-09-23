@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 > This is Belinda\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,949 likes - 48 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,965 likes - 48 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 20 | [Lo Siento \(I'm Sorry\)](https://open.spotify.com/track/0UCUBDg2qDlltWU13Z2TCS) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:28 |
 | 21 | [Es Ella Mas Que Yo](https://open.spotify.com/track/76U0tk9qvImvBhwPgSw2z9) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 1:50 |
 | 22 | [Heterocromía](https://open.spotify.com/track/6tlcsQj8NcnpOtIVRG0SDs) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:45 |
-| 23 | [Por Ella](https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Por Ella \(FIFA World Cup 2026™\)](https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj) | 3:01 |
-| 24 | [Dopamina](https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:15 |
+| 23 | [Dopamina](https://open.spotify.com/track/3jGVYqal9gz8MLufUzrRhU) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Carpe Diem](https://open.spotify.com/album/0md5nsl4Cm5gmdziP0zfMQ) | 3:15 |
+| 24 | [Por Ella](https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [Por Ella \(FIFA World Cup 2026™\)](https://open.spotify.com/album/0lDEOKEvP2u7dvIFqtFdmj) | 3:01 |
 | 25 | [De Color De Rosa](https://open.spotify.com/track/29Xfj1s53QYHFeJnQSTo0b) | [Mentiras: La Serie](https://open.spotify.com/artist/1Ju2DSDLHCKEfy6WfsOkzK), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Mentiras: La Serie \(Music from the Original TV Series\)](https://open.spotify.com/album/1mYfYqddIFTDc1ptq0HkDg) | 1:56 |
 | 26 | [La Cuadrada](https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Cuadrada](https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J) | 2:40 |
 | 27 | [En El Amor Hay Que Perdonar](https://open.spotify.com/track/6UmXPaLkNGp0NvMaKeJ0oi) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:59 |
 | 28 | [Déjate Llevar](https://open.spotify.com/track/784NEMxBpeH9MxWF1qr4iu) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Snova](https://open.spotify.com/artist/5oOyEfGd8NxAKA41zGQhoj), [B\-Case](https://open.spotify.com/artist/1o9x7ez0NvhDb7gBqrYnUj) | [4.0](https://open.spotify.com/album/7zCW1I02UgkVjg0UYd5rOq) | 3:53 |
 | 29 | [Cactus](https://open.spotify.com/track/213Q7w8RMi5qbj18kvWasy) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Cactus](https://open.spotify.com/album/4tENygDaMnwk2xajkMm5l1) | 3:03 |
 | 30 | [Cursi De +](https://open.spotify.com/track/5Mm6x5oGUGE8Dscdolwtq3) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:22 |
-| 31 | [En La Obscuridad](https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:27 |
-| 32 | [Ni Freud Ni Tu Mama](https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:24 |
+| 31 | [Ni Freud Ni Tu Mama](https://open.spotify.com/track/2SHu2n8MmP3ym3LpuyTrUf) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:24 |
+| 32 | [En La Obscuridad](https://open.spotify.com/track/1BYfviBeZuGy7SCFg4mBt9) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:27 |
 | 33 | [Si Nos Dejan](https://open.spotify.com/track/77OLLnRUGQtf0HH626f0Vj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Si Nos Dejan](https://open.spotify.com/album/3O4xt3iXa8vVAfXA2xltSe) | 2:29 |
 | 34 | [Aries](https://open.spotify.com/track/44QlnOZerG4S3zCO413ZKN) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [INDÓMITA](https://open.spotify.com/album/48Eo9WM3paOxntoRe19mRX) | 3:04 |
 | 35 | [Vivir \- Any Better](https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Belinda](https://open.spotify.com/album/572O2aMDzsHhr48257pOZM) | 3:04 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 47 | [No Estamos Tan Locos](https://open.spotify.com/track/1uZJgxYvEOTlyY2baL0m17) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [No Estamos Tan Locos](https://open.spotify.com/album/7gZvRRiER5mk2ZtqBfaTu3) | 3:26 |
 | 48 | [Amigas Cheetahs](https://open.spotify.com/track/2vC1qUcTJlWO9JQfcaOk9b) | [The Cheetah Girls](https://open.spotify.com/artist/4ntkql3f3ect7NDRUJ7aAY), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [The Cheetah Girls 2](https://open.spotify.com/album/10ATF34xwqoGlmm5vsgOSG) | 4:06 |
 
-Snapshot ID: `aq8iAAAAAACE/SxtiLnRiczsxhzLn1ai`
+Snapshot ID: `arBzgAAAAABa9koavMUxTJfpAc3EZu1h`

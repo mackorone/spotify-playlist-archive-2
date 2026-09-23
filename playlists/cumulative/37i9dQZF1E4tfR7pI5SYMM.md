@@ -2,9 +2,9 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With MIK's Reaction, Roderiko Pop, NEWLAND and more
+> With Roderiko Pop, NEWLAND, MIK's Reaction and more
 
-1,029 songs - 2 day 21 hr 47 min
+1,032 songs - 2 day 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Beat The Stone](https://open.spotify.com/track/6mL1gFb4LJ1SePApbbcx3M) | [Paraskyva](https://open.spotify.com/artist/6Oh1w3PjeNcML95ALlQ4x5) | [Dă Mai Tare](https://open.spotify.com/album/5pTjaoL3v19LE6bQ8a0SNO) | 3:08 | 2026-02-14 | 2026-04-07 |
 | [Beati i perseguitati](https://open.spotify.com/track/5FhY4jqBqPUnVUL8R9v5Wa) | [Paolo Spoladore](https://open.spotify.com/artist/3fAYJZUDMgxUpux2CFRN8U) | [Tuvaykun](https://open.spotify.com/album/0c10w3pWkjyFkWLfC5UXJx) | 6:03 | 2025-12-07 | 2026-01-02 |
 | [Beautiful Abyss](https://open.spotify.com/track/79sPXwFRCNCCVa0b5iKBA8) | [Liminal Dawn](https://open.spotify.com/artist/5JTrasPTRNGB9sgNUAyVr1) | [Dark To Dark](https://open.spotify.com/album/4Zz0eC566dO5G3qaTzVhY9) | 4:05 | 2026-07-29 | 2026-07-31 |
+| [Becoming God of Nothing](https://open.spotify.com/track/1CtOuHOoXVcCTsSvf8gUB0) | [The Dogs](https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC) | [Trauma Junkie](https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW) | 3:10 | 2026-09-23 |  |
 | [Before the Night Falls](https://open.spotify.com/track/0MZeFizQUzec1aVACszRan) | [Hidden By Ivy](https://open.spotify.com/artist/2nfwzENcmwKAejFHkmOl0J) | [Edward](https://open.spotify.com/album/2s7A3uMGrwmMUItatNVX3D) | 4:51 | 2026-09-09 |  |
 | [Behold the new digital overlords](https://open.spotify.com/track/7s5dgU86UmdRtzV8V61zPg) | [Bill Mandara](https://open.spotify.com/artist/1NOSjHEbxAtgWPD3ZP4ODb) | [It's always something](https://open.spotify.com/album/60n7iynhiookeCHSpGy96Y) | 3:25 | 2026-03-19 | 2026-04-14 |
 | [Below the Leaves](https://open.spotify.com/track/0KpRF7xfd4Cy9z7AvoXQNR) | [Almost Alive](https://open.spotify.com/artist/20nwmuhP0VHSPkdpvnuJ87) | [Hypnotica](https://open.spotify.com/album/7MmUUOXaHEOGatNMM3CjEO) | 5:08 | 2025-12-14 | 2026-02-11 |
@@ -86,7 +87,7 @@
 | [Black and Blue](https://open.spotify.com/track/3I3FrHVuIPOjh80qMOLdDx) | [William Bleak](https://open.spotify.com/artist/6BClTpfV8cDCoUeRj9IHSF) | [Black and Blue](https://open.spotify.com/album/5eAv7Cz6TMf0zvLf2J4cBo) | 3:55 | 2026-04-16 | 2026-05-31 |
 | [Black Heart](https://open.spotify.com/track/2nq1Ih4df9PNbjwQObcFNk) | [Autumn Killers](https://open.spotify.com/artist/6Y1MJQkYN5XJZnF0uwuvVT) | [Making Waves](https://open.spotify.com/album/6kgTcM6wduJbNLWpyMB8W6) | 4:14 | 2026-01-04 | 2026-08-07 |
 | [Black Mirror](https://open.spotify.com/track/1n2fazb6APKC1wW2XcfPPK) | [Perennials](https://open.spotify.com/artist/35DWuzTNMwOQKDwE772bwN) | [Black Mirror](https://open.spotify.com/album/2Kgpp5ICoKCrn29B3NJHJL) | 4:06 | 2025-11-19 | 2026-01-17 |
-| [Black Raincoat](https://open.spotify.com/track/2zgHgAZMfJnzSsWk7RNAyt) | [Alien Skin](https://open.spotify.com/artist/5U55w0giTiivu8BpkjTcQ1) | [Black Flowers Remember](https://open.spotify.com/album/76dIY2JiaRE5E9bRKnKnJo) | 3:09 | 2026-09-15 |  |
+| [Black Raincoat](https://open.spotify.com/track/2zgHgAZMfJnzSsWk7RNAyt) | [Alien Skin](https://open.spotify.com/artist/5U55w0giTiivu8BpkjTcQ1) | [Black Flowers Remember](https://open.spotify.com/album/76dIY2JiaRE5E9bRKnKnJo) | 3:09 | 2026-09-15 | 2026-09-23 |
 | [Blades and Roses](https://open.spotify.com/track/6H6RdtbHiSIp9HcFWxukmw) | [Shock Out Bandage](https://open.spotify.com/artist/3aSpPIag5ZfXMzbekZP51U) | [Blades and Roses](https://open.spotify.com/album/7GKirf25voVCZMCBTF8PkE) | 3:06 | 2026-04-24 | 2026-05-08 |
 | [Blau](https://open.spotify.com/track/2bXwmzlSSo7QoP1YqDC7Jz) | [Fede](https://open.spotify.com/artist/3qcxx0fX4kMXtTlwWUMtLP) | [Liebe Krise](https://open.spotify.com/album/1XmoDEjk3nfdjjGn6pzVSt) | 4:09 | 2026-01-28 | 2026-02-07 |
 | [Bleeding Hearts](https://open.spotify.com/track/6h1tQ40ohFgYc7FYVjeuvf) | [Dan Fearon](https://open.spotify.com/artist/3qGPLapNg04OVN7m8gQoaW) | [Rusty Nail](https://open.spotify.com/album/1WZBzXbvJdfmvAqMiRJG0P) | 4:06 | 2026-07-20 | 2026-07-27 |
@@ -175,7 +176,7 @@
 | [Dead With You](https://open.spotify.com/track/7L0UJEmIekpWgnUC7xAj5a) | [PVRS](https://open.spotify.com/artist/0Cv6bLeQZnhyh3dKBIrzSO) | [Let the silence begin](https://open.spotify.com/album/06hhUe2Icd57QUgk8ijWJV) | 3:42 | 2025-11-25 | 2025-11-26 |
 | [Death Is On the Way](https://open.spotify.com/track/0rqvCzTbRnQTQLFpbg7Xbh) | [Lockjaw](https://open.spotify.com/artist/06xxbJTWhst3jtAIoFleYF) | [Songs of Death](https://open.spotify.com/album/1DbauAWFDEnx1gslUBV2fk) | 3:38 | 2026-03-31 | 2026-05-19 |
 | [Death, That Elusive Mistress](https://open.spotify.com/track/6dkyykLMdt7oF2djYNOVX7) | [Locus Noir](https://open.spotify.com/artist/5GIs4nDpgb7WCCDqzTn8US) | [Shadow Sun](https://open.spotify.com/album/7F2lyeX0ypmTDsSdT9cKmR) | 4:06 | 2026-03-04 | 2026-03-20 |
-| [Deep](https://open.spotify.com/track/3sUcCa6qKH6d7Lo0epfqTW) | [Haneke Twins](https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK) | [Haneke Twins](https://open.spotify.com/album/0Gy7fIwP3YDH9Iu6eygJxu) | 3:40 | 2026-07-11 |  |
+| [Deep](https://open.spotify.com/track/3sUcCa6qKH6d7Lo0epfqTW) | [Haneke Twins](https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK) | [Haneke Twins](https://open.spotify.com/album/0Gy7fIwP3YDH9Iu6eygJxu) | 3:40 | 2026-07-11 | 2026-09-23 |
 | [Definition Of Fun](https://open.spotify.com/track/3F1kea4h1Mr8IyZS6BCC9K) | [Our Visit To The Moon](https://open.spotify.com/artist/2NLJfhaEroXEPhuAIImKqM) | [Definition Of Fun](https://open.spotify.com/album/7qT2WmLJiXTJq8YfrukdBE) | 4:59 | 2026-05-30 | 2026-09-16 |
 | [Deilige Dame](https://open.spotify.com/track/1YiNcIk3Z2ZYrJR4Uf1vdc) | [AlligatorX](https://open.spotify.com/artist/7wjjN0XDNsbUSqrVRteGj2), [Bipolar Superstar](https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H) | [Glem Elegansen](https://open.spotify.com/album/4kfdoRnEnvI6YeOykHUje4) | 3:27 | 2025-11-19 | 2026-04-27 |
 | [Demons](https://open.spotify.com/track/6woaCyTLrwt3h6MRe8UERE) | [AORTA 95](https://open.spotify.com/artist/5AJ2PB96wyNBdtzBARtwgx) | [Demons](https://open.spotify.com/album/5p0uiB51QMxaWA5tBvs0oA) | 5:08 | 2025-11-24 | 2025-11-25 |
@@ -746,7 +747,7 @@
 | [Sol Invictus](https://open.spotify.com/track/7MNqZBHxIIUG49zlppn903) | [Echoes and Signals](https://open.spotify.com/artist/6j4YQkruireTrMryER3gjw) | [Solar](https://open.spotify.com/album/5uIE7yGenjCYMuMPw89pKn) | 7:42 | 2026-02-28 | 2026-03-02 |
 | [Solar Plexus](https://open.spotify.com/track/4MOuNW1ZLeGJGk66dW1j6U) | [Drakenberg](https://open.spotify.com/artist/7LTe0sV1TKrCkV68cpX3mm) | [Solar Plexus](https://open.spotify.com/album/0lPAdq2Nvw6bxgpw6APRwL) | 4:02 | 2026-07-19 | 2026-08-07 |
 | [Solitary Stranger](https://open.spotify.com/track/3nwhGi5sAf8xKEtd8CnV8f) | [Hymera](https://open.spotify.com/artist/2gIgwfPIpGXb5YLyom3kkh) | [Solitary Stranger](https://open.spotify.com/album/0RkCbNjq9SlS5Mdkgx8wNf) | 3:30 | 2026-04-17 | 2026-05-01 |
-| [SOLITUDE](https://open.spotify.com/track/2DHP0zUJf2YqWQWSBG2hpB) | [HAZE IN THE AFTERNOON](https://open.spotify.com/artist/6MBiQLHrM9y3nJbOulTvN0) | [SOLITUDE](https://open.spotify.com/album/51rMBZO5r6mD7pumSQJ0l4) | 3:49 | 2026-09-09 |  |
+| [SOLITUDE](https://open.spotify.com/track/2DHP0zUJf2YqWQWSBG2hpB) | [HAZE IN THE AFTERNOON](https://open.spotify.com/artist/6MBiQLHrM9y3nJbOulTvN0) | [SOLITUDE](https://open.spotify.com/album/51rMBZO5r6mD7pumSQJ0l4) | 3:49 | 2026-09-09 | 2026-09-23 |
 | [Solitude/Märk Hur Vår Skugga](https://open.spotify.com/track/5YRorSONmdeDIvCbcvwmhJ) | [HEKATOMB](https://open.spotify.com/artist/2kJjietOb3E6V1izknWrhe) | [Solitude/Märk Hur Vår Skugga](https://open.spotify.com/album/4b9Z0kRCfJWnKblGPTztBx) | 5:44 | 2026-07-26 | 2026-08-04 |
 | [Someone To Blame](https://open.spotify.com/track/20oaqbPxaXj5N8Ed8DWX2n) | [Holy Death Temple](https://open.spotify.com/artist/6hYyMKMSbeNh4ukG7QlVNq) | [Someone To Blame](https://open.spotify.com/album/1PghgUb347VXpcruyD2j9h) | 3:55 | 2026-03-30 | 2026-04-07 |
 | [Something Left](https://open.spotify.com/track/2ThmvFYAhPG89NYlr6HJhP) | [High Sour](https://open.spotify.com/artist/0wcv3Wa2ZwVjdupC0YOy0C) | [Something Left](https://open.spotify.com/album/6iz1GL25KGlzI0b7g67Mrq) | 3:22 | 2025-11-30 | 2025-12-02 |
@@ -899,6 +900,7 @@
 | [Traitor](https://open.spotify.com/track/3cJOKprFvZUYXjJ4no3eoN) | [30 DENARI](https://open.spotify.com/artist/2p2xLiGblQLe6f76q7IaMD), [Federica Lee Querizia Garenna](https://open.spotify.com/artist/3THflnqatpflO3jVxKFMA8) | [Kindly Plotting For Riot](https://open.spotify.com/album/5pjfpCFcC4vCMldLVLysIe) | 4:03 | 2026-04-25 | 2026-05-09 |
 | [Traitor](https://open.spotify.com/track/5QdFBCj9Nrm5XghPtXQvvy) | [30 DENARI](https://open.spotify.com/artist/2p2xLiGblQLe6f76q7IaMD), [Federica Lee Querizia Garenna](https://open.spotify.com/artist/3THflnqatpflO3jVxKFMA8) | [Traitor](https://open.spotify.com/album/5LzSJuHaOKc6XMY2LYryNc) | 4:03 | 2026-04-12 | 2026-04-25 |
 | [Trappen](https://open.spotify.com/track/0WLNy45tLrBZdobrIc0vjG) | [Lokal Valuta](https://open.spotify.com/artist/3dTOCxl1svv8elmKyaYInv) | [Din Feil](https://open.spotify.com/album/5j2xl412olAzdY0HjcSdRn) | 5:06 | 2025-12-22 | 2026-01-20 |
+| [Treasure Junkie](https://open.spotify.com/track/4s070RzldQuESr2ms3AvXS) | [Steve Liberace](https://open.spotify.com/artist/0afvGMFvLw9jJ8u3Urjf5f) | [Enchanted Melodies by Aloysius Turq](https://open.spotify.com/album/5m6GDygdhn1f8Ijap99DOx) | 3:28 | 2026-09-23 |  |
 | [Trenažer](https://open.spotify.com/track/501FpUgZsQVZIAutJf08lr) | [Pan Lynx](https://open.spotify.com/artist/6uPTgXfBFMsKUkNYjDZxrP) | [Odvrácená strana lesa](https://open.spotify.com/album/4OXkxWGVZB3KyhYMfZsz4R) | 5:46 | 2025-12-08 | 2025-12-09 |
 | [Trick of Escaping Death](https://open.spotify.com/track/7xi2jjyS16aMJRL9GpVMI5) | [Cassette Stress](https://open.spotify.com/artist/2sJSWqbrLodiybeJLuAlL9) | [Trick of Escaping Death](https://open.spotify.com/album/1T8QZuMRZJG8JjdwoKng8U) | 3:21 | 2026-03-07 | 2026-03-28 |
 | [True Believer](https://open.spotify.com/track/45stg0W5s1Ot55XZK9e5mO) | [Witchforce](https://open.spotify.com/artist/6zJIw8RGeBC04nDtvArTCi) | [True Believer](https://open.spotify.com/album/3L5jWhIEJLaUXvMETEZnBB) | 5:01 | 2026-04-06 | 2026-04-08 |
@@ -981,6 +983,7 @@
 | [Wide Awake](https://open.spotify.com/track/4fzB8eT3BjuYITkNHy0kG6) | [WASTE](https://open.spotify.com/artist/7FDSyIKRi2pQDXHpvfYZCd) | [Scream Until It's Beautiful](https://open.spotify.com/album/6vHNyaN8Vk034kNNMgoAoj) | 4:12 | 2026-03-15 | 2026-04-05 |
 | [Wild Horse](https://open.spotify.com/track/5haFM5bfeKXJ3ysbTJzFbq) | [WILDHORSE](https://open.spotify.com/artist/6mmnSIKwzVhQPMxpbbBQl9), [Appalooza](https://open.spotify.com/artist/7IPTSrArnmoVTypQ10gPE0) | [Shewolf](https://open.spotify.com/album/2ORqPFv5rzsx9pqr31ZGtH) | 5:35 | 2026-02-27 | 2026-03-10 |
 | [Wing](https://open.spotify.com/track/4BNzJbWFSsRU6OtsdKcjKC) | [Dogstar](https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe) | [All In Now](https://open.spotify.com/album/1fxFvw95DNNmV4Zzoc5pvC) | 3:10 | 2026-06-03 | 2026-06-04 |
+| [Wings Are Heavy](https://open.spotify.com/track/6OMMqelzt9EYwY0YyqXjXv) | [KeyDragon](https://open.spotify.com/artist/1IP8B2y5PtMvVJuuDfzYEY) | [I Dance with Dragons](https://open.spotify.com/album/7zULhSOEKB4MybNxh1Sijy) | 1:57 | 2026-09-23 |  |
 | [Wings Of An Angel](https://open.spotify.com/track/6EbDacy2uom5FL8Y7ocdI3) | [Bad Habits](https://open.spotify.com/artist/6RCQaiv8q09g8yyvMx8pu7) | [Brother From Another Mother](https://open.spotify.com/album/0pV7K14JMLxbwtRUFRTpoN) | 4:29 | 2026-09-05 | 2026-09-06 |
 | [Withered](https://open.spotify.com/track/4rXXkuEOyspu8wqlhd47z7) | [Jonathan Andrew Rysdon](https://open.spotify.com/artist/17WbxMg28ANXPAoBP6jgj0), [Kevin Michael Ozias](https://open.spotify.com/artist/6usveDw1gXJTzcdB3gNKSV) | [Withered](https://open.spotify.com/album/3Dgal9hx25c9OCREdBphuB) | 5:05 | 2026-02-27 | 2026-03-18 |
 | [Worte](https://open.spotify.com/track/0h4W1Ap0luEobA7I8DhMzQ) | [photophor](https://open.spotify.com/artist/5uVqMT31K9S7WpFLC5LZsh) | [Der Wahn Als Methode](https://open.spotify.com/album/6gHoLJnRgtRf4NUeiKPzn9) | 3:35 | 2026-02-14 | 2026-03-29 |

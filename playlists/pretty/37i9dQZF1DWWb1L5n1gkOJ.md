@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWb1L5n1gkOJ.md) - [plain]
 
 > Gentle, soft Ambient music for focus and concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,012 likes - 129 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,067 likes - 129 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

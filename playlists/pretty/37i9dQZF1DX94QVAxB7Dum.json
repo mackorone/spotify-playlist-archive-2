@@ -1,6 +1,6 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 831075,
+  "num_followers": 831142,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-07-02 22:47:47",
       "album": {
+        "name": "Motown Remixed & Unmixed",
+        "url": "https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc"
+      },
+      "artists": [
+        {
+          "name": "Edwin Starr",
+          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "War",
+      "url": "https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9"
+    },
+    {
+      "added_at": "2024-07-02 22:47:47",
+      "album": {
         "name": "Super Blues, Vol. 1",
         "url": "https://open.spotify.com/album/4ireNbB0PiOdvCJx4O0sIG"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 174360,
       "name": "The Tracks Of My Tears",
       "url": "https://open.spotify.com/track/3AR9uXc8JbOVfe92kzmJTH"
-    },
-    {
-      "added_at": "2024-07-02 22:47:47",
-      "album": {
-        "name": "Motown Remixed & Unmixed",
-        "url": "https://open.spotify.com/album/7kRPqxlWTvT7F4fKX9ruOc"
-      },
-      "artists": [
-        {
-          "name": "Edwin Starr",
-          "url": "https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "War",
-      "url": "https://open.spotify.com/track/3yCRbRnRraIpWzWTOZDyX9"
     },
     {
       "added_at": "2024-07-02 22:47:47",

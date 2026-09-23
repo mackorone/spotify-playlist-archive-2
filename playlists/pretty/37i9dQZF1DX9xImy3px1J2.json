@@ -1,6 +1,6 @@
 {
   "description": "L'unica party playlist di cui hai bisogno, sempre aggiornata \ud83c\udf7e Top hit italiane e internazionali! ",
-  "num_followers": 343065,
+  "num_followers": 343053,
   "original_name": "Party 2026",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
-        "name": "Dirty Cash (Money Talks)",
-        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        },
-        {
-          "name": "The Adventures Of Stevie V",
-          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
-        }
-      ],
-      "duration_ms": 221448,
-      "name": "Dirty Cash (Money Talks)",
-      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
         "name": "Good Girl",
         "url": "https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 181411,
       "name": "Good Girl",
       "url": "https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
+        "name": "Dirty Cash (Money Talks)",
+        "url": "https://open.spotify.com/album/2d9NxyCSygtJcvsAmBtXOj"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        },
+        {
+          "name": "The Adventures Of Stevie V",
+          "url": "https://open.spotify.com/artist/7HOmuShc6sajk74rYV7zR2"
+        }
+      ],
+      "duration_ms": 221448,
+      "name": "Dirty Cash (Money Talks)",
+      "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
       "added_at": "2026-07-30 22:02:54",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
-        "name": "TOO COOL TO BE CARELESS",
-        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220046,
-      "name": "TOO COOL TO BE CARELESS",
-      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
+        "name": "TOO COOL TO BE CARELESS",
+        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "duration_ms": 220046,
+      "name": "TOO COOL TO BE CARELESS",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
     },
     {
       "added_at": "2026-07-30 22:02:54",
@@ -1119,46 +1119,6 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
-        "name": "Pedro",
-        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
-      },
-      "artists": [
-        {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        }
-      ],
-      "duration_ms": 144562,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -1183,6 +1143,46 @@
       "duration_ms": 165714,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 144562,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
       "added_at": "2026-07-30 22:02:54",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
         "name": "All Around The World (La La La)",
         "url": "https://open.spotify.com/album/0Y59j5oCvwTM2aNyPb6YpJ"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 147840,
       "name": "All Around The World (La La La)",
       "url": "https://open.spotify.com/track/02itaCXOdC54J0ISjqqFAp"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
       "added_at": "2026-07-30 22:02:54",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2026-07-30 22:02:54",
       "album": {
-        "name": "Iko Iko (My Bestie)",
-        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
-      },
-      "artists": [
-        {
-          "name": "Justin Wellington",
-          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
-        },
-        {
-          "name": "Small Jam",
-          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Iko Iko (My Bestie)",
-      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
-    },
-    {
-      "added_at": "2026-07-30 22:02:54",
-      "album": {
         "name": "Wo, man (Edit)",
         "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 200500,
       "name": "Wo, man - Edit",
       "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
+    },
+    {
+      "added_at": "2026-07-30 22:02:54",
+      "album": {
+        "name": "Iko Iko (My Bestie)",
+        "url": "https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU"
+      },
+      "artists": [
+        {
+          "name": "Justin Wellington",
+          "url": "https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF"
+        },
+        {
+          "name": "Small Jam",
+          "url": "https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Iko Iko (My Bestie)",
+      "url": "https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i"
     },
     {
       "added_at": "2026-07-30 22:02:54",

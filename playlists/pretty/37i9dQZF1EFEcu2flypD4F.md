@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,574 likes - 347 songs - 21 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,576 likes - 347 songs - 21 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,8 +232,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 222 | [Stronger Than Ever](https://open.spotify.com/track/0GzrDJVavYZpA8Hc6MRxuU) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 4:15 |
 | 223 | [Wonderful](https://open.spotify.com/track/2St9phLphjLD3e0tpZV4tH) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg) | [Phases](https://open.spotify.com/album/5dAuovYBdntbFoq6xFScts) | 3:12 |
 | 224 | [I Had A Heart](https://open.spotify.com/track/2uJZ32A1LXktrJvREA21uf) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:48 |
-| 225 | [Rewrite](https://open.spotify.com/track/1NMzLXCP8jEv0WLz6wrhrs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:45 |
-| 226 | [Boogie's in My Soul](https://open.spotify.com/track/24xKQ8UaZQpcYr7HVB6wQd) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:42 |
+| 225 | [Boogie's in My Soul](https://open.spotify.com/track/24xKQ8UaZQpcYr7HVB6wQd) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:42 |
+| 226 | [Rewrite](https://open.spotify.com/track/1NMzLXCP8jEv0WLz6wrhrs) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Colour The Small One](https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5) | 4:45 |
 | 227 | [Diamants](https://open.spotify.com/track/77xStTWFuM5tOKhiQUJ9O3) | [MPL](https://open.spotify.com/artist/7pcG7za39JaUHalwqiuCt9) | [LU7](https://open.spotify.com/album/6w7AuDYL8h9XHjZTSp3rPR) | 4:22 |
 | 228 | [Beautiful Things Can Happen](https://open.spotify.com/track/7da0TNcFMyUE9a3UNzZ6BE) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 2:50 |
 | 229 | [Towards The Sun](https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 2:47 |
@@ -356,4 +356,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 346 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 | 347 | [Out There](https://open.spotify.com/track/3Te7kICU7pmlx86QzNyb23) | [Mariana Coello](https://open.spotify.com/artist/2v8BIa5qKGdUZXfRQk9206) | [Out There](https://open.spotify.com/album/6q00fYGRYBkaVG3ujARmNF) | 2:50 |
 
-Snapshot ID: `Acc7pgAAAAB8teRUUoUx3gRnihRlFknI`
+Snapshot ID: `AcdBUAAAAAAPyW3k5fCEkz/0ujcajXRL`

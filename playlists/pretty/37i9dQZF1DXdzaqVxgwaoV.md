@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > ¡Música tropical, cumbia, guasca y de carrilera para recordar y disfrutar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,113 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,107 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 50 | [Donde Andara](https://open.spotify.com/track/4Of7bgJveFop4Be3xIGYFK) | [Los Trovadores De Cuyo](https://open.spotify.com/artist/1b04Sisb3cmkfcjvwCjaEV) | [Los Trovadores De Cuyo](https://open.spotify.com/album/6VxG2RkyFbEQLLlXUhidGA) | 3:03 |
 | 51 | [El negrito del Batey \- Remastered](https://open.spotify.com/track/5l3zT77F4kGXeBKs4FO2pH) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [La Sonora Matancera y sus voces de oro, Vol\. 1 \(Remastered\)](https://open.spotify.com/album/6uFvAQZBCx1ZMWLxMO35iM) | 2:33 |
 | 52 | [Todo Es Amor](https://open.spotify.com/track/2c032My2b1gSCVUMSgkXjA) | [Ibarra y Medina](https://open.spotify.com/artist/20Uda1t31CPZ79yOtMbKgM) | [Clasicas de la Cancion Popular, Vol\. 5](https://open.spotify.com/album/3kv4gOvF572KH6yBm2B2zq) | 3:00 |
-| 53 | [Si No Puedo Ser Tu Amor](https://open.spotify.com/track/3HALoTXV3g4jEqx6oU3cLE) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:47 |
-| 54 | [Tumba Sin Doliente](https://open.spotify.com/track/51AbAVPB6NfUhYcStIGL0M) | [Los Relicarios](https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB), [Jose Muñoz](https://open.spotify.com/artist/3G9ZSZsqKKz7ugwQ2wvyNy), [Germán Rengifo](https://open.spotify.com/artist/7d1s2OidKtMddasrXwtFTT) | [Por Siempre, Vol\. 5](https://open.spotify.com/album/3yRO2OpTrVG5S04n07FRh7) | 2:50 |
-| 55 | [Macondo](https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Macondo](https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E) | 3:57 |
+| 53 | [Quiéreme en Vida](https://open.spotify.com/track/6UjYl2kpMdvVDu02OGmiz6) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 3:08 |
+| 54 | [Macondo](https://open.spotify.com/track/1XKmU59ERIwofmciipLhlo) | [Cuarteto Continental de Alberto Maraví](https://open.spotify.com/artist/22YXWmEIyYQ4UL4j4QsHyq) | [Macondo](https://open.spotify.com/album/0eZurc4gYbenvoa6TpYK5E) | 3:57 |
+| 55 | [Tumba Sin Doliente](https://open.spotify.com/track/51AbAVPB6NfUhYcStIGL0M) | [Los Relicarios](https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB), [Jose Muñoz](https://open.spotify.com/artist/3G9ZSZsqKKz7ugwQ2wvyNy), [Germán Rengifo](https://open.spotify.com/artist/7d1s2OidKtMddasrXwtFTT) | [Por Siempre, Vol\. 5](https://open.spotify.com/album/3yRO2OpTrVG5S04n07FRh7) | 2:50 |
 | 56 | [Sobre las Olas](https://open.spotify.com/track/1noDxnTrhCblZDWYuGSrtz) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Joseíto Martínez](https://open.spotify.com/artist/2tw2BrnDHhErZuk7ePrZcC) | [Historia Músical \- 30 Éxitos](https://open.spotify.com/album/1xNSKvjq7Te0taB7oyocdj) | 3:24 |
 | 57 | [Por Que Te Alejas?](https://open.spotify.com/track/6LUS9h8MHCY2ffOAfYRF8D) | [Los Trovadores De Cuyo](https://open.spotify.com/artist/1b04Sisb3cmkfcjvwCjaEV) | [Los Trovadores De Cuyo](https://open.spotify.com/album/6VxG2RkyFbEQLLlXUhidGA) | 3:23 |
-| 58 | [Quiéreme en Vida](https://open.spotify.com/track/6UjYl2kpMdvVDu02OGmiz6) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 3:08 |
-| 59 | [Mujer Traidora](https://open.spotify.com/track/7vjop7p1yCApmPFcwwreuV) | [Los Relicarios](https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB) | [Mano a Mano](https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh) | 2:45 |
-| 60 | [El Zapatero](https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:23 |
+| 58 | [Si No Puedo Ser Tu Amor](https://open.spotify.com/track/3HALoTXV3g4jEqx6oU3cLE) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 2:47 |
+| 59 | [El Zapatero](https://open.spotify.com/track/2Q8O0xBH75Sh2182S8I8Pg) | [Octavio Mesa](https://open.spotify.com/artist/3aVL3CqqnAdGM3p3QNBD8x) | [Los Relajos del Arriero](https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8) | 2:23 |
+| 60 | [Mujer Traidora](https://open.spotify.com/track/7vjop7p1yCApmPFcwwreuV) | [Los Relicarios](https://open.spotify.com/artist/7oM8xPkDOpUKuNQJYsSIzB) | [Mano a Mano](https://open.spotify.com/album/3CaNT6kMdKV5QA7RktoDqh) | 2:45 |
 | 61 | [Las Trovas Maliciosas](https://open.spotify.com/track/2VOCn5cM6fZR8wAKPevr6X) | [Octavio Mesa Y Su Conjunto](https://open.spotify.com/artist/3npi4RWuNZl4jhe3z5qwVr) | [Relajos del Arriero](https://open.spotify.com/album/1QFSyof19J29lXMJObKPeB) | 2:47 |
 | 62 | [Boquita de Caramelo](https://open.spotify.com/track/36preOVVnbPYLqGkBHbOz8) | [Los Hispanos](https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h) | [Puro Chucu\-Chucu 4](https://open.spotify.com/album/297eZjc8J9pQu8X0fiM3PN) | 3:19 |
 | 63 | [Decidido](https://open.spotify.com/track/4AkSPCdKCipHPjToJRBIzM) | [Jose Miguel Class](https://open.spotify.com/artist/1bLcdHalDusGM70EM8oxmk) | [Los Grandes Éxitos de Jose Miguel Class](https://open.spotify.com/album/3WJlGjYRBaNKHGOsiNK7lt) | 3:03 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 77 | [Te Hubieras Ido Antes](https://open.spotify.com/track/0uw9huLXX2ne9bkisvYUFH) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Te Hubieras Ido Antes](https://open.spotify.com/album/6BIQDuXvqKsUb1jj6yvqFf) | 3:13 |
 | 78 | [El Amor de los Dos](https://open.spotify.com/track/03yQRv8SXpsOr8pOK3WEfu) | [Dueto Revelacion](https://open.spotify.com/artist/0ySBrTPGFDFJxa1zsdWEGl) | [Otro Dia Sin Ti](https://open.spotify.com/album/0qR1ehnvDrkv4mQFZtwN5V) | 3:09 |
 | 79 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 |
-| 80 | [el principe](https://open.spotify.com/track/6naXtONWcAYTJkXEuovTeb) | [Johan Mircelo](https://open.spotify.com/artist/4U5Pgmus2kNYEIFGgrBgpr) | [corridos prohibidos](https://open.spotify.com/album/6HGOTkvCcWToRzI87H6zLl) | 3:36 |
+| 80 | [La Burrita](https://open.spotify.com/track/3mXlm2lIp3leSWzv1vqN2k) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani) | [Época de Oro 16 Éxitos](https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY) | 2:37 |
 
 Snapshot ID: `AAAAAB3o0owYZqCUfh1l77Nre2V20JtI`

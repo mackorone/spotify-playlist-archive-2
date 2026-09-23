@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 
 > This is Tony! Toni! Toné!\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,835 likes - 39 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,836 likes - 39 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rSVxG.md) - [plain]
 | 33 | [More than Flowers](https://open.spotify.com/track/5sstkTEqnB157mqoe3qytV) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [More than Flowers](https://open.spotify.com/album/57ZDomiOueTXgd8bEqbNx9) | 3:07 |
 | 34 | [Waiting For You](https://open.spotify.com/track/0B1u3npvHJrld0nW95xIwC) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:13 |
 | 35 | [Who's Lovin You](https://open.spotify.com/track/7qfxFwr5VFD4v7ojFfQUgp) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 4:21 |
-| 36 | [Going Down](https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Jv01](https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Going Down](https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd) | 2:57 |
-| 37 | [Just Like My Papa](https://open.spotify.com/track/15M2mCwZQWPXACPhyFrRkj) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Jason’s Lyric \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1z5rSJMkLJgx2P07vS9VOC) | 3:43 |
+| 36 | [Just Like My Papa](https://open.spotify.com/track/15M2mCwZQWPXACPhyFrRkj) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Jason’s Lyric \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1z5rSJMkLJgx2P07vS9VOC) | 3:43 |
+| 37 | [Going Down](https://open.spotify.com/track/5CCukfXPy9NGfXzKKMIB4x) | [Iam Astro](https://open.spotify.com/artist/6M5Zqx04FgTOT9hFQ3127P), [Jv01](https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Going Down](https://open.spotify.com/album/6KW4VeHycSLe3rBh4sTqQd) | 2:57 |
 | 38 | [It Feels Good](https://open.spotify.com/track/1j9jJcfR7xK154OX6XTwFj) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Swing](https://open.spotify.com/album/173zgLYUQJXLa3NXTKgvce) | 3:08 |
 | 39 | [Pain](https://open.spotify.com/track/1K9rkQbCTj7LE1ZuJr0Jns) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [Who?](https://open.spotify.com/album/0sd5Xo4rUSD9LTee0C5jbu) | 5:46 |
 
-Snapshot ID: `aq8iAAAAAAAnl2CH0MfsKPCV1LfjSE8z`
+Snapshot ID: `arBzgAAAAACxPL7ZIBHNAhQLYKkt4Zul`

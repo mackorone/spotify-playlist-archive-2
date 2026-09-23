@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,531 likes - 99 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,517 likes - 99 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 3 | [OWA OWA](https://open.spotify.com/track/1lfO0bqThTLimzHsvk3LrN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [DOPAMINE](https://open.spotify.com/album/0CLqdKIh14TmKqLZCs9dml) | 2:12 |
 | 4 | [Down For Real](https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh) | [Victor Victor Presents](https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Down For Real](https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE) | 3:02 |
 | 5 | [Watching Us \(with Leon Thomas\)](https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:49 |
-| 6 | [There It Is](https://open.spotify.com/track/3StShCGECtZMW2yp9XkFYv) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [There It Is](https://open.spotify.com/album/6dWcGNILxu9pGUwDCzBblQ) | 2:27 |
-| 7 | [Strut](https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc) | [Ayanna Ife](https://open.spotify.com/artist/06RpzoM1Ww2pvhWLMeRRe1), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Strut](https://open.spotify.com/album/6gOk1NGn6qk3ONCSO42fRL) | 2:53 |
+| 6 | [Strut](https://open.spotify.com/track/0KpIXnC0uUnlGZDhwISGzc) | [Ayanna Ife](https://open.spotify.com/artist/06RpzoM1Ww2pvhWLMeRRe1), [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Strut](https://open.spotify.com/album/6gOk1NGn6qk3ONCSO42fRL) | 2:53 |
+| 7 | [Bow Bow Bow](https://open.spotify.com/track/7BMDIaCX8e8t8eTkUXB1IM) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Bow Bow Bow](https://open.spotify.com/album/6q6mVz6r3IjpwB02ZX3LUh) | 2:18 |
 | 8 | [Grab Your Popcorn \- Remix](https://open.spotify.com/track/4eiLbvXLYIAoW4Lj2Rjm6a) | [KUR](https://open.spotify.com/artist/1l9MB9QHLcmvuI3wwiWCkB), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Grab Your Popcorn \(Remix\)](https://open.spotify.com/album/2dsGJgx0Lc5fOnyVnzeIrs) | 4:26 |
 | 9 | [Yiccen](https://open.spotify.com/track/3xSR1SmielI1yzhYh841wt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Yiccen](https://open.spotify.com/album/5hHk1Fnk1AldOTXpcvw7Kh) | 2:18 |
 | 10 | [STOLE YA FLOW](https://open.spotify.com/track/2FycFFuNMVVYIiIqeldXF5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Don't Be Dumb](https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9) | 3:19 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 98 | [Paul](https://open.spotify.com/track/4d0Iik325hU4ci3c5Lh3he) | [Ben Reilly](https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv) | [SAVE!](https://open.spotify.com/album/3ZhL5dmsbLOlYR7Kk15dpE) | 2:22 |
 | 99 | [Forever](https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Harlem's Finest: Return Of The King](https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN) | 2:35 |
 
-Snapshot ID: `AAAAAKKwxTH3rC+yj5k4zYVpeTiu5yHj`
+Snapshot ID: `AAAAAGx4nmEdpI0xgBrVb43Yjrppbyde`

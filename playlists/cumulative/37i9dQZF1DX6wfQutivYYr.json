@@ -4073,6 +4073,24 @@
     },
     {
       "album": {
+        "name": "Lontano",
+        "url": "https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229322,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV"
+    },
+    {
+      "album": {
         "name": "FASTLIFE 5 : Audio Luxury",
         "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
       },
@@ -5368,7 +5386,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 214934,
       "name": "PER TE",
       "url": "https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU"

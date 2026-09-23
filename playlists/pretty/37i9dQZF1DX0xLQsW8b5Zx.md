@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,247 likes - 60 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,260 likes - 60 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 45 | [Love You To Death](https://open.spotify.com/track/2Ibsm42tOiFzlMIKyDsAQc) | [Screamin' Sins](https://open.spotify.com/artist/5TbvUklHVsA9ckRCb9WhQO), [Jen Blackwood](https://open.spotify.com/artist/6GInh8N8tyz8W1ebQR7wQ1) | [Love You To Death](https://open.spotify.com/album/1SuhxLmkkd8B2ePP5PkWaD) | 3:04 |
 | 46 | [Drinking Wine Spo\-Dee\-O\-Dee \- Single Version](https://open.spotify.com/track/2kfSF4imGkVpJXR4MSKccm) | [Johnny Burnette & The Rock 'N' Roll Trio](https://open.spotify.com/artist/1neKWNZP74NEuvHZmvMS58) | [Tear It Up: The Complete Legedary Coral Recordings](https://open.spotify.com/album/5EEZg4wJpSRVqRi1nxwKL6) | 2:12 |
 | 47 | [Leave My Heart Alone](https://open.spotify.com/track/0GDUQ7NS4nLjjSxjKA5ugt) | [Deke Dickerson](https://open.spotify.com/artist/6Uhcb4YBtQmZJKL3jBpPX4), [Whistle Bait](https://open.spotify.com/artist/7dFvgbU1cSYcwUQ6lLRFhI) | [Deke Dickerson Meets The Whistle Bait](https://open.spotify.com/album/4meqFQHC5aYxp3X6q6uuyX) | 3:03 |
-| 48 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 |
-| 49 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
+| 48 | [We the Boys Will Rock Ya](https://open.spotify.com/track/5X0Bw8bVxSm274py1RyosM) | [The Big Six](https://open.spotify.com/artist/3yBtTnMApmLbCCRUWq0bgP) | [We Will Rock You](https://open.spotify.com/album/73Wnm7tH3Potmwl8dQSPdB) | 3:32 |
+| 49 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 |
 | 50 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
 | 51 | [Rockabilly Guy](https://open.spotify.com/track/3vrRAugNjfi7UkW4Ktxxyl) | [The Polecats](https://open.spotify.com/artist/0ySLj2XiEOFtixInK1GAD4) | [Rockabilly Cats](https://open.spotify.com/album/2FYlqHuVW1L4jnyU8eYJO2) | 2:32 |
 | 52 | [Rockabilly Rebel](https://open.spotify.com/track/2x8crqLADWUdP27pFsF8JT) | [Hillbilly Hellcats](https://open.spotify.com/artist/11m1eWZOcuGHyNnE2m32SB) | [Our Brand](https://open.spotify.com/album/2x4X3CEv2XmPvNBVd309pz) | 2:29 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 57 | [Graceland](https://open.spotify.com/track/6uvs2pw75LSJjH5tCvpyGR) | [Charlie Sexton](https://open.spotify.com/artist/132XHXfIbAJi5jQKmH986p) | [True Romance \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5RyWJx6ASGDuaEwVe0aWvG) | 3:25 |
 | 58 | [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 |
 | 59 | [Oh Baby](https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd) | 2:40 |
-| 60 | [The Fool](https://open.spotify.com/track/4DGWTmh53h5Qm68FboVSMF) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Rockabilly Classics](https://open.spotify.com/album/57iN9SJYBZ7CkbVYATSDLG) | 2:46 |
+| 60 | [Sunny](https://open.spotify.com/track/1e1p5hTzbfLDDjumMOzl9w) | [The Kingbees](https://open.spotify.com/artist/4cu77OuihTaUDYozqa2u9G) | [Sunny](https://open.spotify.com/album/0iNprdkkVugAnZ6KfTR1f2) | 3:37 |
 
 Snapshot ID: `AAAAAKtmHnmRSsd1B+aetqkVxTEIlo8I`

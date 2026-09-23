@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2017. Cover: Daddy Yankee & Luis Fonsi",
-  "num_followers": 92845,
+  "num_followers": 92881,
   "original_name": "Latin Hits 2017",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
+        "name": "Odisea",
+        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "T\u00fa Foto",
+      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
+    },
+    {
+      "added_at": "2024-07-13 01:15:47",
+      "album": {
         "name": "#Update",
         "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 223133,
       "name": "Expl\u00edcale (feat. Bad Bunny)",
       "url": "https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG"
-    },
-    {
-      "added_at": "2024-07-13 01:15:47",
-      "album": {
-        "name": "Odisea",
-        "url": "https://open.spotify.com/album/4s05NbwGgw5SO42AdsN5Oo"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "T\u00fa Foto",
-      "url": "https://open.spotify.com/track/5zSOVwaY3sVjnmLhuEfsuf"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -863,22 +863,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+        "name": "#Update",
+        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
         }
       ],
-      "duration_ms": 228146,
-      "name": "S\u00e9 Que Te Duele",
-      "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
+      "duration_ms": 210786,
+      "name": "Como Antes (feat. Wisin)",
+      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
     },
     {
       "added_at": "2024-07-13 01:15:47",
@@ -899,22 +899,22 @@
     {
       "added_at": "2024-07-13 01:15:47",
       "album": {
-        "name": "#Update",
-        "url": "https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq"
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
       },
       "artists": [
         {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         },
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 210786,
-      "name": "Como Antes (feat. Wisin)",
-      "url": "https://open.spotify.com/track/5YzA563GXTuwQaRq24z1k5"
+      "duration_ms": 228146,
+      "name": "S\u00e9 Que Te Duele",
+      "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
     },
     {
       "added_at": "2024-07-13 01:15:47",

@@ -2,9 +2,9 @@
 
 ### [Tokyo Super Hits! ](https://open.spotify.com/playlist/37i9dQZF1DXafb0IuPwJyF)
 
-> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover:  YAO\(Awich, CHICO CARLITO, ONE OK ROCK, Paledusk\)
+> 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover:  マカロニえんぴつ
 
-1,856 songs - 4 day 18 hr 46 min
+1,858 songs - 4 day 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -768,7 +768,7 @@
 | [Run](https://open.spotify.com/track/3jKaAVlYp6i36bH9kCH7S6) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/53nChQOJuMLPOBDWdnDWRd) | 4:08 | 2024-03-19 | 2024-04-19 |
 | [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 | 2024-04-16 | 2024-04-24 |
 | [RUN FOR YOU](https://open.spotify.com/track/2ev4YByQEhb3TbsxqyNF1N) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [RUN FOR YOU](https://open.spotify.com/album/4pyPXipdnMSHxekhwuJNJG) | 2:58 | 2023-09-24 | 2023-10-02 |
-| [Running Wheel](https://open.spotify.com/track/1QNc9HPnw3diR0gIoVZp1S) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Running Wheel](https://open.spotify.com/album/046nzm7oipvLuxPMFrlb7e) | 2:17 | 2026-08-25 |  |
+| [Running Wheel](https://open.spotify.com/track/1QNc9HPnw3diR0gIoVZp1S) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Running Wheel](https://open.spotify.com/album/046nzm7oipvLuxPMFrlb7e) | 2:17 | 2026-08-25 | 2026-09-23 |
 | [Russe Onna](https://open.spotify.com/track/0XHZyPWmzqeznX9I92qRCf) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Russe Onna](https://open.spotify.com/album/4vfO6A0pbU097VKFRfOXJC) | 2:39 | 2025-12-02 | 2026-01-28 |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-24 | 2023-08-21 |
 | [SAD SONG](https://open.spotify.com/track/0mlCDt9UWfQNY0pxk5jbJK) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [SAD SONG](https://open.spotify.com/album/7wHPzUGEz8co9LDUeqyqeE) | 3:37 | 2025-06-03 | 2026-01-21 |
@@ -897,6 +897,7 @@
 | [Super Star](https://open.spotify.com/track/6AflIeXwx0xqkfe0mmnChE) | [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh), [knoak](https://open.spotify.com/artist/2JaKbKsQiaVksYmGSs2ZuP) | [Super Star](https://open.spotify.com/album/12wAKwJC0xf2cfTCZXlxpF) | 3:22 | 2023-05-14 | 2023-06-26 |
 | [SuperCali](https://open.spotify.com/track/4pW4sNCWGUG9D9EjACfkvK) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [SuperCali](https://open.spotify.com/album/0Z8ddGt1kEMRBTY1engcvy) | 3:01 | 2022-10-03 | 2022-10-31 |
 | [Superman](https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Superman](https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV) | 3:29 | 2023-11-05 | 2023-11-21 |
+| [Supermarket](https://open.spotify.com/track/3TEu6rnvOBkZqKf0vQeVmy) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Supermarket](https://open.spotify.com/album/2AC5p0CgyRUaMwJACM11su) | 4:31 | 2026-09-22 |  |
 | [Superpower](https://open.spotify.com/track/5lw4VMEvXNCpHNSRpxmkTC) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [A.G.O](https://open.spotify.com/artist/5SeNiJVjU56de5iLf0XbwK) | [Superpower](https://open.spotify.com/album/0ARB46NXMft2bVDQkOsgKp) | 3:22 | 2022-03-13 | 2022-04-18 |
 | [Sushi](https://open.spotify.com/track/6OpMRIjVFIAMC6T63wvFrP) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Candee](https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR), [Deech](https://open.spotify.com/artist/4TNIbTL8IpTGjM86BDHHV7) | [We Comin' \(f\*\*k dat s\*\*t\)](https://open.spotify.com/album/0Xj5HT1p3FjsoJdcXhQvGP) | 2:44 | 2022-02-27 | 2022-03-07 |
 | [Suzume](https://open.spotify.com/track/7LHAKF7pBqHch8o6Yo0ad5) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/3GzVC7GGbmO2SuBu92DqUn) | [Suzume](https://open.spotify.com/album/7HT4WPE6gHPxrRmgzhhTMr) | 3:56 | 2022-09-29 | 2022-11-14 |
@@ -1317,7 +1318,7 @@
 | [バーゲンセール](https://open.spotify.com/track/1s2zRN7iZsHAfAFVAp3yt5) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [バーゲンセール](https://open.spotify.com/album/095tdiHOZ8p8icawhCWW55) | 2:25 | 2024-05-07 | 2024-07-03 |
 | [パズル](https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [パズル](https://open.spotify.com/album/374nxZf7LeBYBvUVKx4fMt) | 3:16 | 2026-01-27 | 2026-06-10 |
 | [パッと咲いて散って灰に](https://open.spotify.com/track/7dhfRM5zkUWFsC8gD2rsh6) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [パッと咲いて散って灰に](https://open.spotify.com/album/0ZLf6eXoTxUWN5iXIr0hhI) | 2:43 | 2022-03-13 | 2022-04-18 |
-| [パッパパラダイス](https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [パッパパラダイス](https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ) | 3:50 | 2026-05-12 |  |
+| [パッパパラダイス](https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [パッパパラダイス](https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ) | 3:50 | 2026-05-12 | 2026-09-23 |
 | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/track/3V5WQGwq4PuaNHetIhTDbp) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [北里彰久](https://open.spotify.com/artist/6XwlOVm6zIIx9ZdSHnLOHu), [Alfred Beach Sandal](https://open.spotify.com/artist/1H2KvPR75UUpoQpRcnvn1I) | [パノラマ \(feat\. 北里彰久\)](https://open.spotify.com/album/5DX3feFVO0hzjPE0Bzj3Wh) | 4:24 | 2023-11-26 | 2023-12-05 |
 | [パレットは透明](https://open.spotify.com/track/25e3Pxxt0G1KGvMbYelQMG) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [パレットは透明](https://open.spotify.com/album/23xlWGbhuph9wClaYZqbPg) | 3:17 | 2023-10-22 | 2023-11-06 |
 | [ヒカリ](https://open.spotify.com/track/0Xf7lckHz3jvpSurbgbrFf) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [ヒカリ](https://open.spotify.com/album/6ZkIrRQFB5BeXrDO8T52KC) | 4:10 | 2024-01-21 | 2024-02-12 |
@@ -1809,6 +1810,7 @@
 | [週休8日](https://open.spotify.com/track/6BFDhlDTca7DBR4xu0N8Kc) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [TOUGH PLAY](https://open.spotify.com/album/24nihP1XbYvWErFyDVdvIU) | 3:29 | 2022-04-03 | 2022-04-11 |
 | [進め!そっちだ!](https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [進め!そっちだ!](https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG) | 3:14 | 2022-01-16 | 2022-02-21 |
 | [運命、というかUFOに\(ドゥイ、ドゥイ\)](https://open.spotify.com/track/7Ixpgdw4u532wm8DV3iv6B) | [Ozawa Kenji](https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I) | [飛行する君と僕のために/運命、というかUFOに\(ドゥイ、ドゥイ\)](https://open.spotify.com/album/1Y8hbSqsXHLtd8DWBAnSW3) | 3:37 | 2021-12-26 | 2022-01-10 |
+| [運命さがし](https://open.spotify.com/track/76lukrvGiAM7GBcjE4Gx4h) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [運命さがし EP](https://open.spotify.com/album/2zOyV8uuxPW31rdXWokKyM) | 3:25 | 2026-09-22 |  |
 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 | 2024-04-09 | 2024-09-04 |
 | [邂逅](https://open.spotify.com/track/0OrXdLzyZ1JvaEAQJOVfdI) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [邂逅](https://open.spotify.com/album/1Mi4mOmC4qs9aVO0xivi2h) | 4:42 | 2024-04-23 | 2024-06-05 |
 | [邦画](https://open.spotify.com/track/4zfsk7inEPq0PawGyU6oHi) | [Indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [邦画](https://open.spotify.com/album/6GFIx1kaT0aD0qLSWCdtRc) | 3:17 | 2021-12-19 | 2022-01-31 |

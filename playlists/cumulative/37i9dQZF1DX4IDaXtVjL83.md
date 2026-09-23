@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: HONGJOONG, Bazzi\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: YOUNG POSSE, Kim Oki\)
 
-288 songs - 15 hr 2 min
+289 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Delicious](https://open.spotify.com/track/53gU09JrGtZfXTPBFpukKr) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [Delicious](https://open.spotify.com/album/315iKfEODZns5S32HhcapU) | 3:17 | 2023-06-08 | 2025-04-26 |
 | [Die Trying](https://open.spotify.com/track/4ToOfelAD6oEqbeHyTTKMS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Die Trying](https://open.spotify.com/album/2Ov7bn3HyDgvAxtYPLosUR) | 2:55 | 2024-04-05 | 2026-05-30 |
 | [Dirty Work \(feat\. Flo Milli\)](https://open.spotify.com/track/6kBtuFVssWq2rORvq2ssXS) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Dirty Work](https://open.spotify.com/album/3L7i2VqeznnAqX5BG6gm3H) | 3:00 | 2025-06-27 | 2026-05-30 |
-| [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 | 2026-07-10 |  |
+| [Distant Lover](https://open.spotify.com/track/5GXyaAB474gIHxHtGdqsSF) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [FANDOM](https://open.spotify.com/artist/2A854MGtNE2Gi7Tp9BMQuv) | [Distant Lover](https://open.spotify.com/album/6Om1TG7eAZKFe0y2EWCTNi) | 3:37 | 2026-07-10 | 2026-09-23 |
 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 | 2023-07-07 | 2025-10-11 |
 | [Do What You Do](https://open.spotify.com/track/0RUCNCjTRGTRDtta5mRhbb) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [EL CAPITXN](https://open.spotify.com/artist/6znA51F9M98IX7pBtKCu0a) | [Do What You Do](https://open.spotify.com/album/0CgqDCy5Lig3nFwJlwW45S) | 2:59 | 2025-03-07 | 2026-05-30 |
 | [Dracula \(with JENNIE\)](https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Dracula \(with JENNIE\)](https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK) | 3:29 | 2026-02-06 |  |
@@ -120,6 +120,7 @@
 | [Handlebars \(feat\. Dua Lipa\)](https://open.spotify.com/track/3gJAFFELdZyIM8tiwLAikg) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Ruby](https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH) | 3:04 | 2025-03-07 |  |
 | [Hare Hare](https://open.spotify.com/track/0h3dJV8JA5oxPzSF4tkz2t) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Hare Hare](https://open.spotify.com/album/0ymqvaOiilJa797C3Y2mZh) | 3:23 | 2023-06-08 | 2025-06-14 |
 | [harmless \(Feat\. CHANMINA\)](https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:03 | 2024-03-05 | 2026-04-03 |
+| [Haze](https://open.spotify.com/track/4zEcgcI2fo5cHvhi7RDLIJ) | [YOUNG POSSE](https://open.spotify.com/artist/5bxwvIM9PX0CkpS6f1L2Ff), [Kim Oki](https://open.spotify.com/artist/1Z8Khxem5wcnSoH3WpwMbF) | [Haze](https://open.spotify.com/album/1bWJFxDYBN3Pc0KHw2GeSB) | 3:27 | 2026-09-23 |  |
 | [Hey Hello](https://open.spotify.com/track/77hIkkruDPGPQzbpr4c3wm) | [Peder Elias](https://open.spotify.com/artist/56zJ6PZ3mNPBiBqglW2KxL), [Cha Eun\-Woo](https://open.spotify.com/artist/76ea6HHCvHlTqhF9I0jtHU) | [Hey Hello](https://open.spotify.com/album/3LNfDuAu8Hhf6J43lvgvba) | 3:23 | 2024-08-30 | 2026-09-04 |
 | [Home](https://open.spotify.com/track/1ios97PK96GBYvGeLwwKqb) | [YEONJUN](https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w) | [Home \[The Seasons : Sung Si\-kyung's Ear Candy\]](https://open.spotify.com/album/4sPc1UoWFrsBFimrYwdfF1) | 3:39 | 2026-09-03 |  |
 | [Hot Mess](https://open.spotify.com/track/1SaLI6o5GhfcaxPVAJoD3r) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hot Mess](https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU) | 3:12 | 2024-07-08 |  |

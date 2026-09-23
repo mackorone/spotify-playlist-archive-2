@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABNkChMskGS/i+4PaKgOGQO",
+  "snapshot_id": "arBzgAAAAADLJ1//Jaj1Tcxy5WYkW1F2",
   "tracks": [
     {
       "added_at": null,
@@ -311,26 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Prodigal (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Prove It",
-      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 213278,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/5ZlWVb9NKKqsM1OgwWdVuB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Prodigal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
     },
     {
       "added_at": null,
@@ -647,26 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Be Honest - EP",
-        "url": "https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y"
-      },
-      "artists": [
-        {
-          "name": "Lathan Warlick",
-          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 136384,
-      "name": "Long Way (feat. KB)",
-      "url": "https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 229807,
       "name": "The Name (feat. Koryn Hawthorne)",
       "url": "https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Be Honest - EP",
+        "url": "https://open.spotify.com/album/6Efeo3hqiEHsi6DXdeVK6Y"
+      },
+      "artists": [
+        {
+          "name": "Lathan Warlick",
+          "url": "https://open.spotify.com/artist/6Wg68vsyRjVt7TRJsWNWSP"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 136384,
+      "name": "Long Way (feat. KB)",
+      "url": "https://open.spotify.com/track/4t1eK7Vxy2f4l29qJM6lrP"
     },
     {
       "added_at": null,
@@ -723,6 +723,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 207033,
+      "name": "This Is Life",
+      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ROCKSTAR",
         "url": "https://open.spotify.com/album/7pWqMZL8EMGW58Nh68Eb4m"
       },
@@ -743,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
       "artists": [
         {
@@ -752,9 +768,9 @@
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 207033,
-      "name": "This Is Life",
-      "url": "https://open.spotify.com/track/3X5yUONtNNQgSx7vXhSci0"
+      "duration_ms": 187115,
+      "name": "Glory 2 Glory",
+      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
     },
     {
       "added_at": null,
@@ -779,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
       "artists": [
         {
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 187115,
-      "name": "Glory 2 Glory",
-      "url": "https://open.spotify.com/track/4Tgq7SCuvkMsms0416Z6EY"
+      "duration_ms": 225809,
+      "name": "Yes Song",
+      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
     },
     {
       "added_at": null,
@@ -819,42 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 225809,
-      "name": "Yes Song",
-      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glory Down",
-        "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
-      },
-      "artists": [
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 179673,
-      "name": "Glory Down",
-      "url": "https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 203195,
       "name": "Danza",
       "url": "https://open.spotify.com/track/2tlTvn51vKm2y7B32aSqoG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Glory Down",
+        "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 179673,
+      "name": "Glory Down",
+      "url": "https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY"
     },
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wholehearted",
-        "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
-      },
-      "artists": [
-        {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 182095,
-      "name": "Wholehearted",
-      "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II",
         "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 260048,
       "name": "Graves",
       "url": "https://open.spotify.com/track/3OPcnTopJhqCJ9ekOsnV1t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wholehearted",
+        "url": "https://open.spotify.com/album/6vYLD0YIUj06oN7TvjPM8P"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 182095,
+      "name": "Wholehearted",
+      "url": "https://open.spotify.com/track/6VUkxixPg5mwleZcKlD7Wo"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Josie Edwards
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,323 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,330 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 25 | [Get Hit](https://open.spotify.com/track/1yH6JkYm9GvAEYysxrcrE3) | [Trim](https://open.spotify.com/artist/1xkEwol8vsfO4m2WP8Dyk9) | [Get Hit](https://open.spotify.com/album/7sSFmJP0EC5o4HqYwYSBch) | 1:54 |
 | 26 | [Same Circus](https://open.spotify.com/track/7uanUiwGDy6VbYnrpJc8db) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Honest Woman](https://open.spotify.com/album/17Kqr4VU1U4QiBi9jxZ9ga) | 3:22 |
 | 27 | [NWM](https://open.spotify.com/track/3xcGQuK0hKDB8a3eW2Wb5R) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [NWM](https://open.spotify.com/album/2UlvJKa3ErOUugM6NNEjEs) | 3:12 |
-| 28 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 |
-| 29 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
+| 28 | [The Art Of Letting Go](https://open.spotify.com/track/0WQvmpV4lsbGD8u7CqGt4F) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [PEYOTE](https://open.spotify.com/album/5JMp3qoFDPu1rVxh3RRyjl) | 3:07 |
+| 29 | [Better Man](https://open.spotify.com/track/6kNcp1ZJPtDPbzJ6nuaKvx) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Better Man](https://open.spotify.com/album/3KlipsmFkGdsG0GDZqhuuc) | 3:03 |
 | 30 | [Deep End](https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Deep End](https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE) | 2:49 |
 | 31 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
 | 32 | [Her](https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Thank God](https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf) | 2:53 |
@@ -47,20 +47,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 37 | [It Just So Happens](https://open.spotify.com/track/39VskX4yIWsxCSE1x7Wa8j) | [Yana](https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX) | [Feelings Are Forever](https://open.spotify.com/album/01rDa3R9E2OMXOISdH1295) | 2:48 |
 | 38 | [The World Keeps Spinning](https://open.spotify.com/track/3kjo18jDL7MvyRO8sMCVgO) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [The World Keeps Spinning](https://open.spotify.com/album/32ZClhFaEcuum0aEvXbDwo) | 2:15 |
 | 39 | [Focus](https://open.spotify.com/track/5NUR4ONjlePCP9vFCobUOC) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Mad Big World](https://open.spotify.com/album/5VgEHVAxaBrWLJIkFHHll4) | 2:49 |
-| 40 | [only one way to know](https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [only one way to know](https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS) | 2:46 |
-| 41 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
+| 40 | [Fail\-safe](https://open.spotify.com/track/6xD86PPhXcZQrgiTyhNAzW) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Fail\-safe](https://open.spotify.com/album/3D2s2eiAPhTFCJGVj5ZbEt) | 3:27 |
+| 41 | [only one way to know](https://open.spotify.com/track/7xXkfm6gfY9jxTtTiong0P) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [only one way to know](https://open.spotify.com/album/52HhL6WSFPoroghadEtXbS) | 2:46 |
 | 42 | [Can't Touch This](https://open.spotify.com/track/04B7iuFOZSGr0zyMP3PFkQ) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Can't Touch This](https://open.spotify.com/album/1idiwjkcE8F2hyNaagjPNi) | 2:28 |
 | 43 | [Raining Inside](https://open.spotify.com/track/5IXPx6rTgCCEOLQnlq1cpa) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Pink Pocket Pistol](https://open.spotify.com/album/4YZryAHr8tsQ73nVV0V81v) | 3:40 |
 | 44 | ['Til We Meet Again](https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | ['Til We Meet Again](https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda) | 4:19 |
-| 45 | [His Favorite](https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Favorite](https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI) | 2:52 |
-| 46 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
-| 47 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 |
-| 48 | [Daddy Died](https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV) | [earthsignchels](https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu) | [Daddy Died](https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp) | 4:12 |
+| 45 | [Next to U](https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Next to U](https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4) | 2:56 |
+| 46 | [His Favorite](https://open.spotify.com/track/6sM9n41CYIRkkZaFWvvTz1) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Favorite](https://open.spotify.com/album/5RLHJwAINvc3cVIdGTdBrI) | 2:52 |
+| 47 | [Daddy Died](https://open.spotify.com/track/3O1yYh4gvBxaYSmkTFGnWV) | [earthsignchels](https://open.spotify.com/artist/0O9Ul0wyw5ZstCJ7e3egUu) | [Daddy Died](https://open.spotify.com/album/7ExVxwux2kmiRMyDnrCDNp) | 4:12 |
+| 48 | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/track/1EDkkMHuzz1Fx4Wxrcbt0V) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [SYW \(feat\. Cecile Believe\)](https://open.spotify.com/album/2pBYL0yevZTBhCRG1L4mk9) | 2:46 |
 | 49 | [Heart Has To Work So Hard](https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Heart Has To Work So Hard](https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh) | 3:12 |
 | 50 | [I GO PUNK](https://open.spotify.com/track/0kQ73pOA7ljlHkWYu3a52F) | [BKTHERULA](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP) | [I GO PUNK](https://open.spotify.com/album/40kLk6FTJoOegUy5Jv2YXW) | 2:08 |
-| 51 | [Pathetic](https://open.spotify.com/track/13QihOzLoI07UwMONgspKh) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Pathetic](https://open.spotify.com/album/2dkeoGaV6dphpNcup8KVMK) | 3:22 |
+| 51 | [Drive](https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Drive](https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj) | 2:59 |
 | 52 | [Sleeping with My Boots On](https://open.spotify.com/track/6NIFqS0Rz2Zbjh1RN69hzX) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Lucky to Be](https://open.spotify.com/album/50TURqK9AFsbLTS5lguddv) | 2:08 |
-| 53 | [Drive](https://open.spotify.com/track/6zARylhJ2oHDw0x7V6W32N) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Drive](https://open.spotify.com/album/1EQK6Ve1W9b4bEKK3QAYtj) | 2:59 |
+| 53 | [Pathetic](https://open.spotify.com/track/13QihOzLoI07UwMONgspKh) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Pathetic](https://open.spotify.com/album/2dkeoGaV6dphpNcup8KVMK) | 3:22 |
 | 54 | [Joy Without Sound](https://open.spotify.com/track/1iBXitX6n5iiKI9U6eETKF) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Joy Without Sound](https://open.spotify.com/album/6Em2Qts5UUnhfcXqFZKicy) | 3:15 |
 
 Snapshot ID: `AAAAAPe9qBEet9rNp9YfPZ3ZMTDvqZ1F`

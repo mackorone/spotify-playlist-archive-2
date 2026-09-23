@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,255 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,306 likes - 48 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 41 | [The Leopard](https://open.spotify.com/track/13ZlexU7MfJDpOe9MsaEOR) | [Raffy Bushman](https://open.spotify.com/artist/4xX2QeWsypmEv9w4u9P6xC) | [The Leopard](https://open.spotify.com/album/4wDM8A678qr8cwtmT8Y357) | 5:10 |
 | 42 | [NOTHING PERSONAL](https://open.spotify.com/track/3WMQUy8epd786TQbAjUE0k) | [Blair / Huber](https://open.spotify.com/artist/4RQXCkNl0i4AJVjYlvtcMp) | [NOTHING PERSONAL](https://open.spotify.com/album/6DBrIXUPClL1Mi1vK0rQyP) | 3:57 |
 | 43 | [GODSPEED \(feat\. Bnnyhunna\)](https://open.spotify.com/track/7E7p8WNzhxaf3KKR3X8CKk) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy), [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [GODSPEED \(feat\. Bnnyhunna\)](https://open.spotify.com/album/5TXFOOyKn1U79BRipgjurq) | 3:54 |
-| 44 | [Beautiful Failure by Sunshine](https://open.spotify.com/track/0JMoKncKkhr52FeCmphyfl) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Beautiful Failure by Sunshine](https://open.spotify.com/album/0aJxIdqT8ZpUOgk4dyi3wp) | 3:40 |
-| 45 | [Shoal](https://open.spotify.com/track/2jKsP66gOCm0FJKEhuZ6yd) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shoal](https://open.spotify.com/album/0DZ4VkELBc5kLXE2fNLtNd) | 4:23 |
-| 46 | [Momentum Shift](https://open.spotify.com/track/07Q9pG7zFW4PLEXWzp6Jki) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Momentum Shift](https://open.spotify.com/album/0SqdoP0jQb9ngG0FA1Sgju) | 4:12 |
-| 47 | [Afar](https://open.spotify.com/track/78UoK9UNGaj7ReYDSqnk42) | [Yetii](https://open.spotify.com/artist/7mi5mm8MFU7ialhdbwzss6), [Alex Veitch](https://open.spotify.com/artist/47l2FPOS83ZogFrkEVXGLr) | [Afar](https://open.spotify.com/album/7nDgsmLy4P4lDCALxLF052) | 4:52 |
-| 48 | [Night and Day](https://open.spotify.com/track/3CJ1KNqKegdTI7wQNlQwVa) | [April Varner](https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b) | [Night and Day](https://open.spotify.com/album/7EFN2ZSFgxtuvZy0Ntuk6s) | 5:02 |
-| 49 | [notte brava](https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m) | [Dario Jacque](https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm) | [SANG](https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH) | 2:31 |
-| 50 | [LOVE THERAPY PT.3](https://open.spotify.com/track/6MS8pijpGGJLtkmzL1YKyH) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [HER NAME WAS YUMI \(DELUXE\)](https://open.spotify.com/album/3Glpu99dSGM2bDlKzyHd7L) | 3:21 |
+| 44 | [Shoal](https://open.spotify.com/track/2jKsP66gOCm0FJKEhuZ6yd) | [St\. Barbe](https://open.spotify.com/artist/67ykMebIGuLMYDPqXo2A6v) | [Shoal](https://open.spotify.com/album/0DZ4VkELBc5kLXE2fNLtNd) | 4:23 |
+| 45 | [Momentum Shift](https://open.spotify.com/track/07Q9pG7zFW4PLEXWzp6Jki) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Momentum Shift](https://open.spotify.com/album/0SqdoP0jQb9ngG0FA1Sgju) | 4:12 |
+| 46 | [Afar](https://open.spotify.com/track/78UoK9UNGaj7ReYDSqnk42) | [Yetii](https://open.spotify.com/artist/7mi5mm8MFU7ialhdbwzss6), [Alex Veitch](https://open.spotify.com/artist/47l2FPOS83ZogFrkEVXGLr) | [Afar](https://open.spotify.com/album/7nDgsmLy4P4lDCALxLF052) | 4:52 |
+| 47 | [Night and Day](https://open.spotify.com/track/3CJ1KNqKegdTI7wQNlQwVa) | [April Varner](https://open.spotify.com/artist/70NIXLuu1MgRfFpKRpb12b) | [Night and Day](https://open.spotify.com/album/7EFN2ZSFgxtuvZy0Ntuk6s) | 5:02 |
+| 48 | [notte brava](https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m) | [Dario Jacque](https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm) | [SANG](https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH) | 2:31 |
 
-Snapshot ID: `AAAAANlEgCrmz0acVufO1tsuc199D1rZ`
+Snapshot ID: `AAAAAOn+6NOqRLb/agk4SfMiCE89YV1l`

@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Feza
+> Khuphuka lapho… seku\-late! Cover: Saliwa
 
 324 songs - 1 day 1 hr 22 min
 

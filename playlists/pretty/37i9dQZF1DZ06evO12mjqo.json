@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 481492,
+  "num_followers": 481530,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABKST9aEO9/l6a44YKPKSTU",
+  "snapshot_id": "arBzgAAAAAB2Ccq6k3iIw1rKMuO+ih3+",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seven Inches of Satanic Panic",
-        "url": "https://open.spotify.com/album/0dfSsZm64lSVeIcbcS2cYi"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "Kiss The Go-Goat",
-      "url": "https://open.spotify.com/track/79QLNktJsGNRz4ijFnDywD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's A Sin",
         "url": "https://open.spotify.com/album/6Coz2RxA3NX2BZKCn9Hzme"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 280786,
       "name": "It's A Sin",
       "url": "https://open.spotify.com/track/3JnsVuLgoMJEcn0slGZjuN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seven Inches of Satanic Panic",
+        "url": "https://open.spotify.com/album/0dfSsZm64lSVeIcbcS2cYi"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "Kiss The Go-Goat",
+      "url": "https://open.spotify.com/track/79QLNktJsGNRz4ijFnDywD"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 247373,
-      "name": "Mummy Dust",
-      "url": "https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 278106,
       "name": "Satan Prayer",
       "url": "https://open.spotify.com/track/1y2iLukn4F2SUVnwF1mHfY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 247373,
+      "name": "Mummy Dust",
+      "url": "https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
-        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
+        "name": "Phantomime",
+        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
       },
       "artists": [
         {
@@ -680,25 +680,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 445376,
-      "name": "Majesty - Live from Mexico City",
-      "url": "https://open.spotify.com/track/5CUNOiEwQHsihmfC9Vq37P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 242640,
-      "name": "From The Pinnacle To The Pit",
-      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
+      "duration_ms": 249626,
+      "name": "Hanging Around",
+      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
     },
     {
       "added_at": null,
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantomime",
-        "url": "https://open.spotify.com/album/3FC7LwzvrDakmJqkGLlXbR"
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
       },
       "artists": [
         {
@@ -728,9 +712,25 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 249626,
-      "name": "Hanging Around",
-      "url": "https://open.spotify.com/track/6OBdX7cxnza92DAzFnFBQb"
+      "duration_ms": 242640,
+      "name": "From The Pinnacle To The Pit",
+      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2 Big To Rig (Original Motion Picture Soundtrack / Live)",
+        "url": "https://open.spotify.com/album/421FQJqvQRTfRkTpHSLljx"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 445376,
+      "name": "Majesty - Live from Mexico City",
+      "url": "https://open.spotify.com/track/5CUNOiEwQHsihmfC9Vq37P"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Phantom Of The Opera",
-        "url": "https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 443386,
-      "name": "Phantom Of The Opera",
-      "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Opus Eponymous",
         "url": "https://open.spotify.com/album/7xusHmkJUWt1XqPrM3pC9U"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 236040,
       "name": "Stand by Him",
       "url": "https://open.spotify.com/track/7w9T4qsofdkPFL1iyUrwNL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Phantom Of The Opera",
+        "url": "https://open.spotify.com/album/3LZ9bieXF4luLjfeIE9zqb"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 443386,
+      "name": "Phantom Of The Opera",
+      "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
     },
     {
       "added_at": null,

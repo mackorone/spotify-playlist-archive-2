@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 
 > Stompers, floaters and floorshakers \- these are the tracks that defined the Northern Soul movement.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,101 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,111 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 20 | [There's A Ghost In My House](https://open.spotify.com/track/4T20N2FPwrROVhJBb9n7rD) | [R\. Dean Taylor](https://open.spotify.com/artist/4Yg38CnYMoN09sMLf6KDdW) | [The Essential Collection](https://open.spotify.com/album/0tYlV4snWLH4rWQkX1p8nq) | 2:13 |
 | 21 | [Let's Wade In The Water](https://open.spotify.com/track/0l2CjLs5IuME1bZeRfNSrm) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Chess Northern Soul](https://open.spotify.com/album/2DmdMq9Kk6dUAbW9lOSv5C) | 3:34 |
 | 22 | [I'm on My Way](https://open.spotify.com/track/7sw0dqaBBobrSiQY5fUZQb) | [Dean Parrish](https://open.spotify.com/artist/3Ivzb7awkvcpc5k8oPBhpV) | [For Northern Soul Collectors: Volume 1](https://open.spotify.com/album/5LfuUAzs0DljxBH9unjGW9) | 2:39 |
-| 23 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/7hjNENnHW5O7Jxg8gkZliS) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:24 |
-| 24 | [I'm Gonna Run Away from You](https://open.spotify.com/track/2kmycCOxPja8DVDidFHWiz) | [Tami Lynn](https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl) | [Love Is Here And Now You're Gone](https://open.spotify.com/album/7mu0yEYB5E075aHWl2f5Hy) | 2:48 |
+| 23 | [I'm Gonna Run Away from You](https://open.spotify.com/track/2kmycCOxPja8DVDidFHWiz) | [Tami Lynn](https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl) | [Love Is Here And Now You're Gone](https://open.spotify.com/album/7mu0yEYB5E075aHWl2f5Hy) | 2:48 |
+| 24 | [Do I Love You \(Indeed I Do\)](https://open.spotify.com/track/7hjNENnHW5O7Jxg8gkZliS) | [Frank Wilson](https://open.spotify.com/artist/7Emrl5SyjpneJuRdHqBKRN) | [Wigan Casino 40th Anniversary Album](https://open.spotify.com/album/2sPZKGxvg2RZF4d2ioEYjz) | 2:24 |
 | 25 | [Out on the Floor](https://open.spotify.com/track/4HYpG1m9d5LVBHJZJ6NWMc) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [The in Crowd](https://open.spotify.com/album/1WyzsWPpOkkH07F7Rvx5GI) | 2:58 |
 | 26 | [This Love Starved Heart Of Mine \(It's Killing Me\) \- 1994 Love Starved Heart Version \(Mono\)](https://open.spotify.com/track/2dQrPamTqMPkYAGRQO76dX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Lost & Found: Love Starved Heart \- Expanded Edition](https://open.spotify.com/album/1aGm5Z9HtjM0v0ldtDJVVB) | 2:40 |
 | 27 | [Open the Door to Your Heart](https://open.spotify.com/track/0rbyxKKubocBP2LWlwL3L8) | [Darrell Banks](https://open.spotify.com/artist/5vWhw0XzIKRr5YUsYB2w3m) | [Darrell Banks Is Here!](https://open.spotify.com/album/4BYH98Ws2vOWyJ1G3E15DI) | 2:37 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 31 | [Love On a Mountaintop](https://open.spotify.com/track/6zEdkGQCg57M1XigHl0Alu) | [Robert Knight](https://open.spotify.com/artist/0X79jVQeTlVeDM881ZhrU1) | [Everlasting Love \(Expanded Edition\)](https://open.spotify.com/album/76gTPZDkrOTvu6UyT0xSYp) | 2:28 |
 | 32 | [Ordinary Joe](https://open.spotify.com/track/6AkGkimvrVzVe8Btgy0FRL) | [Terry Callier](https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs) | [Occasional Rain](https://open.spotify.com/album/1dgEMGLSJTJgJRQX0kFxb9) | 4:13 |
 | 33 | [I Got A Feeling \- Single Version](https://open.spotify.com/track/1w6gJH9upDjPnrT4dtvITo) | [Barbara Randolph](https://open.spotify.com/artist/1JloDwcRC1jrV3NWiZjMXM) | [Big Hits & Hard To Find Classics](https://open.spotify.com/album/0I4XWJ2ovnMdzqH61zioBD) | 3:01 |
-| 34 | [Right Track \- Single Version](https://open.spotify.com/track/0B9KUe1doo2XUq4GSif9kl) | [Billy Butler](https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:25 |
-| 35 | [You're Gonna Make Me Love You](https://open.spotify.com/track/6BB7Ubl0MlFmvMcJu7dNl0) | [Sandi Sheldon](https://open.spotify.com/artist/5h7BKJSdnYnC7ciVgs3Mp0) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:55 |
+| 34 | [You're Gonna Make Me Love You](https://open.spotify.com/track/6BB7Ubl0MlFmvMcJu7dNl0) | [Sandi Sheldon](https://open.spotify.com/artist/5h7BKJSdnYnC7ciVgs3Mp0) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:55 |
+| 35 | [Right Track \- Single Version](https://open.spotify.com/track/0B9KUe1doo2XUq4GSif9kl) | [Billy Butler](https://open.spotify.com/artist/1nWzeAq1znj206rT3xWdwt) | [Right Track \- Best Of Okeh Northern Soul](https://open.spotify.com/album/0Wa12OOX2DXFmGAU4M3Wql) | 2:25 |
 | 36 | [Time](https://open.spotify.com/track/6uOEOFItvADPCgiAKGPr4s) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 2:54 |
 | 37 | [Love, Love, Love](https://open.spotify.com/track/5WMhpLRaMoH863aVSowcPG) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 3:02 |
 | 38 | [Get Ready](https://open.spotify.com/track/2Kxh6HuGxouqloIspfjGP1) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella](https://open.spotify.com/album/1gIOAaCU8xAxXqxpVBrvK7) | 2:34 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB4Jn6piqKS.md) - [plain]
 | 97 | [Afternoon of the Rhino](https://open.spotify.com/track/4rRPk5XhbwQBZANcPsRTiW) | [The Mike Post Coalition](https://open.spotify.com/artist/3002PZIz68M48UN0m1SWyR) | [Northern Soul: The Collection](https://open.spotify.com/album/3uCwV0WZeLe6ElssasAInn) | 2:19 |
 | 98 | [This Heart of Mine](https://open.spotify.com/track/1RGWRD9vqwgu7APmedrpJs) | [The Artistics](https://open.spotify.com/artist/2iy394hZHUSLDMIxAnrz8x) | [Northern Soul: Keep the Faith!](https://open.spotify.com/album/4syXcIzY2okMdzgktYYVkJ) | 2:29 |
 | 99 | [That's Loving You](https://open.spotify.com/track/29VOAxTNBfotCtsQKTufEz) | [Percy Wiggins](https://open.spotify.com/artist/3OsBOLBZNtkXBVZqiV02mC) | [Uptown, Down South](https://open.spotify.com/album/5lYrlYsHIAMBOs7Q10e1bu) | 2:15 |
-| 100 | [Number One in Your Heart](https://open.spotify.com/track/7k47FUBMP4HOiREdIfSC0X) | [Herbie Goins & The Night\-Timers](https://open.spotify.com/artist/0XWqijhdSQS02cmqiRcehT) | [Talcum Soul 5](https://open.spotify.com/album/1X20pmXcHDJxSxCFETmpdB) | 2:44 |
+| 100 | [Girls Are Out to Get You](https://open.spotify.com/track/0JpUdYW1hKU1fGqjy0xvHY) | [The Andantes](https://open.spotify.com/artist/1JYHTYpWbYyOgYK3eAJgqK) | [Northern Soul Sensations](https://open.spotify.com/album/1LM4xOS5sNcoykJvQ7zXNu) | 3:23 |
 
 Snapshot ID: `AAAAAP+vZYbpvkFkJL2VPzCibxEoPjAl`

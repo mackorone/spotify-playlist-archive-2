@@ -1,6 +1,6 @@
 {
   "description": "Country tracks to pump up your gaming.",
-  "num_followers": 97400,
+  "num_followers": 97402,
   "original_name": "Country Gaming",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,18 @@
     {
       "added_at": "2026-05-25 23:51:53",
       "album": {
-        "name": "Where We Go",
-        "url": "https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE"
+        "name": "Cowboy Like Me",
+        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 196188,
-      "name": "Where We Go",
-      "url": "https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm"
+      "duration_ms": 156200,
+      "name": "Me and My Kind",
+      "url": "https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z"
     },
     {
       "added_at": "2026-05-25 23:51:53",
@@ -599,18 +595,22 @@
     {
       "added_at": "2026-05-25 23:51:53",
       "album": {
-        "name": "Cowboy Like Me",
-        "url": "https://open.spotify.com/album/0JKpAxkMB9RxA4EqqhLhLj"
+        "name": "Where We Go",
+        "url": "https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
         }
       ],
-      "duration_ms": 156200,
-      "name": "Me and My Kind",
-      "url": "https://open.spotify.com/track/4rW9EUFaMSNVY8JhbqrB6z"
+      "duration_ms": 196188,
+      "name": "Where We Go",
+      "url": "https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm"
     },
     {
       "added_at": "2026-05-25 23:51:53",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-05-25 23:51:53",
       "album": {
-        "name": "Runnin' On E",
-        "url": "https://open.spotify.com/album/3VGbvxcnoPaVGXp9WKjCVS"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Flores",
-          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
-        }
-      ],
-      "duration_ms": 147169,
-      "name": "Runnin' On E",
-      "url": "https://open.spotify.com/track/7m1mj6F9bUtxKJTKf8HpXh"
-    },
-    {
-      "added_at": "2026-05-25 23:51:53",
-      "album": {
         "name": "Boots (feat. Fetty Wap)",
         "url": "https://open.spotify.com/album/7pOYuMCG2jxOQ9nmLkODNV"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 159071,
       "name": "Boots (feat. Fetty Wap)",
       "url": "https://open.spotify.com/track/6lD7t1tSSCcI1DqNCn2yAW"
+    },
+    {
+      "added_at": "2026-05-25 23:51:53",
+      "album": {
+        "name": "Runnin' On E",
+        "url": "https://open.spotify.com/album/3VGbvxcnoPaVGXp9WKjCVS"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "duration_ms": 147169,
+      "name": "Runnin' On E",
+      "url": "https://open.spotify.com/track/7m1mj6F9bUtxKJTKf8HpXh"
     },
     {
       "added_at": "2026-05-25 23:51:53",

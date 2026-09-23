@@ -4,7 +4,7 @@
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-110 songs - 5 hr 48 min
+111 songs - 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Death By Disco](https://open.spotify.com/track/36aABTmgem7FZCa030y9Ck) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:23 | 2022-09-24 | 2022-10-13 |
 | [Devil on My Shoulder \(feat\. Jean Ken Johnny\)](https://open.spotify.com/track/7rTyQP1gwGW15NTUawp3WI) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE) | [The Early Years \- Revisited](https://open.spotify.com/album/7Jss3QVea2jKy9X7FgsU7I) | 3:03 | 2023-12-15 | 2024-10-03 |
 | [Do Your Worst](https://open.spotify.com/track/4PX9fC44anDaRqye46XyX3) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:33 | 2026-02-11 | 2026-08-28 |
-| [Doomsday on the Radio](https://open.spotify.com/track/4RdajoSN5zFTyFkQx3rSyc) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:50 | 2026-09-05 |  |
+| [Doomsday on the Radio](https://open.spotify.com/track/4RdajoSN5zFTyFkQx3rSyc) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:50 | 2026-09-05 | 2026-09-23 |
 | [Doomsday on the Radio](https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Doomsday on the Radio](https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8) | 2:50 | 2024-09-06 | 2026-03-20 |
 | [Down Without a Fight](https://open.spotify.com/track/0oXKsquvboVD6qFut5U9YU) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Bonus Brothers \(Japan Only Bonus Tracks\)](https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs) | 3:36 | 2022-09-16 | 2024-08-30 |
 | [Evil Anonymous](https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 2:56 | 2023-12-14 | 2026-08-28 |
@@ -43,7 +43,7 @@
 | [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 | 2022-09-16 |  |
 | [Happy Endings at the Movies](https://open.spotify.com/track/6MGfWN6hKL4zFFb2Dxaym1) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Happy Endings at the Movies](https://open.spotify.com/album/1FJYkfVIxJ9zNAL9Fbz9LO) | 2:55 | 2026-07-17 | 2026-08-13 |
 | [Happy Endings at the Movies](https://open.spotify.com/track/6clbsmaqUNDrpFn6N7udKn) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Happy Endings at the Movies](https://open.spotify.com/album/7HvWN7RtKQSB3FgcIV8kwZ) | 2:55 | 2026-08-13 |  |
-| [Headrush](https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:43 | 2022-09-16 | 2026-09-03 |
+| [Headrush](https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:43 | 2022-09-16 |  |
 | [Hell Yeah!](https://open.spotify.com/track/28q2v77HT5TrNO4Spm4AYk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:37 | 2022-09-16 |  |
 | [Hello Tomorrow](https://open.spotify.com/track/1lGPTDBGbDKJnpxEg9GMsi) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg) | 4:04 | 2022-09-16 | 2023-06-23 |
 | [Hello Tomorrow](https://open.spotify.com/track/6QOJ4SBinwUPns1dj4ylio) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 4:04 | 2023-06-22 |  |
@@ -93,7 +93,8 @@
 | [Russian Roulette Is for Lovers?](https://open.spotify.com/track/2c1FRsX6xUDalTZ5duta8v) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III](https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx) | 3:11 | 2022-09-16 | 2023-12-14 |
 | [Russian Roulette Is for Lovers?](https://open.spotify.com/track/6eXTQ6yAWOpvgBkOcadUxv) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:11 | 2023-12-13 | 2023-12-16 |
 | [Save Your Breath](https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:10 | 2023-09-15 |  |
-| [Sink Like a Stone](https://open.spotify.com/track/4w72ND8UIg5fHkm9vHxRTE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Sink Like a Stone](https://open.spotify.com/album/3aYMLtjPL8YWhD2acG4VHc) | 3:07 | 2024-10-11 |  |
+| [Sink Like a Stone](https://open.spotify.com/track/22XYVlG53z9Ezj74YLghS2) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 3:07 | 2026-09-23 |  |
+| [Sink Like a Stone](https://open.spotify.com/track/4w72ND8UIg5fHkm9vHxRTE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Sink Like a Stone](https://open.spotify.com/album/3aYMLtjPL8YWhD2acG4VHc) | 3:07 | 2024-10-11 | 2026-09-23 |
 | [Sirens](https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:26 | 2022-09-16 |  |
 | [Smoke Signals from My Couch](https://open.spotify.com/track/1dP8TNNzaK2CxQbCIZaEwD) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Smoke Signals from My Couch](https://open.spotify.com/album/2TEGE4JfaDEY68YVBxk8dY) | 3:10 | 2026-04-26 | 2026-09-19 |
 | [Smoke Signals from My Couch](https://open.spotify.com/track/6UJnGHx1JGBdlmAIxcQrfz) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 3:10 | 2026-09-19 |  |

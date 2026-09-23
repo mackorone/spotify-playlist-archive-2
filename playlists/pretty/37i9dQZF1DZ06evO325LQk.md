@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,482 likes - 43 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,486 likes - 43 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO325LQk.md) - [plain]
 | 42 | [Why Lies \(feat\. BC Kingdom and LIZ\)](https://open.spotify.com/track/3Jo0w1uct8LO8vY7z21hLi) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 4:19 |
 | 43 | [Cold Water](https://open.spotify.com/track/1rgpIW9CAWil4xc249VM7l) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 3:41 |
 
-Snapshot ID: `aq8iAAAAAADXERre0UsRHYDnIocjw5eM`
+Snapshot ID: `arBzgAAAAACw0cVetnUlv7arQ4beB0VX`

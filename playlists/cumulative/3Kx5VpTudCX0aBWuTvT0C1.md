@@ -4,7 +4,7 @@
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-203 songs - 11 hr 50 min
+206 songs - 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [By Your Bed](https://open.spotify.com/track/4GquSoDNuCpvpGrjpBFCSs) | [Arn\-Identified Flying Objects and Alien Friends](https://open.spotify.com/artist/4qw8JsPgdrMpDFeTwaaCCD) | [No Sweets for E.](https://open.spotify.com/album/6nLsrLoaBkpTo4ClRFq6iO) | 4:00 | 2025-11-09 |  |
 | [Change](https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Change](https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj) | 2:48 | 2026-06-29 |  |
 | [Charlottetown](https://open.spotify.com/track/3SCi5byZCBZ69icO68dWna) | [Hickory](https://open.spotify.com/artist/16K67XvCafdi0d8GTvXbwg) | [Kickin' It Down the Road](https://open.spotify.com/album/1nurE6IMVjUP1Y1kx2Qvs1) | 2:55 | 2025-11-25 | 2026-06-14 |
+| [Cherish the Day](https://open.spotify.com/track/63xUpIAXVJVwp9dnvL1Z4j) | [Fret Salad](https://open.spotify.com/artist/62loXA4WFS6NRXk6LwU0F7) | [Cherish the Day](https://open.spotify.com/album/4zukdejN15gPm86yt7PTCg) | 4:27 | 2026-09-22 |  |
 | [Cigarette](https://open.spotify.com/track/56tdisH0RpjtEIxdTkCmny) | [sullivan grace band](https://open.spotify.com/artist/3ksrh2WkrKJmEeerKl2bpd) | [Cigarette](https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt) | 2:23 | 2025-11-06 | 2025-12-09 |
 | [Circuiti e carne](https://open.spotify.com/track/2koWXf42GzdGzto78RLYjP) | [Gin Ozz](https://open.spotify.com/artist/6Mt0M4SfhEqzg7Jkxoee54) | [Circuiti e carne](https://open.spotify.com/album/7gdakhmHT7wLc9e2eYakPi) | 2:58 | 2026-08-24 |  |
 | [Cold](https://open.spotify.com/track/6mZP2DP0b0iI2HYrPduDaE) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [Cold](https://open.spotify.com/album/0kK3HC6RY9nFjnWeQtiy2k) | 2:53 | 2025-11-17 | 2026-03-15 |
@@ -95,6 +96,7 @@
 | [I\-95](https://open.spotify.com/track/4Sh3dTSxURmD84A9tavTWc) | [Royal Fools](https://open.spotify.com/artist/4OQMfxWWXrkJJlIuUfkrC8) | [PROM](https://open.spotify.com/album/1fWnNXEHS7MeHzh5aoG2pg) | 3:53 | 2026-06-21 |  |
 | [If I Die](https://open.spotify.com/track/6p1154wPVVepKN9XxLRVJQ) | [Nayla Salzmann](https://open.spotify.com/artist/41J6ppdYoUtSogli4x9Jxo) | [home ANYMORE](https://open.spotify.com/album/17LlS0edP2jyVRe1D73Hjs) | 3:42 | 2026-05-31 |  |
 | [If I Was A Ghost](https://open.spotify.com/track/5YfgZXyqNf9vOAI9iNRNFj) | [Dar1en](https://open.spotify.com/artist/4YQi46tcPcgpcABa2vVF6n) | [If I Was A Ghost](https://open.spotify.com/album/0PkjL6ESR2Fav9OToP3UVd) | 3:08 | 2025-11-13 | 2026-03-15 |
+| [Ill Prepared](https://open.spotify.com/track/0jSvYQyCBmtVcXb8uSUGvm) | [Aquarius Blue](https://open.spotify.com/artist/1wDJPxelLABSCLlS39l5Y0) | [Black & Blue 4u](https://open.spotify.com/album/6kEDZDoPcsW1oAL5sK5UzT) | 3:54 | 2026-09-22 |  |
 | [INSTINTOS](https://open.spotify.com/track/2dz1D6WQn8nZUVCxVuftas) | [REGIO](https://open.spotify.com/artist/0s0flUIzQsZF0HKCrqX2xL) | [INSTINTOS](https://open.spotify.com/album/5qA7tHnprPBLmki6WXQKk9) | 4:22 | 2026-07-22 |  |
 | [Into the Fire](https://open.spotify.com/track/2pfZbypE18sp9V0D4ZSYOQ) | [Randy Resnick](https://open.spotify.com/artist/76Mc94TXj6u7ruadFVyJXq) | [To Love](https://open.spotify.com/album/75qeEXGYWh1F6pqolkQ7wt) | 4:19 | 2026-05-30 |  |
 | [It Is Time](https://open.spotify.com/track/1GoRkIfs0IFKnllVoMzRJm) | [Maurice Hirschhaut](https://open.spotify.com/artist/1o8IEDCXLoJxrzVjR655un) | [It Is Time](https://open.spotify.com/album/5Pg5ViuWgWOILr8u3fjD5T) | 2:55 | 2025-11-15 | 2026-03-15 |
@@ -191,6 +193,7 @@
 | [What Should I Name This](https://open.spotify.com/track/2TgLzxlqxUIwWaB48gk2Gz) | [Lil Cam 5 1](https://open.spotify.com/artist/1IMt4WYpEKfzXRHev8wlnb) | [What Should I Name This](https://open.spotify.com/album/5UCy77QScrnxdDPHdWUdF1) | 2:43 | 2026-09-09 |  |
 | [When The Roots Don't Hold \- 2026 Remaster](https://open.spotify.com/track/0WutAvKPCuTDZ8us6mstGA) | [Dead Poet Warrior Zone](https://open.spotify.com/artist/4SkvaDIyFyeGYsMUcwte2T) | [When The Roots Don't Hold \(2026 Remaster\)](https://open.spotify.com/album/2SbHvfSxTxkOY3yzOGCH8g) | 3:36 | 2026-06-01 |  |
 | [White Roses](https://open.spotify.com/track/0dRwGLzgtvpZvS5NncfRJ8) | [Javier Sánchez](https://open.spotify.com/artist/012ou1HhOyZ6iFWL7FYsyZ) | [White Roses](https://open.spotify.com/album/4vPVInfF4dXmKVKFBR30XY) | 3:10 | 2025-11-10 | 2026-03-15 |
+| [Who whatever](https://open.spotify.com/track/4cA8Ezw2mxVgYI4hi0ml0G) | [maryann connolly](https://open.spotify.com/artist/1Kfx404oSvrK7zHM8m68Tq) | [Who whatever](https://open.spotify.com/album/0PdZuDVoUbsZ6Z126mvdnp) | 3:09 | 2026-09-22 |  |
 | [Why did I let you go](https://open.spotify.com/track/3B7xM5DqfNlIOym2uGUqUD) | [Slackers](https://open.spotify.com/artist/5NgRFqeU6NagIzRChIVNbD), [Chelsea](https://open.spotify.com/artist/6dwC8rZSP2lrdEprBcZfdH) | [Why did I let you go](https://open.spotify.com/album/4ATipqGp3uvMv6TFJzQDYd) | 3:49 | 2025-11-19 | 2026-03-15 |
 | [Wicked Wicked Ways](https://open.spotify.com/track/4kBbTTOEJYymlnLIFMAAxf) | [DELREI](https://open.spotify.com/artist/77Xku7f5rq7hfoooTiv5jW), [Collin Hegna](https://open.spotify.com/artist/0cZ4bVVf2bWEON39U2kPab), [Federale](https://open.spotify.com/artist/6KdkzNXhRBjPQxCSYgRxpH) | [Wicked Wicked Ways](https://open.spotify.com/album/1te5ThMkLbxy4Vht0rSOlm) | 3:44 | 2026-05-27 |  |
 | [wild](https://open.spotify.com/track/0qfls25AHT70kdvoKc4zyq) | [Courtney Nord](https://open.spotify.com/artist/6oVgQ31kF4K4MmvTW37OtX) | [wild](https://open.spotify.com/album/1q9YI2XfYT3q2cwmYBgf32) | 3:43 | 2026-01-04 |  |

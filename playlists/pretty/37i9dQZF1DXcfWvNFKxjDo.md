@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Adriatique
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,234 likes - 71 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,241 likes - 71 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

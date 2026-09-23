@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Tianna
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,733 likes - 82 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,752 likes - 82 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

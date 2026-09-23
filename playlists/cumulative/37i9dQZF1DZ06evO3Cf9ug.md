@@ -4,7 +4,7 @@
 
 > This is Tems\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 2 min
+55 songs - 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 | 2025-08-13 |  |
 | [Not An Angel](https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Not An Angel](https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k) | 3:05 | 2025-08-13 |  |
 | [Ordinary People \(feat\. Tems\) \- Man\-Man Remix](https://open.spotify.com/track/7Jd170HODQ9BFWsFGXj8Wr) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Eugene "Man\-Man" Roberts](https://open.spotify.com/artist/7e7FXQAhssKKJ5Fxx7vfpM) | [Get Lifted \(20th Anniversary\)](https://open.spotify.com/album/7evc0CBi3ASwhBxAHBPUaZ) | 4:49 | 2025-08-13 | 2026-06-30 |
+| [Peace](https://open.spotify.com/track/45f0EfCC7vMYIXnoQtjP6K) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Mirage](https://open.spotify.com/album/4tzbxDfUjflwTUB58jPlqI) | 3:14 | 2026-09-23 |  |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2025-10-26 |  |
 | [Ready](https://open.spotify.com/track/0VDmMjl5LuQUaMGdSCesnt) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 3:45 | 2025-11-04 | 2025-11-05 |
 | [Replay](https://open.spotify.com/track/2dFqK2ZkYB9Xc47gr3xXWl) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [If Orange Was A Place](https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv) | 2:59 | 2025-08-13 |  |

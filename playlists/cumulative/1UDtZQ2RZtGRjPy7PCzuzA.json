@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Kaleidoscope Dream",
+        "url": "https://open.spotify.com/album/4c37f9SDnzZ4Sj9ZLF35r0"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/1GYjMhOZ4sLd3xGvelcsi3"
+    },
+    {
+      "album": {
         "name": "Trick",
         "url": "https://open.spotify.com/album/2Vg8YkTkuG4Y9MD4hB4KNN"
       },
@@ -2774,6 +2792,24 @@
       "duration_ms": 225986,
       "name": "As Long As You're Mine - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/3IvflXoxqRVwNvpKhjIOv6"
+    },
+    {
+      "album": {
+        "name": "GO:OD AM",
+        "url": "https://open.spotify.com/album/2Tyx5dLhHYkx6zeAdVaTzN"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292466,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
     },
     {
       "album": {
@@ -12999,6 +13035,24 @@
     },
     {
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203680,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/4qE2iDO78w5uHs03R8V7FQ"
+    },
+    {
+      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -14148,6 +14202,24 @@
       "duration_ms": 255007,
       "name": "Hard to Sleep",
       "url": "https://open.spotify.com/track/3ofi5ZcJjLuRgS3FX4U6yG"
+    },
+    {
+      "album": {
+        "name": "War & Leisure",
+        "url": "https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193496,
+      "name": "Harem",
+      "url": "https://open.spotify.com/track/7JU0nyGvKLawxIQ1LYhJgy"
     },
     {
       "album": {
@@ -23414,7 +23486,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 174080,
       "name": "No Furniture",
       "url": "https://open.spotify.com/track/0OglDBxXuTvlVBp7cYest8"
@@ -28979,6 +29051,32 @@
     },
     {
       "album": {
+        "name": "Memories of Prague: Dvo\u0159\u00e1k: Serenade For Strings / Smetana: Die Moldau",
+        "url": "https://open.spotify.com/album/3RY7ozfR66YGvOhZw8gRuS"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Richard Hein",
+          "url": "https://open.spotify.com/artist/6i4qpnjBXIoIhnU6YUhFSE"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 407544,
+      "name": "Serenade for Strings in E Major II. Waltz Op. 22",
+      "url": "https://open.spotify.com/track/1ZauqNrrbC4pYMwMtA2S27"
+    },
+    {
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/7GP4MgXqq3JNMmY5yslvky"
       },
@@ -32226,6 +32324,28 @@
       "duration_ms": 265427,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
+    },
+    {
+      "album": {
+        "name": "Sunbathe",
+        "url": "https://open.spotify.com/album/51iFLZOIL5XRhy2MLe7bAA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Sunbathe",
+      "url": "https://open.spotify.com/track/6tPX67OuLWJc8XOH4dkDNE"
     },
     {
       "album": {
@@ -37320,6 +37440,24 @@
       "duration_ms": 173200,
       "name": "Vivaldi: Violin Concerto in A Minor, RV 356: III. Presto",
       "url": "https://open.spotify.com/track/4cWWbaeN2qlLO4VriZfIbm"
+    },
+    {
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Vixen",
+      "url": "https://open.spotify.com/track/3HBZIY3FVzXu6YjhExNqWe"
     },
     {
       "album": {

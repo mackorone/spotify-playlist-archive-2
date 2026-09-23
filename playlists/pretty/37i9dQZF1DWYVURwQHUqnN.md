@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Timal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,422 likes - 59 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,380 likes - 59 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

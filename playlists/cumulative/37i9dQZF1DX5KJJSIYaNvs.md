@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Shreya Jain
 
-738 songs - 1 day 19 hr 48 min
+739 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Aaye Miyan Khat\-Pat \(From "Lust Stories 3"\)](https://open.spotify.com/track/39bbIastYmH17y5FGfjB1d) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Aaye Miyan Khat\-Pat \(From "Lust Stories 3"\)](https://open.spotify.com/album/4HlXMQ8upHOYvtVUoJv7sh) | 2:47 | 2026-09-10 |  |
 | [Ab Na Jaunga](https://open.spotify.com/track/65mdUx7JkoFHPdfJGJbR2i) | [Raman Romana](https://open.spotify.com/artist/7mJ4nj92W37kxFUmTZXpbv) | [Ab Na Jaunga](https://open.spotify.com/album/2ggeROqHV0dc7Ft7cqNtW9) | 4:55 | 2022-04-06 | 2022-05-05 |
 | [Achchi Lagti Ho](https://open.spotify.com/track/122FCMf052psls9894JYlf) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7) | [Kuch Naa Kaho](https://open.spotify.com/album/70HCAIyG3xLmRbT9nCUAnD) | 6:18 | 2025-03-05 | 2025-04-03 |
-| [Ada](https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Ada](https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2) | 3:50 | 2026-06-17 |  |
+| [Ada](https://open.spotify.com/track/75BVVplEDQFqVwfaVld1T1) | [Twinkle Aggrwal](https://open.spotify.com/artist/6IFzEP3X3Iunldjoh3PnLG) | [Ada](https://open.spotify.com/album/13Agl9771G2LYaqd1mXne2) | 3:50 | 2026-06-17 | 2026-09-23 |
 | [Adatein](https://open.spotify.com/track/1vzy1cPfT9f4Op2z4Gmg3i) | [Zanai Bhosle](https://open.spotify.com/artist/1KXshKZ6e6JsZ6boHGgkXX), [Charan Preet](https://open.spotify.com/artist/3XpPxH0e3jodx0QyLbHVfD) | [Adatein](https://open.spotify.com/album/0s2Hnav57wS4qNzS0dIljY) | 3:17 | 2026-02-04 |  |
 | [Ae Watan Mere Watan \- Title Track \(Female Version\)](https://open.spotify.com/track/72brioeVMcRy8z3UxBFfaE) | [Akashdeep Sengupta](https://open.spotify.com/artist/1Taiu6ysv5t5sVhhMYYucf), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Darab Farooqui](https://open.spotify.com/artist/0iDELYfsojR5yJdJgNEgHe) | [Ae Watan Mere Watan](https://open.spotify.com/album/7fO8Ls2iR3PsQ34ni7h0mv) | 4:10 | 2024-03-11 | 2024-05-09 |
 | [Aeri Sakhi](https://open.spotify.com/track/5pIoYxBjHCaO0M0gl1KOmP) | [Anusha Mani](https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry), [Sangeet Haldipur](https://open.spotify.com/artist/79jChyQpm3UY9JD5btkNcK) | [Carmonies \- Thumri](https://open.spotify.com/album/7i88ySmPosn7ywzjo7bbGs) | 3:39 | 2023-08-03 | 2023-10-07 |
@@ -684,6 +684,7 @@
 | [Tu Kya Jaane \- Parineeti's Cover Version](https://open.spotify.com/track/4EqdxKyap3pnJg1gjdpEHg) | [Parineeti Chopra](https://open.spotify.com/artist/0NuA9c4Q9jNHICuqBnsjVR), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Tu Kya Jaane \- Parineeti's Cover Version](https://open.spotify.com/album/5nMEPWfBO1BUb6NzSL6baG) | 1:06 | 2024-05-13 | 2024-07-11 |
 | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/track/1V9MzOZA1PRhK0VCFMf8II) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Bianca Gomes](https://open.spotify.com/artist/1vM5cIvyQYTdXXXHl5IV6T) | [Tu Toh Gaya Re \(From "Bob Biswas"\)](https://open.spotify.com/album/3NlyYQJD6uH1SAGG2f8kpn) | 2:28 | 2021-12-10 | 2022-02-02 |
 | [Tu Yaheen Hai](https://open.spotify.com/track/0Xf1lj3RisQlWR2dqp22Zk) | [Shehnaaz Gill](https://open.spotify.com/artist/1opCEf85NTZSE7YkxLCvmV) | [Tu Yaheen Hai](https://open.spotify.com/album/3lvgntw7SY1ZlNDjPFhK7k) | 4:15 | 2021-12-10 | 2022-02-02 |
+| [Tu Zariya](https://open.spotify.com/track/4xXyjqTIxS9I0dFrkm98iR) | [NANAKI](https://open.spotify.com/artist/7idk1k4RU9eosAVgHv2ESb), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Tu Zariya](https://open.spotify.com/album/3mtpZgbSWufOHCqfquhr3C) | 4:39 | 2026-09-22 |  |
 | [Tum Bin](https://open.spotify.com/track/3H09ENpLjnUOM2qClQxhL9) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Tum Bin](https://open.spotify.com/album/0vTbCpkWhDd16QZWWaPYX0) | 5:55 | 2025-03-05 | 2025-04-03 |
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-22 | 2023-11-26 |
 | [Tum Jo Ho Yahaan](https://open.spotify.com/track/5Cef8JeRs1fvxp4cpiej7E) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Tum Jo Ho Yahaan](https://open.spotify.com/album/2Sc6yA2cVncUk3FIhnJ3b1) | 3:36 | 2025-06-26 | 2025-07-10 |

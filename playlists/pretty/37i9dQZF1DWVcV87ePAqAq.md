@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Ränta på ränta..\. 💸
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,244 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,216 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 38 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 |
 | 39 | [Assumptions](https://open.spotify.com/track/4NczzeHBQPPDO0B9AAmB8d) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [IV](https://open.spotify.com/album/53M9zXvxd0itS7VImk5i7R) | 3:40 |
 | 40 | [Stereo Love](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 |
-| 41 | [One \(Your Name\) \- Radio Edit](https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [One \(Your Name\)](https://open.spotify.com/album/1yKTmOivL7YInhF7fnxF0C) | 2:43 |
-| 42 | [Don't Be so Shy \- Filatov & Karas Remix](https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf) | [Imany](https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw), [Filatov & Karas](https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO) | [The Wrong Kind of War](https://open.spotify.com/album/12ViHXhXTAxPEDM1TYCxvF) | 3:11 |
+| 41 | [Don't Be so Shy \- Filatov & Karas Remix](https://open.spotify.com/track/4bNqSJ92afDvDZiYgpckVf) | [Imany](https://open.spotify.com/artist/74eY8wbrhhVD7pACbBHwHw), [Filatov & Karas](https://open.spotify.com/artist/5NW2uPFatEKjZQ5gpWD8HO) | [The Wrong Kind of War](https://open.spotify.com/album/12ViHXhXTAxPEDM1TYCxvF) | 3:11 |
+| 42 | [One \(Your Name\) \- Radio Edit](https://open.spotify.com/track/1qZMPmpD1jDcOA7gZ6TCde) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [One \(Your Name\)](https://open.spotify.com/album/1yKTmOivL7YInhF7fnxF0C) | 2:43 |
 | 43 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 |
 | 44 | [Raingurl](https://open.spotify.com/track/4XXfQ8fBHMIgcygY4hV6RC) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [EP2](https://open.spotify.com/album/6zB32HTy4cewV8V7TuHzKJ) | 3:57 |
 | 45 | [Show Me Love \- Radio Edit](https://open.spotify.com/track/0CzJlMusD7CyBa7H9VyxC6) | [Doctor Y](https://open.spotify.com/artist/5Tfn0mwTWAvYUacFDhBWXr) | [Show Me Love \(Radio Edit\)](https://open.spotify.com/album/0ZV2JwBqsURM7b17a6DIZl) | 3:38 |

@@ -1,6 +1,6 @@
 {
   "description": "\"Si ma\u00f1ana yo me muero, no se pongan a llorar, mejor me pasean con banda por mi pueblito natal\" Valentin Elizalde en portada. ",
-  "num_followers": 383474,
+  "num_followers": 383481,
   "original_name": "Inmortales de la M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "Boleros-Boleros-Bole",
-        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 131626,
-      "name": "Media Vuelta",
-      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 179211,
       "name": "Los Chismes",
       "url": "https://open.spotify.com/track/2PP65VcRvkiNZUq7Wd0yP8"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "Boleros-Boleros-Bole",
+        "url": "https://open.spotify.com/album/7m8PpfxncQ37a8m3xkI8sl"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 131626,
+      "name": "Media Vuelta",
+      "url": "https://open.spotify.com/track/2KGMcEzHuO83lqDTU0KORh"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -887,22 +887,6 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 200690,
       "name": "Prenda Del Alma",
       "url": "https://open.spotify.com/track/3L1zBcJiHEogFnS1iYgSU2"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -975,26 +975,6 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "La Absoluta Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        },
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 284013,
-      "name": "El Destino (with Juan Gabriel)",
-      "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 175891,
       "name": "Alma Enamorada",
       "url": "https://open.spotify.com/track/4vpaq405VfAjjam64HOxuw"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "La Absoluta Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/4Z9kcMbrFta5WTrxFq9Law"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        },
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 284013,
+      "name": "El Destino (with Juan Gabriel)",
+      "url": "https://open.spotify.com/track/2rBZGVYX3LEHEREi8HvZIg"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "20 \u00c9xitos Querido Amigo",
-        "url": "https://open.spotify.com/album/5eOZiK0XfTpIU3mXAA22rq"
-      },
-      "artists": [
-        {
-          "name": "Saul Viera El Gavilancillo",
-          "url": "https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Caja de Muerte",
-      "url": "https://open.spotify.com/track/3yNdtIO9fyip5mTx0OZc3X"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 213159,
       "name": "Nieves De Enero",
       "url": "https://open.spotify.com/track/15oVebJsvQd0O8rv22HwBe"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "20 \u00c9xitos Querido Amigo",
+        "url": "https://open.spotify.com/album/5eOZiK0XfTpIU3mXAA22rq"
+      },
+      "artists": [
+        {
+          "name": "Saul Viera El Gavilancillo",
+          "url": "https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Caja de Muerte",
+      "url": "https://open.spotify.com/track/3yNdtIO9fyip5mTx0OZc3X"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
-        "name": "20 \u00c9xitos Querido Amigo",
-        "url": "https://open.spotify.com/album/5eOZiK0XfTpIU3mXAA22rq"
-      },
-      "artists": [
-        {
-          "name": "Saul Viera El Gavilancillo",
-          "url": "https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Soy Piedra Que Con el Tiempo",
-      "url": "https://open.spotify.com/track/3nUiTKFjVnFuOFp3ho5dzd"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
         "name": "Ya Despu\u00e9s De Muerto",
         "url": "https://open.spotify.com/album/31OklCEo9716SuyztIgGLy"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 175101,
       "name": "Florita Del Alma",
       "url": "https://open.spotify.com/track/2HFV1Ag8fdvGqF28TVHtKp"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
+        "name": "20 \u00c9xitos Querido Amigo",
+        "url": "https://open.spotify.com/album/5eOZiK0XfTpIU3mXAA22rq"
+      },
+      "artists": [
+        {
+          "name": "Saul Viera El Gavilancillo",
+          "url": "https://open.spotify.com/artist/3tLdnHmnfkIdQq5cyFDl69"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Soy Piedra Que Con el Tiempo",
+      "url": "https://open.spotify.com/track/3nUiTKFjVnFuOFp3ho5dzd"
     },
     {
       "added_at": "2025-11-25 17:51:31",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-11-25 17:51:31",
       "album": {
+        "name": "No Eres Tu, Ahora Soy Yo",
+        "url": "https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+        }
+      ],
+      "duration_ms": 170396,
+      "name": "Te La Pasas feat. EP",
+      "url": "https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU"
+    },
+    {
+      "added_at": "2025-11-25 17:51:31",
+      "album": {
         "name": "Serie 33",
         "url": "https://open.spotify.com/album/3PIuNJyPBC9mq757BYaw9C"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 193240,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5"
-    },
-    {
-      "added_at": "2025-11-25 17:51:31",
-      "album": {
-        "name": "No Eres Tu, Ahora Soy Yo",
-        "url": "https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
-        }
-      ],
-      "duration_ms": 170396,
-      "name": "Te La Pasas feat. EP",
-      "url": "https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU"
     },
     {
       "added_at": "2025-11-25 17:51:31",

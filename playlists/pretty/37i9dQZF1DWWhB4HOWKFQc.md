@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Nabila Taqiyyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,519,737 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,519,774 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhB4HOWKFQc.md) - [plain]
 | 57 | [Mbak Billie](https://open.spotify.com/track/3lGPSS7Q9Npu81v4RZcvdp) | [6sentani](https://open.spotify.com/artist/6XWioGZWHFjIvuDZIc3oT1) | [Mbak Billie](https://open.spotify.com/album/0GMZI9zMpfryW7Sc3r7dGa) | 2:13 |
 | 58 | [Wonderwall \- Remastered](https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \[Remastered\]](https://open.spotify.com/album/1VW1MFNstaJuygaoTPkdCk) | 4:18 |
 | 59 | [SEMUA LAGU CINTA UNTUKMU SAJA](https://open.spotify.com/track/1BrTZQ0KscBhBblQAQO3Du) | [Calvilas](https://open.spotify.com/artist/0AwvxxxlxPwObczyyPiP1i) | [SEMUA LAGU CINTA UNTUKMU SAJA](https://open.spotify.com/album/65lCSVpAKhnJeOqQtKsWEZ) | 3:19 |
-| 60 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu \(Beda\)](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 |
+| 60 | [Jangan Paksa Rindu](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 |
 | 61 | [Bila](https://open.spotify.com/track/7sieBb2O8zwIQxsKT59YGZ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [ambiVert](https://open.spotify.com/album/4SVd1APxtjPLbghqMzqmBq) | 4:16 |
 | 62 | [less](https://open.spotify.com/track/1LmRAxdZUEM9xc2wNivy1y) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:13 |
 | 63 | [Masa ini, Nanti, dan Masa Indah Lainnya](https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [EUNOIA](https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB) | 4:35 |

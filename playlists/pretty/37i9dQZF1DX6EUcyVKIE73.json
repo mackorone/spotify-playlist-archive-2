@@ -1,6 +1,6 @@
 {
   "description": "Selections of North Indian classical music.",
-  "num_followers": 92362,
+  "num_followers": 92366,
   "original_name": "Hindustani Classical",
   "owner": {
     "name": "Spotify",
@@ -103,8 +103,8 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Hari Dhwani - Raga Lalit",
-        "url": "https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S"
+        "name": "Celebrating the Legend - Pt. Hari Prasad Chaurasia",
+        "url": "https://open.spotify.com/album/0xqt6Ag87RHcUuVQH6DbDt"
       },
       "artists": [
         {
@@ -112,17 +112,17 @@
           "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
         },
         {
-          "name": "Rakesh Chaurasia",
-          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
+          "name": "Pandit Anindo Chatterjee",
+          "url": "https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL"
         },
         {
-          "name": "Rupak Kulkarni",
-          "url": "https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff"
+          "name": "Roopak Kulkarni",
+          "url": "https://open.spotify.com/artist/3SfF1bsY2KPVpfnYisOzo0"
         }
       ],
-      "duration_ms": 595500,
-      "name": "Hari Dhwani - Raga Lalit - Alap (Sthai)",
-      "url": "https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp"
+      "duration_ms": 885826,
+      "name": "Raga Jhinjhoti - Raga Jhinjhoti - Matta Taal",
+      "url": "https://open.spotify.com/track/14qWVbLrLQFXML0qwc2tMY"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -195,8 +195,8 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Celebrating the Legend - Pt. Hari Prasad Chaurasia",
-        "url": "https://open.spotify.com/album/0xqt6Ag87RHcUuVQH6DbDt"
+        "name": "Hari Dhwani - Raga Lalit",
+        "url": "https://open.spotify.com/album/2x8LytN5vmjbuESvmBp27S"
       },
       "artists": [
         {
@@ -204,17 +204,17 @@
           "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
         },
         {
-          "name": "Pandit Anindo Chatterjee",
-          "url": "https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL"
+          "name": "Rakesh Chaurasia",
+          "url": "https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg"
         },
         {
-          "name": "Roopak Kulkarni",
-          "url": "https://open.spotify.com/artist/3SfF1bsY2KPVpfnYisOzo0"
+          "name": "Rupak Kulkarni",
+          "url": "https://open.spotify.com/artist/629Hq4ALLZV2JwkMX6C2Ff"
         }
       ],
-      "duration_ms": 885826,
-      "name": "Raga Jhinjhoti - Raga Jhinjhoti - Matta Taal",
-      "url": "https://open.spotify.com/track/14qWVbLrLQFXML0qwc2tMY"
+      "duration_ms": 595500,
+      "name": "Hari Dhwani - Raga Lalit - Alap (Sthai)",
+      "url": "https://open.spotify.com/track/2nEDjd2E33WtY89cBlcGXp"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -375,22 +375,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Chandrakaush Khamaj 1967",
-        "url": "https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7"
-      },
-      "artists": [
-        {
-          "name": "Nikhil Banerjee",
-          "url": "https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1"
-        }
-      ],
-      "duration_ms": 1224466,
-      "name": "Chandrakaush Alap",
-      "url": "https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Navyaa",
         "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 580000,
       "name": "Romantic Maru Bihag - Jaagu Main Sari Raina",
       "url": "https://open.spotify.com/track/1Kq8fBd6WKbr7BEDCLweND"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Chandrakaush Khamaj 1967",
+        "url": "https://open.spotify.com/album/4fY7XyZhcMPXyqXo5FOkh7"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Banerjee",
+          "url": "https://open.spotify.com/artist/7ieM2QOG3mf89WSTAfGvu1"
+        }
+      ],
+      "duration_ms": 1224466,
+      "name": "Chandrakaush Alap",
+      "url": "https://open.spotify.com/track/4hrp2BLqRV6XO2oOp5IVeY"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -439,6 +439,30 @@
       "duration_ms": 764526,
       "name": "Jadoo Bharey Torey Nain",
       "url": "https://open.spotify.com/track/5eCIqqupfqS0o6zzbIQbDo"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Jugalbandi II",
+        "url": "https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40"
+      },
+      "artists": [
+        {
+          "name": "Hariprasad Chaurasia",
+          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
+        },
+        {
+          "name": "Aashish Khan",
+          "url": "https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq"
+        },
+        {
+          "name": "Swapan Chaudhuri",
+          "url": "https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT"
+        }
+      ],
+      "duration_ms": 1309209,
+      "name": "Raag Mishra Shirvranjani Taal Deepchandi",
+      "url": "https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -487,30 +511,6 @@
       "duration_ms": 1637889,
       "name": "Raga Bhimpalasi - Live",
       "url": "https://open.spotify.com/track/2NAJP1wqoaxbSJLiv2X8tL"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
-        "name": "Jugalbandi II",
-        "url": "https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40"
-      },
-      "artists": [
-        {
-          "name": "Hariprasad Chaurasia",
-          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
-        },
-        {
-          "name": "Aashish Khan",
-          "url": "https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq"
-        },
-        {
-          "name": "Swapan Chaudhuri",
-          "url": "https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT"
-        }
-      ],
-      "duration_ms": 1309209,
-      "name": "Raag Mishra Shirvranjani Taal Deepchandi",
-      "url": "https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -567,30 +567,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Music of the Pastoral, Vol. 1",
-        "url": "https://open.spotify.com/album/4VGFKpb3uxTl71ZWw4QbBZ"
-      },
-      "artists": [
-        {
-          "name": "Ruchira Panda",
-          "url": "https://open.spotify.com/artist/2O3knTvssjiydio8UdUhCB"
-        },
-        {
-          "name": "Pandit Sanjay Mukherjee",
-          "url": "https://open.spotify.com/artist/4szBpuRsVWmMUyLtl8IKxn"
-        },
-        {
-          "name": "Anirban Chakrabarty",
-          "url": "https://open.spotify.com/artist/4Ysx44eu4Kxj0YZ9hUgId7"
-        }
-      ],
-      "duration_ms": 729660,
-      "name": "Raga Mishra Manjh Khamaj: Chhitak Junaiya (Pasar Ke Geet: Laoni Taal)",
-      "url": "https://open.spotify.com/track/3m4Ub5L17o2UFRgiSfN8n7"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Padma Talwalkar",
         "url": "https://open.spotify.com/album/1kVSQdnFN0LhpguKaUGJ6T"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 1633890,
       "name": "Dev Dev Sat Sang - Khayal Vilambit - Jhap Taal / Maanat Nahin - Raag Sawani - Khayal Drut - Teentaal",
       "url": "https://open.spotify.com/track/3SpPbiI3GoyIDBYxvnByPz"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Music of the Pastoral, Vol. 1",
+        "url": "https://open.spotify.com/album/4VGFKpb3uxTl71ZWw4QbBZ"
+      },
+      "artists": [
+        {
+          "name": "Ruchira Panda",
+          "url": "https://open.spotify.com/artist/2O3knTvssjiydio8UdUhCB"
+        },
+        {
+          "name": "Pandit Sanjay Mukherjee",
+          "url": "https://open.spotify.com/artist/4szBpuRsVWmMUyLtl8IKxn"
+        },
+        {
+          "name": "Anirban Chakrabarty",
+          "url": "https://open.spotify.com/artist/4Ysx44eu4Kxj0YZ9hUgId7"
+        }
+      ],
+      "duration_ms": 729660,
+      "name": "Raga Mishra Manjh Khamaj: Chhitak Junaiya (Pasar Ke Geet: Laoni Taal)",
+      "url": "https://open.spotify.com/track/3m4Ub5L17o2UFRgiSfN8n7"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Pure",
-        "url": "https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl"
-      },
-      "artists": [
-        {
-          "name": "Kaushiki Chakraborty",
-          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
-        }
-      ],
-      "duration_ms": 1045427,
-      "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
-      "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Reflections Around Noon",
         "url": "https://open.spotify.com/album/3bfkWGToZSFbFlGVmAJBjK"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 1140666,
       "name": "Dhun Mishra Kafi",
       "url": "https://open.spotify.com/track/1aOlzHtvRmpQaJqazySCPx"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Pure",
+        "url": "https://open.spotify.com/album/0xqFR4roHbYLOtB3rvMnOl"
+      },
+      "artists": [
+        {
+          "name": "Kaushiki Chakraborty",
+          "url": "https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI"
+        }
+      ],
+      "duration_ms": 1045427,
+      "name": "Thumri in Raga Misra Mand 'Morey Saiyan Bedardi' in Keherva (8 beats)",
+      "url": "https://open.spotify.com/track/7sPDjmoQ9GmERO4BQvpM8x"
     },
     {
       "added_at": "2026-07-29 09:24:36",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-07-29 09:24:36",
       "album": {
-        "name": "Navyaa",
-        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
-      },
-      "artists": [
-        {
-          "name": "Nirali Kartik",
-          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
-        }
-      ],
-      "duration_ms": 693955,
-      "name": "Meditative Gurjari Todi",
-      "url": "https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV"
-    },
-    {
-      "added_at": "2026-07-29 09:24:36",
-      "album": {
         "name": "Rag Shankara & Rag Mala in Jogia",
         "url": "https://open.spotify.com/album/01gMfN05ikXSKLsWZmi2FM"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 1910000,
       "name": "Rag Mala in Jogia",
       "url": "https://open.spotify.com/track/1N2VUjymXRYSZO66jlvKTu"
+    },
+    {
+      "added_at": "2026-07-29 09:24:36",
+      "album": {
+        "name": "Navyaa",
+        "url": "https://open.spotify.com/album/5M0jkj9MotirQVBzBxpK49"
+      },
+      "artists": [
+        {
+          "name": "Nirali Kartik",
+          "url": "https://open.spotify.com/artist/7IZS9jFXr3rC8mZ9Ly2Npc"
+        }
+      ],
+      "duration_ms": 693955,
+      "name": "Meditative Gurjari Todi",
+      "url": "https://open.spotify.com/track/1RVbuCSwWwp6PD1UlhopjV"
     },
     {
       "added_at": "2026-07-29 09:24:36",

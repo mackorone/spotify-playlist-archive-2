@@ -1,6 +1,6 @@
 {
   "description": "Aus der Schweiz f\u00fcr dich \u2013 musique suisse \u2013 musica svizzera \ud83c\udde8\ud83c\udded\nCover: Kings Elliot",
-  "num_followers": 37580,
+  "num_followers": 37578,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "The One That Got Away",
-        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
-      },
-      "artists": [
-        {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
-        }
-      ],
-      "duration_ms": 227613,
-      "name": "The One That Got Away",
-      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "WHERE\u2019S THE FUN?",
         "url": "https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 203904,
       "name": "joli d\u00e9sastre",
       "url": "https://open.spotify.com/track/4SPxL3UxiuvuCQfbTCxdec"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
+        "name": "The One That Got Away",
+        "url": "https://open.spotify.com/album/78ENBQoIomlPqXkes3xQde"
+      },
+      "artists": [
+        {
+          "name": "LEILA",
+          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+        }
+      ],
+      "duration_ms": 227613,
+      "name": "The One That Got Away",
+      "url": "https://open.spotify.com/track/6QmCR7y85C3MPXFr3ne0Ao"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Hurricane",
-        "url": "https://open.spotify.com/album/63obpfI1ml9lYY0MxFyvXI"
-      },
-      "artists": [
-        {
-          "name": "SOLEROY",
-          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
-        }
-      ],
-      "duration_ms": 181002,
-      "name": "Hurricane",
-      "url": "https://open.spotify.com/track/32J5dIL3ougXNls1bpxm0Y"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "Backyard By The River",
         "url": "https://open.spotify.com/album/7kdKVcRUFsPY4AagcozeXt"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 169500,
       "name": "River",
       "url": "https://open.spotify.com/track/4rhnAszHuZWU0237E7cdlI"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
+        "name": "Hurricane",
+        "url": "https://open.spotify.com/album/63obpfI1ml9lYY0MxFyvXI"
+      },
+      "artists": [
+        {
+          "name": "SOLEROY",
+          "url": "https://open.spotify.com/artist/31VejJFhcFbkEdKEag93nM"
+        }
+      ],
+      "duration_ms": 181002,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/32J5dIL3ougXNls1bpxm0Y"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Love Me Better",
-        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 133200,
-      "name": "Love Me Better",
-      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "Walk Alone",
         "url": "https://open.spotify.com/album/6jI3GP0ex6TY4rCBMQorsz"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 169182,
       "name": "Walk Alone",
       "url": "https://open.spotify.com/track/0Iu2Z0khk2D6A1j9Ktffov"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
+        "name": "Love Me Better",
+        "url": "https://open.spotify.com/album/4t0x0qFxsOdcZAhMvZ9G9H"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 133200,
+      "name": "Love Me Better",
+      "url": "https://open.spotify.com/track/3VKKs2Usdi4cVIEE1qHzF2"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
+      },
+      "artists": [
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "duration_ms": 199125,
+      "name": "Let Myself Go",
+      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
         "name": "Blindsided",
         "url": "https://open.spotify.com/album/6Jh1fi9Du4vuxsjshDz1bb"
       },
@@ -827,22 +843,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Room Service",
-        "url": "https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ"
-      },
-      "artists": [
-        {
-          "name": "Eileen Alister",
-          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "What\u2019s a Girl Gotta Do?",
-      "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/1jPj2x2a2UJCRuTR95u3Vv"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 205755,
       "name": "There For You",
       "url": "https://open.spotify.com/track/1gKgTg56snx9gfwyuJFogz"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
+        "name": "Room Service",
+        "url": "https://open.spotify.com/album/0g2jkSi7UiESfNkG24YGjZ"
+      },
+      "artists": [
+        {
+          "name": "Eileen Alister",
+          "url": "https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "What\u2019s a Girl Gotta Do?",
+      "url": "https://open.spotify.com/track/7w9sJY9vavT8cs6dYw5tAu"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -875,22 +891,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3QuUHhU4RHkxSSKMcR4MnT"
-      },
-      "artists": [
-        {
-          "name": "Natascha Polk\u00e9",
-          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
-        }
-      ],
-      "duration_ms": 199125,
-      "name": "Let Myself Go",
-      "url": "https://open.spotify.com/track/4QSeTgII6hxgHk9ZsBxIMH"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "HOMECOMING",
         "url": "https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL"
       },
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
-      },
-      "artists": [
-        {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "Dancing Alone Again",
         "url": "https://open.spotify.com/album/6r1STi3YoZcpBOoWBaEK1C"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 191432,
       "name": "Dancing Alone Again",
       "url": "https://open.spotify.com/track/6B4zn4wOOrNGpPc6Sg54Oo"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx"
+      },
+      "artists": [
+        {
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        }
+      ],
+      "duration_ms": 167847,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Benedek",
-          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
-        }
-      ],
-      "duration_ms": 157540,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "How Much Can a Heart Break",
         "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 195055,
       "name": "How Much Can a Heart Break",
       "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4BZH710leO5d47IrpD3bxd"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Benedek",
+          "url": "https://open.spotify.com/artist/0BBZxotcIVnEEPhjA4iSiu"
+        }
+      ],
+      "duration_ms": 157540,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4iAdre4CIIXn2Ks67BNtgb"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Moved On",
-        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
-      },
-      "artists": [
-        {
-          "name": "Noemi Beza",
-          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
-        }
-      ],
-      "duration_ms": 188337,
-      "name": "Moved On",
-      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "Don't Let Him Go",
         "url": "https://open.spotify.com/album/5rVY4saaxwGxuyVUSHQn09"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 177250,
       "name": "Don't Let Him Go",
       "url": "https://open.spotify.com/track/2ukDVX6smfiRj3LjDS6fCk"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
+        "name": "Moved On",
+        "url": "https://open.spotify.com/album/5TDKyr1AvPZeO23bZWVDgc"
+      },
+      "artists": [
+        {
+          "name": "Noemi Beza",
+          "url": "https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD"
+        }
+      ],
+      "duration_ms": 188337,
+      "name": "Moved On",
+      "url": "https://open.spotify.com/track/7IL5ARQEHeafMPLIVDDkIk"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Young Bones",
-        "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
-      },
-      "artists": [
-        {
-          "name": "Mel D",
-          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
-        }
-      ],
-      "duration_ms": 184880,
-      "name": "Hey You",
-      "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "Low Tide",
         "url": "https://open.spotify.com/album/1jmxE0EMixooHHrPMwLGeM"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 161340,
       "name": "Low Tide",
       "url": "https://open.spotify.com/track/44LdsGW3nKLfkp0WeInuEC"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
+        "name": "Young Bones",
+        "url": "https://open.spotify.com/album/6T6rIiwTaM8OixBIhHfnMW"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "duration_ms": 184880,
+      "name": "Hey You",
+      "url": "https://open.spotify.com/track/1o3OICvacQhv1wMB9X71fe"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Don't Ruin It",
-        "url": "https://open.spotify.com/album/5b4BR9vMYMWxfc3RTv5Mpe"
-      },
-      "artists": [
-        {
-          "name": "Cristina Hart",
-          "url": "https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Don't Ruin It",
-      "url": "https://open.spotify.com/track/4EJqBcrnl9uqSGMENgR258"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "This I Know",
         "url": "https://open.spotify.com/album/6dkEelex2bMAhmLvrm0Y5V"
       },
@@ -1267,18 +1251,18 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
+        "name": "Don't Ruin It",
+        "url": "https://open.spotify.com/album/5b4BR9vMYMWxfc3RTv5Mpe"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "Cristina Hart",
+          "url": "https://open.spotify.com/artist/7pVyyAdD81b7j86qIVEjnn"
         }
       ],
-      "duration_ms": 162929,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
+      "duration_ms": 171306,
+      "name": "Don't Ruin It",
+      "url": "https://open.spotify.com/track/4EJqBcrnl9uqSGMENgR258"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -1295,6 +1279,22 @@
       "duration_ms": 192360,
       "name": "Darling You\u2019re The Worst",
       "url": "https://open.spotify.com/track/1oGQ9YBiav74Q9MjjOTwi8"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/6YFNqJt03Zb2ZXVIm6YyQL"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162929,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
+        "name": "WITHDRAWAL SYMPTOMS",
+        "url": "https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE"
+      },
+      "artists": [
+        {
+          "name": "IKAN HYU",
+          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
+        }
+      ],
+      "duration_ms": 219718,
+      "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
+      "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
         "name": "Hearts",
         "url": "https://open.spotify.com/album/3IfVbIR03pexJlKuaahH4U"
       },
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "Durch die Nacht",
-        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 173830,
-      "name": "Durch die Nacht",
-      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/01QDUNNyYF3RftaKnAZZJB"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 190000,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/5JjJy8gZrF1rnzyvgM1Lzk"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
+        "name": "Durch die Nacht",
+        "url": "https://open.spotify.com/album/1hBh0ZBiCCrvqa74zg9I97"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 173830,
+      "name": "Durch die Nacht",
+      "url": "https://open.spotify.com/track/54WetU6QXj1HMTMVytTpr8"
     },
     {
       "added_at": "2026-09-17 22:00:54",
@@ -1515,22 +1531,6 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
-        "name": "House of Glass",
-        "url": "https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 193576,
-      "name": "House of Glass",
-      "url": "https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
         "name": "Will You Take Me As I Am?",
         "url": "https://open.spotify.com/album/5ozgfuDI2e1vjcSKwXkRaF"
       },
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-09-17 22:00:54",
       "album": {
+        "name": "House of Glass",
+        "url": "https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 193576,
+      "name": "House of Glass",
+      "url": "https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE"
+    },
+    {
+      "added_at": "2026-09-17 22:00:54",
+      "album": {
         "name": "Dorm",
         "url": "https://open.spotify.com/album/2Ygjfegm1kwAwBltMFM9lY"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 194741,
       "name": "Devil On My Back",
       "url": "https://open.spotify.com/track/2DBg3vkLLkZYsr0OAUrZH9"
-    },
-    {
-      "added_at": "2026-09-17 22:00:54",
-      "album": {
-        "name": "WITHDRAWAL SYMPTOMS",
-        "url": "https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE"
-      },
-      "artists": [
-        {
-          "name": "IKAN HYU",
-          "url": "https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK"
-        }
-      ],
-      "duration_ms": 219718,
-      "name": "\u2601\ufe0e purple orange sky \u2601\ufe0e",
-      "url": "https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns"
     },
     {
       "added_at": "2026-09-17 22:00:54",

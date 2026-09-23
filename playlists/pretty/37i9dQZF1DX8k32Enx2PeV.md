@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,365 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,375 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 22 | [CHAMPAGNE](https://open.spotify.com/track/0nr6m6Y6yONJJtTsqGkITv) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd) | [SUPERARTE](https://open.spotify.com/album/2HcMhHy9j2nCoerGQLJe9g) | 3:27 |
 | 23 | [Beso a Beso](https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C) | [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [Beso a Beso](https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln) | 2:17 |
 | 24 | [Caramel](https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Caramel](https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI) | 2:14 |
-| 25 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/3NclV41VD0EXndIyPekaeW) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 |
-| 26 | [Entre Luca Y Juan Mejía](https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Entre Luca Y Juan Mejía](https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z) | 3:47 |
-| 27 | [Costeñita](https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Costeñita](https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8) | 3:46 |
+| 25 | [Costeñita](https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [Costeñita](https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8) | 3:46 |
+| 26 | [Low Key \(feat\. Humby\)](https://open.spotify.com/track/4PfR2vNZ3ig9OCyZmWsQL2) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Humby](https://open.spotify.com/artist/3NclV41VD0EXndIyPekaeW) | [Low Key \(feat\. Humby\)](https://open.spotify.com/album/4YyfHeYsrbjUUWS60MwANl) | 3:36 |
+| 27 | [Entre Luca Y Juan Mejía](https://open.spotify.com/track/1FFwPJxL60iQPSmXK81t6q) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Entre Luca Y Juan Mejía](https://open.spotify.com/album/2i1R5n8KVFsa2iKe4KKz7Z) | 3:47 |
 | 28 | [El AchanTAdo](https://open.spotify.com/track/3fr52NaaVxb2UxPNxDtaQx) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [El AchanTAdo](https://open.spotify.com/album/1T8WIYEepKDl4j27kdZIox) | 3:45 |
 | 29 | [TATTUU](https://open.spotify.com/track/0v1GTQgND04VHe7MhhVlpM) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [TATTUU](https://open.spotify.com/album/4uLsIE2Af51E5eC9ijsMnI) | 3:14 |
 | 30 | [Hora Loca](https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hora Loca](https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8) | 3:11 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 60 | [Partycito](https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl) | [Nohaaddana](https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA) | [Partycito](https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk) | 2:33 |
 | 61 | [Perdiendo el Control](https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Perdiendo el Control](https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10) | 3:22 |
 | 62 | [Regalo](https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Buen Pez \(Deluz\)](https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe) | 2:57 |
-| 63 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 |
-| 64 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 |
+| 63 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 |
+| 64 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 |
 | 65 | [Nunca Es Tarde](https://open.spotify.com/track/56jmUTFstVNSPgsSOcvFof) | [Fifty](https://open.spotify.com/artist/0hc0PTtmvWMtjDatU4Mmyk) | [Nunca Es Tarde](https://open.spotify.com/album/6eHaYmkfZW8wpEyqgk3B5G) | 2:41 |
 | 66 | [Milanoche](https://open.spotify.com/track/22wu7UZqhnHJbAvqqD0GUO) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Milanoche](https://open.spotify.com/album/6XkOMebYPG1wpdHNtnAqlp) | 2:48 |
 | 67 | [Cuando Te Vi](https://open.spotify.com/track/7AWfDw5YsBDHNDYBjXoemo) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Cuando Te Vi](https://open.spotify.com/album/2sWS0Uj1NaGk4ak0HOZBac) | 2:57 |

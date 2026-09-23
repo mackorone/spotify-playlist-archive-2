@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This is Saweetie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,846 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,848 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 41 | [Tip Toes \(feat\. Quavo\)](https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:51 |
 | 42 | [Immaculate](https://open.spotify.com/track/21XJd63KiArnOgo39sJezL) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Immaculate](https://open.spotify.com/album/4O1qp17rGimPUls9c54bS2) | 2:34 |
 | 43 | [Addiction \- feat\. Lil Wayne & Saweetie](https://open.spotify.com/track/62TseHr3oK08tbDG5LgdUv) | [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [K.R.I.T\. IZ HERE](https://open.spotify.com/album/0d8sN1OuLU70PyYVBJzBmG) | 2:49 |
-| 44 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
-| 45 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
+| 44 | [boffum](https://open.spotify.com/track/4Sj5AtZzbdsXL9AzYFhcsS) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [J White Did It](https://open.spotify.com/artist/1br9vzrYU1CrtZNYifVAir) | [boffum](https://open.spotify.com/album/4j8qwPXN4AxFds5yV3XQjz) | 2:07 |
+| 45 | [High Maintenance](https://open.spotify.com/track/3pxHcgYG8aKkclfWXBFSWv) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [High Maintenance](https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW) | 0:49 |
 | 46 | [SHOT O' CLOCK](https://open.spotify.com/track/1c99LA5Cf1agM5NMMAzVwc) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [SHOT O' CLOCK](https://open.spotify.com/album/0FGFaLjqjVkavZbKtFTWXJ) | 2:30 |
 | 47 | [Richtivities](https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Richtivities](https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB) | 2:56 |
 | 48 | [Shake It Fast \(Prod\. THE HUB\)](https://open.spotify.com/track/5KzwhUeX1NLn3xJdT2ixxI) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Shake It Fast \(WSWF Original Vol.3\)](https://open.spotify.com/album/1TrbxBfTQ0ggFneHjgT0Dh) | 2:11 |
 | 49 | [In My Face \(with 2 Chainz, Saweetie feat\. YG\)](https://open.spotify.com/track/19fuLoVyOa6Ok2xWbMpXxH) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Survivor's Guilt](https://open.spotify.com/album/6URnbR6SZsQmhopg3x68ea) | 3:21 |
 | 50 | [YUSO \(feat\. Lil Wayne & Saweetie\)](https://open.spotify.com/track/38Vjqr7xTeIzDpclKOkzli) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Missed Calls](https://open.spotify.com/album/3xqJtp0XRdgFuvipOOCKX9) | 2:53 |
 
-Snapshot ID: `aq8iAAAAAABeiUx22VW4YLrvXu9DZzI6`
+Snapshot ID: `arBzgAAAAAAJxIztdCT2+vU5dN0PE3lX`

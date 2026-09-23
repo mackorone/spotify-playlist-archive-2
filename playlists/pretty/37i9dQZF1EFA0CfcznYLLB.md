@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,826 likes - 313 songs - 16 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,827 likes - 313 songs - 16 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,17 +309,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 299 | [Go Hard](https://open.spotify.com/track/4VLDrl5Rnvd9e8885YX4Jq) | [Booggz](https://open.spotify.com/artist/17LWRPvDAiIUUPECIakeBu) | [Go Hard](https://open.spotify.com/album/310iGUoykPmp1otabSaUKC) | 2:58 |
 | 300 | [Penz To Benz](https://open.spotify.com/track/2sZRv8Xgz9TwURcPqwFOCR) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J) | [Penz To Benz](https://open.spotify.com/album/4mDBsWwfWCikSdZYYihecN) | 2:58 |
 | 301 | [6ix in 6](https://open.spotify.com/track/6jzANR0wmcrr7KQE5MUkrt) | [Jimmy Prime](https://open.spotify.com/artist/4FtU90cHXNvErDdCM5ibqi) | [6ix in 6](https://open.spotify.com/album/2TVux5djHams7xxfNf3y9h) | 2:01 |
-| 302 | [Good As It Gets](https://open.spotify.com/track/0b24cDe0Xj3tGrqjzZKjoR) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS), [Jimmy Prime](https://open.spotify.com/artist/4FtU90cHXNvErDdCM5ibqi), [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [From the Beginning to End](https://open.spotify.com/album/0VikdtH2GWJVmAmxEo36ts) | 3:33 |
-| 303 | [Please](https://open.spotify.com/track/0cjzcacNsOaYrGQzrFsALs) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 4:12 |
-| 304 | [Priceless](https://open.spotify.com/track/65buTq4mPqG9IrerjC3kJW) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS) | [From the Beginning to End](https://open.spotify.com/album/0VikdtH2GWJVmAmxEo36ts) | 3:26 |
-| 305 | [Slow Motion](https://open.spotify.com/track/0VpjFw2T54lOc8PC4uEhxk) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz) | [Sir CEO](https://open.spotify.com/album/4xYZJKqkjGcg7Od5GFalnx) | 1:50 |
-| 306 | [Back Track](https://open.spotify.com/track/5wEwf7ynu8UTpreoKDhwHb) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 3:07 |
-| 307 | [Time Out](https://open.spotify.com/track/2GCYRmbId2uFKKxdeICALM) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS) | [From the Beginning to End](https://open.spotify.com/album/0VikdtH2GWJVmAmxEo36ts) | 2:17 |
-| 308 | [Prescription Drugs](https://open.spotify.com/track/4eG9Tp5czw2Iw2HhNyA6AY) | [MazziOmerta](https://open.spotify.com/artist/7FpZCuK4UTz5VlOc79pkE1) | [Pain 2 Profit](https://open.spotify.com/album/07lZNxBwEKY6Aj9XLDK3i9) | 2:49 |
-| 309 | [Girls Night Out](https://open.spotify.com/track/3QVPm887eEzTxr7kZWD3Hd) | [LAWSON](https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV) | [God Don't Call Twice.\. Vol 1](https://open.spotify.com/album/39hIUtvfwljVcsro6s00Kx) | 2:51 |
-| 310 | [Phone Ring](https://open.spotify.com/track/1IcqJ18yQ9EODx8ZaWf2Mp) | [Josh K](https://open.spotify.com/artist/5sDi2TINo53uVZScP0lYYL) | [Your Girls Favorite](https://open.spotify.com/album/40bF2tBttPE6ffLMdLXz0Y) | 3:18 |
-| 311 | [Stay](https://open.spotify.com/track/6otCmruLPVXztgo0G214fQ) | [Jessica Pilnäs](https://open.spotify.com/artist/3JejDgpeIfaq5wi5jZWYuf) | [Pretender](https://open.spotify.com/album/7BLFYoqfUvAudtlVq882nN) | 4:06 |
-| 312 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
-| 313 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
+| 302 | [Please](https://open.spotify.com/track/0cjzcacNsOaYrGQzrFsALs) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 4:12 |
+| 303 | [Slow Motion](https://open.spotify.com/track/0VpjFw2T54lOc8PC4uEhxk) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz) | [Sir CEO](https://open.spotify.com/album/4xYZJKqkjGcg7Od5GFalnx) | 1:50 |
+| 304 | [Back Track](https://open.spotify.com/track/5wEwf7ynu8UTpreoKDhwHb) | [Jay Whiss](https://open.spotify.com/artist/6VjhXIUhvRNYB3Oplrv03R) | [Peace Of Mind](https://open.spotify.com/album/6flW5TSFgPg4ffDtzf2SxR) | 3:07 |
+| 305 | [Prescription Drugs](https://open.spotify.com/track/4eG9Tp5czw2Iw2HhNyA6AY) | [MazziOmerta](https://open.spotify.com/artist/7FpZCuK4UTz5VlOc79pkE1) | [Pain 2 Profit](https://open.spotify.com/album/07lZNxBwEKY6Aj9XLDK3i9) | 2:49 |
+| 306 | [Girls Night Out](https://open.spotify.com/track/3QVPm887eEzTxr7kZWD3Hd) | [LAWSON](https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV) | [God Don't Call Twice.\. Vol 1](https://open.spotify.com/album/39hIUtvfwljVcsro6s00Kx) | 2:51 |
+| 307 | [Phone Ring](https://open.spotify.com/track/1IcqJ18yQ9EODx8ZaWf2Mp) | [Josh K](https://open.spotify.com/artist/5sDi2TINo53uVZScP0lYYL) | [Your Girls Favorite](https://open.spotify.com/album/40bF2tBttPE6ffLMdLXz0Y) | 3:18 |
+| 308 | [Stay](https://open.spotify.com/track/6otCmruLPVXztgo0G214fQ) | [Jessica Pilnäs](https://open.spotify.com/artist/3JejDgpeIfaq5wi5jZWYuf) | [Pretender](https://open.spotify.com/album/7BLFYoqfUvAudtlVq882nN) | 4:06 |
+| 309 | [Body Parts](https://open.spotify.com/track/0PRldWb2v0PVYHHmK3ammB) | [Bomshot](https://open.spotify.com/artist/3SSMWOv4oxoSrm1lJP5kfc) | [Abomination](https://open.spotify.com/album/32eTpy2grvmPhZ7WjPXtBD) | 3:22 |
+| 310 | [City Girls](https://open.spotify.com/track/3eGXiQ0xwjzu5B4bdxE14e) | [Todd Beasley](https://open.spotify.com/artist/4udSYVL9DLYtvOHnNYNN5R) | [City Girls](https://open.spotify.com/album/0zb9WXHVd14zSKmDjZwcmi) | 3:29 |
+| 311 | [Good As It Gets](https://open.spotify.com/track/0b24cDe0Xj3tGrqjzZKjoR) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS), [Jimmy Prime](https://open.spotify.com/artist/4FtU90cHXNvErDdCM5ibqi), [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd) | [From the Beginning to End](https://open.spotify.com/album/0VikdtH2GWJVmAmxEo36ts) | 3:33 |
+| 312 | [Priceless](https://open.spotify.com/track/65buTq4mPqG9IrerjC3kJW) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS) | [From the Beginning to End](https://open.spotify.com/album/0VikdtH2GWJVmAmxEo36ts) | 3:26 |
+| 313 | [Time Out](https://open.spotify.com/track/2GCYRmbId2uFKKxdeICALM) | [Donnie](https://open.spotify.com/artist/6bIrrMZ8IPwjG1zD0XBCLS) | [From the Beginning to End](https://open.spotify.com/album/0VikdtH2GWJVmAmxEo36ts) | 2:17 |
 
-Snapshot ID: `Acc7pgAAAABP/SLtTAicacKvPz05LA6z`
+Snapshot ID: `AcdBUAAAAADwaMC5m5+aBgifoT/yLRKp`

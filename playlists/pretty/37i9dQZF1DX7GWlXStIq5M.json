@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Ananda",
-  "num_followers": 356158,
+  "num_followers": 356098,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,26 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
+        "name": "L\u00f3tus",
+        "url": "https://open.spotify.com/album/2MmihnLyHR6arfyTpB4KId"
+      },
+      "artists": [
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "outro lado",
+          "url": "https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6"
+        }
+      ],
+      "duration_ms": 163571,
+      "name": "Banho de Sol",
+      "url": "https://open.spotify.com/track/6yoAW4zcYOKiIoWpEqwtaE"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
         "name": "Tar\u00f4",
         "url": "https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD"
       },
@@ -279,26 +299,6 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
-        "name": "L\u00f3tus",
-        "url": "https://open.spotify.com/album/2MmihnLyHR6arfyTpB4KId"
-      },
-      "artists": [
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        },
-        {
-          "name": "outro lado",
-          "url": "https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6"
-        }
-      ],
-      "duration_ms": 163571,
-      "name": "Banho de Sol",
-      "url": "https://open.spotify.com/track/6yoAW4zcYOKiIoWpEqwtaE"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
         "name": "Te Amar \u00c9 F\u00e1cil",
         "url": "https://open.spotify.com/album/6xwdyB2q5EsStdMYQgYX40"
       },
@@ -311,26 +311,6 @@
       "duration_ms": 204002,
       "name": "Te Amar \u00c9 F\u00e1cil",
       "url": "https://open.spotify.com/track/7CABuMnMFXtRHsJfIjSvye"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
-        "name": "olympia",
-        "url": "https://open.spotify.com/album/22DMRedJ10iOcwprOeP9sI"
-      },
-      "artists": [
-        {
-          "name": "Mericia",
-          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
-        },
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 130367,
-      "name": "olympia",
-      "url": "https://open.spotify.com/track/6ZsOgfFtgB87e6r0wzZ5wm"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -355,6 +335,26 @@
       "duration_ms": 238058,
       "name": "SECA PALHA",
       "url": "https://open.spotify.com/track/6X6h7rjzj166usJ7Bx4MM1"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
+        "name": "olympia",
+        "url": "https://open.spotify.com/album/22DMRedJ10iOcwprOeP9sI"
+      },
+      "artists": [
+        {
+          "name": "Mericia",
+          "url": "https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS"
+        },
+        {
+          "name": "Flyana Boss",
+          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
+        }
+      ],
+      "duration_ms": 130367,
+      "name": "olympia",
+      "url": "https://open.spotify.com/track/6ZsOgfFtgB87e6r0wzZ5wm"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -463,6 +463,22 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
+        "name": "Seda de Casulo",
+        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
+      },
+      "artists": [
+        {
+          "name": "Dora Sanches",
+          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
+        }
+      ],
+      "duration_ms": 150422,
+      "name": "Ningu\u00e9m Morre de Amor",
+      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
         "name": "Disco Tropical",
         "url": "https://open.spotify.com/album/5I88FHndtPxjZndN8EovDR"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 169806,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/5hTvRRMr5FajVMIHfuoss8"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
-        "name": "Seda de Casulo",
-        "url": "https://open.spotify.com/album/65GZdJGVYl19N72Wf0HskJ"
-      },
-      "artists": [
-        {
-          "name": "Dora Sanches",
-          "url": "https://open.spotify.com/artist/229B0BZwb8NWvQpmt5rXJR"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "Ningu\u00e9m Morre de Amor",
-      "url": "https://open.spotify.com/track/3wSeJH8vZyhWmvIU0QubWo"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
         "name": "Manh\u00e3 de Sol",
         "url": "https://open.spotify.com/album/3112UESU5WJFX24ulal6XM"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 181666,
       "name": "Manh\u00e3 de Sol",
       "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -699,18 +699,22 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
-        "name": "Avenida",
-        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
+        "name": "Flerte",
+        "url": "https://open.spotify.com/album/73oomwMP1uozxcNp9JE7v7"
       },
       "artists": [
         {
-          "name": "Capim Lim\u00e3o",
-          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        },
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
         }
       ],
-      "duration_ms": 184303,
-      "name": "Avenida",
-      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
+      "duration_ms": 186532,
+      "name": "Flerte",
+      "url": "https://open.spotify.com/track/7dyZtAHEQAxyDt1CIZ3GJZ"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -731,22 +735,6 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
-        "name": "a1",
-        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 183210,
-      "name": "a1",
-      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
         "name": "Camomila",
         "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
       },
@@ -759,6 +747,38 @@
       "duration_ms": 190000,
       "name": "Camomila",
       "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
+        "name": "Avenida",
+        "url": "https://open.spotify.com/album/3QkxmiABwuf0tl6Hxp9qcO"
+      },
+      "artists": [
+        {
+          "name": "Capim Lim\u00e3o",
+          "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
+        }
+      ],
+      "duration_ms": 184303,
+      "name": "Avenida",
+      "url": "https://open.spotify.com/track/6u0BVelvhC0p80pKEtAHLG"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
+        "name": "a1",
+        "url": "https://open.spotify.com/album/5EjBxXVoDbjeC99fDJ3cca"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 183210,
+      "name": "a1",
+      "url": "https://open.spotify.com/track/6hUeReosw7wnQ2EMit2Rgk"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -827,22 +847,6 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
-        "name": "acho que sou rom\u00e2ntica",
-        "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
-      },
-      "artists": [
-        {
-          "name": "Clau",
-          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
-        }
-      ],
-      "duration_ms": 152042,
-      "name": "eu me entendo mal",
-      "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
         "name": "F\u00faria",
         "url": "https://open.spotify.com/album/0xpp1wtNROG0Ai6ZICUzUx"
       },
@@ -863,6 +867,22 @@
       "duration_ms": 193610,
       "name": "F\u00faria",
       "url": "https://open.spotify.com/track/4WGv8f847UKls3KwqlGwYN"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
+        "name": "acho que sou rom\u00e2ntica",
+        "url": "https://open.spotify.com/album/7wuDPrpaqH1SSR2hbBqPbJ"
+      },
+      "artists": [
+        {
+          "name": "Clau",
+          "url": "https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ"
+        }
+      ],
+      "duration_ms": 152042,
+      "name": "eu me entendo mal",
+      "url": "https://open.spotify.com/track/0bUkkwW1as6wy2ca6qkgtD"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -947,26 +967,6 @@
       "duration_ms": 201783,
       "name": "PASSARINHO",
       "url": "https://open.spotify.com/track/5xnUZDsZHLVzOoSevGTNSl"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
-        "name": "Flerte",
-        "url": "https://open.spotify.com/album/73oomwMP1uozxcNp9JE7v7"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        },
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 186532,
-      "name": "Flerte",
-      "url": "https://open.spotify.com/track/7dyZtAHEQAxyDt1CIZ3GJZ"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
+        "name": "A Minha Flor",
+        "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
+      },
+      "artists": [
+        {
+          "name": "Felipe Lobo",
+          "url": "https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED"
+        }
+      ],
+      "duration_ms": 189570,
+      "name": "A Minha Flor",
+      "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
         "name": "Vira-Lata",
         "url": "https://open.spotify.com/album/2RWiBGCEzDz7L5C2DSK5NA"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 192857,
       "name": "Eu N\u00e3o Te Amo",
       "url": "https://open.spotify.com/track/1dV6pKU7JS1AImL17pQ8EV"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
-        "name": "A Minha Flor",
-        "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
-      },
-      "artists": [
-        {
-          "name": "Felipe Lobo",
-          "url": "https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED"
-        }
-      ],
-      "duration_ms": 189570,
-      "name": "A Minha Flor",
-      "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
     },
     {
       "added_at": "2026-09-18 15:34:45",

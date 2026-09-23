@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain](/playlists/plain/4QY0UyROvR8MHKTCwUoUZH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/4QY0UyROvR8MHKTCwUoUZH)
 
-### [Koffietijd  ☕ \| Coffee Lounge 2026 \| Koffiehuis \| Autumn Chill](https://open.spotify.com/playlist/4QY0UyROvR8MHKTCwUoUZH)
+### [Koffietijd  ☕ \| Coffee Lounge 2026 \| Koffiehuis \| Morning Autumn Chill](https://open.spotify.com/playlist/4QY0UyROvR8MHKTCwUoUZH)
 
 > De perfecte Koffie Playlist voor jouw ochtendritueel ☕️ Geniet van de beste acoustic pop, chilled indie en ontspannende singer\-songwriter muziek\. Met o.a\. Fleetwood Mac, Olivia Dean en Alyssa Grace\. Ideaal voor in een café, tijdens het lezen of bij de perfecte cappuccino! 📖✨ Klaar voor de herfst!
 
-[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 34,772 likes - 172 songs - 9 hr 56 min
+[Topsify Benelux](https://open.spotify.com/user/playlistme.nl) - 35,044 likes - 172 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -181,4 +181,4 @@ pretty - [cumulative](/playlists/cumulative/4QY0UyROvR8MHKTCwUoUZH.md) - [plain]
 | 171 | [Die Happy](https://open.spotify.com/track/3EVLd2B0qKPCGItoVz9onn) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:49 |
 | 172 | [I've Seen It](https://open.spotify.com/track/6tHVEMyRfxGgQuXRzl2yOF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:06 |
 
-Snapshot ID: `AAAR0m+JcLNCHbKTcCqP4wmcGtH4Rnik`
+Snapshot ID: `AAAR0wsIZKJ9i5TTCF7LAHTI0VIp3Pfu`

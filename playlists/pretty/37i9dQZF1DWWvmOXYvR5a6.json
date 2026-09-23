@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Jay Park)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221620,
+  "num_followers": 221624,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,26 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
+      },
+      "artists": [
+        {
+          "name": "Rad Museum",
+          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
+        },
+        {
+          "name": "BE'O",
+          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
+        }
+      ],
+      "duration_ms": 227353,
+      "name": "CALL ME BACK",
+      "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
         "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) [Remix]",
         "url": "https://open.spotify.com/album/7s2DOIB1K1zx8Lf0AF9Ivh"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 170013,
       "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) - Remix",
       "url": "https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/7BvY4JIJfB7sSxps8WCetv"
-      },
-      "artists": [
-        {
-          "name": "Rad Museum",
-          "url": "https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo"
-        },
-        {
-          "name": "BE'O",
-          "url": "https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7"
-        }
-      ],
-      "duration_ms": 227353,
-      "name": "CALL ME BACK",
-      "url": "https://open.spotify.com/track/2VRk8RyGvQWLX9yuFN6ivq"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
-        "name": "Push (Feat. REI (IVE))",
-        "url": "https://open.spotify.com/album/5XNTbNuayqWJ94jZDTGeav"
-      },
-      "artists": [
-        {
-          "name": "JOOHONEY",
-          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
-        },
-        {
-          "name": "REI (IVE)",
-          "url": "https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Push (Feat. REI (IVE))",
-      "url": "https://open.spotify.com/track/3Ubi9wmq741iwTtMjYM1kP"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
         "name": "MY MAN (Remix)",
         "url": "https://open.spotify.com/album/6k0E3GIjRUxcWEts05AfMw"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 220000,
       "name": "MY MAN - Remix",
       "url": "https://open.spotify.com/track/2rHcAV9iKHs19oKvM2elyV"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
+        "name": "Push (Feat. REI (IVE))",
+        "url": "https://open.spotify.com/album/5XNTbNuayqWJ94jZDTGeav"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        },
+        {
+          "name": "REI (IVE)",
+          "url": "https://open.spotify.com/artist/5s3Ys2jpFZD2t4bivtHG2q"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Push (Feat. REI (IVE))",
+      "url": "https://open.spotify.com/track/3Ubi9wmq741iwTtMjYM1kP"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
-        "name": "milli",
-        "url": "https://open.spotify.com/album/3RZG9BV5a2GCxOe9OLjM8K"
-      },
-      "artists": [
-        {
-          "name": "MilliMax",
-          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "INSTAGRAM",
-      "url": "https://open.spotify.com/track/7FLQ0h6DKO9s29WLzzHnVe"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
         "name": "sonogram",
         "url": "https://open.spotify.com/album/1H76PIEJLwJwLX2dtOJ2vT"
       },
@@ -1755,6 +1739,46 @@
       "duration_ms": 224397,
       "name": "Too laid back",
       "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
+        "name": "milli",
+        "url": "https://open.spotify.com/album/3RZG9BV5a2GCxOe9OLjM8K"
+      },
+      "artists": [
+        {
+          "name": "MilliMax",
+          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "INSTAGRAM",
+      "url": "https://open.spotify.com/track/7FLQ0h6DKO9s29WLzzHnVe"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
+        "name": "AMBITION 5/10",
+        "url": "https://open.spotify.com/album/3etqC5rZJlcAwxgmditKP4"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Nosun",
+          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
+        },
+        {
+          "name": "MilliMax",
+          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "NEW AMBITION SOUND!",
+      "url": "https://open.spotify.com/track/0U9DUG6WjqUjRsvEMziUJC"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1791,30 +1815,6 @@
       "duration_ms": 215573,
       "name": "Day & Night (feat. Jay Park)",
       "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
-        "name": "AMBITION 5/10",
-        "url": "https://open.spotify.com/album/3etqC5rZJlcAwxgmditKP4"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "Nosun",
-          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
-        },
-        {
-          "name": "MilliMax",
-          "url": "https://open.spotify.com/artist/0K0c0hoeO1VO7NnOcQnvYq"
-        }
-      ],
-      "duration_ms": 183428,
-      "name": "NEW AMBITION SOUND!",
-      "url": "https://open.spotify.com/track/0U9DUG6WjqUjRsvEMziUJC"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
+        "name": "everybody dies",
+        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "everybody dies",
+      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
         "name": "16 Fantasy",
         "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
       },
@@ -1911,22 +1927,6 @@
       "duration_ms": 193493,
       "name": "ADHD (feat. Jambino)",
       "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
-        "name": "everybody dies",
-        "url": "https://open.spotify.com/album/3QyIQvec4deNjS7mRgrJcG"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 152079,
-      "name": "everybody dies",
-      "url": "https://open.spotify.com/track/4VjXB0bVNFiEQTi3tCDtU9"
     },
     {
       "added_at": "2026-09-08 11:45:11",

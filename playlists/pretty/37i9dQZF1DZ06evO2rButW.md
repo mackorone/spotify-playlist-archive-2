@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 796,959 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,119 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 22 | [Aline](https://open.spotify.com/track/7eX2kEXRsALMvA4sf1CZS2) | [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Aline](https://open.spotify.com/album/0e451EeVCDPZiKhd3AMglE) | 2:36 |
 | 23 | [Hello Monserrat](https://open.spotify.com/track/4GeGkrJZHLok2EMqnJt7bS) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Femme Fatale Vol\. 2](https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh) | 4:07 |
 | 24 | [No Soy Para Ti](https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:31 |
-| 25 | [Nuestra Casa](https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Nuestra Casa](https://open.spotify.com/album/32fF4N6NziEurvlun5ut92) | 3:48 |
-| 26 | [Aunque Te Mueras Por Volver](https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:10 |
+| 25 | [Aunque Te Mueras Por Volver](https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:10 |
+| 26 | [Nuestra Casa](https://open.spotify.com/track/32PLngqOwuA7jZzfZVk6Wb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Nuestra Casa](https://open.spotify.com/album/32fF4N6NziEurvlun5ut92) | 3:48 |
 | 27 | [El Diablo](https://open.spotify.com/track/65mQeg46PBoOzslgpynyzF) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 4:03 |
 | 28 | [Veracruz](https://open.spotify.com/track/16dQDMg1coaX1FrIKZIgtt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [FEMME FATALE](https://open.spotify.com/album/7q2GxttTFDWOihvnSWdwWw) | 4:22 |
 | 29 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 |
-| 30 | [Funeral](https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 4:28 |
-| 31 | [Estoy Llorando De Tanta Belleza](https://open.spotify.com/track/70THa2SQPnAF5U7vfTmnW0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Femme Fatale Vol\. 2](https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh) | 3:16 |
+| 30 | [Estoy Llorando De Tanta Belleza](https://open.spotify.com/track/70THa2SQPnAF5U7vfTmnW0) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Femme Fatale Vol\. 2](https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh) | 3:16 |
+| 31 | [Funeral](https://open.spotify.com/track/2ZNYFHhkBoS4KHr5eXnQth) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 4:28 |
 | 32 | [Vuelve por Favor](https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tornasol](https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H) | 4:16 |
 | 33 | [La Mujer](https://open.spotify.com/track/3sQf1MpSqYoqVfdvao8vKt) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:09 |
-| 34 | [Quédate Esta Noche](https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:50 |
-| 35 | [Sunset Boulevard](https://open.spotify.com/track/1V8SlskAwHaON0SpE4lnWY) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Femme Fatale Vol\. 2](https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh) | 3:44 |
+| 34 | [Sunset Boulevard](https://open.spotify.com/track/1V8SlskAwHaON0SpE4lnWY) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Femme Fatale Vol\. 2](https://open.spotify.com/album/29L7pXN58eLAlfhaAquyXh) | 3:44 |
+| 35 | [Quédate Esta Noche](https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:50 |
 | 36 | [Vendaval](https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza \(Deluxe\)](https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz) | 3:34 |
 | 37 | [Se Portaba Mal](https://open.spotify.com/track/3TZEryQOpvy8ix7XGmiw6b) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:15 |
 | 38 | [Que Sí](https://open.spotify.com/track/6FOE00lDuzxdmGfJ9501ro) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 3:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [La Danza de las Libélulas](https://open.spotify.com/track/67ed4jjP4A0IfcQfgCnGWl) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [El Caminante](https://open.spotify.com/album/3GoP2zfwzLlr23wpjZYwOw) | 3:40 |
 | 50 | [Hoy No](https://open.spotify.com/track/16mjP6OLNMordGg9FowQrI) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/73bl7uuU24ECvfzzE6vIgl) | 4:02 |
 
-Snapshot ID: `aq8iAAAAAADHOjCrwmyAb/IVPZS2L6DZ`
+Snapshot ID: `arBzgAAAAACbOBLUAxKjkxoZBcXMUPgi`

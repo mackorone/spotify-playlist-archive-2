@@ -1,5 +1,5 @@
 {
-  "description": "With MIK's Reaction, Roderiko Pop, NEWLAND and more",
+  "description": "With Roderiko Pop, NEWLAND, MIK's Reaction and more",
   "num_followers": 23,
   "original_name": "Bipolar Superstar Radio",
   "owner": {
@@ -47,6 +47,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Dance with Dragons",
+        "url": "https://open.spotify.com/album/7zULhSOEKB4MybNxh1Sijy"
+      },
+      "artists": [
+        {
+          "name": "KeyDragon",
+          "url": "https://open.spotify.com/artist/1IP8B2y5PtMvVJuuDfzYEY"
+        }
+      ],
+      "duration_ms": 117992,
+      "name": "Wings Are Heavy",
+      "url": "https://open.spotify.com/track/6OMMqelzt9EYwY0YyqXjXv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Goddess",
         "url": "https://open.spotify.com/album/7jHTbHGrkCzWOSgNlUa9MH"
       },
@@ -59,6 +75,42 @@
       "duration_ms": 248451,
       "name": "Goddess",
       "url": "https://open.spotify.com/track/7unT6Ykkw38roexHf453ur"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trauma Junkie",
+        "url": "https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW"
+      },
+      "artists": [
+        {
+          "name": "The Dogs",
+          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
+        }
+      ],
+      "duration_ms": 246425,
+      "name": "Another Child of the Cross",
+      "url": "https://open.spotify.com/track/1j2STlOO3gHxnroYPNqhXW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kom Og Klikk (Harvey North Remix)",
+        "url": "https://open.spotify.com/album/3bxsAtlrEYaoSg6M6DkBmR"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        },
+        {
+          "name": "Harvey North",
+          "url": "https://open.spotify.com/artist/14dwcok1XkKY5jsDvVNxDj"
+        }
+      ],
+      "duration_ms": 243902,
+      "name": "Kom Og Klikk - Harvey North Remix",
+      "url": "https://open.spotify.com/track/3Qv4tidfCyy6YUhsg1CRCL"
     },
     {
       "added_at": null,
@@ -95,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Manneklem",
-        "url": "https://open.spotify.com/album/36erD8rvt5RqfDale07HIe"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 190438,
-      "name": "Manneklem",
-      "url": "https://open.spotify.com/track/1Lq7eIHMXAe7mBalme6A9Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Edward",
         "url": "https://open.spotify.com/album/2s7A3uMGrwmMUItatNVX3D"
       },
@@ -123,22 +159,6 @@
       "duration_ms": 291000,
       "name": "Before the Night Falls",
       "url": "https://open.spotify.com/track/0MZeFizQUzec1aVACszRan"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trauma Junkie",
-        "url": "https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW"
-      },
-      "artists": [
-        {
-          "name": "The Dogs",
-          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
-        }
-      ],
-      "duration_ms": 246425,
-      "name": "Another Child of the Cross",
-      "url": "https://open.spotify.com/track/1j2STlOO3gHxnroYPNqhXW"
     },
     {
       "added_at": null,
@@ -159,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake News",
-        "url": "https://open.spotify.com/album/2Y5010O2gCt1EVd8aSDZPF"
-      },
-      "artists": [
-        {
-          "name": "Bad Scullianz",
-          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
-        }
-      ],
-      "duration_ms": 261821,
-      "name": "Fake News",
-      "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
@@ -187,6 +191,22 @@
       "duration_ms": 151000,
       "name": "Briste Eller B\u00e6re",
       "url": "https://open.spotify.com/track/7g5yhc1cnKF6rRzYsrhG89"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake News",
+        "url": "https://open.spotify.com/album/2Y5010O2gCt1EVd8aSDZPF"
+      },
+      "artists": [
+        {
+          "name": "Bad Scullianz",
+          "url": "https://open.spotify.com/artist/4bwT7RjBc5o10Q0bc389EC"
+        }
+      ],
+      "duration_ms": 261821,
+      "name": "Fake News",
+      "url": "https://open.spotify.com/track/5bpsccASJsBhAibqbEq3A8"
     },
     {
       "added_at": null,
@@ -223,6 +243,42 @@
       "duration_ms": 169000,
       "name": "(Don`t Wait For) The Next Call - Feat Sixxkiller",
       "url": "https://open.spotify.com/track/6rORsjerzCWPwCawd8T76m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Year Of The Snake",
+        "url": "https://open.spotify.com/album/2hZcIRKzA9UAWr05Emda07"
+      },
+      "artists": [
+        {
+          "name": "Roderiko Pop",
+          "url": "https://open.spotify.com/artist/2l2ji2t6bt74IRnrs05eDW"
+        },
+        {
+          "name": "Jonathan Andrew Rysdon",
+          "url": "https://open.spotify.com/artist/17WbxMg28ANXPAoBP6jgj0"
+        }
+      ],
+      "duration_ms": 174481,
+      "name": "The Year Of The Snake",
+      "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Manneklem",
+        "url": "https://open.spotify.com/album/36erD8rvt5RqfDale07HIe"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 190438,
+      "name": "Manneklem",
+      "url": "https://open.spotify.com/track/1Lq7eIHMXAe7mBalme6A9Q"
     },
     {
       "added_at": null,
@@ -271,46 +327,6 @@
       "duration_ms": 249560,
       "name": "Hothouse Flowers",
       "url": "https://open.spotify.com/track/22NbzS5eeEyWilq9HH1DoL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Year Of The Snake",
-        "url": "https://open.spotify.com/album/2hZcIRKzA9UAWr05Emda07"
-      },
-      "artists": [
-        {
-          "name": "Roderiko Pop",
-          "url": "https://open.spotify.com/artist/2l2ji2t6bt74IRnrs05eDW"
-        },
-        {
-          "name": "Jonathan Andrew Rysdon",
-          "url": "https://open.spotify.com/artist/17WbxMg28ANXPAoBP6jgj0"
-        }
-      ],
-      "duration_ms": 174481,
-      "name": "The Year Of The Snake",
-      "url": "https://open.spotify.com/track/3H4GFRUJlKdpf09kvj2YUW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kom Og Klikk (Harvey North Remix)",
-        "url": "https://open.spotify.com/album/3bxsAtlrEYaoSg6M6DkBmR"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        },
-        {
-          "name": "Harvey North",
-          "url": "https://open.spotify.com/artist/14dwcok1XkKY5jsDvVNxDj"
-        }
-      ],
-      "duration_ms": 243902,
-      "name": "Kom Og Klikk - Harvey North Remix",
-      "url": "https://open.spotify.com/track/3Qv4tidfCyy6YUhsg1CRCL"
     },
     {
       "added_at": null,
@@ -367,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just Keep Swimming",
-        "url": "https://open.spotify.com/album/7LmcuNts5OXsMLkfCxwy7s"
-      },
-      "artists": [
-        {
-          "name": "MIK's Reaction",
-          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
-        }
-      ],
-      "duration_ms": 254925,
-      "name": "Just Keep Swimming",
-      "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Normal",
         "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
       },
@@ -395,38 +395,6 @@
       "duration_ms": 202000,
       "name": "Strak Saltomortale",
       "url": "https://open.spotify.com/track/3YHHO3X9542Ia2LqMMiG3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Night in Las Cruces",
-        "url": "https://open.spotify.com/album/4braX0GOzq358eNTUW9DuJ"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6swell",
-          "url": "https://open.spotify.com/artist/7q1PLwTm4UVWqWBWq9v2or"
-        }
-      ],
-      "duration_ms": 243176,
-      "name": "Last Night in Las Cruces",
-      "url": "https://open.spotify.com/track/0s1B8sXdhmqqqt77vdMB1T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IO",
-        "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
-      },
-      "artists": [
-        {
-          "name": "OlD NATIVE OMEN",
-          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
-        }
-      ],
-      "duration_ms": 299655,
-      "name": "IO",
-      "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
     },
     {
       "added_at": null,
@@ -463,6 +431,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "IO",
+        "url": "https://open.spotify.com/album/5yhVsqIReapxdmmdpxkgfh"
+      },
+      "artists": [
+        {
+          "name": "OlD NATIVE OMEN",
+          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
+        }
+      ],
+      "duration_ms": 299655,
+      "name": "IO",
+      "url": "https://open.spotify.com/track/78IlRY43O1FTXkXQFEKCU1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Keep Swimming",
+        "url": "https://open.spotify.com/album/7LmcuNts5OXsMLkfCxwy7s"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "duration_ms": 254925,
+      "name": "Just Keep Swimming",
+      "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En liten dose deg",
         "url": "https://open.spotify.com/album/6qmBLYWma46iBh9xDmHksz"
       },
@@ -479,34 +479,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Queen of Iceni",
-        "url": "https://open.spotify.com/album/3veo6htTTXh96qkBBM1j1a"
+        "name": "The Ambulance Song",
+        "url": "https://open.spotify.com/album/3cU6pSrnhdejWtD5Na1bKi"
       },
       "artists": [
         {
-          "name": "Antichrisis",
-          "url": "https://open.spotify.com/artist/6UUUa4HW9J8uLuWvsw0iRJ"
+          "name": "Rat Silo",
+          "url": "https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7"
         }
       ],
-      "duration_ms": 246520,
-      "name": "The Queen of Iceni",
-      "url": "https://open.spotify.com/track/1BLVYGEpOwX7xuulobVEzH"
+      "duration_ms": 156095,
+      "name": "The Ambulance Song",
+      "url": "https://open.spotify.com/track/7paZM4Elsbx6BgTGBnUwvQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/4nrubr35FBqe4IFSSVjohv"
+        "name": "Last Night in Las Cruces",
+        "url": "https://open.spotify.com/album/4braX0GOzq358eNTUW9DuJ"
       },
       "artists": [
         {
-          "name": "Lonnie Fisher",
-          "url": "https://open.spotify.com/artist/2VClRDJzSEBRnZzD4DRy0b"
+          "name": "R\u00f6swell",
+          "url": "https://open.spotify.com/artist/7q1PLwTm4UVWqWBWq9v2or"
         }
       ],
-      "duration_ms": 416668,
-      "name": "Starve",
-      "url": "https://open.spotify.com/track/7w85MLY7Z6XpvzkhTjKgOj"
+      "duration_ms": 243176,
+      "name": "Last Night in Las Cruces",
+      "url": "https://open.spotify.com/track/0s1B8sXdhmqqqt77vdMB1T"
     },
     {
       "added_at": null,
@@ -563,18 +563,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mental Health (MIK\u2019s Miasma)",
-        "url": "https://open.spotify.com/album/5gfoeaTbvC2fB0ggE1FiKm"
+        "name": "The Queen of Iceni",
+        "url": "https://open.spotify.com/album/3veo6htTTXh96qkBBM1j1a"
       },
       "artists": [
         {
-          "name": "MIK's Reaction",
-          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+          "name": "Antichrisis",
+          "url": "https://open.spotify.com/artist/6UUUa4HW9J8uLuWvsw0iRJ"
         }
       ],
-      "duration_ms": 340409,
-      "name": "Mental Health (MIK\u2019s Miasma)",
-      "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
+      "duration_ms": 246520,
+      "name": "The Queen of Iceni",
+      "url": "https://open.spotify.com/track/1BLVYGEpOwX7xuulobVEzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/4nrubr35FBqe4IFSSVjohv"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Fisher",
+          "url": "https://open.spotify.com/artist/2VClRDJzSEBRnZzD4DRy0b"
+        }
+      ],
+      "duration_ms": 416668,
+      "name": "Starve",
+      "url": "https://open.spotify.com/track/7w85MLY7Z6XpvzkhTjKgOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En sista s\u00e5ng fr\u00e5n Tjapps\u00e5ive",
+        "url": "https://open.spotify.com/album/6M0kN0riMm5IcczfPUlr3x"
+      },
+      "artists": [
+        {
+          "name": "Johan Piribauer",
+          "url": "https://open.spotify.com/artist/7snANhwq2QpnYEmIVnRfEi"
+        }
+      ],
+      "duration_ms": 331440,
+      "name": "Stranden",
+      "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
     },
     {
       "added_at": null,
@@ -595,38 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grenn Eyes",
-        "url": "https://open.spotify.com/album/56PC4kDxMMgfNqSRyW1nIF"
-      },
-      "artists": [
-        {
-          "name": "OlD NATIVE OMEN",
-          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
-        }
-      ],
-      "duration_ms": 294068,
-      "name": "Grenn Eyes",
-      "url": "https://open.spotify.com/track/7d8owlmuILQ1APlw5fyApY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Haneke Twins",
-        "url": "https://open.spotify.com/album/0Gy7fIwP3YDH9Iu6eygJxu"
-      },
-      "artists": [
-        {
-          "name": "Haneke Twins",
-          "url": "https://open.spotify.com/artist/0jIuUCEUI2ejpPurPdkPGK"
-        }
-      ],
-      "duration_ms": 220376,
-      "name": "Deep",
-      "url": "https://open.spotify.com/track/3sUcCa6qKH6d7Lo0epfqTW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Borte vekk i sola",
         "url": "https://open.spotify.com/album/7F7v27i1iyLOhPYJvwrbmT"
       },
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mental Health (MIK\u2019s Miasma)",
+        "url": "https://open.spotify.com/album/5gfoeaTbvC2fB0ggE1FiKm"
+      },
+      "artists": [
+        {
+          "name": "MIK's Reaction",
+          "url": "https://open.spotify.com/artist/0LS00Hi5R6PcZ9mfPTjSMg"
+        }
+      ],
+      "duration_ms": 340409,
+      "name": "Mental Health (MIK\u2019s Miasma)",
+      "url": "https://open.spotify.com/track/1gNXkCxKqF3ZFveWOVpSX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Painting Princess",
         "url": "https://open.spotify.com/album/7tu2bmqzxvtlRkXOQwL1A8"
       },
@@ -655,6 +671,54 @@
       "duration_ms": 217295,
       "name": "Painting Princess",
       "url": "https://open.spotify.com/track/1fotqQEfQNkDV4Eb4Uk9ML"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grenn Eyes",
+        "url": "https://open.spotify.com/album/56PC4kDxMMgfNqSRyW1nIF"
+      },
+      "artists": [
+        {
+          "name": "OlD NATIVE OMEN",
+          "url": "https://open.spotify.com/artist/1GFUXRCYH0dAkrYty0vWf8"
+        }
+      ],
+      "duration_ms": 294068,
+      "name": "Grenn Eyes",
+      "url": "https://open.spotify.com/track/7d8owlmuILQ1APlw5fyApY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stranded Future Soho Fugitive",
+        "url": "https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm"
+      },
+      "artists": [
+        {
+          "name": "Forwardman",
+          "url": "https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR"
+        }
+      ],
+      "duration_ms": 290186,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/2dzQApMQvr9l3aUBMj0b2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Superstar",
+          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Stikk Av",
+      "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
     },
     {
       "added_at": null,
@@ -679,54 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Ambulance Song",
-        "url": "https://open.spotify.com/album/3cU6pSrnhdejWtD5Na1bKi"
-      },
-      "artists": [
-        {
-          "name": "Rat Silo",
-          "url": "https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7"
-        }
-      ],
-      "duration_ms": 156095,
-      "name": "The Ambulance Song",
-      "url": "https://open.spotify.com/track/7paZM4Elsbx6BgTGBnUwvQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En sista s\u00e5ng fr\u00e5n Tjapps\u00e5ive",
-        "url": "https://open.spotify.com/album/6M0kN0riMm5IcczfPUlr3x"
-      },
-      "artists": [
-        {
-          "name": "Johan Piribauer",
-          "url": "https://open.spotify.com/artist/7snANhwq2QpnYEmIVnRfEi"
-        }
-      ],
-      "duration_ms": 331440,
-      "name": "Stranden",
-      "url": "https://open.spotify.com/track/7v05GxuaQtCW32RuhPThPa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/0GOoyMXJwYAbnCGOHHzirV"
-      },
-      "artists": [
-        {
-          "name": "Bipolar Superstar",
-          "url": "https://open.spotify.com/artist/2luOsV8r2I0lzdTLpgSG0H"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Stikk Av",
-      "url": "https://open.spotify.com/track/7lhF3iYxfrHxxWrsdLnNxE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alls\u00e5ng med r\u00f6sterna i mitt huvud",
         "url": "https://open.spotify.com/album/20xCIRw9LRMIGUu43JtON1"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 162200,
       "name": "Alls\u00e5ng med r\u00f6sterna i mitt huvud",
       "url": "https://open.spotify.com/track/08UtDhh6FVO4t0RMaVBRzU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Flowers Remember",
-        "url": "https://open.spotify.com/album/76dIY2JiaRE5E9bRKnKnJo"
-      },
-      "artists": [
-        {
-          "name": "Alien Skin",
-          "url": "https://open.spotify.com/artist/5U55w0giTiivu8BpkjTcQ1"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "Black Raincoat",
-      "url": "https://open.spotify.com/track/2zgHgAZMfJnzSsWk7RNAyt"
     },
     {
       "added_at": null,
@@ -775,34 +775,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stranded Future Soho Fugitive",
-        "url": "https://open.spotify.com/album/0xaATkbGSU84aL8zvRW2Mm"
+        "name": "Trauma Junkie",
+        "url": "https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW"
       },
       "artists": [
         {
-          "name": "Forwardman",
-          "url": "https://open.spotify.com/artist/4biSHaP7pPMoeLLlVluXLR"
+          "name": "The Dogs",
+          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
         }
       ],
-      "duration_ms": 290186,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/2dzQApMQvr9l3aUBMj0b2U"
+      "duration_ms": 190281,
+      "name": "Becoming God of Nothing",
+      "url": "https://open.spotify.com/track/1CtOuHOoXVcCTsSvf8gUB0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "SOLITUDE",
-        "url": "https://open.spotify.com/album/51rMBZO5r6mD7pumSQJ0l4"
+        "name": "Carry The Light",
+        "url": "https://open.spotify.com/album/5RRHyt3YETFIydjiXXjKL4"
       },
       "artists": [
         {
-          "name": "HAZE IN THE AFTERNOON",
-          "url": "https://open.spotify.com/artist/6MBiQLHrM9y3nJbOulTvN0"
+          "name": "Black Cart",
+          "url": "https://open.spotify.com/artist/5fXStMLN8YVqcGX1vo7bjl"
         }
       ],
-      "duration_ms": 229908,
-      "name": "SOLITUDE",
-      "url": "https://open.spotify.com/track/2DHP0zUJf2YqWQWSBG2hpB"
+      "duration_ms": 216756,
+      "name": "Carry The Light",
+      "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Enchanted Melodies by Aloysius Turq",
+        "url": "https://open.spotify.com/album/5m6GDygdhn1f8Ijap99DOx"
+      },
+      "artists": [
+        {
+          "name": "Steve Liberace",
+          "url": "https://open.spotify.com/artist/0afvGMFvLw9jJ8u3Urjf5f"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "Treasure Junkie",
+      "url": "https://open.spotify.com/track/4s070RzldQuESr2ms3AvXS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at Paradiso",
         "url": "https://open.spotify.com/album/0aup08lXgzeXuYHOu6AFpg"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 214000,
       "name": "Dreams Aren't Enough - Live at Paradiso",
       "url": "https://open.spotify.com/track/6zNQZSpxBsTJbBk8kjIBqA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carry The Light",
-        "url": "https://open.spotify.com/album/5RRHyt3YETFIydjiXXjKL4"
-      },
-      "artists": [
-        {
-          "name": "Black Cart",
-          "url": "https://open.spotify.com/artist/5fXStMLN8YVqcGX1vo7bjl"
-        }
-      ],
-      "duration_ms": 216756,
-      "name": "Carry The Light",
-      "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
     }
   ],
   "unique_name": "Bipolar Superstar Radio",

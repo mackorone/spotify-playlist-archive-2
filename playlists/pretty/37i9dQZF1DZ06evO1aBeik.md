@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 
 > This is Post Malone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,804,023 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,803,995 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1aBeik.md) - [plain]
 | 49 | [Git Wit U](https://open.spotify.com/track/5c9Uyjh4J1tgMpvPc6dRHx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [August 26](https://open.spotify.com/album/6plj5TlnaY3rCX0wDoulQc) | 2:24 |
 | 50 | [LEVII'S JEANS](https://open.spotify.com/track/2UDARQiksl207HcSduDpov) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:17 |
 
-Snapshot ID: `aq8iAAAAAADV9fofaTeZZ60/VeXe329D`
+Snapshot ID: `arBzgAAAAADCga05OKwEydWwv5CVIB3w`

@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1022861,
+  "num_followers": 1022790,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 161322,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
         "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
         "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 217466,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
       "url": "https://open.spotify.com/track/27rdGxbavYJeBphck5MZAF"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/3tD94EmwfRLAX1SaZQvDhC"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 161322,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/2KklXplRtxMsBYo474Es0w"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -959,6 +959,26 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
+        "name": "Right Now",
+        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
+      },
+      "artists": [
+        {
+          "name": "Nick Jonas",
+          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
         "name": "Burn Out (feat. Dewain Whitmore)",
         "url": "https://open.spotify.com/album/3feYPmyPH7tqh1ZfsU0D0i"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 200332,
       "name": "Burn Out (feat. Dewain Whitmore)",
       "url": "https://open.spotify.com/track/7IWTIkiWGWNQyYfOLdMrGD"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
-        "name": "Right Now",
-        "url": "https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P"
-      },
-      "artists": [
-        {
-          "name": "Nick Jonas",
-          "url": "https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk"
     },
     {
       "added_at": "2026-07-24 17:31:08",
@@ -1467,22 +1467,22 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Infinito Particular (Bhaskar Remix)",
-        "url": "https://open.spotify.com/album/1jGbiJKRQjoDfWDaokYutp"
+        "name": "Cry Dancing",
+        "url": "https://open.spotify.com/album/6PLgk4A3mMtYCuYSwiQ4pl"
       },
       "artists": [
         {
-          "name": "Bhaskar",
-          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
         },
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
         }
       ],
-      "duration_ms": 160019,
-      "name": "Infinito Particular - Bhaskar Remix",
-      "url": "https://open.spotify.com/track/72jW7XpxlhT95QVLPLbsBm"
+      "duration_ms": 179396,
+      "name": "Cry Dancing",
+      "url": "https://open.spotify.com/track/7g2uEIBiSXUNkLmEUCv5nq"
     },
     {
       "added_at": "2026-07-24 17:31:08",

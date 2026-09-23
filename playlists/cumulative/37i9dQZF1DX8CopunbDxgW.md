@@ -4,7 +4,7 @@
 
 > this new Boy Harsher album is delightful 🎥 metropolis is your home for the best indie dance
 
-2,406 songs - 6 day 0 hr 56 min
+2,407 songs - 6 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2351,6 +2351,7 @@
 | [Wise Heart](https://open.spotify.com/track/31mRhTf3yG5kof0V0OvzN5) | [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [Wise Heart](https://open.spotify.com/album/0nlMtkdfpMHNby5avmtAcY) | 3:07 | 2024-09-20 | 2024-11-09 |
 | [wish that i could \- Memphis LK Remix](https://open.spotify.com/track/10kgI5WbVmGmfaLzZPElCM) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [wish that i could \(Memphis LK Remix\)](https://open.spotify.com/album/2XOxNQQpNIccflEHM0x6u3) | 3:01 | 2022-12-16 | 2023-01-06 |
 | [Wish We Didn't](https://open.spotify.com/track/3ApF4gKjT4Ne9YwnOUq0i5) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Night On Earth](https://open.spotify.com/album/6NO302QttA9Ifl9Fghh0oy) | 4:08 | 2022-01-28 | 2022-02-12 |
+| [Wish You Luck](https://open.spotify.com/track/3Hxz9OpJIUFkFytyrOAxWj) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4), [kid on air](https://open.spotify.com/artist/3qh0b8JcyeKr7QPlIIlTw2) | [Wish You Luck](https://open.spotify.com/album/0A7DP5rChjnxOCYDfAhSMN) | 3:43 | 2026-09-22 |  |
 | [wishing well](https://open.spotify.com/track/7Fwp8SLqJ3NU6L8ZitD6AY) | [demotapes](https://open.spotify.com/artist/7J3jiKIiROsYOlJeEml34X), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [wishing well](https://open.spotify.com/album/3hzcBFb7iuuYShvvCHXBn9) | 2:02 | 2024-03-29 | 2024-06-08 |
 | [with you](https://open.spotify.com/track/5idD707HmiYqTU8TifpPc8) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [with you](https://open.spotify.com/album/4HNmTH7hARtWqGeqIMMLWL) | 2:46 | 2021-10-15 | 2021-12-22 |
 | [with you love](https://open.spotify.com/track/12puR1dGT6gaaFHwZ5st4J) | [bad tuner](https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm) | [with you love](https://open.spotify.com/album/6b8VvCIhRdBzttbucwp8kd) | 3:35 | 2024-11-15 | 2024-12-14 |

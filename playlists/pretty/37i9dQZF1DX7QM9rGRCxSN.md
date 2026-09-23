@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,320 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,321 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 41 | [Parálisis del Sueño](https://open.spotify.com/track/3OgIhXydbvv8KV6lpyT3gx) | [Corriendo](https://open.spotify.com/artist/1PL7VVHo2DOSgg3Ak6S29w) | [Omelette Du Fromage](https://open.spotify.com/album/2PbgzSvLi7z46n6WKiL4kK) | 2:30 |
 | 42 | [Orquídeas](https://open.spotify.com/track/0uNYFj02U52kOYTJAhzJNN) | [Hummm](https://open.spotify.com/artist/5Nd5eFtrvfMLHmA78iGmT7) | [Orquídeas](https://open.spotify.com/album/6BvXv0f2qbNI9aC1iKAs62) | 3:01 |
 | 43 | [Ave](https://open.spotify.com/track/1C0JTISdpWiw1rGLNIs5UU) | [Dejaré que me apuñales](https://open.spotify.com/artist/4QbKlV4BEvPWy1ivGBRdPJ) | [Jardines Próximos](https://open.spotify.com/album/0MEUick8L0S9ZXZrVcdmsa) | 2:52 |
-| 44 | [Silencio](https://open.spotify.com/track/2zCGu2hMmSNZQ0TTAvXaKY) | [La Versión Extendida de las Cosas](https://open.spotify.com/artist/5zfGpBrzndP4czcJTxZgKt) | [Silencio](https://open.spotify.com/album/4CfWqunMuCK0zUlD9ufECl) | 2:56 |
-| 45 | [pasan los días](https://open.spotify.com/track/0gndtLhT5ExWIKmRJo6TUx) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C) | [pasan los días](https://open.spotify.com/album/4JEbDeeXUEQ97zkDFGcQLK) | 2:44 |
+| 44 | [pasan los días](https://open.spotify.com/track/0gndtLhT5ExWIKmRJo6TUx) | [Gol Olímpico](https://open.spotify.com/artist/6bLnqm1VnANrrGcZPfou2C) | [pasan los días](https://open.spotify.com/album/4JEbDeeXUEQ97zkDFGcQLK) | 2:44 |
+| 45 | [Silencio](https://open.spotify.com/track/2zCGu2hMmSNZQ0TTAvXaKY) | [La Versión Extendida de las Cosas](https://open.spotify.com/artist/5zfGpBrzndP4czcJTxZgKt) | [Silencio](https://open.spotify.com/album/4CfWqunMuCK0zUlD9ufECl) | 2:56 |
 | 46 | [Está Nublado y Tengo Calor](https://open.spotify.com/track/788chCGIQr4PgMByHndKyH) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [Está Nublado y Tengo Calor](https://open.spotify.com/album/01hmWHaiegbjJAYcEXnmEQ) | 3:05 |
 | 47 | [Míráme](https://open.spotify.com/track/59vdxakMPGSDidajykh9sa) | [Buh](https://open.spotify.com/artist/6QWJGmTjhSkRhtOcNWJJat) | [El Split de Buh & Millones de Colores](https://open.spotify.com/album/7KNtgrH3CJojbrDzBtePCR) | 0:54 |
 | 48 | [Fantasmas en Casa](https://open.spotify.com/track/43ghfQUS2whU1tTyyPL9H4) | [Películas como Juno](https://open.spotify.com/artist/4xb8uZ6aiaVBeypI8rGal8) | [Fantasmas en Casa](https://open.spotify.com/album/36BLAYZliGj9SE4bOtlenX) | 3:00 |

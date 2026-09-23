@@ -1,6 +1,6 @@
 {
   "description": "A batida certa para o seu treino",
-  "num_followers": 307997,
+  "num_followers": 307955,
   "original_name": "Treino Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -1703,18 +1703,26 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
-        "name": "Quaresma",
-        "url": "https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9"
+        "name": "Light It Up (with Tyga & Chris Brown)",
+        "url": "https://open.spotify.com/album/4jOMXJSDTGNMZMhUbwH7AZ"
       },
       "artists": [
         {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 74500,
-      "name": "Quaresma",
-      "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
+      "duration_ms": 137448,
+      "name": "Light It Up (with Tyga & Chris Brown)",
+      "url": "https://open.spotify.com/track/4Q8aDd3H6LF8t4eY7So9O8"
     },
     {
       "added_at": "2026-08-07 14:26:24",
@@ -1743,26 +1751,18 @@
     {
       "added_at": "2026-08-07 14:26:24",
       "album": {
-        "name": "Light It Up (with Tyga & Chris Brown)",
-        "url": "https://open.spotify.com/album/4jOMXJSDTGNMZMhUbwH7AZ"
+        "name": "Quaresma",
+        "url": "https://open.spotify.com/album/5BXNfTW8DFCsG2KQ8rlae9"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
         }
       ],
-      "duration_ms": 137448,
-      "name": "Light It Up (with Tyga & Chris Brown)",
-      "url": "https://open.spotify.com/track/4Q8aDd3H6LF8t4eY7So9O8"
+      "duration_ms": 74500,
+      "name": "Quaresma",
+      "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
     },
     {
       "added_at": "2026-08-07 14:26:24",

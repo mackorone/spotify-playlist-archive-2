@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 281330,
+  "num_followers": 281350,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "House Of Jade",
-        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
-      },
-      "artists": [
-        {
-          "name": "Eugene Lambert",
-          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
-        }
-      ],
-      "duration_ms": 442000,
-      "name": "Estate",
-      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Bossa De Urso",
         "url": "https://open.spotify.com/album/3s8B4suX6KzEx4ApdR5gZO"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 194095,
       "name": "Bossa De Urso",
       "url": "https://open.spotify.com/track/5O0TcQZyWh61EMnDwOwPQQ"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "House Of Jade",
+        "url": "https://open.spotify.com/album/6yZpRJ5kwvKg67eiI8uRZR"
+      },
+      "artists": [
+        {
+          "name": "Eugene Lambert",
+          "url": "https://open.spotify.com/artist/0Qgio0Sb91TA2BZMDmaIvl"
+        }
+      ],
+      "duration_ms": 442000,
+      "name": "Estate",
+      "url": "https://open.spotify.com/track/5zAGy79fGOXmJILqCGf0Q1"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
-        "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
-      },
-      "artists": [
-        {
-          "name": "Antonio Adolfo",
-          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
-        },
-        {
-          "name": "Leila Pinheiro",
-          "url": "https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb"
-        }
-      ],
-      "duration_ms": 204394,
-      "name": "Cl\u00e1udia",
-      "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Este seu olhar / Promessas",
         "url": "https://open.spotify.com/album/547xruDRV40FshGIzdcZHg"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 212727,
       "name": "Este seu olhar / Promessas",
       "url": "https://open.spotify.com/track/03c2G5aK5K7tpzxezRX3RH"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Vamos Partir Pro Mundo - a M\u00fasica de Antonio Adolfo e Tib\u00e9rio Gaspar",
+        "url": "https://open.spotify.com/album/7cUhVVnTCLut3xdKKRkCFa"
+      },
+      "artists": [
+        {
+          "name": "Antonio Adolfo",
+          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
+        },
+        {
+          "name": "Leila Pinheiro",
+          "url": "https://open.spotify.com/artist/4YBLaoTWDgIwBB6Y61Y6Nb"
+        }
+      ],
+      "duration_ms": 204394,
+      "name": "Cl\u00e1udia",
+      "url": "https://open.spotify.com/track/6kWTVslk9c1Vm7LCqwnssP"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -867,30 +867,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Bossa nova - Girls from Bela Vista",
-        "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
-      },
-      "artists": [
-        {
-          "name": "Petit Comit\u00e9",
-          "url": "https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK"
-        },
-        {
-          "name": "Maur\u00edcio Tagliari",
-          "url": "https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml"
-        },
-        {
-          "name": "Luca Raele",
-          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
-        }
-      ],
-      "duration_ms": 264722,
-      "name": "Girls from Bela Vista",
-      "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "entre o mar e o c\u00e9u",
         "url": "https://open.spotify.com/album/7ew2ugCeEgiTMEB6spRuzZ"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 222496,
       "name": "entre o mar e o c\u00e9u",
       "url": "https://open.spotify.com/track/2O1OdpqavDnaN8it2x2JuX"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Bossa nova - Girls from Bela Vista",
+        "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
+      },
+      "artists": [
+        {
+          "name": "Petit Comit\u00e9",
+          "url": "https://open.spotify.com/artist/3gSyEcwH7JrMJPubpcHiIK"
+        },
+        {
+          "name": "Maur\u00edcio Tagliari",
+          "url": "https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml"
+        },
+        {
+          "name": "Luca Raele",
+          "url": "https://open.spotify.com/artist/0mciU04JoXZua4RVSLqyW3"
+        }
+      ],
+      "duration_ms": 264722,
+      "name": "Girls from Bela Vista",
+      "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "M\u00fasicas para Travessia",
-        "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
-      },
-      "artists": [
-        {
-          "name": "Haroldo Bontempo",
-          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
-        },
-        {
-          "name": "Lina Lanna",
-          "url": "https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F"
-        }
-      ],
-      "duration_ms": 124088,
-      "name": "Na Casa do Jornalista",
-      "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Eu Canto pro Dia Nascer",
         "url": "https://open.spotify.com/album/6ttt7ffHs2egzpwuQNHKjN"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 197672,
       "name": "Eu Canto pro Dia Nascer",
       "url": "https://open.spotify.com/track/3qvOBE1XoAdmzot2Uak4lx"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "M\u00fasicas para Travessia",
+        "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
+      },
+      "artists": [
+        {
+          "name": "Haroldo Bontempo",
+          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
+        },
+        {
+          "name": "Lina Lanna",
+          "url": "https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F"
+        }
+      ],
+      "duration_ms": 124088,
+      "name": "Na Casa do Jornalista",
+      "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Na Palavra",
-        "url": "https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Gardel",
-          "url": "https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Musa em Fuga",
-      "url": "https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "A paz que desejamos",
         "url": "https://open.spotify.com/album/4UtfTgEX52zOjNyWmwb6Sl"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 191232,
       "name": "A paz que desejamos",
       "url": "https://open.spotify.com/track/5e7ztWak213GequwvCnK0l"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Na Palavra",
+        "url": "https://open.spotify.com/album/4OuIsBUgmKc4bJXFrWFP7G"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Gardel",
+          "url": "https://open.spotify.com/artist/4II15TI08y2EUSlf58tuZG"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Musa em Fuga",
+      "url": "https://open.spotify.com/track/72f50hmgQ0l3kjFe24de2Z"
     },
     {
       "added_at": "2026-08-14 03:00:55",

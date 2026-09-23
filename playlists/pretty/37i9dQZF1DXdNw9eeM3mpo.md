@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. La Tremenda Korte en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,022 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,062 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 42 | [La Zona del Terror](https://open.spotify.com/track/3Y8xPwMiPWyzCeqLhkVLmZ) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:03 |
 | 43 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
 | 44 | [Estrella Roja](https://open.spotify.com/track/6sNGJP7X3DSmQsdSD91Eu0) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:17 |
-| 45 | [Y Te Aprovechas](https://open.spotify.com/track/7wvzKAujTdye9Elv6lySCJ) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [RENEE](https://open.spotify.com/artist/1Fo5k1osxJ1VG92yHXMkxL) | [Y Te Aprovechas](https://open.spotify.com/album/66wBwAxoEJ2unPLW8zluEA) | 3:28 |
-| 46 | [Zorro](https://open.spotify.com/track/3wpwKI50UA6D2kMSd6gOzT) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Zorro](https://open.spotify.com/album/0safdYHz6zOlYLpBJwMlKs) | 2:14 |
+| 45 | [Zorro](https://open.spotify.com/track/3wpwKI50UA6D2kMSd6gOzT) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu) | [Zorro](https://open.spotify.com/album/0safdYHz6zOlYLpBJwMlKs) | 2:14 |
+| 46 | [Y Te Aprovechas](https://open.spotify.com/track/7wvzKAujTdye9Elv6lySCJ) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [RENEE](https://open.spotify.com/artist/1Fo5k1osxJ1VG92yHXMkxL) | [Y Te Aprovechas](https://open.spotify.com/album/66wBwAxoEJ2unPLW8zluEA) | 3:28 |
 | 47 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
 | 48 | [Ojos Cafés](https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv) | [Skapital Sound](https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi) | [Flamingo](https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU) | 4:00 |
 | 49 | [Su Majestad](https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 3:39 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 70 | [Recuerdos](https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Mugre](https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835) | 3:42 |
 | 71 | [No Te Apartes de Mí](https://open.spotify.com/track/1AiUModxUazhkkhaYWCgcM) | [Baby Aventurero](https://open.spotify.com/artist/1eP1MBd6JVgwcen8WOjFNs), [Percance](https://open.spotify.com/artist/4Q8gIPN30yQkI8cs2xwqmY) | [No Te Apartes de Mí](https://open.spotify.com/album/2c1drgYffmuONQpPAOPzAv) | 3:17 |
 | 72 | [Sueños](https://open.spotify.com/track/6btqDJJrlwzfv9YNRH9Gj1) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE) | [Sound System](https://open.spotify.com/album/2AO1JqXocz1rRdJS2qhg8N) | 3:07 |
-| 73 | [Corrupción Ska](https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Revolusound Contra Sistema](https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH) | 3:04 |
-| 74 | [Contigo Me Encontré](https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Contigo Me Encontré](https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0) | 3:22 |
+| 73 | [Contigo Me Encontré](https://open.spotify.com/track/2SN72e6qe7mpWILUt66RqO) | [Negros Vivos](https://open.spotify.com/artist/72QOOwPYcqNkXXG5XHo0cJ) | [Contigo Me Encontré](https://open.spotify.com/album/5J6JbwOc4Ro0FXWjRPXAG0) | 3:22 |
+| 74 | [Corrupción Ska](https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Revolusound Contra Sistema](https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH) | 3:04 |
 | 75 | [Caras y Caretas](https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Chamuyo](https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr) | 3:10 |
 | 76 | [Aquí Estamos](https://open.spotify.com/track/7AQGYyve2qTrEiIUitZhqy) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Aquí Estamos](https://open.spotify.com/album/3ZFGpnouTmOuER9kTaom0s) | 3:03 |
 | 77 | [Mandar Obedeciendo](https://open.spotify.com/track/3cHjMYDl0nBEL940bTxxcO) | [Rude Boys](https://open.spotify.com/artist/4o3k1NXafCHBNUROdhaK3Z) | [Mandar Obedeciendo](https://open.spotify.com/album/57q4YukTgibWMPUN3mw0DP) | 3:13 |

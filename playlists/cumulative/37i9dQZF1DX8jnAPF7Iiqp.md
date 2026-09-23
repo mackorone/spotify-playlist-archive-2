@@ -4,7 +4,7 @@
 
 > Running or raving? We've got a load of drum & bass to help with that!
 
-404 songs - 1 day 0 hr 0 min
+405 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Come Down](https://open.spotify.com/track/4H8UCydV1B54wpzkqurvdW) | [Wilkinson](https://open.spotify.com/artist/6m8itYST9ADjBIYevXSb1r) | [Come Down](https://open.spotify.com/album/6qhndQjbYPIuNuv4Rjfpj4) | 3:03 | 2026-03-12 |  |
 | [Comedown](https://open.spotify.com/track/3kYENrUwhbTu4iylBisph0) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T) | [Comedown](https://open.spotify.com/album/3GWl74uAhfuBmwx1de0YHW) | 2:36 | 2024-02-23 | 2025-02-21 |
 | [Could This Be \- Malux Remix](https://open.spotify.com/track/0Zk1BjKYDNOhOxCzLvHKDm) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [Malux](https://open.spotify.com/artist/6CNd7Wpb36Ls8k7eHRWX3T) | [The Resonance I](https://open.spotify.com/album/4sHhgA2VkNByHjNX1ssCzC) | 3:29 | 2021-12-21 | 2022-07-03 |
-| [Danger](https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Danger](https://open.spotify.com/album/4jUFrsx7SUpl3loOdo14MH) | 2:19 | 2026-07-23 |  |
+| [Danger](https://open.spotify.com/track/0emddmBnIrINlvtvtuLkXI) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Danger](https://open.spotify.com/album/4jUFrsx7SUpl3loOdo14MH) | 2:19 | 2026-07-23 | 2026-09-23 |
 | [Danger Zone](https://open.spotify.com/track/2CMZuUTbQ6chojKU64Z04Z) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Danger Zone](https://open.spotify.com/album/2qU64xyrto5ARW4Y9aSlJk) | 2:38 | 2025-07-03 | 2026-07-02 |
 | [Darlin' \(feat\. Sean Paul & Brodie\)](https://open.spotify.com/track/3nzc4SgSCinAI09fpGaHxT) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Darlin' \(feat\. Sean Paul & Brodie\)](https://open.spotify.com/album/0ixEaoNaJMDniffs0HfMpt) | 2:34 | 2026-03-12 |  |
 | [Dayfall](https://open.spotify.com/track/6Ajue5zNJ44SGKXnqXSrhg) | [Telomic](https://open.spotify.com/artist/2uCrvTUHRA9kuW4IA67oDn), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Dayfall](https://open.spotify.com/album/1ui6rZ7vZIt79JfiYxYn8o) | 4:09 | 2021-12-21 | 2022-07-29 |
@@ -92,6 +92,7 @@
 | [Desert Lights](https://open.spotify.com/track/2kjJ1xdKz2HAekHqQgZCQb) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Desert Lights](https://open.spotify.com/album/5pBnoZT8nkh7T4Gf9O6to5) | 4:49 | 2021-12-21 | 2022-05-05 |
 | [Devotion \(ft\. Cameron Hayes\)](https://open.spotify.com/track/5TGdeBW6v7BuGYjtiFKwyC) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [Devotion \(ft\. Cameron Hayes\)](https://open.spotify.com/album/1GUMG0SjpoP5ulPmB0WJbP) | 3:10 | 2021-12-21 | 2022-11-26 |
 | [Division](https://open.spotify.com/track/5nhbj6BKDgXoqnqWw8XHp4) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Division](https://open.spotify.com/album/3CwbKYkIPMaG5Hfjkjtz3H) | 3:47 | 2022-07-05 | 2023-04-14 |
+| [Do U Feel It Now?](https://open.spotify.com/track/6y83sQah0y3Zgc6XyHCjma) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Do U Feel It Now?](https://open.spotify.com/album/7va8M0Y0BPQTDR93pJw5GL) | 3:51 | 2026-08-20 |  |
 | [Do U?](https://open.spotify.com/track/5fVHnXgkgwChihVXUpAcKs) | [Ownglow](https://open.spotify.com/artist/5y0Z76say1n6Vj2mQnUHNj) | [Do U?](https://open.spotify.com/album/6chkcjpptWhXEqjhl0ZtAK) | 4:42 | 2021-12-21 | 2022-07-23 |
 | [Dominoes](https://open.spotify.com/track/2XTVCQI1LwJOiwKGA14co2) | [Deadline](https://open.spotify.com/artist/4ODNQly5SX6AWp8P5mRzGq), [Charlotte Haining](https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w) | [Dominoes](https://open.spotify.com/album/6gfAyF4xs5Lx9HP4alQNJq) | 4:12 | 2021-12-21 | 2022-08-06 |
 | [Dominos \- Friction Remix](https://open.spotify.com/track/22dsfbjCdIarRPGXy7Un9l) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR), [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Dominos \(Friction Remix\)](https://open.spotify.com/album/2gPgmHX8GIV0qJWm7vDVBk) | 2:59 | 2024-03-22 | 2024-06-01 |

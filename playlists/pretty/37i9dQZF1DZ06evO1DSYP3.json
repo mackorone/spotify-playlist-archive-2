@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5788,
+  "num_followers": 5789,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAB53K7Ltott52I6E+nMB/Uc",
+  "snapshot_id": "arBzgAAAAAC5ChEtlRQBCU43U1rhroDj",
   "tracks": [
     {
       "added_at": null,
@@ -279,30 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUMBLR (feat. E-40 & Kreayshawn)",
-        "url": "https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "Kreayshawn",
-          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
-        }
-      ],
-      "duration_ms": 164549,
-      "name": "DUMBLR (feat. E-40 & Kreayshawn)",
-      "url": "https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE ONE YOU WANTED",
         "url": "https://open.spotify.com/album/0hwGsLDlg8Y2Xx9gxRAukv"
       },
@@ -323,6 +299,30 @@
       "duration_ms": 190562,
       "name": "100 Days (Feat. YG, P-Lo)",
       "url": "https://open.spotify.com/track/5asOAhaqBPpKyljdVBbbJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUMBLR (feat. E-40 & Kreayshawn)",
+        "url": "https://open.spotify.com/album/0gtLz7IFgVzowVZl2x7FB8"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "Kreayshawn",
+          "url": "https://open.spotify.com/artist/51xJF4OqJPHWop1fv0VVyd"
+        }
+      ],
+      "duration_ms": 164549,
+      "name": "DUMBLR (feat. E-40 & Kreayshawn)",
+      "url": "https://open.spotify.com/track/66zUFMPJfF36bi0rdWORz7"
     },
     {
       "added_at": null,
@@ -655,6 +655,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "drink bleach",
+        "url": "https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "shake ya ass (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "What We On (feat. E-40)",
         "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
       },
@@ -683,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "drink bleach",
-        "url": "https://open.spotify.com/album/4VQDvbycoUett0aIo9ku6r"
+        "name": "PRIME",
+        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
       },
       "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 201600,
-      "name": "shake ya ass (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/0quqp7sNqZnyrePWcTPfpi"
+      "duration_ms": 159064,
+      "name": "bamboo",
+      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRIME",
-        "url": "https://open.spotify.com/album/6hXlWzbFJ2JNBi3BWnEEyL"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 159064,
-      "name": "bamboo",
-      "url": "https://open.spotify.com/track/17Rcrd4ARqY9CkQGUFPhJS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Feel Me?",
         "url": "https://open.spotify.com/album/319EhuTWQQRHTQqSutFXsl"
       },
@@ -775,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Connected And Respected",
-        "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
-      },
-      "artists": [
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
-        },
-        {
-          "name": "B-Legit",
-          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 221287,
-      "name": "Boy (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The Soil",
         "url": "https://open.spotify.com/album/5HZj48pfDAjluhAPucf2i3"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 217710,
       "name": "Suede",
       "url": "https://open.spotify.com/track/7rE63u9OUe86CJbBF0jdAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Connected And Respected",
+        "url": "https://open.spotify.com/album/2BThd0FFROidBahO46lH1y"
+      },
+      "artists": [
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
+        },
+        {
+          "name": "B-Legit",
+          "url": "https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 221287,
+      "name": "Boy (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Good Life",
+        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+      },
+      "artists": [
+        {
+          "name": "Collie Buddz",
+          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 175354,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Before Anything - EP",
         "url": "https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18"
       },
@@ -1031,22 +1051,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Life",
-        "url": "https://open.spotify.com/album/73UMkXyGZFvTlZLk3cdw7j"
+        "name": "Forgotten Island (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/35c85zu97RJsuQm9iefPoG"
       },
       "artists": [
         {
-          "name": "Collie Buddz",
-          "url": "https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1"
+          "name": "Guapdad 4000",
+          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 175354,
-      "name": "Level",
-      "url": "https://open.spotify.com/track/2bfLEoVYRuKmOA4eNe6qLT"
+      "duration_ms": 118640,
+      "name": "Double Up",
+      "url": "https://open.spotify.com/track/6x73uFEIQkOpG1g5mMmBxu"
     },
     {
       "added_at": null,
@@ -1071,26 +1091,6 @@
       "duration_ms": 268800,
       "name": "Too Faded Remix",
       "url": "https://open.spotify.com/track/6kAyNOwKKB1h7d6Lx0E9gY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forgotten Island (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/35c85zu97RJsuQm9iefPoG"
-      },
-      "artists": [
-        {
-          "name": "Guapdad 4000",
-          "url": "https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 118640,
-      "name": "Double Up",
-      "url": "https://open.spotify.com/track/6x73uFEIQkOpG1g5mMmBxu"
     }
   ],
   "unique_name": "This Is P-Lo",

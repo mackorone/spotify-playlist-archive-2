@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요\. \(Enjoy hip\-hop music with a soft, luxurious jazz flavor.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,915 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,922 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 40 | [Flower Cafe \(feat.Sam Ock, I.M\)](https://open.spotify.com/track/6RQvFKIxNRVTLc1MEXNZ5W) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd), [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Flower Cafe](https://open.spotify.com/album/6MKWAKWXXO3hF7JK3KoVWd) | 3:07 |
 | 41 | [MY MAN](https://open.spotify.com/track/5b7tap7ob0rrZIA2DsyOQe) | [1ANDON](https://open.spotify.com/artist/3FuZ5fJDy5kgZ994gpSmEf), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [Yun Seokcheol](https://open.spotify.com/artist/2CducdjCN6kUjcecP0U5we) | [MY MAN](https://open.spotify.com/album/5m4tzRlNB4CCP2ZPf8YgBC) | 2:50 |
 | 42 | [Piss On Me](https://open.spotify.com/track/4GJy4M67insCFuAUhluOza) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv) | [Life+unconsciousness](https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx) | 3:13 |
-| 43 | [Unknown guy](https://open.spotify.com/track/3L35k66dy48LZCty4rOqxM) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:07 |
-| 44 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
+| 43 | [Girl in New York \(jazz\)](https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 4:00 |
+| 44 | [Unknown guy](https://open.spotify.com/track/3L35k66dy48LZCty4rOqxM) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [16 Fantasy](https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR) | 3:07 |
 | 45 | [today also \(feat\. Paloalto & The Quiett\)](https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 4:08 |
 | 46 | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/track/3EhrOTY5Xlb0OOc8miuZGN) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [INSTANT \(feat\. SUMIN\)](https://open.spotify.com/album/6L6muVWjU1eq1StwzmNkV0) | 2:58 |
 | 47 | [Room Service](https://open.spotify.com/track/2T3ghpZrxmbrn9ukDmrc9W) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [ROOM SERVICE](https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0) | 2:35 |
 | 48 | [Undertaker \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/4bU9VYTfIbgA1vqUvXEsgg) | [Yung Blesh](https://open.spotify.com/artist/4brsMLGzcBIcMFiow8fRfZ), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [Am I Trippin'?](https://open.spotify.com/album/0U8JxnnjXex1ZYi2MK2adm) | 2:31 |
 | 49 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 |
-| 50 | [paris and tokyo](https://open.spotify.com/track/6SMtaDw5xVGTPVexnw2eLM) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:52 |
+| 50 | [Flowers \(feat.Justhis\)](https://open.spotify.com/track/1S1nLBl7wUQUfIF9tfSEMR) | [Mad Clown](https://open.spotify.com/artist/0dX6tgZKWpamoFHFuXFhwd), [저스디스 \(JUSTHIS\)](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Piece of mine](https://open.spotify.com/album/3UJRHoUkXc5Gt1Ej6qMwJ4) | 3:55 |
 
 Snapshot ID: `AAAAAPFBDZ8T09QY7zc2FFv9a5rR5nyI`

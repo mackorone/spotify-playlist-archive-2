@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272 likes - 177 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 273 likes - 177 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 24 | [UNA MÁS](https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [DYNASTY](https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome) | 2:46 |
 | 25 | [XQ Te Pones Así](https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 3:38 |
 | 26 | [Amiga Mía](https://open.spotify.com/track/1tTEcJKC5uAtIoPrWCkmXZ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:44 |
-| 27 | [Dile Luna](https://open.spotify.com/track/4n0JnrS5az8qhhQRuofBfo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:07 |
-| 28 | [Tropicoqueta](https://open.spotify.com/track/3l8zyeHnG8u2q7H4FQyVtS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:35 |
+| 27 | [Tropicoqueta](https://open.spotify.com/track/3l8zyeHnG8u2q7H4FQyVtS) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:35 |
+| 28 | [Dile Luna](https://open.spotify.com/track/4n0JnrS5az8qhhQRuofBfo) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Eddy Lover](https://open.spotify.com/artist/7gR53ad9JjCweCv4f9MWEX) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 3:07 |
 | 29 | [JORDAN IV](https://open.spotify.com/track/5ZyNCQmxZlYZfAHeJXTkI2) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [INTER SHIBUYA \- LA MAFIA](https://open.spotify.com/album/4hUQ4FB9GD5oDmw3XHIr0G) | 2:42 |
 | 30 | [El vino de tu boca](https://open.spotify.com/track/3ytU2WojnV7zmKA9yb3gMu) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 2:48 |
 | 31 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 71 | [Oye BB](https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Oye BB](https://open.spotify.com/album/3dRkgg45xl85zTpkZvSqPV) | 2:27 |
 | 72 | [Estas Ganas](https://open.spotify.com/track/35QVq8aR3WV4IVx77RPyRw) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [CANDELA](https://open.spotify.com/album/0W4uzJosq3k7sQTilfzo3t) | 2:46 |
 | 73 | [FICHAJE DEL AÑO](https://open.spotify.com/track/0shb1hFrVP3Lstj1mmaHiQ) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [2.1](https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay) | 3:13 |
-| 74 | [Pa' Guayarte](https://open.spotify.com/track/77J8t2pFJYI8k4tZgJ3ybY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:17 |
-| 75 | [La Culpable](https://open.spotify.com/track/7L6xzpdRR1fbMd3tMUqGlr) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [La Culpable](https://open.spotify.com/album/6CyGPqtDn4hfis24yIEjXr) | 2:46 |
+| 74 | [La Culpable](https://open.spotify.com/track/7L6xzpdRR1fbMd3tMUqGlr) | [Jalil Lopez](https://open.spotify.com/artist/1lE4AVltTIHnpsWVdN58jN) | [La Culpable](https://open.spotify.com/album/6CyGPqtDn4hfis24yIEjXr) | 2:46 |
+| 75 | [Pa' Guayarte](https://open.spotify.com/track/77J8t2pFJYI8k4tZgJ3ybY) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:17 |
 | 76 | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/track/51FihYpM9aCxMcmG09Z2VG) | [Elio Leiros](https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/album/2mXMkrvsDuokZdnRK9Spc8) | 3:14 |
 | 77 | [Sincero](https://open.spotify.com/track/4UEd4q4IHbj12G58IPNZJz) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:15 |
 | 78 | [A Escondidas](https://open.spotify.com/track/4HVzCG4ntiixZjPwOUFWHu) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:20 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 176 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 | 177 | [Bby Wow](https://open.spotify.com/track/3Spvhpwuve2sQVtNMwZKSU) | [Facu Sanchez](https://open.spotify.com/artist/06ZoIY0fIJCba5QICxblJG) | [Bby Wow](https://open.spotify.com/album/6OXQ6XF2mBdL7gyg9wHh94) | 2:15 |
 
-Snapshot ID: `Acc7nAAAAAACIMnRbFgizEMOuAi8epKY`
+Snapshot ID: `AcdBRgAAAACxPJ3Hp5wqdLZN0jjd3GdU`

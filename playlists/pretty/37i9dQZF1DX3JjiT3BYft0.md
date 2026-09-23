@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,980 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,978 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 74 | [Hi\-Vision](https://open.spotify.com/track/0rNLITsnaH7Uanwqn4ZHqf) | [夢限大みゅーたいぷ](https://open.spotify.com/artist/2EzWYxIHqUD1RWBOuSjxtK) | [Hi\-Vision](https://open.spotify.com/album/7qOeisRofcVZijOX9dLQlJ) | 3:00 |
 | 75 | [星の約束](https://open.spotify.com/track/6F8xnT2B7MuImmA6VS7Bw2) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [POPIGENIC](https://open.spotify.com/album/4J0ob8cyT5lF023GxAnVF4) | 4:04 |
 
-Snapshot ID: `AAAAACxUc4SGmGu6/Dr2G35Gk7QiLluk`
+Snapshot ID: `AAAAALIEtflMlXKm7mpxr0gGpHjqaPz8`

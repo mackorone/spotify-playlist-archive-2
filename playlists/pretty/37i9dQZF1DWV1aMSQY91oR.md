@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest in hip\-hop, refreshed weekly\. Cover: TOBi
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,176 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,195 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 37 | [Yiccen](https://open.spotify.com/track/3xSR1SmielI1yzhYh841wt) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Yiccen](https://open.spotify.com/album/5hHk1Fnk1AldOTXpcvw7Kh) | 2:18 |
 | 38 | [Grab Your Popcorn \- Remix](https://open.spotify.com/track/4eiLbvXLYIAoW4Lj2Rjm6a) | [KUR](https://open.spotify.com/artist/1l9MB9QHLcmvuI3wwiWCkB), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Grab Your Popcorn \(Remix\)](https://open.spotify.com/album/2dsGJgx0Lc5fOnyVnzeIrs) | 4:26 |
 | 39 | [LIFE](https://open.spotify.com/track/5BrduhEFRULhUw1YorXoJW) | [Traffic](https://open.spotify.com/artist/5z4GIgsp4Ex4mTJBaIcRG2), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Saint Pat Beatz](https://open.spotify.com/artist/6tU9QPA8WWVqRyTSeD8KkS), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [LIFE](https://open.spotify.com/album/6c6Yu97fDseg3vAuhnsF4W) | 4:00 |
-| 40 | [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 3:45 |
+| 40 | [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 4:45 |
 | 41 | [Spend Dat \(feat\. Lil Baby & Kodak Black\) \- Remix](https://open.spotify.com/track/7rPM3CAKNy9Pf09k1Fnqhm) | [Yung Miami](https://open.spotify.com/artist/5lbW0rNhFyCiSlClBMYbki), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Spend Dat \(Remix\)](https://open.spotify.com/album/4QFNvWaitTyvKr3yoDXjc5) | 3:14 |
 | 42 | [i was gone](https://open.spotify.com/track/4tc63itlGrACm0prjhHD8v) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [i was gone](https://open.spotify.com/album/5Rrmr45Yfy9dqttbh5k1ia) | 2:36 |
 | 43 | [Who's Down](https://open.spotify.com/track/5CgXOdDIVPufhlmjZyulhZ) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB), [Kraftykid](https://open.spotify.com/artist/5pRWzyK7lEorYbAwsX4ord) | [Who's Down](https://open.spotify.com/album/6sfrSwMGqA53IpGHEE1LdE) | 2:56 |

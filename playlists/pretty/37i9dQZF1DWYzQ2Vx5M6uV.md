@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Latin Afrobeats heat that will make you sweat 🥵 Cover: Luister La Voz & Manuel Turizo
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,187 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,176 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,21 +92,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 82 | [Loba](https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Loba](https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3) | 4:17 |
 | 83 | [Volver a Verte](https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX), [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz) | [Volver a Verte](https://open.spotify.com/album/6xn0R7Iv47dIgId3xv9zaw) | 3:03 |
 | 84 | [WAYO :\(](https://open.spotify.com/track/2tPFQ2c5qhizm20bfYoTnP) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [WAYO :\(](https://open.spotify.com/album/3xaUmy3eNYZJk4lrKUa3lI) | 2:25 |
-| 85 | [Momento Zero](https://open.spotify.com/track/1PzmZIxr5XIvfgRA1uYBqe) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm), [Mpax](https://open.spotify.com/artist/7cjS7KNLvZGL1f39wICavK) | [Momento Zero](https://open.spotify.com/album/2cwbnZ6i3Zrjt5guhxHw6d) | 2:37 |
-| 86 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
+| 85 | [NoNoNo](https://open.spotify.com/track/2nHLeUWCPePxL12o5JbHzZ) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [NoNoNo](https://open.spotify.com/album/3cVp5DmksK8HNLRn8gPGyh) | 2:30 |
+| 86 | [Momento Zero](https://open.spotify.com/track/1PzmZIxr5XIvfgRA1uYBqe) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm), [Mpax](https://open.spotify.com/artist/7cjS7KNLvZGL1f39wICavK) | [Momento Zero](https://open.spotify.com/album/2cwbnZ6i3Zrjt5guhxHw6d) | 2:37 |
 | 87 | [Moviendo El Piso](https://open.spotify.com/track/6Hl8NeXRjthQl4BTEkf2a5) | [Neomai](https://open.spotify.com/artist/0EMCLd5tzoPP35uUw23Pxz), [Rodezel](https://open.spotify.com/artist/6YPJT86SRYIhlWemoNEJ6x) | [Moviendo El Piso](https://open.spotify.com/album/0cdthXsqV8uzKH0Z3g3NJP) | 2:08 |
 | 88 | [Yeye](https://open.spotify.com/track/0fDfCZNxfJgxG9pdwnVT3B) | [Jonathan Moly](https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc), [Mohombi](https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr) | [Yeye](https://open.spotify.com/album/06s1jeHWriD0paXix3dr8U) | 2:19 |
 | 89 | [AKI KIKI](https://open.spotify.com/track/62QghWWjNMx29kAl33WJkz) | [RICCII](https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf) | [AKI KIKI](https://open.spotify.com/album/0TRDYgmb52CerzhhgiQGLF) | 2:07 |
-| 90 | [SQD Quilla](https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [SQD Quilla](https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw) | 2:01 |
-| 91 | [Usame](https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Usame](https://open.spotify.com/album/2FuMEHblngX534yhdoSkag) | 2:45 |
+| 90 | [Usame](https://open.spotify.com/track/38wIbM05SFodYw2fwiq5ut) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Usame](https://open.spotify.com/album/2FuMEHblngX534yhdoSkag) | 2:45 |
+| 91 | [SQD Quilla](https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [SQD Quilla](https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw) | 2:01 |
 | 92 | [ohsaye](https://open.spotify.com/track/5GjKk0yetuWZC6k5MIE6Ym) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [ohsaye](https://open.spotify.com/album/2IvvGxzzYmnpWGokt7jIG5) | 3:01 |
 | 93 | [Mesera](https://open.spotify.com/track/74sHaZwjnhnkE3pIxHpmpf) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Neeus](https://open.spotify.com/artist/4OMnvxQdSJeobzinrEjTpO) | [Mesera](https://open.spotify.com/album/42ggfZSRFICsjBcBeV7K0G) | 2:43 |
 | 94 | [Ese Habladito](https://open.spotify.com/track/4GwlidJhEFaJ5wSryBFvrf) | [Nono](https://open.spotify.com/artist/0zL8jjsngYMonC9YLeWy0p) | [Ese Habladito](https://open.spotify.com/album/6TtWEoDSzusyHrnMjiE2Ru) | 3:12 |
-| 95 | [Normal](https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5) | [Normal](https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1) | 2:11 |
-| 96 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
+| 95 | [Puntos Suspensivos](https://open.spotify.com/track/158YjH4OfLhG3AuUalaFUE) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk) | [Puntos Suspensivos](https://open.spotify.com/album/3oUsMQAhvY3PzAw6sT0y03) | 2:18 |
+| 96 | [Normal](https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2) | [Jeeiph](https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac), [Kénsel Tell Them](https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5) | [Normal](https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1) | 2:11 |
 | 97 | [No Esperes](https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Shine TTW](https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn) | [No Esperes](https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW) | 3:14 |
 | 98 | [Cafecito](https://open.spotify.com/track/0GBXXZLa3z9BQTeSK5ZmW3) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Cafecito](https://open.spotify.com/album/3J8oDzy6ixnEzhoxbADylh) | 2:43 |
 | 99 | [IYKYK](https://open.spotify.com/track/5VXD21Bvp8Jcw02eZpTJb5) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc) | [IYKYK](https://open.spotify.com/album/4V0aFNdTIXNLdSaScn702S) | 2:39 |
-| 100 | [a ti te matan las ganas](https://open.spotify.com/track/70QMAzkEfBICM5zV00g1DO) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ) | [a ti te matan las ganas](https://open.spotify.com/album/2LREJjlTQ33QZ2mVdbOcZq) | 2:29 |
+| 100 | [Tiempo Al Tiempo \(feat\. Goyo\)](https://open.spotify.com/track/35w0mouuaHqMZREv17LzvU) | [Ysa C](https://open.spotify.com/artist/6jmYNc5XuhmHOEf58AGeRk), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Tiempo Al Tiempo \(feat\. Goyo\)](https://open.spotify.com/album/4GudHPMW0hOEB0UVofI8Qy) | 2:47 |
 
 Snapshot ID: `AAAAAEO1wqk2s7Vx6/8O80x7sKQfsFZn`

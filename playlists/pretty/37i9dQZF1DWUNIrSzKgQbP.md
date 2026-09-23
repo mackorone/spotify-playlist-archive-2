@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 
 > Sweet songs for sunny days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,633,825 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,633,574 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 45 | [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 |
 | 46 | [Somebody Like Me](https://open.spotify.com/track/4Pta1RInQ95Al4Dj0qicmk) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:56 |
 | 47 | [Would It Kill Ya](https://open.spotify.com/track/3KeqB89usi14NMN0QZ1GkZ) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Would It Kill Ya](https://open.spotify.com/album/5vxy0bh4A9ZiFpsAqmoa4f) | 2:45 |
-| 48 | [Lost](https://open.spotify.com/track/4SqSQUcvtAbgfbNxYu7RPu) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Half Blue](https://open.spotify.com/album/2xxfXXIJResc3xJqArOZZP) | 3:52 |
-| 49 | [Summer of Love](https://open.spotify.com/track/3FCVhwlYIA4H6RYj9nsgHJ) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 4:48 |
+| 48 | [Summer of Love](https://open.spotify.com/track/3FCVhwlYIA4H6RYj9nsgHJ) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [So Long Little Miss Sunshine](https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr) | 4:48 |
+| 49 | [Lost](https://open.spotify.com/track/4SqSQUcvtAbgfbNxYu7RPu) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Half Blue](https://open.spotify.com/album/2xxfXXIJResc3xJqArOZZP) | 3:52 |
 | 50 | [blue jean](https://open.spotify.com/track/40vvgzQb8LSURO2Vh7dJgz) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [mountain of a memory](https://open.spotify.com/album/2Ct90NeLz3xERcabIYEHIT) | 4:36 |
 | 51 | [Let There Be Music](https://open.spotify.com/track/0lPGLgQBxWoecZASQE4Mhk) | [Bonny Doon](https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn) | [Let There Be Music](https://open.spotify.com/album/0TGeqEwbGZ0NpNM44x4hQP) | 4:41 |
 | 52 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson Harris](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUNIrSzKgQbP.md) - [plain]
 | 70 | [Shark Smile](https://open.spotify.com/track/0Fc0vCE3yWvAGKbU5twVOz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Capacity](https://open.spotify.com/album/3jXbdginoAtjcBqT7GcYRd) | 3:57 |
 | 71 | [California](https://open.spotify.com/track/6bQgMGR0zwVYYs2WU13PKR) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc) | [California](https://open.spotify.com/album/7p60qDZbD3VqHVhFQDX4Ry) | 3:16 |
 | 72 | [Hoagy's Place](https://open.spotify.com/track/6cJzZZ8z2NCBcHh2XDfkRv) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hoagy's Place](https://open.spotify.com/album/4I5qxVI5RqbTVzbqw9cwKP) | 3:05 |
-| 73 | [Scott Street](https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:05 |
-| 74 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 |
+| 73 | [Sick of This Feeling](https://open.spotify.com/track/4uofAamZ0yx9op14TjmQVp) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [A River Running to Your Heart](https://open.spotify.com/album/2n4dZnB3Iz7wWPdDQO3auX) | 3:33 |
+| 74 | [Scott Street](https://open.spotify.com/track/0jqFM7E9z1PLYtPVCuFwAi) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O) | 5:05 |
 | 75 | [Sunday Funday](https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Jockeys of Love](https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT) | 4:16 |
 
 Snapshot ID: `AAAAADafFxfhY/dKAxmrnXIYiB1cF73E`

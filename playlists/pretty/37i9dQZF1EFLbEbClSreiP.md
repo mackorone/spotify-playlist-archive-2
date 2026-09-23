@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 23 | [Vampire Time](https://open.spotify.com/track/5yDVOzmgF2jVaz7ilmm7IY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Florescence](https://open.spotify.com/album/0MOWqwwatV0LXDxhBZg5qO) | 3:20 |
 | 24 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 |
 | 25 | [Both Of Us](https://open.spotify.com/track/2Mtj4On4ARe1gnJER2g57a) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/0tqx2yq6GywrCBUMSfev3D) | 2:46 |
-| 26 | [Stormy Skies \- Diamonds](https://open.spotify.com/track/2PqUSyjbjVugUa9Duifn69) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Stormy Skies \(Diamonds\)](https://open.spotify.com/album/54Tp5WzymT6Nwh6Qd7gmZ2) | 3:33 |
-| 27 | [I'm your first](https://open.spotify.com/track/0A2HoxZR85pxu6QQNrdEgE) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB) | 2:54 |
+| 26 | [I'm your first](https://open.spotify.com/track/0A2HoxZR85pxu6QQNrdEgE) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB) | 2:54 |
+| 27 | [Stormy Skies \- Diamonds](https://open.spotify.com/track/2PqUSyjbjVugUa9Duifn69) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Stormy Skies \(Diamonds\)](https://open.spotify.com/album/54Tp5WzymT6Nwh6Qd7gmZ2) | 3:33 |
 | 28 | [Dance To This](https://open.spotify.com/track/1jPJXu6XaoxVCm3WW3h7NJ) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 2:54 |
 | 29 | [congrats! u did it!](https://open.spotify.com/track/1bUxz5fnnlXbNDTfPQcQhU) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [ache in my tooth](https://open.spotify.com/album/7v4V5gZA1KiktE3KijfMKO) | 3:23 |
 | 30 | [girls with gills](https://open.spotify.com/track/4iYMsU3ChTpDTR7gtfZJER) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [\(my world is an\) oyster](https://open.spotify.com/album/5KmSOOkB1iNgd3ZBhMgmB2) | 2:17 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLbEbClSreiP.md) - [plain]
 | 40 | [16 Seconds](https://open.spotify.com/track/0JfTfkLKYqXYPOZSa5Mdw4) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [MINI SKIRT WARRIOR](https://open.spotify.com/album/7Kmhb7ZghaugEnZ4ne8gyB) | 2:48 |
 | 41 | [together](https://open.spotify.com/track/2WxusqCab3SktOzhF9zokI) | [kammy](https://open.spotify.com/artist/4f90kqu2ZdLTFLCXPDsAG6), [kamille](https://open.spotify.com/artist/0XSz7OqyhKBKRq4ZU8WpAo) | [together](https://open.spotify.com/album/1bj28j1ekZiErCx33YIoMn) | 2:12 |
 
-Snapshot ID: `Acc7ugAAAADoHVQdR7LcsUtX9A9RVE6L`
+Snapshot ID: `AcdBZAAAAAC6qlAM/MB+YA3lYRCX5JkD`

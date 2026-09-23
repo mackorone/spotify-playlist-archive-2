@@ -2677,6 +2677,32 @@
     },
     {
       "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/0cUpF4YjIwDuG21I80E0UX"
+      },
+      "artists": [
+        {
+          "name": "Osamu Fukuzawa",
+          "url": "https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F"
+        },
+        {
+          "name": "INDIA BLUE",
+          "url": "https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI"
+        },
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "About Time",
+      "url": "https://open.spotify.com/track/0jDEO49itjO491BJRQyplY"
+    },
+    {
+      "album": {
         "name": "About U",
         "url": "https://open.spotify.com/album/0tf6O98muJfG4cUlayzAvq"
       },
@@ -52832,6 +52858,24 @@
       "duration_ms": 324000,
       "name": "If It Wasn't For You...",
       "url": "https://open.spotify.com/track/7jeoLM4HHzTivLzsbD7D3F"
+    },
+    {
+      "album": {
+        "name": "If It Wasn\u00b4t Me",
+        "url": "https://open.spotify.com/album/2kpvXcQVNvSTIltr1mHAxn"
+      },
+      "artists": [
+        {
+          "name": "IurisEkero",
+          "url": "https://open.spotify.com/artist/4yh3pmJ514U9AfOrcPZyID"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250272,
+      "name": "If It Wasn\u00b4t Me",
+      "url": "https://open.spotify.com/track/50j3wb6y1zn937ft44dbcv"
     },
     {
       "album": {
@@ -111922,6 +111966,24 @@
       "duration_ms": 257075,
       "name": "Trust Someone",
       "url": "https://open.spotify.com/track/2W5h3Vq7OqdyJovrnORqSZ"
+    },
+    {
+      "album": {
+        "name": "Trust The Feeling",
+        "url": "https://open.spotify.com/album/69FaJymBCVNTCUlca0bsMv"
+      },
+      "artists": [
+        {
+          "name": "Tessa Rae",
+          "url": "https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213067,
+      "name": "Trust The Feeling",
+      "url": "https://open.spotify.com/track/1tGjaxirxEHNKp5MZlTZzM"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 138881,
+  "num_followers": 138888,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Paris (U.S. Standard Version)",
-        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
-      },
-      "artists": [
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 236600,
-      "name": "Stars Are Blind",
-      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Never Really Over",
         "url": "https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 223523,
       "name": "Never Really Over",
       "url": "https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Paris (U.S. Standard Version)",
+        "url": "https://open.spotify.com/album/3jWfBkl247fFkyJprhd5qs"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 236600,
+      "name": "Stars Are Blind",
+      "url": "https://open.spotify.com/track/71V89tJj9CboDyzncO6ZN2"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Move To This (Polydor Expanded Edition)",
-        "url": "https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c"
-      },
-      "artists": [
-        {
-          "name": "Cathy Dennis",
-          "url": "https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Touch Me (All Night Long) - 7\" Mix",
-      "url": "https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "I Don't Wanna Grow Up",
         "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 207775,
       "name": "I'm Gonna Show You Crazy",
       "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Move To This (Polydor Expanded Edition)",
+        "url": "https://open.spotify.com/album/13wiPIgApSTk5vkBn6gF2c"
+      },
+      "artists": [
+        {
+          "name": "Cathy Dennis",
+          "url": "https://open.spotify.com/artist/2zVsfeSyFbCey7rq7PasHp"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Touch Me (All Night Long) - 7\" Mix",
+      "url": "https://open.spotify.com/track/1XF7umKqStpKnL2d2YZ53V"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "American Girl",
+        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie McKee",
+          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
+        }
+      ],
+      "duration_ms": 224106,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Record Collection",
         "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 297933,
       "name": "Somebody to Love Me",
       "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "American Girl",
-        "url": "https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie McKee",
-          "url": "https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N"
-        }
-      ],
-      "duration_ms": 224106,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD"
     },
     {
       "added_at": "2025-09-05 02:01:30",

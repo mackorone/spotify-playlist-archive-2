@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6LZpUXhjpy.md) - [plain]
 
 > Tus canciones favoritas de pop te acompañan a donde quiera que vayas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,333 likes - 68 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,342 likes - 68 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

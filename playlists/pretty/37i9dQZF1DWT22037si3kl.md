@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > pralém de outfit\. AURA\. Foto: M'DEP, DESSIIIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,359 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,372 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 44 | [Ruas Frias](https://open.spotify.com/track/5Omd3iQ7w09CsoFBfZrKMM) | [Thxuzz](https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q) | [Ruas Frias](https://open.spotify.com/album/12UMQAWVys24LITebtbIdY) | 3:33 |
 | 45 | [placo no pulso](https://open.spotify.com/track/58tNC9k8yZjqQoo7i11mbf) | [Menó Felps](https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP), [Caio Shock](https://open.spotify.com/artist/2izEQyLWlnMyweDkHfNrwp) | [placo no pulso](https://open.spotify.com/album/13AXMnEcwvaKf37hrMgb2X) | 2:56 |
 | 46 | [PRETO DE VITRINE](https://open.spotify.com/track/5gvLZphACEQd8O49b0dvac) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Miranda On The Trk!](https://open.spotify.com/artist/49F1YPFCspHWmoA8tPqHLc), [MixbyGaijin](https://open.spotify.com/artist/5yiQQsEuh10OhXClxBtYMM) | [PRETO DE VITRINE](https://open.spotify.com/album/3YDq0DisiOVRN4khwWJH6X) | 2:53 |
-| 47 | [garota gostosa da po\#$@](https://open.spotify.com/track/1vKBhJ5wQhwnPQDr41wy09) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [DKmixx](https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [F.A.Q\. LUV](https://open.spotify.com/album/63jNMv0PaZWEPzRcVhzdY5) | 2:25 |
-| 48 | [ESTRATÉGIA](https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Da Ponte Pra Lá O Futuro Das Ruas](https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP) | 2:59 |
+| 47 | [ESTRATÉGIA](https://open.spotify.com/track/6t6aNasqHYxgPjBj9XkMKD) | [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh), [UM ENT](https://open.spotify.com/artist/1ozY6QxjXGAwoU88CfyAWT) | [Da Ponte Pra Lá O Futuro Das Ruas](https://open.spotify.com/album/4WJUEes5B3xjTKUmr28BxP) | 2:59 |
+| 48 | [garota gostosa da po\#$@](https://open.spotify.com/track/1vKBhJ5wQhwnPQDr41wy09) | [TheJovemJota](https://open.spotify.com/artist/4IdpYE1f4LlAOuVVJqCcvV), [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [DKmixx](https://open.spotify.com/artist/6vbGN6MR9WOZMsOrFurBjX), [CASA 11](https://open.spotify.com/artist/5dDz0iCihss5uzRjrDlLZy), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [F.A.Q\. LUV](https://open.spotify.com/album/63jNMv0PaZWEPzRcVhzdY5) | 2:25 |
 | 49 | [KTRAP](https://open.spotify.com/track/1vFVE311YbgWWDQkJhBDd6) | [A$HP](https://open.spotify.com/artist/5oxgCTOTWnVbCyOXmDEZD9), [PROD OGG](https://open.spotify.com/artist/1aGYEe3T6Es7aIjI7ePvyb), [Marthian](https://open.spotify.com/artist/6yP6BN0EBh7xFek2c4Sh9J) | [KTRAP](https://open.spotify.com/album/0QUQSM3raRsnzXCa6kiNTz) | 2:11 |
 | 50 | [Givenchy](https://open.spotify.com/track/13ByvyMCrQs5zPnhIFpIYN) | [Blacka](https://open.spotify.com/artist/7CP3YMunVNU7kslDUDR3li) | [Luxe](https://open.spotify.com/album/2VbjJozJq7IyciVCGU2hWO) | 2:08 |
 

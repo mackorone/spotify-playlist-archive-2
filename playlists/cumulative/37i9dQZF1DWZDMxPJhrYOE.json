@@ -2537,6 +2537,28 @@
     },
     {
       "album": {
+        "name": "Dream House",
+        "url": "https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "Blood Orange",
+          "url": "https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188493,
+      "name": "Blue Light (feat. Blood Orange)",
+      "url": "https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP"
+    },
+    {
+      "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0"
       },
@@ -6832,7 +6854,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 216750,
       "name": "Everything in the shade",
       "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"

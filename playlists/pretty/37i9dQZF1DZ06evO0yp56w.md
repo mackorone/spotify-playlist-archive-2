@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 
 > This is Muse\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,914 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,970 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,28 +18,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 8 | [Madness](https://open.spotify.com/track/0c4IEciLCDdXEhhKxj4ThA) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:41 |
 | 9 | [Knights of Cydonia](https://open.spotify.com/track/7ouMYWpwJ422jRcDASZB7P) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 6:06 |
 | 10 | [Undisclosed Desires](https://open.spotify.com/track/0It6VJoMAare1zdV2wxqZq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 3:55 |
-| 11 | [Cryogen](https://open.spotify.com/track/7vZ9v4c0ft0ro30awMw32V) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 5:01 |
-| 12 | [Stockholm Syndrome](https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:56 |
+| 11 | [Stockholm Syndrome](https://open.spotify.com/track/3ox5lIXRf4r977FsE7JfXs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:56 |
+| 12 | [Cryogen](https://open.spotify.com/track/7vZ9v4c0ft0ro30awMw32V) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 5:01 |
 | 13 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 14 | [Resistance](https://open.spotify.com/track/1C2QJNTmsTxCDBuIgai8QV) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Resistance](https://open.spotify.com/album/0eFHYz8NmK75zSplL5qlfM) | 5:46 |
-| 15 | [The Sickness In You & I](https://open.spotify.com/track/15y1BArk8UmePx9hqQDh42) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 4:17 |
-| 16 | [Map of the Problematique](https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:18 |
+| 15 | [Map of the Problematique](https://open.spotify.com/track/5YXr4AGfUQpLSxtFSsKUh6) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 4:18 |
+| 16 | [The Sickness In You & I](https://open.spotify.com/track/15y1BArk8UmePx9hqQDh42) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 4:17 |
 | 17 | [Feeling Good](https://open.spotify.com/track/5PK1JCSdr34gWgzYHgt3Jq) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 3:18 |
 | 18 | [Supremacy](https://open.spotify.com/track/40pPI2TbaYSZlKfV44HRjn) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 4:55 |
-| 19 | [Shimmering Scars](https://open.spotify.com/track/7bRLb9t0fR0xBJvtnuhwpw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 4:28 |
-| 20 | [Butterflies & Hurricanes](https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 5:02 |
+| 19 | [Butterflies & Hurricanes](https://open.spotify.com/track/5XpJOQgVEuM1FzgeGXzUvk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 5:02 |
+| 20 | [Shimmering Scars](https://open.spotify.com/track/7bRLb9t0fR0xBJvtnuhwpw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 4:28 |
 | 21 | [Unintended](https://open.spotify.com/track/6kyxQuFD38mo4S3urD2Wkw) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:57 |
 | 22 | [Panic Station](https://open.spotify.com/track/1tjHKKI0r82IB5KL29whHs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The 2nd Law](https://open.spotify.com/album/3KuXEGcqLcnEYWnn3OEGy0) | 3:04 |
-| 23 | [Nightshift Superstar](https://open.spotify.com/track/51ukPU68k4Zl0cLdNGXaHn) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 4:07 |
-| 24 | [New Born](https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 6:03 |
+| 23 | [New Born](https://open.spotify.com/track/2VrJMuLt2m9HbifGrKWHqk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 6:03 |
+| 24 | [Nightshift Superstar](https://open.spotify.com/track/51ukPU68k4Zl0cLdNGXaHn) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 4:07 |
 | 25 | [Sunburn](https://open.spotify.com/track/5wq8wceQvaFlOZovDtfr0j) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 3:53 |
 | 26 | [Pressure](https://open.spotify.com/track/3eSyMBd7ERw68NVB3jlRmW) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:55 |
-| 27 | [The Dark Forest](https://open.spotify.com/track/1JIffDQIhTeOeqYW66uu9e) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 5:15 |
-| 28 | [Bliss](https://open.spotify.com/track/0j3obufLXq5toSs592dX9U) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 4:11 |
+| 27 | [Bliss](https://open.spotify.com/track/0j3obufLXq5toSs592dX9U) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 4:11 |
+| 28 | [The Dark Forest](https://open.spotify.com/track/1JIffDQIhTeOeqYW66uu9e) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 5:15 |
 | 29 | [Muscle Museum](https://open.spotify.com/track/5rupf5kRDLhhFPxH15ZmBF) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Showbiz](https://open.spotify.com/album/6AyUVv7MnxxTuijp4WmrhO) | 4:22 |
 | 30 | [Sing for Absolution](https://open.spotify.com/track/6Dct63YMBXtjGqCwr0HkYb) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 4:55 |
-| 31 | [Dead Inside](https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:22 |
-| 32 | [Space Dementia](https://open.spotify.com/track/00jXDm9BLNZdf2QC3Br0r7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 6:20 |
+| 31 | [Space Dementia](https://open.spotify.com/track/00jXDm9BLNZdf2QC3Br0r7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Origin of Symmetry](https://open.spotify.com/album/1Dh27pjT3IEdiRG9Se5uQn) | 6:20 |
+| 32 | [Dead Inside](https://open.spotify.com/track/2daZovie6pc2ZK7StayD1K) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 4:22 |
 | 33 | [Assassin](https://open.spotify.com/track/6JnFVmPyJvjnfBag0hhIFa) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Black Holes and Revelations](https://open.spotify.com/album/0lw68yx3MhKflWFqCsGkIs) | 3:31 |
 | 34 | [Interlude](https://open.spotify.com/track/0Qe6Us6taV5fVd3r87dFRP) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/2Eq6RyxCm7qEAF2YLOxa4s) | 0:38 |
 | 35 | [Thought Contagion](https://open.spotify.com/track/57lCa95tmjJ8EYdNTex8Kk) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0yp56w.md) - [plain]
 | 49 | [Dig Down](https://open.spotify.com/track/0RILico3Gbl5jxSNg3zLrJ) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:48 |
 | 50 | [Reapers](https://open.spotify.com/track/1244xKUG27TnmQhUJlo3gU) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:59 |
 
-Snapshot ID: `aq8iAAAAAACuCVn3vK37PtE/jcxUMtc0`
+Snapshot ID: `arBzgAAAAADPfmVKSpSlxD+766r/5//Q`

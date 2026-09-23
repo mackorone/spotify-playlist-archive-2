@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,564 likes - 100 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,586 likes - 100 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 18 | [First Storm \- Original Mix](https://open.spotify.com/track/3Dg9oNsbO5nanhJOQ9nV7j) | [Upwellings](https://open.spotify.com/artist/20erF0KNl2867pn4Ma9FvV) | [Blue Line Dubs](https://open.spotify.com/album/0fQ82uczUcDveJv1mUgoP1) | 6:17 |
 | 19 | [Resonance](https://open.spotify.com/track/0QJbWNtbx7IHfhuY4PNbK8) | [Substance](https://open.spotify.com/artist/10Y4yKA7f18p28qMA8uft2), [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Libration](https://open.spotify.com/album/179J6K90Pzd6LbtcRvvX6B) | 9:11 |
 | 20 | [Catsu](https://open.spotify.com/track/0lbQaP751MUEVtK0F4A43C) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [HomeSoon](https://open.spotify.com/album/1uoyioN7yCRAUoVpgZQHHD) | 4:27 |
-| 21 | [XRAY](https://open.spotify.com/track/2424itFKDyceMRejjiQugg) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 3:31 |
-| 22 | [Rock In The Video Age](https://open.spotify.com/track/6b9I77bVLGkPfhgeQHDzhS) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 8:03 |
+| 21 | [Rock In The Video Age](https://open.spotify.com/track/6b9I77bVLGkPfhgeQHDzhS) | [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Loop\-Finding\-Jazz\-Records](https://open.spotify.com/album/6UK4EMYa7by9xwU4eeAoE4) | 8:03 |
+| 22 | [XRAY](https://open.spotify.com/track/2424itFKDyceMRejjiQugg) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Karma & Desire](https://open.spotify.com/album/5tDW2Im2auURmW8IOA8dQ1) | 3:31 |
 | 23 | [Starlight \- Echospace Unreleased Mix](https://open.spotify.com/track/0EgviF3SRYuARt8IwCMWMo) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [Starlight](https://open.spotify.com/album/6StG61wOmTvfUmfz0szLpz) | 7:09 |
 | 24 | [My Safe Harbour](https://open.spotify.com/track/1VJd7jX3gvrlOSCPJmOHUp) | [Quantec](https://open.spotify.com/artist/1hjNDDzz7GzmceHSWgWdck) | [Echocord Jubilee Compilation](https://open.spotify.com/album/0nsUuLiEUz6KZcRnWx0sJm) | 7:12 |
 | 25 | [Faith \(Vox Mix\)](https://open.spotify.com/track/4mD2H5p7Oz8AXP2EiG1OZv) | [Paul St\. Hilaire](https://open.spotify.com/artist/2z6qOkQVyn7h3XzUuNlRlM), [René Löwe](https://open.spotify.com/artist/3aTAuv2BDyKfuO35yYlraf) | [Faith](https://open.spotify.com/album/6SelIi7wqc9TwN44diRhaM) | 8:56 |

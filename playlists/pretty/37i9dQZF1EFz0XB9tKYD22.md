@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627 likes - 355 songs - 21 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 626 likes - 355 songs - 21 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,8 +183,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 173 | [Do It Like This \(Bonus Track\)](https://open.spotify.com/track/33LpnkcKKvgIAxEgYEYbbS) | [Johnny T](https://open.spotify.com/artist/7m0hBssYWrmf3CFVwY1xjg) | [That's What's Up](https://open.spotify.com/album/2Xk6cTdL78FvtXoXt5wQQs) | 3:11 |
 | 174 | [Heavyweight](https://open.spotify.com/track/4VjFgo853p4of6maSkmjfB) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Heavyweight](https://open.spotify.com/album/1llat1Rc2C5UKq6G6bSU51) | 3:37 |
 | 175 | [Good Fight](https://open.spotify.com/track/0zWEXxAbRfBFkHe0aY1ny2) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Balladeer](https://open.spotify.com/album/34xmomKNR5tpBWAseLhmgX) | 3:18 |
-| 176 | [Keep On Movin' On](https://open.spotify.com/track/3NGqAMhYpoqF1tg0Bm8Ozm) | [Maddie Poppe](https://open.spotify.com/artist/2Wda8QEZK7twazWzqDvOdk) | [Keep On Movin' On](https://open.spotify.com/album/3IhRVPjXGfaJfmjSLVmfDN) | 2:38 |
-| 177 | [Closing Time](https://open.spotify.com/track/1LQecNTh73w8tEbp0EEYKN) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 2:38 |
+| 176 | [Closing Time](https://open.spotify.com/track/1LQecNTh73w8tEbp0EEYKN) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv), [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 2:38 |
+| 177 | [Keep On Movin' On](https://open.spotify.com/track/3NGqAMhYpoqF1tg0Bm8Ozm) | [Maddie Poppe](https://open.spotify.com/artist/2Wda8QEZK7twazWzqDvOdk) | [Keep On Movin' On](https://open.spotify.com/album/3IhRVPjXGfaJfmjSLVmfDN) | 2:38 |
 | 178 | [Wait For The Rain To Die Down](https://open.spotify.com/track/7bFIvCLeqahWr0G4wyyMwp) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 3:24 |
 | 179 | [Talk To Me](https://open.spotify.com/track/3a3KPbeco8rQS9bPu2GngI) | [Chayce Beckham](https://open.spotify.com/artist/5ujvZU2thXjZgFKPUt1rDt) | [Doin' It Right](https://open.spotify.com/album/0t5r1On9AJQclMi7Z3nWF7) | 3:45 |
 | 180 | [Like A Movie](https://open.spotify.com/track/0okMA7kpozN1KXcfNlWri4) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 4:03 |
@@ -217,8 +217,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 207 | [Wild Is Her Favorite Color](https://open.spotify.com/track/6cdSWhFCGjOEJg0A2Rv8oC) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Horseback](https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP) | 4:06 |
 | 208 | [Greener Grass](https://open.spotify.com/track/5bd2oqoLOlJoPUGPaiQmIp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 4:04 |
 | 209 | [Round and Round](https://open.spotify.com/track/78YagZM1JmrUVizeZiDwAz) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [Round and Round](https://open.spotify.com/album/55AqNYMTp0MXxjCxxvQZXx) | 3:02 |
-| 210 | [You Can't Break a Woman](https://open.spotify.com/track/48UVtNxqaWy9PpOhfJXwnu) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:13 |
-| 211 | [Remember Me Beautiful](https://open.spotify.com/track/0I0mhV33oEtvCOlgyaMem6) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 4:25 |
+| 210 | [Remember Me Beautiful](https://open.spotify.com/track/0I0mhV33oEtvCOlgyaMem6) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Your Life is a Record \(Deluxe Edition\)](https://open.spotify.com/album/2Zor1BSChR147LVFyIzrpy) | 4:25 |
+| 211 | [You Can't Break a Woman](https://open.spotify.com/track/48UVtNxqaWy9PpOhfJXwnu) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:13 |
 | 212 | [Like Patsy Would](https://open.spotify.com/track/0VPpa3mKfvg3B73xAGYfT2) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V), [Sima Cunningham](https://open.spotify.com/artist/7hCrrpVmgtWF6Y3MZed12l), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Lori](https://open.spotify.com/album/3IVEzHYoqjSQUbRodx4HOh) | 2:54 |
 | 213 | [Somebody New](https://open.spotify.com/track/4wtMEyWDxoxxiQtWywyYNT) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [We're All Somebody From Somewhere](https://open.spotify.com/album/1GyfGJLtZkD2yfRICZh3j2) | 4:11 |
 | 214 | [Good Life](https://open.spotify.com/track/1N23c0ajye7u6jf8ABNLbY) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 3:35 |
@@ -313,8 +313,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 303 | [Grow Young With You](https://open.spotify.com/track/4wqBtWPwfJX1E9VktFasnp) | [Coley McCabe](https://open.spotify.com/artist/1hK0g9hPhdHxWbrG2488XO), [Andy Griggs](https://open.spotify.com/artist/7CyJIUpcWZK2zFM6gKLKvD) | [Coley McCabe](https://open.spotify.com/album/7LZ3ayqh2RLEckP2RK8p1u) | 3:54 |
 | 304 | [Rewrite History](https://open.spotify.com/track/109fKS4oNqEWgVXp1KtuV7) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Heartfirst](https://open.spotify.com/album/2YpTMq0ClNeAKMy0zCPhlF) | 3:52 |
 | 305 | [Over Here](https://open.spotify.com/track/4wuhlskcKp05Bvyo4ZBXjJ) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Planes Don't Wait](https://open.spotify.com/album/0uIwUWUsDPDJoNDBnfzs3o) | 3:34 |
-| 306 | [Don't Even Go There](https://open.spotify.com/track/03rfZYPDfZsHtClobeKpLc) | [Kaylens Rain](https://open.spotify.com/artist/2fYyRW0iCIGiN1ju0KcWyO) | [Found](https://open.spotify.com/album/00E7KsqlLiwM6PLCUUwzMq) | 3:27 |
-| 307 | [Long Way To Your Heart](https://open.spotify.com/track/6KG8m7jDXF5U76xnNIJn75) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 4:25 |
+| 306 | [Long Way To Your Heart](https://open.spotify.com/track/6KG8m7jDXF5U76xnNIJn75) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [It's A Dying Art \(Commentary\)](https://open.spotify.com/album/192tOQqmoCMQZ9J3pwqodg) | 4:25 |
+| 307 | [Don't Even Go There](https://open.spotify.com/track/03rfZYPDfZsHtClobeKpLc) | [Kaylens Rain](https://open.spotify.com/artist/2fYyRW0iCIGiN1ju0KcWyO) | [Found](https://open.spotify.com/album/00E7KsqlLiwM6PLCUUwzMq) | 3:27 |
 | 308 | [Whiskey and Water](https://open.spotify.com/track/4tDj7Nlfn1OfOFfXpvrm6g) | [Rose Falcon](https://open.spotify.com/artist/3M2ei8oRgZ3TwTo6F6votj) | [Whiskey and Water](https://open.spotify.com/album/7bWBIhSORAl6lwF48LgaaY) | 3:44 |
 | 309 | [Things People Say](https://open.spotify.com/track/55QW26ikNMendSkGIkTUIX) | [Ben Chapman](https://open.spotify.com/artist/1AbQ2l8a9JEh8FrJgf1OA9), [Channing Wilson](https://open.spotify.com/artist/5LlJgNc8PgsXsloNEw2uDW) | [Make the Night Better](https://open.spotify.com/album/173y9vhUJAsMd0PFiiwaQH) | 3:13 |
 | 310 | [Tie a Knot](https://open.spotify.com/track/3TxrgvVqp7c3ysc3aP04Kl) | [Chris Kroeze](https://open.spotify.com/artist/1GlT9mh68e99db68QqSKnf) | [Tie a Knot](https://open.spotify.com/album/7zYCoEhsyBJdgqQrGTPYYA) | 3:07 |
@@ -364,4 +364,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 354 | [Relapse](https://open.spotify.com/track/2QSx7YmaQeEF1Orrymng9h) | [Romantic](https://open.spotify.com/artist/6kopcZ58fkBTfUzDAQcb4n) | [Dying of The Light](https://open.spotify.com/album/7dYlb4zkngh3DRGGfcj0vC) | 3:30 |
 | 355 | [Got the Poots](https://open.spotify.com/track/71cqwaove3R1wShWBVEJul) | [Tooty Mae Woolley](https://open.spotify.com/artist/5VJGLTxYgDD0DjjirVF3Vd) | [Got the Poots](https://open.spotify.com/album/5eel7jlClDPWgc9CVtYp3l) | 3:36 |
 
-Snapshot ID: `Acc7nAAAAAALLWaE95KVHr6t+TSONiDh`
+Snapshot ID: `AcdBUAAAAACvA4UnRehsfdJxDRzLSnIi`

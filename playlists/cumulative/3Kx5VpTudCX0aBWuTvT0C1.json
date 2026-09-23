@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Cherish the Day",
+        "url": "https://open.spotify.com/album/4zukdejN15gPm86yt7PTCg"
+      },
+      "artists": [
+        {
+          "name": "Fret Salad",
+          "url": "https://open.spotify.com/artist/62loXA4WFS6NRXk6LwU0F7"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Cherish the Day",
+      "url": "https://open.spotify.com/track/63xUpIAXVJVwp9dnvL1Z4j"
+    },
+    {
+      "album": {
         "name": "Cigarette",
         "url": "https://open.spotify.com/album/1V3mMM3bSlH3RYOvpQ4apt"
       },
@@ -1576,6 +1594,24 @@
       "duration_ms": 188755,
       "name": "If I Was A Ghost",
       "url": "https://open.spotify.com/track/5YfgZXyqNf9vOAI9iNRNFj"
+    },
+    {
+      "album": {
+        "name": "Black & Blue 4u",
+        "url": "https://open.spotify.com/album/6kEDZDoPcsW1oAL5sK5UzT"
+      },
+      "artists": [
+        {
+          "name": "Aquarius Blue",
+          "url": "https://open.spotify.com/artist/1wDJPxelLABSCLlS39l5Y0"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234695,
+      "name": "Ill Prepared",
+      "url": "https://open.spotify.com/track/0jSvYQyCBmtVcXb8uSUGvm"
     },
     {
       "album": {
@@ -3356,6 +3392,24 @@
       "duration_ms": 190588,
       "name": "White Roses",
       "url": "https://open.spotify.com/track/0dRwGLzgtvpZvS5NncfRJ8"
+    },
+    {
+      "album": {
+        "name": "Who whatever",
+        "url": "https://open.spotify.com/album/0PdZuDVoUbsZ6Z126mvdnp"
+      },
+      "artists": [
+        {
+          "name": "maryann connolly",
+          "url": "https://open.spotify.com/artist/1Kfx404oSvrK7zHM8m68Tq"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189224,
+      "name": "Who whatever",
+      "url": "https://open.spotify.com/track/4cA8Ezw2mxVgYI4hi0ml0G"
     },
     {
       "album": {

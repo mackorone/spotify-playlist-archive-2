@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,084 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,086 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 41 | [A La Medida \(2:20am\)](https://open.spotify.com/track/7EQKXlAb6jFOld9IPODbn8) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 3:18 |
 | 42 | [Enséñame](https://open.spotify.com/track/2MzA4qntR39kCOeiNnGzZ2) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Enséñame](https://open.spotify.com/album/34KSApIN48IpEUePEJYV97) | 3:37 |
 | 43 | [Que Locura Enamorarme de Ti \- \(Sesión en vivo\)](https://open.spotify.com/track/42b9sbzyqVZsjfoxzvHVwZ) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 2:57 |
-| 44 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 |
+| 44 | [La Última Vez](https://open.spotify.com/track/0b1yf2gOLwNAx80mjql6HP) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez: Temporada 4 \(Soundtrack de la Serie de Netflix\)](https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM) | 2:53 |
 | 45 | [Juro Feat\. Los Rumberos \(Cap\. 3\)](https://open.spotify.com/track/3VDRMczhOxenDb7GPYKy7i) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Juliana](https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x) | 4:08 |
-| 46 | [La Primera Vez \- Remix](https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [La Primera Vez: Temporada 4 \(Soundtrack de la Serie de Netflix\)](https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM) | 3:38 |
+| 46 | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/track/6ZuMhCPd0VP6vfjQIuJaOX) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Quieres Marcharte Feat\. Dstance \(Cap\. 1\)](https://open.spotify.com/album/2inN1Sd7GBOyIIDpIlkhZX) | 2:50 |
 | 47 | [Corazón Partío \- \(Sesión en vivo\)](https://open.spotify.com/track/1CADK7STloqa9WjCGbRU73) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 3:54 |
-| 48 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 |
-| 49 | [La Última Vez](https://open.spotify.com/track/0b1yf2gOLwNAx80mjql6HP) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez: Temporada 4 \(Soundtrack de la Serie de Netflix\)](https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM) | 2:53 |
+| 48 | [La Primera Vez \- Remix](https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [La Primera Vez: Temporada 4 \(Soundtrack de la Serie de Netflix\)](https://open.spotify.com/album/6OA2tholrqUVvmdVFu6neM) | 3:38 |
+| 49 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 |
 | 50 | [¿Y Cómo Es Él? \- \(Sesión en vivo\)](https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 2:43 |
 
-Snapshot ID: `aq8iAAAAAAC9Akzm5UzOudlDPUWcfLzc`
+Snapshot ID: `arBzgAAAAACav56qunpAh7eoU771VOo9`

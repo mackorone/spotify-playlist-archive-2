@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 
 > This is Alabama Shakes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,383 likes - 28 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,393 likes - 28 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AQB3i.md) - [plain]
 | 27 | [Easy](https://open.spotify.com/track/2WouvVAjyFRCEnJboXFDpx) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 4:15 |
 | 28 | [How Love's Supposed To Go](https://open.spotify.com/track/7vkRvlDZqIFfGQgMaodifL) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:36 |
 
-Snapshot ID: `aq8iAAAAAAARTtf22snsveCSrtBm+zHo`
+Snapshot ID: `arBzgAAAAAAwtf8vFEbL6g0+NKPiUu0h`

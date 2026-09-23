@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 
 > 
 
-[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,571 likes - 600 songs - 1 day 15 hr 12 min
+[Melody](https://open.spotify.com/user/lemo1sgsji7o3jac2spebn5ih) - 7,570 likes - 601 songs - 1 day 15 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -608,5 +608,6 @@ pretty - [cumulative](/playlists/cumulative/4DLyjRH9elAil3nXGatCcY.md) - [plain]
 | 598 | [If I Ever Leave This World Alive](https://open.spotify.com/track/1JgzJTMv21BNQF67iDMrQs) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/3jxE2q2CnasR5WTE7a6oSs) | 3:21 |
 | 599 | [The Kilburn High Road](https://open.spotify.com/track/3kPWuXl41B8wll96RicCVT) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/3jxE2q2CnasR5WTE7a6oSs) | 3:43 |
 | 600 | [Rebels of the Sacred Heart](https://open.spotify.com/track/23EFEf3mbHHixv3VkxaBaj) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Drunken Lullabies](https://open.spotify.com/album/3jxE2q2CnasR5WTE7a6oSs) | 5:11 |
+| 601 | [Vampires \- Instrumental](https://open.spotify.com/track/1y4b0aF5jQaBUXLbMxVEPE) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Endless Summer \(The Instrumentals\)](https://open.spotify.com/album/6Ps5rLCGCHuQvLXHnhsW9j) | 5:15 |
 
-Snapshot ID: `AAABnthg3beI+qrLnS8oxBu2153uoQ+h`
+Snapshot ID: `AAABn9aL9mHRUaWPYKX6zWPoeceK4jJe`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 
 > スローバックTHURSDAY一覧は<a href="spotify:genre:0JQ5DAqbMKFCEGYtBLwgyM">こちら</a>から。Cover: 久保田利伸 ■ アムラー出現 ■たまごっちヒット ■女子高生の援助交際が社会問題化 ■「自分で自分をほめたい」（有森裕子）■「メークドラマ」（長嶋茂雄）■「チョベリバ / チョベリグ」■渡辺淳一『失楽園』ベストセラー
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,884 likes - 97 songs - 7 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,888 likes - 97 songs - 7 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ol3L2udO6N.md) - [plain]
 | 81 | [Top Of The World](https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [A Song For You](https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov) | 2:59 |
 | 82 | [Now You're Not Here](https://open.spotify.com/track/06UiUhpyc7jfFc98QEoSsw) | [Swing Out Sister](https://open.spotify.com/artist/4phr5rAgWhcZtWJu8w8lKv) | [BALLADS \-Sweet & Tears Collection\-](https://open.spotify.com/album/6odwpOtu3mTN2Ly68UajBk) | 4:43 |
 | 83 | [Everybody Jam!](https://open.spotify.com/track/1sn23HbHazh5hLMzA1SJmQ) | [Scatman John](https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX) | [Everybody Jam!](https://open.spotify.com/album/1Af1QWcZ3rbaD5HBssykNE) | 3:31 |
-| 84 | [Get Down \(You're the One for Me\) \- LP Edit No Rap](https://open.spotify.com/track/6KPMiBhU6O9RBImTQXQNCe) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H) | 3:50 |
+| 84 | [Get Down \(You're the One for Me\)](https://open.spotify.com/track/6KPMiBhU6O9RBImTQXQNCe) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/1oWxRkI4V9d3hH3PqWpx9H) | 3:50 |
 | 85 | [1979](https://open.spotify.com/track/3h5zik31hTTat9jmpCZZNC) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [\(Rotten Apples\) The Smashing Pumpkins Greatest Hits](https://open.spotify.com/album/1cUnNrx2TxvrpwPRtvpGwn) | 4:23 |
 | 86 | [Follow You Down](https://open.spotify.com/track/6rqkwoZu5oX5hugeyiJCM8) | [Gin Blossoms](https://open.spotify.com/artist/6kXp61QMZFPcKMcRPqoiVj) | [Congratulations I'm Sorry](https://open.spotify.com/album/3PsTJAxjU734jZSuiLHUtE) | 4:30 |
 | 87 | [They Don't Care About Us](https://open.spotify.com/track/3wuCCNCnBhJlwkIJTBZFiv) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 4:44 |

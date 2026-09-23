@@ -4,7 +4,7 @@
 
 > Lounge and chill out music for your workday.
 
-870 songs - 1 day 13 hr 34 min
+874 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Blue Vibe](https://open.spotify.com/track/3ThK3VmGnQ6vwtBti59e4X) | [Red Waterline](https://open.spotify.com/artist/6g2i27X6GxecyuNpFq6wP3) | [Blue Vibe](https://open.spotify.com/album/5veFu5xm51dHYH3b06qEke) | 2:17 | 2026-09-01 |  |
 | [Boardwalk](https://open.spotify.com/track/1shjpWCrYP6ExIpgCpaf3P) | [Lagonda](https://open.spotify.com/artist/3snpwtqBUGw0TDTmdq2IyI) | [Boardwalk](https://open.spotify.com/album/5OtHbV551CLGJthd8s9C0G) | 2:23 | 2024-03-03 | 2026-02-26 |
 | [Borrowed Blue](https://open.spotify.com/track/708H1bXoW1UDrpu8WWkE7m) | [Seawiew](https://open.spotify.com/artist/6D8Dxtr3FcjFKy4m5PxIRH) | [Borrowed Blue](https://open.spotify.com/album/5ChZvd6m6VGLVnppEJ5Pnr) | 2:34 | 2026-09-01 |  |
+| [Botanical](https://open.spotify.com/track/7DkDa7D6kJD0b2inpd0Afy) | [Peqasus](https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD) | [Botanical](https://open.spotify.com/album/66TGMQ0L4NaKRt1s2lPfUK) | 2:04 | 2026-09-22 |  |
 | [Brainbreeze](https://open.spotify.com/track/5bl0PsxNJRP8zsMyTvvKMJ) | [RaFa Sessions](https://open.spotify.com/artist/5KKCzGChBT1GayASNTOGvK) | [Ambrosial](https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9) | 3:17 | 2021-11-10 | 2023-01-21 |
 | [Brainwaves](https://open.spotify.com/track/1upsUbZSRONTmWYq8iXTvR) | [Demurely](https://open.spotify.com/artist/69MgJebVr2yMrf8jlOXg9j) | [Brainwaves](https://open.spotify.com/album/337H8IQR3KiJLmdFTaX8T4) | 2:31 | 2023-02-24 | 2026-02-26 |
 | [Breakfast Club](https://open.spotify.com/track/4NhCSHy52ObFUbwxDNglye) | [Hausward](https://open.spotify.com/artist/23v5l9Xt9MklrDy9475aW0) | [Breakfast Club](https://open.spotify.com/album/0AsdszbgP1JzLCpQhCmDh5) | 2:49 | 2025-07-04 |  |
@@ -179,6 +180,7 @@
 | [Down](https://open.spotify.com/track/4Am5t94EuGd1iN5dCJc7iT) | [Rick Groove](https://open.spotify.com/artist/7q2GXu2JA5LLVbNw8YnaQv) | [Down](https://open.spotify.com/album/1kxiBdyGazRQhSoVPoYNt3) | 2:23 | 2025-09-05 | 2026-02-26 |
 | [Downtown](https://open.spotify.com/track/3k7nl2pz0LR25XRRDeSi6z) | [DROPQUICK](https://open.spotify.com/artist/1kTosgOUBKvkCaOsJINFsN) | [Downtown](https://open.spotify.com/album/4lGrY9glvKimde5O26PJng) | 2:06 | 2021-11-10 | 2022-07-08 |
 | [Downtown](https://open.spotify.com/track/06hCjjZUbLw9M0JoFR6p4k) | [Noah May](https://open.spotify.com/artist/3eEzHnqUaOB5vYrOYq0dhJ) | [Downtown](https://open.spotify.com/album/5O7KiqC00ScywkTLceiPSj) | 2:11 | 2026-09-01 |  |
+| [Dream about us](https://open.spotify.com/track/1vpvFDx2fhhL8JSsFei0UT) | [Cedar Room](https://open.spotify.com/artist/1Wew13xlDH4ylTaJI75vw8) | [Dream about us](https://open.spotify.com/album/7HufHka466JcOtJXSGlbE5) | 2:33 | 2026-09-22 |  |
 | [Dream Of You](https://open.spotify.com/track/7lZICRDYYybSXqhCfzHmEJ) | [Gea](https://open.spotify.com/artist/4xBOiAyVldC1LywqtvACbU) | [Dream Of You](https://open.spotify.com/album/5f703ODGm3EX3YFj0nRDmq) | 2:40 | 2025-11-21 |  |
 | [Dreamer](https://open.spotify.com/track/3WedU2WRtWK1w8aAo9ffvd) | [Half Tone](https://open.spotify.com/artist/2AQalBCbiCK7zUReGcIzA8) | [Dreamer](https://open.spotify.com/album/77n28lxwn0HSjMGOYE86zA) | 2:05 | 2026-09-01 |  |
 | [Dreams](https://open.spotify.com/track/2dONTaX48SnM8X2zdV45iP) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Dreams](https://open.spotify.com/album/6GtgXEsCmrXRw3tADB4mxF) | 2:39 | 2023-03-17 | 2024-10-22 |
@@ -191,6 +193,7 @@
 | [Drifting](https://open.spotify.com/track/157kvk58Qr04AiuDv2aQWd) | [Eroded Sky](https://open.spotify.com/artist/2OroWFuP1XDqsnXLgcqgub) | [Drifting](https://open.spotify.com/album/1SOTUgM1yLfg7w6WqtoHcR) | 3:14 | 2021-11-10 | 2022-05-20 |
 | [Drifting Clouds](https://open.spotify.com/track/1zN3Gg900pDQBVfoOXgHnY) | [Hello Carmelo](https://open.spotify.com/artist/05cbHwa8AL8Lq5Ezkb0RxC) | [Drifting Clouds](https://open.spotify.com/album/3juZxmq5ThqdC0j0JTXGcf) | 2:28 | 2026-01-02 |  |
 | [dripp](https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x) | [Lil Skate](https://open.spotify.com/artist/3nrcM9gaRDpXvGYBxuhxl6) | [dripp](https://open.spotify.com/album/51XMKMY21TwNOv44FS4ZxR) | 2:14 | 2021-11-10 | 2022-09-02 |
+| [Drive On](https://open.spotify.com/track/58AcicbIip8ukGcgiFCVeg) | [Adryax](https://open.spotify.com/artist/76qsIqzQFtCTQizpttVZOo) | [Drive On](https://open.spotify.com/album/0aFoPsDZDLjumXfxPyzdrv) | 2:26 | 2026-09-22 |  |
 | [Drive So Well](https://open.spotify.com/track/2vde9odrAwABY7w6IAzCFB) | [Kirsi Aimée](https://open.spotify.com/artist/74RWlGT8fQPqVvXSLuxL4j) | [Drive So Well](https://open.spotify.com/album/5Rfo2PeHtIHzVs8eP9v5RX) | 2:38 | 2022-05-10 | 2025-03-22 |
 | [Eagle](https://open.spotify.com/track/2gHawVp05GgRFsghwuJasb) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Eagle](https://open.spotify.com/album/6sehfPAmRF7aCZfnX8nSNM) | 2:51 | 2021-11-10 | 2022-07-08 |
 | [Early Hours](https://open.spotify.com/track/7eRylayD15qp8wsEZgdlv3) | [Bare Resonance](https://open.spotify.com/artist/1fKCu7sONna4yjdFZA4xww) | [Early Hours](https://open.spotify.com/album/6itZh2LWNICfC98kzn5AfD) | 2:07 | 2026-02-09 |  |
@@ -346,7 +349,7 @@
 | [In The Clouds](https://open.spotify.com/track/0NlVqWHgp2b7y79OC9ocEG) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [In The Clouds](https://open.spotify.com/album/1UCX6cttCUpNf3wbepwOU9) | 2:04 | 2022-10-28 | 2025-07-05 |
 | [In The Valley](https://open.spotify.com/track/7GIxUTAb606x29LfoWWAjz) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [In The Valley](https://open.spotify.com/album/2ux6fhCk1aJiyV9iJGa080) | 2:56 | 2025-02-21 | 2026-02-10 |
 | [In unison](https://open.spotify.com/track/17GYUIV3rj9iZqahdnAs7U) | [Jay Groovi](https://open.spotify.com/artist/2ntoj1OhqFatrjAGvAdlMn) | [Up n runnin](https://open.spotify.com/album/02vcNzVx4gOvSHsaZgq41R) | 2:26 | 2023-06-09 | 2026-06-13 |
-| [Indistinguishable](https://open.spotify.com/track/1jiqVB5RKfkXPfifEfY2zU) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Indistinguishable](https://open.spotify.com/album/7wettOgoIhFf0eDIVeJGkw) | 2:58 | 2025-09-05 |  |
+| [Indistinguishable](https://open.spotify.com/track/1jiqVB5RKfkXPfifEfY2zU) | [Mechagnome](https://open.spotify.com/artist/13PdnMKcJONs4BQg3b0U5q) | [Indistinguishable](https://open.spotify.com/album/7wettOgoIhFf0eDIVeJGkw) | 2:58 | 2025-09-05 | 2026-09-23 |
 | [ineludibile](https://open.spotify.com/track/0HhbAv27JYas4KxW5V9EfQ) | [navigliairbnb](https://open.spotify.com/artist/2PqDOSLvgwyLNEb68hVP5z) | [ineludibile](https://open.spotify.com/album/5z0pUfdBheEtEXax6XSWNE) | 2:27 | 2022-08-19 | 2023-04-07 |
 | [Infinite](https://open.spotify.com/track/7BlFnkY76uwDT9fvoeWEFZ) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Infinite](https://open.spotify.com/album/1f45mE7umvGUb9OpAhW9ke) | 1:59 | 2022-09-02 | 2023-07-29 |
 | [Infinity](https://open.spotify.com/track/5fuybsyPtOCKgWg1Vwmp4S) | [rigii](https://open.spotify.com/artist/7mKI3t5igUWeoSgBNCdQIU) | [Infinity](https://open.spotify.com/album/5qU8XSjWkFgyerBX2tT71y) | 2:53 | 2026-07-02 |  |
@@ -384,7 +387,7 @@
 | [Late Checkout](https://open.spotify.com/track/0fKjNww1rWu86AL7bKKOh1) | [Mode Donna](https://open.spotify.com/artist/4EVClNgwLk38PorSOhui9R) | [Late Checkout](https://open.spotify.com/album/2QMIzCwR8zo9PA9EbHM75S) | 2:37 | 2026-03-20 |  |
 | [late hours](https://open.spotify.com/track/7nBwHiPERl38w1mfBt6E6t) | [Peed Hus](https://open.spotify.com/artist/4LpZEO5wsgiBMLhl7Mpec7) | [late hours](https://open.spotify.com/album/1xVZe1oQp8MzstqKoHCOgt) | 2:04 | 2022-10-07 | 2024-09-21 |
 | [Late Night Drive](https://open.spotify.com/track/1sHlhVfyPyVlyBpp1x5Xgz) | [Homage](https://open.spotify.com/artist/0Nax9ohdb2ezDUpPmT3iMz) | [Late Night Drive](https://open.spotify.com/album/45135XbCrnFc6aRXGmDzO4) | 2:20 | 2022-11-25 | 2025-03-22 |
-| [Laughing in the Morning](https://open.spotify.com/track/2UJGxWlkGMH2yEeBpGGz7x) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Laughing in the Morning](https://open.spotify.com/album/58dQ9ZeirWNCCdhAC4yHNq) | 3:01 | 2024-08-19 |  |
+| [Laughing in the Morning](https://open.spotify.com/track/2UJGxWlkGMH2yEeBpGGz7x) | [it's me.](https://open.spotify.com/artist/7BH7npacpxjp6jb16gZ8H4) | [Laughing in the Morning](https://open.spotify.com/album/58dQ9ZeirWNCCdhAC4yHNq) | 3:01 | 2024-08-19 | 2026-09-23 |
 | [Lazy](https://open.spotify.com/track/03S036AHVTDJEhmPXxrEys) | [Goland](https://open.spotify.com/artist/2xClWuiJPUhjkwrk0fu3cA) | [Lazy](https://open.spotify.com/album/4GFy8meKIfTm2cGn6InsLm) | 2:31 | 2025-09-05 | 2026-09-02 |
 | [Lazy](https://open.spotify.com/track/4yGSbEBbtmLQ8vtdB3XE5K) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Lazy](https://open.spotify.com/album/74VN5PP227HuAZivDeRrXl) | 3:18 | 2021-11-10 | 2022-06-10 |
 | [leading up](https://open.spotify.com/track/17gWxv1Nfj7H3XjPPbvXus) | [SGT DUST](https://open.spotify.com/artist/5UAKUy49oVsSw65Bbg14r6) | [leading up](https://open.spotify.com/album/2S8qduZPKk5gD1n8QqNdBv) | 2:28 | 2024-11-22 |  |
@@ -479,7 +482,7 @@
 | [Montreux](https://open.spotify.com/track/5BCogYGUcjCVn7u6aYarva) | [Desoncote](https://open.spotify.com/artist/5aMtYcDTbmtmG2VeCDq0zi) | [Montreux](https://open.spotify.com/album/6DNfPtbVjz5s4qoOIttveN) | 2:15 | 2021-11-10 | 2022-09-17 |
 | [Monument](https://open.spotify.com/track/7iomG5R5mlZ9AxIVPHfh9M) | [Varanasi Sky](https://open.spotify.com/artist/1MQ4VvCRaJvrPq9wSUAEP9) | [Monument](https://open.spotify.com/album/4zL5cKO8A0NhNiBwCaxKFh) | 2:54 | 2023-01-13 | 2025-04-03 |
 | [Mood Shift](https://open.spotify.com/track/6lt8iALxsPDM2ZFDqzfUW1) | [Muun Drift](https://open.spotify.com/artist/0j8VxJiuUxKAf66J8ngkk5) | [Mood Shift](https://open.spotify.com/album/5ssiIwjL6uHcZvn95pCC7N) | 2:16 | 2026-07-02 |  |
-| [Moon Rail](https://open.spotify.com/track/6dlj2eOaBGOnSZCR1uj0hK) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Moon Rail](https://open.spotify.com/album/0in1WOZ5qmJhS5slUKPhPq) | 2:40 | 2022-09-16 |  |
+| [Moon Rail](https://open.spotify.com/track/6dlj2eOaBGOnSZCR1uj0hK) | [ChillsmokeႿ](https://open.spotify.com/artist/50PNApaaFiGIOQhsposZnn) | [Moon Rail](https://open.spotify.com/album/0in1WOZ5qmJhS5slUKPhPq) | 2:40 | 2022-09-16 | 2026-09-23 |
 | [Moonlight Drift](https://open.spotify.com/track/4MIdDue1ijUiCd9kkRu114) | [Soft Haze Union](https://open.spotify.com/artist/5dsZV0zM0Hie57m1l31ERn) | [Moonlight Drift](https://open.spotify.com/album/2RKQB5nxfERDQ6kq2HHFFQ) | 2:11 | 2026-07-02 |  |
 | [Mope Amok](https://open.spotify.com/track/0xHzmGyVRvzhFzD4Tofgm6) | [Robo Rat](https://open.spotify.com/artist/2PMOIIBqxXT4hr76dZPItk) | [Mope Amok](https://open.spotify.com/album/6yHghkwnaz76HRsPzPY9uz) | 3:17 | 2021-11-10 | 2026-02-10 |
 | [More of this, Please](https://open.spotify.com/track/1rpgqpnLdGtsYl4ySLoH58) | [U\-kata](https://open.spotify.com/artist/2K78Mcf0SeQlIy2QCtjqcn) | [More of this, Please](https://open.spotify.com/album/1Fho1AQFCUj9wQYi7RNt8A) | 4:25 | 2022-08-19 | 2023-02-25 |
@@ -749,7 +752,7 @@
 | [The Master Plan](https://open.spotify.com/track/1OtQ0XVgp8NqAFysg5s51I) | [No Contaban](https://open.spotify.com/artist/1YR4LnGUaLSh5PwvlM56Cx) | [The Master Plan](https://open.spotify.com/album/48HhE7r0wenK3S0mVSh7Ma) | 3:01 | 2023-01-20 | 2025-07-05 |
 | [The Midnight Mall](https://open.spotify.com/track/22YbxxoLOzanQNdAereRfl) | [Major Tweaks](https://open.spotify.com/artist/5CzHcOIcNE9WsNm9ZXZUkh) | [The Midnight Mall](https://open.spotify.com/album/5nSnSy7UF9kbR2Uopy9JFJ) | 3:20 | 2024-07-14 |  |
 | [The Only One](https://open.spotify.com/track/2OD0VuNOcLQ2yljgCVyncD) | [Suzi Quizas](https://open.spotify.com/artist/0uIPCZ3Iae8JJDDmEEuIon) | [The Only One](https://open.spotify.com/album/2Hvq8yU7GZ5Kuq8pHsGKOl) | 2:39 | 2023-01-20 | 2025-04-30 |
-| [The Only Way Forward Is Through](https://open.spotify.com/track/4n308Db693dIzCqOFHgvlS) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [The Only Way Forward Is Through](https://open.spotify.com/album/5ngSsfkH4L2JzrP8ZntIIE) | 3:27 | 2025-05-30 |  |
+| [The Only Way Forward Is Through](https://open.spotify.com/track/4n308Db693dIzCqOFHgvlS) | [pxp pxp](https://open.spotify.com/artist/2tAwz8BUyvKg8mkCC7YTYO) | [The Only Way Forward Is Through](https://open.spotify.com/album/5ngSsfkH4L2JzrP8ZntIIE) | 3:27 | 2025-05-30 | 2026-09-23 |
 | [The Refined Man](https://open.spotify.com/track/5UuUrMvPPVfYMTG349zKfs) | [dogphase](https://open.spotify.com/artist/2PhI5ndGzuBaGWTPadjj4g) | [Wanderlust](https://open.spotify.com/album/0K7VVnjrbKfCFHw2FnjIjs) | 2:16 | 2021-11-10 | 2022-09-09 |
 | [The Root](https://open.spotify.com/track/1xc98BOXjA79dOsq66RXKf) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/1xjYGSVeaviVdvexe74eww) | 3:28 | 2024-03-03 | 2024-04-19 |
 | [The Root](https://open.spotify.com/track/3E2orGjD3CryCi8YJKBISZ) | [Analog Traveler](https://open.spotify.com/artist/3AGRClAwZvywt0uJhCRndG) | [The Root](https://open.spotify.com/album/6q6llTQtc44REoCEtpuOQG) | 3:28 | 2022-04-15 | 2024-08-20 |
@@ -806,6 +809,7 @@
 | [Two Birds Calling](https://open.spotify.com/track/41HsrBG3LrlQTjTAXSagDh) | [Blue Smoke](https://open.spotify.com/artist/6igBObahAfiWpIl12fdMZV) | [Two Birds Calling](https://open.spotify.com/album/0hfrbfgjgxyWoTVYbSkK0a) | 2:24 | 2026-06-12 |  |
 | [Two Hearts](https://open.spotify.com/track/5hWW36eJzKuEKBDLtEra0X) | [Tino Tapes](https://open.spotify.com/artist/6317TasPoXGpLcmnwqwB6y) | [Two Hearts](https://open.spotify.com/album/2iorJIfNkV19a4oBwfEPOb) | 2:01 | 2022-07-08 | 2024-11-23 |
 | [tyst](https://open.spotify.com/track/6NuICoSy1ZbYKKUVGukai3) | [FREJA](https://open.spotify.com/artist/3PsElXP6TTwUalgNPiyyzH) | [tyst](https://open.spotify.com/album/0BaB7mSJ7LoBCpDo3TL7rY) | 2:22 | 2021-11-10 | 2022-05-20 |
+| [ultraviolet](https://open.spotify.com/track/4bPJlxKstW9b01M7S66Be8) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [ultraviolet](https://open.spotify.com/album/6fjUar60LVZQfOrh2muWgM) | 2:13 | 2026-09-22 |  |
 | [Umami](https://open.spotify.com/track/60KHgqMl2mijKszWmyu9ER) | [Lonely Bear](https://open.spotify.com/artist/1kaCHpuutgEmevk59rOC49) | [Umami](https://open.spotify.com/album/3VVABGykQZInW0yfB496KQ) | 2:45 | 2022-05-20 | 2022-09-02 |
 | [Untamed Feelings](https://open.spotify.com/track/6lRqGGABvStAoVXRjT7JoH) | [Chico Rocket](https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ) | [Untamed Feelings](https://open.spotify.com/album/5dGfvPD6Hohbiab9W9wsb8) | 3:10 | 2025-02-21 | 2026-06-13 |
 | [Up Through The Clouds](https://open.spotify.com/track/6HpU6c2ke3qC1RWakDp3nW) | [Antonne](https://open.spotify.com/artist/4aVCtWZXi66nIRjFglKHwH) | [Up Through The Clouds](https://open.spotify.com/album/71PuIL86MUp2L33YNSqfk3) | 3:58 | 2021-11-10 | 2023-04-07 |

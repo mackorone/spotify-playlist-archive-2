@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a>, <a href=spotify:playlist:37i9dQZF1EIVOlGHvpBwBH>Tyler, The Creator</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Drake</a>, <a href=spotify:playlist:37i9dQZF1EIVaqdm8JIWAo>Olivia Dean</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a> and more",
   "name": "Chill Mix",
   "tracks": [
     {
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 226798,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/1i92UFFkxtKv4tYNzt1X1b"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
@@ -3194,7 +3194,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 125217,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/6EK3aQONb1VBRaVCoxwuKo"
@@ -3674,6 +3674,24 @@
       "duration_ms": 208760,
       "name": "Cigarette Daydreams",
       "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
+    },
+    {
+      "album": {
+        "name": "alone tonight",
+        "url": "https://open.spotify.com/album/5WQjKVRI7Kb6RyeAeS16UY"
+      },
+      "artists": [
+        {
+          "name": "starfall",
+          "url": "https://open.spotify.com/artist/6h0Wppb5dQnlGpY2zuGstd"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "cigarettes",
+      "url": "https://open.spotify.com/track/7gr30zuYXJJzO2BeDBIiRK"
     },
     {
       "album": {
@@ -4528,7 +4546,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/6ppefZt5uQ62aHAfSa1Jx9"
@@ -4782,7 +4800,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 191515,
       "name": "DEEP IN YOUR SOUL",
       "url": "https://open.spotify.com/track/35EDNGwjMjMfI984OFx5EH"
@@ -4836,7 +4854,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 154339,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/7nqFGg6gPi3Fhegjb0bjw2"
@@ -5160,7 +5178,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 113385,
       "name": "distance",
       "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
@@ -6392,7 +6410,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 131889,
       "name": "feel the same",
       "url": "https://open.spotify.com/track/2Rbpm2V61xo6SkgwnILSl6"
@@ -8824,7 +8842,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 148887,
       "name": "Hotel Room",
       "url": "https://open.spotify.com/track/6DKSK32WwzBMZ0qAq28Zon"
@@ -10054,7 +10072,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 173426,
       "name": "IT'S YOU (feat. keshi)",
       "url": "https://open.spotify.com/track/1hWDc5jD5br9pXSOtubFlf"
@@ -10162,7 +10180,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -11016,7 +11034,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 299560,
       "name": "Let Down",
       "url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr"
@@ -12080,7 +12098,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 224520,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/6BjDS1tNSBjposp5j9a3g4"
@@ -12410,7 +12428,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 184000,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX"
@@ -13194,7 +13212,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 217380,
       "name": "My Body Isn't Ready",
       "url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0"
@@ -13878,7 +13896,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 229120,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
@@ -13896,7 +13914,7 @@
       ],
       "date_added": "2025-10-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 243131,
       "name": "No. 1 Party Anthem",
       "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
@@ -14184,7 +14202,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 224881,
       "name": "NOW I'M ALONE (feat. Sof\u00eda Vald\u00e9s)",
       "url": "https://open.spotify.com/track/30G9O0gzkj4w7CbCWOE9eO"
@@ -15746,7 +15764,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 181694,
       "name": "Recognize",
       "url": "https://open.spotify.com/track/2i7GLdXNYuIOfqopWWIjVF"
@@ -16126,7 +16144,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2uXlHCUbq9OMUwx3hrk06o"
@@ -17568,7 +17586,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 209273,
       "name": "SLOW DANCING IN THE DARK",
       "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
@@ -17840,7 +17858,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
@@ -18892,7 +18910,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 189093,
       "name": "Sundays",
       "url": "https://open.spotify.com/track/2yj8xbWxfrW8azD7VDQBER"
@@ -20158,7 +20176,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 275936,
       "name": "the feeling",
       "url": "https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh"
@@ -21290,7 +21308,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 220713,
       "name": "True Love",
       "url": "https://open.spotify.com/track/3bQKN5pORIeF3Cqn5eZXfU"
@@ -23022,7 +23040,7 @@
       ],
       "date_added": "2026-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 202750,
       "name": "Would You Mind",
       "url": "https://open.spotify.com/track/5kbvcxWFMPNY1zPI3y0wHa"

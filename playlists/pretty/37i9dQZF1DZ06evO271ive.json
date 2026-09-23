@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 31324,
+  "num_followers": 31323,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAASwtui12yrQHkHZujs8mm4",
+  "snapshot_id": "arBzgAAAAACvt04s7ZU6ZCfZHF2PWj4F",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 140400,
-      "name": "Bow Bow Bow (F My Baby Dad)",
-      "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Sexyy We Trust",
         "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 225132,
       "name": "U My Everything (feat. Drake)",
       "url": "https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "Bow Bow Bow (F My Baby Dad)",
+      "url": "https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 153666,
-      "name": "Hellcats SRTs",
-      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
+      "duration_ms": 159291,
+      "name": "Mad at Me",
+      "url": "https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
         }
       ],
-      "duration_ms": 159291,
-      "name": "Mad at Me",
-      "url": "https://open.spotify.com/track/0b9i8FoZ7jU3tzC4zt3WXP"
+      "duration_ms": 153666,
+      "name": "Hellcats SRTs",
+      "url": "https://open.spotify.com/track/1iK1hVN9o1zkpxw396QGbd"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "U Kno What To Do (UKWTD)",
-        "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 158018,
-      "name": "U Kno What To Do (UKWTD)",
-      "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "IN THE CLUB (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/12xUAImIwl7jUtkeFM37IV"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 144708,
       "name": "IN THE CLUB (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/3X0AA7H2FKcE58zx7qTe9a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "U Kno What To Do (UKWTD)",
+        "url": "https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 158018,
+      "name": "U Kno What To Do (UKWTD)",
+      "url": "https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV"
     },
     {
       "added_at": null,

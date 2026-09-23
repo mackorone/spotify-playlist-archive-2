@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hungary.
 
-1,982 songs - 4 day 8 hr 1 min
+1,983 songs - 4 day 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -642,6 +642,7 @@
 | [Ghostbusters](https://open.spotify.com/track/569uHYIB0X324FZOBEhvit) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Greatest Hits](https://open.spotify.com/album/3TaGSuVqPFbNJSo7h4bxB6) | 3:59 | 2025-11-01 | 2025-11-03 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2023-01-01 | 2026-01-03 |
 | [GIN TONIC](https://open.spotify.com/track/3ObcOmEWDsBKLeqxoyxVzu) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O), [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [GIN TONIC](https://open.spotify.com/album/5Gn66d9b7excbeLZuZygB9) | 3:28 | 2025-05-03 | 2025-07-14 |
+| [Gipsyland](https://open.spotify.com/track/253XpMLROtasRt7uxDPYft) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [Ne Méregess](https://open.spotify.com/album/1GXVCSMyyggnSfqVdrB8q6) | 2:17 | 2026-09-22 |  |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-19 |
 | [Give Me Everything \(feat\. Nayer\)](https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Nayer](https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO) | [Planet Pit \(Deluxe Version\)](https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB) | 4:12 | 2025-03-02 | 2026-07-24 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 | 2022-08-12 |
@@ -1831,7 +1832,7 @@
 | [VEZÉREGYÉNISÉG](https://open.spotify.com/track/0dSkwXX1PZ9mb2O26V68bZ) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Dan Pinto](https://open.spotify.com/artist/5Bg0nn9wJutwmaNhhld2Xw) | [0](https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf) | 1:49 | 2024-03-09 | 2024-03-17 |
 | [viadal](https://open.spotify.com/track/4kRnFRvg8mFFJFFlxJ9FLW) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq) | [skatulya I](https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw) | 3:05 | 2024-04-19 | 2024-06-03 |
 | [vicc](https://open.spotify.com/track/6bmTNiH8blviXxFDVoAuL7) | [Azahriah](https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq), [DESH](https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw) | [tripq](https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr) | 2:38 | 2023-08-25 | 2023-11-20 |
-| [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 | 2024-10-05 |  |
+| [VIDÉKI CSAJSZI](https://open.spotify.com/track/1105P9BDFQ4GZj7VS5vDuY) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [VIDÉKI CSAJSZI](https://open.spotify.com/album/6Nz8LUkFkdvlQWwbByHDaq) | 3:09 | 2024-10-05 | 2026-09-23 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-27 |
 | [Vigyázz](https://open.spotify.com/track/7hIjPLEhARePR07iBlXnCv) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/17WVw36YcpSYe2qJ8GpBw8) | 3:20 | 2023-03-07 | 2023-03-10 |
 | [Vigyázz](https://open.spotify.com/track/7jxraJulUuGw5kRjQtB7ah) | [Manuel](https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8) | [Idegen](https://open.spotify.com/album/3W938UewrgV3XpUBFXVEhv) | 3:20 | 2023-02-03 | 2023-03-08 |

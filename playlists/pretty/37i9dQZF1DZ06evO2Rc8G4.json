@@ -1,12 +1,12 @@
 {
   "description": "This is Kylie Minogue. The essential tracks, all in one playlist.",
-  "num_followers": 175829,
+  "num_followers": 175859,
   "original_name": "This Is Kylie Minogue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADeT1+lqBw0YV3LZsu2wEvu",
+  "snapshot_id": "arBzgAAAAADkXOM9CcRmJTni5ujk9Jld",
   "tracks": [
     {
       "added_at": null,
@@ -635,18 +635,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Light Up (From the Netflix Documentary 'Kylie')",
-        "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
+        "name": "My Oh My (with Bebe Rexha & Tove Lo)",
+        "url": "https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 197538,
-      "name": "Light Up (From the Netflix Documentary 'Kylie')",
-      "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
+      "duration_ms": 181146,
+      "name": "My Oh My - with Bebe Rexha & Tove Lo",
+      "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
     },
     {
       "added_at": null,
@@ -683,26 +691,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Oh My (with Bebe Rexha & Tove Lo)",
-        "url": "https://open.spotify.com/album/6L5PWde8zjpIa2C6SIjNv8"
+        "name": "Light Up (From the Netflix Documentary 'Kylie')",
+        "url": "https://open.spotify.com/album/5ukQWhi6imFTlaJxsuoIZO"
       },
       "artists": [
         {
           "name": "Kylie Minogue",
           "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 181146,
-      "name": "My Oh My - with Bebe Rexha & Tove Lo",
-      "url": "https://open.spotify.com/track/06spxvvLVo3m1GV3jT0ZjP"
+      "duration_ms": 197538,
+      "name": "Light Up (From the Netflix Documentary 'Kylie')",
+      "url": "https://open.spotify.com/track/5z8BOVrdo09o6VFR7AuhXk"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 
 > 🗣️doisdeee, doisdeee // Maru2D
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,114 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,117 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CDfMq8oOPq.md) - [plain]
 | 37 | [QUEBREI SUA CASA](https://open.spotify.com/track/4QMvXgG3Ae5aycBwhKm2q8) | [BUDAH](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [QUEBREI SUA CASA](https://open.spotify.com/album/3jeFsTtEnFb1LZpwZbnfHD) | 2:28 |
 | 38 | [Império](https://open.spotify.com/track/59YcPScr4rei4EQhSwoF06) | [yulii A](https://open.spotify.com/artist/0Qopxz7nRcHrKQF0on2HNR), [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [GND.rec](https://open.spotify.com/artist/1darS8kGnpmPusaTI2X4b0) | [Império](https://open.spotify.com/album/6QN8c6RSa4tPaH0PEbjTNr) | 2:05 |
 | 39 | [O OURO](https://open.spotify.com/track/0XiCLdW2aLwm6LcyHvirWq) | [Mylena Drague](https://open.spotify.com/artist/1ODMXHrfQ2k5trZl4HqM4d), [Luzk](https://open.spotify.com/artist/330Q01SQBu9PZkCwmsELsy), [Damarcus](https://open.spotify.com/artist/1wv6AJd7XarhSVOIxRhWnc) | [O OURO](https://open.spotify.com/album/6Z2zqrGvbVqHhQEKdUbUOs) | 2:32 |
-| 40 | [Dedo na ferida](https://open.spotify.com/track/5iKY4gOVZwpnRG9v4dj3g3) | [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Teimosia](https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw) | 2:51 |
-| 41 | [O bonde tá no levan](https://open.spotify.com/track/2Y60PGvtTVa0SXUw5vrQpv) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL) | [O bonde tá no levan](https://open.spotify.com/album/5F2qrQxUooZmfbCKcBJTA7) | 2:25 |
+| 40 | [O bonde tá no levan](https://open.spotify.com/track/2Y60PGvtTVa0SXUw5vrQpv) | [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [MC KTRINE](https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL) | [O bonde tá no levan](https://open.spotify.com/album/5F2qrQxUooZmfbCKcBJTA7) | 2:25 |
+| 41 | [Dedo na ferida](https://open.spotify.com/track/5iKY4gOVZwpnRG9v4dj3g3) | [Mya Akoma](https://open.spotify.com/artist/5E23K9Xg1OT6rfo0SUWzQy), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [Teimosia](https://open.spotify.com/album/40ed9TI4ZVDLJQcobMH9mw) | 2:51 |
 | 42 | [Setor Norte](https://open.spotify.com/track/0zdTPSdNRsIHL7eYzGtek1) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [O Jogo Virou](https://open.spotify.com/album/5JMSlSMw4tkpbCWcv5vhFY) | 2:37 |
 | 43 | [SÍNDROME DE REF](https://open.spotify.com/track/4UzNmje7TGyeU5Mv1QzzVd) | [GEXIS](https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Agostinhx](https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL), [Vitonez](https://open.spotify.com/artist/3NAgETVTsxnmj2KDoRWiiL) | [SÍNDROME DE REF](https://open.spotify.com/album/0jpSx2igDLja6sFsIEmBJ0) | 2:56 |
 | 44 | [EU SOU A FONTE](https://open.spotify.com/track/7DvBUHXM86WjVQiDLASMyy) | [RIRI](https://open.spotify.com/artist/3rxmvehXBhivLmpy0wBUgS), [SlimeCunha](https://open.spotify.com/artist/6aFo1ie5TeHMbcuffLkw7a), [Cashley](https://open.spotify.com/artist/2Qwqi6HFAxi1QZSS0fQrPC), [NXRTHFACE14X](https://open.spotify.com/artist/1tFeb1mSWakaz6SPK5fwF2) | [NÓS CONTRA O MUNDO](https://open.spotify.com/album/2Cs5AiZ8KTYGWPA5vqIMni) | 2:47 |

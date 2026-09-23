@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAA/r9mUjjndYuZ7ZMfd30aT",
+  "snapshot_id": "arBzgAAAAABjHiNC1PrAZ1sDXM5rGXbu",
   "tracks": [
     {
       "added_at": null,
@@ -279,26 +279,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephen Hough's French Album",
-        "url": "https://open.spotify.com/album/5A7UWQE4NG1cv0tT14uVS4"
-      },
-      "artists": [
-        {
-          "name": "Francis Poulenc",
-          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 340813,
-      "name": "M\u00e9lancolie, FP 105",
-      "url": "https://open.spotify.com/track/3bIVr7XTn1qmYmXNoBh9oA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mozart: Music for Piano and Wind Quintet",
         "url": "https://open.spotify.com/album/1fvnQvqlY5F93r99hsw7CK"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 355506,
       "name": "III. Allegretto",
       "url": "https://open.spotify.com/track/5NJNeLmAsfFc0YG3Nl85lW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stephen Hough's French Album",
+        "url": "https://open.spotify.com/album/5A7UWQE4NG1cv0tT14uVS4"
+      },
+      "artists": [
+        {
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 340813,
+      "name": "M\u00e9lancolie, FP 105",
+      "url": "https://open.spotify.com/track/3bIVr7XTn1qmYmXNoBh9oA"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Refreshing Classics",
-        "url": "https://open.spotify.com/album/1svm5RMWo9F37Ftiaru3hh"
-      },
-      "artists": [
-        {
-          "name": "Moritz Moszkowski",
-          "url": "https://open.spotify.com/artist/5x2Ufw4gSPVw4TNcGCpFT1"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 117600,
-      "name": "Moszkowski: 6 Klavierst\u00fccke, Op. 15: No. 1, Serenata",
-      "url": "https://open.spotify.com/track/0tol2GiNJ5qJA8m52hscNb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stephen Hough's Dream Album: Piano Bonbons",
         "url": "https://open.spotify.com/album/6pYHXV0JjfTZbBz7xWUPdm"
       },
@@ -771,6 +751,34 @@
       "duration_ms": 129946,
       "name": "Solitude, Op. 73 No. 6 (Arr. Hough for Piano)",
       "url": "https://open.spotify.com/track/6jtmWw9m9AQU8vVQLyycaz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beethoven: Piano Concertos Nos. 1-5",
+        "url": "https://open.spotify.com/album/6jUAmivzjgDifAcMMcSQWN"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Finnish Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5Lf1SAS15AisICBsyP1L0Z"
+        },
+        {
+          "name": "Hannu Lintu",
+          "url": "https://open.spotify.com/artist/5Tmg9YbCEQSH2gft7Ftpdo"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 637200,
+      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/73DLt511eJniCAPV1DSEQO"
     },
     {
       "added_at": null,
@@ -815,34 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beethoven: Piano Concertos Nos. 1-5",
-        "url": "https://open.spotify.com/album/6jUAmivzjgDifAcMMcSQWN"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Finnish Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5Lf1SAS15AisICBsyP1L0Z"
-        },
-        {
-          "name": "Hannu Lintu",
-          "url": "https://open.spotify.com/artist/5Tmg9YbCEQSH2gft7Ftpdo"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 637200,
-      "name": "Piano Concerto No. 5 in E-Flat Major, Op. 73 \"Emperor\": III. Rondo. Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/73DLt511eJniCAPV1DSEQO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Children's Cello",
         "url": "https://open.spotify.com/album/4mQAMbLF1myizjbSMUr01o"
       },
@@ -867,22 +847,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stephen Hough's Piano Postcards",
-        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+        "name": "\"'Classical on Canvas: Bach, Mozart & more\"",
+        "url": "https://open.spotify.com/album/33qHHZO9pNtcIErDQ1uzWi"
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
         }
       ],
-      "duration_ms": 159333,
-      "name": "13 Preludes, Op. 32: No. 12 in G-Sharp Minor. Allegro",
-      "url": "https://open.spotify.com/track/0RigajCOtzHPuRGPtno63n"
+      "duration_ms": 96440,
+      "name": "Pas de quatre. Dance of the 4 Swans (Arr. Wild)",
+      "url": "https://open.spotify.com/track/3dfA3Cy8G5nRali9FqoQU9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stephen Hough's Piano Postcards",
+        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Delibes",
+          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 99666,
+      "name": "Le roi s'amuse, Sc\u00e8ne du bal: VI. Passepied (Version for Piano)",
+      "url": "https://open.spotify.com/track/55DfBgmxUPgsM1tKQMA0Cr"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liszt: An Italian Recital",
+        "url": "https://open.spotify.com/album/393r3ryRK9XDx7P8p25bqB"
+      },
+      "artists": [
+        {
+          "name": "Franz Liszt",
+          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 161040,
+      "name": "Liszt: Ave Maria IV, S. 545",
+      "url": "https://open.spotify.com/track/66GvdpjzTMbnvZtAJEkSTM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grieg: Lyric Pieces",
         "url": "https://open.spotify.com/album/6nLttkyOq3hrynxwMehBt9"
       },
@@ -931,6 +951,26 @@
       "duration_ms": 145586,
       "name": "Lyric Pieces Book 9, Op. 68: No. 5, At the Cradle",
       "url": "https://open.spotify.com/track/4McgbEFTE84obaK3EJlS0m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stephen Hough's Piano Postcards",
+        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Stephen Hough",
+          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        }
+      ],
+      "duration_ms": 159333,
+      "name": "13 Preludes, Op. 32: No. 12 in G-Sharp Minor. Allegro",
+      "url": "https://open.spotify.com/track/0RigajCOtzHPuRGPtno63n"
     },
     {
       "added_at": null,
@@ -959,26 +999,6 @@
       "duration_ms": 40293,
       "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: II. Andante, Pt. 2",
       "url": "https://open.spotify.com/track/3unzX3gaGLz6YJUnTbaTpU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stephen Hough's Piano Postcards",
-        "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Delibes",
-          "url": "https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 99666,
-      "name": "Le roi s'amuse, Sc\u00e8ne du bal: VI. Passepied (Version for Piano)",
-      "url": "https://open.spotify.com/track/55DfBgmxUPgsM1tKQMA0Cr"
     },
     {
       "added_at": null,
@@ -1023,26 +1043,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liszt: An Italian Recital",
-        "url": "https://open.spotify.com/album/393r3ryRK9XDx7P8p25bqB"
-      },
-      "artists": [
-        {
-          "name": "Franz Liszt",
-          "url": "https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2"
-        },
-        {
-          "name": "Stephen Hough",
-          "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
-        }
-      ],
-      "duration_ms": 161040,
-      "name": "Liszt: Ave Maria IV, S. 545",
-      "url": "https://open.spotify.com/track/66GvdpjzTMbnvZtAJEkSTM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stephen Hough's Piano Postcards",
         "url": "https://open.spotify.com/album/1BplgX9borAlGOqATz8mUA"
       },
@@ -1063,22 +1063,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Refreshing Classics",
-        "url": "https://open.spotify.com/album/1svm5RMWo9F37Ftiaru3hh"
+        "name": "\"Amazing Classical\" - Mozart: Piano Concerto No. 21, Barber's Adagio, Mahler's Adagietto",
+        "url": "https://open.spotify.com/album/1gWv1v5EroROEO5kyvf3Zo"
       },
       "artists": [
         {
-          "name": "Benjamin Britten",
-          "url": "https://open.spotify.com/artist/7MJ1pB5d6Vjmzep2zQlorn"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
         },
         {
           "name": "Stephen Hough",
           "url": "https://open.spotify.com/artist/3G5zQYaRH9y6ruE4QnoITP"
+        },
+        {
+          "name": "Bryden Thomson",
+          "url": "https://open.spotify.com/artist/7q7RpicjbjUik3RCrjSKuz"
+        },
+        {
+          "name": "Hall\u00e9",
+          "url": "https://open.spotify.com/artist/0VzwesVsEMjYDaMrrdukam"
         }
       ],
-      "duration_ms": 127346,
-      "name": "Britten: Holiday Diary, Op. 5: I. Early Morning Bathe",
-      "url": "https://open.spotify.com/track/1WwljRnNW2V5gFGbiC1ZW4"
+      "duration_ms": 44653,
+      "name": "Mozart: Piano Concerto No. 21 in C Major, K. 467: I. Allegro maestoso, Pt. 2",
+      "url": "https://open.spotify.com/track/1twdkBmhBRRc4MaKXAXhNm"
     }
   ],
   "unique_name": "This Is Stephen Hough",

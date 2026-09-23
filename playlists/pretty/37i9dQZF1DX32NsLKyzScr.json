@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2586805,
+  "num_followers": 2586730,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
+        "name": "Addicted To Bass (Dom Dolla Relapse)",
+        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Puretone",
+          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
+        }
+      ],
+      "duration_ms": 189179,
+      "name": "Addicted To Bass (Dom Dolla Relapse)",
+      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
+    },
+    {
+      "added_at": "2026-09-18 04:01:57",
+      "album": {
         "name": "ALL THE TIME",
         "url": "https://open.spotify.com/album/6wDs2CP86hhNiDlySlMgZy"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 180340,
       "name": "ALL THE TIME",
       "url": "https://open.spotify.com/track/1V8eQfZ1zpcdA9ctIb6fY7"
-    },
-    {
-      "added_at": "2026-09-18 04:01:57",
-      "album": {
-        "name": "Addicted To Bass (Dom Dolla Relapse)",
-        "url": "https://open.spotify.com/album/659fi13MrTySSxJqmatMMu"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Puretone",
-          "url": "https://open.spotify.com/artist/0Ykcjr4TDZEiWlv6ULmSK8"
-        }
-      ],
-      "duration_ms": 189179,
-      "name": "Addicted To Bass (Dom Dolla Relapse)",
-      "url": "https://open.spotify.com/track/0umvGSFCXSyrHGcXKwsvCg"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -887,30 +887,6 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
-        "name": "CTRL ESCAPE",
-        "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 203076,
-      "name": "SHADES OF BLUE",
-      "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
-    },
-    {
-      "added_at": "2026-09-18 04:01:57",
-      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
       },
@@ -931,6 +907,30 @@
       "duration_ms": 158181,
       "name": "Keep Up",
       "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
+    },
+    {
+      "added_at": "2026-09-18 04:01:57",
+      "album": {
+        "name": "CTRL ESCAPE",
+        "url": "https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "Devault",
+          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 203076,
+      "name": "SHADES OF BLUE",
+      "url": "https://open.spotify.com/track/6Pr51Pbeeu9PXskLUBfaBf"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -1019,6 +1019,26 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
+        "name": "7 Days",
+        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 207187,
+      "name": "7 Days",
+      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
+    },
+    {
+      "added_at": "2026-09-18 04:01:57",
+      "album": {
         "name": "When The Light Breaks",
         "url": "https://open.spotify.com/album/1TUAfWl3NJj9yG1Bv9LwvA"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 213554,
       "name": "When The Light Breaks",
       "url": "https://open.spotify.com/track/5rPj0HY2HsT8qneZQL0jJk"
-    },
-    {
-      "added_at": "2026-09-18 04:01:57",
-      "album": {
-        "name": "7 Days",
-        "url": "https://open.spotify.com/album/6GmRL1IwZjDeVxZJBwf8Oq"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "7 Days",
-      "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -1247,6 +1247,34 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv"
+      },
+      "artists": [
+        {
+          "name": "HAL\u014c",
+          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "duration_ms": 214696,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
+    },
+    {
+      "added_at": "2026-09-18 04:01:57",
+      "album": {
         "name": "Annihilation",
         "url": "https://open.spotify.com/album/6y9alfpegbSRAG98P91Nk0"
       },
@@ -1303,6 +1331,22 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
+        "name": "sound di alarm",
+        "url": "https://open.spotify.com/album/6BIVBxODB2ZY7Xmt9HuyPf"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 220444,
+      "name": "sound di alarm",
+      "url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng"
+    },
+    {
+      "added_at": "2026-09-18 04:01:57",
+      "album": {
         "name": "Electrify",
         "url": "https://open.spotify.com/album/2BllKa75Mt0XF59p9xd0bs"
       },
@@ -1315,34 +1359,6 @@
       "duration_ms": 156428,
       "name": "Electrify",
       "url": "https://open.spotify.com/track/6GqRZMF2nCtYakIrnkpith"
-    },
-    {
-      "added_at": "2026-09-18 04:01:57",
-      "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv"
-      },
-      "artists": [
-        {
-          "name": "HAL\u014c",
-          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        }
-      ],
-      "duration_ms": 214696,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -1379,6 +1395,26 @@
       "duration_ms": 219971,
       "name": "Is It Over Now?",
       "url": "https://open.spotify.com/track/7a1HZI7drZ3Rn0EYGAnrgC"
+    },
+    {
+      "added_at": "2026-09-18 04:01:57",
+      "album": {
+        "name": "Beauty In Us",
+        "url": "https://open.spotify.com/album/5p39MNTTjZm34glv6Bk7E7"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        },
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 172166,
+      "name": "Beauty In Us",
+      "url": "https://open.spotify.com/track/71Blq9QnHZaCsKl2Cugrjf"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -1423,18 +1459,18 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
-        "name": "sound di alarm",
-        "url": "https://open.spotify.com/album/6BIVBxODB2ZY7Xmt9HuyPf"
+        "name": "Palm Of Your Hands",
+        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
       },
       "artists": [
         {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
         }
       ],
-      "duration_ms": 220444,
-      "name": "sound di alarm",
-      "url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng"
+      "duration_ms": 205063,
+      "name": "Palm Of Your Hands",
+      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -1507,26 +1543,6 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
-        "name": "Beauty In Us",
-        "url": "https://open.spotify.com/album/5p39MNTTjZm34glv6Bk7E7"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        },
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "Beauty In Us",
-      "url": "https://open.spotify.com/track/71Blq9QnHZaCsKl2Cugrjf"
-    },
-    {
-      "added_at": "2026-09-18 04:01:57",
-      "album": {
         "name": "Gravity (feat. SACHA)",
         "url": "https://open.spotify.com/album/79aF8LZe8qAienSve3qjTo"
       },
@@ -1551,18 +1567,18 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
-        "name": "Palm Of Your Hands",
-        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
+        "name": "No Way I'm Giving Up",
+        "url": "https://open.spotify.com/album/09cwqDdGJH7Lwe3cfvjHwJ"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
         }
       ],
-      "duration_ms": 205063,
-      "name": "Palm Of Your Hands",
-      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
+      "duration_ms": 145964,
+      "name": "No Way I'm Giving Up",
+      "url": "https://open.spotify.com/track/35GQvyOFRohoTeb5jmYcZd"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -1591,22 +1607,6 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
-        "name": "No Way I'm Giving Up",
-        "url": "https://open.spotify.com/album/09cwqDdGJH7Lwe3cfvjHwJ"
-      },
-      "artists": [
-        {
-          "name": "Neptunica",
-          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
-        }
-      ],
-      "duration_ms": 145964,
-      "name": "No Way I'm Giving Up",
-      "url": "https://open.spotify.com/track/35GQvyOFRohoTeb5jmYcZd"
-    },
-    {
-      "added_at": "2026-09-18 04:01:57",
-      "album": {
         "name": "5AM",
         "url": "https://open.spotify.com/album/1H4LHLHLLckvd7VAgInxwP"
       },
@@ -1619,6 +1619,26 @@
       "duration_ms": 204324,
       "name": "5AM",
       "url": "https://open.spotify.com/track/59oSJUWLxsD6gQRup9aGCY"
+    },
+    {
+      "added_at": "2026-09-18 04:01:57",
+      "album": {
+        "name": "Turn Up The Dose",
+        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "SCRIPT",
+          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
+        }
+      ],
+      "duration_ms": 172615,
+      "name": "Turn Up The Dose",
+      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -1643,26 +1663,6 @@
       "duration_ms": 220439,
       "name": "On My Own (Feat. Darla Jade)",
       "url": "https://open.spotify.com/track/6hIrJ88yxwqnvdvnnXHVkC"
-    },
-    {
-      "added_at": "2026-09-18 04:01:57",
-      "album": {
-        "name": "Turn Up The Dose",
-        "url": "https://open.spotify.com/album/4QVwTM7fq8X71sXAPhMi7P"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "SCRIPT",
-          "url": "https://open.spotify.com/artist/4CvDmoy5yE6L4hdBOHg1sz"
-        }
-      ],
-      "duration_ms": 172615,
-      "name": "Turn Up The Dose",
-      "url": "https://open.spotify.com/track/4IIb4DQxNBAowpUJmKYNMD"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -2003,6 +2003,26 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
+        "name": "Welcome 2 Miami",
+        "url": "https://open.spotify.com/album/5fYN1CVZnEcvflPDa0UvHW"
+      },
+      "artists": [
+        {
+          "name": "DANNY AVILA",
+          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
+        },
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "duration_ms": 192923,
+      "name": "Welcome 2 Miami",
+      "url": "https://open.spotify.com/track/1cKE1icepv5syN00224VYX"
+    },
+    {
+      "added_at": "2026-09-18 04:01:57",
+      "album": {
         "name": "Repeat It",
         "url": "https://open.spotify.com/album/01deBuS0GqIpL6avvXaE11"
       },
@@ -2023,22 +2043,18 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
-        "name": "Welcome 2 Miami",
-        "url": "https://open.spotify.com/album/5fYN1CVZnEcvflPDa0UvHW"
+        "name": "Risk Everything",
+        "url": "https://open.spotify.com/album/5wZzRMlFZIv96G99JHqZw9"
       },
       "artists": [
         {
-          "name": "DANNY AVILA",
-          "url": "https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci"
-        },
-        {
-          "name": "Nicole Moudaber",
-          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+          "name": "Pretty Pink",
+          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
         }
       ],
-      "duration_ms": 192923,
-      "name": "Welcome 2 Miami",
-      "url": "https://open.spotify.com/track/1cKE1icepv5syN00224VYX"
+      "duration_ms": 153230,
+      "name": "Risk Everything",
+      "url": "https://open.spotify.com/track/6QDIcY4mD3Ziney6N06Z1p"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -2067,18 +2083,18 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
-        "name": "Risk Everything",
-        "url": "https://open.spotify.com/album/5wZzRMlFZIv96G99JHqZw9"
+        "name": "Love To Forget",
+        "url": "https://open.spotify.com/album/0Dv5EF9qtyUl8PAEgl7aKW"
       },
       "artists": [
         {
-          "name": "Pretty Pink",
-          "url": "https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N"
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
         }
       ],
-      "duration_ms": 153230,
-      "name": "Risk Everything",
-      "url": "https://open.spotify.com/track/6QDIcY4mD3Ziney6N06Z1p"
+      "duration_ms": 181875,
+      "name": "Love To Forget",
+      "url": "https://open.spotify.com/track/1ReHikh8XCINUyyYZybTYe"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -2115,22 +2131,6 @@
       "duration_ms": 260039,
       "name": "Picasso",
       "url": "https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN"
-    },
-    {
-      "added_at": "2026-09-18 04:01:57",
-      "album": {
-        "name": "Love To Forget",
-        "url": "https://open.spotify.com/album/0Dv5EF9qtyUl8PAEgl7aKW"
-      },
-      "artists": [
-        {
-          "name": "ARTY",
-          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "Love To Forget",
-      "url": "https://open.spotify.com/track/1ReHikh8XCINUyyYZybTYe"
     },
     {
       "added_at": "2026-09-18 04:01:57",
@@ -2191,26 +2191,6 @@
     {
       "added_at": "2026-09-18 04:01:57",
       "album": {
-        "name": "Let's Get Down",
-        "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
-      },
-      "artists": [
-        {
-          "name": "Yulia Niko",
-          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
-        },
-        {
-          "name": "Supafly",
-          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "Let's Get Down",
-      "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
-    },
-    {
-      "added_at": "2026-09-18 04:01:57",
-      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/16sGFu6kYUl8S1Au9enD7k"
       },
@@ -2231,6 +2211,26 @@
       "duration_ms": 346904,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/6foHOZ75gZg19BphIKEFw4"
+    },
+    {
+      "added_at": "2026-09-18 04:01:57",
+      "album": {
+        "name": "Let's Get Down",
+        "url": "https://open.spotify.com/album/0zCxFXy6hVSLLmXPDKfb0R"
+      },
+      "artists": [
+        {
+          "name": "Yulia Niko",
+          "url": "https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3"
+        },
+        {
+          "name": "Supafly",
+          "url": "https://open.spotify.com/artist/2uBSo6TqjuddKVUp5MVqfV"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "Let's Get Down",
+      "url": "https://open.spotify.com/track/5jEgK8fb8NT3DlFqG7dqRx"
     },
     {
       "added_at": "2026-09-18 04:01:57",

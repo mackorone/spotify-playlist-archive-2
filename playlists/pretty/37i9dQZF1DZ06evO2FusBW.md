@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,248 likes - 41 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,247 likes - 41 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 15 | [Golden Gate](https://open.spotify.com/track/2iitWYam80TwVGAlLF97Q3) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 4:47 |
 | 16 | [Noah](https://open.spotify.com/track/28VLOsb8NVYCfGgXvZF7Lq) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 2:47 |
 | 17 | [Twilight Meditation](https://open.spotify.com/track/1FQD2zHg3oW1WwN9hAyfDL) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 333](https://open.spotify.com/album/7ENZjm1c4ow0aPyAUSlibf) | 4:58 |
-| 18 | [My Way of Light](https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [My Way of Light](https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF) | 3:16 |
+| 18 | [American Dream](https://open.spotify.com/track/1CYoOaiXFZgFmoy6LbNa2v) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 3:32 |
 | 19 | [Drive](https://open.spotify.com/track/1GVXbkQGidWl3obKyq51b2) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 5:05 |
-| 20 | [American Dream](https://open.spotify.com/track/1CYoOaiXFZgFmoy6LbNa2v) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Be Love](https://open.spotify.com/album/25PtUTrtPiAFlgTxHBFZ3L) | 3:32 |
+| 20 | [My Way of Light](https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [My Way of Light](https://open.spotify.com/album/6APpiI9vmvZIBwdDJ93fIF) | 3:16 |
 | 21 | [Sweet Dream](https://open.spotify.com/track/2hFqgROkIJaQ25re3xTQ8w) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [\[extended\] BLISS](https://open.spotify.com/album/7pA2ES3gv11KZ7yhmsZ4vS) | 3:17 |
 | 22 | [Tree of Light \- A Call to Arms](https://open.spotify.com/track/6gE9ia6ayDUkHwoUzZVYVQ) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Tree of Light](https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf) | 2:34 |
 | 23 | [On a Cloud](https://open.spotify.com/track/4FLnSfoyAZ1upX2uerS9XO) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [RIOPY](https://open.spotify.com/album/0MdHcPWZcFK3Su33QEERbt) | 3:46 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 40 | [Sakura](https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:49 |
 | 41 | [Meditation 111](https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 111](https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC) | 2:22 |
 
-Snapshot ID: `aq8iAAAAAADTh+o7auOGpq96y/LpWJEi`
+Snapshot ID: `arBzgAAAAACRRTtPIibdb2UZ8Q+QJAEh`

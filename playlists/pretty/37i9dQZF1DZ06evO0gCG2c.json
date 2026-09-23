@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 347098,
+  "num_followers": 347147,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAACMh033tqzkY4fPqb1/E0jM",
+  "snapshot_id": "arBzgAAAAABTS6VLTVfBJ/YUpnKWyhyx",
   "tracks": [
     {
       "added_at": null,
@@ -350,31 +350,15 @@
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 256440,
-      "name": "We Don't Care",
-      "url": "https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let's Get It: Thug Motivation 101",
-        "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
         },
         {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+          "name": "Sweet Rush",
+          "url": "https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1"
         }
       ],
-      "duration_ms": 280013,
-      "name": "Soul Survivor",
-      "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
+      "duration_ms": 237173,
+      "name": "Troublemaker",
+      "url": "https://open.spotify.com/track/7FOXrArO9CU6xVZotChlD8"
     },
     {
       "added_at": null,
@@ -395,6 +379,26 @@
       "duration_ms": 178840,
       "name": "I Wanna Fuck You",
       "url": "https://open.spotify.com/track/1G93i9ga7ZPEOqpiNhM1mq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Get It: Thug Motivation 101",
+        "url": "https://open.spotify.com/album/6hiOeC9YErltT6CnK4pfJN"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 280013,
+      "name": "Soul Survivor",
+      "url": "https://open.spotify.com/track/0Ss50OU9tCozI7JIywkv14"
     },
     {
       "added_at": null,
@@ -426,15 +430,11 @@
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Sweet Rush",
-          "url": "https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1"
         }
       ],
-      "duration_ms": 237173,
-      "name": "Troublemaker",
-      "url": "https://open.spotify.com/track/7FOXrArO9CU6xVZotChlD8"
+      "duration_ms": 256440,
+      "name": "We Don't Care",
+      "url": "https://open.spotify.com/track/5D7TXG2pmQbFeLVNBrUADb"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 75257,
+  "num_followers": 75260,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAACx6wDhqOcJCBzKfW3RKWRd",
+  "snapshot_id": "arBzgAAAAADxtvfs/qrRfIs+hvq7s5ck",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First 10 Years",
-        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 176360,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First 10 Years",
+        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 189800,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "It's All Over Now, Baby Blue",
-      "url": "https://open.spotify.com/track/7kFN6oceID4DUi29EjIYmi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 192933,
       "name": "Donna Donna",
       "url": "https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "It's All Over Now, Baby Blue",
+      "url": "https://open.spotify.com/track/7kFN6oceID4DUi29EjIYmi"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Love Is Just A Four-Letter Word",
-      "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 105973,
       "name": "Girl Of Constant Sorrow",
       "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 267200,
+      "name": "Love Is Just A Four-Letter Word",
+      "url": "https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 139240,
-      "name": "Daddy, You Been On My Mind",
-      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 152066,
       "name": "Silver Dagger",
       "url": "https://open.spotify.com/track/2hulWLdzjBexk2bxQpcUp7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 139240,
+      "name": "Daddy, You Been On My Mind",
+      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Complete Gold Castle Masters",
         "url": "https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 237173,
       "name": "A mi manera",
       "url": "https://open.spotify.com/track/656qqjnHVQCeNG3xHfDY1P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/5EijyYI9dRYEaRH1deJXOp"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 149933,
-      "name": "De Colores",
-      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Any Day Now",
         "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 274306,
       "name": "Boots Of Spanish Leather",
       "url": "https://open.spotify.com/track/0AYanyuDYbaNLNaDupBX9i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 149933,
+      "name": "De Colores",
+      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "Last Night I Had The Strangest Dream - Live",
-      "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed Are...",
         "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 186160,
       "name": "Blessed Are",
       "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Last Night I Had The Strangest Dream - Live",
+      "url": "https://open.spotify.com/track/5aLno9zzsZyQI0bEIYOwk1"
     },
     {
       "added_at": null,
@@ -639,26 +639,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deportee / Oval Room",
-        "url": "https://open.spotify.com/album/3GV4eATqhPkMEEj7bqHQM2"
+        "name": "The First 10 Years",
+        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
       },
       "artists": [
         {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        },
-        {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Memphis Mariachi",
-          "url": "https://open.spotify.com/artist/47oovDNJkP7a3m3dCLRM4E"
         }
       ],
-      "duration_ms": 243106,
-      "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
-      "url": "https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw"
+      "duration_ms": 195106,
+      "name": "There But For Fortune",
+      "url": "https://open.spotify.com/track/0kQmH9SFtYjlvat2XzL5mx"
     },
     {
       "added_at": null,
@@ -679,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The First 10 Years",
-        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "There But For Fortune",
-      "url": "https://open.spotify.com/track/0kQmH9SFtYjlvat2XzL5mx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -707,6 +683,30 @@
       "duration_ms": 181000,
       "name": "Joe Hill - Live",
       "url": "https://open.spotify.com/track/7i6UrbfRiRaR6L7eDdEARY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deportee / Oval Room",
+        "url": "https://open.spotify.com/album/3GV4eATqhPkMEEj7bqHQM2"
+      },
+      "artists": [
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Memphis Mariachi",
+          "url": "https://open.spotify.com/artist/47oovDNJkP7a3m3dCLRM4E"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "Deportee (Plane Wreck At Los Gatos) [Feat. Joan Baez & Memphis Mariachi]",
+      "url": "https://open.spotify.com/track/6sHiv0apw8SIdIK4pXy2Dw"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Never Dreamed You'd Leave In Summer",
-      "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 281000,
       "name": "I Am A Poor Wayfaring Stranger",
       "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 165026,
+      "name": "Never Dreamed You'd Leave In Summer",
+      "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 134133,
-      "name": "Llego Con Tres Heridas",
-      "url": "https://open.spotify.com/track/1QxEVZb7xDlAOmc0hPs2L7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Best Of Joan Baez",
         "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 171000,
       "name": "The Water Is Wide - Live",
       "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The First 10 Years",
+        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 129039,
+      "name": "If I Were A Carpenter",
+      "url": "https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa"
     }
   ],
   "unique_name": "This Is Joan Baez",

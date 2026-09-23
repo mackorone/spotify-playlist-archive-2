@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 218662,
+  "num_followers": 218695,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAATVNa0M86tvOJswGau3Ued",
+  "snapshot_id": "arBzgAAAAAAqxwn/33yWPLMk52tBjQMz",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Camino",
+        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 217913,
+      "name": "Mi Camino",
+      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bueno Pa Lo Malo",
         "url": "https://open.spotify.com/album/3EYmozDR9AJxr9RSJi5NRt"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 399230,
       "name": "Bueno Pa Lo Malo",
       "url": "https://open.spotify.com/track/37Wk4Hhm4MIy6Q1Vg8nVMO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Camino",
-        "url": "https://open.spotify.com/album/6OgELu9sCBTURNGzdykl2v"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 217913,
-      "name": "Mi Camino",
-      "url": "https://open.spotify.com/track/0JUO8vzP1ggpnA3DODSiNC"
     },
     {
       "added_at": null,

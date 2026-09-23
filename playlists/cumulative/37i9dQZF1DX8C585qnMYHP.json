@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new music by independent Experimental artists. Dance Arts Center on cover. Artwork by Thami Nabil.",
+  "description": "The best new music by independent Experimental artists. The Nightclubs on cover. Artwork by Thami Nabil.",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -1830,7 +1830,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 164000,
       "name": "alas",
       "url": "https://open.spotify.com/track/7GBP8JHmXu06xzJzsWdn4D"
@@ -5358,7 +5358,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 152000,
       "name": "Blue Kembang",
       "url": "https://open.spotify.com/track/5W5oIe46g49kfTEkxd8oPN"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 245208,
       "name": "Brisk",
       "url": "https://open.spotify.com/track/4UK8zVdpjLjoZs71ekqczK"
@@ -7542,6 +7542,24 @@
       "duration_ms": 403980,
       "name": "City Of Red Sand",
       "url": "https://open.spotify.com/track/5pQI4osudR5207IiprBP7J"
+    },
+    {
+      "album": {
+        "name": "Clairaudient",
+        "url": "https://open.spotify.com/album/734BY4CnIjCYBZ3xcwuUyw"
+      },
+      "artists": [
+        {
+          "name": "The Nightclubs",
+          "url": "https://open.spotify.com/artist/3gOzPWiQRmJq1vTZYCypdJ"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190561,
+      "name": "Clairaudient",
+      "url": "https://open.spotify.com/track/673pHgIYvDWw14v2mx2BhH"
     },
     {
       "album": {
@@ -9259,6 +9277,24 @@
     },
     {
       "album": {
+        "name": "Dedeoka",
+        "url": "https://open.spotify.com/album/73i5csGjm1IH7rU6HHJcJC"
+      },
+      "artists": [
+        {
+          "name": "Meiv",
+          "url": "https://open.spotify.com/artist/1VyP8YxgrdqUxSEPf59kq2"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162448,
+      "name": "Dedeoka",
+      "url": "https://open.spotify.com/track/08KtPceDxCvdZmTYGHcrZw"
+    },
+    {
+      "album": {
         "name": "AIDOL (O.S.T.)",
         "url": "https://open.spotify.com/album/0gJcfpCTgTeNnWiDO587T7"
       },
@@ -10366,7 +10402,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 192720,
       "name": "Dora Neko",
       "url": "https://open.spotify.com/track/3s6pOKYVVQow6p5Y9nTcW9"
@@ -12126,7 +12162,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 237187,
       "name": "Evergreen wardrobe",
       "url": "https://open.spotify.com/track/4mHhbWJvEJdmd9LQfSNpOU"
@@ -15822,7 +15858,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 276060,
       "name": "Haky\u014d No Kiki",
       "url": "https://open.spotify.com/track/2a337CWgpE7ZtApCIlT7h6"
@@ -16385,6 +16421,24 @@
     },
     {
       "album": {
+        "name": "hit me",
+        "url": "https://open.spotify.com/album/45vIIi3p4DhJPnIOjKua4e"
+      },
+      "artists": [
+        {
+          "name": "auglie",
+          "url": "https://open.spotify.com/artist/3QpRacTrTh7cMFWOyV3Cis"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167586,
+      "name": "hit me",
+      "url": "https://open.spotify.com/track/5IMn7ZTgc5uqm5eZTnY0Lq"
+    },
+    {
+      "album": {
         "name": "The 39 Steps",
         "url": "https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06"
       },
@@ -16504,7 +16558,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 251500,
       "name": "HOLD ME (SLOWLY)",
       "url": "https://open.spotify.com/track/2PLrLPJX9UOXTAWMsJqR9m"
@@ -23967,6 +24021,24 @@
     },
     {
       "album": {
+        "name": "MOND LAN FINI",
+        "url": "https://open.spotify.com/album/1Qisv9vOovOb19NxfBB4dM"
+      },
+      "artists": [
+        {
+          "name": "B0YG1RL",
+          "url": "https://open.spotify.com/artist/0qhwdD2NFfJ8eCK1hKlAiq"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158297,
+      "name": "MOND LAN FINI",
+      "url": "https://open.spotify.com/track/2J5vKGVQ05dpdadZwDvEid"
+    },
+    {
+      "album": {
         "name": "Crime in Australia",
         "url": "https://open.spotify.com/album/374ZskICJ6vrlxDJZhiq7f"
       },
@@ -25534,7 +25606,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 193871,
       "name": "no answer greater than silence, no punishment greater than forgiveness",
       "url": "https://open.spotify.com/track/1yFJ1xSM057m00HXDMHsJK"
@@ -26054,7 +26126,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 139354,
       "name": "notime\u2026",
       "url": "https://open.spotify.com/track/6qL1c0iuEhxV8a1Rt1l3ww"
@@ -26108,7 +26180,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 344470,
       "name": "NUG46",
       "url": "https://open.spotify.com/track/0ipdaEBRDxWIigU5PfSUlU"
@@ -31519,6 +31591,32 @@
     },
     {
       "album": {
+        "name": "New Side",
+        "url": "https://open.spotify.com/album/6Tj3hYY7OkHRKYKHZ1cFuF"
+      },
+      "artists": [
+        {
+          "name": "You-On",
+          "url": "https://open.spotify.com/artist/77WgW5fjfVGo2IbswsXIgQ"
+        },
+        {
+          "name": "Jim White",
+          "url": "https://open.spotify.com/artist/2e5Czu1HGML44EmIuNsA4o"
+        },
+        {
+          "name": "Masami Tomihisa",
+          "url": "https://open.spotify.com/artist/1qIABoiwYBSaVKN8Z7EBw2"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170653,
+      "name": "Searchlight",
+      "url": "https://open.spotify.com/track/27fKfkbPrAR2TnjuHFpZ8P"
+    },
+    {
+      "album": {
         "name": "Seastar",
         "url": "https://open.spotify.com/album/4Gr9vPLeWhsNDzF07HEEp8"
       },
@@ -31588,7 +31686,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 439096,
       "name": "Secret Garden",
       "url": "https://open.spotify.com/track/5n6ZUXNRoo6mRpkb1lsg0s"
@@ -39167,6 +39265,24 @@
     },
     {
       "album": {
+        "name": "Samfer\u00f0a",
+        "url": "https://open.spotify.com/album/5HrfZrXBn5rfrJUicX9Xb7"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3shildur",
+          "url": "https://open.spotify.com/artist/1P39L2HVvG5bBb1mSUuye8"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196002,
+      "name": "T\u00edmi, ekki l\u00ed\u00f0a",
+      "url": "https://open.spotify.com/track/6MotYNxxvlRO3sqa1bciLK"
+    },
+    {
+      "album": {
         "name": "Lake from the Louvers",
         "url": "https://open.spotify.com/album/6LuOofVGw0EfkV1RZdWHOV"
       },
@@ -42240,7 +42356,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 213000,
       "name": "With You, I'd be Closer to God",
       "url": "https://open.spotify.com/track/7BeFFrnf4YaVRTAgdJ6Dda"
@@ -42438,7 +42554,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 349229,
       "name": "worm101",
       "url": "https://open.spotify.com/track/5CIOpys2S1eyWhJTXpfrr0"
@@ -42824,7 +42940,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 236230,
       "name": "You'll Never Get The Same Moment Twice",
       "url": "https://open.spotify.com/track/1nmZv1cDqbtPuF8CU9arc9"

@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Dudamel. The essential tracks, all in one playlist.",
-  "num_followers": 2252,
+  "num_followers": 2257,
   "original_name": "This Is Gustavo Dudamel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADH3X2oUHLTM4ET3X5PntX3",
+  "snapshot_id": "arBzgAAAAABerx8V9FjKQX8BFx5hEMor",
   "tracks": [
     {
       "added_at": null,
@@ -519,26 +519,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Discoveries",
-        "url": "https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP"
+        "name": "Homage to Heifetz",
+        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
       },
       "artists": [
         {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+          "name": "Erich Wolfgang Korngold",
+          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
         },
         {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
         },
         {
           "name": "Gustavo Dudamel",
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 67826,
-      "name": "Nutcracker Suite, Op. 71a, TH. 35: IIc. Danse russe Tr\u00e9pak (Tempo di Tr\u00e9pak, molto vivace)",
-      "url": "https://open.spotify.com/track/2ZVHeQ8vl4BomNPGnSpf6K"
+      "duration_ms": 583613,
+      "name": "Violin Concerto in D Major, Op. 35: I. Moderato nobile",
+      "url": "https://open.spotify.com/track/2CozG9JJ2FH84TqFXGXuJm"
     },
     {
       "added_at": null,
@@ -623,30 +627,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homage to Heifetz",
-        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
+        "name": "Discoveries",
+        "url": "https://open.spotify.com/album/1vjm2BRgppYPG6A70CG3cP"
       },
       "artists": [
         {
-          "name": "Erich Wolfgang Korngold",
-          "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
         },
         {
-          "name": "Mar\u00eda Due\u00f1as",
-          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
         },
         {
           "name": "Gustavo Dudamel",
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 583613,
-      "name": "Violin Concerto in D Major, Op. 35: I. Moderato nobile",
-      "url": "https://open.spotify.com/track/2CozG9JJ2FH84TqFXGXuJm"
+      "duration_ms": 67826,
+      "name": "Nutcracker Suite, Op. 71a, TH. 35: IIc. Danse russe Tr\u00e9pak (Tempo di Tr\u00e9pak, molto vivace)",
+      "url": "https://open.spotify.com/track/2ZVHeQ8vl4BomNPGnSpf6K"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Zlatan. The essential tracks, all in one playlist.",
-  "num_followers": 9254,
+  "num_followers": 9264,
   "original_name": "This Is Zlatan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAACFoZWLlMuULvU9ZD6z2Oeb",
+  "snapshot_id": "arBzgAAAAADdG2Kf4LtXGORQYBnrKdhJ",
   "tracks": [
     {
       "added_at": null,
@@ -283,18 +283,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "ITALAWA",
-        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
+        "name": "JET",
+        "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
       },
       "artists": [
+        {
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+        },
+        {
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 173142,
-      "name": "ITALAWA",
-      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
+      "duration_ms": 175200,
+      "name": "JET",
+      "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
     },
     {
       "added_at": null,
@@ -319,26 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "JET",
-        "url": "https://open.spotify.com/album/0A2ZAlxeTaZdnSuyzBZGZW"
+        "name": "ITALAWA",
+        "url": "https://open.spotify.com/album/6ukDd8i7mHHBeXEnicGh7W"
       },
       "artists": [
-        {
-          "name": "SAMAD",
-          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
-        },
-        {
-          "name": "Chech",
-          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
-        },
         {
           "name": "Zlatan",
           "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 175200,
-      "name": "JET",
-      "url": "https://open.spotify.com/track/57hvQIucaegfjRMdPzIcRr"
+      "duration_ms": 173142,
+      "name": "ITALAWA",
+      "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
     },
     {
       "added_at": null,
@@ -599,6 +599,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "STREET THERAPIST",
+        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
+      },
+      "artists": [
+        {
+          "name": "Famous Pluto",
+          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 167657,
+      "name": "14DRoad",
+      "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hallelu",
         "url": "https://open.spotify.com/album/61WdROyGDMJQDI91kpMVLM"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 213492,
       "name": "Hallelu",
       "url": "https://open.spotify.com/track/0C8RxBixBaXYc5enAXIm28"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "STREET THERAPIST",
-        "url": "https://open.spotify.com/album/6uFxGbJq6pxF7TUVufFC4i"
-      },
-      "artists": [
-        {
-          "name": "Famous Pluto",
-          "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 167657,
-      "name": "14DRoad",
-      "url": "https://open.spotify.com/track/6ttgo09Dm9yZfVUhQ4flbC"
     },
     {
       "added_at": null,
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Symbol of Hope",
+        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 131592,
+      "name": "Pay Day",
+      "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uncle K: Lemon Chase",
         "url": "https://open.spotify.com/album/0nydN3qx0FP0T241UBQZPF"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 139666,
       "name": "Secure",
       "url": "https://open.spotify.com/track/0esYF9xrVgLdKPVAN0mrN4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Symbol of Hope",
-        "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 131592,
-      "name": "Pay Day",
-      "url": "https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 161066,
-      "name": "Ale Yi",
-      "url": "https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Symbol of Hope",
         "url": "https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 165063,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/6xMm0m21a8IIHDxRdY4H8P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 161066,
+      "name": "Ale Yi",
+      "url": "https://open.spotify.com/track/2DKu5sidKO85F6HOZXdVX8"
     },
     {
       "added_at": null,
@@ -955,6 +955,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Omo Ologo",
+        "url": "https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj"
+      },
+      "artists": [
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Omo Ologo",
+      "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Resan",
         "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 167213,
       "name": "Money",
       "url": "https://open.spotify.com/track/7nZYHOgh3h09onNIZIFLOm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Omo Ologo",
-        "url": "https://open.spotify.com/album/6WVOGN9cZXklfo0aLKaCjj"
-      },
-      "artists": [
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Omo Ologo",
-      "url": "https://open.spotify.com/track/1XqSILGQNyilzYxXSmtcxR"
     },
     {
       "added_at": null,

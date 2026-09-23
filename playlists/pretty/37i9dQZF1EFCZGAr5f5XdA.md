@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,067 likes - 221 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,072 likes - 221 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,8 +193,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 183 | [Heaven](https://open.spotify.com/track/451zgY3T1avOqREfcio9WX) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Heaven](https://open.spotify.com/album/6clTUHFKfFoea1lEfYysCl) | 2:43 |
 | 184 | [bottomline \(feat\. JoJo\)](https://open.spotify.com/track/1lKFDImYTHzIGPtiQQZSwu) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 3:22 |
 | 185 | [Dead Presidents \(feat\. Jon Bellion\)](https://open.spotify.com/track/5zxTvYR4KtFVBdOVKWdLKM) | [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Closure](https://open.spotify.com/album/14YwIucMmKcVi6IW2P9vt8) | 3:33 |
-| 186 | [GET IT RIGHT](https://open.spotify.com/track/3opHXLp5teEhmdVdDA9MJ9) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:13 |
-| 187 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
+| 186 | [Love Language](https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [In A World We Don't Belong \(Pt.1\)](https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6) | 2:56 |
+| 187 | [GET IT RIGHT](https://open.spotify.com/track/3opHXLp5teEhmdVdDA9MJ9) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:13 |
 | 188 | [ITALIA BREEZE](https://open.spotify.com/track/2P4p0vLttYRbUc754WQJNW) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 3:20 |
 | 189 | [DON'T SHOOT](https://open.spotify.com/track/30S2Wy2y1rdFE0pBKWBFJD) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [FATHER FIGURE](https://open.spotify.com/album/5xKTTHKTTFyNxtOLGtznaR) | 4:16 |
 | 190 | [distance](https://open.spotify.com/track/21AKjDqarlr1DgcGPnazg6) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TORI\. \(+ a lil more\)](https://open.spotify.com/album/3dWoEpuWxKeSv1GLWh42tg) | 3:10 |
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 220 | [High Horse](https://open.spotify.com/track/7GMgbF87l9dj8XWLMlehdz) | [The Laissez Fairs](https://open.spotify.com/artist/1J4rwIayXHw7S6oEYBiiuP) | [Empire of Mars](https://open.spotify.com/album/6ukHxOWQZSt7Z2osTmKAGt) | 3:33 |
 | 221 | [Break These Walls](https://open.spotify.com/track/36Z2l0DlYqChUzYMjNqt9s) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/1ewpID3ekASORuzC28Lh3K) | 4:00 |
 
-Snapshot ID: `Acc7nAAAAACOMnwro1ioxVE6fuWhZArI`
+Snapshot ID: `AcdBUAAAAADiNVo2JeOzSVWiKNXGGGR4`

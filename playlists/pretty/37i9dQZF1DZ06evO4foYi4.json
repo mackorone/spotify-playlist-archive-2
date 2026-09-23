@@ -1,12 +1,12 @@
 {
   "description": "This is St. Vincent. The essential tracks, all in one playlist.",
-  "num_followers": 55847,
+  "num_followers": 55848,
   "original_name": "This Is St. Vincent",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABdlJ3SkPQ/C+dqm/tTIrM/",
+  "snapshot_id": "arBzgAAAAACPoQ3pALNL2NvKnkOkyItL",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 179920,
-      "name": "Bad Believer",
-      "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Saves, I Spend",
         "url": "https://open.spotify.com/album/05JkgPTxUIXWkiZf96VAYa"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 199320,
       "name": "These Days",
       "url": "https://open.spotify.com/track/17euxWBhHT86yFjGuP9tSw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 201760,
+      "name": "Regret",
+      "url": "https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Vincent (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 201760,
-      "name": "Regret",
-      "url": "https://open.spotify.com/track/2OCus0BsjJFo7E2TSAGnIe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DOA (From \u201cDeath of a Unicorn\u201d)",
         "url": "https://open.spotify.com/album/107eGYEUjozNfb5T4WudD0"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 211200,
       "name": "DOA - From \u201cDeath of a Unicorn\u201d",
       "url": "https://open.spotify.com/track/0wLDvJqCL6APHBa5uPxSJI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Vincent (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2FtneRtIF1I5HPBsIxSqf0"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 179920,
+      "name": "Bad Believer",
+      "url": "https://open.spotify.com/track/1VxW8LraxdE168OWaytqrC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-359 songs - 18 hr 40 min
+360 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bar Song \(Tipsy Techno\)](https://open.spotify.com/track/3KyuAMSYdYdEiBoAvB9xDh) | [GRATIFY](https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh), [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Norman Alexander](https://open.spotify.com/artist/6ELWY3ndzSYY82O8sR81Ts) | [Bar Song \(Tipsy Techno\)](https://open.spotify.com/album/6eAhvsBUMtub3ha90qexgI) | 2:15 | 2024-10-11 |  |
 | [BARBEE \- On Acid](https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Joeski](https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7) | [BARBEE \(On Acid\)](https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h) | 3:28 | 2023-08-18 | 2023-09-20 |
 | [Bass Boys](https://open.spotify.com/track/7vMU4De9ruZBTCbseWEQUm) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Bass Boys](https://open.spotify.com/album/6TKh7sIL5jpfogX4vGf5P6) | 2:59 | 2025-02-07 | 2026-08-18 |
+| [Bass Head](https://open.spotify.com/track/3GInjxqUoBHBZAyFvOOD5I) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [TENT78 \(\#2\)](https://open.spotify.com/album/46pbB2EZ6SnWtOpwkSwPvY) | 2:43 | 2026-09-18 |  |
 | [Be The One](https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Be The One](https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK) | 2:49 | 2023-08-11 |  |
 | [Beethoven's Aria Für Elise](https://open.spotify.com/track/3auOQTnNNJZaKJl2nlDtGv) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Beethoven's Aria Für Elise](https://open.spotify.com/album/60arWJQ36tblu7ootxVhAJ) | 2:29 | 2025-04-25 |  |
 | [Berghain \- Remix](https://open.spotify.com/track/7CI5IAi2z70tyJIVXxsHfw) | [Conrad Taylor](https://open.spotify.com/artist/2xycbnmcCACddcAnOanEnw), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [Berghain \(Remix\)](https://open.spotify.com/album/5tY5Hafl8siFkPnxyllYVR) | 2:34 | 2026-03-09 |  |
@@ -365,7 +366,7 @@
 | [Winter \(The Four Seasons\) \- Techno Mix](https://open.spotify.com/track/3UPltDNDxsC4rot0fJwBjv) | [LANNÉ](https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH), [Blaze U](https://open.spotify.com/artist/2qY02HUpBMVIy3oGX8URf1), [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO) | [Winter \(The Four Seasons\) \[Techno Mix\]](https://open.spotify.com/album/2yEIqIvFwLaz1WIthNjff3) | 1:55 | 2024-05-10 |  |
 | [Work That Body](https://open.spotify.com/track/20NQhs8KmLKBXmPJXB7jn9) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Temper](https://open.spotify.com/artist/0mvc9ZkNsOGa8coriUFV1h), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Work That Body](https://open.spotify.com/album/6olBCFfy8ATzQRpxQrPnfy) | 2:15 | 2025-05-16 | 2025-06-06 |
 | [XTC](https://open.spotify.com/track/6UQp47gAFE7KmAhh3eutMb) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [XTC](https://open.spotify.com/album/5hmgtCgjbaSRGHY9B2W1w2) | 2:56 | 2024-07-12 | 2024-12-02 |
-| [Young Birds](https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc) | [Global Awakening](https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9) | 2:53 | 2024-12-13 |  |
+| [Young Birds](https://open.spotify.com/track/7JHh1O6wuoUTpdZmJaPrWU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [Dr\. Phil Omanski](https://open.spotify.com/artist/7jW78RDarQBikuSXe9WkLD), [DJ Weirdo](https://open.spotify.com/artist/6Vt68J5KBWTgaKNqKKL3Fc) | [Global Awakening](https://open.spotify.com/album/6aHGQKNhpHKLXzr2BYzxA9) | 2:53 | 2024-12-13 | 2026-09-23 |
 | [Young Forever](https://open.spotify.com/track/2aAjWdZ7TsQYvyRUzAFXmB) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Young Forever](https://open.spotify.com/album/4BOWZWwm6WVWmco0HKt80s) | 3:47 | 2025-10-17 |  |
 
 \*This playlist was first scraped on 2023-08-12. Prior content cannot be recovered.

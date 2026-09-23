@@ -4,7 +4,7 @@
 
 > That real soulful house sound.
 
-421 songs - 1 day 19 hr 16 min
+422 songs - 1 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Let Me See You \(Clap Your Hands\)](https://open.spotify.com/track/1Rji2sKlCxwfyxuk8N8FlX) | [Michele Chiavarini](https://open.spotify.com/artist/5ec2x41RmuQqBYAKbQ7nhr) | [Let Me See You \(Clap Your Hands\) EP](https://open.spotify.com/album/1GOW3vMJfYO4pTXxtcmqMO) | 8:13 | 2022-09-13 | 2025-02-09 |
 | [Let the Drums Speak \- Phil Asher Mix](https://open.spotify.com/track/3ta8AmSMy4a8DmrYrWDFrU) | [Bah Samba](https://open.spotify.com/artist/6rlJLH47KEHCHOtrRbwagW), [Fatback Band](https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6), [Phil Asher](https://open.spotify.com/artist/1TltGeYRJu8JbGgSoisLfO) | [1996 \- 2006 The House Album](https://open.spotify.com/album/42JvpUZuj716xD5fIwa5uO) | 10:00 | 2022-09-13 | 2025-02-09 |
 | [Let's Do It Again \- Kenny Dope O'gutta Remix](https://open.spotify.com/track/458Ky1y8fOO2ahnH4xEYO6) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [Kenny Dope](https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX) | [Let's Do It Again \(Kenny Dope Remixes\)](https://open.spotify.com/album/2oJhbjPREc8OjdCWq1BLff) | 6:21 | 2022-09-13 | 2023-11-05 |
+| [Life](https://open.spotify.com/track/6LJOKzG94dpvgQb5ETdMEv) | [Sandra St\. Victor](https://open.spotify.com/artist/75LCCM6sXjgq0RAa88nf4X), [Edb](https://open.spotify.com/artist/20EjqgFdmsXJunCOyGNPZR) | [Eleven](https://open.spotify.com/album/3YN1ozhquz2s131p0SpE4a) | 4:27 | 2026-09-22 |  |
 | [Like It Was \- Terry Hunter Remix](https://open.spotify.com/track/5eOIi93Pnom8G9STY2EDo5) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA), [Terry Hunter](https://open.spotify.com/artist/7BFWNTcqqibf1TP0hAHSdu) | [Like It Was \(Terry Hunter Remix\)](https://open.spotify.com/album/0xCn6VE2H25JDIqvUhn1Qc) | 6:45 | 2024-12-12 |  |
 | [Lilac's Cloud](https://open.spotify.com/track/6bIF8vBFSZiRE3mTeROnUo) | [Melle Jutte](https://open.spotify.com/artist/29NcmXvID0g9FtDLTvTrxZ) | [Lilac's Cloud](https://open.spotify.com/album/69Uetd4cP8vmJ3RoojxT5Z) | 6:03 | 2024-05-23 |  |
 | [Listen To This Drum \- Turbojazz & Sean McCabe Remix Edit](https://open.spotify.com/track/6YgKtrXaRXcTP6NfDENdSp) | [Diephuis](https://open.spotify.com/artist/7IJuhai74EqbgF8Uncnvi3), [Turbojazz](https://open.spotify.com/artist/2T6qQFm2LfdVTSTTBTwPBB), [Sean McCabe](https://open.spotify.com/artist/1hN0HcEUYVNBsMV3aRevIN), [Ursula Rucker](https://open.spotify.com/artist/3HVMTISidSkv0TNur6fmkj) | [Listen To This Drum \(Turbojazz & Sean McCabe Remixes\)](https://open.spotify.com/album/4eksxhNnQ4TZHhEoiG9TB7) | 4:19 | 2023-11-04 | 2025-02-09 |

@@ -11115,6 +11115,24 @@
     },
     {
       "album": {
+        "name": "onsra",
+        "url": "https://open.spotify.com/album/2kpRZHGZg4I7ZgfiEwUhKY"
+      },
+      "artists": [
+        {
+          "name": "comehelpglo",
+          "url": "https://open.spotify.com/artist/5Z9nWuFMEQ97O7ixur2c8l"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131186,
+      "name": "onsra",
+      "url": "https://open.spotify.com/track/3aYWDcq8XDdSVIORII690l"
+    },
+    {
+      "album": {
         "name": "DIE FOR MY BITCH",
         "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
@@ -11958,6 +11976,24 @@
       "duration_ms": 235344,
       "name": "PUNK ROCKY",
       "url": "https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F"
+    },
+    {
+      "album": {
+        "name": "Purple Aura",
+        "url": "https://open.spotify.com/album/0PtA284mbaxeI79hRJAkx9"
+      },
+      "artists": [
+        {
+          "name": "NOAH NOAH",
+          "url": "https://open.spotify.com/artist/3GjqUGmYZaIWH8LzIKtdxb"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159231,
+      "name": "Purple Aura",
+      "url": "https://open.spotify.com/track/7kwNAF6NpsYwtwpN5gi8Ur"
     },
     {
       "album": {

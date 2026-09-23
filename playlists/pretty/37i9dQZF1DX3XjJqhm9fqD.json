@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 102990,
+  "num_followers": 102997,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Tous Ces D\u00e9tails",
-        "url": "https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ"
-      },
-      "artists": [
-        {
-          "name": "Durkheim",
-          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
-        }
-      ],
-      "duration_ms": 144371,
-      "name": "Aidez Moi",
-      "url": "https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Patron",
         "url": "https://open.spotify.com/album/12zNSP6KR2NUaEvEU7P1L2"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 280383,
       "name": "Se Pa Pou Dat",
       "url": "https://open.spotify.com/track/6nk9ORnSVn610LBj371OZi"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Tous Ces D\u00e9tails",
+        "url": "https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ"
+      },
+      "artists": [
+        {
+          "name": "Durkheim",
+          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
+        }
+      ],
+      "duration_ms": 144371,
+      "name": "Aidez Moi",
+      "url": "https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Ogou (Pran Ka Mwen)",
-        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Ogou (Pran Ka Mwen)",
-      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Manyen'l",
         "url": "https://open.spotify.com/album/43hG4RyRcCWC9JTY0teMzu"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 209777,
       "name": "Manyen'l",
       "url": "https://open.spotify.com/track/2avp7IL8rkllPcyRcnCJPY"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Ogou (Pran Ka Mwen)",
+        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "Ogou (Pran Ka Mwen)",
+      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Souvni",
+        "url": "https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv"
+      },
+      "artists": [
+        {
+          "name": "Fatima Altieri",
+          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
+        }
+      ],
+      "duration_ms": 210410,
+      "name": "Souvni",
+      "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Souvni",
-        "url": "https://open.spotify.com/album/5DdM9v6FJNkbxFHdDtogBv"
-      },
-      "artists": [
-        {
-          "name": "Fatima Altieri",
-          "url": "https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk"
-        }
-      ],
-      "duration_ms": 210410,
-      "name": "Souvni",
-      "url": "https://open.spotify.com/track/03By3z24GvoGL4vw99AKzY"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Ram 6: Manmanm Se Ginen",
-        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
-      },
-      "artists": [
-        {
-          "name": "RAM",
-          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
-      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Plenyen Player Yo",
         "url": "https://open.spotify.com/album/6V3Rg3gFi88gdeAaKSEF9G"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 226542,
       "name": "Plenyen Player Yo",
       "url": "https://open.spotify.com/track/30N1ElZcBnxJKHGGijxt7z"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Ram 6: Manmanm Se Ginen",
+        "url": "https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "Mpral D\u00f2mi Nan Simity\u00e8",
+      "url": "https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+      },
+      "artists": [
+        {
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 173025,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
-      },
-      "artists": [
-        {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
-      },
-      "artists": [
-        {
-          "name": "J. Sevad",
-          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
-        },
-        {
-          "name": "Spectrum the Originator",
-          "url": "https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm"
-        }
-      ],
-      "duration_ms": 166008,
-      "name": "Wine Pon Me - Remix",
-      "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Sol\u00e8y Midi",
         "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 229205,
       "name": "Sol\u00e8y Midi",
       "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Flavors",
+        "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
+      },
+      "artists": [
+        {
+          "name": "J. Sevad",
+          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+        },
+        {
+          "name": "Spectrum the Originator",
+          "url": "https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm"
+        }
+      ],
+      "duration_ms": 166008,
+      "name": "Wine Pon Me - Remix",
+      "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1875,22 +1875,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Stupid Love",
-        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
+        "name": "DILEMMA",
+        "url": "https://open.spotify.com/album/7asSYtN8VUWMJiBK6tCw4H"
       },
       "artists": [
         {
-          "name": "J. Sevad",
-          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+          "name": "Dave Casseus",
+          "url": "https://open.spotify.com/artist/6M0ExvsS8reHN5VKnqy1Eu"
         },
         {
-          "name": "BlecksFlex",
-          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
+          "name": "Phanuel",
+          "url": "https://open.spotify.com/artist/25wDxLvG5zX7B00AR6mhA4"
         }
       ],
-      "duration_ms": 164607,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
+      "duration_ms": 148650,
+      "name": "DILEMMA",
+      "url": "https://open.spotify.com/track/66hJl21lRutbfOCcELoS1R"
     }
   ],
   "unique_name": "Haitian Heat",

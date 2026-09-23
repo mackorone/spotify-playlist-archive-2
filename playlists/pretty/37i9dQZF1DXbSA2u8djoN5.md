@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Alduts Sherdley
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,607 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,638 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 30 | [Voila](https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Voila](https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP) | 2:19 |
 | 31 | [Kilian](https://open.spotify.com/track/5wcXxnYF8vCz20zq4lvfDu) | [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Kilian](https://open.spotify.com/album/07gEvU7e28yrBwcwiEKKd3) | 2:05 |
 | 32 | [Birkin Baby](https://open.spotify.com/track/521THfI6NqtFIkrbIbo4vc) | [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Birkin Baby](https://open.spotify.com/artist/4zZ1uGFeKX0qXeiVvkcbxB) | [Birkin Baby](https://open.spotify.com/album/3UNEAcsPz9U56hoFUMQ5FH) | 3:14 |
-| 33 | [mr\. idcash](https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [mr\. idcash](https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx) | 2:27 |
-| 34 | [Interes](https://open.spotify.com/track/3KZoTu5JGe5QtK97DrBLAi) | [GYXBaby](https://open.spotify.com/artist/1XWVFUESxCqRo0TkyIamEv), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Interes](https://open.spotify.com/album/6k8yGq5Ra4fyhQ4egdooMO) | 2:31 |
+| 33 | [Interes](https://open.spotify.com/track/3KZoTu5JGe5QtK97DrBLAi) | [GYXBaby](https://open.spotify.com/artist/1XWVFUESxCqRo0TkyIamEv), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Interes](https://open.spotify.com/album/6k8yGq5Ra4fyhQ4egdooMO) | 2:31 |
+| 34 | [mr\. idcash](https://open.spotify.com/track/1U0PITuc3ACNOOM6RhlYKt) | [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [mr\. idcash](https://open.spotify.com/album/15alNzThvqCaBopu8cFtWx) | 2:27 |
 | 35 | [FORME AI](https://open.spotify.com/track/6y3E05aCYm2nyQOneUXajU) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PLAYBOY CITY \- THE ALBUM](https://open.spotify.com/album/6igCZUd9U3XiYYOCxoyWbt) | 2:26 |
 | 36 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 |
 | 37 | [inexplicabil](https://open.spotify.com/track/6XIkg4IIz3DP1Z7WCa63o5) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Stefan Costea](https://open.spotify.com/artist/3w8r8LEPG3zHNvRCj92b58), [Pitariu George](https://open.spotify.com/artist/2Bc4sRO6Nnwn2bc1lLpL5s) | [Ștefan IV](https://open.spotify.com/album/1j2XXVOk5fk60ZRm5QpqFp) | 3:14 |

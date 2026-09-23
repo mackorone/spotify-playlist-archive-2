@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 864475,
+  "num_followers": 864468,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -343,8 +343,8 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
-        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
+        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
       },
       "artists": [
         {
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 154661,
-      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
-      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
+      "duration_ms": 166198,
+      "name": "Bye Bye - Ao Vivo",
+      "url": "https://open.spotify.com/track/055TcJ0BdCrW7qE8Yq5KRM"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -427,8 +427,8 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Todos Os Cantos, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4HpiwfnQvs867JNWeLy1vr"
+        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
+        "url": "https://open.spotify.com/album/3mTbv6MyAR4KEDh0w8s9Nk"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 166198,
-      "name": "Bye Bye - Ao Vivo",
-      "url": "https://open.spotify.com/track/055TcJ0BdCrW7qE8Yq5KRM"
+      "duration_ms": 154661,
+      "name": "Todo Mundo Vai Sofrer - Ao Vivo",
+      "url": "https://open.spotify.com/track/4E6RdcCWMiHTu7zy1VTNDo"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -499,22 +499,18 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Figurinha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
+        "name": "Som No Talo",
+        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
       },
       "artists": [
         {
-          "name": "Douglas & Vinicius",
-          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
-        },
-        {
-          "name": "MC Bruninho",
-          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
         }
       ],
-      "duration_ms": 206001,
-      "name": "Figurinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
+      "duration_ms": 175046,
+      "name": "Tap\u00e3o Na Raba",
+      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -539,22 +535,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Som No Talo",
-        "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 175046,
-      "name": "Tap\u00e3o Na Raba",
-      "url": "https://open.spotify.com/track/58pgi1RpcU2fVJsxhm7BIr"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Amor Falsificado",
         "url": "https://open.spotify.com/album/39lPbTks55YEHh4J9yZqpT"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 206804,
       "name": "Amor Falsificado",
       "url": "https://open.spotify.com/track/6WnwnMSRkihOPbuC7TN3BR"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Figurinha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
+      },
+      "artists": [
+        {
+          "name": "Douglas & Vinicius",
+          "url": "https://open.spotify.com/artist/7M83IzPXGA4ClZJ5reW2Ro"
+        },
+        {
+          "name": "MC Bruninho",
+          "url": "https://open.spotify.com/artist/3shPgAzHMyRwWOkXeoWKeB"
+        }
+      ],
+      "duration_ms": 206001,
+      "name": "Figurinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -655,26 +655,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Some que ele vem atr\u00e1s",
-        "url": "https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "duration_ms": 194771,
-      "name": "Some que ele vem atr\u00e1s",
-      "url": "https://open.spotify.com/track/2qD7VoDYcrAPY0cVEfpsR5"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Liberdade (Quando o Grave Bate Forte)",
         "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 150461,
       "name": "Liberdade (Quando o Grave Bate Forte)",
       "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Some que ele vem atr\u00e1s",
+        "url": "https://open.spotify.com/album/1GjVoPUvfzc1b76xa0stUI"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 194771,
+      "name": "Some que ele vem atr\u00e1s",
+      "url": "https://open.spotify.com/track/2qD7VoDYcrAPY0cVEfpsR5"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1247,30 +1247,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Jogadora Cara (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0"
-      },
-      "artists": [
-        {
-          "name": "Filtr Music Brasil",
-          "url": "https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q"
-        },
-        {
-          "name": "Di Prop\u00f3sito",
-          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
-        },
-        {
-          "name": "Grupo Benzadeus",
-          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
-        }
-      ],
-      "duration_ms": 154997,
-      "name": "Jogadora Cara - Ao Vivo",
-      "url": "https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Buteco in Boston (Ao Vivo)",
         "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 179452,
       "name": "Adorei",
       "url": "https://open.spotify.com/track/6rfNbeEGCh8M5AAj879g0r"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Jogadora Cara (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2i7wWL4aSODH9weRYSiZE0"
+      },
+      "artists": [
+        {
+          "name": "Filtr Music Brasil",
+          "url": "https://open.spotify.com/artist/3HS6PhyJJP5YNb5OFw1E5Q"
+        },
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Grupo Benzadeus",
+          "url": "https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy"
+        }
+      ],
+      "duration_ms": 154997,
+      "name": "Jogadora Cara - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OtI4bRbdel2durPpx8fu4"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1483,18 +1483,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
+        "name": "Cansar Voc\u00ea",
+        "url": "https://open.spotify.com/album/5rYR4E0SwxglAChee36uVK"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
         }
       ],
-      "duration_ms": 189005,
-      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
+      "duration_ms": 176298,
+      "name": "Cansar Voc\u00ea",
+      "url": "https://open.spotify.com/track/5N1usnMTqmMtmRJTfgn1kJ"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1519,22 +1523,18 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Cansar Voc\u00ea",
-        "url": "https://open.spotify.com/album/5rYR4E0SwxglAChee36uVK"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3UV3FcOPCo0vCHnKLIfN2V"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 176298,
-      "name": "Cansar Voc\u00ea",
-      "url": "https://open.spotify.com/track/5N1usnMTqmMtmRJTfgn1kJ"
+      "duration_ms": 189005,
+      "name": "Mil Anos - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4UUtssVRs2aQTLQCAAtZg1"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
+        "name": "Buteco in Boston (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 158016,
+      "name": "Teste de Farm\u00e1cia - Ao Vivo",
+      "url": "https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
         "name": "Pirata e Tesouro / Duas Paix\u00f5es / Idem / Livre pra Voar / Oi Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/2nUov8cvXReM3gpk3Os8PR"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 480463,
       "name": "Pirata e Tesouro / Duas Paix\u00f5es / Idem / Livre pra Voar / Oi Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/2SaRCZqpayygyXxKb5sAfH"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
-        "name": "Buteco in Boston (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1AebCIKwFh7upRidnha8yo"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 158016,
-      "name": "Teste de Farm\u00e1cia - Ao Vivo",
-      "url": "https://open.spotify.com/track/0ZwGhDJHceKPvg3UAb5OMQ"
     },
     {
       "added_at": "2026-06-22 17:28:18",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2026-06-22 17:28:18",
       "album": {
-        "name": "Show Fechou",
-        "url": "https://open.spotify.com/album/14CSj0bmnQt4HjFHoRZBB4"
-      },
-      "artists": [
-        {
-          "name": "Di Prop\u00f3sito",
-          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
-        },
-        {
-          "name": "Diego & Victor Hugo",
-          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
-        }
-      ],
-      "duration_ms": 165102,
-      "name": "Show Fechou",
-      "url": "https://open.spotify.com/track/5TNhSOkUrdJ0TkIa2GqjeH"
-    },
-    {
-      "added_at": "2026-06-22 17:28:18",
-      "album": {
         "name": "Ferrugem em Casa 2 (Bloco 2) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4iLrvvqO8xUqZIglV27RM7"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 235351,
       "name": "Cachorrinho (feat. Tierry) - Ao Vivo",
       "url": "https://open.spotify.com/track/0prr6bXHmFqmLyRJgbUVK7"
+    },
+    {
+      "added_at": "2026-06-22 17:28:18",
+      "album": {
+        "name": "Show Fechou",
+        "url": "https://open.spotify.com/album/14CSj0bmnQt4HjFHoRZBB4"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "duration_ms": 165102,
+      "name": "Show Fechou",
+      "url": "https://open.spotify.com/track/5TNhSOkUrdJ0TkIa2GqjeH"
     },
     {
       "added_at": "2026-06-22 17:28:18",

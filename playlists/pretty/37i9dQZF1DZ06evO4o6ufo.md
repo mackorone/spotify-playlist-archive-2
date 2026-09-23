@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,130 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,167 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 41 | [Fue Un Error](https://open.spotify.com/track/0z66YjcX6FD7XBP25h5e81) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [CORAZÓN ERRANTE](https://open.spotify.com/album/0n8PHR1DzK3a1Yk2YUeW21) | 2:59 |
 | 42 | [El Guerrillero](https://open.spotify.com/track/4AAEYgoLtaYan4S9tk3gw5) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Guerrillero](https://open.spotify.com/album/4KvRlN28N7d8XdBah4hy7b) | 2:23 |
 | 43 | [Amor De Locos](https://open.spotify.com/track/5NjbyNc5cgu1BSURtiNgXQ) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Chuyito](https://open.spotify.com/artist/3wLUFr73ioAnTZaLYH6F65) | [TRAVESÍA](https://open.spotify.com/album/24qt9gQSSmjZ5uRaqqAxLv) | 3:17 |
-| 44 | [De Ahí Pal Real \(En Vivo\)](https://open.spotify.com/track/7oIyyaAqacrfMq1Y14vR1J) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Bienvenidos a Durango \(En Vivo\)](https://open.spotify.com/album/4im9qFr0WIwHxcjzznVO1u) | 2:43 |
-| 45 | [Ismael Pa’ Servirle](https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:44 |
+| 44 | [Ismael Pa’ Servirle](https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:44 |
+| 45 | [De Ahí Pal Real \(En Vivo\)](https://open.spotify.com/track/7oIyyaAqacrfMq1Y14vR1J) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Bienvenidos a Durango \(En Vivo\)](https://open.spotify.com/album/4im9qFr0WIwHxcjzznVO1u) | 2:43 |
 | 46 | [De la Estancia a Cosala](https://open.spotify.com/track/510JTUuO196PonOM82hyLo) | [La Revancha RC](https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De la Estancia a Cosala](https://open.spotify.com/album/2j9WyrK81HCPqj479LndB2) | 2:19 |
 | 47 | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL) | 2:29 |
-| 48 | [La Tostada CH](https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Tostada CH](https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM) | 4:03 |
-| 49 | [Sorry Pa’ Los Gabachos](https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:18 |
+| 48 | [Sorry Pa’ Los Gabachos](https://open.spotify.com/track/6pvWRtjFmdNM47Cuz4EqqS) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:18 |
+| 49 | [La Tostada CH](https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Tostada CH](https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM) | 4:03 |
 | 50 | [Bienvenidos a Durango \(En Vivo\)](https://open.spotify.com/track/3LzboWQw4FoBoaxR15ByQQ) | [Arley Perez](https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Bienvenidos a Durango \(En Vivo\)](https://open.spotify.com/album/4im9qFr0WIwHxcjzznVO1u) | 3:51 |
 
-Snapshot ID: `aq8iAAAAAABz+zBWtWBSU+UXOEG/vQOV`
+Snapshot ID: `arBzgAAAAADfI1E5dA64920HKmx01sQp`

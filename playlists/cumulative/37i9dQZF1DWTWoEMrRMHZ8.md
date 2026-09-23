@@ -4,7 +4,7 @@
 
 > As belas novidades da MPB\. Foto: Leo Middea
 
-1,275 songs - 3 day 2 hr 12 min
+1,276 songs - 3 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1215,7 +1215,7 @@
 | [Vai](https://open.spotify.com/track/0FMKLCMxjAGeNzOAxH4b9F) | [Chico Chico](https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s) | [Estopim](https://open.spotify.com/album/1xEedSvVg2eghIim4LeyBH) | 2:30 | 2024-08-30 | 2024-11-09 |
 | [Vai Passar](https://open.spotify.com/track/3PS54iE0GBvHoD4q059UPo) | [Sérgio Britto](https://open.spotify.com/artist/1cyHhFmWDK80pd2IOK02QI), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Vai Passar](https://open.spotify.com/album/5oHnMyqvoI6wpgXs8bwIUk) | 3:35 | 2022-08-11 | 2022-10-08 |
 | [Valente](https://open.spotify.com/track/3AUAfawYAvwLaL3SlZWgQD) | [Arthur Nogueira](https://open.spotify.com/artist/0Kaxu0W1DHP5OQ4FDWMjh4) | [Valente](https://open.spotify.com/album/0Na74mLtHpPONrk9MJmsPX) | 3:32 | 2021-12-24 | 2022-01-22 |
-| [VAMO COM CALMA, MALANDRA](https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm) | [Ana Karina Sebastião](https://open.spotify.com/artist/4CFzK4rDztnfAutkeHPZBO), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [VAMO COM CALMA, MALANDRA](https://open.spotify.com/album/7BLHba6D1V2Qgl82dIHoZu) | 2:05 | 2026-07-17 |  |
+| [VAMO COM CALMA, MALANDRA](https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm) | [Ana Karina Sebastião](https://open.spotify.com/artist/4CFzK4rDztnfAutkeHPZBO), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [VAMO COM CALMA, MALANDRA](https://open.spotify.com/album/7BLHba6D1V2Qgl82dIHoZu) | 2:05 | 2026-07-17 | 2026-09-23 |
 | [Vamos Combinar](https://open.spotify.com/track/5k5HLkc2XzFUty9784ehxq) | [João Donato](https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi), [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk), [Patricia Alví](https://open.spotify.com/artist/5WGPMslRfLABPYtX32IAkb) | [Vamos Combinar](https://open.spotify.com/album/3epVaAatnLHwIh8yZGNlXu) | 3:36 | 2026-06-26 | 2026-09-05 |
 | [Varandas](https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3) | [Marcos Almeida](https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Varandas](https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB) | 3:43 | 2026-08-21 |  |
 | [VELUDO MARROM](https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 7:17 | 2024-08-19 | 2026-03-28 |
@@ -1232,6 +1232,7 @@
 | [Vento Sardo](https://open.spotify.com/track/71JSog0YrgWmY0D0CPkqot) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Vento Sardo](https://open.spotify.com/album/4kxqusV3GpgSuMBUSv5aU2) | 4:15 | 2022-11-09 | 2022-11-13 |
 | [Vera Cruz](https://open.spotify.com/track/7gEyYa53pf56NbDlaUuPnZ) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Vera Cruz](https://open.spotify.com/album/1A7eEqH0oaRVURujDR5gqj) | 2:36 | 2026-01-16 | 2026-08-01 |
 | [Verdade na Fonte](https://open.spotify.com/track/6CJxnUAe55awtxHblQXGML) | [Zélia Duncan](https://open.spotify.com/artist/2zDJszdrISx9K4L5hvWT33), [Paulinho Moska](https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT) | [Verdade na Fonte](https://open.spotify.com/album/54z94yuZnjKyjLr8L7IIis) | 2:26 | 2022-12-09 | 2023-01-14 |
+| [Verde em Mim](https://open.spotify.com/track/576twieNfCtHJmHHw5VXyZ) | [Lud Mazzucatti](https://open.spotify.com/artist/5UO9TQYbWYGDoG5eVAPpzH) | [Meus Olhos](https://open.spotify.com/album/5lGcU56YCUumpmNj3V2Axv) | 3:22 | 2026-09-18 |  |
 | [Vermelho](https://open.spotify.com/track/5FS7GlXEUd6wnFg7yzudF0) | [FLORA](https://open.spotify.com/artist/36wFIGOzilPz03RSfP5Rl7) | [Vermelho](https://open.spotify.com/album/5JazXMNsbnzrgS5Qr9smYd) | 4:04 | 2023-11-03 | 2023-11-25 |
 | [Vermelho Esperança](https://open.spotify.com/track/5U9Xv9WkBPTOignYWp6niI) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH), [Laila Garin](https://open.spotify.com/artist/0aTcBGYTXm8CWo0RB5elE8) | [Vermelho Esperança](https://open.spotify.com/album/27nM8BDWnZAMBZjoP5tszu) | 3:53 | 2022-02-01 | 2022-04-02 |
 | [Vertigem](https://open.spotify.com/track/7n89SLMdyzUITl1JwgQ5QE) | [Theo Bial](https://open.spotify.com/artist/2spkAIBJRP7badm280YyB5) | [Vertigem](https://open.spotify.com/album/5WsKg8oo2Q05vnBkYQ58XV) | 3:24 | 2022-05-10 | 2022-06-28 |

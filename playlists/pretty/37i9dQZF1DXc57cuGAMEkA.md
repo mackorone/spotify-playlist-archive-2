@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。ROSÉ, Dominic Fike, Miley, Travis Scott, Tove Lo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,589 likes - 88 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,607 likes - 88 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

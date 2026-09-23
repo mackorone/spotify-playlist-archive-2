@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,364 songs - 3 day 11 hr 59 min
+1,365 songs - 3 day 12 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1320,6 +1320,7 @@
 | [WHAT'S GOOD](https://open.spotify.com/track/6bOkaEXc5CopinGazSLokx) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [IGOR](https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE) | 3:25 | 2022-07-13 |  |
 | [WHAT'S IT TO HIM?](https://open.spotify.com/track/32jS9YpxZ620YtAvtoMAyE) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:34 | 2024-02-16 |  |
 | [What's the Use?](https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:48 | 2022-09-18 |  |
+| [Whatever \- Remastered](https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 6:22 | 2026-09-22 |  |
 | [When Morning Comes](https://open.spotify.com/track/27JswRTFjw0eDsCJrNNAjp) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Full Speed Nowhere](https://open.spotify.com/album/2Ut4IwFNYCY41n6oSsn7Rh) | 2:26 | 2025-12-02 |  |
 | [When The Sun Goes Down](https://open.spotify.com/track/2zzLRQ78kKfPTx8FJQCdC2) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 3:22 | 2020-08-20 |  |
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-01-27 | 2026-01-04 |

@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:46pWGuE3dSwY3bMMXGBvVS">Chxrry</a>
 
-6,438 songs - 13 day 14 hr 46 min
+6,440 songs - 13 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1522,6 +1522,7 @@
 | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/track/50IvZsOmgJvxjpELTWFaMa) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Do You Love Me? \(feat\. Lil Tjay\)](https://open.spotify.com/album/4zfoWbjbK5uWArDGCbElnp) | 3:10 | 2023-02-24 | 2023-03-18 |
 | [Do You Mind](https://open.spotify.com/track/4KlLamiPLfK44rfeZ3drPy) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Do You Mind](https://open.spotify.com/album/7sicL1Pp1rDmPPLA8BfnNp) | 2:27 | 2022-08-12 | 2022-08-27 |
 | [Do You Mind](https://open.spotify.com/track/5bGNmiFJqhIlMP8fbQUu4E) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Do You Mind](https://open.spotify.com/album/66pbpFqaR2RE6urZHpBPZI) | 2:20 | 2023-01-06 | 2023-01-28 |
+| [Do You Mind \- \(With MOLIY\)](https://open.spotify.com/track/2j6Gbti2bYn1VmOwXcCT6Y) | [Kyla](https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr), [DJ Paleface](https://open.spotify.com/artist/4O5jQeIShGpcjxHwr1P0Gt) | [Do You Mind \(With MOLIY\)](https://open.spotify.com/album/4rnr26ITEoP3rB2VdPIOmZ) | 3:01 | 2026-09-22 |  |
 | [Do you miss me?](https://open.spotify.com/track/67r7ZHxVxONN9ZQk05AQVL) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Do you miss me?](https://open.spotify.com/album/3Mp1zB42F2yqqOMEep7R3k) | 2:08 | 2022-11-18 | 2022-12-10 |
 | [Doctor, My Eyes](https://open.spotify.com/track/4ZgXDDRSS4lVx1g3WkRon0) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [A Brief Nirvana](https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd) | 3:14 | 2024-01-12 | 2024-02-03 |
 | [Does It Again \(feat\. Lil Yachty\)](https://open.spotify.com/track/5DT58khLtyj8DS38ImspAa) | [NASAAN](https://open.spotify.com/artist/6qbCuiHIWsiQxNhqXgc7mz), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Does It Again \(feat\. Lil Yachty\)](https://open.spotify.com/album/2eMtNuJDvEjvNAPX40Ushn) | 1:52 | 2025-07-18 | 2025-07-26 |
@@ -4318,6 +4319,7 @@
 | [Phones](https://open.spotify.com/track/65xI7IAgaqiUsMhplXz1vg) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Phones](https://open.spotify.com/album/4MA2kiBarmQ9kkoNcC6IWE) | 2:24 | 2022-08-05 | 2022-08-27 |
 | [pick it up](https://open.spotify.com/track/7wGpaliUshpHf9BOmshOCA) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [310degrees](https://open.spotify.com/album/6ILh4lBjtyPaHYROZBISwO) | 2:43 | 2024-10-04 | 2024-10-26 |
 | [PICK UP](https://open.spotify.com/track/0BKVSPQqlxBtd0vnE5P1wv) | [Kromow](https://open.spotify.com/artist/1b6d3fFLaHyLRs114XalaA) | [FOREIGN STANDARD](https://open.spotify.com/album/3BxRMEjgQ4tvKCqEE2059k) | 1:46 | 2026-08-14 |  |
+| [PICK UP THE PHONE](https://open.spotify.com/track/4VzQIKgfDk6JgzWiRR0O1M) | [Soulaan Marie](https://open.spotify.com/artist/16Nc1RfbspI0cXuCE5BIG0) | [PICK UP THE PHONE](https://open.spotify.com/album/6eZ3DoSqx5GI7QZ16AOWiI) | 3:16 | 2026-09-22 |  |
 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 | 2022-12-09 | 2023-04-01 |
 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-05 | 2022-08-27 |
 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 | 2024-10-18 | 2024-12-05 |

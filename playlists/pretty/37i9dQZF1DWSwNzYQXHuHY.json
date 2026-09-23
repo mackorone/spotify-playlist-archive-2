@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12914,
+  "num_followers": 12918,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Don't Be",
-        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Don't Be",
-      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "XO, My Cyberlove",
         "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
       },
@@ -631,6 +615,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
+        "name": "Don't Be",
+        "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Don't Be",
+      "url": "https://open.spotify.com/track/64bNYe3z0jbajk5udtcHFu"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
         "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
         "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
       },
@@ -643,22 +643,6 @@
       "duration_ms": 244000,
       "name": "Up & Down",
       "url": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
-        "name": "You're Mine, You're My Man",
-        "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
-      },
-      "artists": [
-        {
-          "name": "LEE JI MIN",
-          "url": "https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "You're Mine, You're My Man",
-      "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -683,22 +667,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "My Dearest (ToGetHer X xooos) (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w"
-      },
-      "artists": [
-        {
-          "name": "xooos",
-          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "My Dearest",
-      "url": "https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
         "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 207760,
       "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
       "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "My Dearest (ToGetHer X xooos) (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0BBkLUZwjcrvrkUnHaTd8w"
+      },
+      "artists": [
+        {
+          "name": "xooos",
+          "url": "https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "My Dearest",
+      "url": "https://open.spotify.com/track/7h5dECSs3XYQjaZWB4jHHM"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "You're Mine, You're My Man",
+        "url": "https://open.spotify.com/album/0NiqEEPrA84nbbGePlY2EW"
+      },
+      "artists": [
+        {
+          "name": "LEE JI MIN",
+          "url": "https://open.spotify.com/artist/1dZV5erlwYTKluFJJUCkGA"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "You're Mine, You're My Man",
+      "url": "https://open.spotify.com/track/3Vz2Jtj6j1XHQqHbJavHdG"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -851,22 +851,26 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
-        "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
+        "name": "banana milk",
+        "url": "https://open.spotify.com/album/3aljuClVbRAuNYCDdtHbtY"
       },
       "artists": [
         {
-          "name": "HAAN",
-          "url": "https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6"
+          "name": "YECHAN",
+          "url": "https://open.spotify.com/artist/0ECjzwXONQbrKyswxTy3mr"
         },
         {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+          "name": "EID\u00aeechoesindream.",
+          "url": "https://open.spotify.com/artist/1ErmY2nlIGPPVcczrNFLdv"
+        },
+        {
+          "name": "AVN",
+          "url": "https://open.spotify.com/artist/0I7AyV5oybjdCeChQlltqm"
         }
       ],
-      "duration_ms": 205050,
-      "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
-      "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
+      "duration_ms": 160946,
+      "name": "banana milk",
+      "url": "https://open.spotify.com/track/3KVR87meqlCI88EXG2Wrad"
     }
   ],
   "unique_name": "\uc378 !",

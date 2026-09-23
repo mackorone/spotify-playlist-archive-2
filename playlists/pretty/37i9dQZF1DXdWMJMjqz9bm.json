@@ -1,12 +1,12 @@
 {
   "description": "a little rap, a little pop, a little country... sometimes. BabyChiefDoIt on the cover.",
-  "num_followers": 226682,
+  "num_followers": 226687,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACa++gM4yZn2VcFW6rIrOqaGv8BF",
+  "snapshot_id": "AAAAACxdo2Wk7+ushn+YkzTkj6uffma6",
   "tracks": [
     {
       "added_at": "2026-07-21 22:03:27",
@@ -23,6 +23,38 @@
       "duration_ms": 178285,
       "name": "Ghetto Love Story",
       "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
+    },
+    {
+      "added_at": "2026-09-22 16:00:43",
+      "album": {
+        "name": "onsra",
+        "url": "https://open.spotify.com/album/2kpRZHGZg4I7ZgfiEwUhKY"
+      },
+      "artists": [
+        {
+          "name": "comehelpglo",
+          "url": "https://open.spotify.com/artist/5Z9nWuFMEQ97O7ixur2c8l"
+        }
+      ],
+      "duration_ms": 131186,
+      "name": "onsra",
+      "url": "https://open.spotify.com/track/3aYWDcq8XDdSVIORII690l"
+    },
+    {
+      "added_at": "2026-09-22 16:00:43",
+      "album": {
+        "name": "Purple Aura",
+        "url": "https://open.spotify.com/album/0PtA284mbaxeI79hRJAkx9"
+      },
+      "artists": [
+        {
+          "name": "NOAH NOAH",
+          "url": "https://open.spotify.com/artist/3GjqUGmYZaIWH8LzIKtdxb"
+        }
+      ],
+      "duration_ms": 159231,
+      "name": "Purple Aura",
+      "url": "https://open.spotify.com/track/7kwNAF6NpsYwtwpN5gi8Ur"
     },
     {
       "added_at": "2026-08-21 04:01:16",

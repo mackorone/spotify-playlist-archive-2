@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,240 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,272 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 65 | [If We're Not Back In Love By Monday](https://open.spotify.com/track/3jghFUSMqVsvbIqxW6VIdM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Ramblin' Fever](https://open.spotify.com/album/4gny1TLw5OtuAceGWhQIHX) | 3:16 |
 | 66 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
 | 67 | [Love Is Like a Butterfly](https://open.spotify.com/track/4EmqbVer5FDGxjpx4858nM) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Dolly Parton](https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS) | 2:20 |
-| 68 | [Southern Nights](https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Greatest Hits](https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4) | 2:59 |
-| 69 | [If I Were a Carpenter](https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Hello, I'm Johnny Cash](https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE) | 3:00 |
+| 68 | [If I Were a Carpenter](https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Hello, I'm Johnny Cash](https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE) | 3:00 |
+| 69 | [Southern Nights](https://open.spotify.com/track/2sd8p89DvYBzJFWo97knsd) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Greatest Hits](https://open.spotify.com/album/4OQKkIIp50FJvUd69vT0B4) | 2:59 |
 | 70 | [If I Said You Had A Beautiful Body Would You Hold It Against Me](https://open.spotify.com/track/7pRKbx3PYJmz36cp92hDIE) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Best Of The Bellamy Brothers](https://open.spotify.com/album/546Y4nzoT1Y85502L87DSf) | 3:14 |
 | 71 | [Help Me Make It Through The Night](https://open.spotify.com/track/2XWmbwp9FBAaFcSE9BLQzc) | [Sammi Smith](https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS) | [The Best Of Sammi Smith](https://open.spotify.com/album/5E3rKn4oBda4nqbxBlBvQg) | 2:35 |
 | 72 | [Amos Moses](https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |

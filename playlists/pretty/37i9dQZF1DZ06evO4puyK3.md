@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 > This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,074 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,078 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 15 | [Larica De Você \- Ao Vivo](https://open.spotify.com/track/5gnTi78Q7nDlA2pqa4nKnS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 2:40 |
 | 16 | [Deve ser horrível dormir sem mim](https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Deve ser horrível dormir sem mim](https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU) | 2:35 |
 | 17 | [Apaga a Luz](https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Apaga a Luz](https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6) | 3:48 |
-| 18 | [Coisa Boa](https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru) | 2:45 |
-| 19 | [Sírveme \- Bonus Track](https://open.spotify.com/track/5Jdsh4cVU0Cj696RB1ler3) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [EL NENE, VOL 2](https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu) | 2:14 |
+| 18 | [Sírveme \- Bonus Track](https://open.spotify.com/track/5Jdsh4cVU0Cj696RB1ler3) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [EL NENE, VOL 2](https://open.spotify.com/album/7fKsGvADHbGbW7TiJJTtUu) | 2:14 |
+| 19 | [Coisa Boa](https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru) | 2:45 |
 | 20 | [5 Minutinhos \- Ao Vivo](https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:05 |
 | 21 | [LEILÃO](https://open.spotify.com/track/4k7mlEX9Nc3Ei0nFQ4cOE3) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:08 |
 | 22 | [1%](https://open.spotify.com/track/6QYmWKcEzwfcZ6zegbeIa4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Los Brasileros](https://open.spotify.com/artist/0j1Tuh5A6zWMI4nAjPjBsW) | [PUT@RIA & POE$IA \(mixtape\)](https://open.spotify.com/album/43T5mcn5KkRMK81HgYNfb7) | 2:51 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 43 | [FOGO NO BARRACO](https://open.spotify.com/track/1GN6FB6MuUlB0Q1TuIAwiS) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [MC Tchelinho](https://open.spotify.com/artist/2OMImVZQlaVtav9HoKxrbv) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:25 |
 | 44 | [085 RMX](https://open.spotify.com/track/3jmBJjqYLJocP8HziRXDMn) | [Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [085 RMX](https://open.spotify.com/album/5xQf9WAxGDU9upsBlJMAbK) | 2:43 |
 | 45 | [Entendi Errado \- Ao Vivo](https://open.spotify.com/track/2IulaJJ580i08sLNN01jIQ) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 2 \- Ao Vivo](https://open.spotify.com/album/1rbEVb7k93Ns5dWK1LTJvs) | 2:43 |
-| 46 | [Até Já \- Ao Vivo](https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Até Já \(Ao Vivo\)](https://open.spotify.com/album/1RdEMqgFyVwVYSq1ttWObm) | 3:02 |
-| 47 | [Arrasta](https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Arrasta](https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78) | 2:32 |
-| 48 | [JOGO PERIGOSO](https://open.spotify.com/track/6aJbnXKoGszrhFsQ75crxt) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:45 |
+| 46 | [Arrasta](https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Arrasta](https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78) | 2:32 |
+| 47 | [JOGO PERIGOSO](https://open.spotify.com/track/6aJbnXKoGszrhFsQ75crxt) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:45 |
+| 48 | [Até Já \- Ao Vivo](https://open.spotify.com/track/0ss1tjwc69FuQU7RKaUJ3B) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Até Já \(Ao Vivo\)](https://open.spotify.com/album/1RdEMqgFyVwVYSq1ttWObm) | 3:02 |
 | 49 | [Capricórnio](https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Zodíaco](https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR) | 3:18 |
 | 50 | [Sinal](https://open.spotify.com/track/22LwBcXDGHtydEh2nInF30) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Sinal](https://open.spotify.com/album/7kTIn9P8tgfA5fxxdvAcwh) | 2:53 |
 
-Snapshot ID: `aq8iAAAAAAC024kna9uYqwUm8HRP+mJS`
+Snapshot ID: `arBzgAAAAABYZ/mBGnkNh9UCD+M1t7Wn`

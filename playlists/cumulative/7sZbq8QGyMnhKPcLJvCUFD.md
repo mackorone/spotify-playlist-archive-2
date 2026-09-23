@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-900 songs - 1 day 20 hr 45 min
+902 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Daydream](https://open.spotify.com/track/1hUp6I7PRARMZ0pCrXhE7s) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ), [blankfaces](https://open.spotify.com/artist/6E416eeGBMwMlH3FmlxOMS) | [Daydream](https://open.spotify.com/album/00VnMTJa80xTQFonoCksxo) | 2:49 | 2022-04-12 | 2023-04-28 |
 | [Deep End](https://open.spotify.com/track/784DsuZ2P86jqOmhzYTkdv) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Fendy Cisneros](https://open.spotify.com/artist/2LwuboX4U5ljjdoDmuMRc2), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Deep End](https://open.spotify.com/album/2Ny0KwjIuUXwUWEzTiJedo) | 4:21 | 2026-05-15 |  |
 | [Deep In Paris](https://open.spotify.com/track/2y0pi5dOPByIkp85mg1ayV) | [LXNDER](https://open.spotify.com/artist/5rFyzu1s7Z357JVyhRHs2L) | [Deep In Paris](https://open.spotify.com/album/3E4iMC8c9olNkzr4u6k49D) | 3:09 | 2026-08-13 |  |
+| [Defect](https://open.spotify.com/track/1VfoY7t1Z79IA7rU2gAc8i) | [Reece Rosé](https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5) | [The People](https://open.spotify.com/album/7zP5P3ddTfoYYnaxW75ouB) | 3:00 | 2026-09-22 |  |
 | [DELTA](https://open.spotify.com/track/5NcT6HWiBiETs1mTFYXR1U) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [DELTA](https://open.spotify.com/album/6jrRtiZ11ETv5ercTeB2gH) | 2:52 | 2024-06-14 |  |
 | [Demnuhbad](https://open.spotify.com/track/22CeWpYhyEruCsFauCHlLv) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [VinDon](https://open.spotify.com/artist/6hS0eB6BQPvcKhIM6Ltem0) | [Demnuhbad](https://open.spotify.com/album/4NnK9RjEAOOxk5rHtutkBH) | 3:06 | 2022-11-03 | 2023-04-28 |
 | [Dependant](https://open.spotify.com/track/19vH2GjbvGE9V9ixp9TBfs) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Southby](https://open.spotify.com/artist/30UL7vK03suadfI9eqNYLA), [VALLO](https://open.spotify.com/artist/4BIIvS5s6ed82JswZFSAoJ), [Immy Odon](https://open.spotify.com/artist/01QdfMidctuieFa8ERASX4) | [Cartoon & Friends](https://open.spotify.com/album/2V7zOBOVXHNo3gMx2zLTPC) | 3:13 | 2025-07-25 |  |
@@ -318,6 +319,7 @@
 | [Forget](https://open.spotify.com/track/4AvIxgGf0NeC0vBKHGYBP1) | [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Forget](https://open.spotify.com/album/10BF8MKRZo0ECoym9qxIbu) | 3:24 | 2022-11-04 | 2023-08-10 |
 | [Freak Show](https://open.spotify.com/track/6V2tuX3ytBIvY9hSQYboIw) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [Lucky Low](https://open.spotify.com/artist/1riI2N4BJfRupJPfYyLpQN), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [India Dupriez](https://open.spotify.com/artist/32sZPVoYKzWY0Y5zuieJ1a) | [Freak Show](https://open.spotify.com/album/6DuhoEadO7782XFHKgKZgA) | 2:17 | 2023-03-03 | 2023-08-10 |
 | [Freakshow](https://open.spotify.com/track/0qhe7FV1vBw4g7wQqp6rjm) | [Dirty Palm](https://open.spotify.com/artist/4cZvsAtZm91PBC0tXlDrP0), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Freakshow](https://open.spotify.com/album/4FdIvSPtBBGjkWoCX9BQ60) | 2:54 | 2023-08-08 | 2024-01-04 |
+| [Free](https://open.spotify.com/track/2hRyusPNX4YQE9546uY6y7) | [Reece Rosé](https://open.spotify.com/artist/7e7AGt1EJqxXsb9xpaflJ5) | [The People](https://open.spotify.com/album/7zP5P3ddTfoYYnaxW75ouB) | 3:02 | 2026-09-22 |  |
 | [Freedom](https://open.spotify.com/track/1roivsvHAUwl9VhnEpRGjD) | [32Stitches](https://open.spotify.com/artist/4NH2deLFDDB0YeV3PNLjWQ), [CHENDA](https://open.spotify.com/artist/38HqxBtUpMunEP3kKLjEby), [Harley Bird](https://open.spotify.com/artist/7kXDaUD3imvM6el5qK6tAu) | [Freedom](https://open.spotify.com/album/5d0m1rwDpjHleCQyfDUu3f) | 3:45 | 2022-09-02 | 2023-04-28 |
 | [Freefall](https://open.spotify.com/track/4uAfbFWPDw2D2PwnYwusXH) | [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo), [NCT](https://open.spotify.com/artist/5iWNGhdgW9MA0l5AqFLqh9) | [Freefall](https://open.spotify.com/album/4blg6OOSjjWU2bQO0G1zFg) | 3:08 | 2025-01-03 |  |
 | [From The Top](https://open.spotify.com/track/6VyLyu1gHjr6P3Kjy5ImP9) | [Ariis](https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR) | [From The Top](https://open.spotify.com/album/7izd5GNllU2xpzIvyrd9qv) | 2:57 | 2024-10-17 |  |

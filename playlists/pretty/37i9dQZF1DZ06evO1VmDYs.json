@@ -1,12 +1,12 @@
 {
   "description": "This is Weezer. The essential tracks, all in one playlist.",
-  "num_followers": 206255,
+  "num_followers": 206292,
   "original_name": "This Is Weezer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADN4Mts0p0hDOR0k3scB36x",
+  "snapshot_id": "arBzgAAAAAASbJ9RxPAAJC5q3xOC4GzZ",
   "tracks": [
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 155546,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI"
+      "duration_ms": 219560,
+      "name": "Up In the Clouds",
+      "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 219560,
-      "name": "Up In the Clouds",
-      "url": "https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D"
+      "duration_ms": 155546,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Enjoy music from "TOKYO REVENGERS"! Ⓒ和久井健・講談社／アニメ「東京リベンジャーズ」製作委員会
 
-118 songs - 6 hr 37 min
+119 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Tokyo Revengers \-Main Theme\-](https://open.spotify.com/track/2NtZ4Ni1Wyavbj3wk3bGGe) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [「東京リベンジャーズ」オリジナルサウンドトラック](https://open.spotify.com/album/4SirMx5jhNw5RMmA5lfHD3) | 3:31 | 2023-12-19 |  |
 | [Tokyo Revengers \-Reprise\-](https://open.spotify.com/track/1tq4MBYl1qKvndjXq2Q8ev) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 4:37 | 2023-01-06 | 2023-12-20 |
 | [Tokyo Wonder.](https://open.spotify.com/track/2qzZWD9zaMaXGQmARikLhL) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [Tokyo Wonder.](https://open.spotify.com/album/0QqwSYLopq7ob4Em8QB0qI) | 2:30 | 2023-01-06 | 2024-04-19 |
+| [TRICK STAR](https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [TRICK STAR](https://open.spotify.com/album/5OjXQWEixp2wKn6XvfcOfM) | 4:22 | 2026-09-22 |  |
 | [Until You're Saved](https://open.spotify.com/track/6DCqQvsfE1jZ1r94fq8v6A) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Tokyo Revengers Original Soundtrack](https://open.spotify.com/album/6lID68aa8NjuRNUpoAQq1d) | 2:37 | 2023-01-06 | 2024-04-19 |
 | [Until You´re Saved](https://open.spotify.com/track/1nyF1OzxDdIRCIT8Dh7QPo) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [「東京リベンジャーズ」オリジナルサウンドトラック](https://open.spotify.com/album/4SirMx5jhNw5RMmA5lfHD3) | 2:37 | 2023-12-19 |  |
 | [When I Can Spend Time with You](https://open.spotify.com/track/343pa2TTVCZPQqji3zWeNQ) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [「東京リベンジャーズ」オリジナルサウンドトラック](https://open.spotify.com/album/4SirMx5jhNw5RMmA5lfHD3) | 2:13 | 2023-12-19 |  |

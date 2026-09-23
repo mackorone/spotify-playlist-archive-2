@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,904 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,925 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 71 | [The Liars Club \- Acoustic](https://open.spotify.com/track/08mKTpxraUOeFzEP3lhFU4) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club \(Acoustic\)](https://open.spotify.com/album/2dVo0IsuLdNLY5h9E5GPhG) | 4:12 |
 | 72 | [Plastic Heart \- Acoustic](https://open.spotify.com/track/5qzW6FTcGGmV6oRmIefnQf) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Plastic Heart \(Acoustic\)](https://open.spotify.com/album/48kvEsX3tVZ0kSjWLKI1mF) | 2:55 |
 | 73 | [Fallin’ With Me \- Acoustic](https://open.spotify.com/track/6Q7vqoRPpcQ7P44j0KgwKi) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Unplugged At EastWest](https://open.spotify.com/album/6ia9VQmmC6vhaQPccSlEGm) | 2:59 |
-| 74 | [abcdefu \(chill\)](https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(chill\)](https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0) | 2:56 |
-| 75 | [sail away \(acoustic\)](https://open.spotify.com/track/3NFQODWQ3Fa3ar4moCAiff) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/2ecM3Ast6U07GBP7fnqHJm) | 2:51 |
+| 74 | [sail away \(acoustic\)](https://open.spotify.com/track/3NFQODWQ3Fa3ar4moCAiff) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/2ecM3Ast6U07GBP7fnqHJm) | 2:51 |
+| 75 | [abcdefu \(chill\)](https://open.spotify.com/track/6tH1lxPcQConWuvlh85yFT) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu \(chill\)](https://open.spotify.com/album/1OSCnHPc1R2PLGCXXms9K0) | 2:56 |
 
 Snapshot ID: `AAAAAPNdC3UMx9UJufwDcOT7GHSzsJ6k`

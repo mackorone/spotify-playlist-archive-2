@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: Rangga Jones, BLVCKHEART
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,518 likes - 99 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,517 likes - 99 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di 22simba, Ultimo, Cesare Cremonini, Miley Cyrus, Travis Scott, Annalisa con Madame, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,110 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,108 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

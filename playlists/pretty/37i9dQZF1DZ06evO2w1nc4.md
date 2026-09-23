@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 
 > This is Pierce The Veil\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,851 likes - 37 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,891 likes - 37 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 | 19 | [I'd Rather Die Than Be Famous](https://open.spotify.com/track/5M08Cm5ZIlgFoFMYd3zlz6) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 2:53 |
 | 20 | [Gold Medal Ribbon](https://open.spotify.com/track/0yq3IiS6IbPFmqLN46WxiG) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 3:58 |
 | 21 | [I'm Low On Gas And You Need A Jacket](https://open.spotify.com/track/40WWeoX26jtsfdmFx5iRty) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 4:12 |
-| 22 | [Disasterology](https://open.spotify.com/track/2zcDKH43LMkNjWKDjppAd2) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines \(Reissue\)](https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU) | 3:25 |
+| 22 | [Besitos](https://open.spotify.com/track/163ZkKtGjrCU3GquoCqiZZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines \(Reissue\)](https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU) | 4:24 |
 | 23 | [The Jaws Of Life](https://open.spotify.com/track/4mfbHWZCIsDVMKk9HAqEgF) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 3:42 |
 | 24 | [The Divine Zero](https://open.spotify.com/track/7trZFY6J0ZfnZYUg3NIHot) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 4:08 |
 | 25 | [The New National Anthem](https://open.spotify.com/track/0LRrtw1MFASb7tgyHqVXnh) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 3:59 |
-| 26 | [Besitos](https://open.spotify.com/track/163ZkKtGjrCU3GquoCqiZZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines \(Reissue\)](https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU) | 4:24 |
+| 26 | [Disasterology](https://open.spotify.com/track/2zcDKH43LMkNjWKDjppAd2) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines \(Reissue\)](https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU) | 3:25 |
 | 27 | [Chemical Kids and Mechanical Brides](https://open.spotify.com/track/2k3fs1S5gYqwzN8G2QDXiJ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 3:40 |
 | 28 | [Even When I’m Not With You](https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 2:54 |
 | 29 | [Southern Constellations](https://open.spotify.com/track/1ebh1wrBHO5JIRS4i95vR0) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 1:04 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 | 36 | [a kind thing to do \(feat\. Vic Fuentes\)](https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Vic Fuentes](https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 4:07 |
 | 37 | [Currents Convulsive](https://open.spotify.com/track/55z9JKoPKREhOv1bppouag) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 3:35 |
 
-Snapshot ID: `aq8iAAAAAAAAdVaf2H+PaQ7HIlnmpmCT`
+Snapshot ID: `arBzgAAAAACFSM4RCGAnTjtsXy2A5WUk`

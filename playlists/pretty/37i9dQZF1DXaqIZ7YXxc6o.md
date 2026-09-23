@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Odd Mob
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,927 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,914 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 27 | [Genie in a Bottle \(Levi Mix\)](https://open.spotify.com/track/1jIH1ugCqobuVG13P59POG) | [Levi](https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Genie in a Bottle \(Levi Mix\)](https://open.spotify.com/album/2cUZ5RyG48l4PurHGi4iNu) | 2:41 |
 | 28 | [Hear Me Now](https://open.spotify.com/track/0ktwSpjmTtx3RkQkeRFk0C) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Hear Me Now](https://open.spotify.com/album/6YDLIVYbDwJ4GNaM6sJHgJ) | 3:19 |
 | 29 | [Changes](https://open.spotify.com/track/4BSB6PWM5UvnW1GOjJdkKH) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Changes](https://open.spotify.com/album/5m9LXapfZpUKnP8HK4sLAB) | 2:52 |
-| 30 | [Essa Ta Quente \(feat\. Skrillex\)](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente \(feat\. Skrillex\)](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
+| 30 | [Essa Ta Quente](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
 | 31 | [Scary Monsters & Nice Sprites \(PhaseOne Remake\)](https://open.spotify.com/track/7e2zNm90ULXbzAm1NXfbac) | [PhaseOne](https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk) | [Scary Monsters & Nice Sprites \(PhaseOne Remake\)](https://open.spotify.com/album/18FCcZlQyBRvKEqyzEo7oq) | 3:05 |
 | 32 | [Send Shots](https://open.spotify.com/track/2l8RyIEP6A1aPkM2EVecNY) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Send Shots](https://open.spotify.com/album/68StQRtOUcywtJN19YKfcZ) | 2:39 |
 | 33 | [RENEGADE \(Every Day\)](https://open.spotify.com/track/3br5GTNAnGFEJVrACYCx4Q) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [RENEGADE \(Every Day\)](https://open.spotify.com/album/28CJUDqQJ4k309FHbbxClF) | 3:03 |

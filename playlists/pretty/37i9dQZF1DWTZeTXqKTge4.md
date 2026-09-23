@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Shreez, Tizzo, Salgrimo, Le Ice, Peeda, Soft, YoAlain!, Chiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,602 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,606 likes - 75 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 25 | [D'où je viens](https://open.spotify.com/track/3j7JNU1EoEVXAUKgbI0Pgu) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [D'où je viens](https://open.spotify.com/album/0iaZZ36QDxZdcEmRuDDkMi) | 2:43 |
 | 26 | [MAUVAIS ŒIL](https://open.spotify.com/track/61mUncDKRjhsCbvceudWlK) | [Playbe](https://open.spotify.com/artist/26rIuyFJ8XZDDEMjihm2BI) | [MAUVAIS ŒIL](https://open.spotify.com/album/7lwmGkO53CKgfdE9hD0ddP) | 2:29 |
 | 27 | [Les ailes](https://open.spotify.com/track/5S8YpOaA9eTckCWySKewow) | [Meryem Saci](https://open.spotify.com/artist/5B3Wm59hYt0VbwypxsVkQE) | [\#RAPELLES \- Saison 1](https://open.spotify.com/album/1ygdOA0ldi3qKJWfGbI26l) | 3:18 |
-| 28 | [PIKET](https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [PIKET](https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR) | 3:27 |
+| 28 | [SAY LESS](https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SAY LESS](https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv) | 3:15 |
 | 29 | [Carey Price](https://open.spotify.com/track/58RY018QZjWwaKuzHLIU0c) | [Teddy Relaxx](https://open.spotify.com/artist/6v3OSBCzhedYhORkVkrndN), [KaMa](https://open.spotify.com/artist/3rblgHbQPHtt6CKgR9ykrH) | [Carey Price](https://open.spotify.com/album/58LCb4NZ7sMwKwNTttQrnz) | 2:44 |
 | 30 | [TOUT VA TROP VITE](https://open.spotify.com/track/0NNxX6ZYEhpxGs0QwtyOB2) | [Floraison Tardive](https://open.spotify.com/artist/22h02uNReoFoSiyLU56tHz) | [Radeau Capharnaüm](https://open.spotify.com/album/3Zt8ueRsn2X80guFi53ERf) | 2:55 |
 | 31 | [Backstage](https://open.spotify.com/track/20Wh8z88uZ2WdySpKxQrl5) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Berger](https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg) | 3:15 |
-| 32 | [SAY LESS](https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SAY LESS](https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv) | 3:15 |
+| 32 | [PIKET](https://open.spotify.com/track/5FdvpTYkQ3fZM09rG04Vx3) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Tizzo](https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C) | [PIKET](https://open.spotify.com/album/67GHamy51VbsYd2pCEupwR) | 3:27 |
 | 33 | [Paparazzi](https://open.spotify.com/track/5hmxAHWDIaZJ3iuLsk5NY7) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [GAMAN](https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe) | 2:59 |
 | 34 | [Signe \(avec Statzz\)](https://open.spotify.com/track/2lOmRntQlKRhYfVj5FHyQ3) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Douze sur douze](https://open.spotify.com/album/1JrHSwOmjfgTETzZvFIgPR) | 2:20 |
 | 35 | [A La Base](https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [A La Base](https://open.spotify.com/album/2NMkjnOy51mypDJcdnSZU8) | 2:24 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 72 | [Laisse nous](https://open.spotify.com/track/4KZvsQAKxTiIuuCYjQpp63) | [Boutot](https://open.spotify.com/artist/7HFhi8w52p30roEfUmV7Mh), [Tel Kel](https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM) | [Laisse nous](https://open.spotify.com/album/53w6wLP7cA0LvG1eXHXlzF) | 2:48 |
 | 73 | [GENS DU PAYS](https://open.spotify.com/track/34sxn2qDKABUF0pUUw0eAB) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A), [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:32 |
 | 74 | [Kesspass](https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6) | [Yellow Rice](https://open.spotify.com/artist/5qIIEpCZ2IGZuJvR3riHMD), [dønnyr2kébb](https://open.spotify.com/artist/2shpYFKWUlHdvR6jk5l26a) | [Kesspass](https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv) | 1:18 |
-| 75 | [BASSE COUTURE](https://open.spotify.com/track/3aCa5AuUlH73Zie9nCcbbO) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [BASSE COUTURE](https://open.spotify.com/album/2zd2bhbTdKdICkMGg3wZLc) | 2:51 |
+| 75 | [Big Wop](https://open.spotify.com/track/1b31hRNoQogOJSKqQxhfjv) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS) | 1:36 |
 
 Snapshot ID: `AAAAADaQ8dVrQh+xp/fwiHfxMeU0A5iG`

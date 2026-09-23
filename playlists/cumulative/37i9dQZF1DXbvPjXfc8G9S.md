@@ -4,7 +4,7 @@
 
 > Los mejores éxitos de hoy en Colombia\. Foto: Karol G
 
-562 songs - 1 day 7 hr 1 min
+563 songs - 1 day 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [COMO OREO](https://open.spotify.com/track/7sRXb5IgYWwVv1DaavHSNs) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [COMO OREO](https://open.spotify.com/album/1N253WjALuV1kB61N0GeLd) | 3:15 | 2025-08-29 | 2026-05-16 |
 | [Como quisiera](https://open.spotify.com/track/5TsFC2fnBWOYWYllvEtiOQ) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Como quisiera](https://open.spotify.com/album/0TgK5rsk2w1oXjDXvU9FQD) | 2:23 | 2025-01-05 | 2025-01-25 |
 | [Como Te Va Sin Mi](https://open.spotify.com/track/3Pij77JPCmUbAgJ6xUz8Rj) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [Como Te Va Sin Mi](https://open.spotify.com/album/2Css3L9seXF5nAcyoFnAAS) | 2:15 | 2025-04-11 | 2025-05-17 |
+| [COMPA COLETO \(uy\_como\)](https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [COMPA COLETO \(uy\_como\)](https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch) | 3:20 | 2026-09-22 |  |
 | [Con el Corazón](https://open.spotify.com/track/1xTWu5aArww0QtXqX2ScBI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Con el Corazón](https://open.spotify.com/album/0HBt7W6GF6XZujwyxNCoT1) | 3:09 | 2026-02-13 | 2026-04-17 |
 | [CONDENADO AL EXITO II](https://open.spotify.com/track/4RbCdwPPk5XUpTrxAvntGM) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 4:17 | 2024-02-01 | 2024-11-16 |
 | [CONDENADO AL EXITO III](https://open.spotify.com/track/5cdKA7XiFwInMBzGXKNlOq) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [TRINIDAD BENDITA](https://open.spotify.com/album/7GsCgJ2MFW9lGxfiHjqKEP) | 3:08 | 2025-06-06 | 2025-06-14 |
@@ -127,7 +128,7 @@
 | [DEPORTIVO](https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [DEPORTIVO](https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs) | 3:38 | 2024-11-15 | 2025-06-07 |
 | [Desde Antes](https://open.spotify.com/track/5Ulsi8075EHzP2chQqbv86) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Valka](https://open.spotify.com/artist/0nZi35gC9oUvfWsegp9VVr) | [Desde Antes](https://open.spotify.com/album/2M8U9CPDLmJwTEoMEXWDZl) | 3:11 | 2024-08-23 | 2024-09-27 |
 | [Después de ti](https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [Después de ti](https://open.spotify.com/album/2jNfHpGR3OkcVqNucroI92) | 4:35 | 2026-04-24 | 2026-05-22 |
-| [Destino Final](https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Destino Final](https://open.spotify.com/album/66BS1FKL1YeuRLQo5Y5fMQ) | 2:53 | 2026-01-13 |  |
+| [Destino Final](https://open.spotify.com/track/2E4TYekUduml1DWIqQWNcj) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Destino Final](https://open.spotify.com/album/66BS1FKL1YeuRLQo5Y5fMQ) | 2:53 | 2026-01-13 | 2026-09-23 |
 | [DETRÁS DE TU ALMA](https://open.spotify.com/track/2BvPMS2XWfnCpHHvWeOyeC) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [LO MISMO DE SIEMPRE](https://open.spotify.com/album/3beZ5DRcWVTpXaU3ViLIF6) | 3:57 | 2025-05-30 | 2025-09-27 |
 | [Dichavate](https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa) | [Ya Ice Dilan](https://open.spotify.com/artist/3EumQuYai5g1235jIBaPhA), [Rey Tony](https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l), [Helabusador](https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX), [JipMusic Global](https://open.spotify.com/artist/6qX4h29LUPPUx0ykEdYAL7), [Dj Honda](https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk) | [Dichavate](https://open.spotify.com/album/4yRbCIuNyOezf81L8yR3jF) | 4:06 | 2026-06-12 |  |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-10 | 2023-03-18 |

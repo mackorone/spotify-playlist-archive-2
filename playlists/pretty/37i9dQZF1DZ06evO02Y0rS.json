@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 164460,
+  "num_followers": 164485,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAA5whdpxnrXtl+yJZZDjZad",
+  "snapshot_id": "arBzgAAAAACSH0xFkgbiEP8kfph/mhvi",
   "tracks": [
     {
       "added_at": null,
@@ -86,11 +86,15 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Nicole Miglis",
+          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
         }
       ],
-      "duration_ms": 270324,
-      "name": "Drift",
-      "url": "https://open.spotify.com/track/3Z8AixM6sFtwicqbTSoyri"
+      "duration_ms": 222768,
+      "name": "Talk to Me",
+      "url": "https://open.spotify.com/track/0dFOv89DXKP12vQzzlOq0U"
     },
     {
       "added_at": null,
@@ -115,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Always on Your Side",
         "url": "https://open.spotify.com/album/04qmxEtttzyhoSzWWe5Kb0"
       },
@@ -131,22 +151,6 @@
       "duration_ms": 208680,
       "name": "Always on Your Side",
       "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
     },
     {
       "added_at": null,
@@ -187,6 +191,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -207,22 +231,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+        "name": "Distance in Static",
+        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
         }
       ],
-      "duration_ms": 226146,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/622fSIVOm6SPcLPNOoYeJn"
+      "duration_ms": 270324,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/3Z8AixM6sFtwicqbTSoyri"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Migration",
+        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 223720,
+      "name": "Second Sun",
+      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me and You",
+        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 229475,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 230306,
+      "name": "Kiara",
+      "url": "https://open.spotify.com/track/7sqii6BhIDpJChYpU3WjwS"
     },
     {
       "added_at": null,
@@ -252,129 +320,9 @@
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
         }
       ],
-      "duration_ms": 223720,
-      "name": "Second Sun",
-      "url": "https://open.spotify.com/track/16ikmfoT1249gG3pzPvnYt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Kiara",
-      "url": "https://open.spotify.com/track/7sqii6BhIDpJChYpU3WjwS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talk to Me",
-        "url": "https://open.spotify.com/album/3BgijQ4jQnoz6GR8gbxlNg"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Nicole Miglis",
-          "url": "https://open.spotify.com/artist/1mmKns9q559kAZeHbKeAu2"
-        }
-      ],
-      "duration_ms": 222768,
-      "name": "Talk to Me",
-      "url": "https://open.spotify.com/track/1AS9YdkPrxVhSYd0RpommY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Distance in Static",
-        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 236820,
-      "name": "ID700",
-      "url": "https://open.spotify.com/track/3SyiwKSFhhIAz1Bb89ihdF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me and You",
-        "url": "https://open.spotify.com/album/0WzQlsyq2abojuavi9W9kD"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 229475,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/3K3yAN6QVsLNM3tNkn8zuo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Black Sands",
-        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Andreya Triana",
-          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
-        }
-      ],
-      "duration_ms": 284800,
-      "name": "Stay The Same",
-      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Migration",
-        "url": "https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
       "duration_ms": 237546,
       "name": "Kerala",
       "url": "https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Distance in Static",
-        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 207475,
-      "name": "Shokoufeh",
-      "url": "https://open.spotify.com/track/5cZ6iDczIvnNezs5sqdgU8"
     },
     {
       "added_at": null,
@@ -399,6 +347,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Black Sands",
+        "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "duration_ms": 284800,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/6vcd0sKmiioXQKbcZPr7gq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Distance in Static",
+        "url": "https://open.spotify.com/album/2FMGW8WrG0BE0ZimHbHw2M"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 236820,
+      "name": "ID700",
+      "url": "https://open.spotify.com/track/3SyiwKSFhhIAz1Bb89ihdF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Animal Magic",
         "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 318600,
       "name": "The Plug",
       "url": "https://open.spotify.com/track/1tWhIl1HgzlS8hSzbi3PSD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Elysian",
+      "url": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D"
     },
     {
       "added_at": null,
@@ -442,31 +442,11 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Aanya Martin",
-          "url": "https://open.spotify.com/artist/6aypy2lqG1sGhNlO7j1LxY"
         }
       ],
-      "duration_ms": 225993,
-      "name": "Can\u2019t You See",
-      "url": "https://open.spotify.com/track/0bcqlXTDN4fcZx2viQITW1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Elysian",
-      "url": "https://open.spotify.com/track/0PYMIPuZk9AjcmkscMeC3D"
+      "duration_ms": 207475,
+      "name": "Shokoufeh",
+      "url": "https://open.spotify.com/track/5cZ6iDczIvnNezs5sqdgU8"
     },
     {
       "added_at": null,
@@ -483,6 +463,26 @@
       "duration_ms": 279933,
       "name": "Terrapin",
       "url": "https://open.spotify.com/track/7hGI1fDfm41LPpg0mo2Vid"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+      },
+      "artists": [
+        {
+          "name": "Bonobo",
+          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "From You",
+      "url": "https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
-      },
-      "artists": [
-        {
-          "name": "Bonobo",
-          "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 210280,
-      "name": "From You",
-      "url": "https://open.spotify.com/track/6t2gHlvw7kTK6M7M5f7S6K"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black Sands",
         "url": "https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy"
       },
@@ -563,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The North Borders",
-        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
         }
       ],
-      "duration_ms": 287728,
-      "name": "Sapphire",
-      "url": "https://open.spotify.com/track/1d5hX0RYHcDM4aHJHSm5cr"
+      "duration_ms": 108800,
+      "name": "Polyghost",
+      "url": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH"
     },
     {
       "added_at": null,
@@ -599,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v"
+        "name": "The North Borders",
+        "url": "https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Miguel Atwood-Ferguson",
-          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
         }
       ],
-      "duration_ms": 108800,
-      "name": "Polyghost",
-      "url": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH"
+      "duration_ms": 287728,
+      "name": "Sapphire",
+      "url": "https://open.spotify.com/track/1d5hX0RYHcDM4aHJHSm5cr"
     },
     {
       "added_at": null,
@@ -723,18 +703,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Animal Magic",
-        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
+        "name": "Days To Come",
+        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Fink",
+          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
         }
       ],
-      "duration_ms": 393533,
-      "name": "Silver",
-      "url": "https://open.spotify.com/track/4Uiia5NmkyHEjHLK0IfwVK"
+      "duration_ms": 323773,
+      "name": "If You Stayed Over",
+      "url": "https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ"
     },
     {
       "added_at": null,
@@ -755,22 +739,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Days To Come",
-        "url": "https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn"
+        "name": "Animal Magic",
+        "url": "https://open.spotify.com/album/4ptDpUO3Uf910ekgmftYA8"
       },
       "artists": [
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Fink",
-          "url": "https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf"
         }
       ],
-      "duration_ms": 323773,
-      "name": "If You Stayed Over",
-      "url": "https://open.spotify.com/track/1yGTwR9AcrzQ67JGnwO3jZ"
+      "duration_ms": 393533,
+      "name": "Silver",
+      "url": "https://open.spotify.com/track/4Uiia5NmkyHEjHLK0IfwVK"
     },
     {
       "added_at": null,

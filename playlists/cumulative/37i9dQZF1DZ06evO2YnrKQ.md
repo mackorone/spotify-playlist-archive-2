@@ -4,7 +4,7 @@
 
 > This is Alexisonfire\. The essential tracks, all in one playlist.
 
-77 songs - 5 hr 26 min
+78 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,12 +27,13 @@
 | [Conditional Love](https://open.spotify.com/track/1DkbJB2RctViYLK3DnGo2Y) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 2:53 | 2022-10-25 |  |
 | [Control](https://open.spotify.com/track/1nJIYo1g5V4aOnglr7qhnj) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:43 | 2022-10-25 |  |
 | [Counterparts and Number Them](https://open.spotify.com/track/1Hez08ojkopWzM5dTroCJT) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Alexisonfire](https://open.spotify.com/album/49lCvR6PcufVwZtJJVu5uC) | 2:19 | 2022-10-25 |  |
+| [Crisis](https://open.spotify.com/track/0GwFyxPKZcFUEIxbZolsuv) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:31 | 2026-09-23 |  |
 | [Cuz](https://open.spotify.com/track/6y6kQT8fmXuKR3DAnH7aFh) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Cuz](https://open.spotify.com/album/7b82PyL0lPXsSfDrPQsZZL) | 2:55 | 2025-11-01 | 2026-01-30 |
 | [Dark Night of the Soul](https://open.spotify.com/track/0S6bcfQHDPZPRcU4EV3jxk) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 6:02 | 2022-10-25 | 2025-10-25 |
 | [Dogs Blood](https://open.spotify.com/track/1WHDPx1Vzgg9i8jobSl44d) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Dogs Blood](https://open.spotify.com/album/3Rxr8MhJ34TS5LPK8aBJPv) | 5:58 | 2022-10-25 |  |
 | [Dogs Blood](https://open.spotify.com/track/5DiIanv54rT73xCmqoKQV0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Dog's Blood](https://open.spotify.com/album/5G0BHqb1hq5vDStpBmDIBd) | 5:58 | 2025-03-22 | 2025-03-24 |
 | [Dogs Blood \- Live](https://open.spotify.com/track/1k6EbFWkBkB6nqGuO6RApc) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [\(LIVE\) \- Born & Raised 2022, St Catharines ON](https://open.spotify.com/album/2eBNgO9LxosJNLXMUtGaip) | 6:16 | 2024-07-01 | 2024-09-30 |
-| [Drunks, Lovers, Sinners and Saints](https://open.spotify.com/track/4dxByfgJYleKjkkVWLSEoN) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:48 | 2022-10-25 |  |
+| [Drunks, Lovers, Sinners and Saints](https://open.spotify.com/track/4dxByfgJYleKjkkVWLSEoN) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/424kD6zJhvykdQsTXe9Zcl) | 3:48 | 2022-10-25 | 2026-09-23 |
 | [Emerald Street](https://open.spotify.com/track/5l85aKbiWzcvUTMwBqC5AJ) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Old Crows / Young Cardinals](https://open.spotify.com/album/3vpl6HmqxL7hrwTRUv5zon) | 3:15 | 2022-10-25 |  |
 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 | 2022-10-25 |  |
 | [Fully Completely](https://open.spotify.com/track/7Gj5Gd0IlD4GTxL9bmVZg1) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Fully Completely](https://open.spotify.com/album/5iSeNirSdjXzdv4eBx72X1) | 3:48 | 2025-10-05 |  |

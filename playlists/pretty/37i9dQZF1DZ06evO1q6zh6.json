@@ -1,12 +1,12 @@
 {
   "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 185865,
+  "num_followers": 185886,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADRQpkHaCikpsJOs04806t+",
+  "snapshot_id": "arBzgAAAAAB8qKs6YJ77buavPhcarutR",
   "tracks": [
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Firepower",
-        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
+        "name": "Point Of Entry",
+        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 173973,
-      "name": "No Surrender",
-      "url": "https://open.spotify.com/track/1Fr7OlVZrc3mDvru8j2cFi"
+      "duration_ms": 274866,
+      "name": "Desert Plains",
+      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Point Of Entry",
-        "url": "https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP"
+        "name": "Firepower",
+        "url": "https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 274866,
-      "name": "Desert Plains",
-      "url": "https://open.spotify.com/track/1zMXCwfwiIGPZA4kq7ideV"
+      "duration_ms": 173973,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/1Fr7OlVZrc3mDvru8j2cFi"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 264360,
-      "name": "Freewheel Burning",
-      "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
+      "duration_ms": 247666,
+      "name": "Some Heads Are Gonna Roll",
+      "url": "https://open.spotify.com/track/4vWdaYRTWwZSmFPv9MffcS"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
         }
       ],
-      "duration_ms": 247666,
-      "name": "Some Heads Are Gonna Roll",
-      "url": "https://open.spotify.com/track/4vWdaYRTWwZSmFPv9MffcS"
+      "duration_ms": 264360,
+      "name": "Freewheel Burning",
+      "url": "https://open.spotify.com/track/6aQBzaeOIajIPGAMzqa23J"
     },
     {
       "added_at": null,

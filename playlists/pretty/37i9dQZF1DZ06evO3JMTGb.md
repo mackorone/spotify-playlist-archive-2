@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 
 > This is Sofie Birch\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227 likes - 40 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 228 likes - 40 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,11 +16,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 | 6 | [Ubiquitous](https://open.spotify.com/track/6AA44gTSmQ6S2aMUsjd3ZG) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 3:49 |
 | 7 | [Hiraeth](https://open.spotify.com/track/2unhwFru9sVt2EfuJfnwU7) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/1AG2QdGXABKCvbqaVS0OyO) | 3:11 |
 | 8 | [Heart of a waterfall](https://open.spotify.com/track/0k6R4xKzwobcmNbTZbwZmK) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 4:35 |
-| 9 | [Kyakalia](https://open.spotify.com/track/5jsSQZEUgzOmiMyI1JFnEx) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Alfred Bundgaard](https://open.spotify.com/artist/3HhLZ0jfYi0Og65mYA2tKs) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 0:56 |
+| 9 | [Juaduddanya](https://open.spotify.com/track/7k4PPInBDLOfPUvuQx6CKK) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 4:07 |
 | 10 | [Humidity](https://open.spotify.com/track/6YQYwQ1SAuDBOuQtHhMTY1) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 3:13 |
 | 11 | [Heart Donor](https://open.spotify.com/track/11qws3Eq7dG4ivPK7QF6UV) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 2:53 |
 | 12 | [Comes with sunrise](https://open.spotify.com/track/5b5vEwdcHP6UFP6yoWIHgB) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:19 |
-| 13 | [Juaduddanya](https://open.spotify.com/track/7k4PPInBDLOfPUvuQx6CKK) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 4:07 |
+| 13 | [Kyakalia](https://open.spotify.com/track/5jsSQZEUgzOmiMyI1JFnEx) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Alfred Bundgaard](https://open.spotify.com/artist/3HhLZ0jfYi0Og65mYA2tKs) | [Bivabippabualukka](https://open.spotify.com/album/1mgxS3noI2nBHvEyMG1ute) | 0:56 |
 | 14 | [Hallu](https://open.spotify.com/track/3PHLN6ikLs9eVBa3XUG45V) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [\_iC\_iC\_](https://open.spotify.com/artist/6GuLZyeLnlf1EhwzRXL0lk) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 4:08 |
 | 15 | [You Make Me Care More](https://open.spotify.com/track/5lMn3bwb5eE3Dn1xRmfjjA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 1:29 |
 | 16 | [Collecting eyes](https://open.spotify.com/track/4Fslm3L6X9RsyO6SvBEi1h) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 8:41 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 | 22 | [Observatory](https://open.spotify.com/track/6DE8VAI99LyIJ16anacufA) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Holotropica](https://open.spotify.com/album/2W4n1zPDKzqGpbMKU21mBu) | 5:52 |
 | 23 | [Lilieae](https://open.spotify.com/track/6yauYPPejwD9PRZzpB5g8l) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 3:49 |
 | 24 | [Nøkken](https://open.spotify.com/track/4U3HMHRavamml1N4hv5wjl) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Hiraeth](https://open.spotify.com/album/20U2RJ45XybSkpZJLwPjUf) | 3:33 |
-| 25 | [Begin Sync End](https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 4:34 |
-| 26 | [Jeg Kan Så Godt Li Blomster](https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM) | [Phine & Ormen](https://open.spotify.com/artist/4PWhdZlouA7l04j7YpUKuO), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Goddag](https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6) | 2:40 |
+| 25 | [Jeg Kan Så Godt Li Blomster](https://open.spotify.com/track/1XNIYQR740vVEBilo0QlWM) | [Phine & Ormen](https://open.spotify.com/artist/4PWhdZlouA7l04j7YpUKuO), [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Goddag](https://open.spotify.com/album/5vTtvfZpDA43UByWvWKGJ6) | 2:40 |
+| 26 | [Begin Sync End](https://open.spotify.com/track/4eqsRAIh3ZxHbV9uvW5oa3) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Planetes](https://open.spotify.com/album/7mgSukUn1BYjvnzNWCruCf) | 4:34 |
 | 27 | [Driving Towards the Deaths Mycelium](https://open.spotify.com/track/709CSssXkcrwidi6D3LxyQ) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 3:45 |
 | 28 | [Sugi](https://open.spotify.com/track/1abxSo1leLk7qdlZaKg2mN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Johan Carøe](https://open.spotify.com/artist/3l6IHjr0ouXmcLF1eY1Kxw) | [Repair Techniques](https://open.spotify.com/album/4bkwSPS4JuOPwU9eoCpb7Z) | 3:52 |
 | 29 | [Sudany](https://open.spotify.com/track/326g4y565ibUjF0L7iOdcN) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3JMTGb.md) - [plain]
 | 39 | [Behind the Hill](https://open.spotify.com/track/42kuJapejU5G2RATHD1sCY) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 1:47 |
 | 40 | [The Journey](https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Antonina Nowacka](https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR) | [Languoria](https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf) | 4:55 |
 
-Snapshot ID: `aq8iAAAAAAB1UPu6PdPOdyjNCBqHdjpw`
+Snapshot ID: `arBzgAAAAABYej522OolZ4uIzV7/uag0`

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,227 songs - 3 day 7 hr 29 min
+1,229 songs - 3 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Amy aka Spent Gladiator 1](https://open.spotify.com/track/7LIAbwsjWwIdKMfw46bkKY) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Transcendental Youth](https://open.spotify.com/album/1cQXV1iXuAphxiarFI9RNS) | 2:27 | 2026-07-18 |  |
 | [Amén](https://open.spotify.com/track/1OhlcrOBfQYntksbcryXKC) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Amén \(The Nomad’s Dream\)](https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD) | 0:57 | 2024-01-12 |  |
 | [An Endless Cycle \(Wayne’s Theme\)](https://open.spotify.com/track/45Btn0Un5R5yRfWsrYoDii) | [Chuck Salamone](https://open.spotify.com/artist/1FMH8oRVo9NPn2rDzhRW2Z), [Mason Lindroth](https://open.spotify.com/artist/351QVu3AeeqlLWDqy2CBIH) | [Moonage Lobotomy \- A Hylics 2 Musical Expansion](https://open.spotify.com/album/2Cl3Bk4c2oUCapf8yQuFXb) | 6:00 | 2024-02-23 | 2024-06-06 |
+| [Anaheim Star](https://open.spotify.com/track/718xkClbZsurJoPFx7KEwz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 2:46 | 2026-09-22 |  |
 | [Andrew in Drag](https://open.spotify.com/track/5ehMCdeOhsgsx25M6wAEzu) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [Love at the Bottom of the Sea](https://open.spotify.com/album/3jtS8e6U6UJzRDdQrg1uNP) | 2:12 | 2024-01-26 |  |
 | [Angel](https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:19 | 2024-06-16 |  |
 | [Angel Of My Dreams](https://open.spotify.com/track/3Zu0AWO9PN2lP2kCls5mkq) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [THAT'S SHOWBIZ BABY!](https://open.spotify.com/album/4Q1Rf1xZ5OiQcCFnSAHdeE) | 3:17 | 2025-12-13 |  |
@@ -483,6 +484,7 @@
 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 | 2024-03-03 | 2026-06-19 |
 | [i hate this tune](https://open.spotify.com/track/4ui8xOiXNA4CCfQ1z4VcZG) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/7iX7uCkSNnkuIMwbjl8Jpf) | 3:31 | 2025-09-08 |  |
 | [I Heard That Noise](https://open.spotify.com/track/7kWg7OPDf0HXdc8I6EcmVk) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [I Heard That Noise](https://open.spotify.com/album/3hXswlXaEoYMiBQ9TZN2wR) | 3:20 | 2026-02-18 |  |
+| [I Know!](https://open.spotify.com/track/3HdVQLeUvRVSpdYgYf54z2) | [Swapmeet](https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj) | [Mount Zero](https://open.spotify.com/album/6MkGAjdvZDLijPcPBVQQFQ) | 3:34 | 2026-09-22 |  |
 | [I Look for You](https://open.spotify.com/track/3bfPZagJDhGPzmUJiX19VU) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Acts of Faith](https://open.spotify.com/album/0m8G0dSYf4rc8SRftPjZXU) | 3:11 | 2024-12-27 |  |
 | [I Love Lucy](https://open.spotify.com/track/2AdZ0pAvlTA9J8Hkkjmxey) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:14 | 2026-03-23 |  |
 | [I Love You, But I Need Another Year](https://open.spotify.com/track/2UQYVFUrqybUciB3ULiysS) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Fine But Dying](https://open.spotify.com/album/6ELuMj5lPWzmvHhi3YeIOp) | 3:42 | 2024-02-07 |  |

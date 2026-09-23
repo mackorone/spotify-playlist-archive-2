@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de Nouvelle École\. Saison 5 dispo sur Netflix !
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,786 likes - 57 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,930 likes - 57 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 56 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 |
 | 57 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/0wLG5McOPyKtqBFv8zQVoI) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Nouvelle École](https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/6G4SQQQtJfwqo0J4fMX7l1) | 3:15 |
 
-Snapshot ID: `AAAAAJhka0PaMQ2DGAe5N1ZW5BiHJY1Y`
+Snapshot ID: `AAAAAFQ/OF5CyHoUDYEHimIMVnfPUoYv`

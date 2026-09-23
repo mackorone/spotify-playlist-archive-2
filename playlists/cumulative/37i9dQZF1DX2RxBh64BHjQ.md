@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:7oHPIc7BYAIUhYFF6hSggI">Belly Gang Kushington</a>
 
-3,043 songs - 5 day 13 hr 24 min
+3,044 songs - 5 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [8 FEET TALL \(feat\. Rico Nasty\)](https://open.spotify.com/track/2uGyUOy5RSYW5XTe4dlgMu) | [ERISTHEPLANET](https://open.spotify.com/artist/7qrlv2SiNqUaQT7dBuUHn3), [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [IT REALLY DO BE THAT DAMN PHONE](https://open.spotify.com/album/2Ot35WxIvKSnluiocFy5gb) | 1:54 | 2026-08-21 | 2026-09-08 |
 | [8 Year Run](https://open.spotify.com/track/3E4xQP5sFwanJROhnqkEJF) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [8 Year Run](https://open.spotify.com/album/1Mo5tYLmHQz2Lo9QiDatea) | 2:10 | 2022-06-24 | 2022-07-23 |
 | [8PM](https://open.spotify.com/track/3CEXwOz5DRkZNlIiHFgPet) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [8PM](https://open.spotify.com/album/2lSP65EeW6axaAeFw3WHHm) | 2:51 | 2025-10-17 | 2025-11-22 |
-| [A$$ Like That](https://open.spotify.com/track/78QAuyJvdL8d47XHd9YJC9) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [A$$ Like That](https://open.spotify.com/album/0jnHnKEIjQuuGhiGMfgGn1) | 1:55 | 2026-08-14 |  |
+| [A$$ Like That](https://open.spotify.com/track/78QAuyJvdL8d47XHd9YJC9) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [A$$ Like That](https://open.spotify.com/album/0jnHnKEIjQuuGhiGMfgGn1) | 1:55 | 2026-08-14 | 2026-09-23 |
 | [About Us \(with Tay Keith\)](https://open.spotify.com/track/5YVx3owPqLK5VH8gTNvhZn) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [About Us \(with Tay Keith\)](https://open.spotify.com/album/4EdovbtOPvKcPOkuk0VZFB) | 2:36 | 2023-10-27 | 2023-12-02 |
 | [Accessories \(feat\. Peso Peso\)](https://open.spotify.com/track/2rW9H7P0Nsq2K5AtNsNtam) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Accessories \(feat\. Peso Peso\)](https://open.spotify.com/album/3UAz8CcBdTCOilabW1AxNe) | 3:00 | 2025-08-01 | 2025-08-16 |
 | [Act Bad](https://open.spotify.com/track/5uzTQQDcW2BbTyPsOoZreP) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Act Bad](https://open.spotify.com/album/2F7hxeskVPFaHDqUT7lfz2) | 2:40 | 2023-04-14 | 2023-06-24 |
@@ -409,6 +409,7 @@
 | [Bounce Out](https://open.spotify.com/track/0sGZ7fSjf9FwXwUMBMlD1W) | [Kuttem Reese](https://open.spotify.com/artist/23vk8FQSjesEtpErniqki4) | [Bounce Out](https://open.spotify.com/album/1NL1LWbjMm9inP25ll9H1d) | 2:34 | 2021-11-19 | 2022-01-29 |
 | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/track/4HzMo8F6xAYOZGYy72CUjX) | [OT7 Quanny](https://open.spotify.com/artist/3dHnXBJdd4O9KXwP1kxF6L), [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Bout My Money \(feat\. Bossman Dlow\)](https://open.spotify.com/album/06hD4ATITFcIPIrwwGboAi) | 3:11 | 2025-01-24 | 2026-07-04 |
 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 | 2022-10-07 | 2022-11-12 |
+| [Bow Bow Bow](https://open.spotify.com/track/7BMDIaCX8e8t8eTkUXB1IM) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf) | [Bow Bow Bow](https://open.spotify.com/album/6q6mVz6r3IjpwB02ZX3LUh) | 2:18 | 2026-09-22 |  |
 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 | 2023-12-01 | 2024-02-17 |
 | [Bowling](https://open.spotify.com/track/30DMkOn32Lw05KrzAxczJu) | [Iconic Savvy](https://open.spotify.com/artist/2rs4EKIuoLOqrH89wLZ2mC) | [Bowling](https://open.spotify.com/album/1XpXXuqTFnmv1EQYZmAbd2) | 1:48 | 2026-07-31 | 2026-08-22 |
 | [Box & Papers](https://open.spotify.com/track/7BXDc3WTYrqA87sJYlGn4A) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:07 | 2022-04-08 | 2022-04-16 |

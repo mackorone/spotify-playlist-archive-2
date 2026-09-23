@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAACBL6vOIU+LYUdu06036d6D",
+  "snapshot_id": "arBzgAAAAACwCH1N4JLuWjXoC57BA2S1",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 267183,
-      "name": "Still Dreaming",
-      "url": "https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU"
+      "duration_ms": 240905,
+      "name": "Play In The Void",
+      "url": "https://open.spotify.com/track/6fz51xPtM0V3Zs45xkUUHf"
     },
     {
       "added_at": null,
@@ -63,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zid",
-        "url": "https://open.spotify.com/album/3thSuW2b2Udc4407eqqbcg"
+        "name": "Friend Remixes",
+        "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS"
       },
       "artists": [
+        {
+          "name": "james K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        },
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 424766,
-      "name": "Zid",
-      "url": "https://open.spotify.com/track/4Dg2phZYxFdgh2pmPovfGB"
+      "duration_ms": 313129,
+      "name": "Collapse (falling forward blissfully all the time) - Arushi Jain Remix",
+      "url": "https://open.spotify.com/track/2MO4UiXSVt3Ds2w3yRWG2J"
     },
     {
       "added_at": null,
@@ -104,29 +108,25 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 240905,
-      "name": "Play In The Void",
-      "url": "https://open.spotify.com/track/6fz51xPtM0V3Zs45xkUUHf"
+      "duration_ms": 267183,
+      "name": "Still Dreaming",
+      "url": "https://open.spotify.com/track/5x3F4GtnGOSpM7g1R90joU"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Friend Remixes",
-        "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS"
+        "name": "Zid",
+        "url": "https://open.spotify.com/album/3thSuW2b2Udc4407eqqbcg"
       },
       "artists": [
-        {
-          "name": "james K",
-          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
-        },
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 313129,
-      "name": "Collapse (falling forward blissfully all the time) - Arushi Jain Remix",
-      "url": "https://open.spotify.com/track/2MO4UiXSVt3Ds2w3yRWG2J"
+      "duration_ms": 424766,
+      "name": "Zid",
+      "url": "https://open.spotify.com/track/4Dg2phZYxFdgh2pmPovfGB"
     },
     {
       "added_at": null,
@@ -304,9 +304,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 581964,
-      "name": "Cultivating Self Love",
-      "url": "https://open.spotify.com/track/58JWS7ldLdrmCN0theav1k"
+      "duration_ms": 763311,
+      "name": "Under The Lilac Sky",
+      "url": "https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 763311,
-      "name": "Under The Lilac Sky",
-      "url": "https://open.spotify.com/track/0a6C3EpA3qmz91mCuQD8ww"
+      "duration_ms": 581964,
+      "name": "Cultivating Self Love",
+      "url": "https://open.spotify.com/track/58JWS7ldLdrmCN0theav1k"
     },
     {
       "added_at": null,

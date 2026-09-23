@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,107 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,115 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,13 +64,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 54 | [Let's Stay Together](https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:02 |
 | 55 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 |
 | 56 | [Not The One](https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:28 |
-| 57 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
-| 58 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 |
+| 57 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 |
+| 58 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
 | 59 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
 | 60 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 |
 | 61 | [When She’s Around](https://open.spotify.com/track/7pttXx6E8Vp9B6shTVzmA2) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [When She’s Around](https://open.spotify.com/album/69fr8ZMZokAd4Y93g69Rhy) | 3:35 |
-| 62 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 |
-| 63 | [Until My Last Breath](https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Until My Last Breath](https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT) | 2:57 |
+| 62 | [Until My Last Breath](https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Until My Last Breath](https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT) | 2:57 |
+| 63 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 |
 | 64 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 |
 | 65 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
 | 66 | [Better Tomorrow](https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA) | [Sennen Bay](https://open.spotify.com/artist/0UQWrW7HtqX5UN1StDmiKW) | [Better Tomorrow](https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj) | 3:31 |

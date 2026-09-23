@@ -1,13 +1,29 @@
 {
   "description": "Fresh folk and roots music from independent artists every Wednesday! Cover: Mynolia",
-  "num_followers": 105027,
+  "num_followers": 105137,
   "original_name": "Fresh Finds Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKTdmg+L62g6MYVNzZnoOifqbZP",
+  "snapshot_id": "AAAAAPTZKAvYlBkI32NiWjzX6m7CUJYG",
   "tracks": [
+    {
+      "added_at": "2026-09-23 04:00:19",
+      "album": {
+        "name": "Always The Same",
+        "url": "https://open.spotify.com/album/0UQd6myReEV9LZ5NcT1lJW"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Always The Same",
+      "url": "https://open.spotify.com/track/5RZomQGckBcXSH8lsKBhqD"
+    },
     {
       "added_at": "2026-09-16 13:55:51",
       "album": {
@@ -23,6 +39,86 @@
       "duration_ms": 207718,
       "name": "Holy Line",
       "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
+    },
+    {
+      "added_at": "2026-09-23 04:00:19",
+      "album": {
+        "name": "Waterbed",
+        "url": "https://open.spotify.com/album/3Xoo35wLiAMsapgApFMPzc"
+      },
+      "artists": [
+        {
+          "name": "Sofia Wolfson",
+          "url": "https://open.spotify.com/artist/5WPGc84zEZJXUIp2ELrNFN"
+        }
+      ],
+      "duration_ms": 178520,
+      "name": "Waterbed",
+      "url": "https://open.spotify.com/track/3nyZ8yt6G4Zdc12Cp2NMJg"
+    },
+    {
+      "added_at": "2026-09-23 04:00:19",
+      "album": {
+        "name": "Nothin'",
+        "url": "https://open.spotify.com/album/5OOLwo3O4TO7uBnDMCYUt8"
+      },
+      "artists": [
+        {
+          "name": "Queen of Jeans",
+          "url": "https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL"
+        }
+      ],
+      "duration_ms": 175801,
+      "name": "Nothin'",
+      "url": "https://open.spotify.com/track/0yMVQAVhsqhwx3jlo321gJ"
+    },
+    {
+      "added_at": "2026-09-16 13:55:51",
+      "album": {
+        "name": "Backstreet Baby",
+        "url": "https://open.spotify.com/album/6exaUQcdnSZ0OsuC35lNBA"
+      },
+      "artists": [
+        {
+          "name": "Zach Meadows",
+          "url": "https://open.spotify.com/artist/2EVgNIwOWFXvUgiMtW5NuX"
+        }
+      ],
+      "duration_ms": 248240,
+      "name": "Backstreet Baby",
+      "url": "https://open.spotify.com/track/0gVi1jCQV7IfIxNqGjQy1H"
+    },
+    {
+      "added_at": "2026-09-23 04:00:19",
+      "album": {
+        "name": "Bolder Font",
+        "url": "https://open.spotify.com/album/0M27waE1ENLewUbMGuJORV"
+      },
+      "artists": [
+        {
+          "name": "Brooke Annibale",
+          "url": "https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3"
+        }
+      ],
+      "duration_ms": 210840,
+      "name": "Now It's Over",
+      "url": "https://open.spotify.com/track/0zMrGXlPG1lOobsGrm3o3s"
+    },
+    {
+      "added_at": "2026-09-23 04:00:19",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/0r5vhczT2ZrLvcexgHm6FZ"
+      },
+      "artists": [
+        {
+          "name": "Elissa Mielke",
+          "url": "https://open.spotify.com/artist/0pu3ESGhCGupolNCwxDCOw"
+        }
+      ],
+      "duration_ms": 282949,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0X8eGhubqm8t6376TCZB61"
     },
     {
       "added_at": "2026-09-16 13:55:51",
@@ -43,22 +139,6 @@
     {
       "added_at": "2026-09-16 13:55:51",
       "album": {
-        "name": "Backstreet Baby",
-        "url": "https://open.spotify.com/album/6exaUQcdnSZ0OsuC35lNBA"
-      },
-      "artists": [
-        {
-          "name": "Zach Meadows",
-          "url": "https://open.spotify.com/artist/2EVgNIwOWFXvUgiMtW5NuX"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Backstreet Baby",
-      "url": "https://open.spotify.com/track/0gVi1jCQV7IfIxNqGjQy1H"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
         "name": "Put in the Work",
         "url": "https://open.spotify.com/album/2Ev6roAnWF541iL8XYFfoW"
       },
@@ -71,6 +151,22 @@
       "duration_ms": 174911,
       "name": "Put in the Work",
       "url": "https://open.spotify.com/track/2aynsQbRIeF2Ju0Qe747EV"
+    },
+    {
+      "added_at": "2026-09-16 13:55:51",
+      "album": {
+        "name": "I Called It!",
+        "url": "https://open.spotify.com/album/5nZOzzRazVVJpe4s7KHya3"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Thornton",
+          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
+        }
+      ],
+      "duration_ms": 162568,
+      "name": "Rocking",
+      "url": "https://open.spotify.com/track/7uJ1Bf4GoIrEOikWoI4Acb"
     },
     {
       "added_at": "2026-09-16 13:55:51",
@@ -103,22 +199,6 @@
       "duration_ms": 274927,
       "name": "If I Could Do It Again",
       "url": "https://open.spotify.com/track/4HwwRFuOx6cz1WSGEuy8ba"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "I Called It!",
-        "url": "https://open.spotify.com/album/5nZOzzRazVVJpe4s7KHya3"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Thornton",
-          "url": "https://open.spotify.com/artist/16Yf6ZfrDTWu4jt7GQrjdL"
-        }
-      ],
-      "duration_ms": 162568,
-      "name": "Rocking",
-      "url": "https://open.spotify.com/track/7uJ1Bf4GoIrEOikWoI4Acb"
     },
     {
       "added_at": "2026-09-16 13:55:51",
@@ -1127,22 +1207,6 @@
     {
       "added_at": "2026-09-16 13:55:51",
       "album": {
-        "name": "Cinderella",
-        "url": "https://open.spotify.com/album/7xc8qjSipCIqZoBfHuj7X4"
-      },
-      "artists": [
-        {
-          "name": "Jordan Patterson",
-          "url": "https://open.spotify.com/artist/2yKKMwAPgYB51wlkM3sY5G"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Cinderella",
-      "url": "https://open.spotify.com/track/17SgupYV5TDPCZtF4wHdHC"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
         "name": "Counting",
         "url": "https://open.spotify.com/album/61AJBKlwuWFuUkG7w1ZEnC"
       },
@@ -1159,22 +1223,6 @@
     {
       "added_at": "2026-09-16 13:55:51",
       "album": {
-        "name": "avoid me",
-        "url": "https://open.spotify.com/album/4LQF20TUI2tPxoztReVxSd"
-      },
-      "artists": [
-        {
-          "name": "Mikal Sabella",
-          "url": "https://open.spotify.com/artist/48l3CDUNMi5cDJDzatyl8X"
-        }
-      ],
-      "duration_ms": 202880,
-      "name": "avoid me",
-      "url": "https://open.spotify.com/track/1AEeEOK6AIVFM6BtRfPOYa"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
         "name": "Vinyl Spinning",
         "url": "https://open.spotify.com/album/3o9I6K90GAd4L0Yh6DdnTp"
       },
@@ -1187,54 +1235,6 @@
       "duration_ms": 252944,
       "name": "Vinyl Spinning",
       "url": "https://open.spotify.com/track/4VG0Pd2MaaoBZprgUJV2Nn"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "Needle",
-        "url": "https://open.spotify.com/album/6M3LywIlKcworsIiIp0pa5"
-      },
-      "artists": [
-        {
-          "name": "Lia Juno",
-          "url": "https://open.spotify.com/artist/7n9lO4WwmeJPLBJ5NFXPoe"
-        }
-      ],
-      "duration_ms": 215718,
-      "name": "Needle",
-      "url": "https://open.spotify.com/track/6vj1PhVCk44hnaUw6igQkn"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "If This Is The End",
-        "url": "https://open.spotify.com/album/2ZyHeH8F9mmnhV5Fcbr4nU"
-      },
-      "artists": [
-        {
-          "name": "Emma Harner",
-          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
-        }
-      ],
-      "duration_ms": 221292,
-      "name": "If This Is The End",
-      "url": "https://open.spotify.com/track/3kFUML1xNLa91hI9EMRkrq"
-    },
-    {
-      "added_at": "2026-09-16 13:55:51",
-      "album": {
-        "name": "Strawberry Rhinestone",
-        "url": "https://open.spotify.com/album/6pHHgfdtht4v9TAgDxE9WM"
-      },
-      "artists": [
-        {
-          "name": "Two Runner",
-          "url": "https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg"
-        }
-      ],
-      "duration_ms": 259450,
-      "name": "Strawberry Rhinestone",
-      "url": "https://open.spotify.com/track/7BAcAmm4hyKhd2sgZjSjdS"
     }
   ],
   "unique_name": "Fresh Finds Folk",

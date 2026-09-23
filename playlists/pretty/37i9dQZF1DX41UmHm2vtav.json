@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 508353,
+  "num_followers": 508372,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,34 @@
     {
       "added_at": "2026-08-21 03:03:11",
       "album": {
+        "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
+        "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
+      },
+      "artists": [
+        {
+          "name": "Supercombo",
+          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
+        },
+        {
+          "name": "Gabriel Boni",
+          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "Zucchi",
+          "url": "https://open.spotify.com/artist/5hVxp6djhY7Zw49jBRthul"
+        }
+      ],
+      "duration_ms": 376680,
+      "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
+      "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
+    },
+    {
+      "added_at": "2026-08-21 03:03:11",
+      "album": {
         "name": "Paradise (Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
       },
@@ -631,34 +659,6 @@
       "duration_ms": 134500,
       "name": "Deixa Eu Dizer",
       "url": "https://open.spotify.com/track/7l3r5RwxpOziX8HXiKbAkI"
-    },
-    {
-      "added_at": "2026-08-21 03:03:11",
-      "album": {
-        "name": "Piloto Autom\u00e1tico (Gabriel Boni, Voltech & Zucchi Remix)",
-        "url": "https://open.spotify.com/album/3lcUyNtFMP7DXNjgdoGkBk"
-      },
-      "artists": [
-        {
-          "name": "Supercombo",
-          "url": "https://open.spotify.com/artist/73HkjgziMO6I83vFOS8mo1"
-        },
-        {
-          "name": "Gabriel Boni",
-          "url": "https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        },
-        {
-          "name": "Zucchi",
-          "url": "https://open.spotify.com/artist/5hVxp6djhY7Zw49jBRthul"
-        }
-      ],
-      "duration_ms": 376680,
-      "name": "Piloto Autom\u00e1tico - Gabriel Boni, Voltech & Zucchi Remix",
-      "url": "https://open.spotify.com/track/00YOa6SnANXEQWK9JWJlpm"
     },
     {
       "added_at": "2026-08-21 03:03:11",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-08-21 03:03:11",
       "album": {
-        "name": "Back to Beginning",
-        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
-      },
-      "artists": [
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        },
-        {
-          "name": "Talking Dirty",
-          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Back to Beginning",
-      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
-    },
-    {
-      "added_at": "2026-08-21 03:03:11",
-      "album": {
         "name": "I Do (with Zeeba)",
         "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 173446,
       "name": "I Do - with Zeeba",
       "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+    },
+    {
+      "added_at": "2026-08-21 03:03:11",
+      "album": {
+        "name": "Back to Beginning",
+        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
+      },
+      "artists": [
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        },
+        {
+          "name": "Talking Dirty",
+          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Back to Beginning",
+      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
     },
     {
       "added_at": "2026-08-21 03:03:11",
@@ -1323,6 +1323,26 @@
     {
       "added_at": "2026-08-21 03:03:11",
       "album": {
+        "name": "Alok Presents Brazilian Bass: Pt. 1",
+        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
+      },
+      "artists": [
+        {
+          "name": "Selva",
+          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
+        },
+        {
+          "name": "Zerky",
+          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Make Me Wanna",
+      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
+    },
+    {
+      "added_at": "2026-08-21 03:03:11",
+      "album": {
         "name": "Todo Homem (Bhaskar, Mojjo Remix)",
         "url": "https://open.spotify.com/album/3Yo6lJRghDLJlv9v0oqyoN"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 269015,
       "name": "Todo Homem - Bhaskar, Mojjo Remix",
       "url": "https://open.spotify.com/track/40gvTsSMqg7yiEwIMvsrCn"
-    },
-    {
-      "added_at": "2026-08-21 03:03:11",
-      "album": {
-        "name": "Alok Presents Brazilian Bass: Pt. 1",
-        "url": "https://open.spotify.com/album/1tgfni2oyGJMqrl73x3r6Z"
-      },
-      "artists": [
-        {
-          "name": "Selva",
-          "url": "https://open.spotify.com/artist/1Ejjxuav6kpsSyb6QIhjHa"
-        },
-        {
-          "name": "Zerky",
-          "url": "https://open.spotify.com/artist/3DAlQBPv5zWasPxV5Tr8ok"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Make Me Wanna",
-      "url": "https://open.spotify.com/track/7EwkcUIoPXh67ampCvRk6I"
     },
     {
       "added_at": "2026-08-21 03:03:11",

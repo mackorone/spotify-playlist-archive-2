@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 153491,
+  "num_followers": 153496,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Seventeen Going Under",
-        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 302360,
-      "name": "Seventeen Going Under",
-      "url": "https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "hell of a good time",
         "url": "https://open.spotify.com/album/0VKgOKH0D2HDwZlqfKH3HT"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 161475,
       "name": "hell of a good time",
       "url": "https://open.spotify.com/track/7132EFlbWFNX4mLDY23OR5"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Seventeen Going Under",
+        "url": "https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 302360,
+      "name": "Seventeen Going Under",
+      "url": "https://open.spotify.com/track/1Dp7ASSZVVOPJ85VdLpjOX"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Poison Apple Baby",
-        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
         }
       ],
-      "duration_ms": 197977,
-      "name": "Poison Apple Baby",
-      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
+      "duration_ms": 179916,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1207,8 +1207,8 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH"
+        "name": "Poison Apple Baby",
+        "url": "https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx"
       },
       "artists": [
         {
@@ -1216,9 +1216,9 @@
           "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
         }
       ],
-      "duration_ms": 179916,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l"
+      "duration_ms": 197977,
+      "name": "Poison Apple Baby",
+      "url": "https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Eras Of Us",
-        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 168668,
-      "name": "Eras Of Us",
-      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "DUMB",
         "url": "https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 205933,
       "name": "DUMB",
       "url": "https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Eras Of Us",
+        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 168668,
+      "name": "Eras Of Us",
+      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Be Your Man",
-        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
-      },
-      "artists": [
-        {
-          "name": "G Flip",
-          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
-        }
-      ],
-      "duration_ms": 212414,
-      "name": "Be Your Man",
-      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "BETTER",
         "url": "https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 155668,
       "name": "BETTER",
       "url": "https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Be Your Man",
+        "url": "https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu"
+      },
+      "artists": [
+        {
+          "name": "G Flip",
+          "url": "https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU"
+        }
+      ],
+      "duration_ms": 212414,
+      "name": "Be Your Man",
+      "url": "https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Tracy",
         "url": "https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 140952,
       "name": "Tracy",
       "url": "https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2026-01-16 05:00:41",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2026-01-16 05:00:41",
       "album": {
-        "name": "Say That You Love Me",
-        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
-      },
-      "artists": [
-        {
-          "name": "Letdown.",
-          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
-        }
-      ],
-      "duration_ms": 142596,
-      "name": "Young Broke",
-      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
-    },
-    {
-      "added_at": "2026-01-16 05:00:41",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 191554,
       "name": "Without You",
       "url": "https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J"
+    },
+    {
+      "added_at": "2026-01-16 05:00:41",
+      "album": {
+        "name": "Say That You Love Me",
+        "url": "https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX"
+      },
+      "artists": [
+        {
+          "name": "Letdown.",
+          "url": "https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1"
+        }
+      ],
+      "duration_ms": 142596,
+      "name": "Young Broke",
+      "url": "https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf"
     },
     {
       "added_at": "2026-01-16 05:00:41",

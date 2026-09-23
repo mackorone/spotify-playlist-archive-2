@@ -4,7 +4,7 @@
 
 > Smooth soul\-inspired tracks
 
-1,012 songs - 2 day 3 hr 56 min
+1,013 songs - 2 day 4 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-04-27 | 2023-09-15 |
 | [Chasing Wind](https://open.spotify.com/track/4uIr0EKmbKiBBuTdEaO6mM) | [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Chasing Wind](https://open.spotify.com/album/1jqwJofD3wFz2drsplzRwY) | 3:38 | 2023-06-22 | 2023-07-29 |
 | [Cherry](https://open.spotify.com/track/2jKM4QHpRExHWHQ5rd9BPy) | [Sante SVM](https://open.spotify.com/artist/7azRGJNhemWWnc0pN4Q0w1) | [Cherry](https://open.spotify.com/album/19y2pdapQQdE0aNAHwydny) | 2:20 | 2026-04-17 | 2026-05-31 |
+| [Chinyere](https://open.spotify.com/track/7kC22nNl5VK2bzlnF7Xb7N) | [J'Dess](https://open.spotify.com/artist/2aUctDbYODpqWfleSUpK6s), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [Chinyere](https://open.spotify.com/album/1qvoCRFD3uV59isV5czgUH) | 3:40 | 2026-09-11 |  |
 | [Chocolati](https://open.spotify.com/track/2GnmljVcpgOs1kX2ysKazT) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Analyze Love](https://open.spotify.com/album/3tMt7EOBb1KBbfiKKJaWKj) | 2:20 | 2023-03-17 | 2024-01-13 |
 | [chokehold](https://open.spotify.com/track/1sTHELUvMf848Hr5b2ekav) | [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci), [NGE\-THE\-PRODUCER](https://open.spotify.com/artist/5oV5Wd6ZbxfzzlHqlOchXS) | [Nightshot](https://open.spotify.com/album/0L9LtAbap45bpiJsqX05fG) | 4:02 | 2023-02-24 | 2023-03-18 |
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-04-05 | 2024-10-26 |
@@ -1018,7 +1019,7 @@
 | [You Live On](https://open.spotify.com/track/5qez4U03yulzkie5u20lJf) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [You Live On](https://open.spotify.com/album/1HQ7HQbfGxsVDMX2PoOQ8a) | 3:46 | 2023-12-01 | 2024-02-09 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2022-06-24 | 2022-11-26 |
 | [You Were Mine](https://open.spotify.com/track/3QpTafVsUG8UWFDHfJ18Q4) | [Ricky Tyler](https://open.spotify.com/artist/6eDg95U7HWOonWTaVdhATA), [PLXYGRND](https://open.spotify.com/artist/50PvUnXVMTdV9KRCcbxFMp) | [Happy 2 Be Alive](https://open.spotify.com/album/3jXkhOEyaDn7grFbTJ9QQ1) | 3:01 | 2024-05-31 | 2024-07-04 |
-| [You're Mine](https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [PersWaysion](https://open.spotify.com/album/6kSqnGBntxzF3zOpZF7REn) | 2:15 | 2026-08-19 |  |
+| [You're Mine](https://open.spotify.com/track/0S4thqfegaGQ1WeogAVBJb) | [Swayvee](https://open.spotify.com/artist/3cPgRGBJymiZW5BdA1K6es), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [PersWaysion](https://open.spotify.com/album/6kSqnGBntxzF3zOpZF7REn) | 2:15 | 2026-08-19 | 2026-09-23 |
 | [Your Matter](https://open.spotify.com/track/14c9HXha95gFZVJiEgRIZ0) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Your Matter](https://open.spotify.com/album/0iqTeEgr6priRCUW7kmKhj) | 3:11 | 2024-05-17 | 2024-07-27 |
 
 \*This playlist was first scraped on 2022-08-06. Prior content cannot be recovered.

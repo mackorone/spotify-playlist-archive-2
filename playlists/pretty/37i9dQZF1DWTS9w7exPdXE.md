@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Nederpop en Volkspop meezingers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,046 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,093 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,16 +97,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 87 | [Het Is Een Nacht..\. \(Levensecht\)](https://open.spotify.com/track/1jnUXW29r0JgYRcQmC3gIp) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv), [Vagant](https://open.spotify.com/artist/2ZywabPnRCoHjfPJfQavrA) | [Verbazing](https://open.spotify.com/album/6hqBbsWRFC9Mh1Z2YdYDNQ) | 3:45 |
 | 88 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 |
 | 89 | [Vluchtstrook](https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Vluchtstrook](https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm) | 2:28 |
-| 90 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 |
-| 91 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 |
+| 90 | [Sugardaddy](https://open.spotify.com/track/2hIFhSltVcRU1oJ3kf8Zy4) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Sugardaddy](https://open.spotify.com/album/5YHwXc1VQepi38h0kutggf) | 2:11 |
+| 91 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 |
 | 92 | [Leef](https://open.spotify.com/track/4lBkLeU6LNgWzfbWPGm1c9) | [André Hazes Jr.](https://open.spotify.com/artist/5l2Xy4aUoJDRSpsYHyOumD) | [Leef](https://open.spotify.com/album/6lTrzzgpV4zOaEhtYgclKm) | 3:37 |
 | 93 | [Zin In Jou](https://open.spotify.com/track/0wUmqryk6MdL2k5yDVGnk8) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Zin In Jou](https://open.spotify.com/album/7aXYp8I5tUYGUSKzLKFJ37) | 3:58 |
-| 94 | [Frans Duits](https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Duits](https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh) | 2:52 |
-| 95 | [Automatisch](https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs) | 2:45 |
+| 94 | [Automatisch](https://open.spotify.com/track/2WeAyT93f7IzrwXm3ZJMb2) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Automatisch](https://open.spotify.com/album/1ORFwaAJM7agyaN1ZLiUHs) | 2:45 |
+| 95 | [Frans Duits](https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Duits](https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh) | 2:52 |
 | 96 | [Jij Denkt Maar Dat Je Alles Mag Van Mij](https://open.spotify.com/track/1kETZmApc3IVzTLC4b886n) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Zo Ben Ik Mezelf](https://open.spotify.com/album/37M4B2oUYoh6Rnwf7MQe4q) | 3:39 |
 | 97 | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/track/5VlY1Th1IgoNCLutkFfUVu) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Zomer In M'n Bol \(feat\. André Hazes\)](https://open.spotify.com/album/6nULDYcDGqhpZ4P9vksgD5) | 2:32 |
 | 98 | [De Laatste](https://open.spotify.com/track/77rLRb9Ho6kb986TMX4Wz0) | [Ammar](https://open.spotify.com/artist/4EqldbhBZVOhfGdAFG0zRb), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [De Laatste](https://open.spotify.com/album/2dj7ASSn4PA5PG5JGYbeao) | 2:51 |
-| 99 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
-| 100 | [Amsterdam](https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz) | 2:52 |
+| 99 | [Amsterdam](https://open.spotify.com/track/0GRc10CjRqO0wtXUnxR1uY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Amsterdam](https://open.spotify.com/album/3TP2sh6pFJWU0NMDuLycUz) | 2:52 |
+| 100 | [Kleine Jongen](https://open.spotify.com/track/6vzj8d0yOzg3ELH2T4u0CC) | [Andre Hazes](https://open.spotify.com/artist/04MtOUkmIDC4LAxDDBjrOY) | [Kleine Jongen](https://open.spotify.com/album/0EsXBeEagSo9xrbKW17FBq) | 3:43 |
 
 Snapshot ID: `AAAAAPt8JM06rq5q2fTcK+WbOmssd1UF`

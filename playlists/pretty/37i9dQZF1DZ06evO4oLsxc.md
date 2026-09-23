@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 
 > This is Venna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,604 likes - 38 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602 likes - 38 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 14 | ['99](https://open.spotify.com/track/1qoTLjj6YU1WWDH82RoNb7) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 |
 | 15 | [My Way](https://open.spotify.com/track/4I8fZSVDGv3wzLafeYlncj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:33 |
 | 16 | [Perfect Divide](https://open.spotify.com/track/1MulJQklvwRh9Yp8Tfnsnv) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [HIZUKI // PERFECT DIVIDE](https://open.spotify.com/album/0BnsthsVZEANYerIJxfGnF) | 3:32 |
-| 17 | [Black Classical Music / Afro Cubanism \(feat\. Venna\) \- Live From Malibu](https://open.spotify.com/track/46YmGTsOcQRAjYr7waaAMs) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 6:45 |
+| 17 | [Avenue B](https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Avenue B](https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu) | 4:02 |
 | 18 | [Mount Shasta](https://open.spotify.com/track/705XFBTxmtDRjrC7jIOY3t) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Marco Bernardis](https://open.spotify.com/artist/2paaQ0WHxSynDwZkcBtdbv) | [EQUINOX](https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7) | 3:08 |
 | 19 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/0VELY6OksBpoDWTeYvENx0) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 3:45 |
-| 20 | [Avenue B](https://open.spotify.com/track/562pdTsqaP4glM3nAut3DA) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Avenue B](https://open.spotify.com/album/6GJdh5Yo1LRYAahkLavVWu) | 4:02 |
+| 20 | [Black Classical Music / Afro Cubanism \(feat\. Venna\) \- Live From Malibu](https://open.spotify.com/track/46YmGTsOcQRAjYr7waaAMs) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [The Yussef Dayes Experience \- Live From Malibu](https://open.spotify.com/album/5gohS1223mJrzBVQzakpjm) | 6:45 |
 | 21 | [U think Maybe? \(feat\. Liv.e and Venna\)](https://open.spotify.com/track/5NIcIBJp03ylKLAtJRTr6L) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Burning Desire](https://open.spotify.com/album/0oc3ietmTjMghpRPvszTw9) | 2:29 |
 | 22 | [Standard](https://open.spotify.com/track/6vidfcE63k1dl1YrQTQ4S5) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Knucks](https://open.spotify.com/artist/6W4vm8P3JFQboO4cvHeqaa) | [Standard](https://open.spotify.com/album/7aXmIOc3CuYe0AtqO3fjca) | 2:37 |
 | 23 | [Numero Uno](https://open.spotify.com/track/2DHESiSvHSadYkIvqFSqAK) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [MALIK](https://open.spotify.com/album/0X8L8zMHTYQr5wX9zeHPqf) | 4:12 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4oLsxc.md) - [plain]
 | 37 | [Uh Huh Okay \(Remix\)](https://open.spotify.com/track/5haqYf5lnZ8urUL7riUe2U) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [What's A Diamond To A Baby \- The Remixes Vol\. 1](https://open.spotify.com/album/6dP1NZlwdwdzrfnlkNlrTv) | 4:14 |
 | 38 | [Deeper One](https://open.spotify.com/track/3uNCnf0Ha0Cf6JNzs7W59j) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP) | [Lost, This Winter](https://open.spotify.com/album/79fVV5zDmHcJhOuuxdmAZ2) | 3:26 |
 
-Snapshot ID: `aq8iAAAAAAA09lbHlBEvuTTEfIKtCs6t`
+Snapshot ID: `arBzgAAAAABco1mTzC7JuhtUNvJr5q6h`

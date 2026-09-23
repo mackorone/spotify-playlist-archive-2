@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: Nemzzz",
+  "description": "\u6700\u524d\u7dda\u306e\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u30fb\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u30c8\u30e9\u30c3\u30af\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002Cover: AZ Chike",
   "name": "Frontline -\u30d2\u30c3\u30d7\u30db\u30c3\u30d7\u6700\u524d\u7dda-",
   "tracks": [
     {
@@ -1063,6 +1063,28 @@
     },
     {
       "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151072,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
+    },
+    {
+      "album": {
         "name": "A STAR IS BORN",
         "url": "https://open.spotify.com/album/4u2w8zSKSeCPnQvvYFkYxy"
       },
@@ -1860,7 +1882,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 194321,
       "name": "AND WON'T (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/1Q3if1XE53MW5Vr0FrzAkB"
@@ -3672,7 +3694,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 120333,
       "name": "Benz Truck Pt. 2",
       "url": "https://open.spotify.com/track/6WZsUXp0fCB4OLWRFxjbpc"
@@ -5590,7 +5612,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 185557,
       "name": "Bronx Zoo Freestyle",
       "url": "https://open.spotify.com/track/6c2Xpz4x32bmuDFYHPNkal"
@@ -5630,7 +5652,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 176294,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/0Sy9PzIKNGbnoY3WWPBZAR"
@@ -6340,7 +6362,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 183789,
       "name": "Can't Let My City Down",
       "url": "https://open.spotify.com/track/1QOhnR8Pt71nSXj9vuUuhX"
@@ -6574,7 +6596,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 177986,
       "name": "Champagne Room.",
       "url": "https://open.spotify.com/track/07xaMrtUNjRwSuAfxniZtk"
@@ -7726,7 +7748,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 174000,
       "name": "Czariana Grande",
       "url": "https://open.spotify.com/track/6O1ktnjyhyTelvublN5wHy"
@@ -9394,6 +9416,24 @@
       "duration_ms": 139805,
       "name": "Down South (feat. Key Glock)",
       "url": "https://open.spotify.com/track/70sjcC1GLyYfcHntiZ16cN"
+    },
+    {
+      "album": {
+        "name": "Downer's Inner Circle",
+        "url": "https://open.spotify.com/album/6fMH5CQmP7PSeNf3VhqmdT"
+      },
+      "artists": [
+        {
+          "name": "G PLANTS",
+          "url": "https://open.spotify.com/artist/4iCVfqA83pTcu5Dngc2v6u"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195418,
+      "name": "Downer's Inner Circle",
+      "url": "https://open.spotify.com/track/51P1fGLPAYCDiH21cGOn8a"
     },
     {
       "album": {
@@ -11066,7 +11106,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 117111,
       "name": "Fine (feat. Kyle Richh)",
       "url": "https://open.spotify.com/track/78tYvq3qUChpt8GSsd1AcU"
@@ -11088,7 +11128,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 165333,
       "name": "First Day Out (feat. Annalise Azadian)",
       "url": "https://open.spotify.com/track/6Cte3uoBjY88B1qjztBDkE"
@@ -12346,7 +12386,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 178285,
       "name": "Ghetto Love Story",
       "url": "https://open.spotify.com/track/6g8cuDwreIt5rLEBlkukQa"
@@ -14814,7 +14854,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 191786,
       "name": "Hostage (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
@@ -14832,7 +14872,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 173114,
       "name": "HOT AS A BIC",
       "url": "https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR"
@@ -15064,7 +15104,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 178888,
       "name": "HUH ALRIGHT (feat. SOB X RBE & 1 Umbrella)",
       "url": "https://open.spotify.com/track/1Wq1g1du9cYC8wnrRFaQRu"
@@ -15100,7 +15140,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 139008,
       "name": "Hustle",
       "url": "https://open.spotify.com/track/6nNFD1a4VgwwYVg87jUj4Z"
@@ -15538,7 +15578,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 183070,
       "name": "I See Why",
       "url": "https://open.spotify.com/track/3lsOd2UXiKRZalwRVqvQsD"
@@ -15938,7 +15978,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 252857,
       "name": "IDFWY",
       "url": "https://open.spotify.com/track/34sFh8ZCEnNQI1N5F7LTgz"
@@ -16316,6 +16356,32 @@
       "duration_ms": 65306,
       "name": "Init Gyal",
       "url": "https://open.spotify.com/track/6yLmNmpHe70nvqEFvKj0my"
+    },
+    {
+      "album": {
+        "name": "Innocent Smile (feat. Suggs & Chase & Status)",
+        "url": "https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Suggs",
+          "url": "https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Innocent Smile (feat. Suggs & Chase & Status)",
+      "url": "https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f"
     },
     {
       "album": {
@@ -18864,7 +18930,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 159230,
       "name": "Link",
       "url": "https://open.spotify.com/track/6cTRRyMEZtsQS3kmpOSo6Y"
@@ -18981,6 +19047,28 @@
     },
     {
       "album": {
+        "name": "LITE (feat. Belly Gang Kushington)",
+        "url": "https://open.spotify.com/album/2R1Ux79J3M5N1T8QnPTdf7"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "LITE (feat. Belly Gang Kushington)",
+      "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
+    },
+    {
+      "album": {
         "name": "Atavista",
         "url": "https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ"
       },
@@ -19036,7 +19124,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 123533,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3x9NMi02uf1xxmczl0Grxx"
@@ -19058,7 +19146,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 148547,
       "name": "Living Large",
       "url": "https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ"
@@ -20146,7 +20234,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 197260,
       "name": "MANE",
       "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
@@ -21966,7 +22054,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 150588,
       "name": "my b!tch",
       "url": "https://open.spotify.com/track/5wcZJjjSsM8ypq6hRJdR8T"
@@ -22521,6 +22609,24 @@
     },
     {
       "album": {
+        "name": "No Rest for The Wicked",
+        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143450,
+      "name": "Negative",
+      "url": "https://open.spotify.com/track/0RDb7mW6zljLNIzWwPbso9"
+    },
+    {
+      "album": {
         "name": "No Turning Back",
         "url": "https://open.spotify.com/album/6oIBwTH7nRFbIOtbewYEAO"
       },
@@ -22532,7 +22638,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 120951,
       "name": "Never Gon Home",
       "url": "https://open.spotify.com/track/0VW0nsfl9lyVVjB7HuUUON"
@@ -23751,6 +23857,28 @@
     },
     {
       "album": {
+        "name": "Nothing Into Something",
+        "url": "https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141885,
+      "name": "Nothing Into Something",
+      "url": "https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2"
+    },
+    {
+      "album": {
         "name": "Nothing Left",
         "url": "https://open.spotify.com/album/7am0PWVZFgGbcSXKNjFoo1"
       },
@@ -24054,7 +24182,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 173728,
       "name": "Oh U Nasty (feat. Lola Brooke)",
       "url": "https://open.spotify.com/track/6Ooy9C7mGDTof2CvRaQoB7"
@@ -25036,7 +25164,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 207082,
       "name": "Overthink (feat. Elmiene)",
       "url": "https://open.spotify.com/track/1MOz16OdpnPYn9gneKxAio"
@@ -26644,7 +26772,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 167026,
       "name": "promise",
       "url": "https://open.spotify.com/track/3M1QxosuSy3XPJkoeogqlf"
@@ -27639,6 +27767,28 @@
     },
     {
       "album": {
+        "name": "RHYNO (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "RHYNO (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+    },
+    {
+      "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
@@ -28360,6 +28510,28 @@
       "duration_ms": 173502,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/3sZQ8L4aptFDJXBqdVdvO8"
+    },
+    {
+      "album": {
+        "name": "runnin shot",
+        "url": "https://open.spotify.com/album/6OAvicagPNLfTBPqSjZzn5"
+      },
+      "artists": [
+        {
+          "name": "KID FRESINO",
+          "url": "https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP"
+        },
+        {
+          "name": "Tiji Jojo",
+          "url": "https://open.spotify.com/artist/2ZEOC8FatCSFTFVtt1laOt"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131221,
+      "name": "runnin shot",
+      "url": "https://open.spotify.com/track/5sJpsP5BinmREjRJutxOw5"
     },
     {
       "album": {
@@ -29896,7 +30068,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 192859,
       "name": "Sick Ass Foo's (feat. Lil Mr. E & Toxica)",
       "url": "https://open.spotify.com/track/0lVjeH6Cd4urllQcIsb3nm"
@@ -30796,6 +30968,24 @@
       "duration_ms": 230199,
       "name": "Somebody Save Me",
       "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"
+    },
+    {
+      "album": {
+        "name": "Something I Need",
+        "url": "https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145754,
+      "name": "Something I Need",
+      "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
     },
     {
       "album": {
@@ -32766,7 +32956,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 166079,
       "name": "THE GAME",
       "url": "https://open.spotify.com/track/30AMdF7Xdrz5Z3YmYJBFoQ"
@@ -33346,7 +33536,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 159999,
       "name": "Thick One (with Skilla Baby & Kash Doll) - Remix",
       "url": "https://open.spotify.com/track/5KBmIlmWz3qU5JnICetxcq"
@@ -35668,7 +35858,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 164285,
       "name": "Warning",
       "url": "https://open.spotify.com/track/4eyvzZduurX5bl3fwdEBSf"
@@ -35756,7 +35946,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 176344,
       "name": "WASSUP (feat. NORIKIYO)",
       "url": "https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx"
@@ -35782,6 +35972,28 @@
       "duration_ms": 122482,
       "name": "Wasteman Interlude",
       "url": "https://open.spotify.com/track/1mD3wegXs8WOILKND7t6zs"
+    },
+    {
+      "album": {
+        "name": "WATCH ME",
+        "url": "https://open.spotify.com/album/1YeKHWyzrHaJsFTB7XeT6C"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189629,
+      "name": "WATCH ME feat. BIA",
+      "url": "https://open.spotify.com/track/1QHY1PGo17jVdmVchaYlmZ"
     },
     {
       "album": {
@@ -37726,7 +37938,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 231901,
       "name": "YOU CAN ALWAYS COME BACK HOME",
       "url": "https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj"
@@ -38090,7 +38302,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 157757,
       "name": "\u30bb\u30f3\u30b9 - feat. Siero",
       "url": "https://open.spotify.com/track/7ClJtd1bQghOIeErB6ZDhd"

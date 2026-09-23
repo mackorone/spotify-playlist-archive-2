@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 
 > This is Amber Mark\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,692 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,694 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 22 | [ooo](https://open.spotify.com/track/3oZai2D2PYlXgUTNurlCmU) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Pretty Idea](https://open.spotify.com/album/5OKVgysqIZvSUMVdEmilCu) | 2:58 |
 | 23 | [Won't Cry](https://open.spotify.com/track/6pgHkxKQh1LnW9wdTQCQDx) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:40 |
 | 24 | [Worth It](https://open.spotify.com/track/7AQRpyFBYQqtWfkmlqkw4l) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 4:18 |
-| 25 | [Way Back](https://open.spotify.com/track/15ahKSfjvqH5hfsnjyoASJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:28 |
-| 26 | [Like A Hunger](https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA) | [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Like A Hunger](https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3) | 4:32 |
+| 25 | [Like A Hunger](https://open.spotify.com/track/7lgZSvDebog8YgblEudPYA) | [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Like A Hunger](https://open.spotify.com/album/7wWi3qsBhpW0HWrUgOSzz3) | 4:32 |
+| 26 | [Way Back](https://open.spotify.com/track/15ahKSfjvqH5hfsnjyoASJ) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:28 |
 | 27 | [Stop Calling Me](https://open.spotify.com/track/6SXLH5379TcMvuWp1RVsnt) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 2:31 |
 | 28 | [Love Is Stronger Than Pride](https://open.spotify.com/track/12S0avZgcxEa4lJXC37tzX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Conexão \- EP](https://open.spotify.com/album/7ETN1PBhrsMl5U96fCCCvn) | 3:52 |
 | 29 | [Put You On](https://open.spotify.com/track/59nJ265OcQ7Rrms09xk8LO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Put You On](https://open.spotify.com/album/7xfpXfwN3bC3OgtU8dR2Xm) | 3:44 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 35 | [City Starlight](https://open.spotify.com/track/6MgnX2FYtJCP61pjl8tj0D) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Loosies](https://open.spotify.com/album/2ZsluZwg4FuBeVsQxJgj9f) | 3:31 |
 | 36 | [Monsoon](https://open.spotify.com/track/04G8U1rkNbiiLNsWo2doW2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Mia Mark](https://open.spotify.com/artist/6p0LCYIWaoyyUGdwra3DF1) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 4:37 |
 | 37 | [JUMP \(feat\. Steve Vai & Travis Barker\) \- Coca\-Cola Anthem for the FIFA World Cup 26™](https://open.spotify.com/track/3rw7X1utxqRRCig2Bxua7K) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [JUMP \(feat\. Steve Vai & Travis Barker\) \[Coca\-Cola Anthem for the FIFA World Cup 26™\]](https://open.spotify.com/album/3y7padDq5LgNJrzo9cYXrx) | 3:28 |
-| 38 | [Thong Song](https://open.spotify.com/track/52dyJ3VDZFuvTKH95UGwa2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Thong Song](https://open.spotify.com/album/4CrHIfVovsebAWVsrLEtIt) | 3:31 |
-| 39 | [Lovely Day](https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Lovely Day](https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy) | 3:00 |
+| 38 | [Lovely Day](https://open.spotify.com/track/4kx8ErC9E73WvzjZYBXjiO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Lovely Day](https://open.spotify.com/album/4OI5GHBHHCUHYiKDntOiAy) | 3:00 |
+| 39 | [Thong Song](https://open.spotify.com/track/52dyJ3VDZFuvTKH95UGwa2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Thong Song](https://open.spotify.com/album/4CrHIfVovsebAWVsrLEtIt) | 3:31 |
 | 40 | [No Bus](https://open.spotify.com/track/0a8iHqEqV1FAcRGyDTKFym) | [lophiile](https://open.spotify.com/artist/5g5eVr2vAQnd12Q1XCJD7R), [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [No Bus](https://open.spotify.com/album/0tBwgaezW7QUFPSlobYAqi) | 3:04 |
 | 41 | [Can You Hear Me?](https://open.spotify.com/track/7EylApIgCvOGodzaRV35Hy) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:49 |
 | 42 | [Just Friends \(feat\. Amber Mark\)](https://open.spotify.com/track/73agc0UL322jZnJncsqNM0) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Head Over Heels](https://open.spotify.com/album/5P95ihuNOcJWjpepHBNjtB) | 3:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0d4YcX.md) - [plain]
 | 49 | [Regret](https://open.spotify.com/track/4wQp3kcxjM778uwcymCXK4) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [3:33am](https://open.spotify.com/album/0Yo1LADdOR5RZtkilf891i) | 3:23 |
 | 50 | [Heatwave](https://open.spotify.com/track/5DQ45iTgC4PgcaYt89gg6y) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heatwave](https://open.spotify.com/album/4g9FEP9LOTOblQ8ni00ymY) | 4:29 |
 
-Snapshot ID: `aq8iAAAAAABn+aJJUF1/mIXqo3ws1mo9`
+Snapshot ID: `arBzgAAAAAAVhPKIbRRReLQpLAuMW445`

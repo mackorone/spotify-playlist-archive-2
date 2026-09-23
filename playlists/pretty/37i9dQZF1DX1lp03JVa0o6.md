@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,213 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,186 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 43 | [Now That I'm Falling](https://open.spotify.com/track/6jXKPAGT30YT1E4ovVdHOH) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [LIVE FAST](https://open.spotify.com/album/35J4iFfqzJ8qOqMj2bGllH) | 4:00 |
 | 44 | [For The Girls](https://open.spotify.com/track/2FcpOyFM5JRkKW7Y5xB3vX) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [For The Girls](https://open.spotify.com/album/52KpLYqodi1WCoHL4Cljdq) | 2:30 |
 | 45 | [Control Me](https://open.spotify.com/track/0adMO7pIBsUeOSx2SJEbwq) | [Open Till L8](https://open.spotify.com/artist/6niasBrBbbzrUe7iWT6swJ) | [Heaven In The Dark](https://open.spotify.com/album/0py0wdchSkP1cArZUdyCOb) | 3:16 |
-| 46 | [Oracle](https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Oracle](https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D) | 3:37 |
+| 46 | [Oracle \(feat\. Jem Cooke\)](https://open.spotify.com/track/7eJTwJk7LUWlojnOGebl7U) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Oracle \(feat\. Jem Cooke\)](https://open.spotify.com/album/3nv9EFzVzjQToty0Nq6I9D) | 3:37 |
 | 47 | [U KNOW](https://open.spotify.com/track/2zD75uKSkgolgsBO2psrXE) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [U KNOW](https://open.spotify.com/album/2Vmyoa5jGWkEifaI3zsKOB) | 3:42 |
 | 48 | [Beautiful Noise In My Head](https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Beautiful Noise In My Head](https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N) | 3:31 |
 | 49 | [Pull Up \- feat\. Pino D’Angiò & Scrufizzer](https://open.spotify.com/track/6XTQZwVaLM1hu2kvEPeRnZ) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Pull Up \(feat\. Pino D’Angiò & Scrufizzer\)](https://open.spotify.com/album/1yVo8JFEoUIsOvzNlM5iUB) | 2:55 |

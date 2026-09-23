@@ -4,24 +4,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,962 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,976 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [5\-10\-15 Hours](https://open.spotify.com/track/0w20j6tOA22U8Q8brOysGK) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 3:15 |
 | 2 | [Shake, Rattle and Roll](https://open.spotify.com/track/7aLoa1F3EoM8AeC6Ao1RKz) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Shake Rattle & Rock](https://open.spotify.com/album/3srwW4zf3HJcOItxUokJgI) | 2:59 |
-| 3 | [Grandma Plays The Numbers](https://open.spotify.com/track/5eVbYxvz9Ed9Y9KEjfA64y) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [28 Big Ones](https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT) | 2:35 |
-| 4 | [Love Me Right](https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Blues Ballads](https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi) | 1:54 |
+| 3 | [Love Me Right](https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC) | [LaVern Baker](https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw) | [Blues Ballads](https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi) | 1:54 |
+| 4 | [Grandma Plays The Numbers](https://open.spotify.com/track/5eVbYxvz9Ed9Y9KEjfA64y) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [28 Big Ones](https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT) | 2:35 |
 | 5 | [It Ain't The Meat, It's The Motion](https://open.spotify.com/track/5DowgjLju7riW4EXaZfdTZ) | [The Swallows](https://open.spotify.com/artist/2KL7KDeEPo4rOiM94NaWrq) | [Dearest](https://open.spotify.com/album/4AmBFaXqeJYiS3bMKbVnRX) | 2:36 |
 | 6 | [Mighty Mighty Man](https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Boogie At Midnight](https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC) | 2:23 |
 | 7 | [Wild Wild Young Men](https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:33 |
-| 8 | [Lovin' Machine](https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:25 |
-| 9 | [Big Fat Mama](https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Roy Milton And His Solid Senders](https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO) | 2:43 |
+| 8 | [Big Fat Mama](https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Roy Milton And His Solid Senders](https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO) | 2:43 |
+| 9 | [Lovin' Machine](https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:25 |
 | 10 | [Going Back To New Orleans](https://open.spotify.com/track/15UtASGoJcuIZlLRTUGYVZ) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 2:50 |
 | 11 | [Butcher Pete \(Part 1\)](https://open.spotify.com/track/03NnB5RrAVwOKZCalWNpUu) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Risque Blues \- My Ding\-A\-Ling](https://open.spotify.com/album/4u2xelGNMSwwqPYodFTb1d) | 2:28 |
 | 12 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 |
-| 13 | [Keep On Churnin' \(Till The Butter Come\)](https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:53 |
-| 14 | [The Flirt](https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Aladdin '52\-'59:Let The Good Times Roll](https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP) | 1:59 |
+| 13 | [The Flirt](https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Aladdin '52\-'59:Let The Good Times Roll](https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP) | 1:59 |
+| 14 | [Keep On Churnin' \(Till The Butter Come\)](https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:53 |
 | 15 | [Hello Little Boy](https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:36 |
 | 16 | [Bradshaw Boogie](https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 1:54 |
 | 17 | [Good Golly](https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK) | [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [The Capitol Years](https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV) | 1:52 |

@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2019. Cover: James Blake",
-  "num_followers": 51883,
+  "num_followers": 51891,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Social Cues",
-        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
+        "name": "The Balance",
+        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Catfish and the Bottlemen",
+          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
         }
       ],
-      "duration_ms": 226533,
-      "name": "Black Madonna",
-      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
+      "duration_ms": 232960,
+      "name": "Longshot",
+      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "The Balance",
-        "url": "https://open.spotify.com/album/0eELSmJrZpzOKfdO80nJ9r"
+        "name": "Social Cues",
+        "url": "https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G"
       },
       "artists": [
         {
-          "name": "Catfish and the Bottlemen",
-          "url": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 232960,
-      "name": "Longshot",
-      "url": "https://open.spotify.com/track/2VcS3oKcOPkubN9LVzZ96l"
+      "duration_ms": 226533,
+      "name": "Black Madonna",
+      "url": "https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "All Mirrors",
         "url": "https://open.spotify.com/album/0RedX0LZkGUFoRwFntAaI0"
       },
@@ -1455,22 +1471,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Song 32",
-        "url": "https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 162496,
-      "name": "Song 32",
-      "url": "https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "i,i",
         "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Song 32",
+        "url": "https://open.spotify.com/album/7eVx4XXwY3KrIPGRrW66UI"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 162496,
+      "name": "Song 32",
+      "url": "https://open.spotify.com/track/7GWAIzOmt5iznpu8RbSiSI"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "This Is How You Smile",
         "url": "https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 264525,
       "name": "Running",
       "url": "https://open.spotify.com/track/090a3fK6DnEKCECdfctvYy"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH"
     },
     {
       "added_at": "2022-09-16 04:53:36",

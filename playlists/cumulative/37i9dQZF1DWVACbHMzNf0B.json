@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 163096,
       "name": "Ahorita Es Cuando",
       "url": "https://open.spotify.com/track/5Y9Bm6DCtIsJh7tfoqPxg4"
@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 168890,
       "name": "AMIGOS CON DERECHOS",
       "url": "https://open.spotify.com/track/504nbJ2Wj4eLJiN6r0kvC9"
@@ -2904,7 +2904,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 155454,
       "name": "Bingo",
       "url": "https://open.spotify.com/track/3W9cyjAeiXQP2cHsmAtImn"
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 176810,
       "name": "Bolsita Cara",
       "url": "https://open.spotify.com/track/63RoO5slbFtgk6lPGZkgbC"
@@ -3466,10 +3466,32 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 148081,
       "name": "CAPRICHOSA",
       "url": "https://open.spotify.com/track/5dplJph956WhFPURyKtIn5"
+    },
+    {
+      "album": {
+        "name": "Carnaval",
+        "url": "https://open.spotify.com/album/6ILb4pgAx4frKyP6FUj18S"
+      },
+      "artists": [
+        {
+          "name": "Rello",
+          "url": "https://open.spotify.com/artist/23v0zhecqk3FLUfvMrWy48"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/4K7aJc4N6Ju2YE21e2YX5e"
     },
     {
       "album": {
@@ -3896,7 +3918,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 150528,
       "name": "Chico Fino",
       "url": "https://open.spotify.com/track/5Yix5h0KxzfzSUWHgJfo8A"
@@ -4546,6 +4568,28 @@
       "duration_ms": 226821,
       "name": "Con Tus Besos",
       "url": "https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT"
+    },
+    {
+      "album": {
+        "name": "Con Una, Dos o Tres",
+        "url": "https://open.spotify.com/album/4PNeDZTeOOAkWziN5hxHU9"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179917,
+      "name": "Con Una, Dos o Tres",
+      "url": "https://open.spotify.com/track/59VMTSGfODLpmLRjBZrXLi"
     },
     {
       "album": {
@@ -5230,7 +5274,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 456666,
       "name": "Cypher Acordeo\u00f1eros",
       "url": "https://open.spotify.com/track/7oCuZVz4TQxtl2qHuPhuK0"
@@ -7171,6 +7215,28 @@
     },
     {
       "album": {
+        "name": "El Tribal de los Helados",
+        "url": "https://open.spotify.com/album/3PB22zVWAZhpiCeX0v63Dj"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        },
+        {
+          "name": "Sakura Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/58DGTgPL0gv8LIONvOPxaW"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153884,
+      "name": "El Tribal de los Helados",
+      "url": "https://open.spotify.com/track/1BVInYfyyGo5ujPOl0z8UH"
+    },
+    {
+      "album": {
         "name": "El T\u00f3xico",
         "url": "https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s"
       },
@@ -8733,6 +8799,44 @@
     },
     {
       "album": {
+        "name": "Gente de Rancho",
+        "url": "https://open.spotify.com/album/6O6f5rlYHcfueiILwsfBVB"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        },
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        },
+        {
+          "name": "Banda los Coste\u00f1os",
+          "url": "https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ"
+        },
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        },
+        {
+          "name": "La Dinast\u00eda de Tuzantla Michoac\u00e1n",
+          "url": "https://open.spotify.com/artist/2u7j1pjcNuLlfgiNrByi0R"
+        },
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160128,
+      "name": "Gente de Rancho",
+      "url": "https://open.spotify.com/track/275hTOOo0FTvaxNcaJ1ooj"
+    },
+    {
+      "album": {
         "name": "gervonta",
         "url": "https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS"
       },
@@ -8946,7 +9050,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 95398,
       "name": "Gui\u00f1o Gui\u00f1o",
       "url": "https://open.spotify.com/track/0vSnh9kyamcH5fOXIA4gTz"
@@ -9408,7 +9512,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 153842,
       "name": "INTOCABLE",
       "url": "https://open.spotify.com/track/54brOymWBGRCDOWhBWzA5m"
@@ -14120,7 +14224,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 218076,
       "name": "MOLLY GIRL (feat. GREG Qx)",
       "url": "https://open.spotify.com/track/3vCroa6GZAkHTBjkwD5rMq"
@@ -14570,7 +14674,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 183516,
       "name": "Naturalita",
       "url": "https://open.spotify.com/track/6uVXyLrhgveo67VbraCd9T"
@@ -16772,7 +16876,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 181253,
       "name": "Por Ella",
       "url": "https://open.spotify.com/track/5FO4y1DEB6Bjs0YmNx7MFu"
@@ -19389,6 +19493,24 @@
     },
     {
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/44u0YqrJSVXucB6qs5hdkP"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117136,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/4LPNlYouyfk0R2kvIiVWgB"
+    },
+    {
+      "album": {
         "name": "Visitando A La Preciosa (En Vivo)",
         "url": "https://open.spotify.com/album/0GAqTRsLr9as36qMhb3Wm4"
       },
@@ -19868,7 +19990,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 140350,
       "name": "Tal Para Cual",
       "url": "https://open.spotify.com/track/6vzO45BaguSkE54qOo3F1d"
@@ -20272,7 +20394,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 204018,
       "name": "Te Perdono",
       "url": "https://open.spotify.com/track/5owyf4g7VD0Alw5OOPJUKA"
@@ -20488,6 +20610,24 @@
       "duration_ms": 213667,
       "name": "TENGO MI VICIO",
       "url": "https://open.spotify.com/track/2w7icrqLX1OhriYtS7n9Q1"
+    },
+    {
+      "album": {
+        "name": "Tengo Tanto Que Contarte",
+        "url": "https://open.spotify.com/album/3CjTpwASXWWR6fXClifnfJ"
+      },
+      "artists": [
+        {
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Tengo Tanto Que Contarte",
+      "url": "https://open.spotify.com/track/0s3o3YfC6noO44kDcIY6qq"
     },
     {
       "album": {
@@ -21946,7 +22086,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 133746,
       "name": "VELOCIDADE",
       "url": "https://open.spotify.com/track/3J8uUvHttFs8zlYxoiPVe3"
@@ -22140,7 +22280,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 227413,
       "name": "Volver a Ti",
       "url": "https://open.spotify.com/track/5m3zoNUv4WO35cfzjbLGK9"

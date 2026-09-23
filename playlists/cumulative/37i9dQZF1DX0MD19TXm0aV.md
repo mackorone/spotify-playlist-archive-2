@@ -2,9 +2,9 @@
 
 ### [Hot Hits Switzerland](https://open.spotify.com/playlist/37i9dQZF1DX0MD19TXm0aV)
 
-> Switzerland's biggest hits right now\. Cover: Tame Impala
+> Switzerland's biggest hits right now\. Cover: Karol G, Judeline, rusowsky
 
-421 songs - 20 hr 53 min
+423 songs - 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Heart of Gold](https://open.spotify.com/track/39AfsBXaRa8JZhl46bKGGN) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Heart of Gold](https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS) | 2:51 | 2024-11-08 | 2024-11-28 |
 | [Heat](https://open.spotify.com/track/0R7Q7wmgqioO8z7Bf5KnAU) | [Anna Rossinelli](https://open.spotify.com/artist/6sRFCFH0UWtnfvKtzZk42X) | [Heat](https://open.spotify.com/album/2KQYDXvp5OYQLJxjzmRTmu) | 2:43 | 2025-07-16 | 2026-01-22 |
 | [Hit the Wall](https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Hit the Wall](https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ) | 3:14 | 2026-05-19 | 2026-08-26 |
-| [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-17 |  |
+| [Homewrecker](https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [Homewrecker](https://open.spotify.com/album/5KzDGTJ3sGlfuwSryRB4p4) | 3:29 | 2026-02-17 | 2026-09-23 |
 | [Houdini](https://open.spotify.com/track/2HYFX63wP3otVIvopRS99Z) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Houdini](https://open.spotify.com/album/6Xuu2z00jxRPZei4IJ9neK) | 3:47 | 2024-07-02 | 2024-11-28 |
 | [House On Fire](https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [House On Fire](https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O) | 2:59 | 2024-07-02 | 2024-12-31 |
 | [How Much Can a Heart Break](https://open.spotify.com/track/30kqgHsbGO91011vTLjrDJ) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [Twisted Hearts Club](https://open.spotify.com/album/0N8Ba3TcWcnEokuKG8GTmg) | 3:15 | 2025-03-18 | 2025-10-16 |
@@ -238,6 +238,7 @@
 | [melodrama](https://open.spotify.com/track/5Y8C6KjzBRKvcT3Aln1Bc4) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [melodrama](https://open.spotify.com/album/5wFsZ4iXAggxIVNZRJogvr) | 2:56 | 2025-10-15 | 2026-04-15 |
 | [Menina de Vermelho](https://open.spotify.com/track/7p9nV83OAXMpeAXx9SXW5i) | [MC Menor JP](https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU), [RAMONMIX](https://open.spotify.com/artist/0VG8uPYk0ymnDxundrTGZK), [The Ironix](https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm) | [Menina de Vermelho](https://open.spotify.com/album/4dOvlxExeQz4VBJEMNvI5s) | 2:31 | 2024-11-12 | 2025-04-17 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2024-12-11 | 2025-09-04 |
+| [Mi Chico \- Official \- Jason Derulo x Melody](https://open.spotify.com/track/6c2ZcdXHkEFdsNArdJXrHX) | [DJ Goja](https://open.spotify.com/artist/2bHWbDN72wdIF0Y48669zg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI) | [Mi Chico \(Official \- Jason Derulo x Melody\)](https://open.spotify.com/album/0qnrE0wjP5harsRFXgoBo3) | 2:05 | 2026-09-22 |  |
 | [Miami](https://open.spotify.com/track/0Ohuw01rSI3aVbxh2agxwh) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q) | [Miami](https://open.spotify.com/album/0yMtB5zHyQIllZAOBphgdE) | 2:19 | 2026-01-21 | 2026-02-18 |
 | [Midnight Sun](https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16) | 3:09 | 2026-05-12 |  |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-07-02 | 2024-07-27 |
@@ -257,6 +258,7 @@
 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 | 2024-10-16 | 2025-01-22 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-20 | 2024-09-14 |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-19 | 2025-06-14 |
+| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-09-22 |  |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-07-02 | 2024-10-23 |
 | [NINAO](https://open.spotify.com/track/5lXLzaZoj4j4hfCYO687bN) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [NINAO](https://open.spotify.com/album/7mcrW5GLhiY9RbNJzAIzRk) | 2:47 | 2025-03-12 | 2025-09-04 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-07-23 | 2026-08-19 |
@@ -389,7 +391,7 @@
 | [Unsicher](https://open.spotify.com/track/2GN2pbQi4Yz7Qp99Wbp2vZ) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Unsicher](https://open.spotify.com/album/4YRMSEy1QmyGeUUxiZyk8S) | 2:18 | 2025-04-08 | 2025-06-04 |
 | [Up From the Bottom](https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Up From the Bottom](https://open.spotify.com/album/0TwcWJHhsyi9J9va7VCmwm) | 3:03 | 2025-04-02 | 2025-05-16 |
 | [Vaitimbora](https://open.spotify.com/track/0QAUgW2vTmlUWhbiNeSkWm) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan) | [Vaitimbora](https://open.spotify.com/album/0cIKxynxh628Q7qOyamXLe) | 2:15 | 2025-05-07 |  |
-| [VASHA](https://open.spotify.com/track/2lnSDftBnfiPRmnEjmVumR) | [Enca](https://open.spotify.com/artist/6wBMW3WjTK0tQETJviyov9) | [VASHA](https://open.spotify.com/album/3ey3m8Nh0etir8m6h1l6Qr) | 2:39 | 2026-08-18 |  |
+| [VASHA](https://open.spotify.com/track/2lnSDftBnfiPRmnEjmVumR) | [Enca](https://open.spotify.com/artist/6wBMW3WjTK0tQETJviyov9) | [VASHA](https://open.spotify.com/album/3ey3m8Nh0etir8m6h1l6Qr) | 2:39 | 2026-08-18 | 2026-09-23 |
 | [Vena](https://open.spotify.com/track/1hjGwIvVukrKnemLj6vZ1G) | [Tayna](https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ) | [Vena](https://open.spotify.com/album/3X1juRzkXGGhy38zBZFtJ7) | 2:47 | 2026-04-28 | 2026-06-03 |
 | [Verdien's Dir](https://open.spotify.com/track/6OhaOqmyvCMeWoav3gzPQu) | [Sara Dastjani](https://open.spotify.com/artist/5Usfg2FMXMcO710BoJ1fBz) | [Verdien's dir](https://open.spotify.com/album/02hITdbOC5H4dZ3HOORxgN) | 2:04 | 2024-08-02 | 2024-08-14 |
 | [Vermisse](https://open.spotify.com/track/0DAe8XAFqCfdL2F649pgN0) | [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp), [Azet](https://open.spotify.com/artist/39KEQQAG9JhIt71g9NEVhh) | [Vermisse](https://open.spotify.com/album/0MyJNG4dGUzXMOKRHQ20OB) | 2:34 | 2026-05-05 | 2026-06-24 |

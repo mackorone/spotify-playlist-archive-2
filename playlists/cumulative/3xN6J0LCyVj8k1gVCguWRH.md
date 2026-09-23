@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,563 songs - 15 day 7 hr 19 min
+6,566 songs - 15 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [about a bee](https://open.spotify.com/track/1YPpuDqn6seux3PDCc6q6F) | [Axel Leather Jacket](https://open.spotify.com/artist/5xEGxb8BJXoxqjMmtCWfkI) | [about a bee](https://open.spotify.com/album/7x2RacjyXkbYQcPfZnXjAm) | 2:04 | 2023-06-26 | 2023-07-15 |
 | [About A Girl](https://open.spotify.com/track/7sVu9MMI9WgCc3qyK9hPAv) | [Arianna Tsar](https://open.spotify.com/artist/5kui2MaTfVCYOyaLdE0iFV) | [About A Girl](https://open.spotify.com/album/6yrioqdKy25G548lhWdIXb) | 2:54 | 2026-06-06 | 2026-06-18 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-07-06 | 2022-07-27 |
+| [About Time](https://open.spotify.com/track/0jDEO49itjO491BJRQyplY) | [Osamu Fukuzawa](https://open.spotify.com/artist/7FumP227z8vPxFVjYWe80F), [INDIA BLUE](https://open.spotify.com/artist/5M91kIFBO3vwGoHceiMugI), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO) | [About Time](https://open.spotify.com/album/0cUpF4YjIwDuG21I80E0UX) | 3:21 | 2026-09-22 |  |
 | [About U](https://open.spotify.com/track/4vriDERvHPkOcvPeqJJAEH) | [Sasha Lopez](https://open.spotify.com/artist/3ZASW3RrHBbSRkNLjOrAFF), [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [About U](https://open.spotify.com/album/0tf6O98muJfG4cUlayzAvq) | 2:44 | 2024-09-28 | 2024-10-10 |
 | [About Us](https://open.spotify.com/track/3FwQnUHKPfLq1OE3dUluRq) | [Wayne Unchained](https://open.spotify.com/artist/0uPQc16ptqh4CXfmXw6wsy) | [About Us](https://open.spotify.com/album/0Pfrgf3LIzXkkS12MSSiMT) | 3:50 | 2026-01-12 | 2026-09-11 |
 | [Abracadabra](https://open.spotify.com/track/2LHNTC9QZxsL3nWpt8iaSR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [MAYHEM](https://open.spotify.com/album/2MHUaRi9OCyTN02SoyRRBJ) | 3:43 | 2025-12-18 | 2026-04-15 |
@@ -2787,6 +2788,7 @@
 | [if i call](https://open.spotify.com/track/4gCwv7vX8hauieznKooNfl) | [Ry August](https://open.spotify.com/artist/2fHjBnaMn8d67tfMZSGIpC) | [if i call](https://open.spotify.com/album/25Db84D2CFggsagc8TPIuY) | 2:25 | 2020-11-13 | 2021-01-23 |
 | [If I Ever](https://open.spotify.com/track/4KCyhL2UbGFrL0rgKbbFYI) | [VDO](https://open.spotify.com/artist/6hypoWswEp1IwqNUdergI0) | [Right There and Then](https://open.spotify.com/album/1mctQHy6cgPoz1JPw89EVI) | 2:43 | 2023-07-27 | 2023-08-06 |
 | [If It Wasn't For You...](https://open.spotify.com/track/7jeoLM4HHzTivLzsbD7D3F) | [MÃI XƯỚNG](https://open.spotify.com/artist/1JdIAuQ0bBqdMiRHHQExqG) | [If It Wasn't For You...](https://open.spotify.com/album/3W9RtDWcVF0iTrx0aCA7KZ) | 5:24 | 2024-12-27 | 2025-01-08 |
+| [If It Wasn´t Me](https://open.spotify.com/track/50j3wb6y1zn937ft44dbcv) | [IurisEkero](https://open.spotify.com/artist/4yh3pmJ514U9AfOrcPZyID) | [If It Wasn´t Me](https://open.spotify.com/album/2kpvXcQVNvSTIltr1mHAxn) | 4:10 | 2026-09-22 |  |
 | [If Love Is A Feeling](https://open.spotify.com/track/47e2Qns1ODgJ78uuu3IwOL) | [Yasmine Ross](https://open.spotify.com/artist/2alXtssNaLUnqz9n2hvevJ) | [If Love Is A Feeling](https://open.spotify.com/album/3Ul8EtgKDbdvxvLMsfL4Lo) | 3:10 | 2024-09-21 | 2024-10-04 |
 | [If Love Is All It Takes](https://open.spotify.com/track/3H3202b1U6XlSwcIckkwlb) | [Glassio](https://open.spotify.com/artist/6FK9mlh2JAB7kSBYS2CYHN) | [If Love Is All It Takes](https://open.spotify.com/album/6f9nk5tlaPr35sijIeelOs) | 4:08 | 2021-11-11 | 2021-12-05 |
 | [If Pretty Was A Contest](https://open.spotify.com/track/2EG7MWiRGL3zLjV7Axg9vM) | [Ainjo](https://open.spotify.com/artist/2qv1mRVZMyj1EJJdJmrZ7s) | [If Pretty Was a Contest](https://open.spotify.com/album/1OQAw03cSeluJfQGSMpla4) | 2:30 | 2024-05-31 | 2024-06-14 |
@@ -5906,6 +5908,7 @@
 | [Trust Me](https://open.spotify.com/track/5enTVJuBFEQ6LZ5eZp0Px0) | [Platnume](https://open.spotify.com/artist/7bXPjw3IqZ7AU4S4zCmxqT), [Mike Classic](https://open.spotify.com/artist/4I8nWa5GMqCw0yCOpTUYU4) | [Trust Me](https://open.spotify.com/album/161vvfZCXwNaJwyep4eyK3) | 2:55 | 2023-01-27 | 2023-02-18 |
 | [Trust Myself](https://open.spotify.com/track/312DVaGlItK6lrJpNTnPSw) | [Clarissa Diokno](https://open.spotify.com/artist/0xyD0nFKNyVxnFMdXm6Ojh) | [Trust Myself](https://open.spotify.com/album/74KkZEUP9KG6jgQeCOsXm4) | 2:53 | 2025-02-26 | 2025-03-10 |
 | [Trust Someone](https://open.spotify.com/track/2W5h3Vq7OqdyJovrnORqSZ) | [Clint Chandler](https://open.spotify.com/artist/5AphVxyhxyorR80pXXF5Mj) | [Dirty Old Sweater](https://open.spotify.com/album/5KEKgrJ3eZ0l83lkGAyuv6) | 4:17 | 2022-05-27 | 2022-06-12 |
+| [Trust The Feeling](https://open.spotify.com/track/1tGjaxirxEHNKp5MZlTZzM) | [Tessa Rae](https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k) | [Trust The Feeling](https://open.spotify.com/album/69FaJymBCVNTCUlca0bsMv) | 3:33 | 2026-09-22 |  |
 | [Truth](https://open.spotify.com/track/6k5k5MRp48mOPimCRCpfGk) | [Gio Mar](https://open.spotify.com/artist/0RQ9DyaJZWWRzJYoG5YE5v) | [Truth](https://open.spotify.com/album/4vTr5ugFmfIT4i2KaIAp4q) | 2:36 | 2024-01-11 | 2024-01-19 |
 | [TRUTH](https://open.spotify.com/track/4XEdjZKgh49kKLO9xCwrxZ) | [MADNIK](https://open.spotify.com/artist/6Z0ZpfsNLeVU7c88gBa62V) | [TRUTH](https://open.spotify.com/album/6T8OkIuEEOLr1v78XM5E66) | 3:28 | 2023-02-27 | 2023-03-20 |
 | [Truth and Desire](https://open.spotify.com/track/6ApZAVtCIRIWJ1q0XXAd8W) | [Qbanaa](https://open.spotify.com/artist/7oDpJIKtPKyH5LY7xLi7EZ) | [Truth and Desire](https://open.spotify.com/album/4gwEhu0t5psIePibLNyxQP) | 3:47 | 2022-10-07 | 2022-10-30 |

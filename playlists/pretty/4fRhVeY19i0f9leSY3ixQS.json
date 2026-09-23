@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1889,
+  "num_followers": 1897,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAYwRh3D7RsaRjF6cHzy9jKguBkBFLi",
+  "snapshot_id": "AAAYyoXskWP3f+a3JpaQnAQgq7E9Vgmi",
   "tracks": [
     {
       "added_at": "2026-09-17 03:30:12",
@@ -3517,54 +3517,6 @@
       "url": "https://open.spotify.com/track/11XQKzMwrZjBW9RCgKNEko"
     },
     {
-      "added_at": "2026-08-23 21:21:50",
-      "album": {
-        "name": "Under Dark Light",
-        "url": "https://open.spotify.com/album/7wJCH2ObNKMxFHLTqKGwxO"
-      },
-      "artists": [
-        {
-          "name": "Tramp Sail",
-          "url": "https://open.spotify.com/artist/11QpwimYAQJPzcke9vtxgy"
-        }
-      ],
-      "duration_ms": 334921,
-      "name": "The Illusion of Freedom",
-      "url": "https://open.spotify.com/track/7cSYywcw6ZupLdPqzQlx1n"
-    },
-    {
-      "added_at": "2026-08-23 04:50:16",
-      "album": {
-        "name": "Like a Burning Page",
-        "url": "https://open.spotify.com/album/32b7S93Da3SP6aVIKbAZ8r"
-      },
-      "artists": [
-        {
-          "name": "Vogs",
-          "url": "https://open.spotify.com/artist/3TKmeKBGthNHcE96z2ClT1"
-        }
-      ],
-      "duration_ms": 178425,
-      "name": "Like a Burning Page",
-      "url": "https://open.spotify.com/track/3aJ0RtdpOB5oKkXu6KoJbs"
-    },
-    {
-      "added_at": "2026-08-23 04:49:57",
-      "album": {
-        "name": "Rain Of Regret (Emo Rap)",
-        "url": "https://open.spotify.com/album/5FhIz0p7YXgSv9co6X6Hmf"
-      },
-      "artists": [
-        {
-          "name": "Prasad_Fdoz",
-          "url": "https://open.spotify.com/artist/2EVCv5L3S5Zlc7zKcBqGgY"
-        }
-      ],
-      "duration_ms": 164670,
-      "name": "Rain Of Regret - Emo Rap",
-      "url": "https://open.spotify.com/track/46Nkn0ATiaBJ9XfwFEKukE"
-    },
-    {
       "added_at": "2026-08-24 05:51:56",
       "album": {
         "name": "MENTAL BREAKDOWN",
@@ -3969,7 +3921,7 @@
       "url": "https://open.spotify.com/track/573E32bqni3NxWteCmjc9G"
     },
     {
-      "added_at": "2026-08-31 16:11:50",
+      "added_at": "2026-09-23 01:00:37",
       "album": {
         "name": "Victims of Society",
         "url": "https://open.spotify.com/album/0bl3NAz6NDDVO1RwW9jjeg"
@@ -4781,6 +4733,22 @@
       "url": "https://open.spotify.com/track/14l79xVgYsRxa6pL3Q9NTh"
     },
     {
+      "added_at": "2026-09-22 12:44:59",
+      "album": {
+        "name": "You Smile When You're Lying",
+        "url": "https://open.spotify.com/album/35Tpy9f6cKun8tc7cYfxpf"
+      },
+      "artists": [
+        {
+          "name": "GRAVEKEY",
+          "url": "https://open.spotify.com/artist/5Uj3Yqq7OaoVmdsa7nYIZC"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "You Smile When You're Lying",
+      "url": "https://open.spotify.com/track/2wGet9XTv6jssvv1wu30bi"
+    },
+    {
       "added_at": "2026-09-18 21:16:35",
       "album": {
         "name": "WARNING",
@@ -5175,6 +5143,46 @@
       "duration_ms": 172712,
       "name": "Forgot Yourself",
       "url": "https://open.spotify.com/track/4gjVeBKRlrYomqpxVTTsdo"
+    },
+    {
+      "added_at": "2026-09-22 13:07:38",
+      "album": {
+        "name": "My Pierced Heart",
+        "url": "https://open.spotify.com/album/0ofSWhpd5pOr4iNosam0z1"
+      },
+      "artists": [
+        {
+          "name": "Storm",
+          "url": "https://open.spotify.com/artist/54xkUQxKSduHJ1BBJuoMdv"
+        }
+      ],
+      "duration_ms": 174085,
+      "name": "My Pierced Heart",
+      "url": "https://open.spotify.com/track/0vv0YhYz82Ti6fszj1LwdA"
+    },
+    {
+      "added_at": "2026-09-22 13:50:02",
+      "album": {
+        "name": "Pariah",
+        "url": "https://open.spotify.com/album/63bqiTdIfeQ3dNk6KBMMqm"
+      },
+      "artists": [
+        {
+          "name": "Poetic Descent",
+          "url": "https://open.spotify.com/artist/1gkj2iirvS02OA7AELr5b3"
+        },
+        {
+          "name": "Joel Holycross",
+          "url": "https://open.spotify.com/artist/5csPdazRvz9lZOLP1ELF9l"
+        },
+        {
+          "name": "Mahalath",
+          "url": "https://open.spotify.com/artist/7hswMi13YPRpHFuguqs2gt"
+        }
+      ],
+      "duration_ms": 214736,
+      "name": "Pariah",
+      "url": "https://open.spotify.com/track/3EwunkfboifnbfTRQfBaS3"
     }
   ],
   "unique_name": "Spotify Radio",

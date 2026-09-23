@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Max Dean, Nafe Smallz, Luke Dean",
+  "description": "\u4e16\u754c\u4e2d\u3067\u8a71\u984c\u306e\u30a8\u30ec\u30af\u30c8\u30ed\u30cb\u30c3\u30af\u30fb\u30c0\u30f3\u30b9\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u4e00\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\uff01Cover: Knock2",
   "name": "mint Japan",
   "tracks": [
     {
@@ -4292,6 +4292,10 @@
         {
           "name": "Prospa",
           "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Rohan Pinnock-Hamilton",
+          "url": "https://open.spotify.com/artist/1erUn87vf8MpTEPymnxVSY"
         }
       ],
       "date_added": "2026-06-12",
@@ -10052,7 +10056,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 211368,
       "name": "Long Jacket",
       "url": "https://open.spotify.com/track/7wFwf1j6nn7uneEF6oTAiR"
@@ -10290,7 +10294,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 171093,
       "name": "Love Is The Only Thing",
       "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
@@ -10432,7 +10436,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 153088,
       "name": "Lovers On The Dancefloor",
       "url": "https://open.spotify.com/track/1NlIoNToanthaXHzapI3ct"
@@ -12899,6 +12903,24 @@
     },
     {
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+    },
+    {
+      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
       },
@@ -13638,6 +13660,24 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
+    },
+    {
+      "album": {
+        "name": "Rhythm",
+        "url": "https://open.spotify.com/album/3h2c4oQYjpQYEWsdLI7vvH"
+      },
+      "artists": [
+        {
+          "name": "TREKKIE TRAX CREW",
+          "url": "https://open.spotify.com/artist/1aaNrx84WrTGObka1rpON3"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233678,
+      "name": "Rhythm",
+      "url": "https://open.spotify.com/track/0lFrJsevhQE8WP1gqGwFaN"
     },
     {
       "album": {
@@ -14928,6 +14968,24 @@
       "duration_ms": 179311,
       "name": "soul reply",
       "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
+    },
+    {
+      "album": {
+        "name": "sound di alarm",
+        "url": "https://open.spotify.com/album/6BIVBxODB2ZY7Xmt9HuyPf"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "sound di alarm",
+      "url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng"
     },
     {
       "album": {

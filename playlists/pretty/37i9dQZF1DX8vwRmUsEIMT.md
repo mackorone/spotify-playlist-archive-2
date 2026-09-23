@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vwRmUsEIMT.md) - [plain]
 
 > All the new music you need to hear right now\. Cover: Skepta
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,258 likes - 81 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,238 likes - 81 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

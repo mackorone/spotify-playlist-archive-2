@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: \u30ec\u30c8\u30ed\u30ea\u30ed\u30f3\uff08RETRORIRON\uff09",
+  "description": "\u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002The biggest Japanese rock hits right now. Cover: \u30b2\u30b9\u306e\u6975\u307f\u4e59\u5973 Lowest Lowest Girl",
   "name": "J-Rock ON!!",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 215600,
       "name": "1mm",
       "url": "https://open.spotify.com/track/4TZAlnT2z2pCcBWxlRjI7y"
@@ -1730,7 +1730,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 264759,
       "name": "AMANO-JAKU?",
       "url": "https://open.spotify.com/track/6VJhmMpFarGlye7JgHmGO5"
@@ -3299,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "Becoming Luca",
+        "url": "https://open.spotify.com/album/2nus3OCbxTXXAzhjsjTJkw"
+      },
+      "artists": [
+        {
+          "name": "Gesu No Kiwami Otome",
+          "url": "https://open.spotify.com/artist/1ieluXFoq2RRxMXZIQksTz"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229966,
+      "name": "Becoming Luca",
+      "url": "https://open.spotify.com/track/4VYJOlrAVNgpKp4Kv5VvDY"
+    },
+    {
+      "album": {
         "name": "Bedroom Angel",
         "url": "https://open.spotify.com/album/687CISTsbjCOrs21lTOqNd"
       },
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 256666,
       "name": "Boo",
       "url": "https://open.spotify.com/track/2v4HM1HdEBmo5v84JBUxz0"
@@ -5546,6 +5564,24 @@
       "duration_ms": 158000,
       "name": "CHO BUSY",
       "url": "https://open.spotify.com/track/1W7OhKAf3XCXXd7pfhDnf3"
+    },
+    {
+      "album": {
+        "name": "CHOUDOII",
+        "url": "https://open.spotify.com/album/4KcnvZW7kGYrR3mdQ7c7Ya"
+      },
+      "artists": [
+        {
+          "name": "GOKUMON(UchikubiGokumonDoukoukai)",
+          "url": "https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205723,
+      "name": "CHOUDOII",
+      "url": "https://open.spotify.com/track/22mpCtKDSivR01IlknlWFq"
     },
     {
       "album": {
@@ -10977,6 +11013,24 @@
     },
     {
       "album": {
+        "name": "GOLDEN GOAL",
+        "url": "https://open.spotify.com/album/64ZG646ndz53D7Hw47eKjX"
+      },
+      "artists": [
+        {
+          "name": "Paledusk",
+          "url": "https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287316,
+      "name": "GOLDEN GOAL",
+      "url": "https://open.spotify.com/track/00lusA3uBfYQGxzfGrpFZ2"
+    },
+    {
+      "album": {
         "name": "Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita",
         "url": "https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb"
       },
@@ -12992,6 +13046,24 @@
       "duration_ms": 201973,
       "name": "Hontowane,",
       "url": "https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl"
+    },
+    {
+      "album": {
+        "name": "hora",
+        "url": "https://open.spotify.com/album/51SClLoJGlqlkEOoTX5xrU"
+      },
+      "artists": [
+        {
+          "name": "luv",
+          "url": "https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203866,
+      "name": "hora",
+      "url": "https://open.spotify.com/track/4p4RcxZBkJOhRq1fAWDVu9"
     },
     {
       "album": {
@@ -16558,7 +16630,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 169332,
       "name": "Let It Go",
       "url": "https://open.spotify.com/track/1rSFAEWgd099i8vlUqBDJl"
@@ -20736,7 +20808,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 130909,
       "name": "No.1",
       "url": "https://open.spotify.com/track/3rJyTppAQLy8blHYrQGIAT"
@@ -24494,6 +24566,24 @@
       "duration_ms": 214800,
       "name": "RISE",
       "url": "https://open.spotify.com/track/0s1HEjqO1PPQwpdSK4HxuB"
+    },
+    {
+      "album": {
+        "name": "RIZAN",
+        "url": "https://open.spotify.com/album/1gAle7CAcgecHGu1lp9IoK"
+      },
+      "artists": [
+        {
+          "name": "Koshi Inaba",
+          "url": "https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279600,
+      "name": "RIZAN",
+      "url": "https://open.spotify.com/track/2TjjFHtY1o6aLELPkPIqti"
     },
     {
       "album": {
@@ -31794,6 +31884,24 @@
       "duration_ms": 195453,
       "name": "TREE CLIMBERS -2025 ver.-",
       "url": "https://open.spotify.com/track/6jLPPPgSxbhmIkq7Z8lzrs"
+    },
+    {
+      "album": {
+        "name": "TRICK STAR",
+        "url": "https://open.spotify.com/album/5OjXQWEixp2wKn6XvfcOfM"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262760,
+      "name": "TRICK STAR",
+      "url": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX"
     },
     {
       "album": {
@@ -43278,7 +43386,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 154900,
       "name": "\u30b8\u30e3\u30ac\u30fc\u30ce\u30fc\u30c8",
       "url": "https://open.spotify.com/track/180C0bLHGOC6RENP0qWvza"
@@ -47213,6 +47321,24 @@
     },
     {
       "album": {
+        "name": "\u30d6\u30e9\u30c3\u30c9\u2661\u30b9\u30d1\u30fc\u30af\u30b9",
+        "url": "https://open.spotify.com/album/1wbenwd9fJRZZWFJcoze6O"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145081,
+      "name": "\u30d6\u30e9\u30c3\u30c9\u2661\u30b9\u30d1\u30fc\u30af\u30b9",
+      "url": "https://open.spotify.com/track/0MtmpkswjRWBAfKk9isee5"
+    },
+    {
+      "album": {
         "name": "MANTRAL",
         "url": "https://open.spotify.com/album/5PoC3e0vEy1A4bq94aUWpb"
       },
@@ -50439,6 +50565,24 @@
     },
     {
       "album": {
+        "name": "\u4e16\u754c\u907a\u7523\u3068\u591c",
+        "url": "https://open.spotify.com/album/2KfEX2PU6iVKsi5gNRKeS3"
+      },
+      "artists": [
+        {
+          "name": "Lenny code fiction",
+          "url": "https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "\u4e16\u754c\u907a\u7523\u3068\u591c",
+      "url": "https://open.spotify.com/track/3LpvbSKowQAlK6wYi538X9"
+    },
+    {
+      "album": {
         "name": "\u4e21\u60f3\u3044",
         "url": "https://open.spotify.com/album/4iWLok3YkjDIRL6FYJLzad"
       },
@@ -52520,7 +52664,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 192709,
       "name": "\u541b\u304c\u7b11\u3063\u305f\uff01",
       "url": "https://open.spotify.com/track/1zB0qeXt2VrUL3qlVThKYj"
@@ -58612,7 +58756,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 229160,
       "name": "\u6975\u591c\u884c",
       "url": "https://open.spotify.com/track/19dVVMvToKKIUuThb8t3V2"
@@ -58994,6 +59138,24 @@
       "duration_ms": 242973,
       "name": "\u6c38\u9060\u5c11\u5973",
       "url": "https://open.spotify.com/track/7LQFar8eNeAJ393wUhsxBs"
+    },
+    {
+      "album": {
+        "name": "\u6c5a\u308c\u305f\u82f1\u96c4",
+        "url": "https://open.spotify.com/album/10T0AxbmorcVavRxLX7hPg"
+      },
+      "artists": [
+        {
+          "name": "GLAY",
+          "url": "https://open.spotify.com/artist/00AFbqxvdDK6T1D6MQZ9c1"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181453,
+      "name": "\u6c5a\u308c\u305f\u82f1\u96c4",
+      "url": "https://open.spotify.com/track/79ifXslLmp0qmSLLUGmakA"
     },
     {
       "album": {
@@ -60962,7 +61124,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 147933,
       "name": "\u795d\u96fb",
       "url": "https://open.spotify.com/track/1BASjjTw9fl8RR9LJcDQPZ"

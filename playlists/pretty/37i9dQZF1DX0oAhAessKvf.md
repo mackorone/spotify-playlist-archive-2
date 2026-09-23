@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 
 > La calle temblaba con los primeros pasos del reggaetón\. Foto: El General
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,689 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,706 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0oAhAessKvf.md) - [plain]
 | 14 | [El Cubo de Leche](https://open.spotify.com/track/1f2AyplMMO29MHBkjfFRmc) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jam & Suppose](https://open.spotify.com/artist/42iAiw7Kn6Ji3xIeDzxJ0q) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 1:54 |
 | 15 | [El Meneaito \(Panama\)](https://open.spotify.com/track/4Vfan2rTFpBwHOWuD5pA06) | [Gaby](https://open.spotify.com/artist/4AhGkIJ9OoIBLMWYtC1Z2k) | [Ragga War II \- Retro](https://open.spotify.com/album/4sNGBEHrEB1l6CUCcFR5LM) | 3:41 |
 | 16 | [Tu Pun Pun](https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:32 |
-| 17 | [Chezidom](https://open.spotify.com/track/0iO8CghAaUo0lVLSHawUc1) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 4:36 |
-| 18 | [Transformer](https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ) | [Eddie Dee](https://open.spotify.com/artist/0IUl6p6MRVAC8xQOAEX4iD) | [Planet Reggae](https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ) | 3:01 |
+| 17 | [Transformer](https://open.spotify.com/track/7ptAYNeiD6Z0KZ47L7S1vZ) | [Eddie Dee](https://open.spotify.com/artist/0IUl6p6MRVAC8xQOAEX4iD) | [Planet Reggae](https://open.spotify.com/album/3KB0C9qGVSL1YtgaSkyqeJ) | 3:01 |
+| 18 | [Chezidom](https://open.spotify.com/track/0iO8CghAaUo0lVLSHawUc1) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Mi Trayectoria](https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v) | 4:36 |
 | 19 | [La Química](https://open.spotify.com/track/08KfnyjxkgXveroTSvbMza) | [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt) | [Sin Parar](https://open.spotify.com/album/3VkyAHMysQH0SN2FjF1c0v) | 3:26 |
 | 20 | [Luna y Estrellas](https://open.spotify.com/track/2srDyKCj9JJ0Iwvwdl8xj8) | [El Chombo](https://open.spotify.com/artist/6iSZjc4kOoKZKiBXK5HbwD), [Jimmy Bad Boy](https://open.spotify.com/artist/5KQIqm4ZbWSfcrWuzGBI9r) | [A Mover el Culo Con el Chombo](https://open.spotify.com/album/0dGcHWlzgWsN4bMc4DXq9Y) | 3:10 |
 | 21 | [Robi\-Rob's Boriqua Anthem](https://open.spotify.com/track/1rX13rLlHSzCoWh3inVchh) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [C & C Music Factory](https://open.spotify.com/artist/7krx6UBDKLwE0q3s3fesqF) | [Grandes Exitos](https://open.spotify.com/album/5XWD8nYr65TU50RooHKPrc) | 8:57 |

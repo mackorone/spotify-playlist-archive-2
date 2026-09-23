@@ -48583,6 +48583,36 @@
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Naqoyqatsi: Point Blank",
+      "url": "https://open.spotify.com/track/0I1LglxRRSMyaH3VlxDf2l"
+    },
+    {
+      "album": {
+        "name": "Philip Glass for cello",
+        "url": "https://open.spotify.com/album/3EJJD93c6LNnxzHYUZtMf4"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Camille Thomas",
+          "url": "https://open.spotify.com/artist/4jr0QTGJnWJNUPeHjju3RD"
+        },
+        {
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
+        },
+        {
+          "name": "Oscar Jockel",
+          "url": "https://open.spotify.com/artist/0aoA1OWyDRcpf0u6zh7bsw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2026-09-23",
       "duration_ms": 247000,
       "name": "Naqoyqatsi: Primacy Of Number",
       "url": "https://open.spotify.com/track/4PmZkJnEmV2LH53PdxEr4v"

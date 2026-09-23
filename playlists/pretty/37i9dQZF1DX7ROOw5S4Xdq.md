@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,502 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,580 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 20 | [Meu Pai \- Ao Vivo](https://open.spotify.com/track/7Lic8k0QKGnBdfrl7XJSV4) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sessão Adoração \(Ao Vivo\)](https://open.spotify.com/album/5U3nsNjpF2lz84koEErlHz) | 6:52 |
 | 21 | [Escolhido \- Ao Vivo](https://open.spotify.com/track/3JRJGUbyce1usEStXKvxGU) | [Higor Rosa](https://open.spotify.com/artist/2fqNvfLoAikmiTGR5WgOeA), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Escolhido \(Ao Vivo\)](https://open.spotify.com/album/4MMKM2CtOPyjpKv79blf8U) | 4:51 |
 | 22 | [Vencedor \(Champion\)](https://open.spotify.com/track/13lHSmLNE0xWlf0Et1vlfE) | [Nai Lopes](https://open.spotify.com/artist/5t6uGEJEod3b2Lgy5HFN6J), [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Vencedor \(Champion\)](https://open.spotify.com/album/3OEicrDIM5dMGXFmmzkLsp) | 6:46 |
-| 23 | [Deus dos Deuses](https://open.spotify.com/track/1vlKCyZmB8UjfILwYNPEsW) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Fogo e Renovo](https://open.spotify.com/album/3zethXc7M90ddr1DyoBihH) | 5:13 |
+| 23 | [Deus dos Deuses](https://open.spotify.com/track/1vlKCyZmB8UjfILwYNPEsW) | [Canção e Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Fogo e Renovo](https://open.spotify.com/album/3zethXc7M90ddr1DyoBihH) | 5:13 |
 | 24 | [Meu Provedor](https://open.spotify.com/track/1Cm4XiURLNtae86mHFHtBm) | [Jadson Moreno](https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23) | [Meu Provedor](https://open.spotify.com/album/4lHQ8qidMpvImCn0GZONp6) | 6:59 |
 | 25 | [Jesus Me Satisfaz \- Ao Vivo](https://open.spotify.com/track/397iLrjigXAi4U3Nq8yxOR) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA) | [Jesus Me Satisfaz \(Ao Vivo\)](https://open.spotify.com/album/4sryhL9MkzJf9mwt9QmS8m) | 5:41 |
 | 26 | [Amamos Mais e Mais \- Ao Vivo](https://open.spotify.com/track/4PjF4QMYEOxfI6OyYg9msU) | [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Amamos Mais e Mais \(Ao Vivo\)](https://open.spotify.com/album/6nST5RPn4YVFq12XRBVt3u) | 5:13 |

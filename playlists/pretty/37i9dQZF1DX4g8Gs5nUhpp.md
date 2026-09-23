@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Dangrangto
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,064 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,081 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

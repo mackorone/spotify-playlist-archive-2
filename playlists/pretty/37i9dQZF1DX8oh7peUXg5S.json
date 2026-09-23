@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 353166,
+  "num_followers": 353196,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 110373,
-      "name": "Aquellas Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
         "name": "8 Lunas",
         "url": "https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 260680,
       "name": "Carta urgente (feat. Abel Pintos)",
       "url": "https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 110373,
+      "name": "Aquellas Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -971,26 +971,6 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "M\u00e9ritos Y Merecimientos",
-        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
-      },
-      "artists": [
-        {
-          "name": "Fernando Cabrera",
-          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "M\u00e9ritos Y Merecimientos",
-      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
         "name": "Un Ramito De Violetas",
         "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 225800,
       "name": "Santa Lucia",
       "url": "https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
+        "name": "M\u00e9ritos Y Merecimientos",
+        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
+      },
+      "artists": [
+        {
+          "name": "Fernando Cabrera",
+          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "M\u00e9ritos Y Merecimientos",
+      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "De Lo Perdido Y Otras Coplas",
-        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
-      },
-      "artists": [
-        {
-          "name": "Carlos Cano",
-          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "Mar\u00eda la portuguesa",
-      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
         "name": "Cuando el R\u00edo Suena...",
         "url": "https://open.spotify.com/album/6LvauKnko6HIqPHfQLzhOL"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 234743,
       "name": "Antes De Verte (with Kevin Johansen)",
       "url": "https://open.spotify.com/track/7btOWcAo8FLUCuhltFlz6v"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
+        "name": "De Lo Perdido Y Otras Coplas",
+        "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cano",
+          "url": "https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "Mar\u00eda la portuguesa",
+      "url": "https://open.spotify.com/track/38qdh1Nb0DVjEDLrL3pHyT"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "Rug\u00edo de Sentir",
-        "url": "https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm"
-      },
-      "artists": [
-        {
-          "name": "Paco Pecado",
-          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
-        }
-      ],
-      "duration_ms": 203896,
-      "name": "Rug\u00edo de Sentir",
-      "url": "https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
         "name": "Quererte",
         "url": "https://open.spotify.com/album/4kSkdT7RWpP8ihYX2esk92"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 181825,
       "name": "Quererte",
       "url": "https://open.spotify.com/track/62JhUldtUH5uifSjkjDGUw"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
+        "name": "Rug\u00edo de Sentir",
+        "url": "https://open.spotify.com/album/0bexrNYTuhcoEbDjBUUuZm"
+      },
+      "artists": [
+        {
+          "name": "Paco Pecado",
+          "url": "https://open.spotify.com/artist/2vXDokvgkQ25O1FOPxQhSp"
+        }
+      ],
+      "duration_ms": 203896,
+      "name": "Rug\u00edo de Sentir",
+      "url": "https://open.spotify.com/track/1ecpwSch9muxwUF5BmOHQs"
     },
     {
       "added_at": "2026-09-17 22:01:37",

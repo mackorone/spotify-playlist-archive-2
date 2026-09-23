@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkçe rap'in hit şarkıları ve zirveye oynayanlar\. Kapak: Reder, Kava, Keskin, Chiko, ERAY067, Mansur
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,403,298 likes - 49 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,403,273 likes - 49 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 5 | [SHAKE IT](https://open.spotify.com/track/1GGU3Pis8Cd5KVzWebtDho) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [Kava](https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f) | [SHAKE IT](https://open.spotify.com/album/1L1YCKt6jysl3B6GLLmp2L) | 2:09 |
 | 6 | [Penceresiz](https://open.spotify.com/track/5egahUdlOHZQHCbT8vVOaq) | [Şiir!](https://open.spotify.com/artist/3xAajp4pZmP2HKx0NcTsdf), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Penceresiz](https://open.spotify.com/album/5qUfa2sGVQ1KcttboNlcu1) | 3:07 |
 | 7 | [FENA HEEEEEP](https://open.spotify.com/track/3hwFyzEodeE1bNkveibYPt) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [FENA HEEEEEP](https://open.spotify.com/album/0xZZxg9LwTLzmk3FGC4ynI) | 1:56 |
-| 8 | [GUNAYDIN GUTENTAG](https://open.spotify.com/track/0MqxFVlp5HPfScLaVXcehG) | [JEFF](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Dardan](https://open.spotify.com/artist/5eOEIlx0jrGO3HPIqdnz0L) | [DUALITAS](https://open.spotify.com/album/3JNImNOVEm4U7O9uY8Ozov) | 2:19 |
+| 8 | [GUNAYDIN GUTENTAG](https://open.spotify.com/track/0MqxFVlp5HPfScLaVXcehG) | [JEFF](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [DUALITAS](https://open.spotify.com/album/3JNImNOVEm4U7O9uY8Ozov) | 2:19 |
 | 9 | [Sallandı Bildiğin](https://open.spotify.com/track/4M4LmZoqUi1WDewpn9wKgd) | [2run](https://open.spotify.com/artist/2ChTJTWndw0hFKEnn4ukYv) | [Sallandı Bildiğin](https://open.spotify.com/album/5jGRDCwExfw72aYeOWvygi) | 2:51 |
 | 10 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
 | 11 | [Yediveren](https://open.spotify.com/track/2OEalqENC2jUcS227aYabQ) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj), [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y) | [Yediveren](https://open.spotify.com/album/34r2E12DeCByExQ7vWFPKn) | 3:53 |

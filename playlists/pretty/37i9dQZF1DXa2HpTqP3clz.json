@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tatiana Hargreaves, Laurie Lewis, and Lindsay Lou",
-  "num_followers": 168668,
+  "num_followers": 168667,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Leadfoot",
-        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
-      },
-      "artists": [
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 165576,
-      "name": "Leadfoot",
-      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Outrun The Rain",
         "url": "https://open.spotify.com/album/71QwOCif4gMjnlZeJLybdP"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 271973,
       "name": "Outrun The Rain",
       "url": "https://open.spotify.com/track/0jkA17RGMSwkfBYa8YjKab"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Leadfoot",
+        "url": "https://open.spotify.com/album/29iUN1tgGWZChP7gRFrR35"
+      },
+      "artists": [
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 165576,
+      "name": "Leadfoot",
+      "url": "https://open.spotify.com/track/4xl69nffCsCcw3jNa0f8jj"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Nowhere Next",
-        "url": "https://open.spotify.com/album/1NHQWSuv2fvxVivvngEMAL"
-      },
-      "artists": [
-        {
-          "name": "Yonder Mountain String Band",
-          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Didn't Go Wrong",
-      "url": "https://open.spotify.com/track/4CyXGgMZJeBIg0vU1V4X3Y"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "What Did the Blackbird Say to the Crow",
         "url": "https://open.spotify.com/album/27X6vmJ0YmKi9ydl0aM65m"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 148889,
       "name": "Rain Crow",
       "url": "https://open.spotify.com/track/1vZwn9shBmyZfoorT4zxi4"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Nowhere Next",
+        "url": "https://open.spotify.com/album/1NHQWSuv2fvxVivvngEMAL"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Didn't Go Wrong",
+      "url": "https://open.spotify.com/track/4CyXGgMZJeBIg0vU1V4X3Y"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Wanderers Like Me",
-        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
-      },
-      "artists": [
-        {
-          "name": "The Po' Ramblin' Boys",
-          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
-        }
-      ],
-      "duration_ms": 189887,
-      "name": "Wanderers Like Me",
-      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Della Jane's Heart",
         "url": "https://open.spotify.com/album/0qyVNOJ46PCOTgqwSy6HQT"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 170093,
       "name": "Possum Up a 'Simmon Tree",
       "url": "https://open.spotify.com/track/6XUi6K31Od7prx0w5WZXYU"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Wanderers Like Me",
+        "url": "https://open.spotify.com/album/4Nw9ao8aprPdx3dItTNn4Y"
+      },
+      "artists": [
+        {
+          "name": "The Po' Ramblin' Boys",
+          "url": "https://open.spotify.com/artist/65XZgRZMfuSawjuSFrnz0o"
+        }
+      ],
+      "duration_ms": 189887,
+      "name": "Wanderers Like Me",
+      "url": "https://open.spotify.com/track/226vIwdko5ZDk7Wm7zqlCp"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -967,26 +967,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
-        }
-      ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Saint Anthony",
         "url": "https://open.spotify.com/album/7CSeXBSuRmHP4esFKvEl1A"
       },
@@ -1019,6 +999,26 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+        }
+      ],
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "BBQ Chips",
         "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
       },
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Railroadin' & Gamblin'",
-        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
-      },
-      "artists": [
-        {
-          "name": "East Nash Grass",
-          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
-        }
-      ],
-      "duration_ms": 173237,
-      "name": "Railroadin' & Gamblin'",
-      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Last Road Going Home",
         "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 214306,
       "name": "Last Road Going Home",
       "url": "https://open.spotify.com/track/2qsbZAqsSfYvpQg5h6dQ2Y"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Railroadin' & Gamblin'",
+        "url": "https://open.spotify.com/album/6d7fThh2fKSgxBt4UelCeb"
+      },
+      "artists": [
+        {
+          "name": "East Nash Grass",
+          "url": "https://open.spotify.com/artist/4RlN3jngfM6H70icTCCPjl"
+        }
+      ],
+      "duration_ms": 173237,
+      "name": "Railroadin' & Gamblin'",
+      "url": "https://open.spotify.com/track/2wjADzzkroggaVRBQj20Tm"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Runaway Train",
-        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Runaway Train",
-      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Memory Lane",
         "url": "https://open.spotify.com/album/0eO2euXynsfsom5xOmq2yP"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 151466,
       "name": "Coalmine",
       "url": "https://open.spotify.com/track/3Yq995dHWgGkRwy7cgOXKB"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Please Mr Please",
+        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+      },
+      "artists": [
+        {
+          "name": "Rhonda Vincent",
+          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+        }
+      ],
+      "duration_ms": 272326,
+      "name": "Please Mr Please",
+      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1155,18 +1155,34 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Please Mr Please",
-        "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
+        "name": "Runaway Train",
+        "url": "https://open.spotify.com/album/1nbbNARDrBRmOD8vEgvEgT"
       },
       "artists": [
         {
-          "name": "Rhonda Vincent",
-          "url": "https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT"
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
         }
       ],
-      "duration_ms": 272326,
-      "name": "Please Mr Please",
-      "url": "https://open.spotify.com/track/6dZqdz6LbVeYsPYA5bB76n"
+      "duration_ms": 260493,
+      "name": "Runaway Train",
+      "url": "https://open.spotify.com/track/4d2JF1jbiEmOhZhSg9qFBN"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "I'll Blame It on the Rain",
+        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
+      },
+      "artists": [
+        {
+          "name": "Hammertowne",
+          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
+        }
+      ],
+      "duration_ms": 223586,
+      "name": "I'll Blame It on the Rain",
+      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1215,22 +1231,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "I'll Blame It on the Rain",
-        "url": "https://open.spotify.com/album/5KyempI06dBOFAtLqgxWUo"
-      },
-      "artists": [
-        {
-          "name": "Hammertowne",
-          "url": "https://open.spotify.com/artist/0R1TbL3wlb7ZTdZk1yMyRH"
-        }
-      ],
-      "duration_ms": 223586,
-      "name": "I'll Blame It on the Rain",
-      "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Wildflowers",
         "url": "https://open.spotify.com/album/1nq5kIiewuJN5Z5oAOPWAQ"
       },
@@ -1263,26 +1263,6 @@
       "duration_ms": 195776,
       "name": "Odds of Getting Even",
       "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Sierra Hull",
-          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Grassy Cove",
-      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1323,6 +1303,26 @@
       "duration_ms": 239440,
       "name": "Let\u2019s Sing Our Song",
       "url": "https://open.spotify.com/track/4Kq8ljJO7tLWtzgiI0ZrFW"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Grassy Cove",
+      "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
     },
     {
       "added_at": "2026-08-14 04:01:26",

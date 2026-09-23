@@ -6,7 +6,7 @@
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAABLq7DIAzlH+4QyHTGv+A9e5RK2BCx",
+  "snapshot_id": "AAABMEeK74Kl1R+XBcITGCe3dwW1QZoH",
   "tracks": [
     {
       "added_at": "2023-04-28 22:56:02",
@@ -4419,6 +4419,38 @@
       "duration_ms": 225880,
       "name": "Solitude connect\u00e9e",
       "url": "https://open.spotify.com/track/3J2o5tps0Ngst3K0C2syl9"
+    },
+    {
+      "added_at": "2026-09-22 11:16:29",
+      "album": {
+        "name": "la pluie sur un sourire",
+        "url": "https://open.spotify.com/album/62DYJajnXXjqOHP4oEzVWm"
+      },
+      "artists": [
+        {
+          "name": "Ind\u00e9cis",
+          "url": "https://open.spotify.com/artist/2Ob8Sw8cUGdNE1t1ZtFFDC"
+        }
+      ],
+      "duration_ms": 149443,
+      "name": "la pluie sur un sourire",
+      "url": "https://open.spotify.com/track/7EPM28iVOgUqfDc8mcssz5"
+    },
+    {
+      "added_at": "2026-09-22 20:42:42",
+      "album": {
+        "name": "On se sait",
+        "url": "https://open.spotify.com/album/6bt1zfR2cvJFd2Ouv30iSF"
+      },
+      "artists": [
+        {
+          "name": "JANEREVA",
+          "url": "https://open.spotify.com/artist/7J2WoLXgGpYTjnKiIZCN44"
+        }
+      ],
+      "duration_ms": 226079,
+      "name": "On se sait",
+      "url": "https://open.spotify.com/track/77tyR0eQEbNglQPA0OxTsS"
     }
   ],
   "unique_name": "Radios France",

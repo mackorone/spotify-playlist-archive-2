@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > unge kniv 🔪 @KlaraVibeke
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,234 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,230 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 56 | [Ingen Bund](https://open.spotify.com/track/6Wh43ZGGQycgGfw2fj7wy3) | [Von Quar](https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3) | [Ingen Bund](https://open.spotify.com/album/72yYt6zHgG6qQkgXNpPqLx) | 3:39 |
 | 57 | [Førhen](https://open.spotify.com/track/2sgEeIveQ0pn5AnVSMhjHk) | [will](https://open.spotify.com/artist/6CVpx38ZMlFNcepKyWTcfB) | [Førhen](https://open.spotify.com/album/5Mt0SEkl9UPcCuWVebIxqR) | 3:19 |
 | 58 | [Sømand Af Verden](https://open.spotify.com/track/1K3RT2BaENwRbOd0nKIePw) | [Matilde Alexandra](https://open.spotify.com/artist/49EE2hM80yLCDi8FIPBnIR) | [Sømand Af Verden](https://open.spotify.com/album/4WvHCE652kNavAltBeL97h) | 3:28 |
-| 59 | [KOMMER DU HJEM](https://open.spotify.com/track/00WiCCPX6cuonSNqNuu71y) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [KOMMER DU HJEM](https://open.spotify.com/album/5ohkGUAIM1Lwdx0MviysnB) | 3:19 |
-| 60 | [Whatyoufeellike](https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Whatyoufeellike](https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM) | 2:46 |
+| 59 | [Whatyoufeellike](https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Whatyoufeellike](https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM) | 2:46 |
+| 60 | [KOMMER DU HJEM](https://open.spotify.com/track/00WiCCPX6cuonSNqNuu71y) | [MARQ](https://open.spotify.com/artist/4Cm5pvR59CgfEcAG5wen6x), [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr) | [KOMMER DU HJEM](https://open.spotify.com/album/5ohkGUAIM1Lwdx0MviysnB) | 3:19 |
 | 61 | [LEGIONÆR](https://open.spotify.com/track/2cvraZQylZ5xdmkZX6lniA) | [AFSKUM](https://open.spotify.com/artist/3m1cXoRVAFIYiQ1I3blbEM), [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS) | [LEGIONÆR](https://open.spotify.com/album/35fuAHyVFJjsO4jrUsZQ2M) | 3:37 |
 | 62 | [Barn Af Venedig](https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE) | [Mathias Ranch](https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8) | [Barn Af Venedig](https://open.spotify.com/album/7md2UVqllUni4xa7373rXi) | 3:59 |
 | 63 | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/track/6YBPH4jB34gdSdDJE1ktKc) | [Cyd](https://open.spotify.com/artist/6JYcDUfoOtgxTCnAJU9O3A), [Ungklang](https://open.spotify.com/artist/4g6UJfNBiSyqnvK3sJOSnD) | [Til Enden Og Tilbage \(feat\. Ungklang\)](https://open.spotify.com/album/6AyEcAj5lzs9BxxavSUpAu) | 3:09 |
-| 64 | [Venter Jo Bare](https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Venter Jo Bare](https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg) | 3:20 |
-| 65 | [Walmart](https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Walmart](https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz) | 2:51 |
-| 66 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 |
-| 67 | [Going about my day](https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14) | [Lola Hammerich](https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40) | [Going about my day](https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV) | 5:57 |
+| 64 | [Walmart](https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Walmart](https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz) | 2:51 |
+| 65 | [Venter Jo Bare](https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda) | [Barselona](https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m) | [Venter Jo Bare](https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg) | 3:20 |
+| 66 | [Going about my day](https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14) | [Lola Hammerich](https://open.spotify.com/artist/2wQsqVsADuAKMfEbg3ey40) | [Going about my day](https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV) | 5:57 |
+| 67 | [Pissoir](https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0) | [Søn](https://open.spotify.com/artist/1hPnocntW3PwV6fsiifdNr) | [Pissoir](https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E) | 3:05 |
 | 68 | [Your Boy Is Sick](https://open.spotify.com/track/1JCDFIDxhAJmzbKoK2Xxdy) | [GUZO](https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV) | [Your Boy Is Sick](https://open.spotify.com/album/2HZ1OiS2BOZHrn3uoGG4qd) | 2:57 |
 | 69 | [Blue Flame](https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Tiffi M](https://open.spotify.com/artist/6HT5E0pCWG22FzBr6Wdlp5), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Play](https://open.spotify.com/album/4mveLQ3t7GKHwuKDShwgzx) | 3:03 |
 | 70 | [Nights Like These](https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [GUTWORK](https://open.spotify.com/album/19jfPmJsR2KHzZF9Wq9k9F) | 3:23 |

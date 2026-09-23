@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 128460,
+  "num_followers": 128507,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAD7/RLwNROt7e5Jom+IvDgw",
+  "snapshot_id": "arBzgAAAAACpvyIo/JM/b3iJHeNND33/",
   "tracks": [
     {
       "added_at": null,
@@ -247,8 +247,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Has Set",
-        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
       },
       "artists": [
         {
@@ -256,9 +256,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 141804,
-      "name": "Sun Has Set",
-      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
+      "duration_ms": 178281,
+      "name": "Estranged",
+      "url": "https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ"
     },
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+        "name": "Sun Has Set",
+        "url": "https://open.spotify.com/album/2YwRomMDFX0sttDNVqBrXR"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 178281,
-      "name": "Estranged",
-      "url": "https://open.spotify.com/track/4M7lT4DNieS5JTs2dEKiBQ"
+      "duration_ms": 141804,
+      "name": "Sun Has Set",
+      "url": "https://open.spotify.com/track/3CnEw0mRAXVlLw36iL0mbe"
     },
     {
       "added_at": null,
@@ -307,6 +307,22 @@
       "duration_ms": 198600,
       "name": "You\u2019re here that\u2019s the thing",
       "url": "https://open.spotify.com/track/68SSN8C0cJmUEXJkGyNYqe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 171308,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/4iCZIqJRspJ2N3N9c6ZuLN"
     },
     {
       "added_at": null,
@@ -343,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 171308,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/4iCZIqJRspJ2N3N9c6ZuLN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -371,6 +371,22 @@
       "duration_ms": 160493,
       "name": "Sunny day",
       "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 160230,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe"
     },
     {
       "added_at": null,
@@ -407,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 160230,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 187992,
+      "name": "In Motion",
+      "url": "https://open.spotify.com/track/0N6xvbX8lsB8u9Q9B6rJgt"
     },
     {
       "added_at": null,
@@ -475,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/2qkb3hhx8iCBvYzX9SvVxj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pylon",
         "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
       },
@@ -491,22 +523,6 @@
       "duration_ms": 144316,
       "name": "Nothing To Prove",
       "url": "https://open.spotify.com/track/1nxXhsu7dofByVV8BqGleK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 245426,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/2qkb3hhx8iCBvYzX9SvVxj"
     },
     {
       "added_at": null,
@@ -543,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187992,
-      "name": "In Motion",
-      "url": "https://open.spotify.com/track/0N6xvbX8lsB8u9Q9B6rJgt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Extended Play",
         "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 214128,
       "name": "Animal Noises",
       "url": "https://open.spotify.com/track/3KENEwjmiRoWoW3HTE9JNb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 89678,
+      "name": "Despite That",
+      "url": "https://open.spotify.com/track/2nyCiGvIqREI3u8Tf95iCr"
     },
     {
       "added_at": null,
@@ -607,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 89678,
-      "name": "Despite That",
-      "url": "https://open.spotify.com/track/2nyCiGvIqREI3u8Tf95iCr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Extended Play",
         "url": "https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 194173,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "She Plays Bass",
         "url": "https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 207106,
       "name": "She Plays Bass",
       "url": "https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 194173,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM"
     },
     {
       "added_at": null,

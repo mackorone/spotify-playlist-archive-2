@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 209121,
+  "num_followers": 209133,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Beetlebugs",
-        "url": "https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG"
-      },
-      "artists": [
-        {
-          "name": "Nick Leng",
-          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "Beetlebugs",
-      "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "AMAMA",
         "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
       },
@@ -271,8 +255,24 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Agitprop Alterna",
-        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
+        "name": "Beetlebugs",
+        "url": "https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG"
+      },
+      "artists": [
+        {
+          "name": "Nick Leng",
+          "url": "https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "Beetlebugs",
+      "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Rose Main Reading Room",
+        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
         }
       ],
-      "duration_ms": 314059,
-      "name": "Up and Up",
-      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
+      "duration_ms": 166228,
+      "name": "Wish You Well",
+      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -355,8 +355,8 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Rose Main Reading Room",
-        "url": "https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE"
+        "name": "Agitprop Alterna",
+        "url": "https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd"
         }
       ],
-      "duration_ms": 166228,
-      "name": "Wish You Well",
-      "url": "https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb"
+      "duration_ms": 314059,
+      "name": "Up and Up",
+      "url": "https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -423,22 +423,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "WILLING",
-        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
-      },
-      "artists": [
-        {
-          "name": "JJUUJJUU",
-          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
-        }
-      ],
-      "duration_ms": 183829,
-      "name": "WILLING",
-      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Follow the Cyborg",
         "url": "https://open.spotify.com/album/1u4u2LCBocqNltaY4Q2lli"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 229183,
       "name": "Nothing's Wrong",
       "url": "https://open.spotify.com/track/1BHffF1YV6e1pMyjaujmvT"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "WILLING",
+        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 183829,
+      "name": "WILLING",
+      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -579,22 +579,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Love in Constant Spectacle",
-        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 257226,
-      "name": "Love in Constant Spectacle",
-      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "setar rock",
         "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 240250,
       "name": "setar rock",
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Love in Constant Spectacle",
+        "url": "https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Love in Constant Spectacle",
+      "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -827,22 +827,26 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "a.s.o.",
-        "url": "https://open.spotify.com/album/491ULACRrTCXK4ZTPwRCPa"
+        "name": "Vidrio",
+        "url": "https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv"
       },
       "artists": [
         {
-          "name": "a.s.o.",
-          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
+          "name": "Titanic",
+          "url": "https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i"
         },
         {
-          "name": "Alias Error",
-          "url": "https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O"
+          "name": "I la Cat\u00f3lica",
+          "url": "https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
         }
       ],
-      "duration_ms": 174893,
-      "name": "Go On",
-      "url": "https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh"
+      "duration_ms": 277308,
+      "name": "An\u00f3nima",
+      "url": "https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -879,26 +883,22 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Vidrio",
-        "url": "https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv"
+        "name": "a.s.o.",
+        "url": "https://open.spotify.com/album/491ULACRrTCXK4ZTPwRCPa"
       },
       "artists": [
         {
-          "name": "Titanic",
-          "url": "https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i"
+          "name": "a.s.o.",
+          "url": "https://open.spotify.com/artist/2a4fzfmDaQvYBhBR5hp2jj"
         },
         {
-          "name": "I la Cat\u00f3lica",
-          "url": "https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+          "name": "Alias Error",
+          "url": "https://open.spotify.com/artist/2AQ0EB0amswkk6jw45wd6O"
         }
       ],
-      "duration_ms": 277308,
-      "name": "An\u00f3nima",
-      "url": "https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB"
+      "duration_ms": 174893,
+      "name": "Go On",
+      "url": "https://open.spotify.com/track/1mPbccRuO7FwxAWECKveTh"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -919,22 +919,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Second Spring OST",
-        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
-      },
-      "artists": [
-        {
-          "name": "Peter Zummo",
-          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
-        }
-      ],
-      "duration_ms": 151022,
-      "name": "Highway Brain Planet (Credits)",
-      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Triple Fire",
         "url": "https://open.spotify.com/album/1qiM88pXnw52LRZDzOmpA3"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 217733,
       "name": "Dry",
       "url": "https://open.spotify.com/track/2WejiOMM6ja5WM28Zu2qTu"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Second Spring OST",
+        "url": "https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI"
+      },
+      "artists": [
+        {
+          "name": "Peter Zummo",
+          "url": "https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe"
+        }
+      ],
+      "duration_ms": 151022,
+      "name": "Highway Brain Planet (Credits)",
+      "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -999,6 +999,26 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
         "name": "thieves",
         "url": "https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7"
       },
@@ -1027,26 +1047,6 @@
       "duration_ms": 384589,
       "name": "Evening Mood",
       "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
-      },
-      "artists": [
-        {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
-        }
-      ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "love is not the poison",
-        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 318447,
-      "name": "love is not the poison",
-      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "Sur La Terre",
         "url": "https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 196331,
       "name": "Sur la terre",
       "url": "https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "love is not the poison",
+        "url": "https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 318447,
+      "name": "love is not the poison",
+      "url": "https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
-      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "An Embroidery",
         "url": "https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 249208,
       "name": "An Embroidery",
       "url": "https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
+      "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
     },
     {
       "added_at": "2025-11-18 17:38:22",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-11-18 17:38:22",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
-    },
-    {
-      "added_at": "2025-11-18 17:38:22",
-      "album": {
         "name": "P.O.N",
         "url": "https://open.spotify.com/album/716BZhl3283diYxQJZCSyF"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 174518,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
+    },
+    {
+      "added_at": "2025-11-18 17:38:22",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
       "added_at": "2025-11-18 17:38:22",

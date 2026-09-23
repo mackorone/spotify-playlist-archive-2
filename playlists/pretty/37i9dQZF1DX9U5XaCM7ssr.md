@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9U5XaCM7ssr.md) - [plain]
 
 > Lagu\-lagu sedih yang menyayat hati 😭
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,834 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,781 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/track/0n8UJLCCEu2cF0Zm2luIvn) | [Fajar Noor](https://open.spotify.com/artist/3JQketpX6wbJUNAlOIigJc) | [Tuhan Tahu Kita Saling Cinta](https://open.spotify.com/album/0mz4JRi48KjxAbltvPTZIx) | 4:35 |
-| 2 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu \(Beda\)](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 |
+| 2 | [Jangan Paksa Rindu](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 |
 | 3 | [Teganya Kau](https://open.spotify.com/track/7BVtNEGHh8O2kLyciokFyl) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Teganya Kau](https://open.spotify.com/album/2MNxWXky396sx7AEf71fsE) | 3:27 |
 | 4 | [Rabun Jauh](https://open.spotify.com/track/670sqeIKIxTu0DweRjnjKt) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Rabun Jauh](https://open.spotify.com/album/0gD4VL7vdxZfeUkRfTpLRM) | 2:55 |
 | 5 | [Takkan Terulang](https://open.spotify.com/track/52TvMf96O8YsQrmpMMZEzP) | [Vanessa Zee](https://open.spotify.com/artist/6S7ej7e57rN4ZLvdsn8D7g), [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Takkan Terulang](https://open.spotify.com/album/69QQUogmI0SK2GGjMSjEnN) | 3:41 |

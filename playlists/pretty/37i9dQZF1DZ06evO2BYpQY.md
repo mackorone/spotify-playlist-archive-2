@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 
 > This is Sinéad O'Connor\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,867 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,870 likes - 50 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 19 | [Jackie](https://open.spotify.com/track/0dQBgFWsfpZabdgAYIwNsO) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 2:30 |
 | 20 | [The Foggy Dew \(with Sinéad O'Connor\)](https://open.spotify.com/track/61Tfx6zfjRe7XqJSFrXBR3) | [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Essential Chieftains](https://open.spotify.com/album/5Wmh21wtNNPzv7ZxB9Vi8G) | 5:20 |
 | 21 | [Three Babies](https://open.spotify.com/track/0OYiCy0NLnRg8oQ8ppH9Jm) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:43 |
-| 22 | [You Made Me The Thief Of Your Heart](https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [You Made Me The Thief Of Your Heart](https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8) | 6:21 |
-| 23 | [Jealous](https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 4:15 |
-| 24 | [Tears From The Moon](https://open.spotify.com/track/4nBzwUdPBNuKiFfLTeG2sV) | [Conjure One](https://open.spotify.com/artist/5fqgm8SaAvnQYoXnIf4RqU), [Rhys Fulber](https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Conjure One](https://open.spotify.com/album/0oUVb36vRs7xH3M6Gu2OUB) | 4:17 |
+| 22 | [Tears From The Moon](https://open.spotify.com/track/4nBzwUdPBNuKiFfLTeG2sV) | [Conjure One](https://open.spotify.com/artist/5fqgm8SaAvnQYoXnIf4RqU), [Rhys Fulber](https://open.spotify.com/artist/3aswb2tJV8Qys1Xufxn59P), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Conjure One](https://open.spotify.com/album/0oUVb36vRs7xH3M6Gu2OUB) | 4:17 |
+| 23 | [You Made Me The Thief Of Your Heart](https://open.spotify.com/track/6mcbGTts83VjfhhY9zRku1) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [You Made Me The Thief Of Your Heart](https://open.spotify.com/album/0rpPzcZHp4xYSEPKF3JnQ8) | 6:21 |
+| 24 | [Jealous](https://open.spotify.com/track/2nC2C0GNE78vi2v3ZPeJWy) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 4:15 |
 | 25 | [Thank You for Hearing Me](https://open.spotify.com/track/1rMZzXfD89RtfwhuRRNnqx) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Universal Mother](https://open.spotify.com/album/7u20BJTgQrowjyaTEgE46p) | 6:25 |
 | 26 | [This Is to Mother You](https://open.spotify.com/track/60zhgcBTpV7FIxh12ieS8g) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Gospel Oak](https://open.spotify.com/album/1zqzVWxE60FIcXdUOVKviQ) | 3:12 |
 | 27 | [I Want Your \(Hands on Me\)](https://open.spotify.com/track/3FwJ6vxxKhhvet3DM042p9) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [The Lion and the Cobra](https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6) | 4:38 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2BYpQY.md) - [plain]
 | 44 | [Don't Give Up \(feat\. Sinéad O'Connor\)](https://open.spotify.com/track/2mpoL077tfqBaEKZkPUOsM) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Across The Borderline](https://open.spotify.com/album/1muFplXWqYYvymuFr3AExp) | 6:58 |
 | 45 | ['Til I Whisper U Something](https://open.spotify.com/track/3fythc7lktmU8X0mHNC61K) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 6:07 |
 | 46 | [Heroine](https://open.spotify.com/track/4i0bvDu2J8KOOxTzPs5qpc) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1), [The Edge](https://open.spotify.com/artist/1X8wFHJFucBUmBc7spQ4jP), [Steve Lillywhite](https://open.spotify.com/artist/7fGW0xHsS8qa4W9KeHOQqN) | [Captive Original Soundtrack](https://open.spotify.com/album/1QOrpKGCLYMPfXT2mTaEeT) | 4:27 |
-| 47 | [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 |
-| 48 | [Outlander \- The Skye Boat Song \(Revolutionary Version\)](https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Outlander: Season 7 \(Highlights from the Original Television Soundtrack\)](https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn) | 3:35 |
+| 47 | [Sweet Soul Dream](https://open.spotify.com/track/1IQYwIAj7XMrL5ilfyprkd) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Goodbye Jumbo](https://open.spotify.com/album/0NHOAAAuzEglpm88igZi1a) | 4:39 |
+| 48 | [Success Has Made a Failure of Our Home](https://open.spotify.com/track/62iX2QkIqloxz2ottFUq9u) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Am I Not Your Girl?](https://open.spotify.com/album/36G5Yxs26PEzUxSGUiAaIn) | 4:27 |
 | 49 | [Daddy I'm Fine](https://open.spotify.com/track/2pXbqQOVaI70hfUtflWf7c) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Faith and Courage](https://open.spotify.com/album/0ITyzBRmAMnwt8FwtkSu0d) | 2:59 |
-| 50 | [Sweet Soul Dream](https://open.spotify.com/track/1IQYwIAj7XMrL5ilfyprkd) | [World Party](https://open.spotify.com/artist/0THUMJMWUd5L8os9K6O4FE), [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Goodbye Jumbo](https://open.spotify.com/album/0NHOAAAuzEglpm88igZi1a) | 4:39 |
+| 50 | [Outlander \- The Skye Boat Song \(Revolutionary Version\)](https://open.spotify.com/track/4SJAXVw4aJN4oXVc9ASZh0) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Outlander: Season 7 \(Highlights from the Original Television Soundtrack\)](https://open.spotify.com/album/732Keyphs0peCIsZ1zVdFn) | 3:35 |
 
-Snapshot ID: `aq8iAAAAAACCw+bNUTk/e0X4sHo9GKD5`
+Snapshot ID: `arBzgAAAAACAXHp5Mx/o8HkxG5u7j0ke`

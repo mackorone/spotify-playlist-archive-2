@@ -354,7 +354,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 298602,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/0ObFg0ZQ3QgZ1AbJKtZZy9"
@@ -520,7 +520,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 161702,
       "name": "Cadeira Cativa - Ao Vivo",
       "url": "https://open.spotify.com/track/1RWNER261dOJN0u2sp7nVF"
@@ -972,7 +972,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 293376,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/5x2kR0EpPMXF2C8EnPR7kU"
@@ -1208,6 +1208,24 @@
       "duration_ms": 218218,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/6sEtce6qTCrPZQQMGY3nRD"
+    },
+    {
+      "album": {
+        "name": "Hoe Phase",
+        "url": "https://open.spotify.com/album/6SgNkftVF0I2h9htq43emj"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146321,
+      "name": "Hoe Phase",
+      "url": "https://open.spotify.com/track/0lZOAPdD8ljWjPxq14tdFS"
     },
     {
       "album": {
@@ -1372,7 +1390,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 215616,
       "name": "Iris",
       "url": "https://open.spotify.com/track/3ODLb2WTwadkfL3vPWy55q"
@@ -1390,7 +1408,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 146249,
       "name": "It's Me",
       "url": "https://open.spotify.com/track/3cD5mr6KeFMlmgzAWdVZR7"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 267626,
       "name": "Loser",
       "url": "https://open.spotify.com/track/1awPKCucOl2zbghME5IRrW"
@@ -1826,7 +1844,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 255284,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH"
@@ -2115,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Outside Tweaking",
+        "url": "https://open.spotify.com/album/3114CoRmP8aEfkBiOffTE6"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110201,
+      "name": "Outside Tweaking",
+      "url": "https://open.spotify.com/track/2LVWrvvw3IQ9lltdLPeGh3"
+    },
+    {
+      "album": {
         "name": "Pa' Bailar",
         "url": "https://open.spotify.com/album/42ZqoMkyYzh1V2BwLlkmJy"
       },
@@ -2174,6 +2210,28 @@
       "duration_ms": 244210,
       "name": "Party",
       "url": "https://open.spotify.com/track/4zXJTqvQof9avJjyLFSRKU"
+    },
+    {
+      "album": {
+        "name": "PER NOI (feat. Achille Lauro)",
+        "url": "https://open.spotify.com/album/5XqPMDboA2lzQm4UISsi7l"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Achille Lauro",
+          "url": "https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "PER NOI (feat. Achille Lauro)",
+      "url": "https://open.spotify.com/track/2Idsj1LWLzoQMHlf33t6ED"
     },
     {
       "album": {
@@ -2379,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "September",
+        "url": "https://open.spotify.com/album/3tj0qpqlUfzw0dfsBVE1xb"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215125,
+      "name": "September",
+      "url": "https://open.spotify.com/track/1tPwh8Gy7i5ju6ru5pAqNj"
+    },
+    {
+      "album": {
         "name": "Shake It Off",
         "url": "https://open.spotify.com/album/0ybpykKhoW5LltMFxV2ALt"
       },
@@ -2408,7 +2484,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 341290,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5nAEWzFqGYnlU3UWPPRl0e"
@@ -2444,7 +2520,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 186794,
       "name": "Small Town",
       "url": "https://open.spotify.com/track/2JeHeYLij5us2NILMwuq7F"
@@ -2480,7 +2556,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 196928,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
@@ -2722,7 +2798,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: Fred again.., PinkPantheress & CA7RIEL & Paco Amoroso
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,462,942 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,461,884 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 15 | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC) | 3:18 |
 | 16 | [MYSTERY OF RAW](https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg) | [Michael Bibi](https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [MYSTERY OF RAW](https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw) | 3:48 |
 | 17 | [WannaCry](https://open.spotify.com/track/7JW8FRWVCOQDs40IjEXdPi) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [WannaCry](https://open.spotify.com/album/7FLJw9LUKwmtGREi55tWfJ) | 3:39 |
-| 18 | [Essa Ta Quente \(feat\. Skrillex\)](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente \(feat\. Skrillex\)](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
+| 18 | [Essa Ta Quente](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
 | 19 | [Interesting](https://open.spotify.com/track/01WgSIiUUA26qptyfLPx3f) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK) | [Interesting](https://open.spotify.com/album/01btNDT5aKR5bXoySkh18j) | 4:03 |
 | 20 | [No Air](https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [No Air](https://open.spotify.com/album/2VFS1Gyx1f9abu19Nf7kRd) | 3:17 |
 | 21 | [seeing stars](https://open.spotify.com/track/4sVsOR2Gsi42ClWuzB1i9x) | [jigitz](https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ), [venbee](https://open.spotify.com/artist/4UWWa5dKgTLAx8mv6Ju6X1) | [50 ballerinas](https://open.spotify.com/album/6CRw56mCdwUCZsQ92dFU51) | 2:38 |

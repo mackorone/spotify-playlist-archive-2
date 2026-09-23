@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 
 > Good vibes only! Aquí solo hay buena vibra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,949 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,841 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 11 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 |
 | 12 | [LA VILLA](https://open.spotify.com/track/6YkGw5op7PeyP2gmMMMrfJ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [LA VILLA](https://open.spotify.com/album/1XVigPq3MfLv2kDIwWu1tq) | 3:12 |
 | 13 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
-| 14 | [Tú Con Él](https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:49 |
+| 14 | [Papasito](https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:47 |
 | 15 | [Algo Más](https://open.spotify.com/track/2yjo5f6W1xULiT1xDswAdu) | [Boca Paila](https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6) | [Algo Más](https://open.spotify.com/album/14gLmHFqobIVIwsk6gVIlD) | 2:14 |
-| 16 | [Papasito](https://open.spotify.com/track/64zQbQTwu4ppBEfWyhst9t) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:47 |
+| 16 | [Tú Con Él](https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Cosa Nuestra](https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA) | 4:49 |
 | 17 | [En Privado](https://open.spotify.com/track/2SkB7jADnfiWH8qAE9H8cO) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [En Privado](https://open.spotify.com/album/3XWtTmeGfsUMof0HvqvLEc) | 3:19 |
 | 18 | [Sorry Papi](https://open.spotify.com/track/6AM517ngyZ0EDgnkCHXLgk) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Sorry Papi](https://open.spotify.com/album/5OQeebulBcr1SXvtPNkUtk) | 2:50 |
 | 19 | [La Plena \- W Sound 05](https://open.spotify.com/track/6xOEgzkMSZJKz6qtCJsQL5) | [W Sound](https://open.spotify.com/artist/5uwa6tAMMfNbBFIHiI6NV4), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Plena \(W Sound 05\)](https://open.spotify.com/album/6mCCkmAs0Q3RNFD8dp2Pw8) | 2:30 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NRlBOcUOcY.md) - [plain]
 | 88 | [Toda La Semana](https://open.spotify.com/track/3z5DRSkON15pLJ4mHQwhUs) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [CASA](https://open.spotify.com/album/4O7hvaH8dCZsFg1wpTF9Og) | 1:52 |
 | 89 | [AZOLEAO](https://open.spotify.com/track/1o7orLqjr0u5EbTnxsPp4N) | [Zalek](https://open.spotify.com/artist/7wGIP46NCaUDHkLrGyabsE), [Flovv coco](https://open.spotify.com/artist/6IUsZuEhV1j9DsdMnCnleu) | [AZOLEAO](https://open.spotify.com/album/4xiQ2wrEzUeQg8OimLtaEH) | 2:15 |
 | 90 | [Acapulco \(feat\. Fede Vigevani\)](https://open.spotify.com/track/47G2PT16EOFO0EMSGG9hII) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr) | [Acapulco \(feat\. Fede Vigevani\)](https://open.spotify.com/album/0C2CUmnQqPs9iepBZr5v63) | 3:31 |
-| 91 | [I N T E N S I D A D](https://open.spotify.com/track/0h8dF0FcFb8DEz668vlpxZ) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [I N T E N S I D A D](https://open.spotify.com/album/60w9jb6QvamAWBUzY3xYeL) | 2:46 |
-| 92 | [UNA COMO TÚ](https://open.spotify.com/track/5WroykksLsgGGMkjc1rNVP) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [UNA COMO TÚ](https://open.spotify.com/album/0r2l4seULfjhxvH3hOwQlY) | 2:16 |
+| 91 | [UNA COMO TÚ](https://open.spotify.com/track/5WroykksLsgGGMkjc1rNVP) | [Jhay P](https://open.spotify.com/artist/4NGOJedxkGWwkbB5QiSJd1) | [UNA COMO TÚ](https://open.spotify.com/album/0r2l4seULfjhxvH3hOwQlY) | 2:16 |
+| 92 | [I N T E N S I D A D](https://open.spotify.com/track/0h8dF0FcFb8DEz668vlpxZ) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [I N T E N S I D A D](https://open.spotify.com/album/60w9jb6QvamAWBUzY3xYeL) | 2:46 |
 | 93 | [Sagitario](https://open.spotify.com/track/3mnB1sPrhZNqEsywmwqN4E) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Sagitario](https://open.spotify.com/album/5lEYaDSKTg2dvBFf3Cj0vf) | 2:48 |
 | 94 | [Simancongo](https://open.spotify.com/track/1Wj1kChsSgwQp0DXq4ursv) | [Zapapaya](https://open.spotify.com/artist/2qDwLZAEADFu1KEpO3y126), [Son Palenque](https://open.spotify.com/artist/3VyjbWEHPjc9JEXsk6Tk2w), [KSPR](https://open.spotify.com/artist/16VP7T1aDDIbSmVYxonevJ), [Montaigne](https://open.spotify.com/artist/6kzjCLv7yCjBOxwHTX9p47) | [Simancongo](https://open.spotify.com/album/1u7tTBpvuRBC21fpC11ocO) | 3:06 |
 | 95 | [FREE](https://open.spotify.com/track/0BCxiIsehp7HHnvSeQGBJD) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Bamboo](https://open.spotify.com/artist/4Mp4FOTjHHQlFJki4p1lpZ), [Mr\. Vallenato](https://open.spotify.com/artist/4u599RTtgzxHtNRT2z26va) | [Janney](https://open.spotify.com/album/25X59yD47dtzAAq6bzXliA) | 2:45 |

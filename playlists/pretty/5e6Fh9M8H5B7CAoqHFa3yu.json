@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 355,
+  "num_followers": 356,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALTQRa+GJht6juJKQ4mb5Hv3c6Fwwv",
+  "snapshot_id": "AAALUBYl0081GScfRIyNgZKKc+VivGks",
   "tracks": [
     {
       "added_at": "2026-09-20 13:23:29",
@@ -44811,6 +44811,58 @@
       "duration_ms": 146470,
       "name": "Alles Okay",
       "url": "https://open.spotify.com/track/04WUfyc04zu4Jvn39b0OUZ"
+    },
+    {
+      "added_at": "2026-09-22 12:23:23",
+      "album": {
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/34yPdiRKsRcq4SDmfdSFv1"
+      },
+      "artists": [
+        {
+          "name": "Mr Ludwik",
+          "url": "https://open.spotify.com/artist/2EQ1ue9aPklRwKhAkUYmJd"
+        },
+        {
+          "name": "Big Reunion",
+          "url": "https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls"
+        }
+      ],
+      "duration_ms": 161311,
+      "name": "In The Club - Big Reunion Remix Edit",
+      "url": "https://open.spotify.com/track/4WvH5Yol94s0pynxe208xa"
+    },
+    {
+      "added_at": "2026-09-22 13:13:28",
+      "album": {
+        "name": "Through Fire",
+        "url": "https://open.spotify.com/album/3MeADmLuVVANZ7ymuqag1r"
+      },
+      "artists": [
+        {
+          "name": "Ghosther",
+          "url": "https://open.spotify.com/artist/5BgILNlqsXzjC59uCR0sKK"
+        }
+      ],
+      "duration_ms": 275320,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/6N57S50JyGCwhbDxoYf4BS"
+    },
+    {
+      "added_at": "2026-09-22 23:04:46",
+      "album": {
+        "name": "Alisten La Garganta",
+        "url": "https://open.spotify.com/album/3km1cfhzdHGjE2nlFiTkzL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Iriarte",
+          "url": "https://open.spotify.com/artist/3Mzy71hae4iIELXAZ4qh7O"
+        }
+      ],
+      "duration_ms": 194991,
+      "name": "Alisten La Garganta",
+      "url": "https://open.spotify.com/track/3TjHCjWbB1szPTwWwPvWMd"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

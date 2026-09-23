@@ -1,6 +1,6 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 681057,
+  "num_followers": 681034,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-11-12 16:18:09",
       "album": {
+        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
+        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "Blame It on the Boom Boom",
+      "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
+    },
+    {
+      "added_at": "2024-11-12 16:18:09",
+      "album": {
         "name": "Hot Space (2011 Remaster)",
         "url": "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 248440,
       "name": "Under Pressure - Remastered 2011",
       "url": "https://open.spotify.com/track/2fuCquhmrzHpu5xcA1ci9x"
-    },
-    {
-      "added_at": "2024-11-12 16:18:09",
-      "album": {
-        "name": "Between the Devil & the Deep Blue Sea (Special Edition)",
-        "url": "https://open.spotify.com/album/5VppVyy751PTQWrfJbrJ4H"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 189133,
-      "name": "Blame It on the Boom Boom",
-      "url": "https://open.spotify.com/track/58VTMFtsoe0E0vSX1pV03h"
     },
     {
       "added_at": "2024-11-12 16:18:09",

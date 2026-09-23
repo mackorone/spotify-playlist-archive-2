@@ -1,6 +1,6 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 693912,
+  "num_followers": 693931,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Hysteria (Super Deluxe)",
-        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 346960,
-      "name": "Love Bites - Remastered 2017",
-      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Marc Cohn",
         "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 252613,
       "name": "Walking in Memphis",
       "url": "https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Hysteria (Super Deluxe)",
+        "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 346960,
+      "name": "Love Bites - Remastered 2017",
+      "url": "https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "The Long Run (2013 Remaster)",
         "url": "https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 295049,
       "name": "I Can't Tell You Why - 2013 Remaster",
       "url": "https://open.spotify.com/track/02BsTeJE4q5gWOTt58ur5U"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2023-04-11 13:31:58",

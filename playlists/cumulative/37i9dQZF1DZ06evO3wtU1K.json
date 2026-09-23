@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 366360,
       "name": "Love You Forever - Live",
       "url": "https://open.spotify.com/track/60D2WPkJJy2bl9FIscd5vb"
@@ -2240,6 +2240,24 @@
       "duration_ms": 296715,
       "name": "The Church I Grew Up In - Live",
       "url": "https://open.spotify.com/track/1qbE7mV02uhmzGOTwcL6SM"
+    },
+    {
+      "album": {
+        "name": "Tasha Unscripted",
+        "url": "https://open.spotify.com/album/6L1U8qma9G36efdBtGja86"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130272,
+      "name": "The Grace Talk",
+      "url": "https://open.spotify.com/track/2hJl7eUoDtCyiOpNpDGqY4"
     },
     {
       "album": {

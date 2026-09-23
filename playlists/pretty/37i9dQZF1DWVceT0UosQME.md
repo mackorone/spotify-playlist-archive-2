@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 
 > instrumental study beats for deep focus and concentration\. lock in, max productivity 📚 🎧 u got this!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,386 likes - 90 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,385 likes - 90 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 3 | [palm of my hand](https://open.spotify.com/track/4Pja7k6BaxssHuY8rVkNSP) | [Westover Denver](https://open.spotify.com/artist/4FKBvzCwLOXSdWN6nVAqIs) | [palm of my hand](https://open.spotify.com/album/2DYAlElwuy083dyVD70TQa) | 2:24 |
 | 4 | [Arcticano](https://open.spotify.com/track/1HnTdU1vPXRKFfHHKt1cOR) | [Fracta Aurea](https://open.spotify.com/artist/6IfjthXfdys0smRoO7rBGL) | [Arcticano](https://open.spotify.com/album/3JLxWSqzrADdJNY8A17u8V) | 2:44 |
 | 5 | [Somatic](https://open.spotify.com/track/6Ooi31jQLGC36biDAYfL2F) | [Earium](https://open.spotify.com/artist/2zoujD3saJt6zYDh6Wu1Uq) | [Somatic](https://open.spotify.com/album/5vE0CpH25DEKrEuKjTI4PU) | 2:04 |
-| 6 | [Low](https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Low](https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke) | 2:29 |
-| 7 | [Flave](https://open.spotify.com/track/69AT3zGrT8dl2hSQPActta) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Flave](https://open.spotify.com/album/6OsJChadFmEpixefGaA6uw) | 2:00 |
+| 6 | [Flave](https://open.spotify.com/track/69AT3zGrT8dl2hSQPActta) | [weightless minutes](https://open.spotify.com/artist/1ON2jPvqUgtNXlVhyIaupN) | [Flave](https://open.spotify.com/album/6OsJChadFmEpixefGaA6uw) | 2:00 |
+| 7 | [Low](https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Low](https://open.spotify.com/album/39ayVNMnZmFUBJF0mC69ke) | 2:29 |
 | 8 | [After Hours](https://open.spotify.com/track/54Q1fME5hhgFWipi1SkTtU) | [Gooee](https://open.spotify.com/artist/3dRsGVKzOLszqIM2I9Xhtf) | [After Hours](https://open.spotify.com/album/5v2UDMEhWTqNnwdTYdQXyI) | 2:03 |
 | 9 | [Charly](https://open.spotify.com/track/17zajmB2gnQiCPx20NPBRl) | [nurse noir](https://open.spotify.com/artist/3d777CYj1CxUWukg7Btbxm) | [Charly](https://open.spotify.com/album/1VBh4Dcp8rnrmmzhk5xwDD) | 2:19 |
 | 10 | [less\-than\-flattering](https://open.spotify.com/track/7ay42oCBar4ZtjwlvqyKyt) | [Slow Bounce](https://open.spotify.com/artist/6M8SiopuBvx9go6myWNjfS) | [less\-than\-flattering](https://open.spotify.com/album/1ETVGZXDwls6QNfhhil7aj) | 2:07 |
 | 11 | [Lush](https://open.spotify.com/track/5pbMjvDEHdFVRkxjNeaUFu) | [Cal Credence](https://open.spotify.com/artist/0T64wysQFvIl2GXHa1XRY7) | [Lush](https://open.spotify.com/album/1jlHR4iZJzzw25bVjRBG5P) | 2:27 |
 | 12 | [Flower Kingdom](https://open.spotify.com/track/1s8hwjA2u5dOpU0SEoxDxz) | [Mossdeep](https://open.spotify.com/artist/1IqNg7gE9Y22t5BOuBew1A) | [Flower Kingdom](https://open.spotify.com/album/0ZyDmjkemTFFIGrlenJiiV) | 2:08 |
 | 13 | [if you do](https://open.spotify.com/track/5R4nEl8XfFBPS2kxk5KOgi) | [loutwo](https://open.spotify.com/artist/0GkUiuixKRnwTkGaJfEmkf) | [if you do](https://open.spotify.com/album/7anJkBjZABHWT2cSru4sBw) | 2:30 |
-| 14 | [my own practice](https://open.spotify.com/track/1vM9obDatOvogSVdo1hxDR) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [my own practice](https://open.spotify.com/album/2jR5TfovSo1aUGyPFlBIbe) | 2:12 |
-| 15 | [Gentle Shore](https://open.spotify.com/track/4XPCGhCvkLHjByEVsWNdY6) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Gentle Shore](https://open.spotify.com/album/7r9en8Xo1JxfJQu92R2C6D) | 2:15 |
-| 16 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 |
+| 14 | [Gentle Shore](https://open.spotify.com/track/4XPCGhCvkLHjByEVsWNdY6) | [lilhugz](https://open.spotify.com/artist/3MjTMOiHklTmUksExsbTwq) | [Gentle Shore](https://open.spotify.com/album/7r9en8Xo1JxfJQu92R2C6D) | 2:15 |
+| 15 | [yo!](https://open.spotify.com/track/76Bwn0o3omms1v8BmIryYL) | [H I K E](https://open.spotify.com/artist/2dPdr5fuXY0sCOImew2UjM) | [yo!](https://open.spotify.com/album/3Ud214zFe6QW4agzbC0UnK) | 2:00 |
+| 16 | [my own practice](https://open.spotify.com/track/1vM9obDatOvogSVdo1hxDR) | [hoodeeny](https://open.spotify.com/artist/7BCtXoU5pnFzU38zvpl6Cg) | [my own practice](https://open.spotify.com/album/2jR5TfovSo1aUGyPFlBIbe) | 2:12 |
 | 17 | [another time, another place](https://open.spotify.com/track/6A0Nu9iDYTjeCVXCm2fplq) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [another time, another place](https://open.spotify.com/album/4dWPNuUqkN1yPICPJFFFTi) | 2:45 |
 | 18 | [Shifting Sands](https://open.spotify.com/track/4oikNLzA8VDnsEXrsiHQA9) | [G:sson](https://open.spotify.com/artist/6CrxpBxPlsZeW6Ss9mgoU8) | [Shifting Sands](https://open.spotify.com/album/3gEyvquozZ9YafoVW5Xlq2) | 2:27 |
 | 19 | [Stones](https://open.spotify.com/track/1EDesWUrHjghCMZb0jjbS3) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Stones](https://open.spotify.com/album/5PUftgP7uBfDuHrkzer3vV) | 2:17 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVceT0UosQME.md) - [plain]
 | 27 | [spring is coming](https://open.spotify.com/track/3S0NnkTIk3LbDoL8dUY1Tc) | [jaackson](https://open.spotify.com/artist/1Mvzmc04DfxzjMsV6oCohI) | [spring is coming](https://open.spotify.com/album/73luBiXIl3X7Gi3m1zskU7) | 3:12 |
 | 28 | [Forgotten Dreams](https://open.spotify.com/track/1YjAqVamDxZouwyHBfsap3) | [Holy Jamie](https://open.spotify.com/artist/0GM7yT54YHIyH0bXYCzD9u) | [Forgotten Dreams](https://open.spotify.com/album/0sZbZJCsTpcQSYwmTeGyyy) | 2:00 |
 | 29 | [True Crimes](https://open.spotify.com/track/1Xom95weqXElNvdHoAxuSi) | [Afterglow Vista](https://open.spotify.com/artist/5P1bMI2zcAiTHY0flVqDvR) | [True Crimes](https://open.spotify.com/album/1WguboHSQgsMGzoQ66Y8Ds) | 2:11 |
-| 30 | [Cozy Vinylesque](https://open.spotify.com/track/4JVpk5H3oHWR55l1etHslh) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Cozy Vinylesque](https://open.spotify.com/album/4lIGVP2TKRTKycSpdTOIoH) | 3:14 |
-| 31 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 |
+| 30 | [signs of winter](https://open.spotify.com/track/2zXSjswUO8K1kcO2h3wHvk) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [signs of winter](https://open.spotify.com/album/3r4lcISMEbY0VEQj1Tn6O6) | 2:05 |
+| 31 | [Cozy Vinylesque](https://open.spotify.com/track/4JVpk5H3oHWR55l1etHslh) | [ax am](https://open.spotify.com/artist/1aYBi1snyye9aYO5Vs3OTO) | [Cozy Vinylesque](https://open.spotify.com/album/4lIGVP2TKRTKycSpdTOIoH) | 3:14 |
 | 32 | [clouded](https://open.spotify.com/track/02yaLWrbBD6rjztw6b0cLL) | [ffoorreesstt](https://open.spotify.com/artist/7kR8pcIkkacGIHGiw8kNej) | [clouded](https://open.spotify.com/album/7mIPhNXOSRMWkqCwVPpuuE) | 2:37 |
 | 33 | [Serene](https://open.spotify.com/track/6rRqi5PccEj7r6fMry7kZG) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Serene](https://open.spotify.com/album/0qF8lclwLcRP36Guf9VvWc) | 2:19 |
 | 34 | [Beauty](https://open.spotify.com/track/5qVYvn1qfR6oIsV2O3WgxN) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Beauty](https://open.spotify.com/album/5H5LBXcN86oigxMAyVZAKE) | 1:51 |

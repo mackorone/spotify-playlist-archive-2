@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 635472,
+  "num_followers": 635521,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADJVLFuMBPSdVAzfHufJza0",
+  "snapshot_id": "arBzgAAAAAAj108CUZVcTxLKYarF43xs",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 264215,
-      "name": "IF YOU",
-      "url": "https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn"
+      "duration_ms": 219370,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 219370,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/2vzn8usBcuNL93DnTjEK0z"
+      "duration_ms": 264215,
+      "name": "IF YOU",
+      "url": "https://open.spotify.com/track/4kaY4LbdbomICC25gYGGtn"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
+        "name": "ALIVE",
+        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 253240,
-      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
-      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
+      "duration_ms": 222989,
+      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
+      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALIVE",
-        "url": "https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M"
+        "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+        "url": "https://open.spotify.com/album/35kyS8D51cS1mVqWMbLNIr"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
         }
       ],
-      "duration_ms": 222989,
-      "name": "Wings (\ub0a0\uac1c) [Daesung Solo]",
-      "url": "https://open.spotify.com/track/0VpEWyA1qlKP9XkQ6f4mWB"
+      "duration_ms": 253240,
+      "name": "\u58f0\u3092\u304d\u304b\u305b\u3066",
+      "url": "https://open.spotify.com/track/3A6XBzAollv1Yi7dl53141"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hot Issue",
+        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BigBang First Single",
         "url": "https://open.spotify.com/album/3nfvdW6RJSRkIGcqy1wJ8K"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 222186,
       "name": "Ain't No Fun (\uc7ac\ubbf8\uc5c6\uc5b4)",
       "url": "https://open.spotify.com/track/4ay2yecNFJtNuPOVojzHEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hot Issue",
-        "url": "https://open.spotify.com/album/4qpzzLtl5ksEnhryRUrNQC"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/0K1bxe733BFc74jk4g59ED"
     },
     {
       "added_at": null,

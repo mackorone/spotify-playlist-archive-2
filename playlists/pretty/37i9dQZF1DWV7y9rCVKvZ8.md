@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 
 > Jadi lebih produktif ditemani musik terkini
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,526 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,541 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV7y9rCVKvZ8.md) - [plain]
 | 37 | [Ada titik\-titik di ujung doa](https://open.spotify.com/track/1E7zLPDdqo0OvzVmGj5aoV) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 5:05 |
 | 38 | [Mangu](https://open.spotify.com/track/4e6TmHCC4PRUj75knNplNP) | [Fourtwnty](https://open.spotify.com/artist/46cVq2dwPgzPE3X1VR9TMj), [Charita Utami](https://open.spotify.com/artist/48yQuRfvklyupKmridU1du) | [Nalar](https://open.spotify.com/album/6XVW3zoK1nmskW7drvHy9h) | 4:21 |
 | 39 | [everything u are](https://open.spotify.com/track/5WOSNVChcadlsCRiqXE45K) | [Hindia](https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12) | [Doves, '25 on Blank Canvas](https://open.spotify.com/album/6HiRRMXgflIyrpjCiPW8rU) | 3:56 |
-| 40 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/79tbBuciPV221EozY3RKQv) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Resonance](https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4) | 4:05 |
+| 40 | [Jangan Paksa Rindu](https://open.spotify.com/track/79tbBuciPV221EozY3RKQv) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Resonance](https://open.spotify.com/album/6jWnV7LM5NukPD79MiXBj4) | 4:05 |
 | 41 | [Menerima Luka](https://open.spotify.com/track/6Twf2B2IGXAN0YDJeTxkt2) | [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Menerima Luka](https://open.spotify.com/album/7vXq8kRSMngRUfSTUty19Q) | 3:48 |
 | 42 | [Masa ini, Nanti, dan Masa Indah Lainnya](https://open.spotify.com/track/3TTZfjYqhTowNALncAmY5v) | [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [EUNOIA](https://open.spotify.com/album/5J7ECDbg73rsPAWsvfulHB) | 4:35 |
 | 43 | [Ada](https://open.spotify.com/track/433HBH3VLOTKK5JvqJSU7K) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [ADS](https://open.spotify.com/album/71d8F1HiKgtRmt1K6ofOCX) | 3:22 |

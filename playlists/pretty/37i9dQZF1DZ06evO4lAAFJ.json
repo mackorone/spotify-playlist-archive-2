@@ -1,12 +1,12 @@
 {
   "description": "This is ROSAL\u00cdA. The essential tracks, all in one playlist.",
-  "num_followers": 699774,
+  "num_followers": 699804,
   "original_name": "This Is ROSAL\u00cdA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADvTj0jsBF5wC4J43fIq1Yq",
+  "snapshot_id": "arBzgAAAAADnmbqZHOj9NB4w73HpuGLb",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mal Querer",
-        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 162376,
-      "name": "DI MI NOMBRE - Cap.8: \u00c9xtasis",
-      "url": "https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 227401,
       "name": "KLK",
       "url": "https://open.spotify.com/track/2ZFu40Ik8VsUE9H87W0MmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mal Querer",
+        "url": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 162376,
+      "name": "DI MI NOMBRE - Cap.8: \u00c9xtasis",
+      "url": "https://open.spotify.com/track/2Sfl7odHUmG7qc8SbqUyzE"
     },
     {
       "added_at": null,
@@ -635,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Linda",
-        "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 144018,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/4E8puNI8tw7cXz6YJkwMew"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 203464,
       "name": "Lo Vas A Olvidar (with ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/0psS4i5YooJrXfDnGvWRLi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Linda",
+        "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 144018,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/1ahCrpeTt94LL7y1aXw0Y8"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,406 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,407 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 33 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
 | 34 | [Sandusky](https://open.spotify.com/track/0rib9hiYy1NWL0w8BUYgmd) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [March 16\-20, 1992](https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp) | 3:43 |
 | 35 | [Car Wheels On A Gravel Road](https://open.spotify.com/track/5rUqENE7bmNffBbZDhVBty) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Car Wheels On A Gravel Road](https://open.spotify.com/album/3iC6dJobZulVXp0F4Bojig) | 4:44 |
-| 36 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
-| 37 | [Conversation With The Devil](https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Crusades Of The Restless Knights](https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU) | 4:54 |
+| 36 | [Conversation With The Devil](https://open.spotify.com/track/2nww8CKg1BqCh6Eyr6sr6m) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [Crusades Of The Restless Knights](https://open.spotify.com/album/1WyEuAoHbMBPvyr7bi3EgU) | 4:54 |
+| 37 | [Feel Alright](https://open.spotify.com/track/7fF6Af2M3vL4IUtE8cMy6G) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [I Feel Alright](https://open.spotify.com/album/1CEAVKLVVaCoKyEoVVr8Bh) | 2:56 |
 | 38 | [Traveling Alone](https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk) | [Tift Merritt](https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z) | [Traveling Alone](https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R) | 4:44 |
 | 39 | [New Madrid](https://open.spotify.com/track/4Ssgx7QJr0fzabt4D4JZ1b) | [Uncle Tupelo](https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc) | [Anodyne](https://open.spotify.com/album/5DQRAlGAFTpHsXGEg5zw9V) | 3:31 |
 | 40 | [New Orleans](https://open.spotify.com/track/30DrekKEh1G4jBkQlEfKQl) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Palomino](https://open.spotify.com/album/4a1gvrakHL6eEm4P86AUiR) | 3:31 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 72 | [Whiskey Angel](https://open.spotify.com/track/3Z1BWdwfiXnmLdnNBfRv9u) | [The Black Lillies](https://open.spotify.com/artist/06Y4yJmsrlzPrwIG46ce7X) | [Whiskey Angel](https://open.spotify.com/album/5c6mKZXRDC5vCKqVTpU9kf) | 4:52 |
 | 73 | [I'm Over You](https://open.spotify.com/track/3QcdXZVpVqc1D5ZdrNBshK) | [The Silos](https://open.spotify.com/artist/4CvAzkeYfFG9DbZ4rCRzih) | [The Silos \(Bonus Track Version\)](https://open.spotify.com/album/4fjTfbiZfqOPtkcuvucevg) | 4:58 |
 | 74 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
-| 75 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 |
+| 75 | [Walk Through The Fire](https://open.spotify.com/track/4waV8mpuoXeZqvWch7Cl95) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Filth & Fire](https://open.spotify.com/album/1TXlWspn7oQGH0FDMOE2M0) | 4:38 |
 
 Snapshot ID: `AAAAAAh9YOQfMNdv0uMZwxkyL0dwv4g3`

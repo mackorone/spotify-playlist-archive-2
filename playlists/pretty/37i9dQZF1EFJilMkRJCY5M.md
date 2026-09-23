@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 96 | [I Don't Wanna Know](https://open.spotify.com/track/6zos5IEbqa0cTuJfb2jOQE) | [Jaycee Grace Connolly](https://open.spotify.com/artist/5rydSiv6N3eXbZYIHAAf5d) | [I Don't Wanna Know](https://open.spotify.com/album/5Een1BOqoOeOKJ5V1QKNsO) | 2:56 |
 | 97 | [Getaway](https://open.spotify.com/track/4WXOMShFoM0V05dDSC5dkR) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Getaway](https://open.spotify.com/album/0hxe8OBCWXDjgCfTCUjm1p) | 3:27 |
 | 98 | [Down the Road](https://open.spotify.com/track/23S4rMy1m1KE5AISVFY4cY) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Down the Road](https://open.spotify.com/album/1lFfsAuSrkHRIaLfv3NFT4) | 3:13 |
-| 99 | [Where the Cowboys Ride](https://open.spotify.com/track/7sGNBMpZJm77YoaBs5e2cg) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Bridges](https://open.spotify.com/album/2UMHfMc5EN5y6DyMDS4kQr) | 3:07 |
-| 100 | [Borrow Tomorrow](https://open.spotify.com/track/7ECi07OWAnkpfxTMvLA1u8) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:21 |
+| 99 | [Borrow Tomorrow](https://open.spotify.com/track/7ECi07OWAnkpfxTMvLA1u8) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [MMO3](https://open.spotify.com/album/5abZMIJpQhvzz9Xaax6aXZ) | 3:21 |
+| 100 | [Where the Cowboys Ride](https://open.spotify.com/track/7sGNBMpZJm77YoaBs5e2cg) | [Jo Dee Messina](https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3) | [Bridges](https://open.spotify.com/album/2UMHfMc5EN5y6DyMDS4kQr) | 3:07 |
 | 101 | [Too Good](https://open.spotify.com/track/10O0IDtXxKqWh99trwm83p) | [Sarahbeth Taite](https://open.spotify.com/artist/6iCtgvVXPJTVGGUfVzztN0) | [For My Own Good](https://open.spotify.com/album/42zUazIJf9BUVdN66V0Bx3) | 3:06 |
 | 102 | [Future History](https://open.spotify.com/track/0mjx0wo5jbVjfbds3kRlOQ) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [Jack Newsome](https://open.spotify.com/artist/0JWzjpVD9Y6AJKIEg1JkYj) | [Future History](https://open.spotify.com/album/4EHgSyCfTca6SDVBr2G2HV) | 3:14 |
 | 103 | [Lemonade](https://open.spotify.com/track/4LZAmygVtCeHBw7YYHGd9y) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Lemonade](https://open.spotify.com/album/4neiwFOPRfS89VoQ0BusHw) | 2:44 |
@@ -148,4 +148,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 138 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 | 139 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 
-Snapshot ID: `Acc7nAAAAACThnIuPfbnuRSsn+W5qJK5`
+Snapshot ID: `AcdBUAAAAADt5hkOjZ5xhJ8GRXiNF4ar`

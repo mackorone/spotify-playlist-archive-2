@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Árbol de Ojos
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,767 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,746 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 49 | [Estallados](https://open.spotify.com/track/3FO2k1oUkFBsU63BqVIGRS) | [Los Niños Telepaticos](https://open.spotify.com/artist/2XrYe0zAKNrysuK1IuatTU) | [Estallados](https://open.spotify.com/album/0bKbPtDXlXn07olVlaIAnr) | 4:30 |
 | 50 | [El Silencio](https://open.spotify.com/track/1C6NglWjiovt1lUrITZEIo) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [El Silencio](https://open.spotify.com/album/7oMs3PmmJsccmhFWImH8wE) | 5:40 |
 | 51 | [Dallas](https://open.spotify.com/track/5gWDL9ifXbf7InGMldaWOm) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Dallas](https://open.spotify.com/album/50IXZEy0pidYPuFaGAfpOI) | 3:46 |
-| 52 | [Madre Tierra](https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Sebastián Panesso](https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf) | [Madre Tierra](https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF) | 3:32 |
+| 52 | [Todo Se Olvida](https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj) | [Todo Se Olvida](https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU) | 4:32 |
 | 53 | [Puede Que](https://open.spotify.com/track/0TOo2kjs8fOhRQYl5OvjXv) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Puede Que](https://open.spotify.com/album/33GOVpEps8cyXvauikKcmw) | 4:51 |
-| 54 | [Todo Se Olvida](https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg) | [Arrabalero](https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj) | [Todo Se Olvida](https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU) | 4:32 |
+| 54 | [Madre Tierra](https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Sebastián Panesso](https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf) | [Madre Tierra](https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF) | 3:32 |
 | 55 | [Diciembre](https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [Diciembre](https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt) | 4:38 |
 | 56 | [A](https://open.spotify.com/track/1w3ugvDFuehxgikUeMEzvj) | [The Kitsch](https://open.spotify.com/artist/68ECO3f0iAoqQVsrxlqyK2) | [Los Kitsch de Colombia Presentan: 1/3](https://open.spotify.com/album/0kreldoAH0WRvsLX1YVGrQ) | 2:35 |
-| 57 | [Corriente](https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Juan Amaya](https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu) | [Corriente](https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY) | 5:01 |
-| 58 | [INFECTOS](https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk) | [Perros de Reserva](https://open.spotify.com/artist/74jRYbi35m8O9hOKlGx0ba), [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [INFECTOS](https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr) | 2:54 |
-| 59 | [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 |
+| 57 | [INFECTOS](https://open.spotify.com/track/1qj8rfBVk1zIcM1Yq08agk) | [Perros de Reserva](https://open.spotify.com/artist/74jRYbi35m8O9hOKlGx0ba), [Pornomotora](https://open.spotify.com/artist/14SXRis11vJfEIdzqqV6a5) | [INFECTOS](https://open.spotify.com/album/7n0NxieCFnU2SkHVBiAlIr) | 2:54 |
+| 58 | [Recorrer el Mundo](https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Recorrer el Mundo](https://open.spotify.com/album/2H4P2Z1NJLy12k8WvrjSjw) | 2:58 |
+| 59 | [Corriente](https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l) | [La Sociedad de La Sombrilla](https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk), [Juan Amaya](https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu) | [Corriente](https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY) | 5:01 |
 | 60 | [Cherokee](https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z) | [La Ramona](https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW) | [Cherokee](https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx) | 3:51 |
 
 Snapshot ID: `AAAAABaSCJQao7is8MFg/lePrS/c9qP+`

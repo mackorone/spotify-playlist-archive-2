@@ -1,6 +1,6 @@
 {
   "description": "Your personalized GTA radio station",
-  "num_followers": 745619,
+  "num_followers": 745802,
   "original_name": "Grand Theft Auto Radio",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 215133,
-      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
-      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Se Me Nota (Agarrame)",
         "url": "https://open.spotify.com/album/00mQxAKvOHizdj5yoK6iMj"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 175999,
       "name": "Se Me Nota (Agarrame) - Prod by B-One",
       "url": "https://open.spotify.com/track/17skcqaIwMeidP4Q70Weiu"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 215133,
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Verities & Balderdash",
-        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
-      },
-      "artists": [
-        {
-          "name": "Harry Chapin",
-          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
-        }
-      ],
-      "duration_ms": 222951,
-      "name": "Cat's in the Cradle",
-      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 163902,
       "name": "Flex (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2QqJTIlGKRLJC3onkavYEz"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Verities & Balderdash",
+        "url": "https://open.spotify.com/album/3nta4nhqWoWjc6LmHIB0kT"
+      },
+      "artists": [
+        {
+          "name": "Harry Chapin",
+          "url": "https://open.spotify.com/artist/42q4Ivs7tAiCZ5C7eG5q4c"
+        }
+      ],
+      "duration_ms": 222951,
+      "name": "Cat's in the Cradle",
+      "url": "https://open.spotify.com/track/2obblQ6tcePeOEVJV6nEGD"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
-      },
-      "artists": [
-        {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
-        }
-      ],
-      "duration_ms": 238760,
-      "name": "1 Thing",
-      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Some Great Reward (Deluxe)",
         "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 231973,
       "name": "People Are People",
       "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 238760,
+      "name": "1 Thing",
+      "url": "https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
-      },
-      "artists": [
-        {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "Pachuco",
-      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "KiCk i",
         "url": "https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr"
       },
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "The Show, The After Party, The Hotel",
-        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
       "artists": [
         {
-          "name": "Jodeci",
-          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
         }
       ],
-      "duration_ms": 379240,
-      "name": "Freek'n You",
-      "url": "https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ"
+      "duration_ms": 194200,
+      "name": "Pachuco",
+      "url": "https://open.spotify.com/track/5ovYwJmYcFvSvn6nRQOPyL"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "How Could It Be",
-        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
+        "name": "The Show, The After Party, The Hotel",
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz"
       },
       "artists": [
         {
-          "name": "Eddie Murphy",
-          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Party All the Time",
-      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
+      "duration_ms": 379240,
+      "name": "Freek'n You",
+      "url": "https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1683,6 +1667,22 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
+        "name": "How Could It Be",
+        "url": "https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5"
+      },
+      "artists": [
+        {
+          "name": "Eddie Murphy",
+          "url": "https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Party All the Time",
+      "url": "https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
         "name": "A Rock And Roll Alternative",
         "url": "https://open.spotify.com/album/5vC0MxBXL4i9iowdXSx4yO"
       },
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-      },
-      "artists": [
-        {
-          "name": "Climie Fisher",
-          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Love Changes (Everything)",
-      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "The Spice Of Life",
         "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
       },
@@ -1727,6 +1711,22 @@
       "duration_ms": 177226,
       "name": "California Soul",
       "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
+      },
+      "artists": [
+        {
+          "name": "Climie Fisher",
+          "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
+        }
+      ],
+      "duration_ms": 268186,
+      "name": "Love Changes (Everything)",
+      "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
     }
   ],
   "unique_name": "Grand Theft Auto Radio",

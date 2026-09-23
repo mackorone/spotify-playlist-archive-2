@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 
 > This is Kittie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,695 likes - 44 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,694 likes - 44 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 22 | [Loveless](https://open.spotify.com/track/2NAa2OHG4Jk0P3XmH0UsjJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 2:08 |
 | 23 | [Vultures](https://open.spotify.com/track/1oovkcMNHgaHePdLk5ShuV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Fire](https://open.spotify.com/album/4EbO8Gm17SmOY3vS9Rqhsu) | 3:18 |
 | 24 | [Pain](https://open.spotify.com/track/54y5nUFqtxTan8dQHkImL9) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Oracle](https://open.spotify.com/album/2gvntE2fsMMbMXNxIOnBsD) | 3:49 |
-| 25 | [Charlotte XXV](https://open.spotify.com/track/4zxlavFPfVahz5Rj5l9cU8) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 4:13 |
+| 25 | [The Unforgiven \- From 'Queen of the Ring \- Music From The Motion Picture'](https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG) | [The Unforgiven \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0) | 5:52 |
 | 26 | [Until the End](https://open.spotify.com/track/0ZVPBe1MWTQr2nIL2apfaN) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 4:13 |
-| 27 | [The Unforgiven \- From 'Queen of the Ring \- Music From The Motion Picture'](https://open.spotify.com/track/3bc7LPNim8eNC0OYAJk7j1) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW), [The Pretty Wild](https://open.spotify.com/artist/4DJ2QHcDJiDC0Kx1xZ9oNm), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG) | [The Unforgiven \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/0hCMjEG41cy2Ogv5QIQbR0) | 5:52 |
+| 27 | [Charlotte XXV](https://open.spotify.com/track/4zxlavFPfVahz5Rj5l9cU8) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Spit XXV](https://open.spotify.com/album/0WYZiJ2D46evxGdyAJOchS) | 4:13 |
 | 28 | [Die My Darling](https://open.spotify.com/track/5uk5KmlJbMMiCK5DNKHSaM) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 2:46 |
 | 29 | [Funeral For Yesterday](https://open.spotify.com/track/3zX27AEZt8k1FhF0B5WMuv) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:24 |
 | 30 | [Look So Pretty](https://open.spotify.com/track/3mJKYpyiqfftfLmAE5PBIU) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 5:29 |
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mdCc3.md) - [plain]
 | 32 | [My Plague](https://open.spotify.com/track/3Riuyxso4Zj3w1IVUw3waL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:05 |
 | 33 | [Breathe](https://open.spotify.com/track/1iZRyN9aA1pYdD3hqYxNec) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:11 |
 | 34 | [Career Suicide](https://open.spotify.com/track/3M9cWjh494fgexcM1cDWh0) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 3:55 |
-| 35 | [Brackish \- Live](https://open.spotify.com/track/61Scy8gj0GspFOvWy4P7VG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Brackish \(Live\)](https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92) | 2:52 |
+| 35 | [I've Failed You](https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:11 |
 | 36 | [Sleepwalking](https://open.spotify.com/track/2vFREVsyMndmhTfhpckGIB) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:17 |
-| 37 | [I've Failed You](https://open.spotify.com/track/3tywXfJiZmzMmoUXAfzX6j) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:11 |
+| 37 | [Brackish \- Live](https://open.spotify.com/track/61Scy8gj0GspFOvWy4P7VG) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Brackish \(Live\)](https://open.spotify.com/album/3UmIvXt63D8MSdz9AAWI92) | 2:52 |
 | 38 | [Red Flag](https://open.spotify.com/track/35g2e5sApkB9XOocNgdizm) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Until the End](https://open.spotify.com/album/7JH0GlTxHyknSS8qMKBIjZ) | 3:48 |
-| 39 | [Witch Hunt](https://open.spotify.com/track/6C8vQKRucg3uuwA9UKpyh6) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:58 |
+| 39 | [Time Never Heals](https://open.spotify.com/track/012vdVPwJ2GtBaEHIXAPWH) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 4:30 |
 | 40 | [Forgive And Forget](https://open.spotify.com/track/01GIdWkDvSRqSwoZe4VmtL) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:44 |
-| 41 | [Time Never Heals](https://open.spotify.com/track/012vdVPwJ2GtBaEHIXAPWH) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 4:30 |
-| 42 | [Sorrow I Know](https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:30 |
-| 43 | [Ugly](https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:57 |
-| 44 | [Empires \(Part 2\)](https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 3:41 |
+| 41 | [Witch Hunt](https://open.spotify.com/track/6C8vQKRucg3uuwA9UKpyh6) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [Funeral For Yesterday](https://open.spotify.com/album/2POZVzGL52LMZU1xxviAfj) | 3:58 |
+| 42 | [Empires \(Part 2\)](https://open.spotify.com/track/7AseRSsmtc5TkguWR6S84V) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 3:41 |
+| 43 | [Sorrow I Know](https://open.spotify.com/track/3JBAtWrSOO0xPCZNlwMhcV) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [In The Black](https://open.spotify.com/album/2yXPKlNs2R2aGKKZeM2cnC) | 3:30 |
+| 44 | [Ugly](https://open.spotify.com/track/6JFU3Ok65GvMFT2nXoDchJ) | [Kittie](https://open.spotify.com/artist/0ImEDe9tW5n4pxHOK39zIc) | [I've Failed You](https://open.spotify.com/album/3JL2jfDuKBvs6tSyMbH5Nr) | 2:57 |
 
-Snapshot ID: `aq8iAAAAAAAyBRkPGvG74jOVV5dbUZ99`
+Snapshot ID: `arBzgAAAAAAcaOtl2+QzFVVCHAHSEzEY`

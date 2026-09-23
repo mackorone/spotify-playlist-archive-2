@@ -1,12 +1,12 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE Artwork: Joy Yamusangie.",
-  "num_followers": 245255,
+  "num_followers": 245306,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANlEgCrmz0acVufO1tsuc199D1rZ",
+  "snapshot_id": "AAAAAOn+6NOqRLb/agk4SfMiCE89YV1l",
   "tracks": [
     {
       "added_at": "2026-09-02 16:54:55",
@@ -805,22 +805,6 @@
       "url": "https://open.spotify.com/track/7E7p8WNzhxaf3KKR3X8CKk"
     },
     {
-      "added_at": "2026-02-25 19:39:15",
-      "album": {
-        "name": "Beautiful Failure by Sunshine",
-        "url": "https://open.spotify.com/album/0aJxIdqT8ZpUOgk4dyi3wp"
-      },
-      "artists": [
-        {
-          "name": "LOTUS GUITAR",
-          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
-        }
-      ],
-      "duration_ms": 220773,
-      "name": "Beautiful Failure by Sunshine",
-      "url": "https://open.spotify.com/track/0JMoKncKkhr52FeCmphyfl"
-    },
-    {
       "added_at": "2026-02-18 17:47:31",
       "album": {
         "name": "Shoal",
@@ -903,26 +887,6 @@
       "duration_ms": 151000,
       "name": "notte brava",
       "url": "https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m"
-    },
-    {
-      "added_at": "2026-01-14 05:00:01",
-      "album": {
-        "name": "HER NAME WAS YUMI (DELUXE)",
-        "url": "https://open.spotify.com/album/3Glpu99dSGM2bDlKzyHd7L"
-      },
-      "artists": [
-        {
-          "name": "hoshii",
-          "url": "https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ"
-        },
-        {
-          "name": "Kuba Wi\u0119cek",
-          "url": "https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "LOVE THERAPY PT.3",
-      "url": "https://open.spotify.com/track/6MS8pijpGGJLtkmzL1YKyH"
     }
   ],
   "unique_name": "Fresh Finds Jazz",

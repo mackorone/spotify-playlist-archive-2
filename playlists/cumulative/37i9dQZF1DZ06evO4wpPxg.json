@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 314200,
       "name": "How Much We Can Bear - Live",
       "url": "https://open.spotify.com/track/2JaZmjYuKNH5Csf5pIuaE3"
@@ -2828,6 +2828,24 @@
       "duration_ms": 200360,
       "name": "Italian Rag",
       "url": "https://open.spotify.com/track/2qXjGxRs6kxHYXewUjhQbk"
+    },
+    {
+      "album": {
+        "name": "Rev. Gary Davis - The Best of (Live)",
+        "url": "https://open.spotify.com/album/5ZPJN0s0Fp8KR0ZQsaVqNT"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208809,
+      "name": "It\u2019s A Long Way To Tipperary - Live",
+      "url": "https://open.spotify.com/track/33pm3aLpJjSGA2Y48GczMy"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137207,
+  "num_followers": 137197,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -359,22 +359,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "Al\u00f4 Al\u00f4, Como Vai?",
-        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Olha a Pipa",
-      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "Canto Djavan",
         "url": "https://open.spotify.com/album/0SdO0NbcZHqevccyG15jtJ"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 236727,
       "name": "Azul",
       "url": "https://open.spotify.com/track/4P2B8Yc9YcspHNgSDUuwBY"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "Al\u00f4 Al\u00f4, Como Vai?",
+        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Olha a Pipa",
+      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -771,22 +771,6 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "duration_ms": 206312,
-      "name": "Hexagrama 28",
-      "url": "https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
         "name": "A Dan\u00e7a do Mundo",
         "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 202209,
       "name": "Tibeth\u00e2nica",
       "url": "https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 206312,
+      "name": "Hexagrama 28",
+      "url": "https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN"
     },
     {
       "added_at": "2025-12-05 19:00:22",

@@ -10643,6 +10643,24 @@
     },
     {
       "album": {
+        "name": "Endless Summer (The Instrumentals)",
+        "url": "https://open.spotify.com/album/6Ps5rLCGCHuQvLXHnhsW9j"
+      },
+      "artists": [
+        {
+          "name": "The Midnight",
+          "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315855,
+      "name": "Vampires - Instrumental",
+      "url": "https://open.spotify.com/track/1y4b0aF5jQaBUXLbMxVEPE"
+    },
+    {
+      "album": {
         "name": "verdigris",
         "url": "https://open.spotify.com/album/2JhqZovg4706FwFQ8QnL8o"
       },

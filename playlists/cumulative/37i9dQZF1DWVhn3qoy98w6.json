@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: GAMBOA.",
+  "description": "Todos los mi\u00e9rcoles, lo nuevo de la escena independiente espa\u00f1ola. Foto: julia de arco.",
   "name": "Fresh Finds Espa\u00f1a",
   "tracks": [
     {
@@ -4690,7 +4690,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 167295,
       "name": "A63",
       "url": "https://open.spotify.com/track/2WRE7xI1BS8hZQZS9cQjTR"
@@ -9951,6 +9951,24 @@
     },
     {
       "album": {
+        "name": "Furar Hondo",
+        "url": "https://open.spotify.com/album/0oIRdrOnQZv5oLCIKGK6Jy"
+      },
+      "artists": [
+        {
+          "name": "from",
+          "url": "https://open.spotify.com/artist/5JOOLcf9vpeO0Lk5YsHXKU"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Amenaza",
+      "url": "https://open.spotify.com/track/1fxKwKSAEr8MB1XRRqHX2i"
+    },
+    {
+      "album": {
         "name": "N.T.E.R.",
         "url": "https://open.spotify.com/album/70ecBWXCz3aTFKBSkKrdSz"
       },
@@ -14846,7 +14864,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 151521,
       "name": "AUT\u00d3MATA",
       "url": "https://open.spotify.com/track/5oik3K9Zah7EUZkMMRZAim"
@@ -39868,6 +39886,28 @@
       "duration_ms": 203554,
       "name": "Dientes",
       "url": "https://open.spotify.com/track/0iCf9rJ0MmWMeIDvqjeTUz"
+    },
+    {
+      "album": {
+        "name": "dientes",
+        "url": "https://open.spotify.com/album/2BH0nUFeroNVUwz7uhMAwu"
+      },
+      "artists": [
+        {
+          "name": "gazza",
+          "url": "https://open.spotify.com/artist/3TkBIHe8ZsDQLtuAOH5Xee"
+        },
+        {
+          "name": "eduSet",
+          "url": "https://open.spotify.com/artist/6HWBGCuWTszZc11mhKPUkQ"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130212,
+      "name": "dientes",
+      "url": "https://open.spotify.com/track/2WFdRm2KHNwvVOJHzPBawF"
     },
     {
       "album": {
@@ -76381,6 +76421,24 @@
     },
     {
       "album": {
+        "name": "Las cosas que te dir\u00eda",
+        "url": "https://open.spotify.com/album/1GQCQY36YURGyeUpF0qSxc"
+      },
+      "artists": [
+        {
+          "name": "Xenia",
+          "url": "https://open.spotify.com/artist/4A4iJY0b5mySlZkZveuuPR"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184717,
+      "name": "Las cosas que te dir\u00eda",
+      "url": "https://open.spotify.com/track/2RmGyojyaBOkqjJmF1je0F"
+    },
+    {
+      "album": {
         "name": "las flores",
         "url": "https://open.spotify.com/album/0f5L5daU59UkQa9qPiLBsZ"
       },
@@ -78804,7 +78862,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 149021,
       "name": "LLORA",
       "url": "https://open.spotify.com/track/1sHNfLI8XTCC20Wi8YYzBE"
@@ -90607,6 +90665,24 @@
     },
     {
       "album": {
+        "name": "Menos mal - Track 14",
+        "url": "https://open.spotify.com/album/4tNz4LBBTquqN12J21rvdW"
+      },
+      "artists": [
+        {
+          "name": "Alba Reig",
+          "url": "https://open.spotify.com/artist/26U5AD84foleMkGN02zIJ9"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161565,
+      "name": "Menos mal - Track 14",
+      "url": "https://open.spotify.com/track/0Jh2VUwPCEoVSeTXsVXWsD"
+    },
+    {
+      "album": {
         "name": "Menos que un Cigarro",
         "url": "https://open.spotify.com/album/77SdfVZWEFbqpGzBHaAT0g"
       },
@@ -93715,6 +93791,24 @@
     },
     {
       "album": {
+        "name": "Mirar",
+        "url": "https://open.spotify.com/album/6ug1qby4HVJEQrGkwOEqgU"
+      },
+      "artists": [
+        {
+          "name": "Catalina Pocov\u00ed",
+          "url": "https://open.spotify.com/artist/1jv0wpOspqWkPO1sHbdlzk"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147338,
+      "name": "Mirar",
+      "url": "https://open.spotify.com/track/0238pkXlRK45JFg60cMDZb"
+    },
+    {
+      "album": {
         "name": "mirar, no tocar",
         "url": "https://open.spotify.com/album/2ihtefzpxZ4zb4oP7hJaAe"
       },
@@ -95026,6 +95120,24 @@
       "duration_ms": 221269,
       "name": "Monta una banda (Acaba mal)",
       "url": "https://open.spotify.com/track/5OL6M9NDuQGHQYo8K2U6zh"
+    },
+    {
+      "album": {
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/2oOxmvY2FdRF1xXQbu0zwN"
+      },
+      "artists": [
+        {
+          "name": "yes I M",
+          "url": "https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245757,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/4q4pz6XtMI7rZLPNniyhwc"
     },
     {
       "album": {
@@ -142440,7 +142552,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 156036,
       "name": "Te Vi Venir",
       "url": "https://open.spotify.com/track/6O9K4tWQ6f21LXjMnbFnhq"
@@ -153888,7 +154000,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 145125,
       "name": "UY!",
       "url": "https://open.spotify.com/track/2hOKSFNcIFeHqHnzXwFmoV"
@@ -158958,7 +159070,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 272237,
       "name": "Y dime",
       "url": "https://open.spotify.com/track/5lRv65IVIesY4UIVEDAnaj"

@@ -4,7 +4,7 @@
 
 > Az 50 legnépszerűbb dal Magyarországon\. Cover: VINI & Nagy Bogi
 
-257 songs - 12 hr 37 min
+258 songs - 12 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [FEVER DREAM](https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [FEVER DREAM](https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ) | 2:33 | 2026-03-02 | 2026-05-12 |
 | [FLESS](https://open.spotify.com/track/2SYOjGmLH8lGvlE85oNX3Y) | [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [FLESS](https://open.spotify.com/album/261KMZNJIPk6fZnhokAu7U) | 2:50 | 2026-08-24 | 2026-09-15 |
 | [FREY TIMI](https://open.spotify.com/track/0vTNCXwJiPPs5rQ99fz68x) | [L.L\. Junior](https://open.spotify.com/artist/3cG03cMdrtBCrmM0843f9O) | [FREY TIMI](https://open.spotify.com/album/7opLiKvuCVuAkdFMJN2t7k) | 2:35 | 2025-08-19 | 2026-04-01 |
+| [FUEGO](https://open.spotify.com/track/04JBLnGi7AQ3vEayf6wuk0) | [Marics Peti](https://open.spotify.com/artist/3AL01X7ic44uuE4xsMVPbp), [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [FUEGO](https://open.spotify.com/album/7eW86IEHYqxTc00Mwm8tuJ) | 2:48 | 2026-09-22 |  |
 | [furcsa](https://open.spotify.com/track/4RQny0WnIyGTLCWVxxYsc0) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [elterelés](https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc) | 2:03 | 2026-03-31 | 2026-06-16 |
 | [Gabi](https://open.spotify.com/track/5XTOQnTIpi49kuycmAuTut) | [Carson Coma](https://open.spotify.com/artist/1q7g5SBAxtjizS3Vcof6Y6) | [Gabi](https://open.spotify.com/album/5QcfodgaXvDCZNm0waFcBZ) | 3:08 | 2026-08-24 |  |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 | 2024-10-22 |
@@ -187,7 +188,7 @@
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-01-19 | 2026-05-05 |
 | [Rajosan 3](https://open.spotify.com/track/4HCxfqE1kajYIor6uYHrVP) | [Mario](https://open.spotify.com/artist/0Qld3F5Dr62sYbuivSzEMw), [Essemm](https://open.spotify.com/artist/3Ys4jFPuyeMWAdBpZWWkhu), [Beat](https://open.spotify.com/artist/2JDv04js6dtvkylyVbDLAD) | [III](https://open.spotify.com/album/0dijkBrCY5rDMXy5JrJij8) | 2:56 | 2025-05-05 | 2026-03-24 |
 | [RATHER LIE \(with The Weeknd\)](https://open.spotify.com/track/68qeaZhtMZ6abrJCYt6nQn) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 3:29 | 2025-03-17 | 2025-04-01 |
-| [reflex](https://open.spotify.com/track/6GJOamdpyJv4Yb5JDD4R1F) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [civil](https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N) | 2:43 | 2026-07-13 |  |
+| [reflex](https://open.spotify.com/track/6GJOamdpyJv4Yb5JDD4R1F) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG), [Only U](https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt) | [civil](https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N) | 2:43 | 2026-07-13 | 2026-09-23 |
 | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/track/3RrdbFM2AF1fT9dK70mMRP) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV) | [RENDŐR BÁCSI, KÉREM](https://open.spotify.com/album/185LSkdiE5rEJb0gpDFK3b) | 2:54 | 2025-09-15 |  |
 | [Renegát](https://open.spotify.com/track/0wUyAVmdEqR0pMqyP5AtV9) | [Fiatal Veterán](https://open.spotify.com/artist/5LtcR95XUT9MPZzAYyrPjY), [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Renegát](https://open.spotify.com/album/0TjsGoTydIJLGfZOBywrAl) | 3:58 | 2025-10-26 | 2025-12-02 |
 | [ROCKSTAR](https://open.spotify.com/track/6W7AQZlX9nvw0r74LSxcop) | [T\. Danny](https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG) | [ROCKSTAR](https://open.spotify.com/album/30ibOhh9gc3XJ6I0KHbcYb) | 3:30 | 2025-03-24 | 2025-11-18 |

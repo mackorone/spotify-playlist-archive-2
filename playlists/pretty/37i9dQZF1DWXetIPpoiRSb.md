@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > party time 🙂‍↔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,942 likes - 88 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,917 likes - 88 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

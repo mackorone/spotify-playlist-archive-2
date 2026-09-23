@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Ay Jalisco no te rajes! Así suena la Perla de Occidente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,339 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,323 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,18 +37,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 27 | [La culebra](https://open.spotify.com/track/3RqQrOBQkraszNm11qGTEP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 3:08 |
 | 28 | [Extraños](https://open.spotify.com/track/1ZlBHkvF6NgMuoXTbAvJT9) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 3:22 |
 | 29 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 |
-| 30 | [El Mariachi Loco](https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [La Más Completa Colección](https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7) | 2:57 |
-| 31 | [Mi Forma De Sentir](https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:54 |
+| 30 | [Mi Forma De Sentir](https://open.spotify.com/track/7qLdzoN0DawHgS7idZDItd) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:54 |
+| 31 | [El Mariachi Loco](https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [La Más Completa Colección](https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7) | 2:57 |
 | 32 | [Lupita](https://open.spotify.com/track/2LGgcycTOrbMQ43pEJy8Xh) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Pito Perez](https://open.spotify.com/album/6oqejsCHRGasHg4adH98C4) | 4:01 |
 | 33 | [Guadalajara](https://open.spotify.com/track/35xHpveqPB1hlw6a1S7VWU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lo Mejor De La Baraja Con El Rey](https://open.spotify.com/album/4AbxC9BjfOj9T5pQ665zzs) | 4:37 |
 | 34 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 |
-| 35 | [El son de la negra](https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana Con Mariachi \(USA\)](https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp) | 2:59 |
-| 36 | [Cara de Pizza](https://open.spotify.com/track/3XOAOvlRTo3vConiAvUm29) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 3:33 |
+| 35 | [Cara de Pizza](https://open.spotify.com/track/3XOAOvlRTo3vConiAvUm29) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [La Invasion De Los Blatidos](https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE) | 3:33 |
+| 36 | [El son de la negra](https://open.spotify.com/track/1kjMKI2xugTJvBFPZT140r) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Fiesta Mexicana Con Mariachi \(USA\)](https://open.spotify.com/album/1Yw1J4kHtQ9ONQtPpDnZyp) | 2:59 |
 | 37 | [Remote Control](https://open.spotify.com/track/223Aw7RpWKcmhgGJ2mYoAt) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb) | [Red Album](https://open.spotify.com/album/24erdgo3hVMpIOy6mQMGse) | 5:11 |
 | 38 | [El Tapatío](https://open.spotify.com/track/3Wn26lOa4L5gMFxQOSrvGX) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Que Manera Te Olvido](https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz) | 2:59 |
 | 39 | [Guadalajara](https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Guadalajara](https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow) | 3:49 |
-| 40 | [Jarabe Tapatío](https://open.spotify.com/track/7MrFOPlklS8xnxElrcJWXl) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Numero 1 Del Mariachi Vargas De Tecalitlan](https://open.spotify.com/album/7bfB8Xz308wXzASUXxQKIy) | 2:36 |
-| 41 | [Locamente enamorado](https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Tal y cual](https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP) | 3:36 |
+| 40 | [Locamente enamorado](https://open.spotify.com/track/2gnPKll8i1Q4ttFh0KUNRQ) | [Pito Perez](https://open.spotify.com/artist/32u70gnkFTJfjlbDhH9Ew8) | [Tal y cual](https://open.spotify.com/album/6NOGmQ8GXFfOe46CFHgxaP) | 3:36 |
+| 41 | [Jarabe Tapatío](https://open.spotify.com/track/7MrFOPlklS8xnxElrcJWXl) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Las Numero 1 Del Mariachi Vargas De Tecalitlan](https://open.spotify.com/album/7bfB8Xz308wXzASUXxQKIy) | 2:36 |
 | 42 | [Vaquero Galáctico](https://open.spotify.com/track/3Y0I0uc7DA9wu3CQc5LZTG) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Atemahawke](https://open.spotify.com/album/1GMQtHzZ4lpTYmJgNzALHh) | 3:51 |
 | 43 | [El Jalisciense](https://open.spotify.com/track/2cTKK7oTSaFDVkNabvTulK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 2:36 |
 | 44 | [Soy Tuyo](https://open.spotify.com/track/1RBd8r7gC8ZYrEHAKITkw3) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d) | [Soy Tuyo](https://open.spotify.com/album/4b9QYeAeZ6apmWZpCdaC80) | 2:39 |

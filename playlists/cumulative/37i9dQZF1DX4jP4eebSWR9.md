@@ -2,9 +2,9 @@
 
 ### [Hot Hits Deutschland](https://open.spotify.com/playlist/37i9dQZF1DX4jP4eebSWR9)
 
-> 50 Hits in einer Playlist! Cover: ADÉLA
+> 50 Hits in einer Playlist! Cover: Sido
 
-417 songs - 19 hr 51 min
+418 songs - 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -264,6 +264,7 @@
 | [NEW DROP](https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [HARDSTONE PSYCHO](https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F) | 3:37 | 2024-10-08 | 2024-11-27 |
 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 | 2026-06-30 |  |
 | [Nice To Meet You](https://open.spotify.com/track/726SEjbF3ToEbYbn43gnxl) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute...](https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY) | 2:56 | 2024-11-19 | 2025-04-16 |
+| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-09-22 |  |
 | [NIGHTS LIKE THIS](https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 1:26 | 2024-09-10 | 2024-10-02 |
 | [No Broke Boys](https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [No Broke Boys](https://open.spotify.com/album/520FALYwo6yPbp5kBchA8N) | 2:43 | 2025-07-22 |  |
 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 | 2026-05-12 | 2026-06-24 |
@@ -409,7 +410,7 @@
 | [Wenn du mich fragst](https://open.spotify.com/track/0qMoR2ZhKTy3YhaNHooZkP) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Wenn du mich fragst](https://open.spotify.com/album/6l87GOu0euHJoyX4Klocvf) | 2:53 | 2026-03-17 | 2026-08-26 |
 | [Wer liebt dich jetzt ?](https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Wer liebt dich jetzt ?](https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp) | 2:43 | 2025-05-01 | 2025-05-28 |
 | [What Was That](https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [What Was That](https://open.spotify.com/album/4lvgj3m6vTtpRYdVNEqu2o) | 3:29 | 2025-04-29 | 2025-05-28 |
-| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-13 |  |
+| [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 | 2026-01-13 | 2026-09-23 |
 | [WHERE IS MY HUSBAND!](https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [WHERE IS MY HUSBAND!](https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw) | 3:17 | 2025-09-23 | 2026-08-19 |
 | [White Keys](https://open.spotify.com/track/5ViLKrbyL3HD6wsq3AB9eI) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [White Keys](https://open.spotify.com/album/0PRccyeXfXZBxi8dkIv17c) | 2:24 | 2026-02-24 | 2026-07-29 |
 | [WHO'S THAT](https://open.spotify.com/track/4H0ly29pj5g6vMKum5kkhu) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn) | [WHO'S THAT](https://open.spotify.com/album/5uI4pkcf0BN2KwKbFxMcXL) | 2:20 | 2025-06-24 | 2025-10-08 |

@@ -4,7 +4,7 @@
 
 > a little rap, a little pop, a little country..\. sometimes\. BabyChiefDoIt on the cover.
 
-870 songs - 1 day 15 hr 42 min
+872 songs - 1 day 15 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -583,6 +583,7 @@
 | [ONE NIGHT STAND](https://open.spotify.com/track/4r4elMbKSh5xpHHlyepogf) | [COTIS](https://open.spotify.com/artist/63CZNEytugjFnZBdjBmWc8) | [ONE NIGHT STAND](https://open.spotify.com/album/21M5jk3ITk4J3bAh9BLQ7A) | 3:04 | 2021-11-16 | 2022-02-19 |
 | [ONE of ONE](https://open.spotify.com/track/6eNfM7yVZ8LxO3dCnh3kup) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [ONE of ONE](https://open.spotify.com/album/5MYjtiBFrowd2rML0p8hyG) | 2:51 | 2026-05-25 |  |
 | [ONE PUNCH](https://open.spotify.com/track/6LN15vwkSE1ZiA8IdBjl7k) | [Aries](https://open.spotify.com/artist/3hOdow4ZPmrby7Q1wfPLEy) | [ONE PUNCH](https://open.spotify.com/album/06qAr8048ptTbaxUNvWHOz) | 2:25 | 2021-11-16 | 2022-02-26 |
+| [onsra](https://open.spotify.com/track/3aYWDcq8XDdSVIORII690l) | [comehelpglo](https://open.spotify.com/artist/5Z9nWuFMEQ97O7ixur2c8l) | [onsra](https://open.spotify.com/album/2kpRZHGZg4I7ZgfiEwUhKY) | 2:11 | 2026-09-22 |  |
 | [ORANGE SODA](https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:09 | 2022-05-19 | 2022-06-04 |
 | [OUT OF MY MIND](https://open.spotify.com/track/5GKdWRbTtj6D6gKM9455j5) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [OUT OF MY MIND](https://open.spotify.com/album/5FpxsZzxLCY08VOZURcr1G) | 2:40 | 2023-04-04 | 2024-06-01 |
 | [OUT OF MY MIND](https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8) | [little image](https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm) | [SELF TITLED](https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2) | 2:40 | 2023-04-04 | 2024-04-19 |
@@ -626,6 +627,7 @@
 | [profile](https://open.spotify.com/track/4k0kI3nDzSOTGzQUTDnCpC) | [Kinrose](https://open.spotify.com/artist/6SUbi1ZVEswHqRUWsxmq2m) | [profile](https://open.spotify.com/album/3kYkDN4pfaTTTaNf80v0Z3) | 2:44 | 2022-06-17 | 2022-10-12 |
 | [Psychotic](https://open.spotify.com/track/7LqROURBlbHtu5Is8uIqEG) | [RONEN](https://open.spotify.com/artist/3wDeS1sr05fxaOeiJJrOnL), [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Psychotic](https://open.spotify.com/album/0IRfqoNUuqjAHGOho4oWhu) | 2:18 | 2022-08-26 | 2022-09-10 |
 | [PUNK ROCKY](https://open.spotify.com/track/5FSvy2wYKnurBi0Nq3wR9F) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [PUNK ROCKY](https://open.spotify.com/album/7pAZxgW1OxVv5aD5zY5pCH) | 3:55 | 2026-01-05 | 2026-07-24 |
+| [Purple Aura](https://open.spotify.com/track/7kwNAF6NpsYwtwpN5gi8Ur) | [NOAH NOAH](https://open.spotify.com/artist/3GjqUGmYZaIWH8LzIKtdxb) | [Purple Aura](https://open.spotify.com/album/0PtA284mbaxeI79hRJAkx9) | 2:39 | 2026-09-22 |  |
 | [put it on me](https://open.spotify.com/track/3WSGp3kqtSEbVKLzCWvGGQ) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [put it on me](https://open.spotify.com/album/7ISjczr1BMdAZrrMkxnjhz) | 2:11 | 2025-10-05 | 2026-02-07 |
 | [Put Me on Somethin'](https://open.spotify.com/track/4uuB4d5HBZauH7XV0rtlAs) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V) | [More Than Anything](https://open.spotify.com/album/4mPI9FSkCs1aV7wrf5voFl) | 3:26 | 2022-09-23 | 2022-10-01 |
 | [RA TA DIA](https://open.spotify.com/track/2mi8vJusg3QFEcm0PAjLFk) | [Judah Weston](https://open.spotify.com/artist/3E7pt4BEY5iDLYFRd6kMXX), [IsoKeys](https://open.spotify.com/artist/5iofffGNVFDotaaoqyEZNm) | [Why So Much Hate](https://open.spotify.com/album/71mI5a7ctw1UtEmppPzdor) | 1:46 | 2026-07-21 |  |

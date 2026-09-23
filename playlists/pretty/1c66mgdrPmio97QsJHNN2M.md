@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,978 likes - 222 songs - 11 hr 48 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,980 likes - 231 songs - 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -230,5 +230,14 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 220 | [Firefly](https://open.spotify.com/track/4l0d56ufLXArLf4x6dZQBN) | [DrMz\*](https://open.spotify.com/artist/7JWZHEwvEhiuvq9dpy53vj) | [Firefly](https://open.spotify.com/album/21PrkYhBVvw3PIVXGKOhoj) | 2:49 |
 | 221 | [days like this](https://open.spotify.com/track/26XminzCDpGt5DUHEGZSMA) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [lindsay elizabeth](https://open.spotify.com/artist/0Xkg8TCB0Xfqypnz559jat) | [days like this](https://open.spotify.com/album/4fxU7HuDwMiVlbHPL9afNU) | 2:20 |
 | 222 | [STARS](https://open.spotify.com/track/0vKynRZaxj6wgOjCdQLdPD) | [AS](https://open.spotify.com/artist/1IiSlUyc2h1vCsqsuEkaqB) | [STARS](https://open.spotify.com/album/2NIiP6SgDoBMHqqJi2dwaY) | 2:49 |
+| 223 | [Am I Crazy](https://open.spotify.com/track/31BRk4cOPbGBzQcbQO5PlK) | [Tonwerck](https://open.spotify.com/artist/1l2WLqM42y6NaJy6pQWvtQ), [DAISY](https://open.spotify.com/artist/77FABHwp2aq6dDUH35qf1u) | [Am I Crazy](https://open.spotify.com/album/2zllFAeS8VrtGcfUKnGBX5) | 2:50 |
+| 224 | [Cycle](https://open.spotify.com/track/4nhX3PO94lYCFn1zrzzwVj) | [Deaf Mother](https://open.spotify.com/artist/6QtfSjixl1I5KMlMKldZjt) | [Cycle](https://open.spotify.com/album/04J5IbHXXPD98PkZtBJh3v) | 3:25 |
+| 225 | [VISIONS](https://open.spotify.com/track/6lg2hBkxW3w0oxqUwY3li9) | [32after](https://open.spotify.com/artist/1KjJ7BOfgm60JiIsrjI8Gd) | [THE FALLEN](https://open.spotify.com/album/6xLFV57o8dhtvEOWmISuCC) | 3:08 |
+| 226 | [Uncloudy Day](https://open.spotify.com/track/3RiBVVE9B9tm9FTOuL1fUr) | [LeRoy Stoltzfus](https://open.spotify.com/artist/5Q7K5GJiNLRz7L056UpwYf) | [Uncloudy Day](https://open.spotify.com/album/0lF8QWIMJ3rTsCLxsvqihk) | 2:55 |
+| 227 | [XXX](https://open.spotify.com/track/1yZS3NlTS83yijVFc1SNqu) | [Blue Box Grove](https://open.spotify.com/artist/3x40sj7shMjFjB3LkwvzcO) | [Type Movie](https://open.spotify.com/album/3EAqyEAF3SuRb66Lr8MYfh) | 3:09 |
+| 228 | [undone](https://open.spotify.com/track/1zhmKU3ZSQ9IUARAPDmeHa) | [Maxine Louise](https://open.spotify.com/artist/3vOuuR55nZMwjEluo4Su6d) | [undone](https://open.spotify.com/album/5GzynGQqCiqzeHNapGhC7w) | 2:52 |
+| 229 | [You Smile When You're Lying](https://open.spotify.com/track/2wGet9XTv6jssvv1wu30bi) | [GRAVEKEY](https://open.spotify.com/artist/5Uj3Yqq7OaoVmdsa7nYIZC) | [You Smile When You're Lying](https://open.spotify.com/album/35Tpy9f6cKun8tc7cYfxpf) | 4:15 |
+| 230 | [Unusual Discovery](https://open.spotify.com/track/4NqHDdx0cRjqvanSUaiSzF) | [Richard MARCER](https://open.spotify.com/artist/2gGmyt93xD8BoUb5a3kgF6) | [Unusual Discovery](https://open.spotify.com/album/74BHsYPBZKVQ1x0tgvRiyE) | 3:46 |
+| 231 | [Replenish Me](https://open.spotify.com/track/7sKaH4jp0iQBmOJWOCYnM2) | [Riptide Hollywood](https://open.spotify.com/artist/2I1NVc1NLbxXT69Ous3lM8) | [Replenish Me](https://open.spotify.com/album/5Ke7ge9NRuHiVzbyoJrlxQ) | 3:13 |
 
-Snapshot ID: `AAA8fVKS67F1RtzYwDhUbsTvzB6XtsLC`
+Snapshot ID: `AAA8hjYa8HjHsa70RJsAaygj1mwgXzM4`

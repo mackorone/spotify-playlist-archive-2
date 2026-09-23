@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 121010,
+  "num_followers": 121046,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "Oriad\u00e9",
-        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 206224,
-      "name": "Already Falling",
-      "url": "https://open.spotify.com/track/3ozNRKWMwoVDoFSsamwJ5e"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "attention!",
         "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 155852,
       "name": "attention!",
       "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "Oriad\u00e9",
+        "url": "https://open.spotify.com/album/43hCvloofcUeEmpK6RFldz"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 206224,
+      "name": "Already Falling",
+      "url": "https://open.spotify.com/track/3ozNRKWMwoVDoFSsamwJ5e"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -387,18 +387,38 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "Dantata",
-        "url": "https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn"
+        "name": "Nakupenda",
+        "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "TxC",
+          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        },
+        {
+          "name": "Al Xapo",
+          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
         }
       ],
-      "duration_ms": 171111,
-      "name": "Dantata",
-      "url": "https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d"
+      "duration_ms": 333451,
+      "name": "Nakupenda",
+      "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -451,38 +471,18 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "Nakupenda",
-        "url": "https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d"
+        "name": "Dantata",
+        "url": "https://open.spotify.com/album/5TvChx29MTUHYx9Xw9Hgnn"
       },
       "artists": [
         {
-          "name": "TxC",
-          "url": "https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        },
-        {
-          "name": "Scotts Maphuma",
-          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
-        },
-        {
-          "name": "Al Xapo",
-          "url": "https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         }
       ],
-      "duration_ms": 333451,
-      "name": "Nakupenda",
-      "url": "https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO"
+      "duration_ms": 171111,
+      "name": "Dantata",
+      "url": "https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        }
+      ],
+      "duration_ms": 116410,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
@@ -835,22 +851,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K"
-      },
-      "artists": [
-        {
-          "name": "Shoday",
-          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
-        }
-      ],
-      "duration_ms": 116410,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "Candor",
         "url": "https://open.spotify.com/album/64xu08Nyn29jPEZldUigVB"
       },
@@ -863,6 +863,30 @@
       "duration_ms": 175666,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/20l4NPs2c9OBKBKUKRjxIy"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "ANGELS",
+        "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
+      },
+      "artists": [
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 184437,
+      "name": "ANGELS",
+      "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -903,30 +927,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "ANGELS",
-        "url": "https://open.spotify.com/album/66rFXjuBIQl029QAVfpSpM"
-      },
-      "artists": [
-        {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
-        },
-        {
-          "name": "OMAH LAY",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 184437,
-      "name": "ANGELS",
-      "url": "https://open.spotify.com/track/6aQ3TBrTQ2mLzecfMpM3Og"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "Paparazzi",
         "url": "https://open.spotify.com/album/3y6KnQqXjVz7lK5gi9CuRX"
       },
@@ -963,26 +963,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "Agaba Romantic",
-        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
-      },
-      "artists": [
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        },
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 128316,
-      "name": "100 Meters",
-      "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "Hello Hello",
         "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 155789,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "Agaba Romantic",
+        "url": "https://open.spotify.com/album/6XQ9hR7ECS9yJnq3kv7q4P"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 128316,
+      "name": "100 Meters",
+      "url": "https://open.spotify.com/track/15swTFghLxUCfHKAeq9jMz"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "STARLIFE",
-        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "FYNE",
-      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "Uzama The 3rd",
         "url": "https://open.spotify.com/album/5LKnGwKYyreWBY14SIizkw"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 154268,
       "name": "Osusu",
       "url": "https://open.spotify.com/track/3yaMisjmccUHlzZYgSh9zf"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "STARLIFE",
+        "url": "https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 149605,
+      "name": "FYNE",
+      "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "Happy Song",
-        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 129391,
-      "name": "Happy Song",
-      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "ON MY BIRTHDAY",
         "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 135549,
       "name": "Fast and Furious",
       "url": "https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "Happy Song",
+        "url": "https://open.spotify.com/album/5yBYWy0YJUo9Fut7Xa6XfO"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 129391,
+      "name": "Happy Song",
+      "url": "https://open.spotify.com/track/2YA4T4tYZNtMvEF1bVYFSY"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "CLAAT!",
-        "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 174150,
-      "name": "CLAAT!",
-      "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "No Excuses",
         "url": "https://open.spotify.com/album/307ndfsqUj3MF4y0uHsinE"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 218947,
       "name": "Despacito (feat. FOLA)",
       "url": "https://open.spotify.com/track/0HlF88ZuW0yTty8fogzpaG"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "CLAAT!",
+        "url": "https://open.spotify.com/album/2z5uWC3opc7gYMq5Zhpigx"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 174150,
+      "name": "CLAAT!",
+      "url": "https://open.spotify.com/track/4j59HrdkksgGMgiazCejg6"
     },
     {
       "added_at": "2026-09-11 04:10:23",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 185973,
-      "name": "Masculine Love",
-      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
-    },
-    {
-      "added_at": "2026-09-11 04:10:23",
-      "album": {
         "name": "Secret",
         "url": "https://open.spotify.com/album/78JbjwdI8BdGYAwbseH06b"
       },
@@ -1487,18 +1471,50 @@
     {
       "added_at": "2026-09-11 04:10:23",
       "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/5XOU1WFpMlPfcZveE5lbaM"
+        "name": "99 (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
       "artists": [
         {
-          "name": "Ayo Maff",
-          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/1q3elqW7SADLW6CBTMOFOQ"
+      "duration_ms": 248832,
+      "name": "99 (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
+    },
+    {
+      "added_at": "2026-09-11 04:10:23",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 185973,
+      "name": "Masculine Love",
+      "url": "https://open.spotify.com/track/4qwFfzcMM1qoOxxmCJBti4"
     }
   ],
   "unique_name": "Party Dey!",

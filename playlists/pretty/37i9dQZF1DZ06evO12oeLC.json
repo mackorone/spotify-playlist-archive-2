@@ -1,12 +1,12 @@
 {
   "description": "This is Yseult. The essential tracks, all in one playlist.",
-  "num_followers": 17904,
+  "num_followers": 17905,
   "original_name": "This Is Yseult",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAD9TCF5wPFqMQ3l0SKLumN/",
+  "snapshot_id": "arBzgAAAAADjMtQfF3hbhxrixLJHScjS",
   "tracks": [
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MENTAL",
+        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "TUNING",
+      "url": "https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult)",
         "url": "https://open.spotify.com/album/1Ha2M1Be1iDXtWOfAPBxhp"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 187086,
       "name": "Alibi Pt. 3 (with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult)",
       "url": "https://open.spotify.com/track/6hMU7eUsEX5HWVRLTIGw6Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MENTAL",
-        "url": "https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "TUNING",
-      "url": "https://open.spotify.com/track/6oHIPkHSDBysBWdUkaLDAE"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's A Man's Man's Man's World",
-        "url": "https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu"
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 199278,
-      "name": "It\u2019s A Man\u2019s Man\u2019s Man\u2019s World",
-      "url": "https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY"
+      "duration_ms": 197746,
+      "name": "L\u2019orage",
+      "url": "https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+        "name": "It's A Man's Man's Man's World",
+        "url": "https://open.spotify.com/album/43RaF2uQ9woRKDLjRrTxHu"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 197746,
-      "name": "L\u2019orage",
-      "url": "https://open.spotify.com/track/79xDo3sONJ0jr8c2pmM9YK"
+      "duration_ms": 199278,
+      "name": "It\u2019s A Man\u2019s Man\u2019s Man\u2019s World",
+      "url": "https://open.spotify.com/track/1K9whYwy2abqgKMwhCz4zY"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diego",
-        "url": "https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2"
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 167773,
-      "name": "Diego",
-      "url": "https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG"
+      "duration_ms": 180866,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+        "name": "Diego",
+        "url": "https://open.spotify.com/album/47HrvjLdnDwEmSVFGenON2"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 180866,
-      "name": "Summer Love",
-      "url": "https://open.spotify.com/track/7cib4iojUbgyEjwIaCEwol"
+      "duration_ms": 167773,
+      "name": "Diego",
+      "url": "https://open.spotify.com/track/6QkvfAPLuBRbh3ygGDtOkG"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
       "duration_ms": 186323,
       "name": "Rouge",
       "url": "https://open.spotify.com/track/3WPqkwwH5VoqJl3enzLRW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
+      },
+      "artists": [
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "duration_ms": 243493,
+      "name": "La mamma",
+      "url": "https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yseult",
-        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
-      },
-      "artists": [
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "duration_ms": 243493,
-      "name": "La mamma",
-      "url": "https://open.spotify.com/track/5bgnAGv3x607fkkfYQvQC6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rouge",
         "url": "https://open.spotify.com/album/54gsOyynoBq0VM1y02OBuY"
       },
@@ -911,22 +911,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOUS ART : Masterpiece",
-        "url": "https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe"
+        "name": "Yseult",
+        "url": "https://open.spotify.com/album/4Pm7xjhoUbIL5dnEhEAENs"
       },
       "artists": [
-        {
-          "name": "Le Juiice",
-          "url": "https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC"
-        },
         {
           "name": "Yseult",
           "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 214285,
-      "name": "LVMH",
-      "url": "https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG"
+      "duration_ms": 202080,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/72nmpQNmVWqUQqMJEV6qGo"
     }
   ],
   "unique_name": "This Is Yseult",

@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21524,
+  "num_followers": 21528,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADLHesx4PgFgqpLVWN7iT1m",
+  "snapshot_id": "arBzgAAAAADVn3Av85OeNyG9qiWv3oLg",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Life is Eazi, Vol. 2 - Lagos to London",
+        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 176766,
+      "name": "Miss You Bad",
+      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nobody: The Extended Playlist (Worldwide Remixes)",
         "url": "https://open.spotify.com/album/1EHqy12UQ5mRrVOOQlzxtY"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 146666,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/2hQG5UZ0DZD0lCpq3rwoWx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is Eazi, Vol. 2 - Lagos to London",
-        "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 176766,
-      "name": "Miss You Bad",
-      "url": "https://open.spotify.com/track/54UrIc5qQRjX128jcvMKIT"
     },
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hide Your Love",
-        "url": "https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Dre Skull",
-          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
-        }
-      ],
-      "duration_ms": 157959,
-      "name": "Hide Your Love",
-      "url": "https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dpos D' Quarentena",
         "url": "https://open.spotify.com/album/2pJvQDF4JlJoh2lmIB17FZ"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 167875,
       "name": "Tellin Me Something",
       "url": "https://open.spotify.com/track/1t7c0mGQEW3UlF1L50B7ez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hide Your Love",
+        "url": "https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dre Skull",
+          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
+        }
+      ],
+      "duration_ms": 157959,
+      "name": "Hide Your Love",
+      "url": "https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9"
     },
     {
       "added_at": null,
@@ -1007,6 +1007,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 156715,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/6T1UPPaTavTq4WlR2U9rKB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 216000,
       "name": "Body",
       "url": "https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maison Rouge",
-        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 156715,
-      "name": "Violence",
-      "url": "https://open.spotify.com/track/6T1UPPaTavTq4WlR2U9rKB"
     },
     {
       "added_at": null,

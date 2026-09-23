@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 88370,
+  "num_followers": 88394,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,30 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "1 WORK (Remix)",
-        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
+        "name": "Feel D Mood",
+        "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
       },
       "artists": [
         {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+          "name": "Outsyd DJ",
+          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
         },
         {
           "name": "Famous Pluto",
           "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         },
         {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+          "name": "Outsyd Eddie",
+          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
+        },
+        {
+          "name": "Tega Boi Dc",
+          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
         }
       ],
-      "duration_ms": 136693,
-      "name": "1 WORK - Remix",
-      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+      "duration_ms": 133172,
+      "name": "Feel D Mood",
+      "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -611,30 +615,26 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
-        "name": "Feel D Mood",
-        "url": "https://open.spotify.com/album/0t6AQDnfc459I7m4NebGiv"
+        "name": "1 WORK (Remix)",
+        "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
       "artists": [
         {
-          "name": "Outsyd DJ",
-          "url": "https://open.spotify.com/artist/0sc02G8bEK5K2jNeevd8II"
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
         },
         {
           "name": "Famous Pluto",
           "url": "https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne"
         },
         {
-          "name": "Outsyd Eddie",
-          "url": "https://open.spotify.com/artist/34GVjsEo3lNh6lBfcg6cV8"
-        },
-        {
-          "name": "Tega Boi Dc",
-          "url": "https://open.spotify.com/artist/16CdFOraHt0BYRkeB7gT5M"
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
         }
       ],
-      "duration_ms": 133172,
-      "name": "Feel D Mood",
-      "url": "https://open.spotify.com/track/5V24zNpUfkiMx5eWYXXCHN"
+      "duration_ms": 136693,
+      "name": "1 WORK - Remix",
+      "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -787,6 +787,26 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "Trump",
+        "url": "https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "Zhus Jdo",
+          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
+        }
+      ],
+      "duration_ms": 160074,
+      "name": "Trump",
+      "url": "https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "GWAGWALADA",
         "url": "https://open.spotify.com/album/0lgduYlejtLccLxJo5Q1fc"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/6wuMo4ZR83PhlhXhJ1S3VY"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Trump",
-        "url": "https://open.spotify.com/album/4ae3iKzKGE1kPWigSBARMS"
-      },
-      "artists": [
-        {
-          "name": "Smur Lee",
-          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
-        },
-        {
-          "name": "Zhus Jdo",
-          "url": "https://open.spotify.com/artist/0USpP7ibi3P6TRXcaPKOSv"
-        }
-      ],
-      "duration_ms": 160074,
-      "name": "Trump",
-      "url": "https://open.spotify.com/track/6N5ZV6koxWGLSyO4YfmSP3"
     },
     {
       "added_at": "2026-03-13 00:01:25",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2026-03-13 00:01:25",
       "album": {
+        "name": "Marhaba X We Must",
+        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        }
+      ],
+      "duration_ms": 143187,
+      "name": "Marhaba",
+      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
+    },
+    {
+      "added_at": "2026-03-13 00:01:25",
+      "album": {
         "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
         "url": "https://open.spotify.com/album/7n1TxSwhsdR6p10jptrKhL"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 366573,
       "name": "Saba Julukisa (feat. Mfana Kah Gogo & Spux)",
       "url": "https://open.spotify.com/track/2jQx6kd1QLapry5vwk7Zb7"
-    },
-    {
-      "added_at": "2026-03-13 00:01:25",
-      "album": {
-        "name": "Marhaba X We Must",
-        "url": "https://open.spotify.com/album/2ElVuPg0F7mHNcveABN2Rw"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 143187,
-      "name": "Marhaba",
-      "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
     },
     {
       "added_at": "2026-03-13 00:01:25",

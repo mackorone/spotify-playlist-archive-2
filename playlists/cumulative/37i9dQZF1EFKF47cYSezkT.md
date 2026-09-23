@@ -108,7 +108,7 @@
 | [Who is she](https://open.spotify.com/track/16iOs2f9G9qRknDgM9cfAw) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Who is she](https://open.spotify.com/album/3oKZB7YNsYSvmI4YQjhtdS) | 2:39 | 2026-04-22 |  |
 | [Work Of Art](https://open.spotify.com/track/1EU6rKdmudLSZJl9zJ4geL) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [NEVER REALLY THE END](https://open.spotify.com/album/0m8rinQENV3VFp8fud5gaD) | 2:43 | 2024-01-29 |  |
 | [Written By A Woman](https://open.spotify.com/track/5ZLBwNrCPjjLBbPwsq09bZ) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Sorry I’m Late](https://open.spotify.com/album/19ocAIrde9wq6p3CcXvRNI) | 2:26 | 2024-01-29 |  |
-| [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 | 2024-10-20 |  |
+| [Wrong](https://open.spotify.com/track/4ScVwI4sJpP1TT7CAOBnvt) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 3:07 | 2024-10-20 | 2026-09-23 |
 | [섬찟 \(Hypnosis\)](https://open.spotify.com/track/1tzeAVyGwvoHcVzDit0UeT) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 2:26 | 2024-01-29 |  |
 
 \*This playlist was first scraped on 2024-01-30. Prior content cannot be recovered.

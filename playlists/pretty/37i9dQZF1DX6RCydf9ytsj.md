@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,514 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,607 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 79 | [Little Rock](https://open.spotify.com/track/4kGwf8ArBjC8AZRNbahDxk) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Whoever's In New England](https://open.spotify.com/album/2wy4nL2f1eoBni0YFTcetr) | 3:07 |
 | 80 | [All My Rowdy Friends Are Coming Over Tonight](https://open.spotify.com/track/1yzyhrCfdwPgfWixsCELlH) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [Greatest Hits, Vol\. 2](https://open.spotify.com/album/1TRb99NpbCbLBiYnCis1fv) | 2:58 |
 | 81 | [I Wish That I Could Fall In Love Today](https://open.spotify.com/track/50pAZTEtKGt2oAguhBrnF7) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [I'll Be Your Jukebox Tonight](https://open.spotify.com/album/69meLNQFtyhpXcye5Hf1l4) | 2:52 |
-| 82 | [Don't Close Your Eyes](https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 4:11 |
-| 83 | [I Got Mexico](https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7) | [Eddy Raven](https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK) | [Best Of Eddy Raven](https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R) | 2:26 |
+| 82 | [I Got Mexico](https://open.spotify.com/track/0BM8wPzuihqUE561Poj2b7) | [Eddy Raven](https://open.spotify.com/artist/23YxuG76RQvo4r7jChCwxK) | [Best Of Eddy Raven](https://open.spotify.com/album/4e9QmJZGdhtNjQVNsR183R) | 2:26 |
+| 83 | [Don't Close Your Eyes](https://open.spotify.com/track/3eIc0XWlqNkT290DfwNyBJ) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 4:11 |
 | 84 | [I Ain't Living Long Like This](https://open.spotify.com/track/0NBKvnJAAG865ENj9bOhvD) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM) | [The Essential Waylon Jennings](https://open.spotify.com/album/76v3XMhmRuxlakE6e3lKox) | 4:46 |
 | 85 | [Nobody](https://open.spotify.com/track/1IyktkUQ3ktjlc6eDXG967) | [Sylvia](https://open.spotify.com/artist/4MTyRJuQSGVdZQNUI4xRiR) | [Just Sylvia](https://open.spotify.com/album/2dOjFe0Q4iaGfrB6lQULEV) | 3:21 |
 | 86 | [Perfect](https://open.spotify.com/track/2X90tKH59XlulLjbT4vci1) | [Fairground Attraction](https://open.spotify.com/artist/1sAkg8871iPVI0wPbOfIZa) | [The First Of A Million Kisses](https://open.spotify.com/album/6va9WpXLiBCPS86QWKgOFi) | 3:36 |
@@ -111,13 +111,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 101 | [I'm No Stranger to the Rain](https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:36 |
 | 102 | [I Believe In You](https://open.spotify.com/track/2XQUerfdDAi7Ncla2a4skr) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 4:05 |
 | 103 | [Same Ole Me](https://open.spotify.com/track/4yXvztnOOlSspO4W3MIsdd) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Still The Same Ole Me](https://open.spotify.com/album/37SDFDUGI4DBZt1YssNSNE) | 2:50 |
-| 104 | [I'll Still Be Loving You](https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Wheels](https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi) | 4:18 |
-| 105 | [Tight Fittin' Jeans](https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [20th Century Masters: The Millennium Collection: Best Of Conway Twitty](https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE) | 2:50 |
+| 104 | [Tight Fittin' Jeans](https://open.spotify.com/track/7A7gHOXvDJ12CRfiZ18Uro) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [20th Century Masters: The Millennium Collection: Best Of Conway Twitty](https://open.spotify.com/album/1Qj1C6YA9SQvuJsgsZdeTE) | 2:50 |
+| 105 | [I'll Still Be Loving You](https://open.spotify.com/track/1y9Tpv5Lj0KYMvz2mzoidT) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Wheels](https://open.spotify.com/album/5bABPMZl5LzayvEbFEeHTi) | 4:18 |
 | 106 | [What I'd Say](https://open.spotify.com/track/6qdaMyeAxixEtIiI1Wqr4l) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [The Heart of It All](https://open.spotify.com/album/5sgaAKTYixY72uzVOKHlJG) | 3:52 |
 | 107 | [American Made](https://open.spotify.com/track/1wtcyTExLF8nZu9ZphHIl1) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Collection](https://open.spotify.com/album/6aQEjw5vvwJaBxYY0w6HJI) | 2:39 |
 | 108 | [Mama's Never Seen Those Eyes](https://open.spotify.com/track/2CpnNgpSYSjwkyXAJqHSnP) | [The Forester Sisters](https://open.spotify.com/artist/27Zy5YAD3Atf56oSRfrfis) | [The Forester Sisters](https://open.spotify.com/album/3LDzLEr1jGClFSMrdwdjcA) | 2:50 |
-| 109 | [The Bluest Eyes In Texas](https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Big Dreams In A Small Town](https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz) | 4:47 |
-| 110 | [80's Ladies](https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [80s Ladies](https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT) | 4:11 |
+| 109 | [80's Ladies](https://open.spotify.com/track/3cyRqqiu2lrDq06PU3fvce) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [80s Ladies](https://open.spotify.com/album/34cBmDds6qdKYCwwZdy0XT) | 4:11 |
+| 110 | [The Bluest Eyes In Texas](https://open.spotify.com/track/1XUiXn0r5o9EDS6BhAYdIA) | [Restless Heart](https://open.spotify.com/artist/0FcmRWJUfnCuwoXE1H2b0H) | [Big Dreams In A Small Town](https://open.spotify.com/album/5gY4mK9vwSYGcouC8u6oIz) | 4:47 |
 | 111 | [I Told You So](https://open.spotify.com/track/4HNj7TkT9VnfVjtV2HRlpl) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:39 |
 | 112 | [Sunday In the South](https://open.spotify.com/track/4txNtoBnQ3OgazfeTS8iGP) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Super Hits](https://open.spotify.com/album/18ziyK5CNjFNboOBH8o2it) | 4:01 |
 | 113 | [Only One You](https://open.spotify.com/track/36V6Cb9DjnxlVNqqgD5piw) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Super Hits](https://open.spotify.com/album/6J6IoDmM8Ls9koPtdm11Yu) | 3:22 |

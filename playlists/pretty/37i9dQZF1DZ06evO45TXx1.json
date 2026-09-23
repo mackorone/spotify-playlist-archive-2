@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16253,
+  "num_followers": 16259,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAACabudo0niBnxMVnXneBRvO",
+  "snapshot_id": "arBzgAAAAACkqtpW8ZapBJBr85BmnyPI",
   "tracks": [
     {
       "added_at": null,
@@ -359,6 +359,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Botano (\u00datero Baixo)",
+        "url": "https://open.spotify.com/album/76LH5qUwb68C2J1RGtzzTp"
+      },
+      "artists": [
+        {
+          "name": "DJ Caio Prince",
+          "url": "https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "DJ Thiago Martins",
+          "url": "https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Botano (\u00datero Baixo)",
+      "url": "https://open.spotify.com/track/4I5tjmq7DRY9pHqKgiE5Fr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
       },
@@ -463,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "IRREFRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 137239,
+      "name": "Amiga Esse Homem Te Apaga",
+      "url": "https://open.spotify.com/track/3X132cezrnJZioVApZ5Xef"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AINDA NO MESMO BAIRRO",
         "url": "https://open.spotify.com/album/0MgSMuYtpk9VLGrR5h3LcG"
       },
@@ -491,62 +539,6 @@
       "duration_ms": 151982,
       "name": "Um Mano Discreto (feat. Mc Luanna)",
       "url": "https://open.spotify.com/track/0lN6Mpuubw0DRgOqYq7Fg8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IRREFRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 137239,
-      "name": "Amiga Esse Homem Te Apaga",
-      "url": "https://open.spotify.com/track/3X132cezrnJZioVApZ5Xef"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Botano Remixes",
-        "url": "https://open.spotify.com/album/4ShgLpcE1AlmTltZ3vvSpl"
-      },
-      "artists": [
-        {
-          "name": "DJ Caio Prince",
-          "url": "https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM"
-        },
-        {
-          "name": "DJ Thiago Martins",
-          "url": "https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td"
-        },
-        {
-          "name": "DJ Martinelli",
-          "url": "https://open.spotify.com/artist/0qvUt5Hd1W4kEGAZSs4yJH"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "Dj Tchouzen",
-          "url": "https://open.spotify.com/artist/2nRKgPUikjmFOJ1UBmh8Fy"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 125538,
-      "name": "Botano (\u00datero Baixo) - Automotivo - Remix",
-      "url": "https://open.spotify.com/track/3hjzq5vLt2KpIKOTuK5WnO"
     },
     {
       "added_at": null,

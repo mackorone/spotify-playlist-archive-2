@@ -1,6 +1,6 @@
 {
   "description": "Sweet afro melodies. Cover: Kaestyle",
-  "num_followers": 267261,
+  "num_followers": 267287,
   "original_name": "Ginja",
   "owner": {
     "name": "Spotify",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2026-09-11 00:01:35",
       "album": {
+        "name": "REVIVAL",
+        "url": "https://open.spotify.com/album/00HhPYvaMMBoJG4Tci6BNH"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "duration_ms": 191626,
+      "name": "REVIVAL",
+      "url": "https://open.spotify.com/track/7kxz848gjEfCQX5IiaQhnh"
+    },
+    {
+      "added_at": "2026-09-11 00:01:35",
+      "album": {
         "name": "Arike (Remix)",
         "url": "https://open.spotify.com/album/4cbzmkoVpf6oNpJW6sQFe3"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 146823,
       "name": "Arike - Remix",
       "url": "https://open.spotify.com/track/2TDNamLQbpOrzWM0zN7vA1"
-    },
-    {
-      "added_at": "2026-09-11 00:01:35",
-      "album": {
-        "name": "REVIVAL",
-        "url": "https://open.spotify.com/album/00HhPYvaMMBoJG4Tci6BNH"
-      },
-      "artists": [
-        {
-          "name": "Anendlessocean",
-          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
-        }
-      ],
-      "duration_ms": 191626,
-      "name": "REVIVAL",
-      "url": "https://open.spotify.com/track/7kxz848gjEfCQX5IiaQhnh"
     },
     {
       "added_at": "2026-09-11 00:01:35",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2026-09-11 00:01:35",
       "album": {
-        "name": "Julie",
-        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
-      },
-      "artists": [
-        {
-          "name": "Kunmie",
-          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Julie",
-      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
-    },
-    {
-      "added_at": "2026-09-11 00:01:35",
-      "album": {
         "name": "Gymnastic",
         "url": "https://open.spotify.com/album/4vIBy4r7qrMAJDCCSLqVkT"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2026-09-11 00:01:35",
       "album": {
-        "name": "Shy Lover",
-        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+        "name": "Julie",
+        "url": "https://open.spotify.com/album/77AHedVp8CXClI0vfI0gu2"
       },
       "artists": [
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Kunmie",
+          "url": "https://open.spotify.com/artist/5PvHPCv7xxX9KclR4sJfoF"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Shy Lover",
-      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
+      "duration_ms": 178000,
+      "name": "Julie",
+      "url": "https://open.spotify.com/track/3YUXWidbrFVf2NiIWz6j70"
     },
     {
       "added_at": "2026-09-11 00:01:35",
@@ -1291,6 +1275,22 @@
       "duration_ms": 201000,
       "name": "Perspe",
       "url": "https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax"
+    },
+    {
+      "added_at": "2026-09-11 00:01:35",
+      "album": {
+        "name": "Shy Lover",
+        "url": "https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 163404,
+      "name": "Shy Lover",
+      "url": "https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ"
     },
     {
       "added_at": "2026-09-11 00:01:35",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2026-09-11 00:01:35",
       "album": {
+        "name": "Choice",
+        "url": "https://open.spotify.com/album/0rAY6dVOAWpIBwfJCPd0EA"
+      },
+      "artists": [
+        {
+          "name": "BoyPee",
+          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+        }
+      ],
+      "duration_ms": 159335,
+      "name": "Choice",
+      "url": "https://open.spotify.com/track/0nWaHVM8Qmi9f2UOty7yOx"
+    },
+    {
+      "added_at": "2026-09-11 00:01:35",
+      "album": {
         "name": "SHABA",
         "url": "https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA"
       },
@@ -1431,18 +1447,22 @@
     {
       "added_at": "2026-09-11 00:01:35",
       "album": {
-        "name": "Choice",
-        "url": "https://open.spotify.com/album/0rAY6dVOAWpIBwfJCPd0EA"
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/5vrsNwdVATedaTRMuXvaLL"
       },
       "artists": [
         {
-          "name": "BoyPee",
-          "url": "https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh"
+          "name": "Lil Qhuid",
+          "url": "https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP"
+        },
+        {
+          "name": "Mack H.D",
+          "url": "https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ"
         }
       ],
-      "duration_ms": 159335,
-      "name": "Choice",
-      "url": "https://open.spotify.com/track/0nWaHVM8Qmi9f2UOty7yOx"
+      "duration_ms": 169963,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/6B47HeuNN6VsA0rydmv5eB"
     },
     {
       "added_at": "2026-09-11 00:01:35",
@@ -1463,26 +1483,6 @@
       "duration_ms": 178488,
       "name": "Get 2 Know",
       "url": "https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb"
-    },
-    {
-      "added_at": "2026-09-11 00:01:35",
-      "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/5vrsNwdVATedaTRMuXvaLL"
-      },
-      "artists": [
-        {
-          "name": "Lil Qhuid",
-          "url": "https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP"
-        },
-        {
-          "name": "Mack H.D",
-          "url": "https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ"
-        }
-      ],
-      "duration_ms": 169963,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/6B47HeuNN6VsA0rydmv5eB"
     },
     {
       "added_at": "2026-09-11 00:01:35",

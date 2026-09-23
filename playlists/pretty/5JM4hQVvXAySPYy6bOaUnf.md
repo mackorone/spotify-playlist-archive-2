@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5JM4hQVvXAySPYy6bOaUnf.md) - [plain]
 
 > For the quiet hours when the world sleeps, and your thoughts speak the loudest.
 
-[Jinaexc](https://open.spotify.com/user/cheyx001) - 1 like - 53 songs - 3 hr 17 min
+[Jinaexc](https://open.spotify.com/user/cheyx001) - 1 like - 54 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,5 +61,6 @@ pretty - [cumulative](/playlists/cumulative/5JM4hQVvXAySPYy6bOaUnf.md) - [plain]
 | 51 | [Until The End](https://open.spotify.com/track/2NPczfuTCoJHEMxhCcJyti) | [Kelley McRae](https://open.spotify.com/artist/5jisWKblA5tIYYDLfTOKle) | [The Glory, Pt\. 1 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0OR9LHwVKfeRjkHxcDm1mc) | 4:35 |
 | 52 | [Day & Night](https://open.spotify.com/track/1j5oDtBWVtNoVHMi2n6Fkz) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [START\-UP \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/7eSGKfvLc1bGVXK5Z1TFk9) | 4:20 |
 | 53 | [When I Close My Eyes](https://open.spotify.com/track/2llGNw4clBNOxpcORvUtYF) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [A Wonderful Life \(Epilogue\)](https://open.spotify.com/album/4J3ZHo7yt4nYpBPviWLRry) | 3:13 |
+| 54 | [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 |
 
-Snapshot ID: `AAAAoIj2v6c6ymVexwDtz7nz36GWUjIV`
+Snapshot ID: `AAAAocV2OvB+tXdj6H2Y2Cpoq4jh70pU`

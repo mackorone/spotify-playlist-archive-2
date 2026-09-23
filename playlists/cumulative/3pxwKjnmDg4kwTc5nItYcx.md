@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-916 songs - 2 day 1 hr 17 min
+917 songs - 2 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [AAA](https://open.spotify.com/track/1DnN1RRe7dFzCkfU72XuZI) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4) | [AAA](https://open.spotify.com/album/1q38Rw2eFDewAYW0TkBBUJ) | 3:46 | 2020-03-21 | 2021-05-12 |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2020-12-23 | 2025-07-17 |
 | [Afterthought](https://open.spotify.com/track/6zvqq50PL7io0rprbkrYc9) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 3:14 | 2020-09-25 | 2025-07-17 |
+| [AFTERTHOUGHT](https://open.spotify.com/track/6WwzgQrldO6AHAoMscU3JM) | [MANÚ](https://open.spotify.com/artist/7BEmHb9jAPMHB3HwfTuPnh) | [AFTERTHOUGHT](https://open.spotify.com/album/6Vtkcg1zZntLw5hvXcSGcg) | 2:06 | 2026-09-22 |  |
 | [Against The Water](https://open.spotify.com/track/2sklRaFgfN1YdB687RIGgi) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Against The Water](https://open.spotify.com/album/1RsQtWgxryiFLtckF3Fasd) | 3:37 | 2020-02-21 | 2021-05-12 |
 | [AI WENA](https://open.spotify.com/track/2fWjqJw9hit2J5zZpQORB8) | [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [AI WENA](https://open.spotify.com/album/0JPLZTnqvek6WuuNcuwoHa) | 3:36 | 2025-08-27 |  |
 | [Ain't My Fault](https://open.spotify.com/track/6lcepxLWU2sbLVXaJL46qS) | [BENNETT](https://open.spotify.com/artist/5kI5USw1eQqhK4h3uebeLk) | [Things I Never Said](https://open.spotify.com/album/1NptmZZTnGyDq1ZKQZEcVj) | 2:25 | 2020-05-22 | 2021-05-12 |

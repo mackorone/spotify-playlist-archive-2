@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 172044,
+  "num_followers": 172075,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -85,7 +85,7 @@
         }
       ],
       "duration_ms": 245226,
-      "name": "Jangan Paksa Rindu - Beda",
+      "name": "Jangan Paksa Rindu",
       "url": "https://open.spotify.com/track/79tbBuciPV221EozY3RKQv"
     },
     {
@@ -195,22 +195,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Rumah",
-        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
-      },
-      "artists": [
-        {
-          "name": "Salma Salsabil",
-          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
-        }
-      ],
-      "duration_ms": 258845,
-      "name": "Rumah",
-      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Nadhif",
         "url": "https://open.spotify.com/album/19zDJ0Nd8Xfv7ctcQrlT5k"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 248972,
       "name": "jatuh cinta lagi",
       "url": "https://open.spotify.com/track/6ACqXjnh3C5pXTEFN5vPBE"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Rumah",
+        "url": "https://open.spotify.com/album/1NN5iqgzE9RaMLjNqOEiXn"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "duration_ms": 258845,
+      "name": "Rumah",
+      "url": "https://open.spotify.com/track/1nHHvpO3so53lVsiWCTzHk"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Mati-Matian",
-        "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 244137,
-      "name": "Mati-Matian",
-      "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Bila Memang Kamu",
         "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 231093,
       "name": "Bila Memang Kamu",
       "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Mati-Matian",
+        "url": "https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 244137,
+      "name": "Mati-Matian",
+      "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Hafiz",
-        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
-      },
-      "artists": [
-        {
-          "name": "Hafiz Suip",
-          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
-        }
-      ],
-      "duration_ms": 263480,
-      "name": "Bahagiamu Deritaku",
-      "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Bermuara",
         "url": "https://open.spotify.com/album/14CzP48sGOaDXL2aTwUUgd"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Hafiz",
+        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
+      },
+      "artists": [
+        {
+          "name": "Hafiz Suip",
+          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+        }
+      ],
+      "duration_ms": 263480,
+      "name": "Bahagiamu Deritaku",
+      "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
     },
     {
       "added_at": "2026-09-18 00:19:01",

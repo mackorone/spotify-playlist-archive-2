@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2096281,
+  "num_followers": 2096006,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "Signs of Life",
-        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
-      },
-      "artists": [
-        {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        }
-      ],
-      "duration_ms": 233026,
-      "name": "System",
-      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "After Rain",
         "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 294000,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Signs of Life",
+        "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "duration_ms": 233026,
+      "name": "System",
+      "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "With You - A Sweet Little Love Song Demo",
-        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "With You - A Sweet Little Love Song Demo",
-      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Big Bend (An Original Soundtrack for Public Television)",
         "url": "https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "With You - A Sweet Little Love Song Demo",
+        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 154573,
+      "name": "With You - A Sweet Little Love Song Demo",
+      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "When Smoke Rises",
         "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
       },
@@ -1111,22 +1111,6 @@
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1159,6 +1143,22 @@
       "duration_ms": 257904,
       "name": "Mouth of a Flower",
       "url": "https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 208746,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/7wStk0361hcPEtJc4KbOPf"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Rolling On",
+        "url": "https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Harris",
+          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
+        }
+      ],
+      "duration_ms": 176748,
+      "name": "Rolling On",
+      "url": "https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "No Rain, No Rose (Vinyl)",
         "url": "https://open.spotify.com/album/2clhqrLkiHjHuFFNbaKtiE"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 313078,
       "name": "I Am California (feat. Gregory Alan Isakov)",
       "url": "https://open.spotify.com/track/27ytYULTu6QSZBhGaOKq9i"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Rolling On",
-        "url": "https://open.spotify.com/album/0LXGdiWrkYMuLxfRbGW4FX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Harris",
-          "url": "https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG"
-        }
-      ],
-      "duration_ms": 176748,
-      "name": "Rolling On",
-      "url": "https://open.spotify.com/track/5QZHOS6ipp8liMXtvzIscD"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
+        "name": "Those Nights",
+        "url": "https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz"
+      },
+      "artists": [
+        {
+          "name": "Carla Rego",
+          "url": "https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk"
+        }
+      ],
+      "duration_ms": 153979,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 251733,
       "name": "America",
       "url": "https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
-        "name": "Those Nights",
-        "url": "https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz"
-      },
-      "artists": [
-        {
-          "name": "Carla Rego",
-          "url": "https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk"
-        }
-      ],
-      "duration_ms": 153979,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe"
     },
     {
       "added_at": "2026-01-09 13:51:16",

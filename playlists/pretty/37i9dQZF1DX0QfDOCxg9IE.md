@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,384 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,379 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 59 | [Me Liga Logia](https://open.spotify.com/track/3YXFHZZRd2tzqMwsNx0cYv) | [Nikos Oikonomopoulos](https://open.spotify.com/artist/1MicVtcHS3vuNVCrd1un7s) | [11 Me Liga Logia](https://open.spotify.com/album/5nEWR0VKb4FVUEVn1wD0Oe) | 3:42 |
 | 60 | [Ατελιέ](https://open.spotify.com/track/0vXYrIUdPXRvARKMJT1E98) | [Papazó](https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ), [Akylas](https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL) | [Ατελιέ](https://open.spotify.com/album/2y85afbwnxX8q0yGoCqDzu) | 2:36 |
 
-Snapshot ID: `AAAAACGYwqQw6qT+kuOIZ7NWc1BCod6/`
+Snapshot ID: `AAAAAM7grRgL8aZqhSdo7Z7WOqOAcY5W`

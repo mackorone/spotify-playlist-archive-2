@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,061 likes - 26 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,066 likes - 26 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 25 | [Desert Oasis](https://open.spotify.com/track/4raVYWt5YDX4GlLDUrRM9c) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:34 |
 | 26 | [MORTAL](https://open.spotify.com/track/2DsKEr398bpEAOJvZjem6L) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:21 |
 
-Snapshot ID: `aq8iAAAAAACEIDu5Z7Qg72RousZiFEDo`
+Snapshot ID: `arBzgAAAAABoklWnsw22Q+vaC+OXua25`

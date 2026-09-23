@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0627\u0628\u0648 \u0627\u0644\u0647\u0648\u0627",
+  "description": "\u0643\u0644 \u0645\u0627 \u0647\u0648 \u062c\u062f\u064a\u062f \u0641\u064a \u0639\u0627\u0644\u0645 \u0627\u0644\u0628\u0648\u0628 \u0627\u0644\u0645\u0635\u0631\u064a. \u0627\u0644\u063a\u0644\u0627\u0641: \u0632\u064a\u062f \u062e\u0627\u0644\u062f \u0648\u0646\u0627\u0635\u0631",
   "name": "\u0628\u0648\u0628 \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -3099,6 +3099,28 @@
     },
     {
       "album": {
+        "name": "HASESS BIK",
+        "url": "https://open.spotify.com/album/14rd2zLm3Ijw9yEieR8iEc"
+      },
+      "artists": [
+        {
+          "name": "Zaid Khaled",
+          "url": "https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r"
+        },
+        {
+          "name": "Nasser",
+          "url": "https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246250,
+      "name": "HASESS BIK",
+      "url": "https://open.spotify.com/track/6KqmdbNxbqcgbBdQJIkD76"
+    },
+    {
+      "album": {
         "name": "Hatwhashna",
         "url": "https://open.spotify.com/album/2SpDaTDqpebKTgQyKtf51j"
       },
@@ -4924,7 +4946,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 193000,
       "name": "Ostoura - \u0627\u0633\u0637\u0648\u0631\u0647",
       "url": "https://open.spotify.com/track/38HyhECslsKSlbXnvy6KLD"
@@ -5628,7 +5650,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 172880,
       "name": "Shta\u2019Tellak",
       "url": "https://open.spotify.com/track/28kL0bJHgjz1c8yxjt4tDZ"
@@ -6918,6 +6940,24 @@
       "duration_ms": 254617,
       "name": "\u0622\u062e\u0631 \u0625\u0635\u062f\u0627\u0631",
       "url": "https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD"
+    },
+    {
+      "album": {
+        "name": "\u0623\u0645\u0627\u0646\u0629 \u0645\u0627\u062a\u0645\u0634\u064a\u0634",
+        "url": "https://open.spotify.com/album/39wyOun2YvyHWYfpttmu6t"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220786,
+      "name": "\u0623\u0645\u0627\u0646\u0629 \u0645\u0627\u062a\u0645\u0634\u064a\u0634",
+      "url": "https://open.spotify.com/track/0trItpxok4P4Wjn80gn6U3"
     },
     {
       "album": {

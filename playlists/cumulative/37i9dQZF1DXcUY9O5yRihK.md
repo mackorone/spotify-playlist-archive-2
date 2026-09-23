@@ -4,7 +4,7 @@
 
 > Bossa nova vibes for the hopeless romantic daydreamers\. Cover: Liana Flores
 
-192 songs - 9 hr 39 min
+193 songs - 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,13 +15,14 @@
 | [Adagio](https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO) | 2:56 | 2025-01-10 |  |
 | [Adagio](https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Adagio](https://open.spotify.com/album/3TAhlJxvOBskHFd0J1YRmq) | 2:56 | 2025-01-10 | 2026-08-16 |
 | [after all](https://open.spotify.com/track/4UCuyeaovBIUlyeecxU9Q4) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [after all](https://open.spotify.com/album/7lzGyOwEpw8hCGQge8SS2D) | 3:13 | 2026-06-19 |  |
-| [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 | 2024-10-18 |  |
+| [After the First Kiss](https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [After the First Kiss](https://open.spotify.com/album/1Cvw7CEYBIp4ptnA3UzDxO) | 3:34 | 2024-10-18 | 2026-09-23 |
 | [After You](https://open.spotify.com/track/3VpSYpjB9JwFU6y3X5LcVi) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [After You](https://open.spotify.com/album/5gmMAhYtbJG8oEbrpdLhdL) | 3:23 | 2023-12-08 | 2024-09-14 |
 | [aime](https://open.spotify.com/track/6fW0lH7uRHh0kDXBHuYLkL) | [Rook1e](https://open.spotify.com/artist/5NlA3ayVBDY3uDCCEZ1dID), [Chevy](https://open.spotify.com/artist/4WfJogOUKB3HihGTS6Fsxm) | [Sleepy Boy](https://open.spotify.com/album/0A7zAV59eGlFNQXFYAOsUo) | 1:50 | 2023-01-06 | 2023-09-16 |
 | [All Her Favorite Songs \(with Little Stranger\)](https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3), [Little Stranger](https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq) | [All Her Favorite Songs \(with Little Stranger\)](https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG) | 3:34 | 2023-01-20 | 2023-10-24 |
 | [All Night Parking \(with Erroll Garner\) Interlude](https://open.spotify.com/track/496vIKS2INz840xZaKncvR) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 2:41 | 2023-01-06 |  |
 | [All Over Again](https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [All Over Again](https://open.spotify.com/album/022igxh5JAOECiWyHG3Fim) | 2:58 | 2023-09-08 | 2025-05-31 |
 | [All That I Need](https://open.spotify.com/track/1YEc4P48PIWSPNip6FaI3T) | [Ebony Loren](https://open.spotify.com/artist/17DzgGdVKwrEdKxc4sPMnY), [Matthew Ifield](https://open.spotify.com/artist/6yMqTedMPaztNCXt74pVMI), [Sebastian Kamae](https://open.spotify.com/artist/7GsvnIE0bUBu6WZXO3ryJe) | [All That I Need](https://open.spotify.com/album/6Bi5mLTgH9zeVRmYb4AmCo) | 3:42 | 2023-08-04 |  |
+| [All This Time](https://open.spotify.com/track/6VQknLdmIdCMS5kiftcxnd) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [All This Time](https://open.spotify.com/album/2Rv6pcmNupbHd4VXZT0cG0) | 3:57 | 2026-09-22 |  |
 | [Allergies \(feat\. Delaney Bailey\)](https://open.spotify.com/track/0QH4XjlKSY8Gdory7hG4ZN) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Allergies \(feat\. Delaney Bailey\)](https://open.spotify.com/album/2flxq9q7ZB2QNt3c6ZJhsz) | 3:24 | 2024-07-26 |  |
 | [Amber](https://open.spotify.com/track/5Z4EEIaSzeRmYze3W47S1k) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:53 | 2023-01-06 | 2024-04-13 |
 | [Anywhere](https://open.spotify.com/track/0U6S4ELEx0YA7JlhELnZaf) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Sensitive Soul](https://open.spotify.com/album/16DsW178EtZBoVHGatdPoa) | 2:26 | 2023-01-06 | 2024-02-10 |

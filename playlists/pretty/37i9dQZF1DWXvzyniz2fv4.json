@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158090,
+  "num_followers": 158085,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
+        "name": "Dias de Luta Dias de Gl\u00f3ria",
+        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 137000,
+      "name": "Dias de Luta Dias de Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
         "name": "Mais Al\u00e9m",
         "url": "https://open.spotify.com/album/3oFspd25fezaVVMFUPwXmN"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 193854,
       "name": "Mais Al\u00e9m",
       "url": "https://open.spotify.com/track/4usWhbl28jDY4RhZf3oJea"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "Dias de Luta Dias de Gl\u00f3ria",
-        "url": "https://open.spotify.com/album/3PwUdLrZInQnytDAdxmho8"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 137000,
-      "name": "Dias de Luta Dias de Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/6xYIvHnOkTKvugd9zFSF0q"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Garotas s\u00e3o Confusas (Deluxe)",
-        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
-      },
-      "artists": [
-        {
-          "name": "Chase",
-          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
-        },
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        }
-      ],
-      "duration_ms": 139780,
-      "name": "A Festa",
-      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "Pra Voc\u00ea Ficar",
         "url": "https://open.spotify.com/album/3Ub14El2fpwfXczl3uPPrl"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 139714,
       "name": "Minissaia",
       "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Garotas s\u00e3o Confusas (Deluxe)",
+        "url": "https://open.spotify.com/album/5aQcD7w6t6fWkwgbSvU1A7"
+      },
+      "artists": [
+        {
+          "name": "Chase",
+          "url": "https://open.spotify.com/artist/7oOpwEg9o9LWn0xWdCwMXo"
+        },
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        }
+      ],
+      "duration_ms": 139780,
+      "name": "A Festa",
+      "url": "https://open.spotify.com/track/77bOpmfngV5UKOWBtKluRf"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Passa a Bola (Ao Vivo em Noronha)",
-        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 188319,
-      "name": "Passa a Bola - Ao Vivo em Noronha",
-      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "Ciclo Vicioso",
         "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 206142,
       "name": "Pegando Carona",
       "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Passa a Bola (Ao Vivo em Noronha)",
+        "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 188319,
+      "name": "Passa a Bola - Ao Vivo em Noronha",
+      "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
     },
     {
       "added_at": "2026-08-14 17:39:50",

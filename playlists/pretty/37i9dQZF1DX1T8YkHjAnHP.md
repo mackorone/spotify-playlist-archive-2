@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 
 > <a href="spotify:artist:5bKdC6382t97Qnpvs81Rqx">Bedouin</a>'s favorite tracks\. Updated regularly\. Curated by Bedouin\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,791 likes - 74 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,801 likes - 74 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T8YkHjAnHP.md) - [plain]
 | 73 | [Mango's in Season \- Original Mix](https://open.spotify.com/track/6tNvfbocxsTqx8GxirUtIQ) | [Mr\. G](https://open.spotify.com/artist/1xietQVw6iUIK01sfhmWSN) | [VFM EP](https://open.spotify.com/album/4Y8P8vElRxzSDJzpuiuou7) | 5:25 |
 | 74 | [Bora Bora \- Radio Edit](https://open.spotify.com/track/7FdBFLahBQA9toEM7ZfxVq) | [Robin M](https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7), [Robin Michelangelo](https://open.spotify.com/artist/5RUemJ6qQNY6Asyla2ZvbR) | [Tromlitz](https://open.spotify.com/album/3X67ZDSuvt5EaozVel4tj0) | 2:50 |
 
-Snapshot ID: `AAAAAAyHLizX0c3Lm7WvhRuOq6kUOiHh`
+Snapshot ID: `AAAAAPQSWxwZLpIlJfBa7ARGgnR4LhNN`

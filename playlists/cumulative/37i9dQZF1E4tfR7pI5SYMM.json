@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, Roderiko Pop, NEWLAND and more",
+  "description": "With Roderiko Pop, NEWLAND, MIK's Reaction and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -1247,6 +1247,24 @@
     },
     {
       "album": {
+        "name": "Trauma Junkie",
+        "url": "https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW"
+      },
+      "artists": [
+        {
+          "name": "The Dogs",
+          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190281,
+      "name": "Becoming God of Nothing",
+      "url": "https://open.spotify.com/track/1CtOuHOoXVcCTsSvf8gUB0"
+    },
+    {
+      "album": {
         "name": "Edward",
         "url": "https://open.spotify.com/album/2s7A3uMGrwmMUItatNVX3D"
       },
@@ -1456,7 +1474,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 189375,
       "name": "Black Raincoat",
       "url": "https://open.spotify.com/track/2zgHgAZMfJnzSsWk7RNAyt"
@@ -3070,7 +3088,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 220376,
       "name": "Deep",
       "url": "https://open.spotify.com/track/3sUcCa6qKH6d7Lo0epfqTW"
@@ -13620,7 +13638,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 229908,
       "name": "SOLITUDE",
       "url": "https://open.spotify.com/track/2DHP0zUJf2YqWQWSBG2hpB"
@@ -16443,6 +16461,24 @@
     },
     {
       "album": {
+        "name": "Enchanted Melodies by Aloysius Turq",
+        "url": "https://open.spotify.com/album/5m6GDygdhn1f8Ijap99DOx"
+      },
+      "artists": [
+        {
+          "name": "Steve Liberace",
+          "url": "https://open.spotify.com/artist/0afvGMFvLw9jJ8u3Urjf5f"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208466,
+      "name": "Treasure Junkie",
+      "url": "https://open.spotify.com/track/4s070RzldQuESr2ms3AvXS"
+    },
+    {
+      "album": {
         "name": "Odvr\u00e1cen\u00e1 strana lesa",
         "url": "https://open.spotify.com/album/4OXkxWGVZB3KyhYMfZsz4R"
       },
@@ -17940,6 +17976,24 @@
       "duration_ms": 190893,
       "name": "Wing",
       "url": "https://open.spotify.com/track/4BNzJbWFSsRU6OtsdKcjKC"
+    },
+    {
+      "album": {
+        "name": "I Dance with Dragons",
+        "url": "https://open.spotify.com/album/7zULhSOEKB4MybNxh1Sijy"
+      },
+      "artists": [
+        {
+          "name": "KeyDragon",
+          "url": "https://open.spotify.com/artist/1IP8B2y5PtMvVJuuDfzYEY"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117992,
+      "name": "Wings Are Heavy",
+      "url": "https://open.spotify.com/track/6OMMqelzt9EYwY0YyqXjXv"
     },
     {
       "album": {

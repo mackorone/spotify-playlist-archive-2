@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 
 > A música certa para o seu momento de adoração\. Foto: Valesca Mayssa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,153 likes - 100 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,298 likes - 100 songs - 10 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3iXpjyhBzel.md) - [plain]
 | 68 | [Na Fenda da Rocha \- Ao Vivo](https://open.spotify.com/track/4dYO2p6RmyHEkiFvhW7NwW) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Na Fenda da Rocha \(Ao Vivo\)](https://open.spotify.com/album/3L3usCvBRr2PkzPeA9Q9x8) | 5:49 |
 | 69 | [Tua Glória Me Abraça \- Ao Vivo](https://open.spotify.com/track/3GisPyEirIgTI6mEeJ7SHL) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tua Glória Me Abraça \(Ao Vivo\)](https://open.spotify.com/album/1GXc9lZVWfB4msh6AnaRSa) | 5:27 |
 | 70 | [Poderoso Deus \(Medley\)](https://open.spotify.com/track/3ruNAACfSrIgiZddm3zlmt) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Poderoso Deus \(Medley\)](https://open.spotify.com/album/6inDdpqWMqmciGgui8JUnl) | 7:35 |
-| 71 | [Espírito Santo \(Inhabit\)](https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Avenida do Arrependimento](https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM) | 5:23 |
-| 72 | [Sião / Derrama \- Ao Vivo](https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Sião / Derrama \(Ao Vivo\)](https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9) | 8:28 |
+| 71 | [Sião / Derrama \- Ao Vivo](https://open.spotify.com/track/3wCoKihdYveDT1a1KJ5Xuc) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Sião / Derrama \(Ao Vivo\)](https://open.spotify.com/album/5L110gAsaoP4ONmUYngUm9) | 8:28 |
+| 72 | [Espírito Santo \(Inhabit\)](https://open.spotify.com/track/0X3vkwKZwCBP2XCLSvPf1b) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Avenida do Arrependimento](https://open.spotify.com/album/20gaQaN1H4v5Y4PSvES6fM) | 5:23 |
 | 73 | [O Céu Responde Diferente \- Ao Vivo](https://open.spotify.com/track/6edijq5bkyxoXa1MOXmqAD) | [Sued Silva](https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2), [Dalete Hungria](https://open.spotify.com/artist/3OPEB0wjZK1dnoqKG8tCfd), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [O Céu Responde Diferente \(Ao Vivo\)](https://open.spotify.com/album/3bZHYzfEG3ymnkoZOFP7vz) | 6:17 |
 | 74 | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/track/74EFSXhkUmwwWFZZdk9U56) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [A Glória Desta Última Casa \(Ao Vivo\)](https://open.spotify.com/album/1VcoQzbEkRobO2YUvol2HK) | 7:11 |
 | 75 | [Vou Seguir](https://open.spotify.com/track/7HQ4iOLhrrTAna6RuciH5E) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vou Seguir](https://open.spotify.com/album/7MKPG8Puatu6YPUCYwUKBy) | 4:48 |

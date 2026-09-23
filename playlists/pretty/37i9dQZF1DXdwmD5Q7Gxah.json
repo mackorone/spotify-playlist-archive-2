@@ -1,13 +1,29 @@
 {
   "description": "a smattering of vibes this week, and many takes on being in love. cover: Lizzy McAlpine <a href=\"https://loremandfriends.substack.com/p/millennial-optimism-we-missed-you\">(p.s. read our substack!)</a>   ",
-  "num_followers": 1185115,
+  "num_followers": 1185048,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANrr9HxxOIbOF7IPV9QuxHuZAVUP",
+  "snapshot_id": "AAAAAAn3QC6Mk28w2xVvhFPpTuofOrmU",
   "tracks": [
+    {
+      "added_at": "2026-09-23 01:03:30",
+      "album": {
+        "name": "I Believe In You",
+        "url": "https://open.spotify.com/album/41IH84UYCnyaH90efEom2S"
+      },
+      "artists": [
+        {
+          "name": "Heathers",
+          "url": "https://open.spotify.com/artist/4ece8MHBxffv0dw7gThk6M"
+        }
+      ],
+      "duration_ms": 153779,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/4edmBZ5KvOETrP0OsAw8nS"
+    },
     {
       "added_at": "2026-09-18 04:02:45",
       "album": {
@@ -23,90 +39,6 @@
       "duration_ms": 196910,
       "name": "Peach",
       "url": "https://open.spotify.com/track/31n7a6fXg7srP9DSmAEmp2"
-    },
-    {
-      "added_at": "2026-09-18 04:02:45",
-      "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 296285,
-      "name": "\u2060Wildfire",
-      "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
-    },
-    {
-      "added_at": "2026-09-18 04:02:45",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 201331,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
-    },
-    {
-      "added_at": "2026-09-18 04:02:45",
-      "album": {
-        "name": "Bass Persuades",
-        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Model/Actriz",
-          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
-        }
-      ],
-      "duration_ms": 223700,
-      "name": "Different Religion (feat. Model/Actriz)",
-      "url": "https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV"
-    },
-    {
-      "added_at": "2026-07-17 04:00:59",
-      "album": {
-        "name": "Take Me to Sunrise",
-        "url": "https://open.spotify.com/album/1NT0szKQ4xFjSpNqovc3Qy"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 194466,
-      "name": "Take Me to Sunrise",
-      "url": "https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU"
-    },
-    {
-      "added_at": "2026-09-18 04:02:45",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 305875,
-      "name": "Over country",
-      "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
     },
     {
       "added_at": "2026-09-18 04:02:45",
@@ -131,18 +63,18 @@
     {
       "added_at": "2026-09-18 04:02:45",
       "album": {
-        "name": "easy rider",
-        "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
       },
       "artists": [
         {
-          "name": "untitled (halo)",
-          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 234218,
-      "name": "easy rider",
-      "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
+      "duration_ms": 296285,
+      "name": "\u2060Wildfire",
+      "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
     },
     {
       "added_at": "2026-09-10 10:00:07",
@@ -159,6 +91,22 @@
       "duration_ms": 213537,
       "name": "I Do",
       "url": "https://open.spotify.com/track/4Y5Zx6Dht91ZUpCQ8NPePX"
+    },
+    {
+      "added_at": "2026-09-18 04:02:45",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
     },
     {
       "added_at": "2026-09-16 18:08:10",
@@ -199,18 +147,86 @@
     {
       "added_at": "2026-09-18 04:02:45",
       "album": {
-        "name": "Hark",
-        "url": "https://open.spotify.com/album/1KSrwbIu0Fo6cqKW99dM1p"
+        "name": "Small Town",
+        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
         {
-          "name": "Clyde Crooks",
-          "url": "https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm"
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
         }
       ],
-      "duration_ms": 248810,
-      "name": "Blocked",
-      "url": "https://open.spotify.com/track/5LKN2ysgqAQXqOesgGWNac"
+      "duration_ms": 169981,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
+    },
+    {
+      "added_at": "2026-09-18 04:02:45",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 305875,
+      "name": "Over country",
+      "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
+    },
+    {
+      "added_at": "2026-09-18 04:02:45",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/3Ls1DQnwtBk8mgRVfx9xi4"
+      },
+      "artists": [
+        {
+          "name": "Sekko",
+          "url": "https://open.spotify.com/artist/1AN5wcwNGCGfwJqABp0P6y"
+        }
+      ],
+      "duration_ms": 113544,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/2q4qACl01mufqdrQEuWkL4"
+    },
+    {
+      "added_at": "2026-08-31 22:40:13",
+      "album": {
+        "name": "Everyday, Everything Is At Stake",
+        "url": "https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj"
+      },
+      "artists": [
+        {
+          "name": "Thoom",
+          "url": "https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "I'm Going Back to Lebanon",
+      "url": "https://open.spotify.com/track/5YDkE7W72iz7iN4tHi32SZ"
+    },
+    {
+      "added_at": "2026-09-18 04:02:45",
+      "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Model/Actriz",
+          "url": "https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC"
+        }
+      ],
+      "duration_ms": 223700,
+      "name": "Different Religion (feat. Model/Actriz)",
+      "url": "https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV"
     },
     {
       "added_at": "2026-09-18 04:02:45",
@@ -227,6 +243,54 @@
       "duration_ms": 166154,
       "name": "Sex",
       "url": "https://open.spotify.com/track/28JTepgeSEGHe9OcvHFzAs"
+    },
+    {
+      "added_at": "2026-09-18 04:02:45",
+      "album": {
+        "name": "easy rider",
+        "url": "https://open.spotify.com/album/2gwi64eVUVuQddXfNcaFLH"
+      },
+      "artists": [
+        {
+          "name": "untitled (halo)",
+          "url": "https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn"
+        }
+      ],
+      "duration_ms": 234218,
+      "name": "easy rider",
+      "url": "https://open.spotify.com/track/6R4jGWPkqmfGHyaLTJekTr"
+    },
+    {
+      "added_at": "2026-07-17 04:00:59",
+      "album": {
+        "name": "Take Me to Sunrise",
+        "url": "https://open.spotify.com/album/1NT0szKQ4xFjSpNqovc3Qy"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 194466,
+      "name": "Take Me to Sunrise",
+      "url": "https://open.spotify.com/track/5784KrKKqX0AVijoYlP3LU"
+    },
+    {
+      "added_at": "2026-09-18 04:02:45",
+      "album": {
+        "name": "Hark",
+        "url": "https://open.spotify.com/album/1KSrwbIu0Fo6cqKW99dM1p"
+      },
+      "artists": [
+        {
+          "name": "Clyde Crooks",
+          "url": "https://open.spotify.com/artist/2JGSJY1eRd5tf4vCONcqXm"
+        }
+      ],
+      "duration_ms": 248810,
+      "name": "Blocked",
+      "url": "https://open.spotify.com/track/5LKN2ysgqAQXqOesgGWNac"
     },
     {
       "added_at": "2026-09-16 18:08:10",
@@ -261,22 +325,6 @@
       "url": "https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB"
     },
     {
-      "added_at": "2026-09-18 04:02:45",
-      "album": {
-        "name": "Small Town",
-        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 169981,
-      "name": "Small Town",
-      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
-    },
-    {
       "added_at": "2026-09-10 10:00:07",
       "album": {
         "name": "Keep You",
@@ -307,22 +355,6 @@
       "duration_ms": 160602,
       "name": "Holy Moses",
       "url": "https://open.spotify.com/track/0F0rixNVdD8gRVkxOxQBUV"
-    },
-    {
-      "added_at": "2026-09-18 04:02:45",
-      "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/3Ls1DQnwtBk8mgRVfx9xi4"
-      },
-      "artists": [
-        {
-          "name": "Sekko",
-          "url": "https://open.spotify.com/artist/1AN5wcwNGCGfwJqABp0P6y"
-        }
-      ],
-      "duration_ms": 113544,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/2q4qACl01mufqdrQEuWkL4"
     },
     {
       "added_at": "2026-09-04 04:02:17",
@@ -519,22 +551,6 @@
       "duration_ms": 302800,
       "name": "BedHead",
       "url": "https://open.spotify.com/track/5d3QY0Kq63rwQqPDe5usTs"
-    },
-    {
-      "added_at": "2026-08-31 22:40:13",
-      "album": {
-        "name": "Everyday, Everything Is At Stake",
-        "url": "https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj"
-      },
-      "artists": [
-        {
-          "name": "Thoom",
-          "url": "https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "I'm Going Back to Lebanon",
-      "url": "https://open.spotify.com/track/5YDkE7W72iz7iN4tHi32SZ"
     },
     {
       "added_at": "2026-09-04 04:02:17",
@@ -1935,22 +1951,6 @@
     {
       "added_at": "2026-05-29 04:01:58",
       "album": {
-        "name": "Blue Angel Sparkling Silver 2",
-        "url": "https://open.spotify.com/album/6jWka3XgiDpdNIuo04NMor"
-      },
-      "artists": [
-        {
-          "name": "Quiet Light",
-          "url": "https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9"
-        }
-      ],
-      "duration_ms": 186446,
-      "name": "You Say I Love You",
-      "url": "https://open.spotify.com/track/2kv2epe0oiyQs8msJXbn9w"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
         "name": "January Sweetheart",
         "url": "https://open.spotify.com/album/2DmxoaPuKOTZwQJvZWTYKP"
       },
@@ -2003,22 +2003,6 @@
       "duration_ms": 146315,
       "name": "sweet talk",
       "url": "https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "Knifefish",
-        "url": "https://open.spotify.com/album/00PbPT6noUQpRC9bWXXJu4"
-      },
-      "artists": [
-        {
-          "name": "Oxis",
-          "url": "https://open.spotify.com/artist/3b3mTvNu2TQcbJSKrvsOYb"
-        }
-      ],
-      "duration_ms": 146788,
-      "name": "Knifefish",
-      "url": "https://open.spotify.com/track/1KiWQFbHX5VPg41EEErqXh"
     },
     {
       "added_at": "2026-05-29 04:01:58",
@@ -2343,26 +2327,6 @@
       "duration_ms": 256271,
       "name": "Imitation (how to become you)",
       "url": "https://open.spotify.com/track/5c9mIk9tWe0QVM3HtoXlvk"
-    },
-    {
-      "added_at": "2026-05-29 04:01:58",
-      "album": {
-        "name": "Year of the Dragon",
-        "url": "https://open.spotify.com/album/0jW3wSM0l8sOZNlBUYaul3"
-      },
-      "artists": [
-        {
-          "name": "Bassvictim",
-          "url": "https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM"
-        },
-        {
-          "name": "Worldpeace DMT",
-          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
-        }
-      ],
-      "duration_ms": 209090,
-      "name": "Year of the Dragon",
-      "url": "https://open.spotify.com/track/7ga18SwJQ0nsigswfazZ9N"
     }
   ],
   "unique_name": "Lorem",

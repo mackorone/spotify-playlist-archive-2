@@ -4,7 +4,7 @@
 
 > pov: u hand the internet the aux
 
-382 songs - 19 hr 27 min
+383 songs - 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-04 | 2022-11-13 |
 | [Drugs I Like](https://open.spotify.com/track/6I96oT2ZcOypVJkmqSujtr) | [nate band](https://open.spotify.com/artist/2n0lFF6QKRjr0jGB9UIT1W) | [Drugs I Like](https://open.spotify.com/album/57JsFYnRzXiB4WMUsyfKPg) | 3:18 | 2025-07-01 | 2025-08-02 |
 | [Eatin' Good](https://open.spotify.com/track/1NIxmZsepizxk5Nv7oxVhP) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/2IsPyuqc8MBTSygIdYibZE) | 3:41 | 2025-01-07 | 2025-05-17 |
+| [Eatin' Good](https://open.spotify.com/track/26KX3FKbPnvDjJGkbOfANs) | [Woodcamp](https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3) | [Eatin' Good](https://open.spotify.com/album/0gkfLE2QiTHvEBO8qhHrKT) | 3:41 | 2026-09-22 |  |
 | [Edge](https://open.spotify.com/track/4pCvnGkf7jveRMKHZosxxB) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [The Silence Is Deafening](https://open.spotify.com/album/52vZKQID1SqrbDnzE0Je5K) | 3:43 | 2022-01-26 | 2022-04-21 |
 | [ELECTRIC LOVE](https://open.spotify.com/track/1LOjIBinbAVfmVqqELvgLh) | [AVELLO](https://open.spotify.com/artist/1ZR5GnPw0Jkb5M4hnBwzuZ), [HXRT](https://open.spotify.com/artist/1DCtwrGZTUVyULqkkAQA9E) | [ELECTRIC LOVE](https://open.spotify.com/album/4lPX7RafbFpqoHQfNvj0HG) | 2:44 | 2025-08-29 |  |
 | [Escapism\. \- Sped Up](https://open.spotify.com/track/3XCpS4k8WqNnCpcDOSRRuz) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 3:59 | 2023-02-06 | 2024-04-19 |
@@ -384,7 +385,7 @@
 | [Would You \(go to bed with me?\)](https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX) | [Campbell](https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Would You \(go to bed with me?\)](https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1) | 2:00 | 2023-10-11 | 2023-12-02 |
 | [wutiwant](https://open.spotify.com/track/6zsUUymWPtq5bkoc5y97cM) | [saraunh0ly](https://open.spotify.com/artist/04HHljh1nKyEVPeIzM0Oid) | [wutiwant](https://open.spotify.com/album/4NHsl52eIxHX3ZGh66ZYUx) | 3:13 | 2024-07-19 | 2024-07-29 |
 | [Xtal](https://open.spotify.com/track/7o2AeQZzfCERsRmOM86EcB) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Selected Ambient Works 85\-92](https://open.spotify.com/album/7aNclGRxTysfh6z0d8671k) | 4:53 | 2021-12-03 | 2022-04-19 |
-| [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-26 |  |
+| [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-07-26 | 2026-09-23 |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-26 | 2024-03-30 |
 | [You Will See](https://open.spotify.com/track/7l6AuWpDlecpVxI0Yq4zmI) | [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [SESA](https://open.spotify.com/artist/7HgOnmGGMNtNOzo6Rbs1fQ) | [You Will See](https://open.spotify.com/album/3msZ8noFEpIw19fsd3fxay) | 2:23 | 2024-03-25 | 2024-08-03 |
 | [You're in My System \- Dennis Quin Vocal Mix](https://open.spotify.com/track/7uRqCJHRsrkBU5W3RG0cnL) | [Kerri Chandler](https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Troy Denari](https://open.spotify.com/artist/2cNKz5QJgfclP9Ay7Okghv), [Dennis Quin](https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul) | [You're in My System \(Dennis Quin Remixes\)](https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U) | 6:05 | 2023-07-06 | 2023-08-19 |

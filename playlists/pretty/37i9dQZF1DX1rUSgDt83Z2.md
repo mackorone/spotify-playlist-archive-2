@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,562 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,609 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Verlangen](https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4) | 3:33 |
 | 2 | [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 |
-| 3 | [Ik Ben Niet Meer Bang](https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Ben Niet Meer Bang](https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi) | 3:01 |
-| 4 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 |
+| 3 | [Hoe hou ik dit vast](https://open.spotify.com/track/4ELJFskubTyiQQJeWfFUvq) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hoe hou ik dit vast](https://open.spotify.com/album/3qXuDOAngn1VBoXcPYf3jh) | 3:38 |
+| 4 | [Ik Ben Niet Meer Bang](https://open.spotify.com/track/6nZo4DQDz3UMqKCXi6UvYY) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Ik Ben Niet Meer Bang](https://open.spotify.com/album/189EqxKsLbH39r47N0VMbi) | 3:01 |
 | 5 | [Tussen Jou en Mij](https://open.spotify.com/track/0GbBLC50dJxjPiTglbxcy6) | [Willem & Jan](https://open.spotify.com/artist/56bIft42o8T6nn1awj4hjq), [Waylon](https://open.spotify.com/artist/5iuXjsXsTXs8lwmqzsF6dZ), [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq) | [Tussen Jou en Mij](https://open.spotify.com/album/5vIgGlwoi1hLNQfhn5PVcm) | 2:58 |
 | 6 | [⁠Tot Het Eind Van Mij \- Akoestisch](https://open.spotify.com/track/2uA8dEMA61IBCXGz4lA3GD) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [⁠Tot Het Eind Van Mij \- Akoestisch](https://open.spotify.com/album/5kgoAHKiaOk2YsJe6HATxX) | 2:30 |
 | 7 | [Huisje Aan De Zee](https://open.spotify.com/track/2UZcGTX1HbBi74VZY7VJC9) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Huisje Aan De Zee](https://open.spotify.com/album/3MirAdubTvdxVC77yoeDjc) | 2:46 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 47 | [Hou van mezelf](https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43) | [Pleun](https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx) | [Hou van mezelf](https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD) | 3:00 |
 | 48 | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 |
 | 49 | [Als je eerlijk bent, Ben](https://open.spotify.com/track/6ToR2lNMZho12BD8BvWBK5) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Als je eerlijk bent, Ben](https://open.spotify.com/album/2eWTXaYSJQy8j36o5OJHj2) | 2:36 |
-| 50 | [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 |
+| 50 | [Je weet dat ik zo ben](https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [Je weet dat ik zo ben](https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr) | 3:02 |
 
 Snapshot ID: `AAAAAKQ4Mq9N5yUZMOv/3pl9Kh+0iNrl`

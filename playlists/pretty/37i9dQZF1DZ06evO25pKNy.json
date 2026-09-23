@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 6315,
+  "num_followers": 6317,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADAh/WShhT2FGN5A+OdVtlx",
+  "snapshot_id": "arBzgAAAAAAxukgccIRo68WUhJmNOH28",
   "tracks": [
     {
       "added_at": null,
@@ -143,6 +143,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como Debe Ser",
+        "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
+      },
+      "artists": [
+        {
+          "name": "Marca De Rancho",
+          "url": "https://open.spotify.com/artist/0z9MnTktQ28puENoMtrc9U"
+        },
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        },
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 130087,
+      "name": "Como Debe Ser",
+      "url": "https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Bank Robbery (feat. Herencia de Patrones)",
         "url": "https://open.spotify.com/album/5neNi0izz26mhmGuyJ0U5C"
       },
@@ -167,30 +191,6 @@
       "duration_ms": 158973,
       "name": "The Bank Robbery",
       "url": "https://open.spotify.com/track/5xlAr5fNDmI38RlPBpVwvS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Debe Ser",
-        "url": "https://open.spotify.com/album/0tQPxSvQvoCWF2p2ziWmqM"
-      },
-      "artists": [
-        {
-          "name": "Marca De Rancho",
-          "url": "https://open.spotify.com/artist/0z9MnTktQ28puENoMtrc9U"
-        },
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        },
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 130087,
-      "name": "Como Debe Ser",
-      "url": "https://open.spotify.com/track/7BYQKLz2yWFePlxApyvbeP"
     },
     {
       "added_at": null,
@@ -283,18 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Taliban",
-        "url": "https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r"
+        "name": "BAJITA LA TENAZA",
+        "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
       },
       "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 184560,
-      "name": "El Taliban",
-      "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
+      "duration_ms": 198598,
+      "name": "EL CRESTA",
+      "url": "https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek"
     },
     {
       "added_at": null,
@@ -315,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "BAJITA LA TENAZA",
-        "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
+        "name": "El Taliban",
+        "url": "https://open.spotify.com/album/40EEdGVKmA7zcMOr5HGP6r"
       },
       "artists": [
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        },
         {
           "name": "Los Hijos De Garcia",
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 198598,
-      "name": "EL CRESTA",
-      "url": "https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek"
+      "duration_ms": 184560,
+      "name": "El Taliban",
+      "url": "https://open.spotify.com/track/0N3ffTqqz9fzuxVt8EY341"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 176953,
-      "name": "Cuando Me Faltaban",
-      "url": "https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Con Tololoche",
         "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 226986,
       "name": "Mi Gusto Es - En Vivo",
       "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 176953,
+      "name": "Cuando Me Faltaban",
+      "url": "https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp"
     },
     {
       "added_at": null,

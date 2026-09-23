@@ -1,12 +1,12 @@
 {
   "description": "This is Daniel Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 449686,
+  "num_followers": 449754,
   "original_name": "This Is Daniel Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAADbdv+kUWN63Yw0FskYCCSI",
+  "snapshot_id": "arBzgAAAAAC+SfcU5bCNZr4dyaAWYvhV",
   "tracks": [
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 88916,
-      "name": "A Cappella",
-      "url": "https://open.spotify.com/track/4kgBKSVyDGTIpqnglasnKW"
+      "duration_ms": 305081,
+      "name": "Death & Taxes",
+      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI"
     },
     {
       "added_at": null,
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 305081,
-      "name": "Death & Taxes",
-      "url": "https://open.spotify.com/track/1epujjBDhuqmYAwAhR29xI"
+      "duration_ms": 88916,
+      "name": "A Cappella",
+      "url": "https://open.spotify.com/track/4kgBKSVyDGTIpqnglasnKW"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: Ethel Cain.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,128 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,131 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 69 | [Touch \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7d6W6Tn71IWbxe1K5oU808) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 3:26 |
 | 70 | [Human \- Jim Eno Sessions](https://open.spotify.com/track/1f2uDfQy0SvstwYms24MDm) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Spotify Singles](https://open.spotify.com/album/7nlLF1Csqtfu6ymxACH3WM) | 3:39 |
 | 71 | [Let Me Down Slowly \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1qlc10Iyy8AhJ4zJqwzx4Z) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Spotify Singles](https://open.spotify.com/album/3t6qlpHjZ5sqv49NbUB5Rn) | 2:49 |
-| 72 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
-| 73 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 |
+| 72 | [Someone Like You \- Spotify Singles](https://open.spotify.com/track/2t96CFKbjUUd6Fc1OXQiKv) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Spotify Singles](https://open.spotify.com/album/6nsgXwSLcvYXr4RF2JiN7z) | 5:21 |
+| 73 | [All On Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:31 |
 | 74 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 |
 | 75 | [Redbone \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4gWnIoKUqnaWuzvGumd2rp) | [McClenney](https://open.spotify.com/artist/44drVL4jbdo6T6llD5cMgx) | [Spotify Singles](https://open.spotify.com/album/2r2XwYuiTPWL72f2ufD1ic) | 3:22 |
 | 76 | [Mercy \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/2Zir0CdFxEVZmf4Yzq4gVI) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Spotify Singles](https://open.spotify.com/album/7boqvY24W5gfCDALsi4QD1) | 4:13 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 92 | [This Life \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5HPEdBhvOFVJDEAPW1dKfa) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 5:11 |
 | 93 | [8 Letters \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4N8CuFtyo4UanLTEW0EkBb) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 3:14 |
 | 94 | [I've Got The World On A String \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/3BtIUTUYKdzrgTj7gjcV0W) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Spotify Singles](https://open.spotify.com/album/64oiZ51GV3YCpCzEafi1sp) | 2:58 |
-| 95 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 |
-| 96 | [Ultralight Beam](https://open.spotify.com/track/3wAW1vIrWxUmJajU9tl0AP) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 2:55 |
+| 95 | [Ultralight Beam](https://open.spotify.com/track/3wAW1vIrWxUmJajU9tl0AP) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Spotify Singles](https://open.spotify.com/album/2pmZrbCbPmu1tKnABQTumb) | 2:55 |
+| 96 | [cool girl \- Recorded at Spotify Studios, NYC / 2016](https://open.spotify.com/track/6Cpcf5MKT7O04wlSJ7EixQ) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Spotify Singles](https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD) | 3:24 |
 | 97 | [A Change Is Gonna Come \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 4:15 |
 | 98 | [Whiskey \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7KeNKDufYkAf3VKOumK12r) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Spotify Singles](https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv) | 3:26 |
 | 99 | [Salt And The Sea \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/7aGPEHOboWuZmcL8lRkjWg) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Spotify Singles](https://open.spotify.com/album/5iqosfNUlegsdU0Zd5AJfp) | 5:14 |

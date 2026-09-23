@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: ORORA\)
 
-668 songs - 1 day 11 hr 44 min
+670 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Better](https://open.spotify.com/track/6a5DPLmFyHypY8VcsL8O7L) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Better](https://open.spotify.com/album/5qNWv2c6vEkt1wLQ5hBYAX) | 3:36 | 2023-11-02 | 2024-04-05 |
 | [Better days](https://open.spotify.com/track/07Utc2eDfDkCvbcKePEvhM) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Better days](https://open.spotify.com/album/1BE3pQDNd6RXRGVZUNoaVt) | 3:23 | 2025-04-18 | 2025-08-06 |
 | [beyond the trivial](https://open.spotify.com/track/3efWpp73W5W9mgwFO8adaO) | [yeni](https://open.spotify.com/artist/6SVK1qUJW8PpJOoytQcfsZ) | [beyond the trivial](https://open.spotify.com/album/0vbEPIxhYDdXf1XlWJTfpK) | 3:44 | 2024-12-05 | 2025-04-10 |
-| [bgf](https://open.spotify.com/track/52blwz2oOUkE4Now1EJIGe) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [solsol\~ condo](https://open.spotify.com/album/328oYPyGswc8jEzgTs4nsm) | 3:22 | 2026-08-20 |  |
+| [bgf](https://open.spotify.com/track/52blwz2oOUkE4Now1EJIGe) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [solsol\~ condo](https://open.spotify.com/album/328oYPyGswc8jEzgTs4nsm) | 3:22 | 2026-08-20 | 2026-09-23 |
 | [Bittersweet](https://open.spotify.com/track/4G2tzcxg0ctBk2Papi7j6C) | [sewoong](https://open.spotify.com/artist/7lZCDg75pkeQd4VYLgNPTf) | [Fisherman's knot](https://open.spotify.com/album/4h1KVlbxt4uCid76zyXtE7) | 4:17 | 2022-05-28 | 2022-07-06 |
 | [Blame The Summer](https://open.spotify.com/track/6qKlzXAyGK0eWeSQZEgcPJ) | [LENA](https://open.spotify.com/artist/7DgPtuRm6ydMd3jxoeW0TR) | [Blame The Summer](https://open.spotify.com/album/0Q4tPpbf96cgJjlfG9rs7y) | 3:28 | 2024-09-24 | 2025-02-15 |
 | [Blanche](https://open.spotify.com/track/1esahzIshP5CFjvPDobMVZ) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Mondegreen](https://open.spotify.com/album/4KlisFMPuKdK0lWRjtxLhw) | 3:19 | 2022-11-14 | 2023-04-28 |
@@ -313,6 +313,7 @@
 | [Jealousy](https://open.spotify.com/track/5D0xOSWIpc7dTIEWQHhNSY) | [Jeon Chan Bin](https://open.spotify.com/artist/6UZ8dJVWmp2olPASce03YZ) | [Jealousy](https://open.spotify.com/album/4bhD2vJg23j42c0a2J9Osr) | 2:55 | 2022-06-09 | 2022-09-06 |
 | [jellyfish](https://open.spotify.com/track/0zgiDnbDryMxEurtC0o5Ne) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [jellyfish](https://open.spotify.com/album/78uS0bGMBDygZbdxE7kwPC) | 2:37 | 2025-01-11 | 2025-04-18 |
 | [Jimmy Choo](https://open.spotify.com/track/3gut085BLA8hSaWQU6UTaP) | [nynas](https://open.spotify.com/artist/27hEewoah5kfsSOotYHJG6) | [Jimmy Choo](https://open.spotify.com/album/4ykEEw06qDPMb6Tdsu1w2Z) | 3:17 | 2023-10-27 | 2024-03-16 |
+| [Juliet](https://open.spotify.com/track/3HmJxOG052rMv8XrclNHsO) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Juliet](https://open.spotify.com/album/1lGhkflFUL6HoEZe5hOvb9) | 2:29 | 2026-09-22 |  |
 | [Just Be Here](https://open.spotify.com/track/4Dffc36mG23WsfT2pSYdmv) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [Just Be Here](https://open.spotify.com/album/05xU7EhMXDvPTxnyg9Jkll) | 3:39 | 2024-12-05 | 2025-04-18 |
 | [Just the Two of Us](https://open.spotify.com/track/16b63oOBc5rF4e88vOA8Vm) | [Soo Yeony](https://open.spotify.com/artist/2xHDCGwsXvDCLDeF555iki) | [Just the Two of Us](https://open.spotify.com/album/2PafHTEMTT62qw1LxvNOyU) | 2:45 | 2025-07-09 | 2026-01-23 |
 | [karaoke love \(Feat\. Ugly Duck\)](https://open.spotify.com/track/6xAB0AmhaIfeGkSkVXGpJ9) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [karaoke love](https://open.spotify.com/album/1VaTPAvkL829cceEPOOrUM) | 3:33 | 2023-07-14 | 2023-11-03 |
@@ -372,6 +373,7 @@
 | [Malibu](https://open.spotify.com/track/4dhQCCfrY8a4EXGZWZ4dBS) | [KIND](https://open.spotify.com/artist/1gWxpQhTiJXSFMRnwDZ7LO), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Malibu](https://open.spotify.com/album/5AI1aMZ3MZQAjr3EMVGrUv) | 3:18 | 2024-09-02 | 2025-01-19 |
 | [Man Like You](https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Man Like You](https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV) | 2:38 | 2024-09-20 | 2025-02-21 |
 | [Marshmallow](https://open.spotify.com/track/0CdKCMl8tnEFRnAKOwG2DL) | [drewboi](https://open.spotify.com/artist/4v3atOCQjqdxU6VkWfOf0U) | [Marshmallow](https://open.spotify.com/album/01YBiuiBRM0cA6qAfJn1tL) | 2:32 | 2026-03-20 | 2026-07-29 |
+| [Material](https://open.spotify.com/track/0cdsRs3eYTGkBngi9bmhRm) | [RYUL](https://open.spotify.com/artist/6NA2UPZOjtjgrd4aCEiscq), [heyzuko!](https://open.spotify.com/artist/3wfEeLYSrxfsgbLHkjiBUP) | [Material](https://open.spotify.com/album/6Hvcu5jWQtYvVnhGK396LK) | 3:05 | 2026-09-22 |  |
 | [Maybe](https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Maybe](https://open.spotify.com/album/4hKJCeZ9ZqXh8pnexuL5jg) | 3:30 | 2022-06-13 | 2022-10-05 |
 | [Me, Myself & I](https://open.spotify.com/track/1xvZEUFAyzQcphDpMrjDs9) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Me, Myself & I](https://open.spotify.com/album/1OsWJNxJABp62RsCo4Mcmb) | 3:04 | 2025-09-30 | 2026-05-15 |
 | [Mean](https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Mean](https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs) | 3:27 | 2023-10-05 | 2024-02-23 |
@@ -425,7 +427,7 @@
 | [Not That Girl](https://open.spotify.com/track/47aAWHl14baNRkXTVb4klI) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [Not That Girl](https://open.spotify.com/album/248xbwV8p63ODY1gwDkc50) | 3:38 | 2025-02-14 | 2025-06-03 |
 | [nothing sweeter](https://open.spotify.com/track/019hqR7ZWRlJJcAuNHq0tV) | [PYO](https://open.spotify.com/artist/3lHB6siiwdcLxgPkj5ovpQ) | [PIN PROJECT X PYO](https://open.spotify.com/album/3ovxTMRz2DhiLg57bT6leR) | 3:25 | 2025-08-05 | 2026-01-23 |
 | [nvrmnd](https://open.spotify.com/track/0xxtbKIRlFwQ8bZ16u7wJ4) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [SOULBYSEL Compilation 03](https://open.spotify.com/album/290gHiDTfO5EEP1j4VX7za) | 2:33 | 2022-11-09 | 2023-03-28 |
-| [NWU \(feat.Son Chamchi\)](https://open.spotify.com/track/2ldS3rZSLBrG1RzXitTNXv) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e), [Son Chamchi](https://open.spotify.com/artist/1DQsSFmlJUKZuyKZjJMlN2) | [NWU](https://open.spotify.com/album/3xyczlsgglDxGftN8mWJkK) | 3:11 | 2026-04-13 |  |
+| [NWU \(feat.Son Chamchi\)](https://open.spotify.com/track/2ldS3rZSLBrG1RzXitTNXv) | [IOHBOY](https://open.spotify.com/artist/40lwyp2MgiYdyw674W1t1e), [Son Chamchi](https://open.spotify.com/artist/1DQsSFmlJUKZuyKZjJMlN2) | [NWU](https://open.spotify.com/album/3xyczlsgglDxGftN8mWJkK) | 3:11 | 2026-04-13 | 2026-09-23 |
 | [O \(Circle\)](https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Circle \- The 1st Album](https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ) | 3:17 | 2023-03-27 | 2023-09-19 |
 | [OceanooM Duet∘☽ \(feat\. Jung YoungEun\)](https://open.spotify.com/track/4iDcQyypdqnsx9lFwJaNWU) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf) | [OceanooM Duet∘☽](https://open.spotify.com/album/4IQct8SSePLkfcJpSsKAMd) | 3:27 | 2022-07-07 | 2022-11-15 |
 | [Offline](https://open.spotify.com/track/3qAjyDCaDglrYCOka8J2Jx) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Offline](https://open.spotify.com/album/2WRZWOZaK97G1N0NJrDVfM) | 3:05 | 2026-01-22 | 2026-06-25 |

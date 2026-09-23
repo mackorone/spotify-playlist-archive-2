@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,779 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,778 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 31 | [No Tomorrow \(Give It Up\)](https://open.spotify.com/track/54CxfEHBo4orjryP30IcDy) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [No Tomorrow \(Give It Up\)](https://open.spotify.com/album/6w42YzfePjrV7RWiJeIXoS) | 4:26 |
 | 32 | [SPARKLE](https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:25 |
 | 33 | [FIGHT DUB CLUB](https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [J\-Rexxx](https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx), [RUEED](https://open.spotify.com/artist/4iIx9O5HVTda3EyChrHkTK) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:01 |
-| 34 | [FAITH](https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ), [GOMESS](https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 5:47 |
+| 34 | [Jungle Love](https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 3:09 |
 | 35 | [WILD ANGEL](https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:40 |
 | 36 | [CLIMAX BULLETS](https://open.spotify.com/track/6Hmv7N9nVGPziEslVoHnoz) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [MUSIC WORLD](https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW) | 4:06 |
 | 37 | [BETTER DAYS](https://open.spotify.com/track/5qNZWyunNyD505JVslU1TE) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 5:05 |
-| 38 | [Jungle Love](https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY) | 3:09 |
-| 39 | [LONELY LONELY](https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [LONELY LONELY](https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z) | 4:37 |
+| 38 | [LONELY LONELY](https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [LONELY LONELY](https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z) | 4:37 |
+| 39 | [FAITH](https://open.spotify.com/track/3FSzby80mFX8cBt1zGbjUr) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [なみちえ](https://open.spotify.com/artist/5oLsQ9qhHfYCV5L5XNMxAZ), [GOMESS](https://open.spotify.com/artist/37cFtvT8bs2rU39mvPLN0I) | [LOST IN PARADISE](https://open.spotify.com/album/7eVQUS48aCo0xfUPOlNVlT) | 5:47 |
 | 40 | [Whole Lotta Love](https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [木村昴](https://open.spotify.com/artist/7xgoSh8BBoyKV02juTgUag) | [INGLOURIOUS EASTERN COWBOY](https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg) | 4:06 |
 | 41 | [METROPOLIS](https://open.spotify.com/track/6K67HToFgqOrit9qtRJZdB) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e) | [LOVE, MUSIC AND DANCE](https://open.spotify.com/album/6k0K8fxPxw0daw5QWCKmaQ) | 4:06 |
 | 42 | [I Want A Chance For Romance](https://open.spotify.com/track/2e4PuGWRWMLa18XR5Ox4q2) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 49 | [KID feat\. LEO \(ALI\)](https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [踊救急箱](https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr) | 2:46 |
 | 50 | [GABBA GABBA HEY HEY](https://open.spotify.com/track/3XlHHnZSpjLwGAkhosJIbw) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 3:14 |
 
-Snapshot ID: `aq8iAAAAAAAA85/WkzJauZGqZGufXYDT`
+Snapshot ID: `arBzgAAAAAAgdJMV4bFRE01V89D6Me/t`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Kayode
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,541 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,570 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 12 | [BITCH & MONEY](https://open.spotify.com/track/1vgbtv1D6xMGIbC7fN1plw) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS), [BabyDaiz](https://open.spotify.com/artist/75ffkjzl2yQm2wRvP5QL4s), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 3:15 |
 | 13 | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/track/7fkCiUlTXr6AAHXXtrIRd4) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [2:02PM IN LONDON \(FREESTYLE\)](https://open.spotify.com/album/1Tn7MQ77vIlV8aXIVYLxqR) | 3:43 |
 | 14 | [Dont Come Too Close II](https://open.spotify.com/track/5FRl2U5EK7qeGnuDT6g2cE) | [Okese1](https://open.spotify.com/artist/6ZaoSztNvTtjLLRWm60tPc), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Dont Come Too Close II](https://open.spotify.com/album/3VtifBX5zk5yli3yDvvuAR) | 3:06 |
-| 15 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
-| 16 | [Power House](https://open.spotify.com/track/3ydB5jGKrEzWRHJRXmF3Nn) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:30 |
+| 15 | [Power House](https://open.spotify.com/track/3ydB5jGKrEzWRHJRXmF3Nn) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:30 |
+| 16 | [IGBO](https://open.spotify.com/track/3v5d1SUogoec4mwuFFuls5) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [IGBO](https://open.spotify.com/album/6xwKKdz25SBmgdjnMf9SwS) | 2:13 |
 | 17 | [MA HAINE](https://open.spotify.com/track/0aMPw8CS1MFTJZRMl4BPNI) | [Himra](https://open.spotify.com/artist/39SBljHcUD66edvRmiRqlS) | [SORRY I'M BAD](https://open.spotify.com/album/1rnnJHQWjzOCPOE6w9xYoI) | 2:37 |
 | 18 | [ISALE EKO](https://open.spotify.com/track/4yNhgDZvcCqrzPNNzGXisG) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ISALE EKO](https://open.spotify.com/album/43o6bPsTE8EoXNnlkpOTaF) | 2:20 |
 | 19 | [Oku](https://open.spotify.com/track/04pjyMy5pDorNmCOPOS1pT) | [Aguero Banks](https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THE RETURN \(Eze Onyịkọ\)](https://open.spotify.com/album/7FPpLQbBQbsd8WW45xMllH) | 3:29 |
-| 20 | [Turbulent Fellow](https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [IRON ORE II](https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy) | 2:30 |
-| 21 | [No Days Off](https://open.spotify.com/track/4Wp5CGnsDETGQBXLrNfEv4) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:20 |
+| 20 | [No Days Off](https://open.spotify.com/track/4Wp5CGnsDETGQBXLrNfEv4) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:20 |
+| 21 | [Turbulent Fellow](https://open.spotify.com/track/4r64AOipGhz4IVwcLRID6A) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [IRON ORE II](https://open.spotify.com/album/2ZREXY52US9dEzuwlU2rNy) | 2:30 |
 | 22 | [Aimoye](https://open.spotify.com/track/5MGEkr3Mv7JgjqZ1Sr4sES) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr) | [Aimoye](https://open.spotify.com/album/2ds9ErusnGKd2t6ySVaMMf) | 2:14 |
 | 23 | [THEY LOVE ME](https://open.spotify.com/track/1o5VvBFyTVgRrDjbU82tpo) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [THEY LOVE ME](https://open.spotify.com/album/714pPrNDFoet1I8ETjYH3L) | 2:14 |
 | 24 | [SWAGGA](https://open.spotify.com/track/0OlU73zd9qruhYKYQp5asc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [SWAGGA](https://open.spotify.com/album/6pSWnRzmoif3m25wqHyu3F) | 3:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 69 | [Juice](https://open.spotify.com/track/3FKMnb3BpxnPtLviwtNz1v) | [CJ Tell'm](https://open.spotify.com/artist/2fAo6honVWkCul5xO8y97T) | [Juice](https://open.spotify.com/album/7GkqQthzG3je276bnSIiBI) | 2:49 |
 | 70 | [Lights](https://open.spotify.com/track/4QUpQIPx61jcPqf1kY3ggz) | [Big Tril](https://open.spotify.com/artist/3VY9mDRZ1p3OMWAaAsH4bG), [Keya Nemesis](https://open.spotify.com/artist/0uvd3XlE4E0XhRpJnimNao), [4ourton](https://open.spotify.com/artist/3i21lmJVuwJI6pgUIDaThk) | [Lights](https://open.spotify.com/album/3Lcm6fqaPBynyiFFFkOE63) | 5:00 |
 
-Snapshot ID: `AAAAAGi4NRI/1SrBHdUIH8CCp2Ak4CXf`
+Snapshot ID: `AAAAAFuYzFflnpwzWu1XY0Rn871GpHox`

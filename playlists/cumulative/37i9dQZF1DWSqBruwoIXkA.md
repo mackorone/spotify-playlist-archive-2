@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like sad hour, with Hailey Picardi
 
-1,101 songs - 2 day 12 hr 38 min
+1,102 songs - 2 day 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [black & white](https://open.spotify.com/track/0j2l3sf15o9vczIATwA3Xr) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [black & white](https://open.spotify.com/album/653YWJ1EZLWEvUdE6Kc8WL) | 3:28 | 2024-09-13 | 2025-01-24 |
 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 | 2023-09-22 |  |
 | [blame's on me](https://open.spotify.com/track/1veHwv1HPwzOvlhs5jPxeP) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [blame's on me](https://open.spotify.com/album/1dpLDMwavEN9eXN23N7liY) | 2:18 | 2022-12-09 | 2024-02-17 |
-| [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 | 2023-11-15 |  |
+| [BLEED](https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:49 | 2023-11-15 | 2026-09-23 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-08 | 2022-12-17 |
 | [Blue](https://open.spotify.com/track/6LHtiQJqqh3CnMpzT7VfRX) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Blue](https://open.spotify.com/album/5eG7Gg0mRTskvCoWn45HOb) | 3:22 | 2025-01-31 | 2025-03-26 |
 | [Blurry](https://open.spotify.com/track/20v9Q8HXtnMFXJ0PsXz1N2) | [Karis Taylor](https://open.spotify.com/artist/4DkCeWLigLWQeefMEQ5Iq1) | [Blurry](https://open.spotify.com/album/0Q2MqgMmcEsx3eyThzSbzH) | 3:18 | 2025-08-08 | 2025-08-30 |
@@ -236,6 +236,7 @@
 | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/track/4xZK9tK3N0aOIO18k1Ldul) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Don't Put It All On Me \(feat\. Fleet Foxes\)](https://open.spotify.com/album/2oj7wFuIFkVPcUENYjkS9U) | 4:07 | 2025-03-21 | 2025-08-18 |
 | [Don't Tell My Mom](https://open.spotify.com/track/52xPJ6sISOam1g1blK9RF0) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Don’t Tell My Mom](https://open.spotify.com/album/3TE6FmGfVRv442zvXQVsqv) | 3:08 | 2022-09-30 | 2022-12-16 |
 | [Don't Tell My Mom](https://open.spotify.com/track/1Ip2m42GTwiaG20hW7dtuZ) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 3:09 | 2022-12-16 | 2024-04-19 |
+| [Don't You Forget About Me?](https://open.spotify.com/track/4auleugEuixANOIzt8cutq) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Don't You Forget About Me?](https://open.spotify.com/album/4EKMQd8Cl6jFAoSIPXZZhJ) | 3:18 | 2026-09-22 |  |
 | [don't you have to go?](https://open.spotify.com/track/28ePWE3Y4yd9cmSjLLmycI) | [Jonny West](https://open.spotify.com/artist/3WZbnaao6ao4diqMVvDJXk) | [don't you have to go?](https://open.spotify.com/album/0SQbywgSzeLanGJs1qAcxT) | 4:27 | 2022-02-11 | 2022-03-09 |
 | [Don’t Leave Me Behind](https://open.spotify.com/track/4jyjUMIYaarfo4ap7WNFbF) | [Diego Gonzalez](https://open.spotify.com/artist/60uj5nOT1TpQeBRo4ds9fd) | [Don’t Leave Me Behind](https://open.spotify.com/album/0Ebgv83fShHQoAT9KRgO46) | 3:03 | 2023-12-08 | 2024-01-13 |
 | [Don’t Say You Love Me](https://open.spotify.com/track/27xkOIER6uDLKALIelHylZ) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Echo](https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ) | 3:00 | 2025-05-16 | 2025-12-20 |

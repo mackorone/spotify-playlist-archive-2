@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 93303,
+  "num_followers": 93317,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -431,6 +431,22 @@
     {
       "added_at": "2026-07-24 15:45:42",
       "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 157390,
+      "name": "Currents",
+      "url": "https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B"
+    },
+    {
+      "added_at": "2026-07-24 15:45:42",
+      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 180869,
       "name": "Everybody (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5ZJGv7aGdIr9IGpxzSG18T"
-    },
-    {
-      "added_at": "2026-07-24 15:45:42",
-      "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 157390,
-      "name": "Currents",
-      "url": "https://open.spotify.com/track/1eCFz60zd7mAXgWLapPd9B"
     },
     {
       "added_at": "2026-07-24 15:45:42",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-07-24 15:45:42",
       "album": {
-        "name": "NJ Turnpike, Vol. 1 (A Jersey Club Mixtape)",
-        "url": "https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6"
-      },
-      "artists": [
-        {
-          "name": "DJ SoulChild AC",
-          "url": "https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH"
-        },
-        {
-          "name": "Bryansanon",
-          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
-        }
-      ],
-      "duration_ms": 92212,
-      "name": "Anytime I Want, Pt. 2",
-      "url": "https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu"
-    },
-    {
-      "added_at": "2026-07-24 15:45:42",
-      "album": {
         "name": "say im ur luv (Jumbo Sounds Remix)",
         "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 137032,
       "name": "say im ur luv - Jumbo Sounds Remix",
       "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
+    },
+    {
+      "added_at": "2026-07-24 15:45:42",
+      "album": {
+        "name": "NJ Turnpike, Vol. 1 (A Jersey Club Mixtape)",
+        "url": "https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6"
+      },
+      "artists": [
+        {
+          "name": "DJ SoulChild AC",
+          "url": "https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH"
+        },
+        {
+          "name": "Bryansanon",
+          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
+        }
+      ],
+      "duration_ms": 92212,
+      "name": "Anytime I Want, Pt. 2",
+      "url": "https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu"
     },
     {
       "added_at": "2026-07-24 15:45:42",
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2026-07-24 15:45:42",
       "album": {
-        "name": "Doin It Wrong (DJ iMarkkeyz Remix)",
-        "url": "https://open.spotify.com/album/1jzYhFvRhhtq62WoTnIfgb"
+        "name": "POPULAR LONER",
+        "url": "https://open.spotify.com/album/1bzVF1YHTdYAk6plJjjDjx"
       },
       "artists": [
         {
-          "name": "TeaMarrr",
-          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        },
-        {
-          "name": "iMarkkeyz",
-          "url": "https://open.spotify.com/artist/2B7xPcMn6lsriV26tb0K3R"
+          "name": "LilC4",
+          "url": "https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W"
         }
       ],
-      "duration_ms": 177521,
-      "name": "Doin It Wrong - DJ iMarkkeyz Remix",
-      "url": "https://open.spotify.com/track/46FO1P5uDWs4DNoZTJ412F"
+      "duration_ms": 100858,
+      "name": "70s",
+      "url": "https://open.spotify.com/track/6UnGv7gBJAfAdUWLu5uYhj"
     }
   ],
   "unique_name": "Jersey Club Heat",

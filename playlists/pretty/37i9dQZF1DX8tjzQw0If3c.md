@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Meet the future\. Cover: WHYLUCAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,468 likes - 56 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,473 likes - 56 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

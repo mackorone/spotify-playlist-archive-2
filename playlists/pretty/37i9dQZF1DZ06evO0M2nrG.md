@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 
 > This is Mike Bahía\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,785 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,787 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 10 | [Mi Pecadito](https://open.spotify.com/track/5MlE71RdbkyVTuC0lvzWst) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:17 |
 | 11 | [Serenata](https://open.spotify.com/track/11ufNpNUBDwTGlU8sdWZaP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:26 |
 | 12 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/4yPrBID40hUMocphha5lr7) | 3:21 |
-| 13 | [Bajo Cero](https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Bajo Cero](https://open.spotify.com/album/2zGuFILxHQ0516trrslslS) | 3:34 |
-| 14 | [Att: Amor](https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:13 |
+| 13 | [Att: Amor](https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [La Carta](https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl) | 2:13 |
+| 14 | [Bajo Cero](https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Bajo Cero](https://open.spotify.com/album/2zGuFILxHQ0516trrslslS) | 3:34 |
 | 15 | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/track/2mMB3bgO0f3gDRyM1PbwPS) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [El Lugar Más Feliz Del Mundo](https://open.spotify.com/album/4rET9WXD1nROQJvW4u2alP) | 3:13 |
 | 16 | [La Vida](https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 1:10 |
 | 17 | [Como Te Hago Entender](https://open.spotify.com/track/4wSBxQJhhohJeMUeqRfCX8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Como Te Hago Entender](https://open.spotify.com/album/1POcDfTTyKJeBITAjSOScI) | 3:28 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0M2nrG.md) - [plain]
 | 43 | [Pan y mantequilla \(feat\. Mike Bahía\)](https://open.spotify.com/track/3hsRR0tva1cmxWZ2j5M6Rv) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [DIEZ](https://open.spotify.com/album/0djEi0YumLKVrLMQgY6hmC) | 3:21 |
 | 44 | [Tu Enemiga](https://open.spotify.com/track/3NxJKoYi9WMBuZdk4UdJuK) | [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Tu Enemiga](https://open.spotify.com/album/0uAiQ6Ul6cmEZp0py1AQpD) | 3:26 |
 | 45 | [Ella Es Pa MI](https://open.spotify.com/track/4jGNTiWNeLrvb9jadmBhNu) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Pj Sin Suela](https://open.spotify.com/artist/0AdjzZxHJ4MfbImx2rD0Df), [Sebas Barcenas](https://open.spotify.com/artist/5RqAWnmZhPvkC2zZgpfczk) | [Ella Es Pa MI](https://open.spotify.com/album/2Stw5cW8fi6fvu4f8BBYTV) | 3:02 |
-| 46 | [Hola Mi Amor](https://open.spotify.com/track/7L3Z21b1wuEO1Os5xgSE6G) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 2:38 |
+| 46 | [Cali Buenaventura](https://open.spotify.com/track/4VfXL8MXfgUH5sbGIQ7GCW) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw) | [CALIDOSA](https://open.spotify.com/album/6rXXLz6D0OWyxTgTeow2ay) | 3:18 |
 | 47 | [Si tú te vas \(feat\. Mike Bahía\)](https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si tú te vas \(feat\. Mike Bahía\)](https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA) | 3:02 |
 | 48 | [Difícile](https://open.spotify.com/track/12R30HT6UksiNj4ry0hiuy) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Difícile](https://open.spotify.com/album/6t85fg00KndK1zWBdyj8ZY) | 2:32 |
 | 49 | [Déjame](https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Déjame](https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF) | 3:09 |
 | 50 | [Ropa Interior \(feat\. Beéle\)](https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:20 |
 
-Snapshot ID: `aq8iAAAAAAB3n6b9IP0ViIiZBLZYRhUC`
+Snapshot ID: `arBzgAAAAACASnZdLIQcabWBYS5/t90k`

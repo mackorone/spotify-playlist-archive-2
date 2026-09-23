@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: ARJN, KDS, FIFTY4, Shreya Ghoshal",
-  "num_followers": 734613,
+  "num_followers": 734926,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALGHoxFp9LDdInQUeLNbPxzxxZSl",
+  "snapshot_id": "AAAAAD14GSuJtnx7oExYmI6IRrMNAa+m",
   "tracks": [
     {
       "added_at": "2026-07-07 04:33:21",
@@ -63,6 +63,34 @@
       "duration_ms": 301800,
       "name": "Asalayavale (From \"Khalifa\")",
       "url": "https://open.spotify.com/track/50VZxKGM9I6VfHYGXKaAJn"
+    },
+    {
+      "added_at": "2026-09-22 12:41:42",
+      "album": {
+        "name": "Flesh & Blood (From \"I'M Game - Malayalam\")",
+        "url": "https://open.spotify.com/album/0JyAkrJgAo7k42A1GRfpSP"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "BABY JEAN",
+          "url": "https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b"
+        },
+        {
+          "name": "Zeba Tommy",
+          "url": "https://open.spotify.com/artist/1JN77nFJbx0r5wAkzs6A7u"
+        },
+        {
+          "name": "Adhri Joe",
+          "url": "https://open.spotify.com/artist/2hvEuxhkaNKn2mAp39fZv3"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Flesh & Blood - From \"I'M Game - Malayalam\"",
+      "url": "https://open.spotify.com/track/32iCvhPtSAkg3UQQFNrF57"
     },
     {
       "added_at": "2026-04-14 06:35:29",
@@ -1211,26 +1239,6 @@
       "duration_ms": 206482,
       "name": "Pularaan Neram",
       "url": "https://open.spotify.com/track/3EPHaxloBVjAiCSW235Zh5"
-    },
-    {
-      "added_at": "2025-05-06 06:08:30",
-      "album": {
-        "name": "Munthirichar",
-        "url": "https://open.spotify.com/album/1J9txM3rhZhexF42weUMWJ"
-      },
-      "artists": [
-        {
-          "name": "M.H.R",
-          "url": "https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g"
-        },
-        {
-          "name": "JOKER390P",
-          "url": "https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW"
-        }
-      ],
-      "duration_ms": 234428,
-      "name": "Munthirichar",
-      "url": "https://open.spotify.com/track/0133cEuPQ9SQcqHqjgFtbS"
     }
   ],
   "unique_name": "Trending Now Malayalam",

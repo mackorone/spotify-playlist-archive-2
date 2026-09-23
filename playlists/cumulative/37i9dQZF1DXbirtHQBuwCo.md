@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover:  Stun Ave, SUNNA, Grant\)
+> Trendy & Chill Korean R&B music\. \(Cover:  jeebanoff\)
 
-939 songs - 2 day 1 hr 29 min
+940 songs - 2 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Apocalypse](https://open.spotify.com/track/53bnkcyDpei0ZlC30au1t7) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [EVE: ROMANCE](https://open.spotify.com/album/4OrisjS1FiGCNucXdwtd3Y) | 2:56 | 2025-05-14 | 2026-01-22 |
 | [Apollo 11 \(feat\. Jay Park\)](https://open.spotify.com/track/2PudJHuPDFyXomHjmwTxqG) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Apollo 11 \(feat\. Jay Park\)](https://open.spotify.com/album/560eyB9eHh656ZiDHnAsdl) | 3:20 | 2022-04-19 | 2022-07-29 |
 | [Ariana Grande \(feat\. Sonny Zero\)](https://open.spotify.com/track/4f4IdCmTF7KYF0aNeVzBUV) | [KODI GREEN](https://open.spotify.com/artist/54yQw1nXF53pvMLL0MpTxs), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [LONER:LASTALBUM](https://open.spotify.com/album/7ri5cg30LlzOlak7uSpM9P) | 3:19 | 2022-07-27 | 2022-08-03 |
-| [aROMa](https://open.spotify.com/track/4JSsDAVf1URO7cxf3pJ1Hu) | [Stun Ave](https://open.spotify.com/artist/1IEbitnybGxyhtBkmJVmhj), [SUNNA](https://open.spotify.com/artist/0QF1QHASPYv41VzIgDofow), [Grant](https://open.spotify.com/artist/7ezsVVLoKNDOch4vv5nzHv) | [aROMa](https://open.spotify.com/album/3O72Kq4kEymHQTLkN25iUQ) | 3:12 | 2026-09-18 |  |
+| [aROMa](https://open.spotify.com/track/4JSsDAVf1URO7cxf3pJ1Hu) | [Stun Ave](https://open.spotify.com/artist/1IEbitnybGxyhtBkmJVmhj), [SUNNA](https://open.spotify.com/artist/0QF1QHASPYv41VzIgDofow), [Grant](https://open.spotify.com/artist/7ezsVVLoKNDOch4vv5nzHv) | [aROMa](https://open.spotify.com/album/3O72Kq4kEymHQTLkN25iUQ) | 3:12 | 2026-09-18 | 2026-09-23 |
 | [Ashtray](https://open.spotify.com/track/0PU3efcpu4rp0dTbt28sgS) | [ABOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Miserable](https://open.spotify.com/album/2BawTwSFTVO6FTDvfnlbgw) | 3:40 | 2022-04-19 | 2022-06-14 |
 | [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-18 |  |
 | [Attention \(Feat\. DAWN, BLASÉ\)](https://open.spotify.com/track/0sB1ut1esPaRqabYjWEj1Z) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:58 | 2023-09-22 | 2023-10-18 |
@@ -487,6 +487,7 @@
 | [LOVE AGAIN \(Feat\. Leellamarz, HOON\)](https://open.spotify.com/track/2NyYklpPwyGIIyklakqk9X) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [HOON](https://open.spotify.com/artist/1VTv19vFoeiKs28gOzntpL) | [LOVE AGAIN](https://open.spotify.com/album/26OpMHQv2ntd7B8GaR8gdV) | 3:05 | 2025-03-13 | 2025-04-03 |
 | [LOVE COUNTDOWN \(Feat\. Wonstein\)](https://open.spotify.com/track/0GnydTKmczMoKOEl1D4URI) | [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [IM NAYEON](https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw) | 3:17 | 2022-06-29 |  |
 | [Love Eventually](https://open.spotify.com/track/15CJ0oqfcOeF0ySnqpW05E) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Love Eventually](https://open.spotify.com/album/3I3z1EN6WoUO8TT2fJrdmg) | 3:37 | 2023-07-07 | 2023-07-15 |
+| [Love game](https://open.spotify.com/track/0qjjy799gEJdFKNvILwZRq) | [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Talking Book 2](https://open.spotify.com/album/77ud4wz2LUtWAQtr732DIo) | 3:02 | 2026-09-22 |  |
 | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/track/2P6YMsU9jt22CXfizfudi3) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Love Hangover \(feat\. Dominic Fike\)](https://open.spotify.com/album/3awd1TKrdd3emCecvza61j) | 3:00 | 2025-01-31 |  |
 | [Love Is Ugly \(Feat\. Hwa Sa\)](https://open.spotify.com/track/3MUmPh3UxWs9p25e6B3M7N) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:43 | 2023-02-13 | 2023-09-01 |
 | [Love Like That](https://open.spotify.com/track/3sR1RNcVEDJKUfS8rX20Lx) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Absence 'Side A'](https://open.spotify.com/album/2Hj1CHpYxGpj4by92fu9iz) | 3:34 | 2022-04-22 | 2022-05-01 |

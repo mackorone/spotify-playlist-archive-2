@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > Explore the current wave of VOCALOID culture\. Cover: DECO\*27
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,297 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,288 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 33 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 |
 | 34 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 |
 | 35 | [シビルアイ](https://open.spotify.com/track/08uJ0SODhKBGBqtm39PZsQ) | [Nilfruits](https://open.spotify.com/artist/3wG9JLlVmrbpfKcBuQ2xlh) | [OOPÁRK](https://open.spotify.com/album/2HhmsSYMW2CXhSbCoQkb9f) | 3:00 |
-| 36 | [春嵐](https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv) | 2:41 |
+| 36 | [オーバーライド](https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp) | [Yoshida Yasei](https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5) | [オーバーライド](https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn) | 2:18 |
 | 37 | [Zako](https://open.spotify.com/track/0YJkcI9DUv4lkNJogoitOR) | [柊マグネタイト](https://open.spotify.com/artist/4kmKTxjchPXGEcnpiW8iTx) | [Zako](https://open.spotify.com/album/0emahiH8a7ZgiYRp97S29w) | 3:27 |
-| 38 | [オーバーライド](https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp) | [Yoshida Yasei](https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5) | [オーバーライド](https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn) | 2:18 |
+| 38 | [春嵐](https://open.spotify.com/track/3wM3VFL0nuEhwATHcJfPSm) | [John](https://open.spotify.com/artist/2FkyWQImfwhuhSrsG8ZZ4k) | [ROSE](https://open.spotify.com/album/2l7pgbmqxrUzgY7ppseiGv) | 2:41 |
 | 39 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 40 | [アイデンティティ](https://open.spotify.com/track/4X3L6G6KDs0jBKvfTkmKmi) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [アイデンティティ](https://open.spotify.com/album/5bN9ddnWBszIifz4XhLlKj) | 2:35 |
 | 41 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |

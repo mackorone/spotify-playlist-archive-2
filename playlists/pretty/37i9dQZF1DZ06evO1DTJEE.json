@@ -1,12 +1,12 @@
 {
   "description": "This is Riley Green. The essential tracks, all in one playlist.",
-  "num_followers": 80573,
+  "num_followers": 80882,
   "original_name": "This Is Riley Green",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAC5b/DIteDe1w8rgAqrOFSg",
+  "snapshot_id": "arBzgAAAAACFxekmukYfckQfloAehehg",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/1wPZ5lvt250QMwi6d0lqDA"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 242956,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0e5adFzW2uzQQ8M0cjiQqX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 194426,
       "name": "There Was This Girl",
       "url": "https://open.spotify.com/track/7grWGhX8SHNmyGOkMNVMCt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/1wPZ5lvt250QMwi6d0lqDA"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 242956,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0e5adFzW2uzQQ8M0cjiQqX"
     },
     {
       "added_at": null,
@@ -331,22 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Mind If I Do (Deluxe)",
-        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6"
       },
       "artists": [
         {
           "name": "Riley Green",
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        },
-        {
-          "name": "Hannah McFarland",
-          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
         }
       ],
-      "duration_ms": 243033,
-      "name": "I Just Need You",
-      "url": "https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H"
+      "duration_ms": 208400,
+      "name": "Don't Come Any Closer",
+      "url": "https://open.spotify.com/track/4AXEqmbpkdwo9buwlYndHQ"
     },
     {
       "added_at": null,
@@ -363,6 +359,26 @@
       "duration_ms": 239868,
       "name": "Pick A Place",
       "url": "https://open.spotify.com/track/1q1FoLWLZXdKmJfIBlYMKl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do (Deluxe)",
+        "url": "https://open.spotify.com/album/1zYMNgeczOfopUj0mDK8Nx"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
+        }
+      ],
+      "duration_ms": 243033,
+      "name": "I Just Need You",
+      "url": "https://open.spotify.com/track/3l8qeosSzVyfkXhbtFKJ0H"
     },
     {
       "added_at": null,
@@ -396,9 +412,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 208400,
-      "name": "Don't Come Any Closer",
-      "url": "https://open.spotify.com/track/4AXEqmbpkdwo9buwlYndHQ"
+      "duration_ms": 189660,
+      "name": "Got That From You",
+      "url": "https://open.spotify.com/track/1smmmIxMaJTXMK5Mv312SU"
     },
     {
       "added_at": null,
@@ -415,22 +431,6 @@
       "duration_ms": 222998,
       "name": "Slow Dancing In A Burning Room - Spotify Singles",
       "url": "https://open.spotify.com/track/1fZlXmas6ZBnFxUA4laNXN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different 'Round Here",
-        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 215373,
-      "name": "Hard To Leave",
-      "url": "https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4"
     },
     {
       "added_at": null,
@@ -455,38 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 189660,
-      "name": "Got That From You",
-      "url": "https://open.spotify.com/track/1smmmIxMaJTXMK5Mv312SU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Hope She\u2019s Drinkin' Tonight / Get Back Home",
-        "url": "https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 188674,
-      "name": "I Hope She's Drinkin' Tonight",
-      "url": "https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
       },
@@ -496,25 +464,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 202226,
-      "name": "Get That Man A Beer",
-      "url": "https://open.spotify.com/track/5xYI4ZcyAHq3ruRnFazHnN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "That's A Mistake",
-      "url": "https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU"
+      "duration_ms": 215373,
+      "name": "Hard To Leave",
+      "url": "https://open.spotify.com/track/5q5pDqPzNjMK0jnlLb9vU4"
     },
     {
       "added_at": null,
@@ -535,6 +487,70 @@
       "duration_ms": 225733,
       "name": "Pave All Them Red Dirt Roads",
       "url": "https://open.spotify.com/track/3BPNKvuw5OHai2wu2RkHWF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope She\u2019s Drinkin' Tonight / Get Back Home",
+        "url": "https://open.spotify.com/album/4Q1aVUAcdCKiEUW5uTpYVl"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 188674,
+      "name": "I Hope She's Drinkin' Tonight",
+      "url": "https://open.spotify.com/track/2ydZrWKjSGrxQTebDfDnj5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "That's A Mistake",
+      "url": "https://open.spotify.com/track/2lCgE8nRcLE1Lp6ae683JU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different 'Round Here",
+        "url": "https://open.spotify.com/album/0wEnZguPw6l4Rcdgzcm5qv"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 202226,
+      "name": "Get That Man A Beer",
+      "url": "https://open.spotify.com/track/5xYI4ZcyAHq3ruRnFazHnN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's Just Me",
+        "url": "https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 256733,
+      "name": "P.O.S.",
+      "url": "https://open.spotify.com/track/3ubf03T0emJnEYZIhP7ScI"
     },
     {
       "added_at": null,
@@ -596,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 256733,
-      "name": "P.O.S.",
-      "url": "https://open.spotify.com/track/3ubf03T0emJnEYZIhP7ScI"
+      "duration_ms": 186087,
+      "name": "Beach Happy",
+      "url": "https://open.spotify.com/track/3vgs3abtstVPfIEHG2cyUd"
     },
     {
       "added_at": null,
@@ -660,9 +676,9 @@
           "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
         }
       ],
-      "duration_ms": 186087,
-      "name": "Beach Happy",
-      "url": "https://open.spotify.com/track/3vgs3abtstVPfIEHG2cyUd"
+      "duration_ms": 194733,
+      "name": "Bartender In Destin",
+      "url": "https://open.spotify.com/track/5vAz9QoGktsyN6DqAJOe5Y"
     },
     {
       "added_at": null,
@@ -695,54 +711,6 @@
       "duration_ms": 203426,
       "name": "Break Up More Often",
       "url": "https://open.spotify.com/track/6FpSqJRS0786oDMKIDqISd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Mind If I Do",
-        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 212706,
-      "name": "Looking Back On This",
-      "url": "https://open.spotify.com/track/0n29uT9GJvsN0cWdsVWdEK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's Just Me",
-        "url": "https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 194733,
-      "name": "Bartender In Destin",
-      "url": "https://open.spotify.com/track/5vAz9QoGktsyN6DqAJOe5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Way Out Here",
-        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 221200,
-      "name": "Way Out Here",
-      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
     },
     {
       "added_at": null,
@@ -783,6 +751,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 221200,
+      "name": "Way Out Here",
+      "url": "https://open.spotify.com/track/2OkPXNItOIOpD5OyOCWvyK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Mind If I Do",
+        "url": "https://open.spotify.com/album/5gAHdPbFLoKvpNsD7JK67D"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 212706,
+      "name": "Looking Back On This",
+      "url": "https://open.spotify.com/track/0n29uT9GJvsN0cWdsVWdEK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midtown Sessions",
+        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 194064,
+      "name": "Cowboy In Me - Acoustic",
+      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ain't My Last Rodeo",
         "url": "https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 223533,
       "name": "What Am I Supposed To Do Now",
       "url": "https://open.spotify.com/track/4AJ5ij32WW1yI9RgCDBc3n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midtown Sessions",
-        "url": "https://open.spotify.com/album/7Bk3NQvOA9AgH1JVjnEJdT"
-      },
-      "artists": [
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
-        }
-      ],
-      "duration_ms": 194064,
-      "name": "Cowboy In Me - Acoustic",
-      "url": "https://open.spotify.com/track/6Rfr1N8uFJrORp4AH3XZEg"
     },
     {
       "added_at": null,

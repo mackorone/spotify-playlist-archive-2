@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 
 > This is Weezer\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,255 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,292 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 23 | [Perfect Situation](https://open.spotify.com/track/1D7UBHqaPWDbBHs2S5YXge) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Make Believe](https://open.spotify.com/album/4D8A8M0NJjEdQhusawyeDz) | 4:14 |
 | 24 | [El Scorcho](https://open.spotify.com/track/3g2gQMeeQAEPztiQKMlGSl) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 4:03 |
 | 25 | [In The Garage](https://open.spotify.com/track/3If9Idk1rglOqubIsJcpmv) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:55 |
-| 26 | [Hoops](https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 2:35 |
+| 26 | [Up In the Clouds](https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:39 |
 | 27 | [All My Favorite Songs \(feat\. AJR\)](https://open.spotify.com/track/3A6nR4GSolo160nu7xtDk7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [All My Favorite Songs \(feat\. AJR\)](https://open.spotify.com/album/1FXt1CeMXHBlJ1AdvzaC5H) | 2:50 |
 | 28 | [Falling For You](https://open.spotify.com/track/1MnXNW03vkijBz0GHAsHgW) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pinkerton](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl) | 3:47 |
 | 29 | [You Might Think \- From "Cars 2"/Soundtrack Version](https://open.spotify.com/track/5tKlIgkTo8QZBVLGkyhEso) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Cars 2 \(Original Soundtrack\)](https://open.spotify.com/album/3GJM6mv4riGX4gPM6goLk3) | 3:07 |
-| 30 | [Up In the Clouds](https://open.spotify.com/track/4JpAqx578F0rpHEsxgHE9D) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 3:39 |
+| 30 | [Hoops](https://open.spotify.com/track/1If6M9icZkYzcj1XvfMyRI) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC) | 2:35 |
 | 31 | [Africa](https://open.spotify.com/track/3ZPKocroJIcnHGcnJVlLKD) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Teal Album\)](https://open.spotify.com/album/65sHj9PvsbyD0uugGHjueN) | 3:58 |
 | 32 | [Troublemaker](https://open.spotify.com/track/4r53Y7uKvyXCU7a9dsnb58) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/6v8wNjiQDhDijoapXXZ9mZ) | 2:44 |
 | 33 | [Photograph](https://open.spotify.com/track/4hA3OFMvHCFCK3TfJYdbif) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VmDYs.md) - [plain]
 | 49 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 |
 | 50 | [Island in the Sun \- Live from Spotify NYC](https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Spotify Sessions](https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T) | 3:44 |
 
-Snapshot ID: `aq8iAAAAAADN4Mts0p0hDOR0k3scB36x`
+Snapshot ID: `arBzgAAAAAASbJ9RxPAAJC5q3xOC4GzZ`

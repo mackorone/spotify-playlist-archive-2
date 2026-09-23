@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,605 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,645 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,20 +36,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 26 | [The Song from 'moulin Rouge' \(Where Is Your Heart\)](https://open.spotify.com/track/1KMlhsBxRsdiPKNhxzc4iO) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Music From Hollywood](https://open.spotify.com/album/4twlWJJZWLnOWHLtrU3LE4) | 5:51 |
 | 27 | [Poor Butterfly](https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:04 |
 | 28 | [The High And The Mighty](https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men) | [Roger Williams](https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u) | [Till](https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P) | 2:41 |
-| 29 | [Once In A While](https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music, Martinis And Memories](https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA) | 3:14 |
-| 30 | [Violins in the Night](https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 2:49 |
+| 29 | [Violins in the Night](https://open.spotify.com/track/3rKsXR4xrMOB90DoLswTiJ) | [The Melachrino Strings and Orchestra](https://open.spotify.com/artist/4h434Npi0e7fooQBbS3ZuV) | [You and the Night and the Music](https://open.spotify.com/album/6BfjlQaLkN18jIeDLTV4ef) | 2:49 |
+| 30 | [Once In A While](https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Music, Martinis And Memories](https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA) | 3:14 |
 | 31 | [Night Side](https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Hatari!](https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ) | 3:27 |
 | 32 | [Early Evening](https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD) | [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [Concert In Rhythm](https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1) | 2:30 |
 | 33 | [Our Love](https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [Corazón](https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1) | 2:28 |
 | 34 | [Tennessee Waltz \(with Boston Pops Orchestra\)](https://open.spotify.com/track/5SzsffG2AkYrjgcmUrVfxX) | [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU), [Boston Pops Orchestra](https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq) | [The Pops Goes Country \(with Boston Pops Orchestra\)](https://open.spotify.com/album/0mmCf5GOA5jCuduhZmh0iq) | 2:43 |
-| 35 | [Lonely Nightingale](https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:57 |
+| 35 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
 | 36 | [Cycles](https://open.spotify.com/track/2ODXYxVCuRtoM2F2094y6h) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [A Warm Shade of Ivory](https://open.spotify.com/album/1IsqBLmLMj3DmSQFqRzDa8) | 3:05 |
-| 37 | [Carnival](https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Latin Hits I Missed](https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6) | 2:13 |
+| 37 | [Lonely Nightingale](https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:57 |
 | 38 | [Autumn in New York](https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 3:36 |
 | 39 | [The Green Leaves Of Summer](https://open.spotify.com/track/3IM5KByL9vEigcg7WqORhv) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [The Best Of Nelson Riddle](https://open.spotify.com/album/1ZBWBWcN8IQFYRgC0jwLOl) | 2:24 |
-| 40 | [Market Day](https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [A Swingin' Safari \(Remastered\)](https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5) | 2:30 |
+| 40 | [A Felicidade](https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Strings Latino](https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn) | 3:12 |
 | 41 | [Theme From "Bus Stop"](https://open.spotify.com/track/5Jd78KUwqhZcY5msCpsDLw) | [Jackie Gleason](https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex) | [Champagne, Candlelight And Kisses](https://open.spotify.com/album/7v2A1HlTNWgPxs8p101dCx) | 3:42 |
-| 42 | [A Felicidade](https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH) | [Edmundo Ros & His Orchestra](https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv) | [Strings Latino](https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn) | 3:12 |
+| 42 | [Market Day](https://open.spotify.com/track/4hlI8fEybTdT0ADaGltnuF) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [A Swingin' Safari \(Remastered\)](https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5) | 2:30 |
 | 43 | [Moon over Miami](https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [American Serenade](https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0) | 4:04 |
 | 44 | [Megeve](https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Charade](https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy) | 3:03 |
 | 45 | [Gone With The Wind](https://open.spotify.com/track/7tzYfZQV2WHTtRbMYoowPy) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 3:17 |

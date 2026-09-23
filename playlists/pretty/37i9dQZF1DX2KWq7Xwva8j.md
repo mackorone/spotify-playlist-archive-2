@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto: Gara Durán.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,103 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,111 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,12 +20,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 10 | [La Vida Cañón](https://open.spotify.com/track/3ktWmFzt95zM8b4kLjvM4V) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 2:32 |
 | 11 | [Mi loco cowboy](https://open.spotify.com/track/5XiFK0lqhOUlGPXFyfrIbc) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Mi loco cowboy](https://open.spotify.com/album/55FFc3Qs71UsBrKSaA5PQj) | 3:08 |
 | 12 | [TOTO DE LOCA](https://open.spotify.com/track/1BHscyZF6ZHx534gxTsjPe) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy) | [Neofita](https://open.spotify.com/album/711kCEcjlE8DucV3Z7b2fp) | 3:00 |
-| 13 | [Canción En Murcia](https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Canción En Murcia](https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C) | 1:58 |
+| 13 | [El Mundo Delante De Ti](https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 5:07 |
 | 14 | [Haciéndome ilusiones](https://open.spotify.com/track/2iJwU9xQ3zYUCTfTYa2pcB) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [Haciéndome ilusiones](https://open.spotify.com/album/4N653iEm1amXAAtPL3QFuc) | 3:26 |
 | 15 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
 | 16 | [Placer de vivir](https://open.spotify.com/track/148LN4dJOFg4Y6G2Ezqnpu) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Placer de vivir](https://open.spotify.com/album/2GjY9NfZdA8glT6Mzd26C3) | 3:09 |
 | 17 | [DEMONIAS MUÑECAS](https://open.spotify.com/track/1F22SGMpR8KQMijk1ihj4r) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [DEMONIAS MUÑECAS](https://open.spotify.com/album/6hTlEVdpr7QRWBICFZR88z) | 2:48 |
-| 18 | [El Mundo Delante De Ti](https://open.spotify.com/track/2Pk8xhJde8ueiR6OymzIov) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4), [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 5:07 |
+| 18 | [Canción En Murcia](https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Canción En Murcia](https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C) | 1:58 |
 | 19 | [El Mundo Nadie](https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [El Mundo Nadie](https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN) | 3:13 |
 | 20 | [La Calle Elfo](https://open.spotify.com/track/0lxSWjuNF9jLkL41wgpTZy) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:30 |
 | 21 | [Sin pena ni gloria](https://open.spotify.com/track/5vPJFif5AA5whBJvhPvHGM) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 299796,
+  "num_followers": 299816,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "The Essential Jim Reeves",
-        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
-      },
-      "artists": [
-        {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
-        }
-      ],
-      "duration_ms": 168640,
-      "name": "Four Walls",
-      "url": "https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0"
-    },
-    {
-      "added_at": "2026-02-17 04:48:24",
-      "album": {
         "name": "It's A Great Life",
         "url": "https://open.spotify.com/album/5Zw1AvstPCXlfbSJRA6Gl3"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 154213,
       "name": "I Miss You Already",
       "url": "https://open.spotify.com/track/0v7phnneFRXoB7ECffugXv"
+    },
+    {
+      "added_at": "2026-02-17 04:48:24",
+      "album": {
+        "name": "The Essential Jim Reeves",
+        "url": "https://open.spotify.com/album/158F4r9awKr4bs7X5E49JA"
+      },
+      "artists": [
+        {
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+        }
+      ],
+      "duration_ms": 168640,
+      "name": "Four Walls",
+      "url": "https://open.spotify.com/track/3qReTgtrLsZDISxor3lJW0"
     },
     {
       "added_at": "2026-02-17 04:48:24",
@@ -1219,22 +1219,18 @@
     {
       "added_at": "2026-02-17 04:48:24",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/7JiYSwAMa7hUHWjiD372m5"
+        "name": "The Best Of Jean Shepard",
+        "url": "https://open.spotify.com/album/18ClrNCJ8Y3yYbKhde22VB"
       },
       "artists": [
         {
-          "name": "Hank Thompson",
-          "url": "https://open.spotify.com/artist/42tDjhK9kdS7CCHxs8ysz0"
-        },
-        {
-          "name": "Hank Thompson And His Brazos Valley Boys",
-          "url": "https://open.spotify.com/artist/1Ts6EkqOxOsIzMsxFgCSqk"
+          "name": "Jean Shepard",
+          "url": "https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty"
         }
       ],
-      "duration_ms": 177866,
-      "name": "Wildwood Flower - Instrumental",
-      "url": "https://open.spotify.com/track/6zLHRDxxP2EpTuqlJz6no3"
+      "duration_ms": 146866,
+      "name": "Forgive Me, John",
+      "url": "https://open.spotify.com/track/4F5fTQXxGmKr83qb1aFghk"
     }
   ],
   "unique_name": "50s Country",

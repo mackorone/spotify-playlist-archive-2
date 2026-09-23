@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,761 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,790 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 15 | [Dernière danse \- Techno Mix](https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG) | [Indila](https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Dernière danse \(Techno Mix\)](https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q) | 3:17 |
 | 16 | [New Religion](https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [New Religion](https://open.spotify.com/album/5HUiOVb2KWxcyxaADzceog) | 2:54 |
 | 17 | [Alors On Danse \(feat\. Stromae\)](https://open.spotify.com/track/19eIZmuXlBmLTha1lPHef7) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Alors On Danse \(feat\. Stromae\)](https://open.spotify.com/album/1hOCJ4eNjtYKIH9ZmNGc8p) | 2:48 |
-| 18 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 |
-| 19 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 |
+| 18 | [HIGHJACK \(right back\)](https://open.spotify.com/track/1Eqdkt6DfGNWElHpeujHGJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [HIGHJACK \(right back\)](https://open.spotify.com/album/6CkVgejgX1Oypxu8rGI1VQ) | 2:41 |
+| 19 | [Destiny](https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Destiny](https://open.spotify.com/album/6elqX6r1NOL3ZzyaC6pi1p) | 2:50 |
 | 20 | [Voicemail \(Tiësto Remix\)](https://open.spotify.com/track/6vbQFxIETahvyrcI6N00Cc) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Voicemail \(Tiësto Remix\)](https://open.spotify.com/album/6NeAtmL9sxQga7lc1EOQro) | 3:04 |
 | 21 | [Not Fair](https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW) | 2:43 |
 | 22 | [Hollow \(feat\. Bonn\)](https://open.spotify.com/track/7EdPWyTm6EtO5httz2Dcoa) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Hollow \(feat\. Bonn\)](https://open.spotify.com/album/62cNVQX5G5tM6n302goHbL) | 3:20 |

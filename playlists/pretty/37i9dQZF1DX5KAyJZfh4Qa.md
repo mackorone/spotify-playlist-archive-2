@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,194 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,222 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 51 | [It Was Real To Me](https://open.spotify.com/track/0frCZbVGC6kdgLGYOewWMz) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE), [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [It Was Real To Me](https://open.spotify.com/album/2VMwISn56z1TKDg8Yti2k4) | 2:46 |
 | 52 | [Cooler](https://open.spotify.com/track/2cdoxlerkmCNrwfCpxtXHj) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Cooler](https://open.spotify.com/album/09u6OZ2HbGNibfg7IaYb2V) | 3:17 |
 | 53 | [the country club](https://open.spotify.com/track/3XZzkDZH6p4VjJU0qmxsgl) | [Oso Oso](https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD) | [life till bones](https://open.spotify.com/album/3vT9PayicuM9sEo0tONUmS) | 2:59 |
-| 54 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
-| 55 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 |
+| 54 | [Permanent Resolution](https://open.spotify.com/track/0s5m3QC7n1nOfthZkdm4fU) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Permanent Resolution](https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp) | 3:21 |
+| 55 | [Opossum! My Possum!](https://open.spotify.com/track/5yghSwq7jePANBrd72J8Ly) | [Thanks! I Hate It](https://open.spotify.com/artist/2AXYLreE6e33pDQgQNNNyu) | [Lovers Lane](https://open.spotify.com/album/66VJJVlE4sn1PlZVIRKW58) | 3:45 |
 | 56 | [Hyperpop Killed My Dog](https://open.spotify.com/track/1nBN5F1NbH5cq8wtTBcZ56) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [Hyperpop Killed My Dog](https://open.spotify.com/album/675h9RsyoZUx8lWpulipzu) | 2:02 |
 | 57 | [Laughing Without Smiling](https://open.spotify.com/track/1aevZeUMDU4aA81noL1HlP) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Laughing Without Smiling / Spit](https://open.spotify.com/album/2NTIGT0nFhPfmcUQD8jl8t) | 2:52 |
 | 58 | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/track/2lTwwQcnBQlh0d4Ipshbkl) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Bad Luck.](https://open.spotify.com/artist/4Hjb6XIYNt5Qkokl30luY9) | [Mike Nolan’s Long Weekend ft\. Dom Fox](https://open.spotify.com/album/1jvuSRYOav8yv5GndOekAJ) | 3:34 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 66 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
 | 67 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
 | 68 | [I Can't Buy You Flowers](https://open.spotify.com/track/4LgPvTelc3Ic4Rt7XKENmi) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [I Can't Buy You Flowers](https://open.spotify.com/album/30aNU2tE49KbrgCV0ZhpoD) | 3:24 |
-| 69 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
-| 70 | [This Is Teamwork!](https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [This Is Teamwork!](https://open.spotify.com/album/3nXSKrQ2LlnZNz1T1dz91E) | 3:24 |
-| 71 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
+| 69 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
+| 70 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
+| 71 | [This Is Teamwork!](https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [This Is Teamwork!](https://open.spotify.com/album/3nXSKrQ2LlnZNz1T1dz91E) | 3:24 |
 | 72 | [When I Come East](https://open.spotify.com/track/0Sl6b0H7zHJdAtaNZW72ZM) | [Thank You, I'm Sorry](https://open.spotify.com/artist/1SQbSVOGU3m2YlQQVV88QU) | [When I Come East](https://open.spotify.com/album/428XEEgSSBIndzwdGwdj1p) | 2:51 |
 | 73 | [Dead On The Page](https://open.spotify.com/track/19PDFOc2rfaAvHJGaIwy91) | [Park National](https://open.spotify.com/artist/3zXM9yF4mhCHg9vUS9pnul) | [I'm Here And This Is Real](https://open.spotify.com/album/3qU6M8uIKGKrmiWooVy4Pk) | 3:18 |
 | 74 | [Numb](https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [NUMB](https://open.spotify.com/album/6qkJORPQBeXP9DOqV6u4wR) | 4:00 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 95 | [Seoul](https://open.spotify.com/track/242MWOVEHopesZNGpUXih2) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0) | [Seoul](https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM) | 3:17 |
 | 96 | [Wednesday, Forever???](https://open.spotify.com/track/1tQ6SShGUGtdj6dVh1jAiW) | [Fox Teeth](https://open.spotify.com/artist/76VMGsrr08CYw4BD3Vl4He) | [Wednesday, Forever???](https://open.spotify.com/album/0F1sRZIASVPx7RCXJHdZGS) | 3:15 |
 | 97 | [Botch Job](https://open.spotify.com/track/1m6BbiDMnZyOL2bEabfaqo) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Botch Job](https://open.spotify.com/album/4wkb2xBR8tVhsJVLCc6Yk3) | 2:46 |
-| 98 | [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 |
-| 99 | [kissinginacarcrash](https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [kissinginacarcrash](https://open.spotify.com/album/4d1pLNwffNxsNQhiwNbTvt) | 3:09 |
+| 98 | [kissinginacarcrash](https://open.spotify.com/track/3mI9Zb7Yw2iTNDcn0izhCq) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [kissinginacarcrash](https://open.spotify.com/album/4d1pLNwffNxsNQhiwNbTvt) | 3:09 |
+| 99 | [Sixth Sense](https://open.spotify.com/track/67dfhhZTDrlHKw94sdvqYX) | [Retirement Party](https://open.spotify.com/artist/6scS2RlUYZHwgNWfMfviOL) | [Sixth Sense](https://open.spotify.com/album/7jCl50f6dYTLWDwLqI9tvF) | 3:08 |
 | 100 | [You're On](https://open.spotify.com/track/48W2JId9H0kuWpCIsmvThJ) | [Kicksie](https://open.spotify.com/artist/3PzRKp3NSZzGSbf75iTuAL) | [You're On](https://open.spotify.com/album/3bY4mpoCmJbZ8y9qW4Tywg) | 3:53 |
 
 Snapshot ID: `AAAAAKYAuhVJXjpD8oUTerphUEjnHlRm`

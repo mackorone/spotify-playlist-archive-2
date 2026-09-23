@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 519,101 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 519,119 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Slow Dancing \(Piano Ver.\)](https://open.spotify.com/track/7pgbDdy7ax962o9d2xJceV) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:08 |
-| 2 | [Vancouver](https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:36 |
-| 3 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 |
+| 2 | [Boat](https://open.spotify.com/track/34HSEUn4YGAFBW9OHGIkU7) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Boat](https://open.spotify.com/album/02uMD7AxTNi2Af2H4DxfPO) | 3:11 |
+| 3 | [Vancouver](https://open.spotify.com/track/4p4yxplNCSmt9xfaAMpcd5) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Lovey Dovey](https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k) | 3:36 |
 | 4 | [Galaxy](https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Full Album RED PLANET](https://open.spotify.com/album/5bA5ItGeDXS2XIt9axBSwL) | 3:33 |
 | 5 | [Perhaps Love \(사랑인가요\) \(Prod.By 박근태\)](https://open.spotify.com/track/5bN1ltT5BhVMnszmgsqGD5) | [에릭남 \(Eric Nam\), CHEEZE \(치즈\)](https://open.spotify.com/artist/1Dw5bHJLyFrbpoKWNvzNQX) | [Your BGM Vol.1](https://open.spotify.com/album/5Cu42bX04gv9mMr6NhfAr4) | 3:59 |
 | 6 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:46 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 19 | [Paint On Spring \- Remastering](https://open.spotify.com/track/3GG5KPuvG7qokLoKReboHI) | [Martin Smith](https://open.spotify.com/artist/3ISWX9gKLGkhlgS5AhvlTd) | [SLATE](https://open.spotify.com/album/2Jn6ZoYn9FM2TLfrfWu8Pv) | 3:52 |
 | 20 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:33 |
 | 21 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
-| 22 | [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 |
-| 23 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Can I Love?](https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y) | 3:49 |
+| 22 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/0Z8IT9sJWaGQb942lphBzY) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Can I Love?](https://open.spotify.com/album/5RywVUX8IUEPcj3VO6Bq3y) | 3:49 |
+| 23 | [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 |
 | 24 | [Why?](https://open.spotify.com/track/75bgkdHdg7ppBcHdLJkSBM) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [Why?](https://open.spotify.com/album/2dWSYfa0TQ1cDlzMCdzJlJ) | 2:27 |
 | 25 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 |
 | 26 | [bgf](https://open.spotify.com/track/52blwz2oOUkE4Now1EJIGe) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [solsol\~ condo](https://open.spotify.com/album/328oYPyGswc8jEzgTs4nsm) | 3:22 |

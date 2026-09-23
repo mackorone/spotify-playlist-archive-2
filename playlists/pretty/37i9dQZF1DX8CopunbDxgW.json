@@ -1,12 +1,12 @@
 {
   "description": "this new Boy Harsher album is delightful \ud83c\udfa5 metropolis is your home for the best indie dance",
-  "num_followers": 867940,
+  "num_followers": 867888,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ8R/0GWvhl9NNR/P6MuEjLHsYUr",
+  "snapshot_id": "AAAAAOsc6MLHEK6uX9Vz9NtpHXfcpMfr",
   "tracks": [
     {
       "added_at": "2026-09-18 04:02:55",
@@ -151,6 +151,26 @@
       "duration_ms": 169846,
       "name": "catch me if you can",
       "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
+    },
+    {
+      "added_at": "2026-09-22 18:18:16",
+      "album": {
+        "name": "Wish You Luck",
+        "url": "https://open.spotify.com/album/0A7DP5rChjnxOCYDfAhSMN"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        },
+        {
+          "name": "kid on air",
+          "url": "https://open.spotify.com/artist/3qh0b8JcyeKr7QPlIIlTw2"
+        }
+      ],
+      "duration_ms": 223251,
+      "name": "Wish You Luck",
+      "url": "https://open.spotify.com/track/3Hxz9OpJIUFkFytyrOAxWj"
     },
     {
       "added_at": "2026-09-04 04:26:07",

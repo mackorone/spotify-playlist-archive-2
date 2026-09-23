@@ -21684,7 +21684,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -27992,7 +27992,7 @@
       ],
       "date_added": "2025-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 150583,
       "name": "\u0412\u0440\u0443\u0431\u0430\u0439",
       "url": "https://open.spotify.com/track/4w4qGjcvOgsYRyO4x9Ci0U"
@@ -29670,7 +29670,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-28",
+      "date_removed": null,
       "duration_ms": 142325,
       "name": "\u0434\u043d\u044f\u043c\u0438 \u0438 \u043d\u043e\u0447\u0430\u043c\u0438",
       "url": "https://open.spotify.com/track/5c5PYbVqMGltm76SjqmF0o"
@@ -32340,7 +32340,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 161194,
       "name": "\u041a\u043e\u043b\u043e \u0442\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/0Ps99lC59dDFvKwZNH9UGB"
@@ -33430,6 +33430,24 @@
       "duration_ms": 162356,
       "name": "\u041b\u044e\u0434\u0438",
       "url": "https://open.spotify.com/track/3rpi29kD9YUDwXz1yhjS7Q"
+    },
+    {
+      "album": {
+        "name": "\u041b\u044e\u0434\u0438 \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439",
+        "url": "https://open.spotify.com/album/6fG1S5qK5mzYK806UOxVCR"
+      },
+      "artists": [
+        {
+          "name": "NAZVA",
+          "url": "https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242307,
+      "name": "\u041b\u044e\u0434\u0438 \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439",
+      "url": "https://open.spotify.com/track/4OVOZeec45CTqW9kC0tQoW"
     },
     {
       "album": {
@@ -35372,7 +35390,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 160972,
       "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs"

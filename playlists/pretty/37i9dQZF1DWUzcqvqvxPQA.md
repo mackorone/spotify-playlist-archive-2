@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > To everything there is a season so let these faith\-filled songs be the soundtrack to your Fall!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,227 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,224 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 19 | [Come Back To Me \(Father's Song\)](https://open.spotify.com/track/2gLXY5Hrqik8eZo5cNliur) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Come Back To Me \(Father's Song\)](https://open.spotify.com/album/0Hhn9qin0XYC4ExuVaGMmn) | 3:58 |
 | 20 | [Splinters](https://open.spotify.com/track/5Avn8pagmCvgk9mlO2FxPh) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Splinters](https://open.spotify.com/album/0F7V0lPrggeiRzURF6sQLg) | 2:35 |
 | 21 | [Don't Let The Darkness](https://open.spotify.com/track/2KtroNFk42zBcvHjmAMZQF) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Don't Let The Darkness](https://open.spotify.com/album/7q9FrrEjg9wGyrspaY8i6s) | 3:16 |
-| 22 | [Blood Stained Cross](https://open.spotify.com/track/1tufP9EFrhgq8jzBEX4QcQ) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [Blood Stained Cross](https://open.spotify.com/album/3NBB2PDKEh0RG8IBW6yD1a) | 4:51 |
+| 22 | [Static & Lightning](https://open.spotify.com/track/24jzOjaBMBtA8XjPquxztK) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Static & Lightning](https://open.spotify.com/album/68QtjJsCt8NF4dntVq5Cr5) | 3:22 |
 | 23 | [good grief!](https://open.spotify.com/track/1Uj1wrgaz5Lt5yejefdxI7) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [good grief!](https://open.spotify.com/album/0SECyjYPCwwkKWRw1pEMdp) | 3:07 |
-| 24 | [Static & Lightning](https://open.spotify.com/track/24jzOjaBMBtA8XjPquxztK) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [Static & Lightning](https://open.spotify.com/album/68QtjJsCt8NF4dntVq5Cr5) | 3:22 |
+| 24 | [Blood Stained Cross](https://open.spotify.com/track/1tufP9EFrhgq8jzBEX4QcQ) | [Cade Biers](https://open.spotify.com/artist/4s8x6Fq67IQGuLVQUYUuPj) | [Blood Stained Cross](https://open.spotify.com/album/3NBB2PDKEh0RG8IBW6yD1a) | 4:51 |
 | 25 | [J'ADORE](https://open.spotify.com/track/5q23mKOAamUd0AcYnL2xWL) | [Bridge Music](https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui), [MIKAILI](https://open.spotify.com/artist/2xvjVIW7Cj3yKSHExvkGNH) | [IDK,](https://open.spotify.com/album/4iwenftJEt5Jb8FkxBOlVi) | 2:48 |
 | 26 | [Cling To The Cross](https://open.spotify.com/track/0lHFEiEZRINPS3y8xXHkkn) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Cling To The Cross](https://open.spotify.com/album/74iDwShIeRexXTCcU1QCtY) | 4:08 |
 | 27 | [Seasons](https://open.spotify.com/track/2yfww2fXM4qCZVUSw6iSQ8) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo) | [Seasons](https://open.spotify.com/album/0kx2b0TYDAj9oA9JVi8jdN) | 3:01 |

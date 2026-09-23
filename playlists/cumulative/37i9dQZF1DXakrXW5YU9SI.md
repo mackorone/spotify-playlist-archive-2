@@ -4,7 +4,7 @@
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-1,103 songs - 2 day 13 hr 45 min
+1,104 songs - 2 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,7 @@
 | [Co chcę, to mam](https://open.spotify.com/track/0enBmAajlaCMkgBrEGSGGj) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Natalia Grosiak](https://open.spotify.com/artist/6o1HvE0HE1CZJSBIVyNcKg), [BELA](https://open.spotify.com/artist/5IFLOBk9uRlmlQ4shdsLjz), [Kathia](https://open.spotify.com/artist/1g9e5uwqOiqTC4rZJULLO4) | [Co chcę, to mam](https://open.spotify.com/album/0YIWD4DhUgHRNaz0ub1tW1) | 2:54 | 2026-06-09 | 2026-06-27 |
 | [co do joty \(wersja zima\)](https://open.spotify.com/track/6xJdoCgXLI7M0nrCbtwhYp) | [nat cichocka](https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al) | [co do joty \(wersja zima\)](https://open.spotify.com/album/7txc26kZ23Entx9WEk4pRD) | 3:15 | 2025-01-17 | 2025-01-25 |
 | [co jest nie tak?](https://open.spotify.com/track/2alDhwpcOlSrkhuPZ4JhvM) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2), [damazy](https://open.spotify.com/artist/05xJeZx7e7PTnIjroXe5OS) | [co jest nie tak?](https://open.spotify.com/album/3y8517HsHuK8QFbMPuFhis) | 3:10 | 2024-11-21 | 2024-11-30 |
-| [Co jeśli](https://open.spotify.com/track/0YehOz9CnOBYzozZffdHsh) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d) | [Co jeśli](https://open.spotify.com/album/4T0VL4OOb7EK65ba5j0Pk9) | 2:57 | 2026-09-10 |  |
+| [Co jeśli](https://open.spotify.com/track/0YehOz9CnOBYzozZffdHsh) | [Magda Bereda](https://open.spotify.com/artist/6NaOhgiHgKdbBk1SUaAt9d) | [Co jeśli](https://open.spotify.com/album/4T0VL4OOb7EK65ba5j0Pk9) | 2:57 | 2026-09-10 | 2026-09-23 |
 | [Co mi tam](https://open.spotify.com/track/0TIO9qI3epYJiijG9nolg7) | [Wiktoria Kida](https://open.spotify.com/artist/6EuekoOKebcHJWIqHuBK0H), [Księga Żywiołów](https://open.spotify.com/artist/1TqYSOMq3DVt2cUERdU4v5) | [Co mi tam](https://open.spotify.com/album/2B44SfjmdJklKXG53xbaz1) | 2:47 | 2026-06-26 | 2026-07-18 |
 | [Co, jeśli?](https://open.spotify.com/track/0plgXTtOu4RJDf4nwzVPqr) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Co, jeśli?](https://open.spotify.com/album/6eIoeAsyTUWzb7QGsN0yEU) | 2:33 | 2025-05-01 | 2025-06-01 |
 | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/track/5I2qYkrOpXBNEM6SxUMdPM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [Colourblind \(feat\. Loyle Carner\)](https://open.spotify.com/album/2GTgSAWzylW8N74Kad1sZ3) | 3:55 | 2024-12-09 | 2025-02-14 |
@@ -792,6 +792,7 @@
 | [różowa kurtka](https://open.spotify.com/track/2burnazGQjeP6U2hheGpTd) | [Norbert Wronka](https://open.spotify.com/artist/5jPmnL6vRtGz8pNWsv7ujq) | [różowa kurtka](https://open.spotify.com/album/43mE5tq8My3N8V0ER0gTLB) | 2:21 | 2025-05-31 | 2025-06-06 |
 | [S P E Y S I D E](https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [S P E Y S I D E](https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs) | 3:29 | 2024-09-20 | 2024-11-22 |
 | [s.o.s.](https://open.spotify.com/track/2ZmrJdAL2KCp3dOhfuz7Yh) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F) | [Serce](https://open.spotify.com/album/2DS7nuqs28amXxGagoQ6fh) | 3:37 | 2025-02-21 | 2025-03-18 |
+| [sad, alone?](https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ) | [bartek turski](https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR), [kurtis baker](https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv) | [sad, alone?](https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q) | 2:41 | 2026-09-18 |  |
 | [Safari X](https://open.spotify.com/track/2o02L5fM30wexzQGaMPE4X) | [Piotr Zioła](https://open.spotify.com/artist/70W7rQt07eDkynzl9JqHAB), [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [Safari X](https://open.spotify.com/album/6GKw4IBcYGQc1zzmQ87SxC) | 4:25 | 2026-06-12 | 2026-07-18 |
 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-12 | 2024-11-22 |
 | [SAJGON](https://open.spotify.com/track/7AfTjJbppdaYeL9BbmkcWo) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [SAJGON](https://open.spotify.com/album/7h2fpo2PP0D9wG7JdzIXEw) | 2:00 | 2026-06-09 | 2026-06-27 |

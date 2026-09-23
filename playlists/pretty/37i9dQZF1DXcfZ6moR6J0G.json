@@ -1,6 +1,6 @@
 {
   "description": "John Otto, take 'em to the Matthews Bridge!",
-  "num_followers": 2316475,
+  "num_followers": 2316994,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-07-16 22:35:35",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2026-07-16 22:35:35",
-      "album": {
         "name": "Flyleaf",
         "url": "https://open.spotify.com/album/0k64QfYJiwT7ko5K8z91S3"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 176160,
       "name": "I'm So Sick",
       "url": "https://open.spotify.com/track/3v0ylYF51SKkgAi4PrfKTq"
+    },
+    {
+      "added_at": "2026-07-16 22:35:35",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2026-07-16 22:35:35",

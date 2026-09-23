@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2180724,
+  "num_followers": 2180744,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "A Nightingale Sang In Berkeley Square",
+        "url": "https://open.spotify.com/album/26aj13BUEGult7sBwx0Ivi"
+      },
+      "artists": [
+        {
+          "name": "Hans Ulrik",
+          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
+        }
+      ],
+      "duration_ms": 380444,
+      "name": "A Nightingale Sang In Berkeley Square",
+      "url": "https://open.spotify.com/track/3ospmAgXO287SaBU6RV4Gw"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Far Far Away",
         "url": "https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy"
       },
@@ -263,22 +279,6 @@
       "duration_ms": 285160,
       "name": "Search for Peace",
       "url": "https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "A Nightingale Sang In Berkeley Square",
-        "url": "https://open.spotify.com/album/26aj13BUEGult7sBwx0Ivi"
-      },
-      "artists": [
-        {
-          "name": "Hans Ulrik",
-          "url": "https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF"
-        }
-      ],
-      "duration_ms": 380444,
-      "name": "A Nightingale Sang In Berkeley Square",
-      "url": "https://open.spotify.com/track/3ospmAgXO287SaBU6RV4Gw"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Frozen Flashes",
+        "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "duration_ms": 246957,
+      "name": "Place of Two",
+      "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Better Late Than Never",
         "url": "https://open.spotify.com/album/7AyrwH23vAzB1vKVb7uls7"
       },
@@ -619,6 +635,22 @@
       "duration_ms": 221952,
       "name": "Better Late Than Never",
       "url": "https://open.spotify.com/track/6bM567iuNwrg1ixhhv6lxW"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Where Light Settles",
+        "url": "https://open.spotify.com/album/6O228iUsnLa31DAVjxqAXi"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Myra",
+          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
+        }
+      ],
+      "duration_ms": 389040,
+      "name": "Where Light Settles",
+      "url": "https://open.spotify.com/track/5NI5Bo9sXXdjTpAnlAXIrD"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -639,22 +671,6 @@
       "duration_ms": 572546,
       "name": "Where Can I Go Without You",
       "url": "https://open.spotify.com/track/6WTaPOmjmElVLG7HD8nHkb"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Where Light Settles",
-        "url": "https://open.spotify.com/album/6O228iUsnLa31DAVjxqAXi"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Myra",
-          "url": "https://open.spotify.com/artist/3OOAxdMJCLi7iAurDghYyK"
-        }
-      ],
-      "duration_ms": 389040,
-      "name": "Where Light Settles",
-      "url": "https://open.spotify.com/track/5NI5Bo9sXXdjTpAnlAXIrD"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -811,22 +827,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Frozen Flashes",
-        "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
-      },
-      "artists": [
-        {
-          "name": "Okvsho",
-          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
-        }
-      ],
-      "duration_ms": 246957,
-      "name": "Place of Two",
-      "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Last Decade",
         "url": "https://open.spotify.com/album/5U7G70MJSvbY9z5AW7TZfj"
       },
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "M\u00f8rket Er Bl\u00e5t",
-        "url": "https://open.spotify.com/album/1jrB9I3aANNfqzto0Dp1fn"
-      },
-      "artists": [
-        {
-          "name": "Hvalfugl",
-          "url": "https://open.spotify.com/artist/4To5l2s8aVmU7p8tD54CKf"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "M\u00f8rket Er Bl\u00e5t",
-      "url": "https://open.spotify.com/track/6Tv9pga7wRDf9zNsgUd5OH"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Tango for One",
         "url": "https://open.spotify.com/album/4NUENIWtAH1KL422uAhE5A"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 264248,
       "name": "Tango for One",
       "url": "https://open.spotify.com/track/66zKqUaMX5F445Ux0FRNwt"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "M\u00f8rket Er Bl\u00e5t",
+        "url": "https://open.spotify.com/album/1jrB9I3aANNfqzto0Dp1fn"
+      },
+      "artists": [
+        {
+          "name": "Hvalfugl",
+          "url": "https://open.spotify.com/artist/4To5l2s8aVmU7p8tD54CKf"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "M\u00f8rket Er Bl\u00e5t",
+      "url": "https://open.spotify.com/track/6Tv9pga7wRDf9zNsgUd5OH"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -903,6 +903,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Caris Hermes",
+        "url": "https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz"
+      },
+      "artists": [
+        {
+          "name": "Caris Hermes",
+          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
+        }
+      ],
+      "duration_ms": 166983,
+      "name": "Twelve for J.",
+      "url": "https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Playing The Room",
         "url": "https://open.spotify.com/album/3Uh0OBXUvooc3z8IgqO5US"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 221000,
       "name": "Azalea",
       "url": "https://open.spotify.com/track/2Lz03NspvyxfiCjgdtpEVR"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Caris Hermes",
-        "url": "https://open.spotify.com/album/0MKfKZSFjgGYuBZsxe4HNz"
-      },
-      "artists": [
-        {
-          "name": "Caris Hermes",
-          "url": "https://open.spotify.com/artist/23PTKxQtsIL4Z9AZsNabz0"
-        }
-      ],
-      "duration_ms": 166983,
-      "name": "Twelve for J.",
-      "url": "https://open.spotify.com/track/0B8qcFnV8anELirOWmOQQS"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Layers of Life",
-        "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
+        "name": "Reminiscing at Rudy's",
+        "url": "https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4"
       },
       "artists": [
         {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+          "name": "Houston Person",
+          "url": "https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr"
         }
       ],
-      "duration_ms": 286080,
-      "name": "Lullaby in Green",
-      "url": "https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5"
+      "duration_ms": 462120,
+      "name": "I'll Let You Know",
+      "url": "https://open.spotify.com/track/07uHVemK3iJmGnHKigX3rS"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Reminiscing at Rudy's",
-        "url": "https://open.spotify.com/album/3Fh49WPCX4Xq6fbbSHw0b4"
-      },
-      "artists": [
-        {
-          "name": "Houston Person",
-          "url": "https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr"
-        }
-      ],
-      "duration_ms": 462120,
-      "name": "I'll Let You Know",
-      "url": "https://open.spotify.com/track/07uHVemK3iJmGnHKigX3rS"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Angel Eyes",
         "url": "https://open.spotify.com/album/5JkcUSh4jjHSz7o7C3R2Qw"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 292956,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/4Efyso6yJGSWAWnVHt88sp"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Layers of Life",
+        "url": "https://open.spotify.com/album/4zhb3DCfHH8ADFxBn0rirh"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        }
+      ],
+      "duration_ms": 286080,
+      "name": "Lullaby in Green",
+      "url": "https://open.spotify.com/track/5HlmJxQcRjCFJ8ijKvwVK5"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "When Sunny Smiles",
+        "url": "https://open.spotify.com/album/4GKxdtLpmCZ9EvxOE7mCcl"
+      },
+      "artists": [
+        {
+          "name": "Cecilie Strange",
+          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
+        }
+      ],
+      "duration_ms": 464160,
+      "name": "When Sunny Smiles",
+      "url": "https://open.spotify.com/track/1jKJ6fCBWyKCnEh8MdkcVC"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "Meant for You",
         "url": "https://open.spotify.com/album/1yXeNcpnN9mmI0fIW67gRe"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 248142,
       "name": "Meant for You",
       "url": "https://open.spotify.com/track/3EnmCWvp0VeuYY4Gi6GiL2"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "When Sunny Smiles",
-        "url": "https://open.spotify.com/album/4GKxdtLpmCZ9EvxOE7mCcl"
-      },
-      "artists": [
-        {
-          "name": "Cecilie Strange",
-          "url": "https://open.spotify.com/artist/2lrzzOXM4gAi8bxrBn4BBy"
-        }
-      ],
-      "duration_ms": 464160,
-      "name": "When Sunny Smiles",
-      "url": "https://open.spotify.com/track/1jKJ6fCBWyKCnEh8MdkcVC"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Trust and Honesty",
-        "url": "https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh"
-      },
-      "artists": [
-        {
-          "name": "Dave Liebman",
-          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
-        }
-      ],
-      "duration_ms": 278182,
-      "name": "Designs",
-      "url": "https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Round Midnight",
         "url": "https://open.spotify.com/album/2Pu9QJRzryo3Nxy8Yej26u"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 379245,
       "name": "Round Midnight",
       "url": "https://open.spotify.com/track/77Ws7XMrgFRt0wAulJ6UHF"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Trust and Honesty",
+        "url": "https://open.spotify.com/album/6q0OYWv7DtOV9iY0yryzWh"
+      },
+      "artists": [
+        {
+          "name": "Dave Liebman",
+          "url": "https://open.spotify.com/artist/429bUEZe2Hq5QJvO2CmhLn"
+        }
+      ],
+      "duration_ms": 278182,
+      "name": "Designs",
+      "url": "https://open.spotify.com/track/0FwP04wAnbpflZg05NRBH2"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
+        "name": "Ledsen",
+        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
+      },
+      "artists": [
+        {
+          "name": "John Nilsson",
+          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
+        }
+      ],
+      "duration_ms": 330120,
+      "name": "Ledsen",
+      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
         "name": "The Wayfarers",
         "url": "https://open.spotify.com/album/41k2ttC9wqYEpzSjJnfGaf"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 207306,
       "name": "A Blacksmith's Tale",
       "url": "https://open.spotify.com/track/5dKt8ZixGTGg9Uif6znrOn"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
-        "name": "Ledsen",
-        "url": "https://open.spotify.com/album/0eYLGGJXj4jrYxpCEGR1TQ"
-      },
-      "artists": [
-        {
-          "name": "John Nilsson",
-          "url": "https://open.spotify.com/artist/1YDWeRkesJIyKxLLfB3Ehr"
-        }
-      ],
-      "duration_ms": 330120,
-      "name": "Ledsen",
-      "url": "https://open.spotify.com/track/3shSNtjoQ1kuhrshPl1uhQ"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Outside Introspections",
-        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
-      },
-      "artists": [
-        {
-          "name": "Federica Lorusso",
-          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
-        }
-      ],
-      "duration_ms": 309960,
-      "name": "Just Go Ahead",
-      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
-    },
-    {
-      "added_at": "2026-09-21 13:05:28",
-      "album": {
         "name": "Remember to Remember",
         "url": "https://open.spotify.com/album/5yhJAfAe6B1c1hDJPEX9MR"
       },
@@ -2079,26 +2063,18 @@
     {
       "added_at": "2026-09-21 13:05:28",
       "album": {
-        "name": "Secondo",
-        "url": "https://open.spotify.com/album/7oJ1XC8Bd9jQqFKgxAFG7o"
+        "name": "Outside Introspections",
+        "url": "https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf"
       },
       "artists": [
         {
-          "name": "Michel Bisceglia",
-          "url": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
-        },
-        {
-          "name": "Marc Lehan",
-          "url": "https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G"
-        },
-        {
-          "name": "Werner Lauscher",
-          "url": "https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U"
+          "name": "Federica Lorusso",
+          "url": "https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ"
         }
       ],
-      "duration_ms": 369564,
-      "name": "Secondo",
-      "url": "https://open.spotify.com/track/5upRxHx2LZDhunpfUiShhU"
+      "duration_ms": 309960,
+      "name": "Just Go Ahead",
+      "url": "https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA"
     },
     {
       "added_at": "2026-09-21 13:05:28",
@@ -2123,6 +2099,30 @@
       "duration_ms": 204040,
       "name": "Falsa Balada",
       "url": "https://open.spotify.com/track/3xSPYYsmwXaSnN9e8gxFqC"
+    },
+    {
+      "added_at": "2026-09-21 13:05:28",
+      "album": {
+        "name": "Secondo",
+        "url": "https://open.spotify.com/album/7oJ1XC8Bd9jQqFKgxAFG7o"
+      },
+      "artists": [
+        {
+          "name": "Michel Bisceglia",
+          "url": "https://open.spotify.com/artist/5wKMe0NPv5nsl5dYRnCkiC"
+        },
+        {
+          "name": "Marc Lehan",
+          "url": "https://open.spotify.com/artist/0QMgOp0gF1fxA5egCXg96G"
+        },
+        {
+          "name": "Werner Lauscher",
+          "url": "https://open.spotify.com/artist/2C1BWNF1DxuGqLifFqyh4U"
+        }
+      ],
+      "duration_ms": 369564,
+      "name": "Secondo",
+      "url": "https://open.spotify.com/track/5upRxHx2LZDhunpfUiShhU"
     },
     {
       "added_at": "2026-09-21 13:05:28",

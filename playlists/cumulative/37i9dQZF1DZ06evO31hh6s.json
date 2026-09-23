@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 230920,
       "name": "Dead Or Alive",
       "url": "https://open.spotify.com/track/0kwRrRtRILZfBv7hj6GzPa"
@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 283160,
       "name": "Enough 2 Make",
       "url": "https://open.spotify.com/track/7J0SvfMEwwJZg5A08Em2RW"
@@ -2074,7 +2074,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 205000,
       "name": "Grow Up",
       "url": "https://open.spotify.com/track/1nLGGdsWhyarkUVxox1Yaa"
@@ -2455,6 +2455,28 @@
     },
     {
       "album": {
+        "name": "Thug In Thug Out",
+        "url": "https://open.spotify.com/album/1Ei2ttYorukI5w8PCeOo0x"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Hussein Fatal Of The Outlawz",
+          "url": "https://open.spotify.com/artist/1NpzP8nUg7KaKumu342FHY"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268493,
+      "name": "If I Die Tonight",
+      "url": "https://open.spotify.com/track/6g6eSKoWfelj0AkPomheS7"
+    },
+    {
+      "album": {
         "name": "3rd Eye View",
         "url": "https://open.spotify.com/album/6hiTcXU77SCZCmuCaPTZRX"
       },
@@ -2496,7 +2518,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 226893,
       "name": "Immortal, Pt. 2 (feat. Sky Keeton)",
       "url": "https://open.spotify.com/track/5jWj79MwRzNp6qH6FG8BVG"
@@ -3338,7 +3360,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 288880,
       "name": "Man Up",
       "url": "https://open.spotify.com/track/06yvGeeMmpG4J8aYYi3UcO"
@@ -4386,7 +4408,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 221335,
       "name": "Reason to Shine (feat. Kastro)",
       "url": "https://open.spotify.com/track/43S8K37dRVWUdlqCpWtCwS"
@@ -5262,7 +5284,7 @@
       ],
       "date_added": "2026-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 182130,
       "name": "THE FACE",
       "url": "https://open.spotify.com/track/6GVgOJeqTemuXcHvvOHxI3"
@@ -5362,6 +5384,28 @@
       "duration_ms": 242798,
       "name": "The Life (feat. Young Noble, Boldy James)",
       "url": "https://open.spotify.com/track/3H5kWJTkBpkQzXmYrvZRvD"
+    },
+    {
+      "album": {
+        "name": "The Year Of The Underdogz",
+        "url": "https://open.spotify.com/album/1dx23xoRwbjHAocCBxW1de"
+      },
+      "artists": [
+        {
+          "name": "Young Noble",
+          "url": "https://open.spotify.com/artist/58G1dVGEODhaSBjj2vJJvS"
+        },
+        {
+          "name": "Gage Gully",
+          "url": "https://open.spotify.com/artist/6AQJQwybpIlfvLzWfvbRPO"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "The Majority",
+      "url": "https://open.spotify.com/track/2PdYne9o3uOf3ptbzM6YtN"
     },
     {
       "album": {
@@ -5686,7 +5730,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 189103,
       "name": "Top or the Crossroads",
       "url": "https://open.spotify.com/track/0E8UCggkgQDfta8aYIU0u4"

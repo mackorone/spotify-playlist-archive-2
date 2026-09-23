@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 739381,
+  "num_followers": 739570,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+        "name": "Live In Paris",
+        "url": "https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 194346,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
+      "duration_ms": 300520,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Live In Paris",
-        "url": "https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV"
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 300520,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq"
+      "duration_ms": 194346,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -155,22 +155,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "The Gospel Truth (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
-      },
-      "artists": [
-        {
-          "name": "Ida Sand",
-          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
-        }
-      ],
-      "duration_ms": 225093,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Introducing",
         "url": "https://open.spotify.com/album/18k94eozbQ5Ro7AyYMxOSF"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 217573,
       "name": "Dream A Little Dream",
       "url": "https://open.spotify.com/track/5vVLUqs9ogEGnH44Lh8Tuc"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "The Gospel Truth (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/4XtDTphsf8ejPLt2e8cxbt"
+      },
+      "artists": [
+        {
+          "name": "Ida Sand",
+          "url": "https://open.spotify.com/artist/2xlu6WzVa7WHwHhRptqq7c"
+        }
+      ],
+      "duration_ms": 225093,
+      "name": "Ain't No Sunshine",
+      "url": "https://open.spotify.com/track/5Eh01izYB2eY2SZLHgzBwH"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Balm in Gilead",
-        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
-      },
-      "artists": [
-        {
-          "name": "Rickie Lee Jones",
-          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
-        }
-      ],
-      "duration_ms": 180493,
-      "name": "The Moon Is Made of Gold",
-      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Jazz Love",
         "url": "https://open.spotify.com/album/2XDDmdrutCzZRwxpkoJBLq"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 236469,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/4VHm7ABduF0wRhmoGIOXHJ"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Balm in Gilead",
+        "url": "https://open.spotify.com/album/186z0bI30XmfmtdXuMI51e"
+      },
+      "artists": [
+        {
+          "name": "Rickie Lee Jones",
+          "url": "https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq"
+        }
+      ],
+      "duration_ms": 180493,
+      "name": "The Moon Is Made of Gold",
+      "url": "https://open.spotify.com/track/5zBtJauGTfVNkfcpAtKqOi"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -831,26 +831,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Creole Love Call",
-        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
-      },
-      "artists": [
-        {
-          "name": "Joe Sample",
-          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
-        },
-        {
-          "name": "Nils Landgren",
-          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "One Day I Fly Away",
-      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Bells On Sand",
         "url": "https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 329306,
       "name": "Just A Dream",
       "url": "https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Creole Love Call",
+        "url": "https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn"
+      },
+      "artists": [
+        {
+          "name": "Joe Sample",
+          "url": "https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE"
+        },
+        {
+          "name": "Nils Landgren",
+          "url": "https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "One Day I Fly Away",
+      "url": "https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Reawakened",
-        "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
+        "name": "They Oughta Write a Song",
+        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
       },
       "artists": [
         {
-          "name": "Junity",
-          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
+          "name": "Halie Loren",
+          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
         }
       ],
-      "duration_ms": 212323,
-      "name": "Make You Feel My Love",
-      "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
+      "duration_ms": 283026,
+      "name": "A Whiter Shade of Pale",
+      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "They Oughta Write a Song",
-        "url": "https://open.spotify.com/album/2u0m5eHHen8w42k7lZB46i"
+        "name": "Reawakened",
+        "url": "https://open.spotify.com/album/17Vn4rwIWmyV5Ui35DPXpW"
       },
       "artists": [
         {
-          "name": "Halie Loren",
-          "url": "https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI"
+          "name": "Junity",
+          "url": "https://open.spotify.com/artist/5NZAIgwhoQm0DmqTzVfnKm"
         }
       ],
-      "duration_ms": 283026,
-      "name": "A Whiter Shade of Pale",
-      "url": "https://open.spotify.com/track/39hPwPyP8GMOSnfS9tJ4qH"
+      "duration_ms": 212323,
+      "name": "Make You Feel My Love",
+      "url": "https://open.spotify.com/track/3sn8aLQ6JbqeIARMPqKJhg"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Next Time",
-        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 318077,
-      "name": "Next Time",
-      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Lucky",
         "url": "https://open.spotify.com/album/5vcx9N4JdtWLR0ewlPIHdy"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 160626,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/6JaM5Mg9evBEMXSYxEJAEX"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Next Time",
+        "url": "https://open.spotify.com/album/5wKPzPaWDHbyDOHpIGHfAL"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 318077,
+      "name": "Next Time",
+      "url": "https://open.spotify.com/track/2dAikVHuf4fWuiK5i8Hjcg"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "Just a Little Lovin'",
+        "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 289670,
+      "name": "Just a Little Lovin\u2019",
+      "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "Autumn Breeze",
         "url": "https://open.spotify.com/album/44JRlQhNgPJ6M0HfyNYQbj"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 241413,
       "name": "Autumn Breeze",
       "url": "https://open.spotify.com/track/6y4PDihMDJdFRjhunzpJ6s"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "Just a Little Lovin'",
-        "url": "https://open.spotify.com/album/1K6ABE9afJklvWm6chmxDu"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 289670,
-      "name": "Just a Little Lovin\u2019",
-      "url": "https://open.spotify.com/track/6CSgYGyNf2JQpnx1K4DFzw"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -2039,26 +2039,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Still Life",
-        "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
-      },
-      "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Romain Collin",
-          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
-        }
-      ],
-      "duration_ms": 226656,
-      "name": "Blue in Green",
-      "url": "https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "On My Way to You",
         "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
       },
@@ -2107,6 +2087,26 @@
       "duration_ms": 336600,
       "name": "Everything Must Change",
       "url": "https://open.spotify.com/track/3Vtde7QUf90QcCLyZs6aYc"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Still Life",
+        "url": "https://open.spotify.com/album/0Yly6QXR76EpiQtG51yenm"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        }
+      ],
+      "duration_ms": 226656,
+      "name": "Blue in Green",
+      "url": "https://open.spotify.com/track/1091lAjkbu1GrbdsxICeWI"
     },
     {
       "added_at": "2026-09-21 13:07:00",

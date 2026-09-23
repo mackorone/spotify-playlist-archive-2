@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,860 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,866 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 29 | [Vou Deixar na Cruz](https://open.spotify.com/track/3CbPjnoNaOh07rbJxI9IBW) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Profeta da Esperança](https://open.spotify.com/album/3oBk0frkoQ28ueSzWY8OsF) | 4:40 |
 | 30 | [Nada Além de Ti \- Ao Vivo](https://open.spotify.com/track/5EDXCypGSkaJLRGNvhsL4h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 6:14 |
 | 31 | [Eu Te Amo Tanto \(feat\. Marquinhos Gomes\)](https://open.spotify.com/track/5v979UoS8N8n0ZYew2t24l) | [Irmão Lázaro](https://open.spotify.com/artist/7APCyvMzp0tcZljed0lpJG), [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP) | [Entre Amigos](https://open.spotify.com/album/77xZYASVRSezsM1cyTbaSf) | 3:17 |
-| 32 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 |
-| 33 | [Há um Lugar](https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Andando na Luz](https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK) | 5:48 |
+| 32 | [Há um Lugar](https://open.spotify.com/track/5nFgAqxLS7rjXZtMcCl3II) | [Heloisa Rosa](https://open.spotify.com/artist/0pbjSAsHhPTgf9YQymeZdM) | [Andando na Luz](https://open.spotify.com/album/6nzW5O4iFkESVLPE5WVlmK) | 5:48 |
+| 33 | [Seu Amor](https://open.spotify.com/track/6lX2E81hZoy8a0bteNZeBc) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Seu Amor](https://open.spotify.com/album/0vOUCZ4UM87YUtgNMHTcvu) | 5:36 |
 | 34 | [Canção do Apocalipse \- Ao Vivo](https://open.spotify.com/track/0DHpr7eLBrRZvlXa4sNwhd) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW) | [Aleluia \- Diante do Trono 13 \(Ao Vivo\)](https://open.spotify.com/album/0zjeMVBRY1Urt1TkDJ8qY8) | 7:17 |
 | 35 | [Quando o Mundo Cai Ao Meu Redor](https://open.spotify.com/track/5lArEWwvL4Lujhpkv5jco1) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Mais um Dia](https://open.spotify.com/album/7bAiaifLJjnNdK7dy5S8UB) | 3:47 |
 | 36 | [Meu Mestre \- Ao Vivo](https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O), [Isabela Agustinho](https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt) | [Meu Mestre \(Ao Vivo\)](https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35) | 4:46 |

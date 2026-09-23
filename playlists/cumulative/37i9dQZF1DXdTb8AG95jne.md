@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Volunteers\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-1,400 songs - 3 day 12 hr 45 min
+1,401 songs - 3 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [California Love](https://open.spotify.com/track/1PV20gAvXYeamxejFDeEMT) | [Seong Young Joo](https://open.spotify.com/artist/1rwgkN9FIOpXgzSOYAE0Nt) | [California Love](https://open.spotify.com/album/3F5dqSATE4SfH42IWjpeCV) | 2:37 | 2025-08-12 | 2025-09-16 |
 | [Calling You](https://open.spotify.com/track/43HFmGfFKx9hCXBEighJXG) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Calling You](https://open.spotify.com/album/7qo64skK7IHyXpgYTdQRPW) | 6:03 | 2025-03-28 | 2025-04-29 |
 | [Can I Be Me?](https://open.spotify.com/track/7J8Gyy5wUFBDbpD7vqpJKy) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Can I Be Me?](https://open.spotify.com/album/7wnXIsAJu06lWAWRrTziIq) | 3:08 | 2025-07-07 | 2025-08-22 |
+| [Candy](https://open.spotify.com/track/0B7jWLeKadEqwav7Kl1TNa) | [Wonjin](https://open.spotify.com/artist/4E4TZnDHlrhclSJgeund1d) | [Candy](https://open.spotify.com/album/62dDiVy4cfW1kvq9pajqSv) | 3:16 | 2026-09-22 |  |
 | [Candy Pink](https://open.spotify.com/track/0fhDu7tCzkKEsWvwAZYHLH) | [Glen Check](https://open.spotify.com/artist/68ZtcdthScW8ISOvVNW9sV) | [Pulp](https://open.spotify.com/album/3jGK6MR6SNkw4j78MFQ1I2) | 2:53 | 2023-05-24 | 2023-06-02 |
 | [Caroline](https://open.spotify.com/track/6KMvV8gTiD4ZY3kQCNNdaP) | [hemming](https://open.spotify.com/artist/62jIpWzkUFaVRfHvE2XEXu) | [Caroline](https://open.spotify.com/album/3As3FgZcrGsiY9oaRy546s) | 4:15 | 2025-10-02 | 2025-11-11 |
 | [Carry the weight, side by side](https://open.spotify.com/track/6YDwrYdXdYsySmZsAd9jCN) | [SUNGHWI](https://open.spotify.com/artist/7rlrjdWClWXnQ0flmhBMXR) | [Carry the weight, side by side](https://open.spotify.com/album/0fjxIcTCJK44kaw2kYlxDC) | 4:36 | 2026-02-27 | 2026-04-14 |
@@ -216,7 +217,7 @@
 | [Colors](https://open.spotify.com/track/75B0KXGfYPudHeIrcluYxV) | [LEE RAON](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Colors](https://open.spotify.com/album/7MQNT8BAjRJEHirw6Tn8xR) | 4:07 | 2026-01-30 | 2026-02-26 |
 | [Come Closer](https://open.spotify.com/track/0Sep7VIdLwWPVhtxKsCxRm) | [LEO](https://open.spotify.com/artist/6xr9i4ozDKCobWg5lUKHPj) | [COME CLOSER](https://open.spotify.com/album/2rdXzqWmDgzIfjUPUovQiD) | 2:43 | 2024-05-10 | 2024-11-21 |
 | [Come Home](https://open.spotify.com/track/5RB1G4jUB7sYCNsbRrRwJ5) | [Heon Seo](https://open.spotify.com/artist/2Ln7vYEHYllpC94D5pH6tH) | [Come Home](https://open.spotify.com/album/5mJCFK2xpXiorhIr73ng1b) | 2:32 | 2024-11-06 | 2025-01-02 |
-| [Come to me](https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Gaze](https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj) | 3:03 | 2026-05-20 |  |
+| [Come to me](https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Gaze](https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj) | 3:03 | 2026-05-20 | 2026-09-23 |
 | [Comma](https://open.spotify.com/track/3gBs86VssqBzMq0QuAZEx1) | [He\_eul](https://open.spotify.com/artist/2wx6J4aRNCIg3294RBPLor), [Yeonwoo](https://open.spotify.com/artist/1JhDrFaGBo6baiMOQ67guq) | [Comma](https://open.spotify.com/album/5OZoXuYHdTbutzShXhsx5l) | 2:59 | 2026-04-27 | 2026-08-21 |
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
 | [Confession](https://open.spotify.com/track/5YOjqVJJDxSdHuwUmLBqXw) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Confession](https://open.spotify.com/album/3d7PpF9RGShHyPS4qVsWM3) | 3:50 | 2021-12-21 | 2022-04-19 |
@@ -1247,7 +1248,7 @@
 | [Venus](https://open.spotify.com/track/31WQPYHmmXFGmKXpmaA6Pe) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [INNER SPACE](https://open.spotify.com/album/1oYzH1AGQsOJEkdSI4gC3z) | 3:11 | 2022-03-31 | 2022-04-18 |
 | [victim mentality](https://open.spotify.com/track/48GvrfUWFnrxOxkiSthRIO) | [METP](https://open.spotify.com/artist/6cUnLHLMciBCEk9sAA3lLB) | [victim mentality](https://open.spotify.com/album/7fk1B1SQm00Uik0FPE9JQv) | 3:40 | 2026-05-07 | 2026-07-28 |
 | [Villain⤻ \(feat\. lIlBOI\)](https://open.spotify.com/track/70K4mtZntJmqSr4fLrGhJi) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [The Lost Diary](https://open.spotify.com/album/4pjO2nn8tUlr1EvOv5UYgn) | 2:55 | 2023-08-16 | 2024-05-09 |
-| [Violet](https://open.spotify.com/track/7L84lVh5grXqZqm89UO4fa) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Violet](https://open.spotify.com/album/3PXpdozwDXn1QzL8XwQas0) | 3:11 | 2026-05-11 |  |
+| [Violet](https://open.spotify.com/track/7L84lVh5grXqZqm89UO4fa) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Violet](https://open.spotify.com/album/3PXpdozwDXn1QzL8XwQas0) | 3:11 | 2026-05-11 | 2026-09-23 |
 | [Vision Getting Blurred \(SIDE A\)](https://open.spotify.com/track/3vok71DdgrvusXlNopJF8U) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Vision Getting Blurred](https://open.spotify.com/album/5CdwG5E9AXFJmDri8h253O) | 2:25 | 2024-04-30 | 2024-05-10 |
 | [Vladimir Komarov](https://open.spotify.com/track/2dYQ7jLsXwEpcGV6P6jlkX) | [IDIOTAPE](https://open.spotify.com/artist/0OmQCkk1rR3DJ0Y2NRxp6Z) | [Vladimir Komarov](https://open.spotify.com/album/6DkZGxB3VP39SvICC3mI6q) | 3:15 | 2024-04-30 | 2024-05-10 |
 | [Waiting For Victor \(Feat\. Dawon\)](https://open.spotify.com/track/2AHyUGlV6sCwBVUjr8rKXq) | [015B](https://open.spotify.com/artist/4uU7KfTjcjyKUGWSaTzLu7), [Dawon](https://open.spotify.com/artist/5RyoIdplIHsPM1UXcFtIpa) | [New Edition 30](https://open.spotify.com/album/5ltmNiEUm8TSyQisYLSO6H) | 3:30 | 2021-12-21 | 2022-07-29 |

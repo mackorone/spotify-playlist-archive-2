@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 34372,
+  "num_followers": 34379,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Las Flores Buenas",
-        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
-      },
-      "artists": [
-        {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        }
-      ],
-      "duration_ms": 184064,
-      "name": "El Surco",
-      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Por el Contrario",
         "url": "https://open.spotify.com/album/7mqC06N49AoHgs4MaZNsXm"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 227434,
       "name": "Por el Contrario",
       "url": "https://open.spotify.com/track/5uHrRzzW3hTtYKG8JSpPNg"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Las Flores Buenas",
+        "url": "https://open.spotify.com/album/6W6hyz4Wg8S0Uwxwhbs46q"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        }
+      ],
+      "duration_ms": 184064,
+      "name": "El Surco",
+      "url": "https://open.spotify.com/track/791kBOIjiqzy3lFaAba0j1"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -643,6 +643,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Ojos de Cielo",
+        "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Ojos de Cielo",
+      "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
         "url": "https://open.spotify.com/album/1Ldh7pJGCxaYhzvys0ryGc"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 238262,
       "name": "Donde Quiera Que Van (feat. Lula Bertoldi, Ivonne Guzm\u00e1n, Nadia Larcher & Ana Prada)",
       "url": "https://open.spotify.com/track/2M1g4Nns1DO8WpN4aHLDvX"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Ojos de Cielo",
-        "url": "https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Ojos de Cielo",
-      "url": "https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Retrato de Familia",
-        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
-      },
-      "artists": [
-        {
-          "name": "Teresa Parodi",
-          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
-        }
-      ],
-      "duration_ms": 208487,
-      "name": "Paisaje",
-      "url": "https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/65bHLqYJeXeuIkSOEKxXuL"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 162000,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2RH3mx7Oakol0sKd7dF07S"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Retrato de Familia",
+        "url": "https://open.spotify.com/album/4Elf50rCHcFpChAYDtzJGT"
+      },
+      "artists": [
+        {
+          "name": "Teresa Parodi",
+          "url": "https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK"
+        }
+      ],
+      "duration_ms": 208487,
+      "name": "Paisaje",
+      "url": "https://open.spotify.com/track/23EpodCa3x4eB5tlaqf9vd"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Pasaje al Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
-      },
-      "artists": [
-        {
-          "name": "Claudia Pir\u00e1n",
-          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Volver\u00e8 Siempre a San Juan",
-      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Memoria del Viento",
         "url": "https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 243066,
       "name": "Por el R\u00edo Volver\u00e9",
       "url": "https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Pasaje al Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc"
+      },
+      "artists": [
+        {
+          "name": "Claudia Pir\u00e1n",
+          "url": "https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Volver\u00e8 Siempre a San Juan",
+      "url": "https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Verdeado Dulzor",
+        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
+      },
+      "artists": [
+        {
+          "name": "Veronica Condomi",
+          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
+        },
+        {
+          "name": "Matias Betti",
+          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
+        }
+      ],
+      "duration_ms": 151771,
+      "name": "A la Ma\u00f1anita",
+      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Aleteo",
         "url": "https://open.spotify.com/album/3E9gM8tOAhIjusd4CjHzU2"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 212100,
       "name": "Zamba del Renacer",
       "url": "https://open.spotify.com/track/4GZxm4rtzlu1RexbH8mzKm"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Verdeado Dulzor",
-        "url": "https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI"
-      },
-      "artists": [
-        {
-          "name": "Veronica Condomi",
-          "url": "https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be"
-        },
-        {
-          "name": "Matias Betti",
-          "url": "https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc"
-        }
-      ],
-      "duration_ms": 151771,
-      "name": "A la Ma\u00f1anita",
-      "url": "https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Para ir a buscarte",
+        "url": "https://open.spotify.com/album/6bVLW63mb9Po1U0tpiENM9"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Farias G\u00f3mez",
+          "url": "https://open.spotify.com/artist/31aTmNTOHYqSou2S0pLure"
+        }
+      ],
+      "duration_ms": 274999,
+      "name": "Zamba de Anta",
+      "url": "https://open.spotify.com/track/3W5eRlepqJgN9YcYJIfamc"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Tierra, Tan S\u00f3lo",
         "url": "https://open.spotify.com/album/5EC7RY4Iq0V4YXPBgpwrar"
       },
@@ -1279,22 +1295,6 @@
       "duration_ms": 232000,
       "name": "Tierra, Tan S\u00f3lo",
       "url": "https://open.spotify.com/track/0Op6begS3VyrGzuhay4PYo"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Para ir a buscarte",
-        "url": "https://open.spotify.com/album/6bVLW63mb9Po1U0tpiENM9"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Farias G\u00f3mez",
-          "url": "https://open.spotify.com/artist/31aTmNTOHYqSou2S0pLure"
-        }
-      ],
-      "duration_ms": 274999,
-      "name": "Zamba de Anta",
-      "url": "https://open.spotify.com/track/3W5eRlepqJgN9YcYJIfamc"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
-        "name": "Los Clasicos Del Folklore",
-        "url": "https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ"
-      },
-      "artists": [
-        {
-          "name": "Margarita Palacios",
-          "url": "https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c"
-        }
-      ],
-      "duration_ms": 157226,
-      "name": "Recopilacion De Carnavalitos",
-      "url": "https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
         "name": "Memoria de la Semilla",
         "url": "https://open.spotify.com/album/0V8PUq2KfP8RFPhqiSuuoj"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 261760,
       "name": "Zamba Enamorada (feat. Liliana Herrero)",
       "url": "https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
+        "name": "Los Clasicos Del Folklore",
+        "url": "https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ"
+      },
+      "artists": [
+        {
+          "name": "Margarita Palacios",
+          "url": "https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c"
+        }
+      ],
+      "duration_ms": 157226,
+      "name": "Recopilacion De Carnavalitos",
+      "url": "https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx"
     },
     {
       "added_at": "2025-08-21 21:06:28",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Las Simples Cosas",
+        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Canci\u00f3n del Jangadero",
         "url": "https://open.spotify.com/album/4dnGcfrrrdc0fgUVhDIBwS"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 311517,
       "name": "Canci\u00f3n del Jangadero",
       "url": "https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Las Simples Cosas",
-        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Asuntos Pendientes",
-      "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
     },
     {
       "added_at": "2025-08-21 21:06:28",

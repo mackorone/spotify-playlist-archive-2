@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279938,
+  "num_followers": 279943,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAAnRyFcYevzUQobcoWktn3k",
+  "snapshot_id": "arBzgAAAAADZh3RrJuVoe6D9Obr505g5",
   "tracks": [
     {
       "added_at": null,
@@ -199,26 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEXE",
-        "url": "https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 146204,
-      "name": "MEXE",
-      "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Esque\u00e7o",
         "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 185217,
       "name": "N\u00e3o Esque\u00e7o",
       "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MEXE",
+        "url": "https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 146204,
+      "name": "MEXE",
+      "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
     },
     {
       "added_at": null,
@@ -351,6 +351,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 154941,
+      "name": "Seu Crime",
+      "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FREQU\u00caNCIA LUNAR",
         "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 170073,
       "name": "VAMPIRA",
       "url": "https://open.spotify.com/track/53sU5FYujB8QaiH61RyQ5l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 154941,
-      "name": "Seu Crime",
-      "url": "https://open.spotify.com/track/220QqE38Qrmyrtyd5xqB8i"
     },
     {
       "added_at": null,
@@ -695,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn Of Chromatica",
-        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 140968,
-      "name": "Fun Tonight - Pabllo Vittar Remix",
-      "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charli",
         "url": "https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 275040,
       "name": "Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)",
       "url": "https://open.spotify.com/track/3XbNseJrIK8LzoTh4eA0Xf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dawn Of Chromatica",
+        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 140968,
+      "name": "Fun Tonight - Pabllo Vittar Remix",
+      "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
     },
     {
       "added_at": null,

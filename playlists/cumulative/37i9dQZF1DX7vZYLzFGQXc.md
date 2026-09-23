@@ -4,7 +4,7 @@
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: Shane\) \(Meet the emerging talents of Korea!\)
 
-1,708 songs - 3 day 23 hr 35 min
+1,710 songs - 3 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Action Reaction](https://open.spotify.com/track/4pv4srfPim6XwSUoxueLRF) | [syndasizung 신다사이정](https://open.spotify.com/artist/2JVIMqJWk3OVEEr9oaWYub) | [Action Reaction](https://open.spotify.com/album/0APzH8zMzoBbbweo04UqYI) | 4:35 | 2022-07-04 | 2022-09-06 |
 | [After hours](https://open.spotify.com/track/2qEE3xEXMV4XPCwRHQ26WT) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [After hours](https://open.spotify.com/album/7Dixol2K1XczfePx3ReGbj) | 2:23 | 2024-09-24 | 2025-02-15 |
 | [After today](https://open.spotify.com/track/1P9OPO0vhDgouinbvc1rbE) | [Cloudybay](https://open.spotify.com/artist/0FyGoy4Ek4dQGoMM65eZ0z) | [오늘이 지나면](https://open.spotify.com/album/4DTAj2VyTluzTj7BA6N7w4) | 3:04 | 2024-09-02 | 2025-02-04 |
+| [Afterlove](https://open.spotify.com/track/3hLUt6kR5zQel3G7KGgf52) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [Afterlove \(後愛\)](https://open.spotify.com/album/2s7wYj2uqeaOH6XRZQHGZv) | 3:26 | 2026-09-22 |  |
 | [Afternoon](https://open.spotify.com/track/5rVBfBsDjVINo3OB9WMoAk) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Seasonal Depression](https://open.spotify.com/album/0wRmVOUtR5oGZ17epzm5P5) | 3:12 | 2023-03-31 | 2023-05-02 |
 | [Again](https://open.spotify.com/track/1gtbczxlVT3K4A1KYAgWME) | [Sam Ock](https://open.spotify.com/artist/0823FxAYBXOeMTOWPeH9HH) | [Again](https://open.spotify.com/album/5libWqRba7SeGFA6TQrJKo) | 3:37 | 2022-06-09 | 2022-06-21 |
 | [AKA](https://open.spotify.com/track/2Vq1b1ygQom2fbHzJ4Xysb) | [Minshik](https://open.spotify.com/artist/2x6LaIxVmV4aNLNd849SG9), [Chin](https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw), [MAN1AC](https://open.spotify.com/artist/4YNvQXYW6XewBzHcWgsXrS) | [AKA](https://open.spotify.com/album/5Ig2KdEfuu1bXOyDQM8EPf) | 2:42 | 2023-07-27 | 2024-03-06 |
@@ -176,6 +177,7 @@
 | [Blu](https://open.spotify.com/track/0nC0CzHg7TYdMq99nMmWbH) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Blu](https://open.spotify.com/album/0VgsEE1yvMgPUNypJ2w3FS) | 3:32 | 2023-01-11 | 2023-02-09 |
 | [Blue](https://open.spotify.com/track/2V1w4WTdbQ29zAhk7kbMbW) | [Homeboy](https://open.spotify.com/artist/7ocuKBIqxHfc5m49bY7hO7), [Monghoon](https://open.spotify.com/artist/0J44TBka18mqpDDdaZgnzG) | [Blue](https://open.spotify.com/album/6P7xo2iMwszQCm3lMf7DAY) | 4:12 | 2022-09-29 | 2022-12-01 |
 | [blue blue](https://open.spotify.com/track/0b3VUcnbIXBYVFidbyhatj) | [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j) | [blue blue](https://open.spotify.com/album/0lJr0Nh5kpZ9R9ljZaDCt1) | 2:53 | 2022-04-07 | 2022-05-12 |
+| [Blue Heroine](https://open.spotify.com/track/6CKCScNDppsarIuvfkVDGB) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Blue Syndrome](https://open.spotify.com/album/3QlLm6RFMW6OS6otn2CNl5) | 3:38 | 2026-09-22 |  |
 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 | 2022-09-05 | 2023-01-12 |
 | [Blue to blue](https://open.spotify.com/track/5MZA4FuHdUp4gayeE3fHZ1) | [heyden](https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE) | [Blue to blue](https://open.spotify.com/album/2BbQWzKxQe2JguIj4CYrtJ) | 3:54 | 2025-07-07 | 2026-01-15 |
 | [bluescreen](https://open.spotify.com/track/3ZXW65JwQ2hwQab4dOSP9b) | [JI SUYEON](https://open.spotify.com/artist/70iA690AZviTkQKgfjlSK6) | [bluescreen](https://open.spotify.com/album/6syQENwrbxw2L266pROpdn) | 3:25 | 2026-04-30 |  |
@@ -830,7 +832,7 @@
 | [Like You](https://open.spotify.com/track/45jEOvG3aufhNH0sNqrALd) | [DADADA](https://open.spotify.com/artist/2QJ3Y9xgZFulkgbDnteypu) | [Like You](https://open.spotify.com/album/6pmhnoMFLa3e6wf0BtfV2N) | 4:46 | 2025-09-01 | 2026-03-04 |
 | [LIL BABY \(Feat\. KHAN\)](https://open.spotify.com/track/5G9BqSOlFkFKrY7aLJoJJK) | [KOREANGROOVE](https://open.spotify.com/artist/51kKa2NlubrcVgPEoxUQv6), [KHAN](https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5) | [LIL BABY \(Feat\. KHAN\)](https://open.spotify.com/album/2l2bbVMGXs1SCG1ySjcMk6) | 2:47 | 2023-02-08 | 2023-05-02 |
 | [Lilac](https://open.spotify.com/track/7sUdQYehUxm6Wr8fE1UuFl) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Flowering](https://open.spotify.com/album/54hii26kTxdUy7SY9OfWrW) | 3:28 | 2022-06-09 | 2022-06-19 |
-| [Lines For Today](https://open.spotify.com/track/51JY7adOGiJuEYuydofe12) | [Wavemeans](https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r) | [Lines For Today](https://open.spotify.com/album/6ft7pqkX2AsA17DSCb75XB) | 2:45 | 2026-02-01 |  |
+| [Lines For Today](https://open.spotify.com/track/51JY7adOGiJuEYuydofe12) | [Wavemeans](https://open.spotify.com/artist/6CYyF2lNhSUwZHUtlYoJ3r) | [Lines For Today](https://open.spotify.com/album/6ft7pqkX2AsA17DSCb75XB) | 2:45 | 2026-02-01 | 2026-09-23 |
 | [Little Star](https://open.spotify.com/track/1buWeRRCx5QBOrCEvnPtgv) | [Kim Feelsun](https://open.spotify.com/artist/5jOztsbYMrFcbPauBMX6ih) | [Little Star](https://open.spotify.com/album/0YOo4g8SBSVyq7BTKMtiVO) | 2:26 | 2024-08-02 | 2024-11-12 |
 | [Live your day](https://open.spotify.com/track/4la99hjrmKkpNRhV9OIDpd) | [OYEON](https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9) | [Live your day](https://open.spotify.com/album/0WXp98T5hi6PDmxgUtL6wf) | 4:12 | 2022-05-02 | 2022-06-10 |
 | [LOL \(Love On Lie\)](https://open.spotify.com/track/7F3bZRROWYKUIm2JXO8nst) | [HEEO](https://open.spotify.com/artist/5Tdm5krWn9djlFgQmidwm3) | [LOL \(Love On Lie\)](https://open.spotify.com/album/4Xa6I5hwhwHzWdSdTq31fk) | 3:17 | 2022-07-04 | 2022-08-13 |
@@ -1045,7 +1047,7 @@
 | [Once Again](https://open.spotify.com/track/4shzLSlIHhyKmTY7xRQRwU) | [Lemon City](https://open.spotify.com/artist/6J1LfT9S8BD5i2xqk87x6Z) | [Once Again](https://open.spotify.com/album/05ptYQOuOL5bMv2IVEr3lP) | 3:28 | 2023-01-30 | 2023-05-02 |
 | [one by one](https://open.spotify.com/track/6Ynd6fV8o4uxjlf8xPxrx5) | [heyseunghey](https://open.spotify.com/artist/7JFpChAurxPuVqG0KsXR9g) | [one by one](https://open.spotify.com/album/4i4M8CmiCriaG709LX1T2K) | 4:03 | 2024-08-10 | 2025-02-04 |
 | [One For The Old School \(feat\. twlv\)](https://open.spotify.com/track/0kTPtHLqy09LxqYwiSsqRV) | [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC), [twlv](https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey) | [One For The Old School \(feat\. twlv\)](https://open.spotify.com/album/4rs3oxnLGxXGFmDVdootNr) | 2:17 | 2022-02-23 | 2022-03-18 |
-| [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 | 2026-01-23 |  |
+| [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 | 2026-01-23 | 2026-09-23 |
 | [only child \(feat\. CHE\)](https://open.spotify.com/track/1gzhqif2jx3Qng9FJBAxmo) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [CHE](https://open.spotify.com/artist/2xocK6HzC2vJZct6pEO5SH) | [only child \(feat\. CHE\)](https://open.spotify.com/album/4MJ5qX1lnHkgBFwysDXhvv) | 2:19 | 2022-01-27 | 2022-03-03 |
 | [Only For You](https://open.spotify.com/track/4Ocz7hXzsUeBQiNGqLnkon) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Branding in Seongsu OST Part.6](https://open.spotify.com/album/2SS7gV0crtZmEcgvCgWnsn) | 3:38 | 2024-03-21 | 2024-08-02 |
 | [Only For You](https://open.spotify.com/track/3miq3CiT39is7d2pv5E3xP) | [Tobio](https://open.spotify.com/artist/1blwd72jvfbVUrFjFoaKtM), [ARKI](https://open.spotify.com/artist/30qlcwel4Kjf50qYjfNGIv), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg) | [I'm The Man](https://open.spotify.com/album/5NJMyU9zPWJBxZWCP8GKDR) | 3:04 | 2023-06-01 | 2023-08-01 |

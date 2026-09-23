@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 177665,
+  "num_followers": 177712,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Fuego Contra Fuego",
-        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Soy Lo Peor",
-      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/42y9XMsHd4bHlbtB5HLUJL"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 209160,
       "name": "Cada D\u00eda M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/3JGkx0qK6mh7O7qz9zCLXM"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Fuego Contra Fuego",
+        "url": "https://open.spotify.com/album/0IAQTzZUZkgwMfN5hZJjp3"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Soy Lo Peor",
+      "url": "https://open.spotify.com/track/5bdgoOTegXYsGdEjoIZDSL"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "El Desorden",
+        "url": "https://open.spotify.com/album/07XhIDBf3asLUakoprXiek"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 234944,
+      "name": "El Desorden",
+      "url": "https://open.spotify.com/track/5wTJR7wThGAXecobfYhytr"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 213613,
       "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
       "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "El Desorden",
-        "url": "https://open.spotify.com/album/07XhIDBf3asLUakoprXiek"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 234944,
-      "name": "El Desorden",
-      "url": "https://open.spotify.com/track/5wTJR7wThGAXecobfYhytr"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -875,22 +875,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
-      },
-      "artists": [
-        {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "ATP",
         "url": "https://open.spotify.com/album/5YAMa7LhSMdWOs1dF93g4V"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 180000,
       "name": "MIATA \u1559(\u21c0\u2038\u21bc\u2036)\u1557",
       "url": "https://open.spotify.com/track/1k15ZgRhn8OxFalYbeaZ1h"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Cumbias Para Bailar",
-        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Kika Edgar",
-          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
-        }
-      ],
-      "duration_ms": 255280,
-      "name": "Qu\u00e9 Bello",
-      "url": "https://open.spotify.com/track/2vw9TcQLOkCjCcSX3rKyJb"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "HURT (feat. The Warning)",
         "url": "https://open.spotify.com/album/32yohVX75sFAvzlL21f8n3"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 213924,
       "name": "HURT (feat. The Warning)",
       "url": "https://open.spotify.com/track/0JKhtLEsm4Rij2HK6LyLYc"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Cumbias Para Bailar",
+        "url": "https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Kika Edgar",
+          "url": "https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA"
+        }
+      ],
+      "duration_ms": 255280,
+      "name": "Qu\u00e9 Bello",
+      "url": "https://open.spotify.com/track/2vw9TcQLOkCjCcSX3rKyJb"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1135,8 +1135,8 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Bot\u00e1nica",
-        "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
       },
       "artists": [
         {
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 206400,
-      "name": "\u00c1rbol De Manzanas",
-      "url": "https://open.spotify.com/track/6H5UMkAnweqb4cKIsAzUh9"
+      "duration_ms": 186769,
+      "name": "El Tiempo Que Necesites",
+      "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1215,8 +1215,8 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
+        "name": "Bot\u00e1nica",
+        "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
       },
       "artists": [
         {
@@ -1224,9 +1224,9 @@
           "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 186769,
-      "name": "El Tiempo Que Necesites",
-      "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
+      "duration_ms": 206400,
+      "name": "\u00c1rbol De Manzanas",
+      "url": "https://open.spotify.com/track/6H5UMkAnweqb4cKIsAzUh9"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Ser Como T\u00fa",
-        "url": "https://open.spotify.com/album/6wDGjaHs0dLNcF31n25LZo"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Del Camino",
-          "url": "https://open.spotify.com/artist/0zvfEGBFjOX2F5jpEm6dv3"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "En Tu Basura",
-      "url": "https://open.spotify.com/track/0hA8FSVXGdkCcT6T1OtA3f"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Compa\u00f1eros Musicales",
         "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 246373,
       "name": "La Rubia y el Demonio",
       "url": "https://open.spotify.com/track/4iBUoHT6aNcP4J883m49xU"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Ser Como T\u00fa",
+        "url": "https://open.spotify.com/album/6wDGjaHs0dLNcF31n25LZo"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Del Camino",
+          "url": "https://open.spotify.com/artist/0zvfEGBFjOX2F5jpEm6dv3"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "En Tu Basura",
+      "url": "https://open.spotify.com/track/0hA8FSVXGdkCcT6T1OtA3f"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Cumbia Del Lazo",
-        "url": "https://open.spotify.com/album/1UqSxzsjl9uZg1xVoBLwLR"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "La Cumbia Del Lazo",
-      "url": "https://open.spotify.com/track/3gRpzfNEhcDuL2UXgTbkVu"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Arrastrando La Cobija (Cl\u00e1sicos Digitalizados)",
         "url": "https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 186573,
       "name": "Arrastrando La Cobija",
       "url": "https://open.spotify.com/track/1eKN8fGmXwsOg5mBfQD2KI"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Cumbia Del Lazo",
+        "url": "https://open.spotify.com/album/1UqSxzsjl9uZg1xVoBLwLR"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "La Cumbia Del Lazo",
+      "url": "https://open.spotify.com/track/3gRpzfNEhcDuL2UXgTbkVu"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "La \u00danica Estrella",
-        "url": "https://open.spotify.com/album/5OiuSf6PgK4X3QvukvssRC"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda",
-          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "No me vayas a dejar",
-      "url": "https://open.spotify.com/track/1OsOYOFIDT0xX1AVvweV17"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "La Torcida",
         "url": "https://open.spotify.com/album/57BeeRdXBw4fyXQY7zREZo"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 295601,
       "name": "La Torcida",
       "url": "https://open.spotify.com/track/5Tv05AFXTYDFmF6d1SNTph"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "La \u00danica Estrella",
+        "url": "https://open.spotify.com/album/5OiuSf6PgK4X3QvukvssRC"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "No me vayas a dejar",
+      "url": "https://open.spotify.com/track/1OsOYOFIDT0xX1AVvweV17"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "El Brinquito",
-        "url": "https://open.spotify.com/album/5WSPpDNz05X77xzEpfwhwJ"
-      },
-      "artists": [
-        {
-          "name": "Los Reyes Locos",
-          "url": "https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG"
-        }
-      ],
-      "duration_ms": 205853,
-      "name": "El Brinquito",
-      "url": "https://open.spotify.com/track/0eNogDKWE2kLSfSz3OB5Ro"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Te Sorprender\u00e1s",
         "url": "https://open.spotify.com/album/6KK83cdEilYMgI8uHPR4Rk"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 208266,
       "name": "Por Que Te Tengo Que Olvidar",
       "url": "https://open.spotify.com/track/4yV699yWj5OnboFsF2eHtR"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "El Brinquito",
+        "url": "https://open.spotify.com/album/5WSPpDNz05X77xzEpfwhwJ"
+      },
+      "artists": [
+        {
+          "name": "Los Reyes Locos",
+          "url": "https://open.spotify.com/artist/2Z7Kkkd0KGcx6cblKWVdUG"
+        }
+      ],
+      "duration_ms": 205853,
+      "name": "El Brinquito",
+      "url": "https://open.spotify.com/track/0eNogDKWE2kLSfSz3OB5Ro"
     },
     {
       "added_at": "2026-06-08 18:17:51",

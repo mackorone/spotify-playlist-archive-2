@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック  Cover: Stones Taro \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,767 likes - 90 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,784 likes - 90 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 52 | [One Love](https://open.spotify.com/track/6YIEMuhUumzkipjCtUdRjN) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Lyves](https://open.spotify.com/artist/0q31MBlCXGIFG6gl11Yn0t) | [One Love](https://open.spotify.com/album/1Bgz0B8mKklpAzGS0zHXJj) | 4:56 |
 | 53 | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/track/1gOgRxo3J8iURwbGf5tfBg) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Khadija Al Hanafi](https://open.spotify.com/artist/1siDtHIKhnkrABgaicXLr5) | [Far Away \(feat\. John Glacier & Khadija Al Hanafi\)](https://open.spotify.com/album/2A54dXXDuhdZSXfQPQf3rH) | 2:40 |
 | 54 | [The Elephant in the Room](https://open.spotify.com/track/3Ia8CTi0vjyLtR8RF1MUJG) | [NVMR](https://open.spotify.com/artist/0OCXExGFSb4M6CStAJJPmb) | [The Elephant in the Room](https://open.spotify.com/album/0yFPWUhu10CI5InbaMwaIU) | 2:41 |
-| 55 | [Essa Ta Quente \(feat\. Skrillex\)](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente \(feat\. Skrillex\)](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
+| 55 | [Essa Ta Quente](https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [Essa Ta Quente](https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL) | 2:46 |
 | 56 | [I Don't Know What It Is](https://open.spotify.com/track/14ZxFBrX8ICK2W0ffsdTJB) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [I Don't Know What It Is](https://open.spotify.com/album/2gqaBoWrzUkmY9zN9z19Bc) | 5:22 |
 | 57 | [will u show up?](https://open.spotify.com/track/2Pp6YIeEgQVn3XWutDptxU) | [efan](https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT), [Hans Glader](https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG) | [will u show up?](https://open.spotify.com/album/2WWzq5pObXEVjIIPjc59c7) | 4:10 |
 | 58 | [GOTTA MAKE IT](https://open.spotify.com/track/1RD9O5qftZXR4R1I4HV14v) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [GOTTA MAKE IT](https://open.spotify.com/album/1aFaMJS2gRUQYcTMpnTKVP) | 2:28 |

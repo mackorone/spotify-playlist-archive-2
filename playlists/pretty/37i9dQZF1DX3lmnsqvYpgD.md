@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 
 > 只有散步，我們才是真正聊天。邊首廣東歌，令你諗起同你散步嘅佢？
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,484 likes - 110 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,481 likes - 110 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3lmnsqvYpgD.md) - [plain]
 | 31 | [陪狗散步](https://open.spotify.com/track/0skCtn6jTR41EKNOkKwqTV) | [鄧小巧](https://open.spotify.com/artist/1SeOkjPIrQysLZz56Ql0FN) | [Petit Fours](https://open.spotify.com/album/2Cs7d4bQgWBkdb3YZnOm2P) | 3:33 |
 | 32 | [無家 \- 紀錄片《毛家》主題曲](https://open.spotify.com/track/5g4rSS5KP0Qcu5e7pyqrjL) | [Cath Wong](https://open.spotify.com/artist/2Kym4g2CjFyRO3Hx3phNEM) | [無家 \(紀錄片《毛家》主題曲\)](https://open.spotify.com/album/79mvJNNYXYfwnLTQ13bAON) | 3:25 |
 | 33 | [搲撈HK](https://open.spotify.com/track/0NP7SvqXp2iGXoc5Gtf1Bl) | [RubberBand](https://open.spotify.com/artist/7uzBKhYbCKBs53kDrO4Suc) | [搲撈HK](https://open.spotify.com/album/5hkVOjGfUt5mIaPWANkZKy) | 4:27 |
-| 34 | [在空中的這一秒](https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:46 |
+| 34 | [在空中的這一秒](https://open.spotify.com/track/5st8nBxaC9GX6Dl3VMXTbM) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 3:45 |
 | 35 | [下雨的瞬間 Raining Moment](https://open.spotify.com/track/3mRBZkUKakcjrlCegUU2J7) | [FINGERGAP](https://open.spotify.com/artist/5xcNlSnDsa7PWk4pnsm2B6), [Fedor Yury](https://open.spotify.com/artist/3tlVYRZPpiIT0m7Xydhnzz) | [Shan Shan 160](https://open.spotify.com/album/1DcyRtz8g3mvwFy1AsmVhY) | 3:38 |
 | 36 | [不如出走](https://open.spotify.com/track/49XF1m8j1MEq1Jy8Ip7YDA) | [Heize Wong 黃峻𤋮](https://open.spotify.com/artist/5g9z0Hgst8sR0uIFfG0zJs) | [不如出走](https://open.spotify.com/album/4HB1gJEgkmXDvYCDl3RsSC) | 3:42 |
 | 37 | [兜圈](https://open.spotify.com/track/73KXQMlVcoMASo3U6kXpyA) | [Joséay](https://open.spotify.com/artist/3wADT5yU8enVjNSW9BoMxt) | [EARTHQUAKE MIXTAPE](https://open.spotify.com/album/4n2uv69cSINmVZl019A3uV) | 2:44 |

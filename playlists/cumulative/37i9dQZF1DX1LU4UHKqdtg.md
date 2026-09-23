@@ -2,9 +2,9 @@
 
 ### [Stargirl vibes](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: no na
+> Girls groups/solo artists shining beyond borders\. グローバルに活躍するガールズグループ/ソロアーティストを一つのプレイリストに。Cover: ILLIT
 
-1,823 songs - 3 day 23 hr 44 min
+1,825 songs - 3 day 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1036,6 +1036,7 @@
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-06 | 2024-10-11 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-08-23 | 2024-02-14 |
 | [New Emotions](https://open.spotify.com/track/5fu1d5IE7fSnFPZ0hydoq0) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [13egin](https://open.spotify.com/album/7niD2tsuMKHMXBx5TEyF2W) | 2:44 | 2023-07-31 | 2023-08-19 |
+| [New Look](https://open.spotify.com/track/6vtBsAv6slegvZ2lleiu5L) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [New Look](https://open.spotify.com/album/7l0i6g7surErfbkaCFk5vj) | 3:06 | 2026-09-22 |  |
 | [NEW LOOK](https://open.spotify.com/track/2dcUJfnd2BAKS7jUSdlmmO) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 3:16 | 2025-03-06 | 2025-04-30 |
 | [NEW LOOK](https://open.spotify.com/track/451U7NEyfqtVefeIgSoJF0) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [NEW LOOK](https://open.spotify.com/album/0nIHweIUCe2nVy5stte3GY) | 3:16 | 2024-10-11 | 2024-10-28 |
 | [NEW ROAD](https://open.spotify.com/track/6SV2IgRFdjK4I2BLT8dOkt) | [SUPER JUNIOR\-L.S.S.](https://open.spotify.com/artist/3POJzSnl0opkk0nLWBAAr8) | [Let's Standing Show](https://open.spotify.com/album/0v4hD3V0e9f9maj8EIlecH) | 3:28 | 2024-01-16 | 2024-02-21 |
@@ -1052,7 +1053,7 @@
 | [Nirvana \(feat\. pH\-1 & WDBZ\)](https://open.spotify.com/track/36DcCSKGShF6p3h2JMcPDg) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [WDBZ](https://open.spotify.com/artist/01q9uYIoLmTfAFQaKiNnbh) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 3:39 | 2022-11-24 | 2023-01-25 |
 | [No Biggie](https://open.spotify.com/track/3o4FOm8UEvjbTignWbKxYr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [No Biggie](https://open.spotify.com/album/1urYBW5vhEnfX0zzdKvpoX) | 3:01 | 2024-05-01 | 2024-07-10 |
 | [No Doubt \- Japanese Ver\. / Digital Only](https://open.spotify.com/track/5l5xxFoUI1IFLZDQBwhKrQ) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ROMANCE : UNTOLD \-daydream\- \(JAPAN Edition\)](https://open.spotify.com/album/2k58zfsAwrvH8OfHx9RXd7) | 2:47 | 2024-11-18 | 2025-03-07 |
-| [NO Game Over \- QUARTET ver.](https://open.spotify.com/track/7bIXucIKICFValNNs88vXd) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [QUARTET \(Extra Edition\)](https://open.spotify.com/album/2kfBVdpcThogvM0MzqQBSE) | 2:48 | 2026-06-30 |  |
+| [NO Game Over \- QUARTET ver.](https://open.spotify.com/track/7bIXucIKICFValNNs88vXd) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [QUARTET \(Extra Edition\)](https://open.spotify.com/album/2kfBVdpcThogvM0MzqQBSE) | 2:48 | 2026-06-30 | 2026-09-23 |
 | [No Lowkey](https://open.spotify.com/track/6AcT7whSpUEaCncx24QFml) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [No Lowkey](https://open.spotify.com/album/7wiYzDeFQ3HMY1iTxKkw4E) | 2:19 | 2024-04-12 | 2024-05-11 |
 | [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 | 2023-12-01 | 2024-04-24 |
 | [Nolza](https://open.spotify.com/track/0wLGK1RAecE26M9gbavG9v) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE POYZ NOLZA](https://open.spotify.com/album/6BKzodImJNGQce8WlHILwD) | 2:37 | 2023-04-27 | 2023-06-16 |
@@ -1490,6 +1491,7 @@
 | [Sweet Venom](https://open.spotify.com/track/2YmfV4lAjrAQvuggKCUX6m) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [ORANGE BLOOD](https://open.spotify.com/album/7dsAlxH9cMgyREm8OLdWWT) | 2:28 | 2023-11-16 | 2024-08-28 |
 | [Sweet Venom \(Seeb Remix\)](https://open.spotify.com/track/1wfNuhQNBGkisaCknJPbfr) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Sweet Venom \(Seeb Remix\)](https://open.spotify.com/album/1VpLHUZOodpgXh69HNu4nC) | 2:51 | 2024-04-02 | 2024-06-14 |
 | [Sweetie](https://open.spotify.com/track/2YORtNHlZ4AF1iqfa64Z9L) | [ME:I](https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC) | [Sweetie](https://open.spotify.com/album/48pkdo7vJncc2iGpmcb5ce) | 2:34 | 2025-03-06 | 2025-03-17 |
+| [Swingin’ Magic](https://open.spotify.com/track/1hRZJgqpTb8VzSALbDSUrk) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Swingin’ Magic](https://open.spotify.com/album/2vLpnOuFPSXk7PoFPAkt4n) | 2:57 | 2026-09-22 |  |
 | [Swipe It Out](https://open.spotify.com/track/3QgQhBHtQvRpAulIfNwcRG) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Boyfriend on Demand Part 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/6mCYF2uLo54ItZStvpX01y) | 2:56 | 2026-03-21 | 2026-04-01 |
 | [TAKE MY HAND](https://open.spotify.com/track/1dcA0Ql31hchLydrA8dy9A) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [TAKE MY HAND](https://open.spotify.com/album/03AsWUHNl2Hh9JPF3Y66ds) | 2:55 | 2025-08-22 | 2025-11-05 |
 | [Take Two](https://open.spotify.com/track/5IAESfJjmOYu7cHyX557kz) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Take Two](https://open.spotify.com/album/3jeQDa9OFZ6GndLindHx3k) | 3:49 | 2023-06-08 | 2023-08-17 |
@@ -1526,7 +1528,7 @@
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-04-29 | 2022-07-29 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 | 2022-07-28 | 2022-09-07 |
 | [That's all I'm saying](https://open.spotify.com/track/2fziAh8GECzOzuWl3TtuHV) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/1nqz3cEjuvCMo8RHLBI9kM) | 3:02 | 2022-07-26 | 2022-11-09 |
-| [THAT’S A NO NO](https://open.spotify.com/track/2Zr9Wogx6N95V7meyHYGEj) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/3pYQvLHC7Lt12OhpXuTKhc) | 3:00 | 2026-03-17 |  |
+| [THAT’S A NO NO](https://open.spotify.com/track/2Zr9Wogx6N95V7meyHYGEj) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z ME](https://open.spotify.com/album/3pYQvLHC7Lt12OhpXuTKhc) | 3:00 | 2026-03-17 | 2026-09-23 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [JIN](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-10-27 | 2023-02-09 |
 | [The Chase](https://open.spotify.com/track/68UrZQUuO3O6eUiD226xHg) | [Hearts2Hearts](https://open.spotify.com/artist/1ZLU77nRzQIaP23mVSYpCQ) | [The Chase](https://open.spotify.com/album/2IjkSbisATTpSpVIlFVNkN) | 2:58 | 2025-02-25 | 2025-06-18 |
 | [The Feels \- Benny Benassi Remix](https://open.spotify.com/track/3zuOVDHUOI2E8dM3Rk5lmq) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6) | [The Feels](https://open.spotify.com/album/637onaunbESh9eqTqVGMka) | 3:05 | 2022-02-04 | 2022-04-06 |

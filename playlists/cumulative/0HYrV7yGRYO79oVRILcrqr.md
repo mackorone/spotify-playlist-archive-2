@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-762 songs - 1 day 23 hr 33 min
+764 songs - 1 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -515,6 +515,7 @@
 | [Polaroid](https://open.spotify.com/track/4GQAIUhNo73PKzoCAJGFcs) | [Artide](https://open.spotify.com/artist/7JDUHZiaiEls9VVH7hmnNF) | [Polaroid](https://open.spotify.com/album/1vQ9FBJUrpnFFRabr4Q50s) | 3:23 | 2026-05-21 | 2026-06-18 |
 | [Pongo Pygmeaus](https://open.spotify.com/track/43PVaUwpwUbo1FRsngTdTW) | [Prognoz](https://open.spotify.com/artist/48D2g5B3xl0nzi9H36ZlzB) | [Flower](https://open.spotify.com/album/3GwlbFzX1GgH0skFuDnFjG) | 6:16 | 2026-07-08 |  |
 | [Por Debajo](https://open.spotify.com/track/0DTe6BsI9yodMWVcq6dnfG) | [Gary Tapiego](https://open.spotify.com/artist/73rYkLqdQlbp7BM6tDuo5v) | [Por Debajo](https://open.spotify.com/album/047zkzrHJj829LNoXWd0jt) | 2:41 | 2025-10-21 | 2025-11-28 |
+| [Possible](https://open.spotify.com/track/4mdD2qrnobannLKENWVMDU) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Songs for Then & Now](https://open.spotify.com/album/16w9zdNL64AwkIlGFo4FRj) | 3:29 | 2026-09-22 |  |
 | [Pra quê](https://open.spotify.com/track/4pP1UsBuRGrQexQ3T1hmD0) | [David Lisboa](https://open.spotify.com/artist/6C1HHrKkNoObr8bS8IrgGG) | [Super\-Heriós](https://open.spotify.com/album/5kVLd6P222EsnzQMNz54bP) | 3:37 | 2026-04-15 | 2026-06-25 |
 | [Prendo il treno](https://open.spotify.com/track/295IXwJm4eeSU0Ya58Wovd) | [dipe](https://open.spotify.com/artist/0XEYn4sxWm1ga9sXJQ4sWL) | [Prendo il treno](https://open.spotify.com/album/59l0dY5LeYjJo81h6eCIG3) | 4:09 | 2026-02-18 | 2026-03-18 |
 | [Princesa de Noche](https://open.spotify.com/track/7MIANoT9Z4Fen2OVxkUPHB) | [Salva Merino](https://open.spotify.com/artist/0yXBaiTj2LM4ZqAJKeHnDJ), [The Insomnia Night](https://open.spotify.com/artist/1kf6je9RrHLLxg5ocFLVbD) | [Princesa de Noche](https://open.spotify.com/album/1gc6uSi9f5jisAR41OGf5Y) | 4:06 | 2025-12-26 | 2026-03-18 |
@@ -604,6 +605,7 @@
 | [Sol de plata](https://open.spotify.com/track/1dlknX8icptmcv1OLzcVne) | [Por Si Dicen Que Caí](https://open.spotify.com/artist/23LRY8EOOefJ8VsihBF6lM) | [Sol de plata](https://open.spotify.com/album/4bIfqEsGgT61ZNbnfSwqsV) | 5:21 | 2026-01-12 | 2026-03-18 |
 | [Some Days \(Between Heaven and Hell\)](https://open.spotify.com/track/2E01jh8rrkNapzVyFyQWzw) | [CTRVL](https://open.spotify.com/artist/4KGZBTFYCnhD0WSoLfcYPD) | [Some Days \(Between Heaven and Hell\)](https://open.spotify.com/album/4Atk8Qt7icDaCPFcRbM76v) | 3:27 | 2025-09-01 | 2026-07-12 |
 | [Something Blue](https://open.spotify.com/track/6IBvK2Xia5U5Wmg6jkI73G) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Something Blue](https://open.spotify.com/album/226qtJTWbK1lfWh8aE82od) | 3:39 | 2025-10-17 |  |
+| [Sommarn i mitt blod](https://open.spotify.com/track/6iBP2rjjCJcqt7ePYz9ErV) | [FALK](https://open.spotify.com/artist/1VvF9lnZujLwBlhfnA2RQr) | [Sommarn i mitt blod](https://open.spotify.com/album/3pnLECNV3u5d0vvzOCZgf2) | 3:46 | 2026-09-22 |  |
 | [Song of a Hooligan](https://open.spotify.com/track/3Ew5FF6YJfXre7pT2JaJZA) | [Anton](https://open.spotify.com/artist/5ZwvlOmddwRvA3nwQXY13r) | [Song of a Hooligan](https://open.spotify.com/album/3Z9FfksgrxLlXKPhTbobfJ) | 2:52 | 2025-10-27 | 2025-11-28 |
 | [Sonnenbrille im Club](https://open.spotify.com/track/5Jf9zLu8K5JYqFU9MK1bEW) | [ENFYS](https://open.spotify.com/artist/6mHsW7x3l8WQb2LQC1xAXd), [BrainDamage](https://open.spotify.com/artist/4SlcBG3iScSBYLtfoYpDDk) | [Sonnenbrille im Club](https://open.spotify.com/album/3C9W4naev7opKIi9mknkLJ) | 4:08 | 2026-04-27 | 2026-05-26 |
 | [Sons of Gondor](https://open.spotify.com/track/6hqcv7K8f3QaoQF8acXZMP) | [Echoes & Wine](https://open.spotify.com/artist/3CETJ19bzJyAxO7Alv7Xp7) | [Sons of Gondor](https://open.spotify.com/album/79niMGbAoMuNwF4iJS2idh) | 4:47 | 2025-12-31 | 2026-03-18 |

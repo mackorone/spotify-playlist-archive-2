@@ -1,6 +1,6 @@
 {
   "description": "Modern southern rock swagger served neat. Cover: The Black Crowes",
-  "num_followers": 95883,
+  "num_followers": 95898,
   "original_name": "Southern Comfort",
   "owner": {
     "name": "Spotify",
@@ -747,22 +747,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Nervous",
-        "url": "https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 195583,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "The Outside (Deluxe Album Edition)",
         "url": "https://open.spotify.com/album/2u3UiV0r30VTHiibNNuYXL"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 117667,
       "name": "Til My Heart Don't Beat",
       "url": "https://open.spotify.com/track/0yQHaVoo4kTdzrRgByDkCE"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/2nzUJkFqobo7AeMczO9v7q"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 195583,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/5fQF78hwHmuRS6s6VRTAMG"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -943,26 +943,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Interstate Cowboy",
-        "url": "https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj"
-      },
-      "artists": [
-        {
-          "name": "The Vegabonds",
-          "url": "https://open.spotify.com/artist/4FhEJXt9Dnh48FsjLN0JEh"
-        },
-        {
-          "name": "Sam Burchfield",
-          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
-        }
-      ],
-      "duration_ms": 214881,
-      "name": "Interstate Cowboy",
-      "url": "https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
         "url": "https://open.spotify.com/album/1EYgsan8PK3XiINKNSO4ht"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 233250,
       "name": "In Your Hands (feat. Don Miggs and Zane Carney)",
       "url": "https://open.spotify.com/track/07Rr3g9Gl2zPJd8flMxLAL"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Interstate Cowboy",
+        "url": "https://open.spotify.com/album/6T9OmS588U5Dk5bKCkQvvj"
+      },
+      "artists": [
+        {
+          "name": "The Vegabonds",
+          "url": "https://open.spotify.com/artist/4FhEJXt9Dnh48FsjLN0JEh"
+        },
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 214881,
+      "name": "Interstate Cowboy",
+      "url": "https://open.spotify.com/track/3c2RQ6N405f59qatt86lPS"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Summer Skin",
-        "url": "https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2"
-      },
-      "artists": [
-        {
-          "name": "Bones Owens",
-          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "Goin' Back Where I Came From",
-      "url": "https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "15 Minute Smog Check",
         "url": "https://open.spotify.com/album/14nl9oFin9cajYOmeWXggs"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 234036,
       "name": "15 Minute Smog Check",
       "url": "https://open.spotify.com/track/1Xzrlwhd55VSnbMxuFYaLK"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Summer Skin",
+        "url": "https://open.spotify.com/album/1mB1IJ1SBBD897Z0FgCNu2"
+      },
+      "artists": [
+        {
+          "name": "Bones Owens",
+          "url": "https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "Goin' Back Where I Came From",
+      "url": "https://open.spotify.com/track/7nEcu06mVKfrWeOmNAp6ef"
     },
     {
       "added_at": "2026-04-10 16:28:54",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-04-10 16:28:54",
       "album": {
-        "name": "Old Tricks",
-        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
-      },
-      "artists": [
-        {
-          "name": "The Droptines",
-          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
-        }
-      ],
-      "duration_ms": 148778,
-      "name": "Old Tricks",
-      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
-    },
-    {
-      "added_at": "2026-04-10 16:28:54",
-      "album": {
         "name": "Whitsitt Chapel",
         "url": "https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 168630,
       "name": "JACK",
       "url": "https://open.spotify.com/track/189D3XLBjj2YTCTD6QKdJY"
+    },
+    {
+      "added_at": "2026-04-10 16:28:54",
+      "album": {
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
       "added_at": "2026-04-10 16:28:54",

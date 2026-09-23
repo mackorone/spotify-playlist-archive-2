@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-522 songs - 1 day 0 hr 39 min
+523 songs - 1 day 0 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,7 +120,7 @@
 | [Drifter](https://open.spotify.com/track/4I3E6IAdENxyxfoZdeIdW5) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Drifter](https://open.spotify.com/album/6zi83WWOy4rMmWK5hzCiMi) | 2:04 | 2025-02-18 | 2026-04-04 |
 | [Droplets](https://open.spotify.com/track/2N8YZv6azakZK17PRFFOTS) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Droplets](https://open.spotify.com/album/5VOXya4ZeAVZdLwTdTwK1O) | 2:36 | 2026-06-26 |  |
 | [Dulcet](https://open.spotify.com/track/7lvWStTudtQ6sy8AW9o1CN) | [Mokusei](https://open.spotify.com/artist/65lB2N7RSIyYSkLyDiFGuu) | [Dulcet](https://open.spotify.com/album/3SOzzSfeGOHvDNla7w5zEN) | 2:15 | 2026-01-08 | 2026-04-04 |
-| [Dusk](https://open.spotify.com/track/1l2nIWTWCAL2vGbMZnLPQb) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Dusk](https://open.spotify.com/album/02FzOAmjWh3mXlw5A0gEp6) | 2:26 | 2025-10-02 |  |
+| [Dusk](https://open.spotify.com/track/1l2nIWTWCAL2vGbMZnLPQb) | [Insomnian](https://open.spotify.com/artist/1ujgOwCmxg2Rf7IShLE4mQ) | [Dusk](https://open.spotify.com/album/02FzOAmjWh3mXlw5A0gEp6) | 2:26 | 2025-10-02 | 2026-09-23 |
 | [Early Forest Serenade](https://open.spotify.com/track/7h95AoSQLXgft5By5ByMnV) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Majestic Light](https://open.spotify.com/album/0sQKEnZqsabnegdMu6cujB) | 2:13 | 2023-06-16 | 2026-08-20 |
 | [Early Morning](https://open.spotify.com/track/3vXdKKZSwwbHBn23eWZEZh) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Early Morning](https://open.spotify.com/album/6sEvEYVw9R2YYZoKUzBxwR) | 2:25 | 2026-04-03 |  |
 | [Earth Song \(Brook\)](https://open.spotify.com/track/2u5SfmEplx0MJZrouALhLd) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [Earth Song](https://open.spotify.com/album/6Ped9Q9msu0Rpm7A0MjYGO) | 3:10 | 2023-04-28 | 2025-02-23 |
@@ -303,7 +303,7 @@
 | [Moulding](https://open.spotify.com/track/4VdkE87ZahjkBxDxzlHelB) | [Wanyes](https://open.spotify.com/artist/7FiGGXixwRFNO4UHQ5GTlC) | [Moulding](https://open.spotify.com/album/0o3kTphCqfHGDhrKTHfcdw) | 2:20 | 2026-02-23 | 2026-04-04 |
 | [My Sanctuary](https://open.spotify.com/track/3MiOoOWcIVfxT4DtiVx7RW) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [My Sanctuary](https://open.spotify.com/album/6LD9SZaxij45q5VylWfDpM) | 3:31 | 2023-04-28 | 2024-06-04 |
 | [My Small River](https://open.spotify.com/track/5fN8PCKlavnzmBMXIO0tOA) | [Emma Hill](https://open.spotify.com/artist/1hGnGmcdjO6QvsPqWchLI1) | [My Small River](https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph) | 2:59 | 2023-06-09 | 2025-10-16 |
-| [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 | 2026-04-03 |  |
+| [Mystic Nature](https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag) | [Dawe Natauk](https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou) | [Mystic Nature](https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP) | 3:22 | 2026-04-03 | 2026-09-23 |
 | [Namah \(Nature\)](https://open.spotify.com/track/7o4049cAwsfXczrQeB9GOP) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Namah](https://open.spotify.com/album/3djFQUnR2voGmw4ij4rCyU) | 3:19 | 2023-04-28 | 2025-12-18 |
 | [Nattskärra](https://open.spotify.com/track/066Uh3GE4k6K18PIooSScs) | [Nordan](https://open.spotify.com/artist/3TYnzUsJ9UUWSwmphRiqct) | [Nattskärra](https://open.spotify.com/album/1Y6yXs3DjMm3BkGfoZaNZf) | 2:29 | 2026-08-19 |  |
 | [Natura Deambulatio](https://open.spotify.com/track/2gaji8CCmGrYVh2Ccy69wy) | [Floating Portal](https://open.spotify.com/artist/1gxkloW3LpZ1pcP7iqdN5X) | [Natura Deambulatio](https://open.spotify.com/album/2bptLMr6eyfYPvQjQJqyn2) | 3:30 | 2024-04-01 | 2026-02-24 |
@@ -429,6 +429,7 @@
 | [Spiritual Forest](https://open.spotify.com/track/6MLAXN84m0ScmK5vZN2pMI) | [Bear Jonnes](https://open.spotify.com/artist/2C7SHsx4JHNJ09qz1sjatt) | [Spiritual Forest](https://open.spotify.com/album/0bPr4sm060Jpa0BorSdsoI) | 2:53 | 2025-04-11 | 2025-10-16 |
 | [Spring](https://open.spotify.com/track/0oZXyfxCEbzYvGYCW30DlF) | [slowerlane](https://open.spotify.com/artist/5TCtVMGX05BJEZ3uSDGr9h) | [Spring](https://open.spotify.com/album/7bB5HEnnWKBRixQQqgyH5i) | 2:40 | 2026-08-19 |  |
 | [Spring Ambience](https://open.spotify.com/track/7qxd1DNmzbFf9YFSwz1kBl) | [Nature Pulse](https://open.spotify.com/artist/70vUxFU28oeZCt4GremOQ0) | [Spring Ambience](https://open.spotify.com/album/4cIShtTeMzogXfq5e03d73) | 2:31 | 2025-05-16 | 2026-04-04 |
+| [Stargazing at Dawn](https://open.spotify.com/track/51WFbZpYir2eZGtXXrJDSY) | [Sorth](https://open.spotify.com/artist/5r7HLWLaJMF1MsqUVWveyG) | [Stargazing at Dawn](https://open.spotify.com/album/22WWcPFrv829QyTjjHU0aY) | 2:40 | 2026-09-21 |  |
 | [Still Meadow](https://open.spotify.com/track/3kRCB3hatlhH04TJd3mc5t) | [Calil](https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7) | [Still Meadow](https://open.spotify.com/album/4A9oX0bimFi9jrIbMKXonL) | 2:36 | 2026-01-08 | 2026-04-04 |
 | [Stillness Within](https://open.spotify.com/track/49nLhd2akfHVZaYLgEg5lD) | [Cosmic Embrace](https://open.spotify.com/artist/4Ol24ExBEtGVwQiIGwK2c6) | [Stillness Within](https://open.spotify.com/album/1fs79wJdEOXxyv0GUxfOuJ) | 2:29 | 2026-01-08 | 2026-04-04 |
 | [Stone Lantern](https://open.spotify.com/track/3gGi0C9QGLwZmN2vbYorCB) | [Drimnix](https://open.spotify.com/artist/00Vox7JpuHc7lSrjY8zfSd) | [Stone Lantern](https://open.spotify.com/album/3Jl4h0y1fq5lpmPUejIzyu) | 2:25 | 2025-07-22 | 2026-04-04 |
@@ -449,7 +450,7 @@
 | [Thankful](https://open.spotify.com/track/2UXjwMD5scjJzBh3nmQAX8) | [Regentum](https://open.spotify.com/artist/6gfKfJS89ZAy4mSAlwTXvc) | [Thankful](https://open.spotify.com/album/73ZOqAI2ARO0Chn2Vg3wrw) | 3:14 | 2023-04-28 | 2024-08-24 |
 | [The Birds' Lullaby](https://open.spotify.com/track/1RqfOe6dyNeOdczSmz0PU9) | [Alma Forest](https://open.spotify.com/artist/5n7QXdkmXfGAz6srNlrF8l) | [The Birds' Lullaby](https://open.spotify.com/album/3FM8vHSAiC47KQwL1HVHNe) | 3:35 | 2023-04-28 | 2025-05-22 |
 | [The Body Softens](https://open.spotify.com/track/1G0KYHvwfoumBGOkK168SS) | [Quiet Draft](https://open.spotify.com/artist/6Qsq7Ue7mRKBWacCbRlXuO) | [The Body Softens](https://open.spotify.com/album/41Edg0QgS42otx7r9ulC0z) | 2:42 | 2026-08-19 |  |
-| [The Breath of Nature](https://open.spotify.com/track/4GHPUQVr1NfdjncydcknUo) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [The Breath of Nature](https://open.spotify.com/album/5BbpXR8Ykj4OSdagECn29J) | 2:52 | 2026-08-19 | 2026-09-16 |
+| [The Breath of Nature](https://open.spotify.com/track/4GHPUQVr1NfdjncydcknUo) | [Ruttik Dhakate](https://open.spotify.com/artist/4vPlN4GEfqIPoiwwsCxZl3) | [The Breath of Nature](https://open.spotify.com/album/5BbpXR8Ykj4OSdagECn29J) | 2:52 | 2026-08-19 |  |
 | [The Breathing Woods](https://open.spotify.com/track/72xNutGVljPsyIjn0GiODR) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Live from Nature](https://open.spotify.com/album/7LZsm151E7Nj3W74AIsw9p) | 2:13 | 2025-10-02 | 2026-05-28 |
 | [The Brook](https://open.spotify.com/track/4DxtQrlRQrlS4WVaFYtL4n) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [The Brook](https://open.spotify.com/album/2mKQeiAHIjQU3MeiauWQeM) | 2:58 | 2023-04-28 | 2026-02-24 |
 | [The Danish Waterfall](https://open.spotify.com/track/3Himlq10H1TMaLquCj26HS) | [Soeren Zen](https://open.spotify.com/artist/1MIIbhncpecNMMqwSQCyX8) | [The Danish Waterfall](https://open.spotify.com/album/5gtlJrqr9VuRQbPPRpcDXu) | 3:00 | 2023-04-28 | 2024-08-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > De beste nieuwe R&B releases \| Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,636 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,620 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 31 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
 | 32 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 33 | [DUVET](https://open.spotify.com/track/6AC9alC8qJ7cXuYifgAfQn) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST DELU/XXX \[for my delusional ex\]](https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0) | 2:31 |
-| 34 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
-| 35 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
+| 34 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
+| 35 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
 | 36 | [do what i say](https://open.spotify.com/track/2TYAJJTyGC4i3m0RlhuXeu) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [do what i say](https://open.spotify.com/album/7pIJAfTKAZ0YoLhdjTwM1E) | 3:08 |
 | 37 | [Reclusive](https://open.spotify.com/track/5vbk8ZURIOaINOKPvvNo60) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Reclusive](https://open.spotify.com/album/4zTUF5mYmlnNxIw0imKYbz) | 3:06 |
 | 38 | [Head in a Jar](https://open.spotify.com/track/0y56rCLTldeTurCf3LugTZ) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Head in a Jar](https://open.spotify.com/album/75JRyqkCNN6DQRdT5et7I3) | 3:16 |
@@ -51,13 +51,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 41 | [SPEECHLESS](https://open.spotify.com/track/3QG7ScQMjttBGhEQWM3tEf) | [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [HIATUS](https://open.spotify.com/album/4Xhpn4XMjaoKTuWJ7YDWcE) | 3:34 |
 | 42 | [Damage Control](https://open.spotify.com/track/1gdTV2QtxG4jgrYdJCR8L1) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Heat The Streets](https://open.spotify.com/album/3NVOdBALj1yRrX73ctK2FB) | 2:30 |
 | 43 | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Don't Remind Me \(with Anderson .Paak\)](https://open.spotify.com/album/1Z1L15G68wBQU7gG57QXl9) | 3:38 |
-| 44 | [Elements](https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Elements](https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp) | 3:27 |
-| 45 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
+| 44 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
+| 45 | [Elements](https://open.spotify.com/track/0ezvAv1ZRfqRBtJCPfMjyJ) | [BOY SODA](https://open.spotify.com/artist/2gorlgsMUJH6TSfTPhaCdW) | [Elements](https://open.spotify.com/album/5YxDlfsJQMih8nrHyHzntp) | 3:27 |
 | 46 | [Hold of Me](https://open.spotify.com/track/7KY1unDGI0vtiHlvgPUwn6) | [K.ZIA](https://open.spotify.com/artist/3atSqEy99wAtJLRIrFdpMY) | [Hold of Me](https://open.spotify.com/album/2DWEwljuTE9nyq1Z65aCsN) | 3:33 |
 | 47 | [Pretty Girls](https://open.spotify.com/track/1RFEkrUcDABHjy7fhCeeNd) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:36 |
 | 48 | [U Gotta](https://open.spotify.com/track/20RR34NvvcSas9GdZUrAhq) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc), [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7) | [U Gotta](https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci) | 2:02 |
-| 49 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
-| 50 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
+| 49 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
+| 50 | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/track/2Agp4orhknYXMMrHHpasqJ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [miss u 2 \(with Leon Thomas\)](https://open.spotify.com/album/6koaz0ufllVmz49Z8M4Dgo) | 2:28 |
 | 51 | [A Mile In My Mind](https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [A Mile In My Mind](https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF) | 2:47 |
 | 52 | [No](https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:26 |
 | 53 | [SA NA SAN](https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj) | [Amazone](https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46) | [SA NA SAN](https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8) | 2:35 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 70 | [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 |
 | 71 | [So Bad \- bonus track](https://open.spotify.com/track/4d7pMYqix9rkgaRgJs4ITe) | [Robyn Florence](https://open.spotify.com/artist/3qIkj3W8oehm6SAHxD5qPa), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [So Bad \(bonus track\)](https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92) | 2:00 |
 | 72 | [10AM](https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [10AM](https://open.spotify.com/album/2p3syjniBpHkLZGWB0o7FD) | 3:36 |
-| 73 | [Just Like You](https://open.spotify.com/track/3vUbxLf8vr3KmI5Dqpfzqz) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like You](https://open.spotify.com/album/7Aqv6M8ONnqRIjBx99XLoQ) | 3:06 |
-| 74 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 |
+| 73 | [Cutesy](https://open.spotify.com/track/04Np3EvsIBgaDLriPvfxQn) | [BNXN](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cutesy](https://open.spotify.com/album/2fhVt4ZypAk6u1S4nMxDp6) | 3:01 |
+| 74 | [Just Like You](https://open.spotify.com/track/3vUbxLf8vr3KmI5Dqpfzqz) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Just Like You](https://open.spotify.com/album/7Aqv6M8ONnqRIjBx99XLoQ) | 3:06 |
 | 75 | [What I Used To Get Into](https://open.spotify.com/track/4GEAQAtCQ50j0lZP9k4SMT) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Dark Nights](https://open.spotify.com/album/7hyrgjUIdVzGGtzIrLhcJE) | 3:12 |
 | 76 | [Kill For Us](https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Seen](https://open.spotify.com/album/3a305Q4nAMZgyzVPWFEmCZ) | 3:33 |
 | 77 | [He's Not Me](https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me](https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [125 Degrees](https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [125 Degrees](https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp) | 2:43 |
 | 100 | [One More Time](https://open.spotify.com/track/2aW0YxPMcioaMvioYZgYf1) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [One More Time](https://open.spotify.com/album/2UgBgSaNVEblHh3IXBqHXN) | 2:40 |
 
-Snapshot ID: `AAAAAFnsHNSlStOZM050L4NqDbexlxLN`
+Snapshot ID: `AAAAAIW5KCnR8m151Mg7a211UaaycSVT`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5KpKRBzHOKcWcz5bX6zRD1">Mags Duval</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230 likes - 115 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 231 likes - 115 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 48 | [Play Dumb](https://open.spotify.com/track/4inINyEpZqgKGDYqf5Knb1) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [Play Dumb \(New Jersey Version\)](https://open.spotify.com/album/6wvUSE3RrPncqFLJSDXikw) | 2:53 |
 | 49 | [knowing you exist](https://open.spotify.com/track/2TRtmJg3JGtfKKnNOkU5Dn) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:24 |
 | 50 | [Buy A Round](https://open.spotify.com/track/7lvADxBCa2EMfsK3B0kuZd) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Buy A Round](https://open.spotify.com/album/0OjtOOVcpqJSySkEmsOlFK) | 3:01 |
-| 51 | [graveyard shift](https://open.spotify.com/track/32GhlLgrx9mXXKHf2ltF7U) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:27 |
-| 52 | [ONLY THING LEFT](https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:34 |
+| 51 | [ONLY THING LEFT](https://open.spotify.com/track/2nmrNr1Qs04TwLdNEOVOuE) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:34 |
+| 52 | [graveyard shift](https://open.spotify.com/track/32GhlLgrx9mXXKHf2ltF7U) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [georgia got colder](https://open.spotify.com/album/0FlFeUoegYdzMZwTOVANE2) | 2:27 |
 | 53 | [How To Lose A Friend](https://open.spotify.com/track/4hBK4mj2SRoiJKXGfCR0TQ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Good Things](https://open.spotify.com/album/440oB4r9sCDlk3Le7Jzlwe) | 3:25 |
 | 54 | [Murder the Man](https://open.spotify.com/track/7M3mwAYlJXBRrgF77zYTDm) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Journal No.1](https://open.spotify.com/album/2k0fcWU7mY3UiZ9BrNqBAU) | 2:39 |
 | 55 | [Die On The Dancefloor](https://open.spotify.com/track/5cGCTK7q37dgISC1IYQuS1) | [L Devine](https://open.spotify.com/artist/5dhyUSoGhz79WTzP39vKs4) | [Near Life Experience Part Two](https://open.spotify.com/album/4PQpAZ3UZSuXNDElPQtMNg) | 3:21 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGHmkB2htnut.md) - [plain]
 | 114 | [You Don't Cross My Mind](https://open.spotify.com/track/1EuOCEo4KS803rI8seoVOM) | [Ghosthood](https://open.spotify.com/artist/09Z9ELukzMBGYvy2D25odv) | [You Don't Cross My Mind](https://open.spotify.com/album/5iGFfwsCQTNQAZAfdk6ed3) | 3:19 |
 | 115 | [Father Figures](https://open.spotify.com/track/1hWSPugygFE4ydR12fNOb0) | [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Fumbling Towards Glory](https://open.spotify.com/album/5qb2qACHP6yi0GLmonfeyj) | 3:46 |
 
-Snapshot ID: `Acc7kgAAAABrCPawSqBoP4Fj6rpIdT1z`
+Snapshot ID: `AcdBZAAAAABY0K7ophuY1BnSWm9jBd61`

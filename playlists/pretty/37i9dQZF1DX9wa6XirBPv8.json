@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1925184,
+  "num_followers": 1925315,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "The Same Old Blood Rush With A New Touch",
-        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
-      },
-      "artists": [
-        {
-          "name": "Cute Is What We Aim For",
-          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "The Curse of Curves",
-      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "All's Well That Ends Well",
         "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 280866,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "The Same Old Blood Rush With A New Touch",
+        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
+      },
+      "artists": [
+        {
+          "name": "Cute Is What We Aim For",
+          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
+        }
+      ],
+      "duration_ms": 203626,
+      "name": "The Curse of Curves",
+      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Box Car Racer",
-        "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
-      },
-      "artists": [
-        {
-          "name": "Box Car Racer",
-          "url": "https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD"
-        }
-      ],
-      "duration_ms": 270866,
-      "name": "I Feel So",
-      "url": "https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Diary (Remastered and Expanded Edition)",
         "url": "https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Box Car Racer",
+        "url": "https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE"
+      },
+      "artists": [
+        {
+          "name": "Box Car Racer",
+          "url": "https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD"
+        }
+      ],
+      "duration_ms": 270866,
+      "name": "I Feel So",
+      "url": "https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "VOICES",
-        "url": "https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2"
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
       },
       "artists": [
         {
-          "name": "Matchbook Romance",
-          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
         }
       ],
-      "duration_ms": 243746,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L"
+      "duration_ms": 203240,
+      "name": "Stare At The Sun",
+      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+        "name": "VOICES",
+        "url": "https://open.spotify.com/album/79IVbDVMkef8jqxosbKcL2"
       },
       "artists": [
         {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+          "name": "Matchbook Romance",
+          "url": "https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG"
         }
       ],
-      "duration_ms": 203240,
-      "name": "Stare At The Sun",
-      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
+      "duration_ms": 243746,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/1UVffD20CfHJ2wD0x0as8L"
     },
     {
       "added_at": "2026-07-17 00:12:53",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2026-07-17 00:12:53",
       "album": {
-        "name": "Do You Feel",
-        "url": "https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J"
-      },
-      "artists": [
-        {
-          "name": "The Rocket Summer",
-          "url": "https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU"
-        }
-      ],
-      "duration_ms": 160973,
-      "name": "Do You Feel",
-      "url": "https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl"
-    },
-    {
-      "added_at": "2026-07-17 00:12:53",
-      "album": {
         "name": "Left and Leaving",
         "url": "https://open.spotify.com/album/5EdeZ3BHIqoOghQ9ygzVCe"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 201000,
       "name": "Aside",
       "url": "https://open.spotify.com/track/4qUMAiRkCY92dw7wnj7phr"
+    },
+    {
+      "added_at": "2026-07-17 00:12:53",
+      "album": {
+        "name": "Do You Feel",
+        "url": "https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J"
+      },
+      "artists": [
+        {
+          "name": "The Rocket Summer",
+          "url": "https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU"
+        }
+      ],
+      "duration_ms": 160973,
+      "name": "Do You Feel",
+      "url": "https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl"
     },
     {
       "added_at": "2026-07-17 00:12:53",

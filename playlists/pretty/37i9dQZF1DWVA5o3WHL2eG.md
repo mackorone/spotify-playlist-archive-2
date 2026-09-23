@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: badmómzjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,251 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,245 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 21 | [Annabella](https://open.spotify.com/track/3g2jh2Aw3c5w4rRVqseJUL) | [Laura Larsson](https://open.spotify.com/artist/3RvyFTiAMR4tM5lE5TUYcV), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Annabella](https://open.spotify.com/album/6ShzR8LBOnDP0okRrwFOPq) | 2:26 |
 | 22 | [OAKBERRY](https://open.spotify.com/track/6iuvcmkk3oBHwNrBEG5DPr) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [OAKBERRY](https://open.spotify.com/album/57Hd3TU5oy3lQYi3Q6Kxp7) | 1:51 |
 | 23 | [BLESSED](https://open.spotify.com/track/6GUqQOEIeYRGIHrseM5lwS) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Don't Trust Bitches](https://open.spotify.com/album/5oBI6pmDDwjThwbbqqztR7) | 2:51 |
-| 24 | [blair waldorf \#mag mich](https://open.spotify.com/track/1Iur8hhyjfTsvE5qwizxXS) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [blair waldorf \#mag mich](https://open.spotify.com/album/6rt4SZ50hHpYMeNBXkW6GM) | 2:22 |
-| 25 | [vvm](https://open.spotify.com/track/1XKTikY535J9bkQb12xhlG) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [vvm](https://open.spotify.com/album/3h4aOLKvBWzhCFaI1oxhpG) | 2:50 |
+| 24 | [vvm](https://open.spotify.com/track/1XKTikY535J9bkQb12xhlG) | [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [vvm](https://open.spotify.com/album/3h4aOLKvBWzhCFaI1oxhpG) | 2:50 |
+| 25 | [blair waldorf \#mag mich](https://open.spotify.com/track/1Iur8hhyjfTsvE5qwizxXS) | [Charlize](https://open.spotify.com/artist/5RKUXG6hD3vVpakjwcK5IW) | [blair waldorf \#mag mich](https://open.spotify.com/album/6rt4SZ50hHpYMeNBXkW6GM) | 2:22 |
 | 26 | [Drin \(prod\. by Dilla\)](https://open.spotify.com/track/51sOqS7mxHUpgmhlwfD25k) | [Emma Rose](https://open.spotify.com/artist/76ULRNlbg99ImmSMdWWtMy) | [Drin \(prod\. by Dilla\)](https://open.spotify.com/album/2ZRfbjo6OeezAjMsaXJ5dd) | 2:46 |
 | 27 | [ADRENALIN](https://open.spotify.com/track/40uLIxGcvydremPOVvcasV) | [CARLI](https://open.spotify.com/artist/669JFUZgZaJ9uuBT7cGpU6) | [ADRENALIN](https://open.spotify.com/album/6TcsPvdHUQdmVwsl6ASGBJ) | 2:27 |
 | 28 | [ATNB](https://open.spotify.com/track/2Oowgh4qE0lH94bisFFFm8) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [All Tits, No Brains](https://open.spotify.com/album/7IIScJwanB6jSm0Wo9ssks) | 2:41 |

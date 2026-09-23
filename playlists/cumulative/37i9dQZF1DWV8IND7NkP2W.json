@@ -613,6 +613,28 @@
     },
     {
       "album": {
+        "name": "Aioi",
+        "url": "https://open.spotify.com/album/3Nmno9l7cr2Z4qoHQnqAbG"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "Aioi",
+      "url": "https://open.spotify.com/track/7EjgI1VC27npyNlZvZMagW"
+    },
+    {
+      "album": {
         "name": "AIRPLANE",
         "url": "https://open.spotify.com/album/4xXPSCOmahxADTYOhb3b1l"
       },
@@ -2760,7 +2782,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 193125,
       "name": "Coquettish Definition",
       "url": "https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m"
@@ -3046,7 +3068,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 199363,
       "name": "Dance",
       "url": "https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n"
@@ -3064,7 +3086,7 @@
       ],
       "date_added": "2025-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 118750,
       "name": "Dawn Breaks",
       "url": "https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ"
@@ -3090,6 +3112,24 @@
       "duration_ms": 201500,
       "name": "dawn of diego martin",
       "url": "https://open.spotify.com/track/0yedPe6bSN6TU4lvxApeqb"
+    },
+    {
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184372,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
     },
     {
       "album": {
@@ -6885,6 +6925,24 @@
     },
     {
       "album": {
+        "name": "Knots",
+        "url": "https://open.spotify.com/album/6O81p37TekJY18VOvxtNuR"
+      },
+      "artists": [
+        {
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144338,
+      "name": "Knots",
+      "url": "https://open.spotify.com/track/0n1KIt0I49uwPnKe3rxFQr"
+    },
+    {
+      "album": {
         "name": "Know",
         "url": "https://open.spotify.com/album/2saePS98KD93dEu1pYAM2H"
       },
@@ -7842,7 +7900,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 144157,
       "name": "Main Street",
       "url": "https://open.spotify.com/track/5VRz3nM0qDYzbyJ4gVY4oX"
@@ -8408,6 +8466,32 @@
       "duration_ms": 215034,
       "name": "Migratory Bird",
       "url": "https://open.spotify.com/track/1SJcAnuUDI8nJhMdp6ziiS"
+    },
+    {
+      "album": {
+        "name": "Jaz",
+        "url": "https://open.spotify.com/album/2wK6fdM3Q94um5HjkYT0CY"
+      },
+      "artists": [
+        {
+          "name": "Jackson Box",
+          "url": "https://open.spotify.com/artist/5r2CPcI6syOOzSvXemc0UE"
+        },
+        {
+          "name": "Aru-2",
+          "url": "https://open.spotify.com/artist/0ubjeju4a0jxzPtHTQLWg0"
+        },
+        {
+          "name": "Asei Muraguchi",
+          "url": "https://open.spotify.com/artist/5I9W3IUqT4KpbTHFa0y0Zx"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351428,
+      "name": "Miguri Tunnel",
+      "url": "https://open.spotify.com/track/242T3VdA3956m3Kq0m412P"
     },
     {
       "album": {
@@ -10664,7 +10748,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 268430,
       "name": "Plastic Love",
       "url": "https://open.spotify.com/track/08KwAEzYm3gVyyB27OKvO9"
@@ -12568,7 +12652,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 165895,
       "name": "Soar",
       "url": "https://open.spotify.com/track/3Q1i1S8SsuLcmrV6GAlINi"
@@ -13848,6 +13932,28 @@
       "duration_ms": 134438,
       "name": "tattered trees in the rain",
       "url": "https://open.spotify.com/track/0cdqCuXYoMbrNKoMtsNse6"
+    },
+    {
+      "album": {
+        "name": "Tayutau",
+        "url": "https://open.spotify.com/album/2rDkaipWW2xf6MxZosufpd"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142022,
+      "name": "Tayutau",
+      "url": "https://open.spotify.com/track/1ZiDure4S90WRUJ1CP17p5"
     },
     {
       "album": {
@@ -16076,7 +16182,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 230070,
       "name": "\u7b2c\u4e8c\u5fc3 (Dainishin)",
       "url": "https://open.spotify.com/track/1nnl5SqTlN9PNY9xFcSC26"

@@ -4205,7 +4205,7 @@
     },
     {
       "album": {
-        "name": "Essa Ta Quente (feat. Skrillex)",
+        "name": "Essa Ta Quente",
         "url": "https://open.spotify.com/album/2rkj07G0JsBiy0XrfE19XL"
       },
       "artists": [
@@ -4222,7 +4222,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166270,
-      "name": "Essa Ta Quente (feat. Skrillex)",
+      "name": "Essa Ta Quente",
       "url": "https://open.spotify.com/track/1kLpWLn4PSgKJAQz8X5dl4"
     },
     {
@@ -14400,10 +14400,6 @@
         {
           "name": "Control Alt Delete",
           "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
-        },
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         }
       ],
       "date_added": "2026-09-17",

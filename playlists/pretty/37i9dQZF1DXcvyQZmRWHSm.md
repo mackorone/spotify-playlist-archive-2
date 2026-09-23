@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvyQZmRWHSm.md) - [plain]
 
 > Videos from the most legendary rockstars who inspired generations\. Music videos available only in Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,223 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,330 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvyQZmRWHSm.md) - [plain]
 | 79 | [You Took The Words Right Out of My Mouth \(Hot Summer Night\)](https://open.spotify.com/track/7wawEkN4nhPqSBWleGvdxa) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 5:05 |
 | 80 | [I Can't Explain \- Mono Version](https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 2:05 |
 
-Snapshot ID: `AAAAANP2+8Kk+jT3u3g0VvEX3iiHJQ4X`
+Snapshot ID: `AAAAABvfj3Ail2+HLPg7mhulGmhED6IA`

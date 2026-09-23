@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 
 > Your frequency for today's hottest pop tracks in Mzansi\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,728 likes - 80 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,729 likes - 80 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 31 | [rollerblade](https://open.spotify.com/track/3fL35dqYnnabdEp8Sln0lf) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [rollerblade](https://open.spotify.com/album/6TFeJFQOM62KtRRHe8fxGV) | 1:54 |
 | 32 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 |
 | 33 | [Camera](https://open.spotify.com/track/6vqyk3mbDBv3npTpctYoka) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Play](https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH) | 3:35 |
-| 34 | [Younger You \- From the "Hannah Montana 20th Anniversary Special"](https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger You \(From the "Hannah Montana 20th Anniversary Special"\)](https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6) | 2:47 |
-| 35 | [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 |
+| 34 | [BAD HONEY](https://open.spotify.com/track/2Rv2EIpEmEi5fGVtr5KVgI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG II](https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS) | 2:36 |
+| 35 | [Younger You \- From the "Hannah Montana 20th Anniversary Special"](https://open.spotify.com/track/4kK5moArviedZ9LcKIDu1Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Younger You \(From the "Hannah Montana 20th Anniversary Special"\)](https://open.spotify.com/album/3tlEOoxO3h3mkLyLgftdz6) | 2:47 |
 | 36 | [Everything is romantic featuring caroline polachek](https://open.spotify.com/track/1RGidCmtrqER8GBs8TnG9C) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 3:23 |
 | 37 | [IS IT LOVE](https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT LOVE](https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH) | 3:07 |
 | 38 | [Side Effects](https://open.spotify.com/track/5hkceiJGJl4qcWUtyjXaJm) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [KONNAKOL](https://open.spotify.com/album/1gNQgz2ZDk9XNEBdJcs9zG) | 3:17 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10Mbn4IUmhR.md) - [plain]
 | 66 | [Love Is for Suckers](https://open.spotify.com/track/3t6EystzC1IMkeLD1EuVQ3) | [RAYNE](https://open.spotify.com/artist/3BfKXIXRTtUMCUSWK0f3CN) | [Love Is for Suckers](https://open.spotify.com/album/0B5RT0pvzVrH8TVPY63G66) | 3:01 |
 | 67 | [If U Love Me Now](https://open.spotify.com/track/7ejMPghq8mBbo6QzIAWWmi) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:14 |
 | 68 | [Paracosm](https://open.spotify.com/track/1R9JXmdCyl0R05rbsT3Zw0) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/71kGp3mziaCpFdD8Owvw5P) | 3:23 |
-| 69 | [More Room](https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Some Strings Attached](https://open.spotify.com/album/2mbYTqALVLdLg3FZqaXIrs) | 3:00 |
-| 70 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
+| 69 | [Fort](https://open.spotify.com/track/1vcs1gEv6TYKqlPHx0WwsC) | [Lamb](https://open.spotify.com/artist/6mzQRecVBUMepkVGAhn6io) | [Fort](https://open.spotify.com/album/5NVbylJskV84EOduC6C3W7) | 2:27 |
+| 70 | [More Room](https://open.spotify.com/track/1jHfqFULd1XLxLwOeWbGu0) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv) | [Some Strings Attached](https://open.spotify.com/album/2mbYTqALVLdLg3FZqaXIrs) | 3:00 |
 | 71 | [Be Like You](https://open.spotify.com/track/6FzeypIDYavtPv3gLPU7Vx) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [I Was Never Alone](https://open.spotify.com/album/5B1XzMm6IQwGvHKKkVAchY) | 2:26 |
 | 72 | [What You Saying](https://open.spotify.com/track/7cjoZVmWe2xsGR4wcXiV2v) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [What You Saying](https://open.spotify.com/album/1prQBN9FUobW9g4xDDKSly) | 2:11 |
 | 73 | [Dive In](https://open.spotify.com/track/0bA6QKsb5NaUEPp408fX0S) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 3:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371 likes - 184 songs - 10 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 370 likes - 184 songs - 10 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 81 | [First High](https://open.spotify.com/track/1zDomzzT6h0Sa2BAzMxvma) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Denim & Diamonds](https://open.spotify.com/album/6RqohXVE3YRsRbaS9sm5G2) | 3:07 |
 | 82 | [SET YOURSELF ON FIRE](https://open.spotify.com/track/51seeZMWB9XvLl1jl8p6EP) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/6SW7IIrlj6LoWxDPinGeQp) | 2:51 |
 | 83 | [Leigh](https://open.spotify.com/track/7vqomJv75Sp17yEm3puTlv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:22 |
-| 84 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 |
-| 85 | [Sycamore](https://open.spotify.com/track/1lyknQYQTIwrz3J5F1BXkC) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:45 |
+| 84 | [Sycamore](https://open.spotify.com/track/1lyknQYQTIwrz3J5F1BXkC) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:45 |
+| 85 | [Don’t Wanna Love U](https://open.spotify.com/track/09ofD7zRn8MmokbYlhjMWA) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Don’t Wanna Love U](https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU) | 3:29 |
 | 86 | [Slow Decay](https://open.spotify.com/track/5dQ6k002CdfiBXVtjA93ra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Slow Decay](https://open.spotify.com/album/3WcOJPn6pzdftLyzrmpOCK) | 3:19 |
 | 87 | [Wasted](https://open.spotify.com/track/6QZNdH4HVdKMc6zxwyo6zF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:43 |
 | 88 | [Trepidation](https://open.spotify.com/track/4QOCthgAhRJKn4RbepFKC4) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 4:07 |
 | 89 | [wallflower](https://open.spotify.com/track/4xBk6wacj9UR6uaXIWZnHr) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:20 |
-| 90 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 |
-| 91 | [The Weight of the Woods](https://open.spotify.com/track/5oZcHcUJ5zf9HviBBTbEJk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:42 |
+| 90 | [The Weight of the Woods](https://open.spotify.com/track/5oZcHcUJ5zf9HviBBTbEJk) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:42 |
+| 91 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 |
 | 92 | [Fireflies](https://open.spotify.com/track/1RVams1o1mm127apSnmqnp) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Life By Misadventure](https://open.spotify.com/album/6TQpPdEdP2YWSYvlcu7STJ) | 3:18 |
 | 93 | [Runnin' Low](https://open.spotify.com/track/2LQA6pUCmMeefsuGkasID5) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [9 Lives](https://open.spotify.com/album/5W2ZpWhrvHK0h68xiP7ajj) | 3:28 |
 | 94 | [Dollar and a Bottle](https://open.spotify.com/track/2UtdZrNMyEYZp0N2X89K9Q) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 3:48 |
 | 95 | [Loverboy](https://open.spotify.com/track/1nZauSgbnYdr0VGGHj8bk1) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [VELVET](https://open.spotify.com/album/3x2eQlp6uoy5E5uuI1zcdg) | 3:20 |
 | 96 | [Other Lives](https://open.spotify.com/track/7i4us3Bgm5MIEyBdSa8vGR) | [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Bury Me](https://open.spotify.com/album/5bH0uvRjdLCrxG73wayab9) | 3:12 |
 | 97 | [Nowhere Fast](https://open.spotify.com/track/17QqHs8dXWR6HcELuqC04z) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:31 |
-| 98 | [Good Day](https://open.spotify.com/track/24QDabNf5LeeTQoTMYOACb) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 3:07 |
-| 99 | [Breakin'](https://open.spotify.com/track/2JkbiwiIiPeQyjkQtKGf4X) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Happy To Be Here](https://open.spotify.com/album/4fhcxulBSzmg4aENyGBZNT) | 4:23 |
+| 98 | [Breakin'](https://open.spotify.com/track/2JkbiwiIiPeQyjkQtKGf4X) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Happy To Be Here](https://open.spotify.com/album/4fhcxulBSzmg4aENyGBZNT) | 4:23 |
+| 99 | [Good Day](https://open.spotify.com/track/24QDabNf5LeeTQoTMYOACb) | [Seratones](https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc) | [Love & Algorhythms](https://open.spotify.com/album/5GytXeAxawqjyAtQwJ8XzA) | 3:07 |
 | 100 | [You Don't Belong To Me](https://open.spotify.com/track/4dI7e1C5z6SNnqWI6jdLcO) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Love Me For Another Day](https://open.spotify.com/album/65LmFuLBa1yBX5yfuuOMh2) | 3:32 |
 | 101 | [Sinner](https://open.spotify.com/track/6qlYqUpPEYimStKV3nhcix) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1BE3z8NRxfAV8ASyXoJmbe) | 4:02 |
 | 102 | [Wella](https://open.spotify.com/track/6RQcErRRynAvt37stMDWqD) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Wella](https://open.spotify.com/album/60xPwrb6N69CjjBPkiqQtF) | 2:49 |
@@ -193,4 +193,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0Vxn2uDf89.md) - [plain]
 | 183 | [Own The Night](https://open.spotify.com/track/0BorUElU7vFO51qKnAx8kM) | [Proper Gentlemen](https://open.spotify.com/artist/5eTE3zXt71ehPvKzn0GuJh), [Mr Gabriel](https://open.spotify.com/artist/1rsgErnMZ2QvhZzBpEDTJS) | [Own The Night](https://open.spotify.com/album/5Ph15urX6DYg3XRrw3Zw3X) | 3:34 |
 | 184 | [Going Nowhere](https://open.spotify.com/track/2Jcch257ODLARJyQENv541) | [WAITERS](https://open.spotify.com/artist/3mv2bMoIxhLVw3eRBFoO9h) | [Going Nowhere](https://open.spotify.com/album/4luFG6rwCdyRJvses0MjIx) | 3:20 |
 
-Snapshot ID: `Acc7kgAAAADoGFxV5yF/dNUS/umcM4mf`
+Snapshot ID: `AcdBZAAAAACBTKbcezVgXAYMPb5FN7Vm`

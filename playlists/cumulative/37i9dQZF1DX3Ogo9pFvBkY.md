@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-1,224 songs - 2 day 13 hr 7 min
+1,230 songs - 2 day 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Body & Soul](https://open.spotify.com/track/2reANGLp6a9iZvh1Q6qIS7) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Body & Soul](https://open.spotify.com/album/57SxIpC8RwW3ztJ3Rn4kIb) | 2:55 | 2019-12-07 | 2023-05-03 |
 | [Body \- Ambient](https://open.spotify.com/track/29dK2MxREaft5Yt7tFH3xj) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2) | 1:25 | 2019-05-26\* | 2020-01-03 |
 | [Bondade](https://open.spotify.com/track/2Gw3X5DvHENIOD0ZxOfS5s) | [Adrian Eden](https://open.spotify.com/artist/6cUUY5PB9iNclJ8YeFKKiN) | [Bondade](https://open.spotify.com/album/6e34mCVr04E132Q1drVwTE) | 3:25 | 2024-07-19 | 2026-02-05 |
+| [Borealis](https://open.spotify.com/track/7zZeNrobqC1nc566tRaN2V) | [Aurora Aeterna](https://open.spotify.com/artist/4PRv41OfpEkorKofIv7DV8) | [Borealis](https://open.spotify.com/album/1jOInPKUSNo9AkNEMcLUxl) | 2:33 | 2026-09-22 |  |
 | [Boreas](https://open.spotify.com/track/7bBS7gjSC4NwZiBwcbYoR7) | [Tide Machine](https://open.spotify.com/artist/1dwB5V858hnmHhR9tCIor2) | [Boreas](https://open.spotify.com/album/3XlfG83Ffv1YGZpWwFbHZ8) | 2:54 | 2020-10-27 | 2023-05-03 |
 | [Botanical Garden Of Droids](https://open.spotify.com/track/5J8HfHNDShdr13uSRQiZw6) | [Nexterday Visitors](https://open.spotify.com/artist/4HpTEzHjNdwpdffaxTZSsr) | [Botanical Garden Of Droids](https://open.spotify.com/album/57yU2MMb1D8lN0q9DoFTbm) | 3:34 | 2020-08-08 | 2021-09-14 |
 | [Bouncing Clouds](https://open.spotify.com/track/3mZprzE78ZgB9fPSNNb6GI) | [Sava Sol](https://open.spotify.com/artist/0aikDGpgY0MmQ77ZHaSj3j) | [Bouncing Clouds](https://open.spotify.com/album/2sb3bHuGWQgyZne2DOyBqr) | 4:50 | 2019-05-26\* | 2021-09-14 |
@@ -398,6 +399,7 @@
 | [Evolving Dreams](https://open.spotify.com/track/6uFpwigsKJ1gDTaDjeabIN) | [Ty Davies](https://open.spotify.com/artist/49dSIJwjDHzmOfx4io0R49) | [Evolving Dreams](https://open.spotify.com/album/0LaiKUH0fPko6Rg84ZMAbt) | 3:07 | 2022-02-15 | 2025-05-14 |
 | [Exhale](https://open.spotify.com/track/77V2oQd9cpcMBx5UYcZ8wl) | [Placidous](https://open.spotify.com/artist/2Q0EISrSeMlAHRybVtpcF1) | [Exhale](https://open.spotify.com/album/3imNcMpA04njJ84ghJcFHN) | 2:58 | 2024-11-19 |  |
 | [Exodus Pt\. 1](https://open.spotify.com/track/5lYclvR4p6cEl3r3V0gG5M) | [Dreyma](https://open.spotify.com/artist/6fhkHJ6kJGHDuypn800e77) | [Exodus](https://open.spotify.com/album/5VbZWqqOT2LGyiMLA6BQbT) | 3:07 | 2019-05-26\* | 2022-09-15 |
+| [Exosphere](https://open.spotify.com/track/7386wxGEUgqJ8kwfgQXOST) | [Amel Scott](https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd) | [Exosphere](https://open.spotify.com/album/7iSxEu3v9crsFWROr9JPz4) | 2:10 | 2026-09-22 |  |
 | [Expectations](https://open.spotify.com/track/5jiRq2Z5eEZUvCn32XDExZ) | [different spaces](https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K) | [Expectations](https://open.spotify.com/album/2WMwaBhfaypFZcWOgSsVGs) | 2:47 | 2024-02-15 | 2025-03-01 |
 | [Exploratory](https://open.spotify.com/track/4FHSM0CZKWlcUwSHSDG88H) | [Polyphonic Grain](https://open.spotify.com/artist/78E2eTF9jgp4w9XyfL44RB) | [Exploratory](https://open.spotify.com/album/5tOkB96eCPsdgDqkIM54zX) | 3:22 | 2025-03-11 | 2026-05-09 |
 | [Expression](https://open.spotify.com/track/5zdCyjtjf8iQmgm0wTqDa8) | [Gordo Napalma](https://open.spotify.com/artist/29rhAtl6ikj08cVQFkwcJ9) | [Emerge](https://open.spotify.com/album/2tMloKTRnzbODBU5sPQyG6) | 3:12 | 2023-05-02 | 2025-10-01 |
@@ -537,7 +539,8 @@
 | [I feel it I know it](https://open.spotify.com/track/7q61dvdXaJ2sWipMrh4wiE) | [Glow Crow](https://open.spotify.com/artist/45xdRyFmyb8ssAPlO9IEkI) | [I feel it I know it](https://open.spotify.com/album/7bWxPucoQiYYbNiVUvogNk) | 3:22 | 2023-05-05 |  |
 | [I Know You're Here](https://open.spotify.com/track/15IzXs0Oln8qBHIJUYLSzM) | [Everlight](https://open.spotify.com/artist/6RavlD6YjBgKC9iSh3uHgg) | [Presence](https://open.spotify.com/album/6IgFlUlufatumAUT9b9w3l) | 3:25 | 2019-05-26\* | 2020-07-11 |
 | [I Will Carry You](https://open.spotify.com/track/03atDG2j0uoUFIanUel5Ae) | [Ruth Mountain](https://open.spotify.com/artist/7erlZkwZDiF5P7f1gXPxxD) | [I Will Carry You](https://open.spotify.com/album/4KTtx77JVSG8TAmLv47Mte) | 3:15 | 2021-02-18 | 2024-08-22 |
-| [Idée](https://open.spotify.com/track/0VsWtArpieoC1eRy4erTxJ) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Idée Fixe](https://open.spotify.com/album/42QPe3m7ZgNlTcS3ORyqJF) | 2:32 | 2023-11-10 |  |
+| [Idée](https://open.spotify.com/track/0VsWtArpieoC1eRy4erTxJ) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Idée Fixe](https://open.spotify.com/album/42QPe3m7ZgNlTcS3ORyqJF) | 2:32 | 2023-11-10 | 2026-09-23 |
+| [Illuminating](https://open.spotify.com/track/14bQ93d6Ccx2kSPTalCKsJ) | [Planetone](https://open.spotify.com/artist/4epLhV6jzBnism1loSlMcD) | [Illuminating](https://open.spotify.com/album/4eHTRRLLjYl2WMIbWxaqjb) | 2:38 | 2026-09-22 |  |
 | [Illusion Room](https://open.spotify.com/track/0zE8nIn5zDOkbQK6hD1dsx) | [Orion Dreamwalker](https://open.spotify.com/artist/3tesBuyrrVqSoGUa5EoxzS) | [Illusion Room](https://open.spotify.com/album/2CklFyVUUIoh55hWJgJbIO) | 2:05 | 2026-07-02 |  |
 | [Illusionist](https://open.spotify.com/track/6wnhGsrGb5UlbPLebsCb25) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 1](https://open.spotify.com/album/7Gig1E35PHUzCtBrjJJ6xy) | 2:55 | 2022-06-16 | 2024-12-20 |
 | [imagination](https://open.spotify.com/track/4aruMMVCx74sNI9zgHG6uO) | [Otto Wiles](https://open.spotify.com/artist/4IfqNEioStUXzicPPH5Qra) | [imagination](https://open.spotify.com/album/1RnVA30NCF6pO2uLFsexgm) | 3:08 | 2019-12-07 | 2020-05-18 |
@@ -571,6 +574,7 @@
 | [Incisif](https://open.spotify.com/track/6wdW5qgYw9CUXD9on4ylLn) | [Norah Wallentin](https://open.spotify.com/artist/1NGzUi7PsLrERtIIPY3Cm3) | [Incisif](https://open.spotify.com/album/5VE3DMJYN3uD5SG8Jod2Z6) | 2:29 | 2021-04-28 | 2024-08-03 |
 | [Individuation](https://open.spotify.com/track/0uhnSuoPlikZpiW9Hj7V0Z) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [False Readings On](https://open.spotify.com/album/0a2yGkTrEviUUZNBolAUXL) | 3:08 | 2019-05-26\* | 2020-05-18 |
 | [Infinite Haze](https://open.spotify.com/track/5GY35Mq0IYHzPvf4F6VseX) | [Ivory State](https://open.spotify.com/artist/6jn2iHXF9eu6rE0zBMy0qi) | [Infinite Haze](https://open.spotify.com/album/4GuoEpsr2WuwKA8xmwtgu1) | 2:32 | 2026-07-31 |  |
+| [Infinite Mists](https://open.spotify.com/track/3eAovH3IH1CfmJNwdwPpQt) | [Elio Moreno](https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1) | [Infinite Mists](https://open.spotify.com/album/4zVabpVOMoY5iis82oYD7e) | 2:39 | 2026-09-22 |  |
 | [Infinities](https://open.spotify.com/track/5985uWNOMmxrzAvvWaxT0t) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Infinities](https://open.spotify.com/album/5Sonpi8gWOXu02oZdxSees) | 3:23 | 2019-12-07 | 2020-01-03 |
 | [Inner Peace](https://open.spotify.com/track/4AJwv7y2caxWP1erCy5qHt) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Inner Peace](https://open.spotify.com/album/7qR5kdOsI6KU40fUArE2rk) | 2:24 | 2026-02-04 |  |
 | [Inner Self](https://open.spotify.com/track/5dCxYQPC6pn7FokFTaLL3R) | [Magnolia Dreams](https://open.spotify.com/artist/2uLfUntzbfHRmPO51ofZtt) | [Inner Self](https://open.spotify.com/album/5iqhh1IGzXPTxxtVGjTzA2) | 2:38 | 2024-08-21 | 2026-03-07 |
@@ -844,7 +848,7 @@
 | [Prism](https://open.spotify.com/track/7kS8x1KOCzeMKqAbZhtY3q) | [Hirenth](https://open.spotify.com/artist/6HmKHf9wtZ2IR9LT2U2dW4) | [Prism](https://open.spotify.com/album/7sBo3qjn7xREQJqG8ncfP5) | 2:43 | 2025-09-04 | 2026-05-09 |
 | [Prism](https://open.spotify.com/track/2xzB64zYaLphSDp6eNSUOl) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Prism](https://open.spotify.com/album/5xUGdopo67DQi2m7CBE5A9) | 3:11 | 2023-05-02 | 2026-05-09 |
 | [Prism](https://open.spotify.com/track/3NUsEBwZcHuqi5QVJLJL4f) | [Milleah](https://open.spotify.com/artist/5S8hNWbGuoD4rTAnNxuxze) | [Prism](https://open.spotify.com/album/2O6TdmXufmmB9nLJNAstMF) | 3:07 | 2025-01-29 |  |
-| [Probability](https://open.spotify.com/track/2pIXx5vgOv3hXfaelZCi2X) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Probability](https://open.spotify.com/album/4YOM1HkiAalYRnxGfV1PiR) | 2:36 | 2025-02-28 |  |
+| [Probability](https://open.spotify.com/track/2pIXx5vgOv3hXfaelZCi2X) | [Embertone](https://open.spotify.com/artist/64wQLdtq3qw5sCdJlK4CwY) | [Probability](https://open.spotify.com/album/4YOM1HkiAalYRnxGfV1PiR) | 2:36 | 2025-02-28 | 2026-09-23 |
 | [Profetia](https://open.spotify.com/track/3DjhYKmRHk0fq0fpb103nY) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Profetia](https://open.spotify.com/album/6iUHb3XJ0K7hxJ4grACdPV) | 2:55 | 2022-06-16 | 2024-12-20 |
 | [Progress](https://open.spotify.com/track/6oJIMUBDopuFljMNBFrq9Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:18 | 2019-10-26 | 2023-05-20 |
 | [Pulse](https://open.spotify.com/track/2IXGKjGcXf8PuyolwYB9EU) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Pulse](https://open.spotify.com/album/7IoaWf8N4yW0OZjXuhs8JD) | 2:34 | 2025-09-17 |  |
@@ -1029,6 +1033,7 @@
 | [Still Dreaming](https://open.spotify.com/track/4q6hucsNlqSYCHPMSk7713) | [Aurora Aeterna](https://open.spotify.com/artist/4PRv41OfpEkorKofIv7DV8) | [Still Dreaming](https://open.spotify.com/album/7fWiNGkYsWPaFhvxFXvWrI) | 2:18 | 2026-01-14 |  |
 | [Still Life](https://open.spotify.com/track/7aK1caHaXe63BtAoIFvN2h) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Still Life](https://open.spotify.com/album/5GGakahoJxKiDhEcaJhr3p) | 3:18 | 2022-02-15 | 2024-12-20 |
 | [Stillheten](https://open.spotify.com/track/45NfL9LFXSj9WpuHkfixOR) | [Lo Enemark](https://open.spotify.com/artist/1jjUoGgvY314VA1joJgCH7) | [Stillheten](https://open.spotify.com/album/2UiL0eVQ2zO02S9vyxoCEZ) | 2:34 | 2021-09-14 | 2024-09-12 |
+| [Stillness](https://open.spotify.com/track/4IvsY8nQ1F0hz8G285lxDc) | [Drift Within](https://open.spotify.com/artist/3zXg9BklZh2lVmfrFkvLTY) | [Stillness](https://open.spotify.com/album/4Ni1zyzLhLn7PB0yK3javy) | 2:24 | 2026-09-22 |  |
 | [Stillness](https://open.spotify.com/track/618Kkip5m9beYwFv0HQObw) | [Paia Mooni](https://open.spotify.com/artist/1eSR2WemgOxjpRlUlzZSwn) | [Stillness](https://open.spotify.com/album/7FeN3keUI3iwi8QprN1fpw) | 2:40 | 2025-09-10 | 2026-02-12 |
 | [Stillness Above](https://open.spotify.com/track/2PsCjzE5BD5mK0EPcPUH8F) | [Elysio Stone](https://open.spotify.com/artist/3xmhBkdziYwrJhrlhyjEbp) | [Stillness Above](https://open.spotify.com/album/705Kqq7Zt7yr5Ldfwsx2YL) | 2:42 | 2023-05-02 | 2025-09-19 |
 | [Stillness of Mind](https://open.spotify.com/track/5NL5Ez564SBRCpaaxB89CP) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:08 | 2021-10-21 | 2025-04-30 |
@@ -1210,6 +1215,7 @@
 | [Whispered Dreams](https://open.spotify.com/track/0wz1CgXFr0aSu1UzqEGG4C) | [El Ambiente](https://open.spotify.com/artist/65DwviFYxUr0wAh3Du1y2J) | [Whispered Dreams](https://open.spotify.com/album/4gGMNIuAR2JqtKBPIfiDYA) | 3:13 | 2022-09-13 | 2023-07-29 |
 | [White Clouds](https://open.spotify.com/track/0oc8j70828V2wJgp7PIWEk) | [Night Sounds](https://open.spotify.com/artist/23t9fvBqS4kZ6aBANPfsb5) | [White Clouds](https://open.spotify.com/album/54uMaCxZWeMGRzGaOQSEUe) | 2:59 | 2020-01-09 | 2022-12-10 |
 | [White Dove](https://open.spotify.com/track/0TXwtGVDlyxefhSQb8QCA3) | [TN2020](https://open.spotify.com/artist/5OhsS6nG8LaW0V6QtxIFr0) | [White Dove](https://open.spotify.com/album/3VxlCszbdAMtaEhlYRxFTY) | 3:30 | 2020-07-11 | 2022-10-08 |
+| [White Meadow](https://open.spotify.com/track/3FDa6WFhyYJySGrqSKwdIQ) | [Plainrest](https://open.spotify.com/artist/5MRgNYWF4bZ0bV8kEI9QNf) | [White Meadow](https://open.spotify.com/album/7Dij1bwp8yLLEidP6X9czN) | 2:47 | 2026-09-22 |  |
 | [White Noise](https://open.spotify.com/track/4bRFA518eVXt6aXvf4YLVU) | [M1ND](https://open.spotify.com/artist/3opgcftoLQXdBYFrwP8xoR) | [Highs and Lows](https://open.spotify.com/album/44b7dcLecGIDWRNzfMUQ3x) | 2:51 | 2020-01-03 | 2021-09-14 |
 | [White Waves](https://open.spotify.com/track/2IqOZtwGjYV9sko1NCzbKI) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [White Waves](https://open.spotify.com/album/1Pe5dUn4lNyyrnqcPPbzOk) | 3:51 | 2019-05-26\* | 2020-05-18 |
 | [Wide Asleep](https://open.spotify.com/track/5QYou6mzGiQ4uG9Mzpq0pX) | [Midnight Mind](https://open.spotify.com/artist/1rDV5AYJuH7naNI56lUWIf) | [Zenith](https://open.spotify.com/album/63Jrpo23ArGvLOU0CnJykQ) | 2:45 | 2023-03-03 | 2025-06-05 |

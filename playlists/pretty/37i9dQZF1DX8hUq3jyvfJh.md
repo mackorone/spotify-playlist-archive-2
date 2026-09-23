@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Ouça Mannda Lym e mais mulheres incríveis no volume máximo! Ouça Maria Bethânia e mais mulheres incríveis no volume máximo! Co\-curado por <a href="spotify:artist:78WvOgIBo2emAnJLbv7nXO">Mannda Lym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,344 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,339 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 45 | [Amor e Sacanagem](https://open.spotify.com/track/4vMXqanPNss6OW1gn5plyz) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd), [Raquel Moreira](https://open.spotify.com/artist/0jOjMC9tgSOe9f0XGocZnd) | [Amor e Sacanagem](https://open.spotify.com/album/1iTyN8AAXQrc7Wgv2OCZS9) | 2:49 |
 | 46 | [Hoje Não](https://open.spotify.com/track/7yCxFpi9yX3hCOfQIc5c52) | [Késia](https://open.spotify.com/artist/1gZaDWPWgzRhSQA0Aui2m2) | [Relíquia](https://open.spotify.com/album/76tgZEWG23gdRLRtwBYQSv) | 2:15 |
 | 47 | [E Depois?](https://open.spotify.com/track/786fu99IQ8V9kKZBVcFCyy) | [BEA](https://open.spotify.com/artist/1ibVD2wOxgrsrbsOQbJCCy) | [E Depois?](https://open.spotify.com/album/7nela367wRJK6VB42YNA6T) | 3:04 |
-| 48 | [Será Que É Amor / Castelo de um Quarto Só / Amor Sem Fim \- Ao Vivo](https://open.spotify.com/track/5uzquJOqYCBwr3hUX1Mn99) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Andressa Hayalla In Floripa, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1urM3PJZ7MN9qgnnlk0LOh) | 4:56 |
-| 49 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
+| 48 | [Querendo Resolver](https://open.spotify.com/track/7gMmsWPknTvzilo20iRAiY) | [Millena Voz](https://open.spotify.com/artist/6u4U1g0s07kjZl24US81uP) | [Querendo Resolver](https://open.spotify.com/album/4Wu3Xn1yGTGZlXbhEnAiuK) | 3:20 |
+| 49 | [Será Que É Amor / Castelo de um Quarto Só / Amor Sem Fim \- Ao Vivo](https://open.spotify.com/track/5uzquJOqYCBwr3hUX1Mn99) | [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml) | [Andressa Hayalla In Floripa, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1urM3PJZ7MN9qgnnlk0LOh) | 4:56 |
 | 50 | [Bora Viver \- Ao Vivo](https://open.spotify.com/track/6yxIybVVgGKeln8WMVT2SV) | [Elas Que Toquem](https://open.spotify.com/artist/4AH1pikTE6B3VKNEbeXuNd) | [Bora Viver \(Ao Vivo\)](https://open.spotify.com/album/6gxUMJfrcRUcEUJrKlP4Do) | 2:49 |
 
 Snapshot ID: `AAAAAL9ixc5ZeEQ4SilXU5hQqwPYIXMZ`

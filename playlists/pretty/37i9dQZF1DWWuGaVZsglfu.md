@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 
 > The best tracks from the world of music\. Cover: SIENNA SPIRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 462,756 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 462,731 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuGaVZsglfu.md) - [plain]
 | 12 | [Percuma](https://open.spotify.com/track/5DvWURTD6NDpr1xT9PA2jk) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Percuma](https://open.spotify.com/album/5DqqBHhwbOrT754X7zIc5H) | 4:26 |
 | 13 | [Pure](https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 3:39 |
 | 14 | [Gila Bayang](https://open.spotify.com/track/2IuAckXwlp3GUOD812FDSC) | [Ammar Haikal](https://open.spotify.com/artist/6vBShxc5LR2M7DS6YYk9Yh) | [Gila Bayang](https://open.spotify.com/album/7kK3k9vMCTC3XIvVqitUD2) | 3:18 |
-| 15 | [Jangan Paksa Rindu \- Beda](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu \(Beda\)](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 |
+| 15 | [Jangan Paksa Rindu](https://open.spotify.com/track/5PW7zDYYMCrR2BsfiieCOk) | [Ifan Seventeen](https://open.spotify.com/artist/2vbWy0ntJGJ2H1erLJFMZZ) | [Jangan Paksa Rindu](https://open.spotify.com/album/1JF51ZL4beqyoP0NrmzLqn) | 4:05 |
 | 16 | [Tak Adil](https://open.spotify.com/track/71RXKBoFWiQu4v2o1geh1V) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Tak Adil](https://open.spotify.com/album/5KE1w2SeSailnWywfZg25K) | 3:08 |
 | 17 | [Kita Lewati Berdua](https://open.spotify.com/track/5Enpui55il1ZW0HgwRTSds) | [Overnight](https://open.spotify.com/artist/0ZkNSRvBK767bNOCdXKeYK) | [Kita Lewati Berdua](https://open.spotify.com/album/5MUKAQZAisxQQqMmfTx4M4) | 3:59 |
 | 18 | [SO ASU](https://open.spotify.com/track/56TRhAB4SqpRn5NdqHSAFy) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [SO ASU](https://open.spotify.com/album/00r0dUE6PBHPNVsBsddH7t) | 2:36 |

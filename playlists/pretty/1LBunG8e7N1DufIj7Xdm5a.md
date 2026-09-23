@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,855 songs - 10 day 22 hr 37 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,863 songs - 10 day 23 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4863,5 +4863,13 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4853 | [I Don't Wanna](https://open.spotify.com/track/68HJ0xRRiP5lmfvpP83GF4) | [The Spent Priests](https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV) | [I Don't Wanna](https://open.spotify.com/album/4K2AA3lxoriLp75m4o9d5I) | 2:41 |
 | 4854 | [Screen](https://open.spotify.com/track/4EhKad8chQTN4Zv4qCtezw) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Screen](https://open.spotify.com/album/1SkEaZVIL9la1xOctdrvsH) | 4:54 |
 | 4855 | [Diva](https://open.spotify.com/track/3hIZPGjs9TryQuYdKhWEQo) | [Dubba](https://open.spotify.com/artist/1uGBqCecbXldhYptbL4HC5) | [Diva](https://open.spotify.com/album/5gMLNzsHMNdNMkPqoMGhz1) | 2:57 |
+| 4856 | [Black Heart](https://open.spotify.com/track/4mrtT8IZYQgq3VNZb1UOf8) | [WIARANETY](https://open.spotify.com/artist/2kwehltxPs2mt5vFreVDxL) | [Burn the Old Maps](https://open.spotify.com/album/35lLFz2j0l58DX6CfcuTth) | 2:15 |
+| 4857 | [The World We Know](https://open.spotify.com/track/70j6vk1FuwPWPfFx3DEAXm) | [XIX](https://open.spotify.com/artist/0ZUpmbNh1NeLibf0DGZxMX), [Mirabella Carnegie](https://open.spotify.com/artist/1qWSs0NhWS7hxbMPhhXOWk) | [The World We Know](https://open.spotify.com/album/3TgZCkr7J06fz5guqbK0qL) | 3:46 |
+| 4858 | [Breathing](https://open.spotify.com/track/6N57S50JyGCwhbDxoYf4BS) | [Ghosther](https://open.spotify.com/artist/5BgILNlqsXzjC59uCR0sKK) | [Through Fire](https://open.spotify.com/album/3MeADmLuVVANZ7ymuqag1r) | 4:35 |
+| 4859 | [Silhouette](https://open.spotify.com/track/3BUjbcHYaI21Jbq9g55hLx) | [EverFelt](https://open.spotify.com/artist/4IWBtQhBmELfFlDJx6XSoX) | [Silhouette](https://open.spotify.com/album/7LgjxFEXYzQnQKRiPO2hTD) | 7:23 |
+| 4860 | [Bummer](https://open.spotify.com/track/1GxYnDuvyqYgCcEpA04Eaj) | [the dt's](https://open.spotify.com/artist/4nZVHrZrnqw6nNruvY3G0t) | [Bummer](https://open.spotify.com/album/446bKk4pXnkNFOgpXIQmcI) | 4:29 |
+| 4861 | [Forgotten Love](https://open.spotify.com/track/24fLyoEbukMmRjMuUiJXK9) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [The Sound of Static](https://open.spotify.com/album/1AhJR1phukAEoqH4PwDwKR) | 3:05 |
+| 4862 | [O ser é](https://open.spotify.com/track/5gGpDTAYoPRU0KvB7UUIAJ) | [Hugo Zenaro](https://open.spotify.com/artist/08wUYKhjmWs3t0YfxW9tKW) | [O ser é](https://open.spotify.com/album/1Wcoue14Z9iAZG673VlQEn) | 2:51 |
+| 4863 | [Black tie and crazy nights](https://open.spotify.com/track/2l3bJWPo2JzRifBk4MOJyU) | [One North One](https://open.spotify.com/artist/0Yj7qWFMY6mYnITGMxCaaa), [Ben Lafleur](https://open.spotify.com/artist/0o62ddvLBHfZ2WFLzWA7a3) | [Black tie and crazy nights](https://open.spotify.com/album/4R6Ds80WVh7f3VE5UW5n6O) | 4:39 |
 
-Snapshot ID: `AAAKG1wK2SDZ5vnqLG0Q8vD/HJ09y3lP`
+Snapshot ID: `AAAKIw0GNb1EgyGWOIbh0woA+J1chEyw`

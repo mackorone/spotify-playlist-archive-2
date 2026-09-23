@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! September ambassador: <a href="spotify:artist:60bPC311AlvVdIzqQZyeHo">jet van der steen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,459 likes - 56 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,460 likes - 56 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 20 | [Hoe Het Was \- Soundtrack Sugar](https://open.spotify.com/track/2bbHVpkJpKaOhWZC3Gc6gl) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Hoe Het Was \(Soundtrack Sugar\)](https://open.spotify.com/album/2TstwRNGkFEpozKUEmxscU) | 3:01 |
 | 21 | [The Edge](https://open.spotify.com/track/0z57lL3TxrWUL2twvKiSgI) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [The Edge](https://open.spotify.com/album/2sStAGAPrMx3RROLDPU8Vz) | 2:33 |
 | 22 | [Morning Dew](https://open.spotify.com/track/3oNwkp57XpiKpATcvt1HH4) | [Jessy Yasmeen](https://open.spotify.com/artist/2xp9ArvFcCoeXjTG2sWVNJ) | [Morning Dew](https://open.spotify.com/album/49Hr4Ak5Xw6mJD3TEuhF81) | 3:03 |
-| 23 | [De Liefde Die blijft](https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh) | [José Sep](https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv) | [De Liefde Die blijft](https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8) | 2:52 |
-| 24 | [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 |
+| 23 | [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 |
+| 24 | [De Liefde Die blijft](https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh) | [José Sep](https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv) | [De Liefde Die blijft](https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8) | 2:52 |
 | 25 | [Stoute schoenen](https://open.spotify.com/track/1M4LtvNTcns8K9tK4RjYWs) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Stoute schoenen](https://open.spotify.com/album/22GyytvsV4azUTmKLMi3bm) | 2:56 |
 | 26 | [1 Keer Jong](https://open.spotify.com/track/3zoJ0fxDe4sBaoscj2gTtO) | [Ceder](https://open.spotify.com/artist/4m9BUPqIW7bFZqYVh9rcDd) | [1 Keer Jong](https://open.spotify.com/album/5oEXATrAKnC3GIibVi6Bh9) | 2:20 |
 | 27 | [Prioriteiten](https://open.spotify.com/track/01hPYoieXsm1xb1s1038JK) | [Line De Dauw](https://open.spotify.com/artist/5tzFHUjiUr3LkxuWK7ibBX) | [Prioriteiten](https://open.spotify.com/album/4x7Q7iigaDoNT2MmW7KBZj) | 2:59 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 34 | [Funeral](https://open.spotify.com/track/2grxVwozmUHhz7hzalvMoZ) | [Rianne](https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb) | [Funeral](https://open.spotify.com/album/3xyI7YPZ0fLwdysP2J2byn) | 3:17 |
 | 35 | [Mag ik vanavond bij je blijven?](https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l) | [Mag ik vanavond bij je blijven?](https://open.spotify.com/album/1GXM6VuZw7S37aZz3ZLQ9P) | 3:15 |
 | 36 | [It's Gotta Be Me](https://open.spotify.com/track/0Wd8KUSoSCJ7P0qaJ8Ze6H) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [It's Gotta Be Me](https://open.spotify.com/album/2HHEKBteGRBSv5VZXvKZma) | 3:45 |
-| 37 | [With You](https://open.spotify.com/track/4TTJ0NC67FNVDIBcUQchkN) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Austin Marc](https://open.spotify.com/artist/38pZZmocTPfCj0Uf2pCWQZ) | [With You](https://open.spotify.com/album/4lLseIQahLfofOdwjXmJTI) | 2:39 |
-| 38 | [Wandering Eye](https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Wandering Eye](https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w) | 2:31 |
+| 37 | [Wandering Eye](https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Wandering Eye](https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w) | 2:31 |
+| 38 | [With You](https://open.spotify.com/track/4TTJ0NC67FNVDIBcUQchkN) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Austin Marc](https://open.spotify.com/artist/38pZZmocTPfCj0Uf2pCWQZ) | [With You](https://open.spotify.com/album/4lLseIQahLfofOdwjXmJTI) | 2:39 |
 | 39 | [Trapped](https://open.spotify.com/track/3HEoMNpaketrF3QswuHptG) | [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC) | [Trapped](https://open.spotify.com/album/6mZvZOnQVz7AKPaTUS3UTK) | 3:11 |
 | 40 | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/track/3ly2ySmmZPnHQrLrt5HTe9) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/album/1LDTEdjLM3XzyZN6a8BpbZ) | 2:25 |
 | 41 | [Waking up slow](https://open.spotify.com/track/4PFWmQYECVuFaAHEIrSUBn) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW) | [Here, I am alone with You](https://open.spotify.com/album/1GGvpQLxsIur6y55SzLsiY) | 2:37 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 47 | [Poco a Poco](https://open.spotify.com/track/4FOPqnLfIp4VkHWLNGEM4U) | [Alina Pozi](https://open.spotify.com/artist/1qWUNJyigZXNCBfhrSVazY) | [Verano de Caracol](https://open.spotify.com/album/26SBFarv1SVOSf2w9dOBuG) | 3:07 |
 | 48 | [Karma](https://open.spotify.com/track/49VOOCH6rdgklu3x3qhPvJ) | [Chanou](https://open.spotify.com/artist/1wLOlcmOMs7q9HzLQkVlXT) | [Karma](https://open.spotify.com/album/22kXS0NHDMI7kyM0pREPkT) | 2:21 |
 | 49 | [o n d e r](https://open.spotify.com/track/2uBlspvX0wPeyKjK8271jN) | [Demi Lou](https://open.spotify.com/artist/3y78r08o9kmeQZ1Mu2WtiJ) | [o n d e r](https://open.spotify.com/album/0gYYjT18MV5bDXlLQnpbrB) | 2:09 |
-| 50 | [Sober](https://open.spotify.com/track/76Q3XvatRSrDNcTzoKbHrM) | [Sam Nera](https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh) | [Sober](https://open.spotify.com/album/4KhHOfEWVx6r7FOu0cQfxl) | 3:01 |
-| 51 | [Lover](https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Lover](https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd) | 2:44 |
+| 50 | [Lover](https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Lover](https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd) | 2:44 |
+| 51 | [Sober](https://open.spotify.com/track/76Q3XvatRSrDNcTzoKbHrM) | [Sam Nera](https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh) | [Sober](https://open.spotify.com/album/4KhHOfEWVx6r7FOu0cQfxl) | 3:01 |
 | 52 | [Emotionally Unavailable](https://open.spotify.com/track/2H4law33sBd1HQBNaGkccB) | [LÖNA](https://open.spotify.com/artist/2mqIDiIehLqZgGyv7JwQA9) | [Emotionally Unavailable](https://open.spotify.com/album/3Yv6jgUjCRCXZU6RPalhw4) | 2:20 |
 | 53 | [KEEP UP](https://open.spotify.com/track/0pQvbfLJIbbkCXMTCLikxN) | [Mahina](https://open.spotify.com/artist/58WJ3aTp1T7yJ8rxAWmeJQ) | [KEEP UP](https://open.spotify.com/album/7aWPK2KwFcZPZq1l97CphN) | 3:17 |
 | 54 | [Clock That](https://open.spotify.com/track/3Ddo6adYSW9uPTW56whicS) | [Goldy](https://open.spotify.com/artist/7v822kZ5QbethHUnJAFkSA) | [Clock That](https://open.spotify.com/album/2gzyNSmcJSTDTOytnj8bns) | 2:15 |

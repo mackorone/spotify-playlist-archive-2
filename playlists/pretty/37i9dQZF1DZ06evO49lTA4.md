@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 
 > This is Luke Combs\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 951,381 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,504 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49lTA4.md) - [plain]
 | 49 | [Two Dozen Roses \(feat\. Luke Combs\)](https://open.spotify.com/track/5GQgvVT7tJGZNzj13pz36l) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Two Dozen Roses \(feat\. Luke Combs\)](https://open.spotify.com/album/3Drss6cMVLm1BC2787GlLY) | 3:50 |
 | 50 | [Doin' This](https://open.spotify.com/track/6TpyujRefwsflWFXbmjVpj) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Growin' Up](https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte) | 4:14 |
 
-Snapshot ID: `aq8iAAAAAABRTGBj4PsfKy0Kivhbv/c/`
+Snapshot ID: `arBzgAAAAADXRlpUKeI2soJGXUCEDWsX`

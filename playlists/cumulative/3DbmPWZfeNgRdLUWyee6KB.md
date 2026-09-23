@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,518 songs - 3 day 16 hr 27 min
+1,523 songs - 3 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,6 +250,7 @@
 | [Come lei](https://open.spotify.com/track/7pWSs58SctIWBRe6bWspQX) | [Manu](https://open.spotify.com/artist/5AK9t3BFB3I1Qp2rY2RVZj) | [Come lei](https://open.spotify.com/album/2I3Ck3pqjouTkDMlHSQEtN) | 3:26 | 2026-05-21 | 2026-07-03 |
 | [Come una nuvola](https://open.spotify.com/track/7prSH1ypxvmDQMJwJCySMQ) | [Claudio Trezza](https://open.spotify.com/artist/3uDQbHK8PuikLtK9SAahqb) | [Come una nuvola](https://open.spotify.com/album/1zx1fgmOuOUg5XYjcha4Na) | 3:43 | 2026-08-12 | 2026-09-17 |
 | [Comet](https://open.spotify.com/track/6fnAreKpR7wLGCIriWYqKy) | [Jen Maria](https://open.spotify.com/artist/6LXXN0kA6nSD6stIwAoznN) | [Comet](https://open.spotify.com/album/5yyHzetOVS0qhwnInA5eWx) | 3:43 | 2026-01-03 | 2026-02-03 |
+| [Comete](https://open.spotify.com/track/1Q5ZUE9MhOFMizGRCPZa0W) | [Marla](https://open.spotify.com/artist/3OAwgEaLA6xFkdajJE55OU) | [Comete](https://open.spotify.com/album/7dgvwC29hQR4HV0uVA6Fi3) | 2:53 | 2026-09-22 |  |
 | [Coming on Too Strong](https://open.spotify.com/track/5CIfISXBoPboo4otAbYT2A) | [Cael Dadian](https://open.spotify.com/artist/46jXUfvQSM7aDYDv7YadFU), [Grace Marie Glenn](https://open.spotify.com/artist/4MX6ZaxWVv7ucry2Ln7qSS) | [Coming on Too Strong](https://open.spotify.com/album/7BOClUiiGklgrRkN4aECsV) | 2:49 | 2026-06-11 | 2026-07-19 |
 | [Como un haz de luz](https://open.spotify.com/track/04XWohJeHUzAyQqLF9yK4x) | [Shoni Shed](https://open.spotify.com/artist/0DYNizLSPnjfU0cK1W9CLD) | [Silencio Vivo](https://open.spotify.com/album/3cn6VKPGgmkJe6zKprMEpj) | 3:48 | 2025-12-17 | 2026-01-15 |
 | [Confession to Make](https://open.spotify.com/track/4BWbeI8yxhm6syj4P3K9yl) | [DJ Kosho](https://open.spotify.com/artist/4v0mYxAmKlG7pDYuiUfm87) | [Confession to Make](https://open.spotify.com/album/45O096QdrsBc5oRpQ7kVi2) | 3:53 | 2026-04-07 | 2026-05-03 |
@@ -555,6 +556,7 @@
 | [I Feel Alone](https://open.spotify.com/track/6sNzk4tIoaJc6NtcKwLC5d) | [Jared Burris](https://open.spotify.com/artist/1E5h6hhhvLosMZ2rOELTiJ) | [I Feel Alone](https://open.spotify.com/album/4kO5uEKSrbnrlhNafiqxFO) | 3:55 | 2026-09-21 |  |
 | [I Feel Good](https://open.spotify.com/track/7c4xH2X2ht6LN26G7TRa3S) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [I Feel Good](https://open.spotify.com/album/4g9E1R8MCCsiisYAjQ7t4q) | 2:43 | 2026-02-03 | 2026-03-07 |
 | [I Forgive You Anyway](https://open.spotify.com/track/4tl7GhvkTCcRjx9PqUlBpf) | [Alex Inn](https://open.spotify.com/artist/6t1dBTRi3HgJlC9RN8e7Kd) | [Cold World](https://open.spotify.com/album/5ptpOwvFRiU56fGPHDxtfk) | 3:16 | 2026-01-06 | 2026-02-03 |
+| [i hate being alone](https://open.spotify.com/track/45WsdFznmx8wPk4wWtERhB) | [violet eve](https://open.spotify.com/artist/5JziLUitDN8xU6TufJEmhz) | [i hate being alone](https://open.spotify.com/album/0ZE8N57DOxyAX2VoHoG4fP) | 3:11 | 2026-09-22 |  |
 | [I Hate Pumpkin Spice](https://open.spotify.com/track/1BwGrUBSF3ceevdwZL71Cn) | [Kama Linden](https://open.spotify.com/artist/7lqGgAk0aiS8xDeMbJBggS) | [I Hate Pumpkin Spice](https://open.spotify.com/album/5C5UNXG03v8K9LeD6gHhFr) | 4:00 | 2025-12-22 | 2026-01-24 |
 | [I Hope That You're Okay](https://open.spotify.com/track/4nhffh2CLn0tJ9pxwYGq4N) | [UMIDA](https://open.spotify.com/artist/5yVzuNgV0irDWOphxt0R0b) | [I Hope That You're Okay](https://open.spotify.com/album/3wGgAUJUw328hFAmQByGuf) | 3:36 | 2026-01-01 | 2026-02-03 |
 | [I Hope You Know](https://open.spotify.com/track/5Me4wfIqY2GUH9u8lzJbBS) | [FYONA](https://open.spotify.com/artist/4DVQgGkceK5qLMWB9ICJkR) | [I Hope You Know](https://open.spotify.com/album/0tv09GUZwNTIiTWh5TWi5a) | 2:42 | 2026-05-30 | 2026-07-03 |
@@ -899,6 +901,7 @@
 | [No Time](https://open.spotify.com/track/5vCvWmImr0Vr7YH0C0AyX2) | [Samuel y los Rezagados](https://open.spotify.com/artist/2x8GEMtyjX8bnJhNcNsJrW), [enma alvear](https://open.spotify.com/artist/6xvChSW0aFmkQ7WDjsKmne) | [Back In Business](https://open.spotify.com/album/3mLkSHu7tPitznqB6SnOPQ) | 4:48 | 2026-03-02 | 2026-03-25 |
 | [No Turns](https://open.spotify.com/track/5XcmXsQHzF9vH0k0UORvLW) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [No Turns, Ultraviolet GT!](https://open.spotify.com/album/6SMI2iiMq5MvQpsgtnAPFN) | 2:54 | 2026-02-22 | 2026-03-25 |
 | [Noah \- Radio Edit](https://open.spotify.com/track/1x58z8IfXZpTsWWqJaHV1B) | [Bob Birthisel](https://open.spotify.com/artist/4uc4QBJqxmjH3I6QnA3IdT), [Phil Keaggy](https://open.spotify.com/artist/1bAzlT6fMBcvCfwgh4S3Xl) | [Noah \(Radio Edit\)](https://open.spotify.com/album/4OUb2YjMiE9fRJAGiNpFKk) | 4:20 | 2025-10-06 | 2025-11-29 |
+| [Noche Triste](https://open.spotify.com/track/6Ul7SB8W4juy2Cgn7xnYuZ) | [Odalce](https://open.spotify.com/artist/4vFuQsYj8PmqkumGxVCGDn) | [Noche Triste](https://open.spotify.com/album/7KWb2nFfOQId2beziTBEGv) | 2:54 | 2026-09-22 |  |
 | [Noir et blanc](https://open.spotify.com/track/2OVJnvqgHlLziKsjKT5ZaL) | [Virgil Segal](https://open.spotify.com/artist/6PDaVx1wgiv0IQeYtmq3Yy) | [Noir et blanc](https://open.spotify.com/album/4S88do91neHjL30FaUXFPA) | 4:01 | 2026-09-11 |  |
 | [Non ho niente d'intelligente da dire](https://open.spotify.com/track/1oHlgkWpq8XtbazzUiu4LZ) | [Hofmann Orchestra](https://open.spotify.com/artist/5WSLISqbyrPalqB3OzEsqK) | [Non ho niente d'intelligente da dire](https://open.spotify.com/album/2qiVxI3VlAhm04T5c146wJ) | 3:02 | 2026-05-31 | 2026-07-03 |
 | [Northwest Cold Front](https://open.spotify.com/track/68wLXJHCHHJDQFvaz80M2V) | [Bones In The Museum](https://open.spotify.com/artist/1JszlHY0LGPoLA4CrPsBwT) | [Northwest Cold Front](https://open.spotify.com/album/2WG2iFsEYOA97j8aVikg6c) | 3:07 | 2026-04-01 | 2026-05-03 |
@@ -1390,6 +1393,7 @@
 | [UNPREDICTABLE](https://open.spotify.com/track/7sYqRny0YCdeTPTZ4cdFb4) | [Chicka Tikka Masala](https://open.spotify.com/artist/1itNEUHvXnRTI9iCL5KGCt) | [UNPREDICTABLE](https://open.spotify.com/album/0yCsT2thys4cYqlQ63A7j6) | 4:04 | 2025-12-29 | 2026-02-03 |
 | [Until the End of the World](https://open.spotify.com/track/1pE14eN9lfdPeg73TcCM46) | [The Steel](https://open.spotify.com/artist/0o8mtfGFaxEYBF5TtoVOGY) | [The Steel II](https://open.spotify.com/album/5CelAdbDkCINozP22sFgEd) | 4:09 | 2025-11-14 | 2025-12-21 |
 | [untitled](https://open.spotify.com/track/0RVvZ8l6MFAEDLpVasrzYa) | [vic hagen](https://open.spotify.com/artist/7iPpuV8sPw5MU1iJvLx8CU) | [untitled](https://open.spotify.com/album/2Sf3u0pwck1BFHuaP4crw3) | 4:04 | 2026-03-09 | 2026-04-12 |
+| [Unwanted Love](https://open.spotify.com/track/6zjeAfixgsdpyn8z4GwUJF) | [Anaielle](https://open.spotify.com/artist/2pxaL2um4YYHfm10V3frfo) | [Unwanted Love](https://open.spotify.com/album/2gqCvEEuD4E8Ncjl5oh8YE) | 3:08 | 2026-09-22 |  |
 | [Uomini Da Sogno](https://open.spotify.com/track/4EUq72rSPUqo430b0bEM3W) | [Balsa](https://open.spotify.com/artist/37UmKhz6FBFeOM8BiLn95n) | [Uomini Da Sogno](https://open.spotify.com/album/2RXuS3ikjzugb84338GI0A) | 2:22 | 2026-02-08 | 2026-03-07 |
 | [Valkyrie](https://open.spotify.com/track/1TVSjFUeiINo5nsXvo3176) | [Raging Depths](https://open.spotify.com/artist/4Lkiay1vShJkvVFAWHQbQX) | [Act 1 \(Chapter One\)](https://open.spotify.com/album/12DeMW5vKAI69NylXQGKvD) | 3:28 | 2025-12-27 | 2026-01-24 |
 | [Valsa Guinghiana](https://open.spotify.com/track/37vG2z6MoiJKxMcdzyqEvG) | [Salvatore Nanè](https://open.spotify.com/artist/2OyUGRvXMkmSHMSjacXjNZ) | [Valsa Guinghiana](https://open.spotify.com/album/3C4KklDu1rTM9dAZ0AIqCu) | 2:24 | 2023-06-01 | 2025-11-29 |
@@ -1523,6 +1527,7 @@
 | [Эдем](https://open.spotify.com/track/4kyoAnYQxbqymB1xoeaGdR) | [Алекс Рипли](https://open.spotify.com/artist/1BRBBmrzBFq2gPxP1FkByB) | [Эдем](https://open.spotify.com/album/1I2vdv0zR2gGZc4ANH8hcY) | 2:32 | 2026-02-13 | 2026-03-15 |
 | [ひとり](https://open.spotify.com/track/7xLu5dgYm4EhCnkNG3d4li) | [MONDA](https://open.spotify.com/artist/2lAZUpLD2ZwUSnXvKU2bPi) | [ひとり](https://open.spotify.com/album/14ZLH4GxrkSMUJqqPbPbbv) | 3:57 | 2026-01-17 | 2026-02-20 |
 | [また来年も](https://open.spotify.com/track/024OgPIO0sH8bIrovLEv0f) | [Moonlight Chorizo](https://open.spotify.com/artist/0cCNixvpASdvsL7l1678xt) | [またこの季節に](https://open.spotify.com/album/5rdjdGluOTlJ17xPHYOoY1) | 3:11 | 2025-12-23 | 2026-01-24 |
+| [ダウンタウンを離れれば](https://open.spotify.com/track/2hPMqJzALtarFVQlAhzTIf) | [ぼんち](https://open.spotify.com/artist/45f47Q4810sHd1HFlh5Biz) | [ダウンタウンを離れれば](https://open.spotify.com/album/1PKg28LRdkH1jLVeoCWUiK) | 4:00 | 2026-09-22 |  |
 | [你眼中的伤痕 • The Scars in Your Eyes](https://open.spotify.com/track/5kGIPlGN99k3tUXKSjrirF) | [彭俐客](https://open.spotify.com/artist/3h1LgXnjamZJ2YBk36REGe) | [献给 AI 的思考 • Thoughts for AI](https://open.spotify.com/album/4K4lChy5piyec9S6EN9gLj) | 3:46 | 2026-01-30 | 2026-02-28 |
 | [僕らが深淵を見つめる時](https://open.spotify.com/track/26qirU9CiQOA6Zn9TBEH8f) | [the knowlus](https://open.spotify.com/artist/70vlgJquNhdPuT4wxA4ZK0) | [Discovery Age](https://open.spotify.com/album/05ZegbnowJljzfzXxV9WOD) | 4:13 | 2025-10-23 | 2025-11-29 |
 | [原來發現](https://open.spotify.com/track/7MNkxlV4Oj4OgEOS0RfQRs) | [Relic](https://open.spotify.com/artist/3didQr0Ljzt9uzRsSSynXO) | [原來發現](https://open.spotify.com/album/0w8ZelBC2rT1qa58kwWu2S) | 3:50 | 2025-12-09 | 2026-01-05 |

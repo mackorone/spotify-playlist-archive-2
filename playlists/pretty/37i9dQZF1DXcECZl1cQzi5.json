@@ -1,6 +1,6 @@
 {
   "description": "Calming music accompanied by the waves of the ocean. Breathe with the ebb and flow of the sea. ",
-  "num_followers": 72788,
+  "num_followers": 72797,
   "original_name": "Serene Ocean Music",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
+        "name": "Wings Over Waves",
+        "url": "https://open.spotify.com/album/4Ib9aeNnXG7SbHLZOSOHLO"
+      },
+      "artists": [
+        {
+          "name": "Halune",
+          "url": "https://open.spotify.com/artist/4KnjWOt271mXcYMTgxeITj"
+        }
+      ],
+      "duration_ms": 169087,
+      "name": "Wings Over Waves",
+      "url": "https://open.spotify.com/track/6RDseU08qfnrodYIXgN1qO"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
         "name": "Ocean",
         "url": "https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 194437,
       "name": "Delightful Waves",
       "url": "https://open.spotify.com/track/1PcQqzCG1gTqJZt5vdCLz2"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
-        "name": "Wings Over Waves",
-        "url": "https://open.spotify.com/album/4Ib9aeNnXG7SbHLZOSOHLO"
-      },
-      "artists": [
-        {
-          "name": "Halune",
-          "url": "https://open.spotify.com/artist/4KnjWOt271mXcYMTgxeITj"
-        }
-      ],
-      "duration_ms": 169087,
-      "name": "Wings Over Waves",
-      "url": "https://open.spotify.com/track/6RDseU08qfnrodYIXgN1qO"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Sand Mountain",
-        "url": "https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq"
-      },
-      "artists": [
-        {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
-        }
-      ],
-      "duration_ms": 138576,
-      "name": "Sand Mountain",
-      "url": "https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "The Time Of Waves (432 Hz)",
         "url": "https://open.spotify.com/album/0MxKRqfQu0UbyhYWORetnB"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 190306,
       "name": "The Time Of Waves (432 Hz)",
       "url": "https://open.spotify.com/track/2bcbP6wGdsyTLFpHaO0Mhj"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "Sand Mountain",
+        "url": "https://open.spotify.com/album/7HXnsk96PhsG1lvoksUYeq"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "duration_ms": 138576,
+      "name": "Sand Mountain",
+      "url": "https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Calming Seas",
-        "url": "https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P"
-      },
-      "artists": [
-        {
-          "name": "A Lonely Moon",
-          "url": "https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf"
-        }
-      ],
-      "duration_ms": 161750,
-      "name": "Deep Cove",
-      "url": "https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Malibu Mornings",
         "url": "https://open.spotify.com/album/4G5umrum108nYt3JkT3myc"
       },
@@ -1307,18 +1291,18 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Synchrony",
-        "url": "https://open.spotify.com/album/4TpOJqxAzu1yb2DCwZcux0"
+        "name": "Calming Seas",
+        "url": "https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P"
       },
       "artists": [
         {
-          "name": "JourneyBox",
-          "url": "https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1"
+          "name": "A Lonely Moon",
+          "url": "https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf"
         }
       ],
-      "duration_ms": 248917,
-      "name": "Breathe (In)",
-      "url": "https://open.spotify.com/track/6UekpPcGc2aDL7aS6dPxJI"
+      "duration_ms": 161750,
+      "name": "Deep Cove",
+      "url": "https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1335,6 +1319,22 @@
       "duration_ms": 155813,
       "name": "Ocean Air",
       "url": "https://open.spotify.com/track/3c2e4IbJUSTrV0QlH3MXWS"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "Synchrony",
+        "url": "https://open.spotify.com/album/4TpOJqxAzu1yb2DCwZcux0"
+      },
+      "artists": [
+        {
+          "name": "JourneyBox",
+          "url": "https://open.spotify.com/artist/0ocsTfx1K6pwl9U26u9sc1"
+        }
+      ],
+      "duration_ms": 248917,
+      "name": "Breathe (In)",
+      "url": "https://open.spotify.com/track/6UekpPcGc2aDL7aS6dPxJI"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Placid",
-        "url": "https://open.spotify.com/album/3cqgefYwQlBikWTCoefOfc"
+        "name": "Melu",
+        "url": "https://open.spotify.com/album/2lmQPms03gfoixIfZJ6h7r"
       },
       "artists": [
         {
-          "name": "Flyndon",
-          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
         }
       ],
-      "duration_ms": 187106,
-      "name": "Placid",
-      "url": "https://open.spotify.com/track/5tU4iN8NZV0NZFESddIG3W"
+      "duration_ms": 182375,
+      "name": "Melu",
+      "url": "https://open.spotify.com/track/36Bye5FdbcXLd6AiHIhfbY"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Melu",
-        "url": "https://open.spotify.com/album/2lmQPms03gfoixIfZJ6h7r"
+        "name": "Placid",
+        "url": "https://open.spotify.com/album/3cqgefYwQlBikWTCoefOfc"
       },
       "artists": [
         {
-          "name": "Livrunna",
-          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
         }
       ],
-      "duration_ms": 182375,
-      "name": "Melu",
-      "url": "https://open.spotify.com/track/36Bye5FdbcXLd6AiHIhfbY"
+      "duration_ms": 187106,
+      "name": "Placid",
+      "url": "https://open.spotify.com/track/5tU4iN8NZV0NZFESddIG3W"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Ocean Swell",
-        "url": "https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT"
-      },
-      "artists": [
-        {
-          "name": "Aysun",
-          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Ocean Swell",
-      "url": "https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Ocean in a Drop",
         "url": "https://open.spotify.com/album/6xF8SMoiAmYx8VSrzdbja2"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 192000,
       "name": "Ocean in a Drop",
       "url": "https://open.spotify.com/track/5yxqIaxcAWpcxcX95a6QYt"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "Ocean Swell",
+        "url": "https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT"
+      },
+      "artists": [
+        {
+          "name": "Aysun",
+          "url": "https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Ocean Swell",
+      "url": "https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Newfoundland",
-        "url": "https://open.spotify.com/album/502h7NzW2A12rSKLIvA6JJ"
-      },
-      "artists": [
-        {
-          "name": "Miyklo",
-          "url": "https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj"
-        }
-      ],
-      "duration_ms": 148747,
-      "name": "Newfoundland",
-      "url": "https://open.spotify.com/track/2jAXw7YVGD2r6nzQwJLgsY"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Pra Ae",
         "url": "https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 137666,
       "name": "Pra Ae",
       "url": "https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "Newfoundland",
+        "url": "https://open.spotify.com/album/502h7NzW2A12rSKLIvA6JJ"
+      },
+      "artists": [
+        {
+          "name": "Miyklo",
+          "url": "https://open.spotify.com/artist/2X3Invt8lYGm7czZvFUPCj"
+        }
+      ],
+      "duration_ms": 148747,
+      "name": "Newfoundland",
+      "url": "https://open.spotify.com/track/2jAXw7YVGD2r6nzQwJLgsY"
     },
     {
       "added_at": "2026-06-12 09:04:34",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Sensual Ocean",
-        "url": "https://open.spotify.com/album/062bVbe4HIKx2JoaFd2YLU"
-      },
-      "artists": [
-        {
-          "name": "Lovisa Gulli",
-          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Sensual Ocean",
-      "url": "https://open.spotify.com/track/3w1O6FSaSrc7UnobR68H7K"
-    },
-    {
-      "added_at": "2026-06-12 09:04:34",
-      "album": {
         "name": "Arran",
         "url": "https://open.spotify.com/album/0w6TCWiuzcqMzir4xGSdUB"
       },
@@ -1675,18 +1659,34 @@
     {
       "added_at": "2026-06-12 09:04:34",
       "album": {
-        "name": "Warm Sandy Beaches",
-        "url": "https://open.spotify.com/album/5a6OSIShhRhtxoWGULsFBU"
+        "name": "Sensual Ocean",
+        "url": "https://open.spotify.com/album/062bVbe4HIKx2JoaFd2YLU"
       },
       "artists": [
         {
-          "name": "Quiet Point",
-          "url": "https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR"
+          "name": "Lovisa Gulli",
+          "url": "https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl"
         }
       ],
-      "duration_ms": 182727,
-      "name": "Warm Sandy Beaches",
-      "url": "https://open.spotify.com/track/0KhOTvGKDNSP2fNmzbpNJX"
+      "duration_ms": 186666,
+      "name": "Sensual Ocean",
+      "url": "https://open.spotify.com/track/3w1O6FSaSrc7UnobR68H7K"
+    },
+    {
+      "added_at": "2026-06-12 09:04:34",
+      "album": {
+        "name": "Breezing",
+        "url": "https://open.spotify.com/album/0V4ZUcZU62VwEtuKxrDGZ4"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "duration_ms": 163291,
+      "name": "Breezing",
+      "url": "https://open.spotify.com/track/6pvbXU9Iop7E38IDOR269J"
     }
   ],
   "unique_name": "Serene Ocean Music",

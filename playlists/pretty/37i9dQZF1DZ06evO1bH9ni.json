@@ -1,12 +1,12 @@
 {
   "description": "This is Los Dos Carnales. The essential tracks, all in one playlist.",
-  "num_followers": 354898,
+  "num_followers": 354923,
   "original_name": "This Is Los Dos Carnales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABsR9h2dgJb3YRlmMxmrd/r",
+  "snapshot_id": "arBzgAAAAABS9QQMTC3CASVZFWqznbtd",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nave 727",
-        "url": "https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 196293,
-      "name": "Nave 727",
-      "url": "https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tronando Ligas",
         "url": "https://open.spotify.com/album/0VZLi5I1MJs3PFRyvgjOEO"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 231839,
       "name": "Te Vas a Arrepentir",
       "url": "https://open.spotify.com/track/54hFP1zeT7EGieLj0rABLm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nave 727",
+        "url": "https://open.spotify.com/album/5K18JEMSLeib5SozcvHVJy"
+      },
+      "artists": [
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        },
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 196293,
+      "name": "Nave 727",
+      "url": "https://open.spotify.com/track/2qIcd6aIO3hPpUnl7gWNh6"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        }
-      ],
-      "duration_ms": 200945,
-      "name": "Tuyo y M\u00edo",
-      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cabrones y Vagos",
         "url": "https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 153086,
       "name": "Mis Ra\u00edces",
       "url": "https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+        }
+      ],
+      "duration_ms": 200945,
+      "name": "Tuyo y M\u00edo",
+      "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
     },
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+        "name": "Boleros de Hoy",
+        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
       "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
         {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 216770,
-      "name": "Lupe Campos",
-      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
+      "duration_ms": 161766,
+      "name": "La Fiesta",
+      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boleros de Hoy",
-        "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
       "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
         {
           "name": "Los Dos Carnales",
           "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 161766,
-      "name": "La Fiesta",
-      "url": "https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR"
+      "duration_ms": 216770,
+      "name": "Lupe Campos",
+      "url": "https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx"
     },
     {
       "added_at": null,

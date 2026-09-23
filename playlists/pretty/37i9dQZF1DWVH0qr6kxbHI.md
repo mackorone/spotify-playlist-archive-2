@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,861 likes - 75 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,884 likes - 75 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 33 | [Hoy Quiero Confesarme](https://open.spotify.com/track/5wI6PpGIGw25jewhrbnxWG) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Marinero De Luces](https://open.spotify.com/album/6GaZ5DXUNwP3hcOybqht3w) | 4:49 |
 | 34 | [Amor, Amor](https://open.spotify.com/track/6lGrDctccq26IsZ2MDTxZU) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Mis Recuerdos](https://open.spotify.com/album/62UaBhe2SrSualZdmfXE0h) | 3:50 |
 | 35 | [Devuelveme la Vida \(with Antonio Orozco\)](https://open.spotify.com/track/3F6QDKtaBlaEfI6TLjLIQw) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR), [Antonio Orozco](https://open.spotify.com/artist/1ADdpen72RPuafRcv0YRBf) | [Otra Piel](https://open.spotify.com/album/7CHgktzIpDDgEYwQ9jrEnQ) | 4:06 |
-| 36 | [Se me olvidó otra vez](https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Seguir viviendo](https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq) | 3:06 |
+| 36 | [Una estrella en mi jardín](https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Una estrella en mi jardín](https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu) | 5:03 |
 | 37 | [Se nos rompió el amor](https://open.spotify.com/track/5V8MiatwmSYw80Teq4d3li) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9) | [Tan Solo Una Mujer](https://open.spotify.com/album/1rKjcPNljCVlg0gRHnENMd) | 4:31 |
 | 38 | [Hazme Tuya una Vez Mas](https://open.spotify.com/track/6nRaI3IcbXMi3iHbfuiiVk) | [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Desde Andalucia](https://open.spotify.com/album/2z0nGeab4W4lk2AjxG3kbw) | 6:07 |
-| 39 | [Una estrella en mi jardín](https://open.spotify.com/track/2nbX9cz1hpsLsi5fqVnlKK) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ) | [Una estrella en mi jardín](https://open.spotify.com/album/63KTRdfNbLMuJoMWKeaavu) | 5:03 |
+| 39 | [Se me olvidó otra vez](https://open.spotify.com/track/3KsMjQthWGfFhNYM6k2R8G) | [María Jiménez](https://open.spotify.com/artist/3xg8yTZPuoRF0uFGl1O0FS) | [Seguir viviendo](https://open.spotify.com/album/7qBLnnVJEexyI47wLfQlyq) | 3:06 |
 | 40 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
 | 41 | [S.O.S.](https://open.spotify.com/track/2UHz5julqHL9gtroI5c1Vt) | [Falete](https://open.spotify.com/artist/4y7BzzNw7IVw2J7IjDHaqD) | [Amar Duele](https://open.spotify.com/album/1kytw4zNG55ejk7a4xI3u2) | 3:46 |
 | 42 | [Sola](https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI) | [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [No te olvides de mi \(edicion original\)](https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V) | 5:05 |

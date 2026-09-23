@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,986 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,994 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,18 +26,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 16 | [Quiéreme Así](https://open.spotify.com/track/7pomnxYbEnoNFmfnqwO8bR) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:13 |
 | 17 | [¿Seguimos o No?](https://open.spotify.com/track/3RLXWvyoDxHzHEpmh1zFP1) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:21 |
 | 18 | [Promesas de Cartón](https://open.spotify.com/track/643v9xjtHa9F9Ser9Gu2xn) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 2:41 |
-| 19 | [Need You Now](https://open.spotify.com/track/4XQtAK4J1oyqbiRDgovd3A) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Crossover](https://open.spotify.com/album/3EcLIq8s4OCRItWoxsODd0) | 3:14 |
-| 20 | [Cien Años \- En Vivo](https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:14 |
+| 19 | [Cien Años \- En Vivo](https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:14 |
+| 20 | [Need You Now](https://open.spotify.com/track/4XQtAK4J1oyqbiRDgovd3A) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Crossover](https://open.spotify.com/album/3EcLIq8s4OCRItWoxsODd0) | 3:14 |
 | 21 | [Hazme Tuya](https://open.spotify.com/track/6fW2PaMU92GdkblBzeZ5E4) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 2:24 |
 | 22 | [La Villana](https://open.spotify.com/track/6E7mhIw6S9a3qgc8KJiBOT) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 2:20 |
 | 23 | [La Corona Es Mía](https://open.spotify.com/track/6bCdnaCEvVsezasjOBaiNW) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:24 |
 | 24 | [Besarte Así](https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Besarte Así](https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw) | 3:54 |
-| 25 | [Ella \- Tu Recuerdo y Yo \- Canta, Canta, Canta \- En Vivo](https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 5:45 |
-| 26 | [Sabor a Mi](https://open.spotify.com/track/7fJnVdI1eJL3gyclZSFERl) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:34 |
+| 25 | [Sabor a Mi](https://open.spotify.com/track/7fJnVdI1eJL3gyclZSFERl) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:34 |
+| 26 | [Ella \- Tu Recuerdo y Yo \- Canta, Canta, Canta \- En Vivo](https://open.spotify.com/track/1UppMIrayJYVKtFTxWYyF1) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 5:45 |
 | 27 | [Dame un Beso](https://open.spotify.com/track/2zdSBqAr58KRhTBxy4QJqP) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 2:47 |
-| 28 | [Cucurrucucú Paloma](https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci) | 3:10 |
-| 29 | [Siempre, Siempre \- En Vivo](https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:22 |
-| 30 | [Cómo Olvidarte](https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:08 |
+| 28 | [Cómo Olvidarte](https://open.spotify.com/track/5TcLdIf7BgSRvidCtrs4Vw) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 3:08 |
+| 29 | [Cucurrucucú Paloma](https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci) | 3:10 |
+| 30 | [Siempre, Siempre \- En Vivo](https://open.spotify.com/track/62pCEqKU6Nx2tJmXdYEBYf) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:22 |
 | 31 | [Por Tu Amor](https://open.spotify.com/track/5EUSHPZCMD9Cvr56cUGepa) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [La Serenata](https://open.spotify.com/album/2ho3gFpYus23gzNoMql5mn) | 3:27 |
 | 32 | [Cartas Marcadas](https://open.spotify.com/track/48KrbONsrASr5k3xUvjvY4) | [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Las De Infante](https://open.spotify.com/album/1AkLQlVCOPPuRzfwPwgpZH) | 3:19 |
 | 33 | [Alérgica](https://open.spotify.com/track/1cedYyc32Bpp6VFHAnoFGp) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3P16lb.md) - [plain]
 | 49 | [El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan](https://open.spotify.com/track/3srgVBgOp0l96HMSzhkObm) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [El Son de la Negra / Cielito Lindo / Volver Volver / Si Nos Dejan](https://open.spotify.com/album/5CIPyfvFZ9kFPh6WFNWrcS) | 7:11 |
 | 50 | [Hay Unos Ojos](https://open.spotify.com/track/2exx2bfBKjdLwb47OdtBRC) | [Mariachi Herencia De Mexico](https://open.spotify.com/artist/47gu7rvIxNiBJdkPoYAsqW), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Herederos](https://open.spotify.com/album/0hABgz6rVsCKDjGW9TtLtY) | 2:36 |
 
-Snapshot ID: `aq8iAAAAAABXC6PG69ZKEdCMKvG1bBxj`
+Snapshot ID: `arBzgAAAAABIT5JA4NwJH64fjY2tsEeG`

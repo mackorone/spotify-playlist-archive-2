@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, keep it real\. Cover: Karan Aujla
 
-808 songs - 1 day 14 hr 42 min
+809 songs - 1 day 14 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [GEMZ](https://open.spotify.com/track/5MaJjEwY5IM3v1t6UOIxms) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4) | [GEMZ](https://open.spotify.com/album/4vIZA6reUyU9vdXg3JIAjz) | 3:26 | 2024-04-24 | 2024-05-01 |
 | [Get at Me](https://open.spotify.com/track/6z47zAU8QJudmMAWQNC6ag) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A), [Flex Singh](https://open.spotify.com/artist/2iEbXi1JTSaJh7bxi1qTI2) | [Get at Me](https://open.spotify.com/album/6eK0qFis78BGBFrqQnzowI) | 4:08 | 2026-01-16 |  |
 | [Ghode Nasli](https://open.spotify.com/track/0XHheXz9NGstW7tVxBJ8Qy) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [New Order](https://open.spotify.com/album/2Wz1JsCb2VN3mNMy10nmK7) | 3:07 | 2024-02-20 | 2024-05-29 |
+| [Ghostface Killah](https://open.spotify.com/track/5tEdOJbKBTR8vibjz1cHTF) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Ghostface Killah](https://open.spotify.com/album/6Z4IqQFHScJGjbd4h6E0ut) | 2:17 | 2026-09-22 |  |
 | [Glance](https://open.spotify.com/track/72J8WSzWwpGt3v9hlrinhi) | [Harman Kang](https://open.spotify.com/artist/4jAlSmviG9I3J8O7MrEYzN), [Shaitan](https://open.spotify.com/artist/17vchXZLm7Ci6rNodZA0vz), [Garhi](https://open.spotify.com/artist/6SGe8mSKH4IT2EXG4z6Xk7) | [Glance](https://open.spotify.com/album/040Msvy15UJ5lPyp3npWdl) | 2:09 | 2025-08-06 | 2025-08-13 |
 | [Glock \- From Tufang](https://open.spotify.com/track/616Q2ytAFVzNcfHDUn25PT) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Glock \(From Tufang\)](https://open.spotify.com/album/5il5FEoX2N3wqsIlBxVT4I) | 2:26 | 2023-06-13 | 2024-04-20 |
 | [Goat Talk](https://open.spotify.com/track/3r1Sj5cbnxXHODaSeaOojx) | [4mxn](https://open.spotify.com/artist/4z805gkcbyXZYMLNUdgUlB), [Khamano Aala](https://open.spotify.com/artist/5j5pvwawSWR90vu1RS45Ms), [ProdAK](https://open.spotify.com/artist/1VfkMDuRBnqRXxms09dABd) | [Goat Talk](https://open.spotify.com/album/3WFxCflwHrxxVH3TDmOGBw) | 2:37 | 2025-07-28 | 2025-08-12 |
@@ -319,7 +320,7 @@
 | [Heeray](https://open.spotify.com/track/2ArvOTJvqP3tGTddDX5zXc) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Ishq Di Ep](https://open.spotify.com/album/6O88c3OCo8IjNBfaIhE7EQ) | 3:04 | 2023-11-06 | 2023-11-13 |
 | [Hero \(From "Badnaam"\)](https://open.spotify.com/track/0jF77Ini9zPCMMs7lmfogV) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Hero \(From "Badnaam"\)](https://open.spotify.com/album/6WZJofCfrV15hdQX7AyfeL) | 3:33 | 2025-02-12 | 2026-02-03 |
 | [Heroic](https://open.spotify.com/track/2h7y1x1dZ8K5U3uipmQtvo) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc) | [Heroic](https://open.spotify.com/album/7reBkwh1qEmxmekDVhfLOc) | 2:42 | 2025-05-15 | 2025-06-05 |
-| [HIGH EARNINGS](https://open.spotify.com/track/33JKcVmEVGvq3HdER7TeU1) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [4 Shots](https://open.spotify.com/album/495kTX0o0g6iLWqyaaT2Ot) | 3:02 | 2025-07-04 |  |
+| [HIGH EARNINGS](https://open.spotify.com/track/33JKcVmEVGvq3HdER7TeU1) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [4 Shots](https://open.spotify.com/album/495kTX0o0g6iLWqyaaT2Ot) | 3:02 | 2025-07-04 | 2026-09-23 |
 | [High On You](https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [High On You](https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC) | 2:20 | 2025-01-17 | 2025-01-24 |
 | [Highway To Hell](https://open.spotify.com/track/5f7N1TQ2N1Hf9Q4OUXLphX) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Highway To Hell](https://open.spotify.com/album/0NEzC57EkJUAeXmVZC2mjD) | 3:12 | 2023-03-29 | 2023-04-21 |
 | [Hip Hop Death Game](https://open.spotify.com/track/4VtTlQV25eXOE1ZISxn9j6) | [JA$$A](https://open.spotify.com/artist/15kMGTugB8ykrokYUF3NAR) | [Hip Hop Death Game](https://open.spotify.com/album/4By4XbdTbYYEaUN18B3aoc) | 2:34 | 2025-05-15 | 2025-06-03 |

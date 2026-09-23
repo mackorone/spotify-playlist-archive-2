@@ -567,6 +567,24 @@
     },
     {
       "album": {
+        "name": "Amalfi",
+        "url": "https://open.spotify.com/album/63qg3tJpNVJ0nK0mgP2OSv"
+      },
+      "artists": [
+        {
+          "name": "Elvio Park",
+          "url": "https://open.spotify.com/artist/0IQPKFpWkTdY4RyuQh6F22"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "Amalfi",
+      "url": "https://open.spotify.com/track/2IusQJ0kk2MHTpkgX622Pe"
+    },
+    {
+      "album": {
         "name": "Amber Lines",
         "url": "https://open.spotify.com/album/3Y44CVAmdapawOErJFQIq3"
       },
@@ -4617,6 +4635,24 @@
     },
     {
       "album": {
+        "name": "Feeling Alive",
+        "url": "https://open.spotify.com/album/06pYdbowEPjVDMEqldmdzN"
+      },
+      "artists": [
+        {
+          "name": "Aneto",
+          "url": "https://open.spotify.com/artist/2NN1Bm3UcCgDZEjXPt3ACs"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174265,
+      "name": "Feeling Alive",
+      "url": "https://open.spotify.com/track/3oY0S0T5t7B6S9QDsPuNIE"
+    },
+    {
+      "album": {
         "name": "feeling lost",
         "url": "https://open.spotify.com/album/7fwjy1imypRtCgX0OWX3mN"
       },
@@ -4902,6 +4938,24 @@
       "duration_ms": 143058,
       "name": "First Love",
       "url": "https://open.spotify.com/track/4kylI6llFxQAfc6sil0xQS"
+    },
+    {
+      "album": {
+        "name": "fixation",
+        "url": "https://open.spotify.com/album/43sPMEgpvCEHP32H4CW3cN"
+      },
+      "artists": [
+        {
+          "name": "Ferrosia",
+          "url": "https://open.spotify.com/artist/6VjLJOIiiHRO4yMv5jOB3I"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134159,
+      "name": "fixation",
+      "url": "https://open.spotify.com/track/2VdlT1vhhUbvZo7VGFwKLc"
     },
     {
       "album": {
@@ -7010,7 +7064,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 135462,
       "name": "jumbo",
       "url": "https://open.spotify.com/track/2mUop65TUshNFdTZlYVVtj"
@@ -7370,7 +7424,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 157383,
       "name": "laranja",
       "url": "https://open.spotify.com/track/4addoXVO2pyCUsui07XFgF"
@@ -9200,7 +9254,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 131985,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/1gT8ZVCJmgDoOjoqAdSuaT"
@@ -10591,6 +10645,24 @@
     },
     {
       "album": {
+        "name": "Perfect Timing",
+        "url": "https://open.spotify.com/album/6LBNM9rofr3QMLBU9CuFI1"
+      },
+      "artists": [
+        {
+          "name": "Yelloo Hill",
+          "url": "https://open.spotify.com/artist/7H0V1WLSqhcvm772huQ8ke"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/5KlQUkAK22yBmoTYKNIzf4"
+    },
+    {
+      "album": {
         "name": "Personal Radiance",
         "url": "https://open.spotify.com/album/0IAWBbc4e9033AQROguj4r"
       },
@@ -11376,7 +11448,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 180000,
       "name": "Respite",
       "url": "https://open.spotify.com/track/2kjna8BkC6Bmo5AsB5Zo9u"
@@ -12384,7 +12456,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 151415,
       "name": "Simmer",
       "url": "https://open.spotify.com/track/0D8dzxPNbYA0Ck2auTnWGS"
@@ -14266,6 +14338,24 @@
       "duration_ms": 157096,
       "name": "The Kings Horses",
       "url": "https://open.spotify.com/track/2rbIqTAqj2NF8XfmRwTDnb"
+    },
+    {
+      "album": {
+        "name": "The Long Climb",
+        "url": "https://open.spotify.com/album/0LTIFFoeXldqAl1OYIhzwP"
+      },
+      "artists": [
+        {
+          "name": "Aurove",
+          "url": "https://open.spotify.com/artist/5mZ3zJnbcuCLfBWUoBRFdA"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143831,
+      "name": "The Long Climb",
+      "url": "https://open.spotify.com/track/4hKgZbXRjAyOz4fYLPFftB"
     },
     {
       "album": {

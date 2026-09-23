@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Hema 郑诗妮\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,212 likes - 32 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,215 likes - 32 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

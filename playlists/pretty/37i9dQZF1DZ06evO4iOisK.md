@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 
 > This is SPYAIR\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,544 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,548 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iOisK.md) - [plain]
 | 49 | [Rock'n Roll](https://open.spotify.com/track/69Si1WbsxM3PrHjcf3xL8d) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [Just Do It](https://open.spotify.com/album/1D5hC2BtE1Dy7UFSdKwG33) | 3:33 |
 | 50 | [Bring the Beat Back](https://open.spotify.com/track/5Sw1HLZCZ1iIBX4ekr45YH) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [RE\-BIRTH](https://open.spotify.com/album/1sR5KzprQKpzjuJc1u586m) | 2:58 |
 
-Snapshot ID: `aq8iAAAAAAB93pWC7IAZ2EAATZd0b2op`
+Snapshot ID: `arBzgAAAAADT2XRwNwyHrDmPtVsNeYLv`

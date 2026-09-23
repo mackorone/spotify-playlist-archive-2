@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from ROSÉ, MILEY, Sarah Suhairi\. ChronicalZ, no na and many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,796 likes - 113 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,791 likes - 113 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 20 | [mental](https://open.spotify.com/track/2HMrqM89l6hFM5TN06TiaI) | [Nameless Kids](https://open.spotify.com/artist/2a1RUFZ0eOATyKlPhTxOt2), [Cesca](https://open.spotify.com/artist/1Zt2D33ZveDAuJdFD2Ef10) | [mental](https://open.spotify.com/album/4l8DE5MkHImHcdCLIGnPS6) | 3:07 |
 | 21 | [Kok Masih Rindu?](https://open.spotify.com/track/3fVpFgP2I6kXEgdfIDpRKe) | [Akbar Chalay](https://open.spotify.com/artist/0dIJRlr9m4hUwdBYmKUTjW), [Mingse](https://open.spotify.com/artist/7n6UYi8ahl0SOStLqjWf6I) | [Kok Masih Rindu?](https://open.spotify.com/album/6ZmGnBimcLIsdQLXl2wMb4) | 2:42 |
 | 22 | [Sedikit Lebih Lama](https://open.spotify.com/track/01tIOCXKf5zlXTW34Nm0Tw) | [Piche Kota](https://open.spotify.com/artist/5zAYPlhV1TirCul0R4NKGM) | [Sedikit Lebih Lama](https://open.spotify.com/album/4Fbvo61XvoL4LeeW8qDOtj) | 3:25 |
-| 23 | [Last Call \(Ewh\)](https://open.spotify.com/track/7t9RtbN6jImqmnn3uaMycU) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Dexfa](https://open.spotify.com/artist/23IhEjICWUc9WGFjKuCXrs), [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07), [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [Last Call \(Ewh\)](https://open.spotify.com/album/2TpNYTar0e5DHHzUrbj9Yi) | 3:01 |
+| 23 | [Last Call \(Ewh\)](https://open.spotify.com/track/7t9RtbN6jImqmnn3uaMycU) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07), [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu), [Dexfa](https://open.spotify.com/artist/23IhEjICWUc9WGFjKuCXrs) | [Last Call \(Ewh\)](https://open.spotify.com/album/2TpNYTar0e5DHHzUrbj9Yi) | 3:01 |
 | 24 | [Nona Sayange](https://open.spotify.com/track/3UNz1yeL1jTDOnzrhgxj4H) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Asmara and Swag](https://open.spotify.com/album/5Z1rtvLxAY5ZSQflKm8j39) | 3:15 |
 | 25 | [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls) | 3:16 |
 | 26 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |

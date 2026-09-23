@@ -1,6 +1,6 @@
 {
   "description": "Al mil para entrenar sin parar.",
-  "num_followers": 225180,
+  "num_followers": 225222,
   "original_name": "Modo: Al Mil",
   "owner": {
     "name": "Spotify",
@@ -735,26 +735,6 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "Rico o Muerto, Vol. 1",
-        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 195314,
-      "name": "Asquerosamente Rico",
-      "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
-    },
-    {
-      "added_at": "2026-07-24 08:50:23",
-      "album": {
         "name": "\u00c1lbum JGL",
         "url": "https://open.spotify.com/album/3T4dCPP3hciPkPDsN9EFcL"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 170435,
       "name": "\u00c1lbum JGL",
       "url": "https://open.spotify.com/track/7wQMaZgnqNolW1ATTUW1mq"
+    },
+    {
+      "added_at": "2026-07-24 08:50:23",
+      "album": {
+        "name": "Rico o Muerto, Vol. 1",
+        "url": "https://open.spotify.com/album/1m3NgCXFcAW2sFzYbVfWXO"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 195314,
+      "name": "Asquerosamente Rico",
+      "url": "https://open.spotify.com/track/27aWzQn0uCuEwHkNlKi1jP"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2026-07-24 08:50:23",
-      "album": {
         "name": "Hablando Claro (En Vivo)",
         "url": "https://open.spotify.com/album/1EoAsDmaX09sqmujjiLSGD"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 190671,
       "name": "Hablando Claro - En Vivo",
       "url": "https://open.spotify.com/track/0LRjxh137biMdqdPVH3PBv"
+    },
+    {
+      "added_at": "2026-07-24 08:50:23",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1187,26 +1187,18 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "Muchacho Alegre",
-        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
+        "name": "Sin Miedo (En Vivo)",
+        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
       "artists": [
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 193849,
-      "name": "Hay Con Que",
-      "url": "https://open.spotify.com/track/5LWQAJftnMD7SZAZhwH9CQ"
+      "duration_ms": 210000,
+      "name": "Sin Miedo - En Vivo",
+      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1231,18 +1223,26 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "Sin Miedo (En Vivo)",
-        "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
+        "name": "Muchacho Alegre",
+        "url": "https://open.spotify.com/album/6zFrr9LsuQKRLJZ05rDVVq"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 210000,
-      "name": "Sin Miedo - En Vivo",
-      "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+      "duration_ms": 193849,
+      "name": "Hay Con Que",
+      "url": "https://open.spotify.com/track/5LWQAJftnMD7SZAZhwH9CQ"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "El Chaval\u00f3n",
-        "url": "https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 174754,
-      "name": "El Chaval\u00f3n",
-      "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
-    },
-    {
-      "added_at": "2026-07-24 08:50:23",
-      "album": {
         "name": "Vengo a Aclarar",
         "url": "https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 150944,
       "name": "Vengo a Aclarar",
       "url": "https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn"
+    },
+    {
+      "added_at": "2026-07-24 08:50:23",
+      "album": {
+        "name": "El Chaval\u00f3n",
+        "url": "https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 174754,
+      "name": "El Chaval\u00f3n",
+      "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
-    },
-    {
-      "added_at": "2026-07-24 08:50:23",
-      "album": {
         "name": "Kalashnikov",
         "url": "https://open.spotify.com/album/1tK3FjbSU0jEurD4lcWLPY"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 129500,
       "name": "Kalashnikov",
       "url": "https://open.spotify.com/track/3zFLlF1SvWCt9oZUVPZehW"
+    },
+    {
+      "added_at": "2026-07-24 08:50:23",
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
     },
     {
       "added_at": "2026-07-24 08:50:23",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-07-24 08:50:23",
       "album": {
-        "name": "ESPEJO",
-        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
-      },
-      "artists": [
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "ESPEJO",
-      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
-    },
-    {
-      "added_at": "2026-07-24 08:50:23",
-      "album": {
         "name": "Hablemos",
         "url": "https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 213440,
       "name": "La Vida Ruina",
       "url": "https://open.spotify.com/track/1nXyvU2q1JmteOpJTs5Wyf"
+    },
+    {
+      "added_at": "2026-07-24 08:50:23",
+      "album": {
+        "name": "ESPEJO",
+        "url": "https://open.spotify.com/album/753sqjbgaL6FduBY5umQY2"
+      },
+      "artists": [
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 199114,
+      "name": "ESPEJO",
+      "url": "https://open.spotify.com/track/6nB43uscF0PP1MY46JGCck"
     },
     {
       "added_at": "2026-07-24 08:50:23",

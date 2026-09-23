@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 15279,
+  "num_followers": 15286,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABZAmQSPVA0Zb2C9I5rlmdw",
+  "snapshot_id": "arBzgAAAAAA7neHwlcO6NemTE5lJ3IeB",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 238226,
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/6BzWGOS7w28n7qpEfKR19P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confidence",
         "url": "https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 299176,
       "name": "Confidence",
       "url": "https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 238226,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/6BzWGOS7w28n7qpEfKR19P"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,593 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,607 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 11 | [NO VOLVERE \- En Vivo desde Los Ángeles](https://open.spotify.com/track/5VeaJKovkYUfGvjCOdjL9M) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [PISTEANDO DESDE LOS ANGELES \(En Vivo\)](https://open.spotify.com/album/3QbPa15debwncYYRMvb1hL) | 2:33 |
 | 12 | [Dejame Dormir](https://open.spotify.com/track/4tLKYfcgQV11LGNJLoccVF) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 2:40 |
 | 13 | [Golpes De La Vida](https://open.spotify.com/track/6GMSmRAi8t2uQySgwy2P6F) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY) | 3:41 |
-| 14 | [Y Ahora Resulta](https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Y Ahora Resulta](https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig) | 3:33 |
-| 15 | [Ya No Es Lo Mismo \- En Vivo](https://open.spotify.com/track/05RPPZBbDNRkVsVKFIncI8) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Ya No Es Lo Mismo \(En Vivo\)](https://open.spotify.com/album/12YLbfNadk45nGSpM7RDK1) | 3:13 |
+| 14 | [Ya No Es Lo Mismo \- En Vivo](https://open.spotify.com/track/05RPPZBbDNRkVsVKFIncI8) | [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Ya No Es Lo Mismo \(En Vivo\)](https://open.spotify.com/album/12YLbfNadk45nGSpM7RDK1) | 3:13 |
+| 15 | [Y Ahora Resulta](https://open.spotify.com/track/42JZ64v29QIWl1U2P6XO62) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Y Ahora Resulta](https://open.spotify.com/album/66WV0hFPUtxWtTwSAzr4ig) | 3:33 |
 | 16 | [Cada Día Que Pasa](https://open.spotify.com/track/0IDnj6BWFr9QYNUwGvWL9T) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Así Es La Vida](https://open.spotify.com/album/0TWwVA2SLE68qEemMfl9NC) | 3:51 |
 | 17 | [Se Me Amanece](https://open.spotify.com/track/17LTvUNcDekp4pivzWQ283) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [DOSIS](https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z) | 3:34 |
 | 18 | [De A De Veras](https://open.spotify.com/track/3C2wa3nyaZl7CCbW9N3oAg) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 49 | [Parque De Diversiones](https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [NLIEC 2 \(LIVE SESSION\)](https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle) | 3:18 |
 | 50 | [Notas Musicales](https://open.spotify.com/track/0ZogLvBwLqttqxzlf1RG69) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Notas Musicales](https://open.spotify.com/album/3ovZjrSzVaofnQJ5k4B0U0) | 4:10 |
 
-Snapshot ID: `aq8iAAAAAACOLgmYPYHM1SolfFTMepSI`
+Snapshot ID: `arBzgAAAAADFhGhx3CRDuvwE8LqbTq9G`

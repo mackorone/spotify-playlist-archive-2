@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-466 songs - 1 day 6 hr 2 min
+467 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Fanfa](https://open.spotify.com/track/6p9xq106787GkZzDdYdye5) | [Athlete Whippet](https://open.spotify.com/artist/74FtMGqsZm74eumHo8Fi3V) | [Vesta](https://open.spotify.com/album/7DUPPTMSGbmyRGCmZWssLZ) | 4:50 | 2022-06-20 | 2023-05-20 |
 | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/track/6AVAhgUJ3nnDzO2l9oJnpQ) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Fantasy \(feat\. Franc Moody\)](https://open.spotify.com/album/0Q8b3IX25TDDrMbqdeZU92) | 3:32 | 2024-02-16 | 2026-05-16 |
 | [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-05-23 | 2023-08-13 |
+| [Feel At Home](https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ) | [ISHA](https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5) | [Feel At Home](https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG) | 2:25 | 2026-09-22 |  |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/5789JwERVglbf574Olz2Bi) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:35 | 2023-08-18 | 2024-04-19 |
 | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-07 | 2023-08-21 |
 | [FEEL THE NIGHT](https://open.spotify.com/track/7EzQ54GP7TtEfd9QMbWZzV) | [Sara Costa](https://open.spotify.com/artist/4QdM9MXZoixsfLRhqlJF49) | [FEEL THE NIGHT](https://open.spotify.com/album/5oCyQWYNOeNB6jM8EY2vyo) | 3:09 | 2026-07-03 |  |
@@ -421,7 +422,7 @@
 | [Tokyo](https://open.spotify.com/track/5ZSqGX8UtroLgLwdvcihmg) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Kayleigh Noble](https://open.spotify.com/artist/5t5cteO6lFQ506pSuFXARH) | [On a Different Page](https://open.spotify.com/album/1tVCrfSA85W4NAeo5vgATR) | 3:55 | 2021-07-24 | 2022-10-14 |
 | [Tokyo Flower](https://open.spotify.com/track/1ePTOMXU0I6uB9NfsSConB) | [Krystal Klear](https://open.spotify.com/artist/0jqr8aeeHSn5pMEVD4aTrI) | [Tokyo Flower](https://open.spotify.com/album/47YEoBCvoakAWX6LtQ39U6) | 4:18 | 2023-05-19 | 2023-06-13 |
 | [Tom's Bar](https://open.spotify.com/track/4KvzDmumgsIpFGAJf9cjG9) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [MOSS](https://open.spotify.com/album/1zpy9y8QLdMYZnHUaMbcPs) | 4:10 | 2021-07-24 | 2023-05-20 |
-| [Touch](https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Touch](https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2) | 2:59 | 2024-05-10 |  |
+| [Touch](https://open.spotify.com/track/0MwSy08n4JFvUCGMogz2Xf) | [Swoosh](https://open.spotify.com/artist/2WCrtPixyggICoueTKsjjG) | [Touch](https://open.spotify.com/album/0SQFyjExg2msQL7xm8Pdw2) | 2:59 | 2024-05-10 | 2026-09-23 |
 | [Travel Light](https://open.spotify.com/track/37qLbAeOU3yhpLlD2gyTsp) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [IVAR](https://open.spotify.com/artist/78Nkh6ogSZKHX0s3WLU0dk) | [Travel Light](https://open.spotify.com/album/379snkOheodaVzhhsIruGz) | 3:53 | 2025-09-26 | 2026-01-23 |
 | [Trippin'](https://open.spotify.com/track/2FAQPu3Qs2XP0UPwhSHxVL) | [Love Frequency](https://open.spotify.com/artist/0AM5V32NmtacB4VJ3NNYa7) | [Trippin'](https://open.spotify.com/album/2hnv06seVFLdrsoycHwCqS) | 2:38 | 2026-09-04 |  |
 | [Tropics](https://open.spotify.com/track/4EF3IusotKC8IoC1CuZFc5) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Tropics](https://open.spotify.com/album/1BnY0XdMPXBPzDXglO3tfG) | 2:29 | 2024-08-16 | 2025-07-11 |

@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Haewon Moon\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
+> All about Korean Jazz hits & new \(Cover: Cho Mingyu\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-286 songs - 19 hr 52 min
+287 songs - 19 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Nest](https://open.spotify.com/track/55thcDogbsaKR4Pte76nCS) | [nardis](https://open.spotify.com/artist/2zijxd48081ELuuNZ6L9I8) | [circle](https://open.spotify.com/album/4BbksAHBI4aDCyWRgnyPan) | 4:19 | 2026-01-08 |  |
 | [Nevertheless](https://open.spotify.com/track/0jfwrKYnr9d13wBPeQetsG) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Nevertheless](https://open.spotify.com/album/4j00saS37ayCSxeA0JLoUn) | 4:01 | 2023-02-07 | 2024-11-07 |
 | [News & Sames](https://open.spotify.com/track/2ivkHxcmwVvbgVRMIXRzvs) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA II](https://open.spotify.com/album/2K4Pd51tojKUFwBOArfLRx) | 3:51 | 2025-05-07 |  |
+| [Next to You](https://open.spotify.com/track/5oRbjTRndmsvxXU5fUr40R) | [cho min gyu](https://open.spotify.com/artist/0z18ejgzsJmt0DWuCshKv1) | [Sweet Escape](https://open.spotify.com/album/6rt8Y4FNNIXataZ8KWxpz0) | 3:01 | 2026-09-23 |  |
 | [Ninguém](https://open.spotify.com/track/0uZaevs1alt7jzFQNwjY0R) | [HeeKyung Na](https://open.spotify.com/artist/0v7AyJqbUksRKUWHSN5ghz), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [BOSSA](https://open.spotify.com/album/1SyzkAuSQqH00Q52udwWoE) | 2:44 | 2024-09-13 | 2025-07-09 |
 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 | 2024-03-14 | 2024-11-07 |
 | [November Rain \(Feat\. Groovy D\)](https://open.spotify.com/track/6wN0bERE8RNJvEAeG7tEAW) | [PIACAL](https://open.spotify.com/artist/0QuxeG3QBD0kddWQPgfXaX) | [November Rain](https://open.spotify.com/album/0mkXZKaYTzzb9gOtAqpeU4) | 3:21 | 2022-11-11 | 2024-09-20 |
@@ -270,7 +271,7 @@
 | [WHITE \(Feat\. Chan, jeebanoff, sannie\)](https://open.spotify.com/track/5sOlHrTu1dI5EhKfRNki9a) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW), [Chan](https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV), [sannie](https://open.spotify.com/artist/7DzAtAzBPwXAbnwVWoo6sb) | [WHITE](https://open.spotify.com/album/71gK8qbtaxgdT9ilAKFLZK) | 4:25 | 2024-12-17 |  |
 | [White Christmas](https://open.spotify.com/track/34jFiBvQltG35fneRLMMQM) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF) | [2022 Christmas VIBE \- Kangziwon](https://open.spotify.com/album/0VAvIdy18d508PtgsUA5bG) | 4:17 | 2023-02-07 | 2024-11-07 |
 | [Wiegenlied \(Lullaby\) K.350](https://open.spotify.com/track/3urRLTzYj5NeXxjzFps0Bw) | [Shin Hyunpill & Ko Heean](https://open.spotify.com/artist/6bk0kCo13gHdJfejZ2oaZ5) | [Dear Mozart](https://open.spotify.com/album/61c5QVCrlHFLjXSRhRUk72) | 3:40 | 2024-04-18 | 2024-11-28 |
-| [Winter Moon](https://open.spotify.com/track/6JgdJz8Le10ftXoCfsjEWP) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [EVERMOON](https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr) | 4:55 | 2025-02-18 |  |
+| [Winter Moon](https://open.spotify.com/track/6JgdJz8Le10ftXoCfsjEWP) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [EVERMOON](https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr) | 4:55 | 2025-02-18 | 2026-09-23 |
 | [Winter Theater](https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop) | [cylinder](https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx) | [Home Alone](https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA) | 3:10 | 2023-02-07 | 2024-08-11 |
 | [Winter to Spring](https://open.spotify.com/track/74zAsiHhmAB9FSpbvNGlHW) | [Horim](https://open.spotify.com/artist/4ewZPWfaF9tFfnX1bPVI6A) | [Winter to Spring](https://open.spotify.com/album/1M915pDgthHR7Uw7cab3pw) | 5:01 | 2022-05-03 | 2023-02-08 |
 | [Winter Wonderland](https://open.spotify.com/track/7hVGDWmkXtSIv5XwJuc4AW) | [YUNSEOKCHEOL TRIO](https://open.spotify.com/artist/09fZOcPYim8MvvQieKkv5t) | [2022 Christmas VIBE \-YUNSEOKCHEOL TRIO](https://open.spotify.com/album/7k7BizMxs5mnIhtfghbS04) | 5:11 | 2023-02-07 | 2023-12-13 |

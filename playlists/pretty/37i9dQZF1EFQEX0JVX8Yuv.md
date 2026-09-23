@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 38 | [Tell Me It's A Nightmare](https://open.spotify.com/track/3ZNmfaWQ6soWvtvNIilVsz) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 4:08 |
 | 39 | [Claws](https://open.spotify.com/track/5d6c4SXZ6o41OWID6DIPq1) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 3:13 |
 | 40 | [Massacre](https://open.spotify.com/track/35TzX56MU1bvVRhLuLeqzz) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:26 |
-| 41 | [1,2,3 dayz up](https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [1,2,3 dayz up](https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt) | 3:33 |
-| 42 | [Need For Speed](https://open.spotify.com/track/0tPHaEYDcwjrMhGCgbgP4a) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 3:15 |
+| 41 | [Need For Speed](https://open.spotify.com/track/0tPHaEYDcwjrMhGCgbgP4a) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour](https://open.spotify.com/album/1sWzJ2hL5b64u7n9a8owqc) | 3:15 |
+| 42 | [1,2,3 dayz up](https://open.spotify.com/track/7yYthdauFfDxLhkWCsFtas) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [1,2,3 dayz up](https://open.spotify.com/album/1xaI3XJLvqBsUkB3V8ekZt) | 3:33 |
 | 43 | [Superpower Bitch](https://open.spotify.com/track/2pFvmyLZsDDIptsHuF84N4) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:07 |
 | 44 | [Boo! Bitch!](https://open.spotify.com/track/0Qc6NGmYv5VPnkBjyG6pob) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 1:21 |
 | 45 | [Death By Sex](https://open.spotify.com/track/1RLi7ostp05YuQDiXXLWNr) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT](https://open.spotify.com/album/6uqXwF2cBNS3V4fw8YM575) | 3:22 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQEX0JVX8Yuv.md) - [plain]
 | 126 | [That's What's Up](https://open.spotify.com/track/1hGKDzYbd9lHbhD50y0nnj) | [Skylar Simone](https://open.spotify.com/artist/4Xt0mNxZEZWjgJwsZKDuvQ) | [This Is Me \(Signature Edition\)](https://open.spotify.com/album/6wDQvIx1HJYBX8IBRGysOR) | 2:59 |
 | 127 | [Eintausend Teile](https://open.spotify.com/track/1tvEuaJGDFnERVynxzuRp6) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Eintausend Teile](https://open.spotify.com/album/7Itq48oKL1MTHG2hLud7bc) | 2:23 |
 
-Snapshot ID: `Acc7nAAAAAA2q0nN3ZsP15IQQGsgZHx6`
+Snapshot ID: `AcdBZAAAAACn9ahYq9s6JXXdRuRDcHxl`

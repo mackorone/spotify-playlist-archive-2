@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 150732,
+  "num_followers": 150754,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -1023,30 +1023,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 274866,
-      "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
-      "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Royal Fireworks",
         "url": "https://open.spotify.com/album/5VBPDKdQ3UDSf3jXvOiIcr"
       },
@@ -1071,6 +1047,30 @@
       "duration_ms": 314066,
       "name": "Handel: Music for the Royal Fireworks, HWV 351: II. Allegro - Lentement - Allegro",
       "url": "https://open.spotify.com/track/67zxswDwXGu5LG5rJoFaA4"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 274866,
+      "name": "Music for the Royal Fireworks, HWV 351: III. La Paix. Largo alla Siciliana",
+      "url": "https://open.spotify.com/track/6leCZq7Sh4KbQC4pEwnwmY"
     },
     {
       "added_at": "2025-12-23 12:24:26",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2025-12-23 12:24:26",
       "album": {
-        "name": "Handel: Water Music",
-        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Akademie f\u00fcr Alte Musik Berlin",
-          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
-        }
-      ],
-      "duration_ms": 128599,
-      "name": "Water Music, Suite No. 1, HWV 348: No. 2, Adagio e staccato",
-      "url": "https://open.spotify.com/track/6H8kRwXYJhmz6y1AkbCwvD"
-    },
-    {
-      "added_at": "2025-12-23 12:24:26",
-      "album": {
         "name": "Handel: Oboe Concertos",
         "url": "https://open.spotify.com/album/6CyYye9AOrng3cvwIuLHfL"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 106133,
       "name": "Concerto-Pasticcio in C Major: I. Largo",
       "url": "https://open.spotify.com/track/0fTJ7spoLjRgriBgsftWR8"
+    },
+    {
+      "added_at": "2025-12-23 12:24:26",
+      "album": {
+        "name": "Handel: Water Music",
+        "url": "https://open.spotify.com/album/0cxRAewBpYrtxOYH5fius3"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Akademie f\u00fcr Alte Musik Berlin",
+          "url": "https://open.spotify.com/artist/1R1hwKrqqLqYiD53NtXEBJ"
+        }
+      ],
+      "duration_ms": 128599,
+      "name": "Water Music, Suite No. 1, HWV 348: No. 2, Adagio e staccato",
+      "url": "https://open.spotify.com/track/6H8kRwXYJhmz6y1AkbCwvD"
     },
     {
       "added_at": "2025-12-23 12:24:26",

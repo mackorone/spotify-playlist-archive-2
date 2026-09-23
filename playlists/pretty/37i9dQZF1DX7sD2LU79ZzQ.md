@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Farrel Hilal
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,783 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,776 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 13 | [Kembali Pulang](https://open.spotify.com/track/5LBuf9W1EUwluR2MU8XB0x) | [Ariyo Wahab](https://open.spotify.com/artist/4eqKmDfuX9hX0g08p1GYw9) | [Kembali Pulang](https://open.spotify.com/album/1oP423D3c0GMCEtgcVS85G) | 4:17 |
 | 14 | [Aku Bisa](https://open.spotify.com/track/3BC3irBN5RVAXtdU0f4b8p) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Aku Bisa](https://open.spotify.com/album/5aHOCUcmyUTAWnGTgpMTV5) | 4:00 |
 | 15 | [Coba Lagi \(From "Seporsi Mie Ayam Sebelum Mati"\)](https://open.spotify.com/track/6PWSnm6tWOLFyYrNQh5kyO) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Coba Lagi \(From "Seporsi Mie Ayam Sebelum Mati"\)](https://open.spotify.com/album/3LxkZMDAkIuuvDXZu4gxYQ) | 4:24 |
-| 16 | [Last Call \(Ewh\)](https://open.spotify.com/track/7t9RtbN6jImqmnn3uaMycU) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Dexfa](https://open.spotify.com/artist/23IhEjICWUc9WGFjKuCXrs), [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07), [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu) | [Last Call \(Ewh\)](https://open.spotify.com/album/2TpNYTar0e5DHHzUrbj9Yi) | 3:01 |
+| 16 | [Last Call \(Ewh\)](https://open.spotify.com/track/7t9RtbN6jImqmnn3uaMycU) | [INDAHKUS](https://open.spotify.com/artist/1O4yyjVsY0VUpGMZiK7zNB), [Kenz](https://open.spotify.com/artist/2uMaQHQpDHTukH2gI5UiMk), [Alva Gracia](https://open.spotify.com/artist/3XIfUQhOkgdfKXzL6bUX07), [dia](https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu), [Dexfa](https://open.spotify.com/artist/23IhEjICWUc9WGFjKuCXrs) | [Last Call \(Ewh\)](https://open.spotify.com/album/2TpNYTar0e5DHHzUrbj9Yi) | 3:01 |
 | 17 | [Vas Bunga](https://open.spotify.com/track/5vJJRr2ase2kzEdazRhwk2) | [Lomba Sihir](https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j) | [Setelah: Obrolan Jam 3 Pagi](https://open.spotify.com/album/0FuSu8lc73LKTftfFpKYXL) | 3:21 |
 | 18 | [Bagai Cinta Pertama](https://open.spotify.com/track/3Q0E55yrI5HKmsNGgH5RPp) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Bagai Cinta Pertama](https://open.spotify.com/album/4hBpR8Y7lcu4fejhM3VtO0) | 4:05 |
 | 19 | [Bukan Kendalimu](https://open.spotify.com/track/0Ix6FtbIwpVxsHdp0WjKLH) | [Lafa Pratomo](https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud), [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Hursa](https://open.spotify.com/artist/1h9rmVUlTld8HUdnsALwZa) | [Bukan Kendalimu](https://open.spotify.com/album/5bltAoUwUanz6p1i1NLXNX) | 4:45 |

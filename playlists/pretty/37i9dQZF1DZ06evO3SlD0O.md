@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 > This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,210 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,213 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 46 | [Dale Un Cuartazo Al Macho](https://open.spotify.com/track/5CaVmNwvbF9ryrr8RNWr7u) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Atrás Del Escenario](https://open.spotify.com/album/68uz1T0TeyArcH2MMVy6Kl) | 2:39 |
 | 47 | [Una Noche No](https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:46 |
 | 48 | [El Divorcio](https://open.spotify.com/track/7pnMjgbE98rjzcb7Smeq6d) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Arrastrando La Cobija \(Clásicos Digitalizados\)](https://open.spotify.com/album/7oIVq1jmETB2pIjmi1x2EK) | 2:48 |
-| 49 | [La Trailerita](https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn) | 2:31 |
-| 50 | [Popurrí Norteño](https://open.spotify.com/track/4k17wS8n011hu8i4uM4xaO) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG), [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Intrusso 100% Norteño](https://open.spotify.com/album/1xEsaUAnhzOvfGwPC8dDJX) | 10:00 |
+| 49 | [Popurrí Norteño](https://open.spotify.com/track/4k17wS8n011hu8i4uM4xaO) | [Intrusso De Nuevo Leon](https://open.spotify.com/artist/68reDs1P0m1VgJvNWIv4OG), [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Intrusso 100% Norteño](https://open.spotify.com/album/1xEsaUAnhzOvfGwPC8dDJX) | 10:00 |
+| 50 | [La Trailerita](https://open.spotify.com/track/0GEfcDJLD7OBmEMbvYjD3f) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Rosas Blancas](https://open.spotify.com/album/0kkMx1Zhf8xMm6Lv2CySJn) | 2:31 |
 
-Snapshot ID: `aq8iAAAAAABBD9jN97tRd3EtJJ1GLqDv`
+Snapshot ID: `arBzgAAAAAAgIbkM8uTWWbZXT0LS517w`

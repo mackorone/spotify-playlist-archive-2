@@ -1561,6 +1561,24 @@
     },
     {
       "album": {
+        "name": "Botanical",
+        "url": "https://open.spotify.com/album/66TGMQ0L4NaKRt1s2lPfUK"
+      },
+      "artists": [
+        {
+          "name": "Peqasus",
+          "url": "https://open.spotify.com/artist/6zwjU6yj8bnYp4w6QblQYD"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Botanical",
+      "url": "https://open.spotify.com/track/7DkDa7D6kJD0b2inpd0Afy"
+    },
+    {
+      "album": {
         "name": "Ambrosial",
         "url": "https://open.spotify.com/album/3K4kc2ITYarXk6nCXHJja9"
       },
@@ -3103,6 +3121,24 @@
     },
     {
       "album": {
+        "name": "Dream about us",
+        "url": "https://open.spotify.com/album/7HufHka466JcOtJXSGlbE5"
+      },
+      "artists": [
+        {
+          "name": "Cedar Room",
+          "url": "https://open.spotify.com/artist/1Wew13xlDH4ylTaJI75vw8"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153962,
+      "name": "Dream about us",
+      "url": "https://open.spotify.com/track/1vpvFDx2fhhL8JSsFei0UT"
+    },
+    {
+      "album": {
         "name": "Dream Of You",
         "url": "https://open.spotify.com/album/5f703ODGm3EX3YFj0nRDmq"
       },
@@ -3316,6 +3352,24 @@
       "duration_ms": 134117,
       "name": "dripp",
       "url": "https://open.spotify.com/track/2lFxo4fAtmVXgVaabVB01x"
+    },
+    {
+      "album": {
+        "name": "Drive On",
+        "url": "https://open.spotify.com/album/0aFoPsDZDLjumXfxPyzdrv"
+      },
+      "artists": [
+        {
+          "name": "Adryax",
+          "url": "https://open.spotify.com/artist/76qsIqzQFtCTQizpttVZOo"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146529,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/58AcicbIip8ukGcgiFCVeg"
     },
     {
       "album": {
@@ -6160,7 +6214,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 178090,
       "name": "Indistinguishable",
       "url": "https://open.spotify.com/track/1jiqVB5RKfkXPfifEfY2zU"
@@ -6844,7 +6898,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 181331,
       "name": "Laughing in the Morning",
       "url": "https://open.spotify.com/track/2UJGxWlkGMH2yEeBpGGz7x"
@@ -8570,7 +8624,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 160676,
       "name": "Moon Rail",
       "url": "https://open.spotify.com/track/6dlj2eOaBGOnSZCR1uj0hK"
@@ -13462,7 +13516,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 207079,
       "name": "The Only Way Forward Is Through",
       "url": "https://open.spotify.com/track/4n308Db693dIzCqOFHgvlS"
@@ -14478,6 +14532,24 @@
       "duration_ms": 142942,
       "name": "tyst",
       "url": "https://open.spotify.com/track/6NuICoSy1ZbYKKUVGukai3"
+    },
+    {
+      "album": {
+        "name": "ultraviolet",
+        "url": "https://open.spotify.com/album/6fjUar60LVZQfOrh2muWgM"
+      },
+      "artists": [
+        {
+          "name": "Landayn",
+          "url": "https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133048,
+      "name": "ultraviolet",
+      "url": "https://open.spotify.com/track/4bPJlxKstW9b01M7S66Be8"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 240060,
+  "num_followers": 240082,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "KALLAH",
-        "url": "https://open.spotify.com/album/4fBfxw4vbbBcx39lJtPGup"
-      },
-      "artists": [
-        {
-          "name": "Camila Sof\u00eda",
-          "url": "https://open.spotify.com/artist/2TJxyZOletIHtZ2e3rIcr8"
-        }
-      ],
-      "duration_ms": 186517,
-      "name": "KALLAH",
-      "url": "https://open.spotify.com/track/7KMBBsBa0b8nEStzLMluTo"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "all i need is God",
         "url": "https://open.spotify.com/album/3OKM1CeCwQY1aeqmLeuh0K"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 127877,
       "name": "all i need is God",
       "url": "https://open.spotify.com/track/0lEw9va6qgMmLazeGWnbFK"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "KALLAH",
+        "url": "https://open.spotify.com/album/4fBfxw4vbbBcx39lJtPGup"
+      },
+      "artists": [
+        {
+          "name": "Camila Sof\u00eda",
+          "url": "https://open.spotify.com/artist/2TJxyZOletIHtZ2e3rIcr8"
+        }
+      ],
+      "duration_ms": 186517,
+      "name": "KALLAH",
+      "url": "https://open.spotify.com/track/7KMBBsBa0b8nEStzLMluTo"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -803,6 +803,26 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/7w38vAO2LbUzzp7wIxNTIY"
+      },
+      "artists": [
+        {
+          "name": "Awinnah",
+          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
+        },
+        {
+          "name": "Bumerey",
+          "url": "https://open.spotify.com/artist/4ApBtcqa0zwteyosj177zu"
+        }
+      ],
+      "duration_ms": 203135,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/35T2hC2SKsxXfuh4Nz9U4G"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Chosen",
         "url": "https://open.spotify.com/album/1JZc8NYUgV69snK0a2tur3"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 130153,
       "name": "Chosen",
       "url": "https://open.spotify.com/track/1NyHiKFrCnfjF4PLC67plt"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/7w38vAO2LbUzzp7wIxNTIY"
-      },
-      "artists": [
-        {
-          "name": "Awinnah",
-          "url": "https://open.spotify.com/artist/3VYRqGXzaXMKRSCpx5FIWX"
-        },
-        {
-          "name": "Bumerey",
-          "url": "https://open.spotify.com/artist/4ApBtcqa0zwteyosj177zu"
-        }
-      ],
-      "duration_ms": 203135,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/35T2hC2SKsxXfuh4Nz9U4G"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "YOU'RE THE ONE",
-        "url": "https://open.spotify.com/album/552cwuE5jhgdhCxMU6dHNt"
-      },
-      "artists": [
-        {
-          "name": "CHRISPY",
-          "url": "https://open.spotify.com/artist/0Nc3YshM5QAM1odnqvE56i"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "YOU'RE THE ONE",
-      "url": "https://open.spotify.com/track/6uL2UOksn62dBiQQ8gZdBA"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Calling My Name",
         "url": "https://open.spotify.com/album/4IeX9q85ep83QsXB1LpN6j"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 168750,
       "name": "Calling My Name",
       "url": "https://open.spotify.com/track/6pzWAV0CjM025DvrUSR6uE"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "YOU'RE THE ONE",
+        "url": "https://open.spotify.com/album/552cwuE5jhgdhCxMU6dHNt"
+      },
+      "artists": [
+        {
+          "name": "CHRISPY",
+          "url": "https://open.spotify.com/artist/0Nc3YshM5QAM1odnqvE56i"
+        }
+      ],
+      "duration_ms": 185238,
+      "name": "YOU'RE THE ONE",
+      "url": "https://open.spotify.com/track/6uL2UOksn62dBiQQ8gZdBA"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1103,26 +1103,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Praise (Reyer Remix)",
-        "url": "https://open.spotify.com/album/7zXw7h3RkosuphJ9pKO3ov"
-      },
-      "artists": [
-        {
-          "name": "Reyer",
-          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
-        },
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        }
-      ],
-      "duration_ms": 160955,
-      "name": "Praise - Reyer Remix",
-      "url": "https://open.spotify.com/track/6lYmKR5FeAasPAvNuDGhd1"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Tell The World",
         "url": "https://open.spotify.com/album/2JnYrqR2pB3DyPIzPfE6vs"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 193000,
       "name": "Tell The World",
       "url": "https://open.spotify.com/track/5WDIeNqJWRNyzUCnLCsJ57"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Praise (Reyer Remix)",
+        "url": "https://open.spotify.com/album/7zXw7h3RkosuphJ9pKO3ov"
+      },
+      "artists": [
+        {
+          "name": "Reyer",
+          "url": "https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z"
+        },
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        }
+      ],
+      "duration_ms": 160955,
+      "name": "Praise - Reyer Remix",
+      "url": "https://open.spotify.com/track/6lYmKR5FeAasPAvNuDGhd1"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "All Yours",
+        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 255848,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Clap Your Hands",
         "url": "https://open.spotify.com/album/3IT3LZi1fS0j7oZfLAb62x"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 131844,
       "name": "Clap Your Hands",
       "url": "https://open.spotify.com/track/7LbB5QIhrengXTgW4eE7Hm"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "All Yours",
-        "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 255848,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/62LLuyUL4OGGGxdq97ZZV1"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "Looking For Happiness",
+        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
+      },
+      "artists": [
+        {
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+        }
+      ],
+      "duration_ms": 143997,
+      "name": "Looking For Happiness",
+      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "My Prayer (Micky More & Andy Tee Mixes)",
         "url": "https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ"
       },
@@ -1479,26 +1495,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Save Me (Illingworth Remix)",
-        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        },
-        {
-          "name": "Illingworth",
-          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Save Me (Illingworth Remix)",
-      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Untitled (God)",
         "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
       },
@@ -1515,38 +1511,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Looking For Happiness",
-        "url": "https://open.spotify.com/album/6iBRlkDgkwWeVykaZvYFwp"
+        "name": "Save Me (Illingworth Remix)",
+        "url": "https://open.spotify.com/album/2sQfKLbAINkecLodd0ixrY"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
-        }
-      ],
-      "duration_ms": 143997,
-      "name": "Looking For Happiness",
-      "url": "https://open.spotify.com/track/7fktLtouR8Cf3ubsT9qJ8O"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
-      },
-      "artists": [
-        {
-          "name": "Civilized Creature",
-          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
         },
         {
-          "name": "Christian Singleton",
-          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+          "name": "Illingworth",
+          "url": "https://open.spotify.com/artist/4xXLZBKSGXTCOuQGEzGPRQ"
         }
       ],
-      "duration_ms": 178764,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
+      "duration_ms": 220952,
+      "name": "Save Me (Illingworth Remix)",
+      "url": "https://open.spotify.com/track/2Z30tqgcOPEw4aDQ5tGGjt"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1575,6 +1555,26 @@
       "duration_ms": 416093,
       "name": "Church Doors (feat. J. Ivy, Sir The Baptist & Donald Lawrence) - Terry Hunter Extended Remix",
       "url": "https://open.spotify.com/track/0XsjihhJ7aVZ2QUF6srogi"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/1N1WyvdhOBKsKgqwPGBMRk"
+      },
+      "artists": [
+        {
+          "name": "Civilized Creature",
+          "url": "https://open.spotify.com/artist/3EVrJVoKTnzDkXhjtHC907"
+        },
+        {
+          "name": "Christian Singleton",
+          "url": "https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE"
+        }
+      ],
+      "duration_ms": 178764,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/55kS26xTTdBhQyMVbIlOHW"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
+        "name": "You Ain't",
+        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 201680,
+      "name": "You Ain't",
+      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
         "name": "Deliver (Higher)",
         "url": "https://open.spotify.com/album/6dXTQotmX7LIGK1nzjLeFx"
       },
@@ -1783,22 +1799,6 @@
       "duration_ms": 181671,
       "name": "HOLY",
       "url": "https://open.spotify.com/track/5h4hjkImb5c9ewpOiZIkU6"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "You Ain't",
-        "url": "https://open.spotify.com/album/50RKfLjSqUmZ05XBRL7qvX"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 201680,
-      "name": "You Ain't",
-      "url": "https://open.spotify.com/track/3btsLaYo86o2IrzaMmm5B3"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
-      },
-      "artists": [
-        {
-          "name": "Guz Zanotto",
-          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
-        },
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Fire Fall (Paris Jones Remix)",
         "url": "https://open.spotify.com/album/71Leq69TgDsIy5mlGlbBrh"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 250378,
       "name": "Fire Fall - Paris Jones Remix",
       "url": "https://open.spotify.com/track/4qeMpbZvw0szCC4doevP9d"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/5aUZSoMm6jfVlJ9BO0dLsc"
+      },
+      "artists": [
+        {
+          "name": "Guz Zanotto",
+          "url": "https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI"
+        },
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/3r4PLmGx8zk2qvAijM8YyD"
     },
     {
       "added_at": "2026-08-18 23:12:48",

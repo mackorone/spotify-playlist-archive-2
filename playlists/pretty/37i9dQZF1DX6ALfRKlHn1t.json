@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1138248,
+  "num_followers": 1138161,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
-        "name": "Favourite",
-        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 256066,
-      "name": "Favourite",
-      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
-    },
-    {
-      "added_at": "2026-09-09 16:28:51",
-      "album": {
         "name": "Zero",
         "url": "https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 181810,
       "name": "Cairo FM",
       "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
+    },
+    {
+      "added_at": "2026-09-09 16:28:51",
+      "album": {
+        "name": "Favourite",
+        "url": "https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 256066,
+      "name": "Favourite",
+      "url": "https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U"
     },
     {
       "added_at": "2026-09-09 16:28:51",
@@ -959,6 +959,22 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
+        "name": "Annie",
+        "url": "https://open.spotify.com/album/6Xw7JEdRTUg7XEncbsWQBn"
+      },
+      "artists": [
+        {
+          "name": "Sun Room",
+          "url": "https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y"
+        }
+      ],
+      "duration_ms": 209426,
+      "name": "Annie",
+      "url": "https://open.spotify.com/track/0C7ArEWOoGnMbIA4Xxl2X7"
+    },
+    {
+      "added_at": "2026-09-09 16:28:51",
+      "album": {
         "name": "Feel Like That (feat. Bradley Nowell)",
         "url": "https://open.spotify.com/album/4Ocj71UOGUGwtn9PSH2wwY"
       },
@@ -987,38 +1003,6 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
-        "name": "Seventeen",
-        "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 225666,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym"
-    },
-    {
-      "added_at": "2026-09-09 16:28:51",
-      "album": {
-        "name": "Annie",
-        "url": "https://open.spotify.com/album/6Xw7JEdRTUg7XEncbsWQBn"
-      },
-      "artists": [
-        {
-          "name": "Sun Room",
-          "url": "https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y"
-        }
-      ],
-      "duration_ms": 209426,
-      "name": "Annie",
-      "url": "https://open.spotify.com/track/0C7ArEWOoGnMbIA4Xxl2X7"
-    },
-    {
-      "added_at": "2026-09-09 16:28:51",
-      "album": {
         "name": "Loveland",
         "url": "https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 194346,
       "name": "Back in Love",
       "url": "https://open.spotify.com/track/62S62F7p3A7qOjkbApWe5i"
+    },
+    {
+      "added_at": "2026-09-09 16:28:51",
+      "album": {
+        "name": "Seventeen",
+        "url": "https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 225666,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym"
     },
     {
       "added_at": "2026-09-09 16:28:51",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-09-09 16:28:51",
       "album": {
-        "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
-        "url": "https://open.spotify.com/album/477gzTVWjJWGc7kFTvzwma"
-      },
-      "artists": [
-        {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "The Underdog",
-      "url": "https://open.spotify.com/track/7cDbqFvw45zdLHGltdb1g9"
-    },
-    {
-      "added_at": "2026-09-09 16:28:51",
-      "album": {
         "name": "Big Disgrace",
         "url": "https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 219986,
       "name": "Dance The Pain Away",
       "url": "https://open.spotify.com/track/2CDWWw0WuhGbWhTD348n8a"
+    },
+    {
+      "added_at": "2026-09-09 16:28:51",
+      "album": {
+        "name": "Ga Ga Ga Ga Ga (2017 Remaster)",
+        "url": "https://open.spotify.com/album/477gzTVWjJWGc7kFTvzwma"
+      },
+      "artists": [
+        {
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+        }
+      ],
+      "duration_ms": 222106,
+      "name": "The Underdog",
+      "url": "https://open.spotify.com/track/7cDbqFvw45zdLHGltdb1g9"
     },
     {
       "added_at": "2026-09-09 16:28:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Try a little tenderness\. Cover: TEEKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,682 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,684 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 58 | [I'm a Rock](https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Honeycomb](https://open.spotify.com/album/4q6t2qUYy2bp5sqwXSXldc) | 3:24 |
 | 59 | [Childhood](https://open.spotify.com/track/3efypTRurdVvf2kCuUWr2Q) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:51 |
 | 60 | [I Only Look to You](https://open.spotify.com/track/1SaAALroo66fEAcSMwxdxC) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 3:08 |
-| 61 | [I'll Call U Back](https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 1:57 |
-| 62 | [Magnolia](https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Naturally](https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh) | 3:23 |
+| 61 | [Magnolia](https://open.spotify.com/track/43sdRsmJFcSnlTWTVRhYtz) | [J.J\. Cale](https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN) | [Naturally](https://open.spotify.com/album/3cpNHI7xhNIosF9WjSk8Zh) | 3:23 |
+| 62 | [I'll Call U Back](https://open.spotify.com/track/6zfVYM5Nne0EzpjzYfJKwp) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [But You Caint Use My Phone \(Mixtape\)](https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY) | 1:57 |
 | 63 | [Breakadawn](https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY) | [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Buhloone Mindstate](https://open.spotify.com/album/4ajtfXfaqumfNlJDTVjhOd) | 4:15 |
 | 64 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 |
-| 65 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
-| 66 | [Sinseerly Yours](https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Sinseerly Yours](https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6) | 2:53 |
+| 65 | [Sinseerly Yours](https://open.spotify.com/track/228Ap7fHnb2BUsdopPrjxx) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Sinseerly Yours](https://open.spotify.com/album/7lNj0BxtEBKhQNtYVqpby6) | 2:53 |
+| 66 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 67 | [One Inch Punch](https://open.spotify.com/track/6BdpQ5lDOUNbaER31ajumE) | [Yin Yin](https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2) | [The Rabbit That Hunts Tigers](https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK) | 5:08 |
-| 68 | [Witch Doctor](https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Witch Doctor](https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm) | 6:26 |
-| 69 | [Turnaround](https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Turnaround / I'm Hooked](https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw) | 3:14 |
+| 68 | [Turnaround](https://open.spotify.com/track/3CaslR7DULHhYM6OXhxFL5) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Turnaround / I'm Hooked](https://open.spotify.com/album/3Nt7AounpxUPNRkMJErdtw) | 3:14 |
+| 69 | [Witch Doctor](https://open.spotify.com/track/7H2FmMnHfLRj8yoJpdl6A6) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Witch Doctor](https://open.spotify.com/album/2IsMRtMkzR3z4JtfibpYMm) | 6:26 |
 | 70 | [Spanish Joint](https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 5:44 |
 
 Snapshot ID: `AAAAAFVNG2Se/vkkBBB9bzH7XHA2gefB`

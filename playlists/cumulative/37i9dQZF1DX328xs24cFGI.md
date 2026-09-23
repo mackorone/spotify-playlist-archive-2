@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-544 songs - 1 day 10 hr 26 min
+545 songs - 1 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Syrup](https://open.spotify.com/track/6Ccjf33pkoiOkpw9iPi3ir) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [Syrup](https://open.spotify.com/album/00h0hPRAbRGwreEd01zWIy) | 2:45 | 2025-04-15 | 2025-07-23 |
 | [Tabeta Ai](https://open.spotify.com/track/3EPScz3jhncxN4vZOiIKTz) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 5:16 | 2023-03-28 | 2023-04-05 |
 | [Tabeta Ai](https://open.spotify.com/track/4fiubcHeHWX4tJ4FZX3C1I) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Tabeta Ai / Atashi Tachi](https://open.spotify.com/album/3mb9l3kOdaynZt1yvjMUeL) | 5:16 | 2023-03-28 | 2023-04-02 |
-| [TABOO](https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [あたまご](https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH) | 3:31 | 2026-09-08 |  |
+| [TABOO](https://open.spotify.com/track/0P9212Fmc1cb3LtaUTnles) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [あたまご](https://open.spotify.com/album/0ZlbviG8bVZ7nCO9XPEyGH) | 3:31 | 2026-09-08 | 2026-09-23 |
 | [Telepathy](https://open.spotify.com/track/70ChanaXg9yutUOpVhdfdV) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [Ima no Futari o Otagai ga Miteru](https://open.spotify.com/album/0blSK7mLYswCAF9517kcKb) | 4:19 | 2023-03-28 | 2023-04-04 |
 | [tengoku](https://open.spotify.com/track/3AlA1QVjNLypXq0GKtl44u) | [shy taupe](https://open.spotify.com/artist/26JbIcCELE7o1nl8pw6Vlg) | [Hors d'oeuvre](https://open.spotify.com/album/2xoDg0aFWHgzxMKvTetH4D) | 3:38 | 2024-01-22 | 2024-02-14 |
 | [The Magic of Summer](https://open.spotify.com/track/14cWHP83noU4zsbfPolYrP) | [Niina](https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV) | [The Magic of Summer](https://open.spotify.com/album/2iiF2iliLFVBWa3mdBAHwg) | 3:18 | 2025-06-24 | 2025-08-20 |
@@ -542,6 +542,7 @@
 | [超最強](https://open.spotify.com/track/0bcZS6ifbiPHNFZNX71fiK) | [Cho Tokimeki Sendenbu](https://open.spotify.com/artist/02hwDSWEF0JdOgdIBw1gRT) | [ときめきルールブック](https://open.spotify.com/album/33nAHJehmLBpYd7bbqPDNR) | 3:19 | 2025-07-01 | 2026-05-09 |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2023-02-09 |  |
 | [通り雨](https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [通り雨](https://open.spotify.com/album/6PS8k0M1Qlme23JTA1bhXE) | 3:01 | 2023-11-21 | 2024-01-19 |
+| [運命さがし](https://open.spotify.com/track/76lukrvGiAM7GBcjE4Gx4h) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [運命さがし EP](https://open.spotify.com/album/2zOyV8uuxPW31rdXWokKyM) | 3:25 | 2026-09-22 |  |
 | [遠恋歌](https://open.spotify.com/track/0RAUNsi6rVBsfi3mt9oAf2) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [遠恋歌](https://open.spotify.com/album/6zu0d4mm0cwqRtySSxyfuq) | 3:29 | 2023-10-19 | 2024-01-23 |
 | [野兎と海亀](https://open.spotify.com/track/16mlYCO7jkL36mYQMArhNd) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [野兎と海亀](https://open.spotify.com/album/7JlF02VE3mHDeiVf8jz8iZ) | 2:50 | 2024-02-20 | 2024-03-13 |
 | [金木犀](https://open.spotify.com/track/6lJ31xE2jGeRqapTygwRGm) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [金木犀](https://open.spotify.com/album/7kYA3MEiquoNZVZgzWhJJX) | 4:35 | 2023-08-24 | 2024-01-11 |

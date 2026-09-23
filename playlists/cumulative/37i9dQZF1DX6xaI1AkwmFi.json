@@ -346,7 +346,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 264759,
       "name": "AMANO-JAKU?",
       "url": "https://open.spotify.com/track/6VJhmMpFarGlye7JgHmGO5"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 157139,
       "name": "BOUNCE (feat. C.O.S.A.)",
       "url": "https://open.spotify.com/track/0yMqE8BPui92vB2It7NpWJ"
@@ -830,7 +830,7 @@
       ],
       "date_added": "2025-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 175727,
       "name": "BOW AND ARROW",
       "url": "https://open.spotify.com/track/0NHu2Lo9MWkvhOggEy1bYg"
@@ -1331,6 +1331,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30d6\u30ce\u30fc\u30de\u30eb\u30e9\u30a4\u30d5\u30cf\u30c3\u30af",
+        "url": "https://open.spotify.com/album/2RWQLuzirI29ZKSCCbdbm8"
+      },
+      "artists": [
+        {
+          "name": "RETRORIRON",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266974,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/6upKdkevIOzrl3MvOZkg2R"
+    },
+    {
+      "album": {
         "name": "DiNA",
         "url": "https://open.spotify.com/album/02hQy084ewZMZCKLtxwg6c"
       },
@@ -1364,6 +1382,24 @@
       "duration_ms": 296912,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
+    },
+    {
+      "album": {
+        "name": "Dominant",
+        "url": "https://open.spotify.com/album/73SINYDWU5e2uKOqO4dILk"
+      },
+      "artists": [
+        {
+          "name": "Vuat",
+          "url": "https://open.spotify.com/artist/6h9BmNBKahaCmcSYFnJn2Y"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210628,
+      "name": "Dominant",
+      "url": "https://open.spotify.com/track/6VgzbEY3fnYktgZKFhcFOd"
     },
     {
       "album": {
@@ -2274,7 +2310,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 249496,
       "name": "How Many Girls (feat. HENTAI SHINSHI CLUB)",
       "url": "https://open.spotify.com/track/3CmGHhqP3dbORDxhZNIqgR"
@@ -3264,7 +3300,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 193466,
       "name": "meguri",
       "url": "https://open.spotify.com/track/3ZahoDxx2GCql4TiOrSWgK"
@@ -3933,6 +3969,24 @@
     },
     {
       "album": {
+        "name": "Play the Fool",
+        "url": "https://open.spotify.com/album/380wRzS01Bm8UW5e77yRvi"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187494,
+      "name": "Play the Fool",
+      "url": "https://open.spotify.com/track/7jbX2zShtPrSrfijjkc4tn"
+    },
+    {
+      "album": {
         "name": "PLAYERS",
         "url": "https://open.spotify.com/album/6OtUkMrwUzUzhPqvKiRIVe"
       },
@@ -4122,6 +4176,24 @@
       "duration_ms": 209852,
       "name": "Prince Shoutoku",
       "url": "https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC"
+    },
+    {
+      "album": {
+        "name": "HONESTY",
+        "url": "https://open.spotify.com/album/2xwWbCf58OBsquGkrmRxlg"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147666,
+      "name": "princess",
+      "url": "https://open.spotify.com/track/0vcMHoJ3gyRVDy5UKZXUfT"
     },
     {
       "album": {
@@ -5414,7 +5486,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 214291,
       "name": "THE WALL",
       "url": "https://open.spotify.com/track/5qANmRhcXYaVyjo8A1WKRD"
@@ -5642,6 +5714,42 @@
       "duration_ms": 156556,
       "name": "Toryanse",
       "url": "https://open.spotify.com/track/7lxfgkxV4IGz7lc6TmFPqx"
+    },
+    {
+      "album": {
+        "name": "EN-G\u00cfNE",
+        "url": "https://open.spotify.com/album/4Y6Koxny3nnyGhvuGdwnMf"
+      },
+      "artists": [
+        {
+          "name": "ONE OR EIGHT",
+          "url": "https://open.spotify.com/artist/5bIttAFRf7URUmuuI9w7XA"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "TRANSLATE",
+      "url": "https://open.spotify.com/track/1uol8s3UHFIz2mMpMTgBQS"
+    },
+    {
+      "album": {
+        "name": "TRICK STAR",
+        "url": "https://open.spotify.com/album/5OjXQWEixp2wKn6XvfcOfM"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262760,
+      "name": "TRICK STAR",
+      "url": "https://open.spotify.com/track/4Pt00G3XrrhXOxXCUvhBKX"
     },
     {
       "album": {
@@ -7387,6 +7495,24 @@
     },
     {
       "album": {
+        "name": "\u30af\u30e9\u30a4\u30cd",
+        "url": "https://open.spotify.com/album/421WIl1p0uKTKel9ZSOlvj"
+      },
+      "artists": [
+        {
+          "name": "Chevon",
+          "url": "https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268800,
+      "name": "\u30af\u30e9\u30a4\u30cd",
+      "url": "https://open.spotify.com/track/4GnrPXsMALWfu1Bp7URyYq"
+    },
+    {
+      "album": {
         "name": "\u30b7\u30e3\u30f3\u30c7\u30ea\u30a2",
         "url": "https://open.spotify.com/album/6TrqbAJxtGl4HWK5SUbFLT"
       },
@@ -8254,6 +8380,28 @@
       "duration_ms": 250773,
       "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
       "url": "https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh"
+    },
+    {
+      "album": {
+        "name": "\u30d6\u30eb\u30fc\u30c1\u30fc\u30ba",
+        "url": "https://open.spotify.com/album/6HIFiBH6bv2jFbk0sfbCio"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        },
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173129,
+      "name": "\u30d6\u30eb\u30fc\u30c1\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/7AVx0WwHiuPA76HRrJ90ru"
     },
     {
       "album": {
@@ -9829,6 +9977,24 @@
     },
     {
       "album": {
+        "name": "\u5929\u4f7f\u306e\u306f\u3057\u3054",
+        "url": "https://open.spotify.com/album/0oApufYEdDGDYYmQ05fsqG"
+      },
+      "artists": [
+        {
+          "name": "PompadollS",
+          "url": "https://open.spotify.com/artist/5LNw7upmiw5BIrN2UPLeL0"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202529,
+      "name": "\u5929\u4f7f\u306e\u306f\u3057\u3054",
+      "url": "https://open.spotify.com/track/6O8Xcn1WhdJUQz8AFN0ghn"
+    },
+    {
+      "album": {
         "name": "\u5b9f\u611f",
         "url": "https://open.spotify.com/album/2UK51SZ1pcCWX4OSKzNcA8"
       },
@@ -10920,7 +11086,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 207486,
       "name": "\u82b1\u5360\u3044",
       "url": "https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj"
@@ -11197,6 +11363,24 @@
     },
     {
       "album": {
+        "name": "\u904b\u547d\u3055\u304c\u3057 EP",
+        "url": "https://open.spotify.com/album/2zOyV8uuxPW31rdXWokKyM"
+      },
+      "artists": [
+        {
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205978,
+      "name": "\u904b\u547d\u3055\u304c\u3057",
+      "url": "https://open.spotify.com/track/76lukrvGiAM7GBcjE4Gx4h"
+    },
+    {
+      "album": {
         "name": "\u904b\u547d\u306e\u541b",
         "url": "https://open.spotify.com/album/0EU29QyzTMEl8brlDIIMzC"
       },
@@ -11406,7 +11590,7 @@
       ],
       "date_added": "2026-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 193813,
       "name": "\u98a8\u306b\u306a\u308b",
       "url": "https://open.spotify.com/track/612Ohtq2pdCo4VC57pDqh0"
@@ -11442,7 +11626,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 215769,
       "name": "\u98a8\u898b\u9d8f",
       "url": "https://open.spotify.com/track/5FwUazYSMotO95IPzjgG1q"
@@ -11478,7 +11662,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 260893,
       "name": "\u98db\u884c\u8247",
       "url": "https://open.spotify.com/track/5vsM9UppL2iTgOfenMB6Gz"

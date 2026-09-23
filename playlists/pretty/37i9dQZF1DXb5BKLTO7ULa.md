@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Qlas, Antoon & Boef, Miley, Bankzitters & Robert van Hemert en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,820 likes - 104 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,813 likes - 104 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

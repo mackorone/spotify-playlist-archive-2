@@ -912,7 +912,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 208680,
       "name": "Always on Your Side",
       "url": "https://open.spotify.com/track/6jJTpzMquQLVuUkM2vVEIF"
@@ -18874,6 +18874,28 @@
       "duration_ms": 180906,
       "name": "Slug",
       "url": "https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F"
+    },
+    {
+      "album": {
+        "name": "small talk",
+        "url": "https://open.spotify.com/album/2REu11evStja6Sagu3Tmer"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        },
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "date_added": "2026-09-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178469,
+      "name": "small talk",
+      "url": "https://open.spotify.com/track/0X31XuX0pKXW9VaOxowFSr"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: Feza
+> Khuphuka lapho… seku\-late! Cover: Saliwa
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,437 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,571 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 99 | [Isifebe Sendoda](https://open.spotify.com/track/1otdCFUdWjT0yLWOfFr6kc) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA) | 4:20 |
 | 100 | [Sukuma Mkami Bakubone](https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Ivila Laselawini](https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e) | 4:26 |
 
-Snapshot ID: `AAAAAA5Z2yD6RnUd2fkDDLG9fKVgLkZ8`
+Snapshot ID: `AAAAAAVXY9QzcW5CVEXaXE1FREAmepA8`

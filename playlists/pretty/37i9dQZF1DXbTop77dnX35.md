@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Seyi Vibez, BNXN, Olamide, Clean Bandit, M.anifest, and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,786 likes - 56 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,867 likes - 56 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 32 | [Friends With Benefits \(F.W.B\)](https://open.spotify.com/track/7pDoL77UMe51dSaSqRNBnY) | [Jomapel Yankee](https://open.spotify.com/artist/4HIejdph6SK68Of7zovR9z), [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Friends With Benefits \(F.W.B\)](https://open.spotify.com/album/7deXoEI8Z8KqVBPCgnLZMm) | 2:50 |
 | 33 | [Nothing Spoils in my Hand](https://open.spotify.com/track/2XqCY3rGj9lQtfghvaucTT) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nothing Spoils in my Hand](https://open.spotify.com/album/56Dzq59j8Af14cve3psPXv) | 4:27 |
 | 34 | [Cosign](https://open.spotify.com/track/1YDZdOoX3jLgbDgukLkI0R) | [TAYORISTAR](https://open.spotify.com/artist/7a3geJwKwstBq2ZEarVcA6), [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE), [Furge](https://open.spotify.com/artist/2uf173tWP2qfFQ35NzYizP), [Drwisdom](https://open.spotify.com/artist/1QZEZzoDRKZ6WDB9S1cz40) | [Cosign](https://open.spotify.com/album/7dORAwy2efWYeeJiguux3C) | 2:35 |
-| 35 | [Get Up\(Dance\)](https://open.spotify.com/track/76dNuuIUAOsH7d7jKtFi3v) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Bkay EastGaad](https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW), [Nextee](https://open.spotify.com/artist/6Vtd4CyHV0peHLymMcKCXu) | [Get Up\(Dance\)](https://open.spotify.com/album/2LU8CAEvZlhFknnwFgYmi8) | 2:40 |
+| 35 | [Get Up\(Dance\)](https://open.spotify.com/track/76dNuuIUAOsH7d7jKtFi3v) | [KIING LU](https://open.spotify.com/artist/4C7iRcWxuDWQ62JUuSll1k), [Liya](https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0), [Nextee](https://open.spotify.com/artist/6Vtd4CyHV0peHLymMcKCXu), [Bkay EastGaad](https://open.spotify.com/artist/4TySkCgISYstmugl7r1IxW) | [Get Up\(Dance\)](https://open.spotify.com/album/2LU8CAEvZlhFknnwFgYmi8) | 2:40 |
 | 36 | [Pansa](https://open.spotify.com/track/7yPQU3QSDUcA1Ii3OUPFgr) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:35 |
 | 37 | [Katalia](https://open.spotify.com/track/4PXBuQsoCja8lHc9TOD61R) | [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Thesiix](https://open.spotify.com/artist/2x7N5NCXREqzVruOl5ooVD), [Shazz RSA](https://open.spotify.com/artist/1b6HUAPSQHR73XcfcVX0aB), [Don Deeya](https://open.spotify.com/artist/1hwmVIeG7usUT8C55hctdm), [Magwe ZA](https://open.spotify.com/artist/4lLXmWtzqElrCJdec2azf8) | [Katalia](https://open.spotify.com/album/0AjXkxmKvDB7AW7QwYhbY2) | 6:38 |
 | 38 | [I Follow \(Asemben\)](https://open.spotify.com/track/2B2t3efXTaxUmKyLnR0Fxq) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Tiimie](https://open.spotify.com/artist/0qrPa7IFsPw9t3sLLfotz9) | [I Follow \(Asemben\)](https://open.spotify.com/album/5WvLin95hZ18A1zce0pZYe) | 2:46 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 55 | [Healer](https://open.spotify.com/track/2wRrrlLs4fncP1TzVjt2Gt) | [Ila Nia](https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp), [We are Nubia](https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN) | [Healer](https://open.spotify.com/album/5jXUCN23b2kr4SAl7vTegF) | 3:55 |
 | 56 | [Addicted To You](https://open.spotify.com/track/4L4Dmv0Y01aq6g0SZ7lsrp) | [Cailyn Shelby](https://open.spotify.com/artist/5PoEZZBQBeImvPHCu7RH7N) | [Addicted To You](https://open.spotify.com/album/4UGWKREx6BTiUM4Dg7Fwju) | 3:02 |
 
-Snapshot ID: `AAAAAISsr26+usDU9fstNv2spz32IW9O`
+Snapshot ID: `AAAAAM96u7T092NC5KbJtBZNKIciIq8K`

@@ -1,6 +1,6 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 140814,
+  "num_followers": 140838,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
@@ -463,22 +463,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Fuchsia Swing Song",
-        "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
-      },
-      "artists": [
-        {
-          "name": "Sam Rivers",
-          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
-        }
-      ],
-      "duration_ms": 372306,
-      "name": "Beatrice",
-      "url": "https://open.spotify.com/track/3s5v1r9kSE0mbLUu3mAagm"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 417320,
       "name": "Foolin' Myself",
       "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Fuchsia Swing Song",
+        "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
+      },
+      "artists": [
+        {
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
+        }
+      ],
+      "duration_ms": 372306,
+      "name": "Beatrice",
+      "url": "https://open.spotify.com/track/3s5v1r9kSE0mbLUu3mAagm"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "That's Where It's At",
-        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 374626,
-      "name": "Dorene Don't Cry, I - Remastered",
-      "url": "https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Motion",
         "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 266706,
       "name": "I Remember You",
       "url": "https://open.spotify.com/track/5eMz1VtT2zNtsyh1bDgDhb"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "That's Where It's At",
+        "url": "https://open.spotify.com/album/6wRyPYTtDhRpC1O4ICM1Lt"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 374626,
+      "name": "Dorene Don't Cry, I - Remastered",
+      "url": "https://open.spotify.com/track/1JXxyiihPJrMLotLklU0Cb"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 495373,
-      "name": "A Night In Tunisia - Rudy Van Gelder Edition / 2003 Remaster",
-      "url": "https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 331266,
       "name": "Two Not One",
       "url": "https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "One Flight Up (Remastered 2015)",
+        "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 451407,
+      "name": "Darn That Dream - Remastered 2015",
+      "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -707,8 +707,24 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "One Flight Up (Remastered 2015)",
-        "url": "https://open.spotify.com/album/6VwDnT2q9r7HbxNsyGr0r8"
+        "name": "Ben Webster Plays Ballads Remastered",
+        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 378784,
+      "name": "Stardust - Remastered",
+      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Our Man In Paris (Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/43zfDOSnIaNrdFzik0s088"
       },
       "artists": [
         {
@@ -716,9 +732,9 @@
           "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 451407,
-      "name": "Darn That Dream - Remastered 2015",
-      "url": "https://open.spotify.com/track/1Owq03yMItfgZMpt9CSe80"
+      "duration_ms": 495373,
+      "name": "A Night In Tunisia - Rudy Van Gelder Edition / 2003 Remaster",
+      "url": "https://open.spotify.com/track/5KQ6uddno2Hht84gJDHsPF"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -739,22 +755,6 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
-        "name": "Ben Webster Plays Ballads Remastered",
-        "url": "https://open.spotify.com/album/5RfiNZQf0WbnR5q4rxOebG"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 378784,
-      "name": "Stardust - Remastered",
-      "url": "https://open.spotify.com/track/5AVd7JsN8ts3xiiU3MPpQM"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Wailing With Lou",
-        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
-      },
-      "artists": [
-        {
-          "name": "Lou Donaldson",
-          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
-        }
-      ],
-      "duration_ms": 380240,
-      "name": "Old Folks",
-      "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Page One",
         "url": "https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 548960,
       "name": "La Mesha",
       "url": "https://open.spotify.com/track/44g1MkUneM54KqxLyfWSr9"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Wailing With Lou",
+        "url": "https://open.spotify.com/album/3oy4KWxOtbmFXWBEdrulHf"
+      },
+      "artists": [
+        {
+          "name": "Lou Donaldson",
+          "url": "https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR"
+        }
+      ],
+      "duration_ms": 380240,
+      "name": "Old Folks",
+      "url": "https://open.spotify.com/track/6M55CSNeF4H7y0uEdf2TNH"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Complete Savoy & Dial Master Takes",
-        "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "Ornithology",
-      "url": "https://open.spotify.com/track/7s1fLxwhmKa6VDNqzJzOsE"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 454720,
       "name": "Alone Together",
       "url": "https://open.spotify.com/track/1iGtxVoabfF86qjcyfNsNy"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Complete Savoy & Dial Master Takes",
+        "url": "https://open.spotify.com/album/2c6BUJGIxa4SA94iYX4JkT"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "Ornithology",
+      "url": "https://open.spotify.com/track/7s1fLxwhmKa6VDNqzJzOsE"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Julian \"Cannonball\" Adderley",
-        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
-      },
-      "artists": [
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        }
-      ],
-      "duration_ms": 216693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 336680,
       "name": "Chicago Calling - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Julian \"Cannonball\" Adderley",
+        "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
+      },
+      "artists": [
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/4udDOpCx3TdDB6UtUQuYem"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Triology",
-        "url": "https://open.spotify.com/album/3hbxsG0MNq1k5SblPQ2CJc"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 416653,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/5utnd69OazUzLkC6lQnKN2"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
         "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 309253,
       "name": "These Foolish Things - Remastered 2006/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/6TmiTiUSaogXRfKFayMtjD"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/3hbxsG0MNq1k5SblPQ2CJc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 416653,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/5utnd69OazUzLkC6lQnKN2"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "Stan Getz Quartets (Remastered)",
-        "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Tex Book Tenor (Remastered)",
         "url": "https://open.spotify.com/album/0hmnZqB7XUdFhOXqW7Ivgl"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 458560,
       "name": "Den Tex - 2005 Remastered",
       "url": "https://open.spotify.com/track/3HPiRAD1iqEdjCWk4MrrFy"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "Stan Getz Quartets (Remastered)",
+        "url": "https://open.spotify.com/album/0pBFxXRqZcCeOg8LLB50jg"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/33cor5tMENC0WEuiL3d8FH"
     },
     {
       "added_at": "2024-07-17 12:24:10",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-07-17 12:24:10",
       "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 449293,
-      "name": "I Remember You - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
-    },
-    {
-      "added_at": "2024-07-17 12:24:10",
-      "album": {
         "name": "Rollin' With Leo (Rudy Van Gelder Edition/2009 Remaster)",
         "url": "https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 270960,
       "name": "Jumpin' Leo - Rudy Van Gelder Edition/2009 Remaster",
       "url": "https://open.spotify.com/track/5462btNze0TxTyqiwCfHpg"
+    },
+    {
+      "added_at": "2024-07-17 12:24:10",
+      "album": {
+        "name": "The Congregation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 449293,
+      "name": "I Remember You - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
     },
     {
       "added_at": "2024-07-17 12:24:10",

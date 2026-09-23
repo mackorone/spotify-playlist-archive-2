@@ -4,10 +4,11 @@
 
 > Cutting\-edge dance music emerging from Japan.
 
-97 songs - 6 hr 52 min
+98 songs - 6 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Achi Kochi](https://open.spotify.com/track/6wiQ0v7UMkaRK8ZLBfKjbv) | [Aili & Orson](https://open.spotify.com/artist/4hKrRKWY1mF3LTwGIMj99R) | [Achi Kochi](https://open.spotify.com/album/4NNEocfX0tIkkbPYysxRog) | 3:56 | 2026-09-22 |  |
 | [Attracted to you](https://open.spotify.com/track/0Bb9a95zKTFs7E6ecyDYea) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [AFAMoo](https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl), [Lily June](https://open.spotify.com/artist/0bspB4ERg4mbPRwlsYW8k6) | [Attracted to you](https://open.spotify.com/album/30ZNvOTFgeEcXI2oMq4N9z) | 2:42 | 2026-02-10 |  |
 | [Baiu mirage \- Risa Taniguchi Remix](https://open.spotify.com/track/2flDw7wtTynOUH4kSY5gfQ) | [Keep in Touch](https://open.spotify.com/artist/070Fcof8UsnauUrWgURSMd), [TIMER](https://open.spotify.com/artist/2GxhgZGDysB1Q0l75SgViY), [SHIHAL](https://open.spotify.com/artist/4sYuxxYvMAQxfXpTNK0EZP), [Risa Taniguchi](https://open.spotify.com/artist/44HyyC4bGo2Z30zoaaeTxy) | [Baiu mirage \(Risa Taniguchi Remix\)](https://open.spotify.com/album/6Fgpvb7eVxGrsxAekAgkzB) | 5:53 | 2025-11-07 | 2026-03-09 |
 | [BAMBOO](https://open.spotify.com/track/2q2XA70NRreC33odqvghf9) | [Yu Seki](https://open.spotify.com/artist/7w2BHxP6oYaE5sWW7fE4NE), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs), [HANATANI](https://open.spotify.com/artist/5JFuHcjL9v7XhGmakhTOak), [Cota Mori](https://open.spotify.com/artist/17kRKqQs7JMrBKCzIGBk37) | [BAMBOO](https://open.spotify.com/album/18FMxfzDfynb8iaND3adcy) | 2:45 | 2026-06-26 |  |
@@ -59,7 +60,7 @@
 | [me・愛・ラ・sun・虫](https://open.spotify.com/track/22WnGkB0uYyJ3zincc220Y) | [テクノポップ・有機・シンセサイザーちゃん](https://open.spotify.com/artist/5BWGgPJAAcuOiFmitBvlFe) | [me・愛・ラ・sun・虫](https://open.spotify.com/album/24EfgEw5TZSjpDFruH1ncL) | 2:39 | 2026-01-23 |  |
 | [Miyanosawa](https://open.spotify.com/track/25NyrNbtdNc2G9NE2werEN) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Miyanosawa](https://open.spotify.com/album/1kogXGRFKVpkbRZE6lLmOu) | 3:28 | 2025-10-24 |  |
 | [Mizukami](https://open.spotify.com/track/1SNUUPgkHHOAnMsyCUbPCu) | [Snowk](https://open.spotify.com/artist/2IEDOKhzkk1EKk93fZ759r) | [Mizukami](https://open.spotify.com/album/521QOxLFhoz3ocRjZWVoNV) | 5:32 | 2026-04-08 | 2026-04-28 |
-| [Nulife](https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Nulife](https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3) | 3:56 | 2026-03-09 |  |
+| [Nulife](https://open.spotify.com/track/58YPHNk3iFesdE22u5giwN) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj) | [Nulife](https://open.spotify.com/album/6wzmYBtzA90cXIUvTuD5I3) | 3:56 | 2026-03-09 | 2026-09-23 |
 | [OB PKWY](https://open.spotify.com/track/1Gqe0o6Fy8qPMRdqiwQDTo) | [banvox](https://open.spotify.com/artist/1o2aYT0R8jCzs5q1rEA0gY) | [OB PKWY](https://open.spotify.com/album/3bsT90Ei5T9QhYUs2mRw21) | 3:55 | 2026-04-27 |  |
 | [Odoriko](https://open.spotify.com/track/4T9PF3UU7ozEWycT3k3dNl) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB), [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Odoriko](https://open.spotify.com/album/0A8d3xRGEekL4poJr9KdIG) | 4:49 | 2026-06-26 |  |
 | [okay, okay](https://open.spotify.com/track/2jU5rn89JNXT3U2sTN1qJ3) | [flip\-flops](https://open.spotify.com/artist/0kIWft47tbC7DorFdGEDWz) | [okay, okay](https://open.spotify.com/album/0zdM2hIDHV0NM57Rp6n3LI) | 2:59 | 2026-01-23 | 2026-02-08 |

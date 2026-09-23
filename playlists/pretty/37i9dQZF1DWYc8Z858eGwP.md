@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Best new African artists to have on your radar
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,357 likes - 69 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,393 likes - 69 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

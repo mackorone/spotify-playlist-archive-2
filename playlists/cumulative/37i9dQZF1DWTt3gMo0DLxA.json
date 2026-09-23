@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 249836,
       "name": "Basinga Balaalu",
       "url": "https://open.spotify.com/track/5aAm4h5bLg4hV5wQAi5MGx"
@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 246990,
       "name": "Bayilone Ballipalike",
       "url": "https://open.spotify.com/track/08G014Vd4Gt7ZAVMCpFd6J"
@@ -1505,6 +1505,28 @@
     },
     {
       "album": {
+        "name": "Cake U - Walk U (From \"Don\u2019T Trouble The Trouble (Tamil)\")",
+        "url": "https://open.spotify.com/album/41Ykt03Z4Cm2qXCvquAZzo"
+      },
+      "artists": [
+        {
+          "name": "Kala Bhairava",
+          "url": "https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14"
+        },
+        {
+          "name": "Vaasi",
+          "url": "https://open.spotify.com/artist/5vlliAPuYaEl9AC4AzO8eJ"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169367,
+      "name": "Cake U - Walk U (From \"Don\u2019T Trouble The Trouble (Tamil)\")",
+      "url": "https://open.spotify.com/track/1Mnas0YtrFKWEx6Db6OLzT"
+    },
+    {
+      "album": {
         "name": "Shankerdada M B B S",
         "url": "https://open.spotify.com/album/3zQfAsSriB2lueio8XBXWN"
       },
@@ -1776,7 +1798,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 299911,
       "name": "Chinuku Thadiki",
       "url": "https://open.spotify.com/track/4hgBH5iu5TWIc2lwk4pbDr"
@@ -2192,7 +2214,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 299781,
       "name": "Dandalaya",
       "url": "https://open.spotify.com/track/58HQshnvVd3wJHGOJ7JBxN"
@@ -3736,7 +3758,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-06",
+      "date_removed": null,
       "duration_ms": 271937,
       "name": "Hoyna Hoyna (From \"Gang Leader\")",
       "url": "https://open.spotify.com/track/7hADNKBDHS8MblpUzLebLf"
@@ -4130,7 +4152,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 341592,
       "name": "Jai Jai Ganesha",
       "url": "https://open.spotify.com/track/2faTqdS61prhWkSkIDCPQr"
@@ -4194,7 +4216,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 207095,
       "name": "Jaya Mangalam (From \"Lenin\")",
       "url": "https://open.spotify.com/track/19pjfPfmHB6H1NyBEVUdOd"
@@ -4324,7 +4346,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 103011,
       "name": "Jum jum jhumthaara - From \"Zombiereddy 2 Nxt Lvl\"",
       "url": "https://open.spotify.com/track/1UYCmOCghZQluIbhSOTdK0"
@@ -6611,6 +6633,24 @@
     },
     {
       "album": {
+        "name": "Niluvanivvade",
+        "url": "https://open.spotify.com/album/7tuPXUvtDzbA4GzJs6hVl1"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326823,
+      "name": "Niluvanivvade",
+      "url": "https://open.spotify.com/track/0FjsUT2WECS1pBXErYOQ5r"
+    },
+    {
+      "album": {
         "name": "Check",
         "url": "https://open.spotify.com/album/0MdbUcs1RFozb1oEXgh0kA"
       },
@@ -6792,7 +6832,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 288990,
       "name": "O Naadu Washington",
       "url": "https://open.spotify.com/track/0Sn4SvPYK13oaqTLiMXmoD"
@@ -8485,6 +8525,28 @@
     },
     {
       "album": {
+        "name": "Mahanati",
+        "url": "https://open.spotify.com/album/1TK8Vqpaye4PP9rs2Y0I6T"
+      },
+      "artists": [
+        {
+          "name": "Mickey J. Meyer",
+          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
+        },
+        {
+          "name": "Charulatha Mani",
+          "url": "https://open.spotify.com/artist/5ttI5DDy5AJ8AQb35a9LKm"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197589,
+      "name": "Sada Nannu",
+      "url": "https://open.spotify.com/track/3Rr2iovbWm9jY03oWmPtTn"
+    },
+    {
+      "album": {
         "name": "Khaleja (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6U1ZDp9cdKJrgJfoXdrkCu"
       },
@@ -8891,6 +8953,28 @@
     },
     {
       "album": {
+        "name": "Singari [From \"Dude (Telugu)\"]",
+        "url": "https://open.spotify.com/album/3iLLsCzKJwK4mozLgWtA8L"
+      },
+      "artists": [
+        {
+          "name": "Sai Abhyankkar",
+          "url": "https://open.spotify.com/artist/5jJrJU7VVmxQQLcLAmmxXc"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Singari - From \"Dude (Telugu)\"",
+      "url": "https://open.spotify.com/track/0HsDFeWMvnM9rEyvB23RYF"
+    },
+    {
+      "album": {
         "name": "Sogasu Chudatharama (From \"Telusu Kada\")",
         "url": "https://open.spotify.com/album/7Gb3tz0K3bEADvxkfpxNdV"
       },
@@ -9022,6 +9106,32 @@
       "duration_ms": 252435,
       "name": "Souraa (From \"Bharateeyudu 2\")",
       "url": "https://open.spotify.com/track/6EQVXaIi22Ilmkt1Coi9gZ"
+    },
+    {
+      "album": {
+        "name": "Srilatha (From \"Idupu Kayitham\")",
+        "url": "https://open.spotify.com/album/6xnXMrlhtnrHR8pY5hw1hT"
+      },
+      "artists": [
+        {
+          "name": "Suresh Bobbili",
+          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
+        },
+        {
+          "name": "Shankarr Babu Kandukoori",
+          "url": "https://open.spotify.com/artist/3R0xS0BSkHcPybg9cqWUhB"
+        },
+        {
+          "name": "Mohana Bhogaraju",
+          "url": "https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242765,
+      "name": "Srilatha (From \"Idupu Kayitham\")",
+      "url": "https://open.spotify.com/track/5sbq5ARh8V37zGVmbTRwAo"
     },
     {
       "album": {
@@ -9256,7 +9366,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 221100,
       "name": "Tella Cheera Tella Raika",
       "url": "https://open.spotify.com/track/0rgcUdrr6NTkU5nwbcfe31"
@@ -9796,7 +9906,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 287888,
       "name": "Vakrathunda Mahakaya",
       "url": "https://open.spotify.com/track/7KdmqAuHGyVl1mXSJhY9dR"

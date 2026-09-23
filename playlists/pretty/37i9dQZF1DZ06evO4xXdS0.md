@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,661 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,681 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 20 | [Don't Explain](https://open.spotify.com/track/5trSBbOg0lYbiDq9khCB8u) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 4:18 |
 | 21 | [If I Should Lose You](https://open.spotify.com/track/6YRVj7ZJyFrr6tso0QV15e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 3:55 |
 | 22 | [Ne Me Quitte Pas](https://open.spotify.com/track/6illsnZ2rn1lCzXY9gBC28) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 3:34 |
-| 23 | [I Shall Be Released](https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 3:53 |
-| 24 | [Ain't Got No \- I Got Life \(From the musical production "Hair"\)](https://open.spotify.com/track/5VgcM58bybW45T2WgTdbeY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:07 |
+| 23 | [Ain't Got No \- I Got Life \(From the musical production "Hair"\)](https://open.spotify.com/track/5VgcM58bybW45T2WgTdbeY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:07 |
+| 24 | [I Shall Be Released](https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 3:53 |
 | 25 | [The Look of Love](https://open.spotify.com/track/0EiGzshQIaM98eOXdKTGaD) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 2:22 |
 | 26 | [Take Care Of Business](https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:05 |
 | 27 | [Since I Fell for You](https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:50 |
@@ -44,14 +44,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 34 | [He Needs Me \(2013 \- Remaster\)](https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 2:29 |
 | 35 | [Ain't Got No \- I Got Life \- Single Version](https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:56 |
 | 36 | [Lilac Wine](https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:13 |
-| 37 | [Mood Indigo](https://open.spotify.com/track/1BaAzMva4yf7cWeOGwp7H4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 2:26 |
-| 38 | [Tell It Like It Is](https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 3:51 |
+| 37 | [Tell It Like It Is](https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 3:51 |
+| 38 | [Mood Indigo](https://open.spotify.com/track/1BaAzMva4yf7cWeOGwp7H4) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 2:26 |
 | 39 | [Tomorrow Is My Turn](https://open.spotify.com/track/3cfz4PB3iCqG12StNkKvRo) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:48 |
 | 40 | [Nobody's Fault but Mine](https://open.spotify.com/track/5EIXKDfVw1y9gqRwOgtrK7) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:00 |
 | 41 | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 4:17 |
-| 42 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
-| 43 | [Suzanne](https://open.spotify.com/track/1rsTANyQavJLIiPIFUgoiM) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 4:19 |
-| 44 | [To Be Young, Gifted and Black \- 2005 Remix](https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Forever Young, Gifted And Black: Songs Of Freedom And Spirit](https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0) | 2:49 |
+| 42 | [Suzanne](https://open.spotify.com/track/1rsTANyQavJLIiPIFUgoiM) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [To Love Somebody \(Expanded Edition\)](https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi) | 4:19 |
+| 43 | [To Be Young, Gifted and Black \- 2005 Remix](https://open.spotify.com/track/67RKpDruBXMJgAmhJAivXr) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Forever Young, Gifted And Black: Songs Of Freedom And Spirit](https://open.spotify.com/album/5TPmcbl6aphADiUpEJFHm0) | 2:49 |
+| 44 | [Just Like a Woman](https://open.spotify.com/track/3LELTbDh9YCJrJIUERcj9p) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 4:50 |
 | 45 | [Wild Is The Wind](https://open.spotify.com/track/3muwYfpLZGYsvrrssEzrxF) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 6:56 |
 | 46 | [Backlash Blues](https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:28 |
 | 47 | [You've Got To Learn](https://open.spotify.com/track/5mUuJ9ho28WRUv03odBCBb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 49 | [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 |
 | 50 | [No Woman, No Cry \- Outtake](https://open.spotify.com/track/3SmTSujkbFtr7OKhHhheQi) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 3:15 |
 
-Snapshot ID: `aq8iAAAAAADurpBdOHd0acYyzJURCuy/`
+Snapshot ID: `arBzgAAAAACLkHJSoDnN/nmkwyxd0YuZ`

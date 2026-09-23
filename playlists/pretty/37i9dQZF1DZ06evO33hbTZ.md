@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 
 > This is Victor Thompson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,136 likes - 47 songs - 7 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,137 likes - 47 songs - 7 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 15 | [My Matter](https://open.spotify.com/track/14yL1XMDM7d7VTsIqB0TFf) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [My Matter](https://open.spotify.com/album/3yADLSdEDyjsn8ncyIJnaF) | 2:53 |
 | 16 | [Your Presence Is Heaven](https://open.spotify.com/track/4akZHox7kIpU29YeJG2L76) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 5:02 |
 | 17 | [Parlour Worship Medley](https://open.spotify.com/track/1q3aYKfRrBtotd39lkEYzC) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd), [PROMISE EFFIONG](https://open.spotify.com/artist/427FC2Bm4pD6DM2CBt8A90) | [Parlour Worship Medley](https://open.spotify.com/album/4op2MUKLfQTezGoT91rga1) | 30:32 |
-| 18 | [You make all things Beautiful \(Piano Session\)](https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [You make all things Beautiful \(Piano Session\)](https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk) | 1:27 |
-| 19 | [Thank You](https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Thank You](https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh) | 4:40 |
+| 18 | [Thank You](https://open.spotify.com/track/4YzbkGeq32njenR1KEwVx3) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Thank You](https://open.spotify.com/album/46uGel944f0k9Ev2LC0Nxh) | 4:40 |
+| 19 | [You make all things Beautiful \(Piano Session\)](https://open.spotify.com/track/4j1hTnAQnnvNTtoqcZw0n5) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [You make all things Beautiful \(Piano Session\)](https://open.spotify.com/album/6PkBjfA81nOpI1LDAo5VFk) | 1:27 |
 | 20 | [Reckless Love](https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [ROOTED](https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s) | 4:47 |
 | 21 | [Subscribed \- Live](https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Subscribed \(Live\)](https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE) | 3:18 |
 | 22 | [OMG](https://open.spotify.com/track/3MJScW03etExqb2Slzbdhq) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Morgan Williams](https://open.spotify.com/artist/0UYbfCmHb3NhhYVLoMxXie) | [OMG](https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT) | 2:23 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33hbTZ.md) - [plain]
 | 46 | [Halle](https://open.spotify.com/track/3b8q3iDLUUTEzkexbVgkxy) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:49 |
 | 47 | [Uwese](https://open.spotify.com/track/2Qsf7cbzB82dFjrUkuXZFA) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 3:12 |
 
-Snapshot ID: `aq8iAAAAAAAriG/ysBAIG71PuW4WdKeE`
+Snapshot ID: `arBzgAAAAAClMEbJ0clkn5LPBkk3AHi+`

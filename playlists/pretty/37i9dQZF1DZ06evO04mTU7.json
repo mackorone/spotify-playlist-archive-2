@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 17443,
+  "num_followers": 17456,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAD+puxXVSWEy98tzlxd/+Ha",
+  "snapshot_id": "arBzgAAAAABW4MEbjOz0opSi4/+T0ENX",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "SUA FAVORITA",
+      "url": "https://open.spotify.com/track/7AnpPfdkT6b3Cy6fN8NdkE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -143,30 +167,6 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FREQU\u00caNCIA LUNAR",
-        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Franco, The Sir!",
-          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "SUA FAVORITA",
-      "url": "https://open.spotify.com/track/7AnpPfdkT6b3Cy6fN8NdkE"
     },
     {
       "added_at": null,
@@ -951,26 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tente Outra Vez",
-        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Sebrae Nosso Canto",
-          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
-        }
-      ],
-      "duration_ms": 114196,
-      "name": "Tente Outra Vez",
-      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mina Chavosa",
         "url": "https://open.spotify.com/album/1Gq0laUODJttT7TqiRXjHJ"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 217306,
       "name": "Mina Chavosa",
       "url": "https://open.spotify.com/track/3mCrLzxS2h3Y4thoNFnf7w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tente Outra Vez",
+        "url": "https://open.spotify.com/album/6MQpLTMlTHjTCatVNIkpoq"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Sebrae Nosso Canto",
+          "url": "https://open.spotify.com/artist/5g96lcZahWMG2d1yrzhQaA"
+        }
+      ],
+      "duration_ms": 114196,
+      "name": "Tente Outra Vez",
+      "url": "https://open.spotify.com/track/4kHh90uSeHcEuPfKi3sDxR"
     },
     {
       "added_at": null,
@@ -1015,26 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brutas Amam, Choram e Sentem Raiva",
-        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "MAT",
-          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
-        }
-      ],
-      "duration_ms": 118545,
-      "name": "Mil e uma Treta",
-      "url": "https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
@@ -1051,6 +1031,26 @@
       "duration_ms": 165454,
       "name": "MAMA",
       "url": "https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brutas Amam, Choram e Sentem Raiva",
+        "url": "https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "MAT",
+          "url": "https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U"
+        }
+      ],
+      "duration_ms": 118545,
+      "name": "Mil e uma Treta",
+      "url": "https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad"
     },
     {
       "added_at": null,

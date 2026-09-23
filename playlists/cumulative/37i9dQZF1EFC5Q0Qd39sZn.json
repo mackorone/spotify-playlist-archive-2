@@ -1055,6 +1055,28 @@
     },
     {
       "album": {
+        "name": "By Any Means",
+        "url": "https://open.spotify.com/album/1m9ymR2qnz8Yu2rzsyEze8"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        },
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193963,
+      "name": "By Any Means - Single Version",
+      "url": "https://open.spotify.com/track/7frOwE0raQwmw8oNDgntJS"
+    },
+    {
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/5BYwER0r1Gfx8P5k3xHA56"
       },
@@ -2625,6 +2647,24 @@
     },
     {
       "album": {
+        "name": "Gentleman",
+        "url": "https://open.spotify.com/album/49ztAo70OidQnboagHWUWl"
+      },
+      "artists": [
+        {
+          "name": "Budjerah",
+          "url": "https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227653,
+      "name": "Even At My Worst",
+      "url": "https://open.spotify.com/track/0MZwFX4l30jsgJYQxNgwyg"
+    },
+    {
+      "album": {
         "name": "For the Boys (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/478uzZcKkV2fmQx6hmNYIv"
       },
@@ -3004,6 +3044,24 @@
       "duration_ms": 271306,
       "name": "Forever Isn't Long Enough",
       "url": "https://open.spotify.com/track/4UhUX2Ipv3RDkFaHQTRBTs"
+    },
+    {
+      "album": {
+        "name": "Forgot to Forget You",
+        "url": "https://open.spotify.com/album/3Ny17nnEFMzL7UzIjTZdUa"
+      },
+      "artists": [
+        {
+          "name": "Lea Love",
+          "url": "https://open.spotify.com/artist/7sqp0ib3QtLhMM97H7OWaq"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195651,
+      "name": "Forgot to Forget You",
+      "url": "https://open.spotify.com/track/44GmmLvcTAFEKn7SmejuY2"
     },
     {
       "album": {
@@ -3424,6 +3482,24 @@
       "duration_ms": 201906,
       "name": "Grow Old With Me",
       "url": "https://open.spotify.com/track/35V6hLZnsdV3NAvYOKPebX"
+    },
+    {
+      "album": {
+        "name": "Hate to Be the One",
+        "url": "https://open.spotify.com/album/3D1D6EStEZHBBxevQ9epWK"
+      },
+      "artists": [
+        {
+          "name": "Izzy Escobar",
+          "url": "https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209466,
+      "name": "Hate to Be the One",
+      "url": "https://open.spotify.com/track/6JiUEyUcZ1C9FnNAfO4UIZ"
     },
     {
       "album": {
@@ -4162,7 +4238,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 234466,
       "name": "I Don't Wanna Live Without Your Love",
       "url": "https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ"
@@ -5463,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "If This Day (From The Gray House Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6t4KP347nsJTwRA2GXnAlU"
+      },
+      "artists": [
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183043,
+      "name": "If This Day - From The Gray House Original Soundtrack",
+      "url": "https://open.spotify.com/track/0Te2w0wQWeyPwvrKxsrkXq"
+    },
+    {
+      "album": {
         "name": "From Q, With Love",
         "url": "https://open.spotify.com/album/6mJAFD0VbLBJ5wyHs9HG3r"
       },
@@ -5944,6 +6038,24 @@
       "duration_ms": 268373,
       "name": "Just to Hear You Say That You Love Me (with Tim McGraw)",
       "url": "https://open.spotify.com/track/7m7V3K1yHLfJB2Sx9FKinU"
+    },
+    {
+      "album": {
+        "name": "Kiss Me Tonight",
+        "url": "https://open.spotify.com/album/18PjnZ68NIo5ZkZvdBdQqo"
+      },
+      "artists": [
+        {
+          "name": "Save Ferris",
+          "url": "https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190851,
+      "name": "Kiss Me Tonight",
+      "url": "https://open.spotify.com/track/4Ztiw8TAZX9rdQqxZKq5F9"
     },
     {
       "album": {

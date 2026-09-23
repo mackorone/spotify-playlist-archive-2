@@ -1,12 +1,12 @@
 {
   "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 193198,
+  "num_followers": 193229,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAB3xpduNkhxwgc8LOA+CA0n",
+  "snapshot_id": "arBzgAAAAADpyaVqUmzybiuICALEyuTR",
   "tracks": [
     {
       "added_at": null,
@@ -591,18 +591,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz (Remastered 2023)",
-        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
+        "name": "Bamboleo (Remastered 2026)",
+        "url": "https://open.spotify.com/album/7eTcy9a3IYmwTCwArFZaDU"
       },
       "artists": [
+        {
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 392131,
-      "name": "Rompe Sarag\u00fcey - Remastered 2023",
-      "url": "https://open.spotify.com/track/3WAV5R3aBDpT10YhxVoQv3"
+      "duration_ms": 395030,
+      "name": "Siento - Remastered 2026",
+      "url": "https://open.spotify.com/track/1nlNv6fPpWRuegVl57jdiK"
     },
     {
       "added_at": null,
@@ -623,22 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bamboleo (Remastered 2026)",
-        "url": "https://open.spotify.com/album/7eTcy9a3IYmwTCwArFZaDU"
+        "name": "La Voz (Remastered 2023)",
+        "url": "https://open.spotify.com/album/4OAr7LoCvz26ux4SYqzUcW"
       },
       "artists": [
-        {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
-        },
         {
           "name": "H\u00e9ctor Lavoe",
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 395030,
-      "name": "Siento - Remastered 2026",
-      "url": "https://open.spotify.com/track/1nlNv6fPpWRuegVl57jdiK"
+      "duration_ms": 392131,
+      "name": "Rompe Sarag\u00fcey - Remastered 2023",
+      "url": "https://open.spotify.com/track/3WAV5R3aBDpT10YhxVoQv3"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Que Sentimiento!",
-        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 366586,
-      "name": "\u00c9l Son",
-      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Good, The Bad, And The Ugly",
         "url": "https://open.spotify.com/album/3LDMqOKiHh17XZlSjDfQSn"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 308520,
       "name": "G\u00fcaracha",
       "url": "https://open.spotify.com/track/4XYL7aZZALAQNgaZJJoWaH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u00a1Que Sentimiento!",
+        "url": "https://open.spotify.com/album/2QhJvPPEdERyZmzAxYVzeo"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 366586,
+      "name": "\u00c9l Son",
+      "url": "https://open.spotify.com/track/7EN7Hl5S3UHMtK3eDUaMFc"
     },
     {
       "added_at": null,

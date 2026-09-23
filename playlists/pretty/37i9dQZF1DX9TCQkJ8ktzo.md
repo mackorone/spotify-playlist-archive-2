@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 
 > The Latin soundtrack of the 60s! Cover: Armando Manzanero
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,703 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,711 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TCQkJ8ktzo.md) - [plain]
 | 43 | [Me Siento Loco](https://open.spotify.com/track/2brVDUF6cn2b8451RSEbVz) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Olvidate](https://open.spotify.com/album/7HmWSi8jOb40voxwoxranW) | 3:11 |
 | 44 | [Somos Novios](https://open.spotify.com/track/5S768Vsh3sh6bMtDwVF9by) | [Armando Manzanero Y Su Piano](https://open.spotify.com/artist/3RLrmzOMJMwWVGm2MLiNwq) | [Armando Manzanero, Su Piano y Su Música](https://open.spotify.com/album/1d4stNciFHtWTc7Qc3uHXy) | 2:37 |
 | 45 | [Locamente Te Amaré](https://open.spotify.com/track/4qH1UHtlwb8IRQOnu22lnJ) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [Versiones Originales Vol.2](https://open.spotify.com/album/3dEUs2tF2pKjdIHIjD6IYK) | 2:39 |
-| 46 | [Herencia Gitana](https://open.spotify.com/track/71OaY7celWpuQh00OlDrls) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 3:11 |
+| 46 | [El día de los enamorados \(remastered\)](https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 2:06 |
 | 47 | [Pensaba en Ti](https://open.spotify.com/track/5NM7BTvP4yr58JqwN3BYGm) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [Personalidad](https://open.spotify.com/album/4fVeZv12kCMzF72ve0HwWZ) | 3:22 |
 | 48 | [Shimmy Shimmy Ko Ko Bop](https://open.spotify.com/track/3Y6cwxZjctcQvtYtcQxKXr) | [Los Yetis](https://open.spotify.com/artist/7vIO2LfB0BhbA8ltndHpFA) | [Historia Músical \- 40 Éxitos del Festival de Ancón](https://open.spotify.com/album/5Cm7sIZcZntOWP4HVp5Ki9) | 2:16 |
-| 49 | [El día de los enamorados \(remastered\)](https://open.spotify.com/track/3CwGLO5ypNPGBYKP2qbn0m) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 2:06 |
+| 49 | [Herencia Gitana](https://open.spotify.com/track/71OaY7celWpuQh00OlDrls) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Cuba y Puerto Rico](https://open.spotify.com/album/1P7Ucst33FwWbnoCj0TlNw) | 3:11 |
 | 50 | [Eres Diferente](https://open.spotify.com/track/5kdj2yC3I0uqohVuTAvrkf) | [Los Cinco Latinos](https://open.spotify.com/artist/5T5Xw3jmM98NH8KMFB6qrX) | [22 Grandes Exitos](https://open.spotify.com/album/245rgwEnRg54XD7xQSCLOM) | 2:03 |
 
 Snapshot ID: `AAAAAKIMnWr69GbckWfr8nuNqJ1b70fT`

@@ -4,7 +4,7 @@
 
 > This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
 
-370 songs - 23 hr 42 min
+371 songs - 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Honey Get Your Towel Wet](https://open.spotify.com/track/2JEMggTd41sX4zvcJbqjHe) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:14 | 2023-03-06 | 2025-11-17 |
 | [Horse Thief's Blues](https://open.spotify.com/track/4BlE7I2ZuQXEPNv843pLrM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Sun of Our Life](https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR) | 2:59 | 2023-03-22 | 2026-08-29 |
 | [How Far From God](https://open.spotify.com/track/2kvGkFsasUmIdA8gvoUVvX) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis](https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG) | 2:02 | 2024-04-20 | 2025-08-30 |
-| [How Much We Can Bear \- Live](https://open.spotify.com/track/2JaZmjYuKNH5Csf5pIuaE3) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live and Kickin'](https://open.spotify.com/album/3AFJAp5xnLiMPBuncEdU79) | 5:14 | 2023-07-10 |  |
+| [How Much We Can Bear \- Live](https://open.spotify.com/track/2JaZmjYuKNH5Csf5pIuaE3) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live and Kickin'](https://open.spotify.com/album/3AFJAp5xnLiMPBuncEdU79) | 5:14 | 2023-07-10 | 2026-09-23 |
 | [Hymn](https://open.spotify.com/track/06EMyKNPZLiRJVS5t8B96n) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Sun of Our Life](https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR) | 4:50 | 2024-01-22 | 2024-07-18 |
 | [I am a Pilgrim](https://open.spotify.com/track/6Hm9igcDB2z8GzpwlUb8kQ) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Live at Gerde's Folk City](https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC) | 6:09 | 2023-01-03 | 2026-03-02 |
 | [I Am The Light](https://open.spotify.com/track/7uwAghiaMbMtR6kjtCJ8nU) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Complete Early Recordings Of Reverend Gary Davis](https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA) | 3:02 | 2022-05-25 |  |
@@ -165,6 +165,7 @@
 | [It's A Long Way To Tipperary](https://open.spotify.com/track/5zsiEbSVPGhbtHr5GzImzt) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:35 | 2024-07-05 | 2024-07-07 |
 | [It's a Long Way to Tipperary](https://open.spotify.com/track/1At0KAsl1QI6TnryjxADWJ) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:35 | 2022-10-12 | 2026-07-16 |
 | [Italian Rag](https://open.spotify.com/track/2qXjGxRs6kxHYXewUjhQbk) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:20 | 2022-05-27 | 2024-06-28 |
+| [It’s A Long Way To Tipperary \- Live](https://open.spotify.com/track/33pm3aLpJjSGA2Y48GczMy) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Gary Davis \- The Best of \(Live\)](https://open.spotify.com/album/5ZPJN0s0Fp8KR0ZQsaVqNT) | 3:28 | 2026-09-23 |  |
 | [Jesus Is Everywhere](https://open.spotify.com/track/5s3G7vg9fn00WXquapA6OF) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Blind Gary Davis](https://open.spotify.com/album/4eXDWspSXpOveNTqI1sJNG) | 3:28 | 2022-09-21 | 2026-03-12 |
 | [Jesus Met The Woman At The Well](https://open.spotify.com/track/0fHoO2FXWjnQhMwZUR9Wp3) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 3](https://open.spotify.com/album/7ujee14gIzKCnCCb0N2lSd) | 3:37 | 2024-10-29 | 2024-10-30 |
 | [Jesus Met the Woman at the Well](https://open.spotify.com/track/27mcxsEwHqVc2BNzmDMQDq) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:37 | 2022-11-20 | 2026-04-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 873,111 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,165 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 17 | [C'EST NOUS](https://open.spotify.com/track/0NbqOg775aApRnRvHHcTPz) | [Iss](https://open.spotify.com/artist/4BLLuraEiS8Sb3j5csO1jd), [Doulkha](https://open.spotify.com/artist/746NtgxeCDrfBTLUOOvjBw) | [C'EST NOUS](https://open.spotify.com/album/7xS9tt6smNa4H2Olu9yz63) | 3:06 |
 | 18 | [Histoire sans fin](https://open.spotify.com/track/1T8rMFY5DayEfuwnkIPYm8) | [BEN plg](https://open.spotify.com/artist/4Q4yUu2v7zN40G0LtsnY98), [MATHILDE](https://open.spotify.com/artist/0LcXDxH8dn2AGnkDPFIdW1) | [Histoire sans fin](https://open.spotify.com/album/02JpjRR8wn25lHoyMQzbEj) | 3:29 |
 | 19 | [Séminaire](https://open.spotify.com/track/2m0OFkYLkK2SysSwje4xAd) | [Bello&Dallas](https://open.spotify.com/artist/2zW6nGPGBEaGNENvqaw9lo) | [Sarah B.](https://open.spotify.com/album/1JRUjufuzfIUnJW9mPxGd7) | 2:33 |
-| 20 | [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 |
+| 20 | [Déstabilisé](https://open.spotify.com/track/00qC62jeyVSYuNISq9mGmK) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Dans l'arène](https://open.spotify.com/album/6YfcTA8389KZ0DTDjkioQK) | 4:16 |
 | 21 | [Jalouse](https://open.spotify.com/track/5M6bU1A2VHwWoKmHiYjrdU) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Diamant Noir](https://open.spotify.com/album/7LNFnwCFOuBNmlLwywpT3q) | 3:12 |
 | 22 | [Amiri](https://open.spotify.com/track/1rRMf5yOHijWyYICSRkxxT) | [Le Crime](https://open.spotify.com/artist/00edlcHg3ILdHtrYL54bxX), [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [Amiri](https://open.spotify.com/album/6hV6hjrXHXpACouXF1LeAa) | 2:56 |
 | 23 | [Maladie](https://open.spotify.com/track/0wuhzkktDMxALsD9kBri80) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Maladie](https://open.spotify.com/album/6u6sFuU2jLqnsTHqfQijj3) | 3:12 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 28 | [Elle m'a dit \(feat\. Haristone\)](https://open.spotify.com/track/3Jmcl5PTs5IdI3zsZoGKk2) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4), [Haristone](https://open.spotify.com/artist/4A1BIRTQQ1yNPwcg57Ubq7) | [Trapop](https://open.spotify.com/album/78oQ03M4EGrGOl5CpjH1Hv) | 3:27 |
 | 29 | [Réponds](https://open.spotify.com/track/2ffsmzPmhSoBpSSRVVdZXM) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Journal intime](https://open.spotify.com/album/7h7MqzSJ1wEXpjHzkevE6h) | 2:49 |
 | 30 | [Bucci Night](https://open.spotify.com/track/50HAXnnizAG0YDGfdB5SUN) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [A zéro](https://open.spotify.com/album/4AWES3QWC7U1heSUxheRVi) | 3:08 |
-| 31 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
+| 31 | [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 |
 | 32 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 33 | [Ε\. Signaler](https://open.spotify.com/track/0z0izoGFPCoPJKFi41azyb) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:21 |
 | 34 | [Cote à la hausse](https://open.spotify.com/track/3Kh2CbaeNyUp5PbjCh8PP5) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Et si j'échoue ?](https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu) | 2:56 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 37 | [BBL](https://open.spotify.com/track/0iWDbmI7AEIIVzNMuAU3F3) | [OG Plugging](https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx) | [BBL](https://open.spotify.com/album/0WJQOZdnqTTdQvdrYhMuev) | 2:15 |
 | 38 | [RENÉ CAOVILLA](https://open.spotify.com/track/4oJxjHkaEq07v25iTcDIxT) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [RENÉ CAOVILLA](https://open.spotify.com/album/0329NcB6dZrKNnkFIo4HpR) | 2:17 |
 | 39 | [Pilé](https://open.spotify.com/track/6amDI9Dbi93HDAAYiIARjL) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [L'undertaker, Pt.1](https://open.spotify.com/album/3HdJGZnFZVE89p5ULk5YLa) | 2:36 |
-| 40 | [RMB \(Ring My Bell\)](https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [RMB \(Ring My Bell\)](https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g) | 2:54 |
-| 41 | [PARLU](https://open.spotify.com/track/15phEH3Qqe3k1f94EhC5DA) | [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Numéro d'écrou](https://open.spotify.com/album/5d0BjgEFwZpszVVLbAbDBf) | 2:21 |
+| 40 | [Stop The Wedding!](https://open.spotify.com/track/3zOYmiNOuyDL0ClxJcEJ0T) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Stop The Wedding!](https://open.spotify.com/album/4dem9qxmFf4RD6fqoCH6wc) | 3:18 |
+| 41 | [RMB \(Ring My Bell\)](https://open.spotify.com/track/3z1qPPLWf0ytO4NyHS8pqS) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [RMB \(Ring My Bell\)](https://open.spotify.com/album/4pkAMeqsWDN1YtFHsKoD1g) | 2:54 |
 | 42 | [TERRIBLE MAN](https://open.spotify.com/track/0LM9OoiHTImJotTo0jMeeE) | [OG Plugging](https://open.spotify.com/artist/4nNMVdEVJRDHBVpKbvtsPx) | [TERRIBLE MAN](https://open.spotify.com/album/6FIfctGFvpjIrg13gzObEv) | 3:01 |
 | 43 | [Parfum quartier](https://open.spotify.com/track/1fMOAIge1jLxq4ONi9bIFL) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Parfum quartier](https://open.spotify.com/album/3sjKkgJkvnRwYPPnFcaoED) | 3:46 |
 | 44 | [Cinderella \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 8:00 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 69 | [On my mind](https://open.spotify.com/track/6gKQMPemGGxgdCgeqNMBBp) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [On my mind](https://open.spotify.com/album/43w6KiIP8mCiOCc1RFVcvT) | 2:43 |
 | 70 | [BbY WOW](https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 3:45 |
 
-Snapshot ID: `AAAAACQARUlxl7wCoK0nu4SVc7hTrBRW`
+Snapshot ID: `AAAAAEoB8DCI8Fi8dgtBS+Rs5jBQVoHD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 
 > 🔀 Hit shuffle &amp; meet new artists &amp; pop rock song\. ✚ Each track also joins tailored playlists\.  By @faceless.diversum 📸 Insta\. Follow, save &amp; share ! Submit here :
 
-[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,225 likes - 99 songs - 5 hr 59 min
+[DIVERSUM WORLD](https://open.spotify.com/user/1163990293) - 2,251 likes - 102 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,5 +107,8 @@ pretty - [cumulative](/playlists/cumulative/3Kx5VpTudCX0aBWuTvT0C1.md) - [plain]
 | 97 | [One Last Song](https://open.spotify.com/track/1DT7XGTsCepsPtNrDhouUL) | [Malabari](https://open.spotify.com/artist/4CnyEflqNfnU0nGAt0PQ77) | [...And Into The Abyss](https://open.spotify.com/album/3ZohHVNaWlwn0FZfqB7LfP) | 6:01 |
 | 98 | [What Should I Name This](https://open.spotify.com/track/2TgLzxlqxUIwWaB48gk2Gz) | [Lil Cam 5 1](https://open.spotify.com/artist/1IMt4WYpEKfzXRHev8wlnb) | [What Should I Name This](https://open.spotify.com/album/5UCy77QScrnxdDPHdWUdF1) | 2:43 |
 | 99 | [Scars](https://open.spotify.com/track/6Y593laIPH7qd4Lwz3n7ct) | [Nat Longordo](https://open.spotify.com/artist/6LsIJrk7MwFz6waLUTV8hg), [Nick Barone](https://open.spotify.com/artist/1jDa5eIwAZAqVMjV23pLrA) | [Scars](https://open.spotify.com/album/1qsee7DPTIy5vWAL9e5MZi) | 3:50 |
+| 100 | [Cherish the Day](https://open.spotify.com/track/63xUpIAXVJVwp9dnvL1Z4j) | [Fret Salad](https://open.spotify.com/artist/62loXA4WFS6NRXk6LwU0F7) | [Cherish the Day](https://open.spotify.com/album/4zukdejN15gPm86yt7PTCg) | 4:27 |
+| 101 | [Ill Prepared](https://open.spotify.com/track/0jSvYQyCBmtVcXb8uSUGvm) | [Aquarius Blue](https://open.spotify.com/artist/1wDJPxelLABSCLlS39l5Y0) | [Black & Blue 4u](https://open.spotify.com/album/6kEDZDoPcsW1oAL5sK5UzT) | 3:54 |
+| 102 | [Who whatever](https://open.spotify.com/track/4cA8Ezw2mxVgYI4hi0ml0G) | [maryann connolly](https://open.spotify.com/artist/1Kfx404oSvrK7zHM8m68Tq) | [Who whatever](https://open.spotify.com/album/0PdZuDVoUbsZ6Z126mvdnp) | 3:09 |
 
-Snapshot ID: `AAAC1/wPSTjQtPFPAeP+uT8jc+bBJyDm`
+Snapshot ID: `AAAC2hL4LCzhkwQS7spSMXXpcTBd7USa`

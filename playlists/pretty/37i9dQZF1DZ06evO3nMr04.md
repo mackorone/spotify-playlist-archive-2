@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 
 > This is Kanye West\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,491,125 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,491,313 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3nMr04.md) - [plain]
 | 49 | [Heard 'Em Say](https://open.spotify.com/track/6yIjtVtnOBeC8SwdVHzAuF) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:23 |
 | 50 | [I CAN’T WAIT \(feat\. Ms\. Lauryn Hill\)](https://open.spotify.com/track/6ImNhLq3RabOnEHfoRdvd4) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [BULLY \- DELUXE](https://open.spotify.com/album/3hwveWhYFxGDLy6K6xlwFh) | 2:17 |
 
-Snapshot ID: `aq8iAAAAAAAjk+OWLzz1QS12KPqcKv7S`
+Snapshot ID: `arBzgAAAAACPoaCqC/vcQp+jhsA0wIZm`

@@ -25029,6 +25029,24 @@
     },
     {
       "album": {
+        "name": "Definitely Maybe (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382266,
+      "name": "Whatever - Remastered",
+      "url": "https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79"
+    },
+    {
+      "album": {
         "name": "Full Speed Nowhere",
         "url": "https://open.spotify.com/album/2Ut4IwFNYCY41n6oSsn7Rh"
       },

@@ -1,6 +1,6 @@
 {
   "description": "lost in a haze",
-  "num_followers": 179877,
+  "num_followers": 179872,
   "original_name": "dazed",
   "owner": {
     "name": "Spotify",
@@ -779,26 +779,6 @@
     {
       "added_at": "2025-11-13 16:46:16",
       "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
-      },
-      "artists": [
-        {
-          "name": "Nao",
-          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
-        },
-        {
-          "name": "Abhi//Dijon",
-          "url": "https://open.spotify.com/artist/1crlEwxm5dcQjCcgCJEyqg"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Adore You (feat. Abhi Dijon)",
-      "url": "https://open.spotify.com/track/25isxLhIKV8lNSecmvY700"
-    },
-    {
-      "added_at": "2025-11-13 16:46:16",
-      "album": {
         "name": "Endless No Mores - A COLORS SHOW",
         "url": "https://open.spotify.com/album/50yfipy2MBrEIxT36zC1gk"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 179238,
       "name": "Endless No Mores - A COLORS SHOW",
       "url": "https://open.spotify.com/track/0UpZJ1hUK4q1yzjQzXI32B"
+    },
+    {
+      "added_at": "2025-11-13 16:46:16",
+      "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/2BmceJHiy9RTyvaB1IU0P6"
+      },
+      "artists": [
+        {
+          "name": "Nao",
+          "url": "https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC"
+        },
+        {
+          "name": "Abhi//Dijon",
+          "url": "https://open.spotify.com/artist/1crlEwxm5dcQjCcgCJEyqg"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Adore You (feat. Abhi Dijon)",
+      "url": "https://open.spotify.com/track/25isxLhIKV8lNSecmvY700"
     },
     {
       "added_at": "2025-11-13 16:46:16",

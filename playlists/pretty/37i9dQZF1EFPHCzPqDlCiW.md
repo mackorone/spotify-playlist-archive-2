@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248 likes - 170 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 249 likes - 170 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 80 | [Dinner Table](https://open.spotify.com/track/4DQ1lXSZMVJjFw8Mj1oqqE) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Älskar](https://open.spotify.com/album/4M1E62jbwgbjy6kPer9vSu) | 3:30 |
 | 81 | [Ruins](https://open.spotify.com/track/4jfB2EGWbtWzDoM696Ch6u) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Ruins](https://open.spotify.com/album/13xj625T4hyjosgTEZBRLH) | 2:40 |
 | 82 | [Shoot Down The Sun](https://open.spotify.com/track/1agXGm6VaKxT5DckyuhCJc) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Shoot Down The Sun](https://open.spotify.com/album/1E9dHNaYD5tfmslrOwNRyj) | 3:10 |
-| 83 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 |
-| 84 | [Beautiful Life](https://open.spotify.com/track/15pViH8S6yor5SmFrV03ic) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Beautiful Life](https://open.spotify.com/album/2sGLInJA6FWZs6c8PeAG6i) | 2:57 |
+| 83 | [Beautiful Life](https://open.spotify.com/track/15pViH8S6yor5SmFrV03ic) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Beautiful Life](https://open.spotify.com/album/2sGLInJA6FWZs6c8PeAG6i) | 2:57 |
+| 84 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 |
 | 85 | [You Matter to Me](https://open.spotify.com/track/2Kr1yWpmD7t3wyuu2fVhMU) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:13 |
 | 86 | [Start Again](https://open.spotify.com/track/1FypvNODDT5HbtPbIDsugy) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:40 |
 | 87 | [Novocaine](https://open.spotify.com/track/05TZjnjIisRVDp37lkhq8e) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:18 |
@@ -152,16 +152,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 142 | [How It Was Before](https://open.spotify.com/track/19oXrZhSs9V7jk0GwYp24M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [How It Was Before](https://open.spotify.com/album/7kv6ul5aK5WUJD7cgWiM15) | 2:50 |
 | 143 | [Who's Gonna Love You More](https://open.spotify.com/track/1tKgSDKLiGecDcbxm4kOIG) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [Bitter](https://open.spotify.com/album/4RSwF4HXGFzdtxnV3xuxjT) | 2:57 |
 | 144 | [Dream State](https://open.spotify.com/track/2ZxAVcdUhb3yoq1UAfOE4K) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs) | [Dream State](https://open.spotify.com/album/6p0HoxC5QE98NkCSTIngpN) | 3:46 |
-| 145 | [Paradise](https://open.spotify.com/track/02QcMeK6YrwvOWQ9XWpyYp) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Cautionary Tales of Youth](https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9) | 3:05 |
-| 146 | [Dark](https://open.spotify.com/track/7zTnmcYglZxfA734WGRRXk) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [DARK](https://open.spotify.com/album/7kpzdqlPXqyEFWVIONkhN4) | 2:48 |
+| 145 | [Dark](https://open.spotify.com/track/7zTnmcYglZxfA734WGRRXk) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [DARK](https://open.spotify.com/album/7kpzdqlPXqyEFWVIONkhN4) | 2:48 |
+| 146 | [Paradise](https://open.spotify.com/track/02QcMeK6YrwvOWQ9XWpyYp) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Cautionary Tales of Youth](https://open.spotify.com/album/7oZTFBcPmwuv0L2AQI1yO9) | 3:05 |
 | 147 | [All Around The World](https://open.spotify.com/track/68O6kIl42XxQBltMi3g8mZ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:31 |
 | 148 | [Cigarette \- Acoustic](https://open.spotify.com/track/0G5pSMytYwa5Ep7VzqB8Ab) | [MICHAELA](https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V) | [Cigarette \(Acoustic\)](https://open.spotify.com/album/4jRskEEfU18eb9nxCgBLYa) | 2:59 |
-| 149 | [Grandparents](https://open.spotify.com/track/7dUMDRUmDZ4taHXJXHq7xW) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Just A Few Folk](https://open.spotify.com/album/7HffRJ97ixJ3qpKKYYBQGZ) | 2:26 |
-| 150 | [Better Man](https://open.spotify.com/track/75o9dfDkw3F6hjSujBJQZi) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Better Man](https://open.spotify.com/album/6pFTHq7uBtEGJBjlOx5YDn) | 3:14 |
-| 151 | [Pronto](https://open.spotify.com/track/5E9RUpwOARvN0qFz66WMVk) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Pronto](https://open.spotify.com/album/0Y2YoZHvqrtkvGWA6CnJos) | 3:02 |
-| 152 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
-| 153 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
-| 154 | [I'll Be There](https://open.spotify.com/track/2Js4tt42TKBXl6pI1uZHCk) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [I'll Be There](https://open.spotify.com/album/7n6iRW15pV3Eg0IjxfbAGB) | 2:38 |
+| 149 | [I'll Be There](https://open.spotify.com/track/2Js4tt42TKBXl6pI1uZHCk) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Aya Anne](https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1) | [I'll Be There](https://open.spotify.com/album/7n6iRW15pV3Eg0IjxfbAGB) | 2:38 |
+| 150 | [Grandparents](https://open.spotify.com/track/7dUMDRUmDZ4taHXJXHq7xW) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Just A Few Folk](https://open.spotify.com/album/7HffRJ97ixJ3qpKKYYBQGZ) | 2:26 |
+| 151 | [Better Man](https://open.spotify.com/track/75o9dfDkw3F6hjSujBJQZi) | [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [Better Man](https://open.spotify.com/album/6pFTHq7uBtEGJBjlOx5YDn) | 3:14 |
+| 152 | [Pronto](https://open.spotify.com/track/5E9RUpwOARvN0qFz66WMVk) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Peachy Pete](https://open.spotify.com/artist/0bsZ7TPFHa56cscyXwqfER) | [Pronto](https://open.spotify.com/album/0Y2YoZHvqrtkvGWA6CnJos) | 3:02 |
+| 153 | [Closure](https://open.spotify.com/track/3Z0uXmisVHmzoiSo49tUFy) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Closure](https://open.spotify.com/album/5zpvrdeJU6NWitQt8b9lhv) | 3:02 |
+| 154 | [Hurricane](https://open.spotify.com/track/1it55uap8fb6m5EudcE0yG) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 3:27 |
 | 155 | [Trouble](https://open.spotify.com/track/7zPBtvZpPAOy9fgfdgmyiC) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [We Were Thunder](https://open.spotify.com/album/6jYRzhiEnzVANGGHHJZ1C3) | 3:21 |
 | 156 | [Hearts on Fire](https://open.spotify.com/track/0VfCWPRxguIufZ4KMDrlAr) | [Hannah Trigwell](https://open.spotify.com/artist/7AEPFGsBBHqMtHGiYDFVQy) | [Rectify](https://open.spotify.com/album/0pf9DOuwPtzCHT2RF5wOE3) | 4:00 |
 | 157 | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/track/63fOfmMz3g2xEwc3CbVPhv) | [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [Sondr](https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc), [Bryn Christopher](https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv) | [Raise The Roof \(feat\. Bryn Christopher\)](https://open.spotify.com/album/2P6UbvQ5yPsFHspB9CO5mj) | 2:31 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 169 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 170 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `Acc7pgAAAABpXH7JYgC2UrTjIupn5Lto`
+Snapshot ID: `AcdBZAAAAAC1YTwOh3lWWyDGB0BRxLBh`

@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 1070965,
+  "num_followers": 1070923,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "Ugly things",
-        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 209924,
-      "name": "Ugly things",
-      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 233552,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -299,22 +299,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "Twizzler",
-        "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 174349,
-      "name": "Twizzler",
-      "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 305875,
       "name": "Over country",
       "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "Twizzler",
+        "url": "https://open.spotify.com/album/2F1Za0y4KX2xJifGiCg47z"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 174349,
+      "name": "Twizzler",
+      "url": "https://open.spotify.com/track/55kn7P8aUDI3CyGx1jlCLT"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "Welcome to the Mood (Special Edition)",
-        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 183733,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2ZVj3bdUbAFlbcKMT8mdtD"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 191118,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1DAJbUvtSmmLfAXzQvE9PT"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "Welcome to the Mood (Special Edition)",
+        "url": "https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 183733,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "The Art Of Pretending To Swim",
-        "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 248253,
-      "name": "A Trick of the Light",
-      "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "Toujours des fleurs",
         "url": "https://open.spotify.com/album/2bl3fqhASHS45oLpOD6Jiy"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 281757,
       "name": "Mon idole",
       "url": "https://open.spotify.com/track/7hw9fHpl79i897B0wOmor8"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "The Art Of Pretending To Swim",
+        "url": "https://open.spotify.com/album/5qhqqenkgCAp3mCKczvvNU"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 248253,
+      "name": "A Trick of the Light",
+      "url": "https://open.spotify.com/track/1rCPg5GOtes0FIo1BzgvUi"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "H24",
-        "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
-        }
-      ],
-      "duration_ms": 216939,
-      "name": "H24",
-      "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "nicotine",
         "url": "https://open.spotify.com/album/7CPreu4yLanbK0BZrJRFoe"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 198120,
       "name": "nicotine",
       "url": "https://open.spotify.com/track/2DDqh8VKrNHo1xtzdydLfA"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "H24",
+        "url": "https://open.spotify.com/album/3iUUCPraTlws013TgyuGwz"
+      },
+      "artists": [
+        {
+          "name": "Noor",
+          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
+        }
+      ],
+      "duration_ms": 216939,
+      "name": "H24",
+      "url": "https://open.spotify.com/track/7l1uWHOyiRihKogGUOJizg"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "Les bruits de la ville",
-        "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
-      },
-      "artists": [
-        {
-          "name": "Voyou",
-          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
-        }
-      ],
-      "duration_ms": 264880,
-      "name": "Il neige",
-      "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "paradox",
         "url": "https://open.spotify.com/album/3pexxVelQfabVmGJNTmq24"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 309637,
       "name": "paradox",
       "url": "https://open.spotify.com/track/7caBLs17zpDr8qfRPoTPw3"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "Les bruits de la ville",
+        "url": "https://open.spotify.com/album/5ycDoKjwKilmVDuCb3ezEI"
+      },
+      "artists": [
+        {
+          "name": "Voyou",
+          "url": "https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Il neige",
+      "url": "https://open.spotify.com/track/0zGQ0FAGQC6O8GFJzJwvof"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "Rupture (Version acoustique)",
-        "url": "https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun"
-      },
-      "artists": [
-        {
-          "name": "Laurie Darmon",
-          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
-        }
-      ],
-      "duration_ms": 150896,
-      "name": "Rupture (Version acoustique)",
-      "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "One More Second",
         "url": "https://open.spotify.com/album/11wtIwzSbBoVffQGIEWfIN"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 322573,
       "name": "One More Second",
       "url": "https://open.spotify.com/track/6T8pTLAnRiN4LZKhN5ZrKE"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "Rupture (Version acoustique)",
+        "url": "https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun"
+      },
+      "artists": [
+        {
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+        }
+      ],
+      "duration_ms": 150896,
+      "name": "Rupture (Version acoustique)",
+      "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
+        "name": "Still I Wait",
+        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
+      },
+      "artists": [
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Still I Wait",
+      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
         "name": "Paris-Madrid",
         "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 199833,
       "name": "Paris-Madrid",
       "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
-        "name": "Still I Wait",
-        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
-      },
-      "artists": [
-        {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Still I Wait",
-      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "only human",
-        "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 214032,
-      "name": "only human",
-      "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/7d05HveiLG4742vBLElcSE"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 186869,
       "name": "If Only",
       "url": "https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "only human",
+        "url": "https://open.spotify.com/album/5qCvxLDPjQ7IPZz9IIhZgm"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 214032,
+      "name": "only human",
+      "url": "https://open.spotify.com/track/4EPemjVgAz4YbDgaRYUdta"
     },
     {
       "added_at": "2026-09-17 22:00:30",

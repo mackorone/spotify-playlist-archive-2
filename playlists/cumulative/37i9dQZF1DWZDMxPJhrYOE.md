@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,290 songs - 2 day 19 hr 16 min
+1,291 songs - 2 day 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Blodigt \(feat\. Annika\)](https://open.spotify.com/track/2EVJSQTl0bqHISNlJbhNIc) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Blodigt \(feat\. Annika\)](https://open.spotify.com/album/2a4DFqBDsOnLkeyJWQtNtI) | 3:02 | 2025-01-24 | 2025-04-11 |
 | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline \(with Jelly Roll\)](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-05-22 | 2025-08-22 |
 | [Blow My Mind](https://open.spotify.com/track/0VBACXaInM2kzjIpklxIG2) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Blow My Mind](https://open.spotify.com/album/642ce0QAKRa0LYwIVwPK6w) | 2:57 | 2026-03-13 | 2026-04-10 |
+| [Blue Light \(feat\. Blood Orange\)](https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Dream House](https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6) | 3:08 | 2026-09-17 |  |
 | [Blue Moon](https://open.spotify.com/track/20R5YwjmKubeva79prlvJq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Midnight Sun](https://open.spotify.com/album/0nte5x6fXd37Nt7jALSmx0) | 3:02 | 2025-09-25 | 2026-01-02 |
 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 | 2025-04-10 | 2025-04-18 |
 | [Bluebird](https://open.spotify.com/track/2pJL7VBbeO4ZqVIUDf0x9H) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Bluebird](https://open.spotify.com/album/2pOID04Y4JnuqDtCmB8JIw) | 4:02 | 2025-04-17 | 2025-07-18 |
@@ -352,7 +353,7 @@
 | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/track/0nac7FVmtrYm0O3Iu27ijo) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [Every Single Weekend \(feat\. Jamie xx\)](https://open.spotify.com/album/0bDV16KDFYNix2fGuUQ6cw) | 2:10 | 2026-06-04 | 2026-08-29 |
 | [Everybody Scream](https://open.spotify.com/track/5I7zhiRLOa8VqBwyuVtfJW) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Everybody Scream](https://open.spotify.com/album/5u1NqZCwMNykkWMrCaR4bu) | 4:04 | 2025-08-21 | 2025-11-21 |
 | [Everyone’s A Star!](https://open.spotify.com/track/0pcU4T0Gz8XUobyjdoWb6f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [EVERYONE'S A STAR!](https://open.spotify.com/album/0bXFiluFJjk70GKu0Q7HUa) | 3:15 | 2025-11-13 | 2026-02-20 |
-| [Everything in the shade](https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Everything in the shade](https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ) | 3:36 | 2026-09-10 |  |
+| [Everything in the shade](https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Everything in the shade](https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ) | 3:36 | 2026-09-10 | 2026-09-23 |
 | [Everything's Fine \(PM\)](https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Everything's Fine](https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR) | 2:45 | 2026-06-26 | 2026-08-21 |
 | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/track/7AKwWqnoMmvCqBQtcdIECG) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [ExtraL \(feat\. Doechii\)](https://open.spotify.com/album/4EBFO1svuZ9BMyO78JZ9zr) | 2:47 | 2025-02-21 | 2025-05-23 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-07-01 | 2024-08-01 |

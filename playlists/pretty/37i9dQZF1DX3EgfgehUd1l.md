@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,933 likes - 80 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,941 likes - 80 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 34 | [St Therese of the Roses](https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Magic Of Malcolm Vaughan](https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU) | 2:52 |
 | 35 | [The Great Pretender \- Single Version](https://open.spotify.com/track/7DPxY0fRDRHeWRtLZZoOyt) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Rock N' Roll Legends](https://open.spotify.com/album/6AfKX3qduiaVOzcvNXNlib) | 2:39 |
 | 36 | [Stranger in Paradise](https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV) | [Mr\. Broadway](https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa) | 3:07 |
-| 37 | [The Black Hills of Dakota \(with Paul Weston & His Orchestra\) \- Version 1](https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Calamity Jane / The Pajama Game](https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG) | 2:58 |
-| 38 | [Make It Soon \- 1999 Remaster](https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [The Best Of Tony Brent](https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn) | 2:34 |
+| 37 | [Make It Soon \- 1999 Remaster](https://open.spotify.com/track/20SLjXdA0H3I5IRf4E07Hi) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [The Best Of Tony Brent](https://open.spotify.com/album/26pN1w1fbL5t8EDI5XvaOn) | 2:34 |
+| 38 | [The Black Hills of Dakota \(with Paul Weston & His Orchestra\) \- Version 1](https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Calamity Jane / The Pajama Game](https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG) | 2:58 |
 | 39 | [I'm In Love Again](https://open.spotify.com/track/4YwJx3IDgQQY75yGMXG8A0) | [Fats Domino](https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd) | [Legends Of Rock n' Roll](https://open.spotify.com/album/4b9RizMvXeRHO3ZihUfas6) | 1:58 |
 | 40 | [Poor Little Fool](https://open.spotify.com/track/1ugZWl7RmEq95dea9hqorZ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [The Legendary Masters Series \(Volume 1\)](https://open.spotify.com/album/5R27t83T8Jhltww09lriMo) | 2:33 |
 | 41 | [I Believe](https://open.spotify.com/track/049uxirFkHOefJ0yqPW8Kk) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix) | [Frankie Laine's Greatest Hits](https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD) | 2:10 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 73 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:36 |
 | 74 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/3bOfJWVevRIu7AUss7GcKe) | [The Crew Cuts](https://open.spotify.com/artist/49ttCh41vxv6R4r8S2YwXv) | [60's Triple set](https://open.spotify.com/album/3FApcoTb78nsAPWZYJBdD7) | 2:53 |
 | 75 | [Rose Marie](https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Original Hits \- Country](https://open.spotify.com/album/2CLBwQ3j9tbB1yUVtoIf6n) | 2:22 |
-| 76 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |
-| 77 | [Changing Partners \- Remastered](https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR) | 2:50 |
+| 76 | [Changing Partners \- Remastered](https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [All the Greatest Hits Ever Made, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR) | 2:50 |
+| 77 | [Finger of Suspicion](https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En) | [Dickie Valentine](https://open.spotify.com/artist/60JUOTnRuDTetm7Hiwonev) | [Climb Every Mountain](https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq) | 2:49 |
 | 78 | [A Woman in Love \(with Percy Faith & His Orchestra\)](https://open.spotify.com/track/51kNuqPnmllwTygxcMhC7P) | [Frankie Laine](https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix), [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Hits](https://open.spotify.com/album/52dzyLWumJQhP25q0BCBRX) | 2:20 |
-| 79 | [Around the World](https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Greatest Hits: 50s](https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t) | 2:42 |
-| 80 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
+| 79 | [We Will Make Love](https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW) | [Russ Hamilton](https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV) | [The Best Of The 50's \(Fifties\)](https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud) | 2:40 |
+| 80 | [Around the World](https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [Greatest Hits: 50s](https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t) | 2:42 |
 
 Snapshot ID: `AAAAAGeQkfpfy5w+F6wxsH1dyLv4C5Rs`

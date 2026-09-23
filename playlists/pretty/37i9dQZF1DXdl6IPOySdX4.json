@@ -1,6 +1,6 @@
 {
   "description": "you up?",
-  "num_followers": 2216919,
+  "num_followers": 2217215,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Indigo (Extended)",
-        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 184203,
-      "name": "Under The Influence",
-      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 191600,
       "name": "Needed Me",
       "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 184203,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "added_at": "2025-08-17 04:15:13",
@@ -645,20 +645,24 @@
       "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg"
     },
     {
-      "added_at": "2025-07-03 03:36:52",
+      "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Heart Shaped World",
-        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
       },
       "artists": [
         {
-          "name": "Chris Isaak",
-          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 289066,
-      "name": "Wicked Game",
-      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
+      "duration_ms": 276960,
+      "name": "Sativa",
+      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -697,24 +701,20 @@
       "url": "https://open.spotify.com/track/4PhsKqMdgMEUSstTDAmMpg"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
+      "added_at": "2025-07-03 03:36:52",
       "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/7CAAClnSiXdMibPT1oyl4k"
+        "name": "Heart Shaped World",
+        "url": "https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
         }
       ],
-      "duration_ms": 276960,
-      "name": "Sativa",
-      "url": "https://open.spotify.com/track/2pg2TiYo9Rb8KeB5JjP7jS"
+      "duration_ms": 289066,
+      "name": "Wicked Game",
+      "url": "https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-08-02 04:00:00",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 187557,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 187557,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2"
     },
     {
       "added_at": "2024-08-02 04:00:00",
@@ -1373,22 +1373,6 @@
       "url": "https://open.spotify.com/track/1T575AhHueYinKSDflEsGK"
     },
     {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "On My Own",
-        "url": "https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL"
-      },
-      "artists": [
-        {
-          "name": "Darci",
-          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
-        }
-      ],
-      "duration_ms": 171692,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
-    },
-    {
       "added_at": "2025-11-21 05:00:31",
       "album": {
         "name": "WHEN A GIRL CRIES",
@@ -1403,6 +1387,22 @@
       "duration_ms": 124590,
       "name": "use me!!!!!!!",
       "url": "https://open.spotify.com/track/4RvaI6d8mWCfEcGffUN52w"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "On My Own",
+        "url": "https://open.spotify.com/album/0wylw2oByuJ6xLF3j0QoKL"
+      },
+      "artists": [
+        {
+          "name": "Darci",
+          "url": "https://open.spotify.com/artist/1lAvOODEAbUI5b51WRBbdx"
+        }
+      ],
+      "duration_ms": 171692,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/0F4FejjWi3bf5vGOkuQwPS"
     },
     {
       "added_at": "2024-08-02 04:00:00",

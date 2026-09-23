@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1024910,
+  "num_followers": 1024858,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "Cupido",
-        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 174369,
-      "name": "Cupido",
-      "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
         "name": "Bendito Verano",
         "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 176285,
       "name": "ALMA",
       "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
+        "name": "Cupido",
+        "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 174369,
+      "name": "Cupido",
+      "url": "https://open.spotify.com/track/04ndZkbKGthTgYSv3xS7en"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -867,6 +867,30 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
+        "name": "CARACAS EN EL 2000",
+        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Jerry Di",
+          "url": "https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak"
+        }
+      ],
+      "duration_ms": 227784,
+      "name": "CARACAS EN EL 2000",
+      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
         "name": "CANCI\u00d3N PARA REGRESAR",
         "url": "https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7"
       },
@@ -895,26 +919,18 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "CARACAS EN EL 2000",
-        "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
+        "name": "Wapa",
+        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
       },
       "artists": [
         {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
           "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/3tveA7l6PmZICdkhBPVvak"
+          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
         }
       ],
-      "duration_ms": 227784,
-      "name": "CARACAS EN EL 2000",
-      "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+      "duration_ms": 159776,
+      "name": "Wapa",
+      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -939,22 +955,6 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "Wapa",
-        "url": "https://open.spotify.com/album/1wJB6OXKXyK6l0JYPNrEVq"
-      },
-      "artists": [
-        {
-          "name": "Jerry Di",
-          "url": "https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT"
-        }
-      ],
-      "duration_ms": 159776,
-      "name": "Wapa",
-      "url": "https://open.spotify.com/track/3pKQxo7IgfYkT2BmU4yr4w"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
         "name": "blackout \ud83e\uddca",
         "url": "https://open.spotify.com/album/6BWhAZgUrFRWSfXbCaIz2E"
       },
@@ -975,30 +975,6 @@
       "duration_ms": 182282,
       "name": "blackout \ud83e\uddca",
       "url": "https://open.spotify.com/track/2efbgTtEGNpsUZaOfgRTR6"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
-        "name": "Volver",
-        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 232149,
-      "name": "Volver",
-      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1035,6 +1011,30 @@
       "duration_ms": 181960,
       "name": "El \u00c1rbol",
       "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
+        "name": "Volver",
+        "url": "https://open.spotify.com/album/6f8MqmZx3H4khLNI6YH69s"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 232149,
+      "name": "Volver",
+      "url": "https://open.spotify.com/track/61C7zXd4t2Zuhz6DRwgsLM"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
+        "name": "Las Mujeres Ya No Lloran",
+        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172503,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -1647,26 +1667,6 @@
       "duration_ms": 199880,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
-        "name": "Las Mujeres Ya No Lloran",
-        "url": "https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 172503,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/5JKk6Gh5CLlwpbPz48eWtB"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1851,6 +1851,22 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
+        "name": "SAN BLAS",
+        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "san blaS",
+      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
         "name": "Mi Reina",
         "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 183891,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
-        "name": "SAN BLAS",
-        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "san blaS",
-      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

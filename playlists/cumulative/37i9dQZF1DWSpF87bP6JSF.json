@@ -3681,6 +3681,24 @@
     },
     {
       "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
+    },
+    {
+      "album": {
         "name": "Con otra",
         "url": "https://open.spotify.com/album/2waOhmvYhyi4AAlS3mLLaD"
       },
@@ -16744,7 +16762,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 138994,
       "name": "TOTOTO (+4)",
       "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists in the UK and Ireland. Cover: Otik",
+  "description": "The best new music from independent artists in the UK and Ireland. Cover: pyncher",
   "name": "Fresh Finds UK & IE",
   "tracks": [
     {
@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 135000,
       "name": "Asteroid",
       "url": "https://open.spotify.com/track/6hugJArY6CCwT6iuXA5O3d"
@@ -9370,7 +9370,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 178500,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/5W9GYaW9EHNUGgPPLjlK9f"
@@ -23169,6 +23169,24 @@
     },
     {
       "album": {
+        "name": "Go Getter",
+        "url": "https://open.spotify.com/album/7fFnIuOtfAy8NNJod3BCa8"
+      },
+      "artists": [
+        {
+          "name": "Clara Mann",
+          "url": "https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214866,
+      "name": "Go Getter",
+      "url": "https://open.spotify.com/track/3kHD6Gpqyw71PQfyKpOS4N"
+    },
+    {
+      "album": {
         "name": "Go Hard or Go Yard",
         "url": "https://open.spotify.com/album/1zmVKyrVhStxU1IYBEveZu"
       },
@@ -29603,6 +29621,24 @@
     },
     {
       "album": {
+        "name": "I Tried",
+        "url": "https://open.spotify.com/album/5ocn987lj68ns6WYkmSAYZ"
+      },
+      "artists": [
+        {
+          "name": "Trooh Hippi",
+          "url": "https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132546,
+      "name": "I Tried",
+      "url": "https://open.spotify.com/track/1oyjOqbtRMnjc6gG6eovDT"
+    },
+    {
+      "album": {
         "name": "I wanna dance with u",
         "url": "https://open.spotify.com/album/62Bys6IKj8qxeq3NCQNj10"
       },
@@ -32098,7 +32134,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 343944,
       "name": "Isn't He Funny?",
       "url": "https://open.spotify.com/track/4RLCHXFRTWiAYUhdacWmSx"
@@ -33254,6 +33290,24 @@
       "duration_ms": 209186,
       "name": "Just A Girl",
       "url": "https://open.spotify.com/track/3A4A2RCqyviAQMUbM91jwq"
+    },
+    {
+      "album": {
+        "name": "just a thought",
+        "url": "https://open.spotify.com/album/6738S0SifaNdjiM3wB9ai5"
+      },
+      "artists": [
+        {
+          "name": "BLONDETING",
+          "url": "https://open.spotify.com/artist/5tOtqDwpHljDsBGKASlPk2"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180500,
+      "name": "just a thought",
+      "url": "https://open.spotify.com/track/5LHPVqYpTX6ZG6VMcY7xIz"
     },
     {
       "album": {
@@ -36264,7 +36318,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 205669,
       "name": "London Tonight",
       "url": "https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO"
@@ -37340,6 +37394,28 @@
       "duration_ms": 177107,
       "name": "Love You All The Same",
       "url": "https://open.spotify.com/track/2shllo5ACQMEUc8n0MtC7x"
+    },
+    {
+      "album": {
+        "name": "Love You Better",
+        "url": "https://open.spotify.com/album/0wnJblklxv7hIgSNpYyS5f"
+      },
+      "artists": [
+        {
+          "name": "pyncher",
+          "url": "https://open.spotify.com/artist/66NBYDmR4OTIL8AuMvKTK7"
+        },
+        {
+          "name": "Phoebe Green",
+          "url": "https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200587,
+      "name": "Love You Better",
+      "url": "https://open.spotify.com/track/0OAZvY29RSoHwzfUuSHrvv"
     },
     {
       "album": {
@@ -48850,7 +48926,7 @@
       ],
       "date_added": "2026-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 149665,
       "name": "Put Some Miles On It",
       "url": "https://open.spotify.com/track/4miuDgDJTSi3wsuhv8m6yV"
@@ -54497,6 +54573,24 @@
     },
     {
       "album": {
+        "name": "Dreams For Somebody Else (Extended Edition)",
+        "url": "https://open.spotify.com/album/26LvHNH6I5Mjs9iyULLAMk"
+      },
+      "artists": [
+        {
+          "name": "White Flowers",
+          "url": "https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251301,
+      "name": "Smiling Through The Days",
+      "url": "https://open.spotify.com/track/0KpwzbK4tAFaI5eLvdeITw"
+    },
+    {
+      "album": {
         "name": "SMOKING KILLS",
         "url": "https://open.spotify.com/album/5W3jH8lCxCQ3s5Bf4h1kEA"
       },
@@ -55726,7 +55820,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 145482,
       "name": "SPITE",
       "url": "https://open.spotify.com/track/4naIp61Fl4k54Zr1TIS5c5"
@@ -64400,6 +64494,24 @@
       "duration_ms": 186773,
       "name": "waiting on time",
       "url": "https://open.spotify.com/track/5fZ9ls5QMb0SpqgGsjq47M"
+    },
+    {
+      "album": {
+        "name": "waiver",
+        "url": "https://open.spotify.com/album/504P2S09vudLMkiUkBNsvu"
+      },
+      "artists": [
+        {
+          "name": "JXMESC",
+          "url": "https://open.spotify.com/artist/5lWNzjzicz1QAPdZfWZo6x"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158796,
+      "name": "waiver",
+      "url": "https://open.spotify.com/track/1Mg1NPBRBxPqFg5eERLBJa"
     },
     {
       "album": {

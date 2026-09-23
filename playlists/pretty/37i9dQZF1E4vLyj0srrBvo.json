@@ -1,6 +1,6 @@
 {
   "description": "With Pastel Ghost, Phantogram, Mareux and more",
-  "num_followers": 41637,
+  "num_followers": 41681,
   "original_name": "Grimes Radio",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Moon and the Melodies (2024 Remaster)",
+        "url": "https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm"
+      },
+      "artists": [
+        {
+          "name": "Cocteau Twins",
+          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+        },
+        {
+          "name": "Harold Budd",
+          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+        }
+      ],
+      "duration_ms": 189632,
+      "name": "Sea, Swallow Me - 2024 Remaster",
+      "url": "https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Youth Novels",
         "url": "https://open.spotify.com/album/6zBW3pmU291VbFHq4EdU8C"
       },
@@ -139,30 +159,6 @@
       "duration_ms": 273426,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/6PZDPg3dZgJkNL6nVMUB4b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deadlights",
-        "url": "https://open.spotify.com/album/3iVTMUgpo7XpqqVHBO0wz3"
-      },
-      "artists": [
-        {
-          "name": "Myths",
-          "url": "https://open.spotify.com/artist/0HNS0Re91npRDX0wSo14DZ"
-        },
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "Majical Cloudz",
-          "url": "https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3"
-        }
-      ],
-      "duration_ms": 318720,
-      "name": "The Horizon",
-      "url": "https://open.spotify.com/track/4Q59V76RnrbeHUNYXMlBoJ"
     },
     {
       "added_at": null,
@@ -251,22 +247,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4"
+        "name": "Deadlights",
+        "url": "https://open.spotify.com/album/3iVTMUgpo7XpqqVHBO0wz3"
       },
       "artists": [
         {
-          "name": "Coco & Clair Clair",
-          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
+          "name": "Myths",
+          "url": "https://open.spotify.com/artist/0HNS0Re91npRDX0wSo14DZ"
         },
         {
-          "name": "Okthxbb",
-          "url": "https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6"
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Majical Cloudz",
+          "url": "https://open.spotify.com/artist/4BEYBN6NCPrFk3sOLMTby3"
         }
       ],
-      "duration_ms": 224343,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe"
+      "duration_ms": 318720,
+      "name": "The Horizon",
+      "url": "https://open.spotify.com/track/4Q59V76RnrbeHUNYXMlBoJ"
     },
     {
       "added_at": null,
@@ -287,22 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon and the Melodies (2024 Remaster)",
-        "url": "https://open.spotify.com/album/3qEiWhSF2HO1NhVJVsGyZm"
+        "name": "Pretty",
+        "url": "https://open.spotify.com/album/3SwkEbseZlPzgN5PIJqYV4"
       },
       "artists": [
         {
-          "name": "Cocteau Twins",
-          "url": "https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp"
+          "name": "Coco & Clair Clair",
+          "url": "https://open.spotify.com/artist/5FkMS3KgG0cjiRm250NFTJ"
         },
         {
-          "name": "Harold Budd",
-          "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
+          "name": "Okthxbb",
+          "url": "https://open.spotify.com/artist/2KexnW3KsCks2O8cXonjG6"
         }
       ],
-      "duration_ms": 189632,
-      "name": "Sea, Swallow Me - 2024 Remaster",
-      "url": "https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB"
+      "duration_ms": 224343,
+      "name": "Pretty",
+      "url": "https://open.spotify.com/track/2sCUDVNDIlZPDk8YUnvRHe"
     },
     {
       "added_at": null,
@@ -435,8 +435,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Art Angels",
-        "url": "https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI"
+        "name": "Darkbloom",
+        "url": "https://open.spotify.com/album/1Cog6aZ6NwnJiuINc0LQEU"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 306533,
-      "name": "Realiti",
-      "url": "https://open.spotify.com/track/7gylDRTKkPXrLwWyyBUNsz"
+      "duration_ms": 196185,
+      "name": "Crystal Ball",
+      "url": "https://open.spotify.com/track/60s6DmJ44S6dDHqvDy1Gvu"
     },
     {
       "added_at": null,
@@ -499,42 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Visions",
-        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
-      },
-      "artists": [
-        {
-          "name": "Grimes",
-          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
-        },
-        {
-          "name": "Doldrums",
-          "url": "https://open.spotify.com/artist/1YAv2yohpdjlPVbtqZCGLY"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Colour of Moonlight (Antiochus)",
-      "url": "https://open.spotify.com/track/3Kl512JPDDX8XsjagpNxlo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desire, I Want To Turn Into You",
         "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
       },
@@ -559,6 +523,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3HED2IUaNSnbOe88a7ZdwM"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        },
+        {
+          "name": "Doldrums",
+          "url": "https://open.spotify.com/artist/1YAv2yohpdjlPVbtqZCGLY"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Colour of Moonlight (Antiochus)",
+      "url": "https://open.spotify.com/track/3Kl512JPDDX8XsjagpNxlo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eyelid Movies",
         "url": "https://open.spotify.com/album/26ANkY7nHVPBsnJ7Do5A0c"
       },
@@ -575,18 +575,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+        "name": "Trinity",
+        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
       },
       "artists": [
         {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+          "name": "Eartheater",
+          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
         }
       ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
+      "duration_ms": 184505,
+      "name": "Supersoaker",
+      "url": "https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Darkbloom",
-        "url": "https://open.spotify.com/album/1Cog6aZ6NwnJiuINc0LQEU"
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI"
       },
       "artists": [
         {
@@ -616,25 +616,9 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 196185,
-      "name": "Crystal Ball",
-      "url": "https://open.spotify.com/track/60s6DmJ44S6dDHqvDy1Gvu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trinity",
-        "url": "https://open.spotify.com/album/4feqEnTdNbrecCd7FSvHEA"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "Supersoaker",
-      "url": "https://open.spotify.com/track/6szXMlKnHwiPbLfrqp44Jk"
+      "duration_ms": 306533,
+      "name": "Realiti",
+      "url": "https://open.spotify.com/track/7gylDRTKkPXrLwWyyBUNsz"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
       "duration_ms": 225000,
       "name": "Brian is the Most Beautiful",
       "url": "https://open.spotify.com/track/3lhLML5eIwmPnw2xWKosZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
         }
       ],
-      "duration_ms": 264533,
-      "name": "Flesh Without Blood",
-      "url": "https://open.spotify.com/track/2lu928pDKDPkCPKMXE6OHW"
+      "duration_ms": 305760,
+      "name": "World Princess Part II",
+      "url": "https://open.spotify.com/track/7BSeKFoxuIBnkHEHsWscI9"
     },
     {
       "added_at": null,
@@ -819,22 +819,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apparitions",
-        "url": "https://open.spotify.com/album/0Yn5Yc4qK1wZMhjAJO0uQz"
-      },
-      "artists": [
-        {
-          "name": "Labyrinth Ear",
-          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
-        }
-      ],
-      "duration_ms": 281577,
-      "name": "Humble Bones",
-      "url": "https://open.spotify.com/track/3bQ3g7uap3wJyU0Pp02C54"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wonderland",
         "url": "https://open.spotify.com/album/5FwNan9THWocf69tJEsXUv"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 164065,
       "name": "Alice",
       "url": "https://open.spotify.com/track/6h4yONyGIFXYhrvEX6jVeb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Apparitions",
+        "url": "https://open.spotify.com/album/0Yn5Yc4qK1wZMhjAJO0uQz"
+      },
+      "artists": [
+        {
+          "name": "Labyrinth Ear",
+          "url": "https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd"
+        }
+      ],
+      "duration_ms": 281577,
+      "name": "Humble Bones",
+      "url": "https://open.spotify.com/track/3bQ3g7uap3wJyU0Pp02C54"
     }
   ],
   "unique_name": "Grimes Radio",

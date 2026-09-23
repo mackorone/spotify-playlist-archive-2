@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,082 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,079 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 32 | [Só Quer Vrau](https://open.spotify.com/track/0DbNuTBlJ5ixoDdHZ523DT) | [MC MM](https://open.spotify.com/artist/3a5ydeAaojKa3CHWe5PVWK), [DJ RD](https://open.spotify.com/artist/0tvACMjTDrW7HCo4F2wiIb) | [Só Quer Vrau](https://open.spotify.com/album/3A3GhqfZV2xJ7qXOox8a1C) | 2:40 |
 | 33 | [Ô Moça](https://open.spotify.com/track/1mQOFRDoqI34LdN79PE0vH) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Ô Moça](https://open.spotify.com/album/4ps8YCaJj1S9AmZ20mm7P6) | 3:00 |
 | 34 | [Comprei um Lança](https://open.spotify.com/track/12v6LfkX9YIR3uLefIAAYZ) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Comprei um Lança](https://open.spotify.com/album/61MhAUFhtd7LjHVooYcUCb) | 1:52 |
-| 35 | [Resenha lá em casa](https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Resenha lá em casa](https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2) | 3:56 |
-| 36 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
+| 35 | [Hit Contagiante](https://open.spotify.com/track/5dKesZwp6deuhEeW8F1UEi) | [Felipe Original](https://open.spotify.com/artist/2Cra8I2P4OnMkVguqZRVwi), [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc), [JS o Mão de Ouro](https://open.spotify.com/artist/7C7NNCiIFavKH6oDarjp0v) | [Hit Contagiante](https://open.spotify.com/album/5da8Quq01mGKZvEpBRfFZh) | 2:17 |
+| 36 | [Resenha lá em casa](https://open.spotify.com/track/3NnW2EqJxvHYrRy3upaznl) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Resenha lá em casa](https://open.spotify.com/album/3woJd4AFogSyxqK3wkzPk2) | 3:56 |
 | 37 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 |
 | 38 | [Rainha da Favela](https://open.spotify.com/track/3vu864xi5Xis9VfOsJpmXu) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Rainha da Favela](https://open.spotify.com/album/6GbNAks50cyJFMDhiMdVj8) | 2:40 |
 | 39 | [Catucada Profunda](https://open.spotify.com/track/4chepxSHy5zbkLSpTVOJ1o) | [MC Igão](https://open.spotify.com/artist/7mFKwJmv39xvJc8Gtr227g), [Dj Gui Marques](https://open.spotify.com/artist/0O5Okg6jlyviFAxWxHzgDM), [DJ TAK VADIÃO](https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu) | [Catucada Profunda](https://open.spotify.com/album/1EEgxBKfry7iIg1VNN63X5) | 2:53 |

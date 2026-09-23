@@ -1,12 +1,12 @@
 {
   "description": "This is Sufjan Stevens. The essential tracks, all in one playlist.",
-  "num_followers": 134474,
+  "num_followers": 134488,
   "original_name": "This Is Sufjan Stevens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAABiMvrplUAW5pcaQtXgFkPU",
+  "snapshot_id": "arBzgAAAAAC+iEZdDK9uaFL5HO9Gjs4I",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Beginner's Mind",
-        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
+        "name": "Carrie & Lowell (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
       },
       "artists": [
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        },
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 147229,
-      "name": "It\u2019s Your Own Body And Mind",
-      "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
+      "duration_ms": 400661,
+      "name": "Wallowa Lake Monster - Version 2",
+      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
     },
     {
       "added_at": null,
@@ -615,34 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Carrie & Lowell (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0n7HLjx45Y2LD4WyHGDMf3"
+        "name": "A Beginner's Mind",
+        "url": "https://open.spotify.com/album/7AS9VaIdnYSR13T3vkVtu9"
       },
       "artists": [
         {
           "name": "Sufjan Stevens",
           "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 400661,
-      "name": "Wallowa Lake Monster - Version 2",
-      "url": "https://open.spotify.com/track/7JxVuQdS0aFUIMrja2KzyS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Delighted People",
-        "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
-      },
-      "artists": [
+        },
         {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 219453,
-      "name": "Enchanting Ghost",
-      "url": "https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc"
+      "duration_ms": 147229,
+      "name": "It\u2019s Your Own Body And Mind",
+      "url": "https://open.spotify.com/track/6oNmSG8JbMa4jG5UQC5Fr2"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All Delighted People",
+        "url": "https://open.spotify.com/album/1wnEAz2lDtNoUUZF0KStuo"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Enchanting Ghost",
+      "url": "https://open.spotify.com/track/2YLSreQAZs2E4VAKPt3vSc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Javelin",
         "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 206373,
-      "name": "Holland",
-      "url": "https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 254053,
       "name": "All the Trees of the Field Will Clap Their Hands",
       "url": "https://open.spotify.com/track/5OjpdQLQNF59wsZx9S9b10"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 206373,
+      "name": "Holland",
+      "url": "https://open.spotify.com/track/5LeGT0ziFpK3Skvr6jwIgF"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Michigan",
-        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 223893,
-      "name": "Flint (For the Unemployed and Underpaid)",
-      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 184866,
       "name": "Size Too Small",
       "url": "https://open.spotify.com/track/2Z3WGXNF3OqaJ3XaAaP10a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Michigan",
+        "url": "https://open.spotify.com/album/2XOwIbRcNFIBFvGEHDSBQk"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 223893,
+      "name": "Flint (For the Unemployed and Underpaid)",
+      "url": "https://open.spotify.com/track/3EuqrodGk0CdTcoHuY0ETx"
     },
     {
       "added_at": null,

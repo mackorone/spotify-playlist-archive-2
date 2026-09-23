@@ -2781,6 +2781,24 @@
     },
     {
       "album": {
+        "name": "Borealis",
+        "url": "https://open.spotify.com/album/1jOInPKUSNo9AkNEMcLUxl"
+      },
+      "artists": [
+        {
+          "name": "Aurora Aeterna",
+          "url": "https://open.spotify.com/artist/4PRv41OfpEkorKofIv7DV8"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153442,
+      "name": "Borealis",
+      "url": "https://open.spotify.com/track/7zZeNrobqC1nc566tRaN2V"
+    },
+    {
+      "album": {
         "name": "Boreas",
         "url": "https://open.spotify.com/album/3XlfG83Ffv1YGZpWwFbHZ8"
       },
@@ -7029,6 +7047,24 @@
     },
     {
       "album": {
+        "name": "Exosphere",
+        "url": "https://open.spotify.com/album/7iSxEu3v9crsFWROr9JPz4"
+      },
+      "artists": [
+        {
+          "name": "Amel Scott",
+          "url": "https://open.spotify.com/artist/4lOnTI7pZfZeLAQ4z2idCd"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130233,
+      "name": "Exosphere",
+      "url": "https://open.spotify.com/track/7386wxGEUgqJ8kwfgQXOST"
+    },
+    {
+      "album": {
         "name": "Expectations",
         "url": "https://open.spotify.com/album/2WMwaBhfaypFZcWOgSsVGs"
       },
@@ -9550,10 +9586,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 152200,
       "name": "Id\u00e9e",
       "url": "https://open.spotify.com/track/0VsWtArpieoC1eRy4erTxJ"
+    },
+    {
+      "album": {
+        "name": "Illuminating",
+        "url": "https://open.spotify.com/album/4eHTRRLLjYl2WMIbWxaqjb"
+      },
+      "artists": [
+        {
+          "name": "Planetone",
+          "url": "https://open.spotify.com/artist/4epLhV6jzBnism1loSlMcD"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Illuminating",
+      "url": "https://open.spotify.com/track/14bQ93d6Ccx2kSPTalCKsJ"
     },
     {
       "album": {
@@ -10148,6 +10202,24 @@
       "duration_ms": 152381,
       "name": "Infinite Haze",
       "url": "https://open.spotify.com/track/5GY35Mq0IYHzPvf4F6VseX"
+    },
+    {
+      "album": {
+        "name": "Infinite Mists",
+        "url": "https://open.spotify.com/album/4zVabpVOMoY5iis82oYD7e"
+      },
+      "artists": [
+        {
+          "name": "Elio Moreno",
+          "url": "https://open.spotify.com/artist/1EXbdr1s2LkGffmFbmPAC1"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Infinite Mists",
+      "url": "https://open.spotify.com/track/3eAovH3IH1CfmJNwdwPpQt"
     },
     {
       "album": {
@@ -15076,7 +15148,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 156842,
       "name": "Probability",
       "url": "https://open.spotify.com/track/2pIXx5vgOv3hXfaelZCi2X"
@@ -18396,6 +18468,24 @@
     {
       "album": {
         "name": "Stillness",
+        "url": "https://open.spotify.com/album/4Ni1zyzLhLn7PB0yK3javy"
+      },
+      "artists": [
+        {
+          "name": "Drift Within",
+          "url": "https://open.spotify.com/artist/3zXg9BklZh2lVmfrFkvLTY"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Stillness",
+      "url": "https://open.spotify.com/track/4IvsY8nQ1F0hz8G285lxDc"
+    },
+    {
+      "album": {
+        "name": "Stillness",
         "url": "https://open.spotify.com/album/7FeN3keUI3iwi8QprN1fpw"
       },
       "artists": [
@@ -21666,6 +21756,24 @@
       "duration_ms": 210717,
       "name": "White Dove",
       "url": "https://open.spotify.com/track/0TXwtGVDlyxefhSQb8QCA3"
+    },
+    {
+      "album": {
+        "name": "White Meadow",
+        "url": "https://open.spotify.com/album/7Dij1bwp8yLLEidP6X9czN"
+      },
+      "artists": [
+        {
+          "name": "Plainrest",
+          "url": "https://open.spotify.com/artist/5MRgNYWF4bZ0bV8kEI9QNf"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167547,
+      "name": "White Meadow",
+      "url": "https://open.spotify.com/track/3FDa6WFhyYJySGrqSKwdIQ"
     },
     {
       "album": {

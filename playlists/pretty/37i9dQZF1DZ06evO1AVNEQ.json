@@ -1,12 +1,12 @@
 {
   "description": "This is Feid. The essential tracks, all in one playlist.",
-  "num_followers": 872238,
+  "num_followers": 872272,
   "original_name": "This Is Feid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAACk35MVO0/h4wLbuUJaTy3o",
+  "snapshot_id": "arBzgAAAAADnLcuC6RsqIgPC5HPw1JRc",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MANIFESTING 20-05",
-        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Brickell",
-      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Climaxxx",
         "url": "https://open.spotify.com/album/6stPNzjz40FWTiwlOR98Lp"
       },
@@ -499,6 +479,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Brickell",
+      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -511,6 +511,22 @@
       "duration_ms": 168133,
       "name": "CHORRITO PA LAS ANIMAS",
       "url": "https://open.spotify.com/track/0CYTGMBYkwUxrj1MWDLrC5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
+        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 158299,
+      "name": "La Mejor M\u00fasica",
+      "url": "https://open.spotify.com/track/5FJmy7JIUXmBw88lI6vnkS"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
-        "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 158299,
-      "name": "La Mejor M\u00fasica",
-      "url": "https://open.spotify.com/track/5FJmy7JIUXmBw88lI6vnkS"
     },
     {
       "added_at": null,
@@ -591,26 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 201935,
-      "name": "offline",
-      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL GREEN PRINT: La Saga (Disc 1) \u2014 FEID VS FERXXO",
         "url": "https://open.spotify.com/album/2TXU5Ie2RcPLT1cp7ztKXa"
       },
@@ -627,22 +607,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FERXXO (VOL 1: M.O.R)",
-        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
         },
         {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 232653,
-      "name": "PORFA",
-      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
+      "duration_ms": 201935,
+      "name": "offline",
+      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
     },
     {
       "added_at": null,
@@ -667,6 +647,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "FERXXO (VOL 1: M.O.R)",
+        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        }
+      ],
+      "duration_ms": 232653,
+      "name": "PORFA",
+      "url": "https://open.spotify.com/track/4TOmcZvw0gHa7GiXRbcYAW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SORRY 4 THAT MUCH",
         "url": "https://open.spotify.com/album/1kZGpaXOeB48TPT2JatjvC"
       },
@@ -683,22 +683,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFESSIONS II",
-        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
         }
       ],
-      "duration_ms": 286243,
-      "name": "Read My Lips",
-      "url": "https://open.spotify.com/track/7b6MZDwKVjewryWMS2mFvA"
+      "duration_ms": 342485,
+      "name": "PARADIXE",
+      "url": "https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN"
     },
     {
       "added_at": null,
@@ -763,6 +767,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "CONFESSIONS II",
+        "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 286243,
+      "name": "Read My Lips",
+      "url": "https://open.spotify.com/track/7b6MZDwKVjewryWMS2mFvA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 187940,
+      "name": "PENXAMIENTOS DE MADRUGADA",
+      "url": "https://open.spotify.com/track/5rWyF3zS53QMc9Jymh79lP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Cielo",
         "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
       },
@@ -783,6 +827,42 @@
       "duration_ms": 191320,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Academy",
+        "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
+      },
+      "artists": [
+        {
+          "name": "Rich Music LTD",
+          "url": "https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 212653,
+      "name": "Porno",
+      "url": "https://open.spotify.com/track/34ZngZgo8xicbt1EE8Ob8Z"
     },
     {
       "added_at": null,
@@ -827,38 +907,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Academy",
-        "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
       },
       "artists": [
-        {
-          "name": "Rich Music LTD",
-          "url": "https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
         {
           "name": "Feid",
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 212653,
-      "name": "Porno",
-      "url": "https://open.spotify.com/track/34ZngZgo8xicbt1EE8Ob8Z"
+      "duration_ms": 242959,
+      "name": "HAXTA EL DIA FINAL",
+      "url": "https://open.spotify.com/track/0P9yIskm1XlR0cKMLKLZT2"
     },
     {
       "added_at": null,
@@ -879,30 +939,6 @@
       "duration_ms": 173774,
       "name": "PIENXA EN MI",
       "url": "https://open.spotify.com/track/4MR5DmTbTZUA9asyyUmJgP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
-        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "El Americano 4KT",
-          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 342485,
-      "name": "PARADIXE",
-      "url": "https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN"
     },
     {
       "added_at": null,
@@ -947,6 +983,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 194339,
+      "name": "DE DIOR XL",
+      "url": "https://open.spotify.com/track/06UusKSBXp76qo0k0iw0cL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FERXXO (VOL 1: M.O.R)",
         "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
       },
@@ -959,26 +1015,6 @@
       "duration_ms": 142613,
       "name": "EXCXSXS",
       "url": "https://open.spotify.com/track/0GbrwlmnRMJOQ5bRV9QcZa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
-        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 187940,
-      "name": "PENXAMIENTOS DE MADRUGADA",
-      "url": "https://open.spotify.com/track/5rWyF3zS53QMc9Jymh79lP"
     },
     {
       "added_at": null,
@@ -1019,8 +1055,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FERXXO (VOL 1: M.O.R)",
-        "url": "https://open.spotify.com/album/3js3vnaiDDghVu9ADH93Q5"
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
       },
       "artists": [
         {
@@ -1028,69 +1064,13 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
         }
       ],
-      "duration_ms": 223480,
-      "name": "BORRAXXA",
-      "url": "https://open.spotify.com/track/16uvds0iYqjEK8m5EGEdVd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Academy",
-        "url": "https://open.spotify.com/album/1faqBAWocW4ZOe0OFjudGw"
-      },
-      "artists": [
-        {
-          "name": "Rich Music LTD",
-          "url": "https://open.spotify.com/artist/2kqUKsTuEj1lPbm6BSn1AU"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 225013,
-      "name": "Imaginate",
-      "url": "https://open.spotify.com/track/29ShXDWDedEwZkYc8Du08N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BAH\u00cdA DUCATI",
-        "url": "https://open.spotify.com/album/444LqH6QlvR62nY8Vxn37u"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 153746,
-      "name": "que putas",
-      "url": "https://open.spotify.com/track/4fcC14xEEHEYS4SClHRzOr"
+      "duration_ms": 157593,
+      "name": "TIEMPO SIN VXRTX",
+      "url": "https://open.spotify.com/track/1IA7a4Q967PCZELcgCkmk0"
     }
   ],
   "unique_name": "This Is Feid",

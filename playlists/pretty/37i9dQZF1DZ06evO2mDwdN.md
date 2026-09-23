@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 
 > This is Harold Melvin & The Blue Notes\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,271 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,272 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 30 | [I'm Comin' Home Tomorrow \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/4QaqcfGIFyDMhWR2bk9qwC) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 6:14 |
 | 31 | [Could It Be I'm Falling in Love](https://open.spotify.com/track/6WgxSw91rQSUtGRwwLnLk5) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Harold Melvin & The Blue Notes](https://open.spotify.com/album/0RQg9BXfVrUxx1qwFqmG7S) | 4:09 |
 | 32 | [My Girl](https://open.spotify.com/track/16gkC288NMzIlhEp1YxXjl) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Soul Love: 25 Gorgeous Tracks for Lovers, Vol\. 3](https://open.spotify.com/album/12yI3cMMv8UNjyFzA5HoUG) | 2:58 |
-| 33 | [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 |
-| 34 | [Ain't No Stoppin' Us Now \- Rerecorded](https://open.spotify.com/track/2qTuDMi8b2mQNzTp4J2DDS) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol\. 2](https://open.spotify.com/album/2eDju0zji7UJ7toNzfcHVN) | 3:45 |
+| 33 | [Ain't No Stoppin' Us Now \- Rerecorded](https://open.spotify.com/track/2qTuDMi8b2mQNzTp4J2DDS) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Golden Disco Days: 25 Dancefloor Hits from the 70s, Vol\. 2](https://open.spotify.com/album/2eDju0zji7UJ7toNzfcHVN) | 3:45 |
+| 34 | [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 |
 | 35 | [Reaching For The World](https://open.spotify.com/track/5ydD69Y6DBBu6VFJmsu4BB) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The ABC's Of Soul, Vol\. 3 \(Classics From The ABC Records Catalog 1975\-1979\)](https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n) | 4:26 |
 | 36 | [Don't Give Me Up](https://open.spotify.com/track/7AmfvFOl8K3rflTfZLxt8b) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Don't Give Me Up](https://open.spotify.com/album/4lGZ2x9Sj8U7OGi3SS3BkR) | 4:56 |
 | 37 | [Prayin'](https://open.spotify.com/track/0kb9n9G3MF476lGb1JX0h6) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Sharon Paige](https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk) | [The Blue Album](https://open.spotify.com/album/5DHS3gYrSZEj1RpWYlj1cY) | 6:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2mDwdN.md) - [plain]
 | 49 | [This Is The Love](https://open.spotify.com/track/5pjHNWc7sdv9RXnXsCwIEk) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [80's Love Songs](https://open.spotify.com/album/6B1HPZ1E0Cc9fLUUaDeuFA) | 4:23 |
 | 50 | [Go Away](https://open.spotify.com/track/1Q64Qh16VXUDPOyMNVFb71) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [Cooler Than Ice: Arctic Records and the Rise of Philly Soul](https://open.spotify.com/album/5A6zOGYJ1Ja1SAZAGJfdWv) | 3:02 |
 
-Snapshot ID: `aq8iAAAAAABU0gf7cgxb+Fc3zLI/ySu6`
+Snapshot ID: `arBzgAAAAAAnF5YVYk8VlW1UWulVe5MS`

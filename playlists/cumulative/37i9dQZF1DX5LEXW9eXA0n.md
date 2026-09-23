@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: LEECHANGSUB \(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,795 songs - 4 day 20 hr 34 min
+1,796 songs - 4 day 20 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1139,7 +1139,7 @@
 | [Please don't hate me](https://open.spotify.com/track/7pWfugxsy7Sdm063H5GaR5) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Please don't hate me](https://open.spotify.com/album/36GJ8RigvD51QVlOcit9LC) | 3:25 | 2024-12-02 | 2025-04-25 |
 | [Please Don't Stay Away](https://open.spotify.com/track/4GA7yi7kJ5xl1fjNQsFN6Q) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Please Don't Stay Away](https://open.spotify.com/album/3G4RhCvPVo2YVC3znvybsw) | 3:38 | 2025-09-26 | 2026-01-03 |
 | [Please don\`t happy without me](https://open.spotify.com/track/4CDUbmbzqgBnVQqSbDzKNF) | [Lee A Young](https://open.spotify.com/artist/5FpU6Sx82VSTvnoxtbVv6q) | [Please don\`t happy without me](https://open.spotify.com/album/5NQoi3oR00GUJ433opLOvO) | 3:17 | 2023-02-24 | 2023-05-16 |
-| [Please Don’t Stop](https://open.spotify.com/track/60MlMG7WbBFb2pwXd1gFg0) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4XfsazZHKWIDrwlTHukrQ8) | 3:23 | 2026-03-16 |  |
+| [Please Don’t Stop](https://open.spotify.com/track/60MlMG7WbBFb2pwXd1gFg0) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [The Practical Guide to Love \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/4XfsazZHKWIDrwlTHukrQ8) | 3:23 | 2026-03-16 | 2026-09-23 |
 | [Please Forget Me](https://open.spotify.com/track/6wsPqzuErrbr6ZmnQiT8cG) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [Please Forget Me](https://open.spotify.com/album/4U5CaXlqvjccAJlP5vP5uT) | 4:31 | 2024-03-04 | 2024-07-12 |
 | [Please Go Away](https://open.spotify.com/track/66qBuwGkXeHEIVTinJQEpN) | [Son Jinwook](https://open.spotify.com/artist/3XNhEom3SbSx7UoJlduOsz) | [Please Go Away](https://open.spotify.com/album/2pBGI6CWSb37liKMELxWCF) | 3:43 | 2024-11-05 | 2025-04-16 |
 | [Please look at me](https://open.spotify.com/track/7oIsG96tN4l7v7i9VIBSyx) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Three Siblings Bravely OST Part.17 \(Soundtrack\)](https://open.spotify.com/album/6YXZmaRxST480CCVVlrPPz) | 3:33 | 2023-03-27 | 2023-07-18 |
@@ -1225,6 +1225,7 @@
 | [Second love](https://open.spotify.com/track/7rtiRvjNbd05I1KSUVblzK) | [CHUU](https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB) | [Second love \(20th Anniversary of the Korean Wave Part.1\)](https://open.spotify.com/album/1Q0PvlQflbbOgSKYSYe5uL) | 4:17 | 2024-07-31 | 2025-02-12 |
 | [See you in the evening](https://open.spotify.com/track/2lV347jDNzJz2OwCVaDhJi) | [CODA BRIDGE](https://open.spotify.com/artist/4EHj2EYtaVfrMnQqvSw0ca) | [See you in the evening](https://open.spotify.com/album/3llkSnfUdej1mQdDxnyZQj) | 3:44 | 2022-07-07 | 2022-07-12 |
 | [September 24th](https://open.spotify.com/track/3js6pmrpvOzpSXSwcilFp3) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [September 24th](https://open.spotify.com/album/2PlJYBYhSJlEgduVylmnv4) | 4:20 | 2025-09-24 | 2026-01-03 |
+| [Shadow](https://open.spotify.com/track/1IiuFC11Ac1D9IodLztq8c) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [Shadow](https://open.spotify.com/album/4jLEh8UzkiVqqObG6aQaX0) | 3:33 | 2026-09-22 |  |
 | [Shall we meet again](https://open.spotify.com/track/66s4PCkRrhhdJFP3tyKvKU) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Shall we meet again](https://open.spotify.com/album/6AuPGxSv8NgWQ8RQC7u9Nv) | 4:20 | 2022-02-16 | 2022-02-26 |
 | [Shaving](https://open.spotify.com/track/4YoUYbCNMcVLcL3cr5KLFt) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [Shaving](https://open.spotify.com/album/2ELplOBe2OqNNvVBwzNyGM) | 4:11 | 2024-09-23 | 2025-02-05 |
 | [She](https://open.spotify.com/track/0BnIEkvcwpCH0UhPUqtUTg) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Poong, the Joseon Psychiatrist OST Part.3](https://open.spotify.com/album/3adcqwktUDEr9ApocKPQ6D) | 3:45 | 2022-08-18 | 2022-12-27 |

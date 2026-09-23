@@ -4,7 +4,7 @@
 
 > Achille Lauro e Geolier in cover della playlist con tutte le hit 🔥
 
-370 songs - 19 hr 16 min
+371 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [LEI](https://open.spotify.com/track/2DkiFEQ1ihXcYKaIRsfGFp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:43 | 2024-12-23 | 2026-03-01 |
 | [Lentamente](https://open.spotify.com/track/234fOFiPU3zFTgkPNg5nX5) | [Irama](https://open.spotify.com/artist/5iot8OPcosJN9nCl7I5SdK) | [Lentamente](https://open.spotify.com/album/5COzjRVJky9LsYdMVGk1L3) | 3:26 | 2025-02-12 | 2025-05-13 |
 | [Lo So Che](https://open.spotify.com/track/3w73qvCSGWPCx7w1UMIh6e) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 3:01 | 2025-02-20 | 2025-04-18 |
+| [Lontano](https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Lontano](https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h) | 3:49 | 2026-09-22 |  |
 | [Loquito \(with Celine G\)](https://open.spotify.com/track/12X6Xp0LYHgEFOnofZcGCn) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Celine G](https://open.spotify.com/artist/7ztO12lZMunK43UpFs0VM3) | [FASTLIFE 5 : Audio Luxury](https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T) | 2:50 | 2026-01-12 | 2026-02-11 |
 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-06-28 | 2024-07-12 |
 | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/track/1kKccj5wYXTj3gTpUIMoac) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw), [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [MA CHE IDEA \(feat\. Pino D'Angiò\)](https://open.spotify.com/album/0j4VujrvdWsDMO4b1jQFzI) | 3:46 | 2024-06-28 | 2024-09-14 |
@@ -264,7 +265,7 @@
 | [Per due come noi](https://open.spotify.com/track/5mKHtB2OGDXzbsInzW7veZ) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Per due come noi](https://open.spotify.com/album/6vkoEHhulbsz7twfso0VxJ) | 3:32 | 2024-09-06 | 2025-05-27 |
 | [PER NOI \(feat\. Achille Lauro\)](https://open.spotify.com/track/732WNonZ79rEmJPydodL1R) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Achille Lauro](https://open.spotify.com/artist/0lI3rF4hi4op6UxqlLHPzv) | [PER NOI \(feat\. Achille Lauro\)](https://open.spotify.com/album/1uRSKCLWPKEa8L85Ga4Pjh) | 3:50 | 2026-09-14 |  |
 | [Per sempre sì](https://open.spotify.com/track/5W1mx7Oeg2HxmASrth1nTt) | [Sal Da Vinci](https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR) | [Per sempre sì](https://open.spotify.com/album/32HEGXJyQkqHh888V70rdu) | 2:55 | 2026-02-26 | 2026-06-09 |
-| [PER TE](https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 3:34 | 2025-09-19 |  |
+| [PER TE](https://open.spotify.com/track/6DhMZVuD6TH0jd4bMNChCU) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [PER SOLDI E PER AMORE](https://open.spotify.com/album/3ixf929ty0cKT46gJ0sJ9Y) | 3:34 | 2025-09-19 | 2026-09-23 |
 | [Perdere ‘a capa \(feat\. Geolier\)](https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:40 | 2024-09-05 | 2024-12-04 |
 | [Perdono \(feat\. Shiva\)](https://open.spotify.com/track/79wDKThuLEgiQwJ0onVs3s) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 3:15 | 2024-12-06 | 2025-01-08 |
 | [PEZZI DA 100 \(feat\. Kid Yugi\)](https://open.spotify.com/track/6d9eOuVkzV4XJ8YIWM3Q1k) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca), [Sick Luke](https://open.spotify.com/artist/0hk4xVujcyOr6USD95wcWb) | [ICON](https://open.spotify.com/album/4rCMQjEm7zRJDbS5NbtCLY) | 2:39 | 2024-12-23 | 2025-01-14 |

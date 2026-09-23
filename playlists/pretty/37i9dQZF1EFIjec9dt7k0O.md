@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5DmrGSDwvNUezS5mYUQI9E">Andrew Watt</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,206 likes - 235 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,207 likes - 235 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,8 +221,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 211 | [Good and Evil](https://open.spotify.com/track/7B81zURBGNL1hFTKFBQzRI) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 2:41 |
 | 212 | [Rose of Jericho](https://open.spotify.com/track/55XL1uIZorCT1pblJw9Ocn) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 2:25 |
 | 213 | [A Long Goodbye](https://open.spotify.com/track/6jqH5HXEsyuyDCO3EqucQJ) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Commentary Album\)](https://open.spotify.com/album/7umxiXlu7t7MK6hPnARZeW) | 4:47 |
-| 214 | [Try](https://open.spotify.com/track/6u5VQO01TetfVWDV4Zu9P5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 2:51 |
-| 215 | [Never Know](https://open.spotify.com/track/0hyy7IXYRV5eBtMJeQ6mbB) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 4:15 |
+| 214 | [Never Know](https://open.spotify.com/track/0hyy7IXYRV5eBtMJeQ6mbB) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [The Boys of Dungeon Lane](https://open.spotify.com/album/34Sh6TOqfsrPSeXPBRGRAM) | 4:15 |
+| 215 | [Try](https://open.spotify.com/track/6u5VQO01TetfVWDV4Zu9P5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 2:51 |
 | 216 | [On My Way](https://open.spotify.com/track/5wN47fD8cZILpAIebuBsnF) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/47mMVL72wEPG0li4VTtHzM) | 2:08 |
 | 217 | [Hurt](https://open.spotify.com/track/2BMX5gh37iv3qKhJFiyOyX) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:50 |
 | 218 | [When This Old World Is Done With Me](https://open.spotify.com/track/0JXt4bGTLQpprmsMuU3n2D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Who Believes In Angels?](https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4) | 4:16 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIjec9dt7k0O.md) - [plain]
 | 234 | [Married Woman](https://open.spotify.com/track/2ldITY9kjPrAX41Azqjw2b) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [Shelley FKA DRAM](https://open.spotify.com/album/2KBu2eclJOYX4Igkico8YX) | 2:31 |
 | 235 | [Beam On](https://open.spotify.com/track/467qndiTw6EHdEVgS5GlZ7) | [Khari Mateen](https://open.spotify.com/artist/62KfmfXCMVP2kOsZi4j39u) | [Wait for Sunrise](https://open.spotify.com/album/1bROyL2oDz8tVUcWNbeZSX) | 4:16 |
 
-Snapshot ID: `Acc7nAAAAAAYDeg32UHJCYer5vXhOJAS`
+Snapshot ID: `AcdBUAAAAAAxQhKVlQds4ak6HtBv0HhO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 
 > Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,777 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,776 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 48 | [O Come, All Ye Faithful](https://open.spotify.com/track/4dCXTJhIjUlSMPwIFGeZlt) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [O Come, All Ye Faithful](https://open.spotify.com/album/1UsbNMO5iRcpE0ByR3iZfA) | 2:57 |
 | 49 | [A Wishful Night](https://open.spotify.com/track/3jWmXtJ3wsEeT7irjvhSWD) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [A Wishful Night](https://open.spotify.com/album/3YOAvLdHA3542tlY3VwUtA) | 2:27 |
 | 50 | [The Holly and the Ivy](https://open.spotify.com/track/6kp3aicXY4wM8GtKjhT7jk) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [The First Noel](https://open.spotify.com/album/0UykYUfd6JfL0WXXqbKGiX) | 1:30 |
-| 51 | [Angels from the Realms of Glory](https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Angels from the Realms of Glory](https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC) | 1:45 |
-| 52 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 |
+| 51 | [Go Tell It On The Mountain](https://open.spotify.com/track/2IHJbBiT7v4oR4WXt63yVZ) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Go Tell It On The Mountain](https://open.spotify.com/album/7IbDqi94MtPmiq4eLlZf6i) | 2:30 |
+| 52 | [Angels from the Realms of Glory](https://open.spotify.com/track/4AHihkbxRhNCsOnJdy8NBC) | [Trois Amis](https://open.spotify.com/artist/19hT5DHNATnRhmkR5LevK7) | [Angels from the Realms of Glory](https://open.spotify.com/album/614xnvrnOoO8hojPMk5RUC) | 1:45 |
 | 53 | [Oh what a merry christmas day](https://open.spotify.com/track/4lIPBRlA44zsLXpGzg3mS1) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Oh what a merry christmas day](https://open.spotify.com/album/68NZ8wGUvONWBNzaYoosN3) | 1:36 |
 | 54 | [Up on the Housetop](https://open.spotify.com/track/2vGxnEVP4CQXSij7f2Bil9) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Christmas Time](https://open.spotify.com/album/4O0xBHOwwopsTrx6Jo3MRt) | 1:13 |
 | 55 | [Ave Maria](https://open.spotify.com/track/4Ed2ZWI33fojtD1FRhVk29) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [That Christmas Feel](https://open.spotify.com/album/1eRIaiBeErayP8Cfve02kJ) | 3:54 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 64 | [O Holy Night](https://open.spotify.com/track/2RCvNuag0gdN0lmywnVxTu) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [O Holy Night](https://open.spotify.com/album/2H8X72tUBjkUEn97HGzjx8) | 3:58 |
 | 65 | [This Night](https://open.spotify.com/track/3Afjdam5d5Fm0aPON2jZ6g) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [This Night](https://open.spotify.com/album/4nSqqilp2xNmXQzmanAqpH) | 2:59 |
 | 66 | [Joy to the World](https://open.spotify.com/track/5xKtM3Y9NrT5VeoVxrAerk) | [Tom Stills Quartet](https://open.spotify.com/artist/2AE39jS64KnonFYcLHAUv0) | [Jingle Bells](https://open.spotify.com/album/5QiRNuqANTMFeKdznWLy7o) | 1:28 |
-| 67 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
-| 68 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c) | 2:29 |
+| 67 | [I Heard the Bells on Christmas Day](https://open.spotify.com/track/5i5I6SXrI8No6aEHrGlzIx) | [The Dox Band](https://open.spotify.com/artist/5nk8TLI3DoGV9Fyaa7V9JL) | [I Heard the Bells on Christmas Day](https://open.spotify.com/album/7dko1YoyuNsJ3z6pFLsp5c) | 2:29 |
+| 68 | [The Ultimate Gift](https://open.spotify.com/track/1VhZ2wkxATCvH9lwOHsgC0) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Christmas Mood](https://open.spotify.com/album/1prCYFqQV04mzRptYLm1pm) | 3:26 |
 | 69 | [Busy Santa](https://open.spotify.com/track/6mupcBc2lZIzSLhpaAzGtM) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Busy Santa](https://open.spotify.com/album/2Q8zMZnQ3GkbpTiqLleuQD) | 3:20 |
 | 70 | [Where Are You Christmas](https://open.spotify.com/track/0EuP5frP5f6YrzA9J0sJ6F) | [Swinging Renegades](https://open.spotify.com/artist/2Cbjo8F8AQ3ZZEJwmxlD8k) | [Where Are You Christmas](https://open.spotify.com/album/7MkJv5yyWK1lBjaLlODknj) | 3:30 |
 | 71 | [Holly Jolly Christmas](https://open.spotify.com/track/0quJINxC2EJafaaAFYA2sE) | [Mauro Meira](https://open.spotify.com/artist/5P3e6ZdtW6wdkTG7Fu7WBr) | [Holly Jolly Christmas](https://open.spotify.com/album/0AdbsAnET4JV9zsd9LTHDd) | 2:03 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdtUil6LVy3L.md) - [plain]
 | 73 | [Candlelit Within](https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl) | [Joseph Cole](https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l) | [Candlelit Within](https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u) | 2:36 |
 | 74 | [Ring in the Season](https://open.spotify.com/track/4GSrxmvhvcW5ngrnDLYx2S) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Ring in the Season](https://open.spotify.com/album/01YBrLsmmRoqzu1r4rZnnB) | 3:32 |
 | 75 | [Christmas Love](https://open.spotify.com/track/2LW2VCbUjkyh67iX0KbEDF) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Christmas Love](https://open.spotify.com/album/5STKuTbSZYWJxNinEf7Jua) | 3:13 |
-| 76 | [Season's Greetings](https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Season's Greetings](https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om) | 3:15 |
-| 77 | [Winter Wonderland](https://open.spotify.com/track/0IbVA4IxnJx49LvtubFILM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Winter Wonderland](https://open.spotify.com/album/7FfxASu1BtqyyqMLs7ZOiA) | 2:19 |
+| 76 | [Winter Wonderland](https://open.spotify.com/track/0IbVA4IxnJx49LvtubFILM) | [Gene Hart Trio](https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh) | [Winter Wonderland](https://open.spotify.com/album/7FfxASu1BtqyyqMLs7ZOiA) | 2:19 |
+| 77 | [Season's Greetings](https://open.spotify.com/track/6m9C49EiOkMWaGgzh1Mllx) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Season's Greetings](https://open.spotify.com/album/3IAxXCAQQ1cPZQFFBKh6Om) | 3:15 |
 | 78 | [Under My Christmas Tree](https://open.spotify.com/track/4tKd4QHmVtC0EB4FvVCWyf) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Under My Christmas Tree](https://open.spotify.com/album/3486nX6gEewOk56YcHVrxA) | 3:06 |
 | 79 | [Deck the Halls](https://open.spotify.com/track/1GyVQ3Lyz2XVTxYl42f1Kq) | [Michael Stylez & Co](https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT) | [Deck the Halls](https://open.spotify.com/album/3ih4Z7j1laYHVbeCzxssop) | 1:39 |
 | 80 | [The Christmas Song](https://open.spotify.com/track/4ns7ixAIalaaE9ukUDWZxL) | [Belleville Trio](https://open.spotify.com/artist/403HCrqfVGqA17ba6ulE5q) | [The Christmas Song](https://open.spotify.com/album/5oJL7v5SPjjpFxYpo00URm) | 3:40 |

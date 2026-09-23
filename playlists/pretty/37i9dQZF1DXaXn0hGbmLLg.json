@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume! September ambassador: <a href=\"spotify:artist:60bPC311AlvVdIzqQZyeHo\">jet van der steen</a>",
-  "num_followers": 14459,
+  "num_followers": 14460,
   "original_name": "EQUAL Benelux",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "De Liefde Die blijft",
-        "url": "https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Sep",
-          "url": "https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv"
-        }
-      ],
-      "duration_ms": 172218,
-      "name": "De Liefde Die blijft",
-      "url": "https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
         "name": "Glow-Up Era",
         "url": "https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 136368,
       "name": "Glow-Up Era",
       "url": "https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
+        "name": "De Liefde Die blijft",
+        "url": "https://open.spotify.com/album/3Uoq1dyrD6ClVwNYDoC2B8"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Sep",
+          "url": "https://open.spotify.com/artist/3PWhTNS7KOINBGxZai2oIv"
+        }
+      ],
+      "duration_ms": 172218,
+      "name": "De Liefde Die blijft",
+      "url": "https://open.spotify.com/track/5zB4S9CI9b0W3OGsZli9eh"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
+        "name": "Wandering Eye",
+        "url": "https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w"
+      },
+      "artists": [
+        {
+          "name": "Carmen Forbes",
+          "url": "https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5"
+        }
+      ],
+      "duration_ms": 151242,
+      "name": "Wandering Eye",
+      "url": "https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
         "name": "With You",
         "url": "https://open.spotify.com/album/4lLseIQahLfofOdwjXmJTI"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 159303,
       "name": "With You",
       "url": "https://open.spotify.com/track/4TTJ0NC67FNVDIBcUQchkN"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
-        "name": "Wandering Eye",
-        "url": "https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w"
-      },
-      "artists": [
-        {
-          "name": "Carmen Forbes",
-          "url": "https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5"
-        }
-      ],
-      "duration_ms": 151242,
-      "name": "Wandering Eye",
-      "url": "https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A"
     },
     {
       "added_at": "2026-09-01 22:00:06",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-09-01 22:00:06",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/4KhHOfEWVx6r7FOu0cQfxl"
-      },
-      "artists": [
-        {
-          "name": "Sam Nera",
-          "url": "https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh"
-        }
-      ],
-      "duration_ms": 181351,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/76Q3XvatRSrDNcTzoKbHrM"
-    },
-    {
-      "added_at": "2026-09-01 22:00:06",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 164651,
       "name": "Lover",
       "url": "https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v"
+    },
+    {
+      "added_at": "2026-09-01 22:00:06",
+      "album": {
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/4KhHOfEWVx6r7FOu0cQfxl"
+      },
+      "artists": [
+        {
+          "name": "Sam Nera",
+          "url": "https://open.spotify.com/artist/7BDMybq2ZrTJ9HH7vUMpRh"
+        }
+      ],
+      "duration_ms": 181351,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/76Q3XvatRSrDNcTzoKbHrM"
     },
     {
       "added_at": "2026-09-01 22:00:06",

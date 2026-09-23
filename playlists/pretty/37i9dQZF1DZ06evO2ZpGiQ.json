@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 484532,
+  "num_followers": 484596,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAAb74TCXNVqtp+yju+QjKUp",
+  "snapshot_id": "arBzgAAAAADu9KqL4ZCZjEHA6abSsVZ6",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Here I Am (Deluxe Version)",
-        "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
-      },
-      "artists": [
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/4Z4vthIzd6pIKC396R5vSN"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 357920,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3qjKqmA2YeH0a8DRoKj8iy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Here I Am (Deluxe Version)",
+        "url": "https://open.spotify.com/album/673D6VTmxJquUg31Wq1j0S"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/6rbhWExtuchhpLC5fHnB8n"
     },
     {
       "added_at": null,
@@ -731,26 +731,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "400 Degreez",
-        "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
+        "name": "Sorry 4 The Wait",
+        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
       },
       "artists": [
         {
-          "name": "JUVENILE",
-          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
-        },
-        {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Mannie Fresh",
-          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
         }
       ],
-      "duration_ms": 265600,
-      "name": "Back That Azz Up",
-      "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
+      "duration_ms": 156525,
+      "name": "Sorry 4 The Wait",
+      "url": "https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"
     },
     {
       "added_at": null,
@@ -775,6 +767,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "400 Degreez",
+        "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
+      },
+      "artists": [
+        {
+          "name": "JUVENILE",
+          "url": "https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Mannie Fresh",
+          "url": "https://open.spotify.com/artist/0fbFfVckGKsDbAfYnB5mD1"
+        }
+      ],
+      "duration_ms": 265600,
+      "name": "Back That Azz Up",
+      "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Am Not A Human Being II (Deluxe)",
         "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 223173,
       "name": "Rich As Fuck",
       "url": "https://open.spotify.com/track/3SShjQBczSt1HMpWA9zbwE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sorry 4 The Wait",
-        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 156525,
-      "name": "Sorry 4 The Wait",
-      "url": "https://open.spotify.com/track/524yEMK9wdiqPMqkE9kd9H"
     },
     {
       "added_at": null,
@@ -867,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Drop The World",
+      "url": "https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mainstream sellout",
         "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 227478,
       "name": "Whats Poppin (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix] - Bonus Track",
       "url": "https://open.spotify.com/track/0ZLuW8uOXdFNWcI40C0OC2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Drop The World",
-      "url": "https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"
     },
     {
       "added_at": null,
@@ -1087,22 +1087,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh"
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
       "artists": [
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 241927,
-      "name": "Anotha Luva (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/1LCiGi699HYk4nznLRQovN"
+      "duration_ms": 237360,
+      "name": "Gimme That Remix (feat. Lil' Wayne)",
+      "url": "https://open.spotify.com/track/2bIrFpyw3AA2t7gNIkfmGb"
     }
   ],
   "unique_name": "This Is Lil Wayne",

@@ -2966,7 +2966,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -5906,7 +5906,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 158918,
       "name": "Bamboleo",
       "url": "https://open.spotify.com/track/01FN2ExNlRtWUjPBGxOQ7W"
@@ -34536,7 +34536,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 148310,
       "name": "Mini Man",
       "url": "https://open.spotify.com/track/1dQZRwFJzUIT1mqoXMMUkV"
@@ -35106,7 +35106,7 @@
       ],
       "date_added": "2025-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 251400,
       "name": "Molly",
       "url": "https://open.spotify.com/track/1088WwNMjp0QWvEP3aOgsf"
@@ -38583,6 +38583,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "album": {
         "name": "EX UMBRA AD LIBERTATEM",
         "url": "https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q"
       },
@@ -38728,7 +38746,7 @@
       ],
       "date_added": "2025-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 204221,
       "name": "NIE CHC\u0118 WRACA\u0106",
       "url": "https://open.spotify.com/track/0gZ6aSidViW10soPaibyFa"
@@ -45706,7 +45724,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 123809,
       "name": "Pi\u0119kny sen",
       "url": "https://open.spotify.com/track/6VykKaQAkTTuAk3i9iR7KH"
@@ -55058,7 +55076,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -58292,7 +58310,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 180480,
       "name": "TO CO\u015a",
       "url": "https://open.spotify.com/track/1taAzCQwQrChFXMmpbQ4rN"
@@ -58620,7 +58638,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-23",
       "duration_ms": 209908,
       "name": "Toksyna",
       "url": "https://open.spotify.com/track/0QDGplY5KALFQQA2w8bdo9"
@@ -64334,7 +64352,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 82000,
       "name": "wszysttko co mam zawdzi\u0119czam sobie (interlude)",
       "url": "https://open.spotify.com/track/1nx5RAWnw0nmtg3l77LtOO"
@@ -65628,7 +65646,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Zapach",
       "url": "https://open.spotify.com/track/01HZ3Xmp4a2T41yu7HYnz4"

@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2124217,
+  "num_followers": 2124375,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq8iAAAAAAA/XzfdHWVQ1gvCtB4yM6AC",
+  "snapshot_id": "arBzgAAAAABX1FlC0BPFpNtroDvx/LfH",
   "tracks": [
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "72 Seasons",
-        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 201760,
-      "name": "Lux \u00c6terna",
-      "url": "https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT"
+      "duration_ms": 350644,
+      "name": "Moth Into Flame",
+      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
+        "name": "72 Seasons",
+        "url": "https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 350644,
-      "name": "Moth Into Flame",
-      "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
+      "duration_ms": 201760,
+      "name": "Lux \u00c6terna",
+      "url": "https://open.spotify.com/track/6eXWc7irALyENtbAD2TTOT"
     },
     {
       "added_at": null,

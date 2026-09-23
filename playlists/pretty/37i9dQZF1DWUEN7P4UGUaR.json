@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Celestine Donkor",
-  "num_followers": 18617,
+  "num_followers": 18628,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,26 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
+        "name": "FAKY3 ME",
+        "url": "https://open.spotify.com/album/6fwyJzUNTd0eEoJENZXnlT"
+      },
+      "artists": [
+        {
+          "name": "Kwabena Kwabena",
+          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
+        },
+        {
+          "name": "Obaapa Christy",
+          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
+        }
+      ],
+      "duration_ms": 311000,
+      "name": "FAKY3 ME",
+      "url": "https://open.spotify.com/track/7Msv1XFUkPhVQSqj3QVZmW"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
         "name": "A Sound from Heaven",
         "url": "https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 402782,
       "name": "Yes You Are the Lord",
       "url": "https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
-        "name": "FAKY3 ME",
-        "url": "https://open.spotify.com/album/6fwyJzUNTd0eEoJENZXnlT"
-      },
-      "artists": [
-        {
-          "name": "Kwabena Kwabena",
-          "url": "https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr"
-        },
-        {
-          "name": "Obaapa Christy",
-          "url": "https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk"
-        }
-      ],
-      "duration_ms": 311000,
-      "name": "FAKY3 ME",
-      "url": "https://open.spotify.com/track/7Msv1XFUkPhVQSqj3QVZmW"
     },
     {
       "added_at": "2026-03-12 23:38:53",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-03-12 23:38:53",
       "album": {
+        "name": "Me Hia Wo",
+        "url": "https://open.spotify.com/album/18GsTmBT5VOo6CRhKE2uzl"
+      },
+      "artists": [
+        {
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
+        }
+      ],
+      "duration_ms": 271271,
+      "name": "Me Hia Wo",
+      "url": "https://open.spotify.com/track/6Us7wnjE8hsu9rF4wuApQt"
+    },
+    {
+      "added_at": "2026-03-12 23:38:53",
+      "album": {
         "name": "Ote Me Mu",
         "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 275551,
       "name": "Ote Me Mu",
       "url": "https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf"
-    },
-    {
-      "added_at": "2026-03-12 23:38:53",
-      "album": {
-        "name": "Me Hia Wo",
-        "url": "https://open.spotify.com/album/18GsTmBT5VOo6CRhKE2uzl"
-      },
-      "artists": [
-        {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
-        }
-      ],
-      "duration_ms": 271271,
-      "name": "Me Hia Wo",
-      "url": "https://open.spotify.com/track/6Us7wnjE8hsu9rF4wuApQt"
     },
     {
       "added_at": "2026-03-12 23:38:53",

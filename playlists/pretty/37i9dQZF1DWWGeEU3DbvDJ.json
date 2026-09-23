@@ -1,6 +1,6 @@
 {
   "description": "The BBMAs returns with performances from your favorite chart-topping artists! Cover: Tyla",
-  "num_followers": 85111,
+  "num_followers": 85103,
   "original_name": "2024 Billboard Music Awards Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 265373,
       "name": "N o C h i l l",
       "url": "https://open.spotify.com/track/1zhMHgotgZXkLCXpqNRnPK"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
-        "name": "\u00c9XODO",
-        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "BELLAKEO",
-      "url": "https://open.spotify.com/track/5Fohh8kl8403DSoq4KH7Ll"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
         "name": "Popular Monster",
         "url": "https://open.spotify.com/album/2knEuvsxqHMAoxlQpIdpQD"
       },
@@ -1303,6 +1283,26 @@
       "duration_ms": 196754,
       "name": "Ronald",
       "url": "https://open.spotify.com/track/2eKoPnGnuHqIpfph45z44W"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
+        "name": "\u00c9XODO",
+        "url": "https://open.spotify.com/album/5kvw1bAOvzJdNi4hdgfaNf"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "BELLAKEO",
+      "url": "https://open.spotify.com/track/5Fohh8kl8403DSoq4KH7Ll"
     },
     {
       "added_at": "2024-11-25 16:13:36",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-11-25 16:13:36",
       "album": {
+        "name": "Wonka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
+      },
+      "artists": [
+        {
+          "name": "Timoth\u00e9e Chalamet",
+          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
+        }
+      ],
+      "duration_ms": 187997,
+      "name": "Pure Imagination (from \"Wonka\")",
+      "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
+    },
+    {
+      "added_at": "2024-11-25 16:13:36",
+      "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/1gc2RyrBm1PYdSnG65yuAl"
-    },
-    {
-      "added_at": "2024-11-25 16:13:36",
-      "album": {
-        "name": "Wonka (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO"
-      },
-      "artists": [
-        {
-          "name": "Timoth\u00e9e Chalamet",
-          "url": "https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb"
-        }
-      ],
-      "duration_ms": 187997,
-      "name": "Pure Imagination (from \"Wonka\")",
-      "url": "https://open.spotify.com/track/1m9TZ1dpYEQnczSsI6z9Ku"
     },
     {
       "added_at": "2024-11-25 16:13:36",

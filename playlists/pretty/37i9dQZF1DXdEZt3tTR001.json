@@ -1,6 +1,6 @@
 {
   "description": "lay back. chill out. ",
-  "num_followers": 228087,
+  "num_followers": 228101,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
-        "name": "MORNING DEW (DONK)",
-        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 243896,
-      "name": "MORNING DEW (DONK)",
-      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 251333,
       "name": "Kiss of Life",
       "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
+        "name": "MORNING DEW (DONK)",
+        "url": "https://open.spotify.com/album/5RfHUCfMuzunNhUZslZfjJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 243896,
+      "name": "MORNING DEW (DONK)",
+      "url": "https://open.spotify.com/track/4ZYlzwjjAJrflwWg4DJTlT"
     },
     {
       "added_at": "2026-09-18 04:00:49",
@@ -647,26 +647,6 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 369293,
-      "name": "To Zion (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
         "name": "Floetic",
         "url": "https://open.spotify.com/album/37dLqaW3KP18Aeqesq0Exi"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 340014,
       "name": "Between the Sheets",
       "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 369293,
+      "name": "To Zion (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
     },
     {
       "added_at": "2026-09-18 04:00:49",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
-        "name": "do i clench my fists?",
-        "url": "https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX"
-      },
-      "artists": [
-        {
-          "name": "ridgeclub",
-          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
-        }
-      ],
-      "duration_ms": 153275,
-      "name": "do i clench my fists?",
-      "url": "https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
         "name": "Friends Again",
         "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 218122,
       "name": "Friends Again",
       "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
+        "name": "do i clench my fists?",
+        "url": "https://open.spotify.com/album/0fjrtU0uPBqg10AMHhKYSX"
+      },
+      "artists": [
+        {
+          "name": "ridgeclub",
+          "url": "https://open.spotify.com/artist/4MT74NV1GnOKWtwpEVRRu1"
+        }
+      ],
+      "duration_ms": 153275,
+      "name": "do i clench my fists?",
+      "url": "https://open.spotify.com/track/08QUYTMO6gZDCKQFTCXBbz"
     },
     {
       "added_at": "2026-09-18 04:00:49",
