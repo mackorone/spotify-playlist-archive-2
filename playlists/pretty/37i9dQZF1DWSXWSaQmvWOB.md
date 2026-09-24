@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music! Cover: Aaron Frazer
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,359 likes - 110 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,368 likes - 110 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

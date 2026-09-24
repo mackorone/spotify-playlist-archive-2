@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat KERZA, ELLIMEI, Nelli Matula..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,485 likes - 102 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,477 likes - 102 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 6 | [Ohita intro \(Vain elämää kausi 17\)](https://open.spotify.com/track/38ds5bJcOUBal6Ewpoiq8z) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Ohita intro \(Vain elämää kausi 17\)](https://open.spotify.com/album/2vreBBQ37VWHWQkSHI7SYN) | 2:57 |
 | 7 | [kaikki muuttaa Helsinkiin \(feat\. AK\)](https://open.spotify.com/track/25EJYDD6vWDeTNPUmsBBPJ) | [Pesso](https://open.spotify.com/artist/4YfzUV6h9GosDhtdLkwGwN), [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [kaikki muuttaa Helsinkiin \(feat\. AK\)](https://open.spotify.com/album/1O3QRcdi9HzWfklEVqFk2K) | 3:05 |
 | 8 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
-| 9 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 9 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 10 | [Kaikki Kunnos](https://open.spotify.com/track/3lFVihVnqjVOTABmwtnpLs) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Kaikki Kunnos](https://open.spotify.com/album/5abijySksPUxJduZAfjEOn) | 2:40 |
 | 11 | [MAD MAX](https://open.spotify.com/track/6bzL0YxrUB7jYCS7HzubdP) | [uu$er](https://open.spotify.com/artist/6gjoxzAPNFDOiBp7UcJTNS) | [MAD MAX](https://open.spotify.com/album/0X4Owd48YNq7zMngnIkh6d) | 2:47 |
 | 12 | [RHYNO \(from GTAVI: The Album\)](https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [RHYNO \(from GTAVI: The Album\)](https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns) | 3:00 |

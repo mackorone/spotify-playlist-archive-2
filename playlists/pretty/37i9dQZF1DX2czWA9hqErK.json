@@ -1,6 +1,6 @@
 {
   "description": "Soft edges and slow motion moments \ud83e\udeb4",
-  "num_followers": 1309474,
+  "num_followers": 1309358,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "I Can\u2019t Believe We Never Went Out Dancing",
+        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "I Can\u2019t Believe We Never Went Out Dancing",
+      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Unreal Unearth: Unending",
         "url": "https://open.spotify.com/album/4goifiXK2L1XEEMeUwmbxG"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 205768,
       "name": "Where Were You",
       "url": "https://open.spotify.com/track/0cxALQcd48GTLTnSAUw25U"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "I Can\u2019t Believe We Never Went Out Dancing",
-        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "I Can\u2019t Believe We Never Went Out Dancing",
-      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "1:5",
-        "url": "https://open.spotify.com/album/2x618fYTKtUfUXMtFmznqu"
-      },
-      "artists": [
-        {
-          "name": "CHINCHILLA",
-          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
-        }
-      ],
-      "duration_ms": 237139,
-      "name": "1:5",
-      "url": "https://open.spotify.com/track/4KkXlAj7HIXcKNquwVty43"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "it's like I never left",
         "url": "https://open.spotify.com/album/0qaGB6BxRJBvwwYSg6mI56"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 175636,
       "name": "Ama said",
       "url": "https://open.spotify.com/track/29BR9FPwLRYH7UiXpN3D34"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "1:5",
+        "url": "https://open.spotify.com/album/2x618fYTKtUfUXMtFmznqu"
+      },
+      "artists": [
+        {
+          "name": "CHINCHILLA",
+          "url": "https://open.spotify.com/artist/7iNrvS80wnHDGVxw3qNRiI"
+        }
+      ],
+      "duration_ms": 237139,
+      "name": "1:5",
+      "url": "https://open.spotify.com/track/4KkXlAj7HIXcKNquwVty43"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -975,6 +975,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "Save My Heart",
+        "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
+      },
+      "artists": [
+        {
+          "name": "Bradley Marshall",
+          "url": "https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y"
+        }
+      ],
+      "duration_ms": 181260,
+      "name": "Save My Heart",
+      "url": "https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Falling Into Place (ft. Debbie)",
         "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 200000,
       "name": "Falling Into Place (ft. Debbie)",
       "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "Save My Heart",
-        "url": "https://open.spotify.com/album/6nfMJRyxIK6K3RtTmPXEsL"
-      },
-      "artists": [
-        {
-          "name": "Bradley Marshall",
-          "url": "https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y"
-        }
-      ],
-      "duration_ms": 181260,
-      "name": "Save My Heart",
-      "url": "https://open.spotify.com/track/1ffuj3LkTKRj20507nRwMl"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "Call Them And Tell Them You Love Them",
+        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
+      },
+      "artists": [
+        {
+          "name": "Tamzene",
+          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
+        }
+      ],
+      "duration_ms": 191912,
+      "name": "Too Many Times",
+      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Brat and it\u2019s completely different but also still brat",
         "url": "https://open.spotify.com/album/0W5woeQnfOZmVLSbggRRlR"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 200030,
       "name": "I think about it all the time featuring bon iver",
       "url": "https://open.spotify.com/track/3AvuMVDQU1JyZ8McJumqpY"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "Call Them And Tell Them You Love Them",
-        "url": "https://open.spotify.com/album/0sjLc36LTNXuLs4YQus8FD"
-      },
-      "artists": [
-        {
-          "name": "Tamzene",
-          "url": "https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL"
-        }
-      ],
-      "duration_ms": 191912,
-      "name": "Too Many Times",
-      "url": "https://open.spotify.com/track/10lAFDVD2Hg61RHyJmOy7U"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Beautifully Ordinary",
-        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 304812,
-      "name": "To Be Loved",
-      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "About U: One Year On",
         "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
+        "name": "Beautifully Ordinary",
+        "url": "https://open.spotify.com/album/2TLyLOzYh6qo5N0blioQn8"
       },
       "artists": [
         {
-          "name": "Lewis Fitzgerald",
-          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 169934,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
+      "duration_ms": 304812,
+      "name": "To Be Loved",
+      "url": "https://open.spotify.com/track/3VpCLroRCtkDWIkPnMB3mj"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1307,6 +1291,22 @@
       "duration_ms": 152124,
       "name": "Lie To Yourself",
       "url": "https://open.spotify.com/track/2MSQYHJnT6Pj1nCU4f74VF"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3kXDo4WE2zLtqBlyvEgqZK"
+      },
+      "artists": [
+        {
+          "name": "Lewis Fitzgerald",
+          "url": "https://open.spotify.com/artist/6ovKHvbGzE1fZaLY0S4cOf"
+        }
+      ],
+      "duration_ms": 169934,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4nK65ApbNqnfdvyaCdwMBY"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "the minute you're gone",
-        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
-      },
-      "artists": [
-        {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "the minute you're gone",
-      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Don't Fall Asleep",
         "url": "https://open.spotify.com/album/6VsPNDbUlGL0Ybdg5e7EQu"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 269280,
       "name": "Don't Fall Asleep",
       "url": "https://open.spotify.com/track/3yWgZ1TZIKciCo1Za6GDFa"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "the minute you're gone",
+        "url": "https://open.spotify.com/album/5Ev6X8Nz6PdyVP1vMm7OQ6"
+      },
+      "artists": [
+        {
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "the minute you're gone",
+      "url": "https://open.spotify.com/track/2oSGEEV6V2hciTxYgjpJgz"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "Enough",
+        "url": "https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg"
+      },
+      "artists": [
+        {
+          "name": "Billianne",
+          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
+        }
+      ],
+      "duration_ms": 231011,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Miles",
         "url": "https://open.spotify.com/album/5NTwzn0gyfspqs0CgRXAnK"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 155624,
       "name": "Miles",
       "url": "https://open.spotify.com/track/4eI0cTeYray8jcBxlFjl2z"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/2chEGfaMozvHc1GJuFF2Wg"
-      },
-      "artists": [
-        {
-          "name": "Billianne",
-          "url": "https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC"
-        }
-      ],
-      "duration_ms": 231011,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/7xGfUFdnjjkKjNaIzicum6"
     },
     {
       "added_at": "2026-04-16 23:00:52",

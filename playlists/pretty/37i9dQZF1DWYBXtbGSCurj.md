@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Gapes, Barsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,449 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,389 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 33 | [EU NÃO GRAVO MAIS SÓBRIO](https://open.spotify.com/track/3ssxA5INC2uLq7jn4R7NqD) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [DoubleD](https://open.spotify.com/album/1afquv9tgkdCXaZDCS3r4Z) | 2:20 |
 | 34 | [CASH](https://open.spotify.com/track/6H7Z7pvuBLRm6MYZMiegHD) | [AmandesNoBeat](https://open.spotify.com/artist/3xODk4jCgo4W4HskpPRPz6), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [CASH](https://open.spotify.com/album/0PAH1wQPfB1hr23vMmPct3) | 3:19 |
 | 35 | [WESTWOOD](https://open.spotify.com/track/1TXPBiIyVRl6apyk7jEdbS) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [M'DEP](https://open.spotify.com/artist/15kozB9dePAB5UgN0umJcS), [NAVII](https://open.spotify.com/artist/2HGEM94Dgn5GN35TFjjfgb) | [I'M SO PROUD OF U](https://open.spotify.com/album/21b1EF1TsDTw4iN1HwyLWd) | 1:52 |
-| 36 | [Rainbow](https://open.spotify.com/track/7si2q5ENIf0Y0MMI900VUF) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Te kinho](https://open.spotify.com/artist/1HaeBueqlH8sDfh3kDvYPt), [Don EleMesmo](https://open.spotify.com/artist/67XY5ewOuX4ZkZq6sONHWa) | [Rainbow](https://open.spotify.com/album/0gOv422ovOyM3tLNBHQITB) | 2:28 |
+| 36 | [Rainbow](https://open.spotify.com/track/7si2q5ENIf0Y0MMI900VUF) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [TEK](https://open.spotify.com/artist/66mSAN9kX6aKSJ3F8wVN1d), [Don EleMesmo](https://open.spotify.com/artist/67XY5ewOuX4ZkZq6sONHWa) | [Rainbow](https://open.spotify.com/album/0gOv422ovOyM3tLNBHQITB) | 2:28 |
 | 37 | [Dedo no Gatilho](https://open.spotify.com/track/3wZMF4qdGh3wQoPi4dFuGa) | [Maru2D](https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [LB Único](https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY) | [Dedo no Gatilho](https://open.spotify.com/album/1n9OIA7ekfipAY4l8oR5lG) | 2:43 |
 | 38 | [Paparazzi](https://open.spotify.com/track/6lbpJZhtmtJgUdLFeME5q0) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [BG\_Rj](https://open.spotify.com/artist/6gBsXhCXFoE1iT1KoVHOSa) | [Paparazzi](https://open.spotify.com/album/6aBsUc53IC27CJYQqDzKoS) | 1:56 |
 | 39 | [Será](https://open.spotify.com/track/5Xc91bJzq66BUcX6cqiEMo) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB), [tal do dias](https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD) | [Será](https://open.spotify.com/album/5w8RcZnej1jOM3LNsiEpum) | 2:42 |

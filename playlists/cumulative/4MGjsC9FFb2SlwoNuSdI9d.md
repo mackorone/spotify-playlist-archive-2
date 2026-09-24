@@ -4,12 +4,13 @@
 
 > Shake up your day at the office with this safe\-for\-work mix.
 
-301 songs - 16 hr 27 min
+303 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1234](https://open.spotify.com/track/49CP2usyaN98EdtrOWXnal) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/27Y2wm3WcFThQocgjLI5wF) | 3:03 | 2023-11-28 | 2025-04-01 |
 | [5 Foot 9](https://open.spotify.com/track/0U4iRayct65wsaBMQGiLbg) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Tyler Hubbard](https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu) | 3:09 | 2023-11-28 |  |
+| [Ain't In LA](https://open.spotify.com/track/2vntLyWkWw9Y4i3G0kCmYl) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/7Ifiyhu4wyMHojKPy2jJlb) | 3:04 | 2026-09-23 |  |
 | [All To Myself](https://open.spotify.com/track/6VCBg0frE21HuNBMM28NKJ) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [All To Myself](https://open.spotify.com/album/7drBRMlflafTPUVmDJF4Xv) | 2:36 | 2024-09-09 | 2024-10-26 |
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2023-11-28 | 2024-11-21 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2023-11-28 |  |
@@ -196,6 +197,7 @@
 | [My Mind & Me](https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [My Mind & Me](https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5) | 2:27 | 2023-11-28 | 2025-02-15 |
 | [Myself](https://open.spotify.com/track/6QYr3Z1BRQNJdXoo7wd8rL) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55), [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Myself](https://open.spotify.com/album/7BmAKVoIkU3E0SbsuhOQIT) | 2:38 | 2024-05-17 | 2024-09-10 |
 | [Never Be Yours](https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Never Be Yours](https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ) | 3:07 | 2023-11-28 | 2024-12-21 |
+| [Nicole Kidman](https://open.spotify.com/track/3fuCoVxqdBRd0xBeEivlR4) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/7Ifiyhu4wyMHojKPy2jJlb) | 3:01 | 2026-09-23 |  |
 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 | 2023-11-28 | 2025-04-01 |
 | [N’oublie Pas \(Ft\. Koriass\)](https://open.spotify.com/track/4JWcNs4BNjjGJqSArbbe2P) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [N’oublie Pas \(Ft\. Koriass\)](https://open.spotify.com/album/6HSDmPm3qHHh8V7EldYCys) | 3:30 | 2023-11-28 | 2024-11-20 |
 | [Old Dirt Roads](https://open.spotify.com/track/0ayd4fDb6rMZl9uqCY3Hzl) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Old Dirt Roads](https://open.spotify.com/album/2qc0wysNJNJtKEqCKjJmxU) | 3:47 | 2024-12-17 | 2026-05-29 |

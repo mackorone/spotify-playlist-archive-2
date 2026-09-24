@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,878 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,879 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 5 | [En aio](https://open.spotify.com/track/7KhGda2i9eKdwDw3jbbLk9) | [Aleksi Ojala](https://open.spotify.com/artist/7vzGz41CY3Wf5bWPhyUDze) | [En aio](https://open.spotify.com/album/3Uwzwt8yteAMWx5DewFpmj) | 3:25 |
 | 6 | [Laulaja](https://open.spotify.com/track/4CQjttsJjnyWFNd3Jdsy3n) | [Ville Ahonen](https://open.spotify.com/artist/2CBbMl6u2IPskInmzfR92t) | [Viimeaikaisia lauluja](https://open.spotify.com/album/3U7yJN1G3Fy9aVRErApQdE) | 3:41 |
 | 7 | [kaikki muuttaa Helsinkiin \(feat\. AK\)](https://open.spotify.com/track/25EJYDD6vWDeTNPUmsBBPJ) | [Pesso](https://open.spotify.com/artist/4YfzUV6h9GosDhtdLkwGwN), [AK](https://open.spotify.com/artist/38b5eLE9GRCgiFTHullqv7) | [kaikki muuttaa Helsinkiin \(feat\. AK\)](https://open.spotify.com/album/1O3QRcdi9HzWfklEVqFk2K) | 3:05 |
-| 8 | [Telepatiaa](https://open.spotify.com/track/489LpP8pWQzzbKLB7QFkjr) | [Alexa Roselle](https://open.spotify.com/artist/0LM4wv1uKVPom0biw5JV35) | [Telepatiaa](https://open.spotify.com/album/5HppnIgubCxSrLgscEAlNG) | 3:26 |
+| 8 | [Telepatiaa](https://open.spotify.com/track/489LpP8pWQzzbKLB7QFkjr) | [Alexa Roselle](https://open.spotify.com/artist/6AEptfRdJvmjttBVYhdsGn) | [Telepatiaa](https://open.spotify.com/album/5HppnIgubCxSrLgscEAlNG) | 3:26 |
 | 9 | [Vaasankatu 4\-ever](https://open.spotify.com/track/0QAMmreUb7QYiBk2gp9eWV) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe), [Maustetytöt](https://open.spotify.com/artist/7JHNSkrbx2b0w8psFeVE4I) | [Vaasankatu 4\-ever](https://open.spotify.com/album/1fg43qkccAFdvXtK6SoA2J) | 3:52 |
 | 10 | [Kuningas](https://open.spotify.com/track/3mNEMzmKlcoMIal3JI96Xp) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Kuningas](https://open.spotify.com/album/6iwt87kItcHr2IoP97zET2) | 3:54 |
 | 11 | [Hiljaisuus](https://open.spotify.com/track/2fqyLRYWZZRcJRfWmqOoIn) | [Kastehelmi](https://open.spotify.com/artist/6PysTj6KUdoesY60Txurxa) | [Hiljaisuus](https://open.spotify.com/album/46embklLqA4N58C8PBkRvI) | 3:17 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 26 | [Lintsille](https://open.spotify.com/track/6vmIEjKM0IxPSPUGOb6QkV) | [Suski](https://open.spotify.com/artist/3eAFW1Pf7062zlPtfaEbPE) | [Lintsille](https://open.spotify.com/album/1rYDeDaZ4IYxmulLQk91eA) | 4:00 |
 | 27 | [Laivalaulu](https://open.spotify.com/track/4t9bBGcihGeNBI7CLEgK5u) | [Elsi Sloan](https://open.spotify.com/artist/6cazkQl74MEGMuFrbDd88e), [Linda Fredriksson](https://open.spotify.com/artist/341VCWqMvdMnDP98GjaGYL) | [Laivalaulu](https://open.spotify.com/album/5lmi85s2U1IDJBytL6JzBE) | 4:12 |
 | 28 | [Turista](https://open.spotify.com/track/3VzsexppljIj6G8FwvQ1Tr) | [Sähkölaura](https://open.spotify.com/artist/0hCCfXwAqnd3Wphgu4IKJB) | [Turista](https://open.spotify.com/album/5e4YJXQQlw1sa4FjMEhu5P) | 4:02 |
-| 29 | [Satuttavan sairasta](https://open.spotify.com/track/0InvzLCSMf6higldfttXbF) | [Alexa Roselle](https://open.spotify.com/artist/0LM4wv1uKVPom0biw5JV35) | [Satuttavan sairasta](https://open.spotify.com/album/6FmKLH8p9WJIUaVD6xbGMf) | 2:49 |
+| 29 | [Satuttavan sairasta](https://open.spotify.com/track/0InvzLCSMf6higldfttXbF) | [Alexa Roselle](https://open.spotify.com/artist/6AEptfRdJvmjttBVYhdsGn) | [Satuttavan sairasta](https://open.spotify.com/album/6FmKLH8p9WJIUaVD6xbGMf) | 2:49 |
 | 30 | [toukokuu](https://open.spotify.com/track/4X0N6E4U47DP4KdYZqhIEY) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [toukokuu](https://open.spotify.com/album/38DmR5zTXO8d0eoODjDx2x) | 1:31 |
 | 31 | [Do You See Me Now](https://open.spotify.com/track/20eehsE26afsGRmLIGelaa) | [dear Peter](https://open.spotify.com/artist/6Fum60c47TKni2CXXAKAoA) | [Do You See Me Now](https://open.spotify.com/album/4wCHZ1biDkKdvTdOLsSQKn) | 3:20 |
 | 32 | [Jengi tekee sen virheen](https://open.spotify.com/track/7792JXlYkHSXvk8bPUFUOa) | [Pilven Piirtäjät](https://open.spotify.com/artist/2TXeAvWZHD0hW66yk5SZ2t) | [Jengi tekee sen virheen](https://open.spotify.com/album/5dDfkrgcQ6nkqDiOhVCH96) | 3:00 |

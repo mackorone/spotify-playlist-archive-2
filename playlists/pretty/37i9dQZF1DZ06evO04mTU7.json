@@ -1,12 +1,12 @@
 {
   "description": "This is AJULLIACOSTA. The essential tracks, all in one playlist.",
-  "num_followers": 17456,
+  "num_followers": 17479,
   "original_name": "This Is AJULLIACOSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAABW4MEbjOz0opSi4/+T0ENX",
+  "snapshot_id": "arHFAAAAAADvPB5tEWye7EkvYYwObZJl",
   "tracks": [
     {
       "added_at": null,
@@ -115,30 +115,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FREQU\u00caNCIA LUNAR",
-        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
-      },
-      "artists": [
-        {
-          "name": "BUDAH",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Franco, The Sir!",
-          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
-        }
-      ],
-      "duration_ms": 153191,
-      "name": "SUA FAVORITA",
-      "url": "https://open.spotify.com/track/7AnpPfdkT6b3Cy6fN8NdkE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Ajc 2",
         "url": "https://open.spotify.com/album/2VRQVQ9NcCHudz62D5a2Lm"
       },
@@ -167,6 +143,30 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREQU\u00caNCIA LUNAR",
+        "url": "https://open.spotify.com/album/3qbfxWGIF45fv8btLzrsDR"
+      },
+      "artists": [
+        {
+          "name": "BUDAH",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Franco, The Sir!",
+          "url": "https://open.spotify.com/artist/2dSdEXb846NGEN95MkLTYU"
+        }
+      ],
+      "duration_ms": 153191,
+      "name": "SUA FAVORITA",
+      "url": "https://open.spotify.com/track/7AnpPfdkT6b3Cy6fN8NdkE"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aju",
+        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
+      },
+      "artists": [
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+        }
+      ],
+      "duration_ms": 163933,
+      "name": "Marido de Bandida",
+      "url": "https://open.spotify.com/track/3fq4fqr3Oy2bQkNS990y0p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Pe\u00e7a Final",
         "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 147692,
       "name": "N\u00e3o Discuto por Telefone",
       "url": "https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aju",
-        "url": "https://open.spotify.com/album/314Y3jI9qbT6VjMLLRxBG6"
-      },
-      "artists": [
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
-        }
-      ],
-      "duration_ms": 163933,
-      "name": "Marido de Bandida",
-      "url": "https://open.spotify.com/track/3fq4fqr3Oy2bQkNS990y0p"
     },
     {
       "added_at": null,

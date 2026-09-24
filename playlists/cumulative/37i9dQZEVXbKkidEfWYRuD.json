@@ -20410,7 +20410,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
@@ -20428,7 +20428,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
@@ -21684,7 +21684,7 @@
       ],
       "date_added": "2021-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -25658,7 +25658,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 224444,
       "name": "\u0410\u043f\u0435\u0440\u043e\u043b\u044c",
       "url": "https://open.spotify.com/track/1F1LofXywusul19ZaTZK6X"
@@ -32340,7 +32340,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 161194,
       "name": "\u041a\u043e\u043b\u043e \u0442\u0435\u0431\u0435",
       "url": "https://open.spotify.com/track/0Ps99lC59dDFvKwZNH9UGB"
@@ -33444,7 +33444,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 242307,
       "name": "\u041b\u044e\u0434\u0438 \u0434\u043b\u044f \u043b\u044e\u0434\u0435\u0439",
       "url": "https://open.spotify.com/track/4OVOZeec45CTqW9kC0tQoW"
@@ -34966,7 +34966,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 152184,
       "name": "\u041d\u0430\u0433\u0430\u0434\u0430\u0439",
       "url": "https://open.spotify.com/track/2k1bI9pRGnUQZWhr3NmJBx"
@@ -35390,7 +35390,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 160972,
       "name": "\u041d\u0435 \u0445\u043e\u0434\u0438",
       "url": "https://open.spotify.com/track/0faPtEAgPqDfCtLDzwhujs"
@@ -41807,6 +41807,24 @@
     },
     {
       "album": {
+        "name": "\u041a\u0438\u043f\u044f\u0449\u0438\u0439 \u0430\u0434",
+        "url": "https://open.spotify.com/album/4RTsj6qUX5GSbPeGefvDKR"
+      },
+      "artists": [
+        {
+          "name": "BUINAGOLOVUSHKA",
+          "url": "https://open.spotify.com/artist/7i19V64ev2L35A9RiIeH6h"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175125,
+      "name": "\u0422\u044b \u043b\u0435\u0442\u0438",
+      "url": "https://open.spotify.com/track/42UHIWpXED2jQoFSTuCRJt"
+    },
+    {
+      "album": {
         "name": "\u0434\u0435\u043b\u0438 \u043d\u0430 \u0434\u0432\u0430",
         "url": "https://open.spotify.com/album/6HKXYwvSyK42bwGhtYMG1I"
       },
@@ -42526,7 +42544,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 124067,
       "name": "\u0424\u0420\u0423\u041a\u0422\u041e\u0412\u042b\u0419",
       "url": "https://open.spotify.com/track/7hTsSfLBd12UkWqCGGGqYZ"

@@ -1991,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "in/between.",
+        "url": "https://open.spotify.com/album/0NRiEqM3p6ytRYhlvCvA5o"
+      },
+      "artists": [
+        {
+          "name": "Blu Velvet",
+          "url": "https://open.spotify.com/artist/4GhQUESEKnWAUS4d9pcSS8"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "entity.",
+      "url": "https://open.spotify.com/track/67BaHy0IDZNcw4hxCGZ7UO"
+    },
+    {
+      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -3376,6 +3394,28 @@
       "duration_ms": 79579,
       "name": "i'm lost",
       "url": "https://open.spotify.com/track/2gZvLUKJiPWCmFrTTnVThH"
+    },
+    {
+      "album": {
+        "name": "idk",
+        "url": "https://open.spotify.com/album/18z5L7vSnqaZIdQotxLBUU"
+      },
+      "artists": [
+        {
+          "name": "vsuvi0",
+          "url": "https://open.spotify.com/artist/6nnFoym8c3UDOFQTHOnmGe"
+        },
+        {
+          "name": "i used to be happy",
+          "url": "https://open.spotify.com/artist/0uSIbNzjBbm4rJUAn1wgtu"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92800,
+      "name": "idk",
+      "url": "https://open.spotify.com/track/5CaVzdQoQ5FkynUNnRoJDm"
     },
     {
       "album": {
@@ -5967,6 +6007,28 @@
     },
     {
       "album": {
+        "name": "redefine",
+        "url": "https://open.spotify.com/album/2xkF54HKx2Jv24PS4wM5ag"
+      },
+      "artists": [
+        {
+          "name": "consule",
+          "url": "https://open.spotify.com/artist/7rUQiwZ2m1OVi4NFB7Cscu"
+        },
+        {
+          "name": ".alome",
+          "url": "https://open.spotify.com/artist/7l8WUITypiUQguHHdstdoR"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287602,
+      "name": "reverie",
+      "url": "https://open.spotify.com/track/7fNspnS5QMn9p307tM5Gl9"
+    },
+    {
+      "album": {
         "name": "The Mist",
         "url": "https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1"
       },
@@ -6410,6 +6472,28 @@
       "duration_ms": 123193,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/7pPycGu4JGUfxucnWSOt7k"
+    },
+    {
+      "album": {
+        "name": "Songs for Sad Poets Vol. III",
+        "url": "https://open.spotify.com/album/7iLOGmvw49UOoNZnhunm49"
+      },
+      "artists": [
+        {
+          "name": "Siavash Amini",
+          "url": "https://open.spotify.com/artist/7Ef6YFLZjlHkCcpC8fFSZo"
+        },
+        {
+          "name": "Eugene Thacker",
+          "url": "https://open.spotify.com/artist/4DZvOYyJFkzV2zG4i1Uycl"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459000,
+      "name": "Sigils of Decay (for Jo\u00e3o da Cruz e Sousa)",
+      "url": "https://open.spotify.com/track/09BHdbxP9KRPfsPws8zXUZ"
     },
     {
       "album": {
@@ -8004,6 +8088,24 @@
       "duration_ms": 357973,
       "name": "Unearth",
       "url": "https://open.spotify.com/track/6vMAWM4yqbgVsZtHrDd4pS"
+    },
+    {
+      "album": {
+        "name": "Specimen 7",
+        "url": "https://open.spotify.com/album/56NSBLGqj4hv8h3KvuUDIX"
+      },
+      "artists": [
+        {
+          "name": "Void Stasis",
+          "url": "https://open.spotify.com/artist/601MhAZ0By0LMs55NV2FoG"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376000,
+      "name": "Unknown Distress Signal",
+      "url": "https://open.spotify.com/track/2DPoz752VELUrdbzda0ya9"
     },
     {
       "album": {

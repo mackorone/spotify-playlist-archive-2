@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the popular Korean Cyworld bgm that embroidered the 2000s and 2010s. (\ud55c \uc2dc\uc808 \uac10\uc131\uc744 \ub300\ud45c\ud588\ub358 \uc2f8\uc774\uc6d4\ub4dc BGM\uc744 \uac10\uc0c1\ud574\ubcf4\uc138\uc694.)",
-  "num_followers": 40781,
+  "num_followers": 40785,
   "original_name": "CYWORLD BGM (\uc2f8\uc774\uc6d4\ub4dc BGM)",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Made In Korea?",
-        "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
-      },
-      "artists": [
-        {
-          "name": "cherryfilter",
-          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
-        }
-      ],
-      "duration_ms": 230240,
-      "name": "sweet little kitty",
-      "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 299426,
       "name": "\uccb4\ub150",
       "url": "https://open.spotify.com/track/2GQNIuqbHbsSJPjvp91AJg"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "Made In Korea?",
+        "url": "https://open.spotify.com/album/1Gm4TRAlvSj5RB8pM3wmRk"
+      },
+      "artists": [
+        {
+          "name": "cherryfilter",
+          "url": "https://open.spotify.com/artist/3uk3Jz2yT37niCo3c5GMf2"
+        }
+      ],
+      "duration_ms": 230240,
+      "name": "sweet little kitty",
+      "url": "https://open.spotify.com/track/0wdchmE75VwSL2zTAgbFra"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "Op. 4",
+        "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
+      },
+      "artists": [
+        {
+          "name": "Lena Park",
+          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
+        }
+      ],
+      "duration_ms": 337066,
+      "name": "In dreams",
+      "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Third Eye",
         "url": "https://open.spotify.com/album/4ANwiBBR2ZV7UI5jolOBzz"
       },
@@ -719,34 +735,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Tri-Angle - The 1st Album",
-        "url": "https://open.spotify.com/album/1013imXHa490acqEZkQpeX"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
       },
       "artists": [
         {
-          "name": "TVXQ!",
-          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
+          "name": "VIBE",
+          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
         }
       ],
-      "duration_ms": 229560,
-      "name": "Hug",
-      "url": "https://open.spotify.com/track/2NMhPQgZ0rd3kq98KJViID"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "Op. 4",
-        "url": "https://open.spotify.com/album/54OnWD6Ei0QGcjwsDBkS8F"
-      },
-      "artists": [
-        {
-          "name": "Lena Park",
-          "url": "https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD"
-        }
-      ],
-      "duration_ms": 337066,
-      "name": "In dreams",
-      "url": "https://open.spotify.com/track/1hNYiYh10zoFl4L6RrLDHq"
+      "duration_ms": 251194,
+      "name": "Love Me Once Again",
+      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/163Vvv3rKHXfsd357oudYb"
+        "name": "Tri-Angle - The 1st Album",
+        "url": "https://open.spotify.com/album/1013imXHa490acqEZkQpeX"
       },
       "artists": [
         {
-          "name": "VIBE",
-          "url": "https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI"
+          "name": "TVXQ!",
+          "url": "https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo"
         }
       ],
-      "duration_ms": 251194,
-      "name": "Love Me Once Again",
-      "url": "https://open.spotify.com/track/2FelrlNp4TK95V7jb1OJ2r"
+      "duration_ms": 229560,
+      "name": "Hug",
+      "url": "https://open.spotify.com/track/2NMhPQgZ0rd3kq98KJViID"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
+        "name": "\uadf8\ub140\uc5d0\uac8c",
+        "url": "https://open.spotify.com/album/3NH17WsgFpPm10ZKT9ngxg"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 242848,
+      "name": "\uadf8\ub140\uc5d0\uac8c",
+      "url": "https://open.spotify.com/track/4mqg37DS6OofRxxXTBmWPC"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
         "name": "Lucky 7",
         "url": "https://open.spotify.com/album/3RrKHh0VKEzefkMOekGJn9"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 267146,
       "name": "\uc751\uae09\uc2e4",
       "url": "https://open.spotify.com/track/3D5e9hqe0ebQq29RRdYo8m"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
-        "name": "\uadf8\ub140\uc5d0\uac8c",
-        "url": "https://open.spotify.com/album/3NH17WsgFpPm10ZKT9ngxg"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 242848,
-      "name": "\uadf8\ub140\uc5d0\uac8c",
-      "url": "https://open.spotify.com/track/4mqg37DS6OofRxxXTBmWPC"
     },
     {
       "added_at": "2022-06-13 13:22:46",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-06-13 13:22:46",
       "album": {
-        "name": "2nd",
-        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
-      },
-      "artists": [
-        {
-          "name": "J.ae",
-          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
-        }
-      ],
-      "duration_ms": 249106,
-      "name": "Like Yesterday",
-      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
-    },
-    {
-      "added_at": "2022-06-13 13:22:46",
-      "album": {
         "name": "Misty Memories",
         "url": "https://open.spotify.com/album/3I7hHEuZYAhnHu4JLP1jPr"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 278401,
       "name": "\ub0a0 \uc704\ud55c \uc774\ubcc4",
       "url": "https://open.spotify.com/track/6qSe6I8DAKMiRoGpOQtX7C"
+    },
+    {
+      "added_at": "2022-06-13 13:22:46",
+      "album": {
+        "name": "2nd",
+        "url": "https://open.spotify.com/album/4PF4HZrptQ6d6b2ov5RqbW"
+      },
+      "artists": [
+        {
+          "name": "J.ae",
+          "url": "https://open.spotify.com/artist/3jzvjysVAbooBjfvIqtqTY"
+        }
+      ],
+      "duration_ms": 249106,
+      "name": "Like Yesterday",
+      "url": "https://open.spotify.com/track/45k9BzXTsL9ieK6sdcfwJp"
     },
     {
       "added_at": "2022-06-13 13:22:46",

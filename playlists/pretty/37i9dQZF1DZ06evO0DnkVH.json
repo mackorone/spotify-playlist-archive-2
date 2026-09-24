@@ -1,12 +1,12 @@
 {
   "description": "This is Kate Bush. The essential tracks, all in one playlist.",
-  "num_followers": 209202,
+  "num_followers": 209217,
   "original_name": "This Is Kate Bush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAADHEX6QyYBmxOHdqzk6QEN2",
+  "snapshot_id": "arHFAAAAAADGZ9LGa69x8Pj6eoMddGZO",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sensual World (2018 Remaster)",
-        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 282173,
-      "name": "Love And Anger - 2018 Remaster",
-      "url": "https://open.spotify.com/track/1u72fgtF6guGfTjwgeHvdQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lionheart (2018 Remaster)",
         "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 216906,
       "name": "Symphony in Blue - 2018 Remaster",
       "url": "https://open.spotify.com/track/1ADI3yWnCH2cgZE9y6Ss0j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sensual World (2018 Remaster)",
+        "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 282173,
+      "name": "Love And Anger - 2018 Remaster",
+      "url": "https://open.spotify.com/track/1u72fgtF6guGfTjwgeHvdQ"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Red Shoes (2018 Remaster)",
-        "url": "https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 242386,
-      "name": "The Red Shoes - 2018 Remaster",
-      "url": "https://open.spotify.com/track/76ubKdQE7qRmHz0iZTmr0Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lionheart",
         "url": "https://open.spotify.com/album/7qeRejAsyqrM1hw3LwVPYp"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 224760,
       "name": "Never Be Mine - 2018 Remaster",
       "url": "https://open.spotify.com/track/1E504bXgCNV66KqvWGGgVo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Red Shoes (2018 Remaster)",
+        "url": "https://open.spotify.com/album/27TbJTUMdvnorsqXZzVQP6"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 242386,
+      "name": "The Red Shoes - 2018 Remaster",
+      "url": "https://open.spotify.com/track/76ubKdQE7qRmHz0iZTmr0Q"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of The Other Sides",
-        "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 299106,
-      "name": "Rocket Man",
-      "url": "https://open.spotify.com/track/2DYOj01jENtD95hQzQywHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sensual World (2018 Remaster)",
         "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 306866,
       "name": "The Fog - 2018 Remaster",
       "url": "https://open.spotify.com/track/3rK7yfxpPDOZnZlXf2XEag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of The Other Sides",
+        "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 299106,
+      "name": "Rocket Man",
+      "url": "https://open.spotify.com/track/2DYOj01jENtD95hQzQywHI"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Of The Other Sides",
-        "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 294600,
-      "name": "Experiment IV - Remastered 2025",
-      "url": "https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lionheart (2018 Remaster)",
         "url": "https://open.spotify.com/album/2CRirDu87zmvr01X8MkcQ8"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 192200,
       "name": "Oh England My Lionheart - 2018 Remaster",
       "url": "https://open.spotify.com/track/1x8tSDNiQQdGSljjcsOOus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Of The Other Sides",
+        "url": "https://open.spotify.com/album/2b5xbQveJPnV8ingqoTpgz"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 294600,
+      "name": "Experiment IV - Remastered 2025",
+      "url": "https://open.spotify.com/track/6DL2DNCbzQiqQ8DhKqgRrf"
     },
     {
       "added_at": null,

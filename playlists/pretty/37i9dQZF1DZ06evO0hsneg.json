@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAAD7rnBsaqHlF0iKVuyhyP0L",
+  "snapshot_id": "arHFAAAAAAArZrXGDSmDObejLTluKHLS",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "#COWOBARU",
+        "url": "https://open.spotify.com/album/0OYTApMUBSfz2er15MzMR8"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 139842,
+      "name": "#COWOBARU",
+      "url": "https://open.spotify.com/track/45uoZjOMDsAcA7N6Hajd4W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MULTIVERSES (Revisi Final Fix Banget)",
         "url": "https://open.spotify.com/album/3OOL3zaZdN14LLDpzRWj8e"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 253018,
       "name": "Riphunter",
       "url": "https://open.spotify.com/track/0RHXZwwxuHBohTlA6yyLkw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "#COWOBARU",
-        "url": "https://open.spotify.com/album/0OYTApMUBSfz2er15MzMR8"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 139842,
-      "name": "#COWOBARU",
-      "url": "https://open.spotify.com/track/45uoZjOMDsAcA7N6Hajd4W"
     },
     {
       "added_at": null,
@@ -411,22 +411,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vaselina (feat. euro)",
-        "url": "https://open.spotify.com/album/61EHBfjPMbmnzgiolYJzZ6"
+        "name": "DEKADE",
+        "url": "https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd"
       },
       "artists": [
         {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
         },
         {
-          "name": "euro",
-          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 157498,
-      "name": "Vaselina (feat. euro)",
-      "url": "https://open.spotify.com/track/3Pwpl8jKwkliCAg7CNrb6O"
+      "duration_ms": 221083,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "DEKADE",
-        "url": "https://open.spotify.com/album/3u9tjjOT8BMthxEWTHEKnd"
+        "name": "Vaselina (feat. euro)",
+        "url": "https://open.spotify.com/album/61EHBfjPMbmnzgiolYJzZ6"
       },
       "artists": [
         {
-          "name": "Afgan",
-          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
-        },
-        {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "euro",
+          "url": "https://open.spotify.com/artist/3d9x5nPJE3VL3ngxkZ6aUC"
         }
       ],
-      "duration_ms": 221083,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3X5vRDJKCe2ciy4saOkDIo"
+      "duration_ms": 157498,
+      "name": "Vaselina (feat. euro)",
+      "url": "https://open.spotify.com/track/3Pwpl8jKwkliCAg7CNrb6O"
     },
     {
       "added_at": null,
@@ -483,6 +483,26 @@
       "duration_ms": 214109,
       "name": "Onto The Next",
       "url": "https://open.spotify.com/track/5yCUHGvcrS9C4u98qVw6r9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't No MF (feat. pH-1)",
+        "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        }
+      ],
+      "duration_ms": 149783,
+      "name": "Ain't No MF (feat. pH-1)",
+      "url": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
     },
     {
       "added_at": null,
@@ -511,26 +531,6 @@
       "duration_ms": 187503,
       "name": "Bassgod",
       "url": "https://open.spotify.com/track/1NmLOlgJamGPEaPmX2sjuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't No MF (feat. pH-1)",
-        "url": "https://open.spotify.com/album/6KK8vlFx1nTFuC3KhLGmVm"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        }
-      ],
-      "duration_ms": 149783,
-      "name": "Ain't No MF (feat. pH-1)",
-      "url": "https://open.spotify.com/track/657BxpAXZxC9l0HPoNQgfL"
     },
     {
       "added_at": null,
@@ -699,26 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Hullera",
-          "url": "https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH"
-        }
-      ],
-      "duration_ms": 212675,
-      "name": "bad minah (feat. Hullera)",
-      "url": "https://open.spotify.com/track/2XdPqdiH87qb1101BEbfGL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MING LING (feat. Yung Raja)",
         "url": "https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj"
       },
@@ -739,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Da Man",
-        "url": "https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm"
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
       },
       "artists": [
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Hullera",
+          "url": "https://open.spotify.com/artist/2nQo9sYqeVB9Z6PzpclAUH"
         }
       ],
-      "duration_ms": 184663,
-      "name": "I'm Da Man",
-      "url": "https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm"
+      "duration_ms": 212675,
+      "name": "bad minah (feat. Hullera)",
+      "url": "https://open.spotify.com/track/2XdPqdiH87qb1101BEbfGL"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Da Man",
+        "url": "https://open.spotify.com/album/0T4vAYCddxoe9NLO4JhUrm"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 184663,
+      "name": "I'm Da Man",
+      "url": "https://open.spotify.com/track/6piZKhGU7YREW1hstDTTVm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FACTS",
         "url": "https://open.spotify.com/album/7kIk0CPPchVT9iAlt2kLZO"
       },
@@ -791,46 +791,6 @@
       "duration_ms": 147928,
       "name": "FACTS",
       "url": "https://open.spotify.com/track/1hiIrDYBx4SJfD0dnUR6K5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "no bethany",
-        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Matter Mos",
-          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
-        }
-      ],
-      "duration_ms": 174767,
-      "name": "i make time (feat. Matter Mos)",
-      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lit in Shanghai",
-        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "PSY.P",
-          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
-        }
-      ],
-      "duration_ms": 179277,
-      "name": "Lit in Shanghai",
-      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
     },
     {
       "added_at": null,
@@ -859,6 +819,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "no bethany",
+        "url": "https://open.spotify.com/album/2HMM8HjhumsynGIDpmKZfU"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 205943,
+      "name": "gippal",
+      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lit in Shanghai",
+        "url": "https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "PSY.P",
+          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
+        }
+      ],
+      "duration_ms": 179277,
+      "name": "Lit in Shanghai",
+      "url": "https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 150929,
+      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fake Friends",
         "url": "https://open.spotify.com/album/4W6r3RpxkoVgbDvK02q9Iu"
       },
@@ -882,17 +894,21 @@
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Matter Mos",
+          "url": "https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL"
         }
       ],
-      "duration_ms": 205943,
-      "name": "gippal",
-      "url": "https://open.spotify.com/track/6dGpsVXOIQaRmaVyke05Yk"
+      "duration_ms": 174767,
+      "name": "i make time (feat. Matter Mos)",
+      "url": "https://open.spotify.com/track/58BwDfVM4lTmfSbT1Qd3pL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "JUICY (From \"Joy Ride\" Official Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6MUIJVlfMQN8764XMTO1H6"
+        "name": "FASHION",
+        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
       },
       "artists": [
         {
@@ -900,25 +916,9 @@
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
         }
       ],
-      "duration_ms": 150929,
-      "name": "JUICY - From \"Joy Ride\" Official Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/20KsaDEaSlQwM7Z9q3bDKl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WHACHU MEAN",
-        "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        }
-      ],
-      "duration_ms": 214159,
-      "name": "WHACHU MEAN",
-      "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
+      "duration_ms": 193853,
+      "name": "FASHION",
+      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
       "duration_ms": 142018,
       "name": "I'm Ugly",
       "url": "https://open.spotify.com/track/2a0xHqvmeaZN2mi71zH00m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHACHU MEAN",
+        "url": "https://open.spotify.com/album/5FoWzMHf0UQsb4bdKPYz1t"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 214159,
+      "name": "WHACHU MEAN",
+      "url": "https://open.spotify.com/track/4l6yAxdimokdajN3NqpSL7"
     },
     {
       "added_at": null,
@@ -959,18 +975,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FASHION",
-        "url": "https://open.spotify.com/album/6ug6WG439KaIH5Yrl54iaH"
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
       },
       "artists": [
         {
           "name": "Ramengvrl",
           "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        },
+        {
+          "name": "Ted Park",
+          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
         }
       ],
-      "duration_ms": 193853,
-      "name": "FASHION",
-      "url": "https://open.spotify.com/track/7eGp5xyGeFRxNvvuRuI0O3"
+      "duration_ms": 169796,
+      "name": "Look At Me Now",
+      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
     },
     {
       "added_at": null,
@@ -1015,26 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Speak English",
-        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Ted Park",
-          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
-        }
-      ],
-      "duration_ms": 169796,
-      "name": "Look At Me Now",
-      "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Tinder",
         "url": "https://open.spotify.com/album/752XikWcA9rEK5EtH57Ove"
       },
@@ -1059,6 +1059,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't Speak English",
+        "url": "https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 172307,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/4XdwfNcw7sXarHdhQHKACd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mmm bye (feat. Ramengvrl)",
         "url": "https://open.spotify.com/album/0xQlcCXpwBMZdJ77YnOXi8"
       },
@@ -1075,26 +1091,6 @@
       "duration_ms": 138586,
       "name": "mmm bye (feat. Ramengvrl)",
       "url": "https://open.spotify.com/track/6oCft85iziwvcP4P1O0EcY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Emo Song (feat. Sihk)",
-        "url": "https://open.spotify.com/album/2kjjl29CB8nVwrXaEOaJO6"
-      },
-      "artists": [
-        {
-          "name": "Ramengvrl",
-          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
-        },
-        {
-          "name": "Sihk",
-          "url": "https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6"
-        }
-      ],
-      "duration_ms": 143157,
-      "name": "The Emo Song (feat. Sihk)",
-      "url": "https://open.spotify.com/track/6EVtAgOJw0NHlLXltpn41u"
     }
   ],
   "unique_name": "This Is Ramengvrl",

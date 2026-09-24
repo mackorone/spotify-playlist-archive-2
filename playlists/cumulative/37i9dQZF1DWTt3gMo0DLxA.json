@@ -589,6 +589,32 @@
     },
     {
       "album": {
+        "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/3SBWD56siGLfTGGm40Zsre"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230976,
+      "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
+    },
+    {
+      "album": {
         "name": "Om Bheem Bush",
         "url": "https://open.spotify.com/album/5Bf9d0EGx9J7m0xHA9Q3Tr"
       },
@@ -4538,7 +4564,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 193269,
       "name": "Kamsahamnida (From \"Korean Kanakaraju\")",
       "url": "https://open.spotify.com/track/2VxTKPJ2yyK1u1YzvxQkS9"

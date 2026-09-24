@@ -22067,6 +22067,24 @@
     },
     {
       "album": {
+        "name": "\u885d\u52d5\u306e\u8096\u50cf / Portrait of Impulse",
+        "url": "https://open.spotify.com/album/1jl3oP0yhujMHpyXHuEeHB"
+      },
+      "artists": [
+        {
+          "name": "mouse on the keys",
+          "url": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232129,
+      "name": "Leap",
+      "url": "https://open.spotify.com/track/3SVKibxr5AZrClYsIe3liA"
+    },
+    {
+      "album": {
         "name": "Lee Un Vile",
         "url": "https://open.spotify.com/album/02yXEG4Pjz67C3pufDY2p7"
       },
@@ -43210,24 +43228,6 @@
       "duration_ms": 258526,
       "name": "TOY",
       "url": "https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c"
-    },
-    {
-      "album": {
-        "name": "\u885d\u52d5\u306e\u8096\u50cf / Portrait of Impulse",
-        "url": "https://open.spotify.com/album/1jl3oP0yhujMHpyXHuEeHB"
-      },
-      "artists": [
-        {
-          "name": "mouse on the keys",
-          "url": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp"
-        }
-      ],
-      "date_added": "2026-09-22",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/3SVKibxr5AZrClYsIe3liA"
     },
     {
       "album": {

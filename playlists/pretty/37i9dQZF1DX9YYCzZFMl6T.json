@@ -1,6 +1,6 @@
 {
   "description": "Embrace the spirit of the season your favorite Americana artists.",
-  "num_followers": 8451,
+  "num_followers": 8458,
   "original_name": "Americana Christmas",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
-      },
-      "artists": [
-        {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "I Heard The Bells On Christmas Day",
-      "url": "https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "The Johnny Cash Family Christmas",
         "url": "https://open.spotify.com/album/6IzlXNgiKR8HIZT5aK2Oqd"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 133640,
       "name": "That Christmasy Feeling",
       "url": "https://open.spotify.com/track/28lWAOcNZRnYvSLRMUws0p"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Holidays Rule",
+        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+      },
+      "artists": [
+        {
+          "name": "The Civil Wars",
+          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "I Heard The Bells On Christmas Day",
+      "url": "https://open.spotify.com/track/1qSBHo7rjtqYdd0XJB8ngq"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -583,22 +583,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "To: Kate - A Benefit for Kate's Sake",
-        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
-      },
-      "artists": [
-        {
-          "name": "John Prine",
-          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "I'll Be Home for Christmas",
-      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Hard Candy Christmas",
         "url": "https://open.spotify.com/album/59UntnrXY6QbVLQB8XuSXl"
       },
@@ -615,34 +599,18 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Santa Man / Hot Christmas",
-        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
+        "name": "To: Kate - A Benefit for Kate's Sake",
+        "url": "https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX"
       },
       "artists": [
         {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+          "name": "John Prine",
+          "url": "https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT"
         }
       ],
-      "duration_ms": 126409,
-      "name": "Santa Man",
-      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
-        "name": "Merry Christmas Asshole",
-        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
-      },
-      "artists": [
-        {
-          "name": "Brennen Leigh",
-          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
-        }
-      ],
-      "duration_ms": 185056,
-      "name": "Merry Christmas Asshole",
-      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
+      "duration_ms": 225053,
+      "name": "I'll Be Home for Christmas",
+      "url": "https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -667,6 +635,38 @@
       "duration_ms": 191959,
       "name": "Merry Christmas Darling",
       "url": "https://open.spotify.com/track/00J60e6s8QVW5cbhjBzYgk"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Merry Christmas Asshole",
+        "url": "https://open.spotify.com/album/5hw1XopOflGny25y4XchSo"
+      },
+      "artists": [
+        {
+          "name": "Brennen Leigh",
+          "url": "https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW"
+        }
+      ],
+      "duration_ms": 185056,
+      "name": "Merry Christmas Asshole",
+      "url": "https://open.spotify.com/track/36yx9kC32DCtEWitp0WR4c"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Santa Man / Hot Christmas",
+        "url": "https://open.spotify.com/album/7x65DcvdHpNES1QBQCXqhN"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 126409,
+      "name": "Santa Man",
+      "url": "https://open.spotify.com/track/7ueoX68YqWgb8GQzDuHpdr"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -707,22 +707,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "I'll Stay 'Til After Christmas",
-        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 183933,
-      "name": "Christmas Is Coming Soon",
-      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "Auld Lang Syne",
         "url": "https://open.spotify.com/album/7FVRYiLhtZhDj7tQkmlvso"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 194582,
       "name": "Auld Lang Syne",
       "url": "https://open.spotify.com/track/5TceVTcfSq23eNJfQizLFD"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "I'll Stay 'Til After Christmas",
+        "url": "https://open.spotify.com/album/0r1QQGClCxrfkcUKwsYEbu"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 183933,
+      "name": "Christmas Is Coming Soon",
+      "url": "https://open.spotify.com/track/4tJ2WB2yfkypZ9Ve15HmlI"
     },
     {
       "added_at": "2025-12-12 05:00:29",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-12-12 05:00:29",
       "album": {
-        "name": "Let It Snow",
-        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 136566,
-      "name": "Let It Snow",
-      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
-    },
-    {
-      "added_at": "2025-12-12 05:00:29",
-      "album": {
         "name": "I Heard the Bells",
         "url": "https://open.spotify.com/album/3inmUzW5uliXu4hNQdpDUl"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 149853,
       "name": "I Heard the Bells on Christmas Day",
       "url": "https://open.spotify.com/track/3u7aseV74piywxb3SeFtWt"
+    },
+    {
+      "added_at": "2025-12-12 05:00:29",
+      "album": {
+        "name": "Let It Snow",
+        "url": "https://open.spotify.com/album/16PQQS9rAY1FUUOb7CMMGh"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 136566,
+      "name": "Let It Snow",
+      "url": "https://open.spotify.com/track/5lCwYsymf7xI0MpfhdWz7D"
     },
     {
       "added_at": "2025-12-12 05:00:29",

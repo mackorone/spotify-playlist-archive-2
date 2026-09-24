@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6SK0frMbyQXljpwhhXP4KD">Jessie Reyez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-95 songs - 5 hr 16 min
+96 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,8 +25,9 @@
 | [Con el Viento](https://open.spotify.com/track/6B2enoSQxSITUe4Y84R5EF) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Music Inspired by the Film Roma](https://open.spotify.com/album/6fn5SvyjVLlUROm7dxny1s) | 3:14 | 2022-06-04 | 2024-06-19 |
 | [Con El Viento](https://open.spotify.com/track/3uNu4hzWWquiRjPkhcUEHP) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Con El Viento](https://open.spotify.com/album/3NJFEJFYHiQPmfmbNF0OEw) | 3:44 | 2024-06-18 |  |
 | [Cotton Candy](https://open.spotify.com/track/2Qk3arYe9kMXtwq5sc4cC7) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Cotton Candy](https://open.spotify.com/album/6RfOw8x2vmRaM6XZDJWQn0) | 2:14 | 2022-06-04 |  |
+| [Courtside \(feat\. Jessie Reyez\)](https://open.spotify.com/track/3apOcd9i6d7emeGUJwOea6) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [A Muse In Her Feelings](https://open.spotify.com/album/3JhXz0ke6lknyqXKkJ2vYN) | 3:55 | 2026-09-23 |  |
 | [Courtside \(feat\. Jessie Reyez\)](https://open.spotify.com/track/47HZhxG5m2pZpzY54tQKLY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [A Muse In Her Feelings](https://open.spotify.com/album/153lLZKTVw25BTcLuXB8ME) | 3:55 | 2022-06-04 | 2023-01-03 |
-| [Courtside \(feat\. Jessie Reyez\)](https://open.spotify.com/track/4pmlYSxJbwD4wgitas1bKJ) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:55 | 2023-01-02 |  |
+| [Courtside \(feat\. Jessie Reyez\)](https://open.spotify.com/track/4pmlYSxJbwD4wgitas1bKJ) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:55 | 2023-01-02 | 2026-09-24 |
 | [DEAF \(who are you\)](https://open.spotify.com/track/0ASJErUz9Jft45bkkfNAXq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 2:53 | 2022-06-04 |  |
 | [Dear Yessie](https://open.spotify.com/track/7CF1huK3rloG4qZhp9ruor) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:09 | 2022-06-04 |  |
 | [DO YOU LOVE HER](https://open.spotify.com/track/5NRCNo7S8HP7nxYIPxemwp) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:16 | 2022-06-04 |  |

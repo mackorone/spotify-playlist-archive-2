@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day. Cover: Eric Bellinger",
-  "num_followers": 786449,
+  "num_followers": 786456,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -1069,38 +1069,6 @@
       "url": "https://open.spotify.com/track/4UHuO8rdfAw3cjxVFynq8Y"
     },
     {
-      "added_at": "2023-02-03 05:00:00",
-      "album": {
-        "name": "Back to your Place",
-        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
-      },
-      "artists": [
-        {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Back to your Place",
-      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
-    },
-    {
-      "added_at": "2025-10-17 05:46:20",
-      "album": {
-        "name": "Separate Ways",
-        "url": "https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 178538,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li"
-    },
-    {
       "added_at": "2025-01-24 07:45:43",
       "album": {
         "name": "Live For You - A COLORS SHOW",
@@ -1119,6 +1087,38 @@
       "duration_ms": 227400,
       "name": "Live For You - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7whZdZMFCIe4d790dDjqnS"
+    },
+    {
+      "added_at": "2025-10-17 05:46:20",
+      "album": {
+        "name": "Separate Ways",
+        "url": "https://open.spotify.com/album/734zTzbpPkDdnILWr9PMzi"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 178538,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/4rctevsmSetg6Lfe2HD8Li"
+    },
+    {
+      "added_at": "2023-02-03 05:00:00",
+      "album": {
+        "name": "Back to your Place",
+        "url": "https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3"
+      },
+      "artists": [
+        {
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Back to your Place",
+      "url": "https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9"
     },
     {
       "added_at": "2026-05-08 07:01:11",
@@ -1225,6 +1225,38 @@
       "url": "https://open.spotify.com/track/7fiTUtc8p2LhK6RdA4o3CH"
     },
     {
+      "added_at": "2025-10-03 18:39:49",
+      "album": {
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
+    },
+    {
+      "added_at": "2025-10-03 18:49:23",
+      "album": {
+        "name": "For Life",
+        "url": "https://open.spotify.com/album/0S0HHubwSetJNh0gPiyrIb"
+      },
+      "artists": [
+        {
+          "name": "Kindred The Family Soul",
+          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "For Life",
+      "url": "https://open.spotify.com/track/6i3JecAQTANf4N1ihMo5pe"
+    },
+    {
       "added_at": "2025-12-12 18:54:21",
       "album": {
         "name": "Summer In December",
@@ -1247,38 +1279,6 @@
       "duration_ms": 187285,
       "name": "Summer In December",
       "url": "https://open.spotify.com/track/29VTfTnGA0ZW5GbRn1WwVe"
-    },
-    {
-      "added_at": "2025-10-03 18:49:23",
-      "album": {
-        "name": "For Life",
-        "url": "https://open.spotify.com/album/0S0HHubwSetJNh0gPiyrIb"
-      },
-      "artists": [
-        {
-          "name": "Kindred The Family Soul",
-          "url": "https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "For Life",
-      "url": "https://open.spotify.com/track/6i3JecAQTANf4N1ihMo5pe"
-    },
-    {
-      "added_at": "2025-10-03 18:39:49",
-      "album": {
-        "name": "Never Gunna Give You Up",
-        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 165315,
-      "name": "Never Gunna Give You Up",
-      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
     },
     {
       "added_at": "2025-08-01 07:06:10",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/05u9J0N4u9dduKObvvYzFI"
     },
     {
-      "added_at": "2026-05-15 07:39:31",
-      "album": {
-        "name": "But, Nvm",
-        "url": "https://open.spotify.com/album/2YZZlQUGlQgf2xIiimUGlN"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "But, Nvm",
-      "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "That's You",
@@ -1583,6 +1567,22 @@
       "duration_ms": 319454,
       "name": "That's You",
       "url": "https://open.spotify.com/track/3rgPcA3yCtvVCxvcVFcBxs"
+    },
+    {
+      "added_at": "2026-05-15 07:39:31",
+      "album": {
+        "name": "But, Nvm",
+        "url": "https://open.spotify.com/album/2YZZlQUGlQgf2xIiimUGlN"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "But, Nvm",
+      "url": "https://open.spotify.com/track/7ktnXbGn8XERn7H3LXWvJG"
     },
     {
       "added_at": "2025-05-16 04:52:04",
@@ -1997,6 +1997,22 @@
       "url": "https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p"
     },
     {
+      "added_at": "2025-12-05 07:50:19",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 219862,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
+    },
+    {
       "added_at": "2025-06-27 04:00:47",
       "album": {
         "name": "Flowers",
@@ -2017,38 +2033,6 @@
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
     },
     {
-      "added_at": "2025-12-05 07:50:19",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 219862,
-      "name": "Stuck In My Head",
-      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
-    },
-    {
-      "added_at": "2026-03-13 07:29:17",
-      "album": {
-        "name": "Doctrine of Love",
-        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 200573,
-      "name": "Doctrine of Love",
-      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
-    },
-    {
       "added_at": "2025-09-26 04:57:19",
       "album": {
         "name": "Here For It All",
@@ -2067,6 +2051,22 @@
       "duration_ms": 224788,
       "name": "Play This Song (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/43SOkQYVmvy8fdiXzXtR2P"
+    },
+    {
+      "added_at": "2026-03-13 07:29:17",
+      "album": {
+        "name": "Doctrine of Love",
+        "url": "https://open.spotify.com/album/0k0sjLVPQXuItNsNNnht9l"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "Doctrine of Love",
+      "url": "https://open.spotify.com/track/0CJHyugq95CyGnDcau66cU"
     },
     {
       "added_at": "2024-11-08 14:48:31",
@@ -2141,22 +2141,6 @@
       "url": "https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW"
     },
     {
-      "added_at": "2026-05-08 07:01:11",
-      "album": {
-        "name": "Chakzilla",
-        "url": "https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 207773,
-      "name": "Chakzilla",
-      "url": "https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW"
-    },
-    {
       "added_at": "2024-11-01 04:00:00",
       "album": {
         "name": "Looking for God",
@@ -2173,20 +2157,20 @@
       "url": "https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M"
     },
     {
-      "added_at": "2025-03-07 05:51:28",
+      "added_at": "2026-05-08 07:01:11",
       "album": {
-        "name": "Entries",
-        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH"
       },
       "artists": [
         {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
         }
       ],
-      "duration_ms": 117985,
-      "name": "IDK",
-      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
+      "duration_ms": 207773,
+      "name": "Chakzilla",
+      "url": "https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW"
     },
     {
       "added_at": "2025-09-26 04:57:19",
@@ -2207,6 +2191,22 @@
       "duration_ms": 221426,
       "name": "Find My Love",
       "url": "https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l"
+    },
+    {
+      "added_at": "2025-03-07 05:51:28",
+      "album": {
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 117985,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k"
     },
     {
       "added_at": "2025-04-04 04:28:33",
@@ -2253,22 +2253,6 @@
       "url": "https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw"
     },
     {
-      "added_at": "2025-02-14 09:04:21",
-      "album": {
-        "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
-        "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 196439,
-      "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
-      "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -2283,6 +2267,22 @@
       "duration_ms": 216436,
       "name": "How Does It Make You Feel",
       "url": "https://open.spotify.com/track/3TLUPabatqnokgoZdfXUAV"
+    },
+    {
+      "added_at": "2025-02-14 09:04:21",
+      "album": {
+        "name": "YES IT IS [(Spotify OUTSIDE Version) - Live from Los Angeles, CA]",
+        "url": "https://open.spotify.com/album/197TD1wimZSgFqLKgNBmhd"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 196439,
+      "name": "YES IT IS - (Spotify OUTSIDE Version) - Live from Los Angeles, CA",
+      "url": "https://open.spotify.com/track/6QeXcwOLUZbvLHNQrTM5uZ"
     },
     {
       "added_at": "2025-10-03 18:39:49",
@@ -2441,20 +2441,20 @@
       "url": "https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi"
     },
     {
-      "added_at": "2026-07-24 06:09:33",
+      "added_at": "2024-09-13 09:22:53",
       "album": {
-        "name": "Silent Treatment",
-        "url": "https://open.spotify.com/album/0uWQFPszr6SJZ695zVp029"
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
       },
       "artists": [
         {
-          "name": "October London",
-          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
+          "name": "MAYOR",
+          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
         }
       ],
-      "duration_ms": 193333,
-      "name": "Silent Treatment",
-      "url": "https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2"
+      "duration_ms": 129707,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -2473,40 +2473,20 @@
       "url": "https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI"
     },
     {
-      "added_at": "2024-09-13 09:22:53",
+      "added_at": "2026-07-24 06:09:33",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE"
+        "name": "Silent Treatment",
+        "url": "https://open.spotify.com/album/0uWQFPszr6SJZ695zVp029"
       },
       "artists": [
         {
-          "name": "MAYOR",
-          "url": "https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko"
+          "name": "October London",
+          "url": "https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t"
         }
       ],
-      "duration_ms": 129707,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd"
-    },
-    {
-      "added_at": "2025-06-27 04:00:47",
-      "album": {
-        "name": "Stare at Me",
-        "url": "https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu"
-      },
-      "artists": [
-        {
-          "name": "JANE HANDCOCK",
-          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        }
-      ],
-      "duration_ms": 235658,
-      "name": "Stare at Me",
-      "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
+      "duration_ms": 193333,
+      "name": "Silent Treatment",
+      "url": "https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2"
     },
     {
       "added_at": "2025-02-21 07:53:52",
@@ -2527,6 +2507,26 @@
       "duration_ms": 317966,
       "name": "No Business",
       "url": "https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1"
+    },
+    {
+      "added_at": "2025-06-27 04:00:47",
+      "album": {
+        "name": "Stare at Me",
+        "url": "https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu"
+      },
+      "artists": [
+        {
+          "name": "JANE HANDCOCK",
+          "url": "https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "duration_ms": 235658,
+      "name": "Stare at Me",
+      "url": "https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a"
     },
     {
       "added_at": "2025-11-21 11:03:13",

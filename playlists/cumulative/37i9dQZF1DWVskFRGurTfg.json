@@ -9584,16 +9584,16 @@
       },
       "artists": [
         {
-          "name": "El Goldo",
-          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
-        },
-        {
           "name": "Bigg Danny",
           "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
         },
         {
           "name": "El Americano 4KT",
           "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
         }
       ],
       "date_added": "2026-09-08",
@@ -16208,7 +16208,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 210370,
       "name": "MUSA REMIX",
       "url": "https://open.spotify.com/track/5ReIuecGjsHabpYSNlKnuR"
@@ -18766,6 +18766,32 @@
       "duration_ms": 165517,
       "name": "Paraca\u00eddas",
       "url": "https://open.spotify.com/track/5nHI1ntEJAmVtBX9j8BHCF"
+    },
+    {
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342485,
+      "name": "PARADIXE",
+      "url": "https://open.spotify.com/track/1SibbsD9N244CWhIL9FzjN"
     },
     {
       "album": {

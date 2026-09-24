@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: MALIK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,113 likes - 94 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,135 likes - 94 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Best of South Asian Music. Cover: Atif Aslam",
+  "description": "Best of South Asian Music. Cover: Anuv Jain",
   "name": "Desi Hits",
   "tracks": [
     {
@@ -208,7 +208,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 110932,
       "name": "48 Rhymes",
       "url": "https://open.spotify.com/track/6voByoJq77rN6FITdRhtLb"
@@ -498,7 +498,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 185142,
       "name": "Aarzu (with Asim Azhar)",
       "url": "https://open.spotify.com/track/1GnZH0wek1fkGCQnUsK6D0"
@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 202618,
       "name": "Ammo (feat. Sultaan)",
       "url": "https://open.spotify.com/track/7fN0FOUaOWN722v8EJMzQ4"
@@ -1292,7 +1292,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 294500,
       "name": "Arz Kiya Hai | Coke Studio Bharat",
       "url": "https://open.spotify.com/track/1bMkimTb47umgNP6xCi4A1"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2025-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 164042,
       "name": "At Peace",
       "url": "https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41"
@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 168614,
       "name": "ATTACH",
       "url": "https://open.spotify.com/track/1yLkaCYXVyA2wGy9ueeKg5"
@@ -2209,6 +2209,28 @@
     },
     {
       "album": {
+        "name": "Casa Tupka Anthemo",
+        "url": "https://open.spotify.com/album/2in9Bgw7e4jKwH8aKZUkEH"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Priyanshi",
+          "url": "https://open.spotify.com/artist/1E4AXdW5q4Ws3exzW0ZaU9"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Casa Tupka Anthemo",
+      "url": "https://open.spotify.com/track/0cbmbkbCIg97a0CTt2c0Y0"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -2470,7 +2492,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 280909,
       "name": "Chand Mera Dil - Title Track",
       "url": "https://open.spotify.com/track/7inoeZv3zCm7A2eMa7MPUI"
@@ -3516,7 +3538,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 248328,
       "name": "Dil Sukoon",
       "url": "https://open.spotify.com/track/7vT0ZQiKD7R2KfJT31VxbF"
@@ -3542,6 +3564,32 @@
       "duration_ms": 237333,
       "name": "Dil Tu Jaan Tu",
       "url": "https://open.spotify.com/track/69Qzz3yyQSsA0T95jLDoPL"
+    },
+    {
+      "album": {
+        "name": "Dil | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/2UuTBgTE0qg0DhE7xyrUcZ"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "Zoha Waseem",
+          "url": "https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186185,
+      "name": "Dil | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/5qZZiU7CqeLFUPL8afsiSd"
     },
     {
       "album": {
@@ -3900,7 +3948,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 234671,
       "name": "Farebi",
       "url": "https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V"
@@ -4660,7 +4708,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 309945,
       "name": "Hairan Amanam (feat. Tissilawen)",
       "url": "https://open.spotify.com/track/0avO50pud1zOzaFKh3efBV"
@@ -4856,7 +4904,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 275076,
       "name": "Hum",
       "url": "https://open.spotify.com/track/7oNZfE9wnu7SP55LwNSiKG"
@@ -4892,7 +4940,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 348961,
       "name": "Hun Ishq Main",
       "url": "https://open.spotify.com/track/5tHkXCQ2abWE8TSPFZiNmU"
@@ -5152,7 +5200,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 194523,
       "name": "Ishq",
       "url": "https://open.spotify.com/track/31HU1zDw7DRAEw6BiCYtpo"
@@ -5482,7 +5530,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-01",
+      "date_removed": null,
       "duration_ms": 192203,
       "name": "Jab Talak - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/3KZSwka3VHbj4edxiaqxfa"
@@ -6031,6 +6079,36 @@
     },
     {
       "album": {
+        "name": "KALYANI (with Shreya Ghoshal) [Remix]",
+        "url": "https://open.spotify.com/album/7JIw6me0sSXfs4nGwNaTHw"
+      },
+      "artists": [
+        {
+          "name": "ARJN",
+          "url": "https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi"
+        },
+        {
+          "name": "KDS",
+          "url": "https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7"
+        },
+        {
+          "name": "FIFTY4",
+          "url": "https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269387,
+      "name": "KALYANI (with Shreya Ghoshal) - Remix",
+      "url": "https://open.spotify.com/track/2y8mkajKikV5S1PRCMQ5WL"
+    },
+    {
+      "album": {
         "name": "Kamaal Hai",
         "url": "https://open.spotify.com/album/7vG3uRojLPMdBznnbpO2TR"
       },
@@ -6046,7 +6124,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-21",
+      "date_removed": null,
       "duration_ms": 228461,
       "name": "Kamaal Hai",
       "url": "https://open.spotify.com/track/5ymJ795K518y3ACGAytG4l"
@@ -8466,7 +8544,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 206666,
       "name": "November",
       "url": "https://open.spotify.com/track/1iLXhHoTsgZhzh9ZQdcW2m"
@@ -8993,6 +9071,24 @@
     },
     {
       "album": {
+        "name": "Hanuman Ansh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1DlVPtSdh0eXgXLZA4Newq"
+      },
+      "artists": [
+        {
+          "name": "Sadhu Tiwari",
+          "url": "https://open.spotify.com/artist/3O1k8nK9y1xTzGpKnLyLEi"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284843,
+      "name": "Parvati",
+      "url": "https://open.spotify.com/track/1Z3QzpDrOqINSkmJODoGnd"
+    },
+    {
+      "album": {
         "name": "Pasoori",
         "url": "https://open.spotify.com/album/7wgrW5XyZdtk0K8PkW5A7h"
       },
@@ -9160,6 +9256,24 @@
       "duration_ms": 266075,
       "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS"
+    },
+    {
+      "album": {
+        "name": "Phir Mileinge Hum",
+        "url": "https://open.spotify.com/album/0v16YCJsMxkrC0IQbVUIKn"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "Phir Mileinge Hum",
+      "url": "https://open.spotify.com/track/4MXrxm7NwiDzdIdiawJyKu"
     },
     {
       "album": {
@@ -9634,6 +9748,32 @@
       "duration_ms": 291462,
       "name": "Rait Zara Si (From \"Atrangi Re\")",
       "url": "https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi"
+    },
+    {
+      "album": {
+        "name": "Rangeen | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/4aLu7Zndj5FQRV1Oh62Tgy"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Izzchughtai",
+          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221443,
+      "name": "Rangeen | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/7cO7GWk6vUGNcAUXMJ2Bdj"
     },
     {
       "album": {
@@ -10624,7 +10764,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 191020,
       "name": "SHERIYA",
       "url": "https://open.spotify.com/track/3mpHzsOufcQoVMjpZPc2Kd"
@@ -11184,7 +11324,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 154473,
       "name": "Taare",
       "url": "https://open.spotify.com/track/2iVj11OdEBNIGUv9f7jGPK"
@@ -11766,7 +11906,7 @@
       ],
       "date_added": "2025-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 147169,
       "name": "Teri Ramjhol Bole Gi (feat. Kay D)",
       "url": "https://open.spotify.com/track/3PWfXDaGLxwN9UJDHMEyKi"
@@ -11948,7 +12088,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 215294,
       "name": "TMRC (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/6uJ55qOrEfOqyMVQmyAOJs"
@@ -12000,7 +12140,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 290779,
       "name": "Toh Phir Aao - New Version (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/6LYfwNkkrplbxbheWtkBL2"
@@ -12116,7 +12256,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 149599,
       "name": "Tu Hai Wohi",
       "url": "https://open.spotify.com/track/3hrvVVBKL6jfpqGzR2WSlH"
@@ -13174,7 +13314,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 298144,
       "name": "Yeh Awarapan (From \"Awarapan 2\")",
       "url": "https://open.spotify.com/track/4DrGqb7UBc12MTDahpRIi4"
@@ -13196,7 +13336,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 218574,
       "name": "Yeh Meri Zindagi",
       "url": "https://open.spotify.com/track/7w0A7WgUw5HpLFr94qz1uu"

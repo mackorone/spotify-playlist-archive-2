@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 
 > The IDs that got us here\. \#Spotify20
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,258 likes - 95 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,268 likes - 95 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 45 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 |
 | 46 | [Disco Tetris \- Edit](https://open.spotify.com/track/2G5jdY4fPzbpCKh9f1QRRk) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t) | [Disco Tetris \(Edit\)](https://open.spotify.com/album/7cSa3dyGTOfU5mgd5fmGM9) | 3:18 |
 | 47 | [Knights of the Jaguar](https://open.spotify.com/track/3xxARypr8NdEMesYUHSsGK) | [Rolando](https://open.spotify.com/artist/0s1ELavwiZMFYDL31VDJpx) | [Paradise Garage: Inspirations](https://open.spotify.com/album/7dTbTFJlJ1xzjnoXKxIKeC) | 6:37 |
-| 48 | [What They Say](https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [What They Say EP](https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI) | 6:40 |
-| 49 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
+| 48 | [Carry On](https://open.spotify.com/track/1B1QyU5S0rIrokfaV9Zq4a) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Joli Mai](https://open.spotify.com/album/2NF7kUOEaNYhCWLANV85Aj) | 3:46 |
+| 49 | [What They Say](https://open.spotify.com/track/5S7Y5HgQ2HPqiCVkKylT2r) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [What They Say EP](https://open.spotify.com/album/0DECxh5mdTBhB2Rw9qE7UI) | 6:40 |
 | 50 | [Baby](https://open.spotify.com/track/0wPfUQUkWcguy2iUH0BWOT) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Sixteen Oceans](https://open.spotify.com/album/5gIa8hTQGPwVeNYjDwrraZ) | 4:24 |
 | 51 | [Operator \- DJ Koze's Disco Edit](https://open.spotify.com/track/37ZDfygEHF7SMoYGDqM1uv) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Operator \(DJ Koze's 12 inch Extended Disco Versions\)](https://open.spotify.com/album/2k4POCag6LGhJ83pgcub52) | 5:08 |
 | 52 | [Full Circle](https://open.spotify.com/track/4XK1a9vdsiDmhvdkFzGCQh) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [Boxed In](https://open.spotify.com/artist/6bxYUbMVzrPTOmzwey8Hgh) | [Fading Love](https://open.spotify.com/album/1v6BipCE7YBMOBcAN0j0EH) | 4:52 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX872DkSi7RQn.md) - [plain]
 | 66 | [Wololo \(feat\. Mampintsha\)](https://open.spotify.com/track/0gkhHVkv7DXEl45Kz9Wc02) | [Babes Wodumo](https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e), [Mampintsha](https://open.spotify.com/artist/2XyZibBnLI6ciT5J5ynkUK) | [Gqom Queen, Vol\. 1](https://open.spotify.com/album/559VwCubqkBKyHnX9jNFCW) | 6:30 |
 | 67 | [U](https://open.spotify.com/track/1lvpyd1lQjutZa6YnAE8aH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Time Spent Away From U](https://open.spotify.com/album/5DlpzmONGJYLOUBcHvjfSM) | 6:08 |
 | 68 | [Bigger Than Prince \- Hot Since 82 Remix](https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f) | [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [The Chapters of Green Velvet](https://open.spotify.com/album/1hn0CRNZw1u16Jd2Vvopt4) | 6:34 |
-| 69 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
-| 70 | [Not So Much](https://open.spotify.com/track/12OGDOFXnFjglpMNlUXw7r) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Holy Love](https://open.spotify.com/album/05BFW14n8oRIelRWgVZoF5) | 4:06 |
-| 71 | [Can't Do Without You \- Tale of Us & Mano Le Tough Remix](https://open.spotify.com/track/26JOdLAIiuUHnV3aGf2EeJ) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love \(Expanded Edition\)](https://open.spotify.com/album/44reU0ojnJfLw8n9bkIwTf) | 7:36 |
+| 69 | [Not So Much](https://open.spotify.com/track/12OGDOFXnFjglpMNlUXw7r) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O) | [Holy Love](https://open.spotify.com/album/05BFW14n8oRIelRWgVZoF5) | 4:06 |
+| 70 | [Can't Do Without You \- Tale of Us & Mano Le Tough Remix](https://open.spotify.com/track/26JOdLAIiuUHnV3aGf2EeJ) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love \(Expanded Edition\)](https://open.spotify.com/album/44reU0ojnJfLw8n9bkIwTf) | 7:36 |
+| 71 | [The Shit Baby](https://open.spotify.com/track/77u4D7eaO0T6zVby7kybyP) | [Omar S](https://open.spotify.com/artist/3BvWiyLcyLMoOIm2U8HepI), [D Taylor](https://open.spotify.com/artist/5T3UHLFXGCs6i2EmnYMo5I) | [Thank You for Letting Me Be Myself](https://open.spotify.com/album/4F2e3QOG2AqIIu8XxTIRGi) | 6:53 |
 | 72 | [The Trouble With Us](https://open.spotify.com/track/3R4YGabTbQOCI2QQFOoExz) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [Marcus Marr](https://open.spotify.com/artist/6l5dAUNRhHnRSPPmRJSKQr) | [Work](https://open.spotify.com/album/4yEYyherxD08uFcJqn7gDP) | 3:42 |
 | 73 | [Flutes \- Sasha Remix](https://open.spotify.com/track/7box2kBEv7mAsRpSucsdtw) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Sasha](https://open.spotify.com/artist/6u4jLGLPuarS3i2XWHVxoS) | [Flutes \(Sasha Remix\)](https://open.spotify.com/album/04vBHp4pKgLPCvkypB4wwH) | 9:29 |
 | 74 | [He Is the Voice I Hear](https://open.spotify.com/track/0bC0IHtRUfM82mozT9cjCh) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [He Is the Voice I Hear](https://open.spotify.com/album/76LFRQ0iWwIJLvdyxL6CzK) | 10:29 |

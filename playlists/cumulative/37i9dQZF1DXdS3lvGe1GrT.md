@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Mynolia
 
-2,210 songs - 5 day 12 hr 7 min
+2,211 songs - 5 day 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1342,6 +1342,7 @@
 | [Mourning Dove](https://open.spotify.com/track/6kvDSMslDzKxEZ06inXkIO) | [Theo Kandel](https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q) | [Mourning Dove](https://open.spotify.com/album/41i7vdiC1CKg5TCPQxAlhQ) | 4:18 | 2026-01-21 | 2026-04-09 |
 | [Mourning Song](https://open.spotify.com/track/1D4wP2P16amoaTKWLh5y5H) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [God Help Me Now](https://open.spotify.com/album/6lPSYAClI7xSbjT2ALiBAc) | 4:04 | 2025-01-22 | 2026-01-15 |
 | [Move On](https://open.spotify.com/track/7D4Q6btbrJaOyv8Niet3eZ) | [Joe Vann](https://open.spotify.com/artist/4sjzQ6LenQjUsRb6g0sHuq) | [Move On](https://open.spotify.com/album/6ZA1WBs5GbQwcQ4hianLgl) | 2:59 | 2023-05-10 | 2023-07-13 |
+| [Move on!](https://open.spotify.com/track/5Y10nfEMHUvWXMFkdgcl4F) | [Stella Dunai](https://open.spotify.com/artist/03UFzahBbYcVlyOu47RQzi) | [Move on!](https://open.spotify.com/album/3SApspsfVSosFdQZDIvckp) | 3:05 | 2026-09-23 |  |
 | [Move Slow \(Song For Eggs\)](https://open.spotify.com/track/7e9fVlxQXbOvIaH41Mub1C) | [Blackaby](https://open.spotify.com/artist/1Wo9pV7JNPzVzDbVbPJQwE) | [Move Slow \(Song For Eggs\)](https://open.spotify.com/album/3Mvp2tqdoUVlZbc7mqzVvq) | 2:22 | 2023-07-12 | 2023-08-10 |
 | [Movie Scene](https://open.spotify.com/track/7GnxDkjxUmJuUmdMhuQSX9) | [Quinn Devlin](https://open.spotify.com/artist/1a18ASCKBGTJJ95oIl7M5J) | [Movie Scene](https://open.spotify.com/album/3P4EOQogyfdexG1OooDhnm) | 2:54 | 2023-06-21 | 2023-08-31 |
 | [Moving Light](https://open.spotify.com/track/4MrpDYKdZ8CYsfTw3hnNma) | [Ezra Glatt](https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek) | [Moving Light](https://open.spotify.com/album/4t4E8cI5Nxb1jRPwqmNDbA) | 1:32 | 2022-08-03 | 2022-11-10 |
@@ -2071,7 +2072,7 @@
 | [Vessel](https://open.spotify.com/track/4gkTNUit67mZlRMadhbMX4) | [Emily Izen Row](https://open.spotify.com/artist/6SV73vTipMWJYYDmHxQKK6) | [Vessel](https://open.spotify.com/album/3wHiVUNd5o031NpArPFgwd) | 4:10 | 2025-05-07 | 2025-07-10 |
 | [Villain](https://open.spotify.com/track/7tbJLOSjSOeq7ZPOuclI2W) | [Caity Krone](https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs) | [Villain](https://open.spotify.com/album/4j3HkXtgfYfRMMb8yIU8OJ) | 3:43 | 2023-09-27 | 2024-01-11 |
 | [Vino](https://open.spotify.com/track/1BtDwiCEJdkLZTNOzy34T0) | [Michael Stevens](https://open.spotify.com/artist/4zhtWLmd8goEurT8obHTJe), [Annamarie Rosanio](https://open.spotify.com/artist/7LtYuMQ3wFY4fGX8Rvq6gD) | [Vino](https://open.spotify.com/album/7rPUkB1LD7HKRZuLWLKrbP) | 4:48 | 2022-11-23 | 2023-03-02 |
-| [Vinyl Spinning](https://open.spotify.com/track/4VG0Pd2MaaoBZprgUJV2Nn) | [Essy Sparrow](https://open.spotify.com/artist/0SKfJH94hxcbotdBSIvTRj) | [Vinyl Spinning](https://open.spotify.com/album/3o9I6K90GAd4L0Yh6DdnTp) | 4:12 | 2026-07-02 |  |
+| [Vinyl Spinning](https://open.spotify.com/track/4VG0Pd2MaaoBZprgUJV2Nn) | [Essy Sparrow](https://open.spotify.com/artist/0SKfJH94hxcbotdBSIvTRj) | [Vinyl Spinning](https://open.spotify.com/album/3o9I6K90GAd4L0Yh6DdnTp) | 4:12 | 2026-07-02 | 2026-09-24 |
 | [Violent Jubilee](https://open.spotify.com/track/5gPw1XHtkUbEb7Nvn0dWZH) | [Fust](https://open.spotify.com/artist/70kEs7OMlk8egbrVvRlOIv), [Michael Cormier\-O'Leary](https://open.spotify.com/artist/6CevQ5Yk15A1z2cGprzaDr) | [Genevieve](https://open.spotify.com/album/28ubUYxqNy4imV9jfWsSsH) | 5:09 | 2023-06-28 | 2023-09-15 |
 | [violet](https://open.spotify.com/track/33Qa5hM4hSlJY3bbpoFl9G) | [Marianne Ross](https://open.spotify.com/artist/3N8pECzlNdVgozhW0SEp9j) | [violet](https://open.spotify.com/album/4vRjnRTAH2w8Xy17CegJWN) | 1:50 | 2024-01-10 | 2025-01-16 |
 | [Virginia Pastoral](https://open.spotify.com/track/6QVqAns8QLt0ykYY7Z27Jc) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [The Crowning](https://open.spotify.com/album/5RKs56AFtKc48TwoMk6620) | 3:32 | 2026-05-20 | 2026-09-17 |

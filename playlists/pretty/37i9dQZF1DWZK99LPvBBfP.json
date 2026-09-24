@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 387275,
+  "num_followers": 387361,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -567,6 +567,26 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
+        "name": "Trance Classics, Vol. 01",
+        "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
+      },
+      "artists": [
+        {
+          "name": "Ayla",
+          "url": "https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq"
+        },
+        {
+          "name": "Taucher",
+          "url": "https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "Ayla - DJ Taucher Radio Edit",
+      "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
         "name": "Everybody's Free",
         "url": "https://open.spotify.com/album/5aQvlWnZ4ccLkCSOUMIA2X"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 212426,
       "name": "Everybody's Free (Single Version)",
       "url": "https://open.spotify.com/track/1gMZCGs6bxhyPeHAEiNc3i"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
-        "name": "It's In the Lifestyle (Limited Edition)",
-        "url": "https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt"
-      },
-      "artists": [
-        {
-          "name": "Kings Of Tomorrow",
-          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
-        },
-        {
-          "name": "Julie McKnight",
-          "url": "https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f"
-        }
-      ],
-      "duration_ms": 315826,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -619,22 +619,22 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Trance Classics, Vol. 01",
-        "url": "https://open.spotify.com/album/12WxRPHrbNqPR9MXOrAMtC"
+        "name": "It's In the Lifestyle (Limited Edition)",
+        "url": "https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt"
       },
       "artists": [
         {
-          "name": "Ayla",
-          "url": "https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq"
+          "name": "Kings Of Tomorrow",
+          "url": "https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX"
         },
         {
-          "name": "Taucher",
-          "url": "https://open.spotify.com/artist/0LTOhhlPSPjhOamlAhbYfa"
+          "name": "Julie McKnight",
+          "url": "https://open.spotify.com/artist/2LPS6uBLdlOd860p080v4f"
         }
       ],
-      "duration_ms": 238466,
-      "name": "Ayla - DJ Taucher Radio Edit",
-      "url": "https://open.spotify.com/track/4acv9cybr3QdBcQ5WpyiI1"
+      "duration_ms": 315826,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Adventures Beyond The Ultraworld",
-        "url": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk"
-      },
-      "artists": [
-        {
-          "name": "The Orb",
-          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
-        }
-      ],
-      "duration_ms": 267666,
-      "name": "Little Fluffy Clouds",
-      "url": "https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Destination Calabria",
         "url": "https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 416333,
       "name": "Destination Calabria - Extended Mix",
       "url": "https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Adventures Beyond The Ultraworld",
+        "url": "https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk"
+      },
+      "artists": [
+        {
+          "name": "The Orb",
+          "url": "https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF"
+        }
+      ],
+      "duration_ms": 267666,
+      "name": "Little Fluffy Clouds",
+      "url": "https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE"
     },
     {
       "added_at": "2024-03-22 15:59:52",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Acqua E Viento",
-        "url": "https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g"
-      },
-      "artists": [
-        {
-          "name": "Tullio De Piscopo",
-          "url": "https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk"
-        }
-      ],
-      "duration_ms": 434000,
-      "name": "Stop Bajon - Club Mix",
-      "url": "https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Mutual Feelin' (Edit)",
         "url": "https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 226000,
       "name": "Mutual Feelin' - Edit",
       "url": "https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Acqua E Viento",
+        "url": "https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g"
+      },
+      "artists": [
+        {
+          "name": "Tullio De Piscopo",
+          "url": "https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk"
+        }
+      ],
+      "duration_ms": 434000,
+      "name": "Stop Bajon - Club Mix",
+      "url": "https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B"
     },
     {
       "added_at": "2024-03-22 15:59:52",

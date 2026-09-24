@@ -1,12 +1,12 @@
 {
   "description": "This is T.I BLAZE. The essential tracks, all in one playlist.",
-  "num_followers": 12454,
+  "num_followers": 12466,
   "original_name": "This Is T.I BLAZE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAAC4T1edwSIdRwgKP2wJ1jqo",
+  "snapshot_id": "arHFAAAAAACk12LdoB+W1iwtwkGJUshM",
   "tracks": [
     {
       "added_at": null,
@@ -287,18 +287,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shakur (Deluxe)",
-        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
+        "name": "DUPE",
+        "url": "https://open.spotify.com/album/1BynWE5Yx8FyyGeBITcuEh"
       },
       "artists": [
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        },
+        {
+          "name": "Temadey",
+          "url": "https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv"
         }
       ],
-      "duration_ms": 177931,
-      "name": "My Brother",
-      "url": "https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi"
+      "duration_ms": 188212,
+      "name": "DUPE",
+      "url": "https://open.spotify.com/track/0hMqF6NlfWoxLAHe0OkIBw"
     },
     {
       "added_at": null,
@@ -319,22 +323,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUPE",
-        "url": "https://open.spotify.com/album/1BynWE5Yx8FyyGeBITcuEh"
+        "name": "Shakur (Deluxe)",
+        "url": "https://open.spotify.com/album/3ZgFmnpdR7O8sX6USTzWDE"
       },
       "artists": [
         {
           "name": "T.I BLAZE",
           "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        },
-        {
-          "name": "Temadey",
-          "url": "https://open.spotify.com/artist/655vDDQSEnUaFqWzWqBaEv"
         }
       ],
-      "duration_ms": 188212,
-      "name": "DUPE",
-      "url": "https://open.spotify.com/track/0hMqF6NlfWoxLAHe0OkIBw"
+      "duration_ms": 177931,
+      "name": "My Brother",
+      "url": "https://open.spotify.com/track/7pzHI4SRRFgXBrmUoILjbi"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okanlawon, Vol. 2 (Deluxe)",
-        "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
-      },
-      "artists": [
-        {
-          "name": "Cazulee",
-          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
-        },
-        {
-          "name": "T.I BLAZE",
-          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
-        }
-      ],
-      "duration_ms": 212871,
-      "name": "The Way - Remix",
-      "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jogo (Smoke Up)",
         "url": "https://open.spotify.com/album/3HndRgBEhbGXfbG0H2wBjr"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 169195,
       "name": "Jogo - Smoke Up",
       "url": "https://open.spotify.com/track/3VxCbXh5pCsSviROdexcOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Okanlawon, Vol. 2 (Deluxe)",
+        "url": "https://open.spotify.com/album/3YXxTYQmFKyFe8tcKZET0t"
+      },
+      "artists": [
+        {
+          "name": "Cazulee",
+          "url": "https://open.spotify.com/artist/4gLcUTaXzla4e589pCdf8q"
+        },
+        {
+          "name": "T.I BLAZE",
+          "url": "https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC"
+        }
+      ],
+      "duration_ms": 212871,
+      "name": "The Way - Remix",
+      "url": "https://open.spotify.com/track/1qfKtilbhqwPG9A2lBLCNC"
     },
     {
       "added_at": null,

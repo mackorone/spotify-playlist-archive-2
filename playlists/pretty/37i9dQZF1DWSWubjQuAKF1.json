@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Qncicka",
-  "num_followers": 26546,
+  "num_followers": 26553,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
+        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
+        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "OPIUM",
+      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
         "name": "Terapia dla par",
         "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 241395,
       "name": "Terapia dla par",
       "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
-        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
-        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
-      },
-      "artists": [
-        {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "OPIUM",
-      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -403,18 +403,34 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "PARANOJA",
-        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
       },
       "artists": [
         {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+          "name": "Kinga Wo\u0142oszyn",
+          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
         }
       ],
-      "duration_ms": 116885,
-      "name": "PARANOJA",
-      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
+      "duration_ms": 194630,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
+        "name": "TRESURA",
+        "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "duration_ms": 190062,
+      "name": "TRESURA",
+      "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -435,18 +451,18 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "TRESURA",
-        "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
+        "name": "PARANOJA",
+        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
       },
       "artists": [
         {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
         }
       ],
-      "duration_ms": 190062,
-      "name": "TRESURA",
-      "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
+      "duration_ms": 116885,
+      "name": "PARANOJA",
+      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -471,38 +487,6 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "Nie za\u015bpiewam Twojej mamie",
-        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
-      },
-      "artists": [
-        {
-          "name": "Briela",
-          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
-        }
-      ],
-      "duration_ms": 190506,
-      "name": "Nie za\u015bpiewam Twojej mamie",
-      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
-      },
-      "artists": [
-        {
-          "name": "Kinga Wo\u0142oszyn",
-          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
         "name": "Ta\u0144cz i kochaj",
         "url": "https://open.spotify.com/album/36fNyhTRkKcKRFEZ2u3wla"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 173454,
       "name": "Ta\u0144cz i kochaj",
       "url": "https://open.spotify.com/track/2JM1chl2LrZLp2O56Pgb82"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
+        "name": "Nie za\u015bpiewam Twojej mamie",
+        "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
+      },
+      "artists": [
+        {
+          "name": "Briela",
+          "url": "https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf"
+        }
+      ],
+      "duration_ms": 190506,
+      "name": "Nie za\u015bpiewam Twojej mamie",
+      "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "Nadwodne miasto",
-        "url": "https://open.spotify.com/album/0CIuv9E6CIKkK395Ha63Lb"
-      },
-      "artists": [
-        {
-          "name": "Natalia Marczuk",
-          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
-        }
-      ],
-      "duration_ms": 217617,
-      "name": "Nadwodne miasto",
-      "url": "https://open.spotify.com/track/5CWurWx4wdICZSTsXEe3OZ"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
         "name": "Po drugiej stronie szk\u0142a",
         "url": "https://open.spotify.com/album/2QRmQC5t6mD4aXdUQuPfjV"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 158222,
       "name": "Po drugiej stronie szk\u0142a",
       "url": "https://open.spotify.com/track/7uyrqEix2UJUrCqOOFsnKf"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
+        "name": "Nadwodne miasto",
+        "url": "https://open.spotify.com/album/0CIuv9E6CIKkK395Ha63Lb"
+      },
+      "artists": [
+        {
+          "name": "Natalia Marczuk",
+          "url": "https://open.spotify.com/artist/5WQXxSI1Mw50K1bAo7rd62"
+        }
+      ],
+      "duration_ms": 217617,
+      "name": "Nadwodne miasto",
+      "url": "https://open.spotify.com/track/5CWurWx4wdICZSTsXEe3OZ"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "Tracimy tylko czas",
-        "url": "https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk"
-      },
-      "artists": [
-        {
-          "name": "Martyna Baranowska",
-          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
-        }
-      ],
-      "duration_ms": 181463,
-      "name": "Tracimy tylko czas",
-      "url": "https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
         "name": "Czuj\u0119 si\u0119 sexy af",
         "url": "https://open.spotify.com/album/5lOPYpRXOJZVgbwqPtux2j"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 133987,
       "name": "Echo Echo",
       "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
+        "name": "Tracimy tylko czas",
+        "url": "https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "duration_ms": 181463,
+      "name": "Tracimy tylko czas",
+      "url": "https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "Korzenie",
-        "url": "https://open.spotify.com/album/2RGWHPBnfR5tPgLRZeoiBX"
-      },
-      "artists": [
-        {
-          "name": "Iga Jaworska",
-          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
-        }
-      ],
-      "duration_ms": 194887,
-      "name": "Korzenie",
-      "url": "https://open.spotify.com/track/7zM4rMVqVVTH7ZsN57l6RB"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
         "name": "Miodowe lata",
         "url": "https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 211196,
       "name": "Miodowe lata",
       "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
+        "name": "Korzenie",
+        "url": "https://open.spotify.com/album/2RGWHPBnfR5tPgLRZeoiBX"
+      },
+      "artists": [
+        {
+          "name": "Iga Jaworska",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Korzenie",
+      "url": "https://open.spotify.com/track/7zM4rMVqVVTH7ZsN57l6RB"
     },
     {
       "added_at": "2026-09-17 22:02:10",

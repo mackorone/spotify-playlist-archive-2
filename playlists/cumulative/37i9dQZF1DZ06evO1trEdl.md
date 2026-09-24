@@ -4,7 +4,7 @@
 
 > This is The Three Degrees\. The essential tracks, all in one playlist.
 
-141 songs - 8 hr 42 min
+142 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Caught Between Two Fires](https://open.spotify.com/track/66FHvvHSCv8eSFzGeQmJYL) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 3:09 | 2023-11-10 | 2023-12-14 |
 | [Collage](https://open.spotify.com/track/6AI9Z7xC2Gf9kaIdx6lqD0) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Playlist: The Best Of The Roulette Years](https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15) | 3:00 | 2022-05-25 | 2023-12-14 |
 | [Collage](https://open.spotify.com/track/6phBZrGz8O3i5rzol5TYmz) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 3:00 | 2023-12-13 |  |
-| [Contact](https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 | 2022-05-25 |  |
+| [Contact](https://open.spotify.com/track/0RMUuhjEHbtL5Xp0f52XPu) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Heartbroken Memories](https://open.spotify.com/album/1JqkkrO0y5xQYkJKJHV8Mz) | 2:31 | 2026-09-24 |  |
+| [Contact](https://open.spotify.com/track/1syKOhyz2yaSD6mAiBqJZY) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Roulette Years](https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1) | 2:33 | 2022-05-25 | 2026-09-24 |
 | [Diamonds](https://open.spotify.com/track/1qzZUUlJsvDJ10QvzcO304) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez) | 2:31 | 2022-05-25 | 2026-02-04 |
 | [Diamonds](https://open.spotify.com/track/3g82co0KMjLMA3RligtKJn) | [Roy Budd](https://open.spotify.com/artist/0yPP8GIZsbFkusNITNQSvV), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Diamonds](https://open.spotify.com/album/7fUxUY9JKzC7yWCV6FBu36) | 2:31 | 2026-02-12 |  |
 | [Dirty Ol' Man](https://open.spotify.com/track/2Gdp1UD3ctASMbHkjVcmb9) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [70\-Tals Nostalgi](https://open.spotify.com/album/3fhtcQpEUJd5EZyG5uy1Po) | 3:03 | 2026-08-26 | 2026-08-27 |

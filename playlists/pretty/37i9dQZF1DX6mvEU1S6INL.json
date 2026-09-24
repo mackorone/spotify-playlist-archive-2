@@ -1,6 +1,6 @@
 {
   "description": "It's just us.",
-  "num_followers": 1142089,
+  "num_followers": 1142107,
   "original_name": "You & Me",
   "owner": {
     "name": "Spotify",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Sweet Disposition",
+      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "What's Love",
         "url": "https://open.spotify.com/album/0SnTcR9VOyRDFGmgQ9Df7Z"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 189720,
       "name": "What's Love",
       "url": "https://open.spotify.com/track/537RDcN9XAScJPv9Rn3XDy"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/47enZlu6ssi5aFaAxHc0wt"
-      },
-      "artists": [
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Sweet Disposition",
-      "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Silent Alarm",
-        "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
-      },
-      "artists": [
-        {
-          "name": "Bloc Party",
-          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
-        }
-      ],
-      "duration_ms": 265613,
-      "name": "This Modern Love",
-      "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Bon Iver",
         "url": "https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 336613,
       "name": "Holocene",
       "url": "https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Silent Alarm",
+        "url": "https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB"
+      },
+      "artists": [
+        {
+          "name": "Bloc Party",
+          "url": "https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ"
+        }
+      ],
+      "duration_ms": 265613,
+      "name": "This Modern Love",
+      "url": "https://open.spotify.com/track/5jFMzYXf0IIApEJBCAoaaL"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Emergency Contact",
+        "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Emergency Contact",
+      "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/76MThARuTPq59l5oseVCJT"
       },
@@ -1463,6 +1479,22 @@
       "duration_ms": 258186,
       "name": "Don't Move",
       "url": "https://open.spotify.com/track/0UPsdEgJx6ypkfFUxD3ZHh"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
+        "name": "Every Kingdom (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 328506,
+      "name": "Old Pine",
+      "url": "https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1483,22 +1515,6 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
-        "name": "Emergency Contact",
-        "url": "https://open.spotify.com/album/2qfjFXv3HIl5IsFcfp74RH"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Emergency Contact",
-      "url": "https://open.spotify.com/track/5xJlzQiPLYkvlqkRPKzBwD"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
         "name": "Free Animal",
         "url": "https://open.spotify.com/album/7I82cxUhP77MAqBeY9hkVa"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 180400,
       "name": "Free Animal",
       "url": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "Every Kingdom (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2MxcbOGFi99D9JACvj74AH"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 328506,
-      "name": "Old Pine",
-      "url": "https://open.spotify.com/track/0Qw7qGuXlVBZLcfoQ17yZn"
     },
     {
       "added_at": "2026-02-18 18:45:42",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-02-18 18:45:42",
       "album": {
+        "name": "Love and Other Lies",
+        "url": "https://open.spotify.com/album/2Ae1hm2uugZMTBV9jZSuT9"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Sands",
+          "url": "https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Want You Like That",
+      "url": "https://open.spotify.com/track/4VhiUBbGZd374klScom1cp"
+    },
+    {
+      "added_at": "2026-02-18 18:45:42",
+      "album": {
         "name": "Boys & Girls",
         "url": "https://open.spotify.com/album/6EoJL3ty0FyE7XmLpAX2sj"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 159711,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB"
-    },
-    {
-      "added_at": "2026-02-18 18:45:42",
-      "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/155N1gV0cIFYaLiy3I5d83"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 109735,
-      "name": "Flowers in Your Hair",
-      "url": "https://open.spotify.com/track/4BDpHt1JrVQzaU7E6RBbXh"
     },
     {
       "added_at": "2026-02-18 18:45:42",

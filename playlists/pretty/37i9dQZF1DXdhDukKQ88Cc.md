@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀  1WAY på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,582 likes - 47 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,574 likes - 47 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

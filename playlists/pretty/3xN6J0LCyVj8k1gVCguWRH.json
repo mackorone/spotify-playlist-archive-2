@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 143326,
+  "num_followers": 143323,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA/FjsNTVVfZFnz6gKEytfPWeTSlqux",
+  "snapshot_id": "AAA/H1gFMP2jsfHpXdz82tM5D/1dWWcG",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -187,22 +187,6 @@
       "duration_ms": 280440,
       "name": "One Eyed Jack",
       "url": "https://open.spotify.com/track/6nQOI0eKINNjbi76Ymzhfc"
-    },
-    {
-      "added_at": "2026-09-18 12:56:40",
-      "album": {
-        "name": "\u00daltima Noche",
-        "url": "https://open.spotify.com/album/31eLPJ8ubv5TSF2l06nFhd"
-      },
-      "artists": [
-        {
-          "name": "Sergi",
-          "url": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
-        }
-      ],
-      "duration_ms": 189254,
-      "name": "\u00daltima Noche",
-      "url": "https://open.spotify.com/track/3zXSeTu987386oTJo3i1F6"
     },
     {
       "added_at": "2026-09-20 14:06:50",
@@ -643,6 +627,26 @@
       "duration_ms": 293767,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/5yr8pi3uCjTYOnTqstBBdm"
+    },
+    {
+      "added_at": "2026-09-24 00:31:34",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0ZbWNITGJdmtaQHTFSV0nl"
+      },
+      "artists": [
+        {
+          "name": "Super Carrera",
+          "url": "https://open.spotify.com/artist/1Xy1925qDbe9fbfVc9cn0j"
+        },
+        {
+          "name": "Aenu.L\u00f6g",
+          "url": "https://open.spotify.com/artist/5LU4uXMoo3sadh72aHeJQO"
+        }
+      ],
+      "duration_ms": 139624,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/3cIh8UFyMatsWWpe0j9eHS"
     },
     {
       "added_at": "2026-07-30 16:40:55",
@@ -1361,6 +1365,22 @@
       "url": "https://open.spotify.com/track/6RQ0i7rApnnWSI8uEiGVVF"
     },
     {
+      "added_at": "2026-09-18 12:56:40",
+      "album": {
+        "name": "\u00daltima Noche",
+        "url": "https://open.spotify.com/album/31eLPJ8ubv5TSF2l06nFhd"
+      },
+      "artists": [
+        {
+          "name": "Sergi",
+          "url": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
+        }
+      ],
+      "duration_ms": 189254,
+      "name": "\u00daltima Noche",
+      "url": "https://open.spotify.com/track/3zXSeTu987386oTJo3i1F6"
+    },
+    {
       "added_at": "2026-09-16 14:30:26",
       "album": {
         "name": "Question",
@@ -1487,22 +1507,6 @@
       "duration_ms": 190963,
       "name": "ACROPHOBIA",
       "url": "https://open.spotify.com/track/2mC8CEHamA8RCSQVHDbdTf"
-    },
-    {
-      "added_at": "2026-08-24 15:19:33",
-      "album": {
-        "name": "gabby",
-        "url": "https://open.spotify.com/album/5zDXKGGL9HxQ6CDBMruXBa"
-      },
-      "artists": [
-        {
-          "name": "giuliette price",
-          "url": "https://open.spotify.com/artist/1uyUG83zfWbTbEMllT9w4p"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "gabby",
-      "url": "https://open.spotify.com/track/6g0fmosguhoSH0wpax8WFO"
     },
     {
       "added_at": "2026-08-14 14:30:07",
@@ -1843,6 +1847,38 @@
       "duration_ms": 235146,
       "name": "BAD BOY",
       "url": "https://open.spotify.com/track/3Zm9ZCH5iQcpp1tdvU9rb7"
+    },
+    {
+      "added_at": "2026-09-23 11:54:50",
+      "album": {
+        "name": "Freely",
+        "url": "https://open.spotify.com/album/1cRAG0eOIU5gBfSDJ9y2KO"
+      },
+      "artists": [
+        {
+          "name": "sabrina",
+          "url": "https://open.spotify.com/artist/607SXK9fKVbEelr1dITGUC"
+        }
+      ],
+      "duration_ms": 148225,
+      "name": "Faraway",
+      "url": "https://open.spotify.com/track/69mPudOB8v6ZTkDQDXsw3u"
+    },
+    {
+      "added_at": "2026-09-23 19:15:50",
+      "album": {
+        "name": "Blue Collared Man",
+        "url": "https://open.spotify.com/album/7ncz55T633sCBOha1l3M5E"
+      },
+      "artists": [
+        {
+          "name": "Makenzie Phipps",
+          "url": "https://open.spotify.com/artist/5wF1eL3zBuWoBpVsWjGKHx"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Blue Collared Man",
+      "url": "https://open.spotify.com/track/67WjN7mYtatZHJ0VEHchLQ"
     },
     {
       "added_at": "2026-09-06 19:05:53",
@@ -2343,50 +2379,6 @@
       "duration_ms": 123643,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/1FK2WHTDg3SSOCLLEFTiAR"
-    },
-    {
-      "added_at": "2026-08-22 15:47:22",
-      "album": {
-        "name": "On Your Side",
-        "url": "https://open.spotify.com/album/23hYOORStuudB8prartCvP"
-      },
-      "artists": [
-        {
-          "name": "Cl\u00e9ment Bindzi",
-          "url": "https://open.spotify.com/artist/4r4yiJl5T8xG80tFnUGIxv"
-        },
-        {
-          "name": "Mattanoll",
-          "url": "https://open.spotify.com/artist/3NAWZkwLeRsso7JSeFGEcx"
-        },
-        {
-          "name": "Enzo Bennet",
-          "url": "https://open.spotify.com/artist/54t1lL05EmM0HpnP8WKhhx"
-        }
-      ],
-      "duration_ms": 169727,
-      "name": "On Your Side",
-      "url": "https://open.spotify.com/track/2U2x60PBBOSqMTh1VYulTU"
-    },
-    {
-      "added_at": "2026-08-26 12:53:15",
-      "album": {
-        "name": "i wanna buy a beach house",
-        "url": "https://open.spotify.com/album/49A2Vy9fwiVNaE8kS7zvXo"
-      },
-      "artists": [
-        {
-          "name": "Steve Stout",
-          "url": "https://open.spotify.com/artist/13xgeb7Gr4pPS03s5gcvie"
-        },
-        {
-          "name": "Blondfire",
-          "url": "https://open.spotify.com/artist/5ySYeIhqg4Rfs5tjteVMz3"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "walls",
-      "url": "https://open.spotify.com/track/2umxDxALxTnCkuTf6DDd4g"
     },
     {
       "added_at": "2023-07-20 21:11:20",

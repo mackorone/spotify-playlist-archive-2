@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 
 > Gentle, relaxing music from around the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,207 likes - 130 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,228 likes - 130 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aJqrYHYkGX.md) - [plain]
 | 129 | [Vedas](https://open.spotify.com/track/2Gz8fYwKTA4DZQgbv4vn3j) | [Posonium](https://open.spotify.com/artist/7l4B7Abe0HI1MYCCEyDVFW) | [Vedas](https://open.spotify.com/album/6k28Mq7lSTojxnVoNPgC4g) | 3:07 |
 | 130 | [Repetitive Meditative](https://open.spotify.com/track/1CXIdlefzC5KSxgC1aVoAL) | [Wind Alliance](https://open.spotify.com/artist/4ysmZkIKi9vKhywHhPgtqX) | [Repetitive Meditative](https://open.spotify.com/album/1SgjJPmRO7F0dHkohg0dS9) | 2:53 |
 
-Snapshot ID: `AAAAAPMGJfF8cOohvF6teTO5XwD5eLLL`
+Snapshot ID: `AAAAAKwZS13wkPDZz+wGY/OPPNb0QSN8`

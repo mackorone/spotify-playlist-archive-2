@@ -4,7 +4,7 @@
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 松木美定 Bitei Matsuki
 
-3,922 songs - 10 day 8 hr 38 min
+3,922 songs - 10 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1173,6 +1173,7 @@
 | [lazy](https://open.spotify.com/track/611eTmAk6BLtGK2hmhXagn) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [society \| lazy](https://open.spotify.com/album/4YU8ets4BrLaxwVCb5KQB2) | 2:11 | 2026-09-08 |  |
 | [Le matin](https://open.spotify.com/track/5DquUPumZSaUc0d7xOutT2) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [環響音](https://open.spotify.com/album/6vd9hhXpx7N0V0aSOTIjbV) | 4:42 | 2026-01-15 | 2026-02-15 |
 | [Le poisson \- Live](https://open.spotify.com/track/3Gx9mWe33XuwibmB9KZhjv) | [LOLOET](https://open.spotify.com/artist/1HNWuBGHsiQj4E06PhMQgq) | [うめ かおった ころ](https://open.spotify.com/album/2lCNptiuGY1GZHBEBUhYws) | 8:48 | 2026-07-08 | 2026-07-29 |
+| [Leap](https://open.spotify.com/track/3SVKibxr5AZrClYsIe3liA) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [衝動の肖像 / Portrait of Impulse](https://open.spotify.com/album/1jl3oP0yhujMHpyXHuEeHB) | 3:52 | 2026-09-22 |  |
 | [Lee Un Vile](https://open.spotify.com/track/1W6OsVcIwmrfU8BQsiCDn2) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [Lee Un Vile](https://open.spotify.com/album/02yXEG4Pjz67C3pufDY2p7) | 3:38 | 2024-01-16 | 2024-01-24 |
 | [Left Unsaid](https://open.spotify.com/track/1AZzLOkvh2qA0pKwmJDY7Y) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9) | [STRATA](https://open.spotify.com/album/07rIpcwC3NjdShBJn6GRAh) | 4:31 | 2024-01-30 | 2024-02-07 |
 | [LEGO DE GO](https://open.spotify.com/track/1VLHlAvWkjSBVLPsJ6J8L1) | [pandagolff](https://open.spotify.com/artist/4KReHO9hW14qVILtZReCra) | [LEGO DE GO](https://open.spotify.com/album/5O1Qntcsi765q5ejlTACYa) | 3:10 | 2024-07-02 | 2024-07-10 |
@@ -2298,7 +2299,6 @@
 | [Town](https://open.spotify.com/track/6HAb8hCHPZHeonwPusXsgf) | [goethe](https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY) | [Town e.p](https://open.spotify.com/album/4All8iynq0oyPWwq6FAOrO) | 3:53 | 2025-10-14 | 2026-02-04 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-19 | 2023-09-27 |
 | [TOY](https://open.spotify.com/track/2NcL3BcH9PwVJsYD1s5n9c) | [カブトムシ](https://open.spotify.com/artist/3ceBUhYjqv2J3TbIBXdZSa) | [Panorama Pig](https://open.spotify.com/album/47QCclBzhV8FRhcsEfFRZ4) | 4:18 | 2026-03-24 | 2026-04-01 |
-| [Track 2](https://open.spotify.com/track/3SVKibxr5AZrClYsIe3liA) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [衝動の肖像 / Portrait of Impulse](https://open.spotify.com/album/1jl3oP0yhujMHpyXHuEeHB) | 0:00 | 2026-09-22 |  |
 | [Tragedy \(feat\. Chara\)](https://open.spotify.com/track/7EevhKZpfpdBsTa1SH1XXK) | [Gliiico](https://open.spotify.com/artist/0ZNWpCvfaeqJo4sbjlBUmK), [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Tragedy \(feat\. Chara\)](https://open.spotify.com/album/5gzGABgxD4wfYSY20OHfgQ) | 3:27 | 2024-10-01 | 2024-10-28 |
 | [TRAIN SONG](https://open.spotify.com/track/6QspHcDs2LV4GCX9UIH0H3) | [Have a Nice Day!](https://open.spotify.com/artist/3OQMlq2KOx38J3D9v6aw93) | [DYSTOPIA ROMANCE 5.0](https://open.spotify.com/album/4CgJ5LCT4Or4gf5KYgGLKP) | 3:55 | 2025-04-08 | 2025-04-16 |
 | [trance train](https://open.spotify.com/track/2zGJlbSribLuRKuxN9sPhM) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma) | [44th Dimension](https://open.spotify.com/album/0ITDLzVqGFgMWmQeFnmOAN) | 2:58 | 2025-01-28 | 2025-03-17 |

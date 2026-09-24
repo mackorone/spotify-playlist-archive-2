@@ -1,6 +1,6 @@
 {
   "description": "Meet the future of music around the world. Cover: Maia Reficco",
-  "num_followers": 88421,
+  "num_followers": 88466,
   "original_name": "RADAR Global",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-09-18 13:00:05",
       "album": {
-        "name": "When the lights turn on",
-        "url": "https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi"
-      },
-      "artists": [
-        {
-          "name": "MICO",
-          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
-        }
-      ],
-      "duration_ms": 209267,
-      "name": "Your favorite flowers",
-      "url": "https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux"
-    },
-    {
-      "added_at": "2026-09-18 13:00:05",
-      "album": {
         "name": "El Endemoniao",
         "url": "https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo"
       },
@@ -283,22 +267,6 @@
     {
       "added_at": "2026-09-18 13:00:05",
       "album": {
-        "name": "MUM SAID",
-        "url": "https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8"
-      },
-      "artists": [
-        {
-          "name": "TR Gobrazy",
-          "url": "https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C"
-        }
-      ],
-      "duration_ms": 113337,
-      "name": "MUM SAID",
-      "url": "https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z"
-    },
-    {
-      "added_at": "2026-09-18 13:00:05",
-      "album": {
         "name": "Perderte",
         "url": "https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF"
       },
@@ -311,6 +279,38 @@
       "duration_ms": 184300,
       "name": "Perderte",
       "url": "https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij"
+    },
+    {
+      "added_at": "2026-09-18 13:00:05",
+      "album": {
+        "name": "When the lights turn on",
+        "url": "https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "duration_ms": 209267,
+      "name": "Your favorite flowers",
+      "url": "https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux"
+    },
+    {
+      "added_at": "2026-09-18 13:00:05",
+      "album": {
+        "name": "MUM SAID",
+        "url": "https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8"
+      },
+      "artists": [
+        {
+          "name": "TR Gobrazy",
+          "url": "https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C"
+        }
+      ],
+      "duration_ms": 113337,
+      "name": "MUM SAID",
+      "url": "https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z"
     },
     {
       "added_at": "2026-09-18 13:00:05",

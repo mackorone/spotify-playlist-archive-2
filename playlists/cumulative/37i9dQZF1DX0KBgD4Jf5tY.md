@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:6FAlvEp5DpXRSGN9GOe8l1">emilianoakairo</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:6FAlvEp5DpXRSGN9GOe8l1">emilianoakario</a> in cover.
 
 2,262 songs - 4 day 16 hr 40 min
 

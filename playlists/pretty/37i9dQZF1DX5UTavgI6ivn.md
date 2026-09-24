@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 
 > Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Maluma y Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 940,751 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,692 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5UTavgI6ivn.md) - [plain]
 | 21 | [MERO TOTE](https://open.spotify.com/track/26wRv00loYD9urTl85LFbI) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [EL PEOR HOMBRE DEL MUNDO](https://open.spotify.com/album/5SRrJ19R5JyGcGHE3r8nnb) | 3:32 |
 | 22 | [Las Muñequitas](https://open.spotify.com/track/3yidFe42tke37g3KP7wzZr) | [Mr Plata](https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [Las Muñequitas](https://open.spotify.com/album/2w7YR5gaVkKxrUMfnfEEnz) | 3:19 |
 | 23 | [EL AZOTE](https://open.spotify.com/track/553SlYTkhyNV8uZLaS52o2) | [Criss & Ronny](https://open.spotify.com/artist/04byNS8WxNRTr1Fy2oQPrq), [TheKingDeejay](https://open.spotify.com/artist/5YjgsLi14WEuj7oXWVYfbs), [La Colectiva Élite](https://open.spotify.com/artist/73RwFq5bmYCM3FRdYuuuHa) | [EL AZOTE](https://open.spotify.com/album/01nxcPaD6B31SIAuUuUY1T) | 2:01 |
-| 24 | [GALACTICOS](https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E) | [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt), [Bigg Danny](https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [GALACTICOS](https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU) | 2:19 |
+| 24 | [GALACTICOS](https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E) | [Bigg Danny](https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt) | [GALACTICOS](https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU) | 2:19 |
 | 25 | [Más Que Palabras](https://open.spotify.com/track/0DaFowAqjlEbisMddK326N) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Más Que Palabras](https://open.spotify.com/album/0LUFuSfEP0eKUSu8mEj7Wf) | 4:05 |
 | 26 | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/track/3CBEVPwR3kUXDoTx1lqFUQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [CHÉVERE \(premium\_remix\)](https://open.spotify.com/album/4J4UG9VKP7M6XhEuxUj94w) | 3:39 |
 | 27 | [Te Entiendo \- Remix](https://open.spotify.com/track/1VvliZHnsUj177MnuSY8G2) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Te Entiendo \(Remix\)](https://open.spotify.com/album/05OMViCaav7QFZig4FJJOB) | 5:35 |

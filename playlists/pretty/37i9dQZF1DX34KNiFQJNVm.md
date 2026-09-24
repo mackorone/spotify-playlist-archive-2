@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Gustavo Mioto, Miley Cyrus, Pitty,  Drik Barbosa, Diego & Victor Hugo e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,308,985 likes - 84 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,308,681 likes - 84 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

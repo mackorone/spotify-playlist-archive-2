@@ -694,7 +694,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 178413,
       "name": "APRIL",
       "url": "https://open.spotify.com/track/6esx3Brxx4FR3Ko5miLCTB"
@@ -738,7 +738,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 239885,
       "name": "As Soon As I Get Home",
       "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
@@ -1728,7 +1728,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 150442,
       "name": "Can\u2019t Take My Eyes Off You",
       "url": "https://open.spotify.com/track/7yHcJjkRyh4PXtU5EOLaVS"
@@ -3036,7 +3036,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 192330,
       "name": "Do You Think Of Me?",
       "url": "https://open.spotify.com/track/1hwfMhuM4mxySqucwh87Am"
@@ -3714,7 +3714,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 183047,
       "name": "Fire on the Water",
       "url": "https://open.spotify.com/track/0dU2ZpIcqiV55L16TZfSE8"
@@ -5132,7 +5132,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 172965,
       "name": "I Did You Wrong",
       "url": "https://open.spotify.com/track/1HpOpFbCT9z6FyXdyPPeHX"
@@ -5154,7 +5154,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 233221,
       "name": "I Did You Wrong - Laurence Guy Remix",
       "url": "https://open.spotify.com/track/2mE5xJjXQB29h0pTHovyov"
@@ -5908,7 +5908,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 175524,
       "name": "Jera",
       "url": "https://open.spotify.com/track/5P8xG7b988v4t8fom6Go0s"
@@ -6463,6 +6463,24 @@
     },
     {
       "album": {
+        "name": "LongTime",
+        "url": "https://open.spotify.com/album/2KQRuR4jBZvb5h5dNunyMO"
+      },
+      "artists": [
+        {
+          "name": "Mascolo",
+          "url": "https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211714,
+      "name": "LongTime",
+      "url": "https://open.spotify.com/track/4npxGodAWNwUlfGhHFt617"
+    },
+    {
+      "album": {
         "name": "Looking Backwards",
         "url": "https://open.spotify.com/album/5kDrYvG2IiBESCZ8KcA1QA"
       },
@@ -6638,7 +6656,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 262188,
       "name": "Macho",
       "url": "https://open.spotify.com/track/1lfrEfIqFx5uUrJInBub0n"
@@ -7496,6 +7514,28 @@
       "duration_ms": 230642,
       "name": "NOBLEHILL",
       "url": "https://open.spotify.com/track/53GWk0ewbWWiAQGLTLrgog"
+    },
+    {
+      "album": {
+        "name": "Noise Keeper",
+        "url": "https://open.spotify.com/album/4KaPxnYMgh00lMOikzBcjW"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "D Stone",
+          "url": "https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222292,
+      "name": "Noise Keeper",
+      "url": "https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP"
     },
     {
       "album": {
@@ -9490,7 +9530,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 233978,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu"
@@ -10308,7 +10348,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 182248,
       "name": "THIEF",
       "url": "https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII"
@@ -11478,7 +11518,7 @@
       ],
       "date_added": "2026-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 133356,
       "name": "WHODIS",
       "url": "https://open.spotify.com/track/4yv2tvrIDRiIwNG0G8eVzr"

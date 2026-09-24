@@ -1,12 +1,12 @@
 {
   "description": "Your weekly update of the most played tracks right now - Colombia.",
-  "num_followers": 40685,
+  "num_followers": 40687,
   "original_name": "Top Songs - Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MkX4gAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MkdHqAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
       "added_at": "2026-09-18 14:07:27",
@@ -840,16 +840,16 @@
       },
       "artists": [
         {
-          "name": "El Goldo",
-          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
-        },
-        {
           "name": "Bigg Danny",
           "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
         },
         {
           "name": "El Americano 4KT",
           "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
         }
       ],
       "duration_ms": 139805,

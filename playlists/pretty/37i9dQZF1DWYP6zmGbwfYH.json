@@ -1,6 +1,6 @@
 {
   "description": "Tallando, bailando y cantando. ",
-  "num_followers": 404411,
+  "num_followers": 404525,
   "original_name": "Canciones para lavar",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
+        "name": "Negra Ron y Velas",
+        "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Blanco",
+          "url": "https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w"
+        }
+      ],
+      "duration_ms": 276199,
+      "name": "Negra Ron y Velas",
+      "url": "https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
         "name": "TRR TAC TAC",
         "url": "https://open.spotify.com/album/412ep8ZENWHQs1LjXoiepT"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Negra Ron y Velas",
-        "url": "https://open.spotify.com/album/2CN4H5EWZliNhozx62mnWD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Blanco",
-          "url": "https://open.spotify.com/artist/3ff3ZIeqM9LA1R0aPul14w"
-        }
-      ],
-      "duration_ms": 276199,
-      "name": "Negra Ron y Velas",
-      "url": "https://open.spotify.com/track/4WhZLHyENNOqKk0HOjTZLI"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "21 Black Jack",
         "url": "https://open.spotify.com/album/7nNlrRcYx77C7RCXroZXms"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 177133,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/0UwmVtejteUw7ELX5ZmIIR"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Cumbias Pa' Bailar",
+        "url": "https://open.spotify.com/album/2gZbn5CcZQ0mny27gbV8Ve"
+      },
+      "artists": [
+        {
+          "name": "Los Guacharacos de Colombia",
+          "url": "https://open.spotify.com/artist/5ebyRyRMat0MDvrmIwh1ow"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "El cafetero",
+      "url": "https://open.spotify.com/track/2p0dAybBIdHwLEizVAz4ql"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -799,22 +815,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Cumbias Pa' Bailar",
-        "url": "https://open.spotify.com/album/2gZbn5CcZQ0mny27gbV8Ve"
-      },
-      "artists": [
-        {
-          "name": "Los Guacharacos de Colombia",
-          "url": "https://open.spotify.com/artist/5ebyRyRMat0MDvrmIwh1ow"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "El cafetero",
-      "url": "https://open.spotify.com/track/2p0dAybBIdHwLEizVAz4ql"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "20th Anniversary Series",
         "url": "https://open.spotify.com/album/61V77t4VuVQcJvUvevRIlX"
       },
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Mi Buen Corazon",
-        "url": "https://open.spotify.com/album/0FC5quGwnqP9EnSOFWyzfZ"
-      },
-      "artists": [
-        {
-          "name": "Orquesta La Unica",
-          "url": "https://open.spotify.com/artist/6SUAzFL6tfEFWtGRoO25YO"
-        }
-      ],
-      "duration_ms": 231982,
-      "name": "Mi Buen Corazon",
-      "url": "https://open.spotify.com/track/1wEIkyWSHXm6U7LXO1jZWi"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "P\u00eddeme",
         "url": "https://open.spotify.com/album/1RrDX24HHQ1d8kpg2urVZM"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 199826,
       "name": "Nuestra Pobreza",
       "url": "https://open.spotify.com/track/3jRkFiUmUKlF0jMzI2NMc6"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Mi Buen Corazon",
+        "url": "https://open.spotify.com/album/0FC5quGwnqP9EnSOFWyzfZ"
+      },
+      "artists": [
+        {
+          "name": "Orquesta La Unica",
+          "url": "https://open.spotify.com/artist/6SUAzFL6tfEFWtGRoO25YO"
+        }
+      ],
+      "duration_ms": 231982,
+      "name": "Mi Buen Corazon",
+      "url": "https://open.spotify.com/track/1wEIkyWSHXm6U7LXO1jZWi"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Tus Jefes No Me Quieren",
-        "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ensamble",
-          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
-        }
-      ],
-      "duration_ms": 224256,
-      "name": "Tus Jefes No Me Quieren",
-      "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 194019,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Tus Jefes No Me Quieren",
+        "url": "https://open.spotify.com/album/0cuK61I1W8lfJy6MYHUNMh"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ensamble",
+          "url": "https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI"
+        }
+      ],
+      "duration_ms": 224256,
+      "name": "Tus Jefes No Me Quieren",
+      "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
     },
     {
       "added_at": "2026-09-21 17:58:20",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-09-21 17:58:20",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
-    },
-    {
-      "added_at": "2026-09-21 17:58:20",
-      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
         "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 196573,
       "name": "Embrujo De Cumbia",
       "url": "https://open.spotify.com/track/3JmVaRxi2VpopAdImfnZLt"
+    },
+    {
+      "added_at": "2026-09-21 17:58:20",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
     },
     {
       "added_at": "2026-09-21 17:58:20",

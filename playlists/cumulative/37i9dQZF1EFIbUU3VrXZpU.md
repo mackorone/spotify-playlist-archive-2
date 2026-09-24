@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZdaKEG7LCXZGLiHuZuJgZ">Missy Elliott</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-446 songs - 1 day 4 hr 38 min
+447 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Get Ur Freak On](https://open.spotify.com/track/3XplJgPz8VjbDzbGwGgZdq) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Respect M.E.](https://open.spotify.com/album/6epR3D622KWsnuHye7ApOl) | 3:56 | 2023-12-30 | 2026-01-15 |
 | [Get Ur Freak On](https://open.spotify.com/track/13KEdaWIc7T6ozEmnJjHy1) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Miss E..\. So Addictive](https://open.spotify.com/album/3mw1gH8eaRTtuLQldAEc9s) | 3:57 | 2026-01-14 |  |
 | [Gettaway \(feat\. Space & Nicole\)](https://open.spotify.com/track/4fWK7zJp17fuhDfQ9YnAei) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Nicole Wray](https://open.spotify.com/artist/3opP52YUU3kBoPizkJETnm), [Space](https://open.spotify.com/artist/4egkDqNQSTMGECeGfms1QS) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:25 | 2023-12-30 |  |
-| [Girlfriend](https://open.spotify.com/track/3MfysK4blbsihpWvCSDOhy) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 2:22 | 2024-11-01 | 2026-09-23 |
+| [Girlfriend](https://open.spotify.com/track/3MfysK4blbsihpWvCSDOhy) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd) | [Every Night Fantasy](https://open.spotify.com/album/5z29YbIMIwnziyX97G9h8Z) | 2:22 | 2024-11-01 |  |
 | [Glow Up](https://open.spotify.com/track/17gYZsdNpiDhYmnqaELimP) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Strength Of A Woman](https://open.spotify.com/album/4NbiqWISvtpKiWFwpmtzTF) | 4:06 | 2023-12-30 |  |
 | [Good Lovin'](https://open.spotify.com/track/2BXnGMpzJV9o1JoJgwYi0U) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [Free Yourself](https://open.spotify.com/album/09akBiw2Divm9zvF7GMJup) | 3:53 | 2023-12-30 |  |
 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 | 2023-12-30 |  |
@@ -388,7 +388,8 @@
 | [They Don't Wanna Fuck wit Me \(feat\. Timbaland\)](https://open.spotify.com/track/2VlFVARpC0DB5qmntc0pOI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 3:18 | 2023-12-30 |  |
 | [Things I Don't Mean](https://open.spotify.com/track/2O8cJGT5MqIgOHELm9FrRa) | [Tweet](https://open.spotify.com/artist/6zDBeei6hHRiZdAJ6zoTCo), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [It's Me Again](https://open.spotify.com/album/2yc2NusF0U0MF7GQ4gVaHQ) | 3:02 | 2023-12-30 |  |
 | [Things You Say](https://open.spotify.com/track/56iThbABo74MrYhudXR8DY) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 4:10 | 2023-12-30 |  |
-| [Thirsty](https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:01 | 2023-12-30 |  |
+| [Thirsty](https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:01 | 2023-12-30 | 2026-09-24 |
+| [Thirsty](https://open.spotify.com/track/38AK2LDCRhFhnn3SJW0LkG) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA) | 5:01 | 2026-09-23 |  |
 | [Thirsty](https://open.spotify.com/track/4CC2jqYzym92GOhxfg3zZl) | [The Homies](https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV) | [It's A Lot Going On](https://open.spotify.com/album/1Fq5LyMQPdP8cK8fv2Br8D) | 2:42 | 2023-12-30 | 2026-02-20 |
 | [Thirsty](https://open.spotify.com/track/0bQjoatL12QNQlG2GgPeB9) | [The Homies](https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Thirsty](https://open.spotify.com/album/02Hh2CWTzEU9XkUCBzFIm7) | 2:42 | 2026-02-19 |  |
 | [This Is for My Girls \- 128 BPM Workout Remix](https://open.spotify.com/track/0Oxh40DEPR1gtRWT7Qecue) | [Jayne Mendez](https://open.spotify.com/artist/1v0pPpow6FkpRm0M6jOtxx) | [40 Top Workout Hits 2016](https://open.spotify.com/album/1iX5KFclgzSrc4cP3Dje7H) | 4:50 | 2023-12-30 | 2025-06-20 |

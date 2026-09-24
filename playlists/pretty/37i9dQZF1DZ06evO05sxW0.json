@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAADwCnA7wwYVLOkWxZCScxsx",
+  "snapshot_id": "arHFAAAAAADXpUYjjQkOF4H1hJz8Wk7y",
   "tracks": [
     {
       "added_at": null,
@@ -251,70 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reject All American",
-        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 71800,
-      "name": "Statement of Vindication",
-      "url": "https://open.spotify.com/track/5shgITNppeaNvC8y4226z5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pussy Whipped",
-        "url": "https://open.spotify.com/album/4rCgFExY3JIJdFij2kwB1w"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "For Tammy Rae",
-      "url": "https://open.spotify.com/track/6exaLl7ZooHc7JlxMoEGxD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The First Two Records",
-        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 87544,
-      "name": "Don't Need You",
-      "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Singles",
-        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 58773,
-      "name": "Rah! Rah! Replica",
-      "url": "https://open.spotify.com/track/22LHUAvReDgMQ4wrjLo89j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revolution Girl Style Now",
         "url": "https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3"
       },
@@ -340,9 +276,41 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 142533,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/3OJVrGpVbq0KD6j0NMOrlA"
+      "duration_ms": 213640,
+      "name": "For Tammy Rae",
+      "url": "https://open.spotify.com/track/6exaLl7ZooHc7JlxMoEGxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reject All American",
+        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 71800,
+      "name": "Statement of Vindication",
+      "url": "https://open.spotify.com/track/5shgITNppeaNvC8y4226z5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Singles",
+        "url": "https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 58773,
+      "name": "Rah! Rah! Replica",
+      "url": "https://open.spotify.com/track/22LHUAvReDgMQ4wrjLo89j"
     },
     {
       "added_at": null,
@@ -356,9 +324,41 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 148315,
-      "name": "Outta Me",
-      "url": "https://open.spotify.com/track/1lcJw1PxcJx8v0gXkD64uO"
+      "duration_ms": 87544,
+      "name": "Don't Need You",
+      "url": "https://open.spotify.com/track/3RVxsu0EDweX6ffTLDy9WP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pussy Whipped",
+        "url": "https://open.spotify.com/album/4rCgFExY3JIJdFij2kwB1w"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 142533,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/3OJVrGpVbq0KD6j0NMOrlA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reject All American",
+        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 85826,
+      "name": "Bloody Ice Cream",
+      "url": "https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D"
     },
     {
       "added_at": null,
@@ -379,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reject All American",
-        "url": "https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon"
+        "name": "The First Two Records",
+        "url": "https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
         }
       ],
-      "duration_ms": 85826,
-      "name": "Bloody Ice Cream",
-      "url": "https://open.spotify.com/track/7oFIVslwckI6BcJ0TQwl5D"
+      "duration_ms": 148315,
+      "name": "Outta Me",
+      "url": "https://open.spotify.com/track/1lcJw1PxcJx8v0gXkD64uO"
     },
     {
       "added_at": null,

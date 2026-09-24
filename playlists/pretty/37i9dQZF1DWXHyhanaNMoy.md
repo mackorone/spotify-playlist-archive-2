@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Rema
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,958 likes - 74 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,939 likes - 74 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

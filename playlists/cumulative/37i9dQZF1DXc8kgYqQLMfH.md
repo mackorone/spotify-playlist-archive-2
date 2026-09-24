@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,343 songs - 2 day 3 hr 22 min
+1,344 songs - 2 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Cereal](https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 3:31 | 2021-11-10 | 2023-04-12 |
 | [cereal](https://open.spotify.com/track/6LGikEEOdHCfH4kpOprvfX) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [cereal](https://open.spotify.com/album/2qyyubGuuT6z3BGX4WoCwL) | 1:42 | 2022-10-28 | 2025-07-16 |
 | [Changes](https://open.spotify.com/track/6OI6ZzRcB3YqGn5ufAfj6I) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Changes](https://open.spotify.com/album/31XIGAQMgeq8cOU2HZ0AzY) | 2:29 | 2022-11-25 | 2025-03-15 |
-| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 |  |
+| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 | 2026-09-24 |
 | [channel vibe](https://open.spotify.com/track/48rD1oCPeNhKNmmk9M02jL) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [channel vibe](https://open.spotify.com/album/1PiyFneVStcfr9VQoC7s3V) | 2:10 | 2022-07-15 | 2025-07-16 |
 | [Chasing Dreams](https://open.spotify.com/track/7HpNwwS5G8mUjcTshcMKzi) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Wonderland Chapter II](https://open.spotify.com/album/3HOZF0LXJjt0vhrJ3idypD) | 2:17 | 2021-11-10 | 2022-05-20 |
 | [chassing the lights](https://open.spotify.com/track/7nlDM7i676eZkcxlxvpJgG) | [Roppany](https://open.spotify.com/artist/7CtCqvAtkty3esFsNW6tLn) | [chassing the lights](https://open.spotify.com/album/6HBQsscOXZKP0S3sLgK4r5) | 1:46 | 2022-09-02 | 2023-04-12 |
@@ -631,6 +631,7 @@
 | [Lantern](https://open.spotify.com/track/4Z8qKxreBa5yODZCOQ7sZG) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [Lantern](https://open.spotify.com/album/6j4CLaGm3ZOLWbVCH3brYk) | 2:12 | 2025-08-01 |  |
 | [Last Summer](https://open.spotify.com/track/5qaQn9EJqXN2oX3wnoahSP) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7), [SCayos](https://open.spotify.com/artist/13rVXSdnUlcpvFQ2iuop8a) | [Last Summer](https://open.spotify.com/album/4JPGEFUfwc7hh8lU1IuRCg) | 2:29 | 2021-11-10 | 2022-07-29 |
 | [Late but calm](https://open.spotify.com/track/4oWsy1FsUhuBmf5kFs2Jwi) | [Snowji](https://open.spotify.com/artist/1jBhtlpf2bKt06VAAjwmBK) | [Late but calm](https://open.spotify.com/album/6Z02cbUU8x5f4cA0Rd1srO) | 2:15 | 2022-08-19 | 2023-10-06 |
+| [Late Night](https://open.spotify.com/track/3NqOQ4YLQrLwaJcAMIeYCm) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Late Night](https://open.spotify.com/album/3ejOugPM4HrzfMWs2eifNy) | 2:35 | 2026-09-18 |  |
 | [Late Night Stroll](https://open.spotify.com/track/6WHC4rp9WcHROE0Mc0x99O) | [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a), [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU) | [Late Night Stroll](https://open.spotify.com/album/6ZdowJt2oYX0daWT16JXG3) | 1:46 | 2022-08-05 | 2022-11-20 |
 | [Late Night Stroll](https://open.spotify.com/track/0GcMJrYjy6x8H5amj9hydy) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Casiio](https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a) | [Late Night Stroll](https://open.spotify.com/album/0AntztnwTrIG3sDUarkHqc) | 1:46 | 2022-11-11 | 2023-04-28 |
 | [late night walking](https://open.spotify.com/track/0jaGw9MKg6t9z9wfzWAK0a) | [Rustique Beats](https://open.spotify.com/artist/6i2uc5LaqqgBJ6SozGzryq) | [here for the night](https://open.spotify.com/album/56tYkRHV0lVGnbamKT2LJw) | 1:59 | 2023-10-06 | 2024-06-22 |

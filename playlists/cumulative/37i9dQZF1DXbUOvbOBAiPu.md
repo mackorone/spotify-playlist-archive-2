@@ -4,7 +4,7 @@
 
 > New music from Miley Cyrus, GIMS, TeddyBear, Djadja & Dinaz, HUGEL x Neton Vega, Maluma x Shakira and more...
 
-11,770 songs - 25 day 15 hr 12 min
+11,771 songs - 25 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5734,6 +5734,7 @@
 | [Les bases](https://open.spotify.com/track/0WFSnWfJeSCMngK9El5Pb7) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Les bases](https://open.spotify.com/album/5l9ZnhJWgIAXO8yzvHEJg2) | 2:17 | 2026-01-23 | 2026-01-30 |
 | [Les Chansons sur toi](https://open.spotify.com/track/7fXOBBFn2yB0x8ONuyEKl6) | [Les Wampas](https://open.spotify.com/artist/2nsGWZA0LtO7istBNsyNTE) | [Où va nous ?](https://open.spotify.com/album/4Vew3cnjDfVst8arKqpiZM) | 2:24 | 2026-02-05 | 2026-02-13 |
 | [Les Chemins de neige](https://open.spotify.com/track/6yfFdEeQwEq6r9qtJfa29G) | [Axel Bauer](https://open.spotify.com/artist/7H9BHRpRnP55YwZpFLAVmd) | [Les Chemins de neige](https://open.spotify.com/album/4W9NHVhVpy9uM5Tk0nelHg) | 5:20 | 2025-12-11 | 2025-12-19 |
+| [Les cicatrices d'or](https://open.spotify.com/track/4kpFuJZkjJjUYhbeQKV0SN) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Les cicatrices d'or](https://open.spotify.com/album/7GVuwGYWlGgu9dRnbE3WoQ) | 2:59 | 2026-09-17 |  |
 | [Les cités de l'amour](https://open.spotify.com/track/0QzjHbSKAG3OFYaQrk8kL6) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB) | [Les cités de l'amour](https://open.spotify.com/album/1WfQIxrP0HTj6hzKOk0CBT) | 3:11 | 2025-04-17 | 2025-04-25 |
 | [Les démons de minuit](https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [IMPOSTEUR](https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g) | 3:28 | 2024-11-07 | 2024-11-15 |
 | [Les enfants difficiles](https://open.spotify.com/track/4NBKnMRRoR84w1rVUzLG1u) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Les enfants difficiles](https://open.spotify.com/album/1JEO9RDMrBnYigJNYT3LIU) | 2:54 | 2026-04-09 | 2026-04-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Nuovi brani di 22simba, Ultimo, Cesare Cremonini, Miley Cyrus, Travis Scott, Annalisa con Madame, e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,108 likes - 90 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,094 likes - 90 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 13 | [Polo Emporio \(feat\. Flaco G\)](https://open.spotify.com/track/3cYYukrqSD69d5jeCyYG5Y) | [Khodi](https://open.spotify.com/artist/27P9ESA6J25Jzye2CGWg1n), [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [Polo Emporio \(feat\. Flaco G\)](https://open.spotify.com/album/555hsQyPCCH8WjnntKN6ew) | 2:46 |
 | 14 | [Notte Malinconia](https://open.spotify.com/track/2nygN7TUKrJpnsjhbvvtFb) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Notte Malinconia](https://open.spotify.com/album/0qiPrgERpCVTMeoFAubNkM) | 2:56 |
 | 15 | [Joseph](https://open.spotify.com/track/1BdI8NEvZx61tnkbuAxC5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM) | [Joseph](https://open.spotify.com/album/3KIlhMEiSYNn8VD7e6yglU) | 4:09 |
-| 16 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 16 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 17 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
 | 18 | [Non c’è di che](https://open.spotify.com/track/0I26PC6r2ZLZql9ABDkpYM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC) | [Anatomia di uno schianto prolungato](https://open.spotify.com/album/5gzluUMgS7XUXVToWRp4UO) | 3:22 |
 | 19 | [PAGAMI!](https://open.spotify.com/track/5nXhCJA4btmpfL1qBGff5r) | [Palazzi D'Oriente](https://open.spotify.com/artist/58wLkdCli1ThP9v0yubKKH), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [TPT: THE PERFECT TOOL](https://open.spotify.com/album/7bjrOUkGzNYY5k3Rfygl0B) | 2:45 |

@@ -340,7 +340,7 @@
       ],
       "date_added": "2025-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 156386,
       "name": "beneath the surface",
       "url": "https://open.spotify.com/track/0T7wCl62dvvGjyrY5k11w3"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 188333,
       "name": "Blue Horizon",
       "url": "https://open.spotify.com/track/3Xbo3JBGbpIqWL7SsBKkTz"
@@ -466,7 +466,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 166231,
       "name": "By The Ocean",
       "url": "https://open.spotify.com/track/7uuDzZ9bfedUL6XTyYah9T"
@@ -657,6 +657,24 @@
     },
     {
       "album": {
+        "name": "Celestial Weave",
+        "url": "https://open.spotify.com/album/6f8Z22Cnnnv3ib9FdgmCrP"
+      },
+      "artists": [
+        {
+          "name": "Takiyo",
+          "url": "https://open.spotify.com/artist/0NZ4KsYEIFxpEP7Go3gvI1"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168203,
+      "name": "Celestial Weave",
+      "url": "https://open.spotify.com/track/0Dv7eJ7HudX32LJbhWhiXs"
+    },
+    {
+      "album": {
         "name": "Chao Phraya",
         "url": "https://open.spotify.com/album/46KHRsTPjqj6N5QJA35JPO"
       },
@@ -708,6 +726,24 @@
       "duration_ms": 165818,
       "name": "Close Reach",
       "url": "https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS"
+    },
+    {
+      "album": {
+        "name": "Coastal Flow",
+        "url": "https://open.spotify.com/album/24J7MWPTc94MtWTPUszYfM"
+      },
+      "artists": [
+        {
+          "name": "Ultrawideolence",
+          "url": "https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153636,
+      "name": "Coastal Flow",
+      "url": "https://open.spotify.com/track/62gua8LAoDOWaFYSl52tP7"
     },
     {
       "album": {
@@ -780,6 +816,24 @@
       "duration_ms": 138437,
       "name": "Crystal Bay",
       "url": "https://open.spotify.com/track/6AusfuCpsjySUaQFHhMxOc"
+    },
+    {
+      "album": {
+        "name": "Crystal Spread",
+        "url": "https://open.spotify.com/album/5iYB12rFA2rly1UdoB5NPp"
+      },
+      "artists": [
+        {
+          "name": "Whisper Thread",
+          "url": "https://open.spotify.com/artist/3KLLcSRsnTeamAVNeylaI8"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Crystal Spread",
+      "url": "https://open.spotify.com/track/1qCzG2IC7hiLYOtgTo2ByK"
     },
     {
       "album": {
@@ -1176,7 +1230,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 190000,
       "name": "Endless Ocean",
       "url": "https://open.spotify.com/track/3Hu72NQywzDjGwBlZttKdp"
@@ -1331,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Gentle Flow",
+        "url": "https://open.spotify.com/album/7LWXfhltGvgLhOcRyZ97fX"
+      },
+      "artists": [
+        {
+          "name": "Reiki Nataraj",
+          "url": "https://open.spotify.com/artist/4XQVxqzUr02fZBMg50dosX"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181559,
+      "name": "Gentle Flow",
+      "url": "https://open.spotify.com/track/5OC5N6pdmRphq91iO6mARe"
+    },
+    {
+      "album": {
         "name": "Gentle Sail",
         "url": "https://open.spotify.com/album/1sVjTQDOGfWPizUQs7kDUD"
       },
@@ -1378,7 +1450,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 181626,
       "name": "Green Space",
       "url": "https://open.spotify.com/track/7JMljrokqhDuXXtghWokEE"
@@ -1414,7 +1486,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 157333,
       "name": "Hey Ocean",
       "url": "https://open.spotify.com/track/7ax6JuuYm4lU54kgeXI8GO"
@@ -1468,7 +1540,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 223500,
       "name": "Hilow",
       "url": "https://open.spotify.com/track/2U6t8MSkOASKbaefjLs9Ut"
@@ -1709,6 +1781,24 @@
     },
     {
       "album": {
+        "name": "Kustro",
+        "url": "https://open.spotify.com/album/2P4GGTPK3NTlOaCZSifXIf"
+      },
+      "artists": [
+        {
+          "name": "Hank Sky",
+          "url": "https://open.spotify.com/artist/2OY5PzPmKNjNFgy4QwOPdI"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Kustro",
+      "url": "https://open.spotify.com/track/1A7rcTDbhKB5ndPJRPuvNe"
+    },
+    {
+      "album": {
         "name": "Lakeside",
         "url": "https://open.spotify.com/album/0GVEfZ3VR8njmrbXjA3oeA"
       },
@@ -1810,7 +1900,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 173541,
       "name": "Loch Dunvegan",
       "url": "https://open.spotify.com/track/0DE3lQgRiFau6l8VRhdMXE"
@@ -2509,6 +2599,24 @@
     },
     {
       "album": {
+        "name": "Oceans 16",
+        "url": "https://open.spotify.com/album/5JRGnnaXHthGY4IcYv2yY4"
+      },
+      "artists": [
+        {
+          "name": "Iver Loom",
+          "url": "https://open.spotify.com/artist/6mtqTtni0SJojlnZVl1LJB"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214621,
+      "name": "Oceans 16",
+      "url": "https://open.spotify.com/track/0CODdnGuzzZrgn9yYBuaPL"
+    },
+    {
+      "album": {
         "name": "Oceanwide",
         "url": "https://open.spotify.com/album/79YI9hqwLqnUYpDdSMgaay"
       },
@@ -2617,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/11LiscRx3U15NtTLyzF0Cy"
+      },
+      "artists": [
+        {
+          "name": "Applied Rest",
+          "url": "https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158135,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/0Ylits3OBwnQ2zfoi5dFos"
+    },
+    {
+      "album": {
         "name": "Peace Offering",
         "url": "https://open.spotify.com/album/6BDdVemhdR1rhd77GG2Vvm"
       },
@@ -2664,7 +2790,7 @@
       ],
       "date_added": "2025-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 187106,
       "name": "Placid",
       "url": "https://open.spotify.com/track/5tU4iN8NZV0NZFESddIG3W"
@@ -2725,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Proteus Rain Fall",
+        "url": "https://open.spotify.com/album/6NEEGQF6RJuaAewWN9V5Oo"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Nirvana",
+          "url": "https://open.spotify.com/artist/5qJPwmFhAXtQZfxmvmZJmO"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173950,
+      "name": "Proteus Rain Fall",
+      "url": "https://open.spotify.com/track/2hNrCJyk2GEPl2Yb3DV1Zd"
+    },
+    {
+      "album": {
         "name": "Evening Breeze",
         "url": "https://open.spotify.com/album/4NPqqhAdTtCOr22FSNHeJr"
       },
@@ -2740,6 +2884,24 @@
       "duration_ms": 161250,
       "name": "Pure Nature",
       "url": "https://open.spotify.com/track/7hgJstsD2O1O0k0XoxbM8v"
+    },
+    {
+      "album": {
+        "name": "Quem Tem Mar",
+        "url": "https://open.spotify.com/album/532hJEdb0fX04tOndreU1u"
+      },
+      "artists": [
+        {
+          "name": "Fernando Alegre",
+          "url": "https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189230,
+      "name": "Quem Tem Mar",
+      "url": "https://open.spotify.com/track/65JSauwaxiMo1bPDIESTnx"
     },
     {
       "album": {
@@ -2891,6 +3053,42 @@
     },
     {
       "album": {
+        "name": "Sound Bathing: Deep Vibration",
+        "url": "https://open.spotify.com/album/1gT2bJcAT1fy3Cr8WPwMJW"
+      },
+      "artists": [
+        {
+          "name": "SonicAid",
+          "url": "https://open.spotify.com/artist/51w9HbZBbacStieMIBfYTG"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195284,
+      "name": "Rhythmic Wave I",
+      "url": "https://open.spotify.com/track/6Wdsu9ND0uCfDPGjQV62Lk"
+    },
+    {
+      "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/0rH3Qq2hJOPTgIpUZjb6Ji"
+      },
+      "artists": [
+        {
+          "name": "Dream Theme",
+          "url": "https://open.spotify.com/artist/0GMfKNVxLYlJOICblmiz0A"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/3s6BZsd2FJbpa9u19QWteZ"
+    },
+    {
+      "album": {
         "name": "Piano in Another Room by the Ocean",
         "url": "https://open.spotify.com/album/36agYkfZ6jXT330sY5Au9t"
       },
@@ -2938,7 +3136,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 170875,
       "name": "saltlakes",
       "url": "https://open.spotify.com/track/3g6fliPxqUQpSoLw9wvGWb"
@@ -3014,6 +3212,24 @@
       "duration_ms": 184152,
       "name": "Satyavaadita",
       "url": "https://open.spotify.com/track/23fzziAhNAz6zuPMqndNoL"
+    },
+    {
+      "album": {
+        "name": "Sea Light",
+        "url": "https://open.spotify.com/album/1ojVKkEI44MmP2BAR3NbBQ"
+      },
+      "artists": [
+        {
+          "name": "Magic Room",
+          "url": "https://open.spotify.com/artist/1pgC9mDwkvCetVYKv3tKcv"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Sea Light",
+      "url": "https://open.spotify.com/track/5DHc8JMqpAcsuNrRDumqMF"
     },
     {
       "album": {
@@ -3179,6 +3395,24 @@
     },
     {
       "album": {
+        "name": "Seventh Ocean",
+        "url": "https://open.spotify.com/album/703sdqZqslsG0kZJPkCvnF"
+      },
+      "artists": [
+        {
+          "name": "Deltachromatique",
+          "url": "https://open.spotify.com/artist/2nXUAmp23RozTZQs70fIuP"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166681,
+      "name": "Seventh Ocean",
+      "url": "https://open.spotify.com/track/3mjNguOFvc8B0CJjXPwhyA"
+    },
+    {
+      "album": {
         "name": "Comfortable under the Surface",
         "url": "https://open.spotify.com/album/0AzrK9ejFOS16BOM2feyHg"
       },
@@ -3194,6 +3428,24 @@
       "duration_ms": 209139,
       "name": "Shape of Your Breathing",
       "url": "https://open.spotify.com/track/48nyXuiDi17jGNYQPEwzb1"
+    },
+    {
+      "album": {
+        "name": "Where Dreams Drift",
+        "url": "https://open.spotify.com/album/6sy6USMOTXtgDNRiwCZ8gg"
+      },
+      "artists": [
+        {
+          "name": "Mira Dunes",
+          "url": "https://open.spotify.com/artist/5hH2F5wHFOidQJvsTdQYcc"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Shimmering Quiet (Ocean Edit)",
+      "url": "https://open.spotify.com/track/5Mey9c4nb1boewZA6uGQr3"
     },
     {
       "album": {
@@ -3291,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "Silva",
+        "url": "https://open.spotify.com/album/3nzDVi4KSiO2zJkRqJxDgj"
+      },
+      "artists": [
+        {
+          "name": "Auro",
+          "url": "https://open.spotify.com/artist/5NXttdmk8liIemFRfO6ztH"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Silva",
+      "url": "https://open.spotify.com/track/4Rpw6nyc54hCB3wWrW8VmO"
+    },
+    {
+      "album": {
         "name": "Skye Nights",
         "url": "https://open.spotify.com/album/7DfLxJGWfggWYmti94MYD9"
       },
@@ -3338,10 +3608,28 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 170041,
       "name": "Slow Sea",
       "url": "https://open.spotify.com/track/4cwcbLh8ajzGlrwxkK1a1c"
+    },
+    {
+      "album": {
+        "name": "Soft Horizon",
+        "url": "https://open.spotify.com/album/2EMTSxQ8KkSik0IKh33WEk"
+      },
+      "artists": [
+        {
+          "name": "Liminal Currents",
+          "url": "https://open.spotify.com/artist/2tSMY8sYx6BNBtjjtDBpDQ"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Soft Horizon",
+      "url": "https://open.spotify.com/track/38WEDiWa4F5UUj7wcQuNxW"
     },
     {
       "album": {
@@ -3392,7 +3680,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 147083,
       "name": "Solar Dreams",
       "url": "https://open.spotify.com/track/2uZHjgoCnueq1wtMczo1SW"
@@ -3846,6 +4134,24 @@
       "duration_ms": 168336,
       "name": "Waves of Daelbata",
       "url": "https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH"
+    },
+    {
+      "album": {
+        "name": "Waves of Freedom",
+        "url": "https://open.spotify.com/album/0Id78tREmSLPhrkVnPRLz0"
+      },
+      "artists": [
+        {
+          "name": "Eelyrion",
+          "url": "https://open.spotify.com/artist/3sGhodeMqHj0JDOBfykG40"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Waves of Freedom",
+      "url": "https://open.spotify.com/track/7Ix1cfDeXslQvYURAxc8sU"
     },
     {
       "album": {

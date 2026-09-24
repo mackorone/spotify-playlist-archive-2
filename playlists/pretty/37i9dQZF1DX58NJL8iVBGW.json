@@ -1,6 +1,6 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 821498,
+  "num_followers": 821551,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5"
     },
     {
+      "added_at": "2026-09-18 00:00:09",
+      "album": {
+        "name": "Holy Line",
+        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
+      },
+      "artists": [
+        {
+          "name": "Mynolia",
+          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Holy Line",
+      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
+    },
+    {
       "added_at": "2026-09-11 04:00:16",
       "album": {
         "name": "Country Is Dead",
@@ -743,22 +759,6 @@
       "duration_ms": 221104,
       "name": "How To Act",
       "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
-    },
-    {
-      "added_at": "2026-09-18 00:00:09",
-      "album": {
-        "name": "Holy Line",
-        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
-      },
-      "artists": [
-        {
-          "name": "Mynolia",
-          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Holy Line",
-      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -811,22 +811,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "The Winter of '68",
-        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 202979,
-      "name": "The Winter of '68",
-      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 198132,
       "name": "Chairkickers",
       "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "The Winter of '68",
+        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 202979,
+      "name": "The Winter of '68",
+      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
     },
     {
-      "added_at": "2026-09-18 00:00:09",
-      "album": {
-        "name": "Wooden Machine",
-        "url": "https://open.spotify.com/album/1pTDcGfgXQEwT2uzMuKTT3"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 222170,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/1bSaCwYFe8qwTcNuEIFvKV"
-    },
-    {
       "added_at": "2026-09-11 04:00:16",
       "album": {
         "name": "Avalon",
@@ -919,6 +903,22 @@
       "duration_ms": 331908,
       "name": "Shake off Your Flesh",
       "url": "https://open.spotify.com/track/47g2mXyhE93TrvmXS2J8JI"
+    },
+    {
+      "added_at": "2026-09-18 00:00:09",
+      "album": {
+        "name": "Wooden Machine",
+        "url": "https://open.spotify.com/album/1pTDcGfgXQEwT2uzMuKTT3"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 222170,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1bSaCwYFe8qwTcNuEIFvKV"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -987,22 +987,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
-      },
-      "artists": [
-        {
-          "name": "Delta Rae",
-          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
-        }
-      ],
-      "duration_ms": 180920,
-      "name": "The Beast",
-      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Six Shades of Grey",
         "url": "https://open.spotify.com/album/2gZyv5yJdXHkZppvO6k8l9"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 203757,
       "name": "Six Shades of Grey",
       "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
+      },
+      "artists": [
+        {
+          "name": "Delta Rae",
+          "url": "https://open.spotify.com/artist/0iidQFemlPhkoHqFroz2my"
+        }
+      ],
+      "duration_ms": 180920,
+      "name": "The Beast",
+      "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Election Day",
-        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
-      },
-      "artists": [
-        {
-          "name": "Uncle Lucius",
-          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
-        }
-      ],
-      "duration_ms": 187606,
-      "name": "Election Day",
-      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Bastard Children",
         "url": "https://open.spotify.com/album/2c04IHW1EnOkIMkivr5NPG"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 220626,
       "name": "Psalms",
       "url": "https://open.spotify.com/track/4Q4qJYgs4zZ1FFHX2nleB9"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Election Day",
+        "url": "https://open.spotify.com/album/51STi5y5Qt84gjUWIPzpSm"
+      },
+      "artists": [
+        {
+          "name": "Uncle Lucius",
+          "url": "https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW"
+        }
+      ],
+      "duration_ms": 187606,
+      "name": "Election Day",
+      "url": "https://open.spotify.com/track/6L0ZNarrnxEqXgCrjo7vYW"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Little Wing",
-        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 175960,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Quiet Flame",
         "url": "https://open.spotify.com/album/2Uyhtk4U9TxSFIIj8dOyZO"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 242153,
       "name": "Pull the Moon",
       "url": "https://open.spotify.com/track/0fhybVaiwileWneFHOBhhd"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Little Wing",
+        "url": "https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 175960,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "3",
-        "url": "https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P"
-      },
-      "artists": [
-        {
-          "name": "honeyhoney",
-          "url": "https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM"
-        }
-      ],
-      "duration_ms": 234146,
-      "name": "God Of Love",
-      "url": "https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Twin",
         "url": "https://open.spotify.com/album/5GhI019oC8mS6czOfouj2J"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 196890,
       "name": "Where the Enemy Sleeps",
       "url": "https://open.spotify.com/track/17YEHsH3LwT9yqqQhuid8k"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/1hMuNxqnxcC35yTBMgQw4P"
+      },
+      "artists": [
+        {
+          "name": "honeyhoney",
+          "url": "https://open.spotify.com/artist/22tQF7y3PwRuU6ZWAV2oTM"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "God Of Love",
+      "url": "https://open.spotify.com/track/1haOmT0ndDABp11zNK92ot"
     },
     {
       "added_at": "2026-09-11 04:00:16",

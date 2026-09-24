@@ -1,12 +1,12 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 224776,
+  "num_followers": 224814,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOE4ZibcrLpFSwdxmVDapRe4cQoo",
+  "snapshot_id": "AAAAAPDCExWSGBHLON1r2DUm6KmF6n5w",
   "tracks": [
     {
       "added_at": "2026-09-14 17:29:29",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-09-14 17:29:29",
       "album": {
-        "name": "Prisionero",
-        "url": "https://open.spotify.com/album/3NxfSFXY3AXan2AQ6e6PMq"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 235520,
-      "name": "Prisionero",
-      "url": "https://open.spotify.com/track/6BvLxVbjHqWgDqjhVRbTaZ"
-    },
-    {
-      "added_at": "2026-09-14 17:29:29",
-      "album": {
         "name": "Toda la vida",
         "url": "https://open.spotify.com/album/7udgVaRDthuSi8JtMTz0e1"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 274908,
       "name": "Toda la vida",
       "url": "https://open.spotify.com/track/34M4ir211IC4o1oF4WkgzZ"
+    },
+    {
+      "added_at": "2026-09-14 17:29:29",
+      "album": {
+        "name": "Prisionero",
+        "url": "https://open.spotify.com/album/3NxfSFXY3AXan2AQ6e6PMq"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 235520,
+      "name": "Prisionero",
+      "url": "https://open.spotify.com/track/6BvLxVbjHqWgDqjhVRbTaZ"
     },
     {
       "added_at": "2026-09-14 17:29:29",

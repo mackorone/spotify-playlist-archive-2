@@ -1215,6 +1215,28 @@
     },
     {
       "album": {
+        "name": "Tayutau",
+        "url": "https://open.spotify.com/album/2rDkaipWW2xf6MxZosufpd"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142022,
+      "name": "Tayutau",
+      "url": "https://open.spotify.com/track/1ZiDure4S90WRUJ1CP17p5"
+    },
+    {
+      "album": {
         "name": "Time goes by",
         "url": "https://open.spotify.com/album/3BGcymZGetozixza8RWiAv"
       },
@@ -1384,7 +1406,7 @@
       ],
       "date_added": "2026-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 181931,
       "name": "Yosei",
       "url": "https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP"

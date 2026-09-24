@@ -1,12 +1,12 @@
 {
   "description": "The best new dance tracks from independent artists & labels. Featuring KDAY. Curated with love by human Spotify editors. \n",
-  "num_followers": 216875,
+  "num_followers": 216953,
   "original_name": "Fresh Finds Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOVGiOm0c8jG2fAaA2K5qXNsteGV",
+  "snapshot_id": "AAAAACjcmT8u5qaAXVliBscGOt1weQp0",
   "tracks": [
     {
       "added_at": "2026-09-17 01:08:14",
@@ -25,20 +25,68 @@
       "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
     },
     {
-      "added_at": "2026-09-18 18:06:53",
+      "added_at": "2026-09-18 04:02:35",
       "album": {
-        "name": "Punch You",
-        "url": "https://open.spotify.com/album/64L1jISmOrDtmN2760WYJK"
+        "name": "ROCK THE DISCO",
+        "url": "https://open.spotify.com/album/1x9bdn2Rjr5Y7d62C5N1zG"
       },
       "artists": [
         {
-          "name": "PATCHWRK",
-          "url": "https://open.spotify.com/artist/41c9OuzcvzQelrjiBFOl6G"
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
         }
       ],
-      "duration_ms": 154960,
-      "name": "Punch You",
-      "url": "https://open.spotify.com/track/4gfZSdldsUYlnJ4a3I2osa"
+      "duration_ms": 181818,
+      "name": "ROCK THE DISCO",
+      "url": "https://open.spotify.com/track/5DkQxWX81nR4TtMOzW3o24"
+    },
+    {
+      "added_at": "2026-08-19 21:18:18",
+      "album": {
+        "name": "catch me if you can",
+        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
+      },
+      "artists": [
+        {
+          "name": "moonvine",
+          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "catch me if you can",
+      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
+    },
+    {
+      "added_at": "2026-09-23 21:31:26",
+      "album": {
+        "name": "Feel At Home",
+        "url": "https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG"
+      },
+      "artists": [
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
+        }
+      ],
+      "duration_ms": 145822,
+      "name": "Feel At Home",
+      "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
+    },
+    {
+      "added_at": "2026-09-18 04:02:35",
+      "album": {
+        "name": "M\u00e1s O Menos",
+        "url": "https://open.spotify.com/album/7sGSkSFmci8w4uY7VQJRYJ"
+      },
+      "artists": [
+        {
+          "name": "Cole Terrazas",
+          "url": "https://open.spotify.com/artist/5kSrrZnNYneJtk28xLuj7n"
+        }
+      ],
+      "duration_ms": 343722,
+      "name": "M\u00e1s O Menos",
+      "url": "https://open.spotify.com/track/31i74Bl85V9ggbqgi5jWAk"
     },
     {
       "added_at": "2026-09-02 04:00:31",
@@ -61,36 +109,88 @@
       "url": "https://open.spotify.com/track/5yEh1YRBOZqx5mmQ53tDbW"
     },
     {
-      "added_at": "2026-09-18 04:02:35",
+      "added_at": "2026-09-23 21:31:26",
       "album": {
-        "name": "M\u00e1s O Menos",
-        "url": "https://open.spotify.com/album/7sGSkSFmci8w4uY7VQJRYJ"
+        "name": "SLICK",
+        "url": "https://open.spotify.com/album/094Ouz4balyEJzEFXsSq4Q"
       },
       "artists": [
         {
-          "name": "Cole Terrazas",
-          "url": "https://open.spotify.com/artist/5kSrrZnNYneJtk28xLuj7n"
+          "name": "ANIMATE",
+          "url": "https://open.spotify.com/artist/6YzhVTqCwOWYet9QLi2Kbs"
         }
       ],
-      "duration_ms": 343722,
-      "name": "M\u00e1s O Menos",
-      "url": "https://open.spotify.com/track/31i74Bl85V9ggbqgi5jWAk"
+      "duration_ms": 193897,
+      "name": "SLICK",
+      "url": "https://open.spotify.com/track/5l75jSScmSas7PbsNc9uBq"
     },
     {
-      "added_at": "2026-08-19 21:18:18",
+      "added_at": "2026-09-18 18:06:53",
       "album": {
-        "name": "catch me if you can",
-        "url": "https://open.spotify.com/album/42RpxhGSGMrQMbOLIqKTZE"
+        "name": "Punch You",
+        "url": "https://open.spotify.com/album/64L1jISmOrDtmN2760WYJK"
       },
       "artists": [
         {
-          "name": "moonvine",
-          "url": "https://open.spotify.com/artist/5xSy1py3vJMMbZfwCPZHDF"
+          "name": "PATCHWRK",
+          "url": "https://open.spotify.com/artist/41c9OuzcvzQelrjiBFOl6G"
         }
       ],
-      "duration_ms": 169846,
-      "name": "catch me if you can",
-      "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
+      "duration_ms": 154960,
+      "name": "Punch You",
+      "url": "https://open.spotify.com/track/4gfZSdldsUYlnJ4a3I2osa"
+    },
+    {
+      "added_at": "2026-07-17 17:46:34",
+      "album": {
+        "name": "Ruffneck",
+        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
+      },
+      "artists": [
+        {
+          "name": "MASS",
+          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Ruffneck",
+      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
+    },
+    {
+      "added_at": "2026-07-30 05:08:29",
+      "album": {
+        "name": "Bad B$tch",
+        "url": "https://open.spotify.com/album/4kH82moo8TpsOtlwrbrnf9"
+      },
+      "artists": [
+        {
+          "name": "DvirNuns",
+          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
+        },
+        {
+          "name": "DOX",
+          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Bad B$tch",
+      "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
+    },
+    {
+      "added_at": "2026-09-23 21:31:26",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2vq0TwPj3gAEXHCZV69DvM"
+      },
+      "artists": [
+        {
+          "name": "Preece",
+          "url": "https://open.spotify.com/artist/1bajsLluyeJpzaPoRB8uLQ"
+        }
+      ],
+      "duration_ms": 171701,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/6o77Iq2lw3KoLUwb5AuN84"
     },
     {
       "added_at": "2026-09-18 04:02:35",
@@ -111,18 +211,18 @@
     {
       "added_at": "2026-09-18 04:02:35",
       "album": {
-        "name": "ROCK THE DISCO",
-        "url": "https://open.spotify.com/album/1x9bdn2Rjr5Y7d62C5N1zG"
+        "name": "YAAA!!!",
+        "url": "https://open.spotify.com/album/4L2GPeIbO96czj0QJm0DbE"
       },
       "artists": [
         {
-          "name": "PAULY!",
-          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
         }
       ],
-      "duration_ms": 181818,
-      "name": "ROCK THE DISCO",
-      "url": "https://open.spotify.com/track/5DkQxWX81nR4TtMOzW3o24"
+      "duration_ms": 183131,
+      "name": "YAAA!!!",
+      "url": "https://open.spotify.com/track/3zyKPdknVPhtZDj9shmexP"
     },
     {
       "added_at": "2026-09-17 01:08:14",
@@ -141,20 +241,20 @@
       "url": "https://open.spotify.com/track/42sh19iYGReVErKTOKaAJy"
     },
     {
-      "added_at": "2026-07-17 17:46:34",
+      "added_at": "2026-09-23 21:31:26",
       "album": {
-        "name": "Ruffneck",
-        "url": "https://open.spotify.com/album/01vNyh3e4nRfA6xCzS7HwY"
+        "name": "Want U Back",
+        "url": "https://open.spotify.com/album/64kspokjua1DDfhiuYoIeb"
       },
       "artists": [
         {
-          "name": "MASS",
-          "url": "https://open.spotify.com/artist/5lVFWmkbZuc8D1tgePcVMd"
+          "name": "Skeptic",
+          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
         }
       ],
-      "duration_ms": 218181,
-      "name": "Ruffneck",
-      "url": "https://open.spotify.com/track/1HuwW4J6mT4vAothWpupq1"
+      "duration_ms": 155515,
+      "name": "Want U Back",
+      "url": "https://open.spotify.com/track/3qk3Sf3hnnSBIfWTjpB9Kv"
     },
     {
       "added_at": "2026-09-17 01:08:14",
@@ -189,6 +289,26 @@
       "url": "https://open.spotify.com/track/3e9nqr6iW1wcYlOSkiDp1r"
     },
     {
+      "added_at": "2026-09-23 21:31:26",
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/4ASgCVfuiXn2z4Jj6OJb0X"
+      },
+      "artists": [
+        {
+          "name": "CROSS CITY",
+          "url": "https://open.spotify.com/artist/2YEX28QkrNloZQR3SgVXMh"
+        },
+        {
+          "name": "Yung Ta",
+          "url": "https://open.spotify.com/artist/0BtWJZaHgSsVOp71L14leH"
+        }
+      ],
+      "duration_ms": 146564,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/2EOYAOg7weioqPFlSzv9bH"
+    },
+    {
       "added_at": "2026-09-17 01:08:14",
       "album": {
         "name": "Free in this House",
@@ -219,22 +339,6 @@
       "duration_ms": 197169,
       "name": "SHE DOESN'T KNOW",
       "url": "https://open.spotify.com/track/2m608yh1RjLy7N72mSX02T"
-    },
-    {
-      "added_at": "2026-09-18 04:02:35",
-      "album": {
-        "name": "YAAA!!!",
-        "url": "https://open.spotify.com/album/4L2GPeIbO96czj0QJm0DbE"
-      },
-      "artists": [
-        {
-          "name": "MAPLO",
-          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "YAAA!!!",
-      "url": "https://open.spotify.com/track/3zyKPdknVPhtZDj9shmexP"
     },
     {
       "added_at": "2026-09-17 18:08:05",
@@ -363,26 +467,6 @@
       "duration_ms": 166867,
       "name": "Wait What - Radio Edit",
       "url": "https://open.spotify.com/track/0WlHGeH7JsqBHRzL4t7Ld1"
-    },
-    {
-      "added_at": "2026-07-30 05:08:29",
-      "album": {
-        "name": "Bad B$tch",
-        "url": "https://open.spotify.com/album/4kH82moo8TpsOtlwrbrnf9"
-      },
-      "artists": [
-        {
-          "name": "DvirNuns",
-          "url": "https://open.spotify.com/artist/5RIPjT0oNRQ8XGPcnwBL8n"
-        },
-        {
-          "name": "DOX",
-          "url": "https://open.spotify.com/artist/36jHmnMMKH4XOhdAj4LGe3"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Bad B$tch",
-      "url": "https://open.spotify.com/track/0zmb9BlKv3YkdET099a0jU"
     },
     {
       "added_at": "2026-09-18 04:02:35",
@@ -743,22 +827,6 @@
     {
       "added_at": "2026-08-26 04:00:40",
       "album": {
-        "name": "tell me",
-        "url": "https://open.spotify.com/album/6zde0TP0x20Q9z2e0BsPzK"
-      },
-      "artists": [
-        {
-          "name": "Ell Murphy",
-          "url": "https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ"
-        }
-      ],
-      "duration_ms": 221679,
-      "name": "tell me",
-      "url": "https://open.spotify.com/track/240zAucIXXbMEmjOyUbWTM"
-    },
-    {
-      "added_at": "2026-08-26 04:00:40",
-      "album": {
         "name": "On My Own",
         "url": "https://open.spotify.com/album/2TRhWuDOHZWfrZ5zzPD0EX"
       },
@@ -771,38 +839,6 @@
       "duration_ms": 167260,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/6lKU5z4ArKo235u0A6l5O9"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Body Movin'",
-        "url": "https://open.spotify.com/album/3y1eD8HIDch9V3pdQ7SyXT"
-      },
-      "artists": [
-        {
-          "name": "Fede Aliprandi",
-          "url": "https://open.spotify.com/artist/6iURGquLjP3XERe3u4bZwB"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Body Movin'",
-      "url": "https://open.spotify.com/track/0JLin9DOxovyWW3Y9PWGYB"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "fast lane",
-        "url": "https://open.spotify.com/album/1V95zWe9SNVNBe8TnGjwiC"
-      },
-      "artists": [
-        {
-          "name": "MAPLO",
-          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
-        }
-      ],
-      "duration_ms": 188769,
-      "name": "fast lane",
-      "url": "https://open.spotify.com/track/6Ve4d45O3jQpGvnTcStJpQ"
     },
     {
       "added_at": "2026-08-26 04:00:40",
@@ -1133,22 +1169,6 @@
       "url": "https://open.spotify.com/track/6kjj7HgnXX9oIxeNQ3MOSC"
     },
     {
-      "added_at": "2026-07-10 04:02:07",
-      "album": {
-        "name": "be with me",
-        "url": "https://open.spotify.com/album/5Zu5Efho9jRbmiJzcUcZVE"
-      },
-      "artists": [
-        {
-          "name": "MAYV",
-          "url": "https://open.spotify.com/artist/2YIJohIuJuZhepoKOaO0yt"
-        }
-      ],
-      "duration_ms": 155543,
-      "name": "be with me",
-      "url": "https://open.spotify.com/track/13iSspPHQg1cDyUl55ItRg"
-    },
-    {
       "added_at": "2026-06-09 17:47:06",
       "album": {
         "name": "Chica",
@@ -1219,22 +1239,6 @@
       "duration_ms": 129097,
       "name": "Close 2 U",
       "url": "https://open.spotify.com/track/4KR4fvzuBru2PNqqhAZGk0"
-    },
-    {
-      "added_at": "2026-05-06 19:01:48",
-      "album": {
-        "name": "It's All About The Music",
-        "url": "https://open.spotify.com/album/2lb23UsJhwRZSDCs3KeUMo"
-      },
-      "artists": [
-        {
-          "name": "From Dave",
-          "url": "https://open.spotify.com/artist/0mZidOoBt44GjnhNMUr9F6"
-        }
-      ],
-      "duration_ms": 157058,
-      "name": "It's All About The Music",
-      "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
     },
     {
       "added_at": "2026-05-06 19:01:48",

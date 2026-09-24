@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題のバイラルヒット曲をまとめてチェック。Cover: The Weeknd
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,078 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,069 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 | 11 | [Samba de Night Fever](https://open.spotify.com/track/0lr7xhfyWvTwQuXGvVDJoL) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [WARAiNA](https://open.spotify.com/album/5uZNBbwugf5RtNFWtH0hnH) | 3:00 |
 | 12 | [Love so sweet](https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm) | [ARASHI](https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C) | [Time](https://open.spotify.com/album/7uUUazj2UJMhdOsXZrYO4v) | 4:49 |
 | 13 | [Love Options](https://open.spotify.com/track/63gCdrDtZlt1PMIGrzYEqt) | [BESTie](https://open.spotify.com/artist/1HiZjIv6iLp9cs5vX0AJKo) | [Love Options](https://open.spotify.com/album/48aNxerOupoy4EbC0el0l8) | 3:14 |
-| 14 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 14 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 15 | [HELLO](https://open.spotify.com/track/1SDX84JCBm6jjKTyN7NsWP) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/6ktBQgq9slQlHb3ezqBANx) | 3:01 |
 | 16 | [宿命](https://open.spotify.com/track/2yozZfRYHP7Elsymghu5t3) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Traveler](https://open.spotify.com/album/2vwgYzudvFwyFe1Ho9gdUQ) | 4:40 |
 | 17 | [黄泉還](https://open.spotify.com/track/6RsBL3A3zAzSTwuddqnSmb) | [OddRe:](https://open.spotify.com/artist/2bBPaMYH2SDOH3jBRjU8fr) | [黄泉還](https://open.spotify.com/album/3QMAJbRGXpdWjTvtVuPe4H) | 3:52 |

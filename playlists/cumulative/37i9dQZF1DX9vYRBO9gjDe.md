@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月21日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月22日付。
 
 7,909 songs - 19 day 15 hr 26 min
 
@@ -2084,7 +2084,7 @@
 | [I will be](https://open.spotify.com/track/4AZXBU2rt8yCcEA1pttXLB) | [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto) | [Unhappy birthday構文 \(Special Edition\)](https://open.spotify.com/album/19SC6o3wULkC8QIKV0YKIb) | 3:40 | 2025-11-03 | 2025-11-05 |
 | [I Wish](https://open.spotify.com/track/61hFHmeLzpM85Wz2WU9pNp) | [なにわ男子](https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6) | [+Alpha（Special Edition）](https://open.spotify.com/album/01ZMA8tItQb2Xs99Foagdx) | 4:17 | 2024-08-16 | 2024-08-19 |
 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 | 2024-04-19 | 2024-09-26 |
-| [I wonder](https://open.spotify.com/track/0voOaunLYYqPHrsgXbFVlW) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [MUSi\-aM](https://open.spotify.com/album/5T7DFjBp74VsO5eHFT3Kie) | 2:38 | 2024-10-07 |  |
+| [I wonder](https://open.spotify.com/track/0voOaunLYYqPHrsgXbFVlW) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [MUSi\-aM](https://open.spotify.com/album/5T7DFjBp74VsO5eHFT3Kie) | 2:38 | 2024-10-07 | 2026-09-24 |
 | [i wonder..\. \(with Jung Kook of BTS\)](https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 2:43 | 2024-04-01 | 2024-06-14 |
 | [I ♡ WAKA \(feat\. TOFU, HARKA, 7, ENEL, T.i.G skysea & MIKADO\)](https://open.spotify.com/track/77yRU6EVkY4qCEQXe7Dyna) | [JAYCORPSE\*](https://open.spotify.com/artist/1lVMKadNBNQyuA0Ovedfgn), [TOFU](https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ), [Harka](https://open.spotify.com/artist/0NLHo8KJfXFnDFeynigUze), [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn), [ENEL](https://open.spotify.com/artist/5UyerN25hRt7bD2tnAvxdg), [T.i.G skysea](https://open.spotify.com/artist/4b5PnccZ84c9FyG4JW43lT), [MIKADO](https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM) | [I ♡ WAKA \(feat\. TOFU, HARKA, 7, ENEL, T.i.G skysea & MIKADO\)](https://open.spotify.com/album/5qxxQAzb2wIwRRi9uwCX6O) | 4:25 | 2026-04-07 | 2026-04-09 |
 | [I'll Be Home](https://open.spotify.com/track/0lTurWECr2XL607eJAj1A3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Title \(Expanded Edition\)](https://open.spotify.com/album/7m2Gzfu5nMgHTiMbNDwPr7) | 3:39 | 2023-12-25 | 2023-12-27 |
@@ -6887,7 +6887,7 @@
 | [好きな人がいること](https://open.spotify.com/track/15HDH9up3Imdm8KtsGv9XD) | [JY](https://open.spotify.com/artist/5vO3b6n7tKXv7S9JWmeniF) | [Many Faces \-多面性\-](https://open.spotify.com/album/5AHNRu1ibpXQAnONhcpRlB) | 4:32 | 2024-10-11 | 2026-07-01 |
 | [好きになるクレッシェンド](https://open.spotify.com/track/2JTPCY0hGhFsYTAPQfhhUP) | [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j) | [好きになるクレッシェンド](https://open.spotify.com/album/6GVYLkkgQEh4EDQbg5NpsC) | 4:04 | 2026-01-29 | 2026-01-31 |
 | [好きになるクレッシェンド](https://open.spotify.com/track/3OaT1FZnlS6zK1YT5PkDaK) | [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j) | [クリフハンガー\(Special Edition\)](https://open.spotify.com/album/4ryladfbTfrKvqwQfss8to) | 4:04 | 2026-02-04 | 2026-02-07 |
-| [始まりのように](https://open.spotify.com/track/0E3u9s7dNh7obb6KkiEPxi) | [REN](https://open.spotify.com/artist/1Dg4sJ9R4oTCaA7fohHJmf) | [始まりのように](https://open.spotify.com/album/4mWl6OMuhepJlaWof3lobG) | 3:02 | 2025-08-20 | 2026-09-17 |
+| [始まりのように](https://open.spotify.com/track/0E3u9s7dNh7obb6KkiEPxi) | [REN](https://open.spotify.com/artist/1Dg4sJ9R4oTCaA7fohHJmf) | [始まりのように](https://open.spotify.com/album/4mWl6OMuhepJlaWof3lobG) | 3:02 | 2025-08-20 |  |
 | [嫌々](https://open.spotify.com/track/4oqUgyBXtbbJkeppHt8t2D) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [嫌々](https://open.spotify.com/album/6tmF9G7yL59bMCQ8eL20qg) | 3:04 | 2024-12-13 | 2025-10-15 |
 | [嫌嫌](https://open.spotify.com/track/73beY6Yn4Jg0CyfN8txrfz) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [嫌嫌](https://open.spotify.com/album/4Qw1FoecWUEh2PGbKYm7Sd) | 3:41 | 2023-03-18 | 2023-03-20 |
 | [存在](https://open.spotify.com/track/5WcHRHkksGn8gqQi9SpzJb) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [存在](https://open.spotify.com/album/3ICQhAMYIEHYzXieIepvO1) | 3:56 | 2025-03-10 | 2025-03-13 |
@@ -7382,7 +7382,7 @@
 | [灯火 \(feat\. miida\)](https://open.spotify.com/track/6mtkUqVaMoJBMG86f0RTul) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [miida](https://open.spotify.com/artist/6ANBWTINO0TqbV5fZMGVLX) | [灯火 \(feat\. miida\)](https://open.spotify.com/album/0QRJ0PwVSFNg6KKla8CMtq) | 3:04 | 2023-02-03 | 2023-02-10 |
 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 | 2024-01-13 | 2024-01-15 |
 | [灰になる前に](https://open.spotify.com/track/43ODK7f2j4qQPoqWDVuRbF) | [北山宏光](https://open.spotify.com/artist/03fh8s23w7LaxzmiENr8bN) | [10th Anniversary Extra \(solo edition\)](https://open.spotify.com/album/4FqujvPwrOfRVP1NO85Df1) | 3:28 | 2026-04-24 | 2026-04-28 |
-| [灰色と青 \( + 菅田将暉 \)](https://open.spotify.com/track/3KnURrjsXA0TDce8N7iOwz) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 5:32 | 2023-06-06 | 2026-09-23 |
+| [灰色と青 \( + 菅田将暉 \)](https://open.spotify.com/track/3KnURrjsXA0TDce8N7iOwz) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 5:32 | 2023-06-06 |  |
 | [炎](https://open.spotify.com/track/3YXGSpMR27cthwFJfwd5DY) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:37 | 2025-07-01 | 2025-07-24 |
 | [炎と森のカーニバル](https://open.spotify.com/track/5kDz0Wrx0UpaVRttDZ4KtI) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Tree](https://open.spotify.com/album/1NF6OvO7LcY8f7m5rVxU1T) | 4:58 | 2026-04-30 | 2026-05-02 |
 | [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 | 2023-03-09 | 2026-06-25 |
@@ -7754,7 +7754,7 @@
 | [遊星X](https://open.spotify.com/track/4b027Us1fdSWTYKOHdACIE) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [エヴォリューション](https://open.spotify.com/album/6ZNMQgMmhyqw38uhADJWUN) | 2:19 | 2024-05-24 | 2024-06-01 |
 | [運命](https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [運命](https://open.spotify.com/album/2Y81L90yDhnCKmoPsxjh7e) | 3:43 | 2024-04-05 | 2024-04-23 |
 | [運命の華](https://open.spotify.com/track/6ug9mmLsL6cK8w6AMINUwm) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [運命の華](https://open.spotify.com/album/716hRknVasU08ypKekcsr0) | 3:15 | 2024-07-03 | 2024-07-05 |
-| [道](https://open.spotify.com/track/6fZhokT7ADLeCcOyKL914T) | [EXILE](https://open.spotify.com/artist/6zGmypGQUBXD4ZC9EbfMme) | [EXILE EVOLUTION](https://open.spotify.com/album/6DsVzVRUgKFFMPxiPM8cNC) | 4:39 | 2025-03-06 |  |
+| [道](https://open.spotify.com/track/6fZhokT7ADLeCcOyKL914T) | [EXILE](https://open.spotify.com/artist/6zGmypGQUBXD4ZC9EbfMme) | [EXILE EVOLUTION](https://open.spotify.com/album/6DsVzVRUgKFFMPxiPM8cNC) | 4:39 | 2025-03-06 | 2026-09-24 |
 | [道](https://open.spotify.com/track/54HMpdV2FTXgcI0dkDzMc8) | [GReeeeN](https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89) | [あっ、ども。はじめまして。](https://open.spotify.com/album/4Q36ZjQvCRgQ3MDFwDh6Wh) | 4:06 | 2024-08-19 | 2025-03-25 |
 | [道](https://open.spotify.com/track/4nYtqZDscX8TLvR4p0ON1s) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Fantome](https://open.spotify.com/album/3OsjveYa3ODxbAHuoZp7MS) | 3:36 | 2023-11-05 |  |
 | [道路工事](https://open.spotify.com/track/5shAjHXiicExxZbGFrlW8h) | [SHO\-SENSEI!!](https://open.spotify.com/artist/6JGm1QXoCHtzV2oKcAu2Xc) | [道路工事](https://open.spotify.com/album/5weR7Zg083G9lautDgMXMf) | 2:54 | 2023-06-11 | 2023-06-17 |

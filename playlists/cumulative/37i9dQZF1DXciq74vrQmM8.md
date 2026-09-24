@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our universe ft\. daine
+> welcome to our universe ft\. miley cyrus
 
-1,338 songs - 2 day 18 hr 11 min
+1,342 songs - 2 day 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/track/0m6wHoCD76aMVrKr5NWeHU) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [BLAME \(feat\. Corey Taylor\)](https://open.spotify.com/album/1LqHo7nmaZhSAoYAnk6tA4) | 4:22 | 2026-03-20 |  |
 | [BLAST](https://open.spotify.com/track/1KFoSgEXNktySoRzA3dQwT) | [Charles Jeffrey LOVERBOY](https://open.spotify.com/artist/08HQp2HGuXD10o7v6kJiqJ), [Taliable](https://open.spotify.com/artist/2STpck5MSfT4rIOAVsdn1L) | [NEKO](https://open.spotify.com/album/6uDqbQjGjh4X8CMK9mPJc6) | 2:09 | 2022-11-04 | 2023-01-13 |
 | [BLEACH](https://open.spotify.com/track/0mobRDJ2MLQDRRtJ1ZWeBR) | [Ecca Vandal](https://open.spotify.com/artist/0NhKCHTPG7Sz62S3zxV1Cf) | [BLEACH](https://open.spotify.com/album/1ZDkybtpcLs57mrRlQhNwO) | 2:28 | 2026-02-06 | 2026-06-13 |
+| [Bleeding Heart](https://open.spotify.com/track/1WXuljOQWtK6rKRNM4SlEk) | [Vana](https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T) | [Bleeding Heart](https://open.spotify.com/album/02TN5COA7e3uh96dRwLPBr) | 3:32 | 2026-09-23 |  |
 | [bLeSs uR hEaRt](https://open.spotify.com/track/4bjn7QMGA72zxqEfrm6fpE) | [tiLLie](https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN) | [bLeSs uR hEaRt](https://open.spotify.com/album/16ybJSJV5vWOH4PjmnvWgO) | 3:11 | 2023-03-24 | 2023-07-07 |
 | [Bliss](https://open.spotify.com/track/3PqKbBKxV2mSgfWNwNAAjW) | [Santangelo](https://open.spotify.com/artist/23PgufXbWsCNunDb9szzKk) | [Bliss](https://open.spotify.com/album/3UmcyVzSGg6TiYckk55M0U) | 2:03 | 2021-12-27 | 2022-01-19 |
 | [Blitz](https://open.spotify.com/track/5Fk2qdYM7noUA3WoedjLhM) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Blitz](https://open.spotify.com/album/6sRDV6Sc4WR3tyT9VhYogM) | 2:47 | 2025-09-11 | 2025-10-17 |
@@ -324,6 +325,7 @@
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-12-27 | 2023-02-24 |
 | [DiE4u \- six impala "DiE6u" Remix](https://open.spotify.com/track/6gKqGwrNvxaKMAq6jb8nab) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [six impala](https://open.spotify.com/artist/5EtZGidUP0imIVaUwBo4GW) | [DiE4u \(six impala "DiE6u" Remix\)](https://open.spotify.com/album/5BPAG0wIJVwNpqSqOQ6P6H) | 2:47 | 2022-01-05 | 2022-04-29 |
 | [DiE4u.sysrsk](https://open.spotify.com/track/65EFbxCYYNRGKibTQj90Wt) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [HM Surf](https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB) | [Lo\-files](https://open.spotify.com/album/34pF0wOGswprAZCsI8A1Fs) | 2:07 | 2025-07-10 | 2025-07-25 |
+| [Different Religion \(feat\. Model/Actriz\)](https://open.spotify.com/track/63QxVCDUG65xSAX9xqD0dV) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:43 | 2026-09-23 |  |
 | [difficult](https://open.spotify.com/track/3uWiz4o4sFeLcjFiELuDa1) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8) | [difficult](https://open.spotify.com/album/4wFsQRPPnYc2k73yUldWEh) | 2:04 | 2022-10-13 | 2023-01-13 |
 | [DIg It](https://open.spotify.com/track/3IAqmiQpJiezGvQAHE2DSk) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 7:12 | 2024-05-28 | 2024-06-07 |
 | [DIRTBAG](https://open.spotify.com/track/50E0Pl2yc4rycFqTH1cGRD) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [DON'T WORRY, I'LL BE FINE](https://open.spotify.com/album/09natI8LumZF8kRgCuUSRe) | 2:10 | 2024-09-20 | 2025-06-20 |
@@ -954,6 +956,7 @@
 | [POSSESS ME](https://open.spotify.com/track/1Xvj8YGcG6DLcIrAM5rD2r) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [POSSESS ME](https://open.spotify.com/album/6c4OTInxbcdjDMvMED68Q7) | 2:00 | 2022-08-04 | 2022-11-11 |
 | [Possession of a Weapon](https://open.spotify.com/track/3kAnPXxtstxQvUftWqVdm2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Possession of a Weapon](https://open.spotify.com/album/0MZgUBm8HPyOcovdtuyJJk) | 2:35 | 2023-05-25 | 2023-07-07 |
 | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/track/2no9gQFqQc0SwelSEJ2SQI) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [Power \(feat\. Pussy Riot\)](https://open.spotify.com/album/2vkWHYySwW3SW2613HOZyc) | 2:56 | 2022-04-19 | 2022-04-29 |
+| [Powerlines](https://open.spotify.com/track/7uvsxYvJwAGTdxMNJrgtbQ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:58 | 2026-09-23 |  |
 | [POWERPLAY](https://open.spotify.com/track/2UaUNUtIQ3bHW56GXdiJmt) | [Bobbi Arlo](https://open.spotify.com/artist/5cudb4Wjab9hm3JH34VzgB) | [POWERPLAY](https://open.spotify.com/album/3a06J2Qkcs3aFaAKzwzpxD) | 2:37 | 2025-01-24 | 2025-04-18 |
 | [Precious](https://open.spotify.com/track/0OpFhPOLqkODyYQXoeGwEh) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Precious](https://open.spotify.com/album/6U1cUaSzcC7lb1IiKPm6rS) | 3:28 | 2025-07-31 | 2025-11-08 |
 | [PREDATOR](https://open.spotify.com/track/5r8tAjAxquehOkOruflfLP) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [PREDATOR](https://open.spotify.com/album/3NFHHJhzpiRAhnRSCAEILR) | 2:51 | 2024-01-05 | 2024-08-16 |
@@ -1139,6 +1142,7 @@
 | [SURRENDER LESSONS](https://open.spotify.com/track/37nRqs9biFfjE22mzNFXE6) | [CRASHFACE](https://open.spotify.com/artist/5KjrHPtIS2XCqs5zZwnydX) | [LIFE AND DEATH IN THE WASTELAND](https://open.spotify.com/album/1pA88oIhDCz4wDtkxyNoZp) | 4:05 | 2024-09-12 | 2024-10-04 |
 | [survival of the littest](https://open.spotify.com/track/3VtoWz29VkRNtCMKfn6VZv) | [NOT THE MAIN CHARACTERS](https://open.spotify.com/artist/3zXPbW06DXFBAToUstfD1V) | [bad things come in 3s](https://open.spotify.com/album/29NCAQcGId5b4HAJp87xCM) | 2:12 | 2022-05-19 | 2022-08-05 |
 | [Swallow](https://open.spotify.com/track/0bDFmPqNCXQcfAc3njZszA) | [Harpy](https://open.spotify.com/artist/0fLFfyc0914STFxEyQHZhX) | [Swallow](https://open.spotify.com/album/7hXMo6KNd71w3y7Zd4r134) | 3:09 | 2023-01-13 | 2023-05-16 |
+| [Swallow](https://open.spotify.com/track/13T5HtRAEi0WufzsLOXm1Q) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Swallow](https://open.spotify.com/album/4ev1XrakdReSGteV9QTFx8) | 3:02 | 2026-09-23 |  |
 | [swan song](https://open.spotify.com/track/1QUPtLqCpZLMJm2Ws7Gzef) | [FelixThe1st](https://open.spotify.com/artist/0E9Cff6GTVY5SoIYxvy5Zg) | [swan song](https://open.spotify.com/album/17C6vgK1vtyUDiGzm2lG3i) | 3:26 | 2024-01-26 | 2024-05-24 |
 | [Sweet Sweet](https://open.spotify.com/track/6GMKSAc1546d4mMen2UHd3) | [xDZVONx](https://open.spotify.com/artist/0EVHp9A1Qu3JIkeiOaHRW0) | [Sweet Sweet](https://open.spotify.com/album/17kfWL3qV8fIZWmAQexElT) | 2:31 | 2023-01-27 | 2023-06-16 |
 | [symposium](https://open.spotify.com/track/07u8xyUD3dNMylZspUdLPG) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [symposium](https://open.spotify.com/album/0pAgDyYEmTD8eRH3Qkr3fr) | 4:16 | 2025-06-20 | 2025-07-25 |

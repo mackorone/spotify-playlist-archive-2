@@ -55,30 +55,6 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
-        "name": "Matter of Time",
-        "url": "https://open.spotify.com/album/1AVzRsJoy9Ja8DtAHIF0ao"
-      },
-      "artists": [
-        {
-          "name": "Stylistic Murder",
-          "url": "https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s"
-        },
-        {
-          "name": "Cam One",
-          "url": "https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "Matter of Time",
-      "url": "https://open.spotify.com/track/1VQV6szwtMlOX0EPLQz0HJ"
-    },
-    {
-      "added_at": "2026-09-18 04:00:00",
-      "album": {
         "name": "No Rest for The Wicked",
         "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
       },
@@ -99,18 +75,26 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
-        "name": "Merriweather 6/30/85 (Live)",
-        "url": "https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn"
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/1AVzRsJoy9Ja8DtAHIF0ao"
       },
       "artists": [
         {
-          "name": "Grateful Dead",
-          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+          "name": "Stylistic Murder",
+          "url": "https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s"
+        },
+        {
+          "name": "Cam One",
+          "url": "https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
         }
       ],
-      "duration_ms": 277933,
-      "name": "Keep On Growing - Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985",
-      "url": "https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a"
+      "duration_ms": 111000,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/1VQV6szwtMlOX0EPLQz0HJ"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -139,6 +123,22 @@
       "duration_ms": 285122,
       "name": "Compassion (feat. Flying Lotus, Immanuel Wilkins, David Virelles)",
       "url": "https://open.spotify.com/track/0HnzJayzmv01DGyBV1J8na"
+    },
+    {
+      "added_at": "2026-09-18 04:00:00",
+      "album": {
+        "name": "Merriweather 6/30/85 (Live)",
+        "url": "https://open.spotify.com/album/0IfSmvlOPU5y4FYaRXVFNn"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "duration_ms": 277933,
+      "name": "Keep On Growing - Live at Merriweather Post Pavilion, Columbia, MD, 6/30/1985",
+      "url": "https://open.spotify.com/track/6gVXbdpPlzU6VMcH3Wbi7a"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -399,6 +399,30 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
+        "name": "I Don't Care",
+        "url": "https://open.spotify.com/album/67sDEVCYNUuRHnLg8ly7v7"
+      },
+      "artists": [
+        {
+          "name": "Your Old Droog",
+          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        },
+        {
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+        }
+      ],
+      "duration_ms": 221516,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/3jq169T6RQ4PPgSysnPpMv"
+    },
+    {
+      "added_at": "2026-09-18 04:00:00",
+      "album": {
         "name": "Mary Jane",
         "url": "https://open.spotify.com/album/2HfOz1SbaBBaGndKORgwKm"
       },
@@ -431,54 +455,6 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
-        "name": "I Don't Care",
-        "url": "https://open.spotify.com/album/67sDEVCYNUuRHnLg8ly7v7"
-      },
-      "artists": [
-        {
-          "name": "Your Old Droog",
-          "url": "https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp"
-        },
-        {
-          "name": "Flying Lotus",
-          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
-        },
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 221516,
-      "name": "I Don't Care",
-      "url": "https://open.spotify.com/track/3jq169T6RQ4PPgSysnPpMv"
-    },
-    {
-      "added_at": "2026-09-18 04:00:00",
-      "album": {
-        "name": "Before The World Blows",
-        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        },
-        {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 289071,
-      "name": "They Ain't You - feat. Thundercat",
-      "url": "https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca"
-    },
-    {
-      "added_at": "2026-09-18 04:00:00",
-      "album": {
         "name": "KHABIB",
         "url": "https://open.spotify.com/album/3J43pU6FgLUmbuCFFWzPEP"
       },
@@ -503,6 +479,30 @@
       "duration_ms": 388960,
       "name": "KHABIB",
       "url": "https://open.spotify.com/track/7BM2tjcbPjejKQeL0rBa4z"
+    },
+    {
+      "added_at": "2026-09-18 04:00:00",
+      "album": {
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 289071,
+      "name": "They Ain't You - feat. Thundercat",
+      "url": "https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
-        "name": "1234",
-        "url": "https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 189783,
-      "name": "1234",
-      "url": "https://open.spotify.com/track/3fkbzqiBiZmv09fKfzQjEF"
-    },
-    {
-      "added_at": "2026-09-18 04:00:00",
-      "album": {
         "name": "Czarface Meets Frankie Pulitzer",
         "url": "https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 231546,
       "name": "Dragon Cannon",
       "url": "https://open.spotify.com/track/5MR0nviIWbbv0D7fUPixK1"
+    },
+    {
+      "added_at": "2026-09-18 04:00:00",
+      "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/3UMR7iTk8vVOdhV0v0NbMP"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        }
+      ],
+      "duration_ms": 189783,
+      "name": "1234",
+      "url": "https://open.spotify.com/track/3fkbzqiBiZmv09fKfzQjEF"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -631,26 +631,22 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
-        "name": "Before The World Blows",
-        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+        "name": "Same Old Blues (feat. Jessi Colter)",
+        "url": "https://open.spotify.com/album/2dlfP92ddutgTLL2EulfXl"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Waylon Jennings",
+          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Jessi Colter",
+          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
         }
       ],
-      "duration_ms": 195074,
-      "name": "I Know That Man - feat. Earl Sweatshirt",
-      "url": "https://open.spotify.com/track/3ezhIhKEsgVddmp2ed703g"
+      "duration_ms": 158899,
+      "name": "Same Old Blues (feat. Jessi Colter)",
+      "url": "https://open.spotify.com/track/3Ms0Rpg8ou8CnKJ0NMhAXA"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -687,22 +683,26 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
-        "name": "Same Old Blues (feat. Jessi Colter)",
-        "url": "https://open.spotify.com/album/2dlfP92ddutgTLL2EulfXl"
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
       "artists": [
         {
-          "name": "Waylon Jennings",
-          "url": "https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         },
         {
-          "name": "Jessi Colter",
-          "url": "https://open.spotify.com/artist/43HpW8B5gYRnYbSzm37n5v"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 158899,
-      "name": "Same Old Blues (feat. Jessi Colter)",
-      "url": "https://open.spotify.com/track/3Ms0Rpg8ou8CnKJ0NMhAXA"
+      "duration_ms": 195074,
+      "name": "I Know That Man - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/3ezhIhKEsgVddmp2ed703g"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -739,42 +739,6 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
-        "name": "SO GOOD",
-        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
-      },
-      "artists": [
-        {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 222316,
-      "name": "SO GOOD",
-      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
-    },
-    {
-      "added_at": "2026-09-18 04:00:00",
-      "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
-      },
-      "artists": [
-        {
-          "name": "Sara Bareilles",
-          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
-        }
-      ],
-      "duration_ms": 223755,
-      "name": "Just A Kid",
-      "url": "https://open.spotify.com/track/5vcqxDn2p49rvIeTgRWZwJ"
-    },
-    {
-      "added_at": "2026-09-18 04:00:00",
-      "album": {
         "name": "Turning My Money Over (Quadruple Album)",
         "url": "https://open.spotify.com/album/4nIINRIB3R6R4rzVzY4239"
       },
@@ -795,6 +759,42 @@
       "duration_ms": 193475,
       "name": "Get High",
       "url": "https://open.spotify.com/track/03dRBsj0aMDabJNSKdz6ic"
+    },
+    {
+      "added_at": "2026-09-18 04:00:00",
+      "album": {
+        "name": "Good Grief",
+        "url": "https://open.spotify.com/album/1XMeYUlWgL9ySFeDX00tj7"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "duration_ms": 223755,
+      "name": "Just A Kid",
+      "url": "https://open.spotify.com/track/5vcqxDn2p49rvIeTgRWZwJ"
+    },
+    {
+      "added_at": "2026-09-18 04:00:00",
+      "album": {
+        "name": "SO GOOD",
+        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
+      },
+      "artists": [
+        {
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 222316,
+      "name": "SO GOOD",
+      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

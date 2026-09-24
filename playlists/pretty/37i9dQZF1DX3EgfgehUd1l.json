@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 178941,
+  "num_followers": 178950,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Most of All",
+        "url": "https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF"
+      },
+      "artists": [
+        {
+          "name": "Don Cornell",
+          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Very Best Of",
         "url": "https://open.spotify.com/album/4KB7NVgy3aKibqM1VqHd84"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 185466,
       "name": "Wanted (with Henri Ren\u00e9 & His Orchestra and Chorus)",
       "url": "https://open.spotify.com/track/554BJuPGuQB8u1PKg4LBvB"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Most of All",
-        "url": "https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF"
-      },
-      "artists": [
-        {
-          "name": "Don Cornell",
-          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The EP Collection",
-        "url": "https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Donegan",
-          "url": "https://open.spotify.com/artist/6dIOTeSQDBSR6gwsL0WB2n"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Tom Dooley",
-      "url": "https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Rock & Roll 50s & 60s Mix",
         "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 166051,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The EP Collection",
+        "url": "https://open.spotify.com/album/4EwFjI32q5wL1cFie4lyPu"
+      },
+      "artists": [
+        {
+          "name": "Lonnie Donegan",
+          "url": "https://open.spotify.com/artist/6dIOTeSQDBSR6gwsL0WB2n"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Tom Dooley",
+      "url": "https://open.spotify.com/track/3nFOQSVdAqr6vPpXA98RnP"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Skiffle - From Britain to Broadway",
-        "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
-      },
-      "artists": [
-        {
-          "name": "Johnny Duncan & The Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Last Train to San Fernando",
-      "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Summer Holiday",
         "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 157493,
       "name": "Just Walkin' in the Rain",
       "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Skiffle - From Britain to Broadway",
+        "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
+      },
+      "artists": [
+        {
+          "name": "Johnny Duncan & The Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Last Train to San Fernando",
+      "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Ruby Murray - Greatest Hits",
-        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
-      },
-      "artists": [
-        {
-          "name": "Ruby Murray",
-          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "I'll Come When You Call",
-      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Street Of Memories",
         "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 177493,
       "name": "I'll Take You Home Again, Kathleen",
       "url": "https://open.spotify.com/track/3rfvssyMQbY28825P2sztA"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Ruby Murray - Greatest Hits",
+        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
+      },
+      "artists": [
+        {
+          "name": "Ruby Murray",
+          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "I'll Come When You Call",
+      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Original Hits - 50s",
-        "url": "https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx"
-      },
-      "artists": [
-        {
-          "name": "Norman Wisdom",
-          "url": "https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI"
-        }
-      ],
-      "duration_ms": 216400,
-      "name": "Don't Laugh at Me ('Cause I'm a Fool)",
-      "url": "https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "60's Triple set",
         "url": "https://open.spotify.com/album/3FApcoTb78nsAPWZYJBdD7"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 142426,
       "name": "Rose Marie",
       "url": "https://open.spotify.com/track/6jak4Fou65AgcZoLpNDN74"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Original Hits - 50s",
+        "url": "https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx"
+      },
+      "artists": [
+        {
+          "name": "Norman Wisdom",
+          "url": "https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI"
+        }
+      ],
+      "duration_ms": 216400,
+      "name": "Don't Laugh at Me ('Cause I'm a Fool)",
+      "url": "https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN"
     },
     {
       "added_at": "2023-10-17 16:18:55",

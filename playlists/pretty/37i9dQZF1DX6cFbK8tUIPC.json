@@ -1,12 +1,12 @@
 {
   "description": "The cinnamon-infused, crisp-air-breathing, crunchy-leaves-walking, chunky-knit-wearing, seasonal-latte-drinking playlist. ",
-  "num_followers": 563315,
+  "num_followers": 563516,
   "original_name": "pumpkin spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMBH7d5CxE2XqwU3DrSlP6UhJwB9",
+  "snapshot_id": "AAAAALo0o2ZLgHCBcFcNna5kPJ5eu1/p",
   "tracks": [
     {
       "added_at": "2026-09-17 12:03:43",
@@ -55,6 +55,38 @@
       "duration_ms": 197624,
       "name": "Liberty Tree",
       "url": "https://open.spotify.com/track/6KrQFqTPua1s1Thfx6US7V"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Bon Iver",
+        "url": "https://open.spotify.com/album/3JKDDYSBFozqcjWwSV3Yj3"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 188040,
+      "name": "Towers",
+      "url": "https://open.spotify.com/track/5TGv36v9A0AsLq1xJrNs5V"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -185,6 +217,22 @@
       "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
+      "added_at": "2026-09-23 12:57:27",
+      "album": {
+        "name": "Loveworm",
+        "url": "https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 178918,
+      "name": "Apple Cider",
+      "url": "https://open.spotify.com/track/5xA5MggKc3aQxuOzNzPUWB"
+    },
+    {
       "added_at": "2026-09-17 12:03:43",
       "album": {
         "name": "Older (and Wiser)",
@@ -203,22 +251,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Lost Weekend",
-        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 239007,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Stick Season (We'll All Be Here Forever)",
         "url": "https://open.spotify.com/album/1pb3je8gXTs5dpRRTKhHRC"
       },
@@ -231,6 +263,22 @@
       "duration_ms": 278670,
       "name": "Call Your Mom",
       "url": "https://open.spotify.com/track/3yn01PcU95PTbiZ3xvop2j"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 239007,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/6TSHGfV9E66qCNu4UP6xZu"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -283,6 +331,22 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
+        "name": "Stick Season (Forever)",
+        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 268353,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
         "name": "Evergreen (feat. Caamp)",
         "url": "https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW"
       },
@@ -299,22 +363,6 @@
       "duration_ms": 177512,
       "name": "Evergreen (feat. Caamp)",
       "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -647,6 +695,22 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Georgia",
+      "url": "https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
         "name": "The Dream",
         "url": "https://open.spotify.com/album/48M39K7MWoYxykqTE2brIi"
       },
@@ -667,22 +731,6 @@
       "duration_ms": 201284,
       "name": "The Little Mess You Made",
       "url": "https://open.spotify.com/track/7m6v28coJpF6mr6LEHbmce"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Georgia",
-      "url": "https://open.spotify.com/track/5YTJXAM6j8jEQ5vC8Q67GL"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -991,22 +1039,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "In My Gut",
-        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 172596,
-      "name": "In My Gut",
-      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "I have more than enough",
         "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
       },
@@ -1019,6 +1051,22 @@
       "duration_ms": 328098,
       "name": "I have more than enough",
       "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "In My Gut",
+        "url": "https://open.spotify.com/album/2PiR8a57tEeZOu3PFDjKvG"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 172596,
+      "name": "In My Gut",
+      "url": "https://open.spotify.com/track/1sZ8sAMO3mbMIOKBNLciOF"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1071,22 +1119,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Manning Fireworks",
-        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
-      },
-      "artists": [
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Joker Lips",
-      "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Funny",
         "url": "https://open.spotify.com/album/7h9nhXGtNLJAoueYKkmcv2"
       },
@@ -1099,6 +1131,22 @@
       "duration_ms": 302578,
       "name": "Funny",
       "url": "https://open.spotify.com/track/0rcaFqednwwedMu68xpKlj"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Joker Lips",
+      "url": "https://open.spotify.com/track/2zFtMNj2s82nml4wSKbtyL"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1167,22 +1215,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Never, No Not Once",
-        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 298864,
-      "name": "Never, No Not Once",
-      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "Older",
         "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
       },
@@ -1195,6 +1227,22 @@
       "duration_ms": 415969,
       "name": "Older",
       "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Never, No Not Once",
+        "url": "https://open.spotify.com/album/2EWNa21zaKt0KNM70d6ynB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 298864,
+      "name": "Never, No Not Once",
+      "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1531,22 +1579,6 @@
     {
       "added_at": "2026-09-17 12:03:43",
       "album": {
-        "name": "Dark Eyes",
-        "url": "https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 181760,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
         "name": "I hate goodbyes",
         "url": "https://open.spotify.com/album/7hYJX6m92wDB9cnpNgswmb"
       },
@@ -1559,6 +1591,22 @@
       "duration_ms": 229484,
       "name": "I hate goodbyes",
       "url": "https://open.spotify.com/track/3kbsuPKsw05zfL9Pk8htLV"
+    },
+    {
+      "added_at": "2026-09-17 12:03:43",
+      "album": {
+        "name": "Dark Eyes",
+        "url": "https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 181760,
+      "name": "Full Circle",
+      "url": "https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH"
     },
     {
       "added_at": "2026-09-17 12:03:43",
@@ -1607,58 +1655,6 @@
       "duration_ms": 206008,
       "name": "Punchline",
       "url": "https://open.spotify.com/track/4gqRVDvnILW0cvBWZzKcRf"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
-        "name": "Bring Me Your Love (Special Edition)",
-        "url": "https://open.spotify.com/album/1GYDVFWPK1HFI3TRWmj7hr"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Sleeping Sickness",
-      "url": "https://open.spotify.com/track/2SBFyml6gSXByXMRfW6UYi"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
-        "name": "What A Relief",
-        "url": "https://open.spotify.com/album/63ZainyDDxb0MQ73Q8IyXZ"
-      },
-      "artists": [
-        {
-          "name": "Katie Gavin",
-          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
-        },
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 182110,
-      "name": "As Good As It Gets",
-      "url": "https://open.spotify.com/track/5O67j68tABBNPnVWrS9TWN"
-    },
-    {
-      "added_at": "2026-09-17 12:03:43",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/07gjkxd6XpuPOYPjx11iDY"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 142097,
-      "name": "Crown",
-      "url": "https://open.spotify.com/track/7xTplcuSNquTW0mpuikq1E"
     }
   ],
   "unique_name": "pumpkin spice",

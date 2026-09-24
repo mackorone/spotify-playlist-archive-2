@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CxGuIDY1G8.md) - [plain]
 
 > sugar and spice but for the eyes\. MVs only available for Spotify premium subscribers\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,452 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,464 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1CxGuIDY1G8.md) - [plain]
 | 79 | [อินเธอเวิร์ต \(Into You\) \[feat\. PiXXiE\]](https://open.spotify.com/track/2RaxNwqGyHg3D5ONL3OPto) | [ALALA](https://open.spotify.com/artist/5GY9bf48Z59vy7dcwbn7yt), [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [อินเธอเวิร์ต \(Into You\) \[feat\. PiXXiE\]](https://open.spotify.com/album/2CMGG2i69eN696O4lWa5NQ) | 3:39 |
 | 80 | [BAD](https://open.spotify.com/track/6o0jmD1rCPYp7uZBtbUrya) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [BAD](https://open.spotify.com/album/2UiwzTFOuIkZm0OT4ld0HS) | 3:38 |
 
-Snapshot ID: `AAAAAK3SLCBEtA4FDM8rYFlBz/w1Md7I`
+Snapshot ID: `AAAAAL0ySJXO6W7hVr2oDFhwOrhq00/r`

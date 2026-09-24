@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New & hot K-Pop ballads. (Cover: LEECHANGSUB (\uc774\ucc3d\uc12d)) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "New & hot K-Pop ballads. (Cover: O.WHEN) (\uac00\uc7a5 \ud56b\ud55c \ucd5c\uc2e0 \uad6d\ub0b4 \ubc1c\ub77c\ub4dc\ub97c \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -23918,7 +23918,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 254100,
       "name": "Spring, day",
       "url": "https://open.spotify.com/track/0r3pGHGo4k4qAzf0rgLkq8"
@@ -31792,6 +31792,24 @@
       "duration_ms": 239000,
       "name": "\ub098\uc758 \ubc14\ub78c\uc740 (My Wish)",
       "url": "https://open.spotify.com/track/4nBrz3SZL65qMNf2oF4i5O"
+    },
+    {
+      "album": {
+        "name": "\ub0a8\uaca8\uc9c4\uac83\ub4e4",
+        "url": "https://open.spotify.com/album/0z4iDjpRBl7hOkaclkg8mg"
+      },
+      "artists": [
+        {
+          "name": "Goodnight Stand",
+          "url": "https://open.spotify.com/artist/6pNFXAMb6iPCEO6fmyTYsE"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207782,
+      "name": "\ub0a8\uaca8\uc9c4 \uac83\ub4e4",
+      "url": "https://open.spotify.com/track/3n7zR9iBWGNNjCN2ug5r82"
     },
     {
       "album": {

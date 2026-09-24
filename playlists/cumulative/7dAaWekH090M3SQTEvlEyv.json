@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1000\u5e74\u751f\u304d\u3066\u308b",
+        "url": "https://open.spotify.com/album/2fAq5Q6FVKqfkKD2pMcfde"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u3088\u308f",
+          "url": "https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203999,
+      "name": "1000\u5e74\u751f\u304d\u3066\u308b",
+      "url": "https://open.spotify.com/track/3Gv45rYIlgRLAGxKshlipu"
+    },
+    {
+      "album": {
         "name": "found footage (feat. IA)",
         "url": "https://open.spotify.com/album/38V2vlLpe33TRR8ojIeoF4"
       },
@@ -94,7 +112,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 181894,
       "name": "knot",
       "url": "https://open.spotify.com/track/1vWiegsmy2Ei9GdbLPin8h"
@@ -248,7 +266,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 148000,
       "name": "QED (feat. saewool & \u91cd\u97f3\u30c6\u30c8)",
       "url": "https://open.spotify.com/track/1n1SY8dmPtb60yy7LZS31i"
@@ -748,7 +766,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 182857,
       "name": "\u3055\u308c\u3069\u7a7a\u8ee2",
       "url": "https://open.spotify.com/track/1VgOIDYl4gC4pPqESHNOVQ"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 146206,
       "name": "\u30a2\u30af\u30de\u30d0\u30e9\u30a4 (feat. \u96e8\u8863 & \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5xxKPNdRYQnvBOtvMFCrLd"
@@ -1142,6 +1160,32 @@
       "duration_ms": 133651,
       "name": "\u30a2\u30f3\u30bf\u306b\u8a00\u3063\u3066\u3093\u306e\uff01",
       "url": "https://open.spotify.com/track/3KaZDoUNLRzLgVIfJKTxrH"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30ea\u30aa\u30f3\uff3c(^o^)\uff0f",
+        "url": "https://open.spotify.com/album/6ZWWduWMihR68RizKoER6I"
+      },
+      "artists": [
+        {
+          "name": "Owata-P",
+          "url": "https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200022,
+      "name": "\u30a2\u30f3\u30c1\u30af\u30ed\u30ed\u30d9\u30f3\u30bc\u30f3 ver.2025 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/7lcaDwiKUWyFNVlzopVQOo"
     },
     {
       "album": {
@@ -1270,7 +1314,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 138533,
       "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
       "url": "https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp"
@@ -1460,6 +1504,24 @@
       "duration_ms": 263918,
       "name": "\u30af\u30ed\u30b9\u30ed\u30fc\u30c9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/2cFwQJ4AAjWyGx1n14nZNp"
+    },
+    {
+      "album": {
+        "name": "\u30b4\u30fc\u30fb\u30c8\u30a5\u30fb\u5927\u90fd\u4f1a",
+        "url": "https://open.spotify.com/album/7ercjw6rfspX0S7uJvdjfV"
+      },
+      "artists": [
+        {
+          "name": "\u6708\u88cf, \u30cb\u30e3\u30f3\u30c8\u30f3\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/2PuJ8LNdrbEHA5yaLhlVR6"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170156,
+      "name": "\u30b4\u30fc\u30fb\u30c8\u30a5\u30fb\u5927\u90fd\u4f1a (feat. GUMI)",
+      "url": "https://open.spotify.com/track/12epYxzmLOXyd3bMMM7ELE"
     },
     {
       "album": {
@@ -1806,7 +1868,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 142588,
       "name": "\u30c6\u30c8\u30ea\u30b9",
       "url": "https://open.spotify.com/track/6LIpqsMbsfc8I7F0dsFXsv"
@@ -1824,7 +1886,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 164500,
       "name": "\u30c6\u30ec\u30ad\u30e3\u30b9\u30bf\u30fc\u30d3\u30fc\u30dc\u30fc\u30a4 (long ver.)",
       "url": "https://open.spotify.com/track/3UDe37nc2yvttJXlNk6Itr"
@@ -2572,7 +2634,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 176800,
       "name": "\u30e2\u30cb\u30bf\u30ea\u30f3\u30b0",
       "url": "https://open.spotify.com/track/1iywVk6Xx1XmJwd0rExYI3"
@@ -2996,7 +3058,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 248800,
       "name": "\u4e16\u754c\u6700\u5f8c\u306e\u97f3\u697d\u968a (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/6Dj3KclYAVISnNSrprlnvS"
@@ -3178,7 +3240,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 252467,
       "name": "\u5343\u672c\u685c (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/38mUTswfszVFQ952r89AP8"
@@ -3268,7 +3330,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 289616,
       "name": "\u5c11\u5973\u30ec\u30a4",
       "url": "https://open.spotify.com/track/1k5F2EwzptN821wy7cPggG"
@@ -3348,7 +3410,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 206481,
       "name": "\u604b",
       "url": "https://open.spotify.com/track/72obTVs06gGRgUlAWt0fnd"
@@ -3607,6 +3669,28 @@
     },
     {
       "album": {
+        "name": "\u6b63\u89e3 (feat. \u91cd\u97f3\u30c6\u30c8)",
+        "url": "https://open.spotify.com/album/7LJsGjKF8UNlsvBeXezspq"
+      },
+      "artists": [
+        {
+          "name": "\u96e8\u826f Amala",
+          "url": "https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl"
+        },
+        {
+          "name": "Teto Kasane",
+          "url": "https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211892,
+      "name": "\u6b63\u89e3 (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/2oiylllT3beeY5RsyDbJwF"
+    },
+    {
+      "album": {
         "name": "\u6d17\u8133",
         "url": "https://open.spotify.com/album/66CtC6WwCqspUDDbir6Mna"
       },
@@ -3766,7 +3850,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 203760,
       "name": "\u795e\u3063\u307d\u3044\u306a",
       "url": "https://open.spotify.com/track/5ALRT96oaGuX7VHySBLbQu"
@@ -3930,7 +4014,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 200181,
       "name": "\u8b0e\u306e\u6c11\u65cf\u30cc\u30f3\u30d0\u30d0\u30e6\u30ab\u30ea (feat. \u7d50\u6708\u3086\u304b\u308a)",
       "url": "https://open.spotify.com/track/0KyfA5VGSI32H1HZVKabvR"

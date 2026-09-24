@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > powered by www.releasejet.ai most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 988,447 likes - 128 songs - 5 hr 49 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 988,354 likes - 129 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,5 +136,6 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 126 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 |
 | 127 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 |
 | 128 | [RITMADA QUE VICIA](https://open.spotify.com/track/6eADbwVSH7H6WM0SKxnq3g) | [caio\-chan](https://open.spotify.com/artist/17pcUKUmXbsjefjeB2TFeV), [UNDERKAME](https://open.spotify.com/artist/6p7ik9CdZm5TIjSYj7kU9e), [C.X.W](https://open.spotify.com/artist/6CQrQixUJ5bBj8RBPyiiWm) | [RITMADA QUE VICIA](https://open.spotify.com/album/4Et6ERPT90p1UN9kpS4jJ4) | 1:39 |
+| 129 | [PESADURA \- slowed](https://open.spotify.com/track/5kE6VZ4Ddzdw5OlU0uDswN) | [Einheri](https://open.spotify.com/artist/2GV0pIPMG5gyzsx7UMgcfh) | [PESADURA](https://open.spotify.com/album/2Zvs2mWbdycJgHvYKdCAvr) | 1:59 |
 
-Snapshot ID: `AAAOVkceClhsCXxlnwazAcWq+7sl2oDN`
+Snapshot ID: `AAAOV7/NVlLxtU3Ife4sMcxgPy4glOn1`

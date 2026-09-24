@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Manna Singh",
+  "description": "Discover the future of Punjabi Pop! Cover: Love Dhaliwal",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -426,7 +426,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 169411,
       "name": "Adah",
       "url": "https://open.spotify.com/track/6cl8D61sAvoU2p5vOWhOoL"
@@ -5727,6 +5727,32 @@
     },
     {
       "album": {
+        "name": "Ishq",
+        "url": "https://open.spotify.com/album/3TOrQHq6QZwC9eIUirmXP5"
+      },
+      "artists": [
+        {
+          "name": "Vseer",
+          "url": "https://open.spotify.com/artist/2AuQm2EBaiXKWeow1jC6ZY"
+        },
+        {
+          "name": "Avvey",
+          "url": "https://open.spotify.com/artist/5pvaa2fwQ0kPmAujjjImgM"
+        },
+        {
+          "name": "Preet Sembhi",
+          "url": "https://open.spotify.com/artist/7wPsw77xidWtgRbBaDU520"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191413,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/1ykE31YHeGbaan0IcaksfU"
+    },
+    {
+      "album": {
         "name": "Ishq Mareez",
         "url": "https://open.spotify.com/album/7zxdng2WO3XfAawo5JXnpn"
       },
@@ -5786,6 +5812,28 @@
       "duration_ms": 166648,
       "name": "Jaadu Kareya (Piano Version)",
       "url": "https://open.spotify.com/track/7z5apCKXUgXto6avlHoVNc"
+    },
+    {
+      "album": {
+        "name": "Jacket",
+        "url": "https://open.spotify.com/album/3gS6MMaT6HczAGqbyHZ1ic"
+      },
+      "artists": [
+        {
+          "name": "Satbir Aujla",
+          "url": "https://open.spotify.com/artist/6JuBBw98XzwRZ6KvN1PpLy"
+        },
+        {
+          "name": "Little Boi",
+          "url": "https://open.spotify.com/artist/4rgTolxMdRlzcWwUNz7seh"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148750,
+      "name": "Jacket",
+      "url": "https://open.spotify.com/track/2qxTk2guTC0NxV5h5DVi2o"
     },
     {
       "album": {
@@ -7352,7 +7400,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 176842,
       "name": "Lakeeran",
       "url": "https://open.spotify.com/track/1zPKwMzNRuWOlzuSnbgJ1L"
@@ -8340,7 +8388,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 214400,
       "name": "Mere Bina",
       "url": "https://open.spotify.com/track/21ymLbBx07hlHzaSF0g9yq"
@@ -8848,7 +8896,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 126720,
       "name": "Mountains",
       "url": "https://open.spotify.com/track/2Pp8q61begxaY5Stx5roq6"
@@ -11747,6 +11795,28 @@
     },
     {
       "album": {
+        "name": "Shy",
+        "url": "https://open.spotify.com/album/0wl6cAqutgkUHxhSSsdOy5"
+      },
+      "artists": [
+        {
+          "name": "Love Dhaliwal",
+          "url": "https://open.spotify.com/artist/6IQ1z8YsPcQBySuS6iuoGK"
+        },
+        {
+          "name": "Fateh Sandhu",
+          "url": "https://open.spotify.com/artist/0iG30Ecys4EmiHOZOFovek"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Shy",
+      "url": "https://open.spotify.com/track/5x4VoReYz6xFrUcWuHFkFT"
+    },
+    {
+      "album": {
         "name": "SIFAT",
         "url": "https://open.spotify.com/album/19J80X8HL7UAGnmfREjBjw"
       },
@@ -13283,6 +13353,36 @@
     },
     {
       "album": {
+        "name": "Toona",
+        "url": "https://open.spotify.com/album/5GDfRHmVSi7AuIGi7ZmuCC"
+      },
+      "artists": [
+        {
+          "name": "Armaan Dhillon",
+          "url": "https://open.spotify.com/artist/7tKbaCF35AFn9aXt22LFoC"
+        },
+        {
+          "name": "Asmeet Sehra",
+          "url": "https://open.spotify.com/artist/2lgc3rdVbTxyM5x4NhCXUs"
+        },
+        {
+          "name": "Prabh Bains",
+          "url": "https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y"
+        },
+        {
+          "name": "Chet Singh",
+          "url": "https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123571,
+      "name": "Toona",
+      "url": "https://open.spotify.com/track/14968KboOsJhI97s9JJCNF"
+    },
+    {
+      "album": {
         "name": "Town",
         "url": "https://open.spotify.com/album/6spYrcWcehDD6YBZESTaPW"
       },
@@ -14394,7 +14494,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 182837,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/3RIjXITHHojAedUtWtgvrj"
@@ -14478,6 +14578,28 @@
       "duration_ms": 155744,
       "name": "YOUTH WAVE",
       "url": "https://open.spotify.com/track/6OXaPFparqslpMCns4NqIr"
+    },
+    {
+      "album": {
+        "name": "Zaalma",
+        "url": "https://open.spotify.com/album/6IrdVPkc2A1HwNJYWJV8s0"
+      },
+      "artists": [
+        {
+          "name": "Deepa Kaler",
+          "url": "https://open.spotify.com/artist/4Ff6tMzFXbC6P6JNUPulRh"
+        },
+        {
+          "name": "Dilmaan",
+          "url": "https://open.spotify.com/artist/5iRP5VM9JGkM6aMQbbfkBK"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177087,
+      "name": "Zaalma",
+      "url": "https://open.spotify.com/track/6EThA2Htuvaolq8jD3jw4O"
     },
     {
       "album": {

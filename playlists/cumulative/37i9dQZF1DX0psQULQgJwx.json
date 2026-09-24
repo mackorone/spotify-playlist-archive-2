@@ -149,6 +149,42 @@
     },
     {
       "album": {
+        "name": "A Veil Over the Moon",
+        "url": "https://open.spotify.com/album/5OQniqK8dwlaxytL3Xwgm9"
+      },
+      "artists": [
+        {
+          "name": "Akleia",
+          "url": "https://open.spotify.com/artist/4TXPgXCkgmeKZONnRuTYTd"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135348,
+      "name": "A Veil Over the Moon",
+      "url": "https://open.spotify.com/track/6uRdf86xPMnNX4nHgwR9mM"
+    },
+    {
+      "album": {
+        "name": "A Welcome Perspective",
+        "url": "https://open.spotify.com/album/2rMyL6gXNY61g0IaXgzC5q"
+      },
+      "artists": [
+        {
+          "name": "Kiran Skaar",
+          "url": "https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157031,
+      "name": "A Welcome Perspective",
+      "url": "https://open.spotify.com/track/6VMtyXHHIxsvsks10EkRmJ"
+    },
+    {
+      "album": {
         "name": "Adhara",
         "url": "https://open.spotify.com/album/4B39cMkM1SCbkwsprD3HY0"
       },
@@ -1201,6 +1237,24 @@
     },
     {
       "album": {
+        "name": "Crystal Structures",
+        "url": "https://open.spotify.com/album/5vQAJUSt3gd3B2pTRtHOfc"
+      },
+      "artists": [
+        {
+          "name": "Kiran Skaar",
+          "url": "https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156250,
+      "name": "Crystal Structures",
+      "url": "https://open.spotify.com/track/5ctSGE1Q1J9Jcx9AtpqcMF"
+    },
+    {
+      "album": {
         "name": "Crystalline Awareness (Gamma 73.3Hz-110.2Hz)",
         "url": "https://open.spotify.com/album/64jCjoBaeLApYpJQ9FlmRX"
       },
@@ -1378,6 +1432,24 @@
       "duration_ms": 126000,
       "name": "Deja",
       "url": "https://open.spotify.com/track/5U19Ag9YD0i6fHihpjCUvX"
+    },
+    {
+      "album": {
+        "name": "Depths Unknown",
+        "url": "https://open.spotify.com/album/0EpVqtzingeYSJvdmGihMO"
+      },
+      "artists": [
+        {
+          "name": "Kiran Skaar",
+          "url": "https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172065,
+      "name": "Depths Unknown",
+      "url": "https://open.spotify.com/track/2XHGeqLRM1b2ootYLw06LE"
     },
     {
       "album": {
@@ -1590,7 +1662,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 141637,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/50hHPg38rkdXLh62wvY9t3"
@@ -1921,6 +1993,24 @@
     },
     {
       "album": {
+        "name": "Fading Space",
+        "url": "https://open.spotify.com/album/3i7ZRhX6qiZhDQSMricYSm"
+      },
+      "artists": [
+        {
+          "name": "Noctilune",
+          "url": "https://open.spotify.com/artist/65imc4HXi6wQ5ZUljfLi3X"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200779,
+      "name": "Fading Space",
+      "url": "https://open.spotify.com/track/50MbMGQrZ1oNJrPwdsKx5p"
+    },
+    {
+      "album": {
         "name": "Fantasy of Koshi Kaval",
         "url": "https://open.spotify.com/album/2gj3bvTILGeJePm9L0AYH1"
       },
@@ -1950,7 +2040,7 @@
       ],
       "date_added": "2026-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 128267,
       "name": "Fiction",
       "url": "https://open.spotify.com/track/5c6VwttZa2gKwdQXyqQYob"
@@ -2170,6 +2260,24 @@
       "duration_ms": 144000,
       "name": "Glimmer",
       "url": "https://open.spotify.com/track/66YX221rAhbBXGV9h69qHl"
+    },
+    {
+      "album": {
+        "name": "Gold Orchid",
+        "url": "https://open.spotify.com/album/3go9aiRrunlPb5VBptV1gB"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151701,
+      "name": "Gold Orchid",
+      "url": "https://open.spotify.com/track/7hZ5sWvNp5QfLFEWd4T8lN"
     },
     {
       "album": {
@@ -2404,6 +2512,24 @@
       "duration_ms": 182400,
       "name": "Healing Winds",
       "url": "https://open.spotify.com/track/4dMKw8w6WNByJ5nVWdVEb2"
+    },
+    {
+      "album": {
+        "name": "Heights Within",
+        "url": "https://open.spotify.com/album/68QNbHSw9LKxzY2ZiH4Cho"
+      },
+      "artists": [
+        {
+          "name": "Kiran Skaar",
+          "url": "https://open.spotify.com/artist/3NscOHWlXeJegEV9HGwyju"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140166,
+      "name": "Heights Within",
+      "url": "https://open.spotify.com/track/7wGPO6XPg44AF1fZ8K0ePm"
     },
     {
       "album": {
@@ -2836,6 +2962,24 @@
       "duration_ms": 210000,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/2Vym0Tv6thUuR2a3TP3d1N"
+    },
+    {
+      "album": {
+        "name": "Le Sol Se R\u00e9veille",
+        "url": "https://open.spotify.com/album/2OxgZ4WjyJluGiyR2aSDV2"
+      },
+      "artists": [
+        {
+          "name": "Satori Bloom",
+          "url": "https://open.spotify.com/artist/7i9wtx5GMP70LKJE1Qa2qR"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220958,
+      "name": "Le Sol Se R\u00e9veille",
+      "url": "https://open.spotify.com/track/451BkHl8LE2kjjlZULvBxi"
     },
     {
       "album": {
@@ -4315,6 +4459,24 @@
     },
     {
       "album": {
+        "name": "Pure Promise",
+        "url": "https://open.spotify.com/album/3c6WedoPJVJIX6q2LYtkPD"
+      },
+      "artists": [
+        {
+          "name": "Sangenjaya",
+          "url": "https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173574,
+      "name": "Pure Promise",
+      "url": "https://open.spotify.com/track/0YTXU9XTKvNoFkfoHebplD"
+    },
+    {
+      "album": {
         "name": "Quadrivium",
         "url": "https://open.spotify.com/album/6XFpgixJV2z3n8zT6mJdSn"
       },
@@ -4603,6 +4765,24 @@
     },
     {
       "album": {
+        "name": "Rune Falls Epiphany",
+        "url": "https://open.spotify.com/album/0rZoRMJQb2kGbdhRDFrvdL"
+      },
+      "artists": [
+        {
+          "name": "Mauro Petrone",
+          "url": "https://open.spotify.com/artist/2PRWHHZKOawoThzol1h3N5"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Rune Falls Epiphany",
+      "url": "https://open.spotify.com/track/3ZQZWMI1DXFYR1cUoCo6vP"
+    },
+    {
+      "album": {
         "name": "Sachchaee",
         "url": "https://open.spotify.com/album/3qEz8M7AXECCl6vqA2ZKay"
       },
@@ -4618,6 +4798,24 @@
       "duration_ms": 193548,
       "name": "Sachchaee",
       "url": "https://open.spotify.com/track/6nR8ci27qzCAnPqSViqWGr"
+    },
+    {
+      "album": {
+        "name": "Sacred Presence",
+        "url": "https://open.spotify.com/album/0pNCdsE1lWOlvB8J6Q0DH6"
+      },
+      "artists": [
+        {
+          "name": "Calm S\u016btra",
+          "url": "https://open.spotify.com/artist/17iuV6cWs8vvEHlD41aFu6"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150906,
+      "name": "Sacred Presence",
+      "url": "https://open.spotify.com/track/3pq3mlECxeQQapYL6B2z97"
     },
     {
       "album": {
@@ -4722,7 +4920,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 194186,
       "name": "Sea Levels",
       "url": "https://open.spotify.com/track/6OnFYKN0bmJZJtg0PZT5U5"
@@ -4812,7 +5010,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 271384,
       "name": "Serene Dream",
       "url": "https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I"
@@ -4927,6 +5125,24 @@
     },
     {
       "album": {
+        "name": "Silent Currents",
+        "url": "https://open.spotify.com/album/0WOBswdEfvoQIPpV3z4Euk"
+      },
+      "artists": [
+        {
+          "name": "Kiviera",
+          "url": "https://open.spotify.com/artist/3ShaGdN9FHtC16IpjjLsNK"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165625,
+      "name": "Silent Currents",
+      "url": "https://open.spotify.com/track/6G3MMr38YFvP2grN3R4IAR"
+    },
+    {
+      "album": {
         "name": "Silent Sky",
         "url": "https://open.spotify.com/album/7vguAzUuxkSSAz7I1kQERq"
       },
@@ -5010,7 +5226,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 165714,
       "name": "Sleep Veteran",
       "url": "https://open.spotify.com/track/485wIpwjpnTRvJxCs9tU9A"
@@ -5068,6 +5284,24 @@
       "duration_ms": 175000,
       "name": "Soft Light",
       "url": "https://open.spotify.com/track/3rbgVqt1eOnwKt4Bfikktv"
+    },
+    {
+      "album": {
+        "name": "Soft Response",
+        "url": "https://open.spotify.com/album/7rKATW36d6y6azCCDul6Xl"
+      },
+      "artists": [
+        {
+          "name": "Mauro Petrone",
+          "url": "https://open.spotify.com/artist/2PRWHHZKOawoThzol1h3N5"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Soft Response",
+      "url": "https://open.spotify.com/track/5Lu6dWTJqofedXC90V8UEN"
     },
     {
       "album": {
@@ -5485,6 +5719,24 @@
     },
     {
       "album": {
+        "name": "Sunbeam",
+        "url": "https://open.spotify.com/album/4QkzlcxSFRxnNTviQDPJeq"
+      },
+      "artists": [
+        {
+          "name": "Satori Bloom",
+          "url": "https://open.spotify.com/artist/7i9wtx5GMP70LKJE1Qa2qR"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208862,
+      "name": "Sunbeam",
+      "url": "https://open.spotify.com/track/3B6mf2adpauWkmXt4Sw2Js"
+    },
+    {
+      "album": {
         "name": "Sunchaser",
         "url": "https://open.spotify.com/album/5TtjrnLdzt6cFkio9QOAHc"
       },
@@ -5500,6 +5752,24 @@
       "duration_ms": 146000,
       "name": "Sunchaser",
       "url": "https://open.spotify.com/track/2BO4SeUeZrFViwfephYRQA"
+    },
+    {
+      "album": {
+        "name": "Sunlight Peaks",
+        "url": "https://open.spotify.com/album/1gdrTMmfGCyGqQHe8fl0cK"
+      },
+      "artists": [
+        {
+          "name": "Remy Arvo",
+          "url": "https://open.spotify.com/artist/3Fgx2Lzi5otzZMOCx8Kxhd"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Sunlight Peaks",
+      "url": "https://open.spotify.com/track/75nkKJYFL7TvW0ox9TRfQR"
     },
     {
       "album": {
@@ -5921,6 +6191,24 @@
     },
     {
       "album": {
+        "name": "Tides of Gold",
+        "url": "https://open.spotify.com/album/4iAkHSoUXHDsuxPXLP5INF"
+      },
+      "artists": [
+        {
+          "name": "Skip Stones",
+          "url": "https://open.spotify.com/artist/4GfekFOdHNfH5OvozIr5Ob"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151658,
+      "name": "Tides of Gold",
+      "url": "https://open.spotify.com/track/3XMLArhwcynbK3F4yGZOpO"
+    },
+    {
+      "album": {
         "name": "Tilings",
         "url": "https://open.spotify.com/album/66iA9hvwQ2LzOb7O3PyX3r"
       },
@@ -5932,7 +6220,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 156958,
       "name": "Tilings",
       "url": "https://open.spotify.com/track/53YWhUIFLtzYWuiENcn8Yn"
@@ -6192,6 +6480,24 @@
       "duration_ms": 162851,
       "name": "Wandering Skies",
       "url": "https://open.spotify.com/track/6FTGUsOgoxC5hYn2Rkwx9L"
+    },
+    {
+      "album": {
+        "name": "Warm Silence",
+        "url": "https://open.spotify.com/album/4DMWDD1DALtygWAJgLJfy8"
+      },
+      "artists": [
+        {
+          "name": "Elevated Ground",
+          "url": "https://open.spotify.com/artist/1RzaYiehVD1lcOsYtuY1NV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157459,
+      "name": "Warm Silence",
+      "url": "https://open.spotify.com/track/4aII6vOErnGO7dpx0W6j08"
     },
     {
       "album": {
@@ -6494,7 +6800,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 163125,
       "name": "World of Solitude (spa)",
       "url": "https://open.spotify.com/track/6ZtoCAZMUQ4nE6nmpuKYsK"

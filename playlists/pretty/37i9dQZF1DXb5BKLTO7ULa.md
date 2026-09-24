@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > Nieuw: Qlas, Antoon & Boef, Miley, Bankzitters & Robert van Hemert en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,813 likes - 104 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,802 likes - 104 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 7 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 |
 | 8 | [ANTWOORD](https://open.spotify.com/track/2XOhXbRSOBTixs6KdaD0tZ) | [Mula](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi), [Zeldzame](https://open.spotify.com/artist/2ugsl1M9AwZ7ZrA5J9V4Vw) | [ANTWOORD](https://open.spotify.com/album/2nYltZhCFDDwFOPj9JAjE7) | 3:10 |
 | 9 | [SLEUTELS TUSSEN VINGERS](https://open.spotify.com/track/6JCdsPfITKlWSG9ZUBWhrK) | [Elmer](https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp), [Ray Fuego](https://open.spotify.com/artist/3UYgneqZCePK5PhrHE8E9U) | [MAN, OH MAN](https://open.spotify.com/album/0rgDHNMm3nTH0f8NsE8YkG) | 3:21 |
-| 10 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 10 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 11 | [Pistache](https://open.spotify.com/track/0LcFvudD0m6m0Vo2UyedFm) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Pistache](https://open.spotify.com/album/1QH2lIg5RSOJAvzFIysHec) | 2:25 |
 | 12 | [FREEDOM](https://open.spotify.com/track/6Qj5X3OsIIzh4LorpSNo6r) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [DE STAAT](https://open.spotify.com/album/4JCV9bcfSToiqm3B6RPl3o) | 4:52 |
 | 13 | [Sexy Magic \(from GTAVI: The Album\)](https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Etienne de Crécy ](https://open.spotify.com/artist/78YRbJhMi5kXKruiQGCJo7), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Sexy Magic \(from GTAVI: The Album\)](https://open.spotify.com/album/0CkBYPmr1j7EEWSQMHDBLg) | 3:15 |

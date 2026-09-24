@@ -1,12 +1,12 @@
 {
   "description": "This is Jimmy Cliff. The essential tracks, all in one playlist.",
-  "num_followers": 43803,
+  "num_followers": 43802,
   "original_name": "This Is Jimmy Cliff",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAADTf9QXAN82Du4xocL+jQXl",
+  "snapshot_id": "arHFAAAAAAA57rw4bIvp+F8XT5I6kYWe",
   "tracks": [
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 177040,
-      "name": "Rub-A-Dub Partners",
-      "url": "https://open.spotify.com/track/4LAz7d1hYELgs0PQvEkkym"
+      "duration_ms": 230933,
+      "name": "Special",
+      "url": "https://open.spotify.com/track/7jPmjZi2zeiA1L4oG00q4g"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 230933,
-      "name": "Special",
-      "url": "https://open.spotify.com/track/7jPmjZi2zeiA1L4oG00q4g"
+      "duration_ms": 177040,
+      "name": "Rub-A-Dub Partners",
+      "url": "https://open.spotify.com/track/4LAz7d1hYELgs0PQvEkkym"
     },
     {
       "added_at": null,

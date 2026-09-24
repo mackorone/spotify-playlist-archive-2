@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 31536,
+  "num_followers": 31540,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAAAer0yB6w3S7jJsNN6O2td8",
+  "snapshot_id": "arHFAAAAAAAxfjO++2hmN7dscNCrlCI+",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Back Door Wolf",
-        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Moving",
-      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 168106,
       "name": "Tell Me What I've Done",
       "url": "https://open.spotify.com/track/1dlYLGZSK8ONMQxJWxB04m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Back Door Wolf",
+        "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 167853,
+      "name": "Moving",
+      "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
-        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 157000,
-      "name": "Howlin' Wolf Boogie",
-      "url": "https://open.spotify.com/track/4N23sdWGe9hKdcxRto6bQx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Memphis Sessions",
         "url": "https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 178000,
       "name": "California Blues",
       "url": "https://open.spotify.com/track/71o5zMXNmF539Ff2anKj8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "You Can't Be Beat - Single Version",
+      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
+        "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Howlin' Wolf Boogie",
+      "url": "https://open.spotify.com/track/4N23sdWGe9hKdcxRto6bQx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 174093,
       "name": "I'm The Wolf",
       "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
-        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 154440,
-      "name": "Midnight Blues - Alternate Take To \"Moaning For My Baby\"",
-      "url": "https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 154440,
+      "name": "Midnight Blues - Alternate Take To \"Moaning For My Baby\"",
+      "url": "https://open.spotify.com/track/790M4TsGpZraL5sHqgSISD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Back Door Wolf",
         "url": "https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt"
       },
@@ -771,34 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+        "name": "Electro Blues - In House Selection",
+        "url": "https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW"
       },
       "artists": [
+        {
+          "name": "Swing Republic",
+          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
+        },
         {
           "name": "Howlin' Wolf",
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 191640,
-      "name": "You Can't Be Beat - Single Version",
-      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
-        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 52466,
-      "name": "Rollin' And Tumblin' - Acoustic Fragment",
-      "url": "https://open.spotify.com/track/48mLutxZGbIXtsji9yg2nq"
+      "duration_ms": 227240,
+      "name": "Cryin' at Daybreak",
+      "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
     },
     {
       "added_at": null,
@@ -815,6 +819,22 @@
       "duration_ms": 140760,
       "name": "Hidden Charms - Single Version",
       "url": "https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't Gonna Be Your Dog: Chess Collectibles Vol. 2",
+        "url": "https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 52466,
+      "name": "Rollin' And Tumblin' - Acoustic Fragment",
+      "url": "https://open.spotify.com/track/48mLutxZGbIXtsji9yg2nq"
     },
     {
       "added_at": null,
@@ -839,26 +859,6 @@
       "duration_ms": 311506,
       "name": "Diddley Daddy",
       "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electro Blues - In House Selection",
-        "url": "https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW"
-      },
-      "artists": [
-        {
-          "name": "Swing Republic",
-          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Cryin' at Daybreak",
-      "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
     },
     {
       "added_at": null,

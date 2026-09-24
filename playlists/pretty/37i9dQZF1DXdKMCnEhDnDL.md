@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse liedjes\. Cover: Yves Berendse
 
-[Spotify](https://open.spotify.com/user/spotify) - 528,909 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 528,915 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Verlangen](https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4) | 3:33 |
-| 2 | [BOEM!](https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [BOEM!](https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo) | 2:24 |
-| 3 | [Feestje Op Mijn Graf](https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Feestje Op Mijn Graf](https://open.spotify.com/album/65T5ywUjxqqG9ayJWuhLLt) | 2:42 |
+| 2 | [Feestje Op Mijn Graf](https://open.spotify.com/track/1XD5DhrBu0HpofkF8cv3Ii) | [The Opposites](https://open.spotify.com/artist/23951Pg9PiLB8Uza3k12g6) | [Feestje Op Mijn Graf](https://open.spotify.com/album/65T5ywUjxqqG9ayJWuhLLt) | 2:42 |
+| 3 | [BOEM!](https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [BOEM!](https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo) | 2:24 |
 | 4 | [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 |
 | 5 | [Cheerio](https://open.spotify.com/track/3L9mOOGtByXTKSQOyyko9o) | [Justen de Wildt](https://open.spotify.com/artist/3z2daXDBOR0uFDF3TB788X) | [Cheerio](https://open.spotify.com/album/31pOa0QRbqjz0yTkY37Sqh) | 2:28 |
 | 6 | [3.2.1.](https://open.spotify.com/track/43rUu8SDkrSuyNiq7NspwF) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [3.2.1.](https://open.spotify.com/album/5QXgmXHkvv6q2LHVwD4WQQ) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Alles Op Gevoel](https://open.spotify.com/track/3kHSi1ysS2HLt3XmBLIYlO) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Zoe Tauran](https://open.spotify.com/artist/63eEYhIlgGEjHZrQf61EAB), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Twee Stappen Voor](https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK) | 2:49 |
 | 100 | [Nu Wij Niet Meer Praten](https://open.spotify.com/track/7d89CDPikSfHfQjw0WYnxB) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4), [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b) | [Als Je Voor Me Staat](https://open.spotify.com/album/5UZsSAKI7ObtNEj2voabWw) | 3:12 |
 
-Snapshot ID: `AAAAAHcpVdz2PNj+PJUL2aytBMm98oOl`
+Snapshot ID: `AAAAAKNiL3qa1yUbnfmcV+BoR5vKN2uE`

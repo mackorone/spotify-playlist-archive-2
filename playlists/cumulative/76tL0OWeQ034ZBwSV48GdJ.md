@@ -4,7 +4,7 @@
 
 > 
 
-258 songs - 1 day 0 hr 3 min
+259 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 | 2025-08-19 |  |
 | [Gleams](https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Gleams](https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo) | 4:53 | 2024-01-23 |  |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2021-02-04 |  |
+| [Going Existential In The Rave](https://open.spotify.com/track/1yCN4pcSC5YZ4rvB9ucwQ0) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS) | [Going Existential In The Rave](https://open.spotify.com/album/4fN5W1gXamaYZADNgEdw5v) | 3:07 | 2026-09-23 |  |
 | [Gwendoline \- Original Mix](https://open.spotify.com/track/6heLeWInDSLU9wdrKhx2l5) | [Clawz SG](https://open.spotify.com/artist/2Em0PWUcrHZFGLrpVv0xtb) | [Gwendoline](https://open.spotify.com/album/5keDEGQolm4EtI3O39n7MR) | 7:32 | 2020-08-29 |  |
 | [Heartless](https://open.spotify.com/track/6eHQ2jZEzEyyBeO7K7KPyy) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0) | [Heartless](https://open.spotify.com/album/6RD6iZjyKNlZuhXKqmSo6J) | 4:19 | 2024-08-12 |  |
 | [Hibernation](https://open.spotify.com/track/2VIe5CnoDarbQZxDXfnWCS) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk) | [Synchronicity](https://open.spotify.com/album/51my18W1EFlHAMZf10r5vn) | 6:28 | 2021-03-02 |  |

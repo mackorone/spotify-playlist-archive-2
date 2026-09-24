@@ -47823,6 +47823,24 @@
     },
     {
       "album": {
+        "name": "\u2764\ufe0e",
+        "url": "https://open.spotify.com/album/1n6cuWAzMRHHGaK8JtRJl9"
+      },
+      "artists": [
+        {
+          "name": "Devon Hendryx",
+          "url": "https://open.spotify.com/artist/551EawRj5350YQYs1MC2Ot"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251219,
+      "name": "Fucking Your Girl",
+      "url": "https://open.spotify.com/track/6fDKQUI7RW0GJTsKTaTqAI"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -52668,6 +52686,24 @@
       "duration_ms": 182027,
       "name": "Gospel of the Throttle",
       "url": "https://open.spotify.com/track/6OKHlCt9rRE0Fe9S7r8hgN"
+    },
+    {
+      "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 55413,
+      "name": "Gossip",
+      "url": "https://open.spotify.com/track/79chzfFIIq7cHkqcYYORk0"
     },
     {
       "album": {
@@ -110832,6 +110868,24 @@
       "duration_ms": 163373,
       "name": "Run It (feat. Rick Ross & Rich Brian)",
       "url": "https://open.spotify.com/track/5x4vgABKiGp4Vg7ZyFRxhn"
+    },
+    {
+      "album": {
+        "name": "Run It Back #JerseyClub (Slowed)",
+        "url": "https://open.spotify.com/album/1LuOk7BGE2RV4OjCPUBDtZ"
+      },
+      "artists": [
+        {
+          "name": "Salako",
+          "url": "https://open.spotify.com/artist/599kvLJs6hiYtRJJBKs2gj"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147711,
+      "name": "Run It Back #JerseyClub - Slowed",
+      "url": "https://open.spotify.com/track/13A6zjkvhUTeIUxzuOcSuF"
     },
     {
       "album": {
@@ -174685,10 +174739,14 @@
     },
     {
       "album": {
-        "name": "2.5.\u5171.\u611f (\uc774\uc624\uacf5\uac10)",
+        "name": "\uc774\uc624\uacf5\uac10",
         "url": "https://open.spotify.com/album/4VfS86n0Tjr1Y5tuHKMV6j"
       },
       "artists": [
+        {
+          "name": "LEE SEUNG HWAN",
+          "url": "https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY"
+        },
         {
           "name": "\uc774\uc624\uacf5\uac10",
           "url": "https://open.spotify.com/artist/5EWJwQ7a65qxUY7oXUwjBo"

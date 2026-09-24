@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Kontra K, Miley Cyrus, James Arthur, Sido, Shakira & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,594 likes - 93 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,507 likes - 93 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 32 | [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 |
 | 33 | [CYCLE](https://open.spotify.com/track/6zG1h4f5LxtoryzQwmGPvk) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [CYCLE](https://open.spotify.com/album/6h85V2Uscwo83JnnkFpBk2) | 3:06 |
 | 34 | [Mercy](https://open.spotify.com/track/5x0Uf6AMZTAKqvtzncu0ZH) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Mercy](https://open.spotify.com/album/32ESWuEYA0d8c74Xium24Z) | 3:10 |
-| 35 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 35 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 36 | [Optimistisch](https://open.spotify.com/track/1idx5w32OLTjYWcbHqeoP6) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt), [leiseer](https://open.spotify.com/artist/4wNGXnmteSkCfJ4aigVsyz) | [Optimistisch](https://open.spotify.com/album/6tDdSd2I3qQhhTcoHtn0Ky) | 2:55 |
 | 37 | [Hässlich](https://open.spotify.com/track/4X5rwo20mZJQ41Qd10RGIF) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Hässlich](https://open.spotify.com/album/4ZWiKUTqNQLJ2JhC3KBgIQ) | 2:47 |
 | 38 | [solang du mich noch liebst <3](https://open.spotify.com/track/2sHhZNLmAiy8YxBCvJ06zq) | [Rasa](https://open.spotify.com/artist/6xXFSlwZnP98zVxs7z1eb4) | [solang du mich noch liebst <3](https://open.spotify.com/album/2le0RWB2iWZqsVFNmebQeA) | 2:28 |

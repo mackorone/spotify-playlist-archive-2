@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > All this week's best new pop releases\. Cover: Carly Rae Jepsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,288 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,585 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 28 | [Big Believer](https://open.spotify.com/track/2G4px5GH5jULK1plyCpB16) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Big Believer](https://open.spotify.com/album/1HslvQ1aNNtMxJlto9sZSz) | 3:04 |
 | 29 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
 | 30 | [just embers now](https://open.spotify.com/track/5odEnVcWzR91r5h0ww62GF) | [Aubory Bugg](https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U) | [i think i had something once](https://open.spotify.com/album/2DuPrN4ZNbie1EmjJErImG) | 2:53 |
-| 31 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 31 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 32 | [Snowburn](https://open.spotify.com/track/5AGe4sWEAZdZRxgTZRlaND) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Fell Asleep in the Sun](https://open.spotify.com/album/1a1i0MjXWGlgZoHUjUxL7D) | 3:38 |
 | 33 | [The Comeback](https://open.spotify.com/track/3VVhZ69a3shZzFZTf9u8Lk) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [The Comeback](https://open.spotify.com/album/0HIcIl0w30rLEWYWmhUIwU) | 2:39 |
 | 34 | [human nature](https://open.spotify.com/track/1yTBVn8vCTDps5lh1VjgrR) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [human nature](https://open.spotify.com/album/0WEiLAjjiwYpCdGSR3cAsR) | 2:29 |

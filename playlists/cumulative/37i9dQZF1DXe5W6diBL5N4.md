@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: aespa\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-16,857 songs - 39 day 22 hr 58 min
+16,863 songs - 39 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1753,6 +1753,7 @@
 | [Blue Flower](https://open.spotify.com/track/6weNDrRLGlnvT731NPuQap) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Alchemy of Souls: Light and Shadow \(Original Television Soundtrack\)](https://open.spotify.com/album/2EFckuWdFPw7sF2nKxNzLO) | 3:48 | 2023-01-09 | 2023-02-01 |
 | [Blue Garden](https://open.spotify.com/track/6uQXDEwDoQMpo1vLzJScY6) | [Monday Off With Bluesy](https://open.spotify.com/artist/0OwLX5KcmGFbIZPORrK6xB) | [Blue Garden](https://open.spotify.com/album/2SfaT3F93vxLQVRgSK7gQE) | 4:45 | 2025-12-11 | 2025-12-18 |
 | [BLUE GIANT](https://open.spotify.com/track/30eL5h0PUssrOfDsVWTRd0) | [CHASEDAE](https://open.spotify.com/artist/4MGqEzKNHeMDgR6iQLYie8) | [BLUE GIANT](https://open.spotify.com/album/3rEUlorNRsBYyAY5oAmBg3) | 5:04 | 2023-08-29 | 2023-09-19 |
+| [Blue Heroine](https://open.spotify.com/track/6CKCScNDppsarIuvfkVDGB) | [KIMMARIE](https://open.spotify.com/artist/0dBTTLuseszs4BqgyXCrC8) | [Blue Syndrome](https://open.spotify.com/album/3QlLm6RFMW6OS6otn2CNl5) | 3:38 | 2026-09-23 |  |
 | [Blue In You \(Duet With CHEEZE\)](https://open.spotify.com/track/7wjBq0g3hSdVDmi3Eol5hl) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Blue in You](https://open.spotify.com/album/30hV27Zqc5J4Bd3iMyR4HJ) | 3:18 | 2023-09-25 | 2023-11-11 |
 | [BLUE MODE](https://open.spotify.com/track/1ZdXxnIZm6XIrE1Y1zW3qT) | [TUNEXX](https://open.spotify.com/artist/0QofePWBUVHkH00cC1gmpD) | [BLUE MODE](https://open.spotify.com/album/5HlLi3jA4LjcDiQGYlUdeP) | 3:02 | 2026-09-02 |  |
 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 | 2022-09-05 | 2022-10-15 |
@@ -5068,6 +5069,7 @@
 | [go UP](https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Be Yourself](https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF) | 2:39 | 2022-09-21 | 2022-11-07 |
 | [Go Up](https://open.spotify.com/track/7cEjDns6mAc97YJhjzodtQ) | [TRENDZ](https://open.spotify.com/artist/6Bmr9e9x44iib7equMj5Qj) | [Go Up](https://open.spotify.com/album/3aXqasC7WawbbakmVe5miy) | 3:19 | 2024-01-11 | 2024-03-14 |
 | [GO WEST](https://open.spotify.com/track/727jHC7QOMT4JkC7Z8IlXz) | [Lazybone](https://open.spotify.com/artist/6xP2saE1VcgnPlroMk0F8k) | [GO WEST](https://open.spotify.com/album/2RxUKMuW45kOMES9OsQGDz) | 3:12 | 2022-10-13 | 2022-11-07 |
+| [GO WITH THE FLOW](https://open.spotify.com/track/4MJJYVj1YY6RPx37TR92yZ) | [Anandelight](https://open.spotify.com/artist/6C90qwntmfkpNXoEj7qMJp) | [MAZE](https://open.spotify.com/album/3yI9KqJ9rfDWCQWS0atdxx) | 2:43 | 2026-09-23 |  |
 | [Go Your Own Way](https://open.spotify.com/track/1nW1VIqmVYEAOQOOknTKKm) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Live your own life OST Part\. 2 \(Soundtrack\)](https://open.spotify.com/album/7h2R9ip3aRPTmaErj3aD6p) | 2:55 | 2023-09-28 | 2024-05-10 |
 | [GO!](https://open.spotify.com/track/14ismrL0TYHbsX0BFoWZkA) | [EK](https://open.spotify.com/artist/56YvXhxjnImPI8N5dvtjm7) | [YAHO RED](https://open.spotify.com/album/4K3yY0k4wnmjb0yXVWr3Xv) | 2:04 | 2025-11-02 | 2025-11-11 |
 | [GO! \(feat\. Eelittlee\)](https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2), [Eelittlee](https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA) | [SPACE MULAN](https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9) | 3:17 | 2022-06-14 | 2022-06-21 |
@@ -7233,6 +7235,7 @@
 | [Journey](https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [OO\-LI](https://open.spotify.com/album/06isIi4cIfsaH8ot5UoRD4) | 3:18 | 2023-04-26 | 2023-07-12 |
 | [Journey For Myself](https://open.spotify.com/track/5ODpuzTGStXmxWK4qibI7b) | [INSEONG](https://open.spotify.com/artist/36u2c5kavTRe2iEh0fURyL) | [Into My Playlist Pt\. 10](https://open.spotify.com/album/1KjQdR198dy0I9ESATS6YC) | 4:11 | 2024-01-22 | 2024-03-14 |
 | [Journey For Myself](https://open.spotify.com/track/4jYrL89ak1hTLAwXOr0zZe) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [log](https://open.spotify.com/album/7fTDNbnZz9cGu4hciG6Mw7) | 3:06 | 2022-11-11 | 2022-12-22 |
+| [Journey of Dreaming](https://open.spotify.com/track/4Qnn8E1S9evZpeEFp10JW7) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Journey of Dreaming](https://open.spotify.com/album/4kQkFua1hRihPg5JhvyQRi) | 3:29 | 2026-09-23 |  |
 | [Journey of love](https://open.spotify.com/track/5CkYjyKIQDfmwP1qqKZxM9) | [Libelante](https://open.spotify.com/artist/2DTQ3eTZlNWK418h02YqIY) | [Journey of love](https://open.spotify.com/album/5OjZ70sci5AvEioq04cxEw) | 4:29 | 2024-11-11 | 2024-12-12 |
 | [Joy](https://open.spotify.com/track/3Xe3PweWqnJEw3yaNv3YGS) | [from all to human](https://open.spotify.com/artist/70ZE1v0UgSiInAfo8Xqjhj) | [Legacy](https://open.spotify.com/album/0vajGFYkDsJcxYftRX2DuM) | 3:44 | 2024-06-24 | 2024-08-09 |
 | [Joy, Sorrow, A Beautiful Heart](https://open.spotify.com/track/3yKUJbZjAWlteUSjnNv3UK) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [FLOWERING](https://open.spotify.com/album/0e4X6KNw1He0mlZ2BK9Loz) | 4:36 | 2026-04-07 | 2026-04-28 |
@@ -8925,6 +8928,7 @@
 | [Milky Way](https://open.spotify.com/track/7JQvi6tRsN59p9PRSkoX6g) | [Monday Kiz](https://open.spotify.com/artist/24jJXZRz3aGvjVvZ4OoerD) | [Milky Way](https://open.spotify.com/album/70xMwQrKnp7WZfXZEZPyi3) | 3:40 | 2024-06-04 | 2024-06-20 |
 | [Milky Way](https://open.spotify.com/track/0tcHOtvXH2UQfiQTlzyqdb) | [Moon](https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q) | [BEYOND THE MOON](https://open.spotify.com/album/5HrCpcIjq1TNz0WovjshuI) | 4:26 | 2023-04-26 | 2023-06-20 |
 | [Milky Way](https://open.spotify.com/track/1BcokUlDjWwaTPu05OarRG) | [SEOHYUN](https://open.spotify.com/artist/5uM1Et50auro2hTS6ZLcmT) | [Jinxed at First \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/2fe7Nm865FuJYBn0L2sjw8) | 2:56 | 2022-06-22 | 2022-07-05 |
+| [Milky Way](https://open.spotify.com/track/6ekUxiTRlZUpWk71JQ8tm8) | [UNIS](https://open.spotify.com/artist/48xyu8QHo1IhsQZGlgNGYZ) | [Milky Way](https://open.spotify.com/album/4GaWYShVS4tv3ZjRiU0eBL) | 3:35 | 2026-09-23 |  |
 | [Milky Way](https://open.spotify.com/track/0Vf5OuRpykGZsHUelJCc5V) | [스텔라이브](https://open.spotify.com/artist/4epcW7GdBzjUkKmU1hIcMP) | [Milky Way](https://open.spotify.com/album/0P5zt1bkjAX1nUhOUn8k02) | 3:08 | 2024-02-21 | 2024-03-09 |
 | [MILLION.](https://open.spotify.com/track/3oQgooXXgUFH9BKzvQYjwS) | [LEON](https://open.spotify.com/artist/5uq0Z8ElRQOlg2Yavs3lVd) | [GROWN UP!](https://open.spotify.com/album/6l9mxVZFePZRZUm9nKxp1k) | 3:12 | 2023-10-10 | 2023-11-11 |
 | [MiMi \(Our Movie : Original Television Soundtrack\)](https://open.spotify.com/track/1bKssQ6Ivu8bRyUwMIu8iq) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Our Movie OST Part.1](https://open.spotify.com/album/2uZ0hmYRofHQrFy8lXIWy6) | 4:38 | 2025-06-16 | 2025-06-23 |
@@ -11678,6 +11682,7 @@
 | [Say Yes](https://open.spotify.com/track/0OPHtHwJ9CBcPP0NQQEI44) | [JAYN LEE](https://open.spotify.com/artist/7eyeL4ApWZsWOutz8dc4Hr) | [Say Yes](https://open.spotify.com/album/4ib1q5TT3UMtrg6eShl8uu) | 2:43 | 2024-06-21 | 2024-07-23 |
 | [Say Yes](https://open.spotify.com/track/3N6JA2WW2zHNDPwOILKbSh) | [JinE](https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od) | [Say Yes](https://open.spotify.com/album/3Eun9SMEJ0BnA59oBKrwoQ) | 2:47 | 2025-05-19 | 2025-05-28 |
 | [Say Yes](https://open.spotify.com/track/50xtJiijvVTqeT4d4dnRX5) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [Say Yes](https://open.spotify.com/album/2bK53X6douAbLcNVL9o1cx) | 3:23 | 2023-05-15 | 2023-07-12 |
+| [Say Yes!](https://open.spotify.com/track/20k8jupyPevVfg9FlmKN3o) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [FIRST LIGHT : 井](https://open.spotify.com/album/1XH7OxwQ8Pa2epsw0hVcrr) | 3:04 | 2026-09-23 |  |
 | [Say you Love me](https://open.spotify.com/track/5oUI5gjBkuHcIn7X1E6yHz) | [Moon Heewon](https://open.spotify.com/artist/3IjBlflnn473zWYt2R6f2z) | [Say you Love me](https://open.spotify.com/album/2EBN5xb3NYWMAvaG8PwA9s) | 3:27 | 2023-05-01 | 2023-07-12 |
 | [Say You Love Me](https://open.spotify.com/track/5XulQfdMY4sSIXpsvRG57u) | [Rina](https://open.spotify.com/artist/7e9HEqyFNiyjMrDooH6BPH) | [Say You Love Me](https://open.spotify.com/album/2je35vDe9LGDttEVYhnxX6) | 3:05 | 2022-11-03 | 2022-12-22 |
 | [Say You Love Me](https://open.spotify.com/track/5QUBprUbVSmnnzsJkDVrDc) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Sam Kim X MY DEMON](https://open.spotify.com/album/5Y324oLMrW3kQCcmwtkPFq) | 3:32 | 2023-12-16 | 2023-12-22 |
@@ -14275,6 +14280,7 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-01-02 |
 | [Toy](https://open.spotify.com/track/3MJvB6ha52VLF0rSNwuOva) | [MIND U](https://open.spotify.com/artist/4qV3XiR4FiExupNDZ4HeYN) | [Toy](https://open.spotify.com/album/1SrKsJ5jQDwRdMUyhgenfj) | 2:27 | 2024-04-22 | 2024-05-10 |
 | [Toy](https://open.spotify.com/track/68igdaLUHiu7Ma96plkRSQ) | [Option](https://open.spotify.com/artist/0vRLS4Q68chVJeEGar8342), [Leon](https://open.spotify.com/artist/5nyA2Ij1xMTgMDMZml0LhS) | [1st EP 'Option'](https://open.spotify.com/album/2obt5puKnVPmLEHL3CttWl) | 2:51 | 2025-03-10 | 2025-03-22 |
+| [Toy \(feat\. Ash Island, Gist\)](https://open.spotify.com/track/6ATyMrAIUaxfRY5at6nVYl) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Toy \(feat\. Ash Island, Gist\)](https://open.spotify.com/album/1larYAOqvUHmXeWKSdqrRM) | 2:58 | 2026-09-23 |  |
 | [TOY \(feat\. siso\)](https://open.spotify.com/track/6Bx7apRrdwLAKycZ7EOVi7) | [Choi Nakta](https://open.spotify.com/artist/2c4q6Dkm6fPxNPYD22R3yr), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [TOY](https://open.spotify.com/album/3PNZqV1nTzc5oaFIZS0Igj) | 3:11 | 2023-12-20 | 2024-01-09 |
 | [Trace](https://open.spotify.com/track/6hXOSE38b6F8Dd3ahYi9vr) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E) | [Rest In Peace](https://open.spotify.com/album/30pDwNfOAHgtqegI3ndF9D) | 3:32 | 2023-12-21 | 2024-03-09 |
 | [Trace](https://open.spotify.com/track/6qcNxQOnG0XIJTBJ4dj20S) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Afterglow](https://open.spotify.com/album/739E4HVYrFVObgK0IFJYkA) | 3:51 | 2022-11-30 | 2022-12-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > a smattering of vibes this week, and many takes on being in love\. cover: Lizzy McAlpine <a href="https://loremandfriends.substack.com/p/millennial\-optimism\-we\-missed\-you">\(p.s\. read our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,185,048 likes - 139 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,185,018 likes - 139 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 | 6 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 |
 | 7 | [2222222222222222 + Climbing](https://open.spotify.com/track/1DbndbCRrMLxCwRWzUHZP8) | [Veronica Everheart](https://open.spotify.com/artist/0NSLJ2nRp4Nk4G0wCz6XYL), [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [2222222222222222 + Climbing](https://open.spotify.com/album/3VuKG1Tcc41Ft0iLQzG6u2) | 1:59 |
 | 8 | [bray fool](https://open.spotify.com/track/5eoIH4MwZ9YQ7dvg9Txw6i) | [campthehills](https://open.spotify.com/artist/01Xh6d2xRTGEpxZw0Khyrs) | [bray fool](https://open.spotify.com/album/6G1pHJN7Ggz8ufDLSEPTmJ) | 2:52 |
-| 9 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 9 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 10 | [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 |
 | 11 | [Girl](https://open.spotify.com/track/2q4qACl01mufqdrQEuWkL4) | [Sekko](https://open.spotify.com/artist/1AN5wcwNGCGfwJqABp0P6y) | [Girl](https://open.spotify.com/album/3Ls1DQnwtBk8mgRVfx9xi4) | 1:53 |
 | 12 | [I'm Going Back to Lebanon](https://open.spotify.com/track/5YDkE7W72iz7iN4tHi32SZ) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Everyday, Everything Is At Stake](https://open.spotify.com/album/73MzukUBuiIOYbC6V3P4Wj) | 2:45 |

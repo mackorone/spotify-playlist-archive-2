@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Candan Er\u00e7etin",
-  "num_followers": 588218,
+  "num_followers": 588244,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -555,26 +555,6 @@
     {
       "added_at": "2026-09-22 10:00:36",
       "album": {
-        "name": "5 YILDIZ",
-        "url": "https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw"
-      },
-      "artists": [
-        {
-          "name": "Lvbel C5",
-          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
-        },
-        {
-          "name": "AKDO",
-          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
-        }
-      ],
-      "duration_ms": 90451,
-      "name": "5 YILDIZ",
-      "url": "https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs"
-    },
-    {
-      "added_at": "2026-09-22 10:00:36",
-      "album": {
         "name": "Sen Orda Yoksun",
         "url": "https://open.spotify.com/album/3TJcFAQKCaxzQQyw7aSkvD"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 109470,
       "name": "yenildi\u011fim tek sava\u015ft\u0131n",
       "url": "https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG"
+    },
+    {
+      "added_at": "2026-09-22 10:00:36",
+      "album": {
+        "name": "5 YILDIZ",
+        "url": "https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw"
+      },
+      "artists": [
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        },
+        {
+          "name": "AKDO",
+          "url": "https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0"
+        }
+      ],
+      "duration_ms": 90451,
+      "name": "5 YILDIZ",
+      "url": "https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs"
     },
     {
       "added_at": "2026-09-22 10:00:36",

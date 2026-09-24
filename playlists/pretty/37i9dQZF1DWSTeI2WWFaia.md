@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Rapsody
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,684 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,552,566 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Make Them Cry](https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:07 |
 | 2 | [SAFETY](https://open.spotify.com/track/3sJLoIc9y1b4gKAP8ZNsR9) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:18 |
-| 3 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 |
+| 3 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
 | 4 | [Mad Technology](https://open.spotify.com/track/6yDQOCVxV6Z0XGZgbeCvMi) | [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr), [Frankie Pulitzer](https://open.spotify.com/artist/03GXakQX7cf6cd7hZQqgYg), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Czarface Meets Frankie Pulitzer](https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6) | 3:43 |
 | 5 | [Black Love](https://open.spotify.com/track/4ZbGsVLeIf2CRlzyZIwEnr) | [Rapsody](https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5), [Malice](https://open.spotify.com/artist/4P4gZvRYiVpvtCkmd37jRM) | [God Gotta Afro & Gold Hoops](https://open.spotify.com/album/73NbJlEaRBWILRfCocwVL4) | 5:35 |
 | 6 | [I'm Good](https://open.spotify.com/track/7306lGgwtFFpubz8PN4Z0G) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh) | [DPG WU\-TANG, WU\-TANG DPG \-THE GODBODY LP\-](https://open.spotify.com/album/2KovdnHtmmm4JrAmln3Yqp) | 5:15 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 19 | [2010 \- Mr\. October](https://open.spotify.com/track/0jrUT67nSXhu8dikZfJXD9) | [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [2010 \- Mr\. October](https://open.spotify.com/album/56ZRbU1e9sCndkyStRWENe) | 5:12 |
 | 20 | [ROTTEN APPLE](https://open.spotify.com/track/261VjS7u4ZWv1dLJVpclgs) | [Iman Nunez](https://open.spotify.com/artist/0ZLhwTpdRnE4bOD6Rh6RYa), [Niko Brim](https://open.spotify.com/artist/1leUdTmVH8GDaAQIqhvq7r), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG) | [ROTTEN APPLE](https://open.spotify.com/album/2WWRfSIg7D8pbDuJcnElEQ) | 3:38 |
 | 21 | [Make Them Remember](https://open.spotify.com/track/73ycOMnODtUc2Ggj6EfCpO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:23 |
-| 22 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
+| 22 | [CATFISH](https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:14 |
 | 23 | [I Love Her Again](https://open.spotify.com/track/5pjf75G1zn9EEFa8iaCV5h) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 5:32 |
 | 24 | [Forever](https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Harlem's Finest: Return Of The King](https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN) | 2:35 |
 | 25 | [LIFE](https://open.spotify.com/track/5BrduhEFRULhUw1YorXoJW) | [Traffic](https://open.spotify.com/artist/5z4GIgsp4Ex4mTJBaIcRG2), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Saint Pat Beatz](https://open.spotify.com/artist/6tU9QPA8WWVqRyTSeD8KkS), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [LIFE](https://open.spotify.com/album/6c6Yu97fDseg3vAuhnsF4W) | 4:00 |

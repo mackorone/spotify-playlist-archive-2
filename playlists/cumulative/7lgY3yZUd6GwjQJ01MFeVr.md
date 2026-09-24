@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson
 
-325 songs - 17 hr 23 min
+326 songs - 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Bloodline](https://open.spotify.com/track/0qmhTHMVxnXRmT5N92wTD9) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Bloodline](https://open.spotify.com/album/2KoAn4MyptQWG1qBx7mu01) | 3:02 | 2025-06-02 |  |
 | [Blue Jean Baby](https://open.spotify.com/track/3yDi4w5cuQQEpQXrozMW2B) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Blue Jean Baby](https://open.spotify.com/album/0atPqRDsFXU3wDVsptJVIs) | 2:12 | 2025-02-04 | 2026-01-15 |
 | [Blue Strips](https://open.spotify.com/track/7u7IqryLFAygWFz6bsEB7y) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Blue Strips](https://open.spotify.com/album/38Vd2K3RytxtNWLE5aU2VR) | 2:27 | 2025-05-05 |  |
-| [Bonfire On The Beach](https://open.spotify.com/track/0gitJl2DwkWujNwIfXd2zp) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Bonfire On The Beach](https://open.spotify.com/album/1YBZjZMyFMOgZHV1YQEryO) | 2:27 | 2025-09-25 |  |
+| [Bonfire On The Beach](https://open.spotify.com/track/0gitJl2DwkWujNwIfXd2zp) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Bonfire On The Beach](https://open.spotify.com/album/1YBZjZMyFMOgZHV1YQEryO) | 2:27 | 2025-09-25 | 2026-09-24 |
 | [Boots Don't](https://open.spotify.com/track/0MZ7Qj5BoJNTsFYDLPufVt) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Twisters: The Album](https://open.spotify.com/album/2Z3lIfc06B7YV1ZN9oZCdS) | 2:28 | 2024-07-22 | 2024-11-02 |
 | [Born](https://open.spotify.com/track/4WqPljx2MjzICrxJjnuiZB) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Born](https://open.spotify.com/album/2Hg5u4WLNI85GHVISRXMna) | 4:12 | 2024-03-22 | 2025-05-06 |
 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 | 2026-04-15 |  |
@@ -207,7 +207,7 @@
 | [Namin’ Names](https://open.spotify.com/track/4ORhANtnChWYXj1aXPhQEm) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [Namin’ Names](https://open.spotify.com/album/5Kf8wyxTSEAbAmSBaQIcN6) | 2:43 | 2025-09-13 |  |
 | [Need To](https://open.spotify.com/track/02JME7zoJ1EYMYBJAg4TMN) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Need To](https://open.spotify.com/album/2DiBmctgRw3Zds6c9lNF06) | 3:10 | 2025-03-19 | 2025-09-13 |
 | [Never Call Again](https://open.spotify.com/track/6cEckA5rG2RkkXKaqNMrt9) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Never Call Again](https://open.spotify.com/album/5eWRcGQYWY86twiSywA7Pn) | 2:55 | 2025-03-25 |  |
-| [Never Drinking Again](https://open.spotify.com/track/11S4Qann0A358swlPCC8J0) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Never Drinking Again](https://open.spotify.com/album/42VOmwJtbQs2Ya5MqPBgE5) | 2:29 | 2025-09-25 |  |
+| [Never Drinking Again](https://open.spotify.com/track/11S4Qann0A358swlPCC8J0) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Never Drinking Again](https://open.spotify.com/album/42VOmwJtbQs2Ya5MqPBgE5) | 2:29 | 2025-09-25 | 2026-09-24 |
 | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/track/3IuBfjh6U8r2K0a5sP8Lvf) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Never Left Me \(From Twisters: The Album\)](https://open.spotify.com/album/7g8sRyHTnJBUuDb5VkzBP9) | 3:11 | 2024-06-17 | 2025-05-06 |
 | [New To Country](https://open.spotify.com/track/11nmHJICkQ9emiYJJINygH) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [New To Country](https://open.spotify.com/album/1ubJSiGbO0OsLHwFFs8NBr) | 2:57 | 2024-07-02 | 2025-09-13 |
 | [No\. 7 Road](https://open.spotify.com/track/196gHiMKy67smff9ITYtQ5) | [The Castellows](https://open.spotify.com/artist/18RWefCHpRm4ccmNgKSHvG) | [No\. 7 Road](https://open.spotify.com/album/5ew2r7jhSR1oaCJinVXbwH) | 3:02 | 2023-12-08 | 2024-02-10 |
@@ -220,6 +220,7 @@
 | [Only Bible](https://open.spotify.com/track/6tt12axiCiK6oQ3Wxb1Oie) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Only Bible](https://open.spotify.com/album/12SiXaCDTNn45eI9MGXv3I) | 3:49 | 2025-09-13 |  |
 | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/34cLr4m5Sxe84XE5oBfO2Q) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Out of Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/28iwWj7idnlrdfGyyEHHnJ) | 3:28 | 2024-06-21 |  |
 | [Overdue](https://open.spotify.com/track/5GJD4k0pnqR82k6wTyZip1) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Leather Deluxe Edition](https://open.spotify.com/album/5CWUkGGArOj0vj7z1BogV0) | 2:45 | 2024-11-02 | 2026-05-05 |
+| [People Don't Talk About](https://open.spotify.com/track/4xcpiAoUIRtFFqefwYYqlr) | [The Reklaws](https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv) | [Good Ol' Days](https://open.spotify.com/album/2IefuIJJJaRjnplEBribfX) | 3:17 | 2026-09-23 |  |
 | [Pickup Man \(feat\. Post Malone\)](https://open.spotify.com/track/4MXqpnu9lAqqkjSHVlBVoZ) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [HIXTAPE Vol\. 3: DIFFTAPE \(Small Batch\)](https://open.spotify.com/album/4xfCXHExwLbivLiKs4Xhcy) | 3:36 | 2023-12-08 | 2024-02-17 |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-06-05 |  |
 | [Plastic Cigarette](https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [With Heaven On Top](https://open.spotify.com/album/4NvMwUFmY1dcDEgD8KoQjG) | 3:05 | 2026-01-13 |  |

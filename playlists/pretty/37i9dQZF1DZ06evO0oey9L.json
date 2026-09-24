@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 101528,
+  "num_followers": 101538,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAABi26L4DzhHLc33Zf890oTB",
+  "snapshot_id": "arHFAAAAAACo6hp/FutAtyC3wAuIgcTK",
   "tracks": [
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LENTES LV",
+        "url": "https://open.spotify.com/album/2jVrGYAzQEi2N5gI1ekfoh"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 155303,
+      "name": "LENTES LV",
+      "url": "https://open.spotify.com/track/5ArRI9Pc9u42Zwiz4oKMBK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Paris & Grecia",
         "url": "https://open.spotify.com/album/3kufVIruxrPYRml0XECQka"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 165587,
       "name": "Paris & Grecia",
       "url": "https://open.spotify.com/track/6VGKmmQoKtb96WxcXIz4CU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LENTES LV",
-        "url": "https://open.spotify.com/album/2jVrGYAzQEi2N5gI1ekfoh"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 155303,
-      "name": "LENTES LV",
-      "url": "https://open.spotify.com/track/5ArRI9Pc9u42Zwiz4oKMBK"
     },
     {
       "added_at": null,

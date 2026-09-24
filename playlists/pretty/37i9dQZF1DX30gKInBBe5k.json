@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212049,
+  "num_followers": 212045,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "LSD and the Search for God",
-        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
-      },
-      "artists": [
-        {
-          "name": "LSD and the Search for God",
-          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Ghosts of the Great Highway",
         "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 872666,
       "name": "Duk Koo Kim",
       "url": "https://open.spotify.com/track/5LlfYiHiK7xYMuP6NYaR5w"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "LSD and the Search for God",
+        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
+      },
+      "artists": [
+        {
+          "name": "LSD and the Search for God",
+          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Millions Now Living Will Never Die",
-        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 327826,
-      "name": "Glass Museum",
-      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Control (Remastered)",
         "url": "https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 236575,
       "name": "Options",
       "url": "https://open.spotify.com/track/3QWzdv9myjbHl6GPYGWyV9"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Millions Now Living Will Never Die",
+        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 327826,
+      "name": "Glass Museum",
+      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
     },
     {
       "added_at": "2025-08-07 23:00:59",

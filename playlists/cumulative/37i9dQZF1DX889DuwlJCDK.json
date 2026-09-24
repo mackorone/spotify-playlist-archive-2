@@ -28586,7 +28586,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 280315,
       "name": "\u5c0f\u8aac\u5bb6",
       "url": "https://open.spotify.com/track/4a5uyzbI0Jw6n1nEYvEhmD"
@@ -35288,6 +35288,24 @@
       "duration_ms": 230000,
       "name": "\u98a8\u306e\u5642",
       "url": "https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u666f\u3092\u898b\u308b\u3042\u306a\u305f\u306e\u77b3\u306b\u3001\u795e\u306f\u3044\u305f",
+        "url": "https://open.spotify.com/album/7tFkqj36p0xs1wl7rFYy8H"
+      },
+      "artists": [
+        {
+          "name": "Guiano",
+          "url": "https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271666,
+      "name": "\u98a8\u666f\u3092\u898b\u308b\u3042\u306a\u305f\u306e\u77b3\u306b\u3001\u795e\u306f\u3044\u305f",
+      "url": "https://open.spotify.com/track/41EL6Hm0jRsdjm3CoGSnRh"
     },
     {
       "album": {

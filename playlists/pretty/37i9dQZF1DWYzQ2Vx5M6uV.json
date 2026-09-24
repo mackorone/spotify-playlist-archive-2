@@ -1,6 +1,6 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Luister La Voz & Manuel Turizo",
-  "num_followers": 143176,
+  "num_followers": 143161,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -643,6 +643,26 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
+        "name": "Quien Me Mand\u00f3?",
+        "url": "https://open.spotify.com/album/5L5ZVe1zrpfV55B77qh06l"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        }
+      ],
+      "duration_ms": 204925,
+      "name": "Quien Me Mand\u00f3?",
+      "url": "https://open.spotify.com/track/7KTlGFaD6kwsY7oosqgs3i"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
         "name": "Portate Bonito",
         "url": "https://open.spotify.com/album/2guCMLk57vsbqr0jQbY0Zm"
       },
@@ -667,30 +687,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Paz Mental",
-        "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
-      },
-      "artists": [
-        {
-          "name": "Maisak",
-          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 209032,
-      "name": "Paz Mental",
-      "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "ILY",
         "url": "https://open.spotify.com/album/7ct2yMkPUUMjmgjJh9MdQW"
       },
@@ -711,22 +707,26 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Quien Me Mand\u00f3?",
-        "url": "https://open.spotify.com/album/5L5ZVe1zrpfV55B77qh06l"
+        "name": "Paz Mental",
+        "url": "https://open.spotify.com/album/2Dxid0n6fLgS8gtAf0Xlze"
       },
       "artists": [
         {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
         },
         {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
         }
       ],
-      "duration_ms": 204925,
-      "name": "Quien Me Mand\u00f3?",
-      "url": "https://open.spotify.com/track/7KTlGFaD6kwsY7oosqgs3i"
+      "duration_ms": 209032,
+      "name": "Paz Mental",
+      "url": "https://open.spotify.com/track/6NBmlO9D9y32zDjf3PsF6G"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -759,6 +759,22 @@
       "duration_ms": 128487,
       "name": "Quiero +",
       "url": "https://open.spotify.com/track/3qwEwtnOb6TyJkSGYEm02h"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "Beso a Beso",
+        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "duration_ms": 137969,
+      "name": "Beso a Beso",
+      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -799,22 +815,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Beso a Beso",
-        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        }
-      ],
-      "duration_ms": 137969,
-      "name": "Beso a Beso",
-      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "OMERTA",
         "url": "https://open.spotify.com/album/2D5DfOxUu0wzK9wrQK7VjY"
       },
@@ -831,6 +831,26 @@
       "duration_ms": 181066,
       "name": "Medetown",
       "url": "https://open.spotify.com/track/6vLPeh2r5vu7VrnfBhDu1F"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "a new star (1 9 9 3)",
+        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Tempoe",
+          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
+        }
+      ],
+      "duration_ms": 116129,
+      "name": "Pretty GIRL",
+      "url": "https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -867,26 +887,6 @@
       "duration_ms": 199850,
       "name": "Eva Longoria",
       "url": "https://open.spotify.com/track/0nfnCp3NNcUjksmxd5xqEG"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
-        "name": "a new star (1 9 9 3)",
-        "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Tempoe",
-          "url": "https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4"
-        }
-      ],
-      "duration_ms": 116129,
-      "name": "Pretty GIRL",
-      "url": "https://open.spotify.com/track/2lW7JV6gBtF6vApavqbzGG"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Loba",
-        "url": "https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        }
-      ],
-      "duration_ms": 257187,
-      "name": "Loba",
-      "url": "https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "Volver a Verte",
         "url": "https://open.spotify.com/album/6xn0R7Iv47dIgId3xv9zaw"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 183286,
       "name": "Volver a Verte",
       "url": "https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/5bTpqqGwy5jbaKeOtan1f3"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 257187,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/1b89rnIq9nhaVwzWzRvuwk"
     },
     {
       "added_at": "2026-09-04 04:01:49",

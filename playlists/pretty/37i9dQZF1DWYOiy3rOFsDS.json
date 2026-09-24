@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Luciano Daniel en portada.",
-  "num_followers": 537028,
+  "num_followers": 536958,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "SALUDITOS A LOS EX",
-        "url": "https://open.spotify.com/album/40NCMctoqXhnDVWPD21bWZ"
-      },
-      "artists": [
-        {
-          "name": "Bolela",
-          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
-        }
-      ],
-      "duration_ms": 173001,
-      "name": "SALUDITOS A LOS EX",
-      "url": "https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "B\u00e9same Mucho",
         "url": "https://open.spotify.com/album/0BFOhLg9wWd1ogr8yiyYqV"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 222659,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/7xMV0nQrYNqjendktWU3tb"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "SALUDITOS A LOS EX",
+        "url": "https://open.spotify.com/album/40NCMctoqXhnDVWPD21bWZ"
+      },
+      "artists": [
+        {
+          "name": "Bolela",
+          "url": "https://open.spotify.com/artist/7K1DEVlWpm4Y5sKRNNoVIZ"
+        }
+      ],
+      "duration_ms": 173001,
+      "name": "SALUDITOS A LOS EX",
+      "url": "https://open.spotify.com/track/2h8nYa160PX2KMfirTRjrR"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -758,11 +758,15 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Trio Los Panchos",
+          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 226973,
-      "name": "Piensa en M\u00ed",
-      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
+      "duration_ms": 180986,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -838,15 +842,11 @@
         {
           "name": "\u00c1ngela Aguilar",
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Trio Los Panchos",
-          "url": "https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF"
         }
       ],
-      "duration_ms": 180986,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k"
+      "duration_ms": 226973,
+      "name": "Piensa en M\u00ed",
+      "url": "https://open.spotify.com/track/63j4La0tnnyHXWwTZcluNC"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Matina",
-        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 128500,
-      "name": "Matina",
-      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Mil Vidas",
         "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 136667,
       "name": "Mil Vidas",
       "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Matina",
+        "url": "https://open.spotify.com/album/22Tb1zKcJiUELDEnSRA34A"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 128500,
+      "name": "Matina",
+      "url": "https://open.spotify.com/track/50DhWeIArP5tldIMUPtaVe"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Se Me Esta Yendo La Vida",
-        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 182717,
-      "name": "Se Me Esta Yendo La Vida",
-      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Como Quisiera Quererte",
         "url": "https://open.spotify.com/album/1zyxtpEhfxsb5QfpDzLReB"
       },
@@ -1263,6 +1247,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "Se Me Esta Yendo La Vida",
+        "url": "https://open.spotify.com/album/1rcvdzVO3zQqMe2oGKq0yQ"
+      },
+      "artists": [
+        {
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
+        }
+      ],
+      "duration_ms": 182717,
+      "name": "Se Me Esta Yendo La Vida",
+      "url": "https://open.spotify.com/track/0ndENUoSD83yGr9lXbJQFH"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Desde Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/2040erAeJrkzHBcxYHaj2T"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 164791,
       "name": "Desde Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/3srXo4ebUPLbzuDvuze63p"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Puro Teatro",
-        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
-      },
-      "artists": [
-        {
-          "name": "Celeste Sanazi",
-          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
-        }
-      ],
-      "duration_ms": 137131,
-      "name": "Puro Teatro",
-      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
+      },
+      "artists": [
+        {
+          "name": "Celeste Sanazi",
+          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
+        }
+      ],
+      "duration_ms": 137131,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/3HhbkUjg8eI5chZUn3v0Ng"
       },
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Aquellos Ojos Verdes",
-        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
-      },
-      "artists": [
-        {
-          "name": "Daphne Michelle",
-          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
-        }
-      ],
-      "duration_ms": 201829,
-      "name": "Aquellos Ojos Verdes",
-      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/7EZYD3MAbyV2njuuQN4Qb3"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 164798,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/5sLQhakJ9v2dKMlxB2Fewm"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Aquellos Ojos Verdes",
+        "url": "https://open.spotify.com/album/3HkuShxx82J7vFkOwJh5b3"
+      },
+      "artists": [
+        {
+          "name": "Daphne Michelle",
+          "url": "https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8"
+        }
+      ],
+      "duration_ms": 201829,
+      "name": "Aquellos Ojos Verdes",
+      "url": "https://open.spotify.com/track/31h7Rf7PpcmudY3z1ytc5H"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1555,26 +1555,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Parada Obligatoria (1ra Parada)",
-        "url": "https://open.spotify.com/album/2egjoQlWOOcvoUu0YwDfJt"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "El Otro Polo",
-          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
-        }
-      ],
-      "duration_ms": 210166,
-      "name": "Un poema duerme en mi cama",
-      "url": "https://open.spotify.com/track/4gP1fhi83i8ZITpokd9vqj"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Sindicato Del Ritmo",
         "url": "https://open.spotify.com/album/0HL2RlxUVZK2nNEkliZfrX"
       },
@@ -1591,6 +1571,26 @@
       "duration_ms": 250960,
       "name": "Disfruto",
       "url": "https://open.spotify.com/track/0F0Ms8uyynijIoufuJ7c0Q"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Parada Obligatoria (1ra Parada)",
+        "url": "https://open.spotify.com/album/2egjoQlWOOcvoUu0YwDfJt"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "El Otro Polo",
+          "url": "https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2"
+        }
+      ],
+      "duration_ms": 210166,
+      "name": "Un poema duerme en mi cama",
+      "url": "https://open.spotify.com/track/4gP1fhi83i8ZITpokd9vqj"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "Idas y Vueltas",
+        "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
+      },
+      "artists": [
+        {
+          "name": "Maria Mulata",
+          "url": "https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q"
+        },
+        {
+          "name": "Maite Hontel\u00e9",
+          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
+        }
+      ],
+      "duration_ms": 232221,
+      "name": "Idas y Vueltas",
+      "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Cenicero",
         "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
       },
@@ -1663,26 +1683,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Idas y Vueltas",
-        "url": "https://open.spotify.com/album/4V9raKN14W4W670fMeaCiO"
-      },
-      "artists": [
-        {
-          "name": "Maria Mulata",
-          "url": "https://open.spotify.com/artist/1oZNtWMNjry3xwoMamQR9Q"
-        },
-        {
-          "name": "Maite Hontel\u00e9",
-          "url": "https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU"
-        }
-      ],
-      "duration_ms": 232221,
-      "name": "Idas y Vueltas",
-      "url": "https://open.spotify.com/track/5Ajw26Yo7IDiwTjDva2VIr"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -1695,22 +1695,6 @@
       "duration_ms": 185727,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/7HkeoCaym1hk1E9IlrU6Li"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1735,6 +1719,22 @@
       "duration_ms": 193208,
       "name": "Compa\u00f1era",
       "url": "https://open.spotify.com/track/4OPLWuafZDX9jQnc4gZn3y"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/7HkeoCaym1hk1E9IlrU6Li"
     },
     {
       "added_at": "2026-07-24 06:00:45",

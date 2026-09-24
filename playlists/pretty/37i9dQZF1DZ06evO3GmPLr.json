@@ -1,12 +1,12 @@
 {
   "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 57666,
+  "num_followers": 57686,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAABO7EzBROCR36HV7W0ii99u",
+  "snapshot_id": "arHFAAAAAACmxjVTeZn1b9kOSZQ2kUwH",
   "tracks": [
     {
       "added_at": null,
@@ -359,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drop 6",
-        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 154986,
-      "name": "one life, might live",
-      "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stillness in Wonderland",
         "url": "https://open.spotify.com/album/5WIvREgNBScLryJbpNs9yN"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 170080,
       "name": "Young",
       "url": "https://open.spotify.com/track/1MQKhg5Kbn3cd07LQ5JPRK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drop 6",
+        "url": "https://open.spotify.com/album/5kleJz7Rct23Gan0hdKXiA"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 154986,
+      "name": "one life, might live",
+      "url": "https://open.spotify.com/track/7183fwCYtpFWrBWamXHU1E"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 317278,
-      "name": "No Merci",
-      "url": "https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 167544,
       "name": "Flood",
       "url": "https://open.spotify.com/track/3m9g8ua3M51JvqmS8rh6bS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 317278,
+      "name": "No Merci",
+      "url": "https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO THANK YOU",
-        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 393280,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/6eCxbfPngmMvJjnJxyBcDg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lotus",
         "url": "https://open.spotify.com/album/0ofdTvYtx4LpsVjemJt71X"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 126462,
       "name": "might bang, might not",
       "url": "https://open.spotify.com/track/4q6cqwj1Bo7z7S0uF7pKnz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 393280,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/6eCxbfPngmMvJjnJxyBcDg"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Girl",
-        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        },
-        {
-          "name": "070 Shake",
-          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
-        }
-      ],
-      "duration_ms": 207310,
-      "name": "Telephone (ft. 070 Shake)",
-      "url": "https://open.spotify.com/track/79anhf2dyUxmZaa2IBCqD8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Proud of Me (feat. Little Simz)",
         "url": "https://open.spotify.com/album/13DiRRO8DTuLxsD6qqQlp4"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 215862,
       "name": "Proud of Me (feat. Little Simz)",
       "url": "https://open.spotify.com/track/1s6peZNxETxrrfMrveNZW8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sugar Girl",
+        "url": "https://open.spotify.com/album/1CJBeo8t68wKcsvN4QRuLI"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+        }
+      ],
+      "duration_ms": 207310,
+      "name": "Telephone (ft. 070 Shake)",
+      "url": "https://open.spotify.com/track/79anhf2dyUxmZaa2IBCqD8"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stillness In Wonderland (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 211285,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Satellite Business 2.0",
         "url": "https://open.spotify.com/album/5GBYP7EkYjz4ZffoOVd6Zb"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stillness In Wonderland (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5Hie74vOip1lR1VOk6i2DI"
-      },
-      "artists": [
-        {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
-        }
-      ],
-      "duration_ms": 211285,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/3LGlyLsK0PwfQA9Q0Sg9a8"
     },
     {
       "added_at": null,

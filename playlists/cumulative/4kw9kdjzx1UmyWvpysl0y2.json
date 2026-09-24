@@ -20411,6 +20411,28 @@
     },
     {
       "album": {
+        "name": "See U Bounce",
+        "url": "https://open.spotify.com/album/4NJD5iYpn0iPH2qUR9H0sw"
+      },
+      "artists": [
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        },
+        {
+          "name": "Segan",
+          "url": "https://open.spotify.com/artist/0NgWGGk9p04zLTeFbIdsVO"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222171,
+      "name": "See U Bounce",
+      "url": "https://open.spotify.com/track/7niB7gHrS3sVhILhHhZTp1"
+    },
+    {
+      "album": {
         "name": "See What I See",
         "url": "https://open.spotify.com/album/2GEx2Zurd4rpelQlu0iCH7"
       },

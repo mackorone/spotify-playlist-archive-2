@@ -1,6 +1,6 @@
 {
   "description": "let the dj set u free \u2764\ufe0f\u200d\ud83e\ude79",
-  "num_followers": 854184,
+  "num_followers": 854189,
   "original_name": "crying on the dance floor",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-09-18 17:40:02",
       "album": {
-        "name": "LEAVE IT ALL BEHIND",
-        "url": "https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        }
-      ],
-      "duration_ms": 181818,
-      "name": "LEAVE IT ALL BEHIND",
-      "url": "https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq"
-    },
-    {
-      "added_at": "2026-09-18 17:40:02",
-      "album": {
         "name": "In And Out Of Love",
         "url": "https://open.spotify.com/album/3ieuC2fT9bBITfYugxOkwK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 226621,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
+    },
+    {
+      "added_at": "2026-09-18 17:40:02",
+      "album": {
+        "name": "LEAVE IT ALL BEHIND",
+        "url": "https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA"
+      },
+      "artists": [
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "LEAVE IT ALL BEHIND",
+      "url": "https://open.spotify.com/track/6UTUFQdLHBHKpvKDGqFwMq"
     },
     {
       "added_at": "2026-09-18 17:40:02",
@@ -1063,46 +1063,6 @@
     {
       "added_at": "2026-09-18 17:40:02",
       "album": {
-        "name": "PRESSURE",
-        "url": "https://open.spotify.com/album/5R6Hhxu8qohIsu7w3nJDfo"
-      },
-      "artists": [
-        {
-          "name": "Jhay Rivas",
-          "url": "https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH"
-        },
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        },
-        {
-          "name": "DNC",
-          "url": "https://open.spotify.com/artist/2VU4MNFUjGbcvOQWp7JRSQ"
-        }
-      ],
-      "duration_ms": 205970,
-      "name": "PRESSURE",
-      "url": "https://open.spotify.com/track/6pJ8wNE7qPzbpBM0ARW90m"
-    },
-    {
-      "added_at": "2026-09-18 17:40:02",
-      "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/41zyGqITTH5ClFk2psfjv1"
-      },
-      "artists": [
-        {
-          "name": "Aria Ohlsson",
-          "url": "https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ"
-        }
-      ],
-      "duration_ms": 208338,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/37Pz8jknbqdEudUXwgcmKQ"
-    },
-    {
-      "added_at": "2026-09-18 17:40:02",
-      "album": {
         "name": "without u",
         "url": "https://open.spotify.com/album/69IL9BtvOJJpiLtQ30QCPf"
       },
@@ -1123,6 +1083,46 @@
       "duration_ms": 200266,
       "name": "without u",
       "url": "https://open.spotify.com/track/2VHMxDk7cTzeZOIZozfTfi"
+    },
+    {
+      "added_at": "2026-09-18 17:40:02",
+      "album": {
+        "name": "Be With You",
+        "url": "https://open.spotify.com/album/41zyGqITTH5ClFk2psfjv1"
+      },
+      "artists": [
+        {
+          "name": "Aria Ohlsson",
+          "url": "https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ"
+        }
+      ],
+      "duration_ms": 208338,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/37Pz8jknbqdEudUXwgcmKQ"
+    },
+    {
+      "added_at": "2026-09-18 17:40:02",
+      "album": {
+        "name": "PRESSURE",
+        "url": "https://open.spotify.com/album/5R6Hhxu8qohIsu7w3nJDfo"
+      },
+      "artists": [
+        {
+          "name": "Jhay Rivas",
+          "url": "https://open.spotify.com/artist/4hQHXyqZ6QlqPC76XmT2kH"
+        },
+        {
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
+        },
+        {
+          "name": "DNC",
+          "url": "https://open.spotify.com/artist/2VU4MNFUjGbcvOQWp7JRSQ"
+        }
+      ],
+      "duration_ms": 205970,
+      "name": "PRESSURE",
+      "url": "https://open.spotify.com/track/6pJ8wNE7qPzbpBM0ARW90m"
     },
     {
       "added_at": "2026-09-18 17:40:02",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2026-09-18 17:40:02",
       "album": {
-        "name": "MEMORY",
-        "url": "https://open.spotify.com/album/6UePR9HLeto8k38tIcbLsO"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        },
-        {
-          "name": "Fi Sullivan",
-          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
-        }
-      ],
-      "duration_ms": 196590,
-      "name": "MEMORY",
-      "url": "https://open.spotify.com/track/4XKYLo1eAUFETIt5PLy8ZG"
-    },
-    {
-      "added_at": "2026-09-18 17:40:02",
-      "album": {
         "name": "BRONSON",
         "url": "https://open.spotify.com/album/7zUK6seRiiD2x2HhzOLdrg"
       },
@@ -1387,6 +1367,26 @@
     {
       "added_at": "2026-09-18 17:40:02",
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        },
+        {
+          "name": "kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 200637,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
+    },
+    {
+      "added_at": "2026-09-18 17:40:02",
+      "album": {
         "name": "Broken Angel",
         "url": "https://open.spotify.com/album/3DKtZGj3lSLp1x1YwJsUFR"
       },
@@ -1407,22 +1407,22 @@
     {
       "added_at": "2026-09-18 17:40:02",
       "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/66nEONspKcrUL2BiKo0U4t"
+        "name": "MEMORY",
+        "url": "https://open.spotify.com/album/6UePR9HLeto8k38tIcbLsO"
       },
       "artists": [
         {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
         },
         {
-          "name": "kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+          "name": "Fi Sullivan",
+          "url": "https://open.spotify.com/artist/4Wvsgumh32s2wSMTZW7FMa"
         }
       ],
-      "duration_ms": 200637,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/1CfsBC96b0vxey9aVAkQlg"
+      "duration_ms": 196590,
+      "name": "MEMORY",
+      "url": "https://open.spotify.com/track/4XKYLo1eAUFETIt5PLy8ZG"
     },
     {
       "added_at": "2026-09-18 17:40:02",
@@ -1651,6 +1651,26 @@
     {
       "added_at": "2026-09-18 17:40:02",
       "album": {
+        "name": "To This Day",
+        "url": "https://open.spotify.com/album/5rTV7nsg4Ty4Nr3kBPTSSQ"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        },
+        {
+          "name": "LKS",
+          "url": "https://open.spotify.com/artist/6DGjk4qp2HpzAppX9oXoW5"
+        }
+      ],
+      "duration_ms": 214224,
+      "name": "To This Day",
+      "url": "https://open.spotify.com/track/5aBV6yiidlaNDayn20iQkH"
+    },
+    {
+      "added_at": "2026-09-18 17:40:02",
+      "album": {
         "name": "Loop",
         "url": "https://open.spotify.com/album/08THJAm0P4Po6FzhvRVftg"
       },
@@ -1671,26 +1691,6 @@
       "duration_ms": 198764,
       "name": "Loop",
       "url": "https://open.spotify.com/track/5MKANTNybiKpBINi93lfj7"
-    },
-    {
-      "added_at": "2026-09-18 17:40:02",
-      "album": {
-        "name": "To This Day",
-        "url": "https://open.spotify.com/album/5rTV7nsg4Ty4Nr3kBPTSSQ"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        },
-        {
-          "name": "LKS",
-          "url": "https://open.spotify.com/artist/6DGjk4qp2HpzAppX9oXoW5"
-        }
-      ],
-      "duration_ms": 214224,
-      "name": "To This Day",
-      "url": "https://open.spotify.com/track/5aBV6yiidlaNDayn20iQkH"
     },
     {
       "added_at": "2026-09-18 17:40:02",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-09-18 17:40:02",
       "album": {
-        "name": "Can't Help But Worry (Every Night Every Day)",
-        "url": "https://open.spotify.com/album/7vJm6qiekHsbQ5HJBSnfwX"
-      },
-      "artists": [
-        {
-          "name": "Soluna",
-          "url": "https://open.spotify.com/artist/2fRP0DEazBFA0FoLvkyHTY"
-        }
-      ],
-      "duration_ms": 109440,
-      "name": "Can't Help But Worry (Every Night Every Day)",
-      "url": "https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i"
-    },
-    {
-      "added_at": "2026-09-18 17:40:02",
-      "album": {
         "name": "Lonely Man (feat. Simon Ward)",
         "url": "https://open.spotify.com/album/5kJPSN17AcFqhsw6yGXS5x"
       },
@@ -2035,18 +2019,18 @@
     {
       "added_at": "2026-09-18 17:40:02",
       "album": {
-        "name": "Love Me For Real",
-        "url": "https://open.spotify.com/album/0wcZU2ve89Yx4mndvcku0B"
+        "name": "Can't Help But Worry (Every Night Every Day)",
+        "url": "https://open.spotify.com/album/7vJm6qiekHsbQ5HJBSnfwX"
       },
       "artists": [
         {
-          "name": "Ocean",
-          "url": "https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg"
+          "name": "Soluna",
+          "url": "https://open.spotify.com/artist/2fRP0DEazBFA0FoLvkyHTY"
         }
       ],
-      "duration_ms": 317142,
-      "name": "Love Me For Real",
-      "url": "https://open.spotify.com/track/1c6ccgNZU2oULnXDilF5gm"
+      "duration_ms": 109440,
+      "name": "Can't Help But Worry (Every Night Every Day)",
+      "url": "https://open.spotify.com/track/126ybtMM3PXIo6rnwCSe6i"
     },
     {
       "added_at": "2026-09-18 17:40:02",
@@ -2063,6 +2047,22 @@
       "duration_ms": 156421,
       "name": "INSOMNIA",
       "url": "https://open.spotify.com/track/2rehinQVvHSX1TsiHLFzgo"
+    },
+    {
+      "added_at": "2026-09-18 17:40:02",
+      "album": {
+        "name": "Love Me For Real",
+        "url": "https://open.spotify.com/album/0wcZU2ve89Yx4mndvcku0B"
+      },
+      "artists": [
+        {
+          "name": "Ocean",
+          "url": "https://open.spotify.com/artist/0WRpHrzIKi44X6ARRQKeGg"
+        }
+      ],
+      "duration_ms": 317142,
+      "name": "Love Me For Real",
+      "url": "https://open.spotify.com/track/1c6ccgNZU2oULnXDilF5gm"
     },
     {
       "added_at": "2026-09-18 17:40:02",

@@ -32828,7 +32828,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 227321,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/2qf4KviAhT4cNGydUT28Qo"
@@ -34730,6 +34730,24 @@
       "duration_ms": 208636,
       "name": "LONELY",
       "url": "https://open.spotify.com/track/5IZizTD3g3isFOpIpDU8l0"
+    },
+    {
+      "album": {
+        "name": "Lontano",
+        "url": "https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229322,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV"
     },
     {
       "album": {
@@ -56284,7 +56302,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 157351,
       "name": "Soldi e mattoni",
       "url": "https://open.spotify.com/track/0KQbFFdJDf86BwvD6BCT2E"
@@ -60230,7 +60248,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 130584,
       "name": "Ti dar\u00f2",
       "url": "https://open.spotify.com/track/4TshlaMUc8yS2ODZ1H1CfS"

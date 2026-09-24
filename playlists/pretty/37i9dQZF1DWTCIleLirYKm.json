@@ -1,6 +1,6 @@
 {
   "description": "a state of mind. Cover: Charley Crockett",
-  "num_followers": 227790,
+  "num_followers": 227836,
   "original_name": "Outlaw ",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Streetlights",
-        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Angel from Montgomery - 2008 Remaster",
-      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
-    },
-    {
-      "added_at": "2026-08-21 04:01:33",
-      "album": {
         "name": "Good Godly Woman",
         "url": "https://open.spotify.com/album/7iYaPN9HmhLoEPCnptvOfw"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 147598,
       "name": "Good Godly Woman",
       "url": "https://open.spotify.com/track/6GWMddXRoGtOQRMwxItviV"
+    },
+    {
+      "added_at": "2026-08-21 04:01:33",
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Angel from Montgomery - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6JssQFiBCi6ZcE6060S9A7"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Little Victories",
-        "url": "https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ"
+        "name": "Love And Danger",
+        "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
       },
       "artists": [
         {
-          "name": "Chris Knight",
-          "url": "https://open.spotify.com/artist/2XJzOLYV2mF5K2JfUhJEK0"
+          "name": "Joe Ely",
+          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
         }
       ],
-      "duration_ms": 214253,
-      "name": "Nothing On Me",
-      "url": "https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS"
+      "duration_ms": 273533,
+      "name": "The Road Goes On Forever",
+      "url": "https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7"
     },
     {
       "added_at": "2026-08-21 04:01:33",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2026-08-21 04:01:33",
       "album": {
-        "name": "Love And Danger",
-        "url": "https://open.spotify.com/album/3TkfLkXQuxrwboYs9aM02A"
+        "name": "Little Victories",
+        "url": "https://open.spotify.com/album/2AQojGjLHM5zPgq9O5RpAQ"
       },
       "artists": [
         {
-          "name": "Joe Ely",
-          "url": "https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT"
+          "name": "Chris Knight",
+          "url": "https://open.spotify.com/artist/2XJzOLYV2mF5K2JfUhJEK0"
         }
       ],
-      "duration_ms": 273533,
-      "name": "The Road Goes On Forever",
-      "url": "https://open.spotify.com/track/6vqxih8RNVv2jV86hkE1e7"
+      "duration_ms": 214253,
+      "name": "Nothing On Me",
+      "url": "https://open.spotify.com/track/3FHzMLL7hgeGdzLf6J6ajS"
     },
     {
       "added_at": "2026-08-21 04:01:33",

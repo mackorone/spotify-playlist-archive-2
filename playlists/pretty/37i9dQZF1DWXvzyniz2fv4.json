@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158085,
+  "num_followers": 158077,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -1123,30 +1123,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "VIRADA DE CHAVE",
-        "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
-      },
-      "artists": [
-        {
-          "name": "OGermano",
-          "url": "https://open.spotify.com/artist/47Ugcwxj6p08XSn39xnGqs"
-        },
-        {
-          "name": "Douglas Lemos",
-          "url": "https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8"
-        },
-        {
-          "name": "Matchola",
-          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
-        }
-      ],
-      "duration_ms": 188470,
-      "name": "QUARTAS DE CINZA",
-      "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "Minissaia",
         "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
       },
@@ -1167,6 +1143,30 @@
       "duration_ms": 139714,
       "name": "Minissaia",
       "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "VIRADA DE CHAVE",
+        "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
+      },
+      "artists": [
+        {
+          "name": "OGermano",
+          "url": "https://open.spotify.com/artist/47Ugcwxj6p08XSn39xnGqs"
+        },
+        {
+          "name": "Douglas Lemos",
+          "url": "https://open.spotify.com/artist/2jKDUa4Or2jrPrvE1EIyp8"
+        },
+        {
+          "name": "Matchola",
+          "url": "https://open.spotify.com/artist/5FK5T4mGxkfedPwBdFnw1X"
+        }
+      ],
+      "duration_ms": 188470,
+      "name": "QUARTAS DE CINZA",
+      "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Pegando Carona",
+      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
         "name": "Moz\u00e3o",
         "url": "https://open.spotify.com/album/3ewfkr96B8kr94Eh5LLZnb"
       },
@@ -1259,26 +1279,6 @@
       "duration_ms": 160500,
       "name": "Moz\u00e3o",
       "url": "https://open.spotify.com/track/1nzoCEBiN09B6TJ82mC8TG"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Pegando Carona",
-      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
     },
     {
       "added_at": "2026-08-14 17:39:50",

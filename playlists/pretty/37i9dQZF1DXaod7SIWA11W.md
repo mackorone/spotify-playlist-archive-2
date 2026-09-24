@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: Marvin Sapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,273 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,290 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [He's Not Finished](https://open.spotify.com/track/5RIugJwYvISARrxEr2cVtH) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [He's Not Finished](https://open.spotify.com/album/16tA66otBVRH8ZkZvAaULO) | 8:00 |
-| 2 | [Thank You For Everything \(with Karen Clark\-Sheard\)](https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Thank You For Everything](https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka) | 6:36 |
+| 2 | [Thank You For Everything \(with Karen Clark\-Sheard\) \- Live](https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Thank You For Everything \(Live\)](https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka) | 6:36 |
 | 3 | [SOLDIER](https://open.spotify.com/track/2NmD5Hr101CZC5e7fqS7Fn) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Fire Choir](https://open.spotify.com/artist/1XFGDYQzhYgGCUToGJe6Tn) | [SOLDIER](https://open.spotify.com/album/44jOWpwxDWslB23CljxCEv) | 2:06 |
 | 4 | [Rap Like A Girl](https://open.spotify.com/track/2VYlRh24iPOF43M8iCq8of) | [LANELL GRANT](https://open.spotify.com/artist/5HEhEhQL9w4ofcJ9kURFNQ), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H), [Tylynn](https://open.spotify.com/artist/3WYqnlpg5qWHujbvTFqUMg), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Rap Like A Girl](https://open.spotify.com/album/1IKErIZIef73ccqKw2Qi2p) | 3:28 |
 | 5 | [NEED YOU \(feat\. Lecrae\)](https://open.spotify.com/track/0rsHiyVj4Jo919pZ4nYaYy) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [NEED YOU \(feat\. Lecrae\)](https://open.spotify.com/album/0Tbu8F2IMjm6QRtns8ONqp) | 2:31 |

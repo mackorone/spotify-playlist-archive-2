@@ -1,12 +1,12 @@
 {
   "description": "This is Earth, Wind & Fire. The essential tracks, all in one playlist.",
-  "num_followers": 376235,
+  "num_followers": 376264,
   "original_name": "This Is Earth, Wind & Fire",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAAAf6VIofAGBUvsIX/ZVrPB4",
+  "snapshot_id": "arHFAAAAAAD7jSyUXXqypLSkMY70NMr6",
   "tracks": [
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Earth, Wind & Fire Vol. 1",
+        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 235140,
+      "name": "Love Music",
+      "url": "https://open.spotify.com/track/4a5aC5C4MAfqHPGgVZhSrr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "September",
         "url": "https://open.spotify.com/album/11tbgwXv0FQSnqqt7iCfK4"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 256622,
       "name": "September",
       "url": "https://open.spotify.com/track/1fPI4n7mTvKOrhGRSaCbaU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Earth, Wind & Fire Vol. 1",
-        "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 235140,
-      "name": "Love Music",
-      "url": "https://open.spotify.com/track/4a5aC5C4MAfqHPGgVZhSrr"
     },
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Constellations: The Universe of Earth, Wind & Fire",
-        "url": "https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf"
+        "name": "Live in Rio",
+        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 141293,
-      "name": "Would You Mind",
-      "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
+      "duration_ms": 129639,
+      "name": "Brazilian Rhyme",
+      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live in Rio",
-        "url": "https://open.spotify.com/album/3gCFUQmjNT5kVnSIapZPvM"
+        "name": "Constellations: The Universe of Earth, Wind & Fire",
+        "url": "https://open.spotify.com/album/3aw9cxZ6RY9OscIP7rXalf"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
         }
       ],
-      "duration_ms": 129639,
-      "name": "Brazilian Rhyme",
-      "url": "https://open.spotify.com/track/21AnCQUMUBi2YzgHR4wU1M"
+      "duration_ms": 141293,
+      "name": "Would You Mind",
+      "url": "https://open.spotify.com/track/5wnRvlX2POTq4K8p3ssP7Y"
     },
     {
       "added_at": null,

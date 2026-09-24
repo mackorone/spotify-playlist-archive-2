@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music by independent artists and labels, featuring Vanita Leo. Updates every Wednesday.",
+  "description": "The best new music by independent artists and labels, featuring Lilly Yan. Updates every Wednesday.",
   "name": "Fresh Finds Latin",
   "tracks": [
     {
@@ -936,7 +936,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 144768,
       "name": "5JONES",
       "url": "https://open.spotify.com/track/6od2V8fFRSLGmCEkrbasjT"
@@ -8767,6 +8767,24 @@
     },
     {
       "album": {
+        "name": "cdmx<3",
+        "url": "https://open.spotify.com/album/2epyxPGTlRN93YG5Zkn0KN"
+      },
+      "artists": [
+        {
+          "name": "RICCII",
+          "url": "https://open.spotify.com/artist/1IrSGU6ocGNOCVhOcDB6yf"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "cdmx<3",
+      "url": "https://open.spotify.com/track/0OhMbGUtUNfu8GbTN6XUKl"
+    },
+    {
+      "album": {
         "name": "No Me Mir\u00e9is",
         "url": "https://open.spotify.com/album/5cbicHfesVjK9YOnNSILmk"
       },
@@ -10882,7 +10900,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 178208,
       "name": "Crimson",
       "url": "https://open.spotify.com/track/2mKEG9RpekxyT8ZyZ37gjx"
@@ -11226,6 +11244,24 @@
       "duration_ms": 234959,
       "name": "CUANDO ME CANSE DE MI",
       "url": "https://open.spotify.com/track/2FOHQIcqFT3et7rAioADgK"
+    },
+    {
+      "album": {
+        "name": "Cuando Me Miraste",
+        "url": "https://open.spotify.com/album/7b1xKkfztnTcnlPpz36re9"
+      },
+      "artists": [
+        {
+          "name": "Lilly Yan",
+          "url": "https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220653,
+      "name": "Cuando Me Miraste",
+      "url": "https://open.spotify.com/track/14yoakLXPR9F3mIaxNON8Q"
     },
     {
       "album": {
@@ -12808,7 +12844,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 156986,
       "name": "Delincuente",
       "url": "https://open.spotify.com/track/1Gkg90MCKQ90j3IezifUzJ"
@@ -14270,6 +14306,24 @@
       "duration_ms": 167655,
       "name": "Dique Hollywood",
       "url": "https://open.spotify.com/track/4EHxgwoZOLZQTELBWlVk2a"
+    },
+    {
+      "album": {
+        "name": "DIRTY CHAI",
+        "url": "https://open.spotify.com/album/2fcNUgbsxww6LujlLrWpaO"
+      },
+      "artists": [
+        {
+          "name": "Rigoazulado",
+          "url": "https://open.spotify.com/artist/1D79GNF7t5kzqprHFZmBLx"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154792,
+      "name": "DIRTY CHAI",
+      "url": "https://open.spotify.com/track/5XOK339YkHyVQ5UaSPJ4lD"
     },
     {
       "album": {
@@ -18425,6 +18479,24 @@
     },
     {
       "album": {
+        "name": "Estabas ah\u00ed !",
+        "url": "https://open.spotify.com/album/10K2z1MQVTmem89l3kCltt"
+      },
+      "artists": [
+        {
+          "name": "CASS",
+          "url": "https://open.spotify.com/artist/75lS7zzfEeyaAqD44PO7vw"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123789,
+      "name": "Estabas ah\u00ed !",
+      "url": "https://open.spotify.com/track/75SthTe4CLoa5wOEzDN6H9"
+    },
+    {
+      "album": {
         "name": "Estaci\u00f3n Central",
         "url": "https://open.spotify.com/album/3OqxDuxOTVgWILNBfzo59n"
       },
@@ -22294,6 +22366,24 @@
       "duration_ms": 231595,
       "name": "I Am Evil",
       "url": "https://open.spotify.com/track/3rGi1IADWKUsJQUhjxmAJr"
+    },
+    {
+      "album": {
+        "name": "I can fix him",
+        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184893,
+      "name": "I can fix him",
+      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
     },
     {
       "album": {
@@ -30734,7 +30824,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 293637,
       "name": "Mi Vicio Tu",
       "url": "https://open.spotify.com/track/5kxc0PvTfRa8w8gNgNqUYg"
@@ -30774,6 +30864,32 @@
       "duration_ms": 281633,
       "name": "Mi \u00daltimo Adi\u00f3s",
       "url": "https://open.spotify.com/track/1RrXAK6MWeXtiunKhKHky9"
+    },
+    {
+      "album": {
+        "name": "MIA / Oyster Perpetual",
+        "url": "https://open.spotify.com/album/0gKX2tMNxKSSoGEeJk2jUA"
+      },
+      "artists": [
+        {
+          "name": "Planta Industrial",
+          "url": "https://open.spotify.com/artist/2vfT28l8lKF4o9HuVkJ3Pw"
+        },
+        {
+          "name": "aka the darknight",
+          "url": "https://open.spotify.com/artist/3yb2AwODgJ3ug0l3jKcD5j"
+        },
+        {
+          "name": "Saso",
+          "url": "https://open.spotify.com/artist/7z3W8OunO3RH0quodR8Zsu"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111746,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/1jA2f3e1pkBIIcmLEwu2J6"
     },
     {
       "album": {
@@ -39676,7 +39792,7 @@
       ],
       "date_added": "2026-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 144000,
       "name": "P\u00e1lpitos",
       "url": "https://open.spotify.com/track/0Ul68G3EApaALwWqOeB4nl"
@@ -41474,7 +41590,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 175068,
       "name": "resaca",
       "url": "https://open.spotify.com/track/4DlpTcUY0Jenro4YSbZLWT"
@@ -42344,6 +42460,28 @@
       "duration_ms": 158058,
       "name": "Safriska",
       "url": "https://open.spotify.com/track/6W3AEZXGVyismUMcP6x4X0"
+    },
+    {
+      "album": {
+        "name": "SAGITARIO",
+        "url": "https://open.spotify.com/album/5zl0wPNfQRx7Yv0Y6U1sQA"
+      },
+      "artists": [
+        {
+          "name": "JZTA",
+          "url": "https://open.spotify.com/artist/2TSyfVDynjyjr2hkFUOTHI"
+        },
+        {
+          "name": "Barvc",
+          "url": "https://open.spotify.com/artist/4KHt6kuWKeWtW3igsAuKe1"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "SAGITARIO",
+      "url": "https://open.spotify.com/track/29T8YICghxSIzZJZM89etG"
     },
     {
       "album": {
@@ -46626,7 +46764,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 167000,
       "name": "Te amo,",
       "url": "https://open.spotify.com/track/4lIvdNUYKgwMzUZeRZCMlc"
@@ -48056,6 +48194,24 @@
       "duration_ms": 171149,
       "name": "Todas las Nubes",
       "url": "https://open.spotify.com/track/5vMs9SODiQdFHxkIfy5i1W"
+    },
+    {
+      "album": {
+        "name": "Cruise Control",
+        "url": "https://open.spotify.com/album/3AHl7gMUlinkiKiu1PpaGC"
+      },
+      "artists": [
+        {
+          "name": "Gabriella Olivo",
+          "url": "https://open.spotify.com/artist/16TtQYVADdkb4Ay75wCVhO"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227320,
+      "name": "Todas mis amigas",
+      "url": "https://open.spotify.com/track/1pJc6Pg1T13vc1mml1itJb"
     },
     {
       "album": {
@@ -52898,7 +53054,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 173225,
       "name": "WONDERGIRL",
       "url": "https://open.spotify.com/track/22oBPTwFtF8NED536XveOd"
@@ -53018,7 +53174,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 141215,
       "name": "Xclusiva",
       "url": "https://open.spotify.com/track/1SSPi9BhhaIS1SlVkHXg1y"
@@ -53272,6 +53428,24 @@
       "duration_ms": 197566,
       "name": "Ya No Te Quiero",
       "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
+    },
+    {
+      "album": {
+        "name": "Ya Pa' Qu\u00e9",
+        "url": "https://open.spotify.com/album/1wScP9cz7K53o4FLlFiWFk"
+      },
+      "artists": [
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Ya Pa' Qu\u00e9",
+      "url": "https://open.spotify.com/track/1qxporaSGKmsCdERqT50YD"
     },
     {
       "album": {

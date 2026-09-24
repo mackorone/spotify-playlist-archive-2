@@ -4,7 +4,7 @@
 
 > \#fyp songs voor je playlist\. Cover: Ilse DeLange
 
-929 songs - 1 day 22 hr 34 min
+930 songs - 1 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -673,6 +673,7 @@
 | [Rain Down on Me](https://open.spotify.com/track/4xv2LLbYliRmDWJtPhA1Ji) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If](https://open.spotify.com/album/4cdcTKc4r7vC20bWlMgyfp) | 4:07 | 2026-01-19 | 2026-01-30 |
 | [Rainbow in the Sky](https://open.spotify.com/track/6L931X4LbkLbvOpJp04YbE) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [May the Forze Be with You](https://open.spotify.com/album/4WMailt3JxCYn1RnoiAQAP) | 3:27 | 2024-06-24 | 2026-03-05 |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-02-13 | 2026-06-09 |
+| [Rapido](https://open.spotify.com/track/00WZWFbf7B5uGDIdWw5OmE) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Rapido](https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF) | 2:47 | 2026-09-23 |  |
 | [Rare flex](https://open.spotify.com/track/6gIoKG5cvpoQBfdbNToMUQ) | [Cherr](https://open.spotify.com/artist/4zEBX90cszl8dwxFf0sU4R) | [Rare flex](https://open.spotify.com/album/2nZO4WRMXJwmj2vt1roMsj) | 1:48 | 2023-12-27 | 2024-04-09 |
 | [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-21 | 2025-02-11 |
 | [Rein Me In \(with Olivia Dean\)](https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [People Watching \(Deluxe Edition\)](https://open.spotify.com/album/4gwfCCNRxAB1P62hlDCelM) | 5:39 | 2026-02-19 | 2026-04-10 |
@@ -724,7 +725,7 @@
 | [She Know What She Wanted \- Jersey Club Remix Slowed](https://open.spotify.com/track/4ZTYSM6nsWjVAqf9BOY7qU) | [Godard](https://open.spotify.com/artist/4n1rqkv1XAMV9cnTSm07pY), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [She Know What She Wanted \(Jersey Club Remix Slowed\)](https://open.spotify.com/album/3ZdBBKZ7ExFWy1SsXTybEb) | 2:13 | 2024-03-18 | 2024-04-06 |
 | [She Knows \(feat\. Amber Coffman & Cults\)](https://open.spotify.com/track/0ceuoClMDzpyl6I6OkGgtg) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Born Sinner](https://open.spotify.com/album/6FhFyGMPDbGjXXxXukKcnq) | 4:56 | 2024-10-03 | 2024-12-04 |
 | [Should I Stay or Should I Go \- Remastered](https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 3:08 | 2025-12-05 | 2026-03-10 |
-| [Shoulder Lean](https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Shoulder Lean](https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl) | 2:34 | 2026-02-26 |  |
+| [Shoulder Lean](https://open.spotify.com/track/3FMy6QQ9L7DIKRwXeXvzpP) | [Siggy & D1ns](https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm), [GP UIT G](https://open.spotify.com/artist/4dgbnJmnTFDiJiKloaWH2p), [Rijck](https://open.spotify.com/artist/0TzY5bHHF5sZsm1XV5UCzZ) | [Shoulder Lean](https://open.spotify.com/album/2LUOPrx3vuEzFGMqZeR0Hl) | 2:34 | 2026-02-26 | 2026-09-24 |
 | [Show Me Love](https://open.spotify.com/track/5ITV0zqzjOYfFWpW0xBmRa) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Show Me Love](https://open.spotify.com/album/4gyYKUIAOEcP50RM1Sjzj6) | 2:56 | 2025-02-27 | 2025-10-17 |
 | [Si Maatje](https://open.spotify.com/track/2xHlin7fgfTCSOlpBgdXiP) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Anthony Kruijver](https://open.spotify.com/artist/30AN6Y4C5ucThY58PfZAjn) | [Si Maatje](https://open.spotify.com/album/2LBFqJ971pYnPLMbdjhuCE) | 2:30 | 2024-08-01 | 2025-05-09 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-02 | 2024-02-09 |

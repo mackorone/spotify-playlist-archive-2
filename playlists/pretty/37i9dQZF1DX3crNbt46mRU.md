@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Kontra K, Shakira, GIMS, Travis Scott, EAZ, Miley Cyrus & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,503 likes - 98 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,499 likes - 98 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 38 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 39 | [Off](https://open.spotify.com/track/3Wj2ewc5A5Jy0nAdCwBwss) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Off](https://open.spotify.com/album/7l8a3chAnfA9ypZRO1hgIu) | 2:12 |
 | 40 | [No Way I'm Giving Up](https://open.spotify.com/track/35GQvyOFRohoTeb5jmYcZd) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [No Way I'm Giving Up](https://open.spotify.com/album/09cwqDdGJH7Lwe3cfvjHwJ) | 2:25 |
-| 41 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 41 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 42 | [un jour finir au paradis](https://open.spotify.com/track/0iFrrKCmI7xUJeqaW3l6Tp) | [Cinnay](https://open.spotify.com/artist/1BSdQVGpP6JeDvpDUkCRFm) | [un jour finir au paradis](https://open.spotify.com/album/43gRwrmHWGrqCPFvSOLCRO) | 2:28 |
 | 43 | [Muif](https://open.spotify.com/track/3C1vWaQCZViyIt1fBjUIrD) | [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH), [Sulaya](https://open.spotify.com/artist/2p9eN32BWSBDNRPZuHzV4Z), [Leduc](https://open.spotify.com/artist/30YqOJ5A8rWyKSg2eeECU8), [Kwest](https://open.spotify.com/artist/6lz0EM7hW090qudBjd7q7K) | [Torb](https://open.spotify.com/album/1U0SZDpmfkry2prckIdblo) | 3:36 |
 | 44 | [29 grad](https://open.spotify.com/track/61YEx2pliYbXovYldVHJPp) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR), [Florida Juicy](https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L) | [LAUT SEIN \(IMMER\)](https://open.spotify.com/album/2bFYdtN8AhzRn6qAdZh8ur) | 2:00 |

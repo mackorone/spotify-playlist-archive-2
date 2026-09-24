@@ -917,6 +917,24 @@
     },
     {
       "album": {
+        "name": "20 Exitos",
+        "url": "https://open.spotify.com/album/404XnTj9uwthQP2Ryc4hsH"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142903,
+      "name": "Ingratos Ojos Mios",
+      "url": "https://open.spotify.com/track/5zZ9Q1N0MnrIc9BNkBOQua"
+    },
+    {
+      "album": {
         "name": "Corridos Famosos",
         "url": "https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu"
       },

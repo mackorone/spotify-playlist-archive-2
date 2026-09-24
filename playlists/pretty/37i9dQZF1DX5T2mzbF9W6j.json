@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113069,
+  "num_followers": 113081,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,26 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
         "name": "Nareszcie",
         "url": "https://open.spotify.com/album/70G6XGkSM2CWedDGAS22Dm"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 182339,
       "name": "Nareszcie",
       "url": "https://open.spotify.com/track/1p4M9If0oTyeUsGsmAfmAI"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "AGUA",
-        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        }
-      ],
-      "duration_ms": 191107,
-      "name": "AGUA",
-      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
+        "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
+        "url": "https://open.spotify.com/album/1kRRo9t5kgBQTvGnDqBVCR"
+      },
+      "artists": [
+        {
+          "name": "Sarsa",
+          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
+        }
+      ],
+      "duration_ms": 170402,
+      "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
+      "url": "https://open.spotify.com/track/4WYmfMKeHod1N8Ex321lER"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
         "name": "Privacy",
         "url": "https://open.spotify.com/album/3Y8tCScJlvlyZUhQdPmqSU"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 194656,
       "name": "Privacy",
       "url": "https://open.spotify.com/track/4uyekcXHQgFXCWUD3Z3hVY"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
-        "url": "https://open.spotify.com/album/1kRRo9t5kgBQTvGnDqBVCR"
-      },
-      "artists": [
-        {
-          "name": "Sarsa",
-          "url": "https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx"
-        }
-      ],
-      "duration_ms": 170402,
-      "name": "Czy b\u0119dziemy si\u0119 pami\u0119ta\u0107?",
-      "url": "https://open.spotify.com/track/4WYmfMKeHod1N8Ex321lER"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -711,26 +711,6 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
-        "name": "Chcia\u0142am Ciebie wi\u0119cej",
-        "url": "https://open.spotify.com/album/77AYR4UvkJWArp6WxxClOS"
-      },
-      "artists": [
-        {
-          "name": "Roxie",
-          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
-        },
-        {
-          "name": "White 2115",
-          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
-        }
-      ],
-      "duration_ms": 186187,
-      "name": "Chcia\u0142am Ciebie wi\u0119cej",
-      "url": "https://open.spotify.com/track/2cym1s8XR4Z5b8qPCRhT1g"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
         "name": "na zab\u00f3j",
         "url": "https://open.spotify.com/album/7MINDF0PK3Jj9Rp2yJAPaj"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 225000,
       "name": "na zab\u00f3j",
       "url": "https://open.spotify.com/track/4s6TSLuS5vJv1tmSSSuCXk"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
+        "name": "Chcia\u0142am Ciebie wi\u0119cej",
+        "url": "https://open.spotify.com/album/77AYR4UvkJWArp6WxxClOS"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        },
+        {
+          "name": "White 2115",
+          "url": "https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd"
+        }
+      ],
+      "duration_ms": 186187,
+      "name": "Chcia\u0142am Ciebie wi\u0119cej",
+      "url": "https://open.spotify.com/track/2cym1s8XR4Z5b8qPCRhT1g"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -943,6 +943,22 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
+        "name": "DZI\u015a SOBIE DAM",
+        "url": "https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP"
+      },
+      "artists": [
+        {
+          "name": "Julia Wieniawa",
+          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
+        }
+      ],
+      "duration_ms": 167920,
+      "name": "DZI\u015a SOBIE DAM",
+      "url": "https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
         "name": "Terapia dla par",
         "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 241395,
       "name": "Terapia dla par",
       "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "DZI\u015a SOBIE DAM",
-        "url": "https://open.spotify.com/album/2pqlWiXuaQM6gD05K2e3EP"
-      },
-      "artists": [
-        {
-          "name": "Julia Wieniawa",
-          "url": "https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD"
-        }
-      ],
-      "duration_ms": 167920,
-      "name": "DZI\u015a SOBIE DAM",
-      "url": "https://open.spotify.com/track/5xLyZIFsmew0xUhEJQYNJj"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
+      },
+      "artists": [
+        {
+          "name": "Kinga Wo\u0142oszyn",
+          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
         "name": "Daj mi zna\u0107",
         "url": "https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 166315,
       "name": "Wo\u0142am",
       "url": "https://open.spotify.com/track/5M0i5vz49eMK6iMKJZul1y"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
-      },
-      "artists": [
-        {
-          "name": "Kinga Wo\u0142oszyn",
-          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
     },
     {
       "added_at": "2026-09-18 08:00:22",

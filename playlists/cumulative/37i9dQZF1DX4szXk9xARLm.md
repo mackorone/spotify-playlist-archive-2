@@ -4,7 +4,7 @@
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-197 songs - 10 hr 51 min
+198 songs - 10 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [أنا رجعت](https://open.spotify.com/track/3QncHZbe3Y03DOb30PJMtt) | [Cyrine Abdel Nour](https://open.spotify.com/artist/5cmJD8Jj6XTpaEpcJAXDXj) | [أنا رجعت](https://open.spotify.com/album/77DthSlxlSkUXVxnvFBcLv) | 3:02 | 2024-03-10 | 2025-03-04 |
 | [أنا مش صوتك](https://open.spotify.com/track/2so4YlyW2pJ2hpkB8mDca3) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [أنا مش صوتك](https://open.spotify.com/album/1iU9abXK45PvgLdKkU2axL) | 3:07 | 2024-03-10 | 2024-04-19 |
 | [أهلاً يا عصابة](https://open.spotify.com/track/01f6PEvG17oW71HTwihsOQ) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [أهلاً يا عصابة](https://open.spotify.com/album/67t7ewVf6XgYiRMGU5oEIc) | 3:21 | 2024-03-12 | 2025-02-28 |
-| [إحساسي \- من مسلسل نفس](https://open.spotify.com/track/4ESpKLv5VIWpMTOc6a93Lw) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [إحساسي \(من مسلسل نفس\)](https://open.spotify.com/album/0udL0OEeCCNxKWxavW3I0L) | 3:16 | 2025-03-03 |  |
+| [إحساسي \- من مسلسل نفس](https://open.spotify.com/track/4ESpKLv5VIWpMTOc6a93Lw) | [Abeer Nehme](https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF) | [إحساسي \(من مسلسل نفس\)](https://open.spotify.com/album/0udL0OEeCCNxKWxavW3I0L) | 3:16 | 2025-03-03 | 2026-09-24 |
 | [ابن ابوه](https://open.spotify.com/track/3QBNk0pRaYpWpKdM6RKXaf) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [ابن ابوه](https://open.spotify.com/album/079BNFRCtr3nPhRQpiHqJl) | 3:45 | 2024-03-10 |  |
 | [اتنين بمقام ملايين](https://open.spotify.com/track/0TchhsYsdtIsY6HCJ0YQWL) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [اتنين بمقام ملايين](https://open.spotify.com/album/19CKrkJEOEKlPHId6Sex76) | 2:53 | 2024-03-10 |  |
 | [اجمد يا واد](https://open.spotify.com/track/38SE3SXYHohxhWCc9vMYaV) | [Reham Abd Elhakim](https://open.spotify.com/artist/25hOfgdazK38N95tVZUZdn) | [اجمد يا واد](https://open.spotify.com/album/7kqXbWizNOMC9cfp5hDz49) | 3:29 | 2026-03-06 | 2026-05-10 |
@@ -139,6 +139,7 @@
 | [تتر بداية مسلسل حضرة المتهم ابى](https://open.spotify.com/track/5COgLbmTHp3B8yK0jNwM4Q) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0) | [تتر بداية مسلسل حضرة المتهم ابى](https://open.spotify.com/album/57XMDkPtykpcx6STtVMPlh) | 3:54 | 2026-02-13 |  |
 | [تتر بداية مسلسل يتربى فى عزو](https://open.spotify.com/track/3b2VttERPyva2NxrG6F58Z) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [تتر بداية مسلسل يتربى فى عزو](https://open.spotify.com/album/5VeMIc7QXRG0lXrU0wqFxu) | 3:42 | 2026-02-10 |  |
 | [تتر مسلسل اعلى نسبة مشاهدة](https://open.spotify.com/track/4Iiq2NVD8Y3bhZ6ArbH9JE) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [تتر مسلسل اعلى نسبة مشاهدة](https://open.spotify.com/album/1vnWziMG73K1Bg2N37t43k) | 3:15 | 2024-03-21 | 2025-03-04 |
+| [تتر مسلسل السبع وصايا](https://open.spotify.com/track/5zGc2WtsJZXBsbqaCKBDtW) | [Hesham Nazih](https://open.spotify.com/artist/5ZAbcf5tK5uteBz62g4boT) | [The Seven Commandments \(الموسيقي التصويرية للمسلسل\)](https://open.spotify.com/album/0bhOn7yz8wRLvxyQZaTRbO) | 3:07 | 2026-07-10 |  |
 | [تتر مسلسل صدفة](https://open.spotify.com/track/12F6rNixnmVNXqqPaogMgj) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha), [اوكا](https://open.spotify.com/artist/3iBCuclUWFl1ozuyqphlyK), [Reham Haggag](https://open.spotify.com/artist/2Z98zeSBR1FrMBFXry65tV) | [تتر مسلسل صدفة](https://open.spotify.com/album/15jNREV1M2MUlVs0AjW3rO) | 3:15 | 2024-03-12 | 2025-02-28 |
 | [تحية \- من مسلسل لعبة وقلبت بجد](https://open.spotify.com/track/47ZPOStAXyjOvmO8MNPyGQ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [تحية \(من مسلسل لعبة وقلبت بجد\)](https://open.spotify.com/album/4EQMImTVpj4VJrd5rdFjRk) | 2:24 | 2026-02-18 | 2026-08-10 |
 | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/track/1xl7SZhnqXn5yordCRTqdA) | [Yara Mohamed](https://open.spotify.com/artist/29nvzTxUgaF2Hjka84IgkD) | [تربية حيه \(تتر مسلسل علي كلاي\)](https://open.spotify.com/album/5DtWvEsLjdEV049XMAhElr) | 3:35 | 2026-02-26 |  |

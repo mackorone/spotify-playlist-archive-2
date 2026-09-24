@@ -1,13 +1,29 @@
 {
-  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: go!go!vanillas *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/349031\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
-  "num_followers": 256311,
+  "description": "\u4eca\u9031\u3082\u8a71\u984c\u306e\u65b0\u66f2\u3092\u6700\u901f\u3067\u3002 Cover: go!go!vanillas *\ud83d\udc49 <a href=\"https://spice.eplus.jp/articles/349194\">\u9023\u52d5\u8a18\u4e8b</a>\u3092SPICE\u3067\u30c1\u30a7\u30c3\u30af!",
+  "num_followers": 256323,
   "original_name": "New Music Wednesday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOGLsUaLlJPiahrKLwD2d2XUpn1s",
+  "snapshot_id": "AAAAACfIsyfGH7AapwSZc38ypuaaAx8H",
   "tracks": [
+    {
+      "added_at": "2026-09-23 05:06:21",
+      "album": {
+        "name": "New Music Wednesday [Podcast Edition]",
+        "url": "https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E"
+      },
+      "artists": [
+        {
+          "name": "New Music Wednesday [Podcast Edition]",
+          "url": "https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E"
+        }
+      ],
+      "duration_ms": 2812261,
+      "name": "2026/09/23 go!go!vanillas\u304c\u65b0\u66f2\u3092\u30ea\u30ea\u30fc\u30b9\uff01\u7d62\u9999\u3078\u306e\u30ed\u30f3\u30b0\u30a4\u30f3\u30bf\u30d3\u30e5\u30fc\u3082\u914d\u4fe1\uff01Number_i\u306e\u30cb\u30e5\u30fc\u30ea\u30ea\u30fc\u30b9\u3001\u30e8\u30eb\u30b7\u30ab\u306en-buna\u304c\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9\u3057\u305fJeremy Quartus\u306e\u65b0\u66f2\u3082\uff01",
+      "url": "https://open.spotify.com/episode/7AgPvLNjZLEAC7F8ObWcgH"
+    },
     {
       "added_at": "2026-09-22 19:48:39",
       "album": {
@@ -604,8 +620,8 @@
           "url": "https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 173419,
+      "name": "NANI ?",
       "url": "https://open.spotify.com/track/7LcQOLTYfXzDAiyg83A3tk"
     },
     {
@@ -1120,8 +1136,8 @@
           "url": "https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 232129,
+      "name": "Leap",
       "url": "https://open.spotify.com/track/3SVKibxr5AZrClYsIe3liA"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,580 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,666 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 3 | [Marcas de Guerra \(Ao Vivo\)](https://open.spotify.com/track/0LkQAqHoDAyrvgzr2Eoxr1) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [Marcas de Guerra \(Ao Vivo\)](https://open.spotify.com/album/0YXXMWUK05MNZf0WqFHcJd) | 4:41 |
 | 4 | [É Profético \- Ao Vivo](https://open.spotify.com/track/45XWnKaLSCpKs43L7MXkzD) | [Vitória Souza](https://open.spotify.com/artist/07tsf3FXOQCLN2djNLUT2j), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [É Profético \(Ao Vivo\)](https://open.spotify.com/album/7uZof9NMLKgKI1mhctvnNV) | 7:30 |
 | 5 | [Santo Pra Sempre \(Voz e Violão Ao Vivo\)](https://open.spotify.com/track/1ZZ2E5hiIyhwz8QS8lkIMy) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Santo Pra Sempre \(Voz e Violão Ao Vivo\)](https://open.spotify.com/album/1xnDCwqOk0fB8VRY9nchRL) | 4:08 |
-| 6 | [Se Você Estivesse Aqui](https://open.spotify.com/track/50AXYjbkx5m9FKAkEwoOIT) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Paixão & Devoção Vol\. 5 \(Acústico\)](https://open.spotify.com/album/3qukpcOQrVB7iwDBYAUXoo) | 3:28 |
+| 6 | [Se Você Estivesse Aqui](https://open.spotify.com/track/50AXYjbkx5m9FKAkEwoOIT) | [Thamires Garcia](https://open.spotify.com/artist/00ZfdcYfOCXeygtGhbvy4w) | [Paixão & Devoção Vol\. 5](https://open.spotify.com/album/3qukpcOQrVB7iwDBYAUXoo) | 3:28 |
 | 7 | [Em Teu Altar \- Ao Vivo](https://open.spotify.com/track/4mgV4jC6DEDBZeTIYac1hK) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Sessão Adoração \(Ao Vivo\)](https://open.spotify.com/album/5U3nsNjpF2lz84koEErlHz) | 5:33 |
 | 8 | [Carpinteiro \- Ao Vivo](https://open.spotify.com/track/48hgIGJpnTlzVhnXJxWrW5) | [Nilson Junior](https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny) | [Carpinteiro \(Ao Vivo\)](https://open.spotify.com/album/4Kl43omHI4eKNg7iDCDqsX) | 4:10 |
 | 9 | [O Céu Não Esqueceu \- Ao Vivo](https://open.spotify.com/track/1IjrTnZoWUKbQczKDMUAga) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Profeticamente \(Ao Vivo\)](https://open.spotify.com/album/7khJAZwcWhmlZ9Xgyk9RjE) | 5:00 |

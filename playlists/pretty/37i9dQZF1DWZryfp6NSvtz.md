@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: South Arcade
 
-[Spotify](https://open.spotify.com/user/spotify) - 954,751 likes - 191 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,032 likes - 191 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 26 | [Come Back, I Miss You \(Soundtrack\)](https://open.spotify.com/track/66r3ghK8wAXHFwV9gFv8MC) | [Trueblood](https://open.spotify.com/artist/58PtHfnVLB3mbDD5z2F5DG) | [First Impressions](https://open.spotify.com/album/4iAaC2rAVa4oQ7Xuse7SlV) | 2:49 |
 | 27 | [Pinesol](https://open.spotify.com/track/4LVILYOTc3CrGnyuDibZ3N) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [Pinesol](https://open.spotify.com/album/6as8r11PG29Y6jHyIEdR0C) | 3:31 |
 | 28 | [Gettin’ Down](https://open.spotify.com/track/04BBZ3w0c3DnmX5pnFppOe) | [C.O.F.F.I.N](https://open.spotify.com/artist/0YSaA3PB82JjyHSPq30lO3) | [Gettin' Down](https://open.spotify.com/album/0d8RE5aCnd5BzxkbMYnXc1) | 2:26 |
-| 29 | [My Madness](https://open.spotify.com/track/2vTtzVu3ZTKep443T63puQ) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky?](https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A) | 3:33 |
+| 29 | [My Madness](https://open.spotify.com/track/2vTtzVu3ZTKep443T63puQ) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky? \(Deluxe Edition\)](https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A) | 3:33 |
 | 30 | [Connection](https://open.spotify.com/track/2siQpfSw1m3V2BezBGRG58) | [Modern Cult](https://open.spotify.com/artist/50pL5o4gSp21B1hbAmwyRY) | [Connection](https://open.spotify.com/album/2UWz246xUFUMUvjvQIVPl1) | 4:13 |
 | 31 | [I Am Of Course](https://open.spotify.com/track/653sip0zLVKhfUgnc2BAYL) | [Winyah](https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG) | [Right Here, Right Now](https://open.spotify.com/album/0Xd4UED1htvc8sZMfNE5T9) | 3:24 |
 | 32 | [Sorry Much](https://open.spotify.com/track/31kc2aRTsb1TwByv2Zd3RC) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Loving and Losing](https://open.spotify.com/album/3vq2VF9ZyCVqnE7Apciczd) | 2:54 |

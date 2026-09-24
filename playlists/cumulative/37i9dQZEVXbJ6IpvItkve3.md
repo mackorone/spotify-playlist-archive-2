@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-1,502 songs - 3 day 12 hr 56 min
+1,503 songs - 3 day 12 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,7 +489,7 @@
 | [Savior \- Interlude](https://open.spotify.com/track/5PPUw4Xo3Hz6rl4GpBfd3c) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 2:32 | 2022-05-14 | 2022-05-16 |
 | [Say Don't Go \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/4NioO5R9sHEZh4cGzMHyNt) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 4:39 | 2023-10-28 | 2023-11-01 |
 | [Search & Rescue](https://open.spotify.com/track/7aRCf5cLOFN1U7kvtChY1G) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Search & Rescue](https://open.spotify.com/album/67WUCOjyl44d8fAFzHONjW) | 4:32 | 2023-04-08 | 2023-04-19 |
-| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-04-13 |  |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-04-13 | 2026-09-24 |
 | [Self Aware](https://open.spotify.com/track/3vuTjROEdeCq8V3c1cvlxJ) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/5XhB5MzMhzQ6F0XPVGC5DE) | 3:00 | 2026-07-14 | 2026-07-20 |
 | [Set Me Free](https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [Set Me Free](https://open.spotify.com/album/08DdXBJAEq7TPj0EbkhJK5) | 2:59 | 2021-05-21 | 2021-06-01 |
 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:03 | 2025-04-27 |  |
@@ -656,7 +656,7 @@
 | [אבות ובנים](https://open.spotify.com/track/1Nq92xyQrCzhHGuZSRtAcO) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אביתר בנאי](https://open.spotify.com/album/1uiw4JLkam9MJiHN7U12Z2) | 4:20 | 2021-04-16 | 2021-04-17 |
 | [אבי הטחול](https://open.spotify.com/track/0rVTBbyS7Etl0lI3bpwo0h) | [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG) | [אבי הטחול](https://open.spotify.com/album/0tENdDkqnV0PiD6OYmn5f3) | 3:31 | 2026-06-26 |  |
 | [אביצ'י](https://open.spotify.com/track/4DAwc04XQCOGDDHZ6trCbK) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [אופוריה](https://open.spotify.com/album/7bukWWwRd94p8xLUyNXhVs) | 3:08 | 2026-06-06 | 2026-09-11 |
-| [אבל את](https://open.spotify.com/track/5ogS9Gv62PA9a8h3nL2bEX) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אבל את](https://open.spotify.com/album/7nVbLJZz5SZXuXccAXnfRr) | 3:49 | 2026-07-02 |  |
+| [אבל את](https://open.spotify.com/track/5ogS9Gv62PA9a8h3nL2bEX) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU), [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [אבל את](https://open.spotify.com/album/7nVbLJZz5SZXuXccAXnfRr) | 3:49 | 2026-07-02 | 2026-09-24 |
 | [אגרוף](https://open.spotify.com/track/5liIuoKq6hJZOheB95eTCt) | [Eden Ben Zaken](https://open.spotify.com/artist/2eUKkTNZsIuZzV95DM0cbt) | [מועבט](https://open.spotify.com/album/2ZgkEHTdjFkDHgM1yBpVf0) | 3:09 | 2025-09-24 | 2025-12-19 |
 | [אדם שבור](https://open.spotify.com/track/3hcA78977VXSLmAsVE7BWE) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אדם שבור](https://open.spotify.com/album/0FnEdKN56xe3R8SKeALD0F) | 3:30 | 2026-01-15 | 2026-02-21 |
 | [אהבה](https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:25 | 2023-06-16 | 2025-01-06 |
@@ -664,7 +664,7 @@
 | [אהבה חולה](https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח](https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci) | 3:02 | 2022-12-26 | 2024-02-18 |
 | [אהבה חולה](https://open.spotify.com/track/5fKgzl3NkOSBwVdsYRqxdd) | [הכוכב הבא](https://open.spotify.com/artist/5vzETUgvElb2xfKJ1e0VHN), [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [הכוכב הבא לאירוויזיון 2026 \- פרק 17](https://open.spotify.com/album/7FCpr3ZUUc5WBHYPjSQJzk) | 3:17 | 2026-01-03 | 2026-02-03 |
 | [אהבה קצרה](https://open.spotify.com/track/2JgH4aj4Afie8gZa4T6vmG) | [Meir Banai](https://open.spotify.com/artist/3u8toIYNbUIHmhGjEZRuQU) | [וביניהם](https://open.spotify.com/album/18ckY8CdBUqkrJLmRdRUgU) | 3:48 | 2023-04-29 | 2023-05-02 |
-| [אהבה ראשונה](https://open.spotify.com/track/6JPlSTk7mpboMx3VRxiFTC) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [שירים בפתקים](https://open.spotify.com/album/3W7rpLDKrMVpNR0UwINLb2) | 3:01 | 2026-02-10 | 2026-09-23 |
+| [אהבה ראשונה](https://open.spotify.com/track/6JPlSTk7mpboMx3VRxiFTC) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [שירים בפתקים](https://open.spotify.com/album/3W7rpLDKrMVpNR0UwINLb2) | 3:01 | 2026-02-10 |  |
 | [אהבות ליום אחד](https://open.spotify.com/track/5N9I2p1Z9K4hi6Rs6FmgNF) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn) | [מעל המים](https://open.spotify.com/album/6Q3omzaKTo5xT39LJqUEfb) | 3:05 | 2026-01-25 | 2026-01-27 |
 | [אהבת אותי](https://open.spotify.com/track/1hPyp13B8rWWxAduMcPsdM) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [רובים ותלתלים](https://open.spotify.com/album/2IUqqrHhooIUMDoSHvSknW) | 2:44 | 2025-05-31 | 2025-07-20 |
 | [אהבת השם](https://open.spotify.com/track/0rNhXjwIf1748jqeHo3n6z) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [חלק א' \- הוויה](https://open.spotify.com/album/4fZUiRvlUJrLzW9WNvocrV) | 2:15 | 2026-02-25 |  |
@@ -1377,6 +1377,7 @@
 | [קוצים](https://open.spotify.com/track/3WyvZJGxtORVdtOkNyHBJp) | [Aviv Geffen](https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K), [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1) | [פסיפס](https://open.spotify.com/album/4ofwgmi8ZfznTiuQxZuSI9) | 3:40 | 2023-04-26 | 2023-04-28 |
 | [קוקוריקו \(אל תדליקו אותי\)](https://open.spotify.com/track/4NBMvQX5yM05Mgznqw0zXR) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [תוך כדי תנועה](https://open.spotify.com/album/1Q6zthp8EbA68Low9tgD1G) | 3:32 | 2021-09-26 | 2021-11-10 |
 | [קח אותי לתאילנד](https://open.spotify.com/track/7qzKiAkASRzrb9EXZ0HXcN) | [Avi Aburomi](https://open.spotify.com/artist/6vAJpFtiQ7xPtkArtCnHfr) | [קח אותי לתאילנד](https://open.spotify.com/album/2Eg18KQt1RZYeA84Z496o7) | 2:49 | 2026-05-23 | 2026-05-30 |
+| [קילומטר קדימה](https://open.spotify.com/track/0YYA86n3btGsJW17IFuJAi) | [רואי אדם](https://open.spotify.com/artist/0UaHRQkfX3cJ90fsXYvjjG) | [קילומטר קדימה](https://open.spotify.com/album/4rHvcs2xU0NsjZaQ3dr7UF) | 2:42 | 2026-09-23 |  |
 | [קירות](https://open.spotify.com/track/0ZFQYK9u8C1nGLXXb4y17W) | [Itay Levi](https://open.spotify.com/artist/6VdxGMRiiFQhI8F0FkuQZg) | [שתישרף האהבה](https://open.spotify.com/album/2Z8nquHSr9p9NR3HSESOzu) | 3:17 | 2024-08-16 | 2024-08-24 |
 | [קקטוס](https://open.spotify.com/track/2wat3H3CqHWxEU2oKZUnaM) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g) | [קקטוס](https://open.spotify.com/album/4YlNTVvcJXztwR2ZWCpCg9) | 2:32 | 2021-03-27\* | 2021-04-03 |
 | [קריוקי](https://open.spotify.com/track/6xhxulJ4BXNlnDmw3KpDP0) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [מזרח פרוע](https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y) | 4:00 | 2021-12-18 | 2022-01-01 |

@@ -2310,10 +2310,28 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 240000,
       "name": "Not Ashamed",
       "url": "https://open.spotify.com/track/4YXaPCTIZiK1jk2QfW9zTX"
+    },
+    {
+      "album": {
+        "name": "The Space Between",
+        "url": "https://open.spotify.com/album/6KTCgvjhx37ytGnmRu2flX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Not Ashamed",
+      "url": "https://open.spotify.com/track/7s18JxlISX0nbSAiklfYBf"
     },
     {
       "album": {
@@ -3560,6 +3578,24 @@
     {
       "album": {
         "name": "The Space Between",
+        "url": "https://open.spotify.com/album/6KTCgvjhx37ytGnmRu2flX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216280,
+      "name": "What You Do to Me",
+      "url": "https://open.spotify.com/track/1XoMr7W5Jn9oUsRfa92fBE"
+    },
+    {
+      "album": {
+        "name": "The Space Between",
         "url": "https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs"
       },
       "artists": [
@@ -3570,7 +3606,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 216280,
       "name": "What You Do to Me",
       "url": "https://open.spotify.com/track/75spKLi9TpyyleewmxLR36"

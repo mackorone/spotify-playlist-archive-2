@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Wampi",
-  "num_followers": 168346,
+  "num_followers": 168371,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -151,26 +151,30 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
-        "name": "D\u00e1ndote To'",
-        "url": "https://open.spotify.com/album/6LrV0bnO1eV7cdUWSKwfFV"
+        "name": "El Doctorado (Version Reparto)",
+        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
       },
       "artists": [
         {
-          "name": "Ja Rulay",
-          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
         },
         {
-          "name": "Dj Honda",
-          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
+          "name": "Seikan Anikila",
+          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
         },
         {
-          "name": "Dave Produce",
-          "url": "https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9"
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
         }
       ],
-      "duration_ms": 169200,
-      "name": "D\u00e1ndote To' - Prod. by Dj Honda x Dave Produce",
-      "url": "https://open.spotify.com/track/3SUNpMRAhwDjf4aymN24kv"
+      "duration_ms": 221671,
+      "name": "El Doctorado - Version Reparto",
+      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
     },
     {
       "added_at": "2026-09-11 04:01:34",
@@ -199,30 +203,26 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
-        "name": "El Doctorado (Version Reparto)",
-        "url": "https://open.spotify.com/album/7pNWXIymnnBw1juQXNYkq5"
+        "name": "D\u00e1ndote To'",
+        "url": "https://open.spotify.com/album/6LrV0bnO1eV7cdUWSKwfFV"
       },
       "artists": [
         {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+          "name": "Ja Rulay",
+          "url": "https://open.spotify.com/artist/2xaNqd76QhUudoNKJ3dUYV"
         },
         {
-          "name": "Seikan Anikila",
-          "url": "https://open.spotify.com/artist/3G1cOL5DbH7yejpGAs3Ni8"
+          "name": "Dj Honda",
+          "url": "https://open.spotify.com/artist/5OLgZmlrgCBKtR47DXwnsk"
         },
         {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+          "name": "Dave Produce",
+          "url": "https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9"
         }
       ],
-      "duration_ms": 221671,
-      "name": "El Doctorado - Version Reparto",
-      "url": "https://open.spotify.com/track/4qSL6Aod9WdNtIEXZpyiYO"
+      "duration_ms": 169200,
+      "name": "D\u00e1ndote To' - Prod. by Dj Honda x Dave Produce",
+      "url": "https://open.spotify.com/track/3SUNpMRAhwDjf4aymN24kv"
     },
     {
       "added_at": "2026-09-11 04:01:34",
@@ -811,6 +811,30 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
+        "name": "MARIDON",
+        "url": "https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH"
+      },
+      "artists": [
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        }
+      ],
+      "duration_ms": 169611,
+      "name": "MARIDON",
+      "url": "https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw"
+    },
+    {
+      "added_at": "2026-09-11 04:01:34",
+      "album": {
         "name": "Uff",
         "url": "https://open.spotify.com/album/45te0DqNJr2j75nyaXzFSZ"
       },
@@ -863,30 +887,6 @@
       "duration_ms": 198000,
       "name": "POQUITICO",
       "url": "https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7"
-    },
-    {
-      "added_at": "2026-09-11 04:01:34",
-      "album": {
-        "name": "MARIDON",
-        "url": "https://open.spotify.com/album/2u1vOUpHwt0zGSZPmMsOnH"
-      },
-      "artists": [
-        {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        }
-      ],
-      "duration_ms": 169611,
-      "name": "MARIDON",
-      "url": "https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw"
     },
     {
       "added_at": "2026-09-11 04:01:34",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
-        "name": "La Chiva",
-        "url": "https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct"
-      },
-      "artists": [
-        {
-          "name": "Ronkalunga",
-          "url": "https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "El Millonario",
-      "url": "https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R"
-    },
-    {
-      "added_at": "2026-09-11 04:01:34",
-      "album": {
         "name": "Firme Contigo",
         "url": "https://open.spotify.com/album/7rFbb2R694sYJR8CNMzRRO"
       },
@@ -1115,22 +1099,18 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT"
+        "name": "La Chiva",
+        "url": "https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct"
       },
       "artists": [
         {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+          "name": "Ronkalunga",
+          "url": "https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC"
         }
       ],
-      "duration_ms": 181521,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/6cXQX7pRILTVVamY7CJIVi"
+      "duration_ms": 250456,
+      "name": "El Millonario",
+      "url": "https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R"
     },
     {
       "added_at": "2026-09-11 04:01:34",
@@ -1155,6 +1135,26 @@
       "duration_ms": 218666,
       "name": "El Men2 Remix",
       "url": "https://open.spotify.com/track/2gZgg2MnrUYtmlUYuaqWlY"
+    },
+    {
+      "added_at": "2026-09-11 04:01:34",
+      "album": {
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        }
+      ],
+      "duration_ms": 181521,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/6cXQX7pRILTVVamY7CJIVi"
     },
     {
       "added_at": "2026-09-11 04:01:34",

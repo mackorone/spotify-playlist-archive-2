@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Anthony Brown & group therAPy
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,984 likes - 80 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,145 likes - 80 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Victory](https://open.spotify.com/track/4qrtXm0fa4d6gOZInbR4k1) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w) | [Full Disclosure](https://open.spotify.com/album/1hnbuNVVgcuDjEmxzSx8hf) | 5:54 |
 | 2 | [Stellar Medley \(feat\. Zacardi Cortez\) \- Live](https://open.spotify.com/track/68buTHhO1KljBjZB8en2j7) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Stellar Medley \(feat\. Zacardi Cortez\) \[Live\]](https://open.spotify.com/album/3HEHU401VzqKe4sQXZwpLd) | 4:40 |
 | 3 | [Psalm 24](https://open.spotify.com/track/4Xq11EwP7MtRYokrAdwwjn) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Psalm 24](https://open.spotify.com/album/6o1lHjWoSnm4NzijQ1MdTW) | 3:44 |
-| 4 | [Thank You For Everything \(with Karen Clark\-Sheard\)](https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Thank You For Everything](https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka) | 6:36 |
+| 4 | [Thank You For Everything \(with Karen Clark\-Sheard\) \- Live](https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Thank You For Everything \(Live\)](https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka) | 6:36 |
 | 5 | [He's Not Finished](https://open.spotify.com/track/5RIugJwYvISARrxEr2cVtH) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [He's Not Finished](https://open.spotify.com/album/16tA66otBVRH8ZkZvAaULO) | 8:00 |
 | 6 | [One Word](https://open.spotify.com/track/7IPCuaIn3V5jgwQ0uly8rb) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Tasha Unscripted](https://open.spotify.com/album/6L1U8qma9G36efdBtGja86) | 6:25 |
 | 7 | [You Will Have It All](https://open.spotify.com/track/5znzle0Lx9BzqgGpoz5xEJ) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [You Will Have It All](https://open.spotify.com/album/0xKyxbiOjwq4sVIABMqrmJ) | 5:22 |

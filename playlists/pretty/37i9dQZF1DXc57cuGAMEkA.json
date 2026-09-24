@@ -1,6 +1,6 @@
 {
   "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002ROS\u00c9, Dominic Fike, Miley, Travis Scott, Tove Lo and more!",
-  "num_followers": 171607,
+  "num_followers": 171622,
   "original_name": "New Music Friday Japan",
   "owner": {
     "name": "Spotify",
@@ -27,17 +27,21 @@
     {
       "added_at": "2026-09-18 11:00:24",
       "album": {
-        "name": "Small Town",
+        "name": "Small Town (feat. Gabriel Jacoby)",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town",
+      "name": "Small Town (feat. Gabriel Jacoby)",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {
@@ -991,7 +995,7 @@
     {
       "added_at": "2026-09-18 11:00:24",
       "album": {
-        "name": "Who Is The Sky?",
+        "name": "Who Is The Sky? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A"
       },
       "artists": [

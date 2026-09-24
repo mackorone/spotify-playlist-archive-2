@@ -4,7 +4,7 @@
 
 > the best new metalcore\. where brutality and technicality collide\. Cover: NOVELISTS
 
-1,675 songs - 4 day 5 hr 37 min
+1,676 songs - 4 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -661,7 +661,7 @@
 | [Goliath](https://open.spotify.com/track/55Ii97UbyIZUnetbkDGqEi) | [Defects](https://open.spotify.com/artist/1GcIqiLEyWGgVdglxShjZ3) | [Goliath](https://open.spotify.com/album/0gwrB0QxrhKb2U5Jr1PF2i) | 5:09 | 2024-11-22 | 2024-12-19 |
 | [Gone](https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Gone](https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S) | 3:43 | 2023-07-14 | 2025-03-31 |
 | [Gone Forever](https://open.spotify.com/track/4awOKs7I5SBo52LVEhic7W) | [If I Were You](https://open.spotify.com/artist/64eAZjkDzPIGbBuiANH78Y) | [Gone Forever](https://open.spotify.com/album/4Ar55s9oBJB3uyt2eMJeDl) | 3:19 | 2026-06-16 | 2026-09-05 |
-| [Gone Too Soon](https://open.spotify.com/track/1nJSbkUStfQgIuArPvjoiV) | [Late 9](https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Gone Too Soon](https://open.spotify.com/album/1Cl49JgMu0nn4IO4N8KyBy) | 3:45 | 2025-08-22 |  |
+| [Gone Too Soon](https://open.spotify.com/track/1nJSbkUStfQgIuArPvjoiV) | [Late 9](https://open.spotify.com/artist/07du8MUEUnqRsf0zjIDBup), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Taylor Barber](https://open.spotify.com/artist/13sCECOFwaranrSOhJkmcs) | [Gone Too Soon](https://open.spotify.com/album/1Cl49JgMu0nn4IO4N8KyBy) | 3:45 | 2025-08-22 | 2026-09-24 |
 | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/track/634fbt01oPnkmCBMPNJUWA) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf), [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Good Enough \(feat\. Caskets\)](https://open.spotify.com/album/2Knj2sM9MP94zUuYcHqmwH) | 2:45 | 2026-03-02 |  |
 | [Good People](https://open.spotify.com/track/2MnbndVuZCfdfr913Ex2HU) | [Mugshot](https://open.spotify.com/artist/0EVz5xkkf68l8QXvlmKDYB), [Peter Rono](https://open.spotify.com/artist/4PbFiGrZY6uc3NREFBcv7j) | [Empty Heaven](https://open.spotify.com/album/0rgqlUWqbfPrenCXaTeytf) | 2:51 | 2022-07-13 | 2022-07-19 |
 | [GOODBYE](https://open.spotify.com/track/33UpuHGggCndb1SLEQwgNw) | [Brojob](https://open.spotify.com/artist/180Rv5adp0TxkQUawZM0wG), [Devon Duarte](https://open.spotify.com/artist/5HgWYtdIGEFeNSFWpxqQl5) | [GOODBYE](https://open.spotify.com/album/7B6d0sG6UgKyhHwsHQF8LC) | 3:12 | 2022-07-13 | 2022-07-22 |
@@ -1127,6 +1127,7 @@
 | [PULSE](https://open.spotify.com/track/2fydlHvn1tdisIxpwUkg5Y) | [LEVELS](https://open.spotify.com/artist/2bpwFx2J3v4WxY4awDIPHd) | [PULSE](https://open.spotify.com/album/5q3E6Odlt47Ha0UiUIepon) | 3:20 | 2024-02-23 | 2024-06-05 |
 | [Pump Action Catatonia](https://open.spotify.com/track/0XbBQLhk9563TkTjgDgnno) | [Dealer](https://open.spotify.com/artist/0TpKwhxtfxaPTaWsHqpVqP) | [Pump Action Catatonia](https://open.spotify.com/album/5krb0Ap4CyW2DKHNSxU1ka) | 2:32 | 2026-03-10 | 2026-07-22 |
 | [Pump It](https://open.spotify.com/track/3iXNlPQNYPrtimAEM49PsG) | [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [Pump It](https://open.spotify.com/album/2sHDtHAX8luZbP4Uugvtds) | 2:52 | 2021-12-17 | 2022-07-23 |
+| [PUNISHMENT ROUTINE](https://open.spotify.com/track/1x8kAqmPBBBvvd4LPpBYdF) | [DOGBITE](https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs) | [PUNISHMENT ROUTINE](https://open.spotify.com/album/2Nygh4AJ3U2aTHUN53jav2) | 3:19 | 2026-09-04 |  |
 | [Pure Ecstasy](https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3) | 3:05 | 2026-06-16 |  |
 | [Pure Leaf](https://open.spotify.com/track/4jyG58O8zHggRN8A3mT6oh) | [Holywatr](https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB) | [Deo Gratias](https://open.spotify.com/album/0FiZOFkh6fw3C4DTD5cyKF) | 4:55 | 2026-06-16 |  |
 | [Purity Ladder](https://open.spotify.com/track/4vVXEh9jGXwiWm6R0l5OJE) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Purity Ladder](https://open.spotify.com/album/5zbXT7CQohNRQKr1x7A7Cm) | 3:55 | 2026-03-10 |  |

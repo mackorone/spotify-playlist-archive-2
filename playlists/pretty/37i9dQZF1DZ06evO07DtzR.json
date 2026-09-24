@@ -1,12 +1,12 @@
 {
   "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 41310,
+  "num_followers": 41311,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAABV9A2yGKJlCdJw5aaDHM1x",
+  "snapshot_id": "arHFAAAAAACdzMQuoIOw10eMS13z2qqP",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u5f53\u4e8b\u8005",
-        "url": "https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 241973,
-      "name": "\u5f53\u4e8b\u8005",
-      "url": "https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANG!!!",
         "url": "https://open.spotify.com/album/7JruDbtqHdtkxzIXBf6gjO"
       },
@@ -203,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass"
+        "name": "\u5f53\u4e8b\u8005",
+        "url": "https://open.spotify.com/album/4BdgxEZaVzqaJYwYwJeoJn"
       },
       "artists": [
         {
@@ -212,9 +196,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 176481,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz"
+      "duration_ms": 241973,
+      "name": "\u5f53\u4e8b\u8005",
+      "url": "https://open.spotify.com/track/69TMjHuBaLNRtMPopKWbdC"
     },
     {
       "added_at": null,
@@ -231,6 +215,22 @@
       "duration_ms": 269643,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/5AngW69uAboljtCBHZ6AsT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/0AMQOXe131J5SlkABq1ass"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 176481,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/2tpiDrtRmRq5ZdQLQVaDmz"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
+        "url": "https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 102506,
+      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
+      "url": "https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GREATEST HITS 2011-2017 \u201cALTER EGO\u201d",
         "url": "https://open.spotify.com/album/6TXu1SOr7m6NBuaD5QIzPr"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 95333,
       "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09",
       "url": "https://open.spotify.com/track/6O06qe9TrNRV3ux0KIFg80"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
-        "url": "https://open.spotify.com/album/6pYCnYN6J51Ky2doNPEKGl"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 102506,
-      "name": "\u540d\u524d\u306e\u306a\u3044\u602a\u7269 -TV Edit -",
-      "url": "https://open.spotify.com/track/71HUrLJqdnXi9w1Vvb5bPR"
     },
     {
       "added_at": null,
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 254906,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -Instrumental-",
-      "url": "https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn"
+      "duration_ms": 95506,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09-Instrumental-",
+      "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 95506,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c\uff08TV Edit\uff09-Instrumental-",
-      "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
+      "duration_ms": 431186,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -BOOM BOOM SATELLITES Remix-",
+      "url": "https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 431186,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -BOOM BOOM SATELLITES Remix-",
-      "url": "https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA"
+      "duration_ms": 254906,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -Instrumental-",
+      "url": "https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn"
     }
   ],
   "unique_name": "This Is EGOIST",

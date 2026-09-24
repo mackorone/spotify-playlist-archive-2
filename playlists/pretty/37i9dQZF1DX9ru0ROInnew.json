@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 149048,
+  "num_followers": 149067,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -1747,54 +1747,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 271080,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/5LVoGJTyG6fLJgoGkY2QAZ"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
-        "name": "All Star",
-        "url": "https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 210700,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Percocet (Remix)",
         "url": "https://open.spotify.com/album/25lYUX9rZOX0zUUjuso6x1"
       },
@@ -1819,6 +1771,54 @@
       "duration_ms": 314626,
       "name": "Percocet - Remix",
       "url": "https://open.spotify.com/track/7H6OwsBoSI4BVWm5M7MTOQ"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "All Star",
+        "url": "https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 210700,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/7JiRyDVQealzbiLq8b1mOb"
+      },
+      "artists": [
+        {
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 271080,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/5LVoGJTyG6fLJgoGkY2QAZ"
     },
     {
       "added_at": "2024-08-19 19:01:43",

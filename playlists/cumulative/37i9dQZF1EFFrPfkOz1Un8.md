@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2NCa35wfzCEnONKi8FOXmb">Kyle Evans</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-58 songs - 3 hr 31 min
+60 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [50s](https://open.spotify.com/track/6WZtUG0qldMF7bzOtz7ZR3) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [50s \(headiokart remix\)](https://open.spotify.com/album/6QsiObcRCtcPHjTVkNJ49Z) | 2:39 | 2024-01-29 |  |
 | [Attitude](https://open.spotify.com/track/5u1IwY8m1KBKVXaHUoQrn7) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Game Over](https://open.spotify.com/album/5QsGJ1tErNh5aWxowJojom) | 3:16 | 2024-01-29 |  |
 | [Back to Basics](https://open.spotify.com/track/4or9opxT7BGioeiZHFdZu9) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:17 | 2025-01-09 | 2025-04-12 |
-| [Belly of the Beast](https://open.spotify.com/track/1OGAPgVLjy4bcGRfCdixWL) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Belly of the Beast](https://open.spotify.com/album/6WxfYPn97IT8RxjaoujNoI) | 2:58 | 2024-01-29 |  |
+| [Belly of the Beast](https://open.spotify.com/track/1OGAPgVLjy4bcGRfCdixWL) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Belly of the Beast](https://open.spotify.com/album/6WxfYPn97IT8RxjaoujNoI) | 2:58 | 2024-01-29 | 2026-09-24 |
+| [Belly of the Beast](https://open.spotify.com/track/4QojrdgoUb3illlBBhCvl8) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Belly of the Beast](https://open.spotify.com/album/0bQFcQM81IPVMEVUd8w2vt) | 2:58 | 2026-09-23 |  |
 | [Both Sides Of A Smile \(feat\. James Blake\)](https://open.spotify.com/track/3hX0ilh84w2KGaiNw2rRCV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 7:59 | 2024-01-29 | 2025-12-19 |
 | [Both Sides Of A Smile \(feat\. James Blake\)](https://open.spotify.com/track/4NtvW4wRWszchumJXoa3EU) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [We're All Alone In This Together](https://open.spotify.com/album/7M7LSgG0JUAvSCKgIWxk7P) | 7:59 | 2025-12-18 |  |
 | [Burner on Deck \(feat\. Pop Smoke & Young Adz\)](https://open.spotify.com/track/65vHYhe2AprpDBHBTpOBaE) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Young Adz](https://open.spotify.com/artist/396eHybVCEUr0PcED4yFga) | [Money Can't Buy Happiness](https://open.spotify.com/album/3ATu7YPpiYgZqHkkpqRMGR) | 3:07 | 2024-01-29 |  |
@@ -41,7 +42,8 @@
 | [Paper Cuts](https://open.spotify.com/track/1gFMfqyVSXHMgvRloH2gDL) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Paper Cuts](https://open.spotify.com/album/0bOYi2NpSA7BmCwmdszfCI) | 2:59 | 2024-01-29 | 2025-12-19 |
 | [Paper Cuts](https://open.spotify.com/track/1zrPnhTOPGZL7hHBh15MdA) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Paper Cuts](https://open.spotify.com/album/5NXpUMAZ0olscefFpPJMtI) | 2:59 | 2025-12-18 |  |
 | [Prey](https://open.spotify.com/track/18LlKZ31XlvDOpMK6NAAZs) | [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [EGO KILLS](https://open.spotify.com/album/6HlJrHxgT17qMj51pktUTf) | 3:05 | 2024-01-29 |  |
-| [Professor X](https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Professor X](https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1) | 3:37 | 2024-01-29 |  |
+| [Professor X](https://open.spotify.com/track/3xMEFtDh2TNm949OgKMXPb) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Professor X](https://open.spotify.com/album/4xofmxMaxKG01FRQABxP6y) | 3:37 | 2026-09-23 |  |
+| [Professor X](https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Professor X](https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1) | 3:37 | 2024-01-29 | 2026-09-24 |
 | [Psycho](https://open.spotify.com/track/0FWAIRd9Uz5uNek7cALYNC) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:08 | 2024-01-29 | 2025-12-19 |
 | [Psycho](https://open.spotify.com/track/7454StFiLI0EMexuqtvNv4) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [PSYCHODRAMA](https://open.spotify.com/album/4LU4HbH4wC2pW40UT6mnPv) | 4:08 | 2025-12-18 |  |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-01-27 |  |

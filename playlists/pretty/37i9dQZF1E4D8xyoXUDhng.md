@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kelontae Gavin, Daryl Coley, Amber Bullock and more
+> With Kelontae Gavin, Amber Bullock, Daryl Coley and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 433 likes - 50 songs - 4 hr 57 min
 

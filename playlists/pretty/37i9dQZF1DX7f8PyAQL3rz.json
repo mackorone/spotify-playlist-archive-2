@@ -1,6 +1,6 @@
 {
   "description": "os mlk a milh\u00e3o do 013 ao 019",
-  "num_followers": 1431749,
+  "num_followers": 1431629,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,30 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
+        "name": "PAGANDO O PRE\u00c7O",
+        "url": "https://open.spotify.com/album/1AeMj46ygsaR5svcSy6P34"
+      },
+      "artists": [
+        {
+          "name": "Ghard",
+          "url": "https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf"
+        },
+        {
+          "name": "Mc Paiva ZS",
+          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Nois Dois",
+      "url": "https://open.spotify.com/track/6czFTaJt3z4dQTUj9krR6k"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
         "name": "Beck e Sexo",
         "url": "https://open.spotify.com/album/79ffKOg9PSwNHghrRMjSz3"
       },
@@ -423,30 +447,6 @@
       "duration_ms": 330491,
       "name": "Beck e Sexo",
       "url": "https://open.spotify.com/track/6qpeFSXG1J8xAVXUJVoNh5"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
-        "name": "PAGANDO O PRE\u00c7O",
-        "url": "https://open.spotify.com/album/1AeMj46ygsaR5svcSy6P34"
-      },
-      "artists": [
-        {
-          "name": "Ghard",
-          "url": "https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf"
-        },
-        {
-          "name": "Mc Paiva ZS",
-          "url": "https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Nois Dois",
-      "url": "https://open.spotify.com/track/6czFTaJt3z4dQTUj9krR6k"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -535,6 +535,26 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
+        "name": "C\u00ea Nem Vai",
+        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Delta7",
+          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "C\u00ea Nem Vai Freestyle",
+      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
         "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
         "url": "https://open.spotify.com/album/4Ip6Qu6FKpjN5ExbgXumTN"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 199351,
       "name": "Engaiolada (feat. Deekapz, Mc Morena & Yuri Redicopa)",
       "url": "https://open.spotify.com/track/0ydo9m41U6o1OpxEpRev0Y"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
-        "name": "C\u00ea Nem Vai",
-        "url": "https://open.spotify.com/album/40RzgIh7TOIvdsVNJpki0v"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Delta7",
-          "url": "https://open.spotify.com/artist/4kZTC2MdZt3AgKWBvS17C3"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "C\u00ea Nem Vai Freestyle",
-      "url": "https://open.spotify.com/track/2IaCvikWA1HlIsBHbWxHjW"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -723,6 +723,26 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
+        "name": "HEY!",
+        "url": "https://open.spotify.com/album/1SItss2l4S3kGDwWP5hMyt"
+      },
+      "artists": [
+        {
+          "name": "kouth",
+          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+        },
+        {
+          "name": "Necroez",
+          "url": "https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ"
+        }
+      ],
+      "duration_ms": 138571,
+      "name": "HEY!",
+      "url": "https://open.spotify.com/track/4Ga0nbC7A3Vllz4Tiib5UU"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
         "name": "Meu Dinheiro, Minhas Regras (Lado B)",
         "url": "https://open.spotify.com/album/0hRDah9ZhuNq0OQPhV2XkX"
       },
@@ -747,22 +767,34 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "HEY!",
-        "url": "https://open.spotify.com/album/1SItss2l4S3kGDwWP5hMyt"
+        "name": "Dentro da Sua",
+        "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
       },
       "artists": [
         {
-          "name": "kouth",
-          "url": "https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY"
+          "name": "Tar\u00e7a",
+          "url": "https://open.spotify.com/artist/7xXwZ6higu8YI4BWzBhxE9"
         },
         {
-          "name": "Necroez",
-          "url": "https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ"
+          "name": "Majis",
+          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
+        },
+        {
+          "name": "Rob",
+          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
+        },
+        {
+          "name": "Z\u0112EM",
+          "url": "https://open.spotify.com/artist/2ej2zxwfjuUV4okQRuhpDM"
+        },
+        {
+          "name": "Matheus Aloha",
+          "url": "https://open.spotify.com/artist/5BgmkOYey7lEd765RZGdpG"
         }
       ],
-      "duration_ms": 138571,
-      "name": "HEY!",
-      "url": "https://open.spotify.com/track/4Ga0nbC7A3Vllz4Tiib5UU"
+      "duration_ms": 136320,
+      "name": "Dentro da Sua",
+      "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -811,38 +843,6 @@
       "duration_ms": 156086,
       "name": "Sem Amor",
       "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
-        "name": "Dentro da Sua",
-        "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
-      },
-      "artists": [
-        {
-          "name": "Tar\u00e7a",
-          "url": "https://open.spotify.com/artist/7xXwZ6higu8YI4BWzBhxE9"
-        },
-        {
-          "name": "Majis",
-          "url": "https://open.spotify.com/artist/3lnLNnaT6xGvLdXcy1QjeX"
-        },
-        {
-          "name": "Rob",
-          "url": "https://open.spotify.com/artist/2erZl4yKXwwHO92guRhDPw"
-        },
-        {
-          "name": "Z\u0112EM",
-          "url": "https://open.spotify.com/artist/2ej2zxwfjuUV4okQRuhpDM"
-        },
-        {
-          "name": "Matheus Aloha",
-          "url": "https://open.spotify.com/artist/5BgmkOYey7lEd765RZGdpG"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Dentro da Sua",
-      "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
     },
     {
       "added_at": "2026-09-11 13:11:58",

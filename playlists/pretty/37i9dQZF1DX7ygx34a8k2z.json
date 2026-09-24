@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 322485,
+  "num_followers": 322563,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 212888,
-      "name": "The Hardest Button to Button",
-      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "You'd Prefer An Astronaut",
         "url": "https://open.spotify.com/album/2qx0YtBEDcbpclLlqzRi2o"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 309106,
       "name": "Stars",
       "url": "https://open.spotify.com/track/6lQE6LF3MU63Z6VyhPxaV3"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 212888,
+      "name": "The Hardest Button to Button",
+      "url": "https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -999,6 +999,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "I Can Hear The Heart Beating As One",
+        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
+      },
+      "artists": [
+        {
+          "name": "Yo La Tengo",
+          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
+        }
+      ],
+      "duration_ms": 318373,
+      "name": "Autumn Sweater",
+      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Siamese Dream (2011 - Remaster)",
         "url": "https://open.spotify.com/album/2Qs2SpclDToB087fLolhCN"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 252360,
       "name": "Human Behaviour",
       "url": "https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "I Can Hear The Heart Beating As One",
-        "url": "https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac"
-      },
-      "artists": [
-        {
-          "name": "Yo La Tengo",
-          "url": "https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi"
-        }
-      ],
-      "duration_ms": 318373,
-      "name": "Autumn Sweater",
-      "url": "https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Fizzy Fuzzy Big & Buzzy",
-        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
-      },
-      "artists": [
-        {
-          "name": "The Refreshments",
-          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Banditos",
-      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Goo",
         "url": "https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 328560,
       "name": "Dirty Boots",
       "url": "https://open.spotify.com/track/5X9c0LL84kJN8Ok2UC6B6w"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Fizzy Fuzzy Big & Buzzy",
+        "url": "https://open.spotify.com/album/2BAANDNiY6WvmSMVEKpjOV"
+      },
+      "artists": [
+        {
+          "name": "The Refreshments",
+          "url": "https://open.spotify.com/artist/5Fhey8VIfTavg9F99QlipO"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Banditos",
+      "url": "https://open.spotify.com/track/466QMr5bVL5dEjtGxgaXyC"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
-      },
-      "artists": [
-        {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
-        }
-      ],
-      "duration_ms": 230533,
-      "name": "Movin' on Up",
-      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Coral Fang (PA Version)",
         "url": "https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 328226,
       "name": "The Hunger",
       "url": "https://open.spotify.com/track/7vUuOdabDtkAGRbdZGshsZ"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 230533,
+      "name": "Movin' on Up",
+      "url": "https://open.spotify.com/track/5Vx3e9PipiEceifVyBzCdj"
     },
     {
       "added_at": "2025-01-15 04:11:50",

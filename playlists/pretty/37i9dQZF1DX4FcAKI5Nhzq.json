@@ -1,6 +1,6 @@
 {
   "description": "Future K-Pop hits! (Cover: CLOSE YOUR EYES)",
-  "num_followers": 883281,
+  "num_followers": 883260,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
@@ -23,6 +23,22 @@
       "duration_ms": 179240,
       "name": "Open Your Eyes",
       "url": "https://open.spotify.com/track/1JvRDITxJfdNXCZPm9RcXW"
+    },
+    {
+      "added_at": "2026-09-22 13:40:27",
+      "album": {
+        "name": "FIRST LIGHT : \u4e95",
+        "url": "https://open.spotify.com/album/1XH7OxwQ8Pa2epsw0hVcrr"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "duration_ms": 184320,
+      "name": "Say Yes!",
+      "url": "https://open.spotify.com/track/20k8jupyPevVfg9FlmKN3o"
     },
     {
       "added_at": "2026-09-22 13:40:27",

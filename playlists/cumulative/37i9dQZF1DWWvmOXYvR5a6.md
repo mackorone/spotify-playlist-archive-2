@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Jay Park\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-849 songs - 1 day 21 hr 15 min
+850 songs - 1 day 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,7 +389,7 @@
 | [Killin me softly \(feat\. Skinny Brown\)](https://open.spotify.com/track/1j8H6zxSArZDQsbpBCLtgn) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [im your xYz](https://open.spotify.com/album/7iWDsAvnU18wUP8jGrvvCO) | 3:14 | 2022-04-01 | 2022-04-22 |
 | [Kiss Like This](https://open.spotify.com/track/5I0IPEUldhAB9vd1waw3rF) | [cyan](https://open.spotify.com/artist/7909RijUN4OHQDLWadiWfI), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [House of Girls, Episode 3](https://open.spotify.com/album/0ECVcFFArwRrajFkiN524D) | 2:43 | 2025-06-27 | 2025-08-12 |
 | [KISS ME](https://open.spotify.com/track/02K01fxmK5qQrwWSHGbb9d) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IS ANYBODY OUT THERE?](https://open.spotify.com/album/6j8x8zBChjzCn0FD7KJB7p) | 4:38 | 2022-07-24 | 2024-04-19 |
-| [Kiss Me](https://open.spotify.com/track/3kjolpJ50jPf9Huqc3Y7jh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Is Anybody Out There?](https://open.spotify.com/album/7zYpUyqdyfgQlYu9GjMoWT) | 4:38 | 2022-04-01 |  |
+| [Kiss Me](https://open.spotify.com/track/3kjolpJ50jPf9Huqc3Y7jh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Is Anybody Out There?](https://open.spotify.com/album/7zYpUyqdyfgQlYu9GjMoWT) | 4:38 | 2022-04-01 | 2026-09-24 |
 | [KISS ME \(Feat\. BIG Naughty\)](https://open.spotify.com/track/3FjQFiQshUJfh6dcIzsq5h) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [KISS ME](https://open.spotify.com/album/2sFOvfJ0IaTdQAMGAXjRFH) | 3:22 | 2023-04-06 | 2023-05-05 |
 | [Kitty \(Feat\. MIYEON \(\(G\)I\-DLE\)](https://open.spotify.com/track/4Jpsou7XWCNG2cgeFZBSvL) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Kitty \(Feat\. MIYEON \(\(G\)I\-DLE\)](https://open.spotify.com/album/2UHeGXqUbCAPwL116EhgHf) | 3:41 | 2022-04-21 | 2022-07-29 |
 | [Koalified](https://open.spotify.com/track/0ZsMOhMKDO0JDttwfPY7CM) | [코알라 KOALA](https://open.spotify.com/artist/57FiLkWeGzNVMLggMZLYiZ), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [Koalified](https://open.spotify.com/album/4PFooguSM49DOGmqLQEadi) | 2:56 | 2023-02-24 | 2023-03-28 |
@@ -754,6 +754,7 @@
 | [Too Busy](https://open.spotify.com/track/1b2Hhx9a6ucAQFhZgjfLbb) | [Reddy](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [Too Busy](https://open.spotify.com/album/2IzEgyR7Up7Qtvl2KOSp2e) | 2:42 | 2022-04-01 | 2022-07-27 |
 | [Too laid back](https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [DIMO REX](https://open.spotify.com/artist/0GAYGBzZBTtYKkHIZs9ADH) | [sonogram](https://open.spotify.com/album/1H76PIEJLwJwLX2dtOJ2vT) | 3:44 | 2026-02-06 |  |
 | [TOO SLOW](https://open.spotify.com/track/73GLUtAnxpbWrT2xgUmzLw) | [Sii](https://open.spotify.com/artist/0X9TIFzB6y6kA2pZBcRmLu) | [WALET](https://open.spotify.com/album/0JA0mtbGUqjyCreT7RHOq0) | 2:55 | 2026-06-20 | 2026-07-23 |
+| [TOOTHBRUSH \(feat\. Kid Milli\)](https://open.spotify.com/track/6PKy6mq3vDFNHGjkQv5sUR) | [MATTHEW](https://open.spotify.com/artist/45bThv556KUNX5tJBTIKOU), [wnsday](https://open.spotify.com/artist/72LdkNVMGXuNd0FyRqqNhX), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [PURITY](https://open.spotify.com/album/0whhXJZ50T7Ia3pdKQO9n7) | 3:12 | 2026-09-23 |  |
 | [Top Floor \(Feat\. MELOH, The Quiett\)](https://open.spotify.com/track/3bCwJtZtp1BQQ3ej1JVUXX) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [Curtain Call](https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx) | 2:35 | 2022-04-01 | 2022-07-13 |
 | [TORO \(feat\. Crush\)](https://open.spotify.com/track/0ljaG5dzwQG1E8j9sURWcB) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [LOVESICK](https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr) | 3:59 | 2026-04-01 |  |
 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 | 2022-12-22 | 2023-01-26 |

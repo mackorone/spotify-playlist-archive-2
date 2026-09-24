@@ -545,6 +545,32 @@
     },
     {
       "album": {
+        "name": "SOBRE HEROIS,CASTELOS E VIAGENS NO TEMPO",
+        "url": "https://open.spotify.com/album/4VwxFmgZgtgjPioO12Mvr0"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "Clara Lima",
+          "url": "https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG"
+        },
+        {
+          "name": "Thiago Ticana",
+          "url": "https://open.spotify.com/artist/6uSOJ1HLY5IS55ZHeArSIs"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205232,
+      "name": "CAVALEIROS VS SAMURAIS",
+      "url": "https://open.spotify.com/track/0GniCXMqeFFgw62ArKiVkp"
+    },
+    {
+      "album": {
         "name": "Cavalo de Tr\u00f3ia #2",
         "url": "https://open.spotify.com/album/4NVBuisgPTrEQ4qBha0O5N"
       },
@@ -2060,7 +2086,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 119172,
       "name": "Jersey Culture BR",
       "url": "https://open.spotify.com/track/3FhjtSYUo9lOCXnCH1W96h"

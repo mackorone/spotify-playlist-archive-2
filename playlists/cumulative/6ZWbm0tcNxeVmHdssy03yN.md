@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-6,195 songs - 13 day 13 hr 47 min
+6,197 songs - 13 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1847,6 +1847,7 @@
 | [Fearless](https://open.spotify.com/track/2p0pmU29TK8PjTGlWY8ufl) | [Two Faces](https://open.spotify.com/artist/37RXY1VVv4OUFrx6AjJIry) | [Fearless](https://open.spotify.com/album/0Z5K409WsYYgsI2XXrkyQt) | 3:39 | 2023-02-24 | 2023-03-18 |
 | [Feast Is Over](https://open.spotify.com/track/1ajCWFb64q72MfXMftyNlV) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Feast Is Over](https://open.spotify.com/album/5iTnzg9NyoAOmkAdSDv9ox) | 3:12 | 2023-03-17 | 2023-04-09 |
 | [FEAT DIPSET](https://open.spotify.com/track/0y8EGKfDvxg1edhE0LZLiY) | [Novy](https://open.spotify.com/artist/6SV8zJOm74aXWFheb4mv0i) | [FEAT DIPSET](https://open.spotify.com/album/6ItoGk0xSNTlytc9OYXsZo) | 1:49 | 2023-06-02 | 2023-06-24 |
+| [Feed My Soul](https://open.spotify.com/track/6aRrj9OOWs9uhGBTrvKFN0) | [M@G1](https://open.spotify.com/artist/5Lw8LRPLPfpMy419g456zy) | [Feed My Soul](https://open.spotify.com/album/4So2NY98JJ7gx9yJYPaAwD) | 3:44 | 2026-09-23 |  |
 | [Feed Your Soul](https://open.spotify.com/track/0sre5meVOLd1WwoAKN9KTI) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Feed Your Soul](https://open.spotify.com/album/5VkZldRsVD5PDL9qrhBKNM) | 3:43 | 2025-03-07 | 2025-04-05 |
 | [Feel A Way](https://open.spotify.com/track/1dbmyZIJPifnlKNWjnS3Ke) | [Stacy N.K.R](https://open.spotify.com/artist/1UzBibT2gCadoWxVLRlq3U) | [Feel A Way](https://open.spotify.com/album/5Et4BGkwJu1peujLFzOtM4) | 2:34 | 2023-07-28 | 2023-08-20 |
 | [Feel Am](https://open.spotify.com/track/505HMXR6geya6f1891Hy1A) | [Del B](https://open.spotify.com/artist/6lDz9VhPe8FMyUEWpMdj2t) | [Feel Am](https://open.spotify.com/album/3VmyWLePyLxyzDn4C8mUBi) | 2:44 | 2024-12-06 | 2025-02-01 |
@@ -4137,6 +4138,7 @@
 | [Passport](https://open.spotify.com/track/65Dr9kKMScOqdjGGjU01ui) | [Monaky](https://open.spotify.com/artist/3pUdWI84GUyM40TiEKXR6Q) | [Passport](https://open.spotify.com/album/7wG3slay5oeAb5hBTW1Itd) | 3:05 | 2024-10-25 | 2024-11-23 |
 | [Past Midnight](https://open.spotify.com/track/6PzWwEOtgR55t3OiWLl3aI) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Past Midnight](https://open.spotify.com/album/3Fg2Hg4sZaDZKcxrfFGiIr) | 3:14 | 2022-01-20 | 2022-02-12 |
 | [Past Midnight \(Acoustic\)](https://open.spotify.com/track/73sgxhsap47d7BDZClpOuJ) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Past Midnight \(Acoustic\)](https://open.spotify.com/album/6ypJ22Tq0udhQseyoPPCIW) | 3:12 | 2023-12-08 | 2024-01-13 |
+| [Pastel Concrete](https://open.spotify.com/track/2bzlLawbweYyj3fCrcYX1H) | [M@G1](https://open.spotify.com/artist/5Lw8LRPLPfpMy419g456zy) | [Pastel Concrete](https://open.spotify.com/album/2rallMbCW2z1BguTO4u1He) | 3:33 | 2026-09-23 |  |
 | [Patawad](https://open.spotify.com/track/5U4wo1JiPNaMhurckxVpus) | [Kristina Academia](https://open.spotify.com/artist/5K056ydoaFCoR0zfsr2MD2) | [Patawad](https://open.spotify.com/album/4g2FRMJBDaJ5ww5sQLHrSB) | 3:53 | 2022-07-15 | 2022-08-06 |
 | [Patek Myself](https://open.spotify.com/track/4yBgCach7dBENt5a8k7UBY) | [Ard Adz](https://open.spotify.com/artist/0ymTsFDelrwNrlxUnvU7bu) | [Patek Myself](https://open.spotify.com/album/4iTAhmy68qhZgZmOEMYHKa) | 4:13 | 2022-05-20 | 2022-07-03 |
 | [Pathetic](https://open.spotify.com/track/48H964OXoYm4FGIkn7xQlb) | [Those Without](https://open.spotify.com/artist/1HTnNmldrSruFvjSz4zhFy) | [Pathetic](https://open.spotify.com/album/1bftnS5pHwr0VHcl0YH8DE) | 2:58 | 2026-06-12 | 2026-08-08 |

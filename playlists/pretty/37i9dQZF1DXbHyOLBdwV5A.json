@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 134329,
+  "num_followers": 134334,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,18 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Voc\u00ea Me Mudou",
-        "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
+        "name": "Sou Casa (Remix)",
+        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
       },
       "artists": [
         {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+          "name": "DJ Marcos Andre",
+          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
         }
       ],
-      "duration_ms": 183682,
-      "name": "Voc\u00ea Me Mudou",
-      "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
+      "duration_ms": 209632,
+      "name": "Sou Casa - Remix",
+      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -307,18 +303,22 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "Sou Casa (Remix)",
-        "url": "https://open.spotify.com/album/2bKQcmE54MPnLkRR4RRfPK"
+        "name": "Voc\u00ea Me Mudou",
+        "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
       },
       "artists": [
         {
-          "name": "DJ Marcos Andre",
-          "url": "https://open.spotify.com/artist/65e0Jrglrzx2wsS0HQ6b61"
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
         }
       ],
-      "duration_ms": 209632,
-      "name": "Sou Casa - Remix",
-      "url": "https://open.spotify.com/track/6ahG2VlyTDhmFUqMYPPLSV"
+      "duration_ms": 183682,
+      "name": "Voc\u00ea Me Mudou",
+      "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -607,30 +607,6 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
-        "name": "A Vida \u00c9 Boa (Remix)",
-        "url": "https://open.spotify.com/album/0MUQZQTFRdeUzzuG5oE3w7"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
-        },
-        {
-          "name": "Ana Julia",
-          "url": "https://open.spotify.com/artist/5euHvW9JgxVPk1l849F4vh"
-        }
-      ],
-      "duration_ms": 129836,
-      "name": "A Vida \u00c9 Boa - Remix",
-      "url": "https://open.spotify.com/track/6dMhYMlH4dmeklYm04a6DU"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
         "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
         "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
       },
@@ -651,6 +627,30 @@
       "duration_ms": 195140,
       "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
       "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
+        "name": "A Vida \u00c9 Boa (Remix)",
+        "url": "https://open.spotify.com/album/0MUQZQTFRdeUzzuG5oE3w7"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
+        },
+        {
+          "name": "Ana Julia",
+          "url": "https://open.spotify.com/artist/5euHvW9JgxVPk1l849F4vh"
+        }
+      ],
+      "duration_ms": 129836,
+      "name": "A Vida \u00c9 Boa - Remix",
+      "url": "https://open.spotify.com/track/6dMhYMlH4dmeklYm04a6DU"
     },
     {
       "added_at": "2026-05-08 03:01:30",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-05-08 03:01:30",
       "album": {
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+      },
+      "artists": [
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        }
+      ],
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+    },
+    {
+      "added_at": "2026-05-08 03:01:30",
+      "album": {
         "name": "N\u00e3o Sou Merecedor",
         "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 147840,
       "name": "N\u00e3o Sou Merecedor",
       "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
-    },
-    {
-      "added_at": "2026-05-08 03:01:30",
-      "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2026-05-08 03:01:30",

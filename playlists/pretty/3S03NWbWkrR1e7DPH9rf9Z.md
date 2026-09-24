@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/3S03NWbWkrR1e7DPH9rf9Z.md) - [plain]
 
 > BIG ROOM NEVER DIES \- big room \- bigroom \- bigroom songs \- big room music \- festival music \- future rave songs \- big room dance \- party music \- mainstage songs \- mainstage music \- rave songs \- new edm \- edm songs
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 211,496 likes - 202 songs - 9 hr 49 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 211,489 likes - 202 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bangkok](https://open.spotify.com/track/3xd3KI4AV7gWis1uV7TFNW) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Bangkok](https://open.spotify.com/album/3fYb7gdGcl7asbLEY63ti8) | 2:17 |
-| 2 | [Dimensions](https://open.spotify.com/track/1CK8vHLDtcP5xCTvK4JG7p) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ), [Josh Le Tissier](https://open.spotify.com/artist/69pPboQes8it3uCuKTF3l9) | [Dimensions](https://open.spotify.com/album/7uKxPQbWFPEWz21jtsdYzd) | 3:07 |
-| 3 | [NRG](https://open.spotify.com/track/34zTnLwd8guHvsYesS5yqC) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Gaz Meeko](https://open.spotify.com/artist/6kkKiBUNMmJk9NnsSKMuE6), [Paul Green](https://open.spotify.com/artist/6p2zBJ9FLbiQQLS0HYdtb3) | [NRG](https://open.spotify.com/album/5TxxQkdUArAZ3zcsyZoq7A) | 2:38 |
+| 2 | [I Like The Bass](https://open.spotify.com/track/490JFXd511vNs14tNgira4) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [Beat & Encore](https://open.spotify.com/artist/1adDecXRruKUZLVGQvnyyD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [I Like The Bass](https://open.spotify.com/album/5kC1GnG3FYpOywfDQgYXtm) | 2:54 |
+| 3 | [Dimensions](https://open.spotify.com/track/1CK8vHLDtcP5xCTvK4JG7p) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ), [Josh Le Tissier](https://open.spotify.com/artist/69pPboQes8it3uCuKTF3l9) | [Dimensions](https://open.spotify.com/album/7uKxPQbWFPEWz21jtsdYzd) | 3:07 |
 | 4 | [Encore](https://open.spotify.com/track/0ea8vosw0PmYsf9ubBKlUp) | [Alan Krevo](https://open.spotify.com/artist/2OCSKB9Ayw2jwxxZhVnw4z), [Jack Mence](https://open.spotify.com/artist/5ZfwkBw5XLQxOfksolJswL), [Tigi](https://open.spotify.com/artist/4NpNEVrauhgrYCDeQvBCAI) | [Encore](https://open.spotify.com/album/3IKPxb0vZDVsmkdtDkXifJ) | 2:00 |
-| 5 | [I Like The Bass](https://open.spotify.com/track/490JFXd511vNs14tNgira4) | [DJ Kuba](https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX), [Neitan](https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG), [Beat & Encore](https://open.spotify.com/artist/1adDecXRruKUZLVGQvnyyD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [I Like The Bass](https://open.spotify.com/album/5kC1GnG3FYpOywfDQgYXtm) | 2:54 |
+| 5 | [NRG](https://open.spotify.com/track/34zTnLwd8guHvsYesS5yqC) | [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Gaz Meeko](https://open.spotify.com/artist/6kkKiBUNMmJk9NnsSKMuE6), [Paul Green](https://open.spotify.com/artist/6p2zBJ9FLbiQQLS0HYdtb3) | [NRG](https://open.spotify.com/album/5TxxQkdUArAZ3zcsyZoq7A) | 2:38 |
 | 6 | [Good Times](https://open.spotify.com/track/4VGDTR5civVEXw9dCJj4kE) | [Magnus Riedel](https://open.spotify.com/artist/569MQWXrZ3W19PyUEupPJx) | [Good Times](https://open.spotify.com/album/5eu1alU97giffvb8ZBa5mt) | 2:33 |
 | 7 | [Freak In The Building](https://open.spotify.com/track/4PxOGOQGXhEToQpumZaDnV) | [Dirty Signal](https://open.spotify.com/artist/5RI5dWAuSTNZy8GiWN3pzZ), [Joey Dale](https://open.spotify.com/artist/3QjbhhPrW6clls3VPRGkXu) | [Freak In The Building](https://open.spotify.com/album/4oaEIGZEtGlmaOrj4uFg48) | 3:10 |
 | 8 | [Call Me A Spaceman](https://open.spotify.com/track/5NYejXf1mwigePilCGLjdM) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Mitch Crown](https://open.spotify.com/artist/4m5bANP6wwn3O6xmjYxhTm) | [Spaceman](https://open.spotify.com/album/1R4ANAFrHwOdYG1tmz3gla) | 3:09 |
@@ -211,4 +211,4 @@ pretty - [cumulative](/playlists/cumulative/3S03NWbWkrR1e7DPH9rf9Z.md) - [plain]
 | 201 | [Set Me Free](https://open.spotify.com/track/4ayEyRcj8seigcbxm5ys1a) | [Drifter5](https://open.spotify.com/artist/4h0g2CXX0lQauuR7Vsk7TU), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Set Me Free](https://open.spotify.com/album/63xGvmUf5lSwz8NYZb2jZv) | 2:13 |
 | 202 | [Sweet Symphony](https://open.spotify.com/track/4piZuG5D7Krw2iUGk7PKYo) | [Robin Aristo](https://open.spotify.com/artist/0bwRoL3Q12u1FuEsT3X0cs) | [Sweet Symphony](https://open.spotify.com/album/5ICeZU3A6DtzBKTmjTwLY3) | 2:22 |
 
-Snapshot ID: `AAAWjNt2eA6FlQIiQ7prU6LV73M4RTEc`
+Snapshot ID: `AAAWjma1k8vDsdvZdaLoZuH4SSpqa6G3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx7GqrPm7So.md) - [plain]
 
 > Feel good classics to get you grinning!
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,849 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,855 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx7GqrPm7So.md) - [plain]
 | 68 | [I Can Make You Feel Good](https://open.spotify.com/track/7FDGaZMdUGOzhkMEKFleyp) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends](https://open.spotify.com/album/05WzTHfzupdQFuD7cZBRDs) | 4:16 |
 | 69 | [Heaven Must Be Missing an Angel \- Radio Edit](https://open.spotify.com/track/7xJHtECUDzwl7m54YJWEFi) | [Tavares](https://open.spotify.com/artist/3LfO03nEZMdWNHG2tLpMa0) | [Heaven Must be Missing an Angel / More Than a Woman](https://open.spotify.com/album/61vo0hfeksu4ymXxH2GhL3) | 3:53 |
 | 70 | [Play That Funky Music](https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl) | [Wild Cherry](https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG) | [Wild Cherry](https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX) | 5:00 |
-| 71 | [Use It Up and Wear It Out \- Radio Version](https://open.spotify.com/track/5lm46pyP9yPmoAJnHjgXuW) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Use It Up and Wear It Out](https://open.spotify.com/album/6QM6NZTg9W3dmCSQC02LE0) | 3:04 |
+| 71 | [Use It up and Wear It Out \- Radio Version](https://open.spotify.com/track/5lm46pyP9yPmoAJnHjgXuW) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [Use It up and Wear It Out](https://open.spotify.com/album/6QM6NZTg9W3dmCSQC02LE0) | 3:04 |
 | 72 | [Soul Man](https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Soul Men](https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK) | 2:39 |
 | 73 | [Got To Give It Up \- Pt\. 1](https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Every Great Motown Hit Of Marvin Gaye](https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL) | 4:15 |
 | 74 | [Stomp! \- Single Version](https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb) | [The Brothers Johnson](https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD) | [Strawberry Letter 23: The Very Best Of The Brothers Johnson](https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX) | 4:07 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAADs2RehcgGLPBgv/MnEVifp",
+  "snapshot_id": "arHFAAAAAAAyhUFm2EZVO7lYWYAksYEn",
   "tracks": [
     {
       "added_at": null,
@@ -232,9 +232,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 166440,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
+      "duration_ms": 244146,
+      "name": "Slip Slide On By",
+      "url": "https://open.spotify.com/track/3TEojRdSXcNyaDXZDqlr31"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 244146,
-      "name": "Slip Slide On By",
-      "url": "https://open.spotify.com/track/3TEojRdSXcNyaDXZDqlr31"
+      "duration_ms": 166440,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Brighter Blue",
+        "url": "https://open.spotify.com/album/6yI3LmZnE098Pxfa102pIS"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 188164,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/0ilZ7oUP9WaySwnJASgZQs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "For What It's Worth",
         "url": "https://open.spotify.com/album/5o25ZkbK19PYTefKUhCkv8"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 153000,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/5FqXVTKfmWtoV9XFnhGtsj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brighter Blue",
-        "url": "https://open.spotify.com/album/6yI3LmZnE098Pxfa102pIS"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 188164,
-      "name": "I'll Fly Away",
-      "url": "https://open.spotify.com/track/0ilZ7oUP9WaySwnJASgZQs"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tyrannosaur",
-        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
-      },
-      "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 199642,
-      "name": "Tyrannosaur",
-      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Black Country: The Songs of Alice Randall",
         "url": "https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 245066,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tyrannosaur",
+        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 199642,
+      "name": "Tyrannosaur",
+      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
     },
     {
       "added_at": null,

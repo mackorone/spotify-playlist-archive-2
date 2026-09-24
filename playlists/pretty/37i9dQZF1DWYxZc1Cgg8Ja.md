@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxZc1Cgg8Ja.md) - [plain]
 
 > Sonidos latinos para relajarse a cualquier hora del día\. Foto: Karol G
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,652 likes - 71 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,651 likes - 71 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ahí](https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 2:56 |
 | 2 | [Linda](https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j) | [Barboza](https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG) | [AFRO RED 2](https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg) | 2:23 |
 | 3 | [Hot Body \(feat\. Danny Ocean\) \- Remix](https://open.spotify.com/track/0fErhKMUoUGmQ9bBitUwAV) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 3:01 |
-| 4 | [Pegaito](https://open.spotify.com/track/6BfLQqbPkcMgClaea4p3Nj) | [EL RM](https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P) | [Te Gusta Bellak](https://open.spotify.com/album/2kBzFMmQGfB6mI218VBT4z) | 2:30 |
+| 4 | [Pegaito](https://open.spotify.com/track/6BfLQqbPkcMgClaea4p3Nj) | [EL RM](https://open.spotify.com/artist/3iTAQxRGntO3VhpGLt2C3P), [Jey Beat](https://open.spotify.com/artist/77JRGrM0mS0PvLgMfPKjpc) | [Te Gusta Bellak](https://open.spotify.com/album/2kBzFMmQGfB6mI218VBT4z) | 2:30 |
 | 5 | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/track/5OQCghydcEeA76eGdJ6GEa) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CHÉVERE \(joesón\_type\_beat\)](https://open.spotify.com/album/0Jm70JVol2XXCUpSggEk50) | 3:09 |
 | 6 | [TU VAS SIN \(fav\)](https://open.spotify.com/track/6uiQ0DqbXTBc8tl0AUKZkR) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 1:50 |
 | 7 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |

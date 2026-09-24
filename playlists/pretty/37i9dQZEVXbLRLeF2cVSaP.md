@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,839 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,843 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [Танцуй пока молодой \(рэп версия\)](https://open.spotify.com/track/287xZGbHGPpJn7rc1vGwfq) | [Не будите спящих](https://open.spotify.com/artist/5n8CQ00tzzy4jatlVbtUt7) | [Песни, не вошедшие в альбомы](https://open.spotify.com/album/68EES2PxrScQaMlBfXkDYr) | 3:34 |
 | 50 | [первый скилл](https://open.spotify.com/track/1FxcGrzFaxNWR9YXfdNQKX) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [новый альбом про любовь](https://open.spotify.com/album/0x7xXGfXiAEpbOwzRFNBuo) | 2:05 |
 
-Snapshot ID: `MkX4gAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MkdHqAAAAAAAAAAAAAAAAAAAAAAAAGVu`

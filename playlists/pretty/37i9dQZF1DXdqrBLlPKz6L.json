@@ -1,6 +1,6 @@
 {
   "description": "Los temas m\u00e1s prendidos del trap desde Venezuela, Colombia, Per\u00fa y Ecuador. Foto: GeezyDee y Kris R.",
-  "num_followers": 45896,
+  "num_followers": 45927,
   "original_name": "Trapperz Andinos",
   "owner": {
     "name": "Spotify",
@@ -84,16 +84,16 @@
       },
       "artists": [
         {
-          "name": "El Goldo",
-          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
-        },
-        {
           "name": "Bigg Danny",
           "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
         },
         {
           "name": "El Americano 4KT",
           "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
         }
       ],
       "duration_ms": 139805,

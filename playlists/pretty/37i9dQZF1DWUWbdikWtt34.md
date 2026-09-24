@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang dangdut ngetop Tanah Air\. Cover: King Nassar
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,022 likes - 108 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,016 likes - 108 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

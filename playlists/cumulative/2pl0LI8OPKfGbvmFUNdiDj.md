@@ -4,7 +4,7 @@
 
 > Hand\-picked songs by unsigned bands and independent artists\. Updated Daily.
 
-586 songs - 1 day 9 hr 16 min
+587 songs - 1 day 9 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Algo en Tu Manera de Actuar](https://open.spotify.com/track/1ELDTs0rLA7WRNGonS8OwQ) | [GOE](https://open.spotify.com/artist/4SrGQeETnkwVwPiLg81ywM), [Landeau](https://open.spotify.com/artist/0otWBEumpSn8AuuEA2ckEO) | [Algo en Tu Manera de Actuar](https://open.spotify.com/album/4TVYEYJAf4CT2NIPjY9x8x) | 2:51 | 2025-11-01 | 2025-12-01 |
 | [Alive](https://open.spotify.com/track/7bCLybOMzLDnnSFGpzTcDT) | [Marc Ocram](https://open.spotify.com/artist/6nIiuaM9vwePMOtklXfagK) | [Alive](https://open.spotify.com/album/7JVqWLK0aI5rdAfmkikp88) | 4:17 | 2025-12-24 | 2026-01-15 |
 | [All Day, All Night](https://open.spotify.com/track/31OBi74BHBJ13DHwjC96ge) | [Rue Rue](https://open.spotify.com/artist/78cnqjlGd1LUdz4zt5AgxU) | [All Day, All Night](https://open.spotify.com/album/4TPAwemfELJTdh045rg1PO) | 2:09 | 2026-04-24 | 2026-05-26 |
+| [All i ever wanted](https://open.spotify.com/track/5EyoH8vk6UZ23j6AuriG5S) | [Johnny Scott](https://open.spotify.com/artist/2Puyl7pb2WOipiBORyFKKH) | [Urban Legends](https://open.spotify.com/album/5Rl9408O7edQI7kXWQWfuH) | 2:53 | 2026-09-23 |  |
 | [All In](https://open.spotify.com/track/663hZ5d086UY6QZUCwmGFU) | [Drip Label](https://open.spotify.com/artist/4aR0chhEdjyxu9y9JkCqXR) | [All In](https://open.spotify.com/album/2VYG35zYIpbRF9YQPjXXeG) | 3:12 | 2025-11-10 | 2025-12-01 |
 | [Almost Home](https://open.spotify.com/track/0aVnuMnp7Cwf6iQ5XWbwkA) | [Tin Zelkova](https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu) | [The Rock Made To Roll](https://open.spotify.com/album/7FoO01yjnTqwvvMZ2QNQ18) | 5:22 | 2026-02-24 | 2026-05-26 |
 | [Alone](https://open.spotify.com/track/3vVkD9DIf5sMED4LaSV9fZ) | [Kevin ISM](https://open.spotify.com/artist/0j9p7CyqOBHWKiIFFIqfO9) | [Alone](https://open.spotify.com/album/4mdP1np8HzR3JyB3Zf9dts) | 3:25 | 2026-06-26 | 2026-08-08 |

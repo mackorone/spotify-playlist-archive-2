@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 605857,
+  "num_followers": 605997,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
-        "name": "Tres Rosas",
-        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
-      },
-      "artists": [
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 163080,
-      "name": "Tres Rosas",
-      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
         "name": "La Cone",
         "url": "https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 251942,
       "name": "La Cone",
       "url": "https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
+        "name": "Tres Rosas",
+        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
+      },
+      "artists": [
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 163080,
+      "name": "Tres Rosas",
+      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
     },
     {
       "added_at": "2026-08-11 14:10:49",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26/66",
+        "url": "https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        }
+      ],
+      "duration_ms": 142703,
+      "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26/66",
+      "url": "https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "5 Stars (feat. Polim\u00e1 Westcoast)",
         "url": "https://open.spotify.com/album/6rkXVqUqFTSeBe611ar0La"
       },
@@ -2107,26 +2127,6 @@
       "duration_ms": 244971,
       "name": "5 Stars (feat. Polim\u00e1 Westcoast)",
       "url": "https://open.spotify.com/track/7KAveXwQ5xzdHT6GDlNIBu"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26/66",
-        "url": "https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        }
-      ],
-      "duration_ms": 142703,
-      "name": "Lucho SSJ: Bzrp Music Sessions, Vol. 26/66",
-      "url": "https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85"
     },
     {
       "added_at": "2026-08-11 14:10:49",

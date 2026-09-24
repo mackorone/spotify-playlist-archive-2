@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAABB8ascKlfJ0J3W8bBsQZcu",
+  "snapshot_id": "arHFAAAAAAAyxAF0pTRr7xvqjoagSx5f",
   "tracks": [
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Supera\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
-      },
-      "artists": [
-        {
-          "name": "Damares",
-          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
-        },
-        {
-          "name": "Lucas Roque e Gabriel",
-          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
-        }
-      ],
-      "duration_ms": 297058,
-      "name": "O Cuidar de Deus (feat. Lucas Roque e Gabriel)",
-      "url": "https://open.spotify.com/track/0jHl8W1L7LciXlyoI56Cwq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terceiro C\u00e9u",
         "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 267398,
       "name": "O Le\u00e3o",
       "url": "https://open.spotify.com/track/3xMzTie4gkSwKbI7YhBi9d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Supera\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        },
+        {
+          "name": "Lucas Roque e Gabriel",
+          "url": "https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O"
+        }
+      ],
+      "duration_ms": 297058,
+      "name": "O Cuidar de Deus (feat. Lucas Roque e Gabriel)",
+      "url": "https://open.spotify.com/track/0jHl8W1L7LciXlyoI56Cwq"
     },
     {
       "added_at": null,

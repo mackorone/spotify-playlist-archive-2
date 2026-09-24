@@ -1,6 +1,6 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Miley Cyrus",
-  "num_followers": 921173,
+  "num_followers": 921117,
   "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
@@ -163,17 +163,21 @@
     {
       "added_at": "2026-09-22 18:02:23",
       "album": {
-        "name": "Small Town",
+        "name": "Small Town (feat. Gabriel Jacoby)",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town",
+      "name": "Small Town (feat. Gabriel Jacoby)",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {

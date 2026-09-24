@@ -106143,7 +106143,7 @@
     },
     {
       "album": {
-        "name": "Who Is The Sky?",
+        "name": "Who Is The Sky? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A"
       },
       "artists": [
@@ -133426,6 +133426,24 @@
     {
       "album": {
         "name": "Roses",
+        "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208331,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C"
+    },
+    {
+      "album": {
+        "name": "Roses",
         "url": "https://open.spotify.com/album/7EFRZB2ih19Af7Y8Au1N81"
       },
       "artists": [
@@ -142279,20 +142297,24 @@
     },
     {
       "album": {
-        "name": "Small Town",
+        "name": "Small Town (feat. Gabriel Jacoby)",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
         }
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169981,
-      "name": "Small Town",
+      "name": "Small Town (feat. Gabriel Jacoby)",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {

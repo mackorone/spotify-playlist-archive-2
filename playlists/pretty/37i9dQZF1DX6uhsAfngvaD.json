@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 322292,
+  "num_followers": 322296,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "rest up",
+        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "duration_ms": 204464,
+      "name": "rest up",
+      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "rest up",
-        "url": "https://open.spotify.com/album/1ctBuXXFgblyXuqBzOH5Ue"
-      },
-      "artists": [
-        {
-          "name": "boy pablo",
-          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
-        }
-      ],
-      "duration_ms": 204464,
-      "name": "rest up",
-      "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Cricket Songs",
-        "url": "https://open.spotify.com/album/26bo5J4lnlEcCV1LygSfGM"
-      },
-      "artists": [
-        {
-          "name": "Phantom Handshakes",
-          "url": "https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo"
-        }
-      ],
-      "duration_ms": 230480,
-      "name": "Cricket Songs",
-      "url": "https://open.spotify.com/track/1X6YvgGzWH9t6io3ZBZ7JP"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Damn I'm Tired",
         "url": "https://open.spotify.com/album/0LqHbdzLluBS0k9Wh7bmKu"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 225732,
       "name": "Damn I'm Tired",
       "url": "https://open.spotify.com/track/3HyzMwZ7JHVp07a9YQnpWJ"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Cricket Songs",
+        "url": "https://open.spotify.com/album/26bo5J4lnlEcCV1LygSfGM"
+      },
+      "artists": [
+        {
+          "name": "Phantom Handshakes",
+          "url": "https://open.spotify.com/artist/1zg9SzoXC2U50P7Q403Alo"
+        }
+      ],
+      "duration_ms": 230480,
+      "name": "Cricket Songs",
+      "url": "https://open.spotify.com/track/1X6YvgGzWH9t6io3ZBZ7JP"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Blue Arcade",
-        "url": "https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd"
-      },
-      "artists": [
-        {
-          "name": "Caroline Loveglow",
-          "url": "https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr"
-        }
-      ],
-      "duration_ms": 217647,
-      "name": "Blue Arcade",
-      "url": "https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "Love Addict",
         "url": "https://open.spotify.com/album/347K9XD3vWxt7AWhOawXTR"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 182000,
       "name": "Alone",
       "url": "https://open.spotify.com/track/1W91GlNLLC6y0xXg1RLtie"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Blue Arcade",
+        "url": "https://open.spotify.com/album/5cd1Eoqh8XtOvrhyDa0Ehd"
+      },
+      "artists": [
+        {
+          "name": "Caroline Loveglow",
+          "url": "https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr"
+        }
+      ],
+      "duration_ms": 217647,
+      "name": "Blue Arcade",
+      "url": "https://open.spotify.com/track/5Id7y5MkbCDY4i81QYpctc"
     }
   ],
   "unique_name": "Dreampop",

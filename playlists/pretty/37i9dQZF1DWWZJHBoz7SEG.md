@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡México se celebra todo el mes patrio! La fiesta sigue en compañía de Don Chente y Banda MS 🫡
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,607 likes - 76 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,517 likes - 76 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

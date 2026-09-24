@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur des ann\u00e9es 70 en 70 titres.",
-  "num_followers": 207322,
+  "num_followers": 207331,
   "original_name": "Ann\u00e9es 70",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 192826,
-      "name": "Goodbye Yellow Brick Road - Remastered 2014",
-      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "The Best Of Earth, Wind & Fire Vol. 1",
         "url": "https://open.spotify.com/album/2FW0uQ4WL25umm5p2VrZO7"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 215005,
       "name": "September",
       "url": "https://open.spotify.com/track/2grjqo0Frpf2okIBiifQKs"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 192826,
+      "name": "Goodbye Yellow Brick Road - Remastered 2014",
+      "url": "https://open.spotify.com/track/4IRHwIZHzlHT1FQpRa5RdE"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Le chanteur (Remastered)",
-        "url": "https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Balavoine",
-          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
-        }
-      ],
-      "duration_ms": 234112,
-      "name": "Le chanteur",
-      "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "Celebration: The Best Of Kool & The Gang (1979-1987)",
         "url": "https://open.spotify.com/album/6HrxTtsF46JKueFEs8S4p5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 209706,
       "name": "Ladies Night - Single Version",
       "url": "https://open.spotify.com/track/2GUESfQxaSuauM5fwiRkXb"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Le chanteur (Remastered)",
+        "url": "https://open.spotify.com/album/6iD2al84zRCSAx7RhShrDI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Balavoine",
+          "url": "https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7"
+        }
+      ],
+      "duration_ms": 234112,
+      "name": "Le chanteur",
+      "url": "https://open.spotify.com/track/0VKxd6VnCZMv5uQCdC7qXf"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "The Best Of",
         "url": "https://open.spotify.com/album/6lap95wPl0DwJva1FLGIfx"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 217733,
       "name": "Don't Leave Me This Way",
       "url": "https://open.spotify.com/track/4Af8yzidDPc520TFd4TmkE"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2026-03-19 15:33:21",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-03-19 15:33:21",
       "album": {
-        "name": "A Night At The Opera (2011 Remaster)",
-        "url": "https://open.spotify.com/album/1TSZDcvlPtAnekTaItI3qO"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 354320,
-      "name": "Bohemian Rhapsody - Remastered 2011",
-      "url": "https://open.spotify.com/track/1AhDOtG9vPSOmsWgNW0BEY"
-    },
-    {
-      "added_at": "2026-03-19 15:33:21",
-      "album": {
         "name": "All Things Must Pass (Remastered 2014)",
         "url": "https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 281226,
       "name": "My Sweet Lord - Remastered 2014",
       "url": "https://open.spotify.com/track/0qdQUeKVyevrbKhAo0ibxS"
+    },
+    {
+      "added_at": "2026-03-19 15:33:21",
+      "album": {
+        "name": "A Night At The Opera (2011 Remaster)",
+        "url": "https://open.spotify.com/album/1TSZDcvlPtAnekTaItI3qO"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 354320,
+      "name": "Bohemian Rhapsody - Remastered 2011",
+      "url": "https://open.spotify.com/track/1AhDOtG9vPSOmsWgNW0BEY"
     },
     {
       "added_at": "2026-03-19 15:33:21",

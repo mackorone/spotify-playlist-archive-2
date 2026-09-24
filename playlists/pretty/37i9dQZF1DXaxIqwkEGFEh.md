@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Youngboy Never Broke Again
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,385 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,263,412 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 84 | [Leverage](https://open.spotify.com/track/53yvq11tzawLo4jG2Ntc7U) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Leverage](https://open.spotify.com/album/03tYOwoE3V8iOFsuLeeWkS) | 3:04 |
 | 85 | [Against the Odds](https://open.spotify.com/track/3jSUmjaleVTWLYC7LRJdEN) | [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb) | [No Biggie](https://open.spotify.com/album/14TqMCSbaLGaVCBkI1wJK1) | 2:41 |
 | 86 | [So Not Sorry](https://open.spotify.com/track/1iwMql4p7HmFI0H8fSnwqJ) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [ML2](https://open.spotify.com/album/4myjAoCPL3ydX9fi92FibQ) | 2:18 |
-| 87 | [From The Bottom](https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 2:02 |
+| 87 | [FROM THE BOTTOM](https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [600 Ent.](https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU) | [I Hope You're Happy \(Deluxe\)](https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX) | 2:02 |
 | 88 | [Life Of A Hot Nigga](https://open.spotify.com/track/3sj9ebwU57QjJpvpu0DGiK) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Can't Stop Won't Stop 2](https://open.spotify.com/album/3CIhzIIWwWPPHpxSy9sQjl) | 2:23 |
 | 89 | [Stressed](https://open.spotify.com/track/15LA3MVEKT2t5IQeUUNmZy) | [LIL 2K](https://open.spotify.com/artist/5wNxMbfvCSGHGTCA0XpuwH) | [Stressed](https://open.spotify.com/album/7vwHJ89hLnZ5xjtdk4z8CZ) | 3:27 |
 | 90 | [Fuk Em](https://open.spotify.com/track/4PAs9QivjLo95KNLGDd1pk) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Fuk Em](https://open.spotify.com/album/490kPkFxsMR51izk8lLrtv) | 2:46 |

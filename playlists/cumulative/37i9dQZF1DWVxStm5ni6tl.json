@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-27",
-  "description": "The best new music by independent artists and labels in Canada. Updates every month. Cover: Ada Lea, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in Canada. Updates every Wednesday. Cover: Faiza, Artwork: Isu Kim",
   "name": "Fresh Finds Canada",
   "tracks": [
     {
@@ -2683,6 +2683,28 @@
     },
     {
       "album": {
+        "name": "Alright, alright",
+        "url": "https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo"
+      },
+      "artists": [
+        {
+          "name": "646yf4t",
+          "url": "https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF"
+        },
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/3kaAPw6xYzlmBhp3aQYuC9"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "Alright, alright",
+      "url": "https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD"
+    },
+    {
+      "album": {
         "name": "Alter Reality",
         "url": "https://open.spotify.com/album/5dUAmewUY6LZPoItFxh5gL"
       },
@@ -4268,7 +4290,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 143084,
       "name": "Bags",
       "url": "https://open.spotify.com/track/44LFoQ2KdnmsbaOfqNgC6e"
@@ -4984,7 +5006,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 153704,
       "name": "besos",
       "url": "https://open.spotify.com/track/2M2cm5qcAtBZm3JanZeuw0"
@@ -5750,7 +5772,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 123497,
       "name": "BLADE IT",
       "url": "https://open.spotify.com/track/1mVGqHDMtAYb1j2ragmVDU"
@@ -13674,7 +13696,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 215040,
       "name": "Double Up",
       "url": "https://open.spotify.com/track/4Otrkc485zvDh6cabbSy57"
@@ -18538,7 +18560,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 144146,
       "name": "Girl's Night",
       "url": "https://open.spotify.com/track/3oEIu75gbYaXvBuSaETbWG"
@@ -18878,7 +18900,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 194397,
       "name": "GO GO GO",
       "url": "https://open.spotify.com/track/5Kb3xUlNQoQHPmX95OQlk8"
@@ -19132,7 +19154,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 154285,
       "name": "Good Call",
       "url": "https://open.spotify.com/track/0gPQHK0aACRv5JAhIWdpjB"
@@ -20310,7 +20332,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 182000,
       "name": "hard to breathe",
       "url": "https://open.spotify.com/track/36bmL8WnF6RFESvdpjB6NE"
@@ -20386,7 +20408,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 151855,
       "name": "Harley Quinn",
       "url": "https://open.spotify.com/track/4GafbArl4iLP6YnSWbf4t3"
@@ -20494,7 +20516,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 177875,
       "name": "Haunted",
       "url": "https://open.spotify.com/track/3jdCyYp9xEgeNZexXZ2RFe"
@@ -22360,7 +22382,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 181417,
       "name": "How It Goes",
       "url": "https://open.spotify.com/track/4zz4ovQfpellqrHaFxwfoO"
@@ -25088,7 +25110,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 133924,
       "name": "It's Obvious",
       "url": "https://open.spotify.com/track/6AznC3ZKfpBs7I9RLlKY5w"
@@ -25896,7 +25918,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 173281,
       "name": "Jump",
       "url": "https://open.spotify.com/track/4vOcBkPhljHbMKor8qTQ5M"
@@ -26638,7 +26660,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 80516,
       "name": "kiss",
       "url": "https://open.spotify.com/track/2lZBzFQZjQHG2dENC5pWY2"
@@ -26728,7 +26750,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 159310,
       "name": "Kissing Underwater",
       "url": "https://open.spotify.com/track/6bmcfa6rrkP63zqB3f3v9f"
@@ -30306,7 +30328,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 172080,
       "name": "MAKE IT RIGHT",
       "url": "https://open.spotify.com/track/49XgW6c6uuYIXvXBcVCCQ1"
@@ -31580,6 +31602,24 @@
       "duration_ms": 121706,
       "name": "MILLION IN ONES",
       "url": "https://open.spotify.com/track/0sqtVOc7tb20VMXR6ckd6b"
+    },
+    {
+      "album": {
+        "name": "Mind Candy",
+        "url": "https://open.spotify.com/album/0HwoUHdQDPBtzDlszSRG6L"
+      },
+      "artists": [
+        {
+          "name": "AVIV",
+          "url": "https://open.spotify.com/artist/1EWcnusq6BavKMW5OCsRMo"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199162,
+      "name": "Mind Candy",
+      "url": "https://open.spotify.com/track/4dsxwfeFcXPFE4ya2QlrjM"
     },
     {
       "album": {
@@ -34190,7 +34230,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 129558,
       "name": "New Drop",
       "url": "https://open.spotify.com/track/4m6KMftkq26KfRi4c945OO"
@@ -39000,7 +39040,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 179974,
       "name": "PICK RIGHT",
       "url": "https://open.spotify.com/track/4f5wOf1GYhiEOVTijixs1l"
@@ -39726,7 +39766,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 217021,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/14XV1Fmz0JsMrRjk3WkGeu"
@@ -41008,7 +41048,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 88717,
       "name": "Pwn'd!",
       "url": "https://open.spotify.com/track/4VJpqruxYOrc1kKCxDiNod"
@@ -43030,7 +43070,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 210132,
       "name": "Run",
       "url": "https://open.spotify.com/track/1iwHDBFMlnkeshvsCe53VD"
@@ -43390,6 +43430,28 @@
       "duration_ms": 196128,
       "name": "R\u00eave le fun",
       "url": "https://open.spotify.com/track/2Vz21NV1mAx9dbIUJcUTEu"
+    },
+    {
+      "album": {
+        "name": "R\u00eave un peu",
+        "url": "https://open.spotify.com/album/1pDVsUQc9tW45FdhGvkyyu"
+      },
+      "artists": [
+        {
+          "name": "Raccoon",
+          "url": "https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c"
+        },
+        {
+          "name": "ANJXLXE",
+          "url": "https://open.spotify.com/artist/6zoqIceCJJl2677ANvkmyb"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146747,
+      "name": "R\u00eave un peu",
+      "url": "https://open.spotify.com/track/47uVshCuGbjYhlpNnaNPce"
     },
     {
       "album": {
@@ -52051,6 +52113,24 @@
     },
     {
       "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/2ok0t0EGlpNAdnSrDuQt1j"
+      },
+      "artists": [
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3SRlVBEKrbZ2eV7281uH7q"
+    },
+    {
+      "album": {
         "name": "THEY DON'T MAKE GIRLS LIKE YOU",
         "url": "https://open.spotify.com/album/2cCUbMOTEF5v67C3TOhMM8"
       },
@@ -54558,7 +54638,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 217562,
       "name": "Up Until Now",
       "url": "https://open.spotify.com/track/250g6wyRGiCIlZqvC0xvqN"
@@ -54648,7 +54728,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 152648,
       "name": "used to",
       "url": "https://open.spotify.com/track/24IqMnCjm2hRTJPuOSKPgT"
@@ -56268,7 +56348,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 205266,
       "name": "WET WET",
       "url": "https://open.spotify.com/track/6f90CkFNRLn4gAfWDWEHmB"
@@ -56370,6 +56450,24 @@
       "duration_ms": 170869,
       "name": "What A Way To Go",
       "url": "https://open.spotify.com/track/1BRaaNsHfcAFVZPJkmJgVp"
+    },
+    {
+      "album": {
+        "name": "Angelic Crashout",
+        "url": "https://open.spotify.com/album/4AMTgSoYEkWhOon0wm0cuI"
+      },
+      "artists": [
+        {
+          "name": "Mulan",
+          "url": "https://open.spotify.com/artist/0if3HHGleV8hxxn38NyMOn"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158890,
+      "name": "What Am I",
+      "url": "https://open.spotify.com/track/6Q928SBQDBDYkv1snqXGVv"
     },
     {
       "album": {
@@ -58066,7 +58164,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 175774,
       "name": "WYM",
       "url": "https://open.spotify.com/track/3gNCANtqhUCEJVEHnYh47S"

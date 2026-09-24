@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! \(Cover: CLOSE YOUR EYES\)
 
-1,810 songs - 4 day 0 hr 30 min
+1,811 songs - 4 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1342,6 +1342,7 @@
 | [Say It](https://open.spotify.com/track/4IiZmwQIkApeVxHDujXJft) | [AtHeart](https://open.spotify.com/artist/0ON7aUm308hzonzZGpZUvB) | [Say It](https://open.spotify.com/album/65RBsDOKOTGm4EW6dGgV6a) | 3:04 | 2026-06-27 | 2026-08-21 |
 | [SAY MY NAME](https://open.spotify.com/track/2bqJlYb6t4lXKGB4Xd4TjK) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [SAY MY NAME](https://open.spotify.com/album/0ZqsXIBaGGO8I1AbCxAdyt) | 3:25 | 2020-10-13\* | 2021-01-18 |
 | [Say My Name](https://open.spotify.com/track/675IZk8daYLNCcBZHgGcss) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [MY, Lover](https://open.spotify.com/album/6kJ5z2JLigSboCsfqjyz5h) | 2:39 | 2025-11-03 | 2025-12-16 |
+| [Say Yes!](https://open.spotify.com/track/20k8jupyPevVfg9FlmKN3o) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [FIRST LIGHT : 井](https://open.spotify.com/album/1XH7OxwQ8Pa2epsw0hVcrr) | 3:04 | 2026-09-22 |  |
 | [Scared](https://open.spotify.com/track/4qQ3e0YD83kblcnb8R0sIw) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [DISHARMONY : BREAK OUT](https://open.spotify.com/album/2QBdsbcBsTHVLlbAXBxaey) | 3:08 | 2021-04-22 | 2021-06-25 |
 | [Scenario](https://open.spotify.com/track/4HZXQpfYj1YArf2EfzEjf5) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [面 : Unknown Atlas](https://open.spotify.com/album/07KPt6uHFqEJ4x5U7C3rX4) | 3:43 | 2026-08-20 |  |
 | [SCIENTIST](https://open.spotify.com/track/0BJMgVrnWIvgYsjq8KaPeh) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/5052Ip89wdW8EGdpjEpNeq) | 3:14 | 2021-11-13 | 2022-01-20 |

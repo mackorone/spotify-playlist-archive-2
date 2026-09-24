@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>.  Cover: Atif Aslam",
+  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>.  Cover: Hania Aamir",
   "name": "Desi Pop",
   "tracks": [
     {
@@ -400,6 +400,28 @@
       "duration_ms": 190434,
       "name": "After Party",
       "url": "https://open.spotify.com/track/1xzXdnoVhFLNVIFSxxfDCI"
+    },
+    {
+      "album": {
+        "name": "Alfaaz",
+        "url": "https://open.spotify.com/album/41jcM2Nk286Rghi16VGTax"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        },
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184373,
+      "name": "Alfaaz",
+      "url": "https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G"
     },
     {
       "album": {
@@ -2033,6 +2055,32 @@
     },
     {
       "album": {
+        "name": "Dil | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/2UuTBgTE0qg0DhE7xyrUcZ"
+      },
+      "artists": [
+        {
+          "name": "Afusic",
+          "url": "https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx"
+        },
+        {
+          "name": "Zoha Waseem",
+          "url": "https://open.spotify.com/artist/20DlRoUeIcVHGEEgYuvvZ8"
+        },
+        {
+          "name": "AliSoomroMusic",
+          "url": "https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186185,
+      "name": "Dil | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/5qZZiU7CqeLFUPL8afsiSd"
+    },
+    {
+      "album": {
         "name": "Dilawara",
         "url": "https://open.spotify.com/album/6Q9uRhFdTKxWGItb71JcQh"
       },
@@ -3047,6 +3095,36 @@
     },
     {
       "album": {
+        "name": "DESIGNERR",
+        "url": "https://open.spotify.com/album/0A45aqNo4WGZf16u9m5yIa"
+      },
+      "artists": [
+        {
+          "name": "Jokhay",
+          "url": "https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        },
+        {
+          "name": "Talhah Yunus",
+          "url": "https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276666,
+      "name": "HOME",
+      "url": "https://open.spotify.com/track/1MKBvwicNG6Udmueu0Suck"
+    },
+    {
+      "album": {
         "name": "MEEN",
         "url": "https://open.spotify.com/album/0x8LEMRVAJWEdX6cGEcJeu"
       },
@@ -3144,6 +3222,42 @@
       "duration_ms": 181118,
       "name": "Hor Labna",
       "url": "https://open.spotify.com/track/07fr8Qm6nFwUvIb2haXmni"
+    },
+    {
+      "album": {
+        "name": "Hum",
+        "url": "https://open.spotify.com/album/7idG3a5Nmotd02hA6ifD0f"
+      },
+      "artists": [
+        {
+          "name": "Murtaza Qizilbash",
+          "url": "https://open.spotify.com/artist/6hIXwlI4wny3zYuB6cDBBk"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275076,
+      "name": "Hum",
+      "url": "https://open.spotify.com/track/7oNZfE9wnu7SP55LwNSiKG"
+    },
+    {
+      "album": {
+        "name": "Subah Aye Na",
+        "url": "https://open.spotify.com/album/2DWyg29G3hZ8WaHhyzDWuf"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348961,
+      "name": "Hun Ishq Main",
+      "url": "https://open.spotify.com/track/4B4aEVKwc2ZQUwkQaodceV"
     },
     {
       "album": {
@@ -4136,7 +4250,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 213344,
       "name": "Kinni Kinni",
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
@@ -5849,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "Pablo",
+        "url": "https://open.spotify.com/album/41WcjlLxGl5uI9J325Ffyz"
+      },
+      "artists": [
+        {
+          "name": "Hania Aamir",
+          "url": "https://open.spotify.com/artist/0Mqyon2f1de1y9AcGbb1Jf"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126593,
+      "name": "Pablo",
+      "url": "https://open.spotify.com/track/1PLT6v3VhugzzLarvG76Ko"
+    },
+    {
+      "album": {
         "name": "Pal Pal",
         "url": "https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS"
       },
@@ -6060,6 +6192,24 @@
       "duration_ms": 247808,
       "name": "Pehla Nasha 2.0",
       "url": "https://open.spotify.com/track/2p5ETiuOn33KxupCfJyXLi"
+    },
+    {
+      "album": {
+        "name": "Phir Mileinge Hum",
+        "url": "https://open.spotify.com/album/0v16YCJsMxkrC0IQbVUIKn"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182535,
+      "name": "Phir Mileinge Hum",
+      "url": "https://open.spotify.com/track/4MXrxm7NwiDzdIdiawJyKu"
     },
     {
       "album": {
@@ -6288,6 +6438,32 @@
       "duration_ms": 188400,
       "name": "Rang",
       "url": "https://open.spotify.com/track/38rj3cH6qGnUfqVixVOwBm"
+    },
+    {
+      "album": {
+        "name": "Rangeen | Coke Studio Nu.WAV",
+        "url": "https://open.spotify.com/album/4aLu7Zndj5FQRV1Oh62Tgy"
+      },
+      "artists": [
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Izzchughtai",
+          "url": "https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S"
+        },
+        {
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221443,
+      "name": "Rangeen | Coke Studio Nu.WAV",
+      "url": "https://open.spotify.com/track/7cO7GWk6vUGNcAUXMJ2Bdj"
     },
     {
       "album": {
@@ -6525,6 +6701,24 @@
     },
     {
       "album": {
+        "name": "Sadaayein",
+        "url": "https://open.spotify.com/album/5Ax9kqM4sClgQGx4U6fqU2"
+      },
+      "artists": [
+        {
+          "name": "Samar Jafri",
+          "url": "https://open.spotify.com/artist/4UjFSd24FZluVytp1sk7qq"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222439,
+      "name": "Sadaayein",
+      "url": "https://open.spotify.com/track/1a2mSdWOWMcdXiohlzuo6S"
+    },
+    {
+      "album": {
         "name": "Sadi Sun",
         "url": "https://open.spotify.com/album/6ZENcGCDaHcZKVL9mX4nrf"
       },
@@ -6580,7 +6774,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 203793,
       "name": "Safar Main Hu",
       "url": "https://open.spotify.com/track/5YIvOt2cALjy8cR6jviZRg"
@@ -7566,6 +7760,44 @@
       "duration_ms": 208000,
       "name": "Tera Mera Hai Pyar (From \"Ishq Murshid\")",
       "url": "https://open.spotify.com/track/7n3BVENCi9odYvNeFwcmCv"
+    },
+    {
+      "album": {
+        "name": "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
+        "url": "https://open.spotify.com/album/3R8qQ8ifykBRRMfjkxQ6LE"
+      },
+      "artists": [
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        },
+        {
+          "name": "Saaj Bhatt",
+          "url": "https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj"
+        },
+        {
+          "name": "Subodhh Sharma",
+          "url": "https://open.spotify.com/artist/1dWf4FUHnUgKHkSNmPofYx"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365294,
+      "name": "Tera Mera Rishta - New Version (From \"Awarapan 2\")",
+      "url": "https://open.spotify.com/track/1MOqdEnMcD4r0zMYEmp9Ju"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Brand new music from beabadoobee, Miley Cyrus, Skepta, Troye Sivan and more! ",
-  "num_followers": 1037334,
+  "num_followers": 1037262,
   "original_name": "New Music Friday UK & Ireland",
   "owner": {
     "name": "Spotify",
@@ -83,17 +83,21 @@
     {
       "added_at": "2026-09-17 23:00:46",
       "album": {
-        "name": "Small Town",
+        "name": "Small Town (feat. Gabriel Jacoby)",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town",
+      "name": "Small Town (feat. Gabriel Jacoby)",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {
@@ -1331,7 +1335,7 @@
     {
       "added_at": "2026-09-17 23:00:46",
       "album": {
-        "name": "Who Is The Sky?",
+        "name": "Who Is The Sky? (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A"
       },
       "artists": [

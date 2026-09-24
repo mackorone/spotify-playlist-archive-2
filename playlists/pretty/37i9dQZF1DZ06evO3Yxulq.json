@@ -1,12 +1,12 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 41914,
+  "num_followers": 41918,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAAC5VOsQ1GsChYUw6k25mmHx",
+  "snapshot_id": "arHFAAAAAAACGXv1pWfCy11Zvs6Hin5F",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 326974,
+      "name": "Yahweh",
+      "url": "https://open.spotify.com/track/1mAFnZcwyrQD93RX5jLJBj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Homecoming (Espa\u00f1ol)",
         "url": "https://open.spotify.com/album/1kifdLXic75PKnWsDOVgru"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 633065,
       "name": "C\u00f3mo No Voy A Creer",
       "url": "https://open.spotify.com/track/1RxTsEdn5cQWdsz8fJrPmC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 326974,
-      "name": "Yahweh",
-      "url": "https://open.spotify.com/track/1mAFnZcwyrQD93RX5jLJBj"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Grande y Fiel (Live)",
+        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+      },
+      "artists": [
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 335528,
+      "name": "El Shaddai - Live",
+      "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mi Necesidad (Live)",
         "url": "https://open.spotify.com/album/3AG8OFmIegy0XtJsyptbFZ"
       },
@@ -495,22 +515,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grande y Fiel (Live)",
-        "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
+        "name": "Eterno (Live)",
+        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
       },
       "artists": [
-        {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
-        },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 335528,
-      "name": "El Shaddai - Live",
-      "url": "https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB"
+      "duration_ms": 359583,
+      "name": "En el Trono Est\u00e1",
+      "url": "https://open.spotify.com/track/4coOgCZ2Fmg3OOVfuNCAPe"
     },
     {
       "added_at": null,
@@ -535,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eterno (Live)",
-        "url": "https://open.spotify.com/album/6RLlR3KjR7kNUsz8FRW2PS"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 359583,
-      "name": "En el Trono Est\u00e1",
-      "url": "https://open.spotify.com/track/4coOgCZ2Fmg3OOVfuNCAPe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1s Profundo",
         "url": "https://open.spotify.com/album/53P8BfWdQ6m9yjM6tw9ldM"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 293173,
       "name": "Tu Presencia Es el Cielo",
       "url": "https://open.spotify.com/track/3q8nKaROEYFKAqJX9IwXMx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hasta Poder Ver",
-        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 346071,
-      "name": "Respirar del Cielo",
-      "url": "https://open.spotify.com/track/6DiHzZu4jl8v3g6COAyUQL"
     },
     {
       "added_at": null,
@@ -599,6 +583,22 @@
       "duration_ms": 351542,
       "name": "Yo Te Busco",
       "url": "https://open.spotify.com/track/0uYyXqF4CdeQFDEx73sc64"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hasta Poder Ver",
+        "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 346071,
+      "name": "Respirar del Cielo",
+      "url": "https://open.spotify.com/track/6DiHzZu4jl8v3g6COAyUQL"
     },
     {
       "added_at": null,
@@ -731,22 +731,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ambientes de Cuna",
-        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
+        "name": "Pura Sal",
+        "url": "https://open.spotify.com/album/1dQgq5F2YZTFXr9arEe9RO"
       },
       "artists": [
         {
-          "name": "Aliento Kids",
-          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        },
+        {
+          "name": "Julio Melgar",
+          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 452354,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
+      "duration_ms": 266253,
+      "name": "Por la Eternidad",
+      "url": "https://open.spotify.com/track/1GdBhVp7tdfs33NdxdnUFZ"
     },
     {
       "added_at": null,
@@ -783,26 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Sal",
-        "url": "https://open.spotify.com/album/1dQgq5F2YZTFXr9arEe9RO"
+        "name": "Ambientes de Cuna",
+        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
       },
       "artists": [
         {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Aliento Kids",
+          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
         },
         {
           "name": "Christine D'Clario",
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        },
-        {
-          "name": "Julio Melgar",
-          "url": "https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2"
         }
       ],
-      "duration_ms": 266253,
-      "name": "Por la Eternidad",
-      "url": "https://open.spotify.com/track/1GdBhVp7tdfs33NdxdnUFZ"
+      "duration_ms": 452354,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     },
     {
       "added_at": null,

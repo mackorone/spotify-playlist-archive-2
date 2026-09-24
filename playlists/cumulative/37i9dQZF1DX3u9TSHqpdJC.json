@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Hannah Hu. Artwork by Paola Saliby",
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: googly eyes. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -3831,6 +3831,24 @@
     },
     {
       "album": {
+        "name": "Always The Same",
+        "url": "https://open.spotify.com/album/0UQd6myReEV9LZ5NcT1lJW"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Always The Same",
+      "url": "https://open.spotify.com/track/5RZomQGckBcXSH8lsKBhqD"
+    },
+    {
+      "album": {
         "name": "The Wishing, The Wanting, The Longing",
         "url": "https://open.spotify.com/album/4Fks75uJTwftRTJRFlBRkl"
       },
@@ -4120,6 +4138,24 @@
       "duration_ms": 205850,
       "name": "Animal",
       "url": "https://open.spotify.com/track/7uav23vy9AFTvpA5fnjGw4"
+    },
+    {
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/39JZEVlJ6VQKs2YQSsRHR1"
+      },
+      "artists": [
+        {
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180471,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe"
     },
     {
       "album": {
@@ -10120,7 +10156,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 163552,
       "name": "Boystore",
       "url": "https://open.spotify.com/track/3fAa3Wl8wDwcfDlWMad5PY"
@@ -18192,7 +18228,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 171544,
       "name": "delusional",
       "url": "https://open.spotify.com/track/46hzNHAyf1dz6gncGM0CpD"
@@ -23058,7 +23094,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 154029,
       "name": "Experiment",
       "url": "https://open.spotify.com/track/1vavMPmK52RKpWUvKWgpL2"
@@ -23098,6 +23134,24 @@
       "duration_ms": 181227,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/17oskAb302jfK8VU1pTFkA"
+    },
+    {
+      "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/57wv3zOHTw2QW13JRt6tPX"
+      },
+      "artists": [
+        {
+          "name": " louii lane",
+          "url": "https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164441,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/2V3vjSqRbYfhPkUrczYnxo"
     },
     {
       "album": {
@@ -28183,6 +28237,24 @@
     },
     {
       "album": {
+        "name": "Girls Like Me Don't Change",
+        "url": "https://open.spotify.com/album/6L7P4H98Nagqf6huajQCjC"
+      },
+      "artists": [
+        {
+          "name": "Syamali",
+          "url": "https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194451,
+      "name": "Girls Like Me Don't Change",
+      "url": "https://open.spotify.com/track/3I3WLLudgxREJVzKsJWfu3"
+    },
+    {
+      "album": {
         "name": "Girl\u2019s Girl",
         "url": "https://open.spotify.com/album/3QhxTB2C1mUdUAlpntDjge"
       },
@@ -31262,6 +31334,24 @@
       "duration_ms": 180845,
       "name": "Heartbeat Melody",
       "url": "https://open.spotify.com/track/4y5ogbGojaURfzPRqH02l5"
+    },
+    {
+      "album": {
+        "name": "Heartblush",
+        "url": "https://open.spotify.com/album/6psB217RGciVr55Ss6c1MI"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204827,
+      "name": "Heartblush",
+      "url": "https://open.spotify.com/track/0AGcI0jKRUFTlVF0dpffsk"
     },
     {
       "album": {
@@ -47259,6 +47349,24 @@
     },
     {
       "album": {
+        "name": "Man Enough",
+        "url": "https://open.spotify.com/album/5kejP2Xd8vdJRZXvpVxmP5"
+      },
+      "artists": [
+        {
+          "name": "Darla Dean Lewis",
+          "url": "https://open.spotify.com/artist/2TEh5cvUSNluFS4IGEbzwF"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197894,
+      "name": "Man Enough",
+      "url": "https://open.spotify.com/track/1318spJdy8mQUKFDMeS65F"
+    },
+    {
+      "album": {
         "name": "Man's World",
         "url": "https://open.spotify.com/album/2VXnH7290GOXo2APenSgoj"
       },
@@ -47944,7 +48052,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 169933,
       "name": "meaningless",
       "url": "https://open.spotify.com/track/3AxVIJ9xZrp6P7vwsS4Z93"
@@ -52500,7 +52608,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 168445,
       "name": "No Narcotics",
       "url": "https://open.spotify.com/track/3x9R6kjsYRX022NcZCXBnQ"
@@ -55966,6 +56074,24 @@
       "duration_ms": 190598,
       "name": "Palm Reader",
       "url": "https://open.spotify.com/track/1uD57YTQoKzTtPW9iGWEe2"
+    },
+    {
+      "album": {
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/7oih3H4FOs1hanid3XZtrM"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140096,
+      "name": "Pandora's Box",
+      "url": "https://open.spotify.com/track/0Zl1zSRORtMFemOV0c79O4"
     },
     {
       "album": {
@@ -64791,6 +64917,24 @@
     },
     {
       "album": {
+        "name": "She's Just A Friend Of Mine",
+        "url": "https://open.spotify.com/album/2RwbSWEsPaS21vssjkLHC2"
+      },
+      "artists": [
+        {
+          "name": "twst",
+          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160265,
+      "name": "She's Just A Friend Of Mine",
+      "url": "https://open.spotify.com/track/4HZb7nI9lA3VNFlZeyw1j8"
+    },
+    {
+      "album": {
         "name": "She's Mine",
         "url": "https://open.spotify.com/album/7AQIoedGAYR8u8f0W5ILw2"
       },
@@ -66836,7 +66980,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 179000,
       "name": "Solo",
       "url": "https://open.spotify.com/track/5E0hXNBZHBVNa67rIzlACp"
@@ -69364,6 +69508,24 @@
       "duration_ms": 215065,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/2h0Ka1uZ0QOX8OJlOaOdLQ"
+    },
+    {
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/3c9NqjSeMwC2CmEVKwOTF6"
+      },
+      "artists": [
+        {
+          "name": "Thilda U",
+          "url": "https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192130,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1v6r9yWdxSDst5EAeIdF4l"
     },
     {
       "album": {
@@ -73542,7 +73704,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 164594,
       "name": "the dog that cries",
       "url": "https://open.spotify.com/track/6NRoy34F0juS7q0JaZibmO"
@@ -73582,7 +73744,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 211541,
       "name": "The Drugs Don't Work Anymore",
       "url": "https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D"
@@ -75194,7 +75356,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 243287,
       "name": "Through generations",
       "url": "https://open.spotify.com/track/6hM2tgX36Cd8zCq3hIpo1p"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from beabadoobee, Miley Cyrus, Skepta, Troye Sivan and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,334 likes - 103 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,262 likes - 103 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 2 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
 | 3 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 4 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 |
-| 5 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 5 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 6 | [Something I Need](https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Something I Need](https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ) | 2:25 |
 | 7 | [Painkiller \(feat\. Denzel Curry\)](https://open.spotify.com/track/4SMv2ovSTKGFbe7iYkM9Rf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Painkiller \(feat\. Denzel Curry\)](https://open.spotify.com/album/2F1FhufyLQkZ8laR5PckEx) | 4:01 |
 | 8 | [Back Of The Club](https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Back Of The Club](https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M) | 2:51 |
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 73 | [Let Me Die \(Curled In Your Arms\)](https://open.spotify.com/track/37NKZWPHvDqPTS85cl5t74) | [Tough Cookie](https://open.spotify.com/artist/7uLaDKp4v0Ne2AAJjJZ1ZQ) | [Let Me Die \(Curled In Your Arms\)](https://open.spotify.com/album/3ug7nkRQFoALUm5h8OcOn5) | 3:56 |
 | 74 | [Witty](https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx) | [Kitty Hall](https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ) | [Witty](https://open.spotify.com/album/4bhf9v3REyvW96YzoY9Bh4) | 3:40 |
 | 75 | [Run With Me](https://open.spotify.com/track/4PoobFrhWTW2z4Bl7zPNPW) | [Waypoint](https://open.spotify.com/artist/2cYKwh8BgTHvonjchKOIqn), [Jazmine Johnson](https://open.spotify.com/artist/31DGmB9yp1uMCkov630Ptz) | [Run With Me](https://open.spotify.com/album/7AVc1eXsx5OeRXJnBARlST) | 4:46 |
-| 76 | [My Madness](https://open.spotify.com/track/2vTtzVu3ZTKep443T63puQ) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky?](https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A) | 3:33 |
+| 76 | [My Madness](https://open.spotify.com/track/2vTtzVu3ZTKep443T63puQ) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky? \(Deluxe Edition\)](https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A) | 3:33 |
 | 77 | [Who Burnt The Mountain](https://open.spotify.com/track/1NPOQKsbhDPeiWU7aGaOzf) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Who Burnt The Mountain](https://open.spotify.com/album/5ZM2J6fkFhgJuSfDJGtTln) | 4:05 |
 | 78 | [Are You Willing](https://open.spotify.com/track/6my2GkulHxUnSzKZkRv38d) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Are You Willing](https://open.spotify.com/album/6STKU0OmvS8oV6N2z3WjBG) | 3:50 |
 | 79 | [Blissed Out](https://open.spotify.com/track/1v3fjHaMNoXYMntxhpUIcF) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Blissed Out](https://open.spotify.com/album/3NDxs3nvQvDUlm8YcFDTbd) | 3:58 |

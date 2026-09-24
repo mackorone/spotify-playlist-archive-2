@@ -722,7 +722,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 147133,
       "name": "Bonfire On The Beach",
       "url": "https://open.spotify.com/track/0gitJl2DwkWujNwIfXd2zp"
@@ -3786,7 +3786,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 149854,
       "name": "Never Drinking Again",
       "url": "https://open.spotify.com/track/11S4Qann0A358swlPCC8J0"
@@ -4006,6 +4006,24 @@
       "duration_ms": 165000,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/5GJD4k0pnqR82k6wTyZip1"
+    },
+    {
+      "album": {
+        "name": "Good Ol' Days",
+        "url": "https://open.spotify.com/album/2IefuIJJJaRjnplEBribfX"
+      },
+      "artists": [
+        {
+          "name": "The Reklaws",
+          "url": "https://open.spotify.com/artist/37lYaYPWOHjKXBD33S6LNv"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197450,
+      "name": "People Don't Talk About",
+      "url": "https://open.spotify.com/track/4xcpiAoUIRtFFqefwYYqlr"
     },
     {
       "album": {

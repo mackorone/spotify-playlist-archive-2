@@ -485,6 +485,28 @@
     },
     {
       "album": {
+        "name": "bloom",
+        "url": "https://open.spotify.com/album/00X0m3Bl3gaiYiOL8HZryn"
+      },
+      "artists": [
+        {
+          "name": "still surface",
+          "url": "https://open.spotify.com/artist/2uRI6ZNZLsmNnc7qRoyOcs"
+        },
+        {
+          "name": "\u00e9nouement",
+          "url": "https://open.spotify.com/artist/4Si65uDCzmOuXSLocLHiaU"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79530,
+      "name": "bloom",
+      "url": "https://open.spotify.com/track/3frDiSCCOXlVbZiwbMoH3K"
+    },
+    {
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6QZT2zNFTKGtNy1xNCeAA2"
       },
@@ -638,7 +660,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 177230,
       "name": "Calm Current",
       "url": "https://open.spotify.com/track/6TndWcfnrvsSoBHKLrDxFE"
@@ -678,7 +700,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 191000,
       "name": "Cenizas",
       "url": "https://open.spotify.com/track/2pEcP8gvx0G1aA3NmNbwlJ"
@@ -989,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "distant feeling",
+        "url": "https://open.spotify.com/album/00oB7CIX2hBwvVily875kB"
+      },
+      "artists": [
+        {
+          "name": "dreamzz",
+          "url": "https://open.spotify.com/artist/3VD6rOPuobjIY9vOO5jaVF"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99600,
+      "name": "distant feeling",
+      "url": "https://open.spotify.com/track/1jopjjRosMaQLfXpD8D6lZ"
+    },
+    {
+      "album": {
         "name": "distant, elsewhere",
         "url": "https://open.spotify.com/album/5kUv2BjnYqalyRvybgmlh5"
       },
@@ -1000,7 +1040,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-19",
+      "date_removed": null,
       "duration_ms": 150006,
       "name": "distant, elsewhere",
       "url": "https://open.spotify.com/track/0hyiG6hBEqrFSnZnHV7lmu"
@@ -1072,7 +1112,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
@@ -1866,7 +1906,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 176000,
       "name": "Hidden Lights",
       "url": "https://open.spotify.com/track/4G7EbpymiUtSY6KGthtvH0"
@@ -2109,6 +2149,24 @@
     },
     {
       "album": {
+        "name": "last days of summer",
+        "url": "https://open.spotify.com/album/2xQn3FifbsiSH7ryHAigaE"
+      },
+      "artists": [
+        {
+          "name": "n\u0153m.",
+          "url": "https://open.spotify.com/artist/04nJ7yf5t9iE3QMW5APTwE"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125606,
+      "name": "last days of summer",
+      "url": "https://open.spotify.com/track/5sImR8kG7oW7csP4QhtoXI"
+    },
+    {
+      "album": {
         "name": "let me climb the stars",
         "url": "https://open.spotify.com/album/0bzc8E4lLiJU37aUmUyUtd"
       },
@@ -2225,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "lingering on",
+        "url": "https://open.spotify.com/album/3I3YR5Zq3PlKVHid6hpdmX"
+      },
+      "artists": [
+        {
+          "name": "sleep forever",
+          "url": "https://open.spotify.com/artist/4r66CxFiq5gsPI7yzXDdpF"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81083,
+      "name": "lingering on",
+      "url": "https://open.spotify.com/track/2wdS8JOt0R11Rh13DKtWf1"
+    },
+    {
+      "album": {
         "name": "Moments.",
         "url": "https://open.spotify.com/album/0bl0GAtHn9TGtr5Gwxoa4t"
       },
@@ -2284,7 +2360,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 301863,
       "name": "Lonesome Sound",
       "url": "https://open.spotify.com/track/0W3XARJKAvikHEiOSgHl0z"
@@ -2649,6 +2725,24 @@
     },
     {
       "album": {
+        "name": "Night Air",
+        "url": "https://open.spotify.com/album/3wrDGPDOrLA90GlSEjwpcq"
+      },
+      "artists": [
+        {
+          "name": "dreamveil",
+          "url": "https://open.spotify.com/artist/0FKnupHwlwGAF9bhlRFMLP"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189728,
+      "name": "Night Air",
+      "url": "https://open.spotify.com/track/0PpWlBrI9Fd34xgmz3WsF4"
+    },
+    {
+      "album": {
         "name": "Bolted (Deconstructed)",
         "url": "https://open.spotify.com/album/5C1vnZNznr20cvonTDcQyG"
       },
@@ -2660,7 +2754,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 91000,
       "name": "Night Sculpture - Deconstructed",
       "url": "https://open.spotify.com/track/4vLMviupOxDFAj7XjvMIKA"

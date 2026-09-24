@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Get served with the best Nigerian worship songs\. Cover: Nathaniel Bassey
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,504 likes - 118 songs - 16 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,626 likes - 118 songs - 16 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Naye Indie gaano ka khazana, featuring Indian Ocean, Utsavi Jha, Daira and other exciting artists.
 
-1,591 songs - 3 day 15 hr 41 min
+1,592 songs - 3 day 15 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -383,6 +383,7 @@
 | [Diwali](https://open.spotify.com/track/4mP3U1F3FFZyfZLXbXQacy) | [Aditya Bhardwaj](https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo) | [Diwali](https://open.spotify.com/album/7rUGfD01wGPegVIi3aOML1) | 2:46 | 2024-10-18 | 2024-12-21 |
 | [DMTMH](https://open.spotify.com/track/68ettx2RO6hmkGvayF9mVM) | [Sama Thakore](https://open.spotify.com/artist/464Xq9opykEdtEENXoAlV9) | [DMTMH](https://open.spotify.com/album/5YuNuVMuhKVyko0iNrgQOn) | 3:14 | 2026-03-20 | 2026-06-12 |
 | [Do Dil](https://open.spotify.com/track/3dk82ZhlHe1oeUGDWzNlo4) | [The Kabir](https://open.spotify.com/artist/6yPhcGRmraBwXnqANykgQS), [Reverse Prodigy](https://open.spotify.com/artist/6zXaDDbpZlywcU9kb61gHI), [Anii](https://open.spotify.com/artist/1yXxbza6p8vTBVkGn6WesM) | [Do Dil](https://open.spotify.com/album/0tftTOq08c2RWWSHjo1yBr) | 2:50 | 2024-02-09 | 2024-03-09 |
+| [Do I Know \- Rachika Nayar Edit](https://open.spotify.com/track/7zPnBeemfrQUXImIYcBF9H) | [Sijya](https://open.spotify.com/artist/7E6rUwPmABZAG9b33Nag2p), [Rachika Nayar](https://open.spotify.com/artist/6afqNtQw2IUvXw6JeIRgQZ) | [Do I Know \(Rachika Nayar Edit\)](https://open.spotify.com/album/6O6QDZCAsyswRZoQPtF8mN) | 3:12 | 2026-09-11 |  |
 | [Do Naino Ko](https://open.spotify.com/track/17nrtM4DlBB7W6On2CqfmG) | [Rishabh Srivastava](https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl) | [Do Naino Ko](https://open.spotify.com/album/3HCyAGNkoYlkkwWaKhL5lQ) | 3:14 | 2023-12-22 | 2024-02-06 |
 | [Do Tarfa](https://open.spotify.com/track/6pT115o35W2PmCUB6vf0tZ) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Do Tarfa](https://open.spotify.com/album/3XIwgY6FYwGqsLAFA6IXJn) | 2:07 | 2026-09-04 | 2026-09-22 |
 | [Dobara](https://open.spotify.com/track/17Pq9HfBwWbqUnwJlO2boO) | [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Leher](https://open.spotify.com/album/0B6idJAabcGHQTdjFN2zgo) | 4:36 | 2024-07-12 | 2024-08-24 |
@@ -1511,7 +1512,7 @@
 | [Ud Chala](https://open.spotify.com/track/73jcoLvB2tUA8R2fOB8skM) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Ud Chala](https://open.spotify.com/album/01cnDRpYwguQFYD17oM37A) | 4:27 | 2023-04-14 | 2023-05-20 |
 | [Ud Ke Chali](https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Ud Ke Chali](https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f) | 3:55 | 2023-10-13 | 2023-11-25 |
 | [Udaan](https://open.spotify.com/track/5yL8CBAxa5ijWGKndCTG9T) | [Antariksh](https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l) | [Udaan](https://open.spotify.com/album/2IKuIWZXFYHQKRLnrbjx7L) | 3:40 | 2025-12-05 | 2026-02-28 |
-| [Udaan](https://open.spotify.com/track/4f8g7KCFVbrvavCZQNNMiz) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Junaid Ahmed](https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW) | [Udaan](https://open.spotify.com/album/1zS9wDxAVMqd7Z0J6kRJnB) | 3:01 | 2026-08-21 |  |
+| [Udaan](https://open.spotify.com/track/4f8g7KCFVbrvavCZQNNMiz) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Junaid Ahmed](https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW) | [Udaan](https://open.spotify.com/album/1zS9wDxAVMqd7Z0J6kRJnB) | 3:01 | 2026-08-21 | 2026-09-24 |
 | [Udd Chale](https://open.spotify.com/track/2jtdNa7D1xtwen2Y9awjTc) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Udd Chale](https://open.spotify.com/album/6KGrydZeoQezebA1lpCunl) | 4:31 | 2026-09-04 |  |
 | [Udd Jaa Re](https://open.spotify.com/track/6PlB0dBiwLEWVLHbyKBmAn) | [Rishabh Shah](https://open.spotify.com/artist/1BVz5IvR4oVIdg5OiieDo8), [Junaid Ahmed](https://open.spotify.com/artist/59bhZii0sIi41aSgxXEK4E), [Soham Majumdar](https://open.spotify.com/artist/0iUhDzcPX7mex7q2G3BRvW) | [Udd Jaa Re](https://open.spotify.com/album/1UtISscye9zQhfgXFo7MEj) | 3:55 | 2026-06-19 | 2026-07-05 |
 | [Udd Jaaun](https://open.spotify.com/track/4yePaaiZkhSrJaTAPRt6R5) | [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm) | [Udd Jaaun](https://open.spotify.com/album/5JZzrHeVJKDK5QjGWnuGft) | 2:43 | 2024-08-23 | 2024-09-28 |

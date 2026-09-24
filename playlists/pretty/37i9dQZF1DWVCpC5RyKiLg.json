@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 748074,
+  "num_followers": 748087,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Ao Vivo Em Goi\u00e2nia",
-        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
-      },
-      "artists": [
-        {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "duration_ms": 174653,
-      "name": "10% - Ao Vivo",
-      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Nos Arcos da Lapa",
         "url": "https://open.spotify.com/album/6xCbCIEjQgo85M9gkfiyqi"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 237440,
       "name": "Final De Tarde",
       "url": "https://open.spotify.com/track/61owCysJTu0HlCDFSASYJw"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "Ao Vivo Em Goi\u00e2nia",
+        "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 174653,
+      "name": "10% - Ao Vivo",
+      "url": "https://open.spotify.com/track/2wFnRPjuqwNySFiK0Qfg8L"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -719,26 +719,6 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Tchau Brigado (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
-      },
-      "artists": [
-        {
-          "name": "Humberto & Ronaldo",
-          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
-        },
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Tchau Brigado - Ao Vivo",
-      "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
         "name": "Sobrenome (Ao Vivo)",
         "url": "https://open.spotify.com/album/5mxkr7VInEvT2afoTjiQVB"
       },
@@ -755,6 +735,26 @@
       "duration_ms": 192253,
       "name": "Sobrenome - Ao vivo",
       "url": "https://open.spotify.com/track/3gYvOU6MJGBS2WNyDTW7Ui"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
+        "name": "Tchau Brigado (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0vXz93Fhy0UDxgdwygSZdy"
+      },
+      "artists": [
+        {
+          "name": "Humberto & Ronaldo",
+          "url": "https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn"
+        },
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 163402,
+      "name": "Tchau Brigado - Ao Vivo",
+      "url": "https://open.spotify.com/track/2TR917wkDeRvwTE5cSfZFf"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
+        "name": "Resenha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv"
+      },
+      "artists": [
+        {
+          "name": "Cleber & Cauan",
+          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
+        }
+      ],
+      "duration_ms": 182417,
+      "name": "Quase - Ao Vivo",
+      "url": "https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng"
+    },
+    {
+      "added_at": "2025-11-07 18:47:10",
+      "album": {
         "name": "Cl\u00e1ssico (Ao Vivo / Edi\u00e7\u00e3o Especial)",
         "url": "https://open.spotify.com/album/7lHfl8zlZjgdy1aR4Ra66A"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 193632,
       "name": "Voc\u00ea Me Trocou - Ao Vivo",
       "url": "https://open.spotify.com/track/3RYV8juwSUclgwNiwmESlb"
-    },
-    {
-      "added_at": "2025-11-07 18:47:10",
-      "album": {
-        "name": "Resenha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ZZc3Ip1YYwz45Oi9Umozv"
-      },
-      "artists": [
-        {
-          "name": "Cleber & Cauan",
-          "url": "https://open.spotify.com/artist/6Y8pfJkEdw4EAST4g9C026"
-        }
-      ],
-      "duration_ms": 182417,
-      "name": "Quase - Ao Vivo",
-      "url": "https://open.spotify.com/track/6XgIiUn8aEpfXtqruOf3Ng"
     },
     {
       "added_at": "2025-11-07 18:47:10",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2025-11-07 18:47:10",
       "album": {
-        "name": "Juras de Amor",
-        "url": "https://open.spotify.com/album/5B1HU5inSYxdZiYr8ow3kI"
+        "name": "Diz pra Mim",
+        "url": "https://open.spotify.com/album/6m7uzYkj1KvxGXaRERcof7"
       },
       "artists": [
         {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 189266,
-      "name": "Juras de Amor",
-      "url": "https://open.spotify.com/track/3WTWx7yJAqohrSs7PLHGhq"
+      "duration_ms": 241869,
+      "name": "Diz pra Mim",
+      "url": "https://open.spotify.com/track/4ddDW7Ao1h5UgISvnF1Npg"
     }
   ],
   "unique_name": "Faxina com Sofr\u00eancia",

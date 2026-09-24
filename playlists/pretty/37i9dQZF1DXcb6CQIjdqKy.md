@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: for KING & COUNTRY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,659,091 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,659,220 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 20 | [Who I Am To You](https://open.spotify.com/track/0m8LZQ4U90ztxmsanrSx9g) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [Who I Am To You](https://open.spotify.com/album/4EOaaVcUrGgEA1lg2DBd8v) | 3:10 |
 | 21 | [My Victory's Coming](https://open.spotify.com/track/0q81m7cmZBGikRTv9L1lPD) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [My Victory's Coming](https://open.spotify.com/album/7yPY0qyaD1R1uBgGNv74G1) | 3:27 |
 | 22 | [Roots](https://open.spotify.com/track/4PDQlJW9xltAaMQ2i93kNf) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [Roots](https://open.spotify.com/album/0hxt1oPU61fYIwVCJYJt9G) | 3:12 |
-| 23 | [Thank You For Everything \(with Karen Clark\-Sheard\)](https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Thank You For Everything](https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka) | 6:36 |
+| 23 | [Thank You For Everything \(with Karen Clark\-Sheard\) \- Live](https://open.spotify.com/track/68fFSCTE1b7AmubG9XNmVZ) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Karen Clark Sheard](https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1) | [Thank You For Everything \(Live\)](https://open.spotify.com/album/7dT0K5S2DMfgwU0Rm81Zka) | 6:36 |
 | 24 | [He's Not Finished](https://open.spotify.com/track/5RIugJwYvISARrxEr2cVtH) | [Marvin Sapp](https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo) | [He's Not Finished](https://open.spotify.com/album/16tA66otBVRH8ZkZvAaULO) | 8:00 |
 | 25 | [TOO UNFAZED](https://open.spotify.com/track/6MPfLZFTmkhtRsEkPtrkWq) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [THIS CANNOT BE SOLD](https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC) | 3:38 |
 | 26 | [Wake Up Sleeper](https://open.spotify.com/track/1gqHYvRQC849Q4xj1935yx) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Wake Up Sleeper](https://open.spotify.com/album/3eU9yS4x2wQMR5acqDtZLk) | 3:14 |

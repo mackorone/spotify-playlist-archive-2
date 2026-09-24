@@ -1067,6 +1067,28 @@
     },
     {
       "album": {
+        "name": "Landscape Architecture",
+        "url": "https://open.spotify.com/album/4Efmy1cGT5PcyZY3dvHMRf"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94000,
+      "name": "Obsolete Dance",
+      "url": "https://open.spotify.com/track/3mgVVtXOre120izmupOZJT"
+    },
+    {
+      "album": {
         "name": "Christina Vantzou, Michael Harrison and John Also Bennett",
         "url": "https://open.spotify.com/album/1gGeFnXsboBj17KDg0Iqfi"
       },
@@ -1174,7 +1196,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 338000,
       "name": "Phantom Tunnel",
       "url": "https://open.spotify.com/track/1FqbE6urIwPZycA7X7X1hL"

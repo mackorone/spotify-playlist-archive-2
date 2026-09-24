@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,379 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,384 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 82 | [Zamba Enamorada \(feat\. Liliana Herrero\)](https://open.spotify.com/track/5bX6ahqYBF7X2va6SIHZs2) | [Florencia Dávalos](https://open.spotify.com/artist/0FhdFdRpcgfjOGMMoDqLAq) | [Memoria de la Semilla](https://open.spotify.com/album/0V8PUq2KfP8RFPhqiSuuoj) | 4:21 |
 | 83 | [Recopilacion De Carnavalitos](https://open.spotify.com/track/2KIv9yuwZQlsw6JB8JgAGx) | [Margarita Palacios](https://open.spotify.com/artist/0oauD1j53OsLcXjcEqIE2c) | [Los Clasicos Del Folklore](https://open.spotify.com/album/0OgGAbXNndtqf3Im0mB2yJ) | 2:37 |
 | 84 | [Baguala para las dos](https://open.spotify.com/track/6wSRHnHUBnDKJsa2n4QkDx) | [Irupé Tarragó Ros](https://open.spotify.com/artist/5gE09c2quqhnwBx1nqqRbH), [Laura Ros](https://open.spotify.com/artist/2NZq21Z6d2LUqrGV8TCpeK) | [Jazmín](https://open.spotify.com/album/3CifXREMYGTc2t92VDe4k3) | 3:58 |
-| 85 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
-| 86 | [Canción del Jangadero](https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS) | [Patricia Gómez](https://open.spotify.com/artist/5kWUnk8ne4Gi2bzrwk95vc), [Mariano Peresón](https://open.spotify.com/artist/3mcRXU6lVquKxkjYh20oIf) | [Canción del Jangadero](https://open.spotify.com/album/4dnGcfrrrdc0fgUVhDIBwS) | 5:11 |
-| 87 | [Zamba del Viento Libre](https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg) | [Felicitas Argüello](https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw), [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Zamba del Viento Libre](https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K) | 3:43 |
+| 85 | [Zamba del Viento Libre](https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg) | [Felicitas Argüello](https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw), [Sofía Ascárate](https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt) | [Zamba del Viento Libre](https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K) | 3:43 |
+| 86 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
+| 87 | [Canción del Jangadero](https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS) | [Patricia Gómez](https://open.spotify.com/artist/5kWUnk8ne4Gi2bzrwk95vc), [Mariano Peresón](https://open.spotify.com/artist/3mcRXU6lVquKxkjYh20oIf) | [Canción del Jangadero](https://open.spotify.com/album/4dnGcfrrrdc0fgUVhDIBwS) | 5:11 |
 | 88 | [Lo Que Estalla](https://open.spotify.com/track/6bN08F3lWNE1fci3QMuZYj) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Lo Que Estalla](https://open.spotify.com/album/57sdxUSlMMQbOA2zqACToE) | 2:15 |
 | 89 | [Malamba](https://open.spotify.com/track/0ennKDzGT6vSWpXDKP4LGY) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Malamba](https://open.spotify.com/album/5pcgasBTVmcfKnbdIXgRaP) | 2:37 |
 | 90 | [Caminante](https://open.spotify.com/track/0Tvd59KWbv8rPMMtmZmRI2) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO) | [Caminante](https://open.spotify.com/album/1SsiLXLCEC4J4EZvapU1K0) | 3:28 |

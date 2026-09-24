@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 
 > Meet the future of music around the world\. Cover: Maia Reficco
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,421 likes - 20 songs - 59 min 21 sec
+[Spotify](https://open.spotify.com/user/spotify) - 88,466 likes - 20 songs - 59 min 21 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,10 +22,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU63finroJM.md) - [plain]
 | 12 | [stranger](https://open.spotify.com/track/7rIncPcHyKmnsZgyvGhoDw) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Ehiorobo](https://open.spotify.com/artist/5kZ3bLambJ4rBTQ7c2pmi5) | [HOME WAS ALWAYS ME](https://open.spotify.com/album/3LjjkS2s2b2RdluM00NWLD) | 2:28 |
 | 13 | [OTRA NOCHE MÁS](https://open.spotify.com/track/28lGd1vKd5v8UPEvccdbsT) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [OTRA NOCHE MÁS](https://open.spotify.com/album/0fp4aihuep4yUtd1CqVGO3) | 2:33 |
 | 14 | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [Zenei](https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u) | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn) | 3:09 |
-| 15 | [Your favorite flowers](https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi) | 3:29 |
-| 16 | [El Endemoniao](https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Endemoniao](https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo) | 3:34 |
-| 17 | [MUM SAID](https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [MUM SAID](https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8) | 1:53 |
-| 18 | [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 |
+| 15 | [El Endemoniao](https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Endemoniao](https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo) | 3:34 |
+| 16 | [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 |
+| 17 | [Your favorite flowers](https://open.spotify.com/track/2krsl94ohFuchOMv4zsMux) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [When the lights turn on](https://open.spotify.com/album/5qkXXP4wQ0Ope0ebh0fToi) | 3:29 |
+| 18 | [MUM SAID](https://open.spotify.com/track/5N22PeJ72MQaf4EMAyZc1z) | [TR Gobrazy](https://open.spotify.com/artist/2bWovm0DNeEkCevemRHN0C) | [MUM SAID](https://open.spotify.com/album/1yr4DBSW1Y5Xh9lZZOG5E8) | 1:53 |
 | 19 | [GO](https://open.spotify.com/track/1jESDIMfh3MPC2A6SZvWSN) | [Haku.](https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM) | [世界が変わる時](https://open.spotify.com/album/0y0zbIj2mPsAeRHzlNQEAe) | 3:49 |
 | 20 | [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 |
 

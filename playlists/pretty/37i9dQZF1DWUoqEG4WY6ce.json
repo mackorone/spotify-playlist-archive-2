@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1184000,
+  "num_followers": 1183984,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+      "duration_ms": 173493,
+      "name": "Fluorescent Adolescent",
+      "url": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 173493,
-      "name": "Fluorescent Adolescent",
-      "url": "https://open.spotify.com/track/7e8utCy2JlSB8dRHKi49xM"
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 223786,
+      "name": "No You Girls",
+      "url": "https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 232200,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 223786,
-      "name": "No You Girls",
-      "url": "https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1167,18 +1167,22 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Gimme Fiction (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
+        "name": "Box for Buddy, Box for Star (Deluxe)",
+        "url": "https://open.spotify.com/album/0IQparYBt1I5vuApAzJwz0"
       },
       "artists": [
         {
-          "name": "Spoon",
-          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        },
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
         }
       ],
-      "duration_ms": 212106,
-      "name": "I Turn My Camera On",
-      "url": "https://open.spotify.com/track/10YGSqXSKL5g6VmXiuSdd2"
+      "duration_ms": 298080,
+      "name": "Dancing in the Club - MJ Lenderman Version",
+      "url": "https://open.spotify.com/track/2aFkH4wK9nZbgtmlq411f2"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1199,22 +1203,18 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Box for Buddy, Box for Star (Deluxe)",
-        "url": "https://open.spotify.com/album/0IQparYBt1I5vuApAzJwz0"
+        "name": "Gimme Fiction (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sjSsxnmBlzxgZ9HGkHDsk"
       },
       "artists": [
         {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
-        },
-        {
-          "name": "MJ Lenderman",
-          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
         }
       ],
-      "duration_ms": 298080,
-      "name": "Dancing in the Club - MJ Lenderman Version",
-      "url": "https://open.spotify.com/track/2aFkH4wK9nZbgtmlq411f2"
+      "duration_ms": 212106,
+      "name": "I Turn My Camera On",
+      "url": "https://open.spotify.com/track/10YGSqXSKL5g6VmXiuSdd2"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Canopy & Shades Of Green",
-        "url": "https://open.spotify.com/album/06edgNjavwaBkVkBMEQkUR"
-      },
-      "artists": [
-        {
-          "name": "Winyah",
-          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Canopy",
-      "url": "https://open.spotify.com/track/5e9tqR7s11fwbPXJWyI4WC"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "The Carpenter",
         "url": "https://open.spotify.com/album/4RclFqtNPoThUz7327xFbD"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 354346,
       "name": "Lazy Eye",
       "url": "https://open.spotify.com/track/3TZXieYvqCuR40LZJbp6Ik"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Canopy & Shades Of Green",
+        "url": "https://open.spotify.com/album/06edgNjavwaBkVkBMEQkUR"
+      },
+      "artists": [
+        {
+          "name": "Winyah",
+          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/5e9tqR7s11fwbPXJWyI4WC"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 218151,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "The Party",
         "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 231838,
       "name": "The Magician",
       "url": "https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/2241CnrLPBaerawjf6vPFa"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 218151,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/6O1vElqf77upV8az275UZs"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "More More More",
-        "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
+        "name": "Lucifer On The Sofa",
+        "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
       },
       "artists": [
         {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+          "name": "Spoon",
+          "url": "https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe"
         }
       ],
-      "duration_ms": 192753,
-      "name": "More More More",
-      "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
+      "duration_ms": 193277,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx"
     }
   ],
   "unique_name": "Indie Rock Road Trip",

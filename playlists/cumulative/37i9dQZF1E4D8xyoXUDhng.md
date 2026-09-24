@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Kelontae Gavin, Daryl Coley, Amber Bullock and more
+> With Kelontae Gavin, Amber Bullock, Daryl Coley and more
 
 2,030 songs - 6 day 13 hr 22 min
 

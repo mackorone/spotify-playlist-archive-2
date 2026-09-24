@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover - Aamir Rizvi",
+  "description": "The best new music by independent artists and labels in India. Cover - Sijya",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1597,6 +1597,24 @@
     },
     {
       "album": {
+        "name": "Afreen",
+        "url": "https://open.spotify.com/album/1oqR5zK0y50KVRVWqZITsq"
+      },
+      "artists": [
+        {
+          "name": "Vaibhav Malhotra",
+          "url": "https://open.spotify.com/artist/5wHCytYglbwzeqqfClAI1j"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163902,
+      "name": "Afreen",
+      "url": "https://open.spotify.com/track/1GFJs86cO3EnsjzxQXV0Wx"
+    },
+    {
+      "album": {
         "name": "Afsana",
         "url": "https://open.spotify.com/album/5mhY9sJnHXCY16HnlI5nJW"
       },
@@ -2484,7 +2502,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 254467,
       "name": "As It Goes On",
       "url": "https://open.spotify.com/track/7ssi3PNZX0IPp3TmEZYDe9"
@@ -14628,7 +14646,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 228461,
       "name": "Ishq seekh lo",
       "url": "https://open.spotify.com/track/2pK4TD7tnmBO7c00yoNT94"
@@ -16642,6 +16660,28 @@
       "duration_ms": 477371,
       "name": "Kaahe Karat (feat. Prateek Narsimha, Suyash Gabriel, Saptak Sharma, Soumitra Thakur, Rohan Prasanna, Varun Rajasekharan, Shrikant Biswakarma, Madhur Chaudhary)",
       "url": "https://open.spotify.com/track/0ZbJLfZcTrn3NqpIjjQZdk"
+    },
+    {
+      "album": {
+        "name": "Kaahe Sataye",
+        "url": "https://open.spotify.com/album/4RvnhQWUPWEm2gRLJkJWmI"
+      },
+      "artists": [
+        {
+          "name": "Reeshabh Purohit",
+          "url": "https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E"
+        },
+        {
+          "name": "Harsh More",
+          "url": "https://open.spotify.com/artist/5tJPDbC6WpIoL32f2ckXIJ"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137997,
+      "name": "Kaahe Sataye",
+      "url": "https://open.spotify.com/track/5YXLnG6tMHE80oPZlb2eVk"
     },
     {
       "album": {
@@ -21202,7 +21242,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 179465,
       "name": "Life and Times of Pinocchio",
       "url": "https://open.spotify.com/track/2uebQmjQ1wrrPa3C1b8lzK"
@@ -30208,7 +30248,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 214400,
       "name": "Saanware",
       "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
@@ -33035,6 +33075,24 @@
     },
     {
       "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4rhCCCCi6oasJ9w4ODuhyx"
+      },
+      "artists": [
+        {
+          "name": "Calcutta Cowboy",
+          "url": "https://open.spotify.com/artist/35caokDeiAUdoJtf0GPXdp"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/5j4eiumYSJggM3mMZAcWrI"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/6D9yr0xY8GnM7L2aDDmy0Y"
       },
@@ -34110,6 +34168,32 @@
       "duration_ms": 185260,
       "name": "Tera Mera Qissa",
       "url": "https://open.spotify.com/track/5T2NHdHlHOvkp4e72KsR6f"
+    },
+    {
+      "album": {
+        "name": "Tera Naam",
+        "url": "https://open.spotify.com/album/10hJLfx9DZrnsa6sOwKTUw"
+      },
+      "artists": [
+        {
+          "name": "Arshiya Ganguly",
+          "url": "https://open.spotify.com/artist/6eIeBxQygAbQ4FxXbOnsgc"
+        },
+        {
+          "name": "Agaazz",
+          "url": "https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX"
+        },
+        {
+          "name": "Anuj B",
+          "url": "https://open.spotify.com/artist/7f5V2XifD0Mz6sGYuXrtCp"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "Tera Naam",
+      "url": "https://open.spotify.com/track/0El6fUfs5yLIS6CvS6vImb"
     },
     {
       "album": {

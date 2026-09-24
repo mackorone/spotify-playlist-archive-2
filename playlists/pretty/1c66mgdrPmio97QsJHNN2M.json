@@ -1,12 +1,12 @@
 {
   "description": "FREE SUBMISSIONS - Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music. Just submit via my linktree: https:&#x2F;&#x2F;linktr.ee&#x2F;Anythings.Possible.Music",
-  "num_followers": 5980,
+  "num_followers": 5981,
   "original_name": "30 Days of New Unsigned Music",
   "owner": {
     "name": "Anything's Possible Music",
     "url": "https://open.spotify.com/user/ashdown1981"
   },
-  "snapshot_id": "AAA8hjYa8HjHsa70RJsAaygj1mwgXzM4",
+  "snapshot_id": "AAA8igG1bgCJnUs4gGlsU+/yfceyFHl+",
   "tracks": [
     {
       "added_at": "2026-06-04 08:55:44",
@@ -3867,6 +3867,70 @@
       "duration_ms": 193744,
       "name": "Replenish Me",
       "url": "https://open.spotify.com/track/7sKaH4jp0iQBmOJWOCYnM2"
+    },
+    {
+      "added_at": "2026-09-23 08:13:58",
+      "album": {
+        "name": "Always With You",
+        "url": "https://open.spotify.com/album/6vGmdMlSASJ3AZGmVcRsdX"
+      },
+      "artists": [
+        {
+          "name": "Max Hixon",
+          "url": "https://open.spotify.com/artist/6re1c6RENl1HLndE5iiUHM"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Always With You",
+      "url": "https://open.spotify.com/track/3WWdGs5OmzGXY45UutmlsG"
+    },
+    {
+      "added_at": "2026-09-23 08:14:31",
+      "album": {
+        "name": "it isn't like that",
+        "url": "https://open.spotify.com/album/13AQAnBwzvL9I7tkgtEw4r"
+      },
+      "artists": [
+        {
+          "name": "Abby Hayes",
+          "url": "https://open.spotify.com/artist/4uq3sajRfWtL1i1mN2SZA7"
+        }
+      ],
+      "duration_ms": 188953,
+      "name": "it isn't like that",
+      "url": "https://open.spotify.com/track/0luhYJ3XfiAswEdrsUM9sS"
+    },
+    {
+      "added_at": "2026-09-23 12:18:23",
+      "album": {
+        "name": "EUPHORIA (Harp Version)",
+        "url": "https://open.spotify.com/album/7Dt78ARxeP895twZ3F7Xfd"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d2RALYN",
+          "url": "https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy"
+        }
+      ],
+      "duration_ms": 164744,
+      "name": "EUPHORIA - Harp Version",
+      "url": "https://open.spotify.com/track/2ktZXmktrmCLZOPaRaU4LQ"
+    },
+    {
+      "added_at": "2026-09-23 12:18:35",
+      "album": {
+        "name": "Not Far Beneath the Surface",
+        "url": "https://open.spotify.com/album/3UCxnANVhYWY7QsVm8nHoT"
+      },
+      "artists": [
+        {
+          "name": "Pirita",
+          "url": "https://open.spotify.com/artist/4VxKzR10yu0Yu2BLcWL9q2"
+        }
+      ],
+      "duration_ms": 168741,
+      "name": "Going With It",
+      "url": "https://open.spotify.com/track/62DUA2EDrdDgzGXcIHjCQX"
     }
   ],
   "unique_name": "30 Days of New Unsigned Music",

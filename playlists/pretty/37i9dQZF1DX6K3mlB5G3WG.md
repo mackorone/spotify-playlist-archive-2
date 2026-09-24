@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Ultimo in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,310 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,306 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 42 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
 | 43 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
 | 44 | [Seriously](https://open.spotify.com/track/3dZTrUqLpivFUkSuIpSoyb) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Seriously](https://open.spotify.com/album/6rE9QBWb6TtCjz13ipuwVv) | 4:09 |
-| 45 | [My Madness](https://open.spotify.com/track/2vTtzVu3ZTKep443T63puQ) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky?](https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A) | 3:33 |
+| 45 | [My Madness](https://open.spotify.com/track/2vTtzVu3ZTKep443T63puQ) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky? \(Deluxe Edition\)](https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A) | 3:33 |
 | 46 | [Radio Station](https://open.spotify.com/track/2ixKxWKW6ejtIVr5gm00K7) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Radio Station](https://open.spotify.com/album/71x0gASJv5sOZdv6J6MQ66) | 4:12 |
 | 47 | [Quel Che Non Ho Più](https://open.spotify.com/track/5XlF7ld7EOpIwPxe6vVcoT) | [Perturbazione](https://open.spotify.com/artist/6oHCbM8jtvJRe0BjKQ90mD) | [Quel Che Non Ho Più](https://open.spotify.com/album/1m3vwHbkhNLcI2mcswm3KO) | 3:05 |
 | 48 | [serio](https://open.spotify.com/track/0zAfYnYZHkjBcAgl5IoqdR) | [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [serio](https://open.spotify.com/album/5CfIqRuJNNJdaQO0oMkHPH) | 2:10 |

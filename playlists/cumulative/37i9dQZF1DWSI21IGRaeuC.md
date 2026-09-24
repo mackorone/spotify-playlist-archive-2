@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-1,282 songs - 3 day 15 hr 26 min
+1,283 songs - 3 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Echelon](https://open.spotify.com/track/5RTXZYhWzIGjgekissR2fP) | [JIMII](https://open.spotify.com/artist/2KQQpIJPJDxyEyjbRBVsYf) | [De Groovy EP](https://open.spotify.com/album/3whxzMZr8Kvs6wLuQGVl7V) | 6:47 | 2025-11-21 | 2025-12-31 |
 | [Echoes From The 90s](https://open.spotify.com/track/7ImUOhb1xKibBXXJVZ7PK5) | [Desmond](https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY), [Summum](https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw), [Atlantic Ocean](https://open.spotify.com/artist/33RLygRVVK3UShsvflkb5M) | [Echoes From The 90s](https://open.spotify.com/album/7mOkoTACtQ51YEOlW2Rv0D) | 3:15 | 2026-08-28 |  |
 | [Ecstacy](https://open.spotify.com/track/3tspa7d84OtVKfhmqLHKYc) | [Sammy Porter](https://open.spotify.com/artist/2D51qkOmTNsNQj3C4LIvH7), [Mia Silema](https://open.spotify.com/artist/18n268dKW9UOb3x83gCfaV) | [Ecstacy](https://open.spotify.com/album/3hRYZTHc0SiTwVcNMcKZQh) | 2:35 | 2025-02-21 | 2025-07-05 |
+| [ecstasy](https://open.spotify.com/track/3rMhnlFH7AWi6HBCihMSPt) | [Jake Antonio](https://open.spotify.com/artist/5jpgPXIFQ0RzKw2IHyS8JC) | [ecstasy](https://open.spotify.com/album/3F7Bhg42GGhFHV2AXspD11) | 4:00 | 2026-09-23 |  |
 | [Ecstasy](https://open.spotify.com/track/7DvMAbmkSZsT5EytU35iVv) | [Marsolo](https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV) | [Ecstasy EP](https://open.spotify.com/album/2t1DUvrRJXYfWqEmmRBMnk) | 2:58 | 2025-08-15 | 2025-09-27 |
 | [Electro](https://open.spotify.com/track/0MlZydbIcFuhWMI88PRcc3) | [PAULY!](https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk) | [Electro](https://open.spotify.com/album/45md8PcuVfwjfR0XiWca9x) | 2:53 | 2026-03-27 | 2026-05-16 |
 | [Electrowise](https://open.spotify.com/track/3uQXBZtZqMmglZ9Txe52aK) | [Jesse Maas](https://open.spotify.com/artist/2eprK9dqUOpKRzI18r7e8G) | [Electrowise](https://open.spotify.com/album/6CKbxFs4VoTe1htqCpndrL) | 2:56 | 2024-08-30 | 2024-11-07 |
@@ -1153,7 +1154,7 @@
 | [To Be Free](https://open.spotify.com/track/7DFSWmAZmtspiqEQNjXB6x) | [ANATTA](https://open.spotify.com/artist/5YhPaiXN8biK8is4uCvcJ6) | [To Be Free / Sweet Love](https://open.spotify.com/album/61aG9H7cKm2HHjY6sRLI50) | 3:04 | 2026-07-10 |  |
 | [To the Beat](https://open.spotify.com/track/0W2egu7au4Dwp1NgUUcyYb) | [J.K\. Rollin](https://open.spotify.com/artist/0q0fGcIwNUT2MrDT9HIdZZ) | [To the Beat](https://open.spotify.com/album/6lk7tjRUuj4o0Qa9GdUud5) | 6:34 | 2025-09-19 | 2025-12-13 |
 | [To The Rhythm](https://open.spotify.com/track/4OoSXPUgpu7tp7BWLVQkYL) | [Stuart Matheson](https://open.spotify.com/artist/3ww9l0O1eYkQEJHTyRhd6Q) | [To The Rhythm EP](https://open.spotify.com/album/65B0UAFS9zlSzUkRXvlxjT) | 3:47 | 2025-04-11 | 2025-07-26 |
-| [Together](https://open.spotify.com/track/4pwv8mZwBMfWE0rt377Tic) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Together](https://open.spotify.com/album/6bztswHfC0uUUBYlwBx6j3) | 2:57 | 2026-07-31 |  |
+| [Together](https://open.spotify.com/track/4pwv8mZwBMfWE0rt377Tic) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Together](https://open.spotify.com/album/6bztswHfC0uUUBYlwBx6j3) | 2:57 | 2026-07-31 | 2026-09-24 |
 | [toldmyself](https://open.spotify.com/track/1b7A3YbtGZQFTPCp4jAkfq) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [toldmyself](https://open.spotify.com/album/5vKr08XyzXsSyFNBS6X1am) | 4:18 | 2025-08-01 | 2025-09-06 |
 | [Toms Track \- Edit](https://open.spotify.com/track/4Rr8N3bhuLoAumADHtzZOh) | [Rooléh](https://open.spotify.com/artist/7zCwvjLktz2o5LFYvTquJu) | [Toms Track](https://open.spotify.com/album/1g6ME199a7Yp44xpwLZSl9) | 2:23 | 2024-08-23 | 2025-04-19 |
 | [Tonight](https://open.spotify.com/track/2THIz1r6q9mdeR9NcwHM6X) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Tonight EP](https://open.spotify.com/album/4cxn8FB1FyzCBrZlDeMN1Y) | 5:52 | 2022-06-24 | 2023-11-25 |

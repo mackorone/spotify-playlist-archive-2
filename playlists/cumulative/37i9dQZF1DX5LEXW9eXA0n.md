@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: LEECHANGSUB \(이창섭\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: O.WHEN\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,796 songs - 4 day 20 hr 37 min
+1,797 songs - 4 day 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1301,7 +1301,7 @@
 | [SPRING NIGHT](https://open.spotify.com/track/1Ro2Z4chL1y0Rla6IwmCHF) | [RAYEON \(FANATICS\)](https://open.spotify.com/artist/6JV1QhZ8SLygCWsXMrUClU), [MK](https://open.spotify.com/artist/1Y7lliayC5Ov3sxWsVNfLh) | [SPRING NIGHT](https://open.spotify.com/album/3KWMxx4fAl3dh8n2TyogZq) | 4:46 | 2022-07-07 | 2022-08-13 |
 | [Spring Snow](https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Lovely Runner, Pt\. 8 \(Original Soundtrack\)](https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1) | 3:21 | 2024-08-10 | 2025-01-02 |
 | [Spring will come after this winter](https://open.spotify.com/track/2YODsJYj7If4Ae68nAHfSk) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [Leetneer Project](https://open.spotify.com/artist/1akMU7C7YstvDu6jEXYrQM) | [Spring will come after this winter](https://open.spotify.com/album/7cTn623yQVSRgFc77oqZyO) | 4:25 | 2023-02-24 | 2023-04-27 |
-| [Spring, day](https://open.spotify.com/track/0r3pGHGo4k4qAzf0rgLkq8) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Spring, day](https://open.spotify.com/album/3mvWo5XDug7Xr26gI2Yywp) | 4:14 | 2026-03-24 |  |
+| [Spring, day](https://open.spotify.com/track/0r3pGHGo4k4qAzf0rgLkq8) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [Spring, day](https://open.spotify.com/album/3mvWo5XDug7Xr26gI2Yywp) | 4:14 | 2026-03-24 | 2026-09-24 |
 | [Stairs](https://open.spotify.com/track/7pVU6ihIDWfIfpCTQvQMvZ) | [Ouf Of Campus](https://open.spotify.com/artist/7tcw7xCLN8uPjOjYE1RWhn) | [Stairs](https://open.spotify.com/album/1mFphJwg3VCCwriB5XAggx) | 3:03 | 2022-12-16 | 2023-01-21 |
 | [Stand By Your Side](https://open.spotify.com/track/1h2EjiRBZu1geZrxV5dWhz) | [LEE SUHYUN](https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN) | [Stand By Your Side \(CURTAIN CALL OST Part.7\)](https://open.spotify.com/album/7c0jTAaxnlZgPAhvYsdr0a) | 4:30 | 2022-12-16 | 2023-02-09 |
 | [Star](https://open.spotify.com/track/3j0JMgCEyR45tBCVUo1CMb) | [2BIC](https://open.spotify.com/artist/2m4JjhDHG2PfW7WIaZW9ax) | [Star](https://open.spotify.com/album/2tXyYTNcykXOERkFNvrJpA) | 3:58 | 2025-05-12 | 2025-07-04 |
@@ -1727,6 +1727,7 @@
 | [꿈길](https://open.spotify.com/track/6ONESVJurYMVmCfwV6yKjF) | [E HYUK](https://open.spotify.com/artist/2YhKoOmf0diUvydhEoreDa) | [꿈길](https://open.spotify.com/album/1c1rE5Ijbnm2NdR7iaHpYS) | 4:13 | 2023-01-20 | 2023-03-28 |
 | [나 정말 힘들어 \(feat\. 폴림\)](https://open.spotify.com/track/08lWUlD04qn35mvXZc9m8Z) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Paul Lim](https://open.spotify.com/artist/4lqdf1XdkczOsG8rD81unZ) | [나 정말 힘들어 \(2023\)](https://open.spotify.com/album/6TiwcqhmaGJJQRFtR4hjKU) | 3:31 | 2023-10-16 | 2023-12-14 |
 | [나의 바람은 \(My Wish\)](https://open.spotify.com/track/4nBrz3SZL65qMNf2oF4i5O) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [우리는 매일매일 OST Part.7 – 나의 바람은 \(Before We Knew OST Part.7 – My Wish\)](https://open.spotify.com/album/5mxc5C915JkW8yWmwRYeRg) | 3:59 | 2026-04-07 |  |
+| [남겨진 것들](https://open.spotify.com/track/3n7zR9iBWGNNjCN2ug5r82) | [Goodnight Stand](https://open.spotify.com/artist/6pNFXAMb6iPCEO6fmyTYsE) | [남겨진것들](https://open.spotify.com/album/0z4iDjpRBl7hOkaclkg8mg) | 3:27 | 2026-09-23 |  |
 | [내 번호를 지워줘](https://open.spotify.com/track/6P7VJG6DGHqaLVxKm46mz3) | [Park Soo Jin](https://open.spotify.com/artist/2u5C3Wks2FJrz5N86nNiXT) | [내 번호를 지워줘](https://open.spotify.com/album/1X4VbJ6Dlc9qyC2NoY1Jmy) | 3:49 | 2023-02-24 | 2023-04-27 |
 | [내게 남은 사랑을 드릴께요](https://open.spotify.com/track/48wTpUKyFAeJRHXobgM92V) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [‘80s MBC Seoul GAYOJE Final Round Side B](https://open.spotify.com/album/3tYoKX4XNgmEZ3HYOGz6My) | 4:02 | 2025-10-13 | 2026-02-02 |
 | [내일](https://open.spotify.com/track/3FgbRg2dB0ASZhozZLeMOj) | [태영](https://open.spotify.com/artist/0vR4R0hsXLRQ2q52ajAxfv) | [내일 \(KSTAGE X 태영 Of 블랙레벨\)](https://open.spotify.com/album/3zQL3yGOVumV2HIe7p1LcY) | 4:00 | 2022-07-04 | 2022-09-30 |

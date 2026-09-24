@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: The Womack Sisters",
-  "num_followers": 1007515,
+  "num_followers": 1007500,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva"
     },
     {
+      "added_at": "2025-12-05 07:56:11",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 219862,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
+    },
+    {
       "added_at": "2025-06-27 04:00:46",
       "album": {
         "name": "Flowers",
@@ -1275,22 +1291,6 @@
       "duration_ms": 271573,
       "name": "Really Wanna Be With You",
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
-    },
-    {
-      "added_at": "2025-12-05 07:56:11",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 219862,
-      "name": "Stuck In My Head",
-      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
     },
     {
       "added_at": "2026-06-19 08:55:53",
@@ -1629,6 +1629,22 @@
       "url": "https://open.spotify.com/track/3JPckFErTvmkEMwJsOzTOb"
     },
     {
+      "added_at": "2025-03-07 06:27:51",
+      "album": {
+        "name": "The Hash Brown Demos",
+        "url": "https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
+        }
+      ],
+      "duration_ms": 119791,
+      "name": "Hash Browns",
+      "url": "https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7"
+    },
+    {
       "added_at": "2024-08-30 05:32:52",
       "album": {
         "name": "Trouble In Paradise",
@@ -1647,22 +1663,6 @@
       "duration_ms": 152768,
       "name": "Favorite (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
-    },
-    {
-      "added_at": "2025-03-07 06:27:51",
-      "album": {
-        "name": "The Hash Brown Demos",
-        "url": "https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg"
-      },
-      "artists": [
-        {
-          "name": "Aaron Childs",
-          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
-        }
-      ],
-      "duration_ms": 119791,
-      "name": "Hash Browns",
-      "url": "https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7"
     },
     {
       "added_at": "2025-09-12 19:19:09",

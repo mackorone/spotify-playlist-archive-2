@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Artur Rojek
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,226 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,266 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 51 | [Hypnotize](https://open.spotify.com/track/7yLPQTKxwBYBmOs41PievW) | [James Arp](https://open.spotify.com/artist/4Vwe0NpRHHqoDbExkdFOJV), [karol tufter](https://open.spotify.com/artist/0GkF3eeF3LCNLLBNicKCrg), [radek.baranovsky](https://open.spotify.com/artist/15yqOjT21W03wGgIdhXWud) | [Hypnotize](https://open.spotify.com/album/4WBhnMUsykpgG1lOvZ6SGY) | 3:29 |
 | 52 | [Schron](https://open.spotify.com/track/3JsSSnOvCje1nip7yLiymz) | [Ana Andrzejewska](https://open.spotify.com/artist/2D37AVlAm1JBWFTpMfjJpW), [Wuja HZG](https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj) | [Schron](https://open.spotify.com/album/7oQKhZEFbzS8xCLWx2sq3S) | 3:02 |
 | 53 | [KID](https://open.spotify.com/track/3H2x5CeATToxbMHdgdXaSb) | [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk) | [KID](https://open.spotify.com/album/3qGAK6Cn4Wky749uHNTPS1) | 3:40 |
-| 54 | [MELINDA](https://open.spotify.com/track/0pOFujPBURzzSaqwnuIRS2) | [Martini Police](https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN) | [MELINDA](https://open.spotify.com/album/6YswSoEJCuRkg7n9dn2nS2) | 3:45 |
+| 54 | [Melinda](https://open.spotify.com/track/0pOFujPBURzzSaqwnuIRS2) | [Martini Police](https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN) | [Melinda](https://open.spotify.com/album/6YswSoEJCuRkg7n9dn2nS2) | 3:45 |
 | 55 | [Będziemy się z tego śmiać](https://open.spotify.com/track/208pXvC2UcIeaIAPpdJlKL) | [Szymon Norkowski](https://open.spotify.com/artist/3QNaRulfMHtPrj5QDAGGoS), [Jerzy Koczur](https://open.spotify.com/artist/1Y5FAU8ociSgGzRsfdPzLb) | [Będziemy się z tego śmiać](https://open.spotify.com/album/2P5cyH871t97Jy8OsLtpYH) | 2:46 |
 | 56 | [Pożegnanie z Morzem](https://open.spotify.com/track/1WQEhQP4vYEX9vHuDK61SH) | [oysterboy](https://open.spotify.com/artist/0zHt0gWj0hDUgKOrUkeiYk) | [Eskapizm](https://open.spotify.com/album/264DglpVrsVh4P1j7A6NL5) | 3:33 |
 | 57 | [Dzisiaj na My](https://open.spotify.com/track/6W2wEJmYbDSWZaUAGMlOGF) | [Norbi&Wika](https://open.spotify.com/artist/5LQgfVZPc6yC4VfDRj5xmi) | [Dzisiaj na My](https://open.spotify.com/album/0SfolUtnGpHM9GaNzCdMmc) | 3:15 |

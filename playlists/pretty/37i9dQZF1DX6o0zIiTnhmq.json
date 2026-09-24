@@ -1,12 +1,12 @@
 {
   "description": "Mantras for meditation",
-  "num_followers": 238938,
+  "num_followers": 238990,
   "original_name": "Magical Mantras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ/lI6oIaobTq4vjgiXDNKwk4oai",
+  "snapshot_id": "AAAAACPcuxmd5cs/9DrrCOUbtXS556bj",
   "tracks": [
     {
       "added_at": "2026-09-15 11:47:16",
@@ -155,18 +155,18 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
-        "name": "Triveni: Durga, Lakshmi, Saraswati",
-        "url": "https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv"
+        "name": "Mantras for Precarious Times",
+        "url": "https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX"
       },
       "artists": [
         {
-          "name": "Sounds of Isha",
-          "url": "https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG"
+          "name": "Deva Premal",
+          "url": "https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF"
         }
       ],
-      "duration_ms": 315011,
-      "name": "Bhairavi Vandana",
-      "url": "https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT"
+      "duration_ms": 492600,
+      "name": "Om Gum Ganapatayei Namaha (Removing of Obstacles)",
+      "url": "https://open.spotify.com/track/6GihlKiR0Q01NCG6UHa1y9"
     },
     {
       "added_at": "2026-09-15 11:47:16",
@@ -191,18 +191,18 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
-        "name": "Mantras for Precarious Times",
-        "url": "https://open.spotify.com/album/1bSEZ4sgMJNKeP2sYyuwnX"
+        "name": "Triveni: Durga, Lakshmi, Saraswati",
+        "url": "https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv"
       },
       "artists": [
         {
-          "name": "Deva Premal",
-          "url": "https://open.spotify.com/artist/2970BxpdOBQmkMit6i9kVF"
+          "name": "Sounds of Isha",
+          "url": "https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG"
         }
       ],
-      "duration_ms": 492600,
-      "name": "Om Gum Ganapatayei Namaha (Removing of Obstacles)",
-      "url": "https://open.spotify.com/track/6GihlKiR0Q01NCG6UHa1y9"
+      "duration_ms": 315011,
+      "name": "Bhairavi Vandana",
+      "url": "https://open.spotify.com/track/2BPfuEhYccGXJe4nXCW9XT"
     },
     {
       "added_at": "2026-09-15 11:47:16",
@@ -327,22 +327,6 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
-        "name": "Patanjali Yoga Sutra (Chanting)",
-        "url": "https://open.spotify.com/album/5vLVE2qKObC0dsmlBUrf4U"
-      },
-      "artists": [
-        {
-          "name": "Dr. Ananda Balayogi Bhavanani",
-          "url": "https://open.spotify.com/artist/1V15Qmcc8D4gYTHvzHYeQ9"
-        }
-      ],
-      "duration_ms": 1422213,
-      "name": "108 Om Chants",
-      "url": "https://open.spotify.com/track/4cvFUTWRq0wFavHjWtOgTQ"
-    },
-    {
-      "added_at": "2026-09-15 11:47:16",
-      "album": {
         "name": "Bajrang Baan",
         "url": "https://open.spotify.com/album/4ElIZIv6fb4LRQpwIh8Kre"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 504040,
       "name": "Om Mani Padme Hum 1",
       "url": "https://open.spotify.com/track/0Wt0mAqujcgSIP6xEV0rdp"
+    },
+    {
+      "added_at": "2026-09-15 11:47:16",
+      "album": {
+        "name": "Patanjali Yoga Sutra (Chanting)",
+        "url": "https://open.spotify.com/album/5vLVE2qKObC0dsmlBUrf4U"
+      },
+      "artists": [
+        {
+          "name": "Dr. Ananda Balayogi Bhavanani",
+          "url": "https://open.spotify.com/artist/1V15Qmcc8D4gYTHvzHYeQ9"
+        }
+      ],
+      "duration_ms": 1422213,
+      "name": "108 Om Chants",
+      "url": "https://open.spotify.com/track/4cvFUTWRq0wFavHjWtOgTQ"
     },
     {
       "added_at": "2026-09-15 11:47:16",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
+        "name": "Buddhist and Zen for Meditation Relaxation",
+        "url": "https://open.spotify.com/album/3HGAhYIaLiRQY95JQuprwZ"
+      },
+      "artists": [
+        {
+          "name": "Best Relaxing Music",
+          "url": "https://open.spotify.com/artist/4Qp0NbeUNsiffzjGqkGhJD"
+        }
+      ],
+      "duration_ms": 509541,
+      "name": "Buddhist Music and Chants for Inner Peace",
+      "url": "https://open.spotify.com/track/3QlsZg5tAQ8ZqKbFmkwCGo"
+    },
+    {
+      "added_at": "2026-09-15 11:47:16",
+      "album": {
         "name": "Shree Ganesh Pancharatna Stotra",
         "url": "https://open.spotify.com/album/65zwQp8vOBCsyDkCboLZh5"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 200816,
       "name": "Shree Ganesh Pancharatna Stotra",
       "url": "https://open.spotify.com/track/35sQ8oPMSLWSa5M992r0is"
-    },
-    {
-      "added_at": "2026-09-15 11:47:16",
-      "album": {
-        "name": "Buddhist and Zen for Meditation Relaxation",
-        "url": "https://open.spotify.com/album/3HGAhYIaLiRQY95JQuprwZ"
-      },
-      "artists": [
-        {
-          "name": "Best Relaxing Music",
-          "url": "https://open.spotify.com/artist/4Qp0NbeUNsiffzjGqkGhJD"
-        }
-      ],
-      "duration_ms": 509541,
-      "name": "Buddhist Music and Chants for Inner Peace",
-      "url": "https://open.spotify.com/track/3QlsZg5tAQ8ZqKbFmkwCGo"
     },
     {
       "added_at": "2026-09-15 11:47:16",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
+        "name": "Mantras for a Happy Life",
+        "url": "https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k"
+      },
+      "artists": [
+        {
+          "name": "Ananda Vdovic",
+          "url": "https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN"
+        },
+        {
+          "name": "Davor Vdovic",
+          "url": "https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ"
+        }
+      ],
+      "duration_ms": 513092,
+      "name": "Om Tryambakam: Mantra for Health",
+      "url": "https://open.spotify.com/track/7xHqunPfTTNAsJvBjSzDsH"
+    },
+    {
+      "added_at": "2026-09-15 11:47:16",
+      "album": {
         "name": "Tvameva Mata Cha Pita Tvameva",
         "url": "https://open.spotify.com/album/34WWbToLqZuq4PIVtVQmiJ"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 806844,
       "name": "Tvameva Mata Cha Pita Tvameva",
       "url": "https://open.spotify.com/track/6ApbR2J85fA6TbhOTZWry4"
-    },
-    {
-      "added_at": "2026-09-15 11:47:16",
-      "album": {
-        "name": "Mantras for a Happy Life",
-        "url": "https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k"
-      },
-      "artists": [
-        {
-          "name": "Ananda Vdovic",
-          "url": "https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN"
-        },
-        {
-          "name": "Davor Vdovic",
-          "url": "https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ"
-        }
-      ],
-      "duration_ms": 513092,
-      "name": "Om Tryambakam: Mantra for Health",
-      "url": "https://open.spotify.com/track/7xHqunPfTTNAsJvBjSzDsH"
     },
     {
       "added_at": "2026-09-15 11:47:16",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
-        "name": "Nava Durga Gayatri Mantra Jaap",
-        "url": "https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb"
-      },
-      "artists": [
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        }
-      ],
-      "duration_ms": 2062009,
-      "name": "Nava Durga Gayatri Mantra Jaap",
-      "url": "https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m"
-    },
-    {
-      "added_at": "2026-09-15 11:47:16",
-      "album": {
         "name": "Gayatri Mantra",
         "url": "https://open.spotify.com/album/1X42voH71W82ExkkJfno1Z"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 188500,
       "name": "Gayatri Mantra",
       "url": "https://open.spotify.com/track/6Pxkly12ehE2VNASvzIixs"
+    },
+    {
+      "added_at": "2026-09-15 11:47:16",
+      "album": {
+        "name": "Nava Durga Gayatri Mantra Jaap",
+        "url": "https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "duration_ms": 2062009,
+      "name": "Nava Durga Gayatri Mantra Jaap",
+      "url": "https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m"
     },
     {
       "added_at": "2026-09-15 11:47:16",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2026-09-15 11:47:16",
       "album": {
+        "name": "Om Namah Shivay",
+        "url": "https://open.spotify.com/album/2MtmOstTYoDqDEILaADPds"
+      },
+      "artists": [
+        {
+          "name": "Rahul Saxena",
+          "url": "https://open.spotify.com/artist/0uwp0t2eE8qxCatuNX23ch"
+        }
+      ],
+      "duration_ms": 365454,
+      "name": "Om Namah Shivay",
+      "url": "https://open.spotify.com/track/2FuRIJUnMJvNyvaL4ElBzb"
+    },
+    {
+      "added_at": "2026-09-15 11:47:16",
+      "album": {
         "name": "Namami Shamishan",
         "url": "https://open.spotify.com/album/1AyQ0x6ZbDlSuUXazs7bli"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 222260,
       "name": "Namami Shamishan",
       "url": "https://open.spotify.com/track/5EJYBxHLwnnWlaDKa1F2ML"
-    },
-    {
-      "added_at": "2026-09-15 11:47:16",
-      "album": {
-        "name": "Om Namah Shivay",
-        "url": "https://open.spotify.com/album/2MtmOstTYoDqDEILaADPds"
-      },
-      "artists": [
-        {
-          "name": "Rahul Saxena",
-          "url": "https://open.spotify.com/artist/0uwp0t2eE8qxCatuNX23ch"
-        }
-      ],
-      "duration_ms": 365454,
-      "name": "Om Namah Shivay",
-      "url": "https://open.spotify.com/track/2FuRIJUnMJvNyvaL4ElBzb"
     },
     {
       "added_at": "2026-09-15 11:47:16",

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KAROL G, rusowsky, Judeline.",
-  "num_followers": 116920,
+  "num_followers": 116915,
   "original_name": "Editors' Picks: Best Songs of August",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 169351,
-      "name": "Already Gone",
-      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "Lean On",
         "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 205000,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 169351,
+      "name": "Already Gone",
+      "url": "https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "THRASHER",
-        "url": "https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo"
-      },
-      "artists": [
-        {
-          "name": "Brandon Flowers",
-          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
-        }
-      ],
-      "duration_ms": 191129,
-      "name": "Does It Ever Cross Your Mind?",
-      "url": "https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "the cops are coming",
         "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 193615,
       "name": "the cops are coming",
       "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "THRASHER",
+        "url": "https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo"
+      },
+      "artists": [
+        {
+          "name": "Brandon Flowers",
+          "url": "https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "Does It Ever Cross Your Mind?",
+      "url": "https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Fell Asleep in the Sun",
-        "url": "https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Fell Asleep in the Sun",
-      "url": "https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
         "name": "Blue Island",
         "url": "https://open.spotify.com/album/7I4OxTeNnQgLalOEJZzBqG"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 210293,
       "name": "Wish You Well",
       "url": "https://open.spotify.com/track/22TwGp4fTgPdljzpEgrfgz"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
+        "name": "Fell Asleep in the Sun",
+        "url": "https://open.spotify.com/album/3iW6HSsVPhmr7XRgisVwTd"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Fell Asleep in the Sun",
+      "url": "https://open.spotify.com/track/0qJfieRh1V4PEcUxdQEMMp"
     },
     {
       "added_at": "2026-09-01 17:51:42",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
+        "name": "No Puedo M\u00e1s",
+        "url": "https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp"
+      },
+      "artists": [
+        {
+          "name": "Ilusion Eterno",
+          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
+        }
+      ],
+      "duration_ms": 187702,
+      "name": "No Puedo M\u00e1s",
+      "url": "https://open.spotify.com/track/668c13TJaMLiel3D86TNLv"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
         "name": "Mentirasmentiras",
         "url": "https://open.spotify.com/album/2sG8kz4A3NuBzNmJm50wef"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 248923,
       "name": "Mentirasmentiras",
       "url": "https://open.spotify.com/track/5NLZW2tGwAQfixHhrVv6O2"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "No Puedo M\u00e1s",
-        "url": "https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp"
-      },
-      "artists": [
-        {
-          "name": "Ilusion Eterno",
-          "url": "https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK"
-        }
-      ],
-      "duration_ms": 187702,
-      "name": "No Puedo M\u00e1s",
-      "url": "https://open.spotify.com/track/668c13TJaMLiel3D86TNLv"
     },
     {
       "added_at": "2026-09-01 04:00:27",

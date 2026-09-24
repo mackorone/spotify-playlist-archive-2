@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  Mercy Chinwo
 
-870 songs - 3 day 3 hr 55 min
+871 songs - 3 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,7 +436,7 @@
 | [Kaunar Allah](https://open.spotify.com/track/6Yu4gwqfUEIwHhK5JRIG5P) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Kaunar Allah](https://open.spotify.com/album/7cRvo8ih8ElRx3psSHbk2Y) | 3:18 | 2026-06-12 | 2026-07-18 |
 | [Ke Nale Modisa \- Remix](https://open.spotify.com/track/1sTIGlXxkxnnIAwpoWktEK) | [Duduza Serenade](https://open.spotify.com/artist/4TgyqHirthyfGBduIaUXwI), [Hamilton Motloung](https://open.spotify.com/artist/0dmAn6BG8K1a7EI5bvPTZs), [Black Gee](https://open.spotify.com/artist/7mdB1RJv9PBUBzRSud0iUL), [Thabiso Mkhwanazi](https://open.spotify.com/artist/3NvxLxwAXqhHp0bsbXMU6U) | [Ke Nale Modisa \(Remix\)](https://open.spotify.com/album/15M8iluF41uCswp7efYdYj) | 5:24 | 2025-10-24 | 2025-12-06 |
 | [Kele Jehovah](https://open.spotify.com/track/05NQGVJqDquur7S2UsrxG5) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [BETHEL](https://open.spotify.com/album/50MpjTelBNmWQ1UDB40RIv) | 2:11 | 2025-03-07 | 2025-05-09 |
-| [Kelee Chineke](https://open.spotify.com/track/6ptnzaxcyKNHb33Uk6DYX8) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Kelee Chineke](https://open.spotify.com/album/7LigltsueKJziItb4AwZwx) | 5:32 | 2025-11-14 |  |
+| [Kelee Chineke](https://open.spotify.com/track/6ptnzaxcyKNHb33Uk6DYX8) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Kelee Chineke](https://open.spotify.com/album/7LigltsueKJziItb4AwZwx) | 5:32 | 2025-11-14 | 2026-09-24 |
 | [Keneya](https://open.spotify.com/track/7bvytgDbzEeUf2SuwNe5qs) | [Kennyice](https://open.spotify.com/artist/36fj0UBiN4y4kx2H98ofdO), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Keneya](https://open.spotify.com/album/2kPm7KcYImvvkqYoWPETLb) | 2:39 | 2024-11-22 | 2025-02-13 |
 | [Kind](https://open.spotify.com/track/2SLtt8zr8BMh1D2twQ4bcX) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Kind](https://open.spotify.com/album/6lJ9AWcHqRRW7SUTBfSZbZ) | 3:17 | 2023-09-15 | 2023-11-30 |
 | [King of Glory](https://open.spotify.com/track/0OhRz5NKEk9nGjzrSA6F6I) | [Toyin Ogunniyi](https://open.spotify.com/artist/485KdhvKOxbZt0CDo0fdAx) | [King of Glory](https://open.spotify.com/album/2bS4AU43AFQ9CK7XxUflbG) | 4:45 | 2026-08-21 |  |
@@ -461,6 +461,7 @@
 | [Let Your Fire Fall](https://open.spotify.com/track/0JsLo39R8tVtTr4ZhGB1Jr) | [Dr Paul Enenche](https://open.spotify.com/artist/5bbq9LbEHKVq6FEpVLuz7i), [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Let Your Fire Fall](https://open.spotify.com/album/5Ypr1NVLf9CcH8VOJKG76I) | 5:51 | 2025-11-14 |  |
 | [Levite's Creed](https://open.spotify.com/track/6fJ4kzxS1IkJiTymMNyGRC) | [Asher Ruona](https://open.spotify.com/artist/1BoUFYw1TmMEDrqpNuH3G6) | [Levite's Creed](https://open.spotify.com/album/6zR47IMQ7GVOJMcezJVj7b) | 12:10 | 2026-03-13 | 2026-05-22 |
 | [Lift Me Up](https://open.spotify.com/track/1KSaE7YB6ifUQpm03ovRJ4) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [Lift Me Up](https://open.spotify.com/album/14ihhTxeU4tvod0p2rPPrP) | 3:21 | 2025-03-14 | 2025-05-09 |
+| [Lifted High](https://open.spotify.com/track/1smZXcXZmVr0bAhf2X8LdB) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Lifted High](https://open.spotify.com/album/5mlGsrA6fjQ17Lm4oH7QSZ) | 7:30 | 2026-09-18 |  |
 | [Lifter of Men](https://open.spotify.com/track/1IxhyLPPM14RiMzlZEUEk4) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Lifter of Men](https://open.spotify.com/album/5C76LCJUbI1vhNh8ghUBVQ) | 5:34 | 2025-05-09 | 2025-05-30 |
 | [Lifter Of Men \- Higher](https://open.spotify.com/track/01m5OjBL4EFhWWd14nC6aZ) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [YYC Worship](https://open.spotify.com/artist/4Kd2x5UzbYmB9icNKsYIzc) | [Lifter Of Men \(Higher\)](https://open.spotify.com/album/2mTZSMh9NW1Ep8tMdJvrzH) | 7:23 | 2026-02-27 | 2026-04-05 |
 | [Lifter of my head](https://open.spotify.com/track/4IahJFgVlxlQd7xzNEDV7Q) | [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [Worship Wells](https://open.spotify.com/album/6b3NHJK7lx7CGBrhdsu0QK) | 5:50 | 2026-08-07 |  |

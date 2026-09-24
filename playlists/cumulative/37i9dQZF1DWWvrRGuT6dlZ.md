@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: Hema 郑诗妮\. Artwork: Isu Kim.
+> The best new music from fresh and emerging artists\. Curated with love by human Spotify editors\. Cover: mellowmie\. Artwork: Isu Kim.
 
-1,521 songs - 3 day 11 hr 27 min
+1,524 songs - 3 day 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Bahang Kota](https://open.spotify.com/track/6aADpkvIx8dSLDKzcMyToK) | [The Penthemix](https://open.spotify.com/artist/2YU6Hbetf1oCKLK7LTEHLV) | [Bahang Kota](https://open.spotify.com/album/2PAatMcJmRcuEf3f8AEDDE) | 3:06 | 2025-11-14 | 2026-03-14 |
 | [Baik Chow Dulu](https://open.spotify.com/track/2MgyzOGEf1HnA46VSNfYzl) | [Atta Rumnan](https://open.spotify.com/artist/6pIpAU7IZkSlCGQAgT3zzW) | [Baik Chow Dulu](https://open.spotify.com/album/2TjgjaojArfO5H6PAZ8adM) | 3:27 | 2025-07-17 | 2025-08-16 |
 | [baltimore](https://open.spotify.com/track/4BOfEeprYc7YASJdxEFRUc) | [kiingkess](https://open.spotify.com/artist/6hVsLLm8Ny0Vn2sY73Rukr) | [baltimore](https://open.spotify.com/album/7rcvOnx1ucyswGYtRhAVOe) | 2:13 | 2024-02-25 | 2024-11-22 |
+| [BANGER](https://open.spotify.com/track/6YwBjgBDEbpSxX1F9JJjue) | [mellownie](https://open.spotify.com/artist/2anLF49wOjTOoPPnvZQ4pz) | [BANGER](https://open.spotify.com/album/6xq4WneXu1HSf8xaNG5LB6) | 3:07 | 2026-09-23 |  |
 | [Basstamam](https://open.spotify.com/track/16s058nbVmbop2Uwrue65n) | [Syed Iqbal](https://open.spotify.com/artist/47xUKiYI5ZIf9vtn27XVNk) | [Basstamam](https://open.spotify.com/album/3h6mdN6mTlaLZwb7y6X5Mr) | 3:04 | 2025-05-29 | 2025-07-18 |
 | [Battles](https://open.spotify.com/track/2jDPTVDP4QNGgHfEDYJIUr) | [Izat Ibrahim](https://open.spotify.com/artist/7H7lmD1o6jjZFvclnVDIwc) | [Battles](https://open.spotify.com/album/2QNc9X23wz8vnt5MIeoGUN) | 2:55 | 2021-12-01 | 2022-01-14 |
 | [BBM \(Beef Bone Marrow\)](https://open.spotify.com/track/4foCnPJQXK78WDsmKRbKt6) | [Woes](https://open.spotify.com/artist/3RHT7tkSLfPzlgP44ysf6H) | [Temporal Dimension](https://open.spotify.com/album/3CHTsJNm9gm3GZpASoguOX) | 2:40 | 2023-11-09 | 2024-02-16 |
@@ -440,6 +441,7 @@
 | [GENUINE](https://open.spotify.com/track/4jotEv6EtrxI6bkdtvZX7s) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GENUINE](https://open.spotify.com/album/0YpFNKxT9qpeYKFMGbQqHJ) | 2:08 | 2025-07-31 | 2025-09-06 |
 | [GET THIS RIGHT](https://open.spotify.com/track/06zW1L5h75YSZ86L3GSr3p) | [Chriskris](https://open.spotify.com/artist/1JiE6rWuUTLrtPFQEOCphl) | [GET THIS RIGHT](https://open.spotify.com/album/65OzeAHliScpDpBB2zMMTu) | 3:12 | 2023-05-11 | 2023-08-18 |
 | [get to the car!](https://open.spotify.com/track/7L1xmtnXyi2WVEqcJ4qpNP) | [swij](https://open.spotify.com/artist/0gW3VB0blRjQBgTMBpyaZ7), [Johnson](https://open.spotify.com/artist/6KnBzfjg7VRyWhXS9OHoWb) | [get to the car!](https://open.spotify.com/album/6kFJixqfuvEzB1tvUh7CnA) | 2:39 | 2024-07-11 | 2025-01-18 |
+| [Ghost of You](https://open.spotify.com/track/35up11wO0KUoOTJL6aqLOq) | [Whitten Ooi](https://open.spotify.com/artist/7aRwq1gafZoh3BDVCgfYEd) | [Ghost of You](https://open.spotify.com/album/4TaLcDr2AsycQ73dC2CXsG) | 3:40 | 2026-09-23 |  |
 | [ghosts](https://open.spotify.com/track/1cMeqJMTgPWt8ye2GDg45i) | [Killmeslow](https://open.spotify.com/artist/0leX5B96n67GDEQDfR2boJ) | [ghosts](https://open.spotify.com/album/6PYwFpDFDhZsTYjWu9DBN7) | 2:19 | 2025-09-05 | 2025-10-17 |
 | [Glass Stained Eyes](https://open.spotify.com/track/5PTCcUbUgmRVRKQLuJS4G2) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Glass Stained Eyes](https://open.spotify.com/album/5G30IZQVh5eYJS5KrjwyHH) | 3:07 | 2022-01-20 | 2022-06-17 |
 | [Glass Stained Eyes](https://open.spotify.com/track/3khvk04lq9szSbyeFDH8AH) | [Coming Up Roses](https://open.spotify.com/artist/6pfmrPAgSkSRCZXAkbkGyb) | [Everything Is](https://open.spotify.com/album/0peIMKBxWe8WVIFdUYs0OD) | 5:03 | 2022-11-30 | 2023-01-13 |
@@ -798,6 +800,7 @@
 | [Midnight Skies \(feat\. Jaime Deraz\)](https://open.spotify.com/track/4cN2IBn5KtVf6LomjgsWf3) | [STARLYTE](https://open.spotify.com/artist/32UL2dRIFoeUL3ViLatNGv), [G.U.O.L.](https://open.spotify.com/artist/2wZaQyJOZ7y68O1cayCN16), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Midnight Skies \(feat\. Jaime Deraz\)](https://open.spotify.com/album/0lbJBufpZ0IM1XBe6ySP6K) | 3:27 | 2024-02-25 | 2024-05-10 |
 | [Milo Ice \(So Sweet\)](https://open.spotify.com/track/1gVLGJhbpC1WeY1BDoaVN8) | [NSG](https://open.spotify.com/artist/1ZfGh4cgVP6taqy00naPhl), [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj), [Kai Wei](https://open.spotify.com/artist/0Je3GDWErMRtVrcZ3VRwpB) | [Milo Ice \(So Sweet\)](https://open.spotify.com/album/6LdXJ9fZyoGAPGghsmnIQz) | 2:54 | 2025-06-06 | 2025-08-01 |
 | [Minah](https://open.spotify.com/track/7oWW1ILeliMU2HVpgvUmEy) | [abgdanial](https://open.spotify.com/artist/2axSWwXcBtAN3e5pBao9wF), [DANNFOSHO](https://open.spotify.com/artist/5TP0c4ogpaGI12A10iW5XM) | [Minah](https://open.spotify.com/album/620YKeHPzLkjmX6eLv0Phf) | 2:25 | 2022-02-17 | 2023-01-13 |
+| [Mindovermine](https://open.spotify.com/track/30URKfN9cW3FbZOnugyE1g) | [dian](https://open.spotify.com/artist/3vGjLNCPc5Tb3oY9cR3Lc2) | [Word Vomit](https://open.spotify.com/album/4WCM70Na9xWmwBTUrqoD96) | 2:52 | 2026-09-23 |  |
 | [Mine](https://open.spotify.com/track/3SZt6bGUF9zWgPDNx6QuH7) | [Midnight Blu](https://open.spotify.com/artist/1CrF9Qw6ekBFc36BbWWihl) | [Mine](https://open.spotify.com/album/1AjIqplPvhv8zWPm1R2hnL) | 3:45 | 2026-06-03 | 2026-08-27 |
 | [Mine](https://open.spotify.com/track/1yfS27iJnwOBsM5ygDeoLS) | [Shahera Sam](https://open.spotify.com/artist/4nUa44lnlvjTOHMkXhv7pN) | [Mine](https://open.spotify.com/album/2y0d3tdRcdpwBFCUtOuURz) | 2:56 | 2022-02-17 | 2022-06-17 |
 | [Minnal](https://open.spotify.com/track/5LTPpvlqykXDlzVRO29BxV) | [Saithis](https://open.spotify.com/artist/2qInyJAMIv4a2cRZ6OWx5L) | [Minnal](https://open.spotify.com/album/3qJ4ILFL0ytogLMSEUIVIa) | 3:02 | 2026-01-30 | 2026-05-07 |

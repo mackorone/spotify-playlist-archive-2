@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MUrG3NBYtM.md) - [plain]
 
 > De beste indie tracks van nu\. Cover: Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,855 likes - 74 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,847 likes - 74 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

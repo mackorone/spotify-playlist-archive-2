@@ -1,12 +1,12 @@
 {
   "description": "This is Playboi Carti. The essential tracks, all in one playlist.",
-  "num_followers": 329193,
+  "num_followers": 329197,
   "original_name": "This Is Playboi Carti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAACl1QsvToR5uEn2l83u/0Xz",
+  "snapshot_id": "arHFAAAAAADBOx93ZtwI+45nsmrDVgmz",
   "tracks": [
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playboi Carti",
+        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 150409,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "xperiment",
         "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 198410,
       "name": "deaf note (with Playboi Carti)",
       "url": "https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Playboi Carti",
-        "url": "https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 150409,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/23QyE9GQpXsX9WgEDADMa6"
     },
     {
       "added_at": null,

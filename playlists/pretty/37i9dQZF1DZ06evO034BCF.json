@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Dudamel. The essential tracks, all in one playlist.",
-  "num_followers": 2257,
+  "num_followers": 2263,
   "original_name": "This Is Gustavo Dudamel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAABerx8V9FjKQX8BFx5hEMor",
+  "snapshot_id": "arHFAAAAAACRD0hjKHv12V3jjD1bhnrz",
   "tracks": [
     {
       "added_at": null,
@@ -723,30 +723,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homage to Heifetz",
-        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
+        "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
+        "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
       },
       "artists": [
         {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
-          "name": "Mar\u00eda Due\u00f1as",
-          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+          "name": "Johann Strauss II",
+          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
         },
         {
           "name": "Gustavo Dudamel",
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
         }
       ],
-      "duration_ms": 269493,
-      "name": "Symphonie espagnole, Op. 21: II. Scherzando. Allegro molto",
-      "url": "https://open.spotify.com/track/7uPkyT3yEFzgupFM5OpuN7"
+      "duration_ms": 162253,
+      "name": "Tik-Tak Polka, Polka schnell, Op. 365",
+      "url": "https://open.spotify.com/track/5VfUlaZXibyCocOEJsSnl4"
     },
     {
       "added_at": null,
@@ -775,26 +771,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Year's Concert 2017 / Neujahrskonzert 2017",
-        "url": "https://open.spotify.com/album/5ppcI0MWkfvKH064fMMYXQ"
+        "name": "Homage to Heifetz",
+        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
       },
       "artists": [
         {
-          "name": "Johann Strauss II",
-          "url": "https://open.spotify.com/artist/5goS0v24Fc1ydjCKQRwtjM"
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
         },
         {
           "name": "Gustavo Dudamel",
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
         }
       ],
-      "duration_ms": 162253,
-      "name": "Tik-Tak Polka, Polka schnell, Op. 365",
-      "url": "https://open.spotify.com/track/5VfUlaZXibyCocOEJsSnl4"
+      "duration_ms": 269493,
+      "name": "Symphonie espagnole, Op. 21: II. Scherzando. Allegro molto",
+      "url": "https://open.spotify.com/track/7uPkyT3yEFzgupFM5OpuN7"
     },
     {
       "added_at": null,
@@ -819,34 +819,6 @@
       "duration_ms": 293173,
       "name": "Conga del Fuego - Live",
       "url": "https://open.spotify.com/track/0UbyYfjUgbB4baKWTlKTvK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homage to Heifetz",
-        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
-      },
-      "artists": [
-        {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
-          "name": "Mar\u00eda Due\u00f1as",
-          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 389426,
-      "name": "Symphonie espagnole, Op. 21: III. Intermezzo. Allegretto non troppo",
-      "url": "https://open.spotify.com/track/3magwCnlgPD9jlK7VYbtBG"
     },
     {
       "added_at": null,
@@ -895,6 +867,34 @@
       "duration_ms": 539506,
       "name": "Adagio for Strings, Op. 11",
       "url": "https://open.spotify.com/track/1KdTxZoXr0xrwtAKlbuHoA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homage to Heifetz",
+        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 389426,
+      "name": "Symphonie espagnole, Op. 21: III. Intermezzo. Allegretto non troppo",
+      "url": "https://open.spotify.com/track/3magwCnlgPD9jlK7VYbtBG"
     },
     {
       "added_at": null,

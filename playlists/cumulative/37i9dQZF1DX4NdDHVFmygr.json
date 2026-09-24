@@ -3011,6 +3011,24 @@
     },
     {
       "album": {
+        "name": "FORAS",
+        "url": "https://open.spotify.com/album/0DvwAM1ehhlLSaANGCVCS5"
+      },
+      "artists": [
+        {
+          "name": "Manal",
+          "url": "https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172356,
+      "name": "FORAS",
+      "url": "https://open.spotify.com/track/1349sJ9c4sT6KBgUqZiK6S"
+    },
+    {
+      "album": {
         "name": "FORSSA",
         "url": "https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x"
       },
@@ -5986,7 +6004,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 160386,
       "name": "MA3LISH",
       "url": "https://open.spotify.com/track/0JMhQxKjiNTsV2NSTZyfSN"

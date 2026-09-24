@@ -1,6 +1,6 @@
 {
   "description": "Loksins New Music Friday! N\u00fd t\u00f3nlist fr\u00e1 Miley Cyrus, Troye Sivan og m\u00f6rgum fleirum!",
-  "num_followers": 9717,
+  "num_followers": 9716,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -115,17 +115,21 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "Small Town",
+        "name": "Small Town (feat. Gabriel Jacoby)",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town",
+      "name": "Small Town (feat. Gabriel Jacoby)",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {
@@ -355,6 +359,22 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
+        "name": "Met my match",
+        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "duration_ms": 165339,
+      "name": "Met my match",
+      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d"
       },
@@ -379,22 +399,6 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "ESTRUS",
-        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 193792,
-      "name": "are we on a break",
-      "url": "https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
         "name": "Something I Need",
         "url": "https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ"
       },
@@ -411,18 +415,18 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "Met my match",
-        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
+        "name": "ESTRUS",
+        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6"
       },
       "artists": [
         {
-          "name": "Say Now",
-          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
         }
       ],
-      "duration_ms": 165339,
-      "name": "Met my match",
-      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
+      "duration_ms": 193792,
+      "name": "are we on a break",
+      "url": "https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -507,22 +511,6 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "Day and Night",
-        "url": "https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 194444,
-      "name": "Versailles",
-      "url": "https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
       },
@@ -535,6 +523,22 @@
       "duration_ms": 296285,
       "name": "\u2060Wildfire",
       "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
+        "name": "Palm Of Your Hands",
+        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "duration_ms": 205063,
+      "name": "Palm Of Your Hands",
+      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -559,34 +563,18 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "Palm Of Your Hands",
-        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
+        "name": "Day and Night",
+        "url": "https://open.spotify.com/album/03tSsmV2nJieE0IwgP9vUk"
       },
       "artists": [
         {
-          "name": "Adriatique",
-          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
         }
       ],
-      "duration_ms": 205063,
-      "name": "Palm Of Your Hands",
-      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
-        "name": "funny feeling",
-        "url": "https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "funny feeling",
-      "url": "https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd"
+      "duration_ms": 194444,
+      "name": "Versailles",
+      "url": "https://open.spotify.com/track/0aggOTNihV1CtOtJnSedxS"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -603,6 +591,22 @@
       "duration_ms": 234644,
       "name": "The Meaning of Flowers",
       "url": "https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
+        "name": "funny feeling",
+        "url": "https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "funny feeling",
+      "url": "https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -711,22 +715,6 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
-      },
-      "artists": [
-        {
-          "name": "\u03a3tella",
-          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
-        }
-      ],
-      "duration_ms": 165104,
-      "name": "Belinda",
-      "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
         "name": "Not Afraid",
         "url": "https://open.spotify.com/album/3iAWKop00Z82XxP3031f5Z"
       },
@@ -739,6 +727,22 @@
       "duration_ms": 153120,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/4iBb68KD6bL51N0Ku3q72V"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 165104,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -775,6 +779,22 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6eVxuJTo3x3Fa9BmsPMMEt"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        }
+      ],
+      "duration_ms": 182356,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
         "name": "P \u2605 K I",
         "url": "https://open.spotify.com/album/2y1prRtwVuujlCVYcbcwEg"
       },
@@ -795,22 +815,6 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6eVxuJTo3x3Fa9BmsPMMEt"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        }
-      ],
-      "duration_ms": 182356,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
         "name": "Control",
         "url": "https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N"
       },
@@ -827,6 +831,26 @@
       "duration_ms": 161250,
       "name": "Control",
       "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/77s1mjVwdAxY6LWsI523yy"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        },
+        {
+          "name": "BLVCKHEART",
+          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/4yxrARgqW2FBvnaCDlqoNc"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -863,22 +887,18 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/77s1mjVwdAxY6LWsI523yy"
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC"
       },
       "artists": [
         {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        },
-        {
-          "name": "BLVCKHEART",
-          "url": "https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV"
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
         }
       ],
-      "duration_ms": 192000,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/4yxrARgqW2FBvnaCDlqoNc"
+      "duration_ms": 162911,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -895,22 +915,6 @@
       "duration_ms": 166666,
       "name": "On my way",
       "url": "https://open.spotify.com/track/0ng7JVEajDAc4oYzs2yqFY"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
-        "name": "MIA",
-        "url": "https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC"
-      },
-      "artists": [
-        {
-          "name": "Sophie Powers",
-          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
-        }
-      ],
-      "duration_ms": 162911,
-      "name": "MIA",
-      "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -999,18 +1003,18 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "Wishing Bone",
-        "url": "https://open.spotify.com/album/7xtBW8XGdQdjPwnlZ8G42P"
+        "name": "too late",
+        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
       },
       "artists": [
         {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+          "name": "Juney Boy",
+          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
         }
       ],
-      "duration_ms": 208800,
-      "name": "Wishing Bone",
-      "url": "https://open.spotify.com/track/1Rpc4MF6q5kH63rozkvlZg"
+      "duration_ms": 190157,
+      "name": "too late",
+      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -1027,6 +1031,74 @@
       "duration_ms": 204663,
       "name": "Nothing To Do (nananananana)",
       "url": "https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
+        "name": "Wishing Bone",
+        "url": "https://open.spotify.com/album/7xtBW8XGdQdjPwnlZ8G42P"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Wishing Bone",
+      "url": "https://open.spotify.com/track/1Rpc4MF6q5kH63rozkvlZg"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
+        "name": "Me/You (always and forever)",
+        "url": "https://open.spotify.com/album/0ePJn0pCp0M5ETAbCaYZfg"
+      },
+      "artists": [
+        {
+          "name": "Tove Styrke",
+          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
+        }
+      ],
+      "duration_ms": 216358,
+      "name": "Me/You (always and forever)",
+      "url": "https://open.spotify.com/track/7EtHVLkstCjz6iY79FmvLb"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
+        "name": "Fall In Love With Me",
+        "url": "https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj"
+      },
+      "artists": [
+        {
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
+        }
+      ],
+      "duration_ms": 168685,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
+        "name": "Destination",
+        "url": "https://open.spotify.com/album/5CHGLdsHjJzJ8lqdyT4X8l"
+      },
+      "artists": [
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        },
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        }
+      ],
+      "duration_ms": 175476,
+      "name": "Destination",
+      "url": "https://open.spotify.com/track/0gY0h3DvEFqPNYfVrafY25"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -1067,90 +1139,6 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "Me/You (always and forever)",
-        "url": "https://open.spotify.com/album/0ePJn0pCp0M5ETAbCaYZfg"
-      },
-      "artists": [
-        {
-          "name": "Tove Styrke",
-          "url": "https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9"
-        }
-      ],
-      "duration_ms": 216358,
-      "name": "Me/You (always and forever)",
-      "url": "https://open.spotify.com/track/7EtHVLkstCjz6iY79FmvLb"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
-        "name": "too late",
-        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
-      },
-      "artists": [
-        {
-          "name": "Juney Boy",
-          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
-        }
-      ],
-      "duration_ms": 190157,
-      "name": "too late",
-      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
-        "name": "Destination",
-        "url": "https://open.spotify.com/album/5CHGLdsHjJzJ8lqdyT4X8l"
-      },
-      "artists": [
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        },
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        }
-      ],
-      "duration_ms": 175476,
-      "name": "Destination",
-      "url": "https://open.spotify.com/track/0gY0h3DvEFqPNYfVrafY25"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
-        "name": "Fall In Love With Me",
-        "url": "https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj"
-      },
-      "artists": [
-        {
-          "name": "Basia Ma\u0142ecka",
-          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
-        }
-      ],
-      "duration_ms": 168685,
-      "name": "Fall In Love With Me",
-      "url": "https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
-        "name": "LOST DISC",
-        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
-      },
-      "artists": [
-        {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
-        }
-      ],
-      "duration_ms": 218651,
-      "name": "WAITING FOR YOU",
-      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/04Cd1Z5W5QUzGoGhnP6TCA"
       },
@@ -1175,18 +1163,18 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "Daisies",
-        "url": "https://open.spotify.com/album/6S9vjdttva5EL2otf9xZiu"
+        "name": "LOST DISC",
+        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
       },
       "artists": [
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
         }
       ],
-      "duration_ms": 160245,
-      "name": "Daisies",
-      "url": "https://open.spotify.com/track/1xg5ku2x0XxEdTcVLmqHl0"
+      "duration_ms": 218651,
+      "name": "WAITING FOR YOU",
+      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -1207,6 +1195,22 @@
       "duration_ms": 161904,
       "name": "sad, alone?",
       "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
+        "name": "Daisies",
+        "url": "https://open.spotify.com/album/6S9vjdttva5EL2otf9xZiu"
+      },
+      "artists": [
+        {
+          "name": "LOVA",
+          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+        }
+      ],
+      "duration_ms": 160245,
+      "name": "Daisies",
+      "url": "https://open.spotify.com/track/1xg5ku2x0XxEdTcVLmqHl0"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -1279,22 +1283,6 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "It's Only Heaven",
-        "url": "https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ"
-      },
-      "artists": [
-        {
-          "name": "Morabeza Tobacco",
-          "url": "https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7"
-        }
-      ],
-      "duration_ms": 158332,
-      "name": "A Time A Place",
-      "url": "https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI"
-    },
-    {
-      "added_at": "2026-09-18 00:00:16",
-      "album": {
         "name": "My Game",
         "url": "https://open.spotify.com/album/4HfOMvHQKHYdovihQhSWMs"
       },
@@ -1315,18 +1303,34 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "NEXT CHAPTER",
-        "url": "https://open.spotify.com/album/64ga2l7wOzL3Rza3sSD2UE"
+        "name": "It's Only Heaven",
+        "url": "https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ"
       },
       "artists": [
         {
-          "name": "The Square",
-          "url": "https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C"
+          "name": "Morabeza Tobacco",
+          "url": "https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7"
         }
       ],
-      "duration_ms": 191404,
-      "name": "NEXT CHAPTER",
-      "url": "https://open.spotify.com/track/4N46tWZXzoXO5lQTC85agG"
+      "duration_ms": 158332,
+      "name": "A Time A Place",
+      "url": "https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI"
+    },
+    {
+      "added_at": "2026-09-18 00:00:16",
+      "album": {
+        "name": "No one Owns the Sunrise",
+        "url": "https://open.spotify.com/album/56sSCWyNO0KzFFrx1f5h4E"
+      },
+      "artists": [
+        {
+          "name": "Kwamie Liv",
+          "url": "https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg"
+        }
+      ],
+      "duration_ms": 205321,
+      "name": "No one Owns the Sunrise",
+      "url": "https://open.spotify.com/track/5FqHPGV9kVjW9Hl09cVusE"
     },
     {
       "added_at": "2026-09-18 00:00:16",
@@ -1351,18 +1355,18 @@
     {
       "added_at": "2026-09-18 00:00:16",
       "album": {
-        "name": "No one Owns the Sunrise",
-        "url": "https://open.spotify.com/album/56sSCWyNO0KzFFrx1f5h4E"
+        "name": "NEXT CHAPTER",
+        "url": "https://open.spotify.com/album/64ga2l7wOzL3Rza3sSD2UE"
       },
       "artists": [
         {
-          "name": "Kwamie Liv",
-          "url": "https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg"
+          "name": "The Square",
+          "url": "https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C"
         }
       ],
-      "duration_ms": 205321,
-      "name": "No one Owns the Sunrise",
-      "url": "https://open.spotify.com/track/5FqHPGV9kVjW9Hl09cVusE"
+      "duration_ms": 191404,
+      "name": "NEXT CHAPTER",
+      "url": "https://open.spotify.com/track/4N46tWZXzoXO5lQTC85agG"
     },
     {
       "added_at": "2026-09-18 00:00:16",

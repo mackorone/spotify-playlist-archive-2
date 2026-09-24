@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the center of dance music culture\. Featuring Hercules & Love Affair.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,771 likes - 85 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,756 likes - 85 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Heaven \(feat\. Faris Badwan\)](https://open.spotify.com/track/6WnvwvUlbkStbTBuQNGsKs) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W), [Faris Badwan](https://open.spotify.com/artist/7H5F95b3evCn4PRE2jZUup) | [Danseur](https://open.spotify.com/album/36VryG7BuShlfxD2l4cPVx) | 4:06 |
 | 2 | [Pose \- Honey Dijon Remix](https://open.spotify.com/track/7mh3Oj4EuUSh7vDqe0sklk) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [THERAPY AT THE CLUB: Club Therapy with Honey Dijon](https://open.spotify.com/album/1EWcumYxomcaxIUyEr0aYf) | 4:08 |
 | 3 | [Put4n4 \(feat\. Evissimax\)](https://open.spotify.com/track/3fLZrTCsdpPmS2gHKHyP8m) | [Slim Soledad](https://open.spotify.com/artist/0PMIt2iZdVVvBzyYRpM7Db), [Evissimax](https://open.spotify.com/artist/3KRbZfhEbntEDFNV3b48Cv) | [Noches Calientes de la Soledad](https://open.spotify.com/album/0AwLr5rain3ZZzQOju5LpF) | 3:24 |
-| 4 | [Juicy Couture \- Orignal Mix](https://open.spotify.com/track/53yIhkAMhbDgjiKJLMdKoN) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Juicy Couture](https://open.spotify.com/album/2oCPrR0Ii1pKDXEpHUwVJh) | 3:31 |
+| 4 | [Juicy Couture](https://open.spotify.com/track/53yIhkAMhbDgjiKJLMdKoN) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS) | [Juicy Couture](https://open.spotify.com/album/2oCPrR0Ii1pKDXEpHUwVJh) | 3:31 |
 | 5 | [BODY TYPE](https://open.spotify.com/track/5B08DVCm1Ed627Buhuuxxo) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [BODY TYPE](https://open.spotify.com/album/1vbnBkORYGIzRDUYP6WR3J) | 2:26 |
 | 6 | [FINALE \- Remix](https://open.spotify.com/track/3T4v9f3DBNqHLsabw64c9E) | [Jamaica Moana](https://open.spotify.com/artist/0kCAtshqpuXucHnqXehLfh), [Icon Sinia Alaia](https://open.spotify.com/artist/4lcAwldRw3SfyyEmL80Hpo), [Kevin Jz Prodigy](https://open.spotify.com/artist/1ubi6HKbyDdK01A4lu05Lk), [B\. Ames](https://open.spotify.com/artist/3x2jesOcsWoo4rahIUUCCb) | [FINALE \(Remix\)](https://open.spotify.com/album/6k32MtL3rfZGB0hY6U4UGq) | 4:16 |
 | 7 | [LETHAL](https://open.spotify.com/track/1dM8qpp2IsFQSIruKKcJ7A) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC) | [NEW BITCH](https://open.spotify.com/album/5I5oBqvwpS4UAt8xyfB4Ic) | 3:26 |

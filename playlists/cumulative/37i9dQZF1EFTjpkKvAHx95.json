@@ -2248,6 +2248,24 @@
     {
       "album": {
         "name": "A Muse In Her Feelings",
+        "url": "https://open.spotify.com/album/3JhXz0ke6lknyqXKkJ2vYN"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233169,
+      "name": "Keep It Going",
+      "url": "https://open.spotify.com/track/51uvN7gcATAu3aZrz1KAiX"
+    },
+    {
+      "album": {
+        "name": "A Muse In Her Feelings",
         "url": "https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa"
       },
       "artists": [
@@ -2258,7 +2276,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 233169,
       "name": "Keep It Going",
       "url": "https://open.spotify.com/track/59O4w7NZgVqowQkcG8gs1i"

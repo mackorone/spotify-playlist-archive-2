@@ -1,12 +1,12 @@
 {
   "description": "This is FLO. The essential tracks, all in one playlist.",
-  "num_followers": 18099,
+  "num_followers": 18109,
   "original_name": "This Is FLO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAACSzSe565Xbz4QC/DHEE/sS",
+  "snapshot_id": "arHFAAAAAACpKZCmJxZXAPOcKQ/RVfTc",
   "tracks": [
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 199578,
-      "name": "Do Too Much",
-      "url": "https://open.spotify.com/track/6y5YVn647h2dKeWtvmpj0D"
+      "duration_ms": 154066,
+      "name": "Conceited",
+      "url": "https://open.spotify.com/track/3oDwhvezO1m2mhpKtFimLw"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 154066,
-      "name": "Conceited",
-      "url": "https://open.spotify.com/track/3oDwhvezO1m2mhpKtFimLw"
+      "duration_ms": 199578,
+      "name": "Do Too Much",
+      "url": "https://open.spotify.com/track/6y5YVn647h2dKeWtvmpj0D"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw?si=faac016da8a1436c">Vuyina</a>\. Artwork: Isu Kim.
 
-1,524 songs - 3 day 4 hr 18 min
+1,525 songs - 3 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Don Dada](https://open.spotify.com/track/3rxqAUgjZ7heyD8tElbBXD) | [Kaesa](https://open.spotify.com/artist/76PFftzWrjvqCadZiIVZGg) | [Don Dada](https://open.spotify.com/album/56HttwqWzMu3fMWuTFL54g) | 3:24 | 2025-12-03 | 2026-01-15 |
 | [Don't Braai Me \(Soldier Man\)](https://open.spotify.com/track/35J0wvREZ6snaBrDgO6yyM) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [Don't Braai Me \(Soldier Man\)](https://open.spotify.com/album/72TWJ05rBZEe0EQTOcj77V) | 2:22 | 2024-10-08 | 2025-03-06 |
 | [Don't Cry \(feat\. Benerl\)](https://open.spotify.com/track/4gSNoczwZgkB0Wz6xxjaoT) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Benerl](https://open.spotify.com/artist/6FpN7gwehZgxVAgVHUMh1L) | [No Pressure](https://open.spotify.com/album/3yg34MqlH23DzPdIGFNwQU) | 3:52 | 2023-03-05 | 2023-03-10 |
+| [Don't It Feel Right](https://open.spotify.com/track/5rng6TbgMGWtegWqN1TZ4i) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Don't It Feel Right](https://open.spotify.com/album/1MhMpdN06xUws1L9PaFnf4) | 2:36 | 2026-09-23 |  |
 | [Don't Leave](https://open.spotify.com/track/2sNP5awHMfjvXR3oj7QVw1) | [SaveMilli](https://open.spotify.com/artist/2vAdhfI46PzYuG5vhKDxme) | [Don't Leave](https://open.spotify.com/album/5aQVE0y3esKlhQcl8Bjn7j) | 2:53 | 2023-09-27 | 2023-11-30 |
 | [Don't Leave](https://open.spotify.com/track/6AGy2SKNYEzMSTkLsCAtUn) | [Winny](https://open.spotify.com/artist/6QjsZEGqDMbzKvCdfFN5nz) | [Don't Leave](https://open.spotify.com/album/709IXOjBvnPvOtoQZmPrX4) | 2:37 | 2023-03-29 | 2024-02-07 |
 | [Don't leave me](https://open.spotify.com/track/7Cqv5A4jWWeW3cQ9poAecl) | [Y.D.A](https://open.spotify.com/artist/45Kik1HKtVxnaeajZtYozL) | [Don't leave me](https://open.spotify.com/album/3Gtp6OWTvJNRgwTQeC67Sw) | 3:05 | 2024-06-04 | 2024-07-03 |
@@ -811,7 +812,7 @@
 | [Make Sense](https://open.spotify.com/track/3GxSWEKvqclRzYbbwjOccz) | [Agum](https://open.spotify.com/artist/65clSGoG8QMqMDxmpkZPhw) | [Make Sense](https://open.spotify.com/album/3C5J0IIauNn5vJjpvewkWq) | 3:04 | 2025-12-03 | 2026-01-15 |
 | [Makoma](https://open.spotify.com/track/4Tmh5bkwWsz0oJpkSaOOm8) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [Makoma](https://open.spotify.com/album/5g6ob8kQyPRGIr0g9UQRlm) | 3:16 | 2023-03-05 | 2023-03-10 |
 | [Mal](https://open.spotify.com/track/0RyNPRr28VHy5GYB19kFEU) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL) | [In Her Thoughts](https://open.spotify.com/album/7eXEtX7iQ1oJ9Ngs7xYMkx) | 2:37 | 2024-07-03 | 2024-08-08 |
-| [Malaika](https://open.spotify.com/track/73HnH8p7dahNXGFIaDoMTz) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Malaika](https://open.spotify.com/album/1s8CbG03GlsaUCWHKzjHds) | 3:10 | 2026-09-09 |  |
+| [Malaika](https://open.spotify.com/track/73HnH8p7dahNXGFIaDoMTz) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Malaika](https://open.spotify.com/album/1s8CbG03GlsaUCWHKzjHds) | 3:10 | 2026-09-09 | 2026-09-24 |
 | [Malibu](https://open.spotify.com/track/0JAzlCL0Btz2z6qWN09AaG) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Malibu](https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz) | 2:51 | 2022-09-02 | 2022-10-01 |
 | [Malibu](https://open.spotify.com/track/2FcbCjgVYR26a9Vm7siZaW) | [WNDRSZN](https://open.spotify.com/artist/7FaCY1DObpp7QO3S9f0RyQ) | [Malibu](https://open.spotify.com/album/2Y2uUeq16FvGvIlijx1nhs) | 2:46 | 2022-09-02 | 2022-10-01 |
 | [Malome](https://open.spotify.com/track/1FNkjvrxmAWEests4qk8vX) | [Kiddy Kat](https://open.spotify.com/artist/7mi1AGiEnSHxEshIruGZEc) | [MORWA WA MPHERI](https://open.spotify.com/album/4lK7i4RkkGVQjtSBE1RsFt) | 3:39 | 2025-07-02 | 2026-04-02 |

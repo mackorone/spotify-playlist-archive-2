@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd frisse hits! Cover: Isabèl Usher \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a><br/>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,995 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,004 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Niemand Wil Een Popster](https://open.spotify.com/track/4ylzEL9Fiz17Wh9ojfG0cL) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Niemand Wil Een Popster](https://open.spotify.com/album/33rXtwNcRKwvEM8w0vqVPQ) | 2:58 |
 | 2 | [100 Tranen](https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M) | [Qlas](https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [100 Tranen](https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F) | 2:36 |
-| 3 | [Draaien](https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [DJBrittneySGAT](https://open.spotify.com/artist/2gR2NUAeODffVXH8Bdcj0Z) | [Draaien](https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx) | 1:33 |
-| 4 | [Oh No](https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Oh No](https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96) | 3:15 |
-| 5 | [Just A Little \(feat\. Sam Harper\)](https://open.spotify.com/track/0H24VNZsFn9zoFycCHYQu3) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Just A Little \(feat\. Sam Harper\)](https://open.spotify.com/album/5ZtlB4gohuljxSsWTuy2Ih) | 2:22 |
-| 6 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
-| 7 | [Wauw](https://open.spotify.com/track/3A08L1HFsnHKyFQep0AWyY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 1:58 |
-| 8 | [La Vida](https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [La Vida](https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y) | 2:46 |
-| 9 | [Rapido](https://open.spotify.com/track/00WZWFbf7B5uGDIdWw5OmE) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Rapido](https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF) | 2:47 |
+| 3 | [Rapido](https://open.spotify.com/track/00WZWFbf7B5uGDIdWw5OmE) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Rapido](https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF) | 2:47 |
+| 4 | [Draaien](https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH) | [Def](https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk), [DJBrittneySGAT](https://open.spotify.com/artist/2gR2NUAeODffVXH8Bdcj0Z) | [Draaien](https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx) | 1:33 |
+| 5 | [Oh No](https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Oh No](https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96) | 3:15 |
+| 6 | [Just A Little \(feat\. Sam Harper\)](https://open.spotify.com/track/0H24VNZsFn9zoFycCHYQu3) | [Justė](https://open.spotify.com/artist/0LWUxoJXKsDsPenrHZ0key), [Sam Harper](https://open.spotify.com/artist/0czTwfZBBvlvlOiypvDvwe) | [Just A Little \(feat\. Sam Harper\)](https://open.spotify.com/album/5ZtlB4gohuljxSsWTuy2Ih) | 2:22 |
+| 7 | [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 |
+| 8 | [Wauw](https://open.spotify.com/track/3A08L1HFsnHKyFQep0AWyY) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [SUPERSTAR](https://open.spotify.com/album/2jZzND3FctUUDWC8I4MYNK) | 1:58 |
+| 9 | [La Vida](https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [La Vida](https://open.spotify.com/album/6q0ZDYdun2UqcoA7Rojp5Y) | 2:46 |
 | 10 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 |
 | 11 | [Parachute](https://open.spotify.com/track/6ipQbyshG2EiqlR11pbYLR) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Parachute](https://open.spotify.com/album/0p8HRk8YftL51GFU0DvVbz) | 3:26 |
 | 12 | [Babydoll](https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Babydoll](https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 49 | [My Oh My](https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Willy William](https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq) | [My Oh My](https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh) | 2:36 |
 | 50 | [Take Me Back](https://open.spotify.com/track/1ydTfAU0AXrRnbPpfyWYQm) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Take Me Back](https://open.spotify.com/album/0V3YKC3QI5P1sAjM4csXju) | 3:21 |
 
-Snapshot ID: `AAAAAGEVQ9lKhGIwbcDUgTmmrocyGorF`
+Snapshot ID: `AAAAAM8QcMoUII5ASYBUSW938+Ic3oG3`

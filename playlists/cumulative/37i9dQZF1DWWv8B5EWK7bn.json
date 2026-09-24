@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Honora",
+        "url": "https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM"
+      },
+      "artists": [
+        {
+          "name": "Flea",
+          "url": "https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458053,
+      "name": "A Plea",
+      "url": "https://open.spotify.com/track/6l8bVvHC6p235oK1IIef03"
+    },
+    {
+      "album": {
         "name": "A Time To Blossom",
         "url": "https://open.spotify.com/album/2YZ4RouJ3GNu7xHxWoa30g"
       },
@@ -976,7 +994,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 252557,
       "name": "Cholericly Yours",
       "url": "https://open.spotify.com/track/38AYuyUvmoEk4ww4XSVTNI"
@@ -1024,6 +1042,24 @@
       "duration_ms": 170360,
       "name": "Circles",
       "url": "https://open.spotify.com/track/4jXl6VtkFFKIt3ycUQc5LT"
+    },
+    {
+      "album": {
+        "name": "Cloud Land / Flashes In The Afternoon",
+        "url": "https://open.spotify.com/album/3MNQp5ASgIfQo3Jye2ebe7"
+      },
+      "artists": [
+        {
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378102,
+      "name": "Cloud Land",
+      "url": "https://open.spotify.com/track/0HDhTmv35SU9n2uppSWKVP"
     },
     {
       "album": {
@@ -1570,7 +1606,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 300866,
       "name": "Dividual Individual",
       "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
@@ -2032,7 +2068,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 140727,
       "name": "Estar\u00e1n aparcando",
       "url": "https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA"
@@ -2090,6 +2126,24 @@
       "duration_ms": 384589,
       "name": "Evening Mood",
       "url": "https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT"
+    },
+    {
+      "album": {
+        "name": "Ever No Way",
+        "url": "https://open.spotify.com/album/71NerKoMxT87Hu5nPwQlwm"
+      },
+      "artists": [
+        {
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 346600,
+      "name": "Ever No Way",
+      "url": "https://open.spotify.com/track/57PEugSfVeZKkquyxJ0ET3"
     },
     {
       "album": {
@@ -2324,7 +2378,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 205205,
       "name": "For You, Please",
       "url": "https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb"
@@ -2848,7 +2902,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 174518,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
@@ -2996,7 +3050,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 197500,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
@@ -3018,6 +3072,24 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
+    },
+    {
+      "album": {
+        "name": "Hiriku",
+        "url": "https://open.spotify.com/album/5iCpQEhgW3yZNO7Dm2Ztxg"
+      },
+      "artists": [
+        {
+          "name": "Diles que no me maten",
+          "url": "https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224625,
+      "name": "Hiriku",
+      "url": "https://open.spotify.com/track/2n2vYzw8r1ZIaBfgCg4X1a"
     },
     {
       "album": {
@@ -3198,7 +3270,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 192000,
       "name": "I Found You Out",
       "url": "https://open.spotify.com/track/49ezA0FoezKam78Q9ox8LR"
@@ -3260,6 +3332,32 @@
       "duration_ms": 203620,
       "name": "I WANT TO BE BETTER",
       "url": "https://open.spotify.com/track/6qDUtM6TrV0IFg3nMmXeIQ"
+    },
+    {
+      "album": {
+        "name": "Canada",
+        "url": "https://open.spotify.com/album/6cGzQRiqEMZlOYNCP6PZHF"
+      },
+      "artists": [
+        {
+          "name": "John Beltran",
+          "url": "https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd"
+        },
+        {
+          "name": "Placid Angles",
+          "url": "https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX"
+        },
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368256,
+      "name": "I Want What I Want",
+      "url": "https://open.spotify.com/track/5hfkmxZw91AozPpqAQX7fU"
     },
     {
       "album": {
@@ -3632,7 +3730,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 436434,
       "name": "January 25th",
       "url": "https://open.spotify.com/track/0xLHax5yY9RdTZL0AkAWrl"
@@ -3920,7 +4018,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 217066,
       "name": "Lawn",
       "url": "https://open.spotify.com/track/0lwRMQQ6BxVBV0WaokbQ22"
@@ -4406,7 +4504,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 363346,
       "name": "Makkuroi Mizu (\u307e\u3063\u304f\u308d\u3044\u6c34\uff09",
       "url": "https://open.spotify.com/track/0opHOZfNqPFyqhOXupj363"
@@ -4460,7 +4558,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 210912,
       "name": "Me Gustas Pero No Te Quiero",
       "url": "https://open.spotify.com/track/4LPm8PGnC3RdUxasgBo5V0"
@@ -4818,6 +4916,28 @@
       "duration_ms": 181565,
       "name": "Nisemono",
       "url": "https://open.spotify.com/track/2pKk2VK9uSKfAq9rtDPJef"
+    },
+    {
+      "album": {
+        "name": "American Football (LP4)",
+        "url": "https://open.spotify.com/album/3fhKJU3nUfduKj9YhEAoGf"
+      },
+      "artists": [
+        {
+          "name": "American Football",
+          "url": "https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288680,
+      "name": "No Feeling",
+      "url": "https://open.spotify.com/track/0ITHBzuJyAfQgVGsRoZGuT"
     },
     {
       "album": {
@@ -5392,7 +5512,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 182800,
       "name": "Peculiar Machine - Georgia Anne Muldrow Remix",
       "url": "https://open.spotify.com/track/2zHv421xcKeRKkeTU7S042"
@@ -5559,6 +5679,24 @@
     },
     {
       "album": {
+        "name": "If This Is It",
+        "url": "https://open.spotify.com/album/5xwMjkxLQWWnTaj9jbW2aq"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237487,
+      "name": "Quakin'",
+      "url": "https://open.spotify.com/track/5BgDE3nvkSuJIWPL8T1zlO"
+    },
+    {
+      "album": {
         "name": "Really From",
         "url": "https://open.spotify.com/album/06jgHnFcljRkBImNYTddpB"
       },
@@ -5631,6 +5769,24 @@
     },
     {
       "album": {
+        "name": "Rave Echoes",
+        "url": "https://open.spotify.com/album/6u9jjhBAt0b7iSxT6JxxN6"
+      },
+      "artists": [
+        {
+          "name": "Shed",
+          "url": "https://open.spotify.com/artist/3dds88EVSeBgkPCJ47ZzRZ"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272762,
+      "name": "Rave Predator",
+      "url": "https://open.spotify.com/track/3TWdJBkUtFCJwoToOPN4NU"
+    },
+    {
+      "album": {
         "name": "Ready To Ball",
         "url": "https://open.spotify.com/album/0oKYfLeymlC92TAHzSDzRp"
       },
@@ -5646,6 +5802,24 @@
       "duration_ms": 207484,
       "name": "Ready To Ball",
       "url": "https://open.spotify.com/track/7AN04wyG4AnzJN3cR20CQT"
+    },
+    {
+      "album": {
+        "name": "Renacer",
+        "url": "https://open.spotify.com/album/7qKcHXbgt8Jy7Rc4tZv1b5"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1rboles Mentirosos",
+          "url": "https://open.spotify.com/artist/5lV4P5M7zfo78N6IBB67nK"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316576,
+      "name": "Renacer",
+      "url": "https://open.spotify.com/track/7FmCz9t1VBcDgqBqXlh2M5"
     },
     {
       "album": {
@@ -6091,6 +6265,46 @@
     },
     {
       "album": {
+        "name": "41 Longfield Street Late \u201880s",
+        "url": "https://open.spotify.com/album/6FirtsYEzCW5rLvX4Da6kJ"
+      },
+      "artists": [
+        {
+          "name": "Kieran Hebden",
+          "url": "https://open.spotify.com/artist/4HcUiDJk4PN2Ac2b1ZJT3E"
+        },
+        {
+          "name": "William Tyler",
+          "url": "https://open.spotify.com/artist/3iexGtoBAyCUbxOKeru5py"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 474358,
+      "name": "Secret City",
+      "url": "https://open.spotify.com/track/4H512sUGwagrnMGNoO6wmN"
+    },
+    {
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6LYTQsgDiyh6IgQawWBkvM"
+      },
+      "artists": [
+        {
+          "name": "Love Spirals Downwards",
+          "url": "https://open.spotify.com/artist/2REmfbf3d1N9lOuULAYihA"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207500,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/6pcoerkO4sveBTJb4jxJBE"
+    },
+    {
+      "album": {
         "name": "See Her",
         "url": "https://open.spotify.com/album/7qO6m9lcXz50UXj0KCL8ho"
       },
@@ -6218,6 +6432,40 @@
       "duration_ms": 316769,
       "name": "Shadow in the Frame",
       "url": "https://open.spotify.com/track/4dMsXnqzJgX1eeTu7bG3fN"
+    },
+    {
+      "album": {
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1"
+      },
+      "artists": [
+        {
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ross Meen",
+          "url": "https://open.spotify.com/artist/7CXbFIOsm6PhB8gVtLXdbM"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331346,
+      "name": "Shattered (feat. Helena Deland & Ross Meen)",
+      "url": "https://open.spotify.com/track/4JuswjtVwZlhVRa2fYWAxg"
     },
     {
       "album": {
@@ -6424,7 +6672,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 180560,
       "name": "Situation",
       "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
@@ -8013,6 +8261,24 @@
     },
     {
       "album": {
+        "name": "Poetics of a New Estate",
+        "url": "https://open.spotify.com/album/4EfexLjI04HcEhWI9YtgQw"
+      },
+      "artists": [
+        {
+          "name": "Soli City",
+          "url": "https://open.spotify.com/artist/2c2FzW2YwLnLlAIHoQ5FM0"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171717,
+      "name": "Versailles",
+      "url": "https://open.spotify.com/track/4hftcTKbhZhmhiXhiQHBSq"
+    },
+    {
+      "album": {
         "name": "A Young Person's Guide to the Avant-Garde",
         "url": "https://open.spotify.com/album/3B4NWeTR5KQ8SItD6mz6x2"
       },
@@ -8170,7 +8436,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 223947,
       "name": "watch it burn",
       "url": "https://open.spotify.com/track/0lAK2bpvCeple95TASn6DJ"
@@ -8574,6 +8840,24 @@
       "duration_ms": 184475,
       "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
       "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
+    },
+    {
+      "album": {
+        "name": "\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342:\u0334\u0353\u031e\u0311\u030c\u0302\u0306\u030a\u034b\u0300:\u0338\u034e\u031f\u032f\u0302\u0313\u030c \u0489 \u0361 \u035e \u035e \u035e \u0489\u25cf \u0fc0 \u25cf \u0fc0 \u25cf \u0489\u20dd \u20dd\u0362 \u035e \u0358 \u035e\u20dd\u0315 \u0362 \u031b \u20dd \u0338 \u0321 \u0362\u20dd\u0327 \u0361 \u0361 \u0300 \u0327 \u0322\u20dd\u035c \u0489 \u035e \u035e \u20dd\u035e \u0358 \u035e \u0361\u20dd \u20dd\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489\u0488\u0489 :\u0336\u0322\u0359\u0359\u0355\u0320\u0329\u0346(\u0337\u032e\u034d\u035a\u032b\u035a\u0342\u030d)\u0335\u0333\u0317\u030a( \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u019f\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342v\u0334\u0322\u035a\u035a\u034e\u022f\u0336\u031e\u032e\u0356\u0311\u0308\u0301)\u0338\u0333\u0325\u0330\u031c\u0325\u033a\u0310\u0345)\u0334\u034e\u031c\u034d\u0331\u030b\u030c\u034b\u0313\u033e\u031a \u0337\u0328 \u263c\u20dd\u25de\u2296\u25df \u2237\u1368\u25c9\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd\ua242\ua1ad(\u263c\u20dd\u2741)\u1557 \u0489\u20dd \u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361 \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u0335\u0328\u031b\u0331\u0325\u0355\u0301\u030e\u0301\u0310\u035d/\u0338\u0320\u031c\u0305\u0310\u034a\u030b\u033f\u0310\u0313\\\u0338\u0327\u0354\u0330\u0333\u0326\u0323\u032a\u0308\u030f\u0313 \u0334\u0321\u031b\u0305\u0350\u035b\u0300\u033d/\u0336\u0331\u033c\u0323\u0324\u0330\u0332\u0323\u0308\u0301\u030b\u034c\u033f\u0304\u030d\u030a\\\u0334\u0332\u0323\u031d\u0300\u035c\u0345 \u0338\u031d\u032e\u031f\u0339\u0300\u0306\u030b\u033f \u0334\u0324\u033b\u0300(\u0335\u0319\u033a\u0333\u0329\u0350\u0357\u0301\u0351\u034b\u0313\u0315\u035c\u0345(\u0335\u033a\u0356\u0324\u034c\u0342\u0351\u0310\u0315o\u0336\u0322\u0318\u0354\u0312\u0308\u0311\u0312\u034a\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342 \u263c\u20dd\u263c\u20dd\u25c9 \u0489\u20ddO\u25c9\u263c\u20dd\u2296\u263c\u20dd\u263c\u20dd\u2741 \u0489\u20dd\u263c\u20dd\u263c\u20dd \u20dd\u0362 \u0322\u20dd\u035c \u263c\u20dd\u263c\u20dd:\u0334\u0353\u031e\u0311\u030c\u0302\u0306\u030a\u034b\u0300:\u0338\u034e\u031f\u032f\u0302\u0313\u030c:\u0336\u0322\u0359\u0359\u0355\u0320\u0329\u0346(\u0337\u032e\u034d\u035a\u032b\u035a\u0342\u030d)\u0335\u0333\u0317\u030a( \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u019f\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342v\u0334\u0322\u035a\u035a\u034e\u022f\u0336\u031e\u032e\u0356\u0311\u0308\u0301)\u0338\u0333\u0325\u0330\u031c\u0325\u033a\u0310\u0345)\u0334\u034e\u031c\u034d\u0331\u030b\u030c\u034b\u0313\u033e\u031a \u0337\u0328\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361 \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361()\u0283\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361 \ua411\u022f\u0336\u031e\u032e\u0356\u0311\u0308\u0301\u033f)\u0338\u0333\u0325\u0330\u031c\u0325\u033a\u0310\u0345\u0fc3\u0942\u0a42\u2727\u20db\u2727\u20db:\u0338\u034e\u031f\u032f\u0302\u0313\u030c:\u0336\u0322\u0359\u0359\u0355\u0320\u0329\u0346(\u0337\u032e\u034d\u035a\u032b\u035a\u0342\u030d)\u0335\u0333\u0317\u030a( \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332",
+        "url": "https://open.spotify.com/album/6OxEdoTceemiC0d7GgdXEz"
+      },
+      "artists": [
+        {
+          "name": "\u28ce\u2847\ua27a\u10da\u0f3d\u0b87\u2022\u031b)\u0f80\u25de \u0f0e\u0eb6 \u0f3d\u09e3\u09e2\u061e\u09e2\u061e\u0616 \ua27a\u10da",
+          "url": "https://open.spotify.com/artist/1TIbqr0x8HoKzKBNtNN8wf"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363174,
+      "name": "\u0f3c\u0f2d\u0eb6\u0f6c\u0277\u053e\u314d\u25df\u314d)\u10d0\u0650\u0651\u0651\u0652\u0655\u0654\u0653\u0653 \u02d3\u02da\u2727\u208a\u204e\u275d\u1dc0\u0ebb\u0f7d*\u0cc3:(\ua4a1\u0361 \u275d\u1dc0\u0ebb\u0f7d \ua27a\u10da\u0f3d:\u0338\u034e\u031f\u032f\u0302\u0313\u030c:\u0336\u0322\u0359\u0359\u0355\u0320\u0329\u0346(\u0337\u032e\u034d\u035a\u032b\u035a\u0342\u030d)\u0335\u0333\u0317\u030a( \u031f\u031e\u031d\u031c\u0319\u0318\u0317\u0316\u0489\u0335\u0334\u0328\u0327\u0322\u0321\u033c\u033b\u033a\u0339\u0333\u0332\u0331\u0330\u032f\u032e\u032d\u032c\u032b\u032a\u0329\u0326\u0325\u0324\u0323\u0320\u0488\u0348\u0347\u0349\u034d\u034e\u0353\u0354\u0355\u0356\u0359\u035a\u035c\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0362\u0345 l\u0321\u0321\u0321 \u0321\u034c \u019f\u0285\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361\u0361(\u0338\u0322\u031b\u033c\u031e\u032d\u034b\u0345)\u0338\u035a\u0330\u035b\u0314\u033e\u0300\u033f\u0352\u0342v\u0334\u0322\u035a\u035a\u034e\u022f\u0336\u031e\u032e\u0356\u0311\u0308\u0301)\u0338\u0333\u0325\u0330\u031c\u0325\u033a\u0310\u0345)\u0334\u034e\u031c\u034d\u0331\u030b\u030c\u034b\u0313\u033e\u031a \u0337\u0328 \u263c\u20dd\u25de\u2296\u25df \u2237\u1368\u25c9\u263c\u20dd\u25de\u2296\u25df\u263c\u20dd\ua242\ua1ad(\u263c\u20dd\u2741)\u1557 \u0489\u20dd \u0285\u0361\u0361",
+      "url": "https://open.spotify.com/track/66i52Sbv3xAYXv5IlGbko6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWWv8B5EWK7bn"

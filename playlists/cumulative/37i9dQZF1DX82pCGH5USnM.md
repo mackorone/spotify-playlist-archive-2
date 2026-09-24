@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-1,074 songs - 2 day 7 hr 59 min
+1,075 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -475,6 +475,7 @@
 | [Lagoon](https://open.spotify.com/track/2vKK6rJqYfeFOMMjQlvO7M) | [Cluster](https://open.spotify.com/artist/6muNOCYNkZNb4QUPTmFjPN) | [Lagoon](https://open.spotify.com/album/4BAdgIlpj9wGnR5ovLaqbf) | 2:13 | 2022-10-07 | 2024-11-16 |
 | [Lagoon State](https://open.spotify.com/track/4zSBjXY6OygRlX4LQ8BsmB) | [Frank Rune](https://open.spotify.com/artist/5uMxwGDdga07OfIO7PEWd3) | [Lagoon State](https://open.spotify.com/album/07iBGSGDgB9CsxzvxqYOR5) | 2:31 | 2026-02-23 | 2026-04-02 |
 | [Laidback](https://open.spotify.com/track/1VVTutag5cViM1EAxvzYBT) | [Kim Chee](https://open.spotify.com/artist/3DtAik5iqWq1T26oOhJkwJ) | [Laidback](https://open.spotify.com/album/19nV5RB42HOjH1WMGqyo4h) | 2:29 | 2026-06-12 |  |
+| [Lake Como](https://open.spotify.com/track/0tv5EUIQfIWc0z6saP1sEL) | [apparater](https://open.spotify.com/artist/5KQgYUEYCLvjLZge7PLlZW) | [Lake Como](https://open.spotify.com/album/49q60BoJlSCgbl1hLqc0jZ) | 2:31 | 2026-09-23 |  |
 | [Lake Como](https://open.spotify.com/track/3MI9nwZQkcZlnLuN0FGPDh) | [Me Gic](https://open.spotify.com/artist/64VPx6lcReM0kEbCFJqbv1) | [Lake Como](https://open.spotify.com/album/2Rf3lLkoWqzJFbxKpQefgV) | 2:21 | 2024-06-11 | 2026-02-24 |
 | [Last dance](https://open.spotify.com/track/6qOYwpih4RnGoRJ3DiOLoq) | [XO STHLM](https://open.spotify.com/artist/59VJzq6xZWECSl0Gn3mRuK) | [Last dance](https://open.spotify.com/album/1PUb81kBE7UX6ZZDzvZtJg) | 2:28 | 2025-10-03 |  |
 | [Last Dream](https://open.spotify.com/track/1p3kZCSx1LxmemXq7efQ5U) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Last Dream](https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9) | 3:34 | 2020-04-21 | 2021-03-06 |
@@ -1045,7 +1046,7 @@
 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 | 2021-11-08 | 2024-09-28 |
 | [WATER](https://open.spotify.com/track/2L7lQAOBGtelJgVg3cREJN) | [Deep Sea Society](https://open.spotify.com/artist/3zpqPg4vtWY6cauB9Zhf0t) | [WATER](https://open.spotify.com/album/50jFolmiMtcYDpvduHSGni) | 2:37 | 2026-02-23 |  |
 | [Wave](https://open.spotify.com/track/1FlM7RtsyIkjL5Qbs7sS2A) | [Mandarin Low](https://open.spotify.com/artist/4oMzoetQDxMqMdmTSFFi3l) | [Wave](https://open.spotify.com/album/37FcIM2FcHdF2sEEfgPqEr) | 2:06 | 2023-06-02 |  |
-| [Wavelength](https://open.spotify.com/track/0wuxhAiDSyAK2N8Mbzogly) | [LOOKMØR](https://open.spotify.com/artist/1Lz1w52i8Ogfeb6FA9VCyg) | [Wavelength](https://open.spotify.com/album/2eNGFUEpUf6qdhxohWxwfW) | 2:45 | 2026-07-07 |  |
+| [Wavelength](https://open.spotify.com/track/0wuxhAiDSyAK2N8Mbzogly) | [LOOKMØR](https://open.spotify.com/artist/1Lz1w52i8Ogfeb6FA9VCyg) | [Wavelength](https://open.spotify.com/album/2eNGFUEpUf6qdhxohWxwfW) | 2:45 | 2026-07-07 | 2026-09-24 |
 | [Waves](https://open.spotify.com/track/0Cwy4AdLBb64wlApgt8bJJ) | [Kacey View](https://open.spotify.com/artist/5V6YChLiAxyybNfGTpdXOi) | [Waves](https://open.spotify.com/album/4bv7lRMyncfhmG9umIif8N) | 2:50 | 2022-10-14 | 2024-11-30 |
 | [Way Out](https://open.spotify.com/track/162aA2kAihYqMXmEqSbRhj) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [Way Out](https://open.spotify.com/album/7vv0X8GjzdX918LBSe3d16) | 4:17 | 2023-01-20 | 2023-04-22 |
 | [way up here](https://open.spotify.com/track/5Zy9gF8ajRpKECwMfYPwyo) | [Ferrosia](https://open.spotify.com/artist/6VjLJOIiiHRO4yMv5jOB3I) | [way up here](https://open.spotify.com/album/7qJl0iftxl1rIlH44CEaqO) | 2:31 | 2025-07-25 |  |

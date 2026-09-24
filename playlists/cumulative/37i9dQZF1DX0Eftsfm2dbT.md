@@ -4,7 +4,7 @@
 
 > J\-Hip Hopの最新注目曲をまとめてチェック Cover: KID FRESINO \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-2,946 songs - 6 day 3 hr 24 min
+2,946 songs - 6 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1097,6 +1097,7 @@
 | [imadakeha](https://open.spotify.com/track/56vm64YTJQ6wNr0KpjLOIU) | [MuKuRo](https://open.spotify.com/artist/7tTAJHjW4myAy5ivdgwhJc), [TOCCHI](https://open.spotify.com/artist/482miinoHCI8iYjETbUr79) | [imadakeha](https://open.spotify.com/album/64Cr2LH9COuWlbQwbKlUfF) | 3:34 | 2026-05-21 | 2026-06-10 |
 | [Image \(feat\. JJJ\)](https://open.spotify.com/track/1pCtNnVlF2w35gFZbKxMYK) | [SPARTA](https://open.spotify.com/artist/1W67SONdxO66SPaqsC1TmA), [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR) | [Pacific](https://open.spotify.com/album/3iPQgOGuPoTOeXcsmtRHhS) | 4:27 | 2024-09-17 | 2024-12-11 |
 | [IMAO/Wayny Vibes, Wayny Big](https://open.spotify.com/track/79ZWXw9AMr7UVsevNtGqgr) | [WAYNYS](https://open.spotify.com/artist/03SftY6vwKPSwjG9EiSeuG) | [IMAO](https://open.spotify.com/album/5WKBm87ipi4LJtilO6EoFG) | 2:56 | 2025-11-25 | 2025-12-12 |
+| [IMINAI ! \(feat\. PINATTSU\-KUN & A\-THUG\)](https://open.spotify.com/track/0t68YExDFQSHOlxYVgKR4j) | [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz), [PINATTSU\-KUN](https://open.spotify.com/artist/2MnCWHFIi0OIhdJP8iDqXw), [A\-THUG](https://open.spotify.com/artist/0ousHWUYQP1iv0PrToT9Xg) | [Party Pack](https://open.spotify.com/album/1bO0pZE75FUqByrlTedh2H) | 3:01 | 2026-09-22 |  |
 | [IMOTO AYAKO](https://open.spotify.com/track/5Y2ku4mwqkyaqMjRS50z8l) | [BHS Svve](https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2), [goetia gang](https://open.spotify.com/artist/4dtU1fTLlwi1MdYrLTK3hU) | [gg1](https://open.spotify.com/album/7bjEmMy25LHPqWKmlOKLu9) | 1:24 | 2024-05-15 | 2024-05-22 |
 | [Impala feat\. OMSB](https://open.spotify.com/track/29UHVjCvpHSwG1U1Xo1Qfw) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [OMSB](https://open.spotify.com/artist/69qFe6XoI53jVctgtSug7d), [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [Liberation](https://open.spotify.com/album/3zUB4c3GjjuXIJ7cZUKEyH) | 3:52 | 2024-07-30 | 2024-09-06 |
 | [In my car](https://open.spotify.com/track/5EAlrOONhttDjG5QXgBBtF) | [S.J.souldier](https://open.spotify.com/artist/2GxJOXMZmhkHUVhOPeNOYx) | [Buddy Works Vol.1](https://open.spotify.com/album/78wsmetEhKw1CuqUu61usK) | 1:49 | 2026-09-08 | 2026-09-16 |
@@ -2378,7 +2379,6 @@
 | [Tour Life \-Ai\-](https://open.spotify.com/track/0Wj5gV2RWHrH9EdUVH34vF) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D) | [Ai Final](https://open.spotify.com/album/2LdUuUQ5GixYkkeQ1zj8i2) | 2:37 | 2025-04-15 | 2025-05-09 |
 | [town/city \(feat\. M.O.C, RH JayDee & Tete\)](https://open.spotify.com/track/2GFJDs1B4eNnGIBd1XSJ5s) | [RIVER SIDE HOLLYWOOD](https://open.spotify.com/artist/1SIyL5jUFSjG89zIy3GxHL), [M.O.C](https://open.spotify.com/artist/2fDwWqmgXuPoOrCx7DDV6d), [RH JayDee](https://open.spotify.com/artist/5T6nHHIltgoQ9RrepnnAq6), [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [RSH MIXTAPE 2](https://open.spotify.com/album/6jSXDc6Hbf2la9BPbxYZOo) | 2:37 | 2025-09-17 | 2025-10-24 |
 | [Toxic](https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88) | [AFJB](https://open.spotify.com/artist/7B9qARg3Qvpx87Iij3vsTj), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q) | [Toxic](https://open.spotify.com/album/704Egx3Elq12jWZCqDKXxZ) | 4:07 | 2023-09-21 | 2023-10-04 |
-| [Track 4](https://open.spotify.com/track/0t68YExDFQSHOlxYVgKR4j) | [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz) | [Party Pack](https://open.spotify.com/album/1bO0pZE75FUqByrlTedh2H) | 0:00 | 2026-09-22 |  |
 | [Track Suit \(Feat\. Tade Dust\)](https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:51 | 2024-05-21 | 2024-06-26 |
 | [Train Train Train](https://open.spotify.com/track/5chrKpLpQwMyECA1MVntyC) | [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Train Train Train](https://open.spotify.com/album/4QafbOrEJvksjDAp8YiSrl) | 3:42 | 2024-09-19 | 2024-09-25 |
 | [TRAP](https://open.spotify.com/track/0OSdfFtxNEfgWMCaNVaslq) | [PLUM TOWN](https://open.spotify.com/artist/1m9qTDH4NtiorSMxJPxObz), [RAFU](https://open.spotify.com/artist/4zEJwMidggGTCiuS2j7Sqk), [wattz](https://open.spotify.com/artist/19hus0jQU0nKG1Xu1PS4qG), [ebunii](https://open.spotify.com/artist/4kauShupniHRddWcBgMaYF) | [PLM](https://open.spotify.com/album/5fiGgPSGCrcbwsexHzdZs5) | 2:45 | 2025-11-05 | 2025-11-19 |

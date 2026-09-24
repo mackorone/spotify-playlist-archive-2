@@ -2,7 +2,7 @@
 
 ### [DePitcha Radio](https://open.spotify.com/playlist/37i9dQZF1E4vUDR7p3pzuy)
 
-> With Bestial Mouths, Antonis Vlavo, JUST LIZZY and more
+> With Bestial Mouths, JUST LIZZY, Antonis Vlavo and more
 
 1,229 songs - 3 day 7 hr 7 min
 

@@ -113389,6 +113389,28 @@
     },
     {
       "album": {
+        "name": "Les cicatrices d'or",
+        "url": "https://open.spotify.com/album/7GVuwGYWlGgu9dRnbE3WoQ"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        },
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "Les cicatrices d'or",
+      "url": "https://open.spotify.com/track/4kpFuJZkjJjUYhbeQKV0SN"
+    },
+    {
+      "album": {
         "name": "Les cit\u00e9s de l'amour",
         "url": "https://open.spotify.com/album/1WfQIxrP0HTj6hzKOk0CBT"
       },
@@ -126081,7 +126103,7 @@
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 183240,
+      "duration_ms": 183237,
       "name": "Man In The Mirror",
       "url": "https://open.spotify.com/track/1yECFSv95XDArEhDe0UOss"
     },

@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 34379,
+  "num_followers": 34384,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2025-08-21 21:06:28",
       "album": {
+        "name": "Zamba del Viento Libre",
+        "url": "https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K"
+      },
+      "artists": [
+        {
+          "name": "Felicitas Arg\u00fcello",
+          "url": "https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw"
+        },
+        {
+          "name": "Sof\u00eda Asc\u00e1rate",
+          "url": "https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt"
+        }
+      ],
+      "duration_ms": 223363,
+      "name": "Zamba del Viento Libre",
+      "url": "https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg"
+    },
+    {
+      "added_at": "2025-08-21 21:06:28",
+      "album": {
         "name": "Las Simples Cosas",
         "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
       },
@@ -1499,26 +1519,6 @@
       "duration_ms": 311517,
       "name": "Canci\u00f3n del Jangadero",
       "url": "https://open.spotify.com/track/1GokYA618P2QtqtSVWrgaS"
-    },
-    {
-      "added_at": "2025-08-21 21:06:28",
-      "album": {
-        "name": "Zamba del Viento Libre",
-        "url": "https://open.spotify.com/album/79gyS09rOYk34SrzE9JX5K"
-      },
-      "artists": [
-        {
-          "name": "Felicitas Arg\u00fcello",
-          "url": "https://open.spotify.com/artist/2WkImk9h9KzgIXDNQo9edw"
-        },
-        {
-          "name": "Sof\u00eda Asc\u00e1rate",
-          "url": "https://open.spotify.com/artist/5zQ4Y0CcYN9EgolvJJhxNt"
-        }
-      ],
-      "duration_ms": 223363,
-      "name": "Zamba del Viento Libre",
-      "url": "https://open.spotify.com/track/1QdeBZ0BBkGZnLFVJvS2eg"
     },
     {
       "added_at": "2025-08-21 21:06:28",

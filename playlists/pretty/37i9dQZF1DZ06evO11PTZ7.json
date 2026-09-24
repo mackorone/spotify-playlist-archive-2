@@ -1,12 +1,12 @@
 {
   "description": "This is Sick Of It All. The essential tracks, all in one playlist.",
-  "num_followers": 8172,
+  "num_followers": 8176,
   "original_name": "This Is Sick Of It All",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAADm52KTBAeVra+z7S8HGjAn",
+  "snapshot_id": "arHFAAAAAABHv0Pz7GPQF+aBwFVVNM1G",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 58093,
-      "name": "Self Important Shithead",
-      "url": "https://open.spotify.com/track/3ULS41Bx8vkzKz1lbB69jJ"
+      "duration_ms": 114240,
+      "name": "Inner Vision",
+      "url": "https://open.spotify.com/track/1TsHbUg7QB71VUx8hbyg79"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 114240,
-      "name": "Inner Vision",
-      "url": "https://open.spotify.com/track/1TsHbUg7QB71VUx8hbyg79"
+      "duration_ms": 58093,
+      "name": "Self Important Shithead",
+      "url": "https://open.spotify.com/track/3ULS41Bx8vkzKz1lbB69jJ"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sick Of It All",
-        "url": "https://open.spotify.com/album/6A77TL9MlqLZtpoaE8j48R"
+        "name": "Last Act of Defiance",
+        "url": "https://open.spotify.com/album/7I8FZgFrOsxTKy8lG3fYkV"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 73226,
-      "name": "N.S./My Revenge",
-      "url": "https://open.spotify.com/track/6MxlzQlmyJqQmzkeFt83Wn"
+      "duration_ms": 162945,
+      "name": "DNC",
+      "url": "https://open.spotify.com/track/5UE9WdcsB6fnOJGgm5psjw"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Act of Defiance",
-        "url": "https://open.spotify.com/album/7I8FZgFrOsxTKy8lG3fYkV"
+        "name": "Sick Of It All",
+        "url": "https://open.spotify.com/album/6A77TL9MlqLZtpoaE8j48R"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 162945,
-      "name": "DNC",
-      "url": "https://open.spotify.com/track/5UE9WdcsB6fnOJGgm5psjw"
+      "duration_ms": 73226,
+      "name": "N.S./My Revenge",
+      "url": "https://open.spotify.com/track/6MxlzQlmyJqQmzkeFt83Wn"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 108266,
-      "name": "Clobberin' Time / Pay the Price",
-      "url": "https://open.spotify.com/track/6pcjL64MiDoF6HSvWyigDt"
+      "duration_ms": 110800,
+      "name": "The Blood & the Sweat",
+      "url": "https://open.spotify.com/track/3AWvQrVVaxFQuUEGHwXWcM"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1Px6nQCyIRM4Gj0tyvZ1TU"
         }
       ],
-      "duration_ms": 110800,
-      "name": "The Blood & the Sweat",
-      "url": "https://open.spotify.com/track/3AWvQrVVaxFQuUEGHwXWcM"
+      "duration_ms": 108266,
+      "name": "Clobberin' Time / Pay the Price",
+      "url": "https://open.spotify.com/track/6pcjL64MiDoF6HSvWyigDt"
     }
   ],
   "unique_name": "This Is Sick Of It All",

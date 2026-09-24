@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,285 likes - 528 songs - 1 day 1 hr 49 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,287 likes - 529 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -536,5 +536,6 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 | 526 | [HOMESICK WANDERLUST](https://open.spotify.com/track/23hzufyU9ufwaFTobzcNzH) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Homesick Wanderlust](https://open.spotify.com/album/7jdMf27F3z4Xy59fQcwTTy) | 4:30 |
 | 527 | [Love Letter](https://open.spotify.com/track/0WlfqYwMN0sA9acKmiFfzy) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Love Letter](https://open.spotify.com/album/03tFo6ayNPbySF88ws9o26) | 3:35 |
 | 528 | [this thought](https://open.spotify.com/track/6EuzOgCmnKfAEflQf5oG4K) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6), [Frizk](https://open.spotify.com/artist/2kytM35nXuQfdxPeoLgE0K) | [this thought](https://open.spotify.com/album/0fWgldWzuAozIR9fiz2A9W) | 3:18 |
+| 529 | [FIND ME WHEN I'M DEAD](https://open.spotify.com/track/6M5UQNqI4dMRpjQ0CJAXjU) | [Kennyoung](https://open.spotify.com/artist/1b6ywCGaEtyV4JUfGYKmk8) | [FIND ME WHEN I'M DEAD](https://open.spotify.com/album/1QXRJeiTywh2Gvgj9tTptv) | 3:08 |
 
-Snapshot ID: `AAAB/SP1zFVg7DwLaRhUmL5eafppAJZp`
+Snapshot ID: `AAAB/voWzrIyqNlUNcgQpYv2kFEnb69N`

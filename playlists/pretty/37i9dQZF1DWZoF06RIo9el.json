@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de agosto 2026. Cover: Nsqk",
-  "num_followers": 1541789,
+  "num_followers": 1541612,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,26 @@
     {
       "added_at": "2026-09-04 04:01:56",
       "album": {
+        "name": "Finjo y estoy bien (Divisi\u00f3n A)",
+        "url": "https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 235748,
+      "name": "SI NO EST\u00c1S T\u00da",
+      "url": "https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt"
+    },
+    {
+      "added_at": "2026-09-04 04:01:56",
+      "album": {
         "name": "Sensaci\u00f3n de Calor",
         "url": "https://open.spotify.com/album/3rl5uj72Aib7MSI3mkLQ4B"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 145000,
       "name": "Sensaci\u00f3n de Calor",
       "url": "https://open.spotify.com/track/39XF6X4WfhPDoNxEV5Ybsb"
-    },
-    {
-      "added_at": "2026-09-04 04:01:56",
-      "album": {
-        "name": "Finjo y estoy bien (Divisi\u00f3n A)",
-        "url": "https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx"
-      },
-      "artists": [
-        {
-          "name": "Lara Project",
-          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
-        },
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 235748,
-      "name": "SI NO EST\u00c1S T\u00da",
-      "url": "https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt"
     },
     {
       "added_at": "2026-09-04 04:01:56",

@@ -1453,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Orgullo Vallenato",
+        "url": "https://open.spotify.com/album/58XJDLb5RJOKVfGEx4OoRA"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283546,
+      "name": "Te Quiero Como Eres",
+      "url": "https://open.spotify.com/track/49Y9MIid1kzJYaULdsJ7S8"
+    },
+    {
+      "album": {
         "name": "Inquietos Por El Mundo",
         "url": "https://open.spotify.com/album/4ZfQmJiIAjQyOivNcmprP1"
       },

@@ -1,12 +1,12 @@
 {
   "description": "This is Lalo Mora. The essential tracks, all in one playlist.",
-  "num_followers": 71091,
+  "num_followers": 71101,
   "original_name": "This Is Lalo Mora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAABvbhj0oVaq4GxS8ka0X4CD",
+  "snapshot_id": "arHFAAAAAADGxAOXx7cSr01k1Do4n7Gi",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Borrachera Perfecta (En Vivo)",
-        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
+        "name": "Mis 20 \u00c9xitos Con Banda",
+        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
       },
       "artists": [
-        {
-          "name": "PALOMAZO NORTE\u00d1O",
-          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
-        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 235260,
-      "name": "El Rey De Mil Coronas - En Vivo",
-      "url": "https://open.spotify.com/track/0UkRiOu4M2iiKgl6qFRRUn"
+      "duration_ms": 172640,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
     },
     {
       "added_at": null,
@@ -399,18 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis 20 \u00c9xitos Con Banda",
-        "url": "https://open.spotify.com/album/3EvAjWpMqijcCmHGy0sLHG"
+        "name": "La Borrachera Perfecta (En Vivo)",
+        "url": "https://open.spotify.com/album/3YkEYl9P5EPCzdur3lpMf5"
       },
       "artists": [
+        {
+          "name": "PALOMAZO NORTE\u00d1O",
+          "url": "https://open.spotify.com/artist/3Ok9uA7y10FoqTp6hC1ZkC"
+        },
         {
           "name": "Lalo Mora",
           "url": "https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ"
         }
       ],
-      "duration_ms": 172640,
-      "name": "Ni Dada La Quiero",
-      "url": "https://open.spotify.com/track/30Z1LgCfQQCSgFwaRk3ziK"
+      "duration_ms": 235260,
+      "name": "El Rey De Mil Coronas - En Vivo",
+      "url": "https://open.spotify.com/track/0UkRiOu4M2iiKgl6qFRRUn"
     },
     {
       "added_at": null,

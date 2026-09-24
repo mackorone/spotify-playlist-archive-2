@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o sertaneja para voc\u00ea curtir a sua paix\u00e3o sem limites.",
-  "num_followers": 945968,
+  "num_followers": 945947,
   "original_name": "Paix\u00e3o Bandida",
   "owner": {
     "name": "Spotify",
@@ -407,8 +407,8 @@
     {
       "added_at": "2026-09-18 15:44:07",
       "album": {
-        "name": "Live In London - At The Royal Albert Hall (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW"
+        "name": "Jorge & Mateus El\u00e9trico",
+        "url": "https://open.spotify.com/album/0RkEgK2Ch7H5IURwDYTTnt"
       },
       "artists": [
         {
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 215213,
-      "name": "O Que \u00c9 Que Tem - Ao Vivo",
-      "url": "https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK"
+      "duration_ms": 212560,
+      "name": "Pense Em Mim - Jorge & Mateus El\u00e9trico",
+      "url": "https://open.spotify.com/track/24IMxi4RUakB4bleLn2uBE"
     },
     {
       "added_at": "2026-09-18 15:44:07",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-09-18 15:44:07",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 243813,
-      "name": "Escreve A\u00ed - Ao Vivo",
-      "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
-    },
-    {
-      "added_at": "2026-09-18 15:44:07",
-      "album": {
         "name": "Me Leva Pra Voc\u00ea (Ao Vivo)",
         "url": "https://open.spotify.com/album/4TZD2wHncHxrfovghumTIm"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 230165,
       "name": "Me Leva Pra Voc\u00ea - Ao Vivo",
       "url": "https://open.spotify.com/track/1Ae6RpDX15PH0nY4qpwBfx"
+    },
+    {
+      "added_at": "2026-09-18 15:44:07",
+      "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xCayP2LKZhZotGfzVT9Fx"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 243813,
+      "name": "Escreve A\u00ed - Ao Vivo",
+      "url": "https://open.spotify.com/track/69uKYDeTWn1wFssqP6OZjb"
     },
     {
       "added_at": "2026-09-18 15:44:07",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-09-18 15:44:07",
       "album": {
-        "name": "VIVA (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
-      },
-      "artists": [
-        {
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
-        }
-      ],
-      "duration_ms": 249846,
-      "name": "\u00e1gua com a\u00e7\u00facar - ao vivo",
-      "url": "https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu"
-    },
-    {
-      "added_at": "2026-09-18 15:44:07",
-      "album": {
         "name": "Na Praia 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 192410,
       "name": "Exclusividade - Ao Vivo",
       "url": "https://open.spotify.com/track/2s5tpyIbG70M0E8QuLTffS"
+    },
+    {
+      "added_at": "2026-09-18 15:44:07",
+      "album": {
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "duration_ms": 249846,
+      "name": "\u00e1gua com a\u00e7\u00facar - ao vivo",
+      "url": "https://open.spotify.com/track/6nI98wtHOJAYSASq22TCYu"
     },
     {
       "added_at": "2026-09-18 15:44:07",
@@ -671,18 +671,22 @@
     {
       "added_at": "2026-09-18 15:44:07",
       "album": {
-        "name": "Intensamente Hoje!",
-        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
+        "name": "Mural Dos Sonhos",
+        "url": "https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "name": "Matheus Vargas",
+          "url": "https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         }
       ],
-      "duration_ms": 170459,
-      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
-      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
+      "duration_ms": 158122,
+      "name": "Mural Dos Sonhos",
+      "url": "https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR"
     },
     {
       "added_at": "2026-09-18 15:44:07",
@@ -703,6 +707,22 @@
     {
       "added_at": "2026-09-18 15:44:07",
       "album": {
+        "name": "Intensamente Hoje!",
+        "url": "https://open.spotify.com/album/537cWg3a0Fn9zmPllBPMGh"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 170459,
+      "name": "T\u00f4 Com Moral No C\u00e9u! - Ao Vivo",
+      "url": "https://open.spotify.com/track/0uwaiApk6k7k9POyFjTKeR"
+    },
+    {
+      "added_at": "2026-09-18 15:44:07",
+      "album": {
         "name": "Nostalgia Pura, Vol 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5U8S1aMPemzdBpm2gjwI8l"
       },
@@ -715,26 +735,6 @@
       "duration_ms": 192799,
       "name": "Tail\u00e2ndia - Ao Vivo",
       "url": "https://open.spotify.com/track/3e5sfAnEtKRn0Uhi5uHbVv"
-    },
-    {
-      "added_at": "2026-09-18 15:44:07",
-      "album": {
-        "name": "Mural Dos Sonhos",
-        "url": "https://open.spotify.com/album/54Gtm2scFqiZ1OxO5MdMyn"
-      },
-      "artists": [
-        {
-          "name": "Matheus Vargas",
-          "url": "https://open.spotify.com/artist/61Y0yB7JKvkyHQ5g4Neirl"
-        },
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        }
-      ],
-      "duration_ms": 158122,
-      "name": "Mural Dos Sonhos",
-      "url": "https://open.spotify.com/track/1yEM9OQRmOzlidStpV7bsR"
     },
     {
       "added_at": "2026-09-18 15:44:07",
@@ -791,8 +791,8 @@
     {
       "added_at": "2026-09-18 15:44:07",
       "album": {
-        "name": "1977",
-        "url": "https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww"
+        "name": "VIVA (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
         }
       ],
-      "duration_ms": 251785,
-      "name": "Dia, Lugar e Hora",
-      "url": "https://open.spotify.com/track/4404ixp3ApDtyRwje7Kgu4"
+      "duration_ms": 214087,
+      "name": "boa mem\u00f3ria - ao vivo",
+      "url": "https://open.spotify.com/track/79BHjj4YkvbpOlMvG6wf3n"
     },
     {
       "added_at": "2026-09-18 15:44:07",

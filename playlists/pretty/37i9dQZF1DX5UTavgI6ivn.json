@@ -1,6 +1,6 @@
 {
   "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: Maluma y Shakira\n",
-  "num_followers": 940751,
+  "num_followers": 940692,
   "original_name": "Made in Colombia",
   "owner": {
     "name": "Spotify",
@@ -480,16 +480,16 @@
       },
       "artists": [
         {
-          "name": "El Goldo",
-          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
-        },
-        {
           "name": "Bigg Danny",
           "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
         },
         {
           "name": "El Americano 4KT",
           "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        },
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
         }
       ],
       "duration_ms": 139805,

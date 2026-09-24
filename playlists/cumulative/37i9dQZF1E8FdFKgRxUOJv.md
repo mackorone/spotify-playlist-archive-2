@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Wild Rivers, James Morrison and more
+> With John Mayer, Wild Rivers, Jack Johnson and more
 
 1,607 songs - 4 day 3 hr 52 min
 

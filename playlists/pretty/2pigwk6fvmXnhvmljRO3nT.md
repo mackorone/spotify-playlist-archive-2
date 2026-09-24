@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 
 > 
 
-[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,571 songs - 21 day 19 hr 12 min
+[deet](https://open.spotify.com/user/t7sab29nkkzjvksc5a76prifh) - 0 likes - 8,574 songs - 21 day 19 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -5742,7 +5742,7 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 5732 | [아름다운 세상](https://open.spotify.com/track/1U7aeIHtT712qmF4NnqxS6) | [유리상자](https://open.spotify.com/artist/0XT8epaZZMkIeYcu17Ie2Z) | [All That Yurisangja](https://open.spotify.com/album/4Tx0odGJYdzB6eCZGbU1De) | 3:34 |
 | 5733 | [내가 아는 한가지](https://open.spotify.com/track/6SMMA1ZyE6S2GiOszPqM1a) | [Lee Duke Jean](https://open.spotify.com/artist/3bA11L05OKpXOFgLAYtLcG) | [Sad Wings Of Destiny](https://open.spotify.com/album/2cJlroOuD4A9sd8b9JdzI4) | 4:19 |
 | 5734 | [이별 아닌 이별](https://open.spotify.com/track/1Yh71bGWlW136ihjQJWHvh) | [이범학](https://open.spotify.com/artist/6yPyifVug5stYR6tOQ7vbs) | [Farewell without Separation](https://open.spotify.com/album/1sUjtOPORdQe0mwmdmfIj3) | 3:31 |
-| 5735 | [한사람을 위한 마음](https://open.spotify.com/track/1fGUw7TnamgzuHk1k4GnFC) | [이오공감](https://open.spotify.com/artist/5EWJwQ7a65qxUY7oXUwjBo) | [2.5.共.感 \(이오공감\)](https://open.spotify.com/album/4VfS86n0Tjr1Y5tuHKMV6j) | 4:24 |
+| 5735 | [한사람을 위한 마음](https://open.spotify.com/track/1fGUw7TnamgzuHk1k4GnFC) | [LEE SEUNG HWAN](https://open.spotify.com/artist/6LPV5KZBc1zBjX8AFZ2WWY), [이오공감](https://open.spotify.com/artist/5EWJwQ7a65qxUY7oXUwjBo) | [이오공감](https://open.spotify.com/album/4VfS86n0Tjr1Y5tuHKMV6j) | 4:24 |
 | 5736 | [시작되는 연인들을 위해](https://open.spotify.com/track/2fQdvi7IsZ8SpowaXXyOPV) | [이원진](https://open.spotify.com/artist/7JEAj7noJi4DpCwHMzQDUL) | [이원진](https://open.spotify.com/album/3Qaf1vKLdymQiAef3OXZFp) | 3:59 |
 | 5737 | [미소를 띄우며 나를 보낸 그 모습처럼](https://open.spotify.com/track/0YMhdJIDPBbYKKeH4eI3Bu) | [이은하](https://open.spotify.com/artist/4Z6k39rY2KzAs77DBgt18k) | [Golden Best](https://open.spotify.com/album/0Nltino8z54noL7PLq6JnI) | 3:39 |
 | 5738 | [봄비](https://open.spotify.com/track/4z3caihObhWOAyuz0VIIIA) | [이은하](https://open.spotify.com/artist/4Z6k39rY2KzAs77DBgt18k) | [Golden Best](https://open.spotify.com/album/0Nltino8z54noL7PLq6JnI) | 2:50 |
@@ -8579,5 +8579,8 @@ pretty - [cumulative](/playlists/cumulative/2pigwk6fvmXnhvmljRO3nT.md) - [plain]
 | 8569 | [City Ruins \- Rays of Light](https://open.spotify.com/track/1cdWjzCxiWh0XjD4Uc20nf) | [岡部啓一](https://open.spotify.com/artist/0y0nI8lwDB2HRUPwDQuuiu) | [NieR:Automata Original Soundtrack](https://open.spotify.com/album/0k7chxP5uvLMv6YOUcgVjF) | 6:22 |
 | 8570 | [The Only Thing They Fear Is You](https://open.spotify.com/track/5sefrwZAWKKcKtQK4DPPwW) | [Doom Music](https://open.spotify.com/artist/63iN4tsWVdMUAUgBjg0qPa), [Timeless Music](https://open.spotify.com/artist/05mIuLnopd5BZk2gcq3ksZ) | [The Only Thing They Fear Is You](https://open.spotify.com/album/7i8NZRBH47rioWJCcoLwT2) | 5:54 |
 | 8571 | [Snake Eater](https://open.spotify.com/track/58bC28pe5lIDegZdEZ1x15) | [Cynthia Harrell](https://open.spotify.com/artist/667EyTZx1NKnqwRwhwYQYv) | [METAL GEAR 20th ANNIVERSARY METAL GEAR MUSIC COLLECTION](https://open.spotify.com/album/6HsbbWr5EXVMh2chIk30Vn) | 2:57 |
+| 8572 | [Gossip](https://open.spotify.com/track/79chzfFIIq7cHkqcYYORk0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 0:55 |
+| 8573 | [Fucking Your Girl](https://open.spotify.com/track/6fDKQUI7RW0GJTsKTaTqAI) | [Devon Hendryx](https://open.spotify.com/artist/551EawRj5350YQYs1MC2Ot) | [❤︎](https://open.spotify.com/album/1n6cuWAzMRHHGaK8JtRJl9) | 4:11 |
+| 8574 | [Run It Back \#JerseyClub \- Slowed](https://open.spotify.com/track/13A6zjkvhUTeIUxzuOcSuF) | [Salako](https://open.spotify.com/artist/599kvLJs6hiYtRJJBKs2gj) | [Run It Back \#JerseyClub \(Slowed\)](https://open.spotify.com/album/1LuOk7BGE2RV4OjCPUBDtZ) | 2:27 |
 
-Snapshot ID: `AAANGZG83K7GD0f9ZaF/1+ffbtP9PHSx`
+Snapshot ID: `AAANHDyu66vIjuVsFcgUdpLalC9AHLpW`

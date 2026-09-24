@@ -1,12 +1,12 @@
 {
   "description": "Hand-picked songs by unsigned bands and independent artists. Updated Daily.",
-  "num_followers": 1178,
+  "num_followers": 1188,
   "original_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",
   "owner": {
     "name": "pma4real",
     "url": "https://open.spotify.com/user/jasonwaroff"
   },
-  "snapshot_id": "AAAEYuE4efsi5EOItIJn5HVKjNqhdEkH",
+  "snapshot_id": "AAAEY2jVd4pcYYkN8IOpBpSjOyYnNQ4G",
   "tracks": [
     {
       "added_at": "2026-06-05 18:13:27",
@@ -1075,6 +1075,22 @@
       "duration_ms": 211925,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3Focc6FvfV9uiv4K42FA9r"
+    },
+    {
+      "added_at": "2026-09-23 20:34:34",
+      "album": {
+        "name": "Urban Legends",
+        "url": "https://open.spotify.com/album/5Rl9408O7edQI7kXWQWfuH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Scott",
+          "url": "https://open.spotify.com/artist/2Puyl7pb2WOipiBORyFKKH"
+        }
+      ],
+      "duration_ms": 173785,
+      "name": "All i ever wanted",
+      "url": "https://open.spotify.com/track/5EyoH8vk6UZ23j6AuriG5S"
     }
   ],
   "unique_name": "Fresh Sounds From The Underground: Discover Unsigned and Independent Emerging Artists",

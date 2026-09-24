@@ -2,7 +2,7 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Vamsi Kalakuntla
+> Check out the emerging independent tracks from these Telugu Artists!<br/>Cover : Kasyap
 
 581 songs - 1 day 10 hr 33 min
 

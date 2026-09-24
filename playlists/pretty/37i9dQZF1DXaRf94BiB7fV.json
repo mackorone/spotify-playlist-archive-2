@@ -1,13 +1,29 @@
 {
-  "description": "The best new music by independent artists and labels in India. Cover - Aamir Rizvi",
-  "num_followers": 63375,
+  "description": "The best new music by independent artists and labels in India. Cover - Sijya",
+  "num_followers": 63443,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOszMvJo6Txj8GU6+Z3TrE4aA50/",
+  "snapshot_id": "AAAAAEbw33n+laHjhBVEgp4/i20UsMG6",
   "tracks": [
+    {
+      "added_at": "2026-09-16 07:30:21",
+      "album": {
+        "name": "Do I Know (Rachika Nayar Edit)",
+        "url": "https://open.spotify.com/album/6O6QDZCAsyswRZoQPtF8mN"
+      },
+      "artists": [
+        {
+          "name": "Sijya",
+          "url": "https://open.spotify.com/artist/7E6rUwPmABZAG9b33Nag2p"
+        }
+      ],
+      "duration_ms": 166965,
+      "name": "Do I Know",
+      "url": "https://open.spotify.com/track/71vVx436mXJPpSybU1hrML"
+    },
     {
       "added_at": "2026-09-16 07:30:21",
       "album": {
@@ -47,6 +63,46 @@
       "duration_ms": 213187,
       "name": "Dil Ki Yaari",
       "url": "https://open.spotify.com/track/4WzXpqKqQiyneF4KE0jEdF"
+    },
+    {
+      "added_at": "2026-09-23 07:30:22",
+      "album": {
+        "name": "Tera Naam",
+        "url": "https://open.spotify.com/album/10hJLfx9DZrnsa6sOwKTUw"
+      },
+      "artists": [
+        {
+          "name": "Arshiya Ganguly",
+          "url": "https://open.spotify.com/artist/6eIeBxQygAbQ4FxXbOnsgc"
+        },
+        {
+          "name": "Agaazz",
+          "url": "https://open.spotify.com/artist/1jHc7ramBygplLEh3assYX"
+        },
+        {
+          "name": "Anuj B",
+          "url": "https://open.spotify.com/artist/7f5V2XifD0Mz6sGYuXrtCp"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Tera Naam",
+      "url": "https://open.spotify.com/track/0El6fUfs5yLIS6CvS6vImb"
+    },
+    {
+      "added_at": "2026-09-23 07:30:22",
+      "album": {
+        "name": "Afreen",
+        "url": "https://open.spotify.com/album/1oqR5zK0y50KVRVWqZITsq"
+      },
+      "artists": [
+        {
+          "name": "Vaibhav Malhotra",
+          "url": "https://open.spotify.com/artist/5wHCytYglbwzeqqfClAI1j"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "Afreen",
+      "url": "https://open.spotify.com/track/1GFJs86cO3EnsjzxQXV0Wx"
     },
     {
       "added_at": "2026-09-16 07:30:21",
@@ -101,20 +157,20 @@
       "url": "https://open.spotify.com/track/1kIF49BlWcL3jerAUCaIr1"
     },
     {
-      "added_at": "2026-09-16 07:30:21",
+      "added_at": "2026-09-23 07:30:22",
       "album": {
-        "name": "Do I Know (Rachika Nayar Edit)",
-        "url": "https://open.spotify.com/album/6O6QDZCAsyswRZoQPtF8mN"
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4rhCCCCi6oasJ9w4ODuhyx"
       },
       "artists": [
         {
-          "name": "Sijya",
-          "url": "https://open.spotify.com/artist/7E6rUwPmABZAG9b33Nag2p"
+          "name": "Calcutta Cowboy",
+          "url": "https://open.spotify.com/artist/35caokDeiAUdoJtf0GPXdp"
         }
       ],
-      "duration_ms": 166965,
-      "name": "Do I Know",
-      "url": "https://open.spotify.com/track/71vVx436mXJPpSybU1hrML"
+      "duration_ms": 211000,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/5j4eiumYSJggM3mMZAcWrI"
     },
     {
       "added_at": "2026-09-16 07:30:21",
@@ -131,6 +187,26 @@
       "duration_ms": 166153,
       "name": "Aisha",
       "url": "https://open.spotify.com/track/39jqp7KzUjoreAEaX8pzf6"
+    },
+    {
+      "added_at": "2026-09-23 07:30:22",
+      "album": {
+        "name": "Kaahe Sataye",
+        "url": "https://open.spotify.com/album/4RvnhQWUPWEm2gRLJkJWmI"
+      },
+      "artists": [
+        {
+          "name": "Reeshabh Purohit",
+          "url": "https://open.spotify.com/artist/0fCayDnRBfH5Skewe8os7E"
+        },
+        {
+          "name": "Harsh More",
+          "url": "https://open.spotify.com/artist/5tJPDbC6WpIoL32f2ckXIJ"
+        }
+      ],
+      "duration_ms": 137997,
+      "name": "Kaahe Sataye",
+      "url": "https://open.spotify.com/track/5YXLnG6tMHE80oPZlb2eVk"
     },
     {
       "added_at": "2026-09-09 07:30:26",
@@ -755,58 +831,6 @@
     {
       "added_at": "2026-07-15 08:00:14",
       "album": {
-        "name": "Ishq seekh lo",
-        "url": "https://open.spotify.com/album/3Ky1smlAG69k8dXHEOsmEG"
-      },
-      "artists": [
-        {
-          "name": "Abhin Joshi",
-          "url": "https://open.spotify.com/artist/3JpbtSxoGcENGrjtZPWbtq"
-        }
-      ],
-      "duration_ms": 228461,
-      "name": "Ishq seekh lo",
-      "url": "https://open.spotify.com/track/2pK4TD7tnmBO7c00yoNT94"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Life and Times of Pinocchio",
-        "url": "https://open.spotify.com/album/3Lds3f9UqdKGRuR1csX61m"
-      },
-      "artists": [
-        {
-          "name": "Shashwat Bulusu",
-          "url": "https://open.spotify.com/artist/0OxO7c4K0ozx5CTPDhFOXO"
-        }
-      ],
-      "duration_ms": 179465,
-      "name": "Life and Times of Pinocchio",
-      "url": "https://open.spotify.com/track/2uebQmjQ1wrrPa3C1b8lzK"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/4KCE13r9k7bgAhi9ScewrW"
-      },
-      "artists": [
-        {
-          "name": "Abraham Khanna",
-          "url": "https://open.spotify.com/artist/2JKQ0zWtBjRqduXMsQsSHc"
-        },
-        {
-          "name": "Zian B",
-          "url": "https://open.spotify.com/artist/4imQzO0zZCenjPDKiKWPua"
-        }
-      ],
-      "duration_ms": 254467,
-      "name": "As It Goes On",
-      "url": "https://open.spotify.com/track/7ssi3PNZX0IPp3TmEZYDe9"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
         "name": "Ittefaq",
         "url": "https://open.spotify.com/album/25LQM8pYZFDWVxwwTrRLfW"
       },
@@ -907,34 +931,6 @@
       "duration_ms": 196000,
       "name": "Tu Na Aayi",
       "url": "https://open.spotify.com/track/5gsovysICg6TJVRUf0ZM16"
-    },
-    {
-      "added_at": "2026-07-15 08:00:14",
-      "album": {
-        "name": "Saanware",
-        "url": "https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm"
-      },
-      "artists": [
-        {
-          "name": "Zikrr",
-          "url": "https://open.spotify.com/artist/4aEfgXDQuGLSDsyFRGt2DZ"
-        },
-        {
-          "name": "Vidhi Tyagi",
-          "url": "https://open.spotify.com/artist/2WUJ2S53A6RZENNR2rbAzr"
-        },
-        {
-          "name": "Arjit Srivastava",
-          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
-        },
-        {
-          "name": "DUSH",
-          "url": "https://open.spotify.com/artist/05abXfm9g4tZcaUqn301Xh"
-        }
-      ],
-      "duration_ms": 214400,
-      "name": "Saanware",
-      "url": "https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i"
     },
     {
       "added_at": "2026-07-15 08:00:14",

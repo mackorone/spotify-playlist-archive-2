@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: Brandon Lake
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,116 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,205 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 79 | [Let Them See You](https://open.spotify.com/track/658IHccgv9C6DRpKNxcRZC) | [Weeks Revival](https://open.spotify.com/artist/1Zi57yVO40T6LnTmyTBU7O) | [Weeks Revival](https://open.spotify.com/album/2H0gB938PD9kL3lWvsXJiE) | 3:56 |
 | 80 | [Still Holding On](https://open.spotify.com/track/7HRTSEBlQA5u3wOMjkuKO2) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [Through The Fire](https://open.spotify.com/album/18yRa1xToWqROoVtzPPw4u) | 5:10 |
 
-Snapshot ID: `AAAAAJ8UjyAABPJDqg+eoZwvkSw+9UoW`
+Snapshot ID: `AAAAAFsRltYif9y/uaRsSyp5i/LNIxu6`

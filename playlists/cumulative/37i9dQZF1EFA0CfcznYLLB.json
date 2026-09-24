@@ -484,6 +484,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152480,
+      "name": "ANOTHER DAY",
+      "url": "https://open.spotify.com/track/0iBHHUX6baFfDCs5cQzv5I"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
@@ -494,7 +512,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 152480,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1"
@@ -1254,10 +1272,36 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 210489,
       "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
       "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/5P77VD130ZXNaWgHvXWOvd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210489,
+      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
+      "url": "https://open.spotify.com/track/0qAYYDHudFP1xzunwEAeU5"
     },
     {
       "album": {
@@ -1808,6 +1852,28 @@
     {
       "album": {
         "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/5P77VD130ZXNaWgHvXWOvd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115666,
+      "name": "CUFFED UP (feat. Quavo)",
+      "url": "https://open.spotify.com/track/16Iws3A39UjWr72wQ9nZvJ"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
       "artists": [
@@ -1822,7 +1888,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 115666,
       "name": "CUFFED UP (feat. Quavo)",
       "url": "https://open.spotify.com/track/1Fvwwdc1OMPXXelzEot3mk"
@@ -3060,10 +3126,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 219718,
       "name": "Gimme That Work",
       "url": "https://open.spotify.com/track/0j6Zd4442OGpZHsjQDH1rA"
+    },
+    {
+      "album": {
+        "name": "4Milli",
+        "url": "https://open.spotify.com/album/3TPURvUEqJdPhoZz9Hcgz2"
+      },
+      "artists": [
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219718,
+      "name": "Gimme That Work",
+      "url": "https://open.spotify.com/track/5qB6zr0cEqaP8WdR9r6RL3"
     },
     {
       "album": {
@@ -5836,6 +5920,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208789,
+      "name": "NOTHING LESS",
+      "url": "https://open.spotify.com/track/07wQOvUrGeUtak35xGErIj"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
@@ -5846,7 +5948,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 208789,
       "name": "NOTHING LESS",
       "url": "https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le"
@@ -7528,6 +7630,24 @@
     {
       "album": {
         "name": "Waking at Dawn",
+        "url": "https://open.spotify.com/album/05e3zRWe246SBJmIu8JuEv"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201305,
+      "name": "Switch",
+      "url": "https://open.spotify.com/track/14rAsiIl0rqBkZBlzcAbL0"
+    },
+    {
+      "album": {
+        "name": "Waking at Dawn",
         "url": "https://open.spotify.com/album/5rvBOTHohJZk2aQHPJi6eU"
       },
       "artists": [
@@ -7538,7 +7658,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 201305,
       "name": "Switch",
       "url": "https://open.spotify.com/track/5J2LGDRa3EIFiGQMHs0bb4"
@@ -7564,6 +7684,28 @@
     {
       "album": {
         "name": "Say Less",
+        "url": "https://open.spotify.com/album/4bRMfuFdRrWtWWMO83ynIP"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203762,
+      "name": "Take Time (feat. 24hrs)",
+      "url": "https://open.spotify.com/track/2sDdzM8oDivXDDpNYeMwdd"
+    },
+    {
+      "album": {
+        "name": "Say Less",
         "url": "https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh"
       },
       "artists": [
@@ -7578,7 +7720,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 203762,
       "name": "Take Time (feat. 24hrs)",
       "url": "https://open.spotify.com/track/4HlSeYvTvl6kuPdhJlm8Sg"
@@ -8090,10 +8232,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 208762,
       "name": "TURN UP",
       "url": "https://open.spotify.com/track/0hzAYGvbeMwW5O6n1w9zNq"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208762,
+      "name": "TURN UP",
+      "url": "https://open.spotify.com/track/2OsrEaBGJjORvRwLzvnSDy"
     },
     {
       "album": {
@@ -8454,10 +8614,28 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 262343,
       "name": "Why",
       "url": "https://open.spotify.com/track/32i4H0NOOpFeDYk2MtDUJd"
+    },
+    {
+      "album": {
+        "name": "Waking at Dawn",
+        "url": "https://open.spotify.com/album/05e3zRWe246SBJmIu8JuEv"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262343,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4uAwhvU0qOJvfSDwS6RMTg"
     },
     {
       "album": {
@@ -8896,6 +9074,24 @@
     {
       "album": {
         "name": "\u84ee",
+        "url": "https://open.spotify.com/album/0qekXsy5jlSFFqd276VQWg"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199499,
+      "name": "\u7389",
+      "url": "https://open.spotify.com/track/0tVXepBHNe0o5iguyGoYJV"
+    },
+    {
+      "album": {
+        "name": "\u84ee",
         "url": "https://open.spotify.com/album/0RC2WnrP7RwfII4HTX4vPM"
       },
       "artists": [
@@ -8906,7 +9102,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 199499,
       "name": "\u7389",
       "url": "https://open.spotify.com/track/7fNS68yphpEsbIyNzxpLA7"

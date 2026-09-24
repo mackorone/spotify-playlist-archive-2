@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,298 songs - 3 day 8 hr 8 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,300 songs - 3 day 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1305,6 +1305,8 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1295 | [Meta Cognition](https://open.spotify.com/track/2dqcka9YqNjHZ6humCpUXG) | [Olēka](https://open.spotify.com/artist/0lpq5rqUEmlUaVWHS84BpY) | [Meta Cognition](https://open.spotify.com/album/5TFGmn8KOjznFiXS3Pl5YH) | 3:14 |
 | 1296 | [Do It](https://open.spotify.com/track/4BBL8YQ1SUhSbcsEguX8kL) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [U](https://open.spotify.com/album/1qSS0T6Ffrb3rFVpizzOuk) | 3:33 |
 | 1297 | [Life 1 \(where did the time go\)](https://open.spotify.com/track/2c4On5vckm6Ay3vtuunQlk) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1 \(where did the time go\)](https://open.spotify.com/album/4BP7yEXI97xJV4OjXdRSVE) | 3:07 |
-| 1298 | [Whatever \- Remastered](https://open.spotify.com/track/5OWsea313ovaQoXvsgWq79) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 6:22 |
+| 1298 | [Grandma Song](https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Grandma Song](https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I) | 3:03 |
+| 1299 | [cbd](https://open.spotify.com/track/718Z7VJDi0YRr7vXrdB0Uv) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 2:39 |
+| 1300 | [Stand By Me](https://open.spotify.com/track/0zxHSBTEKdH8CI3auJ7Jyc) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now](https://open.spotify.com/album/021D07OEcg0c4tUCilc7ah) | 5:56 |
 
-Snapshot ID: `AAAKFmkFbWPKbUf3QsMP2YynsUgDJEGh`
+Snapshot ID: `AAAKGpbWXPVYps7cQGWjcKxZx5vCmwYn`

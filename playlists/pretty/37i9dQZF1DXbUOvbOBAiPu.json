@@ -1,6 +1,6 @@
 {
   "description": "New music from Miley Cyrus, GIMS, TeddyBear, Djadja & Dinaz, HUGEL x Neton Vega, Maluma x Shakira and more...",
-  "num_followers": 53847,
+  "num_followers": 53845,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
@@ -840,7 +840,7 @@
           "url": "https://open.spotify.com/artist/17b2tnjHPBp1QZ9lGfov7A"
         }
       ],
-      "duration_ms": 183240,
+      "duration_ms": 183237,
       "name": "Man In The Mirror",
       "url": "https://open.spotify.com/track/1yECFSv95XDArEhDe0UOss"
     },
@@ -1707,6 +1707,26 @@
       "duration_ms": 195360,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/4MqnoDLDaYFZL9JxtCKiJT"
+    },
+    {
+      "added_at": "2026-09-17 22:02:06",
+      "album": {
+        "name": "Les cicatrices d'or",
+        "url": "https://open.spotify.com/album/7GVuwGYWlGgu9dRnbE3WoQ"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        },
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "duration_ms": 179693,
+      "name": "Les cicatrices d'or",
+      "url": "https://open.spotify.com/track/4kpFuJZkjJjUYhbeQKV0SN"
     },
     {
       "added_at": "2026-09-17 22:02:06",

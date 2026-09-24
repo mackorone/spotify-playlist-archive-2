@@ -1,6 +1,6 @@
 {
   "description": "Miero YIC, Krulle, Bakss en meer..",
-  "num_followers": 158343,
+  "num_followers": 158340,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
@@ -16,12 +16,12 @@
       },
       "artists": [
         {
-          "name": "Miero YIC",
-          "url": "https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ"
-        },
-        {
           "name": "HAYABUSA",
           "url": "https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd"
+        },
+        {
+          "name": "Miero YIC",
+          "url": "https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ"
         }
       ],
       "duration_ms": 146733,

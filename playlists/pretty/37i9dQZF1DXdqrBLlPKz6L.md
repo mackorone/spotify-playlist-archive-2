@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: GeezyDee y Kris R.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,896 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,927 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paroliguelido](https://open.spotify.com/track/3ixbEjjNnL1DxGDaX2964K) | [GeezyDee](https://open.spotify.com/artist/6LGGOg5XbaaB5cBo7HR61a), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Prodmonja](https://open.spotify.com/artist/1jO63kMnVlY5VxryDFQsTO) | [Paroliguelido](https://open.spotify.com/album/0Hmf1Fak4Cm0iYk14OluTS) | 2:58 |
 | 2 | [EL FICTICIO](https://open.spotify.com/track/7fqHCkfwrKu58t4JQSE0Kq) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [EL FICTICIO](https://open.spotify.com/album/6K8JJwEpv8kXuLpjjSR0bK) | 6:15 |
 | 3 | [GANAS REMIX](https://open.spotify.com/track/57vNJ68zPmGIkgiDreQv6S) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [GANAS REMIX](https://open.spotify.com/album/51ZB7xmzN8RVLJfCeXJmOH) | 5:26 |
-| 4 | [GALACTICOS](https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E) | [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt), [Bigg Danny](https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [GALACTICOS](https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU) | 2:19 |
+| 4 | [GALACTICOS](https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E) | [Bigg Danny](https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N), [El Goldo](https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt) | [GALACTICOS](https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU) | 2:19 |
 | 5 | [RAININ'](https://open.spotify.com/track/2awRUkvYzcRUOKfP5vBzZC) | [Topboy TGR](https://open.spotify.com/artist/1HYdJRbyNCkiko7TAw9rei), [Fharid On the Beat](https://open.spotify.com/artist/5OK9NPDzd0KKaqTxH1XJdZ) | [RAININ'](https://open.spotify.com/album/4FefwyRCbRgFuC80AKodTy) | 2:34 |
 | 6 | [Las Muñequitas](https://open.spotify.com/track/4nJJCRYru4QQakCiUA155f) | [Mr Plata](https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [Las Muñequitas](https://open.spotify.com/album/7n15KecHJpMAvSLUpllKHu) | 3:13 |
 | 7 | [SISAS NADA \(feat\. Kris R.\) \- Remix](https://open.spotify.com/track/7jkNUCqYvmgWe8JxhE6C98) | [TURY](https://open.spotify.com/artist/0Tyf4eMcgHNc7xTDFe9Yqs), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [SISAS NADA \(feat\. Kris R.\) \[Remix\]](https://open.spotify.com/album/33S0hfrYHHOq1QVHIH8y44) | 5:22 |

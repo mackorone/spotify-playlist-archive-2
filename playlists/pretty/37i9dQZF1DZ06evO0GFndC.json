@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 64982,
+  "num_followers": 64992,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAABEyEJOUpE+dWOQiPgQHozN",
+  "snapshot_id": "arHFAAAAAAAoaQ0aELI7cyNswGgWQtnx",
   "tracks": [
     {
       "added_at": null,
@@ -99,18 +99,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "CUIDAME DE LA ENVIDIA",
-        "url": "https://open.spotify.com/album/1G4RNSA25MlmAEtxIvXXc4"
+        "name": "El de Houston",
+        "url": "https://open.spotify.com/album/2yEQMdQs3nB1hBbQBUNEJ5"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 194026,
-      "name": "CUIDAME DE LA ENVIDIA",
-      "url": "https://open.spotify.com/track/3Js63nef8ULBrGnfEC4l1x"
+      "duration_ms": 182464,
+      "name": "El de Houston",
+      "url": "https://open.spotify.com/track/2od37hueHLJHA4VQ61TyM4"
     },
     {
       "added_at": null,
@@ -131,22 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El de Houston",
-        "url": "https://open.spotify.com/album/2yEQMdQs3nB1hBbQBUNEJ5"
+        "name": "CUIDAME DE LA ENVIDIA",
+        "url": "https://open.spotify.com/album/1G4RNSA25MlmAEtxIvXXc4"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 182464,
-      "name": "El de Houston",
-      "url": "https://open.spotify.com/track/2od37hueHLJHA4VQ61TyM4"
+      "duration_ms": 194026,
+      "name": "CUIDAME DE LA ENVIDIA",
+      "url": "https://open.spotify.com/track/3Js63nef8ULBrGnfEC4l1x"
     },
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 203293,
-      "name": "Fuga Pa' Cali - En Vivo",
-      "url": "https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
@@ -251,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
       "artists": [
         {
@@ -260,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 235477,
-      "name": "La Lealtad",
-      "url": "https://open.spotify.com/track/163KLwvYqUElKJA27ygSoa"
+      "duration_ms": 203293,
+      "name": "Fuga Pa' Cali - En Vivo",
+      "url": "https://open.spotify.com/track/3WjorfFU6IxlbopMintsT0"
     },
     {
       "added_at": null,
@@ -279,6 +263,22 @@
       "duration_ms": 235968,
       "name": "La Calabaza",
       "url": "https://open.spotify.com/track/6ov93lW7yjZ1oO5FLFQvcR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 235477,
+      "name": "La Lealtad",
+      "url": "https://open.spotify.com/track/163KLwvYqUElKJA27ygSoa"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Manzanita Vol. 3",
-        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 162903,
-      "name": "El Se\u00f1or de la a 2",
-      "url": "https://open.spotify.com/track/1qRSFUbzlyL72x1cVAV47i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEY DE VIDA",
         "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 156608,
       "name": "LAS CULATAS",
       "url": "https://open.spotify.com/track/2Yf9O2NcWVu88Rj1iQMKyt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pura Manzanita Vol. 3",
+        "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 162903,
+      "name": "El Se\u00f1or de la a 2",
+      "url": "https://open.spotify.com/track/1qRSFUbzlyL72x1cVAV47i"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tras las Rejas",
-        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Tras las Rejas",
-      "url": "https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEY DE VIDA",
         "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 174389,
       "name": "JEFAZO",
       "url": "https://open.spotify.com/track/0lfeNu6f5qXqe1omcMrhRE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tras las Rejas",
+        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Tras las Rejas",
+      "url": "https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEY DE VIDA",
+        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 200722,
+      "name": "LEY DE VIDA",
+      "url": "https://open.spotify.com/track/3EfezkRzdn6K0WXRjZrT3J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 212304,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/4FMtsxQY2DZr9vaLiJL84h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEY DE VIDA",
-        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 200722,
-      "name": "LEY DE VIDA",
-      "url": "https://open.spotify.com/track/3EfezkRzdn6K0WXRjZrT3J"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tras las Rejas",
-        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 212499,
-      "name": "Puro Gas",
-      "url": "https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEY DE VIDA",
         "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 187583,
       "name": "CLASE 63",
       "url": "https://open.spotify.com/track/5K65GcDbhSPF2P8q7jcGN5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tras las Rejas",
+        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 212499,
+      "name": "Puro Gas",
+      "url": "https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEY DE VIDA",
+        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 180309,
+      "name": "AIR FORCE BLANCOS (Peezy)",
+      "url": "https://open.spotify.com/track/2NO7qNlPiutmEHQlXy5u01"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proyecto A",
         "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 191750,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEY DE VIDA",
-        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 180309,
-      "name": "AIR FORCE BLANCOS (Peezy)",
-      "url": "https://open.spotify.com/track/2NO7qNlPiutmEHQlXy5u01"
     },
     {
       "added_at": null,

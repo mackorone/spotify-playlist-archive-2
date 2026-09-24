@@ -1,6 +1,6 @@
 {
   "description": "The iconic indie songs that defined an era. ",
-  "num_followers": 594952,
+  "num_followers": 595007,
   "original_name": "The 2000s Indie Scene",
   "owner": {
     "name": "Spotify",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2025-05-06 20:51:58",
       "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 209893,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/3DgNj1aYbSRVoVO8yX7DRt"
-    },
-    {
-      "added_at": "2025-05-06 20:51:58",
-      "album": {
         "name": "A Good Day",
         "url": "https://open.spotify.com/album/2y8fiUO036vTYKHM2gNSuW"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 211240,
       "name": "Dream",
       "url": "https://open.spotify.com/track/0ngtyvPUKR4YTtkVKvZP02"
+    },
+    {
+      "added_at": "2025-05-06 20:51:58",
+      "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 209893,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/3DgNj1aYbSRVoVO8yX7DRt"
     },
     {
       "added_at": "2025-05-06 20:51:58",

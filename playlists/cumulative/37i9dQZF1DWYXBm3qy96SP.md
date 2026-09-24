@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: beabadoobee
 
-2,319 songs - 5 day 15 hr 17 min
+2,320 songs - 5 day 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1300,7 +1300,7 @@
 | [miss sunshine](https://open.spotify.com/track/0aSVSMCkmecr0Npq8AeZuE) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [miss sunshine](https://open.spotify.com/album/2ww9r7d9m1Ekaal7ULY1zc) | 3:23 | 2025-07-24 | 2025-09-13 |
 | [Missing](https://open.spotify.com/track/1xZiJQuvH4AMNjUPrd6P2g) | [東京酒吐座\(Tokyo Shoegazer\)](https://open.spotify.com/artist/0dzZimiT5lEvERCEXHdaTX) | [Remains](https://open.spotify.com/album/7lTUctoVU6VuJj0jvk3n7F) | 3:54 | 2026-04-23 | 2026-05-22 |
 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2023-09-21 | 2024-02-09 |
-| [Modern Life Is Lonely](https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Modern Life Is Lonely](https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA) | 4:42 | 2026-09-03 |  |
+| [Modern Life Is Lonely](https://open.spotify.com/track/3rtt013fTWeFnU7v0dJkbZ) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Modern Life Is Lonely](https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA) | 4:42 | 2026-09-03 | 2026-09-24 |
 | [Molecular Gastronomy](https://open.spotify.com/track/2931vEcoEFWljb7Xas1ASK) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Molecular Gastronomy](https://open.spotify.com/album/35sglSFwKtTasoxq1xfQh7) | 3:12 | 2026-07-02 | 2026-08-30 |
 | [Mono No Aware](https://open.spotify.com/track/0uXiUM49olUGEwgfFQpv1y) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [The Liftaway](https://open.spotify.com/album/3DZpknxLN2A2aEJGm617nu) | 4:52 | 2023-11-16 | 2023-12-08 |
 | [Monolith](https://open.spotify.com/track/2qWJ3H3iMEnkeyi8t0QfGr) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Monolith](https://open.spotify.com/album/60D53NppKnWqnepqsq3wX4) | 3:32 | 2026-03-12 | 2026-03-21 |
@@ -1655,6 +1655,7 @@
 | [Rockstar](https://open.spotify.com/track/67g2PIQKhwBJ5BzqkO0VgP) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Rockstar](https://open.spotify.com/album/7lGpYKShMsb9DFvmIdIMIC) | 3:28 | 2023-09-07 | 2023-09-29 |
 | [Roll Out The Red Carpet](https://open.spotify.com/track/62hjnthb0Lctzd5af4c96I) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/3iE2EtiK9bWxYqhkzCgea0) | 2:19 | 2025-08-28 | 2025-09-12 |
 | [Rolling Face](https://open.spotify.com/track/2tYYUy36QRgi3yaX2dx3cp) | [Adult DVD](https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG) | [Rolling Face](https://open.spotify.com/album/52q3EH4AOgwgDwxsuldg1H) | 5:09 | 2026-08-13 | 2026-08-21 |
+| [Romance Is A Desert](https://open.spotify.com/track/5TST4kEA5XGYK6OvUcjCVY) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Romance Is A Desert](https://open.spotify.com/album/5mfOMu4CWKTntFIKWhtpND) | 2:55 | 2026-09-17 |  |
 | [Romeo](https://open.spotify.com/track/5wAQo2E9nq1ywCakVFgftt) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Romeo](https://open.spotify.com/album/3Bsx6OjdZj362VILxymjhR) | 4:00 | 2026-03-26 | 2026-04-03 |
 | [Roses n Poses](https://open.spotify.com/track/62CqS44jOqQSSf0RfCrWHQ) | [The Scratch](https://open.spotify.com/artist/6BCpGC485tSshwjemmeAmd) | [Pull Like a Dog](https://open.spotify.com/album/2rPxVtL7D8v8AoYkHekCiy) | 3:30 | 2026-03-12 | 2026-03-27 |
 | [Rude Awakening](https://open.spotify.com/track/7lwHFDcmB0z3yRzxfG2pJV) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Rude Awakening](https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng) | 2:23 | 2023-06-30 | 2023-07-07 |

@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bispo, Ad",
-  "num_followers": 55913,
+  "num_followers": 55931,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2026-09-17 23:00:58",
       "album": {
+        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
+        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "duration_ms": 314009,
+      "name": "Conversas",
+      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
+    },
+    {
+      "added_at": "2026-09-17 23:00:58",
+      "album": {
         "name": "ID",
         "url": "https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 268075,
       "name": "N\u00e3o Me Fales (feat. Wet Bed Gang)",
       "url": "https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS"
-    },
-    {
-      "added_at": "2026-09-17 23:00:58",
-      "album": {
-        "name": "Sacrif\u00edcio: Sangue, L\u00e1grimas, Suor",
-        "url": "https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        }
-      ],
-      "duration_ms": 314009,
-      "name": "Conversas",
-      "url": "https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB"
     },
     {
       "added_at": "2026-09-17 23:00:58",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2026-09-17 23:00:58",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
-      },
-      "artists": [
-        {
-          "name": "Soarito",
-          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
-        },
-        {
-          "name": "Prod\u00edgio",
-          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
-        },
-        {
-          "name": "Shalom Beatz",
-          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
-        }
-      ],
-      "duration_ms": 198409,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
-    },
-    {
-      "added_at": "2026-09-17 23:00:58",
-      "album": {
         "name": "Sei-te de Cor",
         "url": "https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg"
       },
@@ -1119,6 +1095,30 @@
     {
       "added_at": "2026-09-17 23:00:58",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "duration_ms": 198409,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw"
+    },
+    {
+      "added_at": "2026-09-17 23:00:58",
+      "album": {
         "name": "XVIII",
         "url": "https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp"
       },
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2026-09-17 23:00:58",
       "album": {
-        "name": "Bisou",
-        "url": "https://open.spotify.com/album/2Qj3dZxstpDRAFiVCyLcQ1"
+        "name": "Bon Vivan",
+        "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
       },
       "artists": [
         {
-          "name": "Satiro",
-          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
         }
       ],
-      "duration_ms": 168387,
-      "name": "Bisou",
-      "url": "https://open.spotify.com/track/4Gj5SkUb1S4bWTq2wgLIDD"
+      "duration_ms": 137910,
+      "name": "Bon Vivan",
+      "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
     },
     {
       "added_at": "2026-09-17 23:00:58",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2026-09-17 23:00:58",
       "album": {
-        "name": "Bon Vivan",
-        "url": "https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p"
+        "name": "Bisou",
+        "url": "https://open.spotify.com/album/2Qj3dZxstpDRAFiVCyLcQ1"
       },
       "artists": [
         {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+          "name": "Satiro",
+          "url": "https://open.spotify.com/artist/2s0vdOp4RtF3VBYH6wxxbM"
         }
       ],
-      "duration_ms": 137910,
-      "name": "Bon Vivan",
-      "url": "https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE"
+      "duration_ms": 168387,
+      "name": "Bisou",
+      "url": "https://open.spotify.com/track/4Gj5SkUb1S4bWTq2wgLIDD"
     },
     {
       "added_at": "2026-09-17 23:00:58",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-09-17 23:00:58",
       "album": {
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
+      },
+      "artists": [
+        {
+          "name": "Lhast",
+          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
+        }
+      ],
+      "duration_ms": 152470,
+      "name": "\u00c0 Procura",
+      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
+    },
+    {
+      "added_at": "2026-09-17 23:00:58",
+      "album": {
         "name": "10 MINUTOS",
         "url": "https://open.spotify.com/album/1f7H62wBukLZ1dWc8Vfgoh"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 174428,
       "name": "Perfume - Ao Vivo",
       "url": "https://open.spotify.com/track/5RrkZPErBSiNW8OjRxnkId"
-    },
-    {
-      "added_at": "2026-09-17 23:00:58",
-      "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/2bxwGAO6LDVzSjPoEggQ58"
-      },
-      "artists": [
-        {
-          "name": "Lhast",
-          "url": "https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw"
-        }
-      ],
-      "duration_ms": 152470,
-      "name": "\u00c0 Procura",
-      "url": "https://open.spotify.com/track/2gRjbu1mxypKW0zPyf5uGa"
     },
     {
       "added_at": "2026-09-17 23:00:58",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2026-09-17 23:00:58",
       "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
-      },
-      "artists": [
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        },
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 216556,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
-    },
-    {
-      "added_at": "2026-09-17 23:00:58",
-      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/7h1u6IDHNug7uk2Nj5GCJH"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 199000,
       "name": "Perigo",
       "url": "https://open.spotify.com/track/60Mdnry8AfHZwjEIpulq8Z"
+    },
+    {
+      "added_at": "2026-09-17 23:00:58",
+      "album": {
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/6aVeW0VvFv4qDpigItRzVn"
+      },
+      "artists": [
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        },
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 216556,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/6f3wQcpYZUjnakdFmriRbF"
     }
   ],
   "unique_name": "Seda",

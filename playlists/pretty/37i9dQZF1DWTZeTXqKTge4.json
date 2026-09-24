@@ -1,6 +1,6 @@
 {
   "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Shreez, Tizzo, Salgrimo, Le Ice, Peeda, Soft, YoAlain!, Chiko",
-  "num_followers": 89606,
+  "num_followers": 89609,
   "original_name": "Rap qu\u00e9b",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,30 @@
     {
       "added_at": "2026-09-18 17:46:56",
       "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP"
+      },
+      "artists": [
+        {
+          "name": "Die-On",
+          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
+        },
+        {
+          "name": "Tel Kel",
+          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
+        },
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 211859,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
+    },
+    {
+      "added_at": "2026-09-18 17:46:56",
+      "album": {
         "name": "DISCONTINU\u00c9",
         "url": "https://open.spotify.com/album/683y6ASL2p9KrgLO8w6Brh"
       },
@@ -439,30 +463,6 @@
       "duration_ms": 175476,
       "name": "DISCONTINU\u00c9",
       "url": "https://open.spotify.com/track/3O6o8MajhlS4IcBISakc1b"
-    },
-    {
-      "added_at": "2026-09-18 17:46:56",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/2s4Fl2jD3bLsaP4q10gVCP"
-      },
-      "artists": [
-        {
-          "name": "Die-On",
-          "url": "https://open.spotify.com/artist/3PiPx0tAJVVmdwScvelkq3"
-        },
-        {
-          "name": "Tel Kel",
-          "url": "https://open.spotify.com/artist/1pT5N4DANkbWPnrXQuDJPM"
-        },
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 211859,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/72zxhDtfzlU8hskSF2avzQ"
     },
     {
       "added_at": "2026-09-18 17:46:56",
@@ -659,8 +659,8 @@
     {
       "added_at": "2026-09-18 17:46:56",
       "album": {
-        "name": "MON TOUR",
-        "url": "https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG"
+        "name": "BORA BORA",
+        "url": "https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
         }
       ],
-      "duration_ms": 151384,
-      "name": "MON TOUR",
-      "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
+      "duration_ms": 153000,
+      "name": "BORA BORA",
+      "url": "https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC"
     },
     {
       "added_at": "2026-09-18 17:46:56",
@@ -747,8 +747,8 @@
     {
       "added_at": "2026-09-18 17:46:56",
       "album": {
-        "name": "BORA BORA",
-        "url": "https://open.spotify.com/album/1B6OaZymaEz7rBjNIVueTw"
+        "name": "MON TOUR",
+        "url": "https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
         }
       ],
-      "duration_ms": 153000,
-      "name": "BORA BORA",
-      "url": "https://open.spotify.com/track/3dOiWAMvlaMEbXjWklecCC"
+      "duration_ms": 151384,
+      "name": "MON TOUR",
+      "url": "https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP"
     },
     {
       "added_at": "2026-09-18 17:46:56",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2026-09-18 17:46:56",
       "album": {
+        "name": "Big Wop - Mile-End sur la map",
+        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "duration_ms": 210695,
+      "name": "Fascinant",
+      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
+    },
+    {
+      "added_at": "2026-09-18 17:46:56",
+      "album": {
         "name": "Le c\u0153ur \u00e0 la bonne place",
         "url": "https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 212586,
       "name": "Le c\u0153ur \u00e0 la bonne place",
       "url": "https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII"
-    },
-    {
-      "added_at": "2026-09-18 17:46:56",
-      "album": {
-        "name": "Big Wop - Mile-End sur la map",
-        "url": "https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS"
-      },
-      "artists": [
-        {
-          "name": "Fl\u00e9au Dicaprio",
-          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
-        }
-      ],
-      "duration_ms": 210695,
-      "name": "Fascinant",
-      "url": "https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT"
     },
     {
       "added_at": "2026-09-18 17:46:56",

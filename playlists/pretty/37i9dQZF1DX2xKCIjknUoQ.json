@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 220617,
+  "num_followers": 220600,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "I'm Picky",
-      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Les conqu\u00eates (Deluxe edition)",
         "url": "https://open.spotify.com/album/4EGzP5VOcMpD3wolbI8Fcj"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Elliott",
-        "url": "https://open.spotify.com/album/3LTATpdZP4sE3UocHfEHit"
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
       },
       "artists": [
         {
-          "name": "Blankass",
-          "url": "https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03"
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
         }
       ],
-      "duration_ms": 226586,
-      "name": "Qui que tu sois",
-      "url": "https://open.spotify.com/track/6oS7ATqkkkuPH96EaUht4t"
+      "duration_ms": 238133,
+      "name": "I'm Picky",
+      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -763,6 +747,22 @@
       "duration_ms": 193560,
       "name": "Give Me Your Life",
       "url": "https://open.spotify.com/track/6VFW2EVfVRBI5tF2wiewG3"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "Elliott",
+        "url": "https://open.spotify.com/album/3LTATpdZP4sE3UocHfEHit"
+      },
+      "artists": [
+        {
+          "name": "Blankass",
+          "url": "https://open.spotify.com/artist/1FSEVDIvXWHWPmPeCuka03"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Qui que tu sois",
+      "url": "https://open.spotify.com/track/6oS7ATqkkkuPH96EaUht4t"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -799,18 +799,18 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+        "name": "Trafalgar",
+        "url": "https://open.spotify.com/album/2WjJE58CMkwX9OCdNW9S6T"
       },
       "artists": [
         {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+          "name": "Archim\u00e8de",
+          "url": "https://open.spotify.com/artist/3DVs1DqfMYft7Nl1tcX7rP"
         }
       ],
-      "duration_ms": 207132,
-      "name": "My Name Is Stain",
-      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
+      "duration_ms": 155706,
+      "name": "Le bonheur",
+      "url": "https://open.spotify.com/track/1WsPkcmKon4hQypbdtYiTo"
     }
   ],
   "unique_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",

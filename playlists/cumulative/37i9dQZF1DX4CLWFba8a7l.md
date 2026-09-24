@@ -4,7 +4,7 @@
 
 > In this house we celebrate Australian music\. Cover: C.O.F.F.I.N
 
-754 songs - 1 day 18 hr 10 min
+755 songs - 1 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Boyfriend](https://open.spotify.com/track/4LGsX3jC2m7uRmhlbHcUGC) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [Boyfriend](https://open.spotify.com/album/7A5WFQa2dXh1MpUA2iJDCx) | 3:57 | 2024-07-11 | 2024-09-09 |
 | [Boys Light Up](https://open.spotify.com/track/4ErGr6NdI8DHIaf9bYuquZ) | [Chillinit](https://open.spotify.com/artist/5TUXXyB6ZKCdd0vQx6yR2J) | [Boys Light Up](https://open.spotify.com/album/3GfGjAm40VSALkTTkj1dyQ) | 2:49 | 2024-05-31 | 2024-07-18 |
 | [BREAK FREE](https://open.spotify.com/track/5gCifD21fmGpnyxkvPtIEI) | [MUDRAT](https://open.spotify.com/artist/5BXgJD35uOzh79FlVO8DQ2) | [BREAK FREE](https://open.spotify.com/album/1SyBh4Y6Jf1r7LSzaH8zHm) | 3:07 | 2025-09-01 | 2025-09-05 |
-| [Break My Heart](https://open.spotify.com/track/3L8B3G1GPRiN3a4RET63rL) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46), [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Break My Heart](https://open.spotify.com/album/2i4pcui4vyTDqfZrEJt9Aw) | 3:01 | 2026-06-25 |  |
+| [Break My Heart](https://open.spotify.com/track/3L8B3G1GPRiN3a4RET63rL) | [Bag Raiders](https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46), [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Break My Heart](https://open.spotify.com/album/2i4pcui4vyTDqfZrEJt9Aw) | 3:01 | 2026-06-25 | 2026-09-24 |
 | [Breakup](https://open.spotify.com/track/0Fts3iBGy196UIxlHC9ZqS) | [Ashton Irwin](https://open.spotify.com/artist/3zOKGDS77tYdGFQ6UJMC4E) | [BLOOD ON THE DRUMS \(The Thorns\)](https://open.spotify.com/album/4GOETHIJEzUKybjE6aywCa) | 3:09 | 2024-06-13 | 2024-07-27 |
 | [Bring It](https://open.spotify.com/track/3IGcT1DMV7axlr4Wez3hRg) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu) | [Bring It](https://open.spotify.com/album/4e3KDT6hOHAkyCVjCpYBjp) | 3:20 | 2025-03-27 | 2025-05-30 |
 | [Burn It Down](https://open.spotify.com/track/74f0f8vIGIRFcqt8CL0YXL) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Burn It Down](https://open.spotify.com/album/0SSqpkIjxeXYdVa0R6HEuE) | 3:33 | 2025-10-16 | 2025-10-24 |
@@ -304,6 +304,7 @@
 | [Hurracane](https://open.spotify.com/track/1xSQFAP6pfng02tJa1jnLc) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Hurracane](https://open.spotify.com/album/5Uu9Eec9z4kkB0lQhthSP4) | 3:05 | 2026-06-11 | 2026-08-21 |
 | [Hurt So Bad](https://open.spotify.com/track/2ePmuCYaE8FQvYEivOEvpz) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue \(Deluxe\)](https://open.spotify.com/album/3SuqKNkO5rlv3d9xyGzHDH) | 3:06 | 2025-07-10 | 2026-02-27 |
 | [Hurts Anymore](https://open.spotify.com/track/3q5RoHdwzVhpt3rhdFxNTr) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Chronosick](https://open.spotify.com/album/758TBtA1Agn07O0qNfmXia) | 2:51 | 2025-09-18 | 2025-09-26 |
+| [Hypoxia](https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Lethal Devotion](https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk) | 5:21 | 2026-09-17 |  |
 | [I Can Die Now](https://open.spotify.com/track/1ZEZvXDh4Oim6UmbKAivlM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [I Can Die Now](https://open.spotify.com/album/49QF7rbAEhJQtbyIabLKoA) | 2:51 | 2025-07-17 | 2025-10-31 |
 | [I CONDEMN](https://open.spotify.com/track/4JIC9Y4gNwefZ9UiCnZCvT) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I CONDEMN](https://open.spotify.com/album/3GGPWismNDtBFF8EJxoiFI) | 2:22 | 2026-04-16 | 2026-07-24 |
 | [i couldn't hold back](https://open.spotify.com/track/3bPsM5sfpa4k4LwfARCrsy) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [i couldn't hold back](https://open.spotify.com/album/0aICQMBnEhYxCV7e2QtcUa) | 2:50 | 2025-06-26 | 2025-08-17 |

@@ -4,7 +4,7 @@
 
 > Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE Artwork: Joy Yamusangie.
 
-1,678 songs - 5 day 10 hr 55 min
+1,680 songs - 5 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Burden](https://open.spotify.com/track/2kDh5zuEYxj8Whgrqqqcgu) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku) | [Escape From The Underplay](https://open.spotify.com/album/35CBXI1eSCCHxNecFVyK6i) | 7:19 | 2022-11-30 | 2023-01-12 |
 | [Burden](https://open.spotify.com/track/5xB8B2YnZE6VxIxYsKP1JI) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku) | [Burden](https://open.spotify.com/album/1OW1kH99X96vLWQlzI0Osi) | 7:19 | 2022-09-21 | 2022-10-27 |
 | [Buried Treasure](https://open.spotify.com/track/43zmYs2kSsZEruQQOPfGEG) | [Zac Zinger](https://open.spotify.com/artist/6nVreZX9f5zkyfsuQ3Qo3J), [Ben Kono](https://open.spotify.com/artist/21VECiMz8AxGvbloDJLoXX) | [Buried Treasure](https://open.spotify.com/album/19ISZ7DNTbB6xUMZrGdjtU) | 4:22 | 2023-07-19 | 2023-08-17 |
+| [Bus Stop](https://open.spotify.com/track/5X9xW0NhraXbm8Ot9i3w92) | [LOTUS GUITAR](https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6) | [Bus Stop](https://open.spotify.com/album/7N3aJgOEH3TVosEK7Ol9F0) | 3:25 | 2026-09-23 |  |
 | [Bustle](https://open.spotify.com/track/7gGDN4NvoIv6WZKVRV6hmp) | [Gijs Levelt Spoken Quartet](https://open.spotify.com/artist/6d9jt84PyB3w2OFrGrDg9T), [Gijs Levelt](https://open.spotify.com/artist/5nLTrxd6gjY7MIfIoT9gM0), [Mark Haanstra](https://open.spotify.com/artist/6Rm8C5nESdJWDbwWJyXXQv), [Stefan Schmid](https://open.spotify.com/artist/6CWmupOPhtLCoPSun1SeLh), [Joost Lijbaart](https://open.spotify.com/artist/7E7tPSNlkKLV4hnzhC9KKu) | [Bustle](https://open.spotify.com/album/0tfDJ7IjZ2pYVB3OPFYyPJ) | 3:43 | 2022-09-28 | 2022-12-01 |
 | [Busy Day](https://open.spotify.com/track/2zr0zJNR77WDqDM4ev8ndM) | [Hania Derej Quintet](https://open.spotify.com/artist/2ovodGCEnsXIPxULVNvKIy), [Hania Derej](https://open.spotify.com/artist/2IU2updV8nCbwezu453ame) | [Busy Day](https://open.spotify.com/album/0ObRFaXu0VKJQtNj3CN9jD) | 7:26 | 2024-05-08 | 2024-07-25 |
 | [Butterscotch](https://open.spotify.com/track/10oWw93KKigwvIShRYJBXX) | [Annie Booth Sextet](https://open.spotify.com/artist/0H0DHzUeB40lePPjZFGBiI) | [Butterscotch](https://open.spotify.com/album/2usKk0ger2AJnuyITNsHIO) | 5:05 | 2022-06-08 | 2022-07-07 |
@@ -1592,6 +1593,7 @@
 | [Weh Dem A Do?](https://open.spotify.com/track/78o5Okuk7d7V990eeyGWt8) | [TC & the Groove Family](https://open.spotify.com/artist/47DpSgD00hWJA970gp7nlZ), [Franz Von](https://open.spotify.com/artist/0J5vraswqzU2Kcp71etMcR) | [First Home](https://open.spotify.com/album/6Qhik0e3TiA3uK6k9tX8Tx) | 4:41 | 2022-06-15 | 2022-07-14 |
 | [weird](https://open.spotify.com/track/5xnHCTo3Ia2QDNxcu6URPr) | [Solomon Fox](https://open.spotify.com/artist/3Cit7qPJ2qWQrIuidej4Tj) | [weird](https://open.spotify.com/album/1utJR0ualmXBUTM1ej4SrQ) | 1:35 | 2024-06-19 | 2025-01-16 |
 | [Weird Funk Wout Lyrics](https://open.spotify.com/track/7oN2Jvf4lbXH3cH65kGnZf) | [Filippo Bubbico](https://open.spotify.com/artist/2hNFP6IAR6f94F53BzjLzw), [Federico Malaman](https://open.spotify.com/artist/0yDSaA49FQGIzoVsa2Tj7x) | [Weird Funk Wout Lyrics](https://open.spotify.com/album/7uxDlk7wwJHrKf78JNMZ6j) | 1:35 | 2023-06-14 | 2023-09-15 |
+| [Welcome to the Citadel](https://open.spotify.com/track/1TDi31CL50Yop4avqq4gpD) | [PYJÆN](https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc) | [Welcome To The Citadel](https://open.spotify.com/album/4byokKsdfLAMB1HBlke5KZ) | 6:27 | 2026-09-23 |  |
 | [West](https://open.spotify.com/track/79YFupkXXHIkPj97vFQC03) | [Sam Pankey](https://open.spotify.com/artist/5QFJcdb17mZhZY4abURZwi) | [A Bad Rhyme That's Beaten You](https://open.spotify.com/album/36MMTQvkQONhT2h42I9zfz) | 6:25 | 2022-03-16 | 2022-04-21 |
 | [Westkreuz](https://open.spotify.com/track/3fyi0eEVMm8Oy2wK6UnwAm) | [Dutch Jazz Collective](https://open.spotify.com/artist/5iQFlU7mTNeRrvjpIWdz3F) | [Generations](https://open.spotify.com/album/3zDi0f5eRlDmgIFWG7Fh5E) | 4:52 | 2022-07-13 | 2022-08-11 |
 | [Wetland](https://open.spotify.com/track/4JBp0XbFoizsaxUx7T3ytQ) | [Dick De Graaf](https://open.spotify.com/artist/45ujnVi5NdkeDL4CSwTVx3) | [Festive](https://open.spotify.com/album/6kpsBS7khjeplE52rague1) | 5:57 | 2022-03-30 | 2022-04-27 |

@@ -1,6 +1,6 @@
 {
   "description": "Pacific reggae, roots rockers. Relax, you're on island time. Cover: Te Wehi",
-  "num_followers": 133681,
+  "num_followers": 133698,
   "original_name": "Island Time",
   "owner": {
     "name": "Spotify",
@@ -287,18 +287,22 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "Road From 26",
-        "url": "https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R"
+        "name": "Ready To Ride",
+        "url": "https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB"
       },
       "artists": [
         {
-          "name": "Corrella",
-          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        },
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
         }
       ],
-      "duration_ms": 196393,
-      "name": "Blue Eyed M\u0101ori",
-      "url": "https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W"
+      "duration_ms": 221600,
+      "name": "Ready To Ride",
+      "url": "https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -319,22 +323,18 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "Ready To Ride",
-        "url": "https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB"
+        "name": "Road From 26",
+        "url": "https://open.spotify.com/album/6QjWeTibBrfnv2PTdEKf8R"
       },
       "artists": [
         {
-          "name": "Hori Shaw",
-          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
-        },
-        {
-          "name": "Te Wehi",
-          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+          "name": "Corrella",
+          "url": "https://open.spotify.com/artist/3zo9C8J8m3VlXb9hNlLcJX"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Ready To Ride",
-      "url": "https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV"
+      "duration_ms": 196393,
+      "name": "Blue Eyed M\u0101ori",
+      "url": "https://open.spotify.com/track/47WVBSXAXqouYBu0Uvnv9W"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -499,6 +499,26 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
+        "name": "What's Up",
+        "url": "https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg"
+      },
+      "artists": [
+        {
+          "name": "KUKI",
+          "url": "https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49"
+        },
+        {
+          "name": "Canaan Ene",
+          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
+        }
+      ],
+      "duration_ms": 278571,
+      "name": "What's Up",
+      "url": "https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
         "name": "L.A.B V",
         "url": "https://open.spotify.com/album/52O3QyngsXELzoDyyIsZuQ"
       },
@@ -527,26 +547,6 @@
       "duration_ms": 211893,
       "name": "Get Away",
       "url": "https://open.spotify.com/track/02yYxxU7lRPeoWuWN0bPuw"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
-        "name": "What's Up",
-        "url": "https://open.spotify.com/album/4CS7k60oGImQ1J6tuUFQeg"
-      },
-      "artists": [
-        {
-          "name": "KUKI",
-          "url": "https://open.spotify.com/artist/0Ys93xAGNkGBgPuPxYpv49"
-        },
-        {
-          "name": "Canaan Ene",
-          "url": "https://open.spotify.com/artist/2fhGuOLxHE77JomC7QzTBA"
-        }
-      ],
-      "duration_ms": 278571,
-      "name": "What's Up",
-      "url": "https://open.spotify.com/track/0hb5i5zsp4hPA0WMXu3Kf7"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
+        "name": "Always with You",
+        "url": "https://open.spotify.com/album/3TEomtRmmPSIvL5tozcHV2"
+      },
+      "artists": [
+        {
+          "name": "Katchafire",
+          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
+        }
+      ],
+      "duration_ms": 197787,
+      "name": "Always with You",
+      "url": "https://open.spotify.com/track/21tXzRXVJd6ikASjsWZIXD"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
         "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
         "url": "https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 236434,
       "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
       "url": "https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
-        "name": "Always with You",
-        "url": "https://open.spotify.com/album/3TEomtRmmPSIvL5tozcHV2"
-      },
-      "artists": [
-        {
-          "name": "Katchafire",
-          "url": "https://open.spotify.com/artist/786hGmAEXHUeCdKPAj3JIa"
-        }
-      ],
-      "duration_ms": 197787,
-      "name": "Always with You",
-      "url": "https://open.spotify.com/track/21tXzRXVJd6ikASjsWZIXD"
     },
     {
       "added_at": "2026-09-13 23:14:14",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-09-13 23:14:14",
       "album": {
-        "name": "Take It Away",
-        "url": "https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL"
-      },
-      "artists": [
-        {
-          "name": "L.A.B.",
-          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Take It Away",
-      "url": "https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO"
-    },
-    {
-      "added_at": "2026-09-13 23:14:14",
-      "album": {
         "name": "That's The Way It Is",
         "url": "https://open.spotify.com/album/6pbOzrWNjX71ImAKpJSlvu"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 231785,
       "name": "That's The Way It Is",
       "url": "https://open.spotify.com/track/7KqpvPegNT530G3nAIfZ49"
+    },
+    {
+      "added_at": "2026-09-13 23:14:14",
+      "album": {
+        "name": "Take It Away",
+        "url": "https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL"
+      },
+      "artists": [
+        {
+          "name": "L.A.B.",
+          "url": "https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Take It Away",
+      "url": "https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO"
     },
     {
       "added_at": "2026-09-13 23:14:14",

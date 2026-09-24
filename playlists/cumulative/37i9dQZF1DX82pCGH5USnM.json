@@ -8496,6 +8496,24 @@
     {
       "album": {
         "name": "Lake Como",
+        "url": "https://open.spotify.com/album/49q60BoJlSCgbl1hLqc0jZ"
+      },
+      "artists": [
+        {
+          "name": "apparater",
+          "url": "https://open.spotify.com/artist/5KQgYUEYCLvjLZge7PLlZW"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151520,
+      "name": "Lake Como",
+      "url": "https://open.spotify.com/track/0tv5EUIQfIWc0z6saP1sEL"
+    },
+    {
+      "album": {
+        "name": "Lake Como",
         "url": "https://open.spotify.com/album/2Rf3lLkoWqzJFbxKpQefgV"
       },
       "artists": [
@@ -18846,7 +18864,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 165600,
       "name": "Wavelength",
       "url": "https://open.spotify.com/track/0wuxhAiDSyAK2N8Mbzogly"

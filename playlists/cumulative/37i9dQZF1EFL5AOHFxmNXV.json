@@ -108,6 +108,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152480,
+      "name": "ANOTHER DAY",
+      "url": "https://open.spotify.com/track/0iBHHUX6baFfDCs5cQzv5I"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
@@ -118,7 +136,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 152480,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1"
@@ -170,6 +188,28 @@
     {
       "album": {
         "name": "Say Less",
+        "url": "https://open.spotify.com/album/4bRMfuFdRrWtWWMO83ynIP"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268778,
+      "name": "Back It Up (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/2ZBwIJ5gb4UWTEVCtLMdhL"
+    },
+    {
+      "album": {
+        "name": "Say Less",
         "url": "https://open.spotify.com/album/2VLY0KLCsRkanyaL5PSruh"
       },
       "artists": [
@@ -184,10 +224,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 268778,
       "name": "Back It Up (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/3cSiLtNuITOz1P0su5879g"
+    },
+    {
+      "album": {
+        "name": "Seven Days",
+        "url": "https://open.spotify.com/album/3mUtCDHWEkt2xWuuoSL04G"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254973,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/2KYPmNOOgFsbM4PfXgHXPx"
     },
     {
       "album": {
@@ -202,7 +260,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 254973,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/3fVyVFzbi7kY9VL4Fimtv7"
@@ -228,6 +286,28 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183219,
+      "name": "BELIEVE IT",
+      "url": "https://open.spotify.com/track/5LSKTrtqN8X787yIxv0uZt"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
       "artists": [
@@ -242,10 +322,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 183219,
       "name": "BELIEVE IT",
       "url": "https://open.spotify.com/track/6WHZvtFnceMMv08gUCHR0y"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98023,
+      "name": "Belong to the City",
+      "url": "https://open.spotify.com/track/0whmzGyFlTf0v1XHnIj38B"
     },
     {
       "album": {
@@ -260,7 +358,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 98023,
       "name": "Belong to the City",
       "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
@@ -278,10 +376,50 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 233534,
       "name": "Best Friends",
       "url": "https://open.spotify.com/track/2lEjmqSFVf2glZYoBElynZ"
+    },
+    {
+      "album": {
+        "name": "Seven Days",
+        "url": "https://open.spotify.com/album/3mUtCDHWEkt2xWuuoSL04G"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233534,
+      "name": "Best Friends",
+      "url": "https://open.spotify.com/track/3bmQ6j9cPcAK85lHLcbdnN"
+    },
+    {
+      "album": {
+        "name": "Seven Days",
+        "url": "https://open.spotify.com/album/3mUtCDHWEkt2xWuuoSL04G"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277243,
+      "name": "Better Man (feat. Rick Ross)",
+      "url": "https://open.spotify.com/track/6AMy2skuSKYIGNcBwededf"
     },
     {
       "album": {
@@ -300,7 +438,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 277243,
       "name": "Better Man (feat. Rick Ross)",
       "url": "https://open.spotify.com/track/6Oj8Uf2qnCNDEIJNOuQbLc"
@@ -336,10 +474,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 205057,
       "name": "Bout It",
       "url": "https://open.spotify.com/track/2wgiJddOedrZCNyeV1vBuF"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205057,
+      "name": "Bout It",
+      "url": "https://open.spotify.com/track/5ZftRgYMMp14rXZ4Sapa6Y"
     },
     {
       "album": {
@@ -460,10 +616,36 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 210489,
       "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
       "url": "https://open.spotify.com/track/3PIRRhdrbPdwXXXQmZgjMn"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/5P77VD130ZXNaWgHvXWOvd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210489,
+      "name": "BUZZIN' (feat. Lil Yachty & Murda Beatz)",
+      "url": "https://open.spotify.com/track/0qAYYDHudFP1xzunwEAeU5"
     },
     {
       "album": {
@@ -548,6 +730,28 @@
     {
       "album": {
         "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/5P77VD130ZXNaWgHvXWOvd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171970,
+      "name": "CANDY (feat. Nipsey Hussle)",
+      "url": "https://open.spotify.com/track/2YR3cBqGiJbz6AbqHc1V0R"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
       "artists": [
@@ -562,7 +766,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 171970,
       "name": "CANDY (feat. Nipsey Hussle)",
       "url": "https://open.spotify.com/track/4bLzLU8wDul8hV1YNEBekn"
@@ -728,6 +932,28 @@
     {
       "album": {
         "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/5P77VD130ZXNaWgHvXWOvd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115666,
+      "name": "CUFFED UP (feat. Quavo)",
+      "url": "https://open.spotify.com/track/16Iws3A39UjWr72wQ9nZvJ"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
       "artists": [
@@ -742,7 +968,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 115666,
       "name": "CUFFED UP (feat. Quavo)",
       "url": "https://open.spotify.com/track/1Fvwwdc1OMPXXelzEot3mk"
@@ -764,10 +990,32 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 213348,
       "name": "Damage",
       "url": "https://open.spotify.com/track/0GYSkimHYYaiL2AE9dz9Dl"
+    },
+    {
+      "album": {
+        "name": "Seven Days",
+        "url": "https://open.spotify.com/album/3mUtCDHWEkt2xWuuoSL04G"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213348,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/2jkevHvlZdWHjVydFXgNDC"
     },
     {
       "album": {
@@ -920,10 +1168,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 221946,
       "name": "Don't Choose",
       "url": "https://open.spotify.com/track/0xSjn8x3Tj9fathvZvH8Yk"
+    },
+    {
+      "album": {
+        "name": "Morning After",
+        "url": "https://open.spotify.com/album/3JjsHMfcqPhFLlQcUixxmj"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221946,
+      "name": "Don't Choose",
+      "url": "https://open.spotify.com/track/6rBBW45N1fS2DB1a8fBEGz"
     },
     {
       "album": {
@@ -938,10 +1204,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 235391,
       "name": "DON'T DO IT FOR YOU NO MORE",
       "url": "https://open.spotify.com/track/2Tm4VevGfmqUUA5W0Ef0sf"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/5P77VD130ZXNaWgHvXWOvd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235391,
+      "name": "DON'T DO IT FOR YOU NO MORE",
+      "url": "https://open.spotify.com/track/6PMxIF3TIaKcErYNAIhKFE"
     },
     {
       "album": {
@@ -1018,6 +1302,28 @@
     {
       "album": {
         "name": "COLOURS",
+        "url": "https://open.spotify.com/album/67nioH65ESfHdXoOg5XQ3o"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Ca$h Out",
+          "url": "https://open.spotify.com/artist/7Kp7SzuRuNiPFCy7JIwnLx"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237714,
+      "name": "DON'T WORRY (feat. Ca$h Out)",
+      "url": "https://open.spotify.com/track/1Nov7SKIHxWuyCWEOE3K5s"
+    },
+    {
+      "album": {
+        "name": "COLOURS",
         "url": "https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz"
       },
       "artists": [
@@ -1032,7 +1338,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 237714,
       "name": "DON'T WORRY (feat. Ca$h Out)",
       "url": "https://open.spotify.com/track/7qp97g3hDgmUPKAVJG7O1v"
@@ -1114,6 +1420,24 @@
     {
       "album": {
         "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172943,
+      "name": "East Liberty",
+      "url": "https://open.spotify.com/track/1yUALQ2qidOKKCpxKnHKHK"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
         "url": "https://open.spotify.com/album/52SPzTxOUOS996NCHoGN0r"
       },
       "artists": [
@@ -1124,7 +1448,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 172943,
       "name": "East Liberty",
       "url": "https://open.spotify.com/track/2nOTvYKyk51OSs90GvMgLW"
@@ -1212,6 +1536,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212780,
+      "name": "EYE ON IT",
+      "url": "https://open.spotify.com/track/146UjHtpdTeJH86EBkf1cY"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
@@ -1222,7 +1564,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 212780,
       "name": "EYE ON IT",
       "url": "https://open.spotify.com/track/6N994zHEhtefaMp0mIuMrK"
@@ -1334,10 +1676,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 272339,
       "name": "FREAK IN YOU",
       "url": "https://open.spotify.com/track/0jhodoJFvVnpQ6Ify39lJQ"
+    },
+    {
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/67nioH65ESfHdXoOg5XQ3o"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272339,
+      "name": "FREAK IN YOU",
+      "url": "https://open.spotify.com/track/4LqT5i4FRFGHL0KcqMwEQM"
     },
     {
       "album": {
@@ -1356,10 +1716,32 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 187998,
       "name": "Friends (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/48yghmFphEYBqEUReolP8J"
+    },
+    {
+      "album": {
+        "name": "A Muse In Her Feelings",
+        "url": "https://open.spotify.com/album/3JhXz0ke6lknyqXKkJ2vYN"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187998,
+      "name": "Friends (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/7izY4suDRRJHN8gIajs7v5"
     },
     {
       "album": {
@@ -1436,10 +1818,28 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 295977,
       "name": "FWU",
       "url": "https://open.spotify.com/track/0kd5HwOvSdUsdVQMkEYZk6"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295977,
+      "name": "FWU",
+      "url": "https://open.spotify.com/track/2mwTT8QRJ9tQ7Ncf41Edeo"
     },
     {
       "album": {
@@ -1476,10 +1876,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 277018,
       "name": "GIRL FROM OAKLAND",
       "url": "https://open.spotify.com/track/4boBDGtJWGiWUosp2JVEVy"
+    },
+    {
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/67nioH65ESfHdXoOg5XQ3o"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277018,
+      "name": "GIRL FROM OAKLAND",
+      "url": "https://open.spotify.com/track/6lhJbuNVfyQM8WwZCGixZP"
     },
     {
       "album": {
@@ -1578,10 +1996,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 205995,
       "name": "Grown Woman",
       "url": "https://open.spotify.com/track/0l1eHXBH9pNSW6MVQFTK1z"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205995,
+      "name": "Grown Woman",
+      "url": "https://open.spotify.com/track/4U3dF5NAqRiGaCcGlTzGCQ"
     },
     {
       "album": {
@@ -1632,10 +2068,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 216630,
       "name": "Her Way",
       "url": "https://open.spotify.com/track/3JEJwjqLkg2Jbau5922CAb"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216630,
+      "name": "Her Way",
+      "url": "https://open.spotify.com/track/3kxiadKXI0pWk5fdoJ3BVr"
     },
     {
       "album": {
@@ -1748,10 +2202,32 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 261002,
       "name": "JUS KNOW (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/1pg2gguxmrrD4rYUeRSmGj"
+    },
+    {
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/67nioH65ESfHdXoOg5XQ3o"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261003,
+      "name": "JUS KNOW (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/4gOGf4PpLujHIFJ6Rphgvb"
     },
     {
       "album": {
@@ -1788,10 +2264,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 284346,
       "name": "Keep Calm",
       "url": "https://open.spotify.com/track/37AewLBJI8PXeDltljfIMs"
+    },
+    {
+      "album": {
+        "name": "Morning After",
+        "url": "https://open.spotify.com/album/3JjsHMfcqPhFLlQcUixxmj"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284346,
+      "name": "Keep Calm",
+      "url": "https://open.spotify.com/track/64kpcuspIPDNw3gJLWtCTF"
     },
     {
       "album": {
@@ -1882,10 +2376,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 224014,
       "name": "LET'S GET MARRIED",
       "url": "https://open.spotify.com/track/01TaTQJrnJmq0cpufjcJV0"
+    },
+    {
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/67nioH65ESfHdXoOg5XQ3o"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224014,
+      "name": "LET'S GET MARRIED",
+      "url": "https://open.spotify.com/track/2VPxXm1shOdtD0hxvYKO4T"
     },
     {
       "album": {
@@ -1936,10 +2448,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 198558,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/0tq66loaJTREh2wYnShVL9"
+    },
+    {
+      "album": {
+        "name": "Seven Days",
+        "url": "https://open.spotify.com/album/3mUtCDHWEkt2xWuuoSL04G"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198558,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/7wOBGcYknhm61RIz7obnT9"
     },
     {
       "album": {
@@ -1966,6 +2496,24 @@
     {
       "album": {
         "name": "COLOURS",
+        "url": "https://open.spotify.com/album/67nioH65ESfHdXoOg5XQ3o"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271708,
+      "name": "LOW BATTERY",
+      "url": "https://open.spotify.com/track/1UYF4kjmVv3znBlZQf2Frj"
+    },
+    {
+      "album": {
+        "name": "COLOURS",
         "url": "https://open.spotify.com/album/52a6XWxLVhW59OlLbEuw1I"
       },
       "artists": [
@@ -1976,10 +2524,36 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 271708,
       "name": "LOW BATTERY",
       "url": "https://open.spotify.com/track/4UQb597FrhjRClMkUldWmm"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281119,
+      "name": "LOYAL (feat. Drake and Bad Bunny) - Remix",
+      "url": "https://open.spotify.com/track/6Z7hDgM9iN3Hu86ZX4HauB"
     },
     {
       "album": {
@@ -2002,10 +2576,32 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 281119,
       "name": "LOYAL (feat. Drake and Bad Bunny) - Remix",
       "url": "https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "LOYAL (feat. Drake)",
+      "url": "https://open.spotify.com/track/03ns6rzMoBHt91L4HIi3BX"
     },
     {
       "album": {
@@ -2024,7 +2620,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 197973,
       "name": "LOYAL (feat. Drake)",
       "url": "https://open.spotify.com/track/2rFqkDRJlumT7QjljlldlR"
@@ -2224,10 +2820,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 203324,
       "name": "Muse",
       "url": "https://open.spotify.com/track/1tALmYRIRErjPRxisWWf3P"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203324,
+      "name": "Muse",
+      "url": "https://open.spotify.com/track/46mtGZBquYoQ0obiySkLdO"
     },
     {
       "album": {
@@ -2312,6 +2926,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232549,
+      "name": "NEVER AGAIN",
+      "url": "https://open.spotify.com/track/2eOzfdoWRG0y1kwEgfJ70U"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
       "artists": [
@@ -2322,10 +2954,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 232549,
       "name": "NEVER AGAIN",
       "url": "https://open.spotify.com/track/4WSzt0Tdm6ziMxwfadYQk5"
+    },
+    {
+      "album": {
+        "name": "Seven Days",
+        "url": "https://open.spotify.com/album/3mUtCDHWEkt2xWuuoSL04G"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249557,
+      "name": "Never Played Me",
+      "url": "https://open.spotify.com/track/0j7HtOC4Iniq3DXiZpQbp1"
     },
     {
       "album": {
@@ -2340,7 +2990,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 249557,
       "name": "Never Played Me",
       "url": "https://open.spotify.com/track/4GjUOTIHuiEVHC1kZraZ0H"
@@ -2540,6 +3190,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208789,
+      "name": "NOTHING LESS",
+      "url": "https://open.spotify.com/track/07wQOvUrGeUtak35xGErIj"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
@@ -2550,7 +3218,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 208789,
       "name": "NOTHING LESS",
       "url": "https://open.spotify.com/track/5AONS2YjYFpZ6UZ8qiL4le"
@@ -2646,6 +3314,28 @@
     {
       "album": {
         "name": "The Space Between",
+        "url": "https://open.spotify.com/album/6KTCgvjhx37ytGnmRu2flX"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212546,
+      "name": "One I Want (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/0nsPX9tXf3zugrHRGquQvg"
+    },
+    {
+      "album": {
+        "name": "The Space Between",
         "url": "https://open.spotify.com/album/6tHcEzChizk2IXd5Kxl5hs"
       },
       "artists": [
@@ -2660,7 +3350,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 212546,
       "name": "One I Want (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/5MuhncU8rh6xe894EKjX2P"
@@ -2714,10 +3404,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 272269,
       "name": "Options",
       "url": "https://open.spotify.com/track/2G7r3ueCCNEBkAgqOR9Jwq"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272269,
+      "name": "Options",
+      "url": "https://open.spotify.com/track/6GZvUqV4zYAtHnM4In4wHv"
     },
     {
       "album": {
@@ -2754,10 +3462,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 303030,
       "name": "PEACE OF MIND",
       "url": "https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe"
+    },
+    {
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/67nioH65ESfHdXoOg5XQ3o"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303030,
+      "name": "PEACE OF MIND",
+      "url": "https://open.spotify.com/track/60PMPa7LDjktH7proDoGRX"
     },
     {
       "album": {
@@ -2772,10 +3498,46 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 174306,
       "name": "PERSIAN RUGS",
       "url": "https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/5P77VD130ZXNaWgHvXWOvd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174306,
+      "name": "PERSIAN RUGS",
+      "url": "https://open.spotify.com/track/6OcmKBMHWjHzuGgGtqRmnN"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193328,
+      "name": "PGT",
+      "url": "https://open.spotify.com/track/0NH5NG6uyAht6S2ioXb1sb"
     },
     {
       "album": {
@@ -2790,7 +3552,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 193328,
       "name": "PGT",
       "url": "https://open.spotify.com/track/0oXy3jfrkWlhw3Kklndyhn"
@@ -3002,6 +3764,28 @@
     {
       "album": {
         "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311197,
+      "name": "Recognize (feat. Drake)",
+      "url": "https://open.spotify.com/track/01kX7rwS8XO6XguNfluyWA"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
         "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
       },
       "artists": [
@@ -3016,7 +3800,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 311197,
       "name": "Recognize (feat. Drake)",
       "url": "https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN"
@@ -3052,10 +3836,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 211914,
       "name": "RENDEZVOUS",
       "url": "https://open.spotify.com/track/29gr7TvSkeD5uBQbSTax1m"
+    },
+    {
+      "album": {
+        "name": "COLOURS",
+        "url": "https://open.spotify.com/album/67nioH65ESfHdXoOg5XQ3o"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211914,
+      "name": "RENDEZVOUS",
+      "url": "https://open.spotify.com/track/5GDD1MKsaLB6RexMl0zZ1p"
     },
     {
       "album": {
@@ -3232,6 +4034,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376061,
+      "name": "SAVAGE ANTHEM",
+      "url": "https://open.spotify.com/track/1Pz2tj1ViKvXWNlJylJvDy"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
       "artists": [
@@ -3242,7 +4062,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 376061,
       "name": "SAVAGE ANTHEM",
       "url": "https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76"
@@ -3304,10 +4124,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 229776,
       "name": "Sex on the Beach",
       "url": "https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229776,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1dN2FkOmwWrmV5bnvpwc91"
     },
     {
       "album": {
@@ -3392,6 +4230,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286781,
+      "name": "SHOWING YOU",
+      "url": "https://open.spotify.com/track/4jDJLw5AWgszbZ3ble6vL3"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
@@ -3402,7 +4258,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 286781,
       "name": "SHOWING YOU",
       "url": "https://open.spotify.com/track/6a5vE6GHrLSyqbbojVH1iy"
@@ -3442,10 +4298,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 217664,
       "name": "SLS",
       "url": "https://open.spotify.com/track/25dkE02OyBv99coHH9lZL1"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217664,
+      "name": "SLS",
+      "url": "https://open.spotify.com/track/3ho0uNDLIH3ldqsEvDK90D"
     },
     {
       "album": {
@@ -3596,6 +4470,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186339,
+      "name": "SPLIT DECISION",
+      "url": "https://open.spotify.com/track/5iKH20pL2a9Vu3jpIfcPwM"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a"
       },
       "artists": [
@@ -3606,7 +4498,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 186339,
       "name": "SPLIT DECISION",
       "url": "https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt"
@@ -3774,6 +4666,24 @@
     {
       "album": {
         "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267384,
+      "name": "THE NEWS",
+      "url": "https://open.spotify.com/track/2B37rxRHaZuLf1OuNu0bgK"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
         "url": "https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16"
       },
       "artists": [
@@ -3784,7 +4694,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 267384,
       "name": "THE NEWS",
       "url": "https://open.spotify.com/track/4SINLKyKC7s6RAWKGB7mMt"
@@ -3802,10 +4712,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 281893,
       "name": "The Right Way",
       "url": "https://open.spotify.com/track/73Gwvrhm0HmltoFoLgQqcs"
+    },
+    {
+      "album": {
+        "name": "Seven Days",
+        "url": "https://open.spotify.com/album/3mUtCDHWEkt2xWuuoSL04G"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281893,
+      "name": "The Right Way",
+      "url": "https://open.spotify.com/track/7BahisT2p5GUeICfr7AXII"
     },
     {
       "album": {
@@ -3820,10 +4748,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 237539,
       "name": "THINGS & SUCH",
       "url": "https://open.spotify.com/track/4Hv8QuMQfG7e6GWOWcXYKk"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/5P77VD130ZXNaWgHvXWOvd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237539,
+      "name": "THINGS & SUCH",
+      "url": "https://open.spotify.com/track/68S0IOeTv4HUMhNuJL1XNU"
     },
     {
       "album": {
@@ -3838,10 +4784,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 301895,
       "name": "Thirsty",
       "url": "https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/11sziv4CtA3MrrMv5Q1TTA"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301895,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/38AK2LDCRhFhnn3SJW0LkG"
     },
     {
       "album": {
@@ -3856,10 +4820,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 226800,
       "name": "TOUCH ME",
       "url": "https://open.spotify.com/track/0ynB9ywLFT4EDFO1gOz0p3"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226800,
+      "name": "TOUCH ME",
+      "url": "https://open.spotify.com/track/3HE0qnw60B0KOKYmI6iNVZ"
     },
     {
       "album": {
@@ -3910,10 +4892,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 170858,
       "name": "TRAUMA",
       "url": "https://open.spotify.com/track/1EwY5MatBtBEnHeyAFT8kP"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170858,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/20653Ruox3oSYU9KOlTfLg"
     },
     {
       "album": {
@@ -3946,10 +4946,28 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 208762,
       "name": "TURN UP",
       "url": "https://open.spotify.com/track/0hzAYGvbeMwW5O6n1w9zNq"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208762,
+      "name": "TURN UP",
+      "url": "https://open.spotify.com/track/2OsrEaBGJjORvRwLzvnSDy"
     },
     {
       "album": {
@@ -3972,10 +4990,36 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 259651,
       "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/27g5G3TW90FSm3YxclYpAs"
+    },
+    {
+      "album": {
+        "name": "FIXTAPE",
+        "url": "https://open.spotify.com/album/5yhTqjbAzL3QjWcJ7FD2Za"
+      },
+      "artists": [
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259651,
+      "name": "TWIST & TURN (feat. Drake & PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/3K9SEwkE7WJQjCXU5uTdj9"
     },
     {
       "album": {
@@ -4064,6 +5108,24 @@
     {
       "album": {
         "name": "PARTYPACK",
+        "url": "https://open.spotify.com/album/5P77VD130ZXNaWgHvXWOvd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303628,
+      "name": "WEST DISTRICT",
+      "url": "https://open.spotify.com/track/0NG9ybMT7mNmalvGAxcUZL"
+    },
+    {
+      "album": {
+        "name": "PARTYPACK",
         "url": "https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh"
       },
       "artists": [
@@ -4074,7 +5136,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 303628,
       "name": "WEST DISTRICT",
       "url": "https://open.spotify.com/track/4louS1zw5coBPLDyJLD5Sm"

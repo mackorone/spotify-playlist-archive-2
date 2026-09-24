@@ -88,10 +88,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 178562,
       "name": "Belly of the Beast",
       "url": "https://open.spotify.com/track/1OGAPgVLjy4bcGRfCdixWL"
+    },
+    {
+      "album": {
+        "name": "Belly of the Beast",
+        "url": "https://open.spotify.com/album/0bQFcQM81IPVMEVUd8w2vt"
+      },
+      "artists": [
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178562,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/4QojrdgoUb3illlBBhCvl8"
     },
     {
       "album": {
@@ -664,6 +682,24 @@
     {
       "album": {
         "name": "Professor X",
+        "url": "https://open.spotify.com/album/4xofmxMaxKG01FRQABxP6y"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217704,
+      "name": "Professor X",
+      "url": "https://open.spotify.com/track/3xMEFtDh2TNm949OgKMXPb"
+    },
+    {
+      "album": {
+        "name": "Professor X",
         "url": "https://open.spotify.com/album/4sHMUXmWtysmNCuPIDhtS1"
       },
       "artists": [
@@ -674,7 +710,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 217704,
       "name": "Professor X",
       "url": "https://open.spotify.com/track/47lPVbZUh9547oTjx6J4ZV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,116,945 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,116,873 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3387IZmjNa.md) - [plain]
 | 6 | [Love You Down](https://open.spotify.com/track/07EFFIiQf5pLTbAvwWocsH) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [KIARI](https://open.spotify.com/album/2hHTG0xjC0wzHO8CJozddr) | 3:12 |
 | 7 | [Body Dangerous](https://open.spotify.com/track/2E0i6a505azpLGarDsNMv7) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax) | [Body Dangerous](https://open.spotify.com/album/57FC6ySq2MsiL8i7C9quKF) | 1:44 |
 | 8 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
-| 9 | [Need Your Love \(feat\. JMSN\)](https://open.spotify.com/track/0XZOXaYQfJj0nMF0DQPL5Q) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [JMSN](https://open.spotify.com/artist/0rBqWViEFYIIW5X49IfRl3) | [No Rest for The Wicked](https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL) | 3:08 |
+| 9 | [Need Your Love \(feat\. JMSN\)](https://open.spotify.com/track/0XZOXaYQfJj0nMF0DQPL5Q) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [No Rest for The Wicked](https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL) | 3:08 |
 | 10 | [wgft \(feat\. Burna Boy\)](https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [The Last Wun](https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w) | 3:04 |
 | 11 | [Dont You Know](https://open.spotify.com/track/7kBpCEmqLrRFQ4OGXn4rT3) | [Runway Richy](https://open.spotify.com/artist/4pxxExWqKTzAroozOV3bCl), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Dont You Know](https://open.spotify.com/album/7GO9gaB8qohpGp0ngJdPCf) | 3:20 |
 | 12 | [What You On \(Remix\)](https://open.spotify.com/track/26U9PA7x5UD5Nbs1JIntU3) | [Derez De’Shon](https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [I'm Not Ok But..\. \(Deluxe Version\)](https://open.spotify.com/album/1rIRxUTIWyqiRq2O12YgEv) | 2:53 |

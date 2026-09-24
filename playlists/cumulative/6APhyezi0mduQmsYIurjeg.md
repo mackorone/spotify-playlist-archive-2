@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-606 songs - 1 day 12 hr 43 min
+609 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(You Make Me Feel Like\) a Natural Woman](https://open.spotify.com/track/5LtrxQp3PyGoArlj3A6e0V) | [Companhia da Música](https://open.spotify.com/artist/0ssB1qf1ATFwpRWDkZZFmr) | [20](https://open.spotify.com/album/6t01iFld3K2PUfxwc6X1bD) | 3:29 | 2023-01-10 |  |
 | [1000](https://open.spotify.com/track/0GvRrODCK9IOLGSTtBpa2e) | [romeo lowercase](https://open.spotify.com/artist/3sQ2cEmJTO9mgmkjSAWptH) | [1000](https://open.spotify.com/album/2PFh9IL2F1pF8LxS8AquAh) | 3:13 | 2025-01-07 |  |
 | [1969](https://open.spotify.com/track/6Qab6S5q4yUxgRdXkZa0xr) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [1969 \(Remastered 2024\)](https://open.spotify.com/album/514Bco4YigBzdv8bAk9kHP) | 3:30 | 2024-12-24 |  |
+| [1ne](https://open.spotify.com/track/4GbahnbbVLTfUcHnFurgkS) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP) | [Songs of Repetition](https://open.spotify.com/album/7gnvkbbUp2aazXJg53fB6L) | 4:11 | 2026-09-23 |  |
 | [2do Viaje](https://open.spotify.com/track/25djH1btNHSWHLsbgFBFov) | [El viaje de la vieja](https://open.spotify.com/artist/28CwZaIjKtZ3GSdjt0PDxe) | [2do Viaje](https://open.spotify.com/album/1Kdktvltlmz9s0kF1xZJyA) | 5:54 | 2024-03-01 |  |
 | [4wd](https://open.spotify.com/track/4RANy9uIB9kJ16JB45uRT5) | [Tricia Ann Band](https://open.spotify.com/artist/0yoFOKSX6lL2lPSxPiMpIO) | [Drunk & Found](https://open.spotify.com/album/76448blzoa2GmYMpdK2P78) | 3:46 | 2024-10-25 |  |
 | [90 Seconds To Midnight](https://open.spotify.com/track/2AiR5oaCmZX5pEQwZda4IY) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [90 Seconds To Midnight](https://open.spotify.com/album/2rzgXrtLDm0MSy1xCns9yV) | 2:36 | 2025-03-26 |  |
@@ -474,6 +475,7 @@
 | [Solo para vos](https://open.spotify.com/track/4xu8cqEefXP9QyePyOgply) | [Rama y Los Siderales](https://open.spotify.com/artist/2SvG79PPN5KlU8HjyZLX3J) | [El espejo](https://open.spotify.com/album/08hjzjqQzzA4WdOLQWbHbM) | 3:03 | 2023-03-08 |  |
 | [Somebody Told Me](https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:17 | 2023-01-10 |  |
 | [Someday](https://open.spotify.com/track/25LRAkKQJ45sYTCwiMIYsD) | [NRY](https://open.spotify.com/artist/0oltrqptFV7K41OUdJOO1Z) | [Someday](https://open.spotify.com/album/1OG8ZIMIu0en3j2RiRiyaj) | 4:02 | 2024-11-18 |  |
+| [Somente Nós](https://open.spotify.com/track/3f1fI7LddAaiR1fpPvHqz2) | [Ricardo Meirelles](https://open.spotify.com/artist/0OthpXRGUAXaehO7u2IWOs) | [Somente Nós](https://open.spotify.com/album/43aprloy5dUhjUOLCJZars) | 2:32 | 2026-09-23 |  |
 | [Someone](https://open.spotify.com/track/2f73kinXdRlLhCjjza6aUe) | [DJ Connery](https://open.spotify.com/artist/4hqpFbarG3QRQHWu5PE1au) | [Someone](https://open.spotify.com/album/76vWBdmlbLoYJrrKPAvbEp) | 4:45 | 2023-06-05 |  |
 | [Sonhos](https://open.spotify.com/track/6n29pyr60vCAYfmC2zOtG9) | [Felipe Roth](https://open.spotify.com/artist/4fLMGUYffJu0m5W20zKMqh) | [Sonhos](https://open.spotify.com/album/5gSQFIfc5idSlVthV8PMQc) | 2:37 | 2025-11-03 |  |
 | [Sotiras \(feat\. Finnip\)](https://open.spotify.com/track/0Lr87WOxOkddammYPRANZT) | [LEVEREVE](https://open.spotify.com/artist/3PCqb3zsCW7PEBqW3i3Lgs), [Finnip](https://open.spotify.com/artist/3sOYw32GgXNiWDonhkrlgC) | [Sotiras \(feat\. Finnip\)](https://open.spotify.com/album/5D54dCFVucHXphJrqIYAnZ) | 3:32 | 2023-12-12 |  |
@@ -586,6 +588,7 @@
 | [Which Way To Go](https://open.spotify.com/track/6p7KGAh7XEP68BgaIYx7f6) | [HKH](https://open.spotify.com/artist/1VlSCVqiUQUbHyuYTtTMih) | [Which Way To Go](https://open.spotify.com/album/0cwRfXqS7gBZ1VidLNyF94) | 2:21 | 2025-02-03 |  |
 | [Whisky con Helado](https://open.spotify.com/track/6NvqFY6VW75LiYXtjfW2nr) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Fanático del Rock And Roll \(EP\)](https://open.spotify.com/album/2J7JqF5ceI5PvTMz8JYqJ3) | 2:47 | 2026-09-01 |  |
 | [Why](https://open.spotify.com/track/72EtiNkMgm3hgnByvlQBC6) | [Kyle Cruse](https://open.spotify.com/artist/6eHyafvY87Av9HbXTC4RnJ) | [All I Am](https://open.spotify.com/album/6CXUFc5U9Zfi0OlmxEEQoH) | 4:38 | 2025-02-19 |  |
+| [Wild Side](https://open.spotify.com/track/2IX9CFrzyidHU7lfWgaaKu) | [James A Davis](https://open.spotify.com/artist/2jtU4md0ZpRPWY4FMXCc3i), [Lenox Sterling](https://open.spotify.com/artist/1oBsWghz3IZnF8aU138aLx) | [No Limit](https://open.spotify.com/album/4eq1reuHF7j7ZsSN8Qs1Rz) | 4:07 | 2026-09-23 |  |
 | [Will Of The People](https://open.spotify.com/track/2xO0NhSt9kzKBbNjNVixfC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:18 | 2023-01-10 |  |
 | [WILLST MICH](https://open.spotify.com/track/4HOJH8YnxAwkQcDHD2070f) | [THOMMY LEE MILLER](https://open.spotify.com/artist/7yvwkFdCJCbrlxDNr86xjw) | [WILLST MICH](https://open.spotify.com/album/23AqlVYmfKLhLhseIRBawZ) | 3:55 | 2026-08-28 |  |
 | [Winds of Freedom](https://open.spotify.com/track/5GXQsqvEHH7V7RkCsqB6OM) | [Snake Drux](https://open.spotify.com/artist/2Sf0bzCo2Fw6aps4stsx1A) | [Winds of Freedom](https://open.spotify.com/album/4KmK9g4WJxg8TzLz4wLx7l) | 3:29 | 2024-11-18 |  |

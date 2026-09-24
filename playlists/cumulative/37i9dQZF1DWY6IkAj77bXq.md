@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-335 songs - 16 hr 23 min
+336 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Indigo Evening](https://open.spotify.com/track/6gBPXoHpg9B8fxMJfg4K2S) | [Avvaken](https://open.spotify.com/artist/3V4slVRtEqnIeps8KRgnRG) | [Indigo Evening](https://open.spotify.com/album/3WNzH65tlcPGZsrDK9XyZ5) | 3:04 | 2025-07-24 |  |
 | [Inertia](https://open.spotify.com/track/3gP7Pv8QFSv02Yo0ldgVKs) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Inertia](https://open.spotify.com/album/6tbIFgMLyYZ7qwajoltDqV) | 3:01 | 2022-07-05 | 2025-02-19 |
 | [Infinite Light](https://open.spotify.com/track/5EX3yrp5S1HEmfHgNjzvAS) | [Muted Horizon](https://open.spotify.com/artist/0CYMzDdl0zIA2exI09ncfs) | [Infinite Light](https://open.spotify.com/album/1VoZK1H2xdp1t2b69VkCi7) | 2:23 | 2026-02-11 |  |
-| [Intangible](https://open.spotify.com/track/6fZTcyBMlwlCc6PYzR2Odx) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Intangible](https://open.spotify.com/album/5deAB4dzBQkIZ56zsXkgSk) | 3:04 | 2026-07-03 |  |
+| [Intangible](https://open.spotify.com/track/6fZTcyBMlwlCc6PYzR2Odx) | [salotto](https://open.spotify.com/artist/6jcvuFljZSBPN4yKVY4LbE) | [Intangible](https://open.spotify.com/album/5deAB4dzBQkIZ56zsXkgSk) | 3:04 | 2026-07-03 | 2026-09-24 |
 | [Interconnectedness](https://open.spotify.com/track/5d7M78Bl9ni80Ig44x38w5) | [Indigenouz](https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7) | [Interconnectedness](https://open.spotify.com/album/1NaSRWhXzZU1rL9O0CPlQd) | 2:28 | 2026-02-11 |  |
 | [Interlock](https://open.spotify.com/track/14ipJBIU7Fmkx5XJlb7iuo) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Interlock](https://open.spotify.com/album/1GJYzCweNm3yFunjrzt29m) | 2:36 | 2025-01-14 |  |
 | [Ions](https://open.spotify.com/track/6M9leAc2lHQaUmiSrPIPxe) | [Dhyana](https://open.spotify.com/artist/2yKfZMed3FiFzC1SpsNeoX) | [Ions](https://open.spotify.com/album/23oFz7t9EwLjONf7Da4wxX) | 2:37 | 2026-02-11 |  |
@@ -294,6 +294,7 @@
 | [Somnum](https://open.spotify.com/track/0QpXIbRh2TsDxjQcdBX4of) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Somnum](https://open.spotify.com/album/08aZ6GMYcj7QPJAFFzJGHP) | 2:15 | 2025-07-24 |  |
 | [Soothe](https://open.spotify.com/track/0gfqezlNyYiXgr2FOlEWuA) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/74vs037IHVc421BMmB5yqo) | 2:51 | 2022-07-19 | 2024-04-19 |
 | [Soothe](https://open.spotify.com/track/5HUkAj1VUDNKtkt6uM45xR) | [Ever So Calm](https://open.spotify.com/artist/5UejQ2slJWcB1KMznzQ1jd) | [Soothe](https://open.spotify.com/album/4n3NUoFluygkss3dDjfEea) | 2:51 | 2022-07-19 | 2022-07-29 |
+| [Spatial](https://open.spotify.com/track/2KYErsAVxGCdxCjRdZIoY0) | [La Luce](https://open.spotify.com/artist/3GgQUiR9rcJjnnColZJFTz) | [Spatial](https://open.spotify.com/album/5A7i6u2mU0k3uvWcrNi7pZ) | 2:34 | 2026-09-14 |  |
 | [Sphere](https://open.spotify.com/track/0K2oSQOzcltOpZm8ubzNzw) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Sphere](https://open.spotify.com/album/2qKx3bzl3GaSLtf2Yv5PZn) | 2:59 | 2022-07-19 | 2025-03-13 |
 | [Spirito](https://open.spotify.com/track/1w0m3u2bG55X2g5uWl6oMI) | [Coherent Energy](https://open.spotify.com/artist/7JjVTrxF7P0Vu0pXIIwsXP) | [Spirito](https://open.spotify.com/album/5iJyI9zzYO0jBXC9Lrr8FS) | 3:07 | 2026-02-11 |  |
 | [Spiritual Connection](https://open.spotify.com/track/4tFJJqsflgibkZXlg6td2n) | [Lynx XII](https://open.spotify.com/artist/4NkftNKnmddqOOVCrSvOOa) | [Spiritual Connection](https://open.spotify.com/album/3RJ0HTus0I3m9Rtpc9Ohve) | 3:18 | 2025-07-24 |  |

@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,906 songs - 6 day 9 hr 24 min
+2,910 songs - 6 day 9 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Alucuo](https://open.spotify.com/track/5rh9XOdWdmy7cHrH0rSCix) | [Alucuo](https://open.spotify.com/artist/6Prfi240kavl9FH0KZb0VE) | [Alucuo](https://open.spotify.com/album/2egbKhpXwd3AAN8ENRn3bM) | 8:16 | 2026-02-06 | 2026-03-10 |
 | [Always About You](https://open.spotify.com/track/6xQJ2TjxNqSSYLaVxR5YDt) | [Ella Slone](https://open.spotify.com/artist/0HOQnpgbTlEjVdcgun1FdB) | [This Is Fine](https://open.spotify.com/album/5qETSdVXH2f675oThRNhfk) | 3:37 | 2026-05-08 | 2026-06-09 |
 | [Always Be Loved](https://open.spotify.com/track/1MrHwmpuSjjpDH57A3GOE2) | [Chase.G](https://open.spotify.com/artist/6LQkq8VEBAge9pfhX4jhxv) | [Always Be Loved](https://open.spotify.com/album/6yoYI7TvrYxLt01gypb6f5) | 3:09 | 2025-12-03 | 2026-01-04 |
+| [Always With You](https://open.spotify.com/track/3WWdGs5OmzGXY45UutmlsG) | [Max Hixon](https://open.spotify.com/artist/6re1c6RENl1HLndE5iiUHM) | [Always With You](https://open.spotify.com/album/6vGmdMlSASJ3AZGmVcRsdX) | 2:16 | 2026-09-23 |  |
 | [Am I Crazy](https://open.spotify.com/track/31BRk4cOPbGBzQcbQO5PlK) | [Tonwerck](https://open.spotify.com/artist/1l2WLqM42y6NaJy6pQWvtQ), [DAISY](https://open.spotify.com/artist/77FABHwp2aq6dDUH35qf1u) | [Am I Crazy](https://open.spotify.com/album/2zllFAeS8VrtGcfUKnGBX5) | 2:50 | 2026-09-22 |  |
 | [Am I Still Alive?](https://open.spotify.com/track/0KQyNlF6YHQhfStLTzbwIn) | [POLLY](https://open.spotify.com/artist/0WTzrmGqSQceCqsVcOqVD0) | [Am I Still Alive?](https://open.spotify.com/album/0ErsxCBTXPZGa8fXpcMF3c) | 2:31 | 2026-06-08 | 2026-07-10 |
 | [AM PLECAT](https://open.spotify.com/track/58F4hhdI8Pcqp7pPrnQAEr) | [sick.slick](https://open.spotify.com/artist/7q0OHkrglfb83SpN3uAJVi) | [AM PLECAT](https://open.spotify.com/album/7MZmgQWY5975uy5GUG867n) | 1:36 | 2026-02-17 | 2026-03-21 |
@@ -749,6 +750,7 @@
 | [Eternal Summer](https://open.spotify.com/track/1a0gbmQI03AKPhV5PTXtrO) | [A MAZE ING](https://open.spotify.com/artist/2fFSfjyrKI972ehst3G6lT) | [Eternal Summer](https://open.spotify.com/album/54uEILZ8M2HgodGR2xOMYo) | 2:34 | 2026-03-18 | 2026-04-19 |
 | [Ethereal](https://open.spotify.com/track/0fL9pihs58LuORCIeiksmx) | [VALORÉ](https://open.spotify.com/artist/2CLXmx11PQ9aUkXfjaSyYo) | [Ethereal](https://open.spotify.com/album/75SEdLyUVgjpUCAiSQFKId) | 2:59 | 2025-11-28 | 2025-12-31 |
 | [Euphoria](https://open.spotify.com/track/5VroSh6kn4T4jqLb2uW8T8) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Euphoria](https://open.spotify.com/album/4bbpYtywxCGQvKCviNp6X0) | 3:06 | 2025-10-04 | 2026-08-08 |
+| [EUPHORIA \- Harp Version](https://open.spotify.com/track/2ktZXmktrmCLZOPaRaU4LQ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [EUPHORIA \(Harp Version\)](https://open.spotify.com/album/7Dt78ARxeP895twZ3F7Xfd) | 2:44 | 2026-09-23 |  |
 | [Eurobear Lisbon](https://open.spotify.com/track/6ClpZ2w9khUkoQga930BME) | [Mighty Bear](https://open.spotify.com/artist/1TUOL2jShvm4a1V06HWc2h) | [Eurobear Lisbon](https://open.spotify.com/album/6J7QaD17K7IBpgpp3DaOk8) | 5:07 | 2026-05-24 | 2026-06-25 |
 | [Even](https://open.spotify.com/track/4ObIOYpqICQUZBFxmZiuFU) | [DJ Miles](https://open.spotify.com/artist/4GlTgnPHAlEzkUFMHADol3) | [Freshly Picked Tunes](https://open.spotify.com/album/0ZZlceWH2K8zsKmqmyIsKi) | 2:54 | 2026-01-06 | 2026-02-07 |
 | [Even Though It Hurts Me](https://open.spotify.com/track/3zIU9iCKhqTKF5JrNlAB1O) | [Wes D'Alelio](https://open.spotify.com/artist/7wxu3eoDdPwI9EnNRq35CR) | [Even Though It Hurts Me](https://open.spotify.com/album/2POmTHeBc6EdQ5KbLa4bvK) | 3:13 | 2026-03-25 | 2026-04-26 |
@@ -969,6 +971,7 @@
 | [GOD'S CHILD](https://open.spotify.com/track/4pq0igOKeTD0MunPuxQcHR) | [Cristian Lin](https://open.spotify.com/artist/2rse6TXemx1r7yWiop21L8) | [GOD'S CHILD](https://open.spotify.com/album/4yPoozhvZDJl49q1D8g2SO) | 3:20 | 2025-11-24 | 2025-12-25 |
 | [Going to Take You Higher](https://open.spotify.com/track/0jfVoa1bv14eIFuh4oTQ1c) | [Calypso31](https://open.spotify.com/artist/3hVlyEHOGaORtOsTQZd4ET) | [Esoteric](https://open.spotify.com/album/3DbLkDLZK7Vy2jW1ArKLy2) | 3:40 | 2025-12-04 | 2026-01-05 |
 | [Going up West](https://open.spotify.com/track/5YtVqD03kIjqXO84Bq0CDP) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Hello Everyone, How Are You?](https://open.spotify.com/album/09JQAkeCBSkbroiQIFjw3K) | 2:39 | 2026-01-23 | 2026-08-08 |
+| [Going With It](https://open.spotify.com/track/62DUA2EDrdDgzGXcIHjCQX) | [Pirita](https://open.spotify.com/artist/4VxKzR10yu0Yu2BLcWL9q2) | [Not Far Beneath the Surface](https://open.spotify.com/album/3UCxnANVhYWY7QsVm8nHoT) | 2:48 | 2026-09-23 |  |
 | [Golden Days](https://open.spotify.com/track/0ZhBFseueJltXIaGi6MaOn) | [Emmett1](https://open.spotify.com/artist/3L27EZZk7pHerigM5YoRx0), [Andres Garcete](https://open.spotify.com/artist/1FwIouNipBJUaiDrIJLyQ9) | [Golden Days](https://open.spotify.com/album/23AsHuLmt7wCIwn5RMeSx9) | 2:35 | 2026-01-06 | 2026-02-07 |
 | [Golden Hour](https://open.spotify.com/track/4Zx0XTjVGEd5CBxcFjJrCP) | [elefa](https://open.spotify.com/artist/6gthsilX3yi8gmE55ho116), [St Henri](https://open.spotify.com/artist/3e3LkLyrblZgimWqfgmZsK) | [Golden Hour](https://open.spotify.com/album/2bqNm94Rldcbm6L7QPhs36) | 3:48 | 2025-10-27 | 2025-11-29 |
 | [Golden Tears](https://open.spotify.com/track/0lGKrAxNFwJfVD6hme01Hj) | [Lena Balkin](https://open.spotify.com/artist/1TD97XfsDLJ22jHMeETXek) | [Golden Tears](https://open.spotify.com/album/0wdtBSVOCid9W14pUyFQmg) | 2:54 | 2025-11-07 | 2025-12-08 |
@@ -1285,6 +1288,7 @@
 | [Isabellas Waltz](https://open.spotify.com/track/5HimFs6lZeJriiIse7OCZ7) | [Kay Uwe Rott](https://open.spotify.com/artist/0fqKefvHnK8L7lwFi5uHcA) | [Isabellas Waltz](https://open.spotify.com/album/4jNL7ftmRS6us9pqLwJtTA) | 2:08 | 2026-06-19 | 2026-07-20 |
 | [Islands](https://open.spotify.com/track/38ASHfGwEFDfdynciDL4DI) | [ARKAD1A](https://open.spotify.com/artist/7EdtSbHEp0JDWdlbQD44nk) | [Fragments](https://open.spotify.com/album/0mxfDbg7spvCnnJWFmXw6n) | 3:22 | 2025-11-20 | 2025-12-21 |
 | [It Feels Wrong \(Aurawave Starlight Remix\)](https://open.spotify.com/track/0989fQZGrjQmV4dDb3F62X) | [Plexiphones](https://open.spotify.com/artist/2yFpazLF0TVoqwk12C49CB), [AuraWave](https://open.spotify.com/artist/52QIX1G7NJPAZaYUK08xgN) | [It Feels Wrong \(AuraWave Remix\)](https://open.spotify.com/album/0AB39Ar28AKdoCMOxFkERu) | 3:38 | 2026-04-17 | 2026-05-18 |
+| [it isn't like that](https://open.spotify.com/track/0luhYJ3XfiAswEdrsUM9sS) | [Abby Hayes](https://open.spotify.com/artist/4uq3sajRfWtL1i1mN2SZA7) | [it isn't like that](https://open.spotify.com/album/13AQAnBwzvL9I7tkgtEw4r) | 3:08 | 2026-09-23 |  |
 | [It Lasted Forever](https://open.spotify.com/track/1m77OG00Rc9So2qCo5xOap) | [N3RO](https://open.spotify.com/artist/3VH4ac2WZh76HJm6nqIPIF) | [It Lasted Forever](https://open.spotify.com/album/2VNwcps61Pbk3xlBA0dU4g) | 3:18 | 2026-09-08 |  |
 | [it might be us](https://open.spotify.com/track/0QUCU84wlF3aNyqqEvtIeg) | [Ida Elisabeth](https://open.spotify.com/artist/3sEXUMg9WvdpLcKSsn1zkZ) | [white hearts stain easily](https://open.spotify.com/album/3H6t0wm5nfjUyLq26sfBIB) | 3:16 | 2026-04-10 | 2026-05-12 |
 | [It Was All About You](https://open.spotify.com/track/3rrkYug9KGJKZKa3UdcXkC) | [Daria V](https://open.spotify.com/artist/3Pix8TB0qVGkAU1QV5sDtc) | [It Was All About You](https://open.spotify.com/album/0YPUpX3qmLHv0nl4BQxogN) | 2:11 | 2026-07-08 | 2026-08-11 |

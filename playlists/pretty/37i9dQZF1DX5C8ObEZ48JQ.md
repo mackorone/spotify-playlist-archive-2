@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw?si=faac016da8a1436c">Vuyina</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,747 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,816 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Uthando Lwam](https://open.spotify.com/track/7C5SfxYQAH2kSDuAzwdVNY) | [Vuyina](https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw) | [Uthando Lwam](https://open.spotify.com/album/1OB2AXKdMFnxDaWTZTiefL) | 3:22 |
-| 2 | [Malaika](https://open.spotify.com/track/73HnH8p7dahNXGFIaDoMTz) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [Malaika](https://open.spotify.com/album/1s8CbG03GlsaUCWHKzjHds) | 3:10 |
+| 2 | [Fool For You](https://open.spotify.com/track/4id8zQT8oUUWj5IOzq6PkT) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [LOVE me right](https://open.spotify.com/album/0iNZsNobOmDuhPeTgOpzUA) | 3:17 |
 | 3 | [Kevin Bacon](https://open.spotify.com/track/4IfYKfLnlTFuNQKUBIRnnV) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [Kevin Bacon](https://open.spotify.com/album/3pfxyDIm0KYeFpoRIqWLyY) | 2:30 |
-| 4 | [Fool For You](https://open.spotify.com/track/4id8zQT8oUUWj5IOzq6PkT) | [Kahuti](https://open.spotify.com/artist/38bmHQVnxfWk7eEez4dYJg) | [LOVE me right](https://open.spotify.com/album/0iNZsNobOmDuhPeTgOpzUA) | 3:17 |
-| 5 | [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 |
-| 6 | [WORK IT OUT](https://open.spotify.com/track/5s0bXHOz5rbMrQvmBtqh1q) | [Llumi](https://open.spotify.com/artist/2lyFzeIMo0XjLX5Av39DgJ) | [WORK IT OUT](https://open.spotify.com/album/2rle90HflR5WcfzPuevbXB) | 2:45 |
+| 4 | [Colours](https://open.spotify.com/track/5gD66CA3zM0JzVnnH0E8o9) | [ru.](https://open.spotify.com/artist/73BKSy0q1FSzZReAipLuCt) | [SILK](https://open.spotify.com/album/3MFhVFS624uJf1jj9oTeLo) | 2:28 |
+| 5 | [WORK IT OUT](https://open.spotify.com/track/5s0bXHOz5rbMrQvmBtqh1q) | [Llumi](https://open.spotify.com/artist/2lyFzeIMo0XjLX5Av39DgJ) | [WORK IT OUT](https://open.spotify.com/album/2rle90HflR5WcfzPuevbXB) | 2:45 |
+| 6 | [Don't It Feel Right](https://open.spotify.com/track/5rng6TbgMGWtegWqN1TZ4i) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Don't It Feel Right](https://open.spotify.com/album/1MhMpdN06xUws1L9PaFnf4) | 2:36 |
 | 7 | [Okunkun](https://open.spotify.com/track/2NuKovR96sB2gIsWstLmf9) | [Solana](https://open.spotify.com/artist/3l476od4bTSjScrR20hpjR), [Killertunes](https://open.spotify.com/artist/1159Tto4wlVZpA3jeqXWZv) | [Okunkun](https://open.spotify.com/album/1EkRyrYD72QVlE04YhSHAe) | 2:39 |
 | 8 | [Sitoki](https://open.spotify.com/track/6SPjg2pisSLtkSBPbdLyqj) | [Vic West](https://open.spotify.com/artist/6vxLy2Ac6bCYJMz1Y2fKaO), [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Sitoki](https://open.spotify.com/album/029aryi1fOXR3nBhcPyh5L) | 2:36 |
 | 9 | [Living Without You](https://open.spotify.com/track/1Qvf8gdxoijey2rvNtePUx) | [Tessi Nandi](https://open.spotify.com/artist/7LDVOmpX6bj3BYkD0O5jWZ), [YOSHE](https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn) | [Living Without You](https://open.spotify.com/album/0aJqinoyriKs45Ycx4hm8C) | 3:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Nipende](https://open.spotify.com/track/1E7zvR5rjAQ8iXUzusdjZl) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 5:15 |
 | 50 | [Kunsi](https://open.spotify.com/track/1xzH5d9JY29iODeluAJI3c) | [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Kunsi](https://open.spotify.com/album/1vLg88ntF2JvhGajvYGJEx) | 3:16 |
 
-Snapshot ID: `AAAAAIQSnVIOPphy7sb/UdVh3pldJnhc`
+Snapshot ID: `AAAAANCyq6D+85z8r3RByloVloy+Y0wf`

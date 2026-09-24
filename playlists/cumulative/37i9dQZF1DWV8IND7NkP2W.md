@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-842 songs - 1 day 14 hr 8 min
+843 songs - 1 day 14 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [HARU](https://open.spotify.com/track/5JhwlmQCauaK3cxXXRo5wz) | [パジャマで海なんかいかない](https://open.spotify.com/artist/6FnK7XQ5Ldd4ymhgPirwac) | [HARU](https://open.spotify.com/album/5A2GCI8off7bbcyfqafcuu) | 5:11 | 2023-11-16 | 2023-12-08 |
 | [harukaze](https://open.spotify.com/track/0XflCyWk28wErpgiBPnNTK) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [harukaze](https://open.spotify.com/album/3pur6jiK9PCVKajSXvlWjJ) | 2:33 | 2023-03-02 | 2025-01-17 |
 | [Harukaze](https://open.spotify.com/track/4M9XmxpfF1QtUpZWpFwcez) | [Sorto & Nodo](https://open.spotify.com/artist/4SihmxdDSTESQsCMfk121P) | [彩雲](https://open.spotify.com/album/2da4qmcNbV330XtKdJthX5) | 6:04 | 2023-06-13 | 2023-09-29 |
-| [Havana Beach](https://open.spotify.com/track/1Lb6meLEZuActBdnBodW2u) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [Cocktail City](https://open.spotify.com/album/4BhJ5O1UzO8n7P3uPMABUj) | 2:03 | 2024-05-23 |  |
+| [Havana Beach](https://open.spotify.com/track/1Lb6meLEZuActBdnBodW2u) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1) | [Cocktail City](https://open.spotify.com/album/4BhJ5O1UzO8n7P3uPMABUj) | 2:03 | 2024-05-23 | 2026-09-24 |
 | [Heavy Rain](https://open.spotify.com/track/0D7VlZ5PRHvjGMARkvwyne) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/06Q46ZGejs53a5s5AxRC3c) | 1:38 | 2023-05-11 | 2023-05-13 |
 | [Heavy Rain](https://open.spotify.com/track/2qzsEDG9WkXgb16vUib2Of) | [Bayek](https://open.spotify.com/artist/6UydKr9YdLmI3AzEjfnKGh) | [Heavy Rain](https://open.spotify.com/album/56PaK0swCLUi1vzcxBzgGp) | 1:38 | 2023-05-11 | 2024-04-19 |
 | [Heiwa](https://open.spotify.com/track/1o3ZTQiMpqfbb9CMv4Pf9a) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Kofū III](https://open.spotify.com/album/5WSLnQVYe65yWgQ5PpPw6p) | 3:23 | 2023-11-30 | 2024-04-19 |
@@ -580,6 +580,7 @@
 | [PROUD](https://open.spotify.com/track/3zfFPrJS1wQjq323ip0SIs) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [PROUD](https://open.spotify.com/album/0OWEM09S7f09mPmYx4dCXj) | 1:58 | 2023-05-25 | 2023-11-22 |
 | [Rabbit Ears](https://open.spotify.com/track/5kuId3PuVZElryOlLUMPw0) | [ILYOCS](https://open.spotify.com/artist/2tLE9WDiPkUCssHRr4QMPU) | [Rabbit Ears](https://open.spotify.com/album/2EZTRlOA1iQiOB9ndn713I) | 2:48 | 2025-02-21 | 2025-03-12 |
 | [Railroad](https://open.spotify.com/track/7EK6RTprVGNtPYaMfKsTiP) | [Dakchi](https://open.spotify.com/artist/1YJAWgwqcfWl06Nyn3Eawa) | [Railroad](https://open.spotify.com/album/2eg6kie4NqCYI69REmQKc6) | 2:01 | 2021-12-23 | 2022-07-27 |
+| [Rain in Shibuya](https://open.spotify.com/track/4Lh2ombBUVHq1xLPzDWFXZ) | [HIDE×HIDE](https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp) | [Rain in Shibuya](https://open.spotify.com/album/3Ts6vR3FAFC4BeXJ4qzq2B) | 2:35 | 2026-09-22 |  |
 | [Rainbowtime Boy](https://open.spotify.com/track/5sA0YSGNDKCV6rf4WLMCwD) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7), [Tiny Griffi](https://open.spotify.com/artist/3s3iwtc7ZcxbC9obdM5Tc0) | [Rainbowtime Boy](https://open.spotify.com/album/5xrmWCCYOJnDQgBB2dRqF8) | 2:29 | 2023-08-31 | 2024-01-19 |
 | [Rainbowtime の少年](https://open.spotify.com/track/0xenlRTiDOY6tXRRwQYCcF) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Rainbowtime の少年](https://open.spotify.com/album/5xDJyL2yCMHRnIYtkmHLws) | 2:29 | 2023-08-31 | 2023-09-02 |
 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 | 2022-10-13 |  |

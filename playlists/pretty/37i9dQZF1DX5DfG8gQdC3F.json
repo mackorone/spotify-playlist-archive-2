@@ -1,6 +1,6 @@
 {
   "description": "The latest from Carly Rae Jepsen, GTAVI, Yeat & Drake, Miley Cyrus, ROS\u00c9, beabadoobee, Troye Sivan, Dominic Fike, and more.",
-  "num_followers": 597859,
+  "num_followers": 597823,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
@@ -131,17 +131,21 @@
     {
       "added_at": "2026-09-18 04:10:30",
       "album": {
-        "name": "Small Town",
+        "name": "Small Town (feat. Gabriel Jacoby)",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town",
+      "name": "Small Town (feat. Gabriel Jacoby)",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {

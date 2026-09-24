@@ -1,6 +1,6 @@
 {
   "description": "Las\u0103-te inspirat pe ritmuri de hip-hop & R'n'B. Cover: Alduts Sherdley",
-  "num_followers": 23638,
+  "num_followers": 23656,
   "original_name": "Suflet + Sunet",
   "owner": {
     "name": "Spotify",
@@ -515,26 +515,6 @@
     {
       "added_at": "2026-09-17 21:00:16",
       "album": {
-        "name": "TOXIC",
-        "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
-      },
-      "artists": [
-        {
-          "name": "RAVA",
-          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
-        },
-        {
-          "name": "Katarina",
-          "url": "https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0"
-        }
-      ],
-      "duration_ms": 169787,
-      "name": "TOXIC",
-      "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
-    },
-    {
-      "added_at": "2026-09-17 21:00:16",
-      "album": {
         "name": "Antidot",
         "url": "https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 166363,
       "name": "Antidot",
       "url": "https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v"
+    },
+    {
+      "added_at": "2026-09-17 21:00:16",
+      "album": {
+        "name": "TOXIC",
+        "url": "https://open.spotify.com/album/7nbbmG8UY3xKGom4pHzAvk"
+      },
+      "artists": [
+        {
+          "name": "RAVA",
+          "url": "https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6"
+        },
+        {
+          "name": "Katarina",
+          "url": "https://open.spotify.com/artist/3amBXwL0iDxRaME6BY25v0"
+        }
+      ],
+      "duration_ms": 169787,
+      "name": "TOXIC",
+      "url": "https://open.spotify.com/track/67bPAkhACf3ITaexxCodJr"
     },
     {
       "added_at": "2026-09-17 21:00:16",
@@ -783,26 +783,6 @@
     {
       "added_at": "2026-09-17 21:00:16",
       "album": {
-        "name": "FURAM CURENT",
-        "url": "https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw"
-      },
-      "artists": [
-        {
-          "name": "Satra B.E.N.Z.",
-          "url": "https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut"
-        },
-        {
-          "name": "Radu Guran",
-          "url": "https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "FURAM CURENT",
-      "url": "https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N"
-    },
-    {
-      "added_at": "2026-09-17 21:00:16",
-      "album": {
         "name": "Asta-i \u021aara Mea",
         "url": "https://open.spotify.com/album/0cfv8rktcvzj2O2WmIByeO"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 169711,
       "name": "Asta-i \u021aara Mea",
       "url": "https://open.spotify.com/track/3Itiryt0igEXRtf5KcinDC"
+    },
+    {
+      "added_at": "2026-09-17 21:00:16",
+      "album": {
+        "name": "FURAM CURENT",
+        "url": "https://open.spotify.com/album/4VhpQgUcwET6KxHrSjduQw"
+      },
+      "artists": [
+        {
+          "name": "Satra B.E.N.Z.",
+          "url": "https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut"
+        },
+        {
+          "name": "Radu Guran",
+          "url": "https://open.spotify.com/artist/11st4RhifXO2eIsaIqAMG9"
+        }
+      ],
+      "duration_ms": 211764,
+      "name": "FURAM CURENT",
+      "url": "https://open.spotify.com/track/7mIFHkXxX37Y0mtWUfHl7N"
     },
     {
       "added_at": "2026-09-17 21:00:16",

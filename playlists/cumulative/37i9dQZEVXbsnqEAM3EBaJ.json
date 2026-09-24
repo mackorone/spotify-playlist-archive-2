@@ -8265,6 +8265,24 @@
     },
     {
       "album": {
+        "name": "Better Days (Deluxe)",
+        "url": "https://open.spotify.com/album/1vUmsKkej9e51KGUHrxU9w"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224649,
+      "name": "Better Days - Asleep Version",
+      "url": "https://open.spotify.com/track/0vEd0dxnBQPTRARUrLioX9"
+    },
+    {
+      "album": {
         "name": "Better Things",
         "url": "https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth"
       },
@@ -28006,7 +28024,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 171294,
       "name": "Hell With Me (feat. Steve Aoki)",
       "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
@@ -43124,6 +43142,24 @@
       "duration_ms": 273059,
       "name": "Money Changes Everything - Live at Irvine Meadows Amphitheater, Laguna Hills, CA - 09/22/1984 - Let The Canary Sing Edit",
       "url": "https://open.spotify.com/track/2ywYZp3rMpCIwLcj5YdjH8"
+    },
+    {
+      "album": {
+        "name": "Gaudi (Sessions)",
+        "url": "https://open.spotify.com/album/7GY5t3Cr891HnkrXofQ9Pu"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268466,
+      "name": "Money Talks - Rough Mix Backing Track",
+      "url": "https://open.spotify.com/track/6T3Os68xSbfmDQtjzZnEis"
     },
     {
       "album": {
@@ -70510,7 +70546,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 253400,
       "name": "Too Late - Eric Woolfson Rough Guide Vocal",
       "url": "https://open.spotify.com/track/2XPAhHvhrXXuzcFdjdvIpi"

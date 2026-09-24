@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 542196,
+  "num_followers": 542304,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Astral Plane",
-      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
-    },
-    {
-      "added_at": "2026-09-18 04:00:55",
-      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/60JNdhZYnjqjq8AhVW9nYb"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 138986,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/5Hzr7wCSPtnlWLHzKiLMCN"
+    },
+    {
+      "added_at": "2026-09-18 04:00:55",
+      "album": {
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
+      },
+      "artists": [
+        {
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
+        }
+      ],
+      "duration_ms": 218640,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
     },
     {
       "added_at": "2026-09-18 04:00:55",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "Just Like That...",
-        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Just Like That",
-      "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
-    },
-    {
-      "added_at": "2026-09-18 04:00:55",
-      "album": {
         "name": "My Arms Were Always Around You",
         "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 200800,
       "name": "My Arms Were Always Around You",
       "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
+    },
+    {
+      "added_at": "2026-09-18 04:00:55",
+      "album": {
+        "name": "Just Like That...",
+        "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Just Like That",
+      "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
     },
     {
       "added_at": "2026-09-18 04:00:55",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "Body Break",
-        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
-      },
-      "artists": [
-        {
-          "name": "Beryl",
-          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
-        }
-      ],
-      "duration_ms": 215649,
-      "name": "If I go",
-      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
-    },
-    {
-      "added_at": "2026-09-18 04:00:55",
-      "album": {
         "name": "The Civil Wars",
         "url": "https://open.spotify.com/album/5r0Xd2wqRkTE0BqbeYlnFN"
       },
@@ -1027,18 +1011,18 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "Looking For Nothing",
-        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
+        "name": "Body Break",
+        "url": "https://open.spotify.com/album/0UhmToxL1sZ4Ld0zmbUhHi"
       },
       "artists": [
         {
-          "name": "Ella Ion",
-          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+          "name": "Beryl",
+          "url": "https://open.spotify.com/artist/6BSlVdBcQTPh8txkqgad0n"
         }
       ],
-      "duration_ms": 238000,
-      "name": "Looking For Nothing",
-      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
+      "duration_ms": 215649,
+      "name": "If I go",
+      "url": "https://open.spotify.com/track/6uTTNETm26JZlksu0KFgJu"
     },
     {
       "added_at": "2026-09-18 04:00:55",
@@ -1055,6 +1039,22 @@
       "duration_ms": 182386,
       "name": "Light That Match",
       "url": "https://open.spotify.com/track/5iiXIpA0AGJekS2sOsMBUf"
+    },
+    {
+      "added_at": "2026-09-18 04:00:55",
+      "album": {
+        "name": "Looking For Nothing",
+        "url": "https://open.spotify.com/album/1SLgrpAmfDnFTceG9C06cu"
+      },
+      "artists": [
+        {
+          "name": "Ella Ion",
+          "url": "https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Looking For Nothing",
+      "url": "https://open.spotify.com/track/33mKve3TrkTKAOsOBXv0JX"
     },
     {
       "added_at": "2026-09-18 04:00:55",
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "Fall In Love With Her",
-        "url": "https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        },
-        {
-          "name": "Taner\u00e9lle",
-          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
-        }
-      ],
-      "duration_ms": 245581,
-      "name": "Fall in Love With Her",
-      "url": "https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J"
-    },
-    {
-      "added_at": "2026-09-18 04:00:55",
-      "album": {
         "name": "caroline",
         "url": "https://open.spotify.com/album/5fPUD2TBb1DugPHDj7ylgF"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 241548,
       "name": "Good Guy - feat. Faye Webster",
       "url": "https://open.spotify.com/track/3SeFOhYky0cIaoEhf9cEs3"
+    },
+    {
+      "added_at": "2026-09-18 04:00:55",
+      "album": {
+        "name": "Fall In Love With Her",
+        "url": "https://open.spotify.com/album/5FLWW34mtPlu7S691mEQQ9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        },
+        {
+          "name": "Taner\u00e9lle",
+          "url": "https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH"
+        }
+      ],
+      "duration_ms": 245581,
+      "name": "Fall in Love With Her",
+      "url": "https://open.spotify.com/track/3qk0TOeA6WtKsLbwQC8I8J"
     },
     {
       "added_at": "2026-09-18 04:00:55",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "Silicone Heart",
-        "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
-      },
-      "artists": [
-        {
-          "name": "Deyaz",
-          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
-        }
-      ],
-      "duration_ms": 193361,
-      "name": "Silicone Heart",
-      "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
-    },
-    {
-      "added_at": "2026-09-18 04:00:55",
-      "album": {
         "name": "Half Alive",
         "url": "https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 183303,
       "name": "Half Alive",
       "url": "https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN"
+    },
+    {
+      "added_at": "2026-09-18 04:00:55",
+      "album": {
+        "name": "Silicone Heart",
+        "url": "https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR"
+      },
+      "artists": [
+        {
+          "name": "Deyaz",
+          "url": "https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc"
+        }
+      ],
+      "duration_ms": 193361,
+      "name": "Silicone Heart",
+      "url": "https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh"
     },
     {
       "added_at": "2026-09-18 04:00:55",

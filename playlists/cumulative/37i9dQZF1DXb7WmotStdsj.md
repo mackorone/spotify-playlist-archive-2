@@ -4,7 +4,7 @@
 
 > أفضل أغاني الراي
 
-249 songs - 20 hr 20 min
+250 songs - 20 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Nad El Borkan](https://open.spotify.com/track/3sphBPmMtnnJTLn49xYiT3) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Nad El Borkan](https://open.spotify.com/album/4QEMiHrd1yH0mTJEOJEpeU) | 4:16 | 2022-09-20 | 2022-12-27 |
 | [Nakareen El Khir](https://open.spotify.com/track/73dNejNw458nkrl9ZxZq36) | [Amine 31](https://open.spotify.com/artist/1FAQqzHTQMSqyDsYCzN6o9) | [Nakareen El Khir](https://open.spotify.com/album/29NpPCEDfXbrTV7Ok4zviR) | 4:58 | 2022-01-31 | 2024-09-10 |
 | [Namchi Wngoul Ça va](https://open.spotify.com/track/1py7Rjj1axmqPQtUTVELxF) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Namchi Wngoul Ça va](https://open.spotify.com/album/5KKolIb9Iibkqn0TBtyyFk) | 4:32 | 2025-11-17 |  |
-| [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 | 2023-07-27 |  |
+| [Ndamt 3Lik](https://open.spotify.com/track/5nH6y9Oz5mv1b0gfREbe1d) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM) | [Ndamt 3Lik](https://open.spotify.com/album/6dAnabX8QR4W0qrUw1GU51) | 6:03 | 2023-07-27 | 2026-09-24 |
 | [Nebghiha Fort](https://open.spotify.com/track/2wo2GyiPDb0cL9UdQN6DzD) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/0BsMS6fQ7FIgGDuHWUvLIU) | 3:04 | 2022-12-12 | 2023-12-30 |
 | [Nebghiha Fort](https://open.spotify.com/track/2sC0QU0RVCzDW4I5v3iuJN) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/5tyiGjYRULNqvmsCi7llfV) | 3:04 | 2023-12-28 | 2024-04-19 |
 | [Nebghiha Fort](https://open.spotify.com/track/0WNSvpxLKFTLamuLGNjY66) | [Bilel Tacchini](https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb) | [Nebghiha Fort](https://open.spotify.com/album/7s3899KvA2iBSLOYmYZoY6) | 3:12 | 2022-11-20 | 2024-08-06 |
@@ -184,6 +184,7 @@
 | [OMRI](https://open.spotify.com/track/08hX3lnqw1Nj2qhaNZ3dPM) | [Acim Music](https://open.spotify.com/artist/2i5v6LrS28a8RVj2e4jZCb) | [OMRI](https://open.spotify.com/album/1Wki9YbkZwOvhrAYbOtn65) | 3:02 | 2024-10-15 | 2026-01-29 |
 | [Pour Le Moment Manich Nhas](https://open.spotify.com/track/57y5tBvYYARdxgFEIKftBi) | [Cheb Rami](https://open.spotify.com/artist/7eqYQ9gRxYnCr3gQ1uarEo) | [Pour Le Moment Manich Nhas](https://open.spotify.com/album/1ap64eynUsY3uxbjK9n1Si) | 5:35 | 2025-08-13 |  |
 | [Raki Dalmetni](https://open.spotify.com/track/5ZneftpoYQtDYac23jXLQA) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Raki Dalmetni](https://open.spotify.com/album/5Wse1dL3VSYfQTnB9Z4dkq) | 4:57 | 2022-09-20 | 2023-05-26 |
+| [Raki Ghalta Nti Li Raki Ha9da Eliya](https://open.spotify.com/track/7nRFlVZ5uIkbjpbzWPYaOG) | [Cheb Momo](https://open.spotify.com/artist/2VpXlW68JAFvnfrgSq4XUa), [Yousri Oscar](https://open.spotify.com/artist/5zANHpMauAK5zIFJFOycE2) | [Raki Ghalta Nti Li Raki Ha9da Eliya](https://open.spotify.com/album/2kZixjv307vi0ZL8szji00) | 5:27 | 2026-09-23 |  |
 | [Rani Maghboun](https://open.spotify.com/track/4XYuaMdBaaMhjJRLnLT4UL) | [Hichem Smati](https://open.spotify.com/artist/4NqyeNqz4XfIeEWrXPknYJ), [Cheb Bello](https://open.spotify.com/artist/11E9GHIAzJRKuECEUSEuqh) | [Rani Maghboun](https://open.spotify.com/album/1SsVP5ORISo4tbs1SQbd8K) | 6:59 | 2023-07-18 | 2026-05-05 |
 | [Rani Nbet Hay](https://open.spotify.com/track/6Y4bRkSHNbjyUetAvix8sd) | [Cheb Djalil](https://open.spotify.com/artist/4ZzMtjQsjtaAOm3GPqmjeQ) | [Rani Nbet Hay](https://open.spotify.com/album/5PX8lRCsHDj1Q6L5RKzmoa) | 6:58 | 2023-01-06 | 2025-02-26 |
 | [Rani out](https://open.spotify.com/track/1teqXEof0gFqC8tye8xOc6) | [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2), [Raouf Samourai](https://open.spotify.com/artist/68sGJdtxTd8GgSc9oVcaIK) | [Rani out](https://open.spotify.com/album/0lPxOlFubIMhcCK4CTEBiy) | 4:32 | 2025-06-08 |  |

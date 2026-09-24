@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 13315,
+  "num_followers": 13313,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAAATR9JLAv5fCX8l37NsWmfc",
+  "snapshot_id": "arHFAAAAAAAj25JQb/hMH5QBPXabHxPl",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain (Deluxe)",
-        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 142307,
-      "name": "Agree to Disagree",
-      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RABBITHOLE",
         "url": "https://open.spotify.com/album/1gyUNc54TWzgzXtPvOdOYN"
       },
@@ -427,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watermelon Sugar (Spotify Singles)",
-        "url": "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3"
+        "name": "Scatterbrain (Deluxe)",
+        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
       },
       "artists": [
         {
@@ -436,9 +420,9 @@
           "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 129656,
-      "name": "Watermelon Sugar - Spotify Singles",
-      "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
+      "duration_ms": 142307,
+      "name": "Agree to Disagree",
+      "url": "https://open.spotify.com/track/4oD9gB11wTctdCMMzmuZWH"
     },
     {
       "added_at": null,
@@ -459,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hold On Me (feat. Emei)",
-        "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
+        "name": "Watermelon Sugar (Spotify Singles)",
+        "url": "https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3"
       },
       "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
         {
           "name": "Emei",
           "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
         }
       ],
-      "duration_ms": 149569,
-      "name": "Hold On Me (feat. Emei)",
-      "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
+      "duration_ms": 129656,
+      "name": "Watermelon Sugar - Spotify Singles",
+      "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
     },
     {
       "added_at": null,
@@ -491,6 +471,26 @@
       "duration_ms": 164525,
       "name": "THE PART",
       "url": "https://open.spotify.com/track/2RCZZqbvNR5pEORY3p8PY2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hold On Me (feat. Emei)",
+        "url": "https://open.spotify.com/album/0tMVeea5aLMQqOFGSPWwyI"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 149569,
+      "name": "Hold On Me (feat. Emei)",
+      "url": "https://open.spotify.com/track/5asMstLe5UTmy01PCdM43c"
     },
     {
       "added_at": null,

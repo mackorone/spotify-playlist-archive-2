@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 10243,
+  "num_followers": 10245,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAACfEwYYzcSdUjTfcLzTqvRe",
+  "snapshot_id": "arHFAAAAAACBcR1VjIYha7122Z5p1/RR",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 176470,
-      "name": "MEJOR SIN TI",
-      "url": "https://open.spotify.com/track/4Fur4oAdC65ki4GiIGx18b"
+      "duration_ms": 148821,
+      "name": "QUIERO QUE SEAS T\u00da",
+      "url": "https://open.spotify.com/track/17zEyidYyN0gGmJKTiEBTN"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 148821,
-      "name": "QUIERO QUE SEAS T\u00da",
-      "url": "https://open.spotify.com/track/17zEyidYyN0gGmJKTiEBTN"
+      "duration_ms": 176470,
+      "name": "MEJOR SIN TI",
+      "url": "https://open.spotify.com/track/4Fur4oAdC65ki4GiIGx18b"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
       "duration_ms": 144981,
       "name": "No Hay Soluci\u00f3n",
       "url": "https://open.spotify.com/track/7qcINxO8odH2nyLe8LR5sE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMOR DE SUBIDA",
-        "url": "https://open.spotify.com/album/4kZcBWTNaSwRSh9HFUTbsG"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "AMOR DE SUBIDA",
-      "url": "https://open.spotify.com/track/6NP5zsbDIpf6bkG7k6yXAi"
     },
     {
       "added_at": null,
@@ -395,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuelve",
+        "url": "https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp"
+      },
+      "artists": [
+        {
+          "name": "Los Del North Texas",
+          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 165949,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dulce Amargo",
         "url": "https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ"
       },
@@ -415,22 +419,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve",
-        "url": "https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp"
+        "name": "AMOR DE SUBIDA",
+        "url": "https://open.spotify.com/album/4kZcBWTNaSwRSh9HFUTbsG"
       },
       "artists": [
-        {
-          "name": "Los Del North Texas",
-          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 165949,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ"
+      "duration_ms": 243666,
+      "name": "AMOR DE SUBIDA",
+      "url": "https://open.spotify.com/track/6NP5zsbDIpf6bkG7k6yXAi"
     },
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Poes\u00edas",
+        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 125662,
+      "name": "Nuestro Final",
+      "url": "https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6AVu2TZoE7ZRNAog3BCMCm"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 170150,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/7tHbFvrWjqvfILZlRc2A6A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poes\u00edas",
-        "url": "https://open.spotify.com/album/67HdvBGwER7WCcFb1keYYg"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 125662,
-      "name": "Nuestro Final",
-      "url": "https://open.spotify.com/track/7p72E8Piay4uhAqaoPKfRu"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEGENDARIO",
-        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 173500,
-      "name": "NOCHE NEGRA",
-      "url": "https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailando (Live)",
         "url": "https://open.spotify.com/album/6Lkn484S5kgju6sHTZNkSP"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 189867,
       "name": "Bailando - Live",
       "url": "https://open.spotify.com/track/5vMpOQIbok4RhCSdQT5LSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEGENDARIO",
+        "url": "https://open.spotify.com/album/5epM8kylXYTFEm1ZyK180p"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 173500,
+      "name": "NOCHE NEGRA",
+      "url": "https://open.spotify.com/track/1KLBxcUxP6MkSyxDdbkWb3"
     },
     {
       "added_at": null,

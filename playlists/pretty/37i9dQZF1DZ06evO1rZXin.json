@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Vallarta Show. The essential tracks, all in one playlist.",
-  "num_followers": 7543,
+  "num_followers": 7544,
   "original_name": "This Is Banda Vallarta Show",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAACMSq8871dIkmKaD91Vj4BX",
+  "snapshot_id": "arHFAAAAAADzIBIO6imW/u3f95T54Vht",
   "tracks": [
     {
       "added_at": null,
@@ -547,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La V\u00edbora Peligrosa",
-        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
       },
       "artists": [
         {
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 149084,
-      "name": "La V\u00edbora Peligrosa",
-      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
+      "duration_ms": 179000,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Sierre\u00f1a",
-        "url": "https://open.spotify.com/album/2rr4e80bcGLcZvJq0ndGYP"
+        "name": "La V\u00edbora Peligrosa",
+        "url": "https://open.spotify.com/album/4BOEpDy5jrjwKmDDZ6QCss"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 160682,
-      "name": "Mi Sierre\u00f1a",
-      "url": "https://open.spotify.com/track/2hCQSPkhyxdLzIvJvgoBtx"
+      "duration_ms": 149084,
+      "name": "La V\u00edbora Peligrosa",
+      "url": "https://open.spotify.com/track/1vrvC8YI2sBhua5rG5e3q7"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
+        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
         }
       ],
-      "duration_ms": 157586,
-      "name": "Busca Amor",
-      "url": "https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi"
+      "duration_ms": 144440,
+      "name": "Insensible",
+      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
     },
     {
       "added_at": null,
@@ -655,6 +655,38 @@
       "duration_ms": 156832,
       "name": "No Sigas Llorando",
       "url": "https://open.spotify.com/track/3xPqutXnfGurimsUi02CQj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Sierre\u00f1a",
+        "url": "https://open.spotify.com/album/2rr4e80bcGLcZvJq0ndGYP"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 160682,
+      "name": "Mi Sierre\u00f1a",
+      "url": "https://open.spotify.com/track/2hCQSPkhyxdLzIvJvgoBtx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt"
+      },
+      "artists": [
+        {
+          "name": "Banda Vallarta Show",
+          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Busca Amor",
+      "url": "https://open.spotify.com/track/6Rxrnu77wkUmv5RufRc5Pi"
     },
     {
       "added_at": null,
@@ -676,7 +708,7 @@
       "added_at": null,
       "album": {
         "name": "Celebrando En Grande",
-        "url": "https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc"
+        "url": "https://open.spotify.com/album/0QreSIT65xmICsStYKQWbd"
       },
       "artists": [
         {
@@ -686,7 +718,7 @@
       ],
       "duration_ms": 137000,
       "name": "Tu Eres",
-      "url": "https://open.spotify.com/track/2j41ukCckXffKAgtyUpACd"
+      "url": "https://open.spotify.com/track/4CSjFJF3l1fBuza2sAe0yt"
     },
     {
       "added_at": null,
@@ -708,22 +740,6 @@
       "added_at": null,
       "album": {
         "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 144440,
-      "name": "Insensible",
-      "url": "https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
         "url": "https://open.spotify.com/album/46sEyNNh4luoWDdmXLGs2D"
       },
       "artists": [
@@ -735,22 +751,6 @@
       "duration_ms": 180026,
       "name": "Te Voy A Olvidar",
       "url": "https://open.spotify.com/track/7JmUqgfOHCAKcIlKLR2Sqd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homenajeando Al Divo De Juarez Juan Gabriel",
-        "url": "https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr"
-      },
-      "artists": [
-        {
-          "name": "Banda Vallarta Show",
-          "url": "https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/1nFZVvBqero0LnSsH23NAd"
     }
   ],
   "unique_name": "This Is Banda Vallarta Show",

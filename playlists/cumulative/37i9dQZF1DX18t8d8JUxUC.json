@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 191254,
       "name": "Herida",
       "url": "https://open.spotify.com/track/60tIf3rlsfe4FrQYbXx5XD"
@@ -1990,6 +1990,24 @@
       "duration_ms": 172926,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/3MKBzb0FJQB5LOhCe0s8nN"
+    },
+    {
+      "album": {
+        "name": "Me Hubieras Dicho",
+        "url": "https://open.spotify.com/album/4VJjJeu3vUU2N7Uq333dPt"
+      },
+      "artists": [
+        {
+          "name": "Billy Manhattan",
+          "url": "https://open.spotify.com/artist/1I9GlumEmT1pb0nGd36INy"
+        }
+      ],
+      "date_added": "2026-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Me Hubieras Dicho",
+      "url": "https://open.spotify.com/track/6g15x479WFxdsM4bSXfLe8"
     },
     {
       "album": {

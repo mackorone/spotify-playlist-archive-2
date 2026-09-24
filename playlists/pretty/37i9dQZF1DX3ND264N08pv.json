@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 96880,
+  "num_followers": 96895,
   "original_name": "Hardcore Rage 2026",
   "owner": {
     "name": "Spotify",
@@ -647,26 +647,18 @@
     {
       "added_at": "2026-09-21 12:00:08",
       "album": {
-        "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
-        "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
+        "name": "Midnight Rain",
+        "url": "https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO"
       },
       "artists": [
         {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        },
-        {
-          "name": "The Dark Horror",
-          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
-        },
-        {
-          "name": "The Rocketman",
-          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
         }
       ],
-      "duration_ms": 216000,
-      "name": "Una Hora M\u00e1s - Dimitri K & The Dark Horror Remix",
-      "url": "https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f"
+      "duration_ms": 224914,
+      "name": "Midnight Rain",
+      "url": "https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ"
     },
     {
       "added_at": "2026-09-21 12:00:08",
@@ -691,18 +683,26 @@
     {
       "added_at": "2026-09-21 12:00:08",
       "album": {
-        "name": "Midnight Rain",
-        "url": "https://open.spotify.com/album/1mmrfH43IiAI7uuQCqrapO"
+        "name": "Una Hora M\u00e1s (Dimitri K & The Dark Horror Remix)",
+        "url": "https://open.spotify.com/album/5dCqGrC8C7PBSNHN7j3vxL"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        },
+        {
+          "name": "The Dark Horror",
+          "url": "https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa"
+        },
+        {
+          "name": "The Rocketman",
+          "url": "https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V"
         }
       ],
-      "duration_ms": 224914,
-      "name": "Midnight Rain",
-      "url": "https://open.spotify.com/track/79oDrnQGemv6utpCywBUvJ"
+      "duration_ms": 216000,
+      "name": "Una Hora M\u00e1s - Dimitri K & The Dark Horror Remix",
+      "url": "https://open.spotify.com/track/6l6z5YY5uJCjWenk71Fm7f"
     },
     {
       "added_at": "2026-09-21 12:00:08",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-09-21 12:00:08",
       "album": {
-        "name": "Goodnight",
-        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
-      },
-      "artists": [
-        {
-          "name": "Dimitri K",
-          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
-        }
-      ],
-      "duration_ms": 205090,
-      "name": "Goodnight",
-      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
-    },
-    {
-      "added_at": "2026-09-21 12:00:08",
-      "album": {
         "name": "BEAST INSIDE ME",
         "url": "https://open.spotify.com/album/3rdnLNBB2fsRfinDMEUxlQ"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 184791,
       "name": "BEAST INSIDE ME",
       "url": "https://open.spotify.com/track/2Zvcq8xex05KRqhDbmZtZr"
+    },
+    {
+      "added_at": "2026-09-21 12:00:08",
+      "album": {
+        "name": "Goodnight",
+        "url": "https://open.spotify.com/album/16GveSDbJf9zvtmdlbSYUx"
+      },
+      "artists": [
+        {
+          "name": "Dimitri K",
+          "url": "https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E"
+        }
+      ],
+      "duration_ms": 205090,
+      "name": "Goodnight",
+      "url": "https://open.spotify.com/track/3so8QmY32Ww6y5kULcAbu3"
     },
     {
       "added_at": "2026-09-21 12:00:08",
@@ -871,26 +871,6 @@
     {
       "added_at": "2026-09-21 12:00:08",
       "album": {
-        "name": "Hit The Speakers",
-        "url": "https://open.spotify.com/album/5tzzkX9Tc6OJxQtUJCBxJN"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 205416,
-      "name": "Hit The Speakers",
-      "url": "https://open.spotify.com/track/0RbJaaZtC648PbCBgeb9Uh"
-    },
-    {
-      "added_at": "2026-09-21 12:00:08",
-      "album": {
         "name": "Run It Up",
         "url": "https://open.spotify.com/album/4lvEBITnogZ43MdFvvluZk"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 227368,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/0caWQakSM6ZfWvfOr1gMCm"
+    },
+    {
+      "added_at": "2026-09-21 12:00:08",
+      "album": {
+        "name": "Hit The Speakers",
+        "url": "https://open.spotify.com/album/5tzzkX9Tc6OJxQtUJCBxJN"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 205416,
+      "name": "Hit The Speakers",
+      "url": "https://open.spotify.com/track/0RbJaaZtC648PbCBgeb9Uh"
     },
     {
       "added_at": "2026-09-21 12:00:08",

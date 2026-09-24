@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12918,
+  "num_followers": 12920,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "XO, My Cyberlove",
-        "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
-      },
-      "artists": [
-        {
-          "name": "CHUU",
-          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "Hide & Seek",
-      "url": "https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Don't Be",
         "url": "https://open.spotify.com/album/3BUhSOUTG5ZiaCibNp4jh6"
       },
@@ -631,18 +615,38 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
-        "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
+        "name": "XO, My Cyberlove",
+        "url": "https://open.spotify.com/album/2sVppxhqMC6qFOp1Xxvy8Q"
       },
       "artists": [
         {
-          "name": "\ubc30\uc774 (NMIXX)",
-          "url": "https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo"
+          "name": "CHUU",
+          "url": "https://open.spotify.com/artist/1q86WVZhETqii5kKjEwYuB"
         }
       ],
-      "duration_ms": 244000,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn"
+      "duration_ms": 153000,
+      "name": "Hide & Seek",
+      "url": "https://open.spotify.com/track/408LwMfVi5uBH5nPOyEuWk"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Naeun",
+          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
+        }
+      ],
+      "duration_ms": 207760,
+      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
+      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -667,22 +671,18 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
-        "url": "https://open.spotify.com/album/0W7TJ6he0KuZ5medVP8rWO"
+        "name": "\uc81c4\ucc28 \uc0ac\ub791\ud601\uba85 (Original Sound Track) Pt.1",
+        "url": "https://open.spotify.com/album/1DQ3TZXKpJ6JXMcqI8bckC"
       },
       "artists": [
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        },
-        {
-          "name": "Naeun",
-          "url": "https://open.spotify.com/artist/16Jm6AxcL9XKkwOemxmbXc"
+          "name": "\ubc30\uc774 (NMIXX)",
+          "url": "https://open.spotify.com/artist/27E22J7VSc9aYvjqOGqyyo"
         }
       ],
-      "duration_ms": 207760,
-      "name": "Attraction (Bunny and Guys X Eric Nam, NAEUN)",
-      "url": "https://open.spotify.com/track/5TukPlV2eJWX7lfQAbrZGV"
+      "duration_ms": 244000,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn"
     },
     {
       "added_at": "2026-09-18 06:00:16",

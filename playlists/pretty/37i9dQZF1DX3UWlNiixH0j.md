@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: 松木美定 Bitei Matsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,526 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,564 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 33 | [E77](https://open.spotify.com/track/4TggzTb1onsiKo3S950efe) | [BYORA](https://open.spotify.com/artist/4c5rdxekZpgQaTrGrMPWZN), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [E77](https://open.spotify.com/album/5x8HD49Mcrt8AKR6N5WC8y) | 3:53 |
 | 34 | [HOME](https://open.spotify.com/track/5xHM4PGIgTQgsmL8pnErWT) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Homebound](https://open.spotify.com/album/557zpROkRL4XiDaISeCJSC) | 4:10 |
 | 35 | [I see you](https://open.spotify.com/track/5tWbkdcOuOjYLapLxeSW8a) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML), [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [I see you](https://open.spotify.com/album/1uZJ87Jh6JdDFswZgbXxft) | 4:44 |
-| 36 | [Track 2](https://open.spotify.com/track/3SVKibxr5AZrClYsIe3liA) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [衝動の肖像 / Portrait of Impulse](https://open.spotify.com/album/1jl3oP0yhujMHpyXHuEeHB) | 0:00 |
+| 36 | [Leap](https://open.spotify.com/track/3SVKibxr5AZrClYsIe3liA) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [衝動の肖像 / Portrait of Impulse](https://open.spotify.com/album/1jl3oP0yhujMHpyXHuEeHB) | 3:52 |
 | 37 | [Feelin’ Wee](https://open.spotify.com/track/6EIVSrZeRMJBAJSO52rYEg) | [Kiko Mizuhara](https://open.spotify.com/artist/7eVTIz5qapLlk7CgcFVRbL) | [Feelin’ Wee](https://open.spotify.com/album/4r5GXKiAKZfNG0gnN13wFT) | 4:09 |
 | 38 | [Voyage](https://open.spotify.com/track/1dowW8dGYDW0JxzzoWs1Kw) | [Julia Takada](https://open.spotify.com/artist/0hrH2z8pQzrUUZ8tbfRQKi) | [Voyage](https://open.spotify.com/album/0aOiy82VnInnw3Av1NptrK) | 4:14 |
 | 39 | [Let It Go](https://open.spotify.com/track/1rSFAEWgd099i8vlUqBDJl) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [祝おう](https://open.spotify.com/album/3jjyyTGRDvpOBbtjrBLFyD) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. The Nightclubs on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,108 likes - 87 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,153 likes - 75 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,17 +83,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 73 | [Angelico](https://open.spotify.com/track/4a0emwqhna7Mkp49AbtysM) | [NZIRIA](https://open.spotify.com/artist/4bt8JAxE4tksg2VBgMCvIe) | [Angelico](https://open.spotify.com/album/1zH9MrWRknyxPkywpWntko) | 5:40 |
 | 74 | [Terra Sigillata](https://open.spotify.com/track/4nBo834VksEonZPymzdOpb) | [Secret Bisous](https://open.spotify.com/artist/4SdvkIy4PnLyLMQLrb3QvF) | [Terra Sigillata](https://open.spotify.com/album/3GIWCJRQGMZUTvt7C4EDKh) | 3:30 |
 | 75 | [EVIDENT 2 ME](https://open.spotify.com/track/0B9QzxPp0lKpcyp95YIOOu) | [Cartel Madras](https://open.spotify.com/artist/3nwKi37CnuKq5BcPr267h3), [Jide](https://open.spotify.com/artist/6EDGpM5rVt6GsOh5ypS04Y) | [EVIDENT 2 ME](https://open.spotify.com/album/5lD6KCEMPfl1trVAGNkfQ7) | 1:50 |
-| 76 | [GET UP AND GO OUT](https://open.spotify.com/track/6rbZYE14DriaJM9fm8gLm1) | [wing!](https://open.spotify.com/artist/17zzsvpeBPUpP5XittRxEs) | [GET UP AND GO OUT](https://open.spotify.com/album/4X7sOElaeXt4kZqHeTrx4j) | 4:24 |
-| 77 | [Coasting](https://open.spotify.com/track/1aaB7ZOHEUm8uuPoesaUlx) | [gamut inc](https://open.spotify.com/artist/4EdVJ9U7ITPGJUmpJWbvzK) | [Radiating](https://open.spotify.com/album/2uxpG3g0dlK5tVOGGipRHE) | 3:19 |
-| 78 | [This Time I'm Present \- fantasy of a broken heart remix](https://open.spotify.com/track/2AVlpz92925WNjPzqmmvCl) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu), [fantasy of a broken heart](https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe) | [This Time I'm Present \(fantasy of a broken heart remix\)](https://open.spotify.com/album/7Cgro0l9SRybCSsd3rnRnj) | 3:07 |
-| 79 | [Spring](https://open.spotify.com/track/4UQcp4mRxfo96VQA8CSFz9) | [Canopy](https://open.spotify.com/artist/640FBrELGSAOhovs0TYBuv) | [Spring](https://open.spotify.com/album/03yrn0eD6i3oJphP53G3Pv) | 6:02 |
-| 80 | [Rodeo \- Arushi Jain Remix](https://open.spotify.com/track/2KsMp380IDNZJ679Ya6Ian) | [Lapgan](https://open.spotify.com/artist/2qpOejyNXBdBfLQh9OO22P), [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [Duniya Kya Hai \(Remixes\)](https://open.spotify.com/album/19yUtyc8mPkZSaRgcfA3Of) | 4:29 |
-| 81 | [The Beat](https://open.spotify.com/track/7x8qpsAz6vfAGdMiQSxgpM) | [Matias Aguayo](https://open.spotify.com/artist/7daexEpVdKDbvlUHZ2rWbe) | [Anenoa](https://open.spotify.com/album/5AAUBxhjnkc6ezrx6QziHY) | 4:17 |
-| 82 | [Gimme my gun \- Single version](https://open.spotify.com/track/1c33sjmn4KY8e2X8lvPNpu) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Gimme my gun](https://open.spotify.com/album/5vfvHFxKCgsXn5JAfwyZCF) | 3:39 |
-| 83 | [depois do sonho, só a saudade de quem nunca fomos](https://open.spotify.com/track/5rJNKsvuFfDjlFqkXUXGml) | [Gil Dionísio](https://open.spotify.com/artist/1cNxusdvXFitPzzJOGolCn) | [SONS DE EMBALAR PARA TEMPOS DE \*\*\*\*\*](https://open.spotify.com/album/40AGhML6lyoU8edSgeVGS1) | 11:11 |
-| 84 | [Assimilate](https://open.spotify.com/track/35Ig2fefkW7C88p74cZFkG) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [Potpourri](https://open.spotify.com/album/27lvZ2BqY9SiM1fLqaYuKB) | 3:22 |
-| 85 | [Mr\. Postman, wait!](https://open.spotify.com/track/6ZiYZHxGlCgg9fkEazDWWi) | [Standing On The Corner](https://open.spotify.com/artist/5yD3wA48IGUoCVboe0LdHx) | [Mr\. Postman, wait!](https://open.spotify.com/album/4zCF8FDIJYdT6kQ7Y1COXQ) | 3:23 |
-| 86 | [Looking Glass](https://open.spotify.com/track/3RGXDuOq0wgDShBGeFgpKt) | [K Wata](https://open.spotify.com/artist/1KN4g1suy3lqWE15LImAe9) | [Give U Space](https://open.spotify.com/album/1mFJyEMLd5aAtcVr3SyGQX) | 7:13 |
-| 87 | [teide//duquedecabra](https://open.spotify.com/track/4YDgwaMdgrm0OgywrMDVzG) | [Pleito](https://open.spotify.com/artist/4O1LWWl1H4vlqn5br1p0Fw) | [teide//duquedecabra](https://open.spotify.com/album/07vZRgCPznpWkPJlvZTGgZ) | 5:07 |
 
-Snapshot ID: `AAAAAM8C2OaC5pBB0JkQCfrCqcmj9cC0`
+Snapshot ID: `AAAAAHm9peJdRkPpHdXcOwUzcLEn0f8F`

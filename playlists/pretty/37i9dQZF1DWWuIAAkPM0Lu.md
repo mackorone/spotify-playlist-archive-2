@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik på New Music Friday bl.a\. fra Gilli, Svea S og  Emme Sehested Høeg✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,932 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,935 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 16 | [Tilfælles](https://open.spotify.com/track/42uS7UHHRU52QvuDLh4UGZ) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Tilfælles](https://open.spotify.com/album/4b3mLfJM6e0sfFAWdeE5d8) | 2:48 |
 | 17 | [Søvnløs](https://open.spotify.com/track/72htiQHEJxZM0OWmtDwjVA) | [Elsked](https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ), [Yör](https://open.spotify.com/artist/5LX065qqygHI7V6VvvZ5Sn) | [Supersonisk](https://open.spotify.com/album/2OWts3n52UnL71FCRNFZM6) | 4:11 |
 | 18 | [Endnu](https://open.spotify.com/track/7arcN6yqF3Zqfx691sfler) | [Siné](https://open.spotify.com/artist/5HYaLf4JMuWw7OrO01YFiN) | [Voksenting](https://open.spotify.com/album/7ilBWl3BSYlo3M58JFaUnH) | 3:07 |
-| 19 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 19 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 20 | [Big Spender](https://open.spotify.com/track/5HyoH4bna6iOoKG8NogVwm) | [Yvonnes](https://open.spotify.com/artist/6Zv72Nagsr9RjZYNSD4K4p) | [Big Spender](https://open.spotify.com/album/6KwTupgXxkIUDg29rCKSKF) | 3:07 |
 | 21 | [No one Owns the Sunrise](https://open.spotify.com/track/5FqHPGV9kVjW9Hl09cVusE) | [Kwamie Liv](https://open.spotify.com/artist/09rD2V564B6VYi5yAnvVVg) | [No one Owns the Sunrise](https://open.spotify.com/album/56sSCWyNO0KzFFrx1f5h4E) | 3:25 |
 | 22 | [Old Money](https://open.spotify.com/track/2TAc0IRPMudqrY6Ciy63uJ) | [Toko](https://open.spotify.com/artist/2orDgazBVzvwOVZa0QQUvI) | [Old Money](https://open.spotify.com/album/6IgsPVADwvYAPwcD45OY4H) | 2:31 |

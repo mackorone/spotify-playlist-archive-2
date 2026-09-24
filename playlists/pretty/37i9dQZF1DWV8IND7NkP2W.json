@@ -1,6 +1,6 @@
 {
   "description": "The ultimate instrumental soundtrack for a long-haul journey, to the bustling metropolis in Japan that never sleeps. \u65e5\u672c\u306e\u30d7\u30ed\u30c7\u30e5\u30fc\u30b5\u30fc\u306b\u3088\u308b\u30a4\u30f3\u30b9\u30c8\u697d\u66f2\u3092\u7279\u96c6\u3002",
-  "num_followers": 527317,
+  "num_followers": 527295,
   "original_name": "Road Trip To Tokyo",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
+        "name": "WAVE",
+        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
+      },
+      "artists": [
+        {
+          "name": "SPECIAL OTHERS",
+          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
+        }
+      ],
+      "duration_ms": 202733,
+      "name": "Good song",
+      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
         "name": "Aioi",
         "url": "https://open.spotify.com/album/3Nmno9l7cr2Z4qoHQnqAbG"
       },
@@ -179,22 +195,6 @@
       "duration_ms": 156800,
       "name": "Aioi",
       "url": "https://open.spotify.com/track/7EjgI1VC27npyNlZvZMagW"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
-        "name": "WAVE",
-        "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
-      },
-      "artists": [
-        {
-          "name": "SPECIAL OTHERS",
-          "url": "https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5"
-        }
-      ],
-      "duration_ms": 202733,
-      "name": "Good song",
-      "url": "https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -263,6 +263,22 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
+        "name": "tender (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        }
+      ],
+      "duration_ms": 158840,
+      "name": "Elevator Lover",
+      "url": "https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
         "name": "Smrti",
         "url": "https://open.spotify.com/album/2caE10cf8sk85D86ROCnwZ"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 200109,
       "name": "Smrti",
       "url": "https://open.spotify.com/track/3sKJPbWulZzffOZXyfbPxd"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
-        "name": "tender (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4ciRzg4BTydpzSGuOruXCx"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        }
-      ],
-      "duration_ms": 158840,
-      "name": "Elevator Lover",
-      "url": "https://open.spotify.com/track/2ChdsbxUUFspNnBKL7Lzr5"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -503,18 +503,38 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "That's Life",
-        "url": "https://open.spotify.com/album/2RjG0cRdZWlSOTakPbKxB6"
+        "name": "Tayutau",
+        "url": "https://open.spotify.com/album/2rDkaipWW2xf6MxZosufpd"
       },
       "artists": [
         {
           "name": "EVISBEATS",
           "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 169880,
-      "name": "Arayashiki",
-      "url": "https://open.spotify.com/track/0XWQDqYLIVz9maYrUGNYQ7"
+      "duration_ms": 142022,
+      "name": "Tayutau",
+      "url": "https://open.spotify.com/track/1ZiDure4S90WRUJ1CP17p5"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
+      },
+      "artists": [
+        {
+          "name": "DJ Ryow a.k.a. Smooth Current",
+          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
+        }
+      ],
+      "duration_ms": 189902,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -579,38 +599,18 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Phantom",
-        "url": "https://open.spotify.com/album/0pW7TqHtmaI1jpdLf58wOa"
-      },
-      "artists": [
-        {
-          "name": "DJ Ryow a.k.a. Smooth Current",
-          "url": "https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy"
-        }
-      ],
-      "duration_ms": 189902,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/0jCv1hAtUb58dfhnnotCYf"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
-        "name": "Tayutau",
-        "url": "https://open.spotify.com/album/2rDkaipWW2xf6MxZosufpd"
+        "name": "That's Life",
+        "url": "https://open.spotify.com/album/2RjG0cRdZWlSOTakPbKxB6"
       },
       "artists": [
         {
           "name": "EVISBEATS",
           "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 142022,
-      "name": "Tayutau",
-      "url": "https://open.spotify.com/track/1ZiDure4S90WRUJ1CP17p5"
+      "duration_ms": 169880,
+      "name": "Arayashiki",
+      "url": "https://open.spotify.com/track/0XWQDqYLIVz9maYrUGNYQ7"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "MORAL",
-        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
+        "name": "Kingyo",
+        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
       },
       "artists": [
         {
-          "name": "SALVALAI",
-          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 201842,
-      "name": "MORAL",
-      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
+      "duration_ms": 168559,
+      "name": "Kingyo",
+      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Kingyo",
-        "url": "https://open.spotify.com/album/0Wqz6WcMuMSBSEH60FnemV"
+        "name": "MORAL",
+        "url": "https://open.spotify.com/album/4JRl0xfAis9pesCw9P2rIj"
       },
       "artists": [
         {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "SALVALAI",
+          "url": "https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3"
         }
       ],
-      "duration_ms": 168559,
-      "name": "Kingyo",
-      "url": "https://open.spotify.com/track/4X6fgP1OqSe7YGtkNPPmGQ"
+      "duration_ms": 201842,
+      "name": "MORAL",
+      "url": "https://open.spotify.com/track/5dcST3zpET68pcCSawQJIF"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "CELEBRATION OF JAY 3",
-        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Rostrum",
-      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
         "name": "Points of light",
         "url": "https://open.spotify.com/album/2cvoaxFVvRl6FsuHFQYVDG"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Sublimation",
-        "url": "https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al"
+        "name": "CELEBRATION OF JAY 3",
+        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
       },
       "artists": [
         {
-          "name": "TSUTCHIE",
-          "url": "https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY"
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
         }
       ],
-      "duration_ms": 235216,
-      "name": "Sublimation",
-      "url": "https://open.spotify.com/track/0tJb8U00a0fEBDhvqTUSYQ"
+      "duration_ms": 135529,
+      "name": "Rostrum",
+      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1091,6 +1075,22 @@
       "duration_ms": 136534,
       "name": "Overcast",
       "url": "https://open.spotify.com/track/1lkFcODu490MaeGqH5P4yL"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
+        "name": "Sublimation",
+        "url": "https://open.spotify.com/album/4uwsRa5RZaw5Mib2Sgf9Al"
+      },
+      "artists": [
+        {
+          "name": "TSUTCHIE",
+          "url": "https://open.spotify.com/artist/4nOZG02O2CExI2rH6zQELY"
+        }
+      ],
+      "duration_ms": 235216,
+      "name": "Sublimation",
+      "url": "https://open.spotify.com/track/0tJb8U00a0fEBDhvqTUSYQ"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "\u5915\u6620",
-        "url": "https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR"
+        "name": "\u82b1\u706b",
+        "url": "https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN"
       },
       "artists": [
         {
@@ -1136,29 +1136,9 @@
           "url": "https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3"
         }
       ],
-      "duration_ms": 118356,
-      "name": "\u5915\u6620 03",
-      "url": "https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
-        "name": "Colibri",
-        "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
-      },
-      "artists": [
-        {
-          "name": "NOA NOA",
-          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
-        },
-        {
-          "name": "Iori Kimura",
-          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Colibri",
-      "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
+      "duration_ms": 115975,
+      "name": "\u82b1\u706b 01",
+      "url": "https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1183,6 +1163,26 @@
       "duration_ms": 169074,
       "name": "reminisce",
       "url": "https://open.spotify.com/track/33eWL7EXXttUumnaOJ95vT"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
+        "name": "Colibri",
+        "url": "https://open.spotify.com/album/1PiE5MBRBD0fSuXETvn81S"
+      },
+      "artists": [
+        {
+          "name": "NOA NOA",
+          "url": "https://open.spotify.com/artist/1PXxhTpoWDxbQKCpEgUev0"
+        },
+        {
+          "name": "Iori Kimura",
+          "url": "https://open.spotify.com/artist/3uaby7kqnBFvf4mXlPjrvO"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Colibri",
+      "url": "https://open.spotify.com/track/1QxAi7Vgm10DBiLij4dGnZ"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1227,8 +1227,8 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "\u82b1\u706b",
-        "url": "https://open.spotify.com/album/4Jgfki9QuMF1C1eTdtoenN"
+        "name": "\u5915\u6620",
+        "url": "https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR"
       },
       "artists": [
         {
@@ -1236,9 +1236,9 @@
           "url": "https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3"
         }
       ],
-      "duration_ms": 115975,
-      "name": "\u82b1\u706b 01",
-      "url": "https://open.spotify.com/track/3roiSk1Qepttg9ct0tLm5G"
+      "duration_ms": 118356,
+      "name": "\u5915\u6620 03",
+      "url": "https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Knots",
-        "url": "https://open.spotify.com/album/6O81p37TekJY18VOvxtNuR"
+        "name": "Train Smoke",
+        "url": "https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG"
       },
       "artists": [
         {
-          "name": "Shin-Ski",
-          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
+          "name": "Kicktracks",
+          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
         }
       ],
-      "duration_ms": 144338,
-      "name": "Knots",
-      "url": "https://open.spotify.com/track/0n1KIt0I49uwPnKe3rxFQr"
+      "duration_ms": 136059,
+      "name": "Train Smoke",
+      "url": "https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Train Smoke",
-        "url": "https://open.spotify.com/album/6uyB55roWXPNvPQAwRwWhG"
+        "name": "Knots",
+        "url": "https://open.spotify.com/album/6O81p37TekJY18VOvxtNuR"
       },
       "artists": [
         {
-          "name": "Kicktracks",
-          "url": "https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG"
+          "name": "Shin-Ski",
+          "url": "https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7"
         }
       ],
-      "duration_ms": 136059,
-      "name": "Train Smoke",
-      "url": "https://open.spotify.com/track/5IoUd8XyS3Kj4gZvRm4ygI"
+      "duration_ms": 144338,
+      "name": "Knots",
+      "url": "https://open.spotify.com/track/0n1KIt0I49uwPnKe3rxFQr"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "sophisticated silence",
-        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
-      },
-      "artists": [
-        {
-          "name": "sophisticated silence",
-          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
-        }
-      ],
-      "duration_ms": 155760,
-      "name": "NIGHT RIDER",
-      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/3jwfV14vK1VHSanxI3VXZY"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 216440,
       "name": "Sir",
       "url": "https://open.spotify.com/track/3zMU30DtSrXzDj4rFuYZqN"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
+        "name": "sophisticated silence",
+        "url": "https://open.spotify.com/album/0cd465hlsnC86kvwrGYq8z"
+      },
+      "artists": [
+        {
+          "name": "sophisticated silence",
+          "url": "https://open.spotify.com/artist/3DiUEs5iNZXUZSD28bMaKH"
+        }
+      ],
+      "duration_ms": 155760,
+      "name": "NIGHT RIDER",
+      "url": "https://open.spotify.com/track/3wALcNc2paWyAkJQqO7eLZ"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1499,46 +1499,6 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "Morning Breakfast Vol.1",
-        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
-      },
-      "artists": [
-        {
-          "name": "Morning Breakfast",
-          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
-        },
-        {
-          "name": "Gold Digga",
-          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
-        }
-      ],
-      "duration_ms": 228030,
-      "name": "Nostalgic",
-      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
-        "name": "re: Nobody Else",
-        "url": "https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD"
-      },
-      "artists": [
-        {
-          "name": "Rui Fujishiro",
-          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
-        },
-        {
-          "name": "pige",
-          "url": "https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr"
-        }
-      ],
-      "duration_ms": 127058,
-      "name": "re: Nobody Else",
-      "url": "https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
         "name": "Oak",
         "url": "https://open.spotify.com/album/0vdKiuQsAHix0sDjoiwngg"
       },
@@ -1559,6 +1519,26 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
+        "name": "Morning Breakfast Vol.1",
+        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
+      },
+      "artists": [
+        {
+          "name": "Morning Breakfast",
+          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
+        },
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        }
+      ],
+      "duration_ms": 228030,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
         "name": "sanctuary",
         "url": "https://open.spotify.com/album/6fHGk7wxnQWOFBS0iXLl9t"
       },
@@ -1571,6 +1551,26 @@
       "duration_ms": 195750,
       "name": "sanctuary",
       "url": "https://open.spotify.com/track/334ioy1zQAHUVe5nS9cwzg"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
+        "name": "re: Nobody Else",
+        "url": "https://open.spotify.com/album/0Rac7qtsk7dxbranYFA9aD"
+      },
+      "artists": [
+        {
+          "name": "Rui Fujishiro",
+          "url": "https://open.spotify.com/artist/49qFssdzJQct8i3VL9C9mE"
+        },
+        {
+          "name": "pige",
+          "url": "https://open.spotify.com/artist/39zR6X08564rdUWGWsZUFr"
+        }
+      ],
+      "duration_ms": 127058,
+      "name": "re: Nobody Else",
+      "url": "https://open.spotify.com/track/6TLkT07y7Ip9ObMJR2yBa8"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
-      },
-      "artists": [
-        {
-          "name": "Robert de Boron",
-          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "SICK",
-      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
         "name": "Yufuin",
         "url": "https://open.spotify.com/album/6CvExCbjIZfxOtUXkMQvBC"
       },
@@ -1743,18 +1727,18 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
-        "name": "shorty",
-        "url": "https://open.spotify.com/album/1EDnHRWDaSCx0jgg8I4tF5"
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
       },
       "artists": [
         {
-          "name": "m-al",
-          "url": "https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ"
+          "name": "Robert de Boron",
+          "url": "https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD"
         }
       ],
-      "duration_ms": 213333,
-      "name": "Feel Back",
-      "url": "https://open.spotify.com/track/2Pw7fSYIkWgjZZWcLxyXKI"
+      "duration_ms": 201000,
+      "name": "SICK",
+      "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
     },
     {
       "added_at": "2026-09-22 16:48:26",
@@ -1775,6 +1759,30 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
+        "name": "Rain in Shibuya",
+        "url": "https://open.spotify.com/album/3Ts6vR3FAFC4BeXJ4qzq2B"
+      },
+      "artists": [
+        {
+          "name": "HIDE\u00d7HIDE",
+          "url": "https://open.spotify.com/artist/618q3uBCcddItL9IPh5yRA"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Jikuru",
+          "url": "https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp"
+        }
+      ],
+      "duration_ms": 155923,
+      "name": "Rain in Shibuya",
+      "url": "https://open.spotify.com/track/4Lh2ombBUVHq1xLPzDWFXZ"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
         "name": "Leave Behind",
         "url": "https://open.spotify.com/album/5JEHpQDD5ytKRIwDLuSMY0"
       },
@@ -1791,6 +1799,22 @@
     {
       "added_at": "2026-09-22 16:48:26",
       "album": {
+        "name": "shorty",
+        "url": "https://open.spotify.com/album/1EDnHRWDaSCx0jgg8I4tF5"
+      },
+      "artists": [
+        {
+          "name": "m-al",
+          "url": "https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Feel Back",
+      "url": "https://open.spotify.com/track/2Pw7fSYIkWgjZZWcLxyXKI"
+    },
+    {
+      "added_at": "2026-09-22 16:48:26",
+      "album": {
         "name": "\u5149\u306e\u3088\u3046\u306b",
         "url": "https://open.spotify.com/album/77NDqgGxatgBntyyD9634e"
       },
@@ -1803,22 +1827,6 @@
       "duration_ms": 140253,
       "name": "\u5149\u306e\u3088\u3046\u306b",
       "url": "https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0"
-    },
-    {
-      "added_at": "2026-09-22 16:48:26",
-      "album": {
-        "name": "Cocktail City",
-        "url": "https://open.spotify.com/album/4BhJ5O1UzO8n7P3uPMABUj"
-      },
-      "artists": [
-        {
-          "name": "Tokimeki Records",
-          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
-        }
-      ],
-      "duration_ms": 123529,
-      "name": "Havana Beach",
-      "url": "https://open.spotify.com/track/1Lb6meLEZuActBdnBodW2u"
     },
     {
       "added_at": "2026-09-22 16:48:26",

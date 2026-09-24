@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: Just Penelope",
+  "description": "Fresh rock & alternative from independent artists every Wednesday. Cover: sunbleached",
   "name": "Fresh Finds Rock",
   "tracks": [
     {
@@ -3945,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/7nKyWPHnFyrMfcgE7W69hG"
+      },
+      "artists": [
+        {
+          "name": "Six Foot Blonde",
+          "url": "https://open.spotify.com/artist/221FT80tDz6lzvz4U1ySSe"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250522,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/3TOlgXLgnZjZf5POvfMADx"
+    },
+    {
+      "album": {
         "name": "Best Behavior",
         "url": "https://open.spotify.com/album/0QFql8iqvQH595dyNLMf7G"
       },
@@ -4867,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "Blood Eagle",
+        "url": "https://open.spotify.com/album/3Cz2lyOFu1JdkbCvHcCf6Z"
+      },
+      "artists": [
+        {
+          "name": "A Country Western",
+          "url": "https://open.spotify.com/artist/0JyEWuZBMpLOezjt2DDt8M"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114162,
+      "name": "Blood Eagle",
+      "url": "https://open.spotify.com/track/7rTgGCxL3pC30l1AqHacC2"
+    },
+    {
+      "album": {
         "name": "Blood Honey",
         "url": "https://open.spotify.com/album/2JcVhFMMCZ2AQd16r784tH"
       },
@@ -5062,6 +5098,24 @@
       "duration_ms": 223882,
       "name": "Blue 42",
       "url": "https://open.spotify.com/track/27FrLLMXH9gqTFQSsdspzn"
+    },
+    {
+      "album": {
+        "name": "Blue Earth",
+        "url": "https://open.spotify.com/album/6iXuVY4aTnfvu3nxX0a4ta"
+      },
+      "artists": [
+        {
+          "name": "Spiral XP",
+          "url": "https://open.spotify.com/artist/7BrCCntRO3TbPncTE0DJys"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Blue Earth",
+      "url": "https://open.spotify.com/track/6TT6zcdV63mDGTFuUKGlOB"
     },
     {
       "album": {
@@ -14218,7 +14272,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 251745,
       "name": "Float",
       "url": "https://open.spotify.com/track/2Y8pQy5OPylJCILWSkBzT4"
@@ -14672,6 +14726,24 @@
       "duration_ms": 152041,
       "name": "Forget Your Name",
       "url": "https://open.spotify.com/track/6bqUKirOxg9qkUUZscO1ri"
+    },
+    {
+      "album": {
+        "name": "FORMULA BABY",
+        "url": "https://open.spotify.com/album/11Spz4AYBqC5HG4u9Yux2G"
+      },
+      "artists": [
+        {
+          "name": "tankerlow",
+          "url": "https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253500,
+      "name": "FORMULA BABY",
+      "url": "https://open.spotify.com/track/1mtfpmiOwvsVk6ZYHO594j"
     },
     {
       "album": {
@@ -24857,6 +24929,24 @@
     },
     {
       "album": {
+        "name": "A Place Like This",
+        "url": "https://open.spotify.com/album/7hlgWv92V8NLFNoY2K2x1z"
+      },
+      "artists": [
+        {
+          "name": "Grave Secrets",
+          "url": "https://open.spotify.com/artist/7kYAkWC1PaiB9QXwAh0MVo"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163347,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/7HkfdMVLrGBokWGg4CdliZ"
+    },
+    {
+      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/4nCkdkjrhig2WRFWvNlgft"
       },
@@ -27776,7 +27866,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 142170,
       "name": "Nunca Escucharas",
       "url": "https://open.spotify.com/track/0MEFkAFfZZ2ltIPBR70OAP"
@@ -28734,7 +28824,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 158733,
       "name": "over anything",
       "url": "https://open.spotify.com/track/72NGcY2sSw6FFvmUymouC8"
@@ -30153,6 +30243,24 @@
     },
     {
       "album": {
+        "name": "Postmortem",
+        "url": "https://open.spotify.com/album/2IzISDHOo9I0lgHUXnLVyG"
+      },
+      "artists": [
+        {
+          "name": "RUNCLUB",
+          "url": "https://open.spotify.com/artist/2c2DVAPDa9GdNZ3Y4656WV"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221786,
+      "name": "Postmortem",
+      "url": "https://open.spotify.com/track/11ebbXOOBR1chRYiJZePWX"
+    },
+    {
+      "album": {
         "name": "Postpone EP",
         "url": "https://open.spotify.com/album/0xaKO8pAUo0btLNoMJs2BE"
       },
@@ -31105,6 +31213,24 @@
     },
     {
       "album": {
+        "name": "silhouette",
+        "url": "https://open.spotify.com/album/7AYZIyAbLweJ7Bztbht05A"
+      },
+      "artists": [
+        {
+          "name": "Midrift",
+          "url": "https://open.spotify.com/artist/6ROfszneZDogjnbgqkxA7E"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204360,
+      "name": "reaching for you",
+      "url": "https://open.spotify.com/track/3BaZTWhigy3BExgznC3unc"
+    },
+    {
+      "album": {
         "name": "REAL",
         "url": "https://open.spotify.com/album/1fZshuUndX3DhnoN2sTtT8"
       },
@@ -31570,6 +31696,24 @@
       "duration_ms": 266297,
       "name": "Restless",
       "url": "https://open.spotify.com/track/1QMH8fWSJiEnLQhNegTjxK"
+    },
+    {
+      "album": {
+        "name": "Return II Hammer",
+        "url": "https://open.spotify.com/album/0k7hx6EmSy6Pxac8mCOJyt"
+      },
+      "artists": [
+        {
+          "name": "Toner",
+          "url": "https://open.spotify.com/artist/3F5d8k90zTpcnmzYnqXMRw"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137986,
+      "name": "Return II Hammer",
+      "url": "https://open.spotify.com/track/6GK9uobieA3ziCPbZ9tKqZ"
     },
     {
       "album": {
@@ -32096,7 +32240,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 238500,
       "name": "Run away with me",
       "url": "https://open.spotify.com/track/6LT3c2tVapQRzHQSne8gYI"
@@ -32936,7 +33080,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 178866,
       "name": "Schr\u00f6dinger",
       "url": "https://open.spotify.com/track/3EQTiUIFIxvzJqXyXyjTT1"
@@ -33596,6 +33740,24 @@
       "duration_ms": 343190,
       "name": "Sherpa",
       "url": "https://open.spotify.com/track/55mW03rqsI9s3xUnuruF7G"
+    },
+    {
+      "album": {
+        "name": "Shifting Sands",
+        "url": "https://open.spotify.com/album/5IvZsLNA8i4wjRsjzuvyrD"
+      },
+      "artists": [
+        {
+          "name": "John Errol",
+          "url": "https://open.spotify.com/artist/7MU7z25m2sJNFKeFlNVIRP"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 461125,
+      "name": "Shifting Sands",
+      "url": "https://open.spotify.com/track/7joSMEZEGLdjkxKUFfdd5k"
     },
     {
       "album": {
@@ -34360,6 +34522,24 @@
       "duration_ms": 176748,
       "name": "Slow",
       "url": "https://open.spotify.com/track/4JnZ2G4wpPCs9RdqpDxIfb"
+    },
+    {
+      "album": {
+        "name": "Stop Destroying the Things You Love",
+        "url": "https://open.spotify.com/album/6AuiciZnUYqDD5AbOaJjJc"
+      },
+      "artists": [
+        {
+          "name": "sunbleached",
+          "url": "https://open.spotify.com/artist/0zZcSBiteXZuym6ObZ3ZmP"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215435,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/7BlcYueWn2hsbyZukUOmhG"
     },
     {
       "album": {
@@ -39420,7 +39600,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 128440,
       "name": "Think Bad",
       "url": "https://open.spotify.com/track/6vjZBqmpV7qJa0qppQ7Z7v"
@@ -41114,7 +41294,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 114811,
       "name": "Up In Smoke",
       "url": "https://open.spotify.com/track/6vEOyL5gTKVm8FhdQvAWI3"
@@ -41946,7 +42126,7 @@
       ],
       "date_added": "2026-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 258500,
       "name": "We're Gonna Be Okay",
       "url": "https://open.spotify.com/track/3mUjvYCQXsbiloF2b2IHt0"
@@ -43702,7 +43882,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 304679,
       "name": "YES, I AM AN ANIMAL",
       "url": "https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl"
@@ -44214,7 +44394,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 259000,
       "name": "\u30c7\u30c8\u30ed\u30a4\u30c8\uff5cDetoroito",
       "url": "https://open.spotify.com/track/6DZbO6wJuGzUyy2lARqAmC"

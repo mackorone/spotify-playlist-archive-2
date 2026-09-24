@@ -1,12 +1,12 @@
 {
   "description": "This is BigXthaPlug. The essential tracks, all in one playlist.",
-  "num_followers": 88506,
+  "num_followers": 88542,
   "original_name": "This Is BigXthaPlug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAADHGeTYlETo4k2m2ejQI8sE",
+  "snapshot_id": "arHFAAAAAAD9ltPmSh8qxPgrUlQNboSI",
   "tracks": [
     {
       "added_at": null,
@@ -112,7 +112,7 @@
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 119015,
+      "duration_ms": 119026,
       "name": "Mmhmm",
       "url": "https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU"
     },
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMAR",
+        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Badu Flow",
+      "url": "https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "6WA",
         "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
       },
@@ -530,31 +546,11 @@
         {
           "name": "Yung Hood",
           "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
-        },
-        {
-          "name": "600 Ent.",
-          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
         }
       ],
       "duration_ms": 128493,
       "name": "6WA",
       "url": "https://open.spotify.com/track/3f0ZKyw7mIbnVJiF2iz3dN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AMAR",
-        "url": "https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Badu Flow",
-      "url": "https://open.spotify.com/track/1O3WFHqRwK278Wvi4PFj8a"
     },
     {
       "added_at": null,
@@ -627,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Hope You're Happy (Deluxe)",
-        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "From The Bottom",
-      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TAKE CARE (DELUXE)",
         "url": "https://open.spotify.com/album/1XZtc4PTKO10b6B3vjwbWs"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 124480,
       "name": "Life of a Boss",
       "url": "https://open.spotify.com/track/2Zom0cHy98xMHYtSFu64yX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Hope You're Happy (Deluxe)",
+        "url": "https://open.spotify.com/album/7xXWOU9SOmwwPBDBdCdlIX"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "600 Ent.",
+          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
+        }
+      ],
+      "duration_ms": 122240,
+      "name": "FROM THE BOTTOM",
+      "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Stepper",
-        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        }
-      ],
-      "duration_ms": 130774,
-      "name": "Big Stepper",
-      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Run It",
         "url": "https://open.spotify.com/album/3nNUt7aSmNi3mmiUgtitHI"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 163626,
       "name": "Who Run It",
       "url": "https://open.spotify.com/track/3uhJIV80m8oKkuyvvS6rw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Stepper",
+        "url": "https://open.spotify.com/album/0PGaC9A4FfYaIrX9jciKcr"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "duration_ms": 130774,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/0uq2cBrdJ9iHEkFHuyWPPG"
     },
     {
       "added_at": null,
@@ -914,10 +914,6 @@
         {
           "name": "Ro$ama",
           "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "600 Ent.",
-          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
         }
       ],
       "duration_ms": 137896,
@@ -927,22 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boy",
-        "url": "https://open.spotify.com/album/79SKWkRmNKk5wdJAR2uPSe"
+        "name": "My Forte",
+        "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
       },
       "artists": [
         {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
         },
         {
-          "name": "Big Yavo",
-          "url": "https://open.spotify.com/artist/3PGiywHOqNwJ1bv4S3fgZF"
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
         }
       ],
-      "duration_ms": 132537,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
+      "duration_ms": 167114,
+      "name": "Picc ah Side",
+      "url": "https://open.spotify.com/track/6TbgonRcfEQX9xUUbo9N5M"
     },
     {
       "added_at": null,
@@ -970,6 +966,10 @@
         {
           "name": "Yung Hood",
           "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
+        },
+        {
+          "name": "Tony Coles",
+          "url": "https://open.spotify.com/artist/3JBqsRSZaUI6W3cVAcZu5K"
         },
         {
           "name": "600 Ent.",

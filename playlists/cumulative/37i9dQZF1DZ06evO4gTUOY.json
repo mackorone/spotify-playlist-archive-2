@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "8 Mile (Music From And Inspired By The Motion Picture)",
+        "url": "https://open.spotify.com/album/353HFOqGHySp027oyr3aGs"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359400,
+      "name": "8 Mile",
+      "url": "https://open.spotify.com/track/5NmL2zxnlt9GiTB2TQbvFM"
+    },
+    {
+      "album": {
         "name": "B.o.B Presents: The Adventures of Bobby Ray",
         "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
       },
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 207760,
       "name": "Remember The Name (feat. Eminem & 50 Cent)",
       "url": "https://open.spotify.com/track/0AtP8EkGPn6SwxKDaUuXec"

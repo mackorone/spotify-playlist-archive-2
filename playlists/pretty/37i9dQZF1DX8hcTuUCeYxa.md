@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Alice Merton
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,094 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,097 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Colours](https://open.spotify.com/track/4Fplgl3lXtTifH8euDPh1C) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Colours](https://open.spotify.com/album/6vLhinkYTQcl3ITXXlQ3pp) | 3:02 |
 | 2 | [Tallahassee](https://open.spotify.com/track/3Kwdvrz5PTUpAObYKNPlz0) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Tallahassee](https://open.spotify.com/album/1b5PANP3tfdYM5EKJpU0y9) | 4:25 |
-| 3 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 3 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 4 | [Ask For Water](https://open.spotify.com/track/5mdHGc62AEqK11GAUozg3t) | [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [Type It Up](https://open.spotify.com/album/2R38CD9wTSnY48yo64XZff) | 5:14 |
 | 5 | [Seriously](https://open.spotify.com/track/3dZTrUqLpivFUkSuIpSoyb) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Seriously](https://open.spotify.com/album/6rE9QBWb6TtCjz13ipuwVv) | 4:09 |
 | 6 | [Blue Light \(feat\. Blood Orange\)](https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Dream House](https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6) | 3:08 |

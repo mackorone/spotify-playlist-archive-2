@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 27.",
-  "num_followers": 433116,
+  "num_followers": 433371,
   "original_name": "EA SPORTS FC 27 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -367,26 +367,6 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
-        "name": "I Love Life (feat. RANI)",
-        "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 156190,
-      "name": "I Love Life (feat. RANI)",
-      "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
         "name": "STORM",
         "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 209436,
       "name": "STORM I",
       "url": "https://open.spotify.com/track/75kRRY9tR1RsymoFSbTFJB"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
+        "name": "I Love Life (feat. RANI)",
+        "url": "https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "I Love Life (feat. RANI)",
+      "url": "https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
-        "name": "NAIKI",
-        "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 131489,
-      "name": "SHEITE",
-      "url": "https://open.spotify.com/track/3WrwSAIs1jAZml3iRD6zDP"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
         "name": "NO MORE PAIN X+</3",
         "url": "https://open.spotify.com/album/3Ocyx25wLtXqmRkpRLGeAr"
       },
@@ -639,22 +623,18 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
-        "name": "Dios Bendiga",
-        "url": "https://open.spotify.com/album/4NiQalkIqQLwIvu7WtwIlH"
+        "name": "NAIKI",
+        "url": "https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic"
       },
       "artists": [
         {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        },
-        {
-          "name": "Poe Leos",
-          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 164600,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/34vKizew7gm9p1W4lBH8kc"
+      "duration_ms": 131489,
+      "name": "SHEITE",
+      "url": "https://open.spotify.com/track/3WrwSAIs1jAZml3iRD6zDP"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -683,6 +663,22 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
+        "name": "Husband",
+        "url": "https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Husband",
+      "url": "https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
         "name": "El Hombre Planeta",
         "url": "https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8"
       },
@@ -699,6 +695,26 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
+        "name": "Dios Bendiga",
+        "url": "https://open.spotify.com/album/4NiQalkIqQLwIvu7WtwIlH"
+      },
+      "artists": [
+        {
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "duration_ms": 164600,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/34vKizew7gm9p1W4lBH8kc"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
         "name": "Viene De Mi",
         "url": "https://open.spotify.com/album/1KNxX4OodpFzWuFTqscdgT"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 275013,
       "name": "Trocitos De Madera",
       "url": "https://open.spotify.com/track/1x1DggLKpWW1RCHZ1du5FP"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
-        "name": "Husband",
-        "url": "https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 236440,
-      "name": "Husband",
-      "url": "https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -827,6 +827,22 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
+        "name": "Autopilot",
+        "url": "https://open.spotify.com/album/4Clo73J4CkcN63demIeZ2F"
+      },
+      "artists": [
+        {
+          "name": "alexsucks",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 166730,
+      "name": "Autopilot",
+      "url": "https://open.spotify.com/track/2HB0CSmHzShtuZzvvo7FC2"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
         "name": "FITNESS FIRST",
         "url": "https://open.spotify.com/album/62FuCq483syEgtWTFD03zP"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 165931,
       "name": "FITNESS FIRST",
       "url": "https://open.spotify.com/track/64FZ6XLObgyJwDQWkVU07k"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
-        "name": "Autopilot",
-        "url": "https://open.spotify.com/album/4Clo73J4CkcN63demIeZ2F"
-      },
-      "artists": [
-        {
-          "name": "alexsucks",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 166730,
-      "name": "Autopilot",
-      "url": "https://open.spotify.com/track/2HB0CSmHzShtuZzvvo7FC2"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -983,22 +983,6 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
-        "name": "You're Gonna Need A Little Music",
-        "url": "https://open.spotify.com/album/3OVsFANxuVt1F4Ja2Vg3bO"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 172068,
-      "name": "Cherophobe Rock",
-      "url": "https://open.spotify.com/track/59B6zKfTrcZ5Rj6itkAb1F"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
         "name": "UN D\u00cdA NUEVO (FUEGO)",
         "url": "https://open.spotify.com/album/7jY6TxiqsreKO8znOxzHAR"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 148908,
       "name": "UN D\u00cdA NUEVO (FUEGO)",
       "url": "https://open.spotify.com/track/4d58HIXc7hNxYOCZrqsLpK"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
+        "name": "You're Gonna Need A Little Music",
+        "url": "https://open.spotify.com/album/3OVsFANxuVt1F4Ja2Vg3bO"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 172068,
+      "name": "Cherophobe Rock",
+      "url": "https://open.spotify.com/track/59B6zKfTrcZ5Rj6itkAb1F"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
-        "name": "BBQ Summer Vibes",
-        "url": "https://open.spotify.com/album/30RsC6ujRsMduoPaBqGmtj"
-      },
-      "artists": [
-        {
-          "name": "MaWayy",
-          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
-        },
-        {
-          "name": "Wagathoni",
-          "url": "https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Moon And Back",
-      "url": "https://open.spotify.com/track/7g2YduzYoIzNW4U4Qgaum0"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
         "name": "NAFIDA",
         "url": "https://open.spotify.com/album/2y09iaCtieD2Aj1lsEpKvs"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 161260,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/2UjL9PumdAIde8LDN9iwJD"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
+        "name": "BBQ Summer Vibes",
+        "url": "https://open.spotify.com/album/30RsC6ujRsMduoPaBqGmtj"
+      },
+      "artists": [
+        {
+          "name": "MaWayy",
+          "url": "https://open.spotify.com/artist/6p6hgLendP25D8QRQINsPp"
+        },
+        {
+          "name": "Wagathoni",
+          "url": "https://open.spotify.com/artist/4pSHFpfi0gyBuvPsb93UyY"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Moon And Back",
+      "url": "https://open.spotify.com/track/7g2YduzYoIzNW4U4Qgaum0"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
-        "name": "Le Summerlove",
-        "url": "https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY"
-      },
-      "artists": [
-        {
-          "name": "Miel De Montagne",
-          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
-        }
-      ],
-      "duration_ms": 218306,
-      "name": "Le Summerlove",
-      "url": "https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
         "name": "In All Of My Tomorrows",
         "url": "https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 141546,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/0iSLB5okQOzIwzx9vJiDdT"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
+        "name": "Le Summerlove",
+        "url": "https://open.spotify.com/album/42J5qshFUBSi2mXh1fzEjY"
+      },
+      "artists": [
+        {
+          "name": "Miel De Montagne",
+          "url": "https://open.spotify.com/artist/2iGwIqfIXRskkGakunO9sf"
+        }
+      ],
+      "duration_ms": 218306,
+      "name": "Le Summerlove",
+      "url": "https://open.spotify.com/track/5XwFXBpMTtxzAy9KniGwm6"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
-        "name": "D\u00cdA 3",
-        "url": "https://open.spotify.com/album/10pLIYumFEMuL69sxaFQcJ"
-      },
-      "artists": [
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 230496,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/2yjtd82H0rbUZ7E8ho4A85"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
         "name": "It Grows On Trees (Money)",
         "url": "https://open.spotify.com/album/3p1P70gZCWLHlPbDFpDR4W"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 184100,
       "name": "It Grows On Trees (Money)",
       "url": "https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
+        "name": "D\u00cdA 3",
+        "url": "https://open.spotify.com/album/10pLIYumFEMuL69sxaFQcJ"
+      },
+      "artists": [
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 230496,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/2yjtd82H0rbUZ7E8ho4A85"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
-        "name": "Quiero Mas",
-        "url": "https://open.spotify.com/album/0RJBbeCQ0Zrve3k4SwkJZH"
-      },
-      "artists": [
-        {
-          "name": "Don Elektron",
-          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 138692,
-      "name": "Quiero Mas",
-      "url": "https://open.spotify.com/track/7JPMho2z4oTf3ESsVaHq82"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
         "name": "APUESTA AL NEGRO",
         "url": "https://open.spotify.com/album/2Thjjg1KbIfaWJPyQpKnlu"
       },
@@ -1583,6 +1563,42 @@
       "duration_ms": 149677,
       "name": "POR ESTAS CALLES",
       "url": "https://open.spotify.com/track/41mPzEjgJiP3wifIO6H1tL"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
+        "name": "Quiero Mas",
+        "url": "https://open.spotify.com/album/0RJBbeCQ0Zrve3k4SwkJZH"
+      },
+      "artists": [
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 138692,
+      "name": "Quiero Mas",
+      "url": "https://open.spotify.com/track/7JPMho2z4oTf3ESsVaHq82"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
+        "name": "The Rush",
+        "url": "https://open.spotify.com/album/4vtQe8MwFPVpAGnHDsUHKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Prier",
+          "url": "https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX"
+        }
+      ],
+      "duration_ms": 273956,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/6x5d2Q0jtdnQLy45AHK8Q5"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -1623,22 +1639,6 @@
       "duration_ms": 162923,
       "name": "Motivation",
       "url": "https://open.spotify.com/track/0LpEb3Nz2TM0v6QCA2oMfu"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
-        "name": "The Rush",
-        "url": "https://open.spotify.com/album/4vtQe8MwFPVpAGnHDsUHKZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Prier",
-          "url": "https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX"
-        }
-      ],
-      "duration_ms": 273956,
-      "name": "The Rush",
-      "url": "https://open.spotify.com/track/6x5d2Q0jtdnQLy45AHK8Q5"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
-        "name": "Happiness From Agony",
-        "url": "https://open.spotify.com/album/6k55aAff183ZJ37d5yrrYq"
-      },
-      "artists": [
-        {
-          "name": "JayaHadADream",
-          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
-        }
-      ],
-      "duration_ms": 143649,
-      "name": "The Bank",
-      "url": "https://open.spotify.com/track/0feozWwIlvwiZwVHovpauX"
-    },
-    {
-      "added_at": "2026-09-22 20:33:38",
-      "album": {
         "name": "Hardcore",
         "url": "https://open.spotify.com/album/4p1MdMsRrpIh7AgYiSIPpV"
       },
@@ -1747,18 +1731,18 @@
     {
       "added_at": "2026-09-22 20:33:38",
       "album": {
-        "name": "ANNA EL SHOW",
-        "url": "https://open.spotify.com/album/1prC07fPFAr1lkGYm8KzYr"
+        "name": "Happiness From Agony",
+        "url": "https://open.spotify.com/album/6k55aAff183ZJ37d5yrrYq"
       },
       "artists": [
         {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+          "name": "JayaHadADream",
+          "url": "https://open.spotify.com/artist/1Zr6I0quVpqoCSTs6TRCpo"
         }
       ],
-      "duration_ms": 243692,
-      "name": "Pena Negra",
-      "url": "https://open.spotify.com/track/0i3tT4RcvBDLvyxmVv8wI0"
+      "duration_ms": 143649,
+      "name": "The Bank",
+      "url": "https://open.spotify.com/track/0feozWwIlvwiZwVHovpauX"
     },
     {
       "added_at": "2026-09-22 20:33:38",
@@ -1775,6 +1759,22 @@
       "duration_ms": 209813,
       "name": "\u00c9toile Filante",
       "url": "https://open.spotify.com/track/6EuvKVXsQrJa7nePwN7ve7"
+    },
+    {
+      "added_at": "2026-09-22 20:33:38",
+      "album": {
+        "name": "ANNA EL SHOW",
+        "url": "https://open.spotify.com/album/1prC07fPFAr1lkGYm8KzYr"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "Pena Negra",
+      "url": "https://open.spotify.com/track/0i3tT4RcvBDLvyxmVv8wI0"
     },
     {
       "added_at": "2026-09-22 20:33:38",

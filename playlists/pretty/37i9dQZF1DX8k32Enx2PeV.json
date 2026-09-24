@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17375,
+  "num_followers": 17381,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "Caramel",
-        "url": "https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 134867,
-      "name": "Caramel",
-      "url": "https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR"
-    },
-    {
-      "added_at": "2026-09-18 04:59:32",
-      "album": {
         "name": "Coste\u00f1ita",
         "url": "https://open.spotify.com/album/0NqfoWQtgVhRpv5qtFduT8"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 226618,
       "name": "Coste\u00f1ita",
       "url": "https://open.spotify.com/track/7o1ct1kgBmvyZ33KRFKX8g"
+    },
+    {
+      "added_at": "2026-09-18 04:59:32",
+      "album": {
+        "name": "Caramel",
+        "url": "https://open.spotify.com/album/2zoELihgdzNwMCftYhosAI"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 134867,
+      "name": "Caramel",
+      "url": "https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR"
     },
     {
       "added_at": "2026-09-18 04:59:32",
@@ -579,6 +579,26 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
+    },
+    {
+      "added_at": "2026-09-18 04:59:32",
+      "album": {
         "name": "Los Nuevos Reyes",
         "url": "https://open.spotify.com/album/6q7NqAYt7mBBpAdA0lyfAo"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 231100,
       "name": "La Canci\u00f3n De Los Dos",
       "url": "https://open.spotify.com/track/3zVwgwb0Q9ZAoJdp949VXJ"
-    },
-    {
-      "added_at": "2026-09-18 04:59:32",
-      "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2026-09-18 04:59:32",

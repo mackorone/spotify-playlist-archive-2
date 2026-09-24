@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104475,
+  "num_followers": 104473,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAACaylJN5qZ7FXpHKlOdzrlg",
+  "snapshot_id": "arHFAAAAAAAdJea0RK5X2ChL2Ar/3gB3",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Woman Trouble",
         "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 241293,
       "name": "Woman Trouble (Radio Edit)",
       "url": "https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "falling or flying (Deluxe)",
-        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 126009,
-      "name": "Lately Remix (feat. Craig David)",
-      "url": "https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Abracadabra (feat. Craig David)",
         "url": "https://open.spotify.com/album/3ZhVhgmMYyPalwUSX6D42l"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 155076,
       "name": "Abracadabra (feat. Craig David)",
       "url": "https://open.spotify.com/track/4XIIjW8c8pPaB3tZ712yH9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "falling or flying (Deluxe)",
+        "url": "https://open.spotify.com/album/6wRMM8MLrOYDmyUnSiNzQa"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 126009,
+      "name": "Lately Remix (feat. Craig David)",
+      "url": "https://open.spotify.com/track/5WpBfclrPYNsoqAVeJE5vC"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 242173,
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Signed Sealed Delivered",
         "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 214840,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/7hT0NQAxwSytYLjagmIzpL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "Let Her Go",
+      "url": "https://open.spotify.com/track/07oVDSwqKCbF5ZmUqPeqvn"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "Separate Ways",
-      "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Signed Sealed Delivered",
         "url": "https://open.spotify.com/album/4kxN5eHweMRVcBXG1prsFM"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 216573,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/3c22wjAcHgEVBi2VEKYGdE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "Separate Ways",
+      "url": "https://open.spotify.com/track/4LA0Pv5ftyW8rnDuVNWOF0"
     },
     {
       "added_at": null,

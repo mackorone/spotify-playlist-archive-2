@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: ブランデー戦記
 
-1,962 songs - 4 day 22 hr 43 min
+1,963 songs - 4 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1587,7 +1587,7 @@
 | [寄り道](https://open.spotify.com/track/7aJ4nj8jNZPDy819XX1FK8) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [寄り道](https://open.spotify.com/album/7xJRthLvDJ2Kiu3N8P1X4a) | 3:38 | 2026-03-17 | 2026-08-26 |
 | [密か](https://open.spotify.com/track/45WJKtsxdNQNQatWlTmIRo) | [月と徒花](https://open.spotify.com/artist/6Dc0ZVkKdA7QGiFEEfAuCE) | [密か](https://open.spotify.com/album/3xGH0bkhPPFO1oD4mXnD5H) | 3:39 | 2026-07-14 |  |
 | [寵愛族](https://open.spotify.com/track/6OZ8w9AASDDRdLVJwqSEId) | [sanetii](https://open.spotify.com/artist/109bnAEaRhXbAKv7rlP1yy) | [寵愛族](https://open.spotify.com/album/2HeAgHWH154wSvhlWhlQYa) | 3:18 | 2024-12-17 | 2025-03-26 |
-| [小説家](https://open.spotify.com/track/4a5uyzbI0Jw6n1nEYvEhmD) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [くろいもり](https://open.spotify.com/album/56zhHqyQXbrIrmuhbFwovo) | 4:40 | 2026-07-16 |  |
+| [小説家](https://open.spotify.com/track/4a5uyzbI0Jw6n1nEYvEhmD) | [秘めごと](https://open.spotify.com/artist/7gYheydY3QaksZPRLs4CzT) | [くろいもり](https://open.spotify.com/album/56zhHqyQXbrIrmuhbFwovo) | 4:40 | 2026-07-16 | 2026-09-24 |
 | [少年讃歌](https://open.spotify.com/track/5PDInw6nwcWl1GTMxfGhkT) | [Sano ibuki](https://open.spotify.com/artist/5QTiwZndpc1mObGXkDKry3) | [少年讃歌](https://open.spotify.com/album/2pDEK7qYXA3zRbfb0Cxcne) | 3:42 | 2023-08-17 | 2023-10-13 |
 | [就職先はロックスター](https://open.spotify.com/track/3r7nPQ6zFJ7UCjfTZBWvJI) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [就職先はロックスター](https://open.spotify.com/album/1I6iIrGuJ3S02bKY6rWrSf) | 1:37 | 2026-01-13 | 2026-02-25 |
 | [岡崎京子のあの娘になりたかった](https://open.spotify.com/track/0wykwC7fLm3kn6cw5DfAr5) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [岡崎京子のあの娘になりたかった](https://open.spotify.com/album/60Y0XZI1pKhS7ZDd2YczWC) | 2:51 | 2024-12-24 | 2025-01-22 |
@@ -1959,6 +1959,7 @@
 | [風](https://open.spotify.com/track/6Y7ITKNw2P2lq360Dnkm7i) | [UNMASK aLIVE](https://open.spotify.com/artist/4wZznngFKM7rP9mTk2dRGo) | [丹波路快速](https://open.spotify.com/album/5iZVHGFiCqqYZqABrPouYL) | 1:06 | 2025-06-03 | 2025-06-12 |
 | [風](https://open.spotify.com/track/66sB2NQk0hhkNbcQYm9V3F) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [風](https://open.spotify.com/album/2td75lpVPiRtzpCBNHrWCe) | 2:01 | 2025-05-21 | 2025-05-28 |
 | [風の噂](https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [風の噂](https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5) | 3:50 | 2023-10-12 | 2024-10-02 |
+| [風景を見るあなたの瞳に、神はいた](https://open.spotify.com/track/41EL6Hm0jRsdjm3CoGSnRh) | [Guiano](https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf) | [風景を見るあなたの瞳に、神はいた](https://open.spotify.com/album/7tFkqj36p0xs1wl7rFYy8H) | 4:31 | 2026-09-22 |  |
 | [風船](https://open.spotify.com/track/4S6WOlZQdqCY9jV6zNvodB) | [らそんぶる](https://open.spotify.com/artist/7b5qmQwKzZMoSDpRDvpU6j) | [風船](https://open.spotify.com/album/3MBtrFhoiAGJnEq0g0WEVd) | 3:27 | 2024-12-17 | 2025-02-19 |
 | [飴と鞭](https://open.spotify.com/track/7hfNGFlfHLbe4h7xTrbjfu) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [飴と鞭](https://open.spotify.com/album/141H237A7IvCyCG0x4ekhF) | 3:28 | 2025-01-14 | 2025-01-22 |
 | [高槻](https://open.spotify.com/track/1Z1Kfw6ZDzyJKMctio1QVl) | [grating hunny](https://open.spotify.com/artist/2eW8gcgFVJCQ1DixDrVF52) | [あの娘の春を想う](https://open.spotify.com/album/0Kzres1NymuEfctIVZF8JS) | 3:33 | 2024-01-09 | 2024-02-01 |

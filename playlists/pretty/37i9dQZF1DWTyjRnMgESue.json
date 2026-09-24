@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Medium Build",
-  "num_followers": 90321,
+  "num_followers": 90338,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "The Bend",
+        "url": "https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7"
+      },
+      "artists": [
+        {
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
+        }
+      ],
+      "duration_ms": 242446,
+      "name": "The Bend",
+      "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "4 songs",
         "url": "https://open.spotify.com/album/3I3n7l0MBqm17NREZdGGCU"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 184540,
       "name": "pull me out",
       "url": "https://open.spotify.com/track/0JEV4lg8RqwkLQCqWl5aWC"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "The Bend",
-        "url": "https://open.spotify.com/album/5hoF6Qgg5SKKuKW4uknLk7"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 242446,
-      "name": "The Bend",
-      "url": "https://open.spotify.com/track/4CwtjbfPWEA5YNVFBEAsV1"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -551,22 +551,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Want Me",
-        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
-      },
-      "artists": [
-        {
-          "name": "Bebe Stockwell",
-          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
-        }
-      ],
-      "duration_ms": 213419,
-      "name": "Want Me",
-      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Feeling Fine",
         "url": "https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 168461,
       "name": "Feeling Fine",
       "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Want Me",
+        "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
+      },
+      "artists": [
+        {
+          "name": "Bebe Stockwell",
+          "url": "https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9"
+        }
+      ],
+      "duration_ms": 213419,
+      "name": "Want Me",
+      "url": "https://open.spotify.com/track/4jM8r5G6yNfLbhf3kPm2s9"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -623,6 +623,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Walking Through The Water",
+        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 301376,
+      "name": "Walking Through The Water",
+      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Made You Look",
         "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
       },
@@ -643,22 +659,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Walking Through The Water",
-        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 301376,
-      "name": "Walking Through The Water",
-      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "I Saw The Mountains",
         "url": "https://open.spotify.com/album/5zurVXReV3tD2wxCLQ7XXK"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 264664,
       "name": "I Saw The Mountains",
       "url": "https://open.spotify.com/track/0CEpezcWFou8sCdbcGof44"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "America's Greatest Burnout",
+        "url": "https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM"
+      },
+      "artists": [
+        {
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+        }
+      ],
+      "duration_ms": 170199,
+      "name": "Goldmine",
+      "url": "https://open.spotify.com/track/0g6AxPcs6h3aZp15n2Vxte"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -695,22 +711,6 @@
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "America's Greatest Burnout",
-        "url": "https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 170199,
-      "name": "Goldmine",
-      "url": "https://open.spotify.com/track/0g6AxPcs6h3aZp15n2Vxte"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -951,22 +951,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Sad Country Songs",
-        "url": "https://open.spotify.com/album/2BoWkDdkGWerjoBRbbTgHZ"
-      },
-      "artists": [
-        {
-          "name": "Solon Holt",
-          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
-        }
-      ],
-      "duration_ms": 184322,
-      "name": "Sad Country Songs",
-      "url": "https://open.spotify.com/track/2XHG1TCwtXyGo3Wwrr5WIo"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Matches & Gasoline",
         "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 287063,
       "name": "Matches & Gasoline",
       "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Sad Country Songs",
+        "url": "https://open.spotify.com/album/2BoWkDdkGWerjoBRbbTgHZ"
+      },
+      "artists": [
+        {
+          "name": "Solon Holt",
+          "url": "https://open.spotify.com/artist/6gcXckLQicjC4KJQi00EMz"
+        }
+      ],
+      "duration_ms": 184322,
+      "name": "Sad Country Songs",
+      "url": "https://open.spotify.com/track/2XHG1TCwtXyGo3Wwrr5WIo"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "The Cost of Growing Up",
-        "url": "https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB"
-      },
-      "artists": [
-        {
-          "name": "Max McNown",
-          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
-        }
-      ],
-      "duration_ms": 263799,
-      "name": "The Cost of Growing Up",
-      "url": "https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Some Things Never Leave",
         "url": "https://open.spotify.com/album/6SjTebu5erz22LeboDHsML"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 240178,
       "name": "Everyone Likes To Be Forgiven",
       "url": "https://open.spotify.com/track/0qQfLlCBn8LNsPWpzcFsbY"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "The Cost of Growing Up",
+        "url": "https://open.spotify.com/album/07wWN064o7XUxgw7IRmJFB"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "duration_ms": 263799,
+      "name": "The Cost of Growing Up",
+      "url": "https://open.spotify.com/track/0yhLlhh36yxfE2MWnC28Bz"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Sad And Beautiful World",
+        "url": "https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH"
+      },
+      "artists": [
+        {
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
+        }
+      ],
+      "duration_ms": 246210,
+      "name": "Sad and Beautiful World",
+      "url": "https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Where\u2019s Your Love Now (Waxahatchee Version)",
         "url": "https://open.spotify.com/album/1pnhU7gq3vrxKaq8cWkNs3"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 190923,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Sad And Beautiful World",
-        "url": "https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 246210,
-      "name": "Sad and Beautiful World",
-      "url": "https://open.spotify.com/track/6UFDma78AVAyHaN4i88R8i"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "tell me something",
-        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 237426,
-      "name": "tell me something",
-      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "You and Me Time",
         "url": "https://open.spotify.com/album/0m6wO7RR5ugYzk0wZW5ori"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 225559,
       "name": "You and Me Time (feat. Sheryl Crow)",
       "url": "https://open.spotify.com/track/4v0bYGAGo7GjTDQeoaSsp7"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "tell me something",
+        "url": "https://open.spotify.com/album/4J18Qe8pwo180j6on9pnmn"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 237426,
+      "name": "tell me something",
+      "url": "https://open.spotify.com/track/4IU4zqISs4zONS4rDWStUU"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "World's Greatest Lover",
-        "url": "https://open.spotify.com/album/0O0aqyZzpU9HSnxLkoZhkn"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 198681,
-      "name": "World's Greatest Lover",
-      "url": "https://open.spotify.com/track/72MaHk87Y002Si9fvC5bXt"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "I Talk About You",
         "url": "https://open.spotify.com/album/59VlISV9li61ECMjfCmQnv"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 210430,
       "name": "I Talk About You",
       "url": "https://open.spotify.com/track/0SyTYyawIrIkBpdOH9B34c"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "World's Greatest Lover",
+        "url": "https://open.spotify.com/album/0O0aqyZzpU9HSnxLkoZhkn"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 198681,
+      "name": "World's Greatest Lover",
+      "url": "https://open.spotify.com/track/72MaHk87Y002Si9fvC5bXt"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

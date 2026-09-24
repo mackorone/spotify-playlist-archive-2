@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The BEST new music every Friday, by INDIE EDITORS Cover: Slow Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,288,193 likes - 192 songs - 11 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,288,145 likes - 192 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
 | 2 | [Red Car](https://open.spotify.com/track/1iZsQ8JtDEjZojlFOBrDRi) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Melodie](https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy) | 3:28 |
 | 3 | [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 |
-| 4 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 4 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 5 | [Snowburn](https://open.spotify.com/track/5AGe4sWEAZdZRxgTZRlaND) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Fell Asleep in the Sun](https://open.spotify.com/album/1a1i0MjXWGlgZoHUjUxL7D) | 3:38 |
 | 6 | [April Suzanne \- Cover Version](https://open.spotify.com/track/6u19Z263teVaAY2LFRGZQJ) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [April Suzanne](https://open.spotify.com/album/02k9RZkhDfdskVGJ1NvJHt) | 3:45 |
 | 7 | [Are You Willing](https://open.spotify.com/track/6my2GkulHxUnSzKZkRv38d) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Are You Willing](https://open.spotify.com/album/6STKU0OmvS8oV6N2z3WjBG) | 3:50 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 14 | [Blue Light \(feat\. Blood Orange\)](https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Dream House](https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6) | 3:08 |
 | 15 | [Forever](https://open.spotify.com/track/1DAJbUvtSmmLfAXzQvE9PT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Forever](https://open.spotify.com/album/2ZVj3bdUbAFlbcKMT8mdtD) | 3:11 |
 | 16 | [Fantasy](https://open.spotify.com/track/2HhoZOgFf80u5wqErSXBil) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fantasy](https://open.spotify.com/album/1KofBMfkgQDP3GNfE7E6H8) | 2:02 |
-| 17 | [What and Where](https://open.spotify.com/track/6KpWYfC1lsUF6J2kDFGZus) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky?](https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A) | 3:25 |
+| 17 | [What and Where](https://open.spotify.com/track/6KpWYfC1lsUF6J2kDFGZus) | [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB), [Ghost Train Orchestra](https://open.spotify.com/artist/5BzKicNaRTRH3S91oDV2Fo) | [Who Is The Sky? \(Deluxe Edition\)](https://open.spotify.com/album/4092Fg5Qy2KjTFKIc6vH7A) | 3:25 |
 | 18 | [Wishing Bone](https://open.spotify.com/track/1Rpc4MF6q5kH63rozkvlZg) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Wishing Bone](https://open.spotify.com/album/7xtBW8XGdQdjPwnlZ8G42P) | 3:28 |
 | 19 | [Life is a Circle](https://open.spotify.com/track/2e29lpBqynzUDD6Eqw3uYb) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Life is a Circle](https://open.spotify.com/album/3yAX260QbY7TbkjAUcMTPF) | 3:45 |
 | 20 | [Thicken](https://open.spotify.com/track/1uQYHgPrjPBYG1d0D4RoTD) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [Thicken](https://open.spotify.com/album/6XXL0QkUSbpVXsK75ZCfUn) | 3:05 |

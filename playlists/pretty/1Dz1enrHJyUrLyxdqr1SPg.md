@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,024 likes - 95 songs - 5 hr 25 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,025 likes - 91 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,14 +94,10 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 84 | [Rubber Mask of Holy Wrath](https://open.spotify.com/track/6tOh6oOtAGujuKPeMJSw8K) | [Robert Owen](https://open.spotify.com/artist/7EvDQWz5idEg2HJs7EyErm) | [Rubber Mask of Holy Wrath](https://open.spotify.com/album/1HT3BgWaNHZZnsyUMEgKnV) | 8:31 |
 | 85 | [Connection](https://open.spotify.com/track/5PIMT5y3kj7o3a8lTWUcd2) | [Nissu](https://open.spotify.com/artist/0jFlIuRMZuBZrowaOZXEe0) | [Memories](https://open.spotify.com/album/6Kbr8PFQrTu0J2GmK8o5uz) | 3:07 |
 | 86 | [Hush](https://open.spotify.com/track/5pvLtPHMs0LnTbqjVYqMKq) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [Hush](https://open.spotify.com/album/4x4XoqLEDQow0bvM9ObmDj) | 3:59 |
-| 87 | [Epsilon Eridani](https://open.spotify.com/track/1kz6DreLvi1iOJc7gNIfDQ) | [Electron Revolt](https://open.spotify.com/artist/7inTXltGl51TDpZAW7BFAm) | [Raging Daylight](https://open.spotify.com/album/7AysU1BS4N5bwjtvgaIXHP) | 3:16 |
-| 88 | [Ritual Machine](https://open.spotify.com/track/5iRCTvZua67oHhedzRlkLs) | [RA MAJOR](https://open.spotify.com/artist/4R017zXb6MjKJwJ6numWFj), [Silvr Sage](https://open.spotify.com/artist/4eIkMybet5tbTEONKsUgqf), [Suffolk](https://open.spotify.com/artist/7MkrnGTAdUdV1Yo32Qnaqe) | [Ritual Machine](https://open.spotify.com/album/53zDHfQfSTBj4QPNNwuf8u) | 4:09 |
-| 89 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 |
-| 90 | [Forever](https://open.spotify.com/track/6uMJNnzsWizuk6RNjOPeIG) | [WAS Music](https://open.spotify.com/artist/3IqAQfmvqry08s3o5YVYew), [Gaz Twist](https://open.spotify.com/artist/52MTNuYffSQRjZcZ7KiSam) | [Carpe Diem](https://open.spotify.com/album/5pVHrBjnuOWKXshWKJaVil) | 4:04 |
-| 91 | [Welcome To The Show](https://open.spotify.com/track/5qddgMqAL4NQga5zns6Ghw) | [Bunyin Yang](https://open.spotify.com/artist/1q4yy3y1W2Y39daS8HXY9o) | [The Power Of Being Human](https://open.spotify.com/album/1cG7DmZBRyr4lZFrqeRw9G) | 5:40 |
-| 92 | [Girls and the Curse](https://open.spotify.com/track/0eO1FG7sNpB9PSHShDlQZG) | [Dear, The Bunny Dead](https://open.spotify.com/artist/6YNljbUij8I9XvdUTI8Yni) | [Vamp](https://open.spotify.com/album/1lqwTD9P2wD59ZMDClayzL) | 2:09 |
-| 93 | [Crying \(In September\)](https://open.spotify.com/track/6DhVlfBpDjqnGQHx2LhxK2) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [DJ Rozwell](https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:37 |
-| 94 | [Sound In My Head](https://open.spotify.com/track/2lV3asnM691mdX5c2DqInZ) | [Wainscott](https://open.spotify.com/artist/0fbKtHid63OlqrX6GpSCyJ), [Ian Campbell](https://open.spotify.com/artist/7AZVAu6NJQP6QHSDrvn2Kb) | [Sound In My Head](https://open.spotify.com/album/4QQAG28GPxZucLN2IfTNUU) | 3:11 |
-| 95 | [I'm Bored x](https://open.spotify.com/track/1fRonpKCl5SRNccAHOEvl0) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [I'm Bored x](https://open.spotify.com/album/6pPoIqEGFHEEu0FGE23UWz) | 4:08 |
+| 87 | [Welcome To The Show](https://open.spotify.com/track/5qddgMqAL4NQga5zns6Ghw) | [Bunyin Yang](https://open.spotify.com/artist/1q4yy3y1W2Y39daS8HXY9o) | [The Power Of Being Human](https://open.spotify.com/album/1cG7DmZBRyr4lZFrqeRw9G) | 5:40 |
+| 88 | [Girls and the Curse](https://open.spotify.com/track/0eO1FG7sNpB9PSHShDlQZG) | [Dear, The Bunny Dead](https://open.spotify.com/artist/6YNljbUij8I9XvdUTI8Yni) | [Vamp](https://open.spotify.com/album/1lqwTD9P2wD59ZMDClayzL) | 2:09 |
+| 89 | [Crying \(In September\)](https://open.spotify.com/track/6DhVlfBpDjqnGQHx2LhxK2) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [DJ Rozwell](https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:37 |
+| 90 | [Sound In My Head](https://open.spotify.com/track/2lV3asnM691mdX5c2DqInZ) | [Wainscott](https://open.spotify.com/artist/0fbKtHid63OlqrX6GpSCyJ), [Ian Campbell](https://open.spotify.com/artist/7AZVAu6NJQP6QHSDrvn2Kb) | [Sound In My Head](https://open.spotify.com/album/4QQAG28GPxZucLN2IfTNUU) | 3:11 |
+| 91 | [I'm Bored x](https://open.spotify.com/track/1fRonpKCl5SRNccAHOEvl0) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [I'm Bored x](https://open.spotify.com/album/6pPoIqEGFHEEu0FGE23UWz) | 4:08 |
 
-Snapshot ID: `AABj1Ssdj56MPTeZ+pruYc9pd2Wntzjv`
+Snapshot ID: `AABj1q/b5T+f+b+CgisPNTaLuVzUGlFI`

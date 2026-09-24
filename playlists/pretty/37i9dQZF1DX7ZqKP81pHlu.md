@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 
 > Les hits du moment en Algérie\. Cover: Soolking
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,847 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,911 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Seknet Marseille](https://open.spotify.com/track/1Wtr4zQhkjOJ8KZWNtPDwj) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Seknet Marseille](https://open.spotify.com/album/0DufvOgmtG1Vxcvft7AJSy) | 2:33 |
 | 2 | [Hakka Hakka](https://open.spotify.com/track/5Xo8NlagOmUUBAZ0JJGOSP) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS) | [Hakka Hakka](https://open.spotify.com/album/0ooJf7urTBp0BY4HVV9dUH) | 4:41 |
-| 3 | [M7ayni](https://open.spotify.com/track/7C9s5b5QqJLXSFqeisnxeY) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [M7ayni](https://open.spotify.com/album/2ihL4M0HCmcNJGYnSuxNl3) | 4:00 |
-| 4 | [Edahka](https://open.spotify.com/track/38tK0ZBRTnCE0aU45NrpLE) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Edahka](https://open.spotify.com/album/16VEE4Hvp5uIJFC4GIxkxb) | 3:08 |
-| 5 | [Djazaïria \(feat\. Abdou Gambetta\)](https://open.spotify.com/track/1t5rngO6sAHcbjIQasGIn7) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Djazaïria \(feat\. Abdou Gambetta\)](https://open.spotify.com/album/43yntIKXVYfEYs9MaAKH1J) | 3:16 |
-| 6 | [Sahran lil](https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sahran lil](https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD) | 2:41 |
-| 7 | [جولة عالمية](https://open.spotify.com/track/60fVXaahM5ltZMlqwGfrFf) | [Mohamed Benchenet](https://open.spotify.com/artist/1SXvU32qAqhAniQTUhJJdS), [Cheb Bilal Babilo](https://open.spotify.com/artist/3MMKmlO9H90sJKKtsCqzOV) | [جولة عالمية](https://open.spotify.com/album/03g113Z4kZ8YwVfHPyOfU7) | 4:37 |
+| 3 | [Ayul](https://open.spotify.com/track/4J4VEP5oZmSbJaNmFwuS2U) | [Amine Amirouche](https://open.spotify.com/artist/02K61O9SmM6DI5pOirryVX), [Nassima Ait Ami](https://open.spotify.com/artist/0iObwDPoV9Si3ZXVCkqC9E) | [Ayul](https://open.spotify.com/album/3djnlzfRhSXBkAa1D4o8bE) | 3:25 |
+| 4 | [M7ayni](https://open.spotify.com/track/7C9s5b5QqJLXSFqeisnxeY) | [Didine Canon 16](https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF) | [M7ayni](https://open.spotify.com/album/2ihL4M0HCmcNJGYnSuxNl3) | 4:00 |
+| 5 | [Edahka](https://open.spotify.com/track/38tK0ZBRTnCE0aU45NrpLE) | [Mouh Milano](https://open.spotify.com/artist/1a4431ATLSQ5Rgq8Rr6sFj) | [Edahka](https://open.spotify.com/album/16VEE4Hvp5uIJFC4GIxkxb) | 3:08 |
+| 6 | [Djazaïria \(feat\. Abdou Gambetta\)](https://open.spotify.com/track/1t5rngO6sAHcbjIQasGIn7) | [Anas](https://open.spotify.com/artist/3jrZXTzqSuTBdfJeoSts1n), [Abdou Gambetta](https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2) | [Djazaïria \(feat\. Abdou Gambetta\)](https://open.spotify.com/album/43yntIKXVYfEYs9MaAKH1J) | 3:16 |
+| 7 | [Sahran lil](https://open.spotify.com/track/1wNH5iIDfcbXdG97m5Uf0H) | [Cheb Momo](https://open.spotify.com/artist/2WGoTbMj2VO7bv45UG1WfM), [Djalil Palermo](https://open.spotify.com/artist/3SKKJMPgklOHgYeatf2YhX) | [Sahran lil](https://open.spotify.com/album/7um0rbaxglumtA1jUqd6WD) | 2:41 |
 | 8 | [Rani Maghmoum](https://open.spotify.com/track/22CUf3UFJtxiJaMx6kmPXl) | [Kader Japonais](https://open.spotify.com/artist/3e3cKwH1kUr02bvIm7VaIe), [Reda Soussia](https://open.spotify.com/artist/0Mctr7wQzPz5IsfcYrbPSX) | [Rani Maghmoum](https://open.spotify.com/album/41wn3gtr5sCogsoNNcPdDc) | 3:45 |
 | 9 | [Mama Cita](https://open.spotify.com/track/63U3JxM08enhMaDqk3rqhE) | [Hakim Liberta](https://open.spotify.com/artist/3vj3OWhgejcWjemt7nnYAp) | [Mama Cita](https://open.spotify.com/album/7Dt7nf2KVAV4x3AHPTQ0TJ) | 3:06 |
 | 10 | [Qololo](https://open.spotify.com/track/5F7BK2CwSasvKaxD3278W0) | [Fouzi Torino](https://open.spotify.com/artist/6Q2qtUONsXPfBKMhpOesiv), [Mc Artisan](https://open.spotify.com/artist/24XkH7tJDFfDrOLlONiy7S) | [Qololo](https://open.spotify.com/album/5fm5FsSPsB0G5VwxYV6TGJ) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZqKP81pHlu.md) - [plain]
 | 49 | [Chwiya Wa9t W Nensak](https://open.spotify.com/track/2WLCFfLNLXJQAIWPAnSbHg) | [Sofiane Asla](https://open.spotify.com/artist/2ywplm7qGli4HsGE3SNS8A) | [Chwiya Wa9t W Nensak](https://open.spotify.com/album/26XCHwaPPubRHzdU9JPdGR) | 5:37 |
 | 50 | [Mélanine](https://open.spotify.com/track/0t7d6wbJLS2A31yqlHFew7) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [LVDR](https://open.spotify.com/album/5RVH7GP0pwyS3KMnRurfj1) | 3:01 |
 
-Snapshot ID: `AAAAAA5MtPdXOP1XZ6OLaCaFfCdkzdbr`
+Snapshot ID: `AAAAAHzZN29hewasTISqU8ATwdajM5Gm`

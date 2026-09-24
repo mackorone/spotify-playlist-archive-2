@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ohzEbixOOm4WIHIK3m2RM">Bijan Amir</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 6 hr 37 min
+146 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Lift Off](https://open.spotify.com/track/70H6NS297gvxm2TQAeMmQj) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD) | [Light Path 8](https://open.spotify.com/album/7fzkvNhOaUDsihQRGLl1K9) | 2:53 | 2023-12-13 |  |
 | [Like I'm Missy](https://open.spotify.com/track/4mVirqSP1RoQIsVszbI48b) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Like I'm Missy](https://open.spotify.com/album/2no35ZrZcU7BXNFnJ0Yk4k) | 2:38 | 2023-12-13 | 2026-08-07 |
 | [Like I'm Missy](https://open.spotify.com/track/5ofgbtYTDAroBh4Z7vAHuU) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Still Alive, What a Shame](https://open.spotify.com/album/30YPJhHOqjVjDQ35OGxVQS) | 2:38 | 2026-08-06 |  |
-| [Love Me Again](https://open.spotify.com/track/0tq66loaJTREh2wYnShVL9) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:18 | 2023-12-13 |  |
+| [Love Me Again](https://open.spotify.com/track/0tq66loaJTREh2wYnShVL9) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:18 | 2023-12-13 | 2026-09-24 |
+| [Love Me Again](https://open.spotify.com/track/7wOBGcYknhm61RIz7obnT9) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Seven Days](https://open.spotify.com/album/3mUtCDHWEkt2xWuuoSL04G) | 3:18 | 2026-09-23 |  |
 | [LowBatt](https://open.spotify.com/track/0mJlScE5wSE1LW2IrVmbMD) | [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Gravity](https://open.spotify.com/album/27QdjDHdl4pbV4vNF0S4T2) | 2:41 | 2023-12-13 |  |
 | [Mandown](https://open.spotify.com/track/1FUs8JnPJnZyDiRHNNzaQ3) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [EMINENT: 002A\_0316](https://open.spotify.com/album/6FVHpk1yeNJF2lWv7ogBBq) | 3:12 | 2023-12-13 |  |
 | [Manta](https://open.spotify.com/track/2ckGH6FtxWeAv0SskcREd1) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [无限意识 Meta Ego](https://open.spotify.com/album/1ON6zUsWnFa7nlo5YbDkoD) | 3:22 | 2023-12-13 |  |
@@ -124,13 +125,15 @@
 | [Sunrise](https://open.spotify.com/track/0TZU7f8kkSpSrTGDQ6tlAx) | [Smba](https://open.spotify.com/artist/0txn6cWGodSiZiFoOtqvdj) | [Blue](https://open.spotify.com/album/6c1ZoarYrehwUalcmRUsTt) | 2:18 | 2024-11-20 |  |
 | [Sunshine](https://open.spotify.com/track/06pHDBwLH2pLRLKHyOn4oY) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [MP3+WAV](https://open.spotify.com/album/7suGgXP17eAgx9dBJUFAWZ) | 2:52 | 2024-02-27 | 2026-06-15 |
 | [Sunshine](https://open.spotify.com/track/4qJBPtFpLjlRaLo3ymKfCF) | [sean](https://open.spotify.com/artist/7CxSejERLJhkuYRU6D1d8C) | [MP3+WAV](https://open.spotify.com/album/3p1e2Fgo2Pi7LwhUfcNJB7) | 2:52 | 2026-06-14 |  |
-| [Switch](https://open.spotify.com/track/6KCzYRnwngV2aYykXRPFU8) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Switch](https://open.spotify.com/album/6xTbTfx554N3fTIte4LP8n) | 3:09 | 2023-12-13 |  |
+| [Switch](https://open.spotify.com/track/2UESearnPLs5dMmeDAy5vB) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Switch](https://open.spotify.com/album/1mAqN0cRSQKaIInbtJuW0e) | 3:09 | 2026-09-23 |  |
+| [Switch](https://open.spotify.com/track/6KCzYRnwngV2aYykXRPFU8) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Switch](https://open.spotify.com/album/6xTbTfx554N3fTIte4LP8n) | 3:09 | 2023-12-13 | 2026-09-24 |
 | [Teary Eyes \(feat\. Burna Boy\)](https://open.spotify.com/track/68uqUS5wIIZgSbnWwNEH9Q) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Slime Cry](https://open.spotify.com/album/36zFjOhkJXdudJMUiEqroA) | 2:45 | 2026-04-15 |  |
 | [Terms & Conditions \(feat\. Will Juergens & Cam Chambers\)](https://open.spotify.com/track/3t7ohmWgtPcE1yXesf9oQU) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Will Juergens](https://open.spotify.com/artist/4Jz0bwESNeDnb8eo1tvpXX), [Cam Chambers](https://open.spotify.com/artist/6ljxfnGOuwFBz8Uw6C5gUj) | [Terms & Conditions \(feat\. Will Juergens & Cam Chambers\)](https://open.spotify.com/album/2EsAhFe68A3wSzwp2lMyxA) | 3:55 | 2024-11-26 |  |
 | [The Rat Race](https://open.spotify.com/track/46bgDWUtBBceo13LMCZIXg) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [C.C.W.M.T.T.](https://open.spotify.com/album/72ngHxTrw6AJuDBPlZhnX2) | 2:48 | 2023-12-13 |  |
 | [Tings & Such](https://open.spotify.com/track/7aaRq2phqIWQoqZheplPtO) | [Kyle Wildfern](https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR) | [Stolen George](https://open.spotify.com/album/1ODL8SijfejvvB0JewtMKS) | 1:52 | 2026-08-11 |  |
 | [Too Attached](https://open.spotify.com/track/2Wp3n0MebrQyI0264yC3fG) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [LOONY](https://open.spotify.com/album/4HGuhgVXgR2cgRPehibgpy) | 2:41 | 2024-08-28 |  |
-| [Touch & Go](https://open.spotify.com/track/4UAfFOvpghqEbatFJZEoG0) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Touch & Go](https://open.spotify.com/album/4FVAdXCpUKOmtPy2D9Kkg6) | 3:28 | 2023-12-13 |  |
+| [Touch & Go](https://open.spotify.com/track/4UAfFOvpghqEbatFJZEoG0) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Touch & Go](https://open.spotify.com/album/4FVAdXCpUKOmtPy2D9Kkg6) | 3:28 | 2023-12-13 | 2026-09-24 |
+| [Touch & Go](https://open.spotify.com/track/76A4TRIquuL5covv5qffTi) | [PLAZA](https://open.spotify.com/artist/50Fwc6LYQ2aYsWVN10hhTY) | [Touch & Go](https://open.spotify.com/album/4AYilwHijSZzsV1U2sqAQy) | 3:28 | 2026-09-23 |  |
 | [Under Control](https://open.spotify.com/track/3B6Ha04nvVi9EeEbGsfrOX) | [Nigel Knight](https://open.spotify.com/artist/6u6thFL95rh5B0oz678Yl5) | [Paintings Come True \(Deluxe\)](https://open.spotify.com/album/08dmxAt5O4kl7BiHiNXNP9) | 2:05 | 2023-12-13 |  |
 | [Unpredictable](https://open.spotify.com/track/0awXZjZqqdyweoA4tG4KjW) | [VNCHY](https://open.spotify.com/artist/11L1ReDR26fCHAHBGvEb4o) | [Unpredictable](https://open.spotify.com/album/0JGYqkPi0Rj8el7KuxgvYm) | 2:53 | 2023-12-13 |  |
 | [VENDETTAS](https://open.spotify.com/track/6cdcUEiQE1rfqKeJS5S2FA) | [SuziWithAnUzi](https://open.spotify.com/artist/4iIcCz80dZo1cBHxdMbe9D) | [VENDETTAS](https://open.spotify.com/album/5Sl8vLxKHGY2WMtAHdr1ED) | 2:06 | 2023-12-13 |  |

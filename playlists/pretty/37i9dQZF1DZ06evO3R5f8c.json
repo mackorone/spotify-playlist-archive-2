@@ -1,12 +1,12 @@
 {
   "description": "This is Black Coffee. The essential tracks, all in one playlist.",
-  "num_followers": 202224,
+  "num_followers": 202267,
   "original_name": "This Is Black Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAACt5WbFUICqWEvdb2hF3NaG",
+  "snapshot_id": "arHFAAAAAABfS4dZVjOs9pmweKlrjcMq",
   "tracks": [
     {
       "added_at": null,
@@ -280,13 +280,13 @@
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Tortured Soul",
-          "url": "https://open.spotify.com/artist/3C1iOOVTmPNAe3a1exn0LL"
+          "name": "Nathan Adams",
+          "url": "https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9"
         }
       ],
-      "duration_ms": 376693,
-      "name": "I Know What's On Your Mind",
-      "url": "https://open.spotify.com/track/70IaMEsiO8r9KWP79AYz3q"
+      "duration_ms": 430066,
+      "name": "Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/6SJgKMpTkkS3A7OTOOpOo6"
     },
     {
       "added_at": null,
@@ -356,13 +356,13 @@
           "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
         },
         {
-          "name": "Nathan Adams",
-          "url": "https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9"
+          "name": "Tortured Soul",
+          "url": "https://open.spotify.com/artist/3C1iOOVTmPNAe3a1exn0LL"
         }
       ],
-      "duration_ms": 430066,
-      "name": "Afraid Of The Dark",
-      "url": "https://open.spotify.com/track/6SJgKMpTkkS3A7OTOOpOo6"
+      "duration_ms": 376693,
+      "name": "I Know What's On Your Mind",
+      "url": "https://open.spotify.com/track/70IaMEsiO8r9KWP79AYz3q"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Su Casa",
-        "url": "https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu"
-      },
-      "artists": [
-        {
-          "name": "Mi Casa",
-          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
-        },
-        {
-          "name": "Black Coffee",
-          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
-        }
-      ],
-      "duration_ms": 326586,
-      "name": "Africa Shine",
-      "url": "https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come With Me (feat. Mque)",
         "url": "https://open.spotify.com/album/3UU3FEti8TEKa1eD0zBSMS"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 197710,
       "name": "Come With Me (feat. Mque)",
       "url": "https://open.spotify.com/track/0rI2QuTpF9jhXlfFjunPdd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Su Casa",
+        "url": "https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu"
+      },
+      "artists": [
+        {
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
+        },
+        {
+          "name": "Black Coffee",
+          "url": "https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc"
+        }
+      ],
+      "duration_ms": 326586,
+      "name": "Africa Shine",
+      "url": "https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "All the new music you need to hear right now. Cover: Skepta",
-  "num_followers": 613238,
+  "num_followers": 613209,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
@@ -83,17 +83,21 @@
     {
       "added_at": "2026-09-17 23:00:37",
       "album": {
-        "name": "Small Town",
+        "name": "Small Town (feat. Gabriel Jacoby)",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
         {
           "name": "Dominic Fike",
           "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town",
+      "name": "Small Town (feat. Gabriel Jacoby)",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {

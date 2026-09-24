@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122644,
+  "num_followers": 122637,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVxDI568f+1dVx9hSTo/B1hCXDFjDy",
+  "snapshot_id": "AAAVxXWv1eXsbifEoJy8YlJHa6k3QcTN",
   "tracks": [
+    {
+      "added_at": "2026-09-23 17:01:54",
+      "album": {
+        "name": "See U Bounce",
+        "url": "https://open.spotify.com/album/4NJD5iYpn0iPH2qUR9H0sw"
+      },
+      "artists": [
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        },
+        {
+          "name": "Segan",
+          "url": "https://open.spotify.com/artist/0NgWGGk9p04zLTeFbIdsVO"
+        }
+      ],
+      "duration_ms": 222171,
+      "name": "See U Bounce",
+      "url": "https://open.spotify.com/track/7niB7gHrS3sVhILhHhZTp1"
+    },
     {
       "added_at": "2026-09-21 14:02:39",
       "album": {

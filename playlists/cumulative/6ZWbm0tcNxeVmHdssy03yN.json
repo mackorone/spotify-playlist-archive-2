@@ -36327,6 +36327,24 @@
     },
     {
       "album": {
+        "name": "Feed My Soul",
+        "url": "https://open.spotify.com/album/4So2NY98JJ7gx9yJYPaAwD"
+      },
+      "artists": [
+        {
+          "name": "M@G1",
+          "url": "https://open.spotify.com/artist/5Lw8LRPLPfpMy419g456zy"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224480,
+      "name": "Feed My Soul",
+      "url": "https://open.spotify.com/track/6aRrj9OOWs9uhGBTrvKFN0"
+    },
+    {
+      "album": {
         "name": "Feed Your Soul",
         "url": "https://open.spotify.com/album/5VkZldRsVD5PDL9qrhBKNM"
       },
@@ -81496,6 +81514,24 @@
       "duration_ms": 192500,
       "name": "Past Midnight (Acoustic)",
       "url": "https://open.spotify.com/track/73sgxhsap47d7BDZClpOuJ"
+    },
+    {
+      "album": {
+        "name": "Pastel Concrete",
+        "url": "https://open.spotify.com/album/2rallMbCW2z1BguTO4u1He"
+      },
+      "artists": [
+        {
+          "name": "M@G1",
+          "url": "https://open.spotify.com/artist/5Lw8LRPLPfpMy419g456zy"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "Pastel Concrete",
+      "url": "https://open.spotify.com/track/2bzlLawbweYyj3fCrcYX1H"
     },
     {
       "album": {

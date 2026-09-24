@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Miero YIC, Krulle, Bakss en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,343 likes - 70 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,340 likes - 70 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kom Kwijt](https://open.spotify.com/track/1STsYnJrgmFdf94pKI1EAR) | [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ), [HAYABUSA](https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd) | [Kom Kwijt](https://open.spotify.com/album/3i61rrPBBZfU5Q8OWuNNln) | 2:26 |
+| 1 | [Kom Kwijt](https://open.spotify.com/track/1STsYnJrgmFdf94pKI1EAR) | [HAYABUSA](https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd), [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ) | [Kom Kwijt](https://open.spotify.com/album/3i61rrPBBZfU5Q8OWuNNln) | 2:26 |
 | 2 | [Plug Is Frans](https://open.spotify.com/track/59S8vul4213DZY9GtvsSh6) | [Krulle](https://open.spotify.com/artist/46RCrwnB1Q69JdwTDyI7t0), [Chrisjeboy](https://open.spotify.com/artist/2NFMBayewMhxbcCJUv2Gtk), [Dret](https://open.spotify.com/artist/5a5wAoxsOfJiJISpzFjAvk) | [Plug Is Frans](https://open.spotify.com/album/6P40DAUF6ZWj9Edog7sHGH) | 2:26 |
 | 3 | [Intro](https://open.spotify.com/track/2m7ZjtOppkHNRnb7G3A5VL) | [Bakss](https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB) | [Intro](https://open.spotify.com/album/4Lu2nG0hs6Py0csv5nK2LJ) | 3:04 |
 | 4 | [La Mafia](https://open.spotify.com/track/4P1tSp9Wr4OidqkDNGBRt8) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Gettalot](https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc), [Trankey](https://open.spotify.com/artist/3ITIuvUv2kMjAWxqW4xofb) | [La Mafia](https://open.spotify.com/album/3aZ3J8YhTgJ5jwAUPLmpUL) | 3:08 |

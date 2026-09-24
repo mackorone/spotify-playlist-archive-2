@@ -61,6 +61,28 @@
     },
     {
       "album": {
+        "name": "Afsaana Banaaya Aapne (From \"Gunmaaster G9\")",
+        "url": "https://open.spotify.com/album/1HGzR5EdZZkQaZfYcBnBty"
+      },
+      "artists": [
+        {
+          "name": "Himesh Reshammiya",
+          "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "Afsaana Banaaya Aapne - From \"Gunmaaster G9\"",
+      "url": "https://open.spotify.com/track/7BailWMlPc70M5MGXTQy6c"
+    },
+    {
+      "album": {
         "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
         "url": "https://open.spotify.com/album/08PRzEfce7mwprUTvMmfh2"
       },
@@ -218,6 +240,28 @@
       "duration_ms": 292493,
       "name": "Bakhuda Tumhi Ho",
       "url": "https://open.spotify.com/track/0h73AwuEY2x44cBMOP58fO"
+    },
+    {
+      "album": {
+        "name": "Ek Villain",
+        "url": "https://open.spotify.com/album/3EkmvTqyKrnMw1WiVpsSwF"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Irfan",
+          "url": "https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY"
+        },
+        {
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336567,
+      "name": "Banjaara",
+      "url": "https://open.spotify.com/track/4eFnk661RcdOuH9ajiTO3j"
     },
     {
       "album": {
@@ -2580,7 +2624,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 342400,
       "name": "Tujhko - From \u201cCocktail 2\u201d",
       "url": "https://open.spotify.com/track/34bZqssAITx04EAzcffySn"
@@ -2866,6 +2910,10 @@
         {
           "name": "Nihal Tauro",
           "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
         }
       ],
       "date_added": "2026-09-21",
@@ -2892,7 +2940,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 208133,
       "name": "Zindagi Tere Naam (From \"Yodha\")",
       "url": "https://open.spotify.com/track/1eZ6nPXT1ovpBhVxYKRtaz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 
 > Sons para seu bebê dormir e relaxar / Sonidos para relajar a tu bebé
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,297 likes - 120 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,291 likes - 120 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 29 | [To the Store We Go](https://open.spotify.com/track/6uPZZCrR9eFJwhZdjwRhyk) | [Nolan Wren](https://open.spotify.com/artist/1bglI3t0xRpDdeiYugmOz0) | [To the Store We Go](https://open.spotify.com/album/2pAYbCCye9EdWtkGHdrEPq) | 1:26 |
 | 30 | [Little Boy Blue](https://open.spotify.com/track/5ahdo7kQdsDQWDRtPs6kGn) | [Lene Terne](https://open.spotify.com/artist/62VY5pvpRQPKrQ4n8YVOR8) | [Little Boy Blue](https://open.spotify.com/album/1YhSFSCgtEtwTqi8up1zlK) | 1:27 |
 | 31 | [The Ever So Elegant Elephant](https://open.spotify.com/track/59c9VlNMSG1rZM6FolL1Zm) | [Leo Button](https://open.spotify.com/artist/2OFHAfDosm7QmMH9DtQKFt) | [The Ever So Elegant Elephant](https://open.spotify.com/album/4upvwQ7R9DzYCXXmzx5Pgn) | 1:19 |
-| 32 | [Lullaby for Better Days](https://open.spotify.com/track/4H0tWV4I3OD2sPS8XLUClh) | [David Carrico](https://open.spotify.com/artist/1x8uPG69TarRCvAUD1N5Np) | [Lullaby for Better Days](https://open.spotify.com/album/2jvgRjutjBD4On4cGvsAoe) | 2:06 |
-| 33 | [Boattrip with Mum and Dad](https://open.spotify.com/track/6oXlbel2qf1SWlkWiVFBZu) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Boattrip with Mum and Dad](https://open.spotify.com/album/573EWoRYMPR2NvIptRbfls) | 1:25 |
+| 32 | [Boattrip with Mum and Dad](https://open.spotify.com/track/6oXlbel2qf1SWlkWiVFBZu) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Boattrip with Mum and Dad](https://open.spotify.com/album/573EWoRYMPR2NvIptRbfls) | 1:25 |
+| 33 | [Lullaby for Better Days](https://open.spotify.com/track/4H0tWV4I3OD2sPS8XLUClh) | [David Carrico](https://open.spotify.com/artist/1x8uPG69TarRCvAUD1N5Np) | [Lullaby for Better Days](https://open.spotify.com/album/2jvgRjutjBD4On4cGvsAoe) | 2:06 |
 | 34 | [Nightingales](https://open.spotify.com/track/6XAaEIck50dvq916jorgDQ) | [Caprice Henry](https://open.spotify.com/artist/3MJcT8HEZJ8QsSqgQd2A7G) | [Nightingales](https://open.spotify.com/album/7gOBRAV2KjPCDCz146QZBD) | 2:05 |
 | 35 | [Slowly Strolling](https://open.spotify.com/track/3ZBIVAWxcRk1XoaD6zEDN5) | [Michael Chausson](https://open.spotify.com/artist/5owt030AopCYxSP5NZldpI) | [Slowly Strolling](https://open.spotify.com/album/6fcrAEXY8HmxVOIAY8eEcJ) | 1:53 |
 | 36 | [Rainbow Dreams](https://open.spotify.com/track/3l05k9kzrvNhjHb0uBoQMy) | [Franciscus Love](https://open.spotify.com/artist/5rqMj8NroXxm0rH7yTo6TZ) | [Rainbow Dreams](https://open.spotify.com/album/7JXk9082EpMIx5JKc4E6L9) | 1:28 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 99 | [The Stars Above](https://open.spotify.com/track/1WY6rpRhyd0RFFiHUkYjRb) | [Luna Lullaby](https://open.spotify.com/artist/536tWPZqsyMSqSLXbftqg1) | [The Stars Above](https://open.spotify.com/album/7pHXhZ3mHRPj5Go0nlCmBD) | 1:40 |
 | 100 | [Golden Dreams](https://open.spotify.com/track/7K3ct3kNB4DbmABnWsuPIq) | [Arlo Fry](https://open.spotify.com/artist/09SeCXWOJ9r88UZD6uoxgs) | [Golden Dreams](https://open.spotify.com/album/3lQYMVLKmjLqCFEwDCKgUW) | 1:48 |
 | 101 | [Here Comes The Night](https://open.spotify.com/track/1RaPC5ZXzUtiGGDDMJGPXK) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Songs To Sleep To](https://open.spotify.com/album/0HmMHea4hvUgPZF3p4gsKt) | 2:09 |
-| 102 | [Butterflies](https://open.spotify.com/track/6911enshoKYsen0CF2rLwq) | [Carlton Howland](https://open.spotify.com/artist/2w3kf88cpyF3SyYN0iGocx) | [Butterflies](https://open.spotify.com/album/6h7Psm9coLEenLZ5po1grF) | 1:14 |
-| 103 | [Coconut Lullaby](https://open.spotify.com/track/6Mw7O72duVGaJnPY6WZPWt) | [William Flake](https://open.spotify.com/artist/0p3iReA37Fhy2A1ViLUcp4) | [Coconut Lullaby](https://open.spotify.com/album/0Enm48bxdpNkTqidwAXeCZ) | 1:51 |
+| 102 | [Coconut Lullaby](https://open.spotify.com/track/6Mw7O72duVGaJnPY6WZPWt) | [William Flake](https://open.spotify.com/artist/0p3iReA37Fhy2A1ViLUcp4) | [Coconut Lullaby](https://open.spotify.com/album/0Enm48bxdpNkTqidwAXeCZ) | 1:51 |
+| 103 | [Butterflies](https://open.spotify.com/track/6911enshoKYsen0CF2rLwq) | [Carlton Howland](https://open.spotify.com/artist/2w3kf88cpyF3SyYN0iGocx) | [Butterflies](https://open.spotify.com/album/6h7Psm9coLEenLZ5po1grF) | 1:14 |
 | 104 | [You Can Close Your Eyes](https://open.spotify.com/track/17JdBU8XhaQHTSFVRUIXg5) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [You Can Close Your Eyes](https://open.spotify.com/album/0inOy4tIchEEMyQvxddMxY) | 1:46 |
 | 105 | [Little Ballerina](https://open.spotify.com/track/0iVFnnn0nCjdv2XhlO7BA9) | [Niels Olaf](https://open.spotify.com/artist/67wAX23O6iI5YrZKU1f6xq) | [Little Ballerina](https://open.spotify.com/album/7bLaVvG89oTvjZJcGWp8kO) | 1:34 |
 | 106 | [You And Me](https://open.spotify.com/track/6Gkekn4vTkqR1leDE7hjs0) | [Isaac Tira](https://open.spotify.com/artist/36itJVdaUkayBbmezbbDo7) | [Bedtime Melodies](https://open.spotify.com/album/3tBxqFudcu4upFnwbsMEG3) | 1:45 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gmQDrFAm58.md) - [plain]
 | 108 | [Baby Miracle](https://open.spotify.com/track/6ELeHWDT0ek6PEmZowusec) | [Nattkvisten](https://open.spotify.com/artist/7tPCegvX3wIjKlWDJ4HIoe) | [Baby Miracle](https://open.spotify.com/album/4SgtuuF2PuzM4NJKEh0FNi) | 1:51 |
 | 109 | [Treehouse](https://open.spotify.com/track/09p9WmqfzXwgucwOG4dMmT) | [Chasing Mice](https://open.spotify.com/artist/5emC0ACttJgLui278GswPX) | [Treehouse](https://open.spotify.com/album/6ft7wve4D5M8aZkqTktFrL) | 1:50 |
 | 110 | [Northern Light](https://open.spotify.com/track/1c6T0UHkI3ZCJlH1RWpDMn) | [Rainbow Nights](https://open.spotify.com/artist/6lGpIWm6hgV92rnBgeZEXZ) | [Northern Light](https://open.spotify.com/album/3oDzCayWk70GnkWOMyYkQr) | 2:00 |
-| 111 | [My Pink Baloon](https://open.spotify.com/track/6BDbtRoNOapsFeJQGE5fmv) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [My Pink Baloon](https://open.spotify.com/album/1LeFmlbaMfz6i9nNEgfqh6) | 1:35 |
-| 112 | [Hey Lily Lie](https://open.spotify.com/track/2VKM9nrceuYdoXcQrl7XBa) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Hey Lily Lie](https://open.spotify.com/album/2k5RBN8zIvvtZ7moh4kyfc) | 1:40 |
+| 111 | [Hey Lily Lie](https://open.spotify.com/track/2VKM9nrceuYdoXcQrl7XBa) | [Jesse Birkman](https://open.spotify.com/artist/5TJ2Xx7poTZRmfEWmsZZhH) | [Hey Lily Lie](https://open.spotify.com/album/2k5RBN8zIvvtZ7moh4kyfc) | 1:40 |
+| 112 | [My Pink Baloon](https://open.spotify.com/track/6BDbtRoNOapsFeJQGE5fmv) | [Lille Du](https://open.spotify.com/artist/1bNG6qjWLR1cCdvsrxenvH) | [My Pink Baloon](https://open.spotify.com/album/1LeFmlbaMfz6i9nNEgfqh6) | 1:35 |
 | 113 | [Glorious](https://open.spotify.com/track/2Pnkj5S1dgpKab8jPx9qRO) | [Miso Miso](https://open.spotify.com/artist/7yN9ZD8Kb1D8yt5LWTz4yD) | [Memories](https://open.spotify.com/album/5Fhc4heUEqsi32fZCCTl7o) | 3:33 |
 | 114 | [Bedside Lamp](https://open.spotify.com/track/3XSiZolukB6iiNITmWLKbK) | [Isabella Kent](https://open.spotify.com/artist/1GDviCQQnLpKaPdLBYkIgB) | [Bedside Lamp](https://open.spotify.com/album/6JxxZ2GZVyaUVRRXxuEsS7) | 1:15 |
 | 115 | [Slumber Slumber](https://open.spotify.com/track/1UT9kSB7uXa4tFVq5AxztN) | [Robin Thames](https://open.spotify.com/artist/6TMNfZRg48kWC72NJErGJH) | [Slumber Slumber](https://open.spotify.com/album/60Hx9WjhzCNmPG3ugl0T3u) | 1:09 |

@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Urban Legends",
+        "url": "https://open.spotify.com/album/5Rl9408O7edQI7kXWQWfuH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Scott",
+          "url": "https://open.spotify.com/artist/2Puyl7pb2WOipiBORyFKKH"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173785,
+      "name": "All i ever wanted",
+      "url": "https://open.spotify.com/track/5EyoH8vk6UZ23j6AuriG5S"
+    },
+    {
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/2VYG35zYIpbRF9YQPjXXeG"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Enjoy music From \"Paradox Live\"! \u00a9Paradox Live2023",
-  "num_followers": 43085,
+  "num_followers": 43084,
   "original_name": "Paradox Live -\u30d1\u30e9\u30e9\u30a4-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMBb+IagbU5+ZL1ZUbQiTwzPN8TU",
+  "snapshot_id": "AAAAAJ9Yg0EkRThciLLo4fRaPd9qZq2V",
   "tracks": [
     {
       "added_at": "2026-09-15 16:20:21",
@@ -59,6 +59,22 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
+        "name": "Paradox Live covers \u201cPROPS\u201d",
+        "url": "https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "duration_ms": 206429,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/4fTxxeetlTqcbqP44AtpgW"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
         "name": "Paradox Live 2nd album \"LIVE\"",
         "url": "https://open.spotify.com/album/6PbWO9ou73noEL2x7o6WHj"
       },
@@ -71,22 +87,6 @@
       "duration_ms": 218213,
       "name": "BURAIKAN is Back",
       "url": "https://open.spotify.com/track/6OKzjZpcn7VBU15pDETP4a"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live Opening Show-Road to Legend-",
-        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
-      },
-      "artists": [
-        {
-          "name": "VISTY",
-          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "For my Stella",
-      "url": "https://open.spotify.com/track/44235JiVl4tVmnLu7bw9yp"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "For my Stella",
+      "url": "https://open.spotify.com/track/44235JiVl4tVmnLu7bw9yp"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
         "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
         "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 177280,
       "name": "Trigger",
       "url": "https://open.spotify.com/track/17TfJV2sZ7qWMtYgNATuKj"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live Seasonal Show",
-        "url": "https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926"
-      },
-      "artists": [
-        {
-          "name": "Paradox Live All ARTISTS",
-          "url": "https://open.spotify.com/artist/439BVmjoc70mFAbYc77Y8V"
-        }
-      ],
-      "duration_ms": 346509,
-      "name": "29 Verse -One Mic One Spit One Kill-",
-      "url": "https://open.spotify.com/track/2066slyoWqL4rHtFNQVsLL"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -259,6 +259,22 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
+        "name": "Paradox Live Seasonal Show",
+        "url": "https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926"
+      },
+      "artists": [
+        {
+          "name": "Paradox Live All ARTISTS",
+          "url": "https://open.spotify.com/artist/439BVmjoc70mFAbYc77Y8V"
+        }
+      ],
+      "duration_ms": 346509,
+      "name": "29 Verse -One Mic One Spit One Kill-",
+      "url": "https://open.spotify.com/track/2066slyoWqL4rHtFNQVsLL"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
         "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
         "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 241442,
       "name": "S\u2200G\u2200",
       "url": "https://open.spotify.com/track/1904WDc1vPTyicKpWOjYCY"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live covers \u201cPROPS\u201d",
-        "url": "https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2"
-      },
-      "artists": [
-        {
-          "name": "cozmez",
-          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
-        }
-      ],
-      "duration_ms": 206429,
-      "name": "Mainstream",
-      "url": "https://open.spotify.com/track/4fTxxeetlTqcbqP44AtpgW"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -307,8 +307,8 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live Opening Show -Battle of Unity- Unit A",
-        "url": "https://open.spotify.com/album/2oX3jgGmhPQn8XLMm2gO1C"
+        "name": "Paradox Live Opening Show",
+        "url": "https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs"
       },
       "artists": [
         {
@@ -316,9 +316,29 @@
           "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
         }
       ],
-      "duration_ms": 215072,
-      "name": "Bigger Bigger BaNG!!!",
-      "url": "https://open.spotify.com/track/1nEMHSBmyQMN5KCpO7PUdN"
+      "duration_ms": 231306,
+      "name": "BaNG!!!",
+      "url": "https://open.spotify.com/track/5SinNGF0VqJENVU294uCje"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live Exhibition Show -cozmez-",
+        "url": "https://open.spotify.com/album/6JQzd5Ef2iKrF1KC758s30"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        },
+        {
+          "name": "SKY-HI",
+          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
+        }
+      ],
+      "duration_ms": 168822,
+      "name": "Good Time - feat. SKY-HI",
+      "url": "https://open.spotify.com/track/6M116cTbFxwbv7tJcMiv5G"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -355,26 +375,6 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live Exhibition Show -cozmez-",
-        "url": "https://open.spotify.com/album/6JQzd5Ef2iKrF1KC758s30"
-      },
-      "artists": [
-        {
-          "name": "cozmez",
-          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
-        },
-        {
-          "name": "SKY-HI",
-          "url": "https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2"
-        }
-      ],
-      "duration_ms": 168822,
-      "name": "Good Time - feat. SKY-HI",
-      "url": "https://open.spotify.com/track/6M116cTbFxwbv7tJcMiv5G"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
         "name": "Paradox Live Shuffle Team Show (Vol.2)",
         "url": "https://open.spotify.com/album/0Rnc7ihMXSzdvQ02iVvfu3"
       },
@@ -395,8 +395,8 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live Opening Show",
-        "url": "https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs"
+        "name": "Paradox Live Opening Show -Battle of Unity- Unit A",
+        "url": "https://open.spotify.com/album/2oX3jgGmhPQn8XLMm2gO1C"
       },
       "artists": [
         {
@@ -404,41 +404,9 @@
           "url": "https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH"
         }
       ],
-      "duration_ms": 231306,
-      "name": "BaNG!!!",
-      "url": "https://open.spotify.com/track/5SinNGF0VqJENVU294uCje"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
-        "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
-      },
-      "artists": [
-        {
-          "name": "1Nm8",
-          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
-        }
-      ],
-      "duration_ms": 236442,
-      "name": "edN",
-      "url": "https://open.spotify.com/track/4oGINy3fZWYNoUZSPaGoJR"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live -Road to Legend- FINAL\"REVOLUTION\"",
-        "url": "https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA"
-      },
-      "artists": [
-        {
-          "name": "\u7344Luck",
-          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
-        }
-      ],
-      "duration_ms": 204971,
-      "name": "S.W.A.G.",
-      "url": "https://open.spotify.com/track/1zXouHes5cmxiDoJfhuGrJ"
+      "duration_ms": 215072,
+      "name": "Bigger Bigger BaNG!!!",
+      "url": "https://open.spotify.com/track/1nEMHSBmyQMN5KCpO7PUdN"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -459,6 +427,22 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
+        "name": "Paradox Live -Road to Legend- Round1 \u201cFATE\"",
+        "url": "https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf"
+      },
+      "artists": [
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "duration_ms": 236442,
+      "name": "edN",
+      "url": "https://open.spotify.com/track/4oGINy3fZWYNoUZSPaGoJR"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
         "name": "Paradox Live -Road to Legend- Round1 \u201cRAGE\"",
         "url": "https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 192920,
       "name": "BE A STAR",
       "url": "https://open.spotify.com/track/1Wp8xRAX9eE9k2j2OuG2px"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live -Road to Legend- FINAL\"REVOLUTION\"",
+        "url": "https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA"
+      },
+      "artists": [
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "duration_ms": 204971,
+      "name": "S.W.A.G.",
+      "url": "https://open.spotify.com/track/1zXouHes5cmxiDoJfhuGrJ"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -503,38 +503,6 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live Opening Show-Road to Legend-",
-        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
-      },
-      "artists": [
-        {
-          "name": "AMPRULE",
-          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "Do as I say",
-      "url": "https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live 3rd album \"ANTHEM\"",
-        "url": "https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD"
-      },
-      "artists": [
-        {
-          "name": "\u7344Luck",
-          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
-        }
-      ],
-      "duration_ms": 210234,
-      "name": "\u30ab\u30bf\u30eb\u30b7\u30b9",
-      "url": "https://open.spotify.com/track/1p2JlehLqhUTd8WXiOI2wA"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
         "name": "Paradox Live -Road to Legend- FINAL\"REVOLUTION\"",
         "url": "https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA"
       },
@@ -547,6 +515,22 @@
       "duration_ms": 194000,
       "name": "Two Crowns",
       "url": "https://open.spotify.com/track/3zexZYulEPhRXeyUjF8Kq2"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live Opening Show-Road to Legend-",
+        "url": "https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs"
+      },
+      "artists": [
+        {
+          "name": "AMPRULE",
+          "url": "https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0"
+        }
+      ],
+      "duration_ms": 182440,
+      "name": "Do as I say",
+      "url": "https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -567,6 +551,22 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
+        "name": "Paradox Live 3rd album \"ANTHEM\"",
+        "url": "https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD"
+      },
+      "artists": [
+        {
+          "name": "\u7344Luck",
+          "url": "https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA"
+        }
+      ],
+      "duration_ms": 210234,
+      "name": "\u30ab\u30bf\u30eb\u30b7\u30b9",
+      "url": "https://open.spotify.com/track/1p2JlehLqhUTd8WXiOI2wA"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
         "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
         "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
       },
@@ -583,38 +583,6 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live -Battle of Unity- Round3 \u201cFUTURE\u201d",
-        "url": "https://open.spotify.com/album/1MxL6gUA0dG5XbJuz4h4QR"
-      },
-      "artists": [
-        {
-          "name": "1Nm8",
-          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "Grace \u0418 Guilt",
-      "url": "https://open.spotify.com/track/1eW3q29gURRKBqA9a2WTAw"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
-        "name": "Paradox Live Seasonal Show",
-        "url": "https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926"
-      },
-      "artists": [
-        {
-          "name": "team Summer",
-          "url": "https://open.spotify.com/artist/0n0NYX7hN26kMCBFjaqI7l"
-        }
-      ],
-      "duration_ms": 250605,
-      "name": "\u30d3\u30fc\u30c1\u30b5\u30a4\u30c9ZOO",
-      "url": "https://open.spotify.com/track/19qYkTWLZEV8VCZEL5EVGK"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
         "name": "Paradox Live -Battle of Unity-",
         "url": "https://open.spotify.com/album/6bITKXIZeYm6C9UKgd7giw"
       },
@@ -627,6 +595,22 @@
       "duration_ms": 203210,
       "name": "Day to day",
       "url": "https://open.spotify.com/track/4tvalIFTQxvZU65ZKatSqH"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live -Battle of Unity- Round3 \u201cFUTURE\u201d",
+        "url": "https://open.spotify.com/album/1MxL6gUA0dG5XbJuz4h4QR"
+      },
+      "artists": [
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "duration_ms": 204866,
+      "name": "Grace \u0418 Guilt",
+      "url": "https://open.spotify.com/track/1eW3q29gURRKBqA9a2WTAw"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -651,6 +635,22 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
+        "name": "Paradox Live Seasonal Show",
+        "url": "https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926"
+      },
+      "artists": [
+        {
+          "name": "team Summer",
+          "url": "https://open.spotify.com/artist/0n0NYX7hN26kMCBFjaqI7l"
+        }
+      ],
+      "duration_ms": 250605,
+      "name": "\u30d3\u30fc\u30c1\u30b5\u30a4\u30c9ZOO",
+      "url": "https://open.spotify.com/track/19qYkTWLZEV8VCZEL5EVGK"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
         "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
         "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
       },
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live 3rd album \"ANTHEM\"",
-        "url": "https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD"
-      },
-      "artists": [
-        {
-          "name": "1Nm8",
-          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "EGOlution",
-      "url": "https://open.spotify.com/track/4sCjnIyFZ9EOSnRUlzmrE2"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
         "name": "Paradox Live -Battle of Unity- \u6b66\u96f7\u7ba1 \"ZERO\"",
         "url": "https://open.spotify.com/album/7cGu9zlFI8dQ3fx9x6LvRv"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 219408,
       "name": "Back In The Day",
       "url": "https://open.spotify.com/track/7oYDm9ZIqVBVeWUYP7xeGu"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live 3rd album \"ANTHEM\"",
+        "url": "https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD"
+      },
+      "artists": [
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "EGOlution",
+      "url": "https://open.spotify.com/track/4sCjnIyFZ9EOSnRUlzmrE2"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live -Battle of Unity- Round3 \u201cFUTURE\u201d",
-        "url": "https://open.spotify.com/album/1MxL6gUA0dG5XbJuz4h4QR"
-      },
-      "artists": [
-        {
-          "name": "VISTY",
-          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
-        }
-      ],
-      "duration_ms": 194789,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/3Gd4qqlvj1TRADp9B1t2we"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
         "name": "Paradox Live THE ANIMATION Ending Track\u300cEvery Day Every Night\u300d",
         "url": "https://open.spotify.com/album/1DsTcWJf1mpTVtzUjMgYEE"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 196600,
       "name": "Every Day Every Night",
       "url": "https://open.spotify.com/track/11uZKZOVRvptbrOY62zIVr"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live -Battle of Unity- Round3 \u201cFUTURE\u201d",
+        "url": "https://open.spotify.com/album/1MxL6gUA0dG5XbJuz4h4QR"
+      },
+      "artists": [
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "duration_ms": 194789,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/3Gd4qqlvj1TRADp9B1t2we"
     },
     {
       "added_at": "2026-09-15 16:20:21",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-09-15 16:20:21",
       "album": {
-        "name": "Paradox Live Opening Show -Battle of Unity- Unit R",
-        "url": "https://open.spotify.com/album/2w7gbywyv7lFjvmwp6onBb"
-      },
-      "artists": [
-        {
-          "name": "VISTY",
-          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
-        }
-      ],
-      "duration_ms": 220591,
-      "name": "MAGIC CARPET",
-      "url": "https://open.spotify.com/track/7kznGbmLRWbEjPmNdUxpcO"
-    },
-    {
-      "added_at": "2026-09-15 16:20:21",
-      "album": {
         "name": "Paradox Live - Road to Legend - Consolation Match\"SHOWDOWN\"",
         "url": "https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 212850,
       "name": "DO or DIE",
       "url": "https://open.spotify.com/track/0MBobLFrNvoZp2oAryOrD7"
+    },
+    {
+      "added_at": "2026-09-15 16:20:21",
+      "album": {
+        "name": "Paradox Live Opening Show -Battle of Unity- Unit R",
+        "url": "https://open.spotify.com/album/2w7gbywyv7lFjvmwp6onBb"
+      },
+      "artists": [
+        {
+          "name": "VISTY",
+          "url": "https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF"
+        }
+      ],
+      "duration_ms": 220591,
+      "name": "MAGIC CARPET",
+      "url": "https://open.spotify.com/track/7kznGbmLRWbEjPmNdUxpcO"
     },
     {
       "added_at": "2026-09-15 16:20:21",

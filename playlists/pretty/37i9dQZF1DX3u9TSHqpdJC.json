@@ -1,13 +1,157 @@
 {
-  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: Hannah Hu. Artwork by Paola Saliby",
-  "num_followers": 243316,
+  "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: googly eyes. Artwork by Paola Saliby",
+  "num_followers": 243382,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFXisc5OufZq3M0HTtMdzi+Pcqcb",
+  "snapshot_id": "AAAAABMK08xTJh63lG1pQrPnXYpzD9yc",
   "tracks": [
+    {
+      "added_at": "2026-09-23 04:00:18",
+      "album": {
+        "name": "Pandora's Box",
+        "url": "https://open.spotify.com/album/7oih3H4FOs1hanid3XZtrM"
+      },
+      "artists": [
+        {
+          "name": "googly eyes",
+          "url": "https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa"
+        }
+      ],
+      "duration_ms": 140096,
+      "name": "Pandora's Box",
+      "url": "https://open.spotify.com/track/0Zl1zSRORtMFemOV0c79O4"
+    },
+    {
+      "added_at": "2026-09-23 04:00:18",
+      "album": {
+        "name": "She's Just A Friend Of Mine",
+        "url": "https://open.spotify.com/album/2RwbSWEsPaS21vssjkLHC2"
+      },
+      "artists": [
+        {
+          "name": "twst",
+          "url": "https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD"
+        }
+      ],
+      "duration_ms": 160265,
+      "name": "She's Just A Friend Of Mine",
+      "url": "https://open.spotify.com/track/4HZb7nI9lA3VNFlZeyw1j8"
+    },
+    {
+      "added_at": "2026-09-23 04:00:18",
+      "album": {
+        "name": "Heartblush",
+        "url": "https://open.spotify.com/album/6psB217RGciVr55Ss6c1MI"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "Heartblush",
+      "url": "https://open.spotify.com/track/0AGcI0jKRUFTlVF0dpffsk"
+    },
+    {
+      "added_at": "2026-09-23 04:00:18",
+      "album": {
+        "name": "Always The Same",
+        "url": "https://open.spotify.com/album/0UQd6myReEV9LZ5NcT1lJW"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Always The Same",
+      "url": "https://open.spotify.com/track/5RZomQGckBcXSH8lsKBhqD"
+    },
+    {
+      "added_at": "2026-09-23 04:00:18",
+      "album": {
+        "name": "Eyes On Me",
+        "url": "https://open.spotify.com/album/57wv3zOHTw2QW13JRt6tPX"
+      },
+      "artists": [
+        {
+          "name": " louii lane",
+          "url": "https://open.spotify.com/artist/0fvGg23DNfUvCS0dHT7g8v"
+        }
+      ],
+      "duration_ms": 164441,
+      "name": "Eyes On Me",
+      "url": "https://open.spotify.com/track/2V3vjSqRbYfhPkUrczYnxo"
+    },
+    {
+      "added_at": "2026-09-23 06:06:21",
+      "album": {
+        "name": "Girls Like Me Don't Change",
+        "url": "https://open.spotify.com/album/6L7P4H98Nagqf6huajQCjC"
+      },
+      "artists": [
+        {
+          "name": "Syamali",
+          "url": "https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4"
+        }
+      ],
+      "duration_ms": 194451,
+      "name": "Girls Like Me Don't Change",
+      "url": "https://open.spotify.com/track/3I3WLLudgxREJVzKsJWfu3"
+    },
+    {
+      "added_at": "2026-09-23 04:00:18",
+      "album": {
+        "name": "animal",
+        "url": "https://open.spotify.com/album/39JZEVlJ6VQKs2YQSsRHR1"
+      },
+      "artists": [
+        {
+          "name": "Josie Oliver",
+          "url": "https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan"
+        }
+      ],
+      "duration_ms": 180471,
+      "name": "animal",
+      "url": "https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe"
+    },
+    {
+      "added_at": "2026-09-23 04:00:18",
+      "album": {
+        "name": "Man Enough",
+        "url": "https://open.spotify.com/album/5kejP2Xd8vdJRZXvpVxmP5"
+      },
+      "artists": [
+        {
+          "name": "Darla Dean Lewis",
+          "url": "https://open.spotify.com/artist/2TEh5cvUSNluFS4IGEbzwF"
+        }
+      ],
+      "duration_ms": 197894,
+      "name": "Man Enough",
+      "url": "https://open.spotify.com/track/1318spJdy8mQUKFDMeS65F"
+    },
+    {
+      "added_at": "2026-09-23 04:00:18",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/3c9NqjSeMwC2CmEVKwOTF6"
+      },
+      "artists": [
+        {
+          "name": "Thilda U",
+          "url": "https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/1v6r9yWdxSDst5EAeIdF4l"
+    },
     {
       "added_at": "2026-09-09 04:00:32",
       "album": {
@@ -797,54 +941,6 @@
       "url": "https://open.spotify.com/track/7wHjcHhQJb883IZpeDlJgw"
     },
     {
-      "added_at": "2026-08-05 04:00:03",
-      "album": {
-        "name": "the dog that cries",
-        "url": "https://open.spotify.com/album/3on0VJ00sQWwhNSD85CGi0"
-      },
-      "artists": [
-        {
-          "name": "gottsy",
-          "url": "https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb"
-        }
-      ],
-      "duration_ms": 164594,
-      "name": "the dog that cries",
-      "url": "https://open.spotify.com/track/6NRoy34F0juS7q0JaZibmO"
-    },
-    {
-      "added_at": "2026-08-05 04:00:03",
-      "album": {
-        "name": "meaningless",
-        "url": "https://open.spotify.com/album/6WF2nnOrbR4zWv0uyvPAxm"
-      },
-      "artists": [
-        {
-          "name": "go4broke",
-          "url": "https://open.spotify.com/artist/0B7eexcdtWm3ckbSKAb25R"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "meaningless",
-      "url": "https://open.spotify.com/track/3AxVIJ9xZrp6P7vwsS4Z93"
-    },
-    {
-      "added_at": "2026-08-05 04:00:03",
-      "album": {
-        "name": "delusional",
-        "url": "https://open.spotify.com/album/7eO0fIA3XKRpyKzd2bnvf4"
-      },
-      "artists": [
-        {
-          "name": "Marianne Leigh",
-          "url": "https://open.spotify.com/artist/1iFfYdsTHCQ7D0jUS5dE5n"
-        }
-      ],
-      "duration_ms": 171544,
-      "name": "delusional",
-      "url": "https://open.spotify.com/track/46hzNHAyf1dz6gncGM0CpD"
-    },
-    {
       "added_at": "2026-07-29 04:00:18",
       "album": {
         "name": "See You in the Summer",
@@ -875,70 +971,6 @@
       "duration_ms": 246680,
       "name": "Before The Magic Shattered",
       "url": "https://open.spotify.com/track/2cpuXUKtONY2WoxjuxgbF8"
-    },
-    {
-      "added_at": "2026-07-29 04:00:18",
-      "album": {
-        "name": "Boystore",
-        "url": "https://open.spotify.com/album/4J4wj2xK35OtyhVQpKATGf"
-      },
-      "artists": [
-        {
-          "name": "Cate Tomlinson",
-          "url": "https://open.spotify.com/artist/44JI8Kf7e9qDhfEebdD2Y2"
-        }
-      ],
-      "duration_ms": 163552,
-      "name": "Boystore",
-      "url": "https://open.spotify.com/track/3fAa3Wl8wDwcfDlWMad5PY"
-    },
-    {
-      "added_at": "2026-07-29 04:00:18",
-      "album": {
-        "name": "Experiment",
-        "url": "https://open.spotify.com/album/3rn9DuGpBKyFHesuTFMdHa"
-      },
-      "artists": [
-        {
-          "name": "EMMMA",
-          "url": "https://open.spotify.com/artist/69BpHcuizlrHOsWhQoIPMd"
-        }
-      ],
-      "duration_ms": 154029,
-      "name": "Experiment",
-      "url": "https://open.spotify.com/track/1vavMPmK52RKpWUvKWgpL2"
-    },
-    {
-      "added_at": "2026-07-29 04:00:18",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/0zL2XiJgWo3Hck6lF97oCS"
-      },
-      "artists": [
-        {
-          "name": "Ruby Poole",
-          "url": "https://open.spotify.com/artist/4NOjKCalI88oi54IV7vJ7o"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/5E0hXNBZHBVNa67rIzlACp"
-    },
-    {
-      "added_at": "2026-07-29 04:00:18",
-      "album": {
-        "name": "Through generations",
-        "url": "https://open.spotify.com/album/31DzAhee5Df46BvPQW2QxH"
-      },
-      "artists": [
-        {
-          "name": "Dalia",
-          "url": "https://open.spotify.com/artist/17orQCuVzTd15lJ8JNR98p"
-        }
-      ],
-      "duration_ms": 243287,
-      "name": "Through generations",
-      "url": "https://open.spotify.com/track/6hM2tgX36Cd8zCq3hIpo1p"
     },
     {
       "added_at": "2026-07-29 04:00:18",
@@ -1085,22 +1117,6 @@
       "url": "https://open.spotify.com/track/7neEbVYXg6S55GZXfNUeis"
     },
     {
-      "added_at": "2026-07-15 04:00:28",
-      "album": {
-        "name": "No Narcotics",
-        "url": "https://open.spotify.com/album/1XyWbK9QroIJngVcDJAFi1"
-      },
-      "artists": [
-        {
-          "name": "Orchid",
-          "url": "https://open.spotify.com/artist/6QOxGQVxMhHHeljjU5dIvV"
-        }
-      ],
-      "duration_ms": 168445,
-      "name": "No Narcotics",
-      "url": "https://open.spotify.com/track/3x9R6kjsYRX022NcZCXBnQ"
-    },
-    {
       "added_at": "2026-09-11 19:41:21",
       "album": {
         "name": "U-Turn",
@@ -1131,22 +1147,6 @@
       "duration_ms": 167920,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/3w9TwHXJrfuti3lFQhLEwh"
-    },
-    {
-      "added_at": "2026-07-15 04:00:28",
-      "album": {
-        "name": "The Drugs Don't Work Anymore",
-        "url": "https://open.spotify.com/album/2iLE0p4uqI9Mj4n5qZfHch"
-      },
-      "artists": [
-        {
-          "name": "Josephine Genais",
-          "url": "https://open.spotify.com/artist/5cBxSvPitCMSPk1edMceKC"
-        }
-      ],
-      "duration_ms": 211541,
-      "name": "The Drugs Don't Work Anymore",
-      "url": "https://open.spotify.com/track/1xCcro54yyumRjWFBD6b0D"
     },
     {
       "added_at": "2026-07-08 04:00:12",

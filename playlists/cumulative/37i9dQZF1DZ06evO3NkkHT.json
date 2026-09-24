@@ -122,6 +122,10 @@
           "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
         },
         {
+          "name": "Tony Coles",
+          "url": "https://open.spotify.com/artist/3JBqsRSZaUI6W3cVAcZu5K"
+        },
+        {
           "name": "600 Ent.",
           "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
         }
@@ -132,6 +136,36 @@
       "duration_ms": 188586,
       "name": "6IXER PARTY (FEAT. SNOOP DOGG)",
       "url": "https://open.spotify.com/track/0bWbDcx2GyvCFjCOW9XvlH"
+    },
+    {
+      "album": {
+        "name": "6WA",
+        "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "MurdaGang PB",
+          "url": "https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr"
+        },
+        {
+          "name": "Yung Hood",
+          "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
+        }
+      ],
+      "date_added": "2026-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128493,
+      "name": "6WA",
+      "url": "https://open.spotify.com/track/3f0ZKyw7mIbnVJiF2iz3dN"
     },
     {
       "album": {
@@ -162,40 +196,6 @@
       "duration_ms": 128573,
       "name": "6WA",
       "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
-    },
-    {
-      "album": {
-        "name": "6WA",
-        "url": "https://open.spotify.com/album/1ycJGUC68zkGwUHdlCqre0"
-      },
-      "artists": [
-        {
-          "name": "BigXthaPlug",
-          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
-        },
-        {
-          "name": "Ro$ama",
-          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "MurdaGang PB",
-          "url": "https://open.spotify.com/artist/5vdwkO2Let6z32D2Oa9MEr"
-        },
-        {
-          "name": "Yung Hood",
-          "url": "https://open.spotify.com/artist/3OTNDa1tTW4HSiGfxZuJkI"
-        },
-        {
-          "name": "600 Ent.",
-          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
-        }
-      ],
-      "date_added": "2026-05-27",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128493,
-      "name": "6WA",
-      "url": "https://open.spotify.com/track/3f0ZKyw7mIbnVJiF2iz3dN"
     },
     {
       "album": {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 132537,
       "name": "Boy",
       "url": "https://open.spotify.com/track/746X8HvYnbrMIqHl9R4QP1"
@@ -710,13 +710,17 @@
         {
           "name": "BigXthaPlug",
           "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "600 Ent.",
+          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
         }
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 122266,
-      "name": "From The Bottom",
+      "duration_ms": 122240,
+      "name": "FROM THE BOTTOM",
       "url": "https://open.spotify.com/track/3nENfCHtFMlnKUMpCU3jUn"
     },
     {
@@ -1260,10 +1264,6 @@
         {
           "name": "Ro$ama",
           "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
-        },
-        {
-          "name": "600 Ent.",
-          "url": "https://open.spotify.com/artist/0TrRaMO8jDnJDcva8BWgkU"
         }
       ],
       "date_added": "2025-09-04",
@@ -1309,7 +1309,7 @@
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 119015,
+      "duration_ms": 119026,
       "name": "Mmhmm",
       "url": "https://open.spotify.com/track/4QTlxavdQGUVitxAvQqqkU"
     },
@@ -1392,6 +1392,28 @@
       "duration_ms": 149767,
       "name": "No Love (feat. BigXthaPlug)",
       "url": "https://open.spotify.com/track/7fhLrdNbOB040rUZWR9XWs"
+    },
+    {
+      "album": {
+        "name": "My Forte",
+        "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        },
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167114,
+      "name": "Picc ah Side",
+      "url": "https://open.spotify.com/track/6TbgonRcfEQX9xUUbo9N5M"
     },
     {
       "album": {

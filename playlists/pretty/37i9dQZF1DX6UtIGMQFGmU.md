@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6UtIGMQFGmU.md) - [plain]
 
 > Gamma waves at 40 Hz and above\. For concentration and studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,369 likes - 90 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,464 likes - 90 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

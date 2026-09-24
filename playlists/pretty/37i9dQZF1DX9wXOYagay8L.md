@@ -2,21 +2,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Langa Mavuso
+> Proudly Southern African Afropop gems\. Cover: Musa
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,210 likes - 95 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,265 likes - 95 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ngiyaz'fela](https://open.spotify.com/track/4oXYR6jNzr0wVBye2rc2V4) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [Ngiyaz'fela](https://open.spotify.com/album/2PPrNvYmx8iUQJMsLhS8Yn) | 3:48 |
-| 2 | [Come Duze](https://open.spotify.com/track/5GgMTUIDwPuhAJrpqaHsZc) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Come Duze](https://open.spotify.com/album/6SdVs1UyZWW3B6mBVvT8wF) | 3:39 |
-| 3 | [I Choose You](https://open.spotify.com/track/0GUE9FYe401DkryTuUBS7b) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [I Choose You](https://open.spotify.com/album/23tkxRAF7cyv8rS6rGuUzl) | 3:24 |
-| 4 | [Ifa Lami \(feat\. Anzo & Tshego AMG\)](https://open.spotify.com/track/6pg5DVfkeaRM2TS3pNKx2Z) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Anzo](https://open.spotify.com/artist/17hUKyhHJ29kKUdyOzax7a), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Ifa Lami](https://open.spotify.com/album/4V3Dpnuzon8YyjdOxFLtWB) | 4:19 |
-| 5 | [Hamba](https://open.spotify.com/track/2wibXHOTGD6N30R3fwdNpd) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [Hamba](https://open.spotify.com/album/33UYP5zotjp9mEouaXQnHC) | 4:01 |
-| 6 | [Uze Wazi](https://open.spotify.com/track/3GYiqvumhNGXCSV1OPe8H8) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Ipasi](https://open.spotify.com/album/3yUNhSSh2NVxnJr3ZbiA5o) | 4:22 |
-| 7 | [Mapula](https://open.spotify.com/track/50VKji3mzRcgYlvKT2iMwv) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Son of Elvis](https://open.spotify.com/album/4d2zcshoD27NGmfXUaiTlP) | 2:33 |
-| 8 | [Ntombi YomSotho](https://open.spotify.com/track/4bSpLUkOha2SlMIrg2yOl5) | [Sqiniseko SqinQ](https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ), [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs) | [Ntombi YomSotho](https://open.spotify.com/album/5OWa7YwEt4EpMNYpnffd9C) | 4:07 |
-| 9 | [Ola Sbali](https://open.spotify.com/track/3RL87os1VKhglGA6CpgdWV) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Bayede](https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif) | 3:08 |
+| 1 | [Hamba](https://open.spotify.com/track/2wibXHOTGD6N30R3fwdNpd) | [Musa](https://open.spotify.com/artist/0O2Cp1N0zBGTFbxFUkOs96) | [Hamba](https://open.spotify.com/album/33UYP5zotjp9mEouaXQnHC) | 4:01 |
+| 2 | [Ola Sbali](https://open.spotify.com/track/3RL87os1VKhglGA6CpgdWV) | [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Bayede](https://open.spotify.com/album/3gndOvCu4HGrDOrv0nnyif) | 3:08 |
+| 3 | [Ngiyaz'fela](https://open.spotify.com/track/4oXYR6jNzr0wVBye2rc2V4) | [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE), [Kwesta](https://open.spotify.com/artist/3Px6IenueysHsgCQf9xFVr), [Kinglee Beats](https://open.spotify.com/artist/0vbMPEuWEuSaetTmp50LZP) | [Ngiyaz'fela](https://open.spotify.com/album/2PPrNvYmx8iUQJMsLhS8Yn) | 3:48 |
+| 4 | [Come Duze](https://open.spotify.com/track/5GgMTUIDwPuhAJrpqaHsZc) | [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN), [Mawelele](https://open.spotify.com/artist/0RSqcZGU4Kf01zKcn4JhiE) | [Come Duze](https://open.spotify.com/album/6SdVs1UyZWW3B6mBVvT8wF) | 3:39 |
+| 5 | [I Choose You](https://open.spotify.com/track/0GUE9FYe401DkryTuUBS7b) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [I Choose You](https://open.spotify.com/album/23tkxRAF7cyv8rS6rGuUzl) | 3:24 |
+| 6 | [Ifa Lami \(feat\. Anzo & Tshego AMG\)](https://open.spotify.com/track/6pg5DVfkeaRM2TS3pNKx2Z) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [Sykes](https://open.spotify.com/artist/2Ymj0sh7VauBNTdrVMfUYC), [Anzo](https://open.spotify.com/artist/17hUKyhHJ29kKUdyOzax7a), [Tshego AMG](https://open.spotify.com/artist/3ZYSp6bvSuOkZSJ1rpQ3WF) | [Ifa Lami](https://open.spotify.com/album/4V3Dpnuzon8YyjdOxFLtWB) | 4:19 |
+| 7 | [Uze Wazi](https://open.spotify.com/track/3GYiqvumhNGXCSV1OPe8H8) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Lia Butler](https://open.spotify.com/artist/5OKv9ZYvL5vY2slfYqRYYG) | [Ipasi](https://open.spotify.com/album/3yUNhSSh2NVxnJr3ZbiA5o) | 4:22 |
+| 8 | [Mapula](https://open.spotify.com/track/50VKji3mzRcgYlvKT2iMwv) | [Marcus Harvey](https://open.spotify.com/artist/5MTx8G4UpDgIhvl1eRxJq6) | [Son of Elvis](https://open.spotify.com/album/4d2zcshoD27NGmfXUaiTlP) | 2:33 |
+| 9 | [Ntombi YomSotho](https://open.spotify.com/track/4bSpLUkOha2SlMIrg2yOl5) | [Sqiniseko SqinQ](https://open.spotify.com/artist/34AoRsBkoLEDSM1kBQwqxQ), [Danya Devs](https://open.spotify.com/artist/351dtAN3qmvZNfNrYP2gEs) | [Ntombi YomSotho](https://open.spotify.com/album/5OWa7YwEt4EpMNYpnffd9C) | 4:07 |
 | 10 | [Isimo Sami 2.0 Revisit](https://open.spotify.com/track/2dSfgETHrl09a42PqfzEUf) | [UMatollgate](https://open.spotify.com/artist/0TtLcYUD2r9OIGDNDRC2rZ), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Isimo Sami 2.0 Revisit](https://open.spotify.com/album/5IvrIVAh3f4LHwfj9ESV7l) | 4:26 |
 | 11 | [Umbhalo Wothando \(feat\. Shwi Mantombazane & Siya Ntuli\)](https://open.spotify.com/track/0HzMVl841AovgV1GCUTyLr) | [Nue\_Sam](https://open.spotify.com/artist/2mQ1WAgOTUQDBsJpt7tGTY), [Shwi Mantombazane](https://open.spotify.com/artist/19JQ640cmG2atUL0ynYIWX), [Siya Ntuli](https://open.spotify.com/artist/5BggJAW7Ubyk8FR87MpGvc) | [Umbhalo Wothando \(feat\. Shwi Mantombazane & Siya Ntuli\)](https://open.spotify.com/album/3di79PpABtRkehqxuvchKn) | 4:24 |
 | 12 | [Hey Wena](https://open.spotify.com/track/6xWKqSm5x9j6AnQJvWiak3) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm), [Entity MusiQ](https://open.spotify.com/artist/6EqAIU7pGX8LnmXmAxpO9u), [Alie\-Keys](https://open.spotify.com/artist/3DJ0mAQ0XKTRL1ilhAM38X) | [Danko!](https://open.spotify.com/album/2ki4Bk6f9zxcISNizFW7xa) | 5:44 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 94 | [Umntu](https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umntu](https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF) | 3:56 |
 | 95 | [Piki Piki](https://open.spotify.com/track/3RzB4tFNyg0fKchMDtNHCY) | [Blaq Diamond](https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe) | [Piki Piki](https://open.spotify.com/album/75OUwhwR6nfevKLXUHBwvQ) | 3:01 |
 
-Snapshot ID: `AAAAADQLYYQHLvGCKO4vq0oOHuJA03iA`
+Snapshot ID: `AAAAAFh9E2sDOnkp3wptElXvYxnvWU5G`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,644 songs - 6 day 10 hr 50 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,655 songs - 6 day 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2458,7 +2458,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2448 | [Teduh Dan Tenang](https://open.spotify.com/track/1W96wy1a5FNdPWG4dX941s) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Teduh Dan Tenang](https://open.spotify.com/album/4ifPGeFhtCLFK5CXSktaTj) | 4:28 |
 | 2449 | [Sinkopasi Rasa](https://open.spotify.com/track/0nziPGJge4BDTwyNDjhW0B) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Sinkopasi Rasa](https://open.spotify.com/album/1zmhCdv90zxAd0fEXvZRLz) | 2:25 |
 | 2450 | [Menjadi Utuh](https://open.spotify.com/track/5vcOa8lzcPBO2KQ74AQdtl) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Menjadi Utuh](https://open.spotify.com/album/2jynPXHatxWoOARNGRcYGf) | 4:13 |
-| 2451 | [Sardinia](https://open.spotify.com/track/5cLDgmrRqxhW27wKEf30G9) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [José Sechi.](https://open.spotify.com/artist/7iIoRgouvtDqZ8BplUUShj), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn), [Meditherranea & Prova MI & José Sechi\. & 001 BEST](https://open.spotify.com/artist/6zNtfoNKlu5QCWehjOth3a) | [Sardinia](https://open.spotify.com/album/6kNKTlgBDM7FWeTUtDnNM9) | 2:47 |
+| 2451 | [Sardinia](https://open.spotify.com/track/5cLDgmrRqxhW27wKEf30G9) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi) | [Sardinia](https://open.spotify.com/album/6kNKTlgBDM7FWeTUtDnNM9) | 2:47 |
 | 2452 | [Blu Cobalto](https://open.spotify.com/track/3EuICfEHF0XSk2QKzXHbxg) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/5K5ARVaWTrVKw7yEKvcCpt) | 3:09 |
 | 2453 | [Segreti di Miele](https://open.spotify.com/track/0DsXkCyT6k1PoOBaSXTGIq) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/5K5ARVaWTrVKw7yEKvcCpt) | 2:04 |
 | 2454 | [Duna Surf](https://open.spotify.com/track/07unJbxGo2TlbT6IgoYKOe) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/5K5ARVaWTrVKw7yEKvcCpt) | 3:16 |
@@ -2652,5 +2652,16 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2642 | [In The Club \- Big Reunion Remix Edit](https://open.spotify.com/track/4WvH5Yol94s0pynxe208xa) | [Mr Ludwik](https://open.spotify.com/artist/2EQ1ue9aPklRwKhAkUYmJd), [Big Reunion](https://open.spotify.com/artist/2kJrKJK98njutVsyNRs4ls) | [In The Club](https://open.spotify.com/album/34yPdiRKsRcq4SDmfdSFv1) | 2:41 |
 | 2643 | [Breathing](https://open.spotify.com/track/6N57S50JyGCwhbDxoYf4BS) | [Ghosther](https://open.spotify.com/artist/5BgILNlqsXzjC59uCR0sKK) | [Through Fire](https://open.spotify.com/album/3MeADmLuVVANZ7ymuqag1r) | 4:35 |
 | 2644 | [Alisten La Garganta](https://open.spotify.com/track/3TjHCjWbB1szPTwWwPvWMd) | [Carlos Iriarte](https://open.spotify.com/artist/3Mzy71hae4iIELXAZ4qh7O) | [Alisten La Garganta](https://open.spotify.com/album/3km1cfhzdHGjE2nlFiTkzL) | 3:14 |
+| 2645 | [Eyes Wide](https://open.spotify.com/track/5uSb16tsuni9p3xQ2pi7W2) | [dBeat Boxbot](https://open.spotify.com/artist/0LaAJhJ4vWalWwwpuYAnyr) | [Frame Perfect](https://open.spotify.com/album/6ti8MtNvVljNHcVlpKybb9) | 2:04 |
+| 2646 | [EM x EM](https://open.spotify.com/track/7016hlHUkyhzpy9H5hoNVc) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 2:17 |
+| 2647 | [Van Dörf & Ylösajo](https://open.spotify.com/track/0aNebrOg0o3CSNHAWNeq0m) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 1:08 |
+| 2648 | [Romuluuta](https://open.spotify.com/track/2deyISRgf7w7HWTHU9GOyD) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Potero](https://open.spotify.com/album/5nz3Ups0ZNHkjhGSXHWwJD) | 1:02 |
+| 2649 | [Näkemiin & Secundaa](https://open.spotify.com/track/3CKUOcYNNA7bwkmGO5Hq1l) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:59 |
+| 2650 | [Nivalan Koti](https://open.spotify.com/track/0LKtVL1UcCnTnHjGw9cmeq) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Suomi](https://open.spotify.com/album/3nm8fkEI7XQ6E1olKEcXGo) | 1:19 |
+| 2651 | [Muurame](https://open.spotify.com/track/1Krh2vadndyc5CiGYyTKLT) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Tuntosarvi](https://open.spotify.com/album/4WsdrEzof5vYTjPi6fXoQX) | 2:25 |
+| 2652 | [Van Dörf](https://open.spotify.com/track/2dxlo8JHAF950XWJozzw9v) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Van Dörf](https://open.spotify.com/album/0hNixPHGHPIheGXBicO1uC) | 1:27 |
+| 2653 | [Arkihaaste](https://open.spotify.com/track/4bvpcTLr4XZ5p2flenl64A) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:30 |
+| 2654 | [Takatalvi](https://open.spotify.com/track/2G2cDWN6YK5vnlHhg1xWdh) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Takatalvi](https://open.spotify.com/album/2XhQfIW7sOgTal0H3GEGC5) | 2:11 |
+| 2655 | [Basquiat's Crown](https://open.spotify.com/track/1iJILtpiM8fM3MkOtIeOmJ) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Basquiat's Crown](https://open.spotify.com/album/4NDM3WS0NHHBqk5kVvwxED) | 3:02 |
 
-Snapshot ID: `AAALUBYl0081GScfRIyNgZKKc+VivGks`
+Snapshot ID: `AAALW7SGdhUkR9BgGviB4zvpXrEKIeER`

@@ -64,7 +64,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 209675,
       "name": "A Xon De Que",
       "url": "https://open.spotify.com/track/1zMQrHPf5QCWp9LW9G8uvN"
@@ -224,7 +224,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 288234,
       "name": "Arsenal",
       "url": "https://open.spotify.com/track/7rMjSCi62GiMX1CCg9sImZ"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 239957,
       "name": "Bass Persuades",
       "url": "https://open.spotify.com/track/6asDO17UStSnESaraO6TA8"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 295850,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/6ubVGK4Dvg60vwuLsI2925"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 250144,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6HcL9Jd6mcH8F9ebUl28J5"
@@ -1030,6 +1030,24 @@
       "duration_ms": 341994,
       "name": "FALLEN ANGEL",
       "url": "https://open.spotify.com/track/2fv6hCSa1vTBCcEyjbuBAP"
+    },
+    {
+      "album": {
+        "name": "Falling Back (Extended Version)",
+        "url": "https://open.spotify.com/album/1PZSF15mO1tvpEYqg8kvdD"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 569376,
+      "name": "Falling Back - Extended Version",
+      "url": "https://open.spotify.com/track/1UmERnfXBNJaVJKcUeWpDh"
     },
     {
       "album": {
@@ -1247,6 +1265,24 @@
     },
     {
       "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/7EpH4zAYGE9mmRrvHcjtrG"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255978,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/45rR6DD2pBxDcWmMARbrjm"
+    },
+    {
+      "album": {
         "name": "Hootie Frutti",
         "url": "https://open.spotify.com/album/2rPaL00arekWCIcHG319Mo"
       },
@@ -1284,7 +1320,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 167667,
       "name": "How To Pray",
       "url": "https://open.spotify.com/track/0oos01MKZkB4Wpo2HQcjkK"
@@ -1320,7 +1356,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 195662,
       "name": "I Knew It, I Knew You - Piano Version / From \"Toy Story 5\"",
       "url": "https://open.spotify.com/track/54Qm2txAQn42IhrcknweE7"
@@ -1478,7 +1514,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 295741,
       "name": "La Buena y la Mala",
       "url": "https://open.spotify.com/track/6bRrhZ8xhUJ4bD7oCEqMIn"
@@ -1496,7 +1532,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 217194,
       "name": "Let\u2019s Get Married",
       "url": "https://open.spotify.com/track/0Deu4mcMzGG37yDf8B4L57"
@@ -1714,7 +1750,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 136628,
       "name": "Made My Night",
       "url": "https://open.spotify.com/track/2nQ6PoArE94d85O0UY0o1P"
@@ -1844,7 +1880,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 255284,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH"
@@ -1902,6 +1938,24 @@
       "duration_ms": 274285,
       "name": "Move Like You Do",
       "url": "https://open.spotify.com/track/3mkiclDD4FKpWTAQLDHzBM"
+    },
+    {
+      "album": {
+        "name": "My Body Isn't Ready (Orchestral Version Live From Sound City)",
+        "url": "https://open.spotify.com/album/4rGc5TUUgDGNYHn3Wzxl6k"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225557,
+      "name": "My Body Isn't Ready - Orchestral Version Live From Sound City",
+      "url": "https://open.spotify.com/track/4rAi1EJ6yDzVdrOTFZOukF"
     },
     {
       "album": {
@@ -2046,7 +2100,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 274624,
       "name": "Ojos Brujos",
       "url": "https://open.spotify.com/track/3f7WBr2tv7KJ6uBHK67b3n"
@@ -2228,7 +2282,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 231573,
       "name": "PER NOI (feat. Achille Lauro)",
       "url": "https://open.spotify.com/track/2Idsj1LWLzoQMHlf33t6ED"
@@ -2448,7 +2502,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 215125,
       "name": "September",
       "url": "https://open.spotify.com/track/1tPwh8Gy7i5ju6ru5pAqNj"
@@ -2484,7 +2538,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 341290,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5nAEWzFqGYnlU3UWPPRl0e"
@@ -2556,7 +2610,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 196928,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
@@ -2614,7 +2668,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 216925,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4g9I4CSbPn5XREMrr0TNyF"
@@ -2712,6 +2766,24 @@
       "duration_ms": 227178,
       "name": "Take on Me",
       "url": "https://open.spotify.com/track/4iERsUBex9UtUY1osIk6TR"
+    },
+    {
+      "album": {
+        "name": "TALK",
+        "url": "https://open.spotify.com/album/4tL8BtcuhvrrsO9hVr3TKh"
+      },
+      "artists": [
+        {
+          "name": "ALLDAY PROJECT",
+          "url": "https://open.spotify.com/artist/4gEMn0YPOdotLOygnk0Ng2"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184360,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/66JBsCovtPnF4iPx4rVHGE"
     },
     {
       "album": {
@@ -2885,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "Waste My Tears",
+        "url": "https://open.spotify.com/album/5JBNTJKUtcjbrGHFBa8Vrg"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180160,
+      "name": "Waste My Tears",
+      "url": "https://open.spotify.com/track/5I0q2cqGEYEG91CzhOAx74"
+    },
+    {
+      "album": {
         "name": "What I've Done - Unshatter Film Soundtrack (Live in S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/7K4tAHl8dhX598ePor0Y49"
       },
@@ -2932,10 +3022,28 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 198485,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/3bb46U9c7d5IVGYpxlAGgj"
+    },
+    {
+      "album": {
+        "name": "Why (In Studio)",
+        "url": "https://open.spotify.com/album/54R5T2bFD3C8LCqRc2wFy0"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197864,
+      "name": "Why - In Studio",
+      "url": "https://open.spotify.com/track/2iQ0g5vxIy1829lC20hwHU"
     },
     {
       "album": {

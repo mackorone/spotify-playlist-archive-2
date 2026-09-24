@@ -1,6 +1,6 @@
 {
   "description": "Powerful female voices, like you've never heard before.  Cover: Norah Jones.",
-  "num_followers": 15684,
+  "num_followers": 15686,
   "original_name": "Women of Spotify Singles",
   "owner": {
     "name": "Spotify",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI"
     },
     {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        }
+      ],
+      "duration_ms": 165358,
+      "name": "Something Wild (Acoustic) - Recorded at Spotify Studios Nyc",
+      "url": "https://open.spotify.com/track/4s7Zym0G4Hb6apPL3dOqmV"
+    },
+    {
       "added_at": "2024-08-01 11:59:45",
       "album": {
         "name": "Say Something - Spotify Singles (Live from Spotify House)",
@@ -1076,17 +1092,17 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC"
+        "url": "https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk"
       },
       "artists": [
         {
-          "name": "Lindsey Stirling",
-          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+          "name": "Kari Jobe Carnes",
+          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
         }
       ],
-      "duration_ms": 165358,
-      "name": "Something Wild (Acoustic) - Recorded at Spotify Studios Nyc",
-      "url": "https://open.spotify.com/track/4s7Zym0G4Hb6apPL3dOqmV"
+      "duration_ms": 205738,
+      "name": "In The Name Of Love - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi"
     },
     {
       "added_at": "2024-08-01 11:59:45",
@@ -1119,22 +1135,6 @@
       "duration_ms": 199883,
       "name": "American Boy - Spotify Singles",
       "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4uwoaD00nLK3IYHMwN8Izk"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe Carnes",
-          "url": "https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3"
-        }
-      ],
-      "duration_ms": 205738,
-      "name": "In The Name Of Love - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7dgURqWJNjjnKYkmlK1yUi"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/1OfUOufSXTjhUm5gK33uVN"
     },
     {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P"
-      },
-      "artists": [
-        {
-          "name": "SOFI TUKKER",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 181954,
-      "name": "Cry For You - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg"
-    },
-    {
       "added_at": "2026-02-23 21:06:56",
       "album": {
         "name": "Gettin' in The Way - Spotify Singles",
@@ -1331,6 +1315,22 @@
       "duration_ms": 192425,
       "name": "Gettin' in The Way - Spotify Singles",
       "url": "https://open.spotify.com/track/10ZTivgDHI1CALM6jeW0IZ"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6qw9KkJXWqVlQFTQwZdo5P"
+      },
+      "artists": [
+        {
+          "name": "SOFI TUKKER",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 181954,
+      "name": "Cry For You - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0w1Dln7VMjPDCNIIQLidgg"
     },
     {
       "added_at": "2024-08-01 11:59:45",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-03-21 00:56:25",
       "album": {
+        "name": "That XX - Spotify Singles",
+        "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 289618,
+      "name": "That XX - Spotify Singles",
+      "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 214750,
       "name": "Hunger - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "That XX - Spotify Singles",
-        "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 289618,
-      "name": "That XX - Spotify Singles",
-      "url": "https://open.spotify.com/track/7Ae5WP06rEQfq5tRqrST2j"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -1872,22 +1872,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 268207,
-      "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr"
       },
       "artists": [
@@ -1899,6 +1883,22 @@
       "duration_ms": 225318,
       "name": "Before You Called Me Baby - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3t6KvWWtbNsiVXExPZL9YA"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 268207,
+      "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2116,22 +2116,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 211879,
-      "name": "Normal - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
       },
       "artists": [
@@ -2143,6 +2127,22 @@
       "duration_ms": 214564,
       "name": "Green Lights - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1oqgK74ZGMHTWEma2fST41"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 211879,
+      "name": "Normal - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/23RbS7epqr1MW0PzTXQ2Yp"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2412,22 +2412,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA"
-      },
-      "artists": [
-        {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
-        }
-      ],
-      "duration_ms": 256577,
-      "name": "High Tide or Low Tide - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2WAgH8swV4cTXaSPeo1k7w"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
       },
       "artists": [
@@ -2439,6 +2423,22 @@
       "duration_ms": 221100,
       "name": "Worst Of You - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/6XFNcVzKttxux0LJDEVXRJ"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3RYb0W35JVOh9GgzdjE9SA"
+      },
+      "artists": [
+        {
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+        }
+      ],
+      "duration_ms": 256577,
+      "name": "High Tide or Low Tide - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2WAgH8swV4cTXaSPeo1k7w"
     },
     {
       "added_at": "2026-02-23 21:06:56",
@@ -2557,22 +2557,6 @@
       "url": "https://open.spotify.com/track/0MRGc7t0cM9mLlQlfM7LFI"
     },
     {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 234473,
-      "name": "Breathe - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
-    },
-    {
       "added_at": "2024-08-01 11:59:45",
       "album": {
         "name": "Spotify Singles",
@@ -2587,6 +2571,22 @@
       "duration_ms": 177382,
       "name": "girlfriend - Spotify Singles",
       "url": "https://open.spotify.com/track/6eTkZYXX89GcnEaA8fch09"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 234473,
+      "name": "Breathe - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/7nmA2R4IQSfZpMYFhXY9r7"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -2812,22 +2812,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6FOhbAW6X74onlLJOTNIjD"
       },
       "artists": [
@@ -2839,6 +2823,22 @@
       "duration_ms": 148738,
       "name": "What I Want For The Night (Bitches) - Recorded at Spotify Studios, NYC",
       "url": "https://open.spotify.com/track/2HSQ1gTnaziihf8TMnw5c7"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "No Ordinary Love \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/1tuaLgIQPnPmwOiniFGNK9"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -3052,22 +3052,6 @@
       "added_at": "2024-08-01 11:59:45",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 145632,
-      "name": "Spoonful - Spotify Singles",
-      "url": "https://open.spotify.com/track/2g3tvzbWHcrP2I1IH4TDaC"
-    },
-    {
-      "added_at": "2024-08-01 11:59:45",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi"
       },
       "artists": [
@@ -3079,6 +3063,22 @@
       "duration_ms": 183052,
       "name": "HATELOVE - Spotify Single",
       "url": "https://open.spotify.com/track/0aqsHz5aoW0370n2fxXJc4"
+    },
+    {
+      "added_at": "2024-08-01 11:59:45",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2oVpSWaKdTEDBTvgRgB0cR"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 145632,
+      "name": "Spoonful - Spotify Singles",
+      "url": "https://open.spotify.com/track/2g3tvzbWHcrP2I1IH4TDaC"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -3392,22 +3392,6 @@
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        }
-      ],
-      "duration_ms": 156314,
-      "name": "Many Men - Spotify Singles",
-      "url": "https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R"
-    },
-    {
-      "added_at": "2023-03-21 00:56:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3iLgafL3t8zorpB18bKfzF"
       },
       "artists": [
@@ -3419,6 +3403,22 @@
       "duration_ms": 548378,
       "name": "Unconditional Love",
       "url": "https://open.spotify.com/track/3fKqsgKDop6bnLdpDiGXOy"
+    },
+    {
+      "added_at": "2023-03-21 00:56:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4MggS1vGAtUktCGfAef8LM"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "duration_ms": 156314,
+      "name": "Many Men - Spotify Singles",
+      "url": "https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R"
     },
     {
       "added_at": "2023-03-21 00:56:25",
@@ -3581,22 +3581,6 @@
       "url": "https://open.spotify.com/track/3xfFwQwyQ38saSML8zEuli"
     },
     {
-      "added_at": "2024-10-24 07:34:50",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6QhTn5Q6IV6L0NHg0JLOnX"
-      },
-      "artists": [
-        {
-          "name": "Shaznay Lewis",
-          "url": "https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2"
-        }
-      ],
-      "duration_ms": 207540,
-      "name": "Peaches - Spotify Singles",
-      "url": "https://open.spotify.com/track/2SZ6Trbdt2vH5xZ1puA1tM"
-    },
-    {
       "added_at": "2023-03-21 00:56:25",
       "album": {
         "name": "Spotify Singles",
@@ -3611,6 +3595,22 @@
       "duration_ms": 141648,
       "name": "WTF - Spotify Singles",
       "url": "https://open.spotify.com/track/1tef7JF2U9w7Z02GOgXLKN"
+    },
+    {
+      "added_at": "2024-10-24 07:34:50",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6QhTn5Q6IV6L0NHg0JLOnX"
+      },
+      "artists": [
+        {
+          "name": "Shaznay Lewis",
+          "url": "https://open.spotify.com/artist/4LUOGNccPSilRIm4Jcflg2"
+        }
+      ],
+      "duration_ms": 207540,
+      "name": "Peaches - Spotify Singles",
+      "url": "https://open.spotify.com/track/2SZ6Trbdt2vH5xZ1puA1tM"
     },
     {
       "added_at": "2023-03-21 00:56:25",

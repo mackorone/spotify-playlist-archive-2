@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Leo Middea",
-  "num_followers": 353014,
+  "num_followers": 353004,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
+        "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
+        "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 249856,
+      "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
+      "url": "https://open.spotify.com/track/2qsEj3ukRXgYA1bJuOkD0m"
+    },
+    {
+      "added_at": "2026-09-18 14:48:04",
+      "album": {
         "name": "Perfei\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0whv3ry5bcxo6zzoZxjgsf"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 250880,
       "name": "Perfei\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/5cLOM4fndyuCxIMBanqgcp"
-    },
-    {
-      "added_at": "2026-09-18 14:48:04",
-      "album": {
-        "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
-        "url": "https://open.spotify.com/album/4HvlSoLoQRPcMbGd9YDSYe"
-      },
-      "artists": [
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 249856,
-      "name": "Os Amantes (Trilha Sonora de \u201cA Nobreza do Amor\u201d)",
-      "url": "https://open.spotify.com/track/2qsEj3ukRXgYA1bJuOkD0m"
     },
     {
       "added_at": "2026-09-18 14:48:04",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
-        "name": "Reconstruir / Mancha de Dend\u00ea",
-        "url": "https://open.spotify.com/album/5rcaJoROklX83yCv1YPKsC"
-      },
-      "artists": [
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Mancha de Dend\u00ea",
-      "url": "https://open.spotify.com/track/6ilAuzERZj7AnA2vGcnScQ"
-    },
-    {
-      "added_at": "2026-09-18 14:48:04",
-      "album": {
         "name": "Pureza Selvagem",
         "url": "https://open.spotify.com/album/7FJGC9D4fsCaJOCRTDc1Ww"
       },
@@ -547,22 +531,18 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
-        "name": "Varandas",
-        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
+        "name": "Reconstruir / Mancha de Dend\u00ea",
+        "url": "https://open.spotify.com/album/5rcaJoROklX83yCv1YPKsC"
       },
       "artists": [
         {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
         }
       ],
-      "duration_ms": 223680,
-      "name": "Varandas",
-      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
+      "duration_ms": 176409,
+      "name": "Mancha de Dend\u00ea",
+      "url": "https://open.spotify.com/track/6ilAuzERZj7AnA2vGcnScQ"
     },
     {
       "added_at": "2026-09-18 14:48:04",
@@ -603,6 +583,26 @@
       "duration_ms": 200835,
       "name": "Bossa Sempre Nova",
       "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
+    },
+    {
+      "added_at": "2026-09-18 14:48:04",
+      "album": {
+        "name": "Varandas",
+        "url": "https://open.spotify.com/album/5B14FMEHwBSCZxdiVsyjHB"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 223680,
+      "name": "Varandas",
+      "url": "https://open.spotify.com/track/7aaPnDpWx2VZElrxyYXIB3"
     },
     {
       "added_at": "2026-09-18 14:48:04",
@@ -811,6 +811,26 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
+        "name": "Nave Luz",
+        "url": "https://open.spotify.com/album/1q1EQFIMVGoOcjuPJdnLZw"
+      },
+      "artists": [
+        {
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
+        },
+        {
+          "name": "Mestre Anderson Miguel",
+          "url": "https://open.spotify.com/artist/2A5yczeZxYgxtjZENNKp5o"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "Ci\u00eancia",
+      "url": "https://open.spotify.com/track/2WoXB1yitKjWPziYhOJ3xN"
+    },
+    {
+      "added_at": "2026-09-18 14:48:04",
+      "album": {
         "name": "C\u00ea T\u00e1 pensando Que Eu Sou Loki?",
         "url": "https://open.spotify.com/album/2zPCfTUx1Xmu6XPxYWfD2I"
       },
@@ -867,26 +887,6 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
-        "name": "Nave Luz",
-        "url": "https://open.spotify.com/album/1q1EQFIMVGoOcjuPJdnLZw"
-      },
-      "artists": [
-        {
-          "name": "Academia da Berlinda",
-          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
-        },
-        {
-          "name": "Mestre Anderson Miguel",
-          "url": "https://open.spotify.com/artist/2A5yczeZxYgxtjZENNKp5o"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "Ci\u00eancia",
-      "url": "https://open.spotify.com/track/2WoXB1yitKjWPziYhOJ3xN"
-    },
-    {
-      "added_at": "2026-09-18 14:48:04",
-      "album": {
         "name": "AMARINA Canta Kid Abelha",
         "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
       },
@@ -927,26 +927,6 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
-        "name": "Nua Ideia",
-        "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
-        },
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 233229,
-      "name": "Nua Ideia",
-      "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
-    },
-    {
-      "added_at": "2026-09-18 14:48:04",
-      "album": {
         "name": "Inofensiva Flor (Primeiro Ato)",
         "url": "https://open.spotify.com/album/2ddBH6GqRkBj6DtsK0nzPg"
       },
@@ -963,18 +943,22 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
-        "name": "Relevuras",
-        "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
+        "name": "Nua Ideia",
+        "url": "https://open.spotify.com/album/6Xe31DHl0rtGseTSlLSdlw"
       },
       "artists": [
         {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
         }
       ],
-      "duration_ms": 217666,
-      "name": "Relevuras",
-      "url": "https://open.spotify.com/track/08qckn16nhCWxNGFOihPFD"
+      "duration_ms": 233229,
+      "name": "Nua Ideia",
+      "url": "https://open.spotify.com/track/3H8uWBh0pnP1VAEgkcrSnO"
     },
     {
       "added_at": "2026-09-18 14:48:04",
@@ -999,38 +983,38 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
-        "name": "Lamento de Artista",
-        "url": "https://open.spotify.com/album/5sNh8dzi6FXH9wUIr5T6BE"
+        "name": "Relevuras",
+        "url": "https://open.spotify.com/album/1OEJBUlrbK9kHySgk4w09h"
       },
       "artists": [
         {
-          "name": "Luna Di",
-          "url": "https://open.spotify.com/artist/4nNEvDiE4ZIwyed39o4ZoQ"
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
         }
       ],
-      "duration_ms": 169823,
-      "name": "Lamento de Artista",
-      "url": "https://open.spotify.com/track/26d3gqVl9eUBY41g9ErvCB"
+      "duration_ms": 217666,
+      "name": "Relevuras",
+      "url": "https://open.spotify.com/track/08qckn16nhCWxNGFOihPFD"
     },
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
-        "name": "Emori\u00f4",
-        "url": "https://open.spotify.com/album/0vnpHPEVt9eNrr6ZxarQC8"
+        "name": "NORTEAR",
+        "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Donato",
-          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
         },
         {
-          "name": "Margareth Menezes",
-          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+          "name": "morgana",
+          "url": "https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy"
         }
       ],
-      "duration_ms": 166811,
-      "name": "Emori\u00f4",
-      "url": "https://open.spotify.com/track/7i8z9W9fMS0E8YRNVlky3G"
+      "duration_ms": 218651,
+      "name": "NORTEAR",
+      "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
     },
     {
       "added_at": "2026-09-18 14:48:04",
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
+        "name": "Lamento de Artista",
+        "url": "https://open.spotify.com/album/5sNh8dzi6FXH9wUIr5T6BE"
+      },
+      "artists": [
+        {
+          "name": "Luna Di",
+          "url": "https://open.spotify.com/artist/4nNEvDiE4ZIwyed39o4ZoQ"
+        }
+      ],
+      "duration_ms": 169823,
+      "name": "Lamento de Artista",
+      "url": "https://open.spotify.com/track/26d3gqVl9eUBY41g9ErvCB"
+    },
+    {
+      "added_at": "2026-09-18 14:48:04",
+      "album": {
         "name": "25 Anos de M\u00fasica",
         "url": "https://open.spotify.com/album/0VrtUkuZbAvaoL8t6A1NTI"
       },
@@ -1067,6 +1067,26 @@
       "duration_ms": 220826,
       "name": "Me Ajuda",
       "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
+    },
+    {
+      "added_at": "2026-09-18 14:48:04",
+      "album": {
+        "name": "Emori\u00f4",
+        "url": "https://open.spotify.com/album/0vnpHPEVt9eNrr6ZxarQC8"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Donato",
+          "url": "https://open.spotify.com/artist/17wDxPR2GcU3r1dpCoCiUi"
+        },
+        {
+          "name": "Margareth Menezes",
+          "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+        }
+      ],
+      "duration_ms": 166811,
+      "name": "Emori\u00f4",
+      "url": "https://open.spotify.com/track/7i8z9W9fMS0E8YRNVlky3G"
     },
     {
       "added_at": "2026-09-18 14:48:04",
@@ -1111,26 +1131,6 @@
       "duration_ms": 134341,
       "name": "Futuro Fruto",
       "url": "https://open.spotify.com/track/7BAi4V7nTi5NCDXLXvBwOt"
-    },
-    {
-      "added_at": "2026-09-18 14:48:04",
-      "album": {
-        "name": "NORTEAR",
-        "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
-      },
-      "artists": [
-        {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
-        },
-        {
-          "name": "morgana",
-          "url": "https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy"
-        }
-      ],
-      "duration_ms": 218651,
-      "name": "NORTEAR",
-      "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
     },
     {
       "added_at": "2026-09-18 14:48:04",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
-        "name": "Eu Venho de Longe",
-        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 223009,
-      "name": "Eu Venho de Longe",
-      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
-    },
-    {
-      "added_at": "2026-09-18 14:48:04",
-      "album": {
         "name": "Feira de Mangaio",
         "url": "https://open.spotify.com/album/4cWi4ErDXvCgd9L4u6asfA"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 133566,
       "name": "Feira de Mangaio",
       "url": "https://open.spotify.com/track/490ktUB68RgDOWmRRzJNyl"
+    },
+    {
+      "added_at": "2026-09-18 14:48:04",
+      "album": {
+        "name": "Eu Venho de Longe",
+        "url": "https://open.spotify.com/album/6TXoief9M9RhmIPA3Qt2iG"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 223009,
+      "name": "Eu Venho de Longe",
+      "url": "https://open.spotify.com/track/0xSEIEoggoRmfS2A6GPQDV"
     },
     {
       "added_at": "2026-09-18 14:48:04",
@@ -1311,6 +1311,26 @@
       "duration_ms": 174350,
       "name": "Chegada",
       "url": "https://open.spotify.com/track/4TMFEnIWrHjUgqrQa4yuIr"
+    },
+    {
+      "added_at": "2026-09-18 14:48:04",
+      "album": {
+        "name": "Vila Madalena",
+        "url": "https://open.spotify.com/album/0D4bZ7N4UivEhWt734dPeA"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Catan",
+          "url": "https://open.spotify.com/artist/7jnGj8x2qSjMqMMHXhklny"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 253012,
+      "name": "Vila Madalena",
+      "url": "https://open.spotify.com/track/3i4y5JQQLk3rhjMOSwykxS"
     },
     {
       "added_at": "2026-09-18 14:48:04",
@@ -1375,26 +1395,6 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
-        "name": "Vila Madalena",
-        "url": "https://open.spotify.com/album/0D4bZ7N4UivEhWt734dPeA"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Catan",
-          "url": "https://open.spotify.com/artist/7jnGj8x2qSjMqMMHXhklny"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 253012,
-      "name": "Vila Madalena",
-      "url": "https://open.spotify.com/track/3i4y5JQQLk3rhjMOSwykxS"
-    },
-    {
-      "added_at": "2026-09-18 14:48:04",
-      "album": {
         "name": "Agudo Grave",
         "url": "https://open.spotify.com/album/1gAuuKvvJk52MwUD5VMcIv"
       },
@@ -1431,6 +1431,34 @@
     {
       "added_at": "2026-09-18 14:48:04",
       "album": {
+        "name": "Can\u00e7\u00e3o da Promessa",
+        "url": "https://open.spotify.com/album/7Cr8dOFaQMnRVpKr2V6L5R"
+      },
+      "artists": [
+        {
+          "name": "Dani Ramalho",
+          "url": "https://open.spotify.com/artist/5ROPaT19WX6VxHSHHSGsXe"
+        },
+        {
+          "name": "Paulo Nazareth",
+          "url": "https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40"
+        },
+        {
+          "name": "TAIOLI",
+          "url": "https://open.spotify.com/artist/0tP7dJbLOlpbdFmQCTbSXu"
+        },
+        {
+          "name": "Coletivo Candiero",
+          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
+        }
+      ],
+      "duration_ms": 171563,
+      "name": "Can\u00e7\u00e3o da Promessa",
+      "url": "https://open.spotify.com/track/1I737s7T17tRkEJgTpE4nh"
+    },
+    {
+      "added_at": "2026-09-18 14:48:04",
+      "album": {
         "name": "Tum Tum Tum",
         "url": "https://open.spotify.com/album/1ysg4ZrH2ufsLX3VRUUz1Q"
       },
@@ -1463,34 +1491,6 @@
       "duration_ms": 293126,
       "name": "Mulher Corvo",
       "url": "https://open.spotify.com/track/0J5C98ACNHQ5Dyl2sNvjp4"
-    },
-    {
-      "added_at": "2026-09-18 14:48:04",
-      "album": {
-        "name": "Can\u00e7\u00e3o da Promessa",
-        "url": "https://open.spotify.com/album/7Cr8dOFaQMnRVpKr2V6L5R"
-      },
-      "artists": [
-        {
-          "name": "Dani Ramalho",
-          "url": "https://open.spotify.com/artist/5ROPaT19WX6VxHSHHSGsXe"
-        },
-        {
-          "name": "Paulo Nazareth",
-          "url": "https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40"
-        },
-        {
-          "name": "TAIOLI",
-          "url": "https://open.spotify.com/artist/0tP7dJbLOlpbdFmQCTbSXu"
-        },
-        {
-          "name": "Coletivo Candiero",
-          "url": "https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV"
-        }
-      ],
-      "duration_ms": 171563,
-      "name": "Can\u00e7\u00e3o da Promessa",
-      "url": "https://open.spotify.com/track/1I737s7T17tRkEJgTpE4nh"
     },
     {
       "added_at": "2026-09-18 14:48:04",

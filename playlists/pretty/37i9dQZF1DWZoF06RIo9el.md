@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de agosto 2026\. Cover: Nsqk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,541,789 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,612 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 39 | [cool](https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [cool](https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ) | 2:55 |
 | 40 | [Si Un Día Me Extrañas](https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Si Un Día Me Extrañas](https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd) | 3:26 |
 | 41 | [2000](https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36) | [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [cliché](https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce) | 2:07 |
-| 42 | [Sensación de Calor](https://open.spotify.com/track/39XF6X4WfhPDoNxEV5Ybsb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Sensación de Calor](https://open.spotify.com/album/3rl5uj72Aib7MSI3mkLQ4B) | 2:25 |
-| 43 | [SI NO ESTÁS TÚ](https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Finjo y estoy bien \(División A\)](https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx) | 3:55 |
+| 42 | [SI NO ESTÁS TÚ](https://open.spotify.com/track/1nLER1WPkhoePtsc8QYZCt) | [Lara Project](https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Finjo y estoy bien \(División A\)](https://open.spotify.com/album/2oBIqhcZ9Z0NjgRa9JDKQx) | 3:55 |
+| 43 | [Sensación de Calor](https://open.spotify.com/track/39XF6X4WfhPDoNxEV5Ybsb) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Juicy BAE](https://open.spotify.com/artist/46K14JAfAHpxTSkb6KkFfN), [PMP](https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK) | [Sensación de Calor](https://open.spotify.com/album/3rl5uj72Aib7MSI3mkLQ4B) | 2:25 |
 | 44 | [suéltame](https://open.spotify.com/track/6ZLpEYDN1alkr0wWOcmfuD) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [suéltame](https://open.spotify.com/album/6Ed3eUKovBiVFfK9iujjmr) | 3:53 |
 | 45 | [por como me cuidas](https://open.spotify.com/track/1yvKopniXF1xWBCabuqLN9) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [por como me cuidas](https://open.spotify.com/album/5JBd37KdO0T5rjZDN10WKG) | 2:04 |
 | 46 | [PERMANENTE](https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [aLex vs aLex](https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM) | [PERMANENTE](https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d) | 2:22 |

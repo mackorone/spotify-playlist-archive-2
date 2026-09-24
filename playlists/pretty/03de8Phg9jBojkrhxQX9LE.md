@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,205 likes - 147 songs - 7 hr 59 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 22,206 likes - 147 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 31 | [Tony Montana](https://open.spotify.com/track/0lQbb0GYrapGfD9YPpsa67) | [Zora Jones](https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY) | [Tony Montana](https://open.spotify.com/album/6SttWG2asvP9F8mUIn1GmW) | 4:10 |
 | 32 | [The Rush](https://open.spotify.com/track/3G4KqWuuGHsLT2WdzvXvVZ) | [Natty Lou](https://open.spotify.com/artist/01iBGqeIP82ClBsWKXEW1O), [Lateral](https://open.spotify.com/artist/6EsYSMHy341qHnRMUW4GGR), [Max Cardona](https://open.spotify.com/artist/6SDKrEjimkViHAkdp5mrLg) | [The Rush](https://open.spotify.com/album/4gTYuAcbkMvzCWak45Z2mA) | 3:14 |
 | 33 | [RIGHT THRU U](https://open.spotify.com/track/2kimt2VNKoVxsPr6XbCzLy) | [STRAWBRY](https://open.spotify.com/artist/6JcapcUefqZ2azH0T5BRSi) | [RIGHT THRU U](https://open.spotify.com/album/7l6Dt7fnOGMdMXxMmSyOZe) | 2:40 |
-| 34 | [Cosmic Club](https://open.spotify.com/track/5NdyCZdS7DWiTwnDTWw59E) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Cosmic Club](https://open.spotify.com/album/7D4Kx9HMoLx0ooGoK17C4e) | 2:46 |
+| 34 | [Cosmic Club](https://open.spotify.com/track/5NdyCZdS7DWiTwnDTWw59E) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Cosmic Club](https://open.spotify.com/album/7D4Kx9HMoLx0ooGoK17C4e) | 2:45 |
 | 35 | [I’ll Be Waiting](https://open.spotify.com/track/7K7dgSpbORdK0LphOr0uTj) | [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [I’ll Be Waiting](https://open.spotify.com/album/52CXSYMdQjqw2XQ99kEqup) | 3:34 |
 | 36 | [Underflow](https://open.spotify.com/track/1TWFE0KFJMB06UOPiAQhVe) | [VARI](https://open.spotify.com/artist/3cWBRCln1EAqNqI7E0wMlA) | [Underflow](https://open.spotify.com/album/7gw8iBYCfQfSg7IvKrAgob) | 2:17 |
 | 37 | [Lucky](https://open.spotify.com/track/23Z7AvQEM7tSLkK0X0wTcr) | [Low Poly](https://open.spotify.com/artist/0gC15Kf5barpTK7R1ZkMzc) | [Lucky](https://open.spotify.com/album/7E7poUdbDDC2qceuuAZmg5) | 3:25 |

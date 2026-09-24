@@ -640,7 +640,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 225341,
       "name": "Follow",
       "url": "https://open.spotify.com/track/2uROM73VxtppgLSE2k27nf"
@@ -866,6 +866,28 @@
       "duration_ms": 257642,
       "name": "In My Arms",
       "url": "https://open.spotify.com/track/3MGufkA4i2p3o2A3wlHTwz"
+    },
+    {
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/5CC1pJWkDvhtLXmtl3VKEq"
+      },
+      "artists": [
+        {
+          "name": "Tertia May",
+          "url": "https://open.spotify.com/artist/2l5D9yWJD8XtjzTMCKUown"
+        },
+        {
+          "name": "Cold Callers",
+          "url": "https://open.spotify.com/artist/4kea10qfngnISrreon00lH"
+        }
+      ],
+      "date_added": "2024-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233628,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/5cLJRNZgfLWNB8Wewlh7Kq"
     },
     {
       "album": {

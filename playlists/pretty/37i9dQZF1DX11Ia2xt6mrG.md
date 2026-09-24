@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Deorro y Jessica Audiffred en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,603 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,623 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 84 | [Bandidas](https://open.spotify.com/track/7nOe5YtRc78d1vFGt1zi1V) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [D\-Sides](https://open.spotify.com/artist/5vakO9fG4OZarrMqZlXbcl) | [Bandidas](https://open.spotify.com/album/2ADVnJXAX6V7NQoerdXPmD) | 2:22 |
 | 85 | [SOL](https://open.spotify.com/track/3B3pEf0eLDDmMjGDFtyNu5) | [The Wookies](https://open.spotify.com/artist/6IPSnlQfZiEJxFG4oFAz7a), [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [SOL](https://open.spotify.com/album/0PxFydCKbJSPaLG8ouOMYA) | 3:15 |
 | 86 | [\#Ruta Technomami](https://open.spotify.com/track/6IMA7nOI3i2tpf37IRNIjQ) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47) | [\#Ruta Technomami](https://open.spotify.com/album/2CS2FuwMMLVvaQGMyVWsS5) | 2:21 |
-| 87 | [LA MALA VIDA](https://open.spotify.com/track/3QVNEQyPraEeAQZfLRjQeU) | [Castro Angel](https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr), [Diego Lopez](https://open.spotify.com/artist/2op9BfI5gKPUEutCwsij5D) | [LA MALA VIDA](https://open.spotify.com/album/1sy88TQtIIpUGKiHgRFWbw) | 3:06 |
-| 88 | [+ \(Pégate\)](https://open.spotify.com/track/5QkrXCbEBoks6FBEJJThaA) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1), [Bante](https://open.spotify.com/artist/4AUecIjIQVp9N21mVvi2mj), [Chris Frías](https://open.spotify.com/artist/5lA7vZCZmYEIw2SBcy8Dxx) | [+ \(Pégate\)](https://open.spotify.com/album/5HOk8T09vl9OkFKW2Z1usW) | 2:29 |
+| 87 | [+ \(Pégate\)](https://open.spotify.com/track/5QkrXCbEBoks6FBEJJThaA) | [Mark Cast](https://open.spotify.com/artist/7o1RnLhpTffmSY3znC9WJ1), [Bante](https://open.spotify.com/artist/4AUecIjIQVp9N21mVvi2mj), [Chris Frías](https://open.spotify.com/artist/5lA7vZCZmYEIw2SBcy8Dxx) | [+ \(Pégate\)](https://open.spotify.com/album/5HOk8T09vl9OkFKW2Z1usW) | 2:29 |
+| 88 | [LA MALA VIDA](https://open.spotify.com/track/3QVNEQyPraEeAQZfLRjQeU) | [Castro Angel](https://open.spotify.com/artist/01olnHHF6FukRRCAObvofr), [Diego Lopez](https://open.spotify.com/artist/2op9BfI5gKPUEutCwsij5D) | [LA MALA VIDA](https://open.spotify.com/album/1sy88TQtIIpUGKiHgRFWbw) | 3:06 |
 | 89 | [R\-15](https://open.spotify.com/track/7zYNefq2q2xCOFXscMmW3B) | [Daniel Cuevas](https://open.spotify.com/artist/3pCZzxGXHvgoK3OdluWOLc), [Jessy Castillo](https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61), [Manci](https://open.spotify.com/artist/4AVxNRSuuvQ19srEOaUemE) | [R\-15](https://open.spotify.com/album/4CATim7PRuGUtjURDpRyP5) | 2:54 |
 | 90 | [cuándo](https://open.spotify.com/track/6NVU7iVKXBmo07g4c3nLvh) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Yng Naz](https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC) | [cuándo](https://open.spotify.com/album/6MIUe2REUhOTndOLvPKvCr) | 3:21 |
 

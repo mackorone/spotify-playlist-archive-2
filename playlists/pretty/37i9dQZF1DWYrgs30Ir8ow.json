@@ -1,12 +1,12 @@
 {
   "description": "Altijd frisse hits! Cover: Isab\u00e8l Usher (<a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">Spotify RADAR</a>\n-artiest)",
-  "num_followers": 37995,
+  "num_followers": 38004,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGEVQ9lKhGIwbcDUgTmmrocyGorF",
+  "snapshot_id": "AAAAAM8QcMoUII5ASYBUSW938+Ic3oG3",
   "tracks": [
     {
       "added_at": "2026-09-21 12:18:51",
@@ -47,6 +47,26 @@
       "duration_ms": 156800,
       "name": "100 Tranen",
       "url": "https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M"
+    },
+    {
+      "added_at": "2026-09-21 12:18:51",
+      "album": {
+        "name": "Rapido",
+        "url": "https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        },
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "duration_ms": 167103,
+      "name": "Rapido",
+      "url": "https://open.spotify.com/track/00WZWFbf7B5uGDIdWw5OmE"
     },
     {
       "added_at": "2026-09-21 12:18:51",
@@ -155,26 +175,6 @@
       "duration_ms": 166159,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/6iQCcnX1Q8hQQ4T2M7lnfL"
-    },
-    {
-      "added_at": "2026-09-21 12:18:51",
-      "album": {
-        "name": "Rapido",
-        "url": "https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF"
-      },
-      "artists": [
-        {
-          "name": "Bankzitters",
-          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
-        },
-        {
-          "name": "Robert van Hemert",
-          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
-        }
-      ],
-      "duration_ms": 167103,
-      "name": "Rapido",
-      "url": "https://open.spotify.com/track/00WZWFbf7B5uGDIdWw5OmE"
     },
     {
       "added_at": "2026-09-21 12:18:51",

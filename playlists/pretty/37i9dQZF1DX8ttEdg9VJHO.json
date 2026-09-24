@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 367631,
+  "num_followers": 367624,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-09-17 22:01:12",
       "album": {
+        "name": "Flugmodus",
+        "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
+      },
+      "artists": [
+        {
+          "name": "Clueso",
+          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
+        }
+      ],
+      "duration_ms": 178469,
+      "name": "Flugmodus",
+      "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
+    },
+    {
+      "added_at": "2026-09-17 22:01:12",
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-09-17 22:01:12",
-      "album": {
-        "name": "Flugmodus",
-        "url": "https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy"
-      },
-      "artists": [
-        {
-          "name": "Clueso",
-          "url": "https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW"
-        }
-      ],
-      "duration_ms": 178469,
-      "name": "Flugmodus",
-      "url": "https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2"
     },
     {
       "added_at": "2026-09-17 22:01:12",

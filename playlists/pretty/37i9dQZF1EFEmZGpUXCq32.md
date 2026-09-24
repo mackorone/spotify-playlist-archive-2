@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 20 | [Against The Grain](https://open.spotify.com/track/0trUJorcGfvDRoaqS8zawx) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:13 |
 | 21 | [Fighting for Peace](https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Fighting for Peace](https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos) | 3:22 |
 | 22 | [Parenthesis](https://open.spotify.com/track/404r5PaCnSAgwsc82Lmy8j) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:11 |
-| 23 | [Trade It All](https://open.spotify.com/track/3OZqqgl3jpCodZrMCJuZBK) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:50 |
-| 24 | [Move Along](https://open.spotify.com/track/6wex38tbUhTco21wXPSo2a) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 0:54 |
+| 23 | [Move Along](https://open.spotify.com/track/6wex38tbUhTco21wXPSo2a) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [James Savage](https://open.spotify.com/artist/0NJU41dLwF6OcBPRZwhAV5) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 0:54 |
+| 24 | [Trade It All](https://open.spotify.com/track/3OZqqgl3jpCodZrMCJuZBK) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Art of Love](https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh) | 6:50 |
 | 25 | [Planet Express](https://open.spotify.com/track/7HY0lAbWyJr6JqvKgRQDEL) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Hitchhiker](https://open.spotify.com/album/32Srim9ACKmJsJvszNNlTe) | 4:20 |
 | 26 | [Therapy](https://open.spotify.com/track/75FQnbNzIeX9QAl21BEnKI) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [The Alexander Technique](https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe) | 4:05 |
 | 27 | [Hooper](https://open.spotify.com/track/2QK35TtLvYlOpV2zjw6vtt) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 1:27 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmZGpUXCq32.md) - [plain]
 | 121 | [Leap of Faith](https://open.spotify.com/track/4mwSkN12OpWi1Wp9k5Oesq) | [The PRVLG](https://open.spotify.com/artist/2BWNNDrfiAwUHbkihc16I4) | [Lover Girl's Playlist Pt\. 1](https://open.spotify.com/album/2AMZkJYM8t5bloohspD4y6) | 3:00 |
 | 122 | [Offering Song Address](https://open.spotify.com/track/4VotLKO4qyqCJqI75bAiFQ) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 0:18 |
 
-Snapshot ID: `AcdBRgAAAADUuc3JgdhHnCAf2V73uxVt`
+Snapshot ID: `AcdG5gAAAADAGQKDwb218hjjrdVVy/UY`

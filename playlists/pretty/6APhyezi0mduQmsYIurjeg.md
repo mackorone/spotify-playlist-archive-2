@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 612 songs - 1 day 13 hr 6 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,281 likes - 615 songs - 1 day 13 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -620,5 +620,8 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 610 | [Me importa un cojón](https://open.spotify.com/track/3pWlrEpxByKgEAZSnNsBD8) | [10 A.M.](https://open.spotify.com/artist/3C4upqs3USikUXXrB6Rivz) | [Me importa un cojón](https://open.spotify.com/album/1f4DJDBJGPlzMJyonkPNpj) | 2:55 |
 | 611 | ['Til It All Goes up in Flames](https://open.spotify.com/track/3PKQRbSgi6DzeS9L0rBgS2) | [Narcotic Hearts](https://open.spotify.com/artist/4icQIBDsvhbkTnrFuctLV0) | ['Til It All Goes up in Flames](https://open.spotify.com/album/2le4AUKaXXzAgvaTeBY2qE) | 2:45 |
 | 612 | [Lift Me Up](https://open.spotify.com/track/6MS9JFqZY2bxILcwyr3n5n) | [Luna Rosa](https://open.spotify.com/artist/5tBIpe6b4WNOLFMnZsvuGL) | [Lift Me Up](https://open.spotify.com/album/44YEDKM5XEB1MbzyeiGYqe) | 4:03 |
+| 613 | [Somente Nós](https://open.spotify.com/track/3f1fI7LddAaiR1fpPvHqz2) | [Ricardo Meirelles](https://open.spotify.com/artist/0OthpXRGUAXaehO7u2IWOs) | [Somente Nós](https://open.spotify.com/album/43aprloy5dUhjUOLCJZars) | 2:32 |
+| 614 | [Wild Side](https://open.spotify.com/track/2IX9CFrzyidHU7lfWgaaKu) | [James A Davis](https://open.spotify.com/artist/2jtU4md0ZpRPWY4FMXCc3i), [Lenox Sterling](https://open.spotify.com/artist/1oBsWghz3IZnF8aU138aLx) | [No Limit](https://open.spotify.com/album/4eq1reuHF7j7ZsSN8Qs1Rz) | 4:07 |
+| 615 | [1ne](https://open.spotify.com/track/4GbahnbbVLTfUcHnFurgkS) | [Sol Marineris](https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP) | [Songs of Repetition](https://open.spotify.com/album/7gnvkbbUp2aazXJg53fB6L) | 4:11 |
 
-Snapshot ID: `AAAC+rTNtXyzp1KfBUFzTtZ3gxwvYdJk`
+Snapshot ID: `AAAC/fpaLLXUyM5DZyeTtSVCYCgFhX12`

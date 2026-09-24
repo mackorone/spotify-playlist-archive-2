@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX6LVkNunXMAU.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX6LVkNunXMAU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX6LVkNunXMAU)
 
-### [folk & invierno](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
+### [folk & primavera](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
 > Folk latino de estación\. Foto: Micaela Basadoni
 

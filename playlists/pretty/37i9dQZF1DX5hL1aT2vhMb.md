@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hL1aT2vhMb.md) - [plain]
 
 > Celebrate the great women composers and classical performers who continue to transform the classical world\. Cover: Alexandra Dariescu
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,368 likes - 170 songs - 12 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,378 likes - 170 songs - 12 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

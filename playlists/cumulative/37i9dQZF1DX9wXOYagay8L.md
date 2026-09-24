@@ -2,7 +2,7 @@
 
 ### [Made In South Africa](https://open.spotify.com/playlist/37i9dQZF1DX9wXOYagay8L)
 
-> Proudly Southern African Afropop gems\. Cover: Langa Mavuso
+> Proudly Southern African Afropop gems\. Cover: Musa
 
 781 songs - 2 day 7 hr 23 min
 

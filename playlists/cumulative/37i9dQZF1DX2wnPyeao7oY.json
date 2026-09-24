@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Gore.",
+  "description": "New music by the heaviest independent artists and labels every Wednesday. Cover: Freeze the Fall",
   "name": "Fresh Finds Heavy",
   "tracks": [
     {
@@ -3398,6 +3398,24 @@
       "duration_ms": 194484,
       "name": "creep.",
       "url": "https://open.spotify.com/track/5NOCTGgUKlYTlcSaDPdSa4"
+    },
+    {
+      "album": {
+        "name": "Crescents and the Torch",
+        "url": "https://open.spotify.com/album/1D0mQRBUl9PevW91nZLmFj"
+      },
+      "artists": [
+        {
+          "name": "Freeze the Fall",
+          "url": "https://open.spotify.com/artist/20OWAFiCJOvXwWlCBU5xHc"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220316,
+      "name": "Crescents and the Torch",
+      "url": "https://open.spotify.com/track/64XDJcykwUPjYXSvSHbhXv"
     },
     {
       "album": {
@@ -8743,6 +8761,24 @@
     },
     {
       "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2A9QemTmLFykwFbuGjIrS6"
+      },
+      "artists": [
+        {
+          "name": "Half Me",
+          "url": "https://open.spotify.com/artist/4LNvQot1CDYC3kWGW144XC"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131706,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3VRsMiwkWnPGfcdeMHr1H0"
+    },
+    {
+      "album": {
         "name": "King Of The Damned",
         "url": "https://open.spotify.com/album/2S9VAZnnY4rP6jIdHxrGIh"
       },
@@ -11110,7 +11146,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 254000,
       "name": "Oblivion Walker",
       "url": "https://open.spotify.com/track/3D0uqiNyGyMuwsa7zMEIDg"
@@ -11312,6 +11348,24 @@
       "duration_ms": 85412,
       "name": "ONE MINUTE",
       "url": "https://open.spotify.com/track/7tTsTV5XZOWiiovCDytYYu"
+    },
+    {
+      "album": {
+        "name": "Onerous Sky",
+        "url": "https://open.spotify.com/album/6LRoPHTinSVkKHPO8tyMbA"
+      },
+      "artists": [
+        {
+          "name": "PlasticSkin",
+          "url": "https://open.spotify.com/artist/3bxcq5dtyl81TTFQeqxD7b"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212072,
+      "name": "Onerous Sky",
+      "url": "https://open.spotify.com/track/5gxx88JJRNAUA3sxXc7YaH"
     },
     {
       "album": {
@@ -12195,6 +12249,24 @@
     },
     {
       "album": {
+        "name": "PROMETHEUS PROTOCOL",
+        "url": "https://open.spotify.com/album/1fZdX0tiLJXuK1DxSwIN24"
+      },
+      "artists": [
+        {
+          "name": "DOGBITE",
+          "url": "https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187374,
+      "name": "PROMETHEUS PROTOCOL",
+      "url": "https://open.spotify.com/track/1z8YopWJu6kuOheQ1wZorc"
+    },
+    {
+      "album": {
         "name": "Psyche",
         "url": "https://open.spotify.com/album/6DPebgfLHUR40qKEHzfxre"
       },
@@ -12260,7 +12332,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 199066,
       "name": "PUNISHMENT ROUTINE",
       "url": "https://open.spotify.com/track/1x8kAqmPBBBvvd4LPpBYdF"
@@ -12314,7 +12386,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 292666,
       "name": "Quiet Quit",
       "url": "https://open.spotify.com/track/6JtTNI52TR9184YX6OQNso"
@@ -12433,6 +12505,24 @@
     },
     {
       "album": {
+        "name": "Rapture",
+        "url": "https://open.spotify.com/album/6AlQx2C5UFjXOVT2xZ1JRb"
+      },
+      "artists": [
+        {
+          "name": "ACCVSED",
+          "url": "https://open.spotify.com/artist/4GeOwEvBs2fJYEIjWrxvZS"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249577,
+      "name": "Rapture",
+      "url": "https://open.spotify.com/track/6GLi42W53ShZz9MemDfCSb"
+    },
+    {
+      "album": {
         "name": "RARARA",
         "url": "https://open.spotify.com/album/5zWxYL9Wc9XGx9KNiB7YRk"
       },
@@ -12484,6 +12574,24 @@
       "duration_ms": 216240,
       "name": "Razor",
       "url": "https://open.spotify.com/track/3nOZwO3wEK0qdu2R9g1iEA"
+    },
+    {
+      "album": {
+        "name": "Ready For The Grave",
+        "url": "https://open.spotify.com/album/2AC6SWE8SyxMB7RldZIyBD"
+      },
+      "artists": [
+        {
+          "name": "Early Moods",
+          "url": "https://open.spotify.com/artist/4x8y8i7a2jC5QVtNGTRn9i"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287666,
+      "name": "Ready For The Grave",
+      "url": "https://open.spotify.com/track/46vWgdKyzHy1wpvleZ2gzw"
     },
     {
       "album": {
@@ -13732,7 +13840,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 168011,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/3A5JKGTWej34nGhG2PVYqA"
@@ -15662,7 +15770,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 143177,
       "name": "THE RISING TIDE",
       "url": "https://open.spotify.com/track/3JDqHduzsN6uxm0pkM6GK2"
@@ -17134,7 +17242,7 @@
       ],
       "date_added": "2026-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 177733,
       "name": "Wall of Skulls",
       "url": "https://open.spotify.com/track/4J6N2ykIlFQP4VK4lVBRjK"

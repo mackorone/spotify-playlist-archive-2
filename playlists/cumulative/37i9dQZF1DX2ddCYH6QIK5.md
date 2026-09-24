@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: gwuapo, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Mwita Mataro, Artwork: Isu Kim
 
-1,723 songs - 3 day 23 hr 33 min
+1,727 songs - 3 day 23 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,6 +508,7 @@
 | [Fear Of Failing](https://open.spotify.com/track/7qTPFUNyS7BOIXbkHfQQz4) | [Minoa](https://open.spotify.com/artist/65NZk6IZ0jdkHO7L0laAvG) | [Fear Of Failing](https://open.spotify.com/album/3nTUlXG8vbU4CSefdXpjsG) | 6:02 | 2022-01-19 | 2022-02-17 |
 | [Feel](https://open.spotify.com/track/5BOgK9BkIZ4otm3sbHN5yP) | [KCE](https://open.spotify.com/artist/2cBEKV8ZS4PnGEW5FJGvD7) | [Feel](https://open.spotify.com/album/7gFxESOukJcENEoH8kuE4W) | 3:23 | 2026-02-12 | 2026-04-16 |
 | [Feel Like](https://open.spotify.com/track/3ieRlMEKZ2SJNdx3DCBNhe) | [SOLØS](https://open.spotify.com/artist/7N21Y5fRqIDsPNtEGrA6Bz) | [Feel Like](https://open.spotify.com/album/1OlFkQ5drcNs1F2C3J9TW3) | 2:08 | 2026-04-22 | 2026-08-06 |
+| [fehler nach fehler](https://open.spotify.com/track/71i9gwYxoMOrj4fQ1nD4pw) | [bjarne bennet](https://open.spotify.com/artist/6Kc2XyRFPiGZhWyjoq7jEr) | [fehler nach fehler](https://open.spotify.com/album/3AYOzTFOluN3tISeX9a4Th) | 2:28 | 2026-09-23 |  |
 | [Feigling](https://open.spotify.com/track/6oM94Or7ceywhNd2DrZy77) | [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [Feigling](https://open.spotify.com/album/2w8oDpbvB9nPsiKNqC5BWf) | 4:03 | 2026-05-13 | 2026-06-11 |
 | [Felicity](https://open.spotify.com/track/1MiQ67ljfXuuxh25CbdbUr) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD), [Daniele Di Martino](https://open.spotify.com/artist/1P0crNTkAtkSEDCGsbd2JJ) | [Hidden Peak](https://open.spotify.com/album/4r39P3IcmkJ3rIiGKbOwIg) | 6:51 | 2022-07-06 | 2022-08-18 |
 | [fernweh](https://open.spotify.com/track/4sqs6lmuuRV2zqZUHTtnfx) | [OSTARA](https://open.spotify.com/artist/2Qg4QCqfUMXW4dxkTRZ14j) | [schöne musik](https://open.spotify.com/album/5fhU9OVOUg7ZEu4Ebo9DHy) | 4:28 | 2023-02-08 | 2023-03-23 |
@@ -620,6 +621,7 @@
 | [grosse freiheit](https://open.spotify.com/track/6P4HmEGU2LaTMv6o4smUlc) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [grosse freiheit](https://open.spotify.com/album/7F1EntvuJk1qGmJenBCqJi) | 2:50 | 2023-06-14 | 2023-07-27 |
 | [Grün](https://open.spotify.com/track/4rrFc6cqasnn9I24dqhBFJ) | [Lilli Belle](https://open.spotify.com/artist/5gH1N6dCnL6tqDJzB05iSt) | [Grün](https://open.spotify.com/album/1P66gJ0jqHfVlL6lI73mR8) | 3:51 | 2025-11-26 | 2026-01-22 |
 | [grüne augen lügen](https://open.spotify.com/track/1SxYP9yXdN2UgnTu61Pytv) | [kleinabaoho](https://open.spotify.com/artist/5ZlsovbyHt8JLUKb68OG2x) | [grüne augen lügen](https://open.spotify.com/album/0iTAYbRF5Jd5rq2Rt48JwB) | 3:17 | 2024-05-15 | 2025-01-10 |
+| [Grüße Sie](https://open.spotify.com/track/175KjAaaWWD8N8tCLbt6w3) | [Mwita Mataro](https://open.spotify.com/artist/4bwq9h8GFaUjmituemyoMQ) | [Grüße Sie](https://open.spotify.com/album/5EhlLCmQwzNH58uOYwBEzC) | 3:02 | 2026-09-23 |  |
 | [Gun to My Head](https://open.spotify.com/track/4qcabnkx8E5JBU6sJqgoP5) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Gun to My Head](https://open.spotify.com/album/2xu9hkVRrBokElF9odTrlh) | 2:39 | 2022-01-05 | 2022-02-24 |
 | [Gurkensalat](https://open.spotify.com/track/0nnVAk3oPVV2cicoKrgyyG) | [Karl Kave](https://open.spotify.com/artist/3KrIw42Q0x8jQpqzND2SeD), [Durian](https://open.spotify.com/artist/0DzRknz9aoKxo9DczxFrTY) | [Gurkensalat](https://open.spotify.com/album/2rPPAxc2ZffH2DVkdNnrKO) | 4:24 | 2022-08-31 | 2022-12-01 |
 | [Guter Rath](https://open.spotify.com/track/1PdbggqDIikGd2BSLh1S0L) | [Rathmann](https://open.spotify.com/artist/7iAcfPZIZ0YmpUmT43RR0G) | [Guter Rath](https://open.spotify.com/album/6pp9PCxaF5jNcLsSyGovtI) | 3:29 | 2022-03-23 | 2022-04-21 |
@@ -839,7 +841,7 @@
 | [Kein happy end](https://open.spotify.com/track/5syysytI9EvNPNFMYzQXxu) | [urbie](https://open.spotify.com/artist/3q6Roe8WuwjXajxaTkQLSB) | [Kein happy end](https://open.spotify.com/album/0MvLyqtYYaPxYdty8CFNRS) | 3:32 | 2025-02-19 | 2025-06-05 |
 | [Kein Vergleich](https://open.spotify.com/track/5ak39eRB6Abhcm6Zk6e5BY) | [Mynt](https://open.spotify.com/artist/4S7e9TX0ER8bUiHnrIuDlN) | [Kein Vergleich](https://open.spotify.com/album/2GQmMS8RXKOxUeJEcanGZv) | 2:24 | 2024-05-08 | 2025-01-10 |
 | [Keine Bewegung](https://open.spotify.com/track/50CELGRHg9DlDXIRXjykxt) | [Mamoré](https://open.spotify.com/artist/2a6Sq96x1AYBfPTFr9js17) | [Keine Bewegung](https://open.spotify.com/album/2GJFokVHqeNWRArAnQkpwW) | 3:46 | 2023-08-30 | 2023-09-14 |
-| [Keine Helden](https://open.spotify.com/track/4kTeTCpvtKrN1A0iKc7y9E) | [GroßKind](https://open.spotify.com/artist/7mo1NcmfdlXRh3GCLNCJp7) | [Keine Helden](https://open.spotify.com/album/62QEwWRa9cg4ku7eDpbySC) | 3:05 | 2026-06-17 |  |
+| [Keine Helden](https://open.spotify.com/track/4kTeTCpvtKrN1A0iKc7y9E) | [GroßKind](https://open.spotify.com/artist/7mo1NcmfdlXRh3GCLNCJp7) | [Keine Helden](https://open.spotify.com/album/62QEwWRa9cg4ku7eDpbySC) | 3:05 | 2026-06-17 | 2026-09-24 |
 | [Keine Liebe](https://open.spotify.com/track/4z5mqBhTiK5nxv2ADCLNgA) | [Marlena Käthe](https://open.spotify.com/artist/40sGCC2yxtOagLD7aewQJc) | [Keine Liebe](https://open.spotify.com/album/4b05pohxkfNEmKzJ4zrAzX) | 2:13 | 2025-02-19 | 2026-01-15 |
 | [Keine Maschine](https://open.spotify.com/track/5PGxjnwk4rYoRoQOAX7biF) | [MIA MARA](https://open.spotify.com/artist/75d98h0JLTaZa3X53W5yg2) | [Keine Maschine](https://open.spotify.com/album/2MMoVor86HKwGJtRxODqS3) | 2:14 | 2022-11-23 | 2023-02-09 |
 | [Keine Panik](https://open.spotify.com/track/6LH0YQyj12KPaFTe3PRO1S) | [Siggi](https://open.spotify.com/artist/6BrzY6gIz24bK2d62Zaoaz) | [Keine Panik](https://open.spotify.com/album/3cC8Qm5TtLpzvR2CJImgcY) | 3:29 | 2023-03-01 | 2023-08-31 |
@@ -902,7 +904,7 @@
 | [Lei Sentiva](https://open.spotify.com/track/0ZpiiAbawD4XqtqGctsyTl) | [Kush K](https://open.spotify.com/artist/5extH4I3ANqWDRxHdOuImu) | [Lei Sentiva](https://open.spotify.com/album/2bTTWTbWdwgiL0PHGkj6nc) | 4:20 | 2024-11-13 | 2025-02-20 |
 | [Leichter](https://open.spotify.com/track/43ctRqqjV2eIXiAYLfQGy7) | [Strandhase](https://open.spotify.com/artist/7vtC2BwSc7CwJ634wi23ay) | [Leichter](https://open.spotify.com/album/55fnSAWqSGoobBwAGJHTdn) | 3:33 | 2022-03-30 | 2022-04-14 |
 | [Let Me](https://open.spotify.com/track/5WO3T0V4TOjFaCk1jJQZZn) | [LAOURA](https://open.spotify.com/artist/3WL9RuDCKPrbcKpfCRe7Np) | [Let Me](https://open.spotify.com/album/4Kwv7Hv9cYhCvDgz1nTP1c) | 3:09 | 2025-02-12 | 2026-01-15 |
-| [Let Me Go](https://open.spotify.com/track/6EwSePQC4NhmlMvApMBE7n) | [horses4ever](https://open.spotify.com/artist/6mICKgxnfSCLXhxSl7WFG5) | [Let Me Go](https://open.spotify.com/album/2sHraNAhj9B5BwO0MXncfX) | 3:00 | 2026-07-08 |  |
+| [Let Me Go](https://open.spotify.com/track/6EwSePQC4NhmlMvApMBE7n) | [horses4ever](https://open.spotify.com/artist/6mICKgxnfSCLXhxSl7WFG5) | [Let Me Go](https://open.spotify.com/album/2sHraNAhj9B5BwO0MXncfX) | 3:00 | 2026-07-08 | 2026-09-24 |
 | [Let's Leave](https://open.spotify.com/track/7pgDx26ZSbadWvbBdGwLuv) | [TAY\-LAH](https://open.spotify.com/artist/1MSXbdDPfEXEmYxjdvRsBJ) | [Let's Leave](https://open.spotify.com/album/0zquDMei682fo2KfL6XBIH) | 2:35 | 2022-05-18 | 2022-06-01 |
 | [Letzte Seite](https://open.spotify.com/track/3cvXcYAkPvbzewxCRYuhoq) | [vilo](https://open.spotify.com/artist/2qNDPDaLfn29Zd84jdGGmS) | [Letzte Seite](https://open.spotify.com/album/6KdxMWV7SiBYHQWoTansy8) | 3:07 | 2026-04-22 |  |
 | [Levitation](https://open.spotify.com/track/1UyuCWXxvSOe3mFvYNVIUT) | [Ouhana](https://open.spotify.com/artist/3tVHTq8WIDFyayynQFPKo1) | [Levitation](https://open.spotify.com/album/4kylgjMemfIkxrf7vEP5Gc) | 6:16 | 2022-01-19 | 2023-01-05 |
@@ -980,7 +982,7 @@
 | [May](https://open.spotify.com/track/3EOjSINT1L4FXt6bT33yl8) | [Jules](https://open.spotify.com/artist/1DLdX3be3V4Bna9F45FtSg) | [May](https://open.spotify.com/album/3ucWTNA4vVFOEAPcwptgJg) | 2:59 | 2022-06-01 | 2022-07-28 |
 | [maybe](https://open.spotify.com/track/40RUjUCr5WIm3z1U6ARcRC) | [Definitely Not Luke](https://open.spotify.com/artist/4Oxu8bs0EB64KkSBGOLlkt) | [maybe](https://open.spotify.com/album/4uGl8tZGNca1TIReggiwlX) | 2:21 | 2022-11-09 | 2023-03-09 |
 | [Maybe Tonight](https://open.spotify.com/track/3AaLsQGkdjAjNoeMejbfpO) | [Victoria West](https://open.spotify.com/artist/2g14SO8yjodxGFXxwPOGmL) | [Maybe Tonight](https://open.spotify.com/album/2o3ze8pqlxobqDOFETFoiL) | 3:30 | 2025-08-13 | 2025-10-23 |
-| [ME, YOU & YOUR BOYFRIEND](https://open.spotify.com/track/2RnQ9VH5sB6y4sREGkSSGV) | [Gavriel](https://open.spotify.com/artist/2zDGlffoY1qqaIPvwXRhRv) | [ME, YOU & YOUR BOYFRIEND](https://open.spotify.com/album/5hDqz74VpQvOPBta9YsvBh) | 2:38 | 2026-09-09 |  |
+| [ME, YOU & YOUR BOYFRIEND](https://open.spotify.com/track/2RnQ9VH5sB6y4sREGkSSGV) | [Gavriel](https://open.spotify.com/artist/2zDGlffoY1qqaIPvwXRhRv) | [ME, YOU & YOUR BOYFRIEND](https://open.spotify.com/album/5hDqz74VpQvOPBta9YsvBh) | 2:38 | 2026-09-09 | 2026-09-24 |
 | [Medusa](https://open.spotify.com/track/1jSyEDfonQqxdvVHeLMEsw) | [carls8erg](https://open.spotify.com/artist/4nZDWhkKuOHrd6OxwoslWp) | [Medusa](https://open.spotify.com/album/0H17Z5zSi1iTELFNMN45z4) | 2:43 | 2026-05-06 | 2026-07-09 |
 | [Mehr](https://open.spotify.com/track/4lgi1NMBdcqoIb2DDMdRHk) | [Leevo](https://open.spotify.com/artist/6Kiz5me3OrxGGsEFl9d5qu) | [Okay.](https://open.spotify.com/album/5orfxdnu9rIz5YWafnyqcm) | 2:41 | 2022-07-06 | 2022-09-09 |
 | [mein bruder](https://open.spotify.com/track/6hbGRdcTeQ27h9EIUmMU5F) | [lenzy](https://open.spotify.com/artist/1zhcGENkWmlGu0UGcC8ESf), [Lawin](https://open.spotify.com/artist/71uREn6T0W8TksNJpN82cw) | [mein bruder](https://open.spotify.com/album/2z5MaDNict2hfxxqjgNKKm) | 2:26 | 2024-11-13 | 2024-12-05 |
@@ -1106,7 +1108,7 @@
 | [Ocean's Lullaby](https://open.spotify.com/track/4W91r73bTPk5VvYCKckwkH) | [Vanelle](https://open.spotify.com/artist/3iv2EuWhOifnER7qZkOy8X) | [Ocean's Lullaby](https://open.spotify.com/album/1l8iY6ON45Ez2kBX5Ipv2q) | 3:38 | 2025-06-04 | 2025-09-11 |
 | [OCEANS MISSING YOU](https://open.spotify.com/track/3LpukLeiwm9d0Mo4eCZLCG) | [Cosmo Lautaro](https://open.spotify.com/artist/1KkOEEp4YjvWIWH7NjOu2M) | [OCEANS MISSING YOU](https://open.spotify.com/album/5Go28xHvXbgD6zaWAVmkni) | 4:03 | 2023-10-25 | 2024-04-24 |
 | [Ode To T](https://open.spotify.com/track/21hzJoieDGFJtnelfEvWNF) | [Saint Precious](https://open.spotify.com/artist/7EtHe2rjA7F4wVXM1rxsy6) | [Ode To T](https://open.spotify.com/album/1KhPpYOXaFZbxRkDy1XExg) | 4:59 | 2023-07-05 | 2023-07-20 |
-| [Odyssee](https://open.spotify.com/track/2DrKoZTPMceehif9nQntT3) | [Mende](https://open.spotify.com/artist/1XfqP1N38BVNsyLfMD2UTL) | [Odyssee](https://open.spotify.com/album/7H1meLcsqJuICI4hQyOk6V) | 3:42 | 2026-04-15 |  |
+| [Odyssee](https://open.spotify.com/track/2DrKoZTPMceehif9nQntT3) | [Mende](https://open.spotify.com/artist/1XfqP1N38BVNsyLfMD2UTL) | [Odyssee](https://open.spotify.com/album/7H1meLcsqJuICI4hQyOk6V) | 3:42 | 2026-04-15 | 2026-09-24 |
 | [Odyssey](https://open.spotify.com/track/3uQRqiNdBjjTIvb1bq5FH4) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK) | [Odyssey EP](https://open.spotify.com/album/2SBRzynmqYkPw0Yf6Jn0pK) | 5:45 | 2025-02-05 | 2025-02-28 |
 | [Off Limits](https://open.spotify.com/track/4D1VVJxznxHm3kQJnyXCzX) | [Mia Mae](https://open.spotify.com/artist/3HUnnmL0aJg2K2OkKJwA99) | [Off Limits](https://open.spotify.com/album/2jMltPrdUYxMkRuCeEuE8m) | 3:34 | 2022-08-24 | 2022-12-01 |
 | [Off without me](https://open.spotify.com/track/0668kxcEsGMJPUvSOdW8yI) | [SCHRAMM](https://open.spotify.com/artist/15eXysq80jazu6dKxed7BU) | [Off without me](https://open.spotify.com/album/7n6cKeIxNuSMaUUSezX0G5) | 3:16 | 2022-11-30 | 2023-01-05 |
@@ -1376,6 +1378,7 @@
 | [Sommerherz](https://open.spotify.com/track/3MvYgQdC075ShrV9NMY5l3) | [Satero](https://open.spotify.com/artist/39Ny7kCVC5LuxOYDEjMuhJ) | [Sommerherz](https://open.spotify.com/album/19cWQ5dNAo2pbRfl5J5an4) | 2:24 | 2024-05-22 | 2024-11-21 |
 | [Sommerherz](https://open.spotify.com/track/4jRWh2IqTfSiNRzwIPGyES) | [Satero](https://open.spotify.com/artist/39Ny7kCVC5LuxOYDEjMuhJ) | [Sommerherz](https://open.spotify.com/album/1krvolq3Zyp4hc08Pvwf1F) | 2:24 | 2024-12-04 | 2025-01-10 |
 | [Sommernachtstraum](https://open.spotify.com/track/7E5tLqlKWuadSHjkVbdaBI) | [CLÅRA](https://open.spotify.com/artist/47r6hN3XzIyOTzlXEE6vBs) | [Sommernachtstraum](https://open.spotify.com/album/3AKgbWEiNM2fq4IEyND14u) | 3:29 | 2024-05-29 | 2024-07-17 |
+| [Sommerregen](https://open.spotify.com/track/1TrNemgJfDWJd5vHdRuq8B) | [Faire La Paix](https://open.spotify.com/artist/3sTsXWdQHqK1rv5O4hurhZ) | [Sommerregen](https://open.spotify.com/album/6DopqfIX2gYDVtrCeFB75P) | 3:44 | 2026-09-23 |  |
 | [Sommerregen](https://open.spotify.com/track/3hmHc8LawSwTMSsBM1qzNx) | [LoSin](https://open.spotify.com/artist/2V2TjlO4cIpjrPqCHoKurj) | [Sommerregen](https://open.spotify.com/album/6mZGBF22u5vvze5sEXvrXn) | 2:34 | 2024-05-29 | 2024-11-14 |
 | [Sommersemester](https://open.spotify.com/track/0F5EohvdxjOjzjdqfsU9t4) | [MIDAN](https://open.spotify.com/artist/42YC0yEUykvWFP5biYW4zI), [MICHI](https://open.spotify.com/artist/11F4ZO6fZDv8H4UAH9V4zf) | [Sommersemester](https://open.spotify.com/album/1irTeqVBOg0704NEEDTPHl) | 2:07 | 2026-08-19 |  |
 | [Sonne](https://open.spotify.com/track/7KbfjdioCBl72AMCxqJ86l) | [Kerker](https://open.spotify.com/artist/1WJcvUFwnFVqBLZqbrmd94) | [Sonne](https://open.spotify.com/album/3v7Vdy4qx5ZfBCt02iJL4q) | 3:28 | 2023-09-20 | 2023-10-19 |
@@ -1546,6 +1549,7 @@
 | [Trophies](https://open.spotify.com/track/3UmdAQVw4ncXzOATtEwIKi) | [Elijah Malik](https://open.spotify.com/artist/2WLfCdBLX8d9BTrE0K9bjT), [the Kii](https://open.spotify.com/artist/5xr7NsbwQJjvIeFmvCWYF4) | [Trophies](https://open.spotify.com/album/5kbz9Q7ujqiXAkmJHAQFV7) | 2:51 | 2023-11-15 | 2024-01-25 |
 | [Trust Me When I Lie](https://open.spotify.com/track/669pBel16P5pZJxM20T7OA) | [Luca Malina](https://open.spotify.com/artist/7pQSXjUHAvBeqRexDFCojQ) | [Trust Me When I Lie](https://open.spotify.com/album/1L0JNUvXNjaRiSZGxGBn8Z) | 3:11 | 2023-08-02 | 2024-01-04 |
 | [Try Out](https://open.spotify.com/track/0Q7aSnXPuMBuoJO1CtoOMJ) | [LIA](https://open.spotify.com/artist/1zojh8PHSNpfe2kMPp2uJC) | [Try Out](https://open.spotify.com/album/01l4Fk4aDmSJRuTnyOlEkg) | 2:48 | 2023-04-19 | 2023-05-24 |
+| [Tränen](https://open.spotify.com/track/6hCyX5cdEb7Vu84cNJ79uh) | [Avoid Amber](https://open.spotify.com/artist/7dBlVvbiNtmVlPa1u0aDI7) | [Tränen](https://open.spotify.com/album/3tQ8cYCPyvCaGVZjRumn3v) | 3:41 | 2026-09-23 |  |
 | [tu nicht so](https://open.spotify.com/track/3icvndPd6i3oXKnfyFhzcZ) | [pxuldrizzle](https://open.spotify.com/artist/4FxjZ2U23NLIRhrX06lB2j) | [tu nicht so](https://open.spotify.com/album/6Th5nD16ClQnpKsN5Ni4sj) | 2:01 | 2026-04-15 | 2026-05-07 |
 | [Tunnel Scene](https://open.spotify.com/track/5IPTG9NNyxpa2hByrRy2VL) | [SMLR](https://open.spotify.com/artist/5xcxUFVfqSacGCQKSMBqkh) | [Tunnel Scene](https://open.spotify.com/album/6eSeOTU7zw2h1ra0HLltZK) | 2:34 | 2024-08-07 | 2024-12-05 |
 | [Turmalin](https://open.spotify.com/track/2d2mf1bbECKoExhoEk4yrJ) | [lauenburg](https://open.spotify.com/artist/7jvS50nDvvf2qG3GwFSQHz) | [Turmalin](https://open.spotify.com/album/52muBhbUWgx8y63ZnqvW7h) | 2:38 | 2022-05-25 | 2022-11-24 |

@@ -6,7 +6,7 @@
     "name": "RADIO PLUG PRO",
     "url": "https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e"
   },
-  "snapshot_id": "AAAC+rTNtXyzp1KfBUFzTtZ3gxwvYdJk",
+  "snapshot_id": "AAAC/fpaLLXUyM5DZyeTtSVCYCgFhX12",
   "tracks": [
     {
       "added_at": "2023-08-20 17:59:56",
@@ -10027,6 +10027,58 @@
       "duration_ms": 243282,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/6MS9JFqZY2bxILcwyr3n5n"
+    },
+    {
+      "added_at": "2026-09-23 11:22:31",
+      "album": {
+        "name": "Somente N\u00f3s",
+        "url": "https://open.spotify.com/album/43aprloy5dUhjUOLCJZars"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Meirelles",
+          "url": "https://open.spotify.com/artist/0OthpXRGUAXaehO7u2IWOs"
+        }
+      ],
+      "duration_ms": 152879,
+      "name": "Somente N\u00f3s",
+      "url": "https://open.spotify.com/track/3f1fI7LddAaiR1fpPvHqz2"
+    },
+    {
+      "added_at": "2026-09-23 11:22:42",
+      "album": {
+        "name": "No Limit",
+        "url": "https://open.spotify.com/album/4eq1reuHF7j7ZsSN8Qs1Rz"
+      },
+      "artists": [
+        {
+          "name": "James A Davis",
+          "url": "https://open.spotify.com/artist/2jtU4md0ZpRPWY4FMXCc3i"
+        },
+        {
+          "name": "Lenox Sterling",
+          "url": "https://open.spotify.com/artist/1oBsWghz3IZnF8aU138aLx"
+        }
+      ],
+      "duration_ms": 247180,
+      "name": "Wild Side",
+      "url": "https://open.spotify.com/track/2IX9CFrzyidHU7lfWgaaKu"
+    },
+    {
+      "added_at": "2026-09-23 11:24:15",
+      "album": {
+        "name": "Songs of Repetition",
+        "url": "https://open.spotify.com/album/7gnvkbbUp2aazXJg53fB6L"
+      },
+      "artists": [
+        {
+          "name": "Sol Marineris",
+          "url": "https://open.spotify.com/artist/6fLLkzsoaz9ceyLoGYmUIP"
+        }
+      ],
+      "duration_ms": 251054,
+      "name": "1ne",
+      "url": "https://open.spotify.com/track/4GbahnbbVLTfUcHnFurgkS"
     }
   ],
   "unique_name": "Rock Frequency (2)",

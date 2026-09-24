@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,306 songs - 3 day 0 hr 22 min
+1,307 songs - 3 day 0 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -985,6 +985,7 @@
 | [Secret For You](https://open.spotify.com/track/1P1CCxAlgAI2ugYphI7P36) | [Oliverse](https://open.spotify.com/artist/3fFMSweDNwFGyHcxjN7MWp), [Molly Morgan](https://open.spotify.com/artist/41tjMmR8CEbGeTGA4t7kZh) | [Secret For You](https://open.spotify.com/album/5LTh8DfneuDw0kuA4gWzDz) | 2:50 | 2026-04-29 | 2026-08-07 |
 | [Secrets](https://open.spotify.com/track/6rA8aGJkFECLPm6UKfPFdW) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ) | [Secrets](https://open.spotify.com/album/37sG0du7RSmjM8VMg9E6NR) | 4:00 | 2021-11-26 | 2022-03-03 |
 | [see str8](https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [see str8](https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo) | 4:00 | 2022-07-19 | 2022-10-01 |
+| [See U Bounce](https://open.spotify.com/track/7niB7gHrS3sVhILhHhZTp1) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Segan](https://open.spotify.com/artist/0NgWGGk9p04zLTeFbIdsVO) | [See U Bounce](https://open.spotify.com/album/4NJD5iYpn0iPH2qUR9H0sw) | 3:42 | 2026-09-23 |  |
 | [See What I See](https://open.spotify.com/track/2J7Gdy5GzfdbPoHvpl3qfB) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO) | [See What I See](https://open.spotify.com/album/2GEx2Zurd4rpelQlu0iCH7) | 2:26 | 2024-07-08 | 2024-10-01 |
 | [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 | 2024-05-23 |
 | [Sell Your Soul](https://open.spotify.com/track/2FePeEwAsqh7tspWUV2Ui6) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 2:47 | 2022-11-19 | 2022-11-22 |

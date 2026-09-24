@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/43eWkIiNDbimyD35iong1G.md) - [plain]
 
 > The ultimate wedding songs playlist for your big day\. From romantic wedding love ballads for your first dance to an upbeat wedding mix for the reception party, enjoy the best wedding music featuring Ed Sheeran, John Legend, Bruno Mars, and more\. Timeless romantic hits\. Updated weekly.
 
-[Topsify US](https://open.spotify.com/user/warnermusicus) - 205,605 likes - 150 songs - 9 hr 3 min
+[Topsify US](https://open.spotify.com/user/warnermusicus) - 205,623 likes - 150 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

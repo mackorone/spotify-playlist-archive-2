@@ -168,7 +168,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 282812,
       "name": "A Quiet Voice",
       "url": "https://open.spotify.com/track/5bTWrzP0XXArAJTR26FMF3"
@@ -4455,6 +4455,24 @@
     },
     {
       "album": {
+        "name": "Felix Antonio & the Sea",
+        "url": "https://open.spotify.com/album/6f4lM2gbgsiFejncsNfM0h"
+      },
+      "artists": [
+        {
+          "name": "Felix Antonio",
+          "url": "https://open.spotify.com/artist/2pSPk7tWs5NpVMB6l6EbyZ"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208085,
+      "name": "it's over, i'm sober",
+      "url": "https://open.spotify.com/track/3xXoPfR3HWKHPHgwFxqd0J"
+    },
+    {
+      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -6438,7 +6456,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 182770,
       "name": "On dansera encore",
       "url": "https://open.spotify.com/track/3FxG5LgtVQdWxaahxkdJgm"
@@ -9014,7 +9032,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 193177,
       "name": "tired",
       "url": "https://open.spotify.com/track/6Su2NSVqxgb8MPn9nj7YBg"

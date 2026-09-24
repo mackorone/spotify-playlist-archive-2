@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Zimmermann, Ingrid Vårvik, ULD og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,219 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,210 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 10 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
 | 11 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
 | 12 | [Wasn't it sweet?](https://open.spotify.com/track/0NG405X61oF21s35JSI3Lf) | [JOA](https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9) | [Wasn't it sweet?](https://open.spotify.com/album/3cUZDc9CYZxxB76Tbvtnpx) | 3:02 |
-| 13 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 13 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 14 | [Rusletur](https://open.spotify.com/track/0UcIJPL1K8fYZoLvArSO3g) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Til hverdagen tar oss igjen](https://open.spotify.com/album/2sCBn5AwUYBHDvr0I7euw9) | 3:23 |
 | 15 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
 | 16 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 27 | [At the end of every story](https://open.spotify.com/track/6BTsQLrgOvRxYU9VO6PLLa) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [At the end of every story](https://open.spotify.com/album/51Iisv6iLrQSwTtr9BFGMk) | 4:30 |
 | 28 | [Siste refreng](https://open.spotify.com/track/4tE2FctqyplhSsdrYL5b5Z) | [Sebb Ottesen](https://open.spotify.com/artist/6iDVsJ3FJROGJ9Y40GrnMQ) | [Siste refreng](https://open.spotify.com/album/1oYc55ihHjU5R7AovoHNwh) | 3:45 |
 | 29 | [Painkiller \(feat\. Denzel Curry\)](https://open.spotify.com/track/4SMv2ovSTKGFbe7iYkM9Rf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Painkiller \(feat\. Denzel Curry\)](https://open.spotify.com/album/2F1FhufyLQkZ8laR5PckEx) | 4:01 |
-| 30 | [Love Illusion](https://open.spotify.com/track/3WHqEBuxbm3j8WUan3WgRm) | [Bård Berg](https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r), [GIA](https://open.spotify.com/artist/17k1bAQwNIsz9Zdw4AQGYq) | [Love Illusion](https://open.spotify.com/album/57FMLm6JHjABEeQ2gKyG18) | 3:09 |
+| 30 | [Love Illusion](https://open.spotify.com/track/3WHqEBuxbm3j8WUan3WgRm) | [Bård Berg](https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r), [GIA](https://open.spotify.com/artist/07dn5BRcKTNEMUNhCVEK3Q) | [Love Illusion](https://open.spotify.com/album/57FMLm6JHjABEeQ2gKyG18) | 3:09 |
 | 31 | [The Fixer](https://open.spotify.com/track/21GcIl9SpMma9FrUlsFHEZ) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Fixer](https://open.spotify.com/album/0O6Qvr0w09HYeKoSSC3Gud) | 4:03 |
 | 32 | [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 |
 | 33 | [I det fjerne](https://open.spotify.com/track/0V7I0LRWv5tgep3kzd8l8R) | [Kordfløyel](https://open.spotify.com/artist/48XfqaX7MK5sRiR4NVl6tq) | [I det fjerne](https://open.spotify.com/album/77rMsdpRLH0WDeX3lbqUmW) | 2:09 |

@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1269762,
+  "num_followers": 1269844,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAAAuBqrijkSu0xGQxWeSm7+z",
+  "snapshot_id": "arHFAAAAAADdwrskPHwJYzMhc/Cs2N3P",
   "tracks": [
     {
       "added_at": null,
@@ -687,22 +687,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
-        "url": "https://open.spotify.com/album/4NG6QjqKiqupWuhAarIetU"
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
       },
       "artists": [
-        {
-          "name": "Shane MacGowan",
-          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
-        },
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 204690,
-      "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
-      "url": "https://open.spotify.com/track/2VuEb6YN562K3WlWta87zf"
+      "duration_ms": 284600,
+      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
+      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
     },
     {
       "added_at": null,
@@ -723,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of 1990-2000",
-        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+        "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
+        "url": "https://open.spotify.com/album/4NG6QjqKiqupWuhAarIetU"
       },
       "artists": [
+        {
+          "name": "Shane MacGowan",
+          "url": "https://open.spotify.com/artist/68lZHeroea1NAuEDsfBUjv"
+        },
         {
           "name": "U2",
           "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 284600,
-      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
-      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+      "duration_ms": 204690,
+      "name": "Yeah, Yeah, Yeah, Yeah, Yeah",
+      "url": "https://open.spotify.com/track/2VuEb6YN562K3WlWta87zf"
     },
     {
       "added_at": null,

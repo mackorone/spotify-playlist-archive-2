@@ -1,13 +1,45 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: SYNC.EXE Artwork: Joy Yamusangie.",
-  "num_followers": 245306,
+  "num_followers": 245385,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOn+6NOqRLb/agk4SfMiCE89YV1l",
+  "snapshot_id": "AAAAAMzzx6/rm0AFbfxOnxZNpl1T3a2G",
   "tracks": [
+    {
+      "added_at": "2026-09-23 04:00:18",
+      "album": {
+        "name": "Welcome To The Citadel",
+        "url": "https://open.spotify.com/album/4byokKsdfLAMB1HBlke5KZ"
+      },
+      "artists": [
+        {
+          "name": "PYJ\u00c6N",
+          "url": "https://open.spotify.com/artist/6dGEmHECfu8WzZqZAqXVGc"
+        }
+      ],
+      "duration_ms": 387029,
+      "name": "Welcome to the Citadel",
+      "url": "https://open.spotify.com/track/1TDi31CL50Yop4avqq4gpD"
+    },
+    {
+      "added_at": "2026-09-23 04:00:18",
+      "album": {
+        "name": "Bus Stop",
+        "url": "https://open.spotify.com/album/7N3aJgOEH3TVosEK7Ol9F0"
+      },
+      "artists": [
+        {
+          "name": "LOTUS GUITAR",
+          "url": "https://open.spotify.com/artist/0oe4CpEcla7VtzEtP0DYE6"
+        }
+      ],
+      "duration_ms": 205325,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/5X9xW0NhraXbm8Ot9i3w92"
+    },
     {
       "added_at": "2026-09-02 16:54:55",
       "album": {

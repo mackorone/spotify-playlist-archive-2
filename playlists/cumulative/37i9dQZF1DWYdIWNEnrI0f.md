@@ -4,7 +4,7 @@
 
 > Let Japanese beats guide you into a calm and blissful evening\. / 心地よい夜を過ごすための日本製ビートサウンド
 
-73 songs - 3 hr 33 min
+74 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Stories & Studies](https://open.spotify.com/track/0tKmZJqFwmQ539WrqWrMYM) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0) | [Stories & Studies](https://open.spotify.com/album/6GThZMuDzGscijM6iM5dcc) | 1:52 | 2025-10-24 | 2026-07-19 |
 | [Sunrise](https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Sunrise](https://open.spotify.com/album/1DZbje3Vg1XVwbzMiIzrw4) | 3:20 | 2026-07-18 |  |
 | [Sunrise at Mount Fuji](https://open.spotify.com/track/3wtEF6gOrkS1DTT3BPMWdA) | [Seizan Ishigaki](https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT), [Jikuru](https://open.spotify.com/artist/2KV1oZF072xUfPJbNti3Gp), [Hideyuki Mochizuki](https://open.spotify.com/artist/4gFTtS1ENHeqBDs5UtJvQv) | [Sunrise at Mount Fuji](https://open.spotify.com/album/1fyTJhCf41lyaM3lva5rTd) | 2:19 | 2026-06-26 |  |
+| [Tayutau](https://open.spotify.com/track/1ZiDure4S90WRUJ1CP17p5) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [Tayutau](https://open.spotify.com/album/2rDkaipWW2xf6MxZosufpd) | 2:22 | 2026-09-22 |  |
 | [Time goes by](https://open.spotify.com/track/6H6pqFQ4cAybRvxkXaTihz) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Time goes by](https://open.spotify.com/album/3BGcymZGetozixza8RWiAv) | 1:55 | 2026-04-27 |  |
 | [Tokiwa](https://open.spotify.com/track/727VIiPaWSv4c1poz6RKBk) | [TOMC](https://open.spotify.com/artist/0goluclBYV1M0FriHVtKD0), [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Tokiwa](https://open.spotify.com/album/7FhyXUuEEwmRuy3hq8QMgZ) | 2:34 | 2026-06-12 | 2026-07-28 |
 | [Up and Down](https://open.spotify.com/track/3ijY3w5fc6bIkMjEuKBNNh) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Always in a Hurry](https://open.spotify.com/album/2vJdvUwTvo6DfePDG4XaMf) | 2:31 | 2025-10-24 |  |
@@ -74,7 +75,7 @@
 | [Water Flow](https://open.spotify.com/track/2LeF018m9vGgIAirUuOgCr) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Water Flow](https://open.spotify.com/album/7qk8OPhLH17s6PdUxJKxCM) | 2:34 | 2025-10-24 |  |
 | [While You Dooooo \(Extended\)](https://open.spotify.com/track/7pbEoh1Jx2TSN6nAQ93WQz) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ) | [Collections 01](https://open.spotify.com/album/6MfmIuNJmgLZ0kGE5ot8vi) | 3:27 | 2025-10-24 |  |
 | [Worldwide](https://open.spotify.com/track/6Qs9NTmOxaPs4gEcho8hJa) | [edbl & Kazuki Isogai](https://open.spotify.com/artist/1HaUUmKiUSfsXH0PfgdZcI), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [The edbl × Kazuki Sessions](https://open.spotify.com/album/2BPyV8AqbtLq5mlmDvnzIh) | 3:43 | 2025-10-24 | 2026-07-19 |
-| [Yosei](https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [岡潔 \(Oka Kiyoshi\)](https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q) | 3:01 | 2026-02-10 |  |
+| [Yosei](https://open.spotify.com/track/2kW5HMJTeGkaWuYqYv1ASP) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [岡潔 \(Oka Kiyoshi\)](https://open.spotify.com/album/54ie8dvZJk5c6WgNHIsM6Q) | 3:01 | 2026-02-10 | 2026-09-24 |
 | [Yves](https://open.spotify.com/track/4WPkKMDMWFrkKpth3KwLb2) | [Sinj Clarke](https://open.spotify.com/artist/7jDSOef767oJaystnbMU4Q) | [Yves](https://open.spotify.com/album/3iLLjXJhwzrnkO7x2s5YoI) | 5:19 | 2025-10-24 |  |
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2025-10-24 | 2026-01-06 |
 | [ゆれる \- Instrumental\-](https://open.spotify.com/track/6wqBWgnLdQxwjrQOCphIzD) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [Sketchbook](https://open.spotify.com/album/58hj3WxFm2UOKw5s1ukfHY) | 3:08 | 2025-10-24 | 2026-09-23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Shantel Cyline. Artwork: Isu Kim.\n",
+  "description": "The best new music from independent artists. Curated with love by human Spotify editors. Cover: Minimal Days. Artwork: Isu Kim.\n",
   "name": "Fresh Finds Philippines",
   "tracks": [
     {
@@ -24487,6 +24487,24 @@
     },
     {
       "album": {
+        "name": "gitna",
+        "url": "https://open.spotify.com/album/4TTSO5LbagxccnPZa31Pft"
+      },
+      "artists": [
+        {
+          "name": "Rangel",
+          "url": "https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154704,
+      "name": "gitna",
+      "url": "https://open.spotify.com/track/0IskDufpYHQxZ6KOgaldAx"
+    },
+    {
+      "album": {
         "name": "Give Me Love.",
         "url": "https://open.spotify.com/album/7euCmBWYm21yAf3bJDzZhI"
       },
@@ -27640,6 +27658,24 @@
       "duration_ms": 156778,
       "name": "Here she comes",
       "url": "https://open.spotify.com/track/70DOs4gflEdaRKwARPeKXU"
+    },
+    {
+      "album": {
+        "name": "Here's Where The Story Ends",
+        "url": "https://open.spotify.com/album/5o0bDGkJWF32goZmHtiyeS"
+      },
+      "artists": [
+        {
+          "name": "Amss",
+          "url": "https://open.spotify.com/artist/3gS33JFM2lbTC6zeTJdoNd"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248175,
+      "name": "Here's Where The Story Ends",
+      "url": "https://open.spotify.com/track/3zrYGMvX5hQQiyboJpHQ4Q"
     },
     {
       "album": {
@@ -32674,6 +32710,24 @@
       "duration_ms": 201837,
       "name": "Indak",
       "url": "https://open.spotify.com/track/6UfYUS3HeNT26PhNMGOdDF"
+    },
+    {
+      "album": {
+        "name": "indie film",
+        "url": "https://open.spotify.com/album/2WaRhRnmNjOwUZ9fw1tvAk"
+      },
+      "artists": [
+        {
+          "name": "Minimal Days",
+          "url": "https://open.spotify.com/artist/7xW7KeDiKDjmh2BWwqRsPh"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186013,
+      "name": "indie film",
+      "url": "https://open.spotify.com/track/3LVK461v4j5peYIo9qq4Fj"
     },
     {
       "album": {
@@ -57154,7 +57208,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 141818,
       "name": "PRETTY LITTLE LIARS",
       "url": "https://open.spotify.com/track/0E2DkvSSuhwlJC9ULLBVoj"
@@ -65348,7 +65402,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 160733,
       "name": "SOBRANG FLY",
       "url": "https://open.spotify.com/track/6b3yX6hVglGGOBPSmrzRVv"
@@ -69186,7 +69240,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 165454,
       "name": "TAKIS",
       "url": "https://open.spotify.com/track/31YHZyxu0kryrBnkXxAAII"

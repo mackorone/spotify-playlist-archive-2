@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 172075,
+  "num_followers": 172098,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
+        "name": "Ada Apa Dengan Cinta? (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
+      },
+      "artists": [
+        {
+          "name": "Melly Goeslaw",
+          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Bimbang",
+      "url": "https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
         "name": "Bila Memang Kamu",
         "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 244137,
       "name": "Mati-Matian",
       "url": "https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
-        "name": "Ada Apa Dengan Cinta? (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0CXcKhEEmqlMXPS5iPErte"
-      },
-      "artists": [
-        {
-          "name": "Melly Goeslaw",
-          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Bimbang",
-      "url": "https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy"
     },
     {
       "added_at": "2026-09-18 00:19:01",

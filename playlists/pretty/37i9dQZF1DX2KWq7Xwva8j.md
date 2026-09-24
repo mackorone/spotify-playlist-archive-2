@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro ya está aquí, con nuestra nueva promoción\. Foto: Gara Durán.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,111 likes - 41 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,119 likes - 41 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 15 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
 | 16 | [Placer de vivir](https://open.spotify.com/track/148LN4dJOFg4Y6G2Ezqnpu) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Placer de vivir](https://open.spotify.com/album/2GjY9NfZdA8glT6Mzd26C3) | 3:09 |
 | 17 | [DEMONIAS MUÑECAS](https://open.spotify.com/track/1F22SGMpR8KQMijk1ihj4r) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [Came Beats](https://open.spotify.com/artist/6Q3ske8DX705YojfAgidez) | [DEMONIAS MUÑECAS](https://open.spotify.com/album/6hTlEVdpr7QRWBICFZR88z) | 2:48 |
-| 18 | [Canción En Murcia](https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Canción En Murcia](https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C) | 1:58 |
+| 18 | [TROYA](https://open.spotify.com/track/5Lb0zm6G95Ckud7xi7CObX) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [TROYA](https://open.spotify.com/album/7f9VUTJqqXjMWJl8Sa8xQI) | 3:13 |
 | 19 | [El Mundo Nadie](https://open.spotify.com/track/2drLIPJ3A7yJgsUnbJc1UI) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB) | [El Mundo Nadie](https://open.spotify.com/album/2ebXa37CytU1fUkMucOhWN) | 3:13 |
 | 20 | [La Calle Elfo](https://open.spotify.com/track/0lxSWjuNF9jLkL41wgpTZy) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:30 |
 | 21 | [Sin pena ni gloria](https://open.spotify.com/track/5vPJFif5AA5whBJvhPvHGM) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [ALKIMIA](https://open.spotify.com/album/4no0LJWNTlcykcQPWMKDtd) | 3:16 |
 | 22 | [CONTACTO CONTACTO](https://open.spotify.com/track/5QJy18IleL2NVnI9Kfhj5h) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl) | [CONTACTO CONTACTO](https://open.spotify.com/album/3CWv28U3V5aGzuTt43nmF9) | 1:57 |
-| 23 | [TROYA](https://open.spotify.com/track/5Lb0zm6G95Ckud7xi7CObX) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [TROYA](https://open.spotify.com/album/7f9VUTJqqXjMWJl8Sa8xQI) | 3:13 |
+| 23 | [Canción En Murcia](https://open.spotify.com/track/02VdWA500FdKdurZf5Y3hv) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Canción En Murcia](https://open.spotify.com/album/4qHVRCKwAWVsBQpzwmaN7C) | 1:58 |
 | 24 | [Tu no estás sola](https://open.spotify.com/track/5kJJUScriQ6h6k3yIQfCgR) | [El Bobo de las 3000](https://open.spotify.com/artist/0Gqu6SH6up2gE5Hkj1Y4eB), [Moncho Chavea](https://open.spotify.com/artist/7fL1kRUb9Zv1xxgOmsuUPn) | [Tu no estás sola](https://open.spotify.com/album/769d4Of1bYO5Pt3m1YLkpp) | 3:28 |
 | 25 | [La Sangre del Pobre](https://open.spotify.com/track/7K7Qu4nsIF5YN14M4zElp2) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/5WYizmVWxmqAlfL4FXmqKR) | 3:18 |
 | 26 | [Me Vas A Matar](https://open.spotify.com/track/1vCsE1kvMsPLUk4WJ1ELaa) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Demian](https://open.spotify.com/album/6FRwKu5JqXnUCQRcbfENI8) | 3:08 |

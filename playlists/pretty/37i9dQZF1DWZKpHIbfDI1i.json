@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. El Bogueto",
-  "num_followers": 872955,
+  "num_followers": 873018,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,26 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
+        "name": "Que Se Siente",
+        "url": "https://open.spotify.com/album/45XvFLRB93yz21YcXAB29L"
+      },
+      "artists": [
+        {
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 138512,
+      "name": "Que Se Siente",
+      "url": "https://open.spotify.com/track/2vTorS5pBxHr4LNrbbJk8K"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
         "name": "Seguro Le Doli\u00f3",
         "url": "https://open.spotify.com/album/0laSYvHtmxy7gG0z8secrX"
       },
@@ -367,26 +387,6 @@
       "duration_ms": 193205,
       "name": "Que Gacho",
       "url": "https://open.spotify.com/track/6W2FY18zqXsKLN14vOHBJp"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
-        "name": "Que Se Siente",
-        "url": "https://open.spotify.com/album/45XvFLRB93yz21YcXAB29L"
-      },
-      "artists": [
-        {
-          "name": "Eley Romero",
-          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
-        },
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 138512,
-      "name": "Que Se Siente",
-      "url": "https://open.spotify.com/track/2vTorS5pBxHr4LNrbbJk8K"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -443,6 +443,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
+        "name": "PUES QUE LE HAGO ?",
+        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 141607,
+      "name": "PUES QUE LE HAGO ?",
+      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
         "name": "Chula Vente",
         "url": "https://open.spotify.com/album/2nB2KzRi6sdL83f4l2gpBS"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 241564,
       "name": "Chula Vente",
       "url": "https://open.spotify.com/track/27Y0yW53n0R1Oxle01FKmj"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
-        "name": "PUES QUE LE HAGO ?",
-        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 141607,
-      "name": "PUES QUE LE HAGO ?",
-      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -1091,42 +1091,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
-        "url": "https://open.spotify.com/album/3LLzCUi4FDCG7C3HYyENn8"
-      },
-      "artists": [
-        {
-          "name": "Dylan Coronel",
-          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
-        },
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 193432,
-      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
-      "url": "https://open.spotify.com/track/3lJpgC9I7R3Botguwpi6j8"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
-        "name": "Por Si Las Dudas",
-        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 161258,
-      "name": "Por Si Las Dudas",
-      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "HOTEL",
         "url": "https://open.spotify.com/album/67a6fNLaEqegUlJqwUIZBl"
       },
@@ -1143,6 +1107,26 @@
       "duration_ms": 153745,
       "name": "HOTEL",
       "url": "https://open.spotify.com/track/14DsN6NTIqzJ1hbRjy0t3j"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+        "url": "https://open.spotify.com/album/3LLzCUi4FDCG7C3HYyENn8"
+      },
+      "artists": [
+        {
+          "name": "Dylan Coronel",
+          "url": "https://open.spotify.com/artist/3oBZXbSQHXnxp9sWJcUT7j"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 193432,
+      "name": "Perdonarte, \u00bfPara Qu\u00e9?",
+      "url": "https://open.spotify.com/track/3lJpgC9I7R3Botguwpi6j8"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
+        "name": "Por Si Las Dudas",
+        "url": "https://open.spotify.com/album/4b4TZIhUWLv0lowcBHVfU2"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 161258,
+      "name": "Por Si Las Dudas",
+      "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
         "name": "T\u00fa Ni En Cuenta",
         "url": "https://open.spotify.com/album/46OwUEIu4iyjOPJY87txwH"
       },
@@ -1183,6 +1183,26 @@
       "duration_ms": 203801,
       "name": "T\u00fa Ni En Cuenta",
       "url": "https://open.spotify.com/track/2Foa6ozkkS1JsB9EjBs2zH"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "PARAMICORAZON: - RADAR M\u00e9xico",
+        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "luvKMI",
+          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "PARAMICORAZON: - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -1207,26 +1227,6 @@
       "duration_ms": 189333,
       "name": "No Quiero Ser",
       "url": "https://open.spotify.com/track/1JePDU1OWEqihZiksVKIbt"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
-        "name": "PARAMICORAZON: - RADAR M\u00e9xico",
-        "url": "https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        },
-        {
-          "name": "luvKMI",
-          "url": "https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "PARAMICORAZON: - RADAR M\u00e9xico",
-      "url": "https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Tu Falta De Querer",
-        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 193684,
-      "name": "Tu Falta De Querer",
-      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Un Vals",
         "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 189791,
       "name": "Un Vals",
       "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "Tu Falta De Querer",
+        "url": "https://open.spotify.com/album/1LmPvZc8SPVeQRyiOcOdxW"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 193684,
+      "name": "Tu Falta De Querer",
+      "url": "https://open.spotify.com/track/6AKvMFodvPaTWlbLExloiO"
     },
     {
       "added_at": "2026-09-18 06:00:16",

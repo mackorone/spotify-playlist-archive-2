@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1816,
+  "num_followers": 1817,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAADH8Nn3gV0sDYtLhTry8iNr",
+  "snapshot_id": "arHFAAAAAAD7WQGIwXLw2ZYrH2cSJRj1",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 206003,
+      "name": "Doing It Too",
+      "url": "https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Didn't Mean To Turn You On (with Rochelle Jordan)",
         "url": "https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 240000,
       "name": "Didn't Mean To Turn You On - with Rochelle Jordan",
       "url": "https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 206003,
-      "name": "Doing It Too",
-      "url": "https://open.spotify.com/track/0EjSsH1ndy3t5JYiq4vI4K"
     },
     {
       "added_at": null,
@@ -195,6 +195,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Through The Wall",
+        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 214026,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Promises (feat. Rochelle Jordan)",
         "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 208375,
       "name": "Promises (feat. Rochelle Jordan)",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Wall",
-        "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 214026,
-      "name": "The Boy",
-      "url": "https://open.spotify.com/track/71opuLWkFhYlqcYYKPkkQw"
     },
     {
       "added_at": null,
@@ -263,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/6TSLDMY1tljUJPPiPKAZPz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Through The Wall",
         "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 246095,
       "name": "Bite The Bait",
       "url": "https://open.spotify.com/track/6pcXJ39XevPFNqXuUDClsf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/6TSLDMY1tljUJPPiPKAZPz"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 207906,
-      "name": "Back in the Day",
-      "url": "https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Through The Wall",
         "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 223921,
       "name": "Ladida",
       "url": "https://open.spotify.com/track/53v5RuuAux3F8anCHDNwXI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 207906,
+      "name": "Back in the Day",
+      "url": "https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "There You Go",
-      "url": "https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Through The Wall",
         "url": "https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 249429,
       "name": "Sum",
       "url": "https://open.spotify.com/track/3MIVJlKGcLfYNLso4pp6dn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "There You Go",
+      "url": "https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ"
     },
     {
       "added_at": null,

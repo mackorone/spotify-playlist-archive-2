@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPeYMCDRQeg.md) - [plain]
 
 > My love language is all of em, do all that $\#\*!
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,323 likes - 130 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,449 likes - 130 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 |
-| 2 | [Need Your Love \(feat\. JMSN\)](https://open.spotify.com/track/0XZOXaYQfJj0nMF0DQPL5Q) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [JMSN](https://open.spotify.com/artist/0rBqWViEFYIIW5X49IfRl3) | [No Rest for The Wicked](https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL) | 3:08 |
+| 2 | [Need Your Love \(feat\. JMSN\)](https://open.spotify.com/track/0XZOXaYQfJj0nMF0DQPL5Q) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [No Rest for The Wicked](https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL) | 3:08 |
 | 3 | [OK \(feat\. Latto\)](https://open.spotify.com/track/5RiaFa4CFyUBgMA1cqDyPI) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [LOCKED IN](https://open.spotify.com/album/4yaN3XpOWa9P0oimUBQVpJ) | 2:07 |
 | 4 | [Mainstay \(feat\. Luv Von\)](https://open.spotify.com/track/1IO6PXJIzbcPBpfkpIE8kK) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Luv Von](https://open.spotify.com/artist/3HG4MR1IbZe2UDEWtHuZI7) | [Don't Look Down](https://open.spotify.com/album/1aTbw1kHvPGTPWratpM5io) | 4:35 |
 | 5 | [MONDAY TO SUNDAY](https://open.spotify.com/track/6SLgQQSONZBJcRJj2NU01D) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [MONDAY TO SUNDAY](https://open.spotify.com/album/5S4LvhUDgXR7tVacb7jVdu) | 3:07 |

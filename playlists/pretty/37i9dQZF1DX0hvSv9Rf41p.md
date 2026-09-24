@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN">bass</a> 🚀🚀 featuring Knock2
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,829 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 995,812 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 | 24 | [Play With Fire](https://open.spotify.com/track/2DKj0J1FaMYe4LRIyk5Sya) | [Jkyl & Hyde](https://open.spotify.com/artist/23AH13eC6V0NB0QCkV6206), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [Play With Fire](https://open.spotify.com/album/4zM9FQhfEmgILqLxxvEaPp) | 3:15 |
 | 25 | [World Away \- GorillaT Remix](https://open.spotify.com/track/4goygFQQW67Jfg83OhGsol) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Inéz](https://open.spotify.com/artist/6zBax4hSAI1BJYgwF61EP5), [GorillaT](https://open.spotify.com/artist/3zcOegUrWqti1S0lu4juJz), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [World Away \(GorillaT Remix\)](https://open.spotify.com/album/0qPacTwzJeI1Ik1uyWCiGH) | 2:51 |
 | 26 | [play with it](https://open.spotify.com/track/4T0RLGcVQV62SR51Qx38KS) | [Arya](https://open.spotify.com/artist/5O2s6fRMqbwIKGB9QrFrBQ) | [Play With It](https://open.spotify.com/album/3bZ8uEjzLEdfMdYD319pCt) | 2:59 |
-| 27 | [Gatita Rica](https://open.spotify.com/track/4GOzYVBFonZD1JsBcKjc4S) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Gatita Rica](https://open.spotify.com/album/2dgoqWMaAcK8wa7Vb4y6bi) | 3:00 |
+| 27 | [Gatita Rica](https://open.spotify.com/track/4GOzYVBFonZD1JsBcKjc4S) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Gatita Rica](https://open.spotify.com/album/2dgoqWMaAcK8wa7Vb4y6bi) | 2:46 |
 | 28 | [Lose It All](https://open.spotify.com/track/0Zq2IfabhVry15laf5Irtk) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw), [Kaya Vitalis](https://open.spotify.com/artist/2JlV6S5ko0BCkx0BxG7SGP) | [Lose It All](https://open.spotify.com/album/5i8IP4wrPsUYEI3bQISNMe) | 3:24 |
 | 29 | [Working The Plan](https://open.spotify.com/track/7kuz44CehBRSs1POMUEJUL) | [Daily Bread](https://open.spotify.com/artist/4IsiG6RpDyRq6Frd2CvddW), [Jonah Cruzz](https://open.spotify.com/artist/21NrnXKmcu8PF48F8SwulJ) | [Vanishing Point](https://open.spotify.com/album/6uzKRzaXTQ8En4H5rkfrSB) | 4:09 |
 | 30 | [The Gate](https://open.spotify.com/track/2WAcdTEMpZIHsEsWeRZm0z) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Translucent](https://open.spotify.com/album/2kdnCvXhqJx8I9oa95s7PC) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > roots run deep with Stephen Wilson Jr.
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,987 likes - 200 songs - 12 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,030 likes - 200 songs - 12 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

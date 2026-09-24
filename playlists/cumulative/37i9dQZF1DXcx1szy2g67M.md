@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcx1szy2g67M.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcx1szy2g67M) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXcx1szy2g67M)
 
-### [Summer 2026](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
+### [Herfst 2026](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Kom maar op met de indian summer 2026!
+> Zo klinkt de herfst van 2026.
 
 972 songs - 2 day 1 hr 0 min
 

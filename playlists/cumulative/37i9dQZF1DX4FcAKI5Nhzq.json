@@ -25153,6 +25153,24 @@
     },
     {
       "album": {
+        "name": "FIRST LIGHT : \u4e95",
+        "url": "https://open.spotify.com/album/1XH7OxwQ8Pa2epsw0hVcrr"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184320,
+      "name": "Say Yes!",
+      "url": "https://open.spotify.com/track/20k8jupyPevVfg9FlmKN3o"
+    },
+    {
+      "album": {
         "name": "DISHARMONY : BREAK OUT",
         "url": "https://open.spotify.com/album/2QBdsbcBsTHVLlbAXBxaey"
       },

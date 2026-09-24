@@ -1,12 +1,12 @@
 {
   "description": "Train insane with these Bollywood tracks.",
-  "num_followers": 354235,
+  "num_followers": 354429,
   "original_name": "Bollywood Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHMgojlXTcSQ4bOygRC3ocOll1YT",
+  "snapshot_id": "AAAAAFeBJILvMqk1WEwxiAPRlZ8Yz1Nq",
   "tracks": [
     {
       "added_at": "2026-09-16 04:11:26",
@@ -1815,34 +1815,6 @@
     {
       "added_at": "2026-09-16 04:11:26",
       "album": {
-        "name": "Nachan Nu Jee Karda (From \"Angrezi Medium\")",
-        "url": "https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        },
-        {
-          "name": "Tanishk Bagchi",
-          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-        },
-        {
-          "name": "Tigerstyle",
-          "url": "https://open.spotify.com/artist/5DPXmKUA7F5ZKDNww9jWIS"
-        }
-      ],
-      "duration_ms": 167946,
-      "name": "Nachan Nu Jee Karda (From \"Angrezi Medium\")",
-      "url": "https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF"
-    },
-    {
-      "added_at": "2026-09-16 04:11:26",
-      "album": {
         "name": "Mera Wala Dance (From \"Simmba\")",
         "url": "https://open.spotify.com/album/7qPXxbOuEiXyAijFSmqUgk"
       },
@@ -1867,6 +1839,34 @@
       "duration_ms": 199584,
       "name": "Mera Wala Dance (From \"Simmba\")",
       "url": "https://open.spotify.com/track/2WDNxbQejWu16O44FcMEFM"
+    },
+    {
+      "added_at": "2026-09-16 04:11:26",
+      "album": {
+        "name": "Nachan Nu Jee Karda (From \"Angrezi Medium\")",
+        "url": "https://open.spotify.com/album/0GrVV09R7votIjQBpBLwLC"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Tigerstyle",
+          "url": "https://open.spotify.com/artist/5DPXmKUA7F5ZKDNww9jWIS"
+        }
+      ],
+      "duration_ms": 167946,
+      "name": "Nachan Nu Jee Karda (From \"Angrezi Medium\")",
+      "url": "https://open.spotify.com/track/2zQeAeH3q0K7U2AWEcVOsF"
     },
     {
       "added_at": "2026-09-16 04:11:26",
@@ -1943,18 +1943,30 @@
     {
       "added_at": "2026-09-16 04:11:26",
       "album": {
-        "name": "Delhi Belly (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5InIzc3p2f9FRErhzNUPTi"
+        "name": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
+        "url": "https://open.spotify.com/album/7p2YC5HhcZ1wS2rUhikbEg"
       },
       "artists": [
         {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+          "name": "Lothika",
+          "url": "https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Raqueeb Alam",
+          "url": "https://open.spotify.com/artist/5DJ9Jdt2tfopA7eKuHCO4h"
         }
       ],
-      "duration_ms": 241304,
-      "name": "Bhaag D.K. Bose, Aandhi Aayi",
-      "url": "https://open.spotify.com/track/1sxh0eqIb8ulYypPuq6ZRu"
+      "duration_ms": 248034,
+      "name": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
+      "url": "https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu"
     }
   ],
   "unique_name": "Bollywood Workout",

@@ -24103,6 +24103,28 @@
     },
     {
       "album": {
+        "name": "Ibele",
+        "url": "https://open.spotify.com/album/6LyFsrQuV2aLT6wXyqzuqt"
+      },
+      "artists": [
+        {
+          "name": "Dj Jaivane",
+          "url": "https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl"
+        },
+        {
+          "name": "zem_sa",
+          "url": "https://open.spotify.com/artist/4NZlTDu82l0gg8QjOhB9yw"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399894,
+      "name": "Ibele",
+      "url": "https://open.spotify.com/track/6S4t6H2A1UNZKKRJPbSkV1"
+    },
+    {
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5hi7d1V9Fz3lUvFWk7fImL"
       },
@@ -50528,7 +50550,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 357336,
       "name": "Sinukelwa yigazi",
       "url": "https://open.spotify.com/track/0Cx6vJyXraIMRoCN0Ah3pr"
@@ -55288,7 +55310,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"
@@ -58740,7 +58762,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-24",
       "duration_ms": 304448,
       "name": "uBhanyazile",
       "url": "https://open.spotify.com/track/2vAXhH6mBuKPD3hb0xHQne"

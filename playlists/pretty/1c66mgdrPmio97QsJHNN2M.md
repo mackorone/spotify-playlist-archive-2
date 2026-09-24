@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,980 likes - 231 songs - 12 hr 18 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,981 likes - 235 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,5 +239,9 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 229 | [You Smile When You're Lying](https://open.spotify.com/track/2wGet9XTv6jssvv1wu30bi) | [GRAVEKEY](https://open.spotify.com/artist/5Uj3Yqq7OaoVmdsa7nYIZC) | [You Smile When You're Lying](https://open.spotify.com/album/35Tpy9f6cKun8tc7cYfxpf) | 4:15 |
 | 230 | [Unusual Discovery](https://open.spotify.com/track/4NqHDdx0cRjqvanSUaiSzF) | [Richard MARCER](https://open.spotify.com/artist/2gGmyt93xD8BoUb5a3kgF6) | [Unusual Discovery](https://open.spotify.com/album/74BHsYPBZKVQ1x0tgvRiyE) | 3:46 |
 | 231 | [Replenish Me](https://open.spotify.com/track/7sKaH4jp0iQBmOJWOCYnM2) | [Riptide Hollywood](https://open.spotify.com/artist/2I1NVc1NLbxXT69Ous3lM8) | [Replenish Me](https://open.spotify.com/album/5Ke7ge9NRuHiVzbyoJrlxQ) | 3:13 |
+| 232 | [Always With You](https://open.spotify.com/track/3WWdGs5OmzGXY45UutmlsG) | [Max Hixon](https://open.spotify.com/artist/6re1c6RENl1HLndE5iiUHM) | [Always With You](https://open.spotify.com/album/6vGmdMlSASJ3AZGmVcRsdX) | 2:16 |
+| 233 | [it isn't like that](https://open.spotify.com/track/0luhYJ3XfiAswEdrsUM9sS) | [Abby Hayes](https://open.spotify.com/artist/4uq3sajRfWtL1i1mN2SZA7) | [it isn't like that](https://open.spotify.com/album/13AQAnBwzvL9I7tkgtEw4r) | 3:08 |
+| 234 | [EUPHORIA \- Harp Version](https://open.spotify.com/track/2ktZXmktrmCLZOPaRaU4LQ) | [FLÒRALYN](https://open.spotify.com/artist/2LcgkfAzVOD0qeVCgDAqmy) | [EUPHORIA \(Harp Version\)](https://open.spotify.com/album/7Dt78ARxeP895twZ3F7Xfd) | 2:44 |
+| 235 | [Going With It](https://open.spotify.com/track/62DUA2EDrdDgzGXcIHjCQX) | [Pirita](https://open.spotify.com/artist/4VxKzR10yu0Yu2BLcWL9q2) | [Not Far Beneath the Surface](https://open.spotify.com/album/3UCxnANVhYWY7QsVm8nHoT) | 2:48 |
 
-Snapshot ID: `AAA8hjYa8HjHsa70RJsAaygj1mwgXzM4`
+Snapshot ID: `AAA8igG1bgCJnUs4gGlsU+/yfceyFHl+`

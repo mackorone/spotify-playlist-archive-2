@@ -1,6 +1,6 @@
 {
   "description": "Vibraciones rastafari con Caloncho y Jaze.",
-  "num_followers": 1360079,
+  "num_followers": 1359984,
   "original_name": "Reggae en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -191,38 +191,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
-        "name": "PALOMINO",
-        "url": "https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 134586,
-      "name": "PALOMINO",
-      "url": "https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
         "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
       },
@@ -247,6 +215,38 @@
       "duration_ms": 213480,
       "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
       "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "PALOMINO",
+        "url": "https://open.spotify.com/album/7LRLBrL0HfgkU2SqpzwePJ"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 134586,
+      "name": "PALOMINO",
+      "url": "https://open.spotify.com/track/21sGzDAr9iuedExAktmkeT"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "LOCO PERDIDO",
-        "url": "https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn"
-      },
-      "artists": [
-        {
-          "name": "Dollar Selmouni",
-          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
-        }
-      ],
-      "duration_ms": 194250,
-      "name": "LOCO PERDIDO",
-      "url": "https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "Cypher Nightmare Vol.1",
         "url": "https://open.spotify.com/album/7yJ47pc2OfRfKfn57sHk3F"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 329387,
       "name": "Cypher Nightmare Vol.1",
       "url": "https://open.spotify.com/track/4YtLKABvVg8W7efZFINWDk"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "LOCO PERDIDO",
+        "url": "https://open.spotify.com/album/7ayutJVCI79fMgDvi895qn"
+      },
+      "artists": [
+        {
+          "name": "Dollar Selmouni",
+          "url": "https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb"
+        }
+      ],
+      "duration_ms": 194250,
+      "name": "LOCO PERDIDO",
+      "url": "https://open.spotify.com/track/6vyyrRNK9OoroDwq8xMxcw"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "\u00daltimos D\u00edas",
-        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 319933,
-      "name": "\u00daltimos D\u00edas",
-      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
         "name": "Uma Brasileira",
         "url": "https://open.spotify.com/album/4Hyx4W2Sn1sDkzdt59D7uC"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 198238,
       "name": "Uma Brasileira",
       "url": "https://open.spotify.com/track/29D91Pr51YCpddMwXBv6MC"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
+        "name": "\u00daltimos D\u00edas",
+        "url": "https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 319933,
+      "name": "\u00daltimos D\u00edas",
+      "url": "https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
+        "name": "C\u00f3mo Te Hago Entender",
+        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 159832,
+      "name": "C\u00f3mo Te Hago Entender",
+      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
+    },
+    {
+      "added_at": "2026-09-11 04:59:18",
+      "album": {
         "name": "Celebration (feat. Ky-Mani Marley)",
         "url": "https://open.spotify.com/album/6FoYHPXjjZKXolsGXwC51E"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 231933,
       "name": "Celebration (feat. Ky-Mani Marley)",
       "url": "https://open.spotify.com/track/08j5bEz5uMlE9zCFvLyaDr"
-    },
-    {
-      "added_at": "2026-09-11 04:59:18",
-      "album": {
-        "name": "C\u00f3mo Te Hago Entender",
-        "url": "https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "C\u00f3mo Te Hago Entender",
-      "url": "https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ"
     },
     {
       "added_at": "2026-09-11 04:59:18",
@@ -1831,8 +1831,8 @@
     {
       "added_at": "2026-09-11 04:59:18",
       "album": {
-        "name": "La Tierra",
-        "url": "https://open.spotify.com/album/5ihT2IwvWcENJmWzlIqCFn"
+        "name": "Pericos & Friends (Extended)",
+        "url": "https://open.spotify.com/album/4IIfIS47aChs97w8hrgCcY"
       },
       "artists": [
         {
@@ -1840,13 +1840,13 @@
           "url": "https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR"
         },
         {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
         }
       ],
-      "duration_ms": 218305,
-      "name": "La Tierra",
-      "url": "https://open.spotify.com/track/45L2ABDWZCeKKKQz77pXuy"
+      "duration_ms": 195348,
+      "name": "Mucha Experiencia - Su Reggaeton Mix",
+      "url": "https://open.spotify.com/track/2fDS9RVbESui1ufoov4nGJ"
     },
     {
       "added_at": "2026-09-11 04:59:18",

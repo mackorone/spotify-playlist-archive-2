@@ -1,6 +1,6 @@
 {
   "description": "A decade full of 00s country hits! Cover: Miranda Lambert",
-  "num_followers": 1007066,
+  "num_followers": 1007178,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Old Things New",
-        "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
+        "name": "When The Sun Goes Down",
+        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
       },
       "artists": [
         {
-          "name": "Joe Nichols",
-          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
         }
       ],
-      "duration_ms": 185453,
-      "name": "Gimmie That Girl",
-      "url": "https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai"
+      "duration_ms": 302346,
+      "name": "There Goes My Life",
+      "url": "https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7"
+        "name": "Old Things New",
+        "url": "https://open.spotify.com/album/3zxEHlYXrIXseV7gTl3CQ0"
       },
       "artists": [
         {
-          "name": "Kenny Chesney",
-          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+          "name": "Joe Nichols",
+          "url": "https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc"
         }
       ],
-      "duration_ms": 302346,
-      "name": "There Goes My Life",
-      "url": "https://open.spotify.com/track/1CjQCQsl9FDb3WhjGcFOzG"
+      "duration_ms": 185453,
+      "name": "Gimmie That Girl",
+      "url": "https://open.spotify.com/track/7xoBJ4hih949Jeu5ZfzBai"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "#1s ... and then some",
-        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Ain't Nothing 'Bout You",
-      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 203040,
       "name": "Teardrops On My Guitar - Radio Single Remix",
       "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "#1s ... and then some",
+        "url": "https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Ain't Nothing 'Bout You",
+      "url": "https://open.spotify.com/track/6CkydK3NOAMScIhViRzXoB"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Brand New Girlfriend",
-        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
-      },
-      "artists": [
-        {
-          "name": "Steve Holy",
-          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
-        }
-      ],
-      "duration_ms": 220186,
-      "name": "Brand New Girlfriend",
-      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "One More Day",
         "url": "https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 216173,
       "name": "One More Day",
       "url": "https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Brand New Girlfriend",
+        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
+      },
+      "artists": [
+        {
+          "name": "Steve Holy",
+          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
+        }
+      ],
+      "duration_ms": 220186,
+      "name": "Brand New Girlfriend",
+      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Dangerous Man",
-        "url": "https://open.spotify.com/album/2ZdBjpNzKeluVjBdZ4x12j"
-      },
-      "artists": [
-        {
-          "name": "Trace Adkins",
-          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
-        }
-      ],
-      "duration_ms": 240093,
-      "name": "Honky Tonk Badonkadonk",
-      "url": "https://open.spotify.com/track/1VdHooAMVaGXPSty8pifv9"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
         "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 201120,
       "name": "Free And Easy (Down The Road I Go)",
       "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Dangerous Man",
+        "url": "https://open.spotify.com/album/2ZdBjpNzKeluVjBdZ4x12j"
+      },
+      "artists": [
+        {
+          "name": "Trace Adkins",
+          "url": "https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Honky Tonk Badonkadonk",
+      "url": "https://open.spotify.com/track/1VdHooAMVaGXPSty8pifv9"
     },
     {
       "added_at": "2026-06-02 19:14:03",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2026-06-02 19:14:03",
       "album": {
-        "name": "Delicious Surprise",
-        "url": "https://open.spotify.com/album/0wKsvBrbplJvSaZ4EMvgzb"
-      },
-      "artists": [
-        {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
-        }
-      ],
-      "duration_ms": 198960,
-      "name": "My Give A Damn's Busted",
-      "url": "https://open.spotify.com/track/3n8QTc8J3T72KurDsWo1b6"
-    },
-    {
-      "added_at": "2026-06-02 19:14:03",
-      "album": {
         "name": "Lonely Grill",
         "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 210000,
       "name": "What About Now",
       "url": "https://open.spotify.com/track/1xK2NkwOfT8qZYWPossXGz"
+    },
+    {
+      "added_at": "2026-06-02 19:14:03",
+      "album": {
+        "name": "Delicious Surprise",
+        "url": "https://open.spotify.com/album/0wKsvBrbplJvSaZ4EMvgzb"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "duration_ms": 198960,
+      "name": "My Give A Damn's Busted",
+      "url": "https://open.spotify.com/track/3n8QTc8J3T72KurDsWo1b6"
     },
     {
       "added_at": "2026-06-02 19:14:03",

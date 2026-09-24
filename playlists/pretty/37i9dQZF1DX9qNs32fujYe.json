@@ -1,6 +1,6 @@
 {
   "description": "Heavy Metal forever. Classics to brand new tracks across heavy, power, doom, thrash, and sludge. Cover: Trivium",
-  "num_followers": 1414882,
+  "num_followers": 1414977,
   "original_name": "Heavy Metal",
   "owner": {
     "name": "Spotify",
@@ -799,18 +799,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Eye Of The Storm",
-        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
+        "name": "High 'N' Dry",
+        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 195161,
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
+      "duration_ms": 283186,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -831,18 +831,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "High 'N' Dry",
-        "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
+        "name": "Eye Of The Storm",
+        "url": "https://open.spotify.com/album/6U8HnZ70DQygqtvm98RAxp"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 283186,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/1aR6W01r094onPc4O2avEp"
+      "duration_ms": 195161,
+      "name": "Eye Of The Storm",
+      "url": "https://open.spotify.com/track/6bdtZqgRGJzN2Rb7alYCeZ"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -935,6 +935,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Nuclear God",
+        "url": "https://open.spotify.com/album/7bn7r3oX9Suu3KtKsUhXJH"
+      },
+      "artists": [
+        {
+          "name": "Orbit Culture",
+          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
+        }
+      ],
+      "duration_ms": 308375,
+      "name": "Nuclear God",
+      "url": "https://open.spotify.com/track/478SPzkDZBYwvrq9N3N9Xj"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Rumble of Thunder (Deluxe)",
         "url": "https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Nuclear God",
-        "url": "https://open.spotify.com/album/7bn7r3oX9Suu3KtKsUhXJH"
-      },
-      "artists": [
-        {
-          "name": "Orbit Culture",
-          "url": "https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY"
-        }
-      ],
-      "duration_ms": 308375,
-      "name": "Nuclear God",
-      "url": "https://open.spotify.com/track/478SPzkDZBYwvrq9N3N9Xj"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185425,
-      "name": "Pure Ecstasy",
-      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "KE*A*H** (Psalm 69)",
         "url": "https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 310293,
       "name": "Just One Fix",
       "url": "https://open.spotify.com/track/0Vcpo9El50PNNbZXfKbNti"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "World Alone",
-        "url": "https://open.spotify.com/album/5ezkvWhhKgvWy7QMp8e3jd"
-      },
-      "artists": [
-        {
-          "name": "Tony Iommi",
-          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
-        },
-        {
-          "name": "Jorn",
-          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "World Alone",
-      "url": "https://open.spotify.com/track/3nYmetKNJe8zTHdT9NkfOP"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Crossing the Rubicon (feat. NOTHING MORE)",
         "url": "https://open.spotify.com/album/1wSTkIeWrOhenv55gnRIFI"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 204400,
       "name": "Crossing the Rubicon (feat. NOTHING MORE)",
       "url": "https://open.spotify.com/track/2EVeVyXH9mQ5IIGi9b3smP"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "World Alone",
+        "url": "https://open.spotify.com/album/5ezkvWhhKgvWy7QMp8e3jd"
+      },
+      "artists": [
+        {
+          "name": "Tony Iommi",
+          "url": "https://open.spotify.com/artist/7iA7uWUkWLpapsaaqmzRQV"
+        },
+        {
+          "name": "Jorn",
+          "url": "https://open.spotify.com/artist/5SaDyTQkjAAdrsmhPzrmw2"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "World Alone",
+      "url": "https://open.spotify.com/track/3nYmetKNJe8zTHdT9NkfOP"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Giants & Monsters",
-        "url": "https://open.spotify.com/album/5oFAGk4EQNN5uEah2C5HWI"
+        "name": "Checkmate",
+        "url": "https://open.spotify.com/album/1g9Nwo7JWytEO4p6bjifsV"
       },
       "artists": [
         {
-          "name": "Helloween",
-          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
+          "name": "Blue Medusa",
+          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
+        },
+        {
+          "name": "Alissa White-Gluz",
+          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
         }
       ],
-      "duration_ms": 210253,
-      "name": "A Little Is A Little Too Much",
-      "url": "https://open.spotify.com/track/4uFUalyidCKsnJbFCzRmhs"
+      "duration_ms": 263161,
+      "name": "Checkmate",
+      "url": "https://open.spotify.com/track/0fN3tONYZxGcuwyr5IoTZ1"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1463,22 +1467,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Checkmate",
-        "url": "https://open.spotify.com/album/1g9Nwo7JWytEO4p6bjifsV"
+        "name": "Giants & Monsters",
+        "url": "https://open.spotify.com/album/5oFAGk4EQNN5uEah2C5HWI"
       },
       "artists": [
         {
-          "name": "Blue Medusa",
-          "url": "https://open.spotify.com/artist/4BMOQ1GSXhTvuv6a05wk7z"
-        },
-        {
-          "name": "Alissa White-Gluz",
-          "url": "https://open.spotify.com/artist/0t9i2yNpYr4QGde2gz8YVg"
+          "name": "Helloween",
+          "url": "https://open.spotify.com/artist/4pQN0GB0fNEEOfQCaWotsY"
         }
       ],
-      "duration_ms": 263161,
-      "name": "Checkmate",
-      "url": "https://open.spotify.com/track/0fN3tONYZxGcuwyr5IoTZ1"
+      "duration_ms": 210253,
+      "name": "A Little Is A Little Too Much",
+      "url": "https://open.spotify.com/track/4uFUalyidCKsnJbFCzRmhs"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Oblivion",
-        "url": "https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X"
-      },
-      "artists": [
-        {
-          "name": "Lorna Shore",
-          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
-        }
-      ],
-      "duration_ms": 499875,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "On a Quest for Aberdeen",
         "url": "https://open.spotify.com/album/2NRdEeTAqfiFWX49WM1VgA"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 233906,
       "name": "On a Quest for Aberdeen",
       "url": "https://open.spotify.com/track/6spmQ1gUjeu10pUUxnLyZW"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/13aY7BdznZ2GAPiZLwcb1X"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "duration_ms": 499875,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3Ct6hcluVSYrD2fbUmaRyg"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Everybody's Got a Plan",
-        "url": "https://open.spotify.com/album/6aZzoWRpj7XrvFE2GLNWdF"
-      },
-      "artists": [
-        {
-          "name": "Anthrax",
-          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
-        }
-      ],
-      "duration_ms": 276841,
-      "name": "Everybody's Got A Plan",
-      "url": "https://open.spotify.com/track/07edYgDr9WJZhBp0vhEkcy"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Wireless",
         "url": "https://open.spotify.com/album/2XzK5f8ZxVwNgWBIopIQuB"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 207622,
       "name": "Und die Engel singen",
       "url": "https://open.spotify.com/track/3egJPsm8iPwtrQ5U3VqNCS"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Everybody's Got a Plan",
+        "url": "https://open.spotify.com/album/6aZzoWRpj7XrvFE2GLNWdF"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "duration_ms": 276841,
+      "name": "Everybody's Got A Plan",
+      "url": "https://open.spotify.com/track/07edYgDr9WJZhBp0vhEkcy"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "NAIL5",
+        "url": "https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 153622,
+      "name": "NAIL5",
+      "url": "https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Lost in the Dark",
         "url": "https://open.spotify.com/album/40jVhBsza03byS968oOfi3"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 198298,
       "name": "Lost in the Dark",
       "url": "https://open.spotify.com/track/29icHp3xGk5PGfzPSKsXrg"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "NAIL5",
-        "url": "https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 153622,
-      "name": "NAIL5",
-      "url": "https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Liars Linger",
+        "url": "https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B"
+      },
+      "artists": [
+        {
+          "name": "Eleine",
+          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
+        }
+      ],
+      "duration_ms": 367063,
+      "name": "Liars Linger",
+      "url": "https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "A Visceral Retch",
         "url": "https://open.spotify.com/album/51kqr7eiWXoV5tzSYcYn4N"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 180930,
       "name": "Sinners of the Seven Seas",
       "url": "https://open.spotify.com/track/1INE4i2TuVEFHgj2Vtpz14"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Liars Linger",
-        "url": "https://open.spotify.com/album/35Z5dVCttlGoPxxBNEGY6B"
-      },
-      "artists": [
-        {
-          "name": "Eleine",
-          "url": "https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx"
-        }
-      ],
-      "duration_ms": 367063,
-      "name": "Liars Linger",
-      "url": "https://open.spotify.com/track/7rddgyIBTlyKbq5vsQEd7v"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "The Ghost of a Future Dead",
-        "url": "https://open.spotify.com/album/2A2hiumM2pI9nyq0vTRG0C"
-      },
-      "artists": [
-        {
-          "name": "At The Gates",
-          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
-        }
-      ],
-      "duration_ms": 167640,
-      "name": "The Dissonant Void",
-      "url": "https://open.spotify.com/track/2rhloYbkmhjrsoNAuRSzZK"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Marching in Time",
         "url": "https://open.spotify.com/album/0kxRp8FlcQ0Sx2edzWzEGe"
       },
@@ -2243,22 +2227,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Last Goodbye",
-        "url": "https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 212710,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "M\u00e6re",
         "url": "https://open.spotify.com/album/4c32wkJFuLUKHueu8YlldK"
       },
@@ -2271,6 +2239,38 @@
       "duration_ms": 324170,
       "name": "Song to Say Goodbye",
       "url": "https://open.spotify.com/track/1x9jqnd7tU7qRS2Uwt5PIx"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "The Ghost of a Future Dead",
+        "url": "https://open.spotify.com/album/2A2hiumM2pI9nyq0vTRG0C"
+      },
+      "artists": [
+        {
+          "name": "At The Gates",
+          "url": "https://open.spotify.com/artist/6YXarbjg36ODFPez0PnOlD"
+        }
+      ],
+      "duration_ms": 167640,
+      "name": "The Dissonant Void",
+      "url": "https://open.spotify.com/track/2rhloYbkmhjrsoNAuRSzZK"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/6P1p6YKpnipMo8CQKfTGOB"
+      },
+      "artists": [
+        {
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
+        }
+      ],
+      "duration_ms": 212710,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/4syuqt1OfDiwdgNHVZjmCq"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "3111",
-        "url": "https://open.spotify.com/album/2zkkD8YEH6AaOdKPV7LGDb"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 248600,
-      "name": "3111",
-      "url": "https://open.spotify.com/track/2WS6J9d3BV96MwUBb5koO8"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Perfume Of The Timeless",
         "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 492106,
       "name": "Perfume Of The Timeless",
       "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "3111",
+        "url": "https://open.spotify.com/album/2zkkD8YEH6AaOdKPV7LGDb"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 248600,
+      "name": "3111",
+      "url": "https://open.spotify.com/track/2WS6J9d3BV96MwUBb5koO8"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2543,6 +2543,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Witch Club Satan",
+        "url": "https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp"
+      },
+      "artists": [
+        {
+          "name": "Witch Club Satan",
+          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Fresh Blood, Fresh Pussy",
+      "url": "https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "The Cleansing",
         "url": "https://open.spotify.com/album/4ibZ4TjoERMmx7fsVVYnaO"
       },
@@ -2563,18 +2579,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Witch Club Satan",
-        "url": "https://open.spotify.com/album/0c0hlchA9Q66PcL7xlPPfp"
+        "name": "A.F. Day",
+        "url": "https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO"
       },
       "artists": [
         {
-          "name": "Witch Club Satan",
-          "url": "https://open.spotify.com/artist/395rqoVSDgQIF7fzRfZIoy"
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
         }
       ],
-      "duration_ms": 215786,
-      "name": "Fresh Blood, Fresh Pussy",
-      "url": "https://open.spotify.com/track/4NSMvwVeZBMZ5MfErlKQ2p"
+      "duration_ms": 227335,
+      "name": "A.F. Day",
+      "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2591,22 +2607,6 @@
       "duration_ms": 235800,
       "name": "Twilight Cabaret",
       "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "A.F. Day",
-        "url": "https://open.spotify.com/album/6U8F7vt0Ybgc27AVUD8KpO"
-      },
-      "artists": [
-        {
-          "name": "Serj Tankian",
-          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
-        }
-      ],
-      "duration_ms": 227335,
-      "name": "A.F. Day",
-      "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2659,22 +2659,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Steelbound",
-        "url": "https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI"
-      },
-      "artists": [
-        {
-          "name": "Battle Beast",
-          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
-        }
-      ],
-      "duration_ms": 266899,
-      "name": "Steelbound",
-      "url": "https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Para Bellum",
         "url": "https://open.spotify.com/album/0ea7kKW9urApKz2E5MIgPW"
       },
@@ -2691,34 +2675,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Spotlight",
-        "url": "https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW"
+        "name": "Steelbound",
+        "url": "https://open.spotify.com/album/6E2T5mFE5FlMN3VeITyryI"
       },
       "artists": [
         {
-          "name": "Fozzy",
-          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+          "name": "Battle Beast",
+          "url": "https://open.spotify.com/artist/7k5jeohQCF20a8foBD9ize"
         }
       ],
-      "duration_ms": 263266,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Rituals of Shame",
-        "url": "https://open.spotify.com/album/3Rv6nS9XWAIvD6bIJMcTlH"
-      },
-      "artists": [
-        {
-          "name": "Warning",
-          "url": "https://open.spotify.com/artist/215tdyVWdDYOjufDKf6UJg"
-        }
-      ],
-      "duration_ms": 567405,
-      "name": "Stations",
-      "url": "https://open.spotify.com/track/3N2vldxlBL18A0scM94uxT"
+      "duration_ms": 266899,
+      "name": "Steelbound",
+      "url": "https://open.spotify.com/track/66TqKIWKHH2iQsOLzMexjo"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2739,6 +2707,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Spotlight",
+        "url": "https://open.spotify.com/album/3ri2HhfbONcFi8tyZMiUMW"
+      },
+      "artists": [
+        {
+          "name": "Fozzy",
+          "url": "https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5"
+        }
+      ],
+      "duration_ms": 263266,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/3e9nuswzE0ZLoihvTGuXDk"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "The Mandrake Project",
         "url": "https://open.spotify.com/album/0tN7q7Xmt0qaoGElJ3Gvqy"
       },
@@ -2751,6 +2735,22 @@
       "duration_ms": 288310,
       "name": "Many Doors to Hell",
       "url": "https://open.spotify.com/track/1HqRyjIsJw9Y3XeD4jTRbZ"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "Rituals of Shame",
+        "url": "https://open.spotify.com/album/3Rv6nS9XWAIvD6bIJMcTlH"
+      },
+      "artists": [
+        {
+          "name": "Warning",
+          "url": "https://open.spotify.com/artist/215tdyVWdDYOjufDKf6UJg"
+        }
+      ],
+      "duration_ms": 567405,
+      "name": "Stations",
+      "url": "https://open.spotify.com/track/3N2vldxlBL18A0scM94uxT"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -2923,6 +2923,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "I Will Die In It",
+        "url": "https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV"
+      },
+      "artists": [
+        {
+          "name": "Lord Of The Lost",
+          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
+        }
+      ],
+      "duration_ms": 224811,
+      "name": "I Will Die In It",
+      "url": "https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "No Place of Warmth (feat. Gerard Way)",
         "url": "https://open.spotify.com/album/4k9gYOwN9shcLs1Xxd4YxU"
       },
@@ -2939,22 +2955,6 @@
       "duration_ms": 289750,
       "name": "No Place of Warmth (feat. Gerard Way)",
       "url": "https://open.spotify.com/track/4cNUzje8bpS368orIfCp70"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "I Will Die In It",
-        "url": "https://open.spotify.com/album/6CylQwPRDU6tJiQa0RH4HV"
-      },
-      "artists": [
-        {
-          "name": "Lord Of The Lost",
-          "url": "https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI"
-        }
-      ],
-      "duration_ms": 224811,
-      "name": "I Will Die In It",
-      "url": "https://open.spotify.com/track/5g7cfmC3jg0eBeruKiGwmY"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -3043,22 +3043,6 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "The Real You",
-        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
-      },
-      "artists": [
-        {
-          "name": "The HU",
-          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
-        }
-      ],
-      "duration_ms": 241480,
-      "name": "The Real You",
-      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
         "name": "Presence of Mind",
         "url": "https://open.spotify.com/album/4j3AXVu1zUsav9FLHJVtxd"
       },
@@ -3075,18 +3059,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "If It's All The Same To You",
-        "url": "https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG"
+        "name": "The Real You",
+        "url": "https://open.spotify.com/album/6RVPnpptZoMHjubHk3VjBX"
       },
       "artists": [
         {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
         }
       ],
-      "duration_ms": 254742,
-      "name": "If It's All The Same To You",
-      "url": "https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X"
+      "duration_ms": 241480,
+      "name": "The Real You",
+      "url": "https://open.spotify.com/track/5ZeZSbuvupOAfm3zD73tp2"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -3103,6 +3087,22 @@
       "duration_ms": 239682,
       "name": "Sidewinder",
       "url": "https://open.spotify.com/track/4nfPatBDfuyGIiEulsNxf3"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
+        "name": "If It's All The Same To You",
+        "url": "https://open.spotify.com/album/3nmqCvpxxLOYkikOZGNaNG"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "duration_ms": 254742,
+      "name": "If It's All The Same To You",
+      "url": "https://open.spotify.com/track/4wyU17zJTM512I1i6OSI0X"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -3139,6 +3139,22 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
+        "name": "Armada",
+        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
+      },
+      "artists": [
+        {
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Armada",
+      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
+    },
+    {
+      "added_at": "2026-09-18 04:01:06",
+      "album": {
         "name": "Te R\u0101",
         "url": "https://open.spotify.com/album/2H7YgFo7y9Jy0H8kI2XieO"
       },
@@ -3155,22 +3171,6 @@
       "duration_ms": 288730,
       "name": "Taniwha (feat. Randy Blythe)",
       "url": "https://open.spotify.com/track/0NMjS1FNduEm9SK2hwiP1x"
-    },
-    {
-      "added_at": "2026-09-18 04:01:06",
-      "album": {
-        "name": "Armada",
-        "url": "https://open.spotify.com/album/7F0qgfUktRhh4JqnmpbMfr"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Armada",
-      "url": "https://open.spotify.com/track/0KHTwfaUiDHy4lATwLFwr4"
     },
     {
       "added_at": "2026-09-18 04:01:06",
@@ -3319,18 +3319,18 @@
     {
       "added_at": "2026-09-18 04:01:06",
       "album": {
-        "name": "Slave Machine",
-        "url": "https://open.spotify.com/album/4dCDFxVCXddE7CCAO7RAEv"
+        "name": "Remember... You Must Die",
+        "url": "https://open.spotify.com/album/3mwVBK8eS1JkOoCs2fYiAr"
       },
       "artists": [
         {
-          "name": "Nervosa",
-          "url": "https://open.spotify.com/artist/5D9d9xyLNQu32QVD9t4YqH"
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
         }
       ],
-      "duration_ms": 233886,
-      "name": "Slave Machine",
-      "url": "https://open.spotify.com/track/5cyRVCVkVl4hU3HHF2yCVU"
+      "duration_ms": 233395,
+      "name": "Fucked for Life",
+      "url": "https://open.spotify.com/track/2Ly86wAzT0zDAF7GvDj9Op"
     }
   ],
   "unique_name": "Heavy Metal",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 4,568 likes - 63 songs - 3 hr 48 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 4,573 likes - 63 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 5 | [2SIDED \- Oscar Farrell Remix](https://open.spotify.com/track/6qo5VaM1M8Gg0FPVtClRi0) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Oscar Farrell](https://open.spotify.com/artist/1bbz0UKJHqHXnZEqZi5uMX) | [2SIDED \(Oscar Farrell Remix\)](https://open.spotify.com/album/79TOuv37PELoILt6hmgk7F) | 3:51 |
 | 6 | [Hard Beat](https://open.spotify.com/track/5PE9c9ubXE1TeU4S2DlTZ5) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [GET MEAN](https://open.spotify.com/album/7MSjDOtClAwAVMK2CUw9uz) | 3:45 |
 | 7 | [Calm](https://open.spotify.com/track/5Z3CFErjZYVNQaE0KKi6pd) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Calm](https://open.spotify.com/album/4KgHvvtfb8DxKJxV36gNXb) | 3:14 |
-| 8 | [New Dimension](https://open.spotify.com/track/3qlp80a9dhinI0ebyY9sXE) | [CCCC](https://open.spotify.com/artist/1p3SkqkxWzlaW4mNB5TUOk), [Chiara Civello](https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk), [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF) | [New Dimension](https://open.spotify.com/album/4SQgl8DkE7FTxFVpFR0U0H) | 3:51 |
+| 8 | [New Dimension](https://open.spotify.com/track/3qlp80a9dhinI0ebyY9sXE) | [Chiara Civello](https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk), [Clap! Clap!](https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF), [CCCC](https://open.spotify.com/artist/1p3SkqkxWzlaW4mNB5TUOk) | [New Dimension](https://open.spotify.com/album/4SQgl8DkE7FTxFVpFR0U0H) | 3:51 |
 | 9 | [Googoo Gaga](https://open.spotify.com/track/39ZeNweIWO4XcNPY0nmImS) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl), [Charlotte Adigéry & Bolis Pupul](https://open.spotify.com/artist/47eFeXYThmTYYbOSuQIS2x) | [Googoo Gaga](https://open.spotify.com/album/4I5vkWWnFX4Z3KmBX1MQS4) | 5:05 |
 | 10 | [Water & Vibes](https://open.spotify.com/track/2FWcDQ9zviPFttuF35og4h) | [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z), [Anieszka](https://open.spotify.com/artist/0V8Un1gkMYKYp2Hq3yqmhY) | [As The World Burns...](https://open.spotify.com/album/44OY4GEnZF1HXb6nIDPpyR) | 2:58 |
 | 11 | [Sleeper](https://open.spotify.com/track/1DNbujotDIkYUPsD12go1u) | [Chrome Sparks](https://open.spotify.com/artist/2pTCZ9C1fXdaVlv6d5EIXM), [Jónsi](https://open.spotify.com/artist/3khg8RDB6nMuw34w1IHS6Y), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Ball of Light](https://open.spotify.com/album/3xqG4F0r1jkK2k34OzoaBM) | 3:04 |

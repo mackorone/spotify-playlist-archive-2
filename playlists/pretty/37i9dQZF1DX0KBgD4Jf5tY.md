@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 ### [Fresh Finds Italia](https://open.spotify.com/playlist/37i9dQZF1DX0KBgD4Jf5tY)
 
-> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:6FAlvEp5DpXRSGN9GOe8l1">emilianoakairo</a> in cover.
+> Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:6FAlvEp5DpXRSGN9GOe8l1">emilianoakario</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,987 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,999 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 48 | [NonVoglio+Sanguinare](https://open.spotify.com/track/0oqpqu9dbxvOibwfK17pOo) | [ermy](https://open.spotify.com/artist/0xKVLyEPa3ElqShm3PHEEK) | [NonVoglio+Sanguinare](https://open.spotify.com/album/1mKR6U8tmZZzoBBCmOfHdt) | 3:11 |
 | 49 | [Non Stop](https://open.spotify.com/track/6up8PCLYFvcSUp2PLQJIR2) | [Stef 5k](https://open.spotify.com/artist/0KmrWcgpXXda7k3urHvzbh), [Wickiboi](https://open.spotify.com/artist/3HVP7Gq1fsrZ9ThPfxqJkV) | [Non Stop](https://open.spotify.com/album/75LOppKfXo0Dhi6LBSnTC1) | 2:27 |
 
-Snapshot ID: `AAAAAD2lV20KyAYCLk4ukR2lxK/jVCTN`
+Snapshot ID: `AAAAAD8QLCpUUJDSVN6tNTWPsaZHfcd4`

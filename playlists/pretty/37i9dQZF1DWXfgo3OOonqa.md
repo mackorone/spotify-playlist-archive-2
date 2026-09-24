@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,322 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,311 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 23 | [FÖRVÅNAD](https://open.spotify.com/track/7zr1wqsm4q2qDriySGqSP7) | [NAJA](https://open.spotify.com/artist/33uFHiOai4JTSOxXv3WfoV) | [FÖRVÅNAD](https://open.spotify.com/album/5dlxuf5c1odyd7v6YFJppn) | 2:05 |
 | 24 | [Snubbe \(BTB\)](https://open.spotify.com/track/613EnGm3kWJJcd0r21kzMm) | [RMTB](https://open.spotify.com/artist/2k594FnLDn6R7yMkmtOTm5), [ISON](https://open.spotify.com/artist/7zJdWmVoGsqxaEl09XOvM5) | [Snubbe \(BTB\)](https://open.spotify.com/album/73kOt4YpaFsuXxBxN0ZH5Q) | 3:09 |
 | 25 | [TDF](https://open.spotify.com/track/5dpUIZQJMFLEIKofXAqHj9) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1), [N1cho](https://open.spotify.com/artist/2oYxnEf9p7RUIeDVo3y13y), [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [TDF](https://open.spotify.com/album/7xx9bqHF343l8G7D9har06) | 2:05 |
-| 26 | [No Love](https://open.spotify.com/track/6NqejQJBArDZTSKRG8iZ3d) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [No Love](https://open.spotify.com/album/20kJnRMy05fXFCZHBdoISW) | 2:20 |
+| 26 | [No Love](https://open.spotify.com/track/6NqejQJBArDZTSKRG8iZ3d) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [No Love](https://open.spotify.com/album/20kJnRMy05fXFCZHBdoISW) | 2:20 |
 | 27 | [Aston Martin](https://open.spotify.com/track/4UmM6fhlSvj9zjoTza1QHZ) | [Brookz](https://open.spotify.com/artist/1cjddO4yaU13OzgomZYDA7) | [Aston Martin](https://open.spotify.com/album/4gfExhpD3O1q95VcfOsUk3) | 2:38 |
 | 28 | [Save Me](https://open.spotify.com/track/0UyfknmEkHvlbvNT0N1tkL) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Save Me](https://open.spotify.com/album/7AdQcvl9iPVXXFM5r1zFDc) | 2:04 |
 | 29 | [1991](https://open.spotify.com/track/1O0bIhJ2mBpZPFHzENJx9z) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [1991](https://open.spotify.com/album/5O7zW8t6x5ft5vofOxLP0l) | 6:15 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 76 | [GOLDEN AGE](https://open.spotify.com/track/2LofqhPV3EXUWeeGsV17rh) | [JB](https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0) | [GOLDEN AGE](https://open.spotify.com/album/15NHzrRtbABPAJnGrsXvp3) | 2:51 |
 | 77 | [Loro Piana](https://open.spotify.com/track/5QrDMKqIwM6OpXXdLCELZo) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [Loro Piana](https://open.spotify.com/album/3yY3FrR5hlbeUxRBl5EUYn) | 2:08 |
 | 78 | [For The Night](https://open.spotify.com/track/1bUaoLxIUujxqdNH3EHycI) | [NAJA](https://open.spotify.com/artist/33uFHiOai4JTSOxXv3WfoV), [Specken](https://open.spotify.com/artist/6arN39C5UKGKZ2DXgoHR3V) | [For The Night](https://open.spotify.com/album/1HCsOFhWoy2IolHClMVG0C) | 1:53 |
-| 79 | [DayDate](https://open.spotify.com/track/2QXr042bvU29FWV62fLbDK) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG), [SHYDE](https://open.spotify.com/artist/45lkyvZqssTcpM1bX5O5Cv) | [DayDate](https://open.spotify.com/album/2GIH1h9nrP5KvYHkgLbHNp) | 2:03 |
+| 79 | [DayDate](https://open.spotify.com/track/2QXr042bvU29FWV62fLbDK) | [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [DayDate](https://open.spotify.com/album/2GIH1h9nrP5KvYHkgLbHNp) | 2:03 |
 | 80 | [CallePeroElegante](https://open.spotify.com/track/1SIklmaw0idxZJGTm7KsjG) | [Rio](https://open.spotify.com/artist/4WXYemaE9nfL2Gb4Uz3Xbs) | [CallePeroElegante](https://open.spotify.com/album/2meaQ7AYiIsfvPK9tuUFB0) | 2:41 |
 | 81 | [Mixed Emotions](https://open.spotify.com/track/3NHXRWCuWWGffpJXCTYeeL) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Mixed Emotions](https://open.spotify.com/album/2T6skxT0kXBUdlM9g3xlim) | 2:46 |
 | 82 | [Gammal & Fri](https://open.spotify.com/track/3Tgzh94thbwCf6sSX5McQM) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Gammal & Fri](https://open.spotify.com/album/5gomkCFOjj4tOemembWUkX) | 2:20 |

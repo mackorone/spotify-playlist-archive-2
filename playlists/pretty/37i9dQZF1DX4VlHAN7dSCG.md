@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Soul Sorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,302 likes - 76 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,312 likes - 76 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

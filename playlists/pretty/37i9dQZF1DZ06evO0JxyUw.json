@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 279564,
+  "num_followers": 279577,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAABQHbXdeaIcgCNwA9usx849",
+  "snapshot_id": "arHFAAAAAABUowJgbXHrFpl29+zOa+Am",
   "tracks": [
     {
       "added_at": null,
@@ -799,18 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stripped",
-        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+        "name": "Press Play",
+        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
       },
       "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 257773,
-      "name": "Infatuation",
-      "url": "https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId"
+      "duration_ms": 246146,
+      "name": "Tell Me (feat. Christina Aguilera)",
+      "url": "https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N"
     },
     {
       "added_at": null,
@@ -831,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Press Play",
-        "url": "https://open.spotify.com/album/7kIi4z3UO8ZqH3GVX18p7h"
+        "name": "Stripped",
+        "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
       "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 246146,
-      "name": "Tell Me (feat. Christina Aguilera)",
-      "url": "https://open.spotify.com/track/7aRNccA1RsVl7lD7steC5N"
+      "duration_ms": 257773,
+      "name": "Infatuation",
+      "url": "https://open.spotify.com/track/1Bwq4TKxWqvSgyHZN06wId"
     },
     {
       "added_at": null,

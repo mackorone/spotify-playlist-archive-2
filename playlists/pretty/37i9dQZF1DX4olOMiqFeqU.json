@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2416040,
+  "num_followers": 2415724,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,22 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
+        "name": "Sagip",
+        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
+      },
+      "artists": [
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "duration_ms": 232500,
+      "name": "Sagip",
+      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
         "name": "Middle-Aged Juvenile Novelty Pop Rockers",
         "url": "https://open.spotify.com/album/0EAM9ux5yMNKsdjcAV5Lg0"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 194946,
       "name": "Pangarap Lang Kita",
       "url": "https://open.spotify.com/track/09WPbmLdcBhJPcJwEJc1Yv"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
-        "name": "Sagip",
-        "url": "https://open.spotify.com/album/1awEJdrevX9kTQDbG7ATmO"
-      },
-      "artists": [
-        {
-          "name": "Jan Roberts",
-          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Sagip",
-      "url": "https://open.spotify.com/track/0hC02vQEEYV2T3MHkbcNSY"
     },
     {
       "added_at": "2026-08-07 04:22:25",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-08-07 04:22:25",
       "album": {
+        "name": "Sila",
+        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
+      },
+      "artists": [
+        {
+          "name": "SUD",
+          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
+        }
+      ],
+      "duration_ms": 326000,
+      "name": "Sila",
+      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
+    },
+    {
+      "added_at": "2026-08-07 04:22:25",
+      "album": {
         "name": "Ang Wakas (feat. Trisha Macapagal)",
         "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 304000,
       "name": "Ang Wakas (feat. Trisha Macapagal)",
       "url": "https://open.spotify.com/track/5yu0lVVW68f5VIzdjIJVQ6"
-    },
-    {
-      "added_at": "2026-08-07 04:22:25",
-      "album": {
-        "name": "Sila",
-        "url": "https://open.spotify.com/album/0qwujayb77utSpftsXjdP3"
-      },
-      "artists": [
-        {
-          "name": "SUD",
-          "url": "https://open.spotify.com/artist/0jKQrxK2zHqxyOAyIMrUQt"
-        }
-      ],
-      "duration_ms": 326000,
-      "name": "Sila",
-      "url": "https://open.spotify.com/track/2IMODbij0lZ5CuAjZi0IDE"
     },
     {
       "added_at": "2026-08-07 04:22:25",

@@ -1,6 +1,6 @@
 {
   "description": "Bossa Nova e MPB como acompanhamento / Bossa y m\u00fasica brasile\u00f1a para todo momento.",
-  "num_followers": 281350,
+  "num_followers": 281358,
   "original_name": "Caf\u00e9 Bossa",
   "owner": {
     "name": "Spotify",
@@ -135,6 +135,26 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Saudade Demais",
+        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
+      },
+      "artists": [
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        },
+        {
+          "name": "Sanny Alves",
+          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Isabel Tchau",
+      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Novo Bossa Nova",
         "url": "https://open.spotify.com/album/3SZQaNaCS69Nvos8Ix5jzM"
       },
@@ -179,26 +199,6 @@
       "duration_ms": 246079,
       "name": "Rosa Morena",
       "url": "https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Saudade Demais",
-        "url": "https://open.spotify.com/album/48iKN8MJAJq3j5G8Zw1INt"
-      },
-      "artists": [
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        },
-        {
-          "name": "Sanny Alves",
-          "url": "https://open.spotify.com/artist/6jso82wQxVIBAV8VRieChM"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Isabel Tchau",
-      "url": "https://open.spotify.com/track/0cwA5Ho2uI1i1d6U9tVU58"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -259,22 +259,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Rosa Morena EP",
-        "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
-      },
-      "artists": [
-        {
-          "name": "Duo Flamingo",
-          "url": "https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3"
-        }
-      ],
-      "duration_ms": 182453,
-      "name": "Flor De Lis",
-      "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Outra Vez",
         "url": "https://open.spotify.com/album/3PQfcnc1ZdNn7eTGTizZ2B"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 167764,
       "name": "Doralice",
       "url": "https://open.spotify.com/track/5mndIuaQ0tJqaSJsvXA1no"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Rosa Morena EP",
+        "url": "https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm"
+      },
+      "artists": [
+        {
+          "name": "Duo Flamingo",
+          "url": "https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3"
+        }
+      ],
+      "duration_ms": 182453,
+      "name": "Flor De Lis",
+      "url": "https://open.spotify.com/track/2rwczkvQFzi30gKPlqaM0d"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -439,6 +439,26 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
+        "name": "Veja Bem Meu Bem (Single)",
+        "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
+      },
+      "artists": [
+        {
+          "name": "Daniela Soledade",
+          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
+        },
+        {
+          "name": "Yves Dharamraj",
+          "url": "https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W"
+        }
+      ],
+      "duration_ms": 322202,
+      "name": "Veja Bem Meu Bem",
+      "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
         "name": "Samba Sem Ver\u00e3o",
         "url": "https://open.spotify.com/album/76pPBEo0uNo1NB1t7BKijH"
       },
@@ -459,26 +479,6 @@
       "duration_ms": 253870,
       "name": "Samba Sem Ver\u00e3o",
       "url": "https://open.spotify.com/track/5W5wploZHg8Y2CpiwTp1l9"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
-        "name": "Veja Bem Meu Bem (Single)",
-        "url": "https://open.spotify.com/album/395WtO1KY2VMx5NVcilT1R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Soledade",
-          "url": "https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl"
-        },
-        {
-          "name": "Yves Dharamraj",
-          "url": "https://open.spotify.com/artist/7KcNnfR1aLjOj9EFbRe63W"
-        }
-      ],
-      "duration_ms": 322202,
-      "name": "Veja Bem Meu Bem",
-      "url": "https://open.spotify.com/track/293QQHlGCVFmWoS2YMbjot"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Terra-M\u00e3e",
-        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
-      },
-      "artists": [
-        {
-          "name": "Carla Casarim",
-          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
-        }
-      ],
-      "duration_ms": 216701,
-      "name": "Brasil Geral",
-      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Um Dia No Mar",
         "url": "https://open.spotify.com/album/4QrobV7gNlPPVdJ6MY8Y2U"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 161901,
       "name": "Um Dia No Mar",
       "url": "https://open.spotify.com/track/1EZYeNyXTPKOVAP7Vn9wCi"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Terra-M\u00e3e",
+        "url": "https://open.spotify.com/album/6SmTAi6TI6ZMaovyx2VlCW"
+      },
+      "artists": [
+        {
+          "name": "Carla Casarim",
+          "url": "https://open.spotify.com/artist/4xshMjNrY0bKSLW3Su5kaL"
+        }
+      ],
+      "duration_ms": 216701,
+      "name": "Brasil Geral",
+      "url": "https://open.spotify.com/track/188rIbFjJNm4jfGQspEk1P"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -799,22 +799,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "Garoa",
-        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
-      },
-      "artists": [
-        {
-          "name": "NAY PORTTELA",
-          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Voa",
-      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Saudades de Amanh\u00e3",
         "url": "https://open.spotify.com/album/6VKuQwVim6GLWbwegH0ECr"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 275370,
       "name": "Perto do Tom",
       "url": "https://open.spotify.com/track/64Emni7MfcsbRs1Q0r2g5d"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "Garoa",
+        "url": "https://open.spotify.com/album/2Z0bo7Vd5g3vBATeAa6SHe"
+      },
+      "artists": [
+        {
+          "name": "NAY PORTTELA",
+          "url": "https://open.spotify.com/artist/01FblsOAQauxrn2oBoVCyW"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Voa",
+      "url": "https://open.spotify.com/track/0dbTqecEn66MhIMtg3186W"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -867,30 +867,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "entre o mar e o c\u00e9u",
-        "url": "https://open.spotify.com/album/7ew2ugCeEgiTMEB6spRuzZ"
-      },
-      "artists": [
-        {
-          "name": "Yant\u00f3",
-          "url": "https://open.spotify.com/artist/7AWzwadReIV5rSGll9bIcw"
-        },
-        {
-          "name": "Chic\u00e3o",
-          "url": "https://open.spotify.com/artist/6JnJLHs6aNcGE473u29cXP"
-        },
-        {
-          "name": "Guilherme Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/13DLx8ABOqhcqKuM9lU1QG"
-        }
-      ],
-      "duration_ms": 222496,
-      "name": "entre o mar e o c\u00e9u",
-      "url": "https://open.spotify.com/track/2O1OdpqavDnaN8it2x2JuX"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Bossa nova - Girls from Bela Vista",
         "url": "https://open.spotify.com/album/5askH1Yqbbwr3fRcFHawxT"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 264722,
       "name": "Girls from Bela Vista",
       "url": "https://open.spotify.com/track/1av15BaMO4D40o7ndvriul"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "entre o mar e o c\u00e9u",
+        "url": "https://open.spotify.com/album/7ew2ugCeEgiTMEB6spRuzZ"
+      },
+      "artists": [
+        {
+          "name": "Yant\u00f3",
+          "url": "https://open.spotify.com/artist/7AWzwadReIV5rSGll9bIcw"
+        },
+        {
+          "name": "Chic\u00e3o",
+          "url": "https://open.spotify.com/artist/6JnJLHs6aNcGE473u29cXP"
+        },
+        {
+          "name": "Guilherme Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/13DLx8ABOqhcqKuM9lU1QG"
+        }
+      ],
+      "duration_ms": 222496,
+      "name": "entre o mar e o c\u00e9u",
+      "url": "https://open.spotify.com/track/2O1OdpqavDnaN8it2x2JuX"
     },
     {
       "added_at": "2026-08-14 03:00:55",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2026-08-14 03:00:55",
       "album": {
-        "name": "M\u00fasicas para Travessia",
-        "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
-      },
-      "artists": [
-        {
-          "name": "Haroldo Bontempo",
-          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
-        },
-        {
-          "name": "Lina Lanna",
-          "url": "https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F"
-        }
-      ],
-      "duration_ms": 124088,
-      "name": "Na Casa do Jornalista",
-      "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
-    },
-    {
-      "added_at": "2026-08-14 03:00:55",
-      "album": {
         "name": "Tristeza de N\u00f3s Dois",
         "url": "https://open.spotify.com/album/27um7gvskpbYdoD4QnU1EP"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 222983,
       "name": "Tristeza de N\u00f3s Dois",
       "url": "https://open.spotify.com/track/217s4JPQy0sZkKzB6aqcxn"
+    },
+    {
+      "added_at": "2026-08-14 03:00:55",
+      "album": {
+        "name": "M\u00fasicas para Travessia",
+        "url": "https://open.spotify.com/album/3E54CQmm6J2Ge6onPSlytt"
+      },
+      "artists": [
+        {
+          "name": "Haroldo Bontempo",
+          "url": "https://open.spotify.com/artist/37Jxddw5IgpNlQz5e1GoJ9"
+        },
+        {
+          "name": "Lina Lanna",
+          "url": "https://open.spotify.com/artist/1wFynWZoJBFoyqtise048F"
+        }
+      ],
+      "duration_ms": 124088,
+      "name": "Na Casa do Jornalista",
+      "url": "https://open.spotify.com/track/7DGTvZ3g9O825bhSRMhOaC"
     },
     {
       "added_at": "2026-08-14 03:00:55",

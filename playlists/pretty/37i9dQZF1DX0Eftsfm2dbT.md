@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック Cover: KID FRESINO \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,865 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,895 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 6 | [Still Blond, Stay Gold](https://open.spotify.com/track/0hwgcD47X0NaZn0DCmeEyl) | [AOTO](https://open.spotify.com/artist/3hcgrXE2f4dTzHc1WS4JGs) | [Still Blond, Stay Gold](https://open.spotify.com/album/3HobvfSqoSCILU2H6HHdCb) | 2:44 |
 | 7 | [So Far](https://open.spotify.com/track/0ipEBBLZC4Km1rzihmXM4E) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [So Far](https://open.spotify.com/album/1EaP6T9Bw4KVe2fHfKzTMx) | 2:40 |
 | 8 | [Reiketsu](https://open.spotify.com/track/4jdH86IAX8JJA1u82BUC20) | [Yvngboi P](https://open.spotify.com/artist/6OpF456GdtGi3oqOafqVWW) | [Reiketsu](https://open.spotify.com/album/3vFCgxzk8z0dJcXtDYoYgW) | 2:42 |
-| 9 | [Track 4](https://open.spotify.com/track/0t68YExDFQSHOlxYVgKR4j) | [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz) | [Party Pack](https://open.spotify.com/album/1bO0pZE75FUqByrlTedh2H) | 0:00 |
+| 9 | [IMINAI ! \(feat\. PINATTSU\-KUN & A\-THUG\)](https://open.spotify.com/track/0t68YExDFQSHOlxYVgKR4j) | [YDIZZY](https://open.spotify.com/artist/7IhH3sGwKqQCdtYylRSewz), [PINATTSU\-KUN](https://open.spotify.com/artist/2MnCWHFIi0OIhdJP8iDqXw), [A\-THUG](https://open.spotify.com/artist/0ousHWUYQP1iv0PrToT9Xg) | [Party Pack](https://open.spotify.com/album/1bO0pZE75FUqByrlTedh2H) | 3:01 |
 | 10 | [WE SWAG \(feat\. DADA\) \- Remix](https://open.spotify.com/track/6wY1Kb9VNWUt58jCXMO9uw) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [DADA](https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN) | [Genius II](https://open.spotify.com/album/6OyCtKt3Jh8zj3Cdr9EyK3) | 2:51 |
 | 11 | [Beyond](https://open.spotify.com/track/3MIUofQdcehxqjvs8jIfKI) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [Beyond](https://open.spotify.com/album/48Za1CoUiUCkC5zdiAnzU3) | 2:44 |
 | 12 | [mochi mochi \(feat\. Elle Teresa & Siero\)](https://open.spotify.com/track/3StLeLCxa5Md0NfQ7i4yAi) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Siero](https://open.spotify.com/artist/6mKmlCpX0G439EH9lvFD6r) | [mochi mochi \(feat\. Elle Teresa & Siero\)](https://open.spotify.com/album/4VPUwI7Fxw70sS09ioF98r) | 3:42 |

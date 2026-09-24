@@ -1,12 +1,12 @@
 {
   "description": "This is Infinity Song. The essential tracks, all in one playlist.",
-  "num_followers": 3046,
+  "num_followers": 3047,
   "original_name": "This Is Infinity Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arBzgAAAAAApJVynDMQtVjDBP4J3KLeq",
+  "snapshot_id": "arHFAAAAAAB5ILq7Odc6S2EpPrPNgilS",
   "tracks": [
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 164000,
-      "name": "One Foot Out",
-      "url": "https://open.spotify.com/track/6vN17zWkoRVfruu9JjUQox"
+      "duration_ms": 188800,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
         }
       ],
-      "duration_ms": 188800,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk"
+      "duration_ms": 164000,
+      "name": "One Foot Out",
+      "url": "https://open.spotify.com/track/6vN17zWkoRVfruu9JjUQox"
     },
     {
       "added_at": null,

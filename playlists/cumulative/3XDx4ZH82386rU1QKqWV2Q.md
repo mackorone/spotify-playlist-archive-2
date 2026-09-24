@@ -4,7 +4,7 @@
 
 > powered by www.releasejet.ai most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-860 songs - 1 day 14 hr 30 min
+861 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [PASSO BEM SOLTO \- Slowed](https://open.spotify.com/track/4sTlQPMyoFMPdhAJvErBN3) | [ATLXS](https://open.spotify.com/artist/5SCDfg1YoEfI5gFtXqEWah) | [PASSO BEM SOLTO](https://open.spotify.com/album/0I7096R74VFP2xnMmp33sY) | 1:56 | 2025-04-27 |  |
 | [Past Lives](https://open.spotify.com/track/4cJZlGkUhcZGkZzFGLGLbb) | [Farizki](https://open.spotify.com/artist/0q21wtMM1dK3rI2HzCYPui), [Sapientdreams](https://open.spotify.com/artist/1aOj46eemMayh3HW5ufnw7) | [Past Lives](https://open.spotify.com/album/49HXOmg1ruQpC4zhCJ1fZV) | 2:33 | 2023-06-12 |  |
 | [PEGANDO FOGO](https://open.spotify.com/track/0vQsiDeoI93Nlndf5crpCt) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [PEGANDO FOGO](https://open.spotify.com/album/5DYvR0BjsL8dHYRMbNEE1O) | 1:19 | 2023-09-17 | 2023-12-14 |
+| [PESADURA \- slowed](https://open.spotify.com/track/5kE6VZ4Ddzdw5OlU0uDswN) | [Einheri](https://open.spotify.com/artist/2GV0pIPMG5gyzsx7UMgcfh) | [PESADURA](https://open.spotify.com/album/2Zvs2mWbdycJgHvYKdCAvr) | 1:59 | 2026-09-23 |  |
 | [Phallic Flow](https://open.spotify.com/track/2dbYWquPMnQtpw9bOO76P9) | [Echo Drone](https://open.spotify.com/artist/03PGDP8aU9P7vOFqZN9S2i) | [Arsenal EP](https://open.spotify.com/album/5KIB8Z5rzeWPi3KE1v1gk8) | 2:55 | 2024-01-18 | 2024-02-13 |
 | [PHANTASM](https://open.spotify.com/track/1HWrWjd92Fd6V4o2VGkvhQ) | [Lorean](https://open.spotify.com/artist/0FuEO2anIrOtmD5cFBM4eB) | [PHANTASM](https://open.spotify.com/album/5c11x6i2g58ilcmZp7wdU7) | 2:51 | 2023-08-01 | 2023-08-28 |
 | [PHONK DA FAVELA](https://open.spotify.com/track/50S50LytHPrWpEBjxK22Of) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [Dragon Boys](https://open.spotify.com/artist/2qW1dvYTdC1fGOYyTqzaLy) | [PHONK DA FAVELA](https://open.spotify.com/album/2ysA7pw5gIH0GVZauYZB1N) | 2:26 | 2023-06-12 | 2023-08-06 |

@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Stella Lefty",
-  "num_followers": 4338293,
+  "num_followers": 4337955,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -725,6 +725,22 @@
       "url": "https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA"
     },
     {
+      "added_at": "2026-09-21 14:04:45",
+      "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 146260,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
+    },
+    {
       "added_at": "2026-08-14 13:13:41",
       "album": {
         "name": "How Will I Know",
@@ -743,22 +759,6 @@
       "duration_ms": 213435,
       "name": "How Will I Know",
       "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
-    },
-    {
-      "added_at": "2026-09-21 14:04:45",
-      "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
-      },
-      "artists": [
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 146260,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Evolve (CLUBSOS VOL. 1)",
-        "url": "https://open.spotify.com/album/3YcueqZdPrKtwDywIlQ5LX"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 194649,
-      "name": "Evolve - CLUBSOS VOL. 1",
-      "url": "https://open.spotify.com/track/1o67EGKvSKibKzkRUxR0OP"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/7lbnCc3sLLeQXso4Jn3kvc"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 181709,
       "name": "Dai Dai - Clean Bandit Remix",
       "url": "https://open.spotify.com/track/6fA1rWHTpUfprPJzsBKZZr"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Evolve (CLUBSOS VOL. 1)",
+        "url": "https://open.spotify.com/album/3YcueqZdPrKtwDywIlQ5LX"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 194649,
+      "name": "Evolve - CLUBSOS VOL. 1",
+      "url": "https://open.spotify.com/track/1o67EGKvSKibKzkRUxR0OP"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1177,6 +1177,26 @@
       "url": "https://open.spotify.com/track/5DQFUDNNpdu2l3ZyE8GHON"
     },
     {
+      "added_at": "2026-08-22 02:04:33",
+      "album": {
+        "name": "Knife In The Heart (The Magician Remix)",
+        "url": "https://open.spotify.com/album/5g1aKjhxfqIqM5aHyxSKCy"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "duration_ms": 221959,
+      "name": "Knife In The Heart - The Magician Remix",
+      "url": "https://open.spotify.com/track/0THhIWX6hGcftgzP5mYTji"
+    },
+    {
       "added_at": "2026-08-14 13:13:41",
       "album": {
         "name": "About Damn Time (Purple Disco Machine Remix)",
@@ -1215,26 +1235,6 @@
       "duration_ms": 427881,
       "name": "Danceteria - Harry Romero Remix",
       "url": "https://open.spotify.com/track/6oFNBxTVpYNpNCRehH05Ly"
-    },
-    {
-      "added_at": "2026-08-22 02:04:33",
-      "album": {
-        "name": "Knife In The Heart (The Magician Remix)",
-        "url": "https://open.spotify.com/album/5g1aKjhxfqIqM5aHyxSKCy"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        },
-        {
-          "name": "The Magician",
-          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
-        }
-      ],
-      "duration_ms": 221959,
-      "name": "Knife In The Heart - The Magician Remix",
-      "url": "https://open.spotify.com/track/0THhIWX6hGcftgzP5mYTji"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Not At This Party (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 171488,
-      "name": "Not At This Party - David Guetta Remix",
-      "url": "https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Sports car (remixes)",
         "url": "https://open.spotify.com/album/3otWafB6ZVEFMM9KdeEiR4"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 150000,
       "name": "Sports car - TELYKAST Remix",
       "url": "https://open.spotify.com/track/0ghc4iHJEZTAIAKUI7YxA7"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Not At This Party (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/2PdajQLCzFMKVuJgnRTTaR"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 171488,
+      "name": "Not At This Party - David Guetta Remix",
+      "url": "https://open.spotify.com/track/6eAdBskdGxnbUVXxEUu3io"
     },
     {
       "added_at": "2026-08-14 13:13:41",
