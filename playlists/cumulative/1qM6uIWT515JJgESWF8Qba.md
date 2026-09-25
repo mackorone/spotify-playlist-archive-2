@@ -4,7 +4,7 @@
 
 > It&\#x27;s 5 o&\#x27;clock somewhere and best believe there&\#x27;s a local band there ready to rock when the sun goes down.
 
-323 songs - 20 hr 13 min
+324 songs - 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Bad Penny](https://open.spotify.com/track/5VJLnfXSib5ZcoQD4ugJuS) | [Julience](https://open.spotify.com/artist/4SlykBMGNk8EXDDFfphLvL) | [Bad Penny](https://open.spotify.com/album/0WlFjbYONFwfyUeIyoCbCO) | 4:27 | 2026-05-26 |  |
 | [Bajo Llave](https://open.spotify.com/track/1hA0NMXvi3EkTCJgwzWmn8) | [Danel](https://open.spotify.com/artist/1IhKepzJXk7ZsHc0tyy4Fo) | [Ante Todo](https://open.spotify.com/album/0kLrbPrwRgbGmpbHHfYNpC) | 3:45 | 2026-08-27 |  |
 | [BALLET BILLY](https://open.spotify.com/track/6s75SQOvQynztfiYTc5mrC) | [Cut Manners](https://open.spotify.com/artist/1OXL2MCFMKck1RMwKvcvNT) | [BALLET BILLY](https://open.spotify.com/album/1HUnj0XuLs6AQ6TxKrNr37) | 1:46 | 2026-07-29 |  |
-| [Bar Flies](https://open.spotify.com/track/7BnfRSLTfFgOgvXD7ibXeZ) | [Blind Apes](https://open.spotify.com/artist/3v5zCvN6258XxR9XeBwlvi) | [Left Hand Down](https://open.spotify.com/album/3mMT8G0EGa8mWpKv86snTE) | 3:59 | 2026-08-26 |  |
+| [Bar Flies](https://open.spotify.com/track/7BnfRSLTfFgOgvXD7ibXeZ) | [Blind Apes](https://open.spotify.com/artist/3v5zCvN6258XxR9XeBwlvi) | [Left Hand Down](https://open.spotify.com/album/3mMT8G0EGa8mWpKv86snTE) | 3:59 | 2026-08-26 | 2026-09-25 |
 | [BECAUSE OF YOU](https://open.spotify.com/track/2KUMvp09BkoZpK9vUvrSl9) | [Peterson](https://open.spotify.com/artist/75GKFnQxwp1FIBqzseSrKC) | [BECAUSE OF YOU](https://open.spotify.com/album/43uBPQfjTwvO2iwaHdqxg2) | 3:43 | 2025-12-13 | 2026-01-21 |
 | [Bestia](https://open.spotify.com/track/6UYOETNWbvmNKpl07sjPpu) | [Décum](https://open.spotify.com/artist/2nlYRGKyaJpzquLbtpCguk) | [Bestia](https://open.spotify.com/album/2ozT91COp1GUchj542jq44) | 2:45 | 2025-12-13 | 2026-01-21 |
 | [Birdsong](https://open.spotify.com/track/1jtWKXkkbGlLfqDmmCaHS0) | [Gradient](https://open.spotify.com/artist/6yNuEm7qTtdWtb6m0HOtrk) | [Birdsong](https://open.spotify.com/album/3TjMb5loMqhttqnP29INZR) | 2:40 | 2025-11-01 | 2025-12-28 |
@@ -84,7 +84,7 @@
 | [Destinos Cruzados](https://open.spotify.com/track/4tFkEuIWIZIKDPfaJhUyrP) | [Miscellaneous](https://open.spotify.com/artist/4lVq1XJ7brnkOBuzOzznHi) | [Miscellaneous](https://open.spotify.com/album/3suDk3EaTehsxRL6yoEx5s) | 3:10 | 2025-12-28 | 2026-01-21 |
 | [Dethroned](https://open.spotify.com/track/23tye9xrSpAZ1j5pSIh2a2) | [Regina](https://open.spotify.com/artist/4ed2jHmlm4FWzcKrYyzRKL) | [Liminal Space](https://open.spotify.com/album/1UR9SA5kOX7Ogx6pRhPdiq) | 3:55 | 2025-12-29 | 2026-01-21 |
 | [Devil With The Black Dress On](https://open.spotify.com/track/6vYQkUxIR0CpiJk5qg1Uwn) | [Sarah & The Silent Poets](https://open.spotify.com/artist/13K8ORHx1WpF9cCTQwQVcB) | [Devil With The Black Dress On](https://open.spotify.com/album/1McZnjNxg94UudFY94fRzo) | 2:27 | 2025-10-25 | 2025-12-28 |
-| [Devour](https://open.spotify.com/track/4a19eWa4PpD3yyzguRk3hO) | [Bruvvy](https://open.spotify.com/artist/5VvBn4J8cVrk4A0YXLeUVf) | [Devour](https://open.spotify.com/album/2J5eRRGeElqmQ99CiMrsnM) | 2:43 | 2026-08-17 |  |
+| [Devour](https://open.spotify.com/track/4a19eWa4PpD3yyzguRk3hO) | [Bruvvy](https://open.spotify.com/artist/5VvBn4J8cVrk4A0YXLeUVf) | [Devour](https://open.spotify.com/album/2J5eRRGeElqmQ99CiMrsnM) | 2:43 | 2026-08-17 | 2026-09-25 |
 | [Diagnos](https://open.spotify.com/track/2TyCsu3MUR9DjANoBa3x2n) | [Artikel 22](https://open.spotify.com/artist/2R9AIy5zKsWF3D838CMyGG) | [Diagnos](https://open.spotify.com/album/7rIaHJYL7JpBieDkLX5pw5) | 3:10 | 2026-03-22 | 2026-05-19 |
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2026-01-22 | 2026-02-23 |
 | [Diamond and the Missing Son](https://open.spotify.com/track/293qXS4YFA9eFcb8Plx4u9) | [Unquiet Nights](https://open.spotify.com/artist/5t9geVnj0iCBhJfdT3R2ot) | [Seasons In Exile](https://open.spotify.com/album/3Q8DljJtyt92ZLDgOYNjE9) | 3:16 | 2026-07-13 | 2026-08-08 |
@@ -171,13 +171,13 @@
 | [KARMA](https://open.spotify.com/track/0PU9juIILyUqQiQ7vLjjNi) | [James Ec](https://open.spotify.com/artist/3WausLWOfDcxxAr2Bm7Ly9) | [KARMA](https://open.spotify.com/album/5Bq8ujUGlIipkRlVi8Erwt) | 2:52 | 2026-02-07 |  |
 | [Kick In The Teeth](https://open.spotify.com/track/1a9VSlfqljmvA6eS8o8nIl) | [Hexe](https://open.spotify.com/artist/3WZaW8fkkvGju9kFx4FeoN) | [Kick In The Teeth](https://open.spotify.com/album/0qteBQwyHGA0xex6lcnZQe) | 3:39 | 2026-09-02 |  |
 | [King Tide](https://open.spotify.com/track/0oOfLzw44wpabfgz4GcZhU) | [The Fu King](https://open.spotify.com/artist/35TcrL9g3yu0tOfiTB4rVZ) | [From The Tide](https://open.spotify.com/album/0EQLgTtAsgyeQV9V1OmUPF) | 4:05 | 2025-11-08 | 2025-12-28 |
-| [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 | 2026-08-26 |  |
+| [knocked \-down/\-out](https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [knocked \-down/\-out](https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5) | 4:16 | 2026-08-26 | 2026-09-25 |
 | [La Muerte No Es El Final](https://open.spotify.com/track/2zYM7UHTmc1uCDIyDiJyzv) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [La Muerte No Es El Final](https://open.spotify.com/album/2x1dWg4fWHuhiilvgAFBa2) | 5:01 | 2025-12-01 | 2025-12-28 |
 | [Laser Love](https://open.spotify.com/track/6FzsZvYUcxbZwpykjhBsl0) | [Poison Oak](https://open.spotify.com/artist/4serq8W7kitDHuSTd4DhjF) | [Laser Love](https://open.spotify.com/album/3rpHtJw1hn2JDGlTxEDgxf) | 3:02 | 2026-07-14 | 2026-08-08 |
 | [Last String](https://open.spotify.com/track/1c3Nso9d1oMWGR9YCWsNhI) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Down](https://open.spotify.com/album/41OIZc7GGve2d6Upc7MRhu) | 4:12 | 2025-12-13 | 2026-01-21 |
 | [Leaving For The Summer](https://open.spotify.com/track/2si1Z5vk1qKPBOddYakSYX) | [White Star Line](https://open.spotify.com/artist/3qDMmbHoQIpMvNuOzyazsh) | [Leaving For The Summer](https://open.spotify.com/album/1OL4HB5Fkd0U78TehJXbZA) | 3:52 | 2026-02-09 | 2026-05-19 |
 | [Let's Do It Again](https://open.spotify.com/track/0tZ9lz19MPyCJDlOQ078NO) | [Pink Cliffs](https://open.spotify.com/artist/6jjWLyBEBtiNDuwBU9DUKR) | [Let's Do It Again](https://open.spotify.com/album/5cfYAyMa2BN1b8yup5F6TL) | 4:28 | 2026-05-19 | 2026-06-14 |
-| [Letter from a Soldier](https://open.spotify.com/track/2yehxUK2zwMZuVLT61GYKS) | [Baby and the Beats](https://open.spotify.com/artist/6lOkM52lTEtUVl4qgEHJ7Z) | [Letter from a Soldier](https://open.spotify.com/album/1vhVHMdQJPDW8amt8C9aPk) | 5:21 | 2026-07-22 |  |
+| [Letter from a Soldier](https://open.spotify.com/track/2yehxUK2zwMZuVLT61GYKS) | [Baby and the Beats](https://open.spotify.com/artist/6lOkM52lTEtUVl4qgEHJ7Z) | [Letter from a Soldier](https://open.spotify.com/album/1vhVHMdQJPDW8amt8C9aPk) | 5:21 | 2026-07-22 | 2026-09-25 |
 | [Libertad de Expresión](https://open.spotify.com/track/37uRx1n0rsGqoIIIz6QcPO) | [Misión Pájaro](https://open.spotify.com/artist/0fbfzghafzuSdoHe1VMZXy) | [Libertad de Expresión](https://open.spotify.com/album/0DGZGMrloXmGnADcqIlJd0) | 5:40 | 2026-04-16 | 2026-05-19 |
 | [Libre](https://open.spotify.com/track/4D03zGZazrn4H4eJhkV2pb) | [Demonios Del Cielo](https://open.spotify.com/artist/3b2hIDjJn9MhCussAdvBkm) | [Libre](https://open.spotify.com/album/4LUp5e5P4XxVkkENXdL7vE) | 3:22 | 2026-01-07 | 2026-02-02 |
 | [Lie \- '25](https://open.spotify.com/track/6pJJ8YphCAGDA89qMMhKPr) | [King's Vengeance](https://open.spotify.com/artist/4qlNA35XJBmcmJO4PuwOtp) | [Overthrown](https://open.spotify.com/album/7CkZw8wv2ZCuWEnUtwQFZJ) | 6:02 | 2025-12-03 | 2025-12-28 |
@@ -195,6 +195,7 @@
 | [Loving in C](https://open.spotify.com/track/4wOagNQce8X7pi713AqWrx) | [Flow State Experience](https://open.spotify.com/artist/7l4P3Pkgf6vqqhdQLG7vrl) | [Loving in C](https://open.spotify.com/album/3q0RQpej71nrgbcuAS6giu) | 2:12 | 2025-11-18 | 2025-12-28 |
 | [Maelstrom](https://open.spotify.com/track/03shvUhZt3yFha0a7PJVy8) | [Starikova](https://open.spotify.com/artist/7lVjvuDLeUaqOqsTAiw2oA) | [Heart of a Coward / Maelstrom](https://open.spotify.com/album/2GFTJ5HJLN861GRR7jpwGB) | 6:21 | 2026-07-01 | 2026-08-08 |
 | [March](https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG) | [Crafty McVillain](https://open.spotify.com/artist/47wtKyzMEByReL7R3RJ4eP) | [March](https://open.spotify.com/album/0mf6WhdV3ZlgvVLhKAMJoP) | 4:43 | 2026-02-14 | 2026-03-21 |
+| [Mean Dog](https://open.spotify.com/track/3d8u5YQo5PQwt0cnZn2LfC) | [Sturgeon](https://open.spotify.com/artist/1q6x5uIGlVUeF1vZoyQDRF) | [Mean Dog](https://open.spotify.com/album/1l0iuJVPFyOhmYVJD5B2a8) | 3:04 | 2026-09-24 |  |
 | [Melbourne Cat](https://open.spotify.com/track/72cmQI7HC2RNIKeGbKUPNH) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Melbourne Cat](https://open.spotify.com/album/0acC0pSJGsYNirxkfWlOxK) | 4:18 | 2026-05-26 |  |
 | [melt into you](https://open.spotify.com/track/7f19vtCNG0lzI5CaYJkZi3) | [something else together.](https://open.spotify.com/artist/0fMtdcweycDDoRM0H5Rpyy) | [melt into you](https://open.spotify.com/album/0rD8DtavP3xnlSRHZGaCB8) | 4:31 | 2025-12-13 | 2026-01-21 |
 | [Money Makes Money](https://open.spotify.com/track/7262GNW8eQtESLlmOY5dy8) | [On\-Off](https://open.spotify.com/artist/3Qb1E9hm1R0In79aIumUsR) | [Don't Forget the Roll](https://open.spotify.com/album/5wuEmaSZr4KX0WxiXCVyjk) | 3:36 | 2026-01-06 | 2026-02-02 |
@@ -251,7 +252,7 @@
 | [Reveal](https://open.spotify.com/track/66VkLOO259SrOeyGRMoD0n) | [Nempty](https://open.spotify.com/artist/6Fnh4iRaxlyEQdASmWpCSl) | [Reveal](https://open.spotify.com/album/21O7YHeOghdgNHX1E76AeC) | 3:54 | 2025-11-13 | 2025-12-28 |
 | [Revelations](https://open.spotify.com/track/7bAohas5wlq9JKnRrvF2kT) | [The Trespassers](https://open.spotify.com/artist/4uLDuEBgtKBoOjCjBYMrtF) | [Revelations](https://open.spotify.com/album/5SNwTLCdaUFwnRVHESMfQj) | 3:59 | 2026-06-05 | 2026-08-08 |
 | [Revenge](https://open.spotify.com/track/67LncR8bh1wre4GVkjq8M1) | [Altered Edge](https://open.spotify.com/artist/1LK0zVegel8RFJsECz7QQ5) | [Revenge](https://open.spotify.com/album/2Cm2qoNr6PQp64EGQCT0wu) | 4:59 | 2026-01-17 |  |
-| [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 | 2026-08-22 |  |
+| [Revolución Silenciosa](https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD) | [Tacrolimus](https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT) | [Se Acabaron Las Versiones](https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25) | 3:41 | 2026-08-22 | 2026-09-25 |
 | [Rooftops](https://open.spotify.com/track/0JJGV5lyQ2mji50PHu0Gce) | [Jack Dahlqvist](https://open.spotify.com/artist/3J2oT5Sue8H2uhUVDvw1bI) | [Rooftops](https://open.spotify.com/album/2300qonTPP24PHDOv62WqB) | 3:25 | 2026-01-22 | 2026-02-23 |
 | [Royal Kush](https://open.spotify.com/track/2wlWUxDcl8y3V2L5aQ3vOA) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Royal Kush](https://open.spotify.com/album/32ik5Ith28fbWibQPqgazr) | 3:37 | 2026-04-06 |  |
 | [Royal Kush \- 2026 Remix](https://open.spotify.com/track/3quWf8EHip6EbIqISTGVH2) | [Space of a Day](https://open.spotify.com/artist/5nNOI6NL16ypK6js5aiheB) | [Royal Kush \(2026 Remix\)](https://open.spotify.com/album/4BoeN9Czn21LYDkJcreWri) | 3:36 | 2026-03-03 | 2026-05-17 |

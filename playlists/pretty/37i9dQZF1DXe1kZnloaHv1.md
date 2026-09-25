@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,551 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,562 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1kZnloaHv1.md) - [plain]
 | 51 | [Melting me \(feat\. jeebanoff\)](https://open.spotify.com/track/4WCQkour1ibROVIjZMAHFy) | [GiiANA](https://open.spotify.com/artist/2tlkwgkfFxWSmjFPv9czcN), [jeebanoff](https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV) | [Melting Me \(feat\. jeebanoff\)](https://open.spotify.com/album/6bhiH3vAfNmoJquHpK9PWY) | 3:36 |
 | 52 | [everything is bothersome](https://open.spotify.com/track/37M5iTQTitE9a9RE909yAJ) | [0415](https://open.spotify.com/artist/49EamolQqzPhub6zY9By4A) | [everything is bothersome](https://open.spotify.com/album/3DNC7ASLsa73bC1oCtwmQh) | 3:40 |
 | 53 | [Deviation](https://open.spotify.com/track/6GmhZmhssEDCW9gSC6oDqz) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Purple Heart](https://open.spotify.com/album/50zXa5ZUy6undYjdVKUSSS) | 4:02 |
-| 54 | [Zzz](https://open.spotify.com/track/2tfJOgNmdkl9QlL3zI6F6T) | [ASOM](https://open.spotify.com/artist/7sjoySHCeoENihrUxCuBCD) | [Zzz](https://open.spotify.com/album/76zsfT63DcfSJ3zGg69hDT) | 2:14 |
+| 54 | [Zzz](https://open.spotify.com/track/2tfJOgNmdkl9QlL3zI6F6T) | [아솜](https://open.spotify.com/artist/7sjoySHCeoENihrUxCuBCD) | [Zzz](https://open.spotify.com/album/76zsfT63DcfSJ3zGg69hDT) | 2:14 |
 | 55 | [Lazyday](https://open.spotify.com/track/5lR0DmxtCgSVvYlzTLkBdp) | [Parkbongsoon](https://open.spotify.com/artist/4zi2UErU3OcQ6eydg3dHJM) | [Hello, Then Goodbye](https://open.spotify.com/album/6rEo5ut1ZaiKXi6NtRlyZY) | 2:12 |
 | 56 | [Plz don't](https://open.spotify.com/track/1MCeesuJ9vvknVBxZXTLXu) | [HASOM](https://open.spotify.com/artist/7CJwkFWsM1aPOoEKRgeYMY) | [Plz don't](https://open.spotify.com/album/4f90vnu26mplyELCQdqOXE) | 3:06 |
 | 57 | [Soggy soggy \(feat\. JEONAIN\)](https://open.spotify.com/track/38t9a8VqpAJECDZxmw7811) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi), [JEONAIN](https://open.spotify.com/artist/1dvhwpnbP8XvRpgu9amuNm) | [Soggy soggy \(feat\. JEONAIN\)](https://open.spotify.com/album/37zHF0IjiuHCBZcwY8KSHj) | 2:50 |

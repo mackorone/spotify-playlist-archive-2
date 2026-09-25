@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Marracash
 
-386 songs - 19 hr 38 min
+388 songs - 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Tempo \(feat\. Latrelle, Promessa\)](https://open.spotify.com/track/7fRk1NaO920sA3g8L8CWTK) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Nerissima](https://open.spotify.com/album/4aVP5OanDJz1dXGV1Y0TER) | 3:24 | 2026-04-30 |  |
 | [TI AMO, MA...](https://open.spotify.com/track/7aADdAYRyv2z6giSlgYKwx) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [ANGELO BALACLAVA](https://open.spotify.com/album/1n7HkZhfeIrfMaTJJldfEO) | 2:53 | 2025-04-10 | 2025-07-04 |
 | [Ti ricorderai di me \(feat\. Vegas Jones\) \- prod\. Strage](https://open.spotify.com/track/0fBDL8yd1xfCF594H33qcD) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Teoria Del Contrario Mixtape Vol\. 2](https://open.spotify.com/album/0IAX2njGSfQczvl5oN5ZLx) | 2:26 | 2023-03-17 | 2023-04-14 |
+| [TI RICORDI](https://open.spotify.com/track/5L4sZUVdzypmbD1NhFK3mh) | [Aske](https://open.spotify.com/artist/4iE1YKxP7jqkyNRQN98dVo), [Dr\. Cream](https://open.spotify.com/artist/1Infwqx3BhCS1iVbJxWdKw) | [TI RICORDI](https://open.spotify.com/album/7cXVsjHvgWqXeHFS6VsEV4) | 3:16 | 2026-09-24 |  |
 | [Too late](https://open.spotify.com/track/2UKH7wJBVt2tF5JINtOPmZ) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Too late](https://open.spotify.com/album/2wI2mYdlA9BmjRWATm1fjD) | 3:15 | 2023-10-12 | 2023-12-08 |
 | [TOP MODEL \(HEY MAMBO!\)](https://open.spotify.com/track/1YvfAyh0iuMaQoOLgaPLYZ) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [YACHT CLUB](https://open.spotify.com/album/3pDBHEcKJYylqjOvRlP2yU) | 2:34 | 2026-07-30 |  |
 | [TOUR](https://open.spotify.com/track/7rXxRfe0ozlR5MeFr5yzEd) | [Flaco G](https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9) | [TOUR](https://open.spotify.com/album/6zlXDaiNxjOnzBkFyJRBLc) | 2:30 | 2025-09-11 | 2025-10-10 |
@@ -389,6 +390,7 @@
 | [Voglio Di Più](https://open.spotify.com/track/45wYm3Gs6W57fg2gCHCtxB) | [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr) | [Voglio Di Più](https://open.spotify.com/album/5Vcj8dtHyVQDJgJYIkrUDV) | 2:46 | 2026-05-21 | 2026-07-31 |
 | [Volare](https://open.spotify.com/track/2QKgQOxXoIGq711vdah54G) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [RYAN TED](https://open.spotify.com/album/2U9mwmcJrUmkIpJm9gq8n7) | 2:31 | 2026-05-21 |  |
 | [VOLEVO CAPIRE CON MARRACASH](https://open.spotify.com/track/6UrPST46XxYPqbAAThhSMS) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [DISINCANTO](https://open.spotify.com/album/02UzV7oxqKA0Kkp3n205KB) | 2:37 | 2026-04-16 |  |
+| [whereimat \(feat\. Artie 5ive\)](https://open.spotify.com/track/3tTY52nqC2AHVgAoaThfe6) | [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [whereimat \(feat\. Artie 5ive\)](https://open.spotify.com/album/2TJrTpi61AGsclH2iIDXbv) | 3:25 | 2026-09-24 |  |
 | [Windy Days](https://open.spotify.com/track/4dH3N9s7VuvdfGtuD15SXE) | [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [Pixel](https://open.spotify.com/album/2GilGjaRAmsF7MptmRnFQT) | 2:25 | 2025-10-09 |  |
 | [X CASO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2E32Pv8w20r6ZH4oFecxOf) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 3:35 | 2023-10-05 |  |
 | [X Sempre](https://open.spotify.com/track/00r1JkjftpDP9sToJsHypT) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [4U EP](https://open.spotify.com/album/3AIwaSKtnuwwbdgHZeXcYm) | 3:10 | 2026-02-13 |  |

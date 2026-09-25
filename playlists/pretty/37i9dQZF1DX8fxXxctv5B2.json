@@ -1,6 +1,6 @@
 {
   "description": "Windows down, volume up. The soundtrack to your road trip.",
-  "num_followers": 261714,
+  "num_followers": 261738,
   "original_name": "Coastal Drive",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2026-09-17 14:00:43",
       "album": {
-        "name": "Lungs (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 168666,
-      "name": "You've Got The Love",
-      "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
-    },
-    {
-      "added_at": "2026-09-17 14:00:43",
-      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 74378,
       "name": "misses",
       "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
+    },
+    {
+      "added_at": "2026-09-17 14:00:43",
+      "album": {
+        "name": "Lungs (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 168666,
+      "name": "You've Got The Love",
+      "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
     },
     {
       "added_at": "2026-09-17 14:00:43",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-09-17 14:00:43",
       "album": {
-        "name": "xx",
-        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
-      },
-      "artists": [
-        {
-          "name": "The xx",
-          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
-        }
-      ],
-      "duration_ms": 160720,
-      "name": "Islands",
-      "url": "https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi"
-    },
-    {
-      "added_at": "2026-09-17 14:00:43",
-      "album": {
         "name": "Odyssey Number Five",
         "url": "https://open.spotify.com/album/1fgfp2op6DHKCrtWiMFiws"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 276626,
       "name": "My Happiness",
       "url": "https://open.spotify.com/track/2pxxVkNhrRST8fpgA12ru8"
+    },
+    {
+      "added_at": "2026-09-17 14:00:43",
+      "album": {
+        "name": "xx",
+        "url": "https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG"
+      },
+      "artists": [
+        {
+          "name": "The xx",
+          "url": "https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy"
+        }
+      ],
+      "duration_ms": 160720,
+      "name": "Islands",
+      "url": "https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi"
     },
     {
       "added_at": "2026-09-17 14:00:43",
@@ -1167,26 +1167,6 @@
     {
       "added_at": "2026-09-17 14:00:43",
       "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        },
-        {
-          "name": "Tom McFarland",
-          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
-        }
-      ],
-      "duration_ms": 199477,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
-    },
-    {
-      "added_at": "2026-09-17 14:00:43",
-      "album": {
         "name": "Ready To Ride",
         "url": "https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB"
       },
@@ -1203,6 +1183,26 @@
       "duration_ms": 221600,
       "name": "Ready To Ride",
       "url": "https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV"
+    },
+    {
+      "added_at": "2026-09-17 14:00:43",
+      "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Tom McFarland",
+          "url": "https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7"
+        }
+      ],
+      "duration_ms": 199477,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U"
     },
     {
       "added_at": "2026-09-17 14:00:43",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2026-09-17 14:00:43",
       "album": {
-        "name": "Birds Of Tokyo",
-        "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
-      },
-      "artists": [
-        {
-          "name": "Birds Of Tokyo",
-          "url": "https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86"
-        }
-      ],
-      "duration_ms": 218000,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
-    },
-    {
-      "added_at": "2026-09-17 14:00:43",
-      "album": {
         "name": "If That Makes Sense",
         "url": "https://open.spotify.com/album/7G31WimJFKHnf53ZwtKUXn"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 178304,
       "name": "Whateverrrr",
       "url": "https://open.spotify.com/track/7rmqj2wCUD7rmeFLrcEfNC"
+    },
+    {
+      "added_at": "2026-09-17 14:00:43",
+      "album": {
+        "name": "Birds Of Tokyo",
+        "url": "https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI"
+      },
+      "artists": [
+        {
+          "name": "Birds Of Tokyo",
+          "url": "https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED"
     },
     {
       "added_at": "2026-09-17 14:00:43",

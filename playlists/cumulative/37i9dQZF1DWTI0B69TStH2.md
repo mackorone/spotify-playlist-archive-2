@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Polska](https://open.spotify.com/playlist/37i9dQZF1DWTI0B69TStH2)
 
-> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:39XQyulUHjrvqGQ1bo5rtF">barekprzestań</a>
+> Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:1383ErJnn3u9Iwr70nySEI">barekprzestań</a>
 
 4,326 songs - 9 day 21 hr 57 min
 

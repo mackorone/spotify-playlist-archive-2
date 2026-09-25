@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,516 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,511 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 39 | [Hicaz Peşrev](https://open.spotify.com/track/1N8Pw69RyrGh8kw6X0kTBE) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 3:33 |
 | 40 | [Hicazkar Peşrevi](https://open.spotify.com/track/4wMMqnw9FAJRIgWSIK1iYP) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 2:22 |
 | 41 | [Tanbur İle Ferahfezâ Saz Semâîsi](https://open.spotify.com/track/5cx9SXjMVoYi16tcBV8Na4) | [Yüce Gümüş](https://open.spotify.com/artist/4spsJYmxSg9Ku5hDohlxba), [Murat Salim Tokac](https://open.spotify.com/artist/3UOpDDkQgLNhfBHjbt1qnV) | [Nağmeler Evi \(Çocuklar ve Gençler İçin Müzik Kültürü\)](https://open.spotify.com/album/7mjhkkgcXVC2Rp2qdnIMOu) | 5:13 |
-| 42 | [Aşkın ile ey nevcivan](https://open.spotify.com/track/7Mmr4jBoLeDdoRgROd4FbK) | [Münip Utandı](https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR) | [Sevda Yolunda](https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf) | 4:53 |
-| 43 | [Uşşak Peşrev](https://open.spotify.com/track/4d5z3kFaO5eqko6jPKtp1h) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Makamlarla Türk Din Mûsîkisi Eğitim Seti, Vol\. 2 / Uşşak Hicaz](https://open.spotify.com/album/4CKCjlCm0tcc0NaHbPrsNu) | 1:47 |
+| 42 | [Uşşak Peşrev](https://open.spotify.com/track/4d5z3kFaO5eqko6jPKtp1h) | [Ubeydullah Sezikli](https://open.spotify.com/artist/1xiy8XwCNzhZt5hoBKpD9N) | [Makamlarla Türk Din Mûsîkisi Eğitim Seti, Vol\. 2 / Uşşak Hicaz](https://open.spotify.com/album/4CKCjlCm0tcc0NaHbPrsNu) | 1:47 |
+| 43 | [Aşkın ile ey nevcivan](https://open.spotify.com/track/7Mmr4jBoLeDdoRgROd4FbK) | [Münip Utandı](https://open.spotify.com/artist/3RGtIiEh0836q5AXjPAuzR) | [Sevda Yolunda](https://open.spotify.com/album/13lB4t3zb83qlAPIA9qxDf) | 4:53 |
 | 44 | [Sazkar Peşrev](https://open.spotify.com/track/2fWkFDijycAeSC1iQmZLJn) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 5:34 |
 | 45 | [Esinti \(Kürdi Saz Eseri\)](https://open.spotify.com/track/7AzYy0fhkJKkiGE5IUU2hH) | [Pınar Köksal](https://open.spotify.com/artist/5n2N4vhX5SfjiTtLJBM7jZ), [Göksel Baktagir](https://open.spotify.com/artist/5AjOM8Kxmb2hNi9Gq2p9Zp), [Hakan Aysev](https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 4:37 |
 | 46 | [Şarkılar Söylüyorsan \(Nihavent Şarkı\)](https://open.spotify.com/track/4BEPW6QrhMA7FyKcMzuaW8) | [Hakan Aysev](https://open.spotify.com/artist/48cI3r9zpRorKUKiepDyHk) | [Duygu Pinari](https://open.spotify.com/album/7HEzAaqs5mlGQzMYGHljID) | 6:09 |

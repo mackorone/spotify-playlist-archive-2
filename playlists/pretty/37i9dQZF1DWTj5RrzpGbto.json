@@ -1,6 +1,6 @@
 {
   "description": "\u0e23\u0e27\u0e21\u0e17\u0e38\u0e01\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e1e\u0e25\u0e07\u0e2a\u0e32\u0e01\u0e25\u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Miley Cyrus",
-  "num_followers": 33891,
+  "num_followers": 33910,
   "original_name": "\u0e2d\u0e34\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c \u0e2d\u0e34\u0e19\u0e40\u0e15\u0e2d\u0e23\u0e4c Inner Inter",
   "owner": {
     "name": "Spotify",
@@ -123,7 +123,7 @@
     {
       "added_at": "2026-09-18 14:17:32",
       "album": {
-        "name": "Small Town (feat. Gabriel Jacoby)",
+        "name": "Small Town",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
@@ -134,10 +134,14 @@
         {
           "name": "Gabriel Jacoby",
           "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town (feat. Gabriel Jacoby)",
+      "name": "Small Town",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {

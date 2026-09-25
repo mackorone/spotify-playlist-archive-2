@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: The Black Crowes
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,906 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,907 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 38 | [The People's House \(with The War And Treaty\)](https://open.spotify.com/track/77XBtOgLzi7mdSMFPvJqM9) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp), [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [The People's House \(with The War And Treaty\)](https://open.spotify.com/album/0sW2pBU8D2VwVcOQXEYfqA) | 4:25 |
 | 39 | [Wilted Rose \(feat\. Lainey Wilson\)](https://open.spotify.com/track/0JedqBjEii51nak0kCLiVo) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Happiness Bastards](https://open.spotify.com/album/2P9mQHy3lFG8OhPKqg3XeX) | 5:06 |
 | 40 | [Tell Me Why U Do That](https://open.spotify.com/track/4Qnu29eLWDP2KZCiGHdNdh) | [The Hodge Podge](https://open.spotify.com/artist/3JX7toZYBPbth2CCq78kBx) | [Wine On Venus](https://open.spotify.com/album/0jyiNPsHsc940i2MwOBCnB) | 4:38 |
-| 41 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
-| 42 | [Bricks](https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Bricks](https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd) | 3:35 |
+| 41 | [Bricks](https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [Bricks](https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd) | 3:35 |
+| 42 | [smoke & a light](https://open.spotify.com/track/1QvDl9tBq6PsMVE7Bf2ZOV) | [Ole 60](https://open.spotify.com/artist/3iXeAZ8862AyoZ5ZGg800O) | [three twenty four](https://open.spotify.com/album/1KTvTGon7YPfnAAEGnSHBc) | 3:09 |
 | 43 | [Ain't Rocked in a While](https://open.spotify.com/track/6SlbbFk9nML695UuADbXCO) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz), [The Fixin's](https://open.spotify.com/artist/7p0Qfaqk7McuS5iRrxYyLH) | [Ain't Rocked in a While](https://open.spotify.com/album/0Kr5O6qIDaPt4K9m2eTUzU) | 4:41 |
 | 44 | [Til My Heart Don't Beat](https://open.spotify.com/track/0yQHaVoo4kTdzrRgByDkCE) | [A Thousand Horses](https://open.spotify.com/artist/55RI2GNCfyXr0f14uIdhwd) | [The Outside \(Deluxe Album Edition\)](https://open.spotify.com/album/2u3UiV0r30VTHiibNNuYXL) | 1:57 |
 | 45 | [Lie to You](https://open.spotify.com/track/6vuEHF2KMhRyBUiZuOPuCl) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Lie to You](https://open.spotify.com/album/6LoWEtyw51LNXFfDp3EnVV) | 3:38 |

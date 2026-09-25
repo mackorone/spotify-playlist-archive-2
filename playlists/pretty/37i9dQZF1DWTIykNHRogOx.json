@@ -1,13 +1,29 @@
 {
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Grand Corps Malade.",
-  "num_followers": 445365,
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Pomme.",
+  "num_followers": 445356,
   "original_name": "Exception Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIwCR9/kaIvHyZIm6MkQ9pWpYL4L",
+  "snapshot_id": "AAAAAK9fJaCGSiioOmvdR/khy+z6kaQW",
   "tracks": [
+    {
+      "added_at": "2026-09-24 22:01:42",
+      "album": {
+        "name": "seule dans la foule",
+        "url": "https://open.spotify.com/album/5X9dDbpm5lex928d1Ih3Ia"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "seule dans la foule",
+      "url": "https://open.spotify.com/track/3UQhUj6fiwQLRIP0vxOtkZ"
+    },
     {
       "added_at": "2026-09-17 22:01:59",
       "album": {
@@ -59,6 +75,22 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
+        "name": "Seules Ensemble (Mistral Gagnant)",
+        "url": "https://open.spotify.com/album/0u0o5CU46hwKwlna4NT5h6"
+      },
+      "artists": [
+        {
+          "name": "Manon Lisa",
+          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Seules Ensemble (Mistral Gagnant)",
+      "url": "https://open.spotify.com/track/5iCP3wPvrUwIZM0V2kzppV"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
         "name": "sous influence",
         "url": "https://open.spotify.com/album/0AZn8rDfgVMki7b14gtJzP"
       },
@@ -73,20 +105,20 @@
       "url": "https://open.spotify.com/track/5Sj7ykVPBZsbviXmpcJ3NO"
     },
     {
-      "added_at": "2026-09-10 22:00:49",
+      "added_at": "2026-09-17 22:01:59",
       "album": {
-        "name": "Seules Ensemble (Mistral Gagnant)",
-        "url": "https://open.spotify.com/album/0u0o5CU46hwKwlna4NT5h6"
+        "name": "Les rues de l'humanit\u00e9",
+        "url": "https://open.spotify.com/album/5FIqnUxFl3xipo30khaMqC"
       },
       "artists": [
         {
-          "name": "Manon Lisa",
-          "url": "https://open.spotify.com/artist/2qzxrbVBGwJjYOay7mJmhf"
+          "name": "No\u00e9 Preszow",
+          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
         }
       ],
-      "duration_ms": 163000,
-      "name": "Seules Ensemble (Mistral Gagnant)",
-      "url": "https://open.spotify.com/track/5iCP3wPvrUwIZM0V2kzppV"
+      "duration_ms": 280120,
+      "name": "Les rues de l'humanit\u00e9",
+      "url": "https://open.spotify.com/track/4UoZhdSs5oYqwW85pAaTkv"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -109,20 +141,20 @@
       "url": "https://open.spotify.com/track/0paG03UHBFUMUqAcZrlZTa"
     },
     {
-      "added_at": "2026-09-17 22:01:59",
+      "added_at": "2026-09-24 22:01:42",
       "album": {
-        "name": "Les rues de l'humanit\u00e9",
-        "url": "https://open.spotify.com/album/5FIqnUxFl3xipo30khaMqC"
+        "name": "Murailles de Chine",
+        "url": "https://open.spotify.com/album/5wmAeBkWR5yiD79KJPkCIw"
       },
       "artists": [
         {
-          "name": "No\u00e9 Preszow",
-          "url": "https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic"
+          "name": "Mathilda",
+          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
         }
       ],
-      "duration_ms": 280120,
-      "name": "Les rues de l'humanit\u00e9",
-      "url": "https://open.spotify.com/track/4UoZhdSs5oYqwW85pAaTkv"
+      "duration_ms": 228399,
+      "name": "Murailles de Chine",
+      "url": "https://open.spotify.com/track/3HY3ycfpbAYiLGPU1TgYaL"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -143,22 +175,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "Il faut que tu m'attendes",
-        "url": "https://open.spotify.com/album/5gYAmd2Y2Q9xaFiYZASJ3E"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Il faut que tu m'attendes",
-      "url": "https://open.spotify.com/track/1m2gwUIMW2EtbqgmUhn9jo"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "Ce qu'on devient",
         "url": "https://open.spotify.com/album/1rIf7dwV3e6J6TFlQ2UYBs"
       },
@@ -171,6 +187,22 @@
       "duration_ms": 229306,
       "name": "Ce qu\u2019on devient - La cl\u00e9",
       "url": "https://open.spotify.com/track/6AKgRLO2zVrFdEddw0EIWj"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Il faut que tu m'attendes",
+        "url": "https://open.spotify.com/album/5gYAmd2Y2Q9xaFiYZASJ3E"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Il faut que tu m'attendes",
+      "url": "https://open.spotify.com/track/1m2gwUIMW2EtbqgmUhn9jo"
     },
     {
       "added_at": "2026-09-17 22:01:59",
@@ -189,6 +221,38 @@
       "url": "https://open.spotify.com/track/5EuVCfMYvZR15XHPq1LtTt"
     },
     {
+      "added_at": "2026-09-24 22:01:42",
+      "album": {
+        "name": "Ma t\u00eate",
+        "url": "https://open.spotify.com/album/3fBeobQ6JNahWYbZcm4EUY"
+      },
+      "artists": [
+        {
+          "name": "Achile",
+          "url": "https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl"
+        }
+      ],
+      "duration_ms": 187872,
+      "name": "Ma t\u00eate",
+      "url": "https://open.spotify.com/track/1TgOKLcJPvLXWojD035iDT"
+    },
+    {
+      "added_at": "2026-09-24 22:01:42",
+      "album": {
+        "name": "papa la maison s'effondre",
+        "url": "https://open.spotify.com/album/5JLFLOIeGwpqQp4YYI3sH5"
+      },
+      "artists": [
+        {
+          "name": "Alma Rechtman",
+          "url": "https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN"
+        }
+      ],
+      "duration_ms": 179700,
+      "name": "papa la maison s'effondre",
+      "url": "https://open.spotify.com/track/2KHikG96BvB667Z34nA2e9"
+    },
+    {
       "added_at": "2026-09-10 22:00:49",
       "album": {
         "name": "Juste une femme (Rendez-vous Sylvestre - Saison 2)",
@@ -203,6 +267,22 @@
       "duration_ms": 246853,
       "name": "Juste une femme - Rendez-vous Sylvestre - Saison 2",
       "url": "https://open.spotify.com/track/4DIXbnG6kIGmkwwPRzBOHH"
+    },
+    {
+      "added_at": "2026-09-24 22:01:42",
+      "album": {
+        "name": "jardins",
+        "url": "https://open.spotify.com/album/0AjpWFqqO1PQMjyg3nPnM2"
+      },
+      "artists": [
+        {
+          "name": "Rozam",
+          "url": "https://open.spotify.com/artist/3xwQZjgC4Cr2LBmRIUKSs4"
+        }
+      ],
+      "duration_ms": 226498,
+      "name": "jardins",
+      "url": "https://open.spotify.com/track/14BS36ETah5xAuIHVG1qBN"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -259,22 +339,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "Chaussures Roses",
-        "url": "https://open.spotify.com/album/7BbGTT6BxkSEK9nyIzwi8t"
-      },
-      "artists": [
-        {
-          "name": "TeddyBear",
-          "url": "https://open.spotify.com/artist/2wMA0cyQGggqKOjMfUNenu"
-        }
-      ],
-      "duration_ms": 201299,
-      "name": "Chaussures Roses",
-      "url": "https://open.spotify.com/track/4cLspfLk7lebgQMDoZgSKD"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "Pour ce qui nous attend de mieux",
         "url": "https://open.spotify.com/album/74VybRhzx6qlglHu0lWZb6"
       },
@@ -303,22 +367,6 @@
       "duration_ms": 177863,
       "name": "dans dix ans",
       "url": "https://open.spotify.com/track/3UtLuUgIu1112NWvRb4g4G"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "1900 jours",
-        "url": "https://open.spotify.com/album/2XbDLC9ZtqgrZoftlf5j3q"
-      },
-      "artists": [
-        {
-          "name": "Noor",
-          "url": "https://open.spotify.com/artist/3fguWOo99xwsT4VgVeSvJO"
-        }
-      ],
-      "duration_ms": 217338,
-      "name": "Que reste-t-il de moi ?",
-      "url": "https://open.spotify.com/track/3a0qWLvCFukamkr8vNAu7w"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -383,26 +431,6 @@
       "duration_ms": 183453,
       "name": "le dernier verre",
       "url": "https://open.spotify.com/track/1SlMnFKyIbUPvhKHiz2Cab"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "baby",
-        "url": "https://open.spotify.com/album/5ASEDSjwn38h4DsVR3DJfN"
-      },
-      "artists": [
-        {
-          "name": "Nina Battisti",
-          "url": "https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP"
-        },
-        {
-          "name": "Z\u00e9lie",
-          "url": "https://open.spotify.com/artist/0TGeOStDbxqVi8UJdBQsEx"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "baby",
-      "url": "https://open.spotify.com/track/5wTrByjrkQWtaiL5SfUUfr"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -555,22 +583,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "Le oui de trop",
-        "url": "https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ"
-      },
-      "artists": [
-        {
-          "name": "Hermance",
-          "url": "https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "Le oui de trop",
-      "url": "https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "Toi",
         "url": "https://open.spotify.com/album/1huu5TEpezbYR6LB77ZFAL"
       },
@@ -667,26 +679,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "Paris-Madrid",
-        "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
-      },
-      "artists": [
-        {
-          "name": "Emma Hoet",
-          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
-        },
-        {
-          "name": "Inazio",
-          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
-        }
-      ],
-      "duration_ms": 199833,
-      "name": "Paris-Madrid",
-      "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "La f\u00eate",
         "url": "https://open.spotify.com/album/4FKUfsqYJ6eS7hgVVkja6K"
       },
@@ -699,38 +691,6 @@
       "duration_ms": 148148,
       "name": "La f\u00eate",
       "url": "https://open.spotify.com/track/5Qw51GBTb1kkFuGO9otYdZ"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "DANS LE LOINTAIN DE TA VOIX,",
-        "url": "https://open.spotify.com/album/4RZKuT6mq1LPZCMZ5yvtVF"
-      },
-      "artists": [
-        {
-          "name": "Lonepsi",
-          "url": "https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef"
-        }
-      ],
-      "duration_ms": 285334,
-      "name": "DANS LE LOINTAIN DE TA VOIX",
-      "url": "https://open.spotify.com/track/1OpHQ93V8O2l4v3tmqKGdx"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "\u00e9ni\u00e8me chance",
-        "url": "https://open.spotify.com/album/2KvetfZ8OEpqRTLCkznGEc"
-      },
-      "artists": [
-        {
-          "name": "Ellie Becker",
-          "url": "https://open.spotify.com/artist/7sk2rTrxeJHTBisizDA42q"
-        }
-      ],
-      "duration_ms": 153429,
-      "name": "\u00e9ni\u00e8me chance",
-      "url": "https://open.spotify.com/track/5uQcQJsVSBMWsfh7yq7cBL"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -751,22 +711,6 @@
     {
       "added_at": "2026-09-10 22:00:49",
       "album": {
-        "name": "samedi soir",
-        "url": "https://open.spotify.com/album/2aow7C3utYGjkFocqt5Pvr"
-      },
-      "artists": [
-        {
-          "name": "Mathilda",
-          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
-        }
-      ],
-      "duration_ms": 227572,
-      "name": "samedi soir",
-      "url": "https://open.spotify.com/track/43mwnf4oJZJm4tBnFA4kQx"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
         "name": "Maman",
         "url": "https://open.spotify.com/album/0gxk8tI9M0cupnLHBaQUjw"
       },
@@ -779,22 +723,6 @@
       "duration_ms": 167666,
       "name": "Maman",
       "url": "https://open.spotify.com/track/4rDiyfZtqk03FTzQ4M8tg4"
-    },
-    {
-      "added_at": "2026-09-10 22:00:49",
-      "album": {
-        "name": "Les mots blessent",
-        "url": "https://open.spotify.com/album/1xof0wVd4NHl6GD39ay3iw"
-      },
-      "artists": [
-        {
-          "name": "Ariane Bonzini",
-          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
-        }
-      ],
-      "duration_ms": 166346,
-      "name": "Les mots blessent",
-      "url": "https://open.spotify.com/track/4B1bOtFHzttyas5Q0dTU9Y"
     },
     {
       "added_at": "2026-09-10 22:00:49",
@@ -839,6 +767,74 @@
       "duration_ms": 202523,
       "name": "ENTRE TON \u00c9PAULE ET TON COEUR",
       "url": "https://open.spotify.com/track/6qoMOknWFZt2fQt22iyzgZ"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Paris-Madrid",
+        "url": "https://open.spotify.com/album/3E2yaamBfiBRJ0EeL45NvH"
+      },
+      "artists": [
+        {
+          "name": "Emma Hoet",
+          "url": "https://open.spotify.com/artist/2XPd4InVAVACQRNm6DLIz9"
+        },
+        {
+          "name": "Inazio",
+          "url": "https://open.spotify.com/artist/29KrMIwUUqCvc66OHLcSMl"
+        }
+      ],
+      "duration_ms": 199833,
+      "name": "Paris-Madrid",
+      "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Le oui de trop",
+        "url": "https://open.spotify.com/album/0QeRyd738esLR0TzLAOybQ"
+      },
+      "artists": [
+        {
+          "name": "Hermance",
+          "url": "https://open.spotify.com/artist/06pkb3CsbufVE05fENCofS"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "Le oui de trop",
+      "url": "https://open.spotify.com/track/5ScGdXCeK36i7hQKGzei4D"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "Les mots blessent",
+        "url": "https://open.spotify.com/album/1xof0wVd4NHl6GD39ay3iw"
+      },
+      "artists": [
+        {
+          "name": "Ariane Bonzini",
+          "url": "https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz"
+        }
+      ],
+      "duration_ms": 166346,
+      "name": "Les mots blessent",
+      "url": "https://open.spotify.com/track/4B1bOtFHzttyas5Q0dTU9Y"
+    },
+    {
+      "added_at": "2026-09-10 22:00:49",
+      "album": {
+        "name": "DANS LE LOINTAIN DE TA VOIX,",
+        "url": "https://open.spotify.com/album/4RZKuT6mq1LPZCMZ5yvtVF"
+      },
+      "artists": [
+        {
+          "name": "Lonepsi",
+          "url": "https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef"
+        }
+      ],
+      "duration_ms": 285334,
+      "name": "DANS LE LOINTAIN DE TA VOIX",
+      "url": "https://open.spotify.com/track/1OpHQ93V8O2l4v3tmqKGdx"
     }
   ],
   "unique_name": "Exception Fran\u00e7aise",

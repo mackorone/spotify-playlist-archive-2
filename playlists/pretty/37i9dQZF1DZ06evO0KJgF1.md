@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 
 > This is Siouxsie and the Banshees\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,822 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,832 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0KJgF1.md) - [plain]
 | 49 | [Dizzy](https://open.spotify.com/track/3cm2QfZeXa9Kk1au1tYgKH) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Best Of...](https://open.spotify.com/album/7AfRVBG3Kgmo9TkX4pChPX) | 3:10 |
 | 50 | [Nicotine Stain](https://open.spotify.com/track/6ZapnnfYEywUlViWjOCkJZ) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:57 |
 
-Snapshot ID: `arHFAAAAAABBzK5PDNvU0RruqbewMSi4`
+Snapshot ID: `arMWgAAAAAAJnBHWy7NHombr7Igd3Nrm`

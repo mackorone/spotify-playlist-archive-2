@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 
 > The calming space of Japanese Ambient and Environmental music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,929 likes - 150 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,995 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 129 | [splashes of ink](https://open.spotify.com/track/7CH9rwUG0SOkgIHpNNzjKX) | [Nathan Kawanishi](https://open.spotify.com/artist/2Jo4Zz3YTkRH5hq65BFMqe) | [splashes of ink / yours to give](https://open.spotify.com/album/5CnrS3T44HOFOF98wfncUj) | 1:51 |
 | 130 | [cave](https://open.spotify.com/track/7BZHpOPd7j32zqgPF0kvFN) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [cave](https://open.spotify.com/album/3tyvmRkGhMPT8ZlGLTSXBP) | 2:26 |
 | 131 | [When the Planets Align2040 To the next future](https://open.spotify.com/track/0XEfObHLoTTHWSw5hGzcZs) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [When the Planets Align2040 To the next future](https://open.spotify.com/album/2JEFR4wer5OWZOCPMFNd7U) | 3:01 |
-| 132 | [On Your Side](https://open.spotify.com/track/311dAPDVuWrPKkWRMB5ykc) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 2:44 |
-| 133 | [Glow Echoes](https://open.spotify.com/track/3OZzkDFsPq2YAc1W0oj0Fq) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Glow Echoes](https://open.spotify.com/album/0mS2ZCqn39ImH8V4xrIyD3) | 2:26 |
+| 132 | [Glow Echoes](https://open.spotify.com/track/3OZzkDFsPq2YAc1W0oj0Fq) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Glow Echoes](https://open.spotify.com/album/0mS2ZCqn39ImH8V4xrIyD3) | 2:26 |
+| 133 | [On Your Side](https://open.spotify.com/track/311dAPDVuWrPKkWRMB5ykc) | [Ex Confusion](https://open.spotify.com/artist/2L74iwWkXmtJwADx8DoK1E) | [With Love](https://open.spotify.com/album/4tk08ZYNtt6I5GMesH7ODT) | 2:44 |
 | 134 | [Respiro, Life and Fallen Leaves](https://open.spotify.com/track/4hQdPxjmJh4WA1iUMcOQ3j) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [KOMOREVIA](https://open.spotify.com/album/2W0deqWRQnSdvfJOccMtSw) | 4:52 |
 | 135 | [Central Park](https://open.spotify.com/track/18KUtO1EEiOZ5ckovwf1hg) | [Hirotaka Shirotsubaki](https://open.spotify.com/artist/5ujHOCDCgJcR25vPFKlQ9N) | [Music for Artificial Island 1989](https://open.spotify.com/album/2UyhZ8DAj7pqTwJ3x13lnX) | 7:27 |
 | 136 | [IQAMURAH](https://open.spotify.com/track/0JITO1cwdcgGeUHltqryMK) | [Vasola Punte](https://open.spotify.com/artist/3rxpGR9QZLc6tsY3N7lAOF), [あだち麗三郎](https://open.spotify.com/artist/03lyogJ68lBASFzxRFVXuc), [高橋佳輝](https://open.spotify.com/artist/2IsDNMbLD0WwWxGwjJ70uH), [髙野なつみ](https://open.spotify.com/artist/3zrLn8jCzac4cDpi6ppXc2) | [Vasola Punte](https://open.spotify.com/album/1GPUvMxysCvpFlrrt33mKY) | 5:24 |
@@ -152,9 +152,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5pzlFKAwpZ5.md) - [plain]
 | 142 | [londonderry air](https://open.spotify.com/track/0L7Xe1keIzxfM5Hvj6GYxD) | [Shin Ichikawa](https://open.spotify.com/artist/0WIG2j7spGdLcNdYMdruHk) | [londonderry air](https://open.spotify.com/album/6eIWDpw9ILjf5JtsUCedFj) | 3:01 |
 | 143 | [Dim Light](https://open.spotify.com/track/2EmAidvtoBJ2FghwnhmMh5) | [Koji Ishikura](https://open.spotify.com/artist/53sLrXzxyCQ8ODetySQpzV) | [Dim Light](https://open.spotify.com/album/7GqOGHa2rxi8eUncQBM437) | 2:54 |
 | 144 | [spiral energy](https://open.spotify.com/track/2pzqw1FKgDn5TkU7H4eSZI) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [spiral energy](https://open.spotify.com/album/727np887ncP1RuxuHNtLK8) | 2:57 |
-| 145 | [shade](https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [shade](https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc) | 1:53 |
-| 146 | [瀞](https://open.spotify.com/track/7mQ64B0n9VQcMoG5aAMegd) | [IRIS SOUND](https://open.spotify.com/artist/4Cr8PKJ9fHZen9mL3bhE76), [Purukichi](https://open.spotify.com/artist/2j06qdGwmgx45EszFi5yIR) | [瀞](https://open.spotify.com/album/6vHHzpe6BQIpZDxyyHXGfE) | 3:23 |
-| 147 | [Shimmer](https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 7:02 |
+| 145 | [Shimmer](https://open.spotify.com/track/0jTvgpEHQm15hXWJduwQMf) | [Sachi Kobayashi](https://open.spotify.com/artist/7qYpCU93Ep6tVZTOJyg8bT) | [More Than Just A Dream](https://open.spotify.com/album/6u8pXIHQWiMsPjFxdLQkuJ) | 7:02 |
+| 146 | [shade](https://open.spotify.com/track/0zhXJbm2XFEFT8IbrLC9xs) | [Masafumi Teruyama](https://open.spotify.com/artist/7JvohrvesZBdTIDC2r1n7P) | [shade](https://open.spotify.com/album/3T08Liy3UPVFNsus9qNexc) | 1:53 |
+| 147 | [瀞](https://open.spotify.com/track/7mQ64B0n9VQcMoG5aAMegd) | [IRIS SOUND](https://open.spotify.com/artist/4Cr8PKJ9fHZen9mL3bhE76), [Purukichi](https://open.spotify.com/artist/2j06qdGwmgx45EszFi5yIR) | [瀞](https://open.spotify.com/album/6vHHzpe6BQIpZDxyyHXGfE) | 3:23 |
 | 148 | [The Light of the Moon](https://open.spotify.com/track/2mSK2CRkuK2S00KS4cPrFq) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [Blue Corridor](https://open.spotify.com/album/5yi8EGpyAovKwdgEyET2XS) | 3:34 |
 | 149 | [Harmonia session1](https://open.spotify.com/track/3mtdyzuxclQOl1TMsAgFkp) | [Akisai](https://open.spotify.com/artist/1XY5waae0wXhCO7Nuz3SF5) | [Harmonia](https://open.spotify.com/album/2vVclPk57QHgrQTu75fb9U) | 3:05 |
 | 150 | [Dear \- Haruhisa Tanaka Remix](https://open.spotify.com/track/2ywToZCo1xMtpjNiajUN15) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD), [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Dear \(Haruhisa Tanaka Remix\)](https://open.spotify.com/album/31gQHe5f40ebWcPxgUyUG3) | 2:10 |

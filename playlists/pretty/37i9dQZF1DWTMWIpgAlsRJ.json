@@ -1,6 +1,6 @@
 {
   "description": "The Ultimate EA SPORTS FC Playlist: a celebration of The World's Game, curated specially for you.",
-  "num_followers": 396500,
+  "num_followers": 396488,
   "original_name": "EA SPORTS FC Ultimate Mix",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,26 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "STORM",
+        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
+      },
+      "artists": [
+        {
+          "name": "GENER8ION",
+          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
+        },
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 173433,
+      "name": "STORM II",
+      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "Yo x Ti, Tu x Mi",
         "url": "https://open.spotify.com/album/3844bY26oeSkqd06th4EYp"
       },
@@ -451,26 +471,6 @@
       "duration_ms": 180952,
       "name": "you should see me in a crown",
       "url": "https://open.spotify.com/track/3XF5xLJHOQQRbWya6hBp7d"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "STORM",
-        "url": "https://open.spotify.com/album/6QaIcWWsEpkU9ybIP8mMZA"
-      },
-      "artists": [
-        {
-          "name": "GENER8ION",
-          "url": "https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o"
-        },
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 173433,
-      "name": "STORM II",
-      "url": "https://open.spotify.com/track/0FZd4IaxB12sUTKSUUGwWq"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Eatin' Good",
-        "url": "https://open.spotify.com/album/0gkfLE2QiTHvEBO8qhHrKT"
-      },
-      "artists": [
-        {
-          "name": "Woodcamp",
-          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
-        }
-      ],
-      "duration_ms": 221904,
-      "name": "Eatin' Good",
-      "url": "https://open.spotify.com/track/26KX3FKbPnvDjJGkbOfANs"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Dying In Reverse",
         "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 234276,
       "name": "Dying In Reverse",
       "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Eatin' Good",
+        "url": "https://open.spotify.com/album/0gkfLE2QiTHvEBO8qhHrKT"
+      },
+      "artists": [
+        {
+          "name": "Woodcamp",
+          "url": "https://open.spotify.com/artist/4X4OIDYqg755pwdswXUXb3"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "Eatin' Good",
+      "url": "https://open.spotify.com/track/26KX3FKbPnvDjJGkbOfANs"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Woodstock",
-        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
+        "name": "Dance Dance Dance!",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
         }
       ],
-      "duration_ms": 246786,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance!",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Dance Dance Dance!",
-        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 217797,
-      "name": "Dance Dance Dance!",
-      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+      "duration_ms": 246786,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Colors (Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM)",
-        "url": "https://open.spotify.com/album/7pglizAVl7fH7acLADSS8d"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 187389,
-      "name": "Colors - Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM",
-      "url": "https://open.spotify.com/track/7wD6iRghe6SnKHkvHqpnC5"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Dance, No One's Watching",
         "url": "https://open.spotify.com/album/2BwKd9lWotQIhROHSWQ78h"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 239306,
       "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
       "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Colors (Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM)",
+        "url": "https://open.spotify.com/album/7pglizAVl7fH7acLADSS8d"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 187389,
+      "name": "Colors - Coca-Cola\u00ae Anthem, 2018 FIFA World CupTM",
+      "url": "https://open.spotify.com/track/7wD6iRghe6SnKHkvHqpnC5"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Hook Me Up",
-        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
-      },
-      "artists": [
-        {
-          "name": "The Veronicas",
-          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
-        }
-      ],
-      "duration_ms": 255360,
-      "name": "Untouched",
-      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Orla",
         "url": "https://open.spotify.com/album/7wdlY46kyc6xqANNpog05O"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 205190,
       "name": "Orla",
       "url": "https://open.spotify.com/track/0VFmkwR6SCmT7TIJThlCn9"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Hook Me Up",
+        "url": "https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37"
+      },
+      "artists": [
+        {
+          "name": "The Veronicas",
+          "url": "https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln"
+        }
+      ],
+      "duration_ms": 255360,
+      "name": "Untouched",
+      "url": "https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 238786,
+      "name": "Call It What You Want",
+      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
         "name": "Your Love (Antdot Remix)",
         "url": "https://open.spotify.com/album/5IWlETbudB9LdBT2BHVhSw"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 177541,
       "name": "Your Love - Antdot Remix",
       "url": "https://open.spotify.com/track/4SylEKPh0HWqJep7CfISHk"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 238786,
-      "name": "Call It What You Want",
-      "url": "https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1335,30 +1335,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Weak",
-        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
-        },
-        {
-          "name": "Tom Breu",
-          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Weak",
-      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "places to be",
         "url": "https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ"
       },
@@ -1379,6 +1355,30 @@
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Weak",
+        "url": "https://open.spotify.com/album/7M457yfuVeLaiYrtiKTvqn"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        },
+        {
+          "name": "Tom Breu",
+          "url": "https://open.spotify.com/artist/4Y4jZlaPkgIlzMp6kmcr9h"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Weak",
+      "url": "https://open.spotify.com/track/62gzfhHi2supfHWfi6iHbA"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 159791,
-      "name": "Soy Yo",
-      "url": "https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Colors Collide",
         "url": "https://open.spotify.com/album/6LBcn5Cx8AEo0dBHy8cGRb"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 215170,
       "name": "Colors Collide",
       "url": "https://open.spotify.com/track/5pj1lxRJRonuzTu8DfsbUz"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 159791,
+      "name": "Soy Yo",
+      "url": "https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "afroLOVA 25'",
-        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 157837,
-      "name": "UYUNI",
-      "url": "https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v"
-    },
-    {
-      "added_at": "2026-09-22 20:34:58",
-      "album": {
         "name": "Konk",
         "url": "https://open.spotify.com/album/37he52Ye10gETvnot9bC2t"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2026-09-22 20:34:58",
       "album": {
-        "name": "Don't You Worry, Honey",
-        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
+        "name": "afroLOVA 25'",
+        "url": "https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm"
       },
       "artists": [
         {
-          "name": "Sir Sly",
-          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 226587,
-      "name": "&Run",
-      "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
+      "duration_ms": 157837,
+      "name": "UYUNI",
+      "url": "https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v"
     },
     {
       "added_at": "2026-09-22 20:34:58",
@@ -1747,6 +1731,22 @@
       "duration_ms": 164000,
       "name": "Gold",
       "url": "https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea"
+    },
+    {
+      "added_at": "2026-09-22 20:34:58",
+      "album": {
+        "name": "Don't You Worry, Honey",
+        "url": "https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4"
+      },
+      "artists": [
+        {
+          "name": "Sir Sly",
+          "url": "https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue"
+        }
+      ],
+      "duration_ms": 226587,
+      "name": "&Run",
+      "url": "https://open.spotify.com/track/0w4m3Xp4svlIoyL94Zjlyd"
     }
   ],
   "unique_name": "EA SPORTS FC Ultimate Mix",

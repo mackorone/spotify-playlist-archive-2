@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: LYKN",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PIDE from GELBOYS 2",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -938,7 +938,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 212000,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/06BpRg0JXjnUmjtOZjZT3U"
@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180000,
       "name": "CHOOSE OR CHOICE",
       "url": "https://open.spotify.com/track/6daUWqD50ftFDstJdoLJzr"
@@ -1529,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "DUST",
+        "url": "https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "DUSTY",
+      "url": "https://open.spotify.com/track/5mllbepsjuNZPax6LX1tuW"
+    },
+    {
+      "album": {
         "name": "Ear Candy",
         "url": "https://open.spotify.com/album/0aEItI48aZfC4tRq7GKuCv"
       },
@@ -1540,7 +1558,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 163269,
       "name": "Ear Candy",
       "url": "https://open.spotify.com/track/5wyGzcMNmHmUAXTQnV1BKh"
@@ -3718,7 +3736,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 237952,
       "name": "ONE PIECE",
       "url": "https://open.spotify.com/track/5UEV17A5Ym0CrJBTjYjFv8"
@@ -5240,6 +5258,28 @@
       "duration_ms": 255652,
       "name": "UNIVERSE",
       "url": "https://open.spotify.com/track/4EDV6Z87agVcJFvLBtPekZ"
+    },
+    {
+      "album": {
+        "name": "unsend (\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49)",
+        "url": "https://open.spotify.com/album/6n2hjQ8eLXCGr8LLaed006"
+      },
+      "artists": [
+        {
+          "name": "JETAIME",
+          "url": "https://open.spotify.com/artist/4DImmn6dNLKXoV6KsC17tu"
+        },
+        {
+          "name": "Janus",
+          "url": "https://open.spotify.com/artist/1SziLCWE3UgRYFqNDFbYAz"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262857,
+      "name": "unsend (\u0e40\u0e01\u0e47\u0e1a\u0e44\u0e27\u0e49)",
+      "url": "https://open.spotify.com/track/047ii8AyYNBQFigrAv1XBR"
     },
     {
       "album": {
@@ -9637,6 +9677,24 @@
     },
     {
       "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32",
+        "url": "https://open.spotify.com/album/7Luok1GvB5cGOD4cQicI1D"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211821,
+      "name": "\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32",
+      "url": "https://open.spotify.com/track/3vJ6KgtaCKcfsLtQT6LoQ4"
+    },
+    {
+      "album": {
         "name": "\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e04\u0e23\u0e31\u0e1a (Only One) (From\"\u0e01\u0e35\u0e48\u0e2b\u0e21\u0e37\u0e48\u0e19\u0e1f\u0e49\u0e32 Your Sky Series\")",
         "url": "https://open.spotify.com/album/3SHIK3XoVswlslYKw4Qn83"
       },
@@ -10424,7 +10482,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 227000,
       "name": "\u0e1c\u0e25\u0e02\u0e49\u0e32\u0e07\u0e40\u0e04\u0e35\u0e22\u0e07 (Love Effects)",
       "url": "https://open.spotify.com/track/51oHM0kPw2uCIIqhSj9e6B"
@@ -12558,7 +12616,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 187653,
       "name": "\u0e25\u0e49\u0e21\u0e14\u0e35\u0e25 - From \"\u0e17\u0e35\u0e48\u0e23\u0e31\u0e01\u0e2a\u0e32\u0e23\u0e27\u0e31\u0e15\u0e23\u0e40\u0e18\u0e35\u0e22\u0e23\u0e4c\"",
       "url": "https://open.spotify.com/track/3cdbM5cBGMu1gx92AFuCIW"
@@ -15610,7 +15668,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 199310,
       "name": "\u0e40\u0e21\u0e30\u0e15\u0e34\u0e4b\u0e21\u0e23\u0e31\u0e01\u0e40\u0e04\u0e30\u0e01\u0e25\u0e49\u0e32\u0e21 (Uke-Seme) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
       "url": "https://open.spotify.com/track/0FaODv61T7CZGfEECPW9W4"
@@ -16747,6 +16805,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e1f\u0e19\u0e04\u0e25\u0e31\u0e1aNo\u0e41\u0e1f\u0e19\u0e04\u0e23\u0e31\u0e1a (No Fankub) [From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19]",
+        "url": "https://open.spotify.com/album/1gnbCXptB5UR6POjPURvui"
+      },
+      "artists": [
+        {
+          "name": "PIDE",
+          "url": "https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183984,
+      "name": "\u0e41\u0e1f\u0e19\u0e04\u0e25\u0e31\u0e1aNo\u0e41\u0e1f\u0e19\u0e04\u0e23\u0e31\u0e1a (No Fankub) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
+      "url": "https://open.spotify.com/track/4TQokJkD0O2wujHK2zUDGD"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e1f\u0e19\u0e09\u0e31\u0e19 (Love Ads)",
         "url": "https://open.spotify.com/album/5XPZJ2Rh52WC9sWuRr3U5U"
       },
@@ -17124,6 +17200,24 @@
       "duration_ms": 178222,
       "name": "\u0e42\u0e0b\u0e4a\u0e30 \u0e40\u0e14\u0e34\u0e49\u0e19 (SO DERN)",
       "url": "https://open.spotify.com/track/4eEiV5ADRuqA9RFyQpZapp"
+    },
+    {
+      "album": {
+        "name": "\u0e42\u0e14\u0e19 (DON'T)",
+        "url": "https://open.spotify.com/album/5bRFY2ZHcoD4JdZCddRZMP"
+      },
+      "artists": [
+        {
+          "name": "VIIS (\u0e27\u0e34\u0e2a)",
+          "url": "https://open.spotify.com/artist/0PDZDpg6VsAznmLDVxP2au"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206029,
+      "name": "\u0e42\u0e14\u0e19 (DON'T)",
+      "url": "https://open.spotify.com/track/26vPhbb6Wa58BG9uBhfATa"
     },
     {
       "album": {
@@ -17528,6 +17622,24 @@
       "duration_ms": 252100,
       "name": "\u0e43\u0e0a\u0e48\u0e40\u0e18\u0e2d\u0e2b\u0e23\u0e37\u0e2d\u0e40\u0e1b\u0e25\u0e48\u0e32 (Afraid)",
       "url": "https://open.spotify.com/track/59EGUetYNGfeVowGajDXzh"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e0a\u0e49\u0e43\u0e08 (By Heart) [\u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"You Maniac \u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e08\u0e30\u0e23\u0e31\u0e01\u0e0b\u0e30\u0e43\u0e2b\u0e49\u0e1a\u0e49\u0e32\"]",
+        "url": "https://open.spotify.com/album/43FTkVWn4z6T5TxZaMWnSz"
+      },
+      "artists": [
+        {
+          "name": "Est Supha",
+          "url": "https://open.spotify.com/artist/1Huc366KRzo3Y1GWnnuFLO"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201130,
+      "name": "\u0e43\u0e0a\u0e49\u0e43\u0e08 (By Heart) - \u0e40\u0e1e\u0e25\u0e07\u0e1b\u0e23\u0e30\u0e01\u0e2d\u0e1a\u0e0b\u0e35\u0e23\u0e35\u0e2a\u0e4c \"You Maniac \u0e40\u0e14\u0e35\u0e4b\u0e22\u0e27\u0e08\u0e30\u0e23\u0e31\u0e01\u0e0b\u0e30\u0e43\u0e2b\u0e49\u0e1a\u0e49\u0e32\"",
+      "url": "https://open.spotify.com/track/3XUYD2WhkiK1rDWxdRB45U"
     },
     {
       "album": {
@@ -18136,6 +18248,24 @@
       "duration_ms": 166914,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e25\u0e48\u0e19\u0e14\u0e34 (No Cap)",
       "url": "https://open.spotify.com/track/2kZN6KlhK2S9AP0I1312yg"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e47\u0e19\u0e0a\u0e2d\u0e1a (Denied)",
+        "url": "https://open.spotify.com/album/0dJShb4dmHilQkSudQaPU1"
+      },
+      "artists": [
+        {
+          "name": "NANON",
+          "url": "https://open.spotify.com/artist/15A3eJ05XZObM0QEh1zfTo"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178560,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e2b\u0e47\u0e19\u0e0a\u0e2d\u0e1a (Denied)",
+      "url": "https://open.spotify.com/track/4wTaXdUMwx7wFjt1uc4veL"
     },
     {
       "album": {

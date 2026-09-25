@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,669 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,719 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 6 | [Burn it Down \(feat\. Leon Bridges\)](https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Burn It Down \(feat\. Leon Bridges\)](https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM) | 4:11 |
 | 7 | [Amen](https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 3:17 |
 | 8 | [Let It Burn](https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 3:44 |
-| 9 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:15 |
-| 10 | [High Noon \(feat\. Gunna\)](https://open.spotify.com/track/2dxJQIhkfXnpAkDv3kSvmt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 2:30 |
+| 9 | [High Noon \(feat\. Gunna\)](https://open.spotify.com/track/2dxJQIhkfXnpAkDv3kSvmt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 2:30 |
+| 10 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:15 |
 | 11 | [Blink Twice](https://open.spotify.com/track/213uaappJODsexwkR9rxhS) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 2:36 |
 | 12 | [Last Of My Kind \(feat\. Paul Cauthen\)](https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:21 |
 | 13 | [Let 'Em Know](https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let 'Em Know](https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc) | 3:00 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 39 | [Lonely \(with Shaboozey\)](https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:20 |
 | 40 | [Faithfully](https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:39 |
 
-Snapshot ID: `arHFAAAAAAC9UnsXhojQf6IWoPEQXCGY`
+Snapshot ID: `arMWgAAAAABi9jhFObZx86w2LiwN5YNW`

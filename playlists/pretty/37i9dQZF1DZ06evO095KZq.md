@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,712 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,753 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 49 | [Los Cuervos](https://open.spotify.com/track/6hwecQOSqCplz3u22e92gl) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Coronas Doradas](https://open.spotify.com/album/6ABTPCdPVk8GTqNsuWNcob) | 2:47 |
 | 50 | [La Mera Verdura](https://open.spotify.com/track/4tu4meJwua2TMNYU0gh3oV) | [Superiores de Nuevo Leon](https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Mera Verdura](https://open.spotify.com/album/76XJZfWXmSTja9OkkEhvJ3) | 2:20 |
 
-Snapshot ID: `arHFAAAAAADpALuAOPdgsHJxqUiUuvr+`
+Snapshot ID: `arMWgAAAAAAjSbWno0xFcJQrsYd/KW70`

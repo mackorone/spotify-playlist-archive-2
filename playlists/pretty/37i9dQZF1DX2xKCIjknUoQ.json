@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 220600,
+  "num_followers": 220599,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "Coming Out (Standard)",
-        "url": "https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm"
-      },
-      "artists": [
-        {
-          "name": "Les Fatals Picards",
-          "url": "https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz"
-        }
-      ],
-      "duration_ms": 232773,
-      "name": "Le retour \u00e0 la terre",
-      "url": "https://open.spotify.com/track/715zIQcEj658KTFby8MJYp"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "La cerise",
         "url": "https://open.spotify.com/album/5sN0weTtwIRLDQmbvXG6XC"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 215760,
       "name": "La cerise",
       "url": "https://open.spotify.com/track/2quLcKfpSNzpnqSnR41MA5"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "Coming Out (Standard)",
+        "url": "https://open.spotify.com/album/7k8ONKDSNThARwHLKnm2Tm"
+      },
+      "artists": [
+        {
+          "name": "Les Fatals Picards",
+          "url": "https://open.spotify.com/artist/3oaj9AlMadVi3FkChhwFAz"
+        }
+      ],
+      "duration_ms": 232773,
+      "name": "Le retour \u00e0 la terre",
+      "url": "https://open.spotify.com/track/715zIQcEj658KTFby8MJYp"
     },
     {
       "added_at": "2025-11-13 09:07:41",

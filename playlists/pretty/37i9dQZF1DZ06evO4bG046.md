@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 
 > This is Los Jaivas\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,996 likes - 50 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,998 likes - 50 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 25 | [Canción del Sur](https://open.spotify.com/track/3QpRCEJpMHzoqZIY8OjgGw) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 7:41 |
 | 26 | [Antigua América](https://open.spotify.com/track/4AgZfnB0Z1gtYAV5sdVD9y) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Alturas de Macchu Picchu](https://open.spotify.com/album/0HfcoysEsReQ58uWJSu5sk) | 5:39 |
 | 27 | [Corre Que Te Pillo](https://open.spotify.com/track/7ynwdIuc9g4jjw0blnVnVB) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 9:46 |
-| 28 | [Run Run Se Fue Pa'l Norte](https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 5:14 |
-| 29 | [Vergüenza Ajena](https://open.spotify.com/track/6ZwYH70Fvk8sEFG3lah8ud) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ) | 2:50 |
+| 28 | [Vergüenza Ajena](https://open.spotify.com/track/6ZwYH70Fvk8sEFG3lah8ud) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ) | 2:50 |
+| 29 | [Run Run Se Fue Pa'l Norte](https://open.spotify.com/track/6m49CvvCsitRLdWrOCH7hx) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 5:14 |
 | 30 | [Cholito Pantalón Blanco](https://open.spotify.com/track/20SP3B4f0aXF4MVVsFAtty) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 5:02 |
-| 31 | [Guajira Cosmica](https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 7:59 |
-| 32 | [Debajo de las Higueras](https://open.spotify.com/track/7ukGH5jqrIyuTxyF8vXIvG) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 3:29 |
+| 31 | [Debajo de las Higueras](https://open.spotify.com/track/7ukGH5jqrIyuTxyF8vXIvG) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Aconcagua](https://open.spotify.com/album/01P0MFmOib4bDtRcxdfEbk) | 3:29 |
+| 32 | [Guajira Cosmica](https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Los Jaivas](https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo) | 7:59 |
 | 33 | [La Quebrá del Ají \- 2020 Remasterizado](https://open.spotify.com/track/4DcL14AtBwYVpCKq5Lvz2a) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 4:43 |
 | 34 | [Arauco Tiene una Pena](https://open.spotify.com/track/0vKUJJBOWh8hhwJA2xOU2j) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 11:07 |
 | 35 | [Indio Hermano \- Versión 1996](https://open.spotify.com/track/2qvdu1d8aO0TvT3jRoxSZ6) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Trilogía el Rencuentro](https://open.spotify.com/album/0INTpo6ighKQ7lGmK0FWsH) | 6:01 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bG046.md) - [plain]
 | 45 | [Arrebol](https://open.spotify.com/track/4GfyC2qJ8hCsbeNdyPnJAT) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Arrebol](https://open.spotify.com/album/6G6mZ0b2SzKv3391GZYdb0) | 6:48 |
 | 46 | [Bebida Mágica](https://open.spotify.com/track/2LBpm2M9rwdheZz6mARVfu) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Canción del Sur](https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA) | 2:59 |
 | 47 | [Cueca de los Refranes](https://open.spotify.com/track/3UTU8kXLW6r8B7H2FjhjTG) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Palomita Blanca](https://open.spotify.com/album/0cTJJ912Yci0ISbAqdECkZ) | 2:01 |
-| 48 | [Pololeo por Computer](https://open.spotify.com/track/2J4wMsCNwvGe3fOPxsPiYv) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [En el Bar\-Restaurant "Lo Que Nunca Se Supo"](https://open.spotify.com/album/3adOUZHS6IpCpKI8Vl3UFW) | 2:34 |
-| 49 | [Ayer Cache \- 2020 Remasterizado](https://open.spotify.com/track/3CGulbIk6Zsc7h8UDjvRep) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 4:21 |
+| 48 | [Ayer Cache \- 2020 Remasterizado](https://open.spotify.com/track/3CGulbIk6Zsc7h8UDjvRep) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [La Ventana \(Remasterizado 2020\)](https://open.spotify.com/album/6TKiJjr8lQOcO6FpRGkg6N) | 4:21 |
+| 49 | [Pololeo por Computer](https://open.spotify.com/track/2J4wMsCNwvGe3fOPxsPiYv) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [En el Bar\-Restaurant "Lo Que Nunca Se Supo"](https://open.spotify.com/album/3adOUZHS6IpCpKI8Vl3UFW) | 2:34 |
 | 50 | [Y Arriba Quemando el Sol](https://open.spotify.com/track/6imqwirgq3MR9N5ovQltDI) | [Los Jaivas](https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT) | [Obras de Violeta Parra](https://open.spotify.com/album/1TBM4bR0WDcR1kBdU4gC4D) | 11:03 |
 
-Snapshot ID: `arHFAAAAAAD1nFrVnQEEzhirdRmVQKss`
+Snapshot ID: `arMWgAAAAABU14vS1ACVoIhxhzZ82jJ5`

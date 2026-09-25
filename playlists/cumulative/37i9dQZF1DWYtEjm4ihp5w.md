@@ -4,7 +4,7 @@
 
 > Cover: ElGrandeToto
 
-557 songs - 1 day 4 hr 49 min
+559 songs - 1 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [GOD DAYM](https://open.spotify.com/track/3Pd9OfLtlGKdXVgXHO6ldN) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [SPLIT](https://open.spotify.com/album/0v2yXgpOX31IRK27a8dcq3) | 2:28 | 2026-03-27 | 2026-06-10 |
 | [Gova](https://open.spotify.com/track/2poCHmrHxB704EPoQ1GdcU) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gova](https://open.spotify.com/album/1eSWpdKHSupOJeAtTGKUul) | 3:42 | 2022-11-14 | 2023-04-09 |
 | [Gueule tapée](https://open.spotify.com/track/6h8Q07MtQBabHOjObg1a57) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Gueule tapée](https://open.spotify.com/album/1yfFlOQRzc88m1ba79InmM) | 3:26 | 2022-11-14 | 2023-06-23 |
+| [GUNMAN DANCING](https://open.spotify.com/track/4xL6sQfq51rK7cvB587HmD) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [OLYMPICS](https://open.spotify.com/album/4cpZ5lDJdxU4AxY9G42dp8) | 2:48 | 2026-09-24 |  |
 | [GWB](https://open.spotify.com/track/45RMPbRapeirTpV8zieyi4) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [GWB](https://open.spotify.com/album/6VbDuASVTNy2eapQPqQsgm) | 2:29 | 2025-06-20 | 2025-07-04 |
 | [Habitus](https://open.spotify.com/track/0iwBCDnJ3x6OJFgemAm0Q4) | [PAUSE](https://open.spotify.com/artist/0QO3bJ9BmI5WUKG6CSLtJE) | [Habitus](https://open.spotify.com/album/3fbU0kIj3aAD06b9P7qwbK) | 2:53 | 2023-07-11 | 2023-07-23 |
 | [HABITUS](https://open.spotify.com/track/0ZxZXNK4vC6WFitavjSKYT) | [Pause](https://open.spotify.com/artist/1ZwAwymAUb2hTFTMxmNbL5) | [HABITUS](https://open.spotify.com/album/49JVpdUTrQcenJDv5cakM9) | 3:00 | 2023-07-20 | 2023-10-20 |
@@ -254,7 +255,7 @@
 | [Ken Sasaki](https://open.spotify.com/track/2ZGyInkLMjVOVFJEjVH6sS) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Ken Sasaki](https://open.spotify.com/album/7ntxY7I51IOCNC2POHNGTe) | 3:36 | 2022-11-25 | 2023-01-27 |
 | [KHABAR 3AJIL](https://open.spotify.com/track/3Z9oxiRrHAKm2wKUGxQdpc) | [YEAH HUSS!](https://open.spotify.com/artist/0EHwmNauSVSrWCuOrtSocl), [Kartman](https://open.spotify.com/artist/0IYNXXKJHf0Tc01lA7l0dg) | [KHABAR 3AJIL](https://open.spotify.com/album/2KfypDc0IBYDcYkmNvMtGh) | 2:52 | 2025-07-16 | 2025-07-25 |
 | [Khelliha Ghada](https://open.spotify.com/track/3XKJx7CJIW1gFyIoSMlAT2) | [ONZY](https://open.spotify.com/artist/5e5ng4yqjWiz08kIGBQqGD) | [Black Butterfly](https://open.spotify.com/album/3UfBMouFDIiNaMhtd1Jnza) | 3:18 | 2023-04-07 | 2023-05-12 |
-| [Khssara](https://open.spotify.com/track/2Rj6xHuoUAJbYim9SCocWi) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Khssara](https://open.spotify.com/album/0jPSQXiu0j6jdvqlClEszM) | 2:40 | 2026-08-28 |  |
+| [Khssara](https://open.spotify.com/track/2Rj6xHuoUAJbYim9SCocWi) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Khssara](https://open.spotify.com/album/0jPSQXiu0j6jdvqlClEszM) | 2:40 | 2026-08-28 | 2026-09-25 |
 | [KIKI](https://open.spotify.com/track/3n58EssjWguXRIQucF12cZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Moroccan Dream](https://open.spotify.com/album/5aUtrbOfZvn6yhgZuVhIFb) | 2:59 | 2024-10-13 | 2024-11-08 |
 | [KILOWAT](https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:44 | 2026-05-21 |  |
 | [Kima Bakri](https://open.spotify.com/track/3hjXb9FRFRt7H13KlNhGPA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [Omerta](https://open.spotify.com/album/4DjuD48lhHAsL3tOklxQrC) | 2:56 | 2023-01-06 | 2024-04-02 |
@@ -387,7 +388,8 @@
 | [Passé simple](https://open.spotify.com/track/3QY4sVs362wtj80Q5eyWWQ) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u) | [L'MORPHINE](https://open.spotify.com/album/4uOkyB9V8LUsqQz4FP6pdq) | 3:29 | 2024-10-09 | 2024-10-31 |
 | [PEGASUS](https://open.spotify.com/track/6GnPNJKrjzxvBAFZxbD9V3) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh) | [AFLAM](https://open.spotify.com/album/1vItvhhDGdNB7pydJRG2pz) | 2:55 | 2026-05-21 | 2026-05-29 |
 | [Pepete](https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:45 | 2023-07-11 | 2024-01-14 |
-| [PER LA VITA](https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [PER LA VITA](https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z) | 3:12 | 2026-05-07 |  |
+| [PER LA VITA](https://open.spotify.com/track/3zosYc9OVj4kZWrbdarnTL) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:12 | 2026-09-24 |  |
+| [PER LA VITA](https://open.spotify.com/track/6fcNMpMI0v7lHtvFKca5RW) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [PER LA VITA](https://open.spotify.com/album/0EAyhosSfXWBnBQVrKq46Z) | 3:12 | 2026-05-07 | 2026-09-25 |
 | [Pharmacie 2](https://open.spotify.com/track/3oeS7Fx2DMathnP2qSztJi) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Pharmacie 2](https://open.spotify.com/album/66C2VxOUAuM5ldmVPPGAvh) | 3:40 | 2023-12-15 | 2024-01-24 |
 | [Pharmacie 3](https://open.spotify.com/track/5l398epBtEEatlLi3DF969) | [21 Tach](https://open.spotify.com/artist/728dZrvljhCFhPJZvsEtDc) | [Pharmacie 3](https://open.spotify.com/album/05sne0xIdcXfyumATRNZZP) | 2:42 | 2025-11-18 | 2025-12-16 |
 | [PHENOMENAL](https://open.spotify.com/track/5IZCHvhMEmurDfbQ6NqaKA) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [PHENOMENAL](https://open.spotify.com/album/3r3AokuvjoimEMWYrHRnnO) | 3:16 | 2024-12-05 | 2025-07-07 |

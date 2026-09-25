@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 
 > This is Jorja Smith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,148 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,157 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0TW7y8.md) - [plain]
 | 49 | [On My Mind \(acoustic\)](https://open.spotify.com/track/4ktAIutrCjL3oD9rR1aEWU) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [On My Mind \(acoustic\)](https://open.spotify.com/album/2Ux9Grnth3hkFGnMnfOwau) | 2:56 |
 | 50 | [Down For You](https://open.spotify.com/track/5hKjvZFDOkBcJgeT7bF61A) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Infinite](https://open.spotify.com/album/6vmyn1RL0oHkJhXM9hG7m3) | 3:40 |
 
-Snapshot ID: `arHFAAAAAAB3Vlyx+/QXE/GtNBBNRKWp`
+Snapshot ID: `arMWgAAAAABVgb5RngbYHEJixG+3/8SU`

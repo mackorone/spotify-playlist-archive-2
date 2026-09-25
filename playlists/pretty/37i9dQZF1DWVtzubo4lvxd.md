@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,016 likes - 75 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,028 likes - 75 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 71 | [Wherewithal](https://open.spotify.com/track/5X1x7olCET1Kix9YjOMTkN) | [Bokki](https://open.spotify.com/artist/1gmAvUNIqrPSGklxtoj514) | [Wherewithal](https://open.spotify.com/album/3oJGMM6U9KPZmnhgk92Pck) | 2:39 |
 | 72 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
 | 73 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
-| 74 | [reality](https://open.spotify.com/track/6eGpjRTgqSs8JfLPJcSSts) | [mr.neab](https://open.spotify.com/artist/2cZLcgAsOeknY8nJGwt5Bg) | [reality](https://open.spotify.com/album/7zjk5CmvoP6k8M17vOrSc6) | 2:01 |
-| 75 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 |
+| 74 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 |
+| 75 | [reality](https://open.spotify.com/track/6eGpjRTgqSs8JfLPJcSSts) | [mr.neab](https://open.spotify.com/artist/2cZLcgAsOeknY8nJGwt5Bg) | [reality](https://open.spotify.com/album/7zjk5CmvoP6k8M17vOrSc6) | 2:01 |
 
 Snapshot ID: `AAAAADIVjbLQnI5ctFLC0bLGG13WQQrF`

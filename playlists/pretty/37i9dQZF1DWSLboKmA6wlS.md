@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: erutanpsn\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,596 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,608 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 13 | [คิดจะไปก็ไป \(It was never me\)](https://open.spotify.com/track/4grltHUxN9I9Av69H9tfJi) | [WINNING](https://open.spotify.com/artist/0O8xugIMlXx64eukbqYVgc) | [คิดจะไปก็ไป \(It was never me\)](https://open.spotify.com/album/2pi4uVwZB3FEgXuIfxLdKQ) | 3:03 |
 | 14 | [โคตรคิดถึง](https://open.spotify.com/track/6YJlvheMKliZyu5QeAzP1O) | [4our Wheel Dream](https://open.spotify.com/artist/2zUypFaYjz9mELfpU99cYu) | [โคตรคิดถึง](https://open.spotify.com/album/4RtBmqdaJ5SFsKRyF88GsB) | 3:33 |
 | 15 | [BETTER](https://open.spotify.com/track/6GxnPinovu0AosoXMwwV6T) | [QLO](https://open.spotify.com/artist/21YXTehB0cp31YOL3AxewF) | [BETTER](https://open.spotify.com/album/3zOcqZ20AhEJyrdNPlxMA8) | 2:42 |
-| 16 | [ไม่หลับไม่นอน \(So High\)](https://open.spotify.com/track/6R9Y1VOrwEylj2f5pkK6ZI) | [Pawitt](https://open.spotify.com/artist/74SBxmdiDYl2tNbxmQg7VM) | [ไม่หลับไม่นอน \(So High\)](https://open.spotify.com/album/3QFeCtREbpSagNoeoimGQv) | 3:42 |
+| 16 | [ไม่หลับไม่นอน](https://open.spotify.com/track/6R9Y1VOrwEylj2f5pkK6ZI) | [Pawitt](https://open.spotify.com/artist/74SBxmdiDYl2tNbxmQg7VM) | [ไม่หลับไม่นอน](https://open.spotify.com/album/3QFeCtREbpSagNoeoimGQv) | 3:42 |
 | 17 | [ถ้าเธอรักเขา \- Not Mine](https://open.spotify.com/track/1qvnngn7XwPGq0Hevwy3rl) | [Poppy Chatchaya](https://open.spotify.com/artist/0lPGF4KHt91J1oEnX0u0cv) | [ถ้าเธอรักเขา \(Not Mine\)](https://open.spotify.com/album/2QNdcrnfCe2syD7fYaj1Ye) | 3:34 |
 | 18 | [แยกไม่ออก \(Twins\)](https://open.spotify.com/track/2eKDOFw2DquZEGAe4mZpuU) | [MicMac](https://open.spotify.com/artist/5piMoefWkj2eUzSf8YZ1li) | [แยกไม่ออก \(Twins\)](https://open.spotify.com/album/0YYIKdNpnr9tqBBIpbeXt7) | 3:53 |
 | 19 | [ย้าย่ายะ](https://open.spotify.com/track/0FTAiWhYLMKZlzhMeMzRZy) | [อูโน่ หลาวทอง](https://open.spotify.com/artist/5wYhK6NENUwGiEejGnASQ8) | [ย้าย่ายะ](https://open.spotify.com/album/1QKUoPKIB65DyasIesCb73) | 3:40 |

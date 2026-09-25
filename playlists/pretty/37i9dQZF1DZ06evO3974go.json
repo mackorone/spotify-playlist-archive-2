@@ -1,12 +1,12 @@
 {
   "description": "This is Rich Homie Quan. The essential tracks, all in one playlist.",
-  "num_followers": 21227,
+  "num_followers": 21232,
   "original_name": "This Is Rich Homie Quan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAACENx26Yw2ET4nGsN24kGnV",
+  "snapshot_id": "arMWgAAAAADTJO+1MLxjlMOtshvvi8Hy",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Send It (feat. Rich Homie Quan)",
-        "url": "https://open.spotify.com/album/0mQUo8qTCCxTWXcC0Eqo2L"
-      },
-      "artists": [
-        {
-          "name": "Austin Mahone",
-          "url": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
-        },
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 181003,
-      "name": "Send It - feat. Rich Homie Quan",
-      "url": "https://open.spotify.com/track/5G674ePHPwtbRbo4E5noZl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/54Y471E7GNBSOXjZtqONId"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 272772,
       "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
       "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Send It (feat. Rich Homie Quan)",
+        "url": "https://open.spotify.com/album/0mQUo8qTCCxTWXcC0Eqo2L"
+      },
+      "artists": [
+        {
+          "name": "Austin Mahone",
+          "url": "https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 181003,
+      "name": "Send It - feat. Rich Homie Quan",
+      "url": "https://open.spotify.com/track/5G674ePHPwtbRbo4E5noZl"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO YO PURPOSE",
+        "url": "https://open.spotify.com/album/7i0ah7NXPBOJhh2gcl2PKx"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "NO YO PURPOSE",
+      "url": "https://open.spotify.com/track/5PNGGk15Ev22poMGNrWkXp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Downtown: Life Under The Gun",
         "url": "https://open.spotify.com/album/4buyJv1fGVn1QU6ZR6YroB"
       },
@@ -483,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO YO PURPOSE",
-        "url": "https://open.spotify.com/album/7i0ah7NXPBOJhh2gcl2PKx"
+        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
       },
       "artists": [
         {
@@ -492,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 204800,
-      "name": "NO YO PURPOSE",
-      "url": "https://open.spotify.com/track/5PNGGk15Ev22poMGNrWkXp"
+      "duration_ms": 209523,
+      "name": "WWYD",
+      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
     },
     {
       "added_at": null,
@@ -515,22 +531,6 @@
       "duration_ms": 240133,
       "name": "Come Thru",
       "url": "https://open.spotify.com/track/65PzThqBjHbXZqhkg0XLQr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Promise I Will Never Stop Going In (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2swWrUelezIoSdBWStNisb"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 209523,
-      "name": "WWYD",
-      "url": "https://open.spotify.com/track/0HnXG2HfMQcsH4ab70JBX3"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Back To The Basics",
+        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 231346,
+      "name": "Heart Cold",
+      "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Label Vol. 2",
         "url": "https://open.spotify.com/album/3pwlC4orDoqHDiDImGAqcj"
       },
@@ -723,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To The Basics",
-        "url": "https://open.spotify.com/album/22YDVJAkRkcybxuyRkNSyV"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 231346,
-      "name": "Heart Cold",
-      "url": "https://open.spotify.com/track/67Mrs5q8uAL5WQyYPPYIEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Homie Cartel Vol 1",
         "url": "https://open.spotify.com/album/6KwDI7kGlidFv2zs2B3ywt"
       },
@@ -751,22 +751,6 @@
       "duration_ms": 263053,
       "name": "Keep It Goin",
       "url": "https://open.spotify.com/track/1XYOVvfSbn1Ez4p6pwUsia"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Most - Single",
-        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
-      },
-      "artists": [
-        {
-          "name": "Rich Homie Quan",
-          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
-        }
-      ],
-      "duration_ms": 207405,
-      "name": "The Most",
-      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coma",
+        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+      },
+      "artists": [
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "duration_ms": 210409,
+      "name": "Stressed",
+      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Legacy of Hits",
         "url": "https://open.spotify.com/album/3e2cc0DQy7kFpvQySQ56eL"
       },
@@ -807,8 +807,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coma",
-        "url": "https://open.spotify.com/album/5IwKLJtOvYIc6wPxHXdKDd"
+        "name": "The Most - Single",
+        "url": "https://open.spotify.com/album/616XtXCfnUBvRtrZzkpDlB"
       },
       "artists": [
         {
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
         }
       ],
-      "duration_ms": 210409,
-      "name": "Stressed",
-      "url": "https://open.spotify.com/track/3XO41ZKnULP1KIhoLgnBzG"
+      "duration_ms": 207405,
+      "name": "The Most",
+      "url": "https://open.spotify.com/track/3f8a6QCUxTaXVLIRstp2gV"
     },
     {
       "added_at": null,

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 
 > R&Bの最新話題曲をまとめてお届けします。cover: 3House
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,245 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,241 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fly Again](https://open.spotify.com/track/5id7emNLRhCrhgoiulNp1D) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [GAME](https://open.spotify.com/album/07aHn1SMzaqYuEAjQVwROs) | 3:09 |
 | 2 | [Out Of Time with Tomoko Aran](https://open.spotify.com/track/0nc2dv3B8W2FhBgwCkZxJa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tomoko Aran](https://open.spotify.com/artist/2flF63KTodI9rSqbP5gCnp) | [Out Of Time with Tomoko Aran](https://open.spotify.com/album/0Tc7ROEvsDP3iqzU8GRC5E) | 2:51 |
 | 3 | [A Good Day](https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX) | 2:31 |
-| 4 | [Cool You Down \(feat\. Sia\)](https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:30 |
+| 4 | [Cool You Down \- feat\. Sia](https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:30 |
 | 5 | [CAN I WATCH YOU \(feat\. Pharrell Williams\)](https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [B'DAY \(20th ANNIVERSARY DELUXE EDITION\)](https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW) | 3:36 |
 | 6 | [To The Moon \(Plan C\) \- feat\. Steve Lacy](https://open.spotify.com/track/19u9Ms6Z8Ilo0JOITN2mFV) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 4:16 |
 | 7 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CB6zI8FWXS.md) - [plain]
 | 99 | [Burning](https://open.spotify.com/track/6WOWQrs4IvRLl45PPsIK43) | [Mashoe](https://open.spotify.com/artist/1XdGFjb61yarGAmSPuvLN7) | [Burning](https://open.spotify.com/album/462WUinJ4xH1QPnIiQ3zGb) | 4:03 |
 | 100 | [Only One](https://open.spotify.com/track/4lthtFNXXZZmRPdS1BlIpu) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Only One](https://open.spotify.com/album/5hyb010Cm1neU0k5l4zdSl) | 3:13 |
 
-Snapshot ID: `AAAAADQa89Z6nPGD+N6wFveGUOTvMZMD`
+Snapshot ID: `AAAAAD+ukFpMpDMWR0y9Ko18mESScTIK`

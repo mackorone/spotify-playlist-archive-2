@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-174 songs - 11 hr 40 min
+176 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Sunkissed \(feat\. Châu Bùi\)](https://open.spotify.com/track/1HQcB17Uevy4vdHlsuqCqe) | [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [Châu Bùi](https://open.spotify.com/artist/6mKDR6IdsyqRp38x1uigAR) | [Sunkissed \(feat\. Châu Bùi\)](https://open.spotify.com/album/2greZVau20V2fjDYKe7PcK) | 3:22 | 2022-05-26 |  |
 | [Swapping Socks](https://open.spotify.com/track/70P2SrcpkFbMOvjXrevKga) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Swapping Socks](https://open.spotify.com/album/11vYgQBDU9DJnRlBJ6RuO5) | 3:38 | 2024-01-25 | 2024-06-01 |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-30 | 2024-02-10 |
+| [Take Me Tokyo](https://open.spotify.com/track/1E2bVwpsHvP9DG1GXmjFGr) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [loop vol.3 \- Take Me Tokyo](https://open.spotify.com/album/6cNDkx5wgvFxOJLjIYKmsI) | 2:24 | 2026-09-24 |  |
 | [Taman Anak\-Anak](https://open.spotify.com/track/1uKJr3V995pBJ9oJuXCuCn) | [Alahad](https://open.spotify.com/artist/7AaHhQPFtgAiytNjj81Wmt) | [Taman Anak\-Anak](https://open.spotify.com/album/50xHVSEMYhkZ7evx6WfyDP) | 3:56 | 2023-07-06 |  |
 | [Telephone Number](https://open.spotify.com/track/6Mnxt2GM70ctyRGothd3tK) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Time\-Lapse](https://open.spotify.com/album/6qqlPpYvObYNofsPxve7cT) | 4:00 | 2024-01-06 | 2026-05-08 |
 | [Terbanglah Lepas](https://open.spotify.com/track/0mLvVZ14uhcPI7dbOJ69Un) | [Aya Anjani](https://open.spotify.com/artist/3nslXNEDlUex5fcETXA5Lf), [Parlemen Pop](https://open.spotify.com/artist/4GPfmTXPBtz1eIdrdNOB3e) | [Lagu Baru Dari Masa Lalu, Vol\. 1](https://open.spotify.com/album/5b2swSWZfAc8EZ5v0VTzSi) | 4:53 | 2022-05-26 | 2023-05-19 |
@@ -160,7 +161,7 @@
 | [ดาวเคราะห์แคระ](https://open.spotify.com/track/44AUAh9zC1AGDtzfbe14fJ) | [mamakiss](https://open.spotify.com/artist/5itRWli5gwKtm3WHcxeSGJ) | [ดาวเคราะห์แคระ](https://open.spotify.com/album/0fUIg0oFj3n4NLywrXNWez) | 4:23 | 2024-01-06 |  |
 | [ประกาศให้โลกรู้](https://open.spotify.com/track/5IdsoQa6jJY988phl22EPC) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [ประกาศให้โลกรู้](https://open.spotify.com/album/7rj1LF1of31j98OJnOckkS) | 4:05 | 2023-03-09 |  |
 | [พบกันใหม่ \(So Long\)](https://open.spotify.com/track/4IKn1t0eZZzF5mji1vraVI) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 5:14 | 2026-02-24 |  |
-| [อยู่คนเดียวด้วยกันไหม \(Introvert\)](https://open.spotify.com/track/4nnqax49cgpwE1be5dZXii) | [Millie Snow](https://open.spotify.com/artist/3LK2WzEzWSUHvqAqfWyDrG) | [อยู่คนเดียวด้วยกันไหม \(Introvert\)](https://open.spotify.com/album/7lAuAFSGe6h9Hr7imLn3sC) | 3:40 | 2024-01-06 |  |
+| [อยู่คนเดียวด้วยกันไหม \(Introvert\)](https://open.spotify.com/track/4nnqax49cgpwE1be5dZXii) | [Millie Snow](https://open.spotify.com/artist/3LK2WzEzWSUHvqAqfWyDrG) | [อยู่คนเดียวด้วยกันไหม \(Introvert\)](https://open.spotify.com/album/7lAuAFSGe6h9Hr7imLn3sC) | 3:40 | 2024-01-06 | 2026-09-25 |
 | [เกี่ยวกันไหม \(You\)](https://open.spotify.com/track/2IuZlsxVbaDpYvfkZyWvnN) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [BLISS](https://open.spotify.com/album/4mdc1YH7aJo13ZgvihEkOa) | 4:14 | 2022-05-26 | 2022-11-17 |
 | [เกี่ยวกันไหม \(You\)](https://open.spotify.com/track/3Qoq9Wi8SYn5gnBSn0FPku) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [Bliss](https://open.spotify.com/album/2KIuhe1oMCte5xpN9bmDrS) | 4:14 | 2022-05-26 | 2022-07-29 |
 | [เกี่ยวกันไหม\(You?\)](https://open.spotify.com/track/5PoQpjsj902TmAtCOKVO2A) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เกี่ยวกันไหม\(You?\)](https://open.spotify.com/album/6AG9NhKU4BbY5FnCG0vbYL) | 4:13 | 2026-02-24 |  |
@@ -174,7 +175,7 @@
 | [二都夜想曲](https://open.spotify.com/track/1nMnEUTOhfDUsLpyrmc1r2) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO), [wapiti](https://open.spotify.com/artist/0yWUMWzT5OnBurSaKi356m) | [二都夜想曲](https://open.spotify.com/album/19mx3ysGi9Xdd0HiyFXFL2) | 4:09 | 2025-09-16 | 2026-09-04 |
 | [切ない](https://open.spotify.com/track/4jLnRj5b0KGX5v6UPqO6tS) | [Skastra](https://open.spotify.com/artist/29sYgtFF2sRAVbzZ64rbkB) | [切ない \(Nelangsa\)](https://open.spotify.com/album/44VDPRIif3YJLY5tXzWLIG) | 4:48 | 2026-07-14 |  |
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/1BhjeUl8YkY20lfmpmwfAj) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久 20](https://open.spotify.com/album/0vKhnsFBuItT2ufOlX9RAi) | 4:05 | 2022-05-26 | 2024-04-19 |
-| [別急著說妳愛我到天長地久](https://open.spotify.com/track/3qVS40B9udu90K4Bo0Jlnl) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久](https://open.spotify.com/album/6dyPWNvtoRDOvWF6XnqrGF) | 4:05 | 2022-05-26 |  |
+| [別急著說妳愛我到天長地久](https://open.spotify.com/track/3qVS40B9udu90K4Bo0Jlnl) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久](https://open.spotify.com/album/6dyPWNvtoRDOvWF6XnqrGF) | 4:05 | 2022-05-26 | 2026-09-25 |
 | [容易厭倦的時刻 \- Tsudio Studio Remix](https://open.spotify.com/track/308LFXPTq5qZgqZpKzBr33) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [容易厭倦的時刻 \(Tsudio Studio Remix\)](https://open.spotify.com/album/3LxPlbXVlRges9ZoZbkwv5) | 4:04 | 2023-02-02 |  |
 | [有你萬事屋](https://open.spotify.com/track/4hX2vMHvJ9gxLoUS5W8qur) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [有你萬事屋](https://open.spotify.com/album/55ZsM5ZiUu7viOyuhhNGhh) | 3:51 | 2025-09-16 |  |
 | [真夜中のドア / STAY WITH ME](https://open.spotify.com/track/7pFNLw96R1V5Yxwu0Pw3ie) | [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r) | [真夜中のドア / STAY WITH ME](https://open.spotify.com/album/410VVfLKnd8YjwPRCZi4hI) | 5:11 | 2022-05-26 |  |
@@ -182,5 +183,6 @@
 | [都市爬行](https://open.spotify.com/track/6QF0AjR4gtQjpeZhf9s81v) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [Legend 1980](https://open.spotify.com/album/7GvxIxq9KFEQvDTs50rufn) | 4:04 | 2023-10-19 | 2024-04-19 |
 | [都市爬行](https://open.spotify.com/track/6qram8pcVilZUa5P2Zx0oG) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/0Xd99sbVdjE8Ep1VpnGx3S) | 4:04 | 2023-07-06 | 2023-10-23 |
 | [都市爬行](https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS) | 4:04 | 2022-05-26 |  |
+| [雰囲気](https://open.spotify.com/track/28dKw9Km5DDq6hrErz17Yi) | [ZENBØ](https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG), [鄭雙雙](https://open.spotify.com/artist/642hyS9EveDWXVIANUQnMb) | [雰囲気](https://open.spotify.com/album/0wagxfM0C8B7hDawfqFYm6) | 3:14 | 2026-09-24 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

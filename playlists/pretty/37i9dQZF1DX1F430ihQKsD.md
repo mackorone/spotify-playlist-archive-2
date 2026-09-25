@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > 100 % chill, 100 % Montréal w/ Robert Robert
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,968 likes - 82 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,973 likes - 82 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

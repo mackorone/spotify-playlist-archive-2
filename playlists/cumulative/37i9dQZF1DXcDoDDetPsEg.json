@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist. Cover: Offset",
+  "description": "The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist. Cover: Shenseea",
   "name": "Who We Be",
   "tracks": [
     {
@@ -4244,6 +4244,24 @@
       "duration_ms": 196800,
       "name": "Bitcoin",
       "url": "https://open.spotify.com/track/6wximh7UUXaridTcdnGzNo"
+    },
+    {
+      "album": {
+        "name": "Homegrown",
+        "url": "https://open.spotify.com/album/7lIRsoyw9VevsE9fEQOcBJ"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177841,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2FK12BFadDMlelVr4Fn7Xi"
     },
     {
       "album": {
@@ -15390,7 +15408,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 191786,
       "name": "Hostage (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
@@ -27154,7 +27172,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 74500,
       "name": "Quaresma",
       "url": "https://open.spotify.com/track/0dS6mvqzBRZ4X4jlEqQNv9"
@@ -29528,7 +29546,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 213241,
       "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
@@ -30102,7 +30120,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 202105,
       "name": "Slap The City (feat. Qendresa)",
       "url": "https://open.spotify.com/track/3nwcQXP0mBmXmlrirQxCkz"
@@ -34345,6 +34363,24 @@
     },
     {
       "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH"
+    },
+    {
+      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -35572,6 +35608,24 @@
       "duration_ms": 412055,
       "name": "Voice Of The Streets Freestyle",
       "url": "https://open.spotify.com/track/41dlOOI3YbvcEscyhRqUud"
+    },
+    {
+      "album": {
+        "name": "Vulnerability",
+        "url": "https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193820,
+      "name": "Vulnerability",
+      "url": "https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ"
     },
     {
       "album": {
@@ -37930,6 +37984,28 @@
       "duration_ms": 150760,
       "name": "YAYO",
       "url": "https://open.spotify.com/track/3sKBph3ElueH1dVLmkHWZZ"
+    },
+    {
+      "album": {
+        "name": "Ye",
+        "url": "https://open.spotify.com/album/3clavYvvQGYh01lciAx3t3"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        },
+        {
+          "name": "163Margs",
+          "url": "https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/0oEhMEWHXOiYs58LP6ioC9"
     },
     {
       "album": {

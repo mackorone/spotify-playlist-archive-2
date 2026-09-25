@@ -1,12 +1,12 @@
 {
   "description": "This is BIGBANG. The essential tracks, all in one playlist.",
-  "num_followers": 635546,
+  "num_followers": 635597,
   "original_name": "This Is BIGBANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAzjjSAByrNsOEkIfFIKsr6",
+  "snapshot_id": "arMWgAAAAAC6ydr1nD6BXdgXgMVAZG6U",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "Cafe",
-      "url": "https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2NE1 1st Mini Album",
         "url": "https://open.spotify.com/album/5WyEkWi7ZPMrVSbU1Cabba"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 188000,
       "name": "Lollipop",
       "url": "https://open.spotify.com/track/2eDGx6nbrznlTmf6YMjrRi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 219946,
+      "name": "Cafe",
+      "url": "https://open.spotify.com/track/4mm23jt7cimDkeHu1VcS2v"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 224320,
-      "name": "What Is Right",
-      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 233320,
       "name": "Always",
       "url": "https://open.spotify.com/track/4aIgmON0kGOFooTuiIh2KS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6b08mw1Ggz7UyVYas1iRgj"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 224320,
+      "name": "What Is Right",
+      "url": "https://open.spotify.com/track/7lUuLySlWkAAXF2olbxWEV"
     },
     {
       "added_at": null,

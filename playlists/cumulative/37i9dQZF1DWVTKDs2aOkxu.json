@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Cover: Jamie T ",
+  "description": "The best indie music of the moment. Cover: CHVRCHES",
   "name": "The Indie List",
   "tracks": [
     {
@@ -362,7 +362,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 163772,
       "name": "50/50",
       "url": "https://open.spotify.com/track/16QLv8xt9nPNBZCBDm3Gkv"
@@ -1624,7 +1624,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 289011,
       "name": "Babe, We've Run Out Of Time",
       "url": "https://open.spotify.com/track/423dHXd6YCagGTj1IBLSBg"
@@ -2572,7 +2572,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 236807,
       "name": "Blood",
       "url": "https://open.spotify.com/track/0eUXbI6YeY9FfEaZMoBwPx"
@@ -4810,7 +4810,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 218559,
       "name": "Diamond Ring",
       "url": "https://open.spotify.com/track/7x59f5TXOxDm5Kn1FUJdJ5"
@@ -6584,7 +6584,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 204052,
       "name": "Follow",
       "url": "https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x"
@@ -6880,6 +6880,24 @@
       "duration_ms": 256413,
       "name": "Fur Elise",
       "url": "https://open.spotify.com/track/4voyl0SW7WHrG9aCH1jGOC"
+    },
+    {
+      "album": {
+        "name": "Gabriel",
+        "url": "https://open.spotify.com/album/2trgK2jomllLUNEY3bnaYt"
+      },
+      "artists": [
+        {
+          "name": "Worldpeace DMT",
+          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "Gabriel",
+      "url": "https://open.spotify.com/track/3clpq7tgqi0jcvg16K3c0V"
     },
     {
       "album": {
@@ -8631,6 +8649,24 @@
     },
     {
       "album": {
+        "name": "How To Perform Magic",
+        "url": "https://open.spotify.com/album/0n3ysfasudZfKqAfQPhL8x"
+      },
+      "artists": [
+        {
+          "name": "SOFY",
+          "url": "https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210403,
+      "name": "How To Perform Magic",
+      "url": "https://open.spotify.com/track/5I8Mj6WpssjjLlvj1yxCer"
+    },
+    {
+      "album": {
         "name": "(((((ultraSOUND)))))",
         "url": "https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv"
       },
@@ -9027,6 +9063,24 @@
     },
     {
       "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
+    },
+    {
+      "album": {
         "name": "Blood On the Silver Screen",
         "url": "https://open.spotify.com/album/6jfOmBdOak7W53fjqGfgMH"
       },
@@ -9194,6 +9248,24 @@
       "duration_ms": 250409,
       "name": "Idiot Box",
       "url": "https://open.spotify.com/track/33Wi8Etr6ljOsBViBOKWQ5"
+    },
+    {
+      "album": {
+        "name": "If I Had The Hand Of God",
+        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161816,
+      "name": "If I Had The Hand Of God",
+      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
     },
     {
       "album": {
@@ -9818,6 +9890,24 @@
       "duration_ms": 193686,
       "name": "Jackie",
       "url": "https://open.spotify.com/track/24XXGis7TNNjgzKKuFhoPB"
+    },
+    {
+      "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/37jYqngzHIRHmAef9SWsFr"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208219,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/4szoLrDN83yNMMBPGh4nCo"
     },
     {
       "album": {
@@ -10452,7 +10542,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 268399,
       "name": "Knocking at the Sky",
       "url": "https://open.spotify.com/track/16naEqXaSBJunVZvqLhsHq"
@@ -10806,7 +10896,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 246501,
       "name": "Light Over There",
       "url": "https://open.spotify.com/track/3WToaJeNig1j8gOFJMbjch"
@@ -13507,6 +13597,24 @@
     },
     {
       "album": {
+        "name": "Primetime (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211774,
+      "name": "On Video",
+      "url": "https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N"
+    },
+    {
+      "album": {
         "name": "One Foot Out",
         "url": "https://open.spotify.com/album/0NgM5o4m1b4yYy79DBKrOI"
       },
@@ -15221,6 +15329,24 @@
     },
     {
       "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208331,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C"
+    },
+    {
+      "album": {
         "name": "A Quiet Invitation To A Hard Conversation",
         "url": "https://open.spotify.com/album/77tEPBluanfT3lS8AkBgpB"
       },
@@ -16419,7 +16545,7 @@
     },
     {
       "album": {
-        "name": "Small Town (feat. Gabriel Jacoby)",
+        "name": "Small Town",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
@@ -16430,13 +16556,17 @@
         {
           "name": "Gabriel Jacoby",
           "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
         }
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169981,
-      "name": "Small Town (feat. Gabriel Jacoby)",
+      "name": "Small Town",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {
@@ -16636,7 +16766,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 285183,
       "name": "Something Else to Give",
       "url": "https://open.spotify.com/track/2LGum1EJPchyr2HK9Kln8P"
@@ -16820,6 +16950,24 @@
       "duration_ms": 264500,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3AvsGmpcsRVftfQSmbOPhF"
+    },
+    {
+      "album": {
+        "name": "Sounds We Cannot Hear",
+        "url": "https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326093,
+      "name": "Sounds We Cannot Hear",
+      "url": "https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy"
     },
     {
       "album": {
@@ -17018,6 +17166,24 @@
       "duration_ms": 167674,
       "name": "SS26",
       "url": "https://open.spotify.com/track/3d5NbAerF2MMHw9tdIxiFH"
+    },
+    {
+      "album": {
+        "name": "Stadium Drive",
+        "url": "https://open.spotify.com/album/70z4YaNdvomxL4JPAzVn1E"
+      },
+      "artists": [
+        {
+          "name": "RIP Magic",
+          "url": "https://open.spotify.com/artist/34VnmMzwkbqk09L8Gk1LyM"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277760,
+      "name": "Stadium Drive",
+      "url": "https://open.spotify.com/track/3dK4tMxSslsWqiw4e6do3x"
     },
     {
       "album": {
@@ -17818,6 +17984,10 @@
         {
           "name": "Jamie T",
           "url": "https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh"
+        },
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
         }
       ],
       "date_added": "2026-09-17",
@@ -18512,7 +18682,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 201992,
       "name": "The Hardest Thing",
       "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
@@ -18992,7 +19162,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 237832,
       "name": "The Way You Feel",
       "url": "https://open.spotify.com/track/1zFuCtSS7Fe6h3Bf7Mgsh9"
@@ -19896,7 +20066,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 209258,
       "name": "Twiggy",
       "url": "https://open.spotify.com/track/2gbtCFGn2CKKguwx6PnQ2G"
@@ -20618,6 +20788,24 @@
       "duration_ms": 242541,
       "name": "Wendolene",
       "url": "https://open.spotify.com/track/41PbgmwvdXtW70IQIff155"
+    },
+    {
+      "album": {
+        "name": "Wet Paint",
+        "url": "https://open.spotify.com/album/1B6xwU3FKEMfvaqAktjWyR"
+      },
+      "artists": [
+        {
+          "name": "Girl In The Year Above",
+          "url": "https://open.spotify.com/artist/1O7L4N5WMArmnOyDhuX5Y7"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245643,
+      "name": "Wet Paint",
+      "url": "https://open.spotify.com/track/2zQlb1LG6RITfwi2xb73cS"
     },
     {
       "album": {

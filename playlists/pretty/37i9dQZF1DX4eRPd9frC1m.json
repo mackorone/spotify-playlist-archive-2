@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a> ",
-  "num_followers": 2567829,
+  "num_followers": 2567843,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -75,26 +75,18 @@
     {
       "added_at": "2026-09-18 15:46:01",
       "album": {
-        "name": "TYPE SH*T",
-        "url": "https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g"
+        "name": "Movement",
+        "url": "https://open.spotify.com/album/0uwj7PaqVqPoY66QCo0i9n"
       },
       "artists": [
         {
           "name": "Crankdat",
           "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "Duke Deuce",
-          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
         }
       ],
-      "duration_ms": 212870,
-      "name": "TYPE SH*T",
-      "url": "https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI"
+      "duration_ms": 187561,
+      "name": "Movement",
+      "url": "https://open.spotify.com/track/629lfbX9FnjfRDHoIOgNao"
     },
     {
       "added_at": "2026-09-18 15:46:01",
@@ -199,18 +191,26 @@
     {
       "added_at": "2026-09-18 15:46:01",
       "album": {
-        "name": "Movement",
-        "url": "https://open.spotify.com/album/0uwj7PaqVqPoY66QCo0i9n"
+        "name": "TYPE SH*T",
+        "url": "https://open.spotify.com/album/78bvzzE2E47QhUUoYhmJ4g"
       },
       "artists": [
         {
           "name": "Crankdat",
           "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Duke Deuce",
+          "url": "https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW"
         }
       ],
-      "duration_ms": 187561,
-      "name": "Movement",
-      "url": "https://open.spotify.com/track/629lfbX9FnjfRDHoIOgNao"
+      "duration_ms": 212870,
+      "name": "TYPE SH*T",
+      "url": "https://open.spotify.com/track/6aBm5lBiBcEBc8moW055LI"
     },
     {
       "added_at": "2026-09-18 15:46:01",
@@ -543,26 +543,6 @@
     {
       "added_at": "2026-09-18 15:46:01",
       "album": {
-        "name": "Puzzle Box",
-        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Puzzle Box",
-      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
-    },
-    {
-      "added_at": "2026-09-18 15:46:01",
-      "album": {
         "name": "Original Don",
         "url": "https://open.spotify.com/album/7Jn24h49ditLNn0I2ePgsL"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 168275,
       "name": "Original Don",
       "url": "https://open.spotify.com/track/3jzXUnJxAG8Yqj9IVR8RZx"
+    },
+    {
+      "added_at": "2026-09-18 15:46:01",
+      "album": {
+        "name": "Puzzle Box",
+        "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
+      },
+      "artists": [
+        {
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 212210,
+      "name": "Puzzle Box",
+      "url": "https://open.spotify.com/track/5EhnuLMer8qAXEDwmLtyrW"
     },
     {
       "added_at": "2026-09-18 15:46:01",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-09-18 15:46:01",
       "album": {
+        "name": "TYNAN TIME",
+        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
+      },
+      "artists": [
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "his name is",
+      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
+    },
+    {
+      "added_at": "2026-09-18 15:46:01",
+      "album": {
         "name": "Lock It",
         "url": "https://open.spotify.com/album/5su5O4VTUXWkRpK56jHg96"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 192000,
       "name": "Lock It",
       "url": "https://open.spotify.com/track/3Uzj3nb1oMb7gD7K7MKlQz"
-    },
-    {
-      "added_at": "2026-09-18 15:46:01",
-      "album": {
-        "name": "TYNAN TIME",
-        "url": "https://open.spotify.com/album/6vKHfrw3se3Hq12A0cNvS5"
-      },
-      "artists": [
-        {
-          "name": "TYNAN",
-          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "his name is",
-      "url": "https://open.spotify.com/track/5AMTt4QNINkJs1Hq48xD3m"
     },
     {
       "added_at": "2026-09-18 15:46:01",
@@ -791,42 +791,6 @@
     {
       "added_at": "2026-09-18 15:46:01",
       "album": {
-        "name": "HARD IN DA PAINT",
-        "url": "https://open.spotify.com/album/3OFU7rvRXLRudveTssJIWI"
-      },
-      "artists": [
-        {
-          "name": "HOL!",
-          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
-        },
-        {
-          "name": "Waka Flocka Flame",
-          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
-        }
-      ],
-      "duration_ms": 195362,
-      "name": "HARD IN DA PAINT",
-      "url": "https://open.spotify.com/track/3CL5yUXDzK8YXCdMC8HWhr"
-    },
-    {
-      "added_at": "2026-09-18 15:46:01",
-      "album": {
-        "name": "Shake",
-        "url": "https://open.spotify.com/album/7JdbsYo6DFOfMTrBZS0wUL"
-      },
-      "artists": [
-        {
-          "name": "Sully",
-          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
-        }
-      ],
-      "duration_ms": 166665,
-      "name": "Shake",
-      "url": "https://open.spotify.com/track/6L9dTqUK7bDCTHkLoi6GkS"
-    },
-    {
-      "added_at": "2026-09-18 15:46:01",
-      "album": {
         "name": "Fuck It Up",
         "url": "https://open.spotify.com/album/2ByC6BK9XEUuK043NpUGB3"
       },
@@ -847,6 +811,42 @@
       "duration_ms": 132974,
       "name": "Fuck It Up",
       "url": "https://open.spotify.com/track/0PBQS0GycsYJ4yJJRjAIXU"
+    },
+    {
+      "added_at": "2026-09-18 15:46:01",
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/7JdbsYo6DFOfMTrBZS0wUL"
+      },
+      "artists": [
+        {
+          "name": "Sully",
+          "url": "https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK"
+        }
+      ],
+      "duration_ms": 166665,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/6L9dTqUK7bDCTHkLoi6GkS"
+    },
+    {
+      "added_at": "2026-09-18 15:46:01",
+      "album": {
+        "name": "HARD IN DA PAINT",
+        "url": "https://open.spotify.com/album/3OFU7rvRXLRudveTssJIWI"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        },
+        {
+          "name": "Waka Flocka Flame",
+          "url": "https://open.spotify.com/artist/6f4XkbvYlXMH0QgVRzW0sM"
+        }
+      ],
+      "duration_ms": 195362,
+      "name": "HARD IN DA PAINT",
+      "url": "https://open.spotify.com/track/3CL5yUXDzK8YXCdMC8HWhr"
     },
     {
       "added_at": "2026-09-18 15:46:01",

@@ -828,7 +828,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 162768,
       "name": "Better Than Before",
       "url": "https://open.spotify.com/track/30ewsn0jSF9Jme7Altrz9X"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180116,
       "name": "Caught Myself Believing",
       "url": "https://open.spotify.com/track/2Y8lu1Zvgvp88QfmF0C9ad"
@@ -2738,6 +2738,24 @@
       "duration_ms": 194813,
       "name": "Give It All Away",
       "url": "https://open.spotify.com/track/4xMPRwyHSj4XLWDBiYsORL"
+    },
+    {
+      "album": {
+        "name": "The Last Laugh",
+        "url": "https://open.spotify.com/album/650mZoPWd54ojdR1wDtv2A"
+      },
+      "artists": [
+        {
+          "name": "Eva Rose",
+          "url": "https://open.spotify.com/artist/22cqM1VQJSdXQ04OYTAQ5z"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208762,
+      "name": "Give Me a Good Reason",
+      "url": "https://open.spotify.com/track/6lGgwrDBWkc9uJ34zUICsx"
     },
     {
       "album": {
@@ -5342,6 +5360,24 @@
       "duration_ms": 181750,
       "name": "Nothing Matters",
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
+    },
+    {
+      "album": {
+        "name": "MOSH\u2605PIT",
+        "url": "https://open.spotify.com/album/6ISPvXakmNusQEkPVseqIg"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204663,
+      "name": "Nothing To Do (nananananana)",
+      "url": "https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5"
     },
     {
       "album": {
@@ -7957,6 +7993,24 @@
     },
     {
       "album": {
+        "name": "More Water Than Anything",
+        "url": "https://open.spotify.com/album/32x9YOWWj9zqg2hqyWFhPM"
+      },
+      "artists": [
+        {
+          "name": "GERD",
+          "url": "https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/3juxxdQ5TckAecsfNgML9J"
+    },
+    {
+      "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
       },
@@ -8058,7 +8112,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 168911,
       "name": "Uuuhh",
       "url": "https://open.spotify.com/track/5OVZIlQqxSkQVdmjs2sDlg"

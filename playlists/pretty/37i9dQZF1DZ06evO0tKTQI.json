@@ -1,12 +1,12 @@
 {
   "description": "This is Bratty. The essential tracks, all in one playlist.",
-  "num_followers": 14193,
+  "num_followers": 14194,
   "original_name": "This Is Bratty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABjl1sumCeOBtHDM3u7kqeh",
+  "snapshot_id": "arMWgAAAAABzpCbXiPkC+PZo3oix6sup",
   "tracks": [
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delusi\u00f3n",
-        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 213306,
-      "name": "Delusi\u00f3n",
-      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Est\u00e1 Cambiando",
         "url": "https://open.spotify.com/album/7BJ6elEow3lvPxOduSlh1g"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 238533,
       "name": "Aqu\u00ed",
       "url": "https://open.spotify.com/track/5ICz6prnBPOEWwFMbJ1GN6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delusi\u00f3n",
+        "url": "https://open.spotify.com/album/30OWJ1eBG8vQOfN1Gk5uYN"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 213306,
+      "name": "Delusi\u00f3n",
+      "url": "https://open.spotify.com/track/26Xfr8rrWVnoUfzIT0QfQP"
     },
     {
       "added_at": null,

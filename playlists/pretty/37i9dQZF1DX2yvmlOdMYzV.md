@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 956,773 likes - 200 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,766 likes - 200 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 57 | [All I'd Ever Know](https://open.spotify.com/track/37M940BzP44UP3kbGeZCP5) | [Amaria](https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1) | [All I'd Ever Know](https://open.spotify.com/album/7DXzjhLGPLiNYqM3YhUgpt) | 3:22 |
 | 58 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 |
 | 59 | [Drowning](https://open.spotify.com/track/6ra4QCibGRwecj33rpqTIo) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Drowning](https://open.spotify.com/album/46YjmtyJkwVGMjTqDo09ZE) | 2:36 |
-| 60 | [Time \(feat\. WESLEYFRANKLIN\)](https://open.spotify.com/track/60UYFCqHFDn4nVFFpZugrd) | [Ash Leone](https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK), [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Time](https://open.spotify.com/album/17x3SXQC27PQyClfcxJCYP) | 2:40 |
+| 60 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 |
 | 61 | [Alive](https://open.spotify.com/track/7eTBRHSfEtedwe2nJYUw6l) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl), [CASASANTI](https://open.spotify.com/artist/1NDjqGGNf27vJt9P5LrLZy) | [Alive](https://open.spotify.com/album/4JLnlhe5OvhHprXxqGJxms) | 2:46 |
-| 62 | [Such A Thing](https://open.spotify.com/track/7dAtplicSnwRymddH1qmpC) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Marigold](https://open.spotify.com/album/5hMEASKNPus4JjSIO5BCqz) | 3:25 |
+| 62 | [Time \(feat\. WESLEYFRANKLIN\)](https://open.spotify.com/track/60UYFCqHFDn4nVFFpZugrd) | [Ash Leone](https://open.spotify.com/artist/434AIs2qYptNr3FFegjQaK), [WESLEYFRANKLIN](https://open.spotify.com/artist/5kKyuVfbMT2YX6QF3sh6vh) | [Time](https://open.spotify.com/album/17x3SXQC27PQyClfcxJCYP) | 2:40 |
 | 63 | [Sweet Little Rainbows](https://open.spotify.com/track/0eFp7ULoYiRgaYZH0xq79i) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Mystery](https://open.spotify.com/album/0zwexK02AqJJnv1KE3Jj2S) | 3:43 |
 | 64 | [Empath](https://open.spotify.com/track/4QOvj91fKExZHUURDlVdIh) | [Gaidaa](https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG) | [YARN](https://open.spotify.com/album/1I2XSPwMCgqzJG3NHsGdex) | 3:17 |
 | 65 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 |

@@ -4,7 +4,7 @@
 
 > This is Nicholas Craven\. The essential tracks, all in one playlist.
 
-193 songs - 9 hr 4 min
+194 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Laser Focused](https://open.spotify.com/track/4S0LNpvBL53M9lqQ6AVekp) | [Jimmie D](https://open.spotify.com/artist/1grzkPdyoi7RbrBTMIIxRU), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Good Music Hypnotizes](https://open.spotify.com/album/6gRt97VXKvCAti89oAI7LZ) | 1:36 | 2025-05-07 | 2025-09-10 |
 | [Last Night's Soda](https://open.spotify.com/track/5NgJIWWGkMwDrbOhLdGAs5) | [TRAPMAT SAVIOR](https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Scottie Trippin](https://open.spotify.com/album/0Ho8i5gxFkp5yGeOjrvDoO) | 2:03 | 2026-03-13 | 2026-03-14 |
 | [LEATHER SANDALS](https://open.spotify.com/track/3zyA8m7DWpY4ZqIuqjZ9lR) | [Ransom](https://open.spotify.com/artist/0wZbdAcNn6AjGlNUZek9j4), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Salvation for the Wicked](https://open.spotify.com/album/7K2xeRfeFRsEE7PFjWvSpM) | 3:15 | 2026-02-14 | 2026-09-20 |
-| [Look What You Done](https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:14 | 2023-12-13 |  |
+| [Look What You Done](https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:14 | 2023-12-13 | 2026-09-25 |
 | [LOOT\-CRATIVE](https://open.spotify.com/track/5zk1MUiLf53dJAc9iXM9NS) | [Slik Jack](https://open.spotify.com/artist/2zfwgqJzNi5OdfJwFxpMYZ), [Vincent Pryce](https://open.spotify.com/artist/2NOvOuKq4vuXLVKyxx8MC8), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [THE PRYCE YOU PAY](https://open.spotify.com/album/2cuQyw05LhSMjnTMejPUNS) | 3:03 | 2025-10-08 | 2026-01-05 |
 | [Lost His Way](https://open.spotify.com/track/6eqnVQb0Ct5Eg8Aziveyh2) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:12 | 2023-12-13 |  |
 | [Love n Hate 2](https://open.spotify.com/track/6GuGwRA1zlDDFXSR8G4AJm) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King, Vol\. 3](https://open.spotify.com/album/2s9aZ3E7lob5IYqCGQzLhI) | 2:07 | 2024-12-31 | 2025-02-01 |
@@ -199,6 +199,7 @@
 | [Wit out a Question](https://open.spotify.com/track/0luxbKG9tGZuAuMaN6g4Tg) | [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [Dump Gawd: Shot Clock King](https://open.spotify.com/album/36FjECbaQWxWg64KyjotOs) | 2:26 | 2023-12-13 |  |
 | [Wolfing Down](https://open.spotify.com/track/114lH2FW6ptiIv3MPwvRV3) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri) | [Craven N](https://open.spotify.com/album/3MehQLIwSof0ZxgSJUyCRP) | 2:15 | 2023-12-13 |  |
 | [YOD Body](https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:48 | 2024-04-15 | 2025-05-07 |
+| [YOU](https://open.spotify.com/track/4NGPIOGig9sCHWj6roOmeu) | [ANKHLEJOHN](https://open.spotify.com/artist/5C4Ykpj8uV3LkRANA6rF9M), [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB) | [WHAT REMAINS](https://open.spotify.com/album/1KlMknPbPoZLgevvWAKbF6) | 1:26 | 2026-09-25 |  |
 | [You Ain't No Menace](https://open.spotify.com/track/1CzgJLPQmVCnCxtprKmKgA) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Fair Exchange No Robbery](https://open.spotify.com/album/4jpTuerIpgU77hzRCfcXZj) | 3:14 | 2024-02-29 | 2026-05-23 |
 | [Yzerman](https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka) | [Nicholas Craven](https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Craven N 3](https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad) | 2:42 | 2023-12-13 | 2026-01-04 |
 

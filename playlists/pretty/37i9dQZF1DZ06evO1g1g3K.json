@@ -1,12 +1,12 @@
 {
   "description": "This is Durand Bernarr. The essential tracks, all in one playlist.",
-  "num_followers": 7849,
+  "num_followers": 7871,
   "original_name": "This Is Durand Bernarr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAZuavXnTsiTJDbyB+CWXEC",
+  "snapshot_id": "arMWgAAAAABfTUh2f7ukHNkjECAJcbs1",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
-      },
-      "artists": [
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        }
-      ],
-      "duration_ms": 222457,
-      "name": "Mango Butter",
-      "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DUR&",
         "url": "https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 261500,
       "name": "STUCK.",
       "url": "https://open.spotify.com/track/7EXvZP4EJrwD9dVKMyKeGz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG"
+      },
+      "artists": [
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        }
+      ],
+      "duration_ms": 222457,
+      "name": "Mango Butter",
+      "url": "https://open.spotify.com/track/29PmZyOZIZDymT1gFnBEcK"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fist Bump (feat. Free Nationals) (Radio Edit)",
-        "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
+        "name": "Completed - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5EMhgECFU4cV1B5WkwEhmX"
       },
       "artists": [
         {
@@ -364,13 +364,13 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         },
         {
-          "name": "Free Nationals",
-          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
-      "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
+      "duration_ms": 349319,
+      "name": "Completed - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/2VU9K6Cw4ocEaamg0iNkqr"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Completed - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5EMhgECFU4cV1B5WkwEhmX"
+        "name": "Fist Bump (feat. Free Nationals) (Radio Edit)",
+        "url": "https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa"
       },
       "artists": [
         {
@@ -404,13 +404,13 @@
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
         },
         {
-          "name": "COLORS",
-          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+          "name": "Free Nationals",
+          "url": "https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj"
         }
       ],
-      "duration_ms": 349319,
-      "name": "Completed - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/2VU9K6Cw4ocEaamg0iNkqr"
+      "duration_ms": 213000,
+      "name": "Fist Bump (feat. Free Nationals) - Radio Edit",
+      "url": "https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn"
     },
     {
       "added_at": null,
@@ -719,30 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Fail Are We Still Cool?",
-        "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
+        "name": "En Route",
+        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
       },
       "artists": [
         {
-          "name": "Patrick Paige II",
-          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
-        },
-        {
-          "name": "Allen Love",
-          "url": "https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9"
-        },
-        {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 229558,
-      "name": "Whisper (Want My Luv)",
-      "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
+      "duration_ms": 171460,
+      "name": "Processing...",
+      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
     },
     {
       "added_at": null,
@@ -799,18 +787,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Route",
-        "url": "https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5"
+        "name": "If I Fail Are We Still Cool?",
+        "url": "https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB"
       },
       "artists": [
         {
+          "name": "Patrick Paige II",
+          "url": "https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9"
+        },
+        {
+          "name": "Allen Love",
+          "url": "https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9"
+        },
+        {
           "name": "Durand Bernarr",
           "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
         }
       ],
-      "duration_ms": 171460,
-      "name": "Processing...",
-      "url": "https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7"
+      "duration_ms": 229558,
+      "name": "Whisper (Want My Luv)",
+      "url": "https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS"
     },
     {
       "added_at": null,
@@ -827,6 +827,30 @@
       "duration_ms": 222000,
       "name": "Collide",
       "url": "https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
+      },
+      "artists": [
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        },
+        {
+          "name": "Durand Bernarr",
+          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
+        },
+        {
+          "name": "Rose Gold",
+          "url": "https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb"
+        }
+      ],
+      "duration_ms": 268668,
+      "name": "minding_my business",
+      "url": "https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu"
     },
     {
       "added_at": null,
@@ -867,30 +891,6 @@
       "duration_ms": 291053,
       "name": "Bump The Man - Live",
       "url": "https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1988",
-        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
-      },
-      "artists": [
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        },
-        {
-          "name": "Durand Bernarr",
-          "url": "https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW"
-        },
-        {
-          "name": "Rose Gold",
-          "url": "https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb"
-        }
-      ],
-      "duration_ms": 268668,
-      "name": "minding_my business",
-      "url": "https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu"
     }
   ],
   "unique_name": "This Is Durand Bernarr",

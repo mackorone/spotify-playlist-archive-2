@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-148 songs - 11 hr 54 min
+149 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Empathy \(Vaishnava Janato\)](https://open.spotify.com/track/6BUyuLhCaNhpAQFyxZmoiE) | [Ricky Kej](https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl), [Tina Guo](https://open.spotify.com/artist/46T4yCHjQfVxokuATj1SiV), [Masa Takumi](https://open.spotify.com/artist/232qTYJ9qlN1FUQyV9NERy), [Kailash Satyarthi](https://open.spotify.com/artist/3DHSvmqyBGYbxhTSho4Ftn), [Remy Le Boeuf](https://open.spotify.com/artist/6fKaPbQlGgDcbtF90RD8iH), [Pascal Le Boeuf](https://open.spotify.com/artist/3OzyjZvYgXNBiK4FkKG64X), [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW), [Jarrett Johnson](https://open.spotify.com/artist/7s9DvOkGwaNtMa4jPXPpLt), [Dave Gross](https://open.spotify.com/artist/5GnWQTVsfT6J464pwyGF8z), [Erwilian](https://open.spotify.com/artist/2qmu9C9fWBAhbD4o4orObv), [Le Boeuf Brothers](https://open.spotify.com/artist/4CKGMKn8tVtZOjILTE2Uc7) | [Gandhi \- Mantras Of Compassion](https://open.spotify.com/album/64nu6ReZ5mlP7saHh3sgVK) | 2:55 | 2025-08-28 |  |
 | [Enna Thavam Seithanai \- Instrumental](https://open.spotify.com/track/0VOozVf5ZLEbMIVhBAdr9a) | [Ramachandra Murthy](https://open.spotify.com/artist/5qUWPR9NIfKM0SuXWgB736) | [This Is Carnatic Fusion, Vol\. 3](https://open.spotify.com/album/6g9Gc0j2bW30vFBK3Ltzq9) | 4:17 | 2022-06-10 |  |
 | [Entharo Pallavi & Charanam](https://open.spotify.com/track/4RIsoFzJNlHPhDso4oN2wF) | [Karnatriix](https://open.spotify.com/artist/0rhuXpjseoAieJYuBKQwR6) | [Namaste](https://open.spotify.com/album/1gXEGqRmzf1wIdefis4hKi) | 4:54 | 2022-06-10 |  |
+| [Eternal Idhayam](https://open.spotify.com/track/0Et3z4TFZAr9upGyhCuCdJ) | [Saurav Srisan](https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup) | [Eternal Idhayam](https://open.spotify.com/album/5RUZnPsZfOc9rByYnDT50t) | 2:22 | 2026-09-24 |  |
 | [Ex\-Animo](https://open.spotify.com/track/0XBzo4dHYYwaruVBJjd6cd) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 3:24 | 2022-06-10 | 2025-09-29 |
 | [Ex\-Animo](https://open.spotify.com/track/11eiYSPEAaifhDMswWLpdy) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga) | 3:24 | 2022-06-10 | 2024-04-19 |
 | [Ex\-Animo](https://open.spotify.com/track/5msnjQgoFGir5Wn9NFIMmm) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 3:24 | 2022-06-10 | 2023-11-05 |
@@ -133,7 +134,7 @@
 | [Tabla Tonic](https://open.spotify.com/track/2JnxT8ITZQMbCdMbjtme0Q) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Tabla Tonic](https://open.spotify.com/album/7ege3FGyKO1IGmWgGAOdYK) | 3:23 | 2023-09-01 |  |
 | [Taj Mahal](https://open.spotify.com/track/4ar7UgwkIpRklX7ZXfKYUs) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [The Namesake \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3nziFdCTmqxIlYl82Lz9UW) | 0:40 | 2022-06-10 | 2023-09-06 |
 | [Take Off](https://open.spotify.com/track/0fkugUgapvkQGQzEzb47ML) | [Submarine in Space](https://open.spotify.com/artist/6qlx9VJUxPLlp2hbh6WLqR) | [Wavelengths](https://open.spotify.com/album/3XnJNeNVQLSgr8f5JCYJ05) | 7:41 | 2022-06-10 |  |
-| [Telisi Rama](https://open.spotify.com/track/4U84VDe6nIpMEnhaiMATU7) | [Rini](https://open.spotify.com/artist/4DkoN3sidjYQuPiehE12Gs), [Seoyeon Im](https://open.spotify.com/artist/1D0QFoL3MHfPU0JqTlpidZ) | [Telisi Rama](https://open.spotify.com/album/5MbK9qiz0v2GtUhHohipCa) | 3:48 | 2024-07-29 |  |
+| [Telisi Rama](https://open.spotify.com/track/4U84VDe6nIpMEnhaiMATU7) | [Rini](https://open.spotify.com/artist/4DkoN3sidjYQuPiehE12Gs), [Seoyeon Im](https://open.spotify.com/artist/1D0QFoL3MHfPU0JqTlpidZ) | [Telisi Rama](https://open.spotify.com/album/5MbK9qiz0v2GtUhHohipCa) | 3:48 | 2024-07-29 | 2026-09-25 |
 | [The Comeback Trail](https://open.spotify.com/track/0qxZuWjcIzhIUWslev4aP5) | [Sutej Singh](https://open.spotify.com/artist/1LQ87p0qt3OEhSGbjMVuVe) | [The Emerging](https://open.spotify.com/album/6tHfh49o6KkTwugdI9kh0N) | 6:42 | 2022-06-10 |  |
 | [The Last Cadenza](https://open.spotify.com/track/3j0AwklIEeYW7AjOPFMkt4) | [Bhaskar Dutta](https://open.spotify.com/artist/5WmWSEl2YZs5TgVsFFDXBk) | [The Violin Player \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ZVQVSIMR5231HVPUYJWTo) | 5:47 | 2022-06-10 |  |
 | [The Missing Heart](https://open.spotify.com/track/01yNBFVx2WJqHpU64SvaKu) | [Praveen Sriram](https://open.spotify.com/artist/3k40nOv0gpniaMd9OsYZK6) | [Kangalin Badhilenna \(Original Background Score\)](https://open.spotify.com/album/1YkXneHEbHWy8Vodyc2YEa) | 1:30 | 2026-02-11 |  |

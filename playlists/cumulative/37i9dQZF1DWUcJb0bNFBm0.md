@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  Cover: kurayamisaka \(Japan\)
+> Noise distortion amongst the hazy clouds ☁️  Cover: Luby Sparks \(Japan\)
 
-333 songs - 22 hr 59 min
+335 songs - 23 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,12 +122,13 @@
 | [Hotel 65](https://open.spotify.com/track/1ArVwoOXyoO9merCqj1l3o) | [Lucid Express](https://open.spotify.com/artist/0WwjT0WO2JQSXIq7EeDxXf) | [Lucid Express](https://open.spotify.com/album/26l2DqvJYfGDLaCgPGJ8XN) | 4:24 | 2024-06-27 | 2024-12-05 |
 | [Hujan](https://open.spotify.com/track/44fHQPZVM0UHcLEmFMQfDw) | [Marie Joe](https://open.spotify.com/artist/0wSlT3IFLD14xMCX7VbVCx) | [Hujan](https://open.spotify.com/album/4siflbZ24qkhsQaza9CdRz) | 3:46 | 2024-06-27 | 2024-12-05 |
 | [hummingbird](https://open.spotify.com/track/6LhXMXpIFb1cxvhBmHa4kB) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Kyung Min Jang](https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP) | [hummingbird](https://open.spotify.com/album/0SFZsFs5Z2duPK4j6zurEZ) | 3:38 | 2024-06-27 | 2025-08-01 |
+| [I disappear](https://open.spotify.com/track/54hmneLqgiUgLwni4yH9zK) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [I disappear](https://open.spotify.com/album/6FT2ZpQkd2Qr1fDKno7pGZ) | 3:06 | 2026-09-24 |  |
 | [i don’t wanna live with myself anymore](https://open.spotify.com/track/43DgPRRbirO09NCCRiJd7s) | [don't drown!](https://open.spotify.com/artist/4O39jkB3iGwG3PrCsWrAm2) | [i don’t wanna live with myself anymore](https://open.spotify.com/album/5yKshIdY9kfdrmaSjAXXR3) | 3:34 | 2024-06-27 | 2025-07-05 |
 | [I Ever Dreamed Of](https://open.spotify.com/track/7dU1vsjkrmPsfjm5eWyVml) | [Mikado Koko](https://open.spotify.com/artist/0xBoJ1DUOrxxboiavjI6Dx) | [Floating High](https://open.spotify.com/album/656XisQHcyzLwkwug6fS51) | 2:07 | 2024-09-26 | 2024-12-05 |
 | [i know what u think about me](https://open.spotify.com/track/6kHuzeNgElSmnAVefM6Rr8) | [B Murph](https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [i know what u think about me](https://open.spotify.com/album/1HnUw5rjgfErQ5Y2Heiydd) | 2:23 | 2024-08-30 | 2024-09-06 |
 | [I Want You \(Fever\)](https://open.spotify.com/track/1s2t8mpGkaar5VErp1xLqd) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Welcome to My Blue Sky](https://open.spotify.com/album/014qKZpu8VekYsTceOSbiQ) | 3:37 | 2025-10-09 | 2026-04-24 |
 | [I Would Never...](https://open.spotify.com/track/430NEs1rbeYyTWs6skTS0X) | [Drizzly.](https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU), [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [I Would Never...](https://open.spotify.com/album/3oHeWqIezQCJEjcQjYtJBb) | 3:22 | 2024-07-19 | 2025-10-17 |
-| [I'm Fine, Leave Me Behind](https://open.spotify.com/track/3dmOL9nobY7mcWfMvW87n2) | [Summergaze](https://open.spotify.com/artist/76CBZETIp0gINhecCf8HdQ) | [I'm Fine, Leave Me Behind](https://open.spotify.com/album/18sfT2WDs3ReQgO5gB5Htz) | 6:11 | 2025-10-16 |  |
+| [I'm Fine, Leave Me Behind](https://open.spotify.com/track/3dmOL9nobY7mcWfMvW87n2) | [Summergaze](https://open.spotify.com/artist/76CBZETIp0gINhecCf8HdQ) | [I'm Fine, Leave Me Behind](https://open.spotify.com/album/18sfT2WDs3ReQgO5gB5Htz) | 6:11 | 2025-10-16 | 2026-09-25 |
 | [Idaho, Pt\. 2](https://open.spotify.com/track/17l7Etg18fz7ESsTe92kWF) | [Acid Ghost](https://open.spotify.com/artist/3DxAikzv8719U68yCVRELD) | [Vacation II](https://open.spotify.com/album/4zpGwJAUaZLX4psJ5XEFM7) | 1:34 | 2025-10-09 | 2026-04-24 |
 | [If Not Now, Whenever](https://open.spotify.com/track/4AaW30EtfidGtjL23iEvlo) | [The Books](https://open.spotify.com/artist/4UvhuGdFf75Cfan7lEU1J1) | [Lost and Safe \(Remastered\)](https://open.spotify.com/album/6OEOtKsx5WOuKXdJFMx3AY) | 3:36 | 2025-10-09 | 2026-04-24 |
 | [iki](https://open.spotify.com/track/5Oo3gErzLysjVSb2rNOwgo) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Lux](https://open.spotify.com/album/3G2sTBcS9qUSI21k3TDQim) | 4:27 | 2025-01-16 | 2025-02-14 |
@@ -239,6 +240,7 @@
 | [search](https://open.spotify.com/track/5Te9aHJTkpiKwa34WWbeLE) | [daystar](https://open.spotify.com/artist/3ILIaSsV4kXXvqqFcvyeCC) | [lightbringer](https://open.spotify.com/album/6eO4PXGE23svRI186EEEUC) | 2:55 | 2025-07-10 |  |
 | [Sebak](https://open.spotify.com/track/1xbtv9yLOLAWxI7x4OolWL) | [The People of the Sun](https://open.spotify.com/artist/66nHTHCYPKmWPT2n8sDTpP) | [Sebak](https://open.spotify.com/album/4HyeazBPOhfEp8dHQ5CNGm) | 2:58 | 2026-08-13 |  |
 | [Secrets](https://open.spotify.com/track/6hawTk0rC1XZ3Q85VPxNdz) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Secrets](https://open.spotify.com/album/5Haih9CAPJC4F79wF9ubwo) | 4:41 | 2025-10-09 | 2026-04-24 |
+| [See you](https://open.spotify.com/track/3mnV82oFMN5aiPtk724PLP) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [See you](https://open.spotify.com/album/0QQoK8TmuWtIhks9ARvVQA) | 3:56 | 2026-09-24 |  |
 | [Self Bondage](https://open.spotify.com/track/4xYYiEkuaDuoFqw5NFZSlQ) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn) | [Self Bondage](https://open.spotify.com/album/4WKZHnxrsCCGUBS5Z1jXqN) | 5:05 | 2025-08-07 | 2025-10-10 |
 | [Self Destruct & Scott Emotion \(You Watched Myself Getting Destructed\)](https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [It's Terrifying and It's a Shame](https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo) | 2:38 | 2025-02-20 |  |
 | [Selfless Love](https://open.spotify.com/track/5cNKS6aFCnHinqC0nuz0f7) | [dansa med dig](https://open.spotify.com/artist/2wassa3NRZvCqj8d5JeJG1) | [Selfless Love](https://open.spotify.com/album/0QmA8v23gbzewo6rs3FWQM) | 3:46 | 2024-10-10 | 2024-12-05 |
@@ -311,7 +313,7 @@
 | [You Forgot to Say Goodbye](https://open.spotify.com/track/6BpoU69LfJNhtyk8GmsT8b) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [You Forgot to Say Goodbye](https://open.spotify.com/album/5YjWTbdpSLiB1LQRk3CN5z) | 5:26 | 2024-06-27 | 2025-10-17 |
 | [Youth LiFe](https://open.spotify.com/track/6tDEPETl8k4vY8nSk1aPKP) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [The Peak of Youth Life](https://open.spotify.com/album/4VplPiLVuWwTuFoAoswR0i) | 1:58 | 2024-06-27 | 2025-03-07 |
 | [Youth terrorism](https://open.spotify.com/track/19j5UTDyLPIfw07WSvibID) | [orlik](https://open.spotify.com/artist/5ypY2kcdpE3ce1OuAKzPUe) | [Youth terrorism](https://open.spotify.com/album/4sOARqVqjnJNdgqSiZV8BQ) | 4:34 | 2026-03-19 |  |
-| [Đi đâu đó](https://open.spotify.com/track/1S0NzDP9flGmxQPHWN8E9X) | [ĐBB](https://open.spotify.com/artist/56kZuFpoB0u3gvqPKeXGkA) | [Đồi Bươm Bướm](https://open.spotify.com/album/2ZppF0ss8CxqDHyXzDlfiJ) | 4:31 | 2025-05-21 |  |
+| [Đi đâu đó](https://open.spotify.com/track/1S0NzDP9flGmxQPHWN8E9X) | [ĐBB](https://open.spotify.com/artist/56kZuFpoB0u3gvqPKeXGkA) | [Đồi Bươm Bướm](https://open.spotify.com/album/2ZppF0ss8CxqDHyXzDlfiJ) | 4:31 | 2025-05-21 | 2026-09-25 |
 | [ฉันเสียใจจริงๆ](https://open.spotify.com/track/4dx3VM88XTEsyGrQ3Fd0Ww) | [Lost n' Found](https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt) | [ฉันเสียใจจริงๆ](https://open.spotify.com/album/3JZz45zKlVzdsXgBnD97Sj) | 3:48 | 2024-06-27 | 2025-10-10 |
 | [พบ พา ลา จาก](https://open.spotify.com/track/3NwddDfa3ZJa4ryW2vhqca) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep looking at the window](https://open.spotify.com/album/7mKrdvV7cwkcK6jjrwAI19) | 4:40 | 2024-06-27 | 2024-12-05 |
 | [⁠The Ghost of Her Smile](https://open.spotify.com/track/56Q8UTxYRhMu1YaF3wW9GG) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Julie Dawson](https://open.spotify.com/artist/1TzJp2tHjwJG5CZKPWGBIL) | [The Ghost of Her Smile](https://open.spotify.com/album/1eqB2GZ3j5ElZdXHUctKOB) | 3:40 | 2025-10-16 |  |

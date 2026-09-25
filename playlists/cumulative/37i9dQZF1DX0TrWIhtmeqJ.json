@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "For the new generation of trendsetters coming through, we move. Cover: dexter in the newsagent",
+  "description": "For the new generation of trendsetters coming through, we move. Cover: BEASTIE",
   "name": "We Move",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 141191,
       "name": "AS A MAN",
       "url": "https://open.spotify.com/track/4O3WEaP0J6imXxijBr1wZT"
@@ -1823,6 +1823,24 @@
     },
     {
       "album": {
+        "name": "GTA 6",
+        "url": "https://open.spotify.com/album/6QyA08yU08CQrCcAqkh1bg"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "GTA 6",
+      "url": "https://open.spotify.com/track/0CdBlT9EtP6u89NCTmkFqH"
+    },
+    {
+      "album": {
         "name": "Headside In Da Skiez (Babycham Supernova)",
         "url": "https://open.spotify.com/album/7cvZTXuwZeTDPYKiNYSCmT"
       },
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 144000,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/5ASzHE878PA0otam9gN50R"
@@ -3358,7 +3376,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 138897,
       "name": "Saka (Lemme Know)",
       "url": "https://open.spotify.com/track/756gzynJpXp7przV0xrnHv"
@@ -3431,6 +3449,24 @@
     },
     {
       "album": {
+        "name": "Satisfeen",
+        "url": "https://open.spotify.com/album/0bBYXNQ9RYpJQ3LfFmSEWA"
+      },
+      "artists": [
+        {
+          "name": "Saint Demarcus",
+          "url": "https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198476,
+      "name": "Satisfeen",
+      "url": "https://open.spotify.com/track/2VBcAxYv50J8JghXP5JcBs"
+    },
+    {
+      "album": {
         "name": "BLUEBOY",
         "url": "https://open.spotify.com/album/2NVOpcr50Ltvk7eOnG9CGi"
       },
@@ -3442,7 +3478,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 150069,
       "name": "Save My Time",
       "url": "https://open.spotify.com/track/21pwm56tB8PTqEPQbKVllE"
@@ -3536,7 +3572,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 137558,
       "name": "shake_leg",
       "url": "https://open.spotify.com/track/0pdPeMA0ZtA5Pgdfkuh3Z7"
@@ -3778,7 +3814,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160416,
       "name": "So LDN",
       "url": "https://open.spotify.com/track/3fbvgXvMuGBY29RH3wvlt7"
@@ -3800,7 +3836,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 121782,
       "name": "Socially Punished",
       "url": "https://open.spotify.com/track/7ByYsTYt1oDCEVrjG7YoQF"
@@ -4112,7 +4148,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 195840,
       "name": "Sweet Rose",
       "url": "https://open.spotify.com/track/07XM0G5OUgiiG0rtRkhdcv"
@@ -4400,7 +4436,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 159272,
       "name": "too many days i've spent waiting",
       "url": "https://open.spotify.com/track/6NaWF1PFEmq0dSv4GDq6Aj"
@@ -4745,6 +4781,24 @@
     },
     {
       "album": {
+        "name": "maria",
+        "url": "https://open.spotify.com/album/2EG73KOEhUnJlY7FqBKaF5"
+      },
+      "artists": [
+        {
+          "name": "BEASTIE",
+          "url": "https://open.spotify.com/artist/0kxRqPeVVubS6KBRsTG0p1"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "we could've moved mountains",
+      "url": "https://open.spotify.com/track/0Nk0MmIpvpEVdwf25QhgBY"
+    },
+    {
+      "album": {
         "name": "ab, we wanna party!",
         "url": "https://open.spotify.com/album/0Mip5DiQijAAI9gX80ypGA"
       },
@@ -4974,6 +5028,24 @@
       "duration_ms": 160229,
       "name": "WORK",
       "url": "https://open.spotify.com/track/3aIdKjlx606TM4p0DwhVph"
+    },
+    {
+      "album": {
+        "name": "Surf's Up",
+        "url": "https://open.spotify.com/album/7xOXvAr4rtexCJs1EdSMOF"
+      },
+      "artists": [
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Wrestlemania",
+      "url": "https://open.spotify.com/track/1CJcXEEggADxTHcdG6JrWq"
     },
     {
       "album": {

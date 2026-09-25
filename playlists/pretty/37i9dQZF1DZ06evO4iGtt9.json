@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 9910,
+  "num_followers": 9915,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADRDdpdzWDnghL+3VPEoO8z",
+  "snapshot_id": "arMWgAAAAADLAKg5dXT79kZ73qWOS4j4",
   "tracks": [
     {
       "added_at": null,
@@ -40,9 +40,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 173840,
-      "name": "Born to Win",
-      "url": "https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI"
+      "duration_ms": 208040,
+      "name": "Don Dada",
+      "url": "https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8"
     },
     {
       "added_at": null,
@@ -112,9 +112,9 @@
           "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 208040,
-      "name": "Don Dada",
-      "url": "https://open.spotify.com/track/7gReWQ16Qs5gtAkytHEKB8"
+      "duration_ms": 173840,
+      "name": "Born to Win",
+      "url": "https://open.spotify.com/track/0rYHjZeIaXmMm8D9ujvgeI"
     },
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Epiphany",
-        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 187213,
-      "name": "Sanko",
-      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gehn Gehn Album",
         "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 207317,
       "name": "Ogede",
       "url": "https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Epiphany",
+        "url": "https://open.spotify.com/album/5Ez1K4VqsS6Vt2sh5Se1qL"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 187213,
+      "name": "Sanko",
+      "url": "https://open.spotify.com/track/0oWbSZxhrbaS043QNnSQhL"
     },
     {
       "added_at": null,
@@ -575,26 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IN MY HEAD",
-        "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 177692,
-      "name": "IN MY HEAD",
-      "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gift And Grace",
         "url": "https://open.spotify.com/album/51PvKjkkUQ7IPjVprJxcsb"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 272040,
       "name": "Dem Mama Anthem",
       "url": "https://open.spotify.com/track/3EIQWn1o7hDAIPFiKw5cQZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IN MY HEAD",
+        "url": "https://open.spotify.com/album/5dI959e51lkReZI50si0ef"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 177692,
+      "name": "IN MY HEAD",
+      "url": "https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Iberibe",
-      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Samankwe",
         "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 212554,
       "name": "Samankwe",
       "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Iberibe",
+      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
     },
     {
       "added_at": null,

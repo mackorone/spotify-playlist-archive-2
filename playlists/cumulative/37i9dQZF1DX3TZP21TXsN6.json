@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "Miero YIC, Krulle, Bakss en meer..",
+  "description": "Rits, Noah Ysp, Moony11 en meer..",
   "name": "Fresh Flows",
   "tracks": [
     {
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 156444,
       "name": "Baddie Uit De Hood",
       "url": "https://open.spotify.com/track/2VmhsaoMgsXXLfnZPJzaSn"
@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 177250,
       "name": "Bankoe Cent",
       "url": "https://open.spotify.com/track/7saZmAK5jwChVyfzSAi1xl"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 146823,
       "name": "BLOOT",
       "url": "https://open.spotify.com/track/10WlS5o0poflBRM7nsLzty"
@@ -3252,7 +3252,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 166400,
       "name": "Daar staat tie weer",
       "url": "https://open.spotify.com/track/4Pzt6BiWFndSByi8JNwXyA"
@@ -3410,6 +3410,28 @@
       "duration_ms": 154285,
       "name": "De Avond Is Van Mij",
       "url": "https://open.spotify.com/track/1gjZNt0dkLja62Qin0lKEe"
+    },
+    {
+      "album": {
+        "name": "De Hele Week",
+        "url": "https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG"
+      },
+      "artists": [
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        },
+        {
+          "name": "Avenue",
+          "url": "https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "De Hele Week",
+      "url": "https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM"
     },
     {
       "album": {
@@ -4180,7 +4202,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 159272,
       "name": "Eindhalte",
       "url": "https://open.spotify.com/track/59in6AgwT5Hbr5aUgDkrGL"
@@ -4202,6 +4224,28 @@
       "duration_ms": 152195,
       "name": "Eindstand Weer Alleen",
       "url": "https://open.spotify.com/track/0Aow4DMgRbT6FG1uvFTgCa"
+    },
+    {
+      "album": {
+        "name": "Ellende",
+        "url": "https://open.spotify.com/album/5fTzkS5soYDnPWMEjBRG6T"
+      },
+      "artists": [
+        {
+          "name": "EG",
+          "url": "https://open.spotify.com/artist/2VTbL6YnyCgkWwjhIK6bV4"
+        },
+        {
+          "name": "ATLouis",
+          "url": "https://open.spotify.com/artist/2y2lLr1nFfcyDCSwNIZtWa"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162500,
+      "name": "Ellende",
+      "url": "https://open.spotify.com/track/6miYkbu7E39kKKPQ12dbjR"
     },
     {
       "album": {
@@ -4242,6 +4286,24 @@
       "duration_ms": 145709,
       "name": "Emoties",
       "url": "https://open.spotify.com/track/4amxDIpmwnGRrJFYouREQK"
+    },
+    {
+      "album": {
+        "name": "Eredivisie",
+        "url": "https://open.spotify.com/album/2BJhlPvJofX61QoWTG1sim"
+      },
+      "artists": [
+        {
+          "name": "Hendriks",
+          "url": "https://open.spotify.com/artist/5MXvJOVt68Xblvb81ZL2Ra"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171962,
+      "name": "Eredivisie",
+      "url": "https://open.spotify.com/track/1yUYyacxk8zgEgEXKegH9N"
     },
     {
       "album": {
@@ -5054,7 +5116,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 135724,
       "name": "Geen Gedicht",
       "url": "https://open.spotify.com/track/5VZ8kHIjed0nPZY0RpJuec"
@@ -5710,6 +5772,24 @@
       "duration_ms": 185753,
       "name": "Haast",
       "url": "https://open.spotify.com/track/3cOTBCliRjJUbVdz11RYtE"
+    },
+    {
+      "album": {
+        "name": "HAC \u00e0 DOS",
+        "url": "https://open.spotify.com/album/3zmbZSNPACkHbvnRuRT0MI"
+      },
+      "artists": [
+        {
+          "name": "247Loosey",
+          "url": "https://open.spotify.com/artist/5MxaJCmQcD7J3leCOMgkvH"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141369,
+      "name": "HAC \u00e0 DOS",
+      "url": "https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU"
     },
     {
       "album": {
@@ -8012,7 +8092,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 138082,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/6io82I17kB0NRmD5O9UvXD"
@@ -8292,7 +8372,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 173730,
       "name": "Lifestyle",
       "url": "https://open.spotify.com/track/0HZGRSHaegYZnZOGz8e7QL"
@@ -9295,6 +9375,24 @@
     },
     {
       "album": {
+        "name": "Mijn beurt",
+        "url": "https://open.spotify.com/album/1JvAW4KIlghK0daaYDKhCw"
+      },
+      "artists": [
+        {
+          "name": "Moony11",
+          "url": "https://open.spotify.com/artist/37FMKePANjyQqSJK36WpWN"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123840,
+      "name": "Mijn beurt",
+      "url": "https://open.spotify.com/track/72DjmEMfK5t4J2BabL3kec"
+    },
+    {
+      "album": {
         "name": "BNT Vol. 1",
         "url": "https://open.spotify.com/album/2hRFLumetrIxEE4py3GnJE"
       },
@@ -10038,6 +10136,28 @@
       "duration_ms": 214825,
       "name": "Net Nieuw, Koop Hem",
       "url": "https://open.spotify.com/track/4JWxNzofLEUOzwqw1Htgti"
+    },
+    {
+      "album": {
+        "name": "NET RODDY",
+        "url": "https://open.spotify.com/album/36vPEThfy46ZKf25ZsU7Qg"
+      },
+      "artists": [
+        {
+          "name": "KV6",
+          "url": "https://open.spotify.com/artist/5Ojlrj4iEOFt2ygzVY859Y"
+        },
+        {
+          "name": "ACHTKEER",
+          "url": "https://open.spotify.com/artist/64074GCrdlmMFRW2R3kh6u"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "NET RODDY",
+      "url": "https://open.spotify.com/track/7rXCqPlm0IeescN1N4AAiD"
     },
     {
       "album": {
@@ -10855,6 +10975,24 @@
     },
     {
       "album": {
+        "name": "Olise",
+        "url": "https://open.spotify.com/album/1yOzFYtmkaehirg2DMndYk"
+      },
+      "artists": [
+        {
+          "name": "Vurr Flashy",
+          "url": "https://open.spotify.com/artist/4HvrPyaGmNPeUEgBA4n6uh"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123863,
+      "name": "Olise",
+      "url": "https://open.spotify.com/track/4ya0xoq0Y1F3M4Ou0cNj1X"
+    },
+    {
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/7fNGurfAePiRiJubXVUXSH"
       },
@@ -11355,6 +11493,24 @@
     },
     {
       "album": {
+        "name": "Pawsa",
+        "url": "https://open.spotify.com/album/6j31tJ3NFgrDrqyfX7xRFI"
+      },
+      "artists": [
+        {
+          "name": "Noah Ysp",
+          "url": "https://open.spotify.com/artist/6EXdAUuol3xlQgad9NEy9u"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113873,
+      "name": "Pawsa",
+      "url": "https://open.spotify.com/track/2UsJ1KOEvta9kRRyFSupxC"
+    },
+    {
+      "album": {
         "name": "Penthouse",
         "url": "https://open.spotify.com/album/5HLIDpS1GqFEdBqJmdZlum"
       },
@@ -11530,7 +11686,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 233325,
       "name": "PINAS STICK UP KID",
       "url": "https://open.spotify.com/track/3o8IzTF31dkmoG1TCr1QTG"
@@ -12620,7 +12776,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 138000,
       "name": "Skims",
       "url": "https://open.spotify.com/track/4PlKqffPizCk62Ai3YGdhq"
@@ -13402,7 +13558,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 186164,
       "name": "Technisch",
       "url": "https://open.spotify.com/track/1EgJppxmTVC8lkvab5kndk"
@@ -14294,6 +14450,24 @@
       "duration_ms": 185142,
       "name": "Under Armour",
       "url": "https://open.spotify.com/track/16a0WNOCprLh6sKOuheaYT"
+    },
+    {
+      "album": {
+        "name": "UNESCO",
+        "url": "https://open.spotify.com/album/1GWyBnYD78DNFV3Gwazi1U"
+      },
+      "artists": [
+        {
+          "name": "Pjotr",
+          "url": "https://open.spotify.com/artist/0gRFVzEkjFmFifMlqVlTta"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141991,
+      "name": "UNESCO",
+      "url": "https://open.spotify.com/track/39j9xJAuZyjOwH8sbqdltn"
     },
     {
       "album": {
@@ -16044,7 +16218,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 212835,
       "name": "\u00dcBER DIE GRENZE",
       "url": "https://open.spotify.com/track/11eEwahIOB5hLz8gyYLPUg"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Paola Pizzino in cover della playlist dell'R&B italiano \ud83e\udec0",
+  "description": "Primo Amore in cover della playlist dell'R&B italiano \ud83e\udec0",
   "name": "anima R&B",
   "tracks": [
     {
@@ -858,7 +858,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 157532,
       "name": "Alain Delon (feat. Livio Cori)",
       "url": "https://open.spotify.com/track/6BKKTXIu5B0qFV1STTcFyo"
@@ -1628,7 +1628,7 @@
       ],
       "date_added": "2025-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171391,
       "name": "Arma Puntata (feat. 22simba)",
       "url": "https://open.spotify.com/track/2tchckpnk6RZ2yPyB09eeG"
@@ -3987,6 +3987,24 @@
     },
     {
       "album": {
+        "name": "Isola",
+        "url": "https://open.spotify.com/album/22DqsM3rSU738Ffok1wCjD"
+      },
+      "artists": [
+        {
+          "name": "Paola Pizzino",
+          "url": "https://open.spotify.com/artist/6qZnOElnoaba63XsIts7ug"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191070,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/0O47OpDhVaa041KA9WzD87"
+    },
+    {
+      "album": {
         "name": "Clich\u00e9",
         "url": "https://open.spotify.com/album/5c71nbw4lllzQE8AKXO7yH"
       },
@@ -4212,6 +4230,24 @@
       "duration_ms": 180923,
       "name": "Come Fai",
       "url": "https://open.spotify.com/track/2t6W9WYsPhNaCxZV1XDVmK"
+    },
+    {
+      "album": {
+        "name": "Niente in ordine",
+        "url": "https://open.spotify.com/album/2mkYiHZvFWL5O5ZngZPKPl"
+      },
+      "artists": [
+        {
+          "name": "Primo Amore",
+          "url": "https://open.spotify.com/artist/6vqyGm4tSHrerJwKwQm7jo"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182168,
+      "name": "Come Fai Tu Con Me",
+      "url": "https://open.spotify.com/track/7GJANoNC3m6IrLp3D9rJaB"
     },
     {
       "album": {
@@ -5150,6 +5186,24 @@
       "duration_ms": 168000,
       "name": "DARK DRAGONITE (feat. Missey)",
       "url": "https://open.spotify.com/track/5S6J3X4G1ulSJyM5D0EUp9"
+    },
+    {
+      "album": {
+        "name": "DAYDREAM",
+        "url": "https://open.spotify.com/album/0U5giDEhNvPqLB7mhFpefz"
+      },
+      "artists": [
+        {
+          "name": "POPMINERALE",
+          "url": "https://open.spotify.com/artist/4O5lO0bnj8YQ9wSsUPQejj"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/5XJdZH3dYA38Hu6X3jLxlz"
     },
     {
       "album": {
@@ -6806,6 +6860,24 @@
       "duration_ms": 157950,
       "name": "FCCV",
       "url": "https://open.spotify.com/track/2r1JS0QY40kol76Ne7xsNA"
+    },
+    {
+      "album": {
+        "name": "FEDERICA",
+        "url": "https://open.spotify.com/album/4WemgP52K18oItUuWHBLzi"
+      },
+      "artists": [
+        {
+          "name": "zafina",
+          "url": "https://open.spotify.com/artist/0xtREruxB0K1dTUYdNCGe1"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146526,
+      "name": "FEDERICA",
+      "url": "https://open.spotify.com/track/3JLupEEqEjmXIHzS9EniLf"
     },
     {
       "album": {
@@ -10809,6 +10881,24 @@
     },
     {
       "album": {
+        "name": "scusa se divento strano quando c'\u00e8 tanto rumore attorno",
+        "url": "https://open.spotify.com/album/4siwcBHU3M1ccNYoJyCi9c"
+      },
+      "artists": [
+        {
+          "name": "francoblu",
+          "url": "https://open.spotify.com/artist/7iN8euamheNCKE8Tm58T1F"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168859,
+      "name": "lucia",
+      "url": "https://open.spotify.com/track/4ym2vn4z052l7zuPKTG3WK"
+    },
+    {
+      "album": {
         "name": "Luciana",
         "url": "https://open.spotify.com/album/0KZX3BSDChIfHtLuY8L2Yg"
       },
@@ -13016,7 +13106,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 158297,
       "name": "non dire non mi manchi",
       "url": "https://open.spotify.com/track/3XIE9BFQCeGFUbaQLGxv27"
@@ -14318,7 +14408,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 188372,
       "name": "ora",
       "url": "https://open.spotify.com/track/1NKIngfX6oB1vONTa41Dwa"
@@ -19462,7 +19552,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 133838,
       "name": "TATUAGGI",
       "url": "https://open.spotify.com/track/3JMC4ZvnNC5B8NNfyBXzMK"

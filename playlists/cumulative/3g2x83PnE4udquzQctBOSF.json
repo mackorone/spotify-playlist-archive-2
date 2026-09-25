@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Our weekly selection is here \u26a1\ufe0f",
-  "name": "AGLF Playlist",
+  "description": "",
+  "name": "angi\u016b selecta",
   "tracks": [
     {
       "album": {
@@ -220,7 +220,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 155634,
       "name": "Abra",
       "url": "https://open.spotify.com/track/72IL3KDD2TrK7MWbQ7umRd"
@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Backroom",
+        "url": "https://open.spotify.com/album/2LAmb5Ulg5nvkeMY6ErHeI"
+      },
+      "artists": [
+        {
+          "name": "angi\u016b",
+          "url": "https://open.spotify.com/artist/2F3fmYRjAAp3mRIHYkLNwn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183381,
+      "name": "Backroom",
+      "url": "https://open.spotify.com/track/2FPUyW8xkn6a9ZlTnHi3Qu"
+    },
+    {
+      "album": {
         "name": "Bad Bitch (Radio-Edit)",
         "url": "https://open.spotify.com/album/3zHaOCeN2G6A0RzWQXmXiC"
       },
@@ -944,7 +962,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 223028,
       "name": "Bad Bitch - Radio-Edit",
       "url": "https://open.spotify.com/track/6WUQf62CBbhScGo46V143a"
@@ -1750,7 +1768,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 175739,
       "name": "Boogie",
       "url": "https://open.spotify.com/track/731RLFvy6JXfSlq6zosv2O"
@@ -2284,7 +2302,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 220987,
       "name": "Call On Me",
       "url": "https://open.spotify.com/track/4PupCImDzC6MoXNogI4wtF"
@@ -2324,7 +2342,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 185570,
       "name": "Calling Through The Fire",
       "url": "https://open.spotify.com/track/6qYFaotJBp1LwTlu0Vsk3d"
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 139107,
       "name": "CLOD",
       "url": "https://open.spotify.com/track/0TWVLP8GandBcmFzuHD4iv"
@@ -3634,7 +3652,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 203333,
       "name": "Don't Wanna Be",
       "url": "https://open.spotify.com/track/2btIgqM1ddLW5hZBaZJw0W"
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 199074,
       "name": "Don't Watch Her",
       "url": "https://open.spotify.com/track/7KCIyeB50sJSlNI0qcLhtf"
@@ -4268,7 +4286,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 192862,
       "name": "Escape",
       "url": "https://open.spotify.com/track/1H3rFP8VEwng3ksIiWOaqi"
@@ -4530,7 +4548,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 177157,
       "name": "Faith",
       "url": "https://open.spotify.com/track/1IpoI1YwPYZNPmfBVyDW3n"
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 175262,
       "name": "Feel",
       "url": "https://open.spotify.com/track/13asuGx7fQF4JXui3YIZXf"
@@ -5020,7 +5038,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 192113,
       "name": "Fog Clear",
       "url": "https://open.spotify.com/track/5yC9BZ9FaWuPOQmvzKm7b2"
@@ -5296,7 +5314,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171750,
       "name": "Funky Piano",
       "url": "https://open.spotify.com/track/37SfQh73wu3wmOV3jOn2VJ"
@@ -5758,7 +5776,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 173338,
       "name": "Gotta Get It Right",
       "url": "https://open.spotify.com/track/7mmc6DJUO9eETdQ1kvSYcB"
@@ -5950,7 +5968,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 205902,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/2Isl08WEerxw5i48SLH8Cx"
@@ -5968,7 +5986,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171473,
       "name": "Haus",
       "url": "https://open.spotify.com/track/27Llu0CjjPMUF4bGLXJ7n6"
@@ -6997,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "Resonate EP",
+        "url": "https://open.spotify.com/album/1qAPfCe5pM2KKRYoCwhDMi"
+      },
+      "artists": [
+        {
+          "name": "angi\u016b",
+          "url": "https://open.spotify.com/artist/2F3fmYRjAAp3mRIHYkLNwn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209201,
+      "name": "Jimmy Choo - Radio Edit",
+      "url": "https://open.spotify.com/track/5HWpJEFZFe4xGLhWWir2fv"
+    },
+    {
+      "album": {
         "name": "I Hope This EP Finds You Well",
         "url": "https://open.spotify.com/album/5DLfNQMndr0elVO6gvQAvw"
       },
@@ -7900,7 +7936,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 177274,
       "name": "Lights Out - Radio Edit",
       "url": "https://open.spotify.com/track/6d2NZwQWYpymxeNQn2ng7R"
@@ -7966,7 +8002,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 345000,
       "name": "Like That",
       "url": "https://open.spotify.com/track/1JNsOlU0F47q4TZrTGAhoR"
@@ -8324,7 +8360,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 310256,
       "name": "Love Light",
       "url": "https://open.spotify.com/track/3PgTuDzuxC8OpWLjSwPwT2"
@@ -8422,6 +8458,24 @@
       "duration_ms": 191304,
       "name": "Lure of the Siren - Original Mix",
       "url": "https://open.spotify.com/track/2YFSEzobMVH6r5KaUoTFmL"
+    },
+    {
+      "album": {
+        "name": "Resonate EP",
+        "url": "https://open.spotify.com/album/1qAPfCe5pM2KKRYoCwhDMi"
+      },
+      "artists": [
+        {
+          "name": "angi\u016b",
+          "url": "https://open.spotify.com/artist/2F3fmYRjAAp3mRIHYkLNwn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210687,
+      "name": "Lurkin_ - Radio Edit",
+      "url": "https://open.spotify.com/track/4g954CDDbaMWaHxU1Vj7r8"
     },
     {
       "album": {
@@ -8758,7 +8812,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180610,
       "name": "Mind Eraser",
       "url": "https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5"
@@ -8954,7 +9008,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 295415,
       "name": "Most Rappers",
       "url": "https://open.spotify.com/track/3N96m9ZBBZ5ULFaL3BPr3W"
@@ -9258,7 +9312,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 174300,
       "name": "My Mind - Radio Edit",
       "url": "https://open.spotify.com/track/0exfGKgdyUGlMlNPHER7gB"
@@ -9482,6 +9536,24 @@
       "duration_ms": 232009,
       "name": "No Fight",
       "url": "https://open.spotify.com/track/7sgSVpOZSWu3gfJbRJCRgk"
+    },
+    {
+      "album": {
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/5aJ70J7FefYS2CnmNlab4U"
+      },
+      "artists": [
+        {
+          "name": "angi\u016b",
+          "url": "https://open.spotify.com/artist/2F3fmYRjAAp3mRIHYkLNwn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209081,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/033IEKNFuhrXjjuAbz76CE"
     },
     {
       "album": {
@@ -10252,7 +10324,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 168576,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/4E4oQnJS12BxBYUI5m7sok"
@@ -10680,7 +10752,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 357328,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/1rEcQXle7aws6WsTZIp45B"
@@ -10734,7 +10806,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 157341,
       "name": "Promise",
       "url": "https://open.spotify.com/track/7GgTyT1GDun2c2tpyD7EYI"
@@ -10872,7 +10944,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 207624,
       "name": "Pushin",
       "url": "https://open.spotify.com/track/70JiFn45cmQTqa2auERjHv"
@@ -10992,7 +11064,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 189196,
       "name": "Ready Or Not",
       "url": "https://open.spotify.com/track/4n9RHYdYcIofn5C5j1gpz0"
@@ -11112,6 +11184,24 @@
       "duration_ms": 232500,
       "name": "Reload",
       "url": "https://open.spotify.com/track/0B6twHJlRxSM9Q68NpGCKg"
+    },
+    {
+      "album": {
+        "name": "Resonate EP",
+        "url": "https://open.spotify.com/album/1qAPfCe5pM2KKRYoCwhDMi"
+      },
+      "artists": [
+        {
+          "name": "angi\u016b",
+          "url": "https://open.spotify.com/artist/2F3fmYRjAAp3mRIHYkLNwn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243286,
+      "name": "Resonate Bass - Radio Edit",
+      "url": "https://open.spotify.com/track/5lLhzeEKuqkMTmb05jigU9"
     },
     {
       "album": {
@@ -11336,7 +11426,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 357364,
       "name": "Rollin Deep",
       "url": "https://open.spotify.com/track/1xqgyVl04Jto4JNlytv69q"
@@ -11704,7 +11794,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 191040,
       "name": "Sexy303",
       "url": "https://open.spotify.com/track/15JGflSesjfFXQazkoEFwj"
@@ -11740,7 +11830,7 @@
       ],
       "date_added": "2025-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 226030,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/610KP4pndeyVkGo0wtYK23"
@@ -12288,7 +12378,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 198144,
       "name": "So Bad",
       "url": "https://open.spotify.com/track/2it0K7P3FoPI4aq2ufYO1f"
@@ -12544,7 +12634,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 147844,
       "name": "Space Call",
       "url": "https://open.spotify.com/track/6A1dYUpyhWU8KtmGsmVlAZ"
@@ -14126,7 +14216,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 182659,
       "name": "Trees",
       "url": "https://open.spotify.com/track/7BtZd6usn7WB3HuWygWWx0"
@@ -15222,7 +15312,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 197416,
       "name": "WTF",
       "url": "https://open.spotify.com/track/0G7OcyJxRWmuHr9z5LQLNf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,925 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,926 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 24 | [Got Soul](https://open.spotify.com/track/64Z3YM5ZdbIRRdZKbPLxzq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 4:12 |
 | 25 | [Twined & Twisted](https://open.spotify.com/track/1odjg0Ct6jcXl9hK0nx02f) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:13 |
 | 26 | [All I Really Wanna Do](https://open.spotify.com/track/6zwaAZzlDrap10CYFQQIsq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:43 |
-| 27 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
-| 28 | [I'll Fly Away](https://open.spotify.com/track/0ilZ7oUP9WaySwnJASgZQs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Brighter Blue](https://open.spotify.com/album/6yI3LmZnE098Pxfa102pIS) | 3:08 |
+| 27 | [I'll Fly Away](https://open.spotify.com/track/0ilZ7oUP9WaySwnJASgZQs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Brighter Blue](https://open.spotify.com/album/6yI3LmZnE098Pxfa102pIS) | 3:08 |
+| 28 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
 | 29 | [For What It's Worth](https://open.spotify.com/track/5FqXVTKfmWtoV9XFnhGtsj) | [Susan O'Neill](https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For What It's Worth](https://open.spotify.com/album/5o25ZkbK19PYTefKUhCkv8) | 2:33 |
 | 30 | [I Am In Love](https://open.spotify.com/track/4K2uJNcCPOEa3o6lMAOZSm) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 3:36 |
 | 31 | [The Hour](https://open.spotify.com/track/4pn8AsvuA3JpMnK0pbVgsy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' against a Stone](https://open.spotify.com/album/4i19hM4eLMNUR3fgchdT6z) | 3:49 |
-| 32 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 |
-| 33 | [Two Roads](https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:11 |
+| 32 | [Colors](https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:19 |
+| 33 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 |
 | 34 | [Inside Me](https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:22 |
 | 35 | [Runnin' and Searchin'](https://open.spotify.com/track/1WVXw5ovf3sTglDGnaSS91) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Runnin' and Searchin'](https://open.spotify.com/album/3eBwjqDE4nQ6MTcgCXh4nI) | 3:06 |
-| 36 | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w) | 3:02 |
-| 37 | [Colors](https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:19 |
+| 36 | [Two Roads](https://open.spotify.com/track/70mQOpzNZzO7FJvjmMWbY7) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:11 |
+| 37 | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w) | 3:02 |
 | 38 | [Changed \(Feat\. The Blind Boys Of Alabama\)](https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:05 |
 | 39 | [Reclaim All Of Your Time \(feat\. Valerie June and Wynonna\)](https://open.spotify.com/track/6VMrXWENo5E7PbIb2cVGfH) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [The Story of Michael and Tanya](https://open.spotify.com/album/4DsL4fp1EBMXavK10WxBkl) | 4:08 |
 | 40 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 49 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 |
 | 50 | [Within You \- Moon And Stars / Acoustic](https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 4:02 |
 
-Snapshot ID: `arHFAAAAAAAyhUFm2EZVO7lYWYAksYEn`
+Snapshot ID: `arMWgAAAAAAkL4gRowyC5nFreqdhUFLq`

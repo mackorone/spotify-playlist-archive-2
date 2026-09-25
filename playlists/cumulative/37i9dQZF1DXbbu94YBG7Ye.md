@@ -4,7 +4,7 @@
 
 > 📸 KAROL G
 
-741 songs - 1 day 14 hr 53 min
+742 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [33](https://open.spotify.com/track/2pOmxwuiElZh5oyX0jQfDG) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [33](https://open.spotify.com/album/5ztgvNH3hnZM7rINEBAsuE) | 3:44 | 2025-04-25 | 2025-05-16 |
 | [36 Vidas](https://open.spotify.com/track/7zfvPN6Rth5yp1u0QbOglc) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [36 Vidas](https://open.spotify.com/album/2ptkMLdvJ813famENmU1Iz) | 2:53 | 2025-12-12 | 2026-03-28 |
 | [444](https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [444](https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16) | 2:55 | 2025-07-04 | 2026-03-28 |
-| [666](https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [666](https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL) | 2:20 | 2026-04-24 |  |
+| [666](https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [666](https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL) | 2:20 | 2026-04-24 | 2026-09-25 |
 | [7 VIDAS](https://open.spotify.com/track/1xxL4IRO8CwdxSNm5bSNlw) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [XROSS](https://open.spotify.com/artist/1sV3HHU1TBH5owKu0WLHf7) | [7 VIDAS](https://open.spotify.com/album/0wIZkk4BOIprBCqorQB2XB) | 2:24 | 2025-08-28 | 2025-12-05 |
 | [8 AM](https://open.spotify.com/track/5UcWUgWfR2Ir0EXSb1EpoM) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:27 | 2023-06-08 | 2023-12-09 |
 | [\[FREE\] 5202 Type Beat](https://open.spotify.com/track/7v6TT7EUEYAX1S7RZaZOkG) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [5202](https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00) | 2:38 | 2025-07-10 | 2025-08-16 |
@@ -698,6 +698,7 @@
 | [UWAIE \- versión cumbia](https://open.spotify.com/track/5IgmWwbNUeZzvYrODLletR) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [UWAIE \(versión cumbia\)](https://open.spotify.com/album/5OvHusjeeqeowoBzHgXok7) | 2:42 | 2025-08-14 | 2026-07-03 |
 | [UWAIE \- versión cumbia](https://open.spotify.com/track/6UO9DhCUq4ZbQz7PXwelFV) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [UWAIE \(versión cumbia\)](https://open.spotify.com/album/6moCUeXsvkwxc97b3OEyPb) | 2:42 | 2026-07-02 |  |
 | [Vamo a Bailotear](https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ) | [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Apocalipsis](https://open.spotify.com/album/47JohERDAJVAzmfCgOfG5w) | 2:40 | 2025-07-04 | 2025-09-21 |
+| [VAMO A VEL](https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [VAMO A VEL](https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI) | 4:00 | 2026-09-24 |  |
 | [VAMOaCOCHI](https://open.spotify.com/track/1oghNMGW42IhtQPNU6leZz) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [POR SI MAÑANA NO ESTOY](https://open.spotify.com/album/6A7uWpBb4nHbiBHWRlZi5f) | 3:19 | 2026-05-15 | 2026-07-03 |
 | [VeLDÁ](https://open.spotify.com/track/7d6yK8v8J484SWH5prIQiE) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:55 | 2025-03-20 |  |
 | [VIAJEMOS EN EL TIEMPO \#1 \| Quien Te Quiere Como Yo](https://open.spotify.com/track/6il9B9hrZPNpXei57XM1Sv) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL), [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [VIAJEMOS EN EL TIEMPO \#1 \| Quien Te Quiere Como Yo](https://open.spotify.com/album/71UB9ZahcDvZeDijkCKUuI) | 2:53 | 2025-07-04 | 2025-08-16 |

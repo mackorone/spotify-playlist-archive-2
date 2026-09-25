@@ -1,6 +1,6 @@
 {
   "description": "Canciones instrumentales de guitarra.",
-  "num_followers": 136594,
+  "num_followers": 136600,
   "original_name": "Guitarra Tranquila",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Lavender Sun",
-        "url": "https://open.spotify.com/album/0WB9nrmow21f2lO1i3LAjf"
-      },
-      "artists": [
-        {
-          "name": "Jules Navarro",
-          "url": "https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP"
-        }
-      ],
-      "duration_ms": 129481,
-      "name": "Lavender Sun",
-      "url": "https://open.spotify.com/track/5v0YFbxaEqKd1dMciTxaBR"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Desiduous Forest",
         "url": "https://open.spotify.com/album/3akGIFQqqRuyvJKgTkeIGg"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 139000,
       "name": "Desiduous Forest",
       "url": "https://open.spotify.com/track/3G7Ku8bRYbkkVhdm8TcnUa"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Lavender Sun",
+        "url": "https://open.spotify.com/album/0WB9nrmow21f2lO1i3LAjf"
+      },
+      "artists": [
+        {
+          "name": "Jules Navarro",
+          "url": "https://open.spotify.com/artist/7BWwgrlgeQmwmHyw5OSExP"
+        }
+      ],
+      "duration_ms": 129481,
+      "name": "Lavender Sun",
+      "url": "https://open.spotify.com/track/5v0YFbxaEqKd1dMciTxaBR"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88"
-      },
-      "artists": [
-        {
-          "name": "Christopher Varela",
-          "url": "https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK"
-        }
-      ],
-      "duration_ms": 120967,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Simple Reverie",
         "url": "https://open.spotify.com/album/3BmX4s69077iF5bueVbl7n"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 187170,
       "name": "Simple Reverie",
       "url": "https://open.spotify.com/track/51cpn2Y6niqb3LnucJXkwH"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88"
+      },
+      "artists": [
+        {
+          "name": "Christopher Varela",
+          "url": "https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK"
+        }
+      ],
+      "duration_ms": 120967,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Wild at Heart",
-        "url": "https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB"
-      },
-      "artists": [
-        {
-          "name": "Andreas Horschel",
-          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
-        }
-      ],
-      "duration_ms": 155274,
-      "name": "Wild at Heart",
-      "url": "https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Care",
         "url": "https://open.spotify.com/album/7k1IuxipWPPsVmg7cSk4vs"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 143000,
       "name": "Care",
       "url": "https://open.spotify.com/track/1AvsaTVnMVzISPmFVEg71V"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Wild at Heart",
+        "url": "https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "duration_ms": 155274,
+      "name": "Wild at Heart",
+      "url": "https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Pebble Garden",
-        "url": "https://open.spotify.com/album/27D6azi103r9yZgj31J0Td"
-      },
-      "artists": [
-        {
-          "name": "Milan Heyes",
-          "url": "https://open.spotify.com/artist/46yZrE3PvsXkGFY6lE0EJ9"
-        }
-      ],
-      "duration_ms": 143915,
-      "name": "Pebble Garden",
-      "url": "https://open.spotify.com/track/7FnC1HiGKlpOQXjh4bUtHh"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Before The Water Rises",
         "url": "https://open.spotify.com/album/0DbT5d0jg9rFr3w9yNuEuK"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 139408,
       "name": "Before The Water Rises",
       "url": "https://open.spotify.com/track/6Vlo05BBMttzQbfbvFReKa"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Pebble Garden",
+        "url": "https://open.spotify.com/album/27D6azi103r9yZgj31J0Td"
+      },
+      "artists": [
+        {
+          "name": "Milan Heyes",
+          "url": "https://open.spotify.com/artist/46yZrE3PvsXkGFY6lE0EJ9"
+        }
+      ],
+      "duration_ms": 143915,
+      "name": "Pebble Garden",
+      "url": "https://open.spotify.com/track/7FnC1HiGKlpOQXjh4bUtHh"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Cinnamon",
-        "url": "https://open.spotify.com/album/4stNY4vMIrQEofdz6fl1dP"
-      },
-      "artists": [
-        {
-          "name": "Dieter Huber",
-          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
-        }
-      ],
-      "duration_ms": 157628,
-      "name": "Cinnamon",
-      "url": "https://open.spotify.com/track/0doV7jrfQ1qpgl1mBMjqDo"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Translucent",
         "url": "https://open.spotify.com/album/52GxEBUMTXix3i2AhCaFVz"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 196124,
       "name": "Translucent",
       "url": "https://open.spotify.com/track/5JTQZAulgYZHdYvsGzIPpr"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/4stNY4vMIrQEofdz6fl1dP"
+      },
+      "artists": [
+        {
+          "name": "Dieter Huber",
+          "url": "https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi"
+        }
+      ],
+      "duration_ms": 157628,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/0doV7jrfQ1qpgl1mBMjqDo"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "The Winding Road",
-        "url": "https://open.spotify.com/album/6QbrSgrvymEB6KfUVyZKQV"
-      },
-      "artists": [
-        {
-          "name": "Dorian Skye",
-          "url": "https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq"
-        }
-      ],
-      "duration_ms": 192052,
-      "name": "The Winding Road",
-      "url": "https://open.spotify.com/track/68uofB3G5C257zDFVJSgL1"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Everwarm",
         "url": "https://open.spotify.com/album/41ezKIzkNkok0R3aBcdyLU"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 169345,
       "name": "Everwarm",
       "url": "https://open.spotify.com/track/4vVHHh42oRLxw4McSyWED2"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "The Winding Road",
+        "url": "https://open.spotify.com/album/6QbrSgrvymEB6KfUVyZKQV"
+      },
+      "artists": [
+        {
+          "name": "Dorian Skye",
+          "url": "https://open.spotify.com/artist/2PqHZufHAfKQKnL2C76Dnq"
+        }
+      ],
+      "duration_ms": 192052,
+      "name": "The Winding Road",
+      "url": "https://open.spotify.com/track/68uofB3G5C257zDFVJSgL1"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
+        "name": "The Rain Comes",
+        "url": "https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin"
+      },
+      "artists": [
+        {
+          "name": "Ivan Bielsa",
+          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
+        }
+      ],
+      "duration_ms": 160481,
+      "name": "The Rain Comes",
+      "url": "https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
         "name": "Grandpa's Old Guitar",
         "url": "https://open.spotify.com/album/471jyzEOUJypMMkcqpOIqo"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 142232,
       "name": "Grandpa's Old Guitar",
       "url": "https://open.spotify.com/track/2i2V6nxUsl9zDWrwDdwbEX"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
-        "name": "Castlewood",
-        "url": "https://open.spotify.com/album/5zzTVTdeVT4u5mE9hhPNNf"
-      },
-      "artists": [
-        {
-          "name": "Jacob Ledger",
-          "url": "https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg"
-        }
-      ],
-      "duration_ms": 130884,
-      "name": "Castlewood",
-      "url": "https://open.spotify.com/track/7y0jzOmOGjJa1x8UUCyEIu"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
+        "name": "Castlewood",
+        "url": "https://open.spotify.com/album/5zzTVTdeVT4u5mE9hhPNNf"
+      },
+      "artists": [
+        {
+          "name": "Jacob Ledger",
+          "url": "https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg"
+        }
+      ],
+      "duration_ms": 130884,
+      "name": "Castlewood",
+      "url": "https://open.spotify.com/track/7y0jzOmOGjJa1x8UUCyEIu"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
         "name": "Fulfilled",
         "url": "https://open.spotify.com/album/7CzUiAzMrlFzPGrZ9EDcBL"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 167038,
       "name": "Fulfilled",
       "url": "https://open.spotify.com/track/5bDTr8O5GBM8zhrLZidCL5"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
-        "name": "The Rain Comes",
-        "url": "https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin"
-      },
-      "artists": [
-        {
-          "name": "Ivan Bielsa",
-          "url": "https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua"
-        }
-      ],
-      "duration_ms": 160481,
-      "name": "The Rain Comes",
-      "url": "https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Look Up",
-        "url": "https://open.spotify.com/album/035ju6sd54YQIg44aCRMzU"
-      },
-      "artists": [
-        {
-          "name": "M. Rose",
-          "url": "https://open.spotify.com/artist/6mDntABgyJFtNZ3IkqCJIn"
-        }
-      ],
-      "duration_ms": 157686,
-      "name": "Look Up",
-      "url": "https://open.spotify.com/track/0ZiRInDpULhyc77lBcqMoQ"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Tomorrow's Dream",
         "url": "https://open.spotify.com/album/375tL35zwCzLsuLSkSpGpG"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 180500,
       "name": "Tomorrow's Dream",
       "url": "https://open.spotify.com/track/2CCN2biC5thrngQtYUlSOh"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Look Up",
+        "url": "https://open.spotify.com/album/035ju6sd54YQIg44aCRMzU"
+      },
+      "artists": [
+        {
+          "name": "M. Rose",
+          "url": "https://open.spotify.com/artist/6mDntABgyJFtNZ3IkqCJIn"
+        }
+      ],
+      "duration_ms": 157686,
+      "name": "Look Up",
+      "url": "https://open.spotify.com/track/0ZiRInDpULhyc77lBcqMoQ"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Embrace",
-        "url": "https://open.spotify.com/album/5JtSMJQHqrir1O0CY8cPT2"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel Fischer",
-          "url": "https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3"
-        }
-      ],
-      "duration_ms": 155365,
-      "name": "Embrace",
-      "url": "https://open.spotify.com/track/2WoTg0pmCpUpakSrIVMyc4"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/0cM0K4oNN7D8Rxx6HEsX0n"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 200416,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/5H8vWHr2WXUPBJPvzzdoGI"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Embrace",
+        "url": "https://open.spotify.com/album/5JtSMJQHqrir1O0CY8cPT2"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Fischer",
+          "url": "https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3"
+        }
+      ],
+      "duration_ms": 155365,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/2WoTg0pmCpUpakSrIVMyc4"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -1899,22 +1899,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Within the Shadows",
-        "url": "https://open.spotify.com/album/4prfX6I5qZUD92xTIG2WpZ"
-      },
-      "artists": [
-        {
-          "name": "August Wilkes",
-          "url": "https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5"
-        }
-      ],
-      "duration_ms": 158975,
-      "name": "Within the Shadows",
-      "url": "https://open.spotify.com/track/1RJtXa2TkS5ikLxU6dFBhc"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "View From an Ocean Window",
         "url": "https://open.spotify.com/album/1WfvFKykwlwVx8VeuMdcVE"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 174250,
       "name": "View From an Ocean Window",
       "url": "https://open.spotify.com/track/5wDqNmiNn05olf0aavPjfy"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Within the Shadows",
+        "url": "https://open.spotify.com/album/4prfX6I5qZUD92xTIG2WpZ"
+      },
+      "artists": [
+        {
+          "name": "August Wilkes",
+          "url": "https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5"
+        }
+      ],
+      "duration_ms": 158975,
+      "name": "Within the Shadows",
+      "url": "https://open.spotify.com/track/1RJtXa2TkS5ikLxU6dFBhc"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Impressions",
-        "url": "https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62"
-      },
-      "artists": [
-        {
-          "name": "Antonio Garcia Isaac",
-          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
-        }
-      ],
-      "duration_ms": 258823,
-      "name": "Impressions",
-      "url": "https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Resolve",
         "url": "https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 160095,
       "name": "Resolve",
       "url": "https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Impressions",
+        "url": "https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62"
+      },
+      "artists": [
+        {
+          "name": "Antonio Garcia Isaac",
+          "url": "https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3"
+        }
+      ],
+      "duration_ms": 258823,
+      "name": "Impressions",
+      "url": "https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -2107,22 +2107,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Matira",
-        "url": "https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN"
-      },
-      "artists": [
-        {
-          "name": "Beau Hayes",
-          "url": "https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I"
-        }
-      ],
-      "duration_ms": 140373,
-      "name": "Matira",
-      "url": "https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Beautiful symbol",
         "url": "https://open.spotify.com/album/0Kd5h9Eqr1B0RclDkHK8UJ"
       },
@@ -2135,6 +2119,22 @@
       "duration_ms": 139011,
       "name": "Beautiful symbol",
       "url": "https://open.spotify.com/track/0Sc485nvujwCllSECRF2sT"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Matira",
+        "url": "https://open.spotify.com/album/51Hi43BRLetzxLME54vxjN"
+      },
+      "artists": [
+        {
+          "name": "Beau Hayes",
+          "url": "https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I"
+        }
+      ],
+      "duration_ms": 140373,
+      "name": "Matira",
+      "url": "https://open.spotify.com/track/5DM2p6mxHBAXz9v9C7Or4o"
     },
     {
       "added_at": "2026-03-30 09:01:19",

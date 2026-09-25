@@ -4,7 +4,7 @@
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-87 songs - 7 hr 9 min
+88 songs - 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,11 +60,12 @@
 | [O Come to the Altar](https://open.spotify.com/track/7JeZ9RrNEz0cPPvuHOVABz) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:40 | 2025-02-28 |  |
 | [O for a Thousand Tongues to Sing](https://open.spotify.com/track/1QVSsndsS0mi29RrT33f88) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [O for a Thousand Tongues to Sing](https://open.spotify.com/album/0pulAd7U6v0q0uUsXjcqYx) | 4:08 | 2024-01-11 | 2024-03-16 |
 | [O Praise the Name \(Live\)](https://open.spotify.com/track/06JooBbucchucT6w3HaMlR) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms Live](https://open.spotify.com/album/3UzKQzSKz9lo1rGBDm7iFv) | 4:52 | 2023-03-17 | 2026-07-25 |
-| [Oh But God](https://open.spotify.com/track/5aQCI8gmJvmLtvBocSS954) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Sunday Setlist \#1](https://open.spotify.com/album/47ZXDoLEV4UZj7uaHu302z) | 4:13 | 2026-01-15 |  |
+| [Oh But God](https://open.spotify.com/track/5aQCI8gmJvmLtvBocSS954) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Sunday Setlist \#1](https://open.spotify.com/album/47ZXDoLEV4UZj7uaHu302z) | 4:13 | 2026-01-15 | 2026-09-25 |
 | [Only a Holy God](https://open.spotify.com/track/4uVzGYFMl6ERzkZAVoLoCS) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 19](https://open.spotify.com/album/2VZXpz7RzBvtyFEv9OEGbQ) | 5:16 | 2026-08-15 |  |
 | [Our God Is Greater](https://open.spotify.com/track/61jQN64QwaHBfXidHeBU0H) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Dare 2 Share \- Unending Worship](https://open.spotify.com/album/7ijXWwAzI9UQwbUrFv7Dvd) | 4:42 | 2023-03-17 | 2024-06-18 |
 | [Power of the Cross](https://open.spotify.com/track/3HWxZ9nQ7h30D8DupavEGv) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 2](https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4) | 6:03 | 2024-03-15 | 2024-12-09 |
 | [Praise to the Lord \(Joyful, Joyful\)](https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 2](https://open.spotify.com/album/7lNYY32MRpKbPtzOpRpBC4) | 4:19 | 2025-12-31 |  |
+| [Praise Upon Praise](https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Praise Upon Praise](https://open.spotify.com/album/5yE1Rgtnic38wVRaHbiFnp) | 4:04 | 2026-09-25 |  |
 | [Promises](https://open.spotify.com/track/4lCpzh6KbskACgEx1OAPHu) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Trenton Bell](https://open.spotify.com/artist/5erQxNPoPplRxZ7eS4c37M), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [The Worship Initiative, Vol\. 22](https://open.spotify.com/album/0CmnHXF54fEkpmW2qNwwSp) | 5:01 | 2023-03-17 |  |
 | [Psalm 139 \(Far Too Wonderful\)](https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:12 | 2023-03-17 |  |
 | [Psalm 23 \(Surely Goodness, Surely Mercy\)](https://open.spotify.com/track/2Zxili8AmCuqiomg9HzTgH) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 4:47 | 2023-03-17 |  |

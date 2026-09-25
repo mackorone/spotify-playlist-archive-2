@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: TEEKS
+> The best in South African and international R&B\. Cover: Blxckie
 
-696 songs - 1 day 13 hr 36 min
+697 songs - 1 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,6 +356,7 @@
 | [LOCATION](https://open.spotify.com/track/5kgeRCTZk6TpdYKcwiqQL8) | [RGRSNW](https://open.spotify.com/artist/0iXnQiDftxiAJTqoeJ2noD) | [RESET](https://open.spotify.com/album/1BvmIZHYOmntr3eBrLwuQ4) | 3:24 | 2024-05-03 | 2024-07-27 |
 | [lon3ly](https://open.spotify.com/track/1qIZ86h51bpBHpg6eFTDkf) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:44 | 2024-10-03 | 2025-02-07 |
 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 | 2025-05-29 | 2025-09-26 |
+| [lonely \(feat\. L.A.X\)](https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [lonely \(feat\. L.A.X\)](https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR) | 2:44 | 2026-09-24 |  |
 | [Lonely? \(Come Along\)](https://open.spotify.com/track/4Uo9L4l5evGRj8GB3Sddos) | [Th&o.](https://open.spotify.com/artist/0RYKFLXXxrpiF7e1zmCZLT) | [Lonely? \(Come Along\)](https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA) | 3:44 | 2024-07-18 | 2024-09-03 |
 | [Looking Good](https://open.spotify.com/track/5xzmxRIdBaPGp1y6kJa7Hh) | [Crunchy Sweater](https://open.spotify.com/artist/2D3HVUBLvAhDjdTwXQhNQY) | [Looking Good](https://open.spotify.com/album/6Dd965EGQECoAvxXS7phpI) | 2:33 | 2023-10-12 | 2023-10-27 |
 | [Lose My Focus](https://open.spotify.com/track/6JIQgoFRn5JI2Kxc1B0QzY) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS), [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:37 | 2025-02-28 | 2025-04-25 |
@@ -460,7 +461,7 @@
 | [Ordinary Love](https://open.spotify.com/track/27oYvDzSpwNDNojFdUD7LZ) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Ordinary Love](https://open.spotify.com/album/2R6EzaM8RREXn9jkFK7BEd) | 2:56 | 2024-02-08 | 2024-06-14 |
 | [OUTTA MY HEAD](https://open.spotify.com/track/1Cqz8B8mNo2ZACTbMwnHTt) | [2am](https://open.spotify.com/artist/54avHNJAk1hlKRoqrbVx2d), [Phiwo](https://open.spotify.com/artist/1qoXgLST4EUgUB9Ml5jVOp) | [OUTTA MY HEAD](https://open.spotify.com/album/2KoRFKvQOePwjRIc9esZmT) | 3:12 | 2024-02-22 | 2024-06-14 |
 | [overdose](https://open.spotify.com/track/2yAkgFcID5XoXF3yRcu8tc) | [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [overdose](https://open.spotify.com/album/5SnkdRhNhYmzgWkaIGQijn) | 3:23 | 2024-02-08 | 2024-06-14 |
-| [Overdose](https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Overdose](https://open.spotify.com/album/0z9eiOxFAYLI5rhHwrlE5s) | 4:30 | 2026-09-17 |  |
+| [Overdose](https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Overdose](https://open.spotify.com/album/0z9eiOxFAYLI5rhHwrlE5s) | 4:30 | 2026-09-17 | 2026-09-25 |
 | [Owami](https://open.spotify.com/track/164zEGTDaleWWKuvUMDF3q) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [Prod By Esco](https://open.spotify.com/artist/6kltOvShHbFG2ZZlZW0aSt) | [Forever,Green In Me](https://open.spotify.com/album/0nRBdgIm2Cm4kkwQQsjRlg) | 2:33 | 2025-06-13 | 2025-06-20 |
 | [P\*$$Y Fairy \(OTW\)](https://open.spotify.com/track/4ldEa3I2vWrRKlydokvoqw) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [The Magic Hour Collection](https://open.spotify.com/album/74mtMbzlfabjaXD9gSJKEi) | 3:01 | 2025-02-13 | 2025-03-01 |
 | [Painless Melody](https://open.spotify.com/track/5V5euYL3vuOTjO21URlTla) | [Braye](https://open.spotify.com/artist/7wGQ0lfuBST1l3WyiJGVY0) | [Painless Melody](https://open.spotify.com/album/12MU0PCtVWRi5xO9xop3W2) | 3:05 | 2024-10-11 | 2024-11-29 |

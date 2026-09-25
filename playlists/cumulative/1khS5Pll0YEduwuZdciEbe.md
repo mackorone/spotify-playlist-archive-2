@@ -4,7 +4,7 @@
 
 > Showcasing the world of Indie; feel the vibes and enjoy the ride\. Cover: Broken Social Scene
 
-287 songs - 17 hr 23 min
+288 songs - 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Take What’s Given](https://open.spotify.com/track/5ai9YGfkYzJ6WHtFIPiIdD) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Take What’s Given](https://open.spotify.com/album/68Ty6HjRWh9np1sfwnXyTB) | 2:57 | 2024-02-02 | 2024-11-02 |
 | [Talk](https://open.spotify.com/track/2g3c43AWIKXT8hFHV9UlF6) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Talk](https://open.spotify.com/album/6kX0IaoVlOu3my3g9Zzi36) | 3:17 | 2025-03-21 |  |
 | [The Kill](https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:11 | 2024-04-12 | 2025-05-03 |
+| [The Meaning of Flowers](https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [The Meaning of Flowers](https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB) | 3:54 | 2026-09-24 |  |
 | [The Other Side](https://open.spotify.com/track/1whkfFxtxHalsQt83YfUGH) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face \(Club Deluxe\)](https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc) | 3:16 | 2024-04-26 | 2024-11-25 |
 | [The River](https://open.spotify.com/track/0GGVP9FAOPRn528pafeFG9) | [Petey](https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA) | [The River](https://open.spotify.com/album/6nH1Skb7fmYGc27ZHMV4QE) | 4:44 | 2024-05-03 | 2024-10-12 |
 | [The Tower](https://open.spotify.com/track/09eApSzdPkFadMVJ8LlA3D) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [The Tower](https://open.spotify.com/album/47RludCGdkS9Um7g0emMUD) | 3:36 | 2023-11-03 | 2024-01-20 |

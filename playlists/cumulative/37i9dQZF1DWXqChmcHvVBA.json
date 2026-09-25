@@ -2083,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "El sonido que retumba",
+        "url": "https://open.spotify.com/album/27THwCYU41VM14Rl3ph21n"
+      },
+      "artists": [
+        {
+          "name": "Lezcano Alan",
+          "url": "https://open.spotify.com/artist/4JeRrGerAf9K5h4sp7Usjz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134044,
+      "name": "El sonido que retumba",
+      "url": "https://open.spotify.com/track/2gHIg1ZcVEmDG4NogyNa2r"
+    },
+    {
+      "album": {
         "name": "El Super Junte Rkt",
         "url": "https://open.spotify.com/album/4kRkwZhpcxCFWP7NfWAGtY"
       },
@@ -2484,7 +2502,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 218823,
       "name": "Gata Rkt - Versi\u00f3n Corta El BAI, Salastkbron, Gian gabanna, Fili Wey (feat. nysix music, el pesa 9, El Goldo De Las Conec & Las conec Entertainment)",
       "url": "https://open.spotify.com/track/4dVbMnF6xhHdzSiUROCRaX"
@@ -4571,6 +4589,24 @@
     },
     {
       "album": {
+        "name": "PERRA",
+        "url": "https://open.spotify.com/album/3v7GytozWQfABUcQ09OqFB"
+      },
+      "artists": [
+        {
+          "name": "Lezcano Alan",
+          "url": "https://open.spotify.com/artist/4JeRrGerAf9K5h4sp7Usjz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123173,
+      "name": "PERRA",
+      "url": "https://open.spotify.com/track/0QQthhuTn2aYB0ZxILCf48"
+    },
+    {
+      "album": {
         "name": "Perra Yo Te Am\u00e9",
         "url": "https://open.spotify.com/album/6IN68MS0gytqdHjPEdQdW2"
       },
@@ -6196,7 +6232,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171802,
       "name": "Sonajero",
       "url": "https://open.spotify.com/track/0VpmnectfUwCYCBuuSYtF7"
@@ -6432,7 +6468,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 162697,
       "name": "TATTOO REMIX",
       "url": "https://open.spotify.com/track/4LnJJwdPgID9vFXjmxfdMy"
@@ -6668,7 +6704,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 164424,
       "name": "TERAPIA DE CHOQUE",
       "url": "https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C"
@@ -7707,6 +7743,28 @@
     },
     {
       "album": {
+        "name": "WANDA NARA",
+        "url": "https://open.spotify.com/album/6uTB0GBCq0kZHfzvRLchFB"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Martin Vegas",
+          "url": "https://open.spotify.com/artist/0Hj71XvNxPsd4X5umdCmgp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121856,
+      "name": "WANDA NARA",
+      "url": "https://open.spotify.com/track/2tQLMiPffqSsHdQEUvlwfT"
+    },
+    {
+      "album": {
         "name": "Wya Red Rkt",
         "url": "https://open.spotify.com/album/4dPkWv3xrEQXdIspppfGlz"
       },
@@ -7818,6 +7876,28 @@
       "duration_ms": 155697,
       "name": "Yo Argento",
       "url": "https://open.spotify.com/track/7cg6cViD0cLx7ClwAzRtTS"
+    },
+    {
+      "album": {
+        "name": "Yo Me Enamor\u00e9",
+        "url": "https://open.spotify.com/album/3Hkz5RZk11nBPdvTdWsjZV"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        },
+        {
+          "name": "El Miguelo",
+          "url": "https://open.spotify.com/artist/5nc2kQCTDf6j6DzDkAclu5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188064,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/0DeW9Rixio7frv6UcwS8kK"
     },
     {
       "album": {

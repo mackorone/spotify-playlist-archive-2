@@ -358,7 +358,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 159285,
       "name": "All or Nothing",
       "url": "https://open.spotify.com/track/0wD2zvN5F2PIHGSruEI7Z0"
@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Baby I'm a Rockstar",
+        "url": "https://open.spotify.com/album/4wmeG2YCG9H4zoujAfq19d"
+      },
+      "artists": [
+        {
+          "name": "PR\u00ddNCESS",
+          "url": "https://open.spotify.com/artist/4rZKv505SlTFRbNmmmRhmt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261599,
+      "name": "Baby I'm a Rockstar",
+      "url": "https://open.spotify.com/track/6zLz0kuGVpaa38dlHMvssD"
+    },
+    {
+      "album": {
         "name": "AFTERPART1",
         "url": "https://open.spotify.com/album/0KzqnvgP2lhKHKLLIxGNct"
       },
@@ -1046,7 +1064,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 164560,
       "name": "Beat Me Up",
       "url": "https://open.spotify.com/track/6iQ6uu9FSWPbt6BuX0XsjU"
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 204255,
       "name": "Because I'm Awesome (2012)",
       "url": "https://open.spotify.com/track/6ddZ5TbkVjlT72M6ueeitR"
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 223826,
       "name": "Behind These Eyes",
       "url": "https://open.spotify.com/track/0a9Vf88EBSaB7cKxvs0Nrx"
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Bite Your Kiss",
       "url": "https://open.spotify.com/track/5QsheJokkVxMHE560aBZJN"
@@ -2764,7 +2782,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 191240,
       "name": "Dead Honey",
       "url": "https://open.spotify.com/track/1UClxw7v1bRhB6GpoVmO3O"
@@ -2836,7 +2854,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 220150,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/16d0yg7oUxPbVwipccQ2L2"
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 205186,
       "name": "Dirty Mercy",
       "url": "https://open.spotify.com/track/6pNS6OLRNCGGtTlSEXbIUU"
@@ -3373,6 +3391,24 @@
     },
     {
       "album": {
+        "name": "Invisible Tonight",
+        "url": "https://open.spotify.com/album/7ygsghuGcE8KN2kPY9vNRa"
+      },
+      "artists": [
+        {
+          "name": "The Nearly Deads",
+          "url": "https://open.spotify.com/artist/02xGrkvi3hMrDW023OJNAc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216712,
+      "name": "Easy Way Out",
+      "url": "https://open.spotify.com/track/1Obx1gFjHWVbAq4nUvIREu"
+    },
+    {
+      "album": {
         "name": "Eat Shit and Live",
         "url": "https://open.spotify.com/album/3Z42lGrVbECeVjGIC4N5kb"
       },
@@ -3618,7 +3654,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 172960,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6TLkosfh9lsfyFiwFlyobA"
@@ -4368,7 +4404,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 205311,
       "name": "Get By",
       "url": "https://open.spotify.com/track/11dav0PkNPDaOLeIJYzIvZ"
@@ -4422,7 +4458,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 229506,
       "name": "Get You Off",
       "url": "https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5"
@@ -4753,6 +4789,24 @@
     },
     {
       "album": {
+        "name": "GRANNIES",
+        "url": "https://open.spotify.com/album/2q0F0H7UUrgF12o9SVBWdb"
+      },
+      "artists": [
+        {
+          "name": "Skating Polly",
+          "url": "https://open.spotify.com/artist/1ST6hERy8rGdwUaNAZxfG9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188290,
+      "name": "GRANNIES",
+      "url": "https://open.spotify.com/track/46fHiqqqmA5KKcth7H6kIV"
+    },
+    {
+      "album": {
         "name": "Gravity Falls",
         "url": "https://open.spotify.com/album/17ToyTerw0TEsUcJwBlnzn"
       },
@@ -4926,7 +4980,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-22",
+      "date_removed": null,
       "duration_ms": 216693,
       "name": "Headstone",
       "url": "https://open.spotify.com/track/3bQncwb8OmzEnY94GiqJB9"
@@ -4962,7 +5016,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 272253,
       "name": "Heaven In This Hell",
       "url": "https://open.spotify.com/track/5HjMSswXGe5JbV088K4ara"
@@ -5870,7 +5924,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 131880,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/1zFGHFw826rsYq9xlAX9Ox"
@@ -6004,7 +6058,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 237720,
       "name": "Imperfection",
       "url": "https://open.spotify.com/track/3RVbu42FIdF875KHAkPyPn"
@@ -6430,7 +6484,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 202082,
       "name": "Just a little more time",
       "url": "https://open.spotify.com/track/4WWhpAQXo4EUMAvcbbdRlx"
@@ -6574,7 +6628,7 @@
       ],
       "date_added": "2025-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 193587,
       "name": "Knock Me Out",
       "url": "https://open.spotify.com/track/45iyMCubmptie947BIWKdl"
@@ -6830,7 +6884,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 175372,
       "name": "Liar",
       "url": "https://open.spotify.com/track/0TDtixsT2psc3aHdVsIpIM"
@@ -7472,7 +7526,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 164360,
       "name": "Me Out Of Me",
       "url": "https://open.spotify.com/track/3PVFxQ9vrcjOKIdEoP5cst"
@@ -7832,7 +7886,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 187413,
       "name": "Mother Mother",
       "url": "https://open.spotify.com/track/3jboU6xVRN7HvArTydWO8v"
@@ -7886,7 +7940,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 230480,
       "name": "Mr. Freakshow",
       "url": "https://open.spotify.com/track/37qgaVcDY4hpu0h5N35fma"
@@ -8268,7 +8322,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 240453,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/6nzzff6d9z3BYb2hYdutz0"
@@ -8304,7 +8358,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 168000,
       "name": "No One's Home",
       "url": "https://open.spotify.com/track/4H32i9x2H1RiAv9xAGm3rg"
@@ -9734,7 +9788,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Ready For It?",
       "url": "https://open.spotify.com/track/67HareIZIiVgMqOh19yL5K"
@@ -9986,7 +10040,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 328814,
       "name": "Rotura infinita",
       "url": "https://open.spotify.com/track/5jW6cyuvWZvy6qFsOBt1ZE"
@@ -12394,7 +12448,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 115480,
       "name": "Watch Me Move",
       "url": "https://open.spotify.com/track/0E70YerfAQ1gbc6f7P2qdC"
@@ -12484,7 +12538,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 198570,
       "name": "Welcome To The Badlands",
       "url": "https://open.spotify.com/track/0eKlJZz9cE2DAhjOSqehCS"
@@ -12610,7 +12664,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 169173,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/5DDd2Gq55LpJYmmoRYLqqe"
@@ -13118,7 +13172,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 218508,
       "name": "\u0414\u0435\u0432\u043e\u0447\u043a\u0430",
       "url": "https://open.spotify.com/track/0zAsZdgcdQ0LJyTVN8Efix"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-02",
-  "description": "Le meilleur du rap africain francophone. Photo : Lil Jay Bingerack",
+  "description": "Le meilleur du rap africain francophone. Photo : Hoodbaby",
   "name": "Afro Rap",
   "tracks": [
     {
@@ -184,6 +184,28 @@
       "duration_ms": 150812,
       "name": "3X SAINT",
       "url": "https://open.spotify.com/track/0ueLdzRWqNM8mSc9sUYQcu"
+    },
+    {
+      "album": {
+        "name": "WELCOME TO MY HOOD",
+        "url": "https://open.spotify.com/album/6MPNZug9oqtpRulDoDyZOY"
+      },
+      "artists": [
+        {
+          "name": "Hoodbaby",
+          "url": "https://open.spotify.com/artist/2QUhLhWyOfUIJnSCwmJNbY"
+        },
+        {
+          "name": "Ameka Zrai",
+          "url": "https://open.spotify.com/artist/2PG1Fj7Mp49NqxNtjZdMsv"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "A.B.F",
+      "url": "https://open.spotify.com/track/2HiqlqRAiboJS4sBKg7Nyg"
     },
     {
       "album": {
@@ -804,6 +826,32 @@
       "duration_ms": 207576,
       "name": "Bad Bitchiz",
       "url": "https://open.spotify.com/track/1S750kuZUnE2aR84RZaUQT"
+    },
+    {
+      "album": {
+        "name": "BADDIES",
+        "url": "https://open.spotify.com/album/1xQ8D1Y98SAAWfyK5ofqfy"
+      },
+      "artists": [
+        {
+          "name": "Redka",
+          "url": "https://open.spotify.com/artist/120hT0TD1UxVB1Xz4kJPNJ"
+        },
+        {
+          "name": "Tazeboy",
+          "url": "https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa"
+        },
+        {
+          "name": "BigAmk",
+          "url": "https://open.spotify.com/artist/1OsxSBQ8WWf9nqW6qwb6st"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141509,
+      "name": "BADDIES",
+      "url": "https://open.spotify.com/track/5ydl6rWWOw1vG1YKB1Aw1c"
     },
     {
       "album": {
@@ -1632,7 +1680,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 262383,
       "name": "Carolina (feat. Black Dany, Kevin Mik, VINS, Alrich & Mr B)",
       "url": "https://open.spotify.com/track/0u3P6z1Y0kgQ9OIZVhjY2D"
@@ -2396,6 +2444,24 @@
       "duration_ms": 121982,
       "name": "Deodorant",
       "url": "https://open.spotify.com/track/1ZXvWdX8l4j7JLL9kSoiT5"
+    },
+    {
+      "album": {
+        "name": "2026 Golden Run",
+        "url": "https://open.spotify.com/album/5vUhGARSLeXAnVkauLN6Vg"
+      },
+      "artists": [
+        {
+          "name": "TRK.",
+          "url": "https://open.spotify.com/artist/1n8sswL2m5gBFjC6JQF1b7"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151447,
+      "name": "Deutsche Qualitat",
+      "url": "https://open.spotify.com/track/4IFW2hiijkI8nTyhGhWMET"
     },
     {
       "album": {
@@ -5365,6 +5431,50 @@
     },
     {
       "album": {
+        "name": "LDD - L'\u0153il Du Dragon",
+        "url": "https://open.spotify.com/album/2yniUXmg10RT0EudAkDIqj"
+      },
+      "artists": [
+        {
+          "name": "Zo Killeuh",
+          "url": "https://open.spotify.com/artist/0YHzaGvzk3KWBElV7zB6Gv"
+        },
+        {
+          "name": "Samba Peuzzi",
+          "url": "https://open.spotify.com/artist/4jXLwmp2AhoxoaPr14fagb"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "MOI AU MOINS",
+      "url": "https://open.spotify.com/track/7jOruMv2nUCUzjAFjCJF4Q"
+    },
+    {
+      "album": {
+        "name": "MOKOLOBANGO",
+        "url": "https://open.spotify.com/album/6hFqR7dV6uJtQSXlYtiCR7"
+      },
+      "artists": [
+        {
+          "name": "ADB",
+          "url": "https://open.spotify.com/artist/3rNdf6wK0vycXyi6Di7VOL"
+        },
+        {
+          "name": "Skulio",
+          "url": "https://open.spotify.com/artist/1xEnKwxOz74T0uyDRReDJQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190888,
+      "name": "MOKOLOBANGO",
+      "url": "https://open.spotify.com/track/4g4SQS2WcROJ8YJXJYRlID"
+    },
+    {
+      "album": {
         "name": "MONA LISA",
         "url": "https://open.spotify.com/album/39DwulUHKfSGZiPo5uoGEs"
       },
@@ -5620,6 +5730,24 @@
       "duration_ms": 169655,
       "name": "Moyo",
       "url": "https://open.spotify.com/track/02CJ2HE3SPd4i5gOSAJiGZ"
+    },
+    {
+      "album": {
+        "name": "Museli\u00e8re 3 (HURACAN)",
+        "url": "https://open.spotify.com/album/7ngT6Z3FhZQum1zin8z7WP"
+      },
+      "artists": [
+        {
+          "name": "Shapat",
+          "url": "https://open.spotify.com/artist/3cO0IAr6lPRQYMkYXO6STP"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166568,
+      "name": "Museli\u00e8re 3 (HURACAN)",
+      "url": "https://open.spotify.com/track/4MoItzad27LjMs8zfKU0y6"
     },
     {
       "album": {
@@ -6660,7 +6788,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 196875,
       "name": "Premier",
       "url": "https://open.spotify.com/track/5KPDQgUXkwPSXGZwwq8vTb"
@@ -7880,7 +8008,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 153750,
       "name": "Tout casser",
       "url": "https://open.spotify.com/track/6fd3ZFWxU2DBwv3BgoOneq"
@@ -8260,7 +8388,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160000,
       "name": "T\u00e9l\u00e9phone",
       "url": "https://open.spotify.com/track/4H4WTnvU3UtpokkXpPgQeM"
@@ -8524,7 +8652,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160000,
       "name": "WAWA",
       "url": "https://open.spotify.com/track/462ovsCRTaqwyt2o35h8aM"

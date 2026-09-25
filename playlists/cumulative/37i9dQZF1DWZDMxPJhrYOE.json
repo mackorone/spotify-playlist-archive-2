@@ -3648,7 +3648,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 166307,
       "name": "CIRKLER (feat. wicky)",
       "url": "https://open.spotify.com/track/3tlOXNiSKM8y67sn0jgPzQ"
@@ -4330,6 +4330,28 @@
       "duration_ms": 174712,
       "name": "Dance To This",
       "url": "https://open.spotify.com/track/2uPLbkypIfozwjuiJcgMLC"
+    },
+    {
+      "album": {
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
     },
     {
       "album": {
@@ -6854,7 +6876,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 216750,
       "name": "Everything in the shade",
       "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
@@ -10767,6 +10789,32 @@
     },
     {
       "album": {
+        "name": "Hver Eneste Gang (feat. KESI & MAS)",
+        "url": "https://open.spotify.com/album/7i3y8UzOiZOXOxAwZymwiQ"
+      },
+      "artists": [
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229875,
+      "name": "Hver Eneste Gang (feat. KESI & MAS)",
+      "url": "https://open.spotify.com/track/1p8AjTC2doJ2gau4MNbnZ8"
+    },
+    {
+      "album": {
         "name": "BL\u00c6ST FOREVER",
         "url": "https://open.spotify.com/album/0Ro6S1sma0EcXoq9kXWOCi"
       },
@@ -11668,7 +11716,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 173547,
       "name": "Ik Giv Slip",
       "url": "https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt"
@@ -22830,6 +22878,24 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
+    },
+    {
+      "album": {
+        "name": "hej far",
+        "url": "https://open.spotify.com/album/016lJisgZ13xUtaBMDXkeM"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/2q5nkpJMREI1QHUEOKFBJj"
     },
     {
       "album": {

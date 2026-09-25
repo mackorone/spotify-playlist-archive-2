@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFimZsaMuv4.md) - [plain]
 
 > Cabin sleep noise and airplane sounds to help you drift away.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,492 likes - 184 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,533 likes - 184 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFimZsaMuv4.md) - [plain]
 | 56 | [Pink Noise Air](https://open.spotify.com/track/4iu3Bn25JWPygLy26cnfx9) | [Astrofuss](https://open.spotify.com/artist/5Tx7TAY5IxjWaUuJo7tTzf) | [Bathing in Pink Noise](https://open.spotify.com/album/2owOWMHM0bD2JNgK0Ab2Su) | 3:22 |
 | 57 | [Sound of the sky](https://open.spotify.com/track/6YiKHnPQKzY0wM7zHDMPy0) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [Sound of the sky](https://open.spotify.com/album/1HGH7m5sXj7xbdx2NPE7Tr) | 2:53 |
 | 58 | [36,201 feet](https://open.spotify.com/track/2i28I5oI7HrkYxX1zS91AK) | [Year of the Deer](https://open.spotify.com/artist/65chksgBebbDOYHu3agg0r) | [Rainy Day in Okinawa](https://open.spotify.com/album/3BtDOqfu1IhCctUzZl3iOv) | 3:00 |
-| 59 | [Aeroplane Deep White Noise](https://open.spotify.com/track/08wEhIRItJ46wJU0lsELya) | [Hybrid Treasure](https://open.spotify.com/artist/5A8KqUhcyeE6FIGkTADd2J) | [Aeroplane Deep White Noise](https://open.spotify.com/album/4suN8JpqLQuK476GSOyRDW) | 3:00 |
-| 60 | [Cabin Noise Focus](https://open.spotify.com/track/2CYVLIwBHrF2e0C63nPiSs) | [XL Noise Factory](https://open.spotify.com/artist/4E9wpcO4hg9Pkd61RzWYkv) | [XL Pink Noise](https://open.spotify.com/album/7vKkd6YadyH1rwfZWzm2e7) | 2:09 |
+| 59 | [Cabin Noise Focus](https://open.spotify.com/track/2CYVLIwBHrF2e0C63nPiSs) | [XL Noise Factory](https://open.spotify.com/artist/4E9wpcO4hg9Pkd61RzWYkv) | [XL Pink Noise](https://open.spotify.com/album/7vKkd6YadyH1rwfZWzm2e7) | 2:09 |
+| 60 | [Aeroplane Deep White Noise](https://open.spotify.com/track/08wEhIRItJ46wJU0lsELya) | [Hybrid Treasure](https://open.spotify.com/artist/5A8KqUhcyeE6FIGkTADd2J) | [Aeroplane Deep White Noise](https://open.spotify.com/album/4suN8JpqLQuK476GSOyRDW) | 3:00 |
 | 61 | [Moonlight Noise](https://open.spotify.com/track/7jZdGsVnSi6no8YfnFakM6) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Peaceful Sleep Noise](https://open.spotify.com/album/7DbUNZ2Wqd3wDChMQCdsxW) | 3:36 |
 | 62 | [First Class Seat](https://open.spotify.com/track/6l6SGS4smW8UPk2KHAgUCB) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Brown Noise Relaxation](https://open.spotify.com/album/4ojM7wSFWCJPwlu52CTzLc) | 2:30 |
 | 63 | [White Noise Shade 4](https://open.spotify.com/track/5SJZH9cW2v3SrF3Pher2oP) | [Octobas](https://open.spotify.com/artist/7LxuQFfTwNk6V8sS7sAha4) | [Shades Of White Noise](https://open.spotify.com/album/7qrxvqiTX2CcS87UKtg1ea) | 2:03 |
 | 64 | [Lo\-Air 200 Hz](https://open.spotify.com/track/0ugO16i5v9dKCO5g5S5itQ) | [Nylana](https://open.spotify.com/artist/0xlINdzWCaaz7cIzrUDhfW) | [Brown Noise Calm Mind](https://open.spotify.com/album/4ZOzVlm2vNDejWHk9tz0H7) | 2:44 |
-| 65 | [White Noise in the Clouds](https://open.spotify.com/track/2cYODNM8lq8PcP1L0eQIM6) | [Zaestro](https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 |
-| 66 | [Fan](https://open.spotify.com/track/66sCxW9FxEbL0gQzeMVg4G) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:14 |
+| 65 | [Fan](https://open.spotify.com/track/66sCxW9FxEbL0gQzeMVg4G) | [Dream Shard](https://open.spotify.com/artist/3EUg5IOxGnBPtjK0uzMxcJ) | [Baby Sleep Pink Noise](https://open.spotify.com/album/2Wv2eQ2Zs6bQm8DOC1Cxng) | 2:14 |
+| 66 | [White Noise in the Clouds](https://open.spotify.com/track/2cYODNM8lq8PcP1L0eQIM6) | [Zaestro](https://open.spotify.com/artist/6NRx8nUKXG8pYiL7AA4r0W) | [Relaxed State of Mind](https://open.spotify.com/album/4xYs7vQmlu7qFDVvy9BCcJ) | 3:54 |
 | 67 | [FX Noise](https://open.spotify.com/track/0r07HUVhRRaku5uI7sXCUF) | [BBVB](https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP) | [In the back of the Cabin](https://open.spotify.com/album/5S12zt9R6E8GnTQLyA0Iqm) | 2:21 |
 | 68 | [White Noise in a Pyramid](https://open.spotify.com/track/0xTGswHUg8weoOVpQtj4TX) | [Freifall](https://open.spotify.com/artist/4XPPLTZjMkxbXSa3lVaUte) | [Relaxing Noise](https://open.spotify.com/album/5EVUrltwOBK9dmWpZFZ6hj) | 3:15 |
 | 69 | [Sleep Noise](https://open.spotify.com/track/6meS5OtsMtYJFhtstH6UKA) | [Lübecker](https://open.spotify.com/artist/0dnss17AER9aBUwr90XH5o) | [Sleep Noise](https://open.spotify.com/album/57VaK41fgcL4VKISboQOiN) | 2:39 |
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFimZsaMuv4.md) - [plain]
 | 72 | [Sound Asleep](https://open.spotify.com/track/5kcLGL8xKMpuLw1hoMfxD4) | [Trapture](https://open.spotify.com/artist/57566QTg37Kl2Qx9kppxks) | [Sound Asleep](https://open.spotify.com/album/5pZVDx4GRV8gW5E62ivrmv) | 2:54 |
 | 73 | [Low Air Brown Noise](https://open.spotify.com/track/5pviGnzUXYfSc2wn7EfD1Y) | [Arx](https://open.spotify.com/artist/1WE6CfpIRxkLEpMddVhEXI) | [Sleep Ambient Brown Noise](https://open.spotify.com/album/5rzrTfIsPGRKhbABABV9kT) | 2:44 |
 | 74 | [The Deep White](https://open.spotify.com/track/0qaFcuTx3BEEu4ZSaKCfiu) | [Taekoma](https://open.spotify.com/artist/2T7PXFO7TnyryQ8dvpD9Di) | [The Deep White](https://open.spotify.com/album/5I2zI1uaNWKCgyvY6VhbO4) | 3:08 |
-| 75 | [Cabination Noise](https://open.spotify.com/track/0BHUIuLE8ZqojV6LqswBgS) | [Emotion Noise](https://open.spotify.com/artist/0XTezy73pxparkt03R0nWw) | [Cabination Noise](https://open.spotify.com/album/2jc10ym0IheRE96y87ndm7) | 2:02 |
-| 76 | [Airplane Cabin Noise](https://open.spotify.com/track/1VwZBQnynhQMMv9XqCV30K) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Airplane Cabin Noise](https://open.spotify.com/album/5oX7IbwLZicZfd9xtlfl2H) | 2:59 |
+| 75 | [Airplane Cabin Noise](https://open.spotify.com/track/1VwZBQnynhQMMv9XqCV30K) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Airplane Cabin Noise](https://open.spotify.com/album/5oX7IbwLZicZfd9xtlfl2H) | 2:59 |
+| 76 | [Cabination Noise](https://open.spotify.com/track/0BHUIuLE8ZqojV6LqswBgS) | [Emotion Noise](https://open.spotify.com/artist/0XTezy73pxparkt03R0nWw) | [Cabination Noise](https://open.spotify.com/album/2jc10ym0IheRE96y87ndm7) | 2:02 |
 | 77 | [White Noise Eternity](https://open.spotify.com/track/4Vqw8dAFAVITkiALTRo2HA) | [Reality Sound](https://open.spotify.com/artist/34yGVl5CKVdhqRost8UeJ1) | [Founded Noise](https://open.spotify.com/album/5Kxejh6FtCIuvY674BpXvb) | 2:14 |
 | 78 | [Analog Rest](https://open.spotify.com/track/4fvI0jKdS7WgbGgAMmCuHT) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Analog Noise](https://open.spotify.com/album/3YgYrdFv17ic0uiqWMc0Xp) | 2:10 |
-| 79 | [Dozy Noise](https://open.spotify.com/track/27W4LkxptBvhMxYAWMpsOL) | [Sleep Noise Island](https://open.spotify.com/artist/5KapraTn7QQYg8alz8Pl1Z) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:25 |
-| 80 | [Low Earth Orbit](https://open.spotify.com/track/6iFY0bfr83RB6oq8V6MkSG) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 |
-| 81 | [Peaceful Endless Noise](https://open.spotify.com/track/5mp7Z7mO1LMHD8uDovSHIH) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol II](https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j) | 2:12 |
+| 79 | [Low Earth Orbit](https://open.spotify.com/track/6iFY0bfr83RB6oq8V6MkSG) | [State of Waves](https://open.spotify.com/artist/1qC3nE1aPdL2nJ41op52RY) | [Deep Space Voyage](https://open.spotify.com/album/2YnXZ0YYxrhJ5bFfwYlNhN) | 2:30 |
+| 80 | [Peaceful Endless Noise](https://open.spotify.com/track/5mp7Z7mO1LMHD8uDovSHIH) | [Thyyphoon](https://open.spotify.com/artist/02tTUqtZibCAHjNa0VR1v5) | [Endless Noises Vol II](https://open.spotify.com/album/4MrhA8HUGK31Z5kqa2wr6j) | 2:12 |
+| 81 | [Dozy Noise](https://open.spotify.com/track/27W4LkxptBvhMxYAWMpsOL) | [Sleep Noise Island](https://open.spotify.com/artist/5KapraTn7QQYg8alz8Pl1Z) | [Dozy Noise](https://open.spotify.com/album/1Ao4sYFISxtmZaA7jedaJW) | 2:25 |
 | 82 | [Field Spectrum](https://open.spotify.com/track/3XG01xovL8ygkL6TLZ60xr) | [Asana Ventus](https://open.spotify.com/artist/3D8uKbNS9NX6q57gX9b08V) | [Field Spectrum](https://open.spotify.com/album/1NyupceZmOc5jxKlhY9b6s) | 2:42 |
 | 83 | [My Favorite Sleep Noise](https://open.spotify.com/track/4r50S4BkUhjhLcCwBzxO3C) | [Brightlo](https://open.spotify.com/artist/7LrJzvIirmst73Ic48s97g) | [My Favorite Sleep Noise](https://open.spotify.com/album/02kHREDO0Lz8zyZBuiGBFO) | 2:17 |
 | 84 | [Transit](https://open.spotify.com/track/7qzDBgkJKHIDw4pH8RtxQx) | [White Noise Atmospheres](https://open.spotify.com/artist/2MMporXXsUcHOMx6Wd01rI), [White Noise Therapy](https://open.spotify.com/artist/1O7bUkov2v71fDS60GOfMD) | [Empty Airplane Cabin](https://open.spotify.com/album/7qWTF20bgUlibgtWNIcGLE) | 2:08 |

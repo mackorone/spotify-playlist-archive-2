@@ -9750,7 +9750,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 148806,
       "name": "Hac\u00e9rtelo",
       "url": "https://open.spotify.com/track/3dhsaygO9ncj98ZvDNauvU"
@@ -15236,7 +15236,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 201818,
       "name": "Missing",
       "url": "https://open.spotify.com/track/5XBdsOe2SVDbVqz6tCfAJD"
@@ -15564,6 +15564,28 @@
       "duration_ms": 321941,
       "name": "Morena Cachetona - Remix",
       "url": "https://open.spotify.com/track/5MAroDmYxsLi4MtSEwo9wR"
+    },
+    {
+      "album": {
+        "name": "Morenita Piel Canela",
+        "url": "https://open.spotify.com/album/15B5ZM6cnZvGDhmyUGF9gg"
+      },
+      "artists": [
+        {
+          "name": "Nickoog Clk",
+          "url": "https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159795,
+      "name": "Morenita Piel Canela",
+      "url": "https://open.spotify.com/track/653T1sL3fLL3h0M4QsFeS0"
     },
     {
       "album": {
@@ -16172,6 +16194,24 @@
       "duration_ms": 201724,
       "name": "Nena",
       "url": "https://open.spotify.com/track/1n7VtU8L0owUJRz0ppvETo"
+    },
+    {
+      "album": {
+        "name": "NENA BAD BITCH",
+        "url": "https://open.spotify.com/album/17AgaHJjNSzTPKaXxkvSFf"
+      },
+      "artists": [
+        {
+          "name": "Katteyes",
+          "url": "https://open.spotify.com/artist/4kKazhy9tDfOgKSWm5g3F9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151456,
+      "name": "NENA BAD BITCH",
+      "url": "https://open.spotify.com/track/6YTWCXQrZhO1uyxFE8h9Iz"
     },
     {
       "album": {

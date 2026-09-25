@@ -1,12 +1,12 @@
 {
   "description": "Electr\u00f3nica Nacional, nuevos lanzamientos todas las semanas.\n\ud83d\udcf8  Inda Jani",
-  "num_followers": 32719,
+  "num_followers": 32728,
   "original_name": "(AR)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJEnJ6xTx2KLGw8VPoHkI0YLLBZP",
+  "snapshot_id": "AAAAAIbsyMT/d6wbrLI1Re4TsHJ4sxuz",
   "tracks": [
     {
       "added_at": "2026-09-18 15:30:24",
@@ -99,6 +99,46 @@
       "duration_ms": 445355,
       "name": "Only I Know What You Said - Emi Galvan Remix",
       "url": "https://open.spotify.com/track/5WtcoyNndsQMaiLz9mwdK3"
+    },
+    {
+      "added_at": "2026-09-25 03:00:51",
+      "album": {
+        "name": "We Are All (Hernan Cattaneo & Kevin Di Serna)",
+        "url": "https://open.spotify.com/album/1i0qE8iPTuKXu7PfEb6tlQ"
+      },
+      "artists": [
+        {
+          "name": "Henry Saiz",
+          "url": "https://open.spotify.com/artist/1f5QPXLfjlzlG77lCkdl0W"
+        },
+        {
+          "name": "Hernan Cattaneo",
+          "url": "https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB"
+        },
+        {
+          "name": "Kevin Di Serna",
+          "url": "https://open.spotify.com/artist/6wktCejPtNcStIDD24buEm"
+        }
+      ],
+      "duration_ms": 464760,
+      "name": "We Are All - Hernan Cattaneo & Kevin Di Serna",
+      "url": "https://open.spotify.com/track/6RVhAN1MttWnoYU9uE6GQ7"
+    },
+    {
+      "added_at": "2026-09-25 03:00:51",
+      "album": {
+        "name": "Devotion EP",
+        "url": "https://open.spotify.com/album/7vUFpxQN6PQuIxNHlJNnok"
+      },
+      "artists": [
+        {
+          "name": "This & That",
+          "url": "https://open.spotify.com/artist/66kf3vcvdUC9ew1GSb1VC6"
+        }
+      ],
+      "duration_ms": 366412,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/0vnXm7kiydLkLlWEDGpdQa"
     },
     {
       "added_at": "2026-09-18 15:30:24",
@@ -1839,46 +1879,6 @@
       "duration_ms": 179111,
       "name": "Todas las formas posibles de guaracha",
       "url": "https://open.spotify.com/track/25KyxdqLO8MD1T7A118ZeJ"
-    },
-    {
-      "added_at": "2026-09-18 15:30:24",
-      "album": {
-        "name": "Pinto",
-        "url": "https://open.spotify.com/album/6f3AnOqx9larx53QPSArrP"
-      },
-      "artists": [
-        {
-          "name": "Kermesse",
-          "url": "https://open.spotify.com/artist/6DPQIFnbvlnYf0QozkfiPw"
-        },
-        {
-          "name": "Pedro Perelman",
-          "url": "https://open.spotify.com/artist/6PDer1TABluN09lZ2CWdbD"
-        },
-        {
-          "name": "Yuvi Gerstein",
-          "url": "https://open.spotify.com/artist/34xoo5Pk2CLFHpBrMFwKDD"
-        }
-      ],
-      "duration_ms": 346003,
-      "name": "Pinto",
-      "url": "https://open.spotify.com/track/1dreniBF17P2HIn9cdQKSf"
-    },
-    {
-      "added_at": "2026-09-18 15:30:24",
-      "album": {
-        "name": "Dealer Heat EP",
-        "url": "https://open.spotify.com/album/7jW2GyN5B3rY7wUojqhV8y"
-      },
-      "artists": [
-        {
-          "name": "Lucas Blumen",
-          "url": "https://open.spotify.com/artist/2HCl7HTSpEpR6Da7wJpptt"
-        }
-      ],
-      "duration_ms": 188353,
-      "name": "Dealer Heat",
-      "url": "https://open.spotify.com/track/075ZROSQo3HjlO1lvXtpTP"
     },
     {
       "added_at": "2026-09-18 15:30:24",

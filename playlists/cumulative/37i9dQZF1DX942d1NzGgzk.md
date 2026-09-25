@@ -2,9 +2,9 @@
 
 ### [R&B UK](https://open.spotify.com/playlist/37i9dQZF1DX942d1NzGgzk)
 
-> The latest of R&B rising in the UK\. Cover: JEDSOUL
+> The latest of R&B rising in the UK\. Cover: Nippa
 
-655 songs - 1 day 9 hr 51 min
+658 songs - 1 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,10 +72,11 @@
 | [BETTER THAN THAT](https://open.spotify.com/track/5g0eR1a8APtcRfU8CkHBfj) | [Tsunari](https://open.spotify.com/artist/1jiktv8es5sE3GMGO4Ago6) | [BETTER THAN THAT](https://open.spotify.com/album/4sJxxp8qmv4J0w8tqrJfn1) | 2:12 | 2025-07-24 | 2025-09-19 |
 | [Big Collide](https://open.spotify.com/track/0OApGA4gD4HZP5blgkLha4) | [WESLEE](https://open.spotify.com/artist/2sfC2KuIzmNQEtVordUuqq) | [Weslee World 1](https://open.spotify.com/album/0sIY0aZtq6kG6QJW6rL4Sg) | 3:14 | 2024-01-26 | 2024-02-17 |
 | [Bittersweet](https://open.spotify.com/track/7fhJE5Ho4MAt38aqRQiDlj) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Bittersweet](https://open.spotify.com/album/2CpO7mfSFWxw1CxoQRoDSF) | 4:01 | 2025-07-24 | 2026-03-18 |
+| [Bittersweet](https://open.spotify.com/track/2FK12BFadDMlelVr4Fn7Xi) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Homegrown](https://open.spotify.com/album/7lIRsoyw9VevsE9fEQOcBJ) | 2:57 | 2026-09-24 |  |
 | [Blame U](https://open.spotify.com/track/6F5oCt8Y9I96qiJyXVHl83) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Lustropolis](https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq) | 2:49 | 2024-12-13 | 2025-07-25 |
 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 | 2022-07-17 | 2024-04-19 |
 | [Bonjour](https://open.spotify.com/track/0KAGwhaTafxQHXYHrw7dIl) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Bonjour](https://open.spotify.com/album/6F8CRhHrrExSCk9ZZLxo4B) | 2:38 | 2025-07-10 | 2026-02-13 |
-| [Borrowed Time](https://open.spotify.com/track/4ZpVfizZaFMnFtzsfxZ9ls) | [Dayor](https://open.spotify.com/artist/3jaMpJnB8UCixGAlNJU6sD) | [Borrowed Time](https://open.spotify.com/album/2uvFOOjxB1yUoJmfwJOVrF) | 2:54 | 2026-03-27 |  |
+| [Borrowed Time](https://open.spotify.com/track/4ZpVfizZaFMnFtzsfxZ9ls) | [Dayor](https://open.spotify.com/artist/3jaMpJnB8UCixGAlNJU6sD) | [Borrowed Time](https://open.spotify.com/album/2uvFOOjxB1yUoJmfwJOVrF) | 2:54 | 2026-03-27 | 2026-09-25 |
 | [Boyfriend](https://open.spotify.com/track/0DAttm4G157xCPhzrCeH4t) | [Summer Banton](https://open.spotify.com/artist/2Zm0yCmCc5wudHmHSIzESI) | [Boyfriend](https://open.spotify.com/album/28TP6aTijewWST9QGFvwkO) | 2:54 | 2024-02-16 | 2024-03-23 |
 | [Boys Like U](https://open.spotify.com/track/1tUYtX5SrRj9MJQgZ9u2W3) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Boys Like U](https://open.spotify.com/album/20Lna2QqNErPjA4lRDUGoX) | 2:35 | 2024-08-06 | 2024-12-06 |
 | [Break Me Off](https://open.spotify.com/track/01nqAnr8UmgLjgKSjhLGLF) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Break Me Off](https://open.spotify.com/album/6dQRJLvQNiDEOdH7rri6NS) | 2:54 | 2026-06-11 |  |
@@ -93,6 +94,7 @@
 | [Calling](https://open.spotify.com/track/4PVfJrBdPGzP3vo3EAw0lL) | [Monique Togara](https://open.spotify.com/artist/1cVMo7uvaWE2903IHOaefU) | [Calling](https://open.spotify.com/album/58iHWPXMZp2XZXfZwsPHyF) | 3:14 | 2025-11-21 | 2026-05-22 |
 | [Camera](https://open.spotify.com/track/3yWY2pPdEKMYxm23lrJZL2) | [Harrison Mayo](https://open.spotify.com/artist/5l3mrIeezdKhgV9Cww51FA), [CHOPLIFEMUSIC](https://open.spotify.com/artist/6zQEo1U4xxQzTO6hhV0qib) | [Camera](https://open.spotify.com/album/0RpchgWjJZKgS2GctIb8Zd) | 2:40 | 2025-07-24 | 2025-09-26 |
 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 | 2024-03-22 | 2024-12-13 |
+| [Canary](https://open.spotify.com/track/73PUE5Vp2NdUZ5VNiaYN26) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Canary](https://open.spotify.com/album/6pZQBsrp1LCAIDAPBRN9MV) | 3:26 | 2026-09-24 |  |
 | [Cardboard Box](https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Cardboard Box](https://open.spotify.com/album/51OgsspyNulg111Dti5Sdj) | 2:41 | 2022-07-17 | 2024-09-13 |
 | [Cardboard Box \- Happi Remix](https://open.spotify.com/track/3Y9cvPqBb5Dnpc2MpG6f3j) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Happi](https://open.spotify.com/artist/6JboUw8iZP7Ts7fDcVowP4) | [Cardboard Box](https://open.spotify.com/album/7GKgn6QLyZrGQ1atBIfhY0) | 2:30 | 2022-10-23 | 2024-08-06 |
 | [Caught Me Running](https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Caught Me Running](https://open.spotify.com/album/5uWKr1TIWN0m1i3JSDYBGP) | 3:14 | 2023-05-18 | 2023-09-15 |
@@ -113,7 +115,7 @@
 | [Closure \(feat\. Leigh\-Anne\)](https://open.spotify.com/track/1pEgkIlcPmDBuH4YQ5gMqS) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5), [Leigh\-Anne](https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy) | [Comes to Light](https://open.spotify.com/album/081jLkJYWGp76MJTPu650Z) | 2:58 | 2026-06-26 |  |
 | [Clothes Off](https://open.spotify.com/track/3AbbBPOMTPWAJm0BYAJUY1) | [Aidan](https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW) | [Clothes Off](https://open.spotify.com/album/321J19JZwknNDSjaXmZn8G) | 2:36 | 2025-08-07 | 2025-09-19 |
 | [cocoa body](https://open.spotify.com/track/2DSsF45LB3rzvJehF5qpcF) | [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [cocoa body](https://open.spotify.com/album/1aAKL6fzyKBpTF2lCX7HeH) | 2:59 | 2025-07-24 | 2026-02-27 |
-| [COME AROUND](https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [COME AROUND](https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ) | 2:45 | 2026-02-06 |  |
+| [COME AROUND](https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [COME AROUND](https://open.spotify.com/album/3fHfrgyopjNq8rUUPJKEcJ) | 2:45 | 2026-02-06 | 2026-09-25 |
 | [Come Home](https://open.spotify.com/track/51YSHFD4wFUjUkafKlPuuV) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF) | [Come Home](https://open.spotify.com/album/7Gz1S0Pnz6FrH80PZNWpoI) | 3:48 | 2025-09-18 | 2026-03-20 |
 | [Come To Me](https://open.spotify.com/track/2o9hKWoBseUiXo1TeQBWzl) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Come To Me](https://open.spotify.com/album/07jWdEQbgboSJ11DZugXlN) | 3:21 | 2026-05-28 | 2026-06-22 |
 | [Come To Me](https://open.spotify.com/track/5gHKTj0OrjyQz8KTwVTuMx) | [Charlotte Dowsson](https://open.spotify.com/artist/77nzrPGvQ9uNA2XE9N9oTy) | [Come To Me](https://open.spotify.com/album/4GcNMrejFGtQtlv5P23raK) | 3:24 | 2025-11-07 | 2026-07-25 |
@@ -245,7 +247,7 @@
 | [Guilty Pleasure](https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Guilty Pleasure](https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T) | 2:44 | 2024-11-15 | 2024-11-27 |
 | [Handle That](https://open.spotify.com/track/4HJX5m1Rx5HzifYizr34dt) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh) | [KT.FM](https://open.spotify.com/album/5PoOWQThDKCdkfvx6zGthx) | 3:19 | 2025-05-08 | 2025-06-27 |
 | [Hands On My Body \- A COLORS SHOW](https://open.spotify.com/track/1uUaDhIPExJeCPhhNg8IRC) | [Renao](https://open.spotify.com/artist/1rg7cCiRd1SEUz8zGwOnM2), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Hands On My Body \- A COLORS SHOW](https://open.spotify.com/album/4FVqhVXRKkhHrAXxoEOYWk) | 2:05 | 2024-09-26 | 2024-12-13 |
-| [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 | 2026-04-16 |  |
+| [Hang It On The Shelf](https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Hang It On The Shelf](https://open.spotify.com/album/490RXPo7Zm3PATJMtUEtSM) | 2:25 | 2026-04-16 | 2026-09-25 |
 | [Hard To Be](https://open.spotify.com/track/325NzsIToV1028QGvUXBa1) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Hard To Be](https://open.spotify.com/album/66VsC4E6NmpkcMC03kraZz) | 3:24 | 2023-03-10 | 2023-05-15 |
 | [hate you bad <3](https://open.spotify.com/track/52c7hLD3PGD3IqHWM7DLic) | [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [hate you bad <3](https://open.spotify.com/album/0wGgsPQqo7kFJlHLDd2KqX) | 3:11 | 2026-02-27 | 2026-07-25 |
 | [Have your babies](https://open.spotify.com/track/11pUhRUIkMIeSTVktv6ddL) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Tell Jimmy I'm fine](https://open.spotify.com/album/4LGyLyBYD059xQ1xsqzJ9N) | 3:07 | 2024-06-07 | 2025-03-21 |
@@ -522,7 +524,7 @@
 | [Signals](https://open.spotify.com/track/3z32rAkX5UzIp9jwoNjcjD) | [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs) | [Signals](https://open.spotify.com/album/2eKKYq1k31wypkignW6pL7) | 2:44 | 2023-07-21 | 2023-08-19 |
 | [Silence](https://open.spotify.com/track/0nczSj6as1uJ8fZ91xsOLr) | [Ama Lou](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L) | [Silence](https://open.spotify.com/album/2jQgJAsAIzvc0hGQVbqboI) | 3:27 | 2023-07-21 | 2023-10-02 |
 | [Since You've Been Gone](https://open.spotify.com/track/0xm6AATpiaDaVQce6DecIZ) | [Kadeem Tyrell](https://open.spotify.com/artist/5EpRGVPs8i7MKQSCxLLauh), [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Since You've Been Gone](https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8) | 3:46 | 2023-05-15 | 2023-06-19 |
-| [Sinner](https://open.spotify.com/track/0MUSX7J41ns5rBseSaxuyT) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Sinner](https://open.spotify.com/album/4pXAW15Q6SBg09Sl7lYxFF) | 2:51 | 2026-03-27 |  |
+| [Sinner](https://open.spotify.com/track/0MUSX7J41ns5rBseSaxuyT) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Sinner](https://open.spotify.com/album/4pXAW15Q6SBg09Sl7lYxFF) | 2:51 | 2026-03-27 | 2026-09-25 |
 | [Sit by Me](https://open.spotify.com/track/32pVI4BhI81pdtEsZFRUqy) | [Isabelle Mettle](https://open.spotify.com/artist/0wzicZBrVg1SpiMsZzNmFC) | [Sit by Me](https://open.spotify.com/album/1E4itc9Asd3l73EHASr0Qh) | 5:18 | 2025-09-18 | 2026-03-20 |
 | [skip!](https://open.spotify.com/track/4ncEJ67Xn1yjaURi2X7aTy) | [Nolais](https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF) | [skip!](https://open.spotify.com/album/2UukWbmIAt7fb9LAK3xD81) | 2:32 | 2025-09-04 | 2026-03-20 |
 | [Slow Motion](https://open.spotify.com/track/2pN5GwdTWbFZNRgFIRlW7J) | [AMARIA BB](https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5) | [Slow Motion](https://open.spotify.com/album/2A0LsbKIz0z9so3kxFoSM0) | 2:46 | 2024-02-02 | 2024-04-19 |
@@ -602,6 +604,7 @@
 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 | 2024-05-10 | 2024-06-01 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 |  |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-12-11 |
+| [Track 2](https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Undeniable](https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8) | 0:00 | 2026-09-24 |  |
 | [Tried To Fly .](https://open.spotify.com/track/7LdBSqbWyWGBKYboMQghPF) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Tried To Fly .](https://open.spotify.com/album/18Qyq8CXpenmGAgVzRNrIA) | 2:59 | 2023-09-14 | 2023-09-23 |
 | [Trouble](https://open.spotify.com/track/0CP4q8xuClvB5AuzpIxtsI) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Trouble](https://open.spotify.com/album/3WuxGIA51dQlNnOLlNxAHu) | 3:21 | 2025-09-04 | 2026-02-27 |
 | [Troubled Ones](https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Troubled Ones](https://open.spotify.com/album/6ZRaiZ2f46f8THWzFr4eFn) | 2:40 | 2024-03-22 | 2024-07-19 |

@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 133 | [I Hold Her](https://open.spotify.com/track/0pZp5Hz42oDNKztTbS0Ops) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 3:09 |
 | 134 | [Dressed To Kill](https://open.spotify.com/track/5Pz1poeYFm7MjbOkxpZoPd) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [The Sequel](https://open.spotify.com/album/7MOu9tp7BiEexvtVahvllb) | 2:59 |
 | 135 | [Green Grass](https://open.spotify.com/track/6ymEuVSzJHo2buCkyTyUgC) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:20 |
-| 136 | [Just a Kiss](https://open.spotify.com/track/2dOVKaabPna6A8ZdUte50D) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:45 |
-| 137 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
+| 136 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
+| 137 | [Just a Kiss](https://open.spotify.com/track/2dOVKaabPna6A8ZdUte50D) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:45 |
 | 138 | [Confessions of a Teenage Girl](https://open.spotify.com/track/1DETYnNVfsy8Pr49Aw54SH) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 2:55 |
 | 139 | [Oasis](https://open.spotify.com/track/1VRBmS0xrnEN2yB6V2FHbg) | [Frankie Grande](https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK) | [Hotel Rock Bottom](https://open.spotify.com/album/1eMHqaoJVquw5uorVOtCiu) | 3:05 |
 | 140 | [Gravedigga](https://open.spotify.com/track/6AxhM9TTOqYBhqYwtdIiq1) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Frukwan](https://open.spotify.com/artist/1Zr6fB2AUSdHQ4Dg17bKLQ), [Gravediggaz](https://open.spotify.com/artist/5NIhgQ08PBzMux08ndi8Ae) | [The Return \(Deadly Deluxe\)](https://open.spotify.com/album/4pAQW3M2Fe7jNTBe64CtKX) | 3:05 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 146 | [Make It Happen](https://open.spotify.com/track/1E1dsesLy4AYVTPtTyQEe8) | [Hybrid the Rapper](https://open.spotify.com/artist/5Ewzso9cYxwUpYYfDgcBo0), [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [King of Collab](https://open.spotify.com/album/3ISMRSukyD4PM2t4HpBO1p) | 3:29 |
 | 147 | [Favorite](https://open.spotify.com/track/33IYQIbLGAeATtDHuhcp24) | [Silver Otto](https://open.spotify.com/artist/1Zi3XzucRhWF2njLeWEWTF) | [Favorite](https://open.spotify.com/album/0gXHLfKyAcWEdwcM67qyE4) | 3:57 |
 
-Snapshot ID: `AcdGyAAAAAD49z6WRCNWBWaofwMeeOEK`
+Snapshot ID: `AcdMaAAAAADAwtc0+Tp2Lih2NG1V3cjb`

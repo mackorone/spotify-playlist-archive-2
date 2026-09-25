@@ -11626,7 +11626,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 197938,
       "name": "Fantomsm\u00e4rta",
       "url": "https://open.spotify.com/track/5Js7P4JCIoRJa4yhC5QZYQ"
@@ -23498,6 +23498,24 @@
       "duration_ms": 230000,
       "name": "Love & Unity",
       "url": "https://open.spotify.com/track/6jxPLl1mecH3MtC0oIPnLg"
+    },
+    {
+      "album": {
+        "name": "Love = Art",
+        "url": "https://open.spotify.com/album/6BXl3jVVPoaoqPMqY4otjX"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199507,
+      "name": "Love = Art",
+      "url": "https://open.spotify.com/track/1tWIQ6HgVTfQFD1f5WiiIc"
     },
     {
       "album": {
@@ -36275,6 +36293,24 @@
     },
     {
       "album": {
+        "name": "Superman (feat. Pontus)",
+        "url": "https://open.spotify.com/album/2g4pbtA9omzcd8zxvWF2O4"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167964,
+      "name": "Superman (feat. Pontus)",
+      "url": "https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB"
+    },
+    {
+      "album": {
         "name": "Supernatural (Acoustic)",
         "url": "https://open.spotify.com/album/7Elwg9pkqPgAKlzvi7FuVU"
       },
@@ -39024,7 +39060,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178863,
       "name": "Tomma l\u00e4ppar",
       "url": "https://open.spotify.com/track/5oTwWYGGvz9c5S2kcQCYxf"
@@ -40210,6 +40246,24 @@
       "duration_ms": 138666,
       "name": "Underbart \u00e4r kort",
       "url": "https://open.spotify.com/track/3nBH4JLXw1XJuoMXxiuizQ"
+    },
+    {
+      "album": {
+        "name": "Livsvittne",
+        "url": "https://open.spotify.com/album/0u3GcW94CKFXCvO09lixj3"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242732,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/1bk7kzc39EOwMZRbyKSy0i"
     },
     {
       "album": {
@@ -43028,7 +43082,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 206120,
       "name": "Who",
       "url": "https://open.spotify.com/track/3XOPD2Hl2SJLNSyFRnSHDz"

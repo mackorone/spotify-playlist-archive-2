@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 779 songs - 2 day 2 hr 18 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 781 songs - 2 day 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -781,11 +781,13 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 771 | [Hanging Out With a Blueberry Pop](https://open.spotify.com/track/4RB8o4DYcSCai4dVUAzTP0) | [Croz Boyce](https://open.spotify.com/artist/5lpU5YJ5sJEHDcA8Z7HXJ6), [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu), [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Croz Boyce](https://open.spotify.com/album/1DqAB49q6QhkUxs2qguMBj) | 4:59 |
 | 772 | [Oracle Road](https://open.spotify.com/track/4vMFEE1IsOBV4Ct4RNizS7) | [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Can I Get A Pack Of Camel Lights?](https://open.spotify.com/album/1gBYIHCA0Hdn8BFCTK5TgV) | 5:23 |
 | 773 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
-| 774 | [Anaheim Star](https://open.spotify.com/track/718xkClbZsurJoPFx7KEwz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 2:46 |
-| 775 | [Pylon](https://open.spotify.com/track/1Uqar054oqRWSVbTRt13h8) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:35 |
-| 776 | [Take A Bite](https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:38 |
-| 777 | [Proudhon in Manhattan](https://open.spotify.com/track/3tnJQr4YrLDjuNCZad6ycA) | [Wingnut Dishwashers Union](https://open.spotify.com/artist/6dv1KSzpbj7bze54k5hCMi) | [Burn the Earth! Leave it Behind!](https://open.spotify.com/album/3eH8vNviwWO6FiKrswx8Vb) | 2:26 |
-| 778 | [My Body is a Weapon](https://open.spotify.com/track/0XOpDLAYuzT5DpCzSpfMFZ) | [Apes of the State](https://open.spotify.com/artist/4HemfSCDgnPiHQh8Z6iyd6) | [Nothing Makes Sense Anymore](https://open.spotify.com/album/65TJWpqzsiQWoVg8fnChlB) | 0:57 |
-| 779 | [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 |
+| 774 | [Architects & Engineers](https://open.spotify.com/track/4rXaEmlrWmPGqSMC1cKK60) | [Guster](https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc) | [Easy Wonderful](https://open.spotify.com/album/3eJrevKI2ZAbycDM6s9KCZ) | 2:55 |
+| 775 | [Anaheim Star](https://open.spotify.com/track/718xkClbZsurJoPFx7KEwz) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 2:46 |
+| 776 | [Pylon](https://open.spotify.com/track/1Uqar054oqRWSVbTRt13h8) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:35 |
+| 777 | [Take A Bite](https://open.spotify.com/track/1GClDyMiSLrpzjzwIfWRIa) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:38 |
+| 778 | [Proudhon in Manhattan](https://open.spotify.com/track/3tnJQr4YrLDjuNCZad6ycA) | [Wingnut Dishwashers Union](https://open.spotify.com/artist/6dv1KSzpbj7bze54k5hCMi) | [Burn the Earth! Leave it Behind!](https://open.spotify.com/album/3eH8vNviwWO6FiKrswx8Vb) | 2:26 |
+| 779 | [My Body is a Weapon](https://open.spotify.com/track/0XOpDLAYuzT5DpCzSpfMFZ) | [Apes of the State](https://open.spotify.com/artist/4HemfSCDgnPiHQh8Z6iyd6) | [Nothing Makes Sense Anymore](https://open.spotify.com/album/65TJWpqzsiQWoVg8fnChlB) | 0:57 |
+| 780 | [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 |
+| 781 | [Big Shot](https://open.spotify.com/track/002Xm1nZI8cAhb5Fda7lRk) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO) | [Afternooners](https://open.spotify.com/album/1qLqr2Fs2ACB6FAwmlapdY) | 4:28 |
 
-Snapshot ID: `AAAJum9HFPmg8cOEwiPRMm3wkLXmcHIi`
+Snapshot ID: `AAAJvbUg8pXrOhnt09+OWZK2OAZxF7m7`

@@ -4632,7 +4632,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 226451,
       "name": "Cosmic Meow",
       "url": "https://open.spotify.com/track/57wulaxWVSfcIMEE9J1hC8"
@@ -6543,6 +6543,24 @@
     },
     {
       "album": {
+        "name": "Easy A",
+        "url": "https://open.spotify.com/album/2Mv7X134UrZL7mVI8zNEmt"
+      },
+      "artists": [
+        {
+          "name": "Kaufmann (DE)",
+          "url": "https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248923,
+      "name": "Easy A",
+      "url": "https://open.spotify.com/track/3yTW2LvYpeVFx9SMjkoAd6"
+    },
+    {
+      "album": {
         "name": "Rave Dan",
         "url": "https://open.spotify.com/album/2Yu8EK6aAqvSIj2u5Tp1KH"
       },
@@ -6598,7 +6616,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 144680,
       "name": "Echoes In Motion",
       "url": "https://open.spotify.com/track/2pX0UpPjo79AV70um6xDa4"
@@ -14230,7 +14248,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 210223,
       "name": "Move Your Body",
       "url": "https://open.spotify.com/track/6ICzXKl0LrsjyBHCb3ugQ4"
@@ -18046,7 +18064,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 354193,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/6tHPH22Owa4BYERPdzxwwa"
@@ -21265,6 +21283,28 @@
     },
     {
       "album": {
+        "name": "Taste of the Night",
+        "url": "https://open.spotify.com/album/5VjMofnlIQJEIshWDKnW2n"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        },
+        {
+          "name": "Kos:mo",
+          "url": "https://open.spotify.com/artist/0DlU4o8v7xq5AnJTFb6onr"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242481,
+      "name": "Taste of the Night",
+      "url": "https://open.spotify.com/track/7yFAjyevf5SKh7bC8EfLHi"
+    },
+    {
+      "album": {
         "name": "Tbilisi",
         "url": "https://open.spotify.com/album/29Qt7or0Rf1YIOGEFrmOoQ"
       },
@@ -22464,6 +22504,28 @@
       "duration_ms": 241791,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/5z8KbHgzWHRCzumsRVkRYk"
+    },
+    {
+      "album": {
+        "name": "The Resistance EP",
+        "url": "https://open.spotify.com/album/0XVdoQdXfMMkKs7HWPkl6l"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        },
+        {
+          "name": "Theo Nasa",
+          "url": "https://open.spotify.com/artist/15UDMrAbXMNVlea2LLohdn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394896,
+      "name": "The Resistance (feat. Theo Nasa)",
+      "url": "https://open.spotify.com/track/4CoAqkFt9rCpZq92hFGmCF"
     },
     {
       "album": {
@@ -23702,6 +23764,28 @@
       "duration_ms": 483750,
       "name": "Understanding",
       "url": "https://open.spotify.com/track/0J2vHg5G6Cl7mH5NUK6e1w"
+    },
+    {
+      "album": {
+        "name": "UNDRGRND (Edit)",
+        "url": "https://open.spotify.com/album/7AuzUFELZ9WgVnbYCleC6r"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        },
+        {
+          "name": "Blake Light",
+          "url": "https://open.spotify.com/artist/3Eg3uKwUyxwvM57CW2skbr"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199411,
+      "name": "UNDRGRND - Edit",
+      "url": "https://open.spotify.com/track/216V38ORULt96aVme8eGnf"
     },
     {
       "album": {

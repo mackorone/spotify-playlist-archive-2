@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Chill, take a long walk and clear your mind. Cover: Matt Ngesa",
+  "description": "Chill, take a long walk and clear your mind. Cover: Maali",
   "name": "Barefoot and Free",
   "tracks": [
     {
@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 202597,
       "name": "Buy Me Love",
       "url": "https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 206732,
       "name": "either way",
       "url": "https://open.spotify.com/track/3hTPxwM0qCSLW0TsV5lZGR"
@@ -690,6 +690,24 @@
       "duration_ms": 343800,
       "name": "Fall",
       "url": "https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz"
+    },
+    {
+      "album": {
+        "name": "Fall In",
+        "url": "https://open.spotify.com/album/55IDSibnkNjaA1rm7dAA5w"
+      },
+      "artists": [
+        {
+          "name": "IkeN",
+          "url": "https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224031,
+      "name": "Fall In",
+      "url": "https://open.spotify.com/track/4voeCuGgqvlSv4mvRlPpDB"
     },
     {
       "album": {
@@ -784,7 +802,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 195094,
       "name": "For Life",
       "url": "https://open.spotify.com/track/6VbXGySuhLG1MTb7AkZast"
@@ -1170,7 +1188,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169655,
       "name": "Immanuel",
       "url": "https://open.spotify.com/track/2G4Ll5uvWrFcQslYUyBLvO"
@@ -1697,6 +1715,28 @@
     },
     {
       "album": {
+        "name": "MOSQUITOES (Remix)",
+        "url": "https://open.spotify.com/album/5Fjc5e8LNrrsRRzcxJsxDL"
+      },
+      "artists": [
+        {
+          "name": "Amanya",
+          "url": "https://open.spotify.com/artist/3aCNLoqUdxHi5ZXSmlOsHh"
+        },
+        {
+          "name": "Tipcey",
+          "url": "https://open.spotify.com/artist/00m8BZhspl5hoDbVXZMDNr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138947,
+      "name": "Mosquitoes - Remix",
+      "url": "https://open.spotify.com/track/4zGAnwrvfPVXiXxPa3CEqT"
+    },
+    {
+      "album": {
         "name": "Humble Beginnings",
         "url": "https://open.spotify.com/album/62caMX8DGtBTjFCnnzKnRy"
       },
@@ -1828,6 +1868,28 @@
       "duration_ms": 212000,
       "name": "Njia Moja",
       "url": "https://open.spotify.com/track/0G1vjYaNDUtntJF0hCq5YL"
+    },
+    {
+      "album": {
+        "name": "Damage You Demanded",
+        "url": "https://open.spotify.com/album/6j4WfPMr6g0CYd0MU1yAZC"
+      },
+      "artists": [
+        {
+          "name": "Maali",
+          "url": "https://open.spotify.com/artist/0Bw2d3PrLLqnor0Y9tt9vk"
+        },
+        {
+          "name": "djprodluigi",
+          "url": "https://open.spotify.com/artist/2i6wA4AaBQLYJ9zxv4dnvI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159000,
+      "name": "No Evil",
+      "url": "https://open.spotify.com/track/0QT5b8Hfk8uzUMs2LlTFgV"
     },
     {
       "album": {
@@ -2144,6 +2206,24 @@
       "duration_ms": 269810,
       "name": "Reset Rewind",
       "url": "https://open.spotify.com/track/4B9Rhu9Xdq3Vo1hfLJQh9p"
+    },
+    {
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/35vEK3rs4gzwZcwhzXvviI"
+      },
+      "artists": [
+        {
+          "name": "Itha",
+          "url": "https://open.spotify.com/artist/6HWsERr2RidXDuGI1viKtD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209391,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/5kjrYY4SanilwP9tHfZwNj"
     },
     {
       "album": {

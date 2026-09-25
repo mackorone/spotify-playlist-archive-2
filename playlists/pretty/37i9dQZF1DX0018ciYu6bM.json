@@ -1,12 +1,12 @@
 {
   "description": "Rolling with the 'bops' in your Kimbap. Bringing you the songs that are currently trending and everything else in between. (Cover: SOYEON)",
-  "num_followers": 1130991,
+  "num_followers": 1131055,
   "original_name": "KimBops!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHRrxOVgJqxaS0C3SKo0M90yful0",
+  "snapshot_id": "AAAAAPl9bH1TWpptGXlWcB+EKKpyj40x",
   "tracks": [
     {
       "added_at": "2026-09-16 08:43:25",
@@ -599,8 +599,8 @@
     {
       "added_at": "2026-09-16 08:43:25",
       "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+        "name": "Ditto",
+        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+      "duration_ms": 185506,
+      "name": "Ditto",
+      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
     },
     {
       "added_at": "2026-09-16 08:43:25",
@@ -679,8 +679,8 @@
     {
       "added_at": "2026-09-16 08:43:25",
       "album": {
-        "name": "Ditto",
-        "url": "https://open.spotify.com/album/7bnqo1fdJU9nSfXQd3bSMe"
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 185506,
-      "name": "Ditto",
-      "url": "https://open.spotify.com/track/3r8RuvgbX9s7ammBn07D3W"
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
       "added_at": "2026-09-16 08:43:25",
@@ -887,22 +887,6 @@
     {
       "added_at": "2026-09-16 08:43:25",
       "album": {
-        "name": "NO LABELS: PART 02",
-        "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
-      },
-      "artists": [
-        {
-          "name": "YEONJUN",
-          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
-        }
-      ],
-      "duration_ms": 124896,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
-    },
-    {
-      "added_at": "2026-09-16 08:43:25",
-      "album": {
         "name": "MINISKIRT",
         "url": "https://open.spotify.com/album/6esB2DBt46m38ZycDPsn8D"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 179808,
       "name": "Miniskirt",
       "url": "https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV"
+    },
+    {
+      "added_at": "2026-09-16 08:43:25",
+      "album": {
+        "name": "ROCK-STAR",
+        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+      },
+      "artists": [
+        {
+          "name": "Stray Kids",
+          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+        }
+      ],
+      "duration_ms": 182224,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
     },
     {
       "added_at": "2026-09-16 08:43:25",
@@ -951,18 +951,18 @@
     {
       "added_at": "2026-09-16 08:43:25",
       "album": {
-        "name": "ROCK-STAR",
-        "url": "https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a"
+        "name": "NO LABELS: PART 02",
+        "url": "https://open.spotify.com/album/6gSqhkSCKrivfBDLiCdUDg"
       },
       "artists": [
         {
-          "name": "Stray Kids",
-          "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+          "name": "YEONJUN",
+          "url": "https://open.spotify.com/artist/2Mo2yHjmrDRZW7yRuJwR2w"
         }
       ],
-      "duration_ms": 182224,
-      "name": "LALALALA",
-      "url": "https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84"
+      "duration_ms": 124896,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/16kKf0ngREuCyKrwI2Gtpp"
     },
     {
       "added_at": "2026-09-16 08:43:25",
@@ -999,6 +999,22 @@
     {
       "added_at": "2026-09-16 08:43:25",
       "album": {
+        "name": "ARIRANG",
+        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 189725,
+      "name": "Body to Body",
+      "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
+    },
+    {
+      "added_at": "2026-09-16 08:43:25",
+      "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
       },
@@ -1015,22 +1031,6 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2026-09-16 08:43:25",
-      "album": {
-        "name": "ARIRANG",
-        "url": "https://open.spotify.com/album/53OELuhrBiml1ns99FIfEN"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 189725,
-      "name": "Body to Body",
-      "url": "https://open.spotify.com/track/02PyZNzTdzA1Nbxycnv93V"
     },
     {
       "added_at": "2026-09-16 08:43:25",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-09-16 08:43:25",
       "album": {
-        "name": "Mention Me (From The Movie \"GOAT\")",
-        "url": "https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd"
-      },
-      "artists": [
-        {
-          "name": "CORTIS",
-          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Mention Me - From The Movie \"GOAT\"",
-      "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
-    },
-    {
-      "added_at": "2026-09-16 08:43:25",
-      "album": {
         "name": "HANDS UP",
         "url": "https://open.spotify.com/album/54jgEDbiF7I2m7kEPl0J6E"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 192467,
       "name": "HANDS UP",
       "url": "https://open.spotify.com/track/2nopDUxom21JoMzFXj9wS0"
+    },
+    {
+      "added_at": "2026-09-16 08:43:25",
+      "album": {
+        "name": "Mention Me (From The Movie \"GOAT\")",
+        "url": "https://open.spotify.com/album/3M3mRFHjiwrVBBYR5tGGzd"
+      },
+      "artists": [
+        {
+          "name": "CORTIS",
+          "url": "https://open.spotify.com/artist/1ebt9HnXdyYA6KgLXr1n4P"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Mention Me - From The Movie \"GOAT\"",
+      "url": "https://open.spotify.com/track/3f0OEJd7mlPNhmH3fUOrqy"
     },
     {
       "added_at": "2026-09-16 08:43:25",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-09-16 08:43:25",
       "album": {
-        "name": "DIMENSION : ANSWER",
-        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
-      },
-      "artists": [
-        {
-          "name": "ENHYPEN",
-          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-        }
-      ],
-      "duration_ms": 184601,
-      "name": "Polaroid Love",
-      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
-    },
-    {
-      "added_at": "2026-09-16 08:43:25",
-      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 194765,
       "name": "Lovesick Girls",
       "url": "https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C"
+    },
+    {
+      "added_at": "2026-09-16 08:43:25",
+      "album": {
+        "name": "DIMENSION : ANSWER",
+        "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        }
+      ],
+      "duration_ms": 184601,
+      "name": "Polaroid Love",
+      "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
     },
     {
       "added_at": "2026-09-16 08:43:25",
@@ -1651,22 +1651,6 @@
     {
       "added_at": "2026-09-16 08:43:25",
       "album": {
-        "name": "Mar\u00eda",
-        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
-      },
-      "artists": [
-        {
-          "name": "HWASA",
-          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
-    },
-    {
-      "added_at": "2026-09-16 08:43:25",
-      "album": {
         "name": "THE ALBUM",
         "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 201122,
       "name": "Pretty Savage",
       "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
+    },
+    {
+      "added_at": "2026-09-16 08:43:25",
+      "album": {
+        "name": "Mar\u00eda",
+        "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
+      },
+      "artists": [
+        {
+          "name": "HWASA",
+          "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0ZeGfEAL5Rl4pd5LZBGuEK"
     },
     {
       "added_at": "2026-09-16 08:43:25",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2026-09-16 08:43:25",
       "album": {
-        "name": "play hard",
-        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
+        "name": "BURNING UP",
+        "url": "https://open.spotify.com/album/5zwhhh45Fd78xSX7JWjmF5"
       },
       "artists": [
         {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
         }
       ],
-      "duration_ms": 160000,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
+      "duration_ms": 169546,
+      "name": "BURNING UP",
+      "url": "https://open.spotify.com/track/3uqgFeHo4Jr1D3gVIHQlD7"
     }
   ],
   "unique_name": "KimBops!",

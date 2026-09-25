@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. / レジェンドも新世代も一つの叫びに。進化し続ける日本のパンク・ロックを特集。Cover: The BONEZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,294 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,300 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 24 | [to be continued](https://open.spotify.com/track/2Vjvy82eYW584ZzSpqRfeK) | [ハルカミライ](https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI) | [to be continued](https://open.spotify.com/album/2426KIh3FQjMSZfNeXktvA) | 4:04 |
 | 25 | [Voodoo Go To Zoo](https://open.spotify.com/track/0psvBjhuemuy6XCJPiA5Zd) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Unity](https://open.spotify.com/album/7hEotpEVKe6JzRquceRjnh) | 2:50 |
 | 26 | [アルゴリズムの犬](https://open.spotify.com/track/2Rayx1slK1ThplOZkvIGXz) | [Yabai T\-Shirts Yasan](https://open.spotify.com/artist/3GP0RQRnBvpYVgdVYfcaGS) | [Magical Tank\-top Parade](https://open.spotify.com/album/24pTdBLehN4t7M8T3qhuF7) | 2:37 |
-| 27 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 |
-| 28 | [BGMになるなよ](https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ギター](https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig) | 3:48 |
+| 27 | [BGMになるなよ](https://open.spotify.com/track/3iuviQn85fBJ9Y7JQbCvbr) | [Humbreaders](https://open.spotify.com/artist/32k7rSC70F3C7qif9Pgavi) | [ギター](https://open.spotify.com/album/3wKA6bMyygQ4XNm5lyD1ig) | 3:48 |
+| 28 | [RIVER](https://open.spotify.com/track/2qnWDYKpeTMTUHGibLjt3t) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [REALIFE](https://open.spotify.com/album/2wK612UgOZquVDoz9nKYmA) | 4:21 |
 | 29 | [フルボコ](https://open.spotify.com/track/1gVV83GEtLV50vTzEMx4cJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [フルボコ](https://open.spotify.com/album/5c3vPtqXPktqI3mtZOc83C) | 2:53 |
 | 30 | [Goodbye, So Long](https://open.spotify.com/track/68palNfwloV3lcjjNCPcKN) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [The Ballad](https://open.spotify.com/album/3lciWeGPHL9QDmBTGRcSsI) | 3:05 |
 | 31 | [虹](https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [RIOT ON THE GRILL](https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 99 | [Suffer](https://open.spotify.com/track/3wBJ9ZwrL74MC4IjfUwrBb) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [Suffer](https://open.spotify.com/album/4wdkJEh3CqOjgNx9FW5JDn) | 2:19 |
 | 100 | [休もう！](https://open.spotify.com/track/06OoGyPhuEdZZmOWpLDaCE) | [いまみれん](https://open.spotify.com/artist/5GMLcGoI8RJ4LS7X6pXNB5) | [休もう！](https://open.spotify.com/album/2vbaYTl0jEElqOxsHVi6vr) | 2:50 |
 
-Snapshot ID: `AAAAAAQ5+xA7FXhR9fpptGP/pM6b3tbV`
+Snapshot ID: `AAAAABGKTTdS3TMYwmSqMyQVMKlwnWhU`

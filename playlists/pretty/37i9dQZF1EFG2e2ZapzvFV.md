@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,550 likes - 182 songs - 10 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,551 likes - 182 songs - 10 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,8 +120,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 110 | [Unfortunate Soul](https://open.spotify.com/track/1fE5elkDubOWunpWJNVFKK) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0) | [Medusa](https://open.spotify.com/album/2cNdx2Guop1r7MT8dBucEd) | 3:07 |
 | 111 | [Home](https://open.spotify.com/track/11vxl6GuoJixb43JXzYHur) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:11 |
 | 112 | [Never Coming Back](https://open.spotify.com/track/2ZqBf2NUvtmkPhfXqwZk4m) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 3:13 |
-| 113 | [Bedroom Door](https://open.spotify.com/track/26CTGO6XXw3yFLp9ZWyH2D) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:36 |
-| 114 | [Flowers](https://open.spotify.com/track/2GCf6BF7vIqwPMmArZOeKS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:26 |
+| 113 | [Flowers](https://open.spotify.com/track/2GCf6BF7vIqwPMmArZOeKS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Dinner Party](https://open.spotify.com/album/2zZL2uwt4KDY5PwnvIfqQ0) | 2:26 |
+| 114 | [Bedroom Door](https://open.spotify.com/track/26CTGO6XXw3yFLp9ZWyH2D) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Conscious](https://open.spotify.com/album/61RfrwKu6wJmaZYh3xt0mF) | 3:36 |
 | 115 | [My House](https://open.spotify.com/track/41YvYKQyF7hyx11bI3OHiU) | [Kids Of 88](https://open.spotify.com/artist/4XLDU2AQL3oFnd27IMcNqY) | [Sugarpills](https://open.spotify.com/album/0DFO84aF9tQ6zcHXGHqJtg) | 3:58 |
 | 116 | [Do What You Want](https://open.spotify.com/track/5boiLfo8wmIH4tzrY9nXX6) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Fitz and The Tantrums](https://open.spotify.com/album/7HBKKw5pJLNj6mdRLb1KG3) | 3:12 |
 | 117 | [Hell Without the Flames](https://open.spotify.com/track/5M7DXt5D6Z3cZGifDWTRkX) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [As Is](https://open.spotify.com/album/4z9DYoh5j3e6t7SKjFq2xg) | 2:33 |
@@ -191,4 +191,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 181 | [The Way I Are \(Dance with Somebody\)](https://open.spotify.com/track/1TLwImbhpQtHiNrbfqmVdl) | [Flashback Avenue](https://open.spotify.com/artist/1HANinT2rV1dtgfmxTTucL) | [Up All Night \- House Party Energy](https://open.spotify.com/album/36wq5YXDyqJIA895HmnpHn) | 3:11 |
 | 182 | [Cut](https://open.spotify.com/track/0kquTeSKAQkZj14ND6eTJr) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Maren Morris](https://open.spotify.com/album/4cFGrpSd3gaieAIM0WiNjO) | 2:36 |
 
-Snapshot ID: `AcdGtAAAAACXboOLNqGisxPNq3elRkMu`
+Snapshot ID: `AcdMfAAAAAAFhmlqbVidNuznki80JwtN`

@@ -4,7 +4,7 @@
 
 > This is KURT\. The essential tracks, all in one playlist.
 
-102 songs - 5 hr 45 min
+103 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,9 +15,9 @@
 | [A Un Minuto](https://open.spotify.com/track/7oTjieahX5dLL0qkSg6eJi) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Kintsugi](https://open.spotify.com/album/3mBYfGfvcCN7MpNV3mo3p4) | 3:04 | 2024-06-28 |  |
 | [Amanecí Nublado](https://open.spotify.com/track/2K6QLnzA48e8G1fqR6RTYV) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:54 | 2023-03-19 |  |
 | [Atin Ang Gabi](https://open.spotify.com/track/17RgTZudEsdSX1Ngm5h7W8) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Atin Ang Gabi](https://open.spotify.com/album/5nVmxNBrhSyhVVdgPTzYYk) | 3:27 | 2023-03-19 | 2023-07-30 |
-| [Bonsai](https://open.spotify.com/track/0SvTrfPi6uI6mMyDUb7fIJ) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:07 | 2026-09-04 |  |
+| [Bonsai](https://open.spotify.com/track/0SvTrfPi6uI6mMyDUb7fIJ) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:07 | 2026-09-04 | 2026-09-25 |
 | [Byahe](https://open.spotify.com/track/3Fq5zE2NdCoGDtU2QuP8WD) | [Hey Its Je](https://open.spotify.com/artist/2Cm26ufVCzZu7XVrLH3P6O), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Byahe](https://open.spotify.com/album/2qznBvIgV9bF6zTIlLkEmO) | 3:17 | 2023-03-19 | 2023-07-30 |
-| [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 | 2023-09-15 | 2026-09-01 |
+| [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 | 2023-09-15 |  |
 | [Como Nadie Más](https://open.spotify.com/track/1t8mt1PDXNzRxr2RPt9Ji0) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 4:06 | 2023-03-19 | 2025-02-25 |
 | [Con Las Ganas](https://open.spotify.com/track/7gfZYsX0TVWf6RlMOyV9RB) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [Con Las Ganas](https://open.spotify.com/album/0mtZkrJ2WBLYjggwI3dyD9) | 4:01 | 2023-03-19 |  |
 | [Contigo](https://open.spotify.com/track/0QvIVwQqVzEkZbo6cO5LES) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Vida](https://open.spotify.com/album/0cvBa5BALdQpnrc1W0GZLs) | 2:47 | 2023-03-19 |  |
@@ -33,7 +33,8 @@
 | [Encima De Mil](https://open.spotify.com/track/0X4XlUuu07vrEjSnIqrqLJ) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Encima De Mil](https://open.spotify.com/album/3TrLRkrcbxYZ0AINiu399E) | 3:09 | 2023-06-16 | 2026-08-28 |
 | [Encima De Mil](https://open.spotify.com/track/74wY2RFSQJlz7yznnDWDsj) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Despierto](https://open.spotify.com/album/5zjSZUekfzF97XyDUbWW1T) | 3:09 | 2023-03-19 |  |
 | [Escapémonos](https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:33 | 2023-03-19 |  |
-| [Espectador](https://open.spotify.com/track/7K6VPsAtUg6aWoeUoeSkPC) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Espectador](https://open.spotify.com/album/0ekLp83yAHBExNAvnFgJBV) | 3:20 | 2026-05-01 |  |
+| [Espectador](https://open.spotify.com/track/0F0JtbK8wOn1PyXC4PL8jv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:18 | 2026-09-25 |  |
+| [Espectador](https://open.spotify.com/track/7K6VPsAtUg6aWoeUoeSkPC) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Espectador](https://open.spotify.com/album/0ekLp83yAHBExNAvnFgJBV) | 3:20 | 2026-05-01 | 2026-09-25 |
 | [Extraño](https://open.spotify.com/track/0gAlJBvU3mhhJsR52vPvBh) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Extraño](https://open.spotify.com/album/1sMatqibwIjRjGzUAa3IAe) | 3:17 | 2026-07-19 |  |
 | [Jodido Sin Ti](https://open.spotify.com/track/3gYE83kjjPZpsxgJ1HnOo3) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Jodido Sin Ti](https://open.spotify.com/album/37MEKBQVt7evqaeNjgRC5U) | 2:45 | 2024-05-09 | 2026-05-01 |
 | [Justo En El Borde](https://open.spotify.com/track/0OGxbQzKTNhVoRfA5JCiFa) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [Desde Antes De Nacer](https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3) | 3:16 | 2026-09-05 |  |

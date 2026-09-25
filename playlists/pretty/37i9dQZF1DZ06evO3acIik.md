@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,942 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,948 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 40 | [I'd Do Anything For You](https://open.spotify.com/track/781598Nn95TxDrkXny42A8) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:42 |
 | 41 | [Amor](https://open.spotify.com/track/3a8EoFX4khzdpzwHNGQzuM) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 3:08 |
 | 42 | [Hold](https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [As We Walk into Forever](https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB) | 2:31 |
-| 43 | [6:16am](https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO) | 1:59 |
+| 43 | [Days Are Getting Shorter](https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb) | 5:34 |
 | 44 | [Dance](https://open.spotify.com/track/1QOsiJuZjJI7febiK6WjVA) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:24 |
-| 45 | [Days Are Getting Shorter](https://open.spotify.com/track/7AxQOpOH4ag6zOALqGNOJ3) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb) | 5:34 |
+| 45 | [6:16am](https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Nights & Days.](https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO) | 1:59 |
 | 46 | [God or The Devil?](https://open.spotify.com/track/4L5QSyBIXwgt3jwjZBXK0G) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 1:20 |
 | 47 | [3:35am](https://open.spotify.com/track/0lio1hkxG0KUZfoKP4ERvC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [It's Beautiful.](https://open.spotify.com/album/3RjNWofFohc05IBooJhfQt) | 3:02 |
 | 48 | [Wings](https://open.spotify.com/track/09qORSpYUi5pq5jcqQtaS7) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Wings](https://open.spotify.com/album/2mDcwqDBXlbxUp2N3GObTj) | 2:48 |
 | 49 | [Wars](https://open.spotify.com/track/0NzDCZypxqXxgcGQ4rkJRG) | [Lord's Child](https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Taylor Armstrong](https://open.spotify.com/artist/3CVk2LzA3zH6FBAXuPbnhc) | [Camp Lukewarm](https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp) | 3:23 |
 | 50 | [Stay Patient.](https://open.spotify.com/track/7uvbamNsiIOUsw2QJf1BQ1) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay Patient.](https://open.spotify.com/album/2XhxedyLppu92AMi3038ES) | 3:20 |
 
-Snapshot ID: `arHFAAAAAAAA7MsV/1fYUX0zQp5iMr6l`
+Snapshot ID: `arMWgAAAAAA9w/38P61P2ZIuImUiWcxp`

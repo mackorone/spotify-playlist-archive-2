@@ -1,6 +1,6 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1066445,
+  "num_followers": 1066438,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "A Million Lights (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2mduHypWQwgRXMQ9kEFssu"
+      },
+      "artists": [
+        {
+          "name": "Cheryl",
+          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
+        }
+      ],
+      "duration_ms": 207975,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "All Cried Out (feat. Alex Newell) [Radio Edit]",
         "url": "https://open.spotify.com/album/4glrp7UJjimZral416kQ1d"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 170716,
       "name": "All Cried Out (feat. Alex Newell) - Radio Edit",
       "url": "https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "A Million Lights (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2mduHypWQwgRXMQ9kEFssu"
-      },
-      "artists": [
-        {
-          "name": "Cheryl",
-          "url": "https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01"
-        }
-      ],
-      "duration_ms": 207975,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz"
     },
     {
       "added_at": "2024-03-22 16:40:22",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-03-22 16:40:22",
       "album": {
+        "name": "Rapture EP",
+        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
+      },
+      "artists": [
+        {
+          "name": "Original Koffee",
+          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
+        }
+      ],
+      "duration_ms": 191502,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
+    },
+    {
+      "added_at": "2024-03-22 16:40:22",
+      "album": {
         "name": "Shake It Off",
         "url": "https://open.spotify.com/album/2Z51EnLF4Nps4LmulSQPnn"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 223078,
       "name": "Send My Love (To Your New Lover)",
       "url": "https://open.spotify.com/track/3KZcrZ36LW9RnChK1iIkth"
-    },
-    {
-      "added_at": "2024-03-22 16:40:22",
-      "album": {
-        "name": "Rapture EP",
-        "url": "https://open.spotify.com/album/0v1VLjgwVun46wA13DWUJI"
-      },
-      "artists": [
-        {
-          "name": "Original Koffee",
-          "url": "https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32"
-        }
-      ],
-      "duration_ms": 191502,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/7sd72KZS8D59g5NmhxyHpJ"
     },
     {
       "added_at": "2024-03-22 16:40:22",

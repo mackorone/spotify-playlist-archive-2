@@ -1,6 +1,6 @@
 {
   "description": "2010\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 33540,
+  "num_followers": 33555,
   "original_name": "2010\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Mama - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
-      },
-      "artists": [
-        {
-          "name": "EXO-K",
-          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
-        }
-      ],
-      "duration_ms": 270452,
-      "name": "MAMA",
-      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "NCT #127 CHERRY BOMB - The 3rd Mini Album",
         "url": "https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 236667,
       "name": "Cherry Bomb",
       "url": "https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Mama - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc"
+      },
+      "artists": [
+        {
+          "name": "EXO-K",
+          "url": "https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I"
+        }
+      ],
+      "duration_ms": 270452,
+      "name": "MAMA",
+      "url": "https://open.spotify.com/track/1EvB6tE5CHluLZaWm3r0bT"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Girl's Day Love Second Album",
-        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
       },
       "artists": [
         {
-          "name": "Girl's Day",
-          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
         }
       ],
-      "duration_ms": 200705,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
+      "duration_ms": 198795,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO"
+        "name": "Girl's Day Love Second Album",
+        "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
       },
       "artists": [
         {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+          "name": "Girl's Day",
+          "url": "https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W"
         }
       ],
-      "duration_ms": 198795,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0"
+      "duration_ms": 200705,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/3xHIyErJUeuy0MpjUKRuPw"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -599,22 +599,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "WINTER",
-        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Last Goodbye",
-      "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "THE THIRD SINGLE CATALLENA",
         "url": "https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 193153,
       "name": "Catallena",
       "url": "https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "WINTER",
+        "url": "https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/0x50cQ1pZeV4xl737GhKBk"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
-      },
-      "artists": [
-        {
-          "name": "AKMU",
-          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
-        }
-      ],
-      "duration_ms": 193321,
-      "name": "200%",
-      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "ALONE",
         "url": "https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 206266,
       "name": "Alone",
       "url": "https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/1eu07xRE0vQfN5et0Y3DAy"
+      },
+      "artists": [
+        {
+          "name": "AKMU",
+          "url": "https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv"
+        }
+      ],
+      "duration_ms": 193321,
+      "name": "200%",
+      "url": "https://open.spotify.com/track/6qkx0tenDglbF21CU4wa1k"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "Lupin",
-        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
-      },
-      "artists": [
-        {
-          "name": "KARA",
-          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
-        }
-      ],
-      "duration_ms": 192440,
-      "name": "Lupin",
-      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Another Miss Oh, Pt. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2etoMy8fvyHuH777g9aIwW"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 226715,
       "name": "Just Like a Dream",
       "url": "https://open.spotify.com/track/0J2ImJ3WaKokMQ6FGG7OOW"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "Lupin",
+        "url": "https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "duration_ms": 192440,
+      "name": "Lupin",
+      "url": "https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "VIRGIN",
-        "url": "https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V"
-      },
-      "artists": [
-        {
-          "name": "After School",
-          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
-        }
-      ],
-      "duration_ms": 274755,
-      "name": "Shampoo",
-      "url": "https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Time And Fallen Leaves",
         "url": "https://open.spotify.com/album/3rF55htTUDmzgxJ5CT3XQC"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 247435,
       "name": "Time And Fallen Leaves",
       "url": "https://open.spotify.com/track/5Qy4FxZ6FtNwWmRaLi6Fcu"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "VIRGIN",
+        "url": "https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V"
+      },
+      "artists": [
+        {
+          "name": "After School",
+          "url": "https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD"
+        }
+      ],
+      "duration_ms": 274755,
+      "name": "Shampoo",
+      "url": "https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4"
     },
     {
       "added_at": "2024-08-05 16:58:20",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-08-05 16:58:20",
       "album": {
-        "name": "MADE SERIES",
-        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Let's not fall in love - KR Ver.",
-      "url": "https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3"
-    },
-    {
-      "added_at": "2024-08-05 16:58:20",
-      "album": {
         "name": "Girl's Day Love Second Album",
         "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 198946,
       "name": "Ring My Bell",
       "url": "https://open.spotify.com/track/19euxgpVaBlvBOIRTLsgJQ"
+    },
+    {
+      "added_at": "2024-08-05 16:58:20",
+      "album": {
+        "name": "MADE SERIES",
+        "url": "https://open.spotify.com/album/4ls7QOvWzu4OGaQQSiKeDE"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Let's not fall in love - KR Ver.",
+      "url": "https://open.spotify.com/track/0oZT2aKB40fzyHzqcXE3H3"
     },
     {
       "added_at": "2024-08-05 16:58:20",

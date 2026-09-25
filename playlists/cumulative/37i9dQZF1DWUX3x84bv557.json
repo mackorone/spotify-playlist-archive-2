@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Frisse Nederlandse pop. Cover: Isab\u00e8l Usher (<a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">Spotify RADAR</a>\n-artiest)",
+  "description": "Frisse Nederlandse pop. Cover: Racoon",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -4253,6 +4253,24 @@
     },
     {
       "album": {
+        "name": "Ms. Lauren",
+        "url": "https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140628,
+      "name": "Casually Obsessed",
+      "url": "https://open.spotify.com/track/1ZrgtIdrzkmrAu7W9C85t7"
+    },
+    {
+      "album": {
         "name": "CD van mij",
         "url": "https://open.spotify.com/album/5Dx0iogpXPTNFWSyTlCn3a"
       },
@@ -5705,6 +5723,24 @@
     },
     {
       "album": {
+        "name": "De Verdrietige Meneer",
+        "url": "https://open.spotify.com/album/4xP3o67XVgqNPJpQXCVfUp"
+      },
+      "artists": [
+        {
+          "name": "Else Lena",
+          "url": "https://open.spotify.com/artist/6z3MeKgMc8aefi1TRFlvbe"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199928,
+      "name": "De Verdrietige Meneer",
+      "url": "https://open.spotify.com/track/5WuICyjAjSNZQi3pGbAu3z"
+    },
+    {
+      "album": {
         "name": "Smartlap Is Niet Dood",
         "url": "https://open.spotify.com/album/7F7cYFNO6ly7iBjYBaVQtA"
       },
@@ -5970,6 +6006,24 @@
       "duration_ms": 155922,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/2IeytsvuYh5NWRJLaLTbJg"
+    },
+    {
+      "album": {
+        "name": "Dicht Bij Het Vuur",
+        "url": "https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224610,
+      "name": "Dicht Bij Het Vuur",
+      "url": "https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t"
     },
     {
       "album": {
@@ -6450,7 +6504,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 174179,
       "name": "Door Het Oog Van De Nacht",
       "url": "https://open.spotify.com/track/0uWmcPc7Ie30nyNrsHnTjR"
@@ -7086,6 +7140,24 @@
       "duration_ms": 199108,
       "name": "Eenzame Nacht",
       "url": "https://open.spotify.com/track/05rDzpftmp52BxVjHta9TI"
+    },
+    {
+      "album": {
+        "name": "EHBO",
+        "url": "https://open.spotify.com/album/2CRQovNsi5QPmcbrMSxqpO"
+      },
+      "artists": [
+        {
+          "name": "ANDRO",
+          "url": "https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139550,
+      "name": "EHBO",
+      "url": "https://open.spotify.com/track/4iR9NS85XcqPAjPdsHvV0e"
     },
     {
       "album": {
@@ -8770,7 +8842,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 163000,
       "name": "Hallo, met mij.",
       "url": "https://open.spotify.com/track/4CHsDxBt3xstJcLQ1pPu8E"
@@ -11136,7 +11208,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 211626,
       "name": "Ik ben onzeker",
       "url": "https://open.spotify.com/track/4pgl1lIeawNxMASWpEBulm"
@@ -11288,7 +11360,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 156980,
       "name": "Ik Droom Alvast Van Jou",
       "url": "https://open.spotify.com/track/10fXUjOffC01ye6N151DGj"
@@ -12016,7 +12088,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 145500,
       "name": "Is Bij Jou Het Licht Nog Aan",
       "url": "https://open.spotify.com/track/3ly2ySmmZPnHQrLrt5HTe9"
@@ -15665,6 +15737,24 @@
     },
     {
       "album": {
+        "name": "Meisjes Spelen Niet Buiten (Soundtrack Sugar)",
+        "url": "https://open.spotify.com/album/3jNd80vZPVvHtGoRDgnkMv"
+      },
+      "artists": [
+        {
+          "name": "Delany",
+          "url": "https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199442,
+      "name": "Meisjes Spelen Niet Buiten - Soundtrack Sugar",
+      "url": "https://open.spotify.com/track/1w7uvbsXomUWWYVXI7Ie0H"
+    },
+    {
+      "album": {
         "name": "Mens",
         "url": "https://open.spotify.com/album/1I05faSGCNjViztAEPPgac"
       },
@@ -18032,7 +18122,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 142852,
       "name": "Ogen Dicht",
       "url": "https://open.spotify.com/track/1pNwikzUuoBeLVSrPHLaKq"
@@ -18926,7 +19016,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 164653,
       "name": "Pakt Mij",
       "url": "https://open.spotify.com/track/7quqA00qtOBWoTcYJ2nLME"
@@ -19136,6 +19226,28 @@
       "duration_ms": 200461,
       "name": "Pas Nu Ik Ons Ken",
       "url": "https://open.spotify.com/track/3ArIRZp6Hc5yhhHWEAgCDD"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2026 (Yves Berendse)",
+        "url": "https://open.spotify.com/album/4SRtdeedZBNyRWEOOkJMmF"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        },
+        {
+          "name": "Beste Zangers",
+          "url": "https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240042,
+      "name": "Patronen",
+      "url": "https://open.spotify.com/track/5AfyTEjCIe7A774ZRkD326"
     },
     {
       "album": {
@@ -19844,7 +19956,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 156183,
       "name": "Rode Roos",
       "url": "https://open.spotify.com/track/6StRFDHRIeWPpbZoEcEwCk"
@@ -23006,7 +23118,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 164242,
       "name": "Uit De Klauwen",
       "url": "https://open.spotify.com/track/4TKSLJ4TnaFcUuLVaDC4fe"
@@ -23226,7 +23338,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178579,
       "name": "Van Mij Is Van Mij",
       "url": "https://open.spotify.com/track/0mCEu9fbPqgiZQg0tfpEt6"
@@ -24240,7 +24352,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 161052,
       "name": "Vondel",
       "url": "https://open.spotify.com/track/7JiPb8HB6QQ4mf8Gn8GtS7"
@@ -24961,6 +25073,24 @@
     },
     {
       "album": {
+        "name": "Wanneer Is Het Genoeg?",
+        "url": "https://open.spotify.com/album/1LXLl2ab3cKsGVbZTq0Jbc"
+      },
+      "artists": [
+        {
+          "name": "OLIVIA",
+          "url": "https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165436,
+      "name": "Wanneer Is Het Genoeg?",
+      "url": "https://open.spotify.com/track/1oRNJWXfWfnHs1JdL9gdmh"
+    },
+    {
+      "album": {
         "name": "Warme Herinneringen",
         "url": "https://open.spotify.com/album/5hLlVXaIizLyalqdzTkOF5"
       },
@@ -25598,7 +25728,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 162461,
       "name": "We Zijn Er",
       "url": "https://open.spotify.com/track/5ugSvzED7o85U4TaMktaqk"
@@ -25982,7 +26112,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 173714,
       "name": "Witte Vlag",
       "url": "https://open.spotify.com/track/4MLkKngyX9JcwT2jLBa2UM"

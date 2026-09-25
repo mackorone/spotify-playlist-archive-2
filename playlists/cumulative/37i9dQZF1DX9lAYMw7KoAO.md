@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.   Cover: <a href=https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI?si=TI71iCX6RYCoXIF3aDBgkw>Lawrence Oyor</a>
 
-485 songs - 1 day 20 hr 16 min
+486 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Always Pray For You](https://open.spotify.com/track/0xG2QOxNtyEzM2uyMECWjX) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4) | [Open Doors](https://open.spotify.com/album/2T9zs9YOQTQqCEbBxaB16e) | 3:59 | 2023-12-31 | 2024-01-04 |
 | [Always Win \(Solo Version\)](https://open.spotify.com/track/30c1AtDneDSix6vuRoUdD7) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Always Win \(Solo Version\)](https://open.spotify.com/album/0BMA6uBobzAh7FD0CNi2FU) | 5:00 | 2020-08-12 | 2023-04-14 |
 | [Am not perfect](https://open.spotify.com/track/6MpgkBX2GiYgBe030qqIMz) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [Am not perfect](https://open.spotify.com/album/1nAiJ2z1WzwLt4DHpIGrqX) | 2:08 | 2023-05-05 | 2023-05-12 |
-| [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 | 2025-06-07 |  |
+| [Amen](https://open.spotify.com/track/7bIDSVHXsazyMqK2Peb8FK) | [Cici](https://open.spotify.com/artist/3i9UjIGeZT2cRyltQrr8nj), [Naledi Aphiwe](https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN) | [Amen](https://open.spotify.com/album/0Ozxo0wGqTXSUTgUITRWBE) | 3:18 | 2025-06-07 | 2026-09-25 |
 | [Amin \(Amen\) \- Live](https://open.spotify.com/track/6jR6lM1TVcAYq2MnKNaadJ) | [BBO](https://open.spotify.com/artist/2uaQ0i7hnhD1rRwDOSCkOd) | [Amin \(Amen\) \[Live\]](https://open.spotify.com/album/382YTaePZFxxLrqMg0D9KO) | 9:11 | 2026-03-01 |  |
 | [Amioluwa](https://open.spotify.com/track/2taXjxwpS0Mrl3PqdwWHPu) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Amioluwa](https://open.spotify.com/album/7syagUQVNcJnnRg9ZIHQfd) | 10:07 | 2026-03-01 |  |
 | [Another Miracle](https://open.spotify.com/track/6KzOfBQbzxEZEpUKzJVDtG) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Another Miracle](https://open.spotify.com/album/2DtdcUoZzFKJBFx5qaHRsU) | 3:32 | 2023-07-28 | 2023-12-15 |
@@ -157,6 +157,7 @@
 | [God Turned It Around](https://open.spotify.com/track/4lhSUVejTiMCyE7CbytBx2) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Tim Bowman Jr.](https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l), [Tim Bowman](https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5) | [Greater](https://open.spotify.com/album/1NvyHmtKdJtXNPeYvjIoui) | 10:19 | 2023-04-28 | 2024-11-22 |
 | [God When](https://open.spotify.com/track/5plbdAu9sPMVDJQLN59mTZ) | [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg) | [God When](https://open.spotify.com/album/5tDdD8wGPklTCABqdZMMrZ) | 3:05 | 2023-08-25 | 2023-09-01 |
 | [Gods Love](https://open.spotify.com/track/4CKeG9hcOwkqcWGDo104xI) | [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu) | [Gods Love](https://open.spotify.com/album/4Sh9MI3Q4ihCssCvd25e1o) | 3:16 | 2023-05-26 | 2023-06-23 |
+| [Good Day](https://open.spotify.com/track/4E16BzgoGUXLPbRQGPuBZx) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Good Day](https://open.spotify.com/album/3kVJzvm2tmOFNejHVF9lAc) | 2:53 | 2026-09-25 |  |
 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 | 2024-03-08 | 2024-07-27 |
 | [Good Thing](https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Good Thing](https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77) | 2:54 | 2023-04-21 | 2023-06-09 |
 | [Grateful](https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT) | [Romeo ThaGreatwhite](https://open.spotify.com/artist/0BREQB4X1tJY2UXIndTzew), [Prifix](https://open.spotify.com/artist/1p9ME7SCoyUhTchumQvPNm) | [Grateful](https://open.spotify.com/album/6DMGM2y7j46To04if4jIam) | 5:04 | 2023-06-23 | 2023-12-15 |

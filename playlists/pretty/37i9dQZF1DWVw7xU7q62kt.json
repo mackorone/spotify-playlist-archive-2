@@ -1,6 +1,6 @@
 {
   "description": "Beats with a flavour of Jazz.",
-  "num_followers": 115976,
+  "num_followers": 116044,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2026-09-18 04:01:41",
       "album": {
+        "name": "Abuela",
+        "url": "https://open.spotify.com/album/5MSAqzWWNeS7JMNdjnMQ9C"
+      },
+      "artists": [
+        {
+          "name": "Nuncc",
+          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
+        }
+      ],
+      "duration_ms": 120750,
+      "name": "Abuela",
+      "url": "https://open.spotify.com/track/2vdknEP3BN6ex9Fhx6X5Wa"
+    },
+    {
+      "added_at": "2026-09-18 04:01:41",
+      "album": {
         "name": "Lilies",
         "url": "https://open.spotify.com/album/1ERVNspwU2qEI3S7P3ADU4"
       },
@@ -1799,22 +1815,6 @@
       "duration_ms": 120689,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/21kmhxRVUAyJmSN8znuakd"
-    },
-    {
-      "added_at": "2026-09-18 04:01:41",
-      "album": {
-        "name": "Abuela",
-        "url": "https://open.spotify.com/album/5MSAqzWWNeS7JMNdjnMQ9C"
-      },
-      "artists": [
-        {
-          "name": "Nuncc",
-          "url": "https://open.spotify.com/artist/2boLOio6iQ5rnScySM67q8"
-        }
-      ],
-      "duration_ms": 120750,
-      "name": "Abuela",
-      "url": "https://open.spotify.com/track/2vdknEP3BN6ex9Fhx6X5Wa"
     },
     {
       "added_at": "2026-09-18 04:01:41",
@@ -2415,6 +2415,22 @@
     {
       "added_at": "2026-09-18 04:01:41",
       "album": {
+        "name": "slomotion",
+        "url": "https://open.spotify.com/album/5zzOhKNtR0TOjOpkjF4Qzd"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "duration_ms": 150422,
+      "name": "slomotion",
+      "url": "https://open.spotify.com/track/1ZR6DrOIe9HGSLaLyU623c"
+    },
+    {
+      "added_at": "2026-09-18 04:01:41",
+      "album": {
         "name": "pancakes",
         "url": "https://open.spotify.com/album/6zaBrTwjJZvew0BHy5krdx"
       },
@@ -2467,22 +2483,6 @@
       "duration_ms": 98205,
       "name": "With U",
       "url": "https://open.spotify.com/track/7jHcs2eH3WhOIRti4yQn33"
-    },
-    {
-      "added_at": "2026-09-18 04:01:41",
-      "album": {
-        "name": "slomotion",
-        "url": "https://open.spotify.com/album/5zzOhKNtR0TOjOpkjF4Qzd"
-      },
-      "artists": [
-        {
-          "name": "ron quixote",
-          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
-        }
-      ],
-      "duration_ms": 150422,
-      "name": "slomotion",
-      "url": "https://open.spotify.com/track/1ZR6DrOIe9HGSLaLyU623c"
     },
     {
       "added_at": "2026-09-18 04:01:41",
@@ -2835,6 +2835,26 @@
     {
       "added_at": "2026-09-18 04:01:41",
       "album": {
+        "name": "cozed",
+        "url": "https://open.spotify.com/album/5L6T5LYEusjLtNpWQh3TVD"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        },
+        {
+          "name": "think less.",
+          "url": "https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c"
+        }
+      ],
+      "duration_ms": 105488,
+      "name": "cozed",
+      "url": "https://open.spotify.com/track/6aWWO5gx9NYP7mhdf2XQbd"
+    },
+    {
+      "added_at": "2026-09-18 04:01:41",
+      "album": {
         "name": "library",
         "url": "https://open.spotify.com/album/1o4ZIwV0pol0mXbbmpZjBB"
       },
@@ -2923,26 +2943,6 @@
     {
       "added_at": "2026-09-18 04:01:41",
       "album": {
-        "name": "cozed",
-        "url": "https://open.spotify.com/album/5L6T5LYEusjLtNpWQh3TVD"
-      },
-      "artists": [
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        },
-        {
-          "name": "think less.",
-          "url": "https://open.spotify.com/artist/5ptLWFs1O1R1QDZSjwtU0c"
-        }
-      ],
-      "duration_ms": 105488,
-      "name": "cozed",
-      "url": "https://open.spotify.com/track/6aWWO5gx9NYP7mhdf2XQbd"
-    },
-    {
-      "added_at": "2026-09-18 04:01:41",
-      "album": {
         "name": "Seoulicious",
         "url": "https://open.spotify.com/album/38l785JdUF560IOBwLAsoj"
       },
@@ -3003,6 +3003,22 @@
     {
       "added_at": "2026-09-18 04:01:41",
       "album": {
+        "name": "Quiet Evening",
+        "url": "https://open.spotify.com/album/5oRdVSsuZ9wr2YzhbU9Xu0"
+      },
+      "artists": [
+        {
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "duration_ms": 112405,
+      "name": "Quiet Evening",
+      "url": "https://open.spotify.com/track/4VBexCSgXWOelb45A3uY4A"
+    },
+    {
+      "added_at": "2026-09-18 04:01:41",
+      "album": {
         "name": "Behind The Moon",
         "url": "https://open.spotify.com/album/3VxL9r8XIrHEvz4onMCKxk"
       },
@@ -3019,22 +3035,6 @@
       "duration_ms": 125926,
       "name": "Behind The Moon",
       "url": "https://open.spotify.com/track/1WZNNiA67dO5mAUTWh1NWI"
-    },
-    {
-      "added_at": "2026-09-18 04:01:41",
-      "album": {
-        "name": "Quiet Evening",
-        "url": "https://open.spotify.com/album/5oRdVSsuZ9wr2YzhbU9Xu0"
-      },
-      "artists": [
-        {
-          "name": "Drxnk",
-          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
-        }
-      ],
-      "duration_ms": 112405,
-      "name": "Quiet Evening",
-      "url": "https://open.spotify.com/track/4VBexCSgXWOelb45A3uY4A"
     },
     {
       "added_at": "2026-09-18 04:01:41",

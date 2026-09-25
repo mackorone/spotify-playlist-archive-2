@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap\. <br/>Cover: Espiquet
+> Only the hottest South African rap\. <br/>Cover: KindlyNxsh
 
-1,160 songs - 2 day 13 hr 15 min
+1,161 songs - 2 day 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Eazy](https://open.spotify.com/track/1e5O3SrnSLWnj47I29Arj0) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Zulu Man With Some Power](https://open.spotify.com/album/04udszu1QoEWl5qXu2MTUi) | 4:03 | 2022-12-12 | 2023-02-01 |
 | [EBBS & FLOWS: Hard Candy](https://open.spotify.com/track/7HHVwqGx84YKhIX1r2lKRT) | [LANDMARQUE](https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL) | [EBBS & FLOWS: Hard Candy](https://open.spotify.com/album/5HbmDuxrO0ZsCLjGfLNdh6) | 2:56 | 2023-12-14 | 2024-01-26 |
 | [EBBS & FLOWS:Hard Target](https://open.spotify.com/track/6ci97oIPl705hSswcbNqxv) | [LANDMARQUE](https://open.spotify.com/artist/1IPbTwMsCPZBA97EBCYBYL), [Touchline](https://open.spotify.com/artist/17GDrcknjyTyuxDbZ4kHlz) | [EBBS & FLOWS: Hard Target](https://open.spotify.com/album/3uZNYBqHWdUW0LJcMc6DjU) | 3:28 | 2023-05-26 | 2023-07-14 |
-| [eGoli](https://open.spotify.com/track/3UKUesD3zj9w1WBbfeYpDp) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [eGoli](https://open.spotify.com/album/2GknnL8wujzsYLhRWXrnab) | 3:23 | 2026-03-12 |  |
+| [eGoli](https://open.spotify.com/track/3UKUesD3zj9w1WBbfeYpDp) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [eGoli](https://open.spotify.com/album/2GknnL8wujzsYLhRWXrnab) | 3:23 | 2026-03-12 | 2026-09-25 |
 | [Eish](https://open.spotify.com/track/4uDG6e9NZP60RFWh86IBMK) | [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Qwellers](https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R), [Uncle Partytime](https://open.spotify.com/artist/0RB4t74uP0kkC8jCaaENWn), [LaCabra](https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT), [Jepedoh](https://open.spotify.com/artist/7dTIcdK3UCwuYaWlom4bjZ) | [Eish](https://open.spotify.com/album/395QfuTBVHG13QKLkPZLlK) | 2:58 | 2024-07-25 | 2025-08-16 |
 | [Eish Chief](https://open.spotify.com/track/7AoK2kZEyLA0d0D68m0ILD) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [808 Sallie](https://open.spotify.com/artist/1a9Bvzf8IQC3IG2tEwxPTX) | [Eish Chief](https://open.spotify.com/album/4IydkMb0afsHjNLG3WMZUe) | 2:37 | 2024-10-04 | 2024-10-12 |
 | [Eish Chief \- Remix](https://open.spotify.com/track/5fmZMhrBrXNCYoLIdjCZU4) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Eish Chief \(Remix\)](https://open.spotify.com/album/5jzBw5vh59rdN2HQMzehK7) | 3:40 | 2024-10-11 | 2025-08-16 |
@@ -871,6 +871,7 @@
 | [Shisha](https://open.spotify.com/track/1pARdNL0rnflCKtrTtCmD0) | [Makwa](https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59) | [Makwande](https://open.spotify.com/album/1fhkQiZG5wCFYGW10mCvG1) | 2:37 | 2023-10-13 | 2024-04-26 |
 | [Shisha](https://open.spotify.com/track/4C3rbsYyFI6AQJAZXlf1zl) | [Makwa](https://open.spotify.com/artist/6aXzYhXfiqzlcdyFBxfw59) | [Makwande](https://open.spotify.com/album/6rPBHlbzAZkdaOE8FjiR4l) | 2:37 | 2024-03-15 | 2024-04-19 |
 | [Shoda Ngami \- Remix](https://open.spotify.com/track/2W0F1H8Ef34utPdWIzdIsw) | [Loki.](https://open.spotify.com/artist/3f9z8pU96fneXqFTsD9FjD), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY) | [Shoda Ngami \(Remix\)](https://open.spotify.com/album/4Tco5EhdTIAamseoex3Gw3) | 3:33 | 2022-12-12 | 2023-06-30 |
+| [Shona Man](https://open.spotify.com/track/0BtjAI4PaNbU5Df0RUmdhQ) | [KindlyNxsh](https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR) | [SHONA MAN](https://open.spotify.com/album/0Tzh38zIRMuPIg48SLSSzZ) | 2:21 | 2026-09-24 |  |
 | [Shpendin' It](https://open.spotify.com/track/3En633H2IcAXGt0gDIL6LP) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH), [Neo Ndawo](https://open.spotify.com/artist/69JPAe5tjdmMJY2805axkS) | [YAH SHE](https://open.spotify.com/album/1rg9sNwqnuJOMhANopgz48) | 2:54 | 2022-03-24 | 2022-05-06 |
 | [Sijimile](https://open.spotify.com/track/1PY5vSBLfpIh79JFywPTlt) | [Stilo Magolide](https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA), [Kabelo](https://open.spotify.com/artist/6FgSMfwOMDbtgUIOiwmwJF), [Mo\-T](https://open.spotify.com/artist/5jZHsYDv13GBPGSE8HxiTe) | [Sijimile](https://open.spotify.com/album/45XCLdujtA3ygdi1ibw4MQ) | 3:35 | 2022-05-05 | 2022-07-29 |
 | [SIKE](https://open.spotify.com/track/1MaUv4mvshAe1euJs31TFh) | [BhutLegend](https://open.spotify.com/artist/25BCKfqdyR3hrL0uaQyhAp), [Tony Dayimane](https://open.spotify.com/artist/61JGKpmRAgud7VaFpgesxi) | [SIKE](https://open.spotify.com/album/2WzSAfkDKxsrwd57ywBtj4) | 3:21 | 2024-04-25 | 2024-07-27 |

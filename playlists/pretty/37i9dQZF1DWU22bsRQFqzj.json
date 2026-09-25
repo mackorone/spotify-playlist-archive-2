@@ -1,6 +1,6 @@
 {
   "description": "Sei nella tua running era e stai preparando a tua prossima mezza maratona \ud83c\udfc3\ud83c\udffb",
-  "num_followers": 138475,
+  "num_followers": 138492,
   "original_name": "Hit Per Correre",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 193829,
+      "name": "Physical",
+      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
         "name": "Pursuit Of Happiness [Extended Steve Aoki Remix (Explicit)]",
         "url": "https://open.spotify.com/album/38MFjDPIDJFfLF7IVpe1rv"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 373626,
       "name": "Pursuit Of Happiness - Extended Steve Aoki Remix",
       "url": "https://open.spotify.com/track/5PX4uS1LqlWEPL69phPVQQ"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 193829,
-      "name": "Physical",
-      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "run",
-        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        },
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 262297,
-      "name": "run",
-      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "BREAK MY SOUL",
         "url": "https://open.spotify.com/album/5JgCaA43ECaGeqbPEo6WUP"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 173888,
       "name": "Head Down",
       "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "run",
+        "url": "https://open.spotify.com/album/0rbA7c9RUVkHiNWMJ04Usk"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        },
+        {
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        }
+      ],
+      "duration_ms": 262297,
+      "name": "run",
+      "url": "https://open.spotify.com/track/1aUbgHRbxhm5lMpyM6Pyeb"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1707,30 +1707,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "pAPi wiTH tOKisCha",
-        "url": "https://open.spotify.com/album/2RcRUBfoS0jugdKTTHAF48"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 162206,
-      "name": "pAPi wiTH tOKisCha",
-      "url": "https://open.spotify.com/track/5j2NMCTCQ5R4yV6CUwR1nG"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/6GJu4TM1Ef6tJifKzRS9D3"
       },
@@ -1755,6 +1731,30 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
+        "name": "pAPi wiTH tOKisCha",
+        "url": "https://open.spotify.com/album/2RcRUBfoS0jugdKTTHAF48"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 162206,
+      "name": "pAPi wiTH tOKisCha",
+      "url": "https://open.spotify.com/track/5j2NMCTCQ5R4yV6CUwR1nG"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
         "name": "Actual Life 3 (January 1 - September 9 2022)",
         "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
       },
@@ -1771,6 +1771,26 @@
       "duration_ms": 196965,
       "name": "Bleu (better with time)",
       "url": "https://open.spotify.com/track/7c584s9RZQzkJDoC08VDJB"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 232498,
+      "name": "Qu\u00e9date - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1799,26 +1819,6 @@
       "duration_ms": 169303,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/33CfD8UkDEcSdAP9j4QpUY"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
-        "name": "Qu\u00e9date (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/5IZcEkLkf0oQNFlgFGocxr"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 232498,
-      "name": "Qu\u00e9date - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/79wDq3jpGu0yew1ngQpAAi"
     },
     {
       "added_at": "2026-09-03 22:03:00",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2026-09-03 22:03:00",
       "album": {
-        "name": "Baddy On The Floor",
-        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
-      },
-      "artists": [
-        {
-          "name": "Jamie xx",
-          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
-        },
-        {
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
-        }
-      ],
-      "duration_ms": 222315,
-      "name": "Baddy On The Floor",
-      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
-    },
-    {
-      "added_at": "2026-09-03 22:03:00",
-      "album": {
         "name": "BRAIN (feat. Artemas)",
         "url": "https://open.spotify.com/album/03HMvLm0qOaRM6xOygXM30"
       },
@@ -1903,6 +1883,26 @@
       "duration_ms": 159532,
       "name": "BRAIN (feat. Artemas)",
       "url": "https://open.spotify.com/track/7fGAhyEwT2RPPJeRHNeiC1"
+    },
+    {
+      "added_at": "2026-09-03 22:03:00",
+      "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
     },
     {
       "added_at": "2026-09-03 22:03:00",

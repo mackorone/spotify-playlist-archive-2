@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,830 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,176 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 32 | [Old School](https://open.spotify.com/track/2jhvUWjkObuGOJ2caTUIhi) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/1m09qfcyA3T44v7DJq0ibM) | 4:26 |
 | 33 | [Touch](https://open.spotify.com/track/09mcJo5V6ZODKYybdYzgaW) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 3:46 |
 | 34 | [Do not disturb](https://open.spotify.com/track/2R7A0xNBsAHLNY66uiCScE) | [Matty Mel Jr](https://open.spotify.com/artist/0JtmM4D2ncms5yIaAvsTNW) | [Do not disturb](https://open.spotify.com/album/4RG39enCANdnjbagkDndcp) | 2:59 |
-| 35 | [Catnap](https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 5:03 |
-| 36 | [Love To All](https://open.spotify.com/track/3JixMzROP010wvqclHnxr2) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Listen](https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL) | 5:08 |
+| 35 | [Love To All](https://open.spotify.com/track/3JixMzROP010wvqclHnxr2) | [Chuck Loeb](https://open.spotify.com/artist/02L5Rmh1RtTbHOBdzPzfoQ) | [Listen](https://open.spotify.com/album/1w8CYaO0C4L3H9BNZsPHgL) | 5:08 |
+| 36 | [Catnap](https://open.spotify.com/track/0x1TSRHlJ2hV63cPBcvrLp) | [Nils](https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB) | [Ready to Play](https://open.spotify.com/album/2ezdxx2baHQ7qTEUgXR4F5) | 5:03 |
 | 37 | [Because of You](https://open.spotify.com/track/1mzBQnUMTUSs4TkpSJjZES) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Another Door Opens](https://open.spotify.com/album/5e8Y5tQ9WMOJBEHOHK6gDh) | 4:44 |
 | 38 | [Can You Feel It](https://open.spotify.com/track/1mYIkTdWul7A4NYS3cKR2g) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX), [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Double Vision](https://open.spotify.com/album/6mIX3C4SR09oQqMF74NVlL) | 4:11 |
-| 39 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 |
-| 40 | [Whisper](https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Whisper](https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g) | 4:16 |
-| 41 | [Straight to the Heart](https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Secrets](https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc) | 3:53 |
+| 39 | [Straight to the Heart](https://open.spotify.com/track/1oUlwpvmUwgDWT5JzzRfov) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Secrets](https://open.spotify.com/album/5PwNZ6tn2ygErc1rISjsNc) | 3:53 |
+| 40 | [Have Your Cake And Eat It](https://open.spotify.com/track/52XxdtfUzy5Qqw8i0wKrjD) | [Chris Standring](https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut) | [Love and Paragraphs](https://open.spotify.com/album/6FQvFmsOaSpmfXFZ2BAJiu) | 4:03 |
+| 41 | [Whisper](https://open.spotify.com/track/69JjWeUmsarsFqxkIROVuY) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Whisper](https://open.spotify.com/album/6DD1eTmqLTQ3v3XzVCTj8g) | 4:16 |
 | 42 | [The Last Kiss](https://open.spotify.com/track/3g9XQQDRluVCngQU9yYLyC) | [Ritchie Everett](https://open.spotify.com/artist/3cfaaaztlSIVBlM6JIsbVI) | [Emily](https://open.spotify.com/album/0wgPQcFKBG31xcIejomfma) | 4:04 |
 | 43 | [Just One Wish](https://open.spotify.com/track/4QCLC4WSJMXjZ17QhkWl3f) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o), [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Out Of A Dream](https://open.spotify.com/album/3e1fT9twS7LjpTQdtqGNDN) | 4:13 |
 | 44 | [Una Mas](https://open.spotify.com/track/6XtAWAob4B0USWBsX3teoT) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [My One And Only One](https://open.spotify.com/album/4aINB0LIcdX5jTzT55TB5J) | 3:37 |

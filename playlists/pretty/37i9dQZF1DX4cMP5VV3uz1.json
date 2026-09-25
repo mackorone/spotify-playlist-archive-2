@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 166924,
+  "num_followers": 166928,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Top Of My Game",
-        "url": "https://open.spotify.com/album/7kC0H6RKxFX9VaDlIOrgKX"
-      },
-      "artists": [
-        {
-          "name": "Control Alt Delete",
-          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
-        }
-      ],
-      "duration_ms": 192514,
-      "name": "Top Of My Game",
-      "url": "https://open.spotify.com/track/5b5D3Bjd9eyx4rLH39WyHT"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
         "name": "U & I",
         "url": "https://open.spotify.com/album/7nyQq9UwNu6U3PXihBCI5t"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 176551,
       "name": "U & I",
       "url": "https://open.spotify.com/track/1AZi5pbLqIP0uHt1iiVLMH"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
+        "name": "Top Of My Game",
+        "url": "https://open.spotify.com/album/7kC0H6RKxFX9VaDlIOrgKX"
+      },
+      "artists": [
+        {
+          "name": "Control Alt Delete",
+          "url": "https://open.spotify.com/artist/67vd9gNF4DOLk91mqL6Jkd"
+        }
+      ],
+      "duration_ms": 192514,
+      "name": "Top Of My Game",
+      "url": "https://open.spotify.com/track/5b5D3Bjd9eyx4rLH39WyHT"
     },
     {
       "added_at": "2026-09-17 23:01:00",
@@ -391,6 +391,22 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/3XwujMrHgCfjTIpnB6zIgR"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "duration_ms": 271724,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/2zzO5pkMoiWvgO5lCOLkDH"
+    },
+    {
+      "added_at": "2026-09-17 23:01:00",
+      "album": {
         "name": "18%",
         "url": "https://open.spotify.com/album/2q5xlLcWDHtiXzi2x5mNU8"
       },
@@ -459,30 +475,6 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Tek Mi Number",
-        "url": "https://open.spotify.com/album/2LfsSWYdFWA7bbd0Vz3ygO"
-      },
-      "artists": [
-        {
-          "name": "Serum",
-          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
-        },
-        {
-          "name": "Basslayerz",
-          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
-        },
-        {
-          "name": "Inja",
-          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
-        }
-      ],
-      "duration_ms": 175280,
-      "name": "Tek Mi Number",
-      "url": "https://open.spotify.com/track/5eERrvow0IckXaOaaB5vgr"
-    },
-    {
-      "added_at": "2026-09-17 23:01:00",
-      "album": {
         "name": "fondofme",
         "url": "https://open.spotify.com/album/1caBJnGrPXT0eSzdNduS50"
       },
@@ -503,18 +495,26 @@
     {
       "added_at": "2026-09-17 23:01:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/3XwujMrHgCfjTIpnB6zIgR"
+        "name": "Tek Mi Number",
+        "url": "https://open.spotify.com/album/2LfsSWYdFWA7bbd0Vz3ygO"
       },
       "artists": [
         {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        },
+        {
+          "name": "Basslayerz",
+          "url": "https://open.spotify.com/artist/3jBkpEV3zrHLO6r2iKZeew"
+        },
+        {
+          "name": "Inja",
+          "url": "https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM"
         }
       ],
-      "duration_ms": 271724,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/2zzO5pkMoiWvgO5lCOLkDH"
+      "duration_ms": 175280,
+      "name": "Tek Mi Number",
+      "url": "https://open.spotify.com/track/5eERrvow0IckXaOaaB5vgr"
     },
     {
       "added_at": "2026-09-17 23:01:00",

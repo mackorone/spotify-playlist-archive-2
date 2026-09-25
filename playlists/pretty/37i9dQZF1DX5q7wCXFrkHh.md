@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 
 > The classic piano recordings in Jazz\. Cover: Oscar Peterson
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,874 likes - 100 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,940 likes - 100 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,14 +15,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5q7wCXFrkHh.md) - [plain]
 | 5 | [All Of Me](https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [A Jazz Portrait Of Frank Sinatra](https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM) | 3:22 |
 | 6 | [Watermelon Man \- Remastered 2007](https://open.spotify.com/track/38xcUjiTP1ivfb7ObwjyGA) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Takin' Off \(Expanded Edition\)](https://open.spotify.com/album/61bXefFZqGbVkmb7qzIIOl) | 7:09 |
 | 7 | [I'm Confessin' \(That I Love You\)](https://open.spotify.com/track/6kLp24Op7cOu8iQkU46sBv) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Solo Monk \(Expanded Edition\)](https://open.spotify.com/album/4Bxg4OFb2wA6IjoeuWilRF) | 2:37 |
-| 8 | [I'll Let You Know](https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 6:48 |
-| 9 | [Misty](https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Plays Misty](https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9) | 2:51 |
+| 8 | [Misty](https://open.spotify.com/track/6oanIhkNbxXnX19RTtkpEL) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [Plays Misty](https://open.spotify.com/album/5sJxY1pjo8qSUG5pgiMcI9) | 2:51 |
+| 9 | [I'll Let You Know](https://open.spotify.com/track/3s2RFp5hU6jEvAmfZrnrAi) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [The New Classic Trio](https://open.spotify.com/album/4uLeyZYkc0IOZMlqspAHS1) | 6:48 |
 | 10 | [Ain't Misbehavin'](https://open.spotify.com/track/3BFRqZFLSrqtQr6cjHbAxU) | [Fats Waller](https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa) | [If You Got To Ask, You Ain't Got It!](https://open.spotify.com/album/1W9UvJtQ8WmTnIBqi6KnHB) | 3:57 |
 | 11 | [Nardis](https://open.spotify.com/track/37vEa9sfgAqEZuqX8AX0Zk) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Explorations](https://open.spotify.com/album/5MuOxoJbvmGGIQxo6Pudu9) | 5:49 |
 | 12 | [Please Send Me Someone To Love](https://open.spotify.com/track/6j0mXItB7viXXjB98l3Kwy) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 9:48 |
 | 13 | [Strange Meadow Lark](https://open.spotify.com/track/6HvyFdP5JrCQdmxq2qi7MC) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA) | 7:26 |
-| 14 | [Köln, January 24, 1975, Part II c \- Live](https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 6:56 |
-| 15 | [The Single Petal Of A Rose \- The Queen's Suite](https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Ellington Suites](https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s) | 4:04 |
+| 14 | [The Single Petal Of A Rose \- The Queen's Suite](https://open.spotify.com/track/1PoaSCeoBUCPg25k7XTvNN) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Ellington Suites](https://open.spotify.com/album/2xjUTAmc4gI76Js8T6Aj0s) | 4:04 |
+| 15 | [Köln, January 24, 1975, Part II c \- Live](https://open.spotify.com/track/4FMI4Ln1LhyxGldkNXan5e) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [The Köln Concert](https://open.spotify.com/album/0I8vpSE1bSmysN2PhmHoQg) | 6:56 |
 | 16 | [From Gagarin's Point of View](https://open.spotify.com/track/4JWfPMjVEh4SusNs8V3gt5) | [Esbjörn Svensson Trio](https://open.spotify.com/artist/3HJzLaMbS0jMabxS3wttGk) | [From Gagarin's Point of View](https://open.spotify.com/album/4jM7MG25QkVfp0SSkQ6138) | 4:03 |
 | 17 | [I Love Music](https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1) | [Ahmad Jamal Trio](https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7) | [The Awakening](https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO) | 7:22 |
 | 18 | [Tenderly](https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 
 > Songs of faith, hope, and the greatest of these, LOVE.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,204 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,206 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhr4P5Boce5.md) - [plain]
 | 77 | [PASSIONATE](https://open.spotify.com/track/1xWNuAcLnTnAxc9eWcdjVA) | [Ryce](https://open.spotify.com/artist/0gKR8NI5vgeG9kCyt8q06v) | [PASSIONATE](https://open.spotify.com/album/2clEdPUvgRj9Gqy043PLAj) | 2:32 |
 | 78 | [Always](https://open.spotify.com/track/75SLBVHHOA1nA3h3De0bZx) | [Charles Jenkins](https://open.spotify.com/artist/5h4u0QejAgubhvzjt3KWlO) | [Always](https://open.spotify.com/album/2LeiPPv6ZUAl7JuRLXrHXQ) | 4:02 |
 | 79 | [Here for You](https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Here for You](https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl) | 2:32 |
-| 80 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
-| 81 | [The One Out The Friendzone \- Kevin Aleksander Remix](https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [The One Out The Friendzone \(Kevin Aleksander Remix\)](https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC) | 3:00 |
-| 82 | [Forever the Love of My Life](https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Forever the Love of My Life](https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq) | 2:51 |
+| 80 | [The One Out The Friendzone \- Kevin Aleksander Remix](https://open.spotify.com/track/25EsAdUP8d3ENGnlKsKcOc) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Tommy Royale](https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs), [Kevin Aleksander](https://open.spotify.com/artist/2i22RHQ7v8dY9xiNtC9ADZ) | [The One Out The Friendzone \(Kevin Aleksander Remix\)](https://open.spotify.com/album/34iEy5I9vJ3BUvYgbs9tiC) | 3:00 |
+| 81 | [Forever the Love of My Life](https://open.spotify.com/track/2p6K4Am9Izdgv2t73Kasog) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Forever the Love of My Life](https://open.spotify.com/album/4CcwJrmuGoIuKvsBt6HRIq) | 2:51 |
+| 82 | [Easy](https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv) | [Vic Lucas](https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG) | [Easy](https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG) | 2:58 |
 | 83 | [My World](https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB) | [KMO Shamaal](https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF) | [My World](https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN) | 3:19 |
 | 84 | [Only Time Will Tell](https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Only Time Will Tell](https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG) | 3:18 |
 | 85 | [fall \(when we fell in love\)](https://open.spotify.com/track/36d1svoAknjikN8IgUXSbD) | [Xander Sallows](https://open.spotify.com/artist/1qkNJ1IgevMh0GG9rMEh8F) | [fall \(when we fell in love\)](https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm) | 2:37 |

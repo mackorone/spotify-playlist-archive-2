@@ -1,13 +1,29 @@
 {
-  "description": "\"Fr\u00e9rot\" de J\u00e9r\u00e9my Frerot est le Grand Hit de la semaine.  ",
-  "num_followers": 1017152,
+  "description": "\"Te rencontrer encore\" d'ESTL est le Grand Hit de la semaine.  ",
+  "num_followers": 1017140,
   "original_name": "Grand Hit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFFspHnT7lc27z2dQe66z9bKKzlO",
+  "snapshot_id": "AAAAAIEseOM77+bvlYGl1OGdXGcktR6D",
   "tracks": [
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
+        "name": "Te rencontrer encore",
+        "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
+      },
+      "artists": [
+        {
+          "name": "ESTL",
+          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Te rencontrer encore",
+      "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
+    },
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
@@ -107,22 +123,6 @@
       "duration_ms": 187320,
       "name": "\u00c9t\u00e9 avec toi",
       "url": "https://open.spotify.com/track/4cSHMHSTRhetAtT1iDP2zO"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
-        "name": "Te rencontrer encore",
-        "url": "https://open.spotify.com/album/1rLH6Yw3PKo031vtGiatiQ"
-      },
-      "artists": [
-        {
-          "name": "ESTL",
-          "url": "https://open.spotify.com/artist/06iezeOUHGb86SaoYTyexg"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Te rencontrer encore",
-      "url": "https://open.spotify.com/track/5SqwlP6o9AjDRO1yNu7b09"
     },
     {
       "added_at": "2026-09-10 22:02:12",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
+        "name": "Respire fort",
+        "url": "https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h"
+      },
+      "artists": [
+        {
+          "name": "Jeanne",
+          "url": "https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ"
+        }
+      ],
+      "duration_ms": 171493,
+      "name": "Respire fort",
+      "url": "https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS"
+    },
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
         "name": "Crash",
         "url": "https://open.spotify.com/album/20RGe7E8FpGuhkcTLa4LpG"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
-        "name": "Peu importe",
-        "url": "https://open.spotify.com/album/3WmpDb4ONYEs5UPkHvNCZN"
-      },
-      "artists": [
-        {
-          "name": "Zazie",
-          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "Peu importe",
-      "url": "https://open.spotify.com/track/3MoSqy7oUtQBSAcc4eQA3M"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
         "name": "C amir\u00b2",
         "url": "https://open.spotify.com/album/3aVEfRYRhlqPGRXptmVKya"
       },
@@ -467,38 +467,6 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
-        "name": "Les nouveaux soleils",
-        "url": "https://open.spotify.com/album/4uCKWYMoIEfOGjTDxYOj8z"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 238453,
-      "name": "Les nouveaux soleils - Single Version",
-      "url": "https://open.spotify.com/track/1Rt2B1x76Vguf3gCxqnxdl"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
-        "name": "Respire fort",
-        "url": "https://open.spotify.com/album/5sQnc8AUDkAWRBjnNSXR3h"
-      },
-      "artists": [
-        {
-          "name": "Jeanne",
-          "url": "https://open.spotify.com/artist/6GxI473jNE1DmkBFA5D4bZ"
-        }
-      ],
-      "duration_ms": 171493,
-      "name": "Respire fort",
-      "url": "https://open.spotify.com/track/14KogTtMWr07LMu5E66IrS"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
         "name": "Adr\u00e9naline",
         "url": "https://open.spotify.com/album/7uBRFkBVpOgW0Uub3qstIK"
       },
@@ -511,6 +479,38 @@
       "duration_ms": 193666,
       "name": "Quand m\u00eame",
       "url": "https://open.spotify.com/track/4V9V7lUvb6DZFCa3XwJPbc"
+    },
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
+        "name": "Peu importe",
+        "url": "https://open.spotify.com/album/3WmpDb4ONYEs5UPkHvNCZN"
+      },
+      "artists": [
+        {
+          "name": "Zazie",
+          "url": "https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "Peu importe",
+      "url": "https://open.spotify.com/track/3MoSqy7oUtQBSAcc4eQA3M"
+    },
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
+        "name": "Les nouveaux soleils",
+        "url": "https://open.spotify.com/album/4uCKWYMoIEfOGjTDxYOj8z"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 238453,
+      "name": "Les nouveaux soleils - Single Version",
+      "url": "https://open.spotify.com/track/1Rt2B1x76Vguf3gCxqnxdl"
     },
     {
       "added_at": "2026-09-10 22:02:12",
@@ -547,22 +547,6 @@
       "duration_ms": 188276,
       "name": "j'me demande",
       "url": "https://open.spotify.com/track/2u0lUrmXGvHO2Eu2A7RFWb"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
-        "name": "industry plant",
-        "url": "https://open.spotify.com/album/0RdSN1LHK5602mFafwYu4i"
-      },
-      "artists": [
-        {
-          "name": "miki",
-          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
-        }
-      ],
-      "duration_ms": 137026,
-      "name": "\u00e7a pik un peu quand m\u00eame",
-      "url": "https://open.spotify.com/track/5NYys16a8WwOsNHowqVBPw"
     },
     {
       "added_at": "2026-09-10 22:02:12",
@@ -619,6 +603,22 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
+        "name": "industry plant",
+        "url": "https://open.spotify.com/album/0RdSN1LHK5602mFafwYu4i"
+      },
+      "artists": [
+        {
+          "name": "miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "duration_ms": 137026,
+      "name": "\u00e7a pik un peu quand m\u00eame",
+      "url": "https://open.spotify.com/track/5NYys16a8WwOsNHowqVBPw"
+    },
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
         "name": "C'est \u00e0 qui le tour",
         "url": "https://open.spotify.com/album/4S4U6uyaN5a6t5WLt5Z3nN"
       },
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-10 22:02:12",
       "album": {
-        "name": "Systaime",
-        "url": "https://open.spotify.com/album/3WPu1zUqJ9nWCsjeIqTe4t"
-      },
-      "artists": [
-        {
-          "name": "Christophe Willem",
-          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
-        }
-      ],
-      "duration_ms": 154991,
-      "name": "Systaime",
-      "url": "https://open.spotify.com/track/03P7mOAnyLr6T8uIGGU9Pr"
-    },
-    {
-      "added_at": "2026-09-10 22:02:12",
-      "album": {
         "name": "Jet Lag",
         "url": "https://open.spotify.com/album/4cUQUMvniiMM4NVpIxH1Kh"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 165000,
       "name": "Jet Lag",
       "url": "https://open.spotify.com/track/7fRTjRTHXx2NeDsU6V0585"
+    },
+    {
+      "added_at": "2026-09-10 22:02:12",
+      "album": {
+        "name": "Systaime",
+        "url": "https://open.spotify.com/album/3WPu1zUqJ9nWCsjeIqTe4t"
+      },
+      "artists": [
+        {
+          "name": "Christophe Willem",
+          "url": "https://open.spotify.com/artist/0wb3S587JG0riRtdPA6PQD"
+        }
+      ],
+      "duration_ms": 154991,
+      "name": "Systaime",
+      "url": "https://open.spotify.com/track/03P7mOAnyLr6T8uIGGU9Pr"
     },
     {
       "added_at": "2026-09-10 22:02:12",

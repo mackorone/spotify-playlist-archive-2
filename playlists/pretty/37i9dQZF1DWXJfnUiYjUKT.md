@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world, with Travis Scott on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,848 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,936 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 3 | [MISS MY DAWG \(feat\. Drake\)](https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [COCOON](https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL) | 3:08 |
 | 4 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 |
 | 5 | [AGUA](https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [AGUA](https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF) | 3:11 |
-| 6 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 6 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 7 | [Ten Pairs Of Boots](https://open.spotify.com/track/072iLfHsfsEeGAgJY72Y8S) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/0r9Hj4BldU2MjInQLgOPH6) | 3:42 |
 | 8 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
 | 9 | [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls) | 3:16 |

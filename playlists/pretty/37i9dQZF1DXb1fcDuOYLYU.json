@@ -1,6 +1,6 @@
 {
   "description": "These are the talented women of Latin music. Cover: AKRIILA",
-  "num_followers": 134136,
+  "num_followers": 134156,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-09-10 14:14:31",
       "album": {
-        "name": "BARAJA BENDITA",
-        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 127740,
-      "name": "CHULA",
-      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
-    },
-    {
-      "added_at": "2026-09-10 14:14:31",
-      "album": {
         "name": "Bendito Verano",
         "url": "https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 176285,
       "name": "ALMA",
       "url": "https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G"
+    },
+    {
+      "added_at": "2026-09-10 14:14:31",
+      "album": {
+        "name": "BARAJA BENDITA",
+        "url": "https://open.spotify.com/album/1B8QJFOcpBeycykDaWttDY"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 127740,
+      "name": "CHULA",
+      "url": "https://open.spotify.com/track/4SEQheyYUhSyCoOHvDdkla"
     },
     {
       "added_at": "2026-09-10 14:14:31",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-09-10 14:14:31",
       "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 191863,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
+    },
+    {
+      "added_at": "2026-09-10 14:14:31",
+      "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 198409,
       "name": "no quiero pelear",
       "url": "https://open.spotify.com/track/73g6RENTgyeOn8vD04F2MT"
-    },
-    {
-      "added_at": "2026-09-10 14:14:31",
-      "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 191863,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/5Dor1ZjCnBYmC136ytDzJp"
     },
     {
       "added_at": "2026-09-10 14:14:31",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2026-09-10 14:14:31",
       "album": {
-        "name": "Mentira",
-        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
-      },
-      "artists": [
-        {
-          "name": "YE\u0418DRY",
-          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
-        }
-      ],
-      "duration_ms": 131904,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
-    },
-    {
-      "added_at": "2026-09-10 14:14:31",
-      "album": {
         "name": "venus & romeo",
         "url": "https://open.spotify.com/album/2nKTInQL5qoLf11ZXXBHnb"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 123045,
       "name": "venus & romeo",
       "url": "https://open.spotify.com/track/7xPYhm2jFGzO6dZBjlS58n"
+    },
+    {
+      "added_at": "2026-09-10 14:14:31",
+      "album": {
+        "name": "Mentira",
+        "url": "https://open.spotify.com/album/1bE571SVKRZZkI9zK5ov9M"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "duration_ms": 131904,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/3R7vjL9lt5W1bidvbJn3gu"
     },
     {
       "added_at": "2026-09-10 14:14:31",

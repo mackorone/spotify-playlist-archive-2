@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-432 songs - 22 hr 48 min
+434 songs - 22 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,8 +29,9 @@
 | [And I Gangbang](https://open.spotify.com/track/5VIcIdLfWpNZKjlUGcC17y) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Free Dem Boyz](https://open.spotify.com/album/4zJiUubJvgUJNq0BVD9Mvs) | 2:13 | 2025-04-02 | 2025-06-28 |
 | [Andale](https://open.spotify.com/track/1X1xjiyToNBcCwA3Ehjran) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/4AlDW3X24TV6bpBh4T4bhk) | 2:48 | 2023-12-24 |  |
 | [Andale](https://open.spotify.com/track/4EgZqNfwsDJ1HvvSMEXypp) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I'M REALLY LIKE THAT](https://open.spotify.com/album/6hFTxaqHvUadGLRV9xDEjV) | 2:48 | 2023-12-13 | 2023-12-25 |
-| [ANOTHER DAY](https://open.spotify.com/track/0iBHHUX6baFfDCs5cQzv5I) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX) | 2:32 | 2026-09-23 |  |
+| [ANOTHER DAY](https://open.spotify.com/track/0iBHHUX6baFfDCs5cQzv5I) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX) | 2:32 | 2026-09-23 | 2026-09-25 |
 | [ANOTHER DAY](https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 2:32 | 2023-12-13 | 2026-09-24 |
+| [ANOTHER DAY](https://open.spotify.com/track/6t8FYoGOh31ssc9zS4OO6u) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6) | 2:32 | 2026-09-24 |  |
 | [Antidote](https://open.spotify.com/track/13Vs4lw2XisMw76z5ZV5Za) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:42 | 2023-12-13 |  |
 | [Antisocial \(feat\. Juice WRLD\)](https://open.spotify.com/track/3lakLxKgelrvKBTyGwDXhX) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 4:22 | 2023-12-13 |  |
 | [Anza \(feat\. Armani Caesar\)](https://open.spotify.com/track/2BCbaompY94bwNCd3RuX4q) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f) | [From King To A GOD](https://open.spotify.com/album/6DGCEJKSnaK626YgoElkjk) | 3:33 | 2024-03-26 | 2025-07-10 |
@@ -397,7 +398,8 @@
 | [Trick](https://open.spotify.com/track/6TVYfpUgrhL06qWlljUW5L) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [ICY](https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH) | 2:38 | 2023-12-13 |  |
 | [True Gremlin](https://open.spotify.com/track/6CSkzQ0w6QYqfjHowLAvY9) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [4 Days In LA](https://open.spotify.com/album/7vt6urA0qadT8GzMqyytfU) | 2:53 | 2025-01-09 | 2025-04-12 |
 | [TURN UP](https://open.spotify.com/track/0hzAYGvbeMwW5O6n1w9zNq) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 3:28 | 2023-12-13 | 2026-09-24 |
-| [TURN UP](https://open.spotify.com/track/2OsrEaBGJjORvRwLzvnSDy) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a) | 3:28 | 2026-09-23 |  |
+| [TURN UP](https://open.spotify.com/track/2OsrEaBGJjORvRwLzvnSDy) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a) | 3:28 | 2026-09-23 | 2026-09-25 |
+| [TURN UP](https://open.spotify.com/track/6H60e8itknY1xRBzBTq5nT) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX) | 3:28 | 2026-09-24 |  |
 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 | 2023-12-13 |  |
 | [Tyrone 2021 \(feat\. Big Sean\)](https://open.spotify.com/track/0dDI9Y0qEQspYedfdi1vau) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:38 | 2023-12-13 |  |
 | [Undefeated \(feat\. 21 Savage\)](https://open.spotify.com/track/2vaMWMPMgsWX4fwJiKmdWm) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 2:54 | 2023-12-13 |  |

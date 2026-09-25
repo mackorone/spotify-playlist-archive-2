@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 75182,
+  "num_followers": 75190,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADG/PN36y73FboSDjLzxlv2",
+  "snapshot_id": "arMWgAAAAACZcwhLJXjp4eioKgZYYcs7",
   "tracks": [
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BUGRIGHT",
-        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 257000,
-      "name": "\u541b\u306e\u597d\u304d\u306a\u3046\u305f",
-      "url": "https://open.spotify.com/track/79nCnMMdc114kKQCcHNq3j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ODD FUTURE short ver.",
         "url": "https://open.spotify.com/album/276iqWzPw3i8uGdvoDzMsN"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 89983,
       "name": "ODD FUTURE short ver.",
       "url": "https://open.spotify.com/track/5tXOuIoDO0ZtGLijEOD6HZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUGRIGHT",
+        "url": "https://open.spotify.com/album/5RaSi1ceZ2H2i8cmhdhmFe"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 257000,
+      "name": "\u541b\u306e\u597d\u304d\u306a\u3046\u305f",
+      "url": "https://open.spotify.com/track/79nCnMMdc114kKQCcHNq3j"
     },
     {
       "added_at": null,
@@ -239,22 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "\u5728\u308b\u3079\u304d\u5f62",
-      "url": "https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE ONE",
         "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 258933,
       "name": "7th Trigger",
       "url": "https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "\u5728\u308b\u3079\u304d\u5f62",
+      "url": "https://open.spotify.com/track/5jouFR1LV86x6xXTo1sCKo"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 265040,
-      "name": "IMPACT",
-      "url": "https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neo SOUND BEST",
         "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 334026,
       "name": "\u6fc0\u52d5",
       "url": "https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 265040,
+      "name": "IMPACT",
+      "url": "https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C"
     },
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 341093,
-      "name": "0 choir",
-      "url": "https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE ONE",
         "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 226173,
       "name": "Don\u2019t Think.Feel",
       "url": "https://open.spotify.com/track/683p6Ov3orc4ICLOKi1Yn6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 341093,
+      "name": "0 choir",
+      "url": "https://open.spotify.com/track/0l0v2OwXowCmGOcPeIOcUP"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AwakEVE",
-        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 354853,
-      "name": "\u7f8e\u5f71\u610f\u5fd7",
-      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 305320,
       "name": "EN",
       "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AwakEVE",
+        "url": "https://open.spotify.com/album/6EhXaQfpmGjj9DVN8qdgjS"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 354853,
+      "name": "\u7f8e\u5f71\u610f\u5fd7",
+      "url": "https://open.spotify.com/track/4hJymb1Mm4hrYMoL3itfv8"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPIPHANY",
-        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 235893,
-      "name": "NO MAP",
-      "url": "https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIFE 6 SENSE",
         "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 200426,
       "name": "\u767d\u663c\u5922",
       "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EPIPHANY",
+        "url": "https://open.spotify.com/album/5rhtPiGWtRZkF7Y81yeNtw"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 235893,
+      "name": "NO MAP",
+      "url": "https://open.spotify.com/track/3NM5kbdYzz42SPWqDEUL8b"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVER",
-        "url": "https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "EVER",
-      "url": "https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIFE 6 SENSE",
         "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
@@ -643,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSER",
-        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+        "name": "EVER",
+        "url": "https://open.spotify.com/album/3sA5Hdfaqv5XKc1ujCPTYS"
       },
       "artists": [
         {
@@ -652,9 +636,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 312746,
-      "name": "AFTER LIFE",
-      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
+      "duration_ms": 242400,
+      "name": "EVER",
+      "url": "https://open.spotify.com/track/0IQLk94VE32tdGlC7lUsPW"
     },
     {
       "added_at": null,
@@ -675,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "0 CHOIR",
-        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
       "artists": [
         {
@@ -684,9 +668,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 406653,
-      "name": "7\u65e5\u76ee\u306e\u6c7a\u610f",
-      "url": "https://open.spotify.com/track/2697A4jAyN041xwNXRBC3Q"
+      "duration_ms": 312746,
+      "name": "AFTER LIFE",
+      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
     },
     {
       "added_at": null,
@@ -703,6 +687,22 @@
       "duration_ms": 270173,
       "name": "\u30af\u30aa\u30ea\u30a2",
       "url": "https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "0 CHOIR",
+        "url": "https://open.spotify.com/album/64hkibORri9uiP4j6bucRY"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 406653,
+      "name": "7\u65e5\u76ee\u306e\u6c7a\u610f",
+      "url": "https://open.spotify.com/track/2697A4jAyN041xwNXRBC3Q"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVER",
-        "url": "https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 213533,
-      "name": "ZERO BREAKOUT POINT",
-      "url": "https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30ca\u30ce\u30fb\u30bb\u30ab\u30f3\u30c9",
         "url": "https://open.spotify.com/album/6BdTHYe5EDbUI5Us4HnX2P"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 240640,
       "name": "DEJAVU",
       "url": "https://open.spotify.com/track/4MxC12Xsx3eQtbUO0rRi5c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVER",
+        "url": "https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "ZERO BREAKOUT POINT",
+      "url": "https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW"
     },
     {
       "added_at": null,

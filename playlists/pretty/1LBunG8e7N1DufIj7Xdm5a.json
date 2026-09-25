@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKIw0GNb1EgyGWOIbh0woA+J1chEyw",
+  "snapshot_id": "AAAKJytK08N4gYZlt5R+TtBPs6gd5eee",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -79335,6 +79335,70 @@
       "duration_ms": 279849,
       "name": "Black tie and crazy nights",
       "url": "https://open.spotify.com/track/2l3bJWPo2JzRifBk4MOJyU"
+    },
+    {
+      "added_at": "2026-09-24 10:38:24",
+      "album": {
+        "name": "\u30cb\u30e5\u30fc\u30b2\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/6ELX92IjpWHbwsfYt0KLo0"
+      },
+      "artists": [
+        {
+          "name": "FUMITO",
+          "url": "https://open.spotify.com/artist/0jHHRTca6HOkksVRPrjKSK"
+        }
+      ],
+      "duration_ms": 223839,
+      "name": "\u30cb\u30e5\u30fc\u30b2\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/7Hm3MMrFNVX0poMgXtlk4m"
+    },
+    {
+      "added_at": "2026-09-24 15:34:25",
+      "album": {
+        "name": "Possession",
+        "url": "https://open.spotify.com/album/6de3hSo0PwWOgc3FJOuapO"
+      },
+      "artists": [
+        {
+          "name": "Wretched Things",
+          "url": "https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Possession",
+      "url": "https://open.spotify.com/track/0oXTBGB2XH1nm7FBVj0KPf"
+    },
+    {
+      "added_at": "2026-09-24 17:08:32",
+      "album": {
+        "name": "I Want Everything",
+        "url": "https://open.spotify.com/album/5cGH3dYOAW0mQOD6hs2S3Y"
+      },
+      "artists": [
+        {
+          "name": "Everton Zi Project",
+          "url": "https://open.spotify.com/artist/4SIu5pLTz7nqoMwP8cIL7Z"
+        }
+      ],
+      "duration_ms": 273700,
+      "name": "I Want Everything",
+      "url": "https://open.spotify.com/track/4877L7NeyxgN7arOLXt2vy"
+    },
+    {
+      "added_at": "2026-09-24 22:04:57",
+      "album": {
+        "name": "Deep Sea",
+        "url": "https://open.spotify.com/album/3TgtLhEMtf2D1JHQeZIgMQ"
+      },
+      "artists": [
+        {
+          "name": "Broken Star",
+          "url": "https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Deep Sea",
+      "url": "https://open.spotify.com/track/2kLo2GROhKLzxp46XADbkY"
     }
   ],
   "unique_name": "playlist spotify free",

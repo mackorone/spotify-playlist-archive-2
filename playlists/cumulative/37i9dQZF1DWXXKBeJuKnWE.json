@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The sound of the underground. Cover: Architects",
+  "description": "The sound of the underground. Cover: Gurriers",
   "name": "The Pit",
   "tracks": [
     {
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 168323,
       "name": "Bad Faith",
       "url": "https://open.spotify.com/track/17XfdvEHuj1xQhBsMbtzKq"
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 228048,
       "name": "blueprints",
       "url": "https://open.spotify.com/track/2IcdRdXh3E7E50rehZmAP5"
@@ -2054,6 +2054,24 @@
       "duration_ms": 260741,
       "name": "Born For One Thing",
       "url": "https://open.spotify.com/track/61GkJ0y15jxDyBrdcb6PqR"
+    },
+    {
+      "album": {
+        "name": "BORN FROM NOTHING",
+        "url": "https://open.spotify.com/album/5nL0MaisBWeSLL0XiHOUas"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203303,
+      "name": "BORN FROM NOTHING",
+      "url": "https://open.spotify.com/track/0QRTdsEMKifTTxE7c6lawp"
     },
     {
       "album": {
@@ -3062,6 +3080,24 @@
       "duration_ms": 345760,
       "name": "Crown of Horns",
       "url": "https://open.spotify.com/track/75roxXAbp0Bi2clZghkjAy"
+    },
+    {
+      "album": {
+        "name": "Crucified",
+        "url": "https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263972,
+      "name": "Crucified",
+      "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
     },
     {
       "album": {
@@ -5760,7 +5796,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 146746,
       "name": "Gettin\u2019 Down",
       "url": "https://open.spotify.com/track/04BBZ3w0c3DnmX5pnFppOe"
@@ -6096,6 +6132,24 @@
       "duration_ms": 205590,
       "name": "going numb",
       "url": "https://open.spotify.com/track/4PBJo0f4fyAHektLZXxhOL"
+    },
+    {
+      "album": {
+        "name": "Orchestra Of Wolves (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ii73sW7zjXzb8VwUir7T4"
+      },
+      "artists": [
+        {
+          "name": "Gallows",
+          "url": "https://open.spotify.com/artist/0LpwbxbT8dPiqUnul4ngzu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 62599,
+      "name": "Gold Dust - 2026 Remaster",
+      "url": "https://open.spotify.com/track/1h5f3DEIzXKxw9hW3x0o59"
     },
     {
       "album": {
@@ -8253,6 +8307,32 @@
     },
     {
       "album": {
+        "name": "No One Is Coming To Save Us",
+        "url": "https://open.spotify.com/album/3zybxgtICh1I7RZKUA4Q8C"
+      },
+      "artists": [
+        {
+          "name": "Burner",
+          "url": "https://open.spotify.com/artist/7Amw4gNz7nLq7140PFhtuk"
+        },
+        {
+          "name": "Cult Leader",
+          "url": "https://open.spotify.com/artist/6WCWkB4bGX2HDsoyQb6KyL"
+        },
+        {
+          "name": "Anthony Lucero",
+          "url": "https://open.spotify.com/artist/5x4IMKekDJYFETw0UT5ggG"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221666,
+      "name": "Kurtz",
+      "url": "https://open.spotify.com/track/583KJAlU121HJrsmq7GFLp"
+    },
+    {
+      "album": {
         "name": "Landfall",
         "url": "https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE"
       },
@@ -8592,7 +8672,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 186666,
       "name": "Like You",
       "url": "https://open.spotify.com/track/3QFVFxNgz4JZse0FnhFoeG"
@@ -8668,7 +8748,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 307200,
       "name": "Living/Ending",
       "url": "https://open.spotify.com/track/77u9CeQx36eluADaPXVZyD"
@@ -9150,6 +9230,24 @@
       "duration_ms": 235000,
       "name": "Make Me A Martyr",
       "url": "https://open.spotify.com/track/6x8YTiGS4Sa5kbkYK0osG8"
+    },
+    {
+      "album": {
+        "name": "Make Your Exit",
+        "url": "https://open.spotify.com/album/1mpX8Bbw4aoEWwx7MAAeAN"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153970,
+      "name": "Make Your Exit",
+      "url": "https://open.spotify.com/track/08ITA9gnwYlLKw31HuBqLu"
     },
     {
       "album": {
@@ -9766,7 +9864,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160064,
       "name": "My People",
       "url": "https://open.spotify.com/track/2wY6YBHBYqa0R3161HheFu"
@@ -9918,6 +10016,28 @@
       "duration_ms": 352500,
       "name": "Nerve",
       "url": "https://open.spotify.com/track/7axsqaUbWaD2MMnIiJUv36"
+    },
+    {
+      "album": {
+        "name": "Nervous",
+        "url": "https://open.spotify.com/album/55CuHmxtkOEgkUDxyfIRj4"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        },
+        {
+          "name": "Solence",
+          "url": "https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/68IJg98sYQ257laNVH3iwM"
     },
     {
       "album": {
@@ -10428,6 +10548,24 @@
       "duration_ms": 212241,
       "name": "Orbit",
       "url": "https://open.spotify.com/track/5prO0h2vJBh5jUgzNFCvG4"
+    },
+    {
+      "album": {
+        "name": "Our Mainframe Earache",
+        "url": "https://open.spotify.com/album/2lPiECFkuwIv7JAh2E7xPG"
+      },
+      "artists": [
+        {
+          "name": "Frontierer",
+          "url": "https://open.spotify.com/artist/6AMqkTWbhukzRS5je3Q5qt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168093,
+      "name": "Our Mainframe Earache",
+      "url": "https://open.spotify.com/track/18gU64AselwgKb1qEd2IVc"
     },
     {
       "album": {
@@ -11008,7 +11146,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 637080,
       "name": "Punk Rock / Cody - 2026 Mix",
       "url": "https://open.spotify.com/track/1OopmmaRo5qIfghNabdeYF"
@@ -11484,7 +11622,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 211746,
       "name": "Revenant",
       "url": "https://open.spotify.com/track/7Lt57VWFV2MRbn9fzY0kp9"
@@ -12057,6 +12195,24 @@
     },
     {
       "album": {
+        "name": "Separate",
+        "url": "https://open.spotify.com/album/6pHgfu7OEvmX4iTovmiYzR"
+      },
+      "artists": [
+        {
+          "name": "OVERSIZE",
+          "url": "https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "Separate",
+      "url": "https://open.spotify.com/track/3w3on3roCCK5GaqRcMjsLf"
+    },
+    {
+      "album": {
         "name": "Sepsis",
         "url": "https://open.spotify.com/album/3M2vuwAY3UtNNvGiclTR7V"
       },
@@ -12202,6 +12358,24 @@
       "duration_ms": 206015,
       "name": "Shadowlight",
       "url": "https://open.spotify.com/track/1U292iuwphTOCGq1npE5Az"
+    },
+    {
+      "album": {
+        "name": "Shake Sum Action",
+        "url": "https://open.spotify.com/album/6wGffsRVU0dQOfr9o8qLv8"
+      },
+      "artists": [
+        {
+          "name": "SPLIT DOGS",
+          "url": "https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114548,
+      "name": "Shake Sum Action",
+      "url": "https://open.spotify.com/track/2kPiyPrnsM0nDDuyzJzqB8"
     },
     {
       "album": {
@@ -13058,7 +13232,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 227714,
       "name": "STRANGE",
       "url": "https://open.spotify.com/track/5UxSMSlSbvCXDJvgVcXaH8"
@@ -13513,6 +13687,24 @@
     },
     {
       "album": {
+        "name": "Tear",
+        "url": "https://open.spotify.com/album/5g3v4iKGPlBbNm3qnvx2tT"
+      },
+      "artists": [
+        {
+          "name": "EVER",
+          "url": "https://open.spotify.com/artist/08YxFcgCUjWXuwydQUUmq6"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233177,
+      "name": "Tear",
+      "url": "https://open.spotify.com/track/4IxiYt2soH1s96XHzuf2uB"
+    },
+    {
+      "album": {
         "name": "the classic symptoms of a broken spirit",
         "url": "https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4"
       },
@@ -13582,6 +13774,24 @@
       "duration_ms": 138666,
       "name": "TEETHSUCKER (YEA3x)",
       "url": "https://open.spotify.com/track/36gQ2Hyr8ErtuxmssOYEOX"
+    },
+    {
+      "album": {
+        "name": "THE ABATTOIR OF THOUGHT",
+        "url": "https://open.spotify.com/album/2XY7Mcge50PaOtK3RkptAh"
+      },
+      "artists": [
+        {
+          "name": "Phinius Gage",
+          "url": "https://open.spotify.com/artist/6jPrJutj4vbSOyO8biDx8f"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185681,
+      "name": "THE ABATTOIR OF THOUGHT",
+      "url": "https://open.spotify.com/track/1pu1KBiKLAwd7OVXbxzSI6"
     },
     {
       "album": {
@@ -13914,7 +14124,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 158850,
       "name": "the rain that follows me.",
       "url": "https://open.spotify.com/track/5PPOxXb4LZUoAkF0e5LRoS"
@@ -15293,6 +15503,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Coming To Save You",
+        "url": "https://open.spotify.com/album/0Fbl6tfN7XDyNutXNI3nlD"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180232,
+      "name": "Waiting For Fisher",
+      "url": "https://open.spotify.com/track/1i6RUTWpIoXKTdhcU1upVf"
+    },
+    {
+      "album": {
         "name": "Wake Up Calling",
         "url": "https://open.spotify.com/album/27yrc4BPvHGTLxlmfSAh6L"
       },
@@ -15568,7 +15796,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 147253,
       "name": "WEAPON",
       "url": "https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX"
@@ -16200,7 +16428,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 163576,
       "name": "YEEHAW",
       "url": "https://open.spotify.com/track/2TY775tgkuv2mzhRe3ysrQ"

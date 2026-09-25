@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 55314,
+  "num_followers": 55319,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
+        "name": "dear surfers",
+        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "duration_ms": 129332,
+      "name": "surf minimalism",
+      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
         "name": "When We Were Small",
         "url": "https://open.spotify.com/album/0iJ6h9uWLJZCqS6l4yYbtm"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 137000,
       "name": "Day Trip",
       "url": "https://open.spotify.com/track/6ta7l9fycue1Fp5sfZpiHQ"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
-        "name": "dear surfers",
-        "url": "https://open.spotify.com/album/0GH8iY0yexbD8LIx9uOiRU"
-      },
-      "artists": [
-        {
-          "name": "Shimon Hoshino",
-          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
-        }
-      ],
-      "duration_ms": 129332,
-      "name": "surf minimalism",
-      "url": "https://open.spotify.com/track/6ChnIV5pAvR1XRzG1manb4"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
+        "name": "hakubo",
+        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
+      },
+      "artists": [
+        {
+          "name": "THE LIQUID RAY",
+          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
+        }
+      ],
+      "duration_ms": 55226,
+      "name": "hakubo",
+      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
         "name": "It Hurts to Love You (it meant a lot)",
         "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 117600,
       "name": "It Hurts to Love You (it meant a lot)",
       "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
-        "name": "hakubo",
-        "url": "https://open.spotify.com/album/5BvWPRjGwNBnKMywBcRHl2"
-      },
-      "artists": [
-        {
-          "name": "THE LIQUID RAY",
-          "url": "https://open.spotify.com/artist/55jCtLMcMsuaeJ0JFKL3ja"
-        }
-      ],
-      "duration_ms": 55226,
-      "name": "hakubo",
-      "url": "https://open.spotify.com/track/4L9Luwn85s67Nrq4L3dT23"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
+        "name": "Husigina Ki",
+        "url": "https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl"
+      },
+      "artists": [
+        {
+          "name": "Yassy",
+          "url": "https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Husigina Ki",
+      "url": "https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
         "name": "Catharsis",
         "url": "https://open.spotify.com/album/6RqEBspNZboimm13lOf5Hj"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 231500,
       "name": "Catch Me",
       "url": "https://open.spotify.com/track/5lC6ryISkGNFPR2PMMdiSV"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
-        "name": "Husigina Ki",
-        "url": "https://open.spotify.com/album/2mdGuotPBacHnY8QqPTCbl"
-      },
-      "artists": [
-        {
-          "name": "Yassy",
-          "url": "https://open.spotify.com/artist/0KTpJYwmBiu2Zbm6W4wiZH"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Husigina Ki",
-      "url": "https://open.spotify.com/track/15KQSocfr0YVYoXwKJzOrH"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "falling asleep.",
-        "url": "https://open.spotify.com/album/4tKFwi75AtxxN1EaGC87gK"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
-          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
-        },
-        {
-          "name": "\u4e00\u670dtrack",
-          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "falling asleep.",
-      "url": "https://open.spotify.com/track/0X88c8pOrPZhuwBYe1lgWl"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
         "name": "Snow Magic",
         "url": "https://open.spotify.com/album/69N60MyR8FKbM0nOrLyPhi"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 182684,
       "name": "Snow Magic",
       "url": "https://open.spotify.com/track/69PrJVBUuRO3Z9b35vGghE"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
+        "name": "Generic",
+        "url": "https://open.spotify.com/album/0YTqkKm4WdDeCARIrHQ3BS"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        },
+        {
+          "name": "\u4e00\u670dtrack",
+          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
+        }
+      ],
+      "duration_ms": 191875,
+      "name": "Generic",
+      "url": "https://open.spotify.com/track/5ljunHfdK4WvqK4eQo5MI9"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -1583,26 +1583,6 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
-        "name": "Generic",
-        "url": "https://open.spotify.com/album/0YTqkKm4WdDeCARIrHQ3BS"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
-          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
-        },
-        {
-          "name": "\u4e00\u670dtrack",
-          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Generic",
-      "url": "https://open.spotify.com/track/5ljunHfdK4WvqK4eQo5MI9"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
         "name": "Introspect",
         "url": "https://open.spotify.com/album/65OBZP52AzrI4W5oUVoXPV"
       },
@@ -1619,6 +1599,26 @@
       "duration_ms": 67062,
       "name": "Muse",
       "url": "https://open.spotify.com/track/2dljglWGEZVoLUSG8JArpE"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
+        "name": "falling asleep.",
+        "url": "https://open.spotify.com/album/4tKFwi75AtxxN1EaGC87gK"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30c4\u30e0\u30ef\u30f3\u30c0\u30d5\u30eb",
+          "url": "https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW"
+        },
+        {
+          "name": "\u4e00\u670dtrack",
+          "url": "https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "falling asleep.",
+      "url": "https://open.spotify.com/track/0X88c8pOrPZhuwBYe1lgWl"
     },
     {
       "added_at": "2026-08-19 00:35:08",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2026-08-19 00:35:08",
       "album": {
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/5SE9QAP8pab2Ke1Tce1EeJ"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/2iNjjoEw6W0Y05ykgQWBCK"
+    },
+    {
+      "added_at": "2026-08-19 00:35:08",
+      "album": {
         "name": "Sign",
         "url": "https://open.spotify.com/album/0kAC2pYik4U4CQpG8q04RM"
       },
@@ -1703,22 +1719,6 @@
       "duration_ms": 120094,
       "name": "Sign",
       "url": "https://open.spotify.com/track/6SEzgR48UAdz38EB8Rt5hu"
-    },
-    {
-      "added_at": "2026-08-19 00:35:08",
-      "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/5SE9QAP8pab2Ke1Tce1EeJ"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/2iNjjoEw6W0Y05ykgQWBCK"
     },
     {
       "added_at": "2026-08-19 00:35:08",

@@ -178,7 +178,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 147505,
       "name": "Angel",
       "url": "https://open.spotify.com/track/3NsUoVExP6TwMHcMHvXznV"
@@ -254,6 +254,24 @@
       "duration_ms": 150706,
       "name": "Baby I'm-a Want You",
       "url": "https://open.spotify.com/track/7IX2e7pEShera9T1QIMvi7"
+    },
+    {
+      "album": {
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
     },
     {
       "album": {
@@ -376,7 +394,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 294773,
       "name": "Can't Fight This Feeling",
       "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
@@ -564,7 +582,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 351466,
       "name": "End Of The Road",
       "url": "https://open.spotify.com/track/3l3xTXsUXeWlkPqzMs7mPD"
@@ -654,7 +672,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 207520,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
@@ -1065,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Pour My Heart Out",
+        "url": "https://open.spotify.com/album/1iEQOQrdww6JCTpb9D6zSn"
+      },
+      "artists": [
+        {
+          "name": "Ivoris",
+          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
+        },
+        {
+          "name": "Clara Benin",
+          "url": "https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168277,
+      "name": "Lipgloss",
+      "url": "https://open.spotify.com/track/6oAQWAZf1PNxRSrbKoY0SI"
+    },
+    {
+      "album": {
         "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
       },
@@ -1357,6 +1397,28 @@
     },
     {
       "album": {
+        "name": "Pretty Eyes",
+        "url": "https://open.spotify.com/album/1XqkZ8GL8MHY3RG5B6IXBZ"
+      },
+      "artists": [
+        {
+          "name": "sunkis",
+          "url": "https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr"
+        },
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189469,
+      "name": "Pretty Eyes (feat. FLO)",
+      "url": "https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5"
+    },
+    {
+      "album": {
         "name": "Rein Me In (with Olivia Dean)",
         "url": "https://open.spotify.com/album/4utNKv9RDTzfIGok0tlOgl"
       },
@@ -1448,6 +1510,32 @@
       "duration_ms": 162773,
       "name": "Slicked Back Hair",
       "url": "https://open.spotify.com/track/0ZhStYZNAZZk52Udk4sREx"
+    },
+    {
+      "album": {
+        "name": "Small Town",
+        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169981,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {
       "album": {
@@ -1667,6 +1755,28 @@
     },
     {
       "album": {
+        "name": "This Is the Last Song About You",
+        "url": "https://open.spotify.com/album/4QVwataDdz8ZuUNa2dKiAJ"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        },
+        {
+          "name": "Loote",
+          "url": "https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126510,
+      "name": "This Is the Last Song About You",
+      "url": "https://open.spotify.com/track/56mCbeIok8fW5fG3oe0wmn"
+    },
+    {
+      "album": {
         "name": "The Thrill Of It All (Special Edition)",
         "url": "https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ"
       },
@@ -1714,7 +1824,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 270333,
       "name": "Un-Break My Heart",
       "url": "https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB"

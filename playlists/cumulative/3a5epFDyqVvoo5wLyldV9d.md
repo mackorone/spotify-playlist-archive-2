@@ -4,7 +4,7 @@
 
 > 
 
-925 songs - 3 day 0 hr 34 min
+926 songs - 3 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Dsusper](https://open.spotify.com/track/0ZHPeGQWKPkc6d0YwCvXTS) | [Kola](https://open.spotify.com/artist/7HfTVTCd4CJRDCWKGa2CpH) | [Guiné Bissau \(Sodad Serie 6 \- Vol\. 7\)](https://open.spotify.com/album/5vbeXj6LgPFAyOK3NrNf2c) | 5:03 | 2023-02-23 |  |
 | [Dukha](https://open.spotify.com/track/4XYGjUYSAWuiBOGtK9vxxL) | [Judas](https://open.spotify.com/artist/7lsA0gpo4Uam6FnhzvqwsC) | [Ugat the best of pinoy folk rock](https://open.spotify.com/album/1VjN1SV5s4GZ4AnqUjXKct) | 3:21 | 2020-07-12 |  |
 | [Duodo Wuo Ye Ya \- Short Version](https://open.spotify.com/track/4BNS9ahTuP5wpkL46H60bY) | [Dan Boadi](https://open.spotify.com/artist/6zxbp2s8aQ3HnJbBgkCigm) | [Money Is The Root Of Evil b/w Duodu Wuo Ye Ya](https://open.spotify.com/album/5VCBLctlfE3AiPDuma1sB4) | 5:04 | 2025-09-18 |  |
+| [Dvadeseti vek](https://open.spotify.com/track/7yISzeCVg5VeTKINsVWk62) | [Bajaga & Instruktori](https://open.spotify.com/artist/4k8QLt3V0DiNmIyxjGze50) | [Ni na nebu, ni na zemlji](https://open.spotify.com/album/6ETJQlo3KXocLXeVLMQi8Q) | 4:27 | 2026-09-24 |  |
 | [Détends\-toi](https://open.spotify.com/track/701cUe4zKDdMFgb8UV3Py8) | [Stella](https://open.spotify.com/artist/5w3hiAOQKr9glXE15H4A6e), [Ed Longo](https://open.spotify.com/artist/3nqWfkB8tEeGxqYgwzg6U4) | [Détends\-Toi](https://open.spotify.com/album/6OlWZuO3iT7RbhcmqPCbCK) | 6:20 | 2022-12-12 |  |
 | [Dünyada Tek Sen Mi Varsın](https://open.spotify.com/track/44l427juug0N5Jc2MOW69Q) | [Ceylan Ece](https://open.spotify.com/artist/1S9XTKpBzRAHzla1vo6S60) | [Meçhul Sevgili](https://open.spotify.com/album/1lss3LCJZ5cQboMIXXWqLT) | 3:15 | 2019-09-03 |  |
 | [E Go Betta](https://open.spotify.com/track/5Zlfqewbd8ETl6VKw2BwT8) | [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [You No Fit Touch Am](https://open.spotify.com/album/34YHmifYW5JiB6mfmj7QQZ) | 6:09 | 2021-05-13 |  |

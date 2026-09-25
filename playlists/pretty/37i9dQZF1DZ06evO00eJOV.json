@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 37453,
+  "num_followers": 37455,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAACbWt/r61il+3u1N3t7Q1Wg",
+  "snapshot_id": "arMWgAAAAACcfd7qVDpBIdjzcNq2O+Gw",
   "tracks": [
     {
       "added_at": null,
@@ -411,18 +411,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+        "name": "Soon And Very Soon",
+        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
       },
       "artists": [
+        {
+          "name": "Children Of God",
+          "url": "https://open.spotify.com/artist/7M649YaEUgAnKaIW48vbcZ"
+        },
+        {
+          "name": "Chicco",
+          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
+        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 297840,
-      "name": "Kenang Bohle",
-      "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
+      "duration_ms": 261333,
+      "name": "Soon And Very Soon",
+      "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
     },
     {
       "added_at": null,
@@ -459,26 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soon And Very Soon",
-        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
       "artists": [
-        {
-          "name": "Children Of God",
-          "url": "https://open.spotify.com/artist/7M649YaEUgAnKaIW48vbcZ"
-        },
-        {
-          "name": "Chicco",
-          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
-        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 261333,
-      "name": "Soon And Very Soon",
-      "url": "https://open.spotify.com/track/6moVmCVeuTE9kVkLqb4LOs"
+      "duration_ms": 297840,
+      "name": "Kenang Bohle",
+      "url": "https://open.spotify.com/track/1ZarN2H9sexCr38Rlm06NU"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 208706,
-      "name": "Ama-Gents",
-      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mali",
         "url": "https://open.spotify.com/album/5Sxb6kh9aVFcH1r3a6kpUP"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 321253,
       "name": "Ponci Ponci (Pontjie Pontjie)",
       "url": "https://open.spotify.com/track/49SjeHQevHY5zP1cqqxi9t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 208706,
+      "name": "Ama-Gents",
+      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
     },
     {
       "added_at": null,

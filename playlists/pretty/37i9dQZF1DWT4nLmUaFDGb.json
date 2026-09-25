@@ -1,6 +1,6 @@
 {
   "description": "The easy listening sound of Jazz. Cover: Norah Jones",
-  "num_followers": 739728,
+  "num_followers": 739910,
   "original_name": "Easy Jazz",
   "owner": {
     "name": "Spotify",
@@ -75,18 +75,18 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Live In Paris",
-        "url": "https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV"
+        "name": "French Touch",
+        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
       },
       "artists": [
         {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+          "name": "Carla Bruni",
+          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
         }
       ],
-      "duration_ms": 300520,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq"
+      "duration_ms": 194346,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -107,18 +107,18 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "French Touch",
-        "url": "https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ"
+        "name": "Live In Paris",
+        "url": "https://open.spotify.com/album/5VarMGaR1VFP4vlmzZsKgV"
       },
       "artists": [
         {
-          "name": "Carla Bruni",
-          "url": "https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx"
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
         }
       ],
-      "duration_ms": 194346,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/3sICyTPASesVzpfGc1nM2t"
+      "duration_ms": 300520,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1GGK81j5LaThJjnJHhfGDq"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Twentysomething",
-        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "These Are The Days",
-      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "LIVING ROOM 2",
         "url": "https://open.spotify.com/album/0mgDobmUfgJHVNEV7GHfSy"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "Twentysomething",
+        "url": "https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "These Are The Days",
+      "url": "https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "Nat \"King\" Cole & Me (Deluxe)",
         "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "Half The Perfect World",
-        "url": "https://open.spotify.com/album/5OomYDbQatByUYt4aXXVwH"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 234106,
-      "name": "The Summer Wind",
-      "url": "https://open.spotify.com/track/4mp28AMgYCgrkfJMSYtl3C"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "So in Love",
         "url": "https://open.spotify.com/album/4jb9ocOzo7N66hCss8dZVA"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 275043,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/7IeAEMhtC2iFE910W1Ghvw"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "Half The Perfect World",
+        "url": "https://open.spotify.com/album/5OomYDbQatByUYt4aXXVwH"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 234106,
+      "name": "The Summer Wind",
+      "url": "https://open.spotify.com/track/4mp28AMgYCgrkfJMSYtl3C"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
+        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
+        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
+      },
+      "artists": [
+        {
+          "name": "Jacintha",
+          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
+        }
+      ],
+      "duration_ms": 287426,
+      "name": "Here's to Life",
+      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
         "name": "Make this moment",
         "url": "https://open.spotify.com/album/4NaucYV5XP8jadj2GftgLY"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 219773,
       "name": "The Sun Is Shining for Our Love",
       "url": "https://open.spotify.com/track/1TT7MMEeEz2W4jxaQxU7lZ"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
-        "name": "Autumn Leaves (The Songs of Johnny Mercer)",
-        "url": "https://open.spotify.com/album/3JPrcXrJrroYa3wGT3PTkU"
-      },
-      "artists": [
-        {
-          "name": "Jacintha",
-          "url": "https://open.spotify.com/artist/0GCS9ORL3H0CWV1IV6eth2"
-        }
-      ],
-      "duration_ms": 287426,
-      "name": "Here's to Life",
-      "url": "https://open.spotify.com/track/46SP2JcQDbwh1zg8jqLGWG"
     },
     {
       "added_at": "2026-09-21 13:07:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-09-21 13:07:00",
       "album": {
-        "name": "From Paris With Love",
-        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
-      },
-      "artists": [
-        {
-          "name": "Melody Gardot",
-          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
-        }
-      ],
-      "duration_ms": 288693,
-      "name": "From Paris With Love - Single Version",
-      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
-    },
-    {
-      "added_at": "2026-09-21 13:07:00",
-      "album": {
         "name": "Soul Eyes",
         "url": "https://open.spotify.com/album/15Ru9P22VfNHq4XUkJpWt9"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 224460,
       "name": "Place To Hide",
       "url": "https://open.spotify.com/track/58yns8JtLREtKCzqQIEGBz"
+    },
+    {
+      "added_at": "2026-09-21 13:07:00",
+      "album": {
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/5Bk1iF2vmR6nGnX98KIuLH"
+      },
+      "artists": [
+        {
+          "name": "Melody Gardot",
+          "url": "https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J"
+        }
+      ],
+      "duration_ms": 288693,
+      "name": "From Paris With Love - Single Version",
+      "url": "https://open.spotify.com/track/5mw9Ox2dKksNDip74o6hU2"
     },
     {
       "added_at": "2026-09-21 13:07:00",

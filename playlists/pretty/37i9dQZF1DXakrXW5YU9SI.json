@@ -1,6 +1,6 @@
 {
   "description": "Gotowi na pumpkin spice latte? \ud83c\udf42\ud83c\udf83\u2615",
-  "num_followers": 342639,
+  "num_followers": 342745,
   "original_name": "Jesienny chill",
   "owner": {
     "name": "Spotify",
@@ -459,6 +459,22 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 194103,
+      "name": "Write Me A Letter",
+      "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
         "name": "Te Olvido (La La) (with Selena Gomez & Becky G)",
         "url": "https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 161342,
       "name": "tylko kochaj mnie",
       "url": "https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 194103,
-      "name": "Write Me A Letter",
-      "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "Stygnie lato",
-        "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
-      },
-      "artists": [
-        {
-          "name": "Kuba i Kuba",
-          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Stygnie lato",
-      "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
         "name": "P\u00f3\u017aniej Ci opowiem",
         "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 185346,
       "name": "P\u00f3\u017aniej Ci opowiem",
       "url": "https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
+        "name": "Stygnie lato",
+        "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Stygnie lato",
+      "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "Nie ma miejsca jak dom",
-        "url": "https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw"
-      },
-      "artists": [
-        {
-          "name": "Mrozu",
-          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
-        }
-      ],
-      "duration_ms": 198060,
-      "name": "Nie ma miejsca jak dom",
-      "url": "https://open.spotify.com/track/2W61aot3YavDVRABULNHAy"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
         "name": "MANGO",
         "url": "https://open.spotify.com/album/1OtN3XYMdhEds2mdEtu5ui"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 196221,
       "name": "MANGO",
       "url": "https://open.spotify.com/track/5jVMVRFbk57ovUm15hl6zw"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
+        "name": "Nie ma miejsca jak dom",
+        "url": "https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        }
+      ],
+      "duration_ms": 198060,
+      "name": "Nie ma miejsca jak dom",
+      "url": "https://open.spotify.com/track/2W61aot3YavDVRABULNHAy"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -739,18 +739,18 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "halo Houston",
-        "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
       },
       "artists": [
         {
-          "name": "Jasiek Piwowarczyk",
-          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
         }
       ],
-      "duration_ms": 143048,
-      "name": "halo Houston",
-      "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
+      "duration_ms": 296285,
+      "name": "\u2060Wildfire",
+      "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
+        "name": "halo Houston",
+        "url": "https://open.spotify.com/album/0ASB9yWOXdBFSnjKlZmI87"
       },
       "artists": [
         {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+          "name": "Jasiek Piwowarczyk",
+          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
         }
       ],
-      "duration_ms": 296285,
-      "name": "\u2060Wildfire",
-      "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
+      "duration_ms": 143048,
+      "name": "halo Houston",
+      "url": "https://open.spotify.com/track/4kIqI8h1bxOgrI9siEkD62"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
-        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
-      },
-      "artists": [
-        {
-          "name": "Julia Rocka",
-          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "OPIUM",
-      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
         "name": "Ja-Amosia",
         "url": "https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW"
       },
@@ -883,6 +867,22 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
+        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
+        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
+      },
+      "artists": [
+        {
+          "name": "Julia Rocka",
+          "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "OPIUM",
+      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb"
       },
@@ -895,6 +895,22 @@
       "duration_ms": 141984,
       "name": "Stuck",
       "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
+      },
+      "artists": [
+        {
+          "name": "Kinga Wo\u0142oszyn",
+          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
+        }
+      ],
+      "duration_ms": 194630,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -935,22 +951,6 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
-      },
-      "artists": [
-        {
-          "name": "Kinga Wo\u0142oszyn",
-          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
-        }
-      ],
-      "duration_ms": 194630,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
         "name": "S\u0142o\u0144ca",
         "url": "https://open.spotify.com/album/3s8WqPOFJ7RVFH0apHDV35"
       },
@@ -963,54 +963,6 @@
       "duration_ms": 145589,
       "name": "S\u0142o\u0144ca",
       "url": "https://open.spotify.com/track/2ftSQAOTflSTjSYs3GUpw0"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
-        "name": "Kafejka na Ochocie",
-        "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
-      },
-      "artists": [
-        {
-          "name": "Fida",
-          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Kafejka na Ochocie",
-      "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
-        "name": "szpila",
-        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
-      },
-      "artists": [
-        {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
-        }
-      ],
-      "duration_ms": 181694,
-      "name": "czekaj!",
-      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
-        "name": "Pockets",
-        "url": "https://open.spotify.com/album/0KSC9lDzmynrSiUDWbN8Pd"
-      },
-      "artists": [
-        {
-          "name": "Amor y Vida",
-          "url": "https://open.spotify.com/artist/4WbjNKMrENIAYaDZmHIMoc"
-        }
-      ],
-      "duration_ms": 268320,
-      "name": "Pockets",
-      "url": "https://open.spotify.com/track/751tUKr45Dpv1IJESgZp6K"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -1031,6 +983,54 @@
       "duration_ms": 161904,
       "name": "sad, alone?",
       "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
+        "name": "Kafejka na Ochocie",
+        "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
+      },
+      "artists": [
+        {
+          "name": "Fida",
+          "url": "https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Kafejka na Ochocie",
+      "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
+        "name": "Pockets",
+        "url": "https://open.spotify.com/album/0KSC9lDzmynrSiUDWbN8Pd"
+      },
+      "artists": [
+        {
+          "name": "Amor y Vida",
+          "url": "https://open.spotify.com/artist/4WbjNKMrENIAYaDZmHIMoc"
+        }
+      ],
+      "duration_ms": 268320,
+      "name": "Pockets",
+      "url": "https://open.spotify.com/track/751tUKr45Dpv1IJESgZp6K"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
+        "name": "szpila",
+        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        }
+      ],
+      "duration_ms": 181694,
+      "name": "czekaj!",
+      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
     },
     {
       "added_at": "2026-09-18 07:26:29",

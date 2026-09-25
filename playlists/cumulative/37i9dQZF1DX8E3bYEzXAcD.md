@@ -4,7 +4,7 @@
 
 > "ik ben terug van weggeweest ze bleven me vragen waar was je"\. cover: Boufi
 
-80 songs - 3 hr 41 min
+81 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,8 +28,9 @@
 | [Cullinan](https://open.spotify.com/track/62PDXg9UDd0q4N6hCl0fI7) | [Zack Ink](https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6) | [Cullinan](https://open.spotify.com/album/04MPrXHuTkaGeSVmtWp9j7) | 3:03 | 2025-06-27 |  |
 | [Dakje Open](https://open.spotify.com/track/1qsMR2r9IiJ7Ow6ewNbFaI) | [Cité](https://open.spotify.com/artist/1IzmTWOBk33eqWZmWpxUqp) | [Dakje Open](https://open.spotify.com/album/2WvRupQncVmgisPHHDdjYF) | 2:14 | 2025-06-27 |  |
 | [Dakje Open](https://open.spotify.com/track/1L3afn6UtXaEsFqYAKhhuW) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Lente](https://open.spotify.com/album/3Dq3aa7HAffv6z9N3OAc2x) | 3:44 | 2026-07-07 | 2026-09-08 |
+| [De Hele Week](https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM) | [Rits](https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O), [Avenue](https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw) | [De Hele Week](https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG) | 2:22 | 2026-09-24 |  |
 | [Diep ‘R In](https://open.spotify.com/track/1AWWBS0jo8xD2nX5kBDMFa) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde](https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG) | 2:13 | 2026-07-07 |  |
-| [Doe Rustig](https://open.spotify.com/track/7moKARHYaqaAddizkT0d9n) | [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd) | [Doe Rustig](https://open.spotify.com/album/0vrU4iKKqxmJigZLzGwgD0) | 2:07 | 2025-06-27 |  |
+| [Doe Rustig](https://open.spotify.com/track/7moKARHYaqaAddizkT0d9n) | [Ella](https://open.spotify.com/artist/2LQwOII1L3oQrjWHaNgeWd) | [Doe Rustig](https://open.spotify.com/album/0vrU4iKKqxmJigZLzGwgD0) | 2:07 | 2025-06-27 | 2026-09-25 |
 | [DYNAMO](https://open.spotify.com/track/1bcQ8eJFJoZv3Oba2wghyg) | [choppa](https://open.spotify.com/artist/5LfkKQ8dIbVHWf5qfolH20), [domchasing](https://open.spotify.com/artist/5iHkjPYXxGnRAhjJ8ZvQi6) | [DYNAMO](https://open.spotify.com/album/3RlA8fbsvH2ZXIjkWe48T2) | 2:34 | 2025-06-27 | 2026-09-12 |
 | [Excavator](https://open.spotify.com/track/2A5cwtDZpk7RvsPolrF4UL) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [OCTANE](https://open.spotify.com/album/131x9G87mD0hP0hGZc9qYN) | 3:31 | 2026-07-07 | 2026-09-08 |
 | [Ff Ademen Jij](https://open.spotify.com/track/5yPIA6mDRsj6OcxTSQiXbG) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Ff Ademen Jij](https://open.spotify.com/album/2Otz8y5xUmSqZEFy48xliH) | 2:42 | 2025-06-27 |  |

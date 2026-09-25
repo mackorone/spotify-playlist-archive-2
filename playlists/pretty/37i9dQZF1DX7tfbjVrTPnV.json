@@ -1,6 +1,6 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Son Volt",
-  "num_followers": 240066,
+  "num_followers": 240092,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Bring The Family",
-        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Have A Little Faith In Me",
-      "url": "https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Pontiac",
         "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 187106,
       "name": "If I Had A Boat",
       "url": "https://open.spotify.com/track/6oZaeLPOAb3Rn408f3IQiB"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Bring The Family",
+        "url": "https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "California Sober / In Your Ocean (Acoustic)",
-        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 200181,
-      "name": "California Sober",
-      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Out Among The Stars",
         "url": "https://open.spotify.com/album/33jUyJOx4j6BWJ7VkzWoth"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 181720,
       "name": "Out Among the Stars",
       "url": "https://open.spotify.com/track/7FiJpVqkeiMHH3AzUgyJqx"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "California Sober / In Your Ocean (Acoustic)",
+        "url": "https://open.spotify.com/album/2zfVMUrFj90HA1E44g5jJ7"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 200181,
+      "name": "California Sober",
+      "url": "https://open.spotify.com/track/79qhOOGp2XVgH5pMTMbXNc"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Your Life Is a Record",
-        "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
-      },
-      "artists": [
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 189173,
-      "name": "Who You Thought I Was",
-      "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Alcohol and Adderall",
         "url": "https://open.spotify.com/album/2ZYFTm2ZvEW1vf66QDc08e"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 212997,
       "name": "Alcohol and Adderall",
       "url": "https://open.spotify.com/track/1ineO3ALPgtWDX9Gt5z5Sc"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Your Life Is a Record",
+        "url": "https://open.spotify.com/album/027y46STDxTFM35diEeoxy"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "duration_ms": 189173,
+      "name": "Who You Thought I Was",
+      "url": "https://open.spotify.com/track/0CEyCdEWwN1w92O76mQHmN"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -839,38 +839,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "The Me That Remains",
-        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
-      },
-      "artists": [
-        {
-          "name": "Amy Grant",
-          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
-        }
-      ],
-      "duration_ms": 275346,
-      "name": "Please Don't Make Me Beg",
-      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "The New World Wave",
-        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
-      },
-      "artists": [
-        {
-          "name": "Lambchop",
-          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
-        }
-      ],
-      "duration_ms": 307706,
-      "name": "The New World Wave",
-      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Shouted, Written Down & Quoted",
         "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
       },
@@ -887,6 +855,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "The Me That Remains",
+        "url": "https://open.spotify.com/album/40Q1PUv4aWPsxGJTvlKHx4"
+      },
+      "artists": [
+        {
+          "name": "Amy Grant",
+          "url": "https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es"
+        }
+      ],
+      "duration_ms": 275346,
+      "name": "Please Don't Make Me Beg",
+      "url": "https://open.spotify.com/track/5wThXI0ZSi2wj5M1lCGNmL"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "The River & The Thread",
         "url": "https://open.spotify.com/album/548ZyL80s0h5ZX20WVpuys"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 198200,
       "name": "A Feather's Not A Bird",
       "url": "https://open.spotify.com/track/2Sh2hbPAdqTftRmn6MItCx"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "The New World Wave",
+        "url": "https://open.spotify.com/album/55istQ3ePjA1Dt6WUTKbrb"
+      },
+      "artists": [
+        {
+          "name": "Lambchop",
+          "url": "https://open.spotify.com/artist/2Lhs0asnFQiLuntn3s8p78"
+        }
+      ],
+      "duration_ms": 307706,
+      "name": "The New World Wave",
+      "url": "https://open.spotify.com/track/6QDB7CfBoO8MRveDFFTcuY"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
-      },
-      "artists": [
-        {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
-        }
-      ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "The River & The Thread (Deluxe)",
         "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 160120,
       "name": "Tell Heaven",
       "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
+      },
+      "artists": [
+        {
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+        }
+      ],
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "The Essential Guy Clark",
+        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
+      },
+      "artists": [
+        {
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
+        }
+      ],
+      "duration_ms": 272866,
+      "name": "Desperados Waiting For A Train",
+      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Detour",
         "url": "https://open.spotify.com/album/3mXZIWJYygHtn9XaZrvpbJ"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 175400,
       "name": "Detour (feat. Emmylou Harris)",
       "url": "https://open.spotify.com/track/0vxmBkeL8EuDpJvIb2dhRJ"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "The Essential Guy Clark",
-        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Desperados Waiting For A Train",
-      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "1988",
-        "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
+        "name": "Songs",
+        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
       },
       "artists": [
         {
-          "name": "Lori McKenna",
-          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
+          "name": "John Fullbright",
+          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
         }
       ],
-      "duration_ms": 176232,
-      "name": "Letting People Down",
-      "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
+      "duration_ms": 222626,
+      "name": "When You're Here",
+      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Songs",
-        "url": "https://open.spotify.com/album/6XHqRtggc3u82NKgyIFG4o"
+        "name": "1988",
+        "url": "https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm"
       },
       "artists": [
         {
-          "name": "John Fullbright",
-          "url": "https://open.spotify.com/artist/2CpofTykBhdsrOuy9WA3YA"
+          "name": "Lori McKenna",
+          "url": "https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl"
         }
       ],
-      "duration_ms": 222626,
-      "name": "When You're Here",
-      "url": "https://open.spotify.com/track/01wGBCQrxtUnVGj6Hw8YP4"
+      "duration_ms": 176232,
+      "name": "Letting People Down",
+      "url": "https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
+        "name": "Rifles and Rosary Beads",
+        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
+      },
+      "artists": [
+        {
+          "name": "Mary Gauthier",
+          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Brothers",
+      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
         "name": "Broken Radio '22",
         "url": "https://open.spotify.com/album/1oW9ApWVjn2ezXeLBUK4Ak"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 221852,
       "name": "Broken Radio '22",
       "url": "https://open.spotify.com/track/5xk4DuC1A2dvIfnxY1ymrm"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
-        "name": "Rifles and Rosary Beads",
-        "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
-      },
-      "artists": [
-        {
-          "name": "Mary Gauthier",
-          "url": "https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Brothers",
-      "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Airline Highway (Deluxe)",
-        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 236920,
-      "name": "When You\u2019re With Him - Bonus Track",
-      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "I Could Have Told You",
         "url": "https://open.spotify.com/album/2iHYtDm5xAdk074E4x28Vh"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 216520,
       "name": "I Could Have Told You",
       "url": "https://open.spotify.com/track/0HDABp2OCDAHppnpm1YhuX"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Airline Highway (Deluxe)",
+        "url": "https://open.spotify.com/album/4PwmqWnZbr5wVbhuxJ6YcE"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 236920,
+      "name": "When You\u2019re With Him - Bonus Track",
+      "url": "https://open.spotify.com/track/5P6wdjFHzphvxfP3VB8w1N"
     },
     {
       "added_at": "2026-08-28 04:02:17",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2026-08-28 04:02:17",
       "album": {
-        "name": "Band of Brothers",
-        "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
-      },
-      "artists": [
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "Bring It On",
-      "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
-    },
-    {
-      "added_at": "2026-08-28 04:02:17",
-      "album": {
         "name": "Place in My Heart",
         "url": "https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 313857,
       "name": "Place in My Heart",
       "url": "https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv"
+    },
+    {
+      "added_at": "2026-08-28 04:02:17",
+      "album": {
+        "name": "Band of Brothers",
+        "url": "https://open.spotify.com/album/6hEd9zJvfS0XqneKBivu2C"
+      },
+      "artists": [
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "Bring It On",
+      "url": "https://open.spotify.com/track/3uxOO2EPQCgEkpkdC0Tj7g"
     },
     {
       "added_at": "2026-08-28 04:02:17",

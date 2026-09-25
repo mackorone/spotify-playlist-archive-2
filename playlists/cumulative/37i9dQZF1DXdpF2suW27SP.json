@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "LEO2745 entra na zona. ",
+  "description": "Waze entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 194285,
       "name": "Bar Da Praia",
       "url": "https://open.spotify.com/track/7malrqRM5g4fsjwJym4ore"
@@ -13373,6 +13373,24 @@
     },
     {
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/3KNJWO4FFuD5QwEdnHY99Q"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165230,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/3F8TheZ1kyNHxt7TiWwSFl"
+    },
+    {
+      "album": {
         "name": "ND1G",
         "url": "https://open.spotify.com/album/4v21n1DOpmayHPbsULCx5l"
       },
@@ -18580,7 +18598,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 109714,
       "name": "SHOW ME BAE",
       "url": "https://open.spotify.com/track/1bbOJtonIrjkpCtNBx1RBS"
@@ -19673,6 +19691,24 @@
     },
     {
       "album": {
+        "name": "TAKE AWAY",
+        "url": "https://open.spotify.com/album/6HgYC2C8QPt6KfKaCvrEfF"
+      },
+      "artists": [
+        {
+          "name": "Giovanni",
+          "url": "https://open.spotify.com/artist/7sMiAzj6PJ8f5yBFoJZgb4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "TAKE AWAY",
+      "url": "https://open.spotify.com/track/0x5kACxzM0NEA57mRWMXEy"
+    },
+    {
+      "album": {
         "name": "Afro Fado",
         "url": "https://open.spotify.com/album/0GcsYtidlr4azVnuTjD3KI"
       },
@@ -20636,7 +20672,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 217123,
       "name": "Tudo o Que Eu Pe\u00e7o",
       "url": "https://open.spotify.com/track/7khhRsH9FfE8v9YyVEos5j"
@@ -20684,6 +20720,24 @@
       "duration_ms": 172444,
       "name": "Turma do golpe",
       "url": "https://open.spotify.com/track/5FWFHea6utB5l3E8afL6u7"
+    },
+    {
+      "album": {
+        "name": "Tutto Passa I",
+        "url": "https://open.spotify.com/album/11z5XTkFrlS4TIqFdFkc6O"
+      },
+      "artists": [
+        {
+          "name": "Dezinho",
+          "url": "https://open.spotify.com/artist/6HV1KRb1BBx4VgcXyBmXxA"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "Tutto Passa I",
+      "url": "https://open.spotify.com/track/7iE42rawtWPxmw23Fi1sUO"
     },
     {
       "album": {
@@ -21214,7 +21268,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 168000,
       "name": "VALENTINO",
       "url": "https://open.spotify.com/track/59l4wuuELfGhkfh7PWDkvy"
@@ -22472,6 +22526,28 @@
       "duration_ms": 264349,
       "name": "\u00daltimo Som",
       "url": "https://open.spotify.com/track/29N97G4aN0GBPh5qIHNZTa"
+    },
+    {
+      "album": {
+        "name": "FALOU E DISSE",
+        "url": "https://open.spotify.com/album/2V4z1wyJMdErGXSCS59Dib"
+      },
+      "artists": [
+        {
+          "name": "Yung Juse",
+          "url": "https://open.spotify.com/artist/7HelyGdEBoc25C7inwIXVJ"
+        },
+        {
+          "name": "Taye",
+          "url": "https://open.spotify.com/artist/4pyoE2qv3W6imuF8BSe7QA"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190843,
+      "name": "\u2060OLHOS VERMELHOS",
+      "url": "https://open.spotify.com/track/1eB74qephHbpTmeII7HIFG"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdpF2suW27SP"

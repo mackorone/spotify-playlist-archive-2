@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 
 > This is Michael Jackson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,577,912 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,578,440 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SVXaM.md) - [plain]
 | 49 | [Unbreakable](https://open.spotify.com/track/5L9anTQJGLyRObYDYvLWdh) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 6:26 |
 | 50 | [Hollywood Tonight](https://open.spotify.com/track/6J69x61f9wuyBBxjmYGFqb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael](https://open.spotify.com/album/5S7ySBYbWKsZdVYQrNtrWf) | 4:30 |
 
-Snapshot ID: `arHFAAAAAACExwI0Dc6eu/3FC6whB4wx`
+Snapshot ID: `arMWgAAAAADNePvFslTSTvxT9VoMrE7N`

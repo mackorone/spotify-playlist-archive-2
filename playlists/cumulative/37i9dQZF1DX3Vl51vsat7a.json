@@ -2947,6 +2947,24 @@
     },
     {
       "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189519,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH"
+    },
+    {
+      "album": {
         "name": "Feet Up",
         "url": "https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R"
       },
@@ -8058,7 +8076,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 220608,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely"
@@ -8659,6 +8677,24 @@
     },
     {
       "album": {
+        "name": "CATHARSIS",
+        "url": "https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE"
+    },
+    {
+      "album": {
         "name": "Sun FM",
         "url": "https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3"
       },
@@ -9008,7 +9044,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 165095,
       "name": "Unterwelt",
       "url": "https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh"

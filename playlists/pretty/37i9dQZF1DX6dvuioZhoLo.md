@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Paige Plaisance
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,805 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,815 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 22 | [Mississippi](https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [You're Dreaming](https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG) | 4:01 |
 | 23 | [Cardinal Sin \(feat\. Jason Isbell\)](https://open.spotify.com/track/1wU21mCoSc3fc8VZq1WkAn) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Cardinal Sin \(feat\. Jason Isbell\)](https://open.spotify.com/album/5bqzhOiZ1j42qcD2oMCh32) | 3:34 |
 | 24 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/2cLGgmjT7pQ4MhcwpdqA4E) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Logan Ledger](https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD) | 2:52 |
-| 25 | [My Baby Loves Me](https://open.spotify.com/track/3oBDO2dRQg47wMR2z789Vq) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Rent Money](https://open.spotify.com/album/5EjAUMD7gtVa951fKC8c3h) | 3:05 |
-| 26 | [Weed Instead of Roses](https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Like a Rose](https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf) | 3:19 |
-| 27 | [Love You To Death](https://open.spotify.com/track/5dLMxhgU5uKhx8AweN7UAk) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Love You To Death](https://open.spotify.com/album/5tOcCToOYUOqXMst37Dkpp) | 3:24 |
+| 25 | [Weed Instead of Roses](https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Like a Rose](https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf) | 3:19 |
+| 26 | [Love You To Death](https://open.spotify.com/track/5dLMxhgU5uKhx8AweN7UAk) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Love You To Death](https://open.spotify.com/album/5tOcCToOYUOqXMst37Dkpp) | 3:24 |
+| 27 | [My Baby Loves Me](https://open.spotify.com/track/3oBDO2dRQg47wMR2z789Vq) | [Pokey LaFarge](https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT) | [Rent Money](https://open.spotify.com/album/5EjAUMD7gtVa951fKC8c3h) | 3:05 |
 | 28 | [You and I](https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [You and I](https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t) | 2:49 |
 | 29 | [Time Flies](https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Time Flies](https://open.spotify.com/album/23T9gZftkOoT7MhFMZMKWt) | 3:10 |
 | 30 | [Texas Angel](https://open.spotify.com/track/7BRiliFWes3v23LifgS5MN) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Texas Angel](https://open.spotify.com/album/3WkNVOx6QXbKzMyQ41Znb1) | 3:46 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 81 | [Love All Night \(Work All Day\)](https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Love All Night \(Work All Day\)](https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt) | 3:33 |
 | 82 | [Marriage Ain't the End of Being Lonely](https://open.spotify.com/track/2Z5aLcm4qBIXteTIzX1iMN) | [Emily Scott Robinson](https://open.spotify.com/artist/3oyKiCGdvt3HRj3pCOLCfM) | [Magnolia Queen](https://open.spotify.com/album/2iYnQ4u3aQqKx0fW6NvU8B) | 3:46 |
 | 83 | [Cherie Vico](https://open.spotify.com/track/44QY6TpNOFnUEm6mrIxOuY) | [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Cherie Vico](https://open.spotify.com/album/0LqNcJ3PKmf7oReNRLJ22I) | 5:16 |
-| 84 | [Lonely Game \(feat\. Andrew Combs & Jessie Baylin\)](https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco), [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11), [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [ism](https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU) | 3:49 |
-| 85 | [Flyin'](https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw) | [Coleman Jennings](https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp) | [Flyin'](https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA) | 2:25 |
+| 84 | [Flyin'](https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw) | [Coleman Jennings](https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp) | [Flyin'](https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA) | 2:25 |
+| 85 | [Lonely Game \(feat\. Andrew Combs & Jessie Baylin\)](https://open.spotify.com/track/2hPPJefLGV53Mwlir5mRcG) | [Steelism](https://open.spotify.com/artist/4vsRWAlRRT40g7LjHiUMco), [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11), [Jessie Baylin](https://open.spotify.com/artist/1hzFN1aqlgBtzx2WnSK6tT) | [ism](https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU) | 3:49 |
 | 86 | [Nothing Wrong with Texas](https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:19 |
 | 87 | [Linger On](https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k) | [credits](https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U) | [Linger On](https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD) | 3:09 |
 | 88 | [Lawdy Mama](https://open.spotify.com/track/5qeUS4MZJbPlTFCQHvopUF) | [The Deslondes](https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1) | [Lawdy Mama](https://open.spotify.com/album/5T42rU2Wxw07tiV0wt6PUe) | 2:44 |

@@ -338,7 +338,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 288157,
       "name": "Ab Ke Tajdeed",
       "url": "https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG"
@@ -4438,6 +4438,32 @@
       "duration_ms": 207729,
       "name": "Virah",
       "url": "https://open.spotify.com/track/44SQLK6OS7gadq8h8Le57b"
+    },
+    {
+      "album": {
+        "name": "Vo Ansunii Koii Daastaan",
+        "url": "https://open.spotify.com/album/3LhDnemttxML3z5zW1tyJE"
+      },
+      "artists": [
+        {
+          "name": "Jazim Sharma",
+          "url": "https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB"
+        },
+        {
+          "name": "Mahendra Dhirajlal Kamdar",
+          "url": "https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK"
+        },
+        {
+          "name": "Sagnik Kolay",
+          "url": "https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291956,
+      "name": "Vo Ansunii Koii Daastaan",
+      "url": "https://open.spotify.com/track/7fGmyzNNGJvQsXFWgdr5rp"
     },
     {
       "album": {

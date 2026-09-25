@@ -2,9 +2,9 @@
 
 ### [Jazz NEXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the sounds of South African Jazz\. Cover: Don Laka
+> Journey through the sounds of South African Jazz\. Cover: vuyo viwe
 
-377 songs - 1 day 13 hr 6 min
+378 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Forgive Yourself](https://open.spotify.com/track/4THmWISkZ1GAnAtLLEiT82) | [Tshepo Tsotetsi](https://open.spotify.com/artist/1CERwRqTtuEZqsny9CRF17) | [Forgive Yourself](https://open.spotify.com/album/1HLawlrJ29oemT4Bl8QE4U) | 2:26 | 2023-08-25 | 2024-05-17 |
 | [Four Women](https://open.spotify.com/track/5AXqTvyOjkZ6lJgygsUEdi) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Melo B Jones](https://open.spotify.com/artist/2Mua4FDd97dhJAfLNE5E3O), [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be), [Spha Mdlalose](https://open.spotify.com/artist/5zgK9I4L2Nwjm4mk3lphMO), [Zarcia Zacheus](https://open.spotify.com/artist/1NpQuiq9aJAefQDEEtgsjx) | [Four Women](https://open.spotify.com/album/0G2btMDdrfof6lqNwXqfLb) | 5:23 | 2023-08-24 | 2024-05-17 |
 | [Free](https://open.spotify.com/track/2edZuzKyK5d0o9YLH9JfRn) | [DJ Kenzhero & Tha\_Muzik](https://open.spotify.com/artist/0hHcjndk8IV2oO2wvBA1uh), [Zarcia](https://open.spotify.com/artist/3zXWyPAkoMFgr92LxUzPvR) | [Free](https://open.spotify.com/album/0YkhA4yxHShTCkmvVOAuWI) | 5:46 | 2023-08-25 | 2024-05-17 |
-| [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 | 2023-06-05 |  |
+| [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 | 2023-06-05 | 2026-09-25 |
 | [GENNGE TSHIKOLONI](https://open.spotify.com/track/4K5SitNYdKNN9h13qph4W9) | [H' & Them](https://open.spotify.com/artist/1m6M2vxEsbPWXVfedU3d15), [Jazz the Man](https://open.spotify.com/artist/7rq12t5b9lxlnxQKDn3RD6), [Francis Blaz3](https://open.spotify.com/artist/19zJXBJHVaMriInvGm5VsU), [Given Da Chief](https://open.spotify.com/artist/4LhhZtFrNLid7dqnqIy0QV) | [H' & JAZZ, Vol\. 2](https://open.spotify.com/album/76708OUg7B6tDGqe6ETLru) | 3:00 | 2025-06-13 | 2025-06-20 |
 | [Gentle Thoughts](https://open.spotify.com/track/0sl3atfnKcK4VvAMiKMVmd) | [KayTorture](https://open.spotify.com/artist/4HVgVrmes3oBWSNCLO2cyt) | [The Indecision](https://open.spotify.com/album/4haz2nveHi7SCfJT3rmqvz) | 3:18 | 2025-06-13 | 2025-06-20 |
 | [geza](https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [geza](https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi) | 7:09 | 2026-05-21 |  |
@@ -336,6 +336,7 @@
 | [Together](https://open.spotify.com/track/1m3FOsWgYb3bSdWTT7ts2a) | [Tutu Puoane](https://open.spotify.com/artist/3I5CBcpfValsWh6o5ciuWH) | [Wrapped in Rhythm, Vol\. 1](https://open.spotify.com/album/1QkGdyJI5qlYxUcwTTna8i) | 3:30 | 2024-03-14 | 2026-04-04 |
 | [Trains to Taung](https://open.spotify.com/track/4MhaRQdZMXiKyjaLd4cWVQ) | [Paul Hanmer](https://open.spotify.com/artist/11s57qoiAhGly26pUmZhO6) | [Trains to Taung](https://open.spotify.com/album/7ImGHwUpl2EaXZIffkA9in) | 11:25 | 2026-04-29 | 2026-05-22 |
 | [TransAtlantic](https://open.spotify.com/track/4MYix6DTtXSfGXiU3zZl2s) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Enhlizweni \- song stories from my heartland](https://open.spotify.com/album/5RU6d9EUUKKvNzpBVlUcgK) | 7:22 | 2024-04-05 | 2025-06-25 |
+| [tropic of capricorn](https://open.spotify.com/track/29dc2WJ4t01L98MJYFGWuZ) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [there are mirrors everywhere](https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY) | 8:35 | 2026-09-24 |  |
 | [Tuang Guru](https://open.spotify.com/track/3fD3q7GFWb25lCB19AMnub) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Ekaya](https://open.spotify.com/artist/0DatFccWNlM002HiZD9vOR) | [The Balance](https://open.spotify.com/album/7wV98ytkf55BxvrzQIbzNg) | 5:10 | 2022-04-28 | 2023-05-26 |
 | [uBhubesi](https://open.spotify.com/track/3lGNVb1m4zOLspGyVvkcSE) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF) | [Isitifiketi](https://open.spotify.com/album/1ARqAmYjCwJjvRNKe98S11) | 3:37 | 2026-02-13 |  |
 | [Ubombo](https://open.spotify.com/track/3hjhYk8EeQnYtcGqeTcaQU) | [Madala Kunene](https://open.spotify.com/artist/1X3SghwLJ3KExhUsrZhM2S) | [Freedom Countdown](https://open.spotify.com/album/62utMxHbKdLAax3CPSxP44) | 6:30 | 2023-11-01 | 2023-11-17 |

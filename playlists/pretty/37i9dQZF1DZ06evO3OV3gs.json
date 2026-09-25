@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 715350,
+  "num_followers": 715409,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAACFrOL9iArIxiCAX+hS8u95",
+  "snapshot_id": "arMWgAAAAAB5DtdebjDP5ivVw0/leOLx",
   "tracks": [
     {
       "added_at": null,
@@ -631,22 +631,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+        "name": "Music",
+        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
       },
       "artists": [
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Chris Lord-Alge",
-          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
         }
       ],
-      "duration_ms": 325720,
-      "name": "La Isla Bonita - Extended Remix",
-      "url": "https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR"
+      "duration_ms": 280973,
+      "name": "Don't Tell Me",
+      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
     },
     {
       "added_at": null,
@@ -667,18 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music",
-        "url": "https://open.spotify.com/album/1V342k6sinWc4y4R2iReOu"
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Chris Lord-Alge",
+          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
         }
       ],
-      "duration_ms": 280973,
-      "name": "Don't Tell Me",
-      "url": "https://open.spotify.com/track/23EhTCPRTlLVM6VQUyh8bH"
+      "duration_ms": 325720,
+      "name": "La Isla Bonita - Extended Remix",
+      "url": "https://open.spotify.com/track/1jaVdF0FSPTWi8E4MWiLPR"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 335733,
+      "name": "Don't Cry for Me Argentina",
+      "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 335733,
-      "name": "Don't Cry for Me Argentina",
-      "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
     },
     {
       "added_at": null,

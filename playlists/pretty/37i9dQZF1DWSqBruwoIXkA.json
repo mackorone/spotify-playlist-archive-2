@@ -1,6 +1,6 @@
 {
   "description": "heartbreak feels good in a place like sad hour, with Hailey Picardi",
-  "num_followers": 2389980,
+  "num_followers": 2390016,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
     },
     {
-      "added_at": "2024-09-13 04:05:55",
-      "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 217866,
-      "name": "Talking to the Moon",
-      "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
-    },
-    {
       "added_at": "2026-08-07 04:02:17",
       "album": {
         "name": "The Great Divide",
@@ -331,6 +315,22 @@
       "duration_ms": 297262,
       "name": "Willing and Able",
       "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
+    },
+    {
+      "added_at": "2024-09-13 04:05:55",
+      "album": {
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 217866,
+      "name": "Talking to the Moon",
+      "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1217,22 +1217,6 @@
       "url": "https://open.spotify.com/track/2luww5OJKlFtvGWwxFYtOm"
     },
     {
-      "added_at": "2026-05-15 04:16:24",
-      "album": {
-        "name": "Hit the Wall",
-        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 194376,
-      "name": "Hit the Wall",
-      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
-    },
-    {
       "added_at": "2024-09-13 04:05:55",
       "album": {
         "name": "I GUESS I'M IN LOVE",
@@ -1263,6 +1247,22 @@
       "duration_ms": 176178,
       "name": "Before You Leave Me",
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "added_at": "2026-05-15 04:16:24",
+      "album": {
+        "name": "Hit the Wall",
+        "url": "https://open.spotify.com/album/1jvG5wNg83Bm7ykfjwPHbZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 194376,
+      "name": "Hit the Wall",
+      "url": "https://open.spotify.com/track/1U90UBmMrQTx9GNweUA4LZ"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
-      "added_at": "2025-08-01 04:00:33",
-      "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/6DvcqZjRJ2f462uQAeHHoG"
-      },
-      "artists": [
-        {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
-        }
-      ],
-      "duration_ms": 212092,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv"
-    },
-    {
       "added_at": "2025-07-11 04:00:20",
       "album": {
         "name": "Rest of Me",
@@ -1519,6 +1503,22 @@
       "duration_ms": 216944,
       "name": "Rest of Me",
       "url": "https://open.spotify.com/track/7ifLkceJW9y0uBmlJDcJqF"
+    },
+    {
+      "added_at": "2025-08-01 04:00:33",
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/6DvcqZjRJ2f462uQAeHHoG"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 212092,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/5AVpEbTcWXVWa4u3VctYDv"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/21szgNA72iLwvBxHQLgwBh"
     },
     {
-      "added_at": "2026-06-12 13:45:51",
-      "album": {
-        "name": "Come Down",
-        "url": "https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ"
-      },
-      "artists": [
-        {
-          "name": "Asha Banks",
-          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
-        }
-      ],
-      "duration_ms": 175747,
-      "name": "Come Down",
-      "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
-    },
-    {
       "added_at": "2026-02-13 05:00:48",
       "album": {
         "name": "DON\u2019T YOU SEE ME TRYING?",
@@ -1569,20 +1553,20 @@
       "url": "https://open.spotify.com/track/7oIideXn5TQvUyhqbquDRw"
     },
     {
-      "added_at": "2026-08-14 04:00:13",
+      "added_at": "2026-06-12 13:45:51",
       "album": {
-        "name": "Best Friend",
-        "url": "https://open.spotify.com/album/0jR6CGTk0vLgmEMoYFXa5I"
+        "name": "Come Down",
+        "url": "https://open.spotify.com/album/78wzkaj5dqgjfggOEuqMUZ"
       },
       "artists": [
         {
-          "name": "Sofia Camara",
-          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+          "name": "Asha Banks",
+          "url": "https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw"
         }
       ],
-      "duration_ms": 242741,
-      "name": "Best Friend",
-      "url": "https://open.spotify.com/track/5q6cFFIklSDYN1f9Lijlak"
+      "duration_ms": 175747,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/4bDXAQydyUMMVmusdo1in6"
     },
     {
       "added_at": "2025-09-05 04:53:51",
@@ -1599,6 +1583,22 @@
       "duration_ms": 169320,
       "name": "The Knife In My Back",
       "url": "https://open.spotify.com/track/52hW86OGxT6nn0Aex2V6oM"
+    },
+    {
+      "added_at": "2026-08-14 04:00:13",
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/0jR6CGTk0vLgmEMoYFXa5I"
+      },
+      "artists": [
+        {
+          "name": "Sofia Camara",
+          "url": "https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55"
+        }
+      ],
+      "duration_ms": 242741,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/5q6cFFIklSDYN1f9Lijlak"
     },
     {
       "added_at": "2024-09-13 04:05:55",
@@ -1869,22 +1869,6 @@
       "url": "https://open.spotify.com/track/2tlONys5V3ZuO5OxrDJfE8"
     },
     {
-      "added_at": "2026-07-17 04:02:13",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE"
-      },
-      "artists": [
-        {
-          "name": "Isabel van Gelder",
-          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
-        }
-      ],
-      "duration_ms": 219302,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
-    },
-    {
       "added_at": "2026-04-24 04:01:27",
       "album": {
         "name": "Wishbone Deluxe",
@@ -1899,6 +1883,22 @@
       "duration_ms": 234015,
       "name": "Door",
       "url": "https://open.spotify.com/track/3TFteVg7d3VCHrRv0ASyOo"
+    },
+    {
+      "added_at": "2026-07-17 04:02:13",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE"
+      },
+      "artists": [
+        {
+          "name": "Isabel van Gelder",
+          "url": "https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP"
+        }
+      ],
+      "duration_ms": 219302,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj"
     },
     {
       "added_at": "2025-10-03 04:00:31",
@@ -1949,22 +1949,6 @@
       "url": "https://open.spotify.com/track/28SR8JQIpAsletgV04f6Sc"
     },
     {
-      "added_at": "2026-07-24 04:02:03",
-      "album": {
-        "name": "i've missed you longer",
-        "url": "https://open.spotify.com/album/4CkB0GvNIsUJKtmhMtLTjd"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 199354,
-      "name": "i've missed you longer",
-      "url": "https://open.spotify.com/track/7EqfOy9UoftDjltyjjN6Wj"
-    },
-    {
       "added_at": "2026-07-17 04:02:13",
       "album": {
         "name": "PIXIE",
@@ -1979,6 +1963,22 @@
       "duration_ms": 203728,
       "name": "Dream Girl",
       "url": "https://open.spotify.com/track/247M3IsQfnAUwOtyUzh8OX"
+    },
+    {
+      "added_at": "2026-07-24 04:02:03",
+      "album": {
+        "name": "i've missed you longer",
+        "url": "https://open.spotify.com/album/4CkB0GvNIsUJKtmhMtLTjd"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 199354,
+      "name": "i've missed you longer",
+      "url": "https://open.spotify.com/track/7EqfOy9UoftDjltyjjN6Wj"
     },
     {
       "added_at": "2026-07-24 04:02:03",

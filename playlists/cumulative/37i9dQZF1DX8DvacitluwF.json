@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-18",
-  "description": "The best in South African and international R&B. Cover: TEEKS",
+  "description": "The best in South African and international R&B. Cover: Blxckie",
   "name": "R&Beats",
   "tracks": [
     {
@@ -6941,6 +6941,28 @@
     },
     {
       "album": {
+        "name": "lonely (feat. L.A.X)",
+        "url": "https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164283,
+      "name": "lonely (feat. L.A.X)",
+      "url": "https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo"
+    },
+    {
+      "album": {
         "name": "Lonely? (Come Along)",
         "url": "https://open.spotify.com/album/1LsqoJNFx5lsQF9JdMayxA"
       },
@@ -9012,7 +9034,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 270359,
       "name": "Overdose",
       "url": "https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o"

@@ -1,12 +1,12 @@
 {
   "description": "This is Shemekia Copeland. The essential tracks, all in one playlist.",
-  "num_followers": 6033,
+  "num_followers": 6032,
   "original_name": "This Is Shemekia Copeland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADcxSLMWitXeBkXvykNw5W4",
+  "snapshot_id": "arMWgAAAAACWqPGw8nuOfwt7B/xakVQa",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 258415,
-      "name": "Ain't Got Time For Hate",
-      "url": "https://open.spotify.com/track/5NOFYqHrl9tCm0fZUXnj38"
+      "duration_ms": 226261,
+      "name": "Would You Take My Blood?",
+      "url": "https://open.spotify.com/track/0ko2zb9mF0mc9BMRXFfpHW"
     },
     {
       "added_at": null,
@@ -200,9 +200,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 226261,
-      "name": "Would You Take My Blood?",
-      "url": "https://open.spotify.com/track/0ko2zb9mF0mc9BMRXFfpHW"
+      "duration_ms": 258415,
+      "name": "Ain't Got Time For Hate",
+      "url": "https://open.spotify.com/track/5NOFYqHrl9tCm0fZUXnj38"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Soul Truth",
-        "url": "https://open.spotify.com/album/7x1Z7VKEA37xVx7xQC4pqw"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Givin' Up You",
-      "url": "https://open.spotify.com/track/3sfdysA1dqXE7BRd24YLLZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 183857,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/0ARGGCcODS5ztLAgBGUQoo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Soul Truth",
+        "url": "https://open.spotify.com/album/7x1Z7VKEA37xVx7xQC4pqw"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Givin' Up You",
+      "url": "https://open.spotify.com/track/3sfdysA1dqXE7BRd24YLLZ"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 425733,
-      "name": "It Don't Hurt No More",
-      "url": "https://open.spotify.com/track/6sGK2wbCXNWFk9dOvfm2oD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 225412,
       "name": "Apple Pie And A .45",
       "url": "https://open.spotify.com/track/54cGgNOgqmT1f8nthDR1gY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 425733,
+      "name": "It Don't Hurt No More",
+      "url": "https://open.spotify.com/track/6sGK2wbCXNWFk9dOvfm2oD"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn The Heat Up!",
-        "url": "https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 203573,
-      "name": "Have Mercy",
-      "url": "https://open.spotify.com/track/2IsViSUqq0WhukYU7DSEuQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Basie Swings The Blues",
         "url": "https://open.spotify.com/album/2LgSp4MlNeohQq2WmmqI0V"
       },
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
+        "name": "Turn The Heat Up!",
+        "url": "https://open.spotify.com/album/0g3GmMdeIuPgUAq4TnbWOf"
       },
       "artists": [
         {
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
         }
       ],
-      "duration_ms": 285990,
-      "name": "Uncivil War",
-      "url": "https://open.spotify.com/track/5LZpKuCUv8OoHj9DscLdAr"
+      "duration_ms": 203573,
+      "name": "Have Mercy",
+      "url": "https://open.spotify.com/track/2IsViSUqq0WhukYU7DSEuQ"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
       "duration_ms": 271313,
       "name": "Such A Pretty Flame",
       "url": "https://open.spotify.com/track/17ELglPxWgiSNWiBt5Ikyt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/7lFE1Hz5V4GTgAPfZK1uvt"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 285990,
+      "name": "Uncivil War",
+      "url": "https://open.spotify.com/track/5LZpKuCUv8OoHj9DscLdAr"
     },
     {
       "added_at": null,

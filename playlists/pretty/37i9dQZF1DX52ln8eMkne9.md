@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,390 likes - 150 songs - 11 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,428 likes - 150 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 12 | [Sweet Lorraine](https://open.spotify.com/track/3RbkATWswzKeNDJUZZL2jL) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 3:22 |
 | 13 | [deja vu \(feat\. Joe la panic\)](https://open.spotify.com/track/7ME2fa1efBC5wro6jF58fD) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg), [Joe la panic](https://open.spotify.com/artist/0WrQRK1aus4QQQlPTGOcat) | [deja vu](https://open.spotify.com/album/6ubPusS1bjeVnXteMzh4qE) | 2:43 |
 | 14 | [Just A Dream](https://open.spotify.com/track/3n09FQ8rPHhxS46wzYEmWq) | [Gerald Clayton](https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Bells On Sand](https://open.spotify.com/album/5WmMcrffw3sBnMxxrhbF0g) | 5:29 |
-| 15 | [The Sound of Music](https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [The Sound of Music](https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL) | 4:05 |
-| 16 | [Isn't This A Lovely Day](https://open.spotify.com/track/7bthYZq6ydp8ULqd8xM4RG) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:23 |
+| 15 | [Isn't This A Lovely Day](https://open.spotify.com/track/7bthYZq6ydp8ULqd8xM4RG) | [Fred Astaire](https://open.spotify.com/artist/4BtDAwCZhR6nPrJtbVgQNX) | [Mr\. Top Hat](https://open.spotify.com/album/0eNmpX93xeVCWWuNnKE7Oz) | 4:23 |
+| 16 | [The Sound of Music](https://open.spotify.com/track/58HbwdrmyWwFIamvSI8bDx) | [Martina DaSilva](https://open.spotify.com/artist/3AKEETcbRYtfGanQZjJ48F) | [The Sound of Music](https://open.spotify.com/album/6Av8L1QSD9GyWHB5ojRxNL) | 4:05 |
 | 17 | [Let There Be Love](https://open.spotify.com/track/1RrdcQQ5nyoZGc9xYnX5DI) | [Silje Nergaard](https://open.spotify.com/artist/3hCQUVIcg8nWvkZToF4rqc) | [At First Light](https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A) | 3:16 |
 | 18 | [Moonlight Serenade](https://open.spotify.com/track/1kRbi9kqF11JCDCPlQVSnc) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:22 |
 | 19 | [But For Now](https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 3:55 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 26 | [Old Cape Cod](https://open.spotify.com/track/4JFDXuNsl7dZ3VfXwZDYoI) | [Emma Smith](https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm) | [Old Cape Cod](https://open.spotify.com/album/7lpSUHSS3h3A0B2iZDHBpK) | 3:29 |
 | 27 | [Tis Autumn](https://open.spotify.com/track/2xkjxUit9oF8aC3057JybK) | [Belle\-Skinner](https://open.spotify.com/artist/7BFkFoYUrl7Hab2PGxr9fA) | [Tis Autumn](https://open.spotify.com/album/01lnZ9TUIeK5Wl8IbziDpS) | 2:10 |
 | 28 | [Carousel](https://open.spotify.com/track/5zSVV1d87RqUFiZx7kPeKd) | [Kyle Cox](https://open.spotify.com/artist/0GHk0KwPVlIjFyhAbPNNI9), [Abigail Flowers](https://open.spotify.com/artist/0ACMx2Gtw6DrQZSaJypRY1) | [Carousel](https://open.spotify.com/album/1j8NBe2Zib5DSVC9TSkH6n) | 3:37 |
-| 29 | [Manhattan](https://open.spotify.com/track/22YphPVmER6mRK4ADu0QWy) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Manhattan](https://open.spotify.com/album/59KxExoW3T9ExZ15kFEs1h) | 5:21 |
-| 30 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 |
+| 29 | [I'll Be Seeing You](https://open.spotify.com/track/6w8czge0Bw1pYzViYNxB5z) | [Cyrille Aimee](https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM), [Michael Valeanu](https://open.spotify.com/artist/0vFN32ckvgv3IY3g9L1Nbv) | [I'll Be Seeing You](https://open.spotify.com/album/1OEy3BZSxMKMF6Y5oNE3Lv) | 3:19 |
+| 30 | [Manhattan](https://open.spotify.com/track/22YphPVmER6mRK4ADu0QWy) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Manhattan](https://open.spotify.com/album/59KxExoW3T9ExZ15kFEs1h) | 5:21 |
 | 31 | [Misty \- Remastered](https://open.spotify.com/track/3IWapc5QZq6tidZIZZhxMT) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Great Ladies Of Song / Spotlight On Dakota Staton](https://open.spotify.com/album/6k6xiDEMEA5T1ufU4gCCUl) | 2:35 |
 | 32 | [Everytime We Say Goodbye](https://open.spotify.com/track/1Bh6O68WlWPtnm7aFIJBHL) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | [Ballads](https://open.spotify.com/album/0ZIJ91AiwAbFte9hDDgvQs) | 6:01 |
 | 33 | [Because I Love You](https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 4:10 |

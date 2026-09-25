@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "boom bap renasce todo dia. Foto: Makalister, Luiz Barata, Montosz, Nitcho",
+  "description": "boom bap renasce todo dia. Foto: Nill",
   "name": "Boom Rap",
   "tracks": [
     {
@@ -12302,7 +12302,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 149084,
       "name": "O Tempo Passou",
       "url": "https://open.spotify.com/track/5kpJpH0yI1ORxB1y9JlwoL"
@@ -18614,6 +18614,28 @@
       "duration_ms": 263235,
       "name": "Vaidade ao extremo",
       "url": "https://open.spotify.com/track/2tYhODA6sIR4CAFrayWHIa"
+    },
+    {
+      "album": {
+        "name": "SOBRE HEROIS,CASTELOS E VIAGENS NO TEMPO",
+        "url": "https://open.spotify.com/album/4VwxFmgZgtgjPioO12Mvr0"
+      },
+      "artists": [
+        {
+          "name": "Nill",
+          "url": "https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl"
+        },
+        {
+          "name": "Dj Will",
+          "url": "https://open.spotify.com/artist/0AMRCdhTSFfEFiu4UgOCwX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170986,
+      "name": "VAMOS PRO MAR",
+      "url": "https://open.spotify.com/track/2zzgPu8hhoOEjqx2jYyInx"
     },
     {
       "album": {

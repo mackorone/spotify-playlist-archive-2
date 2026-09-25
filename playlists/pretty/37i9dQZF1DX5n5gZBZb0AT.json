@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 997176,
+  "num_followers": 997230,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -619,30 +619,18 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "DERNIERE DANCE FUNK",
-        "url": "https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT"
+        "name": "Devil Eyes",
+        "url": "https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl"
       },
       "artists": [
         {
           "name": "ZODIVK",
           "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
-        },
-        {
-          "name": "Sachin SSS",
-          "url": "https://open.spotify.com/artist/7GDhzZ1xjQJBcV6TQ1Mbhi"
-        },
-        {
-          "name": "YXUNGXROTICA",
-          "url": "https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D"
-        },
-        {
-          "name": "MC KRAKEN",
-          "url": "https://open.spotify.com/artist/3Uy7W2zcbfxQWLDAXTPugq"
         }
       ],
-      "duration_ms": 91453,
-      "name": "DERNIERE DANCE FUNK",
-      "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
+      "duration_ms": 136651,
+      "name": "Devil Eyes",
+      "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
     },
     {
       "added_at": "2026-04-03 16:00:07",
@@ -723,18 +711,30 @@
     {
       "added_at": "2026-04-03 16:00:07",
       "album": {
-        "name": "Devil Eyes",
-        "url": "https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl"
+        "name": "DERNIERE DANCE FUNK",
+        "url": "https://open.spotify.com/album/5sJAIhExhl8Ok1lAuQ8pPT"
       },
       "artists": [
         {
           "name": "ZODIVK",
           "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
+        },
+        {
+          "name": "Sachin SSS",
+          "url": "https://open.spotify.com/artist/7GDhzZ1xjQJBcV6TQ1Mbhi"
+        },
+        {
+          "name": "YXUNGXROTICA",
+          "url": "https://open.spotify.com/artist/7gyc1wWTGmRwZpYtiFwH1D"
+        },
+        {
+          "name": "MC KRAKEN",
+          "url": "https://open.spotify.com/artist/3Uy7W2zcbfxQWLDAXTPugq"
         }
       ],
-      "duration_ms": 136651,
-      "name": "Devil Eyes",
-      "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
+      "duration_ms": 91453,
+      "name": "DERNIERE DANCE FUNK",
+      "url": "https://open.spotify.com/track/6NxIh2DTIOoATFmezrHv61"
     },
     {
       "added_at": "2026-04-03 16:00:07",

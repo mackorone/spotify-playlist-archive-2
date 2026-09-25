@@ -4,7 +4,7 @@
 
 > lass mal den herbst romantisieren
 
-381 songs - 21 hr 23 min
+382 songs - 21 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Curls](https://open.spotify.com/track/3bylizl2h9xMjnP8fRKrdz) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/6BmbMSgAflE0vEOeey6zO7) | 3:17 | 2023-07-26 | 2024-04-19 |
 | [Cut In Half](https://open.spotify.com/track/1aGnbst3HYuQ2Rq3bMXM53) | [Sonny Tennet](https://open.spotify.com/artist/2hPtxFv2Ftb7xGRdU76bOd) | [Cut In Half](https://open.spotify.com/album/0LEFdPWcty1wzOYTBebazM) | 2:41 | 2026-04-02 | 2026-09-21 |
 | [das zwischen uns](https://open.spotify.com/track/3Pz55jHdtlGVPYjt7JKJjy) | [PAUL FALC](https://open.spotify.com/artist/0ryxCmymTyz0myAGR4WnC1) | [das zwischen uns](https://open.spotify.com/album/45DOwgQVNqrg10hGj6lRph) | 1:52 | 2026-08-27 | 2026-09-18 |
-| [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 | 2025-10-09 |  |
+| [David](https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Virgin](https://open.spotify.com/album/28bHj2enHkHVFLwuWmkwlQ) | 3:24 | 2025-10-09 | 2026-09-25 |
 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 | 2026-04-16 | 2026-04-23 |
 | [Day You Die](https://open.spotify.com/track/13oY1yqw2VxuAAuMWF94cs) | [ILUKA](https://open.spotify.com/artist/1QiAR2OBtc5ZsYQ5bPnpdO) | [the wild, the innocent & the raging \(Deluxe\)](https://open.spotify.com/album/7AQDqzHgibASY2Hwxzlzr1) | 3:08 | 2026-07-09 | 2026-07-17 |
 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 | 2023-07-26 |  |
@@ -107,6 +107,7 @@
 | [Feel Like That \(feat\. JP Saxe\)](https://open.spotify.com/track/76xg7dQSTHprdcJOjVYJbk) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Feel Like That \(feat\. JP Saxe\)](https://open.spotify.com/album/0tOApcOZE9rb7VIy3rPMs6) | 2:22 | 2026-08-06 | 2026-08-28 |
 | [Feel The Rush](https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Feel The Rush](https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0) | 3:13 | 2025-03-24 |  |
 | [Feeling Fine](https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Feeling Fine](https://open.spotify.com/album/5QVuQVJgf2ibf26Vc24lTx) | 2:48 | 2025-10-16 |  |
+| [Feels Right](https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feels Right](https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj) | 3:09 | 2026-09-24 |  |
 | [Fever Dream](https://open.spotify.com/track/2Ts9Imtne6J4caiI3UtUed) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Fever Dream](https://open.spotify.com/album/7vjywbHJdmfEt1rYslc0OL) | 1:58 | 2026-05-07 | 2026-05-29 |
 | [Figa De Guiné](https://open.spotify.com/track/6NHAz8a9j2yZkP2TP48yLK) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Figa De Guiné](https://open.spotify.com/album/42pGRNpFJumps5qcggM8Tj) | 2:20 | 2025-05-22 |  |
 | [Flowers \- Spotify Singles](https://open.spotify.com/track/5QlTdFRhzFV72ieDj04sdD) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Flowers \- Spotify Singles](https://open.spotify.com/album/2xNxoIoAdqikspBdAGNshj) | 3:56 | 2026-02-26 | 2026-03-20 |
@@ -128,7 +129,7 @@
 | [Grüne Augen lügen nicht](https://open.spotify.com/track/4lptrKbbydmqa74YS0a1rt) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Grüne Augen lügen nicht](https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf) | 2:59 | 2023-10-20 | 2024-05-11 |
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-07-26 | 2023-09-16 |
 | [Hallo](https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Hallo](https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u) | 2:00 | 2023-07-26 | 2024-02-10 |
-| [Happy For Myself](https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Happy For Myself](https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e) | 2:45 | 2026-08-06 |  |
+| [Happy For Myself](https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Happy For Myself](https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e) | 2:45 | 2026-08-06 | 2026-09-25 |
 | [Head In The Clouds](https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes \- EP](https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt) | 3:04 | 2023-07-26 |  |
 | [Heartache in July](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 | 2024-07-26 | 2025-08-03 |
 | [Helpless](https://open.spotify.com/track/4LGzy6SV3ff3JgI38cktqe) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Helpless](https://open.spotify.com/album/1kIQcleL75BNtXifuJi7uX) | 3:26 | 2026-02-19 | 2026-03-27 |

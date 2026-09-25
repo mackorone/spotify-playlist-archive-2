@@ -26609,6 +26609,24 @@
     },
     {
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/17XKN0xVoKvKYRIEKma01l"
+      },
+      "artists": [
+        {
+          "name": "Nico Sol",
+          "url": "https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2Y6rQKitViqShofoKF3nax"
+    },
+    {
+      "album": {
         "name": "Stereo Love",
         "url": "https://open.spotify.com/album/4KpAPQ1wUucCTjDczgr8LP"
       },

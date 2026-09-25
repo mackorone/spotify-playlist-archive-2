@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 
 > ¡Merengue de los 80 y 90! Portada: Rubby Pérez
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,995 likes - 150 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,993 likes - 150 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUo7EWzIcjZ.md) - [plain]
 | 79 | [Penelope](https://open.spotify.com/track/1rQKgkbKDR7boRA0aPXQGI) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [Merengue Salvaje](https://open.spotify.com/album/1BeAOinmiOj7uvjEZp7oCA) | 4:26 |
 | 80 | [La Faldita](https://open.spotify.com/track/1y6JPeMsa7aac0mw9Fz00d) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [Pochi Y Su Cocoband](https://open.spotify.com/album/2SNsF2uUEnmLDHNxSGxWlL) | 3:50 |
 | 81 | [Platano Maduro](https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO) | [Nelson Cordero](https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv) | [Merengues Clasicos](https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9) | 3:56 |
-| 82 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 4:26 |
-| 83 | [El Venao](https://open.spotify.com/track/17p0oO1Rn7r6s7lrX6bE4y) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:55 |
+| 82 | [El Venao](https://open.spotify.com/track/17p0oO1Rn7r6s7lrX6bE4y) | [Los Cantantes De Ramon Orlando](https://open.spotify.com/artist/7Cj6rrdeWFppDcMtT4O9mK) | [Exitos De Los Cantantes De Ramon Orlando](https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18) | 4:55 |
+| 83 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0RPbC2qs3vGJG4iFyJdMME) | [Oro Negro](https://open.spotify.com/artist/0iEGlLKhtlzQeKBnXQWOzF) | [Coleccion Salsa Discotheque \- Vol\. 1](https://open.spotify.com/album/63SHFLiJKJeMQ4KoXNlLxH) | 4:26 |
 | 84 | [Cama Y Mesa](https://open.spotify.com/track/5w8uBAoUDhjGab0EACmmaO) | [Fernando Villalona](https://open.spotify.com/artist/4391zvuuIvVziLtsvq13Cu) | [El Mayimbe](https://open.spotify.com/album/5wIvzXgpFdveTZ8OzKkSNf) | 5:07 |
 | 85 | [Cal y Arena](https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI) | [Dionis Fernandez](https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3) | [11 Exitos](https://open.spotify.com/album/6sfL5qMPQi6k2JuvGlLB1j) | 4:51 |
 | 86 | [Yo Soy Asi](https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Caciquiando](https://open.spotify.com/album/0Te0Je5AccXrEzzpsxo2Wa) | 3:37 |

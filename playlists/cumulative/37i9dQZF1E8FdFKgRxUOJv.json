@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-12-06",
-  "description": "With John Mayer, Wild Rivers, Jack Johnson and more",
+  "description": "With John Mayer, Jack Johnson, James Morrison and more",
   "name": "Carry Me Away Radio",
   "tracks": [
     {
@@ -692,7 +692,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 256040,
       "name": "Addicted To You",
       "url": "https://open.spotify.com/track/1UNoqAFBHyhZcJyzVW2l0i"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 205309,
       "name": "Automatic Yes (feat. John Mayer)",
       "url": "https://open.spotify.com/track/6oAwQp0fXsZObpl5PLl2GN"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 188960,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF"
@@ -3036,7 +3036,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 209816,
       "name": "Bloom (Online Bonus Track)",
       "url": "https://open.spotify.com/track/44alNkXsYnTyPnkMdohBcx"
@@ -4724,7 +4724,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 239133,
       "name": "Coldplay",
       "url": "https://open.spotify.com/track/6y0rImrzWSQO3Sh5ND1Zxe"
@@ -4778,7 +4778,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160453,
       "name": "Colors",
       "url": "https://open.spotify.com/track/72SPsHheqN6J3sI520jT9E"
@@ -6236,7 +6236,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 166611,
       "name": "Don't Wait",
       "url": "https://open.spotify.com/track/4fQfVZa0h5qOQ6Nf9scgQx"
@@ -7036,7 +7036,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 212373,
       "name": "Everything",
       "url": "https://open.spotify.com/track/4T6HLdP6OcAtqC6tGnQelG"
@@ -8132,7 +8132,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 221706,
       "name": "Flower",
       "url": "https://open.spotify.com/track/3UdNzOWeC0wOnDpfbCwU7O"
@@ -10354,7 +10354,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 272720,
       "name": "Hear Me",
       "url": "https://open.spotify.com/track/3tblQGGmEmkZJYhPAsvHuV"
@@ -10498,7 +10498,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 269720,
       "name": "Heartbreak Warfare",
       "url": "https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue"
@@ -13918,7 +13918,7 @@
       ],
       "date_added": "2021-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
@@ -14892,7 +14892,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 186826,
       "name": "Lies",
       "url": "https://open.spotify.com/track/0mgXOSuxdH84O2MSc1ZmrU"
@@ -17042,7 +17042,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 352666,
       "name": "Midnight in Harlem",
       "url": "https://open.spotify.com/track/31tcl0qFuCZshOkjv66lmX"
@@ -20736,7 +20736,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 262266,
       "name": "Revelator Eyes",
       "url": "https://open.spotify.com/track/0ulLs8vN4SBtVHc5KDAamV"
@@ -21597,6 +21597,24 @@
     },
     {
       "album": {
+        "name": "Come Away With Me (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236840,
+      "name": "Shoot The Moon",
+      "url": "https://open.spotify.com/track/6Ji1sHZczmntLaTrQa1uLg"
+    },
+    {
+      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -22162,7 +22180,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 241946,
       "name": "Slow Dancing in a Burning Room",
       "url": "https://open.spotify.com/track/75zIfJpcYFYHSBMVlmdiYc"
@@ -25912,7 +25930,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 202640,
       "name": "Those Sweet Words",
       "url": "https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl"
@@ -29338,7 +29356,7 @@
       ],
       "date_added": "2019-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 231840,
       "name": "You Are the Best Thing",
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
@@ -29374,7 +29392,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 213173,
       "name": "You Give Me Something",
       "url": "https://open.spotify.com/track/6bFsQ6yOp3z5mGNkhWP0P1"

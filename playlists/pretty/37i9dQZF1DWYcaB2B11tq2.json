@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 522710,
+  "num_followers": 522822,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "Listo Para Nuestro Encuentro",
+        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
+      },
+      "artists": [
+        {
+          "name": "Abel Zavala",
+          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
+        }
+      ],
+      "duration_ms": 204493,
+      "name": "El Padre Que Siempre So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "Uniendo Cielo Y Tierra",
         "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 601586,
       "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
       "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Listo Para Nuestro Encuentro",
-        "url": "https://open.spotify.com/album/2gnGnvNJzXxlwy837iHs7O"
-      },
-      "artists": [
-        {
-          "name": "Abel Zavala",
-          "url": "https://open.spotify.com/artist/0UH4eoqwQgADwRoaKtEKc1"
-        }
-      ],
-      "duration_ms": 204493,
-      "name": "El Padre Que Siempre So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/1mjyjgatJGw8DtNTejtztn"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Dios Cuida De M\u00ed",
-        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+        "name": "Si Tu Presencia Conmigo No Va",
+        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
       },
       "artists": [
         {
-          "name": "Danny Berrios",
-          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
         }
       ],
-      "duration_ms": 310961,
-      "name": "Alaba A Dios",
-      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
+      "duration_ms": 288183,
+      "name": "Si Tu Presencia Conmigo No Va",
+      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
     },
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "Si Tu Presencia Conmigo No Va",
-        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
-      },
-      "artists": [
-        {
-          "name": "Oasis Ministry",
-          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
-        }
-      ],
-      "duration_ms": 288183,
-      "name": "Si Tu Presencia Conmigo No Va",
-      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "ResplanDC",
         "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 408026,
       "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
       "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Dios Cuida De M\u00ed",
+        "url": "https://open.spotify.com/album/3FMKKz5oAZCgXKQRpYr3Z4"
+      },
+      "artists": [
+        {
+          "name": "Danny Berrios",
+          "url": "https://open.spotify.com/artist/3e6e7N2fMD8rtk2PBVyMkm"
+        }
+      ],
+      "duration_ms": 310961,
+      "name": "Alaba A Dios",
+      "url": "https://open.spotify.com/track/0QUSwslf0xbm4aDgpZfPn8"
     },
     {
       "added_at": "2026-05-12 05:08:23",

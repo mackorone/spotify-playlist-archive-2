@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Dayoo",
+  "description": "What is your love language? Say it in Swahili.  Cover: D Voice",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -494,6 +494,28 @@
       "duration_ms": 210782,
       "name": "BamBam",
       "url": "https://open.spotify.com/track/7qMekh8B1OLLtdVKMUi9Wc"
+    },
+    {
+      "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/5ETj4zboxainPuaePMm592"
+      },
+      "artists": [
+        {
+          "name": "D Voice",
+          "url": "https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173571,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/2hCOa9I7qRTPTbt5bpZLhb"
     },
     {
       "album": {
@@ -3812,7 +3834,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 231000,
       "name": "Mungu Alipanga Mwenyewe",
       "url": "https://open.spotify.com/track/5yan9vHUvk1H2W4ItJgubL"
@@ -4070,6 +4092,24 @@
       "duration_ms": 231862,
       "name": "Na Yule",
       "url": "https://open.spotify.com/track/3yXTg2aoTSA2IFo0XfEz8o"
+    },
+    {
+      "album": {
+        "name": "Naenjoy",
+        "url": "https://open.spotify.com/album/6pBRCq3gGWwFG9oFAG9XmX"
+      },
+      "artists": [
+        {
+          "name": "Stans",
+          "url": "https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Naenjoy",
+      "url": "https://open.spotify.com/track/4OmM9icKzWnoo4pZC0wqoR"
     },
     {
       "album": {
@@ -6002,7 +6042,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 162352,
       "name": "Sijamaliza",
       "url": "https://open.spotify.com/track/3LegRPMFfSMGs4wyYhB5wd"
@@ -6573,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "KANDA",
+        "url": "https://open.spotify.com/album/34KsjXx5WtGnS9v7HsCCxc"
+      },
+      "artists": [
+        {
+          "name": "Mocco Genius",
+          "url": "https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/1b731QaxyB1OfOVzdb88bI"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS"
       },
@@ -6784,7 +6842,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 222947,
       "name": "Umenitekenya",
       "url": "https://open.spotify.com/track/7nl1E4LK0EmdI1ipWZZ57T"

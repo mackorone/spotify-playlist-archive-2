@@ -1,6 +1,6 @@
 {
   "description": "mykonos season is here.",
-  "num_followers": 219888,
+  "num_followers": 219952,
   "original_name": "Mykonos Calling",
   "owner": {
     "name": "Spotify",
@@ -735,50 +735,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
-        },
-        {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
-        }
-      ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "Jamaican (Bam Bam)",
-        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "SOLTO (FR)",
-          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
-        }
-      ],
-      "duration_ms": 156393,
-      "name": "Jamaican (Bam Bam)",
-      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Positions",
         "url": "https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah"
       },
@@ -799,6 +755,26 @@
       "duration_ms": 148000,
       "name": "Positions",
       "url": "https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Jamaican (Bam Bam)",
+        "url": "https://open.spotify.com/album/5ZX3Zdp20YCGI4ruAfZlMj"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "SOLTO (FR)",
+          "url": "https://open.spotify.com/artist/0F3tUZeb9dLNEpxCpzEBQt"
+        }
+      ],
+      "duration_ms": 156393,
+      "name": "Jamaican (Bam Bam)",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -863,34 +839,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Aidan Martin",
-          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
-        }
-      ],
-      "duration_ms": 147269,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "WACUKA",
         "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
       },
@@ -907,6 +855,30 @@
       "duration_ms": 190153,
       "name": "WACUKA",
       "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+        },
+        {
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+        }
+      ],
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -987,6 +959,34 @@
       "duration_ms": 147656,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/13cX2o4cASGLYXNaQyXWxt"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Aidan Martin",
+          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+        }
+      ],
+      "duration_ms": 147269,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
+        "name": "The Reset",
+        "url": "https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Abel Balder",
+          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
+        }
+      ],
+      "duration_ms": 256488,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0HB4odbGJbgR0ffA4rJoxS"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
         "name": "The One (feat. Jocelyn Brown)",
         "url": "https://open.spotify.com/album/5rlbbiPN65rv6IjLjVmtHg"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 182498,
       "name": "The One (feat. Jocelyn Brown)",
       "url": "https://open.spotify.com/track/4fErrQvOX1LPDIPFDFI4eM"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "The Reset",
-        "url": "https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Abel Balder",
-          "url": "https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG"
-        }
-      ],
-      "duration_ms": 256488,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0HB4odbGJbgR0ffA4rJoxS"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
+        "name": "Control Of Me (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 195291,
+      "name": "Control Of Me (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
       },
@@ -1471,26 +1491,6 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/4x6jx7AeSyE7PlQTdCjIJs"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "Control Of Me (feat. Daecolm)",
-        "url": "https://open.spotify.com/album/4jMryrW1qdyahy1pjyR2Tm"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        }
-      ],
-      "duration_ms": 195291,
-      "name": "Control Of Me (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/6DHluTEItUYKyU5fhqLRNc"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1727,22 +1727,22 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "What I Want Is You",
-        "url": "https://open.spotify.com/album/7EpmxmQ5BnYxB4rsADiA2O"
+        "name": "Murda",
+        "url": "https://open.spotify.com/album/3q7EokQfEq60HDp7E6UQr5"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
         },
         {
-          "name": "Fireball",
-          "url": "https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg"
+          "name": "7 SKIES",
+          "url": "https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5"
         }
       ],
-      "duration_ms": 142449,
-      "name": "What I Want Is You",
-      "url": "https://open.spotify.com/track/6xd0z1HL0AYozX9g5SSSIs"
+      "duration_ms": 174374,
+      "name": "Murda",
+      "url": "https://open.spotify.com/track/4u4wMk7GgiKCkT1uoaVl0t"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1763,22 +1763,22 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Murda",
-        "url": "https://open.spotify.com/album/3q7EokQfEq60HDp7E6UQr5"
+        "name": "What I Want Is You",
+        "url": "https://open.spotify.com/album/7EpmxmQ5BnYxB4rsADiA2O"
       },
       "artists": [
         {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
         },
         {
-          "name": "7 SKIES",
-          "url": "https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5"
+          "name": "Fireball",
+          "url": "https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg"
         }
       ],
-      "duration_ms": 174374,
-      "name": "Murda",
-      "url": "https://open.spotify.com/track/4u4wMk7GgiKCkT1uoaVl0t"
+      "duration_ms": 142449,
+      "name": "What I Want Is You",
+      "url": "https://open.spotify.com/track/6xd0z1HL0AYozX9g5SSSIs"
     },
     {
       "added_at": "2026-08-27 21:01:11",

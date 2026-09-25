@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > The Soca hits we all love from back then til right now\. Cover: V'ghn, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,635 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,664 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 21 | [Last Train](https://open.spotify.com/track/0YWDVOZE0phKo6ZWYJG4kn) | [Mical Teja](https://open.spotify.com/artist/3hAEV7AsItFtYdftNNxSMu) | [Last Train](https://open.spotify.com/album/0yFAOpoi7SAzwDmx3zAEX5) | 3:37 |
 | 22 | [Lucy](https://open.spotify.com/track/3xpnKNuV6IZxgMIIJLeLKX) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [Bakanation](https://open.spotify.com/album/2aPaDJnf3chCoEIZIEIHXd) | 3:30 |
 | 23 | [Hard Fete](https://open.spotify.com/track/4LeGXUArvKORbcrykE26q3) | [Bunji Garlin](https://open.spotify.com/artist/6nPHDCN7qmxO86eN1grP54) | [Hard Fete](https://open.spotify.com/album/0cyOjKcrLq7hPNrwCDFLMK) | 3:50 |
-| 24 | [Mood \(feat\. Kes\)](https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Mood \(feat\. Kes\)](https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf) | 3:37 |
-| 25 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 |
+| 24 | [Jamtown](https://open.spotify.com/track/6VjxcmDTB2UvpyEAeJurNg) | [Tano](https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1), [Coutain](https://open.spotify.com/artist/1MdzISNKOYvAhoak5FBn2C) | [Heroes Riddim](https://open.spotify.com/album/259CBsx920bdse65Q33ln1) | 3:08 |
+| 25 | [Mood \(feat\. Kes\)](https://open.spotify.com/track/4RfymDIA8oimN1Z4Oc0X1x) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Mood \(feat\. Kes\)](https://open.spotify.com/album/0tnvhYRVA97Nt0Zu6cKnLf) | 3:37 |
 | 26 | [In the Water](https://open.spotify.com/track/13VEio7HfObBKUtYUDAp42) | [Suhrawh](https://open.spotify.com/artist/4ZEqhMBy6fKoOnzhlaMqSL), [Chow Minister](https://open.spotify.com/artist/54d47JyqvGpK5nfJEnvwaM) | [In the Water](https://open.spotify.com/album/4sgxQbY0FtG7Jy9bCmosmo) | 2:39 |
 | 27 | [Payroll](https://open.spotify.com/track/3XTjtCEfZ34xMua70IK01m) | [muddy](https://open.spotify.com/artist/1sjktWGrxErKEMVpB6QKgM), [Xpert Productions](https://open.spotify.com/artist/52O8pzIdLGt62WYa44LRXg) | [Same 24 Riddim](https://open.spotify.com/album/67TEiUfvHYKELLyVKQGgjB) | 2:38 |
 | 28 | [Doux Doux Darlin](https://open.spotify.com/track/77efykPXrKPWQUVN7CTvPa) | [Christo](https://open.spotify.com/artist/0KnjqOM3FNDO3SUSKWRDLj), [AdvoKit](https://open.spotify.com/artist/1iCwskOTDRHaM4NgMM0KVf) | [Doux Doux Darlin](https://open.spotify.com/album/2UKUrjsnHJx0B4V4Po68sM) | 3:12 |

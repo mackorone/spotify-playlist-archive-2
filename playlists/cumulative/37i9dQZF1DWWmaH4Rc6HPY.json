@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "\u00a1Rock para cantar en todos lados! Pepe Madero en portada.",
+  "description": "\u00a1Rock para cantar en todos lados! Motel en portada.",
   "name": "Pop Rock Latino",
   "tracks": [
     {
@@ -122,6 +122,28 @@
       "duration_ms": 186614,
       "name": "4 Minutos",
       "url": "https://open.spotify.com/track/1x6Snc0iGdf0RiQ0A4RJvI"
+    },
+    {
+      "album": {
+        "name": "50 Horas",
+        "url": "https://open.spotify.com/album/1VAw66UdPTMhoKLRTk7OrA"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164758,
+      "name": "50 Horas",
+      "url": "https://open.spotify.com/track/6F4aIikY2WK9tHZtJCubp9"
     },
     {
       "album": {
@@ -802,7 +824,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 246183,
       "name": "Brillante Sobre el Mic - EADDA9223",
       "url": "https://open.spotify.com/track/3gnbXX0Fv5iiUvxZVX2O2x"
@@ -864,7 +886,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 201120,
       "name": "Bruma",
       "url": "https://open.spotify.com/track/6sz1RiK5ltgQQxSsrRzVy4"
@@ -1644,6 +1666,24 @@
       "duration_ms": 219395,
       "name": "De Regreso",
       "url": "https://open.spotify.com/track/1yyLkSKtweWX6G8wsAPJAB"
+    },
+    {
+      "album": {
+        "name": "De vuelta al ruedo",
+        "url": "https://open.spotify.com/album/2N20yylagvIa6GnIViUxQl"
+      },
+      "artists": [
+        {
+          "name": "Agris",
+          "url": "https://open.spotify.com/artist/29ZfC3Kiw2GkCo5IMI7m9q"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210410,
+      "name": "De vuelta al ruedo",
+      "url": "https://open.spotify.com/track/6P0y8zJbP27ROCtZeW71wK"
     },
     {
       "album": {
@@ -5126,7 +5166,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 179527,
       "name": "Quito",
       "url": "https://open.spotify.com/track/5I7HzntcnFHekSHJNrngcn"
@@ -5388,6 +5428,24 @@
       "duration_ms": 180310,
       "name": "Rompehielos",
       "url": "https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN"
+    },
+    {
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5m9KRPp1ghFcvtJMqf1HeT"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Rom\u00e1ntico",
+      "url": "https://open.spotify.com/track/56NhDFVZD3GPUDikDtFkEU"
     },
     {
       "album": {
@@ -6048,7 +6106,7 @@
       ],
       "date_added": "2025-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 216774,
       "name": "Te Recuerdo",
       "url": "https://open.spotify.com/track/2ikjBKxuPxgNjgeW1hRHKd"
@@ -6798,6 +6856,24 @@
       "duration_ms": 251093,
       "name": "\u00bfQu\u00e9 vas a saber?",
       "url": "https://open.spotify.com/track/38V0tYzvhjYghBvlES5oef"
+    },
+    {
+      "album": {
+        "name": "\u00bfY Todo Para Qu\u00e9?",
+        "url": "https://open.spotify.com/album/6qPRhJkzOQQhbro2qb43ML"
+      },
+      "artists": [
+        {
+          "name": "Motel",
+          "url": "https://open.spotify.com/artist/19IsMFpELM7g2UDuwDlZvU"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198333,
+      "name": "\u00bfY Todo Para Qu\u00e9?",
+      "url": "https://open.spotify.com/track/2Md4AfbYI9viZmB6pXvFiT"
     },
     {
       "album": {

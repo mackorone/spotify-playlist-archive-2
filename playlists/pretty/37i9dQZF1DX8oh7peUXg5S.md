@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,217 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,244 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 58 | [Un Ramito de Violetas](https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Un Ramito De Violetas](https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw) | 4:12 |
 | 59 | [Santa Lucia](https://open.spotify.com/track/4rOf6mtF2MpDwWipaila0L) | [Miguel Ríos](https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ) | [Canciones De Amor Para Tiempos Dificiles](https://open.spotify.com/album/1HITxEQK7ac082gDH7ynDR) | 3:45 |
 | 60 | [Méritos Y Merecimientos](https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT) | [Fernando Cabrera](https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Méritos Y Merecimientos](https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc) | 3:40 |
-| 61 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
-| 62 | [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 |
+| 61 | [Qué bonito](https://open.spotify.com/track/20nWXGPfwZuvZfpK1CrF6t) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Qué bonito](https://open.spotify.com/album/6YFOEsBJhxOo2T05Y1eJLX) | 3:50 |
+| 62 | [Lucia \(with Silvio Rodríguez\)](https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Antología Desordenada](https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR) | 3:12 |
 | 63 | [Lucha de gigantes \- Live](https://open.spotify.com/track/0WWSqjiV8czuWNQ05C5aXl) | [Antonio Vega](https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF) | [Básico](https://open.spotify.com/album/29MlnmVjoff9GwJQT9bTka) | 3:57 |
 | 64 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 |
 | 65 | [Slowly](https://open.spotify.com/track/2ZZvtilGKmGDAdz9IU1EG2) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Auterretratos](https://open.spotify.com/album/6D0h0IHPCoZag4aphOG7Mv) | 5:39 |

@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 219307,
       "name": "Anta Malek.",
       "url": "https://open.spotify.com/track/3mYaoPqSczv15QcyVoQTSd"
@@ -2220,7 +2220,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet"
@@ -2980,7 +2980,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 97960,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
@@ -3612,7 +3612,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 350955,
       "name": "Bela Ghema",
       "url": "https://open.spotify.com/track/1PTyDoO6hozoUTrisidrjc"
@@ -9112,7 +9112,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 210651,
       "name": "Enta Malek Takht Sharqy",
       "url": "https://open.spotify.com/track/7iI9wUWKXydI5Q0M2qmxxp"
@@ -12840,7 +12840,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 213838,
       "name": "Heseeny",
       "url": "https://open.spotify.com/track/6AOmVuYPC8WJN0hzZ1ODIj"
@@ -19119,6 +19119,24 @@
     },
     {
       "album": {
+        "name": "Forgotten Island (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/35c85zu97RJsuQm9iefPoG"
+      },
+      "artists": [
+        {
+          "name": "SB19",
+          "url": "https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212569,
+      "name": "Mga Kababayan",
+      "url": "https://open.spotify.com/track/0BrKXONeFioux1MSSZPSDE"
+    },
+    {
+      "album": {
         "name": "MIDDLE OF THE NIGHT",
         "url": "https://open.spotify.com/album/4hYYpUC8Ewb74tP23Y1lmM"
       },
@@ -22618,7 +22636,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp"
@@ -22636,7 +22654,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 208306,
       "name": "Paparazzi",
       "url": "https://open.spotify.com/track/7Hqig8kp32q2Ire3ECQvWM"
@@ -28346,7 +28364,7 @@
       ],
       "date_added": "2021-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -32594,7 +32612,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -32960,7 +32978,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-21",
+      "date_removed": null,
       "duration_ms": 152659,
       "name": "Ya Control",
       "url": "https://open.spotify.com/track/2wjaeYkdECeYSvgciOaMXB"
@@ -33514,7 +33532,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 305626,
       "name": "Zombie - 2025 Remastered",
       "url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr"
@@ -33979,6 +33997,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0637\u0631\u0628 \u064a\u0627 \u0645\u0648\u0637\u0646\u0627",
+        "url": "https://open.spotify.com/album/54iGvKpsHmOSqoCmMh61tV"
+      },
+      "artists": [
+        {
+          "name": "\u062c\u0627\u0628\u0631 \u0627\u0644\u0643\u0627\u0633\u0631",
+          "url": "https://open.spotify.com/artist/1pCXD2OCymwff9VHqQoPj4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331077,
+      "name": "\u0627\u0637\u0631\u0628 \u064a\u0627 \u0645\u0648\u0637\u0646\u0627",
+      "url": "https://open.spotify.com/track/6MVtb3zf01ueq55w8lm1Zp"
+    },
+    {
+      "album": {
         "name": "\u0627\u0639\u0648\u0641 \u0627\u0644\u062f\u0646\u064a\u0627",
         "url": "https://open.spotify.com/album/5DcXnrh8ZXr85dezcuYnE2"
       },
@@ -34357,6 +34393,24 @@
     },
     {
       "album": {
+        "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+        "url": "https://open.spotify.com/album/50kUN6PtYILnG4N56xC7JZ"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334285,
+      "name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+      "url": "https://open.spotify.com/track/02qT69K6uSQ6kE5HlxfghO"
+    },
+    {
+      "album": {
         "name": "\u0627\u0644\u0638\u0631\u0648\u0641 - Single",
         "url": "https://open.spotify.com/album/2SSZErKSM1mjVl2g2asQ4U"
       },
@@ -34422,7 +34476,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 271441,
       "name": "\u0627\u0644\u0639\u0645\u0631 \u0631\u0627\u062d - \u0627\u0644\u0646\u0633\u062e\u0629 \u0627\u0644\u0623\u0635\u0644\u064a\u0629",
       "url": "https://open.spotify.com/track/1rwhsMQoNtMn2PGJsUJ0aZ"
@@ -34596,6 +34650,24 @@
       "duration_ms": 357072,
       "name": "\u0627\u0644\u0644\u0647 \u0644\u0627 \u064a\u062c\u0639\u0644\u0646\u064a \u0634\u0627\u0645\u062a",
       "url": "https://open.spotify.com/track/2VT15rDP0A1PCeEOkp7yAZ"
+    },
+    {
+      "album": {
+        "name": "\u0627\u0644\u0644\u0647 \u064a\u0639\u0632 \u0627\u0644\u062f\u0627\u0631",
+        "url": "https://open.spotify.com/album/7MGAEMIEP8m1IyPsL0UAeH"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363276,
+      "name": "\u0627\u0644\u0644\u0647 \u064a\u0639\u0632 \u0627\u0644\u062f\u0627\u0631",
+      "url": "https://open.spotify.com/track/4mwusdMeFWynMrNUHK6uPr"
     },
     {
       "album": {
@@ -34950,7 +35022,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 321689,
       "name": "\u0628\u0627\u0639\u0646\u064a \u0648\u0631\u0627\u062d",
       "url": "https://open.spotify.com/track/6Yyou08EWcxFXJVL7gnGeD"
@@ -35478,7 +35550,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 217082,
       "name": "\u062c\u0631\u064a\u062f\u0629 \u0628\u0644\u0627 \u062e\u0628\u0631",
       "url": "https://open.spotify.com/track/0qfGk7iMHzzQEDdP9sZA0j"
@@ -35730,7 +35802,7 @@
       ],
       "date_added": "2024-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 246946,
       "name": "\u062d\u064a\u0648 \u0627\u0644\u0633\u0639\u0648\u062f\u064a",
       "url": "https://open.spotify.com/track/5muynzN7ghpU7UmS0fPelB"
@@ -36382,7 +36454,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 158390,
       "name": "\u0633\u0639\u0648\u062f\u064a\u0648\u0646",
       "url": "https://open.spotify.com/track/2tSetGL4BpKgKK7BVAbhGf"
@@ -38734,6 +38806,24 @@
       "duration_ms": 273847,
       "name": "\u064a\u0627\u0628\u0639\u062f \u0646\u0627\u0633\u064a",
       "url": "https://open.spotify.com/track/3LxpB4Mtj0Zt4EnvOfZkce"
+    },
+    {
+      "album": {
+        "name": "\u064a\u0627\u0628\u0644\u0627\u062f\u064a \u0648\u0627\u0635\u0644\u064a",
+        "url": "https://open.spotify.com/album/4E7QXjOcPjvUtOP7STzuCn"
+      },
+      "artists": [
+        {
+          "name": "Abu Baker Salim",
+          "url": "https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478525,
+      "name": "\u064a\u0627\u0628\u0644\u0627\u062f\u064a \u0648\u0627\u0635\u0644\u064a",
+      "url": "https://open.spotify.com/track/5y0xbYWQTkxZKpfNw254XY"
     },
     {
       "album": {

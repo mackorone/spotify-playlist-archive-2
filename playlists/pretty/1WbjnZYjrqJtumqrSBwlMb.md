@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,300 songs - 3 day 8 hr 14 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 1,301 songs - 3 day 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1308,5 +1308,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 1298 | [Grandma Song](https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Grandma Song](https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I) | 3:03 |
 | 1299 | [cbd](https://open.spotify.com/track/718Z7VJDi0YRr7vXrdB0Uv) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [hypochondriac](https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08) | 2:39 |
 | 1300 | [Stand By Me](https://open.spotify.com/track/0zxHSBTEKdH8CI3auJ7Jyc) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Be Here Now](https://open.spotify.com/album/021D07OEcg0c4tUCilc7ah) | 5:56 |
+| 1301 | [ready or noT](https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [ready or noT](https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK) | 4:02 |
 
-Snapshot ID: `AAAKGpbWXPVYps7cQGWjcKxZx5vCmwYn`
+Snapshot ID: `AAAKGzgvjyPpnPx+icGaFyaGyIX1Y1oq`

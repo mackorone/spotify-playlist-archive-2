@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKeNBqaIy5U.md) - [plain]
 
 > Soft Jazz vocals and smooth instrumentals to soundtrack your dinner \- perfect for cooking, hosting a dinner party, or a relaxed evening at home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,687 likes - 122 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,709 likes - 122 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKeNBqaIy5U.md) - [plain]
 | 8 | [Mystic Moonlight Groove](https://open.spotify.com/track/4DySf1DPVMOVl04WBvSvqi) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Mystic Moonlight Groove](https://open.spotify.com/album/52zp4HrTeYZeiLn3iDy01S) | 3:31 |
 | 9 | [Tenderly](https://open.spotify.com/track/4GexggWZGdd0ER5wBAtuwF) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [King Of The Tenors \(Expanded Edition\)](https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v) | 3:01 |
 | 10 | [All The Sunsets](https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [All The Sunsets](https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE) | 3:40 |
-| 11 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 |
-| 12 | [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 |
-| 13 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 |
-| 14 | [All Of Me](https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [A Jazz Portrait Of Frank Sinatra](https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM) | 3:22 |
-| 15 | [Lonely Streets](https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [At Least I Know](https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN) | 6:08 |
+| 11 | [Lonely Streets](https://open.spotify.com/track/6OLMBzS4PV7EXkxzkcx7Z6) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [At Least I Know](https://open.spotify.com/album/3cBbti8W4QwIjKRjvVtFYN) | 6:08 |
+| 12 | [Dancing Shadows](https://open.spotify.com/track/6F14syg4FMAOjIHCfJvb2C) | [Dries Riesen](https://open.spotify.com/artist/2CBiYt7JDgmt7EYJEVmDdL) | [Dancing Shadows](https://open.spotify.com/album/05JsbFBmz50hZwtFH2GQWK) | 3:24 |
+| 13 | [Something about him](https://open.spotify.com/track/18L4SUEMJ0jJKmajWCCRP7) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Something about him](https://open.spotify.com/album/091PRS9X1pT5pEVDFAd7Vx) | 2:40 |
+| 14 | [Beautiful Sunrise](https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 4:51 |
+| 15 | [All Of Me](https://open.spotify.com/track/7pCcxxrnJt55nwbhpaTQDX) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [A Jazz Portrait Of Frank Sinatra](https://open.spotify.com/album/5JXjrJw1ziAWR0AczH5SfM) | 3:22 |
 | 16 | [Your Smile](https://open.spotify.com/track/1tlpaUbQqcKruubhQKANz3) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [Your Smile](https://open.spotify.com/album/2r7Bja8lt25dv68Q4mHOFk) | 3:52 |
 | 17 | [Moved by Performance](https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n) | [The Three Queens](https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h) | [Moved by Performance](https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn) | 2:38 |
 | 18 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 |

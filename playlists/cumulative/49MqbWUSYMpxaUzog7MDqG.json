@@ -1824,7 +1824,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 121695,
       "name": "Once More",
       "url": "https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz"
@@ -1936,7 +1936,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
@@ -1954,7 +1954,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
@@ -2080,7 +2080,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 175875,
       "name": "Sleep Well",
       "url": "https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1"
@@ -2366,6 +2366,24 @@
       "duration_ms": 295201,
       "name": "The Grants",
       "url": "https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze"
+    },
+    {
+      "album": {
+        "name": "The Meaning of Flowers",
+        "url": "https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234644,
+      "name": "The Meaning of Flowers",
+      "url": "https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "solo le tracce con l'aura migliore \ud83d\udc7e Angie in cover",
+  "description": "solo le tracce con l'aura migliore \ud83d\udc7e centomilacarie in cover",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -1456,7 +1456,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 133795,
       "name": "Apnea",
       "url": "https://open.spotify.com/track/08BJwWKFZF9lAk59Y2Gifm"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 137523,
       "name": "Belek",
       "url": "https://open.spotify.com/track/5P0y33C4m5uK9TcMHRnCsL"
@@ -4770,7 +4770,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 172241,
       "name": "Comincia a Scendere",
       "url": "https://open.spotify.com/track/4H3dzRAjdXttoud6nc2mfS"
@@ -7747,6 +7747,24 @@
     },
     {
       "album": {
+        "name": "FIORITI MALE",
+        "url": "https://open.spotify.com/album/1ACkx2Afdll3pDL5ESuR2G"
+      },
+      "artists": [
+        {
+          "name": "Zizzu",
+          "url": "https://open.spotify.com/artist/0zpSxvKs0CT4aktl3RAs0v"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178265,
+      "name": "FIORITI MALE",
+      "url": "https://open.spotify.com/track/1AJsOdzEwVa5KYKhVY0bjd"
+    },
+    {
+      "album": {
         "name": "fiume di parole",
         "url": "https://open.spotify.com/album/1vfdwQ7JuTqGrWdYjJQEAp"
       },
@@ -8952,7 +8970,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178857,
       "name": "High",
       "url": "https://open.spotify.com/track/0wssX2Fk0lgY3JKh9Neths"
@@ -11000,6 +11018,24 @@
       "duration_ms": 213000,
       "name": "Lentiggini",
       "url": "https://open.spotify.com/track/0xhmDNqppAu9RINKppTci8"
+    },
+    {
+      "album": {
+        "name": "LENTIGGINI",
+        "url": "https://open.spotify.com/album/6aeOCggQb28q7vHm6hp0Ug"
+      },
+      "artists": [
+        {
+          "name": "SETTEMBRE",
+          "url": "https://open.spotify.com/artist/3NYjsnTwQg5ukSulmf8JY2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179669,
+      "name": "LENTIGGINI",
+      "url": "https://open.spotify.com/track/1YXR6Fvqz6rRnZYStqVHNJ"
     },
     {
       "album": {
@@ -13301,6 +13337,24 @@
     },
     {
       "album": {
+        "name": "Monete e bottoni",
+        "url": "https://open.spotify.com/album/2ABh9W1UkXpNfCHkvrs2hB"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194989,
+      "name": "Monete e bottoni",
+      "url": "https://open.spotify.com/track/3MVod6kqB2E2VU1xrK9Hyj"
+    },
+    {
+      "album": {
         "name": "MORIRE DI ME",
         "url": "https://open.spotify.com/album/0lTQnegcGdJiLW5l6FLja3"
       },
@@ -14196,6 +14250,24 @@
       "duration_ms": 190589,
       "name": "Non Piove Pi\u00f9",
       "url": "https://open.spotify.com/track/6CJC0Dgf1oMOr8dlQKKMOs"
+    },
+    {
+      "album": {
+        "name": "Non Sei La Sola",
+        "url": "https://open.spotify.com/album/4ClY1O4Sl7MBrp5neKyudW"
+      },
+      "artists": [
+        {
+          "name": "Ube",
+          "url": "https://open.spotify.com/artist/2SBLpl3UnwEIwNIs8306nt"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177230,
+      "name": "Non Sei La Sola",
+      "url": "https://open.spotify.com/track/3y07JCnnKdjsaY2COJq1z2"
     },
     {
       "album": {
@@ -15200,7 +15272,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 146750,
       "name": "ONDA BLU",
       "url": "https://open.spotify.com/track/3DgaXWyyyn6A2vWmDpo2Gw"
@@ -15582,7 +15654,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 161454,
       "name": "Paracadute (feat. Disme)",
       "url": "https://open.spotify.com/track/0KNg6V1jqBBy1bjK0zKi4e"
@@ -16994,7 +17066,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 146774,
       "name": "PRENDI LA MIRA E BASTA",
       "url": "https://open.spotify.com/track/70FQOnXMKq3ZDUNPVJmeYR"
@@ -18299,6 +18371,24 @@
     },
     {
       "album": {
+        "name": "ROSA ROS\u00c0",
+        "url": "https://open.spotify.com/album/037tJtuaXKRrCXFvpxx5Q2"
+      },
+      "artists": [
+        {
+          "name": "Vergo",
+          "url": "https://open.spotify.com/artist/7fsXUIISzDuylzbl7ogr9y"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200680,
+      "name": "ROSA ROS\u00c0",
+      "url": "https://open.spotify.com/track/5dnMTTHHaOCxEYlDtfOjR2"
+    },
+    {
+      "album": {
         "name": "Rosario",
         "url": "https://open.spotify.com/album/1rilNWnpW6y7SGAUcHNH9L"
       },
@@ -19522,7 +19612,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 197040,
       "name": "smetto quando voglio",
       "url": "https://open.spotify.com/track/694An7ujUB5QBYKSysXw8H"
@@ -21106,6 +21196,24 @@
       "duration_ms": 197470,
       "name": "Ti capita mai ?",
       "url": "https://open.spotify.com/track/7sSnuo46bJGN0J5JWuidjX"
+    },
+    {
+      "album": {
+        "name": "ti ho cercata (felicit\u00e0)",
+        "url": "https://open.spotify.com/album/7EoXAfQj0sL4LTPqFxObig"
+      },
+      "artists": [
+        {
+          "name": "sangiovanni",
+          "url": "https://open.spotify.com/artist/7dL0nOHwnSAsNAwpkPSGWP"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203414,
+      "name": "ti ho cercata (felicit\u00e0)",
+      "url": "https://open.spotify.com/track/6mRL0OobMlS8E8oiQq4EcX"
     },
     {
       "album": {
@@ -22889,6 +22997,24 @@
     },
     {
       "album": {
+        "name": "Vatti a Scaldare",
+        "url": "https://open.spotify.com/album/7gFPvXELqf3e3yCKxmbtoQ"
+      },
+      "artists": [
+        {
+          "name": "DREN0",
+          "url": "https://open.spotify.com/artist/6MJDDniH4bMEau4fbi5oQM"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147529,
+      "name": "Vatti a Scaldare",
+      "url": "https://open.spotify.com/track/3wqwj0dpsWopgUkBb5bGp9"
+    },
+    {
+      "album": {
         "name": "vecchio spettro",
         "url": "https://open.spotify.com/album/0FzxEgJtf0Q9nepyUme6Z2"
       },
@@ -23218,6 +23344,24 @@
       "duration_ms": 182608,
       "name": "Virt\u00f9 dei fragili",
       "url": "https://open.spotify.com/track/2zQorQicWbyz2piMgK0U3b"
+    },
+    {
+      "album": {
+        "name": "vita adrenalina",
+        "url": "https://open.spotify.com/album/7fxnFavObQdO5b4kEtNaMp"
+      },
+      "artists": [
+        {
+          "name": "traparentesi",
+          "url": "https://open.spotify.com/artist/1NBMY4ez12zXYBIHApfrcX"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159438,
+      "name": "vita adrenalina",
+      "url": "https://open.spotify.com/track/2CeeDcXJQrrIGoOBBs8zzd"
     },
     {
       "album": {
@@ -23567,6 +23711,28 @@
     },
     {
       "album": {
+        "name": "WEEKEND",
+        "url": "https://open.spotify.com/album/7EyVPBZS25MdYCndvDv7rC"
+      },
+      "artists": [
+        {
+          "name": "Helmi",
+          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
+        },
+        {
+          "name": "Willy",
+          "url": "https://open.spotify.com/artist/3OPPr0QwjBGnWfaVkxBTow"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176440,
+      "name": "WEEKEND",
+      "url": "https://open.spotify.com/track/46tv2e5LZsyWnLqw3KMZbZ"
+    },
+    {
+      "album": {
         "name": "Weekend",
         "url": "https://open.spotify.com/album/2uneWiq89MM88wczRm3dv9"
       },
@@ -23854,7 +24020,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 128627,
       "name": "\u00c0 La Folie",
       "url": "https://open.spotify.com/track/1O05kineNAOAR8ldcmGy1U"

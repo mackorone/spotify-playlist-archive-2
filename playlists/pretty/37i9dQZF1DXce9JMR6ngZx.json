@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 254002,
+  "num_followers": 254027,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
+        "name": "Duran Duran",
+        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Come Undone",
+      "url": "https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
         "name": "Combat Rock (Remastered)",
         "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 237053,
       "name": "Flashdance...What a Feeling - Radio Edit",
       "url": "https://open.spotify.com/track/3cbV252akVZInSvJk7jAYX"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
-        "name": "Duran Duran",
-        "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
-      },
-      "artists": [
-        {
-          "name": "Duran Duran",
-          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Come Undone",
-      "url": "https://open.spotify.com/track/0yfNXxlyXdmP0ue1iJijx1"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Luz",
         "url": "https://open.spotify.com/album/3DSPggBtjAU0GtOSdNNn6x"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 288426,
       "name": "Samurai (feat. Stevie Wonder)",
       "url": "https://open.spotify.com/track/3BQAK2pnTpfZvLg2MUUU5i"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 370426,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "The Best Of The 80's",
         "url": "https://open.spotify.com/album/1WNKfSND9D7t30sBPDo1gr"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 228120,
       "name": "Girls Just Want to Have Fun",
       "url": "https://open.spotify.com/track/7sMGwiS4vOMcz86ZY3vKYM"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/1DWWb4Q39mp1T3NgyscowF"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 370426,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/7arHM2KZ0KzIZXFVDRGClI"
     },
     {
       "added_at": "2024-07-09 20:48:06",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-07-09 20:48:06",
       "album": {
-        "name": "Tom Tom Club",
-        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
-      },
-      "artists": [
-        {
-          "name": "Tom Tom Club",
-          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
-        }
-      ],
-      "duration_ms": 334360,
-      "name": "Genius of Love",
-      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
-    },
-    {
-      "added_at": "2024-07-09 20:48:06",
-      "album": {
         "name": "Go Back (Ao vivo)",
         "url": "https://open.spotify.com/album/3tCFVTX2k0Mtal2vOJlUzm"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 261398,
       "name": "Marvin - Ao vivo",
       "url": "https://open.spotify.com/track/0z4fJEy4zHxM4SkPUk5XEX"
+    },
+    {
+      "added_at": "2024-07-09 20:48:06",
+      "album": {
+        "name": "Tom Tom Club",
+        "url": "https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu"
+      },
+      "artists": [
+        {
+          "name": "Tom Tom Club",
+          "url": "https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo"
+        }
+      ],
+      "duration_ms": 334360,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef"
     },
     {
       "added_at": "2024-07-09 20:48:06",

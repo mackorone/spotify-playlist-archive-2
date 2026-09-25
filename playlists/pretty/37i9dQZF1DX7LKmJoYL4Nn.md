@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,377 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,380 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7LKmJoYL4Nn.md) - [plain]
 | 68 | [Love∞Scramble「両片思いの交差点で、君にまた逢いたくて」あんさんぶるスターズ！！ ESアイドルソング Extra \- Instrumental](https://open.spotify.com/track/2peA1KdBw3pmDqrnXwfI3n) | [Love∞Scramble](https://open.spotify.com/artist/530vyrjeFLJU163awYCLU7), [あんさんぶるスターズ！！](https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx) | [Love∞Scramble「両片思いの交差点で、君にまた逢いたくて」あんさんぶるスターズ！！ ESアイドルソング Extra \(Instrumental\)](https://open.spotify.com/album/6HCQeCSQSz8tkubFWK5VQt) | 4:45 |
 | 69 | [Have you been naughty or nice? \- Game Edit](https://open.spotify.com/track/09pdj4tB9lNyobvEZcxIe7) | [Flambé!/天城 燐音\(CV.阿座上 洋平\)、真白 友也\(CV.比留間 俊哉\)、明星 スバル\(CV.柿原 徹也\)、伏見 弓弦\(CV.橋本 晃太朗\)、七種 茨\(CV.逢坂 良太\)](https://open.spotify.com/artist/0JBdo51QAQ2mMOIH5ft1ag) | [あんさんぶるスターズ！！ Flambé！「Have you been naughty or nice?」 \(Game Edit\)](https://open.spotify.com/album/4HERdcQns4A7gHeCnspkc1) | 2:14 |
 | 70 | [EXCEED](https://open.spotify.com/track/38GxLG5AHziQ9ho4Qel0Vg) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [Eden「EXCEED」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/4B9IcoGyc8q4gmZTUB3pXr) | 3:50 |
-| 71 | [祝福のLibrary](https://open.spotify.com/track/7ql0h0LbkIgw8Dd45ERZMT) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Valkyrie](https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF) | 4:03 |
-| 72 | [Mischievous Party Time!!](https://open.spotify.com/track/28dWIXUcRv3uGlBlwF9psY) | [2wink/葵 ひなた&葵 ゆうた\(CV.斉藤壮馬\)](https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS) | [TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 \(vol.3\)](https://open.spotify.com/album/37RXOBxM051XIM195TlyXM) | 4:25 |
-| 73 | [Angelic Grace](https://open.spotify.com/track/0zJO7hUoSLutcwUAA7JsXx) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 fine](https://open.spotify.com/album/2SNuhzWNGPRSeEYEScL2Do) | 4:23 |
+| 71 | [Mischievous Party Time!!](https://open.spotify.com/track/28dWIXUcRv3uGlBlwF9psY) | [2wink/葵 ひなた&葵 ゆうた\(CV.斉藤壮馬\)](https://open.spotify.com/artist/4PCSbUSb6gjdnV0I5X0ErS) | [TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 \(vol.3\)](https://open.spotify.com/album/37RXOBxM051XIM195TlyXM) | 4:25 |
+| 72 | [Angelic Grace](https://open.spotify.com/track/0zJO7hUoSLutcwUAA7JsXx) | [fine/天祥院英智\(CV.緑川 光\)、日々樹 渉\(CV.江口拓也\)、姫宮桃李\(CV.村瀬 歩\)、伏見弓弦\(CV.橋本晃太朗\)](https://open.spotify.com/artist/7oK5LO53kXSt3xxFsENt4v) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 fine](https://open.spotify.com/album/2SNuhzWNGPRSeEYEScL2Do) | 4:23 |
+| 73 | [祝福のLibrary](https://open.spotify.com/track/7ql0h0LbkIgw8Dd45ERZMT) | [Valkyrie/斎宮 宗\(CV.高橋広樹\)、影片みか\(CV.大須賀 純\)](https://open.spotify.com/artist/0ji9EuoClUyb8331TfkBCA) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Valkyrie](https://open.spotify.com/album/3mb1ZiGpzS3snBjMKjFNgF) | 4:03 |
 | 74 | [VERMILION](https://open.spotify.com/track/3Bh5czKbGnsc7sudNCx2d8) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [ALKALOID「VERMILION」あんさんぶるスターズ！！ ESアイドルソング season3](https://open.spotify.com/album/2caB2hDjVnBBYyNltzIyoC) | 4:21 |
 | 75 | [Awakening Myth](https://open.spotify.com/track/7AG05wzbnra1jw4yJQV9nK) | [Eden/乱 凪砂\(CV.諏訪部順一\)、巴 日和\(CV.花江夏樹\)、七種 茨\(CV.逢坂良太\)、漣 ジュン\(CV.内田雄馬\)](https://open.spotify.com/artist/6l47ETaPCDcvm4aK89g2JK) | [TVアニメ 『あんさんぶるスターズ！』 EDテーマ集 \(vol.6\)](https://open.spotify.com/album/5LFBatATK7z6g0TSPZIepZ) | 3:54 |
 

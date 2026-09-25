@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 
 > This is Senses Fail\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,376 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,377 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 25 | [Wolves at the Door](https://open.spotify.com/track/48T4mKe6sqTNi6I22mYnYY) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 3:27 |
 | 26 | [Bonecrusher](https://open.spotify.com/track/5q3YCJXDJ6UntL4Bn1QDsZ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Still Searching \(Deluxe Version\)](https://open.spotify.com/album/4YRcdjj0Xm8KQUWmS2JXcZ) | 2:33 |
 | 27 | [Weight of the World](https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Weight of the World](https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr) | 3:12 |
-| 28 | [Lady in a Blue Dress](https://open.spotify.com/track/4ISxrOmpbJHFnY9s5qjZNq) | [Sparrow Sleeps](https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Lullaby covers of Senses Fail and Saves the Day songs](https://open.spotify.com/album/0SBZvGXx9SD4pYEby5N7ai) | 5:13 |
-| 29 | [War Paint](https://open.spotify.com/track/5mMhLIZv75n1I5RWjWqWg8) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Follow Your Bliss: The Best of Senses Fail](https://open.spotify.com/album/4JY52MmHoTWJCx6RhB3zrz) | 3:39 |
+| 28 | [War Paint](https://open.spotify.com/track/5mMhLIZv75n1I5RWjWqWg8) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Follow Your Bliss: The Best of Senses Fail](https://open.spotify.com/album/4JY52MmHoTWJCx6RhB3zrz) | 3:39 |
+| 29 | [Lady in a Blue Dress](https://open.spotify.com/track/4ISxrOmpbJHFnY9s5qjZNq) | [Sparrow Sleeps](https://open.spotify.com/artist/2VURgzr9TpBmYJEqU25RUw), [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Lullaby covers of Senses Fail and Saves the Day songs](https://open.spotify.com/album/0SBZvGXx9SD4pYEby5N7ai) | 5:13 |
 | 30 | [Yellow Angels](https://open.spotify.com/track/5xVZcdfTnCfCY2Xvsh05hS) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Life Is Not a Waiting Room](https://open.spotify.com/album/1GzlMqFXb8oj91bAMRLj0K) | 3:42 |
 | 31 | [Steven](https://open.spotify.com/track/5ildD6YKswSUMvlycdc25p) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [From The Depths Of Dreams](https://open.spotify.com/album/6qJZnJefZKyS3sNrbrFLAo) | 4:20 |
 | 32 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/6RTH6uELdnpz9zrPleN1BP) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:34 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31u6DZ.md) - [plain]
 | 42 | [Saint Anthony](https://open.spotify.com/track/5WBdIPNXqTJV1Q7VtVNpFv) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:15 |
 | 43 | [Mi Amor](https://open.spotify.com/track/39gXTmxpFrCYcSgnoietZJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:29 |
 | 44 | [New Jersey Makes, The World Takes](https://open.spotify.com/track/5gSNyHWbDZl6fiNBxRdpn5) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 2:59 |
-| 45 | [End of the World/A Game of Chess](https://open.spotify.com/track/7tBZqOMNXEIL1qXQ5gr9DC) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:56 |
-| 46 | [Life Is Not a Waiting Room](https://open.spotify.com/track/6GaplNmOixSpK6koJdW2NA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Family Tradition](https://open.spotify.com/album/2UZ8tcq93jQXdY3NMYBn3Z) | 3:19 |
+| 45 | [Life Is Not a Waiting Room](https://open.spotify.com/track/6GaplNmOixSpK6koJdW2NA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Family Tradition](https://open.spotify.com/album/2UZ8tcq93jQXdY3NMYBn3Z) | 3:19 |
+| 46 | [End of the World/A Game of Chess](https://open.spotify.com/track/7tBZqOMNXEIL1qXQ5gr9DC) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ), [Connie Sgarbossa](https://open.spotify.com/artist/7ymaeAGhITzan9ytguISsP), [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:56 |
 | 47 | [Lifeboats](https://open.spotify.com/track/04b8MNvFf9Wwv6hkjE3uNx) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [The Fire](https://open.spotify.com/album/6UPgoFeBEdlabQBR1QkZpS) | 3:32 |
 | 48 | [Elevator to the Gallows](https://open.spotify.com/track/5R8ZmiJJLJImekcqCcUJjA) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/1mbQAy6uzKts3zjDaUEvxY) | 3:44 |
-| 49 | [Death by Water](https://open.spotify.com/track/6v2q6EnJqTD71x31OFMvXS) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:49 |
-| 50 | [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 |
+| 49 | [Holy Mountain](https://open.spotify.com/track/6MLdM3mQrUzrwE3kqGRaxT) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Renacer](https://open.spotify.com/album/7Jt2OKLFWzwgqqUAOCZ0Q0) | 3:49 |
+| 50 | [Death by Water](https://open.spotify.com/track/6v2q6EnJqTD71x31OFMvXS) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [Hell is in Your Head](https://open.spotify.com/album/7ruVtbmk66uo67h6Si81Fw) | 3:49 |
 
-Snapshot ID: `arHFAAAAAACDvoe1dm5Ux/DBUcvb9XMZ`
+Snapshot ID: `arMWgAAAAABvbamhyghnkX+ZbRRDkLii`

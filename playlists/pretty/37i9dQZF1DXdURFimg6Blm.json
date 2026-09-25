@@ -1,6 +1,6 @@
 {
   "description": "Boost your energy with these dance tracks.",
-  "num_followers": 1486025,
+  "num_followers": 1486115,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,26 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
+        "name": "Favour",
+        "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 194890,
+      "name": "Favour",
+      "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
         "name": "World Away",
         "url": "https://open.spotify.com/album/6k2I7QkXRPlWzylh7UsFIx"
       },
@@ -631,22 +651,22 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "Favour",
-        "url": "https://open.spotify.com/album/2Cu1dQasaSEVPqG3nq8ILq"
+        "name": "Can I Ride",
+        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
       },
       "artists": [
         {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
         },
         {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+          "name": "95 South",
+          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
         }
       ],
-      "duration_ms": 194890,
-      "name": "Favour",
-      "url": "https://open.spotify.com/track/44wR4NqR75eJMETxrz59Sr"
+      "duration_ms": 163888,
+      "name": "Can I Ride",
+      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -675,26 +695,6 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "Can I Ride",
-        "url": "https://open.spotify.com/album/4N2frseoAuec502jnHYCb8"
-      },
-      "artists": [
-        {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "95 South",
-          "url": "https://open.spotify.com/artist/3vjd6YHdWCqO3MWaYbxDf0"
-        }
-      ],
-      "duration_ms": 163888,
-      "name": "Can I Ride",
-      "url": "https://open.spotify.com/track/3gXGtYT41b4FXYctdxMwCI"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
         "name": "MYSTERY OF RAW",
         "url": "https://open.spotify.com/album/4bIsm7G40iX21BGY567Xaw"
       },
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "Rave Never Ends",
-        "url": "https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX"
-      },
-      "artists": [
-        {
-          "name": "Novah",
-          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
-        }
-      ],
-      "duration_ms": 207870,
-      "name": "Rave Never Ends",
-      "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
         "name": "Rain",
         "url": "https://open.spotify.com/album/5T5eRxgbtOfZw6L8zrWt52"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 208640,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1xtDflWAisSMU7k6QHG71U"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
+        "name": "Rave Never Ends",
+        "url": "https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX"
+      },
+      "artists": [
+        {
+          "name": "Novah",
+          "url": "https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF"
+        }
+      ],
+      "duration_ms": 207870,
+      "name": "Rave Never Ends",
+      "url": "https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -787,22 +787,6 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "Can't Slow Down",
-        "url": "https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1"
-      },
-      "artists": [
-        {
-          "name": "Omar+",
-          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
-        }
-      ],
-      "duration_ms": 177240,
-      "name": "Can't Slow Down",
-      "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
         "name": "Back To Funk",
         "url": "https://open.spotify.com/album/5pELdg3Dntw5icXk1N7QiN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 219111,
       "name": "Back To Funk",
       "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
+        "name": "Can't Slow Down",
+        "url": "https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1"
+      },
+      "artists": [
+        {
+          "name": "Omar+",
+          "url": "https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc"
+        }
+      ],
+      "duration_ms": 177240,
+      "name": "Can't Slow Down",
+      "url": "https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "SOMA",
-        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 203571,
-      "name": "Noche Without You",
-      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
         "name": "Stomp Your Feet",
         "url": "https://open.spotify.com/album/45vmjBcHoZfCrChrHFdCoT"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 210580,
       "name": "Stomp Your Feet",
       "url": "https://open.spotify.com/track/494lD6w8j07gDMub1UFd07"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
+        "name": "SOMA",
+        "url": "https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv"
+      },
+      "artists": [
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 203571,
+      "name": "Noche Without You",
+      "url": "https://open.spotify.com/track/00FMfKay6lHHQpFLTSaCZe"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
+        "name": "sound di alarm",
+        "url": "https://open.spotify.com/album/6BIVBxODB2ZY7Xmt9HuyPf"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 220444,
+      "name": "sound di alarm",
+      "url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
         "name": "For The Soul",
         "url": "https://open.spotify.com/album/2aOqjUv4Fw2t7TuUoIujEW"
       },
@@ -1487,22 +1503,6 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "sound di alarm",
-        "url": "https://open.spotify.com/album/6BIVBxODB2ZY7Xmt9HuyPf"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 220444,
-      "name": "sound di alarm",
-      "url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
         "name": "The Way I Are (Max Dean Remix)",
         "url": "https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "$MONEY",
-        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
-      },
-      "artists": [
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 154898,
-      "name": "$MONEY",
-      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
-    },
-    {
-      "added_at": "2026-09-18 04:02:33",
-      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/2tENxRVzu8QejEn6bmcmsc"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 149516,
       "name": "Talk",
       "url": "https://open.spotify.com/track/2EA3soO6codXlcY4CmtJMt"
+    },
+    {
+      "added_at": "2026-09-18 04:02:33",
+      "album": {
+        "name": "$MONEY",
+        "url": "https://open.spotify.com/album/5dQYI26DBmHOksNfPoUtys"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 154898,
+      "name": "$MONEY",
+      "url": "https://open.spotify.com/track/0LMLLGttUBquTqTGVHAXt2"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -1671,26 +1671,18 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "Turn The Tide (ft. Sylver)",
-        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
+        "name": "I Need Your Lovin'",
+        "url": "https://open.spotify.com/album/2uukapgbed8sqMqHQrmlTI"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas",
-          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
-        },
-        {
-          "name": "Sylver",
-          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
-        },
-        {
-          "name": "Pat B",
-          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
         }
       ],
-      "duration_ms": 135483,
-      "name": "Turn The Tide (ft. Sylver)",
-      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
+      "duration_ms": 168000,
+      "name": "I Need Your Lovin'",
+      "url": "https://open.spotify.com/track/5Tjkz9SXrtWdwQmEm11ZPS"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -1711,18 +1703,26 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "I Need Your Lovin'",
-        "url": "https://open.spotify.com/album/2uukapgbed8sqMqHQrmlTI"
+        "name": "Turn The Tide (ft. Sylver)",
+        "url": "https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW"
       },
       "artists": [
         {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Sylver",
+          "url": "https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy"
+        },
+        {
+          "name": "Pat B",
+          "url": "https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb"
         }
       ],
-      "duration_ms": 168000,
-      "name": "I Need Your Lovin'",
-      "url": "https://open.spotify.com/track/5Tjkz9SXrtWdwQmEm11ZPS"
+      "duration_ms": 135483,
+      "name": "Turn The Tide (ft. Sylver)",
+      "url": "https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -1843,18 +1843,22 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "Enigma POV",
-        "url": "https://open.spotify.com/album/6XWlhXnqaiuAq8eFQx0Ocg"
+        "name": "The Dreams Strange and Eternal",
+        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
       },
       "artists": [
         {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "FORS",
+          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
         }
       ],
-      "duration_ms": 172070,
-      "name": "Gangsta",
-      "url": "https://open.spotify.com/track/74xu2XF8jnZRiwF4S0Gce1"
+      "duration_ms": 233794,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
     },
     {
       "added_at": "2026-09-18 04:02:33",
@@ -1879,22 +1883,18 @@
     {
       "added_at": "2026-09-18 04:02:33",
       "album": {
-        "name": "The Dreams Strange and Eternal",
-        "url": "https://open.spotify.com/album/0HNfjZPkOShrNG7SDlPEHM"
+        "name": "Enigma POV",
+        "url": "https://open.spotify.com/album/6XWlhXnqaiuAq8eFQx0Ocg"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "FORS",
-          "url": "https://open.spotify.com/artist/3IG2AmQqnXTje1NHlIQViX"
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
         }
       ],
-      "duration_ms": 233794,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2OthEiwV03Y4uMCEix6oZ5"
+      "duration_ms": 172070,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/74xu2XF8jnZRiwF4S0Gce1"
     },
     {
       "added_at": "2026-09-18 04:02:33",

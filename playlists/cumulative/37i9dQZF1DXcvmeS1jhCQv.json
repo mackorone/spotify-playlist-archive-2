@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "The best new Irish music in one place \ud83d\udccd cover: The Mary Wallopers",
+  "description": "The best new Irish music in one place \ud83d\udccd cover: Aaron Rowe",
   "name": "Today's Ireland",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 263284,
       "name": "A Mark on You",
       "url": "https://open.spotify.com/track/7KhBGhSoGtjTTvbIApW06y"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178500,
       "name": "C'est La Vie",
       "url": "https://open.spotify.com/track/5W9GYaW9EHNUGgPPLjlK9f"
@@ -2342,6 +2342,24 @@
       "duration_ms": 193197,
       "name": "Descartes",
       "url": "https://open.spotify.com/track/1VOBsB3ozaoQv3i6Uts3O1"
+    },
+    {
+      "album": {
+        "name": "Devil The Door",
+        "url": "https://open.spotify.com/album/6PhxZzb10bcV2Y1jvGninh"
+      },
+      "artists": [
+        {
+          "name": "Isaac Butler",
+          "url": "https://open.spotify.com/artist/6WNQZiST6bmusWFp51hV7p"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158023,
+      "name": "Devil The Door",
+      "url": "https://open.spotify.com/track/31rBh8MHgELdAjNEByCzJH"
     },
     {
       "album": {
@@ -3368,7 +3386,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 184000,
       "name": "For The Boys",
       "url": "https://open.spotify.com/track/0S2pDnQzdCmDxHKOIh5taS"
@@ -4096,10 +4114,28 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 251294,
       "name": "How Is It Fair",
       "url": "https://open.spotify.com/track/2QfZ8N6DpJs1Hv3dr5YFdQ"
+    },
+    {
+      "album": {
+        "name": "How Lonely",
+        "url": "https://open.spotify.com/album/0szH0V7q7wxhn47PBYQfVl"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "How Lonely",
+      "url": "https://open.spotify.com/track/4sjZn5XgFvFEilkZ2HbCvB"
     },
     {
       "album": {
@@ -5010,6 +5046,24 @@
       "duration_ms": 178118,
       "name": "Kit Kat Club",
       "url": "https://open.spotify.com/track/069KRt3LNYWB9Hc2l59xxf"
+    },
+    {
+      "album": {
+        "name": "Know By Now",
+        "url": "https://open.spotify.com/album/1kDxewOjZxvBtzkC2q1MtV"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255323,
+      "name": "Know By Now",
+      "url": "https://open.spotify.com/track/5P9U1gHw09Jx9jPnfXbAxh"
     },
     {
       "album": {
@@ -6165,6 +6219,24 @@
     },
     {
       "album": {
+        "name": "Near",
+        "url": "https://open.spotify.com/album/0u1YdCykKtiFNNTt4Fh7RM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9av",
+          "url": "https://open.spotify.com/artist/0nBRo87bTZegzYDnIiWkH7"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249708,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/3ggaWEf47wUzWJkaY2BCod"
+    },
+    {
+      "album": {
         "name": "Need",
         "url": "https://open.spotify.com/album/7z4Q4ICouWxiuYDW9ItDnV"
       },
@@ -6642,6 +6714,24 @@
       "duration_ms": 164875,
       "name": "on my way",
       "url": "https://open.spotify.com/track/4Ug6Z80Gn1FRkvmm043V5K"
+    },
+    {
+      "album": {
+        "name": "On The Edge",
+        "url": "https://open.spotify.com/album/6sstHyt94tFKETGeHzFdz5"
+      },
+      "artists": [
+        {
+          "name": "Bradley Marshall",
+          "url": "https://open.spotify.com/artist/41l2yNxDG4VydqE4lvbm1y"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "On The Edge",
+      "url": "https://open.spotify.com/track/63GJtX5Y6LqhNrIV2eW4Pg"
     },
     {
       "album": {
@@ -7897,6 +7987,24 @@
     },
     {
       "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155648,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
+    },
+    {
+      "album": {
         "name": "Even Unto The Next World",
         "url": "https://open.spotify.com/album/45AaZMbGVXv0ZPyFv6gbMR"
       },
@@ -8366,7 +8474,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 265937,
       "name": "stepping outside",
       "url": "https://open.spotify.com/track/6i7QPGVpVmltzVDNDnRhPV"
@@ -8528,7 +8636,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 234657,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
@@ -9819,6 +9927,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Coming To Save You",
+        "url": "https://open.spotify.com/album/0Fbl6tfN7XDyNutXNI3nlD"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180232,
+      "name": "Waiting For Fisher",
+      "url": "https://open.spotify.com/track/1i6RUTWpIoXKTdhcU1upVf"
+    },
+    {
+      "album": {
         "name": "Waiting Room",
         "url": "https://open.spotify.com/album/25R3RUlOhwyroov3MpT5Eo"
       },
@@ -9996,7 +10122,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 200000,
       "name": "We Were Only Young",
       "url": "https://open.spotify.com/track/6SzPfJJegDfsltDble6ZSG"

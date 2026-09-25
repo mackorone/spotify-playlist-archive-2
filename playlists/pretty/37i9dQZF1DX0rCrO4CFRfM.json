@@ -1,6 +1,6 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 1100357,
+  "num_followers": 1100411,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
+        "name": "Decode",
+        "url": "https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 267466,
+      "name": "Decode - Acoustic Version",
+      "url": "https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
         "name": "MTV Unplugged (Live)",
         "url": "https://open.spotify.com/album/3IdmuALhor6bV32o4VVSFo"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 235800,
       "name": "Freak on a Leash (feat. Amy Lee) - Live At MTV Studio, NYC, 2006",
       "url": "https://open.spotify.com/track/0CMo36AWojJ04Gb3GKf604"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
-        "name": "Decode",
-        "url": "https://open.spotify.com/album/043vwbrz69dFkM7LL5bBo2"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 267466,
-      "name": "Decode - Acoustic Version",
-      "url": "https://open.spotify.com/track/5JxZgmOjx6j1StzrOq85HK"
     },
     {
       "added_at": "2026-04-08 19:46:17",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-04-08 19:46:17",
       "album": {
-        "name": "Us and Them (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Save Me - Acoustic",
-      "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
-    },
-    {
-      "added_at": "2026-04-08 19:46:17",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 224353,
       "name": "Island in the Sun - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
+    },
+    {
+      "added_at": "2026-04-08 19:46:17",
+      "album": {
+        "name": "Us and Them (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Save Me - Acoustic",
+      "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
     },
     {
       "added_at": "2026-04-08 19:46:17",

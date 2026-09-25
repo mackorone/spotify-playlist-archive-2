@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > New and recent favorites of Prog Metal\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,634 likes - 150 songs - 13 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,680 likes - 150 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,15 +142,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 132 | [Subatlantic](https://open.spotify.com/track/5aQwquM8wHf0X7OktRg69P) | [The Ocean](https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq) | [Subatlantic](https://open.spotify.com/album/5EeaoNCpy5e8lI6NbV6h21) | 6:55 |
 | 133 | [Advent](https://open.spotify.com/track/2px9mi7GbVZZ6RusPID9a3) | [Gus G.](https://open.spotify.com/artist/6LEttL8kbm67tcEy84Qh5O) | [Advent](https://open.spotify.com/album/2fZv7TL9N67yLmb8lJbj5c) | 4:03 |
 | 134 | [Overwhelming Love](https://open.spotify.com/track/4Debc38ny5Sz1kJ0X9SU8X) | [Lee McKinney](https://open.spotify.com/artist/5CotvGkMRk09lfNGt4i7nn) | [Overwhelming Love](https://open.spotify.com/album/7AKhS9gGnRyTEh6gsdnXpn) | 3:44 |
-| 135 | [Shallow Ecstasy](https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9) | [Tómarúm](https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ) | [Beyond Obsidian Euphoria](https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs) | 7:02 |
-| 136 | [淨化 Purge \(feat\. Devin Townsend\)](https://open.spotify.com/track/1ghjSbOICxweO2X9toPij4) | [OU](https://open.spotify.com/artist/3jErOJR4avnhfZuyHogWRb), [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [蘇醒 II: Frailty](https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH) | 5:02 |
+| 135 | [淨化 Purge \(feat\. Devin Townsend\)](https://open.spotify.com/track/1ghjSbOICxweO2X9toPij4) | [OU](https://open.spotify.com/artist/3jErOJR4avnhfZuyHogWRb), [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [蘇醒 II: Frailty](https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH) | 5:02 |
+| 136 | [Shallow Ecstasy](https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9) | [Tómarúm](https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ) | [Beyond Obsidian Euphoria](https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs) | 7:02 |
 | 137 | [Salamander in Two Worlds](https://open.spotify.com/track/3ZaIvAnZRhxLNemyyRErHH) | [Sleepytime Gorilla Museum](https://open.spotify.com/artist/74KPeP60dRLSAAk7sFtWTC) | [of the Last Human Being](https://open.spotify.com/album/21sPynlIngwnuIOcltyRjv) | 6:30 |
 | 138 | [Third Shot](https://open.spotify.com/track/5x7efls0j9BZt1jgQXU36T) | [Astronoid](https://open.spotify.com/artist/2S13OV7nLeciVigE0Wxo7E) | [Third Shot](https://open.spotify.com/album/0VuG7jFHxSTKxR3ggdKm2v) | 5:12 |
 | 139 | [Fear](https://open.spotify.com/track/4Sly8l7P3M4jyItnrCszeB) | [Tayne](https://open.spotify.com/artist/0YhYfoCTZKEw5VwaC7dasF), [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI), [James Spence](https://open.spotify.com/artist/4xkFkSduLRpzxrVpZMpvVv) | [Fear](https://open.spotify.com/album/1YyIQsF7te1vM4EBz2h1Bg) | 3:52 |
 | 140 | [To You, Author of My Fade](https://open.spotify.com/track/0kML9DjM0co9mchI1d3j9g) | [Fires in the Distance](https://open.spotify.com/artist/18uSn0X1chr8YsK4N09OQw) | [To You, Author of My Fade](https://open.spotify.com/album/2apM6rDpbU4nU8nn0338c8) | 9:03 |
 | 141 | [Moral and Consequence](https://open.spotify.com/track/3cOfZRIrGGGnNdkndnmtEC) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Moral and Consequence](https://open.spotify.com/album/04miOpfHNxtzJXZ0KEywz0) | 8:13 |
-| 142 | [Borderline Syndrome](https://open.spotify.com/track/5iaJDLrxZ80mIvH4oveRZb) | [Monosphere](https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW) | [Sentience](https://open.spotify.com/album/6iRzTS4biCbb2VukIwB9nT) | 6:48 |
-| 143 | [Night Drive](https://open.spotify.com/track/7E8a8acAtiOb9PrrzAvzwN) | [Kingcrow](https://open.spotify.com/artist/3nnSgQo8TIgiO5M5pv3mlV) | [Night Drive](https://open.spotify.com/album/2HJNfZHpYBBwMCNIwYYgZ1) | 5:48 |
+| 142 | [Night Drive](https://open.spotify.com/track/7E8a8acAtiOb9PrrzAvzwN) | [Kingcrow](https://open.spotify.com/artist/3nnSgQo8TIgiO5M5pv3mlV) | [Night Drive](https://open.spotify.com/album/2HJNfZHpYBBwMCNIwYYgZ1) | 5:48 |
+| 143 | [Borderline Syndrome](https://open.spotify.com/track/5iaJDLrxZ80mIvH4oveRZb) | [Monosphere](https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW) | [Sentience](https://open.spotify.com/album/6iRzTS4biCbb2VukIwB9nT) | 6:48 |
 | 144 | [Fragile Space](https://open.spotify.com/track/3jqbSOib3SFAp6hYSH0m18) | [Poh Hock](https://open.spotify.com/artist/0KBR26P2goagfV6qJWctFB), [Robert Edens](https://open.spotify.com/artist/2EmddVdQjFPPvnm1Xx5NfK) | [Gallimaufry](https://open.spotify.com/album/5TqrK0OA6CcOtei9BmUHKK) | 4:15 |
 | 145 | [Last Words](https://open.spotify.com/track/56yYEdtCwFKmDi8AxIE0kr) | [Fear Of Domination](https://open.spotify.com/artist/4KmUqzBGTHWlO46RpvMBUq) | [Last Words](https://open.spotify.com/album/0SEsztV9haMjD25LufYrXr) | 2:58 |
 | 146 | [Hotel Sphinx](https://open.spotify.com/track/0I4KEXWHq6jgx2VC0yq2ut) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Hotel Sphinx](https://open.spotify.com/album/4BhW8SgM0s7j5e4fG2nXVu) | 4:49 |

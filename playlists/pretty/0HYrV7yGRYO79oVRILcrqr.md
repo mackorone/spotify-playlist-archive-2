@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,903 likes - 107 songs - 6 hr 58 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,903 likes - 108 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 105 | [Não Venha Sem Avisar](https://open.spotify.com/track/3HXJlragpVyaqhoAjtWwoJ) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [Não Venha Sem Avisar](https://open.spotify.com/album/2EUidS1qnhNkBZzAvPTPgs) | 2:51 |
 | 106 | [Possible](https://open.spotify.com/track/4mdD2qrnobannLKENWVMDU) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Songs for Then & Now](https://open.spotify.com/album/16w9zdNL64AwkIlGFo4FRj) | 3:29 |
 | 107 | [Sommarn i mitt blod](https://open.spotify.com/track/6iBP2rjjCJcqt7ePYz9ErV) | [FALK](https://open.spotify.com/artist/1VvF9lnZujLwBlhfnA2RQr) | [Sommarn i mitt blod](https://open.spotify.com/album/3pnLECNV3u5d0vvzOCZgf2) | 3:46 |
+| 108 | [Down By The Riverwalk](https://open.spotify.com/track/70JWZTozKvr338lVmcz9or) | [Dane Walden](https://open.spotify.com/artist/2sjjV36oWAkKZhcoNomT6m) | [Down By The Riverwalk](https://open.spotify.com/album/6TwSKoOxgFhunYbSDNRFsn) | 4:25 |
 
-Snapshot ID: `AAAMmK2X6Rj4Ewgxj79ThJJgIsF2oF/K`
+Snapshot ID: `AAAMmfz8oK8vEc5zyd8tYCw4UHg+J3QV`

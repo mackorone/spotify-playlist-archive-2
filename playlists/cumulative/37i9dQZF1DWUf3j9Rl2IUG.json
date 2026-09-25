@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: Fireboy DML, JAZZWRLD, Thukuthela",
+  "description": "Afrobeats' hottest singles. Cover: Shoday",
   "name": "Gbedu",
   "tracks": [
     {
@@ -450,7 +450,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 128000,
       "name": "Alhaja",
       "url": "https://open.spotify.com/track/70hnjIZjLXDmXcsByrgMjl"
@@ -2851,6 +2851,28 @@
     },
     {
       "album": {
+        "name": "CHE",
+        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146064,
+      "name": "CHE",
+      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
+    },
+    {
+      "album": {
         "name": "Che Che (feat. Asake)",
         "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
       },
@@ -3436,7 +3458,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 126338,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/08Bu0BYPYMgbuIOHnO8bs4"
@@ -3454,7 +3476,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171111,
       "name": "Dantata",
       "url": "https://open.spotify.com/track/7s1qMnMylBNHNF4odSWG1d"
@@ -3614,6 +3636,24 @@
       "duration_ms": 155121,
       "name": "Dey Your Dey",
       "url": "https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9"
+    },
+    {
+      "album": {
+        "name": "SWAGUU",
+        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158589,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
     },
     {
       "album": {
@@ -5572,7 +5612,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 149605,
       "name": "FYNE",
       "url": "https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4"
@@ -5902,6 +5942,24 @@
       "duration_ms": 179485,
       "name": "Giza (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/1JqxgXNhqWpFss7nZzlwOz"
+    },
+    {
+      "album": {
+        "name": "Dear London",
+        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Glass in the Air",
+      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
     },
     {
       "album": {
@@ -7142,7 +7200,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 173142,
       "name": "ITALAWA",
       "url": "https://open.spotify.com/track/44K1rPDc6B0dIXt5Iub1yP"
@@ -7996,7 +8054,7 @@
       ],
       "date_added": "2026-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178983,
       "name": "Lalala",
       "url": "https://open.spotify.com/track/3xhJ7Caxt02YEGRkTZlNU0"
@@ -8530,7 +8588,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 176159,
       "name": "Love",
       "url": "https://open.spotify.com/track/4ACbff3fw2FkJ0xtJWilck"
@@ -9428,7 +9486,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 168331,
       "name": "Ms. Paper (feat. Theodora)",
       "url": "https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI"
@@ -10773,6 +10831,36 @@
     },
     {
       "album": {
+        "name": "Owo Oluwa (feat. Young Jonn, Krizbeatz & Wave Choir)",
+        "url": "https://open.spotify.com/album/63TbRZjT5dtOWaK7ASJ5ql"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Krizbeatz",
+          "url": "https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT"
+        },
+        {
+          "name": "Wave Choir",
+          "url": "https://open.spotify.com/artist/6CKSrDs4vniJIYpAUgWLaO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177610,
+      "name": "Owo Oluwa (feat. Young Jonn, Krizbeatz & Wave Choir)",
+      "url": "https://open.spotify.com/track/1l1y5S87c7TB1SQeqYPXQ8"
+    },
+    {
+      "album": {
         "name": "Ozumba Mbadiwe",
         "url": "https://open.spotify.com/album/6oYKhPbYdaaYGGnqZIqlNs"
       },
@@ -11418,7 +11506,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 130285,
       "name": "Realize",
       "url": "https://open.spotify.com/track/4Csp1FoGA3io0pcH1h9xpf"
@@ -13740,7 +13828,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 165625,
       "name": "Waist",
       "url": "https://open.spotify.com/track/3sW9XZW5xK95CXBHrwNFiK"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0w8k0WrDYA.md) - [plain]
 
 > Return to Hawkins, listen to the music from the animated series Stranger Things: Tales From ‘85.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,034 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,067 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

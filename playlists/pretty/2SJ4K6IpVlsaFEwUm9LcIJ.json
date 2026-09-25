@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: july-august 2026 (previous playlists archived on my profile)",
-  "num_followers": 24627,
+  "num_followers": 24632,
   "original_name": "spacked out!!!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAOsUU3jjL5D+F/Kp9CbaCqzKzwOGtn",
+  "snapshot_id": "AAAOs6DtiiwTgzy2xXIWiwUzIDQY/ysp",
   "tracks": [
     {
       "added_at": "2026-07-06 01:28:22",
@@ -723,38 +723,6 @@
       "duration_ms": 211013,
       "name": "Dino",
       "url": "https://open.spotify.com/track/6Nwp612WhVxuIVwbxKqUKH"
-    },
-    {
-      "added_at": "2026-08-27 23:08:05",
-      "album": {
-        "name": "Ghosts of the Great Highway",
-        "url": "https://open.spotify.com/album/1JpwFoxVVutPXtSBohj0rJ"
-      },
-      "artists": [
-        {
-          "name": "Sun Kil Moon",
-          "url": "https://open.spotify.com/artist/4G0XDEk7RbA4BBCTs917U9"
-        }
-      ],
-      "duration_ms": 381040,
-      "name": "Carry Me Ohio",
-      "url": "https://open.spotify.com/track/6sNT5PF1SjTYgMiAIQGYMd"
-    },
-    {
-      "added_at": "2026-09-03 13:02:29",
-      "album": {
-        "name": "Supersonic Faster",
-        "url": "https://open.spotify.com/album/6H4XOjzMs0efuJaUoqTCnS"
-      },
-      "artists": [
-        {
-          "name": "Genevieve Artadi",
-          "url": "https://open.spotify.com/artist/4FGpdN4lqGwjrFx9f2E1RI"
-        }
-      ],
-      "duration_ms": 115000,
-      "name": "Supersonic Faster",
-      "url": "https://open.spotify.com/track/7FrolHHjlzcKBiMEVZiI1H"
     }
   ],
   "unique_name": "spacked out!!!",

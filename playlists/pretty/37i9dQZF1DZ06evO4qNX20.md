@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 
 > This is Chalino Sanchez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,511 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,523 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4qNX20.md) - [plain]
 | 49 | [La Muerte Del Pela Vacas](https://open.spotify.com/track/4ODJkts9eCIZFMBr2m3YKE) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Chalino Sánchez y Cornelio Reyna, Vol\. 2](https://open.spotify.com/album/4pxNYjILuiD9ro6cwrfjT8) | 3:09 |
 | 50 | [Corrido de Rosalino \- Remastered 2025](https://open.spotify.com/track/2nYtDxtPjn5TQXPAnsn8uU) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Canta Corridos al Estilo Culiacán \(Remastered 2025\)](https://open.spotify.com/album/0jcI7bVG13NCyxphp60wCG) | 2:45 |
 
-Snapshot ID: `arHFAAAAAADLo/qrrdn278bpJtTqIST2`
+Snapshot ID: `arMWgAAAAACUZHXwnRBKLzPUuyp0S6Wt`

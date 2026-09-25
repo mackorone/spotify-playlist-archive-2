@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,940 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,022 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 7 | [Déjenme Hacer Dinero](https://open.spotify.com/track/36Sb1v2RoaxKDFkzergWCO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Déjenme Hacer Dinero](https://open.spotify.com/album/0EfL3Mc1ApalTVk7roCO5y) | 3:11 |
 | 8 | [Buena Suerte](https://open.spotify.com/track/7bl6zLYsNqpNQnI2bT8bR6) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Buena Suerte](https://open.spotify.com/album/6q7qOFkHzyucZQVIcCJOYo) | 3:54 |
 | 9 | [Sin Pagar Renta](https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sin Pagar Renta](https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9) | 3:22 |
-| 10 | [El Pocho 43](https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN) | 3:47 |
-| 11 | [Mingo](https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mingo](https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq) | 3:08 |
+| 10 | [Mingo](https://open.spotify.com/track/3uPXS3Ww3XrcD8Qv3ZzqUR) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mingo](https://open.spotify.com/album/4mfXgQxvWFc6rGBVJU40Eq) | 3:08 |
+| 11 | [El Pocho 43](https://open.spotify.com/track/3dh0r1yRhQK48Dy11gAYzw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho 43](https://open.spotify.com/album/5Xh2F18vrwX7NozpAT1rAN) | 3:47 |
 | 12 | [La Fea](https://open.spotify.com/track/6qRDRRc6ySs99VGB1KTNsf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Fea](https://open.spotify.com/album/3n6DUly3Kcoc99f8qM9jxf) | 4:05 |
 | 13 | [Perfecta](https://open.spotify.com/track/0wnSZFhtJPNPXUDCDcgwVb) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/5QO74wVxf1sYdJQUP8pmZR) | 3:34 |
 | 14 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Nunca Se Imaginó](https://open.spotify.com/track/6at5CSe9grrC30rQwdI0bQ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:38 |
 | 50 | [Primer Tiempo](https://open.spotify.com/track/0FEniDA74LuWEScdiQRmpI) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Primer Tiempo](https://open.spotify.com/album/0A4OediUQq2lXiFq0OB7gX) | 3:32 |
 
-Snapshot ID: `arHFAAAAAADPDtJWkvhGmMoEVVqE+Pes`
+Snapshot ID: `arMWgAAAAAAHkpeVM2SiWezxv/UAOZXd`

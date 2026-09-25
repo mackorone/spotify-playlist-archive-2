@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: KUKO
 
-545 songs - 1 day 3 hr 37 min
+547 songs - 1 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [FANTASIZE](https://open.spotify.com/track/155OwUtXixaS773beh6FBD) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [FANTASIZE](https://open.spotify.com/album/0V9G9Hpr3BehgRxg7yuCsv) | 6:32 | 2023-06-15 | 2023-08-18 |
 | [Feel Good](https://open.spotify.com/track/3Qhb33VQRVAfCVEa1oga05) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Feel Good](https://open.spotify.com/album/6p4rt48ywuUFCaQtbicjUy) | 3:17 | 2021-12-16 | 2022-10-28 |
 | [Feel Myself](https://open.spotify.com/track/7AwKM6qHhGkG1ilcFxiE99) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feel Myself / Wait For You](https://open.spotify.com/album/1MOECz6wUor32h4IdlQj3F) | 2:44 | 2025-07-24 | 2026-07-03 |
+| [Feels Right](https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feels Right](https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj) | 3:09 | 2026-09-24 |  |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-01 | 2023-07-28 |
 | [FEHLER](https://open.spotify.com/track/5FtUIB7VhWGi9ZmcFFeNHU) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [FEHLER](https://open.spotify.com/album/2rFYSttek6eovCXxI704e8) | 2:10 | 2026-04-09 |  |
 | [Fight Club](https://open.spotify.com/track/0FEFxWAXIdiOmoYUunbvmM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Fight Club](https://open.spotify.com/album/4Iz5KATqaPjcE8HxlwsHB6) | 3:37 | 2023-12-08 | 2024-02-08 |
@@ -435,7 +436,7 @@
 | [Strategie](https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Strategie](https://open.spotify.com/album/34eP5UA9AbhmLKQWge5TiM) | 2:38 | 2024-06-27 | 2024-09-06 |
 | [Suffer](https://open.spotify.com/track/2zVfQnoQ13vUtDgeQtdAHQ) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Suffer](https://open.spotify.com/album/6AbCeJrzZyaHhm7DWDeZ24) | 2:19 | 2026-06-18 |  |
 | [Summer Affair](https://open.spotify.com/track/2cr0fZFpNvzp9cBaIkld6Q) | [Mary Middlefield](https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs) | [Summer affair](https://open.spotify.com/album/1M4FYcP7I3Zv4jvDHGjsoV) | 3:26 | 2025-06-26 | 2026-04-04 |
-| [Summer Nights](https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Nights](https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ) | 3:40 | 2026-07-16 |  |
+| [Summer Nights](https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Nights](https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ) | 3:40 | 2026-07-16 | 2026-09-25 |
 | [Summertime Love](https://open.spotify.com/track/1E9EYbxszlcWOzJcl5ZCDC) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Summertime Love](https://open.spotify.com/album/6EwEfoNXHySH3y02pMYxAb) | 2:35 | 2023-08-31 | 2025-06-20 |
 | [Sun Is Gone](https://open.spotify.com/track/5hUEi4BzzroXKvvkIScbaw) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun Is Gone](https://open.spotify.com/album/0vWqpUqVXx9mSCwbNq2TlB) | 1:36 | 2025-07-24 | 2025-09-19 |
 | [Survival Mode \(Intro\)](https://open.spotify.com/track/6xfjR5HmYHnabfSKvjoh0M) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode \(Intro\)](https://open.spotify.com/album/7D9np0pd16reMo5ajg1WE0) | 3:33 | 2022-08-04 | 2023-06-16 |
@@ -467,6 +468,7 @@
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-29 |
 | [Tinnitus](https://open.spotify.com/track/190WjFY2x74JEa1jL8BTSU) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Tinnitus](https://open.spotify.com/album/3B7SQjSOkUmlfWNOjZDFel) | 2:17 | 2022-03-31 | 2022-06-17 |
 | [To Whom All Lovers](https://open.spotify.com/track/0awCmEEBuLoXHLe9mH2JOS) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Jasmine Azarian](https://open.spotify.com/artist/0SPFoqccna8MrtiFTQLW5s) | [Borderline Tenderness](https://open.spotify.com/album/5JSqzO7OU0ce12h1rkMz7c) | 6:18 | 2021-12-16 | 2022-01-07 |
+| [Track 6](https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [CATHARSIS](https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd) | 0:00 | 2026-09-24 |  |
 | [Trajadão](https://open.spotify.com/track/3C9dOOUF0nUTy1hSvBEe7H) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun FM](https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3) | 2:42 | 2025-08-07 | 2026-05-01 |
 | [Traum](https://open.spotify.com/track/7gNNL3bJEqtznjbyMVileY) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [Traum](https://open.spotify.com/album/3eX1OaU6AYppdtGuLpxdBi) | 2:55 | 2026-01-13 | 2026-01-30 |
 | [Trick By Trick](https://open.spotify.com/track/1RjEEBbM9Lf4G4sRYFMeXE) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Trick By Trick](https://open.spotify.com/album/3qfR8Ml0NhRcu2eQm2EScO) | 2:48 | 2021-12-16 | 2022-01-28 |
@@ -484,7 +486,7 @@
 | [Unsere Bank](https://open.spotify.com/track/5IDcDES093PGqsDwfyf23F) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Zorn & Liebe](https://open.spotify.com/album/6p84H53CGnoPvszkjRWllB) | 2:50 | 2022-09-15 | 2023-07-07 |
 | [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/track/1Tb272NQuHyWVAlYZEcJDt) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx), [Danger Dan](https://open.spotify.com/artist/2jXb8AWz82Sn3RRGOaia7a) | [Unsere Bank \(feat\. Danger Dan\)](https://open.spotify.com/album/3GHY2KycHJNt3mffQ0nIiR) | 2:50 | 2022-09-01 | 2022-09-03 |
 | [Unsinn](https://open.spotify.com/track/13Hjp3sOQxtR0TV0jdaxpM) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Unsinn](https://open.spotify.com/album/5TmRpfo2XOG8CQZrK0QS68) | 2:55 | 2023-03-23 | 2023-06-30 |
-| [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 | 2026-09-04 |  |
+| [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 | 2026-09-04 | 2026-09-25 |
 | [Utopie](https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Utopie](https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E) | 2:43 | 2023-10-05 | 2024-05-10 |
 | [Vergeben \(ans Leben\)](https://open.spotify.com/track/3duSLGUdDRMd2xTnfk4xq8) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Vergeben \(ans Leben\)](https://open.spotify.com/album/72yvEy7DONAkwTvch9C2rl) | 2:13 | 2026-04-03 |  |
 | [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 | 2026-09-17 |  |

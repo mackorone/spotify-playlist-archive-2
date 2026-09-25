@@ -2032,7 +2032,7 @@
       ],
       "date_added": "2025-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 207023,
       "name": "have to.",
       "url": "https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW"
@@ -5590,6 +5590,24 @@
       "duration_ms": 183586,
       "name": "would've been you",
       "url": "https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu"
+    },
+    {
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173868,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Yuki Hayashi. The essential tracks, all in one playlist.",
-  "num_followers": 8298,
+  "num_followers": 8314,
   "original_name": "This Is Yuki Hayashi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABx9kVeMrOp0ryIRwj+uKIC",
+  "snapshot_id": "arMWgAAAAAAir7mpQftOkf6HICR4rtfx",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 100000,
+      "name": "\u5927\u4eba\u305f\u3061",
+      "url": "https://open.spotify.com/track/2cldiPnH3DGMbXUmXZ58OU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!!TO THE TOP\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 205840,
       "name": "\u30d0\u30b1\u30e2\u30f3\u305f\u3061\u306e\u5bb4",
       "url": "https://open.spotify.com/track/6UgPcdNdyLK96zqKs7nBCT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
-        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "\u6094\u3057\u3055",
-      "url": "https://open.spotify.com/track/6ZIQnW2s2v6w3iHG8ELt7B"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
+        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "\u6094\u3057\u3055",
+      "url": "https://open.spotify.com/track/6ZIQnW2s2v6w3iHG8ELt7B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300d 2nd \u30aa\u30ea\u30b8\u30ca\u30eb\uff65\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 224573,
       "name": "\u4e09\u4f4d\u4e00\u4f53",
       "url": "https://open.spotify.com/track/029gE0tJnnOfGNoV0d4I5C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af 2",
-        "url": "https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 100000,
-      "name": "\u5927\u4eba\u305f\u3061",
-      "url": "https://open.spotify.com/track/2cldiPnH3DGMbXUmXZ58OU"
     },
     {
       "added_at": null,
@@ -435,70 +435,6 @@
       "duration_ms": 458224,
       "name": "You Can Do It!",
       "url": "https://open.spotify.com/track/3X9x4vxAQYVMAgafpQRx1k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 81666,
-      "name": "From Me to You",
-      "url": "https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
-        "url": "https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 159026,
-      "name": "\u96d1\u98df",
-      "url": "https://open.spotify.com/track/1ndLmZB3Kom7Q7EdJHWDRa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "\u6557\u8005",
-      "url": "https://open.spotify.com/track/4vRbvyWLU5Salwd9RYous6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Hero Academia: Vigilantes (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0BfsPs7yKQx7fWC2Pg0PjG"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 155386,
-      "name": "Kindly... dude",
-      "url": "https://open.spotify.com/track/4zGZL6ILYwQZvFMFXeb5kt"
     },
     {
       "added_at": null,
@@ -559,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Parade Original Soundtrack",
-        "url": "https://open.spotify.com/album/4oCM2h8oRVyGWZjMGbAMkT"
+        "name": "My Hero Academia: Season 5 (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG"
       },
       "artists": [
         {
@@ -568,9 +504,73 @@
           "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
         }
       ],
-      "duration_ms": 280760,
-      "name": "moonlit night",
-      "url": "https://open.spotify.com/track/26timASEBA3hplUic9qYoj"
+      "duration_ms": 168937,
+      "name": "Symbol Of Fear",
+      "url": "https://open.spotify.com/track/0kthQQOOH3QZ9eNhFGcvSa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Hero Academia: Vigilantes (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0BfsPs7yKQx7fWC2Pg0PjG"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 155386,
+      "name": "Kindly... dude",
+      "url": "https://open.spotify.com/track/4zGZL6ILYwQZvFMFXeb5kt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u300e\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2\u300f2018 \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 81666,
+      "name": "From Me to You",
+      "url": "https://open.spotify.com/track/34OP5ugxs1t3RaiJlyqJRb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300c\u30cf\u30a4\u30ad\u30e5\u30fc!!\u300d \u30aa\u30ea\u30b8\u30ca\u30eb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "\u6557\u8005",
+      "url": "https://open.spotify.com/track/4vRbvyWLU5Salwd9RYous6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.1)",
+        "url": "https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 159026,
+      "name": "\u96d1\u98df",
+      "url": "https://open.spotify.com/track/1ndLmZB3Kom7Q7EdJHWDRa"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
       "duration_ms": 173000,
       "name": "\u795e\u696d\u901f\u653b",
       "url": "https://open.spotify.com/track/78PkKrhnqhbiYWOyPRYD3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Death Parade Original Soundtrack",
+        "url": "https://open.spotify.com/album/4oCM2h8oRVyGWZjMGbAMkT"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 280760,
+      "name": "moonlit night",
+      "url": "https://open.spotify.com/track/26timASEBA3hplUic9qYoj"
     },
     {
       "added_at": null,
@@ -623,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Hero Academia: Season 5 (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0bLbDW4SwX2LQ0ixPSOPeG"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 168937,
-      "name": "Symbol Of Fear",
-      "url": "https://open.spotify.com/track/0kthQQOOH3QZ9eNhFGcvSa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!! \u30bb\u30ab\u30f3\u30c9\u30b7\u30fc\u30ba\u30f3\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af (Vol.2)",
         "url": "https://open.spotify.com/album/54yg1VofNhuje44hH5ySea"
       },
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Hero Academia: FINAL SEASON (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/7BUKQaQMPOIxGHXFKCCvVz"
-      },
-      "artists": [
-        {
-          "name": "Yuki Hayashi",
-          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
-        }
-      ],
-      "duration_ms": 274589,
-      "name": "At the Limit",
-      "url": "https://open.spotify.com/track/73lIW5oxKkR64pK4wtcR1u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300e\u30cf\u30a4\u30ad\u30e5\u30fc!!TO THE TOP\u300f\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 141160,
       "name": "\u8105\u8feb(\u3057\u3093\u3089\u3044)",
       "url": "https://open.spotify.com/track/0IjxL2zeHbUCdiXXMzBH7j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Hero Academia: FINAL SEASON (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/7BUKQaQMPOIxGHXFKCCvVz"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "duration_ms": 274589,
+      "name": "At the Limit",
+      "url": "https://open.spotify.com/track/73lIW5oxKkR64pK4wtcR1u"
     },
     {
       "added_at": null,

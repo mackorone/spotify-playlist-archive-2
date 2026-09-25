@@ -776,7 +776,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 202450,
       "name": "ALGUNA PEL\u00cdCULA",
       "url": "https://open.spotify.com/track/4nKiTOHUGMUvLuuhroCTS7"
@@ -2742,7 +2742,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-17",
+      "date_removed": null,
       "duration_ms": 276005,
       "name": "Cowboys de la A3",
       "url": "https://open.spotify.com/track/5LZRHZxqnrM5mSeiysd9XF"
@@ -4276,7 +4276,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 198666,
       "name": "El Club de la Gente Sola",
       "url": "https://open.spotify.com/track/2dtND3tFl7E7DA8U6BlDiO"
@@ -4370,6 +4370,24 @@
       "duration_ms": 208101,
       "name": "El D\u00eda Que T\u00fa Te Marches",
       "url": "https://open.spotify.com/track/5chHtm0x86aE3jxmylJA6z"
+    },
+    {
+      "album": {
+        "name": "El Endemoniao",
+        "url": "https://open.spotify.com/album/0ynF4FlizK18ZSlSuLvjOo"
+      },
+      "artists": [
+        {
+          "name": "Alcal\u00e1 Norte",
+          "url": "https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214537,
+      "name": "El Endemoniao",
+      "url": "https://open.spotify.com/track/6MGPdKnqiyEqDzEIxoEsvT"
     },
     {
       "album": {
@@ -4767,6 +4785,24 @@
     },
     {
       "album": {
+        "name": "El mundo es cosa de hombres",
+        "url": "https://open.spotify.com/album/4KqJ5Qx1sHedOTRZTMIyaJ"
+      },
+      "artists": [
+        {
+          "name": "Los Zigarros",
+          "url": "https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157413,
+      "name": "El mundo es cosa de hombres",
+      "url": "https://open.spotify.com/track/0VXrh25gpNaCXfrD2ejOsw"
+    },
+    {
+      "album": {
         "name": "El mundo me sonr\u00ede",
         "url": "https://open.spotify.com/album/7ihyRVtCZQse9R9m5RiM8s"
       },
@@ -4916,6 +4952,24 @@
       "duration_ms": 265120,
       "name": "El Principito",
       "url": "https://open.spotify.com/track/2BjM4V9kYul5HMaS3sCv4d"
+    },
+    {
+      "album": {
+        "name": "El pr\u00f3ximo vals",
+        "url": "https://open.spotify.com/album/3IwIq60LQ1MMrVFr19B44z"
+      },
+      "artists": [
+        {
+          "name": "Los Enemigos",
+          "url": "https://open.spotify.com/artist/4uiuj3kqeIHmTH87B7VMnr"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177398,
+      "name": "El pr\u00f3ximo vals",
+      "url": "https://open.spotify.com/track/15z2lSjCakojLYpDzZTCA8"
     },
     {
       "album": {
@@ -8845,6 +8899,28 @@
     },
     {
       "album": {
+        "name": "Luces blancas",
+        "url": "https://open.spotify.com/album/1TUoUFEHeV5AwaAA2I2Zbg"
+      },
+      "artists": [
+        {
+          "name": "Sarria",
+          "url": "https://open.spotify.com/artist/6vLjZKs3kZtOdbWFF4Kz68"
+        },
+        {
+          "name": "\u00c1ngel Stanich",
+          "url": "https://open.spotify.com/artist/1S3qoq3uXtDOYVrohpcsKY"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206077,
+      "name": "Luces blancas",
+      "url": "https://open.spotify.com/track/4rsG3MmzIZKAjxVFvhzGmP"
+    },
+    {
+      "album": {
         "name": "Lucha de Gigantes",
         "url": "https://open.spotify.com/album/2oKzQjw4cKGz43E2URP5Sk"
       },
@@ -9698,7 +9774,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 244558,
       "name": "Menquitofla",
       "url": "https://open.spotify.com/track/2zqkP9lyXLF5l5H52KLHK1"
@@ -11584,7 +11660,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 166170,
       "name": "Perfumes",
       "url": "https://open.spotify.com/track/0WcKCKqAyUP0TWcAc2PwIv"
@@ -12254,6 +12330,24 @@
       "duration_ms": 247401,
       "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
       "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
+    },
+    {
+      "album": {
+        "name": "QUE LE VAYA BIEN",
+        "url": "https://open.spotify.com/album/25wmjOWaoznM9TZeVnVwWz"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298564,
+      "name": "QUE LE VAYA BIEN",
+      "url": "https://open.spotify.com/track/1sBVmEIqbTypPxYjqyyoVN"
     },
     {
       "album": {
@@ -13237,6 +13331,24 @@
     },
     {
       "album": {
+        "name": "Si vuelves",
+        "url": "https://open.spotify.com/album/47873VwkwsYO7VFw0s31vI"
+      },
+      "artists": [
+        {
+          "name": "Vetusta Morla",
+          "url": "https://open.spotify.com/artist/6J6yx1t3nwIDyPXk5xa7O8"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182464,
+      "name": "Si vuelves",
+      "url": "https://open.spotify.com/track/6SqCkJiVsOlHcsczQrVtFE"
+    },
+    {
+      "album": {
         "name": "Siempre Hacia Delante",
         "url": "https://open.spotify.com/album/5HGJVZb1hl8ev4BfTg5Pnp"
       },
@@ -14082,7 +14194,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 239646,
       "name": "Terrorismo Emocional",
       "url": "https://open.spotify.com/track/40b6CIfFwpDsc29JQgOVVf"
@@ -14624,7 +14736,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 224611,
       "name": "TU PROBLEMA",
       "url": "https://open.spotify.com/track/6nvfYRoa8TFba7G4T8wRFg"
@@ -15640,7 +15752,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 228849,
       "name": "Ya te vale - Cap. III",
       "url": "https://open.spotify.com/track/3wxniaEbA6uQyYjjUyWuza"

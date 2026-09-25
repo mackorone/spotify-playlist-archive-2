@@ -1,29 +1,13 @@
 {
   "description": "This is Danny Go!. The essential tracks, all in one playlist.",
-  "num_followers": 38017,
+  "num_followers": 38097,
   "original_name": "This Is Danny Go!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAJFVcGmZ/GwNNnnm5Zrfx5",
+  "snapshot_id": "arMWgAAAAAAmH/nE2s8FtocdOhmM21NK",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Wiggle Dance",
-        "url": "https://open.spotify.com/album/5cVUlWoP7MsItP5DoYfdyQ"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 184868,
-      "name": "The Wiggle Dance",
-      "url": "https://open.spotify.com/track/57qfCDMbmBzWHuVk3A9Iir"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 242208,
       "name": "Chug Like a Train!",
       "url": "https://open.spotify.com/track/6xkSfdfDrw7RLT5DPRNxMF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Wiggle Dance",
+        "url": "https://open.spotify.com/album/5cVUlWoP7MsItP5DoYfdyQ"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 184868,
+      "name": "The Wiggle Dance",
+      "url": "https://open.spotify.com/track/57qfCDMbmBzWHuVk3A9Iir"
     },
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ka-Pow! Superhero Dance",
-        "url": "https://open.spotify.com/album/7mxU8ArlD8DvWYgddtD9ix"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 192892,
-      "name": "Ka-Pow! Superhero Dance",
-      "url": "https://open.spotify.com/track/501TN2V1YvVfIfPLNafJnX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Dinosaur Dance",
         "url": "https://open.spotify.com/album/3UEKyqn0Q5cOgOLbM15ep7"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 210400,
       "name": "The Dinosaur Dance",
       "url": "https://open.spotify.com/track/0gnvsnWoIeVVIpTwW3Kffo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ka-Pow! Superhero Dance",
+        "url": "https://open.spotify.com/album/7mxU8ArlD8DvWYgddtD9ix"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 192892,
+      "name": "Ka-Pow! Superhero Dance",
+      "url": "https://open.spotify.com/track/501TN2V1YvVfIfPLNafJnX"
     },
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fire & Ice Freeze Dance",
-        "url": "https://open.spotify.com/album/5WnNucbVmWXSsKRYwDQWbs"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 216049,
-      "name": "Fire & Ice Freeze Dance",
-      "url": "https://open.spotify.com/track/3SH9M9yL2uX10ma5EcORXP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spooky Spiders Everywhere!",
         "url": "https://open.spotify.com/album/64Z3O18A2zMDcCNgPCZIJh"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 258390,
       "name": "Spooky Spiders Everywhere!",
       "url": "https://open.spotify.com/track/57LgRvOO6sDh5Mfqx4RY63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fire & Ice Freeze Dance",
+        "url": "https://open.spotify.com/album/5WnNucbVmWXSsKRYwDQWbs"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 216049,
+      "name": "Fire & Ice Freeze Dance",
+      "url": "https://open.spotify.com/track/3SH9M9yL2uX10ma5EcORXP"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Color Dance",
-        "url": "https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 224390,
-      "name": "The Color Dance",
-      "url": "https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Floor is Lava 2 (Into the Volcano)",
         "url": "https://open.spotify.com/album/5c5cttrxHIfk0MVYuXvx78"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 226526,
       "name": "The Floor is Lava 2 - Into the Volcano",
       "url": "https://open.spotify.com/track/09zBhV6REwERPc3LDy1xx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Color Dance",
+        "url": "https://open.spotify.com/album/1V3RbczTVUkoKPJ8Dk0U70"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 224390,
+      "name": "The Color Dance",
+      "url": "https://open.spotify.com/track/38V02vJaYwPImeFEGhRBAT"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rainbow Disco Unicorn",
-        "url": "https://open.spotify.com/album/66a5wLzW596cfmq65VzSYG"
-      },
-      "artists": [
-        {
-          "name": "Danny Go!",
-          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
-        }
-      ],
-      "duration_ms": 178007,
-      "name": "Rainbow Disco Unicorn",
-      "url": "https://open.spotify.com/track/5J8qbgtxKEgM8FXhLeatNm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grocery Store DASH!",
         "url": "https://open.spotify.com/album/51yipUUQPWXDyvvxkn2tkP"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 286019,
       "name": "Grocery Store DASH! - Swipe and Scan",
       "url": "https://open.spotify.com/track/2ld6GcwMToKi6NpSA4urQF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rainbow Disco Unicorn",
+        "url": "https://open.spotify.com/album/66a5wLzW596cfmq65VzSYG"
+      },
+      "artists": [
+        {
+          "name": "Danny Go!",
+          "url": "https://open.spotify.com/artist/3DQZdH2A5YhL1XIt4DKfUm"
+        }
+      ],
+      "duration_ms": 178007,
+      "name": "Rainbow Disco Unicorn",
+      "url": "https://open.spotify.com/track/5J8qbgtxKEgM8FXhLeatNm"
     },
     {
       "added_at": null,

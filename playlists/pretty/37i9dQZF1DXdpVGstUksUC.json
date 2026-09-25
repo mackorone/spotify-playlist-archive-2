@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 549243,
+  "num_followers": 549250,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Murder the Mountains (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9"
-      },
-      "artists": [
-        {
-          "name": "Red Fang",
-          "url": "https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S"
-        }
-      ],
-      "duration_ms": 343306,
-      "name": "Wires",
-      "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Berlin",
         "url": "https://open.spotify.com/album/433VO5ZmCPluaLEAgRmwXu"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 245585,
       "name": "Last Living Dinosaur",
       "url": "https://open.spotify.com/track/5JWT9cWwbLttKe7zrfNnn7"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Murder the Mountains (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5RQlhjpn4qz3q2vRrAGYD9"
+      },
+      "artists": [
+        {
+          "name": "Red Fang",
+          "url": "https://open.spotify.com/artist/3u4HBuoQ4dgPBzX2Q9uf5S"
+        }
+      ],
+      "duration_ms": 343306,
+      "name": "Wires",
+      "url": "https://open.spotify.com/track/4yl1IpHPuXUV2MjxXy6hZn"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Blood Lust",
-        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
-      },
-      "artists": [
-        {
-          "name": "Uncle Acid & The Deadbeats",
-          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
-        }
-      ],
-      "duration_ms": 301493,
-      "name": "I'll Cut You Down",
-      "url": "https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/0NfahA83yXyjZLLSfEUHER"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 247013,
       "name": "Greenthumb",
       "url": "https://open.spotify.com/track/1RZahRrClZREl9d2xtGnUf"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Blood Lust",
+        "url": "https://open.spotify.com/album/3nGKNhRZwE0u0GkGSps8C8"
+      },
+      "artists": [
+        {
+          "name": "Uncle Acid & The Deadbeats",
+          "url": "https://open.spotify.com/artist/16PcI6JjJuUfPlsX8Ffvfl"
+        }
+      ],
+      "duration_ms": 301493,
+      "name": "I'll Cut You Down",
+      "url": "https://open.spotify.com/track/3tBbcuulKDC1o2odykT18R"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Samsara",
-        "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
-      },
-      "artists": [
-        {
-          "name": "The Well",
-          "url": "https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t"
-        }
-      ],
-      "duration_ms": 331468,
-      "name": "Mortal Bones",
-      "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "In the tail of a comet",
         "url": "https://open.spotify.com/album/2Osc8Xt9YkCcNWbURMtrNA"
       },
@@ -539,18 +523,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "No Comfort",
-        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+        "name": "Samsara",
+        "url": "https://open.spotify.com/album/59u4IAm3JWWHCEHBKIlT9C"
       },
       "artists": [
         {
-          "name": "Monolord",
-          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+          "name": "The Well",
+          "url": "https://open.spotify.com/artist/2an1GKmmTWuqY8N1GYBk1t"
         }
       ],
-      "duration_ms": 314656,
-      "name": "The Last Leaf",
-      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
+      "duration_ms": 331468,
+      "name": "Mortal Bones",
+      "url": "https://open.spotify.com/track/1LeXlBPH87zfe6O11ZxqCQ"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -567,6 +551,22 @@
       "duration_ms": 352073,
       "name": "Elk.Blood.Heart",
       "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "No Comfort",
+        "url": "https://open.spotify.com/album/2GkKlUD9Ac7CCycGeNuDW0"
+      },
+      "artists": [
+        {
+          "name": "Monolord",
+          "url": "https://open.spotify.com/artist/3X0a18Q9nluwuFYv5hB5cm"
+        }
+      ],
+      "duration_ms": 314656,
+      "name": "The Last Leaf",
+      "url": "https://open.spotify.com/track/0VwnpMHygq0filGVol7yn0"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -667,22 +667,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
-      },
-      "artists": [
-        {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Stoner Witch",
         "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
       },
@@ -699,18 +683,18 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
       },
       "artists": [
         {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
         }
       ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -727,6 +711,22 @@
       "duration_ms": 158013,
       "name": "The Fox",
       "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
+      },
+      "artists": [
+        {
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
+        }
+      ],
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Rainbows Are Free",
-        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
-      },
-      "artists": [
-        {
-          "name": "Rainbows Are Free",
-          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "Are You Dead",
-      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Boxriff",
         "url": "https://open.spotify.com/album/7fz7xnSA14AF9PoQLh6Qx7"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 251973,
       "name": "So Come On",
       "url": "https://open.spotify.com/track/5QHLHBmGDW999nMelytjUA"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Rainbows Are Free",
+        "url": "https://open.spotify.com/album/6mlZrNW9M8DNCEctuwdTJn"
+      },
+      "artists": [
+        {
+          "name": "Rainbows Are Free",
+          "url": "https://open.spotify.com/artist/2xdR2Stqa1oEu4lv7p9lXN"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "Are You Dead",
+      "url": "https://open.spotify.com/track/1P3gkOdyjK5ucr4N1ggLnq"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
-      },
-      "artists": [
-        {
-          "name": "All The Saints",
-          "url": "https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ"
-        }
-      ],
-      "duration_ms": 311546,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Tumuli Schroomaroom",
         "url": "https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 599683,
       "name": "Heavy Feather",
       "url": "https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF"
+      },
+      "artists": [
+        {
+          "name": "All The Saints",
+          "url": "https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ"
+        }
+      ],
+      "duration_ms": 311546,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
-        "name": "Seven Thunders Roar",
-        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
-      },
-      "artists": [
-        {
-          "name": "Stoned Jesus",
-          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
-        }
-      ],
-      "duration_ms": 961942,
-      "name": "I'm the Mountain",
-      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
         "name": "Warp Riders",
         "url": "https://open.spotify.com/album/0PN6KGJnEzkpTpmM1PP5z7"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 249333,
       "name": "Tres Brujas",
       "url": "https://open.spotify.com/track/02VH6OxidofPWj9u4t7TKd"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
+        "name": "Seven Thunders Roar",
+        "url": "https://open.spotify.com/album/5KEs1CBh2Keg4OMVsYfaZU"
+      },
+      "artists": [
+        {
+          "name": "Stoned Jesus",
+          "url": "https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR"
+        }
+      ],
+      "duration_ms": 961942,
+      "name": "I'm the Mountain",
+      "url": "https://open.spotify.com/track/1e1IiUItCGhp8LvU8aZ213"
     },
     {
       "added_at": "2026-03-13 04:00:13",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
+        "name": "Tempel",
+        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
+      },
+      "artists": [
+        {
+          "name": "Colour Haze",
+          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+        }
+      ],
+      "duration_ms": 526293,
+      "name": "Aquamaria",
+      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
         "name": "Acid Roulette",
         "url": "https://open.spotify.com/album/6kdoeLhIsFuvjmhnyUFgei"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 325026,
       "name": "The Regulator",
       "url": "https://open.spotify.com/track/5HjPlgTCOBWjh65fF4aaR9"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "Tempel",
-        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
-      },
-      "artists": [
-        {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
-        }
-      ],
-      "duration_ms": 526293,
-      "name": "Aquamaria",
-      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
     },
     {
       "added_at": "2026-03-13 04:00:13",

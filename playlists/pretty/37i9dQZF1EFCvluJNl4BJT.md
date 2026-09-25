@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2Ak2P6rRpuVPTPAvHSuVDQ">Leon Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,249 likes - 128 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,250 likes - 128 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 70 | [FAR FETCHED \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/5UqICqub1deTe918NnxtwZ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [MUTT](https://open.spotify.com/album/0SzoksypeognxYJJOJEYip) | 4:07 |
 | 71 | [ON MY MIND feat\. James Fauntleroy](https://open.spotify.com/track/2KY5Yl10cqMdet5WevlYZy) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 3:42 |
 | 72 | [CATCH A STRAY](https://open.spotify.com/track/2bMcpeSIM5FNFCv1MK30sQ) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL) | 4:42 |
-| 73 | [Remember Me](https://open.spotify.com/track/30LaZL46nu7DZlTtbhZCtv) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Lost Planet 2.0](https://open.spotify.com/album/1jX4O08rNR67vVxiR66BS3) | 2:24 |
-| 74 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/5ZDqdmsQDzhV8LSgspU752) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:11 |
+| 73 | [RATHER BE ALONE \(feat\. Halle\)](https://open.spotify.com/track/5ZDqdmsQDzhV8LSgspU752) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [MUTT Deluxe: HEEL](https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL) | 3:11 |
+| 74 | [Remember Me](https://open.spotify.com/track/30LaZL46nu7DZlTtbhZCtv) | [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Lost Planet 2.0](https://open.spotify.com/album/1jX4O08rNR67vVxiR66BS3) | 2:24 |
 | 75 | [LOVERS OR FRIENDS](https://open.spotify.com/track/3maNWrDSF4ZpBH5lLg0PyF) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [LOVERS OR FRIENDS](https://open.spotify.com/album/5PHSTHZQzYZXqMfs02zZje) | 2:59 |
 | 76 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/6KSlgWFkrNu4r1z0GxZvyB) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:15 |
 | 77 | [Gone \(with Bryson Tiller\)](https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 3:33 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 99 | [Socialite](https://open.spotify.com/track/25OhI4lM6s5vp2bSV4lSgF) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 3:20 |
 | 100 | [Mean It](https://open.spotify.com/track/7B4XVwdxXFJ3yzz2BtJPmf) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Homicide](https://open.spotify.com/album/5MEbCYZLR7HGbZP45NrhrW) | 2:24 |
 | 101 | [Baccarat](https://open.spotify.com/track/1GSzTqP3zakZwmBXD2cyCf) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [PHOLKS](https://open.spotify.com/album/6ph5zbGAudn0EKyw3vXbXM) | 3:37 |
-| 102 | [Best Friend](https://open.spotify.com/track/4vt8u3ml9SWNWE2GUNpMPO) | [RaVaughn](https://open.spotify.com/artist/3JdYPiv1crdgsbgsryxQu6) | [Best Friend](https://open.spotify.com/album/314f7RM2bkNZiqAG3vc8Ym) | 3:33 |
-| 103 | [Blue Hundreds](https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:44 |
+| 102 | [Blue Hundreds](https://open.spotify.com/track/4DHupq2NA0tvJXNOmwHZJi) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 2:44 |
+| 103 | [Best Friend](https://open.spotify.com/track/4vt8u3ml9SWNWE2GUNpMPO) | [RaVaughn](https://open.spotify.com/artist/3JdYPiv1crdgsbgsryxQu6) | [Best Friend](https://open.spotify.com/album/314f7RM2bkNZiqAG3vc8Ym) | 3:33 |
 | 104 | [Rendezvous \(feat\. Leon Thomas\)](https://open.spotify.com/track/1c5h0GIyMexX7pMpc3hg1I) | [Kronic](https://open.spotify.com/artist/2V30V0HJG5k0FKh3Zd3UnH), [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce) | [Rendezvous \(feat\. Leon Thomas\)](https://open.spotify.com/album/7pOH9q0rAjdCKAXlWY9wnZ) | 3:28 |
 | 105 | [Em\(oceans\)](https://open.spotify.com/track/3z29ud4LY6tsBUYd9m8HyO) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [In Between](https://open.spotify.com/album/0rfdzpUAMNtYie0qZCg8XA) | 3:17 |
 | 106 | [Fade to Black](https://open.spotify.com/track/3NIawwPGF6X5Hjz9UUJ6tO) | [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Electric Dusk](https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT) | 1:57 |
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCvluJNl4BJT.md) - [plain]
 | 127 | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/2w6NKpDk88j5WhmAOggYNx) | [Leon Thomas](https://open.spotify.com/artist/44PAA4cna071vzwYqN5Pce), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Hello How Are You \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/4kX602tlPIQUCM8K9mtjAK) | 3:38 |
 | 128 | [All Wolves Go To Heaven](https://open.spotify.com/track/0FnKGnChseb8z8rta9nHQk) | [YoDogg](https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF), [Cardo Got Wings](https://open.spotify.com/artist/592XleMjor8huE5Jfgks7p) | [Raised By Wolves](https://open.spotify.com/album/61gYrHZvvs4tHesla7RTNz) | 2:33 |
 
-Snapshot ID: `AcdGtAAAAADfGS9q8E5iM1ugk0CtsB0u`
+Snapshot ID: `AcdMkAAAAABe2eh8B8L+n2S9sC1gdIpt`

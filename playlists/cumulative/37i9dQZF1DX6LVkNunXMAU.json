@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Folk latino de estaci\u00f3n. Foto: Micaela Basadoni",
+  "description": "Folk latino de estaci\u00f3n. Foto: Sof\u00eda Campos",
   "name": "folk & primavera",
   "tracks": [
     {
@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 186597,
       "name": "A la deriva",
       "url": "https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 189109,
       "name": "Camino libre medio",
       "url": "https://open.spotify.com/track/6RQrXgG9tb70dQx2rZVExp"
@@ -2539,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "El borde",
+        "url": "https://open.spotify.com/album/1lhummb2m24bKDOV4xZsYQ"
+      },
+      "artists": [
+        {
+          "name": "Sofia Macchi",
+          "url": "https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246877,
+      "name": "El borde",
+      "url": "https://open.spotify.com/track/2WXy0BpvnQ0pn2y6XsXELH"
+    },
+    {
+      "album": {
         "name": "ODIO el ODIO (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4yui6NMZ1sFX7s0uSHWyvX"
       },
@@ -3538,6 +3556,28 @@
       "duration_ms": 110762,
       "name": "Iuju",
       "url": "https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ"
+    },
+    {
+      "album": {
+        "name": "Minha Beleza",
+        "url": "https://open.spotify.com/album/6purF8IsIgyRwChzroRE95"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Campos",
+          "url": "https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5"
+        },
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151428,
+      "name": "Joaqu\u00edn",
+      "url": "https://open.spotify.com/track/06ozBa4YGaxnw7NMmUlGW8"
     },
     {
       "album": {

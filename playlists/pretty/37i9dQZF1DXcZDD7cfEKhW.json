@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Stella Lefty",
-  "num_followers": 4337955,
+  "num_followers": 4337878,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -415,26 +415,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Money Made Me A Savage (Calabria)",
-        "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        },
-        {
-          "name": "LAVINIA",
-          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
-        }
-      ],
-      "duration_ms": 123854,
-      "name": "Money Made Me A Savage - Calabria",
-      "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Pump It Louder",
         "url": "https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 158571,
       "name": "Pump It Louder",
       "url": "https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Money Made Me A Savage (Calabria)",
+        "url": "https://open.spotify.com/album/61ppUwJEtGqCONLN7UMNAK"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        },
+        {
+          "name": "LAVINIA",
+          "url": "https://open.spotify.com/artist/3VASiWHuSkZzujob6UXob6"
+        }
+      ],
+      "duration_ms": 123854,
+      "name": "Money Made Me A Savage - Calabria",
+      "url": "https://open.spotify.com/track/1VDfvBUMwL3m1Sd9dMorR4"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -803,26 +803,6 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
-        "name": "Midnight Sun: Girls Trip",
-        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 195913,
-      "name": "Girl's Girl - Girls Trip",
-      "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
         "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) [Radio Edit]",
         "url": "https://open.spotify.com/album/2VWOp5K8co8MfN2503dtvY"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 229586,
       "name": "Doses & Mimosas (Vintage Culture & Zerky Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/3yZsBXwiQkqLjnWYip17Uu"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
+        "name": "Midnight Sun: Girls Trip",
+        "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 195913,
+      "name": "Girl's Girl - Girls Trip",
+      "url": "https://open.spotify.com/track/1eA6Uh2q01uLdV8aXupWtY"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -891,6 +891,26 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
+        "name": "Girl, so confusing featuring lorde",
+        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
+      },
+      "artists": [
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 205938,
+      "name": "Girl, so confusing featuring lorde",
+      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
         "name": "Espresso (Working Late Remixes)",
         "url": "https://open.spotify.com/album/29UKCfgIX2fgBff2uSz6qV"
       },
@@ -911,26 +931,6 @@
       "duration_ms": 184156,
       "name": "Espresso - Mark Ronson x FNZ Working Late Remix",
       "url": "https://open.spotify.com/track/2rHUyJioDOKDshDDxzbISl"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
-        "name": "Girl, so confusing featuring lorde",
-        "url": "https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 205938,
-      "name": "Girl, so confusing featuring lorde",
-      "url": "https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1217,26 +1217,6 @@
       "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
-      "added_at": "2026-08-21 04:02:19",
-      "album": {
-        "name": "Danceteria (Harry Romero Remix)",
-        "url": "https://open.spotify.com/album/7EaFbFXzgMJDKfZBdLDCRb"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Harry Romero",
-          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
-        }
-      ],
-      "duration_ms": 427881,
-      "name": "Danceteria - Harry Romero Remix",
-      "url": "https://open.spotify.com/track/6oFNBxTVpYNpNCRehH05Ly"
-    },
-    {
       "added_at": "2026-08-14 13:13:41",
       "album": {
         "name": "Summertime Sadness (Imanbek Remix)",
@@ -1255,6 +1235,26 @@
       "duration_ms": 265997,
       "name": "Summertime - Imanbek Remix",
       "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+    },
+    {
+      "added_at": "2026-08-21 04:02:19",
+      "album": {
+        "name": "Danceteria (Harry Romero Remix)",
+        "url": "https://open.spotify.com/album/7EaFbFXzgMJDKfZBdLDCRb"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Harry Romero",
+          "url": "https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM"
+        }
+      ],
+      "duration_ms": 427881,
+      "name": "Danceteria - Harry Romero Remix",
+      "url": "https://open.spotify.com/track/6oFNBxTVpYNpNCRehH05Ly"
     },
     {
       "added_at": "2026-08-14 13:13:41",
@@ -1423,6 +1423,34 @@
     {
       "added_at": "2026-08-14 13:13:41",
       "album": {
+        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
+        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Bootie Brown",
+          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
+        }
+      ],
+      "duration_ms": 274141,
+      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
+      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
+    },
+    {
+      "added_at": "2026-08-14 13:13:41",
+      "album": {
         "name": "like JENNIE",
         "url": "https://open.spotify.com/album/2PxwTnSJW1mXpnb1HO2Tsf"
       },
@@ -1463,34 +1491,6 @@
       "duration_ms": 389956,
       "name": "Moth To A Flame (feat. The Weeknd) - Adriatique Remix",
       "url": "https://open.spotify.com/track/1G3kwVs3JHqN5UPiFXcAID"
-    },
-    {
-      "added_at": "2026-08-14 13:13:41",
-      "album": {
-        "name": "New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix]",
-        "url": "https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        },
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Bootie Brown",
-          "url": "https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d"
-        }
-      ],
-      "duration_ms": 274141,
-      "name": "New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix",
-      "url": "https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON"
     },
     {
       "added_at": "2026-08-14 13:13:41",

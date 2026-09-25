@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,799 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,926 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,12 +16,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 6 | [table for two](https://open.spotify.com/track/7uPNrO1N618IXIonSOCR3k) | [aron!](https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg) | [table for two](https://open.spotify.com/album/6PHCuBiD1V436z80hD4lgL) | 1:51 |
 | 7 | [O Pato](https://open.spotify.com/track/5PXIzyJURVKyO1cwVDuGEK) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 2:29 |
 | 8 | [Ac\-Cent\-Tchu\-Ate the Positive](https://open.spotify.com/track/4JBtcz5a0WHBTfKXpg7P0e) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Electrifying Aretha Franklin \(Expanded Edition\)](https://open.spotify.com/album/5tGs5EjPwWWLJcsx7r1rvH) | 2:15 |
-| 9 | [I'm Beginning To See The Light \- 2001 Digital Remaster](https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Oh! Look At Me Now](https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE) | 2:18 |
+| 9 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 |
 | 10 | [Beyond the Sea](https://open.spotify.com/track/7qASTjWMSWivEoCaCUvvQW) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Beyond the Sea](https://open.spotify.com/album/6Z0LeTnPFEuKRDJHGBSouB) | 2:55 |
 | 11 | [On The Sunny Side Of The Street](https://open.spotify.com/track/3dnr2FigpqoQ7pNA4EKtp3) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Ella And Basie](https://open.spotify.com/album/752AJr22BFy9yubj4XJauv) | 3:04 |
 | 12 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 |
 | 13 | [Hallelujah, I Love Him So](https://open.spotify.com/track/499GXjmRXzKrZLmiWrhvuY) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Ultimate Peggy Lee](https://open.spotify.com/album/1bXDfEwCLg5gl3M1orv1WX) | 2:30 |
-| 14 | [It Had to Be You](https://open.spotify.com/track/3qTYzMkbzxqRtA2hlSz4Ba) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Love Swings](https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65) | 2:13 |
+| 14 | [I'm Beginning To See The Light \- 2001 Digital Remaster](https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Oh! Look At Me Now](https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE) | 2:18 |
 | 15 | [Easy Does It](https://open.spotify.com/track/0RIQBKhveHc4LA4BhtkstS) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 2:43 |
 | 16 | [Mountain Greenery \(From "Cafe Society" Soundtrack\)](https://open.spotify.com/track/1fLjpMWjiB9WavCBrPX1eH) | [Kat Edmonson](https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds), [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO), [Vince Giordano](https://open.spotify.com/artist/7vP4zvpQXJgKVcFeGNAxxI), [Nighthawks Orchestra](https://open.spotify.com/artist/1m12PvAi6HuXaSp9vPizwS) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 2:32 |
 | 17 | [A\-Tisket, A\-Tasket](https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Get Happy! \(Expanded Edition\)](https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n) | 2:22 |

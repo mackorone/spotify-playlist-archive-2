@@ -2,9 +2,9 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: YENTED
+> เพลงไทยฮิตล่าสุด ฟังได้ที่นี่เลย! ศิลปิน: FREEHAND
 
-264 songs - 17 hr 2 min
+265 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/track/5q2xUSTyggCisITlHEvtB1) | [Jaonaay](https://open.spotify.com/artist/6biI2KAsW3nrI8xzSwwxuo) | [ติดเธอซะก่อน \(Sweet Baby\)](https://open.spotify.com/album/6X4l9XVOt3WggiikJ7yQPv) | 3:26 | 2025-08-07 | 2026-09-11 |
 | [ตุ๋ยดุ๋ย \(LOSER\)](https://open.spotify.com/track/7yjcs9C5m0nRVfc6D2xAJG) | [YENTED](https://open.spotify.com/artist/4tM1FV7wm8Tp4bXhtWjBmX) | [ตุ๋ยดุ๋ย \(LOSER\)](https://open.spotify.com/album/4NSmWN0cxOSViq5ZejIADA) | 4:12 | 2026-09-17 |  |
 | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \- Gloomy](https://open.spotify.com/track/0dXpGBC0pUivUk96OrptbQ) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ต่อจากคืนนี้ \(ฉันจะไม่มีเธอแล้ว\) \[Gloomy\]](https://open.spotify.com/album/15Vu38hxu9KIZHeU9ZKsjW) | 4:17 | 2024-01-26 | 2024-03-15 |
+| [ถ้าสักวัน \(Crossroads\)](https://open.spotify.com/track/4NhtEMpFYFW3mb9c2ZQlMH) | [FREEHAND](https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli) | [ถ้าสักวัน \(Crossroads\)](https://open.spotify.com/album/7xkjJRoG1XxU94Qr2zm5Zy) | 3:38 | 2026-09-24 |  |
 | [ถ้าไม่มีฉัน \(Lost\)](https://open.spotify.com/track/23uoBOUwFdh8bKlv6FUDuc) | [BADMIXY](https://open.spotify.com/artist/1TNuSqU0unzV0VcUxoQBZ1) | [BAD STORY](https://open.spotify.com/album/2PQ53PXkBduUnWQWG26vYe) | 4:59 | 2024-01-26 | 2024-02-22 |
 | [ทีละน้อย \(little by little\)](https://open.spotify.com/track/5C4Fbt5hEDZQlEXBcIONLc) | [Hers](https://open.spotify.com/artist/6QUnooiFt7qW7GiCtcdqWg) | [ทีละน้อย \(little by little\)](https://open.spotify.com/album/7a4oOfYhmv3kS7Of02de6s) | 4:01 | 2025-10-22 | 2025-11-10 |
 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 | 2025-04-24 |  |
@@ -256,7 +257,7 @@
 | [โลกที่แบกไว้](https://open.spotify.com/track/1BAIaOr39e7FsxRYjbPiyz) | [มนัสวีร์](https://open.spotify.com/artist/6mFYcrUtI8Hm3QrfuFIZUS) | [โลกที่แบกไว้](https://open.spotify.com/album/7Kd7MwlHvyBxiwAFaqhTqJ) | 4:40 | 2024-03-27 | 2024-08-28 |
 | [ใกล้เกิน \(TOO CLOSE TO HANDLE\)](https://open.spotify.com/track/401VKk3bdyumcfJH8aUCjm) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [ใกล้เกิน \(TOO CLOSE TO HANDLE\) \- Single](https://open.spotify.com/album/2ERmRtoqbG2L1jpvNXyLcj) | 3:37 | 2024-03-10 | 2024-06-01 |
 | [ใจฉันตามเธอไป](https://open.spotify.com/track/75mFrseCKSI6Nz8WANXq90) | [YOUNGOHM](https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S) | [ไฟกลางคืน](https://open.spotify.com/album/31eKAtKWWzdhzSn2PG21up) | 4:24 | 2025-11-09 |  |
-| [ใจบาง](https://open.spotify.com/track/1znP3iOktHkMy0P8ZFPFe9) | [LUMMUN](https://open.spotify.com/artist/6Qk2g62cWGo8Ji8hSBoriS) | [ใจบาง](https://open.spotify.com/album/2nIEGU77LAyQSuP2oVVtSj) | 3:41 | 2026-04-16 |  |
+| [ใจบาง](https://open.spotify.com/track/1znP3iOktHkMy0P8ZFPFe9) | [LUMMUN](https://open.spotify.com/artist/6Qk2g62cWGo8Ji8hSBoriS) | [ใจบาง](https://open.spotify.com/album/2nIEGU77LAyQSuP2oVVtSj) | 3:41 | 2026-04-16 | 2026-09-25 |
 | [ใจพัง](https://open.spotify.com/track/30ho6wAl9w53sCtcqzHVMA) | [Saran](https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5), [GTK](https://open.spotify.com/artist/2xe3fpDD81re4J0NN3S8LV) | [ใจพัง](https://open.spotify.com/album/5jfhFfMvJM7FaKOnc0u1J2) | 5:01 | 2024-04-11 | 2025-07-15 |
 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 | 2024-01-26 | 2024-07-13 |
 | [ใจหล่น \(Ruined\) \- From ซองแดงแต่งผี](https://open.spotify.com/track/3eU8rU2yr6GFhR6gpWhNBA) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [ซองแดงแต่งผี \(OST\. The Red Envelope Album\)](https://open.spotify.com/album/498pJUSS1xnUzprPYDAPS2) | 4:58 | 2025-04-02 | 2025-04-29 |

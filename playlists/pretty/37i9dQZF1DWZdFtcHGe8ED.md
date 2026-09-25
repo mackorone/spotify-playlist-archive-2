@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 586,108 likes - 200 songs - 14 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,150 likes - 200 songs - 14 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 43 | [Metal Church](https://open.spotify.com/track/34LXW73avo8xz0NLiVuiow) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [Metal Church](https://open.spotify.com/album/6LYQlKhDAXE9xMS3YzioNv) | 5:02 |
 | 44 | [Antisocial](https://open.spotify.com/track/2Hy27APwGt3lMfpZ0Bzf13) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [State Of Euphoria](https://open.spotify.com/album/3dy6mgYszZm3noUMEgWYGE) | 4:24 |
 | 45 | [More Than Meets the Eye](https://open.spotify.com/track/4pwKVmEsLZAIFW05f88ZT4) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Formation of Damnation](https://open.spotify.com/album/5jTrbs0ea9De2sg0xrYzMK) | 4:33 |
-| 46 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 |
-| 47 | [Slaves of Pain](https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:04 |
+| 46 | [Slaves of Pain](https://open.spotify.com/track/7lD9KnYOyQyoYIBHOWKrdz) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:04 |
+| 47 | [Sadistic Magician](https://open.spotify.com/track/5szz2njh6khJU22vh4dAz0) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:09 |
 | 48 | [Elimination](https://open.spotify.com/track/6lWFQo5NuR3y8Q6CHIRatA) | [Overkill](https://open.spotify.com/artist/0NmYchKQ8JIR9QHYJA0FRe) | [The Years of Decay](https://open.spotify.com/album/5cIvu6047CsrlgRcdwd2HQ) | 4:35 |
 | 49 | [Hornet's Nest](https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Hornet's Nest](https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB) | 4:39 |
-| 50 | [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 |
-| 51 | [Bonded by Blood](https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:44 |
+| 50 | [Bonded by Blood](https://open.spotify.com/track/2riiohLaKgMFlu4RQT1MPV) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:44 |
+| 51 | [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 |
 | 52 | [The Art of Partying](https://open.spotify.com/track/1jMjbrmkSZAVvi7iffs06D) | [Municipal Waste](https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE) | [The Art of Partying](https://open.spotify.com/album/7cU3FZ3u2jgKd5s8hhKJ9h) | 2:03 |
 | 53 | [666 \- World Divided](https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [666 \- World Divided](https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY) | 4:44 |
 | 54 | [The Moth](https://open.spotify.com/track/1VAr5YFV3UF3eWmbhYQMqF) | [Death Angel](https://open.spotify.com/artist/6KVc8Llznru8n9LVCYe9dz) | [The Evil Divide](https://open.spotify.com/album/37BeDhGFfISfgrWxbv0MtW) | 4:38 |
@@ -195,13 +195,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 185 | [Killer Of Killers](https://open.spotify.com/track/1tgwzbkqYhLL8LWMgfHq1v) | [Zig Zags](https://open.spotify.com/artist/5Na7fSSXoKezg6Q1ebPqs3) | [Killer Of Killers](https://open.spotify.com/album/1CZuXJsnDzVn7zLtdLwOBk) | 3:48 |
 | 186 | [Casket](https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Casket](https://open.spotify.com/album/2LxTOI2LPiX0wvhwbbVNyS) | 1:53 |
 | 187 | [A Bitter Pill](https://open.spotify.com/track/1g5ld3pVVYEdBVre03vdRb) | [Razor](https://open.spotify.com/artist/4jvgoG685KIVaPYwqVF60B) | [A Bitter Pill](https://open.spotify.com/album/3DUNliOEQRkUeoqqt0Ccsr) | 2:47 |
-| 188 | [Egyptron](https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN), [The Egyptian Lover](https://open.spotify.com/artist/4iiBwQutE2Bh3bJ5N7jXnP) | [BATS](https://open.spotify.com/album/2AChbUajQYVEq5lntoghx3) | 5:00 |
-| 189 | [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 |
+| 188 | [Glock 'n' Roll](https://open.spotify.com/track/4Uc5URdSRMGfPLBRWg5lY0) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Genesis XIX](https://open.spotify.com/album/0mdgJNwMZZhkcMI0CcKzZJ) | 5:02 |
+| 189 | [Egyptron](https://open.spotify.com/track/46pYNjo4mtvlVg9E8WMZTj) | [Gama Bomb](https://open.spotify.com/artist/7h0muodpQ1q5o3RajwownN), [The Egyptian Lover](https://open.spotify.com/artist/4iiBwQutE2Bh3bJ5N7jXnP) | [BATS](https://open.spotify.com/album/2AChbUajQYVEq5lntoghx3) | 5:00 |
 | 190 | [Metal Forces \- Remastered 2011](https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [The Force \(Remastered 2011\)](https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ) | 6:36 |
 | 191 | [Mochado](https://open.spotify.com/track/40LeUqlvSejNaIFfDMscmA) | [Brujeria](https://open.spotify.com/artist/1VV61UepOgsPiOjljK6mBY) | [Mochado](https://open.spotify.com/album/0z6pfWnafRJ6xg2k0JKEjQ) | 2:55 |
 | 192 | [Reap What You Sow](https://open.spotify.com/track/0PbOpIcpyKYKfL3Iuz4g9S) | [Evile](https://open.spotify.com/artist/1dwrMJAKBiLlj0O4R791Xo) | [Reap What You Sow](https://open.spotify.com/album/1PuGGc7XpxBaAlizciA24e) | 3:58 |
-| 193 | [In Thrash We Trust](https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2) | [Artillery](https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720) | [In Thrash We Trust](https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU) | 4:09 |
-| 194 | [Snob \(feat\. Jasta\)](https://open.spotify.com/track/6MFyOWhWGUGL5PHb1KVCb9) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59), [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP) | [Snob \(feat\. Jasta\)](https://open.spotify.com/album/7r0lZzGYhG3al65li0dnhQ) | 4:33 |
+| 193 | [Snob \(feat\. Jasta\)](https://open.spotify.com/track/6MFyOWhWGUGL5PHb1KVCb9) | [Angelus Apatrida](https://open.spotify.com/artist/3bnPBquC93vbHmamojAf59), [Jasta](https://open.spotify.com/artist/03248d0xYQltNDAF2XongP) | [Snob \(feat\. Jasta\)](https://open.spotify.com/album/7r0lZzGYhG3al65li0dnhQ) | 4:33 |
+| 194 | [In Thrash We Trust](https://open.spotify.com/track/7pqsRGZ99q4Cl6uI9TmlJ2) | [Artillery](https://open.spotify.com/artist/6N62Sla6F2uuEzNALo6720) | [In Thrash We Trust](https://open.spotify.com/album/2lnSedpTsd2fw33TmgDUQU) | 4:09 |
 | 195 | [Thermonuclear Devastation of the Planet Earth \- 2025 Re\-Recording](https://open.spotify.com/track/2kqom2pStJSTXDvKtAGnIi) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [Origins Of Aggression](https://open.spotify.com/album/3hzikMQlzvcMXkHIzs2ktc) | 1:54 |
 | 196 | [Bleed Them Dry](https://open.spotify.com/track/4sf35u9nKrEGQL7lqORuQJ) | [Morbid Saint](https://open.spotify.com/artist/4jcj3BdKlh7LFhByepe02p) | [Swallowed by Hell](https://open.spotify.com/album/0pK6hmgfrQiEeRDHKkDQG2) | 5:23 |
 | 197 | [Friendly Fire](https://open.spotify.com/track/0k2A0pdiTyiGoO60sRU1Zp) | [Sodom](https://open.spotify.com/artist/6SYbLA9utoNsllunR1TnkM) | [Friendly Fire](https://open.spotify.com/album/3ee6hHayuMEKTFgx561n7R) | 3:36 |

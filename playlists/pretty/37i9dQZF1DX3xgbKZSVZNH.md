@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 
 > All your favourite hairbrush anthems!
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,362 likes - 50 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,406 likes - 50 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xgbKZSVZNH.md) - [plain]
 | 46 | [Against All Odds \(Take A Look At Me Now\)](https://open.spotify.com/track/2hMF7H2dO3oMz1WwIQnQw1) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...Hits](https://open.spotify.com/album/7hV0YSxAQSng8H0zMR0HBf) | 3:24 |
 | 47 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/5nydh0uIcz9gxSoJY6FtTn) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Best Of Me](https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4) | 6:33 |
 | 48 | [Here I Go Again 87 \- 2007 Remastered Version](https://open.spotify.com/track/51tuwnX8OPvQCXoBnjMkfF) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [1987](https://open.spotify.com/album/0zjjzE52kZrlboU0smMbiN) | 4:30 |
-| 49 | [You're Still The One](https://open.spotify.com/track/3I4nZ14GRL7eXwFDjCEEVr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/3sbhN8QlcMeCZAX80IKoW8) | 3:32 |
-| 50 | [I'd Do Anything for Love \(But I Won't Do That\) \- Radio Edit](https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Playlist: The Very Best Of Meat Loaf](https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf) | 5:21 |
+| 49 | [I'd Do Anything for Love \(But I Won't Do That\) \- Radio Edit](https://open.spotify.com/track/3VTBfa6YBDgBxsZ5o2Pyas) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Playlist: The Very Best Of Meat Loaf](https://open.spotify.com/album/24matFXybf8BTyfMWPn7Sf) | 5:21 |
+| 50 | [You're Still The One](https://open.spotify.com/track/3I4nZ14GRL7eXwFDjCEEVr) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/3sbhN8QlcMeCZAX80IKoW8) | 3:32 |
 
 Snapshot ID: `AAAAAKkD1G28JvIOjR46hOV202fsUzrN`

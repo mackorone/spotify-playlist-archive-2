@@ -2,9 +2,9 @@
 
 ### [بوب جديد](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> كل ما هو جديد في عالم البوب المصري\. الغلاف: زيد خالد وناصر
+> كل ما هو جديد في عالم البوب المصري\. الغلاف: مهى فتوني
 
-546 songs - 1 day 8 hr 9 min
+547 songs - 1 day 8 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Bel Bont El3areedh](https://open.spotify.com/track/4ZU4yHDLZcMcy8BF6Y89fu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Bel Bont El3areedh](https://open.spotify.com/album/6w5blHKUDHSspaKU5cuf9J) | 3:18 | 2022-05-04 | 2022-07-11 |
 | [Betghiri Leh](https://open.spotify.com/track/3l8FQkw3SLciIJ43oTyJ5b) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Betghiri Leh](https://open.spotify.com/album/1v9uhLC9i3UDdlTUKzBDJW) | 3:11 | 2024-08-16 | 2025-05-16 |
 | [Bil Alb](https://open.spotify.com/track/52HaEtH8TMoVoUwZ2KrHRF) | [Bashaar Al Jawad](https://open.spotify.com/artist/6cWm8WSuBJ3D4DYPPjzl3W) | [Bil Alb](https://open.spotify.com/album/35lfHRMDOUnwQQxco8Rkph) | 3:30 | 2022-05-04 | 2023-02-16 |
-| [Bosa](https://open.spotify.com/track/3YyHZVPdRXgSsqT98FK7Vs) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Bosa](https://open.spotify.com/album/6u1WfiZLxCJHFY6QG8M7Ws) | 3:10 | 2026-09-03 |  |
+| [Bosa](https://open.spotify.com/track/3YyHZVPdRXgSsqT98FK7Vs) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Bosa](https://open.spotify.com/album/6u1WfiZLxCJHFY6QG8M7Ws) | 3:10 | 2026-09-03 | 2026-09-25 |
 | [Btmanna Ansak](https://open.spotify.com/track/0yXKYYBPxOuakAOshy1cah) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Btmanna Ansak](https://open.spotify.com/album/5VSaFCbLM1mxocW2NADEiy) | 2:52 | 2025-12-30 | 2026-07-07 |
 | [Caramella](https://open.spotify.com/track/4T5ea5RHkn0RZW5hvKFd7S) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Caramella](https://open.spotify.com/album/2MX5RzKjcNs5sjQ87TrCNn) | 3:52 | 2023-05-25 | 2023-07-12 |
 | [Cigara](https://open.spotify.com/track/5YH0SNUHx7P423UiUvB67d) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [Cigara](https://open.spotify.com/album/6tlo8DzuR11Z9g8nHP8vd3) | 4:30 | 2022-12-29 | 2023-07-12 |
@@ -466,6 +466,7 @@
 | [طمني عن حالك](https://open.spotify.com/track/3P77jVxFvqXFq6CyOzcumc) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [طمني عن حالك](https://open.spotify.com/album/1Pcd11mLzT2TG4l7y7AisA) | 3:04 | 2025-10-16 | 2026-07-07 |
 | [طوب الارض](https://open.spotify.com/track/3rzs9LV0Cxa6VyTXSBkUHI) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [طوب الارض](https://open.spotify.com/album/0oC9xz9pXjJVJOc4XR3AQd) | 2:31 | 2023-07-11 | 2023-08-19 |
 | [ظروف معنداني](https://open.spotify.com/track/0TnD2vJ9M91YXbBQqhK8lU) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [Omry Wzekrayatoh](https://open.spotify.com/album/2relDIBiXiNOFAnQmdFoQt) | 4:05 | 2023-05-17 | 2023-07-12 |
+| [عدد المناديل](https://open.spotify.com/track/2WCKGHteHPGCPgMQBp483Y) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [عدد المناديل](https://open.spotify.com/album/493sGA61arKMSeEitTTCip) | 3:20 | 2026-09-25 |  |
 | [عشان ارضيك](https://open.spotify.com/track/6XVMwb57cf90rjTPaWqd94) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عشان ارضيك](https://open.spotify.com/album/37OnRbBYRcEvKcJBOeZRpG) | 4:27 | 2023-01-26 | 2023-07-12 |
 | [علي بالي](https://open.spotify.com/track/4owd2rdO6oWKdI4lFq9mBz) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [علي بالي](https://open.spotify.com/album/2Acmjhosur2I8HWvYMmgPB) | 3:26 | 2024-07-24 | 2024-08-17 |
 | [عمك و عم عمك](https://open.spotify.com/track/0LjbqLUkHL1YxVlKygcZZ9) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [عمك و عم عمك](https://open.spotify.com/album/3ZxFsT3Mo9Aj5sPCpMk4P2) | 3:02 | 2026-07-06 |  |

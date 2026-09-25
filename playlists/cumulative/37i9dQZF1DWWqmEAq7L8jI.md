@@ -2,9 +2,9 @@
 
 ### [Radio Pop](https://open.spotify.com/playlist/37i9dQZF1DWWqmEAq7L8jI)
 
-> Dale play y que la música te acompañe  📸 Benjamin Amadeo
+> Dale play y que la música te acompañe  📸 TOBIKA
 
-502 songs - 1 day 3 hr 16 min
+503 songs - 1 day 3 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [How Do I Say Goodbye](https://open.spotify.com/track/5hnGrTBaEsdukpDF6aZg8a) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/3cptxwPFf3Ioj7I3AVX3mp) | 2:43 | 2023-03-17 | 2023-08-12 |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2023-03-17 | 2023-08-12 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-03-17 | 2023-08-12 |
+| [IBUPROFENO](https://open.spotify.com/track/7tNgv10I5jhh1QpYfc4IYJ) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [INTELIGENCIA ARTESANAL](https://open.spotify.com/album/0kYfU6SPBlJez4GwVvPWuP) | 2:16 | 2026-09-25 |  |
 | [Imposible Amor](https://open.spotify.com/track/5zRusJsWuFeLu2sICWvVDF) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:08 | 2023-08-11 | 2024-04-19 |
 | [Inalcanzable](https://open.spotify.com/track/3VlS9yWZ9WkzaePi8oobTj) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Empezar Desde Cero](https://open.spotify.com/album/3dFYNMT0LYCPhpw8Q010pJ) | 4:14 | 2023-08-11 | 2026-08-01 |
 | [Incomprendida](https://open.spotify.com/track/4FDCXt9tFCv3T95nrQYwtR) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Incomprendida](https://open.spotify.com/album/426KJjrYqkw2UYhXO0JbPW) | 2:54 | 2023-04-28 | 2023-05-06 |
@@ -317,7 +318,7 @@
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-05-31 | 2026-08-01 |
 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 | 2023-10-09 | 2024-09-07 |
 | [Ni la Mitad](https://open.spotify.com/track/4RVOSlBWNPg5gioxdE7NDE) | [Carlos Baute](https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77) | [Ni la Mitad](https://open.spotify.com/album/1dvIWZFecTtk8ZLEEoeAgZ) | 3:10 | 2023-08-18 | 2023-10-14 |
-| [ni una foto juntos](https://open.spotify.com/track/6WBRnXeyRghTRTapiVAwO1) | [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Fede Guelmos](https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8) | [ni una foto juntos](https://open.spotify.com/album/1Aoi3G5yjghIMhpV0CR8Fp) | 2:37 | 2026-07-31 |  |
+| [ni una foto juntos](https://open.spotify.com/track/6WBRnXeyRghTRTapiVAwO1) | [c n d](https://open.spotify.com/artist/3f4CvU22jFdNIY5wsYnk6F), [Fede Guelmos](https://open.spotify.com/artist/5dDCTUrju2Z1XtbD45ZMR8) | [ni una foto juntos](https://open.spotify.com/album/1Aoi3G5yjghIMhpV0CR8Fp) | 2:37 | 2026-07-31 | 2026-09-25 |
 | [Niña](https://open.spotify.com/track/7p2DcY1E4IcPxCi1dxYfpX) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Niña](https://open.spotify.com/album/00V6VizOVi4q0XTlC1MOgM) | 3:42 | 2026-05-15 | 2026-08-18 |
 | [No era amor](https://open.spotify.com/track/0nAYHH7PlT3YWYxntJ3klM) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2), [Emme](https://open.spotify.com/artist/46V95jm2XMU8IyaKSXjSfW) | [No era amor](https://open.spotify.com/album/5obYaeL4HSkhqA8ryJ1edh) | 3:38 | 2025-07-18 | 2026-04-23 |
 | [No es amor](https://open.spotify.com/track/7HJSDNbNLUVENQjWKwBvW2) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Fuimos los dos](https://open.spotify.com/album/6q9JxhDsrcwQqTk79bqRR8) | 3:13 | 2025-03-14 | 2025-04-26 |

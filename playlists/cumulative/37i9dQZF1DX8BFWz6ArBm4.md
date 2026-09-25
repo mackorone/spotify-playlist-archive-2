@@ -2,9 +2,9 @@
 
 ### [Laika tou Simera](https://open.spotify.com/playlist/37i9dQZF1DX8BFWz6ArBm4)
 
-> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Ilias Vrettos
+> Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Katerina
 
-349 songs - 19 hr 54 min
+350 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Thalasses](https://open.spotify.com/track/65ovXhEwAYBP8kMm6lfVXR) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Thalasses](https://open.spotify.com/album/7kkCrKxKqn5yPQOcKad9q5) | 4:12 | 2024-06-27 | 2024-10-11 |
 | [Thalassografia](https://open.spotify.com/track/0PfaNcbiGZHzadkKGdetYg) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Thalassografia](https://open.spotify.com/album/4HE52UhPQOXith3ZCF0dk9) | 4:11 | 2025-12-11 |  |
 | [Thimizeis Kati Apo Ellada](https://open.spotify.com/track/6A9SlQ6TcZC0YeQurcjFXg) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD), [Foivos](https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn) | [Thimizeis Kati Apo Ellada](https://open.spotify.com/album/0XE3PFWYxFVowo50Sm5S03) | 3:14 | 2026-06-11 |  |
+| [Thisavros Mou](https://open.spotify.com/track/0x4jNAQZan8RDXDMTt0rKc) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Thisavros Mou](https://open.spotify.com/album/0GMkj4HaRdxYY6PswqSGT7) | 3:24 | 2026-09-24 |  |
 | [Ti Gynaika Eisai Esy](https://open.spotify.com/track/4ZMm0xfWp58dWcBfrQ1FrW) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Ti Gynaika Eisai Esy](https://open.spotify.com/album/6yIieDqzL1ASOvYuNHHQ0R) | 3:15 | 2026-06-11 |  |
 | [Ti Na Peis](https://open.spotify.com/track/7BpqJAZPhr1UZeUAXj5tM5) | [Stamatis Gonidis](https://open.spotify.com/artist/5By2qsuXvDrrlvRfyy6Kyk) | [Ti Na Peis](https://open.spotify.com/album/6QmmLzsWwX5KVpIrwsKT95) | 3:35 | 2024-06-27 | 2024-07-12 |
 | [Ti Na Peis Gia Mena \- Live 2024](https://open.spotify.com/track/0u6LKKAiN0IkktP8Xkqijc) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7) | [Ti Na Peis Gia Mena \(Live 2024\)](https://open.spotify.com/album/0JXkHeodK3P58maq2uF5ol) | 3:18 | 2024-06-27 | 2024-11-04 |
@@ -348,7 +349,7 @@
 | [Xeimwnas](https://open.spotify.com/track/47DMuLoJzVMVCiAhgGw0e1) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Xeimwnas](https://open.spotify.com/album/2gnvF2qjaKgS4tddJltNex) | 3:17 | 2024-11-14 | 2025-02-28 |
 | [Xelogiastra](https://open.spotify.com/track/3Ng9QVp2XtIWG5ZADToxqB) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw), [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK) | [Xelogiastra](https://open.spotify.com/album/2SbWEEvoOUARNeUXNxrg6p) | 2:42 | 2026-05-14 |  |
 | [XENIXTISA](https://open.spotify.com/track/7cgNPyFEoWTO0YAy5AbZ2J) | [Rene Ageri](https://open.spotify.com/artist/1FjxtNQOz4jknufS7SVyaj), [Teo Tzimas](https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh) | [XENIXTISA](https://open.spotify.com/album/5W7YHCWAzRQ0bhfpq3hYBF) | 2:35 | 2025-03-07 | 2025-03-21 |
-| [Xereis Pollous?](https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Xereis Pollous?](https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh) | 3:46 | 2026-03-26 |  |
+| [Xereis Pollous?](https://open.spotify.com/track/4oiQ25jJItB6XnfXAj3MgY) | [Panos Kiamos](https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy) | [Xereis Pollous?](https://open.spotify.com/album/3C4tJiogHhaozSIjne9Tsh) | 3:46 | 2026-03-26 | 2026-09-25 |
 | [Xilia Spirta](https://open.spotify.com/track/2oROjBec2WOa4vMIUfFgj6) | [Antonis Remos](https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG) | [Xilia Spirta](https://open.spotify.com/album/6TdaBD325HwRRt5ULUJ4uC) | 3:42 | 2024-06-27 | 2024-11-15 |
 | [Ximeia](https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Ximeia](https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ) | 3:13 | 2025-06-19 |  |
 | [Xorepse](https://open.spotify.com/track/3FNGcipuHWekU1KvhdrAwH) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A), [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [Xorepse](https://open.spotify.com/album/2FJpQ42IEy1G66GmbSuYUs) | 3:48 | 2025-06-19 |  |

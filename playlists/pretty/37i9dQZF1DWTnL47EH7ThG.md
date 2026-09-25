@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 
 > <a href="spotify:artist:6kf69CwzgodrETRgzcjX95">BAMBII</a>'s favorite tracks\. Updated regularly\. Curated by BAMBII\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,323 likes - 144 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,329 likes - 144 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnL47EH7ThG.md) - [plain]
 | 143 | [Othello](https://open.spotify.com/track/6LQRZyM1H4qXQa6x8xmG3Q) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Rocco Palladino](https://open.spotify.com/artist/3gTKlamoFhZeUOFykWBouS), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Duality](https://open.spotify.com/album/11FqXtXViQ1XZ5s2NaFEOJ) | 6:12 |
 | 144 | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7) | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL) | 2:15 |
 
-Snapshot ID: `AAAAAG8gwHw4lcJ2xbZNtUKmx/NMUmv2`
+Snapshot ID: `AAAAAL5kOgmkFOzXBwj0MbAHZOlMyINO`

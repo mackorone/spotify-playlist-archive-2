@@ -4,14 +4,15 @@
 
 > Your escape to the world of chill Indian pop\. Cover \- Jubin Nautiyal & Elnaaz Norouzi
 
-68 songs - 3 hr 51 min
+69 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaya Na Tu](https://open.spotify.com/track/3T0oPETOdddxJ2xTt2qJe4) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Momina Mustehsan](https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Aaya Na Tu](https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b) | 3:30 | 2025-10-14 |  |
 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 | 2025-10-14 |  |
-| [Assi Sajna](https://open.spotify.com/track/3xIyi0QRmcz0cBDbVPTNGd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Aditya Sharma](https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ) | [Assi Sajna](https://open.spotify.com/album/1nXJCJwv0ORoiGUvG1ZA0U) | 3:03 | 2025-10-14 |  |
+| [Assi Sajna](https://open.spotify.com/track/3xIyi0QRmcz0cBDbVPTNGd) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Aditya Sharma](https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ) | [Assi Sajna](https://open.spotify.com/album/1nXJCJwv0ORoiGUvG1ZA0U) | 3:03 | 2025-10-14 | 2026-09-25 |
 | [Baarish Ban Jaana](https://open.spotify.com/track/3sFlG5sYt712TtjvWM8Ocb) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Baarish Ban Jaana](https://open.spotify.com/album/4iKug0MTkj0wulrZ33t310) | 3:20 | 2025-10-14 |  |
+| [Badeela](https://open.spotify.com/track/0K9W9Ss7vTSe45NtMFtlmt) | [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj), [Raja Hasan](https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA), [Dipakshi Kalita](https://open.spotify.com/artist/5H2VH9Htkxxn4hKxzt0juD) | [Badeela](https://open.spotify.com/album/6KS7y7QIFlh0JflHRb8tU7) | 3:41 | 2026-09-24 |  |
 | [Banger](https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Sharvi Yadav](https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3) | [Banger](https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy) | 2:38 | 2026-08-25 |  |
 | [Bheegi Bheegi](https://open.spotify.com/track/3KYbbE5Yje5IcqJmNNbbkS) | [A\. R\. Ameen](https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Bheegi Bheegi](https://open.spotify.com/album/3gSamGzuaJypB6V9z6CvrX) | 3:39 | 2026-02-10 |  |
 | [Blue Eyes](https://open.spotify.com/track/7wW9scVNLYFLsmBb1yAUmS) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Blue Eyes](https://open.spotify.com/album/2iPimv2hsVBJZU1fvBfwkB) | 3:40 | 2025-10-14 |  |

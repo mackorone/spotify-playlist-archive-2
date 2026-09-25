@@ -1,6 +1,6 @@
 {
   "description": "Mellow songs from the 1960s. Cover: Etta James",
-  "num_followers": 658248,
+  "num_followers": 658346,
   "original_name": "Soft 60s",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "San Francisco",
         "url": "https://open.spotify.com/album/0JxUYNJnYnCeA9kwBRK4ez"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 178506,
       "name": "San Francisco (Be Sure to Wear Flowers in Your Hair) - Single Version",
       "url": "https://open.spotify.com/track/6vcNJUWtUPB0hKC6VbZriY"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -511,18 +511,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z"
       },
       "artists": [
         {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
         }
       ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
+      "duration_ms": 171226,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/6k1CVP7aiwq2KAcouCW70z"
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
       },
       "artists": [
         {
-          "name": "Brenda Lee",
-          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
         }
       ],
-      "duration_ms": 171226,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st"
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/0SxFyA4FqmEQqZVuAlg8lf"
     },
     {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
       "added_at": "2022-05-30 13:00:37",
       "album": {
         "name": "Aretha Now",
@@ -687,6 +671,22 @@
     {
       "added_at": "2024-05-03 14:52:34",
       "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
         "name": "Take A Look",
         "url": "https://open.spotify.com/album/5yPYingqlUnFfEzbLPtrVS"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 176080,
       "name": "Anyone Who Knows What Love Is (Will Understand)",
       "url": "https://open.spotify.com/track/5GWCndQ8ykzf6rYRvwrFcj"
-    },
-    {
-      "added_at": "2024-05-03 14:52:34",
-      "album": {
-        "name": "13 Smash Hits",
-        "url": "https://open.spotify.com/album/3LumVSaE9Zd7rvT4ngCHrD"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "(It Looks Like) I'll Never Fall In Love Again",
-      "url": "https://open.spotify.com/track/70wRitifPn1bC1FGjOrFwN"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -731,6 +715,22 @@
       "duration_ms": 146133,
       "name": "I Will Follow You",
       "url": "https://open.spotify.com/track/4Y6pdMS2PwGshq1MYcJ9fC"
+    },
+    {
+      "added_at": "2024-05-03 14:52:34",
+      "album": {
+        "name": "13 Smash Hits",
+        "url": "https://open.spotify.com/album/3LumVSaE9Zd7rvT4ngCHrD"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "(It Looks Like) I'll Never Fall In Love Again",
+      "url": "https://open.spotify.com/track/70wRitifPn1bC1FGjOrFwN"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/27bw4i8LnECzVlbMZ4kFHw"
     },
     {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
-        "name": "True Genius",
-        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
-    },
-    {
       "added_at": "2024-05-03 14:52:34",
       "album": {
         "name": "The Very Best Of Aaron Neville",
@@ -1199,6 +1183,22 @@
       "duration_ms": 173933,
       "name": "Wishin' And Hopin' - Stereo Version",
       "url": "https://open.spotify.com/track/4NAbnwBxeiFY714TBr3zBJ"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "True Genius",
+        "url": "https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/6yMGxqKj0218mFR5KqsMRq"
     },
     {
       "added_at": "2024-05-03 14:52:34",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Bobby Vee",
-        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
+        "name": "Cowboys to Girls",
+        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
       },
       "artists": [
         {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+          "name": "The Intruders",
+          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
         }
       ],
-      "duration_ms": 149973,
-      "name": "More Than I Can Say",
-      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
+      "duration_ms": 162172,
+      "name": "Cowboys to Girls",
+      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Cowboys to Girls",
-        "url": "https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr"
+        "name": "Bobby Vee",
+        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
       },
       "artists": [
         {
-          "name": "The Intruders",
-          "url": "https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv"
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
         }
       ],
-      "duration_ms": 162172,
-      "name": "Cowboys to Girls",
-      "url": "https://open.spotify.com/track/6n3WVi0pxFQuAjAQRPPryY"
+      "duration_ms": 149973,
+      "name": "More Than I Can Say",
+      "url": "https://open.spotify.com/track/1t2zYsS4UgIkkuBgSe0fZt"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
+        "name": "Hello Louis - The Hit Years (1963-1969)",
+        "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
+      },
+      "artists": [
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 137466,
+      "name": "What A Wonderful World",
+      "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
         "name": "The World We Knew",
         "url": "https://open.spotify.com/album/00vMwG6tYLzcwXgwvzlzyK"
       },
@@ -2139,22 +2155,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Hello Louis - The Hit Years (1963-1969)",
-        "url": "https://open.spotify.com/album/3IkAJdl6rQcSbnfpGr3MVt"
-      },
-      "artists": [
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 137466,
-      "name": "What A Wonderful World",
-      "url": "https://open.spotify.com/track/6Z5XZ8fjmWGbkdahOgreVe"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/5H2rffw6MNKGWVKBNWNA4S"
       },
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Strangers In The Night (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Strangers In The Night",
-      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "The Ultimate Bee Gees",
         "url": "https://open.spotify.com/album/6PM8QzSc6FXrL11UwDfdI1"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 197640,
       "name": "Words",
       "url": "https://open.spotify.com/track/6oEyQSER3TyW92IJm61Fzk"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Strangers In The Night (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eDqmBWwrp7VTToRzH49Wv"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Strangers In The Night",
+      "url": "https://open.spotify.com/track/4yRPGDmtIWZjhIPcEvPxsF"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Ain't That Good News (Remastered)",
-        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
-    },
-    {
-      "added_at": "2022-05-30 13:00:37",
-      "album": {
         "name": "Wish It Would Rain",
         "url": "https://open.spotify.com/album/5HSjEEA5qggoxsLJzxtQty"
       },
@@ -2267,18 +2251,18 @@
     {
       "added_at": "2022-05-30 13:00:37",
       "album": {
-        "name": "Greatest Motown Hits",
-        "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
+        "name": "Ain't That Good News (Remastered)",
+        "url": "https://open.spotify.com/album/7p4RmcYD3dBOLmcIV2oxFG"
       },
       "artists": [
         {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 175693,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0RFKuagqUgR4X8C1QneCCq"
     },
     {
       "added_at": "2022-05-30 13:00:37",
@@ -2295,6 +2279,22 @@
       "duration_ms": 145573,
       "name": "Massachusetts (2008 Remastered LP Version)",
       "url": "https://open.spotify.com/track/1mBPlknQe00PCd7R9g34ix"
+    },
+    {
+      "added_at": "2022-05-30 13:00:37",
+      "album": {
+        "name": "Greatest Motown Hits",
+        "url": "https://open.spotify.com/album/0OA94DlliFxpfYOptv1rNS"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/7Bvap2GAW2DAyZ7EVUJpMO"
     },
     {
       "added_at": "2024-05-03 14:52:34",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2RXuZnFEt8P7rr9UUIsyZo">Alessandro La Cava</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-141 songs - 7 hr 11 min
+142 songs - 7 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Musica Italiana](https://open.spotify.com/track/3m2loz99NJ3z8UYEFcFdmS) | [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [Musica Italiana](https://open.spotify.com/album/753BrMSZZPDcA4Ue5MdF6u) | 3:03 | 2024-04-16 | 2025-06-23 |
 | [NERO GOTICO](https://open.spotify.com/track/1KZKtIn6ul3F68mY4YY0cg) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [PRIMO](https://open.spotify.com/album/7u25F0vMvoStxcrqvzYGgp) | 3:04 | 2024-10-12 |  |
 | [NERO GOTICO](https://open.spotify.com/track/6KbUvkzreQlxHvqaCaBLRs) | [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [NERO GOTICO](https://open.spotify.com/album/0JiU4u8hx5PbwDgfEHYRmg) | 3:04 | 2024-09-26 | 2024-10-13 |
+| [Niente Da Perdere](https://open.spotify.com/track/1hkI9llv6C123opgiGoDBj) | [Nicolò Filippucci](https://open.spotify.com/artist/5v11UeQ72AbrburRA8fkMi) | [UN POSTO DOVE ANDARE](https://open.spotify.com/album/6hWE6qtN7dH991wZMXEIHM) | 3:21 | 2026-09-24 |  |
 | [NIENTE DI MALE](https://open.spotify.com/track/5GrGU0oH8iGkPIdEAjXdGb) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [G](https://open.spotify.com/album/5gvYcdf39vRCCPGBuh72VG) | 3:37 | 2025-11-09 |  |
 | [NIENTE DI MALE](https://open.spotify.com/track/7CZZxHf4DZxiTnrVxeMqOt) | [Giorgia](https://open.spotify.com/artist/0gm1lHoOXAdy5OB4AwFYRr) | [NIENTE DI MALE](https://open.spotify.com/album/4uZZ29NchGBafGvRaRYVEI) | 3:37 | 2025-06-14 | 2025-11-10 |
 | [Non cambia mai](https://open.spotify.com/track/4huAaH4Q2zf6pj6dhiCqOn) | [Luigi Strangis](https://open.spotify.com/artist/7kuB7tieHx2PaQwRTNFcnZ) | [Voglio la gonna](https://open.spotify.com/album/3NNCpZojXm9nasubGE0JTr) | 3:10 | 2026-02-25 |  |

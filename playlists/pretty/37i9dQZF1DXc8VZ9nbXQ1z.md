@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,930 likes - 30 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,983 likes - 30 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8VZ9nbXQ1z.md) - [plain]
 | 29 | [Maombi](https://open.spotify.com/track/0kVrdQ15w0ff3HIkrKHf2G) | [Aytiwan](https://open.spotify.com/artist/1uL2FZKW1ImI6oHVJ5gnn3), [Valexx](https://open.spotify.com/artist/4wA2CLt9Kxkh5440U9ol2K), [Ayah Tlhanyane](https://open.spotify.com/artist/40TwzjnJ2uDbe2UpyfFHr8) | [Maombi](https://open.spotify.com/album/4ruXfjuoXX41sYd10yCnWO) | 5:58 |
 | 30 | [Meine Lieben](https://open.spotify.com/track/4gHmDgsGGrt6ds0fNPVHCa) | [Masšh](https://open.spotify.com/artist/6QRqfE9Na7BRYG1mxRYqGs), [Moukaide](https://open.spotify.com/artist/3WCd7zb4o9M9ZawSNmyvx2) | [Meine Lieben EP](https://open.spotify.com/album/526pPXu8B5OqKpXiQnQq1k) | 4:35 |
 
-Snapshot ID: `AAAAAJ5stfhHqGakAiitc0yTPMG8Ea1Z`
+Snapshot ID: `AAAAAIsm8BQS+hnWVJri+q2XlGGJOMgw`

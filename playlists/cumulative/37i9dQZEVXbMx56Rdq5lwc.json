@@ -3050,7 +3050,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 182950,
       "name": "Atsukim Laik\u0105",
       "url": "https://open.spotify.com/track/46YwX7ao55NOQR0xp4jDSE"
@@ -8804,7 +8804,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -37794,7 +37794,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
@@ -41280,7 +41280,7 @@
       ],
       "date_added": "2026-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 194754,
       "name": "Stadionai",
       "url": "https://open.spotify.com/track/2RfaNuS3O8IblZzeI7PEHp"
@@ -42496,7 +42496,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -42514,7 +42514,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -47792,6 +47792,24 @@
     {
       "album": {
         "name": "Vibin",
+        "url": "https://open.spotify.com/album/6LuZI1TvG7OX6hExmzWk4m"
+      },
+      "artists": [
+        {
+          "name": "Wxoda",
+          "url": "https://open.spotify.com/artist/1GVJUl0F3rPxmQ4hi7MkwG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93187,
+      "name": "Vibin",
+      "url": "https://open.spotify.com/track/1KEMvg71OUXItC1miw1uMF"
+    },
+    {
+      "album": {
+        "name": "Vibin",
         "url": "https://open.spotify.com/album/4Zehur09MZsUqTdVBgCwow"
       },
       "artists": [
@@ -47802,7 +47820,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 93191,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/67AYRR5wUzUSpicF2iigOO"

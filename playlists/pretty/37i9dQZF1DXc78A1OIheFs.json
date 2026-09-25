@@ -1,6 +1,6 @@
 {
   "description": "Discover the best in new music from Aotearoa. Cover: L.A.B.",
-  "num_followers": 19385,
+  "num_followers": 19386,
   "original_name": "The Local List Aotearoa",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,18 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
-        "name": "Ready To Ride",
-        "url": "https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB"
+        "name": "Bleeding Heart",
+        "url": "https://open.spotify.com/album/02TN5COA7e3uh96dRwLPBr"
       },
       "artists": [
         {
-          "name": "Hori Shaw",
-          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
-        },
-        {
-          "name": "Te Wehi",
-          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
         }
       ],
-      "duration_ms": 221600,
-      "name": "Ready To Ride",
-      "url": "https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV"
+      "duration_ms": 212038,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/1WXuljOQWtK6rKRNM4SlEk"
     },
     {
       "added_at": "2026-09-17 14:00:50",
@@ -143,18 +139,22 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
-        "name": "Bleeding Heart",
-        "url": "https://open.spotify.com/album/02TN5COA7e3uh96dRwLPBr"
+        "name": "Ready To Ride",
+        "url": "https://open.spotify.com/album/6G4cGs3sIKpnL8hdIVUrGB"
       },
       "artists": [
         {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        },
+        {
+          "name": "Te Wehi",
+          "url": "https://open.spotify.com/artist/2DkCh3TikVqqOAKrbMNIVc"
         }
       ],
-      "duration_ms": 212038,
-      "name": "Bleeding Heart",
-      "url": "https://open.spotify.com/track/1WXuljOQWtK6rKRNM4SlEk"
+      "duration_ms": 221600,
+      "name": "Ready To Ride",
+      "url": "https://open.spotify.com/track/5Ov3TERXJhFfuHcTpJR0iV"
     },
     {
       "added_at": "2026-09-17 14:00:50",
@@ -207,22 +207,6 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
-        "name": "Back In My Arms",
-        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
-      },
-      "artists": [
-        {
-          "name": "Hori Shaw",
-          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
-        }
-      ],
-      "duration_ms": 225843,
-      "name": "Back In My Arms",
-      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
-    },
-    {
-      "added_at": "2026-09-17 14:00:50",
-      "album": {
         "name": "ALL MINE",
         "url": "https://open.spotify.com/album/2HfQH6Lgw5niuKPPSPJ9RD"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 158611,
       "name": "ALL MINE",
       "url": "https://open.spotify.com/track/0Yg2JX24pCRIcqZRC5aJU8"
+    },
+    {
+      "added_at": "2026-09-17 14:00:50",
+      "album": {
+        "name": "Back In My Arms",
+        "url": "https://open.spotify.com/album/1pJWSJkimSU1tBcALRBZvr"
+      },
+      "artists": [
+        {
+          "name": "Hori Shaw",
+          "url": "https://open.spotify.com/artist/3weDT5G04NSpPg2q1lvcJh"
+        }
+      ],
+      "duration_ms": 225843,
+      "name": "Back In My Arms",
+      "url": "https://open.spotify.com/track/4g5j7VcONFP64jSNSuLDOK"
     },
     {
       "added_at": "2026-09-17 14:00:50",
@@ -303,18 +303,18 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
-        "name": "SENESCENCE 05 + 06",
-        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
+        "name": "BITE BACK",
+        "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
       },
       "artists": [
         {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
         }
       ],
-      "duration_ms": 170235,
-      "name": "Grin",
-      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
+      "duration_ms": 225682,
+      "name": "BITE BACK",
+      "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
     },
     {
       "added_at": "2026-09-17 14:00:50",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
-        "name": "BITE BACK",
-        "url": "https://open.spotify.com/album/44u8w5fzJ8lVizD4t1T0pr"
+        "name": "SENESCENCE 05 + 06",
+        "url": "https://open.spotify.com/album/423g9lUsvvCEqK5KRvYFXg"
       },
       "artists": [
         {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
         }
       ],
-      "duration_ms": 225682,
-      "name": "BITE BACK",
-      "url": "https://open.spotify.com/track/3oRLktPykF4J9KqAHRlFrx"
+      "duration_ms": 170235,
+      "name": "Grin",
+      "url": "https://open.spotify.com/track/5wXmPTEY49DWP8b0dfk7F7"
     },
     {
       "added_at": "2026-09-17 14:00:50",
@@ -383,6 +383,22 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
+        "name": "PLEASER",
+        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "PLEASER",
+      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
+    },
+    {
+      "added_at": "2026-09-17 14:00:50",
+      "album": {
         "name": "PRETTY GYAL",
         "url": "https://open.spotify.com/album/5tKNi4aE8aI5kAsIKs1MpO"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 162266,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/3snrmj8vx2A3u70Lr5V4R3"
-    },
-    {
-      "added_at": "2026-09-17 14:00:50",
-      "album": {
-        "name": "PLEASER",
-        "url": "https://open.spotify.com/album/3DLbNeGEg77U7wyAgIv4pc"
-      },
-      "artists": [
-        {
-          "name": "Vana",
-          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "PLEASER",
-      "url": "https://open.spotify.com/track/57aoIncSQMCTT58Nczu5se"
     },
     {
       "added_at": "2026-09-17 14:00:50",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
-        "name": "Hell Of A Night",
-        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
-      },
-      "artists": [
-        {
-          "name": "LA WOMEN",
-          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Hell Of A Night",
-      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
-    },
-    {
-      "added_at": "2026-09-17 14:00:50",
-      "album": {
         "name": "BedHead",
         "url": "https://open.spotify.com/album/6FlHRbr03eXBAnuuXHvrer"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 107266,
       "name": "Off The Rails",
       "url": "https://open.spotify.com/track/0MfseoOUoi3cOT878tC9zv"
+    },
+    {
+      "added_at": "2026-09-17 14:00:50",
+      "album": {
+        "name": "Hell Of A Night",
+        "url": "https://open.spotify.com/album/4yy9Kng4fAMUQ4UUe1h7H2"
+      },
+      "artists": [
+        {
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
+        }
+      ],
+      "duration_ms": 232615,
+      "name": "Hell Of A Night",
+      "url": "https://open.spotify.com/track/6MKq4tkdKCwixFocjVvaC8"
     },
     {
       "added_at": "2026-09-17 14:00:50",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
+        "name": "Mighty Tree",
+        "url": "https://open.spotify.com/album/4NrWYYcNk1DlaZMiDJiq2c"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "duration_ms": 311082,
+      "name": "Mighty Tree",
+      "url": "https://open.spotify.com/track/6x8Z5vWm5VRUGFgXsR36CY"
+    },
+    {
+      "added_at": "2026-09-17 14:00:50",
+      "album": {
         "name": "Beautiful Mess",
         "url": "https://open.spotify.com/album/670FR22mRbSL7ydh3AQhrG"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 186666,
       "name": "Tip Of My Tongue",
       "url": "https://open.spotify.com/track/2dys238PfKFAblqyoSeaTL"
-    },
-    {
-      "added_at": "2026-09-17 14:00:50",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
-      },
-      "artists": [
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
-        }
-      ],
-      "duration_ms": 201480,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
     },
     {
       "added_at": "2026-09-17 14:00:50",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6S7iMcj2CRCj8RdPtEI6gM"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "duration_ms": 201480,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/39lr0bifw4DjmVHySQVEch"
+    },
+    {
+      "added_at": "2026-09-17 14:00:50",
+      "album": {
         "name": "STALKER (feat. Ramirez)",
         "url": "https://open.spotify.com/album/4e9pi8Kqj9VWDEUa39o6mt"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 152415,
       "name": "STALKER (feat. Ramirez)",
       "url": "https://open.spotify.com/track/0DqMDEZk9dFM631sQOPVJh"
-    },
-    {
-      "added_at": "2026-09-17 14:00:50",
-      "album": {
-        "name": "Mighty Tree",
-        "url": "https://open.spotify.com/album/4NrWYYcNk1DlaZMiDJiq2c"
-      },
-      "artists": [
-        {
-          "name": "Louis Baker",
-          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
-        }
-      ],
-      "duration_ms": 311082,
-      "name": "Mighty Tree",
-      "url": "https://open.spotify.com/track/6x8Z5vWm5VRUGFgXsR36CY"
     },
     {
       "added_at": "2026-09-17 14:00:50",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
-        "name": "BLEED",
-        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
-      },
-      "artists": [
-        {
-          "name": "SXMPRA",
-          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
-        }
-      ],
-      "duration_ms": 215783,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
-    },
-    {
-      "added_at": "2026-09-17 14:00:50",
-      "album": {
         "name": "In The Shade",
         "url": "https://open.spotify.com/album/4xj1vyEuXxhAaiZIm8ePne"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2026-09-17 14:00:50",
       "album": {
-        "name": "Moneypenny",
-        "url": "https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6"
+        "name": "BLEED",
+        "url": "https://open.spotify.com/album/4FktMKYNJxcz6c0jYapEs2"
       },
       "artists": [
         {
-          "name": "LA WOMEN",
-          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
         }
       ],
-      "duration_ms": 258191,
-      "name": "Moneypenny",
-      "url": "https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y"
+      "duration_ms": 215783,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/6yWHYAtM5mkcmJRoZRZ8Py"
     },
     {
       "added_at": "2026-09-17 14:00:50",
@@ -1203,6 +1187,22 @@
       "duration_ms": 185714,
       "name": "What Would It Profit",
       "url": "https://open.spotify.com/track/7dkq1w6yOO6yWmHpsSDwIO"
+    },
+    {
+      "added_at": "2026-09-17 14:00:50",
+      "album": {
+        "name": "Moneypenny",
+        "url": "https://open.spotify.com/album/4A4YRs6Sb1uXHKnWpgn8V6"
+      },
+      "artists": [
+        {
+          "name": "LA WOMEN",
+          "url": "https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj"
+        }
+      ],
+      "duration_ms": 258191,
+      "name": "Moneypenny",
+      "url": "https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y"
     },
     {
       "added_at": "2026-09-17 14:00:50",

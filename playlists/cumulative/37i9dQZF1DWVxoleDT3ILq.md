@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DWVxoleDT3ILq.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWVxoleDT3ILq) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWVxoleDT3ILq)
 
-### [alt.chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
+### [alt/chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> asia menor en portada.
+> Estoy Bien en portada.
 
-611 songs - 1 day 12 hr 45 min
+613 songs - 1 day 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [El cigarrito](https://open.spotify.com/track/1hgsjd1wklneSNLPgjL9fK) | [Angelo Pierattini](https://open.spotify.com/artist/4IyZZfTjtcbbJfe8gvN1Pf), [Pablo Ilabaca](https://open.spotify.com/artist/0G6TsGjX0YYEDjXeBkiW5A) | [El cigarrito](https://open.spotify.com/album/0hYqGC2CTjS70O1Jzvtiss) | 3:08 | 2023-09-22 | 2024-01-11 |
 | [El Demonio del Mediodía](https://open.spotify.com/track/02ZJgSEEmi7rmJ42gw2j1i) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [El Demonio del Mediodía](https://open.spotify.com/album/59DDXjGG4zx2MGNIJUsDXz) | 2:58 | 2022-04-15 | 2022-12-10 |
 | [El Deportista \- Remix](https://open.spotify.com/track/5rglXd6m61Yw0kAnujwBPo) | [La Playa](https://open.spotify.com/artist/3mRz1jPyfOO3MD4BnkQPiO), [Sweet Pomelo](https://open.spotify.com/artist/1kRzlG27oPe0i3Ll09llgM) | [Remezclas Salvajes](https://open.spotify.com/album/7h8ip62LdSASky4mRSYu5e) | 2:49 | 2023-09-29 | 2023-10-13 |
+| [El Desorden](https://open.spotify.com/track/2TEN1xvt9tJAykKqKR386P) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [A La Distancia](https://open.spotify.com/album/5xf0B7TnQzHjWqc6NJdZDM) | 4:39 | 2026-09-25 |  |
 | [El dolor](https://open.spotify.com/track/2kMic8syeO5IhD8T49Q32O) | [Anttonias](https://open.spotify.com/artist/3zso8kvuPiTFBXe5g6ERJW) | [El dolor](https://open.spotify.com/album/4JVnZhBbUKtvsPNs3ObTP7) | 3:01 | 2026-08-14 |  |
 | [El dragón asciende](https://open.spotify.com/track/6lzg89OnOzG0ak5BteM6G0) | [Los Valentina](https://open.spotify.com/artist/7cIyh6k1zccDIbM7Qyn5AY) | [Independencia](https://open.spotify.com/album/78gMQLycOOZR9p8VpG7Z0p) | 4:20 | 2022-05-13 | 2023-06-24 |
 | [El Efecto](https://open.spotify.com/track/2arFzyifrmAqgxnmQQ0SyD) | [Prehistöricos](https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB) | [Abrazo Fantasma](https://open.spotify.com/album/4c6ZcnNFBHrsTtv3oXKwyn) | 2:04 | 2023-12-22 | 2024-08-24 |
@@ -277,6 +278,7 @@
 | [La Mariposa](https://open.spotify.com/track/6fXVqKGofF0vvcj42VDt9T) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La Mariposa](https://open.spotify.com/album/0xjaF0PClNPoGuHQGMMiUM) | 4:28 | 2022-07-22 | 2022-12-10 |
 | [La Mariposa](https://open.spotify.com/track/7rwX7XG5n6uZQJb56wi6Ps) | [Evelyn Cornejo](https://open.spotify.com/artist/3wV40S9AyTLTE2b0Tp0Yo6) | [La Mariposa](https://open.spotify.com/album/6z8h6Kt2P7N89CveweUf37) | 4:28 | 2022-04-15 | 2022-07-29 |
 | [La Mañana](https://open.spotify.com/track/0KIToCiD4bYgdz7nwJle93) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [La Mañana](https://open.spotify.com/album/17hJrkocBoKtoCCEHilJNk) | 4:38 | 2022-10-07 | 2023-01-28 |
+| [LA MENTIRA](https://open.spotify.com/track/6irIbX2RdQt8mJEEWPX7mE) | [Abrildefresa](https://open.spotify.com/artist/1LcrE5dBGGhQpJszNw75xk) | [LA MENTIRA](https://open.spotify.com/album/1vHufPTexEXLqq7eigg4ex) | 3:01 | 2026-09-25 |  |
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2022-09-02 | 2023-01-28 |
 | [la paz](https://open.spotify.com/track/1ZJm8ES9wMWmb64oyZMHb5) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx), [Lorenzo](https://open.spotify.com/artist/1XwazivwhckyJVCfOZSKuX) | [¿nos veremos en diciembre?](https://open.spotify.com/album/0Za4wmkIP6VFTlE92ikh1F) | 3:12 | 2022-04-15 | 2022-10-15 |
 | [La Primera Luz](https://open.spotify.com/track/3NiBKMMrU7gyWMtuuGivZN) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [La Primera Luz](https://open.spotify.com/album/2AxbnQKs5sRvx0xpYSBKNm) | 4:45 | 2025-07-02 | 2026-07-25 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "pop that *hits different* featuring heleina zara",
+  "description": "pop that *hits different* featuring nick ward",
   "name": "*hits different*",
   "tracks": [
     {
@@ -510,7 +510,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 210000,
       "name": "All I'm Thinking About",
       "url": "https://open.spotify.com/track/6ZWHDNIoroLVwZtzKqKecV"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 185445,
       "name": "Buck50",
       "url": "https://open.spotify.com/track/6UVn2oEP0b9Sid7MmCPnAG"
@@ -2078,7 +2078,7 @@
       ],
       "date_added": "2025-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 234228,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/7H5jHyfHk4sAYoS8J8f112"
@@ -6871,6 +6871,24 @@
     },
     {
       "album": {
+        "name": "Jenny",
+        "url": "https://open.spotify.com/album/14PW20ySyvP27eGpXFC79K"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186505,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/67zxIv3yivtuIG6riPQa3U"
+    },
+    {
+      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh"
       },
@@ -8686,7 +8704,7 @@
       ],
       "date_added": "2025-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 165676,
       "name": "Next Summer",
       "url": "https://open.spotify.com/track/6xZCDUaY4XzlhCSHKSW7rf"
@@ -10198,7 +10216,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 230400,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/3wYfxWuuHh6AdFS6s9NpZu"
@@ -10624,7 +10642,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 215444,
       "name": "SINGLE",
       "url": "https://open.spotify.com/track/4nSL7tFJiTFgswlAtfTfn1"
@@ -13442,7 +13460,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 252461,
       "name": "Unlimited Love",
       "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define, but easy to love. Cover: Wasia Project",
+  "description": "Music that's hard to define, but easy to love. Cover: Julia Jacklin",
   "name": "Front Left",
   "tracks": [
     {
@@ -4044,6 +4044,24 @@
       "duration_ms": 193687,
       "name": "Borrowed Time (feat. Forest Claudette)",
       "url": "https://open.spotify.com/track/0QUmJ32lHLSMfAfjKgQake"
+    },
+    {
+      "album": {
+        "name": "Bottle",
+        "url": "https://open.spotify.com/album/0uZGs0m2awRRM75OD1iftN"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258353,
+      "name": "Bottle",
+      "url": "https://open.spotify.com/track/6RE9jLqeJftjRXERFYOK9E"
     },
     {
       "album": {
@@ -11732,7 +11750,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 168523,
       "name": "Get Away From Me (I Think I'll Love You Soon)",
       "url": "https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo"
@@ -12208,7 +12226,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 181405,
       "name": "Gohan",
       "url": "https://open.spotify.com/track/0vldtnMOCaS8t7DjrJ6Kdc"
@@ -16073,6 +16091,24 @@
     },
     {
       "album": {
+        "name": "If I Had The Hand Of God",
+        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161816,
+      "name": "If I Had The Hand Of God",
+      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+    },
+    {
+      "album": {
         "name": "If Only I Could Wait b/w Walk Home",
         "url": "https://open.spotify.com/album/4rP5iSFeZtZBhbyJqqLAVh"
       },
@@ -19362,7 +19398,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 254614,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
@@ -25429,6 +25465,32 @@
     },
     {
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/5OCJBzbEAE30YLojP5Pgo9"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "S\u00f8lv",
+          "url": "https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe"
+        },
+        {
+          "name": "Aidan",
+          "url": "https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259548,
+      "name": "Pure Vice",
+      "url": "https://open.spotify.com/track/2NF2GJ8rSAbirBnzBiF2ri"
+    },
+    {
+      "album": {
         "name": "Purity",
         "url": "https://open.spotify.com/album/3yKU3194yUrl8T499qMKvQ"
       },
@@ -25548,7 +25610,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178455,
       "name": "Quiet When You\u2019re Listening",
       "url": "https://open.spotify.com/track/4dOWpZNo7FSTOCVgudEyPg"
@@ -25740,6 +25802,24 @@
       "duration_ms": 277499,
       "name": "Raw",
       "url": "https://open.spotify.com/track/4fhp9DF01CubZ3PapDjxX1"
+    },
+    {
+      "album": {
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
     },
     {
       "album": {
@@ -26414,6 +26494,24 @@
       "duration_ms": 215013,
       "name": "Romanticize",
       "url": "https://open.spotify.com/track/0H0eV9dVy20XMPROjYZltR"
+    },
+    {
+      "album": {
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/658SJZUurCZ0tbKEyhNMYF"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208331,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3cV0ssCRS5OUR6iRUHf56C"
     },
     {
       "album": {
@@ -32972,7 +33070,7 @@
       ],
       "date_added": "2026-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 145710,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
@@ -33012,6 +33110,24 @@
       "duration_ms": 186178,
       "name": "Too Easy",
       "url": "https://open.spotify.com/track/4AjaZOpRvW2p6LbmkMBVZ8"
+    },
+    {
+      "album": {
+        "name": "too late",
+        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
+      },
+      "artists": [
+        {
+          "name": "Juney Boy",
+          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190157,
+      "name": "too late",
+      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
     },
     {
       "album": {
@@ -36050,7 +36166,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 162096,
       "name": "Yellow Eyes",
       "url": "https://open.spotify.com/track/6xYi9wfZb81gJIVQ95qPNl"

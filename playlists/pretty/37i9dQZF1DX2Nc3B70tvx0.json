@@ -1,6 +1,6 @@
 {
   "description": "A delicious mix of new songs in high rotation. Cover: This is Lorlelei",
-  "num_followers": 1905777,
+  "num_followers": 1905737,
   "original_name": "Indie's Top 50",
   "owner": {
     "name": "Spotify",
@@ -107,7 +107,7 @@
     {
       "added_at": "2026-09-18 04:00:28",
       "album": {
-        "name": "Small Town (feat. Gabriel Jacoby)",
+        "name": "Small Town",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
@@ -118,10 +118,14 @@
         {
           "name": "Gabriel Jacoby",
           "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town (feat. Gabriel Jacoby)",
+      "name": "Small Town",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {

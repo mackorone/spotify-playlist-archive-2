@@ -706,7 +706,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 318237,
       "name": "Baby 95",
       "url": "https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN"
@@ -1379,6 +1379,28 @@
     },
     {
       "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/27YlwZ1tscj1DWR2leSl3A"
+      },
+      "artists": [
+        {
+          "name": "Isma",
+          "url": "https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z"
+        },
+        {
+          "name": "Brunoso",
+          "url": "https://open.spotify.com/artist/7MEwECUpH1JQzXbRMr0nFz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165317,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/67jlIBFa7U8bsTBH5878nU"
+    },
+    {
+      "album": {
         "name": "CHARME",
         "url": "https://open.spotify.com/album/52UMGPQVJjiXH8Md6byhwh"
       },
@@ -1814,7 +1836,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 157450,
       "name": "deu pra sentir? (Kaya Conky & DJ Ramemes RMX)",
       "url": "https://open.spotify.com/track/7EWSKc1dhPGjk1mz1996n1"
@@ -2998,6 +3020,40 @@
       "duration_ms": 169714,
       "name": "Macetada",
       "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
+    },
+    {
+      "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/1oJnkZN4sHgx9vRwbOd2hk"
+      },
+      "artists": [
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+        },
+        {
+          "name": "Adame DJ",
+          "url": "https://open.spotify.com/artist/7lOdAZzqR1Ju4bhq1kZUvy"
+        },
+        {
+          "name": "DJ CARLOZS",
+          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
+        },
+        {
+          "name": "DJ LUKINHAS",
+          "url": "https://open.spotify.com/artist/1ftCFF307OmsAVDAHHpn07"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/5iiJgAxw4oWc1apcCSQ9Ij"
     },
     {
       "album": {

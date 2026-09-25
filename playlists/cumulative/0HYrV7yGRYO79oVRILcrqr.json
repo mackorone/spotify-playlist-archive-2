@@ -3229,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Down By The Riverwalk",
+        "url": "https://open.spotify.com/album/6TwSKoOxgFhunYbSDNRFsn"
+      },
+      "artists": [
+        {
+          "name": "Dane Walden",
+          "url": "https://open.spotify.com/artist/2sjjV36oWAkKZhcoNomT6m"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265000,
+      "name": "Down By The Riverwalk",
+      "url": "https://open.spotify.com/track/70JWZTozKvr338lVmcz9or"
+    },
+    {
+      "album": {
         "name": "Down To The River",
         "url": "https://open.spotify.com/album/2N9x6iL3haJqmmL86ju49p"
       },

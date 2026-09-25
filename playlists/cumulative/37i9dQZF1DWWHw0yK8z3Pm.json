@@ -10197,6 +10197,24 @@
     },
     {
       "album": {
+        "name": "Bird in Flames",
+        "url": "https://open.spotify.com/album/5st5Ezbf3KeNqGEZRsZxgW"
+      },
+      "artists": [
+        {
+          "name": "Damhnait Doyle",
+          "url": "https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233940,
+      "name": "Ready Now",
+      "url": "https://open.spotify.com/track/6xZUShgPgFExUWlVZOHNQJ"
+    },
+    {
+      "album": {
         "name": "Rearview",
         "url": "https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS"
       },
@@ -10776,7 +10794,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 282672,
       "name": "Sacred Love",
       "url": "https://open.spotify.com/track/6MPzmBwZzK2ROm7sEMxMM2"

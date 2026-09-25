@@ -2,9 +2,9 @@
 
 ### [RADAR 新勢力](https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt)
 
-> 大咖讓歌單很有料，小眾讓歌單有得聊。Cover: CClaire 馬愷伶
+> 大咖讓歌單很有料，小眾讓歌單有得聊。Cover: KAXA
 
-844 songs - 2 day 0 hr 22 min
+845 songs - 2 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -824,6 +824,7 @@
 | [關於我失眠的某三個夜晚 Sleepless Wander](https://open.spotify.com/track/4oPsoPQqD1yqCEakS7ibZo) | [Eileen Yo游宇潼](https://open.spotify.com/artist/4L2NMVuHynGLY9FXlQbogX) | [楚門 Dream Sober](https://open.spotify.com/album/7vxlr1fQ9xfkx5tkVuquNo) | 3:38 | 2025-06-12 | 2025-07-11 |
 | [防腐劑](https://open.spotify.com/track/4bYJiPiHiorsKWWaHxqBOe) | [LAWA](https://open.spotify.com/artist/6YRem17JxNaJkYGXm13ElV) | [想到再告訴你](https://open.spotify.com/album/13QDqdLHJrqy3SGEN80yI9) | 3:41 | 2026-04-17 |  |
 | [陪你失敗 \(feat\. 寺二\)](https://open.spotify.com/track/53EYK5DubMOz2x71TZERPl) | [Marz23](https://open.spotify.com/artist/4XBG26mgvzGqT09eopG4d9), [寺二](https://open.spotify.com/artist/1EMVtU2X6lNkNNfALzCEuT) | [23](https://open.spotify.com/album/1i9NZgKrjl9gQVIczUEJYh) | 5:06 | 2021-12-30 | 2025-12-04 |
+| [隱癮 \(影集《郵票與舒芙蕾》主題曲\)](https://open.spotify.com/track/2KSaDdRadbOLfvU3kWMPxy) | [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [隱癮 \(影集《郵票與舒芙蕾》主題曲\)](https://open.spotify.com/album/6VH4LNvAEFfswzrIuEAJJt) | 3:29 | 2026-09-24 |  |
 | [雙重人格](https://open.spotify.com/track/6bkxoNG2cg4hjtrniCGVwB) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [雙重人格](https://open.spotify.com/album/3IwiGXP29ZHPHoP4v3ZE4E) | 3:32 | 2025-03-27 | 2025-09-09 |
 | [雲的距離 \(feat\. Osean\)](https://open.spotify.com/track/6645VYAAcaBWlVYUmiUVQm) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK), [Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [雲的距離 \(feat\. Osean\)](https://open.spotify.com/album/3JPaeWx9N0Y03cFX1KEJSc) | 3:17 | 2021-12-30 | 2022-01-28 |
 | [零米距離](https://open.spotify.com/track/2igZxfKydStcl7OYIr0urL) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [零米距離](https://open.spotify.com/album/0Gvji7HDJqKZXD1PoxHie4) | 2:44 | 2023-09-14 | 2023-09-29 |

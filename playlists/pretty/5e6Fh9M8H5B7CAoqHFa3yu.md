@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,655 songs - 6 day 11 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 356 likes - 2,658 songs - 6 day 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2663,5 +2663,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2653 | [Arkihaaste](https://open.spotify.com/track/4bvpcTLr4XZ5p2flenl64A) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Dörf](https://open.spotify.com/album/7qBnyrXwtdNaGiv3PHh9QO) | 1:30 |
 | 2654 | [Takatalvi](https://open.spotify.com/track/2G2cDWN6YK5vnlHhg1xWdh) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Takatalvi](https://open.spotify.com/album/2XhQfIW7sOgTal0H3GEGC5) | 2:11 |
 | 2655 | [Basquiat's Crown](https://open.spotify.com/track/1iJILtpiM8fM3MkOtIeOmJ) | [Monzarc](https://open.spotify.com/artist/4lmG1YXfns7Fi9VR0DBNeG) | [Basquiat's Crown](https://open.spotify.com/album/4NDM3WS0NHHBqk5kVvwxED) | 3:02 |
+| 2656 | [Tu Silencio \- Remastered](https://open.spotify.com/track/7fsHq1IJWFyqUe99E0Ik9D) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 2:54 |
+| 2657 | [No Hands](https://open.spotify.com/track/0VPLb6WsvR5W47W3t8hCC3) | [Big Mama German](https://open.spotify.com/artist/1kvY3jPpX5drPwPbXycagy) | [No Hands](https://open.spotify.com/album/3cE2NwVw5EZm3F3GaVYLio) | 2:32 |
+| 2658 | [Costa Smeralda](https://open.spotify.com/track/0c8byZvTEM74mRBofEonZX) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi), [Meditherranea & Prova MI & 001 BEST & José Sechi](https://open.spotify.com/artist/0fw3C1w2BWMmiZiayDQzo8) | [Costa Smeralda](https://open.spotify.com/album/7rfG5gyID3loqHeYjpeKc7) | 3:12 |
 
-Snapshot ID: `AAALW7SGdhUkR9BgGviB4zvpXrEKIeER`
+Snapshot ID: `AAALXhKLLvhvPY4uv4AOsTnOYKrmD2uF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,560 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,590 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 41 | [Meu Silêncio \- Ao Vivo](https://open.spotify.com/track/0ycQtDnc4mOcefV6yyV6dm) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Meu Silêncio \(Ao Vivo\)](https://open.spotify.com/album/086Jke99gK8bDLMFkgzGaj) | 2:59 |
 | 42 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/3JojUdNlifAfB5J9dLvJ9H) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Ao Vivo Em Uberlândia](https://open.spotify.com/album/6QRuaVhphYKYRiydSRzQhX) | 2:42 |
 | 43 | [Eu Não Sou Terapia \- Ao Vivo](https://open.spotify.com/track/43M2EwcFfSxthlO3E58Men) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.2 \(Ao Vivo\)](https://open.spotify.com/album/1ejLnHri909csVlNncBvyD) | 2:42 |
-| 44 | [P do Pecado \- Ao Vivo](https://open.spotify.com/track/38Ps9Kui6qJjpVqdBOfN5M) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/530bw7EzQLkhNq2zzD4ppi) | 3:12 |
+| 44 | [P do Pecado \- Ao Vivo](https://open.spotify.com/track/2hjbkQwkoj2aGm0y8Y14v1) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3UPm3oi5dO7mFqjpMCMk8Y) | 3:12 |
 | 45 | [Bala Alojada](https://open.spotify.com/track/2VqS3nosBtSzujuUP6EoKq) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Bala Alojada](https://open.spotify.com/album/4mFeX8UBFJ1KAyvfboPI7d) | 3:38 |
 | 46 | [Displicente \- Ao Vivo](https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Rey Vaqueiro](https://open.spotify.com/artist/2LiTVEYDOEckioqrkD83jL) | [Meu Forró É Mundo \(Ao Vivo\)](https://open.spotify.com/album/3sC9tJZqJHFEwLeEMOLoyN) | 2:38 |
-| 47 | [Apaga Apaga Apaga \- Ao Vivo](https://open.spotify.com/track/17tg01y3RhlfRKMnd333yL) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Toma Essa Verdade \(Ao Vivo\)](https://open.spotify.com/album/6vour1AXVo2RNRspJQjQoV) | 2:58 |
+| 47 | [Apaga Apaga Apaga \- Ao Vivo](https://open.spotify.com/track/6KVrOL5u44mIBeVJc1Aspd) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE) | 3:03 |
 | 48 | [Assunto Que Dói](https://open.spotify.com/track/0vKdIvvXWdvaQ2qPVchDWB) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Feito À Mão](https://open.spotify.com/album/3ZqeqDoYXUEUvfdPkohMjl) | 2:46 |
 | 49 | [Aproveita Que Eu Tô Brigado \- Ao Vivo](https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Vaqueiro](https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt) | [Paredão do Nattan \(Ao Vivo Em Fortaleza\)](https://open.spotify.com/album/42CsFg3kxKccXG5YONxcaS) | 2:36 |
 | 50 | [Não Mexe nas Minhas Gavetas \- Ao Vivo](https://open.spotify.com/track/1CqUGmt2Cyn2vvvAyQKJZQ) | [Danilo e Davi](https://open.spotify.com/artist/5DaqVKaxeqDbJuxaIP9m4u) | [Aliança \- Vol.1 \(Ao Vivo\)](https://open.spotify.com/album/5GAdbWrj64YwrmUh1HJtfE) | 2:06 |
 
-Snapshot ID: `MkdHqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MkibgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

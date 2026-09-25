@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 134269,
       "name": "Look What You Done",
       "url": "https://open.spotify.com/track/5K2ueQB4fbPQANVWfJAs7E"
@@ -4456,6 +4456,28 @@
       "duration_ms": 168000,
       "name": "YOD Body",
       "url": "https://open.spotify.com/track/3iHhb80y9mjfHzGKDVWMsA"
+    },
+    {
+      "album": {
+        "name": "WHAT REMAINS",
+        "url": "https://open.spotify.com/album/1KlMknPbPoZLgevvWAKbF6"
+      },
+      "artists": [
+        {
+          "name": "ANKHLEJOHN",
+          "url": "https://open.spotify.com/artist/5C4Ykpj8uV3LkRANA6rF9M"
+        },
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86400,
+      "name": "YOU",
+      "url": "https://open.spotify.com/track/4NGPIOGig9sCHWj6roOmeu"
     },
     {
       "album": {

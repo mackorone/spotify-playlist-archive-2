@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 685757,
+  "num_followers": 685912,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAqJVYpVJTXy9iaAP7ax9EU",
+  "snapshot_id": "arMWgAAAAADRBpcIbtYgVBPXwG6xLm9M",
   "tracks": [
     {
       "added_at": null,
@@ -363,18 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Heartbreak",
-        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
+        "name": "Bowery (feat. Kings of Leon)",
+        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 211315,
-      "name": "The Good I'll Do",
-      "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
+      "duration_ms": 215720,
+      "name": "Bowery (feat. Kings of Leon)",
+      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
     },
     {
       "added_at": null,
@@ -395,22 +399,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bowery (feat. Kings of Leon)",
-        "url": "https://open.spotify.com/album/1BzIKcIst2uamVE2pPa6jc"
+        "name": "American Heartbreak",
+        "url": "https://open.spotify.com/album/7IouDrXPdAZwT1NzVV3vef"
       },
       "artists": [
         {
           "name": "Zach Bryan",
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
         }
       ],
-      "duration_ms": 215720,
-      "name": "Bowery (feat. Kings of Leon)",
-      "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
+      "duration_ms": 211315,
+      "name": "The Good I'll Do",
+      "url": "https://open.spotify.com/track/53zCCom4uEoIBaOAEJtjUL"
     },
     {
       "added_at": null,

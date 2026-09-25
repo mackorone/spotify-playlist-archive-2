@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Taiwan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,431 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,447 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMVY2FDHm6NN.md) - [plain]
 | 49 | [STAY \(with Justin Bieber\)](https://open.spotify.com/track/567e29TDzLwZwfDuEpGTwo) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:21 |
 | 50 | [她 \(《早春晴朗》电视剧栾念人物曲&片头曲\)](https://open.spotify.com/track/0dYusc5JF8EIs54li8G7nV) | [刘宇宁](https://open.spotify.com/artist/5k5iMDK1nWLbb0eqMnpuKl) | [早春晴朗 影视原声带](https://open.spotify.com/album/4DevME3UR6XE5EKbXLuQoC) | 3:41 |
 
-Snapshot ID: `MkdHqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MkibgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

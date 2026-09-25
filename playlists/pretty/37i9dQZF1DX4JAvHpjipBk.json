@@ -1,6 +1,6 @@
 {
   "description": "New music from Travis Scott, ROS\u00c9, Miley Cyrus, Riley Green and more!",
-  "num_followers": 4631890,
+  "num_followers": 4631932,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
@@ -103,7 +103,7 @@
     {
       "added_at": "2026-09-18 04:20:36",
       "album": {
-        "name": "Small Town (feat. Gabriel Jacoby)",
+        "name": "Small Town",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
@@ -114,10 +114,14 @@
         {
           "name": "Gabriel Jacoby",
           "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town (feat. Gabriel Jacoby)",
+      "name": "Small Town",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {

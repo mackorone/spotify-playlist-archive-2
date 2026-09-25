@@ -52,7 +52,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 133026,
       "name": "19.15.19",
       "url": "https://open.spotify.com/track/6NsM3fj9p3AcFLmODInrfy"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 164178,
       "name": "A Butterfly Stands Vigil",
       "url": "https://open.spotify.com/track/1Kp91rJwOnHRwwRNXkKC7Y"
@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Amalgamate",
+        "url": "https://open.spotify.com/album/6WYagw8Hs9hjtfsj4BN2dy"
+      },
+      "artists": [
+        {
+          "name": "33EMYBW",
+          "url": "https://open.spotify.com/artist/0faVPXr9Sui0OWJl2hRDQT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433933,
+      "name": "Amalgamate",
+      "url": "https://open.spotify.com/track/35RBX89Vhq0KhiJ8JtxWcj"
+    },
+    {
+      "album": {
         "name": "An Antiphon after Hildegard",
         "url": "https://open.spotify.com/album/1ZYOqWs9WearZgv18WlZz0"
       },
@@ -1017,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Arms Of None (Radio Edit)",
+        "url": "https://open.spotify.com/album/1hEYi5lhsBqYdMU8RdCDBu"
+      },
+      "artists": [
+        {
+          "name": "Pharaoh Overlord",
+          "url": "https://open.spotify.com/artist/3Aym9HWMoIOubfMXll94Jp"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "Arms Of None - Radio Edit",
+      "url": "https://open.spotify.com/track/5xejcbSawbgnUGFThil3et"
+    },
+    {
+      "album": {
         "name": "Around The Wrekin",
         "url": "https://open.spotify.com/album/2fKX6tZoHXzxbikTyNxSZ7"
       },
@@ -1174,7 +1210,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 403760,
       "name": "Baby With The Sail",
       "url": "https://open.spotify.com/track/36Ij7CZyLOkI65y5UOF91y"
@@ -1685,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "Bj\u00e4rtr\u00e5 Fyra",
+        "url": "https://open.spotify.com/album/46knh97wWB7kchnnFR9ZGO"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        },
+        {
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410599,
+      "name": "Bj\u00e4rtr\u00e5 Fyra",
+      "url": "https://open.spotify.com/track/4Qcttp4k74GjF765dRdY3p"
+    },
+    {
+      "album": {
         "name": "Bj\u00e4rtr\u00e5 Tv\u00e5",
         "url": "https://open.spotify.com/album/35ZJwivzWUkyp1kKdFfMSo"
       },
@@ -2018,6 +2076,24 @@
       "duration_ms": 987312,
       "name": "BOUNDARY MISSING A REACTOR",
       "url": "https://open.spotify.com/track/3serR4dR4ErtwLZy3whqbR"
+    },
+    {
+      "album": {
+        "name": "BOWIE",
+        "url": "https://open.spotify.com/album/5H82lQLFzAnmPUTWfI408E"
+      },
+      "artists": [
+        {
+          "name": "otta",
+          "url": "https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "BOWIE",
+      "url": "https://open.spotify.com/track/2IlmcajrKigsFzy2Xur1Ay"
     },
     {
       "album": {
@@ -2480,7 +2556,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 226500,
       "name": "Carte Blanche",
       "url": "https://open.spotify.com/track/3rMYLmFZVyHvjAJsy953wC"
@@ -2784,7 +2860,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 184000,
       "name": "Circles Over The Earth",
       "url": "https://open.spotify.com/track/0d8txD00dszzbNkBbPIyGi"
@@ -3080,7 +3156,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 218586,
       "name": "Complicated",
       "url": "https://open.spotify.com/track/1TdnlJ62Wz3Z1QPXN9E02P"
@@ -3511,6 +3587,32 @@
     },
     {
       "album": {
+        "name": "Cycle (James Adrian Brown Remix)",
+        "url": "https://open.spotify.com/album/3Ym4p1q43fi3U5XIat6JZa"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        },
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        },
+        {
+          "name": "James Adrian Brown",
+          "url": "https://open.spotify.com/artist/42tz1PWwrLG2F3nZzVSVQq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246868,
+      "name": "Cycle - James Adrian Brown Remix",
+      "url": "https://open.spotify.com/track/0NJdkW3lUrbCDVAyswYZU3"
+    },
+    {
+      "album": {
         "name": "The Wildcat EP",
         "url": "https://open.spotify.com/album/0swNweqM7sW3zw70uduM8F"
       },
@@ -3612,7 +3714,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 206769,
       "name": "Dancing With Boys",
       "url": "https://open.spotify.com/track/6toSyb6pbuMHwrocFQeVAr"
@@ -4536,6 +4638,24 @@
       "duration_ms": 226197,
       "name": "Dragon Warrior",
       "url": "https://open.spotify.com/track/63A5y9w3tPliujoBhamAYI"
+    },
+    {
+      "album": {
+        "name": "Drastika",
+        "url": "https://open.spotify.com/album/4UBfetOdfwdko9axrtQAlg"
+      },
+      "artists": [
+        {
+          "name": "Sense Fracture",
+          "url": "https://open.spotify.com/artist/1izZ6suiYhavcv4x9GJXMJ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301333,
+      "name": "Drastika",
+      "url": "https://open.spotify.com/track/4y59S8iiE8eMppm9G9Pskg"
     },
     {
       "album": {
@@ -6670,7 +6790,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169215,
       "name": "Gloam Eyed Murmur",
       "url": "https://open.spotify.com/track/2IrVJbCmf5mUVqZkMsuM36"
@@ -12676,7 +12796,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 545000,
       "name": "Phosphenes - claire rousay EDIT",
       "url": "https://open.spotify.com/track/1dgiMqTuhDvBgFzX0mqMK5"
@@ -13046,6 +13166,24 @@
       "duration_ms": 272197,
       "name": "Prince Of This World",
       "url": "https://open.spotify.com/track/5ZC7ayVCUdBfQAMQmZWVQ0"
+    },
+    {
+      "album": {
+        "name": "Psychic Area",
+        "url": "https://open.spotify.com/album/0n4Z5fNrikGoh4N3HhTd2w"
+      },
+      "artists": [
+        {
+          "name": "Joachim Nordwall",
+          "url": "https://open.spotify.com/artist/4w3hQtyx7t6ULytAbNYA30"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 644000,
+      "name": "Private Listener",
+      "url": "https://open.spotify.com/track/38Q9WsBzOU8aheubWtAiLq"
     },
     {
       "album": {
@@ -14204,7 +14342,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 394607,
       "name": "Scorched and Shrivelled",
       "url": "https://open.spotify.com/track/2E8Lon4ACR8KOTa5PtT27s"
@@ -14435,6 +14573,24 @@
     },
     {
       "album": {
+        "name": "Severn Flood Plain",
+        "url": "https://open.spotify.com/album/2ixDGlHsYZNWMm5jb8swgs"
+      },
+      "artists": [
+        {
+          "name": "Jabu",
+          "url": "https://open.spotify.com/artist/0k39wRHFnByQK98pvTw5XJ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218362,
+      "name": "Severn Flood Plain",
+      "url": "https://open.spotify.com/track/7581l4ChlzSAdybje2MPiH"
+    },
+    {
+      "album": {
         "name": "Altered Fetes",
         "url": "https://open.spotify.com/album/2goTNY7UJ1hJl6zbD14hCC"
       },
@@ -14486,6 +14642,24 @@
       "duration_ms": 426500,
       "name": "Shadow Mirror",
       "url": "https://open.spotify.com/track/42FXyGS2W94sTXFhMh7tT9"
+    },
+    {
+      "album": {
+        "name": "Shake Sum Action",
+        "url": "https://open.spotify.com/album/6wGffsRVU0dQOfr9o8qLv8"
+      },
+      "artists": [
+        {
+          "name": "SPLIT DOGS",
+          "url": "https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114548,
+      "name": "Shake Sum Action",
+      "url": "https://open.spotify.com/track/2kPiyPrnsM0nDDuyzJzqB8"
     },
     {
       "album": {
@@ -17505,6 +17679,24 @@
     },
     {
       "album": {
+        "name": "The Village Beneath the Waves",
+        "url": "https://open.spotify.com/album/4fTk5GOCLt4OjMuIziAiLe"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135549,
+      "name": "The Village Beneath the Waves",
+      "url": "https://open.spotify.com/track/7sJSy5JOR124UCRYqycALL"
+    },
+    {
+      "album": {
         "name": "The Wall",
         "url": "https://open.spotify.com/album/4qqXwY0VNrb8kKHMkGq85C"
       },
@@ -17592,7 +17784,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 538426,
       "name": "The Witness",
       "url": "https://open.spotify.com/track/0CXXi7f2o2pQ9iXSrtexQR"
@@ -17712,6 +17904,24 @@
       "duration_ms": 110923,
       "name": "This Din",
       "url": "https://open.spotify.com/track/5dH4JExfpa6ifzv9Cf45uF"
+    },
+    {
+      "album": {
+        "name": "This Machine",
+        "url": "https://open.spotify.com/album/4rFIzHfoPqw153OLrz6927"
+      },
+      "artists": [
+        {
+          "name": "Warrington-Runcorn New Town Development Plan",
+          "url": "https://open.spotify.com/artist/0kYGmuTQJNE0BrbEx6lqXr"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303939,
+      "name": "This Machine",
+      "url": "https://open.spotify.com/track/5C0SOENiaG6FQTGYKt4cRd"
     },
     {
       "album": {
@@ -18315,6 +18525,24 @@
     },
     {
       "album": {
+        "name": "Two Bubbles",
+        "url": "https://open.spotify.com/album/3EiS5uzVCcC2maL8S9LFF2"
+      },
+      "artists": [
+        {
+          "name": "Another Dancer",
+          "url": "https://open.spotify.com/artist/1APEs2tCNyGr2pdAvfCZHq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217263,
+      "name": "Two Bubbles",
+      "url": "https://open.spotify.com/track/5i9grnKLlXX5ajutZQCbpH"
+    },
+    {
+      "album": {
         "name": "Ugly Thing",
         "url": "https://open.spotify.com/album/6SP5VTxVS0NbcJiT1n2PN8"
       },
@@ -18456,7 +18684,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 246578,
       "name": "Unstable Neighbour",
       "url": "https://open.spotify.com/track/0PunlJXvb9r1eos0SjgAVJ"
@@ -18912,6 +19140,24 @@
       "duration_ms": 148542,
       "name": "Waiting Room",
       "url": "https://open.spotify.com/track/5oMpudurhFIcZzzZrP1gdG"
+    },
+    {
+      "album": {
+        "name": "Walk Ya Down",
+        "url": "https://open.spotify.com/album/7h0MS27tdPleRmDuj0TN76"
+      },
+      "artists": [
+        {
+          "name": "Dj.Mc",
+          "url": "https://open.spotify.com/artist/2WjLYf8BKXileo5m5VHgPm"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204197,
+      "name": "Walk Ya Down",
+      "url": "https://open.spotify.com/track/5HFZ1foVMlgMcMIHNz8hLQ"
     },
     {
       "album": {
@@ -19684,6 +19930,28 @@
       "duration_ms": 160000,
       "name": "You're a Loser Mate",
       "url": "https://open.spotify.com/track/1CEz2ShCZcb3SLNaE3BkTI"
+    },
+    {
+      "album": {
+        "name": "Young Forever (Sunshine Mix)",
+        "url": "https://open.spotify.com/album/7nQGsKgTxylohqThlVZ9iO"
+      },
+      "artists": [
+        {
+          "name": "Opal Mag",
+          "url": "https://open.spotify.com/artist/04DSTB4v2Gskr37xC4uaAD"
+        },
+        {
+          "name": "Dorl\u00e9ac",
+          "url": "https://open.spotify.com/artist/2Hzbu9BaTEpjmg08iZmpJe"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228986,
+      "name": "Young Forever - Sunshine Mix",
+      "url": "https://open.spotify.com/track/2mKzyiBPFzwcNRHjmY7yuL"
     },
     {
       "album": {

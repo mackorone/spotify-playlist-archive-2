@@ -425,6 +425,28 @@
     },
     {
       "album": {
+        "name": "De Hele Week",
+        "url": "https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG"
+      },
+      "artists": [
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        },
+        {
+          "name": "Avenue",
+          "url": "https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "De Hele Week",
+      "url": "https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM"
+    },
+    {
+      "album": {
         "name": "Ereronde",
         "url": "https://open.spotify.com/album/5x6jUW8ou4atrbCBGjGucG"
       },
@@ -454,7 +476,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 127850,
       "name": "Doe Rustig",
       "url": "https://open.spotify.com/track/7moKARHYaqaAddizkT0d9n"

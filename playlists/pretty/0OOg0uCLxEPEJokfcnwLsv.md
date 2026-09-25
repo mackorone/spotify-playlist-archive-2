@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,314 likes - 95 songs - 5 hr 37 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,322 likes - 96 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,5 +103,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 93 | [Power](https://open.spotify.com/track/3tfHumqKKjYOGC0DlfjM49) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Power](https://open.spotify.com/album/7IkJYzGSBxOuoidbs9a4vw) | 2:04 |
 | 94 | [Come In For A Ride](https://open.spotify.com/track/59WCT4u8ly3HmomMlOsAnm) | [Risco](https://open.spotify.com/artist/3dVFxGEdrAp9qWS9AdcuvL) | [Come In For A Ride](https://open.spotify.com/album/0LQCVXXY3h4hzLBgcZl8SI) | 3:02 |
 | 95 | [Devil's Blues](https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv) | [Gravens](https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y) | [Rising](https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL) | 3:55 |
+| 96 | [Kimberly Clark](https://open.spotify.com/track/06QggER0hHCYmRIfOW3Igr) | [Stane](https://open.spotify.com/artist/7eLnp0P9jfpkziT43TV8tG) | [Kimberly Clark](https://open.spotify.com/album/3Sv8C39VaBa1lTjkAcyQrr) | 4:57 |
 
-Snapshot ID: `AAAHCMTQZTEQVfBAp5UdAQXpZCoBaSMf`
+Snapshot ID: `AAAHCXODNGRTFnU7QqofwDXhCHJ2a7HL`

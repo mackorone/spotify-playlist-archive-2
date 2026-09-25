@@ -2,9 +2,9 @@
 
 ### [Afro Bars ](https://open.spotify.com/playlist/37i9dQZF1DXdl8xYyG9Dm1)
 
-> The latest straight bars and Afro\-Trap\. Cover: Kayode
+> The latest straight bars and Afro\-Trap\. Cover: Kweku Smoke
 
-456 songs - 23 hr 21 min
+457 songs - 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Blood on My Hands](https://open.spotify.com/track/0VaFr38OtY9nqx0HPBJhEz) | [Apex Village](https://open.spotify.com/artist/2ARvKBDt3jOQooc73rI2Y2), [Laime](https://open.spotify.com/artist/5G36eoF6O2hTwz3mNc6uvA), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Blood on My Hands](https://open.spotify.com/album/0OzjJ6qBaDig8Aw1N9U9ot) | 1:53 | 2024-09-27 | 2024-10-09 |
 | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/track/6G45nT1iMlP1HdJ0MCTuDU) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8) | [Blood, Sweat & Tears \(with Bas & Black Sherif feat\. Kel\-P\)](https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV) | 3:42 | 2023-02-23 | 2023-09-15 |
 | [Bluff](https://open.spotify.com/track/20o16MJXk6Jib9dx2bOUR9) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [To Whom It May Concern](https://open.spotify.com/album/4QlwqxdrSVolU2dcaHzfx9) | 3:05 | 2024-09-13 | 2025-08-25 |
+| [Bombele](https://open.spotify.com/track/5To9w1yLFlEOfs2EK7Ld7e) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:21 | 2026-09-25 |  |
 | [BONIFACE](https://open.spotify.com/track/5AFItM5SVDczk1FE7RzLGZ) | [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [BONIFACE](https://open.spotify.com/album/2p4DiGEh1t9B43kfIDt2xM) | 2:08 | 2025-06-13 | 2025-07-06 |
 | [Boom Boom](https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [Reggie](https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Boom Boom](https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp) | 2:44 | 2024-03-07 | 2026-03-20 |
 | [Born To Win](https://open.spotify.com/track/05xkxPqRIiCuhXP3wSn8Zn) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Ivyson Army Tour Mixtape](https://open.spotify.com/album/1aVDTp3dj2thrSRcXyTVlA) | 2:58 | 2023-01-27 | 2024-04-19 |
@@ -247,7 +248,7 @@
 | [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 | 2022-09-08 | 2023-05-12 |
 | [Life & Money](https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 3:05 | 2023-04-27 | 2024-07-27 |
 | [LiFT ME UP](https://open.spotify.com/track/6wESd7UAIYQezagahRvgXR) | [Zoocci Coke Dope](https://open.spotify.com/artist/6nScSYRb9Qy2b6HJpDtm4w), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [ANXIETY+](https://open.spotify.com/album/7dxx181PWmsSWdb59f4upZ) | 5:32 | 2022-02-24 | 2023-09-15 |
-| [Lights](https://open.spotify.com/track/4QUpQIPx61jcPqf1kY3ggz) | [Big Tril](https://open.spotify.com/artist/3VY9mDRZ1p3OMWAaAsH4bG), [Keya Nemesis](https://open.spotify.com/artist/0uvd3XlE4E0XhRpJnimNao), [4ourton](https://open.spotify.com/artist/3i21lmJVuwJI6pgUIDaThk) | [Lights](https://open.spotify.com/album/3Lcm6fqaPBynyiFFFkOE63) | 5:00 | 2026-07-17 |  |
+| [Lights](https://open.spotify.com/track/4QUpQIPx61jcPqf1kY3ggz) | [Big Tril](https://open.spotify.com/artist/3VY9mDRZ1p3OMWAaAsH4bG), [Keya Nemesis](https://open.spotify.com/artist/0uvd3XlE4E0XhRpJnimNao), [4ourton](https://open.spotify.com/artist/3i21lmJVuwJI6pgUIDaThk) | [Lights](https://open.spotify.com/album/3Lcm6fqaPBynyiFFFkOE63) | 5:00 | 2026-07-17 | 2026-09-25 |
 | [LIKE THIS](https://open.spotify.com/track/2DDHFzK8hrJnyBICEft8sT) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl), [Jay Jody](https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR) | [LIKE THIS](https://open.spotify.com/album/19ZbPQ20CWfBWsBnr80VGj) | 4:07 | 2024-01-26 | 2024-02-09 |
 | [Link Up](https://open.spotify.com/track/0CKZ0eCTKaaJh1vQjO27fC) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [River](https://open.spotify.com/album/7ah9Tdf9Mmyiop59znBjKD) | 3:19 | 2021-11-18 | 2022-06-10 |
 | [Loaded Clip](https://open.spotify.com/track/6laQhvFYyIgZG21a6zx0HW) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Confuse The Enemy](https://open.spotify.com/album/3afQKHp5khJj6C04a1CNIp) | 2:03 | 2024-10-18 | 2025-01-10 |

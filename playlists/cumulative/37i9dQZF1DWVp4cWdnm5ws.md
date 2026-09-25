@@ -2,9 +2,9 @@
 
 ### [RADAR Philippines](https://open.spotify.com/playlist/37i9dQZF1DWVp4cWdnm5ws)
 
-> Introducing RADAR Philippines Cast of 2026\. Cover: fitterkarma
+> Introducing RADAR Philippines Cast of 2026\. Cover: NEW LORE
 
-358 songs - 21 hr 13 min
+359 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [FALL INLOVE!](https://open.spotify.com/track/50jE8ROz3vg6xz4R4zmqyf) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [DON'T BLAME THE WILD ONE!](https://open.spotify.com/album/2s0MytVX9rDJZiF3tdoiBZ) | 3:33 | 2025-03-27 | 2026-04-07 |
 | [Fantasy](https://open.spotify.com/track/4rbF4dsT1wGGBfzYD5QvlY) | [dia maté](https://open.spotify.com/artist/4UcpNyDTbuLdGygQNjuXfd) | [Fantasy](https://open.spotify.com/album/1c6rZYnAwbqtP143pk75SL) | 3:41 | 2022-03-24 | 2023-04-14 |
 | [Favorite Song](https://open.spotify.com/track/6pb9teTllbc7fiDrj4FqjM) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Favorite Song](https://open.spotify.com/album/7KZALqdD9hM0Fq5eeauP5r) | 3:17 | 2024-10-04 | 2025-03-28 |
+| [Fleabag \(feat\. Paolo Sandejas\)](https://open.spotify.com/track/7xRga53GguD9bLi2NtaIv3) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Fleabag \(feat\. Paolo Sandejas\)](https://open.spotify.com/album/1e36Xz5KJvTY3zVjVWIi8h) | 2:53 | 2026-09-25 |  |
 | [Fly You to the Moon](https://open.spotify.com/track/0airDlKC7gQNcooMHyIydT) | [Justin Vasquez](https://open.spotify.com/artist/1juIpte4oHJ5ngVLPTUPuJ) | [Fly You to the Moon](https://open.spotify.com/album/5GHJ6bygyiZAtYFjYgIUjd) | 2:52 | 2025-03-27 | 2026-04-07 |
 | [FLYING KISS](https://open.spotify.com/track/7FM8EdwFO6n4v6vFoHpGDE) | [Dilaw](https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL) | [FLYING KISS](https://open.spotify.com/album/36QzRszqEQuFj7USj7A6eA) | 3:25 | 2025-05-16 | 2026-04-07 |
 | [Fools](https://open.spotify.com/track/6DrkG6Um9xknX1s1EEAiOt) | [of Mercury](https://open.spotify.com/artist/7b5ESQnv2E9bBUn4aa1ZUb) | [Fools](https://open.spotify.com/album/72KInjGAd2d3lnnUfq4kSH) | 4:58 | 2021-11-25 | 2022-03-25 |

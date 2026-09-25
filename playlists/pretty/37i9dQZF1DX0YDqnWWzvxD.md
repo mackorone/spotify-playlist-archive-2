@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,407 likes - 100 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,567 likes - 100 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 7 | [Gahar Saans Lene](https://open.spotify.com/track/1IN5GXBfxjj9AChKNxBIxY) | [Yog Sthaan](https://open.spotify.com/artist/3WT6T8U794GLy6Y5KQ22Mq) | [Gahar Saans Lene](https://open.spotify.com/album/6trlusMhaofoMrErS0kezO) | 3:31 |
 | 8 | [Zen Dream](https://open.spotify.com/track/25XPqvEFcoBRJrOCMWXYyK) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Zen Dream](https://open.spotify.com/album/2i650uiyy3whaLil4v4cGv) | 3:34 |
 | 9 | [Atman](https://open.spotify.com/track/4VxBlGryb8qI5X3x2FfOW5) | [Shaanti Dhvani](https://open.spotify.com/artist/1dT771je9qOYSwruMXIkn7) | [Atman](https://open.spotify.com/album/6p4iQ4XzoXSBbZXsQvqiVA) | 3:06 |
-| 10 | [Healing Shores \- Bonus Track](https://open.spotify.com/track/4TrYTLqm1nNLP7bHJuum7V) | [Ty Burhoe](https://open.spotify.com/artist/3hmDfMtcGx9Nydb395MyxZ), [Bill Douglas](https://open.spotify.com/artist/6Q59EZh3Nb2urfj82a8XFK) | [Horizon](https://open.spotify.com/album/13DJdET1L9Fqw6Xtm8kmVr) | 5:33 |
-| 11 | [Land of the Medicine Buddha \(Instrumental Meditation With Bamboo Flute, Singing Bowls & Nature Sounds\)](https://open.spotify.com/track/4JSl7jspo0pnnh4iy3z2NQ) | [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Call Within](https://open.spotify.com/album/3hWS8n1PFg2GUGScBKvjQU) | 7:13 |
+| 10 | [Land of the Medicine Buddha \(Instrumental Meditation With Bamboo Flute, Singing Bowls & Nature Sounds\)](https://open.spotify.com/track/4JSl7jspo0pnnh4iy3z2NQ) | [Manose](https://open.spotify.com/artist/4JuGrH8E5Xgddd61nqIViQ) | [Call Within](https://open.spotify.com/album/3hWS8n1PFg2GUGScBKvjQU) | 7:13 |
+| 11 | [Healing Shores \- Bonus Track](https://open.spotify.com/track/4TrYTLqm1nNLP7bHJuum7V) | [Ty Burhoe](https://open.spotify.com/artist/3hmDfMtcGx9Nydb395MyxZ), [Bill Douglas](https://open.spotify.com/artist/6Q59EZh3Nb2urfj82a8XFK) | [Horizon](https://open.spotify.com/album/13DJdET1L9Fqw6Xtm8kmVr) | 5:33 |
 | 12 | [The Healing Process](https://open.spotify.com/track/23puVz6Rhiq8Wax9KxnZtW) | [Koh Lantana](https://open.spotify.com/artist/5D20KUB6A3CzLjb2DfRJqc) | [The Healing Process](https://open.spotify.com/album/6Rx2jbmQ5RWp5aCabk5LJq) | 2:41 |
 | 13 | [Core Of The Truth](https://open.spotify.com/track/3DNakDCMuqiAruLyfFpGo2) | [Dhyaan Sangeet](https://open.spotify.com/artist/0oNBpryPTA3j6vZcTSMHZI) | [Core Of The Truth](https://open.spotify.com/album/2F2QlV18Oyqqdi2rUa7KFS) | 3:26 |
 | 14 | [Savasana Sunrise \- Dawn Flow](https://open.spotify.com/track/2dzq1Q3e8ojTtuaB70DT9j) | [Stevin McNamara](https://open.spotify.com/artist/3n25Lt7Pj891H5zFEywMX8) | [Savasana Yoga Music: Healing Guitar for Massage, Sleep and Yoga Nidra](https://open.spotify.com/album/1bH7BSpVdLz36rQ8S3eGRn) | 5:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 
 > This is Lola Young\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,076 likes - 45 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,095 likes - 45 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 22 | [Good Books](https://open.spotify.com/track/7qqDAVEq3y8yKmEMVMJ6Wf) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:14 |
 | 23 | [Penny Out of Nothing](https://open.spotify.com/track/13IkomhqmUSYDHlFeOddVJ) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 4:01 |
 | 24 | [Revolve Around You](https://open.spotify.com/track/2cuqluSFXdM2weiP6lN8kY) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:12 |
-| 25 | [Bad Tattoo](https://open.spotify.com/track/2zw7f5vqU22SkaaQoir5z3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bad Tattoo](https://open.spotify.com/album/1t6lsN537l6aHAmyS1pT4y) | 3:53 |
-| 26 | [3rd of Jan](https://open.spotify.com/track/3g50kqe9qShzWTCf6b6GbW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:25 |
+| 25 | [3rd of Jan](https://open.spotify.com/track/3g50kqe9qShzWTCf6b6GbW) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:25 |
+| 26 | [Bad Tattoo](https://open.spotify.com/track/2zw7f5vqU22SkaaQoir5z3) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bad Tattoo](https://open.spotify.com/album/1t6lsN537l6aHAmyS1pT4y) | 3:53 |
 | 27 | [Walk All Over You](https://open.spotify.com/track/1RsBQ3yupjXE6dTbP8gPbl) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [I’m Only F\*\*king Myself](https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts) | 3:04 |
 | 28 | [Semantic Satiation](https://open.spotify.com/track/3lvPfDVsd8kBj8j1QrnKV5) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 2:59 |
 | 29 | [I Don't Mind](https://open.spotify.com/track/1dVzh4UqR5m6wKk8x5OXcv) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Bose x NME: C24](https://open.spotify.com/album/5KKWsXzOZnaBpGLQjJCRrD) | 1:18 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BYnvm.md) - [plain]
 | 44 | [THE MAN](https://open.spotify.com/track/02xb460RUQTPNJsV726RZS) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Intro](https://open.spotify.com/album/7nlnkF135vozYOVdbtEi0z) | 3:19 |
 | 45 | [Crush](https://open.spotify.com/track/19ddrF8BsiVVYszpeWjb6y) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 3:46 |
 
-Snapshot ID: `arHFAAAAAABECnxjZxLV9GdODxAfHXeZ`
+Snapshot ID: `arMWgAAAAABKvbR55rICk6h5OMERCFij`

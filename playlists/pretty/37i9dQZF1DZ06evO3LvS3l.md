@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,098 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,099 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 40 | [The Fish Aren't Bitin' Today](https://open.spotify.com/track/1bYzoLz1GonUYnrqjMppKc) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Compass Point](https://open.spotify.com/album/1tEXpuNhfMIPwxOxPO59kr) | 3:08 |
 | 41 | [Mona Lisa Lost Her Smile](https://open.spotify.com/track/3FOlVDzrfBuVfIy93fqgDN) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 3:39 |
 | 42 | [Mama Tried](https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe Sings Merle Haggard](https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4) | 2:14 |
-| 43 | [Hey Gypsy](https://open.spotify.com/track/1mhMZNhh6uwgJYYZYOrBdO) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Tattoo](https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W) | 2:21 |
-| 44 | [Drank My Wife Away](https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV) | 3:17 |
-| 45 | [Whiskey, Whiskey \(Take My Mind\)](https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [D.A.C.](https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1) | 2:30 |
+| 43 | [Drank My Wife Away](https://open.spotify.com/track/4y9t3AJ7Hj4ceYpxKBqESf) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV) | 3:17 |
+| 44 | [Whiskey, Whiskey \(Take My Mind\)](https://open.spotify.com/track/1wF6guhoUL3dHyzHbUX1GB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [D.A.C.](https://open.spotify.com/album/60EBaGNNZ6CPedkImS61v1) | 2:30 |
+| 45 | [Hey Gypsy](https://open.spotify.com/track/1mhMZNhh6uwgJYYZYOrBdO) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Tattoo](https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W) | 2:21 |
 | 46 | [Cheap Thrills](https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Castles in the Sand](https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib) | 2:42 |
 | 47 | [Sweet Vibrations \(Some Folks Call It Love\)](https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 3:02 |
 | 48 | [\(If I Could Climb\) The Walls of the Bottle](https://open.spotify.com/track/29mXFLxchnrdvlCA1QrcfT) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Mysterious Rhinestone Cowboy](https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi) | 2:15 |
 | 49 | [Hank Williams Junior\-Junior](https://open.spotify.com/track/1fiPB8rWT31z8it5R8V6Hv) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [I've Got Something to Say](https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN) | 2:42 |
 | 50 | [Satisfied Mind](https://open.spotify.com/track/2TupUbFN9bwUOaIhiZo7q2) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Texas Moon \(Deluxe Edition\)](https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj) | 4:26 |
 
-Snapshot ID: `arHFAAAAAAA6z/2wvmbf5jOcNx0Bj9Q5`
+Snapshot ID: `arMWgAAAAADlieAqGCjW9CIdbbjesjMb`

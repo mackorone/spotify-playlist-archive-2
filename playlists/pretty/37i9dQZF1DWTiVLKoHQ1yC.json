@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 262988,
+  "num_followers": 263010,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -275,42 +275,6 @@
     {
       "added_at": "2026-09-10 23:00:28",
       "album": {
-        "name": "As Soon As I Get Home",
-        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
-      },
-      "artists": [
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
-        },
-        {
-          "name": "SHYA",
-          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
-        }
-      ],
-      "duration_ms": 239885,
-      "name": "As Soon As I Get Home",
-      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
-    },
-    {
-      "added_at": "2026-09-10 23:00:28",
-      "album": {
-        "name": "Dreams At Dusk Part II",
-        "url": "https://open.spotify.com/album/5dKEW9jX244nNWJ6T5vKTT"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 241976,
-      "name": "Further",
-      "url": "https://open.spotify.com/track/0AeuRQtq6TtNNq7xxPJfEf"
-    },
-    {
-      "added_at": "2026-09-10 23:00:28",
-      "album": {
         "name": "World Is Mine",
         "url": "https://open.spotify.com/album/5rCuyoc0PgtgCb2hpoQqMZ"
       },
@@ -331,6 +295,42 @@
       "duration_ms": 286080,
       "name": "World Is Mine",
       "url": "https://open.spotify.com/track/0IOtFlCwTsHdekpZsaK0Ua"
+    },
+    {
+      "added_at": "2026-09-10 23:00:28",
+      "album": {
+        "name": "Dreams At Dusk Part II",
+        "url": "https://open.spotify.com/album/5dKEW9jX244nNWJ6T5vKTT"
+      },
+      "artists": [
+        {
+          "name": "Eli & Fur",
+          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
+        }
+      ],
+      "duration_ms": 241976,
+      "name": "Further",
+      "url": "https://open.spotify.com/track/0AeuRQtq6TtNNq7xxPJfEf"
+    },
+    {
+      "added_at": "2026-09-10 23:00:28",
+      "album": {
+        "name": "As Soon As I Get Home",
+        "url": "https://open.spotify.com/album/3E5N8NPp69VJcFROhdxJw7"
+      },
+      "artists": [
+        {
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+        },
+        {
+          "name": "SHYA",
+          "url": "https://open.spotify.com/artist/3bUHVz55uXLTtxggKQyXIO"
+        }
+      ],
+      "duration_ms": 239885,
+      "name": "As Soon As I Get Home",
+      "url": "https://open.spotify.com/track/6dkawkK65WB7GeRg880lx9"
     },
     {
       "added_at": "2026-09-10 23:00:28",
@@ -551,6 +551,26 @@
     {
       "added_at": "2026-09-10 23:00:28",
       "album": {
+        "name": "Lighter",
+        "url": "https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Darla Jade",
+          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
+        }
+      ],
+      "duration_ms": 187283,
+      "name": "Lighter",
+      "url": "https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO"
+    },
+    {
+      "added_at": "2026-09-10 23:00:28",
+      "album": {
         "name": "See You Again",
         "url": "https://open.spotify.com/album/6k4dxoY6e4bis3BHs2C52x"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 271007,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
-    },
-    {
-      "added_at": "2026-09-10 23:00:28",
-      "album": {
-        "name": "Lighter",
-        "url": "https://open.spotify.com/album/50lrGLN2b1eO2t1rIuzc3h"
-      },
-      "artists": [
-        {
-          "name": "Westend",
-          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-        },
-        {
-          "name": "Darla Jade",
-          "url": "https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T"
-        }
-      ],
-      "duration_ms": 187283,
-      "name": "Lighter",
-      "url": "https://open.spotify.com/track/0LJeMisvD34COpkt7QFFIO"
     },
     {
       "added_at": "2026-09-10 23:00:28",
@@ -635,22 +635,6 @@
     {
       "added_at": "2026-09-10 23:00:28",
       "album": {
-        "name": "Beyond Today",
-        "url": "https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b"
-      },
-      "artists": [
-        {
-          "name": "Massano",
-          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Beyond Today",
-      "url": "https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR"
-    },
-    {
-      "added_at": "2026-09-10 23:00:28",
-      "album": {
         "name": "Major Drop",
         "url": "https://open.spotify.com/album/1d9yJiwV1gEhmmZJ7FqhVk"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2026-09-10 23:00:28",
       "album": {
-        "name": "Leaving On",
-        "url": "https://open.spotify.com/album/7LkAToNygMiqJViyOVr5HR"
+        "name": "Beyond Today",
+        "url": "https://open.spotify.com/album/5wv6O3e0nup8gHqTtG0X5b"
       },
       "artists": [
         {
-          "name": "SWIM",
-          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+          "name": "Massano",
+          "url": "https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ"
         }
       ],
-      "duration_ms": 220597,
-      "name": "Leaving On",
-      "url": "https://open.spotify.com/track/3RwtuFcPUZWm7zDEO3YK4J"
+      "duration_ms": 215866,
+      "name": "Beyond Today",
+      "url": "https://open.spotify.com/track/0VR8VXFOy0r8EvDxhbp5mR"
     },
     {
       "added_at": "2026-09-10 23:00:28",
@@ -703,6 +687,22 @@
     {
       "added_at": "2026-09-10 23:00:28",
       "album": {
+        "name": "Leaving On",
+        "url": "https://open.spotify.com/album/7LkAToNygMiqJViyOVr5HR"
+      },
+      "artists": [
+        {
+          "name": "SWIM",
+          "url": "https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V"
+        }
+      ],
+      "duration_ms": 220597,
+      "name": "Leaving On",
+      "url": "https://open.spotify.com/track/3RwtuFcPUZWm7zDEO3YK4J"
+    },
+    {
+      "added_at": "2026-09-10 23:00:28",
+      "album": {
         "name": "Save Me",
         "url": "https://open.spotify.com/album/4Bq9sY0d1IogWKXnR9JUte"
       },
@@ -719,26 +719,6 @@
       "duration_ms": 212985,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/1GaDH1dJfouYubhkaS2gy5"
-    },
-    {
-      "added_at": "2026-09-10 23:00:28",
-      "album": {
-        "name": "Spacer",
-        "url": "https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK"
-      },
-      "artists": [
-        {
-          "name": "Cristoph",
-          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
-        },
-        {
-          "name": "Michael Anthony",
-          "url": "https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "Spacer",
-      "url": "https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV"
     },
     {
       "added_at": "2026-09-10 23:00:28",
@@ -763,6 +743,26 @@
     {
       "added_at": "2026-09-10 23:00:28",
       "album": {
+        "name": "Spacer",
+        "url": "https://open.spotify.com/album/5k88MlyqJhPHGQ5MNFo5xK"
+      },
+      "artists": [
+        {
+          "name": "Cristoph",
+          "url": "https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG"
+        },
+        {
+          "name": "Michael Anthony",
+          "url": "https://open.spotify.com/artist/0r1QQkA6kpxwS05Ayjnfd2"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "Spacer",
+      "url": "https://open.spotify.com/track/3zssmZedrVOY1eSks22cyV"
+    },
+    {
+      "added_at": "2026-09-10 23:00:28",
+      "album": {
         "name": "Make Believe",
         "url": "https://open.spotify.com/album/5RxsBzZ4GDZ3khKSeKERdv"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 305235,
       "name": "Make Believe",
       "url": "https://open.spotify.com/track/1nEDMIR5oi1bLxzRnZgkGo"
-    },
-    {
-      "added_at": "2026-09-10 23:00:28",
-      "album": {
-        "name": "Down For You (feat. Jyll)",
-        "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Jyll",
-          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
-        }
-      ],
-      "duration_ms": 202500,
-      "name": "Down For You (feat. Jyll)",
-      "url": "https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As"
     },
     {
       "added_at": "2026-09-10 23:00:28",
@@ -819,6 +799,26 @@
       "duration_ms": 203437,
       "name": "come home",
       "url": "https://open.spotify.com/track/1MDB9jQulqzJ0EiBzIFLMv"
+    },
+    {
+      "added_at": "2026-09-10 23:00:28",
+      "album": {
+        "name": "Down For You (feat. Jyll)",
+        "url": "https://open.spotify.com/album/2ZyUqivsK42AcoATdxdUkf"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Jyll",
+          "url": "https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Down For You (feat. Jyll)",
+      "url": "https://open.spotify.com/track/5N0hLKYNwYhTLQsGyLz8As"
     },
     {
       "added_at": "2026-09-10 23:00:28",

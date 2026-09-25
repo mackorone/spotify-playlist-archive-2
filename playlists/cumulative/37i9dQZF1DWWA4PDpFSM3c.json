@@ -60,7 +60,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 213279,
       "name": "Adiga Adiga - From \"Ninnu Kori\"",
       "url": "https://open.spotify.com/track/2ChLs6LH0Kc6h2f7WI2l0w"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 273769,
       "name": "Gala Gala Paruthunna",
       "url": "https://open.spotify.com/track/6E2MIXNryG2WcVb9sh1I8L"
@@ -1877,6 +1877,28 @@
     },
     {
       "album": {
+        "name": "The Paradise (Telugu)",
+        "url": "https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103668,
+      "name": "Sammakka",
+      "url": "https://open.spotify.com/track/0pK4CzGihaILc3kzVfqChx"
+    },
+    {
+      "album": {
         "name": "Muthayya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0ceN67y9qluupQnoGRjRhk"
       },
@@ -2058,6 +2080,32 @@
       "duration_ms": 268027,
       "name": "Tai Tai Tai",
       "url": "https://open.spotify.com/track/6rcCn2P4aStaUetsDy3Npg"
+    },
+    {
+      "album": {
+        "name": "The Paradise (Telugu)",
+        "url": "https://open.spotify.com/album/76gf9QNMKfUhnjO6J7chK9"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Madhushree",
+          "url": "https://open.spotify.com/artist/1EKK9k0IAwV1oeJfZITSYo"
+        },
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "date_added": "2026-09-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222500,
+      "name": "Uyyalo Uyyalo (Female)",
+      "url": "https://open.spotify.com/track/0hA3jkijDBZePC5GaOMmL1"
     },
     {
       "album": {

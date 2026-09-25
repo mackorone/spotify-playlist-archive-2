@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,101 likes - 98 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,103 likes - 98 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 59 | [East Coast](https://open.spotify.com/track/6ySFsPVeFww769nr3aQy5E) | [Bella Galasso](https://open.spotify.com/artist/0xOHwnESa9ODHYNWMLgZCI) | [East Coast](https://open.spotify.com/album/4BjompXYH7JfAAli0EGGGC) | 2:37 |
 | 60 | [You Saw Me](https://open.spotify.com/track/6IgSIZJxsO6QworA7pabvJ) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE), [Reiyo The Giant](https://open.spotify.com/artist/7nV15MrvqAi8kPaDZrzB0n) | [You Saw Me](https://open.spotify.com/album/1Pn4p6IUmSdcLZDlW4Hk1W) | 2:37 |
 | 61 | [What If I Call](https://open.spotify.com/track/3zBdVzYsuqVPyMk1YFiPcg) | [Alex Crichton](https://open.spotify.com/artist/25JtC3l1STnE2GptoHKXdD) | [What If I Call](https://open.spotify.com/album/4yazxGFraz7lO9omZNEues) | 2:40 |
-| 62 | [FATE](https://open.spotify.com/track/1ydHcb2P3Kza6VBBFdXRSt) | [Annam](https://open.spotify.com/artist/777xHcAZcdM6Ip2OZBzZfm) | [FATE](https://open.spotify.com/album/3g6x1sVDVpIFBrlZULmIai) | 2:58 |
+| 62 | [FATE](https://open.spotify.com/track/1ydHcb2P3Kza6VBBFdXRSt) | [Annam](https://open.spotify.com/artist/777xHcAZcdM6Ip2OZBzZfm) | [FATE \(Single ver.\)](https://open.spotify.com/album/3g6x1sVDVpIFBrlZULmIai) | 2:58 |
 | 63 | [Heard You Say'n](https://open.spotify.com/track/5v8HNZUO5p3U3y8UP8w5Jw) | [The Grips](https://open.spotify.com/artist/6I66jUeASO73KOKKLqVZI4) | [Heard You Say'n](https://open.spotify.com/album/70PgFjODsMMrsBG5Hqa4ky) | 2:30 |
 | 64 | [I Just Got Mad](https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Just Got Mad](https://open.spotify.com/album/3QnV8Wq1tjUuor9guUzEXA) | 2:29 |
 | 65 | [Dancing With Her \(feat\. ELIO\)](https://open.spotify.com/track/2yiDuwZ3oXNJUEjWfzv7xb) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Stay Here Where It's Warm\(er\)](https://open.spotify.com/album/6IUWvKW8vbSv6YAFnG3yGx) | 4:09 |

@@ -1,6 +1,6 @@
 {
   "description": "A melhor trilha sonora pra se preparar pros dias mais quentes do ano!",
-  "num_followers": 1022737,
+  "num_followers": 1022721,
   "original_name": "Projeto Ver\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-07-24 17:31:08",
       "album": {
-        "name": "Kisses",
-        "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 195619,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa"
-    },
-    {
-      "added_at": "2026-07-24 17:31:08",
-      "album": {
         "name": "Home (feat. Bonn)",
         "url": "https://open.spotify.com/album/1cL51Zp86zgzMDTXRiq8w9"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 239067,
       "name": "Home (feat. Bonn)",
       "url": "https://open.spotify.com/track/4aTtHoSBB0CuQGA6vXBNyp"
+    },
+    {
+      "added_at": "2026-07-24 17:31:08",
+      "album": {
+        "name": "Kisses",
+        "url": "https://open.spotify.com/album/2BjmOAkaoLqsDQXNvOuzLE"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 195619,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/2eSnW4d3A4SyEVhVPmBffa"
     },
     {
       "added_at": "2026-07-24 17:31:08",

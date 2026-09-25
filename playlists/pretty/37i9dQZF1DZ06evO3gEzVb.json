@@ -1,12 +1,12 @@
 {
   "description": "This is Daddy Lumba. The essential tracks, all in one playlist.",
-  "num_followers": 8057,
+  "num_followers": 8061,
   "original_name": "This Is Daddy Lumba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAARY5/G3vJHO9xOPY/C7Dcg",
+  "snapshot_id": "arMWgAAAAADc/etUaDnAkEyQJlXtnydN",
   "tracks": [
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 371453,
-      "name": "Enye Nyame Den",
-      "url": "https://open.spotify.com/track/3kzWyIfre7bl5jbZ86xKLc"
+      "duration_ms": 393453,
+      "name": "Medo Wasem Bebree",
+      "url": "https://open.spotify.com/track/6iwpdRMT9DhLNaX1Q16naB"
     },
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
         }
       ],
-      "duration_ms": 393453,
-      "name": "Medo Wasem Bebree",
-      "url": "https://open.spotify.com/track/6iwpdRMT9DhLNaX1Q16naB"
+      "duration_ms": 371453,
+      "name": "Enye Nyame Den",
+      "url": "https://open.spotify.com/track/3kzWyIfre7bl5jbZ86xKLc"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back for Good",
-        "url": "https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 269893,
-      "name": "Eye Onoa",
-      "url": "https://open.spotify.com/track/20gvKF0b1OWTG2IPcygA9h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sesee Wo Se",
         "url": "https://open.spotify.com/album/3OXL5uXWzMUyayoGZKkeBM"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 317701,
       "name": "Anidaso Woho Ma Obiara",
       "url": "https://open.spotify.com/track/3foSzTyAH65I38QAUl3GQs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Back for Good",
+        "url": "https://open.spotify.com/album/0wPXN7Zb5ZQRffQQjjcMLX"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "Eye Onoa",
+      "url": "https://open.spotify.com/track/20gvKF0b1OWTG2IPcygA9h"
     },
     {
       "added_at": null,
@@ -700,25 +700,9 @@
           "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
         }
       ],
-      "duration_ms": 265186,
-      "name": "Gyabi Wu a Gyabi Te Ase",
-      "url": "https://open.spotify.com/track/6TRfndi3AmlRhkU3k5jsXG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tokrom",
-        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
-      },
-      "artists": [
-        {
-          "name": "Daddy Lumba",
-          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
-        }
-      ],
-      "duration_ms": 347453,
-      "name": "Tasso Eburo",
-      "url": "https://open.spotify.com/track/2w9m5atgMBLlbFbzJwmtSo"
+      "duration_ms": 276560,
+      "name": "Emere Pa Beba",
+      "url": "https://open.spotify.com/track/4MvzOnaUIoQp28H9BAZMLp"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 611108,
       "name": "Yee Ye Aka Akwantuom",
       "url": "https://open.spotify.com/track/5GuGQomjgvLo9gIM8ZWP40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tokrom",
+        "url": "https://open.spotify.com/album/2vrWiu3otZr5U4yoILViN2"
+      },
+      "artists": [
+        {
+          "name": "Daddy Lumba",
+          "url": "https://open.spotify.com/artist/5yeOizI77ma33LNac9KiZr"
+        }
+      ],
+      "duration_ms": 347453,
+      "name": "Tasso Eburo",
+      "url": "https://open.spotify.com/track/2w9m5atgMBLlbFbzJwmtSo"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/6bDPzH0ZXkaMcXYlcQ2yoy"
         }
       ],
-      "duration_ms": 276560,
-      "name": "Emere Pa Beba",
-      "url": "https://open.spotify.com/track/4MvzOnaUIoQp28H9BAZMLp"
+      "duration_ms": 265186,
+      "name": "Gyabi Wu a Gyabi Te Ase",
+      "url": "https://open.spotify.com/track/6TRfndi3AmlRhkU3k5jsXG"
     },
     {
       "added_at": null,

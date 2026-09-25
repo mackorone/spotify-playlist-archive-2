@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 
 > Victory over death has been won today, forever!
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,214 likes - 150 songs - 13 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,207 likes - 150 songs - 13 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,12 +21,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kqCz1xEn1w.md) - [plain]
 | 11 | [Set A Fire \- Live](https://open.spotify.com/track/0WFaQNCdmyONO7GIWL8mDZ) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 5:15 |
 | 12 | [Christ the Lord is Risen Today](https://open.spotify.com/track/1jErRhC4lepiq76hLPFFTj) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Hymns: Easter](https://open.spotify.com/album/3NRkVTr79K7RLR8JCQCikQ) | 4:11 |
 | 13 | [See A Victory](https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [See A Victory](https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq) | 6:03 |
-| 14 | [The Blood](https://open.spotify.com/track/7Fd44ENIgycSM6Alye9QZN) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Simple](https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys) | 5:42 |
+| 14 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 |
 | 15 | [Even Death On A Cross!](https://open.spotify.com/track/6QM7HFCQZvBvlzFyNtxdfZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Even Death On A Cross!](https://open.spotify.com/album/7vTcBAEdOYVZwASV8qk0A8) | 4:09 |
 | 16 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 |
 | 17 | [Holy Spirit \- Live](https://open.spotify.com/track/5Xjcst6Rle74VteHx0zczO) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Live From New York](https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP) | 8:09 |
 | 18 | [SO BE IT \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [SO BE IT \(feat\. Tiffany Hudson & Chris Brown\)](https://open.spotify.com/album/3317qFuusi41ZE9hfffsmq) | 5:47 |
-| 19 | [Tremble \- Live](https://open.spotify.com/track/35GACeX8Zl55jp29xFbvvo) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b) | [Glory & Wonder](https://open.spotify.com/album/3jUPCgNSi7C875PNjsbUTU) | 5:09 |
+| 19 | [The Blood](https://open.spotify.com/track/7Fd44ENIgycSM6Alye9QZN) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Simple](https://open.spotify.com/album/4vkHgRSat7jX2Egvy0zeys) | 5:42 |
 | 20 | [Forever \- Live](https://open.spotify.com/track/1z5xgcRgxxGEKrXUCEFpA9) | [Kari Jobe Carnes](https://open.spotify.com/artist/3VTWrobRnI633EBuUSfyw3) | [Majestic \(Live\)](https://open.spotify.com/album/1CMgCsrwDku8Q6bOjNSJJr) | 6:49 |
 | 21 | [THE NAME ABOVE ALL NAMES](https://open.spotify.com/track/5sv4NwHh8XIwJVCQpCjxKr) | [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [IT NEEDS TO BE SAID](https://open.spotify.com/album/00yUC4YymAJzSoUJCTgoJY) | 4:57 |
 | 22 | [Good Good Father](https://open.spotify.com/track/1mWdyqs6Zvg8b1lKjDc8yB) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [The Ultimate Playlist](https://open.spotify.com/album/2XOKt6AVcxdBs1Za7AxGj2) | 4:53 |

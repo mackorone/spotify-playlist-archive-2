@@ -2328,7 +2328,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 184293,
       "name": "closer",
       "url": "https://open.spotify.com/track/6Xw3YSJg4qNhscVBqMo9aD"
@@ -2476,6 +2476,24 @@
       "duration_ms": 195307,
       "name": "Craters",
       "url": "https://open.spotify.com/track/1iQsw5gNlJejMG210AFFZx"
+    },
+    {
+      "album": {
+        "name": "Crossed Out",
+        "url": "https://open.spotify.com/album/6IER78BO9TmP5O6nNLp2jQ"
+      },
+      "artists": [
+        {
+          "name": "J Emz",
+          "url": "https://open.spotify.com/artist/4K3behUBG5EKZW51V11Q2X"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Crossed Out",
+      "url": "https://open.spotify.com/track/3zOsjeYUu2MFa0qRP8PcLO"
     },
     {
       "album": {
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 287411,
       "name": "Giving Up Air",
       "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
@@ -6025,6 +6043,24 @@
     },
     {
       "album": {
+        "name": "If I Had The Hand Of God",
+        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161816,
+      "name": "If I Had The Hand Of God",
+      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+    },
+    {
+      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/56c8txn6KCWuukEMSvoegl"
       },
@@ -6442,6 +6478,24 @@
       "duration_ms": 167307,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/4Drglu14K2DPKmUBCmQzoC"
+    },
+    {
+      "album": {
+        "name": "Jenny",
+        "url": "https://open.spotify.com/album/14PW20ySyvP27eGpXFC79K"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186505,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/67zxIv3yivtuIG6riPQa3U"
     },
     {
       "album": {
@@ -7266,7 +7320,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
@@ -7597,6 +7651,24 @@
     },
     {
       "album": {
+        "name": "Man On The Moon",
+        "url": "https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx"
+      },
+      "artists": [
+        {
+          "name": "Lewis Love",
+          "url": "https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0"
+    },
+    {
+      "album": {
         "name": "Mantis/Sugar Plum",
         "url": "https://open.spotify.com/album/0GGa1FKiyveo2FPZnvDkKh"
       },
@@ -7742,7 +7814,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/5x0Uf6AMZTAKqvtzncu0ZH"
@@ -9863,6 +9935,24 @@
     },
     {
       "album": {
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
+    },
+    {
+      "album": {
         "name": "REAL",
         "url": "https://open.spotify.com/album/6vtQu8WfdKOpN14pOHoa9g"
       },
@@ -10656,7 +10746,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 192800,
       "name": "She Said",
       "url": "https://open.spotify.com/track/06PRf6iTAf4dmdyyFz3wmR"
@@ -11188,7 +11278,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 189200,
       "name": "STAMPEDE",
       "url": "https://open.spotify.com/track/6gxGg4j7i3Ba7F2x0yi8br"
@@ -13656,6 +13746,28 @@
       "duration_ms": 253478,
       "name": "Where You Need To Be",
       "url": "https://open.spotify.com/track/5wAxcO9N89pLKRo68vMqJL"
+    },
+    {
+      "album": {
+        "name": "Where You Really Come From",
+        "url": "https://open.spotify.com/album/2YMvAoQc7GzJ27Xb9zU9EF"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        },
+        {
+          "name": "VV-Ace",
+          "url": "https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176456,
+      "name": "Where You Really Come From",
+      "url": "https://open.spotify.com/track/0Oiwu7DlTKNZHnrI5muVTK"
     },
     {
       "album": {

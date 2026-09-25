@@ -1,12 +1,12 @@
 {
   "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 557511,
+  "num_followers": 557600,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAfgums/CDw4MkgUyPyapgI",
+  "snapshot_id": "arMWgAAAAAClKltfCR3zUfqe3BUV4Ufv",
   "tracks": [
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
+        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 211812,
+      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
+      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simplemente la Mejor",
         "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 224533,
       "name": "Cuando Abras los Ojos",
       "url": "https://open.spotify.com/track/7DgqG1GwFqEN5tsNpCbTEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "Que Ganas de No Verte Nunca M\u00e1s - Pop",
-      "url": "https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00edrame Desde Staples Center (En Vivo Desde Los \u00c1ngeles 2011)",
-        "url": "https://open.spotify.com/album/6pzrzpxnIWjMe4WStnGM3U"
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
         }
       ],
-      "duration_ms": 211812,
-      "name": "Pu\u00f1o de Tierra - En Vivo Desde Los \u00c1ngeles 2011",
-      "url": "https://open.spotify.com/track/0PHhCcxyi6N23vto2Tppu2"
+      "duration_ms": 233666,
+      "name": "Que Ganas de No Verte Nunca M\u00e1s - Pop",
+      "url": "https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl"
     },
     {
       "added_at": null,

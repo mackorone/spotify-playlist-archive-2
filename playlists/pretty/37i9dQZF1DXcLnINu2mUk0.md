@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo, Ad
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,931 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,947 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 47 | [Interestelar](https://open.spotify.com/track/0itv2Wy3TruEEZy4dRsu32) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Interestelar](https://open.spotify.com/album/02PsewjrcAwfmprEsadxBa) | 3:08 |
 | 48 | [Não Presto](https://open.spotify.com/track/5DKTdgyYNXI8MGOM2GemRe) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino Da Mamã \(Deluxe Edition\)](https://open.spotify.com/album/3LZsPR3MOg0h3B4927BAXO) | 3:18 |
 | 49 | [Voz da Multidão](https://open.spotify.com/track/31D9NOd8syWRzk2c9Aj0Hl) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Voz da Multidão](https://open.spotify.com/album/4Dk6TDTbaP2pNdeOWYBLeE) | 3:26 |
-| 50 | [SUPER](https://open.spotify.com/track/7G4Icmrbwe5jQTVMOQ5NbV) | [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [Horrid Mx](https://open.spotify.com/artist/4cCrZCtMwCzFFvEXfHf1AK) | [SUPER](https://open.spotify.com/album/4eTP8dIvGNdgYAf0D1ixNJ) | 3:42 |
-| 51 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
+| 50 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
+| 51 | [SUPER](https://open.spotify.com/track/7G4Icmrbwe5jQTVMOQ5NbV) | [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [Horrid Mx](https://open.spotify.com/artist/4cCrZCtMwCzFFvEXfHf1AK) | [SUPER](https://open.spotify.com/album/4eTP8dIvGNdgYAf0D1ixNJ) | 3:42 |
 | 52 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 53 | [À Janela](https://open.spotify.com/track/0xSMmvj8aQl9twNz7RQoEt) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [À Janela](https://open.spotify.com/album/1axhHB2sKWodQFnJHEnidG) | 2:55 |
 | 54 | [Aguarela](https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Teetwo](https://open.spotify.com/artist/5VJa8cNehs0vBfqAEd92ar), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Aguarela](https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL) | 3:16 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 56 | [Ninfomaníaca](https://open.spotify.com/track/6HJCS09anJ7CAZhinCxxuB) | [Paulelson](https://open.spotify.com/artist/1gtuNxM3BUBR2NYlJBCLxX), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mulatooh](https://open.spotify.com/artist/5i3kAmcQVt7k2zHgolEAvo) | [Ninfomaníaca](https://open.spotify.com/album/7zrFlnyvrKnh8yx0xQvhEP) | 2:51 |
 | 57 | [Chamadas](https://open.spotify.com/track/5qp0l5NUFRlwLuDs9Xxogv) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS) | [Chamadas](https://open.spotify.com/album/6AWc7VG51dRddGEWXjLpcH) | 2:36 |
 | 58 | [Pé Descalço](https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Pé Descalço](https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d) | 3:34 |
-| 59 | [Sei\-te de Cor](https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sei\-te de Cor](https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg) | 3:39 |
-| 60 | [Último beijo](https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Entre Nós](https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M) | 3:16 |
+| 59 | [Último beijo](https://open.spotify.com/track/3m8LPSShjmdTfBUGEbzqKZ) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Entre Nós](https://open.spotify.com/album/7q80jsMSioWhMiDLUOdm0M) | 3:16 |
+| 60 | [Sei\-te de Cor](https://open.spotify.com/track/2ZIWYtx82CrNATOhUeAJpv) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Sei\-te de Cor](https://open.spotify.com/album/0EfndHIa8rIjSWDoJtoGcg) | 3:39 |
 | 61 | [Animal](https://open.spotify.com/track/6L1SFlHI9H7cH4bTcBtvNw) | [Soarito](https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv), [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Shalom Beatz](https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI) | [Animal](https://open.spotify.com/album/5PlBBuCOH1dJfUMGN6eTIs) | 3:18 |
 | 62 | [Já Não Aguento](https://open.spotify.com/track/4EKGPKSAzzwjoLYPD9xyWL) | [Dolce](https://open.spotify.com/artist/2XGXbQFvAcvkqXYATSNO4P) | [XVIII](https://open.spotify.com/album/1URmVSVwz1OAINOAv5gZtp) | 3:01 |
 | 63 | [Bon Vivan](https://open.spotify.com/track/4AJCfH6VKefdRWsEyrhufE) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Bon Vivan](https://open.spotify.com/album/7J2ZbDOKBqeBGwtSKLcT7p) | 2:17 |

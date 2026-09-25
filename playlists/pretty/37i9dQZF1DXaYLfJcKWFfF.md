@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 
 > Alternative / Indie / Folk cuts from Africa and diaspora to dive into\. Cover: Mishy Kope
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,502 likes - 80 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,514 likes - 80 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYLfJcKWFfF.md) - [plain]
 | 51 | [Ordinary](https://open.spotify.com/track/0Dyc3YFggv7hi2Atndeuqr) | [Kaiya Gamble](https://open.spotify.com/artist/5VII1GO9GhSgpeC17VpZYU), [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Ordinary](https://open.spotify.com/album/2W5j0AdIbhTOiu1faWcCMV) | 2:46 |
 | 52 | [Power](https://open.spotify.com/track/7glOULcqZVCqFylW8w3ZXX) | [Kwartengg](https://open.spotify.com/artist/5dppxSKCDPqIAoJQXuZ5HE) | [Power](https://open.spotify.com/album/0fgTLT9KhNRuSOy5U7cBuc) | 2:45 |
 | 53 | [showmetheway !!](https://open.spotify.com/track/6JRfbZ9d0Caw35pbCsOTSL) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc) | [showmetheway !!](https://open.spotify.com/album/3JYPab6Bqkk4BXdvdinw5G) | 2:20 |
-| 54 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 |
-| 55 | [Wayside Lover](https://open.spotify.com/track/1bHXMTrHyKqy0k4lOm1rrA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Wayside Lover](https://open.spotify.com/album/75IL5pjKVwJZKLWVTzLKkj) | 4:11 |
+| 54 | [Wayside Lover](https://open.spotify.com/track/1bHXMTrHyKqy0k4lOm1rrA) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Jesse Clegg](https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Wayside Lover](https://open.spotify.com/album/75IL5pjKVwJZKLWVTzLKkj) | 4:11 |
+| 55 | [Day Dreamer](https://open.spotify.com/track/6zqplY3N7clSXQx0sEaUsv) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Day Dreamer](https://open.spotify.com/album/1RHOujtZ6kG3ev2M4Sv2OW) | 3:12 |
 | 56 | [UNGOWAM](https://open.spotify.com/track/06iPJ5s9KJ5oGmEFdiKvk9) | [Mishy Kope](https://open.spotify.com/artist/5yg2Kn6JYslUEPYkmLca5a) | [UNGOWAM](https://open.spotify.com/album/02pEPun8I1XhMp8RvMXVBK) | 3:13 |
 | 57 | [Faya](https://open.spotify.com/track/6bS5s8LrmKI5ZV7RxyFmlm) | [LAGOS IN PARIS](https://open.spotify.com/artist/2VaCLjX4lfeTILde1uhzMe), [Ayisi](https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU) | [Faya](https://open.spotify.com/album/43ohjP5OkrsrlmewjaDkqk) | 3:56 |
 | 58 | [Feel It All](https://open.spotify.com/track/78hUgKhprABGVtE5RbNdNh) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Feel It All](https://open.spotify.com/album/6NdNThMha6CF1DLW9IosWQ) | 2:48 |

@@ -4,7 +4,7 @@
 
 > El campo suena fuerte\. Sumate a la fiesta\. Foto: Angelo Aranda
 
-232 songs - 12 hr 56 min
+233 songs - 12 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [Que Yo Te Amo](https://open.spotify.com/track/3qut159EmPY8wvP7b1wHCc) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Alvaro Teruel](https://open.spotify.com/artist/0dCALQ1TpALyNQq6fOyvEn) | [Presente](https://open.spotify.com/album/4NpT9XBd4k7vJDteRA2ZxD) | 3:42 | 2024-09-26 | 2026-07-21 |
 | [Que Yo Te Amo](https://open.spotify.com/track/4knZMJHoBcXE0qm6pe2yoe) | [Canto 4](https://open.spotify.com/artist/2pm42ahOwMBST1vbdGqRAq), [Alvaro Teruel](https://open.spotify.com/artist/0dCALQ1TpALyNQq6fOyvEn) | [Que Yo Te Amo](https://open.spotify.com/album/6rFvoF7weNJ2HIlzLJUTFw) | 3:42 | 2024-08-16 | 2024-11-16 |
 | [Quien Me Devuelve el Tiempo](https://open.spotify.com/track/1Zub35gN713TsTSaLnl4m8) | [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2), [Valen](https://open.spotify.com/artist/4OpKA1Qx8VYnSmrhKQ4zJz) | [Quien Me Devuelve el Tiempo](https://open.spotify.com/album/1VEGG9ujs2GBx13EojKGEM) | 2:45 | 2026-08-21 |  |
+| [Quien Te Dijo](https://open.spotify.com/track/2f0iAeCp3OC7CRWD756MjF) | [Maty y Emma Cisneros](https://open.spotify.com/artist/0YYCNponwayrGtbh4Bz6C7), [Los MYE Cisneros](https://open.spotify.com/artist/2WJFH6DvBGqoNKmhS5OFPp) | [Quien Te Dijo & Te Pido Que la Dejes](https://open.spotify.com/album/1Rhpn7CW1TbHCP5zkB1XyU) | 2:13 | 2026-09-24 |  |
 | [Quiéreme \(Capaz de Tudo\)](https://open.spotify.com/track/5iePevAtESGQehKoPgauq8) | [Amboé](https://open.spotify.com/artist/3CzMaJREWlNNmSe0vtBAKD), [Sergio Galleguillo](https://open.spotify.com/artist/4gQOceTfcyC3AQHUE2gmVt) | [Quiéreme \(Capaz de Tudo\)](https://open.spotify.com/album/52yJUnLTzlHqRsOPIyumhS) | 3:44 | 2023-10-20 | 2026-02-21 |
 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 | 2021-12-31 | 2023-11-11 |
 | [Río](https://open.spotify.com/track/6gLpELrs5XY17BCwryawRv) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Pitín Zalazar](https://open.spotify.com/artist/7waf4UygCUUvNwHz7i6oYW) | [Eco](https://open.spotify.com/album/3ejrQS0tgyUNG2WyHRoNJA) | 2:58 | 2023-10-05 | 2024-11-16 |

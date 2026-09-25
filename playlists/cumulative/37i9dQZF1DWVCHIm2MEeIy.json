@@ -109,6 +109,32 @@
     },
     {
       "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/29FNUkMS1vQbryYC9mVxDS"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        },
+        {
+          "name": "Peace Control",
+          "url": "https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh"
+        },
+        {
+          "name": "Eric Reyes",
+          "url": "https://open.spotify.com/artist/4UfJCLIUH1rWXHH0J2CozO"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234198,
+      "name": "333",
+      "url": "https://open.spotify.com/track/57zfeOLdcnfon3aLrjFxvq"
+    },
+    {
+      "album": {
         "name": "4ME",
         "url": "https://open.spotify.com/album/2HzzCotu4tcdeUh0Jqls36"
       },
@@ -350,7 +376,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 250327,
       "name": "Alelele",
       "url": "https://open.spotify.com/track/0xjDB0xOosNejbk6X9Zrzv"
@@ -2140,7 +2166,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 181818,
       "name": "Brutal - Edit",
       "url": "https://open.spotify.com/track/2Psdb0NyeIUUNYS6uryXGG"
@@ -4863,6 +4889,24 @@
     },
     {
       "album": {
+        "name": "Get it back",
+        "url": "https://open.spotify.com/album/2nQsOGU3p5aVqmnqabA72E"
+      },
+      "artists": [
+        {
+          "name": "Lampe",
+          "url": "https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315289,
+      "name": "Get it back",
+      "url": "https://open.spotify.com/track/1msQY1B1gGKe8cGkmihSqH"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/6J5ilFhuhNabaHEOgc20IP"
       },
@@ -5195,6 +5239,24 @@
     },
     {
       "album": {
+        "name": "Blow / Habits",
+        "url": "https://open.spotify.com/album/3GtLoDMBq51ORjXPVrIbZX"
+      },
+      "artists": [
+        {
+          "name": "Matt Fax",
+          "url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226560,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/6fJ8hmxZvVAkEg2J6GXYcJ"
+    },
+    {
+      "album": {
         "name": "Hands On...",
         "url": "https://open.spotify.com/album/5KthnKFWptxsMyEXxmvBei"
       },
@@ -5498,7 +5560,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 289139,
       "name": "Hitech Evolution",
       "url": "https://open.spotify.com/track/1Wqzjg8RMC5R74pkenHtq8"
@@ -6028,7 +6090,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 324738,
       "name": "I've Been Cooking",
       "url": "https://open.spotify.com/track/7Co8TyGtGyqRdfvnFqwZYh"
@@ -6142,6 +6204,24 @@
       "duration_ms": 347680,
       "name": "In A Blurry World",
       "url": "https://open.spotify.com/track/0LNRfd0PXiMunpzOl4OQhN"
+    },
+    {
+      "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/6bhFUGchnYYTTqctM3ZxfC"
+      },
+      "artists": [
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183692,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/0xp5zyT2zAzP9Egh7W1Nrv"
     },
     {
       "album": {
@@ -6778,7 +6858,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 341102,
       "name": "Let Me Drown",
       "url": "https://open.spotify.com/track/5J9xFOrUDLTb6Y3KBVHefU"
@@ -8288,7 +8368,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 307898,
       "name": "Musica Elettrica",
       "url": "https://open.spotify.com/track/3QKVdh0ofbej1QW0KRHnwk"
@@ -8394,6 +8474,24 @@
       "duration_ms": 228923,
       "name": "MYSTERY OF RAW",
       "url": "https://open.spotify.com/track/2v4NP088R6LUgFBDF9JqBg"
+    },
+    {
+      "album": {
+        "name": "\u2661\u262eEP",
+        "url": "https://open.spotify.com/album/2DQW8cUMYHosVHfmsT2gMW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brecht",
+          "url": "https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "Nada De Novo",
+      "url": "https://open.spotify.com/track/5vg7nDsIuC0NmWLDR7vhUw"
     },
     {
       "album": {
@@ -8686,6 +8784,24 @@
       "duration_ms": 162100,
       "name": "No Bad Vibes",
       "url": "https://open.spotify.com/track/0dgdDB39uUoC8WICmTE2U8"
+    },
+    {
+      "album": {
+        "name": "No Bite",
+        "url": "https://open.spotify.com/album/5erPjmJ7ZdhvpuFtta4me2"
+      },
+      "artists": [
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181417,
+      "name": "No Bite",
+      "url": "https://open.spotify.com/track/7EJHzVwc2j2wr7vD8QOHAx"
     },
     {
       "album": {
@@ -9673,6 +9789,24 @@
     },
     {
       "album": {
+        "name": "Picasso",
+        "url": "https://open.spotify.com/album/17sXTcdXX62DCZDuuQptIi"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260039,
+      "name": "Picasso",
+      "url": "https://open.spotify.com/track/6TDPOUm5o55JHiS3hkfkcN"
+    },
+    {
+      "album": {
         "name": "PICK UP THE PHONE (feat. Nate Dogg)",
         "url": "https://open.spotify.com/album/7gRGY7lnuazLB3axrV5yWE"
       },
@@ -9848,7 +9982,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 270000,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4D9ZeZjNYvEvAPs24AMfuZ"
@@ -10658,7 +10792,7 @@
       ],
       "date_added": "2025-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 285235,
       "name": "Roll the Dice - Konstantin Sibold Remix",
       "url": "https://open.spotify.com/track/6Sut2jMsmtx3ZFeJQP6jV4"
@@ -11048,6 +11182,36 @@
       "duration_ms": 271007,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/56UAYL2z5DZoj6qJXGrQsA"
+    },
+    {
+      "album": {
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/5ZhjZx0lGmhvABEjCMYtSW"
+      },
+      "artists": [
+        {
+          "name": "Township Rebellion",
+          "url": "https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R"
+        },
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        },
+        {
+          "name": "Iorie",
+          "url": "https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH"
+        },
+        {
+          "name": "John B",
+          "url": "https://open.spotify.com/artist/1ytr59gpK22MnyvrvOVCmD"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296134,
+      "name": "Sequences",
+      "url": "https://open.spotify.com/track/4MDY9j1SVfJYHJILeN3pYz"
     },
     {
       "album": {
@@ -11952,7 +12116,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 215806,
       "name": "Space Dance",
       "url": "https://open.spotify.com/track/5HTuh8Z6whri3Ns1GKenDe"
@@ -13043,6 +13207,28 @@
     },
     {
       "album": {
+        "name": "Time To Be Free",
+        "url": "https://open.spotify.com/album/5daB5DxIflV1aaqfE2xYAr"
+      },
+      "artists": [
+        {
+          "name": "Pan-Pot",
+          "url": "https://open.spotify.com/artist/6OQOvP7RAdmAKVXXQqD0Se"
+        },
+        {
+          "name": "Gray Cosmo",
+          "url": "https://open.spotify.com/artist/1qCQ7dHZl1V8JpnVVyWzAV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217706,
+      "name": "Time To Be Free",
+      "url": "https://open.spotify.com/track/7GevNuZmuGwHpzLng50Cjk"
+    },
+    {
+      "album": {
         "name": "Titatite",
         "url": "https://open.spotify.com/album/2FYzhHxTqcvHffJWkjQPbJ"
       },
@@ -13416,7 +13602,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 196640,
       "name": "Tuthimu",
       "url": "https://open.spotify.com/track/7IxeVtjZ2lOHATsc8tI4xn"
@@ -14086,6 +14272,28 @@
       "duration_ms": 245280,
       "name": "Welcome To The Opera (with Grimes)",
       "url": "https://open.spotify.com/track/7hV8vZMezoQdSdvsi70Ioa"
+    },
+    {
+      "album": {
+        "name": "What I Please EP",
+        "url": "https://open.spotify.com/album/15PZxUQZXr6emPjn1HkVCd"
+      },
+      "artists": [
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        },
+        {
+          "name": "Raul Vidal",
+          "url": "https://open.spotify.com/artist/1MFBRFYyixy1oM4MK5iTC0"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "What I Please",
+      "url": "https://open.spotify.com/track/0Bw9RNYV6jPG7JWUBk6iiX"
     },
     {
       "album": {

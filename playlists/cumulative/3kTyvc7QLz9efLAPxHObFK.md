@@ -4,7 +4,7 @@
 
 > 
 
-3,204 songs - 6 day 20 hr 50 min
+3,206 songs - 6 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2084,6 +2084,7 @@
 | [ONOMATO Pairing!!! \- SSLong ver.](https://open.spotify.com/track/5qpdju3IpfHQIMjLeFdNqs) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt), [Nanahira](https://open.spotify.com/artist/0bkkiFN0ghGl4j9aLi3oQx) | [Screamin' Showcase](https://open.spotify.com/album/1N1ynCOqZxE1PNc1oBsUqB) | 3:13 | 2022-08-11 |  |
 | [Onslaught](https://open.spotify.com/track/4H7xDFzHBFw9AeRkB549gM) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Onslaught](https://open.spotify.com/album/0ScfxHBLENnu3Sf7tAFYJv) | 2:19 | 2022-08-11 |  |
 | [OOH LALA](https://open.spotify.com/track/0iSLjblXsl7VgS47ApVzZw) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs) | [OOH LALA](https://open.spotify.com/album/04BjLtS6qyfbRXOIm2zjHI) | 2:24 | 2022-09-21 |  |
+| [OOPS](https://open.spotify.com/track/2dTUII9AOjS7dv9XjD4Jby) | [Sanctuary](https://open.spotify.com/artist/4Jz2XNJkFwCCMe01IcGzbZ) | [OOPS](https://open.spotify.com/album/1piBYKA7plr4w3XsvJE0p3) | 2:11 | 2026-09-24 |  |
 | [Oracle](https://open.spotify.com/track/29u1AiJivUCQJ1J2wmLlKs) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Oracle](https://open.spotify.com/album/0Iy2YJj3EDMLNKuiKMY9Fa) | 2:29 | 2024-12-21 |  |
 | [Orbit](https://open.spotify.com/track/5fOmN2CwXTJTF1g7AufnIu) | [Akimbo](https://open.spotify.com/artist/3oBAqPTxVZexp9MrfwhD3e) | [Orbit](https://open.spotify.com/album/0FMn7bv3OZkg5wBnqIt3wv) | 2:53 | 2024-07-19 |  |
 | [ORIGINAL FLOW](https://open.spotify.com/track/46mX200sRU5nGSxACY4w5N) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI), [Regain](https://open.spotify.com/artist/0Fp1lykJGk1eInmWFbSwoK) | [ORIGINAL FLOW](https://open.spotify.com/album/5CytW7gm7c6OymRmshZ92u) | 3:04 | 2026-05-22 |  |
@@ -2700,6 +2701,7 @@
 | [Tempest](https://open.spotify.com/track/1UXvDVGvL6ZxO8y1AXAtXz) | [Audiofreq](https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl) | [Tempest](https://open.spotify.com/album/41YvHD45S2qaoZM4yhcPed) | 3:09 | 2025-08-02 |  |
 | [TERMINAL TRAUMA](https://open.spotify.com/track/2tK9s5DM8i9BAA2HWodgK9) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7), [Stealth](https://open.spotify.com/artist/0epWcaPLkRPWSFYgWk26Ju) | [TERMINAL TRAUMA](https://open.spotify.com/album/4BVLc847lmY3aAHCjGfv4J) | 2:14 | 2025-11-30 |  |
 | [Terminator \- Radio Edit](https://open.spotify.com/track/7BJmTrWXJTpKuDS7v3k1Dc) | [ANGEL CANNON](https://open.spotify.com/artist/4Ybj0IqmuPWSp023XnJpCD), [H! Dude](https://open.spotify.com/artist/5EdJyUrE9kntnBdcVTVLAe) | [Terminator](https://open.spotify.com/album/5txcY37tkn8HIA2qW6tAfp) | 3:43 | 2025-11-28 |  |
+| [TERROR](https://open.spotify.com/track/2HLRMVfPYUL06H3upEOZUz) | [Yoshiko](https://open.spotify.com/artist/4lSE8OyTMhErkE7OshR2Hq), [JAZZY](https://open.spotify.com/artist/0xGI8ZVWgiCWicV1lD1Hrk), [Jowi](https://open.spotify.com/artist/1LQlFLhzz8Vv8OIQAL3xGc) | [TERROR](https://open.spotify.com/album/0TNVVieTefq9IGJjMUYkqt) | 3:08 | 2026-09-24 |  |
 | [Test of Time](https://open.spotify.com/track/3aFE9oSnFhVbtZjFfGo7Zx) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [Brad Pickle](https://open.spotify.com/artist/68gLUBZH8yVdoHyikVPX0m), [Bonkers](https://open.spotify.com/artist/3pEPRYJ1ieg3fRnYd0YIyV) | [Pickled Pig EP](https://open.spotify.com/album/2Ft7t7tVsQZ18ETGOptrxa) | 3:23 | 2024-11-22 |  |
 | [Th3 Futur3](https://open.spotify.com/track/5v2OTwYsxDsMcWzpxtaY4v) | [The Sickest Squad](https://open.spotify.com/artist/1NGSmZz3W7RduM185NLWdk) | [Th3 Futur3](https://open.spotify.com/album/7oLPuFQvUpGCUbZiS5mjdL) | 3:28 | 2023-10-20 |  |
 | [Thank You \(Hardstyle Mix\)](https://open.spotify.com/track/0nxzxVry3Dtc8bKg4kckez) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Pulsar](https://open.spotify.com/artist/5tmXZZoksgHRk1uLumsGCo) | [Thank You \(Hardstyle Mix\)](https://open.spotify.com/album/5BzrKhPS9ZVIUEbsrlRoHu) | 2:49 | 2024-03-08 |  |

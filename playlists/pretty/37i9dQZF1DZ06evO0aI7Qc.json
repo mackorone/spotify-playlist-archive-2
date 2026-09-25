@@ -1,12 +1,12 @@
 {
   "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
-  "num_followers": 397245,
+  "num_followers": 397291,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAMYRQoVx6kMTbH9niCD1Lj",
+  "snapshot_id": "arMWgAAAAAAC6dRQMlMXZG3tg7bVEilo",
   "tracks": [
     {
       "added_at": null,
@@ -355,26 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Locos Nunca Mueren",
-        "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 132782,
-      "name": "OTRO PA TI",
-      "url": "https://open.spotify.com/track/6ee409xj8oSEdvJzEz5gT1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 138559,
       "name": "SU CASA",
       "url": "https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Locos Nunca Mueren",
+        "url": "https://open.spotify.com/album/0fHfGnO6OOwP54PD9kPZyp"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 132782,
+      "name": "OTRO PA TI",
+      "url": "https://open.spotify.com/track/6ee409xj8oSEdvJzEz5gT1"
     },
     {
       "added_at": null,
@@ -495,30 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MI PROPIO JEFE",
-        "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00fal Beltran",
-          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 210923,
-      "name": "MI PROPIO JEFE",
-      "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
@@ -563,22 +539,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+        "name": "MI PROPIO JEFE",
+        "url": "https://open.spotify.com/album/5Q96Bhm78ErbMWEl1mJmWh"
       },
       "artists": [
+        {
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
+        },
         {
           "name": "Luis R Conriquez",
           "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 179450,
-      "name": "La 701",
-      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
+      "duration_ms": 210923,
+      "name": "MI PROPIO JEFE",
+      "url": "https://open.spotify.com/track/6NFUR5dxwy3qBLT86CyNhz"
     },
     {
       "added_at": null,
@@ -599,6 +579,26 @@
       "duration_ms": 257846,
       "name": "Ahog\u00e1ndome en Alcohol",
       "url": "https://open.spotify.com/track/0T2SVUCPRmf2gUbGmgJXCT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 179450,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Scar",
-        "url": "https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds"
-      },
-      "artists": [
-        {
-          "name": "Victor Mendivil",
-          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 299381,
-      "name": "Un Scar",
-      "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loko So\u00f1ador",
         "url": "https://open.spotify.com/album/3n1583a5Lyd8sxiHCJYTWR"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 163983,
       "name": "Filoso",
       "url": "https://open.spotify.com/track/4WGdGXVmQiUMBOmggy4CT5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Scar",
+        "url": "https://open.spotify.com/album/0RgDiqdXei2oHruyWLU7Ds"
+      },
+      "artists": [
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 299381,
+      "name": "Un Scar",
+      "url": "https://open.spotify.com/track/2UkVLIGCGNuyMDPM4hz6dQ"
     },
     {
       "added_at": null,

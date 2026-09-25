@@ -1,12 +1,12 @@
 {
   "description": "This is Asake. The essential tracks, all in one playlist.",
-  "num_followers": 88830,
+  "num_followers": 88974,
   "original_name": "This Is Asake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAC6MIiE9GwAtXNem00ketaj",
+  "snapshot_id": "arMWgAAAAAAxOQpwj1Bvzb7/d7ata94v",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 134482,
+      "name": "Basquiat",
+      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5GkkuEEPtYguzhTdCpS8Ab"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 134482,
-      "name": "Basquiat",
-      "url": "https://open.spotify.com/track/2H0w7oYDjUvgsFlNQ5swIg"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Work Of Art",
+        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/4PKxskDMb62jvG5Li46vkH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blue Disco",
         "url": "https://open.spotify.com/album/2ZcD4iBH5F09JKaBbhEG5t"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 226283,
       "name": "2Factor",
       "url": "https://open.spotify.com/track/2UxfLzrOzdHlwrIzjhsHT2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Work Of Art",
-        "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/4PKxskDMb62jvG5Li46vkH"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 171385,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/5obTyAhp9xms15FjibgrBy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 170389,
       "name": "What's Up My G",
       "url": "https://open.spotify.com/track/2LjZYCOYldHWhzQ1G5XJ81"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 171385,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/5obTyAhp9xms15FjibgrBy"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 182976,
-      "name": "Worldwide",
-      "url": "https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 138305,
       "name": "2:30",
       "url": "https://open.spotify.com/track/1n3JvneU8FhfldfTQ8BdZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 182976,
+      "name": "Worldwide",
+      "url": "https://open.spotify.com/track/3n7kzSJ246VvIe4lRmxV9X"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 197035,
+      "name": "My Heart",
+      "url": "https://open.spotify.com/track/4Mq3cWI9k0DO9sMe6Ylqr2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stubborn",
         "url": "https://open.spotify.com/album/0HAMypn9IWyVZ3ytw6R6qr"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 176333,
       "name": "Stubborn",
       "url": "https://open.spotify.com/track/6LTnqcYe8dq4QC5Lh7vneM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 197035,
-      "name": "My Heart",
-      "url": "https://open.spotify.com/track/4Mq3cWI9k0DO9sMe6Ylqr2"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 204279,
+      "name": "Uhh Yeahh",
+      "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 153684,
       "name": "New Religion",
       "url": "https://open.spotify.com/track/0U6EtYtNKv8t3o9cjniLn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 204279,
-      "name": "Uhh Yeahh",
-      "url": "https://open.spotify.com/track/42Xw4kv2Wy75UugmQ4kv8P"
     },
     {
       "added_at": null,

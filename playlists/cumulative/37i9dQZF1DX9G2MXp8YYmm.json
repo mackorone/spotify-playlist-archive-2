@@ -1827,6 +1827,28 @@
     },
     {
       "album": {
+        "name": "Bedduam Olsun",
+        "url": "https://open.spotify.com/album/1rz5Z4hI21NjtYE7pe34mb"
+      },
+      "artists": [
+        {
+          "name": "Linet",
+          "url": "https://open.spotify.com/artist/31TJIzpuFOgX8owcV3nTrE"
+        },
+        {
+          "name": "B\u00fcken",
+          "url": "https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170899,
+      "name": "Bedduam Olsun",
+      "url": "https://open.spotify.com/track/7zOS5X2z0Z0a2FH1EczC67"
+    },
+    {
+      "album": {
         "name": "Bedel",
         "url": "https://open.spotify.com/album/3JaSBvsF9GmTY7vjNwSHRF"
       },
@@ -9680,7 +9702,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 147910,
       "name": "Rak Tak Tak",
       "url": "https://open.spotify.com/track/1NaPqHwlnoXXm7N7yq88Xp"

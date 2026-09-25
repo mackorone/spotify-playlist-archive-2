@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Aya Nakamura & La Rvfleuze au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
+  "description": "Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais.",
   "name": "PVNCHLNRS",
   "tracks": [
     {
@@ -856,7 +856,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 182000,
       "name": "AVEC MOI",
       "url": "https://open.spotify.com/track/2ZxulKXVUpatqUe0quNMtP"
@@ -994,6 +994,24 @@
       "duration_ms": 206250,
       "name": "Ballon D'or",
       "url": "https://open.spotify.com/track/3zs1RJzrhgt0JsNsPopubX"
+    },
+    {
+      "album": {
+        "name": "Mati\u00e8re Noire",
+        "url": "https://open.spotify.com/album/1peyUGGTK1VCTcX13D9pkr"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "Baraque au Bled",
+      "url": "https://open.spotify.com/track/4DOmaofCT3iUb6dMllhWBc"
     },
     {
       "album": {
@@ -2201,6 +2219,24 @@
     },
     {
       "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180186,
+      "name": "C\u0153ur De Pirate",
+      "url": "https://open.spotify.com/track/3KfdpLKJxBGrUnCw8KBOCR"
+    },
+    {
+      "album": {
         "name": "Cartel : volume 1",
         "url": "https://open.spotify.com/album/3wro1GpN4PVPZIeg7ykUFk"
       },
@@ -3001,6 +3037,28 @@
     },
     {
       "album": {
+        "name": "Fille \u00e0 Papa",
+        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169586,
+      "name": "Fille \u00e0 Papa",
+      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
+    },
+    {
+      "album": {
         "name": "Finale - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS"
       },
@@ -3500,7 +3558,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 125179,
       "name": "GMK",
       "url": "https://open.spotify.com/track/5yVEQgC0GuEvvEcv9D8NpG"
@@ -3772,7 +3830,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 248000,
       "name": "Huracan",
       "url": "https://open.spotify.com/track/6QRy8EXr1ZzPQNRXlAm4TH"
@@ -7309,6 +7367,28 @@
     },
     {
       "album": {
+        "name": "Typhee | Nouvelle \u00c9cole | Saison 5 (S\u00e9rie Netflix)",
+        "url": "https://open.spotify.com/album/13lA1x9JECEaNJMcKNkrnq"
+      },
+      "artists": [
+        {
+          "name": "Typhee",
+          "url": "https://open.spotify.com/artist/2FNbkJyVSLs6NM7ATd7BIH"
+        },
+        {
+          "name": "Nouvelle \u00c9cole",
+          "url": "https://open.spotify.com/artist/4Yv6fnHVbZNKaCtYZxaHuZ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168990,
+      "name": "POUSSETTE - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/6uwsbNdXdKmxqTbXj5mbwo"
+    },
+    {
+      "album": {
         "name": "Pow Pow / Allo Doudou",
         "url": "https://open.spotify.com/album/5mnRbWynBTViMMW10m1nlB"
       },
@@ -7640,7 +7720,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 181829,
       "name": "RAP d\u2019arabe",
       "url": "https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby"

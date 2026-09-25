@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover: Half/Angel
 
-4,629 songs - 10 day 15 hr 23 min
+4,630 songs - 10 day 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1986,7 +1986,7 @@
 | [I Wish I Never Loved You](https://open.spotify.com/track/349kMKxDtv5bkXPoWQTi4S) | [Le Shiv](https://open.spotify.com/artist/5G1xjxkXFx4zouU8Mr9Ua6) | [I Wish I Never Loved You](https://open.spotify.com/album/51JOrvXnoXJHBNBgHlntJA) | 3:43 | 2024-08-06 | 2025-01-08 |
 | [I Wish I Was In Ibiza](https://open.spotify.com/track/2nGQhIedkKopZFnUeP5QMe) | [Mason Flint](https://open.spotify.com/artist/5Aa3mXUx55xAWmTFSjd0y5) | [I Wish I Was In Ibiza](https://open.spotify.com/album/5HV4Vd94d1ofIupXX4sKko) | 3:08 | 2023-07-19 | 2023-08-10 |
 | [I Wish My Mind Would Shut Up](https://open.spotify.com/track/44W82EqREuXQWF3cWK9RNI) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [I Wish My Mind Would Shut Up](https://open.spotify.com/album/1J1Ue7AsWrUXMAhsP8Hb2o) | 2:04 | 2022-05-25 | 2022-09-09 |
-| [I Won't Die](https://open.spotify.com/track/42A0fVbwWIOOzFaaYjykvJ) | [THOM](https://open.spotify.com/artist/5ENzf2plQnwmFi8kL3B59R) | [Everything That Hurts Is Human](https://open.spotify.com/album/4DR9rd28E3Aq9vBYFiWZfN) | 3:31 | 2026-07-07 |  |
+| [I Won't Die](https://open.spotify.com/track/42A0fVbwWIOOzFaaYjykvJ) | [THOM](https://open.spotify.com/artist/5ENzf2plQnwmFi8kL3B59R) | [Everything That Hurts Is Human](https://open.spotify.com/album/4DR9rd28E3Aq9vBYFiWZfN) | 3:31 | 2026-07-07 | 2026-09-25 |
 | [I Won't Run](https://open.spotify.com/track/2frz8nJcSPjTOm5mtHtOOE) | [Matt McCooey](https://open.spotify.com/artist/0YJJXRaK9RoxeoxRgVVOJe) | [I Won't Run](https://open.spotify.com/album/0LIq5AQ9AZi7H5Z1QKyatb) | 3:33 | 2023-02-15 | 2023-03-08 |
 | [I Would](https://open.spotify.com/track/2whHR5vaxtciVUKN4lyJI1) | [Gloomie](https://open.spotify.com/artist/08LlZZtreCrm0AQhRLpCWI) | [I Would](https://open.spotify.com/album/2eU24mJT47Zspe2XdjHvo7) | 2:35 | 2026-06-09 | 2026-06-17 |
 | [I'll Be Lonely](https://open.spotify.com/track/6rDGPcJCeJd9qSoIMwrRpV) | [Hana Markson](https://open.spotify.com/artist/4pDJsRsflZ7i6igwUvhyzN) | [I'll Be Lonely](https://open.spotify.com/album/50jn9TYzTzTVFWlP4vMSKm) | 2:33 | 2024-10-15 | 2025-02-05 |
@@ -3734,6 +3734,7 @@
 | [Speed Dial](https://open.spotify.com/track/3qOLholBSafjOGZ7TpnA7S) | [Zhuli](https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz) | [Speed Dial](https://open.spotify.com/album/1BCfFtC7MA5CB7OAXyA1aP) | 2:49 | 2024-06-18 | 2025-01-08 |
 | [Speed of Trust](https://open.spotify.com/track/53QFBFPqkz8hRN2nbYZb4a) | [Tim Shiel](https://open.spotify.com/artist/4s4HQb53CQx8x9GlWJ5Ocy), [Komang](https://open.spotify.com/artist/56MwiXqdnILouLqFJPx3nT) | [Speed of Trust](https://open.spotify.com/album/59bIUGfiyqfuoVuC4WdSJP) | 4:16 | 2022-11-16 | 2022-12-01 |
 | [Speed Racing](https://open.spotify.com/track/6gTkTR0cnGqkHhnvsVCpNu) | [Sam Alfred](https://open.spotify.com/artist/4PVzoVUDxey3mxGdkf4HgR) | [Speed Racing](https://open.spotify.com/album/19P9uR44ds9JGoHH59tcck) | 5:59 | 2022-05-25 | 2022-06-09 |
+| [SPELL.](https://open.spotify.com/track/1lUkfQKu3aPvZd0N55GkPv) | [ROMME](https://open.spotify.com/artist/2aqdsufak4kt3gKjeqwDCP) | [SPELL.](https://open.spotify.com/album/5nGKfCjXK4KIH7VaAWKhGe) | 2:25 | 2026-09-24 |  |
 | [Spend Something](https://open.spotify.com/track/4Lu5dggctk2dLdjK3YwsXH) | [Scan00](https://open.spotify.com/artist/6FEBSjvekMMIvlTjreV3rd), [Sus1er](https://open.spotify.com/artist/7z5Ba9Bg6XEPY0s7KJyzDM) | [Spend Something](https://open.spotify.com/album/4IKwMGS28j7mEBiK5JooQB) | 2:26 | 2022-05-25 | 2022-06-23 |
 | [Spent The Whole Night Waiting](https://open.spotify.com/track/23J0zkKR9msmAJDyeATMrH) | [Jye](https://open.spotify.com/artist/2VXm4JOiSfNQJmo4IXjWOH) | [Pale Blue Dot](https://open.spotify.com/album/3v1OknG6JKDZsQQmdt43wT) | 4:48 | 2023-11-15 | 2023-11-30 |
 | [SPETA](https://open.spotify.com/track/7f9YEwrmfVGHkmZP72Py9l) | [Mike Akox](https://open.spotify.com/artist/4sdJBwV7eUY5d1BDpPPrIp) | [SPETA](https://open.spotify.com/album/2HOXUFzQ5fEtnCuYlJyzUL) | 2:52 | 2022-07-19 | 2022-08-25 |

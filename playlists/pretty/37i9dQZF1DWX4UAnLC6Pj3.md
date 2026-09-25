@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Banda Clave de Oro de Christian Rojas  📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,296,499 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,296,519 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 12 | [Todo El Año](https://open.spotify.com/track/1GytzpMnPGFXdZgUL1XAEq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Todo El Año](https://open.spotify.com/album/5x8dVcbbLS13wPODZph64e) | 2:52 |
 | 13 | [Soñé](https://open.spotify.com/track/33HYZlzEZwp9KOMt9DY7xF) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [10 de 10](https://open.spotify.com/album/2vAqdOjwEwZvOMAr7rEaMr) | 2:44 |
 | 14 | [Nuestro Secreto](https://open.spotify.com/track/79B1TGLROtJmq2VtEwn7FL) | [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Nuestro Secreto](https://open.spotify.com/album/5QRkn2nxW8G6iXhEYbWRWq) | 2:57 |
-| 15 | [Para Morrir Iguales](https://open.spotify.com/track/2ITg39ACpx9PBgzEAEjznQ) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Para Morrir Iguales](https://open.spotify.com/album/5s2tw7VtMErMhiH7alRDBl) | 2:41 |
+| 15 | [Para Morir Iguales](https://open.spotify.com/track/2ITg39ACpx9PBgzEAEjznQ) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Para Morir Iguales](https://open.spotify.com/album/5s2tw7VtMErMhiH7alRDBl) | 2:41 |
 | 16 | [Fracaso Seguro](https://open.spotify.com/track/5lGnwOdbX3OSJTcy2Fw7DA) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Si Las Miradas Mataran \(Deluxe\)](https://open.spotify.com/album/3KlMY32mPgUm0kIysPVjML) | 2:51 |
 | 17 | [Aprendí La Lección](https://open.spotify.com/track/5jfkYc3IyXwbtFnIpB9una) | [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Aprendí La Lección](https://open.spotify.com/album/2gKLdULUWctb0JSPkZofpI) | 2:58 |
 | 18 | [Eres Pasado](https://open.spotify.com/track/7Hz6BDxLKCxmwJfTkGEpKf) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Eres Pasado](https://open.spotify.com/album/4ITOsDeTwaLv6PNPKInVfZ) | 2:45 |

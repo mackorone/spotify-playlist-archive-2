@@ -1,45 +1,13 @@
 {
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X?si=f7e145f77b3548ed\">LAYA</a>. Updates every Wednesday.",
-  "num_followers": 291674,
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/7aBsay1LwiX89GuowSd15N?si=34bb03e3792843ed\">plusamari</a>. Updates every Wednesday.",
+  "num_followers": 291760,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOxpNUt761NHAIQ9e60qQ49oueWO",
+  "snapshot_id": "AAAAADWp69CvmGRsDXgN9cwUXThX+Vwi",
   "tracks": [
-    {
-      "added_at": "2026-09-16 22:23:19",
-      "album": {
-        "name": "Yeeha",
-        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Yeeha",
-      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
-    },
-    {
-      "added_at": "2026-09-16 22:23:19",
-      "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/2ok0t0EGlpNAdnSrDuQt1j"
-      },
-      "artists": [
-        {
-          "name": "Faiza",
-          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3SRlVBEKrbZ2eV7281uH7q"
-    },
     {
       "added_at": "2026-09-16 22:23:19",
       "album": {
@@ -59,6 +27,98 @@
     {
       "added_at": "2026-09-16 22:23:19",
       "album": {
+        "name": "Yeeha",
+        "url": "https://open.spotify.com/album/42jVIJiwgF0PxX0mcJAFgB"
+      },
+      "artists": [
+        {
+          "name": "LAYA",
+          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
+        }
+      ],
+      "duration_ms": 239613,
+      "name": "Yeeha",
+      "url": "https://open.spotify.com/track/1POaAJ2xIIxPJPbrN72LyW"
+    },
+    {
+      "added_at": "2026-09-24 03:24:31",
+      "album": {
+        "name": "PHATTER",
+        "url": "https://open.spotify.com/album/5zBPstEEPrgw80d4aTMxGK"
+      },
+      "artists": [
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/76KN8Y6260PMoHVMhWhm3K"
+    },
+    {
+      "added_at": "2026-09-24 03:24:31",
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        },
+        {
+          "name": "Reuben Vincent",
+          "url": "https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "You And Me (Feat. Reuben Vincent)",
+      "url": "https://open.spotify.com/track/1iSDJPN6Xj6q32mH6OxHd1"
+    },
+    {
+      "added_at": "2026-09-16 22:23:19",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/2ok0t0EGlpNAdnSrDuQt1j"
+      },
+      "artists": [
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3SRlVBEKrbZ2eV7281uH7q"
+    },
+    {
+      "added_at": "2026-09-24 03:24:31",
+      "album": {
+        "name": "Alright, alright",
+        "url": "https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo"
+      },
+      "artists": [
+        {
+          "name": "646yf4t",
+          "url": "https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF"
+        },
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/3kaAPw6xYzlmBhp3aQYuC9"
+        }
+      ],
+      "duration_ms": 151011,
+      "name": "Alright, alright",
+      "url": "https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD"
+    },
+    {
+      "added_at": "2026-09-16 22:23:19",
+      "album": {
         "name": "Situationships",
         "url": "https://open.spotify.com/album/5EutXvufvhSxDX1ZKit08L"
       },
@@ -71,6 +131,22 @@
       "duration_ms": 184500,
       "name": "Situationships",
       "url": "https://open.spotify.com/track/15AAeWZ60hjVm1piUvBIo0"
+    },
+    {
+      "added_at": "2026-09-24 03:24:31",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/58zT0QIvIoPR17pcS4S8uJ"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1RWZDdIe9TwL1vUlyti5aD"
     },
     {
       "added_at": "2026-09-16 22:23:19",
@@ -183,6 +259,22 @@
       "duration_ms": 137509,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/5MeDN4LNfsWh5HLGD6xDQv"
+    },
+    {
+      "added_at": "2026-09-24 03:24:31",
+      "album": {
+        "name": "late night",
+        "url": "https://open.spotify.com/album/6yqw95xO7ZKfQW5fO58Hlm"
+      },
+      "artists": [
+        {
+          "name": "Ray Lozano",
+          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "late night",
+      "url": "https://open.spotify.com/track/23i10hKRFFtyNN801D2AYz"
     },
     {
       "added_at": "2026-09-12 19:11:47",
@@ -855,22 +947,6 @@
     {
       "added_at": "2026-08-12 21:12:09",
       "album": {
-        "name": "EGO",
-        "url": "https://open.spotify.com/album/5FH5G40sEyTpn3aBKIzVPK"
-      },
-      "artists": [
-        {
-          "name": "Lost Girl",
-          "url": "https://open.spotify.com/artist/145mFGIlZXfYlGQTTWA9OS"
-        }
-      ],
-      "duration_ms": 219212,
-      "name": "PINK CROCS/CRASH",
-      "url": "https://open.spotify.com/track/4z9datrd90eswIFvuSnalK"
-    },
-    {
-      "added_at": "2026-08-12 21:12:09",
-      "album": {
         "name": "Way Out",
         "url": "https://open.spotify.com/album/2XSHcNvl9XNCJzLhhDCOAk"
       },
@@ -1019,22 +1095,6 @@
     {
       "added_at": "2026-07-31 15:41:30",
       "album": {
-        "name": "My Girl",
-        "url": "https://open.spotify.com/album/5PwchWmsoHLIgvbgCQ1rwv"
-      },
-      "artists": [
-        {
-          "name": "ROME",
-          "url": "https://open.spotify.com/artist/4hrz9OhxBfTmyNTZmqxm2q"
-        }
-      ],
-      "duration_ms": 161254,
-      "name": "My Girl",
-      "url": "https://open.spotify.com/track/16usyTcUKnWBduD3R2PPlG"
-    },
-    {
-      "added_at": "2026-07-31 15:41:30",
-      "album": {
         "name": "Gone Girl",
         "url": "https://open.spotify.com/album/2roFRH4223LhDkPWlOUtxC"
       },
@@ -1047,22 +1107,6 @@
       "duration_ms": 148318,
       "name": "Gone Girl",
       "url": "https://open.spotify.com/track/6VGXSTtRZGOf5TIwidRnft"
-    },
-    {
-      "added_at": "2026-06-17 18:03:14",
-      "album": {
-        "name": "Not So Sweet",
-        "url": "https://open.spotify.com/album/6Zr7GLxnNwy9vVod25bpux"
-      },
-      "artists": [
-        {
-          "name": "Kalisway",
-          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
-        }
-      ],
-      "duration_ms": 235088,
-      "name": "Not So Sweet",
-      "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
     },
     {
       "added_at": "2026-07-31 15:41:30",
@@ -1187,22 +1231,6 @@
     {
       "added_at": "2026-07-24 18:18:58",
       "album": {
-        "name": "QLV",
-        "url": "https://open.spotify.com/album/5GyZhaGNeC7RWwdoqEl2dS"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00ebl Lobban",
-          "url": "https://open.spotify.com/artist/1aKxOOjrr9tPOCat11beik"
-        }
-      ],
-      "duration_ms": 158727,
-      "name": "QLV",
-      "url": "https://open.spotify.com/track/4HB2SIgijSKf3H8fyFMOdp"
-    },
-    {
-      "added_at": "2026-07-24 18:18:58",
-      "album": {
         "name": "LEMONS",
         "url": "https://open.spotify.com/album/24md8bqKFzp15rKTafIDWQ"
       },
@@ -1319,22 +1347,6 @@
     {
       "added_at": "2026-06-17 18:03:14",
       "album": {
-        "name": "MY FEET",
-        "url": "https://open.spotify.com/album/3NlIELCR7Fs7gETU7z77Cl"
-      },
-      "artists": [
-        {
-          "name": "Khal!l",
-          "url": "https://open.spotify.com/artist/4tlDGVrh821Y1AXIWarzNe"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "MY FEET",
-      "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
-    },
-    {
-      "added_at": "2026-06-17 18:03:14",
-      "album": {
         "name": "Sugar Honey EP",
         "url": "https://open.spotify.com/album/6cayAM87JSifVzTxQ7fWMW"
       },
@@ -1379,38 +1391,6 @@
       "duration_ms": 213061,
       "name": "Kill For Us",
       "url": "https://open.spotify.com/track/28LiTR1zZR1ELe42doTMLD"
-    },
-    {
-      "added_at": "2026-06-17 18:03:14",
-      "album": {
-        "name": "H.I.M",
-        "url": "https://open.spotify.com/album/7L9H2jio6aQhMhUPqkczUo"
-      },
-      "artists": [
-        {
-          "name": "SICKOFTHEINTERNET",
-          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "H.I.M",
-      "url": "https://open.spotify.com/track/0jjrLN2I5nmy9owwliEfoD"
-    },
-    {
-      "added_at": "2026-06-17 18:03:14",
-      "album": {
-        "name": "Spine",
-        "url": "https://open.spotify.com/album/45LYfT0nHRYqvp2jkiJE1x"
-      },
-      "artists": [
-        {
-          "name": "Low.b\u014d",
-          "url": "https://open.spotify.com/artist/0sHhVckLys5GQXpszVYa2Y"
-        }
-      ],
-      "duration_ms": 162369,
-      "name": "Spine",
-      "url": "https://open.spotify.com/track/147fEFNIhb2zXrsuxii7Vl"
     },
     {
       "added_at": "2026-07-10 20:08:40",
@@ -1463,22 +1443,6 @@
     {
       "added_at": "2026-06-17 18:03:14",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/0g3SL1VOmywRaha5msGcAe"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Dos Santos",
-          "url": "https://open.spotify.com/artist/0INatsTiEOX0EJimNTQjSM"
-        }
-      ],
-      "duration_ms": 207814,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/0XC12fpa9eH99vQctgcZ0u"
-    },
-    {
-      "added_at": "2026-06-17 18:03:14",
-      "album": {
         "name": "Squeeze",
         "url": "https://open.spotify.com/album/7FPsItzxIWO0NzyeDte5Y8"
       },
@@ -1491,30 +1455,6 @@
       "duration_ms": 174159,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/2WaV7wTVJjuOL4YNGxMpiU"
-    },
-    {
-      "added_at": "2026-06-17 18:03:14",
-      "album": {
-        "name": "Solitude",
-        "url": "https://open.spotify.com/album/2I0dykLd9MJq3XokAbFkRR"
-      },
-      "artists": [
-        {
-          "name": "Chenayder",
-          "url": "https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y"
-        },
-        {
-          "name": "Vayda",
-          "url": "https://open.spotify.com/artist/3x8MpdnONnHCqbwizrn29H"
-        },
-        {
-          "name": "Norah's World",
-          "url": "https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh"
-        }
-      ],
-      "duration_ms": 153478,
-      "name": "Solitude",
-      "url": "https://open.spotify.com/track/02ugxIQUj0KZpugZqPzq67"
     },
     {
       "added_at": "2026-06-17 18:03:14",
@@ -1727,22 +1667,6 @@
       "duration_ms": 204311,
       "name": "Second Hand",
       "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
-    },
-    {
-      "added_at": "2026-05-01 05:51:23",
-      "album": {
-        "name": "tangerine!",
-        "url": "https://open.spotify.com/album/4e4WfNz2OUB7oqsRJL2PQl"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "tangerine!",
-      "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
     },
     {
       "added_at": "2026-03-13 08:53:39",

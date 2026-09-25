@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 
 > This is Luther Vandross\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,632 likes - 50 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,640 likes - 50 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Czz4Q.md) - [plain]
 | 38 | [I'm Only Human](https://open.spotify.com/track/0RNyMds4oiBrh4E29LBePL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Bob James](https://open.spotify.com/artist/6ryjbFyWBZho9KGXqKZdqQ), [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:28 |
 | 39 | [Make Me a Believer](https://open.spotify.com/track/1GwsrKwWdhU7iUpaB4eaIn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Busy Body](https://open.spotify.com/album/5Ql0BSlDT1AqZTZEzA8o3a) | 5:25 |
 | 40 | [Don't Want to Be a Fool](https://open.spotify.com/track/2rgMQNOF91LdmJClQAgqW9) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Power Of Love](https://open.spotify.com/album/4mSFu3YmqIHfPngFDqZl4f) | 4:35 |
-| 41 | [Since I Lost My Baby](https://open.spotify.com/track/2McxCsOcW1sDCxtlxYEcRS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 5:28 |
-| 42 | [Give Me the Reason](https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:47 |
+| 41 | [Give Me the Reason](https://open.spotify.com/track/4jwj7WcGHwNpG0ovatCbST) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 4:47 |
+| 42 | [Since I Lost My Baby](https://open.spotify.com/track/2McxCsOcW1sDCxtlxYEcRS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 5:28 |
 | 43 | [Bring Your Heart To Mine](https://open.spotify.com/track/3zFgG0j8WVluUvOXDCS0sS) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Luther Vandross](https://open.spotify.com/album/2YPEpjWlezCbj9jizr6ZeS) | 4:21 |
 | 44 | [For You to Love](https://open.spotify.com/track/04pwMsaIQlhwVFst7ttivM) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Any Love](https://open.spotify.com/album/1JJ0VNQJJU9AXQApfGC1dC) | 5:37 |
-| 45 | [Forever, for Always, for Love](https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:23 |
-| 46 | [Because It's Really Love](https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 6:15 |
+| 45 | [Because It's Really Love](https://open.spotify.com/track/4AAzip5bCUOhmDAu4eeRL4) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 6:15 |
+| 46 | [Forever, for Always, for Love](https://open.spotify.com/track/3BwPihmqv5kSXAIUuD7Y7J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Forever, For Always, For Love](https://open.spotify.com/album/3oG1ai7tyPHOm2w2ZkjpLi) | 6:23 |
 | 47 | [It's All About You](https://open.spotify.com/track/18IZbwBwZwZIcuq9jR0Bmn) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 5:27 |
 | 48 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/19HdAsw5YT83D8D7YOQ9wp) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Songs](https://open.spotify.com/album/79RyzfidCUY1XvdzwW0AYy) | 4:52 |
 | 49 | [Creepin'](https://open.spotify.com/track/5cltWPM1GjCEShVZiz4cD3) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Night I Fell In Love](https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY) | 4:05 |
 | 50 | [When I Need You](https://open.spotify.com/track/1iDxh5WR2otHnPFRoipGk8) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 6:47 |
 
-Snapshot ID: `arHFAAAAAABd0krnNJvB2qGE6pGVEZ+l`
+Snapshot ID: `arMWgAAAAAAhagmcms2gB3MK2NR0/WYk`

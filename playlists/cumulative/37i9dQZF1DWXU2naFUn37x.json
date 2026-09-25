@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Young Hash in cover della playlist dello street rap italiano \u26d3\ufe0f",
+  "description": "Flaco e Gu\u00e8 in cover della playlist dello street rap italiano \u26d3\ufe0f",
   "name": "Street Culto",
   "tracks": [
     {
@@ -4194,6 +4194,24 @@
       "duration_ms": 138775,
       "name": "BRAZY (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/3IPv7M45EB2kDthF7JHpHV"
+    },
+    {
+      "album": {
+        "name": "BRUCIARE IL MONDO",
+        "url": "https://open.spotify.com/album/4vf22vIkdyt50dVn9pVsmK"
+      },
+      "artists": [
+        {
+          "name": "Giovane Drago",
+          "url": "https://open.spotify.com/artist/5LYEbvNUxagnuPZiYao6zg"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133533,
+      "name": "BRUCIARE IL MONDO",
+      "url": "https://open.spotify.com/track/6E1STxyFTLABAnoPQYdTI2"
     },
     {
       "album": {
@@ -8609,6 +8627,28 @@
     },
     {
       "album": {
+        "name": "MARIA",
+        "url": "https://open.spotify.com/album/1191sIulTVtdrDFXz6paF7"
+      },
+      "artists": [
+        {
+          "name": "Tokyo",
+          "url": "https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq"
+        },
+        {
+          "name": "YD Frost",
+          "url": "https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170115,
+      "name": "FILS DE PUTE feat. YD Frost",
+      "url": "https://open.spotify.com/track/3rknbBiIFpuA2foqBWidNn"
+    },
+    {
+      "album": {
         "name": "ASPETTANDO LA BELLA VITA - Before and After",
         "url": "https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5"
       },
@@ -9204,7 +9244,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 112500,
       "name": "G&V",
       "url": "https://open.spotify.com/track/6GH0stb5CRpcpH9LDGD8JJ"
@@ -11968,6 +12008,28 @@
       "duration_ms": 109983,
       "name": "KILO",
       "url": "https://open.spotify.com/track/4lpvM7xAdn9FndyhdbMzfC"
+    },
+    {
+      "album": {
+        "name": "BACK AGAINST THE WALL",
+        "url": "https://open.spotify.com/album/5Fv9axS3aDZugAy804ShO8"
+      },
+      "artists": [
+        {
+          "name": "LILCR",
+          "url": "https://open.spotify.com/artist/44pyDZDAHZP2Tt0kcPHK1S"
+        },
+        {
+          "name": "Ay Mazza",
+          "url": "https://open.spotify.com/artist/00HqND5HJtFy37gOP03f4A"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121730,
+      "name": "KILOMETRO ZERO",
+      "url": "https://open.spotify.com/track/6wydOq5CrmOMPpyHh8ixQV"
     },
     {
       "album": {
@@ -20250,7 +20312,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 114174,
       "name": "SCONTROSA (feat. G.Mineiro)",
       "url": "https://open.spotify.com/track/40UibIQfdcyLJDgfDDA2MR"
@@ -20470,6 +20532,28 @@
       "duration_ms": 151174,
       "name": "SENZA FARE POP (feat. Diss Gacha)",
       "url": "https://open.spotify.com/track/1mWK8YWKHR7kx4gyQ5GOLb"
+    },
+    {
+      "album": {
+        "name": "SENZA IMPEGNO (feat. Gu\u00e8)",
+        "url": "https://open.spotify.com/album/4vYsJJ7wmoqcqEx8oPtr8j"
+      },
+      "artists": [
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157575,
+      "name": "SENZA IMPEGNO (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/4I49zIYbsUEjINYlPX6E7s"
     },
     {
       "album": {
@@ -21648,7 +21732,7 @@
       ],
       "date_added": "2025-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 144506,
       "name": "STAILA (feat. Flaco G)",
       "url": "https://open.spotify.com/track/6X49o8gZ6lEWXZ60da1qmT"
@@ -22796,7 +22880,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 152156,
       "name": "TIMMY TURNER",
       "url": "https://open.spotify.com/track/53Jdi1wxkc6IEBN2hUrBUM"

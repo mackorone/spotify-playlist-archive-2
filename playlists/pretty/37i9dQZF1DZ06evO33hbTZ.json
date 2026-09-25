@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6137,
+  "num_followers": 6136,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAC/SNjUyQL57yOA7Jhkdwcq",
+  "snapshot_id": "arMWgAAAAAB6ytk0q73Z/VU3I5dj3Mo0",
   "tracks": [
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALONE WITH GOD (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
+        "name": "20Minutes Spontaneous Deep Worship",
+        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 2526933,
-      "name": "ALONE WITH GOD (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+      "duration_ms": 1270909,
+      "name": "20Minutes Spontaneous Deep Worship",
+      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
     },
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20Minutes Spontaneous Deep Worship",
-        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
+        "name": "ALONE WITH GOD (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 1270909,
-      "name": "20Minutes Spontaneous Deep Worship",
-      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
+      "duration_ms": 2526933,
+      "name": "ALONE WITH GOD (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall in Love",
-        "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take It All (Live)",
         "url": "https://open.spotify.com/album/46cyf59YkYoltsykKt0tEr"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 621706,
       "name": "Take it All - Live",
       "url": "https://open.spotify.com/track/3d2aoEEBIKBChppdlXRexU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fall in Love",
+        "url": "https://open.spotify.com/album/59wYIOrImJYzitomQFQAVL"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/0GcZgpC7nw3alTAPOIoZdu"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You are Lifted (Spontaneous Worship)",
         "url": "https://open.spotify.com/album/3GL93N3e9sBtznX6BIHzng"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 2461616,
       "name": "You are Lifted (Spontaneous Worship)",
       "url": "https://open.spotify.com/track/4O9kmanzq6i11XhGOyNXfN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 824408,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,119 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,136 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 11 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
 | 12 | [It Feels Right](https://open.spotify.com/track/6of3KnaLpo3j8ANnr0BLn7) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [It Feels Right](https://open.spotify.com/album/15cgWFKi6jU95bKbZmpqwy) | 3:38 |
 | 13 | [Last Goodbyes](https://open.spotify.com/track/6b9lBTcHz4nZzBPJiE1XDM) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Last Goodbyes](https://open.spotify.com/album/7wpFdJabvBuM8z934d1nuk) | 3:23 |
-| 14 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
-| 15 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
+| 14 | [One And Only](https://open.spotify.com/track/6sHsuOis3nIgem4wYxQY90) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Small Changes](https://open.spotify.com/album/6dM03QWc4fgMFHqn2Qhrww) | 4:31 |
+| 15 | [Heavy Hearts](https://open.spotify.com/track/6nIJe0uujNETpZWWMlDazL) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Nobody Lives Here](https://open.spotify.com/album/779IZOhupymkjX6dzygMl9) | 2:57 |
 | 16 | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ) | 3:17 |
 | 17 | [Streets of London](https://open.spotify.com/track/6s9KM1jKM4HBjoe3A71F6w) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 3:09 |
 | 18 | [Call Me When You Get In](https://open.spotify.com/track/1Ubp8409zEMy2FJDOvMkfW) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx), [Emily Rink](https://open.spotify.com/artist/65A05MaAQkUbLQm8jVtZHF) | [Call Me When You Get In](https://open.spotify.com/album/2l6Ur9RzHqEuQA5wioCaeM) | 3:48 |
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 22 | [Rent California](https://open.spotify.com/track/5pM6G3SNUe0YIvdbo6YMV8) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Rent California](https://open.spotify.com/album/0LYAS83ZYKtL3JYwZOWAKV) | 4:03 |
 | 23 | [Better Man](https://open.spotify.com/track/1EbPdSGUieuXiUj6pThOOP) | [Jim Gardner](https://open.spotify.com/artist/2G6eENqmaNAqfkQKiG3dun) | [Better Man](https://open.spotify.com/album/3AoxpOQGQDnYI4aTvGV6UD) | 2:33 |
 | 24 | [Guy From Outer Space](https://open.spotify.com/track/15i3dsbI648yXalkC7tlpK) | [FENNE](https://open.spotify.com/artist/1iEwzHojkE2rHcDAJDQOuo) | [Guy From Outer Space](https://open.spotify.com/album/0SmDKRm8ipUPFzf9PtrUzk) | 2:43 |
-| 25 | [Try Again](https://open.spotify.com/track/6z3AtDWa2TYRo2MF6KwTmD) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x), [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Try Again](https://open.spotify.com/album/5kIaUsVuxXBXZC5tBlzhPN) | 3:56 |
-| 26 | [Hopeful](https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Hopeful](https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW) | 3:34 |
+| 25 | [Hopeful](https://open.spotify.com/track/4PvO068sn6ciXDDv7LQHpp) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Hopeful](https://open.spotify.com/album/24JB71qwsB96Z7JOWuGKsW) | 3:34 |
+| 26 | [Try Again](https://open.spotify.com/track/6z3AtDWa2TYRo2MF6KwTmD) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x), [Marlon Pichel](https://open.spotify.com/artist/1K9fya7BLGFssjbDehtbpI) | [Try Again](https://open.spotify.com/album/5kIaUsVuxXBXZC5tBlzhPN) | 3:56 |
 | 27 | [Light Over You](https://open.spotify.com/track/0GES2JIoKo7fwiQUviVOhN) | [Janna](https://open.spotify.com/artist/3fBellqlNNu3nZdBxgQduS) | [Light Over You](https://open.spotify.com/album/6YjrJQg4SJlW02PtoZFghy) | 2:56 |
 | 28 | [Thorns](https://open.spotify.com/track/4qbKtcNmcPx91f7IZK0647) | [Jack and the Weatherman](https://open.spotify.com/artist/3ydwrOmRBy5TtHpTDaauOQ) | [Thorns](https://open.spotify.com/album/089kuVmI5JOve2aj6euTSA) | 3:20 |
 | 29 | [The Ones We Seek](https://open.spotify.com/track/63H0KKB9i7QO0bchVPffRm) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Ones We Seek](https://open.spotify.com/album/2Af8iQCdiVQUjW7RTy15Kc) | 4:34 |
 | 30 | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/track/5zmo0fUtVQfixc7by6G5NZ) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Whatever It Takes \(Break Your Heart\)](https://open.spotify.com/album/56CtdMCjb4yQVBXSNXsFIM) | 2:55 |
 | 31 | [Morning Dawns Again](https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Morning Dawns Again](https://open.spotify.com/album/4yQlOGtEMAj1aetMqrowWx) | 3:58 |
-| 32 | [Hunter](https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Hunter](https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR) | 4:12 |
-| 33 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 |
-| 34 | [goodbye](https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [goodbye](https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq) | 2:50 |
+| 32 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 |
+| 33 | [goodbye](https://open.spotify.com/track/4CgpqIHgo979yH4gu9AU66) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [goodbye](https://open.spotify.com/album/59txMlbVSKHpifWj0pN5Vq) | 2:50 |
+| 34 | [Hunter](https://open.spotify.com/track/55C3EVIHYnHxX8lKIR4Pjy) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Hunter](https://open.spotify.com/album/5oWJKqQnZp3xNZRx6ncRpR) | 4:12 |
 | 35 | [Lies](https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies](https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e) | 3:47 |
 | 36 | [Light of My Life](https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Light of My Life](https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8) | 4:19 |
 | 37 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 |

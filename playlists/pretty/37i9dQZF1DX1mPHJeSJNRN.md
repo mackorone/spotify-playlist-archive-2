@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,301 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,303 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 60 | [I Can't Be Bothered Now](https://open.spotify.com/track/03IDpwMNgvxcrCo6SwZxlX) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [The Very Thought of You](https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO) | 2:59 |
 | 61 | [Say It](https://open.spotify.com/track/22lW7vmzXA6Epzv8vGd46L) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Flirting With Twilight](https://open.spotify.com/album/29To8wt9d5MB8JWsq0XYum) | 4:57 |
 | 62 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 |
-| 63 | [Roaring Heights](https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:18 |
-| 64 | [Last Night](https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W), [Gil Goldstein](https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q) | [It Happens Like That](https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD) | 3:31 |
-| 65 | [Needle and Candle](https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7) | [Yoon Jong Ryul](https://open.spotify.com/artist/14gyB2ipghybniP9azTd42) | [Simple Life](https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP) | 5:57 |
+| 63 | [Needle and Candle](https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7) | [Yoon Jong Ryul](https://open.spotify.com/artist/14gyB2ipghybniP9azTd42) | [Simple Life](https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP) | 5:57 |
+| 64 | [Roaring Heights](https://open.spotify.com/track/2wFSomD4N8Zwd4JriLtkm3) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time for Ballads \- The Maene Sessions](https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5) | 4:18 |
+| 65 | [Last Night](https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W), [Gil Goldstein](https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q) | [It Happens Like That](https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD) | 3:31 |
 | 66 | [All The Way](https://open.spotify.com/track/1j6TY7oXSXwJWoo0MzIBCl) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [Your Songs](https://open.spotify.com/album/38iX1KFM9RtgHceJEU5mMd) | 3:32 |
 | 67 | [East of The Sun](https://open.spotify.com/track/3Vh2UKxOL8IX3fKRjVEPMe) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [No Bounds](https://open.spotify.com/album/2PYZhybffUNK3dMUOu1NIC) | 4:47 |
 | 68 | [Keep It in Your Dreams](https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 3:12 |

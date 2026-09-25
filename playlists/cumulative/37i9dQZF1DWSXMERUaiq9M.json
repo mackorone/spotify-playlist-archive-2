@@ -86,7 +86,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 133500,
       "name": "1999",
       "url": "https://open.spotify.com/track/3YolktwmGt2nwFD8KMlJfh"
@@ -1460,7 +1460,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 166124,
       "name": "BASS DOWN LOW",
       "url": "https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB"
@@ -1724,6 +1724,32 @@
       "duration_ms": 194850,
       "name": "Berlin",
       "url": "https://open.spotify.com/track/0FTzEpdHkYu0D5MBJbjGSh"
+    },
+    {
+      "album": {
+        "name": "Berlin '99",
+        "url": "https://open.spotify.com/album/6y16ekdR0ybe2VRkYryvvz"
+      },
+      "artists": [
+        {
+          "name": "Olly James",
+          "url": "https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC"
+        },
+        {
+          "name": "Panteros666",
+          "url": "https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt"
+        },
+        {
+          "name": "Evil Twiin",
+          "url": "https://open.spotify.com/artist/4Wi32nMyDHreHb97iXd9zN"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146804,
+      "name": "Berlin '99",
+      "url": "https://open.spotify.com/track/2mBIpDdERKz7unqVVuHOnP"
     },
     {
       "album": {
@@ -2026,6 +2052,28 @@
       "duration_ms": 173508,
       "name": "Born To Love",
       "url": "https://open.spotify.com/track/7IB3u6v0wDwEYEVVQ2lKoD"
+    },
+    {
+      "album": {
+        "name": "Bounce Back (Sped Up)",
+        "url": "https://open.spotify.com/album/3coHVjbK1xd9PvtaWREtet"
+      },
+      "artists": [
+        {
+          "name": "Acidus",
+          "url": "https://open.spotify.com/artist/7j3s7bQ9pNRILCVy8e36ZB"
+        },
+        {
+          "name": "MXGN",
+          "url": "https://open.spotify.com/artist/6Fc5E4Mkx9qxuiVhUA8WEg"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Bounce Back - Sped Up",
+      "url": "https://open.spotify.com/track/5QfJ0FdXn72ljBhKr3VyKA"
     },
     {
       "album": {
@@ -3292,7 +3340,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 220645,
       "name": "Dark Places",
       "url": "https://open.spotify.com/track/4PKqgr1RUnfzhHAwLwwpEn"
@@ -10106,7 +10154,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180027,
       "name": "Move Your Feet",
       "url": "https://open.spotify.com/track/2QUc1xplL96Dnjnwx9izb5"
@@ -11195,6 +11243,24 @@
     },
     {
       "album": {
+        "name": "Oldschool",
+        "url": "https://open.spotify.com/album/0Pgtru7WpY9wBBl5ey2E9x"
+      },
+      "artists": [
+        {
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152606,
+      "name": "Oldschool",
+      "url": "https://open.spotify.com/track/1JopyNdeuw8C1bimbS9p9f"
+    },
+    {
+      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/4Sl9YQFee8EAWDgtXzWY6I"
       },
@@ -11232,6 +11298,32 @@
       "duration_ms": 145548,
       "name": "ON REPEAT",
       "url": "https://open.spotify.com/track/25IAOVi773nomfvgEmAMLY"
+    },
+    {
+      "album": {
+        "name": "On The Beach",
+        "url": "https://open.spotify.com/album/2y64Hw9X68kiEvg0wwaKmY"
+      },
+      "artists": [
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        },
+        {
+          "name": "Bella Claxton",
+          "url": "https://open.spotify.com/artist/2imSh48JkQxpNcJr8ub8A7"
+        },
+        {
+          "name": "Mike Momburg",
+          "url": "https://open.spotify.com/artist/3MZ80Vsf1nxkzuM1AjowNy"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162857,
+      "name": "On The Beach",
+      "url": "https://open.spotify.com/track/77AhO59wOXtyPxTj8AC2Wa"
     },
     {
       "album": {
@@ -12157,6 +12249,28 @@
     },
     {
       "album": {
+        "name": "Proton",
+        "url": "https://open.spotify.com/album/3jzdQpVYQqHgfFbyYm5Pub"
+      },
+      "artists": [
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Alignment",
+          "url": "https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Proton",
+      "url": "https://open.spotify.com/track/2AzAamWZi47Fv7nds8h7AM"
+    },
+    {
+      "album": {
         "name": "PULSO.",
         "url": "https://open.spotify.com/album/2faWaBnawLWEWFbP4hC4Ci"
       },
@@ -12836,7 +12950,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 350913,
       "name": "RIO",
       "url": "https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4"
@@ -13178,6 +13292,24 @@
       "duration_ms": 263240,
       "name": "Save The Last Dance",
       "url": "https://open.spotify.com/track/6dXtAHx10RxPkffHGrlgSs"
+    },
+    {
+      "album": {
+        "name": "Save You",
+        "url": "https://open.spotify.com/album/6F5GN6Jhh60wjYQ28IIrR9"
+      },
+      "artists": [
+        {
+          "name": "Anna Ullrich",
+          "url": "https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249729,
+      "name": "Save You",
+      "url": "https://open.spotify.com/track/0yRy7vY6LV9071w4kS0MCO"
     },
     {
       "album": {
@@ -14548,7 +14680,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 196000,
       "name": "System",
       "url": "https://open.spotify.com/track/3pVz70xoeSaAVeTR7hqhGp"
@@ -14842,6 +14974,24 @@
       "duration_ms": 169105,
       "name": "Testo Skin Part 1",
       "url": "https://open.spotify.com/track/2rAx3OdiLOWWlm95HqN3Wq"
+    },
+    {
+      "album": {
+        "name": "That Acid",
+        "url": "https://open.spotify.com/album/1fh6gxJ1fnPhfOosqj20yL"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145600,
+      "name": "That Acid",
+      "url": "https://open.spotify.com/track/5qYT2yz53B2yb5wK7f4goK"
     },
     {
       "album": {
@@ -15493,6 +15643,24 @@
     },
     {
       "album": {
+        "name": "CATHARSIS",
+        "url": "https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd"
+      },
+      "artists": [
+        {
+          "name": "KUKO",
+          "url": "https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 6",
+      "url": "https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE"
+    },
+    {
+      "album": {
         "name": "Sun FM",
         "url": "https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3"
       },
@@ -15950,7 +16118,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 154177,
       "name": "VAMOS LOCO",
       "url": "https://open.spotify.com/track/3AhwyGcUc3hjfoDqUCduNy"
@@ -16988,7 +17156,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 100125,
       "name": "WTF",
       "url": "https://open.spotify.com/track/5gpmSTW1PdS3d49quiOwm8"

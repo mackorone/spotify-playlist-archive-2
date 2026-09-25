@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring Lilly Yan\. Updates every Wednesday.
 
-2,863 songs - 6 day 8 hr 12 min
+2,864 songs - 6 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [5 Minutos](https://open.spotify.com/track/3CMCp08bmQMC2LPCXMIjlU) | [Vale Garzón](https://open.spotify.com/artist/24fjoKudgR9S4p2flzJuzJ) | [Cinco de Mil Pedazos](https://open.spotify.com/album/1JbpIaTJ7bauu4KWpC3BcA) | 2:35 | 2023-10-11 | 2023-10-26 |
 | [53xo](https://open.spotify.com/track/25HG2547783ZYlLIOUw5n0) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd), [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [Amorología](https://open.spotify.com/album/6O3isOI8FLPXkszCTlS72o) | 2:52 | 2022-06-15 | 2022-07-30 |
 | [5JONES](https://open.spotify.com/track/6od2V8fFRSLGmCEkrbasjT) | [Elia](https://open.spotify.com/artist/77Yywnuagmv7UAdhALfhCA) | [CASA X CASA](https://open.spotify.com/album/5BaQwSF7nVYTPzoDtiGeEX) | 2:24 | 2026-07-01 | 2026-09-24 |
-| [6/8](https://open.spotify.com/track/1pOvyWbQoX16kBFgTIMPSX) | [Mddle](https://open.spotify.com/artist/4UhpuBlKBacXwWXgTunCI9), [Akira Kintsugi](https://open.spotify.com/artist/1K1dPnpajLuA1vpXeDK4Oj) | [6/8](https://open.spotify.com/album/2gHk4FNRZY0gdUa4IwGrVU) | 2:00 | 2026-07-22 |  |
+| [6/8](https://open.spotify.com/track/1pOvyWbQoX16kBFgTIMPSX) | [Mddle](https://open.spotify.com/artist/4UhpuBlKBacXwWXgTunCI9), [Akira Kintsugi](https://open.spotify.com/artist/1K1dPnpajLuA1vpXeDK4Oj) | [6/8](https://open.spotify.com/album/2gHk4FNRZY0gdUa4IwGrVU) | 2:00 | 2026-07-22 | 2026-09-25 |
 | [6:00 P.M.](https://open.spotify.com/track/6wl8iU1HjtRZlMl44bCTer) | [Clément](https://open.spotify.com/artist/12bJff65CR1709k0RCibAQ), [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [6:00 P.M.](https://open.spotify.com/album/30YL9fJiXFoCBRtT597Frp) | 2:26 | 2024-05-01 | 2025-02-06 |
 | [7000 Km a Madrid](https://open.spotify.com/track/2WYb5Hm2CZhfGtmlY25jPP) | [El Yonka](https://open.spotify.com/artist/5wyypFnWe76Vw0S6dRPnP6), [Reynier Mariño](https://open.spotify.com/artist/5iT0SEiYDqj8U84sGZjgGF) | [7000 Km a Madrid](https://open.spotify.com/album/7Bej6MPEczLrhaYc9Pw16p) | 3:18 | 2023-04-12 | 2023-04-20 |
 | [75](https://open.spotify.com/track/3UXIxlJIrgBUcjGiIxgMx6) | [Oregon Black](https://open.spotify.com/artist/3JL1vhNdCUGodO3nDTMmgT), [Pepe Nungaray](https://open.spotify.com/artist/56CgM09yZsTWauH3l4CqKs) | [75](https://open.spotify.com/album/7vqLkdDjsk4T3X5luyqM1M) | 2:23 | 2024-08-07 | 2024-08-29 |
@@ -1215,6 +1215,7 @@
 | [Intención Volátil](https://open.spotify.com/track/0CyzM5MfnWGBKhHIY0pcZT) | [Ciudad Vorágine](https://open.spotify.com/artist/6Xikxo8X4Pixgk7NgW7N4U) | [Intención Volátil](https://open.spotify.com/album/01Dv3C8GY2stDVNz83EdqC) | 3:59 | 2022-02-09 | 2022-02-24 |
 | [Intentarlo](https://open.spotify.com/track/2pNfFOfAax3AcuA82r8fGW) | [Mpax](https://open.spotify.com/artist/7cjS7KNLvZGL1f39wICavK) | [Intentarlo](https://open.spotify.com/album/1Wf1eJihvVMYgMUjojp9bP) | 2:50 | 2025-01-15 | 2025-02-20 |
 | [Intermodal](https://open.spotify.com/track/36x4VsTSnzLdX2V2lAfis3) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92) | [Intermodal](https://open.spotify.com/album/5eyzjxi4WcDY0mTZvxND9f) | 2:54 | 2023-08-23 | 2023-09-07 |
+| [INTERÉS HACIA TI](https://open.spotify.com/track/1YmlIvluWNhC2iHEpwRP6U) | [FAMA](https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X) | [INTERÉS HACIA TI](https://open.spotify.com/album/3NVnCP1FRHUhAOrKgo7TZ2) | 2:29 | 2026-09-24 |  |
 | [intransigente](https://open.spotify.com/track/0GPz5w9Qq3mFwfHPrkVlNP) | [nopornada](https://open.spotify.com/artist/7wjJYcWynWV6vnWulTTQUU) | [intransigente](https://open.spotify.com/album/45on8aTqGjlX3ZcC8hq6mm) | 4:00 | 2024-02-07 | 2024-02-22 |
 | [Intro \(no puedo ser la misma\)](https://open.spotify.com/track/5Sr61HzJY1cTiJBUiWPsOK) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Intro \(no puedo ser la misma\)](https://open.spotify.com/album/60Lr3vuTtniKlkL4HNAaS3) | 3:26 | 2025-02-12 | 2025-03-20 |
 | [introtrack.wav](https://open.spotify.com/track/2e22XqyFFAo7x5RMPiyOMy) | [Danny Polo](https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm) | [introtrack.wav](https://open.spotify.com/album/0bD6LYBHFOQfrR8X3vwgla) | 3:47 | 2024-02-14 | 2024-02-22 |

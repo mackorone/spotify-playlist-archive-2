@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 117664,
+  "num_followers": 117696,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADB6S2N0rWCOhIrcI7lABq6",
+  "snapshot_id": "arMWgAAAAAD0ml2n0yQ9DvR8GwEie6wt",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whirlwind (Deluxe)",
-        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Somewhere Over Laredo",
-      "url": "https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
         "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 194666,
       "name": "Dirty Looks",
       "url": "https://open.spotify.com/track/45EwtYrnqJH3AH2bFpEOC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind (Deluxe)",
+        "url": "https://open.spotify.com/album/4jzl02ZBUX359L5VlqLNCQ"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Somewhere Over Laredo",
+      "url": "https://open.spotify.com/track/2KeS9EwqQvw0TdGohFNvfC"
     },
     {
       "added_at": null,
@@ -323,6 +323,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Jesus I Know Now",
+        "url": "https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        },
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 213771,
+      "name": "The Jesus I Know Now",
+      "url": "https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whirlwind",
+        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 237773,
+      "name": "Good Horses - feat. Miranda Lambert",
+      "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Light of a Clear Blue Morning",
         "url": "https://open.spotify.com/album/6YExDnUZUEXINyiPGk3FMz"
       },
@@ -351,46 +391,6 @@
       "duration_ms": 227692,
       "name": "Light of a Clear Blue Morning",
       "url": "https://open.spotify.com/track/5yoMf4Jx2PGNFybDuWNdvE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whirlwind",
-        "url": "https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 237773,
-      "name": "Good Horses - feat. Miranda Lambert",
-      "url": "https://open.spotify.com/track/6cUJmzU24GorRheKghmNkY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Jesus I Know Now",
-        "url": "https://open.spotify.com/album/7lnIDIoFSoHRRx2XJTsxju"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        },
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 213771,
-      "name": "The Jesus I Know Now",
-      "url": "https://open.spotify.com/track/5b1kZLzylm4PWvlX6DEklE"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Hold My Halo",
-      "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 176146,
       "name": "Never Say Never (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Atta Girl",
-      "url": "https://open.spotify.com/track/5yDmKWFlzwTRU4LPyD9MCi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REBEL",
         "url": "https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 231866,
       "name": "Praying Woman",
       "url": "https://open.spotify.com/track/0c0yiRhp1dQhjrC2kXOJ10"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Atta Girl",
+      "url": "https://open.spotify.com/track/5yDmKWFlzwTRU4LPyD9MCi"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 211240,
-      "name": "Hillbilly Hippie",
-      "url": "https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Two Story House",
         "url": "https://open.spotify.com/album/2UBvZ8c8E5LVMKf6ZZMcfj"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 199986,
       "name": "Two Story House",
       "url": "https://open.spotify.com/track/2poxiFKQTbULSdjWagcb3g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 211240,
+      "name": "Hillbilly Hippie",
+      "url": "https://open.spotify.com/track/6LkYprJuqpmKVRvkSG4DnL"
     },
     {
       "added_at": null,

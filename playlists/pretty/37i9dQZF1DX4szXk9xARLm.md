@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 
 > أحلى أغاني المسلسلات المصرية 📺✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,345 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,372 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4szXk9xARLm.md) - [plain]
 | 23 | [انا نجم \- من مسلسل ريفو](https://open.spotify.com/track/5VOgXIIDg9cyQ3VMXgH3a3) | [ريفو شو](https://open.spotify.com/artist/176F6CdFEVWYNwqM6HEXU2) | [Rivo \(من مسلسل ريفو\)](https://open.spotify.com/album/1EfYYVFrbQubucndRHR9um) | 4:05 |
 | 24 | [انتى الوحش](https://open.spotify.com/track/37hr4bP9AfqOzfsGogw7fZ) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe) | [انتى الوحش](https://open.spotify.com/album/2QX0iy8citcZ0tsSDAQMos) | 3:56 |
 | 25 | [بتفرج على الايام](https://open.spotify.com/track/71TLA6p0YvOdGEeEjnfSPN) | [Pousi](https://open.spotify.com/artist/3xg4VREmOEjLJurhXIelW7) | [مسلسل الخانكه](https://open.spotify.com/album/2cRI4raONKVkrdUlkLrOSZ) | 3:42 |
-| 26 | [Millionaire \- Music from 100 Wesh TV Series](https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [Millionaire \(Music from 100 Wesh TV Series\)](https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L) | 4:41 |
-| 27 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 |
+| 26 | [وتقابل حبيب](https://open.spotify.com/track/7M1EnR4adNU8vth13OjtBM) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [وتقابل حبيب](https://open.spotify.com/album/0kW5bh1ijiHrwxw828IyAF) | 3:04 |
+| 27 | [Millionaire \- Music from 100 Wesh TV Series](https://open.spotify.com/track/7vuO4IR9VCoXa1NvlgOISv) | [El Madfaagya](https://open.spotify.com/artist/7Dw6fBcDUSorbHGdg1gsub) | [Millionaire \(Music from 100 Wesh TV Series\)](https://open.spotify.com/album/6aA8kq3KuqnDQNlg0gVY0L) | 4:41 |
 | 28 | [Chou Nater \- ‘‘Bel Haram’’ Series Soundtrack](https://open.spotify.com/track/5edPMA7qQWgeqR5M4KqaUz) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Chou Nater \(‘‘Bel Haram’’ Series Soundtrack\)](https://open.spotify.com/album/1Ozz6B4Db11A8jdF2hVW9E) | 3:15 |
 | 29 | [كلكوا خاينين](https://open.spotify.com/track/5CxPmDlf5OyhaRbuh09tWj) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [كلكوا خاينين](https://open.spotify.com/album/53UzZGVZBY21TAdvcG4kZl) | 4:01 |
 | 30 | [خفي حبه \- تتر مسلسل محارب](https://open.spotify.com/track/4F8Rmt52rz2pCtmN8vfryD) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [خفي حبه \(تتر مسلسل محارب\)](https://open.spotify.com/album/1BgEemXrbEZFJkV0bIh1bz) | 3:36 |

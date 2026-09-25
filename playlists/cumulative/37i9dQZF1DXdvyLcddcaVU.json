@@ -1742,7 +1742,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 187844,
       "name": "Bad boy",
       "url": "https://open.spotify.com/track/0RE4crnT3jRms1xxVlEZx2"
@@ -5889,6 +5889,24 @@
     },
     {
       "album": {
+        "name": "Deliciosa",
+        "url": "https://open.spotify.com/album/2yQEjpmi32nlH7DLUl62cd"
+      },
+      "artists": [
+        {
+          "name": "Josas",
+          "url": "https://open.spotify.com/artist/13IyCFiPKhpVejuTyNulgU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165967,
+      "name": "Deliciosa",
+      "url": "https://open.spotify.com/track/17QCWlVhlMWt5VVwale5nS"
+    },
+    {
+      "album": {
         "name": "Demain (Sped up version)",
         "url": "https://open.spotify.com/album/0N5BM7gNz7AMbG2yZhHIPP"
       },
@@ -7570,7 +7588,7 @@
       ],
       "date_added": "2026-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 177154,
       "name": "Fendi Gang",
       "url": "https://open.spotify.com/track/683LQJzTRemt1ZhCYxixwx"
@@ -7592,6 +7610,24 @@
       "duration_ms": 143386,
       "name": "Ferry",
       "url": "https://open.spotify.com/track/1Myy7fPHUxnyjcq4Gf81C3"
+    },
+    {
+      "album": {
+        "name": "Ferry shop",
+        "url": "https://open.spotify.com/album/0uIs10nHicafR4VKCec3X6"
+      },
+      "artists": [
+        {
+          "name": "2tp",
+          "url": "https://open.spotify.com/artist/3dkgxTZUZlK2t2dCLI00ee"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156107,
+      "name": "Ferry shop",
+      "url": "https://open.spotify.com/track/5jeIA5wYxD8aQz4tf8LLeU"
     },
     {
       "album": {
@@ -7628,6 +7664,28 @@
       "duration_ms": 134702,
       "name": "FIGURED YOU OUT",
       "url": "https://open.spotify.com/track/7bLm3Wjv9zQF7Sc2PpDCvR"
+    },
+    {
+      "album": {
+        "name": "Fille \u00e0 Papa",
+        "url": "https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl"
+      },
+      "artists": [
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        },
+        {
+          "name": "La Rvfleuze",
+          "url": "https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169586,
+      "name": "Fille \u00e0 Papa",
+      "url": "https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS"
     },
     {
       "album": {
@@ -9125,6 +9183,28 @@
     },
     {
       "album": {
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml"
+    },
+    {
+      "album": {
         "name": "HRTBRK 2 (Ghenda Remix)",
         "url": "https://open.spotify.com/album/2w7rOS96WT19GY0thNwGyf"
       },
@@ -10373,6 +10453,24 @@
     },
     {
       "album": {
+        "name": "Vs Head Vs Heart",
+        "url": "https://open.spotify.com/album/5tEmti4tXrxurQdIgOizpI"
+      },
+      "artists": [
+        {
+          "name": "Emma Louise",
+          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202907,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/7LFNVbFQGY1T3fekzMLziQ"
+    },
+    {
+      "album": {
         "name": "Just The Way You Are",
         "url": "https://open.spotify.com/album/1fN8LTM10sYFZl5BCzIPlj"
       },
@@ -10876,7 +10974,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 153923,
       "name": "La Cheyenne",
       "url": "https://open.spotify.com/track/290ilxF4OsghfGWMV9OZNd"
@@ -11272,7 +11370,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 165784,
       "name": "La tip\u00e8re",
       "url": "https://open.spotify.com/track/63JDKTI5MdjUVsqaJ7Rd5O"
@@ -12238,7 +12336,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/3RmFPuTTAjSQ2pbEd2j9oA"
@@ -15904,6 +16002,24 @@
       "duration_ms": 184637,
       "name": "oblig\u00e9",
       "url": "https://open.spotify.com/track/72CwufbasYHuLPmK4Sc8Fb"
+    },
+    {
+      "album": {
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219427,
+      "name": "Obsessica",
+      "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
     },
     {
       "album": {
@@ -20146,7 +20262,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 205714,
       "name": "SO MAWA (feat. Mauvais djo)",
       "url": "https://open.spotify.com/track/2k4Yc2cKGk2RhidqfVdwms"
@@ -22834,7 +22950,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 140571,
       "name": "Vitamine G",
       "url": "https://open.spotify.com/track/7GlY1cM2G0neO5ZmevG6IT"
@@ -23654,6 +23770,24 @@
       "duration_ms": 92000,
       "name": "Zinzin",
       "url": "https://open.spotify.com/track/0OOtwqPM1JImq7MLaG0b24"
+    },
+    {
+      "album": {
+        "name": "Zoblazo",
+        "url": "https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY"
+      },
+      "artists": [
+        {
+          "name": "Ruthee",
+          "url": "https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160474,
+      "name": "Zoblazo",
+      "url": "https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv"
     },
     {
       "album": {

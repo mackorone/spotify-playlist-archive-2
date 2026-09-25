@@ -4,7 +4,7 @@
 
 > Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-241 songs - 21 hr 20 min
+242 songs - 21 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Ab Chhalakte Hue \(From "Bhoomi 2025"\)](https://open.spotify.com/track/4Ys3cMRAqJDL4XFI3KcTiV) | [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ali Ahmad Jalili](https://open.spotify.com/artist/18APVUaqAQUzCtPN6xoFJL) | [Ab Chhalakte Hue \(From "Bhoomi 2025"\)](https://open.spotify.com/album/24c4qPeifmKRda1ZMoKuoB) | 5:48 | 2025-11-04 |  |
 | [Ab Ke Jo Baat Hui](https://open.spotify.com/track/2X4UCsahzz3JwvBbkBGf0a) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0GQaL3F3EnwP5chmApJMA9) | 7:08 | 2023-07-25 | 2025-01-01 |
 | [Ab Ke Jo Baat Hui](https://open.spotify.com/track/4AzCXSgvjUiEbkr7mBvpNO) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Ab Ke Jo Baat Hui](https://open.spotify.com/album/0AzQXg1jQISWHBnF4SHg3d) | 7:08 | 2023-12-12 | 2024-04-19 |
-| [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 | 2024-10-25 |  |
+| [Ab Ke Tajdeed](https://open.spotify.com/track/0PCZxQpYkk493Apz9oBOXG) | [Akshay Dabhadkar](https://open.spotify.com/artist/2Upf6WojA7HrgTi2PACRaN), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5) | [Ab Ke Tajdeed](https://open.spotify.com/album/5Uquc5yiGw4Tgp1bRcilG3) | 4:48 | 2024-10-25 | 2026-09-25 |
 | [Ab Vo Baat Kahaan](https://open.spotify.com/track/3Vd68JM1sY9tFzHkMmKzDg) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5), [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK) | [Ab Vo Baat Kahaan](https://open.spotify.com/album/49yKZEosul3zDLtslFSSSK) | 5:33 | 2025-08-01 |  |
 | [Achanak Safar Mein](https://open.spotify.com/track/3x8uf74HEWtW3AZ7uCvTWI) | [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Achanak Safar Mein](https://open.spotify.com/album/6dkt2eYxjXK0z7EnEFcNDw) | 6:31 | 2025-08-29 |  |
 | [Agar Talash Karun](https://open.spotify.com/track/1YQOVnwr0DA9EotDneK265) | [Sougata Banerjee](https://open.spotify.com/artist/1eF9TwBnbfEFQZvC98Lg56) | [Agar Talash Karun](https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6) | 6:30 | 2023-03-23 | 2025-08-12 |
@@ -230,6 +230,7 @@
 | [Tumhein Dil Hi Dil](https://open.spotify.com/track/2zbYndwSMxp3xMXcuENO5x) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ghazals To Remember Vol \-1](https://open.spotify.com/album/1DDJT6eWzXMFx1kYh3YHuG) | 6:08 | 2021-12-01 | 2023-08-25 |
 | [Tumne Jo Kuchh Kaha](https://open.spotify.com/track/7K5ox3eAJv1ZVtumbZa4VZ) | [Dilip Parihar](https://open.spotify.com/artist/4vo1NxhrGB8Gw7pjP30EV9) | [Tumne Jo Kuchh Kaha](https://open.spotify.com/album/5xTkDEELEs2J0EDzIhHTl3) | 7:10 | 2023-08-30 | 2023-10-13 |
 | [Virah](https://open.spotify.com/track/44SQLK6OS7gadq8h8Le57b) | [Suresh Wadkar](https://open.spotify.com/artist/0w4e7HVbqAHFPN6VkIlvhe) | [Virah](https://open.spotify.com/album/1sF096U2dFacXRfS7l3vaT) | 3:27 | 2024-08-20 | 2024-09-30 |
+| [Vo Ansunii Koii Daastaan](https://open.spotify.com/track/7fGmyzNNGJvQsXFWgdr5rp) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Mahendra Dhirajlal Kamdar](https://open.spotify.com/artist/008i2UfJvuTt22XDlELKwK), [Sagnik Kolay](https://open.spotify.com/artist/0bMaAXWJgqoOyETAQp4MIc) | [Vo Ansunii Koii Daastaan](https://open.spotify.com/album/3LhDnemttxML3z5zW1tyJE) | 4:51 | 2026-09-24 |  |
 | [Vo Haseen Raat](https://open.spotify.com/track/0oww8BfxxmCAoIxK7OTPxw) | [Daboo Malik](https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1), [Sarrika Singh](https://open.spotify.com/artist/4e6Tas6HkzcBbFvL611Qq7) | [Vo Haseen Raat](https://open.spotify.com/album/3lgSHYWQ83jzYB5uOSiV5v) | 4:06 | 2024-08-19 |  |
 | [Voh Tere Mere Ishq Ka](https://open.spotify.com/track/5fVwRMlelIipvVLcZQnzYs) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA) | [Jubilee](https://open.spotify.com/album/6zNa16wfVbFzh03Duij8f9) | 5:13 | 2023-03-31 |  |
 | [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/track/6S9QMBT09F27PmBSttpQ0m) | [Rubai](https://open.spotify.com/artist/6tBTqKtxRUei3EWE8sl10r), [Gufy](https://open.spotify.com/artist/6fGoY0h9sQa81gzIw3e6Qv) | [Wajah Dhoondh Rahi Hoon](https://open.spotify.com/album/38CLfNETJOIYjRCz9ug5fe) | 3:46 | 2025-09-15 | 2026-08-18 |

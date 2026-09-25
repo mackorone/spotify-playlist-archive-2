@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל : עלמה גוב
 
-447 songs - 1 day 2 hr 13 min
+448 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [התייאשתי מהחום](https://open.spotify.com/track/7nMTSGSMOQlAmnPanQqAE5) | [Amir Lev](https://open.spotify.com/artist/405W8bax1d6ErtkwTg6siH) | [התייאשתי מהחום](https://open.spotify.com/album/1NCS0pOQ3lTl6Fmu76706f) | 3:57 | 2026-06-04 | 2026-07-10 |
 | [ואולי הסוף כבר היה](https://open.spotify.com/track/6lUclGjzAqTH0KJ74HYbxh) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB), [יענקל'ה רוטבליט](https://open.spotify.com/artist/4sN0HNOVlxGnhPqgSIkcIC), [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Itamar Ziegler](https://open.spotify.com/artist/124b64p4uSTDhwVSgxSGWV), [Gedy Ronen](https://open.spotify.com/artist/0KSJMQoxfV5nRqoCqb8535) | [החצר האחורית 3](https://open.spotify.com/album/0l8ynz9r3gU65k9JYOoXHE) | 4:00 | 2024-08-15 | 2024-10-22 |
 | [ואם תבוא אליי](https://open.spotify.com/track/0DgzXAQ3MT6fruCXfb9VcS) | [Maayan Linik](https://open.spotify.com/artist/6RzuwCbcn7Lxkg32uUcHLR) | [ואם תבוא אליי](https://open.spotify.com/album/2ngNW4lYnrIksIuNVxccKT) | 3:43 | 2024-11-28 | 2024-12-13 |
-| [וזה יבוא](https://open.spotify.com/track/3NUTypVFqmcuaB2i4xBCgY) | [Tzlil Danin](https://open.spotify.com/artist/3rzVtsul7Jt3BFcy0UhWgs) | [וזה יבוא](https://open.spotify.com/album/0cpaJVQyRCd7kNITDKrgjI) | 3:03 | 2026-09-10 |  |
+| [וזה יבוא](https://open.spotify.com/track/3NUTypVFqmcuaB2i4xBCgY) | [Tzlil Danin](https://open.spotify.com/artist/3rzVtsul7Jt3BFcy0UhWgs) | [וזה יבוא](https://open.spotify.com/album/0cpaJVQyRCd7kNITDKrgjI) | 3:03 | 2026-09-10 | 2026-09-25 |
 | [ויהי אור](https://open.spotify.com/track/3JPWeQidSXbNwyKfD97Rxk) | [Gon Ben Ari](https://open.spotify.com/artist/28ZTrx51TAHFvSdmK6NbQm), [Zulat Choir](https://open.spotify.com/artist/6me6qoZHnbljLqgsEgXmd7) | [ויהי אור](https://open.spotify.com/album/4E6a4Zsmi4mE9P6f9G1ME7) | 5:26 | 2025-03-20 | 2025-08-01 |
 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 | 2024-07-25 | 2025-02-20 |
 | [זאת השנה שלי](https://open.spotify.com/track/6CFI2Rlg4WIjuDOhd26Tcn) | [Hila Ruach](https://open.spotify.com/artist/24Rzfui4UwLMlhZcWYYk7P) | [זאת השנה שלי](https://open.spotify.com/album/0dYeKuFyewaXeFVJRiQYjf) | 3:54 | 2026-02-19 | 2026-03-20 |
@@ -380,6 +380,7 @@
 | [נייר יפני](https://open.spotify.com/track/4iiowDoPAKjjzFT1KKmGlm) | [Peter Roth](https://open.spotify.com/artist/5lLE5NXuUO1dpOIEKMwA5d) | [נייר יפני](https://open.spotify.com/album/4IYGcfhZrlk3eK1fsj1tBq) | 2:59 | 2025-07-03 | 2025-08-16 |
 | [ניצן](https://open.spotify.com/track/47OCPqYwCd6b4UNVsj64OJ) | [רעש לבן](https://open.spotify.com/artist/7KkbwP4gT3PUtWDMEkQpX4), [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [ניצן](https://open.spotify.com/album/7nSMzoR5c5WU7dPE2tTVbi) | 3:55 | 2026-07-02 |  |
 | [נכנע לך](https://open.spotify.com/track/1HHfRiRLtMmRedkKSnaneH) | [The White Screen](https://open.spotify.com/artist/1CpLH8A3xibzzmyKZ1VtH7), [Shekel](https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM) | [נכנע לך](https://open.spotify.com/album/7aR3BakZBsbkgqGpNtqp5o) | 4:25 | 2024-06-27 | 2024-07-12 |
+| [נעליים](https://open.spotify.com/track/3eDtxooWEmV8hldlr5tbH0) | [IDIOT!](https://open.spotify.com/artist/0FJGOh7nv9dgIvtrVsT9Qe) | [נעליים](https://open.spotify.com/album/5i28sfMX9INpZOT1Il1iQl) | 3:02 | 2026-09-24 |  |
 | [נצח](https://open.spotify.com/track/6YwkfiupTClKbLt3s86LBs) | [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7) | [נצח](https://open.spotify.com/album/5Ud33B5CrOUPPGqXDUArrW) | 4:20 | 2026-07-23 | 2026-08-07 |
 | [נראה לי גדול עליי](https://open.spotify.com/track/0V9HDVYyQKRBQ8mHKXRiJ8) | [עמר גשן](https://open.spotify.com/artist/0oLMEeiq8Fyv2QI35LtsKX) | [מזכרת לילדים](https://open.spotify.com/album/4I6ZdbM6E5B8OfyvWKVSag) | 3:06 | 2025-09-11 | 2025-09-19 |
 | [נרדם מתעורר](https://open.spotify.com/track/7B8v7WXQITLcJrG7UX2bND) | [Tomer Yeshayahu](https://open.spotify.com/artist/3R34esIv5e5MxzuuCMde0Q) | [נרדם מתעורר](https://open.spotify.com/album/7bSs0ogAxlXLXFoyo1O6kG) | 4:42 | 2026-01-15 | 2026-05-01 |

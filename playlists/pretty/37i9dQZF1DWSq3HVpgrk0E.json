@@ -1,6 +1,6 @@
 {
   "description": "The whole truth. Cover: Rick Ross",
-  "num_followers": 269911,
+  "num_followers": 269899,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
+        "name": "Trunks (From \"Highest 2 Lowest\")",
+        "url": "https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "duration_ms": 223566,
+      "name": "Trunks (From \"Highest 2 Lowest\")",
+      "url": "https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe"
+    },
+    {
+      "added_at": "2026-07-16 23:00:27",
+      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 173253,
       "name": "forever be mine (feat. Wizkid)",
       "url": "https://open.spotify.com/track/1m7j6RWUxeBzTOY4hcWsoj"
-    },
-    {
-      "added_at": "2026-07-16 23:00:27",
-      "album": {
-        "name": "Trunks (From \"Highest 2 Lowest\")",
-        "url": "https://open.spotify.com/album/4rxhUypkwFBtKFbxp2Lc4B"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        }
-      ],
-      "duration_ms": 223566,
-      "name": "Trunks (From \"Highest 2 Lowest\")",
-      "url": "https://open.spotify.com/track/4v2r3H6YEQIlxS4Z1njwoe"
     },
     {
       "added_at": "2026-07-16 23:00:27",
@@ -627,6 +627,42 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
+        "name": "Classy Girl",
+        "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "Classy Girl",
+      "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
+    },
+    {
+      "added_at": "2026-07-16 23:00:27",
+      "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "added_at": "2026-07-16 23:00:27",
+      "album": {
         "name": "Watch Me Now! (with NLE Choppa)",
         "url": "https://open.spotify.com/album/2WeVQRmOQpmfSRt4MlpeK4"
       },
@@ -651,42 +687,6 @@
       "duration_ms": 135000,
       "name": "Watch Me Now! (with NLE Choppa)",
       "url": "https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6"
-    },
-    {
-      "added_at": "2026-07-16 23:00:27",
-      "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
-    },
-    {
-      "added_at": "2026-07-16 23:00:27",
-      "album": {
-        "name": "Classy Girl",
-        "url": "https://open.spotify.com/album/3zdBXSO8dEkYG5aVPfpOdk"
-      },
-      "artists": [
-        {
-          "name": "Turbo",
-          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "Classy Girl",
-      "url": "https://open.spotify.com/track/5MQw4sDFeFub72PLbRvsZv"
     },
     {
       "added_at": "2026-07-16 23:00:27",
@@ -919,22 +919,18 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
-        "name": "Big Mama",
-        "url": "https://open.spotify.com/album/517YiqpjVOJnbd3Znp6awe"
+        "name": "The Leaks",
+        "url": "https://open.spotify.com/album/7ap5djMVnUTtZR9ffjamg1"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 191786,
-      "name": "Hostage (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
+      "duration_ms": 187678,
+      "name": "What She Like",
+      "url": "https://open.spotify.com/track/3h5PyVDtNLCcSrDiYiJm8S"
     }
   ],
   "unique_name": "No Cap (2)",

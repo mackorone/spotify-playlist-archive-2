@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: The Church",
+  "description": "New and local indie noise. Cover: EGOISM",
   "name": "Local Noise",
   "tracks": [
     {
@@ -1745,6 +1745,24 @@
     },
     {
       "album": {
+        "name": "Big Mouth",
+        "url": "https://open.spotify.com/album/6GKHfEsC8Qv4v7dm78YRP8"
+      },
+      "artists": [
+        {
+          "name": "Maple's Pet Dinosaur",
+          "url": "https://open.spotify.com/artist/2WwEC6EqMABtVgisqot2Je"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "Big Mouth",
+      "url": "https://open.spotify.com/track/2OB8PVvmPDzJ5sFAvMR3Y6"
+    },
+    {
+      "album": {
         "name": "BIG NOTER (feat. Joe Talbot)",
         "url": "https://open.spotify.com/album/0tFREqnNgiKUT5gINUiEi4"
       },
@@ -2246,7 +2264,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 153901,
       "name": "Bonny",
       "url": "https://open.spotify.com/track/7I2KJqvAvV909vi7w2LFOM"
@@ -4511,6 +4529,24 @@
     },
     {
       "album": {
+        "name": "Digital Waltz",
+        "url": "https://open.spotify.com/album/0JRHXtyXfIhpL5nPupm6i6"
+      },
+      "artists": [
+        {
+          "name": "ROX LAVI",
+          "url": "https://open.spotify.com/artist/4VA9QmsuAL3yxm5K5OCizT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190842,
+      "name": "Digital Waltz",
+      "url": "https://open.spotify.com/track/7AuM4uDt2lG4BrSsRpQWyo"
+    },
+    {
+      "album": {
         "name": "Dimly Lit Cadaver",
         "url": "https://open.spotify.com/album/5ovPkTKWiM6yHYrkxtAt9T"
       },
@@ -5405,6 +5441,24 @@
     },
     {
       "album": {
+        "name": "Endless Summer",
+        "url": "https://open.spotify.com/album/1mRLZxICuCm7o50SsIKFUH"
+      },
+      "artists": [
+        {
+          "name": "Full Flower Moon Band",
+          "url": "https://open.spotify.com/artist/29YPQKsmJN2L0YVz7HaOi4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175027,
+      "name": "Endless Summer",
+      "url": "https://open.spotify.com/track/6OhZELWnssE7ImZHfTXLLL"
+    },
+    {
+      "album": {
         "name": "Megaflower",
         "url": "https://open.spotify.com/album/0GGAEbz8vBA07FDL3LAMt3"
       },
@@ -5614,7 +5668,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 206924,
       "name": "Eye Is A Mouth Is A Face",
       "url": "https://open.spotify.com/track/5X1rVEIOvQw91icO018CgV"
@@ -8969,6 +9023,24 @@
     },
     {
       "album": {
+        "name": "internet luv",
+        "url": "https://open.spotify.com/album/6CwBySwX5fzz5ThnuNNTLK"
+      },
+      "artists": [
+        {
+          "name": "ixaras",
+          "url": "https://open.spotify.com/artist/7pEbXPH6n4tq1E5uMon4PJ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172889,
+      "name": "internet luv",
+      "url": "https://open.spotify.com/track/2zWbkYVKhhrv0qT74Ct4y6"
+    },
+    {
+      "album": {
         "name": "Into The Sun",
         "url": "https://open.spotify.com/album/6OElbL5ap50DU21ARoo1zJ"
       },
@@ -9128,6 +9200,24 @@
       "duration_ms": 173829,
       "name": "It Takes Courage To Be Soft",
       "url": "https://open.spotify.com/track/3UsuEAV0x0fJ1kxjtKqFSj"
+    },
+    {
+      "album": {
+        "name": "It Takes Two",
+        "url": "https://open.spotify.com/album/12Av9iw2xQGA4HPtPQXH6m"
+      },
+      "artists": [
+        {
+          "name": "EGOISM",
+          "url": "https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223899,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/6L951VdYHOg9WsI9PJkuET"
     },
     {
       "album": {
@@ -10054,7 +10144,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178666,
       "name": "life",
       "url": "https://open.spotify.com/track/6ozYUMhIxt34AqHVqamnwH"
@@ -10544,7 +10634,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 188336,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/7ooMncS9qdQYXqx8RcAnKG"
@@ -11257,6 +11347,24 @@
     },
     {
       "album": {
+        "name": "Dogtooth",
+        "url": "https://open.spotify.com/album/5R3iBsZxwSa22lrjxHcNLQ"
+      },
+      "artists": [
+        {
+          "name": "Sweetie",
+          "url": "https://open.spotify.com/artist/2oE9iKDAQnylK5wWR5Ldcs"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184201,
+      "name": "Modern Myth",
+      "url": "https://open.spotify.com/track/4pkRXlggHLicBWpHewrzO9"
+    },
+    {
+      "album": {
         "name": "MOLLY",
         "url": "https://open.spotify.com/album/5jgFHPjLCPkFcpZ4T9Gvb6"
       },
@@ -11938,6 +12046,24 @@
       "duration_ms": 223266,
       "name": "NEW WORLD",
       "url": "https://open.spotify.com/track/2z4h97jzhrbUuDmGuVGTpn"
+    },
+    {
+      "album": {
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "album": {
@@ -13306,7 +13432,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160000,
       "name": "pick me up",
       "url": "https://open.spotify.com/track/5YTfMu0Gqmc9TkQSBTMkJC"
@@ -15266,7 +15392,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 192800,
       "name": "She Said",
       "url": "https://open.spotify.com/track/06PRf6iTAf4dmdyyFz3wmR"
@@ -15500,7 +15626,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 203250,
       "name": "Sick",
       "url": "https://open.spotify.com/track/130iBycjciSRwPJiqZUhyH"
@@ -17807,6 +17933,24 @@
     },
     {
       "album": {
+        "name": "THATS GOTTA HURT",
+        "url": "https://open.spotify.com/album/0dOznclNonzyqrsVOGKAy3"
+      },
+      "artists": [
+        {
+          "name": "CHEAP-SKATE",
+          "url": "https://open.spotify.com/artist/3c3StjVdJb72LvLknQfbEC"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134322,
+      "name": "THATS GOTTA HURT",
+      "url": "https://open.spotify.com/track/0J8YIzksSRv5c7GyAxPN1L"
+    },
+    {
+      "album": {
         "name": "thaw",
         "url": "https://open.spotify.com/album/0JkqKOX4QvKH649IMNoIdN"
       },
@@ -19376,7 +19520,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 220720,
       "name": "Vultures",
       "url": "https://open.spotify.com/track/0IBIdjCRwtmZfjCf0p0gZp"

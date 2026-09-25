@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Davy Waweru
+> Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover:Iken
 
-377 songs - 21 hr 15 min
+378 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Failing Together](https://open.spotify.com/track/73zD4vLARiNHzTB7EHqptA) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN), [Zowie Kengocha](https://open.spotify.com/artist/2lwHCnbymJQL6WUDaEKdci) | [Mombasa's Lover Boy](https://open.spotify.com/album/3dCGhikw2kksr8OMi9HPft) | 2:40 | 2024-04-25 | 2025-03-28 |
 | [Fake Love](https://open.spotify.com/track/3JPySkGDAyEFsotlFk0InK) | [Mūmbi](https://open.spotify.com/artist/0rFgn9BBsW8nHbsp3A4kDF) | [Fake Love](https://open.spotify.com/album/1jlhBAcbQVHp58jNfS5Ym7) | 3:41 | 2026-07-15 | 2026-07-31 |
 | [Fall](https://open.spotify.com/track/3F9tYNM8ssz7cCVDqDkSZz) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Fall](https://open.spotify.com/album/2WxjpVtftn4jmB8mcDBJpK) | 5:43 | 2024-09-26 | 2025-05-09 |
+| [Fall In](https://open.spotify.com/track/4voeCuGgqvlSv4mvRlPpDB) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Fall In](https://open.spotify.com/album/55IDSibnkNjaA1rm7dAA5w) | 3:44 | 2026-09-24 |  |
 | [Fantasy](https://open.spotify.com/track/398tdFtkVxkekbMCU0kMti) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6) | [MY WAY:VOLUME II](https://open.spotify.com/album/2UX55Fw5fkscU7xWo5wvvK) | 2:30 | 2022-05-26 | 2022-07-01 |
 | [Far](https://open.spotify.com/track/6xAWN1hyeU6rugPzEDp7dp) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kayrop](https://open.spotify.com/artist/73eai6o8NM4Sf0jnJiRwr2), [YAH LISTEN](https://open.spotify.com/artist/5kJUEvvfF81JeUZIVj0fTc) | [Far](https://open.spotify.com/album/2YS1JKm6Go4LOLQgcMdG13) | 3:22 | 2026-02-20 |  |
 | [Favorite](https://open.spotify.com/track/4Aw9OJJDJFCbVlVBAb0EdM) | [IkeN](https://open.spotify.com/artist/7CaVQkC4udPIDQmSUrr4t0) | [Favorite](https://open.spotify.com/album/7LcNdnjDCwb9SLjDxi2FPP) | 4:19 | 2026-04-02 |  |
@@ -157,7 +158,7 @@
 | [Jioni](https://open.spotify.com/track/5QSs2eM32gab8J9yjp2O8w) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm), [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Jioni](https://open.spotify.com/album/2KLjotalInooY3FMPxYnFD) | 3:54 | 2023-10-12 | 2025-01-31 |
 | [June 10th](https://open.spotify.com/track/35U4EeFkCLtMa1X2fYQeOa) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [June 10th](https://open.spotify.com/album/4m2ponq6PJcf9EbDefBuSi) | 5:11 | 2025-06-13 | 2026-07-10 |
 | [Kama Wee](https://open.spotify.com/track/78wPzvhmbDQfFce0lmntj7) | [Waithaka](https://open.spotify.com/artist/5Ro7QwcAlsSBGQuv5FWTs4), [Miss Kuria](https://open.spotify.com/artist/1S6ZwQApF4OfFpelqSepUi) | [Odes by Queens](https://open.spotify.com/album/3eTbgi6s1WKIjSfDq5TJPh) | 3:35 | 2021-12-28 | 2023-04-07 |
-| [Karibia Kidogo](https://open.spotify.com/track/5r2cQj9547u1uMKFhxy1Vq) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Karibia Kidogo](https://open.spotify.com/album/4ay6uxE2sjyGoYs6xE1MAX) | 3:17 | 2025-07-03 |  |
+| [Karibia Kidogo](https://open.spotify.com/track/5r2cQj9547u1uMKFhxy1Vq) | [Muthoka](https://open.spotify.com/artist/5BSYJH7QrL8yLmFPzJedBp) | [Karibia Kidogo](https://open.spotify.com/album/4ay6uxE2sjyGoYs6xE1MAX) | 3:17 | 2025-07-03 | 2026-09-25 |
 | [Kesho](https://open.spotify.com/track/3DnDhuYVRRGWTT9rYvCKNW) | [Bridget Blue](https://open.spotify.com/artist/5EbxOKB0wn1EdeBvwK7kxw) | [Kesho](https://open.spotify.com/album/5Fpjo8qf72pfBNEy80XpNK) | 2:37 | 2023-05-26 | 2025-04-26 |
 | [Kesho Kutwa](https://open.spotify.com/track/2dBLmn1DGGxKwmCnLICUxz) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Ethanal Fire](https://open.spotify.com/album/3F3ebk0jko0faxvASqBo91) | 4:12 | 2025-02-13 | 2025-02-21 |
 | [Kesho Kutwa](https://open.spotify.com/track/2imfnSWBgaAccQZvUISwly) | [Kethan](https://open.spotify.com/artist/5xpwtUlXeMP8sywThx4tMh) | [Kesho Kutwa](https://open.spotify.com/album/0XnAxxYCazLOOpkV9GRrTt) | 4:12 | 2021-12-28 | 2026-03-27 |

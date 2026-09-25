@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,599 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,611 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 53 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
 | 54 | [Big Boy Tracks](https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh) | [Ahadadream](https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW), [Champion](https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR), [Logan\_olm](https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0) | [Big Boy Tracks](https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK) | 3:41 |
 | 55 | [Ghost Orchid](https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 4:08 |
-| 56 | [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 |
-| 57 | [Without You](https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Without You](https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8) | 3:55 |
+| 56 | [Without You](https://open.spotify.com/track/7Ksw8nf3U4g8rcJOoFkxaT) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [ASHWARYA](https://open.spotify.com/artist/4meOm0fRIyy8gmJ9QVpGpk) | [Without You](https://open.spotify.com/album/5PlzsOCOn76AF8NnmjScU8) | 3:55 |
+| 57 | [oknottobeok](https://open.spotify.com/track/7owtcHApLWsEOzMHnqtmDp) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [oknottobeok](https://open.spotify.com/album/6VxW8HoG07L55CSUj5Zl0P) | 3:24 |
 | 58 | [Speed Dating](https://open.spotify.com/track/5j2sGJpwHBdSOiTBFG9cX0) | [DJ Sugarush](https://open.spotify.com/artist/4RKrqMYX0HJQh03lplAUkX), [Jai Piccone](https://open.spotify.com/artist/3sy4sx9aebyM2AUIJxJICC), [Hotel Rubio](https://open.spotify.com/artist/56VvsBH2eb84Qf4e4MDBX7) | [Speed Dating](https://open.spotify.com/album/4BuCifUv2tHplBzCGMWGZ1) | 2:47 |
 | 59 | [Dragon](https://open.spotify.com/track/3pPhDKcpdD0WpVNXHkEj4k) | [Indira Paganotto](https://open.spotify.com/artist/0JXc5G7ZImFTwPg3y8MTfR), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Dragon](https://open.spotify.com/album/2QpfFwlOS8R2Ovz1vRFDb3) | 3:01 |
 | 60 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |

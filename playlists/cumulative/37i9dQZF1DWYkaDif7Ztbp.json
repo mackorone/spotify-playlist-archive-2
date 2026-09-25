@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The tracks heating up the continent right now!  Cover: Seyi Vibez",
+  "description": "The tracks heating up the continent right now!  Cover: Young Jonn",
   "name": "African Heat",
   "tracks": [
     {
@@ -5654,7 +5654,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 243755,
       "name": "Gimme Dat Ting (with NO11)",
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
@@ -5720,6 +5720,24 @@
       "duration_ms": 226377,
       "name": "Give Me Love",
       "url": "https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA"
+    },
+    {
+      "album": {
+        "name": "Dear London",
+        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Glass in the Air",
+      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
     },
     {
       "album": {
@@ -6832,6 +6850,32 @@
       "duration_ms": 285239,
       "name": "Isaka II (6am) [with Tems, Omah Lay, Thukuthela, JAZZWRLD, Lekaa Beats]",
       "url": "https://open.spotify.com/track/4lz4aKs60vUoyZP4pNy3aD"
+    },
+    {
+      "album": {
+        "name": "it's over",
+        "url": "https://open.spotify.com/album/2uLEoMtUERv9U0ob9PzIKX"
+      },
+      "artists": [
+        {
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190972,
+      "name": "it's over",
+      "url": "https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF"
     },
     {
       "album": {
@@ -10514,6 +10558,24 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "album": {
+        "name": "Online",
+        "url": "https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/5ljTDsyyDKI2xbJOqwOdVU"
     },
     {
       "album": {

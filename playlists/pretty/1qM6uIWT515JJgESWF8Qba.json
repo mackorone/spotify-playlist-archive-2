@@ -1,12 +1,12 @@
 {
   "description": "It&#x27;s 5 o&#x27;clock somewhere and best believe there&#x27;s a local band there ready to rock when the sun goes down.",
-  "num_followers": 568,
+  "num_followers": 569,
   "original_name": "Local Rock Bands",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAACLM/QttlOnwP3vhTGsvp+BtfTYtm0",
+  "snapshot_id": "AAACPJX+kQHAvyGhu3XJ5tRoYkopJFBW",
   "tracks": [
     {
       "added_at": "2025-09-16 13:19:37",
@@ -57,20 +57,20 @@
       "url": "https://open.spotify.com/track/67LncR8bh1wre4GVkjq8M1"
     },
     {
-      "added_at": "2025-12-05 14:12:08",
+      "added_at": "2026-08-26 00:14:58",
       "album": {
-        "name": "Queen of the Night",
-        "url": "https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN"
+        "name": "Eloise",
+        "url": "https://open.spotify.com/album/40vDrrYPKoNHVbqNzjPyvT"
       },
       "artists": [
         {
-          "name": "Dangerous Times for the Dead",
-          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+          "name": "Amber Elara",
+          "url": "https://open.spotify.com/artist/7bu9U2hCgdooaao3ukguFW"
         }
       ],
-      "duration_ms": 228682,
-      "name": "Queen of the Night",
-      "url": "https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy"
+      "duration_ms": 225733,
+      "name": "Eloise",
+      "url": "https://open.spotify.com/track/084dZY5tSg1EZcMmdQWKeK"
     },
     {
       "added_at": "2025-09-12 15:11:46",
@@ -87,6 +87,22 @@
       "duration_ms": 154376,
       "name": "Just A Good Time 80s Jam",
       "url": "https://open.spotify.com/track/3Ytv0HiQSQKrPg0JL1ql22"
+    },
+    {
+      "added_at": "2025-12-05 14:12:08",
+      "album": {
+        "name": "Queen of the Night",
+        "url": "https://open.spotify.com/album/39Ylph8Xuxw4hhsFJrqZsN"
+      },
+      "artists": [
+        {
+          "name": "Dangerous Times for the Dead",
+          "url": "https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD"
+        }
+      ],
+      "duration_ms": 228682,
+      "name": "Queen of the Night",
+      "url": "https://open.spotify.com/track/37RD77SoU2sKEZh2NdJDyy"
     },
     {
       "added_at": "2025-10-02 22:03:25",
@@ -173,6 +189,22 @@
       "url": "https://open.spotify.com/track/6UJ7Tx50w0VwQc8GFM1Ghw"
     },
     {
+      "added_at": "2025-11-26 03:08:51",
+      "album": {
+        "name": "Bring Your Love",
+        "url": "https://open.spotify.com/album/4qe45XUNWmGqzffApM2cZx"
+      },
+      "artists": [
+        {
+          "name": "Tin Zelkova",
+          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
+        }
+      ],
+      "duration_ms": 144395,
+      "name": "Bring Your Love",
+      "url": "https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB"
+    },
+    {
       "added_at": "2025-11-04 01:58:44",
       "album": {
         "name": "Borderline",
@@ -205,54 +237,6 @@
       "url": "https://open.spotify.com/track/6P7QFrSStHdpMGfgQKaYWV"
     },
     {
-      "added_at": "2025-09-08 22:07:23",
-      "album": {
-        "name": "Cold as Ice",
-        "url": "https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM"
-      },
-      "artists": [
-        {
-          "name": "Tommy Schenker",
-          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
-        }
-      ],
-      "duration_ms": 187955,
-      "name": "Cold as Ice",
-      "url": "https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2"
-    },
-    {
-      "added_at": "2025-11-26 03:08:51",
-      "album": {
-        "name": "Bring Your Love",
-        "url": "https://open.spotify.com/album/4qe45XUNWmGqzffApM2cZx"
-      },
-      "artists": [
-        {
-          "name": "Tin Zelkova",
-          "url": "https://open.spotify.com/artist/1uft4s6QGconk4zwMNBBhu"
-        }
-      ],
-      "duration_ms": 144395,
-      "name": "Bring Your Love",
-      "url": "https://open.spotify.com/track/05PP999Sbm9nVpjINfBNDB"
-    },
-    {
-      "added_at": "2026-01-17 02:45:36",
-      "album": {
-        "name": "Camgirl",
-        "url": "https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heavens",
-          "url": "https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e"
-        }
-      ],
-      "duration_ms": 248106,
-      "name": "Camgirl",
-      "url": "https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s"
-    },
-    {
       "added_at": "2025-12-06 14:33:25",
       "album": {
         "name": "Take Me to the Top",
@@ -269,6 +253,22 @@
       "url": "https://open.spotify.com/track/3iikl4YLJHy3JyegB6FzAE"
     },
     {
+      "added_at": "2025-09-08 22:07:23",
+      "album": {
+        "name": "Cold as Ice",
+        "url": "https://open.spotify.com/album/7hvHWsVjrzs8J4tPLBNXKM"
+      },
+      "artists": [
+        {
+          "name": "Tommy Schenker",
+          "url": "https://open.spotify.com/artist/6xKu6qqRUAd7RJHarRoIyC"
+        }
+      ],
+      "duration_ms": 187955,
+      "name": "Cold as Ice",
+      "url": "https://open.spotify.com/track/6ShKK6F4fSoYitc5FCgsG2"
+    },
+    {
       "added_at": "2025-12-29 16:07:15",
       "album": {
         "name": "Dayglo / Shadow Artist",
@@ -283,6 +283,22 @@
       "duration_ms": 243560,
       "name": "Shadow Artist",
       "url": "https://open.spotify.com/track/6wHFJkSrpW7MRoLx4Wgmvn"
+    },
+    {
+      "added_at": "2026-03-14 01:48:59",
+      "album": {
+        "name": "Yo soy un privilegio",
+        "url": "https://open.spotify.com/album/6mA13Q0gqKBeCUi5k6G9Yu"
+      },
+      "artists": [
+        {
+          "name": "NaDesh",
+          "url": "https://open.spotify.com/artist/4Wg1j1wuePfTj1kN2GMXiJ"
+        }
+      ],
+      "duration_ms": 165216,
+      "name": "Yo soy un privilegio",
+      "url": "https://open.spotify.com/track/3BRcsbhVShH0Hv9OoaMJZV"
     },
     {
       "added_at": "2026-01-01 15:45:24",
@@ -349,20 +365,20 @@
       "url": "https://open.spotify.com/track/09mk5QF4r0WEzVdk2cIXE2"
     },
     {
-      "added_at": "2026-03-14 01:48:59",
+      "added_at": "2026-01-17 02:45:36",
       "album": {
-        "name": "Yo soy un privilegio",
-        "url": "https://open.spotify.com/album/6mA13Q0gqKBeCUi5k6G9Yu"
+        "name": "Camgirl",
+        "url": "https://open.spotify.com/album/2AMBpnaYyvfBN9XRFNeZkt"
       },
       "artists": [
         {
-          "name": "NaDesh",
-          "url": "https://open.spotify.com/artist/4Wg1j1wuePfTj1kN2GMXiJ"
+          "name": "Dirty Heavens",
+          "url": "https://open.spotify.com/artist/7oVjzuQ1XlgK3y5qCsEm3e"
         }
       ],
-      "duration_ms": 165216,
-      "name": "Yo soy un privilegio",
-      "url": "https://open.spotify.com/track/3BRcsbhVShH0Hv9OoaMJZV"
+      "duration_ms": 248106,
+      "name": "Camgirl",
+      "url": "https://open.spotify.com/track/5YXhWJnu9N8MWknVCROT4s"
     },
     {
       "added_at": "2026-03-14 02:25:40",
@@ -797,22 +813,6 @@
       "url": "https://open.spotify.com/track/42ewg8Q9PpXjFAdb38OGUf"
     },
     {
-      "added_at": "2026-07-22 16:23:56",
-      "album": {
-        "name": "Letter from a Soldier",
-        "url": "https://open.spotify.com/album/1vhVHMdQJPDW8amt8C9aPk"
-      },
-      "artists": [
-        {
-          "name": "Baby and the Beats",
-          "url": "https://open.spotify.com/artist/6lOkM52lTEtUVl4qgEHJ7Z"
-        }
-      ],
-      "duration_ms": 321368,
-      "name": "Letter from a Soldier",
-      "url": "https://open.spotify.com/track/2yehxUK2zwMZuVLT61GYKS"
-    },
-    {
       "added_at": "2026-07-29 14:26:43",
       "album": {
         "name": "BALLET BILLY",
@@ -843,22 +843,6 @@
       "duration_ms": 176098,
       "name": "X88B88",
       "url": "https://open.spotify.com/track/3Z0Q4Bvun8AtZnezG0ipZF"
-    },
-    {
-      "added_at": "2026-08-17 02:06:01",
-      "album": {
-        "name": "Devour",
-        "url": "https://open.spotify.com/album/2J5eRRGeElqmQ99CiMrsnM"
-      },
-      "artists": [
-        {
-          "name": "Bruvvy",
-          "url": "https://open.spotify.com/artist/5VvBn4J8cVrk4A0YXLeUVf"
-        }
-      ],
-      "duration_ms": 163592,
-      "name": "Devour",
-      "url": "https://open.spotify.com/track/4a19eWa4PpD3yyzguRk3hO"
     },
     {
       "added_at": "2026-08-19 18:08:02",
@@ -923,70 +907,6 @@
       "duration_ms": 155564,
       "name": "Record Queen",
       "url": "https://open.spotify.com/track/44CQduAvXGeiQ74n9hMmIk"
-    },
-    {
-      "added_at": "2026-08-22 15:17:52",
-      "album": {
-        "name": "Se Acabaron Las Versiones",
-        "url": "https://open.spotify.com/album/0CRkFJi4GKM0Lv8ehJYb25"
-      },
-      "artists": [
-        {
-          "name": "Tacrolimus",
-          "url": "https://open.spotify.com/artist/7mTm2TIV3hTqKshbp7PDwT"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Revoluci\u00f3n Silenciosa",
-      "url": "https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD"
-    },
-    {
-      "added_at": "2026-08-26 00:11:07",
-      "album": {
-        "name": "knocked -down/-out",
-        "url": "https://open.spotify.com/album/1e1LTHlMdwv0v8figkkxR5"
-      },
-      "artists": [
-        {
-          "name": "KXENIA",
-          "url": "https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL"
-        }
-      ],
-      "duration_ms": 256642,
-      "name": "knocked -down/-out",
-      "url": "https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC"
-    },
-    {
-      "added_at": "2026-08-26 00:14:58",
-      "album": {
-        "name": "Eloise",
-        "url": "https://open.spotify.com/album/40vDrrYPKoNHVbqNzjPyvT"
-      },
-      "artists": [
-        {
-          "name": "Amber Elara",
-          "url": "https://open.spotify.com/artist/7bu9U2hCgdooaao3ukguFW"
-        }
-      ],
-      "duration_ms": 225733,
-      "name": "Eloise",
-      "url": "https://open.spotify.com/track/084dZY5tSg1EZcMmdQWKeK"
-    },
-    {
-      "added_at": "2026-08-26 01:27:34",
-      "album": {
-        "name": "Left Hand Down",
-        "url": "https://open.spotify.com/album/3mMT8G0EGa8mWpKv86snTE"
-      },
-      "artists": [
-        {
-          "name": "Blind Apes",
-          "url": "https://open.spotify.com/artist/3v5zCvN6258XxR9XeBwlvi"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "Bar Flies",
-      "url": "https://open.spotify.com/track/7BnfRSLTfFgOgvXD7ibXeZ"
     },
     {
       "added_at": "2026-08-27 23:30:14",
@@ -1243,6 +1163,22 @@
       "duration_ms": 233846,
       "name": "When the City Had Lights",
       "url": "https://open.spotify.com/track/5TkLUpNSTx2sFiO5ynwq2O"
+    },
+    {
+      "added_at": "2026-09-24 21:29:33",
+      "album": {
+        "name": "Mean Dog",
+        "url": "https://open.spotify.com/album/1l0iuJVPFyOhmYVJD5B2a8"
+      },
+      "artists": [
+        {
+          "name": "Sturgeon",
+          "url": "https://open.spotify.com/artist/1q6x5uIGlVUeF1vZoyQDRF"
+        }
+      ],
+      "duration_ms": 184062,
+      "name": "Mean Dog",
+      "url": "https://open.spotify.com/track/3d8u5YQo5PQwt0cnZn2LfC"
     }
   ],
   "unique_name": "Local Rock Bands",

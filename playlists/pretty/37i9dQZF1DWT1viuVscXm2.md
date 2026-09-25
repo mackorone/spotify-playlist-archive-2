@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > y de la buena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,482,743 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,482,787 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 |
 | 2 | [Porque Aún Te Amo \- Versión Cumbia](https://open.spotify.com/track/2euFc4LCzhuCzDqtnuFndy) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Porque Aún Te Amo \- Versión Cumbia](https://open.spotify.com/album/0wVVJ3OawXMrXiKJq0vDos) | 2:26 |
 | 3 | [Hoy](https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Hoy](https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn) | 3:18 |
-| 4 | [Mi Eterno Rencor](https://open.spotify.com/track/3Llp96sHplgFKMJkAWPxpU) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Mi Eterno Rencor](https://open.spotify.com/album/0CVPHpC8xuslIkbI7L1Hke) | 2:58 |
+| 4 | [Mi Eterno Rencor](https://open.spotify.com/track/3Llp96sHplgFKMJkAWPxpU) | [Angela](https://open.spotify.com/artist/4pVwuoiEckq2nBqEjGQhla), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Mi Eterno Rencor](https://open.spotify.com/album/0CVPHpC8xuslIkbI7L1Hke) | 2:58 |
 | 5 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 |
 | 6 | [Sin Documentos](https://open.spotify.com/track/5dyDT1EuYiwpdgwhB3tisj) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2), [Francisco Charco](https://open.spotify.com/artist/5ijGwdfVkIvawofd3jGp2b) | [Sin Documentos](https://open.spotify.com/album/09FaIbUcn2vpHsW9raPihl) | 3:03 |
 | 7 | [Enséñame A Vivir Sin Ti \- Versión Cumbia](https://open.spotify.com/track/5DcBRsE0xuZanweUd6KKFT) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Ahora Las Bailamos](https://open.spotify.com/album/6xL8EC59Tm7su6NXy7s4Bs) | 2:50 |

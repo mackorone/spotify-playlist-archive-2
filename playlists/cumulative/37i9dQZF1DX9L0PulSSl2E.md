@@ -4,7 +4,7 @@
 
 > Sit back, thand rakho te Chill Karlo with Parmish Verma
 
-102 songs - 4 hr 49 min
+103 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [I'm In Love With You](https://open.spotify.com/track/22NZwwuMtqjigWwjudklIa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Shivi](https://open.spotify.com/artist/7CoZkWIMHrAfVllUrTNRvE) | [51 GLORIOUS DAYS](https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW) | 3:20 | 2025-10-17 | 2025-11-12 |
 | [Into You](https://open.spotify.com/track/455OjhLhU9JCNYKKoUOFwr) | [Tegi Pannu](https://open.spotify.com/artist/78sIlhMniFgXlOrNWnPtIl), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Into You](https://open.spotify.com/album/64vhuaHJxjSZrOwMUqGJ85) | 2:54 | 2025-10-17 |  |
 | [Ishq](https://open.spotify.com/track/3ps4IwLgRYDcqxbH2KjBk1) | [NDS](https://open.spotify.com/artist/5xh6szshoZ0UfZD1x6QzZG), [Arsh Heer](https://open.spotify.com/artist/0IMB9ZqS18okmvGMGYzl45) | [Ishq](https://open.spotify.com/album/1uqcoGMKtezQLVCWFUn2aG) | 2:00 | 2026-02-20 | 2026-03-27 |
-| [It's Me](https://open.spotify.com/track/03rnbVMhzvcpTBYi1X2HFb) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Bugzy](https://open.spotify.com/artist/6YNHmTLaBKTLszcuUsaXCz) | [VELORA](https://open.spotify.com/album/2plRiyaMQOlEgUqXV89jbT) | 3:01 | 2026-03-25 |  |
+| [It's Me](https://open.spotify.com/track/03rnbVMhzvcpTBYi1X2HFb) | [Deep Chahal](https://open.spotify.com/artist/4Uf7FQlaAnd8APkdudp2cc), [Bugzy](https://open.spotify.com/artist/6YNHmTLaBKTLszcuUsaXCz) | [VELORA](https://open.spotify.com/album/2plRiyaMQOlEgUqXV89jbT) | 3:01 | 2026-03-25 | 2026-09-25 |
 | [Jatt Mehkma](https://open.spotify.com/track/61R3DMR4U2n25qgX9ryciJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:15 | 2025-10-17 | 2026-06-25 |
 | [Jawani](https://open.spotify.com/track/4zbWvyne1wLrmXdbuvTHgs) | [SABBA](https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV) | [Jawani](https://open.spotify.com/album/5klRDh8JxQOcXcc7Rxzjw5) | 3:26 | 2026-03-10 | 2026-03-26 |
 | [Jerry Season](https://open.spotify.com/track/4I7MRh6yRt4pkwq3fDBuYg) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu) | [Jerry Season](https://open.spotify.com/album/5RhrzFnVnngdXcxLTjulKw) | 2:44 | 2026-07-10 |  |
@@ -89,6 +89,7 @@
 | [Sirra](https://open.spotify.com/track/3QsGq1Xd1n8qc9hwSPzQgj) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Kiran Bajwa](https://open.spotify.com/artist/3qmx2CGviBi21h58nDMJcs), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [WITHOUT PREJUDICE](https://open.spotify.com/album/1wspMsQ2eMXqo5gs6vEHzi) | 2:26 | 2025-10-17 | 2026-03-26 |
 | [Sleepless](https://open.spotify.com/track/1RHd5TlU3JZRnmU7vCIu2l) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [prodssd](https://open.spotify.com/artist/6ht8GFA7fw7HsrExgzBqFS) | [From The Vault](https://open.spotify.com/album/5vQqYDEX8meQm9UJoFAC2b) | 2:24 | 2025-11-11 | 2025-11-25 |
 | [SO SHY](https://open.spotify.com/track/04gAznL5X1bQ2E24e2osov) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [SO SHY](https://open.spotify.com/album/4L4hREzzC9akWCTAS2Lx0r) | 2:19 | 2026-03-13 |  |
+| [Stallion](https://open.spotify.com/track/5xmrifwbGGkeWnHVEmZteU) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Stallion](https://open.spotify.com/album/2IH6He1Iy61a6zENoRxEO9) | 1:53 | 2026-09-24 |  |
 | [Sun Jattiye](https://open.spotify.com/track/46rVOty2daqfk47eU5kwtw) | [Amantej Hundal](https://open.spotify.com/artist/28kGdf2ant8i73Fab2F7xq), [Gill Saab Music](https://open.spotify.com/artist/0EEmpZWPcOa1i1XYG2zkdQ) | [PB 2 SIX](https://open.spotify.com/album/2FghTjH8wG4oBep4DWGU0F) | 3:04 | 2025-11-11 | 2025-11-26 |
 | [Sweet Addiction](https://open.spotify.com/track/4ZwxNeSBpGMWx28Ca4eywg) | [Merza](https://open.spotify.com/artist/1pbDpKcGxY1oLZXhHGzk4U), [MONEYONYOURMIND](https://open.spotify.com/artist/3gBwkU2pj8aTfu4UnLlWNo), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Sweet Addiction](https://open.spotify.com/album/2w4PqDusBs7pWJ4t3GFY0k) | 2:28 | 2026-02-27 | 2026-04-11 |
 | [Symmetry \(feat\. Karan Aujla\) \- Remix](https://open.spotify.com/track/6Pd2kxiyTsbKdEAI1ghXg6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Play \(The Remixes\)](https://open.spotify.com/album/3SVt9F02xRJpTHkiPR72rm) | 3:08 | 2025-10-17 | 2025-11-22 |

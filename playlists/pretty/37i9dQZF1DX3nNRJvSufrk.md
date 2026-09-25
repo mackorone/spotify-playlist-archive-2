@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 
 > Can you keep up? Get moving to the rapid rhythms of Footwork & Juke, originating in 1990s Chicago\. Cover: DJ Manny
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,446 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,450 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3nNRJvSufrk.md) - [plain]
 | 22 | [+3 \(feat\. DJ Rashad, DJ Paypal & Nasty Nigel\)](https://open.spotify.com/track/7LjIWJdk5Z70ZoclGOSOat) | [Nick Hook](https://open.spotify.com/artist/4ICbI408d4uYagVEL3xf7S), [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Paypal](https://open.spotify.com/artist/4hH4fEXPg3qpTDlmdNOO01), [Nasty Nigel](https://open.spotify.com/artist/42W0OUrWwVQXuHfKan5R49) | [Relationships](https://open.spotify.com/album/0x1yjRNnoer1e1H3bJOUiI) | 3:32 |
 | 23 | [Elevate](https://open.spotify.com/track/11n4LmYCiLsXPfAO6t5Srd) | [Druguse](https://open.spotify.com/artist/7cacQtmSGJSf7HtEslj0xW) | [Hood Rich Life](https://open.spotify.com/album/2U51TV6gM2Sm3mknG4Bf1P) | 3:28 |
 | 24 | [Tango](https://open.spotify.com/track/7DXBzXF73JbzvQTyygWIpw) | [Traxman](https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh) | [Tango](https://open.spotify.com/album/0zx0BWbByt2zQsH4Mcdu7v) | 3:59 |
-| 25 | [147](https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [VIP VAULTS](https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz) | 4:31 |
-| 26 | [She a Go](https://open.spotify.com/track/3RWDJd7eh6Scfoz94sJbsX) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Spinn](https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:37 |
+| 25 | [She a Go](https://open.spotify.com/track/3RWDJd7eh6Scfoz94sJbsX) | [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [Spinn](https://open.spotify.com/artist/5gmgJUPTu5ApaV6Swjfb20), [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC) | [Double Cup](https://open.spotify.com/album/4J7qkorMbPmJQy79SntDA8) | 3:37 |
+| 26 | [147](https://open.spotify.com/track/60I8YrrHXJnfPmo9U8yBnu) | [Slick Shoota](https://open.spotify.com/artist/2P1OqKNHmAOg9RfAufNNkR) | [VIP VAULTS](https://open.spotify.com/album/7dQjTAus3GtAzuFhAiEPHz) | 4:31 |
 | 27 | [Braxe Traxe \- SBF13](https://open.spotify.com/track/7nv1TaJwLtUdbYbRQP95oG) | [Big Dope P](https://open.spotify.com/artist/0eebKLG13kCWzqNI1LItJe) | [Braxe Traxe \(SBF13\)](https://open.spotify.com/album/4XxVcPT88m47hDjVmAWQyr) | 2:05 |
 | 28 | [New Start](https://open.spotify.com/track/6lEFi0B4E7tYgN7ahY7HlB) | [Taso](https://open.spotify.com/artist/0zN0VIGQs6bYKzrB7EQYhC), [Teklife](https://open.spotify.com/artist/1GoZKzpOpwfoZLj1W6sjeg), [DJ Rashad](https://open.spotify.com/artist/4zGBj9dI63YIWmZkPl3o7V), [DJ Spinn](https://open.spotify.com/artist/0ZGOz1bQgvsT4KSzHB1dg9) | [New Start](https://open.spotify.com/album/7hhPEiSLGSFdHJEheB8IL3) | 4:30 |
 | 29 | [Never Created, Never Destroyed](https://open.spotify.com/track/6YhSkzyhPBK0N1xulfWlPV) | [Jlin](https://open.spotify.com/artist/23QKqAkKwti9zBiac6RFBA) | [Black Origami](https://open.spotify.com/album/7526bnJCkFFnAMSQ9fsva9) | 3:31 |

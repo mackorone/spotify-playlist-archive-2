@@ -1,12 +1,12 @@
 {
   "description": "unge kniv \ud83d\udd2a @KlaraVibeke",
-  "num_followers": 47234,
+  "num_followers": 47231,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC2HvhyCher0iybX6tzg9OpFlv2h",
+  "snapshot_id": "AAAAAK04RyfMOb/RvSiFafhMSwGJPNaB",
   "tracks": [
     {
       "added_at": "2026-09-17 22:02:34",
@@ -407,26 +407,6 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
-        "name": "I Made It (feat. Andreas Odbjerg)",
-        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
-      },
-      "artists": [
-        {
-          "name": "JOSVA",
-          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
-        },
-        {
-          "name": "andreas odbjerg",
-          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
-        }
-      ],
-      "duration_ms": 209923,
-      "name": "I Made It (feat. Andreas Odbjerg)",
-      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
         "name": "Lille hus i Jylland (feat. Dahlin)",
         "url": "https://open.spotify.com/album/3N62lUJDomKSPBDbX7w1c7"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 164805,
       "name": "Lille hus i Jylland (feat. Dahlin)",
       "url": "https://open.spotify.com/track/6tt5xtseCg8LGm8CvE0aAl"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
+        "name": "I Made It (feat. Andreas Odbjerg)",
+        "url": "https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        },
+        {
+          "name": "andreas odbjerg",
+          "url": "https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR"
+        }
+      ],
+      "duration_ms": 209923,
+      "name": "I Made It (feat. Andreas Odbjerg)",
+      "url": "https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6"
     },
     {
       "added_at": "2026-09-17 22:02:34",

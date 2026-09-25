@@ -8121,6 +8121,24 @@
     },
     {
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
+      },
+      "artists": [
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231746,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
+    },
+    {
+      "album": {
         "name": "CHOPMONEY",
         "url": "https://open.spotify.com/album/4EUPnZujrTHutWfQ63FruU"
       },
@@ -52076,7 +52094,7 @@
       ],
       "date_added": "2026-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 152821,
       "name": "\u00c6rlig Freestyle",
       "url": "https://open.spotify.com/track/2Mkjva2JDjVAcFjriEWnWF"

@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 19974,
+  "num_followers": 19981,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADPhYjbc+p4l5UNBoCX+kSO",
+  "snapshot_id": "arMWgAAAAAAtP/oGjXpzL99DRtHe7LRq",
   "tracks": [
     {
       "added_at": null,
@@ -131,6 +131,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gana la Que Pierde",
+        "url": "https://open.spotify.com/album/4DG0TxUWEtyVPMoDxG1fPr"
+      },
+      "artists": [
+        {
+          "name": "Mariana Seoane",
+          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
+        },
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 224055,
+      "name": "Gana la Que Pierde",
+      "url": "https://open.spotify.com/track/1sXPJeFdOrf5Jw1YlF7mPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Busqu\u00e9",
         "url": "https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j"
       },
@@ -151,26 +171,6 @@
       "duration_ms": 250670,
       "name": "Lo Busqu\u00e9",
       "url": "https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gana la Que Pierde",
-        "url": "https://open.spotify.com/album/4DG0TxUWEtyVPMoDxG1fPr"
-      },
-      "artists": [
-        {
-          "name": "Mariana Seoane",
-          "url": "https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV"
-        },
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 224055,
-      "name": "Gana la Que Pierde",
-      "url": "https://open.spotify.com/track/1sXPJeFdOrf5Jw1YlF7mPY"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Vas A Llorar",
-        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Triste Recuerdo",
         "url": "https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 208902,
       "name": "Triste Recuerdo",
       "url": "https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
     },
     {
       "added_at": null,

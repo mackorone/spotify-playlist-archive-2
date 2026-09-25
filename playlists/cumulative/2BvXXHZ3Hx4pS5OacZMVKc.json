@@ -5897,6 +5897,24 @@
     },
     {
       "album": {
+        "name": "NOBODY ELSE",
+        "url": "https://open.spotify.com/album/6bD6STzPM9szULdLsPOMgn"
+      },
+      "artists": [
+        {
+          "name": "Silver Bullet",
+          "url": "https://open.spotify.com/artist/0SEngfaDuGowIj9cDEN2yq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214285,
+      "name": "NOBODY ELSE",
+      "url": "https://open.spotify.com/track/7q2qVB1R2uSPiWUjpsLoR3"
+    },
+    {
+      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb"
       },

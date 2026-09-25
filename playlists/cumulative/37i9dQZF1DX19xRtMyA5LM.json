@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "\u2757\ufe0fNieuwe tracks: Kevin & JoeyAK, Qlas, Mula en meer. ",
+  "description": "\u2757\ufe0fNieuwe tracks: Mula & Lijpe, Rits, Yade Lauren, Jiggy Dj\u00e9 en meer. ",
   "name": "Woordenschat",
   "tracks": [
     {
@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Ms. Lauren",
+        "url": "https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160505,
+      "name": "5%",
+      "url": "https://open.spotify.com/track/58HSrrsVnQEdLLyyGGIZ6B"
+    },
+    {
+      "album": {
         "name": "50 Bro's (Tweemans)",
         "url": "https://open.spotify.com/album/3veHpC2KSJdHhda4KTUWZr"
       },
@@ -798,7 +816,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 146184,
       "name": "ALLO",
       "url": "https://open.spotify.com/track/0I4CcgAofvofr7dxx9pE25"
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 182561,
       "name": "BACK",
       "url": "https://open.spotify.com/track/6S1CxOQhCNVgzgLTvZmFGs"
@@ -2591,6 +2609,28 @@
     },
     {
       "album": {
+        "name": "De Hele Week",
+        "url": "https://open.spotify.com/album/2GaRJuSmBfVjseyrgrqlTG"
+      },
+      "artists": [
+        {
+          "name": "Rits",
+          "url": "https://open.spotify.com/artist/0zjY4NHr3mdGq8Mn8btl3O"
+        },
+        {
+          "name": "Avenue",
+          "url": "https://open.spotify.com/artist/5NBiiazDZXAGReVI4U3hPw"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "De Hele Week",
+      "url": "https://open.spotify.com/track/4risNF5w5hvxyrtphmcbBM"
+    },
+    {
+      "album": {
         "name": "De Laatste Sprint",
         "url": "https://open.spotify.com/album/1EzVpVYDBYqs5yBtyeJuMe"
       },
@@ -2910,7 +2950,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 96000,
       "name": "DOWN",
       "url": "https://open.spotify.com/track/22thDxnP0TZNDiFwV9Rh5q"
@@ -3246,7 +3286,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 197142,
       "name": "Even Te Dronken",
       "url": "https://open.spotify.com/track/3nKsw7qc4Kq6OFFhfyDaK5"
@@ -3834,6 +3874,24 @@
       "duration_ms": 180618,
       "name": "Gang",
       "url": "https://open.spotify.com/track/70AY6FZAJVYQdrZTIuo1zI"
+    },
+    {
+      "album": {
+        "name": "Gangster Ben",
+        "url": "https://open.spotify.com/album/1us4CmQlZGL2QySScsrept"
+      },
+      "artists": [
+        {
+          "name": "Blacka",
+          "url": "https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126521,
+      "name": "Gangster Ben",
+      "url": "https://open.spotify.com/track/21179u71xPUY3RocZgjLmJ"
     },
     {
       "album": {
@@ -5011,6 +5069,28 @@
     },
     {
       "album": {
+        "name": "HVB",
+        "url": "https://open.spotify.com/album/2J0nVKpUaEfK1HfH2mDST1"
+      },
+      "artists": [
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150266,
+      "name": "HVB",
+      "url": "https://open.spotify.com/track/1rmyXcwRGKDpKG9EzjmlQQ"
+    },
+    {
+      "album": {
         "name": "IDEMO",
         "url": "https://open.spotify.com/album/11E4GX3b6bp7ucN55tMU0F"
       },
@@ -5136,7 +5216,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 176229,
       "name": "Ik Zweer 't",
       "url": "https://open.spotify.com/track/2qkTKRVDvKWTZWcFgtVaWw"
@@ -5883,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "Komt Goed",
+        "url": "https://open.spotify.com/album/7huMpPzUuomxzqEUAIMOFl"
+      },
+      "artists": [
+        {
+          "name": "Philly",
+          "url": "https://open.spotify.com/artist/4jyJnVVczG7UdzUYoG4xVj"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165953,
+      "name": "Komt Goed",
+      "url": "https://open.spotify.com/track/4fAra1tnBDROPUAi9KNFUP"
+    },
+    {
+      "album": {
         "name": "Andere Man",
         "url": "https://open.spotify.com/album/4F7HRc2bLbvOWKA2IoOisH"
       },
@@ -6010,7 +6108,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 193875,
       "name": "LA FAMILIA (feat. Nnelg, GRGY, Loopey, Ray Fuego)",
       "url": "https://open.spotify.com/track/2iNeSqUinkmlHeNu4C9xvN"
@@ -6475,6 +6573,24 @@
     },
     {
       "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/1CtnhAtFo2zQP56mmlSTOG"
+      },
+      "artists": [
+        {
+          "name": "Jiggy Dj\u00e9",
+          "url": "https://open.spotify.com/artist/2deAwJr19wfxpqJ5duZyk1"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226517,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/4d55Fj4LomExB8oVUFG34W"
+    },
+    {
+      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/1DePVl9EojfWwgqIDTh3mo"
       },
@@ -6530,6 +6646,28 @@
       "duration_ms": 148222,
       "name": "Lyca & Slammers",
       "url": "https://open.spotify.com/track/1TCvXAJ0PZAimDMi6hyFvv"
+    },
+    {
+      "album": {
+        "name": "M3",
+        "url": "https://open.spotify.com/album/5EVKfDOym1Sq35DzkqRWV6"
+      },
+      "artists": [
+        {
+          "name": "Chelton",
+          "url": "https://open.spotify.com/artist/3XwXB1YJBRfvbMFJiyOu7o"
+        },
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139090,
+      "name": "M3",
+      "url": "https://open.spotify.com/track/5NApQdYLgupajwhUftPP24"
     },
     {
       "album": {
@@ -8922,7 +9060,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 123459,
       "name": "PRIMA",
       "url": "https://open.spotify.com/track/71MH8PO5NZTdMKX3OwBlKZ"
@@ -10418,7 +10556,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 123573,
       "name": "Stupid (Move It)",
       "url": "https://open.spotify.com/track/6kfsiJ3wSS97qM0oQxey2n"
@@ -10922,6 +11060,24 @@
       "duration_ms": 172251,
       "name": "Toedels!",
       "url": "https://open.spotify.com/track/6AmhyeFjiw2s8313ruZuIg"
+    },
+    {
+      "album": {
+        "name": "Ms. Lauren",
+        "url": "https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143122,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/1bDOSa2VxFDMOTd2tEsuNE"
     },
     {
       "album": {

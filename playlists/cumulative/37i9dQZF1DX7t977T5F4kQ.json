@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest and recent Ghana party starters. Cover:   RCEE",
+  "description": "The hottest and recent Ghana party starters. Cover:   Wendy Shay",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -546,7 +546,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 170078,
       "name": "ACCRA GIRLS",
       "url": "https://open.spotify.com/track/2s01mh0dsFDn4lDCBbCnxD"
@@ -742,7 +742,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 120000,
       "name": "Agenda 2.0",
       "url": "https://open.spotify.com/track/0E5FLxr1LqABGJ0QiR2bI9"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 191068,
       "name": "Alhamdulillah 2.0",
       "url": "https://open.spotify.com/track/3sGxDEDAyAZ8MVPVpb5H17"
@@ -1074,6 +1074,24 @@
       "duration_ms": 157928,
       "name": "Amakor",
       "url": "https://open.spotify.com/track/2rFxaZy7VB4Fht7IQmxC6v"
+    },
+    {
+      "album": {
+        "name": "Amina",
+        "url": "https://open.spotify.com/album/0nypTuoTvycgiFrFEH2MQk"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/1eMM8Rf5ZhnpIAD8eGFJwg"
     },
     {
       "album": {
@@ -1296,7 +1314,7 @@
       ],
       "date_added": "2026-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 89620,
       "name": "ASANA",
       "url": "https://open.spotify.com/track/3unkTgCb5VBehD5EBcNgB5"
@@ -2167,6 +2185,28 @@
     },
     {
       "album": {
+        "name": "Bendova",
+        "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162941,
+      "name": "Bendova",
+      "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
+    },
+    {
+      "album": {
         "name": "Berima Nsu",
         "url": "https://open.spotify.com/album/1qdpKiWu9xvhzVPWmo6F76"
       },
@@ -2488,6 +2528,46 @@
       "duration_ms": 165000,
       "name": "Body Go (with Tyla)",
       "url": "https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P"
+    },
+    {
+      "album": {
+        "name": "Bokor Bokor",
+        "url": "https://open.spotify.com/album/0jeleBIMR3SqLqi1wf9lOF"
+      },
+      "artists": [
+        {
+          "name": "Dan Drizzy",
+          "url": "https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI"
+        },
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154941,
+      "name": "Bokor Bokor",
+      "url": "https://open.spotify.com/track/72OTEO5DShf3WH8hvdPVXb"
+    },
+    {
+      "album": {
+        "name": "NO DAYS OFF",
+        "url": "https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141926,
+      "name": "Bombele",
+      "url": "https://open.spotify.com/track/5To9w1yLFlEOfs2EK7Ld7e"
     },
     {
       "album": {
@@ -3364,6 +3444,28 @@
       "duration_ms": 179416,
       "name": "Cryptocurrency",
       "url": "https://open.spotify.com/track/4QdeLIxAqo8Dh5vUNpK0Vp"
+    },
+    {
+      "album": {
+        "name": "Customer",
+        "url": "https://open.spotify.com/album/5gUI8W7Z22ZhorDAtmXjMa"
+      },
+      "artists": [
+        {
+          "name": "D-Black",
+          "url": "https://open.spotify.com/artist/1YCN7ZcxMajJ44nCjpf7gB"
+        },
+        {
+          "name": "E.L",
+          "url": "https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183880,
+      "name": "Customer",
+      "url": "https://open.spotify.com/track/6NdKc9GIPqrjtBXR8NXKU4"
     },
     {
       "album": {
@@ -4918,7 +5020,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 174872,
       "name": "Fly Girl",
       "url": "https://open.spotify.com/track/0ZSFZtlYSLteY7Boq2bvTY"
@@ -7574,7 +7676,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 186240,
       "name": "Lonely World",
       "url": "https://open.spotify.com/track/0wA8CNc2GD1YIQyXEfbj4t"
@@ -7596,7 +7698,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 132698,
       "name": "Lose My Mind",
       "url": "https://open.spotify.com/track/5SZSNVayP8SNfsuymVGpc5"
@@ -8242,7 +8344,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 168791,
       "name": "Mon B\u00e9b\u00e9 (with King Promise)",
       "url": "https://open.spotify.com/track/6WDxmvyUaZpxS9vCtfA5iC"
@@ -8412,7 +8514,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 147226,
       "name": "Motherfxcker",
       "url": "https://open.spotify.com/track/1D1Mp6lTvkAqTjbVewRkpQ"
@@ -9628,6 +9730,28 @@
       "duration_ms": 211880,
       "name": "Odo Nkoaa",
       "url": "https://open.spotify.com/track/1bBpce38RogIi9HneIooXP"
+    },
+    {
+      "album": {
+        "name": "Odo Nti",
+        "url": "https://open.spotify.com/album/1sb44qTuezcAFllgNEe9wI"
+      },
+      "artists": [
+        {
+          "name": "Mophty",
+          "url": "https://open.spotify.com/artist/6ce6iwbNe3sa0gqONeiI8Q"
+        },
+        {
+          "name": "siicie",
+          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Odo Nti",
+      "url": "https://open.spotify.com/track/2s6f2wUoorQnBk1tm8JrXH"
     },
     {
       "album": {
@@ -11284,7 +11408,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 139859,
       "name": "ROVER",
       "url": "https://open.spotify.com/track/2qR2li52kF57nzXye66Ceh"
@@ -11584,7 +11708,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 161454,
       "name": "Screaming Beauty",
       "url": "https://open.spotify.com/track/1m3I5mR9B5P6y4wVSk7HIT"
@@ -12390,6 +12514,28 @@
       "duration_ms": 158373,
       "name": "Stay with Me",
       "url": "https://open.spotify.com/track/3bUPd3asMBo6vSCgCcbDjv"
+    },
+    {
+      "album": {
+        "name": "Steeze",
+        "url": "https://open.spotify.com/album/39sKfVQm4sKLL9mAflMvKR"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Steeze",
+      "url": "https://open.spotify.com/track/3m9lU6rU5orvK504eviiIU"
     },
     {
       "album": {
@@ -13420,6 +13566,24 @@
       "duration_ms": 165000,
       "name": "Touch It",
       "url": "https://open.spotify.com/track/3h3xeg5OGNYVM0U9rOAc6j"
+    },
+    {
+      "album": {
+        "name": "2nd Step",
+        "url": "https://open.spotify.com/album/13F37l0pvS6Y8MFLdt56CP"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/02U8LbJujN3o0COgb6yHHF"
     },
     {
       "album": {

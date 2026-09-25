@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,784 likes - 90 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,791 likes - 90 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 67 | [Al Gaucho Gil](https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc) | [Los Chaqueñísimos Cardozo](https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY) | [21 Grandes Exitos](https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W) | 3:26 |
 | 68 | [A villa Guillermina](https://open.spotify.com/track/7cOkr0CjVKEySdqhGlyVvg) | [Paquito Aranda](https://open.spotify.com/artist/78SvSuyvRN1LIjHpQd1daf) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:50 |
 | 69 | [Pasion oculta](https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:25 |
-| 70 | [Granja San Antonio](https://open.spotify.com/track/0HiOLvZcuQV33hRwJBINLM) | [Priscila Colom](https://open.spotify.com/artist/1MK7hK0Xyu7006q2NHUcFo) | [Costera](https://open.spotify.com/album/5e9kuKpWgRMwtkY6mzVgat) | 2:49 |
-| 71 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 |
+| 70 | [Malvita](https://open.spotify.com/track/0wH0cix04Imj3NkC4lsDBB) | [Blas Martinez Riera](https://open.spotify.com/artist/20f4ly5Ts5GBU6nUPKPRn6) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 3:05 |
+| 71 | [Granja San Antonio](https://open.spotify.com/track/0HiOLvZcuQV33hRwJBINLM) | [Priscila Colom](https://open.spotify.com/artist/1MK7hK0Xyu7006q2NHUcFo) | [Costera](https://open.spotify.com/album/5e9kuKpWgRMwtkY6mzVgat) | 2:49 |
 | 72 | [Mi Anhelo](https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:44 |
 | 73 | [Un simbronazo](https://open.spotify.com/track/2O5pSC8tkHXmUBkDiJTRRO) | [Los Cate](https://open.spotify.com/artist/0RmkqU1ECvcq92AA7tAKzf) | [Chamame \- Los 100 mejores temas \- Vol 4](https://open.spotify.com/album/508BWmmIii80gEwzMMckYa) | 2:03 |
 | 74 | [La Ofelia](https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM) | [Abelardo Dimotta](https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:38 |

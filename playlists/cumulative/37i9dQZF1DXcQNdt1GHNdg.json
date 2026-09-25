@@ -6844,7 +6844,7 @@
       ],
       "date_added": "2025-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 135177,
       "name": "RYDE OR DIE",
       "url": "https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag"
@@ -7936,6 +7936,24 @@
       "duration_ms": 163870,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/1QKIZctspbifzxSJr6i7JX"
+    },
+    {
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/6YeK5gL10aW99qixDtE4Jh"
+      },
+      "artists": [
+        {
+          "name": "Manjinder Sandhu",
+          "url": "https://open.spotify.com/artist/5wNPw9D7KCdOBmVTKCMXq3"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140136,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/4j6N1xpfJRfu7N0FXXsq55"
     },
     {
       "album": {

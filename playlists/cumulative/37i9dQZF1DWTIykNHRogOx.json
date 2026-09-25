@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Grand Corps Malade.",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise avec Pomme.",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -520,7 +520,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 190769,
       "name": "baby",
       "url": "https://open.spotify.com/track/5wTrByjrkQWtaiL5SfUUfr"
@@ -888,7 +888,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 201299,
       "name": "Chaussures Roses",
       "url": "https://open.spotify.com/track/4cLspfLk7lebgQMDoZgSKD"
@@ -2196,6 +2196,24 @@
       "duration_ms": 178933,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/34yhqKcMxXHF2ijH3mDtCI"
+    },
+    {
+      "album": {
+        "name": "jardins",
+        "url": "https://open.spotify.com/album/0AjpWFqqO1PQMjyg3nPnM2"
+      },
+      "artists": [
+        {
+          "name": "Rozam",
+          "url": "https://open.spotify.com/artist/3xwQZjgC4Cr2LBmRIUKSs4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226498,
+      "name": "jardins",
+      "url": "https://open.spotify.com/track/14BS36ETah5xAuIHVG1qBN"
     },
     {
       "album": {
@@ -4297,6 +4315,24 @@
     },
     {
       "album": {
+        "name": "Ma t\u00eate",
+        "url": "https://open.spotify.com/album/3fBeobQ6JNahWYbZcm4EUY"
+      },
+      "artists": [
+        {
+          "name": "Achile",
+          "url": "https://open.spotify.com/artist/21KPPMcnfzFYt3yseua9Nl"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187872,
+      "name": "Ma t\u00eate",
+      "url": "https://open.spotify.com/track/1TgOKLcJPvLXWojD035iDT"
+    },
+    {
+      "album": {
         "name": "Mademoiselle",
         "url": "https://open.spotify.com/album/61BqSXBuEQk3IZf91dAAUG"
       },
@@ -4585,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "Murailles de Chine",
+        "url": "https://open.spotify.com/album/5wmAeBkWR5yiD79KJPkCIw"
+      },
+      "artists": [
+        {
+          "name": "Mathilda",
+          "url": "https://open.spotify.com/artist/3G3kiaWiTm0mUdzujLRuji"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228399,
+      "name": "Murailles de Chine",
+      "url": "https://open.spotify.com/track/3HY3ycfpbAYiLGPU1TgYaL"
+    },
+    {
+      "album": {
         "name": "Grand piano",
         "url": "https://open.spotify.com/album/45AWJFkNR4ZWoMNiauQFUd"
       },
@@ -4838,6 +4892,24 @@
       "duration_ms": 157346,
       "name": "ordi par la fen\u00eatre",
       "url": "https://open.spotify.com/track/5QeBageLpTOxXRGf6P8gWV"
+    },
+    {
+      "album": {
+        "name": "papa la maison s'effondre",
+        "url": "https://open.spotify.com/album/5JLFLOIeGwpqQp4YYI3sH5"
+      },
+      "artists": [
+        {
+          "name": "Alma Rechtman",
+          "url": "https://open.spotify.com/artist/2OzA28ZGJJEA8lzMockPcN"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179700,
+      "name": "papa la maison s'effondre",
+      "url": "https://open.spotify.com/track/2KHikG96BvB667Z34nA2e9"
     },
     {
       "album": {
@@ -5372,7 +5444,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 217338,
       "name": "Que reste-t-il de moi ?",
       "url": "https://open.spotify.com/track/3a0qWLvCFukamkr8vNAu7w"
@@ -5704,7 +5776,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 227572,
       "name": "samedi soir",
       "url": "https://open.spotify.com/track/43mwnf4oJZJm4tBnFA4kQx"
@@ -5824,6 +5896,24 @@
       "duration_ms": 208721,
       "name": "Seule",
       "url": "https://open.spotify.com/track/1J5H2xHZRSqoheMgsDpQfA"
+    },
+    {
+      "album": {
+        "name": "seule dans la foule",
+        "url": "https://open.spotify.com/album/5X9dDbpm5lex928d1Ih3Ia"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201120,
+      "name": "seule dans la foule",
+      "url": "https://open.spotify.com/track/3UQhUj6fiwQLRIP0vxOtkZ"
     },
     {
       "album": {
@@ -6948,7 +7038,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 153429,
       "name": "\u00e9ni\u00e8me chance",
       "url": "https://open.spotify.com/track/5uQcQJsVSBMWsfh7yq7cBL"

@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 61398,
+  "num_followers": 61412,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -331,34 +331,6 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
-        "name": "Boulez - Mahler",
-        "url": "https://open.spotify.com/album/6reobqFtAW1qGIwfiaDVWO"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Christian Gerhaher",
-          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
-        },
-        {
-          "name": "The Cleveland Orchestra",
-          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
-        },
-        {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
-        }
-      ],
-      "duration_ms": 172906,
-      "name": "Des Knaben Wunderhorn: Trost im Ungl\u00fcck - Live at Severance Hall, Cleveland, 2010",
-      "url": "https://open.spotify.com/track/77qkhDGTbXhG2OR9DJ5tIQ"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
         "name": "Mahler: Orchestral Songs",
         "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
       },
@@ -383,6 +355,34 @@
       "duration_ms": 222800,
       "name": "Lieder eines fahrenden Gesellen: Wenn mein Schatz Hochzeit macht",
       "url": "https://open.spotify.com/track/0xV23aZ72bfHsiniUjg9o9"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
+        "name": "Boulez - Mahler",
+        "url": "https://open.spotify.com/album/6reobqFtAW1qGIwfiaDVWO"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Christian Gerhaher",
+          "url": "https://open.spotify.com/artist/0reEj3pa0lTG2gOkj9BoPb"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        }
+      ],
+      "duration_ms": 172906,
+      "name": "Des Knaben Wunderhorn: Trost im Ungl\u00fcck - Live at Severance Hall, Cleveland, 2010",
+      "url": "https://open.spotify.com/track/77qkhDGTbXhG2OR9DJ5tIQ"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -435,6 +435,30 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
+        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
+        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
+        },
+        {
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
+        }
+      ],
+      "duration_ms": 627306,
+      "name": "Mahler: Symphony No. 3 in D Minor: II. Tempo di menuetto. Sehr m\u00e4ssig",
+      "url": "https://open.spotify.com/track/2rXA32fOuctoPtFk5DngwZ"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
         "name": "Mahler: Orchestral Songs",
         "url": "https://open.spotify.com/album/3VPYCCNQA2wp4DHVKc8SMx"
       },
@@ -459,30 +483,6 @@
       "duration_ms": 183706,
       "name": "Lieder eines fahrenden Gesellen: Ich hab' ein gl\u00fchend Messer",
       "url": "https://open.spotify.com/track/5v8X842NJtDA2daRIXsmyl"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
-        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
-        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 627306,
-      "name": "Mahler: Symphony No. 3 in D Minor: II. Tempo di menuetto. Sehr m\u00e4ssig",
-      "url": "https://open.spotify.com/track/2rXA32fOuctoPtFk5DngwZ"
     },
     {
       "added_at": "2025-12-22 11:25:43",
@@ -739,6 +739,30 @@
     {
       "added_at": "2025-12-22 11:25:43",
       "album": {
+        "name": "Mahler 9",
+        "url": "https://open.spotify.com/album/6auyTe4bhTknFxrvBDDzys"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 984626,
+      "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
+      "url": "https://open.spotify.com/track/3UFqPqVR1641nT488M595r"
+    },
+    {
+      "added_at": "2025-12-22 11:25:43",
+      "album": {
         "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/4PLnFO9I99tGcWuuxWCnkp"
       },
@@ -763,30 +787,6 @@
       "duration_ms": 408000,
       "name": "Das Lied von der Erde: IV. Von der Sch\u00f6nheit",
       "url": "https://open.spotify.com/track/3qI4JIuhtF3gsbuQQgzyKa"
-    },
-    {
-      "added_at": "2025-12-22 11:25:43",
-      "album": {
-        "name": "Mahler 9",
-        "url": "https://open.spotify.com/album/6auyTe4bhTknFxrvBDDzys"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 984626,
-      "name": "Symphony No. 9 in D Major: II. Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb - - Live From Walt Disney Concert Hall, Los Angeles / 2012",
-      "url": "https://open.spotify.com/track/3UFqPqVR1641nT488M595r"
     },
     {
       "added_at": "2025-12-22 11:25:43",

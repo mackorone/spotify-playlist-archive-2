@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 844488,
+  "num_followers": 844514,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -115,22 +115,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "The Best of George Benson",
-        "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 219560,
-      "name": "Give Me the Night - Edit",
-      "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "For Mary",
         "url": "https://open.spotify.com/album/0VjLyzT1oN7aQqdkazdPCh"
       },
@@ -143,6 +127,22 @@
       "duration_ms": 226052,
       "name": "End of Time",
       "url": "https://open.spotify.com/track/4aQVmxRFRT0EhGNkLyzUXJ"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "The Best of George Benson",
+        "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 219560,
+      "name": "Give Me the Night - Edit",
+      "url": "https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -287,22 +287,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Hot Space (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209106,
-      "name": "Cool Cat - Remastered 2011",
-      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -323,22 +307,18 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Lou's Tune",
-        "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
+        "name": "Hot Space (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
       "artists": [
         {
-          "name": "DARGZ",
-          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
-        },
-        {
-          "name": "Moses Boyd",
-          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
         }
       ],
-      "duration_ms": 102634,
-      "name": "Lou's Tune",
-      "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
+      "duration_ms": 209106,
+      "name": "Cool Cat - Remastered 2011",
+      "url": "https://open.spotify.com/track/6Re2AwZUVlgBng04BZTauW"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -355,6 +335,26 @@
       "duration_ms": 173640,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/4vlkvsD7xAB2MqOZYgSBlb"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Lou's Tune",
+        "url": "https://open.spotify.com/album/7qjmrPRpj4ppzd6rQRLj0A"
+      },
+      "artists": [
+        {
+          "name": "DARGZ",
+          "url": "https://open.spotify.com/artist/0AggcZhPMyJglaaruoxJpN"
+        },
+        {
+          "name": "Moses Boyd",
+          "url": "https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV"
+        }
+      ],
+      "duration_ms": 102634,
+      "name": "Lou's Tune",
+      "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
-        "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
-      },
-      "artists": [
-        {
-          "name": "Salinas",
-          "url": "https://open.spotify.com/artist/6qyOdseTD2phSLMwXPohSk"
-        }
-      ],
-      "duration_ms": 156537,
-      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
-      "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Imaginary Audience",
         "url": "https://open.spotify.com/album/6zG512i8DvxsxOaM10l8sk"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 193956,
       "name": "It's Been You",
       "url": "https://open.spotify.com/track/57HaB5Z4DId8ENrNDfUSiZ"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Wanted Bossa Nova: From Diggers to Music Lovers",
+        "url": "https://open.spotify.com/album/78QZeFmsqxeoh5BBDfmYRs"
+      },
+      "artists": [
+        {
+          "name": "Salinas",
+          "url": "https://open.spotify.com/artist/6qyOdseTD2phSLMwXPohSk"
+        }
+      ],
+      "duration_ms": 156537,
+      "name": "Tenha F\u00e9, Pois Amanh\u00e3 um Lindo Dia Vai Nascer",
+      "url": "https://open.spotify.com/track/6gq1nXRbVZYcOxtG20uC2t"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Mr. Right Now",
-        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
-      },
-      "artists": [
-        {
-          "name": "Tiger Lewis",
-          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
-        }
-      ],
-      "duration_ms": 153402,
-      "name": "Mr. Right Now",
-      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Hunt for the Wilderpeople (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2XvgNn4HiItRHFG5R8i3Tg"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 150933,
       "name": "Just Ain't Gonna Work Out",
       "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Mr. Right Now",
+        "url": "https://open.spotify.com/album/6PGH7mRzk4693ahAtPuj5y"
+      },
+      "artists": [
+        {
+          "name": "Tiger Lewis",
+          "url": "https://open.spotify.com/artist/6NYQeyZWzbSRcNFwOStLoN"
+        }
+      ],
+      "duration_ms": 153402,
+      "name": "Mr. Right Now",
+      "url": "https://open.spotify.com/track/6BsYGPQrKHlnJslIex6plC"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "All I Really Wanna Do",
-        "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 222080,
-      "name": "All I Really Wanna Do",
-      "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Addicted To You",
         "url": "https://open.spotify.com/album/03mQWhCkJ77Hq9aP8dD21r"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 250933,
       "name": "Two Trees",
       "url": "https://open.spotify.com/track/64jxwV2kklovj7ldPsPsXF"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "All I Really Wanna Do",
+        "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 222080,
+      "name": "All I Really Wanna Do",
+      "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1443,6 +1443,30 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
+        "name": "Kathy and Paul",
+        "url": "https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C"
+      },
+      "artists": [
+        {
+          "name": "Long Island Railroad",
+          "url": "https://open.spotify.com/artist/2zZSQmUEnIliGJRClpPb70"
+        },
+        {
+          "name": "Smushie",
+          "url": "https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH"
+        },
+        {
+          "name": "Ryan Gebhardt",
+          "url": "https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA"
+        }
+      ],
+      "duration_ms": 174311,
+      "name": "Kathy and Paul",
+      "url": "https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
         "name": "My Conversation",
         "url": "https://open.spotify.com/album/3eyiwYrYENzxjnumTXJoOw"
       },
@@ -1471,30 +1495,6 @@
       "duration_ms": 134702,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/5Mya4ekcEmKOluFYd8qX8Y"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
-        "name": "Kathy and Paul",
-        "url": "https://open.spotify.com/album/6kyQHx273kGzLd4Z8ogt4C"
-      },
-      "artists": [
-        {
-          "name": "Long Island Railroad",
-          "url": "https://open.spotify.com/artist/2zZSQmUEnIliGJRClpPb70"
-        },
-        {
-          "name": "Smushie",
-          "url": "https://open.spotify.com/artist/0XGgpBKj7u2MMX2kqUVLaH"
-        },
-        {
-          "name": "Ryan Gebhardt",
-          "url": "https://open.spotify.com/artist/1GgblJXkRYNRnHUGBW9oLA"
-        }
-      ],
-      "duration_ms": 174311,
-      "name": "Kathy and Paul",
-      "url": "https://open.spotify.com/track/0FzYtu4DEKZkNxpxl7VXw6"
     },
     {
       "added_at": "2026-09-11 17:50:27",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2026-09-11 17:50:27",
       "album": {
-        "name": "Choose Your Own Adventure",
-        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 253466,
-      "name": "The Conservation of Energy",
-      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
-    },
-    {
-      "added_at": "2026-09-11 17:50:27",
-      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 226162,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW"
+    },
+    {
+      "added_at": "2026-09-11 17:50:27",
+      "album": {
+        "name": "Choose Your Own Adventure",
+        "url": "https://open.spotify.com/album/2BPkdWCoILy8WV5nHomCvz"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 253466,
+      "name": "The Conservation of Energy",
+      "url": "https://open.spotify.com/track/301Xkz1BXL7ve3gl9tRWRM"
     },
     {
       "added_at": "2026-09-11 17:50:27",

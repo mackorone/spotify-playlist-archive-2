@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Kastanienmännchen, Laternenlieder und Kürbis schnitzen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,041 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,053 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 49 | [Der Sommer muss gehen](https://open.spotify.com/track/4I0WyPnEmUKn74jFDZPvHi) | [Volker Rosin](https://open.spotify.com/artist/4LDZtk1nfyhIx4bzDDHoBf) | [Itzibitz die Liedermaus](https://open.spotify.com/album/5rfbCBwFt727Bjlz2ZC4pO) | 2:06 |
 | 50 | [Ei, Ei, Ei, Ei, Eichhörnchen](https://open.spotify.com/track/2tVwU4CYWkqZ1jdkhzLEhS) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Herbstlieder für Kinder](https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL) | 2:02 |
 
-Snapshot ID: `AAAAAAhK5cuRnwjScze2U+/hKebp+yyo`
+Snapshot ID: `AAAAAKmJqNDY/fcFWS9/Ti1itLLH0qZL`

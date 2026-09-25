@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: El Cuarteto de Nos
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,382 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,388 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 99 | [Fanky \(En Vivo\)](https://open.spotify.com/track/0y4NWYQEikgDDE9SyyU6RU) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Fanky \(En Vivo\)](https://open.spotify.com/album/1Tq3ZmiF3AR38Qmbd5hvZ6) | 5:03 |
 | 100 | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x) | 4:28 |
 
-Snapshot ID: `AAAAAGyUTGbi94Ig/fws/Z/pZDyUBMBl`
+Snapshot ID: `AAAAAIlSD14NXt5iiKnBmhemUzNU2C4z`

@@ -677,6 +677,24 @@
     },
     {
       "album": {
+        "name": "All The Way",
+        "url": "https://open.spotify.com/album/16KraJTLAz0dvu74Nt7fNB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172686,
+      "name": "All The Way",
+      "url": "https://open.spotify.com/track/1PnnfusokrbnBtHKYRLe1C"
+    },
+    {
+      "album": {
         "name": "Sinatra 80th: All The Best",
         "url": "https://open.spotify.com/album/5loTE013A6bWbNM0kuET1r"
       },
@@ -688,7 +706,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 172826,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6tkpUo1X7lCW2Wk8a1NLiI"
@@ -5424,7 +5442,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"

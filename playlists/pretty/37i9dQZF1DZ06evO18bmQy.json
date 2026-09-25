@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. The essential tracks, all in one playlist.",
-  "num_followers": 211776,
+  "num_followers": 211783,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAACxWo+xt47BNy7LdB6yjTE1",
+  "snapshot_id": "arMWgAAAAAAID5FMFLCzn3ro8VNBJJgd",
   "tracks": [
     {
       "added_at": null,
@@ -1047,6 +1047,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "Geminiano",
+      "url": "https://open.spotify.com/track/3EBnCczKBkV03uMqNtDMW1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NU",
+        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        },
+        {
+          "name": "Rapaz do Dread",
+          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
+        }
+      ],
+      "duration_ms": 228631,
+      "name": "Xapral\u00e1",
+      "url": "https://open.spotify.com/track/76RsGo3soeUtmxJ946PzXc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Depois do Baile",
         "url": "https://open.spotify.com/album/3tUkjGo50rgl56XOQhBjl4"
       },
@@ -1099,50 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NU",
-        "url": "https://open.spotify.com/album/3OCXLuxt7qRhdQpyT9iY6E"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
-        },
-        {
-          "name": "Rapaz do Dread",
-          "url": "https://open.spotify.com/artist/4AUugyBbC7wnwh6zF2kg5B"
-        }
-      ],
-      "duration_ms": 228631,
-      "name": "Xapral\u00e1",
-      "url": "https://open.spotify.com/track/76RsGo3soeUtmxJ946PzXc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "Geminiano",
-      "url": "https://open.spotify.com/track/3EBnCczKBkV03uMqNtDMW1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Inocente \"Demotape\"",
         "url": "https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk"
       },
@@ -1179,26 +1179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "LADR\u00c3O",
-      "url": "https://open.spotify.com/track/1ACDmP969nKGRshzl47GjB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heresia",
         "url": "https://open.spotify.com/album/7dLOvaC7Qr3cJUt0vo88Os"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 256810,
       "name": "Esquim\u00f3",
       "url": "https://open.spotify.com/track/40b5YP1kX8xbWKvm0hFdZU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/1EOBeKw4ZLl3pObadX82fa"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        }
+      ],
+      "duration_ms": 262400,
+      "name": "LADR\u00c3O",
+      "url": "https://open.spotify.com/track/1ACDmP969nKGRshzl47GjB"
     },
     {
       "added_at": null,

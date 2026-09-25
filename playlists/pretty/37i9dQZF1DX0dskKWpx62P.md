@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 
 > ¡Con todo el sentimiento andino! Foto: William Luna
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,595 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,628 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0dskKWpx62P.md) - [plain]
 | 55 | [Adiós Pueblo de Ayacucho](https://open.spotify.com/track/6SFt64ANizj4v4ObRoD6Hw) | [Raúl García Zárate](https://open.spotify.com/artist/7E6mAOwao4FqBa10KSJWbq) | [Serie Mistura de Ritmos: Mistura Andina, Vol\. 1](https://open.spotify.com/album/3EOM9REL8cD4JP2GX162ra) | 2:51 |
 | 56 | [Flor de Retana](https://open.spotify.com/track/26cc7Xk07PeBLj8aH2sGmE) | [Duo Retama](https://open.spotify.com/artist/3RW7F1HCOJ2j0rCgVOc3Kf) | [Wistu Vida](https://open.spotify.com/album/5vm7rrxB7W8VUPUsiJyd9k) | 6:28 |
 | 57 | [Otra Vez me Equivoqué](https://open.spotify.com/track/6uwh5CgZBQzCYXYyUFaNws) | [Dúo Hnos\. Gaitán Castro](https://open.spotify.com/artist/74pSnYkITpgS26sL4xouhZ) | [Amor amor](https://open.spotify.com/album/2tcYDcehVM8jK5KLUJKiEG) | 3:17 |
-| 58 | [Tu recuerdo](https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N) | 4:24 |
-| 59 | [Ay Corazón](https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX) | 4:41 |
+| 58 | [Ay Corazón](https://open.spotify.com/track/6qqOHFWe06Ly5OhFsupodk) | [Pelo D'Ambrosio](https://open.spotify.com/artist/7d1wBAl5FEvOENbACiZIYZ) | [Lejos de Ti](https://open.spotify.com/album/0KdW2xDguNYr1ZZOVzDpQX) | 4:41 |
+| 59 | [Tu recuerdo](https://open.spotify.com/track/2J1YEqRzxQx7EWzlAdJxcv) | [Los Hermanos Curi](https://open.spotify.com/artist/6I7T17Ero1RtbBpSldSoW9) | [Puro Sentimiento](https://open.spotify.com/album/1uDpI3nWbjx1LgUkNqav7N) | 4:24 |
 | 60 | [Mentiras](https://open.spotify.com/track/58nfDdDxlUH5Bz8UYn6Cso) | [Yarita Lizeth Yanarico](https://open.spotify.com/artist/1XyAr4Gr1SItyAVPiiAI7y) | [La Chinita del Amor](https://open.spotify.com/album/21RqAKaHcfB7LyBn1F3BeP) | 5:53 |
 
 Snapshot ID: `AAAAAHeDSuGBxgJAs4la6KIhdBBicNbY`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 
 > Discover the latest Korean classical & new age music! \(Cover: 윤한\(YOONHAN\)\) 최신 한국 클래식과 뉴에이지 트랙들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,834 likes - 100 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,837 likes - 100 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lq0EB6cmRr.md) - [plain]
 | 91 | [When We Meet Again](https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl) | [Hong Jin Ho](https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3) | [Dear Forest](https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3) | 3:15 |
 | 92 | [Piano Sonata No\. 7 in D Major, Op\. 10 No\. 3: II\. Largo e mesto](https://open.spotify.com/track/1OLeHLfNNpm4J0az1zLhN5) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [HieYon Choi](https://open.spotify.com/artist/2IJ32s9WsLzXb7SCLYa4wB) | [Beethoven: Complete Piano Sonatas](https://open.spotify.com/album/1aZMeJFNESnJsxelEwbCmK) | 8:36 |
 | 93 | [Remembering That Time](https://open.spotify.com/track/7x9ycPYAFFqQ8o2AnBO9Kb) | [Jung Hwan Ho](https://open.spotify.com/artist/04uSLKMyRP1TSXa46Rione), [Jisoo Sohn](https://open.spotify.com/artist/3XgJe3mjSMAKFB6jIHsj0V) | [Remembering That Time](https://open.spotify.com/album/4t169pzs8XwsLblqQ1Pfhy) | 4:27 |
-| 94 | [Camellia](https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [FLOWER](https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i) | 3:52 |
-| 95 | [his days are like a passing shadow I](https://open.spotify.com/track/5AVrdzGQuarou1dHpnqJqQ) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU), [Jung Eun Hye](https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1), [Budapest Scoring Orchestra and Choir](https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ) | [psalms](https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX) | 4:14 |
+| 94 | [his days are like a passing shadow I](https://open.spotify.com/track/5AVrdzGQuarou1dHpnqJqQ) | [jung jaeil](https://open.spotify.com/artist/34J5kKR5szbJ5fGK7f8HCU), [Jung Eun Hye](https://open.spotify.com/artist/616kilzy3c6aaHmiEoSrp1), [Budapest Scoring Orchestra and Choir](https://open.spotify.com/artist/3NZvimFMfoIm2D6SLCT8PJ) | [psalms](https://open.spotify.com/album/4Ktg38RHv8ILmXSjaQPqMX) | 4:14 |
+| 95 | [Camellia](https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl) | [YOONHAN](https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb) | [FLOWER](https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i) | 3:52 |
 | 96 | [Cello Forest](https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r) | [Hong Jin Ho](https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3) | [Dear Forest](https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3) | 5:48 |
 | 97 | [Adelaide from Lieder, Op\. 46 \(arr\. for Cello and Piano\)](https://open.spotify.com/track/6EcYdrzLVl1etzZi1ZQmaL) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Jungin Huh](https://open.spotify.com/artist/3fv9sMOO3fq2QIRaVUUqUd), [Ilya Rashkovskiy](https://open.spotify.com/artist/1IikLqDNOPysAueQHmo3CB) | [Beethoven: Variations for violoncello and piano](https://open.spotify.com/album/6Z2ijTdLp8dwoTV7JSRR77) | 5:29 |
 | 98 | [The Red String](https://open.spotify.com/track/5kyQ1Qio9GeYvsrPBxvqW8) | [Hyungjoo Lim](https://open.spotify.com/artist/7pvsiQmwTwKk08q7IIxAcG) | [Lost In Memory](https://open.spotify.com/album/4rGJEKeExXYuP5lCajYPwj) | 4:39 |

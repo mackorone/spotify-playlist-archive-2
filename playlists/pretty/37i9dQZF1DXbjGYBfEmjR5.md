@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,385 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,406 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 49 | [Together](https://open.spotify.com/track/0gmJDqUuSU5pU0OD9DqFs0) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [City Lights](https://open.spotify.com/album/27dA1TdxIKyh5ZOnsWTfEc) | 4:08 |
 | 50 | [Mode](https://open.spotify.com/track/6PiITaAN35MgWSGkcQUA7m) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1) | [Remember](https://open.spotify.com/album/3Z61l2s9c2dkb1OB8KwM3o) | 3:52 |
 | 51 | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/track/2b9lz2OVU8f8ka9tzpYPGS) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [TANUKI](https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8), [HITOMITOI](https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l) | [Neon Lightの夜 feat\. 一十三十一](https://open.spotify.com/album/0XK60Ar2z8sTqUvXY0CdHt) | 4:00 |
-| 52 | [Like My Love](https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe) | [Welcome To The Alley](https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH) | 2:41 |
+| 52 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
 | 53 | [Lovely Road](https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 1:43 |
-| 54 | [Glimmer](https://open.spotify.com/track/6vWZUOcDySwffRBcxlIFNr) | [AGST](https://open.spotify.com/artist/0P5MXX9jXK95yuTDArYkDI) | [Glimmer / Change](https://open.spotify.com/album/2UcHAnp1OwIJXJAIu1QhBC) | 3:35 |
+| 54 | [Like My Love](https://open.spotify.com/track/6rwRuX3PyCBnNZMLoSQp3j) | [Tsundere Alley](https://open.spotify.com/artist/00FQDX3bcsSTPlkBckHyQe) | [Welcome To The Alley](https://open.spotify.com/album/0GgCMNBTpn6NdwQIGJTAhH) | 2:41 |
 | 55 | [You Can't Run](https://open.spotify.com/track/6h0mHDcRBUbViG36YW0ujv) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB) | [You Can't Run](https://open.spotify.com/album/71XLVZtjVzsVGwL6VKckaf) | 3:21 |
 | 56 | [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 |
 | 57 | [Why Future Funk ROCKED in '17](https://open.spotify.com/track/2DpvKB5ac5w8PnMvpgRdy1) | [CHANCE デラソウル](https://open.spotify.com/artist/2hK0A1hY8plZiE4gQ0HAmh) | [Shine On](https://open.spotify.com/album/2cObnKKxgibtT4WW3WvDD4) | 2:53 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 69 | [Dance Tonite](https://open.spotify.com/track/0VPJHffNebAqAxnP2OJ6hu) | [Neon Vectors](https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X), [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow) | [Dance Tonite](https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW) | 3:30 |
 | 70 | [Facts](https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF) | [Sparkly Night](https://open.spotify.com/artist/7Emv7WrAiyGM2aqa9Lm0QN) | [MOTORWAY](https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ) | 2:38 |
 | 71 | [Ritmo.](https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY) | [Cape Coral](https://open.spotify.com/artist/38e0A9WK9vzXVSHfCmbFk6), [Android Apartment](https://open.spotify.com/artist/3PZDkvn9bDUKreyMfQeuCK) | [Slowed Midnight](https://open.spotify.com/album/6tluPSGSXrzFVEPvqXxeRP) | 2:35 |
-| 72 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
-| 73 | [Hollywood](https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH) | [LemKuuja](https://open.spotify.com/artist/3eMRhrlKRHoJGeDEivWLjX), [ロードスRhodes](https://open.spotify.com/artist/16kNuSeIUtQ30Bnl7tHBb0) | [CHEESECAKE+](https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO) | 4:19 |
+| 72 | [Hollywood](https://open.spotify.com/track/1tr1iSUzaqoxf8GjnG3XtH) | [LemKuuja](https://open.spotify.com/artist/3eMRhrlKRHoJGeDEivWLjX), [ロードスRhodes](https://open.spotify.com/artist/16kNuSeIUtQ30Bnl7tHBb0) | [CHEESECAKE+](https://open.spotify.com/album/2W1BtAraV5SGikigCgD8qO) | 4:19 |
+| 73 | [Shiny Shiny](https://open.spotify.com/track/0Ersp4nhXNxMIKlYAkEPl7) | [Pure Gem](https://open.spotify.com/artist/6ZB0nSi4RBQO8tX4KSlSuA) | [Pure Love](https://open.spotify.com/album/2bnfc2ulXOyxd1J2XCUdUt) | 2:21 |
 | 74 | [SAILORSATURDAYS](https://open.spotify.com/track/5bg67Ih7JzzmfrJZVx2zXC) | [Kokonoku](https://open.spotify.com/artist/5K61kNqfScq9HPn5FgsjSy) | [SAILORSATURDAYS](https://open.spotify.com/album/3WIYClNXR4haWaAOQs6KVM) | 4:00 |
 | 75 | [Tokyo City Nightlife \(feat\. Aritus\)](https://open.spotify.com/track/2UcHmNTQCb0GjmINRoUd6q) | [Macross 82\-99](https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow), [Aritus](https://open.spotify.com/artist/2D2Gu6CUdrRIvVCwvS9HgP) | [SAILORWAVE II](https://open.spotify.com/album/6BFdIbkDxDijg3utkOyEZB) | 2:44 |
 | 76 | [Nostalgic Love](https://open.spotify.com/track/03xrLbDBTxLPrJqM3RhIZd) | [Zai Kowen](https://open.spotify.com/artist/0Hoo2QCcZxJ8VOl53hr5AB) | [NeoGeo FM](https://open.spotify.com/album/4xZKSYeUXtFOGdc3tFSbg2) | 2:50 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 96 | [Chill City](https://open.spotify.com/track/0vx7rDY7DD44i5tFTMx0C9) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Videogame Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 7:24 |
 | 97 | [Bbrown](https://open.spotify.com/track/21JcSs9Zkdc2kuNzoLBcbz) | [BarbWalters](https://open.spotify.com/artist/5PyZeODg7q5TGXZfuQEcOj) | [Pleasure](https://open.spotify.com/album/0AMbhzgFEcmVj46N9TPGmU) | 3:38 |
 | 98 | [Sometime's He's Pretty](https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [ICE CREAM](https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF) | 2:41 |
-| 99 | [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 |
-| 100 | [Desolate](https://open.spotify.com/track/6ySdY0Ps0lKA6IfXpU0hy8) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Desolate](https://open.spotify.com/album/0waobASW8LPI2ddSKVkKJF) | 4:41 |
+| 99 | [Desolate](https://open.spotify.com/track/6ySdY0Ps0lKA6IfXpU0hy8) | [Sui Uzi](https://open.spotify.com/artist/6GPIPA04mp4YwJJ27zXmln) | [Desolate](https://open.spotify.com/album/0waobASW8LPI2ddSKVkKJF) | 4:41 |
+| 100 | [I Must Be Dreamin'](https://open.spotify.com/track/0c4B3vugfHDK23HL5hjvGb) | [Luanmer](https://open.spotify.com/artist/2OdUBrq8S4T9JBgdllvvuD), [サクラSAKURA\-LEE](https://open.spotify.com/artist/7JKnqDyLGxoq9k6WjT24oB) | [I Must Be Dreamin'](https://open.spotify.com/album/33RvNe28yAJFslxS7A9ons) | 3:43 |
 
 Snapshot ID: `AAAAAP23/dDsXYvu4DzKEyFGqhKoKMox`

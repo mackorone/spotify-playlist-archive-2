@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Tamil Hip-Hop!\nCover : Asal Kolaar",
+  "description": "Best of Tamil Hip-Hop!\nCover : Yung Raja",
   "name": "RAP 91 Tamil",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 181503,
       "name": "aadra",
       "url": "https://open.spotify.com/track/3fgLLbE7gvAsk6c3NpVxpm"
@@ -4318,7 +4318,7 @@
       ],
       "date_added": "2026-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 133980,
       "name": "Mic Off",
       "url": "https://open.spotify.com/track/0pMHHsKVnU9TxnXKg5mMkf"
@@ -6522,7 +6522,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 162328,
       "name": "Sambavam Seiven",
       "url": "https://open.spotify.com/track/21LLtI2GPMHt5YpFzHw4zh"
@@ -8147,6 +8147,32 @@
     },
     {
       "album": {
+        "name": "Toxic",
+        "url": "https://open.spotify.com/album/72YExBSF0owMg1x8lbdgGX"
+      },
+      "artists": [
+        {
+          "name": "Tenma",
+          "url": "https://open.spotify.com/artist/2DrwyYWGYEu3ULzRzEGajY"
+        },
+        {
+          "name": "Yasin Sherif",
+          "url": "https://open.spotify.com/artist/6NsZe3ft6JtmA5cy6K806h"
+        },
+        {
+          "name": "Nathania Ericka Thomas",
+          "url": "https://open.spotify.com/artist/44JgmiFgNRsJtxQWtr7qVY"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153053,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/3hEIGkt8Piu248Ed1a5ZU6"
+    },
+    {
+      "album": {
         "name": "Tribe",
         "url": "https://open.spotify.com/album/6HyV1qHnF60yJ6Wkwe0LJo"
       },
@@ -8446,6 +8472,28 @@
       "duration_ms": 209500,
       "name": "Vaathi Raid",
       "url": "https://open.spotify.com/track/4PML5RtrVcYAwTTS46otXB"
+    },
+    {
+      "album": {
+        "name": "Valentino Rose",
+        "url": "https://open.spotify.com/album/6j69LDDRW0lHZyrDBhnzxC"
+      },
+      "artists": [
+        {
+          "name": "Vivek Leo",
+          "url": "https://open.spotify.com/artist/7nyXMk3a3vruVCqXwtXDIy"
+        },
+        {
+          "name": "Laika Jamal",
+          "url": "https://open.spotify.com/artist/6j3Q8cauUMoJAGGTfdYShD"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125957,
+      "name": "Valentino Rose",
+      "url": "https://open.spotify.com/track/4bAJCFCzbso3m1chJYkVtP"
     },
     {
       "album": {

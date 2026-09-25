@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 
 > This is Infinity Song\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,047 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,050 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 7 | [Hater's Anthem](https://open.spotify.com/track/1wipegfMZkHgwyR3XMDuJ1) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 2:51 |
 | 8 | [Lotus](https://open.spotify.com/track/3kvvLQOwMYp6brLuZ0Wpco) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 3:52 |
 | 9 | [American Love Song](https://open.spotify.com/track/76KJbphpLSGbZTtWodvWiv) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 3:21 |
-| 10 | [Deja Vu](https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 3:08 |
+| 10 | [One Foot Out](https://open.spotify.com/track/6vN17zWkoRVfruu9JjUQox) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 2:44 |
 | 11 | [Slow Burn](https://open.spotify.com/track/5gUiI6bJSPcKM2lwRaLAgE) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis](https://open.spotify.com/album/49S75QQHzUjB8dWf2V6C77) | 3:21 |
 | 12 | [I Want You Back](https://open.spotify.com/track/3wk5UPZ5cVFD6rBpQsFQyD) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 3:02 |
 | 13 | [Cold Hands](https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 3:24 |
-| 14 | [One Foot Out](https://open.spotify.com/track/6vN17zWkoRVfruu9JjUQox) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 2:44 |
+| 14 | [Deja Vu](https://open.spotify.com/track/3EZYDNYoR4FjqSQB5gwkDk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [INFINITY SONG](https://open.spotify.com/album/3Soghp3FR1HNqmHjQktQT4) | 3:08 |
 | 15 | [London Foxes](https://open.spotify.com/track/66QxAmSRT2GKceep57uq2q) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [London Foxes](https://open.spotify.com/album/68TxnBCELiRWaCauc7NWgg) | 2:35 |
 | 16 | [The Sunshine](https://open.spotify.com/track/6iefEnldbME0ecUsWYgbgC) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Metamorphosis Complete](https://open.spotify.com/album/0mfdTcr1Y7vlMSXDpKAZ2G) | 3:54 |
 | 17 | [Strong](https://open.spotify.com/track/6MJXj7Wt2UTB7JZLUNaT8g) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 2:36 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 43 | [Dream Fighter](https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 6:06 |
 | 44 | [We Are The Light](https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:27 |
 
-Snapshot ID: `arHFAAAAAAB5ILq7Odc6S2EpPrPNgilS`
+Snapshot ID: `arMWgAAAAAApJL40Eqfm+REI/TbnV6JF`

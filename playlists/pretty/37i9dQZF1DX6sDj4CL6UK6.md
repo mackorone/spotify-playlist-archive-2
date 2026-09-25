@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > English songs from Indian artists.<br/>Cover: KAVYA & Goya
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,213 likes - 76 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,217 likes - 76 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 15 | [Too Much?](https://open.spotify.com/track/3paF4msOUqJzGjSthSHkmE) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Love or a Lesson](https://open.spotify.com/album/4bGWHsVCpGicKsEGqlrnqH) | 2:45 |
 | 16 | [I'm Coming Home](https://open.spotify.com/track/2jSzZzNlmi9kIh1QHGUYNg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [I'm Coming Home](https://open.spotify.com/album/0FBJyrE6rFKntb4lRDA9GA) | 2:45 |
 | 17 | [I'm Someone New](https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [I'm Someone New](https://open.spotify.com/album/5QwDXdYTzUiaY6geFpTgZX) | 4:13 |
-| 18 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 |
-| 19 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
+| 18 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
+| 19 | [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 |
 | 20 | [People Never Change \- Radio Edit](https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [People Never Change](https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR) | 2:45 |
 | 21 | [Student of Love](https://open.spotify.com/track/4LEhWsijtlLqwjctr2bsxx) | [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd) | [Student of Love](https://open.spotify.com/album/6NU9gREQED90QHgrTUZPRx) | 2:37 |
 | 22 | [NOT A ROCKSTAR](https://open.spotify.com/track/3A8cLBzIsB5iIr8Byu5eqE) | [Shikhar](https://open.spotify.com/artist/0P5toqZxqkmKyhFXYES2k9), [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [NOT A ROCKSTAR](https://open.spotify.com/album/2NrjqOYMj6FQzf7SwRg3IR) | 2:46 |

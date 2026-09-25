@@ -4,7 +4,7 @@
 
 > pov: minhas favs / Foto: ADÉLA
 
-647 songs - 1 day 10 hr 36 min
+648 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 | 2024-03-29 | 2024-05-03 |
 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 | 2022-10-14 | 2022-10-22 |
 | [I Roll My Eyes](https://open.spotify.com/track/3MgmGCYPqMIh8RVhlHmYRf) | [Ellen Krauss](https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh) | [I Roll My Eyes](https://open.spotify.com/album/0B9aMMr8XBcTwyyKGVNXeG) | 2:51 | 2026-09-05 |  |
-| [i think i'm addicted](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [i think i'm addicted](https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG) | 2:38 | 2026-01-26 |  |
+| [i think i'm addicted](https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ), [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [i think i'm addicted](https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG) | 2:38 | 2026-01-26 | 2026-09-25 |
 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 | 2026-01-26 | 2026-07-03 |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-20 | 2023-02-24 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2022-09-28 | 2023-05-06 |
@@ -370,6 +370,7 @@
 | [Maria Magdalena](https://open.spotify.com/track/2TVqEfs20W2rfg0EDAW1MD) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Irmãs de Pau](https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu) | [Maria Magdalena](https://open.spotify.com/album/1DKKKM3Xh5XxF6jrhyQMS8) | 2:36 | 2025-03-07 | 2025-04-05 |
 | [MATADORA](https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MATADORA](https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW) | 2:24 | 2026-07-27 |  |
 | [Me rendi ao love song](https://open.spotify.com/track/7CRsO8aLopgWGHjEygr6dF) | [Dri](https://open.spotify.com/artist/0ZS2ehyvFN05jP3MH25l4g) | [Me rendi ao love song](https://open.spotify.com/album/7bjW8HtQhukkVCX2DBJ98k) | 3:45 | 2022-05-06 | 2022-08-13 |
+| [Mercy](https://open.spotify.com/track/6cIa8qVgqDksyJxUwNT56T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Mercy](https://open.spotify.com/album/1aKNACxJIJD8o8j84vdqpm) | 3:10 | 2026-09-18 |  |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2024-12-27 | 2026-05-01 |
 | [meu romance](https://open.spotify.com/track/4r9uSrToSVxAgs9ElYwfeP) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [meu romance](https://open.spotify.com/album/5oQlhlDuDbXlp0go3eut4F) | 3:22 | 2022-06-10 | 2022-07-02 |
 | [MEXE](https://open.spotify.com/track/43x4drok2kDJqm9dgRr685) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [MEXE](https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX) | 2:26 | 2025-08-22 | 2025-10-11 |

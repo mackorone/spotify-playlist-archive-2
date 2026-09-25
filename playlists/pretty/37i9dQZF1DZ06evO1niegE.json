@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9335,
+  "num_followers": 9338,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABsLV1EoP8RYUEE2sflYPwp",
+  "snapshot_id": "arMWgAAAAADKeD9VKw0bW6IaGTgEK76w",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 181080,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
+      "duration_ms": 150773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
     },
     {
       "added_at": null,
@@ -192,9 +192,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 150773,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+      "duration_ms": 181080,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
     },
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 143173,
-      "name": "Si T\u00fa Quisieras",
-      "url": "https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ"
+      "duration_ms": 184200,
+      "name": "M\u00e1s All\u00e1",
+      "url": "https://open.spotify.com/track/4UoxQ5jKrS7aOsSsKGa9x4"
     },
     {
       "added_at": null,
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 184200,
-      "name": "M\u00e1s All\u00e1",
-      "url": "https://open.spotify.com/track/4UoxQ5jKrS7aOsSsKGa9x4"
+      "duration_ms": 143173,
+      "name": "Si T\u00fa Quisieras",
+      "url": "https://open.spotify.com/track/0stFNtovTjxUl4d6YS8iWQ"
     },
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 190053,
-      "name": "Casual (YTQDV)",
-      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bichota \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 157666,
       "name": "Bichota - Spotify Singles",
       "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 190053,
+      "name": "Casual (YTQDV)",
+      "url": "https://open.spotify.com/track/066m3O9KIzKNbIFGxnMTEU"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imperfecto",
-        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
-      },
-      "artists": [
-        {
-          "name": "Meri Deal",
-          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 181181,
-      "name": "Imperfecto",
-      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bye Boy",
         "url": "https://open.spotify.com/album/1bj0LT37coaDS7sBj6vICD"
       },
@@ -647,6 +627,26 @@
       "duration_ms": 178261,
       "name": "Bye Boy",
       "url": "https://open.spotify.com/track/4axPMdcoNP43Ofeg26e0Az"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imperfecto",
+        "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
+      },
+      "artists": [
+        {
+          "name": "Meri Deal",
+          "url": "https://open.spotify.com/artist/7zREGj8GMl9UrDa6NPLi0H"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 181181,
+      "name": "Imperfecto",
+      "url": "https://open.spotify.com/track/5V60OhB9WYqDhG8va96eCS"
     },
     {
       "added_at": null,
@@ -735,6 +735,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152050,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tiki Tai",
         "url": "https://open.spotify.com/album/2oDU6B51AlXlUm5DkoDcUu"
       },
@@ -755,22 +775,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecto",
-        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
+        "name": "Parece Un Chiste Con RENEE",
+        "url": "https://open.spotify.com/album/3SlWcRle7SqfiMXwrzOAK0"
       },
       "artists": [
         {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+          "name": "Estibaliz Badiola",
+          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 152050,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
+      "duration_ms": 149731,
+      "name": "Parece Un Chiste",
+      "url": "https://open.spotify.com/track/3FaN4AqtGkSMZQ1AzhEzev"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 290040,
+      "name": "La Buena Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
     },
     {
       "added_at": null,
@@ -795,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 290040,
-      "name": "La Buena Lecci\u00f3n",
-      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retrofuturismo",
         "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 176000,
       "name": "VHS",
       "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Parece Un Chiste Con RENEE",
-        "url": "https://open.spotify.com/album/3SlWcRle7SqfiMXwrzOAK0"
-      },
-      "artists": [
-        {
-          "name": "Estibaliz Badiola",
-          "url": "https://open.spotify.com/artist/2K9aaTemNAl94qdUvWoj1u"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 149731,
-      "name": "Parece Un Chiste",
-      "url": "https://open.spotify.com/track/3FaN4AqtGkSMZQ1AzhEzev"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 
 > De la vitamine D en musique!
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,880 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,883 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 53 | [Milano](https://open.spotify.com/track/6WT1AWBgI6DYbmkiWjfO8Q) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [Milano](https://open.spotify.com/album/6bBAtP09YBrPUH05JPNFYC) | 2:36 |
 | 54 | [Femme Like U](https://open.spotify.com/track/4iVnfuAmwJNAGsiHz8Po6Y) | [K.Maro](https://open.spotify.com/artist/1a2yfRvULXWkUSvxJbkw75) | [La Good Life](https://open.spotify.com/album/2eGMZPfsXT0YNlc1wOJVJJ) | 4:08 |
 | 55 | [Envolver](https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Envolver](https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7) | 3:13 |
-| 56 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
-| 57 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
+| 56 | [LATINA FOREVA](https://open.spotify.com/track/10MpBpx64MNixmUMNj7f6b) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [LATINA FOREVA](https://open.spotify.com/album/78F52tGWKs5rW8dzJWYjQT) | 2:39 |
+| 57 | [Carry On](https://open.spotify.com/track/5SHtU2P8fASB2tjdOh1jMc) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Carry On](https://open.spotify.com/album/5OJhuYB4q2uBULPe5Lof4g) | 2:48 |
 | 58 | [All I Ever Asked](https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [What A Devastating Turn of Events](https://open.spotify.com/album/1Td1oiZTQFYR7N1QX00uhr) | 3:37 |
 | 59 | [Born With a Broken Heart](https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6) | [Born With a Broken Heart](https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm) | 3:28 |
 | 60 | [Agitations tropicales](https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Odyssée \- EP](https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA) | 4:08 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 88 | [Last Girls At The Party](https://open.spotify.com/track/3T00vgU0eKHjHwrEM6BlUT) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Last Girls At The Party](https://open.spotify.com/album/1PST65sjjkEcFJnktmglWU) | 2:42 |
 | 89 | [Miami](https://open.spotify.com/track/5JgaSkvLDbERK7BkekoQi6) | [Ariane Moffatt](https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l) | [22h22](https://open.spotify.com/album/2HdjJqBfxdOKa4LHZB21X8) | 2:46 |
 | 90 | [Cinq à sept](https://open.spotify.com/track/6XS5Qi2wUMgj88QdBXx69B) | [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [La Nuit des Longs Couteaux](https://open.spotify.com/album/5bYvCCyPQ5D3PWDrapUymX) | 3:28 |
-| 91 | [Dépotoir](https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:10 |
-| 92 | [Flamme](https://open.spotify.com/track/0bFRxLr67t3gtavWOVr51y) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/7ftWS2YkyqOJvh602ob2l5) | 2:44 |
+| 91 | [Flamme](https://open.spotify.com/track/0bFRxLr67t3gtavWOVr51y) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Brûler le feu](https://open.spotify.com/album/7ftWS2YkyqOJvh602ob2l5) | 2:44 |
+| 92 | [Dépotoir](https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Grafignes](https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl) | 3:10 |
 | 93 | [Gayé](https://open.spotify.com/track/3vHnSDs9cgYtWBJg0VjE1z) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Plato Zay](https://open.spotify.com/album/1w538xCqUlw4J692Ychz3o) | 3:48 |
 | 94 | [Nouvelle\-Orléans](https://open.spotify.com/track/1CCKf8yGsKuVz5cgRwgShM) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Paradigmes](https://open.spotify.com/album/1u2Q5MFWptOdPpldjC0xO9) | 3:53 |
 | 95 | [Relationships](https://open.spotify.com/track/22Ui43i51sAALwtapObKmQ) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Relationships](https://open.spotify.com/album/4IveZaLBOjYALIg00gMVEK) | 3:22 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcEdamGPOi1T.md) - [plain]
 | 97 | [Fille de personne II](https://open.spotify.com/track/4lHLa0Z48pb3T7iuZ6T9xR) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj) | [Darlène](https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r) | 3:58 |
 | 98 | [Louxor j'adore](https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV) | [Philippe Katerine](https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e) | [Robots Après Tout](https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9) | 3:02 |
 | 99 | [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/track/2JZHtLw2uT5vWEhpFCBSv9) | [DJ LEWIS](https://open.spotify.com/artist/7tcmR6KRcQZL4qnA98Fide), [Daytona](https://open.spotify.com/artist/1PlwuAcoJeI5vcahZIkeHC), [NAIIM](https://open.spotify.com/artist/4y7ZnYVLA3k3efItckQfuF) | [My Motivation \(feat\. NAIIM\)](https://open.spotify.com/album/2S0fAWBZHxr1QG2BwGD4Yf) | 2:28 |
-| 100 | [Madame](https://open.spotify.com/track/0K9EmVgpvkteeQwzhmb4oM) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Madame](https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P) | 1:58 |
+| 100 | [Pardon Maman](https://open.spotify.com/track/4G5w7H0JSDIpGHo4xoUTRN) | [Bamby](https://open.spotify.com/artist/1fuooeJa0UywkC89lN5tl6) | [Pardon Maman](https://open.spotify.com/album/41uud6lHFFsOQxf7ttDs0C) | 2:20 |
 
 Snapshot ID: `AAAAAG7p7L3OtXxDtnUOM5vZ0ahUr4L2`

@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 175746,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
@@ -488,6 +488,28 @@
       "duration_ms": 230000,
       "name": "Agtergelaat",
       "url": "https://open.spotify.com/track/09Qgw5YbAg6lGejFfQDDHO"
+    },
+    {
+      "album": {
+        "name": "Aksie Braai",
+        "url": "https://open.spotify.com/album/5wW3FOc9GTmnFTU736pV03"
+      },
+      "artists": [
+        {
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Hunter Kennedy",
+          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181888,
+      "name": "Aksie Braai",
+      "url": "https://open.spotify.com/track/52YuMNXCzmAPxFIh9d8aNc"
     },
     {
       "album": {
@@ -4208,7 +4230,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178813,
       "name": "Doen Sy Bes",
       "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
@@ -6216,7 +6238,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 184682,
       "name": "GIZMO",
       "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
@@ -7524,6 +7546,24 @@
       "duration_ms": 158769,
       "name": "HOT MESS",
       "url": "https://open.spotify.com/track/1xElbCKrvNeTZGag0K9eea"
+    },
+    {
+      "album": {
+        "name": "Hou Aan Droom",
+        "url": "https://open.spotify.com/album/6poXtmmzC8wfOSNe2LmO2i"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Hou Aan Droom",
+      "url": "https://open.spotify.com/track/0mwBPej1O7NKAfkytU8eCX"
     },
     {
       "album": {
@@ -9394,7 +9434,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 166531,
       "name": "LEWE",
       "url": "https://open.spotify.com/track/5OcPA6RnXawZZoNK0ytZxn"
@@ -14451,6 +14491,24 @@
     },
     {
       "album": {
+        "name": "Song Agt",
+        "url": "https://open.spotify.com/album/5zp2MGl8pjOvx33Hr7mkGR"
+      },
+      "artists": [
+        {
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147006,
+      "name": "Song Agt",
+      "url": "https://open.spotify.com/track/4aBQmU3t3Da7iP7C3bR7I0"
+    },
+    {
+      "album": {
         "name": "Sonkring",
         "url": "https://open.spotify.com/album/6smVk84yrQG8uHXZ7edWgb"
       },
@@ -15223,6 +15281,24 @@
     },
     {
       "album": {
+        "name": "Sweef",
+        "url": "https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1"
+      },
+      "artists": [
+        {
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205032,
+      "name": "Sweef",
+      "url": "https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24"
+    },
+    {
+      "album": {
         "name": "Swine Tooth Grin",
         "url": "https://open.spotify.com/album/6TdwPkCuK3VjO11HRwJIqT"
       },
@@ -15522,7 +15598,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 194960,
       "name": "Te Laat",
       "url": "https://open.spotify.com/track/5ENiSln8SCxWQLvRltWgAJ"
@@ -16615,6 +16691,24 @@
     },
     {
       "album": {
+        "name": "Twisted By The Sound",
+        "url": "https://open.spotify.com/album/3RYoTkgyhZuKT8otm9DM6H"
+      },
+      "artists": [
+        {
+          "name": "The Medicine Dolls",
+          "url": "https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169280,
+      "name": "Twisted By The Sound",
+      "url": "https://open.spotify.com/track/5SQu1E9ACvBeqLxb04224Z"
+    },
+    {
+      "album": {
         "name": "Klein W\u00eareld",
         "url": "https://open.spotify.com/album/1GH5KV0DZzHDTPgf4UTs9A"
       },
@@ -17020,7 +17114,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 135272,
       "name": "Verloor Jouself",
       "url": "https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4"
@@ -17330,7 +17424,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 235568,
       "name": "Vriende",
       "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"

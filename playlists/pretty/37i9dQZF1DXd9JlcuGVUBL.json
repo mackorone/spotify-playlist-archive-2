@@ -1,29 +1,13 @@
 {
-  "description": "Die beste country musiek. Omslag: Cordelia",
-  "num_followers": 44938,
+  "description": "Die beste country musiek. Omslag: Glen Rozi en Bernice Armstrong",
+  "num_followers": 44946,
   "original_name": "Country Musiek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMS7ZwOtGH6g7WfzoSFgr1jR8ktu",
+  "snapshot_id": "AAAAAF06ouKjM8SbKUUIUADaWs7v8yq7",
   "tracks": [
-    {
-      "added_at": "2026-08-27 22:01:31",
-      "album": {
-        "name": "Country Heart",
-        "url": "https://open.spotify.com/album/13RpLXUx0dTQlrdWnYoDL5"
-      },
-      "artists": [
-        {
-          "name": "Cordelia",
-          "url": "https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN"
-        }
-      ],
-      "duration_ms": 123377,
-      "name": "Country Heart",
-      "url": "https://open.spotify.com/track/6E5BLRcbvHrC9MBrxPTKEX"
-    },
     {
       "added_at": "2026-07-30 22:01:24",
       "album": {
@@ -61,6 +45,26 @@
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
     },
     {
+      "added_at": "2026-09-24 22:01:38",
+      "album": {
+        "name": "The Price",
+        "url": "https://open.spotify.com/album/7Jc8Lo8wg6ToEeAzRUd3Sy"
+      },
+      "artists": [
+        {
+          "name": "Glen Rozi",
+          "url": "https://open.spotify.com/artist/6Liu3EYo1uZ0lSaolz8y7n"
+        },
+        {
+          "name": "Bernice Armstrong",
+          "url": "https://open.spotify.com/artist/1zIC565tMx2ZBPTQIGGJth"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "The Price",
+      "url": "https://open.spotify.com/track/60WQVksCK4VKJk9dS6vYH0"
+    },
+    {
       "added_at": "2026-04-17 10:59:38",
       "album": {
         "name": "Gettin' Old",
@@ -75,6 +79,58 @@
       "duration_ms": 265284,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
+    },
+    {
+      "added_at": "2026-09-24 22:01:38",
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/5oBdk7G0TYd8Xqd6RxkuvR"
+      },
+      "artists": [
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "duration_ms": 178828,
+      "name": "I Had Some Help",
+      "url": "https://open.spotify.com/track/0XYZt2fZku8L3QEHBKyROB"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "I\u2019m The Problem",
+        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 184517,
+      "name": "What I Want (feat. Tate McRae)",
+      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -95,6 +151,38 @@
     {
       "added_at": "2026-04-17 10:59:38",
       "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "added_at": "2026-08-20 22:01:15",
+      "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/28ukIB4sEoUaeSG7b8b6Ht"
+      },
+      "artists": [
+        {
+          "name": "Chris Else",
+          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
+        }
+      ],
+      "duration_ms": 251481,
+      "name": "Gratitude",
+      "url": "https://open.spotify.com/track/0nOqC7HE2ahBAfM18OZvhj"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },
@@ -107,6 +195,22 @@
       "duration_ms": 238146,
       "name": "Chicken Fried",
       "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "Pink Skies",
+        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 194920,
+      "name": "Pink Skies",
+      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
     },
     {
       "added_at": "2026-08-27 22:01:31",
@@ -135,74 +239,6 @@
     {
       "added_at": "2026-04-17 10:59:38",
       "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
-        "name": "I\u2019m The Problem",
-        "url": "https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 184517,
-      "name": "What I Want (feat. Tate McRae)",
-      "url": "https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP"
-    },
-    {
-      "added_at": "2026-08-20 22:01:15",
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/28ukIB4sEoUaeSG7b8b6Ht"
-      },
-      "artists": [
-        {
-          "name": "Chris Else",
-          "url": "https://open.spotify.com/artist/0RfGDCR6iUaAP2h3BxNHjP"
-        }
-      ],
-      "duration_ms": 251481,
-      "name": "Gratitude",
-      "url": "https://open.spotify.com/track/0nOqC7HE2ahBAfM18OZvhj"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
-        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 210950,
-      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
-      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
@@ -215,42 +251,6 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
-        "name": "Pink Skies",
-        "url": "https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "Pink Skies",
-      "url": "https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7"
-    },
-    {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
-        "name": "Restless Mind",
-        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
-      },
-      "artists": [
-        {
-          "name": "Sam Barber",
-          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
-        },
-        {
-          "name": "Avery Anna",
-          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
-        }
-      ],
-      "duration_ms": 286634,
-      "name": "Indigo (feat. Avery Anna)",
-      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
       "added_at": "2026-08-20 22:01:15",
@@ -271,6 +271,26 @@
       "duration_ms": 175450,
       "name": "Across the River (feat. Reese Wynans) - Live",
       "url": "https://open.spotify.com/track/2aKynFKKSAxIf0BdMQJRwy"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "Restless Mind",
+        "url": "https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        },
+        {
+          "name": "Avery Anna",
+          "url": "https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D"
+        }
+      ],
+      "duration_ms": 286634,
+      "name": "Indigo (feat. Avery Anna)",
+      "url": "https://open.spotify.com/track/1KZG1H1OCugGqIRmk1wF9m"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -329,22 +349,6 @@
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
     },
     {
-      "added_at": "2026-04-17 10:59:38",
-      "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
       "added_at": "2026-07-30 22:01:24",
       "album": {
         "name": "Rain On Me",
@@ -359,6 +363,22 @@
       "duration_ms": 208421,
       "name": "Rain On Me",
       "url": "https://open.spotify.com/track/109zzm19jWy5QiAVBTIYN0"
+    },
+    {
+      "added_at": "2026-04-17 10:59:38",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
     },
     {
       "added_at": "2026-04-17 10:59:38",
@@ -379,22 +399,6 @@
       "duration_ms": 167480,
       "name": "Buy Dirt",
       "url": "https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60"
-    },
-    {
-      "added_at": "2026-08-27 22:01:31",
-      "album": {
-        "name": "Choosin' Texas",
-        "url": "https://open.spotify.com/album/5ulLgaXSGELJRGFsO8p2pZ"
-      },
-      "artists": [
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        }
-      ],
-      "duration_ms": 421269,
-      "name": "Choosin' Texas",
-      "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
     },
     {
       "added_at": "2026-07-30 22:01:24",
@@ -431,18 +435,18 @@
     {
       "added_at": "2026-08-27 22:01:31",
       "album": {
-        "name": "You're So Vain - Spotify Singles",
-        "url": "https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml"
+        "name": "Country Heart",
+        "url": "https://open.spotify.com/album/13RpLXUx0dTQlrdWnYoDL5"
       },
       "artists": [
         {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+          "name": "Cordelia",
+          "url": "https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN"
         }
       ],
-      "duration_ms": 288707,
-      "name": "You're So Vain - Spotify Singles",
-      "url": "https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ"
+      "duration_ms": 123377,
+      "name": "Country Heart",
+      "url": "https://open.spotify.com/track/6E5BLRcbvHrC9MBrxPTKEX"
     },
     {
       "added_at": "2026-04-17 10:59:38",

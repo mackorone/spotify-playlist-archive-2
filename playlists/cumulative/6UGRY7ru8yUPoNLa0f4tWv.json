@@ -339,6 +339,24 @@
     },
     {
       "album": {
+        "name": "Choosin' Texas",
+        "url": "https://open.spotify.com/album/7vTvxY8j1EKag8mR34t6c4"
+      },
+      "artists": [
+        {
+          "name": "MEZIAH",
+          "url": "https://open.spotify.com/artist/1Bp66CqgKU6Ncq6WoGd6CY"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108568,
+      "name": "Choosin' Texas",
+      "url": "https://open.spotify.com/track/4FMh9dl1jCVLydexk4UBm8"
+    },
+    {
+      "album": {
         "name": "Come Running 2022 (DS VIP)",
         "url": "https://open.spotify.com/album/7KsfwXLWFLLw6c4MSVQ3Im"
       },
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 154340,
       "name": "Love Shy",
       "url": "https://open.spotify.com/track/0KQbTTVwvv4EiNMUTIYQeM"
@@ -1298,7 +1316,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 142000,
       "name": "ME & U",
       "url": "https://open.spotify.com/track/6mMLCV18JarTaXas6zZ7Dz"

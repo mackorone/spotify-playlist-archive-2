@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Annakili (From - Tamizh Kirukkan)",
+        "url": "https://open.spotify.com/album/5xLmWy3CAnt0PLm83rlOeo"
+      },
+      "artists": [
+        {
+          "name": "Vaaheesan Rasaiya",
+          "url": "https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Annakili - From - Tamizh Kirukkan",
+      "url": "https://open.spotify.com/track/0V0C9pofS9nvn0EGU5kgfE"
+    },
+    {
+      "album": {
         "name": "Annakkiliye - Giant Music India - Originals",
         "url": "https://open.spotify.com/album/20jo4olA3JTth10K4pRDU5"
       },
@@ -2660,7 +2678,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 185806,
       "name": "Decadence",
       "url": "https://open.spotify.com/track/3sc9YTUagSYEDhXSnzZln2"
@@ -2962,7 +2980,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 194000,
       "name": "Down",
       "url": "https://open.spotify.com/track/4FhXNSst841JP0C3z1jdbe"
@@ -5570,7 +5588,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 215737,
       "name": "Kaalam Thaandi",
       "url": "https://open.spotify.com/track/25RJWsx5213PQNXXa7vwPq"
@@ -5868,6 +5886,28 @@
       "duration_ms": 286666,
       "name": "Kadalora Kavidhai",
       "url": "https://open.spotify.com/track/4OpEEHX7cOWneBcvhQxVD5"
+    },
+    {
+      "album": {
+        "name": "Kadaloram",
+        "url": "https://open.spotify.com/album/3OyrERc9er1wy2zWbSamui"
+      },
+      "artists": [
+        {
+          "name": "Amos Paul",
+          "url": "https://open.spotify.com/artist/4mCA5AJnvdiCiKB6Rk8ne9"
+        },
+        {
+          "name": "Selojan",
+          "url": "https://open.spotify.com/artist/3LarUwOHm8HD027JGUMJwU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211017,
+      "name": "Kadaloram",
+      "url": "https://open.spotify.com/track/1mf8GPpdVh8477VbutgIOE"
     },
     {
       "album": {
@@ -7190,7 +7230,7 @@
       ],
       "date_added": "2026-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 211898,
       "name": "Kannoram",
       "url": "https://open.spotify.com/track/3CeppWNvyYTfNkq1WpDMXO"
@@ -11696,6 +11736,24 @@
       "duration_ms": 102509,
       "name": "On Air",
       "url": "https://open.spotify.com/track/3LI5iF14x57wIfyhTpC3S4"
+    },
+    {
+      "album": {
+        "name": "On Kanna Vachi",
+        "url": "https://open.spotify.com/album/4nAklZvH1ve1etMqnD4UlO"
+      },
+      "artists": [
+        {
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208499,
+      "name": "On Kanna Vachi",
+      "url": "https://open.spotify.com/track/5gQ8TcvVGGMLrcUsJmN6v3"
     },
     {
       "album": {
@@ -16770,6 +16828,24 @@
       "duration_ms": 165652,
       "name": "Unna Pathen",
       "url": "https://open.spotify.com/track/1vzMSXTwhOSU8yTAPAhL53"
+    },
+    {
+      "album": {
+        "name": "Unnaaleyy",
+        "url": "https://open.spotify.com/album/6cYhWi22Cq8svdToXnlBXl"
+      },
+      "artists": [
+        {
+          "name": "Saurav Srisan",
+          "url": "https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143142,
+      "name": "Unnaaleyy",
+      "url": "https://open.spotify.com/track/0y8gXXNL3aB1w8d3RCKae9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 
 > This is Nina Simone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,699 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 510,718 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,12 +36,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 26 | [Take Care Of Business](https://open.spotify.com/track/2YwjSPeznyCvkUYvqKbXa9) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:05 |
 | 27 | [Since I Fell for You](https://open.spotify.com/track/0S8wQT9YkE41gHIGwXvgep) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:50 |
 | 28 | [Trouble In Mind](https://open.spotify.com/track/1MBgXSmV94CZZT2dXyctBb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 2:40 |
-| 29 | [See\-Line Woman \- Mochakk Mix](https://open.spotify.com/track/3kVHlBlzIZP2kuqWMYhv3B) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [See\-Line Woman \(Mochakk Mix\)](https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV) | 4:48 |
-| 30 | [Plain Gold Ring \(2013 \- Remaster\)](https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:48 |
+| 29 | [Plain Gold Ring \(2013 \- Remaster\)](https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 3:48 |
+| 30 | [See\-Line Woman \- Mochakk Mix](https://open.spotify.com/track/3kVHlBlzIZP2kuqWMYhv3B) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [See\-Line Woman \(Mochakk Mix\)](https://open.spotify.com/album/5LlU02DzqhgFNDIbPfSxXV) | 4:48 |
 | 31 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 |
 | 32 | [My Way](https://open.spotify.com/track/2Yg4GGGKqGwoqM5OgdhpAj) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 5:14 |
-| 33 | [Work Song \- Antdot Remix](https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Work Song \(Antdot Remix\)](https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI) | 3:38 |
-| 34 | [He Needs Me \(2013 \- Remaster\)](https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 2:29 |
+| 33 | [He Needs Me \(2013 \- Remaster\)](https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 \- Remaster\)](https://open.spotify.com/album/01NGiVifTgrJzdwtgHyfU3) | 2:29 |
+| 34 | [Work Song \- Antdot Remix](https://open.spotify.com/track/07sLGxT6i39BRp26pTSIkg) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx) | [Work Song \(Antdot Remix\)](https://open.spotify.com/album/4rtLeriOTnRjTePF31HuUI) | 3:38 |
 | 35 | [Ain't Got No \- I Got Life \- Single Version](https://open.spotify.com/track/25MNMuaD4EfXeEPqzJ236F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:56 |
 | 36 | [Lilac Wine](https://open.spotify.com/track/3Hi4KlRtdgJbyIUpeFBckY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Wild Is The Wind](https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr) | 4:13 |
 | 37 | [Tell It Like It Is](https://open.spotify.com/track/30N5YD1KEtQM2dajFWb0TH) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Here Comes The Sun \(Expanded Edition\)](https://open.spotify.com/album/3bm8jq96m8I1FZc8BsfG8g) | 3:51 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xXdS0.md) - [plain]
 | 47 | [You've Got To Learn](https://open.spotify.com/track/5mUuJ9ho28WRUv03odBCBb) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:40 |
 | 48 | [Turn Me On](https://open.spotify.com/track/5TX08awwAs7EHiUAZot3UM) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Silk & Soul \(Expanded Edition\)](https://open.spotify.com/album/2miVfa78vOd0o8Vbsgd7g3) | 2:24 |
 | 49 | [Funkier Than a Mosquito's Tweeter](https://open.spotify.com/track/5wBi26umb4oxXLmpJ32BWV) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [It Is Finished \(Expanded Edition\)](https://open.spotify.com/album/5rzptvCrGaKKR0vT49BHYk) | 5:20 |
-| 50 | [I Think It's Going to Rain Today](https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone & Piano \(Expanded Edition\)](https://open.spotify.com/album/24tZ7QTxEKZ6aZOCP1uBMM) | 3:20 |
+| 50 | [No Woman, No Cry \- Outtake](https://open.spotify.com/track/3SmTSujkbFtr7OKhHhheQi) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [A Single Woman \(Expanded\)](https://open.spotify.com/album/5pSGlGB1DVrSlvQBcvlPyB) | 3:15 |
 
-Snapshot ID: `arHFAAAAAACuMuP+qv5mq0pjB8/xUtR/`
+Snapshot ID: `arMWgAAAAABH2Y7iOJrBpLSEo1rLqkdF`

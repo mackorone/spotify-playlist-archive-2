@@ -3806,7 +3806,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 196779,
       "name": "DM",
       "url": "https://open.spotify.com/track/1PJoJPFAgO9W0xfCpxaG3D"
@@ -19593,6 +19593,24 @@
     },
     {
       "album": {
+        "name": "Stereot",
+        "url": "https://open.spotify.com/album/1BtRv6Y4dlPq3TaTmjzK5N"
+      },
+      "artists": [
+        {
+          "name": "Efka Crush",
+          "url": "https://open.spotify.com/artist/7F5rSmDXew3j6VX4e60dJF"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247741,
+      "name": "Stereot",
+      "url": "https://open.spotify.com/track/3FhY15yjub9sIofJK5nHFk"
+    },
+    {
+      "album": {
         "name": "Sticky Fingers",
         "url": "https://open.spotify.com/album/1ePJSgvvAndnUWpkHKg7p9"
       },
@@ -21236,7 +21254,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 247700,
       "name": "The Weight of the World",
       "url": "https://open.spotify.com/track/7n61Rue9o6zC0ktHSAErZV"
@@ -24794,6 +24812,28 @@
       "duration_ms": 192656,
       "name": "\u00c4iti \u00c4l\u00e4 Huoli",
       "url": "https://open.spotify.com/track/25mu4aiASODLDGYi7comEJ"
+    },
+    {
+      "album": {
+        "name": "Pullomeri",
+        "url": "https://open.spotify.com/album/5ol0SGEohvaATPsXY3bQ1V"
+      },
+      "artists": [
+        {
+          "name": "P\u00e4k\u00e4",
+          "url": "https://open.spotify.com/artist/4xrzA9GQLSSuQ9fKqHd0SE"
+        },
+        {
+          "name": "PETRELL",
+          "url": "https://open.spotify.com/artist/0AaCEhTBpPWnfVNK4kLiYS"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169746,
+      "name": "\u00c4l\u00e4 lannistu",
+      "url": "https://open.spotify.com/track/50OEJKYCC6Z8bF2c8TyIs4"
     },
     {
       "album": {

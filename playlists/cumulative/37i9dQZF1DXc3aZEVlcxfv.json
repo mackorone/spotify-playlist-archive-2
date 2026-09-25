@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 657912,
       "name": "Big God",
       "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
@@ -1948,7 +1948,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 204094,
       "name": "Capable God",
       "url": "https://open.spotify.com/track/25sRKHPOYj8XsDXbxxdx3y"
@@ -7172,6 +7172,24 @@
       "duration_ms": 276650,
       "name": "JESUS - Acoustic Version",
       "url": "https://open.spotify.com/track/697RxMNB5lPeOqASJ8a9Um"
+    },
+    {
+      "album": {
+        "name": "JESUS I LOVE YOU",
+        "url": "https://open.spotify.com/album/5EfiwoRRhhViVNTp3IgBvA"
+      },
+      "artists": [
+        {
+          "name": "Chizie",
+          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
+        }
+      ],
+      "date_added": "2026-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162946,
+      "name": "JESUS I LOVE YOU",
+      "url": "https://open.spotify.com/track/5tY1rYMBz0luUN6ExNiw6Y"
     },
     {
       "album": {
@@ -13140,7 +13158,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 497779,
       "name": "We Worship You",
       "url": "https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r"

@@ -3541,6 +3541,28 @@
     },
     {
       "album": {
+        "name": "Quien Te Dijo & Te Pido Que la Dejes",
+        "url": "https://open.spotify.com/album/1Rhpn7CW1TbHCP5zkB1XyU"
+      },
+      "artists": [
+        {
+          "name": "Maty y Emma Cisneros",
+          "url": "https://open.spotify.com/artist/0YYCNponwayrGtbh4Bz6C7"
+        },
+        {
+          "name": "Los MYE Cisneros",
+          "url": "https://open.spotify.com/artist/2WJFH6DvBGqoNKmhS5OFPp"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133875,
+      "name": "Quien Te Dijo",
+      "url": "https://open.spotify.com/track/2f0iAeCp3OC7CRWD756MjF"
+    },
+    {
+      "album": {
         "name": "Qui\u00e9reme (Capaz de Tudo)",
         "url": "https://open.spotify.com/album/52yJUnLTzlHqRsOPIyumhS"
       },

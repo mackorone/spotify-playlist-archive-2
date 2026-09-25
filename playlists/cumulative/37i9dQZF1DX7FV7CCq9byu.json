@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "120-s\u00e4ng",
+        "url": "https://open.spotify.com/album/5YPkGnfwd6g6CeoTGVVuCh"
+      },
+      "artists": [
+        {
+          "name": "Eah J\u00e9",
+          "url": "https://open.spotify.com/artist/01FFlOpQoTLXIBTp0p9MEc"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224500,
+      "name": "120-s\u00e4ng",
+      "url": "https://open.spotify.com/track/7D3ZwUS3PsFtOIk5pifgvy"
+    },
+    {
+      "album": {
         "name": "2 hands",
         "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
       },
@@ -1601,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "anledningar",
+        "url": "https://open.spotify.com/album/56CXQTovrsKrczLTm3G3Ca"
+      },
+      "artists": [
+        {
+          "name": "INOMI",
+          "url": "https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214087,
+      "name": "anledningar",
+      "url": "https://open.spotify.com/track/32UZ4g1g3fdiN7qm97s1Uk"
+    },
+    {
+      "album": {
         "name": "announcements",
         "url": "https://open.spotify.com/album/1iT03F2biHT5gNT9rCw7Fs"
       },
@@ -2719,6 +2755,24 @@
     },
     {
       "album": {
+        "name": "Bara idioter",
+        "url": "https://open.spotify.com/album/7APzv34pRFOSUqXIPRnYra"
+      },
+      "artists": [
+        {
+          "name": "Ella Tiritiello",
+          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124184,
+      "name": "Bara idioter",
+      "url": "https://open.spotify.com/track/4CRDU0FEaoCGsuoPXnSPmf"
+    },
+    {
+      "album": {
         "name": "Du & jag & mera tid",
         "url": "https://open.spotify.com/album/5DoYxoIibcFRIraBQ8TGQ6"
       },
@@ -3114,7 +3168,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 234573,
       "name": "being alive",
       "url": "https://open.spotify.com/track/0HpfpgmT2m3E0bcGkuVcVY"
@@ -5691,6 +5745,24 @@
     },
     {
       "album": {
+        "name": "Illuminate (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/33NdfsbflGrwmKRMBq16Oz"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244700,
+      "name": "Cold In California (2016 Demo)",
+      "url": "https://open.spotify.com/track/4A22LWVkhCKE7DvcRCfMdJ"
+    },
+    {
+      "album": {
         "name": "Color",
         "url": "https://open.spotify.com/album/0K6D8Qtm7XGmRn2RLcGiWp"
       },
@@ -6342,6 +6414,28 @@
       "duration_ms": 235771,
       "name": "Danceteria",
       "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
+    },
+    {
+      "album": {
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
     },
     {
       "album": {
@@ -7758,6 +7852,24 @@
       "duration_ms": 165733,
       "name": "DON'T WANNA",
       "url": "https://open.spotify.com/track/5hplO2Sk1SaZgSaR05m6Nn"
+    },
+    {
+      "album": {
+        "name": "Don't Wish You Well",
+        "url": "https://open.spotify.com/album/1lXzxwXWPaGerts26NjAiZ"
+      },
+      "artists": [
+        {
+          "name": "Lennixx",
+          "url": "https://open.spotify.com/artist/0hdACQBYpPV7hL1VBEmHH6"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172386,
+      "name": "Don't Wish You Well",
+      "url": "https://open.spotify.com/track/3s8poasyHhFosMWpqjENtB"
     },
     {
       "album": {
@@ -15183,6 +15295,24 @@
     },
     {
       "album": {
+        "name": "I Don't Have Any Problems",
+        "url": "https://open.spotify.com/album/0U4GusNemic0pIDqPiFmuj"
+      },
+      "artists": [
+        {
+          "name": "Olga Myko",
+          "url": "https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123493,
+      "name": "I Don't Have Any Problems",
+      "url": "https://open.spotify.com/track/28lnAZtEMdyBW3IWYsqko5"
+    },
+    {
+      "album": {
         "name": "I Don't Wanna Talk",
         "url": "https://open.spotify.com/album/5lQljp3QFWHdAeAZHwFOvK"
       },
@@ -15766,6 +15896,24 @@
       "duration_ms": 175339,
       "name": "I Wonder",
       "url": "https://open.spotify.com/track/2ba36qIBKEl9TYOAPdYuvB"
+    },
+    {
+      "album": {
+        "name": "I Won't Cry",
+        "url": "https://open.spotify.com/album/06mN2pGUc6dylBWpLSl4Wo"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260146,
+      "name": "I Won\u2019t Cry",
+      "url": "https://open.spotify.com/track/1FP6gZVvRnvFkaFhgfGYBT"
     },
     {
       "album": {
@@ -16948,6 +17096,24 @@
       "duration_ms": 169687,
       "name": "Jack & Coke",
       "url": "https://open.spotify.com/track/3zXXeMCgfZKj7OHEzoCuqh"
+    },
+    {
+      "album": {
+        "name": "Jag beh\u00f6ver att du beh\u00f6ver mig",
+        "url": "https://open.spotify.com/album/1m3CmtyA3cr2DRt2Aei7KV"
+      },
+      "artists": [
+        {
+          "name": "ASSO",
+          "url": "https://open.spotify.com/artist/2HOvLqcKXVJygYMDmX8wFs"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174062,
+      "name": "Jag beh\u00f6ver att du beh\u00f6ver mig",
+      "url": "https://open.spotify.com/track/2RiAxZWgy8dq5gB87VpAbB"
     },
     {
       "album": {
@@ -19200,6 +19366,24 @@
       "duration_ms": 151794,
       "name": "Love",
       "url": "https://open.spotify.com/track/0QJwHsJO0RXWj0D3bJ9kpm"
+    },
+    {
+      "album": {
+        "name": "Love = Art",
+        "url": "https://open.spotify.com/album/6BXl3jVVPoaoqPMqY4otjX"
+      },
+      "artists": [
+        {
+          "name": "Greczula",
+          "url": "https://open.spotify.com/artist/13NMzn27VInG00ibGr91Z4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199507,
+      "name": "Love = Art",
+      "url": "https://open.spotify.com/track/1tWIQ6HgVTfQFD1f5WiiIc"
     },
     {
       "album": {
@@ -22736,6 +22920,28 @@
       "duration_ms": 147394,
       "name": "New York Confident",
       "url": "https://open.spotify.com/track/5cILqtT5F6B35u7sawG9FR"
+    },
+    {
+      "album": {
+        "name": "Next Mistake",
+        "url": "https://open.spotify.com/album/1kIWnDOZRNewczALBxblcI"
+      },
+      "artists": [
+        {
+          "name": "Winona Oak",
+          "url": "https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1"
+        },
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191699,
+      "name": "Next Mistake",
+      "url": "https://open.spotify.com/track/3I9KhjtlajuSoCbeERJhBk"
     },
     {
       "album": {
@@ -27437,6 +27643,28 @@
     },
     {
       "album": {
+        "name": "Groove Therapy",
+        "url": "https://open.spotify.com/album/3xSvgav5fUUTKYFTLk9gMb"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        },
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166841,
+      "name": "She\u2019s Gonna Break My Heart",
+      "url": "https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3"
+    },
+    {
+      "album": {
         "name": "She\u2019s the Best",
         "url": "https://open.spotify.com/album/46RpDXDGV1091r0rLvPh93"
       },
@@ -29788,7 +30016,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 138586,
       "name": "Still Your Girl",
       "url": "https://open.spotify.com/track/7bUJheWqcbuEkjih2MHrJe"
@@ -30580,6 +30808,24 @@
       "duration_ms": 149610,
       "name": "Superman",
       "url": "https://open.spotify.com/track/5c9RMGr7zFWpMrJJ1KsOJX"
+    },
+    {
+      "album": {
+        "name": "Superman (feat. Pontus)",
+        "url": "https://open.spotify.com/album/2g4pbtA9omzcd8zxvWF2O4"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167964,
+      "name": "Superman (feat. Pontus)",
+      "url": "https://open.spotify.com/track/47XWjDpf3JyAs6GIks6qIB"
     },
     {
       "album": {
@@ -32036,7 +32282,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 233533,
       "name": "the bridge",
       "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
@@ -33439,6 +33685,24 @@
     },
     {
       "album": {
+        "name": "More Water Than Anything",
+        "url": "https://open.spotify.com/album/32x9YOWWj9zqg2hqyWFhPM"
+      },
+      "artists": [
+        {
+          "name": "GERD",
+          "url": "https://open.spotify.com/artist/1deUwYFF6apHHvv4p3wCjr"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/3juxxdQ5TckAecsfNgML9J"
+    },
+    {
+      "album": {
         "name": "TRAFIK!",
         "url": "https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB"
       },
@@ -34134,6 +34398,24 @@
       "duration_ms": 154625,
       "name": "Underbart",
       "url": "https://open.spotify.com/track/4Mc0gNriyRRS1GpenqF2TL"
+    },
+    {
+      "album": {
+        "name": "Livsvittne",
+        "url": "https://open.spotify.com/album/0u3GcW94CKFXCvO09lixj3"
+      },
+      "artists": [
+        {
+          "name": "Molly Hammar",
+          "url": "https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242732,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/1bk7kzc39EOwMZRbyKSy0i"
     },
     {
       "album": {

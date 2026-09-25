@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Bowers. The essential tracks, all in one playlist.",
-  "num_followers": 2692,
+  "num_followers": 2693,
   "original_name": "This Is Kris Bowers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABPEYmeBAU4EyuHFwQRAfJd",
+  "snapshot_id": "arMWgAAAAAAkY9lv2cWVTGnGLJk4Wox0",
   "tracks": [
     {
       "added_at": null,
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 152429,
-      "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
+      "duration_ms": 95465,
+      "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
     },
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
         }
       ],
-      "duration_ms": 95465,
-      "name": "Kiss and Tell - from the Netflix Series \"Queen Charlotte\"",
-      "url": "https://open.spotify.com/track/4OjHxLkdHaRUVY8ogageyL"
+      "duration_ms": 152429,
+      "name": "Thank You - from the Netflix Series \"Queen Charlotte\"",
+      "url": "https://open.spotify.com/track/7DLgRYCtEARiOuZPYoWYfJ"
     },
     {
       "added_at": null,

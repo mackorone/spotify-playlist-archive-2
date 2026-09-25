@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,449 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,474 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 23 | [Pain In My Chest](https://open.spotify.com/track/0YobqklTgLRvmzE0P6Odly) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Pain In My Chest](https://open.spotify.com/album/4BgUVBqz07FTh0yMiCGBG4) | 3:42 |
 | 24 | [DEADMEAT](https://open.spotify.com/track/4XCuMPrNAoO1Rw4AcNFSlV) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [DEADMEAT](https://open.spotify.com/album/75Nrza4VqqVE4sbKdrHBwZ) | 2:52 |
 | 25 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 |
-| 26 | [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 |
-| 27 | [Worthy](https://open.spotify.com/track/6UcydD46iXzyCpoJYeM8tG) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Worthy](https://open.spotify.com/album/3v9dyqvNaLL57rqIJQ0qvO) | 3:11 |
-| 28 | [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:07 |
+| 26 | [Worthy](https://open.spotify.com/track/6UcydD46iXzyCpoJYeM8tG) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x) | [Worthy](https://open.spotify.com/album/3v9dyqvNaLL57rqIJQ0qvO) | 3:11 |
+| 27 | [You Broke Me Too \(feat\. Avril Lavigne\)](https://open.spotify.com/track/38Yy5HJGINUVDgWHli3Yfp) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Better Days](https://open.spotify.com/album/7pwxlrOHqgDpJNLrUNHMBG) | 3:07 |
+| 28 | [Dissolve Me](https://open.spotify.com/track/0CtPILcMn9wMvPjVoq2Rh6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Dissolve Me](https://open.spotify.com/album/3XLInIV1tY9cr2abRMBaxO) | 3:27 |
 | 29 | [SUPERMAN](https://open.spotify.com/track/4UM8YF7PvhdAs94bsxxJM7) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [SUPERMAN](https://open.spotify.com/album/0Xp8U8KDNMYUREYFtS3sCy) | 3:24 |
 | 30 | [Go For Broke](https://open.spotify.com/track/3pVLl6PaU1IVVGt4aqFxg7) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Go For Broke](https://open.spotify.com/album/7lQDeso2WxVQ4RZFjxlMp7) | 2:50 |
 | 31 | [2 LITER SPITE](https://open.spotify.com/track/5arHMhKsZiD5spn1cX8cAl) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [2 LITER SPITE](https://open.spotify.com/album/69iRuCRfkznWMQs3yBkrGv) | 3:03 |

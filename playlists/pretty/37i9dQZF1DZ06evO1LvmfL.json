@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Swims. The essential tracks, all in one playlist.",
-  "num_followers": 492704,
+  "num_followers": 492850,
   "original_name": "This Is Teddy Swims",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABmtPDuWa5yxdd8eOqtA9EY",
+  "snapshot_id": "arMWgAAAAADD9oESMI7fL1oeB/PZAlfb",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You've Got Another Thing Coming (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 179086,
+      "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only Love Can Hurt Like This (feat. Teddy Swims) [Remix]",
         "url": "https://open.spotify.com/album/2jAnutEJgLvYaO73RBRKiJ"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 232153,
       "name": "Only Love Can Hurt Like This (feat. Teddy Swims) - Remix",
       "url": "https://open.spotify.com/track/0LCkj8JSa3pahuphDXiOwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You've Got Another Thing Coming (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/5GKnfR1v8HvCHox655zh9s"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 179086,
-      "name": "You've Got Another Thing Coming - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/21aPACBBGxnw2qKQkTpAYz"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Perfect Man",
+        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 213690,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Someone You Loved",
         "url": "https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 190124,
       "name": "Need You More",
       "url": "https://open.spotify.com/track/6Vm9qOpIk6m1MgLCFi2Wro"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Perfect Man",
-        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 213690,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Young Thug. The essential tracks, all in one playlist.",
-  "num_followers": 269685,
+  "num_followers": 269713,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAISoNG7YYMd/D/sitWM+Nw",
+  "snapshot_id": "arMWgAAAAABbHG7RoNI4umrKser/cQya",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime & B",
-        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "Go Crazy",
-      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LIFE'S A TRIP",
         "url": "https://open.spotify.com/album/13rZDYWdAeJumf6UYYBdcL"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 237983,
       "name": "Forever Ever (feat. Young Thug & Reese LAFLARE)",
       "url": "https://open.spotify.com/track/4bnq2OQUwACkp2vCEbY52g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slime & B",
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "Go Crazy",
+      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/37mVwL11hMZ1mn7mzOm6fM"
+      },
+      "artists": [
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/5CDG6PmpbnHK77nx4m6YA2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Slime Season",
         "url": "https://open.spotify.com/album/3KSeRpEslZsZGRnJHe5nXt"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/4IKvw1OdeTJIN3g4zWE38f"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WOAH",
-        "url": "https://open.spotify.com/album/37mVwL11hMZ1mn7mzOm6fM"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "WOAH",
-      "url": "https://open.spotify.com/track/5CDG6PmpbnHK77nx4m6YA2"
     },
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautiful Thugger Girls",
+        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 236586,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/3Xp4gYT4TT35MitP4T11Xt"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 212658,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/7ffGuDhX7yzW5AA1oERvrr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Beautiful Thugger Girls",
-        "url": "https://open.spotify.com/album/51KZKzPd3OQT1r46a55VTt"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 236586,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/2BAmF6QyK5IYEOp1TFmt0u"
     },
     {
       "added_at": null,
@@ -1039,26 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "It's Only Me",
-        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 160776,
-      "name": "Never Hating (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hookah",
         "url": "https://open.spotify.com/album/18G8ZHAbJBrSwP9IwlNJMG"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 202320,
       "name": "Hookah",
       "url": "https://open.spotify.com/track/3qQ6WFhcAx6LOH1UHz1c0U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Only Me",
+        "url": "https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 160776,
+      "name": "Never Hating (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1Py8c3dkLF0YczcAyBFBEM"
     }
   ],
   "unique_name": "This Is Young Thug",

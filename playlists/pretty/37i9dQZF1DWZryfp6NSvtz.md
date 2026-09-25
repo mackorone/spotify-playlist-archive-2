@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock & alternative tracks every week\. Cover: South Arcade
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,032 likes - 191 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 955,379 likes - 191 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

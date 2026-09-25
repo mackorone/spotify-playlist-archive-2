@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: Tercer Cielo & Brayan Booz
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,437 likes - 75 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,594 likes - 75 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

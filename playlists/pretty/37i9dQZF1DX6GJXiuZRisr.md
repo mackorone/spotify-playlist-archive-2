@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,618,734 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,618,784 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 73 | [High On A Feeling](https://open.spotify.com/track/2VatF2I9Ycq1m81JFzwPML) | [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [FR3ADY](https://open.spotify.com/artist/2peUHQAGgVjVEI5vW8FJya), [JULIANNA](https://open.spotify.com/artist/3ging4yOPy9F9itepV403Q) | [High On A Feeling](https://open.spotify.com/album/477yy8ei0onc2exI3LQ2CR) | 3:31 |
 | 74 | [Sirius](https://open.spotify.com/track/2qlq7ctYJBmLzfd6H0JznK) | [Hjafri](https://open.spotify.com/artist/3HGsS0k94Mw1SOLqQYhPki) | [Sirius](https://open.spotify.com/album/6dh02SO7yELqYLHwQgVRqo) | 2:48 |
 | 75 | [Before The Storm](https://open.spotify.com/track/1Rd0kA3ditVAlVAb5Hdb1p) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI) | [Before The Storm](https://open.spotify.com/album/3STvJmVOJVqeBMRvuNHfoS) | 6:09 |
-| 76 | [Home](https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Home](https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp) | 2:47 |
-| 77 | [Beg You](https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Beg You](https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I) | 3:31 |
+| 76 | [Beg You](https://open.spotify.com/track/2qUH8eikN8whXYSG9Pyu2l) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Beg You](https://open.spotify.com/album/0BkeXVpMRmEu0V1mbmlh6I) | 3:31 |
+| 77 | [Home](https://open.spotify.com/track/0MgD3dF1BSVHMlVxSUIqJ4) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Olivier Giacomotto](https://open.spotify.com/artist/5tIMc0MdfB2OV6sULOmeao) | [Home](https://open.spotify.com/album/1MRtiNKI4azFae56DMUzRp) | 2:47 |
 | 78 | [I'm On Fire](https://open.spotify.com/track/1KIbfDi4qkolOx7Vwps33a) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [James French](https://open.spotify.com/artist/1cyoaS6fUKVqileyv1iues) | [I'm On Fire](https://open.spotify.com/album/4ELroC43JOrpddiZrIzAnF) | 3:52 |
 | 79 | [More than enough...](https://open.spotify.com/track/3yKFnRfIRmSHMWMGvjannW) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [More than enough...](https://open.spotify.com/album/51K1isfES8v2BMcKI40kXP) | 3:32 |
 | 80 | [London To Buenos Aires](https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB) | [London To Buenos Aires](https://open.spotify.com/album/23voORn42hd5caxnLbTJwy) | 3:05 |

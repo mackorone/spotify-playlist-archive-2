@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > it's finally folk weather 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,489 likes - 133 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,699 likes - 133 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

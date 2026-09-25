@@ -1,6 +1,6 @@
 {
   "description": "The biggest pop hits to come from the land down under.",
-  "num_followers": 73805,
+  "num_followers": 73811,
   "original_name": "Aussie Pop Classics",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Age Of Reason",
         "url": "https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v"
       },
@@ -603,18 +587,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Love Monster",
-        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
       },
       "artists": [
         {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 170413,
-      "name": "I Said Hi",
-      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
+      "duration_ms": 214746,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -635,18 +619,18 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "The Power (15 Year Anniversary Re-Issue)",
-        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
+        "name": "Love Monster",
+        "url": "https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P"
       },
       "artists": [
         {
-          "name": "Vanessa Amorosi",
-          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
         }
       ],
-      "duration_ms": 224600,
-      "name": "Absolutely Everybody",
-      "url": "https://open.spotify.com/track/283898Lgbl6LidapOraXiN"
+      "duration_ms": 170413,
+      "name": "I Said Hi",
+      "url": "https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -663,6 +647,22 @@
       "duration_ms": 229120,
       "name": "20 Good Reasons",
       "url": "https://open.spotify.com/track/7uCQb1MoL0kC4nw6WsGk38"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "The Power (15 Year Anniversary Re-Issue)",
+        "url": "https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Amorosi",
+          "url": "https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj"
+        }
+      ],
+      "duration_ms": 224600,
+      "name": "Absolutely Everybody",
+      "url": "https://open.spotify.com/track/283898Lgbl6LidapOraXiN"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
+        "name": "Reflector",
+        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
+      },
+      "artists": [
+        {
+          "name": "Killing Heidi",
+          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
+        }
+      ],
+      "duration_ms": 244866,
+      "name": "Weir",
+      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
         "name": "Off The Grid",
         "url": "https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe"
       },
@@ -803,38 +819,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Reflector",
-        "url": "https://open.spotify.com/album/7kHaKkhOcpb7gB90BLJNip"
-      },
-      "artists": [
-        {
-          "name": "Killing Heidi",
-          "url": "https://open.spotify.com/artist/6eQ3AHw7yEVoX87xDS1ZiP"
-        }
-      ],
-      "duration_ms": 244866,
-      "name": "Weir",
-      "url": "https://open.spotify.com/track/1umlKmiauqM9GFnk25HwCb"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
-      },
-      "artists": [
-        {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Down Under",
-      "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Two Degrees",
         "url": "https://open.spotify.com/album/4MzuH8NMoERebcxL4x9EdR"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 255889,
       "name": "Papercuts (feat. Vera Blue)",
       "url": "https://open.spotify.com/track/6vXHaWpqkbuvzIDvR3LnKd"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Down Under",
+      "url": "https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "In The Summertime",
-        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
-      },
-      "artists": [
-        {
-          "name": "Thirsty Merc",
-          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
-        }
-      ],
-      "duration_ms": 228560,
-      "name": "In the Summertime - Single Version",
-      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Watching Angels Mend",
         "url": "https://open.spotify.com/album/6ETAgT0iWkJKsKJeNT41Z6"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 203213,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1nDwGcdtCwB4Ipfli2k57i"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "In The Summertime",
+        "url": "https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen"
+      },
+      "artists": [
+        {
+          "name": "Thirsty Merc",
+          "url": "https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no"
+        }
+      ],
+      "duration_ms": 228560,
+      "name": "In the Summertime - Single Version",
+      "url": "https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse"
     },
     {
       "added_at": "2024-08-05 06:00:58",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-05 06:00:58",
       "album": {
-        "name": "Better in Blak",
-        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 192466,
-      "name": "Better in Blak",
-      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
-    },
-    {
-      "added_at": "2024-08-05 06:00:58",
-      "album": {
         "name": "Whispering Jack",
         "url": "https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 227360,
       "name": "Pressure Down",
       "url": "https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73"
+    },
+    {
+      "added_at": "2024-08-05 06:00:58",
+      "album": {
+        "name": "Better in Blak",
+        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 192466,
+      "name": "Better in Blak",
+      "url": "https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad"
     },
     {
       "added_at": "2024-08-05 06:00:58",

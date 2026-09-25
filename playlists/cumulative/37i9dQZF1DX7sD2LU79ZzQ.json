@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Farrel Hilal",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Salma Salsabil",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -736,6 +736,24 @@
       "duration_ms": 240952,
       "name": "Adu Bola Mata",
       "url": "https://open.spotify.com/track/7wsle0lIudoJaGDAXfwHjm"
+    },
+    {
+      "album": {
+        "name": "Adu Pandang",
+        "url": "https://open.spotify.com/album/5XosZNUeyiDQVu5J3OXKhc"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186957,
+      "name": "Adu Pandang",
+      "url": "https://open.spotify.com/track/4DqIWiVTcYzMuaZaa6QIEc"
     },
     {
       "album": {
@@ -1773,6 +1791,24 @@
     },
     {
       "album": {
+        "name": "Aneh Tapi Nyata",
+        "url": "https://open.spotify.com/album/0R8I3l7JktHFBlied9VTh4"
+      },
+      "artists": [
+        {
+          "name": "Harra.",
+          "url": "https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212690,
+      "name": "Aneh Tapi Nyata",
+      "url": "https://open.spotify.com/track/2vZsvEH99czn9Zv9cwRRj1"
+    },
+    {
+      "album": {
         "name": "Anehnya",
         "url": "https://open.spotify.com/album/6BdacKiLHankUB5KLV381U"
       },
@@ -2193,6 +2229,24 @@
     },
     {
       "album": {
+        "name": "Asa Yang Sirna",
+        "url": "https://open.spotify.com/album/397R2OfLezAXXVV9IwPyGm"
+      },
+      "artists": [
+        {
+          "name": "Element",
+          "url": "https://open.spotify.com/artist/053tL050frPJyo9lPXTUFb"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266000,
+      "name": "Asa Yang Sirna",
+      "url": "https://open.spotify.com/track/2NLSY5XLvfHRMLGOWmM4sA"
+    },
+    {
+      "album": {
         "name": "Asal Engkau Senang",
         "url": "https://open.spotify.com/album/31JWkQe6l51geuRnOZaywN"
       },
@@ -2458,7 +2512,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 203340,
       "name": "Awas Jatuh Cinta",
       "url": "https://open.spotify.com/track/4CSOkIbrLSkoKTtsKJxhlp"
@@ -2610,6 +2664,24 @@
       "duration_ms": 202864,
       "name": "Background Character",
       "url": "https://open.spotify.com/track/5gRDEnGcUKTiju3DV7hPOf"
+    },
+    {
+      "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/53QC67jXx3G0nW6kSOiGOl"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236810,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/6NT1C7sOxWRVsUykEJ6one"
     },
     {
       "album": {
@@ -3472,7 +3544,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 205500,
       "name": "Belum Selesai",
       "url": "https://open.spotify.com/track/7KUUUllWusWxI6Ijoegw0L"
@@ -4948,7 +5020,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 187656,
       "name": "Bisa Gak Sih?",
       "url": "https://open.spotify.com/track/4Mq44SvCEnGv1Ya8NwFeiK"
@@ -5258,7 +5330,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 238588,
       "name": "Building",
       "url": "https://open.spotify.com/track/3KeW6p83GJwuNUfegAGH1m"
@@ -7090,7 +7162,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180000,
       "name": "Coffee In The Morning",
       "url": "https://open.spotify.com/track/0EWcs9ucQzTfNS9fL3u7nS"
@@ -9226,7 +9298,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 194400,
       "name": "FLY MELA",
       "url": "https://open.spotify.com/track/2SpOh75FxvPDbjlE7MXdZs"
@@ -11509,6 +11581,24 @@
     },
     {
       "album": {
+        "name": "INGAT",
+        "url": "https://open.spotify.com/album/7rd08xt96jk2KqwoJPdJbm"
+      },
+      "artists": [
+        {
+          "name": "Devano",
+          "url": "https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "INGAT",
+      "url": "https://open.spotify.com/track/13apLIUDnQIFeLhBrzDKrc"
+    },
+    {
+      "album": {
         "name": "Ingat Ingat Lagi",
         "url": "https://open.spotify.com/album/3Sei2EW85z0rDEy6iY6McM"
       },
@@ -12538,6 +12628,28 @@
       "duration_ms": 258641,
       "name": "Jangan Tanya Pada Tuhan",
       "url": "https://open.spotify.com/track/4Y9JM9sMtrswe5hEKyL6Nt"
+    },
+    {
+      "album": {
+        "name": "Jangan Test Aku",
+        "url": "https://open.spotify.com/album/17UyMHZHYMf73a0xVISus8"
+      },
+      "artists": [
+        {
+          "name": "BukanGrace",
+          "url": "https://open.spotify.com/artist/4RaAuONasyNebx9Yb92xVg"
+        },
+        {
+          "name": "YokaMusic",
+          "url": "https://open.spotify.com/artist/0E1kvFwfAWmBXs2KjG40Vm"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Jangan Test Aku",
+      "url": "https://open.spotify.com/track/4Ldqe3JRBDefQzitFxeVaE"
     },
     {
       "album": {
@@ -14264,6 +14376,28 @@
       "duration_ms": 192124,
       "name": "kembali",
       "url": "https://open.spotify.com/track/4cekVvN19wjGowJmXb3sNF"
+    },
+    {
+      "album": {
+        "name": "Kembali Berjumpa",
+        "url": "https://open.spotify.com/album/6iEDJmKYSRH59O4syskqei"
+      },
+      "artists": [
+        {
+          "name": "Stand Here Alone",
+          "url": "https://open.spotify.com/artist/3YwAgafEWJCd6Haotq7Qd2"
+        },
+        {
+          "name": "Aziz Harun",
+          "url": "https://open.spotify.com/artist/1dmuM6bG5J8sDFyp26x9Nf"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Kembali Berjumpa",
+      "url": "https://open.spotify.com/track/5i38siirqMGD1rkctirGoe"
     },
     {
       "album": {
@@ -17297,6 +17431,24 @@
     },
     {
       "album": {
+        "name": "maha benar",
+        "url": "https://open.spotify.com/album/1sMFWzulr4kHpQZrdpFl4z"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211915,
+      "name": "maha benar",
+      "url": "https://open.spotify.com/track/1F81vgtWgT5jzbpCJO6e2q"
+    },
+    {
+      "album": {
         "name": "Mahir",
         "url": "https://open.spotify.com/album/1mjPSdz4YrLh1uqpaRVbXO"
       },
@@ -18624,6 +18776,24 @@
       "duration_ms": 169373,
       "name": "Memori Kita",
       "url": "https://open.spotify.com/track/793eFZPmSzKDl0sQ0hWr0r"
+    },
+    {
+      "album": {
+        "name": "Memoria",
+        "url": "https://open.spotify.com/album/6E1lp4IK8ocysYI0pUVEsl"
+      },
+      "artists": [
+        {
+          "name": "El Putra Sarira",
+          "url": "https://open.spotify.com/artist/50Fq9p1golo64d4KMsf11a"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235797,
+      "name": "Memoria",
+      "url": "https://open.spotify.com/track/2KrmQlQ1526v6IUr8osikD"
     },
     {
       "album": {
@@ -23570,7 +23740,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 146153,
       "name": "REST AREA",
       "url": "https://open.spotify.com/track/2k9x4a6T8X2Fc7UplV7mze"
@@ -24077,6 +24247,24 @@
     },
     {
       "album": {
+        "name": "Rumah",
+        "url": "https://open.spotify.com/album/6gFnIAqmWqeod5mnyoM6pZ"
+      },
+      "artists": [
+        {
+          "name": "ANGEL PIETERS",
+          "url": "https://open.spotify.com/artist/7asPKvMVP4x1mey64TS3PA"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250106,
+      "name": "Rumah Sendiri",
+      "url": "https://open.spotify.com/track/4kZIYnzuYRrSGfmj8zzAjB"
+    },
+    {
+      "album": {
         "name": "Rumah Terakhir",
         "url": "https://open.spotify.com/album/20cjU6B2kkUlLY0Rw7MCYo"
       },
@@ -24096,6 +24284,24 @@
       "duration_ms": 261333,
       "name": "Rumah Terakhir",
       "url": "https://open.spotify.com/track/2RYTOchHmp7oqhUva7wpvD"
+    },
+    {
+      "album": {
+        "name": "Rumah Yang Bising",
+        "url": "https://open.spotify.com/album/2u4lONbsEqcMYVUmqGZ4gR"
+      },
+      "artists": [
+        {
+          "name": "Rifqi FTR",
+          "url": "https://open.spotify.com/artist/0E7e9JsNEXjJ608E1MJnvh"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233968,
+      "name": "Rumah Yang Bising",
+      "url": "https://open.spotify.com/track/2LV5uQcjkd7a8WJj01Iy4r"
     },
     {
       "album": {
@@ -24882,6 +25088,24 @@
       "duration_ms": 267826,
       "name": "Sampaikan Rindu",
       "url": "https://open.spotify.com/track/2bRNul3hyw1PSb7HoYLVPY"
+    },
+    {
+      "album": {
+        "name": "Sana Jatuh Cinta",
+        "url": "https://open.spotify.com/album/63VBNqGSZxy0Hlvj8bf5n2"
+      },
+      "artists": [
+        {
+          "name": "Natasya Sabella",
+          "url": "https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230718,
+      "name": "Sana Jatuh Cinta",
+      "url": "https://open.spotify.com/track/5EUKIw2KWvvECrdEwjNvQJ"
     },
     {
       "album": {
@@ -27772,7 +27996,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 256745,
       "name": "Si Baik",
       "url": "https://open.spotify.com/track/3z95u68kKOJR6mWHhll5yq"
@@ -29304,6 +29528,24 @@
       "duration_ms": 220432,
       "name": "Surga Sementara",
       "url": "https://open.spotify.com/track/5dLjZvJd76yUUHd3EjXi9g"
+    },
+    {
+      "album": {
+        "name": "SURPRISE SURPRISE!",
+        "url": "https://open.spotify.com/album/5zM58zp4yUunTHA1DcwN4x"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170801,
+      "name": "SURPRISE SURPRISE!",
+      "url": "https://open.spotify.com/track/7jbV9eFuXrjWCTnNTaxtys"
     },
     {
       "album": {

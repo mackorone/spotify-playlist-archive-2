@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating Tems' debut " For Broken Ears"
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,648 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,833 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 24 | [You](https://open.spotify.com/track/05ZZL4ul4eTDuBJ9A1zwsC) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [You](https://open.spotify.com/album/72LcIoMReRHgYq5xeDI6Uh) | 2:43 |
 | 25 | [Pana](https://open.spotify.com/track/3ddd0nUY2jZtPYzg0r0wTb) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Pana](https://open.spotify.com/album/62sUZK9tqrSH3AMg4gOSmz) | 4:02 |
 | 26 | [Duduke](https://open.spotify.com/track/1Dugqy9EGYV66nkp7yLiA4) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Duduke](https://open.spotify.com/album/5LfTq81m11TP8TqTGV2aHk) | 2:52 |
-| 27 | [Come Over](https://open.spotify.com/track/7b3NF9xMKOd5p1HH3Y760e) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/42PYBhtsi4gxaHHKKXk4WB) | 4:08 |
-| 28 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 |
+| 27 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 |
+| 28 | [Come Over](https://open.spotify.com/track/7b3NF9xMKOd5p1HH3Y760e) | [melvitto](https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa), [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [Summers](https://open.spotify.com/album/42PYBhtsi4gxaHHKKXk4WB) | 4:08 |
 | 29 | [Lo Lo](https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ) | [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL) | 2:51 |
 | 30 | [Zoom](https://open.spotify.com/track/1Sk9EP4wMtXWhVMfcsWi2k) | [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Razor](https://open.spotify.com/album/6KhaMJdfAPIXxX5I56lZI3) | 3:24 |
 | 31 | [Again \- Remix](https://open.spotify.com/track/1YFc3bSctJKakFx6hHEdPX) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Realms](https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j) | 3:11 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 36 | [Too Bad](https://open.spotify.com/track/1YVBEEDyXlWHOrZCgbSsot) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Palmwine Express](https://open.spotify.com/album/46m9079uCxKSFAwMFfadwf) | 3:55 |
 | 37 | [Ada](https://open.spotify.com/track/0P8FdjOB2OYAO6mmnoMJmE) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [King Of Love](https://open.spotify.com/album/17HtAdJO3qQzLJDf9GAePl) | 2:29 |
 | 38 | [Way Too Big](https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:20 |
-| 39 | [MJ \(Remix\)](https://open.spotify.com/track/2QQizmVmA2HiEX7U3I1wgu) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [MJ \(Remix\)](https://open.spotify.com/album/0IS0JTlNXY8nlrmZuEOEp3) | 3:09 |
-| 40 | [FEM](https://open.spotify.com/track/71EKIFqUvCAT1WK1g4tnBa) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FEM](https://open.spotify.com/album/2vt6tirj8PxYErbB7GpkBG) | 3:22 |
+| 39 | [FEM](https://open.spotify.com/track/71EKIFqUvCAT1WK1g4tnBa) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [FEM](https://open.spotify.com/album/2vt6tirj8PxYErbB7GpkBG) | 3:22 |
+| 40 | [MJ \(Remix\)](https://open.spotify.com/track/2QQizmVmA2HiEX7U3I1wgu) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [MJ \(Remix\)](https://open.spotify.com/album/0IS0JTlNXY8nlrmZuEOEp3) | 3:09 |
 | 41 | [Away](https://open.spotify.com/track/6QiWZzGzYL2hDAxOp3bKLd) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Ayra Starr](https://open.spotify.com/album/4BL8M68hy6nqNXUo2kvZ0G) | 2:49 |
 | 42 | [Southy Love](https://open.spotify.com/track/06mcgnr3eJ8cF8ed0WfdPA) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Rum & Boogie](https://open.spotify.com/album/0XVVlqghvytvnjjIeZakYC) | 3:30 |
 | 43 | [Follow You](https://open.spotify.com/track/36VdEEK16VisbEnBM71e7d) | [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Man](https://open.spotify.com/album/2jYuXSwfh6qdqhrcRrplbO) | 3:11 |

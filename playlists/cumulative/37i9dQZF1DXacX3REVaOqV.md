@@ -4,7 +4,7 @@
 
 > The best in house music
 
-860 songs - 2 day 6 hr 53 min
+861 songs - 2 day 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -621,6 +621,7 @@
 | [Rescue](https://open.spotify.com/track/2xNLma1p2hPU1lqLYWEgiG) | [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Friend Within](https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv) | [Rescue](https://open.spotify.com/album/5wnHew8RsixkmPnW7aaicg) | 2:39 | 2022-04-20 | 2024-03-21 |
 | [Resolution](https://open.spotify.com/track/2h0s5YLG2KpAPbJn2VKQf0) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Resolution](https://open.spotify.com/album/0aldqu0IulsfyOxdruOE7g) | 6:37 | 2025-09-22 | 2026-02-28 |
 | [Return To Bhibo](https://open.spotify.com/track/0b04O4aNqXhiUtHJcb6bcm) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Return To Bhibo](https://open.spotify.com/album/3X3K0yWFq4Fu0f1w2SwKNc) | 2:37 | 2026-05-29 |  |
+| [Reverse Things](https://open.spotify.com/track/13iU419aX4eb5BlWdTawnQ) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Toman](https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG) | [Reverse Things](https://open.spotify.com/album/7q1DLTrmoVloIO0yKTnKDH) | 3:32 | 2026-09-24 |  |
 | [Revolution](https://open.spotify.com/track/6C3jGzujdwT76XU4CH6ZHg) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Revolution](https://open.spotify.com/album/7519Ww1er6JNd64E8sW8rB) | 3:22 | 2025-06-20 | 2025-09-23 |
 | [Revolution \- Deep In Jersey Extended Mix](https://open.spotify.com/track/0Qs8VmB3VPecGLGef4shI0) | [Harry Romero](https://open.spotify.com/artist/36AJmodiIrwV9U3QOiLMYM) | [Revolution \(Deep In Jersey Extended Mix\)](https://open.spotify.com/album/365BQjbQ7guC3hyTE2erVZ) | 5:27 | 2022-04-26 | 2022-07-12 |
 | [Right](https://open.spotify.com/track/5NaliF5YDYgIF0eToAuJBn) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Right](https://open.spotify.com/album/1FEooZjSxe1SytPZFR8xMW) | 3:06 | 2025-07-10 | 2026-04-10 |
@@ -775,7 +776,7 @@
 | [This Ain't Love](https://open.spotify.com/track/7aNnRM4mWrBdauDAwkEf5j) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4), [George Reid](https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o) | [This Ain't Love](https://open.spotify.com/album/12V6TWwLZOGaUWnHn8sLzG) | 2:40 | 2026-04-02 |  |
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/6IJXIYexhKZHKbYYPleAUT) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/6byZV4u6nwuuGLFY3TaMzh) | 3:09 | 2024-11-12 | 2025-06-16 |
 | [Tighten Up](https://open.spotify.com/track/1k8tGEqjmXqjkYW9sMTd8V) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Tighten Up](https://open.spotify.com/album/7B0HytuKozCrtOQ9PxSTsp) | 2:53 | 2024-02-29 | 2024-11-10 |
-| [Till The Night](https://open.spotify.com/track/0tzeqfKjhhjXcJ0uw8FEIT) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Till The Night](https://open.spotify.com/album/39MAe19599Sjoxy5kFwdNd) | 2:20 | 2025-12-01 |  |
+| [Till The Night](https://open.spotify.com/track/0tzeqfKjhhjXcJ0uw8FEIT) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Julia Temos](https://open.spotify.com/artist/4sUiTGTyvwqW4SVx4urOac) | [Till The Night](https://open.spotify.com/album/39MAe19599Sjoxy5kFwdNd) | 2:20 | 2025-12-01 | 2026-09-25 |
 | [Time To Go](https://open.spotify.com/track/073gmCXuSbUqYPAIVyIVt4) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [LA FAMILIA](https://open.spotify.com/album/57UjJKwE6IkBnSCFJprYLM) | 2:54 | 2026-04-23 |  |
 | [To The Beat \- Club Mix](https://open.spotify.com/track/1lrPaOiy45DbcRFVyd9ZFG) | [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w), [Joe Bataan](https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU) | [To The Beat \(Club Mix\)](https://open.spotify.com/album/4aopMdUJzLDDj9CgYApKLt) | 2:58 | 2025-06-20 | 2026-01-25 |
 | [To The Edge](https://open.spotify.com/track/3NXQNu3prstzuveOGaZ5SG) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [To The Edge](https://open.spotify.com/album/2goO9zUUcVVarJaIaJ7b4r) | 2:12 | 2024-04-25 | 2024-09-13 |

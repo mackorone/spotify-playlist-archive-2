@@ -1,6 +1,6 @@
 {
   "description": "afrobeats daqui, de fora, de todos os cantos",
-  "num_followers": 23480,
+  "num_followers": 23482,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-09-11 13:10:55",
       "album": {
+        "name": "C\u00ea Decide",
+        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
+      },
+      "artists": [
+        {
+          "name": "Scardinni",
+          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
+        }
+      ],
+      "duration_ms": 116035,
+      "name": "C\u00ea Decide",
+      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
+    },
+    {
+      "added_at": "2026-09-11 13:10:55",
+      "album": {
         "name": "Rolls Royce",
         "url": "https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 149333,
       "name": "Rolls Royce",
       "url": "https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D"
-    },
-    {
-      "added_at": "2026-09-11 13:10:55",
-      "album": {
-        "name": "C\u00ea Decide",
-        "url": "https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX"
-      },
-      "artists": [
-        {
-          "name": "Scardinni",
-          "url": "https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO"
-        }
-      ],
-      "duration_ms": 116035,
-      "name": "C\u00ea Decide",
-      "url": "https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ"
     },
     {
       "added_at": "2026-09-11 13:10:55",

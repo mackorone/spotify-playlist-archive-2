@@ -1,6 +1,6 @@
 {
   "description": "The latest and greatest! Revive los \u00e9xitos latinos de los \u00faltimos meses.",
-  "num_followers": 856848,
+  "num_followers": 856853,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
+        "name": "Babylon Club",
+        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 163411,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
         "name": "QLOO*",
         "url": "https://open.spotify.com/album/2GgT2TLwb9WzzYcUuspH5L"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 146460,
       "name": "QLOO*",
       "url": "https://open.spotify.com/track/2mdrVnxEnPR6iFijakkxQS"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
-        "name": "Babylon Club",
-        "url": "https://open.spotify.com/album/6fjXZWQdeJLAuPDxLeTqkj"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 163411,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/2339UOI2SU3L1nJtUnx0GF"
     },
     {
       "added_at": "2026-07-23 19:53:33",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 289131,
+      "name": "T\u00fa Con \u00c9l",
+      "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
         "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
         "url": "https://open.spotify.com/album/1lYZ1jkIDGcPVbBRIadB4t"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 151805,
       "name": "Daddy Yankee: Bzrp Music Sessions, Vol. 0/66",
       "url": "https://open.spotify.com/track/2uPMsTEKx79gJ8rB3AcT0v"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
-        "name": "Cosa Nuestra",
-        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 289131,
-      "name": "T\u00fa Con \u00c9l",
-      "url": "https://open.spotify.com/track/2eQFYGegTZaObk2kuBz83Z"
     },
     {
       "added_at": "2026-07-23 19:53:33",
@@ -791,26 +791,6 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
-        "name": "Te Quer\u00eda Ver",
-        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        }
-      ],
-      "duration_ms": 176129,
-      "name": "Te Quer\u00eda Ver",
-      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
         "name": "OMAKASE",
         "url": "https://open.spotify.com/album/79TuXcubVSnQDvvvzEbIY2"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 196920,
       "name": "MALASNOTICIAS.",
       "url": "https://open.spotify.com/track/7giI2ndmt3L5QiMB8v3McO"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
+        "name": "Te Quer\u00eda Ver",
+        "url": "https://open.spotify.com/album/3PgvJGHxtoablFQjDI2pQF"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "duration_ms": 176129,
+      "name": "Te Quer\u00eda Ver",
+      "url": "https://open.spotify.com/track/78HEzDEs1QUnHB2DbxgC1s"
     },
     {
       "added_at": "2026-07-23 19:53:33",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
+        "name": "Culpable",
+        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 261071,
+      "name": "Culpable",
+      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
         "name": "QUIMERA",
         "url": "https://open.spotify.com/album/3LDuV7uzY3d1YJWmjrc4Ql"
       },
@@ -1723,22 +1739,6 @@
     {
       "added_at": "2026-07-23 19:53:33",
       "album": {
-        "name": "Culpable",
-        "url": "https://open.spotify.com/album/5uBg7lBVNM46wEBFCzC34h"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 261071,
-      "name": "Culpable",
-      "url": "https://open.spotify.com/track/1J1TG8a9E5s3QxQhboX8Lc"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2"
       },
@@ -1751,6 +1751,26 @@
       "duration_ms": 159360,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5"
+    },
+    {
+      "added_at": "2026-07-23 19:53:33",
+      "album": {
+        "name": "FAN\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "FAN\u00c1TICO",
+      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
     },
     {
       "added_at": "2026-07-23 19:53:33",
@@ -1775,26 +1795,6 @@
       "duration_ms": 140816,
       "name": "Tonto",
       "url": "https://open.spotify.com/track/7mU1fei7P9h4mpjP2Otdw5"
-    },
-    {
-      "added_at": "2026-07-23 19:53:33",
-      "album": {
-        "name": "FAN\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i1q6psK3WZa28SOSqeZ8z"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 235102,
-      "name": "FAN\u00c1TICO",
-      "url": "https://open.spotify.com/track/0e3d2UZRjtvviXWWMRYGQo"
     },
     {
       "added_at": "2026-07-23 19:53:33",

@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 70's! Cover: The Cats",
-  "num_followers": 99498,
+  "num_followers": 99516,
   "original_name": "70's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Out of the Blue",
         "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 303820,
       "name": "Mr. Blue Sky",
       "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -179,18 +179,18 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+        "name": "Bigger Than Both Of Us",
+        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
       },
       "artists": [
         {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 285373,
-      "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
+      "duration_ms": 142786,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Bigger Than Both Of Us",
-        "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
         }
       ],
-      "duration_ms": 142786,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
+      "duration_ms": 285373,
+      "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -243,38 +243,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "How Deep Is Your Love",
-      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Let It Be (Remastered)",
         "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
       },
@@ -291,6 +259,22 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 258411,
       "name": "You're So Vain",
       "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 245200,
+      "name": "How Deep Is Your Love",
+      "url": "https://open.spotify.com/track/2JoZzpdeP2G6Csfdq5aLXP"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Harvest (2009 Remaster)",
-        "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 187013,
-      "name": "Heart of Gold - 2009 Remaster",
-      "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "That's The Way Of The World",
         "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 170212,
       "name": "Shining Star",
       "url": "https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Harvest (2009 Remaster)",
+        "url": "https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        }
+      ],
+      "duration_ms": 187013,
+      "name": "Heart of Gold - 2009 Remaster",
+      "url": "https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Jazz (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Double Fun",
         "url": "https://open.spotify.com/album/3eGG3yU4bnmBK7TfFWa15y"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 198146,
       "name": "Every Kinda People",
       "url": "https://open.spotify.com/track/38E7U60ipLSTVDcPIuVzZw"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Jazz (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Hollands Glorie",
-        "url": "https://open.spotify.com/album/4yZEdbhWjZILUaSex1Dis3"
-      },
-      "artists": [
-        {
-          "name": "Patricia Paay",
-          "url": "https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Who's That Lady With My Man",
-      "url": "https://open.spotify.com/track/1BQ1iEiTtOVxWc2MAVSDS8"
-    },
-    {
-      "added_at": "2024-08-28 19:18:25",
-      "album": {
         "name": "Favorieten Expres",
         "url": "https://open.spotify.com/album/6vjJpzdtItQIK9FxJNnXs9"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 206200,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/5yM9wTZcPgFEZgtBWciZ11"
+    },
+    {
+      "added_at": "2024-08-28 19:18:25",
+      "album": {
+        "name": "Hollands Glorie",
+        "url": "https://open.spotify.com/album/4yZEdbhWjZILUaSex1Dis3"
+      },
+      "artists": [
+        {
+          "name": "Patricia Paay",
+          "url": "https://open.spotify.com/artist/7wSSa5ZhfmxYBMM0LT5lEd"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Who's That Lady With My Man",
+      "url": "https://open.spotify.com/track/1BQ1iEiTtOVxWc2MAVSDS8"
     },
     {
       "added_at": "2024-08-28 19:18:25",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2024-08-28 19:18:25",
       "album": {
-        "name": "Dolly Dots - Love Me Just A Little Bit More / Greatest Hits (IA EP Bundle)",
-        "url": "https://open.spotify.com/album/2dq9BhPNbsIayQM7Rv3IcX"
+        "name": "Favorieten Expres",
+        "url": "https://open.spotify.com/album/6vjJpzdtItQIK9FxJNnXs9"
       },
       "artists": [
         {
-          "name": "Dolly Dots",
-          "url": "https://open.spotify.com/artist/7jQDCbxYM9t8bLCd2n8ONI"
+          "name": "The Cats",
+          "url": "https://open.spotify.com/artist/4mplweFSgMgpH03ruEMEMv"
         }
       ],
-      "duration_ms": 188066,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/160qoYXSJJrPkZshBN62bD"
+      "duration_ms": 184706,
+      "name": "Save The Last Dance For Me",
+      "url": "https://open.spotify.com/track/1IAkeMqlT9t9jGGScaGD6O"
     }
   ],
   "unique_name": "70's Allerbeste",

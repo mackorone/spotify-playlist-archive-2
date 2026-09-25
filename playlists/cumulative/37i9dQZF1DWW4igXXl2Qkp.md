@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop tracks from independent artists & labels\. Cover: BabyRu78
+> The best new hip\-hop tracks from independent artists & labels\. Cover: Biggs money
 
 2,446 songs - 4 day 7 hr 47 min
 

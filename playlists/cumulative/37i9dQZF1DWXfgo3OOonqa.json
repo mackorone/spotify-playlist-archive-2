@@ -6226,7 +6226,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 125492,
       "name": "BIPOL\u00c4R",
       "url": "https://open.spotify.com/track/3mf0IB6a6e8ANZYjYlkYPK"
@@ -6462,7 +6462,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 127058,
       "name": "Blessed",
       "url": "https://open.spotify.com/track/5FVdUVH1IU2bCyoqaCk8YW"
@@ -8200,7 +8200,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 161684,
       "name": "CallePeroElegante",
       "url": "https://open.spotify.com/track/1SIklmaw0idxZJGTm7KsjG"
@@ -10812,7 +10812,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 153600,
       "name": "DELA H\u00c4LFTEN",
       "url": "https://open.spotify.com/track/1nJPjE2GdZiKYNKRXPRWYS"
@@ -14377,6 +14377,24 @@
     },
     {
       "album": {
+        "name": "Fashion Week",
+        "url": "https://open.spotify.com/album/2ql9GwMY9y4gTrTKZO2CD9"
+      },
+      "artists": [
+        {
+          "name": "Montana",
+          "url": "https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142372,
+      "name": "Fashion Week",
+      "url": "https://open.spotify.com/track/7HCAkdsOF2NXnVH1RAmMG7"
+    },
+    {
+      "album": {
         "name": "Fast",
         "url": "https://open.spotify.com/album/4Hr17Ze91T5fPlHtSMLS7W"
       },
@@ -14746,7 +14764,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 114000,
       "name": "Fina",
       "url": "https://open.spotify.com/track/4wgQIviaZMJ3l2cEox0ezH"
@@ -15056,7 +15074,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 113538,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/1bUaoLxIUujxqdNH3EHycI"
@@ -15897,6 +15915,28 @@
     },
     {
       "album": {
+        "name": "G",
+        "url": "https://open.spotify.com/album/5SYEDVpW8S76Z1IWkkUBcg"
+      },
+      "artists": [
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        },
+        {
+          "name": "Euroo",
+          "url": "https://open.spotify.com/artist/5ZVHfahjeu8Z81RYyhcLDH"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "G",
+      "url": "https://open.spotify.com/track/19rLs0037vQJ2ipGsFI2RO"
+    },
+    {
+      "album": {
         "name": "G & P",
         "url": "https://open.spotify.com/album/1D0BqbVwT9l2jjkYhs3vCY"
       },
@@ -16376,6 +16416,24 @@
       "duration_ms": 184634,
       "name": "Gatubarn",
       "url": "https://open.spotify.com/track/5Pr2zJZEXPE7PIMxsAiJfG"
+    },
+    {
+      "album": {
+        "name": "Gatubarn",
+        "url": "https://open.spotify.com/album/4Z5w2qIKOqXScPNgGHXhWt"
+      },
+      "artists": [
+        {
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114278,
+      "name": "Gatubarn",
+      "url": "https://open.spotify.com/track/6LWTVZtCFXLOCCvP1sz3lU"
     },
     {
       "album": {
@@ -19216,6 +19274,24 @@
       "duration_ms": 138285,
       "name": "HIGH",
       "url": "https://open.spotify.com/track/0PEkgfUWADoS2GiibHSwdX"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/7DLYhYaRapmd4KsEhRcF7k"
+      },
+      "artists": [
+        {
+          "name": "T.G Boogie",
+          "url": "https://open.spotify.com/artist/1PVxZM6C1jxLDUNJAEVX6d"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124067,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1khjdOrVNsMz5598kM7GGE"
     },
     {
       "album": {
@@ -22920,6 +22996,28 @@
       "duration_ms": 126866,
       "name": "Kawasaki",
       "url": "https://open.spotify.com/track/5eS8uGOUuwOOYnuWnLGFdJ"
+    },
+    {
+      "album": {
+        "name": "Kejsar",
+        "url": "https://open.spotify.com/album/3dZzqosnyYll4mlHLBhXPC"
+      },
+      "artists": [
+        {
+          "name": "A36",
+          "url": "https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt"
+        },
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142135,
+      "name": "Kejsar",
+      "url": "https://open.spotify.com/track/3wXhaFhjQWn5ZNMUE5hpQH"
     },
     {
       "album": {
@@ -26818,7 +26916,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 132571,
       "name": "L\u00c5T DET FLOWA",
       "url": "https://open.spotify.com/track/6STW9DZ8QTjrmmFY8UZF7s"
@@ -27732,6 +27830,24 @@
       "duration_ms": 148000,
       "name": "Man",
       "url": "https://open.spotify.com/track/0SBv4vF1SfMJHnzSmaElVh"
+    },
+    {
+      "album": {
+        "name": "Man in the Dark",
+        "url": "https://open.spotify.com/album/6LSkORK2lLludjWIl9gku5"
+      },
+      "artists": [
+        {
+          "name": "LB",
+          "url": "https://open.spotify.com/artist/3jaXGj5Sjt07nAhZ2b70yv"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159500,
+      "name": "Man in the Dark",
+      "url": "https://open.spotify.com/track/02fVLkPsYiwQ12RyihMkAV"
     },
     {
       "album": {
@@ -29457,6 +29573,24 @@
     },
     {
       "album": {
+        "name": "Min Historia",
+        "url": "https://open.spotify.com/album/1I0iy29nOngYxtfR47090f"
+      },
+      "artists": [
+        {
+          "name": "B.Baby",
+          "url": "https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144013,
+      "name": "Min Historia",
+      "url": "https://open.spotify.com/track/7thjeSK8rvU3R3Oz6gOLGT"
+    },
+    {
+      "album": {
         "name": "Min K\u00e4ra",
         "url": "https://open.spotify.com/album/7dVp7diCWgh9Ri2VD7c9Gk"
       },
@@ -30682,6 +30816,28 @@
       "duration_ms": 163200,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/3yCzXTflUy03JWZLJqxbRw"
+    },
+    {
+      "album": {
+        "name": "MY LOVER",
+        "url": "https://open.spotify.com/album/2oThHRbZoDuM7kuuKtCz5t"
+      },
+      "artists": [
+        {
+          "name": "D4vvyy",
+          "url": "https://open.spotify.com/artist/2egcnbvvs5tjqsR7yYsfYl"
+        },
+        {
+          "name": "Maxxk",
+          "url": "https://open.spotify.com/artist/1j2hRbCetYwiQg71grVtcY"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121562,
+      "name": "My Lover",
+      "url": "https://open.spotify.com/track/4T2EXdWxDb9QBxXHQeAOO6"
     },
     {
       "album": {
@@ -34114,6 +34270,24 @@
       "duration_ms": 142634,
       "name": "PIRANHA",
       "url": "https://open.spotify.com/track/6FyruFwg9WTt2yBcABwPHU"
+    },
+    {
+      "album": {
+        "name": "NIGHTVISION",
+        "url": "https://open.spotify.com/album/7kL76LZzEHGXhoe5PvTdTR"
+      },
+      "artists": [
+        {
+          "name": "2M",
+          "url": "https://open.spotify.com/artist/0gQ38ZwplqsXARPDmNIL9c"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "PIXEL",
+      "url": "https://open.spotify.com/track/2VuYDwgIh76zdQ5RWAXhua"
     },
     {
       "album": {
@@ -42684,7 +42858,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 126315,
       "name": "TiKi TAKA",
       "url": "https://open.spotify.com/track/6h1xqWSylzdGNZCCek26Tt"
@@ -42820,6 +42994,24 @@
       "duration_ms": 172746,
       "name": "TILLS NU",
       "url": "https://open.spotify.com/track/7zr8W8DvAt5dNytak2hlZm"
+    },
+    {
+      "album": {
+        "name": "K\u00e4rleksmartyrer II (Deluxe)",
+        "url": "https://open.spotify.com/album/3SZn0XNNMtFD5e4e7CvGmR"
+      },
+      "artists": [
+        {
+          "name": "Nuqi",
+          "url": "https://open.spotify.com/artist/2I1j9kLL2wXV0KnKjs4Cz5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143844,
+      "name": "Tills vi ses igen",
+      "url": "https://open.spotify.com/track/1WzaiQ8J7JAsnzrF4t2x9N"
     },
     {
       "album": {
@@ -43982,7 +44174,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 172800,
       "name": "TRUBBEL I PARADISET",
       "url": "https://open.spotify.com/track/2Xe4miFqP0yPgtOfH5QbKO"
@@ -44262,7 +44454,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 86400,
       "name": "TURN ME ON",
       "url": "https://open.spotify.com/track/6dU5BjBor0KLXvhf77KDrZ"
@@ -46756,7 +46948,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 128666,
       "name": "War With Us",
       "url": "https://open.spotify.com/track/5cQWn9HlLj5ZpRdbkXM0eM"
@@ -46804,7 +46996,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 126637,
       "name": "WATAGWAN",
       "url": "https://open.spotify.com/track/7ss109bgEL5gY3T8LEeDkD"

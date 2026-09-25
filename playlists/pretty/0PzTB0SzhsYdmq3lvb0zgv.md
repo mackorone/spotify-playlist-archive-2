@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/0PzTB0SzhsYdmq3lvb0zgv.md) - [plain]
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,039 likes - 246 songs - 13 hr 11 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 192,149 likes - 246 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Devour Me](https://open.spotify.com/track/6pnMlIhyMoE2syCCYY4oee) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:10 |
 | 2 | [Rollercoaster](https://open.spotify.com/track/7uZVETH7YVGbX7atrS49K4) | [Tim Hart](https://open.spotify.com/artist/1XUmEGWZ7MpBZ5jkb0l4iP) | [Rollercoaster](https://open.spotify.com/album/1MKpebBNeAiy9ogyWnvVCQ) | 3:34 |
-| 3 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 3 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 4 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 |
 | 5 | [Barcelona](https://open.spotify.com/track/3ieLey98V9mIIh3W9gBlPF) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Wanted on Voyage \(Expanded Edition\)](https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E) | 3:08 |
 | 6 | [Obsessica](https://open.spotify.com/track/2XhmIDdUVi7f44eW5wZEO8) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/0nqsPuGO0iEl4MRWwjhWF2) | 3:39 |

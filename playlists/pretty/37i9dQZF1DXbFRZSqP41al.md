@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 
 > Burn off all those beers from last night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,533,712 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,533,931 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFRZSqP41al.md) - [plain]
 | 48 | [Dance, Kid, Dance](https://open.spotify.com/track/3FZUR5UnfKK1q5gqbouBeW) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Three Six Five / Dance, Kid, Dance](https://open.spotify.com/album/3t6B4Y5fAjwjq1wh5iDsq0) | 3:32 |
 | 49 | [Lost Soul \(feat\. Jonny Hawkins of NOTHING MORE\)](https://open.spotify.com/track/58Wc8a3rwHfJNEh6zlUvG9) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Jonny Hawkins](https://open.spotify.com/artist/2cToF7GZou0LEixRBI9WVN), [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Lost Soul \(feat\. Jonny Hawkins of NOTHING MORE\)](https://open.spotify.com/album/5Z1VRg54WscbvqqXLfT0KX) | 4:23 |
 | 50 | [Adjourn It \(feat\. Serj Tankian & Roman Morello\)](https://open.spotify.com/track/5HmYPdTqF0gnH3X7tXo9Qn) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM), [Roman Morello](https://open.spotify.com/artist/4MtYU5kRFzruyn6gbO1Hju) | [Adjourn It \(feat\. Serj Tankian & Roman Morello\)](https://open.spotify.com/album/6mox7WL9GR6w6eRru10oDp) | 2:47 |
-| 51 | [When I Wake Up](https://open.spotify.com/track/3O3fI1Z3myBXTCmUWT29zO) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [When I Wake Up](https://open.spotify.com/album/48pyXUDMERM1AaSI0gUi5n) | 3:34 |
-| 52 | [Crawl Back In](https://open.spotify.com/track/6eK6eWG03zxQFW8P4OE4Cb) | [Dead By Sunrise](https://open.spotify.com/artist/502ZZTWlqgS1Ht62ewubEJ) | [Out Of Ashes](https://open.spotify.com/album/34Zz8qH5QJgD2uTXDuZ2J9) | 3:02 |
+| 51 | [Crawl Back In](https://open.spotify.com/track/6eK6eWG03zxQFW8P4OE4Cb) | [Dead By Sunrise](https://open.spotify.com/artist/502ZZTWlqgS1Ht62ewubEJ) | [Out Of Ashes](https://open.spotify.com/album/34Zz8qH5QJgD2uTXDuZ2J9) | 3:02 |
+| 52 | [When I Wake Up](https://open.spotify.com/track/3O3fI1Z3myBXTCmUWT29zO) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [When I Wake Up](https://open.spotify.com/album/48pyXUDMERM1AaSI0gUi5n) | 3:34 |
 | 53 | [Calling](https://open.spotify.com/track/5OWHDcyCInbwVO0XXTIRj1) | [Taproot](https://open.spotify.com/artist/319rafipfKvd4cqaOwWIvA) | [Blue\-Sky Research \(U.S\. Version\)](https://open.spotify.com/album/0yf6tzIZPVtgozEkWhKsoO) | 3:52 |
 | 54 | [Make It Make Sense](https://open.spotify.com/track/4KFGxkAAP5D1HIBSwMv7d1) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Make It Make Sense](https://open.spotify.com/album/3TBw5z9f7WZ6Per1aTNkuC) | 3:08 |
 | 55 | [WE’RE IN THIS TOGETHER](https://open.spotify.com/track/7GSbGu5TD9PEIpo3qsBp75) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [WE’RE IN THIS TOGETHER](https://open.spotify.com/album/0FcdTxDTTVvr6jiSuP1Nc5) | 4:12 |

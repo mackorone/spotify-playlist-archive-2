@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-11",
-  "description": "The sound of Afrobeats echoing around the world. Cover: Rema",
+  "description": "The sound of Afrobeats echoing around the world. Cover: Tiakola",
   "name": "Global Afrobeats",
   "tracks": [
     {
@@ -500,7 +500,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 164536,
       "name": "Ballerina (with Rema, Skillibeng, & Disco Neil)",
       "url": "https://open.spotify.com/track/7wI4jzM1fIGoysnGJSpHZY"
@@ -616,6 +616,28 @@
       "duration_ms": 358008,
       "name": "Bengicela (feat. JAZZWRLD)",
       "url": "https://open.spotify.com/track/6xlxghvkH5yDv93NoHlWOx"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq"
     },
     {
       "album": {
@@ -1099,6 +1121,32 @@
     },
     {
       "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172877,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1VixD42StOF93a1naJMGnb"
+    },
+    {
+      "album": {
         "name": "JUNCTION",
         "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
       },
@@ -1118,7 +1166,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169411,
       "name": "CUTLASS",
       "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
@@ -1300,7 +1348,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 151000,
       "name": "DROWN",
       "url": "https://open.spotify.com/track/1DN2qki2ftNNQ9xHcN8boW"
@@ -1837,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Dear London",
+        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Glass in the Air",
+      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
+    },
+    {
+      "album": {
         "name": "GUILT TRIPPIN (feat. Sexyy Red)",
         "url": "https://open.spotify.com/album/1Elc9U3hXEV7g8TMZBQY0h"
       },
@@ -2086,7 +2152,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 272000,
       "name": "Imvula",
       "url": "https://open.spotify.com/track/3ARs1fCLhABEhNUvfKtARl"
@@ -2260,6 +2326,28 @@
       "duration_ms": 188861,
       "name": "Jogodo",
       "url": "https://open.spotify.com/track/2njWzPDRRhsXOUhiA42e62"
+    },
+    {
+      "album": {
+        "name": "JURU",
+        "url": "https://open.spotify.com/album/3W720O23MZOYE6UCI45HGE"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188574,
+      "name": "JURU",
+      "url": "https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK"
     },
     {
       "album": {
@@ -2628,7 +2716,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 177457,
       "name": "MAGIC",
       "url": "https://open.spotify.com/track/4xAq1L431CBEpYit2yBY48"
@@ -3636,6 +3724,24 @@
       "duration_ms": 179000,
       "name": "PIRATE",
       "url": "https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG"
+    },
+    {
+      "album": {
+        "name": "PLAYA FR\u00cdA",
+        "url": "https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "PLAYA FR\u00cdA",
+      "url": "https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 869 likes - 75 songs - 4 hr 15 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 874 likes - 76 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,5 +83,6 @@ pretty - [cumulative](/playlists/cumulative/3d4pGVCn5WcRENdfoaLn7F.md) - [plain]
 | 73 | [Lioness](https://open.spotify.com/track/5DppNEwfjhj0epwYhmx5VE) | [Kuba Strawa](https://open.spotify.com/artist/0hLDCx7LOmJCcGIX6u0pSZ) | [Lioness](https://open.spotify.com/album/2XBgvxmYMAaBrl8JnePmBs) | 3:11 |
 | 74 | [O amor nao pode parar](https://open.spotify.com/track/0kecj9s4fMEkSeBqBjDOHT) | [MELOPIA](https://open.spotify.com/artist/6SMzun0z88Kfv2rUdkRc4E) | [O amor nao pode parar](https://open.spotify.com/album/0Js0Dek5wf5KDMtgMsqRBE) | 2:51 |
 | 75 | [Rams Ram](https://open.spotify.com/track/0plEu3wKASWXx9dul04lDF) | [Cam Get'm](https://open.spotify.com/artist/5fma43UccUMYLftsgZWoWh) | [Rams Ram](https://open.spotify.com/album/1vSFAO5S1fEKOAMkgtCh1T) | 4:27 |
+| 76 | [Photosynthesize](https://open.spotify.com/track/170x4QIJeKPk6MQp87KiU5) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Photosynthesize](https://open.spotify.com/album/4qSkBNtL1NcdXjEjRLnupg) | 4:43 |
 
-Snapshot ID: `AAAD9Zf96X9ZXqRkhYkWejyKk4neDyox`
+Snapshot ID: `AAAD9tA/wzz1hrCjg4O6ksFDE9bAzYeP`

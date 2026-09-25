@@ -1,6 +1,6 @@
 {
   "description": "Certified R&B hits. Cover: Leon Thomas",
-  "num_followers": 64185,
+  "num_followers": 64184,
   "original_name": "Certi: R&B",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2026-03-17 14:32:26",
       "album": {
+        "name": "Bryson Tiller",
+        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 125039,
+      "name": "Ciao!",
+      "url": "https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ"
+    },
+    {
+      "added_at": "2026-03-17 14:32:26",
+      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 207339,
       "name": "Run Away (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
-    },
-    {
-      "added_at": "2026-03-17 14:32:26",
-      "album": {
-        "name": "Bryson Tiller",
-        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 125039,
-      "name": "Ciao!",
-      "url": "https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ"
     },
     {
       "added_at": "2026-03-17 14:32:26",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-03-17 14:32:26",
       "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 188314,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
+    },
+    {
+      "added_at": "2026-03-17 14:32:26",
+      "album": {
         "name": "He Loves Us Both (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 221700,
       "name": "He Loves Us Both (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
-    },
-    {
-      "added_at": "2026-03-17 14:32:26",
-      "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/3EQdtWF4yIWoLIACYpJnuO"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 188314,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/3o2g4rjFVgHsRFSa2qcpgr"
     },
     {
       "added_at": "2026-03-17 14:32:26",

@@ -1,6 +1,6 @@
 {
   "description": "The greatest alternative rock songs through the decades. Cover: Weezer",
-  "num_followers": 842260,
+  "num_followers": 842352,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Dookie",
-        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 181533,
-      "name": "Basket Case",
-      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Toxicity",
         "url": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 235053,
       "name": "Aerials",
       "url": "https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Dookie",
+        "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 181533,
+      "name": "Basket Case",
+      "url": "https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Never Trust a Happy Song",
-        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
-      },
-      "artists": [
-        {
-          "name": "GROUPLOVE",
-          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
-        }
-      ],
-      "duration_ms": 218013,
-      "name": "Tongue Tied",
-      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Audioslave",
         "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 293960,
       "name": "Like a Stone",
       "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Never Trust a Happy Song",
+        "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
+      },
+      "artists": [
+        {
+          "name": "GROUPLOVE",
+          "url": "https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "Tongue Tied",
+      "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -691,18 +691,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+        "name": "A Beautiful Lie",
+        "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 311106,
-      "name": "Welcome to the Black Parade",
-      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
+      "duration_ms": 231533,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "A Beautiful Lie",
-        "url": "https://open.spotify.com/album/5sHvTCk793vr9EkSKcD7IT"
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
       },
       "artists": [
         {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 231533,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/0lP4HYLmvowOKdsQ7CVkuq"
+      "duration_ms": 311106,
+      "name": "Welcome to the Black Parade",
+      "url": "https://open.spotify.com/track/5wQnmLuC1W7ATsArWACrgW"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2071,22 +2071,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
-      },
-      "artists": [
-        {
-          "name": "Alien Ant Farm",
-          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Smooth Criminal",
-      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "American Idiot (Deluxe)",
         "url": "https://open.spotify.com/album/5Qhn2FpGWmTjCuntF09j7g"
       },
@@ -2099,6 +2083,22 @@
       "duration_ms": 493400,
       "name": "Holiday / Boulevard of Broken Dreams",
       "url": "https://open.spotify.com/track/0HJRAM7Gt9jXskuXjZeFX3"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/5klPnHQ5dy6Qm2Ul7h1lp5"
+      },
+      "artists": [
+        {
+          "name": "Alien Ant Farm",
+          "url": "https://open.spotify.com/artist/6TZdvF1kFzwnQLgHQynzsO"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Smooth Criminal",
+      "url": "https://open.spotify.com/track/5z6xHjCZr7a7AIcy8sPBKy"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2551,22 +2551,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Elephant",
-        "url": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 231800,
-      "name": "Seven Nation Army",
-      "url": "https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Fashion Nugget",
         "url": "https://open.spotify.com/album/57lJNxlrPSin9SySEnerNb"
       },
@@ -2579,6 +2563,22 @@
       "duration_ms": 179653,
       "name": "The Distance",
       "url": "https://open.spotify.com/track/0xMEF2WiqKWTIG7Krjungw"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Elephant",
+        "url": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 231800,
+      "name": "Seven Nation Army",
+      "url": "https://open.spotify.com/track/3ctoHckjyd13eBi2IDw2Ip"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -2951,22 +2951,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Morning View",
-        "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Modern Vampires of the City",
         "url": "https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn"
       },
@@ -2979,22 +2963,6 @@
       "duration_ms": 202666,
       "name": "Unbelievers",
       "url": "https://open.spotify.com/track/7psPPGwhFzP3pyOcb3ivcT"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
-      },
-      "artists": [
-        {
-          "name": "Silversun Pickups",
-          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
-        }
-      ],
-      "duration_ms": 354360,
-      "name": "Lazy Eye",
-      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3015,6 +2983,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "Morning View",
+        "url": "https://open.spotify.com/album/4FLYVGTsh9tiXOT2uJehkd"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/61qn7uoDsuswZs5p2DkFiP"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "Icky Thump",
         "url": "https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU"
       },
@@ -3027,6 +3011,22 @@
       "duration_ms": 254533,
       "name": "Icky Thump",
       "url": "https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv"
+      },
+      "artists": [
+        {
+          "name": "Silversun Pickups",
+          "url": "https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h"
+        }
+      ],
+      "duration_ms": 354360,
+      "name": "Lazy Eye",
+      "url": "https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3111,6 +3111,22 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
+        "name": "White Blood Cells",
+        "url": "https://open.spotify.com/album/6ivqUxtSPTljd9Frfdyxbg"
+      },
+      "artists": [
+        {
+          "name": "The White Stripes",
+          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
+        }
+      ],
+      "duration_ms": 110093,
+      "name": "Fell In Love With A Girl",
+      "url": "https://open.spotify.com/track/33ytgjBqchYHhhRfKWMCvH"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
         "name": "In Rainbows",
         "url": "https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f"
       },
@@ -3139,22 +3155,6 @@
       "duration_ms": 322173,
       "name": "The Funeral",
       "url": "https://open.spotify.com/track/27IZXTdeGYjU6m5lTyDpmr"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
-        "name": "White Blood Cells",
-        "url": "https://open.spotify.com/album/6ivqUxtSPTljd9Frfdyxbg"
-      },
-      "artists": [
-        {
-          "name": "The White Stripes",
-          "url": "https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70"
-        }
-      ],
-      "duration_ms": 110093,
-      "name": "Fell In Love With A Girl",
-      "url": "https://open.spotify.com/track/33ytgjBqchYHhhRfKWMCvH"
     },
     {
       "added_at": "2026-02-13 03:17:49",
@@ -3191,22 +3191,6 @@
     {
       "added_at": "2026-02-13 03:17:49",
       "album": {
-        "name": "Kid A",
-        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 309093,
-      "name": "Idioteque",
-      "url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE"
-    },
-    {
-      "added_at": "2026-02-13 03:17:49",
-      "album": {
         "name": "Torches",
         "url": "https://open.spotify.com/album/5OSzFvFAYuRh93WDNCTLEz"
       },
@@ -3219,6 +3203,22 @@
       "duration_ms": 239600,
       "name": "Pumped up Kicks",
       "url": "https://open.spotify.com/track/6qj3fVJJ2PcRxpSG7lDPZ5"
+    },
+    {
+      "added_at": "2026-02-13 03:17:49",
+      "album": {
+        "name": "Kid A",
+        "url": "https://open.spotify.com/album/19RUXBFyM4PpmrLRdtqWbp"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 309093,
+      "name": "Idioteque",
+      "url": "https://open.spotify.com/track/7xqeIdLJSf3bgmZ7vUvHrE"
     }
   ],
   "unique_name": "Essential Alternative",

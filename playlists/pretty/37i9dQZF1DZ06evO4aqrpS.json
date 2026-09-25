@@ -1,12 +1,12 @@
 {
   "description": "This is Silvana Estrada. The essential tracks, all in one playlist.",
-  "num_followers": 67917,
+  "num_followers": 67941,
   "original_name": "This Is Silvana Estrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADsA9nRk5ojbLu2Rt0gTPmL",
+  "snapshot_id": "arMWgAAAAAC7TNSjDS5u5zD4eZ6+0ex6",
   "tracks": [
     {
       "added_at": null,
@@ -243,22 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Marchita",
-        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 207786,
-      "name": "Ser de Ti",
-      "url": "https://open.spotify.com/track/1t7DZ1hrqkV1BVaxBPQwB1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuando Te Muerdes el Labio",
         "url": "https://open.spotify.com/album/0MYpaG2Kjp6ss5g0IgKrE4"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 173453,
       "name": "Peligrosamente Dark (feat. Silvana Estrada)",
       "url": "https://open.spotify.com/track/15pq95Ie1omSW3e1oCCynv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Marchita",
+        "url": "https://open.spotify.com/album/2fvOC8dzZ0BMVzCG6X2g7Y"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 207786,
+      "name": "Ser de Ti",
+      "url": "https://open.spotify.com/track/1t7DZ1hrqkV1BVaxBPQwB1"
     },
     {
       "added_at": null,

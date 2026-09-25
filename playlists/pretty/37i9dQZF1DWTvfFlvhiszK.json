@@ -1,6 +1,6 @@
 {
   "description": "Old school jams to kick nostalgia up a notch. ",
-  "num_followers": 23498,
+  "num_followers": 23512,
   "original_name": "Ghana Throwback Party ",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-03-16 11:45:06",
       "album": {
+        "name": "Sorkode",
+        "url": "https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g"
+      },
+      "artists": [
+        {
+          "name": "Keche",
+          "url": "https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E"
+        }
+      ],
+      "duration_ms": 220360,
+      "name": "Sorkode",
+      "url": "https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy"
+    },
+    {
+      "added_at": "2026-03-16 11:45:06",
+      "album": {
         "name": "Simple",
         "url": "https://open.spotify.com/album/4XS1iaLdd3g4IxKYoZs2jh"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 312706,
       "name": "Aben Wo Aha",
       "url": "https://open.spotify.com/track/0r6z4y1ipgGloVF3ZPSfZ7"
-    },
-    {
-      "added_at": "2026-03-16 11:45:06",
-      "album": {
-        "name": "Sorkode",
-        "url": "https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g"
-      },
-      "artists": [
-        {
-          "name": "Keche",
-          "url": "https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E"
-        }
-      ],
-      "duration_ms": 220360,
-      "name": "Sorkode",
-      "url": "https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy"
     },
     {
       "added_at": "2026-03-16 11:45:06",

@@ -1922,10 +1922,28 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 205671,
       "name": "I'm In Heaven",
       "url": "https://open.spotify.com/track/5Ycw4NgU1nxx2aFZbX1ULW"
+    },
+    {
+      "album": {
+        "name": "I'm Still Here",
+        "url": "https://open.spotify.com/album/3vDC5cWyjy2qhkyK5RJyyM"
+      },
+      "artists": [
+        {
+          "name": "Tim Dawn",
+          "url": "https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "I'm Still Here",
+      "url": "https://open.spotify.com/track/6pDuQ79dx8MOErPXW07q9V"
     },
     {
       "album": {
@@ -2110,7 +2128,7 @@
       ],
       "date_added": "2026-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180177,
       "name": "Just Another Road",
       "url": "https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw"
@@ -2608,7 +2626,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 238699,
       "name": "Morning Dawns Again",
       "url": "https://open.spotify.com/track/7mWqW5NWE6ijQ2MSXKEwVZ"
@@ -3577,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "The Romantic",
+        "url": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166458,
+      "name": "Something Serious",
+      "url": "https://open.spotify.com/track/0PV4VQCmE6Ujssr1bnswdF"
+    },
+    {
+      "album": {
         "name": "Something To Remember",
         "url": "https://open.spotify.com/album/5dNXnpsIQ7uYPOX8r4pruv"
       },
@@ -3822,7 +3858,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 145758,
       "name": "SWEET LOVE",
       "url": "https://open.spotify.com/track/1bx6QL4eUThXV2jS3B9atn"
@@ -4076,6 +4112,24 @@
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "album": {
+        "name": "The Other Man",
+        "url": "https://open.spotify.com/album/5YbFSCWi2EuSan2CBSdU3y"
+      },
+      "artists": [
+        {
+          "name": "Boaz",
+          "url": "https://open.spotify.com/artist/0ytyS944Vjixf9O0omhpyd"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172394,
+      "name": "The Other Man",
+      "url": "https://open.spotify.com/track/6Yit3UytQETLbU0GTRRrgS"
     },
     {
       "album": {
@@ -4692,6 +4746,24 @@
       "duration_ms": 279146,
       "name": "Wonderful World",
       "url": "https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5"
+    },
+    {
+      "album": {
+        "name": "Won\u2019t Fall",
+        "url": "https://open.spotify.com/album/4uSNgH9awhE0zRbG62IUek"
+      },
+      "artists": [
+        {
+          "name": "DI-RECT",
+          "url": "https://open.spotify.com/artist/0d1nFNO90pwRmCeeqjOx2Q"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228900,
+      "name": "Won\u2019t Fall",
+      "url": "https://open.spotify.com/track/1f7P00oydj1vmqzPqk9AxN"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 22607,
+  "num_followers": 22631,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
+        "name": "Gen Z",
+        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 145555,
+      "name": "Gen Z",
+      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 176200,
       "name": "Run Away (OMALICHA)",
       "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
-        "name": "Gen Z",
-        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 145555,
-      "name": "Gen Z",
-      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
     },
     {
       "added_at": "2026-08-28 00:02:11",

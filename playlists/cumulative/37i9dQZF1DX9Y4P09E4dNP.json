@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: AratheJay",
+  "description": "The big Hip-Life hits rn. Cover: Camidoh",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Amina",
+        "url": "https://open.spotify.com/album/0nypTuoTvycgiFrFEH2MQk"
+      },
+      "artists": [
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "Amina",
+      "url": "https://open.spotify.com/track/1eMM8Rf5ZhnpIAD8eGFJwg"
+    },
+    {
+      "album": {
         "name": "Ghana Old School HipLife Essentials",
         "url": "https://open.spotify.com/album/21puoieJiYxAfxXcjQtGmG"
       },
@@ -1451,6 +1469,28 @@
     },
     {
       "album": {
+        "name": "Bendova",
+        "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162941,
+      "name": "Bendova",
+      "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
+    },
+    {
+      "album": {
         "name": "Berima Nsu",
         "url": "https://open.spotify.com/album/1qdpKiWu9xvhzVPWmo6F76"
       },
@@ -1546,6 +1586,28 @@
       "duration_ms": 168960,
       "name": "BOA ME",
       "url": "https://open.spotify.com/track/2KBo8mUTnN4RzB88CCoZE2"
+    },
+    {
+      "album": {
+        "name": "Bokor Bokor",
+        "url": "https://open.spotify.com/album/0jeleBIMR3SqLqi1wf9lOF"
+      },
+      "artists": [
+        {
+          "name": "Dan Drizzy",
+          "url": "https://open.spotify.com/artist/5IbFALzw639sWEFRDWzhpI"
+        },
+        {
+          "name": "Twitch 4EVA",
+          "url": "https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154941,
+      "name": "Bokor Bokor",
+      "url": "https://open.spotify.com/track/72OTEO5DShf3WH8hvdPVXb"
     },
     {
       "album": {
@@ -2582,7 +2644,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 195135,
       "name": "Fountain",
       "url": "https://open.spotify.com/track/0bKbjrHkbuWnokrltDvTty"
@@ -4905,6 +4967,28 @@
     },
     {
       "album": {
+        "name": "Odo Nti",
+        "url": "https://open.spotify.com/album/1sb44qTuezcAFllgNEe9wI"
+      },
+      "artists": [
+        {
+          "name": "Mophty",
+          "url": "https://open.spotify.com/artist/6ce6iwbNe3sa0gqONeiI8Q"
+        },
+        {
+          "name": "siicie",
+          "url": "https://open.spotify.com/artist/5ROehmweZgFpxhFyrYefYa"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184800,
+      "name": "Odo Nti",
+      "url": "https://open.spotify.com/track/2s6f2wUoorQnBk1tm8JrXH"
+    },
+    {
+      "album": {
         "name": "ODO PA",
         "url": "https://open.spotify.com/album/4B2Bs2cX0e7mhEeHyogBiz"
       },
@@ -4942,6 +5026,24 @@
       "duration_ms": 338076,
       "name": "Ofie Nipa",
       "url": "https://open.spotify.com/track/5NahRnfX0SvMD1axzzVQsk"
+    },
+    {
+      "album": {
+        "name": "Ogyidinii",
+        "url": "https://open.spotify.com/album/3QwCLyRyCBALkU8bUzxbB5"
+      },
+      "artists": [
+        {
+          "name": "Pure Akan",
+          "url": "https://open.spotify.com/artist/7gokJukppUKeH1t6RBiclx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215986,
+      "name": "Ogyidinii",
+      "url": "https://open.spotify.com/track/2A7CXqUhxgfVudeFJPkz7x"
     },
     {
       "album": {
@@ -5604,7 +5706,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 152000,
       "name": "Receipt",
       "url": "https://open.spotify.com/track/5ZJZ5PAj3OzQ04e6xV7A94"
@@ -6267,6 +6369,28 @@
     },
     {
       "album": {
+        "name": "Steeze",
+        "url": "https://open.spotify.com/album/39sKfVQm4sKLL9mAflMvKR"
+      },
+      "artists": [
+        {
+          "name": "Mr Drew",
+          "url": "https://open.spotify.com/artist/4pW48O5XBTgEEJWfr8btdK"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Steeze",
+      "url": "https://open.spotify.com/track/3m9lU6rU5orvK504eviiIU"
+    },
+    {
+      "album": {
         "name": "Ultimate Classics, Vol. 1",
         "url": "https://open.spotify.com/album/0nNcFT8sn4ljkpKvgfxkTi"
       },
@@ -6828,6 +6952,24 @@
       "duration_ms": 194181,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/7krvWOVJSMcj3LHuxygzLh"
+    },
+    {
+      "album": {
+        "name": "2nd Step",
+        "url": "https://open.spotify.com/album/13F37l0pvS6Y8MFLdt56CP"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/02U8LbJujN3o0COgb6yHHF"
     },
     {
       "album": {

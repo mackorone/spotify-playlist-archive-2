@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: TEEKS
+> The best in South African and international R&B\. Cover: Blxckie
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,138 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,145 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 |
 | 2 | [So Good \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:57 |
-| 3 | [Overdose](https://open.spotify.com/track/15sy9Y95kBUzitFAshkY0o) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Overdose](https://open.spotify.com/album/0z9eiOxFAYLI5rhHwrlE5s) | 4:30 |
+| 3 | [lonely \(feat\. L.A.X\)](https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [lonely \(feat\. L.A.X\)](https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR) | 2:44 |
 | 4 | [FAVORITE LOVER](https://open.spotify.com/track/6YpqsRJaz6M7rZtUc6ZHpj) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [FAVORITE LOVER](https://open.spotify.com/album/5aDXI1PoBR8V7T0fffBNHR) | 2:28 |
 | 5 | [What a Woman](https://open.spotify.com/track/1c7gIfA5Lq06MHWIDMrCuB) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [it really isn't what it is](https://open.spotify.com/album/33vEbEYuaVJzq96YwtB1Sb) | 3:19 |
 | 6 | [To The Moon \(Plan C\) \- feat\. Steve Lacy](https://open.spotify.com/track/19u9Ms6Z8Ilo0JOITN2mFV) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 4:16 |
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 15 | [Heaven](https://open.spotify.com/track/2mkSfDrnrhcPHesoQzLTbM) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Fix Your Face](https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee) | 2:54 |
 | 16 | [Cry Ugly](https://open.spotify.com/track/61p1mfca6giD6MP75hEu5m) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 2:39 |
 | 17 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 |
-| 18 | [Fly U Out](https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fly U Out](https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI) | 3:14 |
+| 18 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
 | 19 | [Nights In The Sun \(feat\. Wizkid\)](https://open.spotify.com/track/3XmHd0NqN5O4e7Vnv8fb8q) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Fall That Saved Us](https://open.spotify.com/album/0xMQR9PD1M0Y70uP3VpyBl) | 2:50 |
 | 20 | [On My Own](https://open.spotify.com/track/4WJGwQZIw2jXTyyVgxLt8l) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [KayCyy](https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL) | [On My Own / Let Them Know](https://open.spotify.com/album/7j1l0N2kSatGgo7AE43MbJ) | 3:18 |
-| 21 | [IS IT](https://open.spotify.com/track/6NiiHhJPTeSaJR2TfDzpPz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [IS IT](https://open.spotify.com/album/2aCXRL0HlDr9XWpJ0EXv0C) | 2:44 |
+| 21 | [Fly U Out](https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fly U Out](https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI) | 3:14 |
 | 22 | [Hot Body](https://open.spotify.com/track/04yGQ4xzVt9LVAqop42ja6) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Hot Body](https://open.spotify.com/album/2SIm2REe2G7YxUuldtO98Z) | 2:40 |
 | 23 | [Might Just](https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Do You Still Love Me?](https://open.spotify.com/album/6wx0e6hnO0RGVaa5CgfNEX) | 3:43 |
 | 24 | [Coming Home \(feat\. Jorja Smith\)](https://open.spotify.com/track/0KUHECqcYMQGsPkfsWLUo6) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [For A Good Time...](https://open.spotify.com/album/55uMsvthBm45JtBhyadkPa) | 3:42 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 | 43 | [TABOO](https://open.spotify.com/track/17NLXL91ilTSQWEBRVbBGY) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT) | [TABOO](https://open.spotify.com/album/68ug4QKhy15hepdgMMRo10) | 2:45 |
 | 44 | [heal something](https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [ACT II](https://open.spotify.com/album/7okzZXqRBnjDMA6ZKh9CWo) | 3:01 |
 | 45 | [DIAMOND GOLD](https://open.spotify.com/track/1HDemO62blrYXP4IuZv0Ta) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [wHIMSY!](https://open.spotify.com/album/1Qx04kMMQn0mCWljoV7loF) | 3:15 |
-| 46 | [My Boy](https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [My Boy](https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD) | 4:14 |
-| 47 | [Give Me A Reason \(with Bryson Tiller\)](https://open.spotify.com/track/7uHapC7IlHVLcC3TxVEn7I) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:48 |
+| 46 | [Give Me A Reason \(with Bryson Tiller\)](https://open.spotify.com/track/7uHapC7IlHVLcC3TxVEn7I) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:48 |
+| 47 | [My Boy](https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [My Boy](https://open.spotify.com/album/6EI6Jmvat5PFCYXi8Cc9BD) | 4:14 |
 | 48 | [Circles](https://open.spotify.com/track/2OReovfjKHti68EZWPX9uf) | [sunandmoon](https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e), [Ogi](https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu), [Anoop](https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy) | [Circles](https://open.spotify.com/album/0cYnmsIOUzTu8ooIHdjQwg) | 3:40 |
 | 49 | [TAI CHI](https://open.spotify.com/track/6sVUbgavTwgtgWZCOlMBU0) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [TAI CHI](https://open.spotify.com/album/1ZRziooGZ1d7PIa7QIE5Hd) | 3:14 |
 | 50 | [DYNAMITE](https://open.spotify.com/track/7axVhEmNFXW0Y3Wkb9mUDX) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [WWP](https://open.spotify.com/album/0QM9iRrmunPt34bg8dKy5Q) | 2:57 |
 
-Snapshot ID: `AAAAAKSRPG7bBglHiGk16Z2LkAhIf+wM`
+Snapshot ID: `AAAAAMtvDCS+QqXf8x+4Ukr1HHFZmoip`

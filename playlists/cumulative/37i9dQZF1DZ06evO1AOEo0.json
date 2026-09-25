@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 253586,
       "name": "Oh But God",
       "url": "https://open.spotify.com/track/5aQCI8gmJvmLtvBocSS954"
@@ -1156,6 +1156,24 @@
       "duration_ms": 259013,
       "name": "Praise to the Lord (Joyful, Joyful)",
       "url": "https://open.spotify.com/track/606r72SXVOgvGR6FG5YH8E"
+    },
+    {
+      "album": {
+        "name": "Praise Upon Praise",
+        "url": "https://open.spotify.com/album/5yE1Rgtnic38wVRaHbiFnp"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244664,
+      "name": "Praise Upon Praise",
+      "url": "https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3"
     },
     {
       "album": {

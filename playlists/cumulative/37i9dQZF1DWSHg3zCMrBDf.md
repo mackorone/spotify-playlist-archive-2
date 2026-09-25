@@ -2,9 +2,9 @@
 
 ### [Hot Hits Ghana](https://open.spotify.com/playlist/37i9dQZF1DWSHg3zCMrBDf)
 
-> The hottest tracks in Ghana\. Cover: Black Sherif
+> The hottest tracks in Ghana\. Cover: Kweku Smoke
 
-487 songs - 1 day 0 hr 31 min
+488 songs - 1 day 0 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,8 +84,9 @@
 | [Body](https://open.spotify.com/track/4UCJEzg9a32xJzplvN1NYU) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [IRON BOY](https://open.spotify.com/album/3gi5efMf1SiQfnqpy1o0CK) | 2:47 | 2025-08-25 | 2025-09-23 |
 | [Body & Soul](https://open.spotify.com/track/2AaZJAh9FifPCQdba87Hzr) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/1TGcgugu0CxUp5rhS7SyCW) | 2:34 | 2023-05-26 | 2023-11-14 |
 | [Body Go \(with Tyla\)](https://open.spotify.com/track/4UDguq9kRecAxXZZl2kH1P) | [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Body Go \(with Tyla\)](https://open.spotify.com/album/1U8dEy3fn8V9veOSZ9onfM) | 2:45 | 2025-10-17 | 2026-03-27 |
+| [Bombele](https://open.spotify.com/track/5To9w1yLFlEOfs2EK7Ld7e) | [Kweku Smoke](https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO) | [NO DAYS OFF](https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w) | 2:21 | 2026-09-25 |  |
 | [Boom Boom](https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [Reggie](https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Boom Boom](https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp) | 2:44 | 2024-03-08 | 2024-11-01 |
-| [BOUNCE](https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [BOUNCE](https://open.spotify.com/album/0mdQI91TjgOdXkAmKLoB9J) | 2:33 | 2026-08-07 |  |
+| [BOUNCE](https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX) | [KOJO BLAK](https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW) | [BOUNCE](https://open.spotify.com/album/0mdQI91TjgOdXkAmKLoB9J) | 2:33 | 2026-08-07 | 2026-09-25 |
 | [Bout U](https://open.spotify.com/track/3qS4spuVywoeh9uGIpRuQh) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Bout U](https://open.spotify.com/album/27pA2FuPxbf7ukWvLhEvgV) | 2:43 | 2025-05-12 | 2025-08-26 |
 | [BRAG](https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [BRAG](https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR) | 2:29 | 2024-05-14 | 2024-06-21 |
 | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/track/3CTLElO2jgzX3pUU571Nfk) | [DJ Vyrusky](https://open.spotify.com/artist/20uZPZ6EXItffkdLevoEdV), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Broken Heart \(feat\. Kuami Eugene\)](https://open.spotify.com/album/2wP11FwHQj4zg9x9XBo1r4) | 2:58 | 2023-11-24 | 2024-05-15 |

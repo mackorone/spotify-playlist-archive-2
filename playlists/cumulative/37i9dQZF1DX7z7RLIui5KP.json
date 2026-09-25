@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Ila Nia & We Are Nubia",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Nadia Mukami",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -1202,7 +1202,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 189553,
       "name": "Dance Samawaah!",
       "url": "https://open.spotify.com/track/0NqqZIDStxP5bHOzAt7ne9"
@@ -4253,6 +4253,28 @@
     },
     {
       "album": {
+        "name": "Ni Noma",
+        "url": "https://open.spotify.com/album/5iNSwjas8ZHAjHTePDKKmf"
+      },
+      "artists": [
+        {
+          "name": "King Kaka",
+          "url": "https://open.spotify.com/artist/36di6g7Y2kPVJAqOoKl7QS"
+        },
+        {
+          "name": "Nyawira Siren",
+          "url": "https://open.spotify.com/artist/30Ji1LqHduDYdL3TP48kXg"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253019,
+      "name": "Ni Noma",
+      "url": "https://open.spotify.com/track/3gGy6hd7JqIJAYR1F8sAmR"
+    },
+    {
+      "album": {
         "name": "Ni Sisi Tuliowachagua",
         "url": "https://open.spotify.com/album/03ynYpD0qnWtVthRD0eSzZ"
       },
@@ -4282,7 +4304,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 185430,
       "name": "Ni Wewe",
       "url": "https://open.spotify.com/track/4U5mrT7FckpTynwDRnnQv0"
@@ -6020,7 +6042,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 239572,
       "name": "Taya",
       "url": "https://open.spotify.com/track/0FTkyNOOMb8b1sh81r5vJT"
@@ -6549,6 +6571,28 @@
     },
     {
       "album": {
+        "name": "Vaibu",
+        "url": "https://open.spotify.com/album/0H5orlrwANL0xPiUTXBu8t"
+      },
+      "artists": [
+        {
+          "name": "Mwanaa",
+          "url": "https://open.spotify.com/artist/5pzU5EVVWksqPwGvuA2oDa"
+        },
+        {
+          "name": "Brandy Maina",
+          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225900,
+      "name": "Vaibu",
+      "url": "https://open.spotify.com/track/7Fn0QaSVwL2CsA8yqFvhEw"
+    },
+    {
+      "album": {
         "name": "Valle",
         "url": "https://open.spotify.com/album/2BcVfop7n81LMww1Facj1a"
       },
@@ -6958,6 +7002,28 @@
       "duration_ms": 228799,
       "name": "Yeyo",
       "url": "https://open.spotify.com/track/6Hzjb6KpJLJmIS86PdYDLi"
+    },
+    {
+      "album": {
+        "name": "Yumba",
+        "url": "https://open.spotify.com/album/17xhtsM9UXKj9LQTGurliF"
+      },
+      "artists": [
+        {
+          "name": "Nadia Mukami",
+          "url": "https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No"
+        },
+        {
+          "name": "Arrow Bwoy",
+          "url": "https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180689,
+      "name": "Yumba",
+      "url": "https://open.spotify.com/track/3fTDjGxNXkbFb4vV4azZC2"
     },
     {
       "album": {

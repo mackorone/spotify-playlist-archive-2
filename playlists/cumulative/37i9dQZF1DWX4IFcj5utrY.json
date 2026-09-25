@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best dance hits in Africa. Cover: JAZZWRLD, Fireboy DML, Thukuthela",
+  "description": "The best dance hits in Africa. Cover: FKA Mash",
   "name": "mint Africa",
   "tracks": [
     {
@@ -19894,7 +19894,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 272033,
       "name": "Mopepe",
       "url": "https://open.spotify.com/track/2hMZXSgTxcuUwilbh9Kn5x"
@@ -30412,6 +30412,24 @@
       "duration_ms": 373437,
       "name": "Touch - Extended Mix",
       "url": "https://open.spotify.com/track/3itypsvYnEdQpIP77edzsh"
+    },
+    {
+      "album": {
+        "name": "EXITECHNO",
+        "url": "https://open.spotify.com/album/4TDcmsuTszNJVeX2AU3Imu"
+      },
+      "artists": [
+        {
+          "name": "FKA MASH",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/5WSesDy09JmCkVyFPb4SeT"
     },
     {
       "album": {

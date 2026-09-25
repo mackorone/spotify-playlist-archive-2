@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 
 > Mielenkiintoisimmat biisit ensisoitossa\. Kannessa Charli xcx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,664 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,663 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsb4MvKbVAY.md) - [plain]
 | 67 | [Pokaali](https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Pokaali](https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40) | 3:07 |
 | 68 | [Olosuhteet](https://open.spotify.com/track/7M0XDUWSUWw3xtOh2kC7IG) | [Leyla](https://open.spotify.com/artist/6bge4X4r0wfWIDsAM1vcra) | [Olosuhteet](https://open.spotify.com/album/0VnSP0fbUi0KEJolpnfZ1L) | 3:08 |
 | 69 | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/track/6MjKwFIStXtCRC5V6YK8oW) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV), [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Sydän \(feat\. Alina Burnet\)](https://open.spotify.com/album/74pG57KJSOWtbOtSPQWtlg) | 3:45 |
-| 70 | [Bier over hier](https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om), [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Bier over hier](https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl) | 2:59 |
-| 71 | [Länsipuoli](https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Länsipuoli](https://open.spotify.com/album/0RJultAynFlzZXE708nEPz) | 2:36 |
+| 70 | [Länsipuoli](https://open.spotify.com/track/7n8Nyy6JFgXWwGSLoCVi1t) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW) | [Länsipuoli](https://open.spotify.com/album/0RJultAynFlzZXE708nEPz) | 2:36 |
+| 71 | [Bier over hier](https://open.spotify.com/track/75nsJUP0YQRaU0dOBbzAXJ) | [Katariina Juselius](https://open.spotify.com/artist/075DeS26KHmrP8bteg75Om), [Teflon Brothers](https://open.spotify.com/artist/3zh3U2eQ64EhBFbJuxgf1M) | [Bier over hier](https://open.spotify.com/album/7m4dugOqXzutm1YMtWBHSl) | 2:59 |
 | 72 | [Kuvia mun kännykässä](https://open.spotify.com/track/3u3m6nDklH1hKohqZqIvM8) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Kuvia mun kännykässä](https://open.spotify.com/album/5pNCYWUM0P2T9xDg2krega) | 2:36 |
 | 73 | [Sonic Youth \(feat\. Bizi\)](https://open.spotify.com/track/6cSV49YiVXKNvwCbRo4Rd7) | [Ruusut](https://open.spotify.com/artist/5mNowcxxg3M2Iros4GTfXw), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Sonic Youth \(feat\. Bizi\)](https://open.spotify.com/album/0zDctSZEAs3YRdXWy62D5m) | 3:53 |
 | 74 | [Pieni exit](https://open.spotify.com/track/2clsFSS5ZCx3SW5o8CcY74) | [Malla](https://open.spotify.com/artist/0dHaPMHXrg3x8J6ucqNoPj) | [Pieni exit](https://open.spotify.com/album/6QGvxY1eZHa2aL1en4Pi7f) | 3:38 |
 | 75 | [Tower](https://open.spotify.com/track/59pskAsUrYQJOjN6Lt6wCr) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [Sunder](https://open.spotify.com/album/1ciRPgX96Ye9UEHESfM908) | 2:51 |
 | 76 | [Heart Said No](https://open.spotify.com/track/7sgFsQ1uHBcOgFSdQWUgNE) | [HOKKA](https://open.spotify.com/artist/20deUhMmlPFzvedllxLU97) | [Heart Said No](https://open.spotify.com/album/0Sz6p8iL9KrcTeYUrQthpG) | 3:22 |
-| 77 | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/track/7COQtkAMfAK1S0yfvKkglW) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT) | 3:27 |
-| 78 | [Elämä jatkuu](https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt) | [Roosa](https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg) | [Elämä jatkuu](https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u) | 3:00 |
+| 77 | [Elämä jatkuu](https://open.spotify.com/track/3Usdxqf4vyIg48MMQXacYt) | [Roosa](https://open.spotify.com/artist/65ul8vOKWYAxspjKZvGPkg) | [Elämä jatkuu](https://open.spotify.com/album/2cEf74hah2exKSN5CL0E5u) | 3:00 |
+| 78 | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/track/7COQtkAMfAK1S0yfvKkglW) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Mikä ois pahinta, mitä vois tapahtua?](https://open.spotify.com/album/4ckLpU4UAOuT4JDGEIi2QT) | 3:27 |
 | 79 | [Lahja](https://open.spotify.com/track/25y42iO1Bpjh3Rg1sBftzR) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [Apnea](https://open.spotify.com/album/0shNaOLJloTHlX1iDlXd7t) | 5:53 |
 | 80 | [Keho muistaa](https://open.spotify.com/track/29njXdJZFfFaFes7iP96OH) | [Jannika B](https://open.spotify.com/artist/5ffRhIFF1wJD3JJLDXt4hY) | [Keho muistaa](https://open.spotify.com/album/08ZOrlXuKJJD9E9xuKDwrR) | 3:02 |
 | 81 | [keväisin](https://open.spotify.com/track/0YKUGWa5eA5x5bWQ4xb2g2) | [ama](https://open.spotify.com/artist/1sAg7IqfaJWUFIeJRHXA6v) | [keväisin](https://open.spotify.com/album/2fc0xDffuBiIFBKBiAmtZt) | 3:27 |

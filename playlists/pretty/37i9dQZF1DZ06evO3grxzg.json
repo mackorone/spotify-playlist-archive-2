@@ -1,12 +1,12 @@
 {
   "description": "This is Danna Paola. The essential tracks, all in one playlist.",
-  "num_followers": 233787,
+  "num_followers": 233777,
   "original_name": "This Is Danna Paola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABzCbX4XDyt3L4gHv00nMpx",
+  "snapshot_id": "arMWgAAAAAAfEmSPtf5Yj64qPn9v2eyn",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 181426,
       "name": "AQYNE",
       "url": "https://open.spotify.com/track/3dFu4LIz5TqqWRISI7CJj1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Hope Club",
-        "url": "https://open.spotify.com/album/1FOu259qTT1V4pFwjR8MXn"
-      },
-      "artists": [
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Know Me Too Well (with Danna Paola)",
-      "url": "https://open.spotify.com/track/2zI9NSx3dncJHCw0QClcx0"
     },
     {
       "added_at": null,
@@ -211,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
-        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        },
-        {
-          "name": "Tatiana",
-          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "Azul Como El Cielo",
-      "url": "https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cali Y El Dandee: Fiesta",
         "url": "https://open.spotify.com/album/0tb6uSXTCSnViCjTJo0hwb"
       },
@@ -247,6 +207,26 @@
       "duration_ms": 174026,
       "name": "Nada",
       "url": "https://open.spotify.com/track/5f2LcI06r5cpp99ozVVuM4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amy La Ni\u00f1a De La Mochila Azul Vol.1",
+        "url": "https://open.spotify.com/album/2ERfJwem9i66Ax0b1is8Iw"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        },
+        {
+          "name": "Tatiana",
+          "url": "https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Azul Como El Cielo",
+      "url": "https://open.spotify.com/track/4VcZEDgmzHll1eKhY8OzyW"
     },
     {
       "added_at": null,
@@ -519,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los D\u00fao - Colecci\u00f3n Completa",
-        "url": "https://open.spotify.com/album/3dVLM0RBBR4pVLkl0Dh6Dr"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "De M\u00ed Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/6y4LoOGFtztZhLHZm2KgjF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Atr\u00e9vete A So\u00f1ar 2",
         "url": "https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS"
       },
@@ -567,6 +527,26 @@
       "duration_ms": 252693,
       "name": "A Coro",
       "url": "https://open.spotify.com/track/1lKEEDNsqdVcF2pD8zYjqO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los D\u00fao - Colecci\u00f3n Completa",
+        "url": "https://open.spotify.com/album/3dVLM0RBBR4pVLkl0Dh6Dr"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 299066,
+      "name": "De M\u00ed Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/6y4LoOGFtztZhLHZm2KgjF"
     },
     {
       "added_at": null,
@@ -767,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pop para los peques",
-        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Mar\u00eda Belem",
-      "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Despu\u00e9s de mucho de no hablar",
         "url": "https://open.spotify.com/album/7uyEeszHdWmBA7G6EhHaGF"
       },
@@ -795,6 +759,22 @@
       "duration_ms": 157666,
       "name": "Esa Es Mi Mamita Linda",
       "url": "https://open.spotify.com/track/11n0fDc4ju3oxVLlYqgTtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pop para los peques",
+        "url": "https://open.spotify.com/album/1ReWDCoZ2nzYT2lbxxSjyb"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Mar\u00eda Belem",
+      "url": "https://open.spotify.com/track/4zh6vIBEH8GQpOphzEnH09"
     },
     {
       "added_at": null,

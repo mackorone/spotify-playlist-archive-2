@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the great female artists from anime culture. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Cover: Daoko",
-  "num_followers": 198913,
+  "num_followers": 198932,
   "original_name": "Women of Anime",
   "owner": {
     "name": "Spotify",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-15 16:33:34",
       "album": {
-        "name": "Kawaii Kaiwai",
-        "url": "https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm"
-      },
-      "artists": [
-        {
-          "name": "PiKi",
-          "url": "https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Kawaii Kaiwai",
-      "url": "https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl"
-    },
-    {
-      "added_at": "2026-09-15 16:33:34",
-      "album": {
         "name": "Amore",
         "url": "https://open.spotify.com/album/5vBL2UwpiOUtBUEWD4RA5F"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 275973,
       "name": "Amore",
       "url": "https://open.spotify.com/track/5HMuyrjj7GrQPyDE7PGE9K"
+    },
+    {
+      "added_at": "2026-09-15 16:33:34",
+      "album": {
+        "name": "Kawaii Kaiwai",
+        "url": "https://open.spotify.com/album/1XHqGyZQTFzkomOfVttZtm"
+      },
+      "artists": [
+        {
+          "name": "PiKi",
+          "url": "https://open.spotify.com/artist/0k24bjTbB2IUhV74mvSv4T"
+        }
+      ],
+      "duration_ms": 153230,
+      "name": "Kawaii Kaiwai",
+      "url": "https://open.spotify.com/track/4uV4yldTUrYvHat6LiRZHl"
     },
     {
       "added_at": "2026-09-15 16:33:34",

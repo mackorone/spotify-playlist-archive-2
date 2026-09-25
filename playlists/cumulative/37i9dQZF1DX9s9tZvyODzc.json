@@ -1102,7 +1102,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 185486,
       "name": "Costumbres Argentinas",
       "url": "https://open.spotify.com/track/4ux5icXP18e2stlh7nlEqQ"
@@ -1596,7 +1596,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 258984,
       "name": "El fantasma",
       "url": "https://open.spotify.com/track/40f6dW0wfe0nHWwOhSfhUy"
@@ -1810,6 +1810,24 @@
       "duration_ms": 173003,
       "name": "En la Moto",
       "url": "https://open.spotify.com/track/3oOnGcGqJEH17jLSxsMFFA"
+    },
+    {
+      "album": {
+        "name": "Era Verdad, Ten\u00edas Raz\u00f3n",
+        "url": "https://open.spotify.com/album/26YRbCPNMuHtjyIQfbokPb"
+      },
+      "artists": [
+        {
+          "name": "Brutagrua",
+          "url": "https://open.spotify.com/artist/6d3d6hfaOsthV1G7LweLsy"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323849,
+      "name": "Era Verdad, Ten\u00edas Raz\u00f3n",
+      "url": "https://open.spotify.com/track/5KvK7Bbo1yKRPRoN5NOO1p"
     },
     {
       "album": {
@@ -2208,6 +2226,28 @@
       "duration_ms": 190946,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "album": {
+        "name": "Hojas Largas",
+        "url": "https://open.spotify.com/album/4DXFmfiiHVpQB9Mpr4KVrX"
+      },
+      "artists": [
+        {
+          "name": "Julia Zappa",
+          "url": "https://open.spotify.com/artist/6ZXXDHSXbHuCrJcpXK1lSh"
+        },
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Hojas Largas",
+      "url": "https://open.spotify.com/track/50iJkSS5lo6u7dloSKmnm1"
     },
     {
       "album": {
@@ -4314,7 +4354,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 186647,
       "name": "Principio Del Final",
       "url": "https://open.spotify.com/track/5Qe7892qFGZZ1pbFJeFihT"
@@ -4524,7 +4564,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 165500,
       "name": "Ramonas",
       "url": "https://open.spotify.com/track/5C0VBusCpksyZr6byc78oP"
@@ -4944,7 +4984,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 237948,
       "name": "Sola (en vivo)",
       "url": "https://open.spotify.com/track/25Sl9qVDTqSc42FNgdEhLW"
@@ -5100,7 +5140,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 202410,
       "name": "Superpoder",
       "url": "https://open.spotify.com/track/1VObYLxjy0UXlt9IJQbaq9"
@@ -5419,6 +5459,28 @@
     },
     {
       "album": {
+        "name": "Todo est\u00e1 por verse",
+        "url": "https://open.spotify.com/album/31im7KS1POkuVU8NDSsnYF"
+      },
+      "artists": [
+        {
+          "name": "Koino Yokan",
+          "url": "https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J"
+        },
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199588,
+      "name": "Todo est\u00e1 por verse",
+      "url": "https://open.spotify.com/track/7kY5iFQgfTJmBmzxMIkRya"
+    },
+    {
+      "album": {
         "name": "Gran Turismo",
         "url": "https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn"
       },
@@ -5678,6 +5740,24 @@
       "duration_ms": 197706,
       "name": "Uptown Girl",
       "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh"
+    },
+    {
+      "album": {
+        "name": "virgencitas y malvones",
+        "url": "https://open.spotify.com/album/2bQfiUPVabAx1OSSvdRrzQ"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186880,
+      "name": "virgencitas y malvones",
+      "url": "https://open.spotify.com/track/49YULgYduEzPvpQh52oJmZ"
     },
     {
       "album": {

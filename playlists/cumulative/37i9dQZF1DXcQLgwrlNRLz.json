@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2026-06-30",
-  "description": "Le plus chauds d'Afrique Francophone. Cover: TRK.",
+  "description": "Le plus chauds d'Afrique Francophone. Cover: Tiakola",
   "name": "Francophone.wav",
   "tracks": [
     {
@@ -134,6 +134,28 @@
       "duration_ms": 160307,
       "name": "BALLE DANS LE COEUR",
       "url": "https://open.spotify.com/track/42koItqq5r5ZoXj8TTt36D"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq"
     },
     {
       "album": {
@@ -562,7 +584,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 172394,
       "name": "En Haut",
       "url": "https://open.spotify.com/track/6BovZi5xW96aWgGZVmToRe"
@@ -748,6 +770,28 @@
       "duration_ms": 180386,
       "name": "Jam",
       "url": "https://open.spotify.com/track/1TA5iikDuwQVNDwp4Iz1jw"
+    },
+    {
+      "album": {
+        "name": "JURU",
+        "url": "https://open.spotify.com/album/3W720O23MZOYE6UCI45HGE"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188574,
+      "name": "JURU",
+      "url": "https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK"
     },
     {
       "album": {
@@ -984,7 +1028,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 150347,
       "name": "Malin (feat. Lil Jay Bingerack)",
       "url": "https://open.spotify.com/track/1Wazsfj5rPwUIAgaZai89s"

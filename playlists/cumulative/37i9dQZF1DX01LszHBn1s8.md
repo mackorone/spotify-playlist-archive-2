@@ -4,7 +4,7 @@
 
 > babygirl in control, I feel like Nicole..
 
-1,732 songs - 3 day 19 hr 26 min
+1,734 songs - 3 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -535,6 +535,7 @@
 | [Get Into It \(Yuh\)](https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:18 | 2022-05-19 | 2022-10-07 |
 | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi), [Guy\-Manuel de Homem\-Christo](https://open.spotify.com/artist/2NvZ35VexRu6LmfVlArMPq), [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Get Lucky \(Radio Edit\) \[feat\. Pharrell Williams and Nile Rodgers\]](https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA) | 4:08 | 2022-05-19 | 2025-01-08 |
 | [Get Well Soon](https://open.spotify.com/track/2pAG0CfwvkA4JcSo6eb9jq) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Get Well Soon](https://open.spotify.com/album/4P0qK1UZsmlL9aspZaOkkJ) | 2:34 | 2022-07-14 | 2025-01-08 |
+| [GGEZ](https://open.spotify.com/track/6iwsWcvqCQcj025NqCeyFS) | [Kaien Nuen](https://open.spotify.com/artist/3jY7jpzlATDcExp1QOA35I), [SUGAR](https://open.spotify.com/artist/68zcQG5gDRisoPPTyNPdju), [M.Sasuke](https://open.spotify.com/artist/75t1r7Dnlz4EDc1Dn7Yqtd) | [GGEZ](https://open.spotify.com/album/4N0OrCbUuALfN6WAis78aO) | 2:32 | 2026-09-24 |  |
 | [Ghost](https://open.spotify.com/track/7ya7Jv4hJ9W0Baz7h9nL7E) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice \(The Complete Edition\)](https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9) | 2:33 | 2022-05-19 | 2025-01-08 |
 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 | 2022-05-19 | 2022-10-29 |
 | [ghost town \(voice memo\)](https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [ghost town \(voice memo\)](https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g) | 2:17 | 2022-05-19 | 2022-10-07 |
@@ -922,6 +923,7 @@
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-01-31 | 2025-01-08 |
 | [Low Life \(feat\. The Weeknd\)](https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [EVOL](https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly) | 5:13 | 2023-10-19 | 2025-01-08 |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:20 | 2024-05-16 |  |
+| [Låtsas som det regnar \- Jarly Remix](https://open.spotify.com/track/73YWlw3iqd0BHHH38udVT6) | [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs), [Jarly](https://open.spotify.com/artist/6fqgB9Ag9atWWORngKSV95) | [Låtsas som det regnar \(Jarly Remix\)](https://open.spotify.com/album/7Jb0WZWDEMANtvfckwGoXE) | 3:58 | 2026-09-24 |  |
 | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Ma Meilleure Ennemie \(from the series Arcane League of Legends\)](https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB) | 2:27 | 2024-11-26 | 2026-01-15 |
 | [Made For Me](https://open.spotify.com/track/0WIv5qV41y6YjjB9V1biuC) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Made For Me](https://open.spotify.com/album/2VIJu8iWncUpGcv64UOxnv) | 3:08 | 2024-03-25 | 2025-01-08 |
 | [Made You Look](https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 2:14 | 2022-10-24 | 2025-01-08 |

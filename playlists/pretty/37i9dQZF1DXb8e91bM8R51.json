@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 52993,
+  "num_followers": 52989,
   "original_name": "no corre",
   "owner": {
     "name": "Spotify",
@@ -587,6 +587,22 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
+        "name": "Stakes Is High",
+        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
+      },
+      "artists": [
+        {
+          "name": "De La Soul",
+          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
+        }
+      ],
+      "duration_ms": 330408,
+      "name": "Stakes Is High",
+      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
         "name": "No Way Out",
         "url": "https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 325733,
       "name": "Young G's (feat. The Notorious B.I.G. & Jay-Z)",
       "url": "https://open.spotify.com/track/1z1btB03Hw1gYwSLPlt67z"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
-        "name": "Stakes Is High",
-        "url": "https://open.spotify.com/album/3jlC2uhYNrhikZXLviEnpu"
-      },
-      "artists": [
-        {
-          "name": "De La Soul",
-          "url": "https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6"
-        }
-      ],
-      "duration_ms": 330408,
-      "name": "Stakes Is High",
-      "url": "https://open.spotify.com/track/5sfXK6yQlY9vSzuR3f3oD8"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -743,22 +743,6 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Blackberry Marmalade",
-        "url": "https://open.spotify.com/album/109EG53gglqHzxhMHUR916"
-      },
-      "artists": [
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Blackberry Marmalade",
-      "url": "https://open.spotify.com/track/3FxrOAlvKSGGloyWOOgRDA"
-    },
-    {
-      "added_at": "2026-08-03 21:14:45",
-      "album": {
         "name": "Muddy Waters",
         "url": "https://open.spotify.com/album/5iluV9CqP7Wl9wjubwdw5h"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 251480,
       "name": "Pick It Up",
       "url": "https://open.spotify.com/track/7l3ZNXBVVdhBz13Vo0kbLz"
+    },
+    {
+      "added_at": "2026-08-03 21:14:45",
+      "album": {
+        "name": "Blackberry Marmalade",
+        "url": "https://open.spotify.com/album/109EG53gglqHzxhMHUR916"
+      },
+      "artists": [
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Blackberry Marmalade",
+      "url": "https://open.spotify.com/track/3FxrOAlvKSGGloyWOOgRDA"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1235,8 +1235,8 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Roofless Records For Drop Tops: Disc 2",
-        "url": "https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW"
+        "name": "Continuance",
+        "url": "https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU"
       },
       "artists": [
         {
@@ -1244,17 +1244,17 @@
           "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
         },
         {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
         }
       ],
-      "duration_ms": 166220,
-      "name": "The Coin Toss",
-      "url": "https://open.spotify.com/track/0vOSCwr3CqjRY4CMXOcNOT"
+      "duration_ms": 150053,
+      "name": "Louis Baggage (feat. Babyface Ray)",
+      "url": "https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB"
     },
     {
       "added_at": "2026-08-03 21:14:45",
@@ -1343,8 +1343,8 @@
     {
       "added_at": "2026-08-03 21:14:45",
       "album": {
-        "name": "Continuance",
-        "url": "https://open.spotify.com/album/6nOgR17Z6SkfRQ0ygRogTU"
+        "name": "Roofless Records For Drop Tops: Disc 2",
+        "url": "https://open.spotify.com/album/7A6d4aereF1Qy7HrtuohpW"
       },
       "artists": [
         {
@@ -1352,17 +1352,17 @@
           "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         },
         {
-          "name": "Babyface Ray",
-          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
         }
       ],
-      "duration_ms": 150053,
-      "name": "Louis Baggage (feat. Babyface Ray)",
-      "url": "https://open.spotify.com/track/5lPsuQEj6GwZkAn8MMHaqB"
+      "duration_ms": 166220,
+      "name": "The Coin Toss",
+      "url": "https://open.spotify.com/track/0vOSCwr3CqjRY4CMXOcNOT"
     },
     {
       "added_at": "2026-08-03 21:14:45",

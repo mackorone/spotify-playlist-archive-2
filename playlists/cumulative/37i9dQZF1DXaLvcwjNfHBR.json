@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-18",
-  "description": "Your new favourite songs! Cover: Jhen\u00e9 Aiko",
+  "description": "Your new favourite songs! Cover: Newport",
   "name": "Breaking Hits",
   "tracks": [
     {
@@ -10476,7 +10476,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 196972,
       "name": "HUMAN AGAIN",
       "url": "https://open.spotify.com/track/3uP7jqdt4haiuL4acLhrDY"
@@ -12595,6 +12595,28 @@
     },
     {
       "album": {
+        "name": "Last Thing You Need (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Last Thing You Need (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
+    },
+    {
+      "album": {
         "name": "Last Time I Saw You",
         "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
       },
@@ -12660,7 +12682,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 183406,
       "name": "Leak It",
       "url": "https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ"
@@ -18634,7 +18656,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 259834,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/4xWUjNJvwaC7l1fkIWiyri"
@@ -24824,6 +24846,24 @@
       "duration_ms": 203090,
       "name": "Worth It",
       "url": "https://open.spotify.com/track/7MRoIVZ0QuVy3xDu9Z6Thu"
+    },
+    {
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194103,
+      "name": "Write Me A Letter",
+      "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
     },
     {
       "album": {

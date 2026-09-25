@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The official soundtrack for EA SPORTS FC 27.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,371 likes - 107 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,680 likes - 107 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,16 +41,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 31 | [Your Eyes](https://open.spotify.com/track/5Rl4ZuhIf3cNBRVx5zQJLc) | [Small Town Kid](https://open.spotify.com/artist/4nC9NdTdz3haKyiZfUMxql) | [Your Eyes](https://open.spotify.com/album/2orewSiRAYqOUHZmE4afvz) | 2:28 |
 | 32 | [particule](https://open.spotify.com/track/6HWAQ1RfNaP1fpKw4l4AoS) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [particule](https://open.spotify.com/album/2KMjA471yV4sjCUzIZYPYM) | 2:59 |
 | 33 | [What You Want \- Fcukers Remix](https://open.spotify.com/track/0vDEDfoMO57db8lb60xE2s) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO), [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [What You Want \(Fcukers Remix\)](https://open.spotify.com/album/6pTEOWVGMpx8keqO9xRhDC) | 3:22 |
-| 34 | [BELIEVE ME](https://open.spotify.com/track/38t3ahuVbB02NP7sMBMbaj) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi), [CA$PAR](https://open.spotify.com/artist/5QlHGPrtXeYq5YtSCpxy87) | [NO MORE PAIN X+</3](https://open.spotify.com/album/3Ocyx25wLtXqmRkpRLGeAr) | 4:37 |
-| 35 | [SHEITE](https://open.spotify.com/track/3WrwSAIs1jAZml3iRD6zDP) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NAIKI](https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic) | 2:11 |
+| 34 | [Husband](https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Husband](https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo) | 3:56 |
+| 35 | [BELIEVE ME](https://open.spotify.com/track/38t3ahuVbB02NP7sMBMbaj) | [BSEARL](https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi), [CA$PAR](https://open.spotify.com/artist/5QlHGPrtXeYq5YtSCpxy87) | [NO MORE PAIN X+</3](https://open.spotify.com/album/3Ocyx25wLtXqmRkpRLGeAr) | 4:37 |
 | 36 | [Garage](https://open.spotify.com/track/1UiTxC6y88t1Li8yrIga8F) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Enzo from the Block](https://open.spotify.com/artist/2cb6bVhjolxjqG8xXpn3G3), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [JOGA BONITO](https://open.spotify.com/album/3MxiIcnkAdx7gJg6zvhkId) | 2:48 |
-| 37 | [Husband](https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Husband](https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo) | 3:56 |
+| 37 | [SHEITE](https://open.spotify.com/track/3WrwSAIs1jAZml3iRD6zDP) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [NAIKI](https://open.spotify.com/album/0pjOf0aWfj0YQCJd1wPCic) | 2:11 |
 | 38 | [El Hombre Planeta](https://open.spotify.com/track/6lAFH3RZ8ksjDrT2tITV4d) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [El Hombre Planeta](https://open.spotify.com/album/75WJJbM7cHUVEKBE9ofNx8) | 3:52 |
-| 39 | [Run](https://open.spotify.com/track/34vKizew7gm9p1W4lBH8kc) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Dios Bendiga](https://open.spotify.com/album/4NiQalkIqQLwIvu7WtwIlH) | 2:44 |
-| 40 | [Trocitos De Madera](https://open.spotify.com/track/1x1DggLKpWW1RCHZ1du5FP) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene De Mi](https://open.spotify.com/album/1KNxX4OodpFzWuFTqscdgT) | 4:35 |
+| 39 | [Trocitos De Madera](https://open.spotify.com/track/1x1DggLKpWW1RCHZ1du5FP) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Viene De Mi](https://open.spotify.com/album/1KNxX4OodpFzWuFTqscdgT) | 4:35 |
+| 40 | [Run](https://open.spotify.com/track/34vKizew7gm9p1W4lBH8kc) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX), [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Dios Bendiga](https://open.spotify.com/album/4NiQalkIqQLwIvu7WtwIlH) | 2:44 |
 | 41 | [el combito](https://open.spotify.com/track/20GZrtIucl7nskm1CNwK6X) | [FaceBrooklyn](https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8) | [no somos iguales](https://open.spotify.com/album/6lbBaRx5ZVYaMW9zDJodhI) | 2:19 |
-| 42 | [APRENDER A AMAR](https://open.spotify.com/track/3IIwWeUz1DEKHfY01uej6N) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 1:39 |
-| 43 | [Stain](https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6) | [LEMONSUCKR](https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M) | [Stain](https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85) | 3:07 |
+| 42 | [Stain](https://open.spotify.com/track/6VDZf8IXQapl5FGw2nduU6) | [LEMONSUCKR](https://open.spotify.com/artist/3GOEpVQKFuVvZeFAyu8a8M) | [Stain](https://open.spotify.com/album/6HVBzBJLeI9yDFf0IprO85) | 3:07 |
+| 43 | [APRENDER A AMAR](https://open.spotify.com/track/3IIwWeUz1DEKHfY01uej6N) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [GRASA](https://open.spotify.com/album/2ab0PTJ5OG7I6YfSqpDFZv) | 1:39 |
 | 44 | [FIGURE IT OUT](https://open.spotify.com/track/0ZNcMmQFfId5YbrwbGEcN1) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [FIGURE IT OUT](https://open.spotify.com/album/4jCKsyJs8tskfcov8TnhPC) | 2:15 |
 | 45 | [Look Up](https://open.spotify.com/track/4Zluf3UZvWHcx3nDe6PrXs) | [Sycco](https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0) | [Look Up](https://open.spotify.com/album/4gvR5KMuBMZRFRX6Y0urnk) | 3:04 |
 | 46 | [Avalanche](https://open.spotify.com/track/58ypfg7I2GmsgoXyqkGwTs) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Girlfriend](https://open.spotify.com/album/5vQw01aNO9psubvwEU8eO4) | 3:12 |

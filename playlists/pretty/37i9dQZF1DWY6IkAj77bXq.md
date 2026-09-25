@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,090 likes - 120 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,115 likes - 120 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6IkAj77bXq.md) - [plain]
 | 14 | [Chakra relaxation](https://open.spotify.com/track/2l4AGmbSVDXuqnkCSG95Dt) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Chakra relaxation](https://open.spotify.com/album/2Wig58KgxUMq8cKVZQc6O7) | 2:55 |
 | 15 | [Distant Dreams](https://open.spotify.com/track/5QdtZJlec7TLKELoxNXlQA) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Distant Dreams](https://open.spotify.com/album/2z1UhXqkbpP1owcqp3zj5A) | 2:39 |
 | 16 | [Seamlessly](https://open.spotify.com/track/3oBpAGvPb8sZsGEPO6Qa7o) | [Hwardo Ineso](https://open.spotify.com/artist/462RWWtGvZzX3dhgZmoXgg) | [Seamlessly](https://open.spotify.com/album/38SICvl80iRsObCJF1oh9O) | 2:26 |
-| 17 | [Uprising Gamma 146hz](https://open.spotify.com/track/40lux2m9G8S9TchpAJeEa8) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Uprising Gamma 146hz](https://open.spotify.com/album/5sfopZ98oDYt19FW8tuk5m) | 2:52 |
-| 18 | [Evening Veil](https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Evening Veil](https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w) | 2:16 |
+| 17 | [Evening Veil](https://open.spotify.com/track/1p3IsftHRTcoaTjzUf2mQ5) | [Seth Sands](https://open.spotify.com/artist/1EcwJ494z7gVanrsuDjNs8) | [Evening Veil](https://open.spotify.com/album/5QUwN3JNxJyKjYzVQiXw9w) | 2:16 |
+| 18 | [Uprising Gamma 146hz](https://open.spotify.com/track/40lux2m9G8S9TchpAJeEa8) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Uprising Gamma 146hz](https://open.spotify.com/album/5sfopZ98oDYt19FW8tuk5m) | 2:52 |
 | 19 | [Echo Shore](https://open.spotify.com/track/0MjeX7SD9zfdIATLXRaYdr) | [Sereluna](https://open.spotify.com/artist/1ZFdGnslzGSf1huxJ3yzev) | [Echo Shore](https://open.spotify.com/album/3ERRny9YXJqClGg5pAp4aH) | 3:05 |
 | 20 | [Circuits](https://open.spotify.com/track/5BdEWN641x678b5G91K2MM) | [Nelumbo Lutea](https://open.spotify.com/artist/7duAAYgECCC91BEGtmsyvr) | [Circuits](https://open.spotify.com/album/3GZHXEo0J83QdaxJXXLjj0) | 2:40 |
 | 21 | [Where Silence Heals](https://open.spotify.com/track/4DrU5AIgI9aCf5TRomj5T8) | [Ocealis](https://open.spotify.com/artist/6bTSQUJFV2QX32Hx639Ht1) | [Where Silence Heals](https://open.spotify.com/album/26B5JB0X8l53PrLk9STVx3) | 3:22 |
 | 22 | [Infinite Light](https://open.spotify.com/track/5EX3yrp5S1HEmfHgNjzvAS) | [Muted Horizon](https://open.spotify.com/artist/0CYMzDdl0zIA2exI09ncfs) | [Infinite Light](https://open.spotify.com/album/1VoZK1H2xdp1t2b69VkCi7) | 2:23 |
 | 23 | [Uncharted Realm](https://open.spotify.com/track/1zHSkgMqxbaFYiIagaIORC) | [Luminescence Love](https://open.spotify.com/artist/0tbkbhvaoPYMmQ5ERDAxuR) | [Uncharted Realm](https://open.spotify.com/album/6TgaQwm8W1uBiLLUor2AWe) | 4:16 |
-| 24 | [Twilight Reverie](https://open.spotify.com/track/5vpOK7O8ELpzq3vezWNnvx) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Twilight Reverie](https://open.spotify.com/album/0roVoXtvT3baTG0aKGVSfD) | 2:52 |
-| 25 | [Constellation](https://open.spotify.com/track/4rfarsda54eUg7P7dmM3VO) | [Renoir Rose](https://open.spotify.com/artist/5CAi5m67hzXUmCv1XtHjZZ) | [Constellation](https://open.spotify.com/album/60lIvdWv7SKv6G5IOXgq5D) | 2:34 |
+| 24 | [Constellation](https://open.spotify.com/track/4rfarsda54eUg7P7dmM3VO) | [Renoir Rose](https://open.spotify.com/artist/5CAi5m67hzXUmCv1XtHjZZ) | [Constellation](https://open.spotify.com/album/60lIvdWv7SKv6G5IOXgq5D) | 2:34 |
+| 25 | [Twilight Reverie](https://open.spotify.com/track/5vpOK7O8ELpzq3vezWNnvx) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Twilight Reverie](https://open.spotify.com/album/0roVoXtvT3baTG0aKGVSfD) | 2:52 |
 | 26 | [Somnum](https://open.spotify.com/track/0QpXIbRh2TsDxjQcdBX4of) | [Lavona](https://open.spotify.com/artist/3ZjL5oc3m442zsT7EtEPz9) | [Somnum](https://open.spotify.com/album/08aZ6GMYcj7QPJAFFzJGHP) | 2:15 |
 | 27 | [Zense](https://open.spotify.com/track/4evoyd3aWcj9rxmzajtsKA) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Zense](https://open.spotify.com/album/3A3HLUnAfLlvrlZeeAcYEQ) | 2:57 |
 | 28 | [Coastal Day](https://open.spotify.com/track/4anG3kAHgtrTnn8aZd444Q) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Coastal Day](https://open.spotify.com/album/46qfLAjD8zAQC5a2PlGwbX) | 2:31 |

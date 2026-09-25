@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Aku Jeje",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: BAHA",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -4423,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Cercah",
+        "url": "https://open.spotify.com/album/2MqllXClhlqm18tc9t0hjY"
+      },
+      "artists": [
+        {
+          "name": "Gerald Situmorang",
+          "url": "https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102244,
+      "name": "Opening a New Door",
+      "url": "https://open.spotify.com/track/5iduUnGmdxM5g3GLBERtLp"
+    },
+    {
+      "album": {
         "name": "Meta",
         "url": "https://open.spotify.com/album/07m8bchmHOvYqyu8mGmeQS"
       },
@@ -4856,6 +4874,24 @@
       "duration_ms": 258545,
       "name": "Rona Imaji",
       "url": "https://open.spotify.com/track/2lEP08kMtVbhLfCKPyo5JL"
+    },
+    {
+      "album": {
+        "name": "Roulette",
+        "url": "https://open.spotify.com/album/3WebCon4bK3hKKWSyXVEa5"
+      },
+      "artists": [
+        {
+          "name": "BAHA",
+          "url": "https://open.spotify.com/artist/7pMCmB0nZudHCcVLUJAdR8"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207482,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/5EccsQXg74abrFIhMw0ULS"
     },
     {
       "album": {

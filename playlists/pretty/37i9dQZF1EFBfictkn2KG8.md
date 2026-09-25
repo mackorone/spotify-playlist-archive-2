@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 8 | [Déjà Vu](https://open.spotify.com/track/5f6nlDTGRzH9zR7vHIxlp7) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Déjà Vu](https://open.spotify.com/album/49suZMTVKKsLNX34EqQ7mc) | 2:31 |
 | 9 | [Babylon](https://open.spotify.com/track/1e9Lx4nNiGdNEoIL24CDuW) | [Yearboox](https://open.spotify.com/artist/53k0HFVDEcC0Qobdnw30TM) | [Babylon](https://open.spotify.com/album/2cvnOoN9A2CaCXFesGv1D5) | 2:07 |
 | 10 | [Better Now](https://open.spotify.com/track/74Hf2CrG7Y2dzCwPAXYugR) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Better Now](https://open.spotify.com/album/223dHoItv1AL15XYaLYzjY) | 2:49 |
-| 11 | [Life](https://open.spotify.com/track/1JmrB1mUq9BislMIDHjlJu) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Life](https://open.spotify.com/album/2pmdlbQJN9NXsCxHFOvjzx) | 2:54 |
-| 12 | [Rodeo](https://open.spotify.com/track/405KnDGhTDL2kYmczbN7AC) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Rodeo](https://open.spotify.com/album/51BlOCH8hpyZ7tYBjvVkZu) | 2:34 |
+| 11 | [Rodeo](https://open.spotify.com/track/405KnDGhTDL2kYmczbN7AC) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r) | [Rodeo](https://open.spotify.com/album/51BlOCH8hpyZ7tYBjvVkZu) | 2:34 |
+| 12 | [Life](https://open.spotify.com/track/1JmrB1mUq9BislMIDHjlJu) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Life](https://open.spotify.com/album/2pmdlbQJN9NXsCxHFOvjzx) | 2:54 |
 | 13 | [Somebody New](https://open.spotify.com/track/1n7Gc7LbzQWDSJ7g5IoOdP) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Somebody New](https://open.spotify.com/album/1Rt2VGbNDz7uUtobyHGu2k) | 2:48 |
 | 14 | [This Time](https://open.spotify.com/track/2Yd4qXngsCBJMGnl7jpd4J) | [Alon](https://open.spotify.com/artist/3NOLGndGHL48IB3YFdA36r), [Desirée Dawson](https://open.spotify.com/artist/1BeMe0yy4Sqo29rnqkZ1tc) | [This Time](https://open.spotify.com/album/5lg1ZSzwI54olu69s3Uw37) | 2:50 |
 | 15 | [22](https://open.spotify.com/track/3ZBeBPho2tpNn6vHcic9Jd) | [Sarah McTernan](https://open.spotify.com/artist/5KHDZuaKZOP6cJWRtSHWe8) | [22](https://open.spotify.com/album/7dakU6o0pVLhFyKOpBD1JY) | 2:53 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 39 | [GOAT](https://open.spotify.com/track/0ACNb58uJrEqNlZXmNVyDf) | [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [GOAT](https://open.spotify.com/album/2u7zWNBAM8cCqVDRdb7sLd) | 2:22 |
 | 40 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AcdG5gAAAADMpebsg5fuhlj4jwEuNonM`
+Snapshot ID: `AcdMfAAAAACVXPEuuHoRiXPVUGicPJ/v`

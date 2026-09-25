@@ -4,7 +4,7 @@
 
 > DMV music breaking waves\. Curated: <a href="spotify:artist:4Ge9GwmWnOQsohwPTrXyHc">Gordo</a>
 
-508 songs - 1 day 0 hr 42 min
+508 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,6 @@
 | [LET UP](https://open.spotify.com/track/26iQwztcSXNHKmN87mU0xt) | [Twellly](https://open.spotify.com/artist/1isLpCDTiMLbyn5PMKU9Jo) | [LET UP](https://open.spotify.com/album/0jLUj49ZitP8bUgErqndPN) | 2:27 | 2021-10-15 | 2022-02-26 |
 | [Let's Go](https://open.spotify.com/track/28TCQK8ZbAt9w9EAkoCB0J) | [Bandhunta Izzy](https://open.spotify.com/artist/5nnmjpedVxTOH8KwpDdSZ2), [Steelz](https://open.spotify.com/artist/0xG8uG9nzLyuwoVIPF0xiM) | [Let's Go](https://open.spotify.com/album/41l5GOFiS51w7ulHuPzODA) | 2:24 | 2023-01-13 | 2023-05-19 |
 | [Letter Grade](https://open.spotify.com/track/2PAQ6lDXfmB7DJxMZLJtqk) | [Shark Breach](https://open.spotify.com/artist/3dXwEWeXNM60sfrLdiBKP6), [Swerzie](https://open.spotify.com/artist/5cdRW3M7PAo9EAB0qYk8bU) | [Letter Grade](https://open.spotify.com/album/4fhWfiF5SltcSgOdGsgu8r) | 2:14 | 2022-03-11 | 2022-04-09 |
-| [Levels](https://open.spotify.com/track/6vOeokRJNZjouabFGDLH1C) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:37 | 2024-11-01 |  |
 | [Lie 4 Me](https://open.spotify.com/track/7oQh233TKMs0G1T3Ig0bdz) | [Shaolinn](https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q) | [Blackstone](https://open.spotify.com/album/75t1nUGLLV38r5KqNpecxy) | 2:57 | 2021-10-08 | 2022-03-05 |
 | [Life for Now](https://open.spotify.com/track/4vkNiRlxV9Aagzbcp1HI3M) | [Jru Anthony](https://open.spotify.com/artist/3x8X8PhtVyn9Mo90kONWLZ) | [Life for Now](https://open.spotify.com/album/5yYhR2rpdtHsdG9Nwo3OhS) | 4:04 | 2022-09-23 | 2023-04-16 |
 | [Life Goes On](https://open.spotify.com/track/2QMbye5SS2SJevP3d1cbXm) | [LB199X](https://open.spotify.com/artist/2Q0j8jCsQAW5hMUeKuEryM) | [Life Goes On EP](https://open.spotify.com/album/4WUFTqgNqltVs2rNpi7hn2) | 2:58 | 2022-03-04 | 2022-04-02 |
@@ -454,6 +453,7 @@
 | [The Hands \- From the Original Motion Picture “The Inspection”](https://open.spotify.com/track/1VYLPa8PSEeypLXwbncLfx) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [The Hands \(From the Original Motion Picture “The Inspection”\)](https://open.spotify.com/album/71nyj9LZWPJwEHViGRvD02) | 6:16 | 2022-12-02 | 2023-04-29 |
 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2KmaftDdtm3OfLmLFjIvx3) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/7og33jtAyvtoMS6RWXpSo3) | 4:10 | 2024-06-06 | 2024-11-02 |
 | [Them Girls Do](https://open.spotify.com/track/5ZBqTdhua0ADInEXNOhwJP) | [Willie Jones](https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM) | [Them Girls Do](https://open.spotify.com/album/667A3pB1bWGSqBBpmjJJAZ) | 2:52 | 2024-06-06 | 2024-11-02 |
+| [Thick](https://open.spotify.com/track/6vOeokRJNZjouabFGDLH1C) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 3:16 | 2024-11-01 |  |
 | [Thriller](https://open.spotify.com/track/3S2R0EVwBSAVMd5UMgKTL0) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 5:57 | 2024-06-06 | 2024-11-02 |
 | [Time Flies](https://open.spotify.com/track/5uEPlpIjiRrnxefCxwKSIq) | [Shaolinn](https://open.spotify.com/artist/08k2gPQqErQja9SME76i8Q) | [Time Flies](https://open.spotify.com/album/1aB96LzLx2G13D4K49YcW4) | 3:31 | 2022-05-20 | 2022-08-13 |
 | [Tinted Lens](https://open.spotify.com/track/6DLBRXR5tL21nvAaVp29Lv) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4) | [Tinted Lens](https://open.spotify.com/album/2HY51P5tthMRdSxs3FMT0K) | 2:41 | 2022-08-26 | 2023-01-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > LAS CANCIONES MÁS 🔥🔥🔥 El Regreso del Bogueto Chakaaaaaaaaal
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,486 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,521 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

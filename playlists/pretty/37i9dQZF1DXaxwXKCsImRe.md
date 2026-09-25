@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwXKCsImRe.md) - [plain]
 
 > De toekomst van de Benelux volgens onze muziekredactie\. Cover: <a href="spotify:artist:66Q9dkZ7EXdwU2h6tEkUdC">Isabèl Usher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,227 likes - 18 songs - 50 min 46 sec
+[Spotify](https://open.spotify.com/user/spotify) - 8,231 likes - 18 songs - 50 min 46 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

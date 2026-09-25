@@ -1,28 +1,32 @@
 {
-  "description": "Today's biggest dance hits! Cover: Troye Sivan",
+  "description": "Today's biggest dance hits! Cover: Tobiahs, VV-Ace",
   "num_followers": 450150,
   "original_name": "Dance Generation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHscnC7l5ZONZrNinORZyiTOkoih",
+  "snapshot_id": "AAAAAD4xcfI3WBcgO9x3aah71VVHFsKp",
   "tracks": [
     {
-      "added_at": "2026-09-17 23:00:31",
+      "added_at": "2026-09-24 14:00:22",
       "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+        "name": "Where You Really Come From",
+        "url": "https://open.spotify.com/album/2YMvAoQc7GzJ27Xb9zU9EF"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        },
+        {
+          "name": "VV-Ace",
+          "url": "https://open.spotify.com/artist/58oXnUjX5TvylYa3gGNxca"
         }
       ],
-      "duration_ms": 201331,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+      "duration_ms": 176456,
+      "name": "Where You Really Come From",
+      "url": "https://open.spotify.com/track/0Oiwu7DlTKNZHnrI5muVTK"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -47,6 +51,66 @@
       "duration_ms": 172500,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "Push It",
+        "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
+      },
+      "artists": [
+        {
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+        },
+        {
+          "name": "Maesic",
+          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
+        },
+        {
+          "name": "Princess Superstar",
+          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+        }
+      ],
+      "duration_ms": 129302,
+      "name": "Push It",
+      "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
+    },
+    {
+      "added_at": "2026-09-17 23:00:31",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "Just A Little Bit More",
+        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 214038,
+      "name": "Just A Little Bit More",
+      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -79,6 +143,22 @@
     {
       "added_at": "2026-09-13 23:25:00",
       "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH"
+      },
+      "artists": [
+        {
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "duration_ms": 192855,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
         "name": "Genie in a Bottle (Levi Mix)",
         "url": "https://open.spotify.com/album/2cUZ5RyG48l4PurHGi4iNu"
       },
@@ -97,44 +177,48 @@
       "url": "https://open.spotify.com/track/1jIH1ugCqobuVG13P59POG"
     },
     {
-      "added_at": "2026-09-13 23:25:00",
+      "added_at": "2026-09-24 14:00:22",
       "album": {
-        "name": "Come To Life",
-        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4"
       },
       "artists": [
         {
-          "name": "Cassian",
-          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
         },
         {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "ATLAC",
+          "url": "https://open.spotify.com/artist/4zjApLlmv1DjwnM2Yrmp98"
         }
       ],
-      "duration_ms": 192209,
-      "name": "Come To Life",
-      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
+      "duration_ms": 154161,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/5CcmjQ1cZFvA63uoWwLVvt"
     },
     {
-      "added_at": "2026-09-13 23:25:00",
+      "added_at": "2026-09-24 14:00:22",
       "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i"
+        "name": "If You Want Me",
+        "url": "https://open.spotify.com/album/1PYBSKS97wpvT0rhx6DX9g"
       },
       "artists": [
         {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
         },
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 228947,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"
+      "duration_ms": 180226,
+      "name": "If You Want Me",
+      "url": "https://open.spotify.com/track/2kGdtsoikfnm2ElE7S1wk1"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -165,80 +249,24 @@
       "url": "https://open.spotify.com/track/2AYqs8XQ5fGMJZlAlunvRX"
     },
     {
-      "added_at": "2026-09-13 23:25:00",
+      "added_at": "2026-09-24 14:00:22",
       "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/1QBnnhNimYbsPtwSODQxuo"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 146260,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Push It",
-        "url": "https://open.spotify.com/album/6vuQ8hA2TcPUcG98Xnzvio"
-      },
-      "artists": [
-        {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "DJ BORING",
+          "url": "https://open.spotify.com/artist/3MkIU5jhXTMK9pYQTRVI6p"
         },
         {
-          "name": "Maesic",
-          "url": "https://open.spotify.com/artist/1GO0BdzMo0I4HNHfbaLbKZ"
-        },
-        {
-          "name": "Mason",
-          "url": "https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd"
-        },
-        {
-          "name": "Princess Superstar",
-          "url": "https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM"
+          "name": "TEED",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 129302,
-      "name": "Push It",
-      "url": "https://open.spotify.com/track/5Ef5Df4m9y7X4ixO4TgBWy"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH"
-      },
-      "artists": [
-        {
-          "name": "Yes Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
-        }
-      ],
-      "duration_ms": 192855,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Stay With Me Through The Night",
-        "url": "https://open.spotify.com/album/28EdPIAGo5czFuqTGseouO"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 157879,
-      "name": "Stay With Me Through The Night",
-      "url": "https://open.spotify.com/track/3YvdiKCgmH1N5PHLUosWBF"
+      "duration_ms": 165454,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/3oowIGctmBAAOLGi04Ysvo"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -261,56 +289,24 @@
       "url": "https://open.spotify.com/track/5nxpg2Yvg8286aJ6L6w7DD"
     },
     {
-      "added_at": "2026-09-17 23:00:31",
-      "album": {
-        "name": "Back Of The Club",
-        "url": "https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M"
-      },
-      "artists": [
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        }
-      ],
-      "duration_ms": 171350,
-      "name": "Back Of The Club",
-      "url": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
-    },
-    {
       "added_at": "2026-09-13 23:25:00",
       "album": {
-        "name": "HOLD DA PHONE",
-        "url": "https://open.spotify.com/album/6zGGxrZeYbEk5Z6jRMtaPp"
+        "name": "Come To Life",
+        "url": "https://open.spotify.com/album/0HIW7oTP9Y1RpJ1OlvJ4lD"
       },
       "artists": [
         {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
         },
         {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
         }
       ],
-      "duration_ms": 203222,
-      "name": "HOLD DA PHONE",
-      "url": "https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY"
-    },
-    {
-      "added_at": "2026-09-17 23:00:31",
-      "album": {
-        "name": "Smoke Signals",
-        "url": "https://open.spotify.com/album/2ww5t3ADmcUPAUpQUSz2Eu"
-      },
-      "artists": [
-        {
-          "name": "ST\u00dcM",
-          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
-        }
-      ],
-      "duration_ms": 273888,
-      "name": "Smoke",
-      "url": "https://open.spotify.com/track/0VjYhcHdW7xYp6EcyDt5JZ"
+      "duration_ms": 192209,
+      "name": "Come To Life",
+      "url": "https://open.spotify.com/track/0CBRDrO5BuFxmfIjOSYUaW"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -335,18 +331,22 @@
     {
       "added_at": "2026-09-13 23:25:00",
       "album": {
-        "name": "Just A Little Bit More",
-        "url": "https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC"
+        "name": "HOLD DA PHONE",
+        "url": "https://open.spotify.com/album/6zGGxrZeYbEk5Z6jRMtaPp"
       },
       "artists": [
         {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+          "name": "Interplanetary Criminal",
+          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
+        },
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
         }
       ],
-      "duration_ms": 214038,
-      "name": "Just A Little Bit More",
-      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q"
+      "duration_ms": 203222,
+      "name": "HOLD DA PHONE",
+      "url": "https://open.spotify.com/track/2IKns7PcTCTa8WcrfF7tsY"
     },
     {
       "added_at": "2026-09-17 23:00:31",
@@ -369,6 +369,38 @@
       "url": "https://open.spotify.com/track/2Zniy5oL90EgMPMxNyHGM6"
     },
     {
+      "added_at": "2026-09-17 23:00:31",
+      "album": {
+        "name": "Back Of The Club",
+        "url": "https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 171350,
+      "name": "Back Of The Club",
+      "url": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "Stay With Me Through The Night",
+        "url": "https://open.spotify.com/album/28EdPIAGo5czFuqTGseouO"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 157879,
+      "name": "Stay With Me Through The Night",
+      "url": "https://open.spotify.com/track/3YvdiKCgmH1N5PHLUosWBF"
+    },
+    {
       "added_at": "2026-09-13 23:25:00",
       "album": {
         "name": "Check Into",
@@ -383,6 +415,26 @@
       "duration_ms": 125454,
       "name": "Check Into",
       "url": "https://open.spotify.com/track/01ojf2Z6EvfFm2liLs3cGb"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/7G8gqx5GoTSdTJ41gU0d6i"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        }
+      ],
+      "duration_ms": 228947,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/4yJBJNrl3chEz7DqAaWe7y"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -407,18 +459,54 @@
     {
       "added_at": "2026-09-13 23:25:00",
       "album": {
-        "name": "Ah Yeah (2.0)",
-        "url": "https://open.spotify.com/album/3YCqUESG4nSNk9uYwDjyeL"
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
       },
       "artists": [
         {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 196500,
-      "name": "Ah Yeah (2.0)",
-      "url": "https://open.spotify.com/track/6q6yGAUvlrLz6mmbbuxLo0"
+      "duration_ms": 146260,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "Arizona",
+        "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 164423,
+      "name": "Arizona",
+      "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
+    },
+    {
+      "added_at": "2026-09-17 23:00:31",
+      "album": {
+        "name": "Smoke Signals",
+        "url": "https://open.spotify.com/album/2ww5t3ADmcUPAUpQUSz2Eu"
+      },
+      "artists": [
+        {
+          "name": "ST\u00dcM",
+          "url": "https://open.spotify.com/artist/2voP6uZbMR9fJ49e8HE9Fd"
+        }
+      ],
+      "duration_ms": 273888,
+      "name": "Smoke",
+      "url": "https://open.spotify.com/track/0VjYhcHdW7xYp6EcyDt5JZ"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -443,26 +531,6 @@
     {
       "added_at": "2026-09-13 23:25:00",
       "album": {
-        "name": "Arizona",
-        "url": "https://open.spotify.com/album/6GMGbOPuf2cBkQzjOhSm1X"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 164423,
-      "name": "Arizona",
-      "url": "https://open.spotify.com/track/4Nl32YRv6I3SenFccnCXN2"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/3kAY3LFZDj5VyvtQWBoXpO"
       },
@@ -479,6 +547,22 @@
       "duration_ms": 217714,
       "name": "Losing Control",
       "url": "https://open.spotify.com/track/0T7T8wnGrWKyhTUf8yWHmh"
+    },
+    {
+      "added_at": "2026-09-13 23:25:00",
+      "album": {
+        "name": "Ah Yeah (2.0)",
+        "url": "https://open.spotify.com/album/3YCqUESG4nSNk9uYwDjyeL"
+      },
+      "artists": [
+        {
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Ah Yeah (2.0)",
+      "url": "https://open.spotify.com/track/6q6yGAUvlrLz6mmbbuxLo0"
     },
     {
       "added_at": "2026-09-13 23:25:00",
@@ -1379,86 +1463,6 @@
       "duration_ms": 262170,
       "name": "Comes and Goes",
       "url": "https://open.spotify.com/track/3xQPerJjDVZrSFVE340D8r"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Satisfy",
-        "url": "https://open.spotify.com/album/55aZFGWITREqVoI2iy45Bd"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 186500,
-      "name": "Satisfy",
-      "url": "https://open.spotify.com/track/3AsOa3cNh8bqF4q1temSHE"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Way You Move",
-        "url": "https://open.spotify.com/album/1VXxVBe6lWpwPc5PojIbfj"
-      },
-      "artists": [
-        {
-          "name": "BSEARL",
-          "url": "https://open.spotify.com/artist/3e3riRnIankd5kcDNvsZFi"
-        },
-        {
-          "name": "Nerve",
-          "url": "https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN"
-        }
-      ],
-      "duration_ms": 333428,
-      "name": "Way You Move",
-      "url": "https://open.spotify.com/track/6IumdpGce37viyxSOrkxOL"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Love Is Kind",
-        "url": "https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        },
-        {
-          "name": "Oaks",
-          "url": "https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO"
-        }
-      ],
-      "duration_ms": 247384,
-      "name": "Love Is Kind",
-      "url": "https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT"
-    },
-    {
-      "added_at": "2026-09-13 23:25:00",
-      "album": {
-        "name": "Champagne",
-        "url": "https://open.spotify.com/album/3s8sK4o6jwSbPGtm6mRJ9g"
-      },
-      "artists": [
-        {
-          "name": "POOLCLVB",
-          "url": "https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL"
-        },
-        {
-          "name": "LUPO.THEBOY",
-          "url": "https://open.spotify.com/artist/1syxKeEMdMzXsF2Cq6v62w"
-        }
-      ],
-      "duration_ms": 224149,
-      "name": "Champagne",
-      "url": "https://open.spotify.com/track/0mkQ0izYmDZUE5JuAPfmfh"
     }
   ],
   "unique_name": "Dance Generation",

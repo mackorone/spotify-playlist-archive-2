@@ -1,29 +1,13 @@
 {
   "description": "The best new and classic South African Rock. Cover: Laudo",
-  "num_followers": 28586,
+  "num_followers": 28602,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGc1fH9mv0noFKxIwjgCpE0gLqi6",
+  "snapshot_id": "AAAAAJgI3bbW/5VS8kBDKkH/uPxcBNK8",
   "tracks": [
-    {
-      "added_at": "2026-09-17 22:02:32",
-      "album": {
-        "name": "Wit Limousine",
-        "url": "https://open.spotify.com/album/255Dxh5TNNVZJkOiuggNJX"
-      },
-      "artists": [
-        {
-          "name": "Laudo",
-          "url": "https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB"
-        }
-      ],
-      "duration_ms": 183195,
-      "name": "Wit Limousine",
-      "url": "https://open.spotify.com/track/4YYLLYqTj8xa86ZDlC6NLl"
-    },
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
@@ -57,20 +41,24 @@
       "url": "https://open.spotify.com/track/3DKD5cBeHWnLgXh60317vS"
     },
     {
-      "added_at": "2026-09-17 22:02:32",
+      "added_at": "2026-09-24 22:01:39",
       "album": {
-        "name": "Lazerbeams of Love",
-        "url": "https://open.spotify.com/album/30t5ggA4ETnIqn0mqkkkOT"
+        "name": "Aksie Braai",
+        "url": "https://open.spotify.com/album/5wW3FOc9GTmnFTU736pV03"
       },
       "artists": [
         {
-          "name": "Mercury's in the Microwave",
-          "url": "https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h"
+          "name": "Francois van Coke",
+          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
+        },
+        {
+          "name": "Hunter Kennedy",
+          "url": "https://open.spotify.com/artist/1ZMCOQhfU6y2jzMHXooyKi"
         }
       ],
-      "duration_ms": 204507,
-      "name": "Self Respect",
-      "url": "https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ"
+      "duration_ms": 181888,
+      "name": "Aksie Braai",
+      "url": "https://open.spotify.com/track/52YuMNXCzmAPxFIh9d8aNc"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -87,6 +75,22 @@
       "duration_ms": 158680,
       "name": "NIE M\u00d4RE NIE NOU",
       "url": "https://open.spotify.com/track/5WdHAbIFzTyy5lsL1jAasG"
+    },
+    {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Wit Limousine",
+        "url": "https://open.spotify.com/album/255Dxh5TNNVZJkOiuggNJX"
+      },
+      "artists": [
+        {
+          "name": "Laudo",
+          "url": "https://open.spotify.com/artist/5e3IDHK6w5MzcuY0ab17LB"
+        }
+      ],
+      "duration_ms": 183195,
+      "name": "Wit Limousine",
+      "url": "https://open.spotify.com/track/4YYLLYqTj8xa86ZDlC6NLl"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -109,20 +113,20 @@
       "url": "https://open.spotify.com/track/6I0YYOH2MtFP062f2b7sXD"
     },
     {
-      "added_at": "2026-09-17 22:02:32",
+      "added_at": "2026-09-24 22:01:39",
       "album": {
-        "name": "Everything In Between",
-        "url": "https://open.spotify.com/album/5AymQfngxW5AAnuLWOIroe"
+        "name": "Sweef",
+        "url": "https://open.spotify.com/album/3CWmDxbp2dPy8L0YV4wEw1"
       },
       "artists": [
         {
-          "name": "Shortstraw",
-          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
+          "name": "GSTRiNG",
+          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
         }
       ],
-      "duration_ms": 169306,
-      "name": "What The Hell",
-      "url": "https://open.spotify.com/track/5mgc2DhJUDWUIPCryyb5f5"
+      "duration_ms": 205032,
+      "name": "Sweef",
+      "url": "https://open.spotify.com/track/67HdShOHVANbkpkYkAAk24"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -139,38 +143,6 @@
       "duration_ms": 201000,
       "name": "I CHANGED (I'M UP)",
       "url": "https://open.spotify.com/track/1mUqDMg4JwzH6geIDEanrx"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Pose",
-        "url": "https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY"
-      },
-      "artists": [
-        {
-          "name": "Blush",
-          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
-        }
-      ],
-      "duration_ms": 202887,
-      "name": "Pose",
-      "url": "https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Te Laat",
-        "url": "https://open.spotify.com/album/5x4E7mWkDMiLBF44pm7Rh1"
-      },
-      "artists": [
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Te Laat",
-      "url": "https://open.spotify.com/track/5ENiSln8SCxWQLvRltWgAJ"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -195,6 +167,38 @@
       "duration_ms": 179002,
       "name": "Hoe Nou?",
       "url": "https://open.spotify.com/track/5woFmhSriTtpjYcaho6Ici"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Pose",
+        "url": "https://open.spotify.com/album/4dnXR7WoTbMXPs8vt03NkY"
+      },
+      "artists": [
+        {
+          "name": "Blush",
+          "url": "https://open.spotify.com/artist/3KUgWcAo6tBZwJPGMpgn1F"
+        }
+      ],
+      "duration_ms": 202887,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Spoed",
+        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 150810,
+      "name": "Spoed",
+      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -253,20 +257,20 @@
       "url": "https://open.spotify.com/track/20HP7Q7GMBrj88fzaWj9sx"
     },
     {
-      "added_at": "2026-08-27 22:01:29",
+      "added_at": "2026-09-24 22:01:39",
       "album": {
-        "name": "Spoed",
-        "url": "https://open.spotify.com/album/73UtUb5VpmN7d7Pt10BTkA"
+        "name": "Song Agt",
+        "url": "https://open.spotify.com/album/5zp2MGl8pjOvx33Hr7mkGR"
       },
       "artists": [
         {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Schwabie",
+          "url": "https://open.spotify.com/artist/4If0l4Y8xgtSTg2qVXVqKQ"
         }
       ],
-      "duration_ms": 150810,
-      "name": "Spoed",
-      "url": "https://open.spotify.com/track/1ZCLFJW1acNaaObECCXHD6"
+      "duration_ms": 147006,
+      "name": "Song Agt",
+      "url": "https://open.spotify.com/track/4aBQmU3t3Da7iP7C3bR7I0"
     },
     {
       "added_at": "2026-09-17 22:02:32",
@@ -301,24 +305,20 @@
       "url": "https://open.spotify.com/track/30xeRzXZ2B8fm1T0TcPccl"
     },
     {
-      "added_at": "2026-08-27 22:01:29",
+      "added_at": "2026-09-17 22:02:32",
       "album": {
-        "name": "LEWE",
-        "url": "https://open.spotify.com/album/78DUWRDY8l6abxg18AZ1xM"
+        "name": "Everything In Between",
+        "url": "https://open.spotify.com/album/5AymQfngxW5AAnuLWOIroe"
       },
       "artists": [
         {
-          "name": "Francois van Coke",
-          "url": "https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF"
-        },
-        {
-          "name": "Zaan Sonnekus",
-          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+          "name": "Shortstraw",
+          "url": "https://open.spotify.com/artist/1jldLaOPqF1tSIqeHruozt"
         }
       ],
-      "duration_ms": 166531,
-      "name": "LEWE",
-      "url": "https://open.spotify.com/track/5OcPA6RnXawZZoNK0ytZxn"
+      "duration_ms": 169306,
+      "name": "What The Hell",
+      "url": "https://open.spotify.com/track/5mgc2DhJUDWUIPCryyb5f5"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -469,6 +469,22 @@
       "url": "https://open.spotify.com/track/4poZabWtPpWp5CL2r3rbxg"
     },
     {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Lazerbeams of Love",
+        "url": "https://open.spotify.com/album/30t5ggA4ETnIqn0mqkkkOT"
+      },
+      "artists": [
+        {
+          "name": "Mercury's in the Microwave",
+          "url": "https://open.spotify.com/artist/63PBE6TT4tPBSfZa1AyW7h"
+        }
+      ],
+      "duration_ms": 204507,
+      "name": "Self Respect",
+      "url": "https://open.spotify.com/track/13Y0ubUwVxss68rEwPA9sJ"
+    },
+    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Stadig",
@@ -491,22 +507,6 @@
       "duration_ms": 207397,
       "name": "Stadig",
       "url": "https://open.spotify.com/track/1csJ3uoKufB2TY9Jbu0Wwu"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Surpass The Power",
-        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
-      },
-      "artists": [
-        {
-          "name": "Springbok Nude Girls",
-          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
-        }
-      ],
-      "duration_ms": 233200,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
       "added_at": "2026-09-17 22:02:32",
@@ -543,18 +543,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Elsie",
-        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+        "name": "Surpass The Power",
+        "url": "https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY"
       },
       "artists": [
         {
-          "name": "Die Heuwels Fantasties",
-          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+          "name": "Springbok Nude Girls",
+          "url": "https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh"
         }
       ],
-      "duration_ms": 156191,
-      "name": "Elsie",
-      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+      "duration_ms": 233200,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb"
     },
     {
       "added_at": "2026-09-17 22:02:32",
@@ -575,6 +575,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
+        "name": "Elsie",
+        "url": "https://open.spotify.com/album/3Inm3rJGrBONll3lU1Dfjg"
+      },
+      "artists": [
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "duration_ms": 156191,
+      "name": "Elsie",
+      "url": "https://open.spotify.com/track/2vwebWKn1FIRbrI3klfkRS"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
         "name": "KLEUR",
         "url": "https://open.spotify.com/album/3jEq8k4lYAkqTwHawZg8E0"
       },
@@ -587,6 +603,54 @@
       "duration_ms": 201420,
       "name": "KLEUR",
       "url": "https://open.spotify.com/track/4lSRuva7KOITTOIf5JONxH"
+    },
+    {
+      "added_at": "2026-09-24 22:01:39",
+      "album": {
+        "name": "Hou Aan Droom",
+        "url": "https://open.spotify.com/album/6poXtmmzC8wfOSNe2LmO2i"
+      },
+      "artists": [
+        {
+          "name": "Hendr\u00e9 Baard",
+          "url": "https://open.spotify.com/artist/6NDra2KqYUcKw8ARhvbf9R"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Hou Aan Droom",
+      "url": "https://open.spotify.com/track/0mwBPej1O7NKAfkytU8eCX"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
+        "name": "Vriende",
+        "url": "https://open.spotify.com/album/0zcoyriFyuRih2Eq2nmKLx"
+      },
+      "artists": [
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 235568,
+      "name": "Vriende",
+      "url": "https://open.spotify.com/track/2f3PrhqXCYHWJY9pdoM4Gm"
+    },
+    {
+      "added_at": "2026-09-24 22:01:39",
+      "album": {
+        "name": "Twisted By The Sound",
+        "url": "https://open.spotify.com/album/3RYoTkgyhZuKT8otm9DM6H"
+      },
+      "artists": [
+        {
+          "name": "The Medicine Dolls",
+          "url": "https://open.spotify.com/artist/2kmitkJxxZXckoOmXtAese"
+        }
+      ],
+      "duration_ms": 169280,
+      "name": "Twisted By The Sound",
+      "url": "https://open.spotify.com/track/5SQu1E9ACvBeqLxb04224Z"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -685,6 +749,22 @@
       "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
     },
     {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Happy Endings",
+        "url": "https://open.spotify.com/album/6eUxIoyuCUUVAfJLzn1dbr"
+      },
+      "artists": [
+        {
+          "name": "Tait",
+          "url": "https://open.spotify.com/artist/4euaa2RiB5CKUvkeyTZd3v"
+        }
+      ],
+      "duration_ms": 224727,
+      "name": "Happy Endings",
+      "url": "https://open.spotify.com/track/6kRjBLJwNvmxjrsvRAczQD"
+    },
+    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Stellies (feat. Rooksein)",
@@ -703,6 +783,22 @@
       "duration_ms": 167727,
       "name": "Stellies (feat. Rooksein)",
       "url": "https://open.spotify.com/track/5gwdkMm5nxMXUilAEADX76"
+    },
+    {
+      "added_at": "2026-09-17 22:02:32",
+      "album": {
+        "name": "Ek Wil Jou Sien",
+        "url": "https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO"
+      },
+      "artists": [
+        {
+          "name": "SENTIMENT",
+          "url": "https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt"
+        }
+      ],
+      "duration_ms": 183238,
+      "name": "Ek Wil Jou Sien",
+      "url": "https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -753,22 +849,6 @@
       "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
     },
     {
-      "added_at": "2026-09-17 22:02:32",
-      "album": {
-        "name": "Happy Endings",
-        "url": "https://open.spotify.com/album/6eUxIoyuCUUVAfJLzn1dbr"
-      },
-      "artists": [
-        {
-          "name": "Tait",
-          "url": "https://open.spotify.com/artist/4euaa2RiB5CKUvkeyTZd3v"
-        }
-      ],
-      "duration_ms": 224727,
-      "name": "Happy Endings",
-      "url": "https://open.spotify.com/track/6kRjBLJwNvmxjrsvRAczQD"
-    },
-    {
       "added_at": "2026-08-27 22:01:29",
       "album": {
         "name": "Change",
@@ -783,86 +863,6 @@
       "duration_ms": 239258,
       "name": "Change",
       "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
-    },
-    {
-      "added_at": "2026-09-17 22:02:32",
-      "album": {
-        "name": "Ek Wil Jou Sien",
-        "url": "https://open.spotify.com/album/3MZY8GP0AniCPebdVyTLuO"
-      },
-      "artists": [
-        {
-          "name": "SENTIMENT",
-          "url": "https://open.spotify.com/artist/5UfvbQjea70nDgJ0xJ4NVt"
-        }
-      ],
-      "duration_ms": 183238,
-      "name": "Ek Wil Jou Sien",
-      "url": "https://open.spotify.com/track/38N3F6mMbHDDN7Hs6Wr58h"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "HYMN",
-        "url": "https://open.spotify.com/album/3UOtQfu1cEoN3mFl1XFdgf"
-      },
-      "artists": [
-        {
-          "name": "Pussy Heaven",
-          "url": "https://open.spotify.com/artist/3ihHRwHKqgYZDbfB0WTQRK"
-        }
-      ],
-      "duration_ms": 184682,
-      "name": "GIZMO",
-      "url": "https://open.spotify.com/track/0X8ws6quCWzvA4t1YNTfQt"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Verloor Jouself",
-        "url": "https://open.spotify.com/album/62W2COHw25v2dtuQ2bxwBV"
-      },
-      "artists": [
-        {
-          "name": "GSTRiNG",
-          "url": "https://open.spotify.com/artist/7x8i7WdBTZtFV2VbvIoDM5"
-        }
-      ],
-      "duration_ms": 135272,
-      "name": "Verloor Jouself",
-      "url": "https://open.spotify.com/track/6gyapfzo41oTNPFLMBIgA4"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Nou Toer Ons!",
-        "url": "https://open.spotify.com/album/5kzt6dw4Nye0oySXtNXl89"
-      },
-      "artists": [
-        {
-          "name": "Die Beste Band In Die W\u00eareld ...Ooit, Ek Sweer",
-          "url": "https://open.spotify.com/artist/1LCk8t8lJx1S9aJt6RajMd"
-        }
-      ],
-      "duration_ms": 178813,
-      "name": "Doen Sy Bes",
-      "url": "https://open.spotify.com/track/6fddhUt3v9E3SlJuInrLgS"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "Against All Odds",
-        "url": "https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu"
-      },
-      "artists": [
-        {
-          "name": "aKING",
-          "url": "https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5"
-        }
-      ],
-      "duration_ms": 175746,
-      "name": "Against All Odds",
-      "url": "https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW"
     }
   ],
   "unique_name": "SA Rock ",

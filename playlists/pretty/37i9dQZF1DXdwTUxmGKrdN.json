@@ -1,6 +1,6 @@
 {
   "description": "Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...",
-  "num_followers": 462399,
+  "num_followers": 462444,
   "original_name": "Smooth Jazz",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2026-08-31 08:41:15",
       "album": {
-        "name": "Just Doing What I do",
-        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
-      },
-      "artists": [
-        {
-          "name": "Marcus Johnson",
-          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "18th & M",
-      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
-    },
-    {
-      "added_at": "2026-08-31 08:41:15",
-      "album": {
         "name": "Presence",
         "url": "https://open.spotify.com/album/3y3NkJMbTM1JLwrDKxEFZb"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 247333,
       "name": "Window of the Soul",
       "url": "https://open.spotify.com/track/32eDGGkGf1lcJ8aWrjGhFO"
+    },
+    {
+      "added_at": "2026-08-31 08:41:15",
+      "album": {
+        "name": "Just Doing What I do",
+        "url": "https://open.spotify.com/album/7meHD0fPbZ8AZKOSlpKnCn"
+      },
+      "artists": [
+        {
+          "name": "Marcus Johnson",
+          "url": "https://open.spotify.com/artist/5BrGYYrfP3agYhqDUFcSSM"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "18th & M",
+      "url": "https://open.spotify.com/track/4jZCaGd8dbeuPy707up4g2"
     },
     {
       "added_at": "2026-08-31 08:41:15",
@@ -311,22 +311,6 @@
     {
       "added_at": "2026-08-31 08:41:15",
       "album": {
-        "name": "Revolving Door",
-        "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
-      },
-      "artists": [
-        {
-          "name": "Joyce Cooling",
-          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
-        }
-      ],
-      "duration_ms": 347013,
-      "name": "Revolving Door",
-      "url": "https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73"
-    },
-    {
-      "added_at": "2026-08-31 08:41:15",
-      "album": {
         "name": "Echoes Of The Heart",
         "url": "https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 238213,
       "name": "Echoes of the Heart",
       "url": "https://open.spotify.com/track/4NHXOCiSoFcbPkT1NZOChb"
+    },
+    {
+      "added_at": "2026-08-31 08:41:15",
+      "album": {
+        "name": "Revolving Door",
+        "url": "https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc"
+      },
+      "artists": [
+        {
+          "name": "Joyce Cooling",
+          "url": "https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec"
+        }
+      ],
+      "duration_ms": 347013,
+      "name": "Revolving Door",
+      "url": "https://open.spotify.com/track/7v6XfSM2XpK6KEVyn4Ud73"
     },
     {
       "added_at": "2026-08-31 08:41:15",
@@ -427,22 +427,6 @@
     {
       "added_at": "2026-08-31 08:41:15",
       "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
-      },
-      "artists": [
-        {
-          "name": "Jacob Webb",
-          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
-        }
-      ],
-      "duration_ms": 266145,
-      "name": "Groovin' J",
-      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
-    },
-    {
-      "added_at": "2026-08-31 08:41:15",
-      "album": {
         "name": "Can You Hear Me",
         "url": "https://open.spotify.com/album/2MkCZIFcfWCjsQtdunZrU5"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 304266,
       "name": "Can You Hear Me",
       "url": "https://open.spotify.com/track/049VqBETqY4gIRJuOJyQuF"
+    },
+    {
+      "added_at": "2026-08-31 08:41:15",
+      "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/1gCdJObq3CftJWEuFbwAaU"
+      },
+      "artists": [
+        {
+          "name": "Jacob Webb",
+          "url": "https://open.spotify.com/artist/6LB9EnOUIzqsiEYQVipZko"
+        }
+      ],
+      "duration_ms": 266145,
+      "name": "Groovin' J",
+      "url": "https://open.spotify.com/track/6zFYcAvBoEjqKWiFneXWf4"
     },
     {
       "added_at": "2026-08-31 08:41:15",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-08-31 08:41:15",
       "album": {
-        "name": "Global Force",
-        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
-      },
-      "artists": [
-        {
-          "name": "3rd Force",
-          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
-        }
-      ],
-      "duration_ms": 264280,
-      "name": "Big Shot",
-      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
-    },
-    {
-      "added_at": "2026-08-31 08:41:15",
-      "album": {
         "name": "The Journey",
         "url": "https://open.spotify.com/album/5E3aoFBEXHFhJ2CwIViB89"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 257933,
       "name": "Say What's on Your Mind",
       "url": "https://open.spotify.com/track/25I5asfjuKPkmU3T0iOAkX"
+    },
+    {
+      "added_at": "2026-08-31 08:41:15",
+      "album": {
+        "name": "Global Force",
+        "url": "https://open.spotify.com/album/2r2L2zvM4SUfckGJ25sth7"
+      },
+      "artists": [
+        {
+          "name": "3rd Force",
+          "url": "https://open.spotify.com/artist/3t0v2PRYA41acAC7z17tSm"
+        }
+      ],
+      "duration_ms": 264280,
+      "name": "Big Shot",
+      "url": "https://open.spotify.com/track/0NTs96jeKN0YCKOb3tyGZl"
     },
     {
       "added_at": "2026-08-31 08:41:15",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-08-31 08:41:15",
       "album": {
-        "name": "G-Stream",
-        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
-      },
-      "artists": [
-        {
-          "name": "Gerald Albright",
-          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
-        }
-      ],
-      "duration_ms": 260265,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
-    },
-    {
-      "added_at": "2026-08-31 08:41:15",
-      "album": {
         "name": "Tranquility",
         "url": "https://open.spotify.com/album/6agAMOCMWbMsV40jNNZLwd"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 241480,
       "name": "Three Dee",
       "url": "https://open.spotify.com/track/3fLkoNxbBfu7Xu7TUVyV77"
+    },
+    {
+      "added_at": "2026-08-31 08:41:15",
+      "album": {
+        "name": "G-Stream",
+        "url": "https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS"
+      },
+      "artists": [
+        {
+          "name": "Gerald Albright",
+          "url": "https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp"
+        }
+      ],
+      "duration_ms": 260265,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/1pPpKGYsZIMWYaX10gx7uR"
     },
     {
       "added_at": "2026-08-31 08:41:15",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-08-31 08:41:15",
       "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
+      },
+      "artists": [
+        {
+          "name": "Cindy Bradley",
+          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
+        }
+      ],
+      "duration_ms": 295156,
+      "name": "Stockholm Summer",
+      "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
+    },
+    {
+      "added_at": "2026-08-31 08:41:15",
+      "album": {
         "name": "Exhale",
         "url": "https://open.spotify.com/album/5n354scG66QIxDi8Y2u269"
       },
@@ -887,6 +903,26 @@
       "duration_ms": 272342,
       "name": "Exhale",
       "url": "https://open.spotify.com/track/7yX9GawpX138GN6ZrfE6q3"
+    },
+    {
+      "added_at": "2026-08-31 08:41:15",
+      "album": {
+        "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
+        "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
+      },
+      "artists": [
+        {
+          "name": "Bob Baldwin",
+          "url": "https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP"
+        },
+        {
+          "name": "Euge Groove",
+          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        }
+      ],
+      "duration_ms": 309981,
+      "name": "Imagine (Living as One)",
+      "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
     },
     {
       "added_at": "2026-08-31 08:41:15",
@@ -911,22 +947,6 @@
     {
       "added_at": "2026-08-31 08:41:15",
       "album": {
-        "name": "The Little Things",
-        "url": "https://open.spotify.com/album/4ZdrC38qyNGHM6pl7xBF9A"
-      },
-      "artists": [
-        {
-          "name": "Cindy Bradley",
-          "url": "https://open.spotify.com/artist/5qiEZz19psMDf9UPQUao4J"
-        }
-      ],
-      "duration_ms": 295156,
-      "name": "Stockholm Summer",
-      "url": "https://open.spotify.com/track/1Cg4LsGDv3saOFNXdeLHyq"
-    },
-    {
-      "added_at": "2026-08-31 08:41:15",
-      "album": {
         "name": "Adriatic Flow",
         "url": "https://open.spotify.com/album/3jP7ViVs8srQs8tcV2OCy5"
       },
@@ -943,26 +963,6 @@
       "duration_ms": 247653,
       "name": "Adriatic Flow",
       "url": "https://open.spotify.com/track/26iTrELwsyYYDiZWnu2mFW"
-    },
-    {
-      "added_at": "2026-08-31 08:41:15",
-      "album": {
-        "name": "Bob Baldwin Presents: Abbey Road and The Beatles",
-        "url": "https://open.spotify.com/album/3i47d2tkJNfJc8F7mBGr6c"
-      },
-      "artists": [
-        {
-          "name": "Bob Baldwin",
-          "url": "https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP"
-        },
-        {
-          "name": "Euge Groove",
-          "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        }
-      ],
-      "duration_ms": 309981,
-      "name": "Imagine (Living as One)",
-      "url": "https://open.spotify.com/track/5GpFYx5Q5h38LZnDamGBOB"
     },
     {
       "added_at": "2026-08-31 08:41:15",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2026-08-31 08:41:15",
       "album": {
+        "name": "The Gift Psychobass2",
+        "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
+      },
+      "artists": [
+        {
+          "name": "Byron Miller",
+          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
+        },
+        {
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+        }
+      ],
+      "duration_ms": 299626,
+      "name": "The B Spot",
+      "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
+    },
+    {
+      "added_at": "2026-08-31 08:41:15",
+      "album": {
         "name": "Let's Get Away",
         "url": "https://open.spotify.com/album/5Ja2SjrDC7ul4nijfHoujD"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 275773,
       "name": "Lip Service",
       "url": "https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS"
-    },
-    {
-      "added_at": "2026-08-31 08:41:15",
-      "album": {
-        "name": "The Gift Psychobass2",
-        "url": "https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf"
-      },
-      "artists": [
-        {
-          "name": "Byron Miller",
-          "url": "https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y"
-        },
-        {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
-        }
-      ],
-      "duration_ms": 299626,
-      "name": "The B Spot",
-      "url": "https://open.spotify.com/track/1sReMaCozvIHbnIlLF1GSx"
     },
     {
       "added_at": "2026-08-31 08:41:15",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-08-31 08:41:15",
       "album": {
-        "name": "As Promised",
-        "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
-      },
-      "artists": [
-        {
-          "name": "Alex Bugnon",
-          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
-        }
-      ],
-      "duration_ms": 324133,
-      "name": "His Coolness",
-      "url": "https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL"
-    },
-    {
-      "added_at": "2026-08-31 08:41:15",
-      "album": {
         "name": "Midnight Daydream",
         "url": "https://open.spotify.com/album/1Evdw2XJNENemvkBO4aM4G"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 261266,
       "name": "Cecil's Groove",
       "url": "https://open.spotify.com/track/5KjmJJokL09RvKLfVQvDRc"
+    },
+    {
+      "added_at": "2026-08-31 08:41:15",
+      "album": {
+        "name": "As Promised",
+        "url": "https://open.spotify.com/album/0bs64b2YWZp3oMOw297F6U"
+      },
+      "artists": [
+        {
+          "name": "Alex Bugnon",
+          "url": "https://open.spotify.com/artist/5bDmz2qpZCbOJ4XHHYe5y1"
+        }
+      ],
+      "duration_ms": 324133,
+      "name": "His Coolness",
+      "url": "https://open.spotify.com/track/3EQ5NnNUxhE9oRnRk4HPuL"
     },
     {
       "added_at": "2026-08-31 08:41:15",

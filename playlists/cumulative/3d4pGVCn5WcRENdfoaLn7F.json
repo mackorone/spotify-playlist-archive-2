@@ -4997,6 +4997,24 @@
     },
     {
       "album": {
+        "name": "Photosynthesize",
+        "url": "https://open.spotify.com/album/4qSkBNtL1NcdXjEjRLnupg"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283288,
+      "name": "Photosynthesize",
+      "url": "https://open.spotify.com/track/170x4QIJeKPk6MQp87KiU5"
+    },
+    {
+      "album": {
         "name": "Future Mondays",
         "url": "https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W"
       },

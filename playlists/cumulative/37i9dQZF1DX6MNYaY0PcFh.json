@@ -298,7 +298,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 179136,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3vGNBBZ1jrvjXOsMT4hswb"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 156444,
       "name": "check check - Special Request Remix",
       "url": "https://open.spotify.com/track/2yEQOAbruCqGJp0AeTnXCO"
@@ -1722,7 +1722,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 238297,
       "name": "DARWIN",
       "url": "https://open.spotify.com/track/24caY3L0inVduxmvqNfrzj"
@@ -3968,7 +3968,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 201520,
       "name": "If Ya Know",
       "url": "https://open.spotify.com/track/1ywXyZT1gVukeig10Ly0L7"
@@ -4938,7 +4938,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 297306,
       "name": "Masha",
       "url": "https://open.spotify.com/track/4uaYj7NZ5lnAMAzvZbAO2U"
@@ -5516,6 +5516,28 @@
       "duration_ms": 225699,
       "name": "Never Gonna Be",
       "url": "https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p"
+    },
+    {
+      "album": {
+        "name": "New Thing",
+        "url": "https://open.spotify.com/album/4tenfNlbr8p4tVhfbAkfPr"
+      },
+      "artists": [
+        {
+          "name": "Mushkilla",
+          "url": "https://open.spotify.com/artist/5tgqiVnzusJiWXqN0ZZIbU"
+        },
+        {
+          "name": "Tarek OBH",
+          "url": "https://open.spotify.com/artist/4FdCsiNFau3Y8dsQDI4Dl7"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "New Thing",
+      "url": "https://open.spotify.com/track/708RwYTGMYQ8OYnIEgC6HW"
     },
     {
       "album": {
@@ -7062,7 +7084,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 252341,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/3GLqZIluME1vD6xnP4mxa8"
@@ -7564,6 +7586,28 @@
       "duration_ms": 210909,
       "name": "Spend The Night",
       "url": "https://open.spotify.com/track/5qnO8c1bY6jNGT7sR8kkYB"
+    },
+    {
+      "album": {
+        "name": "Swarm",
+        "url": "https://open.spotify.com/album/3s4LfkMZqMoZp8x2T5miSD"
+      },
+      "artists": [
+        {
+          "name": "Main Phase",
+          "url": "https://open.spotify.com/artist/0cVit0XTp4KB738vqWkUZ3"
+        },
+        {
+          "name": "TSVI",
+          "url": "https://open.spotify.com/artist/0uea1sBqx37JwQznLWxqeE"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334138,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/2RH7TlL3QPvqev73hfzWRQ"
     },
     {
       "album": {
@@ -8434,7 +8478,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 250929,
       "name": "TIPSY",
       "url": "https://open.spotify.com/track/3gUv3Iq0hus8eeua8WqaA8"
@@ -8460,6 +8504,24 @@
       "duration_ms": 119545,
       "name": "Top Bins",
       "url": "https://open.spotify.com/track/0VWVhmYPwdFRce984U8VVv"
+    },
+    {
+      "album": {
+        "name": "Elements 2 //",
+        "url": "https://open.spotify.com/album/5NJqLOfwCXu3y3KwLjWJc0"
+      },
+      "artists": [
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/4WozK8h1XBrFBX5GBHVvFE"
     },
     {
       "album": {
@@ -8901,6 +8963,46 @@
     },
     {
       "album": {
+        "name": "Warlord",
+        "url": "https://open.spotify.com/album/6tYSvopvMK6JbxwjGDwTSh"
+      },
+      "artists": [
+        {
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193777,
+      "name": "Warlord",
+      "url": "https://open.spotify.com/track/4WOvLGtZgRTQX3aCx9btnJ"
+    },
+    {
+      "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3EQzXa98IJwsQGTqpZyhnO"
+      },
+      "artists": [
+        {
+          "name": "FUZION",
+          "url": "https://open.spotify.com/artist/6Onz7lRkfK9vCyZDEKoFmB"
+        },
+        {
+          "name": "MAMI",
+          "url": "https://open.spotify.com/artist/0HbvIwq1mKjgFSVo6j5HSk"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138218,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/5coJwd09YfDIbyQdr99dyN"
+    },
+    {
+      "album": {
         "name": "WASTING TIME",
         "url": "https://open.spotify.com/album/7elPdVZxhx39jJ942o39uP"
       },
@@ -9233,6 +9335,24 @@
     },
     {
       "album": {
+        "name": "Work Rate",
+        "url": "https://open.spotify.com/album/25vXwCeM5iG9iHmKOZFuKr"
+      },
+      "artists": [
+        {
+          "name": "TOM LECHEF",
+          "url": "https://open.spotify.com/artist/0saQAX63InOdwPBfJhj5wd"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210218,
+      "name": "Work Rate",
+      "url": "https://open.spotify.com/track/6MCDcoK9sWSsrUYHQzNwNq"
+    },
+    {
+      "album": {
         "name": "Workin' With",
         "url": "https://open.spotify.com/album/0t5md9XWk0XnnS9E43PqrL"
       },
@@ -9306,6 +9426,24 @@
       "duration_ms": 167492,
       "name": "XTZY",
       "url": "https://open.spotify.com/track/7vpT5MttwN5SRk0eTqECQr"
+    },
+    {
+      "album": {
+        "name": "Xylitol",
+        "url": "https://open.spotify.com/album/2Wx8DVx4x4SfA8FhFW4xta"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Xylitol",
+      "url": "https://open.spotify.com/track/0VOknYnxvrmzO2qyY26AGI"
     },
     {
       "album": {

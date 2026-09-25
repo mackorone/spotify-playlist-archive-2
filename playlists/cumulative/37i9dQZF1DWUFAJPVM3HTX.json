@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X?si=f7e145f77b3548ed\">LAYA</a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/7aBsay1LwiX89GuowSd15N?si=34bb03e3792843ed\">plusamari</a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -3658,6 +3658,28 @@
       "duration_ms": 188396,
       "name": "alright",
       "url": "https://open.spotify.com/track/1Krmuryy2a0MG3SQDlxM0T"
+    },
+    {
+      "album": {
+        "name": "Alright, alright",
+        "url": "https://open.spotify.com/album/1FAQEDVf0RuJOjWndX0lmo"
+      },
+      "artists": [
+        {
+          "name": "646yf4t",
+          "url": "https://open.spotify.com/artist/4obW4V3i8LGRVJbWClPclF"
+        },
+        {
+          "name": "Rowena Fysx",
+          "url": "https://open.spotify.com/artist/3kaAPw6xYzlmBhp3aQYuC9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151011,
+      "name": "Alright, alright",
+      "url": "https://open.spotify.com/track/4vIIDIYWvlMlrXA60n1rcD"
     },
     {
       "album": {
@@ -14790,6 +14812,28 @@
       "duration_ms": 175555,
       "name": "Craving For This Love",
       "url": "https://open.spotify.com/track/2yqfLFZsaIN1gEvU8wgnsL"
+    },
+    {
+      "album": {
+        "name": "PHATTER",
+        "url": "https://open.spotify.com/album/5zBPstEEPrgw80d4aTMxGK"
+      },
+      "artists": [
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/76KN8Y6260PMoHVMhWhm3K"
     },
     {
       "album": {
@@ -27580,7 +27624,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180000,
       "name": "H.I.M",
       "url": "https://open.spotify.com/track/0jjrLN2I5nmy9owwliEfoD"
@@ -37065,6 +37109,24 @@
     },
     {
       "album": {
+        "name": "late night",
+        "url": "https://open.spotify.com/album/6yqw95xO7ZKfQW5fO58Hlm"
+      },
+      "artists": [
+        {
+          "name": "Ray Lozano",
+          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197648,
+      "name": "late night",
+      "url": "https://open.spotify.com/track/23i10hKRFFtyNN801D2AYz"
+    },
+    {
+      "album": {
         "name": "Late to the Party",
         "url": "https://open.spotify.com/album/4n7mXxNyD93LHBamg4tAPq"
       },
@@ -45058,7 +45120,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 291500,
       "name": "MY FEET",
       "url": "https://open.spotify.com/track/5fAhY1tVGHTfWADAyRbOMp"
@@ -45094,7 +45156,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 161254,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/16usyTcUKnWBduD3R2PPlG"
@@ -47378,7 +47440,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 235088,
       "name": "Not So Sweet",
       "url": "https://open.spotify.com/track/36MdkPZVMopxPWK3MXsE70"
@@ -52230,7 +52292,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 219212,
       "name": "PINK CROCS/CRASH",
       "url": "https://open.spotify.com/track/4z9datrd90eswIFvuSnalK"
@@ -54646,7 +54708,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 158727,
       "name": "QLV",
       "url": "https://open.spotify.com/track/4HB2SIgijSKf3H8fyFMOdp"
@@ -54932,6 +54994,24 @@
       "duration_ms": 228366,
       "name": "Rain",
       "url": "https://open.spotify.com/track/3h5sbuWmSdCcTc8WCnthA9"
+    },
+    {
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/58zT0QIvIoPR17pcS4S8uJ"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1RWZDdIe9TwL1vUlyti5aD"
     },
     {
       "album": {
@@ -57368,7 +57448,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 207814,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0XC12fpa9eH99vQctgcZ0u"
@@ -62030,7 +62110,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 153478,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/02ugxIQUj0KZpugZqPzq67"
@@ -63252,7 +63332,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 162369,
       "name": "Spine",
       "url": "https://open.spotify.com/track/147fEFNIhb2zXrsuxii7Vl"
@@ -66834,7 +66914,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 158117,
       "name": "tangerine!",
       "url": "https://open.spotify.com/track/3CElLbVHAx5oqgDozDdpwR"
@@ -77838,6 +77918,28 @@
       "duration_ms": 181681,
       "name": "You and I",
       "url": "https://open.spotify.com/track/0mFNe5eGBBJNpinC6o9UCj"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        },
+        {
+          "name": "Reuben Vincent",
+          "url": "https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167466,
+      "name": "You And Me (Feat. Reuben Vincent)",
+      "url": "https://open.spotify.com/track/1iSDJPN6Xj6q32mH6OxHd1"
     },
     {
       "album": {

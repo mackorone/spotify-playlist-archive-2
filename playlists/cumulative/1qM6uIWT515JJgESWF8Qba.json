@@ -528,7 +528,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 239000,
       "name": "Bar Flies",
       "url": "https://open.spotify.com/track/7BnfRSLTfFgOgvXD7ibXeZ"
@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 163592,
       "name": "Devour",
       "url": "https://open.spotify.com/track/4a19eWa4PpD3yyzguRk3hO"
@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 256642,
       "name": "knocked -down/-out",
       "url": "https://open.spotify.com/track/11PesUdCoyNUXCJWiijURC"
@@ -3066,7 +3066,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 321368,
       "name": "Letter from a Soldier",
       "url": "https://open.spotify.com/track/2yehxUK2zwMZuVLT61GYKS"
@@ -3376,6 +3376,24 @@
       "duration_ms": 283317,
       "name": "March",
       "url": "https://open.spotify.com/track/6aVkk0kVHBRFgL4SzhiycG"
+    },
+    {
+      "album": {
+        "name": "Mean Dog",
+        "url": "https://open.spotify.com/album/1l0iuJVPFyOhmYVJD5B2a8"
+      },
+      "artists": [
+        {
+          "name": "Sturgeon",
+          "url": "https://open.spotify.com/artist/1q6x5uIGlVUeF1vZoyQDRF"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184062,
+      "name": "Mean Dog",
+      "url": "https://open.spotify.com/track/3d8u5YQo5PQwt0cnZn2LfC"
     },
     {
       "album": {
@@ -4410,7 +4428,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 221000,
       "name": "Revoluci\u00f3n Silenciosa",
       "url": "https://open.spotify.com/track/6aMgKO2JXBPvdzrs4enqPD"

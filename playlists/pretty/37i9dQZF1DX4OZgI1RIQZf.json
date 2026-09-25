@@ -1,6 +1,6 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 140582,
+  "num_followers": 140586,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 255666,
+      "name": "Scarecrow",
+      "url": "https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
         "name": "I See A Darkness",
         "url": "https://open.spotify.com/album/1EtJZ2zWwSqYHRh3l1btZA"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 265346,
       "name": "I See A Darkness",
       "url": "https://open.spotify.com/track/6WXWmDC0ltuc1NPD3ZTx2B"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/1R0BP6MeMLigDNaoztxUAZ"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 255666,
-      "name": "Scarecrow",
-      "url": "https://open.spotify.com/track/0fhREmkuJsjaVi48aGngEr"
     },
     {
       "added_at": "2026-08-28 07:24:22",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2026-08-28 07:24:22",
       "album": {
-        "name": "Never Truly Happy",
-        "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
-      },
-      "artists": [
-        {
-          "name": "NESYA",
-          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
-        }
-      ],
-      "duration_ms": 136459,
-      "name": "delulu",
-      "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
-    },
-    {
-      "added_at": "2026-08-28 07:24:22",
-      "album": {
         "name": "Drowaton",
         "url": "https://open.spotify.com/album/2juHcXKlRhdcmu0BrM2eBw"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 162320,
       "name": "Pumpkin",
       "url": "https://open.spotify.com/track/0AhZO6ezTf9wIY3SySkqnl"
+    },
+    {
+      "added_at": "2026-08-28 07:24:22",
+      "album": {
+        "name": "Never Truly Happy",
+        "url": "https://open.spotify.com/album/2rIOtKl8QJRs40MkZ84Unh"
+      },
+      "artists": [
+        {
+          "name": "NESYA",
+          "url": "https://open.spotify.com/artist/0P0siigmv3AUVmXnPaHUFp"
+        }
+      ],
+      "duration_ms": 136459,
+      "name": "delulu",
+      "url": "https://open.spotify.com/track/20APmzlrVuZ7dMl2nPlLJi"
     },
     {
       "added_at": "2026-08-28 07:24:22",

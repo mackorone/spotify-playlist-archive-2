@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 4465,
+  "num_followers": 4464,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADCTkMKO24RtwhRjD6WRGAr",
+  "snapshot_id": "arMWgAAAAABOh1L0g3SW3gM0OYRb1w4F",
   "tracks": [
     {
       "added_at": null,
@@ -567,34 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "Caio Passos",
-          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "ONDE C\u00ca T\u00c1?",
-      "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Donas do Jogo",
         "url": "https://open.spotify.com/album/7MBjkpeqRT5iQeff5uhcP9"
       },
@@ -623,6 +595,34 @@
       "duration_ms": 244000,
       "name": "Donas do Jogo",
       "url": "https://open.spotify.com/track/1cS6RxJm9VWnbIYyFM0BVm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "ONDE C\u00ca T\u00c1?",
+      "url": "https://open.spotify.com/track/09xpGWT55yGVYrPBWg3FD4"
     },
     {
       "added_at": null,
@@ -671,6 +671,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Quero Love",
+        "url": "https://open.spotify.com/album/6D60Qfyg5eWCw9tYkbGGJE"
+      },
+      "artists": [
+        {
+          "name": "Mc Henny",
+          "url": "https://open.spotify.com/artist/3lT6gKD7eGb3dZRutZ3Jol"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        }
+      ],
+      "duration_ms": 155833,
+      "name": "N\u00e3o Quero Love",
+      "url": "https://open.spotify.com/track/3N2fMQBI2AP3C7hhVYFi4B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MINAS DE OURO",
         "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
       },
@@ -695,30 +719,6 @@
       "duration_ms": 274285,
       "name": "DESILUS\u00c3O",
       "url": "https://open.spotify.com/track/4ofLB6yok8YB72Cvq30beL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Quero Love",
-        "url": "https://open.spotify.com/album/6D60Qfyg5eWCw9tYkbGGJE"
-      },
-      "artists": [
-        {
-          "name": "Mc Henny",
-          "url": "https://open.spotify.com/artist/3lT6gKD7eGb3dZRutZ3Jol"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        }
-      ],
-      "duration_ms": 155833,
-      "name": "N\u00e3o Quero Love",
-      "url": "https://open.spotify.com/track/3N2fMQBI2AP3C7hhVYFi4B"
     },
     {
       "added_at": null,
@@ -767,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 172950,
-      "name": "MELHOR DE MIM",
-      "url": "https://open.spotify.com/track/0IyNFRdJOqcEij32FGPhpD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Terror das Faixa Rosa",
         "url": "https://open.spotify.com/album/3NYjHyeci4UIvLJ2wLDkpi"
       },
@@ -819,6 +795,30 @@
       "duration_ms": 201600,
       "name": "Terror das Faixa Rosa",
       "url": "https://open.spotify.com/track/4g0gHjrnumFFPIOGt0NmWr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        }
+      ],
+      "duration_ms": 172950,
+      "name": "MELHOR DE MIM",
+      "url": "https://open.spotify.com/track/0IyNFRdJOqcEij32FGPhpD"
     },
     {
       "added_at": null,
@@ -863,6 +863,34 @@
       "duration_ms": 206197,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/7fB6m2vbuM1JQNh5t18EEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Festa na Piscina",
+        "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        },
+        {
+          "name": "Nath Fischer",
+          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
+        }
+      ],
+      "duration_ms": 268085,
+      "name": "Festa na Piscina",
+      "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
     },
     {
       "added_at": null,
@@ -927,34 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Festa na Piscina",
-        "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        },
-        {
-          "name": "Nath Fischer",
-          "url": "https://open.spotify.com/artist/1QcNQjPOs6hNGLOvddrwfW"
-        }
-      ],
-      "duration_ms": 268085,
-      "name": "Festa na Piscina",
-      "url": "https://open.spotify.com/track/5tyr9BUCvmyGKxBc0CbMNv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bailean",
         "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
       },
@@ -979,30 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MINAS DE OURO",
-        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Medellin",
-          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "GAROTAS N\u00c3O NAMOREM RAPPERS",
-      "url": "https://open.spotify.com/track/5RSyuZOrIwDhe2cKRVTOiJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nike Novo",
         "url": "https://open.spotify.com/album/7vdftrf3dgyLrWO5LNXrOm"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 184256,
       "name": "Nike Novo",
       "url": "https://open.spotify.com/track/6dvmKKxL0An5ynDVAAkAZy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MINAS DE OURO",
+        "url": "https://open.spotify.com/album/6MF3LLiTymKKetgPdHsSeN"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "CENA DE FILME",
+      "url": "https://open.spotify.com/track/6B997koCVWsxhUuwcl1tFs"
     },
     {
       "added_at": null,
@@ -1087,22 +1087,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poc Poc",
-        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 212375,
-      "name": "Poc Poc",
-      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faixa Anjo",
         "url": "https://open.spotify.com/album/6mXBXROsepez0WD2YBnCZV"
       },
@@ -1123,6 +1107,54 @@
       "duration_ms": 246620,
       "name": "Faixa Anjo",
       "url": "https://open.spotify.com/track/2sH7zkMT5mtKNEK2j4Oqgy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poc Poc",
+        "url": "https://open.spotify.com/album/2xaNuhVlP39plZFv7kRjrc"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 212375,
+      "name": "Poc Poc",
+      "url": "https://open.spotify.com/track/6NXlMgjZkhqnAecJSuA90v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) [Ac\u00fastico]",
+        "url": "https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA"
+      },
+      "artists": [
+        {
+          "name": "Belle Kaffer",
+          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
+        },
+        {
+          "name": "Casluh",
+          "url": "https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "DaPaz",
+          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
+        },
+        {
+          "name": "MC Vinny",
+          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
+        }
+      ],
+      "duration_ms": 497625,
+      "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF"
     },
     {
       "added_at": null,
@@ -1195,58 +1227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) [Ac\u00fastico]",
-        "url": "https://open.spotify.com/album/6QFzlpwLMLricUgeFEnmpA"
-      },
-      "artists": [
-        {
-          "name": "Belle Kaffer",
-          "url": "https://open.spotify.com/artist/4N2lyAuQF0kXt3UnsN7XZx"
-        },
-        {
-          "name": "Casluh",
-          "url": "https://open.spotify.com/artist/79mW4e6Kz8MP5ALSWFaJM3"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "DaPaz",
-          "url": "https://open.spotify.com/artist/7K2fTRYnc7VBDXX0GtM9O1"
-        },
-        {
-          "name": "MC Vinny",
-          "url": "https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI"
-        }
-      ],
-      "duration_ms": 497625,
-      "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No meu Flat",
-        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Buddy",
-          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
-        }
-      ],
-      "duration_ms": 242285,
-      "name": "No meu Flat",
-      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desfecho",
         "url": "https://open.spotify.com/album/6V2bSKag8gME9P1cT2f021"
       },
@@ -1271,22 +1251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+        "name": "No meu Flat",
+        "url": "https://open.spotify.com/album/2lc9wdanTUu4UVvkaFacFt"
       },
       "artists": [
         {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        },
-        {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6M4I5fzROAwy9WcsnvLVxa"
         }
       ],
-      "duration_ms": 163636,
-      "name": "TO PRONTA!",
-      "url": "https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA"
+      "duration_ms": 242285,
+      "name": "No meu Flat",
+      "url": "https://open.spotify.com/track/0bwPnwCSM3txTCxdmMQ3ay"
     },
     {
       "added_at": null,
@@ -1307,6 +1287,26 @@
       "duration_ms": 170318,
       "name": "Gelo no Copo - Remix",
       "url": "https://open.spotify.com/track/0oOQ4zepSFoaf8uPYMrn63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "TO PRONTA!",
+      "url": "https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,234 songs - 3 day 7 hr 49 min
+1,236 songs - 3 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Aperture](https://open.spotify.com/track/1sA1DhT0bLyeICf8NalPS7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 5:11 | 2026-04-10 |  |
 | [Aquarium \(Intro\)](https://open.spotify.com/track/5T9GO8wAeBidT1vAobhGSE) | [DJ Suzy](https://open.spotify.com/artist/5RyMh1IvhH3f3mKNItWdMc) | [Haunted Disc](https://open.spotify.com/album/3wse5z0Xvq2qslaZGXmL0C) | 0:36 | 2026-03-29 |  |
 | [Arcadia](https://open.spotify.com/track/0EfJlpGqnmEPkGHgU0I2ax) | [Ramona Lisa](https://open.spotify.com/artist/4rznUCgRWVTHQX9tUyQ4BV) | [Arcadia](https://open.spotify.com/album/4OeA68LyLKcKR4g4DYkc5t) | 4:11 | 2023-10-17 |  |
+| [Architects & Engineers](https://open.spotify.com/track/4rXaEmlrWmPGqSMC1cKK60) | [Guster](https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc) | [Easy Wonderful](https://open.spotify.com/album/3eJrevKI2ZAbycDM6s9KCZ) | 2:55 | 2026-09-24 |  |
 | [Arithmophobia](https://open.spotify.com/track/2gOfUuZ0FMpFVvCsjy0omI) | [Animals As Leaders](https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8) | [The Madness Of Many](https://open.spotify.com/album/4Xm2aSISFdqLoJJACkZFUl) | 6:01 | 2024-05-31 |  |
 | [Army of Me](https://open.spotify.com/track/3vEmpJQC2p8h0U3OiBufQm) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs) | 3:54 | 2022-10-01 |  |
 | [as above so below](https://open.spotify.com/track/49686zZMNnSmbxXeQNns99) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [Ti Steele](https://open.spotify.com/artist/13mA1mfFhAqUCwTLeB8Cmp) | [wonderful](https://open.spotify.com/album/7yhdlOFnwXi1RxKAZOeL8q) | 2:47 | 2026-05-08 |  |
@@ -143,6 +144,7 @@
 | [BFF](https://open.spotify.com/track/6r4ZQ4rh7VADvAvQITV0DL) | [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Beautiful Disaster](https://open.spotify.com/album/2QzilKeFlINfqFZZWzgv0J) | 2:25 | 2026-05-08 |  |
 | [Bi Lamban](https://open.spotify.com/track/6zONDwWrSN3qynCci8v98d) | [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY) | [New Ancient Strings](https://open.spotify.com/album/4QYwF3SPWWDwoiS8SnKX4X) | 5:00 | 2024-07-31 |  |
 | [Big Day Coming](https://open.spotify.com/track/0azh8Cxn6sUDdyXDBE9qUk) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Painful](https://open.spotify.com/album/7a4l81UqmFYs13351IyOSc) | 7:05 | 2026-06-24 |  |
+| [Big Shot](https://open.spotify.com/track/002Xm1nZI8cAhb5Fda7lRk) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO) | [Afternooners](https://open.spotify.com/album/1qLqr2Fs2ACB6FAwmlapdY) | 4:28 | 2026-09-25 |  |
 | [Bio18](https://open.spotify.com/track/4P0ne8HWGFCV8gac5zcEh4) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Changephobia](https://open.spotify.com/album/7v5Vuz4HyHldAgTG9NpcFY) | 4:01 | 2024-01-17 | 2024-02-08 |
 | [Bird's Nest](https://open.spotify.com/track/5ms47HpSovxUpNrHVxaAs3) | [Jordaan Mason](https://open.spotify.com/artist/5zInXkhCwoT9HGWgeKjKS6), [Jordaan Mason & The Horse Museum](https://open.spotify.com/artist/5EQ6WS0sO77AIhthug6S0U) | [Divorce Lawyers I Shaved My Head](https://open.spotify.com/album/6uxDtA96cuZ2FbPCT3EL40) | 4:02 | 2023-06-09 |  |
 | [Birds](https://open.spotify.com/track/4qrv4KMBrGVcaN5NU1TSlF) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/44Sy39wQjQFX0jJOufXTvv) | 0:53 | 2023-06-03 |  |

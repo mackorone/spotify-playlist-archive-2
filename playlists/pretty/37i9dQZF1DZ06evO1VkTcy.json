@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 22404,
+  "num_followers": 22405,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAACRIDFQhLT7IYJCkfD+RU2y",
+  "snapshot_id": "arMWgAAAAABQdxXNDMphzg2AtyGy0ZAd",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,38 @@
       "duration_ms": 232514,
       "name": "Outro Dia",
       "url": "https://open.spotify.com/track/10cGYECUNpFbVCZUMLGP5r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dizeres (Undai\u00e1)",
+        "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
+      },
+      "artists": [
+        {
+          "name": "Org\u00e2nico",
+          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "L\u00e9o Casa 1",
+          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
+        },
+        {
+          "name": "Rap Box",
+          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
+        }
+      ],
+      "duration_ms": 257644,
+      "name": "Dizeres (Undai\u00e1)",
+      "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
     },
     {
       "added_at": null,
@@ -91,38 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dizeres (Undai\u00e1)",
-        "url": "https://open.spotify.com/album/6iRyot1JljNZA7RnQp4aiK"
-      },
-      "artists": [
-        {
-          "name": "Org\u00e2nico",
-          "url": "https://open.spotify.com/artist/5UOOgRWguRmVZo1voJuQpf"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Sant",
-          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
-        },
-        {
-          "name": "L\u00e9o Casa 1",
-          "url": "https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD"
-        },
-        {
-          "name": "Rap Box",
-          "url": "https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp"
-        }
-      ],
-      "duration_ms": 257644,
-      "name": "Dizeres (Undai\u00e1)",
-      "url": "https://open.spotify.com/track/4HQ4VFKOJRnTGZlYOOgrr6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minha Arte",
         "url": "https://open.spotify.com/album/7iccFIRTCqegLpHgfXPMVt"
       },
@@ -143,6 +143,26 @@
       "duration_ms": 223912,
       "name": "Minha Arte",
       "url": "https://open.spotify.com/track/2INiIszCU5fQt8SFR3SBTQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Podium",
+        "url": "https://open.spotify.com/album/3ZjfPRA96ShioErlUG5DtX"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sorrisos",
+      "url": "https://open.spotify.com/track/6kE4CqTOaietSMrn1FIbVw"
     },
     {
       "added_at": null,
@@ -247,26 +267,6 @@
       "duration_ms": 600000,
       "name": "Poesia Ac\u00fastica #11 Nada Mudou",
       "url": "https://open.spotify.com/track/0BiXrraKIkkc4Qj2lcgVUc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Podium",
-        "url": "https://open.spotify.com/album/3ZjfPRA96ShioErlUG5DtX"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Sorrisos",
-      "url": "https://open.spotify.com/track/6kE4CqTOaietSMrn1FIbVw"
     },
     {
       "added_at": null,
@@ -851,30 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos de Caju, Vol. 1",
-        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
-      },
-      "artists": [
-        {
-          "name": "Caju Pra Baixo",
-          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
-        },
-        {
-          "name": "Maguzinho",
-          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 203350,
-      "name": "Rid\u00edculo",
-      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/2Y81zvDx80eYHjsAMGnDYj"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 238141,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/4J4gCQN4Zc7qy21EPEtCA4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "10 Anos de Caju, Vol. 1",
+        "url": "https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq"
+      },
+      "artists": [
+        {
+          "name": "Caju Pra Baixo",
+          "url": "https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp"
+        },
+        {
+          "name": "Maguzinho",
+          "url": "https://open.spotify.com/artist/5vTInqPT32rNVz8KW6Qp6v"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 203350,
+      "name": "Rid\u00edculo",
+      "url": "https://open.spotify.com/track/0UrxKvv83kMW231Fl3ylN6"
     },
     {
       "added_at": null,
@@ -987,8 +987,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Porque Eu Sou Mulher",
-        "url": "https://open.spotify.com/album/3XpyegLFI8NwrNhLaCLgaU"
+        "name": "O Seu Grande Amor",
+        "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
       },
       "artists": [
         {
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 163535,
-      "name": "S\u00f3 Porque Eu Sou Mulher",
-      "url": "https://open.spotify.com/track/0zT1FPiTJGmqszgiBsuBQR"
+      "duration_ms": 211896,
+      "name": "O Seu Grande Amor",
+      "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
     },
     {
       "added_at": null,
@@ -1024,15 +1024,15 @@
           "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 213279,
-      "name": "Tira Minha Paz",
-      "url": "https://open.spotify.com/track/5iR5mlZA32HtisM8B95pnK"
+      "duration_ms": 244648,
+      "name": "Quando Voc\u00ea Voltar",
+      "url": "https://open.spotify.com/track/3DchA8j5XAzU6E6gGV2Njr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "O Seu Grande Amor",
-        "url": "https://open.spotify.com/album/4Krd55setsOAcPdU2WzB5t"
+        "name": "S\u00f3 Porque Eu Sou Mulher",
+        "url": "https://open.spotify.com/album/3XpyegLFI8NwrNhLaCLgaU"
       },
       "artists": [
         {
@@ -1044,9 +1044,9 @@
           "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
         }
       ],
-      "duration_ms": 211896,
-      "name": "O Seu Grande Amor",
-      "url": "https://open.spotify.com/track/0xVpYDK444H2EN27fYQmLe"
+      "duration_ms": 163535,
+      "name": "S\u00f3 Porque Eu Sou Mulher",
+      "url": "https://open.spotify.com/track/0zT1FPiTJGmqszgiBsuBQR"
     },
     {
       "added_at": null,
@@ -1144,9 +1144,9 @@
           "url": "https://open.spotify.com/artist/0RcxeoP7Pv6TDHDedBFRh3"
         }
       ],
-      "duration_ms": 244648,
-      "name": "Quando Voc\u00ea Voltar",
-      "url": "https://open.spotify.com/track/3DchA8j5XAzU6E6gGV2Njr"
+      "duration_ms": 213279,
+      "name": "Tira Minha Paz",
+      "url": "https://open.spotify.com/track/5iR5mlZA32HtisM8B95pnK"
     },
     {
       "added_at": null,
@@ -1307,6 +1307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fake",
+        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Fake",
+      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bonjour",
         "url": "https://open.spotify.com/album/6GdVpik1L7o0yYJNd1Yio2"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 190003,
       "name": "Bonjour",
       "url": "https://open.spotify.com/track/37Ch6tuxzDCV7ginZEYd1c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fake",
-        "url": "https://open.spotify.com/album/4fEC71BOGRnogGbdfkiLkd"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Fake",
-      "url": "https://open.spotify.com/track/1r2k4WRXadA4VmkaK9tLQH"
     },
     {
       "added_at": null,

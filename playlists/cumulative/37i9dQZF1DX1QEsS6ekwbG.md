@@ -4,7 +4,7 @@
 
 > La mejor compañía mientras llueve.
 
-180 songs - 11 hr 12 min
+181 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2021-11-12 |  |
 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 | 2021-11-12 |  |
 | [Sauvignon Blanc](https://open.spotify.com/track/10uxlzuPGekUTay2ZpZ4pR) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 2:42 | 2026-02-11 | 2026-06-12 |
-| [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2022-07-06 |  |
+| [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2022-07-06 | 2026-09-25 |
 | [Si No Es Ahora](https://open.spotify.com/track/1SugSbcbW78x4VAgixwiG0) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [Timbiriche 7](https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM) | 3:53 | 2021-11-12 | 2024-04-20 |
 | [Si tú no vuelves](https://open.spotify.com/track/7Cz6YbX8X6WNZNn2en1pUk) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Lo Mejor De Bosé](https://open.spotify.com/album/22bqL24CaHAULpscOV3Dup) | 4:38 | 2021-11-12 | 2022-07-29 |
 | [Si Tú Te Vas](https://open.spotify.com/track/2L9jPTSCT5K0gkgpXONyMK) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/2NwF2C2Z9sSgePRArAA5cl) | 4:01 | 2021-11-12 | 2022-07-28 |
@@ -182,6 +182,7 @@
 | [Un Nuevo Amor](https://open.spotify.com/track/52FjcsfkCImlf6HSN83udR) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Tranzas Por Siempre](https://open.spotify.com/album/1pxJu9lc85EhtNYUczga8H) | 3:49 | 2021-11-12 | 2022-07-29 |
 | [Un Nuevo Amor](https://open.spotify.com/track/65V4v8u4fi7TfnNdyBFzvX) | [Tranzas](https://open.spotify.com/artist/1GfaAWKfZE9hrYS8IqkWKB) | [Parte de Ti](https://open.spotify.com/album/7KU9Rpk67sdhqbJ4TeZuSw) | 3:50 | 2022-07-06 | 2022-08-01 |
 | [Una Emocion para Siempre](https://open.spotify.com/track/32TxjkRcmXd3BNqBPIFMPN) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [9 \(Spanish Version\)](https://open.spotify.com/album/3hPQaa3lqJWCOzA2B6LZye) | 3:56 | 2021-11-12 | 2022-07-28 |
+| [UNA PÁGINA +](https://open.spotify.com/track/25p9NqDgV2BZVsy0qUNofg) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [CASI FAMOSO](https://open.spotify.com/album/53UkGjWxOB6nWFNtGKl66b) | 4:09 | 2026-09-24 |  |
 | [VERTIGO](https://open.spotify.com/track/70BCmegyMAdPzFadlYGXfv) | [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [NO ME OLVIDES](https://open.spotify.com/album/13cf0Quqq45QP6RVHhAhkT) | 2:58 | 2025-07-25 | 2025-08-01 |
 | [X Ella](https://open.spotify.com/track/4GZkx3HIHaU87FzU8KEdB8) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Querida Yo](https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4) | 2:11 | 2025-11-28 | 2026-06-12 |
 | [Y Tú Te Vas](https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:43 | 2021-11-12 | 2022-07-29 |

@@ -4,23 +4,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: KUKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,084 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,081 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 |
-| 2 | [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 |
-| 3 | [Actress](https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Actress](https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC) | 2:34 |
-| 4 | [Du](https://open.spotify.com/track/2nG3Mc1jSwvvL3EgZ9l0PL) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Du](https://open.spotify.com/album/6G1H5faNVCHATEMyVLNyxV) | 2:12 |
-| 5 | [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 |
-| 6 | [The Pretender](https://open.spotify.com/track/2oGgKnec1RtBsC2N1izzAY) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Apply Autonomy](https://open.spotify.com/album/1NsZcfFWbnBl1Na5dFY2bh) | 3:32 |
-| 7 | [w4sted love](https://open.spotify.com/track/01LZoihC5sUdqq66rmkncI) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [w4sted love](https://open.spotify.com/album/2aUrzpUptSYY4fUPNcJmYk) | 3:08 |
-| 8 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 |
-| 9 | [He Said She Said](https://open.spotify.com/track/4nHiea0Guj78Bjeu1NojAT) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [He Said She Said](https://open.spotify.com/album/1rbcFohPR9qlUDIJ8po6Gy) | 2:29 |
-| 10 | [disstrack](https://open.spotify.com/track/1DvE4PD6gtLCOJqpORDqG2) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [disstrack](https://open.spotify.com/album/1cKqmrqpLqQv7w36THAaUh) | 2:40 |
-| 11 | [HOMECOMING](https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [HOMECOMING](https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL) | 2:21 |
-| 12 | [Ich hasse die Sonne](https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ich hasse die Sonne](https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA) | 2:44 |
-| 13 | [Summer Nights](https://open.spotify.com/track/01c7BY8nt9MEgaVdvRCely) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Summer Nights](https://open.spotify.com/album/5AMHlJNSFH1czaWSiTVxMZ) | 3:40 |
+| 1 | [Track 6](https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [CATHARSIS](https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd) | 0:00 |
+| 2 | [Feels Right](https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [Feels Right](https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj) | 3:09 |
+| 3 | [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 |
+| 4 | [Actress](https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Actress](https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC) | 2:34 |
+| 5 | [Du](https://open.spotify.com/track/2nG3Mc1jSwvvL3EgZ9l0PL) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Du](https://open.spotify.com/album/6G1H5faNVCHATEMyVLNyxV) | 2:12 |
+| 6 | [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 |
+| 7 | [The Pretender](https://open.spotify.com/track/2oGgKnec1RtBsC2N1izzAY) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Apply Autonomy](https://open.spotify.com/album/1NsZcfFWbnBl1Na5dFY2bh) | 3:32 |
+| 8 | [w4sted love](https://open.spotify.com/track/01LZoihC5sUdqq66rmkncI) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [w4sted love](https://open.spotify.com/album/2aUrzpUptSYY4fUPNcJmYk) | 3:08 |
+| 9 | [Hate My Mom](https://open.spotify.com/track/1IeLyvjv9fwB8HalE2Fr4O) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Feel Like Shit And It's All Your Fault](https://open.spotify.com/album/0xRwUTIex3TLyNLzKkfYHn) | 2:57 |
+| 10 | [He Said She Said](https://open.spotify.com/track/4nHiea0Guj78Bjeu1NojAT) | [Louis Ottley](https://open.spotify.com/artist/6lq9zv8FElQShSuFYolkp5) | [He Said She Said](https://open.spotify.com/album/1rbcFohPR9qlUDIJ8po6Gy) | 2:29 |
+| 11 | [disstrack](https://open.spotify.com/track/1DvE4PD6gtLCOJqpORDqG2) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [disstrack](https://open.spotify.com/album/1cKqmrqpLqQv7w36THAaUh) | 2:40 |
+| 12 | [HOMECOMING](https://open.spotify.com/track/3LOjZSJC1N2BqlWh339cLm) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [HOMECOMING](https://open.spotify.com/album/7sTDu7gTdHQWDwazbuoaQL) | 2:21 |
+| 13 | [Ich hasse die Sonne](https://open.spotify.com/track/5nxq7zSGWdE9RZYolZaxdt) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ich hasse die Sonne](https://open.spotify.com/album/18rA6WaQpeQ9900eATDeuA) | 2:44 |
 | 14 | [Kamera Blitzlicht](https://open.spotify.com/track/1iqw9RC7HckP1b75DkO2es) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Kamera Blitzlicht](https://open.spotify.com/album/646xIOsDbv5KQq09Vgt3eg) | 3:58 |
 | 15 | [himbeersorbet](https://open.spotify.com/track/1dNOuGSRY0F6QwN0B75mts) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [himbeersorbet](https://open.spotify.com/album/01junsA8SQhsHhjYZbdH4Q) | 2:40 |
 | 16 | [erst recht](https://open.spotify.com/track/0ZKIhZ5jljuJLbRCK5H9Ky) | [Maiva](https://open.spotify.com/artist/5DluYS6gq7pRws9o6EgVd5) | [erst recht](https://open.spotify.com/album/2y0yqDdEMm3TcX4CGODbTC) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 49 | [belly of the beast](https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [bullfight](https://open.spotify.com/album/6nrmlkU9elKQBL5rePqqaD) | 3:36 |
 | 50 | [Dienstag](https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Dienstag](https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH) | 2:41 |
 
-Snapshot ID: `AAAAAF/hYCSQfNKsfkFzpJGdJPfgbOZQ`
+Snapshot ID: `AAAAAMgAEp4VbSp10+1CYx4A7gUclAnV`

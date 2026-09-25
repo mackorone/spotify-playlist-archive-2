@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,278 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,310 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 15 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
 | 16 | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk) | 2:02 |
 | 17 | [Joy](https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Joy](https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl) | 3:34 |
-| 18 | [Boogie's in My Soul](https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Boogie's in My Soul](https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ) | 3:42 |
-| 19 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
-| 20 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
-| 21 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 |
+| 18 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
+| 19 | [Boogie's in My Soul](https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Boogie's in My Soul](https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ) | 3:42 |
+| 20 | [lost](https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [lost](https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp) | 3:01 |
+| 21 | [Last Call](https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Last Call](https://open.spotify.com/album/6TzxE8PAjmOLmcQ2qBBuiZ) | 1:35 |
 | 22 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
 | 23 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 |
 | 24 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 33 | [the one](https://open.spotify.com/track/5CVH4yjJy1Nhr1G51UBG7e) | [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [the one](https://open.spotify.com/album/6Vqi6HvrkjM1MgdiZUfn6P) | 2:26 |
 | 34 | [Island](https://open.spotify.com/track/3YKwLWmaVqrW6u0eogYXFD) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood \(Special Edition\)](https://open.spotify.com/album/3DBaYwShtoRDePdSskpsHf) | 3:03 |
 | 35 | [Rio Lua](https://open.spotify.com/track/2U2EHzePinWCXk8RItiiJW) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Rio Lua](https://open.spotify.com/album/1ZKkYip0a1vYvZHbHhRWHs) | 2:29 |
-| 36 | [Your Way](https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [All the Space Between](https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ) | 2:12 |
-| 37 | [Gentleman Blue](https://open.spotify.com/track/5loW20chHOzvK5z4y9D96U) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Gentleman Blue](https://open.spotify.com/album/5T5QLI9OIEwLHJ065gR3D2) | 3:28 |
+| 36 | [Gentleman Blue](https://open.spotify.com/track/5loW20chHOzvK5z4y9D96U) | [Elysia Biro](https://open.spotify.com/artist/1Hf13BeholAGi7Ontz4P5L) | [Gentleman Blue](https://open.spotify.com/album/5T5QLI9OIEwLHJ065gR3D2) | 3:28 |
+| 37 | [Your Way](https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [All the Space Between](https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ) | 2:12 |
 | 38 | [the van](https://open.spotify.com/track/4C2o68XUoLpjvncsNsgwjA) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [the van](https://open.spotify.com/album/70zrCL7WfIPJQcXqzhRAho) | 2:58 |
 | 39 | [L'AMOUR C'EST COOL](https://open.spotify.com/track/5ahSaMam2jWCSr0AduW8Hd) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF) | [L'AMOUR C'EST COOL](https://open.spotify.com/album/6XHfjkgn0gFB8LB16VFLyq) | 2:54 |
 | 40 | [Feel Alive](https://open.spotify.com/track/2nPXfUVFzIlhN4SokXg6O7) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Feel Alive](https://open.spotify.com/album/4MfK4qyG0xxWjQtrb0fwvI) | 2:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Gerardo Coronel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,920 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 531,929 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 31 | [TREMENDA](https://open.spotify.com/track/3yaA1F3bvFbZyx5db6fm5M) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Dulce Amargo](https://open.spotify.com/album/0xw1ObVPQtZLK3NLNVDlGZ) | 2:09 |
 | 32 | [De Todas Y De Nadie](https://open.spotify.com/track/2AN5kdD4iULNxtb17QniI7) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [De Todas Y De Nadie](https://open.spotify.com/album/3ASDDNxxZalJZiGLYPdc4n) | 3:03 |
 | 33 | [Perdóname](https://open.spotify.com/track/7DpxUbPnZJhh0t4NVtZPAd) | [Anakin Larios](https://open.spotify.com/artist/4odik7BzbLv2khRorJG2Lh) | [Perdóname](https://open.spotify.com/album/2mSU9zlVPSWpGYbzw8IJ5N) | 3:42 |
-| 34 | [Se Rindió El Amor](https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33), [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG) | [Se Rindió El Amor](https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p) | 2:33 |
-| 35 | [Tu Culpa](https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Tu Culpa](https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6) | 2:54 |
+| 34 | [Tu Culpa](https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm) | [Clave Especial](https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26), [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Tu Culpa](https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6) | 2:54 |
+| 35 | [Se Rindió El Amor](https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM) | [Conjunto Amanecer](https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33), [Conjunto Rio Grande](https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG) | [Se Rindió El Amor](https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p) | 2:33 |
 | 36 | [TMS](https://open.spotify.com/track/5VzwO9WrXtlcOgdMxCsT44) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Villegas](https://open.spotify.com/artist/6q8Pg7R3cevAcZjiVsawPn) | [TMS](https://open.spotify.com/album/6oqZJRc2yor8igHIayg5sq) | 2:41 |
 | 37 | [Pata De Perro](https://open.spotify.com/track/7JHjg4NnMbDU8CKPyoyuqb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Pata De Perro](https://open.spotify.com/album/6NymS09wSk1y3Nd3v1Boq3) | 2:13 |
 | 38 | [Qué Mal](https://open.spotify.com/track/1O6SFp3jUbBelgHuRSXOpc) | [Adrián Beltrán](https://open.spotify.com/artist/0mKwwooLvl1B4rmOAyUcNA) | [Qué Mal](https://open.spotify.com/album/3EgvCPSyqvNhmzivVf8P4A) | 2:55 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 48 | [Anomalia](https://open.spotify.com/track/0zDuC2iFojk5rSmg7KkH0Z) | [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Anomalia](https://open.spotify.com/album/2Z3xDmWwTIuaTIGTT9CEI4) | 3:05 |
 | 49 | [Explicación real](https://open.spotify.com/track/25ii85fRBVhn1fQd3PJD2x) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [A Tiempo](https://open.spotify.com/album/53gH6vH1Cth1DHjhN9uiDA) | 3:22 |
 | 50 | [Terco Y Que](https://open.spotify.com/track/5gm23dibSsjTnlPEU3Yj7V) | [Lui Santo](https://open.spotify.com/artist/2QoMCjd4XA9bZKXWWLSxGq), [Equipo HC](https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ) | [Terco Y Que](https://open.spotify.com/album/1u3dbpuXQkWP4p4CNUjqVV) | 2:22 |
-| 51 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 |
-| 52 | [Mi Sueño](https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Mi Sueño](https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq) | 3:01 |
-| 53 | [Se Pudo](https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Se Pudo](https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t) | 2:50 |
-| 54 | [Millonario](https://open.spotify.com/track/0qZcNjtKS4bAJ7NllfVN4n) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Millonario](https://open.spotify.com/album/3Btrhs9UByKyHuutB0mssF) | 3:05 |
+| 51 | [Millonario](https://open.spotify.com/track/0qZcNjtKS4bAJ7NllfVN4n) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Millonario](https://open.spotify.com/album/3Btrhs9UByKyHuutB0mssF) | 3:05 |
+| 52 | [A Dios Le Pedía](https://open.spotify.com/track/65keL132eDsLtq1fWZXCz3) | [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Amor x Dosis](https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny) | 3:18 |
+| 53 | [Mi Sueño](https://open.spotify.com/track/1cVovlf4UQjH7vIY6mcaP5) | [Grupo Primer Grado](https://open.spotify.com/artist/3eRCLeO8w7xvvg1o39acC7) | [Mi Sueño](https://open.spotify.com/album/3D1vJz5NNcRHhTBZQmZenq) | 3:01 |
+| 54 | [Se Pudo](https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo) | [Se Pudo](https://open.spotify.com/album/4ntQtGDf75vbRRr4zcZO1t) | 2:50 |
 | 55 | [Dos Pa’ Llevar](https://open.spotify.com/track/6cJEM8mVrQhP00Z5D49XsR) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Chavalitos](https://open.spotify.com/artist/49EltEYUgnAeLArhavWfT0) | [Dos Pa’ Llevar](https://open.spotify.com/album/3nxYz2EnMw30nlKEapESez) | 3:11 |
 | 56 | [El Proximo Viernes](https://open.spotify.com/track/3FtfWtSnJL2ZF8hDVC4207) | [Elio Vega](https://open.spotify.com/artist/0az1vVK6kjKKXDWribb5Cg) | [El Proximo Viernes](https://open.spotify.com/album/7kjdvFWtLRUK7R6bwge3p5) | 3:18 |
 | 57 | [La Madrugada](https://open.spotify.com/track/5vngLJOgpzKNJCY9pSnBMi) | [Grupo Exclusivo](https://open.spotify.com/artist/2boZJJBos06QI6Iyj7KD9k) | [La Madrugada](https://open.spotify.com/album/5hp6ytgiR4jmIPDcCsVd4n) | 4:51 |

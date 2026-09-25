@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "loop vol.3 - Take Me Tokyo",
+        "url": "https://open.spotify.com/album/6cNDkx5wgvFxOJLjIYKmsI"
+      },
+      "artists": [
+        {
+          "name": "imzoo",
+          "url": "https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Take Me Tokyo",
+      "url": "https://open.spotify.com/track/1E2bVwpsHvP9DG1GXmjFGr"
+    },
+    {
+      "album": {
         "name": "Taman Anak-Anak",
         "url": "https://open.spotify.com/album/50xHVSEMYhkZ7evx6WfyDP"
       },
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 220555,
       "name": "\u0e2d\u0e22\u0e39\u0e48\u0e04\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e14\u0e49\u0e27\u0e22\u0e01\u0e31\u0e19\u0e44\u0e2b\u0e21 (Introvert)",
       "url": "https://open.spotify.com/track/4nnqax49cgpwE1be5dZXii"
@@ -3236,7 +3254,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 245500,
       "name": "\u5225\u6025\u8457\u8aaa\u59b3\u611b\u6211\u5230\u5929\u9577\u5730\u4e45",
       "url": "https://open.spotify.com/track/3qVS40B9udu90K4Bo0Jlnl"
@@ -3366,6 +3384,28 @@
       "duration_ms": 244154,
       "name": "\u90fd\u5e02\u722c\u884c",
       "url": "https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13"
+    },
+    {
+      "album": {
+        "name": "\u96f0\u56f2\u6c17",
+        "url": "https://open.spotify.com/album/0wagxfM0C8B7hDawfqFYm6"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        },
+        {
+          "name": "\u912d\u96d9\u96d9",
+          "url": "https://open.spotify.com/artist/642hyS9EveDWXVIANUQnMb"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "\u96f0\u56f2\u6c17",
+      "url": "https://open.spotify.com/track/28dKw9Km5DDq6hrErz17Yi"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZQ9qjpEt3QA"

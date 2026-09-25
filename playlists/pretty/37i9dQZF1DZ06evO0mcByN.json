@@ -1,12 +1,12 @@
 {
   "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
-  "num_followers": 7044,
+  "num_followers": 7045,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAB1AuE6qs6JEroc/6C6UEY5",
+  "snapshot_id": "arMWgAAAAACB4vkdJMQ5icvvmT1WfLD9",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 273913,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fogo",
         "url": "https://open.spotify.com/album/4yfESzbAlSbUIicPQTw13W"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 280615,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/1zEVQacf6Kf8X79sJpvjcP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 273913,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 311450,
+      "name": "Barulho de Milagre",
+      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grito Aflito",
         "url": "https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 280117,
       "name": "Grito Aflito",
       "url": "https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 289565,
-      "name": "Plano Original / Cita\u00e7\u00e3o: Sossegai",
-      "url": "https://open.spotify.com/track/1zNWH6AFga2dG0L6uiW7Nf"
     },
     {
       "added_at": null,
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 311450,
-      "name": "Barulho de Milagre",
-      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
+      "duration_ms": 289565,
+      "name": "Plano Original / Cita\u00e7\u00e3o: Sossegai",
+      "url": "https://open.spotify.com/track/1zNWH6AFga2dG0L6uiW7Nf"
     }
   ],
   "unique_name": "This Is Kemilly Santos",

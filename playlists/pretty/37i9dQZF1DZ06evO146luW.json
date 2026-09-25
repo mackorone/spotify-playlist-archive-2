@@ -1,12 +1,12 @@
 {
   "description": "This is Koe Wetzel. The essential tracks, all in one playlist.",
-  "num_followers": 53413,
+  "num_followers": 53430,
   "original_name": "This Is Koe Wetzel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAACkgcNOfBRs4NV+xHt9lH2L",
+  "snapshot_id": "arMWgAAAAACgU7IOYcCvDWJf25EPTrQD",
   "tracks": [
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 141564,
-      "name": "Better Without You",
-      "url": "https://open.spotify.com/track/12lagnH3LHPUHTXkQhAGph"
+      "duration_ms": 233226,
+      "name": "So Low",
+      "url": "https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP"
     },
     {
       "added_at": null,
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 233226,
-      "name": "So Low",
-      "url": "https://open.spotify.com/track/1TfdaAkmYnnQcQ6pxKX3sP"
+      "duration_ms": 141564,
+      "name": "Better Without You",
+      "url": "https://open.spotify.com/track/12lagnH3LHPUHTXkQhAGph"
     }
   ],
   "unique_name": "This Is Koe Wetzel",

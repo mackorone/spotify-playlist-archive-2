@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 416691,
+  "num_followers": 416702,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Nights Out",
+        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
+      },
+      "artists": [
+        {
+          "name": "Lamchopz",
+          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
+        }
+      ],
+      "duration_ms": 343414,
+      "name": "Nights Out",
+      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Love\u2019s A Game",
         "url": "https://open.spotify.com/album/0OuwtqtwwnHQRwwwJ2Kdcd"
       },
@@ -331,18 +347,22 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Nights Out",
-        "url": "https://open.spotify.com/album/3kfNFwmbK8LhWYu7GDjOH6"
+        "name": "3 Days Later",
+        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
       },
       "artists": [
         {
-          "name": "Lamchopz",
-          "url": "https://open.spotify.com/artist/4qERXGDhxAOmF0KRaY5uCF"
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
         }
       ],
-      "duration_ms": 343414,
-      "name": "Nights Out",
-      "url": "https://open.spotify.com/track/5dfcjckcGZ5Etpon13rCbH"
+      "duration_ms": 333658,
+      "name": "3 Days Later",
+      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -371,26 +391,6 @@
       "duration_ms": 162750,
       "name": "HONEY",
       "url": "https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "3 Days Later",
-        "url": "https://open.spotify.com/album/5ClUY27aMSWKKIjaP2ybg4"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 333658,
-      "name": "3 Days Later",
-      "url": "https://open.spotify.com/track/0divWrAf5awgfmCGyWhZ3j"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -623,6 +623,26 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
+        "name": "Come With Me (feat. Jorja Smith)",
+        "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
+      },
+      "artists": [
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 214886,
+      "name": "Come With Me (feat. Jorja Smith)",
+      "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD"
       },
@@ -655,26 +675,6 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
-        "name": "Come With Me (feat. Jorja Smith)",
-        "url": "https://open.spotify.com/album/3UZXRGAsUy1h8XdLoclc26"
-      },
-      "artists": [
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 214886,
-      "name": "Come With Me (feat. Jorja Smith)",
-      "url": "https://open.spotify.com/track/65CwK6coaH8GnQnatXnJDH"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Flow Free",
         "url": "https://open.spotify.com/album/1lSb4HADfBQ422Z89G0Ovg"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 239523,
       "name": "Flow Free",
       "url": "https://open.spotify.com/track/1AK271I7M3ZQmSulRg5EQ4"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Be With You",
+      "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Ahmed Spins",
-          "url": "https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV"
-        }
-      ],
-      "duration_ms": 264614,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Save My Soul",
         "url": "https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 184320,
       "name": "Save My Soul",
       "url": "https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/4S4VjEK6SsnM7kVDy4w5Yx"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Ahmed Spins",
+          "url": "https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV"
+        }
+      ],
+      "duration_ms": 264614,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/5XJvzlRR2FnsObtoYy6qoy"
     },
     {
       "added_at": "2026-06-02 14:00:24",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2026-06-02 14:00:24",
       "album": {
-        "name": "Another Touch (Deluxe)",
-        "url": "https://open.spotify.com/album/7lMh1fjO5h4buXg2JxPIyD"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        }
-      ],
-      "duration_ms": 186107,
-      "name": "Moments",
-      "url": "https://open.spotify.com/track/1q9TpHnaObjSKINEJPXaPx"
-    },
-    {
-      "added_at": "2026-06-02 14:00:24",
-      "album": {
         "name": "Wanderer",
         "url": "https://open.spotify.com/album/4D9GygCWZnsM3qD7xZpzDO"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 195812,
       "name": "Wanderlust",
       "url": "https://open.spotify.com/track/4YOSuGzpYJqyOH3RCe1Els"
+    },
+    {
+      "added_at": "2026-06-02 14:00:24",
+      "album": {
+        "name": "Another Touch (Deluxe)",
+        "url": "https://open.spotify.com/album/7lMh1fjO5h4buXg2JxPIyD"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        }
+      ],
+      "duration_ms": 186107,
+      "name": "Moments",
+      "url": "https://open.spotify.com/track/1q9TpHnaObjSKINEJPXaPx"
     },
     {
       "added_at": "2026-06-02 14:00:24",

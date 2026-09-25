@@ -1,12 +1,12 @@
 {
   "description": "This is Skindred. The essential tracks, all in one playlist.",
-  "num_followers": 31010,
+  "num_followers": 31016,
   "original_name": "This Is Skindred",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADLirR2fNkeYvMETqoeIGT2",
+  "snapshot_id": "arMWgAAAAAAC3K6q3SzyGEK+/4GP2Qlx",
   "tracks": [
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 211444,
-      "name": "Loud and Clear",
-      "url": "https://open.spotify.com/track/2o7PvxONvn3b5n8uRben7D"
+      "duration_ms": 201677,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 201677,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/6wMnoiVacP8zT6jXgeJfQY"
+      "duration_ms": 211444,
+      "name": "Loud and Clear",
+      "url": "https://open.spotify.com/track/2o7PvxONvn3b5n8uRben7D"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 239072,
-      "name": "Last Chance",
-      "url": "https://open.spotify.com/track/5LkwjQgp9y5KZOlGV9h99w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Union Black",
         "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 231253,
       "name": "Cut Dem",
       "url": "https://open.spotify.com/track/5zad0gzqESqLTSbn6G9xlm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 239072,
+      "name": "Last Chance",
+      "url": "https://open.spotify.com/track/5LkwjQgp9y5KZOlGV9h99w"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shark Bites and Dog Fights",
-        "url": "https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs"
-      },
-      "artists": [
-        {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
-        }
-      ],
-      "duration_ms": 213960,
-      "name": "Calling All Stations",
-      "url": "https://open.spotify.com/track/2c0XncuoZEOGuphnaWltIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Union Black",
         "url": "https://open.spotify.com/album/65uAKfPZ0pZS1e8GMLfplG"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 210973,
       "name": "Bad Man Ah Bad Man",
       "url": "https://open.spotify.com/track/3Mp33oV9ScXvMcFkX7RgEI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shark Bites and Dog Fights",
+        "url": "https://open.spotify.com/album/3dUlnKfKyAtxENa1jHvdCs"
+      },
+      "artists": [
+        {
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+        }
+      ],
+      "duration_ms": 213960,
+      "name": "Calling All Stations",
+      "url": "https://open.spotify.com/track/2c0XncuoZEOGuphnaWltIG"
     },
     {
       "added_at": null,

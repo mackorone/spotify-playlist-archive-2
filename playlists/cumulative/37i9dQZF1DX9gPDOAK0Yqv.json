@@ -15185,6 +15185,32 @@
     },
     {
       "album": {
+        "name": "Serotonin (DREYA V Remix)",
+        "url": "https://open.spotify.com/album/6uujU0fgPDOa6GIr8tfVI0"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "Kurtis Wells",
+          "url": "https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S"
+        },
+        {
+          "name": "DREYA V",
+          "url": "https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218167,
+      "name": "Serotonin - DREYA V Remix",
+      "url": "https://open.spotify.com/track/3qCrUO19nsqasYgvVaYCJv"
+    },
+    {
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg"
       },

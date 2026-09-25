@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 
 > de sfeer van 6 uur in de ochtend in de buitenlucht
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,171 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,162 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4je779Ww5L2.md) - [plain]
 | 76 | [So do I](https://open.spotify.com/track/5WUHqV6THwfxVbOHkcW6YE) | [PIMSKIN](https://open.spotify.com/artist/372psDthzqo2RnGNKwwysX) | [So do I](https://open.spotify.com/album/3bxLOSpgBFUZI2wwbTA8SI) | 2:08 |
 | 77 | [You](https://open.spotify.com/track/4iyMFaZq5EYehqeZo0VPhJ) | [Benni](https://open.spotify.com/artist/331VAK6qkIiNdWoE2BGFWq) | [Bleeding Colours](https://open.spotify.com/album/7sfZa50WlIFYIYaCICcrF6) | 3:40 |
 | 78 | [In My Head Today](https://open.spotify.com/track/6LvwKP5nY8ESrLTn6TvnkL) | [Send Me Flowers](https://open.spotify.com/artist/12XFstDiWIWvVnYOvPU8Z5) | [In My Head Today](https://open.spotify.com/album/5ApOG5o1JKyDreecmUYIdL) | 2:28 |
-| 79 | [Exit Wounds](https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Sincerely, Sevens](https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn) | 4:10 |
-| 80 | [More than a warning](https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv) | [Amongster](https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK) | [More than a warning](https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW) | 5:01 |
+| 79 | [More than a warning](https://open.spotify.com/track/2WyoxWAgDvsGzqKOWIhxPv) | [Amongster](https://open.spotify.com/artist/6YIKMlerK7c5j109TgfjnK) | [More than a warning](https://open.spotify.com/album/6mDTQhx9rC4e7fnRv9qgOW) | 5:01 |
+| 80 | [Exit Wounds](https://open.spotify.com/track/4ExjFndsVBO5i2mAB5Eutf) | [Sevens](https://open.spotify.com/artist/16TJwfQFZXTDDkPwG1FOzd) | [Sincerely, Sevens](https://open.spotify.com/album/5v8vQHWZctWcuM6VpuLAFn) | 4:10 |
 | 81 | [Silver Linings \- Unplugged](https://open.spotify.com/track/1oXlZMeVMIhkMHzXA5AA3b) | [Roufaida](https://open.spotify.com/artist/6Pvn7lx3CHZLtiYcxqateL) | [Silver Linings \(Unplugged\)](https://open.spotify.com/album/3SMrnF5wUteeHQsSbsIVdb) | 3:03 |
 | 82 | [Sunflower](https://open.spotify.com/track/6ZskcMSGVuInKodFTaLPS6) | [Loki Project](https://open.spotify.com/artist/7ig2Btg4Z1sESTkwmJzrAs) | [Sunflower](https://open.spotify.com/album/2xmhqUrdZY7gbZNbGt0FoU) | 4:26 |
 | 83 | [Kaleidoscope Eyes](https://open.spotify.com/track/3RKrbJIppvkKbfqltaSOgo) | [Kiki Annette](https://open.spotify.com/artist/2M1xxVsfnDhcmP8wGmjFB8) | [Kaleidoscope Eyes](https://open.spotify.com/album/7MqL14X34ldt6xyXNj7637) | 3:58 |

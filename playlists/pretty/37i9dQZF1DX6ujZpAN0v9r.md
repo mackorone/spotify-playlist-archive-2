@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,660 likes - 156 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,751 likes - 156 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 12 | [flower](https://open.spotify.com/track/01fudEnybVTbUfAbIsXz8q) | [Blue Smiley](https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL) | [ok](https://open.spotify.com/album/0rdqoGy3iMbJJDjiOKrywY) | 1:15 |
 | 13 | [Tastes Like Honey](https://open.spotify.com/track/7801eWQNK09cfzQ5By5n8T) | [Swallow](https://open.spotify.com/artist/6HXzAVwfQyS92X8UN6JVAu) | [Blow](https://open.spotify.com/album/1Zy8fVIXPCW8Y0K0xpd7Cz) | 4:41 |
 | 14 | [Black Metallic](https://open.spotify.com/track/0jmyo9QOmFbjDCYpNaPDhy) | [Catherine Wheel](https://open.spotify.com/artist/1QPWAsWIjRcTfvY5uH8dov) | [Ferment](https://open.spotify.com/album/7LLZLkkBTR42Kb9JPRAzKb) | 7:18 |
-| 15 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 |
-| 16 | [Kim & Jessie](https://open.spotify.com/track/6T0dHDN1lPn5jamdHlWypt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/3z77NvneHmnr1A2FPUfpLx) | 5:23 |
+| 15 | [Kim & Jessie](https://open.spotify.com/track/6T0dHDN1lPn5jamdHlWypt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/3z77NvneHmnr1A2FPUfpLx) | 5:23 |
+| 16 | [Gauze](https://open.spotify.com/track/0wBVIJrD6tvVnBIQTEQpBt) | [Gleemer](https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa) | [Moving Away](https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi) | 4:57 |
 | 17 | [Ballad Of Sister Sue](https://open.spotify.com/track/1nbZgajaqXmZQG24vl9u5d) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Just For A Day](https://open.spotify.com/album/7761KE2C9rH1QO9WAE1Ysb) | 4:31 |
 | 18 | [Porcelain](https://open.spotify.com/track/7BzsldUSmzrW46iea9UFVn) | [Ozean](https://open.spotify.com/artist/7oG49IUY8ulam2msuMN8v0) | [Ozean](https://open.spotify.com/album/3FTlAoDqVX3LDdsRdAe8jM) | 5:07 |
 | 19 | [The Same Place](https://open.spotify.com/track/06WHKWWKPDqkWA5yHCCRUs) | [Centaur](https://open.spotify.com/artist/4cFiH2RuKB8SzNi3MwCpJJ) | [In Streams](https://open.spotify.com/album/4NIUGM2AxYylwdhjshZsPL) | 7:35 |
@@ -107,18 +107,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 97 | [Turn Into](https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Turn Into](https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U) | 3:23 |
 | 98 | [Thoughtforms \- 2nd Version](https://open.spotify.com/track/7ARIbfiiJA4nyuXyXsGxJL) | [Lush](https://open.spotify.com/artist/3ysp8GwsheDcBxP9q65lBg) | [Gala](https://open.spotify.com/album/11hFygy8xLDCeECJEDnNEK) | 2:47 |
 | 99 | [Molten Young Lovers](https://open.spotify.com/track/5uu6X7Fs4fkoKSRo7zDXAf) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/5ZyewodnhW2uWCuNH83gP7) | 4:39 |
-| 100 | [The Perfect Needle](https://open.spotify.com/track/2ZyKEtawyPdYXQG0U2SAYy) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Taste + The Perfect Needle EP](https://open.spotify.com/album/4SXZL0la3HRhgBjTkUYlzW) | 3:28 |
-| 101 | [Souvenirs d'un autre monde](https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Souvenirs d'un autre monde](https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf) | 6:08 |
+| 100 | [Souvenirs d'un autre monde](https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Souvenirs d'un autre monde](https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf) | 6:08 |
+| 101 | [The Perfect Needle](https://open.spotify.com/track/2ZyKEtawyPdYXQG0U2SAYy) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Taste + The Perfect Needle EP](https://open.spotify.com/album/4SXZL0la3HRhgBjTkUYlzW) | 3:28 |
 | 102 | [Reverence](https://open.spotify.com/track/2ox2saGAHVx9mhjk8WH50K) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Honey's Dead](https://open.spotify.com/album/1hsluRV3WUPpeSXSdSL5HF) | 3:40 |
 | 103 | [Sure \- Robin Guthrie remix](https://open.spotify.com/track/5n23n1Vd5din4eKMjpbKQ0) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Sure \(Robin Guthrie remix\)](https://open.spotify.com/album/7y9l93Ik2ULQWNZi5v2QSq) | 4:08 |
 | 104 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 |
-| 105 | [Sight of You](https://open.spotify.com/track/2XMwak0QKaukNo502mcufY) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness](https://open.spotify.com/album/0nIWyOR3JgBnVsJgKQxyWt) | 5:37 |
-| 106 | [Autre temps](https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O) | 5:50 |
+| 105 | [Autre temps](https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O) | 5:50 |
+| 106 | [Sight of You](https://open.spotify.com/track/2XMwak0QKaukNo502mcufY) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness](https://open.spotify.com/album/0nIWyOR3JgBnVsJgKQxyWt) | 5:37 |
 | 107 | [What Lies Beneath](https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Departure](https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf) | 3:53 |
 | 108 | [One](https://open.spotify.com/track/5tC9wEYsOylv7aXeXCRaL3) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Mild Orange](https://open.spotify.com/album/0cHGTDM93EWsLKxwiUzpPF) | 4:11 |
 | 109 | [Lovely Times](https://open.spotify.com/track/4YGPKyLmAkUEBNIcEWnAMV) | [Suburban Living](https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2) | [Almost Paradise](https://open.spotify.com/album/54wd1Hh4e1z8tApOoHdM6j) | 4:17 |
-| 110 | [We’re Not Done \(End Title\)](https://open.spotify.com/track/58jGSwikO2NbCICODjZnrG) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [We’re Not Done \(End Title\)](https://open.spotify.com/album/5TiqFCkjE75V7spbHqJyt5) | 4:14 |
-| 111 | [Into the Waves](https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC) | 6:30 |
+| 110 | [Into the Waves](https://open.spotify.com/track/0rfq7oha0S0Pd1Ym3n7TX7) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Shelter \(Deluxe Edition\)](https://open.spotify.com/album/5iI0bG6kr3Nzlqu1fdHKCC) | 6:30 |
+| 111 | [We’re Not Done \(End Title\)](https://open.spotify.com/track/58jGSwikO2NbCICODjZnrG) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [We’re Not Done \(End Title\)](https://open.spotify.com/album/5TiqFCkjE75V7spbHqJyt5) | 4:14 |
 | 112 | [Mercy Seat](https://open.spotify.com/track/58w6DAHu9ZPuG3xmp84snl) | [Ultra Vivid Scene](https://open.spotify.com/artist/3tW6ylfdDCxcBHqZJjVwrH) | [Ultra Vivid Scene](https://open.spotify.com/album/0lf5uU9vstokKznk6C1esx) | 4:09 |
 | 113 | [Farewell](https://open.spotify.com/track/7HGOZac4VHXnWXWuvMniTv) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Pink \(Deluxe Edition\)](https://open.spotify.com/album/2rRHqBhUioCssa9VHMRJYO) | 7:33 |
 | 114 | [Echo and Abyss](https://open.spotify.com/track/6Sd3ALX2GKamuWcvv0xHFP) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Dust and Disquiet](https://open.spotify.com/album/2Iw6ZVE1gw6HSuRvNirbxg) | 5:44 |

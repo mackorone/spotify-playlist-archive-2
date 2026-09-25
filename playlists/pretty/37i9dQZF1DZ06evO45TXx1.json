@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16268,
+  "num_followers": 16273,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAA1F2rniKrehqEVt6fIT7FS",
+  "snapshot_id": "arMWgAAAAAAUPk4ObglmmkPLwsub7oMm",
   "tracks": [
     {
       "added_at": null,
@@ -115,6 +115,34 @@
       "duration_ms": 177230,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Botano (\u00datero Baixo)",
+        "url": "https://open.spotify.com/album/76LH5qUwb68C2J1RGtzzTp"
+      },
+      "artists": [
+        {
+          "name": "DJ Caio Prince",
+          "url": "https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        },
+        {
+          "name": "DJ Thiago Martins",
+          "url": "https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Botano (\u00datero Baixo)",
+      "url": "https://open.spotify.com/track/4I5tjmq7DRY9pHqKgiE5Fr"
     },
     {
       "added_at": null,
@@ -291,54 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Botano (\u00datero Baixo)",
-        "url": "https://open.spotify.com/album/76LH5qUwb68C2J1RGtzzTp"
-      },
-      "artists": [
-        {
-          "name": "DJ Caio Prince",
-          "url": "https://open.spotify.com/artist/5QihhtcyXmUesNqhRRaoaM"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        },
-        {
-          "name": "DJ Thiago Martins",
-          "url": "https://open.spotify.com/artist/201eJ9jddoHC00soaLF6td"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Botano (\u00datero Baixo)",
-      "url": "https://open.spotify.com/track/4I5tjmq7DRY9pHqKgiE5Fr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IRREFRE\u00c1VEL",
-        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
-        }
-      ],
-      "duration_ms": 150886,
-      "name": "Esconde Sua Namorada",
-      "url": "https://open.spotify.com/track/2ui9JDYf2oaTfkah3F4QWS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fra\u00e7\u00e3o 3/4",
         "url": "https://open.spotify.com/album/387TbDSzjAzUK1kfVlZaRh"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 158884,
       "name": "+18",
       "url": "https://open.spotify.com/track/3Yzm8lrmibXZyzg2vUYLe8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "IRREFRE\u00c1VEL",
+        "url": "https://open.spotify.com/album/37GSicVBksghz8FmLvrUiQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        }
+      ],
+      "duration_ms": 150886,
+      "name": "Esconde Sua Namorada",
+      "url": "https://open.spotify.com/track/2ui9JDYf2oaTfkah3F4QWS"
     },
     {
       "added_at": null,
@@ -439,38 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Voc\u00ea Precisa do \u00c1libi",
-        "url": "https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Beat do \u00c1vila",
-          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
-        },
-        {
-          "name": "Mahai",
-          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
-        }
-      ],
-      "duration_ms": 165525,
-      "name": "NOITES TRAI\u00c7OEIRAS",
-      "url": "https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AINDA NO MESMO BAIRRO",
         "url": "https://open.spotify.com/album/0MgSMuYtpk9VLGrR5h3LcG"
       },
@@ -499,6 +467,38 @@
       "duration_ms": 151982,
       "name": "Um Mano Discreto (feat. Mc Luanna)",
       "url": "https://open.spotify.com/track/0lN6Mpuubw0DRgOqYq7Fg8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voc\u00ea Precisa do \u00c1libi",
+        "url": "https://open.spotify.com/album/4530wDuVkqhhnJsGma5qKX"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Beat do \u00c1vila",
+          "url": "https://open.spotify.com/artist/2zuL7Yq6XmN6LbH4gDrgfP"
+        },
+        {
+          "name": "Mahai",
+          "url": "https://open.spotify.com/artist/2wRHyStBiMxi4bYc8nHdPy"
+        }
+      ],
+      "duration_ms": 165525,
+      "name": "NOITES TRAI\u00c7OEIRAS",
+      "url": "https://open.spotify.com/track/5FuRslm40ttLrTJSP8EgUI"
     },
     {
       "added_at": null,
@@ -1075,8 +1075,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
+        "name": "44",
+        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
       },
       "artists": [
         {
@@ -1084,17 +1084,13 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Monna Brutal",
-          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
-        },
-        {
-          "name": "iamlope$$",
-          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
+          "name": "Jayp",
+          "url": "https://open.spotify.com/artist/4B89qqZfta5V4f2tV0JS7O"
         }
       ],
-      "duration_ms": 242600,
-      "name": "Mundo das Espertas",
-      "url": "https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3"
+      "duration_ms": 106549,
+      "name": "Atacante",
+      "url": "https://open.spotify.com/track/1sPnEamR8ZmrYYCjRR0uRd"
     },
     {
       "added_at": null,
@@ -1123,8 +1119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "44",
-        "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/00nkUxwRwjX0eXCGvUafEf"
       },
       "artists": [
         {
@@ -1132,13 +1128,17 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Jayp",
-          "url": "https://open.spotify.com/artist/4B89qqZfta5V4f2tV0JS7O"
+          "name": "Monna Brutal",
+          "url": "https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n"
+        },
+        {
+          "name": "iamlope$$",
+          "url": "https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ"
         }
       ],
-      "duration_ms": 106549,
-      "name": "Atacante",
-      "url": "https://open.spotify.com/track/1sPnEamR8ZmrYYCjRR0uRd"
+      "duration_ms": 242600,
+      "name": "Mundo das Espertas",
+      "url": "https://open.spotify.com/track/65PfSR01GTeObr5iapDNT3"
     },
     {
       "added_at": null,
@@ -1199,30 +1199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANDIDA",
-        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "AJULLIACOSTA",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        }
-      ],
-      "duration_ms": 179824,
-      "name": "Bandida",
-      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "44",
         "url": "https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna"
       },
@@ -1247,26 +1223,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO PRIMEIRO ENCONTRO",
-        "url": "https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ"
+        "name": "BANDIDA",
+        "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
       },
       "artists": [
         {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "Dj Chadin do C",
-          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
         }
       ],
-      "duration_ms": 147692,
-      "name": "NO PRIMEIRO ENCONTRO",
-      "url": "https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H"
+      "duration_ms": 179824,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/7rPGg4N5agKA8f110cr12F"
     },
     {
       "added_at": null,
@@ -1291,6 +1267,30 @@
       "duration_ms": 147428,
       "name": "Sucessagem",
       "url": "https://open.spotify.com/track/41Ju0wSEJXmA8KGYygwifb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO PRIMEIRO ENCONTRO",
+        "url": "https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "Dj Chadin do C",
+          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "NO PRIMEIRO ENCONTRO",
+      "url": "https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H"
     }
   ],
   "unique_name": "This Is Mc Luanna",

@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these easy, laid-back songs.",
-  "num_followers": 2115669,
+  "num_followers": 2115708,
   "original_name": "Totally Stress Free",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
+        "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
+        "url": "https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf"
+      },
+      "artists": [
+        {
+          "name": "Abbie Callahan",
+          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+        }
+      ],
+      "duration_ms": 210285,
+      "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
+      "url": "https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs"
+    },
+    {
+      "added_at": "2026-09-18 04:00:59",
+      "album": {
         "name": "Celeste EP",
         "url": "https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2026-09-18 04:00:59",
       "album": {
-        "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
-        "url": "https://open.spotify.com/album/1duTdDEW9NYQpRnh5rSxXf"
+        "name": "RUSHMERE",
+        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
       },
       "artists": [
         {
-          "name": "Abbie Callahan",
-          "url": "https://open.spotify.com/artist/6XwNHIhBOIQCoD7zAR2Xhm"
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         }
       ],
-      "duration_ms": 210285,
-      "name": "Half Woman, Half Cosmic Horror (Disco Disco)",
-      "url": "https://open.spotify.com/track/3sBGDdhsXpQ4jTTy13cqCs"
+      "duration_ms": 200373,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
     },
     {
       "added_at": "2026-09-18 04:00:59",
@@ -831,22 +847,6 @@
       "duration_ms": 228076,
       "name": "Sweet Symphony (with Chris Stapleton)",
       "url": "https://open.spotify.com/track/78HpdJlNoppURkMmE0dogS"
-    },
-    {
-      "added_at": "2026-09-18 04:00:59",
-      "album": {
-        "name": "RUSHMERE",
-        "url": "https://open.spotify.com/album/15oPzWZQmZyyrsJt4st3U4"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        }
-      ],
-      "duration_ms": 200373,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/4fPZyUU0MmUJuVlJ9IjJe6"
     },
     {
       "added_at": "2026-09-18 04:00:59",

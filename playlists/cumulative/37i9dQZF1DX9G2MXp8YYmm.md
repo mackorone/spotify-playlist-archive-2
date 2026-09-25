@@ -4,7 +4,7 @@
 
 > Pop'un sevilen isimleri\. Kapak: Emre Altuğ
 
-741 songs - 1 day 13 hr 40 min
+742 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Bazı Gerçekler](https://open.spotify.com/track/0b2zRFEQszh31BQ38BTLXY) | [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Bazı Gerçekler](https://open.spotify.com/album/5Z0phY1PHicvQPrAG0gpvD) | 2:38 | 2025-02-20 | 2025-05-13 |
 | [Başımda Belalar](https://open.spotify.com/track/78wzqnO4Ixrb4o1CAd4YZN) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [Başımda Belalar](https://open.spotify.com/album/4CZ5W7sAGi6indqbl6iVc5) | 2:50 | 2026-07-09 |  |
 | [Be Oğlum](https://open.spotify.com/track/2azHlYPkMqCKHKOnC7uXu2) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Rüyaların İşi](https://open.spotify.com/album/4qctMT6jf347dtrz0ZodKd) | 3:17 | 2026-05-14 | 2026-06-26 |
+| [Bedduam Olsun](https://open.spotify.com/track/7zOS5X2z0Z0a2FH1EczC67) | [Linet](https://open.spotify.com/artist/31TJIzpuFOgX8owcV3nTrE), [Büken](https://open.spotify.com/artist/5xvFmfo6COwVZoN8GHaBLs) | [Bedduam Olsun](https://open.spotify.com/album/1rz5Z4hI21NjtYE7pe34mb) | 2:50 | 2026-09-22 |  |
 | [Bedel](https://open.spotify.com/track/23cjMX6FjB8TGdRnLD5bod) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bedel](https://open.spotify.com/album/3JaSBvsF9GmTY7vjNwSHRF) | 2:37 | 2024-07-04 | 2024-08-23 |
 | [Bekleyenim](https://open.spotify.com/track/31eQP55jRbczzhi1YCNynR) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Bekleyenim](https://open.spotify.com/album/6Wg2f6kG5Nbqv6GKWbDC7x) | 2:41 | 2024-12-19 | 2025-08-01 |
 | [Ben Böyle](https://open.spotify.com/track/4QCav8A7C8fOrX2gQNShuh) | [Zeynep Bastık](https://open.spotify.com/artist/1mpOD8ZwHnbsryIuXWq0R1) | [Ben Böyle](https://open.spotify.com/album/55EPPWTtxqRsqbyD7zkyng) | 2:10 | 2024-09-12 | 2024-10-11 |
@@ -512,7 +513,7 @@
 | [Peki Öyle Olsun](https://open.spotify.com/track/6QHkJAqfl4mSUBhznWsVqP) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Peki Öyle Olsun](https://open.spotify.com/album/4c4UCx12jdeDe3FtHniGIx) | 2:45 | 2026-03-05 | 2026-03-22 |
 | [PES](https://open.spotify.com/track/6xZxMoZaKYEFXVcfUW8X1k) | [AURA](https://open.spotify.com/artist/3vv9Y0XUMGmPUfIj8KB7Oo) | [PES](https://open.spotify.com/album/25CWJzdUW8Wys9Nsaxm0f6) | 2:33 | 2026-08-20 | 2026-09-16 |
 | [pişman...](https://open.spotify.com/track/1vHyuIpmhC2TWrQHWPNxBA) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [pişman...](https://open.spotify.com/album/1D8mP2XsFgTuFDsgXsyz0G) | 1:50 | 2025-03-06 | 2025-03-14 |
-| [Rak Tak Tak](https://open.spotify.com/track/1NaPqHwlnoXXm7N7yq88Xp) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Sıradaki Gelsin](https://open.spotify.com/album/3unPuKxj4Wt7041OaTjvgy) | 2:27 | 2026-09-03 |  |
+| [Rak Tak Tak](https://open.spotify.com/track/1NaPqHwlnoXXm7N7yq88Xp) | [Tekir](https://open.spotify.com/artist/2SqjgMx7edUilMzPosMR1P) | [Sıradaki Gelsin](https://open.spotify.com/album/3unPuKxj4Wt7041OaTjvgy) | 2:27 | 2026-09-03 | 2026-09-25 |
 | [Rakıya Meze Olalım](https://open.spotify.com/track/0PTpHlfm7cqG69tKyIuu7r) | [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08), [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [Rakıya Meze Olalım](https://open.spotify.com/album/5s1VUKfu8QHcTddbf1co5K) | 2:09 | 2024-10-03 | 2025-01-16 |
 | [Renklensin](https://open.spotify.com/track/1d02igesB9DREknAVXRiBd) | [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [Renklensin](https://open.spotify.com/album/5QTNMJkssQOVw7DZhzHQNL) | 3:10 | 2024-06-27 | 2024-08-02 |
 | [Rimel \- Afro Rework](https://open.spotify.com/track/3QgWjH34FiQoOqMifm77ka) | [Maderzat](https://open.spotify.com/artist/6DfPywExouYJJYIY2vxzpH) | [Rimel \(Afro Rework\)](https://open.spotify.com/album/3M2P6jrbS7qSKEPHNZF4Qs) | 3:10 | 2026-07-31 | 2026-08-14 |

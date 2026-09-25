@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 
 > This is Patoranking\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,885 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,890 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iOLV6.md) - [plain]
 | 46 | [Daniella Whine](https://open.spotify.com/track/70iRqEVEdQsvP3mzHdJSbG) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Daniella Whine \- single](https://open.spotify.com/album/2KPrCbHxw6FjOnX9N7bFyR) | 4:04 |
 | 47 | [Halé Halé](https://open.spotify.com/track/5iplDHszJoCNrY3AoYbjQH) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [God Over Everything](https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R) | 3:28 |
 | 48 | [Sing My Name](https://open.spotify.com/track/6zG9dqraRgFTDHxtYhLbQh) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sing My Name](https://open.spotify.com/album/2AuB1GPHlXcdzKrKrOwnAR) | 3:34 |
-| 49 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 |
-| 50 | [Mon Bébé \(feat\. Flavour\)](https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:25 |
+| 49 | [Mon Bébé \(feat\. Flavour\)](https://open.spotify.com/track/5z68NJKC2MnCydcfIjAqCY) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [Three](https://open.spotify.com/album/3OGisD8sBPdvPm7lhN5u2K) | 3:25 |
+| 50 | [Control Me](https://open.spotify.com/track/7wx6ccroZbXnrfH4zTbCpv) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:55 |
 
-Snapshot ID: `arHFAAAAAAAaqR6rLIOfThNPHd96WdLy`
+Snapshot ID: `arMWgAAAAADl/0e0TlH5BMvTumKXn5x0`

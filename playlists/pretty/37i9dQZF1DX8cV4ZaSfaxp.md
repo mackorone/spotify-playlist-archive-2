@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,334 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,350 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 56 | [Haru \(with meenoi\)](https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [Aquarium](https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v) | 3:43 |
 | 57 | [Lonely Night](https://open.spotify.com/track/2zfXhLXmq96fp8eq1N4vm1) | [JuJu Secret](https://open.spotify.com/artist/2g72luaOTzifxlC2r3flf9) | [Lonely Night](https://open.spotify.com/album/7J61Jk6KpPRirh3rVPhuBg) | 3:14 |
 | 58 | [Blue City](https://open.spotify.com/track/2dKh3hfbIMlzORqhxtE3dk) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [Blue City](https://open.spotify.com/album/5h4sEVv5QR6It8d8Z5ff9E) | 3:51 |
-| 59 | [Thinking About You \(feat\. SUMIN\)](https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN) | 3:29 |
-| 60 | [Dancing in the dark](https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy) | [YEOJIN\(L∞na\)](https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe) | [Dancing in the dark](https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF) | 2:48 |
+| 59 | [Dancing in the dark](https://open.spotify.com/track/4thTe1la1ryfo1aDqpg1xy) | [YEOJIN\(L∞na\)](https://open.spotify.com/artist/6T1L8TS6LeXIDHYnDAMHFe) | [Dancing in the dark](https://open.spotify.com/album/1demoaTSF4LmwjuzgbMvzF) | 2:48 |
+| 60 | [Thinking About You \(feat\. SUMIN\)](https://open.spotify.com/track/4kUD47WGOx48NepL37CfbT) | [Muzie](https://open.spotify.com/artist/6RzEJR9Jz1DFFjZOVm8Xtg), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Color of Night](https://open.spotify.com/album/36u4F4DHUfQc4Zli7TgHQN) | 3:29 |
 | 61 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 |
 | 62 | [Beautiful Night](https://open.spotify.com/track/0AIrMQasS9IuMi517vgrUs) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:39 |
 | 63 | [TALK](https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4) | [Tiffany Young](https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP) | [I Just Wanna Dance \- The 1st Mini Album](https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU) | 3:34 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 94 | [Get up](https://open.spotify.com/track/7JXGwnCtLGfaS78SCHN7Il) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [Scent](https://open.spotify.com/album/1Wl4PFy7LZ8a5GWCFYvGIN) | 3:57 |
 | 95 | [Fireworks](https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a) | [YESUNG](https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf) | [Beautiful Night \- The 4th Mini Album](https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T) | 3:34 |
 | 96 | [TALK](https://open.spotify.com/track/2nuPFwWsyyMBMGwEdnYVqv) | [YOU DAYEON](https://open.spotify.com/artist/23xyNoanbbAB7M8LBiibyr) | [TALK](https://open.spotify.com/album/3X2z54NV6Y6L97SjphwulR) | 3:23 |
-| 97 | [1,2,3,4 \(Feat\. Moon Sujin\)](https://open.spotify.com/track/6KsN97qVMBhG7dha4wEs5Z) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [1,2,3,4](https://open.spotify.com/album/2kaVMvuUljq9PCTWjx7QqK) | 3:03 |
-| 98 | [Self Camera](https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:17 |
+| 97 | [Self Camera](https://open.spotify.com/track/04Quw3a7e9R7f2Sr45l6Vx) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Pink Funky](https://open.spotify.com/album/5Fy5PyBWqMNK7xvXO9Q32f) | 3:17 |
+| 98 | [1,2,3,4 \(Feat\. Moon Sujin\)](https://open.spotify.com/track/6KsN97qVMBhG7dha4wEs5Z) | [Jueun](https://open.spotify.com/artist/7n9JiWW3jLlSm7WGaIrD8U), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [1,2,3,4](https://open.spotify.com/album/2kaVMvuUljq9PCTWjx7QqK) | 3:03 |
 | 99 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 |
 | 100 | [Cherry Pink](https://open.spotify.com/track/7afB8JJAPlRQxZOUcl8cqo) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Knock](https://open.spotify.com/album/0BtqrZfG23yUBgYVzL8yhm) | 3:17 |
 

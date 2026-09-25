@@ -2,9 +2,9 @@
 
 ### [SA Gold](https://open.spotify.com/playlist/37i9dQZF1DXcNdPSCaTGoa)
 
-> Celebrating South Africa's most beloved hits\. Cover: J'Something
+> Celebrating South Africa's most beloved hits\. Cover: The Mahotella Queens, lordkez
 
-350 songs - 1 day 4 hr 7 min
+351 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Angel Numbers / Ten Toes](https://open.spotify.com/track/3XqM8hLCEYlbnFjoWwqtFv) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [11:11](https://open.spotify.com/album/0tL8CzbfmF5poGm9puqALR) | 5:06 | 2025-08-22 | 2025-09-19 |
 | [Angel of Mine](https://open.spotify.com/track/1AM1o0mKbgAK5oMpY8B3Z7) | [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [The Boy Is Mine](https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh) | 4:10 | 2026-02-13 | 2026-02-26 |
 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 | 2019-07-01 |  |
-| [Asimbonanga](https://open.spotify.com/track/1tqA63CWaZWj50R1vIERdf) | [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Asimbonanga](https://open.spotify.com/album/2JdVEm93GGd9BfKCFqR9AZ) | 3:12 | 2026-04-24 |  |
+| [Asimbonanga](https://open.spotify.com/track/1tqA63CWaZWj50R1vIERdf) | [J'Something](https://open.spotify.com/artist/2KzocSxdQrnheOMFyaCljG), [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O) | [Asimbonanga](https://open.spotify.com/album/2JdVEm93GGd9BfKCFqR9AZ) | 3:12 | 2026-04-24 | 2026-09-25 |
 | [Asimbonanga \(Mandela\)](https://open.spotify.com/track/2l0EoH2zrjQ0XeB9H0oukT) | [Johnny Clegg & Savuka](https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4) | [Asimbonanga \(Mandela\)](https://open.spotify.com/album/7CtCTHSK5VosHjDhbfQSx4) | 4:27 | 2018-09-23 | 2023-08-13 |
 | [Asimbonanga \(Mandela\)](https://open.spotify.com/track/3PK6nJvcddecPj2ESgMJAe) | [Johnny Clegg & Savuka](https://open.spotify.com/artist/7tEJ4G6zzFAmzAfbl6faO4), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [The Best of Johnny Clegg \- Juluka & Savuka](https://open.spotify.com/album/5LhbwhBfshZF4MaTCx5kyr) | 4:27 | 2018-09-23 | 2022-07-16 |
 | [Back & Forth](https://open.spotify.com/track/45wneA2j0Z0WMnYNDO6Ad0) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 3:51 | 2026-02-13 | 2026-02-26 |
@@ -137,6 +137,7 @@
 | [Jika](https://open.spotify.com/track/5CaUga1xSORieHUwZ5urnG) | [AKA](https://open.spotify.com/artist/1QIghPIrXQQ22G1yNtAKFX) | [Touch My Blood](https://open.spotify.com/album/1cCpD6ImDJDP1nrsZVhV7O) | 5:04 | 2024-06-28 |  |
 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 4:11 | 2026-02-13 | 2026-02-26 |
 | [Kaptein](https://open.spotify.com/track/2dN6ZxgmN21aRTNeDDI4qB) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Uit Die Diepte Van My Hart](https://open.spotify.com/album/72xPC5J61vPhQdPdRmBlKp) | 3:49 | 2019-02-03 |  |
+| [Kazet \- lordkez Revisit](https://open.spotify.com/track/4aAKohhx1wABgxH4rJEqfG) | [Mahlathini and the Mahotella Queens](https://open.spotify.com/artist/5LFWp4p0pMURif2d7z3ijQ), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Tyron Woods](https://open.spotify.com/artist/4ESooQLvSkfCgHH19TCzmD), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Kazet \(lordkez Revisit\)](https://open.spotify.com/album/5x4f6LtIc7mZIqsC4LSr2R) | 3:13 | 2026-09-24 |  |
 | [Khona](https://open.spotify.com/track/300DzFkBAgf9PgPbl0ta4o) | [Mafikizolo](https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN), [Uhuru](https://open.spotify.com/artist/55Q9iFoAZojfxnIvg6lDb2) | [Evo Mix](https://open.spotify.com/album/5Vi28u2YzzR0X5OGszHajc) | 4:55 | 2018-09-23 |  |
 | [Kiss of Life](https://open.spotify.com/track/4S0NYVAQdIb81uLoZoQmgq) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Love Deluxe](https://open.spotify.com/album/2PfGKHtqEX58bHtkQxJnWG) | 5:50 | 2026-02-13 | 2026-02-26 |
 | [Knockin' da Boots](https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ) | [H\-Town](https://open.spotify.com/artist/21gGD9dUby5ls0belA1wqZ) | [Fever for da Flavor](https://open.spotify.com/album/1XXRMULRjSHEmWNxk9G1Cd) | 5:30 | 2026-02-13 | 2026-02-26 |

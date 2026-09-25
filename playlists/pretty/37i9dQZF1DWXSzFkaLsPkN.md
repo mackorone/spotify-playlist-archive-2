@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 
 > Hindi hai, Indie hai! Cover\- Anurag Vashisht
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,440 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,451 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSzFkaLsPkN.md) - [plain]
 | 31 | [Ab Main Kya Karun](https://open.spotify.com/track/4a8e7bDQwjKPVJcIn6RpOx) | [Last Minute India](https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg) | [Ab Main Kya Karun](https://open.spotify.com/album/2JNWOwxbfZF4sbXqVnODyp) | 3:46 |
 | 32 | [Qaraar](https://open.spotify.com/track/3S31XTwTQFEG7R5DbDCMbc) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo), [Dipti Misra](https://open.spotify.com/artist/01uFaIgB0EWy8RIpi0LDQ8) | [Qaraar](https://open.spotify.com/album/5ZgxkBhPJ25z0ty5hUVnYX) | 6:50 |
 | 33 | [Jaadugari](https://open.spotify.com/track/1EN4WMiQwUpEiuHkXzhKJk) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Jaadugari](https://open.spotify.com/album/0r6Tm9sQ4FEwryHcpsgZSt) | 2:51 |
-| 34 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 |
-| 35 | [Saawariya](https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Saawariya](https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY) | 2:02 |
+| 34 | [Saawariya](https://open.spotify.com/track/4iHO9d5IT1Jc0EgMVBROG0) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh), [Bandana Datta](https://open.spotify.com/artist/6EATxS3z3eO59uPyDpt4rp) | [Saawariya](https://open.spotify.com/album/2cynpDKsuIrlveQmx2sOEY) | 2:02 |
+| 35 | [Uljhan](https://open.spotify.com/track/13nrujwIxpJl1xtoDpvxyY) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Uljhan](https://open.spotify.com/album/1c8hEngE771KKKSEQKisN3) | 2:14 |
 | 36 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
 | 37 | [Better With You \(From "UR Debut"\)](https://open.spotify.com/track/31RiqzKluljrXwwanZSD1c) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Ansh4sure](https://open.spotify.com/artist/50v8c6DzqnysN9InIun5MA) | [Better With You \(From "UR Debut"\)](https://open.spotify.com/album/4SLRZ2hzrapT1iMVOhFhJ3) | 2:54 |
 | 38 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 |

@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: Vana",
+  "description": "The best in new rock. Cover: Nothing But Thieves",
   "name": "Rock Out.",
   "tracks": [
+    {
+      "album": {
+        "name": "Stray Dogs",
+        "url": "https://open.spotify.com/album/4N31AIbwVZbbfDe48xbGnY"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246023,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/4RPgsLbTlrpoLwXqEpkhQD"
+    },
     {
       "album": {
         "name": "100 Summers",
@@ -906,7 +924,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 224199,
       "name": "Baby Kool (Evelyn)",
       "url": "https://open.spotify.com/track/2uPY68Mxt9CqEc7i3o4BTy"
@@ -1108,6 +1126,24 @@
       "duration_ms": 205107,
       "name": "Base Camp",
       "url": "https://open.spotify.com/track/2Dtl1PPjYLqySfkGBJKS0I"
+    },
+    {
+      "album": {
+        "name": "Put A Smile On For Me",
+        "url": "https://open.spotify.com/album/3lNBELeJGdsWUJYYtv6aLB"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192990,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/2vQ2jaoKYz6651c4qwjy69"
     },
     {
       "album": {
@@ -1844,7 +1880,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 174253,
       "name": "C.E.O.",
       "url": "https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7"
@@ -2352,7 +2388,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 184293,
       "name": "closer",
       "url": "https://open.spotify.com/track/6Xw3YSJg4qNhscVBqMo9aD"
@@ -2648,6 +2684,24 @@
       "duration_ms": 218191,
       "name": "Cross Your Heart",
       "url": "https://open.spotify.com/track/2Dc7IQg5KhKGDCqrTIMsVA"
+    },
+    {
+      "album": {
+        "name": "Crucified",
+        "url": "https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263972,
+      "name": "Crucified",
+      "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
     },
     {
       "album": {
@@ -3430,7 +3484,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 231266,
       "name": "Easy Street",
       "url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW"
@@ -3828,6 +3882,24 @@
       "duration_ms": 253373,
       "name": "feminine adornments",
       "url": "https://open.spotify.com/track/4fDS9pq0XjGyv2GlQgxgbO"
+    },
+    {
+      "album": {
+        "name": "fever dream",
+        "url": "https://open.spotify.com/album/26oZIiwP7d2HTvhFfmBC4r"
+      },
+      "artists": [
+        {
+          "name": "RinRin",
+          "url": "https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172125,
+      "name": "fever dream",
+      "url": "https://open.spotify.com/track/0RkGXPK7gU68W5buwhag6Y"
     },
     {
       "album": {
@@ -5159,6 +5231,24 @@
     },
     {
       "album": {
+        "name": "HOLE",
+        "url": "https://open.spotify.com/album/5N4v5j462H81Sumq9GcniL"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153906,
+      "name": "HOLE",
+      "url": "https://open.spotify.com/track/0tYDtbOBF1v8qM1ZPyPlv3"
+    },
+    {
+      "album": {
         "name": "Hole In The Ground",
         "url": "https://open.spotify.com/album/0kgOgOSINmwzYVDRssq6yK"
       },
@@ -6342,7 +6432,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 248043,
       "name": "Kid In A Candy Store",
       "url": "https://open.spotify.com/track/4PVg0EjwywuSYHm8MqCG5y"
@@ -7182,7 +7272,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 188336,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/7ooMncS9qdQYXqx8RcAnKG"
@@ -8076,6 +8166,24 @@
       "duration_ms": 234400,
       "name": "Next Semester",
       "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
+    },
+    {
+      "album": {
+        "name": "NEXT2U",
+        "url": "https://open.spotify.com/album/1otZOZg38qShRd5oym6DjJ"
+      },
+      "artists": [
+        {
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196508,
+      "name": "NEXT2U",
+      "url": "https://open.spotify.com/track/5JOqNAfQNJROZkJsR21Dxs"
     },
     {
       "album": {
@@ -9768,7 +9876,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 259834,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/3fQLQSOhijzOC6W1NPhYle"
@@ -10198,6 +10306,24 @@
       "duration_ms": 174557,
       "name": "Sighommi",
       "url": "https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155648,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
     },
     {
       "album": {
@@ -10810,6 +10936,24 @@
       "duration_ms": 204123,
       "name": "Still Around",
       "url": "https://open.spotify.com/track/7juNlAXIudyUaFCmtXZovu"
+    },
+    {
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/6ahtjSXlZpJsOxSOucSuRg"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215760,
+      "name": "Stone Fruit",
+      "url": "https://open.spotify.com/track/0GuYLoC2G9eXMGwwXH8xt1"
     },
     {
       "album": {
@@ -12714,7 +12858,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 195371,
       "name": "VERTICAL WORLDS",
       "url": "https://open.spotify.com/track/4BixLPsuhd4pJw4DC1lt0z"
@@ -12732,7 +12876,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 250386,
       "name": "Violins",
       "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
@@ -13028,6 +13172,24 @@
       "duration_ms": 168552,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/3wUqbA1hc4bu2R0KiM0TTi"
+    },
+    {
+      "album": {
+        "name": "Where The Goth Girls At?",
+        "url": "https://open.spotify.com/album/6hfZz7yAgyqjqb1bSBgsoP"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Where The Goth Girls At?",
+      "url": "https://open.spotify.com/track/5kPfThD8sI2AvIhTkf0nbs"
     },
     {
       "album": {

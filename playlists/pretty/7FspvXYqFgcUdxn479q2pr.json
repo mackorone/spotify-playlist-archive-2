@@ -1,13 +1,65 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Timmy Trumpet x Alle Farben",
-  "num_followers": 31346,
+  "num_followers": 31344,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAxETaQ85Zd2CylfkqColFOzjJMmPNJ",
+  "snapshot_id": "AAAxGJQkuzI/5McnddEanR4B6k9ocq7x",
   "tracks": [
+    {
+      "added_at": "2026-09-24 22:00:04",
+      "album": {
+        "name": "Meet Me In The Dark (Joel Corry Remix)",
+        "url": "https://open.spotify.com/album/0HerfMSZ4Yc60SXiXjnfEM"
+      },
+      "artists": [
+        {
+          "name": "AVE",
+          "url": "https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 176307,
+      "name": "Meet Me In The Dark - Joel Corry Remix",
+      "url": "https://open.spotify.com/track/5lxWnywnnSIhZ5C5n2m889"
+    },
+    {
+      "added_at": "2026-09-24 22:00:05",
+      "album": {
+        "name": "FVCK BOYS",
+        "url": "https://open.spotify.com/album/7KISacicZzPCXQUGhQ43nt"
+      },
+      "artists": [
+        {
+          "name": "CVNTS",
+          "url": "https://open.spotify.com/artist/6OOF9nSZbNw4etK0InqtEZ"
+        }
+      ],
+      "duration_ms": 180394,
+      "name": "FVCK BOYS",
+      "url": "https://open.spotify.com/track/3nh6ce6TEVIfgS1hbkNWIO"
+    },
+    {
+      "added_at": "2026-09-24 22:00:05",
+      "album": {
+        "name": "This Ain't Just Music",
+        "url": "https://open.spotify.com/album/0r17TOyQydRRmN7PLG16zX"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 165905,
+      "name": "This Ain't Just Music",
+      "url": "https://open.spotify.com/track/6OJDHvSnRjgcuE0DtAilgK"
+    },
     {
       "added_at": "2026-09-17 22:00:13",
       "album": {
@@ -33,6 +85,38 @@
       "url": "https://open.spotify.com/track/0e5Af4sM86p0CD3KpZAEY2"
     },
     {
+      "added_at": "2026-09-24 22:00:06",
+      "album": {
+        "name": "Break !t Down",
+        "url": "https://open.spotify.com/album/5Lz52PR7ghAJwbFo7Q3RS6"
+      },
+      "artists": [
+        {
+          "name": "Damian Clarke",
+          "url": "https://open.spotify.com/artist/76vfiinPOoRvOVOJOVQThQ"
+        }
+      ],
+      "duration_ms": 218823,
+      "name": "Break !t Down",
+      "url": "https://open.spotify.com/track/6GozvuBGFBI5dbrSNqkRkL"
+    },
+    {
+      "added_at": "2026-09-24 22:00:08",
+      "album": {
+        "name": "Zukara - Kadum",
+        "url": "https://open.spotify.com/album/2yDZbDrQLEp6BTKvKNPzGu"
+      },
+      "artists": [
+        {
+          "name": "OTIOT",
+          "url": "https://open.spotify.com/artist/6sfYz369rzZ7hxEh5Kb4tF"
+        }
+      ],
+      "duration_ms": 239166,
+      "name": "Zukara",
+      "url": "https://open.spotify.com/track/3xcR5IelIwPdt39MKiImbQ"
+    },
+    {
       "added_at": "2026-09-10 22:00:04",
       "album": {
         "name": "Be My Own",
@@ -55,6 +139,38 @@
       "duration_ms": 179076,
       "name": "Be My Own",
       "url": "https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41"
+    },
+    {
+      "added_at": "2026-09-24 22:00:09",
+      "album": {
+        "name": "Simulation",
+        "url": "https://open.spotify.com/album/2V5WIohG89Meo7ROayvKjL"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "duration_ms": 173528,
+      "name": "Simulation",
+      "url": "https://open.spotify.com/track/7o7e7Rv44OMoGFh0d9k1wc"
+    },
+    {
+      "added_at": "2026-09-24 22:00:08",
+      "album": {
+        "name": "Empty Sky",
+        "url": "https://open.spotify.com/album/6L81NpwmKqnoay4bV7Z4De"
+      },
+      "artists": [
+        {
+          "name": "Tom Carroll",
+          "url": "https://open.spotify.com/artist/0HhkKgvROcEteI6vfUjvbv"
+        }
+      ],
+      "duration_ms": 235374,
+      "name": "Empty Sky",
+      "url": "https://open.spotify.com/track/6JYBmusexiNCqpo3cjd9iP"
     },
     {
       "added_at": "2026-09-17 22:00:14",

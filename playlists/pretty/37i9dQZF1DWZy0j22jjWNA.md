@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > New morning mercies\. ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,470 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,493 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,13 +98,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 88 | [Windows](https://open.spotify.com/track/1dO1PUvhwXHsMvL5LCR57C) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Windows](https://open.spotify.com/album/5FdJUxaEsL1ExnwYXsDVVl) | 4:35 |
 | 89 | [These Are The Days](https://open.spotify.com/track/3aJs1TqxQh1Y2SNL8Vt1ZA) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 3:50 |
 | 90 | [My Light](https://open.spotify.com/track/2KD4v8UbJi44ZaPLeTm5t5) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [My Light](https://open.spotify.com/album/4pBtX6lfkeENkYIQ2vpus2) | 2:27 |
-| 91 | [Feel Alright \(Blessed\)](https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Feel Alright \(Blessed\)](https://open.spotify.com/album/3HZRZ9JIodgoDoNqFoHE4F) | 4:31 |
-| 92 | [Sunrise](https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Morning / Sunrise](https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T) | 2:50 |
+| 91 | [Sunrise](https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Morning / Sunrise](https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T) | 2:50 |
+| 92 | [Feel Alright \(Blessed\)](https://open.spotify.com/track/4ewqayUyebkmpWIqqW0bwK) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp) | [Feel Alright \(Blessed\)](https://open.spotify.com/album/3HZRZ9JIodgoDoNqFoHE4F) | 4:31 |
 | 93 | [Good Morning Mercy](https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu) | [Jason Crabb](https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq), [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Good Morning Mercy](https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc) | 3:10 |
 | 94 | [This Is the Day](https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [This Is the Day](https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2) | 5:25 |
 | 95 | [Beautiful World](https://open.spotify.com/track/3nX7nd1EKBg2nIIu0UCbLR) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38) | [Beautiful World](https://open.spotify.com/album/1Cllu0S5C8lE2THPSOqbqw) | 2:36 |
-| 96 | [You Have Made Me Glad](https://open.spotify.com/track/2o6XwbRgn42tK3EphA7Tkv) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Glad](https://open.spotify.com/album/0TBJXPXOzn8eT4X9RP23SE) | 4:08 |
-| 97 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
+| 96 | [Waking Up](https://open.spotify.com/track/4Pi5of5NI3ceSd9MAzFf9w) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Waking Up](https://open.spotify.com/album/1tSnfLnAiRj2gok0fD0Y1H) | 4:00 |
+| 97 | [You Have Made Me Glad](https://open.spotify.com/track/2o6XwbRgn42tK3EphA7Tkv) | [Harvest](https://open.spotify.com/artist/2VbBcqyGs1Q6BPDH9XVQjV) | [Glad](https://open.spotify.com/album/0TBJXPXOzn8eT4X9RP23SE) | 4:08 |
 | 98 | [Declaring Glory \(The Earth Sings its Refrain\)](https://open.spotify.com/track/25iY8eJunK34VUw67CGfv2) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o), [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw), [Page CXVI](https://open.spotify.com/artist/5TB43hYVZMxI193JCzyQJb) | [Declaring Glory \(The Earth Sings its Refrain\)](https://open.spotify.com/album/2PFCrEIXHm6Cx5F6Awk6qI) | 4:23 |
 | 99 | [Day For Singing \- Live](https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Cecily](https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT) | [Day for Singing](https://open.spotify.com/album/6ouC5uHTCzX5sHM8dyWYD7) | 5:41 |
 | 100 | [JOY](https://open.spotify.com/track/6B6N8a0SvyEyJ77h1fuCwA) | [Phil the Voice](https://open.spotify.com/artist/5MZ5XLMvg4UQA7l2ipaU3E) | [JOY](https://open.spotify.com/album/2uLur9asrRPLo1hBUbh0t6) | 2:34 |

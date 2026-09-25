@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Louane.\n\n",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise avec Pierre de Maere & Clara Luciani.\n\n",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -236,6 +236,24 @@
       "duration_ms": 192128,
       "name": "Ailleurs",
       "url": "https://open.spotify.com/track/2lwLLpCLIQ6lc5EvvdjG5C"
+    },
+    {
+      "album": {
+        "name": "Aime-moi encore",
+        "url": "https://open.spotify.com/album/3tiiAcpgs6ilMsQqlTTnY2"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9man",
+          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151064,
+      "name": "Aime-moi encore",
+      "url": "https://open.spotify.com/track/1vfLUtLGqPmQlAFg9jChVX"
     },
     {
       "album": {
@@ -1842,7 +1860,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 149999,
       "name": "Cr\u00e9ature",
       "url": "https://open.spotify.com/track/4XD35EnM9VS8uUg1nr8D1q"
@@ -1900,6 +1918,28 @@
       "duration_ms": 187244,
       "name": "Dancing with my monsters",
       "url": "https://open.spotify.com/track/4vVHUMwyDhZvpr1yQp2wlo"
+    },
+    {
+      "album": {
+        "name": "Dans la lune",
+        "url": "https://open.spotify.com/album/1y8q4yESJvA855TpJO15VA"
+      },
+      "artists": [
+        {
+          "name": "Camille LV",
+          "url": "https://open.spotify.com/artist/73MUbbxCJGpiMBz0fFO8is"
+        },
+        {
+          "name": "An'Om",
+          "url": "https://open.spotify.com/artist/3rF2ZcZCcwYluO3h9wRP22"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237923,
+      "name": "Dans la lune",
+      "url": "https://open.spotify.com/track/0xJgGUCcOjeTH3Gv89J9kL"
     },
     {
       "album": {
@@ -2434,7 +2474,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 120573,
       "name": "En 1000",
       "url": "https://open.spotify.com/track/7xym7u7koTmZFO8ApQG1nr"
@@ -2620,7 +2660,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 189280,
       "name": "Ensemble",
       "url": "https://open.spotify.com/track/4P9fHgmGJgf460F2t7OAie"
@@ -3778,7 +3818,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169773,
       "name": "Je fais de mon mieux",
       "url": "https://open.spotify.com/track/2Vfodj5BAW4hvGdBCSm5zQ"
@@ -3944,6 +3984,24 @@
       "duration_ms": 194221,
       "name": "Je rentre \u00e0 la maison",
       "url": "https://open.spotify.com/track/1eEz9N2Hh4e5hIFEdYROII"
+    },
+    {
+      "album": {
+        "name": "Je Reste L\u00e0",
+        "url": "https://open.spotify.com/album/2C92d7Z4mLlKvy1aNaq5hz"
+      },
+      "artists": [
+        {
+          "name": "Alexis Carlier",
+          "url": "https://open.spotify.com/artist/1b0pgsUv8hNw2iM4R4XlcI"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172801,
+      "name": "Je Reste L\u00e0",
+      "url": "https://open.spotify.com/track/2ePHKXoS1m1sp1g1p9EzI0"
     },
     {
       "album": {
@@ -4304,6 +4362,28 @@
       "duration_ms": 143400,
       "name": "L'amour est un jeu",
       "url": "https://open.spotify.com/track/6BRvdcso2N0DiV47ye9zxa"
+    },
+    {
+      "album": {
+        "name": "L'Amour est une Garce (feat. Jok'air)",
+        "url": "https://open.spotify.com/album/2d9Gs5bA43K5FRPXRaeH6n"
+      },
+      "artists": [
+        {
+          "name": "Vernis Rouge",
+          "url": "https://open.spotify.com/artist/6Miu2EYSCD74K7VzDYostC"
+        },
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195908,
+      "name": "L'Amour est une Garce (feat. Jok'air)",
+      "url": "https://open.spotify.com/track/6Qoy5efUIQfxw9oF9Ea9Sq"
     },
     {
       "album": {
@@ -5303,6 +5383,28 @@
     },
     {
       "album": {
+        "name": "Les cicatrices d'or",
+        "url": "https://open.spotify.com/album/7GVuwGYWlGgu9dRnbE3WoQ"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        },
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "Les cicatrices d'or",
+      "url": "https://open.spotify.com/track/4kpFuJZkjJjUYhbeQKV0SN"
+    },
+    {
+      "album": {
         "name": "Les cit\u00e9s de l'amour",
         "url": "https://open.spotify.com/album/1WfQIxrP0HTj6hzKOk0CBT"
       },
@@ -5683,6 +5785,24 @@
     },
     {
       "album": {
+        "name": "libre",
+        "url": "https://open.spotify.com/album/5BlztA5Du2ak6XE7ZKujgr"
+      },
+      "artists": [
+        {
+          "name": "Lo\u00efc Nottet",
+          "url": "https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305511,
+      "name": "libre",
+      "url": "https://open.spotify.com/track/3NcLlnZlosU6q9UXg442gA"
+    },
+    {
+      "album": {
         "name": "Lili",
         "url": "https://open.spotify.com/album/5HeBB6D3mwrrhQcDeDU5il"
       },
@@ -5734,7 +5854,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 174453,
       "name": "Los Angeles",
       "url": "https://open.spotify.com/track/6bS1rp9GfTxDLy4oAiyHle"
@@ -5818,7 +5938,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 166250,
       "name": "M'en veux pas",
       "url": "https://open.spotify.com/track/1tdNjFcxK58mpvgc4c0s1N"
@@ -7034,7 +7154,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 121634,
       "name": "OUTSIDER",
       "url": "https://open.spotify.com/track/3v54oq1rGWMrijBrnlNvRy"
@@ -7280,7 +7400,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 162400,
       "name": "Partir pour de vrai",
       "url": "https://open.spotify.com/track/3DZvq5aQjEgEYFd73kyyt1"
@@ -8003,6 +8123,28 @@
     },
     {
       "album": {
+        "name": "Ave de Maere",
+        "url": "https://open.spotify.com/album/403FPHgGSbOkHrwHssVoBH"
+      },
+      "artists": [
+        {
+          "name": "Pierre de Maere",
+          "url": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        },
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196015,
+      "name": "Quasiment parfait",
+      "url": "https://open.spotify.com/track/4M9fLn8fL9yXy0Cv3xLWAW"
+    },
+    {
+      "album": {
         "name": "Que reste-t-il ?",
         "url": "https://open.spotify.com/album/5sSJ7zRawxZDwekt3AqAEC"
       },
@@ -8501,6 +8643,24 @@
     },
     {
       "album": {
+        "name": "Sans nous",
+        "url": "https://open.spotify.com/album/4txBg21DZKbH3E8G38mqQq"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177158,
+      "name": "Sans nous",
+      "url": "https://open.spotify.com/track/0fyytbMHk9ptjMhQdFgjvh"
+    },
+    {
+      "album": {
         "name": "Sans Permission",
         "url": "https://open.spotify.com/album/17DuUZlmxAK3ciA6dypepK"
       },
@@ -8512,7 +8672,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 142000,
       "name": "Sans Permission",
       "url": "https://open.spotify.com/track/1NOxV2j4xco6tfmXEJtFii"
@@ -9278,6 +9438,24 @@
       "duration_ms": 189760,
       "name": "Ta couleur pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/2qBOBonAOBUyLIls4XRr7s"
+    },
+    {
+      "album": {
+        "name": "Ta peau",
+        "url": "https://open.spotify.com/album/3tf0PA41r8TJ8fRfDgZc3K"
+      },
+      "artists": [
+        {
+          "name": "Anouk",
+          "url": "https://open.spotify.com/artist/1mIWgSsGsrxUOcWEF2ioHS"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187254,
+      "name": "Ta peau",
+      "url": "https://open.spotify.com/track/1URO8RODQThxTuCjuPmwgu"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 215418,
+  "num_followers": 215441,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABg1SkZxZwgK7emswgdPP+H",
+  "snapshot_id": "arMWgAAAAADeIy336SejhAVpYGf+OnBB",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming Bloody Murder",
-        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "Jessica Kill",
-      "url": "https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heaven :x: Hell",
         "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 150658,
       "name": "Time Won't Wait",
       "url": "https://open.spotify.com/track/3EP4LqNhrKxdB93j2W6rvI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "Jessica Kill",
+      "url": "https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 174334,
-      "name": "Not Quite Myself",
-      "url": "https://open.spotify.com/track/1N4D5MIp3v67TDRa8jJlQr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 184440,
       "name": "Thanks For Nothing",
       "url": "https://open.spotify.com/track/2fTom1sc4WE2jugw05Usfw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 174334,
+      "name": "Not Quite Myself",
+      "url": "https://open.spotify.com/track/1N4D5MIp3v67TDRa8jJlQr"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 166844,
-      "name": "Waiting On A Twist Of Fate",
-      "url": "https://open.spotify.com/track/4UuGBLZH6ANkF51PqLeXfP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 166293,
       "name": "No Brains",
       "url": "https://open.spotify.com/track/0pvUdDg7RELxs2XBz956r2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 166844,
+      "name": "Waiting On A Twist Of Fate",
+      "url": "https://open.spotify.com/track/4UuGBLZH6ANkF51PqLeXfP"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 125514,
-      "name": "I Can't Wait",
-      "url": "https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Order In Decline B-Sides",
         "url": "https://open.spotify.com/album/0Yo21ZkARyJ5vmGzDMrAko"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 240019,
       "name": "Catching Fire (Acoustic)",
       "url": "https://open.spotify.com/track/5ULYE2LqN7zp0uCNWG1CHA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 125514,
+      "name": "I Can't Wait",
+      "url": "https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Does This Look Infected?",
-        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
+        "name": "13 Voices",
+        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 122693,
-      "name": "My Direction",
-      "url": "https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys"
+      "duration_ms": 202071,
+      "name": "Goddamn I'm Dead Again",
+      "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "13 Voices",
-        "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
+        "name": "Does This Look Infected?",
+        "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 202071,
-      "name": "Goddamn I'm Dead Again",
-      "url": "https://open.spotify.com/track/0RwKgkMsMeFnnWZp0JMTUM"
+      "duration_ms": 122693,
+      "name": "My Direction",
+      "url": "https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming Bloody Murder",
-        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 208120,
-      "name": "Reason To Believe",
-      "url": "https://open.spotify.com/track/4DJVmSP42li51r1C8zhURQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "13 Voices",
         "url": "https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 272277,
       "name": "13 Voices",
       "url": "https://open.spotify.com/track/6StRdUhg9Fdu5X4shUZBeY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 208120,
+      "name": "Reason To Believe",
+      "url": "https://open.spotify.com/track/4DJVmSP42li51r1C8zhURQ"
     },
     {
       "added_at": null,

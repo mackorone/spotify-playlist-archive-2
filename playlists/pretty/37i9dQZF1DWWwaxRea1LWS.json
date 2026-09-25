@@ -1,496 +1,816 @@
 {
-  "description": "#SpotifyTBT goes post-grunge as Silver Side Up turns 25. Cover: Nickelback",
+  "description": "#SpotifyTBT goes fall mode with these acoustic classics. Cover: James Taylor",
   "num_followers": 2262254,
   "original_name": "Throwback Thursday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP2HL2LSNqG23coUgmHD7j677DvW",
+  "snapshot_id": "AAAAAL2+8a++BCpGtB70aYV47Phb0OpL",
   "tracks": [
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Silver Side Up",
-        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+        "name": "Fleetwood Mac",
+        "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 223840,
-      "name": "How You Remind Me",
-      "url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf"
+      "duration_ms": 199493,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Weathered",
-        "url": "https://open.spotify.com/album/2ENlJXygQX6en4iziijet6"
+        "name": "Gutterflower",
+        "url": "https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M"
       },
       "artists": [
         {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 238240,
-      "name": "One Last Breath",
-      "url": "https://open.spotify.com/track/42T2QQv3xgBlpQxaSP7lnK"
+      "duration_ms": 178146,
+      "name": "Sympathy",
+      "url": "https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "The Better Life",
-        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
       "artists": [
         {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
         }
       ],
-      "duration_ms": 233933,
-      "name": "Kryptonite",
-      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/0OwSOrPWyP9batKOhOnaPt"
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
       },
       "artists": [
         {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 264706,
-      "name": "It's Been Awhile",
-      "url": "https://open.spotify.com/track/25CMmGsl22APKhfuj4Tp7j"
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Daughtry (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
       },
       "artists": [
         {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
         }
       ],
-      "duration_ms": 215026,
-      "name": "It's Not Over",
-      "url": "https://open.spotify.com/track/234RqTZmnDTnxWlVciXHLD"
+      "duration_ms": 306200,
+      "name": "Hold You in My Arms",
+      "url": "https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Silver Side Up",
-        "url": "https://open.spotify.com/album/5fKL7vMTXvhR9tov8Kqt3u"
+        "name": "Extreme II - Pornograffitti",
+        "url": "https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Extreme",
+          "url": "https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L"
         }
       ],
-      "duration_ms": 232240,
-      "name": "Too Bad",
-      "url": "https://open.spotify.com/track/2cCWbBmadLbKvr9xddC79R"
+      "duration_ms": 334106,
+      "name": "More Than Words",
+      "url": "https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Three Days Grace",
-        "url": "https://open.spotify.com/album/13topfW33NjnACjnRiZBX7"
+        "name": "Save Me, San Francisco (Golden Gate Edition)",
+        "url": "https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
         }
       ],
-      "duration_ms": 231480,
-      "name": "I Hate Everything About You",
-      "url": "https://open.spotify.com/track/0M955bMOoilikPXwKLYpoi"
+      "duration_ms": 205453,
+      "name": "Marry Me",
+      "url": "https://open.spotify.com/track/2MWOqewf5j0qf2b6S5J6cS"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX"
       },
       "artists": [
         {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 303920,
-      "name": "Blurry",
-      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
+      "duration_ms": 233560,
+      "name": "Redemption Song",
+      "url": "https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Disclaimer",
-        "url": "https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw"
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 243640,
-      "name": "Fine Again",
-      "url": "https://open.spotify.com/track/4eTIe5eqds88bA9ua6p5p6"
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Finger Eleven",
-        "url": "https://open.spotify.com/album/4KbP58I8HjOsd1S8J7Ahjx"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/5DyOxuvdSmTSNAmkfcsBsj"
       },
       "artists": [
         {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         }
       ],
-      "duration_ms": 195306,
-      "name": "Stay In Shadow",
-      "url": "https://open.spotify.com/track/39PdBpq5GtrgNWlgNxPzuw"
+      "duration_ms": 163275,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2SpEHTbUuebeLkgs9QB7Ue"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Leave a Whisper (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0gLVNSNAW4ghjFqHMDFA3l"
+        "name": "Amos Lee",
+        "url": "https://open.spotify.com/album/0hPXaSKyujqCej452raazD"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
         }
       ],
-      "duration_ms": 250093,
-      "name": "45",
-      "url": "https://open.spotify.com/track/420JGkyLfLUZcgBHKiIK9v"
+      "duration_ms": 188080,
+      "name": "Keep It Loose, Keep It Tight",
+      "url": "https://open.spotify.com/track/69dDr3w8IIcOGKwlW5XntT"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Hero (feat. Josey Scott)",
-        "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
+        "name": "You Don't Mess Around With Jim",
+        "url": "https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9"
       },
       "artists": [
         {
-          "name": "Chad Kroeger",
-          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
+          "name": "Jim Croce",
+          "url": "https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM"
+        }
+      ],
+      "duration_ms": 148586,
+      "name": "Time in a Bottle",
+      "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Nebraska",
+        "url": "https://open.spotify.com/album/6yskFQZNlLYhkchAxELHi6"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 240139,
+      "name": "Atlantic City",
+      "url": "https://open.spotify.com/track/1Vp8U39YNsDfd6yVuaUq12"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Under the Table and Dreaming (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0SeRWS3scHWplJhMppd6rJ"
+      },
+      "artists": [
+        {
+          "name": "Dave Matthews Band",
+          "url": "https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/2BjUvisO4UVAtTHs4lYiqu"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Teaser And The Firecat (Remastered 2021)",
+        "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 102986,
+      "name": "The Wind - Remastered 2021",
+      "url": "https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Welcome Interstate Managers",
+        "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
+      },
+      "artists": [
+        {
+          "name": "Fountains Of Wayne",
+          "url": "https://open.spotify.com/artist/1pgtr4nhBQjp9oCUBPyYWh"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Hey Julie",
+      "url": "https://open.spotify.com/track/2LGAbm0xHNu7scBDVCkFwN"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Plastic Ono Band",
+        "url": "https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 227933,
+      "name": "Working Class Hero - Remastered 2010",
+      "url": "https://open.spotify.com/track/1yKQBy7olMIqRpziyAzf8c"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things. (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
         },
         {
-          "name": "Josey Scott",
-          "url": "https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP"
+          "name": "Colbie Caillat",
+          "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Hero (feat. Josey Scott)",
-      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+      "duration_ms": 189613,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/2qLMf6TuEC3ruGJg4SMMN6"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Extreme Behavior",
-        "url": "https://open.spotify.com/album/4iBPW5y08WIeGXTkBJAPrF"
+        "name": "Transformer",
+        "url": "https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St"
       },
       "artists": [
         {
-          "name": "Hinder",
-          "url": "https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY"
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
         }
       ],
-      "duration_ms": 218306,
-      "name": "Get Stoned",
-      "url": "https://open.spotify.com/track/24Pi0KCtYWtnKxxzopkcPG"
+      "duration_ms": 255875,
+      "name": "Walk On the Wild Side",
+      "url": "https://open.spotify.com/track/5p3JunprHCxClJjOmcLV8G"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Crossfade",
-        "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
+        "name": "Swamp Ophelia",
+        "url": "https://open.spotify.com/album/1X0bc0O18Dj5eqh0owcw21"
       },
       "artists": [
         {
-          "name": "Crossfade",
-          "url": "https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB"
+          "name": "Indigo Girls",
+          "url": "https://open.spotify.com/artist/4wM29TDTr3HI0qFY3KoSFG"
         }
       ],
-      "duration_ms": 194226,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
+      "duration_ms": 322333,
+      "name": "Power Of Two",
+      "url": "https://open.spotify.com/track/4peEqwtnP8CoTZRFkDUqnC"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "The Beautiful Letdown (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9"
+        "name": "The Best: Loggins & Messina Sittin' In Again",
+        "url": "https://open.spotify.com/album/5BWgJaesMjpJWCTU9sgUPf"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+          "name": "Loggins & Messina",
+          "url": "https://open.spotify.com/artist/7emRV8AluG3d4e5T0DZiK9"
         }
       ],
-      "duration_ms": 201373,
-      "name": "Meant to Live",
-      "url": "https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg"
+      "duration_ms": 190573,
+      "name": "A Love Song",
+      "url": "https://open.spotify.com/track/02ozRCoTjCxJXCyuFW8QUi"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "One Day Remains",
-        "url": "https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx"
+        "name": "Tracy Chapman",
+        "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
       "artists": [
         {
-          "name": "Alter Bridge",
-          "url": "https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU"
+          "name": "Tracy Chapman",
+          "url": "https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP"
         }
       ],
-      "duration_ms": 298600,
-      "name": "Open Your Eyes",
-      "url": "https://open.spotify.com/track/3Gbyl3XZVeEcnFPiiPR09n"
+      "duration_ms": 296800,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Scars & Souvenirs (Special Edition)",
-        "url": "https://open.spotify.com/album/2d4tYx2ulDP1Kgudxsrs7B"
+        "name": "Pink Moon",
+        "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg"
       },
       "artists": [
         {
-          "name": "Theory of a Deadman",
-          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+          "name": "Nick Drake",
+          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 205626,
-      "name": "Bad Girlfriend",
-      "url": "https://open.spotify.com/track/5m7on0zpnmeAXy72ANrmfU"
+      "duration_ms": 124000,
+      "name": "Pink Moon",
+      "url": "https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
+        "name": "Nimrod",
+        "url": "https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
         }
       ],
-      "duration_ms": 304373,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
+      "duration_ms": 153466,
+      "name": "Good Riddance (Time of Your Life)",
+      "url": "https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Wonder What's Next (Expanded Edition)",
-        "url": "https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV"
+        "name": "Solid Air",
+        "url": "https://open.spotify.com/album/0QD0LEYQDkrJrtVcuRBcVp"
       },
       "artists": [
         {
-          "name": "Chevelle",
-          "url": "https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw"
+          "name": "John Martyn",
+          "url": "https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks"
         }
       ],
-      "duration_ms": 238400,
-      "name": "The Red",
-      "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
+      "duration_ms": 220493,
+      "name": "May You Never",
+      "url": "https://open.spotify.com/track/6ofam9RHTG7UBUa6uO2MjP"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "The Autumn Effect",
-        "url": "https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp"
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
       },
       "artists": [
         {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
         }
       ],
-      "duration_ms": 229866,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB"
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "The Melody And The Energetic Nature Of Volume",
-        "url": "https://open.spotify.com/album/1qG8WqzACWlSwvJNzxsMmO"
+        "name": "#1 Record",
+        "url": "https://open.spotify.com/album/1BumwwIEw1EC3xAHyf1ive"
       },
       "artists": [
         {
-          "name": "Evans Blue",
-          "url": "https://open.spotify.com/artist/6pDRa5fS3myWSP0fpIUcNl"
+          "name": "Big Star",
+          "url": "https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM"
         }
       ],
-      "duration_ms": 233240,
-      "name": "Cold (But I'm Still Here) - Single Version",
-      "url": "https://open.spotify.com/track/5qmV4noRVGX6oDvQlm3Y9M"
+      "duration_ms": 154666,
+      "name": "Thirteen",
+      "url": "https://open.spotify.com/track/3BQLTtpQOYGXQY2lT3ZZeU"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Year Of The Spider",
-        "url": "https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr"
+        "name": "Monuments And Melodies",
+        "url": "https://open.spotify.com/album/2gmvT6iSrWcxDT1tQMvp1c"
       },
       "artists": [
         {
-          "name": "Cold",
-          "url": "https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 189853,
-      "name": "Stupid Girl",
-      "url": "https://open.spotify.com/track/40u9RFyKQfXwpPjFzK1bGO"
+      "duration_ms": 216066,
+      "name": "A Certain Shade Of Green - Acoustic Version",
+      "url": "https://open.spotify.com/track/6P2DVhW1mmHSKQLfqkxLmO"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Saving Abel",
-        "url": "https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O"
+        "name": "So Far",
+        "url": "https://open.spotify.com/album/5C1NUv7hNWS6n0GBtLetKM"
       },
       "artists": [
         {
-          "name": "Saving Abel",
-          "url": "https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF"
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
         }
       ],
-      "duration_ms": 222826,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/3pxCXv0NACYfYnLjFcQW5D"
+      "duration_ms": 159000,
+      "name": "Helplessly Hoping",
+      "url": "https://open.spotify.com/track/40WeJU3odsbq1fXNbub4nh"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Two",
-        "url": "https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe"
+        "name": "America",
+        "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
       "artists": [
         {
-          "name": "Earshot",
-          "url": "https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Wait",
-      "url": "https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH"
+      "duration_ms": 181093,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/2S7hH8gCuwlqL8vqia3eJp"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Human Clay",
-        "url": "https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46"
+        "name": "Stop All the World Now (Special Edition)",
+        "url": "https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y"
       },
       "artists": [
         {
-          "name": "Creed",
-          "url": "https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz"
+          "name": "Howie Day",
+          "url": "https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer"
         }
       ],
-      "duration_ms": 316733,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1ZozJfi8u9cO2Ob8KwiwNT"
+      "duration_ms": 277000,
+      "name": "Collide - Acoustic Version",
+      "url": "https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+        "name": "Tapestry",
+        "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
       "artists": [
         {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
         }
       ],
-      "duration_ms": 238733,
-      "name": "Here Without You",
-      "url": "https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4"
+      "duration_ms": 235391,
+      "name": "So Far Away",
+      "url": "https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Break the Cycle",
-        "url": "https://open.spotify.com/album/2JHjVEvYNVQ9FUUMB2LcMl"
+        "name": "Bridge Over Troubled Water",
+        "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
       "artists": [
         {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 293133,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/50Re2bLgXqG9qN7v2QHNTm"
+      "duration_ms": 174717,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Daughtry (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6ii8Ja21xLGkFH8CQ6bKjj"
+        "name": "Siren Song Of The Counter-Culture",
+        "url": "https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6"
       },
       "artists": [
         {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 204853,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/2R5uY1gbIKzGB1yAOH067s"
+      "duration_ms": 200066,
+      "name": "Swing Life Away",
+      "url": "https://open.spotify.com/track/6GrrkiCRO3HYdgRpO4eKEL"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "One-X (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7K8oIX4HQzK1WIrXoGOMpP"
+        "name": "Goats Head Soup (Deluxe)",
+        "url": "https://open.spotify.com/album/5Q7oMv5dx9VinYxveFZNsn"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 209267,
-      "name": "Never Too Late",
-      "url": "https://open.spotify.com/track/0p1E3mQ8j5L1AMGuvGoYRR"
+      "duration_ms": 272173,
+      "name": "Angie - Giles Martin 2020 Mix",
+      "url": "https://open.spotify.com/track/1TJyjAa6rHkEZZpRS41rUp"
     },
     {
-      "added_at": "2026-09-17 04:00:00",
+      "added_at": "2026-09-24 04:00:12",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+        "name": "American Beauty (50th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2iR2R1AJPBqRQEMZ5TnG0y"
       },
       "artists": [
         {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
         }
       ],
-      "duration_ms": 230066,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/575Sz3R4xOhueUstPObylF"
+      "duration_ms": 248160,
+      "name": "Ripple - 2020 Remaster",
+      "url": "https://open.spotify.com/track/4aQ8mFkZU6dmHaZOOKdscc"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Moondance (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6yNYC35npMBHbxG0Vle83O"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 205613,
+      "name": "Into the Mystic - 2013 Remaster",
+      "url": "https://open.spotify.com/track/1lxVGQgbt0g7mMkmevl9Bm"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "All That We Needed",
+        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 340775,
+      "name": "Tangled up in Blue",
+      "url": "https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Don Quixote",
+        "url": "https://open.spotify.com/album/6J26uMCfqKMnm6CNbcIPJ7"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 203840,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/1vRXK3F03wbFnCPmjryyEm"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Californication",
+        "url": "https://open.spotify.com/album/0fLhefnjlIV3pGNF9Wo8CD"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 204960,
+      "name": "Road Trippin'",
+      "url": "https://open.spotify.com/track/7Gpr3kKk4BMgItz6UbI73q"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Poems, Prayers and Promises",
+        "url": "https://open.spotify.com/album/78FZXQkBGm2IOPrE9f64sU"
+      },
+      "artists": [
+        {
+          "name": "John Denver",
+          "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+        }
+      ],
+      "duration_ms": 316015,
+      "name": "Sunshine On My Shoulders",
+      "url": "https://open.spotify.com/track/3m8lTUL5GxGUNSaycI77ND"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Home - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Girls And Boys",
+        "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "duration_ms": 135386,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "The Singer and the Song",
+        "url": "https://open.spotify.com/album/5vVrfTlAZqwpdCs52MjdZH"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 100746,
+      "name": "Bless the Telephone",
+      "url": "https://open.spotify.com/track/0620OecAlwJQxWieRW4L9s"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Bad Company (Deluxe)",
+        "url": "https://open.spotify.com/album/4fuDpBLCt9ChDlqw48bj7p"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "duration_ms": 244840,
+      "name": "Seagull - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6jA05EM7TTFpWKwBQr5Isf"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "She's the One (Songs and Music from the Motion Picture)",
+        "url": "https://open.spotify.com/album/0FVwC6leDmim0EO68PjYto"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Angel Dream (No. 4)",
+      "url": "https://open.spotify.com/track/0tFF03AX223mZHNmMhnBvQ"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 212160,
+      "name": "Going to California - Remaster",
+      "url": "https://open.spotify.com/track/70gbuMqwNBE2Y5rkQJE9By"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "Jar Of Flies",
+        "url": "https://open.spotify.com/album/4FCoFSNIFhK36holxHWCnc"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "duration_ms": 262133,
+      "name": "Don't Follow",
+      "url": "https://open.spotify.com/track/7CI0VS6ETno5mgHi4PoCrY"
+    },
+    {
+      "added_at": "2026-09-24 04:00:12",
+      "album": {
+        "name": "The Places You Have Come to Fear the Most",
+        "url": "https://open.spotify.com/album/2b6f60fUMb0wSWWyFXBLfv"
+      },
+      "artists": [
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "Screaming Infidelities",
+      "url": "https://open.spotify.com/track/1VViTGNqiNV8zwe3b3tE09"
     }
   ],
   "unique_name": "Throwback Thursday",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-2,623 songs - 5 day 15 hr 16 min
+2,624 songs - 5 day 15 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Chicago](https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [XSCAPE](https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ) | 4:05 | 2026-06-11 | 2026-06-14 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-18 | 2024-06-22 |
 | [Chokehold](https://open.spotify.com/track/4PkkiYIGrGv190VLdyjyS9) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [PUSTO](https://open.spotify.com/album/05jV7vuiMm9YwT77HtsKgz) | 2:28 | 2026-02-14 | 2026-02-19 |
+| [Choosin' Texas](https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Dandelion](https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH) | 3:51 | 2026-09-24 |  |
 | [CHOPMONEY](https://open.spotify.com/track/574IRhxKFd1UNAAJlZn6hP) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [CHOPMONEY](https://open.spotify.com/album/4EUPnZujrTHutWfQ63FruU) | 2:23 | 2022-12-31 | 2023-01-29 |
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2021-08-06 | 2021-09-25 |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-07-30 | 2022-08-04 |
@@ -2620,7 +2621,7 @@
 | [Året Ud \(feat\. KESI & Noah Carter\)](https://open.spotify.com/track/2aehSqz7mLvJ4Sp7UtpN5m) | [Kimbo](https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Året Ud \(feat\. KESI & Noah Carter\)](https://open.spotify.com/album/0II9bww0pk1x5lPvocJRbl) | 2:29 | 2024-04-20 | 2024-04-28 |
 | [Årstider](https://open.spotify.com/track/21h80Cfo35Foa17LFp6O0A) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [\[α\]](https://open.spotify.com/album/5V0uzO6f7OAkHTuxkFKaK8) | 3:23 | 2022-10-03 | 2022-10-13 |
 | [Ændre](https://open.spotify.com/track/6rrZCFyMoS61OwKLyCbU9K) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Den lange vej](https://open.spotify.com/album/2ngyFEyilWwTdEesqjUJSf) | 2:46 | 2026-06-06 | 2026-06-08 |
-| [Ærlig Freestyle](https://open.spotify.com/track/2Mkjva2JDjVAcFjriEWnWF) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 2:32 | 2026-05-02 |  |
+| [Ærlig Freestyle](https://open.spotify.com/track/2Mkjva2JDjVAcFjriEWnWF) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Annika](https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg) | [Bag Gardinerne S1+S2](https://open.spotify.com/album/5QIuBky3csmGXvocvp0Q0R) | 2:32 | 2026-05-02 | 2026-09-25 |
 | [Æstetisk](https://open.spotify.com/track/4PCcN37jm4tDj8RPZuvC1H) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Æstetisk](https://open.spotify.com/album/6wV9sbuZnumfF8mRnzODZn) | 2:31 | 2022-03-12 | 2022-03-14 |
 | [Æteren](https://open.spotify.com/track/2wBtw8BsIWSOfejZVT8k6z) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Vera](https://open.spotify.com/artist/0Nj6EN5mur7EJHl0aZuGP7), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [ÆTEREN](https://open.spotify.com/album/5xV1bJjwvbWPGwWdVzKGB4) | 2:39 | 2025-04-26 | 2025-05-05 |
 | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Augusta Schackinger](https://open.spotify.com/artist/0A1gtg9Bzgv4Tlpn0D9IVm) | [Ødelagt Byen \(feat\. Augusta Schackinger\)](https://open.spotify.com/album/0gzv3FnS7GWcmP2cTT4WrW) | 2:37 | 2025-08-16 | 2026-03-01 |

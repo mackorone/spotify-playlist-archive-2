@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Alcal\u00e1 Norte.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Aiko el grupo.",
   "name": "Rock 2026",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 196310,
       "name": "100",
       "url": "https://open.spotify.com/track/2XyGOYgRJ0GyF1rdxo9HVP"
@@ -1620,7 +1620,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 111910,
       "name": "Bienvenidos a Mi Funeral",
       "url": "https://open.spotify.com/track/3W80KOwnrkZFBelqtjZVDf"
@@ -2761,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "Se\u00f1ales Brutales",
+        "url": "https://open.spotify.com/album/5PSgvfBgD6II0n6C0wN882"
+      },
+      "artists": [
+        {
+          "name": "Aiko el grupo",
+          "url": "https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166235,
+      "name": "c\u00e9sped falso",
+      "url": "https://open.spotify.com/track/7BTyk64QMZwvmN9IXCGb8V"
+    },
+    {
+      "album": {
         "name": "C\u00f3mo Ser\u00e1 Vivir en el Campo",
         "url": "https://open.spotify.com/album/55LlQx11YMyPb6jd4BhpMO"
       },
@@ -3273,6 +3291,24 @@
     },
     {
       "album": {
+        "name": "Despu\u00e9s De Darlo Todo",
+        "url": "https://open.spotify.com/album/7b3ZHgUS7UVSsFIv13tvhJ"
+      },
+      "artists": [
+        {
+          "name": "La Paloma",
+          "url": "https://open.spotify.com/artist/6poevqCIGOy8886WKNTHkv"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206278,
+      "name": "Despu\u00e9s De Darlo Todo",
+      "url": "https://open.spotify.com/track/446E1ALD6c3pCnbOD9AmGY"
+    },
+    {
+      "album": {
         "name": "Despu\u00e9s Destello",
         "url": "https://open.spotify.com/album/4G3VxYoFvvra6pPQ9DwwwD"
       },
@@ -3480,6 +3516,24 @@
       "duration_ms": 133493,
       "name": "Donde caben 2",
       "url": "https://open.spotify.com/track/3o4c7V9homHR3wFow99KS1"
+    },
+    {
+      "album": {
+        "name": "Todas las vidas",
+        "url": "https://open.spotify.com/album/1vL5xKK8jrC5yhmu5ug7ek"
+      },
+      "artists": [
+        {
+          "name": "Anabel Lee",
+          "url": "https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163838,
+      "name": "Donde nadie quiere ser el bueno",
+      "url": "https://open.spotify.com/track/5kJGrL3Ev3cmoY4jAdmsec"
     },
     {
       "album": {
@@ -3744,6 +3798,24 @@
       "duration_ms": 166757,
       "name": "el aWard es para:",
       "url": "https://open.spotify.com/track/0v03PeYZS5z0WSWKZ3VCNw"
+    },
+    {
+      "album": {
+        "name": "EL A\u00d1O DEL CABALLO",
+        "url": "https://open.spotify.com/album/0NaGYGwOgn0FgBTSljastT"
+      },
+      "artists": [
+        {
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183586,
+      "name": "EL A\u00d1O DEL CABALLO",
+      "url": "https://open.spotify.com/track/7cdLExJzvxfp7rj0L4CuLv"
     },
     {
       "album": {
@@ -4618,6 +4690,24 @@
       "duration_ms": 208731,
       "name": "Esta noche es nuestra",
       "url": "https://open.spotify.com/track/7ajeqqYmWYO1FSHsa9EV4d"
+    },
+    {
+      "album": {
+        "name": "A ver si me despierto",
+        "url": "https://open.spotify.com/album/2NMJLO0phIf6YiMfLydqnD"
+      },
+      "artists": [
+        {
+          "name": "Amor L\u00edquido",
+          "url": "https://open.spotify.com/artist/0A6HXmQiEaRB5bY5S4Fbtc"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199133,
+      "name": "Esta vez",
+      "url": "https://open.spotify.com/track/4x4otRrcDcH1DZiiXRF6Ri"
     },
     {
       "album": {
@@ -8117,6 +8207,24 @@
     },
     {
       "album": {
+        "name": "A PALOS",
+        "url": "https://open.spotify.com/album/7CjUGcXwLvMpDILJEC9byJ"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00f1o Drag\u00f3n",
+          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176102,
+      "name": "MA\u00d1ANA ES HOY",
+      "url": "https://open.spotify.com/track/0czTDt9eup9NHGy7UIwUNM"
+    },
+    {
+      "album": {
         "name": "Ma\u00f1ana No Existe",
         "url": "https://open.spotify.com/album/305845acU1v7ITS0sLiP2g"
       },
@@ -8710,7 +8818,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 228057,
       "name": "Montauk",
       "url": "https://open.spotify.com/track/3EepkhovoDPQxqwRVcUB3V"
@@ -9504,7 +9612,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 113500,
       "name": "No te olvides de m\u00ed",
       "url": "https://open.spotify.com/track/6XrvkAEXNvBIzvrmy5NjD8"
@@ -9996,7 +10104,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 135714,
       "name": "Paciencia",
       "url": "https://open.spotify.com/track/2O5rbBQj6ZDSo7o3a5uP3s"
@@ -10598,7 +10706,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 201061,
       "name": "Plan de juego",
       "url": "https://open.spotify.com/track/6lSHrCAw9zVTuDIXjUI7QK"
@@ -10995,6 +11103,24 @@
     },
     {
       "album": {
+        "name": "QUE LE VAYA BIEN",
+        "url": "https://open.spotify.com/album/25wmjOWaoznM9TZeVnVwWz"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298564,
+      "name": "QUE LE VAYA BIEN",
+      "url": "https://open.spotify.com/track/1sBVmEIqbTypPxYjqyyoVN"
+    },
+    {
+      "album": {
         "name": "Quiero guardarte",
         "url": "https://open.spotify.com/album/0jCfv3aodD8E3iOhhDoQo5"
       },
@@ -11042,7 +11168,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 159475,
       "name": "Quiero tekno",
       "url": "https://open.spotify.com/track/4HPFN18BIJWtYUD3Mg6odx"
@@ -11252,6 +11378,24 @@
       "duration_ms": 123478,
       "name": "R.A.",
       "url": "https://open.spotify.com/track/6Cj8500MoZiy0qkaGULMEU"
+    },
+    {
+      "album": {
+        "name": "Rave En El Bosque",
+        "url": "https://open.spotify.com/album/1Rfz7g0JhUdzvZx1G8n7jF"
+      },
+      "artists": [
+        {
+          "name": "MaiteQuiero",
+          "url": "https://open.spotify.com/artist/6z3adcBXMsz0Y5VGyWTO69"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211704,
+      "name": "Rave En El Bosque",
+      "url": "https://open.spotify.com/track/6U7D1tAYK1UDM0PUh3oSwa"
     },
     {
       "album": {
@@ -12968,7 +13112,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 192387,
       "name": "Todo puede pasar",
       "url": "https://open.spotify.com/track/1jQSuuUaQJgZLY6zfspqPV"

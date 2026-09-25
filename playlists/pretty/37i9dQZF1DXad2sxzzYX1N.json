@@ -1,6 +1,6 @@
 {
   "description": "The indie viral hits you can't escape. Cover: Charli xcx",
-  "num_followers": 707250,
+  "num_followers": 707382,
   "original_name": "Indie that hits different ",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
+        "name": "The Great Divide",
+        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 297262,
+      "name": "Willing and Able",
+      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
+    },
+    {
+      "added_at": "2026-08-13 08:06:01",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS"
       },
@@ -531,22 +547,6 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
-        "name": "The Great Divide",
-        "url": "https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 297262,
-      "name": "Willing and Able",
-      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs"
-    },
-    {
-      "added_at": "2026-08-13 08:06:01",
-      "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 340942,
       "name": "cigarette smoke",
       "url": "https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ"
-    },
-    {
-      "added_at": "2026-08-13 08:06:01",
-      "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "duration_ms": 225312,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
     },
     {
       "added_at": "2026-08-13 08:06:01",
@@ -595,18 +579,18 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
-        "name": "iloveitiloveitiloveit",
-        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
       "artists": [
         {
-          "name": "Bella Kay",
-          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         }
       ],
-      "duration_ms": 183237,
-      "name": "iloveitiloveitiloveit",
-      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+      "duration_ms": 225312,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
     },
     {
       "added_at": "2026-08-13 08:06:01",
@@ -627,6 +611,22 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
+        "name": "iloveitiloveitiloveit",
+        "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
+      },
+      "artists": [
+        {
+          "name": "Bella Kay",
+          "url": "https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8"
+        }
+      ],
+      "duration_ms": 183237,
+      "name": "iloveitiloveitiloveit",
+      "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
+    },
+    {
+      "added_at": "2026-08-13 08:06:01",
+      "album": {
         "name": "Pineapple Sunrise",
         "url": "https://open.spotify.com/album/7gA8QSNSZvHUYC9feFpeLj"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
-        "name": "Death of a Party Girl",
-        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
-      },
-      "artists": [
-        {
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Blue Hair",
-      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
-    },
-    {
-      "added_at": "2026-08-13 08:06:01",
-      "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 291640,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/2KhrPRV0V1FS2l4eQMJUWt"
+    },
+    {
+      "added_at": "2026-08-13 08:06:01",
+      "album": {
+        "name": "Death of a Party Girl",
+        "url": "https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy"
+      },
+      "artists": [
+        {
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Blue Hair",
+      "url": "https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t"
     },
     {
       "added_at": "2026-08-13 08:06:01",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
-    },
-    {
-      "added_at": "2026-08-13 08:06:01",
-      "album": {
         "name": "Her",
         "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 285906,
       "name": "When the Sun Hits",
       "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44"
+    },
+    {
+      "added_at": "2026-08-13 08:06:01",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "added_at": "2026-08-13 08:06:01",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
-    },
-    {
-      "added_at": "2026-08-13 08:06:01",
-      "album": {
         "name": "Hopes And Fears",
         "url": "https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 236160,
       "name": "Somewhere Only We Know",
       "url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg"
+    },
+    {
+      "added_at": "2026-08-13 08:06:01",
+      "album": {
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/75614DWrksimeV4oXUhaYP"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/0Z57YWES04xGh3AImDz6Qr"
     },
     {
       "added_at": "2026-08-13 08:06:01",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
-        "name": "Back To Me",
-        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
-    },
-    {
-      "added_at": "2026-08-13 08:06:01",
-      "album": {
         "name": "Linger / Heading For The Door (Sirius XM Session)",
         "url": "https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 186000,
       "name": "Linger - SiriusXM Session",
       "url": "https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq"
+    },
+    {
+      "added_at": "2026-08-13 08:06:01",
+      "album": {
+        "name": "Back To Me",
+        "url": "https://open.spotify.com/album/3y8LtE30zPfQ4sXYRKvt2e"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ"
     },
     {
       "added_at": "2026-08-13 08:06:01",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
-        "name": "Sadnecessary (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 313626,
-      "name": "Stolen Dance",
-      "url": "https://open.spotify.com/track/0ZfByLXCeKchuj7zi1CJ0S"
-    },
-    {
-      "added_at": "2026-08-13 08:06:01",
-      "album": {
         "name": "Treehouse",
         "url": "https://open.spotify.com/album/6bkxg2HCORFlB0akEfqJvY"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 158801,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/7fyG2MquxykO3Ufiku1Dj2"
+    },
+    {
+      "added_at": "2026-08-13 08:06:01",
+      "album": {
+        "name": "Sadnecessary (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/3AWjk0oVV9YAY9r9boiffN"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 313626,
+      "name": "Stolen Dance",
+      "url": "https://open.spotify.com/track/0ZfByLXCeKchuj7zi1CJ0S"
     },
     {
       "added_at": "2026-08-13 08:06:01",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
-        "name": "This Is How Tomorrow Moves",
-        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 160600,
-      "name": "Real Man",
-      "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
-    },
-    {
-      "added_at": "2026-08-13 08:06:01",
-      "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 262518,
       "name": "Spring Into Summer",
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "added_at": "2026-08-13 08:06:01",
+      "album": {
+        "name": "This Is How Tomorrow Moves",
+        "url": "https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
     },
     {
       "added_at": "2026-08-13 08:06:01",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2026-08-13 08:06:01",
       "album": {
-        "name": "SWAT",
-        "url": "https://open.spotify.com/album/4D9FbyngDN1YQM7otNAu1a"
-      },
-      "artists": [
-        {
-          "name": "overtonight throwaways",
-          "url": "https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7"
-        },
-        {
-          "name": "overtonight",
-          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
-        }
-      ],
-      "duration_ms": 105437,
-      "name": "mirrors demo",
-      "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
-    },
-    {
-      "added_at": "2026-08-13 08:06:01",
-      "album": {
         "name": "Fantasies",
         "url": "https://open.spotify.com/album/1N2HeWMUjuAxYL7UnA63JH"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 226293,
       "name": "Cico Buff",
       "url": "https://open.spotify.com/track/4csSjpkgRI06CpVeYfIjwM"
+    },
+    {
+      "added_at": "2026-08-13 08:06:01",
+      "album": {
+        "name": "SWAT",
+        "url": "https://open.spotify.com/album/4D9FbyngDN1YQM7otNAu1a"
+      },
+      "artists": [
+        {
+          "name": "overtonight throwaways",
+          "url": "https://open.spotify.com/artist/5d1xapXUqUmq0CpozCAhr7"
+        },
+        {
+          "name": "overtonight",
+          "url": "https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs"
+        }
+      ],
+      "duration_ms": 105437,
+      "name": "mirrors demo",
+      "url": "https://open.spotify.com/track/5Jh7Gc5aF6leolD64pNRD5"
     },
     {
       "added_at": "2026-08-13 08:06:01",

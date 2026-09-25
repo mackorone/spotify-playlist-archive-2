@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 149067,
+  "num_followers": 149095,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Famouz Reloaded",
-        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
-      },
-      "artists": [
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 249253,
-      "name": "Subiendo De Nivel - Remix",
-      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Buen Viaje",
         "url": "https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 221802,
       "name": "Vengo De Nada",
       "url": "https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Famouz Reloaded",
+        "url": "https://open.spotify.com/album/7gDjowB5fv1LkntmDVv0jT"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 249253,
+      "name": "Subiendo De Nivel - Remix",
+      "url": "https://open.spotify.com/track/2kvGoSGHWI0uvjJlooy1AQ"
     },
     {
       "added_at": "2024-08-19 19:01:43",
@@ -1895,22 +1895,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "L3tra",
-        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 199700,
-      "name": "Side Bitch",
-      "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Bipolar",
         "url": "https://open.spotify.com/album/3VnPV75DGyQMdljH0OHgx3"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 219880,
       "name": "Bipolar",
       "url": "https://open.spotify.com/track/4WzsycqZkpkS48H9AAAGux"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 199700,
+      "name": "Side Bitch",
+      "url": "https://open.spotify.com/track/5OkfdedI0mwIY5nZ5eHe1N"
     },
     {
       "added_at": "2024-08-19 19:01:43",

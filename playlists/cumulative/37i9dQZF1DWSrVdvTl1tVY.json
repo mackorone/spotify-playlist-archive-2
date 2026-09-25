@@ -2311,6 +2311,24 @@
     },
     {
       "album": {
+        "name": "Summer of Love EP",
+        "url": "https://open.spotify.com/album/68h0HdjGGRBKysB7EJWm7d"
+      },
+      "artists": [
+        {
+          "name": "Alex Culross",
+          "url": "https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214877,
+      "name": "Be My Baby",
+      "url": "https://open.spotify.com/track/0IHlCPPJKUp36it84F2NED"
+    },
+    {
+      "album": {
         "name": "Wide Awake (Deluxe)",
         "url": "https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1"
       },
@@ -12706,7 +12724,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 170213,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/5J5TFaezewttgaKDsI9MLd"
@@ -17666,7 +17684,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 198805,
       "name": "Mesmerize",
       "url": "https://open.spotify.com/track/0oDbO6K2eYSobaJmDM1cNw"
@@ -22316,7 +22334,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 196555,
       "name": "Push Ya Back",
       "url": "https://open.spotify.com/track/5i5caeF79c3FuXWbJMZQww"
@@ -22950,6 +22968,28 @@
       "duration_ms": 286195,
       "name": "Reverse Cowgirl 2",
       "url": "https://open.spotify.com/track/33EVvwTGTrfopZH9FyrWvQ"
+    },
+    {
+      "album": {
+        "name": "Reverse Things",
+        "url": "https://open.spotify.com/album/7q1DLTrmoVloIO0yKTnKDH"
+      },
+      "artists": [
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        },
+        {
+          "name": "Toman",
+          "url": "https://open.spotify.com/artist/7A0eeETj5gjPjvXLnskbfG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212461,
+      "name": "Reverse Things",
+      "url": "https://open.spotify.com/track/13iU419aX4eb5BlWdTawnQ"
     },
     {
       "album": {
@@ -28146,7 +28186,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 233579,
       "name": "Thinking 'Bout You",
       "url": "https://open.spotify.com/track/1F7cI1dYO1mxOYptPYQhYe"
@@ -28904,6 +28944,24 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
+    },
+    {
+      "album": {
+        "name": "Dynamo EP",
+        "url": "https://open.spotify.com/album/1AatZ6Er5CKdQ1wGxhsT1K"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Spiteri",
+          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/4C6SwszAF1EBgkGnkkdFvW"
     },
     {
       "album": {
@@ -30155,7 +30213,7 @@
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 182500,
+      "duration_ms": 182441,
       "name": "Want To Know",
       "url": "https://open.spotify.com/track/3hvH3Ecc4NCvUhX9hMwXlo"
     },

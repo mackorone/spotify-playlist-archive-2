@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49738,
+  "num_followers": 49733,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAACa/tYlgrUNRbW25r3jCxTk",
+  "snapshot_id": "arMWgAAAAAAf0+KirVy+NeJcywYuDRn5",
   "tracks": [
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Me Softly",
-        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 243360,
-      "name": "Jesse",
-      "url": "https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RENDEZVOUS (2017 Remaster)",
         "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 279920,
       "name": "HERE'S TO LOVE (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/7CyWmMnqbH5A5RVKcliCsP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 243360,
+      "name": "Jesse",
+      "url": "https://open.spotify.com/track/3OepQ3fQXOa0Tr6H7RKHn6"
     },
     {
       "added_at": null,
@@ -511,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Feel Like Makin' Love",
+        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 169693,
+      "name": "I Wanted It Too",
+      "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Killing Me Softly",
         "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 243466,
       "name": "You're Lookin' Like Love To Me",
       "url": "https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feel Like Makin' Love",
-        "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 169693,
-      "name": "I Wanted It Too",
-      "url": "https://open.spotify.com/track/1gVFAOjp9U176pxyCGAfAR"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 436453,
-      "name": "Bridge Over Troubled Water",
-      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Roberta Flack Featuring Donny Hathaway",
         "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 246066,
       "name": "Only Heaven Can Wait (For Love) (feat. Donny Hathaway)",
       "url": "https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 436453,
+      "name": "Bridge Over Troubled Water",
+      "url": "https://open.spotify.com/track/5ylhti1OHcdt5TNZV7bPrn"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 403520,
-      "name": "To Love Somebody",
-      "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RENDEZVOUS (2017 Remaster)",
         "url": "https://open.spotify.com/album/3rqvWegGFuOo5vwXJc7h1M"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 266160,
       "name": "IF I'M STILL AROUND TOMORROW (feat. ROBERTA FLACK)",
       "url": "https://open.spotify.com/track/3VjGHCdwCJGCYXuRRnQZI5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 403520,
+      "name": "To Love Somebody",
+      "url": "https://open.spotify.com/track/3LYXTv0JJZRzUBtswVxDmw"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 300560,
-      "name": "Sunday and Sister Jones",
-      "url": "https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis",
         "url": "https://open.spotify.com/album/79aJPgsmadfUyqd05d63o4"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212840,
       "name": "And so It Goes",
       "url": "https://open.spotify.com/track/6XmplKK5FDXZKYxYzYRVCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 300560,
+      "name": "Sunday and Sister Jones",
+      "url": "https://open.spotify.com/track/7EIm0unRcbYVfQ7oLXCPOg"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet Fire",
-        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 234693,
-      "name": "Let Them Talk",
-      "url": "https://open.spotify.com/track/47jAgpZzxxJn0L4RhmnJnf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live & More",
         "url": "https://open.spotify.com/album/0Cg0ZJ1upTPMXfn7M2C5iZ"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 570800,
       "name": "Only Heaven Can Wait (For Love) / You Are My Heaven - Live Version",
       "url": "https://open.spotify.com/track/4maILRXT2aYEo6BxTSAk1U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet Fire",
+        "url": "https://open.spotify.com/album/3WX5irfC09UH39CFRf8jme"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 234693,
+      "name": "Let Them Talk",
+      "url": "https://open.spotify.com/track/47jAgpZzxxJn0L4RhmnJnf"
     },
     {
       "added_at": null,

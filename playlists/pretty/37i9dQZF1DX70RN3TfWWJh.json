@@ -1,6 +1,6 @@
 {
   "description": "Pop hits to keep your workout fresh",
-  "num_followers": 4698950,
+  "num_followers": 4698922,
   "original_name": "Workout",
   "owner": {
     "name": "Spotify",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/6JV2JOEocMgcZxYSZelKcc"
     },
     {
+      "added_at": "2026-09-18 04:54:31",
+      "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 144692,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/5QHdBMFvD4ow4ePzZRNZQB"
+    },
+    {
       "added_at": "2026-07-07 19:55:59",
       "album": {
         "name": "Calm Down (with Selena Gomez)",
@@ -731,22 +747,6 @@
       "duration_ms": 239317,
       "name": "Calm Down (with Selena Gomez)",
       "url": "https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8"
-    },
-    {
-      "added_at": "2026-09-18 04:54:31",
-      "album": {
-        "name": "PRIMA",
-        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 144692,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/5QHdBMFvD4ow4ePzZRNZQB"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-07-07 19:55:59",
       "album": {
-        "name": "LEMONADE - The 2nd Album",
-        "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "LEMONADE",
-      "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
-    },
-    {
-      "added_at": "2026-07-07 19:55:59",
-      "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+    },
+    {
+      "added_at": "2026-07-07 19:55:59",
+      "album": {
+        "name": "LEMONADE - The 2nd Album",
+        "url": "https://open.spotify.com/album/2233LC6uuoi67lGcO2OaBm"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "LEMONADE",
+      "url": "https://open.spotify.com/track/2oR7jPvWPC08Su4KYmKR3O"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-07-07 19:55:59",
       "album": {
-        "name": "Bangaranga",
-        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
-      },
-      "artists": [
-        {
-          "name": "DARA",
-          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
-        }
-      ],
-      "duration_ms": 177995,
-      "name": "Bangaranga",
-      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
-    },
-    {
-      "added_at": "2026-07-07 19:55:59",
-      "album": {
         "name": "Solo (feat. Demi Lovato)",
         "url": "https://open.spotify.com/album/1q7a5wZeti0neU2jDn8Dz3"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 222653,
       "name": "Solo (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/6kPJZM97LwdG9QIsT7khp6"
+    },
+    {
+      "added_at": "2026-07-07 19:55:59",
+      "album": {
+        "name": "Bangaranga",
+        "url": "https://open.spotify.com/album/2RRFlY4QIXwpfa6fZwfih8"
+      },
+      "artists": [
+        {
+          "name": "DARA",
+          "url": "https://open.spotify.com/artist/6WRl7KUrzOq7GpY97KrYxi"
+        }
+      ],
+      "duration_ms": 177995,
+      "name": "Bangaranga",
+      "url": "https://open.spotify.com/track/6SvlfrQYzUsW5UQUpUpy26"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2026-07-07 19:55:59",
       "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
+    },
+    {
+      "added_at": "2026-07-07 19:55:59",
+      "album": {
         "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
         "url": "https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 212500,
       "name": "Taki Taki (with Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM"
-    },
-    {
-      "added_at": "2026-07-07 19:55:59",
-      "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -1273,6 +1273,22 @@
       "url": "https://open.spotify.com/track/3TWpz0iK17gFlxWlIs3MIQ"
     },
     {
+      "added_at": "2026-07-07 19:55:59",
+      "album": {
+        "name": "The Dead Dance",
+        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 228518,
+      "name": "The Dead Dance",
+      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
       "added_at": "2026-07-17 04:01:50",
       "album": {
         "name": "CONFESSIONS II",
@@ -1291,22 +1307,6 @@
       "duration_ms": 245264,
       "name": "Bizarre",
       "url": "https://open.spotify.com/track/15RhivSFgiIWYugV2FqV5I"
-    },
-    {
-      "added_at": "2026-07-07 19:55:59",
-      "album": {
-        "name": "The Dead Dance",
-        "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 228518,
-      "name": "The Dead Dance",
-      "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -1493,22 +1493,6 @@
       "url": "https://open.spotify.com/track/55S2PQgSMYAhgoTCcGCDfw"
     },
     {
-      "added_at": "2026-07-07 19:55:59",
-      "album": {
-        "name": "IS IT LOVE",
-        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 187714,
-      "name": "IS IT LOVE",
-      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
-    },
-    {
       "added_at": "2026-07-17 04:01:50",
       "album": {
         "name": "Club To Your Arms",
@@ -1523,6 +1507,22 @@
       "duration_ms": 191596,
       "name": "Club To Your Arms",
       "url": "https://open.spotify.com/track/2LZx0kkWq9wnxpFYBzhaIZ"
+    },
+    {
+      "added_at": "2026-07-07 19:55:59",
+      "album": {
+        "name": "IS IT LOVE",
+        "url": "https://open.spotify.com/album/3Ly0mmjvfZ1I9ICjEWq7KH"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "IS IT LOVE",
+      "url": "https://open.spotify.com/track/3LBZWdxMKp0dHCbaRJB82d"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-07-07 19:55:59",
       "album": {
-        "name": "TYLA",
-        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/0wYwXrgGrrU1idueX5A1wJ"
-    },
-    {
-      "added_at": "2026-07-07 19:55:59",
-      "album": {
         "name": "yes baby",
         "url": "https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 175324,
       "name": "yes baby",
       "url": "https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA"
+    },
+    {
+      "added_at": "2026-07-07 19:55:59",
+      "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/0wYwXrgGrrU1idueX5A1wJ"
     },
     {
       "added_at": "2026-07-07 19:55:59",
@@ -1649,22 +1649,6 @@
       "url": "https://open.spotify.com/track/4IiZmwQIkApeVxHDujXJft"
     },
     {
-      "added_at": "2026-07-07 19:55:59",
-      "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
-      },
-      "artists": [
-        {
-          "name": "Robyn",
-          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
-    },
-    {
       "added_at": "2026-09-18 04:54:31",
       "album": {
         "name": "Bender",
@@ -1679,6 +1663,22 @@
       "duration_ms": 130654,
       "name": "Bender",
       "url": "https://open.spotify.com/track/3lc0I6QEKB8BAp8342J8N6"
+    },
+    {
+      "added_at": "2026-07-07 19:55:59",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/3k63fb9eki4aVFPzU3Ptvw"
+      },
+      "artists": [
+        {
+          "name": "Robyn",
+          "url": "https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
     },
     {
       "added_at": "2026-07-07 19:55:59",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Jay Park\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,616 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,612 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvmOXYvR5a6.md) - [plain]
 | 32 | [OST \( Feat.CHANMINA \)](https://open.spotify.com/track/5i2qsnB4cF2j7KdxjhTbzV) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [OST](https://open.spotify.com/album/2ZFE0nxTNIgX1jMCfT0L0W) | 3:01 |
 | 33 | [Life Is A Movie \(Feat\. Jung Zi So\)](https://open.spotify.com/track/7BOY8ltVPRVYnUNARDfobY) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti) | [HANDS](https://open.spotify.com/album/7b9QwpzU17mMaI2xQPsTDU) | 3:10 |
 | 34 | [Summer Tights](https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:34 |
-| 35 | [Hongdae Rapper](https://open.spotify.com/track/7oIRLKjbsUY1BOt1sN6KlS) | [Hukky Shibaseki](https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Hongdae Rapper](https://open.spotify.com/album/2y2PrD6PJlefeQNkLQMI3j) | 3:05 |
-| 36 | [Wifey](https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Wifey](https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0) | 2:04 |
+| 35 | [Wifey](https://open.spotify.com/track/0dXGAtiyMmunKB69wpxJdq) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Wifey](https://open.spotify.com/album/1IFsThUQRnLz29yH02sDF0) | 2:04 |
+| 36 | [Hongdae Rapper](https://open.spotify.com/track/7oIRLKjbsUY1BOt1sN6KlS) | [Hukky Shibaseki](https://open.spotify.com/artist/6QcVY6zyMPqZO23XcxNZng), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Hongdae Rapper](https://open.spotify.com/album/2y2PrD6PJlefeQNkLQMI3j) | 3:05 |
 | 37 | [AMAZING \(feat\. Sik\-K\)](https://open.spotify.com/track/0h97ZHSA2ZSw7Gfz1NKTDY) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [FOREVER KIDS](https://open.spotify.com/album/3EhMtYhrnZ1XDJ7FyzmRLq) | 3:39 |
 | 38 | [party \(SHUT DOWN\)](https://open.spotify.com/track/1ihIXI2MVklmJdPvIUxExZ) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [H.A.L.F \(Have.A.Little.Fun\)](https://open.spotify.com/album/48u7IqYux9zf5sUWVb6qcm) | 3:36 |
 | 39 | [2AM \(Feat\. CAMO\)](https://open.spotify.com/track/1C1quK9LCCHeUjrTONTH9C) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 3:00 |
-| 40 | [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:47 |
-| 41 | [Tell Me](https://open.spotify.com/track/7zfAThc6oj1bgtmOMHqmwO) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Tell Me](https://open.spotify.com/album/16QHs3OYA5E2dsccDgXAMz) | 2:24 |
+| 40 | [Tell Me](https://open.spotify.com/track/7zfAThc6oj1bgtmOMHqmwO) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Tell Me](https://open.spotify.com/album/16QHs3OYA5E2dsccDgXAMz) | 2:24 |
+| 41 | [You're So Fine](https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ) | [BILL STAX](https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [LIVE FAST DIE SKRT](https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR) | 3:47 |
 | 42 | [Heartfall](https://open.spotify.com/track/4WiQs8PBO76tHBaGMQ5jms) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ) | [HBK](https://open.spotify.com/album/54I8EMKaexbDnKWnf0wKnr) | 2:01 |
 | 43 | [365&7 \(Feat\. JAMIE\)](https://open.spotify.com/track/6VYY26Wws3jIS1DdqeOsXZ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [365&7](https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL) | 2:49 |
 | 44 | [SEOUL DRIFT](https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [SEOUL DRIFT](https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC) | 3:19 |

@@ -4,7 +4,7 @@
 
 > Meet the future\. Cover: WHYLUCAS
 
-333 songs - 18 hr 7 min
+335 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Hadirlah Cahaya](https://open.spotify.com/track/6vQMYsi0YFiR8G0GVxPOa6) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 4:08 | 2024-08-08 | 2024-12-05 |
 | [half of my heart](https://open.spotify.com/track/1axeB1swjtFnZk8weaQcrN) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 3:38 | 2024-12-04 | 2025-10-17 |
 | [half of my heart](https://open.spotify.com/track/42BeZN1Am9yq6xkkuyumrG) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 3:38 | 2024-06-27 | 2024-12-05 |
+| [Hard to Love](https://open.spotify.com/track/1r2WWlH285CjPX4Bki3lJp) | [supercatkei](https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN) | [Hard to Love](https://open.spotify.com/album/5v8rjZwnx3B02FNloq9NBg) | 2:21 | 2026-09-24 |  |
 | [Haru Biru](https://open.spotify.com/track/053AJQ01i1w3luw0QRGzUy) | [Alpha](https://open.spotify.com/artist/0s2MtYt7PZx0kP8CqLt38t), [Daiyan Trisha](https://open.spotify.com/artist/7xegqEOtukVFMdHyWnYkta) | [The First Wave](https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU) | 3:05 | 2026-06-18 |  |
 | [HASTE](https://open.spotify.com/track/4LkpLJvOYZSLgo9ZWN3kHG) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [HASTE](https://open.spotify.com/album/3dpBjcmALy8faXQ28ikOPK) | 3:00 | 2025-04-15 | 2026-04-07 |
 | [Headspace](https://open.spotify.com/track/734yyCxl7ZrRPTnRqbjB4q) | [liesl\-mae](https://open.spotify.com/artist/2PSBYmtNWEm9f8VOSCFFX0) | [Headspace](https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv) | 3:07 | 2025-09-08 | 2025-10-17 |
@@ -340,6 +341,7 @@
 | [梦的篮筐 \(新传媒戏剧《力挽狂篮》主题曲\)](https://open.spotify.com/track/7GuInOhpVfe3cQGAJM1nKt) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [新传媒戏剧《力挽狂篮》](https://open.spotify.com/album/4tSNukIK4cDOVLdlRqIbcY) | 2:40 | 2025-11-20 | 2026-04-07 |
 | [渣男太累](https://open.spotify.com/track/2qHgnAqNXpduoXj1VolQrv) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw), [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [渣男太累](https://open.spotify.com/album/1qR6574TLpI236TY0pEEFM) | 3:33 | 2025-04-15 | 2026-04-07 |
 | [近距離戀愛](https://open.spotify.com/track/4FgKG4iuhGntHDCFgSncUp) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus), [CED](https://open.spotify.com/artist/3M1YtHr7K9yHjawwbJ2DgC) | [近距離戀愛](https://open.spotify.com/album/6jZk2p03akG7v8BFcBgGKM) | 2:47 | 2025-04-15 | 2026-04-07 |
+| [逃離你在日落前](https://open.spotify.com/track/53hxhhwQKtYDtMJCY0U2ko) | [J308](https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1), [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT) | [車內天氣](https://open.spotify.com/album/2tXEY9O6fsUabP5LUkBBWk) | 3:04 | 2026-09-24 |  |
 | [魔法](https://open.spotify.com/track/1C5DoIcsnOZ9SLxIWREedM) | [Yokez](https://open.spotify.com/artist/5wtspqsX3OxPu1JTRQTqus) | [魔法](https://open.spotify.com/album/4hKnbjet7BKrgKIinnwx4z) | 3:16 | 2025-04-15 | 2026-04-07 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

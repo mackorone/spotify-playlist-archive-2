@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 
 > heavy vibes for cuffing season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,430 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,572 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9G93rIVMmzM.md) - [plain]
 | 78 | [I Feel Everything](https://open.spotify.com/track/2VruwjihpGLyBmLuEqE7i2) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [I Feel Everything](https://open.spotify.com/album/2ocVKzxMyOPFzVRLl7b15B) | 2:55 |
 | 79 | [Wet Dreams](https://open.spotify.com/track/7gU7RWO1r3yUPVagFTfbi6) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Wet Dreams](https://open.spotify.com/album/0CpfMb1CvPursI3CGbzAWN) | 2:37 |
 | 80 | [The Hunger](https://open.spotify.com/track/2bLNXRbC7Q2s9s7tVDdjJv) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Urban Legend](https://open.spotify.com/album/7oaCMCOJ3qSnpALIuv38aL) | 4:39 |
-| 81 | [my mistake...](https://open.spotify.com/track/5gUaMx5euG5hLsjSCKImIN) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [motionblur](https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40) | 5:16 |
-| 82 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 |
+| 81 | [I Shift](https://open.spotify.com/track/3Ci8VRojYttIlIm4YikgKo) | [Sable](https://open.spotify.com/artist/5rRyGasapvQWgfTijFs2mq) | [I Shift](https://open.spotify.com/album/49Jl8jC6BGOLuw0FoyXY0c) | 3:10 |
+| 82 | [my mistake...](https://open.spotify.com/track/5gUaMx5euG5hLsjSCKImIN) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [motionblur](https://open.spotify.com/album/3zXbRvUa5RiqdGUeB1Od40) | 5:16 |
 | 83 | [Love me, slow](https://open.spotify.com/track/1AhkwjEBHLuvLTN2XSUgeZ) | [PALESKIN](https://open.spotify.com/artist/5eKP3s5CJQOYL65VzunrN1) | [Love me, slow](https://open.spotify.com/album/5I2v5h13rfLyFEVzEMoj6K) | 3:53 |
 | 84 | [Dissociate](https://open.spotify.com/track/6ulu17cqr52bymx8fXl8Yw) | [Extortionist](https://open.spotify.com/artist/3hdi1PRzSDS2LCTTwKsmVz) | [Dissociate](https://open.spotify.com/album/3wObYPAXqsIPRcPtgtC2Pk) | 4:17 |
 | 85 | [LOTUS](https://open.spotify.com/track/2rYj6DXSO7B0H7MajunV07) | [VIIZERO7](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [LOTUS](https://open.spotify.com/album/1xn196oTyd4kH1o2ZYZzPu) | 3:19 |

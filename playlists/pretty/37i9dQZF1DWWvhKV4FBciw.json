@@ -1,6 +1,6 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1902217,
+  "num_followers": 1902335,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "The Singles 1974 - 76",
-        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 299066,
       "name": "Strawberry Letter 23",
       "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "The Singles 1974 - 76",
+        "url": "https://open.spotify.com/album/1Vmgke5bm1op8mUnbvd6wY"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/6pMHMzwTsWIxLigr54GGVm"
     },
     {
       "added_at": "2024-07-12 16:10:47",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-07-12 16:10:47",
       "album": {
-        "name": "Cold Sweat & Other Soul Classics: James Brown",
-        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Get Up Offa That Thing",
-      "url": "https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv"
-    },
-    {
-      "added_at": "2024-07-12 16:10:47",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 291073,
       "name": "Thank You (Falettinme Be Mice Elf Agin) - Single Version",
       "url": "https://open.spotify.com/track/74iQ3gahRTOGc19bYadBE3"
+    },
+    {
+      "added_at": "2024-07-12 16:10:47",
+      "album": {
+        "name": "Cold Sweat & Other Soul Classics: James Brown",
+        "url": "https://open.spotify.com/album/6CygdzTfDPgHKm8RAuiV7R"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 250386,
+      "name": "Get Up Offa That Thing",
+      "url": "https://open.spotify.com/track/3whRKAOlJ0M3banzcChvQv"
     },
     {
       "added_at": "2024-07-12 16:10:47",

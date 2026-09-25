@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,460 likes - 191 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,463 likes - 191 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 48 | [Plum](https://open.spotify.com/track/0EftP1nY8Mklt77hAMMMug) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:05 |
 | 49 | [Vowels](https://open.spotify.com/track/6tXtNrcKGZdaRlEwRuz4e0) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/2f5IES0PhCZZELqdeWMhB5) | 3:04 |
 | 50 | [Honey](https://open.spotify.com/track/0GMZYC6lcrpnwjDiEtDO8i) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:26 |
-| 51 | [85](https://open.spotify.com/track/2pipRHTv8rCeRyZL3smnsT) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:21 |
-| 52 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
+| 51 | [SexOnTheBeat](https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [The Provocateur](https://open.spotify.com/album/7LWxUjVO8rhvEUQu2cyVgd) | 2:46 |
+| 52 | [85](https://open.spotify.com/track/2pipRHTv8rCeRyZL3smnsT) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/1HxoWQzPqd5JZyBpQ9ZlSf) | 3:21 |
 | 53 | [love, or the lack thereof](https://open.spotify.com/track/2E1eJCNpEniIB1NsDqyGzR) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:07 |
 | 54 | [You Will Find Me](https://open.spotify.com/track/1tQksxQbg0wzhxpTY4ppzB) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [As Seen On TV](https://open.spotify.com/album/7a1BvnRHo7rdeyaHtmxPPB) | 3:26 |
 | 55 | [End Up With You](https://open.spotify.com/track/5XIrB4tNKqmGxtVbYpTllz) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:13 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 77 | [Don't Wait](https://open.spotify.com/track/5sBdbAZ2a2LJ775CsbkM2h) | [Joey Graceffa](https://open.spotify.com/artist/50zhmSD9wi3LHamXKx8A2W) | [Don't Wait](https://open.spotify.com/album/7vynUmVpp3L0DIcLKAIOXO) | 3:25 |
 | 78 | [10/10](https://open.spotify.com/track/0s2vC5MwdoLvQ8PdNBjUGX) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:06 |
 | 79 | [Open Always Wins](https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Open Always Wins](https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs) | 2:22 |
-| 80 | [Ignore Me](https://open.spotify.com/track/3vbFzGrrAmeWK1cXz2PkuC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:13 |
-| 81 | [Kiss](https://open.spotify.com/track/5rFGW7dBiezVY3sikP5tFq) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 2:19 |
+| 80 | [Kiss](https://open.spotify.com/track/5rFGW7dBiezVY3sikP5tFq) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 2:19 |
+| 81 | [Ignore Me](https://open.spotify.com/track/3vbFzGrrAmeWK1cXz2PkuC) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/57YwDLyNeobBmbVfcOhLx4) | 3:13 |
 | 82 | [U12](https://open.spotify.com/track/18aacKBjManeCW688A6IGf) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:23 |
 | 83 | [She Said](https://open.spotify.com/track/1UNWD6R5EOFklUHKZZvww2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Love, Victor: Season 2 \(Original Soundtrack\)](https://open.spotify.com/album/6fJSSOWbDoBDy6N1DJAsuk) | 2:47 |
 | 84 | [Thirsty](https://open.spotify.com/track/0GIxebN29sVX3Up18qTb8R) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 3:23 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 115 | [Wingman](https://open.spotify.com/track/6VitRC30kO0TKoDcEeQHCU) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Wingman](https://open.spotify.com/album/1be3Mn77VbYlBtltlAOIDO) | 3:27 |
 | 116 | [The Wrong Party](https://open.spotify.com/track/3zpUhSVw7S1lD6okDqZ2yX) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj), [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Monster \(Deluxe\)](https://open.spotify.com/album/4OwY7UUFCdDugJaKFNSkCd) | 2:39 |
 | 117 | [Half of You](https://open.spotify.com/track/30H1zqTlhaPLlbGyTD21n6) | [Bram Inscore](https://open.spotify.com/artist/0Utgbb1Imx2ujqQafJU3h9), [Leland](https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69) | [Sierra Burgess Is a Loser \(Original Netflix Sound Track\)](https://open.spotify.com/album/5ddhak78Gq6mFVqiPlbFhI) | 3:40 |
-| 118 | [SANCTUARY](https://open.spotify.com/track/6DP8nbZpPLgWboZf1ABRzj) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [COLLXTION I](https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN) | 4:39 |
-| 119 | [AGAIN](https://open.spotify.com/track/7dfleX1KObfJQdDc4RUABd) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [LUCID DREAMS](https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj) | 2:29 |
+| 118 | [AGAIN](https://open.spotify.com/track/7dfleX1KObfJQdDc4RUABd) | [DANNA](https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc) | [LUCID DREAMS](https://open.spotify.com/album/5jIZEQP2E5YkW1Fp5vRNYj) | 2:29 |
+| 119 | [SANCTUARY](https://open.spotify.com/track/6DP8nbZpPLgWboZf1ABRzj) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [COLLXTION I](https://open.spotify.com/album/3Zhiq40rr6sT7do5oJ2qzN) | 4:39 |
 | 120 | [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 |
 | 121 | [God, This Feels Good](https://open.spotify.com/track/3pPuIUNXQR6Vx8GNn6CFsU) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Songs from "Love, Victor" \(Original Soundtrack\)](https://open.spotify.com/album/1Ne1Q5DkeiivL9qBtoFwAW) | 3:18 |
 | 122 | [True Love Is Violent](https://open.spotify.com/track/3TBFMkB6gZEjl7WbWuB9rM) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:32 |
@@ -200,4 +200,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 190 | [Euphoria](https://open.spotify.com/track/1nXyc1QOTa5Rnhg5udF0vr) | [Christopher Goulstone](https://open.spotify.com/artist/6A6hCC07Ix0YCGFfENcWYI), [Neil Taylor](https://open.spotify.com/artist/3th0fmbYOynihCppJzNJLM) | [Rock Highway Dreams](https://open.spotify.com/album/5c4U5JArDApW4JUyEEk3Tz) | 3:26 |
 | 191 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AcdG5gAAAAD38R9H92ViPCl1AMkZQMDQ`
+Snapshot ID: `AcdMfAAAAACjCm9z/fVFvYjvYWTAMLdj`

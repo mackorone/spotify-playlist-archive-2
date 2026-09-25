@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Die beste country musiek. Omslag: Cordelia",
+  "description": "Die beste country musiek. Omslag: Glen Rozi en Bernice Armstrong",
   "name": "Country Musiek",
   "tracks": [
     {
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 421269,
       "name": "Choosin' Texas",
       "url": "https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL"
@@ -2404,6 +2404,24 @@
       "duration_ms": 162000,
       "name": "I DON'T",
       "url": "https://open.spotify.com/track/5TIhMzAZ3z7pBcfoijR7vx"
+    },
+    {
+      "album": {
+        "name": "I Had Some Help",
+        "url": "https://open.spotify.com/album/5oBdk7G0TYd8Xqd6RxkuvR"
+      },
+      "artists": [
+        {
+          "name": "Ivan Roux",
+          "url": "https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178828,
+      "name": "I Had Some Help",
+      "url": "https://open.spotify.com/track/0XYZt2fZku8L3QEHBKyROB"
     },
     {
       "album": {
@@ -4577,6 +4595,28 @@
     },
     {
       "album": {
+        "name": "The Price",
+        "url": "https://open.spotify.com/album/7Jc8Lo8wg6ToEeAzRUd3Sy"
+      },
+      "artists": [
+        {
+          "name": "Glen Rozi",
+          "url": "https://open.spotify.com/artist/6Liu3EYo1uZ0lSaolz8y7n"
+        },
+        {
+          "name": "Bernice Armstrong",
+          "url": "https://open.spotify.com/artist/1zIC565tMx2ZBPTQIGGJth"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154500,
+      "name": "The Price",
+      "url": "https://open.spotify.com/track/60WQVksCK4VKJk9dS6vYH0"
+    },
+    {
+      "album": {
         "name": "This World's A Giant",
         "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
       },
@@ -5390,7 +5430,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 288707,
       "name": "You're So Vain - Spotify Singles",
       "url": "https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ"

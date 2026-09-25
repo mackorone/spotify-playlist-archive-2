@@ -2,7 +2,7 @@
 
 ### [Grand Hit](https://open.spotify.com/playlist/37i9dQZF1DXcSPhLAnCjoM)
 
-> "Frérot" de Jérémy Frerot est le Grand Hit de la semaine.
+> "Te rencontrer encore" d'ESTL est le Grand Hit de la semaine.
 
 351 songs - 17 hr 56 min
 

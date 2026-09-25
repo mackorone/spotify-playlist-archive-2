@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 
 > Our editors' picks of the best <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">Fresh Finds</a>  tracks around the world this year\. Cover: The Belair Lip Bombs
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,164 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,173 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUveMfbHTH6A.md) - [plain]
 | 25 | [Creature Skin](https://open.spotify.com/track/3uuewLm16NAXIWWu1yy9jq) | [Ella Ion](https://open.spotify.com/artist/272IMnCmdF6vvXOkBofjmQ) | [Map // Creature Skin](https://open.spotify.com/album/5QbJqqzsFQV2B7JW8ZHwHr) | 3:10 |
 | 26 | [Em Không Cần](https://open.spotify.com/track/3M8XPtbFW7xWyz2JmuDcce) | [Hannie](https://open.spotify.com/artist/7tRkypqswDC2uWg9g9H0Vs) | [Em Không Cần](https://open.spotify.com/album/4b319VI4xcHsxbXZVQmRgy) | 4:10 |
 | 27 | [21st Century Cool Girl](https://open.spotify.com/track/5dUOWlWWYdAgqeXwTgbaKt) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [21st Century Cool Girl](https://open.spotify.com/album/7ktbGLp7ZUIsBMo97MHXVO) | 3:17 |
-| 28 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
-| 29 | [Pa q me escribes?](https://open.spotify.com/track/59UT3zWpFwROD3DmsIIZz7) | [Vreno Yg](https://open.spotify.com/artist/6kEIWEdO0AXB40OKkgjfMj) | [Pa q me escribes?](https://open.spotify.com/album/4tvRbe0cAMnn0rm4tUoofk) | 2:00 |
+| 28 | [Pa q me escribes?](https://open.spotify.com/track/59UT3zWpFwROD3DmsIIZz7) | [Vreno Yg](https://open.spotify.com/artist/6kEIWEdO0AXB40OKkgjfMj) | [Pa q me escribes?](https://open.spotify.com/album/4tvRbe0cAMnn0rm4tUoofk) | 2:00 |
+| 29 | [That Girl](https://open.spotify.com/track/1QecTIbUmqn4awHGDXd1q5) | [Param](https://open.spotify.com/artist/4yRIu6uwKIMkVrG6e2bQJ0), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [That Girl](https://open.spotify.com/album/57Fvr8t8L7NoZfQYVCkQFv) | 2:49 |
 | 30 | [Easy Does It](https://open.spotify.com/track/2RcpZxqA62aa4icEZ7Xo86) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Memory Lane](https://open.spotify.com/album/0Vg0rmwO8uBdFiQhY3QVWk) | 3:04 |
 | 31 | [想當你永遠的星辰](https://open.spotify.com/track/0TDzZ1IpqQ6HYvrtKa7rsi) | [宏兒 Kuan Hong](https://open.spotify.com/artist/2aKuUj6H873hTJpLeBFENe) | [想當你永遠的星辰](https://open.spotify.com/album/1KGhJeIBz7c0tNzyeYEumI) | 3:31 |
 | 32 | [Almost, So Close, Maybe](https://open.spotify.com/track/7fHGHPONRtBjZTNkCNGe6x) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Almost, So Close, Maybe](https://open.spotify.com/album/1JQNelFuZSWEo0NP8Uy47n) | 2:47 |

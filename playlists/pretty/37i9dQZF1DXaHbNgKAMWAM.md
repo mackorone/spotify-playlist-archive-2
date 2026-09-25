@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,103 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,111 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,13 +15,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 5 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 |
 | 6 | [romeo n juliet \(feat\. youra\)](https://open.spotify.com/track/0R4SiuGcwqpmsE9a7rm9ws) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [gimbap](https://open.spotify.com/album/2LPagny0OzjqFRiktjAfOp) | 3:21 |
 | 7 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 |
-| 8 | [BBUU!](https://open.spotify.com/track/6WCEA1cWcv3jfsVXpWdeXR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [PLBBUU](https://open.spotify.com/album/1GhUgiGQRteSFrdB8DvXDJ) | 2:52 |
-| 9 | [All I Want Is You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/0x2UMXeCj1in1Q8Zs588lh) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Would You Marry Me?, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2By2t55dZpPaL9O171RAvC) | 3:12 |
+| 8 | [All I Want Is You \(Would You Marry Me? : Original Television Soundtrack\)](https://open.spotify.com/track/0x2UMXeCj1in1Q8Zs588lh) | [Seungmin](https://open.spotify.com/artist/2nTtulf6WM0raQcIbzYJuf) | [Would You Marry Me?, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/2By2t55dZpPaL9O171RAvC) | 3:12 |
+| 9 | [BBUU!](https://open.spotify.com/track/6WCEA1cWcv3jfsVXpWdeXR) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [PLBBUU](https://open.spotify.com/album/1GhUgiGQRteSFrdB8DvXDJ) | 2:52 |
 | 10 | [That Kind of Love](https://open.spotify.com/track/4ILSEXEODFGg2NBSsNcbBv) | [I'MIN](https://open.spotify.com/artist/0duBUSpfKQayYgX06Qnvnl) | [That Kind Of Love](https://open.spotify.com/album/3607SAPu0z3VLV3Do9N3Dm) | 3:32 |
 | 11 | [From the beginning You and I](https://open.spotify.com/track/2t1WqERs4wHZ1NfEfetbSr) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [The Emperor: Owner of the Mask \(MBC Drama\) OST Part.2](https://open.spotify.com/album/2fG57s6vQIw6PkGsOahggY) | 3:24 |
 | 12 | [MOVIE](https://open.spotify.com/track/51kQvG4aghW17VSZKkfxTp) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [MOVIE](https://open.spotify.com/album/2yqOMxorfrYXbnVkjcaq5y) | 3:03 |
-| 13 | [Our Movie](https://open.spotify.com/track/2ODZujtUNxCQDfKCxCeRxZ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 2:41 |
-| 14 | [EVERYTHING](https://open.spotify.com/track/6Tm0qxHcwHLcees24hQOab) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3) | 2:52 |
+| 13 | [EVERYTHING](https://open.spotify.com/track/6Tm0qxHcwHLcees24hQOab) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [3rd MINI ALBUM \[LOVE PULSE\]](https://open.spotify.com/album/2vdCi7WRcjd2hRzwd4KeQ3) | 2:52 |
+| 14 | [Our Movie](https://open.spotify.com/track/2ODZujtUNxCQDfKCxCeRxZ) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : 134\-1](https://open.spotify.com/album/6uDZ4HPxwnOMpykpzpylDS) | 2:41 |
 | 15 | [Tell me you love me](https://open.spotify.com/track/0U5HgFCn3EJN2zZqI0KGfJ) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Tell me you love me](https://open.spotify.com/album/5bKbsvVQeAG146ZniREsY2) | 3:19 |
 | 16 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 |
 | 17 | [Thought Of You](https://open.spotify.com/track/71D25BGzsq5OxlENZnq9N0) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [Thought Of You](https://open.spotify.com/album/0K90xZWqXh0XyozCkQXu13) | 3:50 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 29 | [Madeleine Love](https://open.spotify.com/track/5wefwQ17a5HEK4FwajSXXJ) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Plain](https://open.spotify.com/album/6pSV2QFFALy5LJzrQ3RxPS) | 3:38 |
 | 30 | [so this is love](https://open.spotify.com/track/18xXVZwosvArMOJOs7wd6S) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [bimil:ier vol.1 "so this is love"](https://open.spotify.com/album/5uGkgOzshdeNMMsR34kucM) | 3:23 |
 | 31 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 |
-| 32 | [T's Romance](https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [T's Romance](https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2) | 2:54 |
-| 33 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
+| 32 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
+| 33 | [T's Romance](https://open.spotify.com/track/2y7gIe8OxxVFcnA6lTNZ43) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [T's Romance](https://open.spotify.com/album/32CToDkpNb9atIHaGRfWh2) | 2:54 |
 | 34 | [We'll shine brighter than any other stars](https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN) | [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [We'll shine brighter than any other stars \(From "soundtrack\#1" \[Original Soundtrack\]\)](https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv) | 3:49 |
 | 35 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
 | 36 | [HOME](https://open.spotify.com/track/6GTkQ4tpmiGEPNd2WN8Wz6) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Boyfriend on Demand Part 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1ikUWSlHhgzSx6drjjyG97) | 3:46 |

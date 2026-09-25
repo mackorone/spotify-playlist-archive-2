@@ -1,6 +1,6 @@
 {
   "description": "La playlist qui fait du bien \u2600\ufe0f",
-  "num_followers": 298278,
+  "num_followers": 298310,
   "original_name": "Feel Good",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2026-09-10 22:00:34",
       "album": {
+        "name": "Level Up",
+        "url": "https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 144590,
+      "name": "Level Up",
+      "url": "https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y"
+    },
+    {
+      "added_at": "2026-09-10 22:00:34",
+      "album": {
         "name": "Boogie's in My Soul",
         "url": "https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ"
       },
@@ -319,18 +335,18 @@
     {
       "added_at": "2026-09-10 22:00:34",
       "album": {
-        "name": "Level Up",
-        "url": "https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0"
+        "name": "lost",
+        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
       },
       "artists": [
         {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 144590,
-      "name": "Level Up",
-      "url": "https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y"
+      "duration_ms": 181737,
+      "name": "lost",
+      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
     },
     {
       "added_at": "2026-09-10 22:00:34",
@@ -347,22 +363,6 @@
       "duration_ms": 95000,
       "name": "Last Call",
       "url": "https://open.spotify.com/track/0KvyZOngjOdF37hwIyS9sq"
-    },
-    {
-      "added_at": "2026-09-10 22:00:34",
-      "album": {
-        "name": "lost",
-        "url": "https://open.spotify.com/album/1FU8yl2KBTgZITcuQFlzSp"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 181737,
-      "name": "lost",
-      "url": "https://open.spotify.com/track/73hvoZggXDE0TGl0qqj1zo"
     },
     {
       "added_at": "2026-09-10 22:00:34",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-09-10 22:00:34",
       "album": {
-        "name": "All the Space Between",
-        "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
-      },
-      "artists": [
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
-        }
-      ],
-      "duration_ms": 132840,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
-    },
-    {
-      "added_at": "2026-09-10 22:00:34",
-      "album": {
         "name": "Gentleman Blue",
         "url": "https://open.spotify.com/album/5T5QLI9OIEwLHJ065gR3D2"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 208706,
       "name": "Gentleman Blue",
       "url": "https://open.spotify.com/track/5loW20chHOzvK5z4y9D96U"
+    },
+    {
+      "added_at": "2026-09-10 22:00:34",
+      "album": {
+        "name": "All the Space Between",
+        "url": "https://open.spotify.com/album/3SRx26bD51wm9arYPCA0RZ"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "duration_ms": 132840,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/1fqWRWfGPBqj5Hfm6bnPIh"
     },
     {
       "added_at": "2026-09-10 22:00:34",

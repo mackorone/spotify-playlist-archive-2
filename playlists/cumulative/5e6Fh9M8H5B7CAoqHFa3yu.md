@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,585 songs - 6 day 7 hr 9 min
+2,588 songs - 6 day 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Coronavirus \- Raw Mix](https://open.spotify.com/track/39uAS2VIUkSUqRzR13nSRJ) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc), [Mighty Sharp](https://open.spotify.com/artist/0cXYj85k096b6dNf89oVll) | [Coronavirus](https://open.spotify.com/album/6j9TEwizaJtlEp8ggMp0zb) | 3:32 | 2024-03-25 |  |
 | [Cosas Vintage](https://open.spotify.com/track/31CkeQnDvwBFFRmUnWnfVx) | [Mi Propia Montaña](https://open.spotify.com/artist/5lHjxxL08pdRTTtMk4c777) | [Vivac](https://open.spotify.com/album/76vrx6BNoe55bzJFuZr8wr) | 3:18 | 2026-06-09 |  |
 | [COSITAS DEL AMOR](https://open.spotify.com/track/3jwQS1JO2GPK2xprvzAM9M) | [Jarquez](https://open.spotify.com/artist/68ydVVkXfgE3YuGuVRn3Nj), [TMK](https://open.spotify.com/artist/2kItgWIX7FzOnr6FjBgrPI) | [COSITAS DEL AMOR](https://open.spotify.com/album/4PzZ70I18h1rZbS6QQdck1) | 2:40 | 2026-02-11 |  |
+| [Costa Smeralda](https://open.spotify.com/track/0c8byZvTEM74mRBofEonZX) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn), [José Sechi](https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi), [Meditherranea & Prova MI & 001 BEST & José Sechi](https://open.spotify.com/artist/0fw3C1w2BWMmiZiayDQzo8) | [Costa Smeralda](https://open.spotify.com/album/7rfG5gyID3loqHeYjpeKc7) | 3:12 | 2026-09-24 |  |
 | [Country Christmas Line Dance \(Jingle Bells\)](https://open.spotify.com/track/3dLbmwtsvZWabodAty7T6F) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 2:49 | 2025-12-01 |  |
 | [Courage in Hand](https://open.spotify.com/track/4qOcEHxv7OVTysivvgXMNo) | [Entropy](https://open.spotify.com/artist/0Cu3aha8AS5TXuPRqQhzqt) | [Veil of Conformity](https://open.spotify.com/album/08LnVugedte5CXxpuqD9ey) | 5:53 | 2024-09-25 |  |
 | [Crap Apple](https://open.spotify.com/track/4YOhKKf8uV00LY7pvRqxQd) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 5:10 | 2025-06-21 |  |
@@ -1563,6 +1564,7 @@
 | [No era amor](https://open.spotify.com/track/7tvmnvzxQP2fkP4jIgoSib) | [Music Meets Tourism](https://open.spotify.com/artist/3Z8OU3bxIjEmNkZug9hrto), [DREA ELIS](https://open.spotify.com/artist/4igsB2sYA6iIu8eq4FPDU8) | [No era amor](https://open.spotify.com/album/5H0jzVGhifrWTYgpMY7rnS) | 3:02 | 2026-03-23 |  |
 | [No Estas Cerca](https://open.spotify.com/track/6wJgxcP6uexZ65xhyk2vyk) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [No Estas Cerca](https://open.spotify.com/album/2FYr0svN8acYaK0wID61rT) | 3:17 | 2026-03-30 |  |
 | [No Games](https://open.spotify.com/track/2PpdIACVUpJabH75OIaL5v) | [Mista Kleen](https://open.spotify.com/artist/26gVCMDXeuZSguWMLxkAVi) | [Level Up](https://open.spotify.com/album/0Ubri8H2HsxSycDhMS7sY0) | 4:24 | 2025-10-07 |  |
+| [No Hands](https://open.spotify.com/track/0VPLb6WsvR5W47W3t8hCC3) | [Big Mama German](https://open.spotify.com/artist/1kvY3jPpX5drPwPbXycagy) | [No Hands](https://open.spotify.com/album/3cE2NwVw5EZm3F3GaVYLio) | 2:32 | 2026-09-24 |  |
 | [No Me Faltes](https://open.spotify.com/track/6vRrzftD5VPE97cASRGDO6) | [Dany.Love](https://open.spotify.com/artist/3U04HRDLdtNVBZnEE6Y3le) | [No Me Faltes](https://open.spotify.com/album/3hCoH6JUGGzoiihYLssRVu) | 3:18 | 2026-03-30 |  |
 | [No Me Hables](https://open.spotify.com/track/2yu6eLRYCQGTlpIuMtgOV1) | [Manuel m clouds art](https://open.spotify.com/artist/6XqHezSWhMSFtWLrzu40C0) | [Sin Paris o New York](https://open.spotify.com/album/0XK7kSk0OdIHV3FrS3oyPC) | 4:15 | 2026-07-01 |  |
 | [NO ME PUEDO RENDIR](https://open.spotify.com/track/48kd0xa7KPJbOrvFzlBE2e) | [JNJ](https://open.spotify.com/artist/4ff88NG2akCbGQMhpYVV0o) | [DESDE 2022](https://open.spotify.com/album/1W9m2PNsLXU3EGFeoVeaHi) | 2:19 | 2025-05-28 |  |
@@ -2325,6 +2327,7 @@
 | [Tu Alma](https://open.spotify.com/track/5wrWG4D0EtdwY7LBy5J16X) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Alma](https://open.spotify.com/album/05jP4DHgPJyvhnbmLcGo5q) | 2:50 | 2026-01-25 |  |
 | [Tu Mirada](https://open.spotify.com/track/6MLXi2xmDabq9sWi0xzqLs) | [Jane Riascos](https://open.spotify.com/artist/5JTl6HjmqGYBPMsTzkn7On) | [Las Que No Iban a Salir](https://open.spotify.com/album/3lUyQwmKVxwfHv5Iay4Wv6) | 3:36 | 2025-10-19 |  |
 | [Tu Silencio \- Remastered](https://open.spotify.com/track/19ROBN6XmatCMeqWpaAhJe) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Tu Silencio](https://open.spotify.com/album/1JmsZxCxmvPl4Kssr3kYr5) | 2:54 | 2025-12-07 |  |
+| [Tu Silencio \- Remastered](https://open.spotify.com/track/7fsHq1IJWFyqUe99E0Ik9D) | [BORDONADO](https://open.spotify.com/artist/3SGH5JptdqoFlk1jN8rtfl) | [Es Inevitable](https://open.spotify.com/album/2JOR6WHs0j39Rh9VVttkzt) | 2:54 | 2026-09-24 |  |
 | [TU Y YO </3](https://open.spotify.com/track/3WAdNltwhgApGZ97cjRIoQ) | [ADRELL](https://open.spotify.com/artist/0J8QEZG5IIqwLnS3gABCMt) | [TU Y YO </3](https://open.spotify.com/album/3PtR0uDlMQFLCeB40Jshv8) | 3:11 | 2025-05-11 |  |
 | [Tudo Muda](https://open.spotify.com/track/4v6ZEyy4Ukgku16VyIk9EF) | [BRazznRAP](https://open.spotify.com/artist/0opoUWwLkyZY9V0p5yXkFc) | [BRazznRAP](https://open.spotify.com/album/1d17c5fo22LLQ9NWSAY6kP) | 2:22 | 2026-05-27 |  |
 | [Tuff Gong](https://open.spotify.com/track/6xt3sdreRvXRzXovhSviaC) | [Creation Rockers](https://open.spotify.com/artist/16KpRRvWm3CeTm5myGSQbw) | [Let's Make Waves](https://open.spotify.com/album/78qlBiCnNPt9mZrvNTtJBT) | 4:01 | 2024-05-01 |  |

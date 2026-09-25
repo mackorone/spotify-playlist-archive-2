@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 25081,
+  "num_followers": 25100,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAr75eaJZ7MWKGBuqbPWQhi",
+  "snapshot_id": "arMWgAAAAADnFyb2OlaycHyAHlgmOAmv",
   "tracks": [
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweetness (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 251326,
-      "name": "Sweetness (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 283313,
       "name": "Until The End Of Time",
       "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sweetness (feat. Leon Thomas)",
+        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 251326,
+      "name": "Sweetness (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
     },
     {
       "added_at": null,
@@ -515,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fix Your Face",
-        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
-      },
-      "artists": [
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 184450,
-      "name": "QVC (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUTT",
         "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 194247,
       "name": "Just How You Are",
       "url": "https://open.spotify.com/track/7KO0PWYRvoQMNdOZ4KHulW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fix Your Face",
+        "url": "https://open.spotify.com/album/181ArQxGlKkfBQhSqB01ee"
+      },
+      "artists": [
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 184450,
+      "name": "QVC (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/60IXj6K1ognoIeqD4ECIRH"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Set In Stone",
-        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
-      },
-      "artists": [
-        {
-          "name": "Rick Ross",
-          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 226942,
-      "name": "Remarkable Hussle",
-      "url": "https://open.spotify.com/track/32mzcN3gDjsTow89hs5SmR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "move it along (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 195454,
       "name": "move it along (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/0soeyncUVADZ35kNtrLZsk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Set In Stone",
+        "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
+      },
+      "artists": [
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 226942,
+      "name": "Remarkable Hussle",
+      "url": "https://open.spotify.com/track/32mzcN3gDjsTow89hs5SmR"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 207572,
-      "name": "Sunken Place",
-      "url": "https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv"
+      "duration_ms": 234809,
+      "name": "PLW",
+      "url": "https://open.spotify.com/track/6IWCYw5tcnEZfX5HPa8O5Z"
     },
     {
       "added_at": null,
@@ -835,42 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Documentary III",
-        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 298920,
-      "name": "Run It Up (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/6bJLLoNHb5PETQM2cfjzGW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Genesis",
-        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 234809,
-      "name": "PLW",
-      "url": "https://open.spotify.com/track/6IWCYw5tcnEZfX5HPa8O5Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FRANCIS",
         "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
       },
@@ -891,6 +855,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 207572,
+      "name": "Sunken Place",
+      "url": "https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUTT Deluxe: HEEL",
         "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 172844,
       "name": "PRIZE",
       "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Documentary III",
+        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 298920,
+      "name": "Run It Up (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/6bJLLoNHb5PETQM2cfjzGW"
     },
     {
       "added_at": null,

@@ -494,7 +494,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 152480,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/0iBHHUX6baFfDCs5cQzv5I"
@@ -516,6 +516,24 @@
       "duration_ms": 152480,
       "name": "ANOTHER DAY",
       "url": "https://open.spotify.com/track/3SQz76liYsbuuXyNLSLQu1"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/2nV5MU7ITUSRE97BT1TsK6"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152480,
+      "name": "ANOTHER DAY",
+      "url": "https://open.spotify.com/track/6t8FYoGOh31ssc9zS4OO6u"
     },
     {
       "album": {
@@ -8250,10 +8268,28 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 208762,
       "name": "TURN UP",
       "url": "https://open.spotify.com/track/2OsrEaBGJjORvRwLzvnSDy"
+    },
+    {
+      "album": {
+        "name": "PARTYMOBILE",
+        "url": "https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208762,
+      "name": "TURN UP",
+      "url": "https://open.spotify.com/track/6H60e8itknY1xRBzBTq5nT"
     },
     {
       "album": {

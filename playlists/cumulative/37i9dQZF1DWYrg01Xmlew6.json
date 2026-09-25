@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo rap da Napoli e dalla Campania. Frezza in cover.",
+  "description": "Solo rap da Napoli e dalla Campania. DDM in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -446,7 +446,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 131296,
       "name": "A ROT GIR",
       "url": "https://open.spotify.com/track/3twNLjZOcirgWcvGyFLpwL"
@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 157714,
       "name": "BALENCIAGA",
       "url": "https://open.spotify.com/track/2iDu16AN5W9AKa4QXrgtKH"
@@ -2864,6 +2864,32 @@
       "duration_ms": 148028,
       "name": "COMME E 'MERICAN",
       "url": "https://open.spotify.com/track/79RxhsVu4IhMdD9V1Binmg"
+    },
+    {
+      "album": {
+        "name": "Confetti",
+        "url": "https://open.spotify.com/album/2ITQeAS7YdCjyGch5PK3ni"
+      },
+      "artists": [
+        {
+          "name": "DDM 80146",
+          "url": "https://open.spotify.com/artist/0G8zq8IrKIR5at4Lsq2XmV"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Whizy",
+          "url": "https://open.spotify.com/artist/5Cb508kGFzNJvPDsu9KgP2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Confetti",
+      "url": "https://open.spotify.com/track/1LpL0GnZJCONyXCradymzL"
     },
     {
       "album": {
@@ -12598,6 +12624,24 @@
       "duration_ms": 146819,
       "name": "TOT\u00d3 E NINETTA",
       "url": "https://open.spotify.com/track/54mnZksfn6O5Cieq7F6dbR"
+    },
+    {
+      "album": {
+        "name": "O'SFACCIMM RO REP 2",
+        "url": "https://open.spotify.com/album/3KS1Rr4JhDP1Qfl44gf0a8"
+      },
+      "artists": [
+        {
+          "name": "Mumei",
+          "url": "https://open.spotify.com/artist/1RfsFDw4R7x14OT4DYudKQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 4",
+      "url": "https://open.spotify.com/track/7vs1ObCmNfHDY87Xe9a1K4"
     },
     {
       "album": {

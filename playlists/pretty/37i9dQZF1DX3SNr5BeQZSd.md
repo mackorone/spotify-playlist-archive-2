@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > the freshest lofi beats, handpicked for chill, focus, or study vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,068 likes - 100 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,108 likes - 100 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

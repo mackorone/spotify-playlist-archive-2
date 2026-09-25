@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "It's giving Jhen\u00e9 Aiko...",
+  "description": "It's giving Ms. Lauren...",
   "name": "Vibes",
   "tracks": [
     {
@@ -471,6 +471,24 @@
     },
     {
       "album": {
+        "name": "alles in.",
+        "url": "https://open.spotify.com/album/1lsJZvPwaMFTuK3aMg15SK"
+      },
+      "artists": [
+        {
+          "name": "Kim Petite",
+          "url": "https://open.spotify.com/artist/6A1hTvjGU0EkHlsNu6Vnq6"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177874,
+      "name": "alles in.",
+      "url": "https://open.spotify.com/track/6Clejmlj90tyKx6qyArk5i"
+    },
+    {
+      "album": {
         "name": "Kempi x Drayson Gashi",
         "url": "https://open.spotify.com/album/1vIOU9EgoYUYkizrPBUCMx"
       },
@@ -801,6 +819,28 @@
     },
     {
       "album": {
+        "name": "BAD ONE",
+        "url": "https://open.spotify.com/album/3qSW5xOCF7tDbtvObZevtv"
+      },
+      "artists": [
+        {
+          "name": "Dammie",
+          "url": "https://open.spotify.com/artist/5SMdr117AWhgV6HusRQjjb"
+        },
+        {
+          "name": "Ky Janea",
+          "url": "https://open.spotify.com/artist/5jaQoL0k6l3BHdF24j42im"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171122,
+      "name": "BAD ONE",
+      "url": "https://open.spotify.com/track/5mThWfSpSqYca45pvizvrH"
+    },
+    {
+      "album": {
         "name": "BADDIE ANTHEM (feat. KM)",
         "url": "https://open.spotify.com/album/2fPqVvr5YBOhTelZP7zhUA"
       },
@@ -852,7 +892,7 @@
       ],
       "date_added": "2026-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 190624,
       "name": "Bai Cau Verde",
       "url": "https://open.spotify.com/track/1DABugvwE3LK0AhVpbB6Kg"
@@ -2096,7 +2136,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 175392,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6UoKp1SuKY7grNLHzRkYAY"
@@ -2216,7 +2256,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 184000,
       "name": "Everything",
       "url": "https://open.spotify.com/track/0PbA0u7lw4UMwx8zJy25sJ"
@@ -2780,7 +2820,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 117000,
       "name": "Gevaarlijk",
       "url": "https://open.spotify.com/track/7kuPk2p387tnOYTTGu0FmK"
@@ -2960,6 +3000,24 @@
       "duration_ms": 232424,
       "name": "Good Flirts (feat. Kendrick Lamar & Momo Boyd)",
       "url": "https://open.spotify.com/track/5sHeIGDbdzw8DeO57XZKIy"
+    },
+    {
+      "album": {
+        "name": "Ms. Lauren",
+        "url": "https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134413,
+      "name": "Good Gyal",
+      "url": "https://open.spotify.com/track/6Qtb8J5uwcqGfVMcDNFFZD"
     },
     {
       "album": {
@@ -3708,7 +3766,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 237344,
       "name": "Janice STFU",
       "url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
@@ -3760,6 +3818,28 @@
       "duration_ms": 159111,
       "name": "Je Maakt Me Gek",
       "url": "https://open.spotify.com/track/0XBkVcQuFE3kb6p9XdMDsM"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Jet Lag",
+      "url": "https://open.spotify.com/track/5CYfZNnRoSRzMwaLyl4ey1"
     },
     {
       "album": {
@@ -3894,7 +3974,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 145777,
       "name": "Karma",
       "url": "https://open.spotify.com/track/5oD5K28sLSlFkqg9ZxznPJ"
@@ -4668,7 +4748,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 176385,
       "name": "Mami Van Pa",
       "url": "https://open.spotify.com/track/4R4ixRPFzRYxGaoIBKcnpL"
@@ -5466,7 +5546,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 185806,
       "name": "NOBLE",
       "url": "https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw"
@@ -5622,7 +5702,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 120410,
       "name": "On My Mind",
       "url": "https://open.spotify.com/track/1wf6avCJvxMmxoSS9TdMQ0"
@@ -5816,6 +5896,24 @@
       "duration_ms": 167011,
       "name": "Outside",
       "url": "https://open.spotify.com/track/5g4iF0EyHKtuduFzbnDqyV"
+    },
+    {
+      "album": {
+        "name": "Ms. Lauren",
+        "url": "https://open.spotify.com/album/1V1B6QOOeJexGmKbgHDIWL"
+      },
+      "artists": [
+        {
+          "name": "Yade Lauren",
+          "url": "https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156518,
+      "name": "P(r)etty B!tch",
+      "url": "https://open.spotify.com/track/3Dq4gyFbRihKbZLiXgCvrx"
     },
     {
       "album": {
@@ -6526,7 +6624,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 208706,
       "name": "Rihanna",
       "url": "https://open.spotify.com/track/23Y3IYu82OxwSWC1f2ILyl"
@@ -6888,7 +6986,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 154172,
       "name": "Single",
       "url": "https://open.spotify.com/track/2Y3q7CYmTA2rgcbeBMr2Xg"
@@ -7086,7 +7184,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 155862,
       "name": "Soldaat",
       "url": "https://open.spotify.com/track/5Al4e3djHTg3N5xcdL06bU"
@@ -8030,7 +8128,7 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 164836,
       "name": "Tweede Kans",
       "url": "https://open.spotify.com/track/1gPKDvkasYXdW8rYVfiNJl"
@@ -8274,6 +8372,28 @@
       "duration_ms": 133917,
       "name": "VOOR DE FAMILY",
       "url": "https://open.spotify.com/track/4uvtQck40L034n3mvKQInH"
+    },
+    {
+      "album": {
+        "name": "Voor Niets",
+        "url": "https://open.spotify.com/album/1uyyU8eMr1aMb7sGn7Cmeq"
+      },
+      "artists": [
+        {
+          "name": "Vensly",
+          "url": "https://open.spotify.com/artist/1yalnSfdVdX8qVMbCodMoA"
+        },
+        {
+          "name": "Jae Em",
+          "url": "https://open.spotify.com/artist/2GTCKUqFILAWo2uCdwWbpE"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165473,
+      "name": "Voor Niets",
+      "url": "https://open.spotify.com/track/2wClxOxrz2DU09sOzSovyU"
     },
     {
       "album": {
@@ -8752,7 +8872,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 151627,
       "name": "WiLD",
       "url": "https://open.spotify.com/track/5T9VKbxu42p3c4gw0jVSVA"

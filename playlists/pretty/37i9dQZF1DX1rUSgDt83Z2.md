@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 
 > Fijn voor thuis of op werk\. Helemaal van eigen bodem 🇳🇱
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,646 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,669 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rUSgDt83Z2.md) - [plain]
 | 34 | [Wat Had Jij Van Mij Verwacht](https://open.spotify.com/track/6Ln5NYIuzJ8baOwoCRP7Kz) | [Gizbey](https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq) | [Wat Had Jij Van Mij Verwacht](https://open.spotify.com/album/0d7TswwHubviX1mnZzbUSN) | 2:57 |
 | 35 | [Oktober](https://open.spotify.com/track/02j536VrQkcqkyhQwJSCCz) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Oktober](https://open.spotify.com/album/0te6Y7z1sZ0YPXujBUUvgW) | 3:21 |
 | 36 | [Vergeef Me](https://open.spotify.com/track/3uWDhz3cIoWzN1944cUmq6) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Vergeef Me](https://open.spotify.com/album/1sr1TbYn17UxMa6xOqoSaN) | 3:02 |
-| 37 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 |
-| 38 | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6) | 4:10 |
-| 39 | [Half Open](https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Half Open](https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc) | 2:29 |
-| 40 | [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 |
-| 41 | [Kingsize Bed](https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Kingsize Bed](https://open.spotify.com/album/14h229HZfdrktan1EQaaIT) | 2:34 |
-| 42 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 |
-| 43 | [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 |
-| 44 | [Wat Er Morgen Komt](https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Wat Er Morgen Komt](https://open.spotify.com/album/792TgZ3757WTiZjv4fovlt) | 2:46 |
-| 45 | [Niets Meer](https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Leven In De Leegte](https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe) | 3:31 |
-| 46 | [Met de tijd](https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Met de tijd](https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW) | 3:31 |
-| 47 | [Hou van mezelf](https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43) | [Pleun](https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx) | [Hou van mezelf](https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD) | 3:00 |
-| 48 | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 |
-| 49 | [Je weet dat ik zo ben](https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [Je weet dat ik zo ben](https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr) | 3:02 |
-| 50 | [Als je eerlijk bent, Ben](https://open.spotify.com/track/6ToR2lNMZho12BD8BvWBK5) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Als je eerlijk bent, Ben](https://open.spotify.com/album/2eWTXaYSJQy8j36o5OJHj2) | 2:36 |
+| 37 | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/track/2kDciEprIhpMKgJxsCMXpn) | [Kimberly Fransens](https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk) | [Nu Jij Hier Niet Meer Bent](https://open.spotify.com/album/0IEqWsZp8XYUW8eqHxdLe6) | 4:10 |
+| 38 | [Half Open](https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7) | [Jasmijn Torrico](https://open.spotify.com/artist/5SIrXx5lWESWersjGYRywZ) | [Half Open](https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc) | 2:29 |
+| 39 | [Alles Wat Ik Zoek \- Radio Edit](https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Alles Wat Ik Zoek \(Radio Edit\)](https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt) | 2:48 |
+| 40 | [Kingsize Bed](https://open.spotify.com/track/1V7NFChveWl2i1QkT4PyBb) | [Hansen Tomas](https://open.spotify.com/artist/6LpWW2eQCLzIIJEVys9Xg5) | [Kingsize Bed](https://open.spotify.com/album/14h229HZfdrktan1EQaaIT) | 2:34 |
+| 41 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 |
+| 42 | [Mes In M'n Rug](https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1) | [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2024 \(Aflevering 4\- SERA\)](https://open.spotify.com/album/0hrDw65YQjmEmM38cBHF1V) | 2:57 |
+| 43 | [Wat Er Morgen Komt](https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Wat Er Morgen Komt](https://open.spotify.com/album/792TgZ3757WTiZjv4fovlt) | 2:46 |
+| 44 | [Niets Meer](https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj) | [Hiigo](https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX) | [Leven In De Leegte](https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe) | 3:31 |
+| 45 | [Met de tijd](https://open.spotify.com/track/5EHMrjRk0K07KSlz93XPNA) | [Anouk & Yora](https://open.spotify.com/artist/5xBk20bBlcLJV5ZLS3EgfQ) | [Met de tijd](https://open.spotify.com/album/4LshNNq3ZIxCkzKDkjukyW) | 3:31 |
+| 46 | [Hou van mezelf](https://open.spotify.com/track/0FcqV3x0ctMnnK82W2TA43) | [Pleun](https://open.spotify.com/artist/3pb53tofp8YlvcYAlWHNjx) | [Hou van mezelf](https://open.spotify.com/album/2yDI54RFHQgh3MvGPAhcqD) | 3:00 |
+| 47 | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/track/2zdytivZ0uHPIJdMwPFfPG) | [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU) | [Ik Voel Me Zo Verdomd Alleen](https://open.spotify.com/album/0oX41WkvPP4HxEVFJr6Y37) | 3:17 |
+| 48 | [Je weet dat ik zo ben](https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [Je weet dat ik zo ben](https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr) | 3:02 |
+| 49 | [Als je eerlijk bent, Ben](https://open.spotify.com/track/6ToR2lNMZho12BD8BvWBK5) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Als je eerlijk bent, Ben](https://open.spotify.com/album/2eWTXaYSJQy8j36o5OJHj2) | 2:36 |
+| 50 | [Je bent de lente](https://open.spotify.com/track/7iFnSru1Fn45zNVQnWcLCL) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Ruimte](https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8) | 2:44 |
 
-Snapshot ID: `AAAAAKQ4Mq9N5yUZMOv/3pl9Kh+0iNrl`
+Snapshot ID: `AAAAAJ1JyDxAubs+EtY/kwXUPsLpMcs2`

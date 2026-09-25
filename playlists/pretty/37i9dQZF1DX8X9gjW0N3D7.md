@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\.  Photo: Orange Lessard
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,671 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,674 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 31 | [LLL](https://open.spotify.com/track/0i8ApYhcfjA3Xm2l3Ki5UH) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [LLL](https://open.spotify.com/album/26hxENh1EdzBUqa1Xw4kdj) | 3:33 |
 | 32 | [Ce soir](https://open.spotify.com/track/6ERxoACVyeHr3Y5yhSpcM3) | [Justin Roy](https://open.spotify.com/artist/0fQlhpsdr8Qg3w1PDQ7xIc) | [Ce soir](https://open.spotify.com/album/1NV4AgVoAjgKfWpQwhYA7S) | 1:53 |
 | 33 | [Voz de mi vida](https://open.spotify.com/track/6szdFD6E3qZorOiVV5bhKk) | [Luan Larobina](https://open.spotify.com/artist/37q74NMKjVZ4fwH0OZhk6h) | [Voz de mi vida](https://open.spotify.com/album/2s7tiJxU39CIoTA8jnmgKt) | 3:36 |
-| 34 | [ENCORE ENCORE](https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [ENCORE ENCORE](https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae) | 3:11 |
-| 35 | [J'y crois encore](https://open.spotify.com/track/2oG5zzMtDMuzVa2B6BkiYJ) | [Sarcass](https://open.spotify.com/artist/48tVSe8bX8VQqQoZcfvjKT), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [J'y crois encore](https://open.spotify.com/album/0CrimEx2EQaG7ogzNcqAzO) | 2:41 |
+| 34 | [J'y crois encore](https://open.spotify.com/track/2oG5zzMtDMuzVa2B6BkiYJ) | [Sarcass](https://open.spotify.com/artist/48tVSe8bX8VQqQoZcfvjKT), [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [J'y crois encore](https://open.spotify.com/album/0CrimEx2EQaG7ogzNcqAzO) | 2:41 |
+| 35 | [ENCORE ENCORE](https://open.spotify.com/track/5BoKkmRZBVbpjrdoMe92TO) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [ENCORE ENCORE](https://open.spotify.com/album/5PVXBvRLA9BOPnRU0CYLae) | 3:11 |
 | 36 | [Natalie \(40 Seasons Later\)](https://open.spotify.com/track/1bsLzTJRbc3uUm8PNJV5vM) | [Milk & Bone](https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW) | [Natalie \(40 Seasons Later\)](https://open.spotify.com/album/1E2IiNX98czYyc2R5T0vk1) | 5:32 |
 | 37 | [Avant qu'il soit trop tard](https://open.spotify.com/track/2y5sRb7a6wTo2pw3QCEbv8) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [Malgré la tempête \(Deluxe\)](https://open.spotify.com/album/2AMcBo3OVy62xvx5mTzp1N) | 2:40 |
 | 38 | [Dolbeau\-Mistassini](https://open.spotify.com/track/5Ejwm3xvqMyuLM2btmlez3) | [Sara Dufour](https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S) | [Dolbeau\-Mistassini](https://open.spotify.com/album/0DDjMNHZOil5RG3pemaAMW) | 3:43 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 50 | [BURN LIKE FYA](https://open.spotify.com/track/6LBAvxT2JG8sz0MchIyx13) | [Samant](https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x), [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH) | [ATMANS](https://open.spotify.com/album/7N0q4kL78W1sQImoLTDdgx) | 2:08 |
 | 51 | [Je fais confiance au temps](https://open.spotify.com/track/36u2u14w4ljjuuty5gZU80) | [Mahéja](https://open.spotify.com/artist/3OktdsskNPl1C0BhqZABKM) | [Je fais confiance au temps](https://open.spotify.com/album/4LJ89cRVfrAUPGDmNyVV6U) | 3:17 |
 | 52 | [Si les bateaux](https://open.spotify.com/track/6NSZLL51gW99UML3gcSiog) | [Gilles Vigneault](https://open.spotify.com/artist/4UKAN8YgrM7EZkAW4NbH9F), [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Si les bateaux](https://open.spotify.com/album/1Kyq2KWn4sQ9bDn6QFmLGK) | 3:13 |
-| 53 | [memory hoarder](https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [memory hoarder](https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS) | 3:47 |
-| 54 | [Oiseaux de Paradis](https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Oiseaux de Paradis](https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt) | 2:04 |
+| 53 | [Oiseaux de Paradis](https://open.spotify.com/track/4vQjdtvs6U5j7qtm3be4ii) | [Lewis Dice](https://open.spotify.com/artist/1iaZQt5adyiD1DrDwYjCea) | [Oiseaux de Paradis](https://open.spotify.com/album/0AXDQPjo1lF6EqO2maXujt) | 2:04 |
+| 54 | [memory hoarder](https://open.spotify.com/track/2NAjsYLwxG8niDkdSwLTnU) | [l i l a](https://open.spotify.com/artist/36DAMwnbeEoi00GrX1eesi) | [memory hoarder](https://open.spotify.com/album/5M30piph0aBjlKzOBEY2JS) | 3:47 |
 | 55 | [Conversation dans le noir](https://open.spotify.com/track/1lKVk8XbAK4NPbyL6Z6Lux) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Conversation dans le noir](https://open.spotify.com/album/2LlFePY2ffrJGGVom2wq4V) | 3:50 |
 | 56 | [Parfait pays](https://open.spotify.com/track/2fVawqtSr6t5yVIBAXEjFM) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM), [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF) | [Parfait pays](https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf) | 2:19 |
 | 57 | [we were fire](https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG) | [Félix Collin](https://open.spotify.com/artist/1LdaP4F8M6XzkmVAfsSQ1s) | [we were fire](https://open.spotify.com/album/6RFN9IU19eOFxTFE2RKJgb) | 3:04 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 67 | [Cimetière](https://open.spotify.com/track/4ATBchsxcAjYF9fd8cNfIr) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Deux places au cimetière](https://open.spotify.com/album/2Gar69x6vCCYKUfuTLvVUf) | 3:33 |
 | 68 | [Tempest](https://open.spotify.com/track/6qzbv4synrNgulOc6gMuzk) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Tempest](https://open.spotify.com/album/1nnqPTPgiJfgqEws63p2II) | 3:25 |
 | 69 | [Rinque de même que c'est](https://open.spotify.com/track/7tVYfVCnZCmA6fGRIYuvtU) | [P'tit Belliveau](https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM) | [Rinque de même que c'est](https://open.spotify.com/album/5tvfkwvUVNQCd5kNNZhunQ) | 3:33 |
-| 70 | [..\. And The Next Day](https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n) | [Melissa Auf der Maur](https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP) | [BASS WOMB ROOM: My ‘90s 4\-Track Demos x Field Recordings](https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p) | 3:41 |
-| 71 | [On partira](https://open.spotify.com/track/2xsjEoNJ4nMvTFKK3oPT1y) | [Olivier Bergeron](https://open.spotify.com/artist/3nRGJPFVnaypObeVuOkb72) | [On partira](https://open.spotify.com/album/1KTaBrNmY0O4QSEZfmkqzT) | 2:24 |
+| 70 | [On partira](https://open.spotify.com/track/2xsjEoNJ4nMvTFKK3oPT1y) | [Olivier Bergeron](https://open.spotify.com/artist/3nRGJPFVnaypObeVuOkb72) | [On partira](https://open.spotify.com/album/1KTaBrNmY0O4QSEZfmkqzT) | 2:24 |
+| 71 | [..\. And The Next Day](https://open.spotify.com/track/5InE9SicL7UXEdGeg92g9n) | [Melissa Auf der Maur](https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP) | [BASS WOMB ROOM: My ‘90s 4\-Track Demos x Field Recordings](https://open.spotify.com/album/6fjU91qQwCfo7tlQ2yQx8p) | 3:41 |
 | 72 | [Gold in California](https://open.spotify.com/track/6A8iDAtKZddFTIZjATOCqp) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Gold in California](https://open.spotify.com/album/0OMEpNlaFqVOepQFBzHRAm) | 3:34 |
 | 73 | [If Time ’26](https://open.spotify.com/track/4akzkJlxy9FDpa5axng9CE) | [Hansom Ēli](https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh) | [If Time '26](https://open.spotify.com/album/0iCNkmgtnmryJH1R59l3U6) | 3:12 |
 | 74 | [Isabella](https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV) | [Violette & Jordan](https://open.spotify.com/artist/4XaeJvSMX3h2oSt88pAoGj) | [Isabella](https://open.spotify.com/album/39rkQsb7O9jo3Edo2idqiP) | 4:08 |

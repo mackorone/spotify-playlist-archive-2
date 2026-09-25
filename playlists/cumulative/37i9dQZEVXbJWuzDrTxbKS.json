@@ -5688,7 +5688,7 @@
       ],
       "date_added": "2025-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 153451,
       "name": "Baudam!",
       "url": "https://open.spotify.com/track/3yg4Ms4JFRN24LV0t2EL8q"
@@ -5862,7 +5862,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -6300,7 +6300,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 201000,
       "name": "Bezdarbnieks",
       "url": "https://open.spotify.com/track/3LpgRnosHNXRpLRrUn0ua2"
@@ -11612,7 +11612,7 @@
       ],
       "date_added": "2023-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160000,
       "name": "DEGVIELA",
       "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
@@ -15810,7 +15810,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-03",
+      "date_removed": null,
       "duration_ms": 260990,
       "name": "Everyday (feat. Rod Stewart, Miguel & Mark Ronson)",
       "url": "https://open.spotify.com/track/2N3U8uTYhjX2KwGT0pf5x0"
@@ -27962,7 +27962,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 317293,
       "name": "Les",
       "url": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4"
@@ -29570,7 +29570,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -40740,7 +40740,7 @@
       ],
       "date_added": "2022-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-24",
+      "date_removed": null,
       "duration_ms": 205813,
       "name": "Praise The Lord (Da Shine) (feat. Skepta)",
       "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
@@ -46209,6 +46209,24 @@
     },
     {
       "album": {
+        "name": "SINEPES & MEDUS",
+        "url": "https://open.spotify.com/album/07vqq7nZkybp62BKxul4QW"
+      },
+      "artists": [
+        {
+          "name": "Sudrabu Sirds",
+          "url": "https://open.spotify.com/artist/5IxWv5qXFhkzRt91O4i6gU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142539,
+      "name": "SINEPES & MEDUS",
+      "url": "https://open.spotify.com/track/37HQPoxJwvQTCjUWxQbMLf"
+    },
+    {
+      "album": {
         "name": "POSTAPOCALYPTIC",
         "url": "https://open.spotify.com/album/1IutnskBS7ga7xmHYF8C7q"
       },
@@ -49848,7 +49866,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -49866,7 +49884,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -50686,7 +50704,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
@@ -50704,7 +50722,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
@@ -54564,7 +54582,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 315280,
       "name": "Tu Saki",
       "url": "https://open.spotify.com/track/3tzNVqoedgEnkeuYzwJ2Xa"
@@ -56156,7 +56174,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 93191,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/67AYRR5wUzUSpicF2iigOO"
@@ -60148,7 +60166,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 244887,
       "name": "Zvaigzn\u012bte",
       "url": "https://open.spotify.com/track/0GJglgwrh4cWMKJ366sGHQ"

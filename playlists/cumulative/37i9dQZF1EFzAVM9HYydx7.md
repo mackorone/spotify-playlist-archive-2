@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-364 songs - 22 hr 17 min
+365 songs - 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,8 @@
 | [Too Soon?](https://open.spotify.com/track/7rkIQfm5giweK9Xjwbtg7n) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [No Longer in the Suburbs](https://open.spotify.com/album/7nIjAGTcRgcMjpJbtlXrZ8) | 3:04 | 2025-07-11 |  |
 | [Touch Down](https://open.spotify.com/track/6jB56tohVWjdqkfNv4RS7s) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Chasing Summer](https://open.spotify.com/album/7mU7c3lx4jCFocOYEc2rs7) | 2:55 | 2023-12-13 |  |
 | [TOUCH ME](https://open.spotify.com/track/0ynB9ywLFT4EDFO1gOz0p3) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3XlxfDJEXSDdMFWh1hsg16) | 3:46 | 2025-11-26 | 2026-09-24 |
-| [TOUCH ME](https://open.spotify.com/track/3HE0qnw60B0KOKYmI6iNVZ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX) | 3:46 | 2026-09-23 |  |
+| [TOUCH ME](https://open.spotify.com/track/3HE0qnw60B0KOKYmI6iNVZ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/1uHGzrEgGnRgBlYKeC4wPX) | 3:46 | 2026-09-23 | 2026-09-25 |
+| [TOUCH ME](https://open.spotify.com/track/7d6eKiPc5IzdZO28iT9cdh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/3QqKeKqpxff3TwfcIPTo5a) | 3:46 | 2026-09-24 |  |
 | [Tough Love](https://open.spotify.com/track/1Y96TJIhZCg8gyvOKalieY) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 4:04 | 2023-12-13 |  |
 | [Traumatized](https://open.spotify.com/track/3MhauDni0SoCRSfv3eSrts) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [Dreams and Nightmares \(Deluxe Edition\)](https://open.spotify.com/album/0zhZDmHEtDtok393SbZ3d7) | 4:10 | 2023-12-13 |  |
 | [Tsunami](https://open.spotify.com/track/6a2lBvIpei0ZJGsDr9nL82) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Shoot For The Stars Aim For The Moon \(Deluxe\)](https://open.spotify.com/album/6CPPV9JBLRKEM0O13A3WdU) | 3:28 | 2026-02-13 |  |

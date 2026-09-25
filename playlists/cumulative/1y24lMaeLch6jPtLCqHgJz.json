@@ -978,7 +978,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 229778,
       "name": "Be Free",
       "url": "https://open.spotify.com/track/74qL4Hr4I8papcKrpTVAw5"
@@ -1310,7 +1310,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 183518,
       "name": "Blah Blah Blah",
       "url": "https://open.spotify.com/track/3W52hasitO4FOzRkZWtgMy"
@@ -2124,7 +2124,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 271426,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c"
@@ -5553,6 +5553,32 @@
     },
     {
       "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/4gXAPY4A4HdiNcO9oXMN93"
+      },
+      "artists": [
+        {
+          "name": "RAM",
+          "url": "https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX"
+        },
+        {
+          "name": "Richard Durand",
+          "url": "https://open.spotify.com/artist/7wne8sUhTAJdIsnuO4GjnR"
+        },
+        {
+          "name": "Digital Culture",
+          "url": "https://open.spotify.com/artist/7JMIkI5oJTy7hNgNaIriN1"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132924,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/3DU0c6mgNlhZUVNOFJjdL8"
+    },
+    {
+      "album": {
         "name": "La La Life",
         "url": "https://open.spotify.com/album/3DQSbcTRwObXj0zEDCPFi0"
       },
@@ -5809,6 +5835,24 @@
     },
     {
       "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/2vzpanRSO571AItAEf6eD9"
+      },
+      "artists": [
+        {
+          "name": "MatricK",
+          "url": "https://open.spotify.com/artist/3K0HRfLEyOW4FtCzUxltQH"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190375,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/2mDS195cS02mQgoPBzF4wX"
+    },
+    {
+      "album": {
         "name": "Lose My Breath",
         "url": "https://open.spotify.com/album/2gZEGpM7495Gnwknm2QN9E"
       },
@@ -5886,7 +5930,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 248035,
       "name": "Losing It",
       "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
@@ -7256,7 +7300,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 166451,
       "name": "Piece Of Your Heart - Alok Remix",
       "url": "https://open.spotify.com/track/6iW38RGqdDGOofmz2HeXLW"
@@ -7748,6 +7792,28 @@
       "duration_ms": 202739,
       "name": "Rivers",
       "url": "https://open.spotify.com/track/32yfHmv0jojX6dOKKiIE5F"
+    },
+    {
+      "album": {
+        "name": "Rocket Ship",
+        "url": "https://open.spotify.com/album/4oRRM6RcW58osOSG0YXWeX"
+      },
+      "artists": [
+        {
+          "name": "Dyro",
+          "url": "https://open.spotify.com/artist/03MVmfitJTVJIxYmObhQn9"
+        },
+        {
+          "name": "DJ TORA",
+          "url": "https://open.spotify.com/artist/3hBt6RvhQQlRIeDiNH2HeS"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191903,
+      "name": "Rocket Ship",
+      "url": "https://open.spotify.com/track/0GXEuuv4p23l28Yp3lqLio"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 > This is Scorpions\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,526 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,570 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 38 | [Don't Believe Her](https://open.spotify.com/track/6mPsYhcy0UIScC4YyekLr0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 4:55 |
 | 39 | [Tainted Love](https://open.spotify.com/track/1abFEUbbAk8kQNOzy301Qt) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 3:27 |
 | 40 | [I'm Leaving You](https://open.spotify.com/track/2fRsjOJmVATsGho7UD6GJw) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:17 |
-| 41 | [The Good Die Young](https://open.spotify.com/track/2a29hcaZHQu1hQGeObMPuP) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 5:14 |
-| 42 | [Alien Nation](https://open.spotify.com/track/6fNGyaXIolVXwKH9C1Ew8k) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 5:43 |
+| 41 | [Alien Nation](https://open.spotify.com/track/6fNGyaXIolVXwKH9C1Ew8k) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Face The Heat](https://open.spotify.com/album/1SkW9MEOK2qqY8bWTAu2Q0) | 5:43 |
+| 42 | [The Good Die Young](https://open.spotify.com/track/2a29hcaZHQu1hQGeObMPuP) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 5:14 |
 | 43 | [We Built This House](https://open.spotify.com/track/3A4IneIM1MdcmW0ZuV8ZYg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Return to Forever](https://open.spotify.com/album/0RusB2gbtyrdcHEymyycdO) | 3:53 |
 | 44 | [Viento De Cambio](https://open.spotify.com/track/54bvGj5P8X4yK6E2zvMhCW) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Las Rolas Acústicas Favoritas de Papá](https://open.spotify.com/album/4dC6fwtkeS2sxWMr7Bloid) | 5:08 |
 | 45 | [The Game of Life](https://open.spotify.com/track/5ArG8t9RvmzhFFvhemwfo6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Humanity \- Hour I](https://open.spotify.com/album/1XjYFFyWcK17Pqm03PnNss) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [SLY](https://open.spotify.com/track/251NWV5NpXsGQJ6OR2YjVi) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 5:16 |
 | 50 | [Coming Home](https://open.spotify.com/track/00LQrrlaoPrNwOXBvu1W8W) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 4:59 |
 
-Snapshot ID: `arHFAAAAAABsvm+2PWh1MZsdSSzGraEg`
+Snapshot ID: `arMWgAAAAAD+OQfdkycjIq2sMRnYmmT9`

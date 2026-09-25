@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Khuphuka lapho\u2026 seku-late! Cover: Saliwa",
+  "description": "Khuphuka lapho\u2026 seku-late! Cover: Skhanga",
   "name": "Bhinca Nation",
   "tracks": [
     {
@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Angisamfuni",
+        "url": "https://open.spotify.com/album/2Cq73oPliCuA6lHbAQxIof"
+      },
+      "artists": [
+        {
+          "name": "AMASINAMUVA AMASHA",
+          "url": "https://open.spotify.com/artist/7iHW2UL99LBihXGg6iKfUV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288208,
+      "name": "Angisamfuni",
+      "url": "https://open.spotify.com/track/6IPdNkZbW8HuIn3qYlWwS3"
+    },
+    {
+      "album": {
         "name": "Angsakhoni",
         "url": "https://open.spotify.com/album/5BqRwQhNm7LwO4n9NcjzjO"
       },
@@ -462,7 +480,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 296052,
       "name": "Angsakhoni",
       "url": "https://open.spotify.com/track/21XL4xGIm6VhWSZF5uFYZb"
@@ -1092,7 +1110,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 294582,
       "name": "Emendweni (Official Audio)",
       "url": "https://open.spotify.com/track/7y7rkoxppjGCyanzPR1Ni3"
@@ -1680,6 +1698,28 @@
       "duration_ms": 307933,
       "name": "Imali Yesoso",
       "url": "https://open.spotify.com/track/28ZztKoH4iovdVamlbNEPR"
+    },
+    {
+      "album": {
+        "name": "ISITHUNZI SAKHO",
+        "url": "https://open.spotify.com/album/6hnBOxJOqTvIUtiLdva8c0"
+      },
+      "artists": [
+        {
+          "name": "Udumakahle",
+          "url": "https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq"
+        },
+        {
+          "name": "Shwi noMtekhala",
+          "url": "https://open.spotify.com/artist/3u7RxCpLc0QpXX6wiVWKZ6"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289724,
+      "name": "Imbali (feat. Shwi noMtekhala)",
+      "url": "https://open.spotify.com/track/7r55BDG860Wm5XVxWGmOx4"
     },
     {
       "album": {
@@ -2500,7 +2540,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 260665,
       "name": "Isifebe Sendoda",
       "url": "https://open.spotify.com/track/1otdCFUdWjT0yLWOfFr6kc"
@@ -2698,6 +2738,24 @@
       "duration_ms": 263004,
       "name": "Ithuba",
       "url": "https://open.spotify.com/track/2DTnuVhrGnLcmgutAW4vb1"
+    },
+    {
+      "album": {
+        "name": "Itiyelami",
+        "url": "https://open.spotify.com/album/2u2pqhJOZs5CA7GvWbEkKZ"
+      },
+      "artists": [
+        {
+          "name": "Lihle Xhakaza",
+          "url": "https://open.spotify.com/artist/6GD0nzyhk6IOrjnUOWb25a"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287477,
+      "name": "Itiyelami",
+      "url": "https://open.spotify.com/track/05kya0ahjwCDxbQOi1POoF"
     },
     {
       "album": {
@@ -2908,7 +2966,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 224365,
       "name": "Kudala Ngakhuleka",
       "url": "https://open.spotify.com/track/0gj0vMgVm7an7RVi6gBxRh"
@@ -4355,6 +4413,32 @@
     },
     {
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/2A71SPMibbBEF8hg5rdsOD"
+      },
+      "artists": [
+        {
+          "name": "Digital Maskandi",
+          "url": "https://open.spotify.com/artist/65yZ3NmkReEd509wquNGJr"
+        },
+        {
+          "name": "Jaiva Zimnike",
+          "url": "https://open.spotify.com/artist/7ujkKN7VfUAKYgAvUu84vZ"
+        },
+        {
+          "name": "Jesse Clegg",
+          "url": "https://open.spotify.com/artist/4UDaVZj9eMOfZFEGrcrwqv"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235168,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/4fUNP6dtEkO408UPSy9a5I"
+    },
+    {
+      "album": {
         "name": "Palamente e Kgopela Merapelo",
         "url": "https://open.spotify.com/album/6H2nsddvfVyGIagH72T4RF"
       },
@@ -4835,6 +4919,32 @@
     },
     {
       "album": {
+        "name": "Zikhonkotha Ehambayo",
+        "url": "https://open.spotify.com/album/146an281Z0OSsEJm7P3mKC"
+      },
+      "artists": [
+        {
+          "name": "Skhanga",
+          "url": "https://open.spotify.com/artist/6lFcggGAwriultjU0Ziyny"
+        },
+        {
+          "name": "Shenge Wasehlalankosi",
+          "url": "https://open.spotify.com/artist/6OtlecLaA62XUdzRZDSeBz"
+        },
+        {
+          "name": "MaGumede Wenu",
+          "url": "https://open.spotify.com/artist/7BAitaCXU3wEbIz7aY6tHQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215640,
+      "name": "Sine Pride (feat. Shenge Wasehlalankosi & MaGumede Wenu)",
+      "url": "https://open.spotify.com/track/7yKMHVKCco0FGJpaW2WmkJ"
+    },
+    {
+      "album": {
         "name": "Obama",
         "url": "https://open.spotify.com/album/0oy6u4YpIINdn6uwHoT2sA"
       },
@@ -5006,7 +5116,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 266026,
       "name": "Sukuma Mkami Bakubone",
       "url": "https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C"

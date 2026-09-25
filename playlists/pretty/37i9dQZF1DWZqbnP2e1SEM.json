@@ -1,6 +1,6 @@
 {
   "description": "From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.",
-  "num_followers": 324554,
+  "num_followers": 324547,
   "original_name": "Island Anthems",
   "owner": {
     "name": "Spotify",
@@ -491,42 +491,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Don't You Worry Child",
-        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "John Martin",
-          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
-        }
-      ],
-      "duration_ms": 212862,
-      "name": "Don't You Worry Child - Radio Edit",
-      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "TOO COOL TO BE CARELESS",
-        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
-      },
-      "artists": [
-        {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
-        }
-      ],
-      "duration_ms": 220046,
-      "name": "TOO COOL TO BE CARELESS",
-      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Borderline",
         "url": "https://open.spotify.com/album/7orKsJO9Qi5l33hosrYYAf"
       },
@@ -547,22 +511,38 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/4xU0JStFmvQpru86MlD4pf"
+        "name": "TOO COOL TO BE CARELESS",
+        "url": "https://open.spotify.com/album/17zk2lz0xesn8Y4YncohZa"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/7cyGxmLnHWlwt41cr2RZzG"
+      "duration_ms": 220046,
+      "name": "TOO COOL TO BE CARELESS",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Don't You Worry Child",
+        "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "John Martin",
+          "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
+        }
+      ],
+      "duration_ms": 212862,
+      "name": "Don't You Worry Child - Radio Edit",
+      "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -579,6 +559,26 @@
       "duration_ms": 115652,
       "name": "Seratonin",
       "url": "https://open.spotify.com/track/0SZKacJ8DMFQjmdUfSJX2C"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/4xU0JStFmvQpru86MlD4pf"
+      },
+      "artists": [
+        {
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+        },
+        {
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+        }
+      ],
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/7cyGxmLnHWlwt41cr2RZzG"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Pjanoo",
-        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
-      },
-      "artists": [
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 157432,
-      "name": "Pjanoo - Radio Edit",
-      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Don't Wake Me Up",
         "url": "https://open.spotify.com/album/3j5uOXYCe6ebHU86UcAMAg"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 154139,
       "name": "Don't Wake Me Up",
       "url": "https://open.spotify.com/track/3sU1L9okYWbN61oHZNQTfh"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Pjanoo",
+        "url": "https://open.spotify.com/album/7zlMxh1NR0Shklu48L4e7x"
+      },
+      "artists": [
+        {
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
+        }
+      ],
+      "duration_ms": 157432,
+      "name": "Pjanoo - Radio Edit",
+      "url": "https://open.spotify.com/track/0F2BxpbxH8Yc3pLub48hrb"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
+        }
+      ],
+      "duration_ms": 219556,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "You Don't Own Me (feat. RAHH)",
         "url": "https://open.spotify.com/album/7hRW5l0Tm5GCEpFHRYwxfT"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 170694,
       "name": "You Don't Own Me (feat. RAHH)",
       "url": "https://open.spotify.com/track/1TsDNh8OuRcGfNX4Dz8oVl"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/4XdGFi19TK15rVAH9MiFBE"
-      },
-      "artists": [
-        {
-          "name": "Nosi",
-          "url": "https://open.spotify.com/artist/4XECs6DHU3xRrr0uydWY2R"
-        }
-      ],
-      "duration_ms": 219556,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/2S9jqUEI9fiDNtSH707KR4"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1723,22 +1723,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Running Around",
-        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
-      },
-      "artists": [
-        {
-          "name": "Ely Oaks",
-          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
-        }
-      ],
-      "duration_ms": 124620,
-      "name": "Running Around",
-      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Favour",
         "url": "https://open.spotify.com/album/7EuOzXLRWg4G575PupWcPs"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 194890,
       "name": "Favour",
       "url": "https://open.spotify.com/track/7oNqFOek4W2px8jzrK4BxF"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Running Around",
+        "url": "https://open.spotify.com/album/6ix5Z3jcKpO5l6FExztvuc"
+      },
+      "artists": [
+        {
+          "name": "Ely Oaks",
+          "url": "https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my"
+        }
+      ],
+      "duration_ms": 124620,
+      "name": "Running Around",
+      "url": "https://open.spotify.com/track/4cJXHfk3oZ7hX2MgVMsTNC"
     },
     {
       "added_at": "2026-08-20 23:00:30",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
         "name": "On A Wave",
         "url": "https://open.spotify.com/album/1Dt7fCJPdgPrJtxeJuW2dK"
       },
@@ -1839,22 +1855,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/3ubKnqq2qqCAgr8iW17zxl"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/386fLFRee3HNK6MsYXURi3"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Million Things",
         "url": "https://open.spotify.com/album/4EDiQsBlwDTJkquzyOcymi"
       },
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-08-20 23:00:30",
       "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/0jbAkBNqdBNOVBI7HVSwMu"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        }
-      ],
-      "duration_ms": 154784,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39"
-    },
-    {
-      "added_at": "2026-08-20 23:00:30",
-      "album": {
         "name": "Can You Feel It",
         "url": "https://open.spotify.com/album/42YRQ9d1vVUEzHu9krAPwO"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 159685,
       "name": "Can You Feel It",
       "url": "https://open.spotify.com/track/4v6w9jrnOWOE1WwpHBd0uC"
+    },
+    {
+      "added_at": "2026-08-20 23:00:30",
+      "album": {
+        "name": "Whisper",
+        "url": "https://open.spotify.com/album/0jbAkBNqdBNOVBI7HVSwMu"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "duration_ms": 154784,
+      "name": "Whisper",
+      "url": "https://open.spotify.com/track/6f6wEbx3wXsFx3aC6krC39"
     },
     {
       "added_at": "2026-08-20 23:00:30",

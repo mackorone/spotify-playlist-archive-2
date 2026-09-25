@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Electronic music from AUS + NZ
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,017 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,020 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,13 +31,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 21 | [Burn Dem Bridges](https://open.spotify.com/track/5r2620VyMS4JpB9UhmYjpG) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa) | [Burn Dem Bridges](https://open.spotify.com/album/3qvyf78FlQmFehv7JVMDK4) | 2:55 |
 | 22 | [Face 2 Face](https://open.spotify.com/track/4V3EtdgvklTDTMBuGveFGS) | [TWOFACED](https://open.spotify.com/artist/4di9XZXeIgxV4a9rt11392) | [Face 2 Face](https://open.spotify.com/album/1Hb12RMgFSsYtdhw4bqc97) | 3:41 |
 | 23 | [you're a star](https://open.spotify.com/track/017erFbOyCrdz0yburnVGZ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [you're a star](https://open.spotify.com/album/3dmu97DsoFpSptXPtJEzCJ) | 3:39 |
-| 24 | [DEVOTION](https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DEVOTION](https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw) | 3:51 |
-| 25 | [Beautiful Noise In My Head](https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Beautiful Noise In My Head](https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N) | 3:31 |
+| 24 | [Beautiful Noise In My Head](https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Beautiful Noise In My Head](https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N) | 3:31 |
+| 25 | [DEVOTION](https://open.spotify.com/track/3b589i3VEOsWJRNdOdWDsK) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [DEVOTION](https://open.spotify.com/album/4yWVT9lEftVwrGYP4wj6lw) | 3:51 |
 | 26 | [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [goodlife](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 |
 | 27 | [Next to Me](https://open.spotify.com/track/0sDL6c7BZGffS71ICuJqF4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Next to Me](https://open.spotify.com/album/4g7tDntrExaV34ee2yU4jN) | 5:14 |
 | 28 | [Baby Blue \(feat\. Oliver Sim\)](https://open.spotify.com/track/03vfFtmD5SMZ7rpQm6KXTv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Anemoia](https://open.spotify.com/album/3kse3e9XxmIedJb9bfjErH) | 4:02 |
-| 29 | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4) | 4:18 |
-| 30 | [Blue Light](https://open.spotify.com/track/72ikMuRcLGZZxzNOJTRNha) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Blue Light](https://open.spotify.com/album/4N721gRUUOQBwfAaPoJlt7) | 3:56 |
+| 29 | [Blue Light](https://open.spotify.com/track/72ikMuRcLGZZxzNOJTRNha) | [Soul Wun](https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp) | [Blue Light](https://open.spotify.com/album/4N721gRUUOQBwfAaPoJlt7) | 3:56 |
+| 30 | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i) | [Planet Funk](https://open.spotify.com/artist/4c4Ce4N4vJOs3Tzee020S4), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Chase the Sun \(Odd Mob Remix\)](https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4) | 4:18 |
 | 31 | [gossip](https://open.spotify.com/track/3pgwQNwEqbU12kLNXNDB7Q) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6), [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [gossip](https://open.spotify.com/album/1M2RVGLYbgdJMO6ygrF6Zw) | 3:19 |
 | 32 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 |
 | 33 | [Oceanside Girl](https://open.spotify.com/track/5wILnj9sHZqmi0IKNQrgil) | [Holo](https://open.spotify.com/artist/5PrWAhH8BO28ieKNfYYFEX) | [Oceanside Girl](https://open.spotify.com/album/0neG0MxqKJPNFGOajtr0Lv) | 5:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca 📸 Santiago Motorizado & FLORIAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,595 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,592 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 60 | [Porque Canto Asi](https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw) | [La Milonga Electrica](https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6) | [Porque Canto Asi](https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP) | 2:14 |
 | 61 | [El Dia Que Me Quieras](https://open.spotify.com/track/76QoEfEGQKIVnYsQufETfK) | [Sebastián Barbui](https://open.spotify.com/artist/54y7TiobofxsGWpRVCwLfh), [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk) | [Sebastian Barbui](https://open.spotify.com/album/28XcARHQ3YiuaAZkGDPidC) | 3:22 |
 | 62 | [Mientras Tanto](https://open.spotify.com/track/6mEAf6mpMkiYRIivukpJ16) | [Narcotango](https://open.spotify.com/artist/4QaiDw2kGhHm0JPqZ166D9), [Carlos Libedinsky](https://open.spotify.com/artist/70sNEhx3ntOpapyIUpL79n), [Mariano Castro](https://open.spotify.com/artist/2EO2iOsCDEZcqAhWu22tYH) | [Cuenco](https://open.spotify.com/album/5kTDKs3NG4YZVN1P6aZDWB) | 4:29 |
-| 63 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
-| 64 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 |
-| 65 | [Muero Sin Vos](https://open.spotify.com/track/0u7ddEKYuoTl5Z1rntL28g) | [Lilí Gardés](https://open.spotify.com/artist/7LyRikRQ83unSIemMi1z3c) | [Muero Sin Vos](https://open.spotify.com/album/0jIWSnPUndgDdmtRORsF1Q) | 2:27 |
+| 63 | [Ran Tan Plan](https://open.spotify.com/track/6eqLo7qLqWFVGHsglx50ng) | [Tango Tripping Project](https://open.spotify.com/artist/0HnX8l7RHBu2wGUn3k1Oi1) | [Ran Tan Plan](https://open.spotify.com/album/1rQOAGydqxEDtF8JSXzzF4) | 4:12 |
+| 64 | [Muero Sin Vos](https://open.spotify.com/track/0u7ddEKYuoTl5Z1rntL28g) | [Lilí Gardés](https://open.spotify.com/artist/7LyRikRQ83unSIemMi1z3c) | [Muero Sin Vos](https://open.spotify.com/album/0jIWSnPUndgDdmtRORsF1Q) | 2:27 |
+| 65 | [Curarme \(TANGO\)](https://open.spotify.com/track/3ORq0D5qOwljp6UKq9Xdic) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [De Fábrica \(Versión Extendida\)](https://open.spotify.com/album/6yMqUQBs26gICL5P3Bqv2K) | 3:23 |
 | 66 | [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 |
 | 67 | [Barrio Maravillas](https://open.spotify.com/track/27RhzFpBqR4JaOVzzQvH94) | [Ariel Hernandez](https://open.spotify.com/artist/0Bx1GJftEUPz40KtPWpdrv) | [Summer Tango](https://open.spotify.com/album/1XDSxgEXFdtUMPxL5dXLpj) | 2:33 |
 | 68 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 |

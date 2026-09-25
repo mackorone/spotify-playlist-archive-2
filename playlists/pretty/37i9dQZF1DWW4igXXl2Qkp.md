@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 ### [Fresh Finds Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWW4igXXl2Qkp)
 
-> The best new hip\-hop tracks from independent artists & labels\. Cover: BabyRu78
+> The best new hip\-hop tracks from independent artists & labels\. Cover: Biggs money
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,989 likes - 85 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,067 likes - 85 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Let’s Talk About It \(feat\. Stunna 4 Vegas\)](https://open.spotify.com/track/1APm1pv04YFJiE43qE30Ri) | [bdifferent](https://open.spotify.com/artist/1gQjUHdAZ992ioNqJ1QMjG), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Come On!!](https://open.spotify.com/album/3on6PLR2DZcDKKEpwGrBq7) | 2:45 |
+| 1 | [Bounce it](https://open.spotify.com/track/67equBMZP0lKaPAY0HivB4) | [Biggs money](https://open.spotify.com/artist/6iAx3tO9YgsPINp6rzPiTE) | [Bounce it](https://open.spotify.com/album/5qqgTOWxCeNMANibld7GJ0) | 3:07 |
 | 2 | [Earn Ya Rank](https://open.spotify.com/track/5fZqbCKt3Uyf82bP4NhE1T) | [Spazz Vet](https://open.spotify.com/artist/2Zdj2daLM2RL7VJtg9tBsf) | [Earn Ya Rank](https://open.spotify.com/album/16StEgkchpdfXwW4kY06N3) | 2:06 |
-| 3 | [stfu & trap.](https://open.spotify.com/track/1SbghZZ4M4ZN0jDK37Osnq) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [Bally Baby](https://open.spotify.com/artist/7I0vkHapi0O00Yd6BZcl2Z) | [The Dirty Dealer](https://open.spotify.com/album/1UUvD2bBVPA3br6VYqlH6i) | 2:59 |
-| 4 | [Bounce it](https://open.spotify.com/track/67equBMZP0lKaPAY0HivB4) | [Biggs money](https://open.spotify.com/artist/6iAx3tO9YgsPINp6rzPiTE) | [Bounce it](https://open.spotify.com/album/5qqgTOWxCeNMANibld7GJ0) | 3:07 |
+| 3 | [Let’s Talk About It \(feat\. Stunna 4 Vegas\)](https://open.spotify.com/track/1APm1pv04YFJiE43qE30Ri) | [bdifferent](https://open.spotify.com/artist/1gQjUHdAZ992ioNqJ1QMjG), [Stunna 4 Vegas](https://open.spotify.com/artist/44IvvHRk2XF243QLA2VOa8) | [Come On!!](https://open.spotify.com/album/3on6PLR2DZcDKKEpwGrBq7) | 2:45 |
+| 4 | [stfu & trap.](https://open.spotify.com/track/1SbghZZ4M4ZN0jDK37Osnq) | [Trigga500k](https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx), [Bally Baby](https://open.spotify.com/artist/7I0vkHapi0O00Yd6BZcl2Z) | [The Dirty Dealer](https://open.spotify.com/album/1UUvD2bBVPA3br6VYqlH6i) | 2:59 |
 | 5 | [EOTD](https://open.spotify.com/track/7tjyrCQXM5F3zbptkdIxha) | [Paris Price](https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7) | [EOTD](https://open.spotify.com/album/2Loj1ovS818yGxEcVwKuuq) | 2:15 |
 | 6 | [on point](https://open.spotify.com/track/0vVh4v2pZITlNiYhPIQhlZ) | [Mark Lux](https://open.spotify.com/artist/29fuOxHZkxmYqLIpBjE7V5) | [opened gates](https://open.spotify.com/album/6tj7EUZVnjQoQv4gibzw8w) | 2:32 |
 | 7 | [Sey Mami](https://open.spotify.com/track/0cZmwo85fwCqA1xTF4PPFA) | [Cinco Suave](https://open.spotify.com/artist/1WeKYh21pkgNuU1IfHGZVd) | [Sey Mami](https://open.spotify.com/album/0ksGtmJysm4zKtB0k6Auwr) | 1:48 |
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 15 | [Go Get Some Money \( GGSM \)](https://open.spotify.com/track/3Zswafjaed0TW5FZkgQvc8) | [oksurf](https://open.spotify.com/artist/5MwvbPn9LtALRZDrMKxKnM) | [Go Get Some Money \( GGSM \)](https://open.spotify.com/album/4mL2oUsid5qWnsmFYLOWpe) | 1:52 |
 | 16 | [Scared Money](https://open.spotify.com/track/0tAUCbALIFMBSI5gWhe1bE) | [bribandz](https://open.spotify.com/artist/1Rby23c3XSbpyRI9bg2Y4z) | [Scared Money](https://open.spotify.com/album/0FdpKoXTIx8VdF1x0ifyz6) | 2:11 |
 | 17 | [Literally Doe](https://open.spotify.com/track/4Apwb0CmqWn00TMzjqMyaA) | [1up Tee](https://open.spotify.com/artist/1yqmgJoPnWJO0pxbZvxvCX) | [Literally Doe](https://open.spotify.com/album/5xmWlklFLEue1Fx3tY1xjs) | 1:47 |
-| 18 | [Talking to God](https://open.spotify.com/track/4BgqFbYgmJicTudfFMBJOw) | [Nyla Symone](https://open.spotify.com/artist/6xDY1JCEFAt0CaMjuOjooi), [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ), [Honor Roll](https://open.spotify.com/artist/1ZDgFAx9zmilOjVf9LpBcZ) | [Talking to God](https://open.spotify.com/album/5e1htipYiax6Lzi4gtNU8y) | 3:14 |
-| 19 | [AUCTION BLOCK \(BONUS\)](https://open.spotify.com/track/176epegtPc44XSfD8WkWZc) | [JIREH](https://open.spotify.com/artist/7aEkh8osePkHEee0Xi947K) | [ROPE BURN](https://open.spotify.com/album/0GteknooF28InvAmZjGUx9) | 2:13 |
-| 20 | [Lihh Slyy](https://open.spotify.com/track/3LBkvemAiSxfKokDEBA98D) | [Yoko](https://open.spotify.com/artist/4LJbGT2DlmVpmWMoznZ5AI) | [Lihh Slyy](https://open.spotify.com/album/714N19Is8NbuLQlGIv6KFI) | 2:13 |
-| 21 | [Tryna Get Witchu](https://open.spotify.com/track/79Hd0rEdjmwlsV40RL98jD) | [CR](https://open.spotify.com/artist/3s1NH27HjdIbCFlkzBezio) | [Tryna Get Witchu](https://open.spotify.com/album/3PTRXsV6g84tlzSmwbD1iV) | 3:10 |
+| 18 | [AUCTION BLOCK \(BONUS\)](https://open.spotify.com/track/176epegtPc44XSfD8WkWZc) | [JIREH](https://open.spotify.com/artist/7aEkh8osePkHEee0Xi947K) | [ROPE BURN](https://open.spotify.com/album/0GteknooF28InvAmZjGUx9) | 2:13 |
+| 19 | [Lihh Slyy](https://open.spotify.com/track/3LBkvemAiSxfKokDEBA98D) | [Yoko](https://open.spotify.com/artist/4LJbGT2DlmVpmWMoznZ5AI) | [Lihh Slyy](https://open.spotify.com/album/714N19Is8NbuLQlGIv6KFI) | 2:13 |
+| 20 | [Tryna Get Witchu](https://open.spotify.com/track/79Hd0rEdjmwlsV40RL98jD) | [CR](https://open.spotify.com/artist/3s1NH27HjdIbCFlkzBezio) | [Tryna Get Witchu](https://open.spotify.com/album/3PTRXsV6g84tlzSmwbD1iV) | 3:10 |
+| 21 | [Talking to God](https://open.spotify.com/track/4BgqFbYgmJicTudfFMBJOw) | [Nyla Symone](https://open.spotify.com/artist/6xDY1JCEFAt0CaMjuOjooi), [MARCO PLUS](https://open.spotify.com/artist/6Agwo4UWzZes5CDUMFFlvU), [Kai Ca$h](https://open.spotify.com/artist/52Y9y31PT8sgDxNNmUIDUG), [Reuben Vincent](https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ), [Honor Roll](https://open.spotify.com/artist/1ZDgFAx9zmilOjVf9LpBcZ) | [Talking to God](https://open.spotify.com/album/5e1htipYiax6Lzi4gtNU8y) | 3:14 |
 | 22 | [Another Chance](https://open.spotify.com/track/6b9pGjUDsLNnB4kJX4m9HF) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [A Sunflower Garden In Harlem Is Hard To Find](https://open.spotify.com/album/4D6P7yqmAavmi8MYG13jRe) | 2:12 |
 | 23 | [Ms\. Jackson](https://open.spotify.com/track/6PZcPdGpFA8rY1bqO4Bntv) | [Young Roddo](https://open.spotify.com/artist/5dxav2nP7izQBQYPNjv0CQ) | [Ms\. Jackson](https://open.spotify.com/album/3qB1DTzI1SIiP1syCOfd5U) | 2:03 |
 | 24 | [Falling Down](https://open.spotify.com/track/2rq5pt3u0cZsLI6ljH503L) | [Kaygo Gotti](https://open.spotify.com/artist/2TukjrSJITQqMa92O3UihS) | [Falling Down](https://open.spotify.com/album/1fp2PObwSRACrWFQEKif5j) | 2:26 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 84 | [Mari Glock](https://open.spotify.com/track/4tcerjzYYVUdIcfcYfuvRa) | [Lil Noonie](https://open.spotify.com/artist/5k4L34gsiyB0HgS4yPso2h), [Lil Sy](https://open.spotify.com/artist/72CLkm7zXfuBxvLU9hjmsi) | [51 Days & 54 Nights Walkin](https://open.spotify.com/album/3oLF2NLYR1s77uIxtU0cTF) | 2:00 |
 | 85 | [Supastar Livin](https://open.spotify.com/track/0b3ZxqM1X83BekMU5scZZ8) | [SALIMATA](https://open.spotify.com/artist/7jS2ex4JC0DiFtMfh417jD) | [Supastar Livin](https://open.spotify.com/album/5GxX1rWrlqthjPpNsV6TrV) | 1:36 |
 
-Snapshot ID: `AAAAAMvYKa9eVhKcKNRLCJW0D2QqpDOH`
+Snapshot ID: `AAAAAOW+Za4dGlZU2KsC1QSh81IfzcXc`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 
 > Make it new\. Fresh takes on vintage soul, folk, blues, and roots rock\. Cover: Frank Mastra
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,424 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,457 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5vqkTng2MA.md) - [plain]
 | 2 | [Friends](https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB) | [DON WEST](https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN) | [Friends](https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS) | 3:33 |
 | 3 | [This Heart Of Mine](https://open.spotify.com/track/3LZ5f8AcX36noWF4X1PkZO) | [Frank Mastra](https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv) | [Bitter End](https://open.spotify.com/album/4pL9vVuPANQdsOB6IbC2xy) | 3:46 |
 | 4 | [Man Of His Word](https://open.spotify.com/track/6vSkfVfd6tY0h6tDa1lw9A) | [Kashus Culpepper](https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j) | [Act I](https://open.spotify.com/album/7tJwgD3IbrgdlNNfv2nE1R) | 4:02 |
-| 5 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 |
-| 6 | [Price of Love](https://open.spotify.com/track/0dBOzs6h3OuMb9iGXtTbt1) | [Benny G](https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8) | [When You Know You Know](https://open.spotify.com/album/7jOp38flePWqWH0OxxTvDg) | 3:29 |
+| 5 | [Price of Love](https://open.spotify.com/track/0dBOzs6h3OuMb9iGXtTbt1) | [Benny G](https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8) | [When You Know You Know](https://open.spotify.com/album/7jOp38flePWqWH0OxxTvDg) | 3:29 |
+| 6 | [The Little Mess You Made](https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX) | [The Favors](https://open.spotify.com/artist/78R275jHTtGF0ue4QfBKpI), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX), [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [The Little Mess You Made](https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH) | 3:21 |
 | 7 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 |
 | 8 | [Hangin' On](https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw) | [Frank Mastra](https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv) | [Hangin' On](https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9) | 3:31 |
 | 9 | [Da Du Dah](https://open.spotify.com/track/0VcvKN17fqyvbznfwypjDB) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Tuff Times Never Last](https://open.spotify.com/album/7LsYc5gkR6w8VMOME78YmM) | 3:48 |

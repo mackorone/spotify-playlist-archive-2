@@ -4,7 +4,7 @@
 
 > This is bludnymph\. The essential tracks, all in one playlist.
 
-59 songs - 2 hr 31 min
+60 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [SEX MACHINA](https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq) | 2:09 | 2024-01-10 | 2025-03-13 |
 | [SEX MACHINA](https://open.spotify.com/track/72MELAiasxf1BHYtMJWSfU) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/3abnlSWjkxs0gyCAiLHkf0) | 2:09 | 2025-03-13 |  |
 | [sex toy](https://open.spotify.com/track/162DwVaggLyODXjkrePYFd) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [sex toy](https://open.spotify.com/album/4UBaohjI3bU6TzlcSiToLZ) | 2:20 | 2026-03-29 | 2026-08-23 |
-| [sex toy](https://open.spotify.com/track/19ksJ9fzQYvTQjRR6o743N) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [nympho](https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK) | 2:20 | 2026-08-23 |  |
-| [SQUEAK](https://open.spotify.com/track/3KyZhI9sVuqVZZWce3PJVJ) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SQUEAK](https://open.spotify.com/album/2DxCAkR3SnD8qUm21bRiXY) | 2:03 | 2026-02-15 |  |
+| [sex toy](https://open.spotify.com/track/19ksJ9fzQYvTQjRR6o743N) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [nympho](https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK) | 2:20 | 2026-08-23 | 2026-09-25 |
+| [SQUEAK](https://open.spotify.com/track/3KyZhI9sVuqVZZWce3PJVJ) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SQUEAK](https://open.spotify.com/album/2DxCAkR3SnD8qUm21bRiXY) | 2:03 | 2026-02-15 | 2026-09-25 |
+| [SQUEAK](https://open.spotify.com/track/54AkXQ3AG8tR62EJcF19Er) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [nympho](https://open.spotify.com/album/38IvOF1IZn7v8vlWfhlHZK) | 2:03 | 2026-09-25 |  |
 | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/track/5Vf85Sp6tL4z87tAL5thDx) | [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Steve Aoki \(feat\. bludnymph\)](https://open.spotify.com/album/3KHtnDwODoQvyY7mB2FtC6) | 2:30 | 2024-01-10 |  |
 | [The Things I Do For Love](https://open.spotify.com/track/4WHGwyIMlHJeJggdfKb6XF) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/3dmgdqxyBmZL6vN1PpYSMn) | 2:40 | 2025-03-14 |  |
 | [The Things I Do For Love](https://open.spotify.com/track/7BTMezneT8J3ZYGCxCsOgK) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [The Things I Do For Love](https://open.spotify.com/album/0oMgMrsKsnmJ1kODifdIZp) | 2:40 | 2024-01-11 | 2025-03-14 |

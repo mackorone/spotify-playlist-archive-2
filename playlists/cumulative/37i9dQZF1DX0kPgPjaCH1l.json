@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-06-24",
-  "description": "Baba God, run am \ud83d\ude4f. \nCover:  Kizz Daniel, Krizbeatz & Young Jonn",
+  "description": "Baba God, run am \ud83d\ude4f. \nCover:  T Dollar",
   "name": "afro adura ",
   "tracks": [
     {
@@ -543,6 +543,24 @@
     },
     {
       "album": {
+        "name": "Bahubali",
+        "url": "https://open.spotify.com/album/3sg7XmCUiue0W7dW77hS0b"
+      },
+      "artists": [
+        {
+          "name": "T DOLLAR",
+          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144232,
+      "name": "Bahubali",
+      "url": "https://open.spotify.com/track/2jSkGbyUK1VmBXE3hgJyBl"
+    },
+    {
+      "album": {
         "name": "Beamer",
         "url": "https://open.spotify.com/album/6SVWihTBSwloSOnNvf9H7q"
       },
@@ -558,6 +576,28 @@
       "duration_ms": 166153,
       "name": "Beamer",
       "url": "https://open.spotify.com/track/4Agz7lwqwW1HMlcPpkH8Tn"
+    },
+    {
+      "album": {
+        "name": "Better",
+        "url": "https://open.spotify.com/album/5CLCO0SqSGlVqtMhFfu1ui"
+      },
+      "artists": [
+        {
+          "name": "Khid Ceejay",
+          "url": "https://open.spotify.com/artist/36t7TPKT0j5ZHpFNfx1mk9"
+        },
+        {
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141818,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/6Ac0KghKbblpZnAcG9NbK0"
     },
     {
       "album": {
@@ -834,7 +874,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 124144,
       "name": "Closure",
       "url": "https://open.spotify.com/track/3ur4xNci4Jk5d2nNcMW8nr"
@@ -2185,6 +2225,28 @@
     },
     {
       "album": {
+        "name": "Malaria",
+        "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171128,
+      "name": "Malaria",
+      "url": "https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh"
+    },
+    {
+      "album": {
         "name": "Many Things",
         "url": "https://open.spotify.com/album/1yS7tbUsMdT1D1tcwGKNIe"
       },
@@ -2556,7 +2618,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 148536,
       "name": "Orin Halleluyah",
       "url": "https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox"
@@ -2918,7 +2980,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 133624,
       "name": "Realness",
       "url": "https://open.spotify.com/track/6Uh5S2WjXoFPkgcVHaQV0d"

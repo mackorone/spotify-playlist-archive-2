@@ -202,7 +202,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 106728,
       "name": "Air Bender",
       "url": "https://open.spotify.com/track/0SC10wGF4YMLIdL1QMGlm8"
@@ -658,7 +658,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 109017,
       "name": "Blackjack",
       "url": "https://open.spotify.com/track/3LLRICexFWp0c6xh6D3yp4"
@@ -970,7 +970,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 151370,
       "name": "Cheerios",
       "url": "https://open.spotify.com/track/5Q6E3ps0PQPJWKbje8xNsg"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 122723,
       "name": "DRIVE BYE",
       "url": "https://open.spotify.com/track/5NeL3TVFhfmPwU0yyic4Xa"
@@ -1688,7 +1688,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 133500,
       "name": "F.E.A.R. - feat. Niontay",
       "url": "https://open.spotify.com/track/2gNXxgXqZTZuSLBiSV6HKS"
@@ -2293,6 +2293,24 @@
     },
     {
       "album": {
+        "name": "The Art Of Hooping",
+        "url": "https://open.spotify.com/album/4W7vILQjCKfwo7uXbFvliQ"
+      },
+      "artists": [
+        {
+          "name": "Reemo",
+          "url": "https://open.spotify.com/artist/1ytfDr5Kx6uRKsHTD31OzE"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165015,
+      "name": "Hard To Stay Mad\u2026",
+      "url": "https://open.spotify.com/track/3LeV2aYr66AdjEw7UEeqjp"
+    },
+    {
+      "album": {
         "name": "Hardy Boyz (feat. Bloodhound Lil Jeff)",
         "url": "https://open.spotify.com/album/3tzKkC8md0MnmsWVAcFhhz"
       },
@@ -2710,7 +2728,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 108437,
       "name": "imposter",
       "url": "https://open.spotify.com/track/14DqYafHROsQH834bFBVbt"
@@ -3790,7 +3808,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 114216,
       "name": "nine",
       "url": "https://open.spotify.com/track/5yCYHKE6erkEF3M0eaBfBc"
@@ -4174,7 +4192,7 @@
       ],
       "date_added": "2025-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 138017,
       "name": "P!NK GUN",
       "url": "https://open.spotify.com/track/08BRHjbgydIasySvi2lTpg"
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 151062,
       "name": "pull off",
       "url": "https://open.spotify.com/track/4pOLfBnRTOI9bqsL3PNVle"
@@ -5010,6 +5028,24 @@
       "duration_ms": 92800,
       "name": "sorry not sorry",
       "url": "https://open.spotify.com/track/0YZYErTb3ZfNUBrKlWuLIu"
+    },
+    {
+      "album": {
+        "name": "Spanglish",
+        "url": "https://open.spotify.com/album/0XLRt7IitLolNkwQkZtHSg"
+      },
+      "artists": [
+        {
+          "name": "novanitys",
+          "url": "https://open.spotify.com/artist/0qsn1uqtRSXT8IsBYysLBP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222898,
+      "name": "Spanglish",
+      "url": "https://open.spotify.com/track/6bhvLg6wcFib7jHDJwenEk"
     },
     {
       "album": {
@@ -6424,7 +6460,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 138814,
       "name": "Ya Ya",
       "url": "https://open.spotify.com/track/1zX4htZC4Xj60xoCM9RlX0"

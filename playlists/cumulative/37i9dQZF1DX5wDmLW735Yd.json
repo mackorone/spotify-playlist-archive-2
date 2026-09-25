@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Catching Cairo",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Skepsis",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -798,6 +798,28 @@
       "duration_ms": 265295,
       "name": "All Night (Tim Reaper remix)",
       "url": "https://open.spotify.com/track/7obL6oZz2VM8CQK50g2R7c"
+    },
+    {
+      "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/37Bs2f6ebkmcBCeUbDfIMK"
+      },
+      "artists": [
+        {
+          "name": "Luke Gomm",
+          "url": "https://open.spotify.com/artist/5n1DsrQDgo9Dqav2BZUeuB"
+        },
+        {
+          "name": "Catching Cairo",
+          "url": "https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211666,
+      "name": "All of Me",
+      "url": "https://open.spotify.com/track/0cbgne6TKiFpWR8nkk0GHE"
     },
     {
       "album": {
@@ -4230,7 +4252,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 182068,
       "name": "Car Crash",
       "url": "https://open.spotify.com/track/4e2R0aM0aaGd3woArLIF31"
@@ -6210,6 +6232,28 @@
       "duration_ms": 223542,
       "name": "Deep On This",
       "url": "https://open.spotify.com/track/3rzzs1MXewW88kRQbacPoi"
+    },
+    {
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/5QKyBdjtO4tMLNuB80ZWgN"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "Raphaella",
+          "url": "https://open.spotify.com/artist/3rJPS8fYBokXpYw1mS9wr0"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/784sVvyBnMvsrwHQy1QLQX"
     },
     {
       "album": {
@@ -9076,7 +9120,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 228936,
       "name": "Forever",
       "url": "https://open.spotify.com/track/6BDV8G2GFV7BYRkuLSJPwj"
@@ -10258,6 +10302,24 @@
       "duration_ms": 112140,
       "name": "Go Down Low",
       "url": "https://open.spotify.com/track/6D2S9ubpTQZsOaPbgUdR7b"
+    },
+    {
+      "album": {
+        "name": "Godzilla",
+        "url": "https://open.spotify.com/album/2E2jt5kAro9LBfauaoynM6"
+      },
+      "artists": [
+        {
+          "name": "Voltage",
+          "url": "https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223912,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/1pUBYFaXLMURNA6Slof9Mm"
     },
     {
       "album": {
@@ -11758,7 +11820,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 240000,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/11LoWSrqOGKdc2BJWVLNNY"
@@ -18034,7 +18096,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 148800,
       "name": "Oldschool Gangsta",
       "url": "https://open.spotify.com/track/4u8M2vLmtfY8WQ7wS7CPGC"
@@ -19146,6 +19208,28 @@
       "duration_ms": 122069,
       "name": "Party Muscle",
       "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
+    },
+    {
+      "album": {
+        "name": "Penny Drop / Gin Pan Alley",
+        "url": "https://open.spotify.com/album/4go9RpFg5xoiw0jMZ6Ap0T"
+      },
+      "artists": [
+        {
+          "name": "LSB",
+          "url": "https://open.spotify.com/artist/7M5ogsZnEm96Va8wLKvftN"
+        },
+        {
+          "name": "Vektah",
+          "url": "https://open.spotify.com/artist/2yTqyPwfncCetij3alZ0ZG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292413,
+      "name": "Penny Drop",
+      "url": "https://open.spotify.com/track/7nVcWlsmbpqmXk0sOIqOmq"
     },
     {
       "album": {
@@ -25257,6 +25341,28 @@
     },
     {
       "album": {
+        "name": "The Block",
+        "url": "https://open.spotify.com/album/4HcwZqnr72ATTGJ8fCaLOR"
+      },
+      "artists": [
+        {
+          "name": "Bou",
+          "url": "https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13"
+        },
+        {
+          "name": "Friction",
+          "url": "https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205517,
+      "name": "The Block",
+      "url": "https://open.spotify.com/track/3MnBeb0rOMmrhJ6azyip02"
+    },
+    {
+      "album": {
         "name": "The Boy Is Mine",
         "url": "https://open.spotify.com/album/7KH7gKRPl2QAlu2Lhisg59"
       },
@@ -25720,7 +25826,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 176228,
       "name": "Think I Am",
       "url": "https://open.spotify.com/track/6H7Qr6HvsSpCVbn8EIjb4n"

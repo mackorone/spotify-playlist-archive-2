@@ -4,7 +4,7 @@
 
 > catch a vibe 🌹
 
-294 songs - 15 hr 51 min
+295 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Hallelujah \(feat\. Lojay\)](https://open.spotify.com/track/0Zb004lei42rERugapZaSt) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Zero Tolerance](https://open.spotify.com/album/09XgqxfkwCXTMAkIDtrksk) | 3:49 | 2024-03-28 | 2024-09-03 |
 | [Handle](https://open.spotify.com/track/6NDvhN0PFBIioNAbM4EDak) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Handle](https://open.spotify.com/album/7lnMFvhJ0IU7KbludkIay0) | 3:06 | 2026-06-25 | 2026-09-05 |
 | [Hands Tied](https://open.spotify.com/track/6FTtvuPD4Xas3Oj7XJFf3C) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Hands Tied](https://open.spotify.com/album/7zrXcg8W9t7yNBQopdBFw3) | 5:43 | 2024-03-28 | 2024-09-03 |
-| [have to.](https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [have to.](https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv) | 3:27 | 2025-10-15 |  |
+| [have to.](https://open.spotify.com/track/55Doxe1XJGnB88uYpLf6xW) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [have to.](https://open.spotify.com/album/56xtdgVjVfeMiZqLGnrljv) | 3:27 | 2025-10-15 | 2026-09-25 |
 | [Head Over Heels](https://open.spotify.com/track/7zORXBKwO7ON5qp9EMoN9g) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Head Over Heels](https://open.spotify.com/album/1c1ykqz76KlzggmV1p9AWp) | 3:48 | 2025-06-17 | 2025-09-05 |
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 | 2024-03-28 |  |
 | [Her Face](https://open.spotify.com/track/2fa8SftlyWKUaBfRyCjPiq) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Her Face](https://open.spotify.com/album/1bznvIKet5ndYNcpMjIehg) | 3:23 | 2025-11-11 | 2026-03-27 |
@@ -298,6 +298,7 @@
 | [worst](https://open.spotify.com/track/67IUHgy0EDJcWX2UWTG7Oz) | [SAHXL](https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h) | [worst](https://open.spotify.com/album/1UTOeZvAysxKZHp2NWHXw0) | 2:46 | 2026-03-20 |  |
 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/7eRJjg52FkSmQvmNQDYpMl) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/album/6tEqHl8uemF0Hmb0iGs6vJ) | 3:33 | 2025-02-13 |  |
 | [would've been you](https://open.spotify.com/track/2U7svZUGvR4tfKdyxv9mXu) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [would've been you](https://open.spotify.com/album/1a43UOca3qYS1ZcS0b9wSk) | 3:03 | 2025-06-17 | 2026-03-21 |
+| [Yearning](https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Yearning](https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq) | 2:53 | 2026-09-17 |  |
 | [Yesterday](https://open.spotify.com/track/2dMVIVXxaO9v2ImiSrWO0C) | [breathe.](https://open.spotify.com/artist/6XrEYPg6rrQMV4GKabTxbE) | [Yesterday](https://open.spotify.com/album/1Ay7BiWxgugN1YXqomG7w1) | 3:24 | 2025-09-20 | 2025-11-11 |
 | [YOU](https://open.spotify.com/track/2Y27Z57KII6aZFhZKQj6s8) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [HEAVY](https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX) | 3:31 | 2024-03-28 | 2025-02-14 |
 | [YOU'RE THE ONE](https://open.spotify.com/track/70kdJnm1X6eEM8DbWa8Mnc) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:47 | 2025-02-13 |  |

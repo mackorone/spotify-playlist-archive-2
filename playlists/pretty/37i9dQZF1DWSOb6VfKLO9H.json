@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111436,
+  "num_followers": 111447,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Pit Stop",
+        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
+      },
+      "artists": [
+        {
+          "name": "Bridde Boys",
+          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
+        }
+      ],
+      "duration_ms": 253544,
+      "name": "Pit Stop",
+      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "18 Plus",
         "url": "https://open.spotify.com/album/2Gc6j66PjKX8VY8Mf3jK0N"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 205000,
       "name": "18 Plus",
       "url": "https://open.spotify.com/track/6M6Tkjn7e4TTVXBpudaGxb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Pit Stop",
-        "url": "https://open.spotify.com/album/1Bo3QIkCyr0AErUw4BHl1h"
-      },
-      "artists": [
-        {
-          "name": "Bridde Boys",
-          "url": "https://open.spotify.com/artist/3MXwHgXTLymeCniKY1H3aM"
-        }
-      ],
-      "duration_ms": 253544,
-      "name": "Pit Stop",
-      "url": "https://open.spotify.com/track/00efU9s1tVptQB3SUabGvu"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Was Je Nog Maar Hier (Radio Edit)",
+        "url": "https://open.spotify.com/album/7xfYPQ6CETsx8pKYmT0pqe"
+      },
+      "artists": [
+        {
+          "name": "CHO",
+          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
+        }
+      ],
+      "duration_ms": 177396,
+      "name": "Was Je Nog Maar Hier - Radio Edit",
+      "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Juppige Geintjes",
         "url": "https://open.spotify.com/album/2kh8ShoAm8PmHOhJTfWoNE"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 177623,
       "name": "Tis Oke Mop",
       "url": "https://open.spotify.com/track/72hyNFiBQIUxq6wPjDLnMm"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Was Je Nog Maar Hier (Radio Edit)",
-        "url": "https://open.spotify.com/album/7xfYPQ6CETsx8pKYmT0pqe"
-      },
-      "artists": [
-        {
-          "name": "CHO",
-          "url": "https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R"
-        }
-      ],
-      "duration_ms": 177396,
-      "name": "Was Je Nog Maar Hier - Radio Edit",
-      "url": "https://open.spotify.com/track/4c457KvkafnHGz6clGYMmz"
     },
     {
       "added_at": "2024-07-19 06:38:33",

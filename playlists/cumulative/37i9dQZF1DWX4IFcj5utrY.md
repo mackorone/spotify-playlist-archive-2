@@ -2,9 +2,9 @@
 
 ### [mint Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in Africa\. Cover: JAZZWRLD, Fireboy DML, Thukuthela
+> The best dance hits in Africa\. Cover: FKA Mash
 
-1,515 songs - 5 day 14 hr 4 min
+1,516 songs - 5 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -863,7 +863,7 @@
 | [Mokone \(feat\. Dr Skaro & Dj Janisto\)](https://open.spotify.com/track/0QLZcbPrpRZh1QAAwNANYt) | [Makhadzi Entertainment](https://open.spotify.com/artist/24Hon9044L6JUKWcqQSjma), [Poobington](https://open.spotify.com/artist/1ue9oEVioYpBEUlvPHnas4), [Dr Skaro](https://open.spotify.com/artist/2xkslEBMPDYAZzT2Ws2pUz), [DJ Janisto](https://open.spotify.com/artist/49pDCx2fEbFhIhVwE37KZW) | [BIG 30](https://open.spotify.com/album/4UJzumndO8KpSdhsNJROCA) | 5:08 | 2026-04-02 |  |
 | [Molefe Dub \- Original Mix](https://open.spotify.com/track/4FbPuTDvkTA7VGMPJD16Xi) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [Soulful Therapy Vol.1](https://open.spotify.com/album/4bEGfoySKVzE5FeeZUF0hR) | 7:39 | 2021-12-23 | 2022-01-28 |
 | [Molili](https://open.spotify.com/track/4jEx2UOP274e3tO2hKZcMD) | [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9), [Batundi](https://open.spotify.com/artist/0K2Su3rHagcOMrBnIf2P9I), [Lokua Kanza](https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk), [Nana Atta](https://open.spotify.com/artist/1B4FnAkti1c4KGQDv78pYq) | [Molili](https://open.spotify.com/album/1DWSacBN5v5zMujMzJHTT4) | 5:52 | 2023-06-23 | 2023-09-08 |
-| [Mopepe](https://open.spotify.com/track/2hMZXSgTxcuUwilbh9Kn5x) | [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Bukzin Keyz](https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ), [Tango Supreme](https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD) | [Mopepe](https://open.spotify.com/album/69Bc4MJZDbLebKG7KvYqwt) | 4:32 | 2026-02-20 |  |
+| [Mopepe](https://open.spotify.com/track/2hMZXSgTxcuUwilbh9Kn5x) | [Benzoo](https://open.spotify.com/artist/4v7teU7vW1QTe4GPPCSLD3), [Bukzin Keyz](https://open.spotify.com/artist/21aluU2wHvMtkpIlwNSKrZ), [Tango Supreme](https://open.spotify.com/artist/0QUhFTQrwcAXcidFIFpqZD) | [Mopepe](https://open.spotify.com/album/69Bc4MJZDbLebKG7KvYqwt) | 4:32 | 2026-02-20 | 2026-09-25 |
 | [More Love \- Rampa &ME Remix](https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [More Love \(Rampa &ME Remix\)](https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC) | 6:11 | 2023-10-26 | 2024-04-13 |
 | [Morenita \- Marco Generani Remix](https://open.spotify.com/track/1gdMKcSN97pGjkToFTd3Fo) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Marco Generani](https://open.spotify.com/artist/6OFkyZFXxnH0hLJ4yeF7ki), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita \(Marco Generani Remix\)](https://open.spotify.com/album/545gv9Lffc5PDhwTPG0qtw) | 2:27 | 2025-05-01 | 2025-05-16 |
 | [Moru](https://open.spotify.com/track/6MDmswTeIRibDKaszSzvgP) | [Eddie ZAR](https://open.spotify.com/artist/3x9bCaHteJWCIDVHO32ChJ) | [Moru](https://open.spotify.com/album/3Ij9TRLiz29jiKCbZmNlNq) | 5:38 | 2022-04-14 | 2022-04-23 |
@@ -1315,6 +1315,7 @@
 | [Tonight](https://open.spotify.com/track/70rIvrzenju3C2A53M3cto) | [Ghost](https://open.spotify.com/artist/6tNHdlHpPDgZQp6fa3kbM8) | [Tonight](https://open.spotify.com/album/43Ivx6bjF4vKmjiuqMIb9a) | 3:16 | 2022-07-07 | 2022-07-29 |
 | [Too Much Information \- Laolu Remix \(Edit\)](https://open.spotify.com/track/1mHdnrcPMlhwFqMrsS9Kbx) | [Dele Sosimi Afrobeat Orchestra](https://open.spotify.com/artist/6QqfKF0FAhEq6AIKLpDkSb), [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Too Much Information \(Remixes\)](https://open.spotify.com/album/4VAJVub0Ft9gCJmODhwThV) | 8:32 | 2025-03-13 | 2025-03-22 |
 | [Touch \- Extended Mix](https://open.spotify.com/track/3itypsvYnEdQpIP77edzsh) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Touch](https://open.spotify.com/album/0OLTA9mEZfUrvsEoiZZ0xV) | 6:13 | 2025-02-14 | 2025-02-28 |
+| [Track 4](https://open.spotify.com/track/5WSesDy09JmCkVyFPb4SeT) | [FKA MASH](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [EXITECHNO](https://open.spotify.com/album/4TDcmsuTszNJVeX2AU3Imu) | 0:00 | 2026-09-24 |  |
 | [Traffic](https://open.spotify.com/track/4Zsj1GkqCnMhDk8ARB6pju) | [Cinimin](https://open.spotify.com/artist/7x5rKYGYaTOSjr5B3EBAkC) | [Traffic](https://open.spotify.com/album/4eJvBTfzGNVz6LFCYgUTHf) | 2:59 | 2022-09-22 | 2022-10-14 |
 | [Train To Work](https://open.spotify.com/track/1pNyMl9Tj4uQgyW21yY95D) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Serengeti](https://open.spotify.com/album/4dACuW8u8dZA8k5U5ZFsOh) | 7:00 | 2022-03-24 | 2022-06-18 |
 | [Tribal Drums](https://open.spotify.com/track/0IVgGcimUhHhQroMmy78Zn) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Tribal Drums](https://open.spotify.com/album/6ZWXbOy4XasSJS7RFAz68n) | 7:14 | 2022-07-07 | 2022-07-15 |

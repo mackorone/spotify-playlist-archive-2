@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0MYMXcPN7yx8kdLSKi3Rqb">Gabe Simon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-189 songs - 10 hr 42 min
+190 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Lovesick](https://open.spotify.com/track/4lejz024CsCP6S5kPD6Upb) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:05 | 2026-07-27 |  |
 | [Magnet](https://open.spotify.com/track/69OPLIDGGlpDyykXN6pVNu) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:48 | 2026-09-23 |  |
 | [Me Around You](https://open.spotify.com/track/1wWPKL5IyhsjaCQ2KMjD4z) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [NeverAlways \(Vol\. 1\)](https://open.spotify.com/album/2wVrxbonp8UA9ebuMREm4q) | 3:53 | 2026-07-27 |  |
+| [Meet You There](https://open.spotify.com/track/3xfpy8wDVGsb5pJkmGUXtR) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [The Night Champion](https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc) | 3:31 | 2026-09-24 |  |
 | [My Head's In A Hurricane](https://open.spotify.com/track/5attUtcjG5lDS2GYKbNjtN) | [Love Fame Tragedy](https://open.spotify.com/artist/04Ye3owBSFJF5hnYWHtq9Q) | [Life Is A Killer](https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP) | 3:23 | 2026-07-27 |  |
 | [MY MIRROR](https://open.spotify.com/track/3kwPnf0durIUtZ6Eks61SX) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [TZIA](https://open.spotify.com/album/7pEGbqxLbAXuDZRxIro0td) | 4:24 | 2026-07-27 |  |
 | [Neighborhood](https://open.spotify.com/track/4HIz69HfJjohNVhrCtAw0f) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Seasons](https://open.spotify.com/album/58nrND39Gnp0T2lWBzkfkd) | 3:42 | 2026-07-27 |  |

@@ -2,7 +2,7 @@
 
 ### [RADAR España](https://open.spotify.com/playlist/37i9dQZF1DX2KWq7Xwva8j)
 
-> El futuro ya está aquí, con nuestra nueva promoción\. Foto: Gara Durán.
+> El futuro ya está aquí, con nuestra nueva promoción\. Foto: Alcalá Norte.
 
 348 songs - 17 hr 0 min
 

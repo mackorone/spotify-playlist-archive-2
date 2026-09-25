@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Sophia Stel",
+  "description": "New music off the beaten track. Cover: BICEP",
   "name": "OFF POP",
   "tracks": [
     {
@@ -562,7 +562,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 119333,
       "name": "About Us",
       "url": "https://open.spotify.com/track/431TEfCxX6oZaQX3wPTmmN"
@@ -734,6 +734,28 @@
       "duration_ms": 174946,
       "name": "again and again",
       "url": "https://open.spotify.com/track/6yfbspLYC4nRwBcdgg7Zjy"
+    },
+    {
+      "album": {
+        "name": "Air / Lemonder / Viper",
+        "url": "https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q"
+      },
+      "artists": [
+        {
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        },
+        {
+          "name": "SOARR",
+          "url": "https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262559,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY"
     },
     {
       "album": {
@@ -1320,7 +1342,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 196123,
       "name": "almost enough",
       "url": "https://open.spotify.com/track/4NhNLr3EIXW8TZ2G2m9Wzt"
@@ -1914,6 +1936,36 @@
       "duration_ms": 219537,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/4SNHeDCR40LwXL16BfzmpX"
+    },
+    {
+      "album": {
+        "name": "Automatic Deal",
+        "url": "https://open.spotify.com/album/6TEDXDMqxKR8BNe6SsBPkY"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        },
+        {
+          "name": "Temp Affairs",
+          "url": "https://open.spotify.com/artist/4NYjr3IhKvPsoE0KKbZHdy"
+        },
+        {
+          "name": "sparr00w",
+          "url": "https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS"
+        },
+        {
+          "name": "bleac",
+          "url": "https://open.spotify.com/artist/19C8JmmGVJEgFqN7IEYuO2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123334,
+      "name": "Automatic Deal",
+      "url": "https://open.spotify.com/track/3byIQRxNzJ3uD45fvT1VxQ"
     },
     {
       "album": {
@@ -3395,6 +3447,28 @@
     },
     {
       "album": {
+        "name": "Burning Up",
+        "url": "https://open.spotify.com/album/6wGU0EkcUsdGDTmh9Sri86"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        },
+        {
+          "name": "Orem",
+          "url": "https://open.spotify.com/artist/1HjQ6IQwNatqgTtFnklIoL"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237172,
+      "name": "Burning Up",
+      "url": "https://open.spotify.com/track/4LJ0y24EWNaEgAfAOLXCHM"
+    },
+    {
+      "album": {
         "name": "Burnt",
         "url": "https://open.spotify.com/album/3l7CheSXopJ5hnWEKUyiDo"
       },
@@ -3672,6 +3746,28 @@
       "duration_ms": 241400,
       "name": "Can't Get Enough",
       "url": "https://open.spotify.com/track/5iudHVGnKMhB1pfXcKyKme"
+    },
+    {
+      "album": {
+        "name": "Can't Stop Dancing",
+        "url": "https://open.spotify.com/album/6543j6SP0na8iXENm48ZLO"
+      },
+      "artists": [
+        {
+          "name": "Junior Sanchez",
+          "url": "https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni"
+        },
+        {
+          "name": "Zoot Woman",
+          "url": "https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230625,
+      "name": "Can't Stop Dancing",
+      "url": "https://open.spotify.com/track/3f3I1lW7vSBGqptWE6zxT5"
     },
     {
       "album": {
@@ -5040,7 +5136,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 199696,
       "name": "crank 2",
       "url": "https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE"
@@ -10355,6 +10451,32 @@
     },
     {
       "album": {
+        "name": "Glide (Franc Moody Remix)",
+        "url": "https://open.spotify.com/album/6RQ1peCV6fF2Ie7HcJ1C3C"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255767,
+      "name": "Glide - Franc Moody Remix",
+      "url": "https://open.spotify.com/track/2rH2Ll968f0X1Ep9E2eOUO"
+    },
+    {
+      "album": {
         "name": "SANT JORDI 02",
         "url": "https://open.spotify.com/album/0ZvrMbXUFxckG4gp1NEkMh"
       },
@@ -12287,6 +12409,28 @@
     },
     {
       "album": {
+        "name": "Human Interaction",
+        "url": "https://open.spotify.com/album/6E4mbI4nwtOcHoFbfomJqc"
+      },
+      "artists": [
+        {
+          "name": "KAGAMI",
+          "url": "https://open.spotify.com/artist/3WWBjOsF2LWEct6GxZHxRo"
+        },
+        {
+          "name": "Popa",
+          "url": "https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249500,
+      "name": "Human Interaction",
+      "url": "https://open.spotify.com/track/0LdwFML9udrWMfulg5mHYF"
+    },
+    {
+      "album": {
         "name": "Half Asleep",
         "url": "https://open.spotify.com/album/3gKCvi3wtUyenIZ6pJY4QU"
       },
@@ -12761,6 +12905,24 @@
     },
     {
       "album": {
+        "name": "I Feel Tired (All The Time)",
+        "url": "https://open.spotify.com/album/6eKNcL78Hvymfz8j2e7py8"
+      },
+      "artists": [
+        {
+          "name": "Blone",
+          "url": "https://open.spotify.com/artist/0ecZdQ8HvJ0BHUNR1binxe"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214108,
+      "name": "I Feel Tired (All The Time)",
+      "url": "https://open.spotify.com/track/0w5YbM6WxR40jRs1r49Qvy"
+    },
+    {
+      "album": {
         "name": "I Forget",
         "url": "https://open.spotify.com/album/03KIBaIUPddEWUj5Rzq8Vj"
       },
@@ -12972,7 +13134,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 121951,
       "name": "I miss ur friends",
       "url": "https://open.spotify.com/track/34n32rHxDmPhbosbqY2LDr"
@@ -13404,6 +13566,28 @@
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
+    },
+    {
+      "album": {
+        "name": "If You Want Me",
+        "url": "https://open.spotify.com/album/1PYBSKS97wpvT0rhx6DX9g"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180226,
+      "name": "If You Want Me",
+      "url": "https://open.spotify.com/track/2kGdtsoikfnm2ElE7S1wk1"
     },
     {
       "album": {
@@ -14590,7 +14774,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 233618,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/4ccGNvE5wRTVmBgH5zToDE"
@@ -16526,6 +16710,28 @@
       "duration_ms": 224270,
       "name": "LOSER",
       "url": "https://open.spotify.com/track/1l0SWEZS3M7MaVf0765yah"
+    },
+    {
+      "album": {
+        "name": "Loser (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267616,
+      "name": "Loser - Fcukers Remix",
+      "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
     },
     {
       "album": {
@@ -18818,7 +19024,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180000,
       "name": "Music Lights Color",
       "url": "https://open.spotify.com/track/0nNNppCcXMMq9PkwW9oH28"
@@ -21582,7 +21788,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 271852,
       "name": "Please Don\u2019t Go",
       "url": "https://open.spotify.com/track/3Vts3XadQYgFxql1hSyu3f"
@@ -21902,7 +22108,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 193024,
       "name": "Raider on the Storm",
       "url": "https://open.spotify.com/track/7dVZVODisLTpb8sAyghTUA"
@@ -23494,7 +23700,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 192105,
       "name": "Sesquicentennial",
       "url": "https://open.spotify.com/track/2mL6kQBqh3uy8RqYftposl"
@@ -27323,6 +27529,32 @@
     },
     {
       "album": {
+        "name": "The Only One (feat. Christine and the Queens) [Hercules & Love Affair Remix]",
+        "url": "https://open.spotify.com/album/7bGkoPdt5qc1qIQEJTVlH1"
+      },
+      "artists": [
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        },
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        },
+        {
+          "name": "Hercules & Love Affair",
+          "url": "https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248343,
+      "name": "The Only One (feat. Christine and the Queens) - Hercules & Love Affair Remix",
+      "url": "https://open.spotify.com/track/6pmtyOLPnhEk4w4NJLPG8A"
+    },
+    {
+      "album": {
         "name": "The Orb, TX",
         "url": "https://open.spotify.com/album/1LZULd3qYbBRKY74exqSBN"
       },
@@ -27664,7 +27896,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 156054,
       "name": "There Goes Ma Head",
       "url": "https://open.spotify.com/track/0ceKqpXrrC3CtFwFiLJeoY"
@@ -28778,7 +29010,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 196415,
       "name": "U Can't Come Home",
       "url": "https://open.spotify.com/track/6cB7xUxRQgx1k9WwvRNoPr"
@@ -30872,6 +31104,24 @@
       "duration_ms": 240000,
       "name": "Why Change The World",
       "url": "https://open.spotify.com/track/0Nw6plX9kKHSz7YA3Zm1BK"
+    },
+    {
+      "album": {
+        "name": "Why Why",
+        "url": "https://open.spotify.com/album/2oTmIJ3msSnvWWWwAqOvb5"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185332,
+      "name": "Why Why",
+      "url": "https://open.spotify.com/track/7JuZuYCMq9RK4LgnJ3xnJS"
     },
     {
       "album": {

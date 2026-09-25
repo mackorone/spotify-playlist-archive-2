@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iMvyE.md) - [plain]
 
 > This is Jonas Brothers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 422,811 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 422,837 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iMvyE.md) - [plain]
 | 41 | [Wings](https://open.spotify.com/track/7DVcgqaCDXtwZIjRTPb8bm) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 1:58 |
 | 42 | [Still In Love With You](https://open.spotify.com/track/0iNby3PysK5uPEOAA5SOz1) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Jonas Brothers](https://open.spotify.com/album/3n2IrYeqT3UzNpupQcfgbz) | 3:10 |
 | 43 | [cliché \- Jonas Brothers remix](https://open.spotify.com/track/3sqySB5Pxon72vDIdduez4) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [cliché \(Jonas Brothers remix\)](https://open.spotify.com/album/22J6WrAyDz3ZsTqXiEGeqn) | 2:56 |
-| 44 | [Fly With Me](https://open.spotify.com/track/4mhyDbz8Rea9GtQ1koXEKr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Lines, Vines and Trying Times](https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb) | 3:54 |
-| 45 | [BB Good](https://open.spotify.com/track/2GmZfhcsYz3BselkzN2nAX) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 2:56 |
+| 44 | [BB Good](https://open.spotify.com/track/2GmZfhcsYz3BselkzN2nAX) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 2:56 |
+| 45 | [Fly With Me](https://open.spotify.com/track/4mhyDbz8Rea9GtQ1koXEKr) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Lines, Vines and Trying Times](https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb) | 3:54 |
 | 46 | [Lonely \(with Jonas Brothers\)](https://open.spotify.com/track/6eXFl418w8hsxKcLgv1jwJ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/24EiVoJXLPY9a6a7AqZNDg) | 2:19 |
 | 47 | [Don't Throw it Away](https://open.spotify.com/track/24eP9hGnGR6RCQvllQVkCm) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 2:52 |
-| 48 | [Paranoid](https://open.spotify.com/track/23JB628uq1E8Hl4tiuRZ3t) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Lines, Vines and Trying Times](https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb) | 3:38 |
-| 49 | [Tonight](https://open.spotify.com/track/5UA49g3Va5ERaf2DHAY9Zu) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 3:29 |
+| 48 | [Tonight](https://open.spotify.com/track/5UA49g3Va5ERaf2DHAY9Zu) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [A Little Bit Longer](https://open.spotify.com/album/6EPVrCx01fQu8gmIbOjyFW) | 3:29 |
+| 49 | [Paranoid](https://open.spotify.com/track/23JB628uq1E8Hl4tiuRZ3t) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Lines, Vines and Trying Times](https://open.spotify.com/album/2QXAQ8FaktKXnEO2ueWGNb) | 3:38 |
 | 50 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 |
 
-Snapshot ID: `arHFAAAAAAB2F3KPu3hhsYCS1nyijXVX`
+Snapshot ID: `arMWgAAAAADfGavF6FYwfpgVVrSaHBos`

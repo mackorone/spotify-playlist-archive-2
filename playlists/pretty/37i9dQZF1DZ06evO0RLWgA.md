@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 
 > This is John Lee Hooker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,811 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,818 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 26 | [Serves Me Right to Suffer / Syndicator \- feat\. Van Morrison \- 2007 Remaster](https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 6:26 |
 | 27 | [Bang Bang Bang Bang](https://open.spotify.com/track/5UnmgwcLKjJI4HXt2loSNv) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [If You Miss 'Im \. \. \. I Got 'Im](https://open.spotify.com/album/1yrXO83AmT3Q4O5Y7ZhqrW) | 4:47 |
 | 28 | [Blues Before Sunrise](https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Burnin'](https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz) | 3:49 |
-| 29 | [I Need Some Money](https://open.spotify.com/track/4SjUzT00ytvjmhpd2LaWDo) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:28 |
-| 30 | [I Can't Quit You Baby](https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [More Real Folk Blues: The Missing Album](https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11) | 3:28 |
+| 29 | [I Can't Quit You Baby](https://open.spotify.com/track/1RgxsdVXU33n2po7sFdMHD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [More Real Folk Blues: The Missing Album](https://open.spotify.com/album/5lwxL0qai9arfOIorpQL11) | 3:28 |
+| 30 | [I Need Some Money](https://open.spotify.com/track/4SjUzT00ytvjmhpd2LaWDo) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Whiskey & Wimmen: John Lee Hooker's Finest](https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7) | 2:28 |
 | 31 | [Stella Mae](https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Real Folk Blues](https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY) | 3:04 |
 | 32 | [Ali D'Oro](https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT) | [Zucchero](https://open.spotify.com/artist/2KftmGt9sk1yLjsAoloC3M), [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Shake](https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn) | 4:56 |
 | 33 | [Baby Lee \- feat\. Robert Cray](https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj) | [The Healer](https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RLWgA.md) - [plain]
 | 49 | [My Own Blues](https://open.spotify.com/track/0GlMkhYvq1usAq45nFOh7o) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:33 |
 | 50 | [Crawlin' King Snake](https://open.spotify.com/track/1trdHaOi0ORDVgJ59hFQ7I) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Legendary Modern Recordings](https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB) | 3:02 |
 
-Snapshot ID: `arHFAAAAAAA8t6XXxZRwaDpcVmIKz5gP`
+Snapshot ID: `arMWgAAAAACGOHjFNtTuwAGae5lTvkBx`

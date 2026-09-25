@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,470 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,467 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,13 +88,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 78 | [Better Days](https://open.spotify.com/track/7Kjsucw8st8IdclUhYNelw) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Chill Mood](https://open.spotify.com/album/44GdHFKFtyd0JK8a4nv9RP) | 1:58 |
 | 79 | [Abrázame mucho estos días](https://open.spotify.com/track/6HcZfq7BQHrVS9jlEmhBsU) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Abrázame mucho estos días](https://open.spotify.com/album/2ewnGGkHJg0pbo41zkSPXq) | 2:42 |
 | 80 | [Mi Tierra](https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx) | [El Trizte](https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV) | [Mi Tierra](https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI) | 1:57 |
-| 81 | [Agua](https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ) | [Ajvsco](https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ), [El More](https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg) | [Agua](https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq) | 3:17 |
-| 82 | [Extraños \(Strangers\)](https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:51 |
+| 81 | [Extraños \(Strangers\)](https://open.spotify.com/track/4zjGq47FUV76qFoSbD9pl9) | [Raouf Beats](https://open.spotify.com/artist/5KVCvRxkmEVquvmkLe0fII), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Ocaso Sin Fin](https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz) | 1:51 |
+| 82 | [Agua](https://open.spotify.com/track/4Reotx5u8AUlqEMkDhhuIQ) | [Ajvsco](https://open.spotify.com/artist/0mc5LR2ANAISecKpU5gzCQ), [El More](https://open.spotify.com/artist/02PrSshND8fAVGs3G0YVdg) | [Agua](https://open.spotify.com/album/3y3Xc0LlcqTF8JDWDqx0pq) | 3:17 |
 | 83 | [Dusk Jazz Delight](https://open.spotify.com/track/63rZ23bWkFYg1zjrQkkGW7) | [Música Relajante](https://open.spotify.com/artist/6oW2Jm8RkXwtSSVygv98iR) | [Dusk Jazz Delight](https://open.spotify.com/album/1U18ah0XiWi7KeMtZkEgQB) | 2:01 |
 | 84 | [alone alone](https://open.spotify.com/track/5EP4twphCMkOHxqggs8pLO) | [Thragg](https://open.spotify.com/artist/4KraaAklBXbvRca8o9S99H) | [alone alone](https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO) | 1:30 |
 | 85 | [Songbird Serenity](https://open.spotify.com/track/1RDwAD9cyldvgcHn1TvnyK) | [Alpharene](https://open.spotify.com/artist/33PxA57FPX8pGz5WcfWE8a), [Romega](https://open.spotify.com/artist/3BRpgHuU3OnFezYg2C8rva), [Chill Yume](https://open.spotify.com/artist/4ZBlnStaBtNzGrqKcIIl7b) | [Songbird Serenity](https://open.spotify.com/album/5YfE8lRIAt0X8A7qrkTeYB) | 1:54 |
-| 86 | [Maranta](https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [The Plant Whisperer](https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te) | 2:17 |
-| 87 | [woozy](https://open.spotify.com/track/0Cb6pz4XaDphvSDpJXHNWI) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [woozy](https://open.spotify.com/album/76lS2gqtVbaRUMedAAzKN1) | 1:17 |
+| 86 | [woozy](https://open.spotify.com/track/0Cb6pz4XaDphvSDpJXHNWI) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [woozy](https://open.spotify.com/album/76lS2gqtVbaRUMedAAzKN1) | 1:17 |
+| 87 | [Maranta](https://open.spotify.com/track/1LKFi6ekNYuhFfuEQ7QE44) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP) | [The Plant Whisperer](https://open.spotify.com/album/1raEGgO92sAlrU3tP9A7te) | 2:17 |
 | 88 | [Arrebol](https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy) | [Gagdropers](https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf) | [22](https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw) | 2:12 |
 | 89 | [Dreaming of summer](https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX) | [Grethel Ross](https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg) | [Dreaming of summer](https://open.spotify.com/album/6MvTkD17pTjv8eJ3RHXzu0) | 1:35 |
 | 90 | [van life](https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY) | [Jose Bautista](https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB), [Acrylic Sleep](https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny) | [van life](https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt) | 2:15 |

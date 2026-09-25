@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The new wave of alternative, genre-bending and creative afro fusion music: Scottyolorin",
+  "description": "The new wave of alternative, genre-bending and creative afro fusion music: BLNDE",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -1490,7 +1490,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 146285,
       "name": "ataKO",
       "url": "https://open.spotify.com/track/5rBrGcFb5ofhRwHL6VFaK8"
@@ -6162,7 +6162,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 198260,
       "name": "Don't Go Far",
       "url": "https://open.spotify.com/track/33qLiRPjkus5clxQvBBLgW"
@@ -6522,6 +6522,24 @@
       "duration_ms": 193000,
       "name": "Early Momo",
       "url": "https://open.spotify.com/track/3wYuNJPSFESv8kQ5HMQaGA"
+    },
+    {
+      "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Easy Company",
+      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
     },
     {
       "album": {
@@ -9332,6 +9350,24 @@
       "duration_ms": 173617,
       "name": "Home",
       "url": "https://open.spotify.com/track/5XA5kCHbrnwNYGrcUXxHak"
+    },
+    {
+      "album": {
+        "name": "In The Time It Takes To Bloom",
+        "url": "https://open.spotify.com/album/1po0PosZYcyziswAWELEhm"
+      },
+      "artists": [
+        {
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225244,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/5436XVgvMBSa2qMhZHrOvG"
     },
     {
       "album": {
@@ -18453,6 +18489,28 @@
     },
     {
       "album": {
+        "name": "Sam Loco",
+        "url": "https://open.spotify.com/album/7hxSqSEadUIaVI73BGpsOg"
+      },
+      "artists": [
+        {
+          "name": "R33NZO",
+          "url": "https://open.spotify.com/artist/2w34rjWGumCU3vOiCVd3J6"
+        },
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122448,
+      "name": "Sam Loco",
+      "url": "https://open.spotify.com/track/76TYCrrpDwUmj8PpleVcey"
+    },
+    {
+      "album": {
         "name": "SAME TIME",
         "url": "https://open.spotify.com/album/1Cgfvc3oOpSa0UBlYyWqjl"
       },
@@ -18954,7 +19012,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171205,
       "name": "Sex on the Beach",
       "url": "https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd"
@@ -23048,6 +23106,24 @@
       "duration_ms": 222826,
       "name": "Vintage",
       "url": "https://open.spotify.com/track/0EQt3hJTjy2dYuxZp3cqo9"
+    },
+    {
+      "album": {
+        "name": "BLNDE FOR PRESIDENT",
+        "url": "https://open.spotify.com/album/02dtj1MTRmvitNmTwjE4Nl"
+      },
+      "artists": [
+        {
+          "name": "BLNDE",
+          "url": "https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141116,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/5Nel8CnZxSZUZ3i3yLowLk"
     },
     {
       "album": {

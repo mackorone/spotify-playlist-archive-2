@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1183984,
+  "num_followers": 1183994,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
         "name": "How Will You Know If You Never Try",
         "url": "https://open.spotify.com/album/4TJUrdwbeKC9qcouPlBuLe"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 157560,
       "name": "Blue Orchid",
       "url": "https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
-        "name": "Cub",
-        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
-      },
-      "artists": [
-        {
-          "name": "Wunderhorse",
-          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Purple",
-      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Murder on the Dancefloor (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        },
-        {
-          "name": "triple j",
-          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
-        }
-      ],
-      "duration_ms": 180872,
-      "name": "Murder on the Dancefloor - triple j Like A Version",
-      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "Funeral",
         "url": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH"
       },
@@ -791,18 +771,22 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
+        "name": "Murder on the Dancefloor (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
       },
       "artists": [
         {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        },
+        {
+          "name": "triple j",
+          "url": "https://open.spotify.com/artist/2ztWo9ZI0S6mzpQVmmMcE1"
         }
       ],
-      "duration_ms": 223786,
-      "name": "No You Girls",
-      "url": "https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"
+      "duration_ms": 180872,
+      "name": "Murder on the Dancefloor - triple j Like A Version",
+      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -827,6 +811,22 @@
       "duration_ms": 232200,
       "name": "The High Road",
       "url": "https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 223786,
+      "name": "No You Girls",
+      "url": "https://open.spotify.com/track/4VP8QiCeaZq8BeTIUrMQOG"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Witchazel",
-        "url": "https://open.spotify.com/album/4IPJJDq7Ur6Y7JF27ykniO"
-      },
-      "artists": [
-        {
-          "name": "Matt Berry",
-          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
-        }
-      ],
-      "duration_ms": 190586,
-      "name": "Take My Hand",
-      "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "Yoshimi Battles the Pink Robots",
         "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 287506,
       "name": "Yoshimi Battles the Pink Robots, Pt. 1",
       "url": "https://open.spotify.com/track/0ccCwNzXvr1Yoz91vKz31Z"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Witchazel",
+        "url": "https://open.spotify.com/album/4IPJJDq7Ur6Y7JF27ykniO"
+      },
+      "artists": [
+        {
+          "name": "Matt Berry",
+          "url": "https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto"
+        }
+      ],
+      "duration_ms": 190586,
+      "name": "Take My Hand",
+      "url": "https://open.spotify.com/track/6n4iuOHAOIu5LtbXBKrD0f"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Do You Really Love Her",
-        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
-      },
-      "artists": [
-        {
-          "name": "Spacey Jane",
-          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
-        }
-      ],
-      "duration_ms": 228168,
-      "name": "Do You Really Love Her",
-      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "Ants From Up There",
         "url": "https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 363773,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/0y5akbuW5mCnnUe71xATpe"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Do You Really Love Her",
+        "url": "https://open.spotify.com/album/574rsOAjtvMf9Y8DuYl0HN"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 228168,
+      "name": "Do You Really Love Her",
+      "url": "https://open.spotify.com/track/0taitulsqplmFbqzO8GEqa"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Days Are Gone",
-        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
-      },
-      "artists": [
-        {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "The Wire",
-      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "Box for Buddy, Box for Star (Deluxe)",
         "url": "https://open.spotify.com/album/0IQparYBt1I5vuApAzJwz0"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 298080,
       "name": "Dancing in the Club - MJ Lenderman Version",
       "url": "https://open.spotify.com/track/2aFkH4wK9nZbgtmlq411f2"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Days Are Gone",
+        "url": "https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 254305,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "Broken Bells",
         "url": "https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Vampire Weekend",
-        "url": "https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x"
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
       },
       "artists": [
         {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
         }
       ],
-      "duration_ms": 195733,
-      "name": "Oxford Comma",
-      "url": "https://open.spotify.com/track/1CZw0Lymzi2Lvy1XZ6rXh5"
+      "duration_ms": 254305,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1303,6 +1287,22 @@
       "duration_ms": 357160,
       "name": "Impossible Germany",
       "url": "https://open.spotify.com/track/6L0BBPYeWnaQJeDa0ox0IA"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 195733,
+      "name": "Oxford Comma",
+      "url": "https://open.spotify.com/track/1CZw0Lymzi2Lvy1XZ6rXh5"
     },
     {
       "added_at": "2026-07-31 22:54:22",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2026-07-31 22:54:22",
       "album": {
-        "name": "Canopy & Shades Of Green",
-        "url": "https://open.spotify.com/album/06edgNjavwaBkVkBMEQkUR"
-      },
-      "artists": [
-        {
-          "name": "Winyah",
-          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
-        }
-      ],
-      "duration_ms": 176888,
-      "name": "Canopy",
-      "url": "https://open.spotify.com/track/5e9tqR7s11fwbPXJWyI4WC"
-    },
-    {
-      "added_at": "2026-07-31 22:54:22",
-      "album": {
         "name": "Eternally Even",
         "url": "https://open.spotify.com/album/2wYw4vZlu7XwvtdQPRmsmL"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 256413,
       "name": "Here In Spirit",
       "url": "https://open.spotify.com/track/5GE8FTL15kS123apRK7vD4"
+    },
+    {
+      "added_at": "2026-07-31 22:54:22",
+      "album": {
+        "name": "Canopy & Shades Of Green",
+        "url": "https://open.spotify.com/album/06edgNjavwaBkVkBMEQkUR"
+      },
+      "artists": [
+        {
+          "name": "Winyah",
+          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
+        }
+      ],
+      "duration_ms": 176888,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/5e9tqR7s11fwbPXJWyI4WC"
     },
     {
       "added_at": "2026-07-31 22:54:22",

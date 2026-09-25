@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 71099,
+  "num_followers": 71107,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABe7D1P2sQwE/Vabv+qHqjm",
+  "snapshot_id": "arMWgAAAAACA8BdF9uLOhS67Wuj3Pi3u",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Relevo",
-        "url": "https://open.spotify.com/album/58BCinurA7NihCoPpBiHtN"
+        "name": "OzuTochi",
+        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
       "artists": [
         {
-          "name": "Luis Figueroa",
-          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 244386,
-      "name": "Fingir Est\u00e1 De Moda",
-      "url": "https://open.spotify.com/track/21veSwBRn0s1HHLBf7fxZE"
+      "duration_ms": 204413,
+      "name": "Mar Chiquita",
+      "url": "https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI"
     },
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "OzuTochi",
-        "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
+        "name": "El Relevo",
+        "url": "https://open.spotify.com/album/58BCinurA7NihCoPpBiHtN"
       },
       "artists": [
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Luis Figueroa",
+          "url": "https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 204413,
-      "name": "Mar Chiquita",
-      "url": "https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI"
+      "duration_ms": 244386,
+      "name": "Fingir Est\u00e1 De Moda",
+      "url": "https://open.spotify.com/track/21veSwBRn0s1HHLBf7fxZE"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 201540,
-      "name": "Para Ayudarte a Reir",
-      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 205959,
       "name": "La Neta",
       "url": "https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 201540,
+      "name": "Para Ayudarte a Reir",
+      "url": "https://open.spotify.com/track/6JkWvuiNPt4fmnEdBE4fir"
     },
     {
       "added_at": null,
@@ -847,22 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 254258,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 173310,
       "name": "Volver a Casa",
       "url": "https://open.spotify.com/track/0fiY9KBlMWgK1xrQTlmzyS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 254258,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/6MvSpQzS732DcvdHNc0hBj"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aquila",
-        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 238445,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estoy Enamorado (En Vivo)",
         "url": "https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw"
       },
@@ -947,6 +931,42 @@
       "duration_ms": 183592,
       "name": "Estoy Enamorado - En Vivo",
       "url": "https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aquila",
+        "url": "https://open.spotify.com/album/6kNA5bH9hxoZuoUHZJt3fI"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 238445,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/4kmeo6vgaOwksRN95HgY9E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palmeras",
+        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
+      },
+      "artists": [
+        {
+          "name": "India Martinez",
+          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
+      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
     },
     {
       "added_at": null,
@@ -975,22 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palmeras",
-        "url": "https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL"
+        "name": "BESITOS Y BESITAS",
+        "url": "https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5"
       },
       "artists": [
         {
-          "name": "India Martinez",
-          "url": "https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV"
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
         },
         {
           "name": "Pedro Cap\u00f3",
           "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 162857,
-      "name": "Besos Escond\u00edos (feat. Pedro Cap\u00f3)",
-      "url": "https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu"
+      "duration_ms": 220213,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/3IT7vsVEwg0LyJ8eVGtvzn"
     },
     {
       "added_at": null,
@@ -1011,26 +1031,6 @@
       "duration_ms": 209833,
       "name": "Qu\u00e9 Fuimos (feat. Matisse)",
       "url": "https://open.spotify.com/track/5vRwOK31sTh80qJAZeP1Ox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BESITOS Y BESITAS",
-        "url": "https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 220213,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/3IT7vsVEwg0LyJ8eVGtvzn"
     }
   ],
   "unique_name": "This Is Pedro Cap\u00f3",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 570188,
+  "num_followers": 570201,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "pa ti toa <3",
-        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "\u00cd\u00f1igo Quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
         }
       ],
-      "duration_ms": 213001,
-      "name": "pa ti toa <3",
-      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -207,18 +203,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+        "name": "pa ti toa <3",
+        "url": "https://open.spotify.com/album/2QVvlMjlbV445e9a5y2obD"
       },
       "artists": [
         {
-          "name": "\u00cd\u00f1igo Quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+      "duration_ms": 213001,
+      "name": "pa ti toa <3",
+      "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+        "name": "DAISY",
+        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
         }
       ],
-      "duration_ms": 248906,
-      "name": "Don't Stop Believin'",
-      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
+      "duration_ms": 215250,
+      "name": "malibU",
+      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -363,18 +363,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "DAISY",
-        "url": "https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ"
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
       },
       "artists": [
         {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 215250,
-      "name": "malibU",
-      "url": "https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ"
+      "duration_ms": 248906,
+      "name": "Don't Stop Believin'",
+      "url": "https://open.spotify.com/track/77NNZQSqzLNqh2A9JhLRkg"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 148720,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/33NgMBpGrhqLcsmWcpSYot"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 219960,
       "name": "CONTIGO VOY A MUERTE",
       "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Para Cuando Sean Mayores",
-        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 148720,
-      "name": "Chiquita",
-      "url": "https://open.spotify.com/track/33NgMBpGrhqLcsmWcpSYot"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Lady Soul (With Bonus Selections)",
+        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Dos Amantes",
         "url": "https://open.spotify.com/album/7KHlnJ9FBIEDnHi899L3yh"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 188513,
       "name": "Dos Amantes",
       "url": "https://open.spotify.com/track/5Nnd7tvjwHjexXjhbl0WSD"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Lady Soul (With Bonus Selections)",
-        "url": "https://open.spotify.com/album/7lEOKZaOpqP70UYqdLPejG"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "(You Make Me Feel Like) A Natural Woman",
-      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Por la boca vive el pez",
-        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
-      },
-      "artists": [
-        {
-          "name": "Fito y Fitipaldis",
-          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
-        }
-      ],
-      "duration_ms": 375119,
-      "name": "Acabo de llegar",
-      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Los Lugares Donde Ir\u00e1s",
         "url": "https://open.spotify.com/album/78Q2cME3Xqp5REjAlDHX8a"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 176000,
       "name": "Los Lugares Donde Ir\u00e1s",
       "url": "https://open.spotify.com/track/4p1C7lssRJgOkdpPWlb6s1"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Por la boca vive el pez",
+        "url": "https://open.spotify.com/album/5iW5yzlJsGBIfsemMr8v8y"
+      },
+      "artists": [
+        {
+          "name": "Fito y Fitipaldis",
+          "url": "https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo"
+        }
+      ],
+      "duration_ms": 375119,
+      "name": "Acabo de llegar",
+      "url": "https://open.spotify.com/track/5LlXYUfSei584BdUJ05Lo3"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "La Cruz Del Mapa",
-        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 270187,
-      "name": "Qu\u00e9 Bonito Es Querer",
-      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "a nuevos lugares",
         "url": "https://open.spotify.com/album/62eRw5rCI0KwWWCiEX4tq4"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 203102,
       "name": "A D\u00f3nde Vamos",
       "url": "https://open.spotify.com/track/671sG3ETDxC3L6qcGIrHRM"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "La Cruz Del Mapa",
+        "url": "https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 270187,
+      "name": "Qu\u00e9 Bonito Es Querer",
+      "url": "https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1795,6 +1795,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "Mucho Por Vivir",
+        "url": "https://open.spotify.com/album/4lqmri54Jap1lOS7FthZrh"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 229386,
+      "name": "\u00a1Que Bonito!",
+      "url": "https://open.spotify.com/track/1MO5KuLnSaY1dlkWGDjHkT"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "La Jaur\u00eda",
         "url": "https://open.spotify.com/album/4cAjvCWbcfaDhuiJxew1Sw"
       },
@@ -1815,18 +1831,22 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Mucho Por Vivir",
-        "url": "https://open.spotify.com/album/4lqmri54Jap1lOS7FthZrh"
+        "name": "Otras Alas",
+        "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
       },
       "artists": [
         {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
         }
       ],
-      "duration_ms": 229386,
-      "name": "\u00a1Que Bonito!",
-      "url": "https://open.spotify.com/track/1MO5KuLnSaY1dlkWGDjHkT"
+      "duration_ms": 187016,
+      "name": "nana triste",
+      "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1847,26 +1867,6 @@
       "duration_ms": 209712,
       "name": "Porfa no te vayas",
       "url": "https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "Otras Alas",
-        "url": "https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        },
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 187016,
-      "name": "nana triste",
-      "url": "https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Your Song",
-        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
-      },
-      "artists": [
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 180757,
-      "name": "Your Song",
-      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
         "name": "Let's Love",
         "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
       },
@@ -2043,18 +2027,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Nochentera",
-        "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
+        "name": "Your Song",
+        "url": "https://open.spotify.com/album/6lrm01OVZZVmarH2XLSAXZ"
       },
       "artists": [
         {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 202184,
-      "name": "Nochentera",
-      "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
+      "duration_ms": 180757,
+      "name": "Your Song",
+      "url": "https://open.spotify.com/track/4c2W3VKsOFoIg2SFaO6DY5"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2071,6 +2055,22 @@
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/020Gj87SqDRvzGHELzcCEc"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
+        "name": "Nochentera",
+        "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "duration_ms": 202184,
+      "name": "Nochentera",
+      "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2423,6 +2423,26 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
+        "name": "NUDITO (Remix)",
+        "url": "https://open.spotify.com/album/78Mm8dllG3k0QFVXFPZC9C"
+      },
+      "artists": [
+        {
+          "name": "Gemeliers",
+          "url": "https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw"
+        },
+        {
+          "name": "Marta Santos",
+          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+        }
+      ],
+      "duration_ms": 139768,
+      "name": "NUDITO - Remix",
+      "url": "https://open.spotify.com/track/21JKuRHUBIIT9uscKVKoDs"
+    },
+    {
+      "added_at": "2026-09-17 16:51:37",
+      "album": {
         "name": "Dharma",
         "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
@@ -2487,22 +2507,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "NUDITO (Remix)",
-        "url": "https://open.spotify.com/album/78Mm8dllG3k0QFVXFPZC9C"
+        "name": "El Bien",
+        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
       },
       "artists": [
         {
-          "name": "Gemeliers",
-          "url": "https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw"
-        },
-        {
-          "name": "Marta Santos",
-          "url": "https://open.spotify.com/artist/2NeFajzkAQ4UfviWdzf0pK"
+          "name": "Viva Suecia",
+          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
         }
       ],
-      "duration_ms": 139768,
-      "name": "NUDITO - Remix",
-      "url": "https://open.spotify.com/track/21JKuRHUBIIT9uscKVKoDs"
+      "duration_ms": 206226,
+      "name": "El Bien",
+      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2523,18 +2539,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "El Bien",
-        "url": "https://open.spotify.com/album/2N4aZQEcXjpkZFfHoQAVA4"
+        "name": "INFANCIA MAL CALIBRADA",
+        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
       },
       "artists": [
         {
-          "name": "Viva Suecia",
-          "url": "https://open.spotify.com/artist/57s0ep3eNSg81D7ZxiuHbC"
+          "name": "Barry B",
+          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
         }
       ],
-      "duration_ms": 206226,
-      "name": "El Bien",
-      "url": "https://open.spotify.com/track/2y7b6A4hhl3ysYlU2kztGD"
+      "duration_ms": 278145,
+      "name": "VICTORIA",
+      "url": "https://open.spotify.com/track/39F3LM8cs7Wsj48deuXEzq"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2571,22 +2587,6 @@
       "duration_ms": 216493,
       "name": "Flags",
       "url": "https://open.spotify.com/track/2RZ8SjEJYJHZ8YCUzls77w"
-    },
-    {
-      "added_at": "2026-09-17 16:51:37",
-      "album": {
-        "name": "INFANCIA MAL CALIBRADA",
-        "url": "https://open.spotify.com/album/16xCvyLPONGbD1pij2GOQ1"
-      },
-      "artists": [
-        {
-          "name": "Barry B",
-          "url": "https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy"
-        }
-      ],
-      "duration_ms": 278145,
-      "name": "VICTORIA",
-      "url": "https://open.spotify.com/track/39F3LM8cs7Wsj48deuXEzq"
     },
     {
       "added_at": "2026-09-17 16:51:37",
@@ -2663,22 +2663,18 @@
     {
       "added_at": "2026-09-17 16:51:37",
       "album": {
-        "name": "Domingo de Playita",
-        "url": "https://open.spotify.com/album/5DasiQ2KxCVtN6m5tZnapl"
+        "name": "Desde Que No Nos Vemos",
+        "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
       },
       "artists": [
         {
-          "name": "L\u00e9rica",
-          "url": "https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo"
-        },
-        {
-          "name": "Funzo",
-          "url": "https://open.spotify.com/artist/4fqIWm9UJskEBvqnNHuEHo"
+          "name": "Enrique Urquijo y Los problemas",
+          "url": "https://open.spotify.com/artist/43Q662o1VzhO3xwj97FWxT"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Domingo de Playita",
-      "url": "https://open.spotify.com/track/5S3w8KEgXI2HaiaVKLJhBm"
+      "duration_ms": 144840,
+      "name": "Aunque t\u00fa no lo sepas",
+      "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
     },
     {
       "added_at": "2026-09-17 16:51:37",

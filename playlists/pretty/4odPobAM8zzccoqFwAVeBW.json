@@ -6,8 +6,248 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABOHvXUQdOgFqD5QdpE/MKktANpG7gn",
+  "snapshot_id": "AABOOCPyJa67E6iYPzNADBH/LKJP5vco",
   "tracks": [
+    {
+      "added_at": "2026-09-24 12:21:34",
+      "album": {
+        "name": "Cycle (James Adrian Brown Remix)",
+        "url": "https://open.spotify.com/album/3Ym4p1q43fi3U5XIat6JZa"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        },
+        {
+          "name": "Andy Bell",
+          "url": "https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc"
+        },
+        {
+          "name": "James Adrian Brown",
+          "url": "https://open.spotify.com/artist/42tz1PWwrLG2F3nZzVSVQq"
+        }
+      ],
+      "duration_ms": 246868,
+      "name": "Cycle - James Adrian Brown Remix",
+      "url": "https://open.spotify.com/track/0NJdkW3lUrbCDVAyswYZU3"
+    },
+    {
+      "added_at": "2026-09-24 12:45:22",
+      "album": {
+        "name": "Severn Flood Plain",
+        "url": "https://open.spotify.com/album/2ixDGlHsYZNWMm5jb8swgs"
+      },
+      "artists": [
+        {
+          "name": "Jabu",
+          "url": "https://open.spotify.com/artist/0k39wRHFnByQK98pvTw5XJ"
+        }
+      ],
+      "duration_ms": 218362,
+      "name": "Severn Flood Plain",
+      "url": "https://open.spotify.com/track/7581l4ChlzSAdybje2MPiH"
+    },
+    {
+      "added_at": "2026-09-24 12:21:49",
+      "album": {
+        "name": "Shake Sum Action",
+        "url": "https://open.spotify.com/album/6wGffsRVU0dQOfr9o8qLv8"
+      },
+      "artists": [
+        {
+          "name": "SPLIT DOGS",
+          "url": "https://open.spotify.com/artist/2knguAkuatcKmqXZkBxaLs"
+        }
+      ],
+      "duration_ms": 114548,
+      "name": "Shake Sum Action",
+      "url": "https://open.spotify.com/track/2kPiyPrnsM0nDDuyzJzqB8"
+    },
+    {
+      "added_at": "2026-09-24 12:21:21",
+      "album": {
+        "name": "Amalgamate",
+        "url": "https://open.spotify.com/album/6WYagw8Hs9hjtfsj4BN2dy"
+      },
+      "artists": [
+        {
+          "name": "33EMYBW",
+          "url": "https://open.spotify.com/artist/0faVPXr9Sui0OWJl2hRDQT"
+        }
+      ],
+      "duration_ms": 433933,
+      "name": "Amalgamate",
+      "url": "https://open.spotify.com/track/35RBX89Vhq0KhiJ8JtxWcj"
+    },
+    {
+      "added_at": "2026-09-24 12:20:42",
+      "album": {
+        "name": "BOWIE",
+        "url": "https://open.spotify.com/album/5H82lQLFzAnmPUTWfI408E"
+      },
+      "artists": [
+        {
+          "name": "otta",
+          "url": "https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "BOWIE",
+      "url": "https://open.spotify.com/track/2IlmcajrKigsFzy2Xur1Ay"
+    },
+    {
+      "added_at": "2026-09-24 12:46:12",
+      "album": {
+        "name": "Young Forever (Sunshine Mix)",
+        "url": "https://open.spotify.com/album/7nQGsKgTxylohqThlVZ9iO"
+      },
+      "artists": [
+        {
+          "name": "Opal Mag",
+          "url": "https://open.spotify.com/artist/04DSTB4v2Gskr37xC4uaAD"
+        },
+        {
+          "name": "Dorl\u00e9ac",
+          "url": "https://open.spotify.com/artist/2Hzbu9BaTEpjmg08iZmpJe"
+        }
+      ],
+      "duration_ms": 228986,
+      "name": "Young Forever - Sunshine Mix",
+      "url": "https://open.spotify.com/track/2mKzyiBPFzwcNRHjmY7yuL"
+    },
+    {
+      "added_at": "2026-09-24 12:46:46",
+      "album": {
+        "name": "Walk Ya Down",
+        "url": "https://open.spotify.com/album/7h0MS27tdPleRmDuj0TN76"
+      },
+      "artists": [
+        {
+          "name": "Dj.Mc",
+          "url": "https://open.spotify.com/artist/2WjLYf8BKXileo5m5VHgPm"
+        }
+      ],
+      "duration_ms": 204197,
+      "name": "Walk Ya Down",
+      "url": "https://open.spotify.com/track/5HFZ1foVMlgMcMIHNz8hLQ"
+    },
+    {
+      "added_at": "2026-09-24 12:45:02",
+      "album": {
+        "name": "Arms Of None (Radio Edit)",
+        "url": "https://open.spotify.com/album/1hEYi5lhsBqYdMU8RdCDBu"
+      },
+      "artists": [
+        {
+          "name": "Pharaoh Overlord",
+          "url": "https://open.spotify.com/artist/3Aym9HWMoIOubfMXll94Jp"
+        }
+      ],
+      "duration_ms": 193777,
+      "name": "Arms Of None - Radio Edit",
+      "url": "https://open.spotify.com/track/5xejcbSawbgnUGFThil3et"
+    },
+    {
+      "added_at": "2026-09-24 12:21:07",
+      "album": {
+        "name": "Bj\u00e4rtr\u00e5 Fyra",
+        "url": "https://open.spotify.com/album/46knh97wWB7kchnnFR9ZGO"
+      },
+      "artists": [
+        {
+          "name": "Civilistj\u00e4vel!",
+          "url": "https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC"
+        },
+        {
+          "name": "Guest",
+          "url": "https://open.spotify.com/artist/2YVPbs0BwuYoJnMlpcXj4s"
+        }
+      ],
+      "duration_ms": 410599,
+      "name": "Bj\u00e4rtr\u00e5 Fyra",
+      "url": "https://open.spotify.com/track/4Qcttp4k74GjF765dRdY3p"
+    },
+    {
+      "added_at": "2026-09-24 12:45:43",
+      "album": {
+        "name": "The Village Beneath the Waves",
+        "url": "https://open.spotify.com/album/4fTk5GOCLt4OjMuIziAiLe"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "duration_ms": 135549,
+      "name": "The Village Beneath the Waves",
+      "url": "https://open.spotify.com/track/7sJSy5JOR124UCRYqycALL"
+    },
+    {
+      "added_at": "2026-09-24 12:47:10",
+      "album": {
+        "name": "This Machine",
+        "url": "https://open.spotify.com/album/4rFIzHfoPqw153OLrz6927"
+      },
+      "artists": [
+        {
+          "name": "Warrington-Runcorn New Town Development Plan",
+          "url": "https://open.spotify.com/artist/0kYGmuTQJNE0BrbEx6lqXr"
+        }
+      ],
+      "duration_ms": 303939,
+      "name": "This Machine",
+      "url": "https://open.spotify.com/track/5C0SOENiaG6FQTGYKt4cRd"
+    },
+    {
+      "added_at": "2026-09-24 12:49:21",
+      "album": {
+        "name": "Drastika",
+        "url": "https://open.spotify.com/album/4UBfetOdfwdko9axrtQAlg"
+      },
+      "artists": [
+        {
+          "name": "Sense Fracture",
+          "url": "https://open.spotify.com/artist/1izZ6suiYhavcv4x9GJXMJ"
+        }
+      ],
+      "duration_ms": 301333,
+      "name": "Drastika",
+      "url": "https://open.spotify.com/track/4y59S8iiE8eMppm9G9Pskg"
+    },
+    {
+      "added_at": "2026-09-24 12:22:03",
+      "album": {
+        "name": "Two Bubbles",
+        "url": "https://open.spotify.com/album/3EiS5uzVCcC2maL8S9LFF2"
+      },
+      "artists": [
+        {
+          "name": "Another Dancer",
+          "url": "https://open.spotify.com/artist/1APEs2tCNyGr2pdAvfCZHq"
+        }
+      ],
+      "duration_ms": 217263,
+      "name": "Two Bubbles",
+      "url": "https://open.spotify.com/track/5i9grnKLlXX5ajutZQCbpH"
+    },
+    {
+      "added_at": "2026-09-24 12:47:32",
+      "album": {
+        "name": "Psychic Area",
+        "url": "https://open.spotify.com/album/0n4Z5fNrikGoh4N3HhTd2w"
+      },
+      "artists": [
+        {
+          "name": "Joachim Nordwall",
+          "url": "https://open.spotify.com/artist/4w3hQtyx7t6ULytAbNYA30"
+        }
+      ],
+      "duration_ms": 644000,
+      "name": "Private Listener",
+      "url": "https://open.spotify.com/track/38Q9WsBzOU8aheubWtAiLq"
+    },
     {
       "added_at": "2026-09-18 05:51:45",
       "album": {
@@ -1451,202 +1691,6 @@
       "duration_ms": 234656,
       "name": "Kris Is Riding Horses In Ojai",
       "url": "https://open.spotify.com/track/0wVOPKgRBWlmcKR8FxrzIU"
-    },
-    {
-      "added_at": "2026-08-14 10:52:06",
-      "album": {
-        "name": "19.15.19",
-        "url": "https://open.spotify.com/album/3YsM6Z4FRV5iuo9A1Qfe9s"
-      },
-      "artists": [
-        {
-          "name": "The Easy Eight",
-          "url": "https://open.spotify.com/artist/0qfwGxm32YVXv8LxJeh3Yo"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "19.15.19",
-      "url": "https://open.spotify.com/track/6NsM3fj9p3AcFLmODInrfy"
-    },
-    {
-      "added_at": "2026-08-14 10:52:28",
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/0YLbVw8FQUfXb1f4t5Fjqg"
-      },
-      "artists": [
-        {
-          "name": "M. Woodroe",
-          "url": "https://open.spotify.com/artist/3XcaCcJ4MSkEPSQNd54qN7"
-        }
-      ],
-      "duration_ms": 226500,
-      "name": "Carte Blanche",
-      "url": "https://open.spotify.com/track/3rMYLmFZVyHvjAJsy953wC"
-    },
-    {
-      "added_at": "2026-08-14 10:52:50",
-      "album": {
-        "name": "Unstable Neighbour",
-        "url": "https://open.spotify.com/album/4OLtY5Fh8pYdDuXCk0Ynfm"
-      },
-      "artists": [
-        {
-          "name": "Railcard",
-          "url": "https://open.spotify.com/artist/1h7YejqHI5OfMCS6fcRbEr"
-        }
-      ],
-      "duration_ms": 246578,
-      "name": "Unstable Neighbour",
-      "url": "https://open.spotify.com/track/0PunlJXvb9r1eos0SjgAVJ"
-    },
-    {
-      "added_at": "2026-08-14 10:53:02",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/0a3OzX28Ro3UEE4n6Tqxqk"
-      },
-      "artists": [
-        {
-          "name": "Castles in Space",
-          "url": "https://open.spotify.com/artist/6KgP3Vu8ArSbbt33znD3ij"
-        }
-      ],
-      "duration_ms": 218586,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/1TdnlJ62Wz3Z1QPXN9E02P"
-    },
-    {
-      "added_at": "2026-08-14 10:53:15",
-      "album": {
-        "name": "The Witness",
-        "url": "https://open.spotify.com/album/6MEuWdn0OFUVBdulNgbVWZ"
-      },
-      "artists": [
-        {
-          "name": "Gnod",
-          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
-        }
-      ],
-      "duration_ms": 538426,
-      "name": "The Witness",
-      "url": "https://open.spotify.com/track/0CXXi7f2o2pQ9iXSrtexQR"
-    },
-    {
-      "added_at": "2026-08-14 10:53:31",
-      "album": {
-        "name": "Baby With The Sail",
-        "url": "https://open.spotify.com/album/3wQxvn0kupevkBdq0neInA"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sand",
-          "url": "https://open.spotify.com/artist/4kUfLf1xqvZEBtbWY1C0Mf"
-        }
-      ],
-      "duration_ms": 403760,
-      "name": "Baby With The Sail",
-      "url": "https://open.spotify.com/track/36Ij7CZyLOkI65y5UOF91y"
-    },
-    {
-      "added_at": "2026-08-14 10:54:14",
-      "album": {
-        "name": "A Straunge And Terrible Wunder",
-        "url": "https://open.spotify.com/album/6j6EECBItZJL5VKExQQzAc"
-      },
-      "artists": [
-        {
-          "name": "The Breedling",
-          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
-        }
-      ],
-      "duration_ms": 394607,
-      "name": "Scorched and Shrivelled",
-      "url": "https://open.spotify.com/track/2E8Lon4ACR8KOTa5PtT27s"
-    },
-    {
-      "added_at": "2026-08-04 13:17:41",
-      "album": {
-        "name": "Dancing With Boys",
-        "url": "https://open.spotify.com/album/4pqeSz9cIWMArTaSNA9M2Q"
-      },
-      "artists": [
-        {
-          "name": "CLUB BRAT",
-          "url": "https://open.spotify.com/artist/2qRNZ0iICziiiYvCskmM9s"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Dancing With Boys",
-      "url": "https://open.spotify.com/track/6toSyb6pbuMHwrocFQeVAr"
-    },
-    {
-      "added_at": "2026-08-04 13:18:13",
-      "album": {
-        "name": "Circles Over The Earth",
-        "url": "https://open.spotify.com/album/5yTLrAlSwH11ENAKfzpwhw"
-      },
-      "artists": [
-        {
-          "name": "BUFFEE",
-          "url": "https://open.spotify.com/artist/375sZCoa1ojgt8tICkADmd"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Circles Over The Earth",
-      "url": "https://open.spotify.com/track/0d8txD00dszzbNkBbPIyGi"
-    },
-    {
-      "added_at": "2026-08-04 13:16:58",
-      "album": {
-        "name": "A Straunge And Terrible Wunder",
-        "url": "https://open.spotify.com/album/6j6EECBItZJL5VKExQQzAc"
-      },
-      "artists": [
-        {
-          "name": "The Breedling",
-          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
-        }
-      ],
-      "duration_ms": 169215,
-      "name": "Gloam Eyed Murmur",
-      "url": "https://open.spotify.com/track/2IrVJbCmf5mUVqZkMsuM36"
-    },
-    {
-      "added_at": "2026-08-04 13:17:58",
-      "album": {
-        "name": "A Butterfly Stands Vigil",
-        "url": "https://open.spotify.com/album/7mNyBC6kI8eYfazy0u1VUx"
-      },
-      "artists": [
-        {
-          "name": "Laura Cannell",
-          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
-        }
-      ],
-      "duration_ms": 164178,
-      "name": "A Butterfly Stands Vigil",
-      "url": "https://open.spotify.com/track/1Kp91rJwOnHRwwRNXkKC7Y"
-    },
-    {
-      "added_at": "2026-08-04 13:18:52",
-      "album": {
-        "name": "Phosphenes (claire rousay EDIT)",
-        "url": "https://open.spotify.com/album/6xN66xGediHIBN5BOMo9PF"
-      },
-      "artists": [
-        {
-          "name": "Yaz Lancaster",
-          "url": "https://open.spotify.com/artist/4ygD2bMiqgAhvhpgiPwXQM"
-        },
-        {
-          "name": "claire rousay",
-          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
-        }
-      ],
-      "duration_ms": 545000,
-      "name": "Phosphenes - claire rousay EDIT",
-      "url": "https://open.spotify.com/track/1dgiMqTuhDvBgFzX0mqMK5"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

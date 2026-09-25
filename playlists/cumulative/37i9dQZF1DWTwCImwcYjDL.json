@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-07-20",
-  "description": "De beste dance hits! Cover: Mau P",
+  "description": "De beste dance hits! Cover: AM\u00c9M\u00c9",
   "name": "360 Dance",
   "tracks": [
     {
@@ -880,6 +880,24 @@
       "duration_ms": 160000,
       "name": "Champion Sound",
       "url": "https://open.spotify.com/track/78W1WOxeqq3fRInVvotqEM"
+    },
+    {
+      "album": {
+        "name": "Chulo",
+        "url": "https://open.spotify.com/album/6OieTP7E0GrE9VncRlBGRa"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165483,
+      "name": "Chulo",
+      "url": "https://open.spotify.com/track/7oTKNOsKRAOqqnroRFrNqa"
     },
     {
       "album": {
@@ -2302,7 +2320,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 145135,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/7gsjhI836IA7bHKUs5rPlE"
@@ -2364,7 +2382,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 224911,
       "name": "Insane",
       "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
@@ -2834,6 +2852,36 @@
       "duration_ms": 188160,
       "name": "Little Lies",
       "url": "https://open.spotify.com/track/7gA0Lp5H34o6EF9RUkHEeU"
+    },
+    {
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv"
+      },
+      "artists": [
+        {
+          "name": "HAL\u014c",
+          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214696,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
     },
     {
       "album": {
@@ -3699,6 +3747,24 @@
     },
     {
       "album": {
+        "name": "Palm Of Your Hands",
+        "url": "https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM"
+      },
+      "artists": [
+        {
+          "name": "Adriatique",
+          "url": "https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205063,
+      "name": "Palm Of Your Hands",
+      "url": "https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf"
+    },
+    {
+      "album": {
         "name": "Papi",
         "url": "https://open.spotify.com/album/59hXZBuOL8AZtPXb383RGr"
       },
@@ -4052,7 +4118,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 191716,
       "name": "Repeat It",
       "url": "https://open.spotify.com/track/5mX5bEYxObqukGlynRIVCj"
@@ -4398,7 +4464,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 147269,
       "name": "Shine",
       "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
@@ -4546,6 +4612,24 @@
       "duration_ms": 180422,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62"
+    },
+    {
+      "album": {
+        "name": "So Incredible (Remix)",
+        "url": "https://open.spotify.com/album/2K7r7mT6pbFM4EbYR7XFzx"
+      },
+      "artists": [
+        {
+          "name": "Lies Zhara",
+          "url": "https://open.spotify.com/artist/6lepB2hdHmFWYsZEDqP4l5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117570,
+      "name": "So Incredible (Remix)",
+      "url": "https://open.spotify.com/track/5o9IvdwmVGFqhiWCP67qy2"
     },
     {
       "album": {

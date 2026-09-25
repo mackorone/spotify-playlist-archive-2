@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: Black Sherif",
+  "description": "The hottest tracks in Ghana. Cover: Kweku Smoke ",
   "name": "Hot Hits Ghana",
   "tracks": [
     {
@@ -1533,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "NO DAYS OFF",
+        "url": "https://open.spotify.com/album/154PIhcQbWdy07In8gCm7w"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141926,
+      "name": "Bombele",
+      "url": "https://open.spotify.com/track/5To9w1yLFlEOfs2EK7Ld7e"
+    },
+    {
+      "album": {
         "name": "Boom Boom",
         "url": "https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp"
       },
@@ -1574,7 +1592,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 153782,
       "name": "BOUNCE",
       "url": "https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX"

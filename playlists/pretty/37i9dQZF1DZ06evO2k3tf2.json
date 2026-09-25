@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1452510,
+  "num_followers": 1452618,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADQpWr5wnWTA/zCwwkhbX1U",
+  "snapshot_id": "arMWgAAAAADQbdFcDoxCrNp9v5B5aViQ",
   "tracks": [
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than We Ever Imagined (Live in Mexico City)",
-        "url": "https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr"
+        "name": "Twenty One Pilots",
+        "url": "https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 422080,
-      "name": "Nico/Heavydirtysoul - Live in Mexico City",
-      "url": "https://open.spotify.com/track/7EoHimXt4xsKlCbmlfe346"
+      "duration_ms": 182000,
+      "name": "Fall Away",
+      "url": "https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty One Pilots",
-        "url": "https://open.spotify.com/album/6rgWZP4QFBjEFF0n6JWEOa"
+        "name": "More Than We Ever Imagined (Live in Mexico City)",
+        "url": "https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Fall Away",
-      "url": "https://open.spotify.com/track/6aeKPkMywDDYWtPBsbfO50"
+      "duration_ms": 422080,
+      "name": "Nico/Heavydirtysoul - Live in Mexico City",
+      "url": "https://open.spotify.com/track/7EoHimXt4xsKlCbmlfe346"
     },
     {
       "added_at": null,

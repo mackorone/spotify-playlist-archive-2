@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,180,772 likes - 149 songs - 13 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,180,807 likes - 149 songs - 13 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wta20PHgwo.md) - [plain]
 | 7 | [Fair Weather](https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Fair Weather](https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd) | 4:44 |
 | 8 | [The Dreamer](https://open.spotify.com/track/2UqYwWfjMDyCRnJc1Eebnn) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [Omega](https://open.spotify.com/album/2MxcrtQBHD4YbrPdCJaAY0) | 3:37 |
 | 9 | [The Very Thought Of You](https://open.spotify.com/track/5m07y0cB4u7D5gzZOBU5sW) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 4:10 |
-| 10 | [The Nearness of You](https://open.spotify.com/track/659rgge3J3HiNeVNjhWcbH) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Kiyoshi Kitagawa](https://open.spotify.com/artist/1rbO1ptLynffpvzt0nWcg9), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The Nearness of You](https://open.spotify.com/album/1udDe5yKP7MzgrpWKyFaOo) | 6:34 |
-| 11 | [Ruby My Dear](https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:12 |
+| 10 | [Ruby My Dear](https://open.spotify.com/track/1czzmAtPTw287TyMQEfCfg) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:12 |
+| 11 | [The Nearness of You](https://open.spotify.com/track/659rgge3J3HiNeVNjhWcbH) | [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Kiyoshi Kitagawa](https://open.spotify.com/artist/1rbO1ptLynffpvzt0nWcg9), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [The Nearness of You](https://open.spotify.com/album/1udDe5yKP7MzgrpWKyFaOo) | 6:34 |
 | 12 | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/track/3ospmAgXO287SaBU6RV4Gw) | [Hans Ulrik](https://open.spotify.com/artist/1SdvVqfeIalD1XCYMO9HsF) | [A Nightingale Sang In Berkeley Square](https://open.spotify.com/album/26aj13BUEGult7sBwx0Ivi) | 6:20 |
 | 13 | [Search for Peace](https://open.spotify.com/track/045TksBNi3CO5Y00Z4RqPC) | [Jim Snidero](https://open.spotify.com/artist/210tC5HRo1NpbeqCvWlJuv), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Far Far Away](https://open.spotify.com/album/6lxH5swGpO4njwde8GFdmy) | 4:45 |
 | 14 | [It Ain't Necessarily So](https://open.spotify.com/track/2qswPLZD9CbUoSidGNyxwm) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Gilles Peterson \- Magic Peterson Sunshine](https://open.spotify.com/album/6VflpBTIdO5wvutZII2Grw) | 4:40 |

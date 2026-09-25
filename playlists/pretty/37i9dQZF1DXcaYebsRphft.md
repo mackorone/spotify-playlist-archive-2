@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2026\-27 BABYMONSTER WORLD TOUR \[춤 \(CHOOM\)\] IN JAPAN』のセットリストをMCとあわせて公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,769 likes - 25 songs - 1 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,352 likes - 25 songs - 1 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 13 | [Really Like You](https://open.spotify.com/track/5xqM1HOndjxfH7NmyD8SVS) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:17 |
 | 14 | [BILLIONAIRE](https://open.spotify.com/track/2eEBg0fpGBwXOGyN6k1m44) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 2:37 |
 | 15 | [Talk \- TOUR](https://open.spotify.com/track/5qn7Yue0o6qIaKs0auZr6W) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [2026\-27 BABYMONSTER WORLD TOUR \[춤 \(CHOOM\)\] IN JAPAN – AUDIO LINERS](https://open.spotify.com/album/5cLJF9GtA8mPHnVg3oL2h6) | 1:17 |
-| 16 | [Maze Some Noise, MONSTEIZ!](https://open.spotify.com/track/6ICDAT3ZVtB4I250UbMjNT) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [2026\-27 BABYMONSTER WORLD TOUR \[춤 \(CHOOM\)\] IN JAPAN – AUDIO LINERS](https://open.spotify.com/album/5cLJF9GtA8mPHnVg3oL2h6) | 2:27 |
+| 16 | [Make Some Noise, MONSTEIZ!](https://open.spotify.com/track/6ICDAT3ZVtB4I250UbMjNT) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [2026\-27 BABYMONSTER WORLD TOUR \[춤 \(CHOOM\)\] IN JAPAN – AUDIO LINERS](https://open.spotify.com/album/5cLJF9GtA8mPHnVg3oL2h6) | 2:27 |
 | 17 | [FOREVER](https://open.spotify.com/track/7a6vvAM1cjAuyVQpqv9pmu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:32 |
 | 18 | [WILD](https://open.spotify.com/track/6S8TAM25chITwWVzlL7mlf) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [WE GO UP](https://open.spotify.com/album/4QymxXCfQoxscpmFiMXcv9) | 2:57 |
 | 19 | [I LIKE IT](https://open.spotify.com/track/0PVC2O65Ux1aQ2PyIgeDAP) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [CHOOM](https://open.spotify.com/album/2BGC5qI7Kg1ejJnza3Cy5k) | 3:26 |

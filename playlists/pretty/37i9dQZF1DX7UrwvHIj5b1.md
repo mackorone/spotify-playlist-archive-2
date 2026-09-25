@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,159 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,190 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 | 4 | [Symbolism](https://open.spotify.com/track/2fTtjRkjapPVOqW8YUliqJ) | [Von D](https://open.spotify.com/artist/5H9FqVLOnIpSeK5KYoVFRD) | [Hermetica](https://open.spotify.com/album/4EFAUFCc36J7SFoyYDdz0o) | 5:40 |
 | 5 | [Tomorrow](https://open.spotify.com/track/3agFXIx45gyrD8457JK6wK) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Tomorrow \- EP](https://open.spotify.com/album/7IrrWUxNknlPtmVE1jPRVE) | 5:29 |
 | 6 | [Do It Jah](https://open.spotify.com/track/46SQW0OrXmXaO41Aa3LcCz) | [Tubby Isiah](https://open.spotify.com/artist/26Tc8d2xASJ8okDwxRFNzu) | [Rising High LP](https://open.spotify.com/album/0vPyyzADg89DBctsSGHh09) | 3:41 |
-| 7 | [Theory Of One](https://open.spotify.com/track/3EnfFT0S4AEANjRJTqtDhQ) | [Versa & Rowl](https://open.spotify.com/artist/16HXo5dAYHkP1g4vhPBrKn) | [Smokin' Sessions 20](https://open.spotify.com/album/5WIeDM6y3DhY2avhuZ1S2Q) | 4:10 |
+| 7 | [Theory Of One](https://open.spotify.com/track/3EnfFT0S4AEANjRJTqtDhQ) | [Versa](https://open.spotify.com/artist/0FMVRZoqFz1qAEvdJiEh7A), [Rowl](https://open.spotify.com/artist/4yDXtdBDweN3rorHFiBb9b) | [Smokin' Sessions 20](https://open.spotify.com/album/5WIeDM6y3DhY2avhuZ1S2Q) | 4:10 |
 | 8 | [Nissa](https://open.spotify.com/track/5lLdbKkK57v9L9J6OQF0SN) | [Waloox](https://open.spotify.com/artist/6iomPU1uMjIP2HcUvEVjoi) | [Nissa](https://open.spotify.com/album/52LG5fE7lcPxa5xB26fyHf) | 3:09 |
 | 9 | [Phoam](https://open.spotify.com/track/5nSjgKq5pZvTSLGlMtjDBv) | [Jafu](https://open.spotify.com/artist/1SJSnoggDVPSbOqpIn2yAg) | [Deep Heads, Vol\. 11](https://open.spotify.com/album/4iKGddxjeHkOttjRjfo2yb) | 4:09 |
 | 10 | [Serpent](https://open.spotify.com/track/0aUNGD38ERJk2QgU2g93i7) | [Audialist](https://open.spotify.com/artist/1CIVHSqqmOMnswj8dwtZCp) | [Audialist Select](https://open.spotify.com/album/0WRFgCjLKAFZKPCpRHCyu6) | 4:40 |

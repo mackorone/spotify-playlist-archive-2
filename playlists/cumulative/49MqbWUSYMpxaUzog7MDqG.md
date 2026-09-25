@@ -4,7 +4,7 @@
 
 > Chill out and relax with a moody mix of modern classics ranging from R&amp;B to Indie to Pop\. Cover: David Kushner
 
-143 songs - 8 hr 24 min
+144 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,21 +102,21 @@
 | [neverletyougo](https://open.spotify.com/track/6ps0RcnIrPoiMd9vfcA9KB) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [neverletyougo](https://open.spotify.com/album/2oNeFeW7cRXefZVwQA4eFf) | 2:58 | 2023-10-13 |  |
 | [No Woman No Cry](https://open.spotify.com/track/6jo1FMdBzPKofW4iPIdQkR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 3:33 | 2023-10-13 |  |
 | [N’oublie Pas \(Ft\. Koriass\)](https://open.spotify.com/track/4JWcNs4BNjjGJqSArbbe2P) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Koriass](https://open.spotify.com/artist/4aLij7W6aqtpsRriCSjGLq) | [N’oublie Pas \(Ft\. Koriass\)](https://open.spotify.com/album/6HSDmPm3qHHh8V7EldYCys) | 3:30 | 2023-10-13 |  |
-| [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-10-13 |  |
+| [Once More](https://open.spotify.com/track/1exDZN0zsfDpsIKamOqmSz) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [The Lost Petals](https://open.spotify.com/album/4YbgMvlvGC8FjzkSOLGgWC) | 2:01 | 2023-10-13 | 2026-09-25 |
 | [Out of Time](https://open.spotify.com/track/2SLwbpExuoBDZBpjfefCtV) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:34 | 2023-10-13 |  |
 | [paper thin](https://open.spotify.com/track/6SjmmjdOvQcQ5lR7E7E7Em) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [paper thin](https://open.spotify.com/album/0hkbQ2Xpo7VOFoq2LgHsCM) | 3:06 | 2023-10-13 |  |
 | [Please Do Not Lean \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5uXO1sjZ7VbNKexKaFRna3) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Please Do Not Lean](https://open.spotify.com/album/2kdNEYAPZlAoMaIzYQWM8U) | 4:00 | 2023-10-13 |  |
 | [Rockaway](https://open.spotify.com/track/410etyMW82xAil6va5bKeu) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/25uSuCBWf1D8XZ5gC3tik1) | 2:06 | 2023-10-13 |  |
 | [Rockland](https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:37 | 2023-10-13 |  |
-| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-10-13 |  |
-| [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 | 2023-10-13 |  |
+| [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-10-13 | 2026-09-25 |
+| [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 | 2023-10-13 | 2026-09-25 |
 | [Run Away to Mars](https://open.spotify.com/track/6aPG4u5M2yzBbwABa6uGbo) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Talk to Me](https://open.spotify.com/album/01wqtcP9Kxgor1VDxTs0D1) | 3:33 | 2023-10-13 |  |
 | [Sacrifice](https://open.spotify.com/track/0ebZQ0Oz7FToua8ydU92CW) | [Chxrry](https://open.spotify.com/artist/6HhmgikznhjpcHnh14n9dJ) | [Sacrifice](https://open.spotify.com/album/31igSerGxvettqWnhH0IsC) | 4:15 | 2023-10-13 |  |
 | [Saturn](https://open.spotify.com/track/3F3YMGCp5ErvS14f71s8LX) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [Saturn](https://open.spotify.com/album/3zt7xkuRvDftoB76HEu3oH) | 3:33 | 2023-10-13 |  |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2023-10-13 |  |
 | [Skin](https://open.spotify.com/track/7fzgNbWWCz8fUGos9y2HyL) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Skin](https://open.spotify.com/album/2tEFKzAqDwUb8PA4BrsNvg) | 3:51 | 2023-10-13 |  |
 | [Skin and Bones](https://open.spotify.com/track/7aZDcmt34eouhqw29aMR91) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Skin and Bones](https://open.spotify.com/album/6TFqEha8tfihUzdi5LQXzu) | 3:34 | 2024-01-19 |  |
-| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-10-13 |  |
+| [Sleep Well](https://open.spotify.com/track/4qwKWGKzuq8mgIunO6EaA1) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Sleep Well](https://open.spotify.com/album/7l7D7PZUCYo2JJsFFxlwYO) | 2:55 | 2023-10-13 | 2026-09-25 |
 | [Sleepy](https://open.spotify.com/track/1uw7DIRDt68BtoYhavfRca) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Sleepy](https://open.spotify.com/album/1UtBW3nzfD7d7Qt4Hsm1YQ) | 3:08 | 2023-10-13 |  |
 | [Slow Dance In The Morning](https://open.spotify.com/track/1CejN6L0cGLANesqgZ96Qa) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Slow Dance In The Morning](https://open.spotify.com/album/5fntL2bwIaX4rZhK7IZgBb) | 2:57 | 2023-10-13 |  |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-10-13 |  |
@@ -132,6 +132,7 @@
 | [tentacle](https://open.spotify.com/track/5gCwjiOXDVRjEjBnAI8q5z) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx) | [tentacle](https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae) | 2:02 | 2023-10-13 |  |
 | [The Cabin](https://open.spotify.com/track/5VZFZg4N7EFJeNP78tAIAc) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [The Cabin](https://open.spotify.com/album/57v4x7aRdhztbRW4IiVgFl) | 3:57 | 2023-10-13 |  |
 | [The Grants](https://open.spotify.com/track/3dMdHqNk3h3gl2p8M5e7Ze) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [The Grants](https://open.spotify.com/album/63n3qENYkOIeDFXZuceoUA) | 4:55 | 2023-10-13 |  |
+| [The Meaning of Flowers](https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [The Meaning of Flowers](https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB) | 3:54 | 2026-09-24 |  |
 | [thought it was](https://open.spotify.com/track/3x1h0lsx1i2v9cUWnZssBa) | [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [thought it was](https://open.spotify.com/album/6P55gU4yR13niGsgVDxAwj) | 2:52 | 2023-10-13 |  |
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2023-10-13 |  |
 | [Traveler Of Swords](https://open.spotify.com/track/5ThAnXfWPVc8IoCwsuj0r7) | [Reuben And The Dark](https://open.spotify.com/artist/6eXJslu7IJJ6Ej8Czbd0iO) | [In Lieu Of Light](https://open.spotify.com/album/66JVLeQWGThPRRWa20xJ4Z) | 4:16 | 2023-10-13 |  |

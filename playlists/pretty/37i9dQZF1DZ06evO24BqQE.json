@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 53741,
+  "num_followers": 53796,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADcTFtSZMJ8M6OKF72Y0EGY",
+  "snapshot_id": "arMWgAAAAACxrrsd5den39D4YNGOBKQU",
   "tracks": [
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sincerely, Benson",
-        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 177931,
-      "name": "PRAY",
-      "url": "https://open.spotify.com/track/731NDNG7VQOA2KBnS43jqr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Game Needs Us",
         "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 185429,
       "name": "Rum & Soda",
       "url": "https://open.spotify.com/track/70NDHUkE7tNOI6lCla0PpL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 177931,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/731NDNG7VQOA2KBnS43jqr"
     },
     {
       "added_at": null,
@@ -231,6 +231,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "POE",
+      "url": "https://open.spotify.com/track/52Krs3LCqtcfeiWUvhxncK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 188985,
       "name": "GWAGWALADA",
       "url": "https://open.spotify.com/track/0YeUYYOh25Cn57DKTC8uS4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "POE",
-      "url": "https://open.spotify.com/track/52Krs3LCqtcfeiWUvhxncK"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Since '97",
         "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 227328,
       "name": "Many Ways (feat. Wizkid)",
       "url": "https://open.spotify.com/track/0lWW0X74IvjNlgY5glykvY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Game Needs Us",
-        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Sarz",
-          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
-        }
-      ],
-      "duration_ms": 202027,
-      "name": "Emotional High",
-      "url": "https://open.spotify.com/track/0wCK6mBuDPJpNUFBK6HfRE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cold Outside",
         "url": "https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 181224,
       "name": "Cold Outside",
       "url": "https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Game Needs Us",
+        "url": "https://open.spotify.com/album/1lcyg1hfUrXOk81kXUv0be"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        }
+      ],
+      "duration_ms": 202027,
+      "name": "Emotional High",
+      "url": "https://open.spotify.com/track/0wCK6mBuDPJpNUFBK6HfRE"
     },
     {
       "added_at": null,
@@ -743,18 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
       "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 200708,
-      "name": "Never Stopped",
-      "url": "https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm"
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/4EoYs4KY7oHQpJPTuxD7mU"
     },
     {
       "added_at": null,
@@ -775,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "RnB",
-        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
       },
       "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
         {
           "name": "BNXN",
           "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Romeo Must Die (RMD)",
-      "url": "https://open.spotify.com/track/4EoYs4KY7oHQpJPTuxD7mU"
+      "duration_ms": 200708,
+      "name": "Never Stopped",
+      "url": "https://open.spotify.com/track/3uxhxNWTwL9kYJNbXKRGDm"
     },
     {
       "added_at": null,
@@ -815,38 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry I'm Late",
-        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 163042,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 165217,
-      "name": "Loose Emotions",
-      "url": "https://open.spotify.com/track/6PAHjYMVquDNSYAA8nvgkd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RnB",
         "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
       },
@@ -867,6 +835,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 165217,
+      "name": "Loose Emotions",
+      "url": "https://open.spotify.com/track/6PAHjYMVquDNSYAA8nvgkd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry I'm Late",
+        "url": "https://open.spotify.com/album/4bwyX8dGHZk71KDKDZU04u"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 163042,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/3pzAmz9wv1xkzxWWcDh0QR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Traboski",
         "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
       },
@@ -879,26 +879,6 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Since '97",
-        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
-      },
-      "artists": [
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        },
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 214060,
-      "name": "Kenkele",
-      "url": "https://open.spotify.com/track/0mb1o4mFhrcPHivtlVNCGD"
     },
     {
       "added_at": null,
@@ -919,6 +899,26 @@
       "duration_ms": 181224,
       "name": "Calculate Love",
       "url": "https://open.spotify.com/track/6SQNUYQB4FEMS3UfTDZ5kd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Since '97",
+        "url": "https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 214060,
+      "name": "Kenkele",
+      "url": "https://open.spotify.com/track/0mb1o4mFhrcPHivtlVNCGD"
     },
     {
       "added_at": null,

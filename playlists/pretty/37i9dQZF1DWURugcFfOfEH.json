@@ -1,6 +1,6 @@
 {
   "description": "good vibes, all the time",
-  "num_followers": 455600,
+  "num_followers": 455650,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
@@ -299,8 +299,8 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Ok Love You Bye",
-        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
+        "name": "The Art of Loving",
+        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 154386,
-      "name": "Ok Love You Bye",
-      "url": "https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK"
+      "duration_ms": 197000,
+      "name": "Baby Steps",
+      "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -327,6 +327,22 @@
       "duration_ms": 213236,
       "name": "Bed on Fire",
       "url": "https://open.spotify.com/track/01IJ2feBkPtQgQi68nx9nl"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Potential",
+        "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
+      },
+      "artists": [
+        {
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+        }
+      ],
+      "duration_ms": 242517,
+      "name": "Potential",
+      "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
     },
     {
       "added_at": "2026-08-14 15:37:09",
@@ -347,22 +363,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Potential",
-        "url": "https://open.spotify.com/album/0qqZfp0bh8BpzRZ5jwBLY5"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 242517,
-      "name": "Potential",
-      "url": "https://open.spotify.com/track/4cpHvqL4dvporE8JlQwkec"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Fine Line",
         "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml"
       },
@@ -379,8 +379,8 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "The Art of Loving",
-        "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
+        "name": "Ok Love You Bye",
+        "url": "https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0"
       },
       "artists": [
         {
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 197000,
-      "name": "Baby Steps",
-      "url": "https://open.spotify.com/track/5SruEBX3KpgpDvEcIuN53P"
+      "duration_ms": 154386,
+      "name": "Ok Love You Bye",
+      "url": "https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "High Hopes 3000",
-        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 245755,
-      "name": "High Hopes 3000",
-      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 116630,
       "name": "Funny Thing",
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "car crash",
-        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
-      },
-      "artists": [
-        {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "car crash",
-      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "adore u",
         "url": "https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 220653,
       "name": "adore u",
       "url": "https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "car crash",
+        "url": "https://open.spotify.com/album/1lP8AhonyWZZKNgnEcjSV0"
+      },
+      "artists": [
+        {
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        }
+      ],
+      "duration_ms": 160626,
+      "name": "car crash",
+      "url": "https://open.spotify.com/track/47z8JPQCgjtRcFqt1kUyoA"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "I\u2019m your girl right?",
-        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 169059,
-      "name": "I\u2019m your girl right?",
-      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "drifting",
         "url": "https://open.spotify.com/album/4KJfSAhzqcMZaWFTwnfkNK"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 212440,
       "name": "drifting",
       "url": "https://open.spotify.com/track/2YuySJd7C2aoBarBP8OvzR"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "I\u2019m your girl right?",
+        "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 169059,
+      "name": "I\u2019m your girl right?",
+      "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
     },
     {
       "added_at": "2026-08-14 15:37:09",
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 202972,
-      "name": "The Wave",
-      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Backseat",
         "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 383400,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/4zuGaM0gBBBxmcrmsAXWGj"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 202972,
+      "name": "The Wave",
+      "url": "https://open.spotify.com/track/6Ln44Up5lBxNgCsaLoXY6W"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "NEVER ENOUGH",
         "url": "https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 186277,
       "name": "SEEIN\u2019 STARS",
       "url": "https://open.spotify.com/track/2Z4nIITCxUoaZvFug5FxtO"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 177520,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/59rkTkputMqoxunf9IRzOc"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1357,22 +1357,6 @@
       "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
     },
     {
-      "added_at": "2026-08-14 15:37:09",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 239377,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
-    },
-    {
       "added_at": "2026-06-18 20:32:33",
       "album": {
         "name": "idk idk",
@@ -1387,6 +1371,22 @@
       "duration_ms": 146526,
       "name": "idk idk",
       "url": "https://open.spotify.com/track/3CZ0ba4RIVdv40FbjHpOEA"
+    },
+    {
+      "added_at": "2026-08-14 15:37:09",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 239377,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1489,22 +1489,6 @@
       "url": "https://open.spotify.com/track/4udjo5nLK61pKajakfrndc"
     },
     {
-      "added_at": "2026-08-14 15:37:09",
-      "album": {
-        "name": "I Lied, You Lied",
-        "url": "https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 203192,
-      "name": "I Lied, You Lied",
-      "url": "https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT"
-    },
-    {
       "added_at": "2026-06-18 20:32:33",
       "album": {
         "name": "Women In Music Pt III (Expanded Edition)",
@@ -1519,6 +1503,22 @@
       "duration_ms": 204280,
       "name": "Now I'm In It - Bonus Track",
       "url": "https://open.spotify.com/track/1DR2KXb0UvibcLsdDGVwwt"
+    },
+    {
+      "added_at": "2026-08-14 15:37:09",
+      "album": {
+        "name": "I Lied, You Lied",
+        "url": "https://open.spotify.com/album/5hnGoe5LR6IpFvZLXGfaYz"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 203192,
+      "name": "I Lied, You Lied",
+      "url": "https://open.spotify.com/track/1s7NR9jm7NQKWYdw0JTUyT"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Take A Sexy Picture Of Me",
-        "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 229933,
-      "name": "Take A Sexy Picture Of Me",
-      "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 194823,
       "name": "If It Feels Good (Then It Must Be)",
       "url": "https://open.spotify.com/track/72Dd7GCaepMi8ktuXxmSZF"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Take A Sexy Picture Of Me",
+        "url": "https://open.spotify.com/album/1xqPeoLyajonkSFTtE7HQB"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 229933,
+      "name": "Take A Sexy Picture Of Me",
+      "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
     },
     {
       "added_at": "2026-06-18 20:32:33",

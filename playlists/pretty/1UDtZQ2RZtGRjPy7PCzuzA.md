@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[𝒿𝓊𝓁𝒾](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,535 songs - 3 day 16 hr 32 min
+[𝒿𝓊𝓁𝒾](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,539 songs - 3 day 16 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1543,5 +1543,9 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1533 | [Adorn](https://open.spotify.com/track/1GYjMhOZ4sLd3xGvelcsi3) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Kaleidoscope Dream](https://open.spotify.com/album/4c37f9SDnzZ4Sj9ZLF35r0) | 3:13 |
 | 1534 | [Vixen](https://open.spotify.com/track/3HBZIY3FVzXu6YjhExNqWe) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:01 |
 | 1535 | [Serenade for Strings in E Major II\. Waltz Op\. 22](https://open.spotify.com/track/1ZauqNrrbC4pYMwMtA2S27) | [Antonín Dvořák](https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF), [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu), [Richard Hein](https://open.spotify.com/artist/6i4qpnjBXIoIhnU6YUhFSE) | [Memories of Prague: Dvořák: Serenade For Strings / Smetana: Die Moldau](https://open.spotify.com/album/3RY7ozfR66YGvOhZw8gRuS) | 6:47 |
+| 1536 | [Everything Is Embarrassing](https://open.spotify.com/track/7j3nbSiaWphYU2cFgyQXd9) | [Sky Ferreira](https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q) | [Night Time, My Time](https://open.spotify.com/album/0DucmDrdJM4evPXMbFJXBS) | 4:10 |
+| 1537 | [Stay Ready \(What A Life\)](https://open.spotify.com/track/5nkUIVKqOqdpB6ApKgEMkv) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Sail Out](https://open.spotify.com/album/73TNMu44lT0m1h1Nn6Bfiq) | 6:22 |
+| 1538 | [SOFT GIRL SUMMER](https://open.spotify.com/track/3PXhooQtCnYZXLaWr7KSmG) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST](https://open.spotify.com/album/4KUlLprpCrNpRDsXC4MOAV) | 2:32 |
+| 1539 | [Just Us \(feat\. SZA\)](https://open.spotify.com/track/0BnTBAGmr9FtYwkZrwKhwS) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Father Of Asahd](https://open.spotify.com/album/1YgX8BWKleDlDeCOFklRfz) | 3:41 |
 
-Snapshot ID: `AAANhXW3iDQ7ibOVHJeR1c228hj+5PeN`
+Snapshot ID: `AAANiRFfRyN9FtttLTGAphi04Ds05gNz`

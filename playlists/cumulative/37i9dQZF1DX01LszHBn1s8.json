@@ -10087,6 +10087,32 @@
     },
     {
       "album": {
+        "name": "GGEZ",
+        "url": "https://open.spotify.com/album/4N0OrCbUuALfN6WAis78aO"
+      },
+      "artists": [
+        {
+          "name": "Kaien Nuen",
+          "url": "https://open.spotify.com/artist/3jY7jpzlATDcExp1QOA35I"
+        },
+        {
+          "name": "SUGAR",
+          "url": "https://open.spotify.com/artist/68zcQG5gDRisoPPTyNPdju"
+        },
+        {
+          "name": "M.Sasuke",
+          "url": "https://open.spotify.com/artist/75t1r7Dnlz4EDc1Dn7Yqtd"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152540,
+      "name": "GGEZ",
+      "url": "https://open.spotify.com/track/6iwsWcvqCQcj025NqCeyFS"
+    },
+    {
+      "album": {
         "name": "Justice (The Complete Edition)",
         "url": "https://open.spotify.com/album/3uPnO1aZBwMgWK1DI5zve9"
       },
@@ -17394,6 +17420,28 @@
       "duration_ms": 200646,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
+    },
+    {
+      "album": {
+        "name": "L\u00e5tsas som det regnar (Jarly Remix)",
+        "url": "https://open.spotify.com/album/7Jb0WZWDEMANtvfckwGoXE"
+      },
+      "artists": [
+        {
+          "name": "Veronica Maggio",
+          "url": "https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs"
+        },
+        {
+          "name": "Jarly",
+          "url": "https://open.spotify.com/artist/6fqgB9Ag9atWWORngKSV95"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238200,
+      "name": "L\u00e5tsas som det regnar - Jarly Remix",
+      "url": "https://open.spotify.com/track/73YWlw3iqd0BHHH38udVT6"
     },
     {
       "album": {

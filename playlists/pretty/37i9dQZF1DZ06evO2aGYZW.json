@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 208576,
+  "num_followers": 208776,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAC3PeqtWOx50QNuu6TdHjbB",
+  "snapshot_id": "arMWgAAAAAC7CVz2ZvDEJsYrrj82yan3",
   "tracks": [
     {
       "added_at": null,
@@ -179,22 +179,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIND'S HALL",
-        "url": "https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        }
-      ],
-      "duration_ms": 168941,
-      "name": "HIND'S HALL",
-      "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 292593,
       "name": "Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",
       "url": "https://open.spotify.com/track/5pfJsMwoRYKampPay8amX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIND'S HALL",
+        "url": "https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 168941,
+      "name": "HIND'S HALL",
+      "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
     },
     {
       "added_at": null,
@@ -487,30 +487,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Unruly Mess I've Made",
-        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
       },
       "artists": [
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
         {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
         },
         {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Eric Nally",
+          "url": "https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn"
         }
       ],
-      "duration_ms": 305240,
-      "name": "Growing Up (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/44T13PWJ87jb3lFElhVIHx"
+      "duration_ms": 214720,
+      "name": "Ain't Gonna Die Tonight (feat. Eric Nally)",
+      "url": "https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn"
     },
     {
       "added_at": null,
@@ -535,22 +527,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
+        "name": "This Unruly Mess I've Made",
+        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
       "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
         {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
         },
         {
-          "name": "Eric Nally",
-          "url": "https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn"
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 214720,
-      "name": "Ain't Gonna Die Tonight (feat. Eric Nally)",
-      "url": "https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn"
+      "duration_ms": 305240,
+      "name": "Growing Up (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/44T13PWJ87jb3lFElhVIHx"
     },
     {
       "added_at": null,

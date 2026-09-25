@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 287 likes - 4,863 songs - 10 day 23 hr 10 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 287 likes - 4,867 songs - 10 day 23 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4871,5 +4871,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4861 | [Forgotten Love](https://open.spotify.com/track/24fLyoEbukMmRjMuUiJXK9) | [$T Money$](https://open.spotify.com/artist/7FaHB5yrW4hjuwGbbX4gL4) | [The Sound of Static](https://open.spotify.com/album/1AhJR1phukAEoqH4PwDwKR) | 3:05 |
 | 4862 | [O ser é](https://open.spotify.com/track/5gGpDTAYoPRU0KvB7UUIAJ) | [Hugo Zenaro](https://open.spotify.com/artist/08wUYKhjmWs3t0YfxW9tKW) | [O ser é](https://open.spotify.com/album/1Wcoue14Z9iAZG673VlQEn) | 2:51 |
 | 4863 | [Black tie and crazy nights](https://open.spotify.com/track/2l3bJWPo2JzRifBk4MOJyU) | [One North One](https://open.spotify.com/artist/0Yj7qWFMY6mYnITGMxCaaa), [Ben Lafleur](https://open.spotify.com/artist/0o62ddvLBHfZ2WFLzWA7a3) | [Black tie and crazy nights](https://open.spotify.com/album/4R6Ds80WVh7f3VE5UW5n6O) | 4:39 |
+| 4864 | [ニューゲーム](https://open.spotify.com/track/7Hm3MMrFNVX0poMgXtlk4m) | [FUMITO](https://open.spotify.com/artist/0jHHRTca6HOkksVRPrjKSK) | [ニューゲーム](https://open.spotify.com/album/6ELX92IjpWHbwsfYt0KLo0) | 3:43 |
+| 4865 | [Possession](https://open.spotify.com/track/0oXTBGB2XH1nm7FBVj0KPf) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Possession](https://open.spotify.com/album/6de3hSo0PwWOgc3FJOuapO) | 3:22 |
+| 4866 | [I Want Everything](https://open.spotify.com/track/4877L7NeyxgN7arOLXt2vy) | [Everton Zi Project](https://open.spotify.com/artist/4SIu5pLTz7nqoMwP8cIL7Z) | [I Want Everything](https://open.spotify.com/album/5cGH3dYOAW0mQOD6hs2S3Y) | 4:33 |
+| 4867 | [Deep Sea](https://open.spotify.com/track/2kLo2GROhKLzxp46XADbkY) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Deep Sea](https://open.spotify.com/album/3TgtLhEMtf2D1JHQeZIgMQ) | 2:42 |
 
-Snapshot ID: `AAAKIw0GNb1EgyGWOIbh0woA+J1chEyw`
+Snapshot ID: `AAAKJytK08N4gYZlt5R+TtBPs6gd5eee`

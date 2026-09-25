@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The latest of R&B rising in the UK. Cover: JEDSOUL",
+  "description": "The latest of R&B rising in the UK. Cover: Nippa",
   "name": "R&B UK",
   "tracks": [
     {
@@ -1225,6 +1225,24 @@
     },
     {
       "album": {
+        "name": "Homegrown",
+        "url": "https://open.spotify.com/album/7lIRsoyw9VevsE9fEQOcBJ"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177841,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2FK12BFadDMlelVr4Fn7Xi"
+    },
+    {
+      "album": {
         "name": "Lustropolis",
         "url": "https://open.spotify.com/album/4mFLlS3vDHSxAtnLRMmOrq"
       },
@@ -1290,7 +1308,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 174285,
       "name": "Borrowed Time",
       "url": "https://open.spotify.com/track/4ZpVfizZaFMnFtzsfxZ9ls"
@@ -1624,6 +1642,24 @@
       "duration_ms": 144000,
       "name": "Can I Call You Rose? - Cover",
       "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
+    },
+    {
+      "album": {
+        "name": "Canary",
+        "url": "https://open.spotify.com/album/6pZQBsrp1LCAIDAPBRN9MV"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206072,
+      "name": "Canary",
+      "url": "https://open.spotify.com/track/73PUE5Vp2NdUZ5VNiaYN26"
     },
     {
       "album": {
@@ -2030,7 +2066,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 165589,
       "name": "COME AROUND",
       "url": "https://open.spotify.com/track/4SfDucbeto0E9stxeZcDwy"
@@ -4530,7 +4566,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 145786,
       "name": "Hang It On The Shelf",
       "url": "https://open.spotify.com/track/05UfXOe42MNCZMYN2NAqEK"
@@ -9760,7 +9796,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171375,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/0MUSX7J41ns5rBseSaxuyT"
@@ -11290,6 +11326,24 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
+    },
+    {
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH"
     },
     {
       "album": {

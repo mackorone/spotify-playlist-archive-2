@@ -4,7 +4,7 @@
 
 > Get ready to dance with the best House Music! Pulsating beats, groovy rhythms &amp; uplifting vocals from David Guetta, Fisher, Peggy Gou, Oskar, Fred Again.\. and more\. Soulful house, soulful deep house, electronic dance, garage, minimal and sounds\. Updated weekly!
 
-655 songs - 1 day 9 hr 33 min
+656 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Can't Decide](https://open.spotify.com/track/10pfamFYvg5ftwq6rGJrWx) | [Max Dean](https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc), [Luke Dean](https://open.spotify.com/artist/2BhXOZ96YbOdXz8F6HVUw4), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Can't Decide](https://open.spotify.com/album/2VezYvaKWplhVgqRq1mEKD) | 2:55 | 2025-05-23 | 2026-07-11 |
 | [Can't Deny \- Kid Fonque Extended Refix](https://open.spotify.com/track/0nu0qhAlNkUs4R9VU55jBG) | [Benni Ola](https://open.spotify.com/artist/4q90901wzb3GPqUBKuhoRg), [Kid Fonque](https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp) | [Can't Deny \(Kid Fonque Extended Refix\)](https://open.spotify.com/album/6r1Qgybz9NdBDk17yiFWTI) | 7:00 | 2026-07-10 |  |
 | [Can't Slow Down](https://open.spotify.com/track/2PKGJK3Kldd4DHJNzSFWJD) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Can't Slow Down](https://open.spotify.com/album/42nNaIlInYzrmhucRo5WG1) | 2:57 | 2026-07-24 |  |
+| [Can't Stop](https://open.spotify.com/track/17WjGHZnPXG2AjKxNTgIHU) | [Kyle Icardi](https://open.spotify.com/artist/1Ztfx4IZfJw6tDyaoREOss) | [Can't Stop](https://open.spotify.com/album/4qtXD3PO6m72YWXwXAaXcL) | 5:10 | 2026-09-24 |  |
 | [Caramelle](https://open.spotify.com/track/6dGS0rGElrf9R961GkueoE) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [Caramelle](https://open.spotify.com/album/1BrC2gUEjYgGHdJQcZCsCC) | 2:00 | 2025-12-05 | 2026-03-07 |
 | [Catchin' Fire](https://open.spotify.com/track/05bAjwIoHLUiIBpjpQVCkq) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Catchin' Fire](https://open.spotify.com/album/0uI0SVmStSPBpulbuoXftT) | 2:51 | 2023-11-03 | 2023-12-02 |
 | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-05-17 | 2026-05-30 |
@@ -346,7 +347,7 @@
 | [Lonely \(Planet Earth\)](https://open.spotify.com/track/76XsgurVtL8tGAjMjXdOza) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Lonely \(Planet Earth\)](https://open.spotify.com/album/3zIogyJOASeiqBwLSnIF0k) | 2:07 | 2024-07-19 | 2024-08-10 |
 | [Lonely Boy](https://open.spotify.com/track/2jCvsX9ChvqUOtRb2PdcUW) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Lonely Boy](https://open.spotify.com/album/01ODTjQ2Rj6db5ViBTwxMk) | 3:23 | 2025-02-04 | 2025-03-08 |
 | [Looking For You](https://open.spotify.com/track/1CACx4ecmV1B49bARwDITx) | [Hyzteria](https://open.spotify.com/artist/25hmNMFuDlPLe0TIcr8Djd) | [Looking For You](https://open.spotify.com/album/2wU2Q8XXocXhLhqI0Kg08f) | 3:05 | 2024-03-22 | 2025-11-22 |
-| [Loophole](https://open.spotify.com/track/47F179dpKeo8P1DTrikPFg) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Loophole](https://open.spotify.com/album/5LL6Q8BKctXEjyFqexNcF1) | 3:40 | 2026-07-10 |  |
+| [Loophole](https://open.spotify.com/track/47F179dpKeo8P1DTrikPFg) | [Gorge](https://open.spotify.com/artist/6Y3FCZA50anf3ukg9O7ZLq) | [Loophole](https://open.spotify.com/album/5LL6Q8BKctXEjyFqexNcF1) | 3:40 | 2026-07-10 | 2026-09-25 |
 | [Lose Control](https://open.spotify.com/track/0vKM6pD1koHLvYzzI5gqNy) | [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [bullet tooth](https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC) | [Lose Control](https://open.spotify.com/album/2c8lk5exqABxO2NhHfKhX2) | 2:53 | 2025-04-25 | 2025-05-31 |
 | [Lose Control \- goddard\. Remix](https://open.spotify.com/track/1SOym0q1hXUeWMjgMXVgzm) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP) | [Lose Control \(goddard\. Remix\)](https://open.spotify.com/album/2B3PEO4iiean5GVs1yQ1V4) | 2:40 | 2024-02-16 | 2024-04-10 |
 | [Losin \(feat\. Lasada\)](https://open.spotify.com/track/24csqyWXWK7qyODBtTr7ZM) | [Josh Samuel](https://open.spotify.com/artist/2a9qbB4LyjVFuaCeQBX11A), [Lasada](https://open.spotify.com/artist/036waz4w9csK4GHayAXNmR) | [Losin \(feat\. Lasada\)](https://open.spotify.com/album/2pBVCJCh4bLWy97J2uzkEk) | 3:01 | 2025-02-21 | 2025-05-31 |

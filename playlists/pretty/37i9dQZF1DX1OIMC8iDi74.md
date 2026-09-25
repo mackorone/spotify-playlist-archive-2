@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap 💙 with TroyBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,723 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,700 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 45 | [FREAK NASTY \- VIP](https://open.spotify.com/track/5SASuUShXD7jNtO2MIpl7Q) | [Pretty Sweet](https://open.spotify.com/artist/1tGxccjxxG3IlNwSs2x8eX) | [FREAK NASTY \(THE REMIXES\)](https://open.spotify.com/album/0Mq7L6tEy9Z2Bm7Ej1t418) | 2:30 |
 | 46 | [REDLINE DASH](https://open.spotify.com/track/2EiGLWYEH6x79f9ir0VEah) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 1:16 |
 | 47 | [Flip It \- Tape B Remix](https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT) | [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Dem Jointz](https://open.spotify.com/artist/2AUT4fNQ2QC0e2f5pIxOCd) | [Flip It \(Tape B Remix\)](https://open.spotify.com/album/2NAppK3N8QSMkm1xdVDSBF) | 3:07 |
-| 48 | [Brain Tickler](https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Brain Tickler](https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg) | 2:24 |
-| 49 | [WILDFIRES v2](https://open.spotify.com/track/2Q0VLkprjKv6PLuJb2X4f4) | [Port London](https://open.spotify.com/artist/4hvH07yUsAeYBO5KeyAefq) | [WILDFIRES v2](https://open.spotify.com/album/4SUCNE5WmZM6ocaEwbbvZO) | 2:10 |
+| 48 | [WILDFIRES v2](https://open.spotify.com/track/2Q0VLkprjKv6PLuJb2X4f4) | [Port London](https://open.spotify.com/artist/4hvH07yUsAeYBO5KeyAefq) | [WILDFIRES v2](https://open.spotify.com/album/4SUCNE5WmZM6ocaEwbbvZO) | 2:10 |
+| 49 | [Brain Tickler](https://open.spotify.com/track/4CUwiZG9BQaVh7xsKs95wc) | [AHEE](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf) | [Brain Tickler](https://open.spotify.com/album/2IpYWzZVOZ6BW7JM4KYEqg) | 2:24 |
 | 50 | [Counting \- Taiki Nulight Remix](https://open.spotify.com/track/1NSWEN2D4tSseirwne0bhD) | [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [Princess Superstar](https://open.spotify.com/artist/7JQn9DfFTtsFTg2dFc75jM), [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a) | [Counting Remixes](https://open.spotify.com/album/6w5ZuB2dNarYW86DZ1LhWM) | 3:06 |
 | 51 | [Tranki](https://open.spotify.com/track/0H8M7R0K5UN4H2v19PDUIJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Tracey](https://open.spotify.com/artist/46JnIrUyPdpvYFPpPgRFSb), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [ANITA B QUEEN](https://open.spotify.com/artist/2YcZup1n6AW4BxoikeUswf) | [SOMA](https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv) | 3:18 |
 | 52 | [LIKE ME](https://open.spotify.com/track/3F6DRq9JshCbbjEFjcxHt5) | [Nikita, the Wicked](https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd) | [LIKE ME](https://open.spotify.com/album/4Yag5dp4W2D5lPy3OjjXT4) | 3:27 |

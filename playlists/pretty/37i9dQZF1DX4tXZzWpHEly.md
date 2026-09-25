@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,391 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,402 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 72 | [The Old Man's Shed](https://open.spotify.com/track/4AO6CLJLKnnwRvboYbml8d) | [Luke O'Shea](https://open.spotify.com/artist/0dbEViC4sUSUz7GKiTs1oq) | [Caught Up In The Dreaming](https://open.spotify.com/album/2bfSXa7gggpmK1LHzAFW3R) | 4:04 |
 | 73 | [The Road Less Travelled](https://open.spotify.com/track/0kHc5TYRDmQ3JYyHVthe3P) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Road Less Travelled](https://open.spotify.com/album/4s8OGMdvCiy5ujy6oeGMsB) | 4:30 |
 | 74 | [Get Loud](https://open.spotify.com/track/5eJCHC6NaH5pXHqSu6Kdrk) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [Get Loud](https://open.spotify.com/album/55v8wSxTXUkuuZq9BaUe51) | 3:54 |
-| 75 | [Better Days](https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [The Good Life](https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c) | 3:52 |
-| 76 | [My Hometown](https://open.spotify.com/track/1islrJG5v7TIwGIl5xOdyp) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Kickin' Up Dust](https://open.spotify.com/album/5W5mmNSOK53lh0WyqPVIeW) | 3:47 |
+| 75 | [My Hometown](https://open.spotify.com/track/1islrJG5v7TIwGIl5xOdyp) | [The Viper Creek Band](https://open.spotify.com/artist/0V0iGpPvQ1BdTHvGBaxn9Y) | [Kickin' Up Dust](https://open.spotify.com/album/5W5mmNSOK53lh0WyqPVIeW) | 3:47 |
+| 76 | [Better Days](https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [The Good Life](https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c) | 3:52 |
 | 77 | [Rusty Strings](https://open.spotify.com/track/3aRnNQap5z6RQ4yvgfmpab) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Rusty Strings](https://open.spotify.com/album/6c5EKjVzwqVaB1Vf9pyhAG) | 3:24 |
 | 78 | [Let The Canefields Burn](https://open.spotify.com/track/7jEIw0bDHTL17fQjaBOLwI) | [Graeme Connors](https://open.spotify.com/artist/10nZL5iEI60Z11z1BUtfRj) | [The Best..\. 'Til Now \(Limited Edition\)](https://open.spotify.com/album/2DLR5EGBku28shSTYrwOHM) | 5:06 |
 | 79 | [Cigarettes & Whiskey](https://open.spotify.com/track/2QWEe3dQkKiGoTmptw3js1) | [Adam Brand](https://open.spotify.com/artist/42XeVHEwXlejTSpz3lU0Ia) | [What a Life](https://open.spotify.com/album/5sGkXduWzw2XCG8fAfkfcJ) | 3:38 |

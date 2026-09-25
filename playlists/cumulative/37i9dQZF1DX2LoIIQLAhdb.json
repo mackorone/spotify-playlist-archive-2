@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Jey Brownie x Merveille",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Fallon",
   "name": "R&Bae",
   "tracks": [
     {
@@ -2664,6 +2664,24 @@
     {
       "album": {
         "name": "Comme moi",
+        "url": "https://open.spotify.com/album/2rG8qp61aIMs4bIi8pBHLX"
+      },
+      "artists": [
+        {
+          "name": "Denden",
+          "url": "https://open.spotify.com/artist/66YKNnSIqZwFDjrH0i9EAY"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133770,
+      "name": "Comme moi",
+      "url": "https://open.spotify.com/track/10Vh88qJ1gwjjWUdGb8kZm"
+    },
+    {
+      "album": {
+        "name": "Comme moi",
         "url": "https://open.spotify.com/album/4egWqTez7UKNZkliNvLWMT"
       },
       "artists": [
@@ -3927,6 +3945,24 @@
     },
     {
       "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/3oCtzwa0oflzV7hb3Cf8Hi"
+      },
+      "artists": [
+        {
+          "name": "Yena Blue",
+          "url": "https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Doutes",
+      "url": "https://open.spotify.com/track/1fuB5rU71L5QEr93oM4x1V"
+    },
+    {
+      "album": {
         "name": "Dou\u00e9",
         "url": "https://open.spotify.com/album/7hfsFt84bfD7krMhF4MwbP"
       },
@@ -5166,7 +5202,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 259053,
       "name": "GIRLFRIEND",
       "url": "https://open.spotify.com/track/19jskaQ5MXGGMmaqQowfVS"
@@ -6126,7 +6162,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 167000,
       "name": "J'OUBLIERAI",
       "url": "https://open.spotify.com/track/4pDeWODXFzJgpc0RgyRtZQ"
@@ -6986,6 +7022,24 @@
       "duration_ms": 185576,
       "name": "L'officiel",
       "url": "https://open.spotify.com/track/2kwPIIXZX9ZcnbeXtTTFsZ"
+    },
+    {
+      "album": {
+        "name": "L'originelle",
+        "url": "https://open.spotify.com/album/4ySOy0dWzGLDswAgWD2YDa"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161777,
+      "name": "L'originelle",
+      "url": "https://open.spotify.com/track/6K9e2aDYfU4jKA9oKhuNWD"
     },
     {
       "album": {
@@ -7909,6 +7963,28 @@
     },
     {
       "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/3V0CwiD6WbosuJ8XcWmtF1"
+      },
+      "artists": [
+        {
+          "name": "twinsmatic",
+          "url": "https://open.spotify.com/artist/3gYoYSbWPhxA0zY9lZ4Ldv"
+        },
+        {
+          "name": "Sonny Rave",
+          "url": "https://open.spotify.com/artist/2oz0IgsR0xKABrapfXcEwy"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165333,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/734vgILhukoLD4s1z0kS5h"
+    },
+    {
+      "album": {
         "name": "Main B****",
         "url": "https://open.spotify.com/album/1CVizIswK8OyrMgxHEzvtc"
       },
@@ -8098,7 +8174,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 222151,
       "name": "MAMAN PRIE",
       "url": "https://open.spotify.com/track/6oojgcW5Ffo7GkB54vARCh"
@@ -8206,7 +8282,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 172107,
       "name": "Maudit",
       "url": "https://open.spotify.com/track/5BthTKwBobneeWl7LYiZTK"
@@ -9023,6 +9099,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9dicament",
+        "url": "https://open.spotify.com/album/519L5BMHcjvq9MnEcp6JEp"
+      },
+      "artists": [
+        {
+          "name": "Obcess",
+          "url": "https://open.spotify.com/artist/4Q04Ql9zpWNwJaE0Yto1rr"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117223,
+      "name": "M\u00e9dicament",
+      "url": "https://open.spotify.com/track/7uQMKxhIedwtHt0TTHJdTn"
+    },
+    {
+      "album": {
         "name": "M\u00c9LANG\u00c9",
         "url": "https://open.spotify.com/album/08oPslm1X7q3yZxPTbGXbp"
       },
@@ -9034,7 +9128,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 151248,
       "name": "M\u00c9LANG\u00c9",
       "url": "https://open.spotify.com/track/41lNUNNATNWnW44H3QG0VN"
@@ -9570,7 +9664,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 135272,
       "name": "Oh my god",
       "url": "https://open.spotify.com/track/32TyEa7PkqtZp7GMRaTO6k"
@@ -9860,7 +9954,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171986,
       "name": "Ouvre-moi ton c\u0153ur",
       "url": "https://open.spotify.com/track/65NSfsg411qIZOBSLOKhls"
@@ -9878,7 +9972,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 158743,
       "name": "OVER",
       "url": "https://open.spotify.com/track/18nUcRgG9TPNieS0SL5uij"
@@ -10350,6 +10444,24 @@
       "duration_ms": 147003,
       "name": "PAS L\u00c0",
       "url": "https://open.spotify.com/track/5GIRSbbvKHSmY4p2pEnZke"
+    },
+    {
+      "album": {
+        "name": "PAS NORMAL",
+        "url": "https://open.spotify.com/album/1wQkGmlCTIMv1qFZVq1i1Y"
+      },
+      "artists": [
+        {
+          "name": "Afios",
+          "url": "https://open.spotify.com/artist/72JdiplJRSQimk2zqHnBUZ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "PAS NORMAL",
+      "url": "https://open.spotify.com/track/2gY4kMs36D5lFtAuU5KXjT"
     },
     {
       "album": {
@@ -13043,6 +13155,24 @@
     },
     {
       "album": {
+        "name": "STP",
+        "url": "https://open.spotify.com/album/4NEeQ0IiEAvyRrZUNpje3q"
+      },
+      "artists": [
+        {
+          "name": "ZOEY",
+          "url": "https://open.spotify.com/artist/3N4ERrK5amfWXJ7WQ7hgba"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162426,
+      "name": "STP",
+      "url": "https://open.spotify.com/track/45wawSnD0yNSzqbkhOUdRx"
+    },
+    {
+      "album": {
         "name": "Sugar daddy",
         "url": "https://open.spotify.com/album/6oU1bWzR7toi96GMympG0r"
       },
@@ -14874,6 +15004,24 @@
       "duration_ms": 142750,
       "name": "\u00c0 Deux",
       "url": "https://open.spotify.com/track/4nLzsm83c3LkNJpr7jF7uW"
+    },
+    {
+      "album": {
+        "name": "\u00c0 Fleur De Peau",
+        "url": "https://open.spotify.com/album/3mq0eIasK5shcMGGl1NGsH"
+      },
+      "artists": [
+        {
+          "name": "Naja Loan",
+          "url": "https://open.spotify.com/artist/2e2q47WPgdJLjlWLRzsOD4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145263,
+      "name": "\u00c0 Fleur De Peau",
+      "url": "https://open.spotify.com/track/36nwb4DeKA4Y8IxXJYatTG"
     },
     {
       "album": {

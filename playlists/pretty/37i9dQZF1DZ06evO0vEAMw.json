@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 107429,
+  "num_followers": 107457,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABsCOlr6XHkNrQwmr9hU8r/",
+  "snapshot_id": "arMWgAAAAACTF3EuGBjyCXFFbb1WKG/B",
   "tracks": [
     {
       "added_at": null,
@@ -374,15 +374,11 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 151285,
-      "name": "Amazing Grace (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1rTRsNoNdFXhLkmXflhPwS"
+      "duration_ms": 168058,
+      "name": "Guide",
+      "url": "https://open.spotify.com/track/7CVjRCTjoZ2e1zB16HkT1p"
     },
     {
       "added_at": null,
@@ -466,11 +462,15 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 168058,
-      "name": "Guide",
-      "url": "https://open.spotify.com/track/7CVjRCTjoZ2e1zB16HkT1p"
+      "duration_ms": 151285,
+      "name": "Amazing Grace (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1rTRsNoNdFXhLkmXflhPwS"
     },
     {
       "added_at": null,
@@ -691,26 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "5ive",
-        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "YG Marley",
-          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        }
-      ],
-      "duration_ms": 172628,
-      "name": "Awuke",
-      "url": "https://open.spotify.com/track/6erurkBpnedevTPib23gid"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doe",
         "url": "https://open.spotify.com/album/61T8t21pCXXAwBb1b5UHJP"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 242886,
       "name": "Doe",
       "url": "https://open.spotify.com/track/5BGDsaokGCwQ9OpeVy0MUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5ive",
+        "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "YG Marley",
+          "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
+        }
+      ],
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6erurkBpnedevTPib23gid"
     },
     {
       "added_at": null,

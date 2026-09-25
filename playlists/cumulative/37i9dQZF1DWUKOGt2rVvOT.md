@@ -2,9 +2,9 @@
 
 ### [高人氣MV](https://open.spotify.com/playlist/37i9dQZF1DWUKOGt2rVvOT)
 
-> 新歌不只用聽的，還要用看的！最新華語 MV 一次收好，現在就看起來！Cover: LAWA
+> 新歌不只用聽的，還要用看的！最新華語 MV 一次收好，現在就看起來！Cover: 宇宙人
 
-419 songs - 1 day 3 hr 33 min
+421 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [I Hate Myself Sometimes](https://open.spotify.com/track/5znau6BqFcgBkyQGcOutil) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [I Hate Myself Sometimes](https://open.spotify.com/album/7HSZCDvflTWrGFVuoDeLX7) | 2:54 | 2024-09-30 | 2025-07-15 |
 | [I'm Alive](https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL) | [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [I'm Alive](https://open.spotify.com/album/494KRb9whsEPJ0IjKS4Dji) | 2:52 | 2024-04-29 | 2024-11-26 |
 | [If I Had](https://open.spotify.com/track/744B6V0BnQ7MfpE4By85dW) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [Loser.](https://open.spotify.com/album/4F1qUMDO9CsA5XtrQ3KyN6) | 2:29 | 2026-09-02 |  |
-| [Looking at me](https://open.spotify.com/track/1rQIR5f2RoasQom2tvhuzr) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Looking at me](https://open.spotify.com/album/0nhvehPum53L1TSyRDHzQF) | 3:39 | 2026-09-02 |  |
+| [Looking at me](https://open.spotify.com/track/1rQIR5f2RoasQom2tvhuzr) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [Looking at me](https://open.spotify.com/album/0nhvehPum53L1TSyRDHzQF) | 3:39 | 2026-09-02 | 2026-09-25 |
 | [Losing Myself](https://open.spotify.com/track/4NpJoQZh8wZO0wvbQBKYE6) | [Boon Hui Lu](https://open.spotify.com/artist/6PWJWwEm8BSBFAIAUWlwe4), [GBOYSWAG](https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm) | [Reset](https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt) | 3:39 | 2024-01-08 | 2024-01-23 |
 | [Love Me Again](https://open.spotify.com/track/5qmJIlMbH22MJjlEjlFAPX) | [林佳辰](https://open.spotify.com/artist/6XNWn9sizLP7qy2a06D9gg) | [Love Me Again](https://open.spotify.com/album/2Ui78PqChH0aFRBOfmxsSv) | 3:34 | 2026-09-02 |  |
 | [Love Me True](https://open.spotify.com/track/6vuxvUXRXUvsMDDx9bGphD) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [Because of Love](https://open.spotify.com/album/6x1tyJxeLAr4ga3SxwFy91) | 5:13 | 2024-01-08 | 2024-01-23 |
@@ -39,6 +39,7 @@
 | [r u happy now?](https://open.spotify.com/track/5xnFjYxsjhIM2YHoUa3grT) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 2:55 | 2024-11-25 | 2025-01-07 |
 | [Ready To Shine](https://open.spotify.com/track/6gEMcHWWUM2Ggd6kjW2EPs) | [宇宙啦啦隊](https://open.spotify.com/artist/4fNW7dO0qEfdYRTi87i3hx) | [宇宙啦啦隊](https://open.spotify.com/album/68Lw6gIYA9AnjMQR4th7nu) | 3:10 | 2026-09-02 |  |
 | [scuba diving](https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf) | [Quanzo](https://open.spotify.com/artist/2xZ5jDLM2DzHd0UoeIquZn) | [scuba diving](https://open.spotify.com/album/45njOQWwSZh6mIPQ4nx5NT) | 2:04 | 2026-09-02 |  |
+| [Self!shhh](https://open.spotify.com/track/5e2NQdZtAr1DFtcyWXBsre) | [Ozone](https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1) | [Self!shhh](https://open.spotify.com/album/2tjulzVZJKodcNsgdr3GPw) | 3:14 | 2026-09-24 |  |
 | [SEX TAPE \(feat\. 落日飛車Sunset Rollercoaster\)](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE \(feat\. 落日飛車Sunset Rollercoaster\)](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 | 2025-07-27 | 2025-09-02 |
 | [Silent Hill](https://open.spotify.com/track/3DhJecwBSVbhgZjCPBZ8cD) | [趙翊帆](https://open.spotify.com/artist/4aayM0ChfIX46qI4eBCgMN) | [LUNARFACE](https://open.spotify.com/album/5ZzlRR3ODf69DbXafWYIBn) | 4:05 | 2025-11-10 | 2025-12-23 |
 | [Six Degrees](https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq) | [Patrick Brasca](https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [Six Degrees](https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu) | 3:14 | 2025-09-01 | 2025-11-11 |
@@ -322,7 +323,7 @@
 | [為你寫下這首情歌](https://open.spotify.com/track/7nQUCbkxmQpuhXLugmLffu) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [為你寫下這首情歌](https://open.spotify.com/album/7clyQmQE4BgF0XULsArbiZ) | 4:01 | 2024-05-27 | 2024-11-12 |
 | [烏梅子醬](https://open.spotify.com/track/4p9jbhD6N7HpuECGusu6iT) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:17 | 2024-06-24 | 2024-08-19 |
 | [無人知曉](https://open.spotify.com/track/5R3KGS53DCrlbi6cxECAEH) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:48 | 2024-01-08 | 2024-06-25 |
-| [無名氏 \- \(Netflix影集《如果我不曾見過太陽》插曲\)](https://open.spotify.com/track/0bkRzGY32FrYEy7xG02gsv) | [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [無名氏 \(Netflix影集《如果我不曾見過太陽》插曲\)](https://open.spotify.com/album/2vQqkQ8mfmSLLYfFT1Pwc4) | 3:40 | 2026-09-02 |  |
+| [無名氏 \- \(Netflix影集《如果我不曾見過太陽》插曲\)](https://open.spotify.com/track/0bkRzGY32FrYEy7xG02gsv) | [KAXA](https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG) | [無名氏 \(Netflix影集《如果我不曾見過太陽》插曲\)](https://open.spotify.com/album/2vQqkQ8mfmSLLYfFT1Pwc4) | 3:40 | 2026-09-02 | 2026-09-25 |
 | [無垢](https://open.spotify.com/track/08VBl78Lgs7VIEzCL1Btyv) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 3:29 | 2024-09-30 | 2024-10-29 |
 | [爱错](https://open.spotify.com/track/1ghHMFaXWk0yU8WsxCgUZk) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs), [於冬然](https://open.spotify.com/artist/1BadOf6GqUxuxC7KYWIXRC) | [爱错](https://open.spotify.com/album/1U2Io4LRcZAnBAjeSOPj60) | 3:55 | 2025-12-22 | 2026-09-03 |
 | [玫瑰少年 \- From THE FIRST TAKE](https://open.spotify.com/track/4UOZ3duqmEfMKXqvkZeboh) | [JOLIN](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [玫瑰少年 \- From THE FIRST TAKE](https://open.spotify.com/album/5o0kzdpGdsavvzBjhQTdkH) | 3:15 | 2025-06-03 | 2025-07-01 |
@@ -368,6 +369,7 @@
 | [藍色的你 \(《比悲傷更悲傷的故事》 影集版 插曲\)](https://open.spotify.com/track/0Gxc9ycu9OKcDRrxehcjNm) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [理想狀態](https://open.spotify.com/album/1cUvSBEiW9ZfRJycMHRCaY) | 3:57 | 2024-03-18 | 2024-11-12 |
 | [虛華的夢想是一支刀](https://open.spotify.com/track/5Q4IGbHiua8uVqhu7aZX6y) | [黃奇斌](https://open.spotify.com/artist/7td0pZH6CpEX2f36bU1H2D) | [虛華的夢想是一支刀](https://open.spotify.com/album/1yyF5YBUcjukyBFDjYbBIz) | 3:22 | 2026-09-02 |  |
 | [蝴蝶 \- 《基因決定我愛你》片尾曲](https://open.spotify.com/track/2FhgTu8oT3qDgGKsnzerQQ) | [柏霖PoLin](https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ) | [蝴蝶 \(《基因決定我愛你》片尾曲\)](https://open.spotify.com/album/4C5ScE6NOUTKaLHFjiFvtw) | 3:12 | 2024-05-13 | 2024-06-10 |
+| [融化以後](https://open.spotify.com/track/0EiKQdp9HzdALq4m86U9Jj) | [163 braces](https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ) | [雙季](https://open.spotify.com/album/15gzRVvy5ochmI2ASagEgN) | 2:30 | 2026-09-24 |  |
 | [蠻好聽的其實 \(feat\. 陳零九\)](https://open.spotify.com/track/5mYSOXpz2TrVtOuUbr4eqS) | [晨悠 CHENYO](https://open.spotify.com/artist/69HAncV59CvB16M51q77AI), [Nine Chen](https://open.spotify.com/artist/4MMQmzYiUiuD8VwjrJu3v6) | [去你的平行宇宙](https://open.spotify.com/album/3qxj9rbcs9hdYDMxLJeuzs) | 3:37 | 2024-12-23 | 2025-01-21 |
 | [被動的觀眾](https://open.spotify.com/track/1iM7KrPj67ESwLa2H5yMdr) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [被動的觀眾](https://open.spotify.com/album/0FihfmNx2ErosY6NleZDaF) | 3:57 | 2024-08-19 | 2024-10-01 |
 | [要怎麼告訴你我多喜歡 \(feat.理想混蛋 雞丁\)](https://open.spotify.com/track/3vfFrGe8h1VtO63Zku4KFk) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [你好嗎?](https://open.spotify.com/album/6ozfZvuJHfOjjgbfFhUqLj) | 3:46 | 2024-01-08 | 2024-07-09 |

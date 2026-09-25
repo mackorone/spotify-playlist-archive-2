@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 
 > Vieja escuela y de ahora 📸 Mala Fama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,415 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,489 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5463MYlHXHD.md) - [plain]
 | 86 | [Para que volver](https://open.spotify.com/track/5wKCkCOPWcJghSdU6aNi5X) | [Miguelito](https://open.spotify.com/artist/4IJbOplPSGIRdzgO4fjSdC) | [Miguelito \(El Angelito Musical\)](https://open.spotify.com/album/1vydlQIHdYUgxg3BWYhlEW) | 3:25 |
 | 87 | [Sentate en el pelado](https://open.spotify.com/track/4fqDmV6uRZtNgYg5h4FnGP) | [Amar y yo](https://open.spotify.com/artist/0gyiCPHKKiUQMSsdKn51c8) | [Amar y yo \- Produccion Pablo Lescano \- Damas Gratis](https://open.spotify.com/album/6joM3jLSGqo9xdGQ1xzIXV) | 3:18 |
 | 88 | [Corte Caco \- Remix](https://open.spotify.com/track/2ijnr0x5lJwiawhVEfoeu3) | [Nuke](https://open.spotify.com/artist/7h7LjA71LfeSKizl1Vrevu), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Obie Wanshot](https://open.spotify.com/artist/48vP5SxlTO6yOI7SLKIOQV), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn), [R Jota](https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi) | [Corte Caco \(Remix\)](https://open.spotify.com/album/3WpkI8y48aGBQ5zz9t6phN) | 3:34 |
-| 89 | [La 2º del Boxeador](https://open.spotify.com/track/2FzrVCKuS508J1rpdgdfbD) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 3:05 |
-| 90 | [EXCUSAS](https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [Dj Lauuh](https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF) | [EXCUSAS](https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0) | 3:41 |
+| 89 | [EXCUSAS](https://open.spotify.com/track/5CNMBlU7Ovc75rNEtenbVH) | [OKY](https://open.spotify.com/artist/6MLsGkmMLs3wFwNRleDyeU), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA), [Dj Lauuh](https://open.spotify.com/artist/1spz7NNmvQQbTAyFxPGKAF) | [EXCUSAS](https://open.spotify.com/album/1eeSI54GxvlHs3AMnZhbK0) | 3:41 |
+| 90 | [La 2º del Boxeador](https://open.spotify.com/track/2FzrVCKuS508J1rpdgdfbD) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 3:05 |
 | 91 | [6to Sentido \(Una Vuelta\)](https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi) | [6to Sentido \(Una Vuelta\)](https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr) | 2:08 |
 | 92 | [Te Invito a Bailar](https://open.spotify.com/track/5DDiufzTHaZAFuL0PQni2d) | [Eh!!! Guacho](https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF) | [Es Corta la Bocha](https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM) | 2:20 |
 | 93 | [Dile Tu](https://open.spotify.com/track/0VcW26sjYxiQCPFkXstR5z) | [Jimmy Y Su Combo Negro](https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY) | [Su Majestad](https://open.spotify.com/album/3uv1INMxhlwiW8MnHk6LY5) | 3:56 |

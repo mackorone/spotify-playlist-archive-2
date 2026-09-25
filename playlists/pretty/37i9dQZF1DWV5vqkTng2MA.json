@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Frank Mastra",
-  "num_followers": 428424,
+  "num_followers": 428457,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -75,6 +75,22 @@
     {
       "added_at": "2026-09-18 04:01:00",
       "album": {
+        "name": "When You Know You Know",
+        "url": "https://open.spotify.com/album/7jOp38flePWqWH0OxxTvDg"
+      },
+      "artists": [
+        {
+          "name": "Benny G",
+          "url": "https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8"
+        }
+      ],
+      "duration_ms": 209685,
+      "name": "Price of Love",
+      "url": "https://open.spotify.com/track/0dBOzs6h3OuMb9iGXtTbt1"
+    },
+    {
+      "added_at": "2026-09-18 04:01:00",
+      "album": {
         "name": "The Little Mess You Made",
         "url": "https://open.spotify.com/album/2OekkqNffxmPChDFGVh2PH"
       },
@@ -95,22 +111,6 @@
       "duration_ms": 201284,
       "name": "The Little Mess You Made",
       "url": "https://open.spotify.com/track/6EFBcGR6chnBv9rmSN0ObX"
-    },
-    {
-      "added_at": "2026-09-18 04:01:00",
-      "album": {
-        "name": "When You Know You Know",
-        "url": "https://open.spotify.com/album/7jOp38flePWqWH0OxxTvDg"
-      },
-      "artists": [
-        {
-          "name": "Benny G",
-          "url": "https://open.spotify.com/artist/3QuQwLqdQBjhieJ1c6uLc8"
-        }
-      ],
-      "duration_ms": 209685,
-      "name": "Price of Love",
-      "url": "https://open.spotify.com/track/0dBOzs6h3OuMb9iGXtTbt1"
     },
     {
       "added_at": "2026-09-18 04:01:00",

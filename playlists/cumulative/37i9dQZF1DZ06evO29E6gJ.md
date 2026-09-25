@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-120 songs - 5 hr 36 min
+121 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,8 +120,9 @@
 | [Tres Flores](https://open.spotify.com/track/6BBqV4VjTg5ihvbXjo3EY4) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:11 | 2022-06-01 | 2025-04-11 |
 | [Tres Viudas Solas](https://open.spotify.com/track/4kouZcOHRtmm4Kdicirz7O) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Super Éxitos](https://open.spotify.com/album/2DjhUqMnW46gQlBSMlc4IZ) | 2:55 | 2022-06-01 | 2024-12-18 |
 | [Tu Nuevo Cariñito](https://open.spotify.com/track/4S44UwAoCh9kdT9macDuGk) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 2:26 | 2024-04-27 |  |
-| [Tu Recuerdo](https://open.spotify.com/track/1IakVCQY7u99BadooPlATN) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 2:30 | 2025-04-10 |  |
+| [Tu Recuerdo](https://open.spotify.com/track/1IakVCQY7u99BadooPlATN) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 2:30 | 2025-04-10 | 2026-09-25 |
 | [Tu Recuerdo](https://open.spotify.com/track/1TbxwY95RPMI3dQskajdWC) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:30 | 2022-06-01 | 2025-04-10 |
+| [Tu Recuerdo](https://open.spotify.com/track/0RTjdt7njOVEu1QQwM8nUr) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [14 Super Exitos \(Special Edition\)](https://open.spotify.com/album/7wpjiqiFhaVOKytQjm818b) | 2:31 | 2026-09-25 |  |
 | [Una Sola Caída \- Ranchera](https://open.spotify.com/track/63OuAYsEK8xo1A8c5WEljj) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:50 | 2025-04-05 | 2026-02-24 |
 | [Valente Quintero](https://open.spotify.com/track/4TVZ40cph6HTc6H5OOszZj) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:31 | 2022-06-01 |  |
 | [Veinte Años](https://open.spotify.com/track/2EwoK2GpabnJQzJVwN266w) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 3:10 | 2022-07-18 | 2025-11-01 |

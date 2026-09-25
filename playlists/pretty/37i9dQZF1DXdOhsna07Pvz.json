@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 118062,
+  "num_followers": 118099,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Que Beleza",
-        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 208573,
-      "name": "Que Beleza",
-      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Esse \u00c9 O Rem\u00e9dio",
         "url": "https://open.spotify.com/album/3COaHypWRhe0mwPBwFr2o4"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 235933,
       "name": "Com Certeza",
       "url": "https://open.spotify.com/track/3lnQYHdFC4TwGVC0LSTu8q"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Que Beleza",
+        "url": "https://open.spotify.com/album/7q8wtnNTBNzKQswMJTAluK"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Que Beleza",
+      "url": "https://open.spotify.com/track/5flYFbJweqUHlQjle7uRlI"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Latin Grooves - Samba",
-        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Vou Festejar",
-      "url": "https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
         "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 162600,
       "name": "Emori\u00f4",
       "url": "https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Latin Grooves - Samba",
+        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho",
+          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
+        }
+      ],
+      "duration_ms": 190133,
+      "name": "Vou Festejar",
+      "url": "https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS"
     }
   ],
   "unique_name": "Baile Maravilha",

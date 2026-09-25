@@ -4,7 +4,7 @@
 
 > These are some independent alternative rock bands you need to hear\. Updated weekly.
 
-439 songs - 1 day 2 hr 17 min
+440 songs - 1 day 2 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Patroklos](https://open.spotify.com/track/60rTJmGVhv7t5czioq3Tgc) | [Meerkat](https://open.spotify.com/artist/5LmeYGFo0QRpiiJpYdtRal) | [Patroklos](https://open.spotify.com/album/4h72XgIDG3kBcCGyqmssrq) | 3:21 | 2026-05-05 | 2026-05-26 |
 | [Perfect life](https://open.spotify.com/track/7MqtvOVB7fIqwaOFE8Upjk) | [Jivarp](https://open.spotify.com/artist/0BGkkx9kCUionEhgkwekU8) | [Perfect life](https://open.spotify.com/album/1rg4ZejsarO8YjR7fyu26X) | 2:44 | 2025-11-04 | 2025-12-06 |
 | [Perilous Crests](https://open.spotify.com/track/0SjeRsyPzUfOWQgEfbtnNO) | [KXENIA](https://open.spotify.com/artist/4xGnce5EXkdJNeOxaZeYTL) | [Perilous Crests](https://open.spotify.com/album/664kp9PX6QSxOuCuP0lvS1) | 3:47 | 2026-01-24 | 2026-06-04 |
+| [Photosynthesize](https://open.spotify.com/track/170x4QIJeKPk6MQp87KiU5) | [The Winter Sloths](https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD) | [Photosynthesize](https://open.spotify.com/album/4qSkBNtL1NcdXjEjRLnupg) | 4:43 | 2026-09-24 |  |
 | [Play The Fool](https://open.spotify.com/track/17utc5QAA7nYqFHJBecviD) | [Future Mondays](https://open.spotify.com/artist/3VMpqGkVVuW4nTUJw9v2rt) | [Future Mondays](https://open.spotify.com/album/448haKOKsOWNr4OIG7ao3W) | 3:13 | 2025-11-21 | 2025-12-12 |
 | [Playground](https://open.spotify.com/track/0hUbr66SmawTFyn17USbQS) | [Maia and the Squires](https://open.spotify.com/artist/0ZUdMSGAbhRWkb6WJwuBeq) | [Sinking Into The Ocean](https://open.spotify.com/album/1RSTKvRHsWAuvnTAO9Bpmc) | 3:37 | 2026-05-31 | 2026-06-14 |
 | [Playing God](https://open.spotify.com/track/58MmPniM5FnH9c1WfeTzdO) | [Early Exit](https://open.spotify.com/artist/2Ja88B9uPMQsjv6VtQiQt3) | [Playing God](https://open.spotify.com/album/2ZxXf7pkmshkpbMgHSfQnv) | 3:40 | 2026-01-10 | 2026-02-02 |

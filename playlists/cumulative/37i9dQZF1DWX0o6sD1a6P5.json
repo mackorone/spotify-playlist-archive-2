@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: GIMS",
+  "description": "The hottest Afrobeats, Afropop and Afro-Caribbean hits, all in one place. Cover: KeBlack x Franglish",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 207085,
       "name": "Alive",
       "url": "https://open.spotify.com/track/6UvjCPYE9rZ6B5AIlLMJEi"
@@ -2140,6 +2140,28 @@
       "duration_ms": 169879,
       "name": "BENIN BOYS",
       "url": "https://open.spotify.com/track/5GX1wsJfvSXUobjDJgrVBD"
+    },
+    {
+      "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq"
     },
     {
       "album": {
@@ -4754,7 +4776,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 204375,
       "name": "Dans celle l\u00e0",
       "url": "https://open.spotify.com/track/6wmiUTohVGHN4lvAGie03u"
@@ -10088,6 +10110,28 @@
       "duration_ms": 165784,
       "name": "La tip\u00e8re",
       "url": "https://open.spotify.com/track/63JDKTI5MdjUVsqaJ7Rd5O"
+    },
+    {
+      "album": {
+        "name": "LA VAR",
+        "url": "https://open.spotify.com/album/5o9rCDHdg9drVEizV7K0B7"
+      },
+      "artists": [
+        {
+          "name": "Supremnova",
+          "url": "https://open.spotify.com/artist/4fUvYApN6RKS0A4oPnHciR"
+        },
+        {
+          "name": "Jemma's Palace",
+          "url": "https://open.spotify.com/artist/3RHXu7mYWlyIhAzg7HkkmZ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102352,
+      "name": "LA VAR",
+      "url": "https://open.spotify.com/track/330nwK4v8qeu9Whe17q82w"
     },
     {
       "album": {

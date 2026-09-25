@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO055ISn.md) - [plain]
 
 > This is Alex Warren\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,320 likes - 32 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,417 likes - 32 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO055ISn.md) - [plain]
 | 31 | [Screaming Underwater](https://open.spotify.com/track/2USXaHnQnQdLklRluWDNwd) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Screaming Underwater](https://open.spotify.com/album/1JoSKqExdKeh5no4AhPYan) | 2:26 |
 | 32 | [LAST TIME](https://open.spotify.com/track/3sOa0MNB49lZnqRVgv6XJF) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [WILDCHILD](https://open.spotify.com/album/1es3JGBHQfFNXd4xVktkSs) | 3:16 |
 
-Snapshot ID: `arHFAAAAAACh4s9pozJlqFO3re6f14sh`
+Snapshot ID: `arMWgAAAAAAhgLWOz9XyLLr4hcvUs/Kp`

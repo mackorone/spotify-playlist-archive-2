@@ -1,12 +1,12 @@
 {
   "description": "Hold up, run that back. Cover: Lil Wayne",
-  "num_followers": 82353,
+  "num_followers": 82378,
   "original_name": "Rap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIz3MwQ1JKDrTqx4mKLyoOeKAtb+",
+  "snapshot_id": "AAAAANSuTuJ4SCL/JkFSuOzZGUZkYFgt",
   "tracks": [
     {
       "added_at": "2026-09-18 03:09:34",
@@ -91,30 +91,6 @@
     {
       "added_at": "2026-09-18 03:09:34",
       "album": {
-        "name": "TM:103 Hustlerz Ambition (Deluxe)",
-        "url": "https://open.spotify.com/album/4GvDHEW1goHkqJbLJHzUUf"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        },
-        {
-          "name": "JA\u0178-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Andr\u00e9 3000",
-          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
-        }
-      ],
-      "duration_ms": 311640,
-      "name": "I Do",
-      "url": "https://open.spotify.com/track/7kbgzSYR7X9FkzIeUFkviQ"
-    },
-    {
-      "added_at": "2026-09-18 03:09:34",
-      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -183,6 +159,26 @@
       "duration_ms": 263773,
       "name": "No Hands (feat. Roscoe Dash & Wale)",
       "url": "https://open.spotify.com/track/03tqyYWC9Um2ZqU0ZN849H"
+    },
+    {
+      "added_at": "2026-09-18 03:09:34",
+      "album": {
+        "name": "Only Built For Infinity Links",
+        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Takeoff",
+          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
+        }
+      ],
+      "duration_ms": 142657,
+      "name": "HOTEL LOBBY (Unc & Phew)",
+      "url": "https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml"
     },
     {
       "added_at": "2026-09-18 03:09:34",
@@ -387,26 +383,6 @@
     {
       "added_at": "2026-09-18 03:09:34",
       "album": {
-        "name": "Only Built For Infinity Links",
-        "url": "https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t"
-      },
-      "artists": [
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-        },
-        {
-          "name": "Takeoff",
-          "url": "https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J"
-        }
-      ],
-      "duration_ms": 142657,
-      "name": "HOTEL LOBBY (Unc & Phew)",
-      "url": "https://open.spotify.com/track/4vVjPTApwXZwB2H3mBq3ml"
-    },
-    {
-      "added_at": "2026-09-18 03:09:34",
-      "album": {
         "name": "SAVAGE MODE II",
         "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi"
       },
@@ -515,6 +491,30 @@
       "duration_ms": 200750,
       "name": "Pop Out",
       "url": "https://open.spotify.com/track/6mSJEqkgiBMtqZSXSMvb4s"
+    },
+    {
+      "added_at": "2026-09-18 03:09:34",
+      "album": {
+        "name": "TM:103 Hustlerz Ambition (Deluxe)",
+        "url": "https://open.spotify.com/album/4GvDHEW1goHkqJbLJHzUUf"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        },
+        {
+          "name": "JA\u0178-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Andr\u00e9 3000",
+          "url": "https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6"
+        }
+      ],
+      "duration_ms": 311640,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/7kbgzSYR7X9FkzIeUFkviQ"
     },
     {
       "added_at": "2026-09-18 03:09:34",

@@ -1,6 +1,6 @@
 {
   "description": "Alegr\u00eda para tus ma\u00f1anas. ",
-  "num_followers": 981874,
+  "num_followers": 981864,
   "original_name": "Buen D\u00eda",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-09-11 20:56:52",
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 202790,
+      "name": "Por Amarte As\u00ed",
+      "url": "https://open.spotify.com/track/3O3bL4mhBEm5oSjT0GRyQ8"
+    },
+    {
+      "added_at": "2026-09-11 20:56:52",
+      "album": {
         "name": "Mentira",
         "url": "https://open.spotify.com/album/0pfzeRGfexQROcWybyxDt6"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 156631,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs"
-    },
-    {
-      "added_at": "2026-09-11 20:56:52",
-      "album": {
-        "name": "Natanael Cano, Vol.1",
-        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 202790,
-      "name": "Por Amarte As\u00ed",
-      "url": "https://open.spotify.com/track/3O3bL4mhBEm5oSjT0GRyQ8"
     },
     {
       "added_at": "2026-09-11 20:56:52",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-09-11 20:56:52",
       "album": {
-        "name": "Cosas Pendientes",
-        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 184462,
-      "name": "Cosas Pendientes",
-      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
-    },
-    {
-      "added_at": "2026-09-11 20:56:52",
-      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
+    },
+    {
+      "added_at": "2026-09-11 20:56:52",
+      "album": {
+        "name": "Cosas Pendientes",
+        "url": "https://open.spotify.com/album/0MW80IhxQCfhIiIqBwWvov"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 184462,
+      "name": "Cosas Pendientes",
+      "url": "https://open.spotify.com/track/0iVEujJcafOBnxa654fJYu"
     },
     {
       "added_at": "2026-09-11 20:56:52",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-09-11 20:56:52",
       "album": {
+        "name": "Miranda Es Imposible!",
+        "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Tu Misterioso Alguien",
+      "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
+    },
+    {
+      "added_at": "2026-09-11 20:56:52",
+      "album": {
         "name": "Vagabundo",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -1187,18 +1203,18 @@
     {
       "added_at": "2026-09-11 20:56:52",
       "album": {
-        "name": "Miranda Es Imposible!",
-        "url": "https://open.spotify.com/album/1UTpvroWrhmgpntarWj1OO"
+        "name": "TOTOTO (+4)",
+        "url": "https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab"
       },
       "artists": [
         {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
         }
       ],
-      "duration_ms": 244800,
-      "name": "Tu Misterioso Alguien",
-      "url": "https://open.spotify.com/track/5BaWu0bYT7XPaIYyXJOZvJ"
+      "duration_ms": 138994,
+      "name": "TOTOTO (+4)",
+      "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
     },
     {
       "added_at": "2026-09-11 20:56:52",
@@ -1219,22 +1235,6 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
-    },
-    {
-      "added_at": "2026-09-11 20:56:52",
-      "album": {
-        "name": "TOTOTO (+4)",
-        "url": "https://open.spotify.com/album/7cfnnziRacYRtzV9CmJvab"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 138994,
-      "name": "TOTOTO (+4)",
-      "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
     },
     {
       "added_at": "2026-09-11 20:56:52",

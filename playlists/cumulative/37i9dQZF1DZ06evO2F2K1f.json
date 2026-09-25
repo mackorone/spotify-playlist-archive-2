@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 187404,
       "name": "Dark Vision",
       "url": "https://open.spotify.com/track/5WuOblWMG2QcshyAU0eKxN"
@@ -1096,7 +1096,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 181053,
       "name": "Drive On",
       "url": "https://open.spotify.com/track/7M9b2EG5VFVb3gNaplNy2O"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2025-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 263008,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/78xcyHVAJbwzksemi1Rjlb"
@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 177426,
       "name": "Soul Organ Impromptu",
       "url": "https://open.spotify.com/track/7wRok4fwH4ygKr1AtrVFTF"
@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 77733,
       "name": "Speed Speed Speed",
       "url": "https://open.spotify.com/track/6KequWeuLVnMMf1engpVTa"
@@ -3761,6 +3761,24 @@
     },
     {
       "album": {
+        "name": "Bruton BRN5: New Horizons/The Seven Wonders of the World",
+        "url": "https://open.spotify.com/album/1do4QpMKpNf0ASp8VFtbxO"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127029,
+      "name": "Tomb of Mausolus",
+      "url": "https://open.spotify.com/track/22VBKNUFe7uA8epk9hZjIH"
+    },
+    {
+      "album": {
         "name": "Highlights",
         "url": "https://open.spotify.com/album/53lRdtLiHz3eDyVi5OXhCk"
       },
@@ -3848,7 +3866,7 @@
       ],
       "date_added": "2025-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 128266,
       "name": "Visionary",
       "url": "https://open.spotify.com/track/4xPr3uYqT127MMios5rAFE"
@@ -3980,7 +3998,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 137853,
       "name": "Where the Action Is",
       "url": "https://open.spotify.com/track/7h1wuuntA9VgK2lP7wI1UI"

@@ -1,12 +1,12 @@
 {
   "description": "This is Casting Crowns. The essential tracks, all in one playlist.",
-  "num_followers": 47432,
+  "num_followers": 47442,
   "original_name": "This Is Casting Crowns",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABqs6BisLEKwaGdHcDNE2HX",
+  "snapshot_id": "arMWgAAAAADOmH/JGulL2M0lITPY7Pxs",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Only Jesus",
-        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 221053,
-      "name": "Start Right Here",
-      "url": "https://open.spotify.com/track/2zpcDiFVgJ53BeMuJK40aX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifesong",
         "url": "https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 316720,
       "name": "Lifesong",
       "url": "https://open.spotify.com/track/5upa2GofaZrflJ5mW2y0OR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Only Jesus",
+        "url": "https://open.spotify.com/album/4A2NkqIDg3izF2Kk8Xo6uB"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 221053,
+      "name": "Start Right Here",
+      "url": "https://open.spotify.com/track/2zpcDiFVgJ53BeMuJK40aX"
     },
     {
       "added_at": null,
@@ -551,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 285439,
-      "name": "Broken Together",
-      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casting Crowns",
         "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 232893,
       "name": "Your Love Is Extravagant",
       "url": "https://open.spotify.com/track/45odkrz6e8NWiM8vdJrgZi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 285439,
+      "name": "Broken Together",
+      "url": "https://open.spotify.com/track/2PuvIyN4e2w2i4GIjWCqsB"
     },
     {
       "added_at": null,
@@ -615,22 +615,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thrive",
-        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
-      },
-      "artists": [
-        {
-          "name": "Casting Crowns",
-          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
-        }
-      ],
-      "duration_ms": 244067,
-      "name": "All You've Ever Wanted",
-      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Live Worship Experience",
         "url": "https://open.spotify.com/album/25mkgg56UiC6L5WoVoPteq"
       },
@@ -647,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come To The Well",
-        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/3rdhHLp8c07rmDpN7lEARY"
       },
       "artists": [
         {
@@ -656,9 +640,25 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 249600,
-      "name": "City On The Hill",
-      "url": "https://open.spotify.com/track/2oEy4YPNn1h6ZQRpcIFk6Q"
+      "duration_ms": 244067,
+      "name": "All You've Ever Wanted",
+      "url": "https://open.spotify.com/track/5lSVszuv0PGnfvh2HTWq1k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Casting Crowns",
+        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+      },
+      "artists": [
+        {
+          "name": "Casting Crowns",
+          "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+        }
+      ],
+      "duration_ms": 208466,
+      "name": "What If His People Prayed",
+      "url": "https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6"
     },
     {
       "added_at": null,
@@ -679,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casting Crowns",
-        "url": "https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc"
+        "name": "Come To The Well",
+        "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
       },
       "artists": [
         {
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
         }
       ],
-      "duration_ms": 208466,
-      "name": "What If His People Prayed",
-      "url": "https://open.spotify.com/track/2qRnTIbCkw5YZG9hk8VfP6"
+      "duration_ms": 249600,
+      "name": "City On The Hill",
+      "url": "https://open.spotify.com/track/2oEy4YPNn1h6ZQRpcIFk6Q"
     },
     {
       "added_at": null,

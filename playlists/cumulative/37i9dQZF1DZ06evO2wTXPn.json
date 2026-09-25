@@ -154,7 +154,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 187403,
       "name": "Bonsai",
       "url": "https://open.spotify.com/track/0SvTrfPi6uI6mMyDUb7fIJ"
@@ -198,7 +198,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 173226,
       "name": "B\u00f3rrame",
       "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
@@ -503,6 +503,24 @@
     },
     {
       "album": {
+        "name": "Desde Antes De Nacer",
+        "url": "https://open.spotify.com/album/7CBHFGAhAWerAR32jQQ1s3"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198576,
+      "name": "Espectador",
+      "url": "https://open.spotify.com/track/0F0JtbK8wOn1PyXC4PL8jv"
+    },
+    {
+      "album": {
         "name": "Espectador",
         "url": "https://open.spotify.com/album/0ekLp83yAHBExNAvnFgJBV"
       },
@@ -514,7 +532,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 200771,
       "name": "Espectador",
       "url": "https://open.spotify.com/track/7K6VPsAtUg6aWoeUoeSkPC"

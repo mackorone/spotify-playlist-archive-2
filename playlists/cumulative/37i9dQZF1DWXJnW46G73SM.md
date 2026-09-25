@@ -2,9 +2,9 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> شجّع المنتَج المحلي\. الغلاف: حسين ياسر
+> شجّع المنتَج المحلي\. الغلاف: ندى نادر
 
-1,816 songs - 4 day 4 hr 31 min
+1,817 songs - 4 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Baftekrek Beleil](https://open.spotify.com/track/4Yzk6Ph1BGGjlXuA3id81i) | [Budgy](https://open.spotify.com/artist/73ShI69rb4GNM1sbHfuLDk) | [Baftekrek Beleil](https://open.spotify.com/album/7oPA18Mt8l9SXJsU8tKaMO) | 2:40 | 2024-11-07 | 2024-12-06 |
 | [Bagheeb Bmzagy](https://open.spotify.com/track/6pC4o086d8fwArcIVdlyJT) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Bagheeb Bmzagy](https://open.spotify.com/album/4WL5gL4OulnpsFDXzba3ZT) | 3:20 | 2023-07-24 | 2023-08-18 |
 | [Baheb Elly Yehaybk](https://open.spotify.com/track/1gl7s2qFAfaY9ae3IWrITt) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Esseily Summer 2025](https://open.spotify.com/album/1yIsLU4hhXpgH29SqpvtAZ) | 3:04 | 2025-08-07 | 2025-12-02 |
+| [BAHEB GDEED](https://open.spotify.com/track/16aFCdYs5avtLON2VKSd3K) | [Nada Nader](https://open.spotify.com/artist/5LGQwjfTimjVhHHWCVP6Lz) | [BAHEB GDEED](https://open.spotify.com/album/4jvyEniOk2KxCVZPDdi8Wi) | 2:55 | 2026-09-25 |  |
 | [Bahebak](https://open.spotify.com/track/3H4aKXzXM8UrgcueXfGSLV) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Bahebak](https://open.spotify.com/album/6lGfM6xAHxoqCCthpYMsk0) | 3:02 | 2023-10-12 | 2023-10-15 |
 | [Bahebak](https://open.spotify.com/track/4NCbUpDhOeCLjyBXNpSAcW) | [Azeem](https://open.spotify.com/artist/1C7GlEj3ifjU7NbXTgV2sN) | [Fiha Eh](https://open.spotify.com/album/2UdD6ElFXoz4VmVg5SLgrk) | 3:02 | 2023-10-12 | 2024-01-12 |
 | [Bahebek Tab3an](https://open.spotify.com/track/7LFeJfAOjhKsCs3UwxkH2R) | [Esaf](https://open.spotify.com/artist/0nwERAZbDOU5tAEW9QdbVl) | [Bahebek Tab3an](https://open.spotify.com/album/4XXCpiUuZwHdDdf4i1GAgZ) | 4:06 | 2023-12-14 | 2024-01-26 |
@@ -394,7 +395,7 @@
 | [Enta Teabal](https://open.spotify.com/track/0MeHEYGoomiMpbF7HdIKJI) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [Enta Teabal](https://open.spotify.com/album/3y2QISOVbahyigZFOKN5XK) | 3:32 | 2024-01-26 | 2024-02-16 |
 | [Enty El Amar](https://open.spotify.com/track/1JsvbUGLWrPUuyZoXqYjmT) | [Abdelrahman Roshdy](https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK) | [Enty El Amar](https://open.spotify.com/album/4AoVpzWrxFobpYFE7IP4ux) | 3:26 | 2024-09-06 | 2024-11-08 |
 | [Enty El Oula \- Wahda Gdida](https://open.spotify.com/track/64dIa8xKPzMuuIEv1wMFcz) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Enty El Oula \(Wahda Gdida\)](https://open.spotify.com/album/6rTccCjxDyaQ66femjuaHv) | 2:46 | 2022-03-24 | 2022-07-15 |
-| [Enty Gameela](https://open.spotify.com/track/1kerkUkLMypal9V49Gi3is) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [Malak Dahshan](https://open.spotify.com/artist/4Mlf1J5tiFzpoxORof3imG) | [Enty Gameela](https://open.spotify.com/album/5AANtIvLGAJICYztx0GYNp) | 3:00 | 2026-08-06 |  |
+| [Enty Gameela](https://open.spotify.com/track/1kerkUkLMypal9V49Gi3is) | [Sharmoofers](https://open.spotify.com/artist/0qZ24TkLCHoE3ajCzGItJ1), [Malak Dahshan](https://open.spotify.com/artist/4Mlf1J5tiFzpoxORof3imG) | [Enty Gameela](https://open.spotify.com/album/5AANtIvLGAJICYztx0GYNp) | 3:00 | 2026-08-06 | 2026-09-25 |
 | [Enty Genan](https://open.spotify.com/track/7i5Ud8atK2QZdxgdVLtExX) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [Enty Genan](https://open.spotify.com/album/0V4l3eqaozw81VyPXhav01) | 3:05 | 2022-07-07 | 2022-09-29 |
 | [Enty Helwa](https://open.spotify.com/track/5V6SbJmwZowWofLMZYzMjI) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Enty Helwa](https://open.spotify.com/album/5MPMR67fgV8BzuIHD5UO88) | 2:27 | 2022-10-13 | 2023-01-03 |
 | [Enty W Bas](https://open.spotify.com/track/5uhk2dFkXPXHcU3egP2bHp) | [Hassan Abouelrouss](https://open.spotify.com/artist/7xwMn1tewzj0idd87bXpQm), [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [Enty W Bas](https://open.spotify.com/album/0qv4dCjL4K6i01nKapaNWF) | 2:40 | 2024-12-31 | 2025-02-07 |
@@ -489,7 +490,7 @@
 | [Gowak 3alam \- ⁠جواك عالم](https://open.spotify.com/track/77Bl3uYpu80v7kcyk8AItD) | [National Bank of Egypt](https://open.spotify.com/artist/70BqpVrIq2RVr6HVPQXe4m), [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [Gowak 3alam \- جواك عالم](https://open.spotify.com/album/6fiJH4OWo26RKvS03x9s9o) | 3:09 | 2025-03-06 | 2025-06-10 |
 | [Gowak Halak](https://open.spotify.com/track/02OQ4bSdjDmFO2VITeD7M3) | [Bassma Atta](https://open.spotify.com/artist/0kYSjEPqFB08F7EP4Q1qgC) | [Gowak Halak](https://open.spotify.com/album/3PJOsXOH50LgFyXBqyj57z) | 4:27 | 2025-04-17 | 2025-06-20 |
 | [GPS](https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [GPS](https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD) | 3:17 | 2023-07-13 | 2023-08-16 |
-| [GRAMMY](https://open.spotify.com/track/1BQmQZ1zqNTsM1UTBx9oU1) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj), [Btates El 7up](https://open.spotify.com/artist/6pruitJZXEeByHODuwaXf6), [Aka El Arab](https://open.spotify.com/artist/0RJhhHp2j8ozVE8fS7Sqxt), [Tayer](https://open.spotify.com/artist/0rYEKmoOQFKxcbjxINQMtu), [كاتي](https://open.spotify.com/artist/361WjZqqCOKZkz0C0EuP8n) | [إذاعة القاهرة \(الوش الثاني\)](https://open.spotify.com/album/6Qw0JZBn36Z9mICsS9MBAo) | 2:01 | 2026-07-09 |  |
+| [GRAMMY](https://open.spotify.com/track/1BQmQZ1zqNTsM1UTBx9oU1) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj), [Batates](https://open.spotify.com/artist/0TxMuSpt7n7GmS1sk5HsHh), [Aka El Arab](https://open.spotify.com/artist/0RJhhHp2j8ozVE8fS7Sqxt), [Tayer](https://open.spotify.com/artist/0rYEKmoOQFKxcbjxINQMtu), [كاتي](https://open.spotify.com/artist/361WjZqqCOKZkz0C0EuP8n) | [إذاعة القاهرة \(الوش الثاني\)](https://open.spotify.com/album/6Qw0JZBn36Z9mICsS9MBAo) | 2:01 | 2026-07-09 |  |
 | [Habayeb Albi](https://open.spotify.com/track/1CXQ0YBCjBpNjjzPB7WCxn) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Habayeb Albi](https://open.spotify.com/album/7nC3FjyXyZtIglo9Zphvfv) | 2:58 | 2024-07-16 | 2024-09-06 |
 | [Habba Fo2](https://open.spotify.com/track/0vpfvsnG73kMqYJQLhECgc) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Habba Fo2](https://open.spotify.com/album/2qLsLY0ElXdXYY9iDiAjYw) | 2:59 | 2024-01-02 | 2024-02-08 |
 | [Habbeitak](https://open.spotify.com/track/5sWtbEcIpGB0FLzERXf113) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI), [OBADA Q](https://open.spotify.com/artist/12YFoLfEdYUglaGcUeU6ty) | [Habbeitak](https://open.spotify.com/album/78Q7pQRA2J1QEIg1NGYgWw) | 2:57 | 2024-02-13 | 2024-04-15 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Medium Build",
-  "num_followers": 90338,
+  "num_followers": 90353,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "My Regards",
-        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 191840,
-      "name": "My Regards",
-      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Dog Eared",
         "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 200626,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/59S8JfBTZo1jZhwCgwzEYz"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "My Regards",
+        "url": "https://open.spotify.com/album/5j242B2iACKvvgwUFs60t2"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 191840,
+      "name": "My Regards",
+      "url": "https://open.spotify.com/track/52CDVCBt7tQI29r9ovQOJt"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -515,22 +515,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Sunflowers and Leather",
-        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 210973,
-      "name": "Black Lung",
-      "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Real Thing",
         "url": "https://open.spotify.com/album/1yx1ve9BzAO7hLIzcStCJv"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 205146,
       "name": "Real Thing",
       "url": "https://open.spotify.com/track/7z5wTQlgqpCm3kvhn6s9Xh"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Sunflowers and Leather",
+        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 210973,
+      "name": "Black Lung",
+      "url": "https://open.spotify.com/track/3JxPW85spOn1SncxuLbpIY"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -603,6 +603,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Walking Through The Water",
+        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 301376,
+      "name": "Walking Through The Water",
+      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Burn Me",
         "url": "https://open.spotify.com/album/0100hgq4IwkxrCmldWPgYj"
       },
@@ -623,38 +639,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Walking Through The Water",
-        "url": "https://open.spotify.com/album/0ItIepNO0BfrtzARhUcqfB"
+        "name": "America's Greatest Burnout",
+        "url": "https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM"
       },
       "artists": [
         {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+          "name": "Anna Graves",
+          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
         }
       ],
-      "duration_ms": 301376,
-      "name": "Walking Through The Water",
-      "url": "https://open.spotify.com/track/4eZ5yY3JOU2yD2GA7u7afs"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Made You Look",
-        "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        },
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 225628,
-      "name": "Math of Us",
-      "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
+      "duration_ms": 170199,
+      "name": "Goldmine",
+      "url": "https://open.spotify.com/track/0g6AxPcs6h3aZp15n2Vxte"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -675,18 +671,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "America's Greatest Burnout",
-        "url": "https://open.spotify.com/album/6Dt8xZegPiDE6unSE0n7rM"
+        "name": "Made You Look",
+        "url": "https://open.spotify.com/album/7ccGOPW35JEq0BSLxKQ4Qg"
       },
       "artists": [
         {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        },
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
         }
       ],
-      "duration_ms": 170199,
-      "name": "Goldmine",
-      "url": "https://open.spotify.com/track/0g6AxPcs6h3aZp15n2Vxte"
+      "duration_ms": 225628,
+      "name": "Math of Us",
+      "url": "https://open.spotify.com/track/1YRDethDX6AXDmzfZEFd7J"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -819,6 +819,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
+        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
+      },
+      "artists": [
+        {
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+        }
+      ],
+      "duration_ms": 190944,
+      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
+      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "I Don't Know How But They Found Me...Again!",
         "url": "https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt"
       },
@@ -839,34 +855,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Palomino (From the Netflix Series \"Nobody Wants This\" Season 2)",
-        "url": "https://open.spotify.com/album/2EyPD0EkMu9yo0y5GHnJl7"
+        "name": "You You You / Audrey Hepburn",
+        "url": "https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu"
       },
       "artists": [
         {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 190944,
-      "name": "Palomino - From the Netflix Series \"Nobody Wants This\" Season 2",
-      "url": "https://open.spotify.com/track/6OsVtmvOG3m3SZuXZHGpvz"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "Back In My Body",
-        "url": "https://open.spotify.com/album/650dwl8YqfDFTFJwAhoCO3"
-      },
-      "artists": [
-        {
-          "name": "Patrick Droney",
-          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
-        }
-      ],
-      "duration_ms": 195265,
-      "name": "Back In My Body",
-      "url": "https://open.spotify.com/track/6wjyoBBpG0GWZAZk0rIqPo"
+      "duration_ms": 186549,
+      "name": "Audrey Hepburn",
+      "url": "https://open.spotify.com/track/7hoPbfGuOZe6FKBlwB2d21"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
+        "name": "Back In My Body",
+        "url": "https://open.spotify.com/album/650dwl8YqfDFTFJwAhoCO3"
+      },
+      "artists": [
+        {
+          "name": "Patrick Droney",
+          "url": "https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3"
+        }
+      ],
+      "duration_ms": 195265,
+      "name": "Back In My Body",
+      "url": "https://open.spotify.com/track/6wjyoBBpG0GWZAZk0rIqPo"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
         "name": "Anytime, Anyplace, Anyhow",
         "url": "https://open.spotify.com/album/7lKojfIpji0R4yxpxk6qbJ"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 227147,
       "name": "Anytime, Anyplace, Anyhow",
       "url": "https://open.spotify.com/track/4DhyEPT1syGLKMnKDo1vvh"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
-        "name": "You You You / Audrey Hepburn",
-        "url": "https://open.spotify.com/album/2IHW6rf6xGNhT1HuMEG5Pu"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 186549,
-      "name": "Audrey Hepburn",
-      "url": "https://open.spotify.com/track/7hoPbfGuOZe6FKBlwB2d21"
     },
     {
       "added_at": "2026-09-04 04:02:01",

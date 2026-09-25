@@ -1,6 +1,6 @@
 {
   "description": "Really lovely songs.",
-  "num_followers": 234085,
+  "num_followers": 234084,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "Spill",
-        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 195912,
-      "name": "Spill",
-      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Bleachers",
@@ -319,6 +303,22 @@
       "duration_ms": 228381,
       "name": "Tiny Moves",
       "url": "https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "Spill",
+        "url": "https://open.spotify.com/album/3NPY0pbI9pQtNOp9jzxJAa"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 195912,
+      "name": "Spill",
+      "url": "https://open.spotify.com/track/4vjuArCMCwFOLDVCn9TG5n"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -529,22 +529,6 @@
       "url": "https://open.spotify.com/track/1ulB5740qjdSila4Vjnb7Z"
     },
     {
-      "added_at": "2026-08-14 13:22:54",
-      "album": {
-        "name": "If I Could",
-        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 231716,
-      "name": "If I Could",
-      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
-    },
-    {
       "added_at": "2026-06-18 23:01:00",
       "album": {
         "name": "Moon Music",
@@ -559,6 +543,22 @@
       "duration_ms": 240508,
       "name": "JUPiTER",
       "url": "https://open.spotify.com/track/3EbRbM7qyJq9qjRqDIwBTO"
+    },
+    {
+      "added_at": "2026-08-14 13:22:54",
+      "album": {
+        "name": "If I Could",
+        "url": "https://open.spotify.com/album/10jnGJSwHlbX6wkUb4v0Bb"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 231716,
+      "name": "If I Could",
+      "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
     },
     {
       "added_at": "2026-08-14 13:22:54",
@@ -767,22 +767,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Songs For The Canyon",
-        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Bluebird Singing",
-      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "yeti",
         "url": "https://open.spotify.com/album/5gV0RiQSQfuac6mApqgBDy"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 252152,
       "name": "yeti",
       "url": "https://open.spotify.com/track/3J2YEcRHVwnvaGNfFuKA7T"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Songs For The Canyon",
+        "url": "https://open.spotify.com/album/1k7iymTuRK6I4tvn0SX38I"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Bluebird Singing",
+      "url": "https://open.spotify.com/track/7LlmSAqvcpjheDytACHfDu"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Energizer",
-        "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 151306,
-      "name": "Energizer",
-      "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Look Out!",
         "url": "https://open.spotify.com/album/0TnjBNwKKH0uihxRTgrktF"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 176506,
       "name": "Look Out!",
       "url": "https://open.spotify.com/track/4N1zjRwfeYAfKVIjjYbDRX"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Energizer",
+        "url": "https://open.spotify.com/album/5L0OP0vBGpyU6q6urm9aHs"
+      },
+      "artists": [
+        {
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
+        }
+      ],
+      "duration_ms": 151306,
+      "name": "Energizer",
+      "url": "https://open.spotify.com/track/3qAYNIIiXHoycbCWku8cIU"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Me and My Friends",
-        "url": "https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd"
+        "name": "How Beautiful Life Can Be",
+        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
       },
       "artists": [
         {
-          "name": "James Vincent McMorrow",
-          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Me and My Friends",
-      "url": "https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X"
+      "duration_ms": 150662,
+      "name": "How Beautiful Life Can Be - Single Version",
+      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "How Beautiful Life Can Be",
-        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
+        "name": "Me and My Friends",
+        "url": "https://open.spotify.com/album/31ZCBDVcq70qoL7C7CUiAd"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "James Vincent McMorrow",
+          "url": "https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u"
         }
       ],
-      "duration_ms": 150662,
-      "name": "How Beautiful Life Can Be - Single Version",
-      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
+      "duration_ms": 200000,
+      "name": "Me and My Friends",
+      "url": "https://open.spotify.com/track/7Bo8vjwc0qfdHeIixhHW6X"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1355,6 +1355,26 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "So Unimportant",
+        "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
+      },
+      "artists": [
+        {
+          "name": "Ethan Gruska",
+          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 263320,
+      "name": "So Unimportant",
+      "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Accidental Tattoo",
         "url": "https://open.spotify.com/album/3OwghTltlARrWaoSIhnQCM"
       },
@@ -1379,26 +1399,6 @@
       "duration_ms": 195862,
       "name": "Accidental Tattoo",
       "url": "https://open.spotify.com/track/0JxUqyj3Zum5eT9fY7MJjd"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "So Unimportant",
-        "url": "https://open.spotify.com/album/59yUecNF0BinJypi9HTQTq"
-      },
-      "artists": [
-        {
-          "name": "Ethan Gruska",
-          "url": "https://open.spotify.com/artist/1zkHConahaP6T8EBpg8BeE"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 263320,
-      "name": "So Unimportant",
-      "url": "https://open.spotify.com/track/6UMqwvwPmgr2oql5Bse9E4"
     },
     {
       "added_at": "2026-08-14 13:22:54",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "RAT RACE",
-        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
-      },
-      "artists": [
-        {
-          "name": "Norah Hendriks",
-          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
-        }
-      ],
-      "duration_ms": 218712,
-      "name": "RAT RACE",
-      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Lost In A Rush Of Emptiness",
         "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
       },
@@ -1535,18 +1519,18 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Grenadine",
-        "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
+        "name": "RAT RACE",
+        "url": "https://open.spotify.com/album/7JbNE6aX9qS1cAJ36L9Rjo"
       },
       "artists": [
         {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+          "name": "Norah Hendriks",
+          "url": "https://open.spotify.com/artist/7gaJhHLUBdH1EJNuRjEBXC"
         }
       ],
-      "duration_ms": 188777,
-      "name": "Grenadine",
-      "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
+      "duration_ms": 218712,
+      "name": "RAT RACE",
+      "url": "https://open.spotify.com/track/3EoM4EvINTwPHPu6D3e3b0"
     },
     {
       "added_at": "2026-06-18 23:01:00",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Grenadine",
+        "url": "https://open.spotify.com/album/3MBqDqbQylcQWNGVkFcQvU"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 188777,
+      "name": "Grenadine",
+      "url": "https://open.spotify.com/track/2mmRj1egR3rhLwfpUZazfv"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Tractor Beam",
         "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
       },
@@ -1579,22 +1579,6 @@
       "duration_ms": 214381,
       "name": "Tractor Beam",
       "url": "https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
-        "name": "Walking Like We Do",
-        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 209822,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
     },
     {
       "added_at": "2026-08-14 13:22:54",
@@ -1615,6 +1599,22 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
+        "name": "Walking Like We Do",
+        "url": "https://open.spotify.com/album/0Z9W4KdFjlAUNGjXx3CVZU"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 209822,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4t778t8afctJv2Wc3H85HU"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
         "name": "Wings",
         "url": "https://open.spotify.com/album/39Nt75yWLYPHOma4OdNwZr"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2026-06-18 23:01:00",
       "album": {
-        "name": "Citadel Band",
-        "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
-      },
-      "artists": [
-        {
-          "name": "Loney dear",
-          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
-        }
-      ],
-      "duration_ms": 238280,
-      "name": "Ignorant Boy, Beautiful Girl (Namanama)",
-      "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
-    },
-    {
-      "added_at": "2026-06-18 23:01:00",
-      "album": {
         "name": "Brian Cox",
         "url": "https://open.spotify.com/album/6pNS3kSG0HdxMpjOJ1aQho"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 176760,
       "name": "Brian Cox",
       "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
+    },
+    {
+      "added_at": "2026-06-18 23:01:00",
+      "album": {
+        "name": "Citadel Band",
+        "url": "https://open.spotify.com/album/7mMwcMgwE98WjsxiCcCiQH"
+      },
+      "artists": [
+        {
+          "name": "Loney dear",
+          "url": "https://open.spotify.com/artist/4Bb8rhvCjLOjNOl1DbFkph"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Ignorant Boy, Beautiful Girl (Namanama)",
+      "url": "https://open.spotify.com/track/7JsvW1GU2hbMnGETSyy7ig"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

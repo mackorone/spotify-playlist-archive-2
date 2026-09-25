@@ -4673,6 +4673,24 @@
     },
     {
       "album": {
+        "name": "The Meaning of Flowers",
+        "url": "https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234644,
+      "name": "The Meaning of Flowers",
+      "url": "https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM"
+    },
+    {
+      "album": {
         "name": "Angel Face (Club Deluxe)",
         "url": "https://open.spotify.com/album/3fD6ZQKymy2oP1t6c8NEOc"
       },

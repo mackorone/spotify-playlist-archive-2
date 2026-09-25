@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,797 songs - 10 day 19 hr 46 min
+4,801 songs - 10 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1011,6 +1011,7 @@
 | [Decisive](https://open.spotify.com/track/5dq5nUnV7vkd3dUYdOm9nQ) | [Paranoize](https://open.spotify.com/artist/2IsNoOamJMVdmEKK4dQKcS) | [Decisive](https://open.spotify.com/album/6dJcTXMtunwNwFpGlIwXk7) | 4:07 | 2025-07-03 |  |
 | [deep down](https://open.spotify.com/track/5I5vatsJd4PPZRNgEMyonX) | [APRIL](https://open.spotify.com/artist/23cdrivHH2nRJCNn0zuSSc) | [deep down](https://open.spotify.com/album/7sdPbYbpSjyz5vZGI2mIfe) | 1:13 | 2025-05-16 |  |
 | [Deep Down](https://open.spotify.com/track/1T38O6C6ZoZ6vjDSrDy6Eo) | [Riptide River](https://open.spotify.com/artist/34jMmxTuTBIR5DnbUE9AkX) | [Overdrive](https://open.spotify.com/album/2enRTMrOe25fNz0EtZ3rBp) | 3:25 | 2025-09-26 |  |
+| [Deep Sea](https://open.spotify.com/track/2kLo2GROhKLzxp46XADbkY) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6) | [Deep Sea](https://open.spotify.com/album/3TgtLhEMtf2D1JHQeZIgMQ) | 2:42 | 2026-09-24 |  |
 | [Deeper Love \- Remix Extended Mix](https://open.spotify.com/track/6W22t218rsOMTImDKaKUN1) | [Roni Sadgan](https://open.spotify.com/artist/6P2EMT02pMK8xCpPamli1p), [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2) | [Trance Party Electric 2026](https://open.spotify.com/album/0hwkXUMMBvv71AnV2YKKqU) | 6:14 | 2026-07-03 |  |
 | [Dekhte Dekhte](https://open.spotify.com/track/7fB2A7mklrSf7lGTOwmQTK) | [Digital Pandit](https://open.spotify.com/artist/2bvkbJhJKy40qcIipIbPjT) | [Dekhte Dekhte](https://open.spotify.com/album/4gsOeNkHUnvfzzxB1uBiPQ) | 2:57 | 2026-07-12 |  |
 | [Del amor](https://open.spotify.com/track/3sF7J0py0ME0auMHyW4kzi) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Implosión](https://open.spotify.com/album/3rRQZEQ63Ss2zuGnLRQJfV) | 1:54 | 2026-03-15 |  |
@@ -1999,6 +2000,7 @@
 | [I Wanna Dance](https://open.spotify.com/track/5UYU0ufM6XPmCnso9qXfRj) | [Lara Strieder](https://open.spotify.com/artist/4FNp6aWDqqigyul6I0Torj) | [My Feelings](https://open.spotify.com/album/4ZbIm5MNzLB3p61sZrR1Ku) | 3:43 | 2025-06-05 |  |
 | [I Wanna Know](https://open.spotify.com/track/0kyfqSQ5T3gp3WZbP9RVX2) | [Noiz Ritual](https://open.spotify.com/artist/2RQ8ipqWpztVcqcT5iz0e6) | [Embrace The Noiz](https://open.spotify.com/album/0pCuyOegRhg7KiPIZwwcbV) | 3:22 | 2025-05-01 |  |
 | [I Wanna Tell You](https://open.spotify.com/track/1LcmSL0XxrXWWWOds8Fi47) | [Jeye T](https://open.spotify.com/artist/1YbRJSGRT5fPJ2n28PNmnw) | [I Wanna Tell You](https://open.spotify.com/album/3TYOXrHJtLeD0C9ayvEC2x) | 3:24 | 2026-09-16 |  |
+| [I Want Everything](https://open.spotify.com/track/4877L7NeyxgN7arOLXt2vy) | [Everton Zi Project](https://open.spotify.com/artist/4SIu5pLTz7nqoMwP8cIL7Z) | [I Want Everything](https://open.spotify.com/album/5cGH3dYOAW0mQOD6hs2S3Y) | 4:33 | 2026-09-24 |  |
 | [I Want More](https://open.spotify.com/track/1O2D02GqrIsXsqHkQnbNyt) | [Cobblestone Collective](https://open.spotify.com/artist/1c30Ln8TEbfVbY2WZYKwp4) | [I Want More](https://open.spotify.com/album/3C5cHvsxldB1zotZwCRrWx) | 2:04 | 2026-09-02 |  |
 | [I WANT ONLY YOU](https://open.spotify.com/track/4eDdtYN1bZxtZmPpKNZejd) | [AN.GA](https://open.spotify.com/artist/48MGjcil56lYnTupg2P3Vm) | [I WANT ONLY YOU](https://open.spotify.com/album/5KSBD5XNCMaGywx3k10H1l) | 3:45 | 2025-06-15 |  |
 | [I Will Take Care Of You](https://open.spotify.com/track/7KfuESxjtKlThWgj4Hh6hA) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [Doll Revolution](https://open.spotify.com/album/3tiizVJLaNkbeQV4BJFiGY) | 3:56 | 2026-03-15 |  |
@@ -3222,6 +3224,7 @@
 | [Porvenir](https://open.spotify.com/track/0DpOxxjksdazC0fGkDmRHt) | [Tolever](https://open.spotify.com/artist/18KqOtLdA3nHDFxs0vs44g) | [Porvenir](https://open.spotify.com/album/6GYSTBW1XF1A0RZGHrRU9E) | 2:25 | 2025-11-24 |  |
 | [POS](https://open.spotify.com/track/2dGj0K0iIrgb3ie1QSLtSL) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [POS](https://open.spotify.com/album/0zS7Tn6JbtibKKAHabrjA5) | 2:13 | 2025-04-09 |  |
 | [Pose For The Pic](https://open.spotify.com/track/7mpY8KmX0mUCJV49dstMA3) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Pose For The Pic](https://open.spotify.com/album/45rfnyjY7gWPETzgnU3j4a) | 2:44 | 2025-07-28 |  |
+| [Possession](https://open.spotify.com/track/0oXTBGB2XH1nm7FBVj0KPf) | [Wretched Things](https://open.spotify.com/artist/6bq9LPNfltcBgpvfdtTWwk) | [Possession](https://open.spotify.com/album/6de3hSo0PwWOgc3FJOuapO) | 3:22 | 2026-09-24 |  |
 | [Post Blue](https://open.spotify.com/track/6DqR8FPtd3uPT9GLbly6Ok) | [Floor Zero](https://open.spotify.com/artist/28ChXBrWARNsOLTJNKdliE) | [Post Blue](https://open.spotify.com/album/1j2o4B7NPh4AwQmbqAt3oK) | 4:14 | 2025-06-15 |  |
 | [Postal Secret](https://open.spotify.com/track/4Pi6nD8JQiqvHVFZXULyjs) | [Barmy Rote](https://open.spotify.com/artist/0gsHnK7UzxQeEF0egFiX9W) | [Injustice For All](https://open.spotify.com/album/6X7jSbLl6gIQHXqn0772yt) | 4:34 | 2026-07-06 |  |
 | [Poveri Noi](https://open.spotify.com/track/5adhTQAbIkuN2bHcvYqDLb) | [VARTA74](https://open.spotify.com/artist/1WLPGXeBf0LMnggYMRVaJQ) | [Veleno](https://open.spotify.com/album/0O841AhpGlbaNL3zmfwCvZ) | 3:51 | 2025-12-11 |  |
@@ -4792,6 +4795,7 @@
 | [דיבור חדש](https://open.spotify.com/track/10b8wbWrQx7T5BgQb4AEHZ) | [ליעוז בלסיאנו](https://open.spotify.com/artist/5gdRakXIjx0ha2hkoCap6X) | [דיבור חדש](https://open.spotify.com/album/4ZpMwe0bHnFwDFHG1NnBtW) | 3:38 | 2025-03-30 |  |
 | [さよならの未来](https://open.spotify.com/track/4PoXSOjk9cljdE5IQQOxxi) | [Ks/Marys](https://open.spotify.com/artist/5sAakdhIYQPe1oUd4Yk70z) | [さよならの未来](https://open.spotify.com/album/1MKezfwB56g6N6FNfr9Quu) | 4:22 | 2026-04-22 |  |
 | [オーディション \(Ōdishon\) \- 0010X0010 Remix](https://open.spotify.com/track/6bHkkIpashgTbNLrpOJuYW) | [T3TSUO 303](https://open.spotify.com/artist/3tDjB3EiKBVJstrBRbPOcM), [0010X0010](https://open.spotify.com/artist/0pTo5cRm485csNS6ouaTqh) | [オーディション \(Ōdishon\)](https://open.spotify.com/album/4SOcUEcGqpEeoyWPA5z9GH) | 6:04 | 2025-12-04 |  |
+| [ニューゲーム](https://open.spotify.com/track/7Hm3MMrFNVX0poMgXtlk4m) | [FUMITO](https://open.spotify.com/artist/0jHHRTca6HOkksVRPrjKSK) | [ニューゲーム](https://open.spotify.com/album/6ELX92IjpWHbwsfYt0KLo0) | 3:43 | 2026-09-24 |  |
 | [塩顔男子](https://open.spotify.com/track/0GSbY6mlGyfMNinV8YOlI1) | [yoursヅ](https://open.spotify.com/artist/6d43Wnj1AyDAGjumbWqivc) | [塩顔男子](https://open.spotify.com/album/5VPhR0H5oRNQue1bggcMlH) | 3:07 | 2025-08-26 |  |
 | [庭師KING](https://open.spotify.com/track/1GOFmfWEXFnOG52PhnIuJG) | [Susumu Hirasawa](https://open.spotify.com/artist/6kaueP97pX7WZoOwF8XsI2) | [救済の技法](https://open.spotify.com/album/6uoOO45XoUdGYJ3nRddfBQ) | 4:40 | 2025-12-04 |  |
 | [星光下的梦境](https://open.spotify.com/track/6PeKMbkPBFp04CacxqKeHl) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Chinese pop](https://open.spotify.com/album/4MkiXf4mBvJbxE3zZtwrqn) | 4:03 | 2025-09-15 |  |

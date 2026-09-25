@@ -4,7 +4,7 @@
 
 > Allerbeste songs van de 70's! Cover: The Cats
 
-81 songs - 5 hr 8 min
+82 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,12 +57,13 @@
 | [Paloma Blanca](https://open.spotify.com/track/37dPgiT3cY5XFbG3Ldq7zv) | [George Baker Selection](https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn) | [Single Hit Collection](https://open.spotify.com/album/1WHUdNqPAXVp3jhT9CiSdg) | 3:27 | 2024-08-28 |  |
 | [Piano Man](https://open.spotify.com/track/78WVLOP9pN0G3gRLFy1rAa) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [Piano Man](https://open.spotify.com/album/77ErLrVvYETIlQJHAwhfIH) | 5:39 | 2024-08-28 |  |
 | [Radar Love \- Original Single Edit 1973](https://open.spotify.com/track/1Wmuc11xACBpOpni7ECC45) | [Golden Earring](https://open.spotify.com/artist/1iTlOqIrZy8DlvCPJY2sjS) | [Radar Love](https://open.spotify.com/album/4iYSIgIX4pPrVMQzyeJ7Fb) | 3:43 | 2024-08-28 |  |
-| [Radio](https://open.spotify.com/track/160qoYXSJJrPkZshBN62bD) | [Dolly Dots](https://open.spotify.com/artist/7jQDCbxYM9t8bLCd2n8ONI) | [Dolly Dots \- Love Me Just A Little Bit More / Greatest Hits \(IA EP Bundle\)](https://open.spotify.com/album/2dq9BhPNbsIayQM7Rv3IcX) | 3:08 | 2024-08-28 |  |
+| [Radio](https://open.spotify.com/track/160qoYXSJJrPkZshBN62bD) | [Dolly Dots](https://open.spotify.com/artist/7jQDCbxYM9t8bLCd2n8ONI) | [Dolly Dots \- Love Me Just A Little Bit More / Greatest Hits \(IA EP Bundle\)](https://open.spotify.com/album/2dq9BhPNbsIayQM7Rv3IcX) | 3:08 | 2024-08-28 | 2026-09-25 |
 | [Rebel Rebel \- 2016 Remaster](https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Diamond Dogs \(2016 Remaster\)](https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3) | 4:34 | 2024-08-28 |  |
 | [Rich Girl](https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Bigger Than Both Of Us](https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic) | 2:22 | 2024-08-28 |  |
 | [Rock the Boat](https://open.spotify.com/track/0w4s0d8Qtu0K8dyMcB2tw1) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Rockin' Soul](https://open.spotify.com/album/6HIHjj9rn4F3oZzqeD3YI6) | 3:08 | 2024-08-28 |  |
 | [Sailing](https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Atlantic Crossing](https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN) | 4:37 | 2024-08-28 |  |
 | [Sara Smile](https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Daryl Hall & John Oates \(The Silver Album\)](https://open.spotify.com/album/0QVsWpx62HGRHx1Big7BZA) | 3:05 | 2024-08-28 |  |
+| [Save The Last Dance For Me](https://open.spotify.com/track/1IAkeMqlT9t9jGGScaGD6O) | [The Cats](https://open.spotify.com/artist/4mplweFSgMgpH03ruEMEMv) | [Favorieten Expres](https://open.spotify.com/album/6vjJpzdtItQIK9FxJNnXs9) | 3:04 | 2024-08-28 |  |
 | [Shining Star](https://open.spotify.com/track/0RgcOUQg4qYAEt9RIdf3oB) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [That's The Way Of The World](https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL) | 2:50 | 2024-08-28 |  |
 | [Sing For The Day](https://open.spotify.com/track/0SG5YrgInjzKOBhKFpGygu) | [George Baker](https://open.spotify.com/artist/1nWVAz0ZMSKzLVB5oF23Vk) | [Sing For The Day \(Remastered\)](https://open.spotify.com/album/5zAQQh5Pi5jBvDOOGJHXJP) | 4:23 | 2024-08-28 |  |
 | [Somebody To Love \- Remastered 2011](https://open.spotify.com/track/4rDbp1vnvEhieiccprPMdI) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [A Day At The Races \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc) | 4:56 | 2024-08-28 |  |

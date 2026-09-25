@@ -448,7 +448,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180214,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/68mJvII29H8wlKpyGyeP7x"
@@ -1046,6 +1046,24 @@
       "duration_ms": 256842,
       "name": "De Lao A Lao: Turreo Sessions #5 - Remix",
       "url": "https://open.spotify.com/track/2fVn0b7nps990m37u0RUPd"
+    },
+    {
+      "album": {
+        "name": "De nadie",
+        "url": "https://open.spotify.com/album/06WrC2FMxFclTJrqydWsq1"
+      },
+      "artists": [
+        {
+          "name": "Eloisa",
+          "url": "https://open.spotify.com/artist/1GbHLsyBjx0L5uJoPRoelG"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "De nadie",
+      "url": "https://open.spotify.com/track/02X2uqNP8MD6zylZVL6olG"
     },
     {
       "album": {
@@ -2534,7 +2552,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 185194,
       "name": "La Monda",
       "url": "https://open.spotify.com/track/6vQHz1y2MYkdPA0G5aQEcX"
@@ -2781,6 +2799,28 @@
     },
     {
       "album": {
+        "name": "G\u00c9MINIS",
+        "url": "https://open.spotify.com/album/09d9b1Xlip6PKu7z5xGPkK"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "DANDARA",
+          "url": "https://open.spotify.com/artist/4K7qwv5pUgPFaORjdUQFb0"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253924,
+      "name": "L\u00cdMITE",
+      "url": "https://open.spotify.com/track/0LdT80uXLZt6zUrw5wA30H"
+    },
+    {
+      "album": {
         "name": "Madura",
         "url": "https://open.spotify.com/album/4joZeRAHwOmcWtVc8s7z5t"
       },
@@ -2884,6 +2924,24 @@
       "duration_ms": 102024,
       "name": "Marfil",
       "url": "https://open.spotify.com/track/2C7a49yOHA2eUHndOZ8YjJ"
+    },
+    {
+      "album": {
+        "name": "Martes 4:13am :\\",
+        "url": "https://open.spotify.com/album/2GJPqgmyTVDYi1JWbOT0nX"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Martes 4:13am :\\",
+      "url": "https://open.spotify.com/track/6LmviF1jqJRe2J7SdbnQPq"
     },
     {
       "album": {
@@ -2998,7 +3056,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 127968,
       "name": "Me llamas igual",
       "url": "https://open.spotify.com/track/3WPggo74kGnkW3deXSLlEN"
@@ -3262,6 +3320,32 @@
       "duration_ms": 166120,
       "name": "M\u00e1s Na",
       "url": "https://open.spotify.com/track/2I8N1Go4hQennI48i9QaWW"
+    },
+    {
+      "album": {
+        "name": "m\u00e1s y m\u00e1s",
+        "url": "https://open.spotify.com/album/3y5A3tPghIaHdgHWe2DmYW"
+      },
+      "artists": [
+        {
+          "name": "nick near",
+          "url": "https://open.spotify.com/artist/718QnoFcMo3XaWS7g1Rcyx"
+        },
+        {
+          "name": "K- Martt",
+          "url": "https://open.spotify.com/artist/1QHGU8dihc5FtcOiEXzRYj"
+        },
+        {
+          "name": "Asap Kid",
+          "url": "https://open.spotify.com/artist/39uf7FpIIE79K2uc2xtNQI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184378,
+      "name": "m\u00e1s y m\u00e1s",
+      "url": "https://open.spotify.com/track/3IN8DkTKxGPd7YMNqlrtty"
     },
     {
       "album": {
@@ -4426,7 +4510,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 256413,
       "name": "Satisfacci\u00f3n",
       "url": "https://open.spotify.com/track/21WvAGxPUNJARcZoSqswd7"
@@ -4882,7 +4966,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 338437,
       "name": "Tamo Chelo - Remix",
       "url": "https://open.spotify.com/track/0utOOrcBB24KZil9cgAwXB"
@@ -4926,7 +5010,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 158824,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/7AyXdBQAgRLJBK72gqq0Hz"
@@ -4978,6 +5062,32 @@
       "duration_ms": 221290,
       "name": "Te Veo",
       "url": "https://open.spotify.com/track/1gaOPLc4KRQt3LU83e4jzj"
+    },
+    {
+      "album": {
+        "name": "Tiempo 1151",
+        "url": "https://open.spotify.com/album/2egPjc6zygqYwLwWvyPNE7"
+      },
+      "artists": [
+        {
+          "name": "Ema",
+          "url": "https://open.spotify.com/artist/2VMrsKQA1BucJPWoyHf7UO"
+        },
+        {
+          "name": "Oney1",
+          "url": "https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt"
+        },
+        {
+          "name": "Evan Bitz",
+          "url": "https://open.spotify.com/artist/7H76VDfRSXbQrwlD3VCqKt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193124,
+      "name": "Tiempo 1151",
+      "url": "https://open.spotify.com/track/3eUk6QMfvGhJ3qzKculCHK"
     },
     {
       "album": {

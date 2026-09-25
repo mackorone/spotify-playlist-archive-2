@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the sounds of South African Jazz. Cover: Don Laka",
+  "description": "Journey through the sounds of South African Jazz. Cover: vuyo viwe",
   "name": "Jazz NEXT",
   "tracks": [
     {
@@ -1862,7 +1862,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 334300,
       "name": "Gadija (Pt. 1)",
       "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
@@ -6638,6 +6638,24 @@
       "duration_ms": 442264,
       "name": "TransAtlantic",
       "url": "https://open.spotify.com/track/4MYix6DTtXSfGXiU3zZl2s"
+    },
+    {
+      "album": {
+        "name": "there are mirrors everywhere",
+        "url": "https://open.spotify.com/album/1kESAdt1UaileXb6PFGsEY"
+      },
+      "artists": [
+        {
+          "name": "vuyo viwe",
+          "url": "https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515500,
+      "name": "tropic of capricorn",
+      "url": "https://open.spotify.com/track/29dc2WJ4t01L98MJYFGWuZ"
     },
     {
       "album": {

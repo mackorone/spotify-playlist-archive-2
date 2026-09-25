@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 
 > 日本のシンガーソングライターを特集。Featuring Japanese Singer\-Songwriters\. Cover: Jeremy Quartus
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,698 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,708 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 31 | [水色教室](https://open.spotify.com/track/59WyHDhLUoAc2Epa75Y6lU) | [mekakushe](https://open.spotify.com/artist/0CWyD7hgBLQ7dIUGEDkAWz) | [水色教室](https://open.spotify.com/album/3aE2TR3MLmMQeXROa2HOJB) | 3:18 |
 | 32 | [I\-BULL \- iburu](https://open.spotify.com/track/6EhMAfr1NhCAURSnzrtkbL) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [I\-BULL \- iburu \- BLEACH: Thousand\-Year Blood War \- The Calamity](https://open.spotify.com/album/5SxwYJiJUV8p0EinXqbBjM) | 4:00 |
 | 33 | [アスタラビスタ](https://open.spotify.com/track/5Fzow9h8HunVlXT8HiOVCB) | [岩田 栄秀](https://open.spotify.com/artist/0qucHdXyMPz96T2kVL5Q8l) | [アスタラビスタ](https://open.spotify.com/album/4bEzfB4XTPNTsk3VZ04VLL) | 4:24 |
-| 34 | [催し](https://open.spotify.com/track/5rUVuKxVps32tLiIy52JRn) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [催し](https://open.spotify.com/album/0IBbhw8p807tbWtSNHWopH) | 3:04 |
+| 34 | [Fiction](https://open.spotify.com/track/6igN41vikzKAZJHcveb1yX) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Fiction](https://open.spotify.com/album/4FMGDzFSshY6ROMenOhwRe) | 3:22 |
 | 35 | [Never Fade](https://open.spotify.com/track/5xvFnMl1fVj3SPeKnYVbY3) | [渋谷すばる](https://open.spotify.com/artist/7KVGeQvCQQLOKxSaYi7xva) | [Never Fade](https://open.spotify.com/album/1eXFvv9RkpE3AkpaNIsLYk) | 4:18 |
-| 36 | [Fiction](https://open.spotify.com/track/6igN41vikzKAZJHcveb1yX) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Fiction](https://open.spotify.com/album/4FMGDzFSshY6ROMenOhwRe) | 3:22 |
+| 36 | [催し](https://open.spotify.com/track/5rUVuKxVps32tLiIy52JRn) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [催し](https://open.spotify.com/album/0IBbhw8p807tbWtSNHWopH) | 3:04 |
 | 37 | [ライアーコンプレッション](https://open.spotify.com/track/1E2adsDOdhoHu3vtJIrLPU) | [小玉ひかり](https://open.spotify.com/artist/6jRbqM1pnTraoN4Z122jza) | [ライアーコンプレッション](https://open.spotify.com/album/1wglr9f2tsEezGOlH1HPcj) | 3:18 |
 | 38 | [名残花](https://open.spotify.com/track/6lErKN4EysaPnOHi2tIEz3) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [名残花](https://open.spotify.com/album/0PjZtQv4wuulggoIDxPwQt) | 3:14 |
 | 39 | [パッパパラダイス](https://open.spotify.com/track/5uxuw38KCxQg5OmJvoVImg) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [パッパパラダイス](https://open.spotify.com/album/17T7zbi0mnfD5MPaz67nvQ) | 3:50 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 44 | [東京](https://open.spotify.com/track/6Tn7NuAV0n4oFoyyoHv6EG) | [ふみの](https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx) | [東京](https://open.spotify.com/album/22uUjNDqFYV6lcBH5JPyE0) | 4:36 |
 | 45 | [邂逅](https://open.spotify.com/track/3QjPbxETp7rxj3pXqnweQp) | [Masaharu Fukuyama](https://open.spotify.com/artist/5FGlhIQqewJRV8fx24toG0) | [邂逅](https://open.spotify.com/album/2UrsJLgByqUlC5AYKzgVe6) | 4:37 |
 | 46 | [零\-zero\-](https://open.spotify.com/track/0pLGNoLZ1q2r6Qt8ZYAS8u) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [零\-zero\-](https://open.spotify.com/album/0M7H0tlUKc9PSljiRzx9mi) | 3:58 |
-| 47 | [トンチンカン](https://open.spotify.com/track/5Qtm8HQJjMvVMYpZtvuo94) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [トンチンカン](https://open.spotify.com/album/1sVNnZh50bIY2KXPpQRzxp) | 3:30 |
-| 48 | [Sunny](https://open.spotify.com/track/6nmRFTaSwwoZ2e2Q45Pa9l) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Sunny](https://open.spotify.com/album/6dKA5LfNGimTv9IAyHhVPp) | 3:34 |
+| 47 | [Sunny](https://open.spotify.com/track/6nmRFTaSwwoZ2e2Q45Pa9l) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Sunny](https://open.spotify.com/album/6dKA5LfNGimTv9IAyHhVPp) | 3:34 |
+| 48 | [トンチンカン](https://open.spotify.com/track/5Qtm8HQJjMvVMYpZtvuo94) | [AKASAKI](https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw) | [トンチンカン](https://open.spotify.com/album/1sVNnZh50bIY2KXPpQRzxp) | 3:30 |
 | 49 | [風見鶏](https://open.spotify.com/track/5FwUazYSMotO95IPzjgG1q) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [風見鶏](https://open.spotify.com/album/0etaPjyHr3E3QDXdXftTdX) | 3:35 |
 | 50 | [0.2mm](https://open.spotify.com/track/2TIYGZ9G65jf1FcwF9iknF) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [OITOMA](https://open.spotify.com/album/3t6vgq00zaSOviMFDdKVAx) | 4:38 |
 | 51 | [SOS](https://open.spotify.com/track/7bVHnV7at3Bj8xdeSu6enh) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [SOS](https://open.spotify.com/album/6wNrAQ4w4SnU3fLnZpjQRp) | 3:00 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYhe5ISqq2D1.md) - [plain]
 | 70 | [残酷になりますように](https://open.spotify.com/track/7wOydiUwoKbAybdgLyjJlw) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [翠色に贈る](https://open.spotify.com/album/0nin4jnECyXBVEYztBA7S3) | 3:28 |
 | 71 | [LとR](https://open.spotify.com/track/6Ln2ObReA3U9sKd3ccikz7) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [LとR](https://open.spotify.com/album/2mvm51e648ncvVB8HVfh3q) | 3:36 |
 | 72 | [Clover](https://open.spotify.com/track/3vT5XVoVCjF6EujVPobNs3) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [Clover](https://open.spotify.com/album/5eMSxw5F43b9x6J9NCzoc2) | 2:56 |
-| 73 | [未練](https://open.spotify.com/track/1HVlyt8IlcIywNj3XdPjbB) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [未練](https://open.spotify.com/album/0Vyg3XcMMLX4hMwt623pnq) | 4:28 |
-| 74 | [マイオーダー](https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [マイオーダー](https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2) | 3:37 |
+| 73 | [マイオーダー](https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [マイオーダー](https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2) | 3:37 |
+| 74 | [未練](https://open.spotify.com/track/1HVlyt8IlcIywNj3XdPjbB) | [Lavt](https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn) | [未練](https://open.spotify.com/album/0Vyg3XcMMLX4hMwt623pnq) | 4:28 |
 | 75 | [AKANE On My Mind～饅頭こわい](https://open.spotify.com/track/5um4gHKgOovWuzsQJsErXn) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [AKANE On My Mind～饅頭こわい](https://open.spotify.com/album/2LXc1xtHy5x6eE3vXCou9B) | 4:18 |
 | 76 | [愛々](https://open.spotify.com/track/4BwfZRePzh5z82IpWS2TTz) | [Naotaro Moriyama](https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued) | [愛々](https://open.spotify.com/album/2yUJjOszCwSb7SeanQ9U9x) | 4:13 |
 | 77 | [鳥](https://open.spotify.com/track/5rNM0UFvVV5O8sfEPxTb6R) | [Yu Takahashi](https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t) | [鳥](https://open.spotify.com/album/1MPfuBv4jzqkpsRQzojdH3) | 4:34 |

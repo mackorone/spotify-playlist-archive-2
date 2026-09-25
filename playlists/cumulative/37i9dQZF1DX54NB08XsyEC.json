@@ -5262,7 +5262,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 158520,
       "name": "i think i'm addicted",
       "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
@@ -6938,6 +6938,24 @@
       "duration_ms": 225607,
       "name": "Me rendi ao love song",
       "url": "https://open.spotify.com/track/7CRsO8aLopgWGHjEygr6dF"
+    },
+    {
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/1aKNACxJIJD8o8j84vdqpm"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190400,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/6cIa8qVgqDksyJxUwNT56T"
     },
     {
       "album": {

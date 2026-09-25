@@ -1,12 +1,12 @@
 {
   "description": "This is Codiciado. The essential tracks, all in one playlist.",
-  "num_followers": 46615,
+  "num_followers": 46644,
   "original_name": "This Is Codiciado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABaVtT+w+2D9iimaud2T5XW",
+  "snapshot_id": "arMWgAAAAADy3aCjW/FXiXZ/Dt+Xl/PE",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni\u00f1o De Oro",
-        "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 177704,
-      "name": "Relojito Adiamantado",
-      "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bandido (En Vivo)",
         "url": "https://open.spotify.com/album/05WrjfX5fyvh4OSDKUwrwZ"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 214826,
       "name": "Bandido - En Vivo",
       "url": "https://open.spotify.com/track/1gKuxAJX4sKow9NOABCLSK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni\u00f1o De Oro",
+        "url": "https://open.spotify.com/album/2LtooHAvxsaUywYzKxfjhZ"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 177704,
+      "name": "Relojito Adiamantado",
+      "url": "https://open.spotify.com/track/0ECe0wvJwuLcfopJLBaEb1"
     },
     {
       "added_at": null,
@@ -915,22 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NLIEC 2 (LIVE SESSION)",
-        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 198325,
-      "name": "Parque De Diversiones",
-      "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golpes De La Vida",
         "url": "https://open.spotify.com/album/27ODCRlzVevImnQl0KcsXY"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 245076,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/5rHHjCMAWQbTsM9T4b98I0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NLIEC 2 (LIVE SESSION)",
+        "url": "https://open.spotify.com/album/0LJGJbIIEjfbQE1ZpwXGle"
+      },
+      "artists": [
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 198325,
+      "name": "Parque De Diversiones",
+      "url": "https://open.spotify.com/track/791oMvyY57IAKN31XYJ2PE"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Mrozu",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Roxie",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -38,7 +38,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169848,
       "name": "1 na 1 000 000",
       "url": "https://open.spotify.com/track/2bvzjwm8cPtRUTBRT2OJxo"
@@ -2069,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Ca\u0142y blok",
+        "url": "https://open.spotify.com/album/3YZw7AEDqFtUDNp2b3AMg7"
+      },
+      "artists": [
+        {
+          "name": "MECNER",
+          "url": "https://open.spotify.com/artist/2JwBk7ukopCrUjaw2mHZQf"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160298,
+      "name": "Ca\u0142y blok",
+      "url": "https://open.spotify.com/track/2IWkZjuxbqsp6JsecyES42"
+    },
+    {
+      "album": {
         "name": "Ca\u0142y czas",
         "url": "https://open.spotify.com/album/76PJvmUn6i4tMeBUqFBHJ8"
       },
@@ -3774,7 +3792,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 219428,
       "name": "DOBRANOC",
       "url": "https://open.spotify.com/track/7rJAGG5HuxCjX81aU06Vzv"
@@ -3954,6 +3972,24 @@
       "duration_ms": 194952,
       "name": "Dom Nad Wod\u0105",
       "url": "https://open.spotify.com/track/4yYEMvHEvmT2V7BQNReuIv"
+    },
+    {
+      "album": {
+        "name": "DON JULIO",
+        "url": "https://open.spotify.com/album/6xCBm3N0O7SPkHh1gTJqgR"
+      },
+      "artists": [
+        {
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "DON JULIO",
+      "url": "https://open.spotify.com/track/5540G3oL3tJVuL6zF1trC6"
     },
     {
       "album": {
@@ -5398,7 +5434,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160846,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
@@ -5696,7 +5732,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 172444,
       "name": "Hiacynt",
       "url": "https://open.spotify.com/track/6ecAxq8yHogZMxgV2jdMpw"
@@ -6445,6 +6481,24 @@
     },
     {
       "album": {
+        "name": "Jednakowi",
+        "url": "https://open.spotify.com/album/77qp58seJ1NA1EpHua2Z0f"
+      },
+      "artists": [
+        {
+          "name": "Krzysztof Zalewski",
+          "url": "https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196705,
+      "name": "Jednakowi",
+      "url": "https://open.spotify.com/track/4ZJzEXIz4tQ99QfreV3w5W"
+    },
+    {
+      "album": {
         "name": "Jedziemy na domki",
         "url": "https://open.spotify.com/album/2dvHmFzqCfd8HQ9zyVgrv1"
       },
@@ -6520,6 +6574,24 @@
       "duration_ms": 200500,
       "name": "Jesieni\u0105 (M. Konopnicka)",
       "url": "https://open.spotify.com/track/3DWB0qQ01oq837yZSTkxUt"
+    },
+    {
+      "album": {
+        "name": "Jesie\u0144 trwa (bez ko\u0144ca)",
+        "url": "https://open.spotify.com/album/3coqZgWSlzSCl1p7BVLmJu"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144963,
+      "name": "Jesie\u0144 trwa (bez ko\u0144ca)",
+      "url": "https://open.spotify.com/track/50GX2voMa5qtdAi1DO3D8h"
     },
     {
       "album": {
@@ -6715,6 +6787,24 @@
     },
     {
       "album": {
+        "name": "Kamienie",
+        "url": "https://open.spotify.com/album/7nNcz54gtf3haO9340N90P"
+      },
+      "artists": [
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163076,
+      "name": "Kamienie",
+      "url": "https://open.spotify.com/track/0ZISqipHsYJOH6JCNkHFxE"
+    },
+    {
+      "album": {
         "name": "2039: Z\u0141OTE PIASKI",
         "url": "https://open.spotify.com/album/0kOoe3zE19AKMyYcCEFubt"
       },
@@ -6800,7 +6890,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 143181,
       "name": "KA\u017bDY TW\u00d3J RUCH",
       "url": "https://open.spotify.com/track/4s4EskwvRbYDB1mdPuFovq"
@@ -7406,7 +7496,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 184347,
       "name": "KROPLE",
       "url": "https://open.spotify.com/track/5YiypYjnPPY1A3lViVxKDx"
@@ -7468,6 +7558,24 @@
       "duration_ms": 177013,
       "name": "Kr\u00f3lowa",
       "url": "https://open.spotify.com/track/4ZFBUfBJcY2i3Aeknc5cwK"
+    },
+    {
+      "album": {
+        "name": "Kr\u0119ci si\u0119 ziemia",
+        "url": "https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152213,
+      "name": "Kr\u0119ci si\u0119 ziemia",
+      "url": "https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g"
     },
     {
       "album": {
@@ -8128,7 +8236,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 137777,
       "name": "Letni wiatr",
       "url": "https://open.spotify.com/track/1MvtZohHGKsETBnGzJtAjY"
@@ -8258,7 +8366,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169008,
       "name": "LOT",
       "url": "https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9"
@@ -9615,6 +9723,28 @@
     },
     {
       "album": {
+        "name": "mo\u017cemorze",
+        "url": "https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159529,
+      "name": "mo\u017cemorze",
+      "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
+    },
+    {
+      "album": {
         "name": "Murem",
         "url": "https://open.spotify.com/album/2Nz7dthHh8dlDbY5wARzkL"
       },
@@ -10624,7 +10754,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 181640,
       "name": "NIC NA P\u00d3\u0141",
       "url": "https://open.spotify.com/track/26xxuDJUOIpOSqODQDhf8b"
@@ -11924,6 +12054,24 @@
       "duration_ms": 173544,
       "name": "obud\u017a mnie",
       "url": "https://open.spotify.com/track/6FRFJi35UTtGEYvF71Xl0J"
+    },
+    {
+      "album": {
+        "name": "ob\u0142oki",
+        "url": "https://open.spotify.com/album/2m4fIQU7WLfjijZpViJLhN"
+      },
+      "artists": [
+        {
+          "name": "Jasiek Piwowarczyk",
+          "url": "https://open.spotify.com/artist/705MUvkld29STeOVijPoTe"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169891,
+      "name": "ob\u0142oki",
+      "url": "https://open.spotify.com/track/6D7uM8zuAYJ82Fwatw9rWA"
     },
     {
       "album": {
@@ -16022,7 +16170,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 151034,
       "name": "Sztos",
       "url": "https://open.spotify.com/track/5sjeU0jbxxOVcPItPtzwMr"
@@ -16160,7 +16308,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 145589,
       "name": "S\u0142o\u0144ca",
       "url": "https://open.spotify.com/track/2ftSQAOTflSTjSYs3GUpw0"
@@ -16995,6 +17143,24 @@
     },
     {
       "album": {
+        "name": "To nie koniec",
+        "url": "https://open.spotify.com/album/6IZLvM2ka8uyD2IeZTmytD"
+      },
+      "artists": [
+        {
+          "name": "Marcin Maciejczak",
+          "url": "https://open.spotify.com/artist/36rjKqx3uW0369RwfIbGj2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181547,
+      "name": "To nie koniec",
+      "url": "https://open.spotify.com/track/6ZDloO00D9Ir8p8nU90y8Y"
+    },
+    {
+      "album": {
         "name": "To nie o mnie + Zimne ognie",
         "url": "https://open.spotify.com/album/6vcWczzZqd4Xz9SkRRhSV6"
       },
@@ -17090,6 +17256,24 @@
       "duration_ms": 234666,
       "name": "To tylko wiosna",
       "url": "https://open.spotify.com/track/7lK3S48dLraP8kZ18XPTSO"
+    },
+    {
+      "album": {
+        "name": "To zabola\u0142o",
+        "url": "https://open.spotify.com/album/0q568p4Sn8OPCA1J9Y8vnn"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "To zabola\u0142o",
+      "url": "https://open.spotify.com/track/3rJJtexpt4wYgbBd92jpgE"
     },
     {
       "album": {
@@ -20176,6 +20360,24 @@
       "duration_ms": 136097,
       "name": "Zosta\u0144 Ze Mn\u0105",
       "url": "https://open.spotify.com/track/6q9ocwyJ28tM0xkJusbzs8"
+    },
+    {
+      "album": {
+        "name": "ZR\u00d3B TO DLA MNIE",
+        "url": "https://open.spotify.com/album/73T0qeSoVVXxYdJBpCzGWE"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185909,
+      "name": "ZR\u00d3B TO DLA MNIE",
+      "url": "https://open.spotify.com/track/4K88kcWQbXeUBrG7GRh5dc"
     },
     {
       "album": {

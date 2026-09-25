@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/123cOpfFuSZh45wQ4Tdjku.md) - [plain]
 
 > mostly furry
 
-[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,287 likes - 529 songs - 1 day 1 hr 52 min
+[Karlito](https://open.spotify.com/user/31pthgv6rb2dvvjpngxwmd2ztjx4) - 1,286 likes - 529 songs - 1 day 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

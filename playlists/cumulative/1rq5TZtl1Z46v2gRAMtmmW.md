@@ -4,7 +4,7 @@
 
 > 
 
-589 songs - 1 day 14 hr 4 min
+591 songs - 1 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Deadbeat Gospel](https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [somedeadbeat](https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6) | [Deadbeat Gospel](https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH) | 4:14 | 2023-09-27 | 2024-03-02 |
 | [Dear Gina](https://open.spotify.com/track/3GoL5HaRpCMpVrJhP1akfh) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Dear Gina](https://open.spotify.com/album/5eCcHgXBq66ckMzetu0VfJ) | 3:12 | 2022-03-31 | 2022-09-21 |
 | [Defection](https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW) | 4:05 | 2022-03-04 | 2022-09-17 |
+| [Dekki](https://open.spotify.com/track/7Egzpr24Fz9yiiwv6JOL7U) | [Narasimha](https://open.spotify.com/artist/2wzbr5OelMdawn7HrZRefV), [Maryama Cham](https://open.spotify.com/artist/1IgQXOB6xo098UpJplr6Lk), [Barhama](https://open.spotify.com/artist/0jTXrnQV2eR82q1EBCUwVJ), [Magatte Fall](https://open.spotify.com/artist/2TeuVsoJ6KllKdijMrqMm0) | [Dekki](https://open.spotify.com/album/3v3oKw1oLWonpsJ3obeaDT) | 4:28 | 2026-09-24 |  |
 | [Del Oro](https://open.spotify.com/track/5YgEN0XaRJo5EEiWuXDTqv) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Del Oro](https://open.spotify.com/album/5EmgZrhnGC2kXDJrN3Lnx0) | 6:14 | 2024-06-04 | 2024-08-28 |
 | [Denisse](https://open.spotify.com/track/0w8j13CM49tWDsEwtH6j0b) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt) | [Denisse](https://open.spotify.com/album/3sl18HgwShBn3K0arFlOyw) | 3:41 | 2026-07-08 |  |
 | [Departed](https://open.spotify.com/track/7udizCkehDvHpPbG6smnVe) | [Hakushi Hasegawa](https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi) | [Departed](https://open.spotify.com/album/0ycL1vGVZTadGTkcq1vlxR) | 2:14 | 2024-05-28 | 2024-08-08 |
@@ -484,6 +485,7 @@
 | [Staring at the Sun](https://open.spotify.com/track/2bqWo67hUC1mXH3HycjtOj) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Staring at the Sun](https://open.spotify.com/album/5gwIubJBZvCNmo07RndzDC) | 3:32 | 2026-07-16 |  |
 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-09-16 | 2023-04-06 |
 | [Stay Alive](https://open.spotify.com/track/7doHB4pJIeG8xTl2cigRJu) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Stay Alive](https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi) | 3:53 | 2026-05-28 | 2026-09-24 |
+| [Stay Now](https://open.spotify.com/track/0JG0XzJeONILCRHgKDJX1s) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Stay Now](https://open.spotify.com/album/0EZ6dMa4OWDZdrcm5MLesY) | 3:28 | 2026-09-24 |  |
 | [Still Riding](https://open.spotify.com/track/1DQYCwZG5DOXXSTXluYQam) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Still Riding](https://open.spotify.com/album/3UT1EXRpoX808v8dtCz172) | 3:37 | 2024-09-25 | 2025-11-07 |
 | [Stream of Consciousness](https://open.spotify.com/track/40vkKEz4BqmtvHED2Jstil) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Stream of Consciousness](https://open.spotify.com/album/2UX7LFFvs1vRclLox4sJbE) | 2:42 | 2025-02-12 | 2025-11-07 |
 | [Stuck In The Middle](https://open.spotify.com/track/51vIyYq0fS8oZbIX0jGwuX) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [ELSAS](https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo) | [Collage 2](https://open.spotify.com/album/2FTiYTP7AkfFehikQoGatR) | 3:12 | 2022-04-29 | 2022-09-07 |

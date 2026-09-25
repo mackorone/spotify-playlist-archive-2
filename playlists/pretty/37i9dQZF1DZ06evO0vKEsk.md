@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 
 > This is Bruna Karla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,711 likes - 50 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,709 likes - 50 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 30 | [Sou Humano](https://open.spotify.com/track/0BkcVqOrULDcssoXHc1hFW) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Sou Humano](https://open.spotify.com/album/2UKwLM7kvCIJqcZyiCqpKQ) | 4:30 |
 | 31 | [Como Águia](https://open.spotify.com/track/4fy2gofAuBIivOokMdj1WC) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:34 |
 | 32 | [Deus de Moisés](https://open.spotify.com/track/3ghzHm4lHHhA9WO9Yiu5nY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Êxodo](https://open.spotify.com/album/44sV0KO83IohkU1FhQHB2b) | 6:03 |
-| 33 | [Um Novo Dia \- Ao Vivo](https://open.spotify.com/track/11z2xM9l8GsBljbUtZ4hHN) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Um Novo Dia \(Ao Vivo\)](https://open.spotify.com/album/3GSAZ8tFAL4wQVM6fLflbg) | 6:54 |
-| 34 | [O Teu Poder \(Creio Em Ti\) \| Famous For \(I Believe\) \- Ao Vivo](https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Teu Poder \(Creio Em Ti\) \| Famous For \(I Believe\) \[Ao Vivo\]](https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo) | 5:07 |
+| 33 | [O Teu Poder \(Creio Em Ti\) \| Famous For \(I Believe\) \- Ao Vivo](https://open.spotify.com/track/2pnhoSNS41XZnZmrKWEGE5) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [O Teu Poder \(Creio Em Ti\) \| Famous For \(I Believe\) \[Ao Vivo\]](https://open.spotify.com/album/1XZ3RUP02ERtBqskMnjXUo) | 5:07 |
+| 34 | [Um Novo Dia \- Ao Vivo](https://open.spotify.com/track/11z2xM9l8GsBljbUtZ4hHN) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Um Novo Dia \(Ao Vivo\)](https://open.spotify.com/album/3GSAZ8tFAL4wQVM6fLflbg) | 6:54 |
 | 35 | [Vento do Espírito](https://open.spotify.com/track/576nbIQo0FL0pVII6YrzYe) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Vento do Espírito](https://open.spotify.com/album/1o8OkaZKl1pTCMrWlDHxEp) | 4:14 |
 | 36 | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/track/03KTzNp5hi9zjM8Wg1y8a7) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Eu Me Arrependo + Deixar a Lágrima Rolar \(Ao Vivo\)](https://open.spotify.com/album/72whHnsjNfhUiF6v4wxbA6) | 5:38 |
 | 37 | [Toca\-me, Pai](https://open.spotify.com/track/0W9Sjpu4N5dTq4LsvDNo18) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Como Águia.](https://open.spotify.com/album/1Bs4fwpu5CM0QMU34eH4zH) | 4:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vKEsk.md) - [plain]
 | 49 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
 | 50 | [Porque Creio em Ti \- Ao Vivo](https://open.spotify.com/track/648dnMgbizS9swlcL5qhDj) | [Quatro por Um](https://open.spotify.com/artist/5Ai5CFwarvc7z5SZp6s8dz), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Quatro por Um Forever \(Ao Vivo\)](https://open.spotify.com/album/20INxhFFGnvx75lNaxGxXs) | 5:00 |
 
-Snapshot ID: `arHFAAAAAACQowDuU5uDdqj95D9GqON5`
+Snapshot ID: `arMWgAAAAACpySmd5BeLfKevnlhzET1t`

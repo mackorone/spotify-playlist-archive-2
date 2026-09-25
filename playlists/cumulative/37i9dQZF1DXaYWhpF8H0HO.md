@@ -2,9 +2,9 @@
 
 ### [Ke Seberang](https://open.spotify.com/playlist/37i9dQZF1DXaYWhpF8H0HO)
 
-> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: The Midnight Darlings
+> Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Aziz Hedra
 
-717 songs - 1 day 18 hr 1 min
+723 songs - 1 day 18 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [another eve](https://open.spotify.com/track/4S2Jni29AVhvtpRxCa7QMB) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [another eve](https://open.spotify.com/album/1inidCLPoiPPwa3SmSR8xF) | 3:24 | 2026-02-26 |  |
 | [Another Heartbreak](https://open.spotify.com/track/72PQZ3k0SfV1Oi10DXuWTf) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [Another Heartbreak](https://open.spotify.com/album/5nxEyXGMN43tMCgFds6Kuu) | 4:05 | 2024-06-27 | 2024-08-30 |
 | [Another Life](https://open.spotify.com/track/05CnnJTrWyZppUnZum1wtW) | [Redinka Nahumury](https://open.spotify.com/artist/6TuB4MqYsKjhB2ZIZjKl2c) | [Another Life](https://open.spotify.com/album/1QMFMjgJdqti57vWNZzdbk) | 4:17 | 2026-03-05 | 2026-06-26 |
+| [Another Minute](https://open.spotify.com/track/2pSilCq8FdMwC2q0p1iHR9) | [Adiva](https://open.spotify.com/artist/2kE5DPsebHbgal8xDFDsMF) | [Another Minute](https://open.spotify.com/album/7vGxG2aUNfp1zuFVGox6QM) | 2:57 | 2026-09-24 |  |
 | [Anti ∞ Hero](https://open.spotify.com/track/2GO1pRF96wqjB5TKXLQ0vY) | [Mighfar Suganda](https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG) | [Anti ∞ Hero](https://open.spotify.com/album/61uE81t3kSjEmDS2GPIkZ6) | 3:30 | 2024-10-24 | 2025-01-24 |
 | [Aphrodite Blues, Part 2](https://open.spotify.com/track/0Kq1LwAKrwEH85mKxGapsn) | [notyourwife](https://open.spotify.com/artist/6hd9tFRIzVJ5nuZwrosbNL) | [Aphrodite Blues](https://open.spotify.com/album/5eOhKfzXhT0LdWmcJIlG4Y) | 3:40 | 2026-04-23 | 2026-07-31 |
 | [april](https://open.spotify.com/track/2zoT19GQEv6XsZsINsMlc9) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [april](https://open.spotify.com/album/22f6AxI0IyIyqd4qiMOKiB) | 4:03 | 2026-04-23 |  |
@@ -69,6 +70,7 @@
 | [back to you](https://open.spotify.com/track/4J3UeEeSNrMKYHCaaQy46a) | [angelana](https://open.spotify.com/artist/3BfinGyCz0cTmNSVzngSgf), [Syahravi](https://open.spotify.com/artist/3pAnwLXAmm8w29Qy20KFJZ) | [back to you](https://open.spotify.com/album/1wyZWBOKXgjiYxc7IR1Ajs) | 3:33 | 2024-06-27 | 2024-08-10 |
 | [Back To You](https://open.spotify.com/track/2gglT6HrpQJhv4nU1fIZT3) | [Nowela Mikhelia](https://open.spotify.com/artist/4e53a3HRkUEiIAUnShZPSr) | [Back To You](https://open.spotify.com/album/4KZAzRq5qFNBFN0NGkFgNu) | 4:22 | 2024-10-24 | 2025-01-24 |
 | [Background Character](https://open.spotify.com/track/5gRDEnGcUKTiju3DV7hPOf) | [Chris Andrian Yang](https://open.spotify.com/artist/74DSMvAfXpnN3c1KCfvFwQ) | [Background Character](https://open.spotify.com/album/6Wxf10EZwyYyfsnyjoVt6K) | 3:22 | 2026-08-07 |  |
+| [Backseat](https://open.spotify.com/track/6NT1C7sOxWRVsUykEJ6one) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Backseat](https://open.spotify.com/album/53QC67jXx3G0nW6kSOiGOl) | 3:56 | 2026-09-24 |  |
 | [Bad Bad](https://open.spotify.com/track/02XgMsdfJr6GjTD4sSPD8J) | [Fangtatis](https://open.spotify.com/artist/0nLDPz8ZYzbVSaR49Lo9LY), [Boogiemen](https://open.spotify.com/artist/6V4CFu9IcQNFlz6sZuIHr2) | [Bad Bad](https://open.spotify.com/album/5sQj4trXRrUSsGnAYD1Sk7) | 3:33 | 2025-04-17 | 2025-06-13 |
 | [Bad Connection](https://open.spotify.com/track/01jCjvoD62Kxmf6BsFERTp) | [Dinda Ghania](https://open.spotify.com/artist/2nPIQ6GuHJQEqDRkZvDJn4) | [Bad Connection](https://open.spotify.com/album/3Lds5O77bMWR62dUPCZ3XC) | 3:25 | 2026-06-26 |  |
 | [Bad Tattoo](https://open.spotify.com/track/58lElp3BVghKIEURYqzOF6) | [Lalu Carlos](https://open.spotify.com/artist/44liq1Zx03XgOF3TwnkziS) | [Bad Tattoo](https://open.spotify.com/album/7en3ZzXQI26PJVHlp0PjL1) | 3:37 | 2025-01-23 | 2025-04-18 |
@@ -269,6 +271,7 @@
 | [GOOD GIRL](https://open.spotify.com/track/39sWePYge6aUJ0SbxdtRlg) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [GOOD GIRL](https://open.spotify.com/album/3zyNlsDiR0lUdH8EbBgigi) | 2:53 | 2025-06-26 | 2025-08-08 |
 | [Good Morning, Goodbye](https://open.spotify.com/track/4Fb1gbBMGtDSx9CTfLHPBO) | [Ricecooker](https://open.spotify.com/artist/6yfnX1zKi8rsuPPWXjx20q) | [Good Morning, Goodbye](https://open.spotify.com/album/1BFvEfpMYM71nuRxbdANUA) | 3:21 | 2025-11-13 | 2026-04-10 |
 | [Goodbye \(a letter from myself\)](https://open.spotify.com/track/1Q7ilH8maIsIagwE0EylPi) | [Rivo Alfahrezy](https://open.spotify.com/artist/33vmHJJUmpOHeiPIHxeBJq) | [Where I Belong](https://open.spotify.com/album/3waNlcT5qxQiUzdKUyx6lm) | 3:16 | 2026-08-13 |  |
+| [Goodbye Everest](https://open.spotify.com/track/4zExUd5B4ZPnxFmMX57jo1) | [mpq](https://open.spotify.com/artist/50lYR3K96QJ3DyOHJr3Fom), [Nabila Hanina](https://open.spotify.com/artist/6JURyKIQw3fyclbFr7C7YK) | [Goodbye Everest](https://open.spotify.com/album/5xebWmlSMVu4ZEoKBmeUmj) | 2:44 | 2026-09-24 |  |
 | [Got Me Like](https://open.spotify.com/track/5atizzSIWt1JCLmduS662p) | [N0en](https://open.spotify.com/artist/2gv3tIgZWNY7aCgha1y6cs) | [Got Me Like](https://open.spotify.com/album/5O3xEG8cPVGl4jNMa8ZbrP) | 1:56 | 2026-07-23 |  |
 | [Gotchu](https://open.spotify.com/track/7hDjNCo0CR3EHFjOapZCym) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Matthew Sayersz](https://open.spotify.com/artist/3Qq1nogMjTqDwH8x7MP6qv) | [Gotchu](https://open.spotify.com/album/57MP6GrkfvcHAJrSwTGM0Z) | 3:02 | 2024-08-01 | 2024-09-27 |
 | [GP5](https://open.spotify.com/track/6NQ3prsIYwHWpp0JXvZiQH) | [Andrea Turk](https://open.spotify.com/artist/3ymNbNvWkiHrhoe1ytgppa) | [GP5](https://open.spotify.com/album/7Ab5uQR4vYCqw0CpoFc4W3) | 2:28 | 2024-10-03 | 2025-01-18 |
@@ -392,6 +395,7 @@
 | [Life Of The Party](https://open.spotify.com/track/6XPibXdca5CWY3Zz6iNSi2) | [Reisha](https://open.spotify.com/artist/3hqQKsWWWTfJq3JamRl5C9) | [Life Of The Party](https://open.spotify.com/album/1rOcdVbjMEfs5DBSVaBcQb) | 3:20 | 2024-11-07 | 2025-03-14 |
 | [Light](https://open.spotify.com/track/62LfjQE0DbXdcxTwHP5HaJ) | [Inara](https://open.spotify.com/artist/1qcKOcPdWe0cxQn9ZXCefL), [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H) | [Light](https://open.spotify.com/album/3WZjmog0USmx1kp1PmH5Nt) | 3:06 | 2025-06-12 | 2025-08-08 |
 | [like an orchid / kembali \- Baila's Lullaby](https://open.spotify.com/track/0Pvg96gOZIBHrlcWfXivQm) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [orchids \(lullabies\)](https://open.spotify.com/album/5xAs8lHAgIS31jlaXBnYYD) | 2:34 | 2025-07-10 | 2026-04-24 |
+| [Like This Like That](https://open.spotify.com/track/2kKdIXJiZt5uhMEjSK9Rpu) | [BLINGOUTKID](https://open.spotify.com/artist/0pvy9ziaOLKxLQvyB4WGeN) | [Like This Like That](https://open.spotify.com/album/0UGY5LhGEHSyEt2JQGvPol) | 1:58 | 2026-09-24 |  |
 | [limbo](https://open.spotify.com/track/3XwSUA9k5CwiKkHS4GFYrd) | [lovlaine](https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx) | [limbo](https://open.spotify.com/album/5cZhtuP2HHoPcdvFF9ESmG) | 2:49 | 2025-08-01 | 2025-11-07 |
 | [Limerence](https://open.spotify.com/track/3I4mVnT3eD1GkWtfopCPEa) | [JVSAN](https://open.spotify.com/artist/1xA9kgJzlNa0CRc5ddVeJc), [gazeng](https://open.spotify.com/artist/0i6mAAoB8AnMGb3oEuU2Bo) | [Limerence](https://open.spotify.com/album/01w1dx6iPZ1e1Xhx4mr9zy) | 3:39 | 2025-07-18 | 2025-10-17 |
 | [Lit in Shanghai](https://open.spotify.com/track/5w6lZ3jwgZqGN9xkT4CdIG) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [PSY.P](https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR) | [Lit in Shanghai](https://open.spotify.com/album/4ijEWtNSDE0ltcpJeFq0Bh) | 2:59 | 2026-06-18 | 2026-08-07 |
@@ -544,6 +548,7 @@
 | [Runner Up](https://open.spotify.com/track/6R549RTmRikhV9khynVxv3) | [Moneva](https://open.spotify.com/artist/1wLYFml7YYO2uEcNwAZE0J) | [Runner Up](https://open.spotify.com/album/4fU3VB9Q1XxP5UH4aBSPwR) | 3:54 | 2025-10-09 | 2026-02-13 |
 | [Running out of Time](https://open.spotify.com/track/6KEfe7C5pgkXCOCTiWJQ5B) | [SAILORMONEY](https://open.spotify.com/artist/2f6SYfBwpvHWGgQ6Ht9PRj), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL) | [Running out of Time](https://open.spotify.com/album/4rtnsNLNkPWvqSSsWPO66R) | 3:06 | 2025-04-10 | 2025-05-09 |
 | [sad face :\(](https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [sad face :\(](https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78) | 3:28 | 2025-08-29 | 2025-12-06 |
+| [sadge](https://open.spotify.com/track/3GwzPtHpFMFT1fXVT5Qi1K) | [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1), [aiella](https://open.spotify.com/artist/0qI9Rt3IHDzV1AAXaeYCvx) | [sadge](https://open.spotify.com/album/6R4WR6Vh7PSVlvhqYHUhF1) | 2:23 | 2026-09-24 |  |
 | [safe space](https://open.spotify.com/track/1arHEA81jsCOyaKHwEkrXc) | [Jevin Julian](https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O) | [i will, i'm sure](https://open.spotify.com/album/540AbpojrvWb0CvFIcA2Da) | 3:29 | 2024-06-27 | 2024-07-24 |
 | [SAFE SPACE](https://open.spotify.com/track/2kxav1ncfuZFh1atFxvc4W) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [SAFE SPACE](https://open.spotify.com/album/32CyZFGgCRWcmBAbjQYt0H) | 3:23 | 2025-10-16 | 2026-04-24 |
 | [Safe Spot](https://open.spotify.com/track/50y0uV8SoSDYslBNZTKlhY) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Safe Spot](https://open.spotify.com/album/55Xq0PeZm8bR3Aimi8xayS) | 3:52 | 2025-09-18 | 2025-12-06 |
@@ -633,6 +638,7 @@
 | [tangled](https://open.spotify.com/track/4ZBaoNXFFIyR2Ce9LdHEYO) | [gabsav](https://open.spotify.com/artist/2vBkfyTQ8dShwOjhTnVfgZ) | [tangled](https://open.spotify.com/album/0UIHSmA4B2ykgZ9hSGqegw) | 4:31 | 2026-05-14 | 2026-07-31 |
 | [Teenage Years](https://open.spotify.com/track/4Ft96mSN2Yy3BWwZ9mgcSX) | [Low Pink](https://open.spotify.com/artist/1AyxemOyWnS1s8siDQG6EH) | [Teenage Years](https://open.spotify.com/album/4wwDH2rLj9iB2eUltgzrUY) | 4:10 | 2024-07-11 | 2024-10-11 |
 | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq) | 3:20 | 2024-11-07 | 2025-08-08 |
+| [Tell Me How](https://open.spotify.com/track/6KiBFkD6ETaPcN3FzLa27n) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [No Vacancy](https://open.spotify.com/album/2xSKUVZo7AT9X7PfSLtHnV) | 3:13 | 2026-09-24 |  |
 | [Tell Me What](https://open.spotify.com/track/1KvumnCHlUOOLjEPcPIPcf) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [RACH?](https://open.spotify.com/artist/2Ha1m0lk3Eo8FyDa6eNfgd) | [Tell Me What](https://open.spotify.com/album/30WsbnsReEOoZ8wDkNbsjf) | 3:00 | 2026-08-13 |  |
 | [Text Me \(When It's Over\)](https://open.spotify.com/track/6JjHBg0GsvwjpnczvBhtbv) | [Cassette Tape](https://open.spotify.com/artist/45d9rjxmTAPHleESx39ao2) | [Text Me \(When It's Over\)](https://open.spotify.com/album/1ERnC3W3zKYuepZvBvBemw) | 3:04 | 2025-07-24 | 2025-09-30 |
 | [the best i left behind](https://open.spotify.com/track/3l0Jjl2aSgzsMObFEDhbTN) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [the best i left behind](https://open.spotify.com/album/7eMW7C6Brs4HyLfzE8mJrk) | 3:32 | 2026-08-07 |  |

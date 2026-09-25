@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 154760,
+  "num_followers": 154775,
   "original_name": "Sons da Natureza",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Green Until Morning",
-        "url": "https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn"
-      },
-      "artists": [
-        {
-          "name": "The Long Nap",
-          "url": "https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU"
-        }
-      ],
-      "duration_ms": 124693,
-      "name": "Green Until Morning",
-      "url": "https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Thunderstorms vol II",
         "url": "https://open.spotify.com/album/2PEHvR7NUyQNTLSaDOxAcg"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 228500,
       "name": "Dripping Wet Leaves and Thunder",
       "url": "https://open.spotify.com/track/4ceay3NQJmIvSgX7wh8RKZ"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Green Until Morning",
+        "url": "https://open.spotify.com/album/3vNdLwCQ5Eo6sjyTqjsnhn"
+      },
+      "artists": [
+        {
+          "name": "The Long Nap",
+          "url": "https://open.spotify.com/artist/2fTkJnbdhe9vfUyUbo7kaU"
+        }
+      ],
+      "duration_ms": 124693,
+      "name": "Green Until Morning",
+      "url": "https://open.spotify.com/track/1ITX87YFb7grS21U6fmLRt"
     },
     {
       "added_at": "2026-04-02 09:58:26",
@@ -763,22 +763,6 @@
     {
       "added_at": "2026-04-02 09:58:26",
       "album": {
-        "name": "Healing Rainforest",
-        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
-      },
-      "artists": [
-        {
-          "name": "Manaus",
-          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Walking In The Rainforest",
-      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
-    },
-    {
-      "added_at": "2026-04-02 09:58:26",
-      "album": {
         "name": "Soothing Jungle Sounds",
         "url": "https://open.spotify.com/album/2aLi2tPsVgfae6M4gher7p"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 185756,
       "name": "Rain on the Leaves",
       "url": "https://open.spotify.com/track/0TOHmgptvSAz7nyH7DCFgB"
+    },
+    {
+      "added_at": "2026-04-02 09:58:26",
+      "album": {
+        "name": "Healing Rainforest",
+        "url": "https://open.spotify.com/album/4v9Ukg1kCqzVIO8LodrRfB"
+      },
+      "artists": [
+        {
+          "name": "Manaus",
+          "url": "https://open.spotify.com/artist/4PEdVfSTHbwmgqD5mQOqjF"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Walking In The Rainforest",
+      "url": "https://open.spotify.com/track/0L9ZjKkKfq2Tnm8t8RZ8h7"
     },
     {
       "added_at": "2026-04-02 09:58:26",

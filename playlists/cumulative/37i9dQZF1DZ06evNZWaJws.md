@@ -4,7 +4,7 @@
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 40 min
+90 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Comandante 09](https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Comandante 09](https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf) | 3:56 | 2024-01-29 | 2024-09-20 |
 | [De Corral En Corral \- \(2026 Remasterizado\)](https://open.spotify.com/track/3qyYFHqiYfHwQ38WYtvW6j) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos y Rancheras \(2026 Remasterizado\)](https://open.spotify.com/album/2BBDRVEGGvK3Jp2C2kYhxd) | 3:17 | 2026-03-04 | 2026-03-31 |
 | [De México Soy](https://open.spotify.com/track/6DGPN25C9jioipnxlahZ3J) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [De México Soy](https://open.spotify.com/album/3TlUK5ukcTDdHXan3QEIQp) | 2:42 | 2026-09-18 |  |
-| [Desde Que Te Amo](https://open.spotify.com/track/51FDXDr71U8e9D7Umn9V6r) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:17 | 2024-01-29 |  |
+| [Desde Que Te Amo](https://open.spotify.com/track/51FDXDr71U8e9D7Umn9V6r) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:17 | 2024-01-29 | 2026-09-25 |
 | [Déjate Querer \(En Vivo\)](https://open.spotify.com/track/5spTwphngRhm7QVFVKBwDm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Arriba La Tía, Desde Las Vegas \(En Vivo\)](https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO) | 3:01 | 2024-12-23 | 2026-05-24 |
 | [El 3 De Durango](https://open.spotify.com/track/1wd2iJgI7wrEibCo9cl83f) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El 3 De Durango](https://open.spotify.com/album/6QZDgOi0yoVUZYW2fu2OQm) | 3:04 | 2024-01-29 | 2024-02-09 |
 | [El Agricultor](https://open.spotify.com/track/7C3bObRIUeOGPDWlhSKEvw) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Lista Negra](https://open.spotify.com/album/4DszgJmZkatLJFbLvTyklT) | 2:36 | 2024-01-29 | 2024-06-23 |
@@ -29,6 +29,7 @@
 | [El Centenario](https://open.spotify.com/track/1KrleiVgBHPcWE1dW74BUt) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Retro\-Corridos](https://open.spotify.com/album/0PALWRVlB3wINtVW95GXN4) | 2:38 | 2026-08-26 | 2026-08-28 |
 | [El Chavo](https://open.spotify.com/track/1j8X26U42cDQpxcjCk8IiI) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Corridos Time Season Two "Los Implacables"](https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh) | 3:41 | 2024-12-03 | 2026-08-23 |
 | [El Chavo](https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [El Chavo](https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb) | 3:46 | 2024-01-29 | 2024-12-03 |
+| [El Codo \- \(Remasterizado 2026\)](https://open.spotify.com/track/1oZLZo2gLhRVMKahsQAtKG) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Codo \(Remasterizado 2026\)](https://open.spotify.com/album/3gVDoFE7NJJGO176dNeoNM) | 2:57 | 2026-09-25 |  |
 | [El Diablo \(Tema De La Película "El Infierno"\)](https://open.spotify.com/track/5yFBa03KP98kIbOQkD2UeT) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Árbol](https://open.spotify.com/album/0D8ccoDH3ExN728wDRsRNT) | 3:18 | 2024-01-29 |  |
 | [El Doctor Del Pueblo](https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 2:44 | 2024-01-29 |  |
 | [El Fruto \- \(Remasterizado 2026\)](https://open.spotify.com/track/5bZparuZjVLNOmtQ2SID7Q) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [El Fruto \(Remasterizado 2026\)](https://open.spotify.com/album/4h1cqhcEXipHNDxYEZMMHJ) | 3:18 | 2026-09-12 |  |

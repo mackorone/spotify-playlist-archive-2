@@ -4,10 +4,11 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1TKLER9anp82uwNUrFo1xc">SAKIMA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-64 songs - 3 hr 18 min
+65 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [Another World](https://open.spotify.com/track/2hIDp0Wsysagyn7VZkqNhL) | [CONTROL Resonant](https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l), [Frida Amundsen](https://open.spotify.com/artist/7bWpniIKlAHKaXyn3BFPlr), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Zoe's Mixtape](https://open.spotify.com/album/3tvQ7tUbztcIdUMHQDXkT7) | 3:11 | 2026-09-24 |  |
 | [Arm’s Length](https://open.spotify.com/track/4SR5sDCQfNlum4GSzexVKA) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Butterfly Blue](https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF) | 3:28 | 2024-03-21 |  |
 | [Back to You](https://open.spotify.com/track/0fNUchvYzB61KedvozWbtN) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [The Wave](https://open.spotify.com/album/7tODvFh4chMI6i0VIQ5UTv) | 3:20 | 2024-03-21 |  |
 | [Basket](https://open.spotify.com/track/2En7vhcwb15kFzza0prsWm) | [SAKIMA](https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu) | [Ricky](https://open.spotify.com/album/3gujW1ZTujEEqlO1WEt17S) | 3:08 | 2024-03-21 |  |

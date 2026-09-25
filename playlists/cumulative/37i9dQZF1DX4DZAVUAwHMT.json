@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: beabadoobee",
+  "description": "The UK's biggest rock playlist. Cover: Nothing But Thieves",
   "name": "The Rock List",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 208052,
       "name": "\"good guy\"",
       "url": "https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK"
+    },
+    {
+      "album": {
+        "name": "Stray Dogs",
+        "url": "https://open.spotify.com/album/4N31AIbwVZbbfDe48xbGnY"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246023,
+      "name": "#5",
+      "url": "https://open.spotify.com/track/4RPgsLbTlrpoLwXqEpkhQD"
     },
     {
       "album": {
@@ -546,7 +564,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 246899,
       "name": "A Different Kind of Happiness",
       "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
@@ -2513,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "Put A Smile On For Me",
+        "url": "https://open.spotify.com/album/3lNBELeJGdsWUJYYtv6aLB"
+      },
+      "artists": [
+        {
+          "name": "Keo",
+          "url": "https://open.spotify.com/artist/30FAFv3oKzNR9amC0XfmUA"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192990,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/2vQ2jaoKYz6651c4qwjy69"
+    },
+    {
+      "album": {
         "name": "KILLJOY",
         "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
       },
@@ -2878,7 +2914,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 179396,
       "name": "Big Dog",
       "url": "https://open.spotify.com/track/1tj4Kq6N4WKmO04hlI4LzX"
@@ -2954,7 +2990,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 244925,
       "name": "Bird On The Wire",
       "url": "https://open.spotify.com/track/48ZszrgXVC0llXhFGt5v8a"
@@ -5560,7 +5596,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 194597,
       "name": "CUT_it",
       "url": "https://open.spotify.com/track/20UAoMZQ3XFRrc1U7eGDgB"
@@ -5936,7 +5972,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 227116,
       "name": "Date Night",
       "url": "https://open.spotify.com/track/3kddxpf7WLApBv8pRTCn49"
@@ -7010,7 +7046,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 231266,
       "name": "Easy Street",
       "url": "https://open.spotify.com/track/415xhtL862VVvSiKWuS2SW"
@@ -9076,7 +9112,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 207193,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1qpquDXIG03HvhHrnBiY1G"
@@ -12776,7 +12812,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 353666,
       "name": "Insignificant Other",
       "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
@@ -13108,6 +13144,24 @@
       "duration_ms": 187793,
       "name": "I\u2019m a Mess (with YUNGBLUD)",
       "url": "https://open.spotify.com/track/1yvArCvZLTHiawRdWKSAWj"
+    },
+    {
+      "album": {
+        "name": "Pugnello",
+        "url": "https://open.spotify.com/album/5pTvVhdMVV24CQep4GA38F"
+      },
+      "artists": [
+        {
+          "name": "Gilla Band",
+          "url": "https://open.spotify.com/artist/7IdPmzvB3PugXieZE9vS4S"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278953,
+      "name": "Jacobsons",
+      "url": "https://open.spotify.com/track/3NsyjB7Y1CZ2qjydcnFYXK"
     },
     {
       "album": {
@@ -13602,6 +13656,24 @@
       "duration_ms": 190441,
       "name": "KIDS THESE DAYS",
       "url": "https://open.spotify.com/track/27EYzBA2Gsd5TsvKyLJQBu"
+    },
+    {
+      "album": {
+        "name": "Kids Vs Guns",
+        "url": "https://open.spotify.com/album/6rHLEBwoYhva337hdMtKjo"
+      },
+      "artists": [
+        {
+          "name": "Basht.",
+          "url": "https://open.spotify.com/artist/0bIaFZHuLgWlw8UiE9qBAE"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233958,
+      "name": "Kids Vs Guns",
+      "url": "https://open.spotify.com/track/2lZuh8MJd6wEexdXmx0FJT"
     },
     {
       "album": {
@@ -15037,6 +15109,24 @@
     },
     {
       "album": {
+        "name": "Lovers To Enemies",
+        "url": "https://open.spotify.com/album/5ultElEonKrfporhFSq3uF"
+      },
+      "artists": [
+        {
+          "name": "loveshy",
+          "url": "https://open.spotify.com/artist/2xZvyZ5a4pTOvLexCZ91lv"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152916,
+      "name": "Lovers To Enemies",
+      "url": "https://open.spotify.com/track/5nQv9VFRM13HK3058fGKQw"
+    },
+    {
+      "album": {
         "name": "Lovesick Lullaby",
         "url": "https://open.spotify.com/album/3zwpHJVP5RXTpzQ7o2dpTu"
       },
@@ -15484,7 +15574,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 130592,
       "name": "mean eye",
       "url": "https://open.spotify.com/track/6RY2xsdXfqNnclY1yqGU7N"
@@ -17474,7 +17564,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 222395,
       "name": "Nothing Happens Twice",
       "url": "https://open.spotify.com/track/1ONK8nkEK50USiZovuRhEv"
@@ -19524,7 +19614,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 202887,
       "name": "Pose",
       "url": "https://open.spotify.com/track/1EEZ2F8L9dwVhWIgRtRsp2"
@@ -20152,7 +20242,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 138344,
       "name": "Rags to Riches",
       "url": "https://open.spotify.com/track/1rEacgLTdcAXG56ZOESyMN"
@@ -21893,6 +21983,24 @@
     },
     {
       "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155648,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
+    },
+    {
+      "album": {
         "name": "Silent Pictures",
         "url": "https://open.spotify.com/album/0uj5lZsHyJz6JeLaUAK8EB"
       },
@@ -22451,6 +22559,24 @@
     },
     {
       "album": {
+        "name": "Social Apocalypse",
+        "url": "https://open.spotify.com/album/6TBRv74cGwsNjrRWKx1pWk"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239394,
+      "name": "Social Apocalypse",
+      "url": "https://open.spotify.com/track/7LYrWNctGC55Ch60eU8AxK"
+    },
+    {
+      "album": {
         "name": "Soft Like a Flower",
         "url": "https://open.spotify.com/album/46Ymu1RndFusJWIzmbUhOV"
       },
@@ -22650,6 +22776,24 @@
       "duration_ms": 126728,
       "name": "Sorry, Etc, Etc (feat. Joe Talbot)",
       "url": "https://open.spotify.com/track/3dp2fUlKaGg0ZIja4Aynyq"
+    },
+    {
+      "album": {
+        "name": "Sounds We Cannot Hear",
+        "url": "https://open.spotify.com/album/4gWPFqPKQ03Dj14GHFrJRt"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326093,
+      "name": "Sounds We Cannot Hear",
+      "url": "https://open.spotify.com/track/0dlpa3bEXIlnUWal4t7DUy"
     },
     {
       "album": {
@@ -23714,6 +23858,24 @@
       "duration_ms": 209422,
       "name": "SWALLOW",
       "url": "https://open.spotify.com/track/7zbGyhYLWxgpiWyGqdNWUI"
+    },
+    {
+      "album": {
+        "name": "Swallow",
+        "url": "https://open.spotify.com/album/4ev1XrakdReSGteV9QTFx8"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182587,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/13T5HtRAEi0WufzsLOXm1Q"
     },
     {
       "album": {
@@ -25578,7 +25740,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 201475,
       "name": "Time Waster",
       "url": "https://open.spotify.com/track/6KkVR92mAwsA7d011KEFoi"
@@ -26237,6 +26399,28 @@
     },
     {
       "album": {
+        "name": "Everyone Gets Everything They Want",
+        "url": "https://open.spotify.com/album/6IKkPh0dAyMdbZfC6yg0Jr"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        },
+        {
+          "name": "KNEECAP",
+          "url": "https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Unconquered (feat. KNEECAP)",
+      "url": "https://open.spotify.com/track/2U0Ib01dRj6WI6IRC3oUW8"
+    },
+    {
+      "album": {
         "name": "uncooked",
         "url": "https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0"
       },
@@ -26821,6 +27005,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Coming To Save You",
+        "url": "https://open.spotify.com/album/0Fbl6tfN7XDyNutXNI3nlD"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180232,
+      "name": "Waiting For Fisher",
+      "url": "https://open.spotify.com/track/1i6RUTWpIoXKTdhcU1upVf"
+    },
+    {
+      "album": {
         "name": "Waiting On A Twist Of Fate",
         "url": "https://open.spotify.com/album/5oK4d9R1CpF1jVdLaL4fj8"
       },
@@ -26974,7 +27176,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 201333,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/2rDDv4XPcSEr5yGOq02TqI"
@@ -27624,6 +27826,24 @@
       "duration_ms": 188901,
       "name": "Where Does The Light Get In?",
       "url": "https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x"
+    },
+    {
+      "album": {
+        "name": "Where The Goth Girls At?",
+        "url": "https://open.spotify.com/album/6hfZz7yAgyqjqb1bSBgsoP"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "Where The Goth Girls At?",
+      "url": "https://open.spotify.com/track/5kPfThD8sI2AvIhTkf0nbs"
     },
     {
       "album": {

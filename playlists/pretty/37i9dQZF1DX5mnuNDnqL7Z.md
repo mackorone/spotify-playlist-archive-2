@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 
 > Who run the world? Cover: no na
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,529 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,536 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mnuNDnqL7Z.md) - [plain]
 | 8 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
 | 9 | [clementine](https://open.spotify.com/track/720NjMRiTI3YMHUeKQzSZc) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [Observing Chaos](https://open.spotify.com/album/2PDL5zrh8O9xF8ukEfltam) | 2:44 |
 | 10 | [summer of ’16](https://open.spotify.com/track/48xY7Jn018AjLntqEaQCJB) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Mr\. Peaked In High School](https://open.spotify.com/album/26cfMohVrXKMfKZcbARmTw) | 3:30 |
-| 11 | [Cool You Down \(feat\. Sia\)](https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:30 |
+| 11 | [Cool You Down \- feat\. Sia](https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:30 |
 | 12 | [Autobahn](https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 4:18 |
 | 13 | [Mercy](https://open.spotify.com/track/6cIa8qVgqDksyJxUwNT56T) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Mercy](https://open.spotify.com/album/1aKNACxJIJD8o8j84vdqpm) | 3:10 |
 | 14 | [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 |

@@ -4,7 +4,7 @@
 
 > Obama&\#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list\. \(2026, 2024 &amp; 2023 + bonus tracks\) Enjoy!
 
-6,569 songs - 15 day 7 hr 38 min
+6,574 songs - 15 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -693,6 +693,7 @@
 | [Bloom](https://open.spotify.com/track/67q72wEUwXTEj5fHlC2hT8) | [Big Stuff](https://open.spotify.com/artist/5hVGTwuOK7snm9spr45QS3) | [Bloom](https://open.spotify.com/album/7wLp5QkiaGmHzKonmlBa3c) | 3:16 | 2022-03-11 | 2022-03-31 |
 | [Bloom](https://open.spotify.com/track/4XF72Nf25WwkxZuuZKi0ey) | [KingJei](https://open.spotify.com/artist/0pBglhiRYIvuL4be8T4Pth) | [Bloom](https://open.spotify.com/album/6rHnn2wJF7v60scbO0V2tp) | 2:45 | 2025-03-12 | 2025-03-24 |
 | [Bloom](https://open.spotify.com/track/4zFY8fE7MuYGdbyMFSTDIx) | [Sofi Gev](https://open.spotify.com/artist/6YL1DZY3FftdLcZwocsPbd) | [Bloom](https://open.spotify.com/album/6NLZvoRZCREwdyezdSB9Ae) | 3:37 | 2021-02-20 | 2021-03-09 |
+| [Bloom For You](https://open.spotify.com/track/541BmL1qNsrsOfKRiBljiZ) | [Chase Perryman](https://open.spotify.com/artist/5OSeubQCEvvJFhLA5DRwGZ), [Jared Hallock](https://open.spotify.com/artist/6jWGgYpDHLDCpb2rCH72Gl) | [Bloom For You](https://open.spotify.com/album/1akjy8MI0bSBCFS1QQNeCR) | 2:21 | 2026-09-25 |  |
 | [Blow My Mind \- CA7RIEL & Paco Amoroso Version](https://open.spotify.com/track/2Fn0xjZZa6ma1WgwyHM69k) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2), [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX) | [Blow My Mind \(CA7RIEL & Paco Amoroso Version\)](https://open.spotify.com/album/7pOzBulb4xSuKLGHekguEk) | 2:49 | 2026-05-02 | 2026-05-24 |
 | [Blue](https://open.spotify.com/track/5JzfTNvq2zFaMWnDu6y1Rp) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodeje](https://open.spotify.com/artist/66tEYHooGXFu7LqoGFWJ54) | [Blue](https://open.spotify.com/album/5JQd4Q2yofHzSeQgD36uXK) | 3:42 | 2020-04-30 | 2020-05-24 |
 | [Blue](https://open.spotify.com/track/6XXybZwHsHKipmdOLBMgW4) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US) | [What I've Found](https://open.spotify.com/album/2QWfWlbGrrNtT3LR03hYys) | 3:08 | 2020-09-07 | 2020-09-22 |
@@ -745,6 +746,7 @@
 | [Born Too Close to the Sun](https://open.spotify.com/track/4uCSvw3WJD0lWjm3Rp5knF) | [Elijah Kusel](https://open.spotify.com/artist/40mu6ZNsQGxjuwXirTdqYQ) | [Born Too Close to the Sun](https://open.spotify.com/album/3Ror6fR9mks3Lpb6GtvCi7) | 3:39 | 2024-10-31 | 2024-11-30 |
 | [Boujee](https://open.spotify.com/track/30TzMOZcEhoXsiuGYJcsyL) | [Autumn Jeannette](https://open.spotify.com/artist/33gynXNzaLs9NSR9FJEWpB) | [Boujee](https://open.spotify.com/album/0U5rXP5qSdUaBmsC5QkvAN) | 2:47 | 2021-07-09 | 2021-07-25 |
 | [Bounce](https://open.spotify.com/track/6J86qOETxcHr4amkwIH1n2) | [Alex Sandra](https://open.spotify.com/artist/6M0BEwom1GzPfvDXbhb2qi) | [Bounce](https://open.spotify.com/album/758oxRK41PTA9IKfrMglD3) | 2:40 | 2022-08-26 | 2022-09-11 |
+| [Bounce](https://open.spotify.com/track/04LBVpBY0OfARJ1xfPQxMC) | [Jhaysings](https://open.spotify.com/artist/5hIVkHpxmW87MrcpvjCKjv) | [Bounce](https://open.spotify.com/album/6QftuviyAa7aIxdWKx1Ulf) | 2:27 | 2026-09-25 |  |
 | [Bound to Lose](https://open.spotify.com/track/3bclhqr8YD9VAgohwLcIC8) | [The Far West](https://open.spotify.com/artist/16akqvzsDp3Pno4XeSZFiF) | [The Far West](https://open.spotify.com/album/5Yksm8AOHmnFWTiv9C6O0T) | 2:40 | 2024-09-13 | 2024-09-24 |
 | [Boundaries](https://open.spotify.com/track/7adsrOCSymRDoPDmvQNC1O) | [Henry](https://open.spotify.com/artist/5Hu4L6ndNw9TU5EGnoZ6mh) | [Boundaries](https://open.spotify.com/album/74z57y34K6EzdQzSUhSfB0) | 3:08 | 2023-01-16 | 2023-02-12 |
 | [Boundaries](https://open.spotify.com/track/2ft5nEXeDwLCz8holKuhUG) | [Kyle Volt](https://open.spotify.com/artist/55OKLqprThCQgYEwUqQTTf), [Gabe King](https://open.spotify.com/artist/02NyGYjJ4Urkrripz8CEGL) | [Takes a Village](https://open.spotify.com/album/3jD69oVGcaWclPNjJX3FtK) | 2:40 | 2023-08-25 | 2023-09-26 |
@@ -1464,6 +1466,7 @@
 | [Divine Timing](https://open.spotify.com/track/3iFWUwrLai8rugDV9M95q6) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Dallas](https://open.spotify.com/artist/4G7Ft324bPwyWC2v35sns8) | [THINGS CHANGED](https://open.spotify.com/album/77FFl8rc8mTr7POq7lMfLa) | 2:06 | 2022-09-16 | 2022-10-04 |
 | [Dizzying](https://open.spotify.com/track/4CkNrW2RWowqbVjIxMMR7m) | [Zoë Vera](https://open.spotify.com/artist/5ekkcYPj04MOc3wznYJzKR) | [Dizzying](https://open.spotify.com/album/2uRy8eVgeDd8WI2pXcUQeW) | 3:57 | 2026-03-03 | 2026-03-15 |
 | [DNA](https://open.spotify.com/track/6F7RIUpuw1q3vViFy3xm36) | [Alex Luke](https://open.spotify.com/artist/4i1e1iWe97VpGJFwbzF9m7), [Hayley Brown](https://open.spotify.com/artist/1FBLweETNh5PAMmN3rT4Ek) | [DNA](https://open.spotify.com/album/2as0k20VFoJjTjtdbl1k7Q) | 4:31 | 2024-03-20 | 2024-04-01 |
+| [Do He Know](https://open.spotify.com/track/69zfpfxeU5oikzcLFS1N1A) | [BK Operator](https://open.spotify.com/artist/0BUt2XIZlmQU6TBPzN0ST3) | [Do He Know](https://open.spotify.com/album/467y0qwE7a42GGmc3F4pZe) | 2:56 | 2026-09-25 |  |
 | [Do I Do](https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [The Definitive Collection](https://open.spotify.com/album/1vQrNEAdt2eHCXAvdIs1M2) | 5:03 | 2020-08-20 | 2023-08-28 |
 | [Do I Move You \- Version II](https://open.spotify.com/track/2km9fkIwupyw4puhwcYnCP) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:17 | 2022-07-26 | 2024-04-30 |
 | [Do It](https://open.spotify.com/track/052hHiUMpO8dg1w5hybrYO) | [ADIA](https://open.spotify.com/artist/0CI5UhfRbkqeCvzVMbXIFZ) | [Do It](https://open.spotify.com/album/3XUhbCmkPu2q6W18uKBRJz) | 2:44 | 2023-12-24 | 2024-01-01 |
@@ -1762,6 +1765,7 @@
 | [Evening Star](https://open.spotify.com/track/3w7rkzZ01OHhnpvu7Gt36Q) | [rplayin](https://open.spotify.com/artist/4vS4ho43JpE1NbaXMU4cOy) | [SOUL UNBOUND](https://open.spotify.com/album/2wCZXoPWQC8UtMJnImVMca) | 3:44 | 2025-02-13 | 2025-02-25 |
 | [Eventually](https://open.spotify.com/track/3E2bcM6jkMRo7f4xmT1FCG) | [TMX](https://open.spotify.com/artist/0TfvwOa0tBNUCzPXvm2dJm) | [Eventually](https://open.spotify.com/album/3t9W8Gy0blrRX2F6khA48P) | 5:21 | 2026-01-23 | 2026-02-24 |
 | [Ever Been](https://open.spotify.com/track/3LaYA96KcGVfwvz3lJqaK2) | [Noah Solt](https://open.spotify.com/artist/3ahNmULLhWIi6zVFJl2MYp) | [Ever Been](https://open.spotify.com/album/15kxOmqkRnIbSWXeiBklxL) | 3:36 | 2024-02-24 | 2024-03-08 |
+| [Ever Ever Ever \- Kennedy Avenue Demo](https://open.spotify.com/track/2kC86tTdOJjCe9uvRJTPUL) | [M Ross Perkins](https://open.spotify.com/artist/4zo4TmNq5dxoBOCJLzkjtF) | [Ever Ever Ever \(Kennedy Avenue Demo\)](https://open.spotify.com/album/0eJPmwnRuINUJB90cJuprx) | 2:41 | 2026-09-25 |  |
 | [Everlasting](https://open.spotify.com/track/0qkX3QY9sllMRXdr4RTx3w) | [Raianaa](https://open.spotify.com/artist/7sELM1YhLGsX1yksSNJqet) | [Everlasting](https://open.spotify.com/album/3uJIs3hmLju0z4ZCz7doH0) | 4:24 | 2023-07-25 | 2023-08-06 |
 | [Every Kind of Way](https://open.spotify.com/track/4EY2f16x9kRn2GuQoGi7za) | [Marian Mulock](https://open.spotify.com/artist/7L8CxnOq1JXYvIKhQTaf7b) | [Every Kind of Way](https://open.spotify.com/album/2I3D4xDzcU4JqZ1zywW2Zp) | 3:27 | 2024-06-15 | 2024-06-27 |
 | [Every Little Thing You Are](https://open.spotify.com/track/1WzIdeFyCxlizL9HwGBphK) | [PhD](https://open.spotify.com/artist/6iUFBjFb7pcoSRdeGOXhwu) | [Every Little Thing You Are](https://open.spotify.com/album/4s6Ux45YfBkrqEHqzCSf4N) | 3:42 | 2026-08-03 | 2026-08-15 |
@@ -4954,6 +4958,7 @@
 | [She Whispers](https://open.spotify.com/track/40YRRRa9nmzXMuGA7dWipc) | [Flo Fi](https://open.spotify.com/artist/1Usp2CAfIsN1vg9QJnvnME) | [She Whispers](https://open.spotify.com/album/3J6p56NCSTImSRTR9Kfxlh) | 3:08 | 2021-11-20 | 2021-12-05 |
 | [She'll Come With Me](https://open.spotify.com/track/5MOQMtSHmwHIlzapkg5LsI) | [Adam Rom](https://open.spotify.com/artist/4oOcOSicmBDeT6JfIWnCbf) | [She'll Come With Me](https://open.spotify.com/album/6fUNTdGvxpvVdGhyUdukOQ) | 3:00 | 2022-01-18 | 2022-02-08 |
 | [She's Got The Moves](https://open.spotify.com/track/3mNzr2JxuRD1ELCGyCgALv) | [Ki\-Jung](https://open.spotify.com/artist/5pqRt6SskbJusa0LavnBm8) | [She's Got The Moves](https://open.spotify.com/album/5f3vmTvLF95aHbHCdvBLch) | 3:39 | 2021-04-20 | 2021-05-05 |
+| [She's Struck Gold](https://open.spotify.com/track/38vqC5OzoThEZxrWLK5LxQ) | [Ally Cribb](https://open.spotify.com/artist/6JxJ3SU1utmj0Ny5Q10N1Z) | [She's Struck Gold](https://open.spotify.com/album/2EcQkPVR13MY2iurzT1f3Q) | 2:48 | 2026-09-25 |  |
 | [Sheesh \- Radio Edit](https://open.spotify.com/track/3UayrrhZabQopysb16raI8) | [Adam Ford](https://open.spotify.com/artist/7ynSCUXRlL5Wq7lED2D19n) | [Sheesh \(Radio Edit\)](https://open.spotify.com/album/38ihYW9v5OdKNpeQUDgkZT) | 2:38 | 2025-01-03 | 2025-01-15 |
 | [Shift](https://open.spotify.com/track/6PcWLVR7L4NDF0v0Wa0T73) | [Villaboyscottie](https://open.spotify.com/artist/22vLwzKq6QkWH73t1dgSFP) | [Shift](https://open.spotify.com/album/43JS6KAH7JxFnosqwJbRMW) | 1:48 | 2024-12-14 | 2024-12-26 |
 | [Shimmer](https://open.spotify.com/track/6P68h4DlSkSoiK8AXpuQRd) | [Hersey](https://open.spotify.com/artist/1rlwpkFQNWFw1c8cRvyY8E) | [Neon Masquerade](https://open.spotify.com/album/4YoACkGeStXjDfyi5N4n5J) | 3:33 | 2022-04-15 | 2022-04-30 |

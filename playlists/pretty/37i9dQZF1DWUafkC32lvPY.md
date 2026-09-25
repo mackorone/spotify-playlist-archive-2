@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,209 likes - 80 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,218 likes - 80 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 70 | [LA FALDA \- LoFi](https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u) | [AstroLofi](https://open.spotify.com/artist/2Piv8Ufq8XhpHwedI6FRMm), [High and Low HITS](https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA FALDA \(LoFi\)](https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ) | 2:51 |
 | 71 | [lucky monkey](https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU) | [archipelago beats](https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272) | [lucky monkey](https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I) | 2:13 |
 | 72 | [Good things take time](https://open.spotify.com/track/1L7xnsFNbBU6RH06PxbPx5) | [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb) | [Good things take time](https://open.spotify.com/album/3gwGJiQ0xGSUa3C6GZIXbL) | 1:39 |
-| 73 | [Todo Tranqui](https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Todo Tranqui](https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP) | 1:40 |
-| 74 | [Rambla Sur](https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG) | [Monte Nativo](https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku) | 2:26 |
+| 73 | [Rambla Sur](https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG) | [Monte Nativo](https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku) | 2:26 |
+| 74 | [Todo Tranqui](https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Todo Tranqui](https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP) | 1:40 |
 | 75 | [Maya](https://open.spotify.com/track/5Zq5pzQxnCmCAXN2ikRewz) | [Mariana Red](https://open.spotify.com/artist/0gehovGx04GX2D2GDfpaNQ), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [Niña](https://open.spotify.com/album/2OVXzmwAfv0J5kXsxbD1m2) | 2:02 |
 | 76 | [Moonlight Juice](https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [Shetafacker](https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6) | [Moonlight Juice](https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5) | 2:27 |
 | 77 | [are you kidding?](https://open.spotify.com/track/0hZq7KELxVZNX9y03D13K2) | [RUIDO](https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr) | [are you kidding?](https://open.spotify.com/album/7rdMOiMtmsgBwEfbX2I19v) | 2:11 |

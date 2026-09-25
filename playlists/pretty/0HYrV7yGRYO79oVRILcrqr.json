@@ -6,7 +6,7 @@
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMmK2X6Rj4Ewgxj79ThJJgIsF2oF/K",
+  "snapshot_id": "AAAMmfz8oK8vEc5zyd8tYCw4UHg+J3QV",
   "tracks": [
     {
       "added_at": "2026-08-25 19:38:02",
@@ -1771,6 +1771,22 @@
       "duration_ms": 226959,
       "name": "Sommarn i mitt blod",
       "url": "https://open.spotify.com/track/6iBP2rjjCJcqt7ePYz9ErV"
+    },
+    {
+      "added_at": "2026-09-24 18:32:42",
+      "album": {
+        "name": "Down By The Riverwalk",
+        "url": "https://open.spotify.com/album/6TwSKoOxgFhunYbSDNRFsn"
+      },
+      "artists": [
+        {
+          "name": "Dane Walden",
+          "url": "https://open.spotify.com/artist/2sjjV36oWAkKZhcoNomT6m"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Down By The Riverwalk",
+      "url": "https://open.spotify.com/track/70JWZTozKvr338lVmcz9or"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

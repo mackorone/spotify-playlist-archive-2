@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist qui sent le sapin pis la joie!
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,988 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,987 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 27 | [Six heures d'avion nous séparent](https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA), [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Six heures d'avion nous séparent](https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u) | 2:48 |
 | 28 | [J'ai vu maman embrasser le père Noël](https://open.spotify.com/track/4rEmPwDqff0iLL0cEXD1GU) | [Les BB](https://open.spotify.com/artist/0zNC9bOB7Hje24yEnFWfAr) | [J'ai vu maman embrasser le père Noël](https://open.spotify.com/album/5ReyWZwqRMiEc21kMeoW7w) | 3:11 |
 | 29 | [Winter Song](https://open.spotify.com/track/7BWw8Hahoj2dnlChmnkVUX) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [Lili\-Ann De Francesco](https://open.spotify.com/artist/5oWPqJjzXP3A0RCsASbEbA) | [Winter Song](https://open.spotify.com/album/5lGOMN6Wmt1MzJcpxefQKE) | 3:00 |
-| 30 | [Mam pis Pap](https://open.spotify.com/track/40PopCi4jnQmuTWpDPKyyw) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Mam pis Pap](https://open.spotify.com/album/0pEfXJfb8TlMbGTaW12le9) | 3:17 |
-| 31 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 |
-| 32 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 |
+| 30 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 |
+| 31 | [Mam pis Pap](https://open.spotify.com/track/40PopCi4jnQmuTWpDPKyyw) | [Les Hay Babies](https://open.spotify.com/artist/19MYB7a3GOTcbnZrl7juwx) | [Mam pis Pap](https://open.spotify.com/album/0pEfXJfb8TlMbGTaW12le9) | 3:17 |
+| 32 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 |
 | 33 | [Bonjour, Noël!](https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY) | [Patrick Norman](https://open.spotify.com/artist/3eGAOzOuxjhxwi9MeQ7knd) | [Noël sans faim](https://open.spotify.com/album/3aoqwVv7tuZpUlrvo1oZ5b) | 3:26 |
 | 34 | [Minuit](https://open.spotify.com/track/2blIgt4vJfPXuWp4axbSd1) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [Minuit](https://open.spotify.com/album/6eDELS5HayAn9hW6vQt8QI) | 2:51 |
 | 35 | [Pour le réveillon](https://open.spotify.com/track/6X76NCrLBhddSKT0KcaOWH) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Chic de ville \(avec "Pour le réveillon"\)](https://open.spotify.com/album/4hHQBjNa12D0rlhZLCeazr) | 3:02 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 86 | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/track/2gInVV124wC37PWHHh4DgQ) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a), [Gabrielle Shonk](https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ) | [Jusqu'à Noël \(feat\. Gabrielle Shonk\)](https://open.spotify.com/album/1m0KMWTElAIQPcQVXErqn3) | 3:24 |
 | 87 | [Lettre à Papa Noël](https://open.spotify.com/track/1uireIIloJlNEjY9YqMWf6) | [Damoizeaux](https://open.spotify.com/artist/06XE6owWsrgqBiLd9nGej9), [VoxA4](https://open.spotify.com/artist/4t3amHinUf5SzX1XfPuLIs) | [La liste de Noël](https://open.spotify.com/album/2ASFaE4IJyBMyXxd0BQ2By) | 3:59 |
 | 88 | [Noël, c’est l’amour](https://open.spotify.com/track/6yvZnqn9lpSDIiiM86cvSd) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Noël, c’est l’amour](https://open.spotify.com/album/6PO5IuWzxOJwEEb0ycOBte) | 3:35 |
-| 89 | [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 |
-| 90 | [À soir c'est Noël](https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J) | [Marc Picard](https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou) | [À soir c'est Noël](https://open.spotify.com/album/14PccyfM5layefTF0yAB1z) | 2:23 |
+| 89 | [À soir c'est Noël](https://open.spotify.com/track/30Zg9WuiTalyM3wmwiqs1J) | [Marc Picard](https://open.spotify.com/artist/2cCnSvJofd7JKMNgKVeXou) | [À soir c'est Noël](https://open.spotify.com/album/14PccyfM5layefTF0yAB1z) | 2:23 |
+| 90 | [2 janvier](https://open.spotify.com/track/1J5KgbPg32V1xDnsC3FvGm) | [Thomé Young](https://open.spotify.com/artist/5eRiFmLQGxlGnzpyG9wyIk) | [2 janvier](https://open.spotify.com/album/1Dgu995ftuXF3cStNFDXkk) | 2:47 |
 | 91 | [C'est l'hiver](https://open.spotify.com/track/3qYBK9Xs5EId22LsobGeNX) | [Marc Hervieux](https://open.spotify.com/artist/574kdGr9fdC7k7ZUOpbNb5) | [Nostalgia Noël](https://open.spotify.com/album/1H654Ne8tMzOKOAmNPUxLn) | 2:32 |
 | 92 | [Le Noël des petits santons](https://open.spotify.com/track/41fTjoBWFYikCoNm9chdVJ) | [Tino Rossi](https://open.spotify.com/artist/6DOmlxxscipUKFC3MwHsC7) | [Deluxe: Petit Papa Noël et les plus belles chansons de Noël](https://open.spotify.com/album/0j4GUlSnBkKxVMrIVEx4Vb) | 3:14 |
 | 93 | [Toi pour Noël](https://open.spotify.com/track/358of8Qu6dOkzJbyjcmOlp) | [Frédérick De Grandpré](https://open.spotify.com/artist/0MxJegOHKWGMmIrWjjAp4J) | [Un martini pour Noël](https://open.spotify.com/album/5MvSAY3oVRuSmaqRuc92VX) | 2:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 97 | [Chanson de Noël](https://open.spotify.com/track/5borCmWBLvd8FjYjJlbIIq) | [Rémi Chassé](https://open.spotify.com/artist/4ZHPSX8wbALZv186ysJ37P) | [L'étrange Noël d'Amandine et de Gédéon](https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv) | 2:13 |
 | 98 | [Chanson du rigodon](https://open.spotify.com/track/3rmSypow6s4obdwBJMwOkR) | [Guylaine Tremblay](https://open.spotify.com/artist/0xoUoGFFPr2ll9d6kXA0sq) | [L'étrange Noël d'Amandine et de Gédéon](https://open.spotify.com/album/4Dlto9hf8TyXoiX3ASO2Rv) | 2:14 |
 | 99 | [As\-tu vu le père Noël?](https://open.spotify.com/track/2jOKMjecDbuD3TE80yjtL4) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [As\-tu vu le père Noël?](https://open.spotify.com/album/6IxBQyMO6SzCQJdBYR99kv) | 1:50 |
-| 100 | [Voilà le Père Noël Boogie](https://open.spotify.com/track/3u2cX2OGfAmLVT5UI2TqD5) | [Gregory Charles](https://open.spotify.com/artist/5oZRVKPoEK2rVLYDv3ohoi) | [Voilà le Père Noël Boogie](https://open.spotify.com/album/3PBEWDjry4JccomCBvAO1S) | 3:11 |
+| 100 | [La radio me chante Noël](https://open.spotify.com/track/22huwaaCC4duxZSUXugPpJ) | [Jack Lavoie Band](https://open.spotify.com/artist/2ocfdVJ57aYAsQbyMGBIiy), [Anick Gagnon](https://open.spotify.com/artist/0x55oXaXp1JHhcc6eqRvxi), [Hervey Hovington](https://open.spotify.com/artist/7kLlafg2wLz0JInE1QkJyD), [Manon Bédard](https://open.spotify.com/artist/5JoYRYncSVvlVFogfeN2TP), [S.V\. Ray](https://open.spotify.com/artist/4ky3llEPQC8KbYZ8xTtfZo) | [La radio me chante Noël](https://open.spotify.com/album/2uCD6HjiTx60g2j9pGgURi) | 2:50 |
 
 Snapshot ID: `AAAAAPltcd7YrGx/UZe/NkfS5Aocf+I+`

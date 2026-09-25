@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Marilina Bertoldi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,098 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,103 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 19 | [Estoy Tocando Fondo](https://open.spotify.com/track/4cxq32CeMok10ICwlQwRx8) | [Viuda e Hijas de Roque Enroll](https://open.spotify.com/artist/5X7IiXMVREXSohJkJEwdef) | [Viuda e Hijas de Roque Enroll](https://open.spotify.com/album/2zskKFjyqd5SDnoUJ2Gvw9) | 2:16 |
 | 20 | [Quedate](https://open.spotify.com/track/2GjwCmMjikAagFxYFITnMF) | [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Andrea Echeverri](https://open.spotify.com/album/2OBA7deE9MjlDF4YFkr8ip) | 3:13 |
 | 21 | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/track/3eZFMz8hvp7ZjAtUwJE0pH) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Nada Salvaje \(En Vivo Estadio Obras\)](https://open.spotify.com/album/60zgn0XnSkJDP5teuPppPt) | 4:38 |
-| 22 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
-| 23 | [Sólo Quiero Rock and Roll](https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P) | [La Torre](https://open.spotify.com/artist/2OL1Rpd8YwI243JOKhC02L) | [Sólo Quiero Rock & Roll](https://open.spotify.com/album/0f7XdhLccYIYBdyOeOT5jP) | 3:55 |
+| 22 | [Sólo Quiero Rock and Roll](https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P) | [La Torre](https://open.spotify.com/artist/2OL1Rpd8YwI243JOKhC02L) | [Sólo Quiero Rock & Roll](https://open.spotify.com/album/0f7XdhLccYIYBdyOeOT5jP) | 3:55 |
+| 23 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 |
 | 24 | [Tuya](https://open.spotify.com/track/22mKcpHMIMg2bmeBMnfaz0) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [TUYA](https://open.spotify.com/album/1EHUwCiRmMRNNADQsKuiIB) | 2:54 |
 | 25 | [No Te Perdono](https://open.spotify.com/track/6VCtOmBEoVZ1vMVS7HBY4C) | [MUGRE](https://open.spotify.com/artist/2mJNVPV7WxtrVrPSddTW6V) | [No Te Perdono](https://open.spotify.com/album/5xp6MOD8RdA1KQsR1qSXN0) | 3:23 |
 | 26 | [Vivimos Lejos](https://open.spotify.com/track/4CJ1M3DIfnZwUoO5VwynLP) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Hicimos Crecer un Bosque](https://open.spotify.com/album/2wTNdmVd3HhJPMq8jBd7Vo) | 4:35 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 34 | [Coffee](https://open.spotify.com/track/1kGqlaGvaha8qOMIVO1VIX) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Coffee](https://open.spotify.com/album/2XAhGSAp42H2jDQDENR1km) | 2:29 |
 | 35 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 |
 | 36 | [Estás Borracho](https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8) | [Venus](https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh) | [El Ataque de Zorrita](https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ) | 2:38 |
-| 37 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 |
-| 38 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 |
-| 39 | [Líneas En Hojas](https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [De Facto](https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9) | 3:29 |
+| 37 | [Líneas En Hojas](https://open.spotify.com/track/0aQducLdlpix3u5yL6MfYT) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [De Facto](https://open.spotify.com/album/1hRlJMZZEZNu0ObbyL53k9) | 3:29 |
+| 38 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 |
+| 39 | [Una Película](https://open.spotify.com/track/3TIy0IH3GIA331EKFxKfdm) | [María Pien](https://open.spotify.com/artist/3hpONtG7g11sff6QbGJIfY) | [Una Película](https://open.spotify.com/album/58RLjuIJ93fInTzSvKHoIu) | 5:20 |
 | 40 | [Polvo](https://open.spotify.com/track/1qvKGVivhRg6Mmw1ARSFF7) | [Paula Maffia](https://open.spotify.com/artist/4soieU4IFUQEcYULczxzFa) | [Polvo](https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY) | 3:56 |
 | 41 | [Clavícula](https://open.spotify.com/track/3hXiJ5n6IIqTqWAtZSg90P) | [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Lucy Patané](https://open.spotify.com/album/3DBoYj1Q8vZ3Xu1k2MIO9w) | 2:49 |
 | 42 | [Mágica Intuición](https://open.spotify.com/track/2YANr9xBLVaAMWjOvbFBC0) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 3:10 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 58 | [Agitar](https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Agitar](https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ) | 2:07 |
 | 59 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
 | 60 | [Una Temporada en el Invierno](https://open.spotify.com/track/1UjHRALJEtjgXd3uKC6MnF) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Una Temporada en el Invierno](https://open.spotify.com/album/7uzp6jDrNGd5BCQGHmQVIy) | 3:56 |
-| 61 | [DOSMILUNO](https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [LOS VIEJOS CON GUITA](https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso) | 4:04 |
-| 62 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 |
+| 61 | [Génesis](https://open.spotify.com/track/2Xx1vZX9UEBnwx11RfiElg) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [La Génesis](https://open.spotify.com/album/7INDQXcbx1ybFp6flr2bah) | 4:26 |
+| 62 | [DOSMILUNO](https://open.spotify.com/track/5XsIW5AjmCGybWKQ7tYxqd) | [cata carpena](https://open.spotify.com/artist/5u13T8YAE8jmv8YRYOuGxx) | [LOS VIEJOS CON GUITA](https://open.spotify.com/album/5eTFsyL5a7d2MlIOYZRiso) | 4:04 |
 | 63 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 |
 | 64 | [Para Olvidarte](https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Para Olvidarte](https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS) | 3:05 |
 | 65 | [Vómito](https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Primera Temporada](https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk) | 2:17 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 80 | [EGO](https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [EGO](https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1) | 3:10 |
 | 81 | [Shangri\-La](https://open.spotify.com/track/1GGiCy39wduNwku8L34nWJ) | [Eva Ryjlen](https://open.spotify.com/artist/70Qg1joeoAwPXpnxpFe64w) | [Onírica](https://open.spotify.com/album/5Y3evPWiT3AnTrj4yYivef) | 3:43 |
 | 82 | [Proclama](https://open.spotify.com/track/2Rqv79JCcRTMKtQmLAMQ4W) | [Tranki Punki](https://open.spotify.com/artist/1voO7UCR96uHnMVl0uyMp7) | [Marea Negra](https://open.spotify.com/album/4iEcgpEhZvR6PcbAvBABXC) | 4:03 |
-| 83 | [Quieta](https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quieta](https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu) | 2:55 |
-| 84 | [Te agradezco el amor](https://open.spotify.com/track/46BaZ59np0gv09H31naITO) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [El lado sur de mi corazón](https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o) | 2:55 |
+| 83 | [Te agradezco el amor](https://open.spotify.com/track/46BaZ59np0gv09H31naITO) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [El lado sur de mi corazón](https://open.spotify.com/album/2Ds1yMcaZxlqq5qh3Uun8o) | 2:55 |
+| 84 | [Quieta](https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quieta](https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu) | 2:55 |
 | 85 | [Hoy No](https://open.spotify.com/track/6afh2maKkoRe5S9haYRKe3) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Hoy No](https://open.spotify.com/album/06HGb8jNMefxibsLaV02x1) | 2:07 |
 | 86 | [Denadie](https://open.spotify.com/track/6JuEz0iSyCHLCMUOM0hsY2) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Denadie](https://open.spotify.com/album/2tcipp41d0bfl5mkpWo50G) | 3:06 |
 | 87 | [Quizás Hoy](https://open.spotify.com/track/5hCPWFhFWcvTpyKptMiFvg) | [Erica García](https://open.spotify.com/artist/2VsWaJ9h1dDiy7OM1zF5DL) | [El Cerebro](https://open.spotify.com/album/41u46Ta9wrd9PekC6BVk5i) | 3:00 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 97 | [Mama, Deja Que Entren por la Ventana los Siete Mares \- Remasterizado](https://open.spotify.com/track/3i3DPWZVCywz2gy8ZwDGAQ) | [Liliana Vitale](https://open.spotify.com/artist/3lXtbYD0IVuJUKEtqBFcvF) | [Mama, Deja Que Entren por la Ventana los Siete Mares \(Remasterizado\)](https://open.spotify.com/album/3El1SCHwY7SExY3q5LdmT7) | 4:02 |
 | 98 | [La Oscuridad](https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C) | [Ati Lane](https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG) | [Miedo, Amor y Vida \- EP](https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93) | 3:36 |
 | 99 | [No Importa](https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:03 |
-| 100 | [El Oscuro](https://open.spotify.com/track/33IAWGGxxBmmVq6Raa2uoW) | [Melanie Williams](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [Comprensión1](https://open.spotify.com/album/5YNBPuFNznCRaJU2AaKPut) | 2:56 |
+| 100 | [Perro](https://open.spotify.com/track/3klpuNXDpi8PyuOZ95hn8P) | [Blanco Teta](https://open.spotify.com/artist/2jHbb2xaFQ1CjUnE8RJeWT) | [Rompe Paga](https://open.spotify.com/album/6DYe8eqt3a00JVrDiXAAdB) | 3:02 |
 
 Snapshot ID: `AAAAAC7mXEykwYUQ85T8EHLxs8ENKcRS`

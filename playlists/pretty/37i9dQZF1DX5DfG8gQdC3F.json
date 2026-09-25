@@ -1,6 +1,6 @@
 {
   "description": "The latest from Carly Rae Jepsen, GTAVI, Yeat & Drake, Miley Cyrus, ROS\u00c9, beabadoobee, Troye Sivan, Dominic Fike, and more.",
-  "num_followers": 597823,
+  "num_followers": 597820,
   "original_name": "New Music Friday Canada",
   "owner": {
     "name": "Spotify",
@@ -131,7 +131,7 @@
     {
       "added_at": "2026-09-18 04:10:30",
       "album": {
-        "name": "Small Town (feat. Gabriel Jacoby)",
+        "name": "Small Town",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
@@ -142,10 +142,14 @@
         {
           "name": "Gabriel Jacoby",
           "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town (feat. Gabriel Jacoby)",
+      "name": "Small Town",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {
@@ -997,7 +1001,7 @@
         }
       ],
       "duration_ms": 210426,
-      "name": "Cool You Down (feat. Sia)",
+      "name": "Cool You Down - feat. Sia",
       "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
     },
     {

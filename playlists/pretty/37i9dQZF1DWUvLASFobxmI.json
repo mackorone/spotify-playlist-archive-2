@@ -1,6 +1,6 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Gerardo Coronel en portada.",
-  "num_followers": 531920,
+  "num_followers": 531929,
   "original_name": "Norte\u00f1o 2026",
   "owner": {
     "name": "Spotify",
@@ -571,26 +571,6 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
-        "name": "Se Rindi\u00f3 El Amor",
-        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Amanecer",
-          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
-        },
-        {
-          "name": "Conjunto Rio Grande",
-          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
-        }
-      ],
-      "duration_ms": 153885,
-      "name": "Se Rindi\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
-    },
-    {
-      "added_at": "2026-09-18 04:02:49",
-      "album": {
         "name": "Tu Culpa",
         "url": "https://open.spotify.com/album/5xjSsGHh00cq4aUQ4oEUg6"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 174641,
       "name": "Tu Culpa",
       "url": "https://open.spotify.com/track/71fEdsATrEMneN7WtPHOKm"
+    },
+    {
+      "added_at": "2026-09-18 04:02:49",
+      "album": {
+        "name": "Se Rindi\u00f3 El Amor",
+        "url": "https://open.spotify.com/album/4SGyPxe8BQMyVVnaysr39p"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Amanecer",
+          "url": "https://open.spotify.com/artist/0wCyyn2rUtk96O0ZBzgM33"
+        },
+        {
+          "name": "Conjunto Rio Grande",
+          "url": "https://open.spotify.com/artist/2Ro0uSqcQMG6L3ZRyoDEsG"
+        }
+      ],
+      "duration_ms": 153885,
+      "name": "Se Rindi\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/4ZJs70EwkQqgEHUFq4vjtM"
     },
     {
       "added_at": "2026-09-18 04:02:49",
@@ -871,6 +871,22 @@
     {
       "added_at": "2026-09-18 04:02:49",
       "album": {
+        "name": "Millonario",
+        "url": "https://open.spotify.com/album/3Btrhs9UByKyHuutB0mssF"
+      },
+      "artists": [
+        {
+          "name": "Nueva Marca",
+          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
+        }
+      ],
+      "duration_ms": 185781,
+      "name": "Millonario",
+      "url": "https://open.spotify.com/track/0qZcNjtKS4bAJ7NllfVN4n"
+    },
+    {
+      "added_at": "2026-09-18 04:02:49",
+      "album": {
         "name": "Amor x Dosis",
         "url": "https://open.spotify.com/album/2rt2XjqNWSZuETGY8ldVny"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 170323,
       "name": "Se Pudo",
       "url": "https://open.spotify.com/track/32nsaXNbVf46f4q9A3RjK1"
-    },
-    {
-      "added_at": "2026-09-18 04:02:49",
-      "album": {
-        "name": "Millonario",
-        "url": "https://open.spotify.com/album/3Btrhs9UByKyHuutB0mssF"
-      },
-      "artists": [
-        {
-          "name": "Nueva Marca",
-          "url": "https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ"
-        }
-      ],
-      "duration_ms": 185781,
-      "name": "Millonario",
-      "url": "https://open.spotify.com/track/0qZcNjtKS4bAJ7NllfVN4n"
     },
     {
       "added_at": "2026-09-18 04:02:49",

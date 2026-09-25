@@ -2,7 +2,7 @@
 
 ### [Verano 2026](https://open.spotify.com/playlist/37i9dQZF1DX9gKTxAbfFfX)
 
-> Tu banda sonora de este verano\. Foto: rusowsky, KAROL G, Judeline.
+> Tu banda sonora de este verano\. Foto: Quevedo.
 
 412 songs - 22 hr 4 min
 

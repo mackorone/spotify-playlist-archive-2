@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "PH vibin' cover: Ace Banzuelo",
+  "description": "PH vibin' cover: Bert Symoun",
   "name": "Pinas Vibes ",
   "tracks": [
     {
@@ -2857,6 +2857,24 @@
     },
     {
       "album": {
+        "name": "Forget About You",
+        "url": "https://open.spotify.com/album/7rLEC6m9GHYtbPrDHgm6tT"
+      },
+      "artists": [
+        {
+          "name": "Kiana V",
+          "url": "https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153786,
+      "name": "Forget About You",
+      "url": "https://open.spotify.com/track/5x9vgUKdeIi5JUjMwB79yz"
+    },
+    {
+      "album": {
         "name": "Fresh",
         "url": "https://open.spotify.com/album/5yheeQ4CUdkQ6gLjC8K9dM"
       },
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 141818,
       "name": "GET 2 KNOW U",
       "url": "https://open.spotify.com/track/1L9hGUkEa141Z76qe4kdEl"
@@ -5662,7 +5680,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 189530,
       "name": "Luxury",
       "url": "https://open.spotify.com/track/7idEHlCj01BJDu5mMpcAwA"
@@ -6574,6 +6592,28 @@
       "duration_ms": 125482,
       "name": "normalgirlremix",
       "url": "https://open.spotify.com/track/5M06rVM2S3HC3EFhgBDN89"
+    },
+    {
+      "album": {
+        "name": "Not Yet",
+        "url": "https://open.spotify.com/album/0SuE02809JFBwuJZQPfEuW"
+      },
+      "artists": [
+        {
+          "name": "NJ",
+          "url": "https://open.spotify.com/artist/4XWvCCHZE2UL68R0XpPUbF"
+        },
+        {
+          "name": "RCHRD",
+          "url": "https://open.spotify.com/artist/3XEPhTiqZhOcAyueu5DlmO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234782,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/7IzNN4Gs6dfdxj9rpojhdH"
     },
     {
       "album": {
@@ -8688,7 +8728,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 192059,
       "name": "Sinungaling",
       "url": "https://open.spotify.com/track/38if6aDHxB3HIzmMKpRM5C"
@@ -8714,6 +8754,24 @@
       "duration_ms": 221798,
       "name": "Skywalker",
       "url": "https://open.spotify.com/track/15IoTmtaBamQBIP6l7RAYg"
+    },
+    {
+      "album": {
+        "name": "Slide My Way",
+        "url": "https://open.spotify.com/album/3wyGxGI67TvMup91lAFHsG"
+      },
+      "artists": [
+        {
+          "name": "Will Mikhael",
+          "url": "https://open.spotify.com/artist/13dw9nAz9MLBNwWVOsxHWP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Slide My Way",
+      "url": "https://open.spotify.com/track/338hGz0xZZaBox9FNHo8jB"
     },
     {
       "album": {
@@ -9016,6 +9074,24 @@
       "duration_ms": 196363,
       "name": "Sugar n' Spice",
       "url": "https://open.spotify.com/track/68GGwBrzj5PEe4nbltGuda"
+    },
+    {
+      "album": {
+        "name": "Sukli",
+        "url": "https://open.spotify.com/album/6Aef18FExbKeiinEd1ffvi"
+      },
+      "artists": [
+        {
+          "name": "Bert Symoun",
+          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198584,
+      "name": "Sukli",
+      "url": "https://open.spotify.com/track/0mddd11RsFyoaRXMDYAnEX"
     },
     {
       "album": {
@@ -9338,7 +9414,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 238285,
       "name": "There, There",
       "url": "https://open.spotify.com/track/5fnRmmu0VYact0wMvpaV8h"

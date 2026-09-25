@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Anna Vissi",
+  "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Akylas",
   "name": "Greek Pop",
   "tracks": [
     {
@@ -982,7 +982,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 123913,
       "name": "ASTO",
       "url": "https://open.spotify.com/track/6f0rmYIVJzuDnZcKocYC0z"
@@ -1200,7 +1200,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 154400,
       "name": "Ballaro Xana",
       "url": "https://open.spotify.com/track/2imtO14NPFxuiHIRXPvo3J"
@@ -1460,6 +1460,24 @@
       "duration_ms": 147222,
       "name": "COSMOS",
       "url": "https://open.spotify.com/track/3zHFS2L68Tj5JOJaw6ssso"
+    },
+    {
+      "album": {
+        "name": "Dahtilidi",
+        "url": "https://open.spotify.com/album/1YSKjFaYent035f113MNte"
+      },
+      "artists": [
+        {
+          "name": "Josephine",
+          "url": "https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179832,
+      "name": "Dahtilidi",
+      "url": "https://open.spotify.com/track/3quJQM5K6KANsLnr0X78qB"
     },
     {
       "album": {
@@ -1843,6 +1861,24 @@
     },
     {
       "album": {
+        "name": "Efkola Kleo Teleftea",
+        "url": "https://open.spotify.com/album/61vKal4bgQQfkBxTvLHxff"
+      },
+      "artists": [
+        {
+          "name": "Christos Dantis",
+          "url": "https://open.spotify.com/artist/1TKXk9QDdArvRAKdW2sMyc"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225746,
+      "name": "Efkola Kleo Teleftea",
+      "url": "https://open.spotify.com/track/7eXeRGuctQtavsqRrE7F69"
+    },
+    {
+      "album": {
         "name": "Eimai Gunaika",
         "url": "https://open.spotify.com/album/6GrpUFuJGnoA2T9SQhENUu"
       },
@@ -2114,6 +2150,24 @@
       "duration_ms": 181333,
       "name": "Erotas Skoteinos",
       "url": "https://open.spotify.com/track/5z6ZEbRBSaOdrDV8qdh4rv"
+    },
+    {
+      "album": {
+        "name": "Esena I Tipota",
+        "url": "https://open.spotify.com/album/5d6wtAgMc62oVAXtYCq14i"
+      },
+      "artists": [
+        {
+          "name": "Stelios Rokkos",
+          "url": "https://open.spotify.com/artist/01GDS9NmGwhzHm2VjbZFcG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237731,
+      "name": "Esena I Tipota",
+      "url": "https://open.spotify.com/track/60jhmQaIFfvKwQnT4joR1F"
     },
     {
       "album": {
@@ -3277,6 +3331,24 @@
     },
     {
       "album": {
+        "name": "KALSON SKISMENA",
+        "url": "https://open.spotify.com/album/1JLmOMmmiQLm9DjZri44B2"
+      },
+      "artists": [
+        {
+          "name": "aggelina",
+          "url": "https://open.spotify.com/artist/7xxXL3L6Nz2MkXUavA40Hq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176750,
+      "name": "KALSON SKISMENA",
+      "url": "https://open.spotify.com/track/5JF1lgvgGvO4XtOJrBEHOb"
+    },
+    {
+      "album": {
         "name": "Kapou Allou",
         "url": "https://open.spotify.com/album/5yMhsJ12NILXekDWJbfx6L"
       },
@@ -3318,7 +3390,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180000,
       "name": "KARALHO",
       "url": "https://open.spotify.com/track/1vTAwpWr8qOtFM7pfMw6wM"
@@ -3905,6 +3977,24 @@
     },
     {
       "album": {
+        "name": "Mazi Ki Antitheta",
+        "url": "https://open.spotify.com/album/6woQnb2da81Dfui9LRSemo"
+      },
+      "artists": [
+        {
+          "name": "Akylas",
+          "url": "https://open.spotify.com/artist/0ryXG4cu4Ac81CojYsKcTL"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157934,
+      "name": "Mazi Ki Antitheta",
+      "url": "https://open.spotify.com/track/2khh4LozGAaZ6fUyqp8Ofc"
+    },
+    {
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2JW2g7KxgwI7udpgferDSM"
       },
@@ -4262,7 +4352,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 152340,
       "name": "NEVRA S3X STRESS",
       "url": "https://open.spotify.com/track/2f9lwB6SpNuOYkESI3wbpj"
@@ -5111,6 +5201,32 @@
     },
     {
       "album": {
+        "name": "Pulp Fiction",
+        "url": "https://open.spotify.com/album/7hexRRKeti0eNJ1WuW4XSq"
+      },
+      "artists": [
+        {
+          "name": "Hawk",
+          "url": "https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw"
+        },
+        {
+          "name": "Eleni Foureira",
+          "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+        },
+        {
+          "name": "Baghdad",
+          "url": "https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147571,
+      "name": "Pulp Fiction",
+      "url": "https://open.spotify.com/track/0ZKnuQTMBuxQRRf7IwLjpp"
+    },
+    {
+      "album": {
         "name": "Rebetiko",
         "url": "https://open.spotify.com/album/5vbHVcCQ2492sXESGmjdWd"
       },
@@ -5282,7 +5398,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 210476,
       "name": "Say My Name (The Riddle)",
       "url": "https://open.spotify.com/track/21I7tYAMKAf4nizvkdX4hY"
@@ -5746,7 +5862,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 155368,
       "name": "Thelw Toso Na Se Dw",
       "url": "https://open.spotify.com/track/1ajWbZobyrOEcPBUb9s2HK"

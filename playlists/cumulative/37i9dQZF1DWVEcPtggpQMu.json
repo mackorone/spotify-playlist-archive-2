@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap. \nCover: Espiquet",
+  "description": "Only the hottest South African rap. \nCover: KindlyNxsh",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -5974,7 +5974,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 203530,
       "name": "eGoli",
       "url": "https://open.spotify.com/track/3UKUesD3zj9w1WBbfeYpDp"
@@ -19260,6 +19260,24 @@
       "duration_ms": 213333,
       "name": "Shoda Ngami - Remix",
       "url": "https://open.spotify.com/track/2W0F1H8Ef34utPdWIzdIsw"
+    },
+    {
+      "album": {
+        "name": "SHONA MAN",
+        "url": "https://open.spotify.com/album/0Tzh38zIRMuPIg48SLSSzZ"
+      },
+      "artists": [
+        {
+          "name": "KindlyNxsh",
+          "url": "https://open.spotify.com/artist/10G2iWM2FoafpNGqXZ9QMR"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Shona Man",
+      "url": "https://open.spotify.com/track/0BtjAI4PaNbU5Df0RUmdhQ"
     },
     {
       "album": {

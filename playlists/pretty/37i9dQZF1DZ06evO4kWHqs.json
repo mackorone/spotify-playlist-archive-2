@@ -1,12 +1,12 @@
 {
   "description": "This is SadBoi. The essential tracks, all in one playlist.",
-  "num_followers": 450,
+  "num_followers": 451,
   "original_name": "This Is SadBoi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAv9E+DcR/sJFAZ0tteDfO3",
+  "snapshot_id": "arMWgAAAAABVQLOn3cPn0kmJVKVgaRVT",
   "tracks": [
     {
       "added_at": null,
@@ -111,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUMMY",
-        "url": "https://open.spotify.com/album/5WnOY9rpvxdLsigpwJpCO0"
-      },
-      "artists": [
-        {
-          "name": "Parris Goebel",
-          "url": "https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 128278,
-      "name": "DUMMY",
-      "url": "https://open.spotify.com/track/40iOzuzKxg6pBiNRpudtoq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rice Bowl",
         "url": "https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 186666,
       "name": "Rice Bowl",
       "url": "https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUMMY",
+        "url": "https://open.spotify.com/album/5WnOY9rpvxdLsigpwJpCO0"
+      },
+      "artists": [
+        {
+          "name": "Parris Goebel",
+          "url": "https://open.spotify.com/artist/14xvX9sPfTyGqxTXuEOHib"
+        },
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 128278,
+      "name": "DUMMY",
+      "url": "https://open.spotify.com/track/40iOzuzKxg6pBiNRpudtoq"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "were all the ig girls worth it?",
+        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 125397,
+      "name": "blaming me",
+      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Me Back",
         "url": "https://open.spotify.com/album/3uZwtg8ZGEzNlVDcJuRMfa"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 176602,
       "name": "Call Me Back",
       "url": "https://open.spotify.com/track/7pqABmG9d2EXsBmXtE6221"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "were all the ig girls worth it?",
-        "url": "https://open.spotify.com/album/6uWFHUANC7gDHb0Ytv6OTx"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 125397,
-      "name": "blaming me",
-      "url": "https://open.spotify.com/track/77A3hbvlWZ27EmRa0ZJFaz"
     },
     {
       "added_at": null,
@@ -839,6 +839,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gyal Clown",
+        "url": "https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 136888,
+      "name": "Gyal Clown",
+      "url": "https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "DRY CRY",
         "url": "https://open.spotify.com/album/5pwj3YHIe3Yr008miPS5O6"
       },
@@ -859,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gyal Clown",
-        "url": "https://open.spotify.com/album/1Got83XMepM9n4AS4AwT6h"
+        "name": "whose fault",
+        "url": "https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz"
       },
       "artists": [
         {
@@ -868,9 +884,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 136888,
-      "name": "Gyal Clown",
-      "url": "https://open.spotify.com/track/4KGBCy1x03LIG3YG07JhuP"
+      "duration_ms": 126168,
+      "name": "whose fault",
+      "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
     },
     {
       "added_at": null,
@@ -891,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "whose fault",
-        "url": "https://open.spotify.com/album/6vyMro0Iy40nk9Y1ZdtEaz"
+        "name": "LIE LIE LIE!",
+        "url": "https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS"
       },
       "artists": [
         {
@@ -900,9 +916,9 @@
           "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
         }
       ],
-      "duration_ms": 126168,
-      "name": "whose fault",
-      "url": "https://open.spotify.com/track/2jiqncSuSFEoo7pxrA2aT1"
+      "duration_ms": 148860,
+      "name": "LIE LIE LIE!",
+      "url": "https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH"
     },
     {
       "added_at": null,
@@ -919,22 +935,6 @@
       "duration_ms": 149333,
       "name": "nana",
       "url": "https://open.spotify.com/track/3PfDnS3vZIEse1F14LJnlj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIE LIE LIE!",
-        "url": "https://open.spotify.com/album/2NnP52zmXOENLm19DojzmS"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 148860,
-      "name": "LIE LIE LIE!",
-      "url": "https://open.spotify.com/track/0pAQYA3DItRcxctQCGM2AH"
     },
     {
       "added_at": null,

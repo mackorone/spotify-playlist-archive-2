@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 
 > Dive into the women of folk and roots music—from Americana icons to roots rock, singer\-songwriter, and indie\-folk favorites\. Cover: Aldous Harding
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,075 likes - 150 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,106 likes - 150 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIcimvN18p3.md) - [plain]
 | 27 | [Speed of the Sound of Loneliness](https://open.spotify.com/track/4wESSHqChrl4kwWmZ6otXc) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [Other Voices, Other Rooms](https://open.spotify.com/album/7f6KnLDGh7SlqLPSpMLjEE) | 4:20 |
 | 28 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 |
 | 29 | [Freight Train](https://open.spotify.com/track/5UlokrsKgBObpODBXwTW0B) | [Elizabeth Cotten](https://open.spotify.com/artist/1eTZGzLkukATM7FoGltyFs) | [Freight Train and Other North Carolina Folk Songs and Tunes](https://open.spotify.com/album/37QSIS1QNLCfRvC3OUcqgd) | 2:46 |
-| 30 | [House Of The Rising Sun](https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:56 |
-| 31 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
+| 30 | [Star Witness](https://open.spotify.com/track/17fWdcSAhLc6559youmLap) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Fox Confessor Brings The Flood \(Bonus Track Version\)](https://open.spotify.com/album/5yIiFmVkza1N3ddMtftxIZ) | 5:16 |
+| 31 | [House Of The Rising Sun](https://open.spotify.com/track/3AuVZyDw1VhjjLfHZR4ba3) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez](https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho) | 2:56 |
 | 32 | [Jersey Giant](https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Jersey Giant](https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO) | 4:26 |
 | 33 | [Send in the Clowns](https://open.spotify.com/track/3evTbfCtMxbUwTQIn7QOcG) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judith](https://open.spotify.com/album/2P9EqaNiGfiYweANVtt0Ry) | 4:00 |
 | 34 | [Don't Forget Me](https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ) | 4:25 |

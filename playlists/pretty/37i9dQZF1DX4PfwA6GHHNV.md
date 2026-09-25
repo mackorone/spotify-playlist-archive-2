@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,480 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,482 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 32 | [Me Balança Toda](https://open.spotify.com/track/0RILtthfBvGM3FpX7GkI4p) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Dreebeatmaker](https://open.spotify.com/artist/1dErfzWzRA1g7wtNmfsV21) | [Grande](https://open.spotify.com/album/1eUicFF5r32q4NLYguMtiW) | 3:54 |
 | 33 | [Soul da Noite.](https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [LilBoy Bruce](https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn) | [Guetto Wave’s](https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C) | 3:13 |
 | 34 | [Segredo](https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Dengo](https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L) | 4:05 |
-| 35 | [Rolls Royce](https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Rolls Royce](https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg) | 2:29 |
-| 36 | [Cê Decide](https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ) | [Scardinni](https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO) | [Cê Decide](https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX) | 1:56 |
+| 35 | [Cê Decide](https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ) | [Scardinni](https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO) | [Cê Decide](https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX) | 1:56 |
+| 36 | [Rolls Royce](https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Rolls Royce](https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg) | 2:29 |
 | 37 | [Só pra você](https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:47 |
 | 38 | [Blues](https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Blues](https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN) | 2:44 |
 | 39 | [Fatal](https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Fatal](https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4) | 2:24 |

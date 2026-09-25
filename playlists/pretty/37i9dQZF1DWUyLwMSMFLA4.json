@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Asadito a pura cumbia con toques de cuarteto!",
-  "num_followers": 657930,
+  "num_followers": 657975,
   "original_name": "Asadito Cumbiero",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 195644,
-      "name": "Y Dime",
-      "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 196360,
       "name": "Eres",
       "url": "https://open.spotify.com/track/3Bak7CHM2RlfkuhCSDfoAj"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 195644,
+      "name": "Y Dime",
+      "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -931,22 +931,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Muero por Ti",
         "url": "https://open.spotify.com/album/5HsMAwmKL4scPfwIiDEbNj"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 236840,
       "name": "Muero por T\u00ed",
       "url": "https://open.spotify.com/track/2d9l94V66SgMgvOu0DKdwl"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
+        "name": "B\u00e9same",
+        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
+      },
+      "artists": [
+        {
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Lira",
+          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "B\u00e9same",
+      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
         "name": "Montevideo 418",
         "url": "https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 185142,
       "name": "Amor De Chat - Remix",
       "url": "https://open.spotify.com/track/3XfKWVuM7egYc2cMdCOyNX"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
-        "name": "B\u00e9same",
-        "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
-      },
-      "artists": [
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Lira",
-          "url": "https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "B\u00e9same",
-      "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "Con S\u00edndrome de Abstinencia",
-        "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
-      },
-      "artists": [
-        {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Berretines de Verduga",
-      "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
         "name": "Mensajeros del Amor",
         "url": "https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6"
       },
@@ -1555,34 +1539,18 @@
     {
       "added_at": "2026-08-07 13:45:51",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+        "name": "Con S\u00edndrome de Abstinencia",
+        "url": "https://open.spotify.com/album/7i95yEmVhQq9CaBpwBF2hJ"
       },
       "artists": [
         {
-          "name": "Los Del Maranaho",
-          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+          "name": "Los Gedes",
+          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
         }
       ],
-      "duration_ms": 193853,
-      "name": "Te Tengo que Olvidar",
-      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
-    },
-    {
-      "added_at": "2026-08-07 13:45:51",
-      "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "Te extra\u00f1o",
-      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+      "duration_ms": 176973,
+      "name": "Berretines de Verduga",
+      "url": "https://open.spotify.com/track/0admIwLf8RAXI1l6RyNgh4"
     },
     {
       "added_at": "2026-08-07 13:45:51",
@@ -1603,6 +1571,38 @@
       "duration_ms": 121303,
       "name": "Coincidir",
       "url": "https://open.spotify.com/track/6lUAXi3L4SzK1bTym888wq"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "Te extra\u00f1o",
+      "url": "https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ"
+    },
+    {
+      "added_at": "2026-08-07 13:45:51",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/3kn66sUZHDEcTHGZBOo26n"
+      },
+      "artists": [
+        {
+          "name": "Los Del Maranaho",
+          "url": "https://open.spotify.com/artist/4pPaTS0Is7K9pHjgp5Pdgs"
+        }
+      ],
+      "duration_ms": 193853,
+      "name": "Te Tengo que Olvidar",
+      "url": "https://open.spotify.com/track/6V1Lh57Dlkf6aQrRC3tAO7"
     },
     {
       "added_at": "2026-08-07 13:45:51",

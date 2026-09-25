@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-438 songs - 1 day 2 hr 16 min
+440 songs - 1 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,10 +209,11 @@
 | [If We Were Vampires](https://open.spotify.com/track/1GffRISfxWmLTwWlN13qLE) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [Four Little Songs](https://open.spotify.com/album/6Ds0b3VYhaYtxztw5hh5pJ) | 3:25 | 2025-10-02 | 2026-05-27 |
 | [Imogen](https://open.spotify.com/track/5AMPtDJZdL1Ox7SJpd5Eyb) | [Embla and the Karidotters](https://open.spotify.com/artist/1n3qjPEPKXcQjHVwlfcagR) | [Imogen](https://open.spotify.com/album/1sFFl6mCPNcoT4Bd33UHin) | 3:30 | 2026-01-15 | 2026-02-27 |
 | [Imposter](https://open.spotify.com/track/7aqZhafy8ORlgO7wHYixFO) | [Tommy Tokyo](https://open.spotify.com/artist/5s3vQbwoPdhIvMffVJbOya) | [Imposter](https://open.spotify.com/album/3cer7gQMvhKVZKcMc45sbA) | 3:57 | 2022-07-07 | 2022-12-24 |
-| [In a Dream](https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [In a Dream](https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO) | 3:16 | 2026-05-14 |  |
+| [In a Dream](https://open.spotify.com/track/77Ez9vfUm0Hyb4BbCJOG6I) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [In a Dream](https://open.spotify.com/album/5uPxm7BWG7FTtih1lcS8MO) | 3:16 | 2026-05-14 | 2026-09-25 |
 | [In The Silence](https://open.spotify.com/track/4Pyg2i2ZSUriQh5QuuBs0y) | [Everything We're Not](https://open.spotify.com/artist/55aF2K7WSCptXLM1vmObKz), [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [In The Silence](https://open.spotify.com/album/2EnpffXCERRVc6ZkJgddmL) | 2:47 | 2023-06-08 | 2024-01-12 |
 | [Indigo](https://open.spotify.com/track/24kGDYThFy7mvzB5pjtYqE) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Indigo](https://open.spotify.com/album/3BTsko3eP7ONxcyTT1ott4) | 3:18 | 2024-05-23 | 2025-02-28 |
 | [Innocent](https://open.spotify.com/track/0PSSz0R58WstAQk7Ui0GUs) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Innocent](https://open.spotify.com/album/42JWTAWXnwJx0Qmdcvpy6u) | 2:36 | 2024-03-04 | 2025-05-11 |
+| [It Won't Change Anything](https://open.spotify.com/track/6nGwy3SRY37YtQgF35Zxrc) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [It Won't Change Anything](https://open.spotify.com/album/48FtnMgZUyYZdNMSboDuOr) | 4:33 | 2026-09-24 |  |
 | [I´m Not Your Girl](https://open.spotify.com/track/6ieR62VPMIZGOwB8LeO9Th) | [Emma Nilsdotter](https://open.spotify.com/artist/2AAJ99uA6YnG8XgqBmFDnd), [Frida Öhrn](https://open.spotify.com/artist/29QsRvznF9E1oeAZFrhTfq) | [I´m Not Your Girl](https://open.spotify.com/album/5XrQYpeiUCIYZ6GgF4YzL6) | 3:40 | 2024-03-07 | 2024-05-12 |
 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 | 2026-02-12 |  |
 | [June](https://open.spotify.com/track/4pduaq2UnV1fpgevorNxAv) | [Mathias Gundhus](https://open.spotify.com/artist/6PURFnZQmtTtjlraMNaHW7) | [June](https://open.spotify.com/album/4nNRxS6sgZOa7o96KfyIRM) | 3:38 | 2022-07-14 | 2022-10-25 |
@@ -380,6 +381,7 @@
 | [TIMEWONTMAKEYOUMINE](https://open.spotify.com/track/2nalYgJsYW5lTezoDol3EP) | [Frederik Valentin](https://open.spotify.com/artist/5xmip7jwRD4w1n5z7J0m5Y) | [UNFINISHEDLOVESONGS](https://open.spotify.com/album/2z5sAmKwxKdPzvBWftqVSS) | 2:58 | 2026-06-25 | 2026-08-21 |
 | [To Know A Girl](https://open.spotify.com/track/1Wym8u72A2GXzdJnr1LV37) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [To Know A Girl](https://open.spotify.com/album/6KnpVvB8AeJmxnVSscHgOg) | 2:01 | 2026-04-23 |  |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-06 | 2026-04-13 |
+| [Track 1](https://open.spotify.com/track/06nuQASic35njbk01mB2KY) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [Come Through](https://open.spotify.com/album/5wImEZqtE1LBsRGEbrzKSS) | 0:00 | 2026-09-24 |  |
 | [Tranøy fyr](https://open.spotify.com/track/1ZiY38qhaI4HF6lilr2FV8) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Tranøy fyr](https://open.spotify.com/album/6VdthuopHQGNXLcCH5Vwjy) | 3:56 | 2022-01-06 | 2024-01-19 |
 | [Turning Onto You](https://open.spotify.com/track/4tl5Knezh7Qohx4TWgJFpP) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Turning Onto You](https://open.spotify.com/album/19IxPhDOBKzybB79cFUNnF) | 3:21 | 2022-09-29 | 2026-07-31 |
 | [UFO](https://open.spotify.com/track/32scuBdePLY3o4ZwJDWLRR) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [UFO](https://open.spotify.com/album/21f17oQynU60lyfT0wjj8U) | 3:00 | 2024-05-23 |  |
@@ -397,7 +399,7 @@
 | [Vil bare henge med](https://open.spotify.com/track/30Nq4NwgIXECwHdaRYvLUu) | [Daniela Reyes](https://open.spotify.com/artist/68fwnXPTQaiMV7rKvSkTYQ) | [Vil bare henge med](https://open.spotify.com/album/3lfeYZ7YxGQo3FqQ3mvnNU) | 2:23 | 2026-05-14 | 2026-06-09 |
 | [Vinyl and a Heartache](https://open.spotify.com/track/4Cvj1Q6S7FktJwwkJLaS9V) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Vinyl and a Heartache](https://open.spotify.com/album/2xvl46LPQ9xmyj6Z2M9FB9) | 3:51 | 2021-12-02 | 2022-04-21 |
 | [Vulnerable](https://open.spotify.com/track/3lCDch1ZQ7LThCk73gHjBd) | [Oklahoma](https://open.spotify.com/artist/5Z7ieWTfU3i06MVBgT6Cow) | [Vulnerable](https://open.spotify.com/album/1TFFXYhwLKAiRV3tSBEfLS) | 3:14 | 2025-04-10 | 2025-11-19 |
-| [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 | 2023-05-04 |  |
+| [vár](https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P) | [vár](https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF) | 3:51 | 2023-05-04 | 2026-09-25 |
 | [Waiting](https://open.spotify.com/track/2KcQh6QnfN40xDTatsybsG) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/6H8XTjfJNrNohKU7RB67JI) | 3:04 | 2023-02-16 | 2024-04-19 |
 | [Waiting](https://open.spotify.com/track/4uVC8WydYHDmemPeYov9rZ) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [EPII \(+ Skisser EP\)](https://open.spotify.com/album/4WQf5Do7ASTXKeaRjnzgm9) | 3:04 | 2022-07-14 | 2023-02-25 |
 | [Waiting](https://open.spotify.com/track/7eClkLWbrr3TorYedzaDkI) | [Alice Boman](https://open.spotify.com/artist/3WiytRnvoL0kT3oAGl9TCt) | [Skisser](https://open.spotify.com/album/5Ni787cuufFVfQAif3M68j) | 3:04 | 2021-12-02 | 2022-07-28 |

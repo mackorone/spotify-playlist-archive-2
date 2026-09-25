@@ -4,7 +4,7 @@
 
 > welcome to our universe ft\. miley cyrus
 
-1,342 songs - 2 day 18 hr 24 min
+1,343 songs - 2 day 18 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,6 +417,7 @@
 | [Fearless](https://open.spotify.com/track/1ouWNCUOwqv5FnHLj4QnSr) | [PRESIDENT](https://open.spotify.com/artist/40nPYop0FOD9Syyu5y4dAU) | [Fearless](https://open.spotify.com/album/0WQV8UEGE6lOvPddNRLxnC) | 3:35 | 2025-06-05 | 2026-07-24 |
 | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH) | 2:13 | 2023-06-08 | 2023-08-11 |
 | [Feeling Real](https://open.spotify.com/track/6IkYA0dbroawavF0Evlg1G) | [cursetheknife](https://open.spotify.com/artist/4BmrwEGjJ60tg79uY4OjRA) | [Thank You For Being Here](https://open.spotify.com/album/3AzJBugrWkQKyStVbKqX4C) | 5:13 | 2022-04-19 | 2022-08-19 |
+| [fever dream](https://open.spotify.com/track/0RkGXPK7gU68W5buwhag6Y) | [RinRin](https://open.spotify.com/artist/4O4yXhwbHmxOv9csGeu6qq) | [fever dream](https://open.spotify.com/album/26oZIiwP7d2HTvhFfmBC4r) | 2:52 | 2026-09-23 |  |
 | [Fight](https://open.spotify.com/track/0r8pHxNmHzxaRj7WS8p4I4) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Fight](https://open.spotify.com/album/0uG568JEwPF9ka223nxL66) | 3:11 | 2024-06-06 | 2024-06-28 |
 | [Fighting Fate](https://open.spotify.com/track/4PNPN7lA1UMYbKtTco1JtB) | [Yung'cid](https://open.spotify.com/artist/1It5FG5hReUrQInrg7Be1Q), [Baby Doll](https://open.spotify.com/artist/4htyNjCI51sL6pterwxVCq) | [Fighting Fate](https://open.spotify.com/album/7nFQVDz1vhFcxnnr3ylX5K) | 3:09 | 2022-08-11 | 2022-08-26 |
 | [Figure It Out](https://open.spotify.com/track/2OsrAgl3HdZgPv1ni0NiZT) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Figure It Out](https://open.spotify.com/album/67AmAQx1U7G3Ys8GOj3tC5) | 2:49 | 2024-06-21 | 2024-08-23 |

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 
 > This is Sasha Keable\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,002 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,117 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NIGHT OFF](https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [NIGHT OFF](https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB) | 2:53 |
-| 2 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
+| 1 | [tell me what you want](https://open.spotify.com/track/72fSEYOXmccGvk5GjiNtKX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [tell me what you want](https://open.spotify.com/album/45dogBUITG47dD11ydydgz) | 3:56 |
+| 2 | [NIGHT OFF](https://open.spotify.com/track/7c3YkPGBLWhqhLwbUHSInq) | [Isaiah Falls](https://open.spotify.com/artist/0ocxWXtgr9tJW60xV5ZufT), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [NIGHT OFF](https://open.spotify.com/album/0xHjdCVcRbdQvwT42ieEAB) | 2:53 |
 | 3 | [REPLICA \(feat\. Sasha Keable\)](https://open.spotify.com/track/1ZsfLZkWw8KgcwPIp6sseQ) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [BELOVED: ACT II](https://open.spotify.com/album/5qUp79PAejWMSXh0l04Zy9) | 3:34 |
 | 4 | [WHY](https://open.spotify.com/track/5bCWjEsrK0KUGMxPrjGJZg) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY](https://open.spotify.com/album/6G28CiddecjJd2TvODkoVR) | 2:59 |
 | 5 | [AUCTION](https://open.spotify.com/track/1yhFfvsXLCagHMJuPZllJD) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [AUCTION](https://open.spotify.com/album/3kwxfS6aFImHEPU3XW85CU) | 3:20 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4BSj6z.md) - [plain]
 | 41 | [Sweetest Talk](https://open.spotify.com/track/5faA5gSW8Yrpp3pxrhuzEn) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:22 |
 | 42 | [WHY \- Remix](https://open.spotify.com/track/7ENtzFdzmKM0xNvlb4Sgus) | [Rent "EM" Spoons](https://open.spotify.com/artist/5J3qQ4tHPWRBcXVj5lyaA1), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [WHY \(Remix\)](https://open.spotify.com/album/5MB4OfXtNGygUM3L4h7ATU) | 3:42 |
 | 43 | [Put Your Love On Me \- Stylo G Mix](https://open.spotify.com/track/7oo0Qh2os8dcR5mhFUmZ5r) | [Diztortion](https://open.spotify.com/artist/35vjmhmFFVoYLg4gPJBvEV), [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [Put Your Love On Me \(Stylo G Mix\)](https://open.spotify.com/album/41BZcJBiIZCXoBclGYUHaj) | 3:07 |
-| 44 | [Asking For More](https://open.spotify.com/track/1ntJgWD4ep3UsfgzLUTf0U) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:08 |
-| 45 | [Living Without You](https://open.spotify.com/track/65eH29VKJ1qN6bR7dlgCEZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:17 |
-| 46 | [Tempting As You Are](https://open.spotify.com/track/5XLIhPjfiKJ6MPFR3djTjh) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:48 |
-| 47 | [Memory](https://open.spotify.com/track/2qe9NvP8qqRydUeiruYEnC) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:55 |
-| 48 | [Careless Over You](https://open.spotify.com/track/3Sz3IZZzkH4h1h1ZJghbVw) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:24 |
+| 44 | [Careless Over You](https://open.spotify.com/track/3Sz3IZZzkH4h1h1ZJghbVw) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:24 |
+| 45 | [Memory](https://open.spotify.com/track/2qe9NvP8qqRydUeiruYEnC) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:55 |
+| 46 | [Asking For More](https://open.spotify.com/track/1ntJgWD4ep3UsfgzLUTf0U) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:08 |
+| 47 | [Living Without You](https://open.spotify.com/track/65eH29VKJ1qN6bR7dlgCEZ) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 3:17 |
+| 48 | [Tempting As You Are](https://open.spotify.com/track/5XLIhPjfiKJ6MPFR3djTjh) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 4:48 |
 | 49 | [6”4](https://open.spotify.com/track/7boMN3cAF46JnICNllvhJX) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Lemongrass And Limeleaves](https://open.spotify.com/album/2nczM6I5ehnQlf2whl0bXA) | 4:20 |
 | 50 | [Daydreamer](https://open.spotify.com/track/7pClETnYn1YVsA3WbsWHv8) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Black Book](https://open.spotify.com/album/0ylP12TSs6ydmXtCRVIF6V) | 3:09 |
 
-Snapshot ID: `arHFAAAAAABYPnYKRrw+WCUBRhT30WPq`
+Snapshot ID: `arMWgAAAAADAVChrEaL8a9ElvdrC4hzc`

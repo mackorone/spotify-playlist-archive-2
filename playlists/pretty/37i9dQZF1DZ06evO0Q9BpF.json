@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 51763,
+  "num_followers": 51772,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABWqnUQfDAyMbX1L20zMjLK",
+  "snapshot_id": "arMWgAAAAAASUZT39+Z4OUZ4q8cpDepD",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 446302,
+      "name": "Con Brazos Abiertos - En Vivo",
+      "url": "https://open.spotify.com/track/3Og3dkJvDjAUlwihT6rTPD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ah\u00ed Est\u00e1s T\u00fa",
         "url": "https://open.spotify.com/album/2K5rtCHSjK6ndYbdkN49oU"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 356200,
       "name": "Ah\u00ed Est\u00e1s T\u00fa",
       "url": "https://open.spotify.com/track/5BcAuMkQLkmh1V4NWtJA7q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 446302,
-      "name": "Con Brazos Abiertos - En Vivo",
-      "url": "https://open.spotify.com/track/3Og3dkJvDjAUlwihT6rTPD"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 612133,
-      "name": "Todo Lo Haces Nuevo",
-      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
         "url": "https://open.spotify.com/album/4SwxEpsxZpn0VMQy569y8c"
       },
@@ -591,6 +571,22 @@
       "duration_ms": 564281,
       "name": "Yo Me Rindo a \u00c9l (Si Te Tengo a Ti)",
       "url": "https://open.spotify.com/track/7JVhj6oOsmPXjKz2c99zzg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
+        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 214465,
+      "name": "Lo Perd\u00ed Todo - En Vivo",
+      "url": "https://open.spotify.com/track/1CiN6OT93p98d1DOcvgoJ0"
     },
     {
       "added_at": null,
@@ -623,24 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed (En Vivo)",
-        "url": "https://open.spotify.com/album/4HCRXhbFIH2jaY45Yf9Lfk"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 214465,
-      "name": "Lo Perd\u00ed Todo - En Vivo",
-      "url": "https://open.spotify.com/track/1CiN6OT93p98d1DOcvgoJ0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Amor No Tiene Fin",
-        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
       },
       "artists": [
         {
@@ -648,13 +628,13 @@
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
         },
         {
-          "name": "Gateway Worship Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 301466,
-      "name": "Danzando",
-      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
+      "duration_ms": 612133,
+      "name": "Todo Lo Haces Nuevo",
+      "url": "https://open.spotify.com/track/7GIdANYkw0SKgQRfPPza0D"
     },
     {
       "added_at": null,
@@ -675,18 +655,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+        "name": "Tu Amor No Tiene Fin",
+        "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
       "artists": [
         {
           "name": "Generaci\u00f3n 12",
           "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Gateway Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV"
         }
       ],
-      "duration_ms": 250973,
-      "name": "Nunca Me Avergonzar\u00e9",
-      "url": "https://open.spotify.com/track/3RHcgn1rUBLbyOpVjouGra"
+      "duration_ms": 301466,
+      "name": "Danzando",
+      "url": "https://open.spotify.com/track/4ZoWQIxfgj8WiN3m3U3XYk"
     },
     {
       "added_at": null,
@@ -715,6 +699,22 @@
       "duration_ms": 245760,
       "name": "Si T\u00fa Est\u00e1s Conmigo - En Vivo",
       "url": "https://open.spotify.com/track/5RJ22zADrNKHYZjFB4718o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Nunca Me Avergonzar\u00e9",
+      "url": "https://open.spotify.com/track/3RHcgn1rUBLbyOpVjouGra"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 376840,
-      "name": "Cuanto M\u00e1s Me Rindo",
-      "url": "https://open.spotify.com/track/0pFfRrm4fBCrOy5S6cQNc6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 208733,
       "name": "Mientras Viva",
       "url": "https://open.spotify.com/track/7zb5D4QJq2FEMZ8dufoIqI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 376840,
+      "name": "Cuanto M\u00e1s Me Rindo",
+      "url": "https://open.spotify.com/track/0pFfRrm4fBCrOy5S6cQNc6"
     },
     {
       "added_at": null,
@@ -843,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Nos Salvar\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/3ozR24cLOUrH4snwEt2mbN"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 363206,
+      "name": "Una Nueva Historia - En Vivo",
+      "url": "https://open.spotify.com/track/50XcGSPZ78F7XSxT76WOMH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 469547,
       "name": "Tu Nombre Santo Es",
       "url": "https://open.spotify.com/track/6q4pu6sxXBRst4nvYbdf56"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Nos Salvar\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/3ozR24cLOUrH4snwEt2mbN"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 363206,
-      "name": "Una Nueva Historia - En Vivo",
-      "url": "https://open.spotify.com/track/50XcGSPZ78F7XSxT76WOMH"
     },
     {
       "added_at": null,
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 359827,
-      "name": "Cristo Te Amo",
-      "url": "https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mientras Viva (En Vivo Desde Sudam\u00e9rica)",
         "url": "https://open.spotify.com/album/5sJyUo6TbLxoGM8jWYsCEE"
       },
@@ -975,6 +955,26 @@
       "duration_ms": 349187,
       "name": "Encuentro Glorioso",
       "url": "https://open.spotify.com/track/5WEnnXOtaLSwufFcSvEH6u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/0LChhBtZxMmmoV5oWWl6c8"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 359827,
+      "name": "Cristo Te Amo",
+      "url": "https://open.spotify.com/track/69q1U8rv8qP0kiTvBMmCoU"
     },
     {
       "added_at": null,

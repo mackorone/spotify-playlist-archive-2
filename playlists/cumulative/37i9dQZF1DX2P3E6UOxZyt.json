@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u5927\u5496\u8b93\u6b4c\u55ae\u5f88\u6709\u6599\uff0c\u5c0f\u773e\u8b93\u6b4c\u55ae\u6709\u5f97\u804a\u3002Cover: CClaire \u99ac\u6137\u4f36",
+  "description": "\u5927\u5496\u8b93\u6b4c\u55ae\u5f88\u6709\u6599\uff0c\u5c0f\u773e\u8b93\u6b4c\u55ae\u6709\u5f97\u804a\u3002Cover: KAXA",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -15718,6 +15718,24 @@
       "duration_ms": 306546,
       "name": "\u966a\u4f60\u5931\u6557 (feat. \u5bfa\u4e8c)",
       "url": "https://open.spotify.com/track/53EYK5DubMOz2x71TZERPl"
+    },
+    {
+      "album": {
+        "name": "\u96b1\u766e (\u5f71\u96c6\u300a\u90f5\u7968\u8207\u8212\u8299\u857e\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/6VH4LNvAEFfswzrIuEAJJt"
+      },
+      "artists": [
+        {
+          "name": "KAXA",
+          "url": "https://open.spotify.com/artist/5Hq9W4AHt4ykIEJp6ObqOG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209705,
+      "name": "\u96b1\u766e (\u5f71\u96c6\u300a\u90f5\u7968\u8207\u8212\u8299\u857e\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/2KSaDdRadbOLfvU3kWMPxy"
     },
     {
       "album": {

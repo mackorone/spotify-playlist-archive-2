@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Noeline Hofmann
 
-779 songs - 1 day 23 hr 12 min
+780 songs - 1 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Purple Gas](https://open.spotify.com/track/5aMOyUd1vzhMAN1KQ3uZpx) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Noeline Hofmann](https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW) | [Purple Gas](https://open.spotify.com/album/1dd5vDwnKBlh4NA5ynpDwH) | 3:00 | 2024-06-07 | 2024-07-06 |
 | [Queen Of Spades](https://open.spotify.com/track/7xsH1sQMp0wXYrREskS0JX) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b) | [Queen Of Spades](https://open.spotify.com/album/3ypJf75RGg4YsxRF7T2qzO) | 4:06 | 2022-09-16 | 2022-10-15 |
 | [Rattlesnake](https://open.spotify.com/track/4l1WYSb7vmJALdMoDHShtj) | [Abigail Lapell](https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g) | [Rattlesnake](https://open.spotify.com/album/6ty4luxA6qQTlGmI2B9Gif) | 3:33 | 2024-03-15 | 2024-06-02 |
+| [Ready Now](https://open.spotify.com/track/6xZUShgPgFExUWlVZOHNQJ) | [Damhnait Doyle](https://open.spotify.com/artist/0AJWI2oTTVSHbaE6tpzCJB) | [Bird in Flames](https://open.spotify.com/album/5st5Ezbf3KeNqGEZRsZxgW) | 3:53 | 2026-09-24 |  |
 | [Rearview](https://open.spotify.com/track/3ch8gS3RWmIfpTvExfVBJb) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Rearview](https://open.spotify.com/album/2FZakM4qEkdslB5d4BrSiS) | 3:08 | 2026-02-06 |  |
 | [Reckless Heart](https://open.spotify.com/track/5qTFeB7tqd8az9XUmjhJyI) | [JJ Shiplett](https://open.spotify.com/artist/0XgzaFjKPFJT7VziwGD6o5) | [A Way Through Time](https://open.spotify.com/album/62CmXYKJosz1Bs2MuHvAvD) | 3:24 | 2024-03-15 | 2024-04-06 |
 | [Recyclers](https://open.spotify.com/track/5GATa8dqT4peA3867Sv5f3) | [Jagguar](https://open.spotify.com/artist/5SuTZQIfFe0gtEyVojQ0vF) | [Recyclers](https://open.spotify.com/album/1RRQsmBUCGLHQ2n22scgQs) | 4:12 | 2022-05-13 | 2022-10-18 |
@@ -588,7 +589,7 @@
 | [Rumpshaker](https://open.spotify.com/track/7ucZi9RuxviWkpDCJrpyjE) | [Crystal Shawanda](https://open.spotify.com/artist/31X6W8Y4y9E0G78r5Y2rXG) | [Rumpshaker](https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g) | 3:23 | 2022-09-16 | 2022-10-01 |
 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 | 2026-09-18 |  |
 | [Running Away](https://open.spotify.com/track/6hGu0MWwR53eJbHCAZgWii) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Running Away](https://open.spotify.com/album/33lwlkjQC8xLyI4W7YgCTI) | 4:54 | 2024-05-31 | 2024-07-07 |
-| [Sacred Love](https://open.spotify.com/track/6MPzmBwZzK2ROm7sEMxMM2) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Sacred Love](https://open.spotify.com/album/4WdG6iEFj64MHcHkFdX9FT) | 4:42 | 2026-08-28 |  |
+| [Sacred Love](https://open.spotify.com/track/6MPzmBwZzK2ROm7sEMxMM2) | [Logan Staats](https://open.spotify.com/artist/2vXJfRfKqdwDvqKL5tvJ7P), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Sacred Love](https://open.spotify.com/album/4WdG6iEFj64MHcHkFdX9FT) | 4:42 | 2026-08-28 | 2026-09-25 |
 | [Sad All The Time \- Bonus Track](https://open.spotify.com/track/05SLKEyD0ZnGLEsCMx4FAf) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be \(Deluxe\)](https://open.spotify.com/album/7r5UvKF4coPqePysjqIHx9) | 2:40 | 2023-07-07 | 2023-08-20 |
 | [Sam](https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 1:12 | 2023-04-21 | 2025-10-18 |
 | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/track/2X2KFZio004eItvRC9ECOZ) | [Mentana](https://open.spotify.com/artist/7s1t2dwRy92CkE8IrCwC6u) | [Sandy \(Wrangler in the Badlands\)](https://open.spotify.com/album/6unm7HfVeFeblNky9xXvp7) | 4:34 | 2022-08-05 | 2023-04-22 |

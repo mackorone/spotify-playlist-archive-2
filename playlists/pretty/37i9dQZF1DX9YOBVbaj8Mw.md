@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Posłuchaj zwycięzców i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,431 likes - 79 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,429 likes - 79 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 31 | [Ramen](https://open.spotify.com/track/1fWiLeqoyGNpm1IiMv4sMt) | [Natalia Przybysz](https://open.spotify.com/artist/03KLzHVK6la8dVop1iVI5x), [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Zagorski](https://open.spotify.com/artist/1HeMjOGamilY6kKP2vohac), [Wa$kiewicH](https://open.spotify.com/artist/4FJ4FKoryndsLF8rCJ1qDI) | [Ramen](https://open.spotify.com/album/6HSD328wfB8GSsIOGoSrcC) | 3:57 |
 | 32 | [Zimna woda](https://open.spotify.com/track/6qg3ly9YmqLM1wdaPOO6ud) | [Basia Giewont](https://open.spotify.com/artist/7cxbQTlqES2I9xbf2DErr9) | [Szeptucha](https://open.spotify.com/album/5dBwx9W01trP3vTTvEdHmQ) | 2:40 |
 | 33 | [SAM](https://open.spotify.com/track/59QcLK3VRrBSUcEhpICVHQ) | [O.S.T.R.](https://open.spotify.com/artist/52XMlxvCIzmiNkzSqEw3Uv) | [404](https://open.spotify.com/album/1QGA9rHIYcH3Da9bIsSxSc) | 3:17 |
-| 34 | [BEZ ANDRZEJA](https://open.spotify.com/track/4pWjCBXSyx0iJMRA9FZ4Xh) | [Jerzy Rogiewicz](https://open.spotify.com/artist/7Mhb114pzmEQPxShNLLI3T), [Bartłomiej Topa](https://open.spotify.com/artist/6v7jbB0N68FFnHxAhU71vD) | [1670: Sezon 2 \(Muzyka z Serialu Netflix\)](https://open.spotify.com/album/3CMTk1ouyaaKtNjH9sLFH1) | 1:55 |
-| 35 | [Układ otwarty](https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:55 |
+| 34 | [Układ otwarty](https://open.spotify.com/track/3ZSJjja6EisRGI7LHEBMid) | [Kuba Badach](https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC) | [Radio Edit](https://open.spotify.com/album/1jQ2hZKn5vxyIbyzPvOmBC) | 3:55 |
+| 35 | [BEZ ANDRZEJA](https://open.spotify.com/track/4pWjCBXSyx0iJMRA9FZ4Xh) | [Jerzy Rogiewicz](https://open.spotify.com/artist/7Mhb114pzmEQPxShNLLI3T), [Bartłomiej Topa](https://open.spotify.com/artist/6v7jbB0N68FFnHxAhU71vD) | [1670: Sezon 2 \(Muzyka z Serialu Netflix\)](https://open.spotify.com/album/3CMTk1ouyaaKtNjH9sLFH1) | 1:55 |
 | 36 | [Co za stan](https://open.spotify.com/track/0oiI4w78h7eJjCC4ownWzy) | [Zuta](https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui), [BRASSERS](https://open.spotify.com/artist/41T7tKisVyiDzTTCxGEkBh) | [To dopiero początek](https://open.spotify.com/album/1IlScWRfi6dwEdsy5oy7ak) | 2:39 |
 | 37 | [Bowie](https://open.spotify.com/track/0NOzhaHiT91KldkT2vZwBg) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 4:57 |
 | 38 | [Zaprzepaszczone siły wielkiej armii świętych znaków \- Live](https://open.spotify.com/track/6s6wfg8dqEMSy5BPHxqGj8) | [Coma](https://open.spotify.com/artist/2T2smvVw7QCC5cSdyPxs17) | [Coma Live Pol'and'Rock Festival 2024](https://open.spotify.com/album/6mlP6ugzvd8mHq5KMQxSK7) | 14:15 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 47 | [YUMI](https://open.spotify.com/track/7oIBVngEmtARJZFPmVh0CI) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [HER NAME WAS YUMI](https://open.spotify.com/album/70tZRCqPItOdy3vornYcAi) | 2:39 |
 | 48 | [Tokyo](https://open.spotify.com/track/1Ruq8JmcNn0Us3jnZNaS9T) | [Nene Heroine](https://open.spotify.com/artist/682FUdadxb0BbBEJosAiSR) | [4](https://open.spotify.com/album/38AMF23w6heUQ2Yh617s2V) | 7:24 |
 | 49 | [Dubbrat](https://open.spotify.com/track/07tSNivehfYJ52SPt1ta2Q) | [Vavamuffin](https://open.spotify.com/artist/2Lm3vSenofPiawS8U58tMD) | [Fly High\-Fi!](https://open.spotify.com/album/1PDdmD6r7XGmMHos1YZeTF) | 3:50 |
-| 50 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
-| 51 | [Love in the Garden](https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [Homage](https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D) | 4:11 |
+| 50 | [Love in the Garden](https://open.spotify.com/track/3CjlpGjhzc7pGBXCUWprYC) | [Joe Lovano](https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf), [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [Homage](https://open.spotify.com/album/03iukKxMidzmP0ZhywfX5D) | 4:11 |
+| 51 | [Aport](https://open.spotify.com/track/7akEAUYosmzkXTpYvmfahf) | [Sad Smiles](https://open.spotify.com/artist/5LISNIIF2dVg8fxzZImkzo) | [BUNT](https://open.spotify.com/album/15gTLiKvDdaG9kxU86rv1I) | 5:26 |
 | 52 | [TEMPO](https://open.spotify.com/track/2OsEoEDUiIskiYAWUl3YW8) | [Chrust](https://open.spotify.com/artist/2di34XAaoL0ppBWIVcmtrA), [Krzysztof Falkowski](https://open.spotify.com/artist/2VJHyS9wj5qYaUyRtae5RN) | [Przed Zmierzchem](https://open.spotify.com/album/1JfOqy8sGzn71x6WAeitCD) | 2:39 |
 | 53 | [KREW Z KRWI](https://open.spotify.com/track/4prmXqlZocQ5lmQ24vsGDK) | [Luxtorpeda](https://open.spotify.com/artist/0D5kXlS7UOApMpTyuSrFAW) | [MÓJ TRUP JEST WIĘKSZY NIŻ TWÓJ](https://open.spotify.com/album/49A5muPtRuTvE0BbqRJfBR) | 5:13 |
 | 54 | [Amor sin esperanza](https://open.spotify.com/track/2zK3jWZ37xCZFQRS2x07r9) | [Marcin Masecki](https://open.spotify.com/artist/5q3lPRiypUmNNLhmoz8WFg) | [Boleros y Masecki](https://open.spotify.com/album/2eOsPHztjx0TGTTATCwWpx) | 4:51 |

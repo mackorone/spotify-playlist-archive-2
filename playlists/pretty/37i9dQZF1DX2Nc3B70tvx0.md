@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > A delicious mix of new songs in high rotation\. Cover: This is Lorlelei
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,905,777 likes - 53 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,905,737 likes - 53 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 | 4 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
 | 5 | [Red Car](https://open.spotify.com/track/1iZsQ8JtDEjZojlFOBrDRi) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Melodie](https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy) | 3:28 |
 | 6 | [No Thank You, I Love You, Goodbye](https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Thank You, I Love You, Goodbye](https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj) | 2:59 |
-| 7 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 7 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 8 | [Everything in the shade](https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Everything in the shade](https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ) | 3:36 |
 | 9 | [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 |
 | 10 | [I WANNA LOVE YOU BABE](https://open.spotify.com/track/3jNgp0vOXGqd0Dy9V4KdsB) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [I WANNA LOVE YOU BABE](https://open.spotify.com/album/2bMNH52yTI8iJczEutL43W) | 4:34 |

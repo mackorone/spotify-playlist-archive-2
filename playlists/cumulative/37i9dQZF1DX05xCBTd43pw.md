@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Kings Elliot
 
-587 songs - 1 day 6 hr 31 min
+589 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [boum boum barbie](https://open.spotify.com/track/51qU69BObybLoJS2grfKBG) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [boum boum barbie](https://open.spotify.com/album/1n4g3xXJbgPb9eR0CP9wLP) | 2:24 | 2026-03-05 | 2026-06-19 |
 | [Bouncy Castle](https://open.spotify.com/track/4k3jedzK4ghiMsIDdIgIDQ) | [Dino Brandão](https://open.spotify.com/artist/6tLCNTqQll91cBwz6SSMYn) | [Self\-Inclusion](https://open.spotify.com/album/7zRFqR2IDuqOyGONM5aXLm) | 3:28 | 2025-04-17 | 2025-04-25 |
 | [Boys Do Cry](https://open.spotify.com/track/5A3JxIX04W5Ttu6Rxy5tWW) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Boys Do Cry](https://open.spotify.com/album/1PA9VlnwgXGN0W7K5YnkoI) | 2:56 | 2024-06-27 | 2024-10-04 |
+| [Breaking Me](https://open.spotify.com/track/3xsZ4lrQu8mzzFy6sv50aS) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Breaking Me](https://open.spotify.com/album/02Gp8gQ0QBXh6Fa2BVCosy) | 2:37 | 2026-09-24 |  |
 | [BRIDGES](https://open.spotify.com/track/5BhLggahAZmEhTfCnTiuWQ) | [Lea Wildhaber](https://open.spotify.com/artist/1KcQH9T9ubrM04eUTHYQar) | [BRIDGES](https://open.spotify.com/album/2dAYNgWVKEAGLieds9PtWd) | 3:00 | 2026-06-18 | 2026-07-29 |
 | [Bring The Witches Back](https://open.spotify.com/track/3sJHkSkno3qYZkXemkoNkW) | [Mel D](https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J) | [Bring The Witches Back](https://open.spotify.com/album/5J9P9buPntwTG6hgWShoYc) | 4:14 | 2025-04-17 | 2025-04-25 |
 | [Brissago](https://open.spotify.com/track/5yUqfQlKlSfVf5VPIhVhQw) | [Hecht](https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S) | [Adam + Eva](https://open.spotify.com/album/3UgxzujWZx1I4QQf0CfBv8) | 4:00 | 2025-05-01 | 2025-05-09 |
@@ -249,6 +250,7 @@
 | [Hurry up and Wait](https://open.spotify.com/track/4UwRZVAyydIORHHzebnerV) | [Lovebugs](https://open.spotify.com/artist/6piYZXXQCn1uniYcHcwS89) | [Hurry up and Wait](https://open.spotify.com/album/1wiPjvPlhIcCtcWU5RNbnp) | 4:22 | 2026-08-06 | 2026-09-04 |
 | [Hurting](https://open.spotify.com/track/26nHImnfyX0vE6CTLA5UHH) | [Amaya Gloor](https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x) | [Hurting](https://open.spotify.com/album/3Hw04kuWi6O7aUcmXQa2Ap) | 2:37 | 2024-06-27 | 2026-03-20 |
 | [Hör mir noch einmal zu](https://open.spotify.com/track/1V7iXlTg9h6dy7q9qk8Ehw) | [jan SEVEN dettwyler](https://open.spotify.com/artist/0vzAclaaTGJDFQzdWxmTej) | [Schwarz auf Grün](https://open.spotify.com/album/23EG6QL1cCfVSCoTZBZ8F5) | 2:26 | 2024-10-03 | 2024-10-24 |
+| [I am Sorry](https://open.spotify.com/track/7BT7AP9TTpcGawR3cvCvV3) | [ZIAN](https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J) | [I am Sorry](https://open.spotify.com/album/0TybIckKrjnl9VDd9VIcqy) | 2:36 | 2026-09-24 |  |
 | [I han es Zündhölzli azündt](https://open.spotify.com/track/1BgnJyDB7jEYoAMpHqKbcn) | [Mani Matter](https://open.spotify.com/artist/7wkPBPwF9oOZJ8lEbQjIVt) | [I han es Zündhölzli azündt](https://open.spotify.com/album/04MiVKnlpaFvjQY0LBLmry) | 1:33 | 2025-05-08 | 2025-05-16 |
 | [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 | 2024-09-06 | 2025-05-29 |
 | [I Just Wanna Turn It Up](https://open.spotify.com/track/7pV8EPFQ4k9JWldLOpVoSW) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo) | [I Just Wanna Turn It Up](https://open.spotify.com/album/125TmODMhsJIu1NxGIoGld) | 2:44 | 2025-08-07 | 2025-11-14 |
@@ -441,7 +443,7 @@
 | [SHAPE OF WATER](https://open.spotify.com/track/4JYgRvYjEKv8LOhSnf2lQR) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [SHAPE OF WATER](https://open.spotify.com/album/3xwYc6ZaDf48icwLH3tMRp) | 3:37 | 2026-09-17 |  |
 | [she calls me daddy](https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [she calls me daddy](https://open.spotify.com/album/52dHlZgYvDv9BVaISE95hQ) | 2:29 | 2024-07-19 | 2024-10-04 |
 | [she calls me daddy](https://open.spotify.com/track/6411vwtWuPOLhAy4eipNOC) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Generation](https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv) | 2:29 | 2025-04-24 | 2025-05-02 |
-| [Shine](https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:56 | 2025-10-09 |  |
+| [Shine](https://open.spotify.com/track/64DAkoW3n3vD48E7i19K8Z) | [Stefanie Heinzmann](https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5) | [Circles](https://open.spotify.com/album/7pn0jxc1CHp2VOuCcHaOfd) | 2:56 | 2025-10-09 | 2026-09-25 |
 | [Shut The Door](https://open.spotify.com/track/0YLHoEmkIOHKUWfb3Wk78T) | [To Athena](https://open.spotify.com/artist/3sdOf3sXS7uXLIaPQL33fl) | [Shut The Door](https://open.spotify.com/album/4abBmQtwJmK6UdoMzzqykF) | 2:50 | 2026-04-23 | 2026-06-19 |
 | [Si t'étais là](https://open.spotify.com/track/70UInfx90vXZ1dJYeG02Yf) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Si t'étais là](https://open.spotify.com/album/4cEegNqjZvKEcs7VYQslTN) | 3:15 | 2025-10-24 | 2026-02-13 |
 | [si tu me demandes](https://open.spotify.com/track/6N9wdVht1PjAnt4AZq9Nou) | [MARYNE](https://open.spotify.com/artist/2JmyyU2PFaGv5e5zRLNCQr) | [si tu me demandes](https://open.spotify.com/album/5U3B2zbIx8XEXpy55hhOLl) | 2:45 | 2026-02-26 | 2026-06-12 |
@@ -584,7 +586,7 @@
 | [Yaa Dede](https://open.spotify.com/track/5GgjeY48LU11zjGXXktqkI) | [Pronto](https://open.spotify.com/artist/2ZT8zCu4xXbz7R1R0EzqWO) | [LUNO V](https://open.spotify.com/album/43q6qDcaoGAZBRAO8TVsCz) | 2:45 | 2025-04-24 | 2025-05-02 |
 | [you & i](https://open.spotify.com/track/7qanXHrGDdACDlCLqiY4qe) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY), [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [you & i](https://open.spotify.com/album/4l4ndt4BmOY2oeoa1qqEst) | 2:05 | 2025-05-22 | 2026-02-06 |
 | [YOU BELIEVE IN JESUS, I BELIEVE IN PUSSY](https://open.spotify.com/track/6U9BEtmQcQb014LbeezLjN) | [Milune](https://open.spotify.com/artist/5cNySpFzIt0eGmYywx4pPe) | [YOU BELIEVE IN JESUS, I BELIEVE IN PUSSY](https://open.spotify.com/album/7r8tTv4JVlh8XVrixofeR9) | 3:33 | 2026-06-04 | 2026-07-17 |
-| [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 |  |
+| [You Hurt Me](https://open.spotify.com/track/5DhoEhRFe9zk65yJwDQ71D) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [January](https://open.spotify.com/album/5CuTx7FzFZa3HvNHi6wlC2) | 2:16 | 2025-02-07 | 2026-09-25 |
 | [You See Me](https://open.spotify.com/track/7b7E0DRrCjo6SRA0H1T7At) | [Pina Palau](https://open.spotify.com/artist/6Ktx4W0UWEkRQKxhkIUFvP) | [You Better Get Used To It](https://open.spotify.com/album/1LEjRr1j3QXvy6Ag6Pa2Ru) | 2:59 | 2026-03-05 | 2026-03-25 |
 | [You You You](https://open.spotify.com/track/02SfLsj1wEIyFT86dhwi8n) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Chelan](https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH) | [June](https://open.spotify.com/album/4cVvZI4iqSdk3pCsuQQ0HZ) | 2:41 | 2025-06-13 | 2025-07-19 |
 | [You'll Find Me There](https://open.spotify.com/track/0L87XLB19pHzjbqVRVkW1R) | [Noemi Beza](https://open.spotify.com/artist/6VxYXAGO7LTKvpNv2n93TD) | [You'll Find Me There](https://open.spotify.com/album/6VR8S1WUWtjBgOCN9rLB2F) | 3:03 | 2026-06-04 |  |

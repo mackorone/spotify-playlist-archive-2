@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,708 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,731 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 49 | [Faded Blue Jeans \(feat\. Josh Homme\)](https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Josh Homme](https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB) | [Faded Blue Jeans](https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2) | 2:31 |
 | 50 | [Legends Never Die \- with Shania Twain](https://open.spotify.com/track/5iG3DidIjI5wUqNowgmXQb) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Show Pony](https://open.spotify.com/album/39R5c82ytTeEF85kmJTtNT) | 3:52 |
 
-Snapshot ID: `arHFAAAAAADpIFLA9p6+iEs7F1mMejpN`
+Snapshot ID: `arMWgAAAAACAEB0pV5xQEVm/3Y8xxT1t`

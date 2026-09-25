@@ -136,7 +136,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 177473,
       "name": "2SIDED",
       "url": "https://open.spotify.com/track/1kdHE79HtKUGmJ1vDyp69j"
@@ -1960,7 +1960,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 274000,
       "name": "circo da vida",
       "url": "https://open.spotify.com/track/4B8GZCmX3XF9Y9VAMo5qFc"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 251250,
       "name": "Cor l\u00e1 Fora",
       "url": "https://open.spotify.com/track/5dypIZR23O78on3av5uw2z"
@@ -2510,6 +2510,24 @@
       "duration_ms": 170454,
       "name": "DIVAGAR",
       "url": "https://open.spotify.com/track/624r0HNNdqxnakN9DJv6lz"
+    },
+    {
+      "album": {
+        "name": "Dividir a dor",
+        "url": "https://open.spotify.com/album/4EGks1oGTv1DOxvjhRdSS2"
+      },
+      "artists": [
+        {
+          "name": "Mimi Froes",
+          "url": "https://open.spotify.com/artist/7dj67AKOjHzIzTvFMAmm7b"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199866,
+      "name": "Dividir a dor",
+      "url": "https://open.spotify.com/track/6ruEyzsMlqBmDvvnEwC8Lp"
     },
     {
       "album": {
@@ -4572,6 +4590,28 @@
       "duration_ms": 212866,
       "name": "Image",
       "url": "https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB"
+    },
+    {
+      "album": {
+        "name": "retic\u00eancias",
+        "url": "https://open.spotify.com/album/2MSi1jgpxBlmttkG7DOMQx"
+      },
+      "artists": [
+        {
+          "name": "Janeiro",
+          "url": "https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0"
+        },
+        {
+          "name": "Tatanka",
+          "url": "https://open.spotify.com/artist/7r0XhTtL6mkH36KJtlkGlb"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222176,
+      "name": "imune ao ru\u00eddo",
+      "url": "https://open.spotify.com/track/2p8tgfcbBKcVXykzPLHqz2"
     },
     {
       "album": {
@@ -8049,6 +8089,24 @@
     },
     {
       "album": {
+        "name": "Surto",
+        "url": "https://open.spotify.com/album/3b3O0odN3O0ktd5kfIjRUB"
+      },
+      "artists": [
+        {
+          "name": "Milhanas",
+          "url": "https://open.spotify.com/artist/4NbHlXvmfisJ4e9tNkTqgC"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176574,
+      "name": "Se o jardim secar",
+      "url": "https://open.spotify.com/track/4CQv4FfZz62MxIgwlO529C"
+    },
+    {
+      "album": {
         "name": "Melanc\u00f3lico Dan\u00e7ante",
         "url": "https://open.spotify.com/album/41Dp0ad9EO6BAg5U3YpFS3"
       },
@@ -9024,7 +9082,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 189021,
       "name": "The God of Lying (feat. IDLES)",
       "url": "https://open.spotify.com/track/0eUO2hEBOyZXDgqKSpXd98"
@@ -9072,7 +9130,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 216964,
       "name": "The Hudson",
       "url": "https://open.spotify.com/track/7zHO50QOb1eTYdZSvLgPwm"
@@ -9669,6 +9727,28 @@
     },
     {
       "album": {
+        "name": "Tr\u00eas Noites",
+        "url": "https://open.spotify.com/album/7l7GOiEDROdjCT4rI0vsa2"
+      },
+      "artists": [
+        {
+          "name": "Nunca Mates o Mandarim",
+          "url": "https://open.spotify.com/artist/1mXzaPO6UaW47RaHKVJ1UZ"
+        },
+        {
+          "name": "Lu\u00eds Lucas",
+          "url": "https://open.spotify.com/artist/7KVGKC9RZijUdgCqOrdHPe"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295977,
+      "name": "Tr\u00eas Noites",
+      "url": "https://open.spotify.com/track/0YhGFP3CunA6eyStmO75kn"
+    },
+    {
+      "album": {
         "name": "Tr\u00f3pico Paran\u00f3ia",
         "url": "https://open.spotify.com/album/11HXbdEbnmWDcOdOxWWd61"
       },
@@ -9988,6 +10068,24 @@
       "duration_ms": 190390,
       "name": "Vai e Vem",
       "url": "https://open.spotify.com/track/05lq6K55VhJAFqjit5voto"
+    },
+    {
+      "album": {
+        "name": "Vale tudo para chegar a algum lado",
+        "url": "https://open.spotify.com/album/0XhoSTZzeAqFiekIK4VrEc"
+      },
+      "artists": [
+        {
+          "name": "Glockenwise",
+          "url": "https://open.spotify.com/artist/0jL5iQmyh5HsvMWUnBZ7yW"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 388866,
+      "name": "Vale tudo para chegar a algum lado",
+      "url": "https://open.spotify.com/track/67mVeVBou9j85MHxJyLWQg"
     },
     {
       "album": {

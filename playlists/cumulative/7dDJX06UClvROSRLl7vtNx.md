@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,494 songs - 2 day 16 hr 18 min
+1,495 songs - 2 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1184,6 +1184,7 @@
 | [Stay A Little Longer](https://open.spotify.com/track/08eBCI8hasGMuQ6oPj0FKI) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Stay A Little Longer](https://open.spotify.com/album/5mxG2VhqYrmmkic41pQ1yb) | 2:13 | 2026-05-01 | 2026-09-14 |
 | [Stay the Night](https://open.spotify.com/track/0PbUTx3YxxEMYPoY58ZERn) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [EFA](https://open.spotify.com/artist/1Xg5tMFTyvI9QTMVltBcjy), [Moody Violet](https://open.spotify.com/artist/1KrQKZXgiWQtPmM9wcwp0A) | [Stay the Night](https://open.spotify.com/album/0bJYa0rN8BlAspfSMh9m2B) | 2:56 | 2025-05-09 | 2025-08-18 |
 | [Stay Tight \(Lost In Reveries Remix\)](https://open.spotify.com/track/3SBLKWCOzWZvEJqKo8YvCI) | [Bloome](https://open.spotify.com/artist/7wh5DgRdtPmQaD7pfGV2TU), [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT) | [Stay Tight \(Lost In Reveries Remix\)](https://open.spotify.com/album/0S2RG64P5jrmX2h7eEMKAD) | 2:27 | 2024-02-25 | 2024-04-08 |
+| [Stay With Me](https://open.spotify.com/track/2Y6rQKitViqShofoKF3nax) | [Nico Sol](https://open.spotify.com/artist/2YCUMKtJeXKE4mseMN8tVJ) | [Stay With Me](https://open.spotify.com/album/17XKN0xVoKvKYRIEKma01l) | 2:20 | 2026-09-24 |  |
 | [Stereo Love](https://open.spotify.com/track/4hO4Twdj9Ws5Im10rprrm3) | [Altrøx](https://open.spotify.com/artist/045vOffxVPFfgpn3qjn5Yo), [Faruk Orman](https://open.spotify.com/artist/53ZTq0HA8Ay02PiMs4e4Sq) | [Stereo Love](https://open.spotify.com/album/4KpAPQ1wUucCTjDczgr8LP) | 2:52 | 2024-07-30 | 2024-12-05 |
 | [Stereotype](https://open.spotify.com/track/016auAOhnOdM2ykwqEIw8v) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Stereotype](https://open.spotify.com/album/0ookwE9DzMDydriNbUiJUQ) | 2:24 | 2026-06-11 | 2026-09-14 |
 | [Still Beats For You](https://open.spotify.com/track/76YRDMjSMpiQMOlYzUuoqW) | [SECMOS](https://open.spotify.com/artist/0zZ0bI60hTmGInF2acMFgk), [Lind](https://open.spotify.com/artist/2z3Fqz0szSOJdwwIJyOEvf), [Sindri Björnsson](https://open.spotify.com/artist/018VfISw3LqdJuGUluNF70) | [Still Beats For You](https://open.spotify.com/album/6EMLuQB02TXrgL3Vc6ueOb) | 2:03 | 2026-02-03 | 2026-03-23 |

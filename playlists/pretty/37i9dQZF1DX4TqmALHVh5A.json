@@ -1,13 +1,33 @@
 {
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Satine.",
-  "num_followers": 119815,
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Danyl & A6el.",
+  "num_followers": 119829,
   "original_name": "Courant Alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJP34OxqymLG/KMDWSL9u8Xgo7LY",
+  "snapshot_id": "AAAAAFP81a0JdQWb3KmFlovDtl3X1YbD",
   "tracks": [
+    {
+      "added_at": "2026-09-24 22:01:44",
+      "album": {
+        "name": "BROSKI",
+        "url": "https://open.spotify.com/album/21NuNN3KNRoe87rAZzy9du"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        },
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "duration_ms": 137600,
+      "name": "BROSKI",
+      "url": "https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx"
+    },
     {
       "added_at": "2026-09-17 22:02:15",
       "album": {
@@ -23,6 +43,42 @@
       "duration_ms": 164000,
       "name": "pas assez",
       "url": "https://open.spotify.com/track/3pSWcCyWkuwqEGeRZbYBuA"
+    },
+    {
+      "added_at": "2026-09-24 22:01:44",
+      "album": {
+        "name": "Noum\u00e9a",
+        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Linema",
+          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
+        }
+      ],
+      "duration_ms": 228931,
+      "name": "Noum\u00e9a",
+      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "je fais pleurer les hommes",
+        "url": "https://open.spotify.com/album/6eRKoDe7eO4dLFt0ZENsDU"
+      },
+      "artists": [
+        {
+          "name": "ar\u00f8ne",
+          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
+        }
+      ],
+      "duration_ms": 127242,
+      "name": "je fais pleurer les hommes",
+      "url": "https://open.spotify.com/track/5MPoJl0VcsotowwzLQCTyQ"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -41,36 +97,20 @@
       "url": "https://open.spotify.com/track/2oN4lORHOZdxyPeTLEvn9S"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
+      "added_at": "2026-09-24 22:01:44",
       "album": {
-        "name": "SOLEIL",
-        "url": "https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D"
+        "name": "La petite voix dans ma t\u00eate",
+        "url": "https://open.spotify.com/album/5r4LjMKuXAu5AV0fEZXoAI"
       },
       "artists": [
         {
-          "name": "a6el",
-          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+          "name": "Paolo.",
+          "url": "https://open.spotify.com/artist/1UrkKlrHZfYlz4vhXeDRF4"
         }
       ],
-      "duration_ms": 168114,
-      "name": "SOLEIL",
-      "url": "https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "je fais pleurer les hommes",
-        "url": "https://open.spotify.com/album/6eRKoDe7eO4dLFt0ZENsDU"
-      },
-      "artists": [
-        {
-          "name": "ar\u00f8ne",
-          "url": "https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8"
-        }
-      ],
-      "duration_ms": 127242,
-      "name": "je fais pleurer les hommes",
-      "url": "https://open.spotify.com/track/5MPoJl0VcsotowwzLQCTyQ"
+      "duration_ms": 159148,
+      "name": "La petite voix dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/3AswcjKb7sfFfqb8XNJ1Vm"
     },
     {
       "added_at": "2026-09-17 22:02:15",
@@ -117,6 +157,22 @@
       "url": "https://open.spotify.com/track/3zCIRrV7eP0GaauWNDjOjs"
     },
     {
+      "added_at": "2026-09-24 22:01:44",
+      "album": {
+        "name": "\u00c0 l'arri\u00e8re de la Mercedes blanche",
+        "url": "https://open.spotify.com/album/69vyE9uBL9L7RJ4Cj9BPbt"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "duration_ms": 177313,
+      "name": "\u00c0 l'arri\u00e8re de la Mercedes blanche",
+      "url": "https://open.spotify.com/track/35BZeuRSDTSNuUCTIwbKhJ"
+    },
+    {
       "added_at": "2026-09-10 22:00:51",
       "album": {
         "name": "c'est ok",
@@ -133,20 +189,68 @@
       "url": "https://open.spotify.com/track/5Canxhfh2Ydgq5JR7e26Hm"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
+      "added_at": "2026-09-24 22:01:44",
       "album": {
-        "name": "Sorry I'm French",
-        "url": "https://open.spotify.com/album/3BEJ03fS6nzN8Pl5GPPKRS"
+        "name": "BABYBOY",
+        "url": "https://open.spotify.com/album/1eWwgDB9CRSNQrTo7cx23y"
       },
       "artists": [
         {
-          "name": "Sam Sauvage",
-          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+          "name": "NAVA",
+          "url": "https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj"
         }
       ],
-      "duration_ms": 158063,
-      "name": "Sorry I'm French",
-      "url": "https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W"
+      "duration_ms": 126683,
+      "name": "BABYBOY",
+      "url": "https://open.spotify.com/track/5FgtKtNcsGQvg6tUmNArzt"
+    },
+    {
+      "added_at": "2026-09-24 22:01:44",
+      "album": {
+        "name": "MACKINTOSH",
+        "url": "https://open.spotify.com/album/153XRh2PH4lvf4I2EnGdAy"
+      },
+      "artists": [
+        {
+          "name": "sheng",
+          "url": "https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn"
+        }
+      ],
+      "duration_ms": 115488,
+      "name": "MACKINTOSH",
+      "url": "https://open.spotify.com/track/5LY4qEP5Hj4SSRPB9PQORX"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "SOLEIL",
+        "url": "https://open.spotify.com/album/7eeVBOgugUXCazaOnkvQ7D"
+      },
+      "artists": [
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "duration_ms": 168114,
+      "name": "SOLEIL",
+      "url": "https://open.spotify.com/track/6AoOzPhqx5LbtYfKBlBrEG"
+    },
+    {
+      "added_at": "2026-09-24 22:01:44",
+      "album": {
+        "name": "C'est \u00e7a que je veux",
+        "url": "https://open.spotify.com/album/4R0rXLm5BDou6MyVQF1swN"
+      },
+      "artists": [
+        {
+          "name": "Louison",
+          "url": "https://open.spotify.com/artist/27scE3kQUClw5XM1lho2kG"
+        }
+      ],
+      "duration_ms": 169173,
+      "name": "C'est \u00e7a que je veux",
+      "url": "https://open.spotify.com/track/4ceSHKoIuiuh7T7dgv1IYP"
     },
     {
       "added_at": "2026-09-17 22:02:15",
@@ -189,20 +293,36 @@
       "url": "https://open.spotify.com/track/3tQK1usqWAoMkiXp54i4Ok"
     },
     {
-      "added_at": "2026-09-10 22:00:51",
+      "added_at": "2026-09-24 22:01:44",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/55bAkqv3DoCtJjQLAsaoeJ"
+        "name": "ROMANCE RODEO",
+        "url": "https://open.spotify.com/album/7pgJyoe9Um0keycHs8Xmin"
       },
       "artists": [
         {
-          "name": "Of\u00e9",
-          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI"
         }
       ],
-      "duration_ms": 220546,
-      "name": "C\u0153ur",
-      "url": "https://open.spotify.com/track/1RfaaZVPySn5XaNfW4zWhF"
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4nqefoXOG8qs7YromWqpeV"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "Sorry I'm French",
+        "url": "https://open.spotify.com/album/3BEJ03fS6nzN8Pl5GPPKRS"
+      },
+      "artists": [
+        {
+          "name": "Sam Sauvage",
+          "url": "https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL"
+        }
+      ],
+      "duration_ms": 158063,
+      "name": "Sorry I'm French",
+      "url": "https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -247,6 +367,22 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/55bAkqv3DoCtJjQLAsaoeJ"
+      },
+      "artists": [
+        {
+          "name": "Of\u00e9",
+          "url": "https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "C\u0153ur",
+      "url": "https://open.spotify.com/track/1RfaaZVPySn5XaNfW4zWhF"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
         "name": "Plan B",
         "url": "https://open.spotify.com/album/6lexnnivq2bjZyAQD6k0Tz"
       },
@@ -259,22 +395,6 @@
       "duration_ms": 200826,
       "name": "Plan B",
       "url": "https://open.spotify.com/track/7vkjBiCn4arCILrpC2GOaJ"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Dis-le",
-        "url": "https://open.spotify.com/album/27cdPx9msMd1V64HzU4DyF"
-      },
-      "artists": [
-        {
-          "name": "Ang\u00e8le",
-          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
-        }
-      ],
-      "duration_ms": 247458,
-      "name": "Dis-le",
-      "url": "https://open.spotify.com/track/58H3IsZi2NemGRCttisETY"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -295,18 +415,18 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "M\u00e9tronome",
-        "url": "https://open.spotify.com/album/3a9DxiK7dazGC8zJn0IewC"
+        "name": "Dis-le",
+        "url": "https://open.spotify.com/album/27cdPx9msMd1V64HzU4DyF"
       },
       "artists": [
         {
-          "name": "MILHA",
-          "url": "https://open.spotify.com/artist/70iLKg3WPPNNMhzv8xA6ns"
+          "name": "Ang\u00e8le",
+          "url": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
         }
       ],
-      "duration_ms": 134068,
-      "name": "M\u00e9tronome",
-      "url": "https://open.spotify.com/track/5tdZCfaUM2J7LOVnDOExfF"
+      "duration_ms": 247458,
+      "name": "Dis-le",
+      "url": "https://open.spotify.com/track/58H3IsZi2NemGRCttisETY"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -323,6 +443,22 @@
       "duration_ms": 115426,
       "name": "LA BARMAID!",
       "url": "https://open.spotify.com/track/2WbfIgFaOqMOwWyAzIqVyC"
+    },
+    {
+      "added_at": "2026-09-10 22:00:51",
+      "album": {
+        "name": "M\u00e9tronome",
+        "url": "https://open.spotify.com/album/3a9DxiK7dazGC8zJn0IewC"
+      },
+      "artists": [
+        {
+          "name": "MILHA",
+          "url": "https://open.spotify.com/artist/70iLKg3WPPNNMhzv8xA6ns"
+        }
+      ],
+      "duration_ms": 134068,
+      "name": "M\u00e9tronome",
+      "url": "https://open.spotify.com/track/5tdZCfaUM2J7LOVnDOExfF"
     },
     {
       "added_at": "2026-09-17 22:02:15",
@@ -439,26 +575,6 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "BILLETS D'AVION",
-        "url": "https://open.spotify.com/album/6Ja69xbLAG5TevwKDCsdKw"
-      },
-      "artists": [
-        {
-          "name": "MILO",
-          "url": "https://open.spotify.com/artist/58h0R8NrIJfqNCCZ7nBITD"
-        },
-        {
-          "name": "NADIR",
-          "url": "https://open.spotify.com/artist/403qtnXhKUmoCaMMiYRqKX"
-        }
-      ],
-      "duration_ms": 194805,
-      "name": "BILLETS D'AVION",
-      "url": "https://open.spotify.com/track/1PF5428S4WNE4XFjT9Sd8A"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
         "name": "1000_vies_(avec_toi).MPEG-4",
         "url": "https://open.spotify.com/album/07dKqRChiRAPbGKK2KTGAd"
       },
@@ -535,38 +651,6 @@
       "duration_ms": 184442,
       "name": "La nouvelle",
       "url": "https://open.spotify.com/track/2Vt2xeQ5Oyhrq8MykyCEiH"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "250 p\u00e9tales",
-        "url": "https://open.spotify.com/album/3sgeUeFsVgQhF220LxMuqf"
-      },
-      "artists": [
-        {
-          "name": "Tallou",
-          "url": "https://open.spotify.com/artist/2ocVczKXDVxt5UFjpXzIw6"
-        }
-      ],
-      "duration_ms": 175027,
-      "name": "250 p\u00e9tales",
-      "url": "https://open.spotify.com/track/35ULGsZuPN1jSEPyU7WAnX"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Note 12 : Dream",
-        "url": "https://open.spotify.com/album/5VAWspQyNbR4bHvzPuK5uF"
-      },
-      "artists": [
-        {
-          "name": "Klem Schen",
-          "url": "https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "Note 12 : Dream",
-      "url": "https://open.spotify.com/track/4KfBfVRSxUBtpRWVgA0dsJ"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -655,22 +739,6 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "Merveille",
-        "url": "https://open.spotify.com/album/1dDgHR76fGDry0BHyjsKvI"
-      },
-      "artists": [
-        {
-          "name": "SMAA",
-          "url": "https://open.spotify.com/artist/0XgyWxaiqdOyZnTm69eS89"
-        }
-      ],
-      "duration_ms": 178983,
-      "name": "Merveille",
-      "url": "https://open.spotify.com/track/6hf1XBp5zicdMDWPaE7dXj"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
         "name": "fleurs",
         "url": "https://open.spotify.com/album/3Rslr3ps1Vr3rkenXSmJLs"
       },
@@ -755,22 +823,6 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "Je m'en fous",
-        "url": "https://open.spotify.com/album/3N3acClUyVjKLl7i4N1b1S"
-      },
-      "artists": [
-        {
-          "name": "SOCIAL DANCE",
-          "url": "https://open.spotify.com/artist/64OIuqnoThjTpSVPFUyyLz"
-        }
-      ],
-      "duration_ms": 182666,
-      "name": "Je m'en fous",
-      "url": "https://open.spotify.com/track/5MXnHVg8xcGfXHuAnqTJKn"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
         "name": "Temp\u00eate",
         "url": "https://open.spotify.com/album/7fcB91H0LuS8zzg4kymcww"
       },
@@ -787,38 +839,6 @@
     {
       "added_at": "2026-09-10 22:00:51",
       "album": {
-        "name": "MIND THE GAP",
-        "url": "https://open.spotify.com/album/7kn0CpZlN0CXTrqEvxgGin"
-      },
-      "artists": [
-        {
-          "name": "BLUE GEMINI",
-          "url": "https://open.spotify.com/artist/7t8yQWK5A7DIXDJqyoXE3w"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Magenta",
-      "url": "https://open.spotify.com/track/5tLmCV2kgSqTLVYetgTgBL"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "Couleurs",
-        "url": "https://open.spotify.com/album/711aRjwJUnlK9JnWfESdgM"
-      },
-      "artists": [
-        {
-          "name": "Lescop",
-          "url": "https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W"
-        }
-      ],
-      "duration_ms": 147533,
-      "name": "Couleurs",
-      "url": "https://open.spotify.com/track/2FTypu2ZLTog6YsTaJvzHV"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
         "name": "Cookie",
         "url": "https://open.spotify.com/album/0UqC6W0iqv0F0mKYGSm6Gh"
       },
@@ -831,22 +851,6 @@
       "duration_ms": 120960,
       "name": "Cookie",
       "url": "https://open.spotify.com/track/7EA9t5HOT9JlftSqvF3TRv"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "LE BAR",
-        "url": "https://open.spotify.com/album/10cvRHol744gMED4YKcIpX"
-      },
-      "artists": [
-        {
-          "name": "JO\u00cbN",
-          "url": "https://open.spotify.com/artist/5FQRFB6WYZLVKAALf2Vqqx"
-        }
-      ],
-      "duration_ms": 148045,
-      "name": "LE BAR",
-      "url": "https://open.spotify.com/track/0yeBYOM0O0IOoC2fajIKjZ"
     }
   ],
   "unique_name": "Courant Alternatif",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Anuv Jain
 
-[Spotify](https://open.spotify.com/user/spotify) - 945,840 likes - 90 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,019 likes - 90 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 14 | [Jogi](https://open.spotify.com/track/1XfBEzVsFJC0X8222Y6unk) | [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD), [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N) | [Jogi](https://open.spotify.com/album/5ID3wDWAzVrkaCXwZa9Pkx) | 2:54 |
 | 15 | [Pal Pal](https://open.spotify.com/track/4LMlVCXHJtCE9abhmn0mYo) | [Afusic](https://open.spotify.com/artist/1pS0qiLG23HMMLFwsQALKx), [AliSoomroMusic](https://open.spotify.com/artist/2hXbxDaLthfodvgEpP6Xpm) | [Pal Pal](https://open.spotify.com/album/2PxW90KYw7dKSgRTwu45hS) | 2:27 |
 | 16 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
-| 17 | [Casa Tupka Anthemo](https://open.spotify.com/track/0cbmbkbCIg97a0CTt2c0Y0) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Priyanshi](https://open.spotify.com/artist/1E4AXdW5q4Ws3exzW0ZaU9) | [Casa Tupka Anthemo](https://open.spotify.com/album/2in9Bgw7e4jKwH8aKZUkEH) | 3:03 |
+| 17 | [Casa Tupka Anthemo](https://open.spotify.com/track/0cbmbkbCIg97a0CTt2c0Y0) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Priyanshi Srivastava](https://open.spotify.com/artist/1Vt7a0YpqiUoIcWnIiLXMo) | [Casa Tupka Anthemo](https://open.spotify.com/album/2in9Bgw7e4jKwH8aKZUkEH) | 3:03 |
 | 18 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 |
 | 19 | [Thinking of You](https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Thinking of You](https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa) | 3:00 |
 | 20 | [KALYANI \(with Shreya Ghoshal\) \- Remix](https://open.spotify.com/track/2y8mkajKikV5S1PRCMQ5WL) | [ARJN](https://open.spotify.com/artist/5j2JTk8JqepIgv1zxYOuIi), [KDS](https://open.spotify.com/artist/41opZo9bHh8CZoIdR3IgP7), [FIFTY4](https://open.spotify.com/artist/1NApv6DzDP19uLuxJ0CuuP), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [KALYANI \(with Shreya Ghoshal\) \[Remix\]](https://open.spotify.com/album/7JIw6me0sSXfs4nGwNaTHw) | 4:29 |

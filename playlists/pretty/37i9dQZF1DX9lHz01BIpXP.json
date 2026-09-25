@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: Ziggy4x",
-  "num_followers": 3619,
+  "num_followers": 3622,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -83,38 +83,6 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "HONNE",
-        "url": "https://open.spotify.com/album/1mBn7ImZFwecjCCqSFGghX"
-      },
-      "artists": [
-        {
-          "name": "AlwaysTheSuspect",
-          "url": "https://open.spotify.com/artist/5yBaFbo6T3i5rmEFdfBy4i"
-        },
-        {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "ENTENDRE",
-          "url": "https://open.spotify.com/artist/46k9u0s8MgHWowaTSmAsoL"
-        },
-        {
-          "name": "Kulture Gang",
-          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
-        },
-        {
-          "name": "BakerGotTheKeys",
-          "url": "https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3"
-        }
-      ],
-      "duration_ms": 178437,
-      "name": "HONNE",
-      "url": "https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
         "name": "Tolgevang",
         "url": "https://open.spotify.com/album/3QJKilrYn9ZvZXs8CLZNyc"
       },
@@ -127,6 +95,30 @@
       "duration_ms": 160235,
       "name": "Tolgevang",
       "url": "https://open.spotify.com/track/1WWiozUfi9d26DcAjOthSs"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Honne (Remix)",
+        "url": "https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        }
+      ],
+      "duration_ms": 176684,
+      "name": "Honne - Remix",
+      "url": "https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -147,30 +139,6 @@
       "duration_ms": 156682,
       "name": "Miniete",
       "url": "https://open.spotify.com/track/4AfQGFZ2zYdIHYwqBhYx37"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Kyk Uit",
-        "url": "https://open.spotify.com/album/35b5J8H1VslIHmeblkbucS"
-      },
-      "artists": [
-        {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "Kulture Gang",
-          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
-        },
-        {
-          "name": "Luda G",
-          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
-        }
-      ],
-      "duration_ms": 160826,
-      "name": "Kyk Uit",
-      "url": "https://open.spotify.com/track/2te0KzJO51uuzWqmXiUv3N"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -197,22 +165,6 @@
       "url": "https://open.spotify.com/track/08iPW7xvS94YUYS4ld5vSu"
     },
     {
-      "added_at": "2025-09-25 22:00:28",
-      "album": {
-        "name": "Disi makliki",
-        "url": "https://open.spotify.com/album/3Kql6vrQQxt3OSTyL4IZJc"
-      },
-      "artists": [
-        {
-          "name": "Daxter Deedz",
-          "url": "https://open.spotify.com/artist/0Jkf0tswAE3lh41WNW1ZOG"
-        }
-      ],
-      "duration_ms": 179869,
-      "name": "Disi makliki",
-      "url": "https://open.spotify.com/track/1u9wr82dUyErwH9DJ1xc7d"
-    },
-    {
       "added_at": "2025-07-03 22:00:44",
       "album": {
         "name": "Hoeveel",
@@ -231,6 +183,46 @@
       "duration_ms": 123025,
       "name": "Hoeveel",
       "url": "https://open.spotify.com/track/2b9IabFTXdpwBaF7Q9hmzC"
+    },
+    {
+      "added_at": "2025-09-25 22:00:28",
+      "album": {
+        "name": "Disi makliki",
+        "url": "https://open.spotify.com/album/3Kql6vrQQxt3OSTyL4IZJc"
+      },
+      "artists": [
+        {
+          "name": "Daxter Deedz",
+          "url": "https://open.spotify.com/artist/0Jkf0tswAE3lh41WNW1ZOG"
+        }
+      ],
+      "duration_ms": 179869,
+      "name": "Disi makliki",
+      "url": "https://open.spotify.com/track/1u9wr82dUyErwH9DJ1xc7d"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Kyk Uit",
+        "url": "https://open.spotify.com/album/35b5J8H1VslIHmeblkbucS"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "Kulture Gang",
+          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
+        },
+        {
+          "name": "Luda G",
+          "url": "https://open.spotify.com/artist/6Qcqf55xs0HYcc9i9myj0Z"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Kyk Uit",
+      "url": "https://open.spotify.com/track/2te0KzJO51uuzWqmXiUv3N"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -275,30 +267,6 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Sticks & Stones",
-        "url": "https://open.spotify.com/album/5KmSW8dMnFIcb8oWaAf3qK"
-      },
-      "artists": [
-        {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "Kulture Gang",
-          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
-        },
-        {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
-        }
-      ],
-      "duration_ms": 166285,
-      "name": "Sticks & Stones",
-      "url": "https://open.spotify.com/track/5mRHAvmfuSyHznrY42X1Au"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
         "name": "My testimony",
         "url": "https://open.spotify.com/album/1WaPi3xdR9ckn7832Q7M5s"
       },
@@ -327,6 +295,30 @@
       "duration_ms": 195361,
       "name": "Janneman",
       "url": "https://open.spotify.com/track/1MAjknikUN9rFBOYfboXhA"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Sticks & Stones",
+        "url": "https://open.spotify.com/album/5KmSW8dMnFIcb8oWaAf3qK"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "Kulture Gang",
+          "url": "https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        }
+      ],
+      "duration_ms": 166285,
+      "name": "Sticks & Stones",
+      "url": "https://open.spotify.com/track/5mRHAvmfuSyHznrY42X1Au"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -379,26 +371,26 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Slat Los",
-        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
+        "name": "Die Lewe is 'n Lied",
+        "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
       },
       "artists": [
         {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+          "name": "Van Pletzen",
+          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
         },
         {
-          "name": "25K",
-          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
         },
         {
-          "name": "Loatinover Pounds",
-          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+          "name": "Angie oeh",
+          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Slat Los",
-      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
+      "duration_ms": 239591,
+      "name": "Die Lewe is 'n Lied",
+      "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -423,6 +415,30 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Slat Los",
+        "url": "https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "25K",
+          "url": "https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Slat Los",
+      "url": "https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Spanga",
         "url": "https://open.spotify.com/album/1Mr5n8Hk7lONm377cK3mrk"
       },
@@ -439,30 +455,6 @@
       "duration_ms": 180165,
       "name": "Spanga",
       "url": "https://open.spotify.com/track/56SvCpQDzyoDCgkwjjE1Rc"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Die Lewe is 'n Lied",
-        "url": "https://open.spotify.com/album/30Mxg8Jy7g1KoSwEVRgVKL"
-      },
-      "artists": [
-        {
-          "name": "Van Pletzen",
-          "url": "https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN"
-        },
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        },
-        {
-          "name": "Angie oeh",
-          "url": "https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY"
-        }
-      ],
-      "duration_ms": 239591,
-      "name": "Die Lewe is 'n Lied",
-      "url": "https://open.spotify.com/track/1s7rTDltYVqaRWN0Ll7T5q"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -519,22 +511,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Spitbraai",
-        "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
+        "name": "Moola",
+        "url": "https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t"
       },
       "artists": [
         {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+          "name": "Loufi",
+          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
         },
         {
-          "name": "Early B",
-          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
+          "name": "Jayms",
+          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Spitbraai",
-      "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
+      "duration_ms": 184407,
+      "name": "Moola",
+      "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
     },
     {
       "added_at": "2025-09-25 22:00:28",
@@ -567,22 +559,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Moola",
-        "url": "https://open.spotify.com/album/049XrxSNx2ydPbdhelP51t"
+        "name": "Spitbraai",
+        "url": "https://open.spotify.com/album/6hF659wnX4n3St2jS6Wsmu"
       },
       "artists": [
         {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
         },
         {
-          "name": "Jayms",
-          "url": "https://open.spotify.com/artist/1reef06goIFAhuhQsLUHf5"
+          "name": "Early B",
+          "url": "https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG"
         }
       ],
-      "duration_ms": 184407,
-      "name": "Moola",
-      "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
+      "duration_ms": 198813,
+      "name": "Spitbraai",
+      "url": "https://open.spotify.com/track/7ByB1mMZcXGSlFOAwE5m0u"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -755,26 +747,6 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
-        "name": "Gun Shots",
-        "url": "https://open.spotify.com/album/6G1SBdqcOQSsLbNmK4qzff"
-      },
-      "artists": [
-        {
-          "name": "Ziggy4x",
-          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
-        },
-        {
-          "name": "Blxckie",
-          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
-        }
-      ],
-      "duration_ms": 158784,
-      "name": "Gun Shots",
-      "url": "https://open.spotify.com/track/6hQkNoz2hhSxdRXSc7lHto"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
         "name": "Die Hele Nag",
         "url": "https://open.spotify.com/album/5j0aBTm9jeaetWshVFaux6"
       },
@@ -815,6 +787,22 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Hie Kom Ons",
+        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
+      },
+      "artists": [
+        {
+          "name": "Benjamen",
+          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
+        }
+      ],
+      "duration_ms": 164927,
+      "name": "Hie Kom Ons",
+      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Nikes & Jordans (Original)",
         "url": "https://open.spotify.com/album/0lVRtRsZyiQTgH6JRRCKiQ"
       },
@@ -843,22 +831,6 @@
       "duration_ms": 181480,
       "name": "Wiggy",
       "url": "https://open.spotify.com/track/7E5tXCKOc0gwFOHoaCuPgU"
-    },
-    {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Hie Kom Ons",
-        "url": "https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me"
-      },
-      "artists": [
-        {
-          "name": "Benjamen",
-          "url": "https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC"
-        }
-      ],
-      "duration_ms": 164927,
-      "name": "Hie Kom Ons",
-      "url": "https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd"
     },
     {
       "added_at": "2025-06-27 09:27:23",
@@ -899,6 +871,26 @@
     {
       "added_at": "2025-06-27 09:27:23",
       "album": {
+        "name": "Don",
+        "url": "https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5"
+      },
+      "artists": [
+        {
+          "name": "Interlecc Za",
+          "url": "https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv"
+        },
+        {
+          "name": "Profit CPT",
+          "url": "https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq"
+        }
+      ],
+      "duration_ms": 179043,
+      "name": "Don",
+      "url": "https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
         "name": "Exs Die Ou",
         "url": "https://open.spotify.com/album/6QJR1nAn1kQzI0s8uc85J4"
       },
@@ -933,26 +925,6 @@
       "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
     },
     {
-      "added_at": "2025-06-27 09:27:23",
-      "album": {
-        "name": "Don",
-        "url": "https://open.spotify.com/album/1Mc6atryEO6LZZAhVlwgS5"
-      },
-      "artists": [
-        {
-          "name": "Interlecc Za",
-          "url": "https://open.spotify.com/artist/2cxm02LkeTCk6MlJcsiCrv"
-        },
-        {
-          "name": "Profit CPT",
-          "url": "https://open.spotify.com/artist/63ApYqxoOmMlvFm6RjyeNq"
-        }
-      ],
-      "duration_ms": 179043,
-      "name": "Don",
-      "url": "https://open.spotify.com/track/5ZgA7T4JNxagkTWrdMPdMc"
-    },
-    {
       "added_at": "2025-08-07 22:00:54",
       "album": {
         "name": "Hulle Weet Nog Niks",
@@ -983,6 +955,22 @@
       "duration_ms": 131813,
       "name": "Goated",
       "url": "https://open.spotify.com/track/01GAA3iShKuYdQB3rqbp4R"
+    },
+    {
+      "added_at": "2025-06-27 09:27:23",
+      "album": {
+        "name": "Dinge",
+        "url": "https://open.spotify.com/album/5GmWaRMBy8nC2kG99OXUiB"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        }
+      ],
+      "duration_ms": 132478,
+      "name": "Dinge",
+      "url": "https://open.spotify.com/track/34ckABm6hzgGBB1WjImioh"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

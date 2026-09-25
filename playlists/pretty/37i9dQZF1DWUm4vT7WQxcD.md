@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 
 > Relax and let the hum of calming white noise box fans and air conditioner sounds lull you to sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,774 likes - 125 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,815 likes - 125 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUm4vT7WQxcD.md) - [plain]
 | 42 | [Bright Fan \(Filtered 1.8khz\)](https://open.spotify.com/track/2uPX2NkfAviPxVdjq8Ktcj) | [JBE Noise Factory](https://open.spotify.com/artist/42f8Y2VsCZeUEdkbWxQejb) | [Fan Sounds Vol\. 1](https://open.spotify.com/album/0YEkPZ64ji8bJpu2ceIQce) | 2:38 |
 | 43 | [Dreamland Box Fan](https://open.spotify.com/track/6bkdBG8UqI6U3PqJFEg3Qh) | [Noise Station](https://open.spotify.com/artist/2NfMg903Rbr8UdXbjyGplm) | [Dreamland Box Fan](https://open.spotify.com/album/41jdvOPoN4uos2km8WIB1J) | 2:43 |
 | 44 | [White Noise \(Elevator Fan\)](https://open.spotify.com/track/2ukdehDG7eyu4PUFZoJFnb) | [Sleeping Peace](https://open.spotify.com/artist/1sfXfZmoCLThYQyNCaXAQw) | [White Noise \(Elevator Fan\)](https://open.spotify.com/album/1eDQ4EmLPK1472pz7jBBd6) | 8:51 |
-| 45 | [Early Morning Fan](https://open.spotify.com/track/6wRFjbACI6Ikxmsm6kTXOE) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Early Morning Fan](https://open.spotify.com/album/2fcTnELHxs3srffnIpBRAR) | 2:26 |
-| 46 | [Bedroom Sound Waves \(Box Fan Noise\)](https://open.spotify.com/track/2sXc3ERuGZdvUbgFb8YFBS) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Box Fan Air Therapy](https://open.spotify.com/album/0F5HdDf0vRYKiMZOxS1zCT) | 3:12 |
+| 45 | [Bedroom Sound Waves \(Box Fan Noise\)](https://open.spotify.com/track/2sXc3ERuGZdvUbgFb8YFBS) | [Emotional Support Fan](https://open.spotify.com/artist/6MmL3GAvpQHHIKryoi4eIf) | [Box Fan Air Therapy](https://open.spotify.com/album/0F5HdDf0vRYKiMZOxS1zCT) | 3:12 |
+| 46 | [Early Morning Fan](https://open.spotify.com/track/6wRFjbACI6Ikxmsm6kTXOE) | [MKG Sound Library](https://open.spotify.com/artist/4w6WFLprJAqxXhKCWfxnHN) | [Early Morning Fan](https://open.spotify.com/album/2fcTnELHxs3srffnIpBRAR) | 2:26 |
 | 47 | [Power Line Hum at 1 PM](https://open.spotify.com/track/6atqbSa3XIgfaWrfc0eUs1) | [Simplicité](https://open.spotify.com/artist/1vU0vxuF92c7UzrpZYfcqi) | [Listening to Electrical Substations](https://open.spotify.com/album/3QEVHd5MrK7Kp2nJpoBq6I) | 3:26 |
 | 48 | [Box Fan Serenity: A Melodic Journey to Rest](https://open.spotify.com/track/4QoXdDzCdPtA5E0yQ3eacI) | [Timasion](https://open.spotify.com/artist/4j41JyurhVC4wrVHoC6ZHP) | [Box Fan Serenity: A Melodic Journey to Rest](https://open.spotify.com/album/4h7gufPAQGzpGIrYbe3fIt) | 2:18 |
-| 49 | [Sleep Soundly: Box Fan Sleep Aid](https://open.spotify.com/track/1SIGSNCvHuXnzHqzuUxzOg) | [Calor Malvado](https://open.spotify.com/artist/2KBlE7vqrHghTXzMP1jgwK) | [Relaxing Rhythms: Box Fan Melodies](https://open.spotify.com/album/0oTjc8gKqULBLgAlhhkDgA) | 2:08 |
-| 50 | [Fan Oscillator 3 \- Seamless](https://open.spotify.com/track/6ezR2lsj6lMRY8JOUxK7EL) | [The Night Ferry](https://open.spotify.com/artist/5oJmfnmUzYimrw7CAk8Oyk) | [Fans To Make You Rest](https://open.spotify.com/album/4sYpk3pzq1kN5k2Hu7I2Ek) | 2:16 |
+| 49 | [Fan Oscillator 3 \- Seamless](https://open.spotify.com/track/6ezR2lsj6lMRY8JOUxK7EL) | [The Night Ferry](https://open.spotify.com/artist/5oJmfnmUzYimrw7CAk8Oyk) | [Fans To Make You Rest](https://open.spotify.com/album/4sYpk3pzq1kN5k2Hu7I2Ek) | 2:16 |
+| 50 | [Sleep Soundly: Box Fan Sleep Aid](https://open.spotify.com/track/1SIGSNCvHuXnzHqzuUxzOg) | [Calor Malvado](https://open.spotify.com/artist/2KBlE7vqrHghTXzMP1jgwK) | [Relaxing Rhythms: Box Fan Melodies](https://open.spotify.com/album/0oTjc8gKqULBLgAlhhkDgA) | 2:08 |
 | 51 | [Box Fan Haven: Blissful Soundscapes](https://open.spotify.com/track/3gctnAKTNXDS83rtS64ZlV) | [Isotopic Dreams](https://open.spotify.com/artist/7Bz1z7lm6ikWw8tECu67a8) | [Box Fan Haven: Blissful Soundscapes](https://open.spotify.com/album/6Pldue8XtcL9j5rExmXipA) | 2:04 |
 | 52 | [Box Fan Deluxe](https://open.spotify.com/track/5SdkbWbdljFuLJCRSGfzL5) | [Noizu Deluxe](https://open.spotify.com/artist/11OG3LRKgXcTxtDxqkYbH0) | [Box Fan Deluxe](https://open.spotify.com/album/4sljAtnIQxIGK2s9mffFEL) | 3:04 |
 | 53 | [Your Biggest Fan](https://open.spotify.com/track/6um3MKS4JKEzrokNtJ7KOu) | [Soundiescape](https://open.spotify.com/artist/5DaXk2jDrc8Ohsj4oVXR4B) | [Your Biggest Fan](https://open.spotify.com/album/3Z03gGuuXpiML1L3UZb17M) | 2:49 |

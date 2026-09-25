@@ -1,6 +1,6 @@
 {
   "description": "Alegra tu d\u00eda con lo m\u00e1s pop para la ma\u00f1ana.",
-  "num_followers": 1024799,
+  "num_followers": 1024808,
   "original_name": "Despierta y Sonr\u00ede",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "M\u00e1s Que T\u00fa",
-        "url": "https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 197081,
-      "name": "M\u00e1s Que T\u00fa",
-      "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
         "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
         "url": "https://open.spotify.com/album/0HMTQPl6rJmP7sQEaRYHRo"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58/66",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
+        "name": "M\u00e1s Que T\u00fa",
+        "url": "https://open.spotify.com/album/4SQs6PQwQFanCdSfF0CUd9"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 197081,
+      "name": "M\u00e1s Que T\u00fa",
+      "url": "https://open.spotify.com/track/6TzgG83Mj85lfnkWTuyO8O"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -935,22 +935,18 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "MUDA",
-        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
       },
       "artists": [
         {
-          "name": "Car\u00edn Le\u00f3n",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 155454,
-      "name": "Bingo",
-      "url": "https://open.spotify.com/track/3W9cyjAeiXQP2cHsmAtImn"
+      "duration_ms": 181960,
+      "name": "El \u00c1rbol",
+      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -999,18 +995,22 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
+        "name": "MUDA",
+        "url": "https://open.spotify.com/album/2BiSmMZggEAlIKOFJATxut"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Car\u00edn Le\u00f3n",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
         }
       ],
-      "duration_ms": 181960,
-      "name": "El \u00c1rbol",
-      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
+      "duration_ms": 155454,
+      "name": "Bingo",
+      "url": "https://open.spotify.com/track/3W9cyjAeiXQP2cHsmAtImn"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
+        "name": "\u00bfC\u00f3mo Pas\u00f3?",
+        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
+      },
+      "artists": [
+        {
+          "name": "Ela Taubert",
+          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
+        }
+      ],
+      "duration_ms": 174546,
+      "name": "\u00bfC\u00f3mo Pas\u00f3?",
+      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
         "name": "Tal Vez Ma\u00f1ana",
         "url": "https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 208465,
       "name": "Tal Vez Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
-        "name": "\u00bfC\u00f3mo Pas\u00f3?",
-        "url": "https://open.spotify.com/album/60ljXbrvvWXfuvPen2K319"
-      },
-      "artists": [
-        {
-          "name": "Ela Taubert",
-          "url": "https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM"
-        }
-      ],
-      "duration_ms": 174546,
-      "name": "\u00bfC\u00f3mo Pas\u00f3?",
-      "url": "https://open.spotify.com/track/7slBlaUuSCgADZBuTQDYBB"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "M\u00edrame Ahora",
-        "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 154536,
-      "name": "M\u00edrame Ahora",
-      "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
         "name": "cuatro",
         "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 249884,
       "name": "La Boda",
       "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
+        "name": "M\u00edrame Ahora",
+        "url": "https://open.spotify.com/album/68obRe8swOSG89f5UnVSSa"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 154536,
+      "name": "M\u00edrame Ahora",
+      "url": "https://open.spotify.com/track/7bfa2O4fYWZphBFSQQ3FuT"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
+        "name": "Besito en la Frente",
+        "url": "https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 161622,
+      "name": "Besito en la Frente",
+      "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
         "name": "Bajo Cero",
         "url": "https://open.spotify.com/album/2zGuFILxHQ0516trrslslS"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 214000,
       "name": "Bajo Cero",
       "url": "https://open.spotify.com/track/4A0bSbxQF8IpjByg3Rpw9o"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
-        "name": "Besito en la Frente",
-        "url": "https://open.spotify.com/album/6rvkTbkg2SAzq67J0wF0mX"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 161622,
-      "name": "Besito en la Frente",
-      "url": "https://open.spotify.com/track/6PBoSxskeHXpOuyz7fuPNC"
     },
     {
       "added_at": "2026-09-09 22:02:34",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2026-09-09 22:02:34",
       "album": {
-        "name": "SAN BLAS",
-        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 148906,
-      "name": "san blaS",
-      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
-    },
-    {
-      "added_at": "2026-09-09 22:02:34",
-      "album": {
         "name": "Mi Reina",
         "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 183891,
       "name": "Mi Reina",
       "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
+    },
+    {
+      "added_at": "2026-09-09 22:02:34",
+      "album": {
+        "name": "SAN BLAS",
+        "url": "https://open.spotify.com/album/0FftKMxAvrnFuynmLCvjQ0"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 148906,
+      "name": "san blaS",
+      "url": "https://open.spotify.com/track/5I2MsBzDR7YmFG9W5SAWYg"
     }
   ],
   "unique_name": "Despierta y Sonr\u00ede",

@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 183176,
+  "num_followers": 183182,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "\u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088",
-        "url": "https://open.spotify.com/album/2yJHvqjAiOeEYPLjmgRnmg"
-      },
-      "artists": [
-        {
-          "name": "YUKI",
-          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "\u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088",
-      "url": "https://open.spotify.com/track/0WUrnNtdEXTboycmTCjgj9"
-    },
-    {
-      "added_at": "2026-09-22 15:00:38",
-      "album": {
         "name": "\u541b\u3068drive",
         "url": "https://open.spotify.com/album/3xu2GN5QmP5PRfjZy13JcK"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 259615,
       "name": "\u541b\u3068drive",
       "url": "https://open.spotify.com/track/0pzIH1bTIz660rCPDJQSxk"
+    },
+    {
+      "added_at": "2026-09-22 15:00:38",
+      "album": {
+        "name": "\u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088",
+        "url": "https://open.spotify.com/album/2yJHvqjAiOeEYPLjmgRnmg"
+      },
+      "artists": [
+        {
+          "name": "YUKI",
+          "url": "https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII"
+        }
+      ],
+      "duration_ms": 376000,
+      "name": "\u3046\u308c\u3057\u304f\u3063\u3066\u62b1\u304d\u3042\u3046\u3088",
+      "url": "https://open.spotify.com/track/0WUrnNtdEXTboycmTCjgj9"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
+        "name": "cherish",
+        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
+      },
+      "artists": [
+        {
+          "name": "KIRINJI",
+          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+        }
+      ],
+      "duration_ms": 279120,
+      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
+      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
+    },
+    {
+      "added_at": "2026-09-22 15:00:38",
+      "album": {
         "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
         "url": "https://open.spotify.com/album/2SIl2pQR5NvK1fZrAAH5xj"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 125294,
       "name": "\u30a4\u30f3\u30b3\u30f3\u30d7\u30ea\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1CQBrIzkYjNAjCGaNwJE5C"
-    },
-    {
-      "added_at": "2026-09-22 15:00:38",
-      "album": {
-        "name": "Fools in the Rain",
-        "url": "https://open.spotify.com/album/6XTxcPDF68xATWKxvxGkVE"
-      },
-      "artists": [
-        {
-          "name": "XinU",
-          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
-        }
-      ],
-      "duration_ms": 176990,
-      "name": "Fools in the Rain",
-      "url": "https://open.spotify.com/track/2Yv4p5nBE2FCOI8s7qggct"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "cherish",
-        "url": "https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30"
+        "name": "Fools in the Rain",
+        "url": "https://open.spotify.com/album/6XTxcPDF68xATWKxvxGkVE"
       },
       "artists": [
         {
-          "name": "KIRINJI",
-          "url": "https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7"
+          "name": "XinU",
+          "url": "https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw"
         }
       ],
-      "duration_ms": 279120,
-      "name": "\u300c\u3042\u306e\u5a18\u306f\u8ab0\uff1f\u300d\u3068\u304b\u8a00\u308f\u305b\u305f\u3044",
-      "url": "https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4"
+      "duration_ms": 176990,
+      "name": "Fools in the Rain",
+      "url": "https://open.spotify.com/track/2Yv4p5nBE2FCOI8s7qggct"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1319,22 +1319,18 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "\u304a\u306f\u3088\u3046",
-        "url": "https://open.spotify.com/album/10XtjZqcqjXxRdUf0zH5tU"
+        "name": "We won't last forever",
+        "url": "https://open.spotify.com/album/7t8eZ4T5ggu677XyIZxgoi"
       },
       "artists": [
         {
-          "name": "STUTS",
-          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
-        },
-        {
-          "name": "Taeko Onuki",
-          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+          "name": "lili maua",
+          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
         }
       ],
-      "duration_ms": 228865,
-      "name": "\u304a\u306f\u3088\u3046",
-      "url": "https://open.spotify.com/track/4CumCsapxGMoFpw9EZS7M0"
+      "duration_ms": 183862,
+      "name": "We won't last forever",
+      "url": "https://open.spotify.com/track/7fpiNWwolSZNS4VT2ZsacF"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1355,6 +1351,26 @@
       "duration_ms": 259000,
       "name": "Night Distance",
       "url": "https://open.spotify.com/track/0G9OA0VqF6SKtyYraNE5xv"
+    },
+    {
+      "added_at": "2026-09-22 15:00:38",
+      "album": {
+        "name": "\u304a\u306f\u3088\u3046",
+        "url": "https://open.spotify.com/album/10XtjZqcqjXxRdUf0zH5tU"
+      },
+      "artists": [
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "Taeko Onuki",
+          "url": "https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy"
+        }
+      ],
+      "duration_ms": 228865,
+      "name": "\u304a\u306f\u3088\u3046",
+      "url": "https://open.spotify.com/track/4CumCsapxGMoFpw9EZS7M0"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1395,22 +1411,6 @@
       "duration_ms": 217659,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1"
-    },
-    {
-      "added_at": "2026-09-22 15:00:38",
-      "album": {
-        "name": "We won't last forever",
-        "url": "https://open.spotify.com/album/7t8eZ4T5ggu677XyIZxgoi"
-      },
-      "artists": [
-        {
-          "name": "lili maua",
-          "url": "https://open.spotify.com/artist/00tPxYrATmLG5rRDRfhDMM"
-        }
-      ],
-      "duration_ms": 183862,
-      "name": "We won't last forever",
-      "url": "https://open.spotify.com/track/7fpiNWwolSZNS4VT2ZsacF"
     },
     {
       "added_at": "2026-09-22 15:00:38",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2026-09-22 15:00:38",
       "album": {
-        "name": "Drink!",
-        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
-      },
-      "artists": [
-        {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
-        },
-        {
-          "name": "YonYon",
-          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
-        }
-      ],
-      "duration_ms": 187862,
-      "name": "Drink!",
-      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
-    },
-    {
-      "added_at": "2026-09-22 15:00:38",
-      "album": {
         "name": "\u5b66\u82b8\u5927\u524d",
         "url": "https://open.spotify.com/album/0Tj7XhVJC8Yeq75O16hsg6"
       },
@@ -1555,6 +1535,26 @@
       "duration_ms": 216631,
       "name": "\u5b66\u82b8\u5927\u524d",
       "url": "https://open.spotify.com/track/05XI1yOrAAitf2fDmychwj"
+    },
+    {
+      "added_at": "2026-09-22 15:00:38",
+      "album": {
+        "name": "Drink!",
+        "url": "https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        },
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        }
+      ],
+      "duration_ms": 187862,
+      "name": "Drink!",
+      "url": "https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b"
     },
     {
       "added_at": "2026-09-22 15:00:38",

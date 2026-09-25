@@ -2,9 +2,9 @@
 
 ### [Baladas Rock](https://open.spotify.com/playlist/37i9dQZF1DX0URqd6gYywe)
 
-> Dejate llevar por los mejores lentos del rock\. Foto: RAMMA & Cindy Cats
+> Los mejores lentos del rock\. Foto: reybruja
 
-191 songs - 13 hr 2 min
+192 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,15 +150,15 @@
 | [Parte de Mi](https://open.spotify.com/track/4HPXjU7Jz4wHp9GlDlNpWt) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi), [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [PARADISO](https://open.spotify.com/album/0S3TDFrysfwpXUC8JiDkH9) | 3:45 | 2025-07-18 |  |
 | [Pasan las Horas \- En Vivo Acústico](https://open.spotify.com/track/4PZVup7z7oXGhwvzsygBMw) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Acústico Gran Rex](https://open.spotify.com/album/3RBBy6nRQ3BHhLjrJ7m86Q) | 4:36 | 2022-06-03 |  |
 | [Pasos Al Costado](https://open.spotify.com/track/2CHRH34SWRjo1hvvbnpDww) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Pasos Al Costado](https://open.spotify.com/album/0RIsFI6QTHoMkrs46q3ApG) | 4:00 | 2024-10-04 |  |
-| [Pensamientos](https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Pensamientos](https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf) | 3:53 | 2022-06-03 |  |
+| [Pensamientos](https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Pensamientos](https://open.spotify.com/album/2RYIfoNF29kFoR60jOpaHf) | 3:53 | 2022-06-03 | 2026-09-25 |
 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 | 2022-06-03 |  |
-| [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 | 2022-06-03 | 2024-12-11 |
+| [Por Mil Noches](https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Libertad](https://open.spotify.com/album/44V33dl0drKUZAcrGcL0sN) | 4:43 | 2022-06-03 |  |
 | [Por Mil Noches \- En Vivo](https://open.spotify.com/track/6HDAukRzsHVdmxiQi9K320) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Airbag \- En Vivo Estadio Vélez](https://open.spotify.com/album/2Re4hPtoqV1maGf7jvnMNP) | 5:03 | 2024-10-10 |  |
 | [Puente](https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Bocanada](https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC) | 4:34 | 2022-06-03 |  |
 | [Pétalo de sal](https://open.spotify.com/track/47rrhPXwe6sfKtIDwJAsO4) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [El Amor Después del Amor](https://open.spotify.com/album/1nDTw13U4zW8YuelhilKW5) | 2:43 | 2022-06-03 |  |
 | [Que Ves?](https://open.spotify.com/track/6TzpJImasQyQjp46Umdqav) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Divididos](https://open.spotify.com/album/6pBBwZ9fgbSNonR3F4b64w) | 5:13 | 2022-06-03 | 2024-04-22 |
 | [Roto](https://open.spotify.com/track/0G0qz1tF8IgGc2pANlH7X3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [Roto](https://open.spotify.com/album/06cMimO1BixYYuhsyNwXPV) | 3:48 | 2023-10-05 | 2026-06-07 |
-| [Se Quiere Matar](https://open.spotify.com/track/77r4DCtHsLL6dJr0HxNXJq) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:47 | 2024-09-26 |  |
+| [Se Quiere Matar](https://open.spotify.com/track/77r4DCtHsLL6dJr0HxNXJq) | [Mora y los Metegoles](https://open.spotify.com/artist/3bE6MHB83GAQf8NsvmcpCX) | [Mundo Moderno](https://open.spotify.com/album/6bRvXiS5p6KygKxMYGlqGQ) | 2:47 | 2024-09-26 | 2026-09-25 |
 | [Seguir Viviendo Sin Tu Amor](https://open.spotify.com/track/2qBirMakpTdz9ymxrZEyzg) | [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [Peluson Of Milk](https://open.spotify.com/album/0sEqp7Del2dp8HmXE8Geqv) | 2:40 | 2022-06-03 |  |
 | [Seremos Idiotas](https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf) | [Seremos Idiotas](https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I) | 3:17 | 2024-03-07 | 2026-09-23 |
 | [Será](https://open.spotify.com/track/60IzIxSuVAtU71yCmHjxHH) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Esperando el Milagro](https://open.spotify.com/album/7nXlmH0p6PfgKTsxy3DzCT) | 3:01 | 2022-06-03 |  |
@@ -198,6 +198,7 @@
 | [X siempre](https://open.spotify.com/track/1rC15GTy1lsjfoJcXmGqvB) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Xtrapolar](https://open.spotify.com/album/4u1jbZPF6zGnOAJaaLOW1h) | 3:03 | 2024-06-06 |  |
 | [Y Quemás](https://open.spotify.com/track/0W2VdCTKDOfhOKHky0vE8I) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/7r7ZGTQNtiOGBKoJ1cNd4d) | 4:52 | 2022-06-03 | 2022-07-29 |
 | [Y Quemás](https://open.spotify.com/track/499kpq8yWHsIWhWrM0Wk6v) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Azul](https://open.spotify.com/album/0ryyNNi9K5iLu7v4uQSJ4c) | 4:52 | 2022-07-06 | 2023-05-03 |
+| [yirando en el mood](https://open.spotify.com/track/0MZ2On2GgfAsyOzJ3Xv9uT) | [reybruja](https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz) | [GUSTAR Y OFENDER](https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd) | 3:48 | 2026-09-24 |  |
 | [¿Qué Ves?](https://open.spotify.com/track/5lHCIbpRu6P02qggxYjaDq) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Serie Oro](https://open.spotify.com/album/0wys34onwdNHLCTZWLjLt8) | 5:13 | 2023-11-10 | 2024-04-19 |
 
 \*This playlist was first scraped on 2022-06-30. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "description": "slap house on repeat. ",
-  "num_followers": 339764,
+  "num_followers": 339759,
   "original_name": "SLAP!",
   "owner": {
     "name": "Spotify",
@@ -531,26 +531,6 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
-        "name": "Afterparty",
-        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
-        }
-      ],
-      "duration_ms": 160849,
-      "name": "Afterparty",
-      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
         "name": "Everybody Cries",
         "url": "https://open.spotify.com/album/22UkULGN9jMQruUx7wHBSu"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 170662,
       "name": "Everybody Cries",
       "url": "https://open.spotify.com/track/2loc1fUXmJr8urMqhZOKJ8"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
+        "name": "Afterparty",
+        "url": "https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        }
+      ],
+      "duration_ms": 160849,
+      "name": "Afterparty",
+      "url": "https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK"
     },
     {
       "added_at": "2025-02-14 16:04:15",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-02-14 16:04:15",
       "album": {
+        "name": "I Don't Wanna Go",
+        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
+      },
+      "artists": [
+        {
+          "name": "Tujamo",
+          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
+        }
+      ],
+      "duration_ms": 186480,
+      "name": "I Don't Wanna Go",
+      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
+    },
+    {
+      "added_at": "2025-02-14 16:04:15",
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6DCOsfIWEGFtDlfQ5Y6h8M"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 172500,
       "name": "abcdefu",
       "url": "https://open.spotify.com/track/4n7llAzVaSqxAI2TtwqdDr"
-    },
-    {
-      "added_at": "2025-02-14 16:04:15",
-      "album": {
-        "name": "I Don't Wanna Go",
-        "url": "https://open.spotify.com/album/5CuH8Ljl0rFq32hJPJLJCf"
-      },
-      "artists": [
-        {
-          "name": "Tujamo",
-          "url": "https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh"
-        }
-      ],
-      "duration_ms": 186480,
-      "name": "I Don't Wanna Go",
-      "url": "https://open.spotify.com/track/5RQmbhnkrt6llPrxqRsym4"
     },
     {
       "added_at": "2025-02-14 16:04:15",

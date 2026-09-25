@@ -1,6 +1,6 @@
 {
   "description": "El nuevo sonido de la canci\u00f3n sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.",
-  "num_followers": 29667,
+  "num_followers": 29673,
   "original_name": "Voces del Sur",
   "owner": {
     "name": "Spotify",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2026-03-10 15:20:53",
       "album": {
-        "name": "Los Ancestros",
-        "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
-      },
-      "artists": [
-        {
-          "name": "Lucio Mantel",
-          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
-        },
-        {
-          "name": "La L\u00e1",
-          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
-        }
-      ],
-      "duration_ms": 250723,
-      "name": "Los Ancestros",
-      "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
-    },
-    {
-      "added_at": "2026-03-10 15:20:53",
-      "album": {
         "name": "Empez\u00e1",
         "url": "https://open.spotify.com/album/4UiDQjquvgXAKNNceTZldp"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 199429,
       "name": "Empez\u00e1",
       "url": "https://open.spotify.com/track/5IeeKP9RuykyaPwK3dAL0H"
+    },
+    {
+      "added_at": "2026-03-10 15:20:53",
+      "album": {
+        "name": "Los Ancestros",
+        "url": "https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24"
+      },
+      "artists": [
+        {
+          "name": "Lucio Mantel",
+          "url": "https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk"
+        },
+        {
+          "name": "La L\u00e1",
+          "url": "https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H"
+        }
+      ],
+      "duration_ms": 250723,
+      "name": "Los Ancestros",
+      "url": "https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2"
     },
     {
       "added_at": "2026-03-10 15:20:53",

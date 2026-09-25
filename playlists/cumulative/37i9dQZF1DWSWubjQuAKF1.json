@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Qncicka",
+  "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Sara James",
   "name": "up next",
   "tracks": [
     {
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 117120,
       "name": "bez s\u0142\u00f3w",
       "url": "https://open.spotify.com/track/3Mf0raiHbeCis8RpJG1Aiq"
@@ -4077,6 +4077,24 @@
     },
     {
       "album": {
+        "name": "DON JULIO",
+        "url": "https://open.spotify.com/album/6xCBm3N0O7SPkHh1gTJqgR"
+      },
+      "artists": [
+        {
+          "name": "Kuba Szmajkowsky",
+          "url": "https://open.spotify.com/artist/6VMslcLSscfWZSy98JfNiQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "DON JULIO",
+      "url": "https://open.spotify.com/track/5540G3oL3tJVuL6zF1trC6"
+    },
+    {
+      "album": {
         "name": "dooko\u0142a mnie",
         "url": "https://open.spotify.com/album/7AF2nxYKHzJM1C7PpI94og"
       },
@@ -4186,7 +4204,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 159567,
       "name": "Dreszcze",
       "url": "https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL"
@@ -4584,7 +4602,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171516,
       "name": "Esmeralda",
       "url": "https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P"
@@ -4682,6 +4700,24 @@
       "duration_ms": 152750,
       "name": "Fake ID",
       "url": "https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR"
+    },
+    {
+      "album": {
+        "name": "Fall In Love With Me",
+        "url": "https://open.spotify.com/album/0ubfpcm64JcRxzcswazYdj"
+      },
+      "artists": [
+        {
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168685,
+      "name": "Fall In Love With Me",
+      "url": "https://open.spotify.com/track/0jXng1BPR8uiwt4v0rb16F"
     },
     {
       "album": {
@@ -6684,7 +6720,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 132000,
       "name": "je\u015bli pozwolisz",
       "url": "https://open.spotify.com/track/6qz5YC7w9zHvbo8idA2eZu"
@@ -7314,6 +7350,24 @@
       "duration_ms": 154405,
       "name": "Kr\u00f3lowa i Kr\u00f3l",
       "url": "https://open.spotify.com/track/3usL9dS4TrO251dfZ5y4vr"
+    },
+    {
+      "album": {
+        "name": "Kr\u0119ci si\u0119 ziemia",
+        "url": "https://open.spotify.com/album/6GCVq8w7OneerzKxZnx69b"
+      },
+      "artists": [
+        {
+          "name": "Leon Krze\u015bniak",
+          "url": "https://open.spotify.com/artist/1otG4oP2AJMnYAW0ufLKEU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152213,
+      "name": "Kr\u0119ci si\u0119 ziemia",
+      "url": "https://open.spotify.com/track/1PiLxgvgCjTIaXzXolXF3g"
     },
     {
       "album": {
@@ -8574,7 +8628,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 156000,
       "name": "Midnight Echoes",
       "url": "https://open.spotify.com/track/0dHNJPhlBpk1f65kRmwoWj"
@@ -9206,6 +9260,28 @@
       "duration_ms": 145134,
       "name": "Mo\u017ce wolniej",
       "url": "https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi"
+    },
+    {
+      "album": {
+        "name": "mo\u017cemorze",
+        "url": "https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159529,
+      "name": "mo\u017cemorze",
+      "url": "https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn"
     },
     {
       "album": {
@@ -11706,7 +11782,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 116885,
       "name": "PARANOJA",
       "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
@@ -12766,7 +12842,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 188976,
       "name": "PRZY TOBIE",
       "url": "https://open.spotify.com/track/6IunjfJaJElmdpudshkY6U"
@@ -13284,6 +13360,24 @@
       "duration_ms": 190800,
       "name": "rozla\u0142am mleko",
       "url": "https://open.spotify.com/track/6OpN6R8X0L1MMihWmTIM6M"
+    },
+    {
+      "album": {
+        "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
+        "url": "https://open.spotify.com/album/79Ei0b2LJYNQ1py2VxFqSk"
+      },
+      "artists": [
+        {
+          "name": "dezydery",
+          "url": "https://open.spotify.com/artist/0fdWtNx0iazarVEaQ30VEE"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173926,
+      "name": "Ruchy pe\u0142ne d\u017awi\u0119ku",
+      "url": "https://open.spotify.com/track/2P5bFUdYdTZq13FIRbqdzo"
     },
     {
       "album": {
@@ -15694,7 +15788,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 205641,
       "name": "To jest to!",
       "url": "https://open.spotify.com/track/1I7nEa7aWULffUDCJrkhVp"
@@ -15770,6 +15864,24 @@
       "duration_ms": 183092,
       "name": "To nie to",
       "url": "https://open.spotify.com/track/4sx1F5vrBxheiLB9LsGfPB"
+    },
+    {
+      "album": {
+        "name": "To zabola\u0142o",
+        "url": "https://open.spotify.com/album/0q568p4Sn8OPCA1J9Y8vnn"
+      },
+      "artists": [
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "To zabola\u0142o",
+      "url": "https://open.spotify.com/track/3rJJtexpt4wYgbBd92jpgE"
     },
     {
       "album": {
@@ -15972,6 +16084,24 @@
       "duration_ms": 181463,
       "name": "Tracimy tylko czas",
       "url": "https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n"
+    },
+    {
+      "album": {
+        "name": "THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO",
+        "url": "https://open.spotify.com/album/5zooMKDaIjcg8gqsLCMFk8"
+      },
+      "artists": [
+        {
+          "name": "Marie",
+          "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 1",
+      "url": "https://open.spotify.com/track/6CKUQ4zcPPp63nPYaCfXKu"
     },
     {
       "album": {
@@ -18490,6 +18620,24 @@
       "duration_ms": 138094,
       "name": "zosta\u0144",
       "url": "https://open.spotify.com/track/2jQlVcDnyiMjmrQ7XrK70X"
+    },
+    {
+      "album": {
+        "name": "ZR\u00d3B TO DLA MNIE",
+        "url": "https://open.spotify.com/album/73T0qeSoVVXxYdJBpCzGWE"
+      },
+      "artists": [
+        {
+          "name": "Sara James",
+          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185909,
+      "name": "ZR\u00d3B TO DLA MNIE",
+      "url": "https://open.spotify.com/track/4K88kcWQbXeUBrG7GRh5dc"
     },
     {
       "album": {

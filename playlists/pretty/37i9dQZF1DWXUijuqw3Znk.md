@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 
 > 바닥에서 위로\. 성공을 위한 열정과 집념을 느껴보세요\. \(커버: Royal 44\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,075 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 63 | [Double Up \(Feat\. skinny brown, CK\)](https://open.spotify.com/track/3TfIXDBZJqZzjDHnw50yDL) | [Way Ched](https://open.spotify.com/artist/75OcDAFGCzj0qehe1mADeM), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [Ck](https://open.spotify.com/artist/4Kp3kXbpeN2OGh0K14rzYy) | [IT′S YOUR WAY](https://open.spotify.com/album/1fElnXqdUqkPD9qEGxwEYb) | 3:09 |
 | 64 | [Still Hungry \(Feat\. Mommy Son & Paloalto\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/53Hp37eNMMaDzUJLYsSUJi) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Mommy Son](https://open.spotify.com/artist/5xWKWXamxbujIdti9xpnI1), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Show Me The Money 9 Final](https://open.spotify.com/album/7mHfIfu0UDbbf86KHykjAq) | 4:44 |
 | 65 | [GANGSHIN](https://open.spotify.com/track/0PIagLSC85oKKCE5TggEX2) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q) | [MANTA BIPOLAR, Pt\. 2](https://open.spotify.com/album/2aPI1gfxJADKL9FBfMe6xd) | 2:00 |
-| 66 | [karma](https://open.spotify.com/track/1VLWDblUFbA3XzeCxu2ylb) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:27 |
-| 67 | [Ambition](https://open.spotify.com/track/01uundlafYcn0y26uqmsGo) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [DBSG 3](https://open.spotify.com/album/0MGYgCcyvUsD049HNqxiVy) | 3:36 |
+| 66 | [Ambition](https://open.spotify.com/track/01uundlafYcn0y26uqmsGo) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Hash Swan](https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg), [Keem Hyo\-Eun](https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p) | [DBSG 3](https://open.spotify.com/album/0MGYgCcyvUsD049HNqxiVy) | 3:36 |
+| 67 | [karma](https://open.spotify.com/track/1VLWDblUFbA3XzeCxu2ylb) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 2:27 |
 | 68 | [BLACKBOX](https://open.spotify.com/track/2LMrUWb6bnyM8bWWcppwXL) | [Khundi Panda](https://open.spotify.com/artist/32wJE7JooXm59HxYhy7caU) | [GAROSAWK](https://open.spotify.com/album/4WXMcC4tSLWowFlX67HMwi) | 3:04 |
 | 69 | [MIRACLE\(Album version\)](https://open.spotify.com/track/3WagJrXxM0VMY0pLHucnYu) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [HIGH RISK HIGH RETURN](https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih) | 2:03 |
 | 70 | [Green Ideology](https://open.spotify.com/track/2TEZ1dTfRIgsWYWOa3Ibf8) | [TAKEWON](https://open.spotify.com/artist/31jg46rtB7MyrVPXZATmsa) | [Green Ideology](https://open.spotify.com/album/0KPNc9K0TqosJCKuMm9VyN) | 3:27 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUijuqw3Znk.md) - [plain]
 | 95 | [Never Give Up](https://open.spotify.com/track/7A9AhTLKa87hQcFhS4jb7P) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [Graduation](https://open.spotify.com/album/2GQ0hzRmV4NZ3GF4KFGnBX) | 2:41 |
 | 96 | [Naked \(Feat\. SINCE, Roh Yun Ha\)](https://open.spotify.com/track/20SnjTFsnEWVYtqUEB7EYx) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [unorthodox](https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd) | 4:04 |
 | 97 | [Universe \(feat\. Lee Juck\)](https://open.spotify.com/track/68duJkvrmsHi0nR44nUXZc) | [Pinodyne](https://open.spotify.com/artist/15KKvag6UK4hwsNCJmFY09), [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Universe](https://open.spotify.com/album/6zRk67AeZus6zzIxU9kJAb) | 3:47 |
-| 98 | [바닥에서부터](https://open.spotify.com/track/2M3Cc8JnL9oahiDr2S29V5) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 2:13 |
-| 99 | [Yessir!](https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6) | [BLSP](https://open.spotify.com/artist/4ec52yNguqiIkLXqkt7ZV2), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [YF](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Yessir!](https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV) | 2:09 |
+| 98 | [Yessir!](https://open.spotify.com/track/7gDjX9OBv0igB7PyZXJje6) | [BLSP](https://open.spotify.com/artist/4ec52yNguqiIkLXqkt7ZV2), [unofficialboyy](https://open.spotify.com/artist/0hoIUrMFR0Cy6aTbma8b2o), [YF](https://open.spotify.com/artist/7Lhw1kKfHHKBfcvMSD3DLl) | [Yessir!](https://open.spotify.com/album/5pUsKPyDAiruVHE9pHYrZV) | 2:09 |
+| 99 | [바닥에서부터](https://open.spotify.com/track/2M3Cc8JnL9oahiDr2S29V5) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [죽을힘을 다하여](https://open.spotify.com/album/6n4NjXecmDkfJHIAaeg5cb) | 2:13 |
 | 100 | [monologue \(Feat\. GSoul\)](https://open.spotify.com/track/0zOh4s95HEcFRSS4SzScTx) | [JOOHONEY](https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k), [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [LIGHTS](https://open.spotify.com/album/6lVLpHULkoKw2pFhzDXXaN) | 3:06 |
 
 Snapshot ID: `AAAAAC6607tB4Q1HigJR+BvCfxHb+FLK`

@@ -4,7 +4,7 @@
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: נועם בתן
 
-741 songs - 1 day 14 hr 55 min
+743 songs - 1 day 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [דרום תל אביב](https://open.spotify.com/track/19H9NwT6tXVQJDR3a2Q0js) | [Coral Bismuth](https://open.spotify.com/artist/4HHSTY3bNxoprZF3vJ8gLE) | [דרום תל אביב](https://open.spotify.com/album/4SG8PkLRRoAPhSFuAebxhd) | 2:32 | 2025-05-22 | 2025-07-11 |
 | [דרישת שלום מחיים אחרים \(מילי\) \[Drishat Shalom Me'Chaim Acherim \(Mili\)\]](https://open.spotify.com/track/2xtGFPXdUnH7Kqfw9sbIZQ) | [Idan Raichel](https://open.spotify.com/artist/5EBnQEKoaiAk37Q7cfGrE1), [שירה בן שמחון](https://open.spotify.com/artist/3KzDBlFWWc5PMOLDnGnGnS) | [דרישת שלום מחיים אחרים \(מילי\) \[Drishat Shalom Me'Chaim Acherim \(Mili\)\]](https://open.spotify.com/album/0rh2sxfvoJdBZqqJJSvBJI) | 3:16 | 2025-01-09 | 2025-05-16 |
 | [דרך העושים מאהבה](https://open.spotify.com/track/44t8ofCDsaORHScldYd4mX) | [Ishay Ribo](https://open.spotify.com/artist/3VTm1513t2LL1mSKzzyQuj), [Zusha](https://open.spotify.com/artist/0VXG44vdmNhcTCipc2Iz3Z) | [דרך העושים מאהבה](https://open.spotify.com/album/5sO3zESDSsBFgd9m76MK2q) | 3:14 | 2026-09-10 |  |
+| [האהבות שלנו \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/track/0N5gavNF8pNkuRRTlvBtxR) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [האהבות שלנו \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/album/3GsUvTls2yQfeUyxrVia9u) | 3:54 | 2026-09-24 |  |
 | [האש האדומה \(גב אל גב\)](https://open.spotify.com/track/22HuT7lUktFKIQVrXBFfpA) | [Idan Rafael Haviv](https://open.spotify.com/artist/57PnQxsNvOvG2ZDElDEUjW) | [האש האדומה \(גב אל גב\)](https://open.spotify.com/album/3gssKPIy8JGDO6nTYHLCpT) | 2:52 | 2025-01-23 | 2025-03-07 |
 | [הבלדה על חדווה ושלומיק](https://open.spotify.com/track/1qx2owEBU6i8mmPwo6lySF) | [Meshi Kleinstein](https://open.spotify.com/artist/5UXzKAfgV4czwkDaJE5NmP) | [הבלדה על חדווה ושלומיק](https://open.spotify.com/album/6BOfa8e7xiFWdx5sSBbVzH) | 3:51 | 2026-04-23 | 2026-06-05 |
 | [הגג של העולם](https://open.spotify.com/track/7sWMew6lB584kOW7r81dBG) | [Noifeld's Glasses](https://open.spotify.com/artist/4moIrr6CFQSWiglLx5q9SS), [רביב כנר](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [הגג של העולם](https://open.spotify.com/album/4mNlUSxoHpAPPY7erHZLRK) | 3:53 | 2025-07-03 | 2025-09-05 |
@@ -351,7 +352,7 @@
 | [חורלא](https://open.spotify.com/track/3C7jJyJwgICuugBmm0ydGM) | [נוגה](https://open.spotify.com/artist/6HW3QANBDKr3G55gTxLUxc), [Lava Dome](https://open.spotify.com/artist/7cyXcAXjpUsTLIvBqsmIEC) | [בחזרה לארון](https://open.spotify.com/album/2wM0XTYE5UDr2dlgs6OqWp) | 2:58 | 2025-08-14 | 2025-09-12 |
 | [חושב שאתה מסי](https://open.spotify.com/track/3Pj0N7pQNa0zJQPbac2zN8) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [חושב שאתה מסי](https://open.spotify.com/album/2PgYa45gNf3GJuHmrdQGTZ) | 2:15 | 2026-07-09 |  |
 | [חי באנשים](https://open.spotify.com/track/6N3FM8RgFBVElijPWpGUjJ) | [Harel Moyal](https://open.spotify.com/artist/2icfuQZ4Mhw10Kbrzzsm4z) | [חי באנשים](https://open.spotify.com/album/0rTvR1Px1Yp36ffP1HPN8F) | 3:51 | 2026-04-16 | 2026-05-29 |
-| [חיזל"שתי](https://open.spotify.com/track/78xRG1G6qEXKY2mvIsWCvn) | [ליבי](https://open.spotify.com/artist/6i6cYhUsMaxv83MXcZh3PH) | [חיזל"שתי](https://open.spotify.com/album/589scGiykt7YGSWs0Gcr1L) | 2:31 | 2026-08-27 |  |
+| [חיזל"שתי](https://open.spotify.com/track/78xRG1G6qEXKY2mvIsWCvn) | [ליבי](https://open.spotify.com/artist/6i6cYhUsMaxv83MXcZh3PH) | [חיזל"שתי](https://open.spotify.com/album/589scGiykt7YGSWs0Gcr1L) | 2:31 | 2026-08-27 | 2026-09-25 |
 | [חיילת של אושר](https://open.spotify.com/track/6Cp1HsYY2lWxO6wZviv7O0) | [May Sfadia](https://open.spotify.com/artist/4Bl08QHOgjjt8Hcg53iq0j) | [חיילת של אושר](https://open.spotify.com/album/3HJxggybi3KKXQUvXi1lb9) | 2:30 | 2024-08-29 | 2024-10-04 |
 | [חיים אחרי החושך](https://open.spotify.com/track/5mwwuLpggNCtpBurxrHNgM) | [Orr Amrami Brockman](https://open.spotify.com/artist/7LYQkaWV7dxEs53F8kP7Ml) | [חיים אחרי החושך](https://open.spotify.com/album/23PtbemoVRIgGreyLpACJQ) | 3:22 | 2026-01-22 | 2026-02-20 |
 | [חיים אחרים](https://open.spotify.com/track/44oP585qVImmmbPCd0ZOao) | [Liran Danino](https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk) | [לירן דנינו חוזר](https://open.spotify.com/album/0PxZoMchX02SdWaauTupaG) | 3:15 | 2025-06-12 | 2025-08-01 |
@@ -394,6 +395,7 @@
 | [ישראלי קומפלט](https://open.spotify.com/track/4fuSUBuTZ4JOZCrmqcQ9YQ) | [Hatikva 6](https://open.spotify.com/artist/3umXlcgiDTcCRkvPVobeJc) | [ויהי אור](https://open.spotify.com/album/4GTyWzfaeAf3cVAiWP0GXo) | 3:38 | 2025-11-20 | 2026-02-13 |
 | [ישתבח](https://open.spotify.com/track/4jgOx2gmCmaDndHkeBv1Ja) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd) | [ישתבח](https://open.spotify.com/album/7BmNayS6whQ64NpKgy2OO0) | 2:51 | 2025-03-27 | 2025-07-11 |
 | [כאפות](https://open.spotify.com/track/3FucKWzjyTIGLBkSnJAMYm) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [כולנו חיים את אותם חיים](https://open.spotify.com/album/0Wutr4T7MPONsaRT4XdWCZ) | 2:29 | 2026-04-02 | 2026-06-05 |
+| [כוכבי לכת](https://open.spotify.com/track/15scHQhFam9KWtT1HTonlt) | [עידו מלכה](https://open.spotify.com/artist/2UAEpEEwnaFVjWZGwxHWL3) | [כוכבי לכת](https://open.spotify.com/album/26VVBRusoyTnKbtGbl7t77) | 2:30 | 2026-09-24 |  |
 | [כוכבים של אושר](https://open.spotify.com/track/2wvQYI212zCnC1pBWa1LPK) | [Yuval Dayan](https://open.spotify.com/artist/4iWsyISSQEYGxdqBNVwqtA) | [תישארי את](https://open.spotify.com/album/6t5HmO126LXHRKGgp6xbOM) | 3:32 | 2024-06-27 | 2024-07-05 |
 | [כולם גנבים](https://open.spotify.com/track/7IYAf32MmX7oCqgnGNT3g8) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Life Lately](https://open.spotify.com/album/3TEETsW2tjzuqXArpb53sz) | 4:01 | 2026-02-19 | 2026-06-26 |
 | [כיסופים](https://open.spotify.com/track/126pWwvxLD4ng4UWY85yR7) | [רביב כנר](https://open.spotify.com/artist/5p205uKfxztlzI3oD15AKf) | [כיסופים](https://open.spotify.com/album/4DYscIhpcdkfb47HZCNvdL) | 3:06 | 2026-04-16 | 2026-06-19 |
@@ -466,7 +468,7 @@
 | [לופ](https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [לופ](https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L) | 2:43 | 2024-09-19 | 2025-01-31 |
 | [לופ](https://open.spotify.com/track/0yKwwFduTIFlNOGBgovLfl) | [אור כהן](https://open.spotify.com/artist/34yY1pp0GMv8sXqsaAHsBy) | [לופ](https://open.spotify.com/album/7BJdpfmJwWVKB1e2BcrobL) | 3:00 | 2024-07-11 | 2024-09-21 |
 | [ליידי סאן](https://open.spotify.com/track/5OU8hmlaNKOCj2GZEdcWJp) | [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d), [Ania Bukstein](https://open.spotify.com/artist/1nLHP2z03gwEP1YL02xVMg) | [ליידי סאן](https://open.spotify.com/album/1uNG2YpwsyvKGEIHm6yQFX) | 2:54 | 2026-06-25 | 2026-07-31 |
-| [לילה](https://open.spotify.com/track/3jbsXv9jyUDqZPygxhLjUd) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [הגנוז](https://open.spotify.com/album/0XI88YmRLNclAB2fKBjpK9) | 4:26 | 2026-08-06 |  |
+| [לילה](https://open.spotify.com/track/3jbsXv9jyUDqZPygxhLjUd) | [Nunu](https://open.spotify.com/artist/0wJDdyoTfE5SuqPNFvi2lG) | [הגנוז](https://open.spotify.com/album/0XI88YmRLNclAB2fKBjpK9) | 4:26 | 2026-08-06 | 2026-09-25 |
 | [לילה](https://open.spotify.com/track/3L6v9KF0FzCs8dA6iwrA8c) | [נופיה](https://open.spotify.com/artist/0rHxmqmqlCy0dQs0UqRq9q) | [לילה](https://open.spotify.com/album/6deVMZHnvGfVxMrqmpuwRg) | 3:20 | 2026-08-13 | 2026-09-11 |
 | [לילה בלילה](https://open.spotify.com/track/0SQvIo11RX8SGIiD7OqrYG) | [נועם קלינשטיין](https://open.spotify.com/artist/0fApsdhIzCLZQh7hZShlqV) | [אני הנעורים](https://open.spotify.com/album/3V7EVlHX4cG2ZUKErMDyy2) | 3:02 | 2024-11-28 | 2025-03-21 |
 | [לילה טוב](https://open.spotify.com/track/1K4B8txQg7prX0eNSDPdzu) | [בניה ברבי](https://open.spotify.com/artist/0WjQnf1rQ0tY84gGgjrQQ9) | [לשם יחוד](https://open.spotify.com/album/0RdcDMGN5bFCY7GWv37UmT) | 3:57 | 2026-02-26 | 2026-07-03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Headie One, Digga",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Bawo",
   "name": "Rap UK",
   "tracks": [
     {
@@ -17390,7 +17390,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 149776,
       "name": "Game On (ft. JT)",
       "url": "https://open.spotify.com/track/7EI4Scb5kZkSeympsOtP9h"
@@ -18836,6 +18836,24 @@
       "duration_ms": 134347,
       "name": "GSD",
       "url": "https://open.spotify.com/track/3iyU8ATefN3BfehYazr2go"
+    },
+    {
+      "album": {
+        "name": "GTA 6",
+        "url": "https://open.spotify.com/album/6QyA08yU08CQrCcAqkh1bg"
+      },
+      "artists": [
+        {
+          "name": "Travy",
+          "url": "https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137500,
+      "name": "GTA 6",
+      "url": "https://open.spotify.com/track/0CdBlT9EtP6u89NCTmkFqH"
     },
     {
       "album": {
@@ -23352,7 +23370,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 102083,
       "name": "Keep Up (feat. Boohavinn)",
       "url": "https://open.spotify.com/track/13yfsQmT13TosKcw6181NQ"
@@ -38250,7 +38268,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 173793,
       "name": "Same Old Story",
       "url": "https://open.spotify.com/track/4ohYnWl912l2yKZ46EDStE"
@@ -47832,7 +47850,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169846,
       "name": "whine am well ft. onoola-sama",
       "url": "https://open.spotify.com/track/4ybF6GxAkdtcHaW37iKsWu"
@@ -48771,6 +48789,24 @@
     },
     {
       "album": {
+        "name": "Surf's Up",
+        "url": "https://open.spotify.com/album/7xOXvAr4rtexCJs1EdSMOF"
+      },
+      "artists": [
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Wrestlemania",
+      "url": "https://open.spotify.com/track/1CJcXEEggADxTHcdG6JrWq"
+    },
+    {
+      "album": {
         "name": "Writer's Block",
         "url": "https://open.spotify.com/album/7GkZ6kUXHyYVa4npDZYwK8"
       },
@@ -48923,6 +48959,24 @@
     },
     {
       "album": {
+        "name": "YA MAD",
+        "url": "https://open.spotify.com/album/25SdgnbFW8DxL3YCf0NJmg"
+      },
+      "artists": [
+        {
+          "name": "Russ Millions",
+          "url": "https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "YA MAD",
+      "url": "https://open.spotify.com/track/7bhDHSpmOpMWbDbO2njT5u"
+    },
+    {
+      "album": {
         "name": "YA! Remix",
         "url": "https://open.spotify.com/album/0I5DwOliGCsPOP4054xqR1"
       },
@@ -49000,6 +49054,28 @@
       "duration_ms": 225333,
       "name": "yawn",
       "url": "https://open.spotify.com/track/56CNfi2sGoySvA6onBw8J5"
+    },
+    {
+      "album": {
+        "name": "Ye",
+        "url": "https://open.spotify.com/album/3clavYvvQGYh01lciAx3t3"
+      },
+      "artists": [
+        {
+          "name": "Clavish",
+          "url": "https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1"
+        },
+        {
+          "name": "163Margs",
+          "url": "https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "Ye",
+      "url": "https://open.spotify.com/track/0oEhMEWHXOiYs58LP6ioC9"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  Mercy Chinwo",
-  "num_followers": 20850,
+  "num_followers": 20871,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALQiuQhOn4DsN3t9Z662lsRE6yjV",
+  "snapshot_id": "AAAAAHbm7q1/iygHQHsDLFXJpcAocSlf",
   "tracks": [
     {
       "added_at": "2025-05-16 00:01:32",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/1VEagF1oSqLgm5Y6lH32mS"
     },
     {
-      "added_at": "2025-06-20 00:01:13",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/0n8RSKwC9lqA1ytFq0968A"
-      },
-      "artists": [
-        {
-          "name": "Rotimikeys",
-          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
-        }
-      ],
-      "duration_ms": 368416,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz"
-    },
-    {
       "added_at": "2025-05-30 00:01:31",
       "album": {
         "name": "Too Oiled",
@@ -119,6 +103,22 @@
       "duration_ms": 734000,
       "name": "Too Oiled",
       "url": "https://open.spotify.com/track/3fPWeU5dawXN52Z9geFYFR"
+    },
+    {
+      "added_at": "2025-06-20 00:01:13",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/0n8RSKwC9lqA1ytFq0968A"
+      },
+      "artists": [
+        {
+          "name": "Rotimikeys",
+          "url": "https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR"
+        }
+      ],
+      "duration_ms": 368416,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/4rN4PprdOYJQKaPp4HXVgz"
     },
     {
       "added_at": "2025-08-29 00:01:15",
@@ -569,6 +569,30 @@
       "url": "https://open.spotify.com/track/2IKGoMUNCb0rZgwA793HIy"
     },
     {
+      "added_at": "2026-08-14 00:01:30",
+      "album": {
+        "name": "Speak Lord",
+        "url": "https://open.spotify.com/album/1JboqcmSuZft5WePBNZJCm"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Apart",
+          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
+        },
+        {
+          "name": "Malcolm Rue",
+          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
+        },
+        {
+          "name": "Nicole Muwanguzi",
+          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
+        }
+      ],
+      "duration_ms": 230823,
+      "name": "Speak Lord",
+      "url": "https://open.spotify.com/track/0b7sBStWpaCPEvQVRoVmVD"
+    },
+    {
       "added_at": "2025-09-26 00:01:31",
       "album": {
         "name": "Prayer",
@@ -601,30 +625,6 @@
       "url": "https://open.spotify.com/track/6h3SIM1JXtfeMqLoFzjk7R"
     },
     {
-      "added_at": "2026-08-14 00:01:30",
-      "album": {
-        "name": "Speak Lord",
-        "url": "https://open.spotify.com/album/1JboqcmSuZft5WePBNZJCm"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Apart",
-          "url": "https://open.spotify.com/artist/340V5J1uTrpMO40hEHmN21"
-        },
-        {
-          "name": "Malcolm Rue",
-          "url": "https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H"
-        },
-        {
-          "name": "Nicole Muwanguzi",
-          "url": "https://open.spotify.com/artist/4VxJ2U3lwbVzELpy79S03b"
-        }
-      ],
-      "duration_ms": 230823,
-      "name": "Speak Lord",
-      "url": "https://open.spotify.com/track/0b7sBStWpaCPEvQVRoVmVD"
-    },
-    {
       "added_at": "2026-08-07 00:01:11",
       "album": {
         "name": "In Alignment",
@@ -639,6 +639,22 @@
       "duration_ms": 427740,
       "name": "In Alignment",
       "url": "https://open.spotify.com/track/36dTH9M4YGFmRNStZCSUsY"
+    },
+    {
+      "added_at": "2025-05-16 00:01:32",
+      "album": {
+        "name": "IDINMA (Mercy Prevails) [Live]",
+        "url": "https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 715973,
+      "name": "IDINMA (Mercy Prevails) - Live",
+      "url": "https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y"
     },
     {
       "added_at": "2026-08-21 00:01:33",
@@ -663,22 +679,6 @@
       "duration_ms": 227000,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1YV1Y9QgdMyMxf8UKbe1Io"
-    },
-    {
-      "added_at": "2025-05-16 00:01:32",
-      "album": {
-        "name": "IDINMA (Mercy Prevails) [Live]",
-        "url": "https://open.spotify.com/album/4vDlB283bSnqfdk1IC4upA"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 715973,
-      "name": "IDINMA (Mercy Prevails) - Live",
-      "url": "https://open.spotify.com/track/4oqxo4bkaRbnOqXMsWxP1Y"
     },
     {
       "added_at": "2025-10-03 00:01:16",
@@ -721,22 +721,6 @@
       "url": "https://open.spotify.com/track/072Sq0ueJbKXahJvg21OC8"
     },
     {
-      "added_at": "2026-07-17 00:01:16",
-      "album": {
-        "name": "Nothing Without Him",
-        "url": "https://open.spotify.com/album/276HdNxLP01NSRsLVgKHaR"
-      },
-      "artists": [
-        {
-          "name": "Remnant House",
-          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
-        }
-      ],
-      "duration_ms": 176565,
-      "name": "Nothing Without Him",
-      "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
-    },
-    {
       "added_at": "2026-01-30 00:01:25",
       "album": {
         "name": "Asante",
@@ -751,6 +735,22 @@
       "duration_ms": 206346,
       "name": "Asante",
       "url": "https://open.spotify.com/track/0T0pA9Gv401iZcuX9sMjEc"
+    },
+    {
+      "added_at": "2026-07-17 00:01:16",
+      "album": {
+        "name": "Nothing Without Him",
+        "url": "https://open.spotify.com/album/276HdNxLP01NSRsLVgKHaR"
+      },
+      "artists": [
+        {
+          "name": "Remnant House",
+          "url": "https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR"
+        }
+      ],
+      "duration_ms": 176565,
+      "name": "Nothing Without Him",
+      "url": "https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0"
     },
     {
       "added_at": "2026-07-10 00:01:17",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/0DlKSCYyP3nPYgI9HnJ6Al"
     },
     {
+      "added_at": "2026-05-22 00:01:32",
+      "album": {
+        "name": "Wanderer",
+        "url": "https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP"
+      },
+      "artists": [
+        {
+          "name": "Ire Toluhi",
+          "url": "https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K"
+        }
+      ],
+      "duration_ms": 230700,
+      "name": "Wanderer",
+      "url": "https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv"
+    },
+    {
       "added_at": "2025-08-01 00:01:36",
       "album": {
         "name": "Wait",
@@ -863,22 +879,6 @@
       "duration_ms": 560000,
       "name": "Wait",
       "url": "https://open.spotify.com/track/7Jr30GSDrdnNnxuTUZmCAe"
-    },
-    {
-      "added_at": "2026-05-22 00:01:32",
-      "album": {
-        "name": "Wanderer",
-        "url": "https://open.spotify.com/album/4e7n1hfpPjDB9s9jpeqAsP"
-      },
-      "artists": [
-        {
-          "name": "Ire Toluhi",
-          "url": "https://open.spotify.com/artist/1uLf3V4Z9jtKJHJOb4Tx7K"
-        }
-      ],
-      "duration_ms": 230700,
-      "name": "Wanderer",
-      "url": "https://open.spotify.com/track/4lZvEE1UvtCEnxvUgLOkjv"
     },
     {
       "added_at": "2025-08-15 00:01:31",
@@ -1081,22 +1081,6 @@
       "url": "https://open.spotify.com/track/0DYIqtWiEnFQUdYD0ozrGJ"
     },
     {
-      "added_at": "2026-08-14 00:01:30",
-      "album": {
-        "name": "My Story",
-        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
-      },
-      "artists": [
-        {
-          "name": "Paul Tomisin",
-          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
-        }
-      ],
-      "duration_ms": 442538,
-      "name": "My Story",
-      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
-    },
-    {
       "added_at": "2026-02-27 00:01:21",
       "album": {
         "name": "Beautiful Exchange",
@@ -1111,6 +1095,22 @@
       "duration_ms": 262325,
       "name": "Beautiful Exchange",
       "url": "https://open.spotify.com/track/7clvto32JaAp4fcLcHD1Lf"
+    },
+    {
+      "added_at": "2026-08-14 00:01:30",
+      "album": {
+        "name": "My Story",
+        "url": "https://open.spotify.com/album/1ePDmulh8pFfS31M6mySiU"
+      },
+      "artists": [
+        {
+          "name": "Paul Tomisin",
+          "url": "https://open.spotify.com/artist/5lFNvgjjW0gug2hAG5RPrQ"
+        }
+      ],
+      "duration_ms": 442538,
+      "name": "My Story",
+      "url": "https://open.spotify.com/track/7ewTmEmwPoxfKESz9kwciK"
     },
     {
       "added_at": "2026-03-27 00:01:13",
@@ -1417,6 +1417,22 @@
       "url": "https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm"
     },
     {
+      "added_at": "2025-07-04 04:47:35",
+      "album": {
+        "name": "Praise Jesus",
+        "url": "https://open.spotify.com/album/2zr2FJeIgfh6FyuEaC3S37"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "duration_ms": 191612,
+      "name": "Praise Jesus",
+      "url": "https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI"
+    },
+    {
       "added_at": "2026-06-26 00:01:36",
       "album": {
         "name": "In His Presence, Vol. 16 - The Reason Why I Live",
@@ -1433,20 +1449,20 @@
       "url": "https://open.spotify.com/track/6UEvZwMCATRY6hw7xSCv9O"
     },
     {
-      "added_at": "2025-07-04 04:47:35",
+      "added_at": "2025-11-14 00:01:37",
       "album": {
-        "name": "Praise Jesus",
-        "url": "https://open.spotify.com/album/2zr2FJeIgfh6FyuEaC3S37"
+        "name": "OLD CLASSICS",
+        "url": "https://open.spotify.com/album/2mQVV6ZwmF2SokAz4qrhaa"
       },
       "artists": [
         {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+          "name": "Team Eternity Ghana",
+          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
         }
       ],
-      "duration_ms": 191612,
-      "name": "Praise Jesus",
-      "url": "https://open.spotify.com/track/5PjWbQl3uhYMvIJ0VHVIeI"
+      "duration_ms": 707212,
+      "name": "OLD CLASSICS",
+      "url": "https://open.spotify.com/track/4zcUIRgt8G3oqMXJM0BeIR"
     },
     {
       "added_at": "2025-10-24 00:01:24",
@@ -1469,20 +1485,36 @@
       "url": "https://open.spotify.com/track/6IFworJItnOJgbcI9vGnwV"
     },
     {
-      "added_at": "2025-11-14 00:01:37",
+      "added_at": "2026-09-18 00:01:37",
       "album": {
-        "name": "OLD CLASSICS",
-        "url": "https://open.spotify.com/album/2mQVV6ZwmF2SokAz4qrhaa"
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5mlGsrA6fjQ17Lm4oH7QSZ"
       },
       "artists": [
         {
-          "name": "Team Eternity Ghana",
-          "url": "https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz"
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
         }
       ],
-      "duration_ms": 707212,
-      "name": "OLD CLASSICS",
-      "url": "https://open.spotify.com/track/4zcUIRgt8G3oqMXJM0BeIR"
+      "duration_ms": 450960,
+      "name": "Lifted High",
+      "url": "https://open.spotify.com/track/1smZXcXZmVr0bAhf2X8LdB"
+    },
+    {
+      "added_at": "2026-08-21 00:01:33",
+      "album": {
+        "name": "proclaim the Gospel (Live at De Stanley Brothers campus Tour)",
+        "url": "https://open.spotify.com/album/5cQkDbB8loXjvDwmewmxXC"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "duration_ms": 315076,
+      "name": "proclaim the Gospel - Live at De Stanley Brothers campus Tour",
+      "url": "https://open.spotify.com/track/1NQ3YJnYNhmo9wwUwnJLM3"
     },
     {
       "added_at": "2025-10-10 00:01:09",
@@ -1525,22 +1557,6 @@
       "url": "https://open.spotify.com/track/1z6VlP3bxWuplJtj03QhYO"
     },
     {
-      "added_at": "2026-08-21 00:01:33",
-      "album": {
-        "name": "proclaim the Gospel (Live at De Stanley Brothers campus Tour)",
-        "url": "https://open.spotify.com/album/5cQkDbB8loXjvDwmewmxXC"
-      },
-      "artists": [
-        {
-          "name": "De Stanley Brothers",
-          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
-        }
-      ],
-      "duration_ms": 315076,
-      "name": "proclaim the Gospel - Live at De Stanley Brothers campus Tour",
-      "url": "https://open.spotify.com/track/1NQ3YJnYNhmo9wwUwnJLM3"
-    },
-    {
       "added_at": "2025-05-30 00:01:31",
       "album": {
         "name": "Sound The Alarm (Anazao)",
@@ -1555,6 +1571,22 @@
       "duration_ms": 382789,
       "name": "Sound The Alarm (Anazao)",
       "url": "https://open.spotify.com/track/57geoXJIJ8969kz6ThQyLA"
+    },
+    {
+      "added_at": "2026-09-04 00:01:04",
+      "album": {
+        "name": "Desperate",
+        "url": "https://open.spotify.com/album/6C3XRo6uVDZ3QJxUESb8Bx"
+      },
+      "artists": [
+        {
+          "name": "Deborah-Divine",
+          "url": "https://open.spotify.com/artist/4DjzETMqJxkPCqhVhuOrWZ"
+        }
+      ],
+      "duration_ms": 374352,
+      "name": "Desperate",
+      "url": "https://open.spotify.com/track/0aQE3ZIddVdEuwbjKc8RIw"
     },
     {
       "added_at": "2025-09-12 00:01:26",
@@ -1577,22 +1609,6 @@
       "url": "https://open.spotify.com/track/3UcvlbPqazMNOrLz2PDHMO"
     },
     {
-      "added_at": "2026-09-04 00:01:04",
-      "album": {
-        "name": "Desperate",
-        "url": "https://open.spotify.com/album/6C3XRo6uVDZ3QJxUESb8Bx"
-      },
-      "artists": [
-        {
-          "name": "Deborah-Divine",
-          "url": "https://open.spotify.com/artist/4DjzETMqJxkPCqhVhuOrWZ"
-        }
-      ],
-      "duration_ms": 374352,
-      "name": "Desperate",
-      "url": "https://open.spotify.com/track/0aQE3ZIddVdEuwbjKc8RIw"
-    },
-    {
       "added_at": "2025-07-04 04:47:35",
       "album": {
         "name": "When You Say A Thing",
@@ -1607,22 +1623,6 @@
       "duration_ms": 239076,
       "name": "When You Say A Thing",
       "url": "https://open.spotify.com/track/36JNRz48wspzRPzA6fU2tc"
-    },
-    {
-      "added_at": "2026-08-14 00:01:30",
-      "album": {
-        "name": "The Address",
-        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
-      },
-      "artists": [
-        {
-          "name": "Chris Morgan",
-          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
-        }
-      ],
-      "duration_ms": 223966,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
     },
     {
       "added_at": "2025-08-08 00:01:24",
@@ -1641,20 +1641,20 @@
       "url": "https://open.spotify.com/track/7AVUn7XDkSjcKLzoHze8kQ"
     },
     {
-      "added_at": "2026-09-18 00:01:37",
+      "added_at": "2026-08-14 00:01:30",
       "album": {
-        "name": "Lifted High",
-        "url": "https://open.spotify.com/album/5mlGsrA6fjQ17Lm4oH7QSZ"
+        "name": "The Address",
+        "url": "https://open.spotify.com/album/4F7TGXjAeJtpyiOxQuI5Sl"
       },
       "artists": [
         {
-          "name": "Steve Crown",
-          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+          "name": "Chris Morgan",
+          "url": "https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM"
         }
       ],
-      "duration_ms": 450960,
-      "name": "Lifted High",
-      "url": "https://open.spotify.com/track/1smZXcXZmVr0bAhf2X8LdB"
+      "duration_ms": 223966,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/1SPeUtWyImKQQ8LyeXEKI2"
     },
     {
       "added_at": "2026-07-17 00:01:16",
@@ -1797,26 +1797,6 @@
       "url": "https://open.spotify.com/track/1lbns9ey1gbEXowvTmJCeq"
     },
     {
-      "added_at": "2026-09-04 00:01:04",
-      "album": {
-        "name": "You have done me well",
-        "url": "https://open.spotify.com/album/3MdUSSHMu6HFf2oYWUpLHU"
-      },
-      "artists": [
-        {
-          "name": "Onos",
-          "url": "https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0"
-        },
-        {
-          "name": "Bidemi Olaoba",
-          "url": "https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV"
-        }
-      ],
-      "duration_ms": 361846,
-      "name": "You have done me well",
-      "url": "https://open.spotify.com/track/6O0L0N1TKQpAbWg5VREspl"
-    },
-    {
       "added_at": "2025-12-05 00:01:13",
       "album": {
         "name": "Na Only Me Know",
@@ -1835,6 +1815,26 @@
       "duration_ms": 370466,
       "name": "Na Only Me Know",
       "url": "https://open.spotify.com/track/1Dqzildz8aeOKsVWdPZOjH"
+    },
+    {
+      "added_at": "2025-11-14 00:01:37",
+      "album": {
+        "name": "Kelee Chineke",
+        "url": "https://open.spotify.com/album/7LigltsueKJziItb4AwZwx"
+      },
+      "artists": [
+        {
+          "name": "Yadah",
+          "url": "https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q"
+        },
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 332243,
+      "name": "Kelee Chineke",
+      "url": "https://open.spotify.com/track/6ptnzaxcyKNHb33Uk6DYX8"
     }
   ],
   "unique_name": "Redeemed",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1IUF5q4IvkjylMhd9P0urE.md) - [plain]
 
 > Our favourite new music, curated by the XL team.
 
-[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,727 likes - 129 songs - 6 hr 56 min
+[XL Recordings](https://open.spotify.com/user/xlrecordings) - 16,729 likes - 129 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

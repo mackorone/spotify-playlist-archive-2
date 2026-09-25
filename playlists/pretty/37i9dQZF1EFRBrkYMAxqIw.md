@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 30 | [PICK YOUR POISON \(feat\. Stormzy\)](https://open.spotify.com/track/5Yhj7ln3iSqZziEwYNbv6Y) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [WOAH, WHAT A BLUR!](https://open.spotify.com/album/4Bu8CaTOWByWSfmhQ4Rmzy) | 2:44 |
 | 31 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 |
 | 32 | [TEN](https://open.spotify.com/track/1eS4LiGfU3kvjAcvF8jNii) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D) | [TEN](https://open.spotify.com/album/2ockdJ9rBZfHNf36FU4JyH) | 2:09 |
-| 33 | [DNCR](https://open.spotify.com/track/1DUpt1ClyNZj3EbBjFtgCD) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:07 |
-| 34 | [Everlasting](https://open.spotify.com/track/3fQpNZSQAR1Kf0X5IbSVoX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Everlasting](https://open.spotify.com/album/2VDsKC01rmUccAq2qcxFy2) | 2:37 |
+| 33 | [Everlasting](https://open.spotify.com/track/3fQpNZSQAR1Kf0X5IbSVoX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [SACHA](https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG) | [Everlasting](https://open.spotify.com/album/2VDsKC01rmUccAq2qcxFy2) | 2:37 |
+| 34 | [DNCR](https://open.spotify.com/track/1DUpt1ClyNZj3EbBjFtgCD) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [undux](https://open.spotify.com/album/5YdArpd5cqnRdOnpvpfSp9) | 3:07 |
 | 35 | [EGO](https://open.spotify.com/track/0kIhtDAUHCIw8V8vWC738L) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 3:35 |
 | 36 | [Don't Say You Love Me](https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Don't Say You Love Me](https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7) | 3:04 |
 | 37 | [BALENCIAGA COVERED EYES](https://open.spotify.com/track/5UDfXflfkq6Zp9q0HqCo9S) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 4:06 |
@@ -162,4 +162,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 152 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 | 153 | [PRE](https://open.spotify.com/track/211CggMXVH5VprHhj8iHvF) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [BEAUTIFUL MADNESS](https://open.spotify.com/album/6T3WdeRv9rqMIlmnloB2Dv) | 0:17 |
 
-Snapshot ID: `AcdGyAAAAAC+5+cIeuk0PPwCjO1zuone`
+Snapshot ID: `AcdMaAAAAADW97aGmNAMUtwvuHutYn+Z`

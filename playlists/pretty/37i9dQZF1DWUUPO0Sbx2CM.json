@@ -1,6 +1,6 @@
 {
   "description": "You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now. \ud83e\udea9\ud83d\udd7a\ud83c\udffd",
-  "num_followers": 240105,
+  "num_followers": 240154,
   "original_name": "Christian Dance",
   "owner": {
     "name": "Spotify",
@@ -27,42 +27,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "praise forever.",
-        "url": "https://open.spotify.com/album/5GQm3dPBhZXRgyTkeS7uCo"
-      },
-      "artists": [
-        {
-          "name": "Capital Kings",
-          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
-        },
-        {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        }
-      ],
-      "duration_ms": 167343,
-      "name": "praise forever.",
-      "url": "https://open.spotify.com/track/77l9hPdrWcZpGnM10Whm38"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/6AadNEcPtZv0QIJWMPc6tE"
-      },
-      "artists": [
-        {
-          "name": "JIMMY ROCK",
-          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/5gXXCepyoJsaP1smiEYVZc"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Love Like That",
         "url": "https://open.spotify.com/album/1ewhccVD32md195nWwLG3u"
       },
@@ -83,6 +47,42 @@
       "duration_ms": 166654,
       "name": "Love Like That",
       "url": "https://open.spotify.com/track/22haNP7zwUCrqPJIjfgOjx"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/6AadNEcPtZv0QIJWMPc6tE"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/5gXXCepyoJsaP1smiEYVZc"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "praise forever.",
+        "url": "https://open.spotify.com/album/5GQm3dPBhZXRgyTkeS7uCo"
+      },
+      "artists": [
+        {
+          "name": "Capital Kings",
+          "url": "https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof"
+        },
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        }
+      ],
+      "duration_ms": 167343,
+      "name": "praise forever.",
+      "url": "https://open.spotify.com/track/77l9hPdrWcZpGnM10Whm38"
     },
     {
       "added_at": "2026-08-18 23:12:48",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2026-08-18 23:12:48",
       "album": {
-        "name": "Praise His Holy Name (House Remix)",
-        "url": "https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf"
-      },
-      "artists": [
-        {
-          "name": "Maurice Joshua",
-          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
-        },
-        {
-          "name": "The Whispers",
-          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
-        }
-      ],
-      "duration_ms": 245118,
-      "name": "Praise His Holy Name - House Remix",
-      "url": "https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV"
-    },
-    {
-      "added_at": "2026-08-18 23:12:48",
-      "album": {
         "name": "Floating (okay.benny Remix)",
         "url": "https://open.spotify.com/album/2QZFMjox9FivLNCWd2UNPU"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 155520,
       "name": "Floating - okay.benny Remix",
       "url": "https://open.spotify.com/track/42PHDdVG0qVnps1nORAEYq"
+    },
+    {
+      "added_at": "2026-08-18 23:12:48",
+      "album": {
+        "name": "Praise His Holy Name (House Remix)",
+        "url": "https://open.spotify.com/album/0dDoWCItCHVkXts89g2QOf"
+      },
+      "artists": [
+        {
+          "name": "Maurice Joshua",
+          "url": "https://open.spotify.com/artist/19T6vS2Umo5usI9wOVnKMd"
+        },
+        {
+          "name": "The Whispers",
+          "url": "https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg"
+        }
+      ],
+      "duration_ms": 245118,
+      "name": "Praise His Holy Name - House Remix",
+      "url": "https://open.spotify.com/track/6jnlYWmuU2c3jvN0J0bIZV"
     },
     {
       "added_at": "2026-08-18 23:12:48",

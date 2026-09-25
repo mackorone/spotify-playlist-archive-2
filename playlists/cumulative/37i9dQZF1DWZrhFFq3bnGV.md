@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Aku Jeje
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: BAHA
 
-308 songs - 21 hr 29 min
+310 songs - 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [Nusaniwe](https://open.spotify.com/track/45P7aCwWn9Oj4KtkgoIUo5) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Teddy Adhitya](https://open.spotify.com/artist/7dOswEYzOtTMECumrZ3NHY), [Renewal](https://open.spotify.com/artist/6eAzagjqgwHqNMVpBxmH10) | [Nusaniwe](https://open.spotify.com/album/0bQ4VDcPK9ltfSss5L2QFN) | 4:19 | 2022-09-02 | 2024-09-07 |
 | [Nyomennyoh](https://open.spotify.com/track/3vbjE0uKesNplB2q37pLqr) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX) | [Etude](https://open.spotify.com/album/0TQFBksym24sKgT6KMsjEL) | 5:54 | 2024-07-25 | 2025-05-30 |
 | [Ode To Benny Liku](https://open.spotify.com/track/0InqZFiygFkZpMlLBHZV76) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz) | [Dear Pops \(My Tribute\)](https://open.spotify.com/album/6hgX3x5ONatp8wWMVWVEUn) | 6:20 | 2022-09-02 | 2025-05-30 |
+| [Opening a New Door](https://open.spotify.com/track/5iduUnGmdxM5g3GLBERtLp) | [Gerald Situmorang](https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW) | [Cercah](https://open.spotify.com/album/2MqllXClhlqm18tc9t0hjY) | 1:42 | 2026-09-24 |  |
 | [Opening a New Door](https://open.spotify.com/track/1ch8swW6xldwsUsxvQP7DF) | [Gerald Situmorang](https://open.spotify.com/artist/3kA7uOAWHsPXSe5pZEVZEW), [Sri Hanuraga](https://open.spotify.com/artist/6oBbSq1WI51saPC5Vys7z2) | [Meta](https://open.spotify.com/album/07m8bchmHOvYqyu8mGmeQS) | 1:44 | 2024-11-15 | 2025-06-27 |
 | [Orang Jakarta](https://open.spotify.com/track/69Ar7P0Vt5KHtZlcKET7SZ) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Orang Jakarta](https://open.spotify.com/album/2lJi3eOuFlBdMexfz8ICJy) | 3:14 | 2025-06-19 |  |
 | [Out For Myself](https://open.spotify.com/track/1vod4ABB5ohyWCR9q43kdO) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Out For Myself](https://open.spotify.com/album/1FR6iORwa5Pjjpch7cNUQo) | 2:49 | 2022-09-02 | 2023-11-04 |
@@ -247,6 +248,7 @@
 | [Remembering](https://open.spotify.com/track/1Iqeeci1aIDfZpelLxMSni) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Origin](https://open.spotify.com/album/47Y5cRWVXLK2nM3pkOpVxE) | 5:44 | 2022-09-02 | 2023-10-07 |
 | [Rolled Oats](https://open.spotify.com/track/1b34UigXKioJC18H80ZiU2) | [Joshua Alexander](https://open.spotify.com/artist/7cKHUspMzlUC7k1UTndbYr) | [Nothing but Happiness](https://open.spotify.com/album/3vpSjU70rlu1jjVVAN73mW) | 6:58 | 2023-11-03 | 2025-05-30 |
 | [Rona Imaji](https://open.spotify.com/track/2lEP08kMtVbhLfCKPyo5JL) | [Shinjoko](https://open.spotify.com/artist/0bWXfQkYnT9xcJ6C7JQK0i), [Putra Timur](https://open.spotify.com/artist/1sqVvE1GPRtHy8LGhQh4Hu) | [Rona Imaji](https://open.spotify.com/album/2m1MLG7a10KW68mjkDFiNz) | 4:18 | 2022-09-02 | 2023-08-18 |
+| [Roulette](https://open.spotify.com/track/5EccsQXg74abrFIhMw0ULS) | [BAHA](https://open.spotify.com/artist/7pMCmB0nZudHCcVLUJAdR8) | [Roulette](https://open.spotify.com/album/3WebCon4bK3hKKWSyXVEa5) | 3:27 | 2026-09-24 |  |
 | [Run Over the Line](https://open.spotify.com/track/1wNQ9mNK1IRgl6IXR9Wqhc) | [Alsa](https://open.spotify.com/artist/6dL42hXSnnoaGCn77eumjF), [Indro Hardjodikoro](https://open.spotify.com/artist/7q8VBRFqJizAz9urUzLV9B) | [The Moment with You](https://open.spotify.com/album/3CJbn7rPgzZo0MljADYFPL) | 4:02 | 2023-03-03 | 2023-08-25 |
 | [Sabda Alam](https://open.spotify.com/track/2kPSx1M7cA5jR9whhWKQOJ) | [Kevin Yosua Big 6](https://open.spotify.com/artist/5cbbRDzY0d8E2GI1gMq10J), [Marini Nainggolan](https://open.spotify.com/artist/68CRp4uznB4jlgbcNEqbTp) | [The Great Indonesian Songbook, Vol\. 1](https://open.spotify.com/album/2YojABrSHC3cfPDHMbkx2x) | 4:32 | 2025-10-09 |  |
 | [Sahabat Yang Di Sana](https://open.spotify.com/track/5b857o3dghGQVSxIQzzj2w) | [Attar & Rahel](https://open.spotify.com/artist/5R1zwGQWctXI4QxZpWU5O6), [Nesia Ardi](https://open.spotify.com/artist/5qmSZ1mubcNpvbmimc4FAu) | [Attar & Rahel](https://open.spotify.com/album/55Vl6UqK2kP1VQ1q2ZB89p) | 4:06 | 2022-09-02 | 2024-09-07 |

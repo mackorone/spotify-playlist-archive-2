@@ -1,6 +1,6 @@
 {
   "description": "Delicate digital expressions of the heart.",
-  "num_followers": 295880,
+  "num_followers": 295926,
   "original_name": "Electronica Romantica",
   "owner": {
     "name": "Spotify",
@@ -683,26 +683,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
-        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 195384,
-      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
-      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Flown",
         "url": "https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "(Pick Me Up) Euphoria [From \"Euphoria\" An HBO Original Series]",
+        "url": "https://open.spotify.com/album/1zSMkbRmwnGZ8s2IbRnTKT"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 195384,
+      "name": "(Pick Me Up) Euphoria - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/6QFCgioM2ZDxCEadWUes2b"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Playing Robots Into Heaven",
-        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 284551,
-      "name": "Loading",
-      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Loved",
         "url": "https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Paracosm",
-        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+        "name": "Playing Robots Into Heaven",
+        "url": "https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL"
       },
       "artists": [
         {
-          "name": "Washed Out",
-          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
         }
       ],
-      "duration_ms": 245654,
-      "name": "It All Feels Right",
-      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
+      "duration_ms": 284551,
+      "name": "Loading",
+      "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -835,6 +819,22 @@
       "duration_ms": 262813,
       "name": "Trade Winds, White Heat",
       "url": "https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Paracosm",
+        "url": "https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL"
+      },
+      "artists": [
+        {
+          "name": "Washed Out",
+          "url": "https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z"
+        }
+      ],
+      "duration_ms": 245654,
+      "name": "It All Feels Right",
+      "url": "https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Far Away Trains Passing By",
-        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
-      },
-      "artists": [
-        {
-          "name": "Ulrich Schnauss",
-          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
-        }
-      ],
-      "duration_ms": 397986,
-      "name": "Passing By - 2019 remaster",
-      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Because of a Flower",
         "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 304144,
       "name": "Camille",
       "url": "https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Far Away Trains Passing By",
+        "url": "https://open.spotify.com/album/24WjU9DTi8CA3wGa4G8gWZ"
+      },
+      "artists": [
+        {
+          "name": "Ulrich Schnauss",
+          "url": "https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE"
+        }
+      ],
+      "duration_ms": 397986,
+      "name": "Passing By - 2019 remaster",
+      "url": "https://open.spotify.com/track/4QF7VCyGrqOPpJNQc9yNWA"
     },
     {
       "added_at": "2026-06-12 04:01:06",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2026-06-12 04:01:06",
       "album": {
-        "name": "Promise",
-        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
-      },
-      "artists": [
-        {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
-        }
-      ],
-      "duration_ms": 209806,
-      "name": "Promise",
-      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
-    },
-    {
-      "added_at": "2026-06-12 04:01:06",
-      "album": {
         "name": "Inca Ore / Grouper",
         "url": "https://open.spotify.com/album/3vMDgHTapJG43G5rrBg3SE"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 196893,
       "name": "Poison Tree",
       "url": "https://open.spotify.com/track/6RDVwKLpBBEksWdp9jwBlD"
+    },
+    {
+      "added_at": "2026-06-12 04:01:06",
+      "album": {
+        "name": "Promise",
+        "url": "https://open.spotify.com/album/1zeLCQaCe1WudTjd1Dr4a9"
+      },
+      "artists": [
+        {
+          "name": "Jacques Greene",
+          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+        }
+      ],
+      "duration_ms": 209806,
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/28NaP6iuy1B4on1UJKw7vs"
     },
     {
       "added_at": "2026-06-12 04:01:06",

@@ -4,7 +4,7 @@
 
 > Banger na banger\. Cover: Nachtdienst & Amelie 🔥
 
-233 songs - 10 hr 28 min
+234 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [Get Motivated ft\. jstlbby](https://open.spotify.com/track/3Z2Fv9bPjtEdKpxVUzAToD) | [LoMalo](https://open.spotify.com/artist/7eI1cqfGN3bZijbM1rr9RN), [jstlbby](https://open.spotify.com/artist/5BLDZvqf1kjdGL4jwFhAk5) | [Get Motivated ft\. jstlbby](https://open.spotify.com/album/72i0l28kBTOIaYKC84tMGG) | 2:24 | 2025-07-17 | 2025-12-12 |
 | [Get Stupid](https://open.spotify.com/track/22pC8m4kzjrMQRJXYg0usw) | [Julian Fijma](https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy) | [Get Stupid](https://open.spotify.com/album/0xkWdnlmmsfqbFrdqlrGom) | 3:21 | 2025-08-25 | 2026-05-29 |
 | [Giftig](https://open.spotify.com/track/0KfzPMMjRQw9Vh3J8rzTDK) | [Flaire](https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH), [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [Giftig](https://open.spotify.com/album/6XjQOyWXlcCjgKzivTgUl2) | 2:52 | 2025-07-17 | 2025-10-14 |
+| [Glibberen](https://open.spotify.com/track/59Dxe5pnuDsUlFFYukG6Zk) | [Ray & Beer](https://open.spotify.com/artist/3CA4JmxdhbaXZbbEq07TRt) | [Glibberen](https://open.spotify.com/album/7FsqY4TX7j5EqEvEtukRAK) | 2:14 | 2026-09-24 |  |
 | [Go \- Crazy Cousinz Remix \[Radio Edit\]](https://open.spotify.com/track/0lmbuGRNm5u7yvQsZLzwnM) | [Malika](https://open.spotify.com/artist/4oCDlRaa8yRpe4keBeoVjb), [Crazy Cousinz](https://open.spotify.com/artist/6VXB0WH4MfmhZyongoEYZr) | [Go \(I Don't Wanna\) \[RnB Version\]](https://open.spotify.com/album/7ts8h3snVDrf6fkppi6ejw) | 2:50 | 2026-05-28 |  |
 | [GO BESTFRIEND](https://open.spotify.com/track/6sv1PdrGSGgWYzFqC5mruo) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [GO BESTFRIEND](https://open.spotify.com/album/6nkkhIZjPv3HVdAeZFLaO5) | 2:14 | 2025-09-25 | 2025-11-25 |
 | [Good Girl](https://open.spotify.com/track/263Ecah3YA4hVZHxR2Ex9p) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Good Girl](https://open.spotify.com/album/3CzmngQynWM7xY9HlNm8Xx) | 3:01 | 2026-08-20 |  |
@@ -208,7 +209,7 @@
 | [Tot Sluit](https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu) | [Tot Sluit](https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg) | 2:22 | 2026-08-20 |  |
 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 | 2026-07-16 |  |
 | [Tropical Mami](https://open.spotify.com/track/6DlTkjyvBLrQVHnTJnwqMU) | [Noise Cartel](https://open.spotify.com/artist/5yDz8X7IIvH7PheEXbo3VN), [K\-Liber](https://open.spotify.com/artist/551ZoX3knGOBIB6HrPPgq2) | [Tropical Mami](https://open.spotify.com/album/5yL59VsRdLb1gIWR6qaY2b) | 2:13 | 2025-07-17 | 2025-10-08 |
-| [Tropical Nights](https://open.spotify.com/track/0f0Hs7X5XYPWNtYXdMQJhq) | [René le Blanc](https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8) | [Tropical Nights](https://open.spotify.com/album/644wQvJItGFNAqbP5CPejq) | 2:47 | 2026-09-21 |  |
+| [Tropical Nights](https://open.spotify.com/track/0f0Hs7X5XYPWNtYXdMQJhq) | [René le Blanc](https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8) | [Tropical Nights](https://open.spotify.com/album/644wQvJItGFNAqbP5CPejq) | 2:47 | 2026-09-21 | 2026-09-25 |
 | [Turbo](https://open.spotify.com/track/3hlgTuy3fa9xQM48rOLofD) | [New Kids](https://open.spotify.com/artist/2dYdfgSbtfu9Y9MkTPv3jX), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [Turbo](https://open.spotify.com/album/3icJIpqP0JuPWteHT6gSjM) | 3:35 | 2026-09-21 |  |
 | [TUSI](https://open.spotify.com/track/2k264yjeWOGuBKOs1kd80a) | [Wally](https://open.spotify.com/artist/5sKJpW8V9gGDpLIaBYbr8x) | [TUSI](https://open.spotify.com/album/2eghOOvia5Uwc4weq2m7qZ) | 2:24 | 2026-07-02 | 2026-09-05 |
 | [tutututututu](https://open.spotify.com/track/7zbMhwqbFLjSi7Tuh4w4sR) | [Turfy Gang](https://open.spotify.com/artist/7DOOGHZ6CXsF8bvNrnDE6W) | [tutututututu](https://open.spotify.com/album/1tCcfIT6r9t2Q4lkjDX6mu) | 2:38 | 2026-05-04 |  |

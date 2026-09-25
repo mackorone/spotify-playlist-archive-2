@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: Candan Erçetin
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,244 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,268 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 18 | [Hileli](https://open.spotify.com/track/4eBE6hpwm7aJxIY4iwgwU8) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf), [Ajda Pekkan](https://open.spotify.com/artist/27XMnTLvCO7t3qGlQyTMkF) | [Hileli](https://open.spotify.com/album/1Dim5nq14eGHzcfGhLqUWU) | 3:22 |
 | 19 | [Ara Beni](https://open.spotify.com/track/2avZvyhP3vKSXUGKIjpDSr) | [Hadise](https://open.spotify.com/artist/0wCKNMsqYasJBFVagjay49) | [H.](https://open.spotify.com/album/5ORtYNxS04uyDd1LnTLKsi) | 2:24 |
 | 20 | [Bana Ne Bu Sevdalardan](https://open.spotify.com/track/5j7ypeN8HkyGKRNjRagPrR) | [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [Bana Ne Bu Sevdalardan](https://open.spotify.com/album/57y0kEd09cinYeE9JPHCwJ) | 2:17 |
-| 21 | [GEL GEL GEL](https://open.spotify.com/track/2tni0FShSW5lPlCGyhy6xR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [GEL GEL GEL](https://open.spotify.com/album/6POXXtou8ETiuvDKpCc5HK) | 2:40 |
-| 22 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 |
+| 21 | [UYUYAMADIN DİMİ?](https://open.spotify.com/track/6ldLZlXIkKaaM9Y4bErh07) | [Poizi](https://open.spotify.com/artist/250LLR8V4fFq1XFzAB1ZN5) | [PARDON MUTLULUKLAR](https://open.spotify.com/album/2YGROYa6Vg9KXEcr9DwYBP) | 2:38 |
+| 22 | [GEL GEL GEL](https://open.spotify.com/track/2tni0FShSW5lPlCGyhy6xR) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [GEL GEL GEL](https://open.spotify.com/album/6POXXtou8ETiuvDKpCc5HK) | 2:40 |
 | 23 | [Daha İyi](https://open.spotify.com/track/2AhfH5OG1o12XEqGZUgEPT) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Daha İyi](https://open.spotify.com/album/7rkBjeuLQ7UgSty5yAOLpx) | 3:18 |
 | 24 | [TAMPONTAMPONA](https://open.spotify.com/track/0OhrOm2AfOkav7tjWSMjEf) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [TAMPONTAMPONA](https://open.spotify.com/album/5flqeedURwamU6B8An5lAb) | 3:16 |
 | 25 | [ANAKONDA'S](https://open.spotify.com/track/1vCWBRKA0y6lN8iw9J7PFt) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [ANAKONDA'S](https://open.spotify.com/album/4YkDU6Y6AlIQmi1G3a7Cgx) | 2:47 |
-| 26 | [TSS](https://open.spotify.com/track/17AsRHpZDmS2uWL3ad27yI) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [VAKKO](https://open.spotify.com/album/44YjUTmNcWVQwJWNU2XwaJ) | 1:58 |
-| 27 | [Ömrüm](https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Ömrüm](https://open.spotify.com/album/6FQixEQWNUYSu7FPuKLCDN) | 2:54 |
+| 26 | [Ömrüm](https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ) | [Ömrüm](https://open.spotify.com/album/6FQixEQWNUYSu7FPuKLCDN) | 2:54 |
+| 27 | [TSS](https://open.spotify.com/track/17AsRHpZDmS2uWL3ad27yI) | [KAVAK](https://open.spotify.com/artist/24OGdBr3r58ksMLJkMXZZY), [BAKAN](https://open.spotify.com/artist/3pELTNcBXbfHktNPFTUsNW) | [VAKKO](https://open.spotify.com/album/44YjUTmNcWVQwJWNU2XwaJ) | 1:58 |
 | 28 | [Yaşanacaksa](https://open.spotify.com/track/4j2rg6pHWZJVpJy1AwRpdl) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [manifestival](https://open.spotify.com/album/15p1byCMc7mi42zFKUziBJ) | 2:46 |
 | 29 | [Eller Üzer](https://open.spotify.com/track/2wV6HTsxC6lk4XbMkzU3hA) | [Serkan Nişancı](https://open.spotify.com/artist/5fEL815uzQRkyzW9wOfUTd) | [Eller Üzer](https://open.spotify.com/album/5pMJtaEOanoR0cWndtA0p4) | 3:18 |
 | 30 | [Makina](https://open.spotify.com/track/22yZy5Pa6HAgqsa90Mcof4) | [Emir](https://open.spotify.com/artist/052U3i0lM0CeCkJRrES8XK) | [Ateşten Bi Rüzgar](https://open.spotify.com/album/60BEVIsHpsdfQeCDiALdba) | 3:25 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 32 | [yanılmışım](https://open.spotify.com/track/4W445XWByCeN8CH6uexxLW) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb), [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA) | [valiz](https://open.spotify.com/album/2NuUVdCdwgNBS3YeEFmMb7) | 2:05 |
 | 33 | [Sen Orda Yoksun](https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe) | [Göksel](https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0) | [Sen Orda Yoksun](https://open.spotify.com/album/3TJcFAQKCaxzQQyw7aSkvD) | 4:01 |
 | 34 | [yenildiğim tek savaştın](https://open.spotify.com/track/0nLCr2HyRIAMyDbFnYQjnG) | [ASLAR](https://open.spotify.com/artist/2sQAXdjNpwvs57LUxYzFdA), [Lessio](https://open.spotify.com/artist/7sD4ByMNKsrb4dDBmZxam1), [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD) | [yenildiğim tek savaştın](https://open.spotify.com/album/7IGZT2iYwqszAQ5CTJKB30) | 1:49 |
-| 35 | [5 YILDIZ](https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [5 YILDIZ](https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw) | 1:30 |
-| 36 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
+| 35 | [Ayaza Serdim](https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Ayaza Serdim](https://open.spotify.com/album/3xDzaEo83O8jaKlvYzUboF) | 3:38 |
+| 36 | [5 YILDIZ](https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [5 YILDIZ](https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw) | 1:30 |
 | 37 | [İhtimal](https://open.spotify.com/track/3Pish4TJEZLRpXAovXHX0d) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [Serotonin](https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8) | 2:26 |
 | 38 | [Gel](https://open.spotify.com/track/5zUWw3yj83bZVkkCMa11Eu) | [Umur Doma](https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj), [Hande Ünsal](https://open.spotify.com/artist/6YapGsI8u59kfewJjjJ2LJ) | [Gel](https://open.spotify.com/album/6laK7g3UFya62bl36AmMrq) | 2:44 |
 | 39 | [Bir Güldün](https://open.spotify.com/track/6PawJ6Vt4kKAS6Cobj89pg) | [Emre Fel](https://open.spotify.com/artist/1kRAeenoDZ5jBdzboZQuKa), [Funktakl](https://open.spotify.com/artist/6QgQib1hYAs8Y9OhiSoGoW) | [Eyvahlar Olsun](https://open.spotify.com/album/0ok1O5subpgpWeMKnyvbrk) | 3:35 |

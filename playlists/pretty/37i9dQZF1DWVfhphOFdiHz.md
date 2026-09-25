@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,542 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,550 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 |
-| 2 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 |
+| 2 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
 | 3 | [COME2ME](https://open.spotify.com/track/2ynasQ0XWUQbY6SXB4YGLa) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [MORELUV](https://open.spotify.com/album/4UUQZqjZ8YGDE2nNviPo0R) | 3:37 |
 | 4 | [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 |
-| 5 | [Shy Girl](https://open.spotify.com/track/2LIOTreGvPk5GdpeGUqYIu) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Big Disgrace](https://open.spotify.com/album/3iyn2K7YlhKie8qrmUV6lS) | 3:07 |
+| 5 | [Reach Out](https://open.spotify.com/track/7utED0KJFDNKvCdVZmHHKa) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Reach Out](https://open.spotify.com/album/46Xg3GoIYnoRbSmMpBxF0Z) | 2:39 |
 | 6 | [Toy Gun](https://open.spotify.com/track/0OXVPuuyCU3Wih7xObJ4HO) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Toy Gun](https://open.spotify.com/album/6FlDkhHiDKhNeInRIdPng1) | 3:14 |
 | 7 | [Juicy](https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [Juicy](https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ) | 3:06 |
 | 8 | [fingerprints](https://open.spotify.com/track/6ODRFdNh42wQEUvI06toGi) | [priyana](https://open.spotify.com/artist/0dLw2a1tfVQCJ5cOQnpdlQ) | [losing sleep \(again\)](https://open.spotify.com/album/2DLFEDKNg3EOag6l1lyGMT) | 4:11 |
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 33 | [F\*\*k the DJ](https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl \(Not A Dream Anymore\)](https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI) | 2:57 |
 | 34 | [LIL SOMETHIN LIKE](https://open.spotify.com/track/3kuCjj6J9R8SB5Ogdivjzj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [LIL SOMETHIN LIKE](https://open.spotify.com/album/54pkbBc7GdYwAGIk2Zerqe) | 2:58 |
 | 35 | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/track/3D4ItrtxpWCVlZFmcpyelp) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/album/265to6mkmBL7nhTav1Kvqd) | 2:29 |
-| 36 | [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 |
-| 37 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
+| 36 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
+| 37 | [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 |
 | 38 | [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 |
 | 39 | [Hell's Belles](https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD) | 3:06 |
 | 40 | [good things come in two's](https://open.spotify.com/track/3iA9oRCn2Gx9Qq55eQkUB9) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [good things come in two's](https://open.spotify.com/album/1amirJFqrFDzvjLrRQqqbk) | 2:20 |
 | 41 | [CLOUD 9](https://open.spotify.com/track/5shBGzsBhmOZVUxR2nVOFY) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [ADAM](https://open.spotify.com/album/7trR3fOUnxqBvVlAb5L370) | 3:08 |
-| 42 | [no one's son](https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [no one's son](https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q) | 3:26 |
-| 43 | [SORRY I'M OBSESSED WITH YOU](https://open.spotify.com/track/4Arirl7XmsQedbiU566bWb) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [SORRY I'M OBSESSED WITH YOU](https://open.spotify.com/album/3QFu8PfLym8S7VgUwl5WFs) | 2:58 |
+| 42 | [SORRY I'M OBSESSED WITH YOU](https://open.spotify.com/track/4Arirl7XmsQedbiU566bWb) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [SORRY I'M OBSESSED WITH YOU](https://open.spotify.com/album/3QFu8PfLym8S7VgUwl5WFs) | 2:58 |
+| 43 | [no one's son](https://open.spotify.com/track/4tmZ2pGbjOBmXUlHQhaiLr) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [no one's son](https://open.spotify.com/album/7aOXQbpHIiptQrjHB8FF4q) | 3:26 |
 | 44 | [God Has A Hitman](https://open.spotify.com/track/1oJlAQUHuNCytq5gptME2Z) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [I Don't Know How But They Found Me...Again!](https://open.spotify.com/album/2waHNdcyBJsSKqGTPeSgYt) | 3:49 |
 | 45 | [LEZ GO!](https://open.spotify.com/track/74UbZ0pZNzws8aaOc455kC) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [LEZ GO!](https://open.spotify.com/album/6Yp3oQKOeNNGTkp3fKj8yv) | 2:44 |
 | 46 | [Kind](https://open.spotify.com/track/558Ue9d7sVURrvSiWQPYW2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Kind](https://open.spotify.com/album/2ZENNXHOYLKc6SyadrAwn8) | 4:07 |

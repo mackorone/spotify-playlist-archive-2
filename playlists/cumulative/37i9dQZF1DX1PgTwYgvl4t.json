@@ -258,7 +258,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 772109,
       "name": "All In All - Live",
       "url": "https://open.spotify.com/track/0K7x07kZL0uoHkxK0FW5r8"
@@ -962,7 +962,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 329042,
       "name": "Beautiful One",
       "url": "https://open.spotify.com/track/5Mvj01bwIhS4RYcCBgnmVQ"
@@ -1212,7 +1212,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 255452,
       "name": "Can't Live Without You",
       "url": "https://open.spotify.com/track/1JsxDZyYow7kVn7i4aP7O3"
@@ -2096,7 +2096,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 621248,
       "name": "Ever Faithful God",
       "url": "https://open.spotify.com/track/7jLRsIo8ujGkyY34t9w9kS"
@@ -3448,7 +3448,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 316742,
       "name": "Hunger and Thirst",
       "url": "https://open.spotify.com/track/3bdgU93NNzQ9MXuaIwRpCt"
@@ -4610,7 +4610,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 332243,
       "name": "Kelee Chineke",
       "url": "https://open.spotify.com/track/6ptnzaxcyKNHb33Uk6DYX8"
@@ -4628,7 +4628,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 285000,
       "name": "King of Glory",
       "url": "https://open.spotify.com/track/0OhRz5NKEk9nGjzrSA6F6I"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 350000,
       "name": "Lifter of my head",
       "url": "https://open.spotify.com/track/4IahJFgVlxlQd7xzNEDV7Q"
@@ -5068,7 +5068,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 542850,
       "name": "Maisha Yangu / Baba Yangu, Baba Yangu - Live in Kenya",
       "url": "https://open.spotify.com/track/0FBvsqVV4egLLgn9NIH4xT"
@@ -7598,7 +7598,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 1283640,
       "name": "THE PRAYER ANTHEM",
       "url": "https://open.spotify.com/track/55h9gMUMEPQncAlvXbFxv1"
@@ -8040,6 +8040,28 @@
       "duration_ms": 640750,
       "name": "We Join Them - Live",
       "url": "https://open.spotify.com/track/2xX6ZweQwcLFxsdTQxYI6L"
+    },
+    {
+      "album": {
+        "name": "We Pour (Live)",
+        "url": "https://open.spotify.com/album/3jGmNRu4D0QmNjZoIlOFBe"
+      },
+      "artists": [
+        {
+          "name": "Susan Kindle Worship",
+          "url": "https://open.spotify.com/artist/36FTlUgKkSiTisVaGKMvkV"
+        },
+        {
+          "name": "Pastor Rhema Ehiemere",
+          "url": "https://open.spotify.com/artist/5pVp7WWJaafolAYDFzp8bd"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 552048,
+      "name": "We Pour - Live",
+      "url": "https://open.spotify.com/track/5KijVP9G03TiDJcxBgFAiw"
     },
     {
       "album": {
@@ -8612,6 +8634,28 @@
       "duration_ms": 988500,
       "name": "Yahweh - Live",
       "url": "https://open.spotify.com/track/17JCFTaxVL74FTHZQhTvtj"
+    },
+    {
+      "album": {
+        "name": "Yahweh Sabaoth (Live)",
+        "url": "https://open.spotify.com/album/110QiJp6EAu76burcgGaav"
+      },
+      "artists": [
+        {
+          "name": "Folabi Nuel",
+          "url": "https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488571,
+      "name": "Yahweh Sabaoth - Live",
+      "url": "https://open.spotify.com/track/6aoZHelT2K8p3uNsKWOxxU"
     },
     {
       "album": {

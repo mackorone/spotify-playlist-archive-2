@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  Cover: kurayamisaka (Japan)",
+  "description": "Noise distortion amongst the hazy clouds \u2601\ufe0f  Cover: Luby Sparks (Japan)",
   "name": "Haze ",
   "tracks": [
     {
@@ -2101,6 +2101,24 @@
     },
     {
       "album": {
+        "name": "I disappear",
+        "url": "https://open.spotify.com/album/6FT2ZpQkd2Qr1fDKno7pGZ"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186882,
+      "name": "I disappear",
+      "url": "https://open.spotify.com/track/54hmneLqgiUgLwni4yH9zK"
+    },
+    {
+      "album": {
         "name": "i don\u2019t wanna live with myself anymore",
         "url": "https://open.spotify.com/album/5yKshIdY9kfdrmaSjAXXR3"
       },
@@ -2210,7 +2228,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 371999,
       "name": "I'm Fine, Leave Me Behind",
       "url": "https://open.spotify.com/track/3dmOL9nobY7mcWfMvW87n2"
@@ -4235,6 +4253,24 @@
     },
     {
       "album": {
+        "name": "See you",
+        "url": "https://open.spotify.com/album/0QQoK8TmuWtIhks9ARvVQA"
+      },
+      "artists": [
+        {
+          "name": "Luby Sparks",
+          "url": "https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236437,
+      "name": "See you",
+      "url": "https://open.spotify.com/track/3mnV82oFMN5aiPtk724PLP"
+    },
+    {
+      "album": {
         "name": "Self Bondage",
         "url": "https://open.spotify.com/album/4WKZHnxrsCCGUBS5Z1jXqN"
       },
@@ -5574,7 +5610,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 271400,
       "name": "\u0110i \u0111\u00e2u \u0111\u00f3",
       "url": "https://open.spotify.com/track/1S0NzDP9flGmxQPHWN8E9X"

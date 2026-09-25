@@ -2225,6 +2225,24 @@
     },
     {
       "album": {
+        "name": "Hard to Love",
+        "url": "https://open.spotify.com/album/5v8rjZwnx3B02FNloq9NBg"
+      },
+      "artists": [
+        {
+          "name": "supercatkei",
+          "url": "https://open.spotify.com/artist/4GLlFpGx6t0FwMz7LcJyBN"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141136,
+      "name": "Hard to Love",
+      "url": "https://open.spotify.com/track/1r2WWlH285CjPX4Bki3lJp"
+    },
+    {
+      "album": {
         "name": "The First Wave",
         "url": "https://open.spotify.com/album/41tF99cHFAvyf11JSwWtYU"
       },
@@ -6378,6 +6396,28 @@
       "duration_ms": 167240,
       "name": "\u8fd1\u8ddd\u96e2\u6200\u611b",
       "url": "https://open.spotify.com/track/4FgKG4iuhGntHDCFgSncUp"
+    },
+    {
+      "album": {
+        "name": "\u8eca\u5167\u5929\u6c23",
+        "url": "https://open.spotify.com/album/2tXEY9O6fsUabP5LUkBBWk"
+      },
+      "artists": [
+        {
+          "name": "J308",
+          "url": "https://open.spotify.com/artist/4vgQ1thwWytHhdUL742Ul1"
+        },
+        {
+          "name": "byn",
+          "url": "https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184066,
+      "name": "\u9003\u96e2\u4f60\u5728\u65e5\u843d\u524d",
+      "url": "https://open.spotify.com/track/53hxhhwQKtYDtMJCY0U2ko"
     },
     {
       "album": {

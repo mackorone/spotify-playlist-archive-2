@@ -17589,6 +17589,24 @@
     },
     {
       "album": {
+        "name": "ready or noT",
+        "url": "https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242240,
+      "name": "ready or noT",
+      "url": "https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU"
+    },
+    {
+      "album": {
         "name": "The Life Of Pablo",
         "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
       },

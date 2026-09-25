@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 23425,
+  "num_followers": 23452,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAALFKyRryP06cb3bmmlgYNX",
+  "snapshot_id": "arMWgAAAAADw4klPl+Q/k8NF48hJWECi",
   "tracks": [
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Facetime",
-        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 163970,
-      "name": "Facetime",
-      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORTAVENTO",
         "url": "https://open.spotify.com/album/7nyXHb7J8I4piuHtHodwKF"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 181537,
       "name": "BADU & 3000",
       "url": "https://open.spotify.com/track/2EunXugitKqwBZLyPyl1yQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Facetime",
+        "url": "https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 163970,
+      "name": "Facetime",
+      "url": "https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE"
     },
     {
       "added_at": null,

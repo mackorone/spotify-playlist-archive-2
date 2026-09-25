@@ -5349,6 +5349,24 @@
     },
     {
       "album": {
+        "name": "What if it all works out?",
+        "url": "https://open.spotify.com/album/3scIQyrNAizFhcE2gVTthL"
+      },
+      "artists": [
+        {
+          "name": "Joya",
+          "url": "https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148653,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/3AGooQmzVUYxGk9XxfSTom"
+    },
+    {
+      "album": {
         "name": "Expat Living",
         "url": "https://open.spotify.com/album/6kGFNA77LeZa67JCMvJVfE"
       },
@@ -6972,6 +6990,24 @@
       "duration_ms": 187597,
       "name": "Good Days",
       "url": "https://open.spotify.com/track/6oB4jM4zrpqtaLHfO4O0bq"
+    },
+    {
+      "album": {
+        "name": "Good Hue",
+        "url": "https://open.spotify.com/album/43zAil4uzDHwB3OnSG12xF"
+      },
+      "artists": [
+        {
+          "name": "Rogi Gill",
+          "url": "https://open.spotify.com/artist/2QUmnVR7FMzLhCIJCVg2fZ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127597,
+      "name": "Good Hue",
+      "url": "https://open.spotify.com/track/1cTsfPk5cAnrjonhvxpXnz"
     },
     {
       "album": {
@@ -10152,6 +10188,24 @@
       "duration_ms": 165381,
       "name": "Last night in Hong Kong",
       "url": "https://open.spotify.com/track/0CCXDZLnhjAlPo3sr3zjI5"
+    },
+    {
+      "album": {
+        "name": "Last night EP",
+        "url": "https://open.spotify.com/album/2XDAqJufPP7pngFCS5osLH"
+      },
+      "artists": [
+        {
+          "name": "Byejack",
+          "url": "https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "Last night in Seoul",
+      "url": "https://open.spotify.com/track/7eUjIA5hadZENcJ0J1vJr1"
     },
     {
       "album": {
@@ -16772,7 +16826,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 206000,
       "name": "Slowly",
       "url": "https://open.spotify.com/track/7gmloxRTT3WMim8R6Wz3pl"
@@ -19308,6 +19362,28 @@
       "duration_ms": 201490,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/027JnuX0aYpMqWjIzXAOVf"
+    },
+    {
+      "album": {
+        "name": "time machine",
+        "url": "https://open.spotify.com/album/2lYEWP6Z5NDP9uKXAnRnVM"
+      },
+      "artists": [
+        {
+          "name": "reanne",
+          "url": "https://open.spotify.com/artist/32TmSH5R4CnMSBWDHezgnR"
+        },
+        {
+          "name": "Jerold Chu",
+          "url": "https://open.spotify.com/artist/0zrojYXf2Tc3F59bB4iZtA"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200035,
+      "name": "time machine",
+      "url": "https://open.spotify.com/track/1lMuszUUzA8QkK6OK4Mjhz"
     },
     {
       "album": {
@@ -21892,7 +21968,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 124650,
       "name": "\u4e00\u500b\u4ebaSOLO",
       "url": "https://open.spotify.com/track/2hGPBjN34CpoqADl1iVPCi"
@@ -24234,7 +24310,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 210365,
       "name": "\u53cd\u5c8c (feat. Billy Choi)",
       "url": "https://open.spotify.com/track/6XtZ5WVEf6enXHL0HfWL66"
@@ -25810,7 +25886,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 163411,
       "name": "\u5c11\u751c",
       "url": "https://open.spotify.com/track/0iDcvBt8SH50PaEc7ZPD5e"
@@ -26736,6 +26812,24 @@
       "duration_ms": 169365,
       "name": "\u6200\u611bBB\u73ed",
       "url": "https://open.spotify.com/track/1vV0CAFs85GStDGwSL08MC"
+    },
+    {
+      "album": {
+        "name": "\u6210\u7530\u4f86\u672a",
+        "url": "https://open.spotify.com/album/31KGSaPZMl3dcqWzqFmcjc"
+      },
+      "artists": [
+        {
+          "name": "before the night ends",
+          "url": "https://open.spotify.com/artist/4AGHDyw984Ss54AzrGeTgU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "\u6210\u7530\u4f86\u672a",
+      "url": "https://open.spotify.com/track/1FOflDKlMgPMHlxSQeUzTv"
     },
     {
       "album": {
@@ -29810,7 +29904,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 191000,
       "name": "\u7121\u4eba\u60f3\u95dc\u6ce8 (feat. SoWhat)",
       "url": "https://open.spotify.com/track/12NUbBPypbF7ItCQwamG1v"

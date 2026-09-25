@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 
 > When my mouth has no words, let my spirit sing
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,236 likes - 80 songs - 13 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,318 likes - 80 songs - 13 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 11 | [Dide](https://open.spotify.com/track/1ySo3tFztJvwjCjnDLRxK5) | [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2), [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [Dide \(Soundtracks from the movie ENOCH\)](https://open.spotify.com/album/5YaA3qQpHQMnUZjY3B8yzH) | 3:21 |
 | 12 | [The Call \(Chants\)](https://open.spotify.com/track/2vDlHYooR65OAg68He20Fy) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 7:48 |
 | 13 | [We Raise A Sound](https://open.spotify.com/track/7zwSMMJkrRJNvxFO9w42nA) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq) | [We Raise A Sound](https://open.spotify.com/album/6IKqbpqiyP91QFtvKTKLEU) | 7:12 |
-| 14 | [Elohim Adonai](https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Elohim Adonai](https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN) | 3:47 |
-| 15 | [Draw](https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 6:31 |
+| 14 | [Draw](https://open.spotify.com/track/1XlnaoiYqjZdc8ZhDyZR0P) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 6:31 |
+| 15 | [Elohim Adonai](https://open.spotify.com/track/5dIj0tNjsEeF1h2QfnrGDo) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [Elohim Adonai](https://open.spotify.com/album/3u20aiiz0pNhRvOWiXuvvN) | 3:47 |
 | 16 | [Odogwu](https://open.spotify.com/track/07lLHICE1qfTRRIGPaXKLY) | [Kemelord](https://open.spotify.com/artist/18VyX3SmGTTAxfk5CeluSP) | [Odogwu](https://open.spotify.com/album/2iV8lRgiv08MYvx20oYLiC) | 4:50 |
 | 17 | [Sound of Revival](https://open.spotify.com/track/76KJfvXOhG4r2DWquugSAd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/4MCPXcYlgqMGWqm8B2k3ap) | 7:24 |
 | 18 | [Jesus Christ is seen](https://open.spotify.com/track/00gyuAURGNyLuXoIxQZemF) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Jesus Christ is seen](https://open.spotify.com/album/1qDNSYOrkkthADtJNHV5S3) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Axm04pkvqs.md) - [plain]
 | 79 | [If God Be For Me \(feat\. Folabi Nuel\)](https://open.spotify.com/track/3GBLldAE30bF3eAnE1z4ws) | [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [If God Be For Me \(feat\. Folabi Nuel\)](https://open.spotify.com/album/7rt2Nc83eLlhmILEvHrskU) | 5:11 |
 | 80 | [Let Me Want What You Want](https://open.spotify.com/track/78QThdGhUVsZVq1ieC2Wm8) | [The Paul\-Enenche Family](https://open.spotify.com/artist/2L3tUlLwhfO1RkbdxmX6bT) | [Let Me Want What You Want](https://open.spotify.com/album/3AKHczXx1uCi5gyMYUAk2Q) | 8:03 |
 
-Snapshot ID: `AAAAAJ4ceIHFaPNW4KhqU7zLa28O3rSM`
+Snapshot ID: `AAAAAJhUacIpXq6aWoHteOqK73hzQ046`

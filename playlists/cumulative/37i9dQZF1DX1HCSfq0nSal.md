@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Anuel, ROA
 
-1,007 songs - 2 day 7 hr 29 min
+1,008 songs - 2 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [BUBALU](https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [BUBALU](https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX) | 3:48 | 2023-09-21 | 2023-10-14 |
 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 | 2023-09-21 | 2024-01-27 |
 | [BUENISSSIMA](https://open.spotify.com/track/2F9HWvzgiLAIuhGdK0NoQA) | [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk) | [5 Noches en el Mediterráneo](https://open.spotify.com/album/3GOLtIQTw4gCyZyyfIzq3C) | 2:16 | 2023-07-11 | 2023-08-02 |
-| [Buenos Días](https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Buenos Días](https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2) | 2:39 | 2026-02-05 |  |
+| [Buenos Días](https://open.spotify.com/track/4mc8byHXW8rmZT5L5jwYG5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Buenos Días](https://open.spotify.com/album/0VI9CUYMmXVlCGhHJ4bgN2) | 2:39 | 2026-02-05 | 2026-09-25 |
 | [Buenos Términos](https://open.spotify.com/track/0cpMZWmQnyjkoh9BrNgTMb) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Buenos Términos](https://open.spotify.com/album/5GOVje4CqyYLQIFrE7yVYX) | 2:30 | 2025-08-05 | 2025-08-26 |
 | [BYAK](https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [BYAK](https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5) | 3:36 | 2024-04-01 | 2024-04-26 |
 | [BÁILAME GYAL](https://open.spotify.com/track/1QFsvkGJAEvwbSSBiPtRVF) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn) | [BÁILAME GYAL](https://open.spotify.com/album/5R64uQ1AaSAn7Ma2y6pq1T) | 2:19 | 2025-03-17 | 2025-06-28 |
@@ -228,6 +228,7 @@
 | [DE CAROLINA](https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:01 | 2023-01-31 | 2023-03-11 |
 | [DE CAROLINA](https://open.spotify.com/track/7xQdrZO18sSodsnJ7XCqto) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:01 | 2022-12-14 | 2023-02-06 |
 | [De Chamaquito](https://open.spotify.com/track/3Ftr6NITDE2yTPCpT5A1Nr) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [De Chamaquito](https://open.spotify.com/album/7FZouWc2eApwNcehyFTXR6) | 2:50 | 2026-03-20 | 2026-04-22 |
+| [DE DIOR XL](https://open.spotify.com/track/06UusKSBXp76qo0k0iw0cL) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [EL GREEN PRINT: La Saga \(Disc 2\) \- EL CLUB DE LAS 19 FLORES](https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh) | 3:14 | 2026-09-24 |  |
 | [De Lejitos](https://open.spotify.com/track/3r2ZoCWlf9RewWlxxozfQ8) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Lejitos](https://open.spotify.com/album/4LsQOT9fxqBpZLVLV9Ib55) | 3:27 | 2026-04-13 | 2026-06-03 |
 | [De Lejitos \- Remix](https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 4:36 | 2026-06-02 | 2026-09-15 |
 | [De Pari](https://open.spotify.com/track/2oYbmygoO3gzLychByw297) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [De Pari](https://open.spotify.com/album/0DaXSOZtSBlAEXgUxLr9hj) | 2:54 | 2022-08-22 | 2022-09-06 |

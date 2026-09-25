@@ -1,6 +1,6 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Miley Cyrus",
-  "num_followers": 921117,
+  "num_followers": 921181,
   "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
@@ -163,7 +163,7 @@
     {
       "added_at": "2026-09-22 18:02:23",
       "album": {
-        "name": "Small Town (feat. Gabriel Jacoby)",
+        "name": "Small Town",
         "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
       },
       "artists": [
@@ -174,10 +174,14 @@
         {
           "name": "Gabriel Jacoby",
           "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
         }
       ],
       "duration_ms": 169981,
-      "name": "Small Town (feat. Gabriel Jacoby)",
+      "name": "Small Town",
       "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {

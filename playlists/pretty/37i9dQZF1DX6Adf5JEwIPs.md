@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Lupita Infante & Chiquis 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,251 likes - 64 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,262 likes - 64 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 21 | [Disculpe Usted](https://open.spotify.com/track/5Zpd24LFsEmvW6PvclzPed) | [Los Valedores de la Sierra](https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy) | [Disculpe Usted](https://open.spotify.com/album/6VY0UchgqvQfLQLRmLBG8J) | 2:45 |
 | 22 | [Hay Alguien Aquí](https://open.spotify.com/track/26rZ8ODunIqbNALB3Lpb1F) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB), [Los Nuevos Rebeldes](https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr) | [Hay Alguien Aquí](https://open.spotify.com/album/48JlsRxVwdRwcpkqB1X8HY) | 2:35 |
 | 23 | [Pa' Que No Me Anden Contando \- Remix](https://open.spotify.com/track/5FjpV47OZnzaU85s0KToQS) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Juan Pablo Marquez](https://open.spotify.com/artist/6vQ0XC3lBnVgYUzUzDv990), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Pa' Que No Me Anden Contando \(Remix\)](https://open.spotify.com/album/08kLAE1CtYDg0EklM8LhwW) | 2:44 |
-| 24 | [Para Morrir Iguales](https://open.spotify.com/track/2ITg39ACpx9PBgzEAEjznQ) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Para Morrir Iguales](https://open.spotify.com/album/5s2tw7VtMErMhiH7alRDBl) | 2:41 |
+| 24 | [Para Morir Iguales](https://open.spotify.com/track/2ITg39ACpx9PBgzEAEjznQ) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0) | [Para Morir Iguales](https://open.spotify.com/album/5s2tw7VtMErMhiH7alRDBl) | 2:41 |
 | 25 | [El Campeón](https://open.spotify.com/track/6bxe75QM4hqfgqBywxlsqB) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Campeón](https://open.spotify.com/album/1iL4dwstqIiUD9ettABQMw) | 3:07 |
 | 26 | [A Qué Te Atienes](https://open.spotify.com/track/4F99vhSyDHXz34aZrIUQdv) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Sin Miedo al Éxito](https://open.spotify.com/album/4pCi1i3uEdFU0QCL1yClnE) | 3:01 |
 | 27 | [Las Que Mandan Son Ellas](https://open.spotify.com/track/175pl4DMQcaezxSorDg299) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Vieja Escuela](https://open.spotify.com/album/5vaHrW7SiGGaCG3GKgSPXJ) | 3:04 |

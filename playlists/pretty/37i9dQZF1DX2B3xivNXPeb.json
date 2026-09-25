@@ -1,6 +1,6 @@
 {
   "description": "Music for enjoying your space",
-  "num_followers": 59476,
+  "num_followers": 59477,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y"
+      },
+      "artists": [
+        {
+          "name": "Alewya",
+          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
+        }
+      ],
+      "duration_ms": 181810,
+      "name": "Cairo FM",
+      "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
         "name": "You Promised A Lifetime",
         "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 199293,
       "name": "The Thrill Is Gone.",
       "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/6G3VTaCeobzyhyFrqYli0y"
-      },
-      "artists": [
-        {
-          "name": "Alewya",
-          "url": "https://open.spotify.com/artist/0wcjJjpvnHb5vK4iwKfxPm"
-        }
-      ],
-      "duration_ms": 181810,
-      "name": "Cairo FM",
-      "url": "https://open.spotify.com/track/6v7hCIRoJkuYShT0wls1gD"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "On Wires",
-        "url": "https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH"
-      },
-      "artists": [
-        {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
-        }
-      ],
-      "duration_ms": 202989,
-      "name": "On Wires",
-      "url": "https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "SWAG II",
         "url": "https://open.spotify.com/album/2KrREEyHxkdFGYAd1DmMdS"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 186773,
       "name": "LYIN'",
       "url": "https://open.spotify.com/track/61xjj1xvLBn43Jn2E3RzbB"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "On Wires",
+        "url": "https://open.spotify.com/album/1jDVjyRRcIBJceVWSM76eH"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 202989,
+      "name": "On Wires",
+      "url": "https://open.spotify.com/track/29KCgoJwNofk7hF4Z1wsEB"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "Dirty (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 173361,
-      "name": "Dirty (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "What It Gave Me",
         "url": "https://open.spotify.com/album/3LEphQCvlgsy8LmUDYqMva"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 164605,
       "name": "What It Gave Me",
       "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "Dirty (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3AOLCTndOLnlC2jbi71beG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 173361,
+      "name": "Dirty (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/2ZAEbGGj1yXJRCoVaEn16K"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "Bittersweet Escape",
-        "url": "https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 167860,
-      "name": "Bittersweet Escape",
-      "url": "https://open.spotify.com/track/7m048jBthqhBF62d67E1kM"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "in plain sight",
         "url": "https://open.spotify.com/album/0YoHHjCHO27LZf77NVoXe8"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 145128,
       "name": "in plain sight",
       "url": "https://open.spotify.com/track/1QH0jep0GpK2fh22owVsSV"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "Bittersweet Escape",
+        "url": "https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 167860,
+      "name": "Bittersweet Escape",
+      "url": "https://open.spotify.com/track/7m048jBthqhBF62d67E1kM"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
+        "name": "God Said No",
+        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 158093,
+      "name": "Done With You",
+      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
         "name": "Want This Beer (Feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
-      },
-      "artists": [
-        {
-          "name": "Katie Tupper",
-          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
-        }
-      ],
-      "duration_ms": 211669,
-      "name": "Disappear",
-      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "Anyone In Love",
         "url": "https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "God Said No",
-        "url": "https://open.spotify.com/album/4zP3lXg6RHEiUDOtUkr5yh"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 158093,
-      "name": "Done With You",
-      "url": "https://open.spotify.com/track/613Db7CIngP03SE2pAqTwg"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "Alienated",
         "url": "https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 247613,
       "name": "Alienated",
       "url": "https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP"
+      },
+      "artists": [
+        {
+          "name": "Katie Tupper",
+          "url": "https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW"
+        }
+      ],
+      "duration_ms": 211669,
+      "name": "Disappear",
+      "url": "https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC"
     },
     {
       "added_at": "2026-07-10 00:00:27",

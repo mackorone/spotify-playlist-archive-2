@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Nas X. The essential tracks, all in one playlist.",
-  "num_followers": 165354,
+  "num_followers": 165355,
   "original_name": "This Is Lil Nas X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABt+EFPYrFpPKRc2X6cWk5q",
+  "snapshot_id": "arMWgAAAAADc77mwiYWI9dZk2VoP/KPU",
   "tracks": [
     {
       "added_at": null,
@@ -360,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 205920,
-      "name": "LEAN ON MY BODY",
-      "url": "https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz"
+      "duration_ms": 125893,
+      "name": "BIG DUMMY!",
+      "url": "https://open.spotify.com/track/2MI0r68gCKVy5T11mQ4sKv"
     },
     {
       "added_at": null,
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
         }
       ],
-      "duration_ms": 125893,
-      "name": "BIG DUMMY!",
-      "url": "https://open.spotify.com/track/2MI0r68gCKVy5T11mQ4sKv"
+      "duration_ms": 205920,
+      "name": "LEAN ON MY BODY",
+      "url": "https://open.spotify.com/track/5kN2mbOgVpwSskBzh8Cndz"
     },
     {
       "added_at": null,

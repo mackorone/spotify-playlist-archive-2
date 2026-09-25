@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 134190,
+  "num_followers": 134204,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAABaLjJBFXM2Q+m/yJx+5zye",
+  "snapshot_id": "arMWgAAAAAAdBzFD6goiZZh8AK+5I08f",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back Home",
-        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 275440,
-      "name": "I'm A Rocker",
-      "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
+      "duration_ms": 146893,
+      "name": "Back In The U.S.A.",
+      "url": "https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+        "name": "Back Home",
+        "url": "https://open.spotify.com/album/2JMArOghmqNZFFuWDvkSwY"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 146893,
-      "name": "Back In The U.S.A.",
-      "url": "https://open.spotify.com/track/114gCJP9NGrrs5gjPU8RTi"
+      "duration_ms": 275440,
+      "name": "I'm A Rocker",
+      "url": "https://open.spotify.com/track/0x61kbCcvC8WqSihmQMgdA"
     },
     {
       "added_at": null,
@@ -375,6 +375,22 @@
       "duration_ms": 142440,
       "name": "Let's Do Our Thing Together",
       "url": "https://open.spotify.com/track/7cTrN7Jpg3RduYiH1HwQb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck Berry Twist",
+        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 142586,
+      "name": "Thirty Days",
+      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
     },
     {
       "added_at": null,
@@ -407,22 +423,6 @@
       "duration_ms": 141960,
       "name": "Almost Grown",
       "url": "https://open.spotify.com/track/6Kl1mOpVOIg17MQmcjeUO5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck Berry Twist",
-        "url": "https://open.spotify.com/album/2ZuKCxGEZsBByk0js4zfbx"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 142586,
-      "name": "Thirty Days",
-      "url": "https://open.spotify.com/track/1t5XUupizGiodTmIhqcqD2"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Francisco Dues",
-        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 205733,
-      "name": "San Francisco Dues",
-      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fresh Berry's",
         "url": "https://open.spotify.com/album/02JS9znmNXHp24jyQaimL6"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 91666,
       "name": "Trick Or Treat",
       "url": "https://open.spotify.com/track/4iTanMp15eReVbBMeQILEY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "San Francisco Dues",
+        "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 205733,
+      "name": "San Francisco Dues",
+      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 155933,
-      "name": "Little Marie",
-      "url": "https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck Berry On Stage (Expanded Edition)",
         "url": "https://open.spotify.com/album/2bQQlbekyxsh1NaFw2qdlV"
       },
@@ -699,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 155933,
+      "name": "Little Marie",
+      "url": "https://open.spotify.com/track/3Hh5o5GUOveghI5l7DrvgT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "San Francisco Dues",
         "url": "https://open.spotify.com/album/1gx9zPpDsECgKU5TUc7PbR"
       },
@@ -711,22 +711,6 @@
       "duration_ms": 122480,
       "name": "Viva Viva Rock 'N' Roll",
       "url": "https://open.spotify.com/track/32KddGW46wnlpKbl62gqca"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "St. Louis To Liverpool",
-        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 178106,
-      "name": "Go Bobby Soxer",
-      "url": "https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt"
     },
     {
       "added_at": null,
@@ -763,6 +747,22 @@
       "duration_ms": 132973,
       "name": "I Got To Find My Baby - Single Version",
       "url": "https://open.spotify.com/track/5qojkHvPBrbT0Z7SAgYboD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "St. Louis To Liverpool",
+        "url": "https://open.spotify.com/album/6ITR4bqkKZGyanAlQgXtyK"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 178106,
+      "name": "Go Bobby Soxer",
+      "url": "https://open.spotify.com/track/4thIUA9RxwUcsjiUVo33Lt"
     },
     {
       "added_at": null,

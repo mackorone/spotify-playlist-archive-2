@@ -1899,6 +1899,24 @@
     },
     {
       "album": {
+        "name": "The Night Champion",
+        "url": "https://open.spotify.com/album/1B6e2WFd3t2NUIOKN7KHUc"
+      },
+      "artists": [
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211030,
+      "name": "Meet You There",
+      "url": "https://open.spotify.com/track/3xfpy8wDVGsb5pJkmGUXtR"
+    },
+    {
+      "album": {
         "name": "Life Is A Killer",
         "url": "https://open.spotify.com/album/7Mb8z4fD81K8M5gcoeZrkP"
       },

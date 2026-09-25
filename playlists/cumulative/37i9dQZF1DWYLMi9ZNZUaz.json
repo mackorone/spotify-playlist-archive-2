@@ -141,6 +141,24 @@
     },
     {
       "album": {
+        "name": "258",
+        "url": "https://open.spotify.com/album/48aOF1Q1yH0i7IbIeFXzg9"
+      },
+      "artists": [
+        {
+          "name": "PC",
+          "url": "https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231529,
+      "name": "258",
+      "url": "https://open.spotify.com/track/5phC3U5ofvJzPZMaJbCl7M"
+    },
+    {
+      "album": {
         "name": "THE WXRDIES",
         "url": "https://open.spotify.com/album/1wmnEWgcDdCcOujQpLwYxc"
       },
@@ -360,7 +378,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 223500,
       "name": "ADAMN",
       "url": "https://open.spotify.com/track/50WjeoNacrSiDum2P3yWtb"
@@ -1034,7 +1052,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 137787,
       "name": "B\u00caN ANH",
       "url": "https://open.spotify.com/track/6zA4zZf2aAoF74L16EePDQ"
@@ -1354,7 +1372,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 156000,
       "name": "Ch\u00ecm S\u00e2u",
       "url": "https://open.spotify.com/track/4ih9noxBfg7euMjCPO0qNH"
@@ -1880,7 +1898,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 175647,
       "name": "C\u00e1 M\u1eadp Con",
       "url": "https://open.spotify.com/track/2ZaNDguKgghsZ1LRlbCZNv"
@@ -1964,7 +1982,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 294534,
       "name": "C\u00f3 L\u1ebd Anh Ch\u01b0a T\u1eebng",
       "url": "https://open.spotify.com/track/1n5vwy1usk9prr2Yuh9Lt8"
@@ -2322,7 +2340,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 192000,
       "name": "Em B\u00e9",
       "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
@@ -2554,7 +2572,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 260073,
       "name": "FEVER",
       "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 266379,
       "name": "H\u1eefng H\u1edd",
       "url": "https://open.spotify.com/track/6CygbhaDoDGTlRq8LiEwpt"
@@ -3652,7 +3670,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 231504,
       "name": "K\u1ebb C\u1eafp G\u1eb7p B\u00e0 Gi\u00e0 (feat. Binz)",
       "url": "https://open.spotify.com/track/3HJ0EW4kd9S1NRCm039Fsk"
@@ -4114,6 +4132,28 @@
       "duration_ms": 217846,
       "name": "magick - feat. T\u00e1o",
       "url": "https://open.spotify.com/track/1RqTiIkl4dTitoanZYEx9u"
+    },
+    {
+      "album": {
+        "name": "mang h\u1ebft n\u1ed7i bu\u1ed3n \u0111\u1ec3 anh \u00f4m l\u1ea5y",
+        "url": "https://open.spotify.com/album/1WbF0CxGYYS9wn57YfHWjm"
+      },
+      "artists": [
+        {
+          "name": "SpideyBoy",
+          "url": "https://open.spotify.com/artist/3unhO6qR1h6msBm7QSUdPF"
+        },
+        {
+          "name": "Dab",
+          "url": "https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152575,
+      "name": "mang h\u1ebft n\u1ed7i bu\u1ed3n \u0111\u1ec3 anh \u00f4m l\u1ea5y",
+      "url": "https://open.spotify.com/track/0UVrJ6Qu6LwGatdQTdD6Sa"
     },
     {
       "album": {
@@ -5047,6 +5087,28 @@
     },
     {
       "album": {
+        "name": "Nh\u1eefng Ng\u00e0y",
+        "url": "https://open.spotify.com/album/3IchkKGzuo8OLN2CADw70T"
+      },
+      "artists": [
+        {
+          "name": "The Shyn",
+          "url": "https://open.spotify.com/artist/4sNKRLw6nPTQPQd1jBIqvS"
+        },
+        {
+          "name": "Tupig",
+          "url": "https://open.spotify.com/artist/44iYnfZtPLTWinABfnUyR4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180567,
+      "name": "Nh\u1eefng Ng\u00e0y",
+      "url": "https://open.spotify.com/track/4wPdNUt2SgMeobxEFceN3y"
+    },
+    {
+      "album": {
         "name": "\u00e1i",
         "url": "https://open.spotify.com/album/5zyztYlsHoAeQKCsu8rVbo"
       },
@@ -5508,7 +5570,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 205232,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6gmvd9Lld9MiNR9r6I9eFE"
@@ -5752,6 +5814,28 @@
       "duration_ms": 210491,
       "name": "QUAY \u0110I QUAY L\u1ea0I (feat. HIEUTHUHAI)",
       "url": "https://open.spotify.com/track/07d8eaOuAWdC0DANq3tdPd"
+    },
+    {
+      "album": {
+        "name": "qu\u00ean",
+        "url": "https://open.spotify.com/album/44l7J68DliDat5SUzEPl41"
+      },
+      "artists": [
+        {
+          "name": "Lil Liem",
+          "url": "https://open.spotify.com/artist/5WtJZwEnoNM2Te1jh6Uftx"
+        },
+        {
+          "name": "n0id",
+          "url": "https://open.spotify.com/artist/4nCsDwwGHFTGl93BvjsaJN"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210464,
+      "name": "qu\u00ean",
+      "url": "https://open.spotify.com/track/0Osu09oX7LWAzmjCbKtPv8"
     },
     {
       "album": {
@@ -6040,7 +6124,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-11-24",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Sinh Nh\u1eadt C\u1ee7a Xinh Nh\u1ea5t",
       "url": "https://open.spotify.com/track/1W5kZCi3DyAwUu1flTIHdZ"
@@ -6124,6 +6208,28 @@
       "duration_ms": 198948,
       "name": "SS SWAG",
       "url": "https://open.spotify.com/track/3JzzDhLizpLrBmNxglvmpd"
+    },
+    {
+      "album": {
+        "name": "Steppa",
+        "url": "https://open.spotify.com/album/3vFEAfKuw7FCeU96AFUCss"
+      },
+      "artists": [
+        {
+          "name": "16 Typh",
+          "url": "https://open.spotify.com/artist/5U1dINFKjJlYNOSdMrHlRh"
+        },
+        {
+          "name": "Youngun",
+          "url": "https://open.spotify.com/artist/4kHGCMPHuU39F8EL9hjpRK"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169480,
+      "name": "Steppa",
+      "url": "https://open.spotify.com/track/4CXAWKWJYgq1KsN6Vrpdpl"
     },
     {
       "album": {
@@ -6260,6 +6366,32 @@
       "duration_ms": 216000,
       "name": "TALAGI",
       "url": "https://open.spotify.com/track/1Cv9w0KLlrz0t4ExKO76QE"
+    },
+    {
+      "album": {
+        "name": "TALK TO MYSELF",
+        "url": "https://open.spotify.com/album/1ILhMENRj5afpl15vqpQOT"
+      },
+      "artists": [
+        {
+          "name": "HITTWITHLOVE",
+          "url": "https://open.spotify.com/artist/04McwEONDlPGgNP3d0Jaap"
+        },
+        {
+          "name": "REX",
+          "url": "https://open.spotify.com/artist/2cVTYSIzatkm0RXjOGsHb4"
+        },
+        {
+          "name": "Kemm \u0110\u00e1",
+          "url": "https://open.spotify.com/artist/56b9YYgbU4U76wtBC7NfDl"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141030,
+      "name": "TALK TO MYSELF",
+      "url": "https://open.spotify.com/track/5upBvuANFHteDvEaaoDJgR"
     },
     {
       "album": {

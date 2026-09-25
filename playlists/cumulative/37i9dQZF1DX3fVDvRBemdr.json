@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollands & Volkspop. Cover: LA$$A, Lange Frans & Wesly Bronkhorst",
+  "description": "De nieuwste Hollands & Volkspop. Cover: Gerard Joling",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -922,7 +922,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 161782,
       "name": "Als Je De Keuze Had",
       "url": "https://open.spotify.com/track/1FZM8dP0aTz018IYwdGH46"
@@ -2168,6 +2168,24 @@
       "duration_ms": 158932,
       "name": "Corry Konings",
       "url": "https://open.spotify.com/track/79ykiAUGpJsiHY8b5A8RMg"
+    },
+    {
+      "album": {
+        "name": "Creditcard Van Staal",
+        "url": "https://open.spotify.com/album/10AxeFRyuXridn3Y7nsApL"
+      },
+      "artists": [
+        {
+          "name": "Gerard Joling",
+          "url": "https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145356,
+      "name": "Creditcard Van Staal",
+      "url": "https://open.spotify.com/track/7CLhThzR5NjWT4ItP60ub4"
     },
     {
       "album": {
@@ -3481,6 +3499,24 @@
     },
     {
       "album": {
+        "name": "Doe Niet Zo Stom 2.0",
+        "url": "https://open.spotify.com/album/49qzrjQBnMnzoX1BJi4RJo"
+      },
+      "artists": [
+        {
+          "name": "Robert Leroy",
+          "url": "https://open.spotify.com/artist/0WZ8giQmGRC1E1qFVz4c2a"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172424,
+      "name": "Doe Niet Zo Stom 2.0",
+      "url": "https://open.spotify.com/track/0sgAW7do5nbPmssmIkxhPi"
+    },
+    {
+      "album": {
         "name": "Doe nog maar een rondje",
         "url": "https://open.spotify.com/album/7agd9o31Gjkw9tq7mjA3mR"
       },
@@ -4333,6 +4369,24 @@
     },
     {
       "album": {
+        "name": "Ford Sierra",
+        "url": "https://open.spotify.com/album/19qbUW5BZpOkG6cfOvz0n8"
+      },
+      "artists": [
+        {
+          "name": "Gizbey",
+          "url": "https://open.spotify.com/artist/7GTD2ivDEWSYlwjfIdnkGq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196023,
+      "name": "Ford Sierra",
+      "url": "https://open.spotify.com/track/73J2foSGvifCFjPGcngy9c"
+    },
+    {
+      "album": {
         "name": "Fout (3x)",
         "url": "https://open.spotify.com/album/5MCRXELzORTrU3UerRzCCM"
       },
@@ -4913,6 +4967,24 @@
     },
     {
       "album": {
+        "name": "Glibberen",
+        "url": "https://open.spotify.com/album/7FsqY4TX7j5EqEvEtukRAK"
+      },
+      "artists": [
+        {
+          "name": "Ray & Beer",
+          "url": "https://open.spotify.com/artist/3CA4JmxdhbaXZbbEq07TRt"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134117,
+      "name": "Glibberen",
+      "url": "https://open.spotify.com/track/59Dxe5pnuDsUlFFYukG6Zk"
+    },
+    {
+      "album": {
         "name": "Goede Slechte Tijden",
         "url": "https://open.spotify.com/album/4UOzDZACPl3BTnUVZh25J1"
       },
@@ -5290,6 +5362,24 @@
       "duration_ms": 192410,
       "name": "Heerlijke Vakantie",
       "url": "https://open.spotify.com/track/2fTLEmV2cAzHgBdyrfKcpx"
+    },
+    {
+      "album": {
+        "name": "Helemaal Kwijt",
+        "url": "https://open.spotify.com/album/48uoVx767bCeWX9XahmAHY"
+      },
+      "artists": [
+        {
+          "name": "Mike Appelhof",
+          "url": "https://open.spotify.com/artist/0bw5QUWR6fvaH1b5xf1CeQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176823,
+      "name": "Helemaal Kwijt",
+      "url": "https://open.spotify.com/track/2YHgtKB0px9eUcbQScXnRh"
     },
     {
       "album": {
@@ -5828,6 +5918,24 @@
       "duration_ms": 192049,
       "name": "Houden Van Haten",
       "url": "https://open.spotify.com/track/1nVXy0NnlDUPFIeEGuoe9S"
+    },
+    {
+      "album": {
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/1B0t8mqium7NAuaEycybxy"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154448,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/0u3ApEw00CVHDl03BPAcza"
     },
     {
       "album": {
@@ -6693,6 +6801,24 @@
     },
     {
       "album": {
+        "name": "Ik Slaap Wel Op De Bank",
+        "url": "https://open.spotify.com/album/5hxi08D70MDgLgcOUnH0cJ"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Leunenberg",
+          "url": "https://open.spotify.com/artist/3ovpmWdzEO3rkAWdEanDht"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150820,
+      "name": "Ik Slaap Wel Op De Bank",
+      "url": "https://open.spotify.com/track/71I0SqzE5WUm1oIvqE0Ab0"
+    },
+    {
+      "album": {
         "name": "Ik Spaar Geen Centen",
         "url": "https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS"
       },
@@ -7218,6 +7344,24 @@
       "duration_ms": 170396,
       "name": "In Het Hart Van",
       "url": "https://open.spotify.com/track/6KudrzhnOIAhbB7qLKNgeM"
+    },
+    {
+      "album": {
+        "name": "In Het Zicht Van De Haven",
+        "url": "https://open.spotify.com/album/686o9t6DBcbx2UeNMT7qfX"
+      },
+      "artists": [
+        {
+          "name": "Tim Schot",
+          "url": "https://open.spotify.com/artist/06Beoc0cG7nQ4w6qhh8tAd"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177381,
+      "name": "In Het Zicht Van De Haven",
+      "url": "https://open.spotify.com/track/6b8pxVFeLkZZ6O5NWyBxg8"
     },
     {
       "album": {
@@ -8047,6 +8191,24 @@
     },
     {
       "album": {
+        "name": "Kijk Door Mijn Ogen",
+        "url": "https://open.spotify.com/album/3Rzr6yQZ3XYJTPWfeafNbG"
+      },
+      "artists": [
+        {
+          "name": "Gerard Palts",
+          "url": "https://open.spotify.com/artist/7agcYn7rMxlilM5iilw4qf"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Kijk Door Mijn Ogen",
+      "url": "https://open.spotify.com/track/1B9zpYiK0rwdFRIAda0xJ7"
+    },
+    {
+      "album": {
         "name": "Kijk mij niet zo aan",
         "url": "https://open.spotify.com/album/3LDpqnA4m5vUmFnUGgGKA0"
       },
@@ -8206,7 +8368,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 161470,
       "name": "Klokkenluider",
       "url": "https://open.spotify.com/track/3QnZnBoMApl2GKCZWYtwmD"
@@ -8228,7 +8390,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 156277,
       "name": "Knipperlicht",
       "url": "https://open.spotify.com/track/59Qfe03ojYDt8nhdBNDurQ"
@@ -10164,7 +10326,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 163013,
       "name": "Nergens Anders",
       "url": "https://open.spotify.com/track/4DjNoN2DWSdkCOGppJzkw6"
@@ -13671,6 +13833,24 @@
     },
     {
       "album": {
+        "name": "Wat Doe Je Nou",
+        "url": "https://open.spotify.com/album/0Cm74cq6AKtnHo52cei7mt"
+      },
+      "artists": [
+        {
+          "name": "Marvin de Geest",
+          "url": "https://open.spotify.com/artist/1EjFOZptMvuufEtWCMzsES"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161789,
+      "name": "Wat Doe Je Nou",
+      "url": "https://open.spotify.com/track/1WruaciKfSta360liDMtFZ"
+    },
+    {
+      "album": {
         "name": "Wat Een Plezier",
         "url": "https://open.spotify.com/album/67R5Zi52SgiuyIJ2xbDS1K"
       },
@@ -14534,7 +14714,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 142965,
       "name": "Zandloopster",
       "url": "https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl"

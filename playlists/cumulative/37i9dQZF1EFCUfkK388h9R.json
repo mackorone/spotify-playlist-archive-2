@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "Zoe's Mixtape",
+        "url": "https://open.spotify.com/album/3tvQ7tUbztcIdUMHQDXkT7"
+      },
+      "artists": [
+        {
+          "name": "CONTROL Resonant",
+          "url": "https://open.spotify.com/artist/3eBiwUiMiQWhOpm4z8356l"
+        },
+        {
+          "name": "Frida Amundsen",
+          "url": "https://open.spotify.com/artist/7bWpniIKlAHKaXyn3BFPlr"
+        },
+        {
+          "name": "SAKIMA",
+          "url": "https://open.spotify.com/artist/2tg1rWk2rWaltTk0baRjRu"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191051,
+      "name": "Another World",
+      "url": "https://open.spotify.com/track/2hIDp0Wsysagyn7VZkqNhL"
+    },
+    {
+      "album": {
         "name": "Butterfly Blue",
         "url": "https://open.spotify.com/album/4jeFaZ3TvNTgHAdTFzTKoF"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Your personalized GTA radio station",
-  "num_followers": 745995,
+  "num_followers": 746177,
   "original_name": "Grand Theft Auto Radio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAnT1IdVYwD4MJTQtzrKQYg8IwrW",
+  "snapshot_id": "AAAAANZwZHGTz2wsrmPZ2f/xq54CtGds",
   "tracks": [
     {
       "added_at": "2026-09-16 20:40:24",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "31 Minutes to Takeoff",
-        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        },
-        {
-          "name": "Gigamesh",
-          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
-        }
-      ],
-      "duration_ms": 213293,
-      "name": "Cooler Than Me - Single Mix",
-      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Dying to Live",
         "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 246440,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "31 Minutes to Takeoff",
+        "url": "https://open.spotify.com/album/2nnIlWcriIqcJtjduWcTRl"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        },
+        {
+          "name": "Gigamesh",
+          "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
+        }
+      ],
+      "duration_ms": 213293,
+      "name": "Cooler Than Me - Single Mix",
+      "url": "https://open.spotify.com/track/2V4bv1fNWfTcyRJKmej6Sj"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -499,22 +499,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Leftoverture (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
-      },
-      "artists": [
-        {
-          "name": "Kansas",
-          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
-        }
-      ],
-      "duration_ms": 323000,
-      "name": "Carry on Wayward Son",
-      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Young Hearts Run Free (US Internet Release)",
         "url": "https://open.spotify.com/album/39ntuIhbcC8rsmRV2qXkmZ"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 248360,
       "name": "Young Hearts Run Free",
       "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Leftoverture (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR"
+      },
+      "artists": [
+        {
+          "name": "Kansas",
+          "url": "https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1"
+        }
+      ],
+      "duration_ms": 323000,
+      "name": "Carry on Wayward Son",
+      "url": "https://open.spotify.com/track/4DMKwE2E2iYDKY01C335Uw"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
-      },
-      "artists": [
-        {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
-        }
-      ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Danzig",
         "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 204866,
       "name": "Mother",
       "url": "https://open.spotify.com/track/7txxAtOMwLLnQTpKeBL6bp"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+      },
+      "artists": [
+        {
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+        }
+      ],
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -851,22 +851,6 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Matangi",
-        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Bad Girls",
-      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
         "name": "Skrilla",
         "url": "https://open.spotify.com/album/6AzBF6pF1Vtr1muijJ9Nlv"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 216189,
       "name": "Skrilla",
       "url": "https://open.spotify.com/track/5PyhIVD3WFiEQQTG36Tfch"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
+        "name": "Matangi",
+        "url": "https://open.spotify.com/album/3dAxXNscIj0p53lBMEziYR"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Bad Girls",
+      "url": "https://open.spotify.com/track/6nzXkCBOhb2mxctNihOqbb"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
+      },
+      "artists": [
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 188453,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
+    },
+    {
+      "added_at": "2026-09-16 20:40:24",
+      "album": {
         "name": "Con Altura",
         "url": "https://open.spotify.com/album/4bxHLppgdmaYJk0yfdcP0l"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 257226,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj"
-    },
-    {
-      "added_at": "2026-09-16 20:40:24",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/7CH99b2i1TXS5P8UUyWtnM"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+        "name": "Some Great Reward (Deluxe)",
+        "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
       },
       "artists": [
         {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 302626,
-      "name": "Hollywood Nights",
-      "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
+      "duration_ms": 231973,
+      "name": "People Are People",
+      "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
     },
     {
       "added_at": "2026-09-16 20:40:24",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2026-09-16 20:40:24",
       "album": {
-        "name": "Some Great Reward (Deluxe)",
-        "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
         }
       ],
-      "duration_ms": 231973,
-      "name": "People Are People",
-      "url": "https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE"
+      "duration_ms": 302626,
+      "name": "Hollywood Nights",
+      "url": "https://open.spotify.com/track/5VbePtZp1at8gH990zVyTI"
     },
     {
       "added_at": "2026-09-16 20:40:24",

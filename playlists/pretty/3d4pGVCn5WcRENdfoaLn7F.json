@@ -1,12 +1,12 @@
 {
   "description": "These are some independent alternative rock bands you need to hear. Updated weekly.",
-  "num_followers": 869,
+  "num_followers": 874,
   "original_name": "Unsigned Alternative Rock",
   "owner": {
     "name": "Live To Jam",
     "url": "https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4"
   },
-  "snapshot_id": "AAAD9Zf96X9ZXqRkhYkWejyKk4neDyox",
+  "snapshot_id": "AAAD9tA/wzz1hrCjg4O6ksFDE9bAzYeP",
   "tracks": [
     {
       "added_at": "2026-02-16 17:21:01",
@@ -1215,6 +1215,22 @@
       "duration_ms": 267249,
       "name": "Rams Ram",
       "url": "https://open.spotify.com/track/0plEu3wKASWXx9dul04lDF"
+    },
+    {
+      "added_at": "2026-09-24 12:12:20",
+      "album": {
+        "name": "Photosynthesize",
+        "url": "https://open.spotify.com/album/4qSkBNtL1NcdXjEjRLnupg"
+      },
+      "artists": [
+        {
+          "name": "The Winter Sloths",
+          "url": "https://open.spotify.com/artist/3MVGy2ZeJzUFYpP1RdNAGD"
+        }
+      ],
+      "duration_ms": 283288,
+      "name": "Photosynthesize",
+      "url": "https://open.spotify.com/track/170x4QIJeKPk6MQp87KiU5"
     }
   ],
   "unique_name": "Unsigned Alternative Rock",

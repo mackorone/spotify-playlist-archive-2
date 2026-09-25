@@ -1,6 +1,6 @@
 {
   "description": "Deja que tu coraz\u00f3n se rinda ante la m\u00fasica rom\u00e1ntica de anta\u00f1o.",
-  "num_followers": 648944,
+  "num_followers": 648996,
   "original_name": "Boleros",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "\u00bfY Linda?",
-        "url": "https://open.spotify.com/album/0tVbH1ZeEGt08QxHfXM5W7"
-      },
-      "artists": [
-        {
-          "name": "Daniel Santos",
-          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/6TEqOQsrSZU2mIZzvDGsUB"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Sonora Santanera - Canta Sonia L\u00f3pez",
         "url": "https://open.spotify.com/album/3uODoLPO61aIjF7a2FaDz3"
       },
@@ -415,18 +399,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Las Estrellas Del Fonografo RCA Victor",
-        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
+        "name": "\u00bfY Linda?",
+        "url": "https://open.spotify.com/album/0tVbH1ZeEGt08QxHfXM5W7"
       },
       "artists": [
         {
-          "name": "Los Tres Ases",
-          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+          "name": "Daniel Santos",
+          "url": "https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2"
         }
       ],
-      "duration_ms": 193706,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
+      "duration_ms": 165600,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/6TEqOQsrSZU2mIZzvDGsUB"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -443,6 +427,22 @@
       "duration_ms": 175480,
       "name": "Quinto patio",
       "url": "https://open.spotify.com/track/1OyMBRnmfDtChpieU8yZGl"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Las Estrellas Del Fonografo RCA Victor",
+        "url": "https://open.spotify.com/album/2iBzqfmSLEAjIpH1RN1myW"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Ases",
+          "url": "https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B"
+        }
+      ],
+      "duration_ms": 193706,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/2uliF87JybtJDQfgOclSTa"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Esta Tarde Vi Llover",
-        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 143874,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Historia De Un Amor",
         "url": "https://open.spotify.com/album/0sy6MHUDULpCcN5rTlwPIg"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 186500,
       "name": "Historia De Un Amor",
       "url": "https://open.spotify.com/track/7BHjsEyxagVzLibURml7p6"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Esta Tarde Vi Llover",
+        "url": "https://open.spotify.com/album/6HR4q9Dz5DpbZ4VxBuvGOb"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 143874,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/56jakCjFeneCQMMq8aNFyt"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
-        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
-      },
-      "artists": [
-        {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Estoy Enamorado",
-      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/0DdhG3uTQzuqaUYHOTyleK"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 162944,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/7Ckf1wTf5DDp9byugqz3gv"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Antonio Badu/Claudio Estrada - Dos Bohemios Romanticos",
+        "url": "https://open.spotify.com/album/0asR4PcGxIQOxjnq5aaekQ"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Estoy Enamorado",
+      "url": "https://open.spotify.com/track/3Wu69KbLFXHK2g0fiA0MZR"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "El preso n\u00famero 9 (Remastered)",
-        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
-      },
-      "artists": [
-        {
-          "name": "Trio Calaveras",
-          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
-        }
-      ],
-      "duration_ms": 218432,
-      "name": "La malague\u00f1a - Remastered",
-      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Nos Hizo Falta Tiempo",
         "url": "https://open.spotify.com/album/1MFnxCHtziAmBpzkozWNXf"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 166500,
       "name": "Nos Hizo Falta Tiempo",
       "url": "https://open.spotify.com/track/7I1gW6hOscv5Sq8hyrDmdi"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "El preso n\u00famero 9 (Remastered)",
+        "url": "https://open.spotify.com/album/7jIILQY6IYM13XKSU7h4lE"
+      },
+      "artists": [
+        {
+          "name": "Trio Calaveras",
+          "url": "https://open.spotify.com/artist/6lS7WlU3MgVuHK0o4TRwSs"
+        }
+      ],
+      "duration_ms": 218432,
+      "name": "La malague\u00f1a - Remastered",
+      "url": "https://open.spotify.com/track/1Ks8E9aDioQVYXXcOcOm2N"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Perdoname",
-        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
+        "name": "XEW La Voz de America Latina",
+        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
       },
       "artists": [
         {
-          "name": "Los Viajantes",
-          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
+          "name": "Emilio Tuero",
+          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
         }
       ],
-      "duration_ms": 144194,
-      "name": "Perdoname",
-      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
+      "duration_ms": 175106,
+      "name": "Viajera",
+      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "XEW La Voz de America Latina",
-        "url": "https://open.spotify.com/album/174gRzJCIsipgJkVz0RYZ9"
+        "name": "Perdoname",
+        "url": "https://open.spotify.com/album/2UXJz6qh5y44uiHxlP8k6M"
       },
       "artists": [
         {
-          "name": "Emilio Tuero",
-          "url": "https://open.spotify.com/artist/7F6NblQs1aQ4KovOCphLkD"
+          "name": "Los Viajantes",
+          "url": "https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ"
         }
       ],
-      "duration_ms": 175106,
-      "name": "Viajera",
-      "url": "https://open.spotify.com/track/6GJI6IF3c7Y2H1PBzfA9d8"
+      "duration_ms": 144194,
+      "name": "Perdoname",
+      "url": "https://open.spotify.com/track/5GN4KcUMREkJAV3Cuhp5oY"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Los Tecolines - Bolero Romantico",
-        "url": "https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg"
-      },
-      "artists": [
-        {
-          "name": "Los Tecolines",
-          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Cerezo Rosa",
-      "url": "https://open.spotify.com/track/3JNIsOyZSwm9ebcm4werBt"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
         "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 182733,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/4EzaHs6xWJ2O29BSCtJFSw"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Los Tecolines - Bolero Romantico",
+        "url": "https://open.spotify.com/album/4EQ17OKhifC7CcFgxA35Bg"
+      },
+      "artists": [
+        {
+          "name": "Los Tecolines",
+          "url": "https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv"
+        }
+      ],
+      "duration_ms": 181933,
+      "name": "Cerezo Rosa",
+      "url": "https://open.spotify.com/track/3JNIsOyZSwm9ebcm4werBt"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2375,22 +2375,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "20 Exitos Originales",
-        "url": "https://open.spotify.com/album/5h4kOd0HM71sQx52xaAHl4"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
-        }
-      ],
-      "duration_ms": 155813,
-      "name": "Esc\u00e1ndalo",
-      "url": "https://open.spotify.com/track/5lZywXgwtOeARqo0dFdyJG"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
         "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
       },
@@ -2403,6 +2387,22 @@
       "duration_ms": 168960,
       "name": "La Gloria Eres T\u00fa",
       "url": "https://open.spotify.com/track/6h1IDdPy9T0LPhqMwUxpxF"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "20 Exitos Originales",
+        "url": "https://open.spotify.com/album/5h4kOd0HM71sQx52xaAHl4"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+        }
+      ],
+      "duration_ms": 155813,
+      "name": "Esc\u00e1ndalo",
+      "url": "https://open.spotify.com/track/5lZywXgwtOeARqo0dFdyJG"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2459,22 +2459,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Javier Solis con Trio",
-        "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 206880,
-      "name": "Sombras",
-      "url": "https://open.spotify.com/track/0va0TL9p2ObwNgP7eHjRNc"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Germ\u00e1n Vald\u00e9s TIN-TAN Canciones de Sus Pel\u00edculas",
         "url": "https://open.spotify.com/album/6egxODz7B5lqBxwykR9JgP"
       },
@@ -2487,6 +2471,22 @@
       "duration_ms": 144240,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/573AAxwwLe12d2eZTm34GI"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Javier Solis con Trio",
+        "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 206880,
+      "name": "Sombras",
+      "url": "https://open.spotify.com/track/0va0TL9p2ObwNgP7eHjRNc"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Javier Solis con Trio",
-        "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 196226,
-      "name": "Payaso",
-      "url": "https://open.spotify.com/track/0EwbMXtmr6jDuyj0gZqysI"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Boleros para Enamorarse, Vol. 2",
         "url": "https://open.spotify.com/album/3eWzi2pLdTWzkIT9pxhzOZ"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 181960,
       "name": "Besame Mucho",
       "url": "https://open.spotify.com/track/7ID2XpnDroizAWSvzAZsy7"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Javier Solis con Trio",
+        "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 196226,
+      "name": "Payaso",
+      "url": "https://open.spotify.com/track/0EwbMXtmr6jDuyj0gZqysI"
     },
     {
       "added_at": "2024-07-11 00:56:29",
@@ -2619,22 +2619,6 @@
     {
       "added_at": "2024-07-11 00:56:29",
       "album": {
-        "name": "Javier Solis con Trio",
-        "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 171760,
-      "name": "Tres Palabras",
-      "url": "https://open.spotify.com/track/3sZgzSaWtnhE6OCXe8uWOz"
-    },
-    {
-      "added_at": "2024-07-11 00:56:29",
-      "album": {
         "name": "Personalidad - Los Grandes Trios",
         "url": "https://open.spotify.com/album/4QLJLbSp9Km75yfKVCO3aB"
       },
@@ -2647,6 +2631,22 @@
       "duration_ms": 165413,
       "name": "La Novia Blanca - Remasterizado",
       "url": "https://open.spotify.com/track/7nx2TU6UYwVauWmjTUw02A"
+    },
+    {
+      "added_at": "2024-07-11 00:56:29",
+      "album": {
+        "name": "Javier Solis con Trio",
+        "url": "https://open.spotify.com/album/5A0quQYOcbEjHvokeGUBWS"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 171760,
+      "name": "Tres Palabras",
+      "url": "https://open.spotify.com/track/3sZgzSaWtnhE6OCXe8uWOz"
     },
     {
       "added_at": "2024-07-11 00:56:29",

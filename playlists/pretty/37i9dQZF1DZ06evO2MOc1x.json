@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 53484,
+  "num_followers": 53492,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADYhoi5DPDTWLkmiS8iSOa5",
+  "snapshot_id": "arMWgAAAAADR4yrXy2YnmCMr83JJjw8B",
   "tracks": [
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 216626,
-      "name": "Write Me a Few of Your Lines / Kokomo Blues - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5Juf20LCeAalwUoeQQHaSP"
+      "duration_ms": 180000,
+      "name": "Guilty - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L"
     },
     {
       "added_at": null,
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Guilty - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L"
+      "duration_ms": 216626,
+      "name": "Write Me a Few of Your Lines / Kokomo Blues - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5Juf20LCeAalwUoeQQHaSP"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dig In Deep",
-        "url": "https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR"
+        "name": "Bonnie Raitt (2008 Remaster)",
+        "url": "https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 199493,
-      "name": "Need You Tonight",
-      "url": "https://open.spotify.com/track/0GNQAGdA4i46QxT8qZx0mG"
+      "duration_ms": 186200,
+      "name": "Since I Fell for You - 2008 Remaster",
+      "url": "https://open.spotify.com/track/71G25PCcl4wa87qOJjjblz"
     }
   ],
   "unique_name": "This Is Bonnie Raitt",

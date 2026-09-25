@@ -2,9 +2,9 @@
 
 ### [Country Musiek](https://open.spotify.com/playlist/37i9dQZF1DXd9JlcuGVUBL)
 
-> Die beste country musiek\. Omslag: Cordelia
+> Die beste country musiek\. Omslag: Glen Rozi en Bernice Armstrong
 
-286 songs - 15 hr 54 min
+288 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Chase You Down](https://open.spotify.com/track/65Q73c4fCMrrGgjap0iYJs) | [Braxton Keith](https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf) | [Chase You Down](https://open.spotify.com/album/5bRkx5LhFdYq3eYSa8TXly) | 3:39 | 2024-11-29 | 2025-03-07 |
 | [Chasing Babies & Raising Dreams](https://open.spotify.com/track/1gVzLqaXlYXApWIK0Hnfvj) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Love & Light](https://open.spotify.com/album/6HX6IOpNWjIVoctAFCe1CW) | 3:47 | 2025-05-01 | 2025-05-23 |
 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 | 2024-02-15 |  |
-| [Choosin' Texas](https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/5ulLgaXSGELJRGFsO8p2pZ) | 7:01 | 2026-08-27 |  |
+| [Choosin' Texas](https://open.spotify.com/track/61oXWlM80pXSYi17C7tzvL) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Choosin' Texas](https://open.spotify.com/album/5ulLgaXSGELJRGFsO8p2pZ) | 7:01 | 2026-08-27 | 2026-09-25 |
 | [CHUCK TAYLORS](https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [HIGH](https://open.spotify.com/album/5GUHKnk99fGz2Ry4Jc6Fpw) | 3:34 | 2024-09-23 | 2024-12-21 |
 | [Climb The Mountain](https://open.spotify.com/track/1ad3ndGpfMOWLKl4SARtGB) | [Tyran Roy](https://open.spotify.com/artist/2p6HLFF5VnxaOEUwDNh7VF) | [Climb The Mountain](https://open.spotify.com/album/2VVvWWsYKK2ggN8NZTsGKf) | 2:46 | 2024-11-15 | 2024-12-06 |
 | [Closing Time In California](https://open.spotify.com/track/2w4ZM8WjsIyGpmWQ8ZgWhw) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Closing Time In California](https://open.spotify.com/album/77s1WZEMDVRT2mENUEJBzl) | 3:29 | 2024-08-09 | 2024-10-25 |
@@ -135,6 +135,7 @@
 | [I Am Not Okay](https://open.spotify.com/track/76ODTQOl0JZQbhfxs6nRV9) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [I Am Not Okay](https://open.spotify.com/album/07IZeIkEgAdjs0dSbRxn7i) | 3:17 | 2024-06-13 | 2025-01-03 |
 | [I Dare You](https://open.spotify.com/track/3QcZ0HiwWxwQYT2F17DCTm) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [I Dare You](https://open.spotify.com/album/5XSUjqKWdL4H36HkOni7zX) | 3:48 | 2025-01-30 | 2025-04-18 |
 | [I DON'T](https://open.spotify.com/track/5TIhMzAZ3z7pBcfoijR7vx) | [Apple Gule](https://open.spotify.com/artist/6qQiyy1hXfRttZvgHqdwM1) | [I DON'T](https://open.spotify.com/album/120UyGOHHmzyVnlMBSuXhp) | 2:42 | 2025-08-28 | 2025-09-20 |
+| [I Had Some Help](https://open.spotify.com/track/0XYZt2fZku8L3QEHBKyROB) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [I Had Some Help](https://open.spotify.com/album/5oBdk7G0TYd8Xqd6RxkuvR) | 2:58 | 2026-09-24 |  |
 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-09 |  |
 | [I Hate Whiskey](https://open.spotify.com/track/30tE9El5bERNsT8Fkl1yLT) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [I Hate Whiskey](https://open.spotify.com/album/4UZDav6Q6S0NxVSjUkZFDV) | 2:45 | 2025-03-28 | 2025-04-04 |
 | [I OUGHTA KNOW BETTER](https://open.spotify.com/track/5xRHTbZPkWHV9seGljMKYw) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1) | [I OUGHTA KNOW BETTER](https://open.spotify.com/album/4gtI5sbgbNJgLQ6nSsYYKt) | 3:26 | 2025-09-19 | 2025-09-26 |
@@ -250,6 +251,7 @@
 | [The Dust Will Settle](https://open.spotify.com/track/1ELHxieu0zDWQd2LY4JwVu) | [Valeska Muller](https://open.spotify.com/artist/59GvGMxO2jrof8XlegqK7m) | [The Dust Will Settle](https://open.spotify.com/album/5Ki22ghAi2JcrYd9HzxHZB) | 3:48 | 2024-11-21 | 2024-12-20 |
 | [The Gambler](https://open.spotify.com/track/6q9MoN8vlrzuThgZEsj5l3) | [Naranjo](https://open.spotify.com/artist/5tf0q9ZsmkmaTYIxfJjsBW) | [The Gambler](https://open.spotify.com/album/6MAylS2c9mUucOhetsDxyB) | 3:36 | 2025-06-16 | 2025-06-27 |
 | [The older I am](https://open.spotify.com/track/7adWhrSEqkFJsN4uE8hXGX) | [Lion Jay](https://open.spotify.com/artist/5HlRrR2lWajSDstA7bJvGU) | [Country Cowboy](https://open.spotify.com/album/3t5p7SPtdjQxhddkuTiTHL) | 3:00 | 2025-08-28 | 2025-09-20 |
+| [The Price](https://open.spotify.com/track/60WQVksCK4VKJk9dS6vYH0) | [Glen Rozi](https://open.spotify.com/artist/6Liu3EYo1uZ0lSaolz8y7n), [Bernice Armstrong](https://open.spotify.com/artist/1zIC565tMx2ZBPTQIGGJth) | [The Price](https://open.spotify.com/album/7Jc8Lo8wg6ToEeAzRUd3Sy) | 2:34 | 2026-09-24 |  |
 | [This World's A Giant](https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [This World's A Giant](https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D) | 3:36 | 2024-11-08 | 2025-04-05 |
 | [Till the neon's gone / Stand by me](https://open.spotify.com/track/2UhOHSiABCaDKTPogBNT8R) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO) | [Acoustic Sessions Vol 1](https://open.spotify.com/album/2fIIbii7DzZNW7DxQA7C4g) | 4:32 | 2025-07-31 | 2025-12-12 |
 | [Tipsy \(A Bar Song\)](https://open.spotify.com/track/0Lg0yTMmkccINBc6FrDDRU) | [Die Campbells](https://open.spotify.com/artist/1GfnUbIqwTuETN5vXE1Y4H) | [Stand By Me](https://open.spotify.com/album/2gLbRXq1LEp2fkw3ZYrozZ) | 2:49 | 2025-04-10 | 2025-04-25 |
@@ -293,6 +295,6 @@
 | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/track/7GqNLsydHDulc4ifcS4Qqb) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [You Had To Be There \(feat\. Kenny Chesney\)](https://open.spotify.com/album/3W0Ygv9YJbtfMNM9iHtbNk) | 3:40 | 2025-05-09 | 2026-07-31 |
 | [You Still Got It](https://open.spotify.com/track/13tMf761hDpFCGUiSZcNhk) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [2.0](https://open.spotify.com/album/4cHDMUgQiIMYMe3QjWFgi7) | 3:27 | 2025-06-19 | 2025-06-27 |
 | [You're making me want this](https://open.spotify.com/track/4MMFFVrP9RNJyymZAQkeJ3) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [Am I Lily?](https://open.spotify.com/album/610M2r8hktU4vjuZXauN9G) | 3:07 | 2025-01-30 | 2025-02-28 |
-| [You're So Vain \- Spotify Singles](https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [You're So Vain \- Spotify Singles](https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml) | 4:48 | 2026-08-27 |  |
+| [You're So Vain \- Spotify Singles](https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [You're So Vain \- Spotify Singles](https://open.spotify.com/album/1kKcUBgm2zIAirXfgOGzml) | 4:48 | 2026-08-27 | 2026-09-25 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

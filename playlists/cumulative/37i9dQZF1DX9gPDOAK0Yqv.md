@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-951 songs - 2 day 21 hr 12 min
+952 songs - 2 day 21 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -726,6 +726,7 @@
 | [Seen](https://open.spotify.com/track/5KHWPcUO9Qo22uGc1ty7oj) | [Rouzbeh Delavari](https://open.spotify.com/artist/4s9CNrFcTo0pkIPgqZip63), [Özgür Can](https://open.spotify.com/artist/6YNMyQAlJK3JPOUCbGUaQi) | [Seen](https://open.spotify.com/album/3v7h7jJuXXdurYFcPEgpuL) | 6:17 | 2024-09-26 | 2024-10-04 |
 | [Seraph](https://open.spotify.com/track/3Z6qOqLlTF1oVlfKmcPNab) | [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Seraph](https://open.spotify.com/album/4q7mS5e4vm1lgjkEHKhp6M) | 4:09 | 2024-03-22 | 2025-01-17 |
 | [Serenade](https://open.spotify.com/track/3Qci4QoZJOKqT7p3CatSd6) | [Dsnt Matter](https://open.spotify.com/artist/6kkot1U0JuuGTYEPEh2FXW) | [Serenade](https://open.spotify.com/album/6phk4oiZpo977U2FvIMu1B) | 4:17 | 2023-05-31 | 2023-09-19 |
+| [Serotonin \- DREYA V Remix](https://open.spotify.com/track/3qCrUO19nsqasYgvVaYCJv) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kurtis Wells](https://open.spotify.com/artist/2HOnhVnbETGW5Q9TVdZm0S), [DREYA V](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [Serotonin \(DREYA V Remix\)](https://open.spotify.com/album/6uujU0fgPDOa6GIr8tfVI0) | 3:38 | 2026-09-17 |  |
 | [Set Me Free](https://open.spotify.com/track/5jRtRJNZuWMU7RCipIoNPh) | [Colyn](https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh), [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Set Me Free](https://open.spotify.com/album/146CH0SqStQUH3Ev5JXDXg) | 3:12 | 2025-02-06 | 2026-07-20 |
 | [SexyBack](https://open.spotify.com/track/0Zi3WlwXZAnTFju0NLAiFG) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht), [Victor Garde](https://open.spotify.com/artist/0bC87PglfzQGdIUKnSDWa5) | [SexyBack](https://open.spotify.com/album/2Itng7z3sjVM5iE0vxHj5P) | 2:50 | 2025-09-19 | 2025-11-08 |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-27 | 2023-04-23 |

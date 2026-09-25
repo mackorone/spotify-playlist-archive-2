@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 730729,
+  "num_followers": 730790,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAACWv5zFD1H+al5TSGPjwkJU",
+  "snapshot_id": "arMWgAAAAADakmiVGuAsI45W5bXn5oT6",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 309853,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/24nhOvYX2gk3txBbMzXeUB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Red (Taylor's Version)",
         "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 285106,
       "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 309853,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/24nhOvYX2gk3txBbMzXeUB"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starting Over",
-        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Maggie's Song",
-      "url": "https://open.spotify.com/track/50QWBrZFAhD6N4B0tbfET9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Traveller",
         "url": "https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 244146,
       "name": "Nobody To Blame",
       "url": "https://open.spotify.com/track/4WRRCuJYRq7gUKiupxVH9W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starting Over",
+        "url": "https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Maggie's Song",
+      "url": "https://open.spotify.com/track/50QWBrZFAhD6N4B0tbfET9"
     },
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Room: Volume 1",
-        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 176066,
-      "name": "Second One To Know",
-      "url": "https://open.spotify.com/track/0oTGa77jJ1H5joTG5SvxFj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
         "url": "https://open.spotify.com/album/7sax23n4Dim8d6MPcyEi8b"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 300113,
       "name": "Bad As I Used To Be (From F1\u00ae The Movie)",
       "url": "https://open.spotify.com/track/5r2PhhTusIuX91ZGLqtzvk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Room: Volume 1",
+        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 176066,
+      "name": "Second One To Know",
+      "url": "https://open.spotify.com/track/0oTGa77jJ1H5joTG5SvxFj"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Room: Volume 1",
-        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "hummingbird",
         "url": "https://open.spotify.com/album/5XmOFWhZEZBR6VlQvs6dfR"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 218951,
       "name": "we don't fight anymore",
       "url": "https://open.spotify.com/track/2TuqMTikjCxxP8Y8SXKAuO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Room: Volume 1",
+        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Room: Volume 1",
-        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
-      },
-      "artists": [
-        {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
-        }
-      ],
-      "duration_ms": 243093,
-      "name": "Death Row",
-      "url": "https://open.spotify.com/track/7sO969CnGNCZ7kDravLtPO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TWENTY SOMETHING",
         "url": "https://open.spotify.com/album/47YHgGmxtAPS3fDmPPX1GG"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 200893,
       "name": "ghost in my guitar (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0hQyFpC8af9Dj89fEYkXPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Room: Volume 1",
+        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 243093,
+      "name": "Death Row",
+      "url": "https://open.spotify.com/track/7sO969CnGNCZ7kDravLtPO"
     },
     {
       "added_at": null,

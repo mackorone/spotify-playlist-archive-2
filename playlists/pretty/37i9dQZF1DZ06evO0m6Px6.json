@@ -1,12 +1,12 @@
 {
   "description": "This is Harrison. The essential tracks, all in one playlist.",
-  "num_followers": 517,
+  "num_followers": 515,
   "original_name": "This Is Harrison",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAkFy1aq82mMpvZGSMYjWwk",
+  "snapshot_id": "arMWgAAAAACIn7zXvA1cY+IIUF8JuW6e",
   "tracks": [
     {
       "added_at": null,
@@ -538,11 +538,15 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        },
+        {
+          "name": "a l l i e",
+          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
         }
       ],
-      "duration_ms": 164125,
-      "name": "Checkpoint Titanium",
-      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
+      "duration_ms": 215741,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
     },
     {
       "added_at": null,
@@ -610,15 +614,11 @@
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
-        },
-        {
-          "name": "a l l i e",
-          "url": "https://open.spotify.com/artist/4XN4jO4xdDFw0EhdOTN7re"
         }
       ],
-      "duration_ms": 215741,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/0NSzcdUZkO3yTxggLzMjzf"
+      "duration_ms": 164125,
+      "name": "Checkpoint Titanium",
+      "url": "https://open.spotify.com/track/6RSOaJoM1wswMbZwphtHw8"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 146459,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/4WjYVP5dZtOhK86ntwMY7i"
+      "duration_ms": 195431,
+      "name": "Right Hook",
+      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
     },
     {
       "added_at": null,
@@ -743,22 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROLLERCOASTER",
-        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
+        "name": "Once Upon A Time",
+        "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
       },
       "artists": [
         {
-          "name": "Cadence Weapon",
-          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
+          "name": "Kill The Buzz",
+          "url": "https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI"
         },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 207238,
-      "name": "tl;dr",
-      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
+      "duration_ms": 219069,
+      "name": "Once Upon A Time",
+      "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 195431,
-      "name": "Right Hook",
-      "url": "https://open.spotify.com/track/5ST2wb9jN6uB41w0iDJICY"
+      "duration_ms": 146459,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/4WjYVP5dZtOhK86ntwMY7i"
     },
     {
       "added_at": null,
@@ -799,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Once Upon A Time",
-        "url": "https://open.spotify.com/album/2OOe8tEaUQcdAW1CK80hLX"
+        "name": "ROLLERCOASTER",
+        "url": "https://open.spotify.com/album/4oWbW5NLt8xodgis39xx1K"
       },
       "artists": [
         {
-          "name": "Kill The Buzz",
-          "url": "https://open.spotify.com/artist/0QZSzSj4BDYFARD2hZ7oNI"
+          "name": "Cadence Weapon",
+          "url": "https://open.spotify.com/artist/179CHqJZlZwKBQhjcOeAOS"
         },
         {
           "name": "Harrison",
           "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
         }
       ],
-      "duration_ms": 219069,
-      "name": "Once Upon A Time",
-      "url": "https://open.spotify.com/track/3uDG2oirP5VieBeTqXZGfR"
+      "duration_ms": 207238,
+      "name": "tl;dr",
+      "url": "https://open.spotify.com/track/48eqDFwHLzwlDVwpCa4t87"
     },
     {
       "added_at": null,

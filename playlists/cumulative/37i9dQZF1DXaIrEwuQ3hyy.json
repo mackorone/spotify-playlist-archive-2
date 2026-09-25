@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2025-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 204988,
       "name": "David",
       "url": "https://open.spotify.com/track/6ghDayhHeBXAP4OOnnrFW9"
@@ -1851,6 +1851,24 @@
     },
     {
       "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/7Dgjb7GxypoHyoiXZPUDAj"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189519,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0DBoPzmkOR9XdAUy3RgvtH"
+    },
+    {
+      "album": {
         "name": "Fever Dream",
         "url": "https://open.spotify.com/album/7vjywbHJdmfEt1rYslc0OL"
       },
@@ -2248,7 +2266,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 165366,
       "name": "Happy For Myself",
       "url": "https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp"

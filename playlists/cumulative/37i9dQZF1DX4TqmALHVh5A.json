@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Satine.",
+  "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Danyl & A6el.",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 175027,
       "name": "250 p\u00e9tales",
       "url": "https://open.spotify.com/track/35ULGsZuPN1jSEPyU7WAnX"
@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "BABYBOY",
+        "url": "https://open.spotify.com/album/1eWwgDB9CRSNQrTo7cx23y"
+      },
+      "artists": [
+        {
+          "name": "NAVA",
+          "url": "https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126683,
+      "name": "BABYBOY",
+      "url": "https://open.spotify.com/track/5FgtKtNcsGQvg6tUmNArzt"
+    },
+    {
+      "album": {
         "name": "Bagarre",
         "url": "https://open.spotify.com/album/5iNxyLikg53HwIGOhnxqs6"
       },
@@ -1002,7 +1020,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 194805,
       "name": "BILLETS D'AVION",
       "url": "https://open.spotify.com/track/1PF5428S4WNE4XFjT9Sd8A"
@@ -1259,6 +1277,28 @@
     },
     {
       "album": {
+        "name": "BROSKI",
+        "url": "https://open.spotify.com/album/21NuNN3KNRoe87rAZzy9du"
+      },
+      "artists": [
+        {
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
+        },
+        {
+          "name": "a6el",
+          "url": "https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137600,
+      "name": "BROSKI",
+      "url": "https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx"
+    },
+    {
+      "album": {
         "name": "Brumeux",
         "url": "https://open.spotify.com/album/6fjGcQ0v3HrzHE1DMDkqpV"
       },
@@ -1332,6 +1372,24 @@
       "duration_ms": 191001,
       "name": "c'est toi qui me dis",
       "url": "https://open.spotify.com/track/2q6lAeFiPnzkRIbmYI0Xzl"
+    },
+    {
+      "album": {
+        "name": "C'est \u00e7a que je veux",
+        "url": "https://open.spotify.com/album/4R0rXLm5BDou6MyVQF1swN"
+      },
+      "artists": [
+        {
+          "name": "Louison",
+          "url": "https://open.spotify.com/artist/27scE3kQUClw5XM1lho2kG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169173,
+      "name": "C'est \u00e7a que je veux",
+      "url": "https://open.spotify.com/track/4ceSHKoIuiuh7T7dgv1IYP"
     },
     {
       "album": {
@@ -2074,7 +2132,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 147533,
       "name": "Couleurs",
       "url": "https://open.spotify.com/track/2FTypu2ZLTog6YsTaJvzHV"
@@ -4178,7 +4236,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 182666,
       "name": "Je m'en fous",
       "url": "https://open.spotify.com/track/5MXnHVg8xcGfXHuAnqTJKn"
@@ -5105,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "La petite voix dans ma t\u00eate",
+        "url": "https://open.spotify.com/album/5r4LjMKuXAu5AV0fEZXoAI"
+      },
+      "artists": [
+        {
+          "name": "Paolo.",
+          "url": "https://open.spotify.com/artist/1UrkKlrHZfYlz4vhXeDRF4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159148,
+      "name": "La petite voix dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/3AswcjKb7sfFfqb8XNJ1Vm"
+    },
+    {
+      "album": {
         "name": "La pomme",
         "url": "https://open.spotify.com/album/2XW2k6zgPuyMyf72H0XGZZ"
       },
@@ -5278,7 +5354,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 148045,
       "name": "LE BAR",
       "url": "https://open.spotify.com/track/0yeBYOM0O0IOoC2fajIKjZ"
@@ -5971,6 +6047,24 @@
     },
     {
       "album": {
+        "name": "MACKINTOSH",
+        "url": "https://open.spotify.com/album/153XRh2PH4lvf4I2EnGdAy"
+      },
+      "artists": [
+        {
+          "name": "sheng",
+          "url": "https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115488,
+      "name": "MACKINTOSH",
+      "url": "https://open.spotify.com/track/5LY4qEP5Hj4SSRPB9PQORX"
+    },
+    {
+      "album": {
         "name": "madame",
         "url": "https://open.spotify.com/album/01vzBMHu7LAeGT2Y3IQaYg"
       },
@@ -6000,7 +6094,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 204500,
       "name": "Magenta",
       "url": "https://open.spotify.com/track/5tLmCV2kgSqTLVYetgTgBL"
@@ -6184,7 +6278,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178983,
       "name": "Merveille",
       "url": "https://open.spotify.com/track/6hf1XBp5zicdMDWPaE7dXj"
@@ -6862,7 +6956,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 146274,
       "name": "Note 12 : Dream",
       "url": "https://open.spotify.com/track/4KfBfVRSxUBtpRWVgA0dsJ"
@@ -6906,6 +7000,28 @@
       "duration_ms": 178533,
       "name": "Nothing Lasts",
       "url": "https://open.spotify.com/track/5ftl2zhs5mo6LZtSJNcIh8"
+    },
+    {
+      "album": {
+        "name": "Noum\u00e9a",
+        "url": "https://open.spotify.com/album/7lqhAywP57SUAnUBbR803I"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
+          "name": "Linema",
+          "url": "https://open.spotify.com/artist/1JLLmatqNVWI9Ta5bIEvbl"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228931,
+      "name": "Noum\u00e9a",
+      "url": "https://open.spotify.com/track/6bTiBd9SYQxF4MbELTekG7"
     },
     {
       "album": {
@@ -9797,6 +9913,24 @@
     },
     {
       "album": {
+        "name": "ROMANCE RODEO",
+        "url": "https://open.spotify.com/album/7pgJyoe9Um0keycHs8Xmin"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 2",
+      "url": "https://open.spotify.com/track/4nqefoXOG8qs7YromWqpeV"
+    },
+    {
+      "album": {
         "name": "Travail Famille Connasse",
         "url": "https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX"
       },
@@ -10516,6 +10650,24 @@
       "duration_ms": 185600,
       "name": "\u00c0 l'aide",
       "url": "https://open.spotify.com/track/0RQFdPFD93bKg6rKsYXwpA"
+    },
+    {
+      "album": {
+        "name": "\u00c0 l'arri\u00e8re de la Mercedes blanche",
+        "url": "https://open.spotify.com/album/69vyE9uBL9L7RJ4Cj9BPbt"
+      },
+      "artists": [
+        {
+          "name": "And\u00e9ol",
+          "url": "https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "\u00c0 l'arri\u00e8re de la Mercedes blanche",
+      "url": "https://open.spotify.com/track/35BZeuRSDTSNuUCTIwbKhJ"
     },
     {
       "album": {

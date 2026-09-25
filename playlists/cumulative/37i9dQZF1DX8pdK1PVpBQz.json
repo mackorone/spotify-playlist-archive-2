@@ -37044,7 +37044,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 211157,
       "name": "I Won't Die",
       "url": "https://open.spotify.com/track/42A0fVbwWIOOzFaaYjykvJ"
@@ -69854,6 +69854,24 @@
       "duration_ms": 359100,
       "name": "Speed Racing",
       "url": "https://open.spotify.com/track/6gTkTR0cnGqkHhnvsVCpNu"
+    },
+    {
+      "album": {
+        "name": "SPELL.",
+        "url": "https://open.spotify.com/album/5nGKfCjXK4KIH7VaAWKhGe"
+      },
+      "artists": [
+        {
+          "name": "ROMME",
+          "url": "https://open.spotify.com/artist/2aqdsufak4kt3gKjeqwDCP"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145261,
+      "name": "SPELL.",
+      "url": "https://open.spotify.com/track/1lUkfQKu3aPvZd0N55GkPv"
     },
     {
       "album": {

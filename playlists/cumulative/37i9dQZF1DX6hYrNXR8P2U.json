@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-10-15",
-  "description": "doppel gangs  en portada. ",
-  "name": "ALT.AR",
+  "description": "Catalina Ammaturo en portada. ",
+  "name": "ALT/AR",
   "tracks": [
     {
       "album": {
@@ -46,6 +46,24 @@
       "duration_ms": 190722,
       "name": "(Solo Aire)",
       "url": "https://open.spotify.com/track/67T8PyehRL5DjkBSJLUy2U"
+    },
+    {
+      "album": {
+        "name": "GUSTAR Y OFENDER",
+        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225109,
+      "name": "(te advert\u00ed que no me dejaras pisar) las flores",
+      "url": "https://open.spotify.com/track/3fvqXC7IXSI1TJ8oVv4iDk"
     },
     {
       "album": {
@@ -571,6 +589,28 @@
     },
     {
       "album": {
+        "name": "Algoritmo y Decepci\u00f3n",
+        "url": "https://open.spotify.com/album/4XfJhinWX8rInDmRzITxSa"
+      },
+      "artists": [
+        {
+          "name": "Recreo Uruguayo",
+          "url": "https://open.spotify.com/artist/3jqihnUiBnGtwsqjYVVXZ1"
+        },
+        {
+          "name": "Fama y Guita",
+          "url": "https://open.spotify.com/artist/3qANCOZxZNqfZWMUD2gLYR"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192176,
+      "name": "Algoritmo y Decepci\u00f3n",
+      "url": "https://open.spotify.com/track/70XTwmNObbDnNhv7ffCWSJ"
+    },
+    {
+      "album": {
         "name": "Atelier",
         "url": "https://open.spotify.com/album/6YrB9KLklcKtisYIX5LLJc"
       },
@@ -608,7 +648,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 124709,
       "name": "ALGUIEN PARA VOS",
       "url": "https://open.spotify.com/track/5hXOEX2H091a8KZmXvv6ub"
@@ -1017,6 +1057,24 @@
     },
     {
       "album": {
+        "name": "Comportamiento Err\u00e1tico",
+        "url": "https://open.spotify.com/album/1a8yT9fS1ws8oxo0NrZKqc"
+      },
+      "artists": [
+        {
+          "name": "Clara_mente",
+          "url": "https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218965,
+      "name": "Aniversario Luctuoso",
+      "url": "https://open.spotify.com/track/02FEgeTr1KvpMtgk2G40bi"
+    },
+    {
+      "album": {
         "name": "El Verdadero",
         "url": "https://open.spotify.com/album/2FH18Hc5xC6LhgLA5ylBHt"
       },
@@ -1366,7 +1424,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 147898,
       "name": "bajare",
       "url": "https://open.spotify.com/track/2W6X9hHAYlVDW9ksl2d68D"
@@ -2198,7 +2256,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 193750,
       "name": "CAPIT\u00c1N",
       "url": "https://open.spotify.com/track/6B2HlVCB12CvtW3VJWUwVg"
@@ -3204,7 +3262,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 224262,
       "name": "Dandy Madrugada",
       "url": "https://open.spotify.com/track/3tPOxtVd8Q1vTQ9HvHlLEM"
@@ -3934,7 +3992,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160817,
       "name": "El Camino",
       "url": "https://open.spotify.com/track/6ImoaHwKlO5mMkAfsqSHa9"
@@ -4319,6 +4377,24 @@
     },
     {
       "album": {
+        "name": "El N\u00famero Imperfecto",
+        "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
+      },
+      "artists": [
+        {
+          "name": "Catupecu Machu",
+          "url": "https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223080,
+      "name": "En Los Sue\u00f1os",
+      "url": "https://open.spotify.com/track/7a3BtnxJWh4Hr0dfLo467F"
+    },
+    {
+      "album": {
         "name": "DOPAMINA",
         "url": "https://open.spotify.com/album/1Kw16YfS5WXfoRKU4QLoRD"
       },
@@ -4406,7 +4482,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 195157,
       "name": "Eresi",
       "url": "https://open.spotify.com/track/0gFbaCf4YTPSHNzQK243Uf"
@@ -4504,7 +4580,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 184864,
       "name": "Escuch\u00e9 tu voz",
       "url": "https://open.spotify.com/track/4x3du9CZ6ronjcRUV8WVGp"
@@ -4806,7 +4882,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 211384,
       "name": "FANT\u00c1STICA!",
       "url": "https://open.spotify.com/track/0WsjfsIfu6RbKYmcLikerR"
@@ -5201,6 +5277,24 @@
     },
     {
       "album": {
+        "name": "GOTAS",
+        "url": "https://open.spotify.com/album/3TPMVHV1fhwDzTgOOEj1Hj"
+      },
+      "artists": [
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136766,
+      "name": "GOTAS",
+      "url": "https://open.spotify.com/track/6ep0KDOfaX9dLYTEC72GJs"
+    },
+    {
+      "album": {
         "name": "Barras Libres",
         "url": "https://open.spotify.com/album/2AEkz1Mp5PYhS4qWdtvYsG"
       },
@@ -5216,6 +5310,24 @@
       "duration_ms": 172454,
       "name": "Gran Maestro",
       "url": "https://open.spotify.com/track/0KSO2e3V2otGoY0qaIo6di"
+    },
+    {
+      "album": {
+        "name": "La Sensaci\u00f3n",
+        "url": "https://open.spotify.com/album/0Aj2XmEa9fcoqydXr9Rrh5"
+      },
+      "artists": [
+        {
+          "name": "El Peligro de los Vientos",
+          "url": "https://open.spotify.com/artist/233QcEovKcNYRw1NskNj5r"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202730,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/6Tpdyk2is0EG3fP0MzmAVy"
     },
     {
       "album": {
@@ -5485,6 +5597,28 @@
     },
     {
       "album": {
+        "name": "Hojas Largas",
+        "url": "https://open.spotify.com/album/4DXFmfiiHVpQB9Mpr4KVrX"
+      },
+      "artists": [
+        {
+          "name": "Julia Zappa",
+          "url": "https://open.spotify.com/artist/6ZXXDHSXbHuCrJcpXK1lSh"
+        },
+        {
+          "name": "Fonso",
+          "url": "https://open.spotify.com/artist/7F0EJprm2nfF3OmKCa4Ox4"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Hojas Largas",
+      "url": "https://open.spotify.com/track/50iJkSS5lo6u7dloSKmnm1"
+    },
+    {
+      "album": {
         "name": "Trip 2",
         "url": "https://open.spotify.com/album/7DkEdrof8yEWH1ofkLHWDT"
       },
@@ -5620,6 +5754,24 @@
       "duration_ms": 161727,
       "name": "Idealizar",
       "url": "https://open.spotify.com/track/5StAfgJRRAOiOvkys7qgBs"
+    },
+    {
+      "album": {
+        "name": "La ca\u00edda del velo",
+        "url": "https://open.spotify.com/album/1OiEqH3N2WR2MJs3STU3s1"
+      },
+      "artists": [
+        {
+          "name": "Las eras",
+          "url": "https://open.spotify.com/artist/69edEwKZMGNROxBxenlyk8"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184258,
+      "name": "Inc\u00f3modo",
+      "url": "https://open.spotify.com/track/0i3gblOKfzbcYVwfmUjnSo"
     },
     {
       "album": {
@@ -5984,7 +6136,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 172104,
       "name": "KUSTURICA",
       "url": "https://open.spotify.com/track/2LfnqUUqHPX7DCUYOOHGNm"
@@ -6272,7 +6424,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 329888,
       "name": "La Revoluci\u00f3n",
       "url": "https://open.spotify.com/track/6PTdEgJEazcXaiQAEW3n8u"
@@ -6538,7 +6690,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 184374,
       "name": "LEONES",
       "url": "https://open.spotify.com/track/16gmJqNn2CJTjHwPGQQfOw"
@@ -7244,6 +7396,24 @@
       "duration_ms": 164319,
       "name": "Mala",
       "url": "https://open.spotify.com/track/2NoDVifTYfrBkBboPjo9P3"
+    },
+    {
+      "album": {
+        "name": "mala palabra",
+        "url": "https://open.spotify.com/album/2rE2LQQR2RTuYa6bsXnr2u"
+      },
+      "artists": [
+        {
+          "name": "Axel Fiks",
+          "url": "https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139578,
+      "name": "mala palabra",
+      "url": "https://open.spotify.com/track/0VcFkoWA1yLKHxGVLQybF6"
     },
     {
       "album": {
@@ -9188,7 +9358,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 185660,
       "name": "NOS RELOJEAN",
       "url": "https://open.spotify.com/track/1tbJP63ftEPVJKn8TFfB1u"
@@ -9696,7 +9866,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 213853,
       "name": "Pa Los Pininos De El Sol",
       "url": "https://open.spotify.com/track/33nuZ9d94gsU8N7XYwpxrf"
@@ -9954,7 +10124,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 119632,
       "name": "Pel\u00edcula",
       "url": "https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO"
@@ -10096,6 +10266,24 @@
       "duration_ms": 178668,
       "name": "PERD\u00d3N",
       "url": "https://open.spotify.com/track/5YSuQJsJoFrEPUSwfydSmj"
+    },
+    {
+      "album": {
+        "name": "Tri\u00e1ngulo Uno",
+        "url": "https://open.spotify.com/album/4axal6Z2uUO8fw9d0bkDOB"
+      },
+      "artists": [
+        {
+          "name": "Homero Taisen",
+          "url": "https://open.spotify.com/artist/0Zd3iLDS07YUMsumvhZeL2"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230943,
+      "name": "Perd\u00f3n Amor de nuevo",
+      "url": "https://open.spotify.com/track/2WavaU60JCSG7XzkuwZpPI"
     },
     {
       "album": {
@@ -10394,7 +10582,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 304210,
       "name": "Poder",
       "url": "https://open.spotify.com/track/43Qf6HSkCuXBQeOjjzacoT"
@@ -11140,7 +11328,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 289033,
       "name": "Rabia del Coraz\u00f3n - Spotify Sessions",
       "url": "https://open.spotify.com/track/09bdneL61K2znTspwtQYeG"
@@ -11194,7 +11382,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 121333,
       "name": "RE SOLO",
       "url": "https://open.spotify.com/track/7Bhlkqbs8RKFHox7ZhdMV9"
@@ -11754,7 +11942,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 212907,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/75LdIYSLqY9kBXZIHnqf9U"
@@ -11798,6 +11986,24 @@
       "duration_ms": 144020,
       "name": "si me veias",
       "url": "https://open.spotify.com/track/6CKlB9Y7rFAWnhV3NPZwFf"
+    },
+    {
+      "album": {
+        "name": "The Art(e) of Romance",
+        "url": "https://open.spotify.com/album/2wuPNWeip8DlxhAmmImA43"
+      },
+      "artists": [
+        {
+          "name": "Fun People",
+          "url": "https://open.spotify.com/artist/11wlHSvQVZGIJ5D1sTsihZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174960,
+      "name": "Si Pudiera (Desde Ushuaia)",
+      "url": "https://open.spotify.com/track/2CaTIz2NYs9GwCpaGuCuQU"
     },
     {
       "album": {
@@ -11906,7 +12112,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 141965,
       "name": "sin hielo",
       "url": "https://open.spotify.com/track/7xdLWL7JhPCKEEgkuR2JY0"
@@ -11942,7 +12148,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 201250,
       "name": "Sin Reproches",
       "url": "https://open.spotify.com/track/6DEoXbM8Q61mYKC62KpAFF"
@@ -12102,7 +12308,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 176655,
       "name": "Soy as\u00ed",
       "url": "https://open.spotify.com/track/7Gtvrd3Zu7ntDLKpSsrHO3"
@@ -12168,7 +12374,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 230640,
       "name": "So\u00f1\u00e9 que te iba a cruzar",
       "url": "https://open.spotify.com/track/4lKhHtcYAw60nWJehiX2Hb"
@@ -13275,6 +13481,28 @@
     },
     {
       "album": {
+        "name": "Tu Cantante Favorita (feat. Juliana Gattas)",
+        "url": "https://open.spotify.com/album/3DMGbCDGpooHMcunGRhkQo"
+      },
+      "artists": [
+        {
+          "name": "MissLupe",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        },
+        {
+          "name": "Juliana Gattas",
+          "url": "https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323044,
+      "name": "Tu Cantante Favorita (feat. Juliana Gattas)",
+      "url": "https://open.spotify.com/track/6xJfvRODVArJHYNU1YYKZo"
+    },
+    {
+      "album": {
         "name": "Her\u00e1ldica",
         "url": "https://open.spotify.com/album/1llfWsTfOoTmG3vK0cdyNr"
       },
@@ -13744,7 +13972,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169670,
       "name": "Una Ma\u00f1ana M\u00e1s",
       "url": "https://open.spotify.com/track/4bE74uhUpgxxMQxnqEOO0j"
@@ -14096,7 +14324,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 147638,
       "name": "VICIO",
       "url": "https://open.spotify.com/track/2z1BEZBuo8UyPVWLqdZhJk"
@@ -14412,7 +14640,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 163889,
       "name": "X UNAS LLANTAS",
       "url": "https://open.spotify.com/track/0uniUBcZwEwycJAMgFF8x0"
@@ -14510,6 +14738,24 @@
       "duration_ms": 157913,
       "name": "Ya lo sabemos",
       "url": "https://open.spotify.com/track/2IAERyyXkVlVB2y5fCyMEC"
+    },
+    {
+      "album": {
+        "name": "Ya Me Venc\u00ed",
+        "url": "https://open.spotify.com/album/73hOaQpC4uWD8iMJV6PODY"
+      },
+      "artists": [
+        {
+          "name": "Catalina Ammaturo",
+          "url": "https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217444,
+      "name": "Ya Me Venc\u00ed",
+      "url": "https://open.spotify.com/track/6y6WWTwj1p8ByI7xTAGGlV"
     },
     {
       "album": {

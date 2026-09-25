@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 
 > for the late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,943 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,946 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ExG02UBVWn.md) - [plain]
 | 59 | [Trouble Sleeping](https://open.spotify.com/track/4Ev6olpuoQQeNxyhOaI503) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Trouble Sleeping](https://open.spotify.com/album/1RAYi3l2RC6gpbp0gMVVb7) | 3:35 |
 | 60 | [money](https://open.spotify.com/track/3ElHyG624YgOJWnT4vhI1o) | [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [money](https://open.spotify.com/album/0bz7KBDpiGvM5eY8dz5xAS) | 2:58 |
 | 61 | [Out Of The Blue](https://open.spotify.com/track/5HrNFU4oO2W8FNJt1cKbB8) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF), [Immy](https://open.spotify.com/artist/22kJefNRRuhLJDYzVbFrW7) | [Out Of The Blue](https://open.spotify.com/album/29EV7MujE04FwNgfX1zLSo) | 3:27 |
-| 62 | [KIWI](https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [KIWI](https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB) | 3:39 |
-| 63 | [Pingu](https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [No Place for Patience, Vol\. 3](https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l) | 2:42 |
-| 64 | [Babybrown](https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Elevator Music](https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW) | 2:18 |
+| 62 | [Babybrown](https://open.spotify.com/track/3O5dlqHswHAlApKDRR9YfK) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Elevator Music](https://open.spotify.com/album/0J37ZEurdvlWlLbQ5vZsEW) | 2:18 |
+| 63 | [KIWI](https://open.spotify.com/track/0dgzCsOCKDVFxCIHRb8z14) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [KIWI](https://open.spotify.com/album/7dOOMeWVNE6NnabKNXx6jB) | 3:39 |
+| 64 | [Pingu](https://open.spotify.com/track/6CQd0kMTyZXpnLdgT43vhd) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [No Place for Patience, Vol\. 3](https://open.spotify.com/album/2f00nWEhHTMrVChhzz0T4l) | 2:42 |
 | 65 | [Shade](https://open.spotify.com/track/3N7ZfhWeLFRRJtGG5Oy1bB) | [The Silhouettes Project](https://open.spotify.com/artist/3CJEpzlVzfyLTpKJlpKdHw), [Karl Benjamin](https://open.spotify.com/artist/1w7NVtwrAk4p50JGIhE9cs), [Elisa Imperilee](https://open.spotify.com/artist/4nVDBC1sxEE5zS8EgtVplj), [Purple Cloud](https://open.spotify.com/artist/0uqmXcssVwrJzz9wVl0pRl), [Jordan Tait](https://open.spotify.com/artist/45r14HjCcLzpQw2kB4Cfee), [Alabaster DePlume](https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm) | [Shade](https://open.spotify.com/album/7xkXsOZbSh9qFLRQJwNCkk) | 3:34 |
 | 66 | [Don't You Go Falling In Love \(feat\. Biig Piig & Lord Apex\)](https://open.spotify.com/track/3BHU5jiJoVTTR0zzhhCxSH) | [Mac Wetha](https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M), [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz) | [Don't You Go Falling In Love \(feat\. Biig Piig & Lord Apex\)](https://open.spotify.com/album/2VBu61hXA6zWAVw8uIORsk) | 3:51 |
 | 67 | [Soapbox Soliloquy](https://open.spotify.com/track/6VsIzGuLAHVTRPspRCpMYu) | [Speakers Corner Quartet](https://open.spotify.com/artist/3lyeudxub9rOtJjF15IzxH), [Kwake Bass](https://open.spotify.com/artist/1sSCi7iZyWjznBt9iqr7d7), [Raven Bush](https://open.spotify.com/artist/6ovUPQrPZTIMODYpGEMpWs), [Peter Bennie](https://open.spotify.com/artist/56KiulrycnEVRDeBAq3M4G), [Biscuit](https://open.spotify.com/artist/2CKrPA22rC0XYqkLQTItO0), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [Further Out Than The Edge](https://open.spotify.com/album/0TXtct98UTyC054dJbCUJ2) | 3:38 |

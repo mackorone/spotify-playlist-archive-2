@@ -4927,6 +4927,24 @@
     },
     {
       "album": {
+        "name": "Annakili (From - Tamizh Kirukkan)",
+        "url": "https://open.spotify.com/album/5xLmWy3CAnt0PLm83rlOeo"
+      },
+      "artists": [
+        {
+          "name": "Vaaheesan Rasaiya",
+          "url": "https://open.spotify.com/artist/10SpEg9HhR7vQzNRUhHdye"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Annakili - From - Tamizh Kirukkan",
+      "url": "https://open.spotify.com/track/0V0C9pofS9nvn0EGU5kgfE"
+    },
+    {
+      "album": {
         "name": "Annan Vararu (From \"Adharma Kadhaigal\")",
         "url": "https://open.spotify.com/album/2T8NHwHzV3SiPmMZRDGMsF"
       },
@@ -17616,7 +17634,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 190322,
       "name": "High Stakes - From \"I'M Game - Tamil\"",
       "url": "https://open.spotify.com/track/6YLBdn8M6JkBg7Sqk6NJle"
@@ -23807,6 +23825,36 @@
     },
     {
       "album": {
+        "name": "Dorothy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PROOXwHec7cPCqIidZI8X"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Yugendran Vasudevan",
+          "url": "https://open.spotify.com/artist/3UVLcqHc3pOMsWiZv2MeIZ"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Priya Jerson",
+          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Kalyana Virundhu",
+      "url": "https://open.spotify.com/track/5ZWZ0zGL5nYaqzBlzLGLqQ"
+    },
+    {
+      "album": {
         "name": "Kalyana Virundhu (From \"Dorothy\")",
         "url": "https://open.spotify.com/album/1ptkIUrvlqwD2ToCjP3LoR"
       },
@@ -23830,7 +23878,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 238000,
       "name": "Kalyana Virundhu (From \"Dorothy\")",
       "url": "https://open.spotify.com/track/0WYvTSq7UvfpumdsziyDGP"
@@ -35487,6 +35535,28 @@
     },
     {
       "album": {
+        "name": "Dorothy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PROOXwHec7cPCqIidZI8X"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299333,
+      "name": "Muthumani",
+      "url": "https://open.spotify.com/track/3USTxgCg5mWH3e1Y60cSp6"
+    },
+    {
+      "album": {
         "name": "Muthumani (From \"Dorothy\")",
         "url": "https://open.spotify.com/album/5TaLWTSvmek5AHglJXuecr"
       },
@@ -35502,7 +35572,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 299333,
       "name": "Muthumani (From \"Dorothy\")",
       "url": "https://open.spotify.com/track/537AO3ZOLuiqf2B8UvR3Um"
@@ -40499,6 +40569,28 @@
     },
     {
       "album": {
+        "name": "Dorothy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PROOXwHec7cPCqIidZI8X"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Priya Jerson",
+          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299999,
+      "name": "Onna Thottu",
+      "url": "https://open.spotify.com/track/3xEuA3hlJwe8Jk3rcP3KOy"
+    },
+    {
+      "album": {
         "name": "Onnoda Nadandhaa (From \"Viduthalai\")",
         "url": "https://open.spotify.com/album/42x5rRggRUdH3v6vbdHNxP"
       },
@@ -43342,7 +43434,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 77942,
       "name": "Parotta Chukka",
       "url": "https://open.spotify.com/track/38i6E7HvnsV0akKl3ZwFh4"
@@ -65796,7 +65888,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 117787,
       "name": "YaaLi Theme (From \"Sardar 2\")",
       "url": "https://open.spotify.com/track/6RbKtfKNw0Ee95GlXNEHyh"
@@ -67436,6 +67528,28 @@
       "duration_ms": 211232,
       "name": "Yethu",
       "url": "https://open.spotify.com/track/73lSsxl53DdmlOYOUCuGRS"
+    },
+    {
+      "album": {
+        "name": "Dorothy (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0PROOXwHec7cPCqIidZI8X"
+      },
+      "artists": [
+        {
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+        },
+        {
+          "name": "Priya Jerson",
+          "url": "https://open.spotify.com/artist/6wYw3yJjsSroW8KoMc3rw2"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261187,
+      "name": "Yethum Illai",
+      "url": "https://open.spotify.com/track/2sy9JyWRg2rfnruefqlZqL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > Dukh Dard Peeda!  🫂
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,102 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,192 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 7 | [Thinking of You](https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Thinking of You](https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa) | 3:00 |
 | 8 | [I’m Done\. \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/0YRpv07J0y7J73X87efpia) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ) | [I\-Popstar: Vol\. 1 \| Episodes 1–3](https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b) | 2:39 |
 | 9 | [Dil Lagana Mana Tha](https://open.spotify.com/track/3A3oq3VMSboPPWBYTRq0nX) | [Krish Mondal](https://open.spotify.com/artist/3JGOBJUPbwIb3fri0dcqbt), [Kishore Mondal](https://open.spotify.com/artist/6RHkm1pS4aeURu2w9jDaPX), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [Devv Sadaana](https://open.spotify.com/artist/7wIvebeuJfBQ2fVQmhk5kO) | [Dil Lagana Mana Tha](https://open.spotify.com/album/2BqIFRHlGkSt9SStEKxQtd) | 3:18 |
-| 10 | [Zaroori Tha](https://open.spotify.com/track/0JChw6k59cZxegh0SGceE1) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Back 2 Love](https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv) | 5:42 |
-| 11 | [Nafrat](https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [I Loved You](https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq) | 3:34 |
+| 10 | [Nafrat](https://open.spotify.com/track/0NLOLiHF6Ti0QtX5P7gziI) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [I Loved You](https://open.spotify.com/album/6KcMl3ybHw5HdBTrS43zoq) | 3:34 |
+| 11 | [Zaroori Tha](https://open.spotify.com/track/0JChw6k59cZxegh0SGceE1) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Back 2 Love](https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv) | 5:42 |
 | 12 | [Dost Banke](https://open.spotify.com/track/2k0D2OXWXwuwBPXLQQYmZx) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Dost Banke](https://open.spotify.com/album/4Ira2DDLEUgXmL6t4UA95V) | 4:49 |
 | 13 | [Lut Gaye](https://open.spotify.com/track/2ufLEVbzvEcJ3subW8jBUp) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP), [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Lut Gaye](https://open.spotify.com/album/2IgqTqUjGQsmahYITOCdBX) | 3:48 |
 | 14 | [Chidiya](https://open.spotify.com/track/0aoN9BQostK81IFddJn8Ej) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Chidiya](https://open.spotify.com/album/6xecxwI17jdNrGKvHPIqVc) | 4:13 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 38 | [Wafa Na Raas Aayee](https://open.spotify.com/track/7rjFYm6THGNETjg3vb1Tof) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS) | [Wafa Na Raas Aayee](https://open.spotify.com/album/4SJ1Bg3UAbnkLiaqkHcwaz) | 4:48 |
 | 39 | [Kya Bataun Tujhe \(From "Pagalpan"\)](https://open.spotify.com/track/3lgVAqlhro4HQ6sSPc0n0t) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Kya Bataun Tujhe \(From "Pagalpan"\)](https://open.spotify.com/album/1HNcqGvz5xkqFYzrftdBv0) | 4:30 |
 | 40 | [Stay](https://open.spotify.com/track/5qMKcWk6Lcuz0t3R9Ed1NO) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Stay](https://open.spotify.com/album/7p609zpBo0lsPEJcXlX9Jr) | 3:39 |
-| 41 | [Bechari](https://open.spotify.com/track/6VVMuz3uTe7EYEmBglksGb) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Bechari](https://open.spotify.com/album/6wAUIl8geX8NIrYlBLe2Xj) | 4:43 |
-| 42 | [Dhokha](https://open.spotify.com/track/7K0Br5tRLkicKKpkxC5A9i) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Dhokha](https://open.spotify.com/album/4fGKGVkgIgCp54qVGXhB81) | 2:50 |
+| 41 | [Dhokha](https://open.spotify.com/track/7K0Br5tRLkicKKpkxC5A9i) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Dhokha](https://open.spotify.com/album/4fGKGVkgIgCp54qVGXhB81) | 2:50 |
+| 42 | [Bechari](https://open.spotify.com/track/6VVMuz3uTe7EYEmBglksGb) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Bechari](https://open.spotify.com/album/6wAUIl8geX8NIrYlBLe2Xj) | 4:43 |
 | 43 | [Dil Lauta Do](https://open.spotify.com/track/1VfUpyKz9uN7et8t6Qhe7v) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Dil Lauta Do](https://open.spotify.com/album/2VfuGeouepkWV0dsSoHZD8) | 5:02 |
 | 44 | [Tu Bhi Sataya Jayega](https://open.spotify.com/track/7Hi1FAuRxHaG9BFJNi2awE) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507) | [Tu Bhi Sataya Jayega](https://open.spotify.com/album/1a9yfMwwtq0SXmV6kGCrgx) | 4:27 |
 | 45 | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/track/1mp0zS57ydCqZp9Tm4VvIy) | [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Tujhe Bhoolna Toh Chaaha](https://open.spotify.com/album/2W6ZCzLC2pezmRYJQKbr2C) | 4:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 49 | [Jeene De Na](https://open.spotify.com/track/6cXDuCHAC7NASzRQcCdJb0) | [Harish Sagane](https://open.spotify.com/artist/5v3LPrihYPF2Uu9jDEKnjx), [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU) | [Jeene De Na](https://open.spotify.com/album/705AQTppp5TzoozTbC5btL) | 4:46 |
 | 50 | [Khayaal Na Aaya \- I\-Popstar: Vol\. 1](https://open.spotify.com/track/14K3tTCjpT6DAsxwvgDdC5) | [Inderjeet Singh](https://open.spotify.com/artist/1oGaz4k3dCQmX9lAqiBUaM) | [I\-Popstar: Vol\. 1 \| Episodes 4&5](https://open.spotify.com/album/4DsJYycQbtvQ1iKULeISuO) | 4:06 |
 
-Snapshot ID: `AAAAAJBGSzJS/lfY9lHrp9JJhCM3vwgt`
+Snapshot ID: `AAAAAKrIbDKdl6xF903lJSRU5DbHb4uS`

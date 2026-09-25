@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With SPARKLEWOLF RADIO, Learke, sixwing and more",
+  "description": "With SPARKLEWOLF RADIO, UrvTek, sixwing and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 157935,
       "name": "2007",
       "url": "https://open.spotify.com/track/07cum2wxyGkgFFsbhD3t9L"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 140400,
       "name": "all my frens r rainbowz, but i'm still DEAD INSIDE!!!",
       "url": "https://open.spotify.com/track/7seEwSO5nqdoCdLnKsqy4g"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "ASS UP!",
       "url": "https://open.spotify.com/track/2rFOofFAEIdsmrpksO4U1d"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 265600,
       "name": "Bite",
       "url": "https://open.spotify.com/track/0dl4v6E1Afw5K41K2PukJA"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 144514,
       "name": "c.e.d.",
       "url": "https://open.spotify.com/track/0nXh3aHPHwbqQqvzPhigVe"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 98482,
       "name": "c.e.d. (manic)",
       "url": "https://open.spotify.com/track/0Vji7774dqXL6TihvdLEEx"
@@ -1319,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "two trick ponies",
+        "url": "https://open.spotify.com/album/7yoSgpRxU1wSXyXYdPMzLA"
+      },
+      "artists": [
+        {
+          "name": "rattlepate",
+          "url": "https://open.spotify.com/artist/4XCl7D0wQ4GcmDxPlOJHVE"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293522,
+      "name": "CAROUSEL OF DREAD",
+      "url": "https://open.spotify.com/track/3pfZ1lO05zZsmKjeT646K2"
+    },
+    {
+      "album": {
         "name": "WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY",
         "url": "https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL"
       },
@@ -1348,7 +1366,7 @@
       ],
       "date_added": "2025-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 121573,
       "name": "CATBOY JERMA",
       "url": "https://open.spotify.com/track/2yVtfEQ0EVMIA3qKDoDmW7"
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 109594,
       "name": "choke it out!",
       "url": "https://open.spotify.com/track/6e7XkfLsy4LrjwDGaVNXkh"
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2026-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 225069,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/1uXd50WJFeS1zg3GlQTXsv"
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 200986,
       "name": "Happy Girl - English Version",
       "url": "https://open.spotify.com/track/5oxB4Ut3wcHLOOnxasrY3z"
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 137299,
       "name": "I NEED THAT",
       "url": "https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw"
@@ -3584,7 +3602,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 164746,
       "name": "KILL YOURSELF",
       "url": "https://open.spotify.com/track/13rSC7PiWGDR15lZxgrxtw"
@@ -3682,7 +3700,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 138946,
       "name": "L37 17 0u7",
       "url": "https://open.spotify.com/track/59Bil4Qr68rk3Rz6HS5pLo"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 198000,
       "name": "LESBIAN PONIES WITH WEAPONS",
       "url": "https://open.spotify.com/track/3fqzrSXBp4mynyuU5cR6p1"
@@ -3932,7 +3950,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 150000,
       "name": "luv u FUREVR!!!",
       "url": "https://open.spotify.com/track/41VoSLujxqqwkKeZobMepl"
@@ -4436,7 +4454,7 @@
       ],
       "date_added": "2025-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 170403,
       "name": "narcissist",
       "url": "https://open.spotify.com/track/15i2WzxsdAdmV5hGoFEJd3"
@@ -4642,7 +4660,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 123245,
       "name": "One Day You'll Die (I do not like this)",
       "url": "https://open.spotify.com/track/7wuwuepA7yWz9lKBUle8xE"
@@ -4916,7 +4934,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 101668,
       "name": "perfection DOESNT EXIST!!!!!!!!!!!!!!!!",
       "url": "https://open.spotify.com/track/4z2Cj48c3zw2TRKSSKc62C"
@@ -4960,7 +4978,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 225316,
       "name": "Perfectionist - Original Vocal Synth Demo",
       "url": "https://open.spotify.com/track/7ePsIvQgc985dEeh14doCF"
@@ -5098,7 +5116,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 127246,
       "name": "plug me in",
       "url": "https://open.spotify.com/track/56lS40vp0sFpgFwvVle1I8"
@@ -5210,7 +5228,7 @@
       ],
       "date_added": "2025-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 147257,
       "name": "PROTECC ATTACC SEXYBACC",
       "url": "https://open.spotify.com/track/5OV6z8zXnqheKOUmNeBskw"
@@ -5228,7 +5246,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 85500,
       "name": "PUPPY TF",
       "url": "https://open.spotify.com/track/7Mf4WiQGRUBhWhDjiYjbLt"
@@ -5344,7 +5362,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160733,
       "name": "rainbowz x3!!!",
       "url": "https://open.spotify.com/track/1ywjkcrMyYbXBbV2I235C1"
@@ -5452,7 +5470,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 108500,
       "name": "Remember when i was 14 that was so CRiNGE lol",
       "url": "https://open.spotify.com/track/7JGpMaiyc5cksPJwHpUYWr"
@@ -5470,7 +5488,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 223198,
       "name": "Rest of my Life - DEMO",
       "url": "https://open.spotify.com/track/5WfIDdVeIcOL3gLIXI6PC9"
@@ -5662,7 +5680,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 140487,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/3BCBxtROaMqaFXBPNdrFiA"
@@ -6110,7 +6128,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 241942,
       "name": "TEK VIRUS",
       "url": "https://open.spotify.com/track/6yBLNlEO4sDWfKYiTzl2LP"
@@ -6176,7 +6194,7 @@
       ],
       "date_added": "2025-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 193103,
       "name": "Tell me!!",
       "url": "https://open.spotify.com/track/4JqNAoZkRgZZrZPgmQe2PI"
@@ -6338,7 +6356,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"
@@ -6512,7 +6530,7 @@
       ],
       "date_added": "2026-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 254682,
       "name": "untitled animal song",
       "url": "https://open.spotify.com/track/6lwJB3hmXYlPG40cswzzBq"
@@ -6546,9 +6564,27 @@
           "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
         }
       ],
-      "date_added": "2026-09-22",
+      "date_added": "2026-09-25",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 161428,
+      "name": "UR BF'S A LIAR - Daycore",
+      "url": "https://open.spotify.com/track/0KLVvJB1BcYL2M5uqHNkCk"
+    },
+    {
+      "album": {
+        "name": "UR BF'S A LIAR (Remixes)",
+        "url": "https://open.spotify.com/album/3cA2aQk3Pl96wGkRqIo6BB"
+      },
+      "artists": [
+        {
+          "name": "D3s1ph3r",
+          "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": "2026-09-25",
       "duration_ms": 126669,
       "name": "UR BF'S A LIAR - Nightcore",
       "url": "https://open.spotify.com/track/7pBHmRtCg8wZIYqfpCUbKI"
@@ -6610,7 +6646,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 226374,
       "name": "violated!",
       "url": "https://open.spotify.com/track/4zwl0ApecgrbQB3HPRojr9"
@@ -6646,7 +6682,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 78233,
       "name": "want me dead",
       "url": "https://open.spotify.com/track/0IKyrmqsTmNynOa1muZ3RX"
@@ -6784,7 +6820,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 125500,
       "name": "Why do i miss u",
       "url": "https://open.spotify.com/track/7wS766zakrGZdc1WpaiXmk"

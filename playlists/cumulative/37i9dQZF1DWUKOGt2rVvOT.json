@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-21",
-  "description": "\u65b0\u6b4c\u4e0d\u53ea\u7528\u807d\u7684\uff0c\u9084\u8981\u7528\u770b\u7684\uff01\u6700\u65b0\u83ef\u8a9e MV \u4e00\u6b21\u6536\u597d\uff0c\u73fe\u5728\u5c31\u770b\u8d77\u4f86\uff01Cover: LAWA ",
+  "description": "\u65b0\u6b4c\u4e0d\u53ea\u7528\u807d\u7684\uff0c\u9084\u8981\u7528\u770b\u7684\uff01\u6700\u65b0\u83ef\u8a9e MV \u4e00\u6b21\u6536\u597d\uff0c\u73fe\u5728\u5c31\u770b\u8d77\u4f86\uff01Cover: \u5b87\u5b99\u4eba",
   "name": "\u9ad8\u4eba\u6c23MV",
   "tracks": [
     {
@@ -430,7 +430,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 219214,
       "name": "Looking at me",
       "url": "https://open.spotify.com/track/1rQIR5f2RoasQom2tvhuzr"
@@ -604,6 +604,24 @@
       "duration_ms": 124800,
       "name": "scuba diving",
       "url": "https://open.spotify.com/track/4vHtTlW8yvweqJxTvJwtsf"
+    },
+    {
+      "album": {
+        "name": "Self!shhh",
+        "url": "https://open.spotify.com/album/2tjulzVZJKodcNsgdr3GPw"
+      },
+      "artists": [
+        {
+          "name": "Ozone",
+          "url": "https://open.spotify.com/artist/1Lu3G3NqWACIUAcq9r30t1"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194086,
+      "name": "Self!shhh",
+      "url": "https://open.spotify.com/track/5e2NQdZtAr1DFtcyWXBsre"
     },
     {
       "album": {
@@ -5900,7 +5918,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 220290,
       "name": "\u7121\u540d\u6c0f - (Netflix\u5f71\u96c6\u300a\u5982\u679c\u6211\u4e0d\u66fe\u898b\u904e\u592a\u967d\u300b\u63d2\u66f2)",
       "url": "https://open.spotify.com/track/0bkRzGY32FrYEy7xG02gsv"
@@ -6738,6 +6756,24 @@
       "duration_ms": 192000,
       "name": "\u8774\u8776 - \u300a\u57fa\u56e0\u6c7a\u5b9a\u6211\u611b\u4f60\u300b\u7247\u5c3e\u66f2",
       "url": "https://open.spotify.com/track/2FhgTu8oT3qDgGKsnzerQQ"
+    },
+    {
+      "album": {
+        "name": "\u96d9\u5b63",
+        "url": "https://open.spotify.com/album/15gzRVvy5ochmI2ASagEgN"
+      },
+      "artists": [
+        {
+          "name": "163 braces",
+          "url": "https://open.spotify.com/artist/6gtUGnqU4qnJ2ZB2bvp5TZ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150909,
+      "name": "\u878d\u5316\u4ee5\u5f8c",
+      "url": "https://open.spotify.com/track/0EiKQdp9HzdALq4m86U9Jj"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [Caliente](https://open.spotify.com/playlist/37i9dQZF1DWVGjWxwGtpup)
 
-> Tous les hits latino du moment sont ici\. Photo : Maluma x Shakira
+> Tous les hits latino du moment sont ici\. Photo : KAROL G, Judeline, rusowsky
 
-511 songs - 1 day 2 hr 9 min
+512 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [CABLES CRUZADOS](https://open.spotify.com/track/2gGSHUX54Bb9lkWoTkJQKs) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [CVRBON VRMOR](https://open.spotify.com/album/4ZOlDViNpY9CrAXTNZMffm) | 2:51 | 2024-10-17 | 2024-11-15 |
 | [Caducaste](https://open.spotify.com/track/3k0au8hNwghIrLsfpP2W4z) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Caducaste](https://open.spotify.com/album/5um6GIoA0TejDR97zILaDG) | 3:34 | 2026-04-02 | 2026-05-01 |
 | [Calumnia](https://open.spotify.com/track/2AX7b01Rmdf215GOK3OIF8) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Calumnia](https://open.spotify.com/album/4vEn1u4njtUh83FAncUiEX) | 3:05 | 2024-03-07 | 2024-03-15 |
-| [CAMBIARÉ](https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CAMBIARÉ](https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU) | 3:01 | 2026-01-22 |  |
+| [CAMBIARÉ](https://open.spotify.com/track/0DHkA97Q6SWz7uanmsCy8u) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [CAMBIARÉ](https://open.spotify.com/album/6ZXLMVFtEzgYNQlbUMlzAU) | 3:01 | 2026-01-22 | 2026-09-25 |
 | [Caminando](https://open.spotify.com/track/6bLD9jRpTzHIStyj5lwDDr) | [Avril del Mar](https://open.spotify.com/artist/3YDAuYVDujpBFJWQF6P5DK) | [Caminando](https://open.spotify.com/album/370GLaM5Cg7vJV6X4wWRf4) | 2:45 | 2025-09-11 | 2025-11-07 |
 | [CANAIMA](https://open.spotify.com/track/5QsTUq4tWI0QiVAMNoKDFs) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [CANAIMA](https://open.spotify.com/album/0mwHC4EpVfJ1y2hY7PvfYX) | 2:31 | 2026-04-16 | 2026-05-01 |
 | [CANCIÓN PARA REGRESAR](https://open.spotify.com/track/5dyDJ04aqWFuguQd6uWYWG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [CANCIÓN PARA REGRESAR](https://open.spotify.com/album/6ahlEbmAQ9NfewACpSbqG7) | 4:14 | 2025-09-25 | 2025-12-05 |
@@ -372,6 +372,7 @@
 | [Pinterest \- \(Portuguese\)](https://open.spotify.com/track/097Y8hlKp4W3SxhinzzoRK) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Pinterest \(Portuguese\)](https://open.spotify.com/album/4KlWvvCJBykosyukxzdBzP) | 2:14 | 2026-03-05 | 2026-04-17 |
 | [Piscina](https://open.spotify.com/track/6q6aChVJ5LLXFUSfakwpxW) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Piscina](https://open.spotify.com/album/2dgGJoPFotq4qDUbzAKVU0) | 3:45 | 2023-11-16 | 2024-02-02 |
 | [PIToRRO DE COCO](https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PIToRRO DE COCO](https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly) | 3:26 | 2024-12-26 | 2025-10-10 |
+| [PLAYA FRÍA](https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [PLAYA FRÍA](https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2) | 2:08 | 2026-09-24 |  |
 | [PLEBITA](https://open.spotify.com/track/2T27yDWUrmTBEF08PH8bFs) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [PLEBITA](https://open.spotify.com/album/1LeugvjTI7mdcVwmED0DpW) | 2:27 | 2023-11-23 | 2023-12-15 |
 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 | 2026-03-19 |  |
 | [Por Fa No Te Vayas](https://open.spotify.com/track/4xU1D7EZ75yI2sSaFtcksR) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Por Fa No Te Vayas](https://open.spotify.com/album/2WXtUxTSuMmSjlsaivUrOt) | 3:33 | 2025-08-07 | 2025-10-10 |

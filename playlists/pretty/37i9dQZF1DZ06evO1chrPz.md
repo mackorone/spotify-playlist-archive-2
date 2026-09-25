@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,565 likes - 50 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,577 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 44 | [Rescue](https://open.spotify.com/track/2kjQMoKIkqlVYN20183Fjt) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Peace, Vol\. II](https://open.spotify.com/album/0RbdblzaMNGge5MqeFAX9N) | 5:19 |
 | 45 | [My King Forever \(Live\)](https://open.spotify.com/track/77hZXcf7yhZ1Rny964UTgg) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 5:15 |
 | 46 | [You're Worthy of My Praise/As The Deer \- Live](https://open.spotify.com/track/0z3CNIaZ6g6Pw5v4OocpFQ) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 2:26 |
-| 47 | [Made For More \- Live](https://open.spotify.com/track/1eCgbIxafpKPWH5on8N02j) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 6:25 |
+| 47 | [Jesus Have It All \(Spontaneous\) \- Live](https://open.spotify.com/track/4t2nKUddnq1ST2Fi6dZdJy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [We Must Respond \(Live\)](https://open.spotify.com/album/4SkbfeWMHz58YzZQ5vThTH) | 8:07 |
 | 48 | [How Great Thou Art \- Live](https://open.spotify.com/track/2Qie9Sz3nvgRWmqqKAolDE) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Garett & Kate](https://open.spotify.com/artist/0XGtfaGeQDd2jje9soKMPM) | [How Great Thou Art \(Live\)](https://open.spotify.com/album/2sMovJU5DW6HqGjeqfHCzo) | 8:29 |
 | 49 | [Reason To Praise \(Live\)](https://open.spotify.com/track/4Z9hkzTYQnKYljePcQsXUf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 8:30 |
 | 50 | [I Want Jesus \- Live](https://open.spotify.com/track/4gkmrFMLBjL0ORrIMdh24Y) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [I Want Jesus \(Live\)](https://open.spotify.com/album/7IdEtizrVA9XlZRN8Pxed0) | 6:09 |
 
-Snapshot ID: `arHFAAAAAAA8/I5sdN0NdAdRCmvksdo0`
+Snapshot ID: `arMWgAAAAAD7lw5BFTjxQ6APtyI1qsRc`

@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 24301,
+  "num_followers": 24303,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-02-17 14:09:55",
       "album": {
+        "name": "Simple Life",
+        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
+      },
+      "artists": [
+        {
+          "name": "Yoon Jong Ryul",
+          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
+        }
+      ],
+      "duration_ms": 357621,
+      "name": "Needle and Candle",
+      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
+    },
+    {
+      "added_at": "2026-02-17 14:09:55",
+      "album": {
         "name": "Time for Ballads - The Maene Sessions",
         "url": "https://open.spotify.com/album/0A3ky8Ix813biINCcxXAe5"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 211621,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8"
-    },
-    {
-      "added_at": "2026-02-17 14:09:55",
-      "album": {
-        "name": "Simple Life",
-        "url": "https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP"
-      },
-      "artists": [
-        {
-          "name": "Yoon Jong Ryul",
-          "url": "https://open.spotify.com/artist/14gyB2ipghybniP9azTd42"
-        }
-      ],
-      "duration_ms": 357621,
-      "name": "Needle and Candle",
-      "url": "https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7"
     },
     {
       "added_at": "2026-02-17 14:09:55",

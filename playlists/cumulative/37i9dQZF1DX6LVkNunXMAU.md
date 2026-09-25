@@ -2,9 +2,9 @@
 
 ### [folk & primavera](https://open.spotify.com/playlist/37i9dQZF1DX6LVkNunXMAU)
 
-> Folk latino de estación\. Foto: Micaela Basadoni
+> Folk latino de estación\. Foto: Sofía Campos
 
-416 songs - 22 hr 44 min
+418 songs - 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [6 Am](https://open.spotify.com/track/4jLdQovU5ocprshd0eCaDO) | [Vosque](https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6) | [6 Am](https://open.spotify.com/album/4u1iJcba94747cyq7u9OxX) | 3:26 | 2022-05-20 | 2022-08-27 |
 | [<3](https://open.spotify.com/track/5AKY8cSf2oXagvtUvQ2rmW) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [<3](https://open.spotify.com/album/30RTxbqOr716C3Id30XXi6) | 2:22 | 2022-11-11 | 2024-09-27 |
 | [A Donde Quiero Estar](https://open.spotify.com/track/2CxzakxMvIWj6EU3LiTuF2) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [A Donde Quiero Estar](https://open.spotify.com/album/4X6b5zmNAHOGD1zIrBwnEc) | 3:21 | 2022-05-20 | 2023-04-15 |
-| [A la deriva](https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B) | [Pablo Joaquín](https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG), [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [A la deriva](https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e) | 3:06 | 2024-11-14 |  |
+| [A la deriva](https://open.spotify.com/track/51Ja3NyA8qg70aMCFjZU2B) | [Pablo Joaquín](https://open.spotify.com/artist/2tMIvv0GPX0DMYzV4hEpBG), [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [A la deriva](https://open.spotify.com/album/63EtKfnVExFTiSWXiXgC5e) | 3:06 | 2024-11-14 | 2026-09-25 |
 | [A la Distancia](https://open.spotify.com/track/0KH6xMLizlGJe0VXSjXYBn) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2agLg7JdXzVDGYIJBjuUMU) | 2:54 | 2023-09-01 | 2023-10-07 |
 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 | 2022-05-20 | 2023-05-20 |
 | [A Medio Paso de Tu Amor](https://open.spotify.com/track/4XoEfF1PhCxCU5D8QG3cU7) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [A Medio Paso de Tu Amor](https://open.spotify.com/album/1To4WsAqHV6ULE3Ax9fxtl) | 3:45 | 2022-11-11 | 2023-06-11 |
@@ -64,7 +64,7 @@
 | [Cambiar](https://open.spotify.com/track/7DwZEmLVQUKSv53KMn9pof) | [LU GALI](https://open.spotify.com/artist/7oN7ysUaJAxH017qVEUWGT) | [Cambiar](https://open.spotify.com/album/1qrdxnozcvjuFtdACalJ95) | 3:30 | 2026-05-22 |  |
 | [Caminito](https://open.spotify.com/track/0P0psuP8ipaedwxBDDyFvY) | [Coco Green](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Caminito](https://open.spotify.com/album/2ZWbPWg6bXrDojfU04sciq) | 2:46 | 2022-07-15 | 2023-11-02 |
 | [Caminito](https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP) | [Coco Green](https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs), [Casandra Paz](https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ) | [Caminito](https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4) | 2:46 | 2022-07-15 | 2026-05-29 |
-| [Camino libre medio](https://open.spotify.com/track/6RQrXgG9tb70dQx2rZVExp) | [Delairë](https://open.spotify.com/artist/1tkmkMPY8p0LWx3c4Y4Ltj), [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [Camino libre medio](https://open.spotify.com/album/71qLgCiOOv7SRPkOBcHCSd) | 3:09 | 2025-07-18 |  |
+| [Camino libre medio](https://open.spotify.com/track/6RQrXgG9tb70dQx2rZVExp) | [Delairë](https://open.spotify.com/artist/1tkmkMPY8p0LWx3c4Y4Ltj), [Astronautiko](https://open.spotify.com/artist/4jtlM7KkUGZi5N3DWFZLbw) | [Camino libre medio](https://open.spotify.com/album/71qLgCiOOv7SRPkOBcHCSd) | 3:09 | 2025-07-18 | 2026-09-25 |
 | [Canción de otoño](https://open.spotify.com/track/5mxCXwFixheHBlsW8nEmVF) | [Christiane](https://open.spotify.com/artist/0gPv17HJgCgwcKNvvtR0na) | [Canción de otoño](https://open.spotify.com/album/0sqxQms2M4ouTa1y0KOhFN) | 4:21 | 2022-05-20 | 2023-05-28 |
 | [Canción Diamante](https://open.spotify.com/track/0UA7OzIDjprLJremalYw7P) | [Ignacio Bevacqua](https://open.spotify.com/artist/3LCscdSjTj9tG5lhm40caW) | [Música Irrelevante Para Un Mundo En Llamas](https://open.spotify.com/album/3GJWivyWfYR2NXZg9Z1Lui) | 3:40 | 2026-08-14 |  |
 | [Canción para alguien que se fue](https://open.spotify.com/track/4l14t5JAUUTqXX70LCL4ok) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Canción para alguien que se fue](https://open.spotify.com/album/1Pz0lEcfoZWlhEACpUXB49) | 3:13 | 2026-09-11 |  |
@@ -139,6 +139,7 @@
 | [Día tras día](https://open.spotify.com/track/17lwA5owqNicBFJynjKIDd) | [El Tio Valen](https://open.spotify.com/artist/6wmJ0G1rcbo6NkDqFy7is8) | [Día tras día](https://open.spotify.com/album/7gjf7o3gThjzGzpQmwNeMF) | 2:57 | 2024-09-26 | 2026-09-12 |
 | [Días En Casa](https://open.spotify.com/track/2psoGV7y4CIpqdqjTCL6jK) | [La Chica del Cumpleaños](https://open.spotify.com/artist/7uzpdZFWUYCLQnqpq0MP1V) | [Días En Casa](https://open.spotify.com/album/6v6HHXpXjmwo2gA1S1gPuk) | 3:05 | 2023-05-12 | 2024-09-27 |
 | [El Alma](https://open.spotify.com/track/6rr5SobYOQHv1fvGf6CJNS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [El Alma](https://open.spotify.com/album/1xuqb5fCz6MQydTGNsEyCU) | 2:55 | 2022-05-20 | 2023-04-15 |
+| [El borde](https://open.spotify.com/track/2WXy0BpvnQ0pn2y6XsXELH) | [Sofia Macchi](https://open.spotify.com/artist/4gtaTXIhBK1iyVUAkB2YZu) | [El borde](https://open.spotify.com/album/1lhummb2m24bKDOV4xZsYQ) | 4:06 | 2026-09-25 |  |
 | [El Campo \- acústico](https://open.spotify.com/track/1KzpT0TFVNiZFx2NlzOcdP) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [ODIO el ODIO \(Acústico\)](https://open.spotify.com/album/4yui6NMZ1sFX7s0uSHWyvX) | 2:58 | 2025-07-18 |  |
 | [El Film](https://open.spotify.com/track/4Ikzz30en6rryWBSbmEhEp) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [El Film](https://open.spotify.com/album/19vRdobmb1a70CE4YuFPbT) | 3:01 | 2023-07-14 | 2023-10-07 |
 | [el film \- Versión Acústica](https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [Acústico](https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5) | 2:49 | 2024-03-21 | 2026-08-28 |
@@ -192,6 +193,7 @@
 | [Interludio en el Ataúd](https://open.spotify.com/track/6yGcgmZiOO34DJdELn0nGn) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ) | [Canciones de Mal Gusto para Gente Depresiva](https://open.spotify.com/album/0pZmjDbReA06ma8eX6Raqx) | 3:12 | 2022-07-15 | 2023-07-15 |
 | [Isla](https://open.spotify.com/track/3B32feO30ttYUIIFe0RD0l) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Isla](https://open.spotify.com/album/4vT2DYTDbxcsY6uHohDshb) | 3:42 | 2022-05-20 | 2023-04-15 |
 | [Iuju](https://open.spotify.com/track/27YowSHQvUV4YASt8UdKyJ) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk) | [Agua Viva](https://open.spotify.com/album/0XpLMbMt5M57kNA679ihdi) | 1:50 | 2024-10-04 | 2026-09-12 |
+| [Joaquín](https://open.spotify.com/track/06ozBa4YGaxnw7NMmUlGW8) | [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [Minha Beleza](https://open.spotify.com/album/6purF8IsIgyRwChzroRE95) | 2:31 | 2026-09-25 |  |
 | [Jugando a los Sims](https://open.spotify.com/track/7ayopKtCQTOEDpRB5xpU6I) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm) | [Cómo decirte, mi amor](https://open.spotify.com/album/5iwpXxPIQS2wGBhUZpbwTY) | 2:39 | 2022-05-20 | 2023-04-15 |
 | [Kilómetros](https://open.spotify.com/track/6fAToGuBw5lPlWvzdzGyYx) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Kilómetros](https://open.spotify.com/album/4yitWO4wI8bRLSSIZ74E0L) | 3:32 | 2022-05-20 | 2023-04-15 |
 | [LA ARAÑA](https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [LA ARAÑA](https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl) | 3:28 | 2022-07-15 | 2024-05-26 |

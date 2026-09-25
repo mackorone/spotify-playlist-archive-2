@@ -6132,7 +6132,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 157316,
       "name": "KGB",
       "url": "https://open.spotify.com/track/7C7vnAW3L8ahsOGsZKY6EP"
@@ -10687,6 +10687,24 @@
     },
     {
       "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "url": "https://open.spotify.com/album/18qJgKH8dyYe2RRp6TbnNY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209680,
+      "name": "stupid song",
+      "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
+    },
+    {
+      "album": {
         "name": "Escaper",
         "url": "https://open.spotify.com/album/1DKZiCIxfbZB5I1p7JhXym"
       },
@@ -11006,6 +11024,24 @@
       "duration_ms": 186386,
       "name": "Take Me Away - From \"Freakier Friday\"",
       "url": "https://open.spotify.com/track/5PfDGxZXOnJLJvghTAtQJP"
+    },
+    {
+      "album": {
+        "name": "Too Close For Running",
+        "url": "https://open.spotify.com/album/5rkPZZREcGzY34cLajIzcg"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172440,
+      "name": "Tandem Bike",
+      "url": "https://open.spotify.com/track/6NUrORpYDdSFLYk96VrQlr"
     },
     {
       "album": {

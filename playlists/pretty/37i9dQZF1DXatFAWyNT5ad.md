@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,490 likes - 150 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,494 likes - 150 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 129 | [Better Off](https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Better Off](https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS) | 2:24 |
 | 130 | [Giving Up](https://open.spotify.com/track/5XYoKiujAKGiHwnU2G0P7C) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Toxic Positivity](https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis) | 3:10 |
 | 131 | [Stepper](https://open.spotify.com/track/1Zgttkd7YzZfaYsqAStfsU) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Stepper](https://open.spotify.com/album/5dBr1Boqy6E8nzO41caVvO) | 3:16 |
-| 132 | [Mugshot](https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Mugshot](https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6) | 3:09 |
-| 133 | [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 |
+| 132 | [Day Job](https://open.spotify.com/track/0gQaeonQS76sGjcM7FXojN) | [Jayden Seeley](https://open.spotify.com/artist/6gzW91j6PTJlXTpshZGSQy), [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Day Job](https://open.spotify.com/album/5p91Tw8x7pD9Y46xweBqPi) | 2:38 |
+| 133 | [Mugshot](https://open.spotify.com/track/1t78Ss9O44dp6VQHGe0PKu) | [Huddy](https://open.spotify.com/artist/3BxsweDMcgp9gNWmG40u6f) | [Mugshot](https://open.spotify.com/album/07OGKUkBZyMEUmscehkHt6) | 3:09 |
 | 134 | [STRANGERS](https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [STRANGERS](https://open.spotify.com/album/5YiMAwQ6ecR1mDk4E9MNmF) | 3:43 |
 | 135 | [Without You](https://open.spotify.com/track/0Y5fBC703Co6hAYrM9uX5J) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Without You](https://open.spotify.com/album/0FC1kJead46CsxnGGjmwA4) | 3:11 |
 | 136 | [Young Broke](https://open.spotify.com/track/6FB3ZzshHONpaHeo97ZYyf) | [Letdown.](https://open.spotify.com/artist/2rP19mjQlqtCScJ3zqLUb1) | [Say That You Love Me](https://open.spotify.com/album/3ztwfW7VqliSFqMuaYSRmX) | 2:22 |
@@ -149,11 +149,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 139 | [Cynical](https://open.spotify.com/track/5DT396Bk4kxXH0Y8ADyyE3) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Cynical](https://open.spotify.com/album/357gbL6nwsDoNxTvZ5YWrm) | 2:14 |
 | 140 | [Say It \(To My Face\)](https://open.spotify.com/track/2hbOvsFwsgwaboSRGxeng8) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Past // Present // Future](https://open.spotify.com/album/50CjJwLpGUfQocgHP80Xve) | 2:39 |
 | 141 | [Sonder](https://open.spotify.com/track/1mvVtX5dLGPe1teRz5ERZV) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Sonder](https://open.spotify.com/album/7uBt3oKpPnAENHAu4g6ipU) | 3:20 |
-| 142 | [FREAK](https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FREAK \(Feat\. jxdn\)](https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5) | 2:29 |
-| 143 | [SOULSUCKER](https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SOULSUCKER](https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8) | 2:26 |
+| 142 | [SOULSUCKER](https://open.spotify.com/track/2zls6poyQkulXSvJE8fAXd) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [SOULSUCKER](https://open.spotify.com/album/1QZvD8MebgMpV8lj5bFBx8) | 2:26 |
+| 143 | [FREAK](https://open.spotify.com/track/59QtD84KONsWuBFL7bwQrP) | [BEAUTY SCHOOL DROPOUT](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [FREAK \(Feat\. jxdn\)](https://open.spotify.com/album/4mzZ6AB3vMXeuz2W0AWsN5) | 2:29 |
 | 144 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 |
-| 145 | [Pretender](https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 2:08 |
-| 146 | [SLEEP TALKING](https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [GARAGE](https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo) | 3:05 |
+| 145 | [SLEEP TALKING](https://open.spotify.com/track/1PoW3zFUUN8vGwXo7ihYPj) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [GARAGE](https://open.spotify.com/album/5d1CpByfQ3zqbOSmbIPafo) | 3:05 |
+| 146 | [Pretender](https://open.spotify.com/track/209ANSkGIsfA5M5GewdMGi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 2:08 |
 | 147 | [My Heart's A Crowded Room](https://open.spotify.com/track/1upx2CHNbauM1Fa9EdPlze) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [My Heart's A Crowded Room](https://open.spotify.com/album/1xUibDNIkBquUUX6Tou9S0) | 3:05 |
 | 148 | [Pretty](https://open.spotify.com/track/45ajMVk06OpqqIhkqt9cc0) | [Tally Spear](https://open.spotify.com/artist/2ToYco7p2abToWrUcAeTwp) | [Pretty](https://open.spotify.com/album/3meNmp3wuxpjo0PmKGmoUf) | 3:14 |
 | 149 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 |

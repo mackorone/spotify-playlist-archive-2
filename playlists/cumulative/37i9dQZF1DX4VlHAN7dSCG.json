@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: Soul Sorry ",
+  "description": "\u5169\u4eba\u6210\u7d44\u3001\u4e09\u4eba\u6210\u5718\uff0c\u786c\u5730\u4e3b\u6d41\u90fd\u5728\u53f0\u7063\u958b\u82b1\uff01\u98a8\u683c\u8c50\u5bcc\u529b\u91cf\u5927\uff01Cover: SONNIE \u6851\u5c3c",
   "name": "\u7d44\u5718\u98c6\u6b4c",
   "tracks": [
     {
@@ -1316,7 +1316,7 @@
       ],
       "date_added": "2026-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 188253,
       "name": "Do What You Gotta (feat. Sunset Rollercoaster)",
       "url": "https://open.spotify.com/track/5I25i7QQ0JyUHwovMJprfS"
@@ -2374,7 +2374,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 207644,
       "name": "I Need You",
       "url": "https://open.spotify.com/track/5Y4hnt7Bhb8wEHaFiMe7wM"
@@ -9613,6 +9613,24 @@
     },
     {
       "album": {
+        "name": "The House Of",
+        "url": "https://open.spotify.com/album/2l0RVblgUpMkdcKNGyFjdh"
+      },
+      "artists": [
+        {
+          "name": "Wendy Wander",
+          "url": "https://open.spotify.com/artist/5YVLwkimiEhl8L409NfySF"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219055,
+      "name": "\u5982\u5929\u4f7f\u4e00\u6a23\u62ef\u6551",
+      "url": "https://open.spotify.com/track/11AkHRU4WI7KaK1ub0Dd0L"
+    },
+    {
+      "album": {
         "name": "\u5982\u6708",
         "url": "https://open.spotify.com/album/2vw9lZRZ6AlBy7i0OyZ2ow"
       },
@@ -10586,7 +10604,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 250000,
       "name": "\u5f7c\u4e00\u5de5 - \u81fa\u8a9e\u53f0\u5f71\u96c6\u300a\u4eba\u751f\u53ea\u79df\u4e0d\u8ce3\u300b\u63d2\u66f2",
       "url": "https://open.spotify.com/track/5BkE63oB7FsMjjQHh2duk6"
@@ -13808,6 +13826,24 @@
       "duration_ms": 217314,
       "name": "\u6b4c\u5355\u91cc\u6700\u6e29\u67d4\u7684\u653e\u514b Gentle Funk",
       "url": "https://open.spotify.com/track/1yqK95YlqCS7SPzxdOhkfF"
+    },
+    {
+      "album": {
+        "name": "\u6851\u5fc3\u7537\u5b69\u4ff1\u6a02\u90e8",
+        "url": "https://open.spotify.com/album/0iGweuS2DNPq9Mel1I6YTm"
+      },
+      "artists": [
+        {
+          "name": "SONNIE \u6851\u5c3c",
+          "url": "https://open.spotify.com/artist/4QTWSC2z6j9KARKVzvHtxe"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220568,
+      "name": "\u6b50\u897f\u963f\u8afe\u65af",
+      "url": "https://open.spotify.com/track/0i7mrwCPM8VMFnfMd3G8M9"
     },
     {
       "album": {
@@ -18193,6 +18229,24 @@
     },
     {
       "album": {
+        "name": "\u91d1\u9b5a",
+        "url": "https://open.spotify.com/album/5r58Sc7zEAJGpBCenhwOdu"
+      },
+      "artists": [
+        {
+          "name": "\u7121\u5e38\u6a02",
+          "url": "https://open.spotify.com/artist/4X8W3br7SZ4tkRXpIgefEr"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395355,
+      "name": "\u91d1\u9b5a",
+      "url": "https://open.spotify.com/track/071oX62odlquYhUsL8V19F"
+    },
+    {
+      "album": {
         "name": "\u925b\u606f",
         "url": "https://open.spotify.com/album/5LFCk9380OZKHh4va4gAyg"
       },
@@ -18822,7 +18876,7 @@
       ],
       "date_added": "2025-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 264500,
       "name": "\u9858\u4f60\u611b\u81ea\u5df1\uff0c\u50cf\u6211\u611b\u4f60\u4e00\u6a23",
       "url": "https://open.spotify.com/track/0xme1uL6BTAkjQdHGW66aA"

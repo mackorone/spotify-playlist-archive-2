@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37458,
+  "num_followers": 37456,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADgJ82VW1RgxHq/zMoBttHo",
+  "snapshot_id": "arMWgAAAAACbgckxGoxvsfqtdbwJQVY2",
   "tracks": [
     {
       "added_at": null,
@@ -51,6 +51,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "15 Anos (ao Vivo)",
+        "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
+      },
+      "artists": [
+        {
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 361185,
+      "name": "Desejo do Meu Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/56YKz3uWPr5Pnj1itFWUsP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Flutuar",
         "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 214191,
       "name": "Flutuar",
       "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "15 Anos (ao Vivo)",
-        "url": "https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V"
-      },
-      "artists": [
-        {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 361185,
-      "name": "Desejo do Meu Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/56YKz3uWPr5Pnj1itFWUsP"
     },
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outubro",
-        "url": "https://open.spotify.com/album/5Fi0vPKI3t2AJB1tmDwY1D"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Outubro",
-      "url": "https://open.spotify.com/track/7rfQIPJS4rgUju5Fnji49x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Principio (Ao Vivo)",
         "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 466146,
       "name": "Princ\u00edpio e Fim (feat. Daniela Ara\u00fajo) - Ao Vivo",
       "url": "https://open.spotify.com/track/3iY9VoEriJIkF7IwHZDIaM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outubro",
+        "url": "https://open.spotify.com/album/5Fi0vPKI3t2AJB1tmDwY1D"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        }
+      ],
+      "duration_ms": 202560,
+      "name": "Outubro",
+      "url": "https://open.spotify.com/track/7rfQIPJS4rgUju5Fnji49x"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Daniela Ara\u00fajo",
-        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 261972,
-      "name": "Jugo Suave",
-      "url": "https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Principio (Ao Vivo)",
         "url": "https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 254880,
       "name": "Verdade (feat. Daniela Ara\u00fajo) - Ao Vivo",
       "url": "https://open.spotify.com/track/0RDOvpozDFHUxtwsQInnTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Daniela Ara\u00fajo",
+        "url": "https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 261972,
+      "name": "Jugo Suave",
+      "url": "https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj"
     },
     {
       "added_at": null,
@@ -555,42 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Conoc\u00ed una Oveja",
-        "url": "https://open.spotify.com/album/6wr5MRM7pntlYmYNTSWW7a"
-      },
-      "artists": [
-        {
-          "name": "Rubinsky Rbk",
-          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 274500,
-      "name": "Del King",
-      "url": "https://open.spotify.com/track/3Ku76lfkYl6F5Fj6qX5LiE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Criador do Mundo",
-        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Imensur\u00e1vel",
-      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Manifesto",
         "url": "https://open.spotify.com/album/63n7PZNCS45Ct2tKE29kNn"
       },
@@ -611,6 +575,42 @@
       "duration_ms": 141057,
       "name": "Manifesto (Vers\u00e3o Afrobeat)",
       "url": "https://open.spotify.com/track/0hUHZxjcHR0rZ0zAj7Ou6T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Criador do Mundo",
+        "url": "https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 244800,
+      "name": "Imensur\u00e1vel",
+      "url": "https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Conoc\u00ed una Oveja",
+        "url": "https://open.spotify.com/album/6wr5MRM7pntlYmYNTSWW7a"
+      },
+      "artists": [
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 274500,
+      "name": "Del King",
+      "url": "https://open.spotify.com/track/3Ku76lfkYl6F5Fj6qX5LiE"
     },
     {
       "added_at": null,
@@ -703,22 +703,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU"
+        "name": "Ru\u00eddos",
+        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
       },
       "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 216533,
-      "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
-      "url": "https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6"
+      "duration_ms": 320760,
+      "name": "Ru\u00eddos",
+      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
     },
     {
       "added_at": null,
@@ -743,18 +739,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ru\u00eddos",
-        "url": "https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX"
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU"
       },
       "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
         {
           "name": "Daniela Ara\u00fajo",
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 320760,
-      "name": "Ru\u00eddos",
-      "url": "https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU"
+      "duration_ms": 216533,
+      "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
+      "url": "https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ac\u00fastico, Vol. 2",
+        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Aguiar",
+          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Voc\u00ea Consegue Sim",
+      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catarse: Lado A",
         "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 321746,
       "name": "Quem \u00e9 Esse? (feat. Daniela Ara\u00fajo) - Ao Vivo",
       "url": "https://open.spotify.com/track/6UBzQP0E4IkkYDwUDiSu77"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ac\u00fastico, Vol. 2",
-        "url": "https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Aguiar",
-          "url": "https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Voc\u00ea Consegue Sim",
-      "url": "https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn"
     },
     {
       "added_at": null,

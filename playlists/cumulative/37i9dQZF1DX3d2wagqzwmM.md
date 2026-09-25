@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: AFROJACK
 
-747 songs - 1 day 13 hr 37 min
+748 songs - 1 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -439,7 +439,7 @@
 | [Narco](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Narco](https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK) | 3:28 | 2022-09-08 | 2022-10-28 |
 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 | 2023-05-04 | 2023-09-15 |
 | [Nasty](https://open.spotify.com/track/5mLMev7skmmcBn0Woo03SM) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Nasty](https://open.spotify.com/album/2Lt6F1UoKsFa6qYk60wdOy) | 2:40 | 2023-05-04 | 2023-05-06 |
-| [Naughty](https://open.spotify.com/track/3U47of5EW3ejO4nsAfVGJz) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Naughty](https://open.spotify.com/album/4BFziZ45Pg91qenH1VVBiB) | 2:12 | 2026-07-13 |  |
+| [Naughty](https://open.spotify.com/track/3U47of5EW3ejO4nsAfVGJz) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Naughty](https://open.spotify.com/album/4BFziZ45Pg91qenH1VVBiB) | 2:12 | 2026-07-13 | 2026-09-25 |
 | [Needle On The Record](https://open.spotify.com/track/7hPpYgOa6hiKodxQleM7e1) | [D'Angello & Francis](https://open.spotify.com/artist/63YpQAD9YjknZPfMVYqyIK) | [Needle On The Record](https://open.spotify.com/album/21H3MmqMqJogAAcxpl9KIa) | 3:41 | 2026-07-13 |  |
 | [Nessun Dorma \(feat\. Luciano Pavarotti\)](https://open.spotify.com/track/3cCPoDrYGpqtTvBcWM0eHL) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [3rd Wall](https://open.spotify.com/artist/1tHXAxKf7BCwFZpj8cMERM), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Nessun Dorma \(feat\. Luciano Pavarotti\)](https://open.spotify.com/album/0xQzA4AYTp21tB2mOdSg0t) | 3:01 | 2024-11-06 | 2025-05-09 |
 | [Never Alone](https://open.spotify.com/track/3d59YKK0xcsrzTW58SjRZw) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V), [2 Brothers On The 4th Floor](https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm) | [Never Alone](https://open.spotify.com/album/6YYoGKAxBFAva4Qu2EtHES) | 3:15 | 2025-04-03 |  |
@@ -684,6 +684,7 @@
 | [Thunder](https://open.spotify.com/track/0bCMosuR81mPp5qsLbHcw0) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Thunder](https://open.spotify.com/album/7ne1Slu4DJbb60X986utXU) | 3:08 | 2022-06-23 | 2022-06-27 |
 | [Thunder](https://open.spotify.com/track/5mASStSnLfAz7JvHV5kSyx) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Thunder](https://open.spotify.com/album/3qbJJopxn88dscIj4hMMOl) | 3:08 | 2024-03-07 | 2024-07-27 |
 | [Time To Say Goodbye](https://open.spotify.com/track/2ORqBdg1ALBRZrXwOkwO8L) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Time To Say Goodbye](https://open.spotify.com/album/7o6ZM1Yh51VBCjx0M6uo2X) | 3:10 | 2024-09-26 | 2026-04-03 |
+| [To The Front](https://open.spotify.com/track/7fF7p3s2PcYRuGpUPZweTm) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [bradeazy](https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI) | [To The Front](https://open.spotify.com/album/0Soq75XwHqXGTgReaqVCtr) | 2:18 | 2026-09-24 |  |
 | [Toast Hawaii](https://open.spotify.com/track/1eQd4BAp0gK2mqviqyfY28) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Toast Hawaii](https://open.spotify.com/album/7yDfTI2RjQydP9uCq6cq2Q) | 2:43 | 2022-04-14 | 2023-05-12 |
 | [Tokyo Drift](https://open.spotify.com/track/36Cv79TksfjnPhlrN1D9wN) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Vion Konger](https://open.spotify.com/artist/30IONe5gqXy6MXSNHVCCYP) | [Tokyo Drift](https://open.spotify.com/album/6e0MNDK26gYK1WYAgSrQix) | 2:26 | 2025-08-28 |  |
 | [Told You So \- Agents Of Time Remix](https://open.spotify.com/track/2lQnyDTZSKQEgPYZtXYMaV) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Told You So \(Remixes Vol\. 2\)](https://open.spotify.com/album/7tSdlRlODwsNkMHTT86VCY) | 3:41 | 2025-01-10 | 2026-04-03 |

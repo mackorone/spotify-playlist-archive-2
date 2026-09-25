@@ -1,6 +1,6 @@
 {
   "description": "New and recent favorites of Prog Metal. Cover: Periphery",
-  "num_followers": 571634,
+  "num_followers": 571680,
   "original_name": "Progressive Metal",
   "owner": {
     "name": "Spotify",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Beyond Obsidian Euphoria",
-        "url": "https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs"
-      },
-      "artists": [
-        {
-          "name": "T\u00f3mar\u00fam",
-          "url": "https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ"
-        }
-      ],
-      "duration_ms": 422773,
-      "name": "Shallow Ecstasy",
-      "url": "https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "\u8607\u9192 II: Frailty",
         "url": "https://open.spotify.com/album/3Qqr84sZDMRNuDeIdqIbMH"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 302094,
       "name": "\u6de8\u5316 Purge (feat. Devin Townsend)",
       "url": "https://open.spotify.com/track/1ghjSbOICxweO2X9toPij4"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Beyond Obsidian Euphoria",
+        "url": "https://open.spotify.com/album/2PoczEqH999hvznpNC5TMs"
+      },
+      "artists": [
+        {
+          "name": "T\u00f3mar\u00fam",
+          "url": "https://open.spotify.com/artist/6Xv8h8ntefqlic5d3DqzhZ"
+        }
+      ],
+      "duration_ms": 422773,
+      "name": "Shallow Ecstasy",
+      "url": "https://open.spotify.com/track/1aFu1TSeBdfx4eknxNWTB9"
     },
     {
       "added_at": "2026-05-15 04:02:10",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2026-05-15 04:02:10",
       "album": {
-        "name": "Sentience",
-        "url": "https://open.spotify.com/album/6iRzTS4biCbb2VukIwB9nT"
-      },
-      "artists": [
-        {
-          "name": "Monosphere",
-          "url": "https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW"
-        }
-      ],
-      "duration_ms": 408000,
-      "name": "Borderline Syndrome",
-      "url": "https://open.spotify.com/track/5iaJDLrxZ80mIvH4oveRZb"
-    },
-    {
-      "added_at": "2026-05-15 04:02:10",
-      "album": {
         "name": "Night Drive",
         "url": "https://open.spotify.com/album/2HJNfZHpYBBwMCNIwYYgZ1"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 348280,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/7E8a8acAtiOb9PrrzAvzwN"
+    },
+    {
+      "added_at": "2026-05-15 04:02:10",
+      "album": {
+        "name": "Sentience",
+        "url": "https://open.spotify.com/album/6iRzTS4biCbb2VukIwB9nT"
+      },
+      "artists": [
+        {
+          "name": "Monosphere",
+          "url": "https://open.spotify.com/artist/0JDTWjgSmPVG76tIIvwPoW"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Borderline Syndrome",
+      "url": "https://open.spotify.com/track/5iaJDLrxZ80mIvH4oveRZb"
     },
     {
       "added_at": "2026-05-15 04:02:10",

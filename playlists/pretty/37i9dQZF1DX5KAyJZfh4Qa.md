@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 
 > it's just one of those days w/ Koyo
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,242 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,278 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 3 | [Paint](https://open.spotify.com/track/1PgnRBRr2UFLOpfJIahVkA) | [First Day Back](https://open.spotify.com/artist/7DgsNBbuNxmm5et9oYHJgx) | [Forward](https://open.spotify.com/album/7uwQKBi4LvJwNS8dlZHfbm) | 3:18 |
 | 4 | [what am i supposed to do?](https://open.spotify.com/track/49K9aXvXjETbOdcdZr6MDa) | [saturdays at your place](https://open.spotify.com/artist/69Kp4bE7aUWEPrmTwmhVZR) | [these things happen](https://open.spotify.com/album/3xiYqnYgX8053Tg4KR6h4P) | 2:45 |
 | 5 | [Kiss Me Now](https://open.spotify.com/track/40KgVtH6ANki7AN2Sj1rZD) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Kiss Me Now](https://open.spotify.com/album/3wZnJrvl1uyHtdccfokGnU) | 4:16 |
-| 6 | [footfalls](https://open.spotify.com/track/4aWl99tclfT8tXnNOUBv0t) | [my point of you](https://open.spotify.com/artist/2c0LDipXPL8jKgYwEIkkSx) | [This is my first heist](https://open.spotify.com/album/3b65zIiCsjVanZBvFwXTzZ) | 3:13 |
+| 6 | [Starchild](https://open.spotify.com/track/4mU5lCYnFfvBngGywNqQgo) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb) | 3:49 |
 | 7 | [Cold Blooded](https://open.spotify.com/track/6vb6dZnI78LNQpLIPXtSxE) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Blue Hour](https://open.spotify.com/album/1PEGf8YJnr7wSxkISJvkvf) | 3:21 |
 | 8 | [Dirty Mirror Selfie](https://open.spotify.com/track/0k51vsfx9ard3xN3dXyzQI) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Dirty Mirror Selfie / Where Blue Light Blooms](https://open.spotify.com/album/2l8tR5Q0mToBh2I2U6D0w4) | 3:37 |
-| 9 | [Starchild](https://open.spotify.com/track/4mU5lCYnFfvBngGywNqQgo) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3XLHijG8ZJaE8wyD9cIcCb) | 3:49 |
+| 9 | [footfalls](https://open.spotify.com/track/4aWl99tclfT8tXnNOUBv0t) | [my point of you](https://open.spotify.com/artist/2c0LDipXPL8jKgYwEIkkSx) | [This is my first heist](https://open.spotify.com/album/3b65zIiCsjVanZBvFwXTzZ) | 3:13 |
 | 10 | [maybe it's me](https://open.spotify.com/track/3IQ6lvRicxZpI3AhQaGPI5) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [analysis paralysis](https://open.spotify.com/album/2jzXbszHtup7moVaOEbjU4) | 3:38 |
 | 11 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
 | 12 | [Heaven In Hindsight](https://open.spotify.com/track/58ZaxRwuGg6FvFRjKNcKON) | [Car Underwater](https://open.spotify.com/artist/4l2d5QcDdawmA85SPn4GyF) | [Heaven In Hindsight](https://open.spotify.com/album/6Lo0aZIdatEu32w0BrfWJH) | 3:25 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 43 | [caffeine cops](https://open.spotify.com/track/6bfvJmIShenDFix2g37t1S) | [Khaki Cuffs](https://open.spotify.com/artist/3lTbmnZS3UoiK7124LWjba) | [khaki cuffs](https://open.spotify.com/album/17hObjjsOomFIBWnYNwYfb) | 2:47 |
 | 44 | [Dusty](https://open.spotify.com/track/6ixVpkrFvgd7EPVTLVXwwn) | [TRSH](https://open.spotify.com/artist/5Sc8WcS3n1oX5iSGlXD2j9) | [Dusty](https://open.spotify.com/album/0aQlTOObqjOaKo7FYopRi5) | 2:33 |
 | 45 | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/track/0tsDCPVmJHLFvai2blxIwv) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K), [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY), [Little Kruta](https://open.spotify.com/artist/4l8UYHbQb1jHjm7evMT1Oe) | [I Don't Like Who I Was Then \(feat\. Ryland Heagy of Origami Angel\)](https://open.spotify.com/album/7HU1L8d9pNdEC95LjjJUDP) | 3:53 |
-| 46 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 |
-| 47 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 |
+| 46 | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/track/6qEhqLzsiYzipyTdOR0YKe) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Taking Inventory Of A Frozen Lake](https://open.spotify.com/album/0UvHCTESDa8zKUFDIDsW8u) | 4:17 |
+| 47 | [little pieces](https://open.spotify.com/track/6edMmG3Ru1pfHSheSYVuha) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [the loneliest place i've ever been](https://open.spotify.com/album/48BSCKNHfBxveLMd2KtSSO) | 4:02 |
 | 48 | [Full Speed Ahead](https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy) | [Combat](https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx) | [Stay Golden](https://open.spotify.com/album/3eOka6weED6Atrxap8V15u) | 2:34 |
 | 49 | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/track/6SpavaUktNu788dew49p9U) | [Predisposed.](https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X) | [The Highway Signs Will Lead to Nothing](https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C) | 4:39 |
 | 50 | [One Day At A Time](https://open.spotify.com/track/4sOe8FOLNFEYrP3u4xEpsq) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [One Day At A Time](https://open.spotify.com/album/5oEivM3tC7p1dcF133azNT) | 3:13 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KAyJZfh4Qa.md) - [plain]
 | 63 | [Big\-Box Store Heart](https://open.spotify.com/track/1bsQdpUK4Br6sWYC08iRmZ) | [Prince Daddy & the Hyena](https://open.spotify.com/artist/3EYgeLZ0vtVHKkUL26Eu49) | [Big\-Box Store Heart](https://open.spotify.com/album/75mVfcdDcjhv79ZfZcc8MM) | 3:35 |
 | 64 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
 | 65 | [noitanitsarcorP](https://open.spotify.com/track/24U4cuI8vasIg7v3Ci6oEd) | [Algernon Cadwallader](https://open.spotify.com/artist/1BfYXNfaB5HBwHn4gxnEQE) | [Trying Not to Have a Thought](https://open.spotify.com/album/5Xds05MFFB6SRaLKfceXRM) | 4:09 |
-| 66 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
-| 67 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
+| 66 | [Stone](https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP) | [Clementine](https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c) | [Stone](https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK) | 3:34 |
+| 67 | [Sometimes Things Change](https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0) | [Swimming](https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa) | [That's OK](https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl) | 4:05 |
 | 68 | [I Can't Buy You Flowers](https://open.spotify.com/track/4LgPvTelc3Ic4Rt7XKENmi) | [Have Mercy](https://open.spotify.com/artist/2UvzehEVGcYTPKNwJSZ2kM) | [I Can't Buy You Flowers](https://open.spotify.com/album/30aNU2tE49KbrgCV0ZhpoD) | 3:24 |
 | 69 | [MC Hammered](https://open.spotify.com/track/6Dz3eXASv7SgydvUeJCErm) | [Smoke Detector](https://open.spotify.com/artist/2HBDXRQZZJyKINI8JUE1Ff) | [Needs Batterys](https://open.spotify.com/album/716jaC1Q5qyZQQFSCRhv9t) | 2:54 |
 | 70 | [This Is Teamwork!](https://open.spotify.com/track/6iUhqrBHx0ZgmKaCqsJqwY) | [Aren't We Amphibians](https://open.spotify.com/artist/2hTv2oTIcfByggCy3Mkzsy) | [This Is Teamwork!](https://open.spotify.com/album/3nXSKrQ2LlnZNz1T1dz91E) | 3:24 |

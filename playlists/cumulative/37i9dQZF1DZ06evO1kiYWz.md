@@ -4,7 +4,7 @@
 
 > This is Campo De Almas.\. The essential tracks, all in one playlist.
 
-82 songs - 5 hr 18 min
+83 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Después De La Lluvia](https://open.spotify.com/track/0PGn26byzGAOWa9aMH1BrW) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 2:09 | 2023-08-25 |  |
 | [Disnei](https://open.spotify.com/track/3HWakFXPrhNf8zSJzI77eN) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Tardes Frías De Verano](https://open.spotify.com/album/5tonPEAm8YKi7ApwHzmccb) | 4:10 | 2023-12-16 | 2026-09-02 |
 | [Ecos De La Noche](https://open.spotify.com/track/5AbeaaNXyUj2o9WciFfAxc) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 5:07 | 2023-08-25 |  |
+| [El Diablo](https://open.spotify.com/track/4B5ChxaCu7Y4zlKn4DEDnX) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 2:31 | 2026-09-25 |  |
 | [El Diablo \(En Vivo\)](https://open.spotify.com/track/5JsWKLiaYIc0A7qKpyFc4x) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [En Vivo Desde El Teatro Municipal De Lima](https://open.spotify.com/album/3QktAMyoTkWBnZHJziEZUP) | 2:43 | 2023-08-25 | 2026-04-25 |
 | [El Día Final](https://open.spotify.com/track/1XolDtkpqrqUg5qZPlaVpL) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Antología \(1994\-2007\)](https://open.spotify.com/album/0pprrIZyADjmqPU8iTNkhB) | 4:23 | 2023-08-25 |  |
 | [El Hombre Sin Nombre](https://open.spotify.com/track/3D0jQkIAwzPxQVrJS8jCC1) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 5:05 | 2025-11-09 |  |
@@ -71,7 +72,7 @@
 | [Prólogo](https://open.spotify.com/track/4flqyBEAga3H8rEXCtHX7v) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 1:03 | 2024-02-14 | 2026-06-12 |
 | [Revolución](https://open.spotify.com/track/060x38fqLXttYdxs5JvaZX) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 4:22 | 2024-03-22 | 2024-03-24 |
 | [Rompecorazones](https://open.spotify.com/track/2HLroJGUb5mrJARbS6DSTs) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Que No Te Falte Ni Gloria](https://open.spotify.com/album/75GZUDTiCgxduw8Yvmtrec) | 2:59 | 2025-06-26 | 2026-05-03 |
-| [Sin Acción](https://open.spotify.com/track/6gsa8v1oJE9GYFKA5EKq3Q) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 3:43 | 2025-03-17 |  |
+| [Sin Acción](https://open.spotify.com/track/6gsa8v1oJE9GYFKA5EKq3Q) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 3:43 | 2025-03-17 | 2026-09-25 |
 | [Sobre Ruedas](https://open.spotify.com/track/7DLSpgnuZIcAKH68jL26Yu) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [De Angeles Y Demás Demonios](https://open.spotify.com/album/1Z62BpeGNLSVl641yHpTnZ) | 3:39 | 2024-03-17 | 2024-12-19 |
 | [Soledad](https://open.spotify.com/track/3Ssagp8xrmFMnKogrLGtNn) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [El Olvido](https://open.spotify.com/album/2dUX8TcNTqu2q4PVvI65KM) | 4:50 | 2023-08-25 |  |
 | [Solo](https://open.spotify.com/track/1wHMJnzd9EmKK3kGD7Y8WV) | [Campo De Almas.](https://open.spotify.com/artist/2kdLC1HSTszF0mr5rH8vAf) | [Viaje En Espiral](https://open.spotify.com/album/6jfqDWtWGqA5swd1quBOGz) | 5:03 | 2025-06-02 |  |

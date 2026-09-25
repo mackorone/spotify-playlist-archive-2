@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline!
 
-418 songs - 23 hr 54 min
+419 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,7 +314,7 @@
 | [Pyro](https://open.spotify.com/track/5DTLWS56vrnEKtWjMQbW2C) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Pyro](https://open.spotify.com/album/0GEePO06fLMiXXIVQ7XkDc) | 4:12 | 2024-02-02 | 2024-02-24 |
 | [Pyrophobia](https://open.spotify.com/track/1NDRed3XRwwALqA3iBSUfP) | [Megra](https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok) | [1:M](https://open.spotify.com/album/6o7iVWHWsu0pfOZhJfrql5) | 3:08 | 2024-07-25 | 2024-08-31 |
 | [R U Sleeping](https://open.spotify.com/track/3UHVRGrDIFDjHUSddj4rfX) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [R U Sleeping](https://open.spotify.com/album/30kCQUL7TBvCNhX4tUKnnk) | 2:05 | 2026-04-23 |  |
-| [Ready or Not](https://open.spotify.com/track/6jFekvoFFMvTrJBnkexOBq) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Ready or Not](https://open.spotify.com/album/2qPsy8AHXFunq76NWCzeGf) | 2:05 | 2026-08-27 |  |
+| [Ready or Not](https://open.spotify.com/track/6jFekvoFFMvTrJBnkexOBq) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Ready or Not](https://open.spotify.com/album/2qPsy8AHXFunq76NWCzeGf) | 2:05 | 2026-08-27 | 2026-09-25 |
 | [Really Tight](https://open.spotify.com/track/7ujg8bHt60KQSH5LrKaX9L) | [Danny Dennett](https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ), [Sando](https://open.spotify.com/artist/152q8WNuDxIG0nQRKUE5u8) | [Really Tight](https://open.spotify.com/album/4evpx8ar7Xbug4dVplQEuZ) | 4:04 | 2022-05-20 | 2025-04-04 |
 | [Redlight](https://open.spotify.com/track/01Kbrkw0CyQv1f6BJ6EprF) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Redlight](https://open.spotify.com/album/6sYxW0BRWV06CQhMchiuHI) | 4:09 | 2023-04-04 | 2023-09-15 |
 | [Redlight](https://open.spotify.com/track/2vJ707HOqiCUmvuk2OsdDo) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Redlight](https://open.spotify.com/album/7CZx4YfWKTwCnSUpduSX0o) | 4:09 | 2022-07-14 | 2023-05-19 |
@@ -373,6 +373,7 @@
 | [Take No Chat](https://open.spotify.com/track/334iWl6T7Lpan1vtKhCaus) | [Bushbaby](https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C) | [Take No Chat](https://open.spotify.com/album/7tH3andBJgsnN90hfATsQp) | 3:34 | 2025-02-21 | 2026-07-11 |
 | [Talk That Talk](https://open.spotify.com/track/7goNyEd2JCqUkc402Z9VEL) | [HVRR](https://open.spotify.com/artist/3F3QWH7UilOE5tiKzAzgde), [Movada](https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp) | [Talk That Talk](https://open.spotify.com/album/44NN2OVBa6INT664H1B2PQ) | 2:19 | 2025-07-03 |  |
 | [Talk to Me Nice](https://open.spotify.com/track/5Szg2d8qKYke3PXmiW5jPF) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Hari & Sukhmani](https://open.spotify.com/artist/4hbKHVGQLndhi1Pa7gQNNj) | [Talk to Me Nice](https://open.spotify.com/album/7pj8cEsl1Na2QmndvovNMe) | 3:18 | 2023-12-22 | 2024-03-11 |
+| [Tell Me](https://open.spotify.com/track/6QPw48EJjPeLpAVqCMunGd) | [JKAY](https://open.spotify.com/artist/5FUk0Dg9iGOJHvf6oHECcO) | [Tell Me](https://open.spotify.com/album/29O0vTV2qSxnRcQJ1lBezT) | 1:58 | 2026-09-24 |  |
 | [That's My Shit](https://open.spotify.com/track/0V3mQisaCvNV2EOxn1N29C) | [Biicla](https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ) | [That's My Shit](https://open.spotify.com/album/15C7YUmMrXy00kJB4Rlp5V) | 1:55 | 2023-12-22 | 2024-09-13 |
 | [The Feeling](https://open.spotify.com/track/1O6etlhQyBRj72rNJYhZye) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry) | [The Feeling](https://open.spotify.com/album/0Dp87gJ8DtX815dX4JqdY5) | 4:59 | 2022-04-15 | 2022-07-14 |
 | [The Grind](https://open.spotify.com/track/67Uex8KnYkPmE5lamgKNR7) | [Duckworthsound](https://open.spotify.com/artist/3swJXxJ2hVoZoHZVj855A0), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [Duckplates](https://open.spotify.com/artist/579dZYX6XzHaxmk2oGdUwu) | [The Grind](https://open.spotify.com/album/3RgbT5ZV3F1lhCPfiOuPo2) | 3:45 | 2024-11-14 | 2025-01-31 |

@@ -1,6 +1,6 @@
 {
   "description": "indie tunes to make you shine (\u273f\u25e0\u203f\u25e0)",
-  "num_followers": 431607,
+  "num_followers": 431602,
   "original_name": "indie feliz",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
+        "name": "Pelo Negro",
+        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
+      },
+      "artists": [
+        {
+          "name": "Jos Canela",
+          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Pelo Negro",
+      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
         "name": "Santo Domingo",
         "url": "https://open.spotify.com/album/7MHtcxNInflrOkle3BVSSI"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 155675,
       "name": "Todo Lamento",
       "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
-        "name": "Pelo Negro",
-        "url": "https://open.spotify.com/album/4SOHXDDVZCwBdnMOnuhPUD"
-      },
-      "artists": [
-        {
-          "name": "Jos Canela",
-          "url": "https://open.spotify.com/artist/7KBNdHhiXF0KWCOjEAIBie"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Pelo Negro",
-      "url": "https://open.spotify.com/track/75VogSe1jiacHYuhJDPc9g"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
-      },
-      "artists": [
-        {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
-        }
-      ],
-      "duration_ms": 182760,
-      "name": "Pasatiempo",
-      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Personita Buena (CLUBZ Remix)",
         "url": "https://open.spotify.com/album/34Pb7ScJyBVS4SWbwSxFyA"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 188571,
       "name": "Personita Buena - CLUBZ Remix",
       "url": "https://open.spotify.com/track/7EXx0bIOSyM0iVABq82jrw"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+      },
+      "artists": [
+        {
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+        }
+      ],
+      "duration_ms": 182760,
+      "name": "Pasatiempo",
+      "url": "https://open.spotify.com/track/5Zc09qHPIIo4vJkYeCfixc"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "Quemar La Casa",
-        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
-      },
-      "artists": [
-        {
-          "name": "Giorgio Siladi",
-          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
-        }
-      ],
-      "duration_ms": 243356,
-      "name": "Sexy",
-      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
         "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 167753,
       "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
       "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "Quemar La Casa",
+        "url": "https://open.spotify.com/album/0BjsgknELVeYJdN3u85EYE"
+      },
+      "artists": [
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "duration_ms": 243356,
+      "name": "Sexy",
+      "url": "https://open.spotify.com/track/5HXPMDJdaLo2UY1HL6ybnf"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "OTRA COSA MARIPOSA",
-        "url": "https://open.spotify.com/album/5WbuT5XstCjeeZTz4eUWki"
+        "name": "Otros Ritmos",
+        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
       },
       "artists": [
         {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         }
       ],
-      "duration_ms": 163333,
-      "name": "OTRA COSA MARIPOSA",
-      "url": "https://open.spotify.com/track/4bEt3v7NRisM84YVfzgdyy"
+      "duration_ms": 222115,
+      "name": "Otros Ritmos",
+      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "Otros Ritmos",
-        "url": "https://open.spotify.com/album/04s9wRdnHcOxBsz2swbiNc"
+        "name": "OTRA COSA MARIPOSA",
+        "url": "https://open.spotify.com/album/5WbuT5XstCjeeZTz4eUWki"
       },
       "artists": [
         {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
         }
       ],
-      "duration_ms": 222115,
-      "name": "Otros Ritmos",
-      "url": "https://open.spotify.com/track/090MzGykdRx3XjeQAuUOlE"
+      "duration_ms": 163333,
+      "name": "OTRA COSA MARIPOSA",
+      "url": "https://open.spotify.com/track/4bEt3v7NRisM84YVfzgdyy"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
+        "name": "Un Rayo de Luz",
+        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 222991,
+      "name": "Un Rayo de Luz",
+      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 178285,
       "name": "Fugaz",
       "url": "https://open.spotify.com/track/6xyyEGR8dSPYwxFvRzRt3A"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
-        "name": "Un Rayo de Luz",
-        "url": "https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 222991,
-      "name": "Un Rayo de Luz",
-      "url": "https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK"
     },
     {
       "added_at": "2026-08-21 04:01:56",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-08-21 04:01:56",
       "album": {
-        "name": "donjulio",
-        "url": "https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6"
-      },
-      "artists": [
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        }
-      ],
-      "duration_ms": 160695,
-      "name": "donjulio",
-      "url": "https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1"
-    },
-    {
-      "added_at": "2026-08-21 04:01:56",
-      "album": {
         "name": "Todo Pasa",
         "url": "https://open.spotify.com/album/7hahBXkyUgf3A3JwBYU1CR"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 158211,
       "name": "Todo Pasa",
       "url": "https://open.spotify.com/track/4rOspeyPrz4ayP4WsnXmpu"
+    },
+    {
+      "added_at": "2026-08-21 04:01:56",
+      "album": {
+        "name": "donjulio",
+        "url": "https://open.spotify.com/album/0ErQsoGFidaUIXmX5eOkJ6"
+      },
+      "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        }
+      ],
+      "duration_ms": 160695,
+      "name": "donjulio",
+      "url": "https://open.spotify.com/track/31w5L4yW2an3IlelD1htJ1"
     },
     {
       "added_at": "2026-08-21 04:01:56",

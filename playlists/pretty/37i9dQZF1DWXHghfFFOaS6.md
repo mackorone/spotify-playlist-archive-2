@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 392,449 likes - 90 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 392,499 likes - 90 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 14 | [Dreaming About You](https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4) | [The Blackbyrds](https://open.spotify.com/artist/7uykqYYhDUugFJgKZWXIWq) | [Action](https://open.spotify.com/album/6LhMkSPNs1AVrAjdrJue98) | 5:52 |
 | 15 | [Funkin' for Jamaica](https://open.spotify.com/track/55xXj4qc4ByMxcVRb5Slc4) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Love Approach \(Bonus Track\)](https://open.spotify.com/album/7MKr7uOdenxSKTk0RCZ0mP) | 4:42 |
 | 16 | [Dog It](https://open.spotify.com/track/6Mbm86B4joMLyCncLCESCG) | [Digable Planets](https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ) | [Blowout Comb](https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt) | 4:20 |
-| 17 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
-| 18 | [I'll Stay](https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 7:50 |
+| 17 | [I'll Stay](https://open.spotify.com/track/6CAYXIhkBARYmy7kVNDIOi) | [The RH Factor](https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr), [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Hard Groove](https://open.spotify.com/album/7ocjymC4B0S00K0BZ71M9X) | 7:50 |
+| 18 | [I Juswanna Chill](https://open.spotify.com/track/3ipzZgH1766XXRamVwk1Iw) | [Large Professor](https://open.spotify.com/artist/01nVIuD8YZsnFH6x6Cc9rX) | [The LP](https://open.spotify.com/album/7hzM3Sa8BoCKrNqrKJqyz1) | 3:28 |
 | 19 | [Where Are We Going?](https://open.spotify.com/track/3E26XqV2an7iMYoEcUVdj4) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Blackbyrd](https://open.spotify.com/album/0j5Nx6IeRw3H5gohShC0qZ) | 4:37 |
 | 20 | [Let It Flow \(For "DR\. J"\)](https://open.spotify.com/track/6jY7UcNWda03nyJ5XiqlYt) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Winelight](https://open.spotify.com/album/50gtvo0hufJj06ipbOjAiU) | 5:50 |
 | 21 | [Whenimondamic](https://open.spotify.com/track/1zAFB2woHMnip3O0WJJA41) | [Lootpack](https://open.spotify.com/artist/2D0NqDyt2R9RVar9MNs8kP) | [Soundpieces: Da Antidote](https://open.spotify.com/album/7qK8lMl95Xc1nlMSH5Z2RC) | 2:45 |
@@ -88,15 +88,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 78 | [Playing my piano](https://open.spotify.com/track/5lri4wmusuBlpOQWENexUK) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Playing my piano](https://open.spotify.com/album/5QxvuQDhcKIJiQkwDFXfHV) | 6:21 |
 | 79 | [Peer Pressure](https://open.spotify.com/track/1FMGZE4pWo49VXyKeFeO5o) | [The Whole Thing](https://open.spotify.com/artist/6329ULqnLbRWcDIPaVPEmM) | [The Whole Thing](https://open.spotify.com/album/1hNqQgyUpZvDu9lDEi9Yzc) | 3:48 |
 | 80 | [Take Four](https://open.spotify.com/track/1kHc8mFnI7IkSf9Hi0c3UM) | [The Quiet Boys](https://open.spotify.com/artist/6iYeCjvRYeWPSp5LjaiIMt) | [Bosh!](https://open.spotify.com/album/2HbZzv8puv4OrDL90MluOh) | 3:33 |
-| 81 | [The Way We Go](https://open.spotify.com/track/2iruUpQD0YhqePMyyzhaaU) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As), [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [SUN](https://open.spotify.com/album/4dGbaUWD9WShXQNtbaohs5) | 3:50 |
-| 82 | [Bring It On](https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Bring It On](https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1) | 4:20 |
+| 81 | [Bring It On](https://open.spotify.com/track/5oz5BN9nXXRrepQPDDb8pO) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [Bring It On](https://open.spotify.com/album/5kXQHuKM8aN4JuUXSZLup1) | 4:20 |
+| 82 | [The Way We Go](https://open.spotify.com/track/2iruUpQD0YhqePMyyzhaaU) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As), [Cap1talA](https://open.spotify.com/artist/0s3JtIl5TIWbFD08yesQdW) | [SUN](https://open.spotify.com/album/4dGbaUWD9WShXQNtbaohs5) | 3:50 |
 | 83 | [The Sun \)](https://open.spotify.com/track/6zQjXYLv8zx0FWezhp6yoo) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw), [Elson Nascimento \(of Sun Ra Arkestra\)](https://open.spotify.com/artist/0jHhgu1WcbzXfcTwyipyKn) | [The Sun \)](https://open.spotify.com/album/0c7qsiBET91icyneq7KccE) | 2:56 |
 | 84 | [Night & Day](https://open.spotify.com/track/2UfOOwLr8zhdLAAhE6IIo6) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [DJ Serafin](https://open.spotify.com/artist/43GvgXUcA9XHbVyvjJiAke) | [Night & Day](https://open.spotify.com/album/0sTb6or2R8hpdFojnV3Xaa) | 2:57 |
 | 85 | [Silver Rings](https://open.spotify.com/track/6eAlHHW5bf9duOMJP4SFTA) | [New Street Adventure](https://open.spotify.com/artist/6JEgSTui49GrTS57INox42), [Nick Corbin](https://open.spotify.com/artist/7DGzcNoNqaCLgCLhldp2jg) | [Silver Rings](https://open.spotify.com/album/2VPyx8rjYtmF0wVDDBGVbl) | 2:58 |
 | 86 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
-| 87 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
-| 88 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
-| 89 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
+| 87 | [Mellow My Man](https://open.spotify.com/track/7v7tFiNePGwLOrB2tAW3kg) | [The Roots](https://open.spotify.com/artist/78xUyw6FkVZrRAtziFdtdu) | [Do You Want More?!!!??!](https://open.spotify.com/album/3N0wHnD5Rd8jnTUvNqOXGz) | 4:41 |
+| 88 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
+| 89 | [Prince Of Peace](https://open.spotify.com/track/0bzncFV24esz0QZOo4r1ss) | [Galliano](https://open.spotify.com/artist/5wCNzQ86Wfer6KdOxaPlQG) | [A Joyful Noise Unto The Creator](https://open.spotify.com/album/3S0vU5XVBVYhsreP21AW8j) | 5:55 |
 | 90 | [Water No Get Enemy \- Edit](https://open.spotify.com/track/43ile6cBzr9uaC4bJf6J3N) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Best of The Black President](https://open.spotify.com/album/7325GfKum2hDK231i3LqA7) | 9:51 |
 
 Snapshot ID: `AAAAACP1HlsCscGEksBj2C2Mj6uOX+wJ`

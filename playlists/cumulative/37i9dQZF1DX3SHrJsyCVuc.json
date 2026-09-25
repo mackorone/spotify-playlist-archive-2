@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "1+1+1",
+        "url": "https://open.spotify.com/album/1TNi8B4kLbNAwnXmjK8NDM"
+      },
+      "artists": [
+        {
+          "name": "Boys Noize",
+          "url": "https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv"
+        },
+        {
+          "name": "ZEP",
+          "url": "https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176958,
+      "name": "1+1+1",
+      "url": "https://open.spotify.com/track/5HH66Sx5PCkl4xw8TwZq3g"
+    },
+    {
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/3oDLqXsWNKfA6zeqz3wMKA"
       },
@@ -580,6 +602,24 @@
       "duration_ms": 182039,
       "name": "Bug",
       "url": "https://open.spotify.com/track/0MXmiqd7zoXxv6Gqn9ahhQ"
+    },
+    {
+      "album": {
+        "name": "Bunny",
+        "url": "https://open.spotify.com/album/4mfVL4HFXerm8dfQKDmK76"
+      },
+      "artists": [
+        {
+          "name": "Half/Angel",
+          "url": "https://open.spotify.com/artist/37vKRv7TfLattsUjatE4Sx"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233923,
+      "name": "Bunny",
+      "url": "https://open.spotify.com/track/7gey52oeBPQdZvvycxijaY"
     },
     {
       "album": {
@@ -1702,7 +1742,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 202473,
       "name": "Grass",
       "url": "https://open.spotify.com/track/0tFcODWgqlJhnOaRSbZ8S3"
@@ -1836,7 +1876,7 @@
       ],
       "date_added": "2026-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 237956,
       "name": "Heresy - Nine Inch Noize Version",
       "url": "https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV"
@@ -1894,6 +1934,24 @@
       "duration_ms": 214304,
       "name": "I Know!",
       "url": "https://open.spotify.com/track/3q2YKTA1K0GrFVoBFMoN5t"
+    },
+    {
+      "album": {
+        "name": "I Need Care Credit",
+        "url": "https://open.spotify.com/album/1BDluPb7CK3vYAkPcyt3Bn"
+      },
+      "artists": [
+        {
+          "name": "Talon",
+          "url": "https://open.spotify.com/artist/3QBo4tlekZDVCgtpMwQA64"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241416,
+      "name": "I Need Care Credit",
+      "url": "https://open.spotify.com/track/27WO5P64ZqYYWQoqZyn0Jl"
     },
     {
       "album": {
@@ -2100,6 +2158,24 @@
       "duration_ms": 126976,
       "name": "James Bay's Hat",
       "url": "https://open.spotify.com/track/7pBHLxLuo0epUw53Wij0Pq"
+    },
+    {
+      "album": {
+        "name": "Jesus Christ Supercar",
+        "url": "https://open.spotify.com/album/1t7pDkyqZMXQbbqrRlE20g"
+      },
+      "artists": [
+        {
+          "name": "Adult DVD",
+          "url": "https://open.spotify.com/artist/1lT3vDbjqz299SxePec6ZG"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162618,
+      "name": "Jesus Christ Supercar",
+      "url": "https://open.spotify.com/track/5jQdctIdc8d1Fc90Rf28zQ"
     },
     {
       "album": {
@@ -2460,7 +2536,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160000,
       "name": "love lost",
       "url": "https://open.spotify.com/track/5WiDiuf9W9XVBb2YuB3ioc"
@@ -2496,7 +2572,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 216208,
       "name": "Lunch Money",
       "url": "https://open.spotify.com/track/4JZGQcEMSJq4U0j438uNds"
@@ -4029,6 +4105,24 @@
     },
     {
       "album": {
+        "name": "Sprinkler",
+        "url": "https://open.spotify.com/album/6bOxKtlEuxsqUU91RZeVGe"
+      },
+      "artists": [
+        {
+          "name": "The Genevieves",
+          "url": "https://open.spotify.com/artist/0OZboGse6PkB47XXWqfPzm"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207253,
+      "name": "Sprinkler",
+      "url": "https://open.spotify.com/track/1VP90IeNBq6gGOTntOrS08"
+    },
+    {
+      "album": {
         "name": "Squeeze Down",
         "url": "https://open.spotify.com/album/31tSVDf3il4MdNbNT3hDws"
       },
@@ -4232,6 +4326,28 @@
       "duration_ms": 197385,
       "name": "Swamped",
       "url": "https://open.spotify.com/track/18m8UwkEJvXk7EQEv4q4sD"
+    },
+    {
+      "album": {
+        "name": "Swerve",
+        "url": "https://open.spotify.com/album/2i5MX44aOjVCRivYtb74xV"
+      },
+      "artists": [
+        {
+          "name": "trentem\u00f8ller",
+          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
+        },
+        {
+          "name": "Sakura",
+          "url": "https://open.spotify.com/artist/3lZQq9C8VzgwrQDnw7GZWT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191624,
+      "name": "Swerve",
+      "url": "https://open.spotify.com/track/5xE056TAoi781BlxrmIQiU"
     },
     {
       "album": {
@@ -4711,6 +4827,24 @@
     },
     {
       "album": {
+        "name": "Nobody's Coming To Save You",
+        "url": "https://open.spotify.com/album/0Fbl6tfN7XDyNutXNI3nlD"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180232,
+      "name": "Waiting For Fisher",
+      "url": "https://open.spotify.com/track/1i6RUTWpIoXKTdhcU1upVf"
+    },
+    {
+      "album": {
         "name": "want someone",
         "url": "https://open.spotify.com/album/6sHptB5hwfGcHfTk2x9I4d"
       },
@@ -4812,7 +4946,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 264344,
       "name": "WHITE NOISE",
       "url": "https://open.spotify.com/track/74XCDJHLBDWNyKCVkoRktY"
@@ -4848,7 +4982,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 153416,
       "name": "Wreckage",
       "url": "https://open.spotify.com/track/4aCbdFRL1BWBRNYHNmVtWD"
@@ -4866,7 +5000,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 304679,
       "name": "YES, I AM AN ANIMAL",
       "url": "https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl"

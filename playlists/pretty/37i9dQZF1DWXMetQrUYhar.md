@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,321 likes - 125 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,322 likes - 125 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 105 | [Bike Dream \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4RG0sBO0bb7Ddkdg8rF2vE) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Spotify Singles](https://open.spotify.com/album/2awjquCIUPcDdcWaBWcEnY) | 3:57 |
 | 106 | [Blanket Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4bMHWD1vEnq76Ro208gZHd) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Spotify Singles](https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb) | 5:03 |
 | 107 | [Softly \- Spotify Singles](https://open.spotify.com/track/3GiuX3xcyLwFMoTqbyyO8q) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Spotify Singles](https://open.spotify.com/album/3M6qytuwCR4nljI0by2bwR) | 3:32 |
-| 108 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 |
-| 109 | [La Tirana \- Spotify Singles](https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:12 |
+| 108 | [La Tirana \- Spotify Singles](https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [Spotify Singles](https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS) | 3:12 |
+| 109 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 |
 | 110 | [Fire Escape \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Spotify Singles](https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur) | 3:33 |
 | 111 | [Alemania \- Spotify Singles \(Blackpaw Remix\)](https://open.spotify.com/track/3MeqHGb5MAPTADUJn1FXWR) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb), [BLACKPAW](https://open.spotify.com/artist/4IFNzQJipsXR5H93fhT467) | [Spotify Singles](https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e) | 4:10 |
 | 112 | [Genghis Khan \- Jim Eno Sessions](https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Spotify Sessions](https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv) | 3:19 |

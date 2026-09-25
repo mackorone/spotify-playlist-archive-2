@@ -1,6 +1,6 @@
 {
   "description": "Tierra linda que siempre sue\u00f1o, y que muy dentro llevo. Ciudad de Monterrey \u2665\ufe0f",
-  "num_followers": 177766,
+  "num_followers": 177822,
   "original_name": "Coraz\u00f3n Regio ",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "Soy As\u00ed",
+        "url": "https://open.spotify.com/album/1O50KpV6dUvOLMhnmzdLU3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Limite",
+          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Ay! Papacito",
+      "url": "https://open.spotify.com/track/3DCtZsugr1hf5YNvykBn7j"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 243933,
       "name": "Insensible A Ti (Me Pone A Mil)",
       "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "Soy As\u00ed",
-        "url": "https://open.spotify.com/album/1O50KpV6dUvOLMhnmzdLU3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Limite",
-          "url": "https://open.spotify.com/artist/2qWNYueLfc979iEdLOIK2C"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Ay! Papacito",
-      "url": "https://open.spotify.com/track/3DCtZsugr1hf5YNvykBn7j"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Pistoleros Famosos",
-        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 159786,
-      "name": "Pistoleros Famosos",
-      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Soy HUMBE",
         "url": "https://open.spotify.com/album/6L7RJ9Mkocxwgm549ROLjD"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 178327,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/099s1FOMj4MzzcEKn5UTzR"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Pistoleros Famosos",
+        "url": "https://open.spotify.com/album/1nJzOScwb2SsJtemleHGrI"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 159786,
+      "name": "Pistoleros Famosos",
+      "url": "https://open.spotify.com/track/1p14xNSMBasfxLqTBn7k6L"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "El Desorden",
-        "url": "https://open.spotify.com/album/07XhIDBf3asLUakoprXiek"
-      },
-      "artists": [
-        {
-          "name": "De Parranda",
-          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
-        }
-      ],
-      "duration_ms": 234944,
-      "name": "El Desorden",
-      "url": "https://open.spotify.com/track/5wTJR7wThGAXecobfYhytr"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Barrio Bravo",
         "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 213613,
       "name": "Aunque no sea conmigo (feat. Caf\u00e9 Tacvba)",
       "url": "https://open.spotify.com/track/199gJ6b1aihvmEqdQZr0qT"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "El Desorden",
+        "url": "https://open.spotify.com/album/07XhIDBf3asLUakoprXiek"
+      },
+      "artists": [
+        {
+          "name": "De Parranda",
+          "url": "https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi"
+        }
+      ],
+      "duration_ms": 234944,
+      "name": "El Desorden",
+      "url": "https://open.spotify.com/track/5wTJR7wThGAXecobfYhytr"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Pante\u00f3n Rococ\u00f3",
-        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 180826,
-      "name": "Ac\u00e1bame de Matar",
-      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Algo en ti",
         "url": "https://open.spotify.com/album/3oZu2VPa8zKrrcWk6VXTqi"
       },
@@ -1119,8 +1103,24 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Bot\u00e1nica",
-        "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
+        "name": "Pante\u00f3n Rococ\u00f3",
+        "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 180826,
+      "name": "Ac\u00e1bame de Matar",
+      "url": "https://open.spotify.com/track/5VXLuJ4E1FqtAAWLvnpMzV"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "ROY",
+        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 206400,
-      "name": "\u00c1rbol De Manzanas",
-      "url": "https://open.spotify.com/track/6H5UMkAnweqb4cKIsAzUh9"
+      "duration_ms": 186769,
+      "name": "El Tiempo Que Necesites",
+      "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1199,8 +1199,8 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "ROY",
-        "url": "https://open.spotify.com/album/5Y3U9m4IX1RYja8CpUibj8"
+        "name": "Bot\u00e1nica",
+        "url": "https://open.spotify.com/album/7CJUClevHJax0MGYdpXwPc"
       },
       "artists": [
         {
@@ -1208,9 +1208,9 @@
           "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
         }
       ],
-      "duration_ms": 186769,
-      "name": "El Tiempo Que Necesites",
-      "url": "https://open.spotify.com/track/3BqIGyhQL2wMCm7ySVc633"
+      "duration_ms": 206400,
+      "name": "\u00c1rbol De Manzanas",
+      "url": "https://open.spotify.com/track/6H5UMkAnweqb4cKIsAzUh9"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Contrabando Y Traici\u00f3n (From \"Camelia La Texana\")",
-        "url": "https://open.spotify.com/album/2JAWdBuZ6XQzM6gC8e9Fza"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Contrabando Y Traici\u00f3n",
-      "url": "https://open.spotify.com/track/4ywFED25vV4cgi3cqPSNFg"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Ser Como T\u00fa",
         "url": "https://open.spotify.com/album/6wDGjaHs0dLNcF31n25LZo"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 183400,
       "name": "En Tu Basura",
       "url": "https://open.spotify.com/track/0hA8FSVXGdkCcT6T1OtA3f"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Contrabando Y Traici\u00f3n (From \"Camelia La Texana\")",
+        "url": "https://open.spotify.com/album/2JAWdBuZ6XQzM6gC8e9Fza"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Contrabando Y Traici\u00f3n",
+      "url": "https://open.spotify.com/track/4ywFED25vV4cgi3cqPSNFg"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
-        "name": "Cumbia Del Lazo",
-        "url": "https://open.spotify.com/album/1UqSxzsjl9uZg1xVoBLwLR"
-      },
-      "artists": [
-        {
-          "name": "J.L.B. Y C\u00eda",
-          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
-        }
-      ],
-      "duration_ms": 158720,
-      "name": "La Cumbia Del Lazo",
-      "url": "https://open.spotify.com/track/3gRpzfNEhcDuL2UXgTbkVu"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
         "name": "Aqui Esta",
         "url": "https://open.spotify.com/album/6jfyXseqlu9UypEkn7M4RM"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 253022,
       "name": "So\u00f1ador",
       "url": "https://open.spotify.com/track/5RzWVF7MJ0qQE0de4nMdjg"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
+        "name": "Cumbia Del Lazo",
+        "url": "https://open.spotify.com/album/1UqSxzsjl9uZg1xVoBLwLR"
+      },
+      "artists": [
+        {
+          "name": "J.L.B. Y C\u00eda",
+          "url": "https://open.spotify.com/artist/4gWJIHAOL5ALjx8k4Ptz0R"
+        }
+      ],
+      "duration_ms": 158720,
+      "name": "La Cumbia Del Lazo",
+      "url": "https://open.spotify.com/track/3gRpzfNEhcDuL2UXgTbkVu"
     },
     {
       "added_at": "2026-06-08 18:17:51",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2026-06-08 18:17:51",
       "album": {
+        "name": "La Torcida",
+        "url": "https://open.spotify.com/album/57BeeRdXBw4fyXQY7zREZo"
+      },
+      "artists": [
+        {
+          "name": "Regio Cumbiero",
+          "url": "https://open.spotify.com/artist/59jFbMnPvm9yO67bzIgShL"
+        }
+      ],
+      "duration_ms": 295601,
+      "name": "La Torcida",
+      "url": "https://open.spotify.com/track/5Tv05AFXTYDFmF6d1SNTph"
+    },
+    {
+      "added_at": "2026-06-08 18:17:51",
+      "album": {
         "name": "Con Sentimiento",
         "url": "https://open.spotify.com/album/38FYK480qNEhsL3hY71Qqu"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 229133,
       "name": "Pinche Stereo Band",
       "url": "https://open.spotify.com/track/2ZatwN31dBpci9aSLNZkKC"
-    },
-    {
-      "added_at": "2026-06-08 18:17:51",
-      "album": {
-        "name": "La Torcida",
-        "url": "https://open.spotify.com/album/57BeeRdXBw4fyXQY7zREZo"
-      },
-      "artists": [
-        {
-          "name": "Regio Cumbiero",
-          "url": "https://open.spotify.com/artist/59jFbMnPvm9yO67bzIgShL"
-        }
-      ],
-      "duration_ms": 295601,
-      "name": "La Torcida",
-      "url": "https://open.spotify.com/track/5Tv05AFXTYDFmF6d1SNTph"
     },
     {
       "added_at": "2026-06-08 18:17:51",

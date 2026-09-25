@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 
 > El nuevo sonido de la canción sudamericana de la mano de Rosario Alfonso y San Pedro Bonfim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,667 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,673 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZBTN7DNk66y.md) - [plain]
 | 81 | [¡Juegue!](https://open.spotify.com/track/1oZT85apwCX0CBsDnKE88S) | [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Poética Bailable Vol\. 1](https://open.spotify.com/album/0WX90YTp6QsEVOHG5Qij3e) | 3:05 |
 | 82 | [Color De Flor](https://open.spotify.com/track/3SWsYftDA7zerCj6MXgN1f) | [Eduardo Castro](https://open.spotify.com/artist/1uBdSvIwuEaiGnwhmqp9An), [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Color De Flor](https://open.spotify.com/album/1dwjMu59OWGbhF4UNfBKnF) | 4:33 |
 | 83 | [Ahora](https://open.spotify.com/track/6E2AxABlhC0dR1qHM550wU) | [Valen Bonetto](https://open.spotify.com/artist/7vPbPjEVJEWQ63omiimVpd), [Brenda Martin](https://open.spotify.com/artist/54NJYwYXv1Y6HoIW5MxdqI) | [OTRX](https://open.spotify.com/album/5CM33ITU9p94NVDDMEMLAh) | 3:36 |
-| 84 | [Los Ancestros](https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Los Ancestros](https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24) | 4:10 |
-| 85 | [Empezá](https://open.spotify.com/track/5IeeKP9RuykyaPwK3dAL0H) | [Martina Pérez Cabrera](https://open.spotify.com/artist/7pUWJxIzYbGScodFyWco4d), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jerónimo Verdún](https://open.spotify.com/artist/3TmRLOd6WcO1FcYVEuHmoR) | [Empezá](https://open.spotify.com/album/4UiDQjquvgXAKNNceTZldp) | 3:19 |
+| 84 | [Empezá](https://open.spotify.com/track/5IeeKP9RuykyaPwK3dAL0H) | [Martina Pérez Cabrera](https://open.spotify.com/artist/7pUWJxIzYbGScodFyWco4d), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jerónimo Verdún](https://open.spotify.com/artist/3TmRLOd6WcO1FcYVEuHmoR) | [Empezá](https://open.spotify.com/album/4UiDQjquvgXAKNNceTZldp) | 3:19 |
+| 85 | [Los Ancestros](https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Los Ancestros](https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24) | 4:10 |
 | 86 | [El rey del yuyal](https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym) | [Pensé que era viernes](https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1) | [El rey del yuyal](https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk) | 2:54 |
 | 87 | [Sexo y Sushi](https://open.spotify.com/track/1mqRD9uR38rWpCUtg8jf7W) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Niño Etc.](https://open.spotify.com/artist/4AjkGn28sERGr75M5kcvqn) | [Sexo y Sushi](https://open.spotify.com/album/6KkeJ1xofRxxvVkTpuG1hu) | 2:52 |
 | 88 | [El Sol Está Mojado](https://open.spotify.com/track/0S5X7mezP843brjI9SfQr2) | [Inés Errandonea](https://open.spotify.com/artist/40NRwJQe7AYuOLWWea6IZk), [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u) | [El Sol Está Mojado](https://open.spotify.com/album/4qIKaK2QH6RHfRdTItl4zY) | 4:15 |

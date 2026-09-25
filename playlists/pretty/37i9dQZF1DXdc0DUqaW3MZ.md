@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > where future beats meet timeless soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,768 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,786 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 67 | [Tomás](https://open.spotify.com/track/0DYtqHz0Rav6PyIWbS1gFa) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Tomás](https://open.spotify.com/album/19BB8M6tNxHMOUWKbxBL0c) | 3:02 |
 | 68 | [Naked](https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Naked](https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy) | 3:38 |
 | 69 | [Ching](https://open.spotify.com/track/2R3HS8kEKMtYpoXxwuqHlK) | [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Ching](https://open.spotify.com/album/3yi0ROeSX8rwuWMkH9tkGa) | 1:58 |
-| 70 | [WHODIS](https://open.spotify.com/track/4yv2tvrIDRiIwNG0G8eVzr) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [WHODIS](https://open.spotify.com/album/3JpVOhwlOGS1XZzzJquq4L) | 2:13 |
+| 70 | [Nana](https://open.spotify.com/track/2Zf5Tel7LDpaOdi1A68TLI) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Unwnd](https://open.spotify.com/artist/7CZtZueTYIQSbFf6uq5Epx), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0) | [Nothing To Lose \(Deluxe Edition\)](https://open.spotify.com/album/3kYFy7Ng3Ng6wa3pb7D8W4) | 6:57 |
 
 Snapshot ID: `AAAAALXo2+G+XZGxrv/EJdScuXpQWhWP`

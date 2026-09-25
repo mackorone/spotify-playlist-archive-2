@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 
 > DMV music breaking waves\. Curated: <a href="spotify:artist:4Ge9GwmWnOQsohwPTrXyHc">Gordo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,075 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,084 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlm4v5v5Qw.md) - [plain]
 | 28 | [It's Up \(feat\. Young Thug & 21 Savage\)](https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 4:38 |
 | 29 | [Circadian Rhythm](https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [100 GIGS](https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII) | 2:06 |
 | 30 | [one of wun](https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [One of Wun](https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN) | 2:24 |
-| 31 | [Levels](https://open.spotify.com/track/6vOeokRJNZjouabFGDLH1C) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 2:37 |
+| 31 | [Thick](https://open.spotify.com/track/6vOeokRJNZjouabFGDLH1C) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7), [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [AMAR](https://open.spotify.com/album/7edOMLcHlhP4Y1b6tzJbn4) | 3:16 |
 | 32 | [Bonnie & Clyde](https://open.spotify.com/track/3zls854dRathxLF4aoMJm2) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU) | [Me & Mine, Pt\. 1](https://open.spotify.com/album/32IMKd48Sp6pe9sW473ono) | 3:18 |
 | 33 | [1800\-Cal\-Trel](https://open.spotify.com/track/7KhlQdwVwB5pxfC5ak2jL8) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd) | [1800\-Cal\-Trel](https://open.spotify.com/album/1qFZe3N4Mor7AVObd3Cphz) | 3:02 |
 | 34 | [Digits](https://open.spotify.com/track/4cg1yakyRSIOjxKM2I7J1q) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime Season 3](https://open.spotify.com/album/2z4c8M8aVzl7CTobIp36KF) | 2:56 |

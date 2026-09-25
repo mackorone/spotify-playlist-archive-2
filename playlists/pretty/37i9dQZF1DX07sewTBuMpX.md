@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 
 > De beste tunes op repeat\. Cover: Langa
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,771 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,780 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 | 5 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 |
 | 6 | [Brassen](https://open.spotify.com/track/72yHK7rmosQlWOcrhJ27w9) | [OYSTER](https://open.spotify.com/artist/5vxYgsUqkYuqL5nLzwnKsk) | [Ereronde \(Deluxe\)](https://open.spotify.com/album/4EnUKKxdXG5fcAYee26gta) | 2:23 |
 | 7 | [Gata Only \(Remix\)](https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Gata Only \(Remix\)](https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu) | 3:50 |
-| 8 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
-| 9 | [VIVE LA MONNAIE](https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [VIVE LA MONNAIE](https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An) | 3:04 |
+| 8 | [VIVE LA MONNAIE](https://open.spotify.com/track/1wNmBZcYBdIf3Dp6P96Vn8) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [VIVE LA MONNAIE](https://open.spotify.com/album/07S8hnczxCG1wvNMjbq8An) | 3:04 |
+| 9 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 |
 | 10 | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/track/2WigMwGJysIh9fRnSJvpjn) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KU LO SA \- A COLORS SHOW](https://open.spotify.com/album/36bNKiiUjxUCaAO7QtUVfi) | 2:27 |
 | 11 | [Take My Mind](https://open.spotify.com/track/3bB97PIqXf7WtkKeuYuXFS) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Take My Mind](https://open.spotify.com/album/5Jrwoi3hNDkcSVJisOQFAP) | 2:51 |
 | 12 | [Monalisa](https://open.spotify.com/track/3baPniPXS0iEII8rDUJdYP) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Monalisa](https://open.spotify.com/album/6eGxth6Bbmudt9k7ybo5Ll) | 3:32 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07sewTBuMpX.md) - [plain]
 | 89 | [Amazin' \- Remix](https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Amazin’ \(Remix\)](https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h) | 2:55 |
 | 90 | [Alsjeblieft](https://open.spotify.com/track/6EqWfORn8udIwOBx6NSktf) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [CHO](https://open.spotify.com/artist/0YPIovtLh5msFPFuCcn30R), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El) | [Alsjeblieft](https://open.spotify.com/album/3Y9TtesZiPzWxBXWD0GSwr) | 3:20 |
 
-Snapshot ID: `AAAAAKZYcm3Ihu7NRL5VWxp4bJYlbME1`
+Snapshot ID: `AAAAABrgQW9Q08JzEeuVrEpzX52y3uqc`

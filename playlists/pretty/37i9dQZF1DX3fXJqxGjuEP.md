@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 
 > Give your day a warm and fruity vibe with Latin music! 🌞🌴🍍🍉
 
-[Spotify](https://open.spotify.com/user/spotify) - 732,620 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 732,628 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fXJqxGjuEP.md) - [plain]
 | 16 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
 | 17 | [Bésame Morenita](https://open.spotify.com/track/2HiEJnTMam9v7sybIZC5SL) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Bésame Morenita](https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5) | 2:45 |
 | 18 | [Me Duele](https://open.spotify.com/track/2jG2P21A1c45YU0Z1euaNB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Me Duele](https://open.spotify.com/album/3erPSNvC7zUmex1wdqc4uV) | 3:16 |
-| 19 | [Agua fría](https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Laurene P Magnani](https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE) | [Satingarona Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 4:54 |
-| 20 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 |
+| 19 | [Fría](https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8) | [Fría](https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ) | 2:56 |
+| 20 | [Agua fría](https://open.spotify.com/track/7CSebbAAlgMqngWpEkhBl5) | [The Bongo Hop](https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk), [Laurene P Magnani](https://open.spotify.com/artist/0DdaH7M6V1DWkqJpAbHDuE) | [Satingarona Pt\. 2](https://open.spotify.com/album/1dZQRZHQUDcXHwZpKwZHF2) | 4:54 |
 | 21 | [Juanita la Chismosa](https://open.spotify.com/track/155XcCEwMrHE3YcJciCnvi) | [El Caribefunk](https://open.spotify.com/artist/25UVM4HwATaXX6M7SXT1JI) | [El Caribefunk](https://open.spotify.com/album/1L3nJbcVnDFhy1EGMjlEur) | 4:58 |
 | 22 | [Se Fue \- Con Ximena Sariñana y Elsa y Elmar](https://open.spotify.com/track/6C2nsLf4lmP890KLXbn3UC) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Se Fue \(Con Ximena Sariñana y Elsa y Elmar\)](https://open.spotify.com/album/0p5xq9uQOB2ziYR9GWqI1K) | 4:07 |
 | 23 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 |

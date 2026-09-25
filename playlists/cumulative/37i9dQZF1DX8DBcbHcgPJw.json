@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Valentino Merlo & Marama",
+  "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Emanero & Bandana",
   "name": "Dame M\u00e1s Cumbia",
   "tracks": [
     {
@@ -150,7 +150,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 142588,
       "name": "60/40",
       "url": "https://open.spotify.com/track/4RMBsnZcRBz8clopV3TWV8"
@@ -6380,7 +6380,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169000,
       "name": "Lento",
       "url": "https://open.spotify.com/track/2vTtSHTr22CtcXL27MkHPv"
@@ -7308,7 +7308,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 194833,
       "name": "Me Acostumbr\u00e9 - Remix",
       "url": "https://open.spotify.com/track/4KG46mLezl65EXuLEXg7Jd"
@@ -7356,6 +7356,24 @@
       "duration_ms": 125210,
       "name": "Me cont\u00f3 un pajarito",
       "url": "https://open.spotify.com/track/77rUZmUBYdHKRlicQcRG5g"
+    },
+    {
+      "album": {
+        "name": "Me Enamore de un Imposible",
+        "url": "https://open.spotify.com/album/7kEVqctUt0W1B83N4UeomH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Play",
+          "url": "https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195666,
+      "name": "Me Enamore de un Imposible",
+      "url": "https://open.spotify.com/track/7FvQmquIiwn6ObedgphKsi"
     },
     {
       "album": {
@@ -7798,7 +7816,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 141978,
       "name": "Mi Ex",
       "url": "https://open.spotify.com/track/3pPOye3RAdcPDsgwg3Mzfp"
@@ -7982,7 +8000,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 263598,
       "name": "Mix Cumbiero 4, Solo Quedate en Silencio, Tu Rival, Equivocada",
       "url": "https://open.spotify.com/track/0de7BUjF6YdMZ24zh7V5ih"
@@ -9273,6 +9291,28 @@
     },
     {
       "album": {
+        "name": "Ojo de loca",
+        "url": "https://open.spotify.com/album/3O4bp7IeIM1v8NUwaO25tI"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189677,
+      "name": "Ojo de loca",
+      "url": "https://open.spotify.com/track/5Ae1oUwxLSa0CirTSrbTeK"
+    },
+    {
+      "album": {
         "name": "Olvidarte (Cumbia)",
         "url": "https://open.spotify.com/album/72bmIBaxvSG1KH9xzf8uel"
       },
@@ -9350,7 +9390,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 135000,
       "name": "Omitir Intro",
       "url": "https://open.spotify.com/track/6PEpeC3XDOPsbp695ami1m"
@@ -9420,7 +9460,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178333,
       "name": "Otra Noche Mas",
       "url": "https://open.spotify.com/track/3SBXbgiaXIQY0d7Pn54Skd"
@@ -11220,7 +11260,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 194210,
       "name": "Romantiko",
       "url": "https://open.spotify.com/track/7lVJB2RbpcjiVepmZNmODi"
@@ -12324,7 +12364,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-09",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Supuestamente",
       "url": "https://open.spotify.com/track/75fbmsSedxEdayE8ytGbDn"
@@ -14212,7 +14252,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 156325,
       "name": "Universo Paralelo",
       "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
@@ -14754,7 +14794,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 199630,
       "name": "XQ Te Pones As\u00ed / Prohibidox",
       "url": "https://open.spotify.com/track/4usUx7odW8Z1BCOIQQayZN"
@@ -14772,7 +14812,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 141333,
       "name": "Y Yo Aqu\u00ed",
       "url": "https://open.spotify.com/track/0QBin4pWtOHZbSZ514WfoL"

@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 93328,
+  "num_followers": 93348,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,26 @@
     {
       "added_at": "2026-07-24 15:45:42",
       "album": {
+        "name": "Face of the What",
+        "url": "https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL"
+      },
+      "artists": [
+        {
+          "name": "Sha EK",
+          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
+        },
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "WHO YOU TOUCH",
+      "url": "https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4"
+    },
+    {
+      "added_at": "2026-07-24 15:45:42",
+      "album": {
         "name": "Sounds Of A Menace (Jersey Club)",
         "url": "https://open.spotify.com/album/1tKLBHhzAJRqC3sbkQWDXI"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 145293,
       "name": "Back Stabbers Jersey Club Mix",
       "url": "https://open.spotify.com/track/2VWSMXsBe3gW6Ur4iNOpmp"
-    },
-    {
-      "added_at": "2026-07-24 15:45:42",
-      "album": {
-        "name": "Face of the What",
-        "url": "https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL"
-      },
-      "artists": [
-        {
-          "name": "Sha EK",
-          "url": "https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9"
-        },
-        {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
-        }
-      ],
-      "duration_ms": 108000,
-      "name": "WHO YOU TOUCH",
-      "url": "https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4"
     },
     {
       "added_at": "2026-07-24 15:45:42",
@@ -1043,30 +1043,22 @@
     {
       "added_at": "2026-07-24 15:45:42",
       "album": {
-        "name": "Toss It",
-        "url": "https://open.spotify.com/album/3yQlKR9h9RrvUpfLVsLGIR"
+        "name": "Crying in the Club",
+        "url": "https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN"
       },
       "artists": [
         {
-          "name": "Vv Pete",
-          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+          "name": "GROOVY",
+          "url": "https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc"
         },
         {
-          "name": "DEELA",
-          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
-        },
-        {
-          "name": "Lisha G",
-          "url": "https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ"
-        },
-        {
-          "name": "UTILITY",
-          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+          "name": "Kanii",
+          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
         }
       ],
-      "duration_ms": 212643,
-      "name": "Toss It",
-      "url": "https://open.spotify.com/track/6bOCT1tRZEq8c3F5JrGaWL"
+      "duration_ms": 185314,
+      "name": "Mariah",
+      "url": "https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC"
     },
     {
       "added_at": "2026-07-24 15:45:42",
@@ -1091,22 +1083,30 @@
     {
       "added_at": "2026-07-24 15:45:42",
       "album": {
-        "name": "Crying in the Club",
-        "url": "https://open.spotify.com/album/2YvnSFSzTj30fh7DtS12uN"
+        "name": "Toss It",
+        "url": "https://open.spotify.com/album/3yQlKR9h9RrvUpfLVsLGIR"
       },
       "artists": [
         {
-          "name": "GROOVY",
-          "url": "https://open.spotify.com/artist/6Y6qIKwe32BxNflpxbKsJc"
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
         },
         {
-          "name": "Kanii",
-          "url": "https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW"
+          "name": "DEELA",
+          "url": "https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4"
+        },
+        {
+          "name": "Lisha G",
+          "url": "https://open.spotify.com/artist/5nwxAowdUQSK1tuyVHD5lJ"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
         }
       ],
-      "duration_ms": 185314,
-      "name": "Mariah",
-      "url": "https://open.spotify.com/track/2Mi6o1VgvjnJa31yrPT3UC"
+      "duration_ms": 212643,
+      "name": "Toss It",
+      "url": "https://open.spotify.com/track/6bOCT1tRZEq8c3F5JrGaWL"
     },
     {
       "added_at": "2026-07-24 15:45:42",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2026-07-24 15:45:42",
       "album": {
-        "name": "NJ Turnpike, Vol. 1 (A Jersey Club Mixtape)",
-        "url": "https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6"
-      },
-      "artists": [
-        {
-          "name": "DJ SoulChild AC",
-          "url": "https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH"
-        },
-        {
-          "name": "Bryansanon",
-          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
-        }
-      ],
-      "duration_ms": 92212,
-      "name": "Anytime I Want, Pt. 2",
-      "url": "https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu"
-    },
-    {
-      "added_at": "2026-07-24 15:45:42",
-      "album": {
         "name": "say im ur luv (Jumbo Sounds Remix)",
         "url": "https://open.spotify.com/album/5GxYcqmDvWzetC31Oe0YLm"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 137032,
       "name": "say im ur luv - Jumbo Sounds Remix",
       "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
+    },
+    {
+      "added_at": "2026-07-24 15:45:42",
+      "album": {
+        "name": "NJ Turnpike, Vol. 1 (A Jersey Club Mixtape)",
+        "url": "https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6"
+      },
+      "artists": [
+        {
+          "name": "DJ SoulChild AC",
+          "url": "https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH"
+        },
+        {
+          "name": "Bryansanon",
+          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
+        }
+      ],
+      "duration_ms": 92212,
+      "name": "Anytime I Want, Pt. 2",
+      "url": "https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu"
     },
     {
       "added_at": "2026-07-24 15:45:42",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: LEYO",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Mariah Deborah",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -4829,6 +4829,28 @@
     },
     {
       "album": {
+        "name": "Fleabag (feat. Paolo Sandejas)",
+        "url": "https://open.spotify.com/album/1e36Xz5KJvTY3zVjVWIi8h"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Fleabag (feat. Paolo Sandejas)",
+      "url": "https://open.spotify.com/track/7xRga53GguD9bLi2NtaIv3"
+    },
+    {
+      "album": {
         "name": "Always Here",
         "url": "https://open.spotify.com/album/25BPg8XFp2qkGWXgEahCGl"
       },
@@ -7053,6 +7075,24 @@
     },
     {
       "album": {
+        "name": "Ikaw Lang Naman",
+        "url": "https://open.spotify.com/album/2mYtLOcBXoPQIPxIFyQeNS"
+      },
+      "artists": [
+        {
+          "name": "Hezekiah Mesina",
+          "url": "https://open.spotify.com/artist/4pUG0OxSNNRm5DxWq7opcp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216520,
+      "name": "Ikaw Lang Naman",
+      "url": "https://open.spotify.com/track/4szuUf7n5YBxHDQTEXgZP3"
+    },
+    {
+      "album": {
         "name": "Ikaw na yan eh",
         "url": "https://open.spotify.com/album/6Aubp9CmoVXbxTXzs90NxH"
       },
@@ -8134,7 +8174,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 251019,
       "name": "Kape Tayo",
       "url": "https://open.spotify.com/track/1SjOA5kkTqY1BBNhotRZN4"
@@ -9514,6 +9554,28 @@
       "duration_ms": 142549,
       "name": "Like a Superstar",
       "url": "https://open.spotify.com/track/6TrjoufYJbf1I4CUMUUQs2"
+    },
+    {
+      "album": {
+        "name": "Like Me (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/11su08u4jWbdzZL60bAvoP"
+      },
+      "artists": [
+        {
+          "name": "JOSH CULLEN",
+          "url": "https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222127,
+      "name": "Like Me (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/2jCh0Xaz6NQwCTB2PeFIZo"
     },
     {
       "album": {
@@ -12602,7 +12664,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 183288,
       "name": "Oohh Lala Baby",
       "url": "https://open.spotify.com/track/7dHVaVOE2lUuqovnbxgagC"
@@ -13532,6 +13594,24 @@
       "duration_ms": 162050,
       "name": "panalangin",
       "url": "https://open.spotify.com/track/68doFzNBmManicbD9yfRoA"
+    },
+    {
+      "album": {
+        "name": "Panata",
+        "url": "https://open.spotify.com/album/0ejwXq9GcS9hYIG5IqsXNa"
+      },
+      "artists": [
+        {
+          "name": "mrld",
+          "url": "https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "Panata",
+      "url": "https://open.spotify.com/track/0v6IfrakYWcxlqDGGHOL1c"
     },
     {
       "album": {
@@ -15750,7 +15830,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 194285,
       "name": "sakim",
       "url": "https://open.spotify.com/track/6mTsM35U0oBMdoX9VLevVf"
@@ -15920,7 +16000,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 247611,
       "name": "San Ka Na (feat. Parokya Ni Edgar)",
       "url": "https://open.spotify.com/track/0Smt6A0cK41SSCdsOCaZv9"
@@ -16368,7 +16448,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 260571,
       "name": "Sayong Sayo",
       "url": "https://open.spotify.com/track/7Lwo3zXi4pJChA7DtGQH6B"
@@ -16538,7 +16618,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 331139,
       "name": "Sepanx",
       "url": "https://open.spotify.com/track/5xBFSrqLvNq2IXY97sG6Ux"
@@ -17316,6 +17396,24 @@
       "duration_ms": 160000,
       "name": "substack girl",
       "url": "https://open.spotify.com/track/1KtQOlLH1dKEYVys18V3Fz"
+    },
+    {
+      "album": {
+        "name": "Sukli",
+        "url": "https://open.spotify.com/album/6Aef18FExbKeiinEd1ffvi"
+      },
+      "artists": [
+        {
+          "name": "Bert Symoun",
+          "url": "https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198584,
+      "name": "Sukli",
+      "url": "https://open.spotify.com/track/0mddd11RsFyoaRXMDYAnEX"
     },
     {
       "album": {
@@ -18285,6 +18383,28 @@
     },
     {
       "album": {
+        "name": "Tapos Na Ba (Tayong Dalawa)",
+        "url": "https://open.spotify.com/album/0OgxH0d8lJQrba2oq71qkc"
+      },
+      "artists": [
+        {
+          "name": "Lola Amour",
+          "url": "https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI"
+        },
+        {
+          "name": "Jan Roberts",
+          "url": "https://open.spotify.com/artist/0wuB9WlzVMNvwRJHope3ge"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247250,
+      "name": "Tapos Na Ba (Tayong Dalawa)",
+      "url": "https://open.spotify.com/track/5lDYnAVm1IiYGGXbqkv167"
+    },
+    {
+      "album": {
         "name": "tara",
         "url": "https://open.spotify.com/album/63hF4st4hG8Io2zXZ88Avp"
       },
@@ -18383,6 +18503,24 @@
     },
     {
       "album": {
+        "name": "tayo lang.",
+        "url": "https://open.spotify.com/album/6ngWf0tH5Hbrp4ugRfDqCW"
+      },
+      "artists": [
+        {
+          "name": "Angela Ken",
+          "url": "https://open.spotify.com/artist/7yaaxrkMOWJZXpIYHkppDH"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195633,
+      "name": "tayo lang.",
+      "url": "https://open.spotify.com/track/0kg1WyoI9K5KddghT3FrbW"
+    },
+    {
+      "album": {
         "name": "Tayo Na, Dali!",
         "url": "https://open.spotify.com/album/5iIbbblNNmi8vGMGcwdnHn"
       },
@@ -18412,7 +18550,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 194594,
       "name": "Tayo Nalang Ulit",
       "url": "https://open.spotify.com/track/3mBEGgGhEn4LD2vPF6cvai"
@@ -19282,7 +19420,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 230500,
       "name": "Tunay Na Ligaya - From \"Sigabo\"",
       "url": "https://open.spotify.com/track/11JxOUnlMPHYc5isWCprB2"
@@ -19344,6 +19482,24 @@
       "duration_ms": 173000,
       "name": "twin flames",
       "url": "https://open.spotify.com/track/0Ik9LPqXs0DYConyjqvEFR"
+    },
+    {
+      "album": {
+        "name": "South Node",
+        "url": "https://open.spotify.com/album/378cvJwp9ggvoF06aeIuYX"
+      },
+      "artists": [
+        {
+          "name": "Armi Millare",
+          "url": "https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211510,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/3OL3jtW4C4oCLTHjq8ipgu"
     },
     {
       "album": {

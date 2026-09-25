@@ -1,6 +1,6 @@
 {
   "description": "Real nasty house \ud83d\udd25\ud83d\udd25 featuring Matroda + San Pacho",
-  "num_followers": 1310998,
+  "num_followers": 1311004,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
@@ -1413,6 +1413,22 @@
       "url": "https://open.spotify.com/track/07MwM4OFkgQ6hRz2U6EQFu"
     },
     {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "Louis V",
+        "url": "https://open.spotify.com/album/0Uivh5n2bxgzgqoqPkY0B1"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 194687,
+      "name": "Louis V",
+      "url": "https://open.spotify.com/track/3FLfgXWxlpvBJY46PbKIud"
+    },
+    {
       "added_at": "2026-05-15 15:18:31",
       "album": {
         "name": "Turn Up The Bass",
@@ -1435,22 +1451,6 @@
       "duration_ms": 123692,
       "name": "Turn Up The Bass",
       "url": "https://open.spotify.com/track/4YtKvo2pTZsy8kCq9A7d8c"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "Louis V",
-        "url": "https://open.spotify.com/album/0Uivh5n2bxgzgqoqPkY0B1"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 194687,
-      "name": "Louis V",
-      "url": "https://open.spotify.com/track/3FLfgXWxlpvBJY46PbKIud"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1661,22 +1661,6 @@
       "url": "https://open.spotify.com/track/5NWRdre3LrjUqu219gGspZ"
     },
     {
-      "added_at": "2026-08-14 04:01:19",
-      "album": {
-        "name": "HIM",
-        "url": "https://open.spotify.com/album/476P50D7vX7U1LaMOKJHNI"
-      },
-      "artists": [
-        {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
-        }
-      ],
-      "duration_ms": 197272,
-      "name": "HIM",
-      "url": "https://open.spotify.com/track/16zqNYSHjvKTNnvhKRQmp0"
-    },
-    {
       "added_at": "2026-03-06 05:00:10",
       "album": {
         "name": "Rich & Handsome",
@@ -1705,6 +1689,22 @@
       "url": "https://open.spotify.com/track/1oeljccOyFQGPOY8gaVnnH"
     },
     {
+      "added_at": "2026-08-14 04:01:19",
+      "album": {
+        "name": "HIM",
+        "url": "https://open.spotify.com/album/476P50D7vX7U1LaMOKJHNI"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 197272,
+      "name": "HIM",
+      "url": "https://open.spotify.com/track/16zqNYSHjvKTNnvhKRQmp0"
+    },
+    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Hooligans",
@@ -1719,26 +1719,6 @@
       "duration_ms": 239090,
       "name": "Hooligans",
       "url": "https://open.spotify.com/track/0btXZOm53lLGf4hV6piDpg"
-    },
-    {
-      "added_at": "2026-01-09 16:39:37",
-      "album": {
-        "name": "CODEINE",
-        "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "CODEINE",
-      "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
     },
     {
       "added_at": "2026-06-15 17:48:38",
@@ -1763,18 +1743,22 @@
     {
       "added_at": "2026-01-09 16:39:37",
       "album": {
-        "name": "That Girl",
-        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
+        "name": "CODEINE",
+        "url": "https://open.spotify.com/album/2uZwbhNezNHN6gQUzzFSok"
       },
       "artists": [
         {
-          "name": "Matt Faulk",
-          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
         }
       ],
-      "duration_ms": 229384,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
+      "duration_ms": 195000,
+      "name": "CODEINE",
+      "url": "https://open.spotify.com/track/2G0g0aPbH53A0FNvmaNUEN"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -1791,6 +1775,22 @@
       "duration_ms": 195942,
       "name": "About To Lose It",
       "url": "https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S"
+    },
+    {
+      "added_at": "2026-01-09 16:39:37",
+      "album": {
+        "name": "That Girl",
+        "url": "https://open.spotify.com/album/2GrHl0zWCoffhmjGsVM90k"
+      },
+      "artists": [
+        {
+          "name": "Matt Faulk",
+          "url": "https://open.spotify.com/artist/3HHRdsa1Tn7cl2cfJc0O7x"
+        }
+      ],
+      "duration_ms": 229384,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/60LibrnKG7kJfXOKnJGaxm"
     },
     {
       "added_at": "2026-01-09 16:39:37",
@@ -2001,22 +2001,6 @@
       "url": "https://open.spotify.com/track/64Lif8kZdFbvIHG8kNWlkV"
     },
     {
-      "added_at": "2026-08-14 04:01:19",
-      "album": {
-        "name": "Monopoly Man",
-        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 202101,
-      "name": "Monopoly Man",
-      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
-    },
-    {
       "added_at": "2026-01-09 16:39:37",
       "album": {
         "name": "Bass Face",
@@ -2035,6 +2019,22 @@
       "duration_ms": 183014,
       "name": "Bass Face",
       "url": "https://open.spotify.com/track/4ati0obORrjjYFtYWqKTQY"
+    },
+    {
+      "added_at": "2026-08-14 04:01:19",
+      "album": {
+        "name": "Monopoly Man",
+        "url": "https://open.spotify.com/album/7Kmepe8BIgqaega0xj2EVO"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 202101,
+      "name": "Monopoly Man",
+      "url": "https://open.spotify.com/track/2bc5X2BrwK6muSUCGkxU6A"
     },
     {
       "added_at": "2026-01-09 16:39:37",

@@ -4,7 +4,7 @@
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-353 songs - 1 day 7 hr 7 min
+355 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Naogopa](https://open.spotify.com/track/5sJHsI693oMyfxWu4Uo2kN) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Niko Sawa](https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB) | 4:36 | 2023-03-10 | 2023-06-09 |
 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 | 2023-06-16 |  |
 | [Napepea](https://open.spotify.com/track/2ob9JjI40J4qMWFOHKiPiC) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Napepea](https://open.spotify.com/album/1jWXHiQEp87jhJsiofEu1b) | 4:19 | 2024-05-03 | 2024-11-22 |
-| [Napokea Kwako](https://open.spotify.com/track/45o4BEAeuEj2569qB4M6jQ) | [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY), [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Napokea Kwako](https://open.spotify.com/album/4P48WlZx62Ej8BaDnigPkJ) | 4:57 | 2025-05-30 |  |
+| [Napokea Kwako](https://open.spotify.com/track/45o4BEAeuEj2569qB4M6jQ) | [Janet Otieno](https://open.spotify.com/artist/1vfQ0EClwLJGtc4YsHlzPY), [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Napokea Kwako](https://open.spotify.com/album/4P48WlZx62Ej8BaDnigPkJ) | 4:57 | 2025-05-30 | 2026-09-25 |
 | [Narudisha](https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY) | [Gloria Muliro](https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV) | [Narudisha](https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T) | 4:29 | 2022-06-24 | 2025-12-26 |
 | [Nasema Asante](https://open.spotify.com/track/7qNQyLCGokzNJvntxK9bSs) | [Sarah K](https://open.spotify.com/artist/3FHjTaYYx0pFSyPUMnbjyv) | [Nasema Asante](https://open.spotify.com/album/6kjOtcXq1MuBrCDsKqSyKI) | 7:24 | 2022-06-24 | 2023-03-11 |
 | [Natamani Wamebarikiwa](https://open.spotify.com/track/2xJA3Bbn20xQYiWh1Cjj6E) | [Pastor Anthony Musembi J.C.C\. Mombasa](https://open.spotify.com/artist/12UXrRdVxNm2TbYBeF0vl1) | [Pacato Worship](https://open.spotify.com/album/0rtr6F0F2LnjZKSFQXInWg) | 7:00 | 2022-06-24 | 2024-09-06 |
@@ -208,6 +208,7 @@
 | [Nifunze Kuona](https://open.spotify.com/track/1i1qbN5L8CTPykTW2yL0Og) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Billy Frank](https://open.spotify.com/artist/1YeFzCACkJ48L1t2kQH198) | [Nifunze Kuona](https://open.spotify.com/album/6T4chiVpzp7EEytWlWJgJP) | 4:10 | 2025-10-10 | 2026-02-05 |
 | [Niguse Tena \(Live\)](https://open.spotify.com/track/0NiEmNgV7TmOHjbZ3DdK75) | [Krystaal Music](https://open.spotify.com/artist/3Xkc3xqeLJZWgVDDIbvhNo), [Next Level Choir](https://open.spotify.com/artist/5j7HOenL3dSS981E1ARENs) | [Krystaal Live in Dar Es Salaam \(Deluxe Album\)](https://open.spotify.com/album/2pFOj4BuABj7x4y4PapIgs) | 6:39 | 2022-06-24 | 2025-08-15 |
 | [Niko Tu](https://open.spotify.com/track/34LeuUlDfQXvJn8Ui27nAC) | [Mista Champagne](https://open.spotify.com/artist/0wLYJK9oKV7BMNpCV4d5EW) | [Niko Tu](https://open.spotify.com/album/64Zs0PLCoLANPDPAO8aBjK) | 3:58 | 2024-04-26 |  |
+| [Nikumbuke](https://open.spotify.com/track/1KfQkotQJ73JT93plHOxTh) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nikumbuke](https://open.spotify.com/album/0yOxz1GgBgXb71mIbyTTsF) | 4:05 | 2026-09-25 |  |
 | [Nikumbuke Kama Wengine](https://open.spotify.com/track/1G5JSfbluki82jSjgrCsXF) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Nikumbuke Kama Wengine](https://open.spotify.com/album/54pbpgSxA4Yal3iuY4OX0b) | 7:10 | 2024-05-03 | 2024-09-06 |
 | [Nikumbushe Yehova](https://open.spotify.com/track/2YTmZTaHazQYsOfC7UqWtO) | [Kurasini SDA Choir](https://open.spotify.com/artist/6iEYr3D5bI9cIgJWSYN0tM) | [Mtanitafuta Pande Zote](https://open.spotify.com/album/70wLfW5cfXi1h1JfIITRUp) | 2:45 | 2022-06-24 | 2024-05-03 |
 | [Nimefichwa](https://open.spotify.com/track/1itH2yw2j8YpoqyVodTC2s) | [Enock Jonas](https://open.spotify.com/artist/2VrXyS2yRQrqOcZPGEfYa9) | [Nimefichwa](https://open.spotify.com/album/6y2am1XRqcxkvDi9RCogrr) | 3:32 | 2024-03-28 | 2024-05-24 |
@@ -262,13 +263,14 @@
 | [SAUTI YANGU](https://open.spotify.com/track/6fykSHV5vHbimF76Th4Yif) | [Jemmimah Thiong'o](https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC) | [PENYA](https://open.spotify.com/album/25a9x8xqLHkc6LTNEpjYAd) | 4:09 | 2023-08-25 | 2024-05-17 |
 | [SEMA ASANTE](https://open.spotify.com/track/2TZ4fabbGN00FOuAP2Hl1p) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [SEMA ASANTE](https://open.spotify.com/album/0kmO8vsAYqPMPEPj25gXPs) | 2:35 | 2024-02-02 | 2024-02-16 |
 | [Sema Asante](https://open.spotify.com/track/4YNwDgPLqaUDlTZKUWPWs4) | [Wyse Tz](https://open.spotify.com/artist/5iQS32vK2HWTCX9jhBeRz8) | [Sema Asante](https://open.spotify.com/album/5x6r4x0WijAPuL6G3U3COc) | 2:35 | 2024-02-02 | 2024-10-18 |
+| [Sesema](https://open.spotify.com/track/5uQNE90hF0UQOgHYymagon) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Sesema](https://open.spotify.com/album/08FsZKzQDOTWZxAwSUf8gp) | 3:58 | 2026-09-25 |  |
 | [Shida](https://open.spotify.com/track/1DwIdpfjh50nhswAniJpQW) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shida](https://open.spotify.com/album/6A83CUr0UmsmAZu8PahRe7) | 4:02 | 2023-08-18 | 2025-02-21 |
 | [Shuka Tukuone](https://open.spotify.com/track/3SdAyRhdxFiSf1w6vwr6yX) | [Walter Chilambo](https://open.spotify.com/artist/45uMTYzfFVO9etu44SqcBO) | [Shuka Tukuone](https://open.spotify.com/album/4Hx5Wma6dz3Bg4MqPNvHCi) | 5:01 | 2025-11-28 | 2026-07-21 |
 | [Shukrani](https://open.spotify.com/track/0rlCvJeYrVmei9ZcySimqk) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Shukrani](https://open.spotify.com/album/350ih6c5bnbgPAYcX13FUO) | 3:57 | 2024-10-04 | 2025-08-16 |
 | [Shukurani](https://open.spotify.com/track/1kcmPNrOkYJY1wJuwuRbZC) | [Goodluck Gozbert](https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA) | [Shukurani](https://open.spotify.com/album/2zrVtAaSEUhuo6oQgjji97) | 4:39 | 2022-06-24 |  |
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2023-06-16 |  |
 | [Shwari](https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd) | [Samuel Thomas](https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw), [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU) | [Shwari](https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ) | 6:42 | 2022-06-24 | 2024-05-03 |
-| [Si Unaniona](https://open.spotify.com/track/4nqiZJNrjtWnJ3uBhHe5zM) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Si Unaniona](https://open.spotify.com/album/14U7TaCah1WFE4cYz7RTaG) | 3:13 | 2024-11-29 |  |
+| [Si Unaniona](https://open.spotify.com/track/4nqiZJNrjtWnJ3uBhHe5zM) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [Si Unaniona](https://open.spotify.com/album/14U7TaCah1WFE4cYz7RTaG) | 3:13 | 2024-11-29 | 2026-09-25 |
 | [Siendi Bila Wewe](https://open.spotify.com/track/13gevUnYIDW3IqkMOkdi6q) | [J blessing](https://open.spotify.com/artist/63aaHMQvSM2mORk2LWPLdr), [Kambua](https://open.spotify.com/artist/5dIF0Bc36g8YZ5UHYwGHFo) | [Siendi Bila Wewe](https://open.spotify.com/album/5xgGi1XEezUjTOzK8t2nhv) | 4:02 | 2025-09-05 |  |
 | [Sifa Ziko Juu](https://open.spotify.com/track/11eugyHtSx3H2mPJEnHr5m) | [Neo Elani](https://open.spotify.com/artist/7kl0ORDAUsmnGAN1LWGUM4) | [Sifa Ziko Juu](https://open.spotify.com/album/7G4JY0qlOoTkAugC3BaeKL) | 7:55 | 2025-08-22 | 2025-11-14 |
 | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [SIJAI KUWA MSOTO \(Racing Thoughts\)](https://open.spotify.com/album/5RK2fDS59YJ0QkHPdfuY0G) | 4:24 | 2024-04-05 | 2024-09-06 |

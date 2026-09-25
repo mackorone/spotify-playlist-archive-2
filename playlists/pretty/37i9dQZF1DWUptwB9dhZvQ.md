@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the best themes of Kollywood!<br/>Cover : DC
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,644 likes - 75 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,678 likes - 75 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

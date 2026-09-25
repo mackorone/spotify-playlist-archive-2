@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Ciska Ciska
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,862 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,864 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 9 | [We Doen Alsof](https://open.spotify.com/track/54JVTO9jnEayXd0DZgaut0) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [We Doen Alsof](https://open.spotify.com/album/59pkwsQ2UfKwtR5o9TPeNW) | 3:30 |
 | 10 | [No Thank You, I Love You, Goodbye](https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Thank You, I Love You, Goodbye](https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj) | 2:59 |
 | 11 | [And Then I Woke Up](https://open.spotify.com/track/2mrOZHjVK645tRXNUJxcTI) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [And Then I Woke Up](https://open.spotify.com/album/3coDLWeDJYp3m5iyh6rEFK) | 5:50 |
-| 12 | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H) | [Small Town \(feat\. Gabriel Jacoby\)](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 12 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Gabriel Jacoby](https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H), [Emma Ogier](https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
 | 13 | [Sleepless Dream](https://open.spotify.com/track/2FfNTLtBLYQ91faLchKmlr) | [Elis Floreen](https://open.spotify.com/artist/299Jzr4T2YvOOue2DiJ0AL) | [The House](https://open.spotify.com/album/20JwXguQZQ56bQYkY0B6zE) | 4:05 |
 | 14 | [The Sun](https://open.spotify.com/track/3CXadUqQ5eUVbDxtDaidgN) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [The Sun](https://open.spotify.com/album/6siWmmAx2R0xa5Gp1l8lFX) | 3:36 |
 | 15 | [Make A Living](https://open.spotify.com/track/5F9rXjjmy8zY1VCZgaNZhZ) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Make A Living](https://open.spotify.com/album/4oKXfybVgUOj3zb8acJQAG) | 3:23 |

@@ -233,6 +233,24 @@
     },
     {
       "album": {
+        "name": "Amon-Ra",
+        "url": "https://open.spotify.com/album/5sKpjwVZpVGMUNzYyC2twD"
+      },
+      "artists": [
+        {
+          "name": "Turmion K\u00e4til\u00f6t",
+          "url": "https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220364,
+      "name": "Amon-Ra",
+      "url": "https://open.spotify.com/track/7C2qbxfht0BwYtXUDFlL1p"
+    },
+    {
+      "album": {
         "name": "An Ocean Of Strange Islands",
         "url": "https://open.spotify.com/album/5Pld9dbaBVoidxPQEhVusV"
       },
@@ -3857,6 +3875,24 @@
     },
     {
       "album": {
+        "name": "Metacognitive Failure",
+        "url": "https://open.spotify.com/album/2KhaXIlcFdJ1WUUvjlUXor"
+      },
+      "artists": [
+        {
+          "name": "(Psychoparalysis)",
+          "url": "https://open.spotify.com/artist/559Svw2FZqV0JQncUwvHLx"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329200,
+      "name": "Metacognitive Failure",
+      "url": "https://open.spotify.com/track/2nISMvfFtjVBLKOAPT9otM"
+    },
+    {
+      "album": {
         "name": "Michael, the Knight",
         "url": "https://open.spotify.com/album/54RkiHxYAKpisnJnAtBr25"
       },
@@ -4350,6 +4386,24 @@
       "duration_ms": 187862,
       "name": "Overdose - feat. Blindside",
       "url": "https://open.spotify.com/track/23GgTbzZ80ceqziBKCO7mJ"
+    },
+    {
+      "album": {
+        "name": "P.E.T.T.U.R.I.",
+        "url": "https://open.spotify.com/album/2lXNBIbEmxWzWoXVBo41V2"
+      },
+      "artists": [
+        {
+          "name": "Huora",
+          "url": "https://open.spotify.com/artist/2FK0OPnng20MwV4TCnm0Ei"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199826,
+      "name": "P.E.T.T.U.R.I.",
+      "url": "https://open.spotify.com/track/7GfVF4E2gOyjkpgKHcsXAu"
     },
     {
       "album": {
@@ -5633,6 +5687,24 @@
     },
     {
       "album": {
+        "name": "supervillain",
+        "url": "https://open.spotify.com/album/4uCFvVltDcqLz94JmChd9f"
+      },
+      "artists": [
+        {
+          "name": "LUNA KILLS",
+          "url": "https://open.spotify.com/artist/5OMIs8tNddcCXVDMN8LLyQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165692,
+      "name": "supervillain",
+      "url": "https://open.spotify.com/track/39yWeIKjw8NoVIHlZ0DEa5"
+    },
+    {
+      "album": {
         "name": "Syntax Terror",
         "url": "https://open.spotify.com/album/73KDPxgX2Inc5ixUP1j8bd"
       },
@@ -6303,6 +6375,46 @@
     },
     {
       "album": {
+        "name": "Tyhjyys",
+        "url": "https://open.spotify.com/album/30ug5lK0UnEpewSwItmLfo"
+      },
+      "artists": [
+        {
+          "name": "HYLJ\u00c4TYT",
+          "url": "https://open.spotify.com/artist/320gk6kRietbQOiTyi97IV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208715,
+      "name": "Tyhjyys",
+      "url": "https://open.spotify.com/track/7iAoYSNJJwjg2EIDoUndRR"
+    },
+    {
+      "album": {
+        "name": "Tykk\u00e4\u00e4 ja seuraa",
+        "url": "https://open.spotify.com/album/5BNHyCcb3YdwBDouKEnfIH"
+      },
+      "artists": [
+        {
+          "name": "V\u00c4IST\u00c4!",
+          "url": "https://open.spotify.com/artist/3gGTLBG2WSuj0q5tSAi61M"
+        },
+        {
+          "name": "MC Respektor",
+          "url": "https://open.spotify.com/artist/4OXsvowKTBsZhoE8RToIxV"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155728,
+      "name": "Tykk\u00e4\u00e4 ja seuraa",
+      "url": "https://open.spotify.com/track/2j347HIiSu8Qn2QVKk0ksY"
+    },
+    {
+      "album": {
         "name": "Unbreakable",
         "url": "https://open.spotify.com/album/3akqEprag6eKeObpB2iB44"
       },
@@ -6354,6 +6466,28 @@
       "duration_ms": 183223,
       "name": "Up From the Bottom",
       "url": "https://open.spotify.com/track/5IL3VPDy5siXiptYHF2aLS"
+    },
+    {
+      "album": {
+        "name": "Upperhand (from CONTROL Resonant)",
+        "url": "https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249784,
+      "name": "Upperhand - from CONTROL Resonant",
+      "url": "https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD"
     },
     {
       "album": {

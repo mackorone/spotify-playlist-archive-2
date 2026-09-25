@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,529 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,547 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 11 | [Traces \(feat\. SDM\)](https://open.spotify.com/track/5vAzHFS0RL5lVEeuPD1om9) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Traces \(feat\. SDM\)](https://open.spotify.com/album/4k0zDBe3eVPcN1ZQM368OP) | 3:14 |
 | 12 | [FYNE](https://open.spotify.com/track/4YZlGQCYgs1d0jZ6cK08D4) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:29 |
 | 13 | [I Just Play A Part \- feat\. DJ Creole Princess, Westside Gunn, Joi](https://open.spotify.com/track/6sQXBtFI3ouCLocFLWnBaS) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [DJ Creole Princess](https://open.spotify.com/artist/0xcW77kyXGtKikkJJKjnAX), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Joi](https://open.spotify.com/artist/465zsHFUjQH4sQPdHIbqIf) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 4:22 |
-| 14 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
-| 15 | [Lean On](https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Lean On](https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu) | 3:25 |
+| 14 | [Lean On](https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Lean On](https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu) | 3:25 |
+| 15 | [Fast and Furious](https://open.spotify.com/track/6sQFO5Gh7MTJkBhuhrLab0) | [Famous Pluto](https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne) | [ON MY BIRTHDAY](https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf) | 2:15 |
 | 16 | [Bye Bye .](https://open.spotify.com/track/4cN6PYebLHK61j2J7pvKcD) | [fakemink](https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi) | [Bye Bye .](https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S) | 2:46 |
 | 17 | [Alyse](https://open.spotify.com/track/3KJ9LSGMl7vTZ1lHIP2CBZ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Alyse](https://open.spotify.com/album/3S4XqwT4tjFW1f6R1kmlo3) | 3:51 |
 | 18 | [Tea Time](https://open.spotify.com/track/31GAlUeCLW7X2wabzWaCYM) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [I Must Be Dreaming](https://open.spotify.com/album/6MfWLI8m8eBjaOMyN1rwkA) | 3:46 |

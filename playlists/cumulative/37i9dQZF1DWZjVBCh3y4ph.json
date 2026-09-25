@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk & kompa du moment. Photo : L\u00c9A CHURROS",
+  "description": "Les hits zouk & kompa du moment. Photo : Yena Blue",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -758,7 +758,7 @@
       ],
       "date_added": "2026-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160988,
       "name": "Bisous",
       "url": "https://open.spotify.com/track/2vk577QgjCZEnyiLpTHB3c"
@@ -2284,6 +2284,24 @@
     {
       "album": {
         "name": "Doudou",
+        "url": "https://open.spotify.com/album/5W6Mvoi9S8CgEh24EbpTX5"
+      },
+      "artists": [
+        {
+          "name": "Elowdy.C",
+          "url": "https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176385,
+      "name": "Doudou",
+      "url": "https://open.spotify.com/track/4wrmC3OaHWFqhZeDMzZxeu"
+    },
+    {
+      "album": {
+        "name": "Doudou",
         "url": "https://open.spotify.com/album/2ENTiYOiln9OaHzW5v4JZL"
       },
       "artists": [
@@ -2382,6 +2400,24 @@
       "duration_ms": 138545,
       "name": "DOUDOU",
       "url": "https://open.spotify.com/track/2W1hpgKsdh9VMgsR9GvDev"
+    },
+    {
+      "album": {
+        "name": "ADN",
+        "url": "https://open.spotify.com/album/3oCtzwa0oflzV7hb3Cf8Hi"
+      },
+      "artists": [
+        {
+          "name": "Yena Blue",
+          "url": "https://open.spotify.com/artist/0JqXT1KmVtZ4VdGtprB2b4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Doutes",
+      "url": "https://open.spotify.com/track/1fuB5rU71L5QEr93oM4x1V"
     },
     {
       "album": {
@@ -5127,6 +5163,28 @@
     },
     {
       "album": {
+        "name": "MON LIFE",
+        "url": "https://open.spotify.com/album/7t0ZyHQ7KMYLUqooqDayr0"
+      },
+      "artists": [
+        {
+          "name": "ORLEM",
+          "url": "https://open.spotify.com/artist/3JE0AFfDsAnM6MWZRpN4yF"
+        },
+        {
+          "name": "Magical Nrick",
+          "url": "https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198837,
+      "name": "MON LIFE",
+      "url": "https://open.spotify.com/track/6Pda9V1wHGOTPIJrurcJys"
+    },
+    {
+      "album": {
         "name": "Mon Pilote",
         "url": "https://open.spotify.com/album/1aby69IK1A9OsyeFBWB5Xe"
       },
@@ -5230,6 +5288,28 @@
       "duration_ms": 234600,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/0A5FQkAtB6Eh5RgkEIznWP"
+    },
+    {
+      "album": {
+        "name": "MOOD",
+        "url": "https://open.spotify.com/album/74SPVzeEaF5e1dcmViNSjv"
+      },
+      "artists": [
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr"
+        },
+        {
+          "name": "Jgamalielz Official",
+          "url": "https://open.spotify.com/artist/1C4WMvh3mxQKt1KGZo7AlO"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246484,
+      "name": "MOOD",
+      "url": "https://open.spotify.com/track/6qK2R1gxndSzNrYA6fofn9"
     },
     {
       "album": {
@@ -5410,7 +5490,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 132000,
       "name": "NA ASSEZ",
       "url": "https://open.spotify.com/track/2SjxKYGkm0RrCOpt7wVI6S"
@@ -5800,7 +5880,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171034,
       "name": "On s'aime encore",
       "url": "https://open.spotify.com/track/3aYQN7xDymjMpaz3HYkzfk"
@@ -6008,6 +6088,28 @@
       "duration_ms": 136620,
       "name": "Ou P\u00e9",
       "url": "https://open.spotify.com/track/0eWNcMTXQ8985SKAZM24cO"
+    },
+    {
+      "album": {
+        "name": "Maille Caf\u00e9",
+        "url": "https://open.spotify.com/album/4PfG9prIV24m90Rm5dtVWp"
+      },
+      "artists": [
+        {
+          "name": "Goldn.B",
+          "url": "https://open.spotify.com/artist/4gGacdwZmUxzVWDOoGMomn"
+        },
+        {
+          "name": "Keros-N",
+          "url": "https://open.spotify.com/artist/5DFOYJLWzBdNifHaXGuRQc"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181113,
+      "name": "Ou P\u00e9",
+      "url": "https://open.spotify.com/track/4bvpCgPhr1QG6ydPKqubo1"
     },
     {
       "album": {
@@ -6985,6 +7087,24 @@
     },
     {
       "album": {
+        "name": "Prisonniers",
+        "url": "https://open.spotify.com/album/6ZuCDltVsj7Rj6Z6yIvQfN"
+      },
+      "artists": [
+        {
+          "name": "Lorenz",
+          "url": "https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188164,
+      "name": "Prisonniers",
+      "url": "https://open.spotify.com/track/0T7OqHLtjhK7eP2AgtKwLd"
+    },
+    {
+      "album": {
         "name": "Projecteurs",
         "url": "https://open.spotify.com/album/5I0ZrO1lILQ5kVCbucDHHD"
       },
@@ -7348,7 +7468,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 170406,
       "name": "San Deba",
       "url": "https://open.spotify.com/track/24utXqtVcAeOCZzFoSZKwS"
@@ -8150,7 +8270,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 173237,
       "name": "S\u00e8kr\u00e9 An Nou",
       "url": "https://open.spotify.com/track/1Tlh2PH1sPLyMMg3pGfDl1"
@@ -8768,7 +8888,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 249940,
       "name": "Tout contre moi",
       "url": "https://open.spotify.com/track/4OxWlgo0VYmkmcuCgednmi"

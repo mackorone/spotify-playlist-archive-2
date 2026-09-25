@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-30",
-  "description": "Dejate llevar por los mejores lentos del rock. Foto: RAMMA & Cindy Cats",
+  "description": "Los mejores lentos del rock. Foto: reybruja",
   "name": "Baladas Rock",
   "tracks": [
     {
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 233839,
       "name": "Pensamientos",
       "url": "https://open.spotify.com/track/1daUWaMsFC5RM4HKydKJoG"
@@ -2696,7 +2696,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 283884,
       "name": "Por Mil Noches",
       "url": "https://open.spotify.com/track/10zSgbysU2KyVTrcRmtu62"
@@ -2804,7 +2804,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 167691,
       "name": "Se Quiere Matar",
       "url": "https://open.spotify.com/track/77r4DCtHsLL6dJr0HxNXJq"
@@ -3542,6 +3542,24 @@
       "duration_ms": 292400,
       "name": "Y Quem\u00e1s",
       "url": "https://open.spotify.com/track/499kpq8yWHsIWhWrM0Wk6v"
+    },
+    {
+      "album": {
+        "name": "GUSTAR Y OFENDER",
+        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228205,
+      "name": "yirando en el mood",
+      "url": "https://open.spotify.com/track/0MZ2On2GgfAsyOzJ3Xv9uT"
     },
     {
       "album": {

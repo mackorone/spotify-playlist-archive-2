@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Cypress Hill",
+  "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Natanael Cano, Tito Double P, Victor Mendivil, Ovi ",
   "name": "Mucho Rap",
   "tracks": [
     {
@@ -274,6 +274,28 @@
       "duration_ms": 179200,
       "name": "4AM EN IBIZA",
       "url": "https://open.spotify.com/track/3kpv89wsesBcSc6P7LpcDg"
+    },
+    {
+      "album": {
+        "name": "EL MOCO VERDE",
+        "url": "https://open.spotify.com/album/5w4WlFG5HhXOichH3hwKPH"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Granuja",
+          "url": "https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244642,
+      "name": "50 MIL PIEX",
+      "url": "https://open.spotify.com/track/7gSrtsnkzmO9bbDcEN3nz0"
     },
     {
       "album": {
@@ -1254,7 +1276,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 175483,
       "name": "APAGON",
       "url": "https://open.spotify.com/track/2nqChcNFEKA3dz47RuggX3"
@@ -1526,7 +1548,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 231936,
       "name": "As\u00ed Es Mi Vida",
       "url": "https://open.spotify.com/track/0OsHLraLYEhKughSsF8Ccm"
@@ -3198,7 +3220,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 315200,
       "name": "Chambonean",
       "url": "https://open.spotify.com/track/28sXa6bJgr6TCijFG4ZwVW"
@@ -3791,6 +3813,48 @@
     },
     {
       "album": {
+        "name": "Contigo Na M\u00e1s - Remix (feat. Ozuna, Hades66, Jay Wheeler)",
+        "url": "https://open.spotify.com/album/6vwUSUBR0Hly5NATwN0RnT"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 466486,
+      "name": "Contigo Na M\u00e1s - Remix (feat. Ozuna, Hades66, Jay Wheeler)",
+      "url": "https://open.spotify.com/track/4UjjHtqpIwH69uOlLc0VIY"
+    },
+    {
+      "album": {
         "name": "Conversacion Con Dios",
         "url": "https://open.spotify.com/album/2p5hAyL8biLub41xxE3nzw"
       },
@@ -4368,7 +4432,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 238166,
       "name": "De Pty a Mde",
       "url": "https://open.spotify.com/track/5rca90HARuMYKoh8RWySCO"
@@ -6409,6 +6473,24 @@
     },
     {
       "album": {
+        "name": "Freestyle 2",
+        "url": "https://open.spotify.com/album/4l4qCmFx2YQkkyUkGlD4Ch"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112088,
+      "name": "Freestyle 2",
+      "url": "https://open.spotify.com/track/1jvyEHvRg6AbWhoXhpTFsp"
+    },
+    {
+      "album": {
         "name": "Las Que No Estaban",
         "url": "https://open.spotify.com/album/4LaTa9lDGLKUPqIlpbEzDg"
       },
@@ -7098,7 +7180,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160749,
       "name": "Hasta Que Amanezca",
       "url": "https://open.spotify.com/track/7udzQYiFfgs7A5zctiTvIh"
@@ -7746,6 +7828,28 @@
       "duration_ms": 318328,
       "name": "Jerem\u00edas 17-5",
       "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
+    },
+    {
+      "album": {
+        "name": "Jesse Pinkman",
+        "url": "https://open.spotify.com/album/3WcrGEHrfljmOkIXnsyz7Q"
+      },
+      "artists": [
+        {
+          "name": "Tyan G",
+          "url": "https://open.spotify.com/artist/4j1Usj1sKyLB9CDpSZSZ2C"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185454,
+      "name": "Jesse Pinkman",
+      "url": "https://open.spotify.com/track/3u8y82RIaHtWhApeY7j8b8"
     },
     {
       "album": {
@@ -9801,6 +9905,24 @@
     },
     {
       "album": {
+        "name": "Martes 4:13am :\\",
+        "url": "https://open.spotify.com/album/2GJPqgmyTVDYi1JWbOT0nX"
+      },
+      "artists": [
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Martes 4:13am :\\",
+      "url": "https://open.spotify.com/track/6LmviF1jqJRe2J7SdbnQPq"
+    },
+    {
+      "album": {
         "name": "Humble Boyz",
         "url": "https://open.spotify.com/album/6hEQDQh75CuYXT6GuEy8xI"
       },
@@ -11845,6 +11967,36 @@
     },
     {
       "album": {
+        "name": "OLIVIA LA FLAKA",
+        "url": "https://open.spotify.com/album/76WozPiPKgbo1IS52geqP2"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Victor Mendivil",
+          "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "OLIVIA LA FLAKA",
+      "url": "https://open.spotify.com/track/6756nr1dYiw5aNLSgIHNOI"
+    },
+    {
+      "album": {
         "name": "On My Diez",
         "url": "https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U"
       },
@@ -12104,7 +12256,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 224041,
       "name": "PA' LA VUELTA",
       "url": "https://open.spotify.com/track/1C4xSER4CBBj45eV1gDx0F"
@@ -12344,6 +12496,28 @@
       "duration_ms": 254137,
       "name": "Pararrayo",
       "url": "https://open.spotify.com/track/6M8jsJwPGqzK3id58qLPte"
+    },
+    {
+      "album": {
+        "name": "Nunca Voy a Morir",
+        "url": "https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy"
+      },
+      "artists": [
+        {
+          "name": "Omar Camacho",
+          "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+        },
+        {
+          "name": "Rey Quinto",
+          "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Parka",
+      "url": "https://open.spotify.com/track/5Eb7IOb6vFrSpFijpTr61B"
     },
     {
       "album": {
@@ -14456,6 +14630,40 @@
       "duration_ms": 195918,
       "name": "Si Lo Puedes So\u00f1ar",
       "url": "https://open.spotify.com/track/529JIZZBymNcDRijYcjTkF"
+    },
+    {
+      "album": {
+        "name": "SI ME HICIERA EL DE LA LENGUA (REMIX) (feat. Luar La L)",
+        "url": "https://open.spotify.com/album/7j6wj2Hw3jsgGqxbjAoLFe"
+      },
+      "artists": [
+        {
+          "name": "FANTA ROSARIO",
+          "url": "https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN"
+        },
+        {
+          "name": "Jon Z",
+          "url": "https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1"
+        },
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324000,
+      "name": "SI ME HICIERA EL DE LA LENGUA (REMIX) (feat. Luar La L)",
+      "url": "https://open.spotify.com/track/1ILSTelC5zM5zF1zMgb9pE"
     },
     {
       "album": {
@@ -17930,6 +18138,28 @@
       "duration_ms": 233286,
       "name": "XKITTLEZ (with Arcangel)",
       "url": "https://open.spotify.com/track/0EeeiUfFGbKYyvIQcI9TGf"
+    },
+    {
+      "album": {
+        "name": "Ya Lo Dijo",
+        "url": "https://open.spotify.com/album/3cTXp3XP6idq9YACWiacPD"
+      },
+      "artists": [
+        {
+          "name": "JS SERNA",
+          "url": "https://open.spotify.com/artist/7xtH0cO7uO2QuF1Klyvmkz"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188737,
+      "name": "Ya Lo Dijo",
+      "url": "https://open.spotify.com/track/6rMVnnJUwjnIl3hNB6x4Hf"
     },
     {
       "album": {

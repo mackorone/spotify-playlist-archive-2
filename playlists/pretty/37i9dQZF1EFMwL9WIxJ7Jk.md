@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,371 likes - 125 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,372 likes - 125 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 109 | [Little One](https://open.spotify.com/track/08w4vH1aN5K1VuXICBeMGQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 2:11 |
 | 110 | [Infinity](https://open.spotify.com/track/4arU96wjVUSEb4r2q4Iswf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:44 |
 | 111 | [Men's Tears](https://open.spotify.com/track/2Jz4siKCBDZcA1EykilC9B) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:35 |
-| 112 | [Stay Young](https://open.spotify.com/track/3rUevPDCsGVbgJW2dOYnHj) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:30 |
-| 113 | [Ladylike](https://open.spotify.com/track/6aLk4X17PjPpmmFeAqbM7t) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 3:01 |
+| 112 | [Ladylike](https://open.spotify.com/track/6aLk4X17PjPpmmFeAqbM7t) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 3:01 |
+| 113 | [Stay Young](https://open.spotify.com/track/3rUevPDCsGVbgJW2dOYnHj) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 3:30 |
 | 114 | [Toy With Me](https://open.spotify.com/track/18Ft1rojG9WPgffWLOT0o3) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/4NkyWMwVeGOTzWYxcpmYtV) | 2:14 |
 | 115 | [Cry Baby](https://open.spotify.com/track/46h8BCqA1ilPNxdzc9Pp6p) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me](https://open.spotify.com/album/6bkBdwYNeBqqLVF72acs0H) | 2:36 |
 | 116 | [Theme Song](https://open.spotify.com/track/58s7LrJsoMfmFkqYV3yD6L) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Toy With Me \(Deluxe\)](https://open.spotify.com/album/18JIUrWc9SN596q2Km9KSJ) | 2:19 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 124 | [nice to meet ya](https://open.spotify.com/track/2JPXij4tkRfMpOqc9YnjRb) | [Evan McLain](https://open.spotify.com/artist/5SNX2JP4ie5GuSweaPbA3Z), [Aleri](https://open.spotify.com/artist/0JOXL3w9yvATW3MM42cYQM) | [nice to meet ya](https://open.spotify.com/album/1xMewPd8OsoI8MKjud3DKh) | 3:16 |
 | 125 | [Underwater](https://open.spotify.com/track/5dpihukY5xlCzf4OoqKp9w) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Versions of Meghan Trainor](https://open.spotify.com/album/6ikGcT6PGehsnatISZFOK9) | 4:17 |
 
-Snapshot ID: `AcdG5gAAAACK13F4Vx8SRxjBDuh08fAm`
+Snapshot ID: `AcdMfAAAAAA1ajWkLhD2OHCmWdd8/uKN`

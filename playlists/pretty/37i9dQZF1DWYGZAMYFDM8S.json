@@ -1,6 +1,6 @@
 {
   "description": "Keep calm with this mix of laidback, acoustic tracks.",
-  "num_followers": 2095708,
+  "num_followers": 2095641,
   "original_name": "Acoustic Chill",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "The Breach EP",
-        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
-      },
-      "artists": [
-        {
-          "name": "Dustin Tebbutt",
-          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
-        }
-      ],
-      "duration_ms": 253848,
-      "name": "The Breach",
-      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Goodbye to the Valley Low (Side A)",
         "url": "https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 181130,
       "name": "Stolen Seasons",
       "url": "https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "The Breach EP",
+        "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
+      },
+      "artists": [
+        {
+          "name": "Dustin Tebbutt",
+          "url": "https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX"
+        }
+      ],
+      "duration_ms": 253848,
+      "name": "The Breach",
+      "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
     },
     {
       "added_at": "2026-01-09 13:51:16",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-01-09 13:51:16",
       "album": {
-        "name": "After Rain",
-        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
-      },
-      "artists": [
-        {
-          "name": "Dermot Kennedy",
-          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "After Rain",
-      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
-    },
-    {
-      "added_at": "2026-01-09 13:51:16",
-      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 233026,
       "name": "System",
       "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
+    },
+    {
+      "added_at": "2026-01-09 13:51:16",
+      "album": {
+        "name": "After Rain",
+        "url": "https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA"
+      },
+      "artists": [
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "After Rain",
+      "url": "https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU"
     },
     {
       "added_at": "2026-01-09 13:51:16",

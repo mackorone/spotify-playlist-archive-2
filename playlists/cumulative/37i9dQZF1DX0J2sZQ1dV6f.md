@@ -2,9 +2,9 @@
 
 ### [Electro Corridos](https://open.spotify.com/playlist/37i9dQZF1DX0J2sZQ1dV6f)
 
-> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Mando y a Kiko el Crazy
+> Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Esau Ortiz, ELMANU GOMEZ, Joel De La P, Luis R Conriquez
 
-547 songs - 1 day 3 hr 55 min
+548 songs - 1 day 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 | 2024-02-21 | 2024-02-24 |
 | [Sustancias Raras](https://open.spotify.com/track/1Lyp6Zu6kEofJaU7uKRITc) | [HOLI RARE](https://open.spotify.com/artist/1ISWaTxLhrZpB35ew0rW8q), [DJ Sustancia](https://open.spotify.com/artist/5i4Sx94vXjon4B5IPzdTZ9), [Zevra](https://open.spotify.com/artist/7iZesyVtiVJ999T2bbGT2D) | [Sustancias Raras](https://open.spotify.com/album/2yGirwqpSCbTRVldItuvcW) | 3:22 | 2023-05-25 | 2023-06-04 |
 | [Susurro Riddim](https://open.spotify.com/track/1mGxiXPxKIuItW4D2eVgjI) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Susurro Riddim](https://open.spotify.com/album/6f6DfbkP32U7ZIg31X0g0z) | 2:02 | 2022-03-21 | 2022-04-26 |
+| [Sábado de Noche](https://open.spotify.com/track/2BioSFp1kZ9uOIxOiveghK) | [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ), [ELMANU GOMEZ](https://open.spotify.com/artist/42njeO6C8HEoG3u118kMOS), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sábado de Noche](https://open.spotify.com/album/4mZU1LZTaHFA4wv8P8F8vB) | 2:45 | 2026-09-25 |  |
 | [Sé Que Recuerdas](https://open.spotify.com/track/0G4HpZod8ySWzUZqOq2Ool) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Opi the Hit Machine](https://open.spotify.com/artist/5VHv8HRkyW4zmhoYXu476k), [Ruso Beats](https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe) | [Sé Que Recuerdas](https://open.spotify.com/album/1fJJHgGzPSQHM0rCVhXLqp) | 2:53 | 2023-05-25 | 2023-06-10 |
 | [Súbelo & Bájalo](https://open.spotify.com/track/0eaPs2AlJzS1q6zDvnkoEO) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Alexis](https://open.spotify.com/artist/2LudI3JLn6y78XrArvOhfx) | [Sempiterno](https://open.spotify.com/album/6bUYxqBfdn3VrsKBnJu4WQ) | 3:57 | 2023-05-25 | 2023-12-07 |
 | [Ta \- Tan!](https://open.spotify.com/track/2Oz1VUVi99vwepCD6IhyYx) | [EsaMiPau!](https://open.spotify.com/artist/2lmxVMvK3ROVKHvLg23fei), [Baby Bae](https://open.spotify.com/artist/7rtODlbpm0d3ZeGOJgxHbU), [The Produsexxx](https://open.spotify.com/artist/0Huo99sGzwmHx3VfybdIk2), [Trillhouse](https://open.spotify.com/artist/0FIkFONUP78BzJE4DC8Gfa) | [Ta \- Tan!](https://open.spotify.com/album/6HgG0Wuvwy10VRGQvouZIn) | 2:59 | 2022-03-21 | 2022-04-20 |

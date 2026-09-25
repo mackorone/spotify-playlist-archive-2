@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Alberto Vazquez 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,472 likes - 79 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,471 likes - 79 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,13 +65,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 55 | [Pajarillo](https://open.spotify.com/track/0ZvSxLlYyF2qEs3PQj5X3w) | [José Maria Napoleón](https://open.spotify.com/artist/72v53CufRiSyqcQ78KUQ5p), [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Pajarillo](https://open.spotify.com/album/5jH8BDn3zQe2FQ0aZdson7) | 3:49 |
 | 56 | [Popurrí Vicente Fernández: Lástima que seas ajena / Por tu maldito amor / La ley del monte / De qué manera te olvido / Volver, volver](https://open.spotify.com/track/0Bwl0TwMU8M4nS99dyT3g6) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Popurrí Vicente Fernández: Lástima que seas ajena / Por tu maldito amor / La ley del monte / De qué manera te olvido / Volver, volver](https://open.spotify.com/album/6zbF5fead4qjutspBQKrxW) | 12:53 |
 | 57 | [Traigan Las Otras](https://open.spotify.com/track/5E9oKZMXP4AmH1xqsgeR6I) | [Toño Y Freddy](https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw) | [Traigan Las Otras](https://open.spotify.com/album/2bmqn5pa7iUHPAsB0GW2Vv) | 3:50 |
-| 58 | [Lo Que Se Dice Amor](https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Lo Que Se Dice Amor](https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI) | 3:12 |
-| 59 | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw) | 3:29 |
+| 58 | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/track/0Z1Hwnp3Ts3tpK4Lki5KOp) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Que Ganas De No Verte Nunca Más](https://open.spotify.com/album/2hkLkzcmOqFnlhZPpx58kw) | 3:29 |
+| 59 | [Lo Que Se Dice Amor](https://open.spotify.com/track/14aDLVA80RCtKbOdS0eVG7) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Lo Que Se Dice Amor](https://open.spotify.com/album/4Ok20KmkESQQ0rRvpciMbI) | 3:12 |
 | 60 | [Me Nace Del Corazón](https://open.spotify.com/track/3oGiGhavASAxgYT4RjISIa) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Me Nace Del Corazón](https://open.spotify.com/album/0p1YpGbcw2bKllgY6Fc8Dr) | 2:44 |
 | 61 | [Caballero](https://open.spotify.com/track/5Y5ruNeWwtOxIIPN9x2GAt) | [Mariachi Internacional CHG De Gamaliel Contreras Huerta](https://open.spotify.com/artist/4Z0ZWO0lp2z7HqhAs9kVSw) | [Caballero](https://open.spotify.com/album/0uMwiQiHNtJcaofBMEobOj) | 3:47 |
 | 62 | [Angelito Sin Alas](https://open.spotify.com/track/3qSXwUNvSMFAfmrs1m4FIp) | [Las Posada](https://open.spotify.com/artist/4A9rAqUsLJOh3tEr5YTyll) | [Angelito Sin Alas](https://open.spotify.com/album/1X1ruDoYErT8r1phWKwTI5) | 2:48 |
-| 63 | [Esa Perra Ya Me Mordió](https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Esa Perra Ya Me Mordió](https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC) | 3:30 |
-| 64 | [Así Fue](https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Así Fue](https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g) | 7:06 |
+| 63 | [Así Fue](https://open.spotify.com/track/5YNlvxFFdcS1Jili8ln0ZP) | [ANDYVERE](https://open.spotify.com/artist/5XxeDwviA9LNx9xMBUAZxa) | [Así Fue](https://open.spotify.com/album/7HVzgfaschYlAQZzlenb6g) | 7:06 |
+| 64 | [Esa Perra Ya Me Mordió](https://open.spotify.com/track/1meWqNTdwoGQXdbizpKOUd) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Esa Perra Ya Me Mordió](https://open.spotify.com/album/0J19wntQXd72hlcOZ7ucnC) | 3:30 |
 | 65 | [Pagaré Condena](https://open.spotify.com/track/7j1MTMjDWlbyzanmsoeLTW) | [Juan Pablo Tostado](https://open.spotify.com/artist/4arqPiSaDf0CHApe1QN2Jp) | [Pagaré Condena](https://open.spotify.com/album/4rEta5YoGKqAas5frnNZJS) | 2:44 |
 | 66 | [Playa Sola](https://open.spotify.com/track/0aiT7asptX1UK7v2HIi7k4) | [Jessi Valente](https://open.spotify.com/artist/42RHynQK9VaFPjO1GLcPKs) | [Playa Sola](https://open.spotify.com/album/0m5WSWZNlScdO2S92fZCqW) | 2:44 |
 | 67 | [El Target](https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Target](https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ) | 2:45 |

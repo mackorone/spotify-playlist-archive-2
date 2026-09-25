@@ -4,7 +4,7 @@
 
 > vi leker ikke hits!
 
-717 songs - 1 day 11 hr 41 min
+719 songs - 1 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-22 |  |
 | [Hypotheticals](https://open.spotify.com/track/265UFcu8iT1YW1XycceacD) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [Hypotheticals](https://open.spotify.com/album/6YBKs199i76JqiEk2yAk9W) | 4:02 | 2025-05-12 | 2025-05-23 |
 | [Hysteria](https://open.spotify.com/track/7cBm3l9gb7D18dqioJ0kEy) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Hysteria](https://open.spotify.com/album/5AKFAqGH2MSyWZX0Vj7ZN2) | 2:23 | 2026-04-02 |  |
+| [Håper at du ser meg nå](https://open.spotify.com/track/5Mp8622EJA1JQ021WlGizi) | [ULD](https://open.spotify.com/artist/5P7qPM9Znluf9Hqgi5WIg9) | [Håper at du ser meg nå](https://open.spotify.com/album/1i9x4KFnthGOQlqYE32zmu) | 4:30 | 2026-09-24 |  |
 | [Håpløs](https://open.spotify.com/track/4SbpGcPIMBFFwPO5B7cuvl) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa), [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Håpløs](https://open.spotify.com/album/5qampg6B8BB77GrP433F6O) | 3:01 | 2026-04-30 |  |
 | [HÆ?](https://open.spotify.com/track/2q5ndRxFsCsDMUY0MjbXAZ) | [Ylva](https://open.spotify.com/artist/3BLtF1cfHaJ98drJiRefIG) | [HÆ?](https://open.spotify.com/album/1Sbtt9rQIOdwNT2RxvstDp) | 2:32 | 2025-10-16 |  |
 | [HÆNGARANG](https://open.spotify.com/track/2qKpyr2ZwvnnQsFAwMoMW9) | [Knut](https://open.spotify.com/artist/2jUfl3dnhE9YY6IjEwow7I), [Snekker Andersen](https://open.spotify.com/artist/0PTWRJRMOsQYswmu4KmxUM) | [THE BANGARANG EP](https://open.spotify.com/album/3XtKWhCYurL3bpztitm6Si) | 2:08 | 2026-05-21 |  |
@@ -427,6 +428,7 @@
 | [Meir](https://open.spotify.com/track/0GO4Q0m6UwrTA49jZaNqJi) | [06 Boys](https://open.spotify.com/artist/0V2Y2bp26jVrvRYKtS33EN) | [Meir](https://open.spotify.com/album/2YNBmv3PoUpJkhPAQY2VLQ) | 2:25 | 2025-04-30 |  |
 | [Messy](https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [This Wasn't Meant For You Anyway](https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U) | 4:44 | 2025-01-09 | 2025-05-23 |
 | [Miles On It](https://open.spotify.com/track/4pkb8SbRGeHAvdb87v9rpf) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Miles On It](https://open.spotify.com/album/5gWV4yp27HCbXJ1YLe8hQM) | 2:48 | 2024-06-27 | 2025-05-01 |
+| [Min bydel](https://open.spotify.com/track/3ZVNAnhDjk8GhTeFzaRjsp) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Min bydel](https://open.spotify.com/album/6QD6LxjIh19Qeml8vF0n5H) | 2:54 | 2026-09-24 |  |
 | [Miss Me Vendetta](https://open.spotify.com/track/0gxTKWnU4Nw96sA4na2xUN) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe) | [Miss Me Vendetta](https://open.spotify.com/album/5WuxJ5z2dRAVEvy3Jzm5p6) | 3:03 | 2025-07-10 |  |
 | [Missing Out](https://open.spotify.com/track/5w1F0iEvlqRHm3uZt9ZejA) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Missing Out](https://open.spotify.com/album/51AhhH21LzBtgrCbLXrST0) | 3:02 | 2025-06-12 |  |
 | [Model](https://open.spotify.com/track/1xHWII0YRyiTAzWndE5TVB) | [Kyle Alessandro](https://open.spotify.com/artist/4KfEG606HYb1TLQhq7NbDl) | [Model](https://open.spotify.com/album/6K1qRw01nmZVjafCXLo0u0) | 2:52 | 2025-09-26 | 2026-03-13 |

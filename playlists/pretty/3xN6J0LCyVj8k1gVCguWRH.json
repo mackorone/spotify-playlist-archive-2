@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 143323,
+  "num_followers": 143316,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA/H1gFMP2jsfHpXdz82tM5D/1dWWcG",
+  "snapshot_id": "AAA/JIlbAz1c3VhjUjYebo3wSOQIHd5R",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -109,6 +109,22 @@
       "url": "https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz"
     },
     {
+      "added_at": "2026-09-25 00:53:17",
+      "album": {
+        "name": "She's Struck Gold",
+        "url": "https://open.spotify.com/album/2EcQkPVR13MY2iurzT1f3Q"
+      },
+      "artists": [
+        {
+          "name": "Ally Cribb",
+          "url": "https://open.spotify.com/artist/6JxJ3SU1utmj0Ny5Q10N1Z"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "She's Struck Gold",
+      "url": "https://open.spotify.com/track/38vqC5OzoThEZxrWLK5LxQ"
+    },
+    {
       "added_at": "2026-07-30 16:33:03",
       "album": {
         "name": "Reality Awaits",
@@ -155,6 +171,22 @@
       "duration_ms": 181253,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/7aTcdBz0stpZqhqbnDCXBI"
+    },
+    {
+      "added_at": "2026-09-25 00:55:52",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/6QftuviyAa7aIxdWKx1Ulf"
+      },
+      "artists": [
+        {
+          "name": "Jhaysings",
+          "url": "https://open.spotify.com/artist/5hIVkHpxmW87MrcpvjCKjv"
+        }
+      ],
+      "duration_ms": 147541,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/04LBVpBY0OfARJ1xfPQxMC"
     },
     {
       "added_at": "2026-07-30 16:34:02",
@@ -445,6 +477,26 @@
       "url": "https://open.spotify.com/track/2NVpYQqdraEcQwqT7GhUkh"
     },
     {
+      "added_at": "2026-09-25 00:49:16",
+      "album": {
+        "name": "Bloom For You",
+        "url": "https://open.spotify.com/album/1akjy8MI0bSBCFS1QQNeCR"
+      },
+      "artists": [
+        {
+          "name": "Chase Perryman",
+          "url": "https://open.spotify.com/artist/5OSeubQCEvvJFhLA5DRwGZ"
+        },
+        {
+          "name": "Jared Hallock",
+          "url": "https://open.spotify.com/artist/6jWGgYpDHLDCpb2rCH72Gl"
+        }
+      ],
+      "duration_ms": 141346,
+      "name": "Bloom For You",
+      "url": "https://open.spotify.com/track/541BmL1qNsrsOfKRiBljiZ"
+    },
+    {
       "added_at": "2026-07-30 16:38:04",
       "album": {
         "name": "Emmanuele",
@@ -711,6 +763,38 @@
       "duration_ms": 139826,
       "name": "Do The Do",
       "url": "https://open.spotify.com/track/2J2G92kpvzKJHLSTB1HXME"
+    },
+    {
+      "added_at": "2026-09-25 00:49:13",
+      "album": {
+        "name": "Do He Know",
+        "url": "https://open.spotify.com/album/467y0qwE7a42GGmc3F4pZe"
+      },
+      "artists": [
+        {
+          "name": "BK Operator",
+          "url": "https://open.spotify.com/artist/0BUt2XIZlmQU6TBPzN0ST3"
+        }
+      ],
+      "duration_ms": 176239,
+      "name": "Do He Know",
+      "url": "https://open.spotify.com/track/69zfpfxeU5oikzcLFS1N1A"
+    },
+    {
+      "added_at": "2026-09-25 00:55:55",
+      "album": {
+        "name": "Ever Ever Ever (Kennedy Avenue Demo)",
+        "url": "https://open.spotify.com/album/0eJPmwnRuINUJB90cJuprx"
+      },
+      "artists": [
+        {
+          "name": "M Ross Perkins",
+          "url": "https://open.spotify.com/artist/4zo4TmNq5dxoBOCJLzkjtF"
+        }
+      ],
+      "duration_ms": 161986,
+      "name": "Ever Ever Ever - Kennedy Avenue Demo",
+      "url": "https://open.spotify.com/track/2kC86tTdOJjCe9uvRJTPUL"
     },
     {
       "added_at": "2026-07-30 16:41:55",

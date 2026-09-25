@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Rend Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,062 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,108 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

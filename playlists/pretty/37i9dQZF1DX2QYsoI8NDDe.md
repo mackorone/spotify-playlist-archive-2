@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Jeaneth Valenzuela
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,160 likes - 119 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,166 likes - 119 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 28 | [Por Un Mal Amor](https://open.spotify.com/track/4JGg4fltXFr17DmZWAtEv2) | [Mariana Seoane](https://open.spotify.com/artist/5erc8Dr6fyYJSoIXJKlFZV), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Por Un Mal Amor](https://open.spotify.com/album/01twnCwIBQr3rXrZZ7wqwU) | 3:13 |
 | 29 | [Cuando Una Mujer](https://open.spotify.com/track/3avC8Pl0P86k3GQjE1h9y1) | [Mariangela](https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf) | [Cuando Una Mujer](https://open.spotify.com/album/6Kqio6YmPAge6dLPtV0cYh) | 2:36 |
 | 30 | [A Través Del Vaso](https://open.spotify.com/track/3MtIfJ7WM8lTHxtf7rYe15) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [A Través Del Vaso](https://open.spotify.com/album/7op4sGECjAI3o6Bs0BDZoQ) | 3:02 |
-| 31 | [La Línea](https://open.spotify.com/track/5nBElDk2lS45s4JXcQjMps) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [La Línea](https://open.spotify.com/album/4IPQrzEH9rpoxHL6x0Zh6V) | 3:11 |
-| 32 | [Una Noche Me Embriague](https://open.spotify.com/track/3rUwKx1dg3pBvzKlKNmiwj) | [Chayito Valdez Hija](https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa) | [Herencias De Mi Madre](https://open.spotify.com/album/2zWJjl983MZFO4moPTZT91) | 2:35 |
+| 31 | [Una Noche Me Embriague](https://open.spotify.com/track/3rUwKx1dg3pBvzKlKNmiwj) | [Chayito Valdez Hija](https://open.spotify.com/artist/0zrvtypngq8fmTJzlwKNIa) | [Herencias De Mi Madre](https://open.spotify.com/album/2zWJjl983MZFO4moPTZT91) | 2:35 |
+| 32 | [La Línea](https://open.spotify.com/track/5nBElDk2lS45s4JXcQjMps) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [La Línea](https://open.spotify.com/album/4IPQrzEH9rpoxHL6x0Zh6V) | 3:11 |
 | 33 | [Piensa en mí](https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Piensa en mí](https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev) | 2:53 |
 | 34 | [China De Los Ojos Negros](https://open.spotify.com/track/275BIXf4pDyFkk572C0IfJ) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [China De Los Ojos Negros](https://open.spotify.com/album/3yIdyBaBDP25YUA3ho3LaK) | 2:34 |
 | 35 | [Ven Devórame Otra Vez](https://open.spotify.com/track/7pndz0K5oyVUb3n9N5r14i) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [Ven Devórame Otra Vez](https://open.spotify.com/album/3wM4VgceWvRdeRCrwRVjtj) | 3:12 |
@@ -118,10 +118,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 108 | [No Me Queda Más \- En Vivo](https://open.spotify.com/track/4Zj0D44I1YGp4AKlaLSxB9) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [No Me Queda Más \(En Vivo\)](https://open.spotify.com/album/3hIJDpOqh6zItKT6qSRXao) | 3:21 |
 | 109 | [SI TÚ ERES MI HOMBRE Y YO TU MUJER \- EN VIVO](https://open.spotify.com/track/0E2Nw0aA2F5cHRybVGHhNP) | [Liz Ocampo](https://open.spotify.com/artist/41T07jnEGtuRN46wy778zx) | [SI TÚ ERES MI HOMBRE Y YO TU MUJER \(EN VIVO\)](https://open.spotify.com/album/4YnzTMA71h2DvfNSGhPk3w) | 3:53 |
 | 110 | [Mi México \(Radio Edit\)](https://open.spotify.com/track/2Ba99BWC1xQ0sVn2TP5lAf) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Canciones Sin Tiempo](https://open.spotify.com/album/0uKJ1IJ62Bx0xvy4pdXD1y) | 2:59 |
-| 111 | [Cuando Ama Una Mujer](https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o) | [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [Cuando Ama Una Mujer](https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp) | 2:30 |
-| 112 | [Amor Migajero](https://open.spotify.com/track/7A0uJAjQ3oH8lsDhDF8g0m) | [Alejandra Mango](https://open.spotify.com/artist/5fgxNxx4wLPlyGSvHH0LSo) | [Amor Migajero](https://open.spotify.com/album/1DnyW8BiuysCcr6RgnRXEf) | 2:56 |
+| 111 | [Amor Migajero](https://open.spotify.com/track/7A0uJAjQ3oH8lsDhDF8g0m) | [Alejandra Mango](https://open.spotify.com/artist/5fgxNxx4wLPlyGSvHH0LSo) | [Amor Migajero](https://open.spotify.com/album/1DnyW8BiuysCcr6RgnRXEf) | 2:56 |
+| 112 | [Ay María](https://open.spotify.com/track/1pVYyhDLnK8nUf2kNFmAVc) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Ay María](https://open.spotify.com/album/0kMB100laHgatol6jxokqE) | 2:48 |
 | 113 | [Esa Hembra Es Mala \- En Vivo](https://open.spotify.com/track/6aOa9RIM1Jc0m9Ek1IUKgP) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [Esa Hembra Es Mala \(En Vivo\)](https://open.spotify.com/album/7FiCupAPcUBRsVnTKDUaUJ) | 4:23 |
-| 114 | [Ay María](https://open.spotify.com/track/1pVYyhDLnK8nUf2kNFmAVc) | [Marián Oviedo](https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci) | [Ay María](https://open.spotify.com/album/0kMB100laHgatol6jxokqE) | 2:48 |
+| 114 | [Cuando Ama Una Mujer](https://open.spotify.com/track/28prtlzyG5n8cItBlePn9o) | [Diana Hoyos](https://open.spotify.com/artist/1OfXFUyD2ihq5rMFtWIuJn) | [Cuando Ama Una Mujer](https://open.spotify.com/album/53jbTsa1xsKMIMhCh7HtEp) | 2:30 |
 | 115 | [Ahora Somos](https://open.spotify.com/track/4M6r7BwrNtSyAGfYOOmcln) | [Vilax](https://open.spotify.com/artist/2COneGRGNI8iBBjrYN0xHr) | [Ahora Somos](https://open.spotify.com/album/25lxJgm2RDoAwbXZY0Y8Lt) | 3:13 |
 | 116 | [La Bruta \- En Vivo](https://open.spotify.com/track/163temcvEe9TOytyKIBM0r) | [Perla Valenzuela](https://open.spotify.com/artist/7lGS8PPqjf2dH9NOotYNxH) | [La Bruta \(En Vivo\)](https://open.spotify.com/album/2c0n8wO3gVg2WhmOIUtpGA) | 2:54 |
 | 117 | [Gracias](https://open.spotify.com/track/4XRJ2OjlS5Trp66QQSDAVC) | [Rocio Jasso](https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b) | [Gracias](https://open.spotify.com/album/5JoE7qRxFl2gBMyKpddgV6) | 3:34 |

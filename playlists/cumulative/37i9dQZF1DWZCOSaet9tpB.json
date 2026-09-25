@@ -2919,6 +2919,28 @@
     },
     {
       "album": {
+        "name": "CHE",
+        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146064,
+      "name": "CHE",
+      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
+    },
+    {
+      "album": {
         "name": "Che Che (feat. Asake)",
         "url": "https://open.spotify.com/album/5PoSVyeGIhZ9EYWZlkWF9R"
       },
@@ -3482,6 +3504,24 @@
       "duration_ms": 192158,
       "name": "Dem Dey",
       "url": "https://open.spotify.com/track/4FHlbOMdOcPnOYmfH8dl1Z"
+    },
+    {
+      "album": {
+        "name": "SWAGUU",
+        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158589,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
     },
     {
       "album": {
@@ -5220,7 +5260,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 243755,
       "name": "Gimme Dat Ting (with NO11)",
       "url": "https://open.spotify.com/track/5RVZ1kfkbUkZ2s3BsRss18"
@@ -5356,6 +5396,24 @@
       "duration_ms": 137142,
       "name": "GLACIER GIRL",
       "url": "https://open.spotify.com/track/7DjCte93Dk2YIVMixhUqHO"
+    },
+    {
+      "album": {
+        "name": "Dear London",
+        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Glass in the Air",
+      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
     },
     {
       "album": {
@@ -6990,7 +7048,7 @@
       ],
       "date_added": "2026-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 154909,
       "name": "Karma",
       "url": "https://open.spotify.com/track/3YQafPGbk2L1McXXJ43iMv"
@@ -8376,7 +8434,7 @@
       ],
       "date_added": "2026-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 167586,
       "name": "MOTION SICKNESS (feat. Zlatan)",
       "url": "https://open.spotify.com/track/24NCQmCRmHlUr1syzQ6fse"
@@ -9570,6 +9628,24 @@
       "duration_ms": 234977,
       "name": "One Condition",
       "url": "https://open.spotify.com/track/5ht0zFXsezKxVvu8eMiewq"
+    },
+    {
+      "album": {
+        "name": "Online",
+        "url": "https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/5ljTDsyyDKI2xbJOqwOdVU"
     },
     {
       "album": {
@@ -13766,7 +13842,7 @@
       ],
       "date_added": "2025-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 165642,
       "name": "you",
       "url": "https://open.spotify.com/track/6RW5AtwRPRc4C0j2EgCdTr"

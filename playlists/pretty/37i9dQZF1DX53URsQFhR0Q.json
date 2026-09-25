@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 12946,
+  "num_followers": 12957,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,38 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
+        "name": "My Vision",
+        "url": "https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK"
+      },
+      "artists": [
+        {
+          "name": "Noble Nketsiah",
+          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+        }
+      ],
+      "duration_ms": 331990,
+      "name": "Metease yi",
+      "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
+        "name": "Ghana Gospel Classics, Vol. 1",
+        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
+      },
+      "artists": [
+        {
+          "name": "Philipa Baafi",
+          "url": "https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0"
+        }
+      ],
+      "duration_ms": 355840,
+      "name": "Go Higher",
+      "url": "https://open.spotify.com/track/7GwaFLRJJq0Z0d2g3MfcE2"
+    },
+    {
+      "added_at": "2025-01-09 09:53:00",
+      "album": {
         "name": "Wobeye Kese",
         "url": "https://open.spotify.com/album/19Pot8xfxGm7MiV1aruupT"
       },
@@ -528,13 +560,13 @@
       },
       "artists": [
         {
-          "name": "Philipa Baafi",
-          "url": "https://open.spotify.com/artist/35P14RT5loRZM8GChmKle0"
+          "name": "Ama Boahemaa",
+          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
         }
       ],
-      "duration_ms": 355840,
-      "name": "Go Higher",
-      "url": "https://open.spotify.com/track/7GwaFLRJJq0Z0d2g3MfcE2"
+      "duration_ms": 331389,
+      "name": "Enyi Me Mma",
+      "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -551,22 +583,6 @@
       "duration_ms": 269169,
       "name": "Mo Ne Yo",
       "url": "https://open.spotify.com/track/2dopQvR9fcAJwlR40o3yLD"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Ghana Gospel Classics, Vol. 1",
-        "url": "https://open.spotify.com/album/6mQQJMMcckDuVfEPTex79h"
-      },
-      "artists": [
-        {
-          "name": "Ama Boahemaa",
-          "url": "https://open.spotify.com/artist/0CeSW6zLjIerwS3S0hMetU"
-        }
-      ],
-      "duration_ms": 331389,
-      "name": "Enyi Me Mma",
-      "url": "https://open.spotify.com/track/3jT6EePgDYEyeXCyH6GPYS"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -691,8 +707,8 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "My Vision",
-        "url": "https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK"
+        "name": "Yesu Do",
+        "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
       },
       "artists": [
         {
@@ -700,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
         }
       ],
-      "duration_ms": 331990,
-      "name": "Metease yi",
-      "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
+      "duration_ms": 350328,
+      "name": "Yesu Do",
+      "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -771,18 +787,18 @@
     {
       "added_at": "2025-01-09 09:53:00",
       "album": {
-        "name": "Yesu Do",
-        "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
+        "name": "Sacrifice",
+        "url": "https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm"
       },
       "artists": [
         {
-          "name": "Noble Nketsiah",
-          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+          "name": "Dsp Kofi Sarpong",
+          "url": "https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el"
         }
       ],
-      "duration_ms": 350328,
-      "name": "Yesu Do",
-      "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
+      "duration_ms": 378666,
+      "name": "Ayeyi Ndowm",
+      "url": "https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1"
     },
     {
       "added_at": "2025-01-09 09:53:00",
@@ -815,22 +831,6 @@
       "duration_ms": 462000,
       "name": "Awurade Kasa",
       "url": "https://open.spotify.com/track/5mInFrdNxVsfBUeoUazXmo"
-    },
-    {
-      "added_at": "2025-01-09 09:53:00",
-      "album": {
-        "name": "Sacrifice",
-        "url": "https://open.spotify.com/album/2QMBRCMuXbK1J8gq9F1BGm"
-      },
-      "artists": [
-        {
-          "name": "Dsp Kofi Sarpong",
-          "url": "https://open.spotify.com/artist/5n5XQctzehn4LwiGS2A0el"
-        }
-      ],
-      "duration_ms": 378666,
-      "name": "Ayeyi Ndowm",
-      "url": "https://open.spotify.com/track/1aiVyCnIAwKXX19mySlqu1"
     }
   ],
   "unique_name": "Ghana Gospel Classics",

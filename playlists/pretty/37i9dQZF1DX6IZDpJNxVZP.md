@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun and spooky tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,068 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,063 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 42 | [Spooky, Scary Skeletons](https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:40 |
 | 43 | [Skeletone](https://open.spotify.com/track/3oag5OqiSruFgmz5mft1B0) | [Caspar Babypants](https://open.spotify.com/artist/4wwj0BGZ6T61LB1jBWdo0n) | [I FOUND YOU!](https://open.spotify.com/album/5cgca90mQ014PmAoEOkxbF) | 2:35 |
 | 44 | [It Must Be Halloween](https://open.spotify.com/track/1f1svbp3KN0QkxWh3Ecx7W) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [It Must Be Halloween](https://open.spotify.com/album/5rbxNOnGkelOAzu5xHPNGG) | 2:29 |
-| 45 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w), [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 |
-| 46 | [Halloween Stomp](https://open.spotify.com/track/3ehXfGKCpCj5LmU2LMqRK7) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:17 |
+| 45 | [Halloween Stomp](https://open.spotify.com/track/3ehXfGKCpCj5LmU2LMqRK7) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 2:17 |
+| 46 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w), [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 |
 | 47 | [I Picked One Pumpkin](https://open.spotify.com/track/0ZL9uSA7x450DFvKuG43Gu) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [I Picked One Pumpkin](https://open.spotify.com/album/0hbpyXdWi80fnPvI4TkyEQ) | 2:10 |
 | 48 | [Spooky Wooky](https://open.spotify.com/track/6NZNAE8vyg7lvFzCupKJ2N) | [Itty Bitty Beats](https://open.spotify.com/artist/1mfp4yLNgjAdhr5soYvNqo) | [Spooky Wooky](https://open.spotify.com/album/4uMNaufB5pd3R0VZkgDJQr) | 2:19 |
 | 49 | [Bones! Bones! Bones!](https://open.spotify.com/track/0eVGZSVkdxVfrtoIZsUDq7) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Awesome Sauce](https://open.spotify.com/artist/4rF4SqHjG4ZNy3k6aJjru1) | [Bones! Bones! Bones!](https://open.spotify.com/album/5V8VkDTGBoTIkxrIywqlda) | 1:37 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 70 | [Spooky Halloween Monsters](https://open.spotify.com/track/3svWXeH27w0zJjWVXtod5N) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Pinkfong & Ninimo Halloween Songs](https://open.spotify.com/album/2GlnSRGOQDQfSu0BzMVlJA) | 3:13 |
 | 71 | [Stirring The Brew](https://open.spotify.com/track/4B1rz3ylnsQrrsalWIKlOU) | [Jennielea](https://open.spotify.com/artist/6P6UPaX07Ha288fcXwWRKZ) | [It's Me Jennielea And My Very First CD](https://open.spotify.com/album/16pLEdHtvubzyrhy8AOzeq) | 0:58 |
 | 72 | [I Put A Spell On You](https://open.spotify.com/track/4TKPFdNi9Lm8TM5LVJJ6cR) | [The Hit Crew](https://open.spotify.com/artist/76PJKS3IQsf4sSayx2taE0) | [57 Kids Greatest Halloween Songs, Stories, And Sounds](https://open.spotify.com/album/4OcOuar3UJlTx2GWPrgyF6) | 3:21 |
-| 73 | [I Love Halloween](https://open.spotify.com/track/68pqZ1JjkYil3IXC7ZWDFN) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [I Love Halloween](https://open.spotify.com/album/47dsswaZgi2A5lVQdt625K) | 1:50 |
-| 74 | [Monster Mash](https://open.spotify.com/track/5VnJN193do97HJy4aSY92j) | [Kid Drew and the Kids](https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3) | [Kid Drew and the Kids Present: Spooky Halloween Party Music](https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a) | 3:13 |
-| 75 | [On Halloween](https://open.spotify.com/track/0sBIDKzgE50k7mmZSLxEFa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Halloween](https://open.spotify.com/album/1k14nuO98b5izdLmLoReL8) | 1:36 |
+| 73 | [Monster Mash](https://open.spotify.com/track/5VnJN193do97HJy4aSY92j) | [Kid Drew and the Kids](https://open.spotify.com/artist/0ZZEIFI5YjLqOo4qc5Awj3) | [Kid Drew and the Kids Present: Spooky Halloween Party Music](https://open.spotify.com/album/6ejSEMxGjq0F9aVPHK0y9a) | 3:13 |
+| 74 | [I Love Halloween](https://open.spotify.com/track/68pqZ1JjkYil3IXC7ZWDFN) | [Doggyland](https://open.spotify.com/artist/34ZLdDJVv5clP7Ask1zjoP), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [I Love Halloween](https://open.spotify.com/album/47dsswaZgi2A5lVQdt625K) | 1:50 |
+| 75 | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/track/1XCoPYpOwAIDffPzM7RNPP) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [I Want Candy \(From A Really Haunted Loud House\)](https://open.spotify.com/album/7CZTb3EvLKNDGxWwedSRj4) | 3:12 |
 
 Snapshot ID: `AAAAAFQACc9BQgF8yYOt4bxAU2FtnOna`

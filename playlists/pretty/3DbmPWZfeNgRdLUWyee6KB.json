@@ -6,8 +6,24 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAYQTN+CV2Eq1PFXewDA8pxFiZYGZEQ",
+  "snapshot_id": "AAAYRLkv/6VSbYPRNhMQP/87pLLdSLNz",
   "tracks": [
+    {
+      "added_at": "2026-09-24 09:39:56",
+      "album": {
+        "name": "The Sovereign Sacrifice",
+        "url": "https://open.spotify.com/album/0yfWtJgyjsL0mlmjvG1dxp"
+      },
+      "artists": [
+        {
+          "name": "Aethelred's Anvil",
+          "url": "https://open.spotify.com/artist/1GY0JJ4uKAXJk0dPtto7rT"
+        }
+      ],
+      "duration_ms": 267760,
+      "name": "The Final Ember",
+      "url": "https://open.spotify.com/track/2uBH8zKy6WmcdtGkEOJ0cV"
+    },
     {
       "added_at": "2026-09-19 10:08:42",
       "album": {
@@ -1407,6 +1423,38 @@
       "duration_ms": 191048,
       "name": "i hate being alone",
       "url": "https://open.spotify.com/track/45WsdFznmx8wPk4wWtERhB"
+    },
+    {
+      "added_at": "2026-09-24 07:37:09",
+      "album": {
+        "name": "Jeszcze pi\u0119\u0107 minut",
+        "url": "https://open.spotify.com/album/0nnuClRdorPf2ChO0Rorms"
+      },
+      "artists": [
+        {
+          "name": "JRS",
+          "url": "https://open.spotify.com/artist/3VHgaSFcWYC4gXSFXhkNZe"
+        }
+      ],
+      "duration_ms": 145057,
+      "name": "Jeszcze pi\u0119\u0107 minut",
+      "url": "https://open.spotify.com/track/2rBPOswB2YRW5cCFYuiOKL"
+    },
+    {
+      "added_at": "2026-09-24 07:37:17",
+      "album": {
+        "name": "immer wenn du gehst",
+        "url": "https://open.spotify.com/album/5EeespcgHaVOsMNyN1ypqV"
+      },
+      "artists": [
+        {
+          "name": "urbie",
+          "url": "https://open.spotify.com/artist/3q6Roe8WuwjXajxaTkQLSB"
+        }
+      ],
+      "duration_ms": 173863,
+      "name": "immer wenn du gehst",
+      "url": "https://open.spotify.com/track/1rFssJrqxMfiYilthBxiSR"
     }
   ],
   "unique_name": "New Indie Music",

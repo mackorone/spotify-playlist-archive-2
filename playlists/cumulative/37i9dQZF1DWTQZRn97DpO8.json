@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Ana\u00efs Cardot",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f\nPhoto : Varnish La Piscine",
   "name": "le miel",
   "tracks": [
     {
@@ -1671,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00e9ri doudou",
+        "url": "https://open.spotify.com/album/3PmlIZLR43yjTglW8XSHnW"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "Ch\u00e9ri doudou",
+      "url": "https://open.spotify.com/track/31v1ovWgFGYqF4ylU647q7"
+    },
+    {
+      "album": {
         "name": "spleen. social club",
         "url": "https://open.spotify.com/album/6zfiNo6nUuPrVoawomWkEK"
       },
@@ -1686,7 +1704,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 141373,
       "name": "ciel azur",
       "url": "https://open.spotify.com/track/2mRq38Iw2Wtf5gJyu8Y8bB"
@@ -4704,7 +4722,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 222111,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/0KTl4fNPLmP7Fhff53QkTT"
@@ -5360,7 +5378,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 132571,
       "name": "Jusqu'ici tout va bien",
       "url": "https://open.spotify.com/track/3tCSDz7OiGQUTQNRkUqw0E"
@@ -6060,7 +6078,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 158693,
       "name": "le port des gens mal-aim\u00e9s",
       "url": "https://open.spotify.com/track/3bTlKuRgB2WqmpVTTdws55"
@@ -6132,7 +6150,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 199586,
       "name": "Lendemain",
       "url": "https://open.spotify.com/track/7JO1Bo2YcBVdyunKnYiSiw"
@@ -6248,6 +6266,24 @@
       "duration_ms": 198698,
       "name": "Les yeux ne mentent jamais",
       "url": "https://open.spotify.com/track/7y1cfgGTIjVhij8Yh1sQcs"
+    },
+    {
+      "album": {
+        "name": "LETS TALK",
+        "url": "https://open.spotify.com/album/73wNWPA8H48SuTnpKB0Efm"
+      },
+      "artists": [
+        {
+          "name": "Varnish La Piscine",
+          "url": "https://open.spotify.com/artist/17o6H1EQGD90TQxJ4pErIU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260406,
+      "name": "LETS TALK",
+      "url": "https://open.spotify.com/track/4AXsgRfMSenMUQxwNUwSJp"
     },
     {
       "album": {
@@ -7842,8 +7878,8 @@
       },
       "artists": [
         {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl"
+          "name": "JEUDI",
+          "url": "https://open.spotify.com/artist/6HZ8c7N6ysiZJf4HkGCszd"
         }
       ],
       "date_added": "2026-06-25",
@@ -8509,6 +8545,24 @@
     },
     {
       "album": {
+        "name": "PERIPETIES",
+        "url": "https://open.spotify.com/album/1oJ6guNXRN3DH8uyMLOZI7"
+      },
+      "artists": [
+        {
+          "name": "Almighty Versa",
+          "url": "https://open.spotify.com/artist/7GkrLIX6NcOiL7Q6PYN26s"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194437,
+      "name": "PERIPETIES",
+      "url": "https://open.spotify.com/track/4bLBmjjfDTrIdXRPwXNPVy"
+    },
+    {
+      "album": {
         "name": "Tango Seule",
         "url": "https://open.spotify.com/album/2pfDQfXxVphqtryuJoGaVD"
       },
@@ -8838,7 +8892,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 154666,
       "name": "Pour de vrai",
       "url": "https://open.spotify.com/track/7ePnpLvqAXNZ8xhF8YA5dF"
@@ -8878,6 +8932,24 @@
       "duration_ms": 132000,
       "name": "Pour Nous.",
       "url": "https://open.spotify.com/track/4vibVoo7jaZob9yzWXoS5U"
+    },
+    {
+      "album": {
+        "name": "Pour \u00e7a",
+        "url": "https://open.spotify.com/album/4lC4zVs7fi0hAc41iPM0Fe"
+      },
+      "artists": [
+        {
+          "name": "Saintdoss",
+          "url": "https://open.spotify.com/artist/7uJX35B4qOcB5E8R7796s4"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194845,
+      "name": "Pour \u00e7a",
+      "url": "https://open.spotify.com/track/14jggAhUA2GoyMQACYQEf7"
     },
     {
       "album": {
@@ -9240,7 +9312,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180740,
       "name": "Qui de nous",
       "url": "https://open.spotify.com/track/1C7D6PHdEPyRx5SRR6Xf4n"
@@ -10549,6 +10621,24 @@
     },
     {
       "album": {
+        "name": "Sors de ma vie",
+        "url": "https://open.spotify.com/album/0diX9eXeebHIv7XDjuyPbe"
+      },
+      "artists": [
+        {
+          "name": "Osmaus",
+          "url": "https://open.spotify.com/artist/7lJjHV1eg3KjdzvohgBKlF"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259179,
+      "name": "Sors de ma vie",
+      "url": "https://open.spotify.com/track/6xFooD3XgYjz9AoslWJ9ls"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/5QbSmOrrnnvnXvsqoXbqZY"
       },
@@ -10600,6 +10690,28 @@
       "duration_ms": 136630,
       "name": "Star",
       "url": "https://open.spotify.com/track/6ktldhDXKHDYsdvqjytEbA"
+    },
+    {
+      "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/0w0q3yWRVo4anuwWM9u4y4"
+      },
+      "artists": [
+        {
+          "name": "Damilo",
+          "url": "https://open.spotify.com/artist/2n4cNbb3EAErCJP7ZGsNuR"
+        },
+        {
+          "name": "Lipkaa",
+          "url": "https://open.spotify.com/artist/41ikuwjvJkGr7HsBC2zGoT"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145300,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/3SNfx5nI6nkQPxKDZlGj6M"
     },
     {
       "album": {
@@ -10698,6 +10810,24 @@
       "duration_ms": 191733,
       "name": "Sur la rive",
       "url": "https://open.spotify.com/track/01EU33zjVyNNaBK46wfD2X"
+    },
+    {
+      "album": {
+        "name": "SUR LE FIL",
+        "url": "https://open.spotify.com/album/6VHBXucxdS55lpFQoEGxph"
+      },
+      "artists": [
+        {
+          "name": "Sean Chris",
+          "url": "https://open.spotify.com/artist/4VruS7fTDUyTPSeQZOs9ha"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88523,
+      "name": "SUR LE FIL",
+      "url": "https://open.spotify.com/track/49Ul3vCvsyy53NkUn2rPPL"
     },
     {
       "album": {

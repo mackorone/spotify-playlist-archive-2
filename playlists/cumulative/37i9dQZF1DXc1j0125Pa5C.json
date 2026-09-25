@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Pagode do Adame",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thais Macedo",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 448428,
       "name": "Amor a tr\u00eas / Pele na pele / Rapidinha",
       "url": "https://open.spotify.com/track/59FSeYi1GGaAhCLmQn3yEN"
@@ -2147,6 +2147,28 @@
     },
     {
       "album": {
+        "name": "Dividindo Hist\u00f3rias, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qxkHGOK1dVsyPjiOC3FOI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Presen\u00e7a",
+          "url": "https://open.spotify.com/artist/0HvttROjoLimYVYCrt5bC9"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145749,
+      "name": "Eu e o Cachorro - Ao Vivo",
+      "url": "https://open.spotify.com/track/509eDMEs7xZ0UA9LJlFIHU"
+    },
+    {
+      "album": {
         "name": "Eu Nunca Amei Assim / Meu Amor (Ao Vivo)",
         "url": "https://open.spotify.com/album/1xiALGFDoSujwJ100EHeFu"
       },
@@ -3078,6 +3100,32 @@
       "duration_ms": 360608,
       "name": "Instinto, Nada Vai Separar, Reinventar - Ao Vivo",
       "url": "https://open.spotify.com/track/7xG3hb6KvuNVf6rNBOqeRU"
+    },
+    {
+      "album": {
+        "name": "Inten\u00e7\u00e3o / Gra\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5Z04wdY813QR87lgbEGcei"
+      },
+      "artists": [
+        {
+          "name": "Rodriguinho",
+          "url": "https://open.spotify.com/artist/1xKdiuYoOCM2oCMErUjvtq"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Mr. Dan",
+          "url": "https://open.spotify.com/artist/0tEbPIVxu2YOmZXOWAkJ52"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201363,
+      "name": "Inten\u00e7\u00e3o / Gra\u00e7a - Ao Vivo",
+      "url": "https://open.spotify.com/track/5roBp2DouCtE5Jfxf39nfk"
     },
     {
       "album": {
@@ -6316,7 +6364,7 @@
       ],
       "date_added": "2026-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 337000,
       "name": "Temaki / Me Bloqueia / Nosso Primeiro Beijo - Ao Vivo",
       "url": "https://open.spotify.com/track/4defLEzJaYHkpCgVY0Xkmh"

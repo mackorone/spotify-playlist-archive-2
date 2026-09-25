@@ -1,12 +1,12 @@
 {
   "description": "This is Binomio de Oro. The essential tracks, all in one playlist.",
-  "num_followers": 11252,
+  "num_followers": 11254,
   "original_name": "This Is Binomio de Oro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAC9GTTV75YgDmFEWEV79zL+",
+  "snapshot_id": "arMWgAAAAACX0rBvzui4JEpjLk1a/v/L",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clase Aparte",
-        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 295386,
-      "name": "Dime pajarito",
-      "url": "https://open.spotify.com/track/5P13I9rbPcLOkEJSvCLDCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Somos El Vallenato",
         "url": "https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 302426,
       "name": "El Parrand\u00f3n",
       "url": "https://open.spotify.com/track/4nuwqjZtTdml3gAVEIFPUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clase Aparte",
+        "url": "https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 295386,
+      "name": "Dime pajarito",
+      "url": "https://open.spotify.com/track/5P13I9rbPcLOkEJSvCLDCA"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
+      },
+      "artists": [
+        {
+          "name": "Binomio de Oro",
+          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
+        }
+      ],
+      "duration_ms": 257996,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/7JtAMIrJ5N5euvoJKtsWbr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Para Siempre Rafael Orozco Binomio De Oro",
         "url": "https://open.spotify.com/album/6PYwZuAWfqOJhS7L6JEop2"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 259707,
       "name": "Cien A\u00f1os De Ausencia",
       "url": "https://open.spotify.com/track/7KYEei2wozzvHR80bpf63c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7"
-      },
-      "artists": [
-        {
-          "name": "Binomio de Oro",
-          "url": "https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W"
-        }
-      ],
-      "duration_ms": 257996,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/7JtAMIrJ5N5euvoJKtsWbr"
     },
     {
       "added_at": null,

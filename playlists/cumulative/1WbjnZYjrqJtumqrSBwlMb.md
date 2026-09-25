@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,368 songs - 3 day 12 hr 17 min
+1,369 songs - 3 day 12 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -932,6 +932,7 @@
 | [Raven](https://open.spotify.com/track/7qCojYqfbCKWVb0lDGpfCv) | [quickly, quickly](https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES) | [Raven](https://open.spotify.com/album/4LD1uDOWIXub9KVhXebZAO) | 2:44 | 2025-02-25 |  |
 | [RAWFEAR](https://open.spotify.com/track/43ee3gqWBlPKe2MeGJ2S6I) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Breach](https://open.spotify.com/album/1El3k8dU3sKyoGUeuyrolH) | 3:22 | 2025-09-12 |  |
 | [REACH THE SUNSHINE.](https://open.spotify.com/track/0t8YVhiyInlDW9cHtMGhJg) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Let’s Start Here.](https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK) | 5:58 | 2023-01-29 |  |
+| [ready or noT](https://open.spotify.com/track/4R6mvFkBtqoETkCLs3pXwU) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [ready or noT](https://open.spotify.com/album/65yX2K3hB9sV0sxOa5mxXK) | 4:02 | 2026-09-24 |  |
 | [Real Friends](https://open.spotify.com/track/66Q3fAmSX5eHamgbKa9alP) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 4:11 | 2022-03-28 |  |
 | [Reality In Motion](https://open.spotify.com/track/3I7OmVsk4Hm5LBbs2GmhlD) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:12 | 2021-09-12 |  |
 | [Really Doe](https://open.spotify.com/track/6dHatCnuOb1TdBIeJTK3Y0) | [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Atrocity Exhibition](https://open.spotify.com/album/3e7vtKJ3m1zVh38VGq2g3H) | 5:19 | 2022-12-18 |  |

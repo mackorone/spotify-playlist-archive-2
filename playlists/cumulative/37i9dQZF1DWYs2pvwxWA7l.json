@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-06",
-  "description": "The hottest Afropop records on the planet.  Cover: Young Jonn",
+  "description": "The hottest Afropop records on the planet.  Cover: BNXN",
   "name": "Afropop",
   "tracks": [
     {
@@ -216,7 +216,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 181304,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3GA5aR1yTKcIylPurPCpB5"
@@ -1929,6 +1929,28 @@
     },
     {
       "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq"
+    },
+    {
+      "album": {
         "name": "Sincerely, Benson",
         "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
       },
@@ -3540,7 +3562,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169411,
       "name": "CUTLASS",
       "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
@@ -4346,6 +4368,24 @@
       "duration_ms": 147326,
       "name": "Easy",
       "url": "https://open.spotify.com/track/0y97dz8upW8GtUMzRACY5o"
+    },
+    {
+      "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205053,
+      "name": "Easy Company",
+      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
     },
     {
       "album": {
@@ -5479,6 +5519,24 @@
     },
     {
       "album": {
+        "name": "For Me",
+        "url": "https://open.spotify.com/album/2ARUgA8rYnp4mEaD9tnUeo"
+      },
+      "artists": [
+        {
+          "name": "Fido",
+          "url": "https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140916,
+      "name": "For Me",
+      "url": "https://open.spotify.com/track/0bevSgEAwAnNk5OjWk2dmZ"
+    },
+    {
+      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -6151,6 +6209,24 @@
     },
     {
       "album": {
+        "name": "Dear London",
+        "url": "https://open.spotify.com/album/3xXy7JA0xE3qjx5Q9FLV1I"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155000,
+      "name": "Glass in the Air",
+      "url": "https://open.spotify.com/track/12TeKAlLlK2fi2rYf2aeZv"
+    },
+    {
+      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/4hT9e7lkQ6lbXP1QHW35pZ"
       },
@@ -6658,7 +6734,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
@@ -8159,6 +8235,28 @@
     },
     {
       "album": {
+        "name": "JURU",
+        "url": "https://open.spotify.com/album/3W720O23MZOYE6UCI45HGE"
+      },
+      "artists": [
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188574,
+      "name": "JURU",
+      "url": "https://open.spotify.com/track/1DlhldwsjrMJozbJsjk6cK"
+    },
+    {
+      "album": {
         "name": "Kaba",
         "url": "https://open.spotify.com/album/6a7Uj2S1gntFbfKvR4EHuO"
       },
@@ -9160,6 +9258,28 @@
       "duration_ms": 178775,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/6yi8PVA7mWEo7N3qJBdI8F"
+    },
+    {
+      "album": {
+        "name": "lonely (feat. L.A.X)",
+        "url": "https://open.spotify.com/album/5nSEUjA0znz8eMhS78JfmR"
+      },
+      "artists": [
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164283,
+      "name": "lonely (feat. L.A.X)",
+      "url": "https://open.spotify.com/track/6Z8yIcTfNO3cxhGoCZhWXo"
     },
     {
       "album": {
@@ -11708,7 +11828,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 198620,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/4WJGwQZIw2jXTyyVgxLt8l"
@@ -11860,6 +11980,24 @@
       "duration_ms": 160799,
       "name": "One Woman",
       "url": "https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF"
+    },
+    {
+      "album": {
+        "name": "Online",
+        "url": "https://open.spotify.com/album/2z7LOtUcH07Th8zzVi3765"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172631,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/5ljTDsyyDKI2xbJOqwOdVU"
     },
     {
       "album": {
@@ -13784,7 +13922,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 131681,
       "name": "Run Around",
       "url": "https://open.spotify.com/track/4ytcrRvbDBlJSx4yd9Y7FD"
@@ -14204,7 +14342,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 217959,
       "name": "SEXY & BAD",
       "url": "https://open.spotify.com/track/3a7glDUKxUCO6ByQkqZEIV"
@@ -16070,7 +16208,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 147326,
       "name": "To Me",
       "url": "https://open.spotify.com/track/2ii0uPYAV5yptflE9dXel6"

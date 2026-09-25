@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "GUSTAR Y OFENDER",
+        "url": "https://open.spotify.com/album/1ZhJsTyimzQOzBz6X2XJbd"
+      },
+      "artists": [
+        {
+          "name": "reybruja",
+          "url": "https://open.spotify.com/artist/1w9Zl7p0JQAYAf9lmDGMYz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225109,
+      "name": "(te advert\u00ed que no me dejaras pisar) las flores",
+      "url": "https://open.spotify.com/track/3fvqXC7IXSI1TJ8oVv4iDk"
+    },
+    {
+      "album": {
         "name": "Cabildo y Juramento",
         "url": "https://open.spotify.com/album/5N3ahntioMGhMCkEOuNJUn"
       },
@@ -1756,7 +1774,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 199506,
       "name": "Delirada",
       "url": "https://open.spotify.com/track/6oUZj6oDfi08b5IVo1xulD"
@@ -5049,6 +5067,24 @@
     },
     {
       "album": {
+        "name": "Desactivar el Drama",
+        "url": "https://open.spotify.com/album/5gPwQzijfYNHG4QMjDl6lr"
+      },
+      "artists": [
+        {
+          "name": "Cruzando El Charco",
+          "url": "https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214912,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2tk4dXRjCOTXxNpfxI5lMC"
+    },
+    {
+      "album": {
         "name": "Mantra Duelo",
         "url": "https://open.spotify.com/album/6mtEyGiXsHWnoBOXS0PDV0"
       },
@@ -8280,7 +8316,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 211992,
       "name": "Tu Encanto",
       "url": "https://open.spotify.com/track/0zRCH3vyASd7BEQ6bFdbol"
@@ -8708,7 +8744,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 185887,
       "name": "UNA SOGA",
       "url": "https://open.spotify.com/track/0Y8VQnd0ecmXNivq04iiKV"
@@ -8896,6 +8932,24 @@
       "duration_ms": 202376,
       "name": "Venganza",
       "url": "https://open.spotify.com/track/0QBMEboyu2DxFTKGbI5nl7"
+    },
+    {
+      "album": {
+        "name": "Tango 2",
+        "url": "https://open.spotify.com/album/3ZbNn2X9CBbKeB3ajnYqqa"
+      },
+      "artists": [
+        {
+          "name": "Tango Astral",
+          "url": "https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182757,
+      "name": "Verano",
+      "url": "https://open.spotify.com/track/4KlmNQzC48yhkbWBk9uxcV"
     },
     {
       "album": {

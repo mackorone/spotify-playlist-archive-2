@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Netherlands.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,148 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,154 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Alleen Jij](https://open.spotify.com/track/6F9sU0hboUEegZTNIIgmGT) | [Milolaathetlukken](https://open.spotify.com/artist/31RYhg7Auitqp3eg9rTB9i) | [Alleen Jij](https://open.spotify.com/album/5HtCL0mdXSiVWed276ouKM) | 2:00 |
-| 2 | [So Incredible](https://open.spotify.com/track/384JA8UkGvHNlbzR4gyxEq) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [Incredible](https://open.spotify.com/album/3GSt8EeN0cZ9hjssIowCeA) | 2:57 |
+| 2 | [So Incredible](https://open.spotify.com/track/1aYBIcbgnye5b0MjcYXoou) | [Ilse DeLange](https://open.spotify.com/artist/3FTKP1k9VbOng3m1rgnsqx) | [So Incredible](https://open.spotify.com/album/7vT9FjutoZJ6stgHxouGaa) | 2:57 |
 | 3 | [Zwoele Zomernachten](https://open.spotify.com/track/6gtGFybqydN4OMfy8M6M4b) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Zwoele Zomernachten](https://open.spotify.com/album/1tosO6LN7sy2lKJ0Hx4dmT) | 3:15 |
 | 4 | [BOEM!](https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [BOEM!](https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo) | 2:24 |
 | 5 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbK4BFAukDzj3.md) - [plain]
 | 44 | [De Enige](https://open.spotify.com/track/4WH5g5hyfQxgN94JGNOUZk) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [De Enige](https://open.spotify.com/album/23nN46ulvMESVJFJJovgSu) | 2:38 |
 | 45 | [Jij Hebt Mij](https://open.spotify.com/track/5AIvCO5v2mYxM3EtkxKz4T) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z) | [Jij Hebt Mij](https://open.spotify.com/album/4FxPsDCcI7HZFW4GPoDypr) | 2:05 |
 | 46 | [Just Give Me a Reason \(feat\. Nate Ruess\)](https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Nate Ruess](https://open.spotify.com/artist/1qUjOF5fzrpoNycD36b2jZ) | [The Truth About Love](https://open.spotify.com/album/2Q9oTK48eb85waX1fFJsvj) | 4:02 |
-| 47 | [Dreams \- 2001 Remaster](https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/04bZvSsD7bbuKyeEdMABLF) | 4:18 |
+| 47 | [Dreams \- 2004 Remaster](https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:17 |
 | 48 | [Loser](https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Deadbeat](https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI) | 3:43 |
 | 49 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 |
 | 50 | [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 |
 
-Snapshot ID: `MkdHqAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `MkibgAAAAAAAAAAAAAAAAAAAAAAAAGVu`

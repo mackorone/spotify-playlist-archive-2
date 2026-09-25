@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 29122,
+  "num_followers": 29127,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAI23bQcbWasIQ7b9zdXS4r",
+  "snapshot_id": "arMWgAAAAADtu9F1q13HATSODKDVZHmz",
   "tracks": [
     {
       "added_at": null,
@@ -199,30 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WE STILL BELIEVE (HLY FOREVER) (feat. One Church Music)",
-        "url": "https://open.spotify.com/album/7FK7RibZNqyMZjkZq9YVdp"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Ryan Ofei",
-          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "One Church Music",
-          "url": "https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa"
-        }
-      ],
-      "duration_ms": 171822,
-      "name": "WE STILL BELIEVE (HLY FOREVER) (feat. One Church Music)",
-      "url": "https://open.spotify.com/track/7pS6A11LEP0ID59nC8pB6a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yes",
         "url": "https://open.spotify.com/album/2I2QPLI9AnfxTOC02rE2Ms"
       },
@@ -243,6 +219,30 @@
       "duration_ms": 179527,
       "name": "Yes",
       "url": "https://open.spotify.com/track/7bM0sZ3LRW99DJvWVEXpBf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ryan Ofei",
+          "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "One Church Music",
+          "url": "https://open.spotify.com/artist/2Isa1riijBI13f9xqoLJAa"
+        }
+      ],
+      "duration_ms": 171822,
+      "name": "WE STILL BELIEVE (HLY FOREVER) (feat. One Church Music)",
+      "url": "https://open.spotify.com/track/5XaOvs7LQlikBNhQCOdmp9"
     },
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS CANNOT BE SOLD",
-        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 169792,
-      "name": "GOT A REASON",
-      "url": "https://open.spotify.com/track/6uyWaio0yxRsuNZugiyjYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/0O58WT2gmjZS7xpuX5nWPA"
       },
@@ -331,46 +311,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Prodigal (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
-      },
-      "artists": [
-        {
-          "name": "Crowder",
-          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 156480,
-      "name": "Prove It",
-      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone II",
-        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        }
-      ],
-      "duration_ms": 170761,
-      "name": "Who the Son Sets Free",
-      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THIS CANNOT BE SOLD",
         "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
       },
@@ -380,17 +320,13 @@
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         },
         {
-          "name": "Kaden Jordan",
-          "url": "https://open.spotify.com/artist/0mbpzxELAS9luV27PUDEZH"
-        },
-        {
-          "name": "WHATUPRG",
-          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
         }
       ],
-      "duration_ms": 232291,
-      "name": "SPEAK THRU ME!",
-      "url": "https://open.spotify.com/track/7kq6LVfrXMTGXQvzZtDFn2"
+      "duration_ms": 169792,
+      "name": "GOT A REASON",
+      "url": "https://open.spotify.com/track/6uyWaio0yxRsuNZugiyjYX"
     },
     {
       "added_at": null,
@@ -415,6 +351,70 @@
       "duration_ms": 192000,
       "name": "ANGEL ARMIES",
       "url": "https://open.spotify.com/track/3dJZ5Mhu7gMMbwBnWNQ7p6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone II",
+        "url": "https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 170761,
+      "name": "Who the Son Sets Free",
+      "url": "https://open.spotify.com/track/661kkGDN5jp6J7iy5XEGgf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "American Prodigal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5UnaAIuMRqSBeBWY3XM0FQ"
+      },
+      "artists": [
+        {
+          "name": "Crowder",
+          "url": "https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "Prove It",
+      "url": "https://open.spotify.com/track/1tGKjMflcFTEY2IOzKhwLe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Kaden Jordan",
+          "url": "https://open.spotify.com/artist/0mbpzxELAS9luV27PUDEZH"
+        },
+        {
+          "name": "WHATUPRG",
+          "url": "https://open.spotify.com/artist/6YgYm3f9ifsz4OwQt8jql7"
+        }
+      ],
+      "duration_ms": 232291,
+      "name": "SPEAK THRU ME!",
+      "url": "https://open.spotify.com/track/7kq6LVfrXMTGXQvzZtDFn2"
     },
     {
       "added_at": null,
@@ -455,26 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS CANNOT BE SOLD",
-        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 178863,
-      "name": "FATHER",
-      "url": "https://open.spotify.com/track/7AoMr9VMS9Fs5fu5VjtbNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone",
         "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
@@ -491,6 +471,26 @@
       "duration_ms": 259328,
       "name": "Let It Reign (feat. Bizzle)",
       "url": "https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 178863,
+      "name": "FATHER",
+      "url": "https://open.spotify.com/track/7AoMr9VMS9Fs5fu5VjtbNx"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS CANNOT BE SOLD",
-        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "KEANU",
-          "url": "https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY"
-        }
-      ],
-      "duration_ms": 152911,
-      "name": "KEANU'S SONG",
-      "url": "https://open.spotify.com/track/1bn3ZWsILMV0dFn0qMvgSw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heroes for Sale",
         "url": "https://open.spotify.com/album/4Ok6ziWADtgdRcy4nixjtL"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 238146,
       "name": "The Saints",
       "url": "https://open.spotify.com/track/6OJgPdiryjvefJC3fsDAuA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS CANNOT BE SOLD",
+        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "KEANU",
+          "url": "https://open.spotify.com/artist/40pc6Qqld78NJkYo9bcptY"
+        }
+      ],
+      "duration_ms": 152911,
+      "name": "KEANU'S SONG",
+      "url": "https://open.spotify.com/track/1bn3ZWsILMV0dFn0qMvgSw"
     },
     {
       "added_at": null,
@@ -619,30 +619,6 @@
       "duration_ms": 163037,
       "name": "Lighthouse",
       "url": "https://open.spotify.com/track/2zUcMdIMGKuDLjR1WnbzbB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THIS CANNOT BE SOLD",
-        "url": "https://open.spotify.com/album/6FctfrwI7lrtCssXAvqdrC"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
-        },
-        {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
-        }
-      ],
-      "duration_ms": 208624,
-      "name": "FLEX",
-      "url": "https://open.spotify.com/track/1wmJZpCns6dHVDd4TGzXoD"
     },
     {
       "added_at": null,
@@ -775,42 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 170911,
-      "name": "Familia",
-      "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 225809,
-      "name": "Yes Song",
-      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just That Good",
         "url": "https://open.spotify.com/album/1by7QZgO7PjgFybKSiszoA"
       },
@@ -831,6 +771,42 @@
       "duration_ms": 199065,
       "name": "Glorious Day",
       "url": "https://open.spotify.com/track/20pzbIjh5atZVcm0i8Bqnx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 225809,
+      "name": "Yes Song",
+      "url": "https://open.spotify.com/track/5AeWSEIYAoK3o4BydeX0Ec"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/0KtPKMW5xAzDQWSiZZ0dOa"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 170911,
+      "name": "Familia",
+      "url": "https://open.spotify.com/track/5pQa1bgDWn4xDOllIX3bMn"
     },
     {
       "added_at": null,
@@ -859,6 +835,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glory Down",
+        "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 179673,
+      "name": "Glory Down",
+      "url": "https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Go Let God: The EP",
         "url": "https://open.spotify.com/album/0SGMlsj3lq2E4D746PJlQY"
       },
@@ -879,26 +875,6 @@
       "duration_ms": 185441,
       "name": "Let Go Let God (The Anthem)",
       "url": "https://open.spotify.com/track/5vMu1eC4Am7wD4DsAuOLsY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glory Down",
-        "url": "https://open.spotify.com/album/6o5H1yIsjIUS9mqjw3a09R"
-      },
-      "artists": [
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 179673,
-      "name": "Glory Down",
-      "url": "https://open.spotify.com/track/2pSdPuESQIDrCOtAmTvqeY"
     },
     {
       "added_at": null,
@@ -1019,6 +995,30 @@
       "duration_ms": 236353,
       "name": "I Believe",
       "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4isPEpuar7DBekswZNoawh"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Andy Mineo",
+          "url": "https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw"
+        }
+      ],
+      "duration_ms": 246346,
+      "name": "One Sixteen",
+      "url": "https://open.spotify.com/track/0PxHrnV45CQascq6nWBnLT"
     }
   ],
   "unique_name": "This Is KB",

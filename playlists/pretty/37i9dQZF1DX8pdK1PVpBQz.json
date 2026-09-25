@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists and labels. Cover: Half/Angel",
-  "num_followers": 31279,
+  "num_followers": 31287,
   "original_name": "Fresh Finds AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLVvvjLdn90gSC4HHzvgZ8zgO/5",
+  "snapshot_id": "AAAAAHoTzQDI8KZlc9/tWKy4Il63FIvS",
   "tracks": [
     {
       "added_at": "2026-09-22 14:00:20",
@@ -127,6 +127,22 @@
       "duration_ms": 161464,
       "name": "Can We Talk?",
       "url": "https://open.spotify.com/track/1oZ9sLfmGVbVELcxPJGI4T"
+    },
+    {
+      "added_at": "2026-09-24 14:00:27",
+      "album": {
+        "name": "SPELL.",
+        "url": "https://open.spotify.com/album/5nGKfCjXK4KIH7VaAWKhGe"
+      },
+      "artists": [
+        {
+          "name": "ROMME",
+          "url": "https://open.spotify.com/artist/2aqdsufak4kt3gKjeqwDCP"
+        }
+      ],
+      "duration_ms": 145261,
+      "name": "SPELL.",
+      "url": "https://open.spotify.com/track/1lUkfQKu3aPvZd0N55GkPv"
     },
     {
       "added_at": "2026-09-22 14:00:20",
@@ -1683,22 +1699,6 @@
       "duration_ms": 303430,
       "name": "Sweet Boy",
       "url": "https://open.spotify.com/track/24UKgQDbtPkNseU4T0oejv"
-    },
-    {
-      "added_at": "2026-09-22 14:00:20",
-      "album": {
-        "name": "Everything That Hurts Is Human",
-        "url": "https://open.spotify.com/album/4DR9rd28E3Aq9vBYFiWZfN"
-      },
-      "artists": [
-        {
-          "name": "THOM",
-          "url": "https://open.spotify.com/artist/5ENzf2plQnwmFi8kL3B59R"
-        }
-      ],
-      "duration_ms": 211157,
-      "name": "I Won't Die",
-      "url": "https://open.spotify.com/track/42A0fVbwWIOOzFaaYjykvJ"
     }
   ],
   "unique_name": "Fresh Finds AU & NZ",

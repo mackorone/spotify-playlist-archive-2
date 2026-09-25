@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2oU49YwtXI2.md) - [plain]
 
 > Queen Bey's most essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,755,231 likes - 57 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,755,288 likes - 57 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

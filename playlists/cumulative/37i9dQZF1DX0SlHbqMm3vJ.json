@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Sweet afro melodies. Cover: Kaestyle",
+  "description": "Sweet afro melodies. Cover: Shoday",
   "name": "Ginja",
   "tracks": [
     {
@@ -618,7 +618,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 154077,
       "name": "Adaeze",
       "url": "https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20"
@@ -2571,6 +2571,28 @@
     },
     {
       "album": {
+        "name": "WpointM",
+        "url": "https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222493,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq"
+    },
+    {
+      "album": {
         "name": "Call My Name / Best Whine",
         "url": "https://open.spotify.com/album/71tDHMZDhF8qjCfXtZYyK1"
       },
@@ -2934,7 +2956,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 129032,
       "name": "Break Me Down",
       "url": "https://open.spotify.com/track/4GPAvpkD1DUBMNAdbN1kR8"
@@ -3430,7 +3452,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 234560,
       "name": "Can You Stay",
       "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
@@ -3754,6 +3776,28 @@
       "duration_ms": 148000,
       "name": "Chaser",
       "url": "https://open.spotify.com/track/47OEfIUDijuWI5mnV4U20H"
+    },
+    {
+      "album": {
+        "name": "CHE",
+        "url": "https://open.spotify.com/album/6U7Rlp4IUTdgtaOHiycx3x"
+      },
+      "artists": [
+        {
+          "name": "Shoday",
+          "url": "https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW"
+        },
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146064,
+      "name": "CHE",
+      "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
     },
     {
       "album": {
@@ -5073,6 +5117,24 @@
     },
     {
       "album": {
+        "name": "SWAGUU",
+        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158589,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
+    },
+    {
+      "album": {
         "name": "Still The Mayor",
         "url": "https://open.spotify.com/album/0Ev8VZe0x9bTzf55gVQNeR"
       },
@@ -5448,7 +5510,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 194570,
       "name": "Don't Leave Me",
       "url": "https://open.spotify.com/track/2ffnJc4c1n5qeOCh8DFYyz"
@@ -7596,7 +7658,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 178488,
       "name": "Get 2 Know",
       "url": "https://open.spotify.com/track/5wiN1GbyFQ0G4BIGD4xXEb"
@@ -8652,6 +8714,24 @@
       "duration_ms": 129995,
       "name": "How Can I Forget",
       "url": "https://open.spotify.com/track/7AwGXSjR7fIRk0bGqw223P"
+    },
+    {
+      "album": {
+        "name": "How I Know",
+        "url": "https://open.spotify.com/album/5w8vIR7oXX4nPe0AKiar5E"
+      },
+      "artists": [
+        {
+          "name": "Tomi Thomas",
+          "url": "https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182695,
+      "name": "How I Know",
+      "url": "https://open.spotify.com/track/6WJ5tB8eVjgwMJudpm6nsZ"
     },
     {
       "album": {
@@ -11126,7 +11206,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 120612,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/0puZ9jsTXM1fTlo16lNh2n"
@@ -12253,6 +12333,28 @@
     },
     {
       "album": {
+        "name": "Malaria",
+        "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171128,
+      "name": "Malaria",
+      "url": "https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh"
+    },
+    {
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/6lGF6ysU8aKnpIUiA6lYpz"
       },
@@ -12536,6 +12638,28 @@
       "duration_ms": 186666,
       "name": "Men Are Crazy",
       "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
+    },
+    {
+      "album": {
+        "name": "Mental",
+        "url": "https://open.spotify.com/album/6YegIK1W0lqgbkOqHE9utS"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166779,
+      "name": "Mental",
+      "url": "https://open.spotify.com/track/5sIWq3JhwTXFEmggYLnbHH"
     },
     {
       "album": {
@@ -14418,7 +14542,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 174174,
       "name": "OMO TI O COMMON",
       "url": "https://open.spotify.com/track/0VqMli0V4mKPu0yhN3Dc7P"
@@ -16084,7 +16208,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 191626,
       "name": "REVIVAL",
       "url": "https://open.spotify.com/track/7kxz848gjEfCQX5IiaQhnh"
@@ -16938,7 +17062,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 169963,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/6B47HeuNN6VsA0rydmv5eB"
@@ -18024,7 +18148,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 174915,
       "name": "Stay a Little Longer",
       "url": "https://open.spotify.com/track/5fYfkdAKlwSuEPxwkv7xep"
@@ -19060,7 +19184,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Time Of Our Lives",
       "url": "https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7"
@@ -19622,7 +19746,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 139020,
       "name": "U Belong 2 Me",
       "url": "https://open.spotify.com/track/5owUuaiP1mv5SyaG5k9ZMR"
@@ -20484,7 +20608,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 176470,
       "name": "Where Do We Go",
       "url": "https://open.spotify.com/track/3sCinQALcMKnL6b6nYDnMb"
@@ -20860,7 +20984,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 136036,
       "name": "With You (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/5GyaXqMfcIGHfmTUITFacS"

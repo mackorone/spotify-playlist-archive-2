@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: ULD",
+  "description": "Det beste av ny pop akkurat n\u00e5! \ud83c\udf6d\nCover: Metropolen",
   "name": "Ny Pop (3)",
   "tracks": [
     {
@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "Perspective - Best Of \"The Live Sessions\" from Oslo Concert House",
+        "url": "https://open.spotify.com/album/0BPubBEjcnIZ1NnYzHVQVe"
+      },
+      "artists": [
+        {
+          "name": "Maria Mena",
+          "url": "https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282751,
+      "name": "All This Time - Pick-Me-Up-Song",
+      "url": "https://open.spotify.com/track/3YxaPWWLZbdj8lyYVcMH4E"
+    },
+    {
+      "album": {
         "name": "Alle vil til himmelen",
         "url": "https://open.spotify.com/album/4vzLkPviZltNi8oI7F6e2Z"
       },
@@ -540,7 +558,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -2139,6 +2157,28 @@
     },
     {
       "album": {
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
+    },
+    {
+      "album": {
         "name": "DANS BABY",
         "url": "https://open.spotify.com/album/1HzNr3nCcpXLBpXdzhf3sx"
       },
@@ -3412,7 +3452,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 187423,
       "name": "FINE PLACE TO DIE",
       "url": "https://open.spotify.com/track/2k4PvUBCu1mkNbXLXhvaBW"
@@ -4092,7 +4132,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 180345,
       "name": "Goals",
       "url": "https://open.spotify.com/track/3hdGyxmW0eNskNwTwmXOIQ"
@@ -5574,7 +5614,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 270714,
       "name": "H\u00e5per at du ser meg n\u00e5",
       "url": "https://open.spotify.com/track/55n0sonmGqFrksxie8TK7m"
@@ -7889,6 +7929,24 @@
     },
     {
       "album": {
+        "name": "Min bydel",
+        "url": "https://open.spotify.com/album/6QD6LxjIh19Qeml8vF0n5H"
+      },
+      "artists": [
+        {
+          "name": "Julie Bergan",
+          "url": "https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Min bydel",
+      "url": "https://open.spotify.com/track/3ZVNAnhDjk8GhTeFzaRjsp"
+    },
+    {
+      "album": {
         "name": "Min for en kveld",
         "url": "https://open.spotify.com/album/3wMlCNk871zgqen0FTWD2g"
       },
@@ -8640,7 +8698,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 136875,
       "name": "OM IGJEN",
       "url": "https://open.spotify.com/track/0bG1hZxrGrKuehWHJt5PBY"
@@ -9088,6 +9146,24 @@
       "duration_ms": 179819,
       "name": "Popcorn",
       "url": "https://open.spotify.com/track/0zV8lHOu8LmNAmsgtZsWxc"
+    },
+    {
+      "album": {
+        "name": "Do You Feel Something Now?",
+        "url": "https://open.spotify.com/album/7DBDQes1snYuK8T5DTkDz6"
+      },
+      "artists": [
+        {
+          "name": "MAIH",
+          "url": "https://open.spotify.com/artist/5LqSpFsPhYIT2TjfE0y4zI"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116087,
+      "name": "Porcelain",
+      "url": "https://open.spotify.com/track/7tmXnleWYIQozVJJQs3YFB"
     },
     {
       "album": {
@@ -9644,7 +9720,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 171010,
       "name": "RUNWAY",
       "url": "https://open.spotify.com/track/7BjcYqD0CqXnG45ezWSTYR"
@@ -12096,6 +12172,42 @@
       "duration_ms": 166291,
       "name": "Toscana",
       "url": "https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81"
+    },
+    {
+      "album": {
+        "name": "PS: ikke si det til noen",
+        "url": "https://open.spotify.com/album/5J6ILL10VbOcA0QlGRjxgZ"
+      },
+      "artists": [
+        {
+          "name": "Yngvil",
+          "url": "https://open.spotify.com/artist/4uE77IUh7bzJzGZjRnKOOj"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 5",
+      "url": "https://open.spotify.com/track/4VcGKBVrELc3BHY52AN4bX"
+    },
+    {
+      "album": {
+        "name": "livredd for \u00e5 bli glemt",
+        "url": "https://open.spotify.com/album/0dcFlsfGtRTvUMgMz8YSTM"
+      },
+      "artists": [
+        {
+          "name": "Metropolen",
+          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 7",
+      "url": "https://open.spotify.com/track/18t5lCoaT5aOyETbGlXq8K"
     },
     {
       "album": {

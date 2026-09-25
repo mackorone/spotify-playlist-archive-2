@@ -2,28 +2,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 
 ### [بوب جديد](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> كل ما هو جديد في عالم البوب المصري\. الغلاف: زيد خالد وناصر
+> كل ما هو جديد في عالم البوب المصري\. الغلاف: مهى فتوني
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,458 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,473 likes - 60 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [HASESS BIK](https://open.spotify.com/track/6KqmdbNxbqcgbBdQJIkD76) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [HASESS BIK](https://open.spotify.com/album/14rd2zLm3Ijw9yEieR8iEc) | 4:06 |
-| 2 | [LEH KEDA YA ZEINA](https://open.spotify.com/track/7v2SVEsL83YorCRK0WL1BM) | [abulhawa](https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ) | [MALAMEH](https://open.spotify.com/album/0kISxppnK5Oi9Pruq9cDGD) | 2:21 |
-| 3 | [El Shai Ya Baba](https://open.spotify.com/track/1pvw0dOj7Qb2AFfLCHMpEo) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Shai Ya Baba](https://open.spotify.com/album/1pKHGbTySdT8rfCwyUrRtL) | 3:15 |
-| 4 | [أمانة ماتمشيش](https://open.spotify.com/track/0trItpxok4P4Wjn80gn6U3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [أمانة ماتمشيش](https://open.spotify.com/album/39wyOun2YvyHWYfpttmu6t) | 3:40 |
-| 5 | [Seebo Seebo](https://open.spotify.com/track/0JgWYNgbf2VCqqeToek1vJ) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Seebo Seebo](https://open.spotify.com/album/6hEWsp53gU5GQPjBsnnyAr) | 2:47 |
-| 6 | [HAYATY HAYATY](https://open.spotify.com/track/59P9rZ2xC6peXdKKJ4lS4b) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [HAYATY HAYATY](https://open.spotify.com/album/4aSJQLBN4GKyT3tobpY0yW) | 3:15 |
-| 7 | [هيرجعلي](https://open.spotify.com/track/0wfov9xTSmfPuMod6yer54) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [هيرجعلي](https://open.spotify.com/album/0lgmOqDGkzl2UpihGKLnlG) | 2:55 |
-| 8 | [Ragaouli Habibi](https://open.spotify.com/track/3fDFy3NMOESMVjR7PHozjE) | [Mariam Amer Mounib](https://open.spotify.com/artist/4wc11xEY5JEhocVGyceo3x) | [Ragaouli Habibi](https://open.spotify.com/album/1q3bLlkAlkZoMe176opiCc) | 3:32 |
-| 9 | [Shhadi Ya Deni](https://open.spotify.com/track/1jjcCIUbf6J4GLGTkTig1a) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Shhadi Ya Deni](https://open.spotify.com/album/5bU5Fg54SC7StdbJRMJuNg) | 2:44 |
-| 10 | [El Leil W Akhro](https://open.spotify.com/track/6aoeesnYf7OKyklgurTlJe) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML), [Haneen](https://open.spotify.com/artist/5IHWK1ctA9bTZvyloSQ6tO) | [El Leil W Akhro](https://open.spotify.com/album/36aCslpZ40BFWsgNMzvfUs) | 3:12 |
-| 11 | [ترجع ايه](https://open.spotify.com/track/7izom4TaBvhlmuts51Byx2) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ترجع ايه](https://open.spotify.com/album/0xoqlr0EyViC4KZvtOaMIT) | 3:24 |
-| 12 | [Law Leila](https://open.spotify.com/track/7qWCbA7On2hYM1U3ymCmtR) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [Kalemny](https://open.spotify.com/album/0uOZsMawECJyo7pgBmKJVF) | 2:41 |
-| 13 | [MEHTAR](https://open.spotify.com/track/3CvFVATlZSJ7l98X3Y15gN) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [MEHTAR](https://open.spotify.com/album/0hcyCOzgmkePlP7JhVinIG) | 2:57 |
-| 14 | [Rayhalo](https://open.spotify.com/track/7BWHZyBh6HwSp1ZTwc4EdK) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Rayhalo](https://open.spotify.com/album/0gS7nYHB6UFmWWDM36yggO) | 3:04 |
-| 15 | [Wahshaney](https://open.spotify.com/track/4SDzhmcot5c9JPtHe1KEPq) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Wahshaney](https://open.spotify.com/album/51ARzrWimrJNCnPpM0TDQk) | 4:29 |
-| 16 | [Bosa](https://open.spotify.com/track/3YyHZVPdRXgSsqT98FK7Vs) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Bosa](https://open.spotify.com/album/6u1WfiZLxCJHFY6QG8M7Ws) | 3:10 |
+| 1 | [عدد المناديل](https://open.spotify.com/track/2WCKGHteHPGCPgMQBp483Y) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [عدد المناديل](https://open.spotify.com/album/493sGA61arKMSeEitTTCip) | 3:20 |
+| 2 | [HASESS BIK](https://open.spotify.com/track/6KqmdbNxbqcgbBdQJIkD76) | [Zaid Khaled](https://open.spotify.com/artist/5z3HM8XrdwIb4AcyMMHj4r), [Nasser](https://open.spotify.com/artist/2oVmRIBicoQpEtrwww7dJO) | [HASESS BIK](https://open.spotify.com/album/14rd2zLm3Ijw9yEieR8iEc) | 4:06 |
+| 3 | [LEH KEDA YA ZEINA](https://open.spotify.com/track/7v2SVEsL83YorCRK0WL1BM) | [abulhawa](https://open.spotify.com/artist/6tRlI9czT4r9FOqR2KknHQ) | [MALAMEH](https://open.spotify.com/album/0kISxppnK5Oi9Pruq9cDGD) | 2:21 |
+| 4 | [El Shai Ya Baba](https://open.spotify.com/track/1pvw0dOj7Qb2AFfLCHMpEo) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [El Shai Ya Baba](https://open.spotify.com/album/1pKHGbTySdT8rfCwyUrRtL) | 3:15 |
+| 5 | [أمانة ماتمشيش](https://open.spotify.com/track/0trItpxok4P4Wjn80gn6U3) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [أمانة ماتمشيش](https://open.spotify.com/album/39wyOun2YvyHWYfpttmu6t) | 3:40 |
+| 6 | [Seebo Seebo](https://open.spotify.com/track/0JgWYNgbf2VCqqeToek1vJ) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Seebo Seebo](https://open.spotify.com/album/6hEWsp53gU5GQPjBsnnyAr) | 2:47 |
+| 7 | [HAYATY HAYATY](https://open.spotify.com/track/59P9rZ2xC6peXdKKJ4lS4b) | [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Soulja](https://open.spotify.com/artist/4LmdLhcTV6FR8omNKEOtuN) | [HAYATY HAYATY](https://open.spotify.com/album/4aSJQLBN4GKyT3tobpY0yW) | 3:15 |
+| 8 | [هيرجعلي](https://open.spotify.com/track/0wfov9xTSmfPuMod6yer54) | [Houda](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [هيرجعلي](https://open.spotify.com/album/0lgmOqDGkzl2UpihGKLnlG) | 2:55 |
+| 9 | [Ragaouli Habibi](https://open.spotify.com/track/3fDFy3NMOESMVjR7PHozjE) | [Mariam Amer Mounib](https://open.spotify.com/artist/4wc11xEY5JEhocVGyceo3x) | [Ragaouli Habibi](https://open.spotify.com/album/1q3bLlkAlkZoMe176opiCc) | 3:32 |
+| 10 | [Shhadi Ya Deni](https://open.spotify.com/track/1jjcCIUbf6J4GLGTkTig1a) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE) | [Shhadi Ya Deni](https://open.spotify.com/album/5bU5Fg54SC7StdbJRMJuNg) | 2:44 |
+| 11 | [El Leil W Akhro](https://open.spotify.com/track/6aoeesnYf7OKyklgurTlJe) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML), [Haneen](https://open.spotify.com/artist/5IHWK1ctA9bTZvyloSQ6tO) | [El Leil W Akhro](https://open.spotify.com/album/36aCslpZ40BFWsgNMzvfUs) | 3:12 |
+| 12 | [ترجع ايه](https://open.spotify.com/track/7izom4TaBvhlmuts51Byx2) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ترجع ايه](https://open.spotify.com/album/0xoqlr0EyViC4KZvtOaMIT) | 3:24 |
+| 13 | [Law Leila](https://open.spotify.com/track/7qWCbA7On2hYM1U3ymCmtR) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [Kalemny](https://open.spotify.com/album/0uOZsMawECJyo7pgBmKJVF) | 2:41 |
+| 14 | [MEHTAR](https://open.spotify.com/track/3CvFVATlZSJ7l98X3Y15gN) | [nour](https://open.spotify.com/artist/3uHrAjYOHTFWu04dl0aYdo), [Ahmed Diaa](https://open.spotify.com/artist/4lO4iNwFLpdjj2JRTJlFyy) | [MEHTAR](https://open.spotify.com/album/0hcyCOzgmkePlP7JhVinIG) | 2:57 |
+| 15 | [Rayhalo](https://open.spotify.com/track/7BWHZyBh6HwSp1ZTwc4EdK) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Rayhalo](https://open.spotify.com/album/0gS7nYHB6UFmWWDM36yggO) | 3:04 |
+| 16 | [Wahshaney](https://open.spotify.com/track/4SDzhmcot5c9JPtHe1KEPq) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Wahshaney](https://open.spotify.com/album/51ARzrWimrJNCnPpM0TDQk) | 4:29 |
 | 17 | [Jnoun](https://open.spotify.com/track/2U5Kq30PMj1UPW9WtxUwu5) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Jnoun](https://open.spotify.com/album/77I0Reu3kNcdOvXfqYfPOE) | 3:24 |
 | 18 | [Kadab](https://open.spotify.com/track/39eUkvEEyIcVn7zem73Eb6) | [ميمز](https://open.spotify.com/artist/1S1mn0Jg5ZaI2Kya26uE8K) | [Kadab](https://open.spotify.com/album/7lG6TXcVFQWlJerEEZqxIA) | 2:02 |
 | 19 | [Hya Haba Da](https://open.spotify.com/track/1OFZvydZ2vMGScOKfVV1kp) | [HEGGY](https://open.spotify.com/artist/0JK8ZOj6BwKl0YmlJsTykD), [ghassan](https://open.spotify.com/artist/16ZIUJevH7Crq9GOlJYk4Z) | [El Msn3](https://open.spotify.com/album/1mqXJvOW6iwgOOEuITB9i8) | 2:01 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaL8gtxi9eun.md) - [plain]
 | 59 | [Aalo Anni Eih](https://open.spotify.com/track/5wWNCy79noqVF1Q7bYGme2) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Aalo Anni Eih](https://open.spotify.com/album/1FgIBotuC2fN2XktxG2LW2) | 5:00 |
 | 60 | [Wasalt Ma3ak](https://open.spotify.com/track/1SRla7UVFXue89poJ52X4L) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [THE SORROWS ALBUM](https://open.spotify.com/album/7gSawX3Lw4xbpFUj8ZRtiN) | 4:42 |
 
-Snapshot ID: `AAAAAME6133JgUnBHQQtilRsvWtsqoXl`
+Snapshot ID: `AAAAAHMpbkz27lXNVp34FLwkwz9MuLW2`

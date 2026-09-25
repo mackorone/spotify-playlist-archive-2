@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 
 > deep dark ambient and half\-remembered hypnagogic soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,484 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,531 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 | 20 | [Go Dig My Grave](https://open.spotify.com/track/21gCYJP9C9GUNI4jCZhheZ) | [Lankum](https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z) | [False Lankum](https://open.spotify.com/album/2lu7c86G1ptjMJVL9upG1H) | 8:38 |
 | 21 | [Nexus On The Beach](https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD) | [Roberto Musci](https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw) | [Tower of Silence](https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S) | 6:09 |
 | 22 | [B4 \- The loves of my entire life](https://open.spotify.com/track/6806PuNd2YyEuzjtBo1yMv) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 1\)](https://open.spotify.com/album/0BE7TLLZoUhr9M8RlmFY3T) | 4:04 |
-| 23 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
-| 24 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 |
-| 25 | [\(Something\)](https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 2:30 |
+| 23 | [\(Something\)](https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB) | [Planning For Burial](https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD) | [Below the House](https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW) | 2:30 |
+| 24 | [espial](https://open.spotify.com/track/1c9gFTn6ymqs3kF2KUnvdV) | [Oliver Buckland](https://open.spotify.com/artist/3anMc1UITbY6dg3XIdip5b) | [espial](https://open.spotify.com/album/1xnJeMdd96RDhYRprSYrkx) | 4:11 |
+| 25 | [Fallen Down](https://open.spotify.com/track/1jDMi92a9zNQuPD3uPMkla) | [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [UNDERTALE Soundtrack](https://open.spotify.com/album/2M2Ae2SvZe3fmzUtlVOV5Z) | 0:57 |
 | 26 | [Last Stop](https://open.spotify.com/track/0M4MoTsbSmk7tGwjjkyhUm) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Visitation](https://open.spotify.com/album/6Md4ZtTqxVqyh5cQAquplB) | 3:34 |
 | 27 | [I Am Made Of Chalk](https://open.spotify.com/track/0N55UFtSgaNqJz1VQufTTP) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [Crystal Castles \(II\)](https://open.spotify.com/album/3VsZ5nZGgyH30IDaCP4GeQ) | 3:07 |
 | 28 | [Heretic](https://open.spotify.com/track/6IZDFhyHiWcLJPEo1W4nvd) | [Oli XL](https://open.spotify.com/artist/3L3ejltt5dmjXkES4YSGKX) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 4:17 |
@@ -64,10 +64,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9TOdl0GpvQm.md) - [plain]
 | 54 | [Peepshow](https://open.spotify.com/track/5JJSEkQUbrh9lkKnh0jq5s) | [Pram](https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8) | [Dark Island](https://open.spotify.com/album/1GS1QP90A1LjCn8f7VO7nZ) | 3:28 |
 | 55 | [Ivory Tower II](https://open.spotify.com/track/76V1HKK8ZP7rHa2zpmXxUG) | [Blod Besvimelse](https://open.spotify.com/artist/4fX7zAUjAwhJIQKIcqJlsk) | [Geleit ins Totenreich](https://open.spotify.com/album/1g1Ypo2vDKKKpot1swTIyK) | 3:20 |
 | 56 | [Dark Garden](https://open.spotify.com/track/3oeK81D5H41qpRq6vp7lZY) | [Sephiroth](https://open.spotify.com/artist/3W7sDTEvCYpE7JpxdyNZeo) | [Draconian Poetry](https://open.spotify.com/album/33wV7dDwlDalTn1ArAcbcp) | 4:57 |
-| 57 | [Prism](https://open.spotify.com/track/3BCSPiSfeDxnVsBclfcnki) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Virgins](https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx) | 2:53 |
-| 58 | [The Incantation \- From "Beetlejuice" Soundtrack](https://open.spotify.com/track/4cfggoaW1qu7KVOZopdoAb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iyLkKp8f8XZjOxDD2PEo9) | 3:12 |
-| 59 | [Sealand \- 2003 Digital Remaster](https://open.spotify.com/track/0F0mS09ruZO2zWaEbl6hGQ) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 7:47 |
-| 60 | [Intro Into Madness](https://open.spotify.com/track/5j2te5IJgCmU8DxGroOrzg) | [Fester Witch](https://open.spotify.com/artist/7rhKsvlBd9QyxwArqghxdD) | [Philosopher of the Needle](https://open.spotify.com/album/5ZJwYKO7dhtXzWKDOQt9NO) | 3:27 |
+| 57 | [The Incantation \- From "Beetlejuice" Soundtrack](https://open.spotify.com/track/4cfggoaW1qu7KVOZopdoAb) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iyLkKp8f8XZjOxDD2PEo9) | 3:12 |
+| 58 | [Prism](https://open.spotify.com/track/3BCSPiSfeDxnVsBclfcnki) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Virgins](https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx) | 2:53 |
+| 59 | [Intro Into Madness](https://open.spotify.com/track/5j2te5IJgCmU8DxGroOrzg) | [Fester Witch](https://open.spotify.com/artist/7rhKsvlBd9QyxwArqghxdD) | [Philosopher of the Needle](https://open.spotify.com/album/5ZJwYKO7dhtXzWKDOQt9NO) | 3:27 |
+| 60 | [Sealand \- 2003 Digital Remaster](https://open.spotify.com/track/0F0mS09ruZO2zWaEbl6hGQ) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Architecture And Morality](https://open.spotify.com/album/6bR98XzGnklTORDvZ7Oc2i) | 7:47 |
 | 61 | [Sacrifice](https://open.spotify.com/track/4QGTd1VAsRVOAZKqQViC7i) | [Aghast](https://open.spotify.com/artist/4QxZ1HbafIeGJ5vP3Z7mK1) | [Hexerei im Zwielicht der Finsternis](https://open.spotify.com/album/5AM3FhWnJTScyFpQnaSrdF) | 5:39 |
 | 62 | [Creation](https://open.spotify.com/track/4CKpAiTlrc5S7hDEQ2LXeg) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Under the Skin](https://open.spotify.com/album/1AwRkRCdw9qAKRtzwKUYcC) | 2:46 |
 | 63 | [Touched](https://open.spotify.com/track/1I63q5aYjoyai9CI8QXDrn) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Loveless](https://open.spotify.com/album/3GH4IiI6jQAIvnHVdb5FB6) | 0:56 |

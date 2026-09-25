@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 6696,
+  "num_followers": 6694,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAADniKQjJ2dXYmpjfeoUrc/4",
+  "snapshot_id": "arMWgAAAAAABFO0FQ0jm+OFMs2C0QWHr",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 156160,
-      "name": "The Last Thing On My Mind",
-      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Son of Jolene",
         "url": "https://open.spotify.com/album/3VSABVCF9Ltk7mzeghLqUD"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 189772,
       "name": "Son of Jolene",
       "url": "https://open.spotify.com/track/0Yr2UODsf2rs7RHCuJqisL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 156160,
+      "name": "The Last Thing On My Mind",
+      "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dolly Dolly Dolly",
-        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Old Flames Can't Hold a Candle to You",
-      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Well Wasted",
         "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 248275,
       "name": "When I Get Where I'm Going (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dolly Dolly Dolly",
+        "url": "https://open.spotify.com/album/1zdDoTRBMsZNywgmlin186"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Old Flames Can't Hold a Candle to You",
+      "url": "https://open.spotify.com/track/0u1mi4pYlXkx0rxgCbtyqv"
     },
     {
       "added_at": null,
@@ -551,30 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 240813,
-      "name": "Those Memories of You - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Treasures",
         "url": "https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb"
       },
@@ -595,6 +571,30 @@
       "duration_ms": 276133,
       "name": "Just When I Needed You Most",
       "url": "https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 240813,
+      "name": "Those Memories of You - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7sdNvO1i0MeKRseYnuebGN"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Bargain Store",
-        "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 164505,
-      "name": "The Bargain Store",
-      "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Honky Tonk Angels",
         "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 143333,
       "name": "Silver Threads and Golden Needles",
       "url": "https://open.spotify.com/track/0IQ0qn8a2TN9Tmo7p5KmUs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Bargain Store",
+        "url": "https://open.spotify.com/album/1QODRNFrssyoPjn1hQKVX3"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 164505,
+      "name": "The Bargain Store",
+      "url": "https://open.spotify.com/track/2GEuNbl2Aan68tQeHn4ADi"
     },
     {
       "added_at": null,
@@ -911,22 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eagle When She Flies",
-        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 190226,
-      "name": "Eagle When She Flies",
-      "url": "https://open.spotify.com/track/5FxyzZ85qso4AxoeFqMBll"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life Is Like A Song (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7AsEZkD4zsAJYkTDZrJgZu"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 193906,
       "name": "Tell Me That You Love Me",
       "url": "https://open.spotify.com/track/19Z6qdxGAmRjesTtHL3uFD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eagle When She Flies",
+        "url": "https://open.spotify.com/album/2YWXeKsHZVctFXi45IiS4n"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 190226,
+      "name": "Eagle When She Flies",
+      "url": "https://open.spotify.com/track/5FxyzZ85qso4AxoeFqMBll"
     }
   ],
   "unique_name": "This Is Dolly Parton",

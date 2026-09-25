@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : TeddyBear
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,687 likes - 75 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,709 likes - 75 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 8 | [FOMO](https://open.spotify.com/track/4Gaw3deCZcLHkai4OIjY4w) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Map Of Her Shadow](https://open.spotify.com/album/7H56uy7txgy7mOSj9VJWkW) | 3:01 |
 | 9 | [Le mur du salon](https://open.spotify.com/track/6DSFwl1y7t1ds2zMjgxEYy) | [Steve Ibrahim](https://open.spotify.com/artist/0LO2e5fJCBLFn4Ua1IPszs) | [Le mur du salon](https://open.spotify.com/album/2gZL4ccmGDOXe3mKvTGENo) | 3:09 |
 | 10 | [Sorry I'm French](https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W) | [Sam Sauvage](https://open.spotify.com/artist/1tlWl5ltF7CudnGGjF96KL) | [Sorry I'm French](https://open.spotify.com/album/3BEJ03fS6nzN8Pl5GPPKRS) | 2:38 |
-| 11 | [jeux dangereux](https://open.spotify.com/track/6fSOEcFdcvmXgzFqApvgCb) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [jeux dangereux](https://open.spotify.com/album/0dhpLKICdy68IRZS7vXGW1) | 2:10 |
+| 11 | [positif](https://open.spotify.com/track/2Q1SbyBfl38YKhpPeY6fif) | [63OG](https://open.spotify.com/artist/1wRx48q25O8HPDTyNOUQ2k) | [positif](https://open.spotify.com/album/5G43OuGUS3r34pZ1HhdlRa) | 2:11 |
 | 12 | [ça pik un peu quand même](https://open.spotify.com/track/7Fu1fTmuyFgm2V16ACSVOk) | [miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [ça pik un peu quand même](https://open.spotify.com/album/5xUIGLAWrim2JV9e4pVx4l) | 2:17 |
 | 13 | [DIMA RAVE](https://open.spotify.com/track/3hkiHz4uwZ73c4QstMuwWy) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [EXTASIA](https://open.spotify.com/album/46Kr05vkVqq1vFI7rh7WtX) | 1:55 |
 | 14 | [Rien à fêter](https://open.spotify.com/track/7J9bfRJYMHLAWpAvwSxCxG) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:55 |
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 18 | [Playground](https://open.spotify.com/track/6YCDCzRIeVYzcSNvFQ5es5) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [BREAK](https://open.spotify.com/album/0BompZU9zoS3yZTtEdINTK) | 3:42 |
 | 19 | [MOTORSPORT](https://open.spotify.com/track/7i02gP2bcX5hRP1sH0EtKj) | [Sherifflazone](https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L) | [MOTORSPORT](https://open.spotify.com/album/7440Kf6mbDPccaW0wKNwKc) | 2:47 |
 | 20 | [problème problème](https://open.spotify.com/track/06GlYvE9CUWUV83OUrDBUI) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [problème problème](https://open.spotify.com/album/3dqSveAkJ0DezC4IkzS3qE) | 2:38 |
-| 21 | [Los Angeles](https://open.spotify.com/track/6bS1rp9GfTxDLy4oAiyHle) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Los Angeles](https://open.spotify.com/album/5zQKqBsuShCcKgCMe6gHnW) | 2:54 |
+| 21 | [À l'arrière de la Mercedes blanche](https://open.spotify.com/track/35BZeuRSDTSNuUCTIwbKhJ) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [À l'arrière de la Mercedes blanche](https://open.spotify.com/album/69vyE9uBL9L7RJ4Cj9BPbt) | 2:57 |
 | 22 | [2 aliens](https://open.spotify.com/track/1yBUBwu0LBybD7IcqknClS) | [satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [2 aliens](https://open.spotify.com/album/3JI8NmZtUifc8YPnaXCSMm) | 2:26 |
-| 23 | [Popstar](https://open.spotify.com/track/3W1iqxNR7WbQWJFPzcFqcq) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [Popstar](https://open.spotify.com/album/6JFvb1V2Vw9UBTbuCKHYvJ) | 2:47 |
+| 23 | [TELFAR™](https://open.spotify.com/track/5hIsyBVxOURUqt2ODaHOC3) | [Folie's](https://open.spotify.com/artist/0pyhWJCYRgIoXusQQuMO4c) | [TELFAR™](https://open.spotify.com/album/6rDIyxY7aMr9kvy3eWmu9o) | 2:22 |
 | 24 | [FR DZ](https://open.spotify.com/track/26VNKq2Zql986XlaHw6yTh) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [FR DZ](https://open.spotify.com/album/6lZ9Z2pivuWcWD8kDJuA8o) | 3:04 |
 | 25 | [Gourou](https://open.spotify.com/track/3lzKpkbcxDLkUobJuOrdlA) | [Lisa Pariente](https://open.spotify.com/artist/2D15WFlWJuCeEGC1LGss6X) | [Gourou](https://open.spotify.com/album/786aOyfpeWI7LIjevSNJEK) | 3:30 |
 | 26 | [U&I](https://open.spotify.com/track/0ngXPktDn76JGvEi1yi4Yr) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [Goodbye](https://open.spotify.com/album/0reCuoSpZMDrx2LX87wsXS) | 2:32 |
-| 27 | [ZWINA](https://open.spotify.com/track/4MqcDRrRwMNp36DwTYROXB) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [ZWINA](https://open.spotify.com/album/2pqja6AoxcApkY1XuzZODt) | 2:26 |
+| 27 | [BROSKI](https://open.spotify.com/track/0T4JU58bCGdWTc6TbuWaEx) | [Danyl](https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab), [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [BROSKI](https://open.spotify.com/album/21NuNN3KNRoe87rAZzy9du) | 2:17 |
 | 28 | [Princesse chaos \- Marine's Version](https://open.spotify.com/track/7y4qFoUVbDhJRJI0L9wVZZ) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy), [Marine](https://open.spotify.com/artist/5IcaqAG12inAfarGuGqpW1) | [La Favorite, suite et fin](https://open.spotify.com/album/21cNAngHUeUUJWI4Lrh3PX) | 2:55 |
 | 29 | [Plus Rien](https://open.spotify.com/track/2gXpqKabH56iKkpOthaeZ3) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx) | [Plus Rien](https://open.spotify.com/album/7kPtNqgm2eZRJZaOYgO5vu) | 2:40 |
 | 30 | [JIMMY DANGER](https://open.spotify.com/track/2WYN1uJfN94kzNHKHqZCId) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [JIMMY DANGER](https://open.spotify.com/album/2VJxQniCPor0DPn8e8Es5X) | 1:56 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 42 | [Flap Flap](https://open.spotify.com/track/2VbSOGBmQeIj4iHEFXdVwd) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [BlackBoy](https://open.spotify.com/artist/390GislU2lqdtKcuFMIvjK) | [Flap Flap](https://open.spotify.com/album/1yIKFkmI04eG5DEi6M985B) | 1:52 |
 | 43 | [LA BARMAID!](https://open.spotify.com/track/2WbfIgFaOqMOwWyAzIqVyC) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [LA BARMAID!](https://open.spotify.com/album/2TYKS2Jei8xXffz2ROffwQ) | 1:55 |
 | 44 | [Boy](https://open.spotify.com/track/6aiO1XYF4px8guDCAYgaZt) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Boy](https://open.spotify.com/album/22vAa6RGm52KqtfRjLeEyd) | 2:18 |
-| 45 | [Ange & démon](https://open.spotify.com/track/2Pf8sOGYxPFIqIMsI8Azuf) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F) | [Partir pour de vrai](https://open.spotify.com/album/1J9373rRjiv8lrQSXJAXuq) | 2:32 |
+| 45 | [Les cicatrices d'or](https://open.spotify.com/track/4kpFuJZkjJjUYhbeQKV0SN) | [Nuit Incolore](https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F), [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN) | [Les cicatrices d'or](https://open.spotify.com/album/7GVuwGYWlGgu9dRnbE3WoQ) | 2:59 |
 | 46 | [rentier](https://open.spotify.com/track/6rqSnCp6aG6YKekjp3vIlS) | [Luther](https://open.spotify.com/artist/712cOCN3mpraX2UOgUvdHW) | [shelf](https://open.spotify.com/album/1KicOJNEbUvra2jXrkDMW8) | 3:51 |
 | 47 | [Mute](https://open.spotify.com/track/34UQRhA2ojdzFFa8EMygwP) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Mute](https://open.spotify.com/album/4PSAXUqddfh2lOwj9Hf0NA) | 2:53 |
 | 48 | [leader price](https://open.spotify.com/track/4DzSa5hqOPvoqE6cwt4Iav) | [The Doug](https://open.spotify.com/artist/1AT7xbkG9hKbNlvGfZtA7S) | [grandes surfaces](https://open.spotify.com/album/4AOcbCgPxu07O1lEK2mnJQ) | 2:53 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 55 | [ANTI](https://open.spotify.com/track/7lrtKjLq5Pc3D8NiuIUcxq) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [L'Enfant Sacré De Belle Vue, Pt 2](https://open.spotify.com/album/13q22EbATaZB1KFVCPYEh7) | 3:58 |
 | 56 | [C'est la vie](https://open.spotify.com/track/6d8fbLWXDp0ET2KyJGVjUz) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [C'est la vie](https://open.spotify.com/album/5MQWBz12ZbRpDyqSYncy93) | 2:36 |
 | 57 | [Le départ](https://open.spotify.com/track/1aPmnLaOqUckJH55npV3ZC) | [Blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Te souviens\-tu ?](https://open.spotify.com/album/4LfcPStkgGYBfHrHWugvpd) | 3:07 |
-| 58 | [peut\-être!](https://open.spotify.com/track/3xDh5B7TIgptIOr3zCzTNA) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [peut\-être!](https://open.spotify.com/album/7H0o3mZFS288K63YELh7wC) | 3:14 |
+| 58 | [jamais danser!](https://open.spotify.com/track/3DpKI6j6d8IDt1fERqHGk6) | [Nikola](https://open.spotify.com/artist/0JEBnGhyAmu2hlEgZE2Ydj) | [jamais danser!](https://open.spotify.com/album/4y3itidUZSRAufNXvCohWv) | 3:15 |
 | 59 | [The Beast](https://open.spotify.com/track/5nE5gmDADdXZ3LwES22kYt) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [The Beast](https://open.spotify.com/album/3U9XwEP5Ia637qr6yX3578) | 4:35 |
 | 60 | [come into my arms](https://open.spotify.com/track/7BsF2M59SaoOQI9HOWk8bU) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [bedroom walls : le salon](https://open.spotify.com/album/16yfLwmzCO9eVfLh8veI43) | 2:11 |
 | 61 | [Déjà\-vu](https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Déjà\-vu](https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww) | 3:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 | 74 | [Animal](https://open.spotify.com/track/37bZGx53B90Kv0ftpFDbDZ) | [Philippine](https://open.spotify.com/artist/0jm6JzrAGaSgKY02PI2k4E) | [Animal](https://open.spotify.com/album/6w4q80Ee7fek6jc4FmOh7t) | 4:12 |
 | 75 | [Original](https://open.spotify.com/track/109zXHAHalUdn5mNwVQEWR) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Original](https://open.spotify.com/album/48Hg4ayoKyRWVgjhc3yhE1) | 2:24 |
 
-Snapshot ID: `AAAAADHnDNzyidwuKUEZXsfOMcWYHhHr`
+Snapshot ID: `AAAAAPUeKF1QtLLOvZCNlA3nYBbvVWYY`

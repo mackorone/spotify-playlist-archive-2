@@ -1,6 +1,6 @@
 {
   "description": "os mlk a milh\u00e3o do 013 ao 019",
-  "num_followers": 1431629,
+  "num_followers": 1431530,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "Milimetricamente",
-        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
-      },
-      "artists": [
-        {
-          "name": "Luana Maia",
-          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
-        },
-        {
-          "name": "DJ Caio Santos",
-          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
-        }
-      ],
-      "duration_ms": 122834,
-      "name": "Milimetricamente",
-      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
         "name": "HEY!",
         "url": "https://open.spotify.com/album/1SItss2l4S3kGDwWP5hMyt"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 138571,
       "name": "HEY!",
       "url": "https://open.spotify.com/track/4Ga0nbC7A3Vllz4Tiib5UU"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
+        "name": "Milimetricamente",
+        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
+      },
+      "artists": [
+        {
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+        },
+        {
+          "name": "DJ Caio Santos",
+          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
+        }
+      ],
+      "duration_ms": 122834,
+      "name": "Milimetricamente",
+      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -799,30 +799,6 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "Confiss\u00f5es",
-        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
-      },
-      "artists": [
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        }
-      ],
-      "duration_ms": 156461,
-      "name": "Confiss\u00f5es",
-      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
         "name": "Sem Amor",
         "url": "https://open.spotify.com/album/5S1omAhCLsW0LEDZJBHBUC"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 156086,
       "name": "Sem Amor",
       "url": "https://open.spotify.com/track/23rYWQa36hf2vqkMeeB0oA"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
+        "name": "Confiss\u00f5es",
+        "url": "https://open.spotify.com/album/5o2menhMzyRd1kF0BQmJpp"
+      },
+      "artists": [
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        }
+      ],
+      "duration_ms": 156461,
+      "name": "Confiss\u00f5es",
+      "url": "https://open.spotify.com/track/4lMShneepOYe7GQ5CU5YUI"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -1211,34 +1211,6 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "Fiquei Bonito...",
-        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
-      },
-      "artists": [
-        {
-          "name": "LUKA",
-          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
-        },
-        {
-          "name": "Mago de Tarso",
-          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
-        },
-        {
-          "name": "Penedo",
-          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
-        },
-        {
-          "name": "DJ Dael",
-          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
-        }
-      ],
-      "duration_ms": 134829,
-      "name": "Fiquei Bonito...",
-      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
         "name": "Session analogic #1",
         "url": "https://open.spotify.com/album/7By3rMLOdYgYJmbhEohVjV"
       },
@@ -1271,6 +1243,34 @@
       "duration_ms": 218181,
       "name": "Session analogic #1",
       "url": "https://open.spotify.com/track/7KmiTipriSiQWxHl4EMR8S"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
+        "name": "Fiquei Bonito...",
+        "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+        },
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "DJ Dael",
+          "url": "https://open.spotify.com/artist/2A3i7OnSUdZB3FXX5Qv3Wp"
+        }
+      ],
+      "duration_ms": 134829,
+      "name": "Fiquei Bonito...",
+      "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -1367,6 +1367,34 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
+        "name": "DIXAVANDO",
+        "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
+      },
+      "artists": [
+        {
+          "name": "Fahel",
+          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
+        },
+        {
+          "name": "Massaru",
+          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
+        },
+        {
+          "name": "Pluck D",
+          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
+        },
+        {
+          "name": "Analogic",
+          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "DIXAVANDO",
+      "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
         "name": "Deixa Isso pra L\u00e1",
         "url": "https://open.spotify.com/album/7Er9x0LocywhZtRK16Yyel"
       },
@@ -1407,34 +1435,6 @@
       "duration_ms": 240000,
       "name": "Deixa Isso pra L\u00e1",
       "url": "https://open.spotify.com/track/7xKQbQaLhMzrE6nmMrmwGK"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
-        "name": "DIXAVANDO",
-        "url": "https://open.spotify.com/album/30x1jnVXq7O1hZm13CssCA"
-      },
-      "artists": [
-        {
-          "name": "Fahel",
-          "url": "https://open.spotify.com/artist/6eBQDBWq5rlP76s4TpOHCC"
-        },
-        {
-          "name": "Massaru",
-          "url": "https://open.spotify.com/artist/6NPvzQnxY7WwRMoN2qVBHU"
-        },
-        {
-          "name": "Pluck D",
-          "url": "https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq"
-        },
-        {
-          "name": "Analogic",
-          "url": "https://open.spotify.com/artist/5w7rdQm98KK3C5U6zrnenv"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "DIXAVANDO",
-      "url": "https://open.spotify.com/track/6slTSnYginVYk9Ubi90K3H"
     },
     {
       "added_at": "2026-09-11 13:11:58",

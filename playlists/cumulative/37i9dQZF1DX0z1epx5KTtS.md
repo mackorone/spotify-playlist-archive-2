@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Safarel Obiang
+> The best of Coupé Décalé and Biama from the continent to Paris\. Photo : KOMMANDER SAMO
 
-318 songs - 17 hr 4 min
+319 songs - 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,11 +296,12 @@
 | [TOUJOURS GNAN \- Remix](https://open.spotify.com/track/0BwKs1SMsguiJiHTGf4fi0) | [Nyerky](https://open.spotify.com/artist/5U4o1zywerDRWMxteldGoC), [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [TOUJOURS GNAN \(Remix\)](https://open.spotify.com/album/7GRtAtq7ou6dhO1cCghrdS) | 2:50 | 2025-04-17 | 2025-10-17 |
 | [Tourbillon \(feat\. Serge Beynaud\)](https://open.spotify.com/track/2cfMRPnLYhnshvaGqMpAF3) | [Héritier Wata](https://open.spotify.com/artist/20M8IJbzy7Y5EBRfwDIUmb), [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Tourbillon \(feat\. Serge Beynaud\)](https://open.spotify.com/album/4v67MEPOSosqao8IdgQKfK) | 3:51 | 2026-04-09 |  |
 | [Tous des traîtres](https://open.spotify.com/track/0MMDVLU6OYcTs6xCRng6XE) | [DJ Arafat](https://open.spotify.com/artist/0ipkUaXENFuJxWcCFfXXQ8), [Ali le code](https://open.spotify.com/artist/518yrkCaPdKEvMi8vK3H9d), [Abomé léléfant](https://open.spotify.com/artist/7AUVEvmiJ2N8xH2ECTylBg) | [Tous des traîtres](https://open.spotify.com/album/3bhE5PPsIznSHjka6Di4cY) | 3:01 | 2022-08-04 | 2022-09-30 |
+| [Tout Gâter](https://open.spotify.com/track/0QmQ5s3lDH9BA1GiXqW8aW) | [Agato](https://open.spotify.com/artist/7sDqcdPnwu8MAy5zulMiNz), [Kadirov Mania](https://open.spotify.com/artist/7l5TdraorF9Nm4j3LTvIcK) | [Tout Gâter](https://open.spotify.com/album/6CtOfC85KPHTrjQnFdOAHj) | 2:13 | 2026-09-24 |  |
 | [Tout laisse](https://open.spotify.com/track/0E31gL6KLFjHgZg42hShwl) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Vibration Universelle](https://open.spotify.com/album/1UP7xxA9T9vu9GHGgInKne) | 2:56 | 2024-05-30 | 2026-02-20 |
 | [Tu as créé quoi encore !](https://open.spotify.com/track/70p1D6Rf95l5oPb9oYdXRA) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Tu as créé quoi encore !](https://open.spotify.com/album/5fJdI5nd8LCFiDD3J0Z4vL) | 2:54 | 2025-06-12 | 2025-12-19 |
 | [Tu as raison](https://open.spotify.com/track/7sBCu0ZVvNWKC0AHivBGGE) | [Dydy Yeman](https://open.spotify.com/artist/6vW6A3qZVzesahMxmW1qvp) | [Tu as raison](https://open.spotify.com/album/74tdSKOAqpi2PCR9flkUC0) | 2:31 | 2026-06-11 |  |
 | [Tu peux lover](https://open.spotify.com/track/7tcJT6VP0YpmNeWfk7pig6) | [Dj Mulukuku](https://open.spotify.com/artist/6DpPYplFUGHXaSbPsQaeMn) | [Tu peux lover](https://open.spotify.com/album/5QJJYo2YbdKDG1dDeHIJTz) | 3:32 | 2022-06-02 | 2022-09-16 |
-| [TU PIQUES](https://open.spotify.com/track/3Gu7OV1kmzOIEGGWtnrB0O) | [Mr Alex](https://open.spotify.com/artist/75Vq95baZ1lUaHDUMPC8dI), [Abdel le Monnan](https://open.spotify.com/artist/1o2TBrFHJvzq6Wl1sIRBEj), [Le Marco](https://open.spotify.com/artist/700E1VMYSijVF8xG1bFoEs) | [TU PIQUES](https://open.spotify.com/album/3X7mhJxpXLKojjPkEodW5k) | 2:49 | 2026-09-03 |  |
+| [TU PIQUES](https://open.spotify.com/track/3Gu7OV1kmzOIEGGWtnrB0O) | [Mr Alex](https://open.spotify.com/artist/75Vq95baZ1lUaHDUMPC8dI), [Abdel le Monnan](https://open.spotify.com/artist/1o2TBrFHJvzq6Wl1sIRBEj), [Le Marco](https://open.spotify.com/artist/700E1VMYSijVF8xG1bFoEs) | [TU PIQUES](https://open.spotify.com/album/3X7mhJxpXLKojjPkEodW5k) | 2:49 | 2026-09-03 | 2026-09-25 |
 | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/track/4eWms3CUScWTxYGAezmVao) | [AB LE SUPERMAN](https://open.spotify.com/artist/6K0TZzd8j1q00kwLoncFgJ) | [TU PRENDS ET PUIS TU LAISSES](https://open.spotify.com/album/7F91Vcw2Kt3uOKWJpJ0eIt) | 2:59 | 2025-12-18 | 2026-03-27 |
 | [Tu Te Maries Quand? \(Part\. I\)](https://open.spotify.com/track/2sPOOhcWLuLFpERiIkJqLw) | [Shado Chris](https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg) | [Tu Te Maries Quand?](https://open.spotify.com/album/2tAkEGDMzJygFFyfYIXVGD) | 2:43 | 2024-07-18 | 2024-08-30 |
 | [Tu veux gâter ?](https://open.spotify.com/track/7IEJeRkgjVNp1CtkU0Pr12) | [Jojo le Barbu](https://open.spotify.com/artist/2vTdlbSIfq0koZNrQB2WV9), [Bigyne wiz](https://open.spotify.com/artist/2wEFYJGGlDtJz7hrN2USb9), [Jspeed beatz](https://open.spotify.com/artist/1n756IRf35UE7TmwSfeyPg) | [Tu veux gâter ?](https://open.spotify.com/album/7jjHgpnkOj35TqAuORFdVx) | 2:28 | 2026-02-19 | 2026-03-27 |

@@ -966,7 +966,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 219152,
       "name": "alive",
       "url": "https://open.spotify.com/track/0PMJWY6XwOqRMpGQjCx3cJ"
@@ -9258,7 +9258,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 215823,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6roiPaka61jSTdVIH5B35F"
@@ -11078,7 +11078,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 228260,
       "name": "I Got It",
       "url": "https://open.spotify.com/track/2hfoVrTEJFOf4U0WctEcJI"
@@ -11514,7 +11514,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 266202,
       "name": "I Want You Close",
       "url": "https://open.spotify.com/track/1u55xtADWRwoOLzMZx0vTx"
@@ -11788,7 +11788,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 210909,
       "name": "I've Been Missing You",
       "url": "https://open.spotify.com/track/6vdWx67Wz7DdXQjjBGanjH"
@@ -12092,6 +12092,24 @@
       "duration_ms": 155333,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/07Tq5rrAN2zBqsFhZ8PL26"
+    },
+    {
+      "album": {
+        "name": "In Case You Care",
+        "url": "https://open.spotify.com/album/4rES3JJ4ydmYNSIK5842VI"
+      },
+      "artists": [
+        {
+          "name": "Drive!Drive!",
+          "url": "https://open.spotify.com/artist/2MMiWw6zFACcD3LhbZktKb"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202458,
+      "name": "In Case You Care",
+      "url": "https://open.spotify.com/track/0VrkHMsPLETxahOMgGgpvz"
     },
     {
       "album": {
@@ -14328,7 +14346,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 163619,
       "name": "Love Is Complicated",
       "url": "https://open.spotify.com/track/6dQg3OLEiASbxmN0p5ryid"
@@ -15172,7 +15190,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 230138,
       "name": "Maybe, One Day",
       "url": "https://open.spotify.com/track/7lDD6klBmwKuoqmql1RuE2"
@@ -15442,7 +15460,7 @@
       ],
       "date_added": "2022-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 245511,
       "name": "Miles Ahead",
       "url": "https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex"
@@ -17530,7 +17548,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 276480,
       "name": "On the Corner Where You Live",
       "url": "https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS"
@@ -18134,7 +18152,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 211613,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6"
@@ -19542,7 +19560,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 197706,
       "name": "Runaround",
       "url": "https://open.spotify.com/track/4EyroIb0uLZLqhnLn8ymCH"
@@ -20862,7 +20880,7 @@
       ],
       "date_added": "2025-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 222197,
       "name": "someone like you",
       "url": "https://open.spotify.com/track/2ThYeivZiz0QOHZTBiJSat"
@@ -23352,7 +23370,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 229685,
       "name": "Things I Can't Explain",
       "url": "https://open.spotify.com/track/278dQxBy7NH5eA0WaNw6Gq"
@@ -23804,7 +23822,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 273509,
       "name": "To The Blue",
       "url": "https://open.spotify.com/track/4vzs8fYH9GV7UqnSH6AaGV"
@@ -24812,7 +24830,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 219457,
       "name": "Washed Wine",
       "url": "https://open.spotify.com/track/6ZEdXD3Eeh34PPNXcF0Tdz"
@@ -26226,7 +26244,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 266155,
       "name": "You Don't Love Me (Like You Used To)",
       "url": "https://open.spotify.com/track/5K9yCr0OY5Yf68EbVvkQWs"
@@ -26742,7 +26760,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 223932,
       "name": "Your Weather",
       "url": "https://open.spotify.com/track/0lTYWQMg4TufelFuXlKwCC"

@@ -88116,7 +88116,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210426,
-      "name": "Cool You Down (feat. Sia)",
+      "name": "Cool You Down - feat. Sia",
       "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
     },
     {
@@ -372676,6 +372676,32 @@
     {
       "album": {
         "name": "Small Town",
+        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        },
+        {
+          "name": "Emma Ogier",
+          "url": "https://open.spotify.com/artist/7lVBH2nQlHcpcU4RiY7izm"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169981,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
+    },
+    {
+      "album": {
+        "name": "Small Town",
         "url": "https://open.spotify.com/album/7HOALEfTwqs734tvYauYIG"
       },
       "artists": [
@@ -372690,28 +372716,6 @@
       "duration_ms": 183816,
       "name": "Small Town",
       "url": "https://open.spotify.com/track/0lvvlI1yJxlLmK3ZRqQMSl"
-    },
-    {
-      "album": {
-        "name": "Small Town (feat. Gabriel Jacoby)",
-        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Gabriel Jacoby",
-          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
-        }
-      ],
-      "date_added": "2026-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169981,
-      "name": "Small Town (feat. Gabriel Jacoby)",
-      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {
       "album": {

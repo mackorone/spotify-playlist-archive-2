@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,523 songs - 3 day 16 hr 43 min
+1,526 songs - 3 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -598,6 +598,7 @@
 | [Il vaccino e' vicino](https://open.spotify.com/track/6gk3zot0x6e2bJ2N2zLeoF) | [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Il vaccino e' vicino](https://open.spotify.com/album/41W9FglUu4gSStqLau3PqS) | 2:38 | 2026-02-05 | 2026-03-07 |
 | [illa decepció](https://open.spotify.com/track/51X9bZSiveQplTV3MlCDSr) | [Poco Conocido](https://open.spotify.com/artist/7ntIURZ0oU1m26QJfTldC4), [Mireia](https://open.spotify.com/artist/0bTGBppQWjrEa9rMqqxaW6) | [illa decepció](https://open.spotify.com/album/2Tng19Eufe43pN0dFX15zE) | 3:09 | 2026-01-28 | 2026-02-28 |
 | [Imagine](https://open.spotify.com/track/6fVTRZZeT9U4h3eX8On8qf) | [Denny Haze](https://open.spotify.com/artist/4otN1ZekQ3YABzwrSLPsT1) | [Imagine](https://open.spotify.com/album/0nJDyF8cfAnldAbADTMemQ) | 3:14 | 2026-08-04 | 2026-08-30 |
+| [immer wenn du gehst](https://open.spotify.com/track/1rFssJrqxMfiYilthBxiSR) | [urbie](https://open.spotify.com/artist/3q6Roe8WuwjXajxaTkQLSB) | [immer wenn du gehst](https://open.spotify.com/album/5EeespcgHaVOsMNyN1ypqV) | 2:53 | 2026-09-24 |  |
 | [Impuntual](https://open.spotify.com/track/5cGt9k9ar2HdVY8Z2zr5IB) | [Sebastián Emilio Alvarez Parafita](https://open.spotify.com/artist/2eNK11WGWZMF8rCVjxwh3j) | [Impuntual](https://open.spotify.com/album/6pWfBmdwlcZaDFYAMPyImo) | 2:50 | 2025-12-09 | 2026-01-05 |
 | [In Slow Motion \- Acoustic](https://open.spotify.com/track/4ioRmTEXJEOrbfRSA6Cox2) | [Snawfus Screamers](https://open.spotify.com/artist/7sPAgv3goDwWk4s81fXLwu) | [In Slow Motion \(Acoustic\)](https://open.spotify.com/album/0C2WHZjFbNEYdeKsHuJnIM) | 3:30 | 2026-07-19 | 2026-08-30 |
 | [In that Moment](https://open.spotify.com/track/58LxnNfkWs9ALHPTZNvZde) | [Offbeat Union](https://open.spotify.com/artist/1wOC483MLYQ6bv6fA1qnE3) | [In that Moment](https://open.spotify.com/album/1qYInQqULKPZFlko0qqbXc) | 4:49 | 2026-09-10 |  |
@@ -637,6 +638,7 @@
 | [Jealousy](https://open.spotify.com/track/0X11L2HZ1WId5DyLlwVwhu) | [Liatris](https://open.spotify.com/artist/4RraAVSR8PVm4fdCDoeM8m) | [Jealousy](https://open.spotify.com/album/26FzcNokBj3XK1g6cnveEv) | 3:58 | 2026-01-18 | 2026-02-20 |
 | [JEANS DE CONTREBANDE](https://open.spotify.com/track/6cDa8GkU1IsZj0A8fSvGjW) | [Franc White](https://open.spotify.com/artist/3xom0dL6ZYUpVSZAnGs9EE) | [JEANS DE CONTREBANDE](https://open.spotify.com/album/04tzyndXtPMjAlJpWMso0h) | 1:45 | 2026-01-26 | 2026-02-28 |
 | [Jenny's Welcome to Charlie](https://open.spotify.com/track/1jmViPHctoI6t0z7KMt8zY) | [Ale Riatti](https://open.spotify.com/artist/3CMakSpatfEpwfe5LlAsFD) | [Heart of Glass](https://open.spotify.com/album/3ypF6SXx7wnzodQdfviHqQ) | 2:37 | 2026-06-09 | 2026-07-19 |
+| [Jeszcze pięć minut](https://open.spotify.com/track/2rBPOswB2YRW5cCFYuiOKL) | [JRS](https://open.spotify.com/artist/3VHgaSFcWYC4gXSFXhkNZe) | [Jeszcze pięć minut](https://open.spotify.com/album/0nnuClRdorPf2ChO0Rorms) | 2:25 | 2026-09-24 |  |
 | [JOM MOLAH](https://open.spotify.com/track/6EmJZR5dr1dtTCXtOtoaNG) | [ROKSTA TINAMIILLU](https://open.spotify.com/artist/2QcAN6fRN0EC30KNT8x0Ue) | [JOM MOLAH](https://open.spotify.com/album/0fVd01ykFZl6GsjiYUyT0n) | 2:15 | 2026-05-26 | 2026-07-03 |
 | [Jonesing](https://open.spotify.com/track/0pItNE4YeIFf2ec6P7jlbe) | [5EX](https://open.spotify.com/artist/3V4tS2RGFGFRyAPoXk11Q2) | [Jonesing](https://open.spotify.com/album/1xQgwPKRDhvit3UACsOj5q) | 3:18 | 2025-10-17 | 2025-11-29 |
 | [Josephine M\. \- Piano solo](https://open.spotify.com/track/1M5a7pAmFI2VqtNeLOmKHO) | [Beato Angelico](https://open.spotify.com/artist/5CJ0yEhrvURVrFstPuxFdG) | [Josephine M\. \(Piano solo\)](https://open.spotify.com/album/5LhHLwZ76L1lTidJucY4v4) | 2:21 | 2024-07-05 | 2025-12-28 |
@@ -1274,6 +1276,7 @@
 | [The Eternal Return](https://open.spotify.com/track/0cCnxDYuxT5LzPmzwO2IZ1) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Art Chill Jazz](https://open.spotify.com/artist/68hOtRDNBE5eBzN7QZXc9d) | [The Eternal Return](https://open.spotify.com/album/1Hpy5xi3yZNwI816mwGexu) | 3:39 | 2025-04-24 | 2026-01-05 |
 | [The Father](https://open.spotify.com/track/1g4z6sEe9r5t6Tz4O8sL0f) | [L'Orca & Giò's CONSTELLATIONS](https://open.spotify.com/artist/2jRb4Vq6LSAQpQWQh4LIed) | [Constellations](https://open.spotify.com/album/1P0Sic24sDQAIplRfcS1rN) | 3:43 | 2025-09-11 | 2025-11-29 |
 | [The Feeling Is Real](https://open.spotify.com/track/1mqZtnhJeteblSxTYcGTM9) | [Crisisbeatzz](https://open.spotify.com/artist/4477MF4pLmodsnC5bLBM4x), [FIM Collective](https://open.spotify.com/artist/4xnxBgPdai9dvDkY4DehaK) | [The Feeling Is Real](https://open.spotify.com/album/5gDECg1qeADvbsfxOY3OpB) | 3:07 | 2026-02-02 | 2026-02-28 |
+| [The Final Ember](https://open.spotify.com/track/2uBH8zKy6WmcdtGkEOJ0cV) | [Aethelred's Anvil](https://open.spotify.com/artist/1GY0JJ4uKAXJk0dPtto7rT) | [The Sovereign Sacrifice](https://open.spotify.com/album/0yfWtJgyjsL0mlmjvG1dxp) | 4:27 | 2026-09-24 |  |
 | [The First Note Of Me](https://open.spotify.com/track/3Aq5J3TPP6lPGlPqdVaJ78) | [Zaara](https://open.spotify.com/artist/0QuY5zWGOpvYWNTPltuTDd) | [Clock Won't Fix Us](https://open.spotify.com/album/54XyWhtJqkO2ihmc9VrXMK) | 2:48 | 2026-04-27 | 2026-06-05 |
 | [The Flying Devils \(Shows Combined\)](https://open.spotify.com/track/2FZWE52XorhcjHQFUK6T6o) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3), [Alessandro De Angelis](https://open.spotify.com/artist/1J6KmEHFsMbcuPxfY2Ehs2) | [The Flying Devils \(Shows Combined\)](https://open.spotify.com/album/7b3VM2h8t9PPtyPVNYMoe9) | 4:44 | 2024-11-07 | 2025-12-28 |
 | [The Flying Devils \- Remastered 2023](https://open.spotify.com/track/3DNikWDN0ID7TyaR8MvOL8) | [Bob Salmieri Bastarduna Quintet](https://open.spotify.com/artist/3IdFWdDrVGP4KOF3F6BHc3) | [...and Mama was a belly dancer \(Remastered 2023\)](https://open.spotify.com/album/7akxOJh7LxWGdBMmHH7HOo) | 5:11 | 2023-11-16 | 2025-11-29 |

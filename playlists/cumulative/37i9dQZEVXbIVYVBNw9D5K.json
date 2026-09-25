@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 174426,
       "name": "Ah Be Manolya",
       "url": "https://open.spotify.com/track/6jufCZrWWPnuL8ozXjMqIp"
@@ -3004,7 +3004,7 @@
       ],
       "date_added": "2025-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 218250,
       "name": "Ayaza Serdim",
       "url": "https://open.spotify.com/track/7wZRlmI91BOt7JF7rMOrej"
@@ -7378,7 +7378,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-08",
+      "date_removed": null,
       "duration_ms": 201562,
       "name": "Cellad\u0131na A\u015f\u0131k",
       "url": "https://open.spotify.com/track/2PaQb8AtQqIxawPA2O7Vaw"
@@ -10070,6 +10070,24 @@
       "duration_ms": 192930,
       "name": "Efkar\u0131m Var",
       "url": "https://open.spotify.com/track/1m4nj2HR88dY4hleKc71qn"
+    },
+    {
+      "album": {
+        "name": "El clasico",
+        "url": "https://open.spotify.com/album/3HGdcwkcc2NUHMS54z0lTy"
+      },
+      "artists": [
+        {
+          "name": "Alroca",
+          "url": "https://open.spotify.com/artist/3JXBXuCkqGWJKjli3bu15K"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124303,
+      "name": "El clasico",
+      "url": "https://open.spotify.com/track/5LAEpESzf1svMqWmpcu66c"
     },
     {
       "album": {
@@ -15541,6 +15559,24 @@
     },
     {
       "album": {
+        "name": "I\u015f\u0131kl\u0131 Yol",
+        "url": "https://open.spotify.com/album/461qWSTjOrwoOCwfYvwkVV"
+      },
+      "artists": [
+        {
+          "name": "\u0130zel",
+          "url": "https://open.spotify.com/artist/0QSrUuv6y5Woazd3LAjbSH"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264829,
+      "name": "I\u015f\u0131kl\u0131 Yol",
+      "url": "https://open.spotify.com/track/2ZM3RY8gGKVMbfXMhx0wCJ"
+    },
+    {
+      "album": {
         "name": "Serotonin",
         "url": "https://open.spotify.com/album/4nYgiGWOldX0wcbDHTuhj8"
       },
@@ -17213,6 +17249,32 @@
     },
     {
       "album": {
+        "name": "I WANT 2 BELIEVE",
+        "url": "https://open.spotify.com/album/2cLqnY6jiwKczlV0mPhVVh"
+      },
+      "artists": [
+        {
+          "name": "Yung Kafa & K\u00fcc\u00fck Efendi",
+          "url": "https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn"
+        },
+        {
+          "name": "Jumpa",
+          "url": "https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is"
+        },
+        {
+          "name": "Motive",
+          "url": "https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174678,
+      "name": "KARANLIK",
+      "url": "https://open.spotify.com/track/515rshs02QH3ZcniJgdhu2"
+    },
+    {
+      "album": {
         "name": "KARANLIK",
         "url": "https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU"
       },
@@ -17908,7 +17970,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 153081,
       "name": "KISKAN\u00c7",
       "url": "https://open.spotify.com/track/5s0NsfcDicif5VsZdI8lY5"
@@ -18268,7 +18330,7 @@
       ],
       "date_added": "2025-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 146517,
       "name": "KTS",
       "url": "https://open.spotify.com/track/0rFE7maWOD4JFeG1wukeiB"
@@ -21348,7 +21410,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 185216,
       "name": "nap\u0131yosun mesela ?",
       "url": "https://open.spotify.com/track/5QxnPSQq5E2N07b4n5zxGK"
@@ -22254,7 +22316,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 256250,
       "name": "Oldu Olanlar - Sago K 2022 Remix",
       "url": "https://open.spotify.com/track/6uJHn8HeSrglMQSZ7stMIB"
@@ -25362,7 +25424,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 134999,
       "name": "Savruldum \u00d6yle",
       "url": "https://open.spotify.com/track/18Neffq5r4SIyg0q9L0UBb"
@@ -25566,7 +25628,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 265994,
       "name": "Selam",
       "url": "https://open.spotify.com/track/5ujFCaNhNEWlM9TERC0FXm"
@@ -25700,7 +25762,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 241456,
       "name": "Sen Orda Yoksun",
       "url": "https://open.spotify.com/track/0xB1twgXnL1hEwLRWdRUIe"
@@ -26154,6 +26216,24 @@
       "duration_ms": 210767,
       "name": "Senle Zor",
       "url": "https://open.spotify.com/track/2PC5fdz0Ee2pEZYHddrvSv"
+    },
+    {
+      "album": {
+        "name": "Senle Zor benle zor",
+        "url": "https://open.spotify.com/album/1vXHCB4bJSYiaaINJr8P9A"
+      },
+      "artists": [
+        {
+          "name": "yigwtrec",
+          "url": "https://open.spotify.com/artist/5oFtpJ12npP46gAXrtnXen"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210840,
+      "name": "Senle Zor benle zor",
+      "url": "https://open.spotify.com/track/4SiFZwEg2kH0xtnszr0Qe3"
     },
     {
       "album": {
@@ -32014,7 +32094,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 174545,
       "name": "\u00d6mr\u00fcm",
       "url": "https://open.spotify.com/track/4e54GhjU0PAXwbGvbwAPz6"
@@ -32400,7 +32480,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 175143,
       "name": "\u015eark\u0131lar Sokaklara Ait",
       "url": "https://open.spotify.com/track/09nTES713tbfeOh5BQWF61"

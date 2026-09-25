@@ -2773,6 +2773,24 @@
     },
     {
       "album": {
+        "name": "En s\u00e5ng till modet",
+        "url": "https://open.spotify.com/album/0phUs84n1MODY1e3lxUNJg"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295784,
+      "name": "En s\u00e5ng till modet",
+      "url": "https://open.spotify.com/track/5dmgYzNxEx0iNfGLMTbTyc"
+    },
+    {
+      "album": {
         "name": "En t\u00e5r f\u00f6r varje t\u00e5r",
         "url": "https://open.spotify.com/album/6idVeqKsRaSPry1D2pXqsD"
       },
@@ -5148,7 +5166,7 @@
       ],
       "date_added": "2025-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 160975,
       "name": "Ingen vet",
       "url": "https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50"
@@ -5801,6 +5819,24 @@
     },
     {
       "album": {
+        "name": "Kontrollen & f\u00f6rlusten av den",
+        "url": "https://open.spotify.com/album/7JPUfsQrBO9S6Z6vY9PcI7"
+      },
+      "artists": [
+        {
+          "name": "Den svenska bj\u00f6rnstammen",
+          "url": "https://open.spotify.com/artist/0NyrvUybTePmsuED5vZi4G"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183749,
+      "name": "Kontrollen & f\u00f6rlusten av den",
+      "url": "https://open.spotify.com/track/3N7nomr3lQ8x9GPMVYSbKf"
+    },
+    {
+      "album": {
         "name": "Korset",
         "url": "https://open.spotify.com/album/4j0rXpsNxmIEKq5Ln2qHCH"
       },
@@ -6322,7 +6358,7 @@
       ],
       "date_added": "2025-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 300360,
       "name": "Losin' Kind - Nebraska Outtakes",
       "url": "https://open.spotify.com/track/3nyE4s2ueZ03Q2czUMfJ88"
@@ -6916,6 +6952,24 @@
       "duration_ms": 208983,
       "name": "Min far",
       "url": "https://open.spotify.com/track/7KEugV5PnAd0W25nxNgmkW"
+    },
+    {
+      "album": {
+        "name": "Mina v\u00e4nner",
+        "url": "https://open.spotify.com/album/4IQQuut1NZdLxj1Zbf23yV"
+      },
+      "artists": [
+        {
+          "name": "Tomas Andersson Wij",
+          "url": "https://open.spotify.com/artist/2j8XNrT8TQH4JMeyEMJYfL"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194405,
+      "name": "Mina v\u00e4nner",
+      "url": "https://open.spotify.com/track/07D0NgqZr1r9Doj4VQp5pK"
     },
     {
       "album": {
@@ -8020,7 +8074,7 @@
       ],
       "date_added": "2026-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 241000,
       "name": "Prinsessa",
       "url": "https://open.spotify.com/track/41BCn8oMNZEDvuFqXFMMrY"
@@ -10241,6 +10295,24 @@
     },
     {
       "album": {
+        "name": "L\u00e4ngtan till v\u00e5ren",
+        "url": "https://open.spotify.com/album/6OFxTZikOMONn2rlBXbmJW"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 0,
+      "name": "Track 3",
+      "url": "https://open.spotify.com/track/21yl33grFUgtUVt7KjdAkR"
+    },
+    {
+      "album": {
         "name": "Aster, atlas",
         "url": "https://open.spotify.com/album/1hFzEB9BFfUxnSlZtEiurd"
       },
@@ -11792,7 +11864,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-25",
       "duration_ms": 229146,
       "name": "\u00d6ver",
       "url": "https://open.spotify.com/track/142CLjGxBpBtQxj9gPNJOK"

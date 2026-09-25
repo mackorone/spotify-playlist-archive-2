@@ -1,6 +1,6 @@
 {
   "description": "layan je",
-  "num_followers": 172098,
+  "num_followers": 172132,
   "original_name": "galau rabak",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
+        "name": "Bila Memang Kamu",
+        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
+      },
+      "artists": [
+        {
+          "name": "Betrand Putra Onsu",
+          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
+        }
+      ],
+      "duration_ms": 231093,
+      "name": "Bila Memang Kamu",
+      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
         "name": "Masih Hatiku",
         "url": "https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 218293,
       "name": "Bimbang",
       "url": "https://open.spotify.com/track/4aG1OTkWookWM4UdkaV4Iy"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
-        "name": "Bila Memang Kamu",
-        "url": "https://open.spotify.com/album/3ct5klx1zG7v3A160MtmrB"
-      },
-      "artists": [
-        {
-          "name": "Betrand Putra Onsu",
-          "url": "https://open.spotify.com/artist/6Pu9A4Pe31OK06u1GL8q4c"
-        }
-      ],
-      "duration_ms": 231093,
-      "name": "Bila Memang Kamu",
-      "url": "https://open.spotify.com/track/3LQDUCmBfo12tYCbr6Acyr"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Hafiz",
-        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
-      },
-      "artists": [
-        {
-          "name": "Hafiz Suip",
-          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
-        }
-      ],
-      "duration_ms": 263480,
-      "name": "Bahagiamu Deritaku",
-      "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
         "name": "Kisah Tanpa Dirimu",
         "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 257531,
       "name": "Kisah Tanpa Dirimu",
       "url": "https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
+        "name": "Hafiz",
+        "url": "https://open.spotify.com/album/5PV6AOXPpBOQyxZGrLWK3I"
+      },
+      "artists": [
+        {
+          "name": "Hafiz Suip",
+          "url": "https://open.spotify.com/artist/08nApps9ThD6cZD2jXC4vW"
+        }
+      ],
+      "duration_ms": 263480,
+      "name": "Bahagiamu Deritaku",
+      "url": "https://open.spotify.com/track/5vNhfRa1WTzUDZcU8DAO1a"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Sampai Menutup Mata",
-        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
+        "name": "Daur Hidup",
+        "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
       },
       "artists": [
         {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+          "name": "Donne Maula",
+          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
         }
       ],
-      "duration_ms": 248666,
-      "name": "Sampai Menutup Mata",
-      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
+      "duration_ms": 162739,
+      "name": "Daur Hidup",
+      "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
-        "name": "Daur Hidup",
-        "url": "https://open.spotify.com/album/6LVBF7LOvsD1vpacxXS1VI"
+        "name": "Sampai Menutup Mata",
+        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
       },
       "artists": [
         {
-          "name": "Donne Maula",
-          "url": "https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG"
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
         }
       ],
-      "duration_ms": 162739,
-      "name": "Daur Hidup",
-      "url": "https://open.spotify.com/track/2CfL8YlJXQ6DYMjCqMVull"
+      "duration_ms": 248666,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
     },
     {
       "added_at": "2026-09-18 00:19:01",
@@ -619,6 +619,22 @@
     {
       "added_at": "2026-09-18 00:19:01",
       "album": {
+        "name": "Menunggumu Sampai Akhir Hidup",
+        "url": "https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ"
+      },
+      "artists": [
+        {
+          "name": "Shanna Shannon",
+          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
+        }
+      ],
+      "duration_ms": 251298,
+      "name": "Menunggumu Sampai Akhir Hidup",
+      "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
+    },
+    {
+      "added_at": "2026-09-18 00:19:01",
+      "album": {
         "name": "Menjaga Hati",
         "url": "https://open.spotify.com/album/5zAZDy6OPD6u04TCIAo0Ou"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 233410,
       "name": "Menjaga Hati",
       "url": "https://open.spotify.com/track/4OzWgPNMaXEAeUCPy3RTMk"
-    },
-    {
-      "added_at": "2026-09-18 00:19:01",
-      "album": {
-        "name": "Menunggumu Sampai Akhir Hidup",
-        "url": "https://open.spotify.com/album/2GtB6vMtpUwsQ2yqiandyJ"
-      },
-      "artists": [
-        {
-          "name": "Shanna Shannon",
-          "url": "https://open.spotify.com/artist/2wJ77L3w0hTQDJH9uH39c2"
-        }
-      ],
-      "duration_ms": 251298,
-      "name": "Menunggumu Sampai Akhir Hidup",
-      "url": "https://open.spotify.com/track/6vPs2QpyHKvYJ9Bq7CQaUu"
     },
     {
       "added_at": "2026-09-18 00:19:01",

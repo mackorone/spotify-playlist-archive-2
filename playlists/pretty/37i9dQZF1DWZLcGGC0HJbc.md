@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,986 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,993 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 |
-| 2 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
-| 3 | [rises the moon](https://open.spotify.com/track/2k47MKPoBLFbKwqP796ZAA) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/6fSfONrRl8xVdH6esZE2Z4) | 2:41 |
-| 4 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
+| 1 | [rises the moon](https://open.spotify.com/track/2k47MKPoBLFbKwqP796ZAA) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [recently](https://open.spotify.com/album/6fSfONrRl8xVdH6esZE2Z4) | 2:41 |
+| 2 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
+| 3 | [Therapist's Daughter](https://open.spotify.com/track/4Wa4o786mF0RLlLoO2Sz4R) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Therapist's Daughter](https://open.spotify.com/album/3bcNya70WdDCtpcBK2V0Fl) | 2:53 |
+| 4 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 |
 | 5 | [It's Gotta Be Me](https://open.spotify.com/track/0Wd8KUSoSCJ7P0qaJ8Ze6H) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [It's Gotta Be Me](https://open.spotify.com/album/2HHEKBteGRBSv5VZXvKZma) | 3:45 |
-| 6 | [Whatever You Wanna](https://open.spotify.com/track/2km0sa7d4W5kgO4TU0KdPz) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [Whatever You Wanna](https://open.spotify.com/album/2LD2Ef2279ZEOgtZSxVzUs) | 3:31 |
-| 7 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 |
+| 6 | [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 |
+| 7 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 |
 | 8 | [Lover](https://open.spotify.com/track/5AYKOUgAEMJQlhvRmtIm6v) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Lover](https://open.spotify.com/album/4J1AGhfTIQlKWkHkOaqGqd) | 2:44 |
-| 9 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 |
-| 10 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 |
+| 9 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 |
+| 10 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
 | 11 | [Place To Be](https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:40 |
 | 12 | [Crying Laughing Loving Lying \(From "The Holdovers"\)](https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying Laughing Loving Lying](https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ) | 3:03 |
 | 13 | [Rust.](https://open.spotify.com/track/2y6vEKzRcA49gCJEv9DP8N) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Rust.](https://open.spotify.com/album/5UFLVvCrvlPw5WAWb6T7XU) | 3:35 |
@@ -29,18 +29,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 19 | [In a Lake](https://open.spotify.com/track/5VsBTV8gxbMCRTomd2nRqg) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Nothing's About to Happen to Me](https://open.spotify.com/album/2M9F3AsbWy7n4LwmJ8pqEu) | 3:04 |
 | 20 | [Los Angeles](https://open.spotify.com/track/5TSj6ySt4WqDuljv61Q4D5) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Double Infinity](https://open.spotify.com/album/1yEo1ZJE5ZgIF7LYrDTbMK) | 3:57 |
 | 21 | [Anything He Was](https://open.spotify.com/track/5vtMCt0sWVxCbsTUnPyCTh) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Anything He Was](https://open.spotify.com/album/2FUew1tmYs8QW7YOmiZRDV) | 3:59 |
-| 22 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |
-| 23 | [Slowpoke](https://open.spotify.com/track/4BoEkyrekQzY1oEehWT2S7) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Looking Forward](https://open.spotify.com/album/6z0iKmIUIFWtaZe0ar6yS6) | 4:31 |
+| 22 | [Slowpoke](https://open.spotify.com/track/4BoEkyrekQzY1oEehWT2S7) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Looking Forward](https://open.spotify.com/album/6z0iKmIUIFWtaZe0ar6yS6) | 4:31 |
+| 23 | [Ride Lonesome](https://open.spotify.com/track/4ZNjYG7CW4ogsOtIB36h1j) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/47450DcHOgvjj4D21gBHGC) | 4:32 |
 | 24 | [Metal Through Her Lips](https://open.spotify.com/track/51xRxngy7VjDkY5fyfqXDg) | [Oscar Lindsey](https://open.spotify.com/artist/1RdYQoGzWZyCfHplLYffvB) | [Metal Through Her Lips](https://open.spotify.com/album/5LVizjDJP5dgSwFjyfItln) | 3:46 |
 | 25 | [Wishing Stone](https://open.spotify.com/track/2vXS0Aia2hmzUvZg2iFpEz) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Wishing Stone](https://open.spotify.com/album/5Rq1WgYz5l7DSHU7FYgtbE) | 3:48 |
 | 26 | [AWARDS SEASON](https://open.spotify.com/track/0QOs67pGVjeCdUpzato35p) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [SABLE, fABLE](https://open.spotify.com/album/3L3UjpXtom6T0Plt1j6l1T) | 5:16 |
 | 27 | [Reaper](https://open.spotify.com/track/2P0qa2otcQdjrnypyueuJl) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Sling](https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459) | 2:39 |
 | 28 | [I'd Like To Walk Around In Your Mind](https://open.spotify.com/track/7dbI4g3m8A0isJVvYk2xdD) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/4KerqbIPBSPn5S2YTKwKys) | 2:15 |
 | 29 | [Much Ado About Nothing](https://open.spotify.com/track/0nuneId81O8XGxUjSCL316) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/5O9TGAJ6Opoya7KCBKKQUA) | 3:49 |
-| 30 | [Photograph of a Cyclone](https://open.spotify.com/track/3Xa6wbikubNAiKSIWKprId) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 3:28 |
-| 31 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
-| 32 | [If You Know Me \- demo](https://open.spotify.com/track/1x0Q0nvWYbJCrmsPZNHIkb) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me \(demo\)](https://open.spotify.com/album/06M6z1DB5blsjhKh8oVBbE) | 2:07 |
-| 33 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 |
+| 30 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
+| 31 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 |
+| 32 | [Photograph of a Cyclone](https://open.spotify.com/track/3Xa6wbikubNAiKSIWKprId) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 3:28 |
+| 33 | [If You Know Me \- demo](https://open.spotify.com/track/1x0Q0nvWYbJCrmsPZNHIkb) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me \(demo\)](https://open.spotify.com/album/06M6z1DB5blsjhKh8oVBbE) | 2:07 |
 | 34 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
 | 35 | [garden green eyes](https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [garden green eyes](https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn) | 2:58 |
 | 36 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 99 | [Ashes](https://open.spotify.com/track/0uoJUir7zZJCGxwfh9ekKD) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Ashes](https://open.spotify.com/album/62lXmNrNMjNLBO0d7YkJRJ) | 4:42 |
 | 100 | [Missionary Bell](https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Interior Live Oak](https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2) | 4:24 |
 
-Snapshot ID: `AAAAAFZ6tV4MKKPeYsb4ndzC4fJ+m1Zl`
+Snapshot ID: `AAAAAGpOLKdgf0XPWWbjpMLybN8qRHV+`

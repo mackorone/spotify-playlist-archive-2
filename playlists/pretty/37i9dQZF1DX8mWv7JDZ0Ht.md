@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve\. Foto:  Fran Gil
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,265 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,260 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 37 | [Branca](https://open.spotify.com/track/5VXwwVcGmd1kiG1hC5tan6) | [Zecca Gomes](https://open.spotify.com/artist/1A0oFS7Q2ARtU0vQOQgoZZ), [Tianastacia](https://open.spotify.com/artist/3ucYi2JRu3j12lHbfqms9u) | [Branca](https://open.spotify.com/album/2JcdU4HBsoWM1jeLJQkNGt) | 2:48 |
 | 38 | [Improvável](https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Improvável](https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp) | 2:56 |
 | 39 | [Noturno](https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj) | [Bryan Behr](https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF) | [Noturno](https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA) | 2:28 |
-| 40 | [O Fim do Planeta Azul](https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [O Fim do Planeta Azul](https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM) | 3:26 |
-| 41 | [NOVA: Surpresa](https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [NOVA: Surpresa](https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD) | 4:15 |
-| 42 | [NORTEAR](https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn), [morgana](https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy) | [NORTEAR](https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq) | 3:38 |
+| 40 | [NORTEAR](https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN) | [Sophi](https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn), [morgana](https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy) | [NORTEAR](https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq) | 3:38 |
+| 41 | [O Fim do Planeta Azul](https://open.spotify.com/track/7i1G8Z7ylrF8TwsrsVhAA6) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P) | [O Fim do Planeta Azul](https://open.spotify.com/album/3Yhx5e16SeM79GZC9SBOQM) | 3:26 |
+| 42 | [NOVA: Surpresa](https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN) | [Podpah Records](https://open.spotify.com/artist/2T7D6AqqCy0OIZyx3m8829), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [NOVA: Surpresa](https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD) | 4:15 |
 | 43 | [Outro Áudio Meu](https://open.spotify.com/track/45eC4p277r4CJukj5RZiHN) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [Muita Sede](https://open.spotify.com/album/6KPdqbAdr9hFFzOxfd9SmT) | 3:05 |
 | 44 | [dois brilhantes](https://open.spotify.com/track/0xWu1OB0Enu0ijsQevX9FF) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [dois brilhantes](https://open.spotify.com/album/1jpHvCEDg2UnrNbn3AElPc) | 3:23 |
 | 45 | [BOCA GOSTOSA](https://open.spotify.com/track/38DH9CcyjBmrDK1LgpMCtj) | [Flavio Ferrari](https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [BOCA GOSTOSA](https://open.spotify.com/album/3mG4tBOqLMy1irVaFToYTs) | 2:22 |

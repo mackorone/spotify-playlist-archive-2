@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 
 > New styles, deep sounds\. Cover: Helado Negro
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,940 likes - 150 songs - 9 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,929 likes - 150 songs - 9 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28npkgy2RE4.md) - [plain]
 | 100 | [Everything](https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA) | 3:17 |
 | 101 | [Strange Weather](https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS) | [Slaughter Beach, Dog](https://open.spotify.com/artist/3lWVgSwutPsiJ8Awm7OTKU) | [Strange Weather](https://open.spotify.com/album/3lXZxaI5WDRQjNPSGNG7RF) | 3:28 |
 | 102 | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/track/2ZkoYrNT9B4jcKJsQcXb9p) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Mount Airy Hill \(Way Gone\)](https://open.spotify.com/album/5hQ4j6DpVinBBTuSUHLEXJ) | 5:32 |
-| 103 | [Northsiders](https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Northsiders](https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC) | 3:43 |
-| 104 | [Stranger Danger](https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Stranger Danger](https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS) | 4:41 |
+| 103 | [Stranger Danger](https://open.spotify.com/track/6XXk2EZcBg3hbaX2HN8GyA) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Stranger Danger](https://open.spotify.com/album/2bpaU06D3UgJvJiCWBnWNS) | 4:41 |
+| 104 | [Northsiders](https://open.spotify.com/track/34g8vWL65ZOAvDWCdq8kP3) | [Christian Lee Hutson](https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3) | [Northsiders](https://open.spotify.com/album/0AKWmrRaij8YUWVxi5yAjC) | 3:43 |
 | 105 | [Tender Organs](https://open.spotify.com/track/6cst4w2QTOrH5e6FAsLLjI) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 4:45 |
 | 106 | [Plates](https://open.spotify.com/track/2om26BJOzO9DQEzhPr3WNG) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [I Want The Door To Open](https://open.spotify.com/album/6x6VGqTPJBK6r3qfuqe2Zl) | 2:50 |
 | 107 | [Coast](https://open.spotify.com/track/1oI37bcVXsXl53sybDjABv) | [Participant](https://open.spotify.com/artist/7G3EOvlud2ZumHznucmZPc) | [Coast](https://open.spotify.com/album/2UWQ6ykErgoDdlR2b0Rows) | 3:55 |

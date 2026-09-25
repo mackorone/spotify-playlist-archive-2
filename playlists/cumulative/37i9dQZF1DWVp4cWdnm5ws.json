@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Introducing RADAR Philippines Cast of 2026. Cover: fitterkarma",
+  "description": "Introducing RADAR Philippines Cast of 2026. Cover: NEW LORE",
   "name": "RADAR Philippines",
   "tracks": [
     {
@@ -1732,6 +1732,28 @@
       "duration_ms": 197318,
       "name": "Favorite Song",
       "url": "https://open.spotify.com/track/6pb9teTllbc7fiDrj4FqjM"
+    },
+    {
+      "album": {
+        "name": "Fleabag (feat. Paolo Sandejas)",
+        "url": "https://open.spotify.com/album/1e36Xz5KJvTY3zVjVWIi8h"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Fleabag (feat. Paolo Sandejas)",
+      "url": "https://open.spotify.com/track/7xRga53GguD9bLi2NtaIv3"
     },
     {
       "album": {

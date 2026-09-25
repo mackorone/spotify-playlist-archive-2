@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Chelsea Dinorath
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,803 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,862 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,14 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 16 | [Por Favor](https://open.spotify.com/track/32gkOKdEsBNpWNlHWOZrko) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Por Favor](https://open.spotify.com/album/6wn9eV42N7Ta56KMnx1mbb) | 3:14 |
 | 17 | [O Nosso Amor](https://open.spotify.com/track/23bemRVqcUNl1ujD87upis) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [O Nosso Amor](https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU) | 4:46 |
 | 18 | [Amor de 40](https://open.spotify.com/track/7rL4BIc5nFXPneAuf4IWbW) | [Yuri da Cunha](https://open.spotify.com/artist/5Qw3RHD3R95D98alngBJOZ), [Ary](https://open.spotify.com/artist/3POxlshfzeJs7SiHhl24ST) | [Amor de 40](https://open.spotify.com/album/4xyLURwGkdw8tleHbv6ou2) | 2:54 |
-| 19 | [Verão](https://open.spotify.com/track/0emu6J77PCmzWNG6ScLtmA) | [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Verão](https://open.spotify.com/album/322fwTocCvHnvXcZTIeHHQ) | 4:04 |
+| 19 | [Elavoko](https://open.spotify.com/track/4qXWdphJIdbn30k1rwMSUR) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Anderson Mário](https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO) | [Elavoko](https://open.spotify.com/album/4XKaZTBjVImGWm0Gf6MRNZ) | 3:27 |
 | 20 | [Mais uma Vez](https://open.spotify.com/track/6Nv3ZUW0VuGWQH0oswtLpg) | [Joelson JB](https://open.spotify.com/artist/5RK5GOWNUzzjJBUVmOAiQ8), [Graciano Damásio](https://open.spotify.com/artist/7tfYOwkhgJHOxtqRHbqcws) | [Mais uma Vez](https://open.spotify.com/album/4EgcAuoLHxHQMov8Qwen1x) | 3:09 |
-| 21 | [Elavoko](https://open.spotify.com/track/4qXWdphJIdbn30k1rwMSUR) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Anderson Mário](https://open.spotify.com/artist/1CS75XxFYNouLuB55te4YO) | [Elavoko](https://open.spotify.com/album/4XKaZTBjVImGWm0Gf6MRNZ) | 3:27 |
+| 21 | [Verão](https://open.spotify.com/track/0emu6J77PCmzWNG6ScLtmA) | [DJ Aka\-m](https://open.spotify.com/artist/5biGC3kl05zbkr38oyu1Z9), [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU), [DODDY](https://open.spotify.com/artist/0u8hXXP3b4Y5V9C8ed0QZp) | [Verão](https://open.spotify.com/album/322fwTocCvHnvXcZTIeHHQ) | 4:04 |
 | 22 | [Dorama](https://open.spotify.com/track/3w2cKQhYkSVk6a5p2vtSZY) | [12FUROS](https://open.spotify.com/artist/0qYuSm5EMjsbyjoiCmQ6Rp), [Cleyton David](https://open.spotify.com/artist/6SjhlmHzqfTKSChQ1k8lzq) | [Dorama](https://open.spotify.com/album/3ODvvShyN18tbPvBtOUOJ2) | 3:11 |
 | 23 | [Contigo](https://open.spotify.com/track/2OTVKuQcr2PnW2O1b99WJL) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW), [Noninho Navarro](https://open.spotify.com/artist/4Upsc5DYZ209aRDVIAgbrm) | [Contigo](https://open.spotify.com/album/2Y3M8GGPlGUR6zT0Rm8Fkr) | 3:19 |
 | 24 | [Namora Com O Telefone](https://open.spotify.com/track/6cGcgAvBwT6EFukPAuRTBj) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [Onde Está Meu Amor?](https://open.spotify.com/album/2vUcpGS0RvO6WzxuYD6OJf) | 3:01 |
-| 25 | [Com Quem Será](https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Com Quem Será](https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL) | 4:28 |
-| 26 | [Te Amo](https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo](https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ) | 4:15 |
+| 25 | [Te Amo](https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo](https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ) | 4:15 |
+| 26 | [Com Quem Será](https://open.spotify.com/track/0tzA9PpAJrUMv1bmkTRmI7) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa), [Edmázia Mayembe](https://open.spotify.com/artist/1BHwRO5nJVVR0Vdn9vwDAs) | [Com Quem Será](https://open.spotify.com/album/2QQnJqt5HPHWrS1PiAhZVL) | 4:28 |
 | 27 | [O Jeito Dela \- Original Mix](https://open.spotify.com/track/5sWHddw9qAaa5nlfNzYeCn) | [Gasso Franco](https://open.spotify.com/artist/4vmi92Wdt4eTFUA6o4ST0i) | [O Jeito Dela](https://open.spotify.com/album/3soRnkMgKurzDLFH41Zb8g) | 4:45 |
 | 28 | [Eu e Tu](https://open.spotify.com/track/0oHKoCQ1n52RLWbX9wT8Ww) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Eu e Tu](https://open.spotify.com/album/1TC18ldQyGPVTIG7QGXBaA) | 3:22 |
 | 29 | [BABETE](https://open.spotify.com/track/02QrqKgWNYUfjLdvJiut5h) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [REI DO KUYUYU](https://open.spotify.com/album/7ftrPCFmHY9CzokQnwfjQv) | 3:23 |

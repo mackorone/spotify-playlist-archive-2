@@ -1,6 +1,6 @@
 {
   "description": "focus modus is aan en leren maar",
-  "num_followers": 43518,
+  "num_followers": 43529,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 187265,
-      "name": "Summer You Were Mine",
-      "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "Long Way Home",
+        "url": "https://open.spotify.com/album/0inYFsNCyffdWte267wXRW"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 187265,
+      "name": "Summer You Were Mine",
+      "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "The Intro",
-        "url": "https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 207973,
-      "name": "Superficial Love",
-      "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "Liar",
         "url": "https://open.spotify.com/album/5zGqHfBnD4Lpk3dTwQT2b9"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 217637,
       "name": "Liar",
       "url": "https://open.spotify.com/track/2OWXbIn2geYwaSLgBxwkOM"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "The Intro",
+        "url": "https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8"
+      },
+      "artists": [
+        {
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        }
+      ],
+      "duration_ms": 207973,
+      "name": "Superficial Love",
+      "url": "https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
-      },
-      "artists": [
-        {
-          "name": "girlsweetvoiced",
-          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
-        }
-      ],
-      "duration_ms": 145710,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "My Lover",
         "url": "https://open.spotify.com/album/2huUEfqWfvuCa2MZKuCBO9"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Love Is A Stillness",
-        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/3vdKcTeYb0JmsiBlyVDuTe"
       },
       "artists": [
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "girlsweetvoiced",
+          "url": "https://open.spotify.com/artist/5pQD8yR8sjmxwgZfLnZzmT"
         }
       ],
-      "duration_ms": 114637,
-      "name": "Love Is A Stillness",
-      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
+      "duration_ms": 145710,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7DTqqSUuUhixiAv4nR0JQW"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1687,18 +1671,34 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "New To You",
-        "url": "https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq"
+        "name": "Love Is A Stillness",
+        "url": "https://open.spotify.com/album/5h72zYEeIyHqXrbLMzafIl"
       },
       "artists": [
         {
-          "name": "Duncan Laurence",
-          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 151378,
-      "name": "New To You",
-      "url": "https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r"
+      "duration_ms": 114637,
+      "name": "Love Is A Stillness",
+      "url": "https://open.spotify.com/track/0IKPdXmMg7I53OLelBYwh9"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "Dumb Love",
+        "url": "https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 207068,
+      "name": "Dumb Love",
+      "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Dumb Love",
-        "url": "https://open.spotify.com/album/0xU5lh9KbThw5Y7b50Ilm8"
+        "name": "New To You",
+        "url": "https://open.spotify.com/album/1EOchl5nhZjBbYYGPAK2Cq"
       },
       "artists": [
         {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+          "name": "Duncan Laurence",
+          "url": "https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434"
         }
       ],
-      "duration_ms": 207068,
-      "name": "Dumb Love",
-      "url": "https://open.spotify.com/track/2Ms8MDDtYBw7M3K5F3EqPX"
+      "duration_ms": 151378,
+      "name": "New To You",
+      "url": "https://open.spotify.com/track/5bpWWMmId1gEjiw5l0fF4r"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "All Because Of You",
-        "url": "https://open.spotify.com/album/3fh6Utv3GaGmWNhHt5LhQQ"
-      },
-      "artists": [
-        {
-          "name": "Bas Serra",
-          "url": "https://open.spotify.com/artist/5U9tbqPg5LH6tCC4Oq5hXj"
-        }
-      ],
-      "duration_ms": 192241,
-      "name": "All Because Of You",
-      "url": "https://open.spotify.com/track/04SoyoWgLygq4QD5aqxAny"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "I Know What I Want",
         "url": "https://open.spotify.com/album/4TxIBES6prR7eH2n5iU4Va"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 230260,
       "name": "5 More Minutes",
       "url": "https://open.spotify.com/track/5wAWTCv7wjkB3lNzGmIPcd"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "All Because Of You",
+        "url": "https://open.spotify.com/album/3fh6Utv3GaGmWNhHt5LhQQ"
+      },
+      "artists": [
+        {
+          "name": "Bas Serra",
+          "url": "https://open.spotify.com/artist/5U9tbqPg5LH6tCC4Oq5hXj"
+        }
+      ],
+      "duration_ms": 192241,
+      "name": "All Because Of You",
+      "url": "https://open.spotify.com/track/04SoyoWgLygq4QD5aqxAny"
     },
     {
       "added_at": "2026-09-21 12:00:15",
@@ -2571,22 +2571,6 @@
     {
       "added_at": "2026-09-21 12:00:15",
       "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf"
-    },
-    {
-      "added_at": "2026-09-21 12:00:15",
-      "album": {
         "name": "In The Lonely Hour (Drowning Shadows Edition)",
         "url": "https://open.spotify.com/album/0kJbDT8VGMScK8YDzNNvzV"
       },
@@ -2599,6 +2583,22 @@
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/5WLtenwEwifJHYTUw514RH"
+    },
+    {
+      "added_at": "2026-09-21 12:00:15",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf"
     },
     {
       "added_at": "2026-09-21 12:00:15",

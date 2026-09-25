@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 25660,
+  "num_followers": 25665,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
-        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Papillon (aka Hot Butterfly)",
-      "url": "https://open.spotify.com/track/45fclN1U2QlQ5CLTvZVMZC"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "NINA REVISITED: A Tribute to Nina Simone",
         "url": "https://open.spotify.com/album/71ShNGI2uUKZnCBOITSjRL"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 399531,
       "name": "I Put A Spell On You",
       "url": "https://open.spotify.com/track/3GkkWBaxrZB3pGAULEYXaM"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Epiphany: The Best of Chaka Khan, Vol. 1",
+        "url": "https://open.spotify.com/album/3qeheeurjW0lNtf9d7hJLe"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Papillon (aka Hot Butterfly)",
+      "url": "https://open.spotify.com/track/45fclN1U2QlQ5CLTvZVMZC"
     },
     {
       "added_at": "2022-10-01 16:00:00",

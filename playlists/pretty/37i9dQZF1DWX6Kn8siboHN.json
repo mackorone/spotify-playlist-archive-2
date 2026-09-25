@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Viejitas pero bonitas! Qu\u00e9 suene el acorde\u00f3n y el bajo sexto. Ram\u00f3n Ayala en portada.",
-  "num_followers": 1049439,
+  "num_followers": 1049796,
   "original_name": "Cl\u00e1sicas Norte\u00f1as",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
+        "name": "Bodas De Enga\u00f1o",
+        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Viernes Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Bodas De Enga\u00f1o",
-        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
-      },
-      "artists": [
-        {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
-        }
-      ],
-      "duration_ms": 212360,
-      "name": "Viernes Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -283,38 +283,6 @@
       "duration_ms": 235906,
       "name": "Loco",
       "url": "https://open.spotify.com/track/0uCuoqJ3uvSTU8I3Vtvnfu"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "Gracias America Sin Fronteras",
-        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "La Puerta Negra",
-      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "Amor De Unas Horas",
-        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Y Como Es El",
-      "url": "https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -335,18 +303,34 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Invencible",
-        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+        "name": "Amor De Unas Horas",
+        "url": "https://open.spotify.com/album/6DOztpQaHhGt3OAAvAS5SR"
       },
       "artists": [
         {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
         }
       ],
-      "duration_ms": 199333,
-      "name": "El Columpio",
-      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
+      "duration_ms": 174480,
+      "name": "Y Como Es El",
+      "url": "https://open.spotify.com/track/1pQPpSRZ0cUYX0tsZNSBwz"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Gracias America Sin Fronteras",
+        "url": "https://open.spotify.com/album/53JJBD8NXpO3X2p6TgyTMd"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "La Puerta Negra",
+      "url": "https://open.spotify.com/track/5TueyPDnDMPSRdQd7VYooI"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -363,6 +347,22 @@
       "duration_ms": 197733,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/6KfMaLSdCCHy8DwjlMjxqu"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Invencible",
+        "url": "https://open.spotify.com/album/09bVCvqV5G7r8DIEls8zjB"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "El Columpio",
+      "url": "https://open.spotify.com/track/2OFmcOC5m9iAvt4kcdXBSz"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "Mi Casa Nueva",
-      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Decide T\u00fa",
         "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
       },
@@ -443,22 +427,6 @@
       "duration_ms": 212640,
       "name": "Ave Cautiva",
       "url": "https://open.spotify.com/track/5uexdMpm1BUShEKQEte4Gx"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
-        "name": "Pescadores de Ensenada",
-        "url": "https://open.spotify.com/album/5yPptrMx2qRG9dweqE7aD1"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/21AL4aL9XfE4djZndVQSHA"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -479,8 +447,40 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Intocable",
-        "url": "https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH"
+        "name": "Pescadores de Ensenada",
+        "url": "https://open.spotify.com/album/5yPptrMx2qRG9dweqE7aD1"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/21AL4aL9XfE4djZndVQSHA"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 260066,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/1VTmlCO0jODdzh0m9i1Q0d"
+      "duration_ms": 214400,
+      "name": "Un Desenga\u00f1o",
+      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -559,8 +559,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0"
+        "name": "Intocable",
+        "url": "https://open.spotify.com/album/5Gr3x3xc7fYz6SALeFK7BH"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
         }
       ],
-      "duration_ms": 214400,
-      "name": "Un Desenga\u00f1o",
-      "url": "https://open.spotify.com/track/1ZAZ1mKRV35Hosm3KPWNzK"
+      "duration_ms": 260066,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/1VTmlCO0jODdzh0m9i1Q0d"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -975,22 +975,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
-        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "Casas de Madera",
-      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "Desde Hoy",
         "url": "https://open.spotify.com/album/6DeI66UvgFBjgrQKJ78soZ"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 181893,
       "name": "Desde Hoy",
       "url": "https://open.spotify.com/track/7i2quJtt4WoI5yE91Cqi7R"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Ram\u00f3n Ayala y Sus Bravos del Norte",
+        "url": "https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "Casas de Madera",
+      "url": "https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 214706,
-      "name": "Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
-    },
-    {
-      "added_at": "2026-03-10 01:04:29",
-      "album": {
         "name": "El Chubasco",
         "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 188946,
       "name": "El Chubasco",
       "url": "https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x"
+    },
+    {
+      "added_at": "2026-03-10 01:04:29",
+      "album": {
+        "name": "Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/2REB6oznGDpqBgFUZ3o7Vz"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3607,8 +3607,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Mi Flor De Naranjo",
-        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
+        "name": "Ventanas Al Viento",
+        "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
       },
       "artists": [
         {
@@ -3616,9 +3616,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 167026,
-      "name": "Las Noches Las Hago Dias",
-      "url": "https://open.spotify.com/track/7928L2xWgTXzB5YIN3dO7u"
+      "duration_ms": 167400,
+      "name": "Nada De Ti",
+      "url": "https://open.spotify.com/track/5TGWclsMaYPKXsbMlfm4jm"
     },
     {
       "added_at": "2026-03-10 01:04:29",
@@ -3687,8 +3687,8 @@
     {
       "added_at": "2026-03-10 01:04:29",
       "album": {
-        "name": "Ventanas Al Viento",
-        "url": "https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE"
+        "name": "Mi Flor De Naranjo",
+        "url": "https://open.spotify.com/album/5phLi5dStR0wTk1hGYC2Q3"
       },
       "artists": [
         {
@@ -3696,9 +3696,9 @@
           "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 167400,
-      "name": "Nada De Ti",
-      "url": "https://open.spotify.com/track/5TGWclsMaYPKXsbMlfm4jm"
+      "duration_ms": 167026,
+      "name": "Las Noches Las Hago Dias",
+      "url": "https://open.spotify.com/track/7928L2xWgTXzB5YIN3dO7u"
     },
     {
       "added_at": "2026-03-10 01:04:29",

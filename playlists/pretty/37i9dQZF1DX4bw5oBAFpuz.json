@@ -1,6 +1,6 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 87691,
+  "num_followers": 87705,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
@@ -139,8 +139,8 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Break Up in Reverse",
-        "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
+        "name": "Perfect Man",
+        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
       },
       "artists": [
         {
@@ -148,9 +148,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 205523,
-      "name": "Break Up in Reverse",
-      "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
+      "duration_ms": 213690,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -219,8 +219,8 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "Perfect Man",
-        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
+        "name": "Break Up in Reverse",
+        "url": "https://open.spotify.com/album/1fvk2zesgMji3Izn69EiBg"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 213690,
-      "name": "Perfect Man",
-      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
+      "duration_ms": 205523,
+      "name": "Break Up in Reverse",
+      "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -363,22 +363,6 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
-        "name": "It Was Gonna Be You",
-        "url": "https://open.spotify.com/album/3SJEEDxYhsw4HqNPb6I3Vl"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "It Was Gonna Be You",
-      "url": "https://open.spotify.com/track/6VzorL4qfmkmPax6xJs3jS"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
         "name": "Dangerous Lover",
         "url": "https://open.spotify.com/album/2EIRNYg9YwfZt0iRuuUFCh"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 204323,
       "name": "Dangerous Lover",
       "url": "https://open.spotify.com/track/6k5MFxx07WH3p0cC6DK9PD"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
+        "name": "It Was Gonna Be You",
+        "url": "https://open.spotify.com/album/3SJEEDxYhsw4HqNPb6I3Vl"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 209746,
+      "name": "It Was Gonna Be You",
+      "url": "https://open.spotify.com/track/6VzorL4qfmkmPax6xJs3jS"
     },
     {
       "added_at": "2026-09-22 22:00:05",
@@ -3635,6 +3635,22 @@
     {
       "added_at": "2026-09-22 22:00:05",
       "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
+    },
+    {
+      "added_at": "2026-09-22 22:00:05",
+      "album": {
         "name": "Laps Around the Sun",
         "url": "https://open.spotify.com/album/1mjMbSI9f1AYixV1CI7mLL"
       },
@@ -3667,22 +3683,6 @@
       "duration_ms": 197751,
       "name": "How Am I Gonna Love Myself",
       "url": "https://open.spotify.com/track/2XQZn07ixmAvy4VwCYZ0R0"
-    },
-    {
-      "added_at": "2026-09-22 22:00:05",
-      "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/3P1k02barEAeTD5QeyV6oj"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/2d4Zg9Iupw6kJXVrQPERvh"
     },
     {
       "added_at": "2026-09-22 22:00:05",

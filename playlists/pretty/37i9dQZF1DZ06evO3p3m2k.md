@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 
 > This is Juliana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,087 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,090 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 3 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:05 |
 | 4 | [PorquE Si Te QuedAs](https://open.spotify.com/track/32fkaxjxY0MXP5WyovCWC8) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [PorquE Si Te QuedAs](https://open.spotify.com/album/54zZai5zPTfVxRxpi8i4R8) | 2:59 |
 | 5 | [Manhattan](https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:50 |
-| 6 | [La GuapA](https://open.spotify.com/track/360BMRTge92ufqa7fiVffL) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La GuapA](https://open.spotify.com/album/7FJXAjtGwzdCr5Ku5qHPWE) | 2:16 |
-| 7 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 |
+| 6 | [La Primera Vez](https://open.spotify.com/track/3AS2NiyobOcS454xthOByC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/5o6FpcNF63Rzf2sGZL1WYp) | 3:44 |
+| 7 | [La GuapA](https://open.spotify.com/track/360BMRTge92ufqa7fiVffL) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La GuapA](https://open.spotify.com/album/7FJXAjtGwzdCr5Ku5qHPWE) | 2:16 |
 | 8 | [Toda la Vida](https://open.spotify.com/track/2KSUy9yJZbXXfvIIIqQ6we) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:10 |
 | 9 | [La Colombiana](https://open.spotify.com/track/3lR7MCIummieXz5REQDoYp) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Pista](https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil) | 2:46 |
 | 10 | [Cuando Te Encuentre](https://open.spotify.com/track/1rIezJH3NQpbKJBAxZlIKQ) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Mar Adentro](https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3p3m2k.md) - [plain]
 | 49 | [La Primera Vez](https://open.spotify.com/track/1nKESoKeZvAAOqlEXBG1if) | [Opa!](https://open.spotify.com/artist/5RkExucftRinoiN1HV0uDZ), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0TLFTxAK3nJUwN5cvUcSZS) | 5:05 |
 | 50 | [¿Y Cómo Es Él? \- \(Sesión en vivo\)](https://open.spotify.com/track/0EFtIku6LZPToZJ2F3hath) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Con las Que Crecí \(Sesión en Vivo\)](https://open.spotify.com/album/7mmgvSwgtVu8OhQNW6z0cr) | 2:43 |
 
-Snapshot ID: `arHFAAAAAAAkiohFkHzwbQQStDFF+MDD`
+Snapshot ID: `arMWgAAAAABS/BfhQfegx/M6cNJU0K7x`

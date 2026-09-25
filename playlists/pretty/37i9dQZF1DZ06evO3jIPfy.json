@@ -1,12 +1,12 @@
 {
   "description": "This is Yo-Yo Ma. The essential tracks, all in one playlist.",
-  "num_followers": 103428,
+  "num_followers": 103433,
   "original_name": "This Is Yo-Yo Ma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arHFAAAAAAAL2cVCUsyj3SvxsusGq+Ex",
+  "snapshot_id": "arMWgAAAAAC5cu5T+FgwjCyz2ca8YSLs",
   "tracks": [
     {
       "added_at": null,
@@ -555,6 +555,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: V. Menuets I & II",
+      "url": "https://open.spotify.com/track/4JXQV1LS3lw09MwCFFASso"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Saint-Sa\u00ebns: Organ Symphony; Bacchanale; Danse Macabre; Carnaval des Animaux",
         "url": "https://open.spotify.com/album/1oPhXu7xxOHkR6GahZs2To"
       },
@@ -615,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
-        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: V. Menuets I & II",
-      "url": "https://open.spotify.com/track/4JXQV1LS3lw09MwCFFASso"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Songs from the Arc of Life",
         "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
       },
@@ -683,6 +683,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
+        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 107626,
+      "name": "Cello Suite No. 1 in G Major, BWV 1007: VI. Gigue",
+      "url": "https://open.spotify.com/track/7BWwT75IPTKbHbxn4P6Bwm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Memoirs of a Geisha (Remastered)",
         "url": "https://open.spotify.com/album/4wcOu3JLqjWjcFpMwKS69C"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 91493,
       "name": "Sayuri's Theme (From \"Memoirs of a Geisha\" Soundtrack)",
       "url": "https://open.spotify.com/track/0RGZCtszeCpGRgbMyVigAG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bach: Unaccompanied Cello Suites (Remastered)",
-        "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 107626,
-      "name": "Cello Suite No. 1 in G Major, BWV 1007: VI. Gigue",
-      "url": "https://open.spotify.com/track/7BWwT75IPTKbHbxn4P6Bwm"
     },
     {
       "added_at": null,
@@ -779,26 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Six Evolutions - Bach: Cello Suites",
-        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 207800,
-      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: V. Menuets I & II",
-      "url": "https://open.spotify.com/track/52ef2T9KALMGFdLt3RdeUn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bach: Unaccompanied Cello Suites (Remastered)",
         "url": "https://open.spotify.com/album/2OpnKgmVYPEN2GldgBponI"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 343786,
       "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\": III. Scherzo. Allegro vivace",
       "url": "https://open.spotify.com/track/6boOjP1lz9HUKZBe8xlOh2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Six Evolutions - Bach: Cello Suites",
+        "url": "https://open.spotify.com/album/6XaCGjrIRFiS5D5IVg66vb"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 207800,
+      "name": "Unaccompanied Cello Suite No. 1 in G major, BWV 1007: V. Menuets I & II",
+      "url": "https://open.spotify.com/track/52ef2T9KALMGFdLt3RdeUn"
     },
     {
       "added_at": null,
@@ -1063,34 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivaldi's Cello (Remastered)",
-        "url": "https://open.spotify.com/album/36eVEeDGGTRLsab8AzI2Yj"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vivaldi",
-          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Amsterdam Baroque Orchestra",
-          "url": "https://open.spotify.com/artist/2CMg8J0WjftvFR5zFbufVA"
-        },
-        {
-          "name": "Ton Koopman",
-          "url": "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
-        }
-      ],
-      "duration_ms": 208920,
-      "name": "Concerto in B-flat Major for Cello, Strings and Basso continuo, RV 423: I. Allegro",
-      "url": "https://open.spotify.com/track/18RXepgNsHvASLfk7O74jC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piano Trio No. 3 in C Minor, Op. 1, No. 3/II. Andante cantabile con variazioni",
         "url": "https://open.spotify.com/album/68q3yTkL4BARSPZDzaOkSa"
       },
@@ -1115,6 +1087,34 @@
       "duration_ms": 458586,
       "name": "Piano Trio No. 3 in C Minor, Op. 1, No. 3: II. Andante cantabile con variazioni",
       "url": "https://open.spotify.com/track/0F2Htrs5xXvQaid44GLIHq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivaldi's Cello (Remastered)",
+        "url": "https://open.spotify.com/album/36eVEeDGGTRLsab8AzI2Yj"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Amsterdam Baroque Orchestra",
+          "url": "https://open.spotify.com/artist/2CMg8J0WjftvFR5zFbufVA"
+        },
+        {
+          "name": "Ton Koopman",
+          "url": "https://open.spotify.com/artist/7Fu8GId2mQkNzqDbZbcDWM"
+        }
+      ],
+      "duration_ms": 208920,
+      "name": "Concerto in B-flat Major for Cello, Strings and Basso continuo, RV 423: I. Allegro",
+      "url": "https://open.spotify.com/track/18RXepgNsHvASLfk7O74jC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 
 > 𝖋𝖚𝖈𝖐 𝖑𝖔𝖛𝖊
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,106 likes - 100 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,104 likes - 100 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 11 | [Revenge](https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 2:00 |
 | 12 | [beamer boy](https://open.spotify.com/track/1Rt5f1CktdvBOLX2RfBO6K) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Nedarb](https://open.spotify.com/artist/1VKWlHqcqwmU9CGKkJR09R) | [beamer boy](https://open.spotify.com/album/3T8uEFa8W2HkpDAI7ap0z8) | 3:23 |
 | 13 | [Poter scegliere](https://open.spotify.com/track/35s4cmZFjwxJ2fhcsEwAiC) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Lettera Q](https://open.spotify.com/album/7mzC45R2k8PRHzE7lbrRBE) | 2:20 |
-| 14 | [Piangere a 90](https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Piangere a 90](https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3) | 2:35 |
-| 15 | [verticale](https://open.spotify.com/track/7CRiclkzpprFei2hnUagca) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [il dolce ricordo della nostra disperata gioventù](https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD) | 4:28 |
+| 14 | [verticale](https://open.spotify.com/track/7CRiclkzpprFei2hnUagca) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [il dolce ricordo della nostra disperata gioventù](https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD) | 4:28 |
+| 15 | [Piangere a 90](https://open.spotify.com/track/0Pq53cPG2DSuPXABoZrYes) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Piangere a 90](https://open.spotify.com/album/1hnBudoNBHLZuExBjV3mM3) | 2:35 |
 | 16 | [Jocelyn Flores](https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:59 |
 | 17 | [castles](https://open.spotify.com/track/4VqEUmMjhbj6w7g5EVKILE) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Lil Tracy](https://open.spotify.com/artist/5g63iWaMJ2UrkZMkCC8dMi) | [castles](https://open.spotify.com/album/26dxoE2E0uXPs8zhlo7PxR) | 2:24 |
 | 18 | [girl](https://open.spotify.com/track/3vMMqHjTyukdNcIVvzka2c) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [star](https://open.spotify.com/album/1HjSoAhxhq4RtappX15Xt7) | 3:06 |
@@ -82,17 +82,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JWqNxz28IX.md) - [plain]
 | 72 | [polvere da sparo](https://open.spotify.com/track/0i5vfMC6xACRZXFxQQOWgp) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [polvere da sparo](https://open.spotify.com/album/1r3J6DtlIIYPLigj8H2xJZ) | 2:57 |
 | 73 | [Lacrime di sale](https://open.spotify.com/track/4MbFjClHugcdVpFgF5kqPz) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Lacrime di sale](https://open.spotify.com/album/6jVwSsvq7YaoRDaurBBb4A) | 3:15 |
 | 74 | [bambino perfetto](https://open.spotify.com/track/7dBnuF21ssUjkqUPO8gApy) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [SKI](https://open.spotify.com/artist/5tYQ2v9W4IDtLOWNNBsIH3), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [bambino perfetto](https://open.spotify.com/album/70URwszSHh76Vb3zj6YlEG) | 2:20 |
-| 75 | [SOLO](https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [SOLO](https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1) | 2:00 |
-| 76 | [sfacciati](https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX) | [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [sfacciati](https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD) | 2:25 |
+| 75 | [sfacciati](https://open.spotify.com/track/0NYCPZ8e9TDHDXvptYwtqX) | [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [sfacciati](https://open.spotify.com/album/5Y7UwTiqVIWLovqPiqkDXD) | 2:25 |
+| 76 | [SOLO](https://open.spotify.com/track/1NQBHRoQJoIBE3ktt2tHjv) | [Fraespo](https://open.spotify.com/artist/3rQIeU2xZreyflzbL0jbKQ) | [SOLO](https://open.spotify.com/album/2jvVjr1wBB8cVxTu0NKqP1) | 2:00 |
 | 77 | [SEMBREREMO DISTANTI](https://open.spotify.com/track/1OmjpoA4JsgcwVL9XXu62h) | [UkuLele](https://open.spotify.com/artist/69VBcKoYGOFY30ly2yxm8L), [Delta](https://open.spotify.com/artist/7KMnhvEUFIaY5afnH9kCbv), [Close Listen](https://open.spotify.com/artist/1nYewcxiLilP3ju14xOaov) | [MUSICA ALTA E STRESS](https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo) | 2:45 |
 | 78 | [L'effetto che mi fai](https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [L'effetto che mi fai](https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx) | 2:54 |
 | 79 | [Sedato e Deluso](https://open.spotify.com/track/531bbjLIkNTtEGtRvWVCxo) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Elan Rood](https://open.spotify.com/artist/3vmujWaYbWHmCNWz76zYxy) | [Sedato e Deluso](https://open.spotify.com/album/7kIEYHH4kTmUmU2r8Uzler) | 3:22 |
 | 80 | [SOGNI](https://open.spotify.com/track/0F2Ca8sJqNTIajWxsqaKr0) | [Zoda](https://open.spotify.com/artist/6udpKGzl85NuBEkZqOXiYB) | [AUTORITRATTO](https://open.spotify.com/album/3sswZ6uUXJjtnEY1LLt712) | 2:13 |
 | 81 | [:RRaGNaTELa](https://open.spotify.com/track/5kI5Dm8y6dV3Aqx9fPJqhN) | [EMMA](https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq) | [ERA L’INIZIO](https://open.spotify.com/album/2RgzZRAkdstoKe6NgpTrga) | 3:49 |
 | 82 | [Ceramica](https://open.spotify.com/track/776F1kiWnHUjxuntmvPnt9) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa), [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp) | [Ceramica](https://open.spotify.com/album/3UPAnRJrMnjNBE5bxw66BD) | 3:13 |
-| 83 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
+| 83 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 |
 | 84 | [Piano e Forte](https://open.spotify.com/track/74NKUib7jQciADIreMyNJZ) | [Shama24k](https://open.spotify.com/artist/1VcAFcOFWGpmBdq1PvFTTm), [Gheb](https://open.spotify.com/artist/5KigfHb4XxYevzO2hAVPAw) | [Piano e Forte](https://open.spotify.com/album/2u8d07uzF2uLgwCnxioRv2) | 2:38 |
-| 85 | [Backstage](https://open.spotify.com/track/5V8XwjvqWbDB1B0r0aZ2Wi) | [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr) | [Gemini](https://open.spotify.com/album/3qPC7M1Bgd3yHvQi7PSzrK) | 3:00 |
+| 85 | [pensieri brutti](https://open.spotify.com/track/49i5H63uLE5DBU13KDc5eA) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Axos](https://open.spotify.com/artist/7fE7lNK6tsXhCOfYfxQ3wT) | [nostalgia liquida](https://open.spotify.com/album/7KiMMxjH4YYmYk2JuQtfe0) | 2:31 |
 | 86 | [Cose stupide](https://open.spotify.com/track/1fqs2w0MyvEPPPO8tEz3tu) | [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [Cose stupide](https://open.spotify.com/album/6F7JTOZTCThGzDo6DV1vdq) | 3:06 |
 | 87 | [Atlantico](https://open.spotify.com/track/5iCAVJsoCu15BJSVsUZJ47) | [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Atlantico](https://open.spotify.com/album/6p0QSYcbHPZ26dbKVAGqEb) | 3:16 |
 | 88 | [Ho perso il cuore,](https://open.spotify.com/track/18BKych70MQEkZlH2RtNYO) | [Chakra](https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv) | [non sto bene, va bene così](https://open.spotify.com/album/0AzsSCV3h667458lI3SgiN) | 1:53 |

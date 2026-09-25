@@ -4,7 +4,7 @@
 
 > New music from Travis Scott, Yeat and BigXthaPlug.
 
-2,884 songs - 6 day 5 hr 45 min
+2,885 songs - 6 day 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2838,6 +2838,7 @@
 | [Work For It](https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:46 | 2023-10-20 | 2023-10-28 |
 | [Work Hard, Play Hard](https://open.spotify.com/track/1ms5tNNdPouTtcD2oVF9Oz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [O.N.I.F.C\. \(Deluxe\)](https://open.spotify.com/album/5S4SuPHbaozi5PDedAONTG) | 3:39 | 2022-12-01 | 2022-12-03 |
 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 | 2022-11-24 | 2022-11-26 |
+| [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 | 2026-09-24 |  |
 | [Work REMIX \(feat\. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q\)](https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:43 | 2023-07-20 | 2023-07-22 |
 | [World Boss](https://open.spotify.com/track/0gC6ZI3cFxHP7Hor3nMO3b) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [World Boss](https://open.spotify.com/album/0rH4QhzdNFrGWKYCIFJZPa) | 3:04 | 2025-09-05 | 2025-09-20 |
 | [World Tour \(Aquafina\)](https://open.spotify.com/track/261EcPb2XfhnPWSnlMOi3G) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Pre\-Party](https://open.spotify.com/album/2rlWVKCWJo4vpOBl8RiYX4) | 2:35 | 2024-09-13 | 2024-09-21 |
