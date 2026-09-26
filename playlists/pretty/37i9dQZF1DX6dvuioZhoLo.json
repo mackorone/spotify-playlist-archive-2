@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Paige Plaisance",
-  "num_followers": 315815,
+  "num_followers": 315812,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -287,38 +287,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Fast As I Can Crawl",
-        "url": "https://open.spotify.com/album/7wTXnx3KkxWFcqWhYiseg4"
-      },
-      "artists": [
-        {
-          "name": "Jason Scott & The High Heat",
-          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
-        }
-      ],
-      "duration_ms": 201200,
-      "name": "Fast As I Can Crawl",
-      "url": "https://open.spotify.com/track/3DDoP7OhS85NKjnuEwb4Pq"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "Easy On The Eyes",
-        "url": "https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 224568,
-      "name": "Easy On The Eyes",
-      "url": "https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Interstate Gospel",
         "url": "https://open.spotify.com/album/0IXxmmlfSQxgJNWnNjHhgJ"
       },
@@ -343,6 +311,38 @@
       "duration_ms": 174253,
       "name": "Got My Name Changed Back",
       "url": "https://open.spotify.com/track/2WPE0Z7u5PafvN2aWk5pFl"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Easy On The Eyes",
+        "url": "https://open.spotify.com/album/3JQfqboxnLDsxsHE4ut65G"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 224568,
+      "name": "Easy On The Eyes",
+      "url": "https://open.spotify.com/track/0FKafClDhDTAjjNGr7wV5t"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Fast As I Can Crawl",
+        "url": "https://open.spotify.com/album/7wTXnx3KkxWFcqWhYiseg4"
+      },
+      "artists": [
+        {
+          "name": "Jason Scott & The High Heat",
+          "url": "https://open.spotify.com/artist/03IlJFWZVEYHlSKSBYlfAm"
+        }
+      ],
+      "duration_ms": 201200,
+      "name": "Fast As I Can Crawl",
+      "url": "https://open.spotify.com/track/3DDoP7OhS85NKjnuEwb4Pq"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Should've Known Better",
-        "url": "https://open.spotify.com/album/30SjxeGj5ktDes6YFM6LBE"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 174789,
-      "name": "Should\u2019ve Known Better",
-      "url": "https://open.spotify.com/track/2e04cKbyM0Zpe3nDorXhV5"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "You Make Sense To Me",
         "url": "https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Country Is Dead",
-        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
+        "name": "Should've Known Better",
+        "url": "https://open.spotify.com/album/30SjxeGj5ktDes6YFM6LBE"
       },
       "artists": [
         {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Turn This Thing Around",
-      "url": "https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc"
+      "duration_ms": 174789,
+      "name": "Should\u2019ve Known Better",
+      "url": "https://open.spotify.com/track/2e04cKbyM0Zpe3nDorXhV5"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -639,6 +623,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Country Is Dead",
+        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Turn This Thing Around",
+      "url": "https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Fastest Gun Alive",
         "url": "https://open.spotify.com/album/3vTJF6ShAhmkuoBwQdSIi1"
       },
@@ -655,22 +655,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Old Flowers",
-        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "It Must Be Someone Else\u2019s Fault",
-      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "I Will Not Be Afraid",
         "url": "https://open.spotify.com/album/14tLWuboMq3NyGJV4lXkyk"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 195320,
       "name": "Blood on Your Bootheels",
       "url": "https://open.spotify.com/track/5qfPr1jisW3bGULZd5UXtf"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Old Flowers",
+        "url": "https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "It Must Be Someone Else\u2019s Fault",
+      "url": "https://open.spotify.com/track/6ZzUCAB0R1S3MJ1yvcBiMj"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Warning",
-        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
-      },
-      "artists": [
-        {
-          "name": "Lasers Lasers Birmingham",
-          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
-        }
-      ],
-      "duration_ms": 207826,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Lavender Cowboy",
         "url": "https://open.spotify.com/album/6zeA4GCl9aHODp1dB4yo8w"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 193555,
       "name": "Lavender Cowboy",
       "url": "https://open.spotify.com/track/2B8BHU6KqYiDbabtYEqfqD"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Warning",
+        "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
+      },
+      "artists": [
+        {
+          "name": "Lasers Lasers Birmingham",
+          "url": "https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI"
+        }
+      ],
+      "duration_ms": 207826,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -887,6 +887,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "This Masquerade",
+        "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 192750,
+      "name": "This Masquerade",
+      "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Tumbleweeds and Chewing Gum",
         "url": "https://open.spotify.com/album/06POsA4cWPeLqwEZRg1rJl"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 159330,
       "name": "Tumbleweeds and Chewing Gum",
       "url": "https://open.spotify.com/track/6KvzXZ70HTT3sLd9iYxZJY"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "This Masquerade",
-        "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
-      },
-      "artists": [
-        {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
-        }
-      ],
-      "duration_ms": 192750,
-      "name": "This Masquerade",
-      "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "En Los Shadows de San Antone",
-        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
+        "name": "Fuck With Sad Girls",
+        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
       },
       "artists": [
         {
-          "name": "Garrett T. Capps",
-          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
+          "name": "Bonnie Whitmore",
+          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
         }
       ],
-      "duration_ms": 185216,
-      "name": "Goodbye San Antonio, Hello Amsterdam",
-      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
+      "duration_ms": 278546,
+      "name": "Fuck With Sad Girls",
+      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1215,38 +1215,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Good While It Lasted",
-        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
-      },
-      "artists": [
-        {
-          "name": "Coleman Jennings",
-          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
-        }
-      ],
-      "duration_ms": 176335,
-      "name": "Good While It Lasted",
-      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "Fuck With Sad Girls",
-        "url": "https://open.spotify.com/album/42QRkIDihCyPWIrsYVgWni"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Whitmore",
-          "url": "https://open.spotify.com/artist/69c5B6GGm5eZgdLDkYeCw9"
-        }
-      ],
-      "duration_ms": 278546,
-      "name": "Fuck With Sad Girls",
-      "url": "https://open.spotify.com/track/68oChP7L8vv9Oy7ekk1DcV"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Ramblin' Soul",
         "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
       },
@@ -1263,18 +1231,34 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
+        "name": "En Los Shadows de San Antone",
+        "url": "https://open.spotify.com/album/0FRjkm2L9G1AU2YQiev056"
       },
       "artists": [
         {
-          "name": "Skylar Gudasz",
-          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+          "name": "Garrett T. Capps",
+          "url": "https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv"
         }
       ],
-      "duration_ms": 286146,
-      "name": "Femme Fatale",
-      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+      "duration_ms": 185216,
+      "name": "Goodbye San Antonio, Hello Amsterdam",
+      "url": "https://open.spotify.com/track/69DwklQ9Y3kufJey4ccoeM"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Good While It Lasted",
+        "url": "https://open.spotify.com/album/6wTPSpth7LiJ0mIETQYuiq"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "duration_ms": 176335,
+      "name": "Good While It Lasted",
+      "url": "https://open.spotify.com/track/18EMtin4khvod6yJScz2CD"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
+      },
+      "artists": [
+        {
+          "name": "Skylar Gudasz",
+          "url": "https://open.spotify.com/artist/0isq0T851tBgpJagOHHYHQ"
+        }
+      ],
+      "duration_ms": 286146,
+      "name": "Femme Fatale",
+      "url": "https://open.spotify.com/track/7lXw3aiwRlxwwP9pOcyuZS"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "It\u2019s Been Too Long",
         "url": "https://open.spotify.com/album/2ILBE0Bx1t9FmUUqctFE9A"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 162384,
       "name": "It\u2019s Been Too Long",
       "url": "https://open.spotify.com/track/6LHqwTM5LpkeBh1C8bSLcT"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "Livin\u2019 In Shame",
-        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
-      },
-      "artists": [
-        {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
-        }
-      ],
-      "duration_ms": 145253,
-      "name": "Livin\u2019 In Shame",
-      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1343,6 +1327,22 @@
       "duration_ms": 187466,
       "name": "Same Devil (feat. Brandi Carlile)",
       "url": "https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Livin\u2019 In Shame",
+        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
+      },
+      "artists": [
+        {
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+        }
+      ],
+      "duration_ms": 145253,
+      "name": "Livin\u2019 In Shame",
+      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Flyin'",
-        "url": "https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA"
-      },
-      "artists": [
-        {
-          "name": "Coleman Jennings",
-          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
-        }
-      ],
-      "duration_ms": 145995,
-      "name": "Flyin'",
-      "url": "https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "ism",
         "url": "https://open.spotify.com/album/2YKt3LwBzCSAoon0XlzeMU"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Flyin'",
+        "url": "https://open.spotify.com/album/0V64rr5DiYFZHEbgtRvntA"
+      },
+      "artists": [
+        {
+          "name": "Coleman Jennings",
+          "url": "https://open.spotify.com/artist/3hxrh6IPuATmIiJuGNSdpp"
+        }
+      ],
+      "duration_ms": 145995,
+      "name": "Flyin'",
+      "url": "https://open.spotify.com/track/6IJRxlFtq6O9aih1J5kiBw"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 199991,
       "name": "Nothing Wrong with Texas",
       "url": "https://open.spotify.com/track/56CnTJ6SeEj5luYSIcE6tv"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "Linger On",
-        "url": "https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD"
-      },
-      "artists": [
-        {
-          "name": "credits",
-          "url": "https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U"
-        }
-      ],
-      "duration_ms": 189862,
-      "name": "Linger On",
-      "url": "https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1503,6 +1487,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Linger On",
+        "url": "https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD"
+      },
+      "artists": [
+        {
+          "name": "credits",
+          "url": "https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U"
+        }
+      ],
+      "duration_ms": 189862,
+      "name": "Linger On",
+      "url": "https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Violets as Camouflage",
         "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
       },
@@ -1515,22 +1515,6 @@
       "duration_ms": 196339,
       "name": "I Thought You Were Somebody Else",
       "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
-        "name": "Mint Condition",
-        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
-      },
-      "artists": [
-        {
-          "name": "Caroline Spence",
-          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Long Haul",
-      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Snakelife",
-        "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
+        "name": "Mint Condition",
+        "url": "https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794"
       },
       "artists": [
         {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+          "name": "Caroline Spence",
+          "url": "https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE"
         }
       ],
-      "duration_ms": 277613,
-      "name": "Snakelife",
-      "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
+      "duration_ms": 241000,
+      "name": "Long Haul",
+      "url": "https://open.spotify.com/track/64FAakgrlFtznRkDwgWAmg"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1579,6 +1563,22 @@
       "duration_ms": 200480,
       "name": "True Love's Face",
       "url": "https://open.spotify.com/track/2NYYOnTEAIG6LXA8GjFmvd"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Snakelife",
+        "url": "https://open.spotify.com/album/4vsViZG1HskPq7Sx2YSnZU"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 277613,
+      "name": "Snakelife",
+      "url": "https://open.spotify.com/track/0NNgcqGAz5470XPqrFv8bB"
     },
     {
       "added_at": "2026-09-11 04:01:25",

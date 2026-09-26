@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-10-11",
-  "description": "Las novedades de la semana.",
+  "description": "Taylor Swift, Ozuna, Ovy On The Drums & Manuel Turizo, Madonna & Charli xcx y m\u00e1s novedades de la semana.",
   "name": "Novedades Viernes Espa\u00f1a",
   "tracks": [
     {
@@ -28196,6 +28196,10 @@
         {
           "name": "Mr. Worth",
           "url": "https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U"
+        },
+        {
+          "name": "8 Keys",
+          "url": "https://open.spotify.com/artist/2VJOyNT0Kv0wTu27RqNOIE"
         }
       ],
       "date_added": "2026-09-24",
@@ -93695,6 +93699,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "LOS ANGELITOS",
         "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
       },
@@ -103051,7 +103073,7 @@
     },
     {
       "album": {
-        "name": "Qu\u00e9date en su voz (Por Ellas Cadena 100)",
+        "name": "Qu\u00e9date en su voz",
         "url": "https://open.spotify.com/album/6JigedhnBqWPhPHamvcU5n"
       },
       "artists": [
@@ -103064,7 +103086,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 241264,
-      "name": "Qu\u00e9date en su voz - Por Ellas Cadena 100",
+      "name": "Qu\u00e9date en su voz",
       "url": "https://open.spotify.com/track/4ifom2idR21VmcMeB36AT9"
     },
     {

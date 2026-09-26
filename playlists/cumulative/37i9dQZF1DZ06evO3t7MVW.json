@@ -1285,6 +1285,24 @@
     },
     {
       "album": {
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288040,
+      "name": "Vibes Alive",
+      "url": "https://open.spotify.com/track/7yOOIQQe46Ycy31neFu6JR"
+    },
+    {
+      "album": {
         "name": "Visions (with Stick Figure)",
         "url": "https://open.spotify.com/album/5nXhFjhiM4Ao8wWNk7U43P"
       },

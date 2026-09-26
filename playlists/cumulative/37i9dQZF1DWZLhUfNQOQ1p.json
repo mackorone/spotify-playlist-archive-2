@@ -418,7 +418,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 230015,
       "name": "All In A Dream",
       "url": "https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2"
@@ -5708,7 +5708,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 346229,
       "name": "Now You Feel",
       "url": "https://open.spotify.com/track/6ByIvhZp1fSV8uh31UFQyT"
@@ -8055,6 +8055,24 @@
     },
     {
       "album": {
+        "name": "Things You Want",
+        "url": "https://open.spotify.com/album/08Xc7BRq6Mz9BwoiB5sLNU"
+      },
+      "artists": [
+        {
+          "name": "Flying Moth",
+          "url": "https://open.spotify.com/artist/4TmwdCfg977GsElJtngLp7"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220645,
+      "name": "Things You Want",
+      "url": "https://open.spotify.com/track/19bWGnsuujQJHd3qcHbKE5"
+    },
+    {
+      "album": {
         "name": "think & dream",
         "url": "https://open.spotify.com/album/3NWgXYTeSZ5q7sM0sqrjsH"
       },
@@ -8486,6 +8504,28 @@
       "duration_ms": 269666,
       "name": "Uptown Funk (feat. Bruno Mars)",
       "url": "https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS"
+    },
+    {
+      "album": {
+        "name": "Used To Be",
+        "url": "https://open.spotify.com/album/4OUivhe1yXMMFjA4KCbdyW"
+      },
+      "artists": [
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        },
+        {
+          "name": "Djomood",
+          "url": "https://open.spotify.com/artist/7L8n726TCOKfUKF4bVOxsO"
+        }
+      ],
+      "date_added": "2026-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154854,
+      "name": "Used To Be",
+      "url": "https://open.spotify.com/track/54L6mqCQlX9zKu62LDafiR"
     },
     {
       "album": {

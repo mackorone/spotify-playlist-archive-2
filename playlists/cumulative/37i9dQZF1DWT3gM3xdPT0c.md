@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-488 songs - 20 hr 56 min
+490 songs - 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Shimmering](https://open.spotify.com/track/0V9hBI4lEPGj4oXB1Sxr2b) | [Charles Theodore](https://open.spotify.com/artist/2hfHg46WyBCls0ZixeNtMq) | [Shimmering](https://open.spotify.com/album/5QlqAMPDmZlNYGtb14cgdt) | 2:53 | 2022-03-04 | 2022-04-06 |
 | [Shivers](https://open.spotify.com/track/4rTVUL4nvoRtKEuAarST2c) | [Tobias Berntsson](https://open.spotify.com/artist/1ATcda1cBf3inR0K5yqlU6) | [Shivers](https://open.spotify.com/album/64hzAuUBRzJKjWR4OXX9SS) | 3:13 | 2022-06-10 | 2022-07-08 |
 | [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2022-03-18 | 2022-07-22 |
+| [Silent Creek Meadow](https://open.spotify.com/track/0xFqWO0c32qvy5MVxdlX2b) | [Hayden Phoenix](https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r) | [Silent Creek Meadow](https://open.spotify.com/album/4Ne9CAIrj51t9NXHcdaZOp) | 2:40 | 2026-09-25 |  |
 | [Simmer Down](https://open.spotify.com/track/3RW2g8eTVmmzIITKh4BBLO) | [Alex Miracone](https://open.spotify.com/artist/4AbloHgnodXgCbW2JHB3Jh) | [Simmer down](https://open.spotify.com/album/5DnoLzFxcbKOTBB8rHch6Y) | 3:04 | 2023-01-06 | 2023-05-10 |
 | [Sky](https://open.spotify.com/track/4gYayVU0GTqHEIqbLXu3N7) | [a sound for you](https://open.spotify.com/artist/5Ae5MzG7JJlSFIa7yQeXmI) | [Sky](https://open.spotify.com/album/6fFjqvw0ZkLTOihz2voCU0) | 1:53 | 2022-07-01 | 2022-09-17 |
 | [Skyline](https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Skyline](https://open.spotify.com/album/7fcgX0jd8ZbfyuPDUKWabu) | 1:44 | 2023-05-09 | 2023-08-26 |
@@ -427,6 +428,7 @@
 | [This Yellow Light](https://open.spotify.com/track/4kctoVJ5NcwQxD8MwKcsa4) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [This Yellow Light](https://open.spotify.com/album/5H1LeHCf7tV7ydiInjejnv) | 2:20 | 2025-08-18 |  |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-24 | 2025-11-18 |
 | [Through a Maze](https://open.spotify.com/track/01nrJ5PYtkLc8zz7ZIw9XH) | [Colin Reed](https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs) | [Through a Maze](https://open.spotify.com/album/6zWFZzQ3LaGTzWAYXMHonv) | 2:33 | 2024-09-10 | 2025-11-18 |
+| [Throughout the Day](https://open.spotify.com/track/6MbX45spiOMOmLHQgHfzO6) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [Throughout the Day](https://open.spotify.com/album/2MrqNgveGsZiRZlbe7C1ik) | 2:27 | 2026-09-25 |  |
 | [Timespell](https://open.spotify.com/track/7DU07JAnqCz5YRjvFZxUnI) | [Heartfellow](https://open.spotify.com/artist/0s1Q5v7lIsb4NlyNX3wYDi) | [Harbor](https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp) | 2:27 | 2022-03-04 | 2022-07-22 |
 | [Tintern Abbey](https://open.spotify.com/track/3aWttEx2k00f2UEZDgZBX1) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Tintern Abbey](https://open.spotify.com/album/1z2U5VHq0Zz7pWypdxUjUp) | 2:29 | 2023-04-21 | 2025-11-18 |
 | [Tiny Voyages](https://open.spotify.com/track/6VFvnCCNaGvAA05rdvHJnu) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Tiny Voyages](https://open.spotify.com/album/0AZpS8gjpXsxnQeJVNhdgE) | 2:02 | 2025-08-18 |  |

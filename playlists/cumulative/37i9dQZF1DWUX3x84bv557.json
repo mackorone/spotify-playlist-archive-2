@@ -8285,6 +8285,24 @@
     },
     {
       "album": {
+        "name": "Gianni",
+        "url": "https://open.spotify.com/album/0HRvk6rOkS2nUIGzJfH4BA"
+      },
+      "artists": [
+        {
+          "name": "Linde Sch\u00f6ne",
+          "url": "https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182426,
+      "name": "Gianni",
+      "url": "https://open.spotify.com/track/3bZCTz8RuBTvcYXoVFxWga"
+    },
+    {
+      "album": {
         "name": "Gin & Tonic",
         "url": "https://open.spotify.com/album/6gKlEJrRnwvLnJvqEQXY9i"
       },

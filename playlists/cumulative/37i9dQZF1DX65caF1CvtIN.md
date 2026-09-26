@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-290 songs - 12 hr 43 min
+292 songs - 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Lush Moments](https://open.spotify.com/track/1w2qcmXzP2hXRbHSxTSlPZ) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [Lush Moments](https://open.spotify.com/album/4B6sLcZQ22Cql1Pvh35jXX) | 2:35 | 2026-09-18 |  |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2022-08-03 | 2022-12-07 |
 | [March 17 \(went for a walk\)](https://open.spotify.com/track/6P6qsAmo6bUJQGdBQyNuMa) | [Ava Cohen](https://open.spotify.com/artist/0uCO8KkZMwQTXzi53QARiC) | [March 17 \(went for a walk\)](https://open.spotify.com/album/0cmy8NwKx5s7wuRRsmwRtz) | 3:05 | 2022-08-03 | 2025-01-22 |
+| [Maré](https://open.spotify.com/track/1lC1gcEe7IC4XLRIh6gej6) | [Matteo Virel](https://open.spotify.com/artist/72mmogjV5h1siiNXh8ZPXW) | [Maré](https://open.spotify.com/album/6RPFtPlmHJjfm0uyJvV9jm) | 2:34 | 2026-09-25 |  |
 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 | 2022-08-03 | 2023-06-21 |
 | [Memoir](https://open.spotify.com/track/5lQ5HyMQO3JAj1wF23Glor) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q) | [Memoir](https://open.spotify.com/album/5BI6hZqeNKCnubq2sepHpP) | 1:44 | 2022-08-03 | 2022-12-07 |
 | [Michelle](https://open.spotify.com/track/426m22xIyYxlPJJdWUJVLG) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Michelle](https://open.spotify.com/album/6q7FMxN2FpBotFqLnioQck) | 3:32 | 2022-12-06 | 2025-05-14 |
@@ -225,7 +226,7 @@
 | [Shared Shelter](https://open.spotify.com/track/2gtgt4HljfLVdXRMPG9QiA) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Shared Shelter](https://open.spotify.com/album/0s1hXlZf3ioJGkBzNKuQpQ) | 2:41 | 2022-08-03 | 2025-01-15 |
 | [Si tu savais](https://open.spotify.com/track/49QAgh5l0nGw2iuWt8bBEE) | [Vail Bizier](https://open.spotify.com/artist/33QYi4D3jB1OJig8upNeMR) | [Si tu savais](https://open.spotify.com/album/5ucIbz9WZWASmWC1sK6963) | 2:21 | 2022-08-03 | 2024-12-04 |
 | [Silence](https://open.spotify.com/track/6gAiT0trxkYwlMVsvFjmsX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Silence](https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5) | 2:21 | 2024-12-03 | 2025-07-08 |
-| [Silent Bath](https://open.spotify.com/track/1uEwaa90CsV4V2VsKQFZr6) | [Juno Celeste](https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz) | [Silent Bath](https://open.spotify.com/album/2zhEoTaHrSYV8LIoivO4Bv) | 2:35 | 2022-10-14 |  |
+| [Silent Bath](https://open.spotify.com/track/1uEwaa90CsV4V2VsKQFZr6) | [Juno Celeste](https://open.spotify.com/artist/1RqdsPi4YD3hR1bnKkMAnz) | [Silent Bath](https://open.spotify.com/album/2zhEoTaHrSYV8LIoivO4Bv) | 2:35 | 2022-10-14 | 2026-09-26 |
 | [Silent Bloom](https://open.spotify.com/track/2ESAE30bJPEvyvfDE5oh1T) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Silent Bloom](https://open.spotify.com/album/4zKinGSo2A4tBIunlolmbJ) | 2:10 | 2025-07-07 |  |
 | [Silhouette](https://open.spotify.com/track/5lRRE3eWhkqgPsaEhz8Fh3) | [Michael Logozar](https://open.spotify.com/artist/3CdSdPQ1G7MjoUWr3Hm2P2) | [Silhouette](https://open.spotify.com/album/29yO7eFlCYQ5bRraWemqq9) | 2:49 | 2022-08-03 | 2022-12-07 |
 | [Singularities](https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Singularities](https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9) | 2:29 | 2022-08-03 |  |
@@ -297,6 +298,7 @@
 | [Window To The Past](https://open.spotify.com/track/6EButk2CJRYZayXRscZWm8) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Window To The Past](https://open.spotify.com/album/7hdCvr9F4wjRy2BVpTWbiA) | 2:22 | 2025-07-22 |  |
 | [Wordless](https://open.spotify.com/track/1uPUd2SfgzHtiK9BoTZOKt) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Songs From Home](https://open.spotify.com/album/54VCz99ZaV868ym0fbKyDI) | 1:51 | 2022-08-26 | 2025-04-09 |
 | [Yellow Entropy](https://open.spotify.com/track/4s28L8kAdHZs0GfwnsYsZw) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Yellow Entropy](https://open.spotify.com/album/7hJKROzZs61p529YVcxaWM) | 2:11 | 2022-08-03 | 2024-07-30 |
-| [à Gauche](https://open.spotify.com/track/5HEdhvXyFdSy1IxlX6c6nM) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [à Gauche](https://open.spotify.com/album/66F48yfYfHtqgtlKXRS88V) | 2:06 | 2022-10-24 |  |
+| [You Are My Winter](https://open.spotify.com/track/6FrueF1ONorkyArWaRGFBp) | [Riku Arai](https://open.spotify.com/artist/464yjGDhosPoKFLRX5vm28) | [You Are My Winter](https://open.spotify.com/album/2lk7WztcVbIsaeCIAQQ2pW) | 2:23 | 2026-09-25 |  |
+| [à Gauche](https://open.spotify.com/track/5HEdhvXyFdSy1IxlX6c6nM) | [Pablo Jean Baptiste](https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV) | [à Gauche](https://open.spotify.com/album/66F48yfYfHtqgtlKXRS88V) | 2:06 | 2022-10-24 | 2026-09-26 |
 
 \*This playlist was first scraped on 2022-08-12. Prior content cannot be recovered.

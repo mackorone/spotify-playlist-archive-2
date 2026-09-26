@@ -4073,6 +4073,24 @@
     },
     {
       "album": {
+        "name": "before & above",
+        "url": "https://open.spotify.com/album/6RVQJSARyEU3Cgwbhqqd1i"
+      },
+      "artists": [
+        {
+          "name": "Dean Bowser",
+          "url": "https://open.spotify.com/artist/2ykj8pxgT6Xyzc1gxMSe90"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149138,
+      "name": "before & above",
+      "url": "https://open.spotify.com/track/6TcQBtHJPSMGZz7XwRfEay"
+    },
+    {
+      "album": {
         "name": "Before the sea",
         "url": "https://open.spotify.com/album/76MYd834C4kMxG3oh5djnd"
       },
@@ -21188,7 +21206,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 102447,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/3RjAv5yesDSOOZHricohtS"
@@ -26266,7 +26284,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 123399,
       "name": "Mildew",
       "url": "https://open.spotify.com/track/5XwzX4vHNcG5wJyoPFywV5"
@@ -29684,7 +29702,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 126500,
       "name": "on a tuesday",
       "url": "https://open.spotify.com/track/4YGrnEZVSSnjSkjjVWQfsk"

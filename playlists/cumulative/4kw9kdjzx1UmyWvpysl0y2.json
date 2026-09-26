@@ -3975,6 +3975,32 @@
     },
     {
       "album": {
+        "name": "Came To Meet My Fate",
+        "url": "https://open.spotify.com/album/4OnZq7jnUXY3BchBveJRXP"
+      },
+      "artists": [
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        },
+        {
+          "name": "Jeremy Lister",
+          "url": "https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ"
+        },
+        {
+          "name": "F8",
+          "url": "https://open.spotify.com/artist/3MgJTUyF6qWAd5OUpb0559"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "Came To Meet My Fate",
+      "url": "https://open.spotify.com/track/7t3NowbN4PIRNLYBAtMJlN"
+    },
+    {
+      "album": {
         "name": "Can We Be Free (KDrew Remix)",
         "url": "https://open.spotify.com/album/3po4Lcgb6oUUksB3d6xrt9"
       },

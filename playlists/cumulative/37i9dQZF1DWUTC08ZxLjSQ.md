@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: KAPO\. Artwork: Isu Kim
 
-543 songs - 1 day 4 hr 28 min
+544 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Ahlam](https://open.spotify.com/track/46xNCDOr1yFxZTziG3jpnR) | [Maryam Turkey](https://open.spotify.com/artist/6ozaRZ7avFAylAHplxjKMz) | [Ahlam](https://open.spotify.com/album/0IdAijBo8fni2idQ5IrWVB) | 4:00 | 2024-11-06 | 2025-05-29 |
 | [AISHA](https://open.spotify.com/track/2lOUDx7ExAuaxGYozG2wIv) | [Adam Nabeel](https://open.spotify.com/artist/1Kfnrd9yf69MJpGLEsk7ZC) | [AISHA](https://open.spotify.com/album/5v4XC2R8vRSPhJsfOhUQZk) | 2:52 | 2023-08-01 | 2023-09-13 |
 | [Akher el tare2](https://open.spotify.com/track/6tDFnR8ild5koi5iJjYFUE) | [Uglymoss](https://open.spotify.com/artist/0FnIoDE1vDMSPMCXpfmLFW) | [Akher el tare2](https://open.spotify.com/album/50hMtiBEFfIhPcsJ7LCps7) | 1:30 | 2024-11-26 | 2025-08-07 |
-| [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 | 2025-02-10 |  |
+| [Akhir mra andwi 3lik](https://open.spotify.com/track/6L4GDVK68EqR55ZU9S1AzZ) | [Aujiss](https://open.spotify.com/artist/3EmUIvtqE5NxhLi9LowaFt) | [Akhir mra andwi 3lik](https://open.spotify.com/album/0ImYUSh7Nm5weQenDdzWPt) | 3:43 | 2025-02-10 | 2026-09-26 |
 | [al qamar wa ana \- القمر وأنا](https://open.spotify.com/track/7IBgneXOSQVaWPBMejtHbd) | [nabeel \- نبيل](https://open.spotify.com/artist/2utvoANtAeOGBklKqppZIl) | [najoom \- نجوم](https://open.spotify.com/album/7eyDLB0KpI8AorehIWg1Oa) | 4:02 | 2024-11-06 | 2025-06-18 |
 | [Ala Babek](https://open.spotify.com/track/1Nsa6NekAdqfr3cQRUV3fx) | [Elias Setta](https://open.spotify.com/artist/1mp2J36BLQVfD9nEgGRWVC), [Lamya Almalki](https://open.spotify.com/artist/1IT19Z07orMjLioi2KKOHY) | [Ala Babek](https://open.spotify.com/album/5z8xJi1cBR3p4lyjo1yIno) | 4:35 | 2026-07-14 |  |
 | [Ala Wain](https://open.spotify.com/track/5VKc8PPiqkei1pIsBYTCTs) | [Majaz](https://open.spotify.com/artist/6SMbDiMWTUPhoyEhPwzn0H) | [Ala Wain](https://open.spotify.com/album/4WUgYuFGOsueuMDqjVnbxi) | 3:37 | 2024-04-30 | 2024-08-14 |
@@ -93,6 +93,7 @@
 | [Carlos](https://open.spotify.com/track/6FLCfjtaMnrPEekgs8gXvo) | [Alvin](https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA), [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Ameen](https://open.spotify.com/album/2OUcKfMj7bfT835aMtnfRX) | 2:33 | 2025-01-22 | 2025-09-25 |
 | [Catch Your Drift](https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi) | [Kali\-B](https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j) | [Catch Your Drift](https://open.spotify.com/album/3QGq5ih3bbRk0QJarBwNq3) | 3:00 | 2023-05-17 | 2024-01-17 |
 | [Change Tomorrow](https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7) | [Jay Abo](https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7) | [Change Tomorrow](https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn) | 4:01 | 2023-03-29 | 2023-07-19 |
+| [Cheffar l'Brikat](https://open.spotify.com/track/5uQc0xMQT9ywAfPcwkVl8I) | [TELTACH](https://open.spotify.com/artist/1DWO7qYfYn1PDxoS96dnqj) | [Cheffar l'Brikat](https://open.spotify.com/album/4i48Wexb7zOK2cNPNjSY1b) | 3:38 | 2026-09-25 |  |
 | [Chokran](https://open.spotify.com/track/4wq6DeA6G2u9XVgq7NZX9B) | [ASSIF](https://open.spotify.com/artist/4hSCKyUEoKKlPHA3mtTYl7) | [Chokran](https://open.spotify.com/album/77LACOwGZJOiBR3raiQNsB) | 1:58 | 2025-04-17 | 2026-04-01 |
 | [Closer Than Close](https://open.spotify.com/track/5nvlMbwOQxMs2lTzXBqZpF) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 4:35 | 2022-12-13 | 2023-02-15 |
 | [Cocaina \(feat\. 7efny\)](https://open.spotify.com/track/4CPeRhikwIVUw2x8BxPZGd) | [Dimo](https://open.spotify.com/artist/3YtdhLBgZgy0ju52grM4p5), [7efny](https://open.spotify.com/artist/0XPt68gMnDEUp1GcSE8AGs) | [Cocaina \[feat\. 7efny\]](https://open.spotify.com/album/4zOwajCezk826Juc1NED4I) | 3:49 | 2024-07-09 | 2024-10-31 |

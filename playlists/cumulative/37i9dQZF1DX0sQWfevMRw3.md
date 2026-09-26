@@ -4,7 +4,7 @@
 
 > 🇳🇴🤝🇸🇪
 
-1,707 songs - 2 day 22 hr 48 min
+1,708 songs - 2 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -620,6 +620,7 @@
 | [GRISARNA TILL BACON](https://open.spotify.com/track/6QfNgAVv0QpsmBcd51Alfw) | [Rasmus Gozzi](https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj), [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt) | [GRISARNA TILL BACON](https://open.spotify.com/album/3iXqX8HmJPT7cjRGZq3yBq) | 2:08 | 2023-11-09 | 2023-12-13 |
 | [GRUSVÄG](https://open.spotify.com/track/5CLydITobjloGLCI3KogSO) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [GRUSVÄG](https://open.spotify.com/album/7cIz4GR8YnKmJtU6dckxYi) | 2:23 | 2023-05-25 | 2023-09-15 |
 | [Gråt inga tårar](https://open.spotify.com/track/1ygS2GcmX2fflz6NpwGx2z) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [Gråt inga tårar](https://open.spotify.com/album/7cLOvgBlm2lV4iFUAC9mfi) | 2:51 | 2023-12-21 | 2024-02-09 |
+| [GRÖNT & GULT](https://open.spotify.com/track/1cTfAyEFTQOVkAtkIVn7o6) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [GRÖNT & GULT](https://open.spotify.com/album/7wKjO1HLRJJCth890IgoDh) | 3:04 | 2026-09-25 |  |
 | [GUBBS](https://open.spotify.com/track/4w3j1axSc5mp9xUNjHyLoq) | [De Vet Du](https://open.spotify.com/artist/7iW0o1suit8xY24m9M5L0u) | [GETING, BEATS & SPORT](https://open.spotify.com/album/1424ajQP4ece9Im56m8rxE) | 3:05 | 2022-09-29 | 2022-11-18 |
 | [Guestlist +1](https://open.spotify.com/track/139J3VxWKa0aWRUbmObCxT) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Nathan Evans](https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo) | [Guestlist +1](https://open.spotify.com/album/06zBsNcKaa89kmSbZreV2X) | 2:28 | 2022-06-23 | 2022-08-26 |
 | [GULA OCH BLÅ](https://open.spotify.com/track/7qw5kEuiRq5R1RfgUT85jd) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [GULA OCH BLÅ](https://open.spotify.com/album/7CfPaPMGvbNUS6aiesaf1K) | 2:10 | 2026-04-09 | 2026-08-28 |

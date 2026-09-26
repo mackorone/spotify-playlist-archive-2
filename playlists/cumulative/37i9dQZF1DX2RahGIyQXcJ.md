@@ -4,7 +4,7 @@
 
 > Best of Desi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-562 songs - 1 day 6 hr 39 min
+563 songs - 1 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,7 +429,7 @@
 | [Players](https://open.spotify.com/track/0MbOLfDcGk8ROHJYXJHu5c) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Devika Badyal](https://open.spotify.com/artist/0V8aeNb0fnR2P8eZVrx3lI) | [3:00 AM Sessions](https://open.spotify.com/album/7o9sqNRikTO3eeira2Qlx2) | 2:51 | 2023-02-15 | 2024-01-06 |
 | [PRAISE](https://open.spotify.com/track/6NnUXWms5vhnhsipEJ4yEj) | [Umer Anjum](https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV), [superdupersultan](https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN) | [PRAISE](https://open.spotify.com/album/5OFm3PvKUJuUo3cMLlJGHn) | 2:44 | 2024-08-09 | 2024-09-10 |
 | [Prarthana](https://open.spotify.com/track/3l3BzT3Ovdx2mQK366r5Ei) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Bharg](https://open.spotify.com/artist/5mUENA9ewpJd5z9KuwOKrd) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:19 | 2024-01-05 | 2024-08-10 |
-| [Praying Mantis](https://open.spotify.com/track/7lLYgsbbYZUHD3ykhe8zFd) | [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Praying Mantis](https://open.spotify.com/album/0FZoOvzYo8La6K82yKnjIn) | 3:12 | 2026-05-08 |  |
+| [Praying Mantis](https://open.spotify.com/track/7lLYgsbbYZUHD3ykhe8zFd) | [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Praying Mantis](https://open.spotify.com/album/0FZoOvzYo8La6K82yKnjIn) | 3:12 | 2026-05-08 | 2026-09-26 |
 | [Priorities](https://open.spotify.com/track/2p5VQ34ibwZBvS4Cf3mbCX) | [Hashim Ishaq](https://open.spotify.com/artist/3K6IjvhAJpWRUehJ9mU0Ot), [Kh44ki](https://open.spotify.com/artist/0kIqArPHBqFq0pf69pVd4x) | [Priorities](https://open.spotify.com/album/284LMQFFiWf59NpZ8AMFgC) | 2:45 | 2022-10-10 | 2022-12-01 |
 | [Promises](https://open.spotify.com/track/5Y3OxkwWPuFZc5rRoJE45A) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW) | [Scars & Screws](https://open.spotify.com/album/0dNZ3ypCu19FqmRxB1ezBc) | 3:15 | 2021-12-03 | 2022-01-14 |
 | [Punya Paap](https://open.spotify.com/track/3zIhQR5cyxpVn8WpEivBCr) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Punya Paap](https://open.spotify.com/album/5kiZkGMkfKm3tIlh2Tgfi5) | 3:00 | 2022-11-30 | 2023-05-26 |
@@ -560,6 +560,7 @@
 | [Winning Speech](https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Seshnolan](https://open.spotify.com/artist/4QsiFUy1ddAbRb1UnjvUWN) | [Winning Speech](https://open.spotify.com/album/0pLUWCJtTpJCcYpzSTK7oC) | 3:47 | 2024-06-13 | 2025-08-30 |
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2024-01-05 | 2024-08-10 |
 | [Woh Raat](https://open.spotify.com/track/27xsLWmSmEAiXABnOngOw7) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Woh Raat](https://open.spotify.com/album/7MKr5NF5sZUWjheSa1NXFf) | 3:12 | 2024-01-05 | 2024-08-10 |
+| [Y2K](https://open.spotify.com/track/090UnEhlo1IBW0a4pQa0Tc) | [ST MAN](https://open.spotify.com/artist/7FkwKgrWfjYJ3sgAFgGr31), [Roj Moktan](https://open.spotify.com/artist/3oMHyLZUZNh5Uvy95vzArw), [Somiya Baraili](https://open.spotify.com/artist/3j5odtct2MdyDXHvWQu43p) | [Y2K](https://open.spotify.com/album/5mTdw4NQ665ArkXI9uDXoI) | 4:16 | 2026-09-25 |  |
 | [Yaara Tu](https://open.spotify.com/track/3n9lOyiGpCRdlE0FgKnnl9) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Arrival](https://open.spotify.com/album/656ie0ZaD1avko2b4WpwOD) | 3:26 | 2022-11-30 | 2023-01-13 |
 | [Yaara Tu](https://open.spotify.com/track/4EDJQR7mhUeSMGgmHvZTqV) | [Ezu](https://open.spotify.com/artist/2r3HmBK84dHpMW5WFNdWNP), [The PropheC](https://open.spotify.com/artist/4aopF0aU0Nbu5GtSorXV0W) | [Yaara Tu](https://open.spotify.com/album/6ti72F8nhkUeSOI0pS2ZJK) | 3:26 | 2021-12-03 | 2022-07-19 |
 | [Yadav Brand 2](https://open.spotify.com/track/1AMD2AkfGrKoKhwkvYLbza) | [Sunny Yaduvanshi](https://open.spotify.com/artist/07XZWWsqwn2QshmfoYzKIU), [AK Rok](https://open.spotify.com/artist/3npIyKDl6aWfQPCIEU8RjY), [Nitesh Ujoli](https://open.spotify.com/artist/2k4fHTIWakuc1WSIV0owMZ) | [Yadav Brand 2](https://open.spotify.com/album/7ee5PlfgmGyU70CdxftTV2) | 2:54 | 2023-11-17 | 2024-01-06 |

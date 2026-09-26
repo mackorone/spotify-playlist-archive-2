@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 781 songs - 2 day 2 hr 26 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 784 songs - 2 day 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -789,5 +789,8 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 779 | [My Body is a Weapon](https://open.spotify.com/track/0XOpDLAYuzT5DpCzSpfMFZ) | [Apes of the State](https://open.spotify.com/artist/4HemfSCDgnPiHQh8Z6iyd6) | [Nothing Makes Sense Anymore](https://open.spotify.com/album/65TJWpqzsiQWoVg8fnChlB) | 0:57 |
 | 780 | [Constant Picnic](https://open.spotify.com/track/0ADqC4Ko8CHQouePCVb1HL) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Stung!](https://open.spotify.com/album/5bZ876MvlpW4MQhAZFBBdp) | 3:29 |
 | 781 | [Big Shot](https://open.spotify.com/track/002Xm1nZI8cAhb5Fda7lRk) | [Patrick Cowley](https://open.spotify.com/artist/1pggi3bfbAPkwrylE63MEO) | [Afternooners](https://open.spotify.com/album/1qLqr2Fs2ACB6FAwmlapdY) | 4:28 |
+| 782 | [Sunglasses](https://open.spotify.com/track/2JXQjdWdKhpdYYs48QEc2j) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Popstar](https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs) | 2:36 |
+| 783 | [Mesozoic](https://open.spotify.com/track/7CgqX3jfE10v5moFGer5r6) | [Brendan Byrnes](https://open.spotify.com/artist/2X5pNtEOcvIh9wPqq2EJpf) | [Holocene Dream](https://open.spotify.com/album/4Q3FN4UctdGgGkuIBVQvve) | 5:12 |
+| 784 | [Brand New](https://open.spotify.com/track/68Jue5HmmY7ZygpiPiEKkd) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Gem](https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic) | 3:14 |
 
-Snapshot ID: `AAAJvbUg8pXrOhnt09+OWZK2OAZxF7m7`
+Snapshot ID: `AAAJwaYIrdljFKLk96e36AvnzlJDNuWJ`

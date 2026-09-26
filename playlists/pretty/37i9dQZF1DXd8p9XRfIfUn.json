@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: fedesttar",
-  "num_followers": 81375,
+  "num_followers": 81374,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -1235,22 +1235,38 @@
     {
       "added_at": "2025-09-18 23:00:14",
       "album": {
-        "name": "Solita",
-        "url": "https://open.spotify.com/album/4EW2dho3P6ZhmhDVxNVtOp"
+        "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
+        "url": "https://open.spotify.com/album/4vXH6cXYjOKlVr46RjclrF"
       },
       "artists": [
         {
-          "name": "Alejandro Santamaria",
-          "url": "https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy"
+          "name": "SOG",
+          "url": "https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD"
         },
         {
-          "name": "Yera",
-          "url": "https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94"
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
+        },
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
         }
       ],
-      "duration_ms": 211040,
-      "name": "Solita",
-      "url": "https://open.spotify.com/track/6oEs0qf6YpUD83rmjzm7Uh"
+      "duration_ms": 260000,
+      "name": "La Nueva (feat. Blessd, Nath & Natan & Shander)",
+      "url": "https://open.spotify.com/track/1UT1Li3OGXxO5Z0x4Fsfp3"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

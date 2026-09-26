@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 
 > Soft, soothing piano for you and your baby.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,632 likes - 90 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,642 likes - 90 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,10 +14,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 4 | [In the Fading Light](https://open.spotify.com/track/6PgHoUaR0WJaxdycUIezro) | [Jacob Cialmera](https://open.spotify.com/artist/4NAXpUBJBaLwCb16x56hD5) | [In the Fading Light](https://open.spotify.com/album/0Z1AwmJgXjmCAHUyV63lrX) | 2:20 |
 | 5 | [Horizon 地平线](https://open.spotify.com/track/1gddViaTU80ixrHiW7U0mp) | [Li Zemin](https://open.spotify.com/artist/2v3FBpuuu8EdWvmS8OOctA) | [Horizon 地平线](https://open.spotify.com/album/3AVeaRoFla1jqpNQIcrs1U) | 2:37 |
 | 6 | [Dwell in Possibility](https://open.spotify.com/track/0ZFdTxzFR0RRN1TifSPAxm) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Dwell in Possibility](https://open.spotify.com/album/3PT6wXsxMWdWcEIJUjqdoD) | 2:12 |
-| 7 | [Gravity](https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity](https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb) | 2:15 |
-| 8 | [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 |
-| 9 | [afterthought](https://open.spotify.com/track/4Rr3fUE84z8AjJshTRiCWt) | [jiel](https://open.spotify.com/artist/2uCs7S22q8iEg52XCLTzZx) | [afterthought](https://open.spotify.com/album/3nOqvaMHcDeqlU3pqTlEmP) | 3:00 |
-| 10 | [She Did It](https://open.spotify.com/track/2l2NVF3lHBlatAtyoF6g08) | [Christopher T\. Gaius](https://open.spotify.com/artist/47NWKPZdH6is4KvirYJbxk) | [She Did It](https://open.spotify.com/album/5gm0MYy73r2OBcI2EBpiwu) | 2:36 |
+| 7 | [She Did It](https://open.spotify.com/track/2l2NVF3lHBlatAtyoF6g08) | [Christopher T\. Gaius](https://open.spotify.com/artist/47NWKPZdH6is4KvirYJbxk) | [She Did It](https://open.spotify.com/album/5gm0MYy73r2OBcI2EBpiwu) | 2:36 |
+| 8 | [Gravity](https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity](https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb) | 2:15 |
+| 9 | [Hivon](https://open.spotify.com/track/4R5hrJSecDyvtD80GZLAGs) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Hivon](https://open.spotify.com/album/23jcFelRsPzQYacsgJ2HDI) | 2:42 |
+| 10 | [afterthought](https://open.spotify.com/track/4Rr3fUE84z8AjJshTRiCWt) | [jiel](https://open.spotify.com/artist/2uCs7S22q8iEg52XCLTzZx) | [afterthought](https://open.spotify.com/album/3nOqvaMHcDeqlU3pqTlEmP) | 3:00 |
 | 11 | [Sonance](https://open.spotify.com/track/3kiImZNbUBxXLpKnsqd5rx) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Sonance](https://open.spotify.com/album/0Brn57yRLPwJZasUZ1Zukt) | 2:16 |
 | 12 | [Feel For Balance](https://open.spotify.com/track/11RToQo0Dt4xy0z301RV5Q) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Feel For Balance](https://open.spotify.com/album/4nexlHbho207Wndt2F5SI5) | 2:38 |
 | 13 | [Celandine](https://open.spotify.com/track/5jQYFxt77oQWFQXbok9jcq) | [Aldo Talete](https://open.spotify.com/artist/1kiwy88C2q3l8auoOUMw6W) | [Celandine](https://open.spotify.com/album/6nwjj72G7P6AjnMACNl8Qe) | 3:10 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVy2Fygel8HO.md) - [plain]
 | 89 | [7Am\. Mattina](https://open.spotify.com/track/4XCllplNqVdOZQXn28Xe83) | [Milana Zilnik](https://open.spotify.com/artist/3xkWDJty3mvBD37vL278WG) | [7Am\. Mattina \(Dreaming of Chopin\)](https://open.spotify.com/album/1Hxzv6PAmHIa1Inn9mWVhM) | 3:58 |
 | 90 | [Renewal](https://open.spotify.com/track/2STf9iJMbxyXZQeea5lrdG) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Renewal](https://open.spotify.com/album/3zfRRxr2fMQNGUatRbhpNL) | 2:19 |
 
-Snapshot ID: `AAAAAIijj9H4PIxYcMk30bMEy7iq4B2V`
+Snapshot ID: `AAAAAL5ezRoI8r4UapnP45ik9uRqOm/b`

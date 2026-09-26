@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "e a\u00ed tue, como foi o show?",
+  "description": "raflow caio e tz na conten\u00e7\u00e3o",
   "name": "O Trap Mais Caro",
   "tracks": [
     {
@@ -6119,6 +6119,36 @@
     },
     {
       "album": {
+        "name": "Dona Estela 2",
+        "url": "https://open.spotify.com/album/7ojOfkNp6tWC6JKU8RtWQX"
+      },
+      "artists": [
+        {
+          "name": "Aklipe44",
+          "url": "https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz"
+        },
+        {
+          "name": "LH CHUCRO",
+          "url": "https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH"
+        },
+        {
+          "name": "prodmelo!",
+          "url": "https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ"
+        },
+        {
+          "name": "prod by bila",
+          "url": "https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Dona Estela 2",
+      "url": "https://open.spotify.com/track/4S0Nga8imClHEgUwy9WT7s"
+    },
+    {
+      "album": {
         "name": "Dores",
         "url": "https://open.spotify.com/album/3mmClGSgPgvZYvwBFBhA4n"
       },
@@ -11366,6 +11396,32 @@
       "duration_ms": 183652,
       "name": "Mas Existe um Lugar",
       "url": "https://open.spotify.com/track/7IN41XfDoGETfFsARAHOsv"
+    },
+    {
+      "album": {
+        "name": "Mas existe um lugar pt.2",
+        "url": "https://open.spotify.com/album/6lvxNDk3RWIsqN5SAGGYTn"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        },
+        {
+          "name": "DJ Costela",
+          "url": "https://open.spotify.com/artist/45YHWNn0knoX6a04C3PP7s"
+        },
+        {
+          "name": "Paola Spena",
+          "url": "https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197426,
+      "name": "Mas existe um lugar pt.2",
+      "url": "https://open.spotify.com/track/4xAQsUtivNV4EvzMEV29qW"
     },
     {
       "album": {
@@ -16752,7 +16808,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 124285,
       "name": "ROCKSTAR, GANGSTAR",
       "url": "https://open.spotify.com/track/3pbWIISEa9jtMFgW4kLPZF"
@@ -17840,7 +17896,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 173500,
       "name": "SLIME FALA CMG",
       "url": "https://open.spotify.com/track/39dyVueQFUdHl9asJymaWt"
@@ -17988,7 +18044,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 134522,
       "name": "SUPERMAN",
       "url": "https://open.spotify.com/track/10FWJykEOpRlob3hKXFX8t"
@@ -19386,6 +19442,32 @@
       "duration_ms": 125375,
       "name": "Tomara Que Caia",
       "url": "https://open.spotify.com/track/6OtsS0r3dPbZYr7wL7j9cI"
+    },
+    {
+      "album": {
+        "name": "Touca&Hoodie",
+        "url": "https://open.spotify.com/album/57nbr84k9pG5IfsJYRvEqW"
+      },
+      "artists": [
+        {
+          "name": "Dherik",
+          "url": "https://open.spotify.com/artist/3fgTEE6t2huIn7SwM4lC9q"
+        },
+        {
+          "name": "Men\u00f3 Felps",
+          "url": "https://open.spotify.com/artist/0J1AS2d5WgvcAyNtxClutP"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186857,
+      "name": "Touca&Hoodie",
+      "url": "https://open.spotify.com/track/3pSDgUC9PZQcOLgaeig6Wt"
     },
     {
       "album": {

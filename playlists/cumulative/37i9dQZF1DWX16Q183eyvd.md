@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around\. Cover: Gracie's Corner
 
-192 songs - 8 hr 42 min
+193 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Feeling Good](https://open.spotify.com/track/0qVGxEjXwJtHIcV2ool7M7) | [Divi Roxx Kids](https://open.spotify.com/artist/0sG3uehglpl7yEOaWGuGSR), [Divinity Roxx](https://open.spotify.com/artist/6Jp4e4JHGZN1bmRxovEZSI), [FYÜTCH](https://open.spotify.com/artist/27qtcEfJBoUq7N2qdHPfvw) | [Ready Set Go!](https://open.spotify.com/album/4jOCINfRZTbcSiblJcrqyu) | 2:56 | 2024-01-30 |  |
 | [Footwork Crazy](https://open.spotify.com/track/6NGQ7vAeiLmmQllGuNXosU) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Footwork Crazy](https://open.spotify.com/album/5GCu1RDfOKCV2VsW5VNxsN) | 2:22 | 2026-06-12 |  |
 | [Get Down](https://open.spotify.com/track/4JD9VCKWznWPK4LOKkhB4L) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Get Down](https://open.spotify.com/album/4AtJoWhmSaL3PHnnRQXo9Y) | 2:16 | 2024-06-14 | 2025-01-11 |
+| [Get It Right \(Listen to NATURE!\)](https://open.spotify.com/track/0DjkMloRTe2gzapuUAlRIP) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Get It Right \(Listen to NATURE!\)](https://open.spotify.com/album/0gZpgjBVMe2ebi1pK7bTAf) | 4:24 | 2026-09-25 |  |
 | [Get You A Friend](https://open.spotify.com/track/0wgwnjKBcA5wn1MntWaRQZ) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [The Movement](https://open.spotify.com/album/1QxVv43hGh5XB1glM74gPw) | 3:00 | 2024-01-30 | 2024-05-04 |
 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 | 2021-11-19 | 2024-01-31 |
 | [Getting Silly](https://open.spotify.com/track/60kcJIrsehemBC5S2PTTG3) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 1:50 | 2021-11-19 | 2024-01-31 |
@@ -158,7 +159,7 @@
 | [Shine Bright](https://open.spotify.com/track/0vky4YTaxSuGlnSPjpWHt1) | [Super Siah](https://open.spotify.com/artist/36s30oXmxBFCjVoJLiOY9P) | [Shine Bright](https://open.spotify.com/album/7xpTudRq1jnZtbsJKaVxsK) | 1:47 | 2024-01-30 |  |
 | [Sloth Song](https://open.spotify.com/track/4sub7oxrLD24rxycmqH3c6) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Sloth Song](https://open.spotify.com/album/1CRGwitVzCfM6ruhkkCUjY) | 2:40 | 2024-03-01 |  |
 | [SUBS](https://open.spotify.com/track/6pwCquNMHo4z4gFJDSPgMd) | [GoNoodle](https://open.spotify.com/artist/13QcQR3aMDTgC8jdNqSx4f), [Blazer Fresh](https://open.spotify.com/artist/4pgIT5fWtcmcMm0YqPDEV0) | [Straight Outta Recess](https://open.spotify.com/album/4Hjyjf2kPHQRQ0GtMaunye) | 2:09 | 2024-02-02 |  |
-| [Syzygy](https://open.spotify.com/track/1LBKOcvDxeoPzsP1hgQB5o) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Eclipse: The Musical](https://open.spotify.com/album/4bLwHgjmfLPcT1jl3zno2L) | 3:16 | 2024-03-22 |  |
+| [Syzygy](https://open.spotify.com/track/1LBKOcvDxeoPzsP1hgQB5o) | [Alphabet Rockers](https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04) | [Eclipse: The Musical](https://open.spotify.com/album/4bLwHgjmfLPcT1jl3zno2L) | 3:16 | 2024-03-22 | 2026-09-26 |
 | [Take Me to Jamaica](https://open.spotify.com/track/6iRe9TNNsqheEko10IJGCN) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:18 | 2022-02-04 | 2023-11-09 |
 | [Take Me to Jamaica](https://open.spotify.com/track/7cvnmohDKpVp825bUOehLr) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/2vFNvV2DvTfKVG49asgPlT) | 3:18 | 2022-02-04 | 2022-10-13 |
 | [Take Me To Jamaica \(feat\. Toots Hibbert\)](https://open.spotify.com/track/5AEyhmFToITN1n2Wa2zLHI) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/1OreWX3yJbrIozwosO1ELn) | 3:18 | 2021-11-19 | 2022-07-29 |

@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,741 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,773 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [How Great Thou Art](https://open.spotify.com/track/5L5ZVU7Qd5q0asSU09wVWa) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [How Great Thou Art](https://open.spotify.com/album/0CTZlCuXV7d50WlqFSxZ5S) | 4:29 |
-| 2 | [Power Of Love](https://open.spotify.com/track/6zJ1o08f3iSzApXkrvvtoN) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [Power Of Love](https://open.spotify.com/album/1mf44H1WGANYnw8ou3bOal) | 4:24 |
-| 3 | [Cool Spice](https://open.spotify.com/track/5EHh1z5EqEwq9DdCjGU4RB) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Cool Spice](https://open.spotify.com/album/02NkDaCubIqKyzMCvRYsa8) | 4:28 |
-| 4 | [Apparently Not!](https://open.spotify.com/track/0w4A0ufbo7ZEvZ0ELrwtp1) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h), [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [Apparently Not!](https://open.spotify.com/album/6ldLFMy4iCgxZMZHnKiCsU) | 4:29 |
-| 5 | [Storybook \[Feat\. Larry Carlton\]](https://open.spotify.com/track/4P7S8NGNe7cqT5fIVs5Nkn) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Storybook \[Feat\. Larry Carlton\]](https://open.spotify.com/album/6ZSRQ2ZdhjCwkQENwIWLN1) | 4:00 |
-| 6 | [Boomerang](https://open.spotify.com/track/4kKurnXOYBSI6Xpvb6MXGg) | [Les Sabler](https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8) | [Boomerang](https://open.spotify.com/album/3XytLSoZlu5MXoYZCD5Brf) | 4:46 |
-| 7 | [The Groove In You \(feat\. Ryan La Valette\)](https://open.spotify.com/track/3dz1DsiJdhLs9zGrS18s00) | [Paul Hardcastle Jr.](https://open.spotify.com/artist/620L8xasGScdGaSd4xv9Go), [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [The Groove In You \(feat\. Ryan La Valette\)](https://open.spotify.com/album/5x3HU4XeHuRQwucdVPzjNp) | 3:39 |
-| 8 | [Say What You See](https://open.spotify.com/track/0jPENAe4iLWp2HayHOZnod) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE), [Evan Taylor](https://open.spotify.com/artist/25uEY8hKswY86ulJ0tGCkx) | [Say What You See](https://open.spotify.com/album/4pYSUeXqL7QoXMKVmMEUzn) | 4:13 |
+| 1 | [Between The Beats](https://open.spotify.com/track/2zyIojU16tXMkYj8Ik57cY) | [Oli Silk](https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE) | [Between The Beats](https://open.spotify.com/album/5pjFDSaEtMdUKr7nnGUa0u) | 4:01 |
+| 2 | [How Great Thou Art](https://open.spotify.com/track/5L5ZVU7Qd5q0asSU09wVWa) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [How Great Thou Art](https://open.spotify.com/album/0CTZlCuXV7d50WlqFSxZ5S) | 4:29 |
+| 3 | [Power Of Love](https://open.spotify.com/track/6zJ1o08f3iSzApXkrvvtoN) | [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [Power Of Love](https://open.spotify.com/album/1mf44H1WGANYnw8ou3bOal) | 4:24 |
+| 4 | [Cool Spice](https://open.spotify.com/track/5EHh1z5EqEwq9DdCjGU4RB) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Cool Spice](https://open.spotify.com/album/02NkDaCubIqKyzMCvRYsa8) | 4:28 |
+| 5 | [Apparently Not!](https://open.spotify.com/track/0w4A0ufbo7ZEvZ0ELrwtp1) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h), [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [Apparently Not!](https://open.spotify.com/album/6ldLFMy4iCgxZMZHnKiCsU) | 4:29 |
+| 6 | [Storybook \[Feat\. Larry Carlton\]](https://open.spotify.com/track/4P7S8NGNe7cqT5fIVs5Nkn) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Larry Carlton](https://open.spotify.com/artist/7aRi9OzdA2ciputfuguaPK) | [Storybook \[Feat\. Larry Carlton\]](https://open.spotify.com/album/6ZSRQ2ZdhjCwkQENwIWLN1) | 4:00 |
+| 7 | [Boomerang](https://open.spotify.com/track/4kKurnXOYBSI6Xpvb6MXGg) | [Les Sabler](https://open.spotify.com/artist/7eD0lXMLoNqMmk7nd65pM8) | [Boomerang](https://open.spotify.com/album/3XytLSoZlu5MXoYZCD5Brf) | 4:46 |
+| 8 | [The Groove In You \(feat\. Ryan La Valette\)](https://open.spotify.com/track/3dz1DsiJdhLs9zGrS18s00) | [Paul Hardcastle Jr.](https://open.spotify.com/artist/620L8xasGScdGaSd4xv9Go), [Paul Hardcastle](https://open.spotify.com/artist/0SgDfSfWqkZMW96aT2oQZ1), [Ryan La Valette](https://open.spotify.com/artist/3rgBKSCXw2UtxMyjzo5HjW) | [The Groove In You \(feat\. Ryan La Valette\)](https://open.spotify.com/album/5x3HU4XeHuRQwucdVPzjNp) | 3:39 |
 | 9 | [Pillow Talk](https://open.spotify.com/track/6nT4wcEsp6nAKEDVtiyIOp) | [Rob Zinn](https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65), [Paul Brown](https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy) | [Pillow Talk](https://open.spotify.com/album/1QCoPwgKVLjzkGVBasJny8) | 4:02 |
 | 10 | [Heart Of Gold](https://open.spotify.com/track/7LTjvG0l6UrXGMdl5Efh9U) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [The Phoenix](https://open.spotify.com/album/0RkCLagJCR15B421nm6KZv) | 4:57 |
 | 11 | [Silver Lining](https://open.spotify.com/track/5ywdA7l8O1bZKMz4LJK7Pi) | [James 'PJ' Spraggins](https://open.spotify.com/artist/5uOh9FFj1NoL3n4tbS6lyV), [Kelley Oneal](https://open.spotify.com/artist/5BUoEMqf9Tl885uNvGqOcG) | [High Five](https://open.spotify.com/album/440UBvtxJWED7EcuT3Vw0x) | 3:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 99 | [Always \- Radio Version](https://open.spotify.com/track/73PcO9gphwQvjP6mgs7dkM) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Always \(Radio Version\)](https://open.spotify.com/album/1jphI1oDCBNRMExCdiccGL) | 4:11 |
 | 100 | [Love Crash](https://open.spotify.com/track/310LMuYWxmav6ZfeDFy71O) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF), [Phil Denny](https://open.spotify.com/artist/4pN9L2TSzYcFFS5FL4Hppz) | [Love Crash](https://open.spotify.com/album/3tbZWfRBaLOcr2h5IDvW53) | 3:49 |
 
-Snapshot ID: `AAAAAPrKKc5DcJ93wenG3fECkrEQInky`
+Snapshot ID: `AAAAAOazRbErCV830On/TI0t6GIq4EGg`

@@ -1010,7 +1010,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 154925,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/4KvHpI0rCMnKY7ucLTLSOw"
@@ -1508,6 +1508,24 @@
       "duration_ms": 212276,
       "name": "Block (I'm Not What You Need)",
       "url": "https://open.spotify.com/track/1Urz5TQBN9HGUl1iTDBwqJ"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0ca5L1k61P5AIUwBF8LYV6"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219622,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6NisBf2xWzNTyDLEFlCvBk"
     },
     {
       "album": {
@@ -3640,6 +3658,24 @@
       "duration_ms": 195000,
       "name": "Everest (Stay)",
       "url": "https://open.spotify.com/track/4wD3DmMlIaAEffdLMyVIrq"
+    },
+    {
+      "album": {
+        "name": "Everything OK?",
+        "url": "https://open.spotify.com/album/3CbFTuGLn77rZr8D6ZUG2R"
+      },
+      "artists": [
+        {
+          "name": "Calcou",
+          "url": "https://open.spotify.com/artist/7ddylNYaeb9AurS9NqllUc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221906,
+      "name": "Everything OK?",
+      "url": "https://open.spotify.com/track/0CA5FHJ3J5fkc8n5dnD6GM"
     },
     {
       "album": {
@@ -9403,6 +9439,28 @@
     },
     {
       "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "R\u00d8AM",
+          "url": "https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165616,
+      "name": "Nothing Lasts Forever",
+      "url": "https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt"
+    },
+    {
+      "album": {
         "name": "Nothing Left",
         "url": "https://open.spotify.com/album/4DD6FbOoiOaBbLx6yGFJuS"
       },
@@ -11982,7 +12040,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 228330,
       "name": "Stay Like This Forever",
       "url": "https://open.spotify.com/track/3WjKzQniNtTD6mrAf29AEc"
@@ -13564,7 +13622,7 @@
       ],
       "date_added": "2026-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 200952,
       "name": "Unholy",
       "url": "https://open.spotify.com/track/4qkmOKp8LBaHZv6cY1XCNM"

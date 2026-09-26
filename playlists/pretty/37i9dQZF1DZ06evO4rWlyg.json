@@ -1,12 +1,12 @@
 {
   "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
-  "num_followers": 156769,
+  "num_followers": 156784,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arMWgAAAAAB/daZlWqMq0OoGA3OTZZ7H",
+  "snapshot_id": "arRoAAAAAAC6gnwerYsEH66sSrdH18Ir",
   "tracks": [
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pagan Poetry",
-        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+        "name": "Selma Songs",
+        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 205506,
-      "name": "Domestica",
-      "url": "https://open.spotify.com/track/45r7XddgDSbaWuG7J1N9rf"
+      "duration_ms": 261826,
+      "name": "New World",
+      "url": "https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
       "duration_ms": 244213,
       "name": "Triumph Of A Heart",
       "url": "https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Selma Songs",
-        "url": "https://open.spotify.com/album/28zkgsBzWmhEAQfuZF5M2S"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 261826,
-      "name": "New World",
-      "url": "https://open.spotify.com/track/2jUYg9usDopRe5GaicS8gn"
     },
     {
       "added_at": null,
@@ -780,25 +764,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 319600,
-      "name": "Virus",
-      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It's In Our Hands, Vol. 1",
-        "url": "https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f6rk",
-          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG"
+      "duration_ms": 306400,
+      "name": "Mutual Core",
+      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
     },
     {
       "added_at": null,
@@ -823,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x"
+        "name": "It's In Our Hands, Vol. 1",
+        "url": "https://open.spotify.com/album/7IvjcEpEvLFyKHdVitHznU"
       },
       "artists": [
         {
@@ -832,9 +800,25 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 253453,
-      "name": "Declare Independence",
-      "url": "https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG"
+      "duration_ms": 257519,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/4ees9PXZMGc8kd7yICKHfG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pagan Poetry",
+        "url": "https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 205506,
+      "name": "Domestica",
+      "url": "https://open.spotify.com/track/45r7XddgDSbaWuG7J1N9rf"
     },
     {
       "added_at": null,
@@ -848,9 +832,25 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 306400,
-      "name": "Mutual Core",
-      "url": "https://open.spotify.com/track/2A2I0ArIeOv3UfRmDu2UTV"
+      "duration_ms": 319600,
+      "name": "Virus",
+      "url": "https://open.spotify.com/track/6i0qr28saykn5EtvOAlotI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f6rk",
+          "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
+        }
+      ],
+      "duration_ms": 253453,
+      "name": "Declare Independence",
+      "url": "https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG"
     }
   ],
   "unique_name": "This Is Bj\u00f6rk",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: Theresa Phondo
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,326 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,442 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 31 | [SOS](https://open.spotify.com/track/6gtxLRZsQib7h4e4sVRp6v) | [Segun Adigun](https://open.spotify.com/artist/3QqGBnmFHm7tAksGgrLGdj), [Danad](https://open.spotify.com/artist/1Uu4BnExPhV44clNfpOh2J) | [SOS](https://open.spotify.com/album/5QYIlDbYC0H0iUZIXLKDHD) | 3:02 |
 | 32 | [Somadina \(I’m Not Alone\)](https://open.spotify.com/track/2DeHkpkN3ihgyPpJ2BuClW) | [Trevor El](https://open.spotify.com/artist/2CoI3zIyoweUV8t8kYwAaF) | [Somadina \(I’m Not Alone\)](https://open.spotify.com/album/4rKjJMhhfbSESUNOO7JN3m) | 4:15 |
 | 33 | [You Are Worthy \- Live](https://open.spotify.com/track/2HDj8uoFY2EnsxaxmIvuHN) | [Sunday Ekaidem](https://open.spotify.com/artist/6XrqMdeVSpWDBzNCzzVKob), [E\-Daniel](https://open.spotify.com/artist/3i44OnCiXrNd6xTOHIhdHu) | [You Are Worthy \(Live\)](https://open.spotify.com/album/7GLUBWewijYpmWRu4G58Go) | 9:17 |
-| 34 | [Track 1](https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ) | [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [FIRE](https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4) | 0:00 |
+| 34 | [FIRE](https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ) | [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [FIRE](https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4) | 9:13 |
 | 35 | [GIVE YOU PRAISE](https://open.spotify.com/track/08tt8cd8Eu0kIM4ErA3f4g) | [Blessing Lopez](https://open.spotify.com/artist/3311Wqrg5A5Zji9GUitIHd) | [GIVE YOU PRAISE](https://open.spotify.com/album/5LCSwbL1BhSmmrIR8OSiYH) | 2:24 |
 | 36 | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/track/0gOyPsGz6A7l9zH32sLZ6Y) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Godswill Oyor](https://open.spotify.com/artist/2jx4PnzyAZ9ylhqSwpjFtS) | [More Than Life \(Spontaneous Worship\)](https://open.spotify.com/album/1Q4iipFbVctBPodLdXKR2a) | 6:44 |
 | 37 | [B.i.d \(Blessings in Disguise\)](https://open.spotify.com/track/5RCDjLQZJBAn4h1sqUpDcQ) | [Bodilezz](https://open.spotify.com/artist/6GpwVFciDuQrHF7lXOHdQb), [TGOD DaFlemSpitha](https://open.spotify.com/artist/6ZMT1yC4USp2cyOsnKt2mb) | [Oil & Fire](https://open.spotify.com/album/0oSjH7dyBAzU3ZONcrljCI) | 3:00 |

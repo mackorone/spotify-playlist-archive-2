@@ -5199,6 +5199,28 @@
     },
     {
       "album": {
+        "name": "Ooru Kaaran",
+        "url": "https://open.spotify.com/album/0UKPJ8bnJq0WNbo2rEZfmE"
+      },
+      "artists": [
+        {
+          "name": "Joshua Aaron",
+          "url": "https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq"
+        },
+        {
+          "name": "Divyabharath Ravi",
+          "url": "https://open.spotify.com/artist/2apMuSt2NS8R43P3bf2KGq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209620,
+      "name": "Ooru Kaaran",
+      "url": "https://open.spotify.com/track/5SMgbkeA0hIHXmqrMIlt0S"
+    },
+    {
+      "album": {
         "name": "ORAM",
         "url": "https://open.spotify.com/album/4u1flBiWBXOVVZYTZ5jPdV"
       },
@@ -6884,7 +6906,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 124108,
       "name": "Society Dis",
       "url": "https://open.spotify.com/track/60cNjVatNUaDe3UStNkQxp"

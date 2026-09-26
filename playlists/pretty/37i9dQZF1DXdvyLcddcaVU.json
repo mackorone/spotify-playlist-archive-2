@@ -1,12 +1,12 @@
 {
   "description": "#fyp\n",
-  "num_followers": 873370,
+  "num_followers": 873421,
   "original_name": "t'as la ref ?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP/aTdVfM75aF2TIIQ+ZwZRBTkPb",
+  "snapshot_id": "AAAAAFZkoJujFqBWVwg3tWcD4VqKizGX",
   "tracks": [
     {
       "added_at": "2026-08-28 20:34:46",
@@ -115,6 +115,22 @@
       "duration_ms": 170681,
       "name": "Allo Doudou",
       "url": "https://open.spotify.com/track/7ifMy6is2OsYKY21l12BKk"
+    },
+    {
+      "added_at": "2026-09-25 14:11:02",
+      "album": {
+        "name": "BIR HAKEIM",
+        "url": "https://open.spotify.com/album/4bXz2X0dtOv60AdBf1TcB9"
+      },
+      "artists": [
+        {
+          "name": "Cherry Pie",
+          "url": "https://open.spotify.com/artist/6CLK013UumRbFXYJIYvRnz"
+        }
+      ],
+      "duration_ms": 243891,
+      "name": "BIR HAKEIM",
+      "url": "https://open.spotify.com/track/7kn0PLcflNzx1tC2dRm0BX"
     },
     {
       "added_at": "2026-09-10 22:02:05",
@@ -1171,22 +1187,6 @@
       "duration_ms": 219106,
       "name": "Ma Reine",
       "url": "https://open.spotify.com/track/2B5A0IJZTT5YsR6mMy8jnG"
-    },
-    {
-      "added_at": "2026-08-28 20:34:46",
-      "album": {
-        "name": "Training Season",
-        "url": "https://open.spotify.com/album/5wGVLpW3wuGqzBy6zl1OTJ"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209487,
-      "name": "Training Season",
-      "url": "https://open.spotify.com/track/3LX8cHzqTzkAiKkT5F36wg"
     },
     {
       "added_at": "2026-08-14 13:40:52",

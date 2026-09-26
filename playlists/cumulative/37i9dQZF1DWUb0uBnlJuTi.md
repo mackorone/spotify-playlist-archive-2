@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-463 songs - 1 day 11 hr 10 min
+464 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Galaxy](https://open.spotify.com/track/0PXtPC7EtkqcbHpIZtGVAb) | [Levent Canseven](https://open.spotify.com/artist/3NUEjMOsAkYQHImzKatM3o), [Levthand](https://open.spotify.com/artist/7pQsw5jT4ZGfjo47JFQTXN) | [Galaxy](https://open.spotify.com/album/2wLWkg1Hvypn6O7hPnbfit) | 2:08 | 2023-06-16 | 2023-12-09 |
 | [Galáctico](https://open.spotify.com/track/0E5oLmZG4iIL3uolc61TCV) | [Joe Tatton Trio](https://open.spotify.com/artist/6qcoIF0fTKHm5g9YGGZkQr), [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu), [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ) | [Galáctico](https://open.spotify.com/album/42n8KOFONufUlhgbHuRs5J) | 4:21 | 2024-06-14 |  |
 | [Gentle Thoughts](https://open.spotify.com/track/1QW7UMRftBD5tPs0Q3ODff) | [cosmic collective](https://open.spotify.com/artist/6ereX9sq3PEIBLASJA8YEW), [DJ PRAWN](https://open.spotify.com/artist/4jPW4kWsgb8VvOnkEofr5x), [Trey Tarzia](https://open.spotify.com/artist/2KRPe190bgjDaiDUsbtt4R), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [Gentle Thoughts](https://open.spotify.com/album/2T3hEDmiyPBZSxbU12vFOf) | 8:11 | 2024-04-12 |  |
+| [Give Me Something](https://open.spotify.com/track/5mr8N60dm55kVv5LzDusym) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6) | [Give Me Something](https://open.spotify.com/album/4NXkteWMZsv8vP563GwhY7) | 5:38 | 2026-09-25 |  |
 | [Glaze](https://open.spotify.com/track/05OOwdPf6R9McIukghw4w9) | [Kerbside Collection](https://open.spotify.com/artist/6OOY4mJJDFE32QIWK171zh) | [Glaze](https://open.spotify.com/album/4J5ZNleIjACZZWp633TO6m) | 4:33 | 2021-11-26 | 2023-04-29 |
 | [Glide](https://open.spotify.com/track/5KqdTCkhDfnr6gPM7Oyh3N) | [Mocky](https://open.spotify.com/artist/2oofDquWt9tMCETKAHmhlG) | [Glide](https://open.spotify.com/album/4gKKENDoymYmpMqSNW18co) | 3:14 | 2022-02-25 |  |
 | [Go Funk Me](https://open.spotify.com/track/5mzjFN0zUIwB92GdqDY978) | [The Du\-Rites](https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw), [Seth Hachen](https://open.spotify.com/artist/1YGdkLpYZm6T1izLrBnvDE) | [Go Funk Me](https://open.spotify.com/album/6JeoeuuEiMjQBqDcvwQsbv) | 2:46 | 2023-11-10 | 2024-07-13 |
@@ -463,7 +464,7 @@
 | [With You I Rock](https://open.spotify.com/track/0mHwnny42Z2r0gQnIRxOxX) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [With You I Rock](https://open.spotify.com/album/50k3QZEfxduwieuc9pOjlF) | 3:11 | 2021-08-06 | 2022-07-29 |
 | [Wonder Boy](https://open.spotify.com/track/5hPmsVirHEtxjdJKUGYGjP) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Motionation](https://open.spotify.com/album/6tOvkErsqwykWt7muOGEhD) | 3:32 | 2024-04-12 | 2024-09-21 |
 | [Wonder Boy \- Audiotree Live Version](https://open.spotify.com/track/6QkWcBNgOfs4ue8I0qL7u9) | [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd), [Audiotree](https://open.spotify.com/artist/1j8QyWpOJKAe6Iw2KvEg2j) | [Huntertones on Audiotree Live](https://open.spotify.com/album/4wwenK3MApnh1R3ky0eaKT) | 4:46 | 2024-09-20 | 2026-01-15 |
-| [Wouldn't You](https://open.spotify.com/track/7i9Xk5r7RUNFq4oSNPwGJe) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Wouldn't You](https://open.spotify.com/album/7uFecTTe825dZGMIneAmj8) | 2:25 | 2022-03-11 |  |
+| [Wouldn't You](https://open.spotify.com/track/7i9Xk5r7RUNFq4oSNPwGJe) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Wouldn't You](https://open.spotify.com/album/7uFecTTe825dZGMIneAmj8) | 2:25 | 2022-03-11 | 2026-09-26 |
 | [Wrong Turn](https://open.spotify.com/track/3mWbe25jgcrW3YjeLLtbgP) | [Antoine Cara](https://open.spotify.com/artist/4sHxN0TiHnkwK3YNIdTkMm), [Randy Brecker](https://open.spotify.com/artist/3Rsba5XTDhxUyjK4sn1wBj), [Jerry Léonide](https://open.spotify.com/artist/5Af1TsVHdJnJKt6R9kInBe), [Kevin Reveyrand](https://open.spotify.com/artist/6e8iJWw2WfJQjYmZPFmmra) | [Status Quo](https://open.spotify.com/album/0kbdRU8fGz15dmhPrWygqB) | 5:24 | 2025-01-17 |  |
 | [yeah \(ooh\)](https://open.spotify.com/track/2h5rWu6hJ6qEEEQgml0QR2) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng) | [yeah \(ooh\)](https://open.spotify.com/album/5jJHiab8xHz0kA3bsBo3h3) | 2:52 | 2023-05-19 | 2023-06-17 |
 | [You Feel Me](https://open.spotify.com/track/56eHf0w1qDf63ExrzcZiPA) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [You Feel Me](https://open.spotify.com/album/51hZR2IsVsP2nI3D4fkkCK) | 3:11 | 2022-08-19 | 2023-04-22 |

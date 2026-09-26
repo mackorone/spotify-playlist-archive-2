@@ -4,7 +4,7 @@
 
 > Frisse Nederlandse pop\. Cover: Racoon
 
-1,459 songs - 2 day 21 hr 37 min
+1,460 songs - 2 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -448,6 +448,7 @@
 | [Gewoon](https://open.spotify.com/track/1GlYKZiRpzVEzRSuApwVeK) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Gewoon](https://open.spotify.com/album/0n92DDS6QU5acQJ08ztYRP) | 2:35 | 2024-06-20 | 2024-09-27 |
 | [gewoon een dag](https://open.spotify.com/track/0aG1rzJY6vbJ12JFvNuOFp) | [Laura Sjin](https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L) | [gewoon een dag](https://open.spotify.com/album/5ayU1kzoAaMOC6BU5ObAGJ) | 2:27 | 2023-02-23 | 2023-03-10 |
 | [Gezelligheid \(..3,4,5\)](https://open.spotify.com/track/1BGGuweM2uI2Y95yfuvUW7) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Gezelligheid \(..3,4,5\)](https://open.spotify.com/album/6agf289SMNPxPVmi6fh4UE) | 2:56 | 2025-06-12 | 2025-10-17 |
+| [Gianni](https://open.spotify.com/track/3bZCTz8RuBTvcYXoVFxWga) | [Linde Schöne](https://open.spotify.com/artist/0XnberZ5D2ZUrwBm4RfFi4) | [Gianni](https://open.spotify.com/album/0HRvk6rOkS2nUIGzJfH4BA) | 3:02 | 2026-09-25 |  |
 | [Gin & Tonic](https://open.spotify.com/track/5CMxgjIIhtzX5PRNe0GQbn) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Gin & Tonic](https://open.spotify.com/album/6gKlEJrRnwvLnJvqEQXY9i) | 2:38 | 2025-06-05 | 2025-10-17 |
 | [Glaasje of 2](https://open.spotify.com/track/608bP3vB7pwjatfREMItX6) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Glaasje of 2](https://open.spotify.com/album/5fuPi9z1GQW2FpeR9ZV09j) | 2:03 | 2023-06-08 | 2023-09-22 |
 | [Glamping](https://open.spotify.com/track/79aLMvccg44m7kQDMIQ2Oq) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL), [MaxLorenzo](https://open.spotify.com/artist/0otcxR43pLVczppgvabqVM) | [Glamping](https://open.spotify.com/album/1FgVLQl9SEiRud6AZFBIrs) | 2:14 | 2025-08-07 | 2025-09-12 |

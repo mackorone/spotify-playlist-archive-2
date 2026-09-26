@@ -1,6 +1,6 @@
 {
   "description": "Sortez les pantalons pattes d\u2018eph et les chemises en satin !",
-  "num_followers": 140717,
+  "num_followers": 140710,
   "original_name": "Disco Club",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
-        "name": "Something For The Weekend",
-        "url": "https://open.spotify.com/album/4dnOon8AzLu1CyBUjXErI5"
-      },
-      "artists": [
-        {
-          "name": "T-Connection",
-          "url": "https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS"
-        }
-      ],
-      "duration_ms": 437626,
-      "name": "Do What You Wanna Do",
-      "url": "https://open.spotify.com/track/4ADW3HBraqvlFcxRlcRyoK"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
         "name": "Disco Nights (Expanded Edition)",
         "url": "https://open.spotify.com/album/5hgGl3cmYdzcPedJs47Jum"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 530226,
       "name": "Disco Nights (Rock Freak) - 12\" Disco Remix",
       "url": "https://open.spotify.com/track/21NEoaczQ5G1aEhJAgz0JQ"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
+        "name": "Something For The Weekend",
+        "url": "https://open.spotify.com/album/4dnOon8AzLu1CyBUjXErI5"
+      },
+      "artists": [
+        {
+          "name": "T-Connection",
+          "url": "https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS"
+        }
+      ],
+      "duration_ms": 437626,
+      "name": "Do What You Wanna Do",
+      "url": "https://open.spotify.com/track/4ADW3HBraqvlFcxRlcRyoK"
     },
     {
       "added_at": "2025-08-29 16:41:35",
@@ -771,6 +771,22 @@
     {
       "added_at": "2025-08-29 16:41:35",
       "album": {
+        "name": "Diana",
+        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
+    },
+    {
+      "added_at": "2025-08-29 16:41:35",
+      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/79F4jBcsI4qg66Xax1u4U8"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 230400,
       "name": "Dancing Queen",
       "url": "https://open.spotify.com/track/01iyCAUm8EvOFqVWYJ3dVX"
-    },
-    {
-      "added_at": "2025-08-29 16:41:35",
-      "album": {
-        "name": "Diana",
-        "url": "https://open.spotify.com/album/0Gy4phN6Xwx4uyskE7Wkls"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/57Y3UccJEJqT8w8RWkUAz0"
     }
   ],
   "unique_name": "Disco Club",

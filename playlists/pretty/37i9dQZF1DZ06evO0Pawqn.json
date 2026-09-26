@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tiranos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 10531,
+  "num_followers": 10530,
   "original_name": "This Is Los Tiranos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arMWgAAAAACyGakn4Fxvo4VwORV/wsp5",
+  "snapshot_id": "arRoAAAAAADv0/k4DDFjUPtmuUwylgNJ",
   "tracks": [
     {
       "added_at": null,
@@ -59,8 +59,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Mi Reina",
-        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
+        "name": "Exitos De Oro",
+        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
       },
       "artists": [
         {
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 199836,
-      "name": "Extrana Manera",
-      "url": "https://open.spotify.com/track/5vhHAeK0rdm95eoJOf5ZPr"
+      "duration_ms": 176733,
+      "name": "Renunciacion",
+      "url": "https://open.spotify.com/track/2iZSq7M0KmaCLJsPDvK8l3"
     },
     {
       "added_at": null,
@@ -91,8 +91,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos De Oro",
-        "url": "https://open.spotify.com/album/5gP2oZWJVWOCrEBH1pZRrZ"
+        "name": "Para Mi Reina",
+        "url": "https://open.spotify.com/album/1RhzfA1RNDKFwlwwP3XTeM"
       },
       "artists": [
         {
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
         }
       ],
-      "duration_ms": 176733,
-      "name": "Renunciacion",
-      "url": "https://open.spotify.com/track/2iZSq7M0KmaCLJsPDvK8l3"
+      "duration_ms": 199836,
+      "name": "Extrana Manera",
+      "url": "https://open.spotify.com/track/5vhHAeK0rdm95eoJOf5ZPr"
     },
     {
       "added_at": null,
@@ -747,26 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comiendote a Besos",
-        "url": "https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c"
-      },
-      "artists": [
-        {
-          "name": "Los Tiranos Del Norte",
-          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
-        },
-        {
-          "name": "Nicky Rosse",
-          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
-        }
-      ],
-      "duration_ms": 208067,
-      "name": "Comiendote a Besos",
-      "url": "https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hasta La Miel Amarga",
         "url": "https://open.spotify.com/album/5q7zBcS4853Hlg6hbyMiBu"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 209000,
       "name": "Hasta La Miel Amarga",
       "url": "https://open.spotify.com/track/4NFMdFJa9j2hWlzrnQqtGF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comiendote a Besos",
+        "url": "https://open.spotify.com/album/4E6BdmdR1JQMDhjxpC9q7c"
+      },
+      "artists": [
+        {
+          "name": "Los Tiranos Del Norte",
+          "url": "https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H"
+        },
+        {
+          "name": "Nicky Rosse",
+          "url": "https://open.spotify.com/artist/3scQP4cD9pEVskg0go34wc"
+        }
+      ],
+      "duration_ms": 208067,
+      "name": "Comiendote a Besos",
+      "url": "https://open.spotify.com/track/5QyKogVAcJN3OnwFvilwhv"
     },
     {
       "added_at": null,

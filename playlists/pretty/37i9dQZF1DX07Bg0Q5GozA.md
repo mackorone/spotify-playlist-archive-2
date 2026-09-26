@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: BICEP
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,687 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,657 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Air](https://open.spotify.com/track/2infXICqVSUM3bbGSOgFOY) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [SOARR](https://open.spotify.com/artist/03By98ETMgKabSpS8Ag8Dl) | [Air / Lemonder / Viper](https://open.spotify.com/album/1nr62onEOu3YeRQGqhvX0q) | 4:22 |
 | 2 | [Automatic Deal](https://open.spotify.com/track/3byIQRxNzJ3uD45fvT1VxQ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl), [Temp Affairs](https://open.spotify.com/artist/4NYjr3IhKvPsoE0KKbZHdy), [sparr00w](https://open.spotify.com/artist/4h9EUBK0jJRaDBBGQbyqJS), [bleac](https://open.spotify.com/artist/19C8JmmGVJEgFqN7IEYuO2) | [Automatic Deal](https://open.spotify.com/album/6TEDXDMqxKR8BNe6SsBPkY) | 2:03 |
 | 3 | [I Feel Tired \(All The Time\)](https://open.spotify.com/track/0w5YbM6WxR40jRs1r49Qvy) | [Blone](https://open.spotify.com/artist/0ecZdQ8HvJ0BHUNR1binxe) | [I Feel Tired \(All The Time\)](https://open.spotify.com/album/6eKNcL78Hvymfz8j2e7py8) | 3:34 |
-| 4 | [Loser \- Fcukers Remix](https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Loser \(Fcukers Remix\)](https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl) | 4:27 |
+| 4 | [Loser \(Fcukers Remix\)](https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Loser \(Fcukers Remix\)](https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl) | 4:27 |
 | 5 | [The Only One \(feat\. Christine and the Queens\) \- Hercules & Love Affair Remix](https://open.spotify.com/track/6pmtyOLPnhEk4w4NJLPG8A) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [The Only One \(feat\. Christine and the Queens\) \[Hercules & Love Affair Remix\]](https://open.spotify.com/album/7bGkoPdt5qc1qIQEJTVlH1) | 4:08 |
 | 6 | [Glide \- Franc Moody Remix](https://open.spotify.com/track/2rH2Ll968f0X1Ep9E2eOUO) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Franc Moody](https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l) | [Glide \(Franc Moody Remix\)](https://open.spotify.com/album/6RQ1peCV6fF2Ie7HcJ1C3C) | 4:15 |
 | 7 | [Human Interaction](https://open.spotify.com/track/0LdwFML9udrWMfulg5mHYF) | [KAGAMI](https://open.spotify.com/artist/3WWBjOsF2LWEct6GxZHxRo), [Popa](https://open.spotify.com/artist/3v3PilwftiZCpC4msQRNyB) | [Human Interaction](https://open.spotify.com/album/6E4mbI4nwtOcHoFbfomJqc) | 4:09 |

@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-434 songs - 19 hr 25 min
+437 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Falling For You](https://open.spotify.com/track/6uXuIOzllHn8VZkW0uijpN) | [Jorge Huksos](https://open.spotify.com/artist/5DEfxYlPLz7yZMw0AJF5G7) | [Falling For You](https://open.spotify.com/album/06YWGGpEpZdWuzQrDP6JeM) | 2:22 | 2026-03-30 |  |
 | [Familiar Dedication](https://open.spotify.com/track/2t1FX8onvc1vTVwDaQemS7) | [Judah Mays](https://open.spotify.com/artist/7aoDjyRnPnMgjlrmlJo4zb) | [Tumbleweed](https://open.spotify.com/album/3jKywll76lblb3pSBLmaya) | 2:45 | 2022-05-13 | 2024-04-06 |
 | [Familiar Faces](https://open.spotify.com/track/1qN4gbb7DorRbfjlH1k3VR) | [Sam’s Creek](https://open.spotify.com/artist/6b6CnL7FW5ukNt6pGJrYV2) | [Familiar Faces](https://open.spotify.com/album/1ggIMZPIpojoCEyldZASBu) | 2:05 | 2025-05-13 |  |
+| [Far Above](https://open.spotify.com/track/2gmjHz8kFibVksELLjryYd) | [Marée Claire](https://open.spotify.com/artist/71n57F1oDzZRpSR293PwIP) | [Far Above](https://open.spotify.com/album/0yUFocnvwVbmNIOYiBjx75) | 2:26 | 2026-09-25 |  |
 | [Favor from the Wind](https://open.spotify.com/track/6jhxoEzxae8CW2ScL7ehsT) | [Janet Noguera](https://open.spotify.com/artist/7BX5I0rBq9BLKCyJHQr2GD) | [Favor from the Wind](https://open.spotify.com/album/6EQJJ0BLotBsUpafBhjfR1) | 4:43 | 2024-02-02 | 2024-04-06 |
 | [Featherlight](https://open.spotify.com/track/4eJEvXq4j6qgeemUhRR70e) | [Nisha Wilde](https://open.spotify.com/artist/7g9Jv4MoPYjOE4illPFYmN) | [Featherlight](https://open.spotify.com/album/2tmuHRatWRGuHi0GQEee8u) | 1:51 | 2025-06-16 |  |
 | [Featherlight](https://open.spotify.com/track/2TVL6DZBZh2kqTalIKspbn) | [Tom Retnikoff](https://open.spotify.com/artist/0bJDHQakbAm5Ymjux31AgO) | [Featherlight](https://open.spotify.com/album/4hUgipvuMuSRfOFfeNTDi4) | 2:17 | 2022-05-13 | 2024-04-06 |
@@ -205,6 +206,7 @@
 | [Just Like That](https://open.spotify.com/track/2prEnOZFMwIYsflV3ORDbQ) | [Nico Harper](https://open.spotify.com/artist/5zzzEMIjmteJXzfAnBOLJB) | [Just Like That](https://open.spotify.com/album/0KEk3eyTKNMZY2i2qA2Foa) | 2:44 | 2025-08-26 |  |
 | [Keep On Moving](https://open.spotify.com/track/5tJ57yb6Q9PfJI3CBqeKNl) | [Michael Blaese](https://open.spotify.com/artist/338z4B7XseWDX332TXVIsq) | [Keep On Moving](https://open.spotify.com/album/596VrDMDmG48YKdcAnSvm9) | 1:36 | 2023-03-31 | 2023-09-16 |
 | [Keirin](https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp) | [Paris Little](https://open.spotify.com/artist/2Set9fzetOO5FobntPuLwl) | [Keirin](https://open.spotify.com/album/16u16SQul659X2qT4tc8Zw) | 3:06 | 2022-05-13 | 2023-09-01 |
+| [Kind Regards \[Un cordiale saluto\]](https://open.spotify.com/track/7FuUCQDyMSA4EZG5T8cg4V) | [Lorenzo Campagnoli](https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc) | [Kind Regards \[Un cordiale saluto\]](https://open.spotify.com/album/1QQP17UbljjrUgenCyvmlz) | 3:08 | 2026-09-25 |  |
 | [Kite](https://open.spotify.com/track/2m4SUJunHatkZtI51ba3f5) | [Owen Larsson](https://open.spotify.com/artist/3yj6wzbqsrmZhF87e97km8) | [Kite](https://open.spotify.com/album/4ggfPdW3RSf4eCDzL6EfGQ) | 2:28 | 2024-05-24 |  |
 | [L'heure de l'harmonie](https://open.spotify.com/track/7818YjCizM6uEh7gjYzVdj) | [Constance Timon](https://open.spotify.com/artist/5svEYMmK1IFN983jkqrG7f) | [L'heure de l'harmonie](https://open.spotify.com/album/0P6Ka37RvhKX8a8AjrGdhc) | 2:19 | 2022-05-13 | 2024-04-20 |
 | [Labyrinth](https://open.spotify.com/track/6D1rwuCaxBMaKNkRCKYkdN) | [Dan Lauften](https://open.spotify.com/artist/1nUr7Y05ABzaFcKpkg6l65) | [Labyrinth](https://open.spotify.com/album/1SDeeKR6wSSuPlqvTPAigX) | 2:12 | 2025-01-07 |  |
@@ -379,6 +381,7 @@
 | [The Pine Scent](https://open.spotify.com/track/1mrXKtCqNEV9DskdVP4gHv) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [The Pine Scent](https://open.spotify.com/album/6TiZi0HaJe10KYypuaAVnU) | 2:19 | 2024-01-12 |  |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2022-05-13 | 2023-04-28 |
 | [The Rainbow](https://open.spotify.com/track/17RZOpjS9as3aMnvMA976O) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [The Rainbow](https://open.spotify.com/album/0UBviprrJBKJPfjrfDTqqI) | 2:07 | 2022-05-27 | 2023-03-31 |
+| [The Road Ahead](https://open.spotify.com/track/7xALoIVoEzI3eRYNPt8oHJ) | [Billy Varon](https://open.spotify.com/artist/00mYPMTJDSN7qczU0deUuY) | [The Road Ahead](https://open.spotify.com/album/62ar2Cbga4avdgHnN3HKSX) | 2:20 | 2026-09-25 |  |
 | [The Safflower Harvest](https://open.spotify.com/track/2Bb66gsw9HlLjMLrVjSJv8) | [Faircamp](https://open.spotify.com/artist/1xxKCb2lrYVUmTL6EbD0Pu) | [Into the Wind](https://open.spotify.com/album/4qrpQBGCS95ekF7eEvZRue) | 2:57 | 2022-05-13 | 2023-02-25 |
 | [The second day of the year](https://open.spotify.com/track/4t0dPZpKTEwhrp86jFq0Oy) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [The second day of the year](https://open.spotify.com/album/0J9M3YE2BiynCk10uuKkNO) | 2:03 | 2025-03-25 | 2025-04-08 |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-05-13 | 2024-05-10 |

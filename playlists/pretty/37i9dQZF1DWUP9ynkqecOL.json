@@ -1,15 +1,43 @@
 {
   "description": "tradici\u00f3n, modernidad y frescura. Sonido argentino, del futuro.",
-  "num_followers": 26607,
+  "num_followers": 26610,
   "original_name": "de mis pagos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADHFqXMFWYLT1IXejf5EMfMK4qDj",
+  "snapshot_id": "AAAAAOvibZPPv8+HlydQToRivEuhDrw+",
   "tracks": [
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
+      "album": {
+        "name": "Alma de Rezabaile (Casa Sole)",
+        "url": "https://open.spotify.com/album/0SkVQHXxMaiNWTBNwV8ROh"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        },
+        {
+          "name": "Flor Cazzuchelli",
+          "url": "https://open.spotify.com/artist/18HC9uyCeQuC9ZJWXOxfGH"
+        },
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        }
+      ],
+      "duration_ms": 152917,
+      "name": "Alma de Rezabaile (Casa Sole)",
+      "url": "https://open.spotify.com/track/7HLJHyFJ65qbMREf4pDAtn"
+    },
+    {
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Un cosmos que camina conmigo",
         "url": "https://open.spotify.com/album/4JL9FGVzXdE6po4atoOBsf"
@@ -29,7 +57,7 @@
       "url": "https://open.spotify.com/track/1xLGk6BG7rATk1BBZ20jHf"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "La Monta\u00f1a",
         "url": "https://open.spotify.com/album/1BllJboePDL5uY0fORETQO"
@@ -45,7 +73,7 @@
       "url": "https://open.spotify.com/track/0LmjT7nW1n4Du0x3pqlMfM"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Neuqu\u00e9n Trabun Mapu",
         "url": "https://open.spotify.com/album/4cYt0z0WZHXEBZHN7DgC37"
@@ -69,7 +97,7 @@
       "url": "https://open.spotify.com/track/2LkldxIcPcK4875w5hW8pa"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
@@ -85,7 +113,7 @@
       "url": "https://open.spotify.com/track/4aDbrgm1ZaebS1Bb2dOXac"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "YO SOY EL DUE\u00d1O",
         "url": "https://open.spotify.com/album/1FPe1ntu4wNmQNES2s8yLN"
@@ -101,7 +129,23 @@
       "url": "https://open.spotify.com/track/6T1menSISCCZis7XIR90pb"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
+      "album": {
+        "name": "Tri\u00e1ngulo Uno",
+        "url": "https://open.spotify.com/album/4axal6Z2uUO8fw9d0bkDOB"
+      },
+      "artists": [
+        {
+          "name": "Homero Taisen",
+          "url": "https://open.spotify.com/artist/0Zd3iLDS07YUMsumvhZeL2"
+        }
+      ],
+      "duration_ms": 237152,
+      "name": "Zamba del Desamorado",
+      "url": "https://open.spotify.com/track/7C9X3tmTebuvEjWNyquIAF"
+    },
+    {
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "HIJO DEL PA\u00cdS",
         "url": "https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1"
@@ -121,7 +165,7 @@
       "url": "https://open.spotify.com/track/568bo2MxSF48OxB7jBtqMN"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Baileciteando",
         "url": "https://open.spotify.com/album/2TcbAnrwUcE2PCZlBYq8Mr"
@@ -137,7 +181,23 @@
       "url": "https://open.spotify.com/track/7y63YmpLQCIg8WF86oGr7q"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
+      "album": {
+        "name": "una cosa viva",
+        "url": "https://open.spotify.com/album/1P1vlNpr5zehOlUW7CJ7LA"
+      },
+      "artists": [
+        {
+          "name": "gris",
+          "url": "https://open.spotify.com/artist/3JhPCTEWqa4OpEuhR7sZt1"
+        }
+      ],
+      "duration_ms": 226798,
+      "name": "me fui",
+      "url": "https://open.spotify.com/track/339oAvRd5TB8dU5cv6KBDD"
+    },
+    {
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Ay, Carnaval",
         "url": "https://open.spotify.com/album/1iEQzIqtH0zkl5wgWy0dpN"
@@ -157,7 +217,7 @@
       "url": "https://open.spotify.com/track/162q1URorZHEYvW3vfFjcR"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
@@ -173,7 +233,7 @@
       "url": "https://open.spotify.com/track/3sc0Wv64rOuIRVkQO7rrer"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Latinaje",
         "url": "https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs"
@@ -189,7 +249,7 @@
       "url": "https://open.spotify.com/track/0PVDEaIjTCC7NDeLfnxQi4"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "La Vida Era M\u00e1s Corta",
         "url": "https://open.spotify.com/album/0sQR1p7NyAUqMPmWdZ6UBd"
@@ -209,7 +269,7 @@
       "url": "https://open.spotify.com/track/1LDoIeOs48v4UWzYUORAaL"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "ENCANTO",
         "url": "https://open.spotify.com/album/5M4QvzWkh0ElAWtoAratZy"
@@ -225,7 +285,7 @@
       "url": "https://open.spotify.com/track/7lXlnGWHUxSno197lsXnuz"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "FAlklore Vol. 2",
         "url": "https://open.spotify.com/album/0hukQey7qPa49oSVhu5kIv"
@@ -249,7 +309,7 @@
       "url": "https://open.spotify.com/track/4npFYHVY3BKkVvdF9VDDUD"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Un Mont\u00f3n de Estrellas",
         "url": "https://open.spotify.com/album/5MHb24RCpqg5ekjMGGi2wG"
@@ -265,7 +325,7 @@
       "url": "https://open.spotify.com/track/3eClp96lC5b2IKQZW4XMBR"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "MI PAZ",
         "url": "https://open.spotify.com/album/3PoRQDTxwP49agL2s3jIGr"
@@ -281,7 +341,7 @@
       "url": "https://open.spotify.com/track/5PuzeYq1WkmGfxij6uEIvT"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Qui\u00e9n va a cantar",
         "url": "https://open.spotify.com/album/4XtW6stHkJaRAOEMYh5N7w"
@@ -297,7 +357,7 @@
       "url": "https://open.spotify.com/track/0rJFZjUamurKu7Y6jdBQx1"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "MI CHINA",
         "url": "https://open.spotify.com/album/76KgqITGU3xYIYgJurvDWM"
@@ -313,7 +373,7 @@
       "url": "https://open.spotify.com/track/357YDywBW0HNOLsA7ymDIM"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "+ Zambas Rom\u00e1nticas: Zamba y Acuarela / Despu\u00e9s de tantos a\u00f1os / Dif\u00edcil / Fabulas de Amor",
         "url": "https://open.spotify.com/album/46sM20vxSGlvW9BQklh6b4"
@@ -333,7 +393,7 @@
       "url": "https://open.spotify.com/track/3oCZKNEbBvwbHwSULtRZH6"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Lo que no logr\u00e9 en la ciudad",
         "url": "https://open.spotify.com/album/3hCo833asRW1t5CrgojkDj"
@@ -353,7 +413,7 @@
       "url": "https://open.spotify.com/track/1Kiky8S7B4ZUBiNPy0DEvL"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "HIJO DEL PA\u00cdS",
         "url": "https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1"
@@ -369,7 +429,7 @@
       "url": "https://open.spotify.com/track/4tsVNk3h7QUEz8KhOHPpaY"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Perdonarte, \u00bfPara Qu\u00e9? / Como lo Hizo",
         "url": "https://open.spotify.com/album/1GhKzvREoqRrG1gyEGwuy4"
@@ -385,7 +445,7 @@
       "url": "https://open.spotify.com/track/3lLziiZtnAHy0KFZ93hFZ4"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Ni Una Sola Palabra",
         "url": "https://open.spotify.com/album/19RFziCPrvqOvLQmdxdS8x"
@@ -401,7 +461,7 @@
       "url": "https://open.spotify.com/track/1qCfOZFOcZCHF6d3wxIHgS"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Mis Pagos",
         "url": "https://open.spotify.com/album/7bcOKFg1X0Ls67Y5J5YVeN"
@@ -421,7 +481,7 @@
       "url": "https://open.spotify.com/track/0CC4KvFqBVQnew6SQwNaW2"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "FAlklore Vol. 2",
         "url": "https://open.spotify.com/album/0hukQey7qPa49oSVhu5kIv"
@@ -445,7 +505,7 @@
       "url": "https://open.spotify.com/track/4mAU6U8qE0axMpZnKnEHzk"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Los Algarrobos",
         "url": "https://open.spotify.com/album/7BbLxJ2MPhmnSAHShC7DJZ"
@@ -465,7 +525,7 @@
       "url": "https://open.spotify.com/track/2Rff0KNafA07AtSntxWT8F"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "HIJO DEL PA\u00cdS",
         "url": "https://open.spotify.com/album/7wN3L4ddlP7ZaLICrN7SI1"
@@ -481,7 +541,7 @@
       "url": "https://open.spotify.com/track/4qzVmx1h523oiyF9SjYTBr"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Tu Misterioso Alguien",
         "url": "https://open.spotify.com/album/2bGGtY1wTxX54ELhGzFP91"
@@ -497,7 +557,7 @@
       "url": "https://open.spotify.com/track/05NIrKmFsRW2beYsVWALMy"
     },
     {
-      "added_at": "2026-09-09 19:53:33",
+      "added_at": "2026-09-25 15:00:15",
       "album": {
         "name": "Mil Preguntas / Que Me Falte Todo",
         "url": "https://open.spotify.com/album/6JRdgBF3LP7d3mGuIQZSGq"

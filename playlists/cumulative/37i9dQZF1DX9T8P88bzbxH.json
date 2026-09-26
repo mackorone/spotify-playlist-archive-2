@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "One night only. Cover: Firdhaus",
-  "name": "On Tour Singapore: Firdhaus",
+  "description": "One night only. Cover: Ernie Zakri, Syamel, Anuar Zain, Ziana Zain",
+  "name": "On Tour Singapore: EMPAT",
   "tracks": [
     {
       "album": {
@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "PERTAMA",
+        "url": "https://open.spotify.com/album/6oc6RoOjk8cTFlxIAw7W8f"
+      },
+      "artists": [
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221030,
+      "name": "Aku Bukan Dia",
+      "url": "https://open.spotify.com/track/09oPqe5xNrt3GL9filmlR9"
+    },
+    {
+      "album": {
         "name": "Aku Cinta",
         "url": "https://open.spotify.com/album/2Jq8EcBEang47gu0ODGItc"
       },
@@ -1170,6 +1188,24 @@
       "duration_ms": 180175,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0vZtHRT1Ez9xmmxGRCNF8h"
+    },
+    {
+      "album": {
+        "name": "No. 1s 'live'",
+        "url": "https://open.spotify.com/album/2C66GhldUvOUhgMSwhfamv"
+      },
+      "artists": [
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498866,
+      "name": "Anggapanmu/Kemelut Di Muara Kasih/Korban Cinta",
+      "url": "https://open.spotify.com/track/2h3Xo2JKqfb1CPz8TWEJF2"
     },
     {
       "album": {
@@ -1452,6 +1488,24 @@
       "duration_ms": 222580,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4xyBmXvhgiPIbq7Dw7KN54"
+    },
+    {
+      "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/05lIHO55Jda6G50N8UCKvf"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247330,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/4SXdPKPbNAJyjcV5UYwsli"
     },
     {
       "album": {
@@ -2204,6 +2258,24 @@
       "duration_ms": 223235,
       "name": "Berduka-Lara",
       "url": "https://open.spotify.com/track/0CCtyxmEcpIQaNwPqWHgAW"
+    },
+    {
+      "album": {
+        "name": "Beribu Tanda Tanya",
+        "url": "https://open.spotify.com/album/3BsiQnt3ysHy8mKG9n16WY"
+      },
+      "artists": [
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229736,
+      "name": "Beribu Tanda Tanya",
+      "url": "https://open.spotify.com/track/1AItqoSpHzdHTqCYqllHp3"
     },
     {
       "album": {
@@ -3969,6 +4041,24 @@
     },
     {
       "album": {
+        "name": "Anuar Zain",
+        "url": "https://open.spotify.com/album/4FQV9neXEDhEdYJxuc8QyN"
+      },
+      "artists": [
+        {
+          "name": "Anuar Zain",
+          "url": "https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327600,
+      "name": "Cinta Harus Memiliki",
+      "url": "https://open.spotify.com/track/3qS92cciUkc2vz9SmPKhna"
+    },
+    {
+      "album": {
         "name": "Retired from Sad, New Career in Business",
         "url": "https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f"
       },
@@ -4548,6 +4638,24 @@
       "duration_ms": 219533,
       "name": "Cuckoo Ballet - Interlude",
       "url": "https://open.spotify.com/track/1AoLEGCko16VHdYsG2POwH"
+    },
+    {
+      "album": {
+        "name": "PERTAMA",
+        "url": "https://open.spotify.com/album/6oc6RoOjk8cTFlxIAw7W8f"
+      },
+      "artists": [
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "Cukup Sekali",
+      "url": "https://open.spotify.com/track/0fVTCm9sDEp2vCaFHoV8fF"
     },
     {
       "album": {
@@ -9304,7 +9412,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 223561,
       "name": "Hey, I Like You A Lot",
       "url": "https://open.spotify.com/track/01VpOGgJFf1kNaR0Xr8pvY"
@@ -10302,7 +10410,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 89200,
       "name": "If I Die, Please Tell My Mom I Love Her.",
       "url": "https://open.spotify.com/track/3XawG4yXxz9Ws7PZru7wnR"
@@ -11021,6 +11129,36 @@
     },
     {
       "album": {
+        "name": "Jangan Henti",
+        "url": "https://open.spotify.com/album/521izUz80gkhGYzYoeqwIa"
+      },
+      "artists": [
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        },
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        },
+        {
+          "name": "Anuar Zain",
+          "url": "https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a"
+        },
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228020,
+      "name": "Jangan Henti",
+      "url": "https://open.spotify.com/track/0FRBjygE4ZPUb4L6uPQ3CG"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
       },
@@ -11032,7 +11170,7 @@
       ],
       "date_added": "2025-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-06-18",
+      "date_removed": null,
       "duration_ms": 237599,
       "name": "Jangan Hilang Percaya",
       "url": "https://open.spotify.com/track/1IJz6neRjsJPD0HZBJoThM"
@@ -11631,6 +11769,24 @@
     },
     {
       "album": {
+        "name": "Ratu - Satu Penghargaan 1992 - 2001",
+        "url": "https://open.spotify.com/album/0cZGkmvn8YBoUaz3RpeJpC"
+      },
+      "artists": [
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306586,
+      "name": "Kemelut Di Muara Kasih",
+      "url": "https://open.spotify.com/track/1LJ2vYoq34pGCQvz49CbP5"
+    },
+    {
+      "album": {
         "name": "Kepala Batu",
         "url": "https://open.spotify.com/album/6VQtsZhoiiSS9Zl1MTEjD0"
       },
@@ -11646,6 +11802,24 @@
       "duration_ms": 208948,
       "name": "Kepala Batu",
       "url": "https://open.spotify.com/track/1lJMeBBPwaS9MSvPPDOd90"
+    },
+    {
+      "album": {
+        "name": "ANUAR ZAIN",
+        "url": "https://open.spotify.com/album/7nLcvRX9zuwZR1N8jI0gtt"
+      },
+      "artists": [
+        {
+          "name": "Anuar Zain",
+          "url": "https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280613,
+      "name": "Ketulusan Hati",
+      "url": "https://open.spotify.com/track/0ZB5IGGmc05zjiKg4uTlb3"
     },
     {
       "album": {
@@ -11874,6 +12048,24 @@
     {
       "album": {
         "name": "Ku Bersuara",
+        "url": "https://open.spotify.com/album/6U7iMFzuqYSqzjKoth2bFF"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201734,
+      "name": "Ku Bersuara",
+      "url": "https://open.spotify.com/track/0C6QegNJ8Abz5qwfjZCLtu"
+    },
+    {
+      "album": {
+        "name": "Ku Bersuara",
         "url": "https://open.spotify.com/album/0WfbioxiBM5k5DQoozFlMI"
       },
       "artists": [
@@ -12010,7 +12202,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 197333,
       "name": "kyoto.",
       "url": "https://open.spotify.com/track/1sVlmkf6AoCZEYEsyAoWLV"
@@ -12344,6 +12536,24 @@
       "duration_ms": 291160,
       "name": "Legenda",
       "url": "https://open.spotify.com/track/4ksgoAjYOn7fGVG5SgqgAK"
+    },
+    {
+      "album": {
+        "name": "Lagu Gerek!",
+        "url": "https://open.spotify.com/album/1hV11WsjjQ2SB2Emk2sUJL"
+      },
+      "artists": [
+        {
+          "name": "Anuar Zain",
+          "url": "https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311520,
+      "name": "Lelaki Ini",
+      "url": "https://open.spotify.com/track/3uFBxv4BuP7R1AQ2eTI0FU"
     },
     {
       "album": {
@@ -13491,6 +13701,28 @@
     },
     {
       "album": {
+        "name": "Broken Heart Club (ID)",
+        "url": "https://open.spotify.com/album/0ugLFb4RwjTRrblPZ3YmAa"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        },
+        {
+          "name": "Ade Govinda",
+          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234589,
+      "name": "Masing Masing",
+      "url": "https://open.spotify.com/track/1fMBkOEghQqYr0Cu5PVZwF"
+    },
+    {
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda"
       },
@@ -13748,6 +13980,24 @@
       "duration_ms": 154577,
       "name": "MENACE",
       "url": "https://open.spotify.com/track/3h0AyBKSA7fHWanQzv00Nb"
+    },
+    {
+      "album": {
+        "name": "Ratu - Satu Penghargaan 1992 - 2001",
+        "url": "https://open.spotify.com/album/0cZGkmvn8YBoUaz3RpeJpC"
+      },
+      "artists": [
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320920,
+      "name": "Menadah Gerimis",
+      "url": "https://open.spotify.com/track/35XTi18jlfPCOtljO7xKji"
     },
     {
       "album": {
@@ -14556,7 +14806,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 209680,
       "name": "My \u83dc",
       "url": "https://open.spotify.com/track/0Qw6T2cOILFqqeJPgNfqEH"
@@ -16277,6 +16527,24 @@
     },
     {
       "album": {
+        "name": "Anuar Zain Tiga Dekad Muzik Cinta Dan Sanubari",
+        "url": "https://open.spotify.com/album/2NaZl2BkPyJYxyGeSpHfny"
+      },
+      "artists": [
+        {
+          "name": "Anuar Zain",
+          "url": "https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321573,
+      "name": "Perpisahan",
+      "url": "https://open.spotify.com/track/3xvhTVfv8UTz8mex3CI4v8"
+    },
+    {
+      "album": {
         "name": "Relax",
         "url": "https://open.spotify.com/album/4lDtBxeWeNlEWRT0JmU046"
       },
@@ -16346,6 +16614,24 @@
       "duration_ms": 186553,
       "name": "personal",
       "url": "https://open.spotify.com/track/0gE7IgQ0vsiV8KwJuvLjHt"
+    },
+    {
+      "album": {
+        "name": "PERTAMA",
+        "url": "https://open.spotify.com/album/6oc6RoOjk8cTFlxIAw7W8f"
+      },
+      "artists": [
+        {
+          "name": "Syamel",
+          "url": "https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177608,
+      "name": "PERTAMA",
+      "url": "https://open.spotify.com/track/1kki5v3dswxS7kxNkES0Xj"
     },
     {
       "album": {
@@ -16752,6 +17038,24 @@
       "duration_ms": 205519,
       "name": "PUMA",
       "url": "https://open.spotify.com/track/4dJThL3k5tMRdduAiARM4R"
+    },
+    {
+      "album": {
+        "name": "Pop Sensasi",
+        "url": "https://open.spotify.com/album/3TxOhghQByi2ekOv564NS8"
+      },
+      "artists": [
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334760,
+      "name": "Puncak Kasih",
+      "url": "https://open.spotify.com/track/16wK7VGL5cPdIqqfd6aXa9"
     },
     {
       "album": {
@@ -17765,6 +18069,24 @@
     },
     {
       "album": {
+        "name": "Puncak Kasih",
+        "url": "https://open.spotify.com/album/3qCGaGovUet8reRS0wdxXo"
+      },
+      "artists": [
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334288,
+      "name": "Sangkar Cinta - Bonus Track",
+      "url": "https://open.spotify.com/track/6bMvrR0qHZSiaVnqwJDKmn"
+    },
+    {
+      "album": {
         "name": "2:BE",
         "url": "https://open.spotify.com/album/74A3CHRxkm987Bu4P1iBmA"
       },
@@ -18089,6 +18411,24 @@
     },
     {
       "album": {
+        "name": "Hitman",
+        "url": "https://open.spotify.com/album/05IUzRcdLnNZW6QLddOL2y"
+      },
+      "artists": [
+        {
+          "name": "Anuar Zain",
+          "url": "https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282023,
+      "name": "Sedetik Lebih",
+      "url": "https://open.spotify.com/track/09DjFJGE8Va8WxQskOT4if"
+    },
+    {
+      "album": {
         "name": "A Matter of Time: The Final Hour",
         "url": "https://open.spotify.com/album/4DWK6TLXHl1fly2zi5RlO7"
       },
@@ -18104,6 +18444,24 @@
       "duration_ms": 179133,
       "name": "Seems Like Old Times",
       "url": "https://open.spotify.com/track/3Ci1aN2eXmaPEwdaTe968z"
+    },
+    {
+      "album": {
+        "name": "Sejambak Bunga",
+        "url": "https://open.spotify.com/album/7FwDZSvNxtY5tCnzeRdTgo"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198719,
+      "name": "Sejambak Bunga",
+      "url": "https://open.spotify.com/track/4CYGBC1ElT0ZiL0tDa4DSJ"
     },
     {
       "album": {
@@ -20020,7 +20378,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 320406,
       "name": "Table For Two",
       "url": "https://open.spotify.com/track/7LllQtUStOSoGpsfwYImT5"
@@ -24954,7 +25312,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 265890,
       "name": "\u4e0a\u5929\u554a",
       "url": "https://open.spotify.com/track/0VhK02gTZ4LLyFmHG4qShc"
@@ -24972,7 +25330,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 220334,
       "name": "\u4e0d\u662f\u53ea\u662f",
       "url": "https://open.spotify.com/track/0QkCceNWQkd7TcwCYdwnva"
@@ -24990,7 +25348,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 335513,
       "name": "\u4e5f\u8a31\u662f\u6211\u5beb\u7d66\u4f60\u7684\u6700\u5f8c\u4e00\u9996\u6b4c",
       "url": "https://open.spotify.com/track/3KIW75aUkooLJBLa6ah5y1"
@@ -25026,7 +25384,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 254067,
       "name": "\u4eba\u751f\uff0c\u8d77\u8d77\u843d\u843d\u843d\u843d\u843d\uff1f",
       "url": "https://open.spotify.com/track/1VqdJfu2R0jnR1VGrTpqEB"
@@ -25044,7 +25402,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 227880,
       "name": "\u4f60\u53ef\u4ee5\u628a\u9f3b\u6d95\u64e6\u5728\u6211\u8863\u670d\u4e0a",
       "url": "https://open.spotify.com/track/1DjqKLaUCZ1gNsISadM5rv"
@@ -25062,7 +25420,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 336896,
       "name": "\u4f60\u597d\uff0c\u5c31\u8db3\u77e3",
       "url": "https://open.spotify.com/track/50BsxaRhKQZUUkkS3xB2ck"
@@ -25080,7 +25438,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 212440,
       "name": "\u4f60\u60f3\u5f97\u7f8e",
       "url": "https://open.spotify.com/track/1RYbcLbJyuHKSueohqPiEi"
@@ -25098,7 +25456,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 221073,
       "name": "\u4f60\u6703\u4f86\u770b\u6211\u55ce\uff1f",
       "url": "https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4"
@@ -25142,7 +25500,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 188709,
       "name": "\u50cf\u6c34\u4e00\u6a23",
       "url": "https://open.spotify.com/track/2ertU0G948DJAvaASQ7LXU"
@@ -25214,7 +25572,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 319838,
       "name": "\u53cb\u8c0a\u957f\u5b58",
       "url": "https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2"
@@ -25232,7 +25590,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 215000,
       "name": "\u5408\u7167",
       "url": "https://open.spotify.com/track/1imPxyJ2Dq03wqbIwpPGFk"
@@ -25250,7 +25608,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 197041,
       "name": "\u54e5\u54e5",
       "url": "https://open.spotify.com/track/2p65f1l8p0m8j0Ny6tJBAe"
@@ -25272,7 +25630,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"
@@ -25290,7 +25648,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 288000,
       "name": "\u5730\u7403\u662f\u5e73\u7684",
       "url": "https://open.spotify.com/track/4YtJDKz317y9NNKFqT3yJT"
@@ -25352,7 +25710,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 221551,
       "name": "\u597d\u597d\u5403\u98ef",
       "url": "https://open.spotify.com/track/0xkOAdcy8W1WXFpmYBc2EU"
@@ -25406,7 +25764,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 176673,
       "name": "\u5b89",
       "url": "https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP"
@@ -25446,7 +25804,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 255525,
       "name": "\u5dee\u4e00\u9ede",
       "url": "https://open.spotify.com/track/1QwnRiT6r8ZZiEnoUW7S1h"
@@ -25554,7 +25912,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 280392,
       "name": "\u6211\u4e0d\u662f\u4e00\u500b\u5b8c\u7f8e\u7684\u4eba - \u7535\u5f71\u300a\u96e8\u57ce\u300b\u4e3b\u9898\u66f2",
       "url": "https://open.spotify.com/track/1W6Mk0QPqIjUhLV7GIVuzp"
@@ -25572,7 +25930,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 218969,
       "name": "\u6211\u5011\u90fd\u662f\u7b2c\u4e00\u6b21\u505a\u4eba",
       "url": "https://open.spotify.com/track/4hZXOzYgbNKndzLlFGrgSp"
@@ -25590,7 +25948,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 327300,
       "name": "\u6211\u6c92\u60f3\u904e\u6703\u9019\u6a23\u5931\u53bb\u4f60",
       "url": "https://open.spotify.com/track/3f4ZXh0lePQvXk1yfdSjEb"
@@ -25626,7 +25984,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 227718,
       "name": "\u62f3\u738b\u963f\u91cc",
       "url": "https://open.spotify.com/track/5doEgBL50h0qxf4xh2CELV"
@@ -25644,7 +26002,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 279803,
       "name": "\u65e9\u9ede\u56de\u5bb6",
       "url": "https://open.spotify.com/track/33HQZb5yMqtHmmJ0kLrO3l"
@@ -25716,7 +26074,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 182696,
       "name": "\u7570\u5730\u6200",
       "url": "https://open.spotify.com/track/3BLDDDkS5CyjjpoSILN46J"
@@ -25734,7 +26092,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 260727,
       "name": "\u76f8\u4fe1\u81ea\u5df1\u76f8\u4fe1\u81ea\u5df1\u76f8\u4fe1\u81ea\u5df1",
       "url": "https://open.spotify.com/track/41pTHJgiE6RK8ptyGz2WLp"
@@ -25810,7 +26168,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 228686,
       "name": "\u80fd\u9047\u898b\uff0c\u5c31\u5f88\u4e0d\u932f\u4e86",
       "url": "https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF"
@@ -25846,7 +26204,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 183180,
       "name": "\u88ab\u559c\u6b61\u771f\u7684\u6709\u90a3\u9ebc\u91cd\u8981\u55ce\uff1f",
       "url": "https://open.spotify.com/track/5eMmL4m4VwWYyo5mpYfGPD"
@@ -25954,7 +26312,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 246000,
       "name": "\u963f\u62c9\u65af\u52a0\u6d77\u7063",
       "url": "https://open.spotify.com/track/1QUkVUJiQGR0bNe7aS8Mfb"
@@ -26008,7 +26366,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 244586,
       "name": "\u98db\u86fe\u64b2\u706b",
       "url": "https://open.spotify.com/track/0CKaY4qY9dRC6wf9jfbbrk"

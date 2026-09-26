@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 118099,
+  "num_followers": 118160,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
+        "name": "Um Raio Laser",
+        "url": "https://open.spotify.com/album/7inldfPDvUkQCvJkBrsf0m"
+      },
+      "artists": [
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Um raio laser",
+      "url": "https://open.spotify.com/track/2s1BwI22Ay6ZagD1ube6yn"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
         "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
         "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 162600,
       "name": "Emori\u00f4",
       "url": "https://open.spotify.com/track/4e7c3Ti8I2ikPHIn36LDcn"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Latin Grooves - Samba",
-        "url": "https://open.spotify.com/album/5GMVnDFZfxr5EyhEnGStdU"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho",
-          "url": "https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3"
-        }
-      ],
-      "duration_ms": 190133,
-      "name": "Vou Festejar",
-      "url": "https://open.spotify.com/track/6sZLKTlrntLVo7KoySzwFS"
     }
   ],
   "unique_name": "Baile Maravilha",

@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Abracadabra (Cover)",
+        "url": "https://open.spotify.com/album/4LVOjWiWu1sgqOi33uYVAH"
+      },
+      "artists": [
+        {
+          "name": "Ave Mujica",
+          "url": "https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222293,
+      "name": "Abracadabra - Cover",
+      "url": "https://open.spotify.com/track/58WUQ6HgftHygkRMcEGN6c"
+    },
+    {
+      "album": {
         "name": "ACROSS THE WORLD",
         "url": "https://open.spotify.com/album/6YWZhGWLwLUnZssY6XkVQM"
       },
@@ -1198,7 +1216,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 245666,
       "name": "BLACK SHOUT - 10th anniv. ver.",
       "url": "https://open.spotify.com/track/1HfPagEyxGNlU0W1iwUTpr"
@@ -12083,6 +12101,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30ec\u30eb\u30e4",
+        "url": "https://open.spotify.com/album/6fYTtZcevykJrR9gmjNRa2"
+      },
+      "artists": [
+        {
+          "name": "Mai Kuraki",
+          "url": "https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207025,
+      "name": "\u30cf\u30ec\u30eb\u30e4",
+      "url": "https://open.spotify.com/track/6SG7or69xb3V5A3sVxSNOt"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30ec\u6674\u30ec\u30e6\u30ab\u30a4\uff08TV\u30a2\u30cb\u30e1\u300c\u6642\u3005\u30dc\u30bd\u30c3\u3068\u30ed\u30b7\u30a2\u8a9e\u3067\u30c7\u30ec\u308b\u96a3\u306e\u30a2\u30fc\u30ea\u30e3\u3055\u3093\u300d\u30a8\u30f3\u30c7\u30a3\u30f3\u30b0\u30c6\u30fc\u30de\uff09",
         "url": "https://open.spotify.com/album/3DDGxVLZh1qq1EnKxG1ANP"
       },
@@ -14826,7 +14862,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 228214,
       "name": "\u65b0\u6642\u4ee3 - \u30a6\u30bf from ONE PIECE FILM RED",
       "url": "https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25"

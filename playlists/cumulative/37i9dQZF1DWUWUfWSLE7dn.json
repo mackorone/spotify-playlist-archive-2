@@ -3055,6 +3055,32 @@
     },
     {
       "album": {
+        "name": "Prokofiev \u2014 Villa-Lobos \u2014 Poulenc",
+        "url": "https://open.spotify.com/album/1HV0ltze2Bks9WPo4USXY3"
+      },
+      "artists": [
+        {
+          "name": "Francis Poulenc",
+          "url": "https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY"
+        },
+        {
+          "name": "ORF Radio-Symphonieorchester Wien",
+          "url": "https://open.spotify.com/artist/76MQAIy2SmztmEBSfbl6xp"
+        },
+        {
+          "name": "Simone Menezes",
+          "url": "https://open.spotify.com/artist/4ubbGzHCtdRZstzzO5fbXj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434611,
+      "name": "Sinfonietta, FP 141: III. Andante cantabile",
+      "url": "https://open.spotify.com/track/6gzOZHkt1UCiqXwu0ZiSXx"
+    },
+    {
+      "album": {
         "name": "Sleeping In Seattle",
         "url": "https://open.spotify.com/album/3H9duc8pePa97f1AWFjuIi"
       },

@@ -6,8 +6,40 @@
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABOOCPyJa67E6iYPzNADBH/LKJP5vco",
+  "snapshot_id": "AABOWvU1Iq+g76jI+zww5bVWSKovZMpZ",
   "tracks": [
+    {
+      "added_at": "2026-09-25 07:23:13",
+      "album": {
+        "name": "Tango N\u2019Vectif",
+        "url": "https://open.spotify.com/album/5ntb4e9tsASy8K2LM68MMK"
+      },
+      "artists": [
+        {
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+        }
+      ],
+      "duration_ms": 356506,
+      "name": "Phi_1700 [u/v]",
+      "url": "https://open.spotify.com/track/7lgEdsbbGFAaVua1Z4Xa4Q"
+    },
+    {
+      "added_at": "2026-09-25 07:26:19",
+      "album": {
+        "name": "Oblique",
+        "url": "https://open.spotify.com/album/70V6rPyiSPc4pOrJErMI9J"
+      },
+      "artists": [
+        {
+          "name": "Ghost Dubs",
+          "url": "https://open.spotify.com/artist/0nEbx8lIbqkO08rKkXqQ05"
+        }
+      ],
+      "duration_ms": 380076,
+      "name": "Almost A Structure",
+      "url": "https://open.spotify.com/track/35m5aGvJv1vZElmwkOFwLg"
+    },
     {
       "added_at": "2026-09-24 12:21:34",
       "album": {
@@ -49,10 +81,26 @@
       "url": "https://open.spotify.com/track/7581l4ChlzSAdybje2MPiH"
     },
     {
-      "added_at": "2026-09-24 12:21:49",
+      "added_at": "2026-09-25 07:19:06",
       "album": {
-        "name": "Shake Sum Action",
-        "url": "https://open.spotify.com/album/6wGffsRVU0dQOfr9o8qLv8"
+        "name": "Have A Heart",
+        "url": "https://open.spotify.com/album/0j56jtwQ8dzgVW2ngCilCz"
+      },
+      "artists": [
+        {
+          "name": "The Klittens",
+          "url": "https://open.spotify.com/artist/1x52exMIN31XbiEfsG2kM2"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Zelda",
+      "url": "https://open.spotify.com/track/2Kb7V7B1jH5T8uMQmZ8c4z"
+    },
+    {
+      "added_at": "2026-09-25 07:15:25",
+      "album": {
+        "name": "Nice N' Rough",
+        "url": "https://open.spotify.com/album/2EdbulOXdl3dLd8Insuyhv"
       },
       "artists": [
         {
@@ -62,7 +110,7 @@
       ],
       "duration_ms": 114548,
       "name": "Shake Sum Action",
-      "url": "https://open.spotify.com/track/2kPiyPrnsM0nDDuyzJzqB8"
+      "url": "https://open.spotify.com/track/6b7JWrkwrMfizZo5sc59N0"
     },
     {
       "added_at": "2026-09-24 12:21:21",
@@ -79,6 +127,26 @@
       "duration_ms": 433933,
       "name": "Amalgamate",
       "url": "https://open.spotify.com/track/35RBX89Vhq0KhiJ8JtxWcj"
+    },
+    {
+      "added_at": "2026-09-25 07:23:39",
+      "album": {
+        "name": "Dropkick",
+        "url": "https://open.spotify.com/album/5XvocfA1JhgFgR10vYynn2"
+      },
+      "artists": [
+        {
+          "name": "Starktrooper",
+          "url": "https://open.spotify.com/artist/471B930GSdoFfaUYOY9OPm"
+        },
+        {
+          "name": "Starkey",
+          "url": "https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK"
+        }
+      ],
+      "duration_ms": 183428,
+      "name": "Dropkick",
+      "url": "https://open.spotify.com/track/3AAgU8wIU2BWaWvP8Uh8wY"
     },
     {
       "added_at": "2026-09-24 12:20:42",
@@ -117,10 +185,10 @@
       "url": "https://open.spotify.com/track/2mKzyiBPFzwcNRHjmY7yuL"
     },
     {
-      "added_at": "2026-09-24 12:46:46",
+      "added_at": "2026-09-25 07:29:23",
       "album": {
         "name": "Walk Ya Down",
-        "url": "https://open.spotify.com/album/7h0MS27tdPleRmDuj0TN76"
+        "url": "https://open.spotify.com/album/5FYRvNh3kMLdTJc28mI1OH"
       },
       "artists": [
         {
@@ -130,7 +198,23 @@
       ],
       "duration_ms": 204197,
       "name": "Walk Ya Down",
-      "url": "https://open.spotify.com/track/5HFZ1foVMlgMcMIHNz8hLQ"
+      "url": "https://open.spotify.com/track/5eXH9wkt5cvhwKSqXWFEUX"
+    },
+    {
+      "added_at": "2026-09-25 07:30:20",
+      "album": {
+        "name": "A L'Est",
+        "url": "https://open.spotify.com/album/0cLPjbnzQEHO1j6QhG3jvP"
+      },
+      "artists": [
+        {
+          "name": "Nuits Blanches",
+          "url": "https://open.spotify.com/artist/4RzgUSvdHhRcziTsdwTvN5"
+        }
+      ],
+      "duration_ms": 170823,
+      "name": "A L'Est",
+      "url": "https://open.spotify.com/track/5b5uxZaFfoTaA4sX3oNnvj"
     },
     {
       "added_at": "2026-09-24 12:45:02",
@@ -147,6 +231,22 @@
       "duration_ms": 193777,
       "name": "Arms Of None - Radio Edit",
       "url": "https://open.spotify.com/track/5xejcbSawbgnUGFThil3et"
+    },
+    {
+      "added_at": "2026-09-25 07:20:04",
+      "album": {
+        "name": "Tystnad",
+        "url": "https://open.spotify.com/album/2YkjsTGt8eAuKKK7lNzziG"
+      },
+      "artists": [
+        {
+          "name": "Flowers Must Die",
+          "url": "https://open.spotify.com/artist/27P1oHX79UqesBdT17z28I"
+        }
+      ],
+      "duration_ms": 412626,
+      "name": "Raka V\u00e4gen F\u00f6r Damo",
+      "url": "https://open.spotify.com/track/2zbGsxLJhOEMfAm75ZgPZH"
     },
     {
       "added_at": "2026-09-24 12:21:07",
@@ -169,10 +269,26 @@
       "url": "https://open.spotify.com/track/4Qcttp4k74GjF765dRdY3p"
     },
     {
-      "added_at": "2026-09-24 12:45:43",
+      "added_at": "2026-09-25 07:30:06",
       "album": {
-        "name": "The Village Beneath the Waves",
-        "url": "https://open.spotify.com/album/4fTk5GOCLt4OjMuIziAiLe"
+        "name": "Lions In Autumn",
+        "url": "https://open.spotify.com/album/2eJjxpBtSPDojCnKN1Q8z5"
+      },
+      "artists": [
+        {
+          "name": "Unmarry Me",
+          "url": "https://open.spotify.com/artist/62NBLzBNGWHVw0IyUUNkZU"
+        }
+      ],
+      "duration_ms": 269980,
+      "name": "Last Song",
+      "url": "https://open.spotify.com/track/2xpHhSkUnL8BFhnr9FjnhF"
+    },
+    {
+      "added_at": "2026-09-25 07:26:49",
+      "album": {
+        "name": "The Lost Villages",
+        "url": "https://open.spotify.com/album/19KOnPSx1hxfnAAIE7VV02"
       },
       "artists": [
         {
@@ -182,23 +298,23 @@
       ],
       "duration_ms": 135549,
       "name": "The Village Beneath the Waves",
-      "url": "https://open.spotify.com/track/7sJSy5JOR124UCRYqycALL"
+      "url": "https://open.spotify.com/track/4c7YA8Am53Ols1vYqNMyXL"
     },
     {
-      "added_at": "2026-09-24 12:47:10",
+      "added_at": "2026-09-25 07:22:04",
       "album": {
-        "name": "This Machine",
-        "url": "https://open.spotify.com/album/4rFIzHfoPqw153OLrz6927"
+        "name": "The Antigeist",
+        "url": "https://open.spotify.com/album/7h3UrFAzc3TVPceTmNxgF6"
       },
       "artists": [
         {
-          "name": "Warrington-Runcorn New Town Development Plan",
-          "url": "https://open.spotify.com/artist/0kYGmuTQJNE0BrbEx6lqXr"
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/563u9QHqMi7V53lg4joqMC"
         }
       ],
-      "duration_ms": 303939,
-      "name": "This Machine",
-      "url": "https://open.spotify.com/track/5C0SOENiaG6FQTGYKt4cRd"
+      "duration_ms": 248026,
+      "name": "Fragments",
+      "url": "https://open.spotify.com/track/4nnAnKwlYlAb4dHOxXsOz6"
     },
     {
       "added_at": "2026-09-24 12:49:21",
@@ -215,6 +331,38 @@
       "duration_ms": 301333,
       "name": "Drastika",
       "url": "https://open.spotify.com/track/4y59S8iiE8eMppm9G9Pskg"
+    },
+    {
+      "added_at": "2026-09-25 07:28:50",
+      "album": {
+        "name": "i love nature!",
+        "url": "https://open.spotify.com/album/0GtDAwAzcmpGAltjXz2WGm"
+      },
+      "artists": [
+        {
+          "name": "Big Flowers",
+          "url": "https://open.spotify.com/artist/0NhPSg4BoR15rey1i0orN9"
+        }
+      ],
+      "duration_ms": 143809,
+      "name": "the forest dies with its metronome",
+      "url": "https://open.spotify.com/track/6y1uez6g4YinWEExGGrtVS"
+    },
+    {
+      "added_at": "2026-09-24 12:47:10",
+      "album": {
+        "name": "This Machine",
+        "url": "https://open.spotify.com/album/4rFIzHfoPqw153OLrz6927"
+      },
+      "artists": [
+        {
+          "name": "Warrington-Runcorn New Town Development Plan",
+          "url": "https://open.spotify.com/artist/0kYGmuTQJNE0BrbEx6lqXr"
+        }
+      ],
+      "duration_ms": 303939,
+      "name": "This Machine",
+      "url": "https://open.spotify.com/track/5C0SOENiaG6FQTGYKt4cRd"
     },
     {
       "added_at": "2026-09-24 12:22:03",

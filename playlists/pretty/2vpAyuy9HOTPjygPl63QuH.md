@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > only the best tech house &amp; house music
 
-[tech house heaters](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,223 likes - 26 songs - 1 hr 23 min
+[tech house heaters](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 16,225 likes - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,5 +34,9 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 24 | [Wake Me Up](https://open.spotify.com/track/64sl5ldrq4VBIQpEDYJshj) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Wake Me Up](https://open.spotify.com/album/1JbGVyfJEbShrvppu1nvp5) | 3:17 |
 | 25 | [Lose Control](https://open.spotify.com/track/1byzNphM9BQUAX0Qzjk14D) | [Malcolm Zeller](https://open.spotify.com/artist/5LlefWbu524mwqs5ZmFuvm) | [Lose Control](https://open.spotify.com/album/0KdBgyXMeku6jt6tVkgPhi) | 3:04 |
 | 26 | [Back Of The Club](https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Back Of The Club](https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M) | 2:51 |
+| 27 | [Dirty Dancing \(feat\. LexBlaze\)](https://open.spotify.com/track/3Z171IH0jNBMZCZg4i99I0) | [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Dirty Dancing \(feat\. LexBlaze\)](https://open.spotify.com/album/6qvScpeWjjNJmAfWUioJx7) | 3:23 |
+| 28 | [In N Out](https://open.spotify.com/track/7MKOQvZjygiK8Jeeiz8rOz) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [In N Out / Dream Girl](https://open.spotify.com/album/3oWfS4NiXNfO3pKyDZzRRC) | 2:43 |
+| 29 | [BEATBOX ROCKER](https://open.spotify.com/track/08aUQAEtGYYOqcghUEuptT) | [ChaseWest](https://open.spotify.com/artist/4770WxUOyJMOJ1CHiZi2d6), [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [BEATBOX ROCKER](https://open.spotify.com/album/6XflqI473ed5nxc4Buig8H) | 3:36 |
+| 30 | [Flights](https://open.spotify.com/track/5DqKEPFdMGtJ6RqGfO3KOQ) | [Harry Thompson](https://open.spotify.com/artist/0gFymBOEsTR2D6zSWwyVlv), [Cris Orube](https://open.spotify.com/artist/1e6pDVeCVjYBcB2YLBx7Qv) | [Flights](https://open.spotify.com/album/5ztAPJWWzoPGuVHoyBmBPR) | 2:52 |
 
-Snapshot ID: `AAAom2VgGZ/PxkBr3m/ZevgbAu67JXmj`
+Snapshot ID: `AAAon7QDMJR0M8HhwPAKaqhcU1w/HC51`

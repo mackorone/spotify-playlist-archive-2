@@ -2,9 +2,9 @@
 
 ### [Skena Gres](https://open.spotify.com/playlist/37i9dQZF1DXdKj73Pzxb5r)
 
-> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Lilo Lilo
+> Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Inoya House
 
-582 songs - 1 day 13 hr 4 min
+584 songs - 1 day 13 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Brighter Summer Day](https://open.spotify.com/track/1liio51XbsAqtgoMtWUVW5) | [Well Whale](https://open.spotify.com/artist/1wlMD28jgD4UOQ47n1k1Rk) | [A Brighter Summer Day](https://open.spotify.com/album/15AuM0T0mwnIHWIJx6VU3K) | 3:15 | 2024-09-13 | 2024-11-29 |
 | [A Man, a Bottle, and a Prayer](https://open.spotify.com/track/6Bhtdq0Rut7PCWOpdRxQ0W) | [Morad](https://open.spotify.com/artist/5vxULw4cTsiMYOvH0jrbfj) | [The Fool](https://open.spotify.com/album/16h1902jiZgsdH3MN5DUoU) | 3:30 | 2024-10-24 | 2025-03-28 |
 | [A Shadow Haunts My Mind](https://open.spotify.com/track/6G9YE4s6kdXTf8fseBeSww) | [Nood Kink](https://open.spotify.com/artist/2GLo4KW2K9FeeJ67D2Hqt1) | [A Shadow Haunts My Mind](https://open.spotify.com/album/7M7qEP3shhxEaNmGhmtEoU) | 3:52 | 2026-06-26 |  |
+| [Abadi](https://open.spotify.com/track/6yiFgrTqVSCdPI8ylhZmKW) | [Inoya House](https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB) | [You Don't Know How Lucky You Are](https://open.spotify.com/album/6wOF9ynKiNCXYTUTpKzClQ) | 3:42 | 2026-09-25 |  |
 | [ACCIDENT](https://open.spotify.com/track/6IaG43KmrsLtp6YRWpkxsj) | [Bara Dita](https://open.spotify.com/artist/2lADVhtxaYCp3iVe4JSM2I) | [ACCIDENT](https://open.spotify.com/album/7fZfi9O4LBL2v7D9eRjwW5) | 3:02 | 2026-06-26 | 2026-08-22 |
 | [Adegan Pembuka](https://open.spotify.com/track/3xjAxg8U7O5qzuoaTNjzCR) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Adegan Pembuka](https://open.spotify.com/album/0lEmPmFryqrBXkAfY846JI) | 3:38 | 2024-06-27 | 2025-02-21 |
 | [Adore](https://open.spotify.com/track/4HOpUAUoFw50JvrcrSxi44) | [FARUZ](https://open.spotify.com/artist/46eConcY4MjCgE1vZSZkiO), [Roommate Project](https://open.spotify.com/artist/63Jce6aXdZbNtbMURY6dYS) | [Adore](https://open.spotify.com/album/7DzL89aasR7IpoE90BlYD5) | 3:40 | 2024-06-27 | 2024-07-19 |
@@ -264,7 +265,7 @@
 | [Karena \(Ku Tak Tahu\)](https://open.spotify.com/track/2ihXhGecD4eWgHORk03DLN) | [FILM.](https://open.spotify.com/artist/68nVbpdYAVfDDejsFw53k8) | [Manuskrip](https://open.spotify.com/album/6i5FXTvYFvPClPtyRj0Q7P) | 5:01 | 2026-07-03 |  |
 | [Kasian](https://open.spotify.com/track/1lbwSWK60uOB2QSdRLCt79) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi), [Sheryl Sheinafia](https://open.spotify.com/artist/1lfMGY3PXMmj6qgwiPqp06) | [Kasian](https://open.spotify.com/album/6Tx905hXzlQb53nciXKlXH) | 2:37 | 2024-06-27 | 2024-09-06 |
 | [Kau Juga Semua Orang](https://open.spotify.com/track/1kHwwUrZcYFJEvrHXs033s) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [Kau Juga Semua Orang](https://open.spotify.com/album/0adacAyhmRl1AxSOpKpLOc) | 3:15 | 2025-07-03 | 2025-10-03 |
-| [Kebosanan Usia Dini](https://open.spotify.com/track/3BWtIkxLAflGxVjEdxP2uB) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum) | [Fase I : Disonansi](https://open.spotify.com/album/2m40Y6zQKB6o8CbyhoUtKX) | 2:45 | 2026-06-05 |  |
+| [Kebosanan Usia Dini](https://open.spotify.com/track/3BWtIkxLAflGxVjEdxP2uB) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum), [ttturbo](https://open.spotify.com/artist/1bIDaru9s7vnfkubeG1VyG) | [Fase I : Disonansi](https://open.spotify.com/album/2m40Y6zQKB6o8CbyhoUtKX) | 2:45 | 2026-06-05 |  |
 | [Kejora Cinta](https://open.spotify.com/track/7FIonsrudRfTzhSmNTAJt9) | [Rangkai](https://open.spotify.com/artist/34tWvNR58jzZjh2ArZ4xxg), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Pekik Hening di Lantang Angan](https://open.spotify.com/album/17rIyaLllihrvHr9iMMcXv) | 3:56 | 2025-03-21 | 2025-06-13 |
 | [Kejora Walini](https://open.spotify.com/track/0IxNNrWTNviOK1rOdgIHoy) | [Maseta](https://open.spotify.com/artist/7BcNm58gfM6re7QMPFqlo6) | [Kejora Walini](https://open.spotify.com/album/09OTl0I2JUUvDKwVSjCU6n) | 6:13 | 2025-07-24 | 2025-10-03 |
 | [Kekasih Kota](https://open.spotify.com/track/4Ngdsb2TlpF9PS4fa9vcl9) | [Fis Duo](https://open.spotify.com/artist/1S1HBUme1d0j93zSkkMILE) | [Kekasih Kota](https://open.spotify.com/album/2CNWRq13QMqziGrVtdjVjh) | 8:36 | 2024-06-27 | 2024-07-05 |
@@ -528,6 +529,7 @@
 | [Teduh](https://open.spotify.com/track/0j1N2ILdZQkyUZvYH8HCNr) | [FOODOMORE](https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn) | [Teduh](https://open.spotify.com/album/6VvSI1VgsP7RfUS2LuLQhs) | 3:51 | 2024-07-25 | 2024-10-04 |
 | [Telisik](https://open.spotify.com/track/7BDrp62oI7QVtKC6OvMgm4) | [Danilla](https://open.spotify.com/artist/3jAIDtaFDAHtuP5qU6Hgny) | [Telisik \(lagi\) \[Deluxe Version\]](https://open.spotify.com/album/5apQM4mnZOw5l0ZUIiLhPi) | 2:42 | 2024-11-07 | 2025-09-26 |
 | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq) | 3:20 | 2024-11-07 | 2025-02-14 |
+| [Tell Me How](https://open.spotify.com/track/6KiBFkD6ETaPcN3FzLa27n) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [No Vacancy](https://open.spotify.com/album/2xSKUVZo7AT9X7PfSLtHnV) | 3:13 | 2026-09-25 |  |
 | [Tenggelam](https://open.spotify.com/track/1SZMxDGWDiKa9Jb5van3nA) | [Flowr Pit](https://open.spotify.com/artist/3FOqYio7C8ihO8MciypqLv) | [Super Possible](https://open.spotify.com/album/28y4KlQklqbpzWvjJtTmUU) | 4:02 | 2026-01-23 | 2026-06-26 |
 | [Tentang Dunia dan Masa Muda](https://open.spotify.com/track/4gHRbKrk17CxWEEvEMLNpV) | [Turbokidz](https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum), [ttturbo](https://open.spotify.com/artist/1bIDaru9s7vnfkubeG1VyG) | [Tentang Dunia dan Masa Muda](https://open.spotify.com/album/6OIxujlnQ7BUq9q1J4zEqJ) | 4:15 | 2026-04-17 |  |
 | [Tentang Mimpi Berupa Pelangi](https://open.spotify.com/track/7oi973e6bB0mgi6vszLdKN) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Semburat](https://open.spotify.com/album/3mhN7GdnANPCYy3Jh7HgFC) | 4:21 | 2026-03-05 | 2026-05-23 |

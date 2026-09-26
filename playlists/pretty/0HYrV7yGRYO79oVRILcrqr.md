@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,903 likes - 108 songs - 7 hr 2 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,902 likes - 110 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 106 | [Possible](https://open.spotify.com/track/4mdD2qrnobannLKENWVMDU) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Songs for Then & Now](https://open.spotify.com/album/16w9zdNL64AwkIlGFo4FRj) | 3:29 |
 | 107 | [Sommarn i mitt blod](https://open.spotify.com/track/6iBP2rjjCJcqt7ePYz9ErV) | [FALK](https://open.spotify.com/artist/1VvF9lnZujLwBlhfnA2RQr) | [Sommarn i mitt blod](https://open.spotify.com/album/3pnLECNV3u5d0vvzOCZgf2) | 3:46 |
 | 108 | [Down By The Riverwalk](https://open.spotify.com/track/70JWZTozKvr338lVmcz9or) | [Dane Walden](https://open.spotify.com/artist/2sjjV36oWAkKZhcoNomT6m) | [Down By The Riverwalk](https://open.spotify.com/album/6TwSKoOxgFhunYbSDNRFsn) | 4:25 |
+| 109 | [I'm Not Him](https://open.spotify.com/track/32zbpf0ODCs4SaorEgDlc0) | [Quentin Wallace](https://open.spotify.com/artist/4ZsvhCZ5uKfGDtbq0a4SGh) | [I'm Not Him](https://open.spotify.com/album/2S3Grto0yAldonBiEIUXdM) | 2:40 |
+| 110 | [Paneka](https://open.spotify.com/track/68A3DFapZmoaBpNGPlD34O) | [HAYZEDMOANA](https://open.spotify.com/artist/1kfhQKG9G8nk9n5d7SGCSp) | [Paneka](https://open.spotify.com/album/73YbZ2e7RkFicCdu0GASfF) | 2:16 |
 
-Snapshot ID: `AAAMmfz8oK8vEc5zyd8tYCw4UHg+J3QV`
+Snapshot ID: `AAAMm7yHCetnPuPnZVLbF5x9E79NV8ZT`

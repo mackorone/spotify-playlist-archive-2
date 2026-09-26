@@ -1,13 +1,45 @@
 {
   "description": "\u062a\u062f\u0648\u0651\u0631 \u0623\u062c\u062f\u062f \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629\u061f \u0648\u0635\u0644\u062a \u062e\u064a\u0631",
-  "num_followers": 47690,
+  "num_followers": 47707,
   "original_name": "\u062e\u0644\u064a\u062c\u064a \u062c\u062f\u064a\u062f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAASlFIFHheZpZh77Jqe0uxbwiqD5",
+  "snapshot_id": "AAAAANxGnSK7g0ajZu0NSHakKhZH43LT",
   "tracks": [
+    {
+      "added_at": "2026-09-25 08:20:31",
+      "album": {
+        "name": "\u062a\u0644\u0627\u062d\u0642",
+        "url": "https://open.spotify.com/album/3DnYS6m3og2iZkZcg9SGVU"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "duration_ms": 120757,
+      "name": "\u062a\u0644\u0627\u062d\u0642",
+      "url": "https://open.spotify.com/track/0wK2a0f0EaYtY5g66BCirt"
+    },
+    {
+      "added_at": "2026-09-25 08:20:31",
+      "album": {
+        "name": "\u0644\u064a\u062a \u0627\u0644\u0628\u0634\u0631 \u0643\u0644\u0647\u0645 \u0633\u0644\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/412gKALTCMNMN5Ai9B7yTS"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Abdu",
+          "url": "https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB"
+        }
+      ],
+      "duration_ms": 297739,
+      "name": "\u0644\u064a\u062a \u0627\u0644\u0628\u0634\u0631 \u0643\u0644\u0647\u0645 \u0633\u0644\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/40kvbQ7mlvOGAVqPEjEJsC"
+    },
     {
       "added_at": "2026-09-10 12:36:24",
       "album": {

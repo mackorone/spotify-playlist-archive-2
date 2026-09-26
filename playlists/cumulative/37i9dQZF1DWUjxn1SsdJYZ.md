@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Lisi
 
-1,678 songs - 3 day 6 hr 9 min
+1,679 songs - 3 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1059,6 +1059,7 @@
 | [One and Only](https://open.spotify.com/track/3eYFd2mVhRTPlPxD8GTqwH) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [One and Only](https://open.spotify.com/album/5QB7KUTJJwy6k4pAmsdRWl) | 2:05 | 2024-07-25 | 2024-11-29 |
 | [One Life \(feat\. Nauti\)](https://open.spotify.com/track/2utN0NpJOSx9VgDIt6iO8h) | [Stan Walker](https://open.spotify.com/artist/7fRw4ouudxR1jHgyrTIKuY), [Nauti](https://open.spotify.com/artist/092KdpZjWD8zs3asgQSwqQ) | [One Life \(feat\. Nauti\)](https://open.spotify.com/album/64JULcqRr5f5y2AUdNZtjz) | 3:00 | 2026-01-29 | 2026-04-17 |
 | [ONE OF A KIND](https://open.spotify.com/track/3wUQIkYcuNKtK8WYUdBqLt) | [DAY1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [ONE OF A KIND](https://open.spotify.com/album/1nT9x4bQpEavlOkt73E9YW) | 3:00 | 2026-08-20 |  |
+| [One Of A Kind](https://open.spotify.com/track/4LjZ6kDtVZj4l2vCcTufkG) | [SHY](https://open.spotify.com/artist/0f9jGgLW6UkYdbhzL4sIZQ), [Eliezer](https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y) | [One Of A Kind](https://open.spotify.com/album/6eiF1CawkNbaWNF36XTbdc) | 2:24 | 2026-09-24 |  |
 | [One of the Best](https://open.spotify.com/track/5DYSXdN7ZNVhLricOEHC2N) | [That Kid Kearve](https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR) | [Independent](https://open.spotify.com/album/1r5LnMShpbHLrgLQgTk8fS) | 4:06 | 2023-05-04 | 2023-08-25 |
 | [One Time](https://open.spotify.com/track/1j8G9BQBlP6uiwzHdhEjSt) | [BOY $COUT GATSBY](https://open.spotify.com/artist/5AZH6yzLc1YbNKdB7Db179), [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [One Time](https://open.spotify.com/album/0KgbaxcKybG0lm3l1zRLUC) | 2:39 | 2023-05-18 | 2023-09-15 |
 | [OneFiftySix](https://open.spotify.com/track/0DFqnJth2R095rHyUYV5WJ) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [OneFiftySix](https://open.spotify.com/album/10hbqvq12fb3EQYwSVijj6) | 1:43 | 2025-06-19 | 2025-10-24 |

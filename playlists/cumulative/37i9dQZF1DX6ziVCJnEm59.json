@@ -283,6 +283,24 @@
     },
     {
       "album": {
+        "name": "The Gem",
+        "url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221215,
+      "name": "Angel Vision",
+      "url": "https://open.spotify.com/track/3bstintYmtTAA8fbjoUerL"
+    },
+    {
+      "album": {
         "name": "The Simple Fear",
         "url": "https://open.spotify.com/album/3W658jscMEy2mNnPXVFZRP"
       },

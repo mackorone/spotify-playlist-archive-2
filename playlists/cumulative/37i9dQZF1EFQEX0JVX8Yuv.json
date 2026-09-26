@@ -1571,6 +1571,24 @@
     },
     {
       "album": {
+        "name": "Detour (Rare N' Deluxe)",
+        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175387,
+      "name": "Like a Cherry",
+      "url": "https://open.spotify.com/track/3ED9Y8Dm03kf4XiV7Ywkn3"
+    },
+    {
+      "album": {
         "name": "Colour Vision (Deluxe)",
         "url": "https://open.spotify.com/album/4fbXC8lFSdtcvXX6SM6RO6"
       },
@@ -2646,6 +2664,24 @@
       "duration_ms": 110732,
       "name": "Whale Cock",
       "url": "https://open.spotify.com/track/1lUPmRjVixFPr0pZWrtFKW"
+    },
+    {
+      "album": {
+        "name": "Detour (Rare N' Deluxe)",
+        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153605,
+      "name": "What a Night",
+      "url": "https://open.spotify.com/track/2nxdPYdIQQb0APnSLr5UHT"
     },
     {
       "album": {

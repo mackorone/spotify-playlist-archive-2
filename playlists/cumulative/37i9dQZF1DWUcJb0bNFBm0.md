@@ -4,7 +4,7 @@
 
 > Noise distortion amongst the hazy clouds ☁️  Cover: Luby Sparks \(Japan\)
 
-335 songs - 23 hr 6 min
+338 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Candy \(Flashback\)](https://open.spotify.com/track/2pJ0He1anjlfESMrPLwHWv) | [Acidclank](https://open.spotify.com/artist/5F0j8hQsmTuCkgIkb0beLc) | [Candy \(Flashback\)](https://open.spotify.com/album/070X5WUhS7znCajGiJ7kMU) | 3:14 | 2024-06-27 | 2024-10-11 |
 | [Cats, Cats and Cats Again](https://open.spotify.com/track/20XKgs3K7NhhmLloOYc1Rb) | [Cosmic Child](https://open.spotify.com/artist/0AbaYCVaRtwCSxFuRCZHjr) | [Blue](https://open.spotify.com/album/5hWisNpBSw9AGfbDL7bZNf) | 4:58 | 2024-06-27 | 2025-07-25 |
 | [Chasing Time](https://open.spotify.com/track/2BV6kBmNvphHboUgcDZhRP) | [Dodo Museum](https://open.spotify.com/artist/0hImZdHwKiM7ftmeGUNQwX) | [Chasing Time](https://open.spotify.com/album/6ZzBZpjCqmMm7PBMtrPvgG) | 3:14 | 2024-06-27 | 2024-12-05 |
-| [cinema paradiso](https://open.spotify.com/track/5zlJEFexSDmVw6PEDwNJZf) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kimi wo omotte iru](https://open.spotify.com/album/0JeDfH9IBw1tWdXIekSq5d) | 4:22 | 2026-01-22 |  |
+| [cinema paradiso](https://open.spotify.com/track/5zlJEFexSDmVw6PEDwNJZf) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kimi wo omotte iru](https://open.spotify.com/album/0JeDfH9IBw1tWdXIekSq5d) | 4:22 | 2026-01-22 | 2026-09-26 |
 | [Citylights and Moonlight](https://open.spotify.com/track/3qHYCSTTxPEbJkFZA5oFWe) | [Yüksen Buyers House](https://open.spotify.com/artist/02lJCDR0cRulPubuzOUt0l) | [Citylights and Moonlight](https://open.spotify.com/album/7LNsLMz985YhgFQZmGBSjJ) | 4:39 | 2025-09-19 | 2025-10-10 |
 | [COBALT](https://open.spotify.com/track/27ji9P5NbrjDkkMIRHMnpI) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [COBALT](https://open.spotify.com/album/4q0qPLa0ctUIyXXMkqq5wl) | 4:32 | 2025-10-09 | 2026-04-24 |
 | [Cold Memories](https://open.spotify.com/track/0FOvxRu8yGJDZCTnq2URja) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [Cold Memories](https://open.spotify.com/album/5YTJMJamSw4YCZ2Iq4dXAS) | 3:58 | 2025-07-10 |  |
@@ -168,7 +168,7 @@
 | [Malaise](https://open.spotify.com/track/68d70gUAWGHroKOssw94kj) | [Rebecca Theodora](https://open.spotify.com/artist/3gOsk0RYhnK0G4rhaCmvef) | [Malaise](https://open.spotify.com/album/6eKkUNG5HF10UtnSqN5oyt) | 5:31 | 2024-06-27 | 2025-10-17 |
 | [Maybe Somewhere](https://open.spotify.com/track/1MMQVrSaKBllpbepX3zCho) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Sky Hundred](https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd) | 5:16 | 2024-08-26 | 2024-11-08 |
 | [Mei](https://open.spotify.com/track/6lBAU9mz4G9Gt8CQCzudnO) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Hope Hope Hope](https://open.spotify.com/album/5C0ZgBk5cZxBrwetX6Xgz2) | 3:42 | 2024-06-27 | 2024-12-05 |
-| [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 | 2025-09-11 |  |
+| [metro](https://open.spotify.com/track/5HwvwLQCtv2BTAHSC1mCgP) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [kurayamisaka yori ai wo komete](https://open.spotify.com/album/3k5hd3HIF4JDYfxQICHnhP) | 3:58 | 2025-09-11 | 2026-09-26 |
 | [Mikael](https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Mikael](https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0) | 4:25 | 2024-11-08 | 2024-12-05 |
 | [Mild fever](https://open.spotify.com/track/22LsjEA6Xt0oOuu7naYAZm) | [Confined White](https://open.spotify.com/artist/0uZj3O27EtR6U7HlTFAGey) | [Mild fever](https://open.spotify.com/album/1vSGN63sZOQMquBpTbDHAu) | 3:11 | 2026-08-13 |  |
 | [milk](https://open.spotify.com/track/14wwSi8A7ruwr27w22vTq9) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [milk](https://open.spotify.com/album/3kCilwGOwzIxgkOnyaBU0M) | 4:35 | 2025-08-14 | 2025-10-10 |
@@ -179,6 +179,7 @@
 | [Momentrail](https://open.spotify.com/track/7gFfNEAVG4Rf0zXIagxko5) | [softsurf](https://open.spotify.com/artist/1vPcqBxbcs5XnSQ0EXPS7N) | [Momentrail](https://open.spotify.com/album/0zSxBBLf5k5U26wtoLKHKA) | 4:08 | 2025-01-16 | 2025-10-24 |
 | [momo](https://open.spotify.com/track/0Qgx8ddjiy5fRWOqyHGfRk) | [Kuyuru](https://open.spotify.com/artist/0r0X62o6j7jbo5ZU4qZf52) | [momo](https://open.spotify.com/album/5mEv16oXtABPEjkbosvuEa) | 7:33 | 2025-01-16 | 2025-08-01 |
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2024-06-27 | 2025-10-10 |
+| [Morrison's Gifts 莫里森的禮物](https://open.spotify.com/track/4gUTvXvlZOAcuYrcbiJVEg) | [OHAN](https://open.spotify.com/artist/4Z5HJS9e9zr2DWHaNGMJX4), [KangHmm](https://open.spotify.com/artist/6OcW4m07tZh9GBXdFi8hRJ) | [Morrison's Gifts 莫里森的禮物](https://open.spotify.com/album/1DNZrxBLyVnvLGdVr4xCXC) | 4:07 | 2026-09-25 |  |
 | [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-06-27 | 2024-12-05 |
 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 | 2024-12-04 | 2025-05-02 |
 | [My Beautiful Girl](https://open.spotify.com/track/5SwTvNlpZS0pBznjHiyEyY) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Rarely Do I Dream](https://open.spotify.com/album/3Wxbhy7dIYmU99V4ZQYvHS) | 2:14 | 2025-10-09 | 2026-04-24 |
@@ -227,6 +228,7 @@
 | [Pudar](https://open.spotify.com/track/6UlVDJKmiqJ29Ut5lutkpX) | [eyesun](https://open.spotify.com/artist/29PELbih4pFV1CfXeHfrXF) | [Feel Something](https://open.spotify.com/album/0TW6qkK2DLqtiDBDceTTyv) | 5:28 | 2024-06-27 | 2024-12-05 |
 | [Purest Tears of Middle\-Aged Loser](https://open.spotify.com/track/5Krq7b6qE84seOkF7TWIC9) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Purest Tears of Middle\-Aged Loser](https://open.spotify.com/album/398zPRYelEvVNjC6M7xrzU) | 7:23 | 2025-04-03 | 2025-10-10 |
 | [Realize](https://open.spotify.com/track/7qVKgHJDWENFmqtnvr6Tzq) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [Fault](https://open.spotify.com/album/4vl7hn0TDJg3GJPeAOGFhS) | 3:55 | 2024-06-27 | 2024-08-09 |
+| [Remaining](https://open.spotify.com/track/33ELi9WmNVCWwkrSNby6dz) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Single Mind Worst Thought](https://open.spotify.com/album/6KK5thxoELIqPhFfWm2681) | 5:17 | 2026-09-25 |  |
 | [retrograde](https://open.spotify.com/track/6PCP233czm2r4cFnsuN1lR) | [don't drown!](https://open.spotify.com/artist/4O39jkB3iGwG3PrCsWrAm2) | [you are not real](https://open.spotify.com/album/6NVZkMmV3yMg8bHLV57sSB) | 4:12 | 2025-11-14 |  |
 | [Reunion Song](https://open.spotify.com/track/0vfSaylAxEZV172XA5RfdV) | [Juniper Care](https://open.spotify.com/artist/4ffwSoRZneOGCoISgyeaoa) | [Reunion Song](https://open.spotify.com/album/2M2r0MC6PNElnzIjq8GINA) | 3:50 | 2024-10-17 | 2024-12-05 |
 | [Rhinoceros \- Remastered 2011](https://open.spotify.com/track/1nT1WwzjraW3Iu8Pa8wXEi) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Gish \(Deluxe Edition\)](https://open.spotify.com/album/14gI3ml0wxlgVrX1ve8zyJ) | 6:30 | 2025-10-09 | 2026-04-24 |
@@ -242,7 +244,7 @@
 | [Secrets](https://open.spotify.com/track/6hawTk0rC1XZ3Q85VPxNdz) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Secrets](https://open.spotify.com/album/5Haih9CAPJC4F79wF9ubwo) | 4:41 | 2025-10-09 | 2026-04-24 |
 | [See you](https://open.spotify.com/track/3mnV82oFMN5aiPtk724PLP) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [See you](https://open.spotify.com/album/0QQoK8TmuWtIhks9ARvVQA) | 3:56 | 2026-09-24 |  |
 | [Self Bondage](https://open.spotify.com/track/4xYYiEkuaDuoFqw5NFZSlQ) | [Sunlotus](https://open.spotify.com/artist/27aLaxfy7huYKyQuLTlHzn) | [Self Bondage](https://open.spotify.com/album/4WKZHnxrsCCGUBS5Z1jXqN) | 5:05 | 2025-08-07 | 2025-10-10 |
-| [Self Destruct & Scott Emotion \(You Watched Myself Getting Destructed\)](https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [It's Terrifying and It's a Shame](https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo) | 2:38 | 2025-02-20 |  |
+| [Self Destruct & Scott Emotion \(You Watched Myself Getting Destructed\)](https://open.spotify.com/track/4bXdndlfAgNPbbtMjspH1G) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [It's Terrifying and It's a Shame](https://open.spotify.com/album/5n9ErslFIqyWYS2zzKA2Bo) | 2:38 | 2025-02-20 | 2026-09-26 |
 | [Selfless Love](https://open.spotify.com/track/5cNKS6aFCnHinqC0nuz0f7) | [dansa med dig](https://open.spotify.com/artist/2wassa3NRZvCqj8d5JeJG1) | [Selfless Love](https://open.spotify.com/album/0QmA8v23gbzewo6rs3FWQM) | 3:46 | 2024-10-10 | 2024-12-05 |
 | [Sent Away](https://open.spotify.com/track/6wJfypJ9DIlIFjPyc3tGAj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Sent Away](https://open.spotify.com/album/7M0krbTMzfkOJCMnabZwBL) | 6:00 | 2024-06-27 | 2024-12-05 |
 | [Sesak](https://open.spotify.com/track/3x90drPC5kO0bprOfsQ5YR) | [Jirapah](https://open.spotify.com/artist/1ddNHmVJlB4hNba6tamgQG) | [Sesak](https://open.spotify.com/album/37IuuXyORVL5LmEfh1b67V) | 2:53 | 2024-08-15 | 2024-12-05 |
@@ -270,6 +272,7 @@
 | [Strawberry Jam](https://open.spotify.com/track/4i7p00tYpD0EP4z8x6gV3Q) | [DOOR PLANT](https://open.spotify.com/artist/2MhSGHf6gIMHkHPNs1W1zU) | [PoP!? Plant](https://open.spotify.com/album/4f0ysLulasfBEBuMKAg1eQ) | 2:45 | 2024-12-04 | 2025-10-24 |
 | [Sugarcube](https://open.spotify.com/track/50AOo2YdSLRueFbqzIo8ry) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5dENCW8tZkcwtsZOWWrkCm) | 3:21 | 2025-10-09 | 2026-04-24 |
 | [Summer](https://open.spotify.com/track/6KfBtlxnO1lwrvySAoynQD) | [feelslikeyou](https://open.spotify.com/artist/7lemqCn2A256qHn0D4YX0A) | [Haze / Summer](https://open.spotify.com/album/7bK4irNUSn6AwdmuVsPMkd) | 2:46 | 2024-06-27 | 2024-10-11 |
+| [summer film](https://open.spotify.com/track/22XNz0VJZKVgM4CpbMLD0x) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [summer film](https://open.spotify.com/album/1NE7XgXb1YQFCyco6AsEmC) | 5:49 | 2026-09-25 |  |
 | [Summer Rain](https://open.spotify.com/track/7dYKr8N5BrDE24FAMTMFaz) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw) | [Same Old/Same New](https://open.spotify.com/album/2J74cXqTgYBd2aqTFmD4ji) | 4:27 | 2025-07-31 |  |
 | [Summer's Gone](https://open.spotify.com/track/09kfpbEo1nhfL5IOiREhcA) | [honeydip](https://open.spotify.com/artist/2UWMhQk46Coymimh2Hky4m) | [Portable Audio Science](https://open.spotify.com/album/4x7pCru8gVhlJ7etzTExVP) | 7:55 | 2026-02-20 |  |
 | [Summertime Has Come](https://open.spotify.com/track/5mUmvuw7jUcSYwa7NiGcxT) | [Lucys Meet Dopamine](https://open.spotify.com/artist/5MLCXwFSeVrl4A1aE1Z9F5) | [25​\-​35​°​C](https://open.spotify.com/album/1jo7RgR3mTETN56hjaFW9B) | 6:15 | 2024-06-27 | 2024-10-11 |

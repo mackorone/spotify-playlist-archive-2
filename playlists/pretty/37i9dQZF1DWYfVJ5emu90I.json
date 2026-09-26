@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26722,
+  "num_followers": 26725,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -287,26 +287,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Magna Scale",
-        "url": "https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL"
-      },
-      "artists": [
-        {
-          "name": "Yvng Patra",
-          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
-        },
-        {
-          "name": "Oddy lozy",
-          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
-        }
-      ],
-      "duration_ms": 141724,
-      "name": "B.G.P",
-      "url": "https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "Red Bull 64 Bars",
         "url": "https://open.spotify.com/album/7cD1fMnf3CH70hNAYj57zX"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 215525,
       "name": "Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/7MJL0Vc4D5ux4ZsHGFXjZ8"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
+        "name": "Magna Scale",
+        "url": "https://open.spotify.com/album/5lVZIHBiqpK53vc7s2RnCL"
+      },
+      "artists": [
+        {
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "Oddy lozy",
+          "url": "https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb"
+        }
+      ],
+      "duration_ms": 141724,
+      "name": "B.G.P",
+      "url": "https://open.spotify.com/track/2MF3lWVhYZ7BH3E3fVqUXs"
     },
     {
       "added_at": "2026-08-19 00:34:26",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Who ride wit us",
-        "url": "https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8"
-      },
-      "artists": [
-        {
-          "name": "Bank.Somsaart",
-          "url": "https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "FFNM",
-      "url": "https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "KJ SEASON2",
         "url": "https://open.spotify.com/album/28iWqw8fyWr0ls4qUzf2I0"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 122853,
       "name": "Talk 2 Me",
       "url": "https://open.spotify.com/track/62mAKN9Ntrp9MFjBrbuTps"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
+        "name": "Who ride wit us",
+        "url": "https://open.spotify.com/album/1uJQ4jsQqIJb7EaWwhtvA8"
+      },
+      "artists": [
+        {
+          "name": "Bank.Somsaart",
+          "url": "https://open.spotify.com/artist/5sBMNCNuKL52Z5gS066PJT"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "FFNM",
+      "url": "https://open.spotify.com/track/3EPKoSpFOUULrkUEQRcrMF"
     },
     {
       "added_at": "2026-08-19 00:34:26",
@@ -1007,18 +1007,34 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9"
+        "name": "Best Way 2 Die (feat. Jin Dogg, LEX & YOUNGBONG)",
+        "url": "https://open.spotify.com/album/0IPHOMKradmfeCU67d5pSZ"
       },
       "artists": [
         {
-          "name": "D3adStock",
-          "url": "https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd"
+          "name": "DJ CHARI",
+          "url": "https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p"
+        },
+        {
+          "name": "DJ TATSUKI",
+          "url": "https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        },
+        {
+          "name": "YOUNGBONG",
+          "url": "https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1"
         }
       ],
-      "duration_ms": 110500,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM"
+      "duration_ms": 214602,
+      "name": "Best Way 2 Die (feat. Jin Dogg, LEX & YOUNGBONG)",
+      "url": "https://open.spotify.com/track/1ZLqz5HjWXvx5Tjq8z8DZB"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

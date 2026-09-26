@@ -4,7 +4,7 @@
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-497 songs - 1 day 8 hr 59 min
+500 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [New Song \- Pete Vocal Version](https://open.spotify.com/track/79rkfGjPoYuUKPt4DsaDQp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [New Song \(Pete Vocal Version\)](https://open.spotify.com/album/2c4vUP2C3NIB5akiXef06H) | 4:20 | 2025-09-08 |  |
 | [No Moon At All](https://open.spotify.com/track/5t4SdjnXGHuWyF7G18FtFB) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [No Moon At All](https://open.spotify.com/album/1wJ5GS7rxZVnsWt0AqMf74) | 2:18 | 2024-10-18 |  |
 | [No One Knows](https://open.spotify.com/track/6y20BV5L33R8YXM0YuI38N) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/4w3NeXtywU398NYW4903rY) | 4:38 | 2023-10-16 | 2024-05-24 |
+| [No One Knows Us](https://open.spotify.com/track/5rA6phTocYGASmSjRliM9O) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Returning To Myself \(Sad Gay Version\)](https://open.spotify.com/album/0XxNrO1OVqVBQdPoXz8pdz) | 4:23 | 2026-09-25 |  |
 | [No Return \- Extended Version From The Original Series “Yellowjackets”](https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [No Return \(Extended Version From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8) | 3:04 | 2024-05-23 |  |
 | [Norwegian Wood \(This Bird Has Flown\) \[Second Version \- Take 2\]](https://open.spotify.com/track/3CYJDTCIZ1ehpqwUtkolFU) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Norwegian Wood \(This Bird Has Flown\) \[Second Version \- Take 2\]](https://open.spotify.com/album/3ul1EiGojNX430uixmReAp) | 2:20 | 2026-09-18 |  |
 | [Nothin'](https://open.spotify.com/track/49u9MlLKXc0NLg6m775ecd) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Nothin'](https://open.spotify.com/album/6BieAhfPQAUAISRIaNP5ER) | 4:23 | 2025-12-06 |  |
@@ -367,6 +368,7 @@
 | [Shame, Shame, Shame](https://open.spotify.com/track/0l5i2lHBBB1UqFg44HSMuF) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Shame, Shame, Shame](https://open.spotify.com/album/35gGO0L9us7lpianyn8QwQ) | 4:05 | 2025-09-26 |  |
 | [She Keeps Me Up](https://open.spotify.com/track/6I0ivNW5YryeC3GQn56NAy) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [No Fixed Address](https://open.spotify.com/album/2mepXKJlgU28VBwkSXjWfY) | 3:57 | 2023-10-16 | 2024-05-24 |
 | [Show Me Love](https://open.spotify.com/track/3ZOmz7Ifs4nejDbO6EWQQV) | [Jann Arden](https://open.spotify.com/artist/1aftUCES5zD5xXI7O9ZF9F) | [Show Me Love](https://open.spotify.com/album/2LbH0skad1KF8OOmwzAQtA) | 4:07 | 2025-01-10 |  |
+| [Silencio](https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Silencio](https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB) | 2:35 | 2026-09-25 |  |
 | [Silent Night \- Live At Knox Church, Stratford, Ontario / 2021](https://open.spotify.com/track/101cKHyvczyACPwU2B94cn) | [Loreena McKennitt](https://open.spotify.com/artist/1JdeDdujDbS6ZeSlkXqx3a) | [Under A Winter's Moon \(Expanded Edition\)](https://open.spotify.com/album/20DqT1aA6l0v1oMRWnBgko) | 3:18 | 2025-11-21 | 2026-01-15 |
 | [Sledgehammer \- Remastered](https://open.spotify.com/track/2CfavwjTJrKGxy9fiU4otq) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [So \(Special Edition\)](https://open.spotify.com/album/6NuXor1nnxUMgx4rF592Js) | 5:13 | 2024-05-23 |  |
 | [Sloop John B \- Carl Sings First Verse](https://open.spotify.com/track/18JlT3Imlq4n8Pu6iR4r81) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Sloop John B](https://open.spotify.com/album/1quacJMkqi95OwJ4Q182rq) | 3:05 | 2026-03-27 |  |
@@ -443,6 +445,7 @@
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2024-05-23 |  |
 | [Train Kept A Rollin' \- Session Take](https://open.spotify.com/track/4hMkM62LFczYVUkZPa26Yh) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Aerosmith \(Legendary Expanded Edition\)](https://open.spotify.com/album/3wzh9sJLntyUgXBtLcjT20) | 3:36 | 2026-03-20 |  |
 | [Trenchtown Rock \- Live At The Roxy Theatre](https://open.spotify.com/track/6AN6ciH6HnEc9DviPYabny) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Live At The Roxy \- The Complete Concert](https://open.spotify.com/album/4N3FRWAVeD4mWSgIpitOVw) | 4:55 | 2026-08-28 |  |
+| [Trouble Every Day \- 1966 Pre\-Master Mix](https://open.spotify.com/track/0Opjv5HYpPHeBg6T3yok3C) | [The Mothers Of Invention](https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL), [Frank Zappa](https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN) | [Freak Out! \(60th Anniversary\)](https://open.spotify.com/album/6IMRXGiuck95q5i1p3cZuf) | 5:54 | 2026-09-25 |  |
 | [True Colors](https://open.spotify.com/track/2QmLWxA1wy1Si2uojYby1q) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [True Colors](https://open.spotify.com/album/2bxIY0usnXnh7MCdEhMCL5) | 3:39 | 2026-06-12 |  |
 | [True Love Will Find You In The End](https://open.spotify.com/track/3t5TmZKdel3L8p8GHkZ226) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Everybody's Gotta Learn Sometime](https://open.spotify.com/album/1C6ZhZjeYzIE7pPoRGABXJ) | 2:08 | 2026-01-30 |  |
 | [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 | 2026-04-03 |  |

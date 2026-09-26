@@ -1247,6 +1247,28 @@
     },
     {
       "album": {
+        "name": "afterwards",
+        "url": "https://open.spotify.com/album/1ZVr5Gg3nZnI3b9ZaOFYDg"
+      },
+      "artists": [
+        {
+          "name": "Sleepermane",
+          "url": "https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI"
+        },
+        {
+          "name": "dennisivnvc",
+          "url": "https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148833,
+      "name": "afterwards",
+      "url": "https://open.spotify.com/track/6AXY179sSZuM44kwHFTG5M"
+    },
+    {
+      "album": {
         "name": "Agua",
         "url": "https://open.spotify.com/album/1VogeLO8wSlf6cL9YXGWo5"
       },
@@ -3230,6 +3252,28 @@
       "duration_ms": 162000,
       "name": "BeatN Kiks",
       "url": "https://open.spotify.com/track/2GLpUNITwUeiTAbmeviyTZ"
+    },
+    {
+      "album": {
+        "name": "Beaurivage",
+        "url": "https://open.spotify.com/album/3KiZAWJn8r7CgxCP2N8TOb"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        },
+        {
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136838,
+      "name": "Beaurivage",
+      "url": "https://open.spotify.com/track/69D302RWKyFcVDWrBCK9e8"
     },
     {
       "album": {
@@ -14737,6 +14781,24 @@
     },
     {
       "album": {
+        "name": "golfing",
+        "url": "https://open.spotify.com/album/1ON8g8wrMxEdAzsPVvPmLi"
+      },
+      "artists": [
+        {
+          "name": "wester bunny",
+          "url": "https://open.spotify.com/artist/5lcRjY5XZM2RORK6njP6Gy"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149495,
+      "name": "golfing",
+      "url": "https://open.spotify.com/track/4NSSbzKsb1dzy4S500O0gs"
+    },
+    {
+      "album": {
         "name": "skirt & lofi",
         "url": "https://open.spotify.com/album/1ZA441yOuzMQ87O222grOe"
       },
@@ -17360,7 +17422,7 @@
       ],
       "date_added": "2025-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 150706,
       "name": "if you do",
       "url": "https://open.spotify.com/track/5R4nEl8XfFBPS2kxk5KOgi"
@@ -28774,7 +28836,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 128917,
       "name": "pyramids",
       "url": "https://open.spotify.com/track/6TLO615gyT6UxgSIERPJn0"
@@ -29904,7 +29966,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 110270,
       "name": "roaming",
       "url": "https://open.spotify.com/track/6TMbUYF1Tuojm577wU6gV2"
@@ -36955,6 +37017,24 @@
     },
     {
       "album": {
+        "name": "then the moon",
+        "url": "https://open.spotify.com/album/4Rg5pZW2ucpn83SRY5kcLj"
+      },
+      "artists": [
+        {
+          "name": "midnight swim",
+          "url": "https://open.spotify.com/artist/10P2mhlgatKCJ8ddf15AO1"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130169,
+      "name": "then the moon",
+      "url": "https://open.spotify.com/track/2gNSWBtArAwoyaH45Z2zYq"
+    },
+    {
+      "album": {
         "name": "They're Here",
         "url": "https://open.spotify.com/album/4FqupTivLPmqHsmk8M3FJV"
       },
@@ -40828,7 +40908,7 @@
       ],
       "date_added": "2025-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 187657,
       "name": "window seat",
       "url": "https://open.spotify.com/track/4TrxWjFGGjmfqcLxdL8Wbb"

@@ -846,7 +846,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 118679,
       "name": "afternoon calmness",
       "url": "https://open.spotify.com/track/2vxNAUD7UtWgqVJ3y57ONV"
@@ -2372,7 +2372,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 137142,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/4AsrQEuuYojPok6U9GoI1V"
@@ -2622,6 +2622,28 @@
       "duration_ms": 109367,
       "name": "Beach Night",
       "url": "https://open.spotify.com/track/2zDOIBU3m0BAa13i7faLWm"
+    },
+    {
+      "album": {
+        "name": "Beaurivage",
+        "url": "https://open.spotify.com/album/3KiZAWJn8r7CgxCP2N8TOb"
+      },
+      "artists": [
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        },
+        {
+          "name": "HoK\u00f8",
+          "url": "https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136838,
+      "name": "Beaurivage",
+      "url": "https://open.spotify.com/track/69D302RWKyFcVDWrBCK9e8"
     },
     {
       "album": {
@@ -5356,7 +5378,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 120000,
       "name": "City View",
       "url": "https://open.spotify.com/track/2Eec8CzxuqtOEgJqYo4XxJ"
@@ -5396,6 +5418,28 @@
       "duration_ms": 111750,
       "name": "Cloudless",
       "url": "https://open.spotify.com/track/6hjhW2oddMEyjBSCJeJYpn"
+    },
+    {
+      "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/0xKbpQ1BwzUiHrMBwtyJqH"
+      },
+      "artists": [
+        {
+          "name": "Moody.",
+          "url": "https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb"
+        },
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142400,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/50934tpiPI5YBuqhOk5Omj"
     },
     {
       "album": {
@@ -7578,7 +7622,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 109714,
       "name": "Dreamers",
       "url": "https://open.spotify.com/track/2T9J7u3qnwjk4rFCOumvaJ"
@@ -8536,6 +8580,24 @@
       "duration_ms": 84214,
       "name": "Elise",
       "url": "https://open.spotify.com/track/3wcI2MqMM2OBCiSLLk2SN2"
+    },
+    {
+      "album": {
+        "name": "Elixir",
+        "url": "https://open.spotify.com/album/7vVLnuKCLH2oxJYcaxIsdS"
+      },
+      "artists": [
+        {
+          "name": "Gaslamp",
+          "url": "https://open.spotify.com/artist/4Iufg5jdqQELqh9fQukPUE"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128450,
+      "name": "Elixir",
+      "url": "https://open.spotify.com/track/6w5mueZfi8Bnzr3HfGZY97"
     },
     {
       "album": {
@@ -10128,7 +10190,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 92530,
       "name": "Focus",
       "url": "https://open.spotify.com/track/6CJmXZTHG3Sy1bdDBKCrfS"
@@ -10733,6 +10795,24 @@
     },
     {
       "album": {
+        "name": "Fyra",
+        "url": "https://open.spotify.com/album/7oA0nsk7wzTmCSxlimZLCA"
+      },
+      "artists": [
+        {
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201601,
+      "name": "gently",
+      "url": "https://open.spotify.com/track/5hmwiusWFRLmpGtQg2XYxl"
+    },
+    {
+      "album": {
         "name": "Get Through",
         "url": "https://open.spotify.com/album/4Tv2AoLCwQ9kRvLu48XbE8"
       },
@@ -10863,6 +10943,28 @@
     },
     {
       "album": {
+        "name": "Gift",
+        "url": "https://open.spotify.com/album/29V3WLvDvKef8QBilE3TIp"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        },
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Gift",
+      "url": "https://open.spotify.com/track/6ZzyW9QXsJSecAg22Lzi9t"
+    },
+    {
+      "album": {
         "name": "girls & boys",
         "url": "https://open.spotify.com/album/6m0m5PY7xlstMIb0tOHQN4"
       },
@@ -10932,7 +11034,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 145000,
       "name": "Glow",
       "url": "https://open.spotify.com/track/6hDASHOG725YvUImbwcu3y"
@@ -18441,6 +18543,24 @@
     },
     {
       "album": {
+        "name": "Midnight Train",
+        "url": "https://open.spotify.com/album/47GgSkd0VMonad1kr15Spg"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121445,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/5FAeASq3LoG6Ta6uFpv9kz"
+    },
+    {
+      "album": {
         "name": "Midwinter",
         "url": "https://open.spotify.com/album/1xt4asJhgJkJrHP3DAELoz"
       },
@@ -20070,7 +20190,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 139487,
       "name": "no jacket",
       "url": "https://open.spotify.com/track/68dTTGp5eMBKPlnxsRkXoC"
@@ -21284,7 +21404,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 135724,
       "name": "open meadows",
       "url": "https://open.spotify.com/track/79mkm7eUjB3qzOHaLVixB9"
@@ -21572,6 +21692,28 @@
       "duration_ms": 120000,
       "name": "Over You",
       "url": "https://open.spotify.com/track/6MuK4KZNqGcPRAfUwDpZ4c"
+    },
+    {
+      "album": {
+        "name": "overcast skies",
+        "url": "https://open.spotify.com/album/0ublAGVmgEYGxkll9P8yCy"
+      },
+      "artists": [
+        {
+          "name": "Spaniel Mac",
+          "url": "https://open.spotify.com/artist/3mwsqk2Ccx0YemdC8FSz30"
+        },
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166666,
+      "name": "overcast skies",
+      "url": "https://open.spotify.com/track/7EtimAElQN3f0zcbXHn0Fv"
     },
     {
       "album": {
@@ -23838,6 +23980,28 @@
       "duration_ms": 119432,
       "name": "Remnants",
       "url": "https://open.spotify.com/track/3dZznZX8oPkvmHBSeB9XOh"
+    },
+    {
+      "album": {
+        "name": "restless",
+        "url": "https://open.spotify.com/album/7hShUYKpBvXNBZkOVqfju7"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "tenkousei.",
+          "url": "https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111304,
+      "name": "restless",
+      "url": "https://open.spotify.com/track/6Jmb0WPJcsD0k7tQ2q47xy"
     },
     {
       "album": {
@@ -28150,7 +28314,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 131351,
       "name": "Stiltje",
       "url": "https://open.spotify.com/track/0AKpiq9wV9UG7qF2zTJiGs"
@@ -29642,6 +29806,28 @@
       "duration_ms": 174556,
       "name": "Take the Next Plane and Fly Away",
       "url": "https://open.spotify.com/track/3kVzbYFfeQ4Z3Ogyr1JXlm"
+    },
+    {
+      "album": {
+        "name": "Takeout Window",
+        "url": "https://open.spotify.com/album/3tNKUoYw1EtpvOxaUAJgsG"
+      },
+      "artists": [
+        {
+          "name": "Bomshi",
+          "url": "https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz"
+        },
+        {
+          "name": "Lemon Kids",
+          "url": "https://open.spotify.com/artist/5AUN0NmzPlINdLMmzCjvI6"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110769,
+      "name": "Takeout Window",
+      "url": "https://open.spotify.com/track/4C44OWZXsVK0RPo0cT1COq"
     },
     {
       "album": {

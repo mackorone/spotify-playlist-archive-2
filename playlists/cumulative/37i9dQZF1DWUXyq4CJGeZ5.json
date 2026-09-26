@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Auric",
+        "url": "https://open.spotify.com/album/6NHUYkQzuPcxp3BkHo4sgd"
+      },
+      "artists": [
+        {
+          "name": "Andrea Neroli",
+          "url": "https://open.spotify.com/artist/3JrPnL4GFXXCAe09g8QdnO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145640,
+      "name": "Auric",
+      "url": "https://open.spotify.com/track/6mJKi4iA4F95S2fw4py4Tj"
+    },
+    {
+      "album": {
         "name": "automne",
         "url": "https://open.spotify.com/album/64kqrsnhnRaQ4bGSBpXnh5"
       },

@@ -4,7 +4,7 @@
 
 > Sweet sounds and welcoming vibes
 
-270 songs - 16 hr 53 min
+271 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Love Me Today](https://open.spotify.com/track/6at7kKJ4UAO7EXXto19gYU) | [Bryan Andrews](https://open.spotify.com/artist/0YFw9O2fbwkGXgnmTxAavB) | [Love Me Today](https://open.spotify.com/album/04sgEuWq9dL2s8j8E7y97s) | 3:51 | 2023-02-17 |  |
 | [Love You True](https://open.spotify.com/track/73EaA3mjNHgsIiFrm2hZzV) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/4L0K6IA83m6hrJNVgkmIKU) | 3:53 | 2021-11-19 | 2026-02-21 |
 | [Love You True](https://open.spotify.com/track/0XSynffntpPmWwutFaT4MP) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [The Tides](https://open.spotify.com/album/7m6ucG298JCN5miztXky1g) | 3:53 | 2023-04-07 | 2024-04-19 |
+| [luckiest girl alive](https://open.spotify.com/track/03I8QTPwaCgRgCbOYC1wQ3) | [Macy Todd](https://open.spotify.com/artist/36LLquZpLrRaGaMRivV2CD) | [luckiest girl alive](https://open.spotify.com/album/5VYf1y5PC7GpqfjAXmnYQu) | 3:33 | 2026-09-25 |  |
 | [May Your Kindness Remain](https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:54 | 2026-02-20 |  |
 | [Meet You There](https://open.spotify.com/track/6x12TkPefYSVSJ1mw9sv3o) | [Katie Lynne Sharbaugh](https://open.spotify.com/artist/7ufoDy3DR2gEi68WTyUGcu) | [Meet You There](https://open.spotify.com/album/5RfbwEqP1Y1hQVdX04fzwR) | 3:40 | 2026-05-29 |  |
 | [Michigan](https://open.spotify.com/track/0WkJWnMCumm1fnFscdY7Rw) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [Prologue](https://open.spotify.com/album/12M64Waii6uYeGrpkUwo3K) | 5:30 | 2021-11-19 | 2026-02-21 |
@@ -169,7 +170,7 @@
 | [Olive](https://open.spotify.com/track/3DolcY2auWoB9cWQFt5L7L) | [Sara Marie Rorie](https://open.spotify.com/artist/39YXEVzdhxmjPonCaqbdpz) | [Olive](https://open.spotify.com/album/4ymDc9SrTnwkegqrJgx4U9) | 3:30 | 2021-11-19 |  |
 | [On and On](https://open.spotify.com/track/5HUATXN3sPKF3GfQXN2ATg) | [Dead Horses](https://open.spotify.com/artist/4dcU7cmzO3GECQGSKwl92z) | [My Mother the Moon](https://open.spotify.com/album/4dN53nS6qFV78cpbX24X6P) | 3:37 | 2021-11-19 | 2024-04-19 |
 | [On Jordan's Stormy Banks](https://open.spotify.com/track/5VaZGGnQn7JO9uDwh3Y4AF) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 4:07 | 2021-11-19 | 2022-01-08 |
-| [One Little Feeling](https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [True Meaning](https://open.spotify.com/album/1hAH4XIkzAgTyVqVP3EDsK) | 3:33 | 2021-11-19 |  |
+| [One Little Feeling](https://open.spotify.com/track/14G8DeuH1VjEA9FKaWvPDg) | [Caitlin Jemma](https://open.spotify.com/artist/4HoLKkz2xfqo7LaveUkFkI) | [True Meaning](https://open.spotify.com/album/1hAH4XIkzAgTyVqVP3EDsK) | 3:33 | 2021-11-19 | 2026-09-26 |
 | [One Of Those Things](https://open.spotify.com/track/6wXr3n9kKYDXkj14qJzttN) | [Lucy Clearwater](https://open.spotify.com/artist/6UmyuelV4DRx79BFPMWNPj) | [One Of Those Things](https://open.spotify.com/album/7x2sZhzIZG1TiXpD5iqzm3) | 3:27 | 2026-05-29 |  |
 | [Orphan Girl](https://open.spotify.com/track/28RSIjTle8Rru7vnZxTPQr) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/4naSRPW5EBkUY7d0JxPgP5) | 3:57 | 2026-02-20 |  |
 | [Overland](https://open.spotify.com/track/4x8q2pNkL1UVTf6b4l2TG3) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [See You Around](https://open.spotify.com/album/5CE2xIBgva5wYBhfMbluQW) | 3:25 | 2021-11-19 | 2026-02-21 |

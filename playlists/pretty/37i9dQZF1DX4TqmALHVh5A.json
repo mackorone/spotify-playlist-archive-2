@@ -1,12 +1,12 @@
 {
   "description": "La sc\u00e8ne fran\u00e7aise branch\u00e9e sur courant alternatif. Photo : Danyl & A6el.",
-  "num_followers": 119829,
+  "num_followers": 119852,
   "original_name": "Courant Alternatif",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFP81a0JdQWb3KmFlovDtl3X1YbD",
+  "snapshot_id": "AAAAAK6bsA+/9i9MUbjmrBF/fQqY0G1a",
   "tracks": [
     {
       "added_at": "2026-09-24 22:01:44",
@@ -189,38 +189,6 @@
       "url": "https://open.spotify.com/track/5Canxhfh2Ydgq5JR7e26Hm"
     },
     {
-      "added_at": "2026-09-24 22:01:44",
-      "album": {
-        "name": "BABYBOY",
-        "url": "https://open.spotify.com/album/1eWwgDB9CRSNQrTo7cx23y"
-      },
-      "artists": [
-        {
-          "name": "NAVA",
-          "url": "https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj"
-        }
-      ],
-      "duration_ms": 126683,
-      "name": "BABYBOY",
-      "url": "https://open.spotify.com/track/5FgtKtNcsGQvg6tUmNArzt"
-    },
-    {
-      "added_at": "2026-09-24 22:01:44",
-      "album": {
-        "name": "MACKINTOSH",
-        "url": "https://open.spotify.com/album/153XRh2PH4lvf4I2EnGdAy"
-      },
-      "artists": [
-        {
-          "name": "sheng",
-          "url": "https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn"
-        }
-      ],
-      "duration_ms": 115488,
-      "name": "MACKINTOSH",
-      "url": "https://open.spotify.com/track/5LY4qEP5Hj4SSRPB9PQORX"
-    },
-    {
       "added_at": "2026-09-10 22:00:51",
       "album": {
         "name": "SOLEIL",
@@ -295,6 +263,22 @@
     {
       "added_at": "2026-09-24 22:01:44",
       "album": {
+        "name": "BABYBOY",
+        "url": "https://open.spotify.com/album/1eWwgDB9CRSNQrTo7cx23y"
+      },
+      "artists": [
+        {
+          "name": "NAVA",
+          "url": "https://open.spotify.com/artist/1M0q1Asw8rEHUcycJET9zj"
+        }
+      ],
+      "duration_ms": 126683,
+      "name": "BABYBOY",
+      "url": "https://open.spotify.com/track/5FgtKtNcsGQvg6tUmNArzt"
+    },
+    {
+      "added_at": "2026-09-24 22:01:44",
+      "album": {
         "name": "ROMANCE RODEO",
         "url": "https://open.spotify.com/album/7pgJyoe9Um0keycHs8Xmin"
       },
@@ -304,8 +288,8 @@
           "url": "https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 169009,
+      "name": "LES FOURMIS",
       "url": "https://open.spotify.com/track/4nqefoXOG8qs7YromWqpeV"
     },
     {
@@ -323,6 +307,22 @@
       "duration_ms": 158063,
       "name": "Sorry I'm French",
       "url": "https://open.spotify.com/track/5zp0YGDgIeSbBc8kd0su4W"
+    },
+    {
+      "added_at": "2026-09-24 22:01:44",
+      "album": {
+        "name": "MACKINTOSH",
+        "url": "https://open.spotify.com/album/153XRh2PH4lvf4I2EnGdAy"
+      },
+      "artists": [
+        {
+          "name": "sheng",
+          "url": "https://open.spotify.com/artist/0mAIVu2rtpW9TYcbp88wqn"
+        }
+      ],
+      "duration_ms": 115488,
+      "name": "MACKINTOSH",
+      "url": "https://open.spotify.com/track/5LY4qEP5Hj4SSRPB9PQORX"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -411,6 +411,22 @@
       "duration_ms": 146874,
       "name": "2 aliens",
       "url": "https://open.spotify.com/track/1yBUBwu0LBybD7IcqknClS"
+    },
+    {
+      "added_at": "2026-09-25 13:53:09",
+      "album": {
+        "name": "maldini",
+        "url": "https://open.spotify.com/album/53jpXacxlrpxnd7ULodvcI"
+      },
+      "artists": [
+        {
+          "name": "beau d\u00e9cor",
+          "url": "https://open.spotify.com/artist/3quniBq1MWtPBHzTWQ4TyH"
+        }
+      ],
+      "duration_ms": 152452,
+      "name": "maldini",
+      "url": "https://open.spotify.com/track/4G85rZl49Q3zew6pP1XRCY"
     },
     {
       "added_at": "2026-09-10 22:00:51",
@@ -735,22 +751,6 @@
       "duration_ms": 152666,
       "name": "Oublie-Moi",
       "url": "https://open.spotify.com/track/7rnsq8BtFBiuELlMWQGlKS"
-    },
-    {
-      "added_at": "2026-09-10 22:00:51",
-      "album": {
-        "name": "fleurs",
-        "url": "https://open.spotify.com/album/3Rslr3ps1Vr3rkenXSmJLs"
-      },
-      "artists": [
-        {
-          "name": "Skabe",
-          "url": "https://open.spotify.com/artist/5o5p5gPLO2zKfTi1KZX9sZ"
-        }
-      ],
-      "duration_ms": 114466,
-      "name": "fleurs",
-      "url": "https://open.spotify.com/track/7osDy3z3R1ET3rDB2vvDHs"
     },
     {
       "added_at": "2026-09-10 22:00:51",

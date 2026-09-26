@@ -4033,6 +4033,28 @@
     },
     {
       "album": {
+        "name": "Elements 2 //",
+        "url": "https://open.spotify.com/album/5NJqLOfwCXu3y3KwLjWJc0"
+      },
+      "artists": [
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        },
+        {
+          "name": "Ashley Walters",
+          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161299,
+      "name": "Can I //",
+      "url": "https://open.spotify.com/track/4WozK8h1XBrFBX5GBHVvFE"
+    },
+    {
+      "album": {
         "name": "Can you feel it?",
         "url": "https://open.spotify.com/album/6BN0IbeHLkdkksZum3hIij"
       },
@@ -10944,6 +10966,24 @@
       "duration_ms": 176259,
       "name": "Hot Stunna",
       "url": "https://open.spotify.com/track/2w5bjA39r61Zytbm2DNM6X"
+    },
+    {
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182372,
+      "name": "Hot Topic",
+      "url": "https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH"
     },
     {
       "album": {
@@ -24733,42 +24773,6 @@
     },
     {
       "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH"
-    },
-    {
-      "album": {
-        "name": "Elements 2 //",
-        "url": "https://open.spotify.com/album/5NJqLOfwCXu3y3KwLjWJc0"
-      },
-      "artists": [
-        {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/4WozK8h1XBrFBX5GBHVvFE"
-    },
-    {
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -27259,7 +27263,7 @@
     },
     {
       "album": {
-        "name": "Yes I Will",
+        "name": "YES I WILL",
         "url": "https://open.spotify.com/album/2b2oBMdvRFDi32HcO2eBY7"
       },
       "artists": [
@@ -27272,7 +27276,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 137187,
-      "name": "Yes I Will",
+      "name": "YES I WILL",
       "url": "https://open.spotify.com/track/2KRbVaxFvXjH4vHZ6tKhtS"
     },
     {

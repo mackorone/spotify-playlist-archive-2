@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "...Baby One More Time",
+        "url": "https://open.spotify.com/album/1lmIytjPw7zGH4GRIUvrjN"
+      },
+      "artists": [
+        {
+          "name": "Greta Svabo Bech",
+          "url": "https://open.spotify.com/artist/3roqeGESPvLgyx6ZmHQTXY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201543,
+      "name": "...Baby One More Time",
+      "url": "https://open.spotify.com/track/6dSp2APLrrCjZv52mpSTyH"
+    },
+    {
+      "album": {
         "name": "143",
         "url": "https://open.spotify.com/album/1Fh2mehhvPRxvzR2wYgkGI"
       },
@@ -1909,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "3",
+        "url": "https://open.spotify.com/album/3yhN9JFnBgAS9HySl1NiMN"
+      },
+      "artists": [
+        {
+          "name": "Penelope Isles",
+          "url": "https://open.spotify.com/artist/14b8PuCbilMIPEgWlC4P5G"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266074,
+      "name": "Bom-Bane's",
+      "url": "https://open.spotify.com/track/3ykI9ofQxOfnPHnpybhaCr"
+    },
+    {
+      "album": {
         "name": "spilling my guts",
         "url": "https://open.spotify.com/album/7phn0SadS5635xhyXthk02"
       },
@@ -1996,6 +2032,24 @@
       "duration_ms": 165597,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
+    },
+    {
+      "album": {
+        "name": "Play With Fire",
+        "url": "https://open.spotify.com/album/0bVJQm7ZnF5jEIZp4LMSWU"
+      },
+      "artists": [
+        {
+          "name": "Michael Prins",
+          "url": "https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260798,
+      "name": "Born To Lose You",
+      "url": "https://open.spotify.com/track/7y0vGehojP7E0MiObmhT4F"
     },
     {
       "album": {
@@ -2252,6 +2306,24 @@
       "duration_ms": 179437,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/7gxQXemQ5MBeK9PUrKRtfV"
+    },
+    {
+      "album": {
+        "name": "Bury The Hatchet",
+        "url": "https://open.spotify.com/album/2ZdR5F98P5zDVTgpt4ksci"
+      },
+      "artists": [
+        {
+          "name": "Will Parker",
+          "url": "https://open.spotify.com/artist/6PorgpBDSP5w9zPpgjHlGR"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192701,
+      "name": "Bury The Hatchet",
+      "url": "https://open.spotify.com/track/1QPSkN0RXN9MnjudE6VHgr"
     },
     {
       "album": {
@@ -6266,10 +6338,28 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 174107,
       "name": "Gracie",
       "url": "https://open.spotify.com/track/5XpfG1xcdznjc3BPdotlXK"
+    },
+    {
+      "album": {
+        "name": "Granadilla",
+        "url": "https://open.spotify.com/album/2ZZcrEQ1a8tnVuUJE4qR9g"
+      },
+      "artists": [
+        {
+          "name": "M Field",
+          "url": "https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Granadilla",
+      "url": "https://open.spotify.com/track/6pWILpS5J5jVXDf0zkJ130"
     },
     {
       "album": {
@@ -7889,6 +7979,24 @@
     },
     {
       "album": {
+        "name": "I Want It Easy",
+        "url": "https://open.spotify.com/album/3fZyKX3UiJOy6QtIPw0bnG"
+      },
+      "artists": [
+        {
+          "name": "Lia Pappas-Kemps",
+          "url": "https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241159,
+      "name": "I Want It Easy",
+      "url": "https://open.spotify.com/track/5YJc3C3VJx8MpfKDfl9CTv"
+    },
+    {
+      "album": {
         "name": "I Won't Ever Tell You",
         "url": "https://open.spotify.com/album/1p1YKq7gTwjLruS5Sf1rw0"
       },
@@ -8706,7 +8814,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 193686,
       "name": "Jackie",
       "url": "https://open.spotify.com/track/24XXGis7TNNjgzKKuFhoPB"
@@ -9572,7 +9680,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 230667,
       "name": "Little Man",
       "url": "https://open.spotify.com/track/3ACINog4nNeoQEKSHpf239"
@@ -9976,7 +10084,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 208902,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2EvCLlQh8f4fjMdWEkEZ2G"
@@ -10506,7 +10614,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 190400,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/5x0Uf6AMZTAKqvtzncu0ZH"
@@ -11162,6 +11270,24 @@
       "duration_ms": 182400,
       "name": "Natural Disaster",
       "url": "https://open.spotify.com/track/1GzENjFiUZL7O6jreawkQE"
+    },
+    {
+      "album": {
+        "name": "Near",
+        "url": "https://open.spotify.com/album/0u1YdCykKtiFNNTt4Fh7RM"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9av",
+          "url": "https://open.spotify.com/artist/0nBRo87bTZegzYDnIiWkH7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249708,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/3ggaWEf47wUzWJkaY2BCod"
     },
     {
       "album": {
@@ -12144,6 +12270,24 @@
       "duration_ms": 243404,
       "name": "Paris",
       "url": "https://open.spotify.com/track/0DQ1ufVX26xAlUv9wu70sO"
+    },
+    {
+      "album": {
+        "name": "I Came From Nowhere & Nowhere Is Where I Am Going",
+        "url": "https://open.spotify.com/album/7jaYzrSgEVjQ7oSlUXqdAM"
+      },
+      "artists": [
+        {
+          "name": "Kamran Khan",
+          "url": "https://open.spotify.com/artist/4Kl1w2H0gNlDJ4JB1pL2EA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191882,
+      "name": "Parody",
+      "url": "https://open.spotify.com/track/6z5CQ3SjNxnOngYnw0areN"
     },
     {
       "album": {
@@ -16502,7 +16646,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 187871,
       "name": "These Are The Days",
       "url": "https://open.spotify.com/track/2QVRjz1nWhN8FCAHgnrTE4"

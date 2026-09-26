@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or relax to in 2026\. Updated weekly!
 
-599 songs - 1 day 8 hr 43 min
+600 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Overdose](https://open.spotify.com/track/3naob59kPRRxTV12jhIU68) | [Pascal Junior](https://open.spotify.com/artist/4T8dF8zYAxgtlPPICuFQ5w) | [Overdose](https://open.spotify.com/album/46pbfEVTqzFnjIWk1NnHy4) | 5:54 | 2020-09-13\* | 2021-03-06 |
 | [Overthinking](https://open.spotify.com/track/3TwAy5Wd1hn89J43NnJNpR) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Overthinking](https://open.spotify.com/album/4WW15b27U7dmRi92xGjtDh) | 2:40 | 2022-02-25 | 2025-11-08 |
 | [Pain](https://open.spotify.com/track/7zsjp5WelstlzIIOkLIJQh) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Jameson](https://open.spotify.com/artist/7K3Jyu1rhStqBkpFbkro8t) | [Pain](https://open.spotify.com/album/6oiIQeKfMvVDsAcP6bsTGc) | 2:15 | 2024-09-20 | 2024-11-23 |
+| [parallel lives](https://open.spotify.com/track/5fY1Ez8DDQmeuaSulNny9N) | [i.am.u.](https://open.spotify.com/artist/2ikhrwYSd90KMYRIIS8Iju) | [parallel lives](https://open.spotify.com/album/3g6l82KOpVDZvaf5i9DC2B) | 2:35 | 2026-09-25 |  |
 | [Paralyzed](https://open.spotify.com/track/1wHDTJulNyumFWqSBVFXvl) | [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Paralyzed](https://open.spotify.com/album/2g1R9kNBhCFih34KqUN3J4) | 2:38 | 2021-09-04 | 2021-11-11 |
 | [Particles](https://open.spotify.com/track/1m88d4zQ1IUnqmQfaaUrN0) | [Ross Quinn](https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr) | [Particles](https://open.spotify.com/album/7wRWEQGKnOdSRvqxRO9uDU) | 3:20 | 2022-09-02 | 2023-02-04 |
 | [Pines](https://open.spotify.com/track/4DPPA8Sdx1VjH8hWKxDyub) | [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Pines](https://open.spotify.com/album/3nEs96fYQgouQ2QzOk13zM) | 2:47 | 2025-05-16 |  |

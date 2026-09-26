@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-18",
-  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Camilo",
+  "description": "Pop de los mejores artistas colombianos. \u00a1Dale play! Foto: Maca & Gero, Manuel Lizarazo",
   "name": "Pop Colombia",
   "tracks": [
     {
@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "Escenarios Ficticios",
+        "url": "https://open.spotify.com/album/6zwgX9tlUcGRBIfDB5I6fq"
+      },
+      "artists": [
+        {
+          "name": "Chell",
+          "url": "https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188347,
+      "name": "Algo Cambiar\u00e1",
+      "url": "https://open.spotify.com/track/2f60WcMHtB91W44LXFGc2y"
+    },
+    {
+      "album": {
         "name": "ALGO T\u00da",
         "url": "https://open.spotify.com/album/7jpTAGolkBbMuFyegBwBNo"
       },
@@ -364,7 +382,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 213011,
       "name": "ALGO T\u00da",
       "url": "https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ"
@@ -578,7 +596,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 140937,
       "name": "As\u00ed de Rico (Va uno a ver y ve Remizzz)",
       "url": "https://open.spotify.com/track/5Vv1JUpzsQYBQdRiRdi9EE"
@@ -851,6 +869,28 @@
     },
     {
       "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195356,
+      "name": "BORRAXXO Te Esperar\u00e9",
+      "url": "https://open.spotify.com/track/7ANcCShnE4FP8PQlBsbOD0"
+    },
+    {
+      "album": {
         "name": "BULLA",
         "url": "https://open.spotify.com/album/65dArOxrAgL9TKZNHp74ei"
       },
@@ -920,7 +960,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 185374,
       "name": "Cada 12 Horas",
       "url": "https://open.spotify.com/track/3C5HoJa6qd800P5Q2ICrcr"
@@ -1498,7 +1538,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 201500,
       "name": "desamarte",
       "url": "https://open.spotify.com/track/4bjGzeO9Eat8RhjW4IBDBC"
@@ -1686,7 +1726,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 120000,
       "name": "Donde Acaba Esto",
       "url": "https://open.spotify.com/track/3hAZxAPi8rJ4Tk9dIx850Z"
@@ -2126,6 +2166,24 @@
       "duration_ms": 181960,
       "name": "El \u00c1rbol",
       "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
+    },
+    {
+      "album": {
+        "name": "[demos] vol. 1",
+        "url": "https://open.spotify.com/album/0J9CSFjzKtq0TADmJpYjEe"
+      },
+      "artists": [
+        {
+          "name": "Susana Cala",
+          "url": "https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173617,
+      "name": "elefante/desde lejos",
+      "url": "https://open.spotify.com/track/2Ctih9lum1oEfnITnIOB8c"
     },
     {
       "album": {
@@ -2618,6 +2676,24 @@
       "duration_ms": 211215,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/6C7EC0BWQ5A57UkY6HLJqA"
+    },
+    {
+      "album": {
+        "name": "GOATSTAR",
+        "url": "https://open.spotify.com/album/7uCmrTga14ObB0lM6acn3Q"
+      },
+      "artists": [
+        {
+          "name": "Emilio Cabra",
+          "url": "https://open.spotify.com/artist/0v3BbC31xeFTsSemq1ApgI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155453,
+      "name": "GOATSTAR",
+      "url": "https://open.spotify.com/track/4i9QkVLqzN6c3fNSaNJPNo"
     },
     {
       "album": {
@@ -3960,7 +4036,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 133411,
       "name": "Muchas (MUCHAS) gracias",
       "url": "https://open.spotify.com/track/21WqnTphjylRyrdnVyRk1S"
@@ -4098,7 +4174,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 179478,
       "name": "Natural",
       "url": "https://open.spotify.com/track/3TjJq3dLUien8DfEpxr52i"
@@ -4340,7 +4416,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 174967,
       "name": "No Vivir\u00edas Igual",
       "url": "https://open.spotify.com/track/1Ti5iLAbHICLtvkQW1d4YZ"
@@ -4410,6 +4486,28 @@
       "duration_ms": 186613,
       "name": "Noches De Verano",
       "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
+    },
+    {
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/7qWGL1APRHrhvPW7aA2y2h"
+      },
+      "artists": [
+        {
+          "name": "Maca & Gero",
+          "url": "https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV"
+        },
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180095,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/6OtV718PF8srqETTUOKJMI"
     },
     {
       "album": {
@@ -4729,6 +4827,28 @@
     },
     {
       "album": {
+        "name": "Pick Me",
+        "url": "https://open.spotify.com/album/2YpbOugRMPqzmoTJW6F1J0"
+      },
+      "artists": [
+        {
+          "name": "ZUCO OMG",
+          "url": "https://open.spotify.com/artist/6hA5ALJWFb44ixgQMMvng7"
+        },
+        {
+          "name": "Annasofia",
+          "url": "https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170298,
+      "name": "Pick Me",
+      "url": "https://open.spotify.com/track/5djUJQMd8TGlDW6nhJs1uE"
+    },
+    {
+      "album": {
         "name": "Planeta",
         "url": "https://open.spotify.com/album/4acHHuwfEyhY1ZL381voCz"
       },
@@ -4766,6 +4886,50 @@
       "duration_ms": 179960,
       "name": "Planetas",
       "url": "https://open.spotify.com/track/2WzigCWeKa1LrTPbe6nUJq"
+    },
+    {
+      "album": {
+        "name": "plat\u00f3nica",
+        "url": "https://open.spotify.com/album/0yxP62OVCD4h69n0h1VcQN"
+      },
+      "artists": [
+        {
+          "name": "lila sky",
+          "url": "https://open.spotify.com/artist/3LsIR9rVSsNmyRYcJOsdyH"
+        },
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        },
+        {
+          "name": "jhelian",
+          "url": "https://open.spotify.com/artist/5J6w6sluxiF0g0GqmfAfxh"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170124,
+      "name": "plat\u00f3nica",
+      "url": "https://open.spotify.com/track/2HpR61T0ec4lARBHi6PjRu"
+    },
+    {
+      "album": {
+        "name": "PLAYA FR\u00cdA",
+        "url": "https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "PLAYA FR\u00cdA",
+      "url": "https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS"
     },
     {
       "album": {
@@ -4910,7 +5074,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 217699,
       "name": "Por Si Ma\u00f1ana No Estoy",
       "url": "https://open.spotify.com/track/3BJKXVM6DY8po3lLP70SE7"
@@ -6600,6 +6764,28 @@
       "duration_ms": 211762,
       "name": "Un Intento Permanente",
       "url": "https://open.spotify.com/track/2BByhZdP87btcQKOCvGLQ3"
+    },
+    {
+      "album": {
+        "name": "Un Viaje",
+        "url": "https://open.spotify.com/album/0KUkNtk8UY8jyyPdmlI2r3"
+      },
+      "artists": [
+        {
+          "name": "Miguel Bueno",
+          "url": "https://open.spotify.com/artist/3frx2nsVBAA3DvbKTE9JeT"
+        },
+        {
+          "name": "ONIKX",
+          "url": "https://open.spotify.com/artist/0vFQoUD1qGYeY6i908EYiZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168799,
+      "name": "Un Viaje",
+      "url": "https://open.spotify.com/track/1mMMkBlaDS6AiL5xXEzlW1"
     },
     {
       "album": {

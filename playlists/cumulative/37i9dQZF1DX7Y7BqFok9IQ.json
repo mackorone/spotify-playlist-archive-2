@@ -920,7 +920,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 211143,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/0hYTpOC7TJOZXbwB6ICKw3"
@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2021-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 282906,
       "name": "I'm Gone",
       "url": "https://open.spotify.com/track/1ZbVqL2ErCQH26Zj4JkHy0"
@@ -5599,6 +5599,32 @@
     },
     {
       "album": {
+        "name": "Post-Midnight Behaviour",
+        "url": "https://open.spotify.com/album/3DFHjnmgvbjRUQmpwNP59K"
+      },
+      "artists": [
+        {
+          "name": "Ben Poole",
+          "url": "https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3"
+        },
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        },
+        {
+          "name": "Oli Brown",
+          "url": "https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262200,
+      "name": "Runaway Souls (feat. Elles Bailey & Oli Brown)",
+      "url": "https://open.spotify.com/track/3rs3QuaesxPIW6QXv6FxwH"
+    },
+    {
+      "album": {
         "name": "Runnin' Hot",
         "url": "https://open.spotify.com/album/3bxHFkjBd7RtlJYBOF6OCT"
       },
@@ -5968,6 +5994,24 @@
       "duration_ms": 206277,
       "name": "Silver Paper",
       "url": "https://open.spotify.com/track/66trObVQ3KylhIFgHEv27g"
+    },
+    {
+      "album": {
+        "name": "Silverlight Blues",
+        "url": "https://open.spotify.com/album/5qKUf2V66u6AftU3p8ni0Z"
+      },
+      "artists": [
+        {
+          "name": "The Temperance Movement",
+          "url": "https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236798,
+      "name": "Silverlight Blues",
+      "url": "https://open.spotify.com/track/2aW52YUu5ZLU0gyzoHIyXU"
     },
     {
       "album": {

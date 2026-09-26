@@ -3531,6 +3531,28 @@
     },
     {
       "album": {
+        "name": "Ni Una Palabra",
+        "url": "https://open.spotify.com/album/3cgmoKaXUAYb4Q7FA9rsMa"
+      },
+      "artists": [
+        {
+          "name": "A.D Music",
+          "url": "https://open.spotify.com/artist/2B3YUG5F1Huk92Hdml7y4p"
+        },
+        {
+          "name": "Sofia Hervier",
+          "url": "https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210581,
+      "name": "Ni Una Palabra",
+      "url": "https://open.spotify.com/track/3isKDTI8P62gvEhPKPn92d"
+    },
+    {
+      "album": {
         "name": "MANTRA",
         "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
       },

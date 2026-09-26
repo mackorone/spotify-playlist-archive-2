@@ -4211,6 +4211,24 @@
     },
     {
       "album": {
+        "name": "Hidden Verge",
+        "url": "https://open.spotify.com/album/7meCVHiHXU9wD7PXgy26oI"
+      },
+      "artists": [
+        {
+          "name": "Sorellien",
+          "url": "https://open.spotify.com/artist/6tskJzai4ETnMp76lomMzr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156409,
+      "name": "Hidden Verge",
+      "url": "https://open.spotify.com/track/7ExEiFZXtjYilQ53u5WG39"
+    },
+    {
+      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/2Ng37Ew03H9E7Q01Oao765"
       },

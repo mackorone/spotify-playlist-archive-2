@@ -4,7 +4,7 @@
 
 > tradición, modernidad y frescura\. Sonido argentino, del futuro.
 
-157 songs - 11 hr 8 min
+160 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Agua de La Tierra \- Nicola Cruz Remix](https://open.spotify.com/track/75ZnZZHw6Zj8w275PHoKU5) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [El Origen](https://open.spotify.com/album/3Z1Yj9MnveskLxVhHIstUy) | 4:53 | 2023-08-11 | 2024-04-19 |
 | [Aisito](https://open.spotify.com/track/7gKzsi7dFiJBrKFPkdJAqy) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [Cable Tierra](https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R) | 3:04 | 2023-08-11 | 2024-04-19 |
 | [Alma](https://open.spotify.com/track/2n6or5vQGPtqbTu84CNfdn) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ), [Sandra Amaya](https://open.spotify.com/artist/5blOCUy4Uz4j88SdkakN6v) | [Vol\. 4](https://open.spotify.com/album/4DaIUxKJQvQmeC3VRONSky) | 6:17 | 2023-08-11 | 2024-04-19 |
+| [Alma de Rezabaile \(Casa Sole\)](https://open.spotify.com/track/7HLJHyFJ65qbMREf4pDAtn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Flor Cazzuchelli](https://open.spotify.com/artist/18HC9uyCeQuC9ZJWXOxfGH), [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Alma de Rezabaile \(Casa Sole\)](https://open.spotify.com/album/0SkVQHXxMaiNWTBNwV8ROh) | 2:32 | 2026-09-25 |  |
 | [Almitai \- Rodrigo Gallardo Remix](https://open.spotify.com/track/201dBxaZWUaDlczLtZI6fT) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Almitai \(Rodrigo Gallardo Remix\)](https://open.spotify.com/album/2xasSq0QYrpVWhtFJG5TqH) | 5:12 | 2023-08-11 | 2023-11-30 |
 | [Amo](https://open.spotify.com/track/0lTskhjbr24P0C9kPmylF6) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [LUVI TORRES](https://open.spotify.com/artist/0U6e4AWJDteC3blrD46avQ) | [Ceremonia](https://open.spotify.com/album/1pbBTqGMfMnXGHDbfJurP3) | 2:17 | 2023-08-11 | 2024-04-19 |
 | [Antiguos Dueños de las Flechas](https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Tonolec](https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc) | 4:24 | 2023-08-11 | 2026-09-03 |
@@ -105,6 +106,7 @@
 | [Madre de la Sierra](https://open.spotify.com/track/5woODtAYYZgkl6t9kLKCU2) | [Poranguí](https://open.spotify.com/artist/0vNpT8ZtiGQVhi0AvDWpsG) | [Madre de la Sierra](https://open.spotify.com/album/620EbnTx9IizPGjDwPFImk) | 4:35 | 2023-08-11 | 2026-09-03 |
 | [Madrina](https://open.spotify.com/track/2Rff0KNafA07AtSntxWT8F) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G), [Maggie Cullen](https://open.spotify.com/artist/2ohOPQIexaf9bhfF3FAF3t) | [Los Algarrobos](https://open.spotify.com/album/7BbLxJ2MPhmnSAHShC7DJZ) | 1:43 | 2026-09-02 |  |
 | [Margarita y Margarito \- Remix](https://open.spotify.com/track/7g2s2MY4G7oa2VRuCs3PZZ) | [Las 3 Marias](https://open.spotify.com/artist/0oKNkfcAYLdVZ8zries7zx), [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Margarita y Margarito \(Remix\)](https://open.spotify.com/album/0LEIGXcKfimgs8ccfzJcVg) | 5:51 | 2024-03-29 | 2026-09-03 |
+| [me fui](https://open.spotify.com/track/339oAvRd5TB8dU5cv6KBDD) | [gris](https://open.spotify.com/artist/3JhPCTEWqa4OpEuhR7sZt1) | [una cosa viva](https://open.spotify.com/album/1P1vlNpr5zehOlUW7CJ7LA) | 3:46 | 2026-09-25 |  |
 | [Me Tocó Perder](https://open.spotify.com/track/0PVDEaIjTCC7NDeLfnxQi4) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Latinaje](https://open.spotify.com/album/6ilEhVQVT7DnbBjDMBnzNs) | 2:50 | 2026-09-02 |  |
 | [MI CHINA](https://open.spotify.com/track/357YDywBW0HNOLsA7ymDIM) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [MI CHINA](https://open.spotify.com/album/76KgqITGU3xYIYgJurvDWM) | 2:07 | 2026-09-02 |  |
 | [Mi Cultura La Copla](https://open.spotify.com/track/0llb0HHVdnALQxHQnRT7Mp) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Mi Cultura La Copla](https://open.spotify.com/album/1v7igOTMyTvR31EdQWpcsu) | 2:33 | 2024-03-29 | 2024-04-12 |
@@ -160,6 +162,7 @@
 | [Viaje Astral](https://open.spotify.com/track/5v0CqjvWrHkeUeHhofS3RH) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W) | [Viaje Astral](https://open.spotify.com/album/14iJMSksb6BlrFSAiaxIpt) | 4:04 | 2024-07-19 | 2026-07-27 |
 | [Yemanja \- Chancha Via Circuito Remix](https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Yemanja \(Chancha Via Circuito Remix\)](https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY) | 4:18 | 2023-08-11 | 2026-08-29 |
 | [YO SOY EL DUEÑO](https://open.spotify.com/track/6T1menSISCCZis7XIR90pb) | [trouve feraud](https://open.spotify.com/artist/5wYoljDrAYqKBnbncgw27o) | [YO SOY EL DUEÑO](https://open.spotify.com/album/1FPe1ntu4wNmQNES2s8yLN) | 2:14 | 2026-09-02 |  |
+| [Zamba del Desamorado](https://open.spotify.com/track/7C9X3tmTebuvEjWNyquIAF) | [Homero Taisen](https://open.spotify.com/artist/0Zd3iLDS07YUMsumvhZeL2) | [Triángulo Uno](https://open.spotify.com/album/4axal6Z2uUO8fw9d0bkDOB) | 3:57 | 2026-09-25 |  |
 | [Zamba para Olvidar](https://open.spotify.com/track/5TeAvZBPKtmGfWR4uwf5dU) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Los Pasos Labrados](https://open.spotify.com/album/2wYrnuybn6lICNvZ9uvNIS) | 5:05 | 2023-08-11 | 2026-09-03 |
 | [Zorzal](https://open.spotify.com/track/1UUXHwy4T4wHqj1wN7LWpP) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/34BPrha22VRVsJsOUAqE2l) | 3:09 | 2024-03-29 | 2026-09-03 |
 | [Zorzal](https://open.spotify.com/track/2V0t69gkStN7xlQYasKBWs) | [Campo](https://open.spotify.com/artist/4pZbs8aNKQ2qRYXB5XR0D8) | [Campo](https://open.spotify.com/album/7q9qy6hx44b9sTXNygcEA6) | 3:09 | 2023-08-11 | 2023-11-06 |

@@ -1,13 +1,29 @@
 {
   "description": "All of your favourites, new favourites, live favourites and unearthed soon to be favourites.  <a href=\"https://www.umusic.ca/collections/rediscover\">here</a>",
-  "num_followers": 3529,
+  "num_followers": 3527,
   "original_name": "UMUSIC Rediscover",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAEHpZnruJniFNJOFdnPW1FNrnI8Ter",
+  "snapshot_id": "AAAEI1l/yW3jAwhA57hSkRv+fnjEUWoF",
   "tracks": [
+    {
+      "added_at": "2026-09-25 15:07:35",
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 155648,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
+    },
     {
       "added_at": "2026-09-18 13:27:50",
       "album": {
@@ -31,6 +47,42 @@
       "duration_ms": 238957,
       "name": "Wheat Kings (feat. Allison Russell) - 'It's A Good Life If You Don't Weaken' Original Cast Recording",
       "url": "https://open.spotify.com/track/4y2gmy4Md3xQ95S3raKtFr"
+    },
+    {
+      "added_at": "2026-09-25 15:08:41",
+      "album": {
+        "name": "Returning To Myself (Sad Gay Version)",
+        "url": "https://open.spotify.com/album/0XxNrO1OVqVBQdPoXz8pdz"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 263976,
+      "name": "No One Knows Us",
+      "url": "https://open.spotify.com/track/5rA6phTocYGASmSjRliM9O"
+    },
+    {
+      "added_at": "2026-09-25 15:09:15",
+      "album": {
+        "name": "Freak Out! (60th Anniversary)",
+        "url": "https://open.spotify.com/album/6IMRXGiuck95q5i1p3cZuf"
+      },
+      "artists": [
+        {
+          "name": "The Mothers Of Invention",
+          "url": "https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL"
+        },
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "duration_ms": 354431,
+      "name": "Trouble Every Day - 1966 Pre-Master Mix",
+      "url": "https://open.spotify.com/track/0Opjv5HYpPHeBg6T3yok3C"
     },
     {
       "added_at": "2026-09-18 13:28:21",

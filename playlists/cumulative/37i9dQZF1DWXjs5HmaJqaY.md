@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-418 songs - 1 day 13 hr 29 min
+419 songs - 1 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Momentum](https://open.spotify.com/track/78jpLxZ2o7iWFNI7YPaI7f) | [Drumcomplex](https://open.spotify.com/artist/15uHboHn4dMAVjqSBMSnId), [Marco Zaffarano](https://open.spotify.com/artist/52bAOymZ9bKSEuyiNMLXjY) | [Momentum](https://open.spotify.com/album/1hQTMJz6lWgj4CKPj8o0I9) | 8:37 | 2023-05-05 | 2024-06-11 |
 | [Motionless](https://open.spotify.com/track/696DGyb77wqxtxXyJmz0cr) | [Visual Impact](https://open.spotify.com/artist/4x6uqIBNtjpOK15euwKiVI) | [Motionless](https://open.spotify.com/album/1zOr0lWCMvcBzJEs53cUya) | 5:12 | 2023-12-08 | 2024-04-06 |
 | [Moulin Rouge](https://open.spotify.com/track/3HVuI6V6SO1kycXAPF4Ti6) | [Ira Ange](https://open.spotify.com/artist/647KkEJP83yUnc4oft2pPg), [Sunbios](https://open.spotify.com/artist/469Qwvynp9B15LJAEwouDk) | [Moulin Rouge](https://open.spotify.com/album/2so5MifEWb91gnz2YtQysq) | 6:23 | 2022-12-02 | 2024-01-27 |
-| [Move Again](https://open.spotify.com/track/6o4e7JQqiOYKiueHpHuir1) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M), [Tarania](https://open.spotify.com/artist/2Bx8ng6VxOmUIr18SpPwQD) | [Move Again](https://open.spotify.com/album/3cKjQnF7iweIYfXDRvzoJS) | 2:39 | 2026-08-07 |  |
+| [Move Again](https://open.spotify.com/track/6o4e7JQqiOYKiueHpHuir1) | [NELL](https://open.spotify.com/artist/7Mzvd0tgZVSMABUtfT849M), [Tarania](https://open.spotify.com/artist/2Bx8ng6VxOmUIr18SpPwQD) | [Move Again](https://open.spotify.com/album/3cKjQnF7iweIYfXDRvzoJS) | 2:39 | 2026-08-07 | 2026-09-26 |
 | [Music Is The Answer \- Mark Reeve Remix](https://open.spotify.com/track/5NNDC4CgDCZfh5IfC8yeO7) | [Dr\. Motte](https://open.spotify.com/artist/16XHmIkkg5P1YR2EoBFPOp), [Jam El Mar](https://open.spotify.com/artist/0UmSf9lDFeavYgD65VrtHs), [Mark Reeve](https://open.spotify.com/artist/58zZkWGb6qvx0AJ6L3ttlZ) | [Rave the Planet: Supporter Series, Vol\. 017](https://open.spotify.com/album/23quYCxH4q3QPzaLhCAmww) | 6:19 | 2023-11-24 | 2024-01-27 |
 | [My Favourite Stranger \- Boris Brejcha Remix](https://open.spotify.com/track/4mh4D2lIo6kkhaqTh111De) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [My Favourite Stranger \(Remixes\)](https://open.spotify.com/album/4sKi74JyzjNzfrb1KYNtue) | 7:06 | 2023-10-20 | 2025-06-28 |
 | [Nahar](https://open.spotify.com/track/6Mr9RKIgliPnqBUDGeLUOg) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Nahar](https://open.spotify.com/album/49UofVTgrdjTpAW931oCix) | 3:28 | 2022-09-30 | 2023-01-21 |
@@ -408,6 +408,7 @@
 | [Voices of Caladan](https://open.spotify.com/track/7fW4t2EhyPSqxyYYfcVC2V) | [NoNameLeft](https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT), [Moto Moto](https://open.spotify.com/artist/1WEZB9rnrxrk1FQePn7apt) | [Voices of Caladan](https://open.spotify.com/album/0FtwDzvr0hCwR88BZ8lN2o) | 4:30 | 2024-12-17 | 2025-05-30 |
 | [Wait A Minute](https://open.spotify.com/track/2y1G8H9dm0vrsEExAFVklj) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Wait A Minute](https://open.spotify.com/album/6TFEuSiVIP6kVbUtPKmkNI) | 4:23 | 2026-03-06 | 2026-04-18 |
 | [We Begin](https://open.spotify.com/track/2M5L3hRA23q2eQXgAqTNcW) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [We Begin](https://open.spotify.com/album/0lXCiIEET1JsMzGDaOcJAS) | 3:44 | 2025-06-20 | 2025-12-23 |
+| [We're A Mess](https://open.spotify.com/track/3oi6JFfnnq6U6yaIwdkRm4) | [Fab Massimo](https://open.spotify.com/artist/6EDKZ3fyIzcualNVjPayM4) | [We're A Mess](https://open.spotify.com/album/2SifBmZ80KijfTtv9FRKQJ) | 3:34 | 2026-09-25 |  |
 | [Welcome To The Discotheque \- Si Begg Total Fusion Remix](https://open.spotify.com/track/6uA4gn96bLNgFfmm6cvG6G) | [Si Begg](https://open.spotify.com/artist/7nhc8jNe7dTkmv3UIF5iII) | [Welcome To The Discotheque 2024](https://open.spotify.com/album/4tRr5qdrbGk8kCsAWAJQnT) | 5:11 | 2024-11-08 | 2025-05-30 |
 | [Wetterleuchten \- Edit](https://open.spotify.com/track/4J17SL5qZhXMbbTJYLmwVD) | [Thomas Helmich](https://open.spotify.com/artist/5TK5jKewjDuQuXXRAguEml) | [Wetterleuchten](https://open.spotify.com/album/5MhknX4cQ1JJa449x4s3JE) | 3:10 | 2022-12-09 | 2023-02-04 |
 | [What This](https://open.spotify.com/track/7s6IGlhtEvsSNnhzuln3C8) | [Max Koval](https://open.spotify.com/artist/0NByPzOcGHKJ2XgUztC6CR) | [A Little Bit Of Jazz](https://open.spotify.com/album/7Fz1MqDsGxpsoNpSR8SPtV) | 7:42 | 2023-03-03 | 2023-07-29 |

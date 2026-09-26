@@ -4,7 +4,7 @@
 
 > Best of Tamil Hip\-Hop!<br/>Cover : Yung Raja
 
-387 songs - 20 hr 6 min
+388 songs - 20 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [One Time](https://open.spotify.com/track/2Jt7Ba7EfzHk8SvL3JcIw9) | [Sheezay](https://open.spotify.com/artist/59ZFcw0jfy0Z4rcF1DXKBF) | [One Time](https://open.spotify.com/album/1RPbh1ZGcaz62MYvR6ZPnG) | 1:33 | 2026-03-06 | 2026-04-21 |
 | [Only Fans](https://open.spotify.com/track/3sgUiQHGyHVAavw8HAh80W) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Only Fans](https://open.spotify.com/album/1yiOp0VQox1dog9oRIgZng) | 2:48 | 2025-05-28 | 2025-06-20 |
 | [Oolu](https://open.spotify.com/track/6b13p3nV4AfyhMoI5oEUMk) | [Siva G](https://open.spotify.com/artist/0yP11NiPRUSj7BRjdMwPKa) | [Oolu](https://open.spotify.com/album/37G24puVcHLR2Uc3Utsv5v) | 3:02 | 2025-07-25 | 2025-09-26 |
+| [Ooru Kaaran](https://open.spotify.com/track/5SMgbkeA0hIHXmqrMIlt0S) | [Joshua Aaron](https://open.spotify.com/artist/3q3ikUy0tmXkAonQpYDORq), [Divyabharath Ravi](https://open.spotify.com/artist/2apMuSt2NS8R43P3bf2KGq) | [Ooru Kaaran](https://open.spotify.com/album/0UKPJ8bnJq0WNbo2rEZfmE) | 3:29 | 2026-09-25 |  |
 | [ORAM](https://open.spotify.com/track/3ehAzRvLK7W0Re6M1Oh4Tn) | [Sunil Jacksz](https://open.spotify.com/artist/5nx79ILI7Kv5NnqXUvuKM5), [Akroniim](https://open.spotify.com/artist/2kNXaf7u31dDUTGFFatzZ4) | [ORAM](https://open.spotify.com/album/4u1flBiWBXOVVZYTZ5jPdV) | 2:51 | 2024-12-29 | 2025-04-19 |
 | [Oru Ganam](https://open.spotify.com/track/51KAbrDDsBeWeD3ygp9ubg) | [Nixen](https://open.spotify.com/artist/5OF6qcEdyCFgyKPHkna1kb), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Oru Ganam](https://open.spotify.com/album/0jPmwB64s9PdV7Sk8l7ThY) | 4:03 | 2026-05-15 |  |
 | [ORU NAAL](https://open.spotify.com/track/24jXmAF3TUu9cbqywsnbYS) | [Marabukavi](https://open.spotify.com/artist/4ZI5kjqs53SfxggERnkycx), [2puff](https://open.spotify.com/artist/5JoZGRsU5az5UXyI3OAt3L), [THE KASH](https://open.spotify.com/artist/0bQSIlMpBdn1d20GCwoaHP) | [ORU NAAL](https://open.spotify.com/album/5L09YeR4zvZHFqxIi4KFIq) | 1:13 | 2025-04-25 | 2026-03-20 |
@@ -302,7 +303,7 @@
 | [Sikko Mode](https://open.spotify.com/track/3ku0mjWH9dTwAye983lMEQ) | [Dacalty](https://open.spotify.com/artist/7n15OEL121OCN7hOZnhZEd), [Silvan](https://open.spotify.com/artist/7uSsNLC3lGZtL4mhFEPUgw) | [Sikko Mode](https://open.spotify.com/album/6iWNhfwx401EJwuiH7zlr9) | 2:39 | 2025-02-17 | 2026-03-20 |
 | [Siruvani Siruvan](https://open.spotify.com/track/4ccdyHi5wvlMlRK1gOcprH) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [ERA](https://open.spotify.com/artist/2CRQKvuqKw8euASgmEJE6p) | [UNO](https://open.spotify.com/album/5jCWwNIkjqZAw1jocQt0sA) | 3:31 | 2025-01-06 | 2025-08-13 |
 | [Slim Intro](https://open.spotify.com/track/2qR3dyYaE4DROVUmzNmZZR) | [Slim KD](https://open.spotify.com/artist/09WwWdZUQKu1HHMfyYdLWI), [Stowe Francis](https://open.spotify.com/artist/7FvjLuuGbaJPo0S6KJFmBQ) | [Lost Files \(Unmastered\)](https://open.spotify.com/album/3Oh7PAYka9H3DaN3SOTTrx) | 1:59 | 2026-06-15 | 2026-08-25 |
-| [Society Dis](https://open.spotify.com/track/60cNjVatNUaDe3UStNkQxp) | [Umar khan](https://open.spotify.com/artist/6xjg3QO9Mz9c91gdmh6OxF), [Kavipaadum Karigaalan](https://open.spotify.com/artist/74LfH0KRpbWyrktrGHqDxN) | [Society Dis](https://open.spotify.com/album/051MZUI5je4L6dscQpcBvX) | 2:04 | 2026-02-23 |  |
+| [Society Dis](https://open.spotify.com/track/60cNjVatNUaDe3UStNkQxp) | [Umar khan](https://open.spotify.com/artist/6xjg3QO9Mz9c91gdmh6OxF), [Kavipaadum Karigaalan](https://open.spotify.com/artist/74LfH0KRpbWyrktrGHqDxN) | [Society Dis](https://open.spotify.com/album/051MZUI5je4L6dscQpcBvX) | 2:04 | 2026-02-23 | 2026-09-26 |
 | [Society Dis](https://open.spotify.com/track/3Mdt4KZV8Vd0Yan8eMZfel) | [Umarkhan](https://open.spotify.com/artist/3okJiew3lsAkRBovskCmUG), [Kavipaadum Karigaalan](https://open.spotify.com/artist/74LfH0KRpbWyrktrGHqDxN) | [Society Dis](https://open.spotify.com/album/254OrQq6pDo9jmFAuzcYny) | 2:04 | 2026-03-09 | 2026-04-21 |
 | [Solli Vei](https://open.spotify.com/track/0a3kxt3ENfxvhNRC9MVLCY) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq) | [Solli Vei](https://open.spotify.com/album/75674aUkYs4u2joPaL94YK) | 1:53 | 2025-01-27 | 2025-06-07 |
 | [Sollisai Haters](https://open.spotify.com/track/1mh0E5vVsDwSEkeziK7Z3H) | [Nigavithran](https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf), [Mc Vijay Sandy](https://open.spotify.com/artist/1s74X5aCHgUoUn6RUAAfaV), [Mc Azy](https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G) | [Sollisai Haters](https://open.spotify.com/album/5fpeLYig2Dlh3DorpVXkfn) | 3:07 | 2025-02-03 | 2026-01-28 |

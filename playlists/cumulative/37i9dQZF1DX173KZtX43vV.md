@@ -4,7 +4,7 @@
 
 > The newest arrivals\. Cover: Tiakola
 
-1,389 songs - 2 day 19 hr 37 min
+1,389 songs - 2 day 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Callin \(feat\. Blu june\)](https://open.spotify.com/track/0NjQT00ScuYMhQPFRCXndF) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Blu june](https://open.spotify.com/artist/3pyEwxCySBsnsD5B4SUiDr) | [Callin \(feat\. Blu june\)](https://open.spotify.com/album/1AbdUkx9FpRz4JZeTKDnvS) | 2:34 | 2026-05-28 | 2026-06-05 |
 | [Calling](https://open.spotify.com/track/5TF1rv1QBJNhYT0RQrxu13) | [Abbie Piper](https://open.spotify.com/artist/3N9FuCdd029V1YTentbJTO) | [Calling](https://open.spotify.com/album/0LBaha62uX6u3Zp1WE8fJj) | 3:02 | 2026-05-15 | 2026-05-22 |
 | [camera](https://open.spotify.com/track/3BNcUatSV8nrlCPEILB31g) | [izabalien](https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj) | [camera](https://open.spotify.com/album/1LiaZYvPXTb2t71VHr4xkB) | 2:36 | 2026-06-11 | 2026-06-19 |
+| [Can I //](https://open.spotify.com/track/4WozK8h1XBrFBX5GBHVvFE) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Ashley Walters](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO) | [Elements 2 //](https://open.spotify.com/album/5NJqLOfwCXu3y3KwLjWJc0) | 2:41 | 2026-09-24 |  |
 | [Can you feel it?](https://open.spotify.com/track/7bCN7bgCd8opEmNvg7ILxi) | [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs) | [Can you feel it?](https://open.spotify.com/album/6BN0IbeHLkdkksZum3hIij) | 2:01 | 2026-02-13 | 2026-02-21 |
 | [Can You Stay](https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Tension](https://open.spotify.com/album/1eX8NF6QsW224pMwphpPiL) | 3:54 | 2026-08-13 | 2026-08-28 |
 | [CAN'T RELATE](https://open.spotify.com/track/1wdHkUwLL5yAx3Dl6dfdUc) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m) | [CAN'T RELATE](https://open.spotify.com/album/32wzbarXsCU5DrklOSxmcG) | 2:00 | 2026-07-16 | 2026-07-31 |
@@ -563,6 +564,7 @@
 | [HOT AS A BIC](https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [HOT AS A BIC](https://open.spotify.com/album/7CmtWx7f2EydR0o4bJUcdw) | 2:53 | 2026-07-23 | 2026-08-01 |
 | [HOT LIKE!](https://open.spotify.com/track/4A4H0UDSTKsphl4wnDEzoe) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [HOT LIKE!](https://open.spotify.com/album/1XCINzipUUic0psL70cuJp) | 2:25 | 2025-11-21 | 2025-12-12 |
 | [Hot Stunna](https://open.spotify.com/track/2w5bjA39r61Zytbm2DNM6X) | [Che Mario](https://open.spotify.com/artist/1ivNd0gXUD4YnY1HLm6akh) | [Hot Stunna](https://open.spotify.com/album/7DyV42H8KMaBlNHJlsdcCC) | 2:56 | 2026-08-27 | 2026-09-11 |
+| [Hot Topic](https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Undeniable](https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8) | 3:02 | 2026-09-24 |  |
 | [House Call](https://open.spotify.com/track/1P2YMHIhDi0Oszip9SpdtS) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Too Too Bad](https://open.spotify.com/album/0XXkEYOyHM2Lpb09pME4rl) | 2:37 | 2026-07-16 | 2026-07-24 |
 | [How Cud U?](https://open.spotify.com/track/05UdQeEyAqWcsxZKYdhkbN) | [ANGEL!](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [How Cud U?](https://open.spotify.com/album/6BAvjggsEsvVPTOFBnwRtm) | 2:35 | 2026-01-23 | 2026-01-30 |
 | [How Greedy \(feat\. Theodora\)](https://open.spotify.com/track/2frgkDD0XKvyJ2nVu7s6Ne) | [Len](https://open.spotify.com/artist/2siXaXrok89Fp1PZI7sn0s), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [How Greedy \(feat\. Theodora\)](https://open.spotify.com/album/7vVcjP5JwWTQKJNJfU18D8) | 2:24 | 2025-12-05 | 2025-12-19 |
@@ -1254,8 +1256,6 @@
 | [Touch bby](https://open.spotify.com/track/4Ksyqz0rioYK0DJnuXp888) | [Essosa](https://open.spotify.com/artist/6fn7JM8daBvCxpTkYyqtGY) | [Touch bby](https://open.spotify.com/album/1vSKPb1LckjSJSGKVeQ5gd) | 2:05 | 2026-02-20 | 2026-02-27 |
 | [Touched](https://open.spotify.com/track/3YfTRQJUSvq6Ri3DzuDG3n) | [sbk](https://open.spotify.com/artist/1SDlOEGpzLuqjC74p6GK85) | [Touched](https://open.spotify.com/album/2PeniNPiOgKpiFWEHNongC) | 2:58 | 2025-12-19 | 2026-01-15 |
 | [Tough](https://open.spotify.com/track/5TmpaPaxP6DjvoGyets9sO) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260), [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [Tough](https://open.spotify.com/album/7kAuTCG3RtuNsILTvuMGms) | 3:15 | 2026-03-06 | 2026-03-20 |
-| [Track 2](https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Undeniable](https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8) | 0:00 | 2026-09-24 |  |
-| [Track 7](https://open.spotify.com/track/4WozK8h1XBrFBX5GBHVvFE) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [Elements 2 //](https://open.spotify.com/album/5NJqLOfwCXu3y3KwLjWJc0) | 0:00 | 2026-09-24 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-03-27 |
 | [Tralala \(feat\. JayO\)](https://open.spotify.com/track/56tncmDMcu6CdGfUmE6FSc) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [Destinée](https://open.spotify.com/album/33V05j22TgtWOJ5OvREj1p) | 2:48 | 2025-11-21 | 2025-12-12 |
 | [Treading Water](https://open.spotify.com/track/2vy2VwvIHGUowBOvyTb9gg) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7) | [Treading Water](https://open.spotify.com/album/48TTmFUOAmJNVUSNzdiMjr) | 3:04 | 2026-04-24 | 2026-05-06 |
@@ -1381,7 +1381,7 @@
 | [Ye](https://open.spotify.com/track/0oEhMEWHXOiYs58LP6ioC9) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Ye](https://open.spotify.com/album/3clavYvvQGYh01lciAx3t3) | 3:13 | 2026-09-24 |  |
 | [Yep](https://open.spotify.com/track/2tuW2GQM4ERuLt5UMeZ1z6) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Yep](https://open.spotify.com/album/4meoHt8uzYWUhWdVf3JmrI) | 2:12 | 2026-07-16 | 2026-07-24 |
 | [Yes](https://open.spotify.com/track/14sopbixI4sBWQdifhzEXJ) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Yes](https://open.spotify.com/album/3VuKSwcKkB1UXnQA1VU0I6) | 3:08 | 2026-07-10 | 2026-07-17 |
-| [Yes I Will](https://open.spotify.com/track/2KRbVaxFvXjH4vHZ6tKhtS) | [FromJerome](https://open.spotify.com/artist/2KrD2XsvyG8ZBFsjE22T9S) | [Yes I Will](https://open.spotify.com/album/2b2oBMdvRFDi32HcO2eBY7) | 2:17 | 2026-09-24 |  |
+| [YES I WILL](https://open.spotify.com/track/2KRbVaxFvXjH4vHZ6tKhtS) | [FromJerome](https://open.spotify.com/artist/2KrD2XsvyG8ZBFsjE22T9S) | [YES I WILL](https://open.spotify.com/album/2b2oBMdvRFDi32HcO2eBY7) | 2:17 | 2026-09-24 |  |
 | [Yes&No](https://open.spotify.com/track/4kg8yix9vYc7mM5iTr2Jym) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [Ledbyher](https://open.spotify.com/artist/4UDkTxtdr3HpZrDRu9727s) | [Yes&No](https://open.spotify.com/album/6P87mtnmwSPohs9JdgAWWN) | 3:08 | 2026-08-27 | 2026-09-04 |
 | [Yesterday](https://open.spotify.com/track/1UL13ugmjz3HSbkN4d8nm2) | [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [Yesterday](https://open.spotify.com/album/19eoX2kxUm5dIbUymagNMF) | 3:12 | 2026-01-02 | 2026-01-16 |
 | [yesterday](https://open.spotify.com/track/6zzKi1OJ1Y1vb9ByMNRuJ8) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [yesterday](https://open.spotify.com/album/0CZuDdaQSMExzzgjq9tZ5a) | 2:43 | 2026-07-10 | 2026-07-17 |

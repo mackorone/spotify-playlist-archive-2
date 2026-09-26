@@ -779,22 +779,6 @@
     {
       "added_at": "2026-04-19 15:00:06",
       "album": {
-        "name": "play hard",
-        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
-      },
-      "artists": [
-        {
-          "name": "TWS",
-          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "OVERDRIVE",
-      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
-    },
-    {
-      "added_at": "2026-04-19 15:00:06",
-      "album": {
         "name": "REVIVE+",
         "url": "https://open.spotify.com/album/3BSpzEq1p4bSWdvrEKtOcF"
       },
@@ -811,18 +795,34 @@
     {
       "added_at": "2026-04-19 15:00:06",
       "album": {
-        "name": "The Action",
-        "url": "https://open.spotify.com/album/6NKAKKTVPPE85NIDY9u6QD"
+        "name": "play hard",
+        "url": "https://open.spotify.com/album/6RBnUYZIGKGDdgEnf3ta1U"
       },
       "artists": [
         {
-          "name": "BOYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+          "name": "TWS",
+          "url": "https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Hollywood Action",
-      "url": "https://open.spotify.com/track/4BtOh0Xwh3DHelPQ14MPVC"
+      "duration_ms": 160000,
+      "name": "OVERDRIVE",
+      "url": "https://open.spotify.com/track/5qAfVxNUxjrELshgTpWxLf"
+    },
+    {
+      "added_at": "2026-04-19 15:00:06",
+      "album": {
+        "name": "Turn The Lights Off",
+        "url": "https://open.spotify.com/album/28BPIqT3AAN3qLq7MY6ryF"
+      },
+      "artists": [
+        {
+          "name": "H:dn",
+          "url": "https://open.spotify.com/artist/4gD6ddSF1KwHyvk34XykYH"
+        }
+      ],
+      "duration_ms": 144165,
+      "name": "Turn The Lights Off",
+      "url": "https://open.spotify.com/track/6ouaFbSkK136LinzuwUxT0"
     }
   ],
   "unique_name": "\ud654\uc0b0\uadc0\ud658",

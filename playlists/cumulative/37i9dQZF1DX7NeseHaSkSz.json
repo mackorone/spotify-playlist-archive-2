@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Aetheron",
+        "url": "https://open.spotify.com/album/0GaESmGAvuSG4p8YQptEW5"
+      },
+      "artists": [
+        {
+          "name": "Noctambulists",
+          "url": "https://open.spotify.com/artist/2qP9zaT98MB2v9WMsC39Ed"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198775,
+      "name": "Aetheron",
+      "url": "https://open.spotify.com/track/7nUoqeqv7gsQF0TAOkScdd"
+    },
+    {
+      "album": {
         "name": "Agenor Linea",
         "url": "https://open.spotify.com/album/45Kc4FLaLh4iGzKfA08BY6"
       },
@@ -218,6 +236,24 @@
       "duration_ms": 181834,
       "name": "Aletheia",
       "url": "https://open.spotify.com/track/6MMugZYBCUvlAy6DBASpZG"
+    },
+    {
+      "album": {
+        "name": "Aligned",
+        "url": "https://open.spotify.com/album/0v4m70LgtNfGNSNF6sqxEH"
+      },
+      "artists": [
+        {
+          "name": "Divine Moments",
+          "url": "https://open.spotify.com/artist/4rK7cbO86S7SvbdVdSNhKf"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138515,
+      "name": "Aligned",
+      "url": "https://open.spotify.com/track/7tvwz72JOnSqcs6NGc4vg1"
     },
     {
       "album": {
@@ -603,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Calm Relief",
+        "url": "https://open.spotify.com/album/2x0B3cLk1oAGX1YFfuiG5A"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146898,
+      "name": "Calm Relief",
+      "url": "https://open.spotify.com/track/06pVOS4HCkFmOLKGoaPNb9"
+    },
+    {
+      "album": {
         "name": "Celestial Rain",
         "url": "https://open.spotify.com/album/460QKUqdTezlgttDkMwMtT"
       },
@@ -981,6 +1035,24 @@
     },
     {
       "album": {
+        "name": "Echoes of the Himalayas",
+        "url": "https://open.spotify.com/album/5nHozVwSCPW93uragMZz9A"
+      },
+      "artists": [
+        {
+          "name": "Ekayana",
+          "url": "https://open.spotify.com/artist/37jiKDb6o5YpDusODsz2V0"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150618,
+      "name": "Echoes of the Himalayas",
+      "url": "https://open.spotify.com/track/55gEbcY63FguaJcMMjQ8jG"
+    },
+    {
+      "album": {
         "name": "Elder Glow",
         "url": "https://open.spotify.com/album/1NHiKf3LvcG3DDM369Sktv"
       },
@@ -1269,6 +1341,24 @@
     },
     {
       "album": {
+        "name": "Forest Stream",
+        "url": "https://open.spotify.com/album/1kxLix7XQWFG6SJVJzY54w"
+      },
+      "artists": [
+        {
+          "name": "Amandi Chi",
+          "url": "https://open.spotify.com/artist/3gimY0LBIuQ67JW3eSZ81G"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138083,
+      "name": "Forest Stream",
+      "url": "https://open.spotify.com/track/3dPwJszNnUYrFp1BsNG3ha"
+    },
+    {
+      "album": {
         "name": "Forest Temple",
         "url": "https://open.spotify.com/album/7Eq90GfM3AIlwQnrzCCOPR"
       },
@@ -1392,6 +1482,24 @@
       "duration_ms": 189929,
       "name": "Garden Oasis",
       "url": "https://open.spotify.com/track/35D2f4nJmgP2R0JOeRRmTe"
+    },
+    {
+      "album": {
+        "name": "Gentle Moments",
+        "url": "https://open.spotify.com/album/6GadlSkFedDKAYtXoYZIBz"
+      },
+      "artists": [
+        {
+          "name": "Seraphae",
+          "url": "https://open.spotify.com/artist/2jewcis9ScGcePKJRs60Fq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162073,
+      "name": "Gentle Moments",
+      "url": "https://open.spotify.com/track/4pF2l6eI1hT6BO4bLVUNYu"
     },
     {
       "album": {
@@ -1772,6 +1880,24 @@
       "duration_ms": 155139,
       "name": "Inner Awareness",
       "url": "https://open.spotify.com/track/4lEeowQXCo8bwvBo8LlQao"
+    },
+    {
+      "album": {
+        "name": "Inner Temple",
+        "url": "https://open.spotify.com/album/1BV3E2RMYlt025AL7xCY8u"
+      },
+      "artists": [
+        {
+          "name": "Divine Moments",
+          "url": "https://open.spotify.com/artist/4rK7cbO86S7SvbdVdSNhKf"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135058,
+      "name": "Inner Temple",
+      "url": "https://open.spotify.com/track/3xBonSRLGa9r6eFQFI2QO8"
     },
     {
       "album": {
@@ -2341,6 +2467,24 @@
     },
     {
       "album": {
+        "name": "Moon Over Varanasi",
+        "url": "https://open.spotify.com/album/1JQ9g3lPJh3TgzGiih6YsJ"
+      },
+      "artists": [
+        {
+          "name": "Tone Fluency",
+          "url": "https://open.spotify.com/artist/2e5eHuSE4kABHp8Fw3WLsa"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Moon Over Varanasi",
+      "url": "https://open.spotify.com/track/5v0CrRn7oOAUqtYKwVEncY"
+    },
+    {
+      "album": {
         "name": "Moonlit",
         "url": "https://open.spotify.com/album/6CQkAlDP8dtAU52nsaTFWG"
       },
@@ -2374,6 +2518,24 @@
       "duration_ms": 217333,
       "name": "Morning Flute",
       "url": "https://open.spotify.com/track/3YwuSDuRo9Rf9ZPtxg0l6K"
+    },
+    {
+      "album": {
+        "name": "Morning Serenity",
+        "url": "https://open.spotify.com/album/6x12qsiJdJXlt4hLTXqMl4"
+      },
+      "artists": [
+        {
+          "name": "Andreas Gidlund",
+          "url": "https://open.spotify.com/artist/1i1prvKQoU8d7eTrRHIMtO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Morning Serenity",
+      "url": "https://open.spotify.com/track/6PBDW3ILzW8XVvzhbdrjWA"
     },
     {
       "album": {
@@ -2521,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "Natural Harmonics",
+        "url": "https://open.spotify.com/album/07MPCdELHSOEv689amREZb"
+      },
+      "artists": [
+        {
+          "name": "Nika Tibia",
+          "url": "https://open.spotify.com/artist/4QhNvRkthPpRIRdhsj6lTg"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208814,
+      "name": "Natural Harmonics",
+      "url": "https://open.spotify.com/track/1aDEfFpgWGXhrBnl7ApvnY"
+    },
+    {
+      "album": {
         "name": "Natural rest",
         "url": "https://open.spotify.com/album/3RF82rOz1YN0NNfQYIbK84"
       },
@@ -2590,6 +2770,24 @@
       "duration_ms": 150079,
       "name": "Nature Yoga",
       "url": "https://open.spotify.com/track/4zCbcN1IRtmmdaF9XkvkdF"
+    },
+    {
+      "album": {
+        "name": "Nature's Ocarina",
+        "url": "https://open.spotify.com/album/79amceda2rWsW6JmzGYA26"
+      },
+      "artists": [
+        {
+          "name": "Voices Of The Ocean",
+          "url": "https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205047,
+      "name": "Nature's Ocarina",
+      "url": "https://open.spotify.com/track/1CTJ1PCxbYhOaCQxvPNVv1"
     },
     {
       "album": {
@@ -2752,6 +2950,24 @@
       "duration_ms": 168000,
       "name": "Open Arms 432 Hz",
       "url": "https://open.spotify.com/track/3caa45tmJuemC5VEeObEF2"
+    },
+    {
+      "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/0BfZC0p5pLEACWG4T9xJE7"
+      },
+      "artists": [
+        {
+          "name": "Anais Byrne",
+          "url": "https://open.spotify.com/artist/4tNwZLqZ99lS5gs93v9sV1"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156866,
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/70wWtITBRKWQ7sSNZa0ehJ"
     },
     {
       "album": {
@@ -3511,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "Serenity Air",
+        "url": "https://open.spotify.com/album/7HubEnkPi9z6dhj1T5ekUn"
+      },
+      "artists": [
+        {
+          "name": "Elysian Heart",
+          "url": "https://open.spotify.com/artist/1x3oP4wJPV3fUtTV6KQIvD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198834,
+      "name": "Serenity Air",
+      "url": "https://open.spotify.com/track/7a4wxqeCY34LSBkPlJlc9P"
+    },
+    {
+      "album": {
         "name": "Serenity's Song",
         "url": "https://open.spotify.com/album/3tlLoLYPqDlqwBVu1UiDUc"
       },
@@ -3598,6 +3832,24 @@
       "duration_ms": 176144,
       "name": "Silver Light",
       "url": "https://open.spotify.com/track/3V0v9dJyCGZQd2eJDQyQNU"
+    },
+    {
+      "album": {
+        "name": "Slow Breathing",
+        "url": "https://open.spotify.com/album/39Ts2PBDBYUllGcMFbgKSu"
+      },
+      "artists": [
+        {
+          "name": "Kundalini Dreams",
+          "url": "https://open.spotify.com/artist/24OD7jZHofVutQwTUSL2mV"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181710,
+      "name": "Slow Breathing",
+      "url": "https://open.spotify.com/track/3aMzokveM98pelODBoYyRf"
     },
     {
       "album": {
@@ -3742,6 +3994,24 @@
       "duration_ms": 158511,
       "name": "Spirit Glow",
       "url": "https://open.spotify.com/track/07b2fta7NQml24AaGqTVjA"
+    },
+    {
+      "album": {
+        "name": "Spirit Origin",
+        "url": "https://open.spotify.com/album/5achWznm0wiUZZX06xyxCM"
+      },
+      "artists": [
+        {
+          "name": "Chatoyant",
+          "url": "https://open.spotify.com/artist/0Kxsqx91lbITSuzRQQuc7h"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220957,
+      "name": "Spirit Origin",
+      "url": "https://open.spotify.com/track/6Vg4tzJCbaTw8EyMt8d4Is"
     },
     {
       "album": {

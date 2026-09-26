@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Nabila Taqiyyah",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: MASDO",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -1565,6 +1565,24 @@
     },
     {
       "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/0F1GfJmmaWOi5sE3ZQOYSm"
+      },
+      "artists": [
+        {
+          "name": "Al-Ghazali",
+          "url": "https://open.spotify.com/artist/574Sftrqpo7OKHWPXprSMx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218733,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/5yUjO084QWrMxM4EqpgWFr"
+    },
+    {
+      "album": {
         "name": "AMO",
         "url": "https://open.spotify.com/album/6NvN7fL7pSbVnsuXZhpq1x"
       },
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -3806,7 +3824,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 300280,
       "name": "Bintang Di Surga",
       "url": "https://open.spotify.com/track/3o4EXDRhlqunE3U38teyST"
@@ -3896,7 +3914,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 231826,
       "name": "Blank Space",
       "url": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g"
@@ -5542,6 +5560,32 @@
       "duration_ms": 159095,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
+    },
+    {
+      "album": {
+        "name": "Brightest Blue",
+        "url": "https://open.spotify.com/album/7hCfgsycCFH4bBjEfUwh3S"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182626,
+      "name": "Close To Me",
+      "url": "https://open.spotify.com/track/2GjMaJ7DacMIkgoe8oMXGg"
     },
     {
       "album": {
@@ -9140,7 +9184,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 265000,
       "name": "for lovers who hesitate",
       "url": "https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk"
@@ -11426,7 +11470,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 139223,
       "name": "Hompimpa",
       "url": "https://open.spotify.com/track/5Nk61wJGbPJNBIbnQG9vNl"
@@ -12130,7 +12174,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 276613,
       "name": "I'll Believe in Anything",
       "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
@@ -12502,7 +12546,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 107000,
       "name": "Im Sorry Mom",
       "url": "https://open.spotify.com/track/50tTFMbM8n9Ztbngn9tV6q"
@@ -12556,7 +12600,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 294260,
       "name": "Impostor Syndrome",
       "url": "https://open.spotify.com/track/33KU9huHP1Lv1UWWVkuTYd"
@@ -13200,7 +13244,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 227451,
       "name": "Jantung Aman Kan?",
       "url": "https://open.spotify.com/track/0MhLGM30nBiaRdpAdpxHi0"
@@ -13352,7 +13396,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 145411,
       "name": "Jika Kamu Benar-benar Mengenalku",
       "url": "https://open.spotify.com/track/5Dq9nldA4P0qwxfTIXVzpV"
@@ -15136,7 +15180,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 244053,
       "name": "Laskar Cinta (Chapter One)",
       "url": "https://open.spotify.com/track/5jyqLgqCPOBmHvQHwXB8UA"
@@ -17414,7 +17458,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 133952,
       "name": "Mbak Billie",
       "url": "https://open.spotify.com/track/3lGPSS7Q9Npu81v4RZcvdp"
@@ -19305,6 +19349,24 @@
     },
     {
       "album": {
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
+    },
+    {
+      "album": {
         "name": "LIVE and FALL",
         "url": "https://open.spotify.com/album/6y9Y5ddQJZTp2QmajWznRd"
       },
@@ -20100,7 +20162,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 156467,
       "name": "Off My Face",
       "url": "https://open.spotify.com/track/3T03rPwlL8NVk1yIaxeD8U"
@@ -23659,6 +23721,24 @@
     },
     {
       "album": {
+        "name": "Dunia dan Seisinya",
+        "url": "https://open.spotify.com/album/6trwcUAKmtcddQWTxCBA1D"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230752,
+      "name": "Sampai Ujung Batas",
+      "url": "https://open.spotify.com/track/7BNvfb7xnggIInGUj6kKxa"
+    },
+    {
+      "album": {
         "name": "+imeless",
         "url": "https://open.spotify.com/album/1wyW6xxlgeDHqbpJRnUYPG"
       },
@@ -24472,7 +24552,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 228851,
       "name": "Sempurnanya Aku",
       "url": "https://open.spotify.com/track/0JfmPdTQbvJpD6ngsCLgR5"
@@ -24562,7 +24642,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 199285,
       "name": "SEMUA LAGU CINTA UNTUKMU SAJA",
       "url": "https://open.spotify.com/track/1BrTZQ0KscBhBblQAQO3Du"
@@ -26122,7 +26202,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-15",
+      "date_removed": null,
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
@@ -29382,7 +29462,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-27",
+      "date_removed": null,
       "duration_ms": 245462,
       "name": "Titik Nadir (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/52m690jqpxP1tHHkRNdl5p"

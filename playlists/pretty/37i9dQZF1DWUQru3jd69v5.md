@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Giovane Drago in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,541 likes - 58 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,566 likes - 58 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 12 | [Proclamarci vivi](https://open.spotify.com/track/2YJtrHAqBu9AWXpN8IhbIH) | [Rnawa](https://open.spotify.com/artist/18VNvuSCfOuIwCkd8VzOIV) | [Proclamarci vivi](https://open.spotify.com/album/2NQ8ApmTawLt3I6Et3L6N0) | 2:06 |
 | 13 | [puzzo di dior](https://open.spotify.com/track/1aozeiA85oAQ5U6jFPSj6Q) | [UNK](https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr) | [puzzo di dior](https://open.spotify.com/album/1M0UfPh3iXlPpqAHnQtMLd) | 2:33 |
 | 14 | [WEEKEND](https://open.spotify.com/track/46tv2e5LZsyWnLqw3KMZbZ) | [Helmi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Willy](https://open.spotify.com/artist/3OPPr0QwjBGnWfaVkxBTow) | [WEEKEND](https://open.spotify.com/album/7EyVPBZS25MdYCndvDv7rC) | 2:56 |
-| 15 | [100MILA \(Grazie Mai\) \[feat\. Yago\]](https://open.spotify.com/track/6XJWF1hKe90aixK5haXMyy) | [Sele](https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7), [Yago](https://open.spotify.com/artist/4cRzFzudJww12jwK1ynise) | [100MILA \(Grazie Mai\) \[feat\. Yago\]](https://open.spotify.com/album/1Jr1OUnLfe2GjoqPLDeCqZ) | 2:30 |
+| 15 | [100MILA \(Grazie Mai\) \[feat\. Yago\]](https://open.spotify.com/track/6XJWF1hKe90aixK5haXMyy) | [Sele](https://open.spotify.com/artist/1DUg0y2Y3aL0O2CyFmzXu7), [Yago](https://open.spotify.com/artist/0V5KSQBTEZ9aMI0rzoLfRI) | [100MILA \(Grazie Mai\) \[feat\. Yago\]](https://open.spotify.com/album/1Jr1OUnLfe2GjoqPLDeCqZ) | 2:30 |
 | 16 | [EUROPA MAFIJA](https://open.spotify.com/track/7nB3EMhugbcmgRg7u0kMxI) | [Malsho](https://open.spotify.com/artist/1QoHY2jVpZqUrqnpZjA811), [Ramzes](https://open.spotify.com/artist/3lSnvqZegxgUxopOE6MUmR) | [EUROPA MAFIJA](https://open.spotify.com/album/2LNXjrnuEPsp6CeuXHTGwr) | 2:05 |
 | 17 | [MOLLY GIRL \(feat\. GREG Qx\)](https://open.spotify.com/track/3vCroa6GZAkHTBjkwD5rMq) | [IDRA Rxx](https://open.spotify.com/artist/21FDbAp2h7kwmaQ8yr4D1s), [Bossdelklima](https://open.spotify.com/artist/5YUldjaLfnL5LfzPvaVwT0), [GREG Qx](https://open.spotify.com/artist/3cI2RmcrjaqzFQWqyueGvx) | [MOLLY GIRL \(feat\. GREG Qx\)](https://open.spotify.com/album/2vhrLV3m4jWUZG18u0bz4C) | 3:38 |
 | 18 | [Tutto Scorre](https://open.spotify.com/track/7p66WPqossFb1J3zTYDjL8) | [Ayo Mich](https://open.spotify.com/artist/3TCtxMB7XKS9QmSZmcJQ3a), [Ayy Yo Felix](https://open.spotify.com/artist/5QJNRcuqZLCXaVwSjrizgM) | [TUTTO SCORRE](https://open.spotify.com/album/4MQHo2ft9vsvTlFe6FY7pg) | 2:59 |

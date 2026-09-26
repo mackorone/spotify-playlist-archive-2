@@ -2,7 +2,7 @@
 
 ### [Spotify Japan 急上昇チャート](https://open.spotify.com/playlist/37i9dQZF1DX9vYRBO9gjDe)
 
-> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月22日付。
+> Spotify Japanのデイリー急上昇チャート。毎週月〜金曜日更新。9月23日付。
 
 7,909 songs - 19 day 15 hr 26 min
 
@@ -190,7 +190,7 @@
 | [Air](https://open.spotify.com/track/6HSns0qPQQfgekCrBF0Dkf) | [YEJI](https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m) | [AIR](https://open.spotify.com/album/6sJnzoRI9pXUo0gZxIviUS) | 3:14 | 2025-03-14 | 2025-03-17 |
 | [Aishite \(愛して\)](https://open.spotify.com/track/0MkjTVfcgT6dAVjDpkmNIL) | [North West](https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2) | [N0rth4evr](https://open.spotify.com/album/1jkEEeWKAJiR0LQyOvtM7b) | 2:05 | 2026-05-08 | 2026-05-12 |
 | [Aisubekihibiyo](https://open.spotify.com/track/4t0uFxqYrjXjJneeTByjFj) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Donnakotonidemoshiawasewokanjirukotogadekitanara](https://open.spotify.com/album/6UO3ol61HQD56nV50GxLJl) | 4:38 | 2023-09-29 | 2023-10-10 |
-| [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-01-15 | 2026-09-23 |
+| [AIZO](https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [AIZO](https://open.spotify.com/album/7BAFUXup2XFZpcnCmLjXmM) | 3:35 | 2026-01-15 |  |
 | [AKANE On My Mind～饅頭こわい](https://open.spotify.com/track/5um4gHKgOovWuzsQJsErXn) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [AKANE On My Mind～饅頭こわい](https://open.spotify.com/album/2LXc1xtHy5x6eE3vXCou9B) | 4:18 | 2026-06-11 | 2026-06-13 |
 | [Akaneko](https://open.spotify.com/track/3tiIqf0bAHPmGyHAEaMVND) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [POP DELIVERY](https://open.spotify.com/album/3MbCfJXW69ChunaDfySshq) | 3:34 | 2024-06-06 | 2024-06-08 |
 | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan Gulaab \(From "Teri Baaton Mein Aisa Uljha Jiya"\)](https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr) | 2:51 | 2024-02-02 | 2024-02-04 |
@@ -6887,7 +6887,7 @@
 | [好きな人がいること](https://open.spotify.com/track/15HDH9up3Imdm8KtsGv9XD) | [JY](https://open.spotify.com/artist/5vO3b6n7tKXv7S9JWmeniF) | [Many Faces \-多面性\-](https://open.spotify.com/album/5AHNRu1ibpXQAnONhcpRlB) | 4:32 | 2024-10-11 | 2026-07-01 |
 | [好きになるクレッシェンド](https://open.spotify.com/track/2JTPCY0hGhFsYTAPQfhhUP) | [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j) | [好きになるクレッシェンド](https://open.spotify.com/album/6GVYLkkgQEh4EDQbg5NpsC) | 4:04 | 2026-01-29 | 2026-01-31 |
 | [好きになるクレッシェンド](https://open.spotify.com/track/3OaT1FZnlS6zK1YT5PkDaK) | [Hinatazaka46](https://open.spotify.com/artist/0eQSoTI7sQENREQM8Klp2j) | [クリフハンガー\(Special Edition\)](https://open.spotify.com/album/4ryladfbTfrKvqwQfss8to) | 4:04 | 2026-02-04 | 2026-02-07 |
-| [始まりのように](https://open.spotify.com/track/0E3u9s7dNh7obb6KkiEPxi) | [REN](https://open.spotify.com/artist/1Dg4sJ9R4oTCaA7fohHJmf) | [始まりのように](https://open.spotify.com/album/4mWl6OMuhepJlaWof3lobG) | 3:02 | 2025-08-20 |  |
+| [始まりのように](https://open.spotify.com/track/0E3u9s7dNh7obb6KkiEPxi) | [REN](https://open.spotify.com/artist/1Dg4sJ9R4oTCaA7fohHJmf) | [始まりのように](https://open.spotify.com/album/4mWl6OMuhepJlaWof3lobG) | 3:02 | 2025-08-20 | 2026-09-26 |
 | [嫌々](https://open.spotify.com/track/4oqUgyBXtbbJkeppHt8t2D) | [HALVES](https://open.spotify.com/artist/3r8vtmXnlIHTb6DnGAxppK) | [嫌々](https://open.spotify.com/album/6tmF9G7yL59bMCQ8eL20qg) | 3:04 | 2024-12-13 | 2025-10-15 |
 | [嫌嫌](https://open.spotify.com/track/73beY6Yn4Jg0CyfN8txrfz) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [嫌嫌](https://open.spotify.com/album/4Qw1FoecWUEh2PGbKYm7Sd) | 3:41 | 2023-03-18 | 2023-03-20 |
 | [存在](https://open.spotify.com/track/5WcHRHkksGn8gqQi9SpzJb) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [存在](https://open.spotify.com/album/3ICQhAMYIEHYzXieIepvO1) | 3:56 | 2025-03-10 | 2025-03-13 |

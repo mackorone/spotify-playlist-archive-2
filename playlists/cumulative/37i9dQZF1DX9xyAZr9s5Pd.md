@@ -2,9 +2,9 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Lolabúm
+> ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Hermanos Gutiérrez
 
-166 songs - 9 hr 23 min
+168 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 | 2023-09-22 | 2024-05-18 |
 | [Los Domingos](https://open.spotify.com/track/7ArjPcNTIMIPTST10plFKV) | [Paula Pera y el fin de los Tiempos](https://open.spotify.com/artist/5zuGV6u9UobNW3KPGXui6o) | [Los Domingos](https://open.spotify.com/album/4pKMqz4Q8R1bIGCK41ilrt) | 3:37 | 2023-09-22 |  |
 | [los mismos](https://open.spotify.com/track/49ASTjrn5GshpsttKeCRSI) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [los mismos](https://open.spotify.com/album/5nLOCyJsb6SBlPiSbXk5LM) | 2:41 | 2026-09-04 |  |
+| [Los Ojos Del Cóndor](https://open.spotify.com/track/3cJvScXrQVCchpz83aNrXq) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Ojos Del Cóndor](https://open.spotify.com/album/2C8ZUoLNFrEO7KzPg03329) | 3:32 | 2026-09-25 |  |
 | [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 | 2024-07-05 | 2025-03-08 |
 | [Lunera](https://open.spotify.com/track/0XM0WuCkBWXL3ADRDUeuHS) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Viene y Va](https://open.spotify.com/album/4Vupbn7Bk1mBxLxQnbONDr) | 4:24 | 2026-03-18 | 2026-03-27 |
 | [Límites](https://open.spotify.com/track/3InU95w7uhcHOxXU9m1294) | [Clara Yolks](https://open.spotify.com/artist/7EGQpkwkyAgaJSgnRGHJ59) | [Límites](https://open.spotify.com/album/66tUKjngOsWoJj7ccwktRD) | 3:30 | 2023-11-17 |  |
@@ -172,6 +173,7 @@
 | [Wrong](https://open.spotify.com/track/1AgswkAY8csSSfgb2JQkeB) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Wrong](https://open.spotify.com/album/4NSlkTpEJo4F49Zwg0VoUY) | 3:31 | 2023-09-22 | 2025-04-12 |
 | [Y YA NADA](https://open.spotify.com/track/3IBYBGzIvrLj8mdJBDXKFr) | [LaTorre](https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ), [Marcel Bagés](https://open.spotify.com/artist/0zXBa5DyjzKxjRj01iRJkn), [David Soler](https://open.spotify.com/artist/1ASP7GYxPVkYoejPblW6O1) | [Y YA NADA](https://open.spotify.com/album/4bMMiMiAK4jAkiSIg36hcJ) | 3:54 | 2025-04-11 |  |
 | [ya lo sabemos](https://open.spotify.com/track/3cLV9ACRWvOf3Z7SLqud5B) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Antes y Después](https://open.spotify.com/album/2eR2uZOC861wwAqg1vFmDq) | 3:18 | 2024-10-18 |  |
+| [ya no estoy](https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [ya no estoy](https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz) | 2:58 | 2026-09-25 |  |
 | [Young](https://open.spotify.com/track/45FLsvojU63HpbTKXSwTao) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/4my95sS2JXep8uUPOfe8zI) | 3:14 | 2026-03-18 | 2026-03-27 |
 | [¿El 14 qué harás?](https://open.spotify.com/track/2JV6LNI0rX9KcUEDCT9wQ8) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [devut](https://open.spotify.com/album/3hNpXrIXElTaQSDIG6b1kC) | 2:39 | 2026-03-18 | 2026-03-27 |
 

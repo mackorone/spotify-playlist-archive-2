@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "\u207a\u2027\u208a\u02da\u22c6a curated space for the avant-garde\u22c6\u02da\u208a\u2027\u207a cover: 2hollis",
+  "description": "\u207a\u2027\u208a\u02da\u22c6a curated space for the avant-garde\u22c6\u02da\u208a\u2027\u207a cover: Zora Jones",
   "name": "Proto-",
   "tracks": [
     {
@@ -558,7 +558,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 119575,
       "name": "4ever",
       "url": "https://open.spotify.com/track/1d4DNZvZTpuFJ9JbvCyr8N"
@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6acbfC4khcUgLplxiLKWIq"
+      },
+      "artists": [
+        {
+          "name": "def sera",
+          "url": "https://open.spotify.com/artist/6TMQV1NysNlRhrDbEz6vtE"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133383,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/3Y5of3BL2PBRTCpibqsxxS"
+    },
+    {
+      "album": {
         "name": "Aftertaste",
         "url": "https://open.spotify.com/album/3iO7HUJINMe5sefNeXTNYB"
       },
@@ -1810,6 +1828,24 @@
       "duration_ms": 167540,
       "name": "All Around The World (with Duckwrth)",
       "url": "https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx"
+    },
+    {
+      "album": {
+        "name": "All dogs go to heaven",
+        "url": "https://open.spotify.com/album/5NWKlmyUqNen4ON0c0BXPy"
+      },
+      "artists": [
+        {
+          "name": "Deadin Dogyears",
+          "url": "https://open.spotify.com/artist/1zB26j1lx6VfX3DW48Gc4N"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142361,
+      "name": "All dogs go to heaven",
+      "url": "https://open.spotify.com/track/6wAEahV7CPHBNYFBgxQ20x"
     },
     {
       "album": {
@@ -5464,7 +5500,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 186890,
       "name": "Broke Bitch I'm Industry",
       "url": "https://open.spotify.com/track/4aaFJEVWaUaDy11TP69iCS"
@@ -8152,7 +8188,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 181132,
       "name": "countryside",
       "url": "https://open.spotify.com/track/4sabkYnGutLOU6zhDn9Phd"
@@ -10692,7 +10728,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 203360,
       "name": "DULL: A. G. COOK VERSION",
       "url": "https://open.spotify.com/track/7g3ZKDD8F9QbS3CzoWs5wW"
@@ -13205,6 +13241,24 @@
     },
     {
       "album": {
+        "name": "Star Of Love",
+        "url": "https://open.spotify.com/album/00v21bgN2da5KonMWEAMec"
+      },
+      "artists": [
+        {
+          "name": "Crystal Fighters",
+          "url": "https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194506,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/0ux2EioEe5Fw07rXYRUSTz"
+    },
+    {
+      "album": {
         "name": "CIEL",
         "url": "https://open.spotify.com/album/0e4POgMcYBEFomuUoE2uq6"
       },
@@ -14270,7 +14324,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 208975,
       "name": "GL +1",
       "url": "https://open.spotify.com/track/20jw6z2HZ9HbqRPl6CasUf"
@@ -15463,6 +15517,24 @@
     },
     {
       "album": {
+        "name": "SWAN",
+        "url": "https://open.spotify.com/album/0vGZ8gizuYKtNO55HKkNLs"
+      },
+      "artists": [
+        {
+          "name": "ATTLAS",
+          "url": "https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/3KQTQH0i2uQtqFP7lS7ebU"
+    },
+    {
+      "album": {
         "name": "heart",
         "url": "https://open.spotify.com/album/3ZyKNyzOfetlbsI4a31nXb"
       },
@@ -16608,7 +16680,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 310661,
       "name": "HOT WIFE - Fcukers Remix",
       "url": "https://open.spotify.com/track/66b8n7ZJsl7ztsi4rn2jDg"
@@ -16868,7 +16940,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 167272,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy"
@@ -16890,6 +16962,28 @@
       "duration_ms": 155806,
       "name": "hurt and alone",
       "url": "https://open.spotify.com/track/4BXx0pevkoMIQU2Vm9Qqeh"
+    },
+    {
+      "album": {
+        "name": "OPIA",
+        "url": "https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom"
+      },
+      "artists": [
+        {
+          "name": "VITA",
+          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
+        },
+        {
+          "name": "REINEN",
+          "url": "https://open.spotify.com/artist/0IYg6J3r1hJUPLNupSbqvt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "HYPER (with REINEN)",
+      "url": "https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW"
     },
     {
       "album": {
@@ -22574,7 +22668,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 282373,
       "name": "midnight sun",
       "url": "https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ"
@@ -23116,7 +23210,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 142105,
       "name": "modric \u00e0 mtl",
       "url": "https://open.spotify.com/track/02wULfWLhXPvNQIOHrvJZb"
@@ -24117,6 +24211,24 @@
     },
     {
       "album": {
+        "name": "Never Let You Know",
+        "url": "https://open.spotify.com/album/27AWvK2TQiPiHuSGmggIIO"
+      },
+      "artists": [
+        {
+          "name": "fangs",
+          "url": "https://open.spotify.com/artist/4hMzLL80aF5I6obBe0FXKW"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171425,
+      "name": "Never Let You Know",
+      "url": "https://open.spotify.com/track/4ME2tEBxl7NC4E1m5JE1dP"
+    },
+    {
+      "album": {
         "name": "HURTING",
         "url": "https://open.spotify.com/album/27DJqkPsvRGj9wH1tiol9o"
       },
@@ -24942,7 +25054,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 310596,
       "name": "Now I've Got A Lot You Know",
       "url": "https://open.spotify.com/track/7IBcEGpyByHkGMbbXIDdFR"
@@ -25824,7 +25936,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 124894,
       "name": "One Step",
       "url": "https://open.spotify.com/track/5w0nQUeBCgWK1LS4tHdUP4"
@@ -26930,7 +27042,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 192723,
       "name": "Peine perdue",
       "url": "https://open.spotify.com/track/29O7jNWJvYpJYuCmsmEQ4E"
@@ -31171,6 +31283,28 @@
     },
     {
       "album": {
+        "name": "short & sweet",
+        "url": "https://open.spotify.com/album/1MnhbNRlniodZBkXlfk3Jy"
+      },
+      "artists": [
+        {
+          "name": "distantiate",
+          "url": "https://open.spotify.com/artist/5b6MSXdOA8tITIBpGwlmej"
+        },
+        {
+          "name": "Grimsies",
+          "url": "https://open.spotify.com/artist/5SkFIMCaEhQzw2Sd4dukfh"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113457,
+      "name": "short & sweet",
+      "url": "https://open.spotify.com/track/4QndL7xIilZzHt3FEnHwN9"
+    },
+    {
+      "album": {
         "name": "Show Me The Money (with Tkay Maidza)",
         "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
@@ -31532,7 +31666,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 98000,
       "name": "simple",
       "url": "https://open.spotify.com/track/2OQZm07RMBIJzkUiOO7pjF"
@@ -36155,6 +36289,24 @@
     },
     {
       "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/6SttWG2asvP9F8mUIn1GmW"
+      },
+      "artists": [
+        {
+          "name": "Zora Jones",
+          "url": "https://open.spotify.com/artist/5zJUDjV6daKYTo1H7OoFAY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250810,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/0lQbb0GYrapGfD9YPpsa67"
+    },
+    {
+      "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/3WxC9B4azmE7Y4RpwPx39b"
       },
@@ -36852,7 +37004,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 289072,
       "name": "Ulichnaya Percussiya",
       "url": "https://open.spotify.com/track/4Jv7g0vgkMS02nFgPoPK8A"
@@ -39287,6 +39439,24 @@
     },
     {
       "album": {
+        "name": "Wouldn't Say",
+        "url": "https://open.spotify.com/album/5syUY2ehWGz7LCHMnYF2wL"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Wouldn't Say",
+      "url": "https://open.spotify.com/track/21NbcXsuKVVdymWt8Kz57t"
+    },
+    {
+      "album": {
         "name": "WW4",
         "url": "https://open.spotify.com/album/7jr9onhE64REMnfCvOH1Lx"
       },
@@ -40082,7 +40252,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 251226,
       "name": "\u00e9tude05 . R O A M E R . AMII.0-RW005",
       "url": "https://open.spotify.com/track/1QkmlEKEvJa5mg3wSXStzR"

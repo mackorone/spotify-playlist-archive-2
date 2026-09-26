@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 147491,
       "name": "babygirl",
       "url": "https://open.spotify.com/track/5ouETFDqJv0SQMzwKlQLlP"
@@ -4828,7 +4828,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 152727,
       "name": "bullet caught in a spiders web",
       "url": "https://open.spotify.com/track/0ROLOhXTR43bWEcj19hcii"
@@ -6074,7 +6074,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 222459,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/13hqCufEoI0qYjK5NfPhoC"
@@ -6310,6 +6310,24 @@
       "duration_ms": 166440,
       "name": "Ciao Bella",
       "url": "https://open.spotify.com/track/6LXSTkMwEG11CjuWvvM2UD"
+    },
+    {
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/5fieXMmX2lg4sM0kNs2l9B"
+      },
+      "artists": [
+        {
+          "name": "Alex Cody",
+          "url": "https://open.spotify.com/artist/2nW0p4cWUvmo5rYJYW7yLP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200361,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/2JHg7JjuMhpJb533lMODpb"
     },
     {
       "album": {
@@ -7090,6 +7108,32 @@
       "duration_ms": 168912,
       "name": "Concrete Walls",
       "url": "https://open.spotify.com/track/4c3owU9UoRSbMr6obEAtsh"
+    },
+    {
+      "album": {
+        "name": "Two Coasts",
+        "url": "https://open.spotify.com/album/7lIfN5nnT3MDC8kM14Qq87"
+      },
+      "artists": [
+        {
+          "name": "deborah's revenge",
+          "url": "https://open.spotify.com/artist/0JiRe9gHkNTp7TkiZyUsRF"
+        },
+        {
+          "name": "kerri",
+          "url": "https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf"
+        },
+        {
+          "name": "Sid Mason",
+          "url": "https://open.spotify.com/artist/4ZX2ftbOclOL6CVI78CHzP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157974,
+      "name": "confessions of a wannabe",
+      "url": "https://open.spotify.com/track/5CYG2vpoN0O7EiOmTPIQip"
     },
     {
       "album": {
@@ -13503,6 +13547,24 @@
     },
     {
       "album": {
+        "name": "Grandma Song",
+        "url": "https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183000,
+      "name": "Grandma Song",
+      "url": "https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G"
+    },
+    {
+      "album": {
         "name": "For My Own Sake",
         "url": "https://open.spotify.com/album/3SScH6k1ngWnC1B4Qanjm2"
       },
@@ -14139,6 +14201,24 @@
     },
     {
       "album": {
+        "name": "hasty!",
+        "url": "https://open.spotify.com/album/738OhgTOyuNqjZXwc1wzWv"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "hasty!",
+      "url": "https://open.spotify.com/track/0yuPdnuIWmLFqme2kdYGsO"
+    },
+    {
+      "album": {
         "name": "Hate Me",
         "url": "https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy"
       },
@@ -14714,7 +14794,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 196923,
       "name": "Here & Now",
       "url": "https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9"
@@ -17036,7 +17116,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 231716,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/7t3sr53O7D8sPYKrU3ALh8"
@@ -17799,6 +17879,24 @@
     },
     {
       "album": {
+        "name": "Jenny",
+        "url": "https://open.spotify.com/album/14PW20ySyvP27eGpXFC79K"
+      },
+      "artists": [
+        {
+          "name": "Nick Ward",
+          "url": "https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186505,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/67zxIv3yivtuIG6riPQa3U"
+    },
+    {
+      "album": {
         "name": "ROADRUNNER: NEW LIGHT, NEW MACHINE PLUS PACK",
         "url": "https://open.spotify.com/album/5iwHnTMSgzypmxdmQOr7if"
       },
@@ -18520,7 +18618,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 176114,
       "name": "lake city quiet pills",
       "url": "https://open.spotify.com/track/4fal8qAulk5kh5LQuyevmy"
@@ -18578,7 +18676,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 171293,
       "name": "landscaper",
       "url": "https://open.spotify.com/track/7FCAR9JMJ29OmljgBJHMy1"
@@ -21268,6 +21366,32 @@
       "duration_ms": 204000,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/56KAsTLcOQIVrcbfHrTua4"
+    },
+    {
+      "album": {
+        "name": "Mezzanine",
+        "url": "https://open.spotify.com/album/2PQNZeoQGSDgL0b7PcypL1"
+      },
+      "artists": [
+        {
+          "name": "DO, the Outcast",
+          "url": "https://open.spotify.com/artist/2VCNkwwvTrXkHJ09SbssUP"
+        },
+        {
+          "name": "Lightitupav",
+          "url": "https://open.spotify.com/artist/388JJVyR92c0JwTkEPOiHB"
+        },
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260941,
+      "name": "Mezzanine",
+      "url": "https://open.spotify.com/track/5p7CK682sMzK7C4XjqFcIk"
     },
     {
       "album": {
@@ -25994,7 +26118,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 142961,
       "name": "Pretend Friend",
       "url": "https://open.spotify.com/track/42hPDiwTOSPAPUL51FRNhp"
@@ -29007,6 +29131,28 @@
     },
     {
       "album": {
+        "name": "short & sweet",
+        "url": "https://open.spotify.com/album/1MnhbNRlniodZBkXlfk3Jy"
+      },
+      "artists": [
+        {
+          "name": "distantiate",
+          "url": "https://open.spotify.com/artist/5b6MSXdOA8tITIBpGwlmej"
+        },
+        {
+          "name": "Grimsies",
+          "url": "https://open.spotify.com/artist/5SkFIMCaEhQzw2Sd4dukfh"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113457,
+      "name": "short & sweet",
+      "url": "https://open.spotify.com/track/4QndL7xIilZzHt3FEnHwN9"
+    },
+    {
+      "album": {
         "name": "Should I",
         "url": "https://open.spotify.com/album/5VMPFL5HgFth5ql9IEhUyB"
       },
@@ -30496,6 +30642,24 @@
       "duration_ms": 175200,
       "name": "Sore Throat",
       "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
+    },
+    {
+      "album": {
+        "name": "SORRWHY?",
+        "url": "https://open.spotify.com/album/0WRhgtmNYA7zUpilegufdC"
+      },
+      "artists": [
+        {
+          "name": "CON THE ARTIST",
+          "url": "https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191688,
+      "name": "SORRWHY?",
+      "url": "https://open.spotify.com/track/357FgxuC1rd1hD6xaMFdVV"
     },
     {
       "album": {
@@ -34508,7 +34672,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 175599,
       "name": "To Be Lost",
       "url": "https://open.spotify.com/track/05rBzLk023AtT5NnKplUiS"
@@ -36511,6 +36675,24 @@
     },
     {
       "album": {
+        "name": "AFRO URF",
+        "url": "https://open.spotify.com/album/0w5d3H8wA06ZHtxDKP2aLC"
+      },
+      "artists": [
+        {
+          "name": "Brice Blanco",
+          "url": "https://open.spotify.com/artist/69HhRI9I7VgvLCkl8Q8JRY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241491,
+      "name": "Warm Skin / Kin Swarm",
+      "url": "https://open.spotify.com/track/7tg1kv7DFhZm7Gk0QXypCI"
+    },
+    {
+      "album": {
         "name": "DOG HEAD",
         "url": "https://open.spotify.com/album/71kZ2lZASePFplTFslC8Op"
       },
@@ -36912,7 +37094,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 237153,
       "name": "what doesn't kill me",
       "url": "https://open.spotify.com/track/3TChAS6lymOUkOV4Bqe4JP"
@@ -37774,6 +37956,24 @@
       "duration_ms": 167500,
       "name": "Would It Kill You At All",
       "url": "https://open.spotify.com/track/1LOIGR5G6y2lqDpNQDdppm"
+    },
+    {
+      "album": {
+        "name": "Wouldn't Say",
+        "url": "https://open.spotify.com/album/5syUY2ehWGz7LCHMnYF2wL"
+      },
+      "artists": [
+        {
+          "name": "Monsune",
+          "url": "https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275000,
+      "name": "Wouldn't Say",
+      "url": "https://open.spotify.com/track/21NbcXsuKVVdymWt8Kz57t"
     },
     {
       "album": {

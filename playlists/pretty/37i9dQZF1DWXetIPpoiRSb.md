@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > party time 🙂‍↔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,887 likes - 92 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,859 likes - 92 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 11 | [Perfect Pinterest Garden \- Ninajirachi & underscores Remix](https://open.spotify.com/track/3huANgMZYFGwAD6qQzSNfi) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Perfect Pinterest Garden \(Ninajirachi & underscores Remix\)](https://open.spotify.com/album/29oSgZISSZEO6FuFAkgqzn) | 2:50 |
 | 12 | [idiot](https://open.spotify.com/track/4H29PmcDGVHxE6WdEyeQEF) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:49 |
 | 13 | [2 GIRLS](https://open.spotify.com/track/7wUMNeJha8EZXlJyTvTV60) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [2 GIRLS](https://open.spotify.com/album/3dcrNG6wMjUXrxi59o4p8X) | 2:09 |
-| 14 | [Track 2](https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [OPIA](https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom) | 0:00 |
+| 14 | [HYPER \(with REINEN\)](https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB), [REINEN](https://open.spotify.com/artist/0IYg6J3r1hJUPLNupSbqvt) | [OPIA](https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom) | 3:02 |
 | 15 | [Waschesalon](https://open.spotify.com/track/1GnOfC2wWHGiui18OH0Mig) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Age of the Exhibitionist](https://open.spotify.com/album/3x8qThM7qP41LYoEhVerfm) | 3:12 |
 | 16 | [Tiger Tiger](https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj) | [iKeda](https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt) | [Bangs N Braces](https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt) | 2:45 |
 | 17 | [Melatonin](https://open.spotify.com/track/0Fscl5Gt6r9UfJR6OWG1wI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Melatonin](https://open.spotify.com/album/228ian0XYKvFtY1UchZy5d) | 3:42 |

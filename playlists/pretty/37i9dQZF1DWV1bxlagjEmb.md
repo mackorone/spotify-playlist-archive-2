@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1bxlagjEmb.md) - [plain]
 
 > folk songs for the weight of it all, featuring music from Anna Shoemaker
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,794 likes - 120 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,827 likes - 120 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

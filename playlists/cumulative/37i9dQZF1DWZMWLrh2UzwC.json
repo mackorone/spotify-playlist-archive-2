@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "New music from ILLIT,  Hebe Tien, Hael Husaini, Mimifly, DOLLA, and many more!",
+  "description": "New music from Taylor Swift, ILLIT,  Hebe Tien, Hael Husaini, Mimifly, DOLLA, and many more!",
   "name": "New Music Friday Malaysia",
   "tracks": [
     {
@@ -147865,6 +147865,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/1oHXOT51CIzxKBciXp7jfM"
+      },
+      "artists": [
+        {
+          "name": "Iman Fandi",
+          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154687,
+      "name": "Headstart",
+      "url": "https://open.spotify.com/track/6PYYwVUxm2F8eFoChZfWkD"
+    },
+    {
+      "album": {
         "name": "Headuphigh!",
         "url": "https://open.spotify.com/album/2sWsfXyCbprhlR8j4qM9Q7"
       },
@@ -275003,6 +275021,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "PATRONA",
         "url": "https://open.spotify.com/album/42ezAHV90jXuRCgi94UTvf"
       },
@@ -340335,6 +340371,24 @@
     },
     {
       "album": {
+        "name": "Before The World Turns To Dust",
+        "url": "https://open.spotify.com/album/4R426TJl0HiiS12eVv4nhm"
+      },
+      "artists": [
+        {
+          "name": "The Calling",
+          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215129,
+      "name": "Strange",
+      "url": "https://open.spotify.com/track/7uLDLTZ4w11g5kdZDGwu2Y"
+    },
+    {
+      "album": {
         "name": "Strange Little Consequence",
         "url": "https://open.spotify.com/album/2k376V4vbueVKx1YQDtuOd"
       },
@@ -377671,60 +377725,6 @@
     },
     {
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/1oHXOT51CIzxKBciXp7jfM"
-      },
-      "artists": [
-        {
-          "name": "Iman Fandi",
-          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/6PYYwVUxm2F8eFoChZfWkD"
-    },
-    {
-      "album": {
-        "name": "Before The World Turns To Dust",
-        "url": "https://open.spotify.com/album/4R426TJl0HiiS12eVv4nhm"
-      },
-      "artists": [
-        {
-          "name": "The Calling",
-          "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/7uLDLTZ4w11g5kdZDGwu2Y"
-    },
-    {
-      "album": {
-        "name": "Human Nature",
-        "url": "https://open.spotify.com/album/3QsrmFj4XvHSHwyhRK5zvb"
-      },
-      "artists": [
-        {
-          "name": "lewloh",
-          "url": "https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/3FNW6aDQzQlAnnOEa7EM4R"
-    },
-    {
-      "album": {
         "name": "HERE I AM",
         "url": "https://open.spotify.com/album/4fDuajidbZrtR63RpCp0Tq"
       },
@@ -378394,6 +378394,24 @@
       "duration_ms": 177565,
       "name": "treat u right",
       "url": "https://open.spotify.com/track/38Mnfr1l5t2kckdzoJuXTl"
+    },
+    {
+      "album": {
+        "name": "Human Nature",
+        "url": "https://open.spotify.com/album/3QsrmFj4XvHSHwyhRK5zvb"
+      },
+      "artists": [
+        {
+          "name": "lewloh",
+          "url": "https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186280,
+      "name": "Tree Secret",
+      "url": "https://open.spotify.com/track/3FNW6aDQzQlAnnOEa7EM4R"
     },
     {
       "album": {
@@ -430082,6 +430100,32 @@
       "duration_ms": 204677,
       "name": "\u5713\u5148\u751f",
       "url": "https://open.spotify.com/track/11zQU8OQAoz1FwemgDsFZK"
+    },
+    {
+      "album": {
+        "name": "\u5723\u57ce\u4e4b\u5149",
+        "url": "https://open.spotify.com/album/5Ut7yLzLamasqE2bSF8qgS"
+      },
+      "artists": [
+        {
+          "name": "Awaken Generation",
+          "url": "https://open.spotify.com/artist/3jB6QGZ8yLygO5TvEPjx8a"
+        },
+        {
+          "name": "Miss Lou",
+          "url": "https://open.spotify.com/artist/4d9Kpr4Q9VIn3DkREGx2rJ"
+        },
+        {
+          "name": "\u6b23\u6021 XinYi",
+          "url": "https://open.spotify.com/artist/7Eq7X7t4073aV5t90jqFrp"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 392197,
+      "name": "\u5723\u57ce\u4e4b\u5149",
+      "url": "https://open.spotify.com/track/6zfyFHV86M0Fq7n4o8xH3P"
     },
     {
       "album": {

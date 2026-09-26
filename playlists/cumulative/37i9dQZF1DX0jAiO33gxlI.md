@@ -4,7 +4,7 @@
 
 > Os lançamentos e melhores sons do rap nacional\. Foto: Emicida, Puro Suco
 
-1,652 songs - 3 day 13 hr 26 min
+1,654 songs - 3 day 13 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Clube das Winx](https://open.spotify.com/track/7x7BE9LnTfvrZkc2J18kkN) | [L, Lorran](https://open.spotify.com/artist/6YBjBR2EvEPNDqBO1mEYu2), [Freitera](https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW) | [Clube das Winx](https://open.spotify.com/album/2D68Sd2SdyNKB4SENfOzKQ) | 3:27 | 2022-04-15 | 2022-04-23 |
 | [Clássico](https://open.spotify.com/track/0pJiHLu5bMjGFuHZjtpfbT) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Stuani](https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw), [Celo1st](https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK) | [Clássico](https://open.spotify.com/album/6CUs75BLiYZYKM88SYF4P5) | 2:51 | 2024-12-20 | 2025-03-18 |
 | [Coisas Leves](https://open.spotify.com/track/43AX0QQKGfPLvvzDQT4xj2) | [Kant](https://open.spotify.com/artist/5RHWqLCNmcKFDME3G7sxiJ), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Coisas Leves](https://open.spotify.com/album/47TgVeXbbdcVw48aK1DJ5S) | 2:53 | 2022-03-22 | 2022-04-02 |
+| [Coisas Que a Gente Faz por Dinheiro](https://open.spotify.com/track/2qN3VFMtDycZetfeuOfnSU) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Coisas Que a Gente Faz por Dinheiro](https://open.spotify.com/album/3u530s2sBKOX9YxZ0Oj7Z5) | 2:35 | 2026-09-25 |  |
 | [Coisas Que Não Foram Ditas](https://open.spotify.com/track/1PgOJJqxzaZBptfsZt2zgn) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0) | [Coisas Que Não Foram Ditas](https://open.spotify.com/album/43gtNiB0zkFCmBpGQuurNT) | 1:59 | 2026-07-27 |  |
 | [Cola Com Noix](https://open.spotify.com/track/3qul2o9t3yqxzSJ33dYdVq) | [Mr\. Julhao](https://open.spotify.com/artist/0WLc0VFvsSxbRzTLLWPcys), [Gigante No Mic](https://open.spotify.com/artist/5NjusDYM3H7nGyjgDOtLNX), [Nocivo Shomon](https://open.spotify.com/artist/7fVTW9oFlXKy9tzG15tcof) | [Cola Com Noix](https://open.spotify.com/album/4xIPY4Q8R9n8wy3IQ1oViD) | 4:29 | 2022-05-27 | 2022-06-04 |
 | [Colibri](https://open.spotify.com/track/4DTR0T8qnIYhXJA2jDTBtn) | [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [TSUMANO](https://open.spotify.com/artist/4ijg0v2Yp23mG5xjBEnYKF) | [Colibri](https://open.spotify.com/album/5oP3MPOT3vA0wUypGVOgv8) | 2:07 | 2025-12-19 | 2026-02-28 |
@@ -457,6 +458,7 @@
 | [Domingo Sem Deus](https://open.spotify.com/track/7iOaRrdNOuhm6jAXYo848M) | [AR Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [Lucky bxd](https://open.spotify.com/artist/6erxYh62N5X89genal8f7r), [Fresh Records](https://open.spotify.com/artist/3shBNuvo8XyNthoiWNaCYc) | [Domingo Sem Deus](https://open.spotify.com/album/4UZgiBzCCQDARBpteyOgnE) | 2:50 | 2026-07-27 |  |
 | [Dona de Casa](https://open.spotify.com/track/23S0CnAJMB0vLCL1vYHLXH) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Dona de Casa](https://open.spotify.com/album/59YfQZNocygHKxxJ7DEaAQ) | 1:08 | 2025-12-19 | 2026-05-22 |
 | [Dona de Casa](https://open.spotify.com/track/3JT4I9BqWvwwvtmc4jbDLF) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2 \(De Luxo\)](https://open.spotify.com/album/6TWX7QLULtq9672vLeUZTO) | 1:08 | 2026-04-10 | 2026-05-22 |
+| [DONA DO MEU FLOW \(SINCE 2012\)](https://open.spotify.com/track/50e46ChHZ9xt8iqgpEKdfA) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3), [FLOWRA](https://open.spotify.com/artist/6kGiEmWE9rpQqavMdia7sT) | [FLOWRA FM \- DISCO VOADOR 4](https://open.spotify.com/album/18GOkgwiuvqbFTwbmerMi7) | 2:51 | 2026-09-25 |  |
 | [Dona Onça](https://open.spotify.com/track/5UvOzm8jz0WXFkezWCCTF4) | [Casllu](https://open.spotify.com/artist/5MyO8vsAkC3byMAUGsCMSh), [DJ Kiel](https://open.spotify.com/artist/4kU98i3kKpoVyaKFj8Y4CN) | [Diário De Um Underground](https://open.spotify.com/album/6NCMJN5U7b2zm3uwPv8S2s) | 2:44 | 2025-05-30 | 2025-08-02 |
 | [DONAS DO BAIRRO](https://open.spotify.com/track/2u9q0FNsP5phgwskPadW4W) | [Cazy](https://open.spotify.com/artist/4ZnAoTArdeKzJwSUzXkm0A) | [DONAS DO BAIRRO](https://open.spotify.com/album/1AbOFIMRpcFjE3OvMf5lUP) | 2:16 | 2026-05-01 | 2026-07-04 |
 | [Donas do Plaque](https://open.spotify.com/track/0mdytA1LWltYL5LPzE3ltU) | [IKNOWFELIPE](https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk), [LAI$ROSA](https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw), [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [NandaTsunami](https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk) | [Donas do Plaque](https://open.spotify.com/album/42Ni9CX6XB5OuteqOIjG6L) | 4:02 | 2026-09-11 |  |

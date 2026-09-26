@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 235261,
+  "num_followers": 235308,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "La Leona y El Carcomido",
-        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 153478,
-      "name": "La Leona y El Carcomido",
-      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
         "name": "Corridos de Caballos Pura Sangre",
         "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 199613,
       "name": "El Texano y el Machete",
       "url": "https://open.spotify.com/track/5SnCAD0jeqqKKQoi7iiyHt"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "La Leona y El Carcomido",
+        "url": "https://open.spotify.com/album/0CaNO2VBbCJJAiStSpKk6j"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 153478,
+      "name": "La Leona y El Carcomido",
+      "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "Corrido Del Payaso",
-        "url": "https://open.spotify.com/album/19QGORyAWxv1otHdogexYD"
-      },
-      "artists": [
-        {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
-        }
-      ],
-      "duration_ms": 182537,
-      "name": "Corrido del Talacho",
-      "url": "https://open.spotify.com/track/5PKIKIYsX7zO9ngOpTv8GT"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
         "name": "Corridos de Caballos Pura Sangre",
         "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 186720,
       "name": "El Demonio",
       "url": "https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "Corrido Del Payaso",
+        "url": "https://open.spotify.com/album/19QGORyAWxv1otHdogexYD"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 182537,
+      "name": "Corrido del Talacho",
+      "url": "https://open.spotify.com/track/5PKIKIYsX7zO9ngOpTv8GT"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -795,34 +795,18 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "Mi Potrillo",
-        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
+        "name": "El Puente Roto",
+        "url": "https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF"
       },
       "artists": [
         {
-          "name": "Banda Alta Potencia",
-          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 210800,
-      "name": "Mi Potrillo",
-      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
-        "name": "La Panchita",
-        "url": "https://open.spotify.com/album/0ktWMB5Izd6Ax1Fayr0zeS"
-      },
-      "artists": [
-        {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
-        }
-      ],
-      "duration_ms": 213437,
-      "name": "La Panchita",
-      "url": "https://open.spotify.com/track/1YjvbrHnhh2sHt1xMzXcQq"
+      "duration_ms": 160466,
+      "name": "Caballos de la Cordada",
+      "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -843,6 +827,22 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
+        "name": "La Panchita",
+        "url": "https://open.spotify.com/album/0ktWMB5Izd6Ax1Fayr0zeS"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "La Panchita",
+      "url": "https://open.spotify.com/track/1YjvbrHnhh2sHt1xMzXcQq"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
         "name": "Puros Corridos",
         "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
       },
@@ -859,18 +859,18 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "El Puente Roto",
-        "url": "https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF"
+        "name": "Mi Potrillo",
+        "url": "https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Banda Alta Potencia",
+          "url": "https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2"
         }
       ],
-      "duration_ms": 160466,
-      "name": "Caballos de la Cordada",
-      "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
+      "duration_ms": 210800,
+      "name": "Mi Potrillo",
+      "url": "https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw"
     },
     {
       "added_at": "2026-01-05 19:29:05",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-01-05 19:29:05",
       "album": {
-        "name": "Corrido Del Payaso",
-        "url": "https://open.spotify.com/album/19QGORyAWxv1otHdogexYD"
-      },
-      "artists": [
-        {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
-        }
-      ],
-      "duration_ms": 205218,
-      "name": "El Regalo",
-      "url": "https://open.spotify.com/track/5yadNRAO8fe2SDLHzMwmsX"
-    },
-    {
-      "added_at": "2026-01-05 19:29:05",
-      "album": {
         "name": "El Caballo Robado",
         "url": "https://open.spotify.com/album/5SogEIbwHdMKL7nYoWb0Vi"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 212214,
       "name": "El Caballo Robado",
       "url": "https://open.spotify.com/track/7nbeXqsiqq8XPg7QaNDO3I"
+    },
+    {
+      "added_at": "2026-01-05 19:29:05",
+      "album": {
+        "name": "Corrido Del Payaso",
+        "url": "https://open.spotify.com/album/19QGORyAWxv1otHdogexYD"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 205218,
+      "name": "El Regalo",
+      "url": "https://open.spotify.com/track/5yadNRAO8fe2SDLHzMwmsX"
     },
     {
       "added_at": "2026-01-05 19:29:05",

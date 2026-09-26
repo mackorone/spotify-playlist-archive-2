@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 
 > Solo rap da Napoli e dalla Campania\. DDM in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,368 likes - 75 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,382 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrg01Xmlew6.md) - [plain]
 | 16 | [ZE PEQUENO](https://open.spotify.com/track/0BTaf9B2reL6S8Ep82XMcO) | [Frezza](https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W), [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX), [Kalionte](https://open.spotify.com/artist/4EXgod8ey7HXn2o8zAOcAQ) | [SCUGNIZZI X SEMPRE](https://open.spotify.com/album/1KAwVf1Z880lPfgDXSVCkM) | 2:01 |
 | 17 | [Vampir](https://open.spotify.com/track/0a3ExYKSoPq3vHenZ0GZB1) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [EMDI](https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S) | [Vampir](https://open.spotify.com/album/6alKUQHE9qfMkv0Ff6kOu6) | 2:36 |
 | 18 | [DIEGO](https://open.spotify.com/track/7jhmOPnKn9dv0DhZQ4KNq9) | [Le\-one](https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [DIEGO](https://open.spotify.com/album/5yXBt4n1hGzCKcsewe6iJU) | 2:27 |
-| 19 | [Track 4](https://open.spotify.com/track/7vs1ObCmNfHDY87Xe9a1K4) | [Mumei](https://open.spotify.com/artist/1RfsFDw4R7x14OT4DYudKQ) | [O'SFACCIMM RO REP 2](https://open.spotify.com/album/3KS1Rr4JhDP1Qfl44gf0a8) | 0:00 |
+| 19 | [TRICK E BALLAKK](https://open.spotify.com/track/7vs1ObCmNfHDY87Xe9a1K4) | [Mumei](https://open.spotify.com/artist/1RfsFDw4R7x14OT4DYudKQ) | [O'SFACCIMM RO REP 2](https://open.spotify.com/album/3KS1Rr4JhDP1Qfl44gf0a8) | 3:02 |
 | 20 | [1H](https://open.spotify.com/track/4wXXDlUk1yyATd1pUvPVdL) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [TUTTO È POSSIBILE](https://open.spotify.com/album/5EKYDOBrlVJlvMGEgdgytB) | 2:20 |
 | 21 | [OPPOSTO](https://open.spotify.com/track/0Yi9qh7UmSXCJNc2f8criL) | [Im Envy](https://open.spotify.com/artist/7ytMeRTs8xzSNOEOLnwEm7), [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Heavy Drug](https://open.spotify.com/artist/7zcuu4KUSiqjHdk5naqAtp) | [MORE LIFE MIXTAPE](https://open.spotify.com/album/01jscX2lLDGiQQ3NFoSreh) | 3:06 |
 | 22 | [Invincibile](https://open.spotify.com/track/5VLkfva2Q2W9FJRYPLvtL7) | [Dipinto](https://open.spotify.com/artist/26toJml6wSdf58ZgNG0ci9), [Fresh Beatz](https://open.spotify.com/artist/6HQ27YefiitrZ9YsWrgRHX) | [Invincibile](https://open.spotify.com/album/0ioh25cYIvvplbbax3OQ45) | 2:39 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: Gerard Joling
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,775 likes - 105 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,782 likes - 105 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

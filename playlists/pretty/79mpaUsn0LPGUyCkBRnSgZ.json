@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJvbUg8pXrOhnt09+OWZK2OAZxF7m7",
+  "snapshot_id": "AAAJwaYIrdljFKLk96e36AvnzlJDNuWJ",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -13067,6 +13067,54 @@
       "duration_ms": 268735,
       "name": "Big Shot",
       "url": "https://open.spotify.com/track/002Xm1nZI8cAhb5Fda7lRk"
+    },
+    {
+      "added_at": "2026-09-25 15:43:09",
+      "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 156936,
+      "name": "Sunglasses",
+      "url": "https://open.spotify.com/track/2JXQjdWdKhpdYYs48QEc2j"
+    },
+    {
+      "added_at": "2026-09-25 15:56:54",
+      "album": {
+        "name": "Holocene Dream",
+        "url": "https://open.spotify.com/album/4Q3FN4UctdGgGkuIBVQvve"
+      },
+      "artists": [
+        {
+          "name": "Brendan Byrnes",
+          "url": "https://open.spotify.com/artist/2X5pNtEOcvIh9wPqq2EJpf"
+        }
+      ],
+      "duration_ms": 312176,
+      "name": "Mesozoic",
+      "url": "https://open.spotify.com/track/7CgqX3jfE10v5moFGer5r6"
+    },
+    {
+      "added_at": "2026-09-25 16:02:48",
+      "album": {
+        "name": "The Gem",
+        "url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 194953,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/68Jue5HmmY7ZygpiPiEKkd"
     }
   ],
   "unique_name": "Zacklog",

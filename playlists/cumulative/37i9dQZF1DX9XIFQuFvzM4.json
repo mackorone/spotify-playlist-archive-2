@@ -768,7 +768,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 178533,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI"
@@ -3715,6 +3715,24 @@
     },
     {
       "album": {
+        "name": "Lover's Discourse",
+        "url": "https://open.spotify.com/album/4bi8iHAMVhRAipQvxDpMyX"
+      },
+      "artists": [
+        {
+          "name": "Dani Offline",
+          "url": "https://open.spotify.com/artist/3JPVuuVHTbNiK8OZBCcmm5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "ouch!",
+      "url": "https://open.spotify.com/track/67I4DEQC8wHtBmWChWZEbI"
+    },
+    {
+      "album": {
         "name": "Great Songs And Performances That Inspired The Motown 25th Anniversary Television Special",
         "url": "https://open.spotify.com/album/3QNb4tg2bYuisegJofC13b"
       },
@@ -4144,7 +4162,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 158040,
       "name": "Signed, Sealed, Delivered (I'm Yours)",
       "url": "https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a"
@@ -5306,7 +5324,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 160813,
       "name": "You And Me",
       "url": "https://open.spotify.com/track/3ue9zcwNcoYvFqKVjG0C6r"

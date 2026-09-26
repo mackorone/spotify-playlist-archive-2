@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Hindi Hip-Hop! Cover: Raga",
+  "description": "Best of Hindi Hip-Hop! Cover: Panther",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -646,7 +646,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 178874,
       "name": "Back 2 Back",
       "url": "https://open.spotify.com/track/29SoFgKO588lKJVnUTp10E"
@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2026-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 143225,
       "name": "BLOWUP",
       "url": "https://open.spotify.com/track/5Oys598jBje9v92awHRXzZ"
@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2026-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 218769,
       "name": "Boom Shaka",
       "url": "https://open.spotify.com/track/1g6nQTE5x7eLJX7tXCTiSz"
@@ -1614,7 +1614,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 226067,
       "name": "CRIP WALK",
       "url": "https://open.spotify.com/track/0PWh95IYr88se8vGlJNr1o"
@@ -1658,6 +1658,28 @@
       "duration_ms": 185155,
       "name": "DAF",
       "url": "https://open.spotify.com/track/5EKEFHtqsOW0lTxqh8BhlI"
+    },
+    {
+      "album": {
+        "name": "Hustle 5 - Episode 10",
+        "url": "https://open.spotify.com/album/2iT2C0zfFKOvgynAPpEOUv"
+      },
+      "artists": [
+        {
+          "name": "whysoKai",
+          "url": "https://open.spotify.com/artist/6yCPQJ2eFDzdhaSVcM7h8q"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155844,
+      "name": "DAMN IT RABBIT",
+      "url": "https://open.spotify.com/track/41P5ixs4bxZENT3IvvxOSw"
     },
     {
       "album": {
@@ -2304,7 +2326,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 234671,
       "name": "Farebi",
       "url": "https://open.spotify.com/track/1Jsos1mzwTwYGOndYN5h8V"
@@ -3245,6 +3267,28 @@
     },
     {
       "album": {
+        "name": "Hustle 5 - Episode 2",
+        "url": "https://open.spotify.com/album/6cFK70n0Pc4efHUXQOkWnd"
+      },
+      "artists": [
+        {
+          "name": "harmeeet",
+          "url": "https://open.spotify.com/artist/00yJW4uOXKxqrJiLoilykF"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211875,
+      "name": "Jhoot",
+      "url": "https://open.spotify.com/track/1jwKDC0GL5bTLJnu9LegTZ"
+    },
+    {
+      "album": {
         "name": "Joota Japani",
         "url": "https://open.spotify.com/album/1GCClFFYn65g9WH1XXUWDK"
       },
@@ -3640,7 +3684,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 171089,
       "name": "Khamma Ghani",
       "url": "https://open.spotify.com/track/459tc67J7MQlP0r0JWlu5g"
@@ -3695,6 +3739,32 @@
     },
     {
       "album": {
+        "name": "NO FORMULA",
+        "url": "https://open.spotify.com/album/6fxTN7A3WenyJesBtcKnR7"
+      },
+      "artists": [
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Fotty Seven",
+          "url": "https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA"
+        },
+        {
+          "name": "UZIII",
+          "url": "https://open.spotify.com/artist/3YBbI2OrHrUGsc8G1w2z1r"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227741,
+      "name": "Khurafaat",
+      "url": "https://open.spotify.com/track/1MYs8wjjZOqDxGo0NT1hQG"
+    },
+    {
+      "album": {
         "name": "Kider Manzil",
         "url": "https://open.spotify.com/album/4fxLM05E46i0XdeXpslSCC"
       },
@@ -3724,7 +3794,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 175182,
       "name": "Killa Klassic",
       "url": "https://open.spotify.com/track/5Cx1RreO5b55pn3yLPbDI6"
@@ -3750,6 +3820,28 @@
       "duration_ms": 172363,
       "name": "KKBN",
       "url": "https://open.spotify.com/track/4uzN9fvxOY4ytWCDhB6FbZ"
+    },
+    {
+      "album": {
+        "name": "MONOPOLY MOVES",
+        "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363203,
+      "name": "KODAK",
+      "url": "https://open.spotify.com/track/1p2gLYTKWepMg5zA782o2T"
     },
     {
       "album": {
@@ -4549,6 +4641,24 @@
     },
     {
       "album": {
+        "name": "charag",
+        "url": "https://open.spotify.com/album/5qbTY2De1vRkwRgeC9ENKS"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220950,
+      "name": "mijaz",
+      "url": "https://open.spotify.com/track/6QNNSuziXWdF69eEsepsfp"
+    },
+    {
+      "album": {
         "name": "51 GLORIOUS DAYS",
         "url": "https://open.spotify.com/album/1EXPml909SRGpOVUGBPytW"
       },
@@ -5291,6 +5401,32 @@
     },
     {
       "album": {
+        "name": "Pay Off",
+        "url": "https://open.spotify.com/album/3I6Z9aQTZmg1nFJ0LDdImG"
+      },
+      "artists": [
+        {
+          "name": "ANSHIOUS",
+          "url": "https://open.spotify.com/artist/6Utr4UpIMi1lfkwGaL8DTE"
+        },
+        {
+          "name": "Prathamesh",
+          "url": "https://open.spotify.com/artist/1s3KIr4EL3Qm033fYAn6sf"
+        },
+        {
+          "name": "KANCH",
+          "url": "https://open.spotify.com/artist/6AkRvH24p2jVj9dxv7Uuqp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199591,
+      "name": "Pay Off",
+      "url": "https://open.spotify.com/track/39nHNTL3egk96S2puE36O2"
+    },
+    {
+      "album": {
         "name": "Pendulum",
         "url": "https://open.spotify.com/album/3MnexUpZqQaWoZTQbfEFZl"
       },
@@ -5500,7 +5636,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 236153,
       "name": "Public Notice",
       "url": "https://open.spotify.com/track/131omEMzQUrzBZGZDQTIAo"
@@ -5526,6 +5662,50 @@
       "duration_ms": 214540,
       "name": "Punja Daab",
       "url": "https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo"
+    },
+    {
+      "album": {
+        "name": "MTV Hustle 4 - Episode 14",
+        "url": "https://open.spotify.com/album/6YGpcYmzFa96jnReqrBlmF"
+      },
+      "artists": [
+        {
+          "name": "Naam Sujal",
+          "url": "https://open.spotify.com/artist/6NTcSISlIHPvDleyAkOTqP"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "PYAAR?",
+      "url": "https://open.spotify.com/track/7wZ8S7cV5Nc5na1681uotb"
+    },
+    {
+      "album": {
+        "name": "Pyar N' Stuff",
+        "url": "https://open.spotify.com/album/0jUU3qeyrPNkzhhbGtBakE"
+      },
+      "artists": [
+        {
+          "name": "Nanku",
+          "url": "https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p"
+        },
+        {
+          "name": "Lambo Drive",
+          "url": "https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192706,
+      "name": "Pyar Ki Si",
+      "url": "https://open.spotify.com/track/3hOTeF8NEeL1rQjt4QNXbE"
     },
     {
       "album": {
@@ -5592,7 +5772,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 211200,
       "name": "Raat Ki Rani",
       "url": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K"
@@ -6222,6 +6402,28 @@
       "duration_ms": 130666,
       "name": "SHARMEELI",
       "url": "https://open.spotify.com/track/3a0cGrLF6Ac1QqG3PCoIDY"
+    },
+    {
+      "album": {
+        "name": "Hustle 5 - Episode 10",
+        "url": "https://open.spotify.com/album/2iT2C0zfFKOvgynAPpEOUv"
+      },
+      "artists": [
+        {
+          "name": "OG TEHRAN",
+          "url": "https://open.spotify.com/artist/2kpbtGyI76D1aPTEsAgSyD"
+        },
+        {
+          "name": "Aditya Pushkarna",
+          "url": "https://open.spotify.com/artist/7vO600AV63IUH9QqHVAqJs"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200500,
+      "name": "She wanna play",
+      "url": "https://open.spotify.com/track/6NgoXXde6qt8hyoFm9AvGZ"
     },
     {
       "album": {
@@ -6857,6 +7059,24 @@
     },
     {
       "album": {
+        "name": "charag",
+        "url": "https://open.spotify.com/album/5qbTY2De1vRkwRgeC9ENKS"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144146,
+      "name": "thikana",
+      "url": "https://open.spotify.com/track/7HcR5IBcEPwrrIESWo6JsJ"
+    },
+    {
+      "album": {
         "name": "Those Dayz",
         "url": "https://open.spotify.com/album/1mFAPaahUjzV20qOG1myva"
       },
@@ -7185,6 +7405,28 @@
     },
     {
       "album": {
+        "name": "Utha Patak",
+        "url": "https://open.spotify.com/album/2KF27LOFricYrpjrknXT6s"
+      },
+      "artists": [
+        {
+          "name": "Prathamesh",
+          "url": "https://open.spotify.com/artist/1s3KIr4EL3Qm033fYAn6sf"
+        },
+        {
+          "name": "Kod.E",
+          "url": "https://open.spotify.com/artist/10vsL1yYQ2pq0Yi6D3PpwT"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Utha Patak",
+      "url": "https://open.spotify.com/track/0rGnruekMrhwOiBFg5sJ6N"
+    },
+    {
+      "album": {
         "name": "Nanda Devi Express",
         "url": "https://open.spotify.com/album/00fpo2S0GkfGGpk0dpm19b"
       },
@@ -7248,7 +7490,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 157350,
       "name": "Victory Anthem",
       "url": "https://open.spotify.com/track/1UEbsf5kGEIcSMiWexOkrZ"
@@ -7520,7 +7762,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 211783,
       "name": "You & I",
       "url": "https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF"

@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "GRAPETOVEN",
+        "url": "https://open.spotify.com/album/7A81A3IC9iZNnRfQ4YIqYM"
+      },
+      "artists": [
+        {
+          "name": "Big Moochie Grape",
+          "url": "https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160706,
+      "name": "34",
+      "url": "https://open.spotify.com/track/2vxA2Giluc1x5JsRH8AJVB"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/5kj4uRtKgpR9PKnQaMYqZU"
       },
@@ -2584,6 +2606,28 @@
     {
       "album": {
         "name": "All That",
+        "url": "https://open.spotify.com/album/40Dp4uup5cC6UtijDPOsqj"
+      },
+      "artists": [
+        {
+          "name": "Da Getta",
+          "url": "https://open.spotify.com/artist/6qGobCRXLoUuJ0LoH6zKQV"
+        },
+        {
+          "name": "Tre Loaded",
+          "url": "https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117607,
+      "name": "All That",
+      "url": "https://open.spotify.com/track/5qb2yho1jFmjaswEf8AZ3u"
+    },
+    {
+      "album": {
+        "name": "All That",
         "url": "https://open.spotify.com/album/5YaMPW9DfNAoibDGfIa1Do"
       },
       "artists": [
@@ -3622,7 +3666,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 159091,
       "name": "Back Ina Yams",
       "url": "https://open.spotify.com/track/2kR8IcqxFHrAKwtoqeFqnP"
@@ -8512,7 +8556,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156015,
-      "name": "Clippers",
+      "name": "Clippers (feat. G Herbo)",
       "url": "https://open.spotify.com/track/0DRZZuz7QinXaI3pKJ05vH"
     },
     {
@@ -11384,7 +11428,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 182084,
       "name": "Down For Real",
       "url": "https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh"
@@ -13000,7 +13044,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 152658,
       "name": "Feet On Land",
       "url": "https://open.spotify.com/track/50RFfEjzKnTAzzYkmPb6DO"
@@ -20974,7 +21018,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 116366,
       "name": "Intro",
       "url": "https://open.spotify.com/track/4HKqjnTxJ7lHj3DXSPqLjj"
@@ -30690,10 +30734,28 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 125936,
       "name": "oregon",
       "url": "https://open.spotify.com/track/5qhQxCGNZJSxxQzIbY53Z9"
+    },
+    {
+      "album": {
+        "name": "They Forgot",
+        "url": "https://open.spotify.com/album/4Cc2TMtRh1NlycKQyy65p4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169489,
+      "name": "Orphan",
+      "url": "https://open.spotify.com/track/1OpV4xyGH4frRqXbS3oD6e"
     },
     {
       "album": {
@@ -35307,6 +35369,24 @@
     },
     {
       "album": {
+        "name": "They Forgot",
+        "url": "https://open.spotify.com/album/4Cc2TMtRh1NlycKQyy65p4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210609,
+      "name": "Robbery 10",
+      "url": "https://open.spotify.com/track/2W2Mmm3BaoRpKq7lr4Cpjp"
+    },
+    {
+      "album": {
         "name": "Robbery 7",
         "url": "https://open.spotify.com/album/4ozI7JpZCF7GU2p7QvFVmH"
       },
@@ -38899,6 +38979,24 @@
     },
     {
       "album": {
+        "name": "Spazzed Out",
+        "url": "https://open.spotify.com/album/7xVbxo84Ayf4HzcGYKEJUj"
+      },
+      "artists": [
+        {
+          "name": "Rundown Spaz",
+          "url": "https://open.spotify.com/artist/4W7fxKwDR9luCrOryB3GVK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94177,
+      "name": "Spazzed Out",
+      "url": "https://open.spotify.com/track/6idxgVqfSLiz0wiVU5iFNY"
+    },
+    {
+      "album": {
         "name": "Speak On Fortune",
         "url": "https://open.spotify.com/album/28SdaVcvNKIkHtu5AfQxmH"
       },
@@ -39450,7 +39548,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 166133,
       "name": "Standing on It",
       "url": "https://open.spotify.com/track/764bnTCXLpQY73bNB5uZDL"
@@ -41042,6 +41140,24 @@
       "duration_ms": 175893,
       "name": "Survival Of The Fittest (feat. Future)",
       "url": "https://open.spotify.com/track/2sdK4Bpasg8Ti0MTpCUFFd"
+    },
+    {
+      "album": {
+        "name": "They Forgot",
+        "url": "https://open.spotify.com/album/4Cc2TMtRh1NlycKQyy65p4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145366,
+      "name": "Survival Skills",
+      "url": "https://open.spotify.com/track/7eCgZJM4PAor3N3kBi7zKX"
     },
     {
       "album": {
@@ -44536,6 +44652,24 @@
       "duration_ms": 170666,
       "name": "UNDER OATH",
       "url": "https://open.spotify.com/track/1iGiANByWXW8cw430IX3a8"
+    },
+    {
+      "album": {
+        "name": "ALL DAWGS GO 2 HEAVEN",
+        "url": "https://open.spotify.com/album/0n2Aty2CXD3FIfJObu1iUQ"
+      },
+      "artists": [
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149349,
+      "name": "Under Surveillance",
+      "url": "https://open.spotify.com/track/4gIDr5ihFPojNSHl0HJEi6"
     },
     {
       "album": {

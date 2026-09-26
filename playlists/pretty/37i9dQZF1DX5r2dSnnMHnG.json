@@ -1,6 +1,6 @@
 {
   "description": "\ubc9a\uaf43\uc774 \ud769\ub0a0\ub9ac\uace0 \uc0c8\uc2f9\uc774 \ud53c\uc5b4\uc624\ub974\ub294 \ubd04\uc758 \uc124\ub808\uc784\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 15862,
+  "num_followers": 15860,
   "original_name": "*\ubd04 \uc124\ub808\uc784",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "Things We Dream: Vol.1",
-        "url": "https://open.spotify.com/album/3Vd8dh7UmmMnu48AM5f7YP"
-      },
-      "artists": [
-        {
-          "name": "HITGS",
-          "url": "https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/5jbWLkxaG4aXqVCBJxYp6q"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "What Do I Call You - The 4th Mini Album",
         "url": "https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 226853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "Things We Dream: Vol.1",
+        "url": "https://open.spotify.com/album/3Vd8dh7UmmMnu48AM5f7YP"
+      },
+      "artists": [
+        {
+          "name": "HITGS",
+          "url": "https://open.spotify.com/artist/5a83Luu0ndnR1enk1rn83V"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/5jbWLkxaG4aXqVCBJxYp6q"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -799,26 +799,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "Ten Reasons I Love You(2021)",
-        "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
-      },
-      "artists": [
-        {
-          "name": "Lee Seok Hoon",
-          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
-        },
-        {
-          "name": "ROCOBERRY",
-          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Ten Reasons I Love You(2021)",
-      "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "Spring Is You",
         "url": "https://open.spotify.com/album/7FlkrvR9nOpNzd1zZ2hpeC"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 195186,
       "name": "I Love U",
       "url": "https://open.spotify.com/track/65g3VCPXMmHPBWucrNR8oO"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "Ten Reasons I Love You(2021)",
+        "url": "https://open.spotify.com/album/7jYHHFrMHo5grqQ1oQ2oRH"
+      },
+      "artists": [
+        {
+          "name": "Lee Seok Hoon",
+          "url": "https://open.spotify.com/artist/16sxdaE9mk0Kis9CTP7Uot"
+        },
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Ten Reasons I Love You(2021)",
+      "url": "https://open.spotify.com/track/6iTIhJhvTLWsIH6DMfhfvD"
     },
     {
       "added_at": "2026-04-25 04:24:32",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2026-04-25 04:24:32",
       "album": {
-        "name": "Spring, day",
-        "url": "https://open.spotify.com/album/3mvWo5XDug7Xr26gI2Yywp"
-      },
-      "artists": [
-        {
-          "name": "NIve",
-          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
-        }
-      ],
-      "duration_ms": 254100,
-      "name": "Spring, day",
-      "url": "https://open.spotify.com/track/0r3pGHGo4k4qAzf0rgLkq8"
-    },
-    {
-      "added_at": "2026-04-25 04:24:32",
-      "album": {
         "name": "The Practical Guide to Love (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/1ShTAf3wQ5LKC3eKMmgec7"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 238000,
       "name": "I Feel Special",
       "url": "https://open.spotify.com/track/2plWIXE3OlN3auMLlOaQNQ"
+    },
+    {
+      "added_at": "2026-04-25 04:24:32",
+      "album": {
+        "name": "Spring, day",
+        "url": "https://open.spotify.com/album/3mvWo5XDug7Xr26gI2Yywp"
+      },
+      "artists": [
+        {
+          "name": "NIve",
+          "url": "https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF"
+        }
+      ],
+      "duration_ms": 254100,
+      "name": "Spring, day",
+      "url": "https://open.spotify.com/track/0r3pGHGo4k4qAzf0rgLkq8"
     },
     {
       "added_at": "2026-04-25 04:24:32",

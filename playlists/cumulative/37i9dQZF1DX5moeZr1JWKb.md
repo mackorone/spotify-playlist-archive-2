@@ -2,9 +2,9 @@
 
 ### [Los Gallos](https://open.spotify.com/playlist/37i9dQZF1DX5moeZr1JWKb)
 
-> Estas son las grandes voces del Hip Hop\. Foto: Ali Aka Mind, Apache, Marco Polo
+> Estas son las grandes voces del Hip Hop\. Foto: Tres Coronas
 
-250 songs - 13 hr 17 min
+251 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [La Primera](https://open.spotify.com/track/4F12uZbVbzzvyI1shTud4m) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [La Primera](https://open.spotify.com/album/39ICZEfQgeMWBVWMisix9A) | 2:23 | 2026-03-18 | 2026-03-27 |
 | [La Sabia Escuela](https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Pedro Elías](https://open.spotify.com/album/0K2ccPqz7qApwmiZF1f3BM) | 4:35 | 2024-04-26 |  |
 | [La Verdad del Pobre](https://open.spotify.com/track/5A6krTKbn9GJJLZ21keUh4) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pureza](https://open.spotify.com/album/4obatkmABoD3jq8zoBbM6C) | 2:27 | 2023-05-26 | 2025-03-29 |
+| [La Via Del Tren](https://open.spotify.com/track/39BvXMotxDZEC3HbncRpEN) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Inter](https://open.spotify.com/album/0yR1qd06IkTYHpu2qhLMl0) | 4:36 | 2026-09-25 |  |
 | [Las Calles Son Clases](https://open.spotify.com/track/0Ptr4kYE9yVxrYWjaYw8D7) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c), [Mc Kno](https://open.spotify.com/artist/0t0wGSeL96MtZyjZiNHPCk), [Alka Produce](https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q) | [Las Calles Son Clases](https://open.spotify.com/album/45O6BO1jUcdqoR0kJEGmaH) | 2:40 | 2023-08-11 | 2024-05-15 |
 | [Las Cuchas Tenían Razón](https://open.spotify.com/track/0RMBWyOliXTv6Fczr4NjZW) | [Oblivion's Mighty Trash](https://open.spotify.com/artist/3UKTWNfZH3dyR2hI1rNtUH), [Anlly Marín](https://open.spotify.com/artist/1CkiILgUUV8OFr0t9AUpkr), [Silva](https://open.spotify.com/artist/4llOn6AWn6fSG738WDSahS) | [Las Cuchas Tenían Razón](https://open.spotify.com/album/4jv8isW3knaosEfpfhcrsC) | 3:38 | 2026-05-22 |  |
 | [Le decían que no podía](https://open.spotify.com/track/1H74BSIoJD0Usb5Boyocsl) | [Penyair](https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c) | [Le decían que no podía](https://open.spotify.com/album/78PzqEJVrRaKmjHoXdOHdv) | 3:04 | 2024-09-13 |  |
@@ -135,7 +136,7 @@
 | [Mi Comedia](https://open.spotify.com/track/4JZekBCMqrxQQjzlHNSW6k) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408) | [Mi Comedia](https://open.spotify.com/album/4rTfCXmU1AW2mYSQg6KAYF) | 2:41 | 2023-05-26 |  |
 | [Mi Niña Interna](https://open.spotify.com/track/0BRrzzqKS97IXzwANDFxFv) | [La Farmakos](https://open.spotify.com/artist/1rRwWqd4q5AZP4BXbhoRlO) | [Mi Niña Interna](https://open.spotify.com/album/7eVUusGrkkd83KsIFQtlYN) | 4:02 | 2024-04-19 | 2024-09-14 |
 | [Mi Niña Interna](https://open.spotify.com/track/0jPDdPhpAOL04nledQzDKV) | [La Farmakos](https://open.spotify.com/artist/1rRwWqd4q5AZP4BXbhoRlO) | [No Hay Que Perder](https://open.spotify.com/album/1ZfTVu8rloGnfJsR8REgne) | 4:02 | 2026-03-06 |  |
-| [Misa de Sanazión](https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Tito Agudelo](https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:22 | 2024-11-29 |  |
+| [Misa de Sanazión](https://open.spotify.com/track/1CX7PvsFx7VYPbwDiLzGfJ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Tito Agudelo](https://open.spotify.com/artist/4E20VVE4wb20LhvtMqfZ49) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:22 | 2024-11-29 | 2026-09-26 |
 | [Miss Diablo](https://open.spotify.com/track/0Hurh6a4KCZ7MuCPgYIwP8) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Miss Diablo](https://open.spotify.com/album/4s8SELkg0riptSKUZxidei) | 2:31 | 2026-03-18 | 2026-03-27 |
 | [Miss Diablo II](https://open.spotify.com/track/4MqfOq9S5xrYqKlKa2UqvN) | [La Potter](https://open.spotify.com/artist/77MeU6c9Jk51GTy2D5GgDu), [Dímelo Seven](https://open.spotify.com/artist/07vf4pTHRfVOm6rS88dugW) | [Miss Diablo II](https://open.spotify.com/album/4PvluDGLgxbTbbQkmiNFoi) | 2:53 | 2026-03-18 | 2026-03-27 |
 | [Monedas de Cuero](https://open.spotify.com/track/1zKgCSYahoo20slcNNB6v2) | [Granuja](https://open.spotify.com/artist/5KBPxIED8ejHkvhs4KCzyS), [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9) | [Oculto](https://open.spotify.com/album/4k0NMsZNWF3Iv0UXHPqYnI) | 3:51 | 2023-05-26 | 2024-04-19 |

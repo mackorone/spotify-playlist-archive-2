@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45xYefy6tIi.md) - [plain]
 
 > From waking up with ESPN College GameDay to Saturday night under the lights, College Football on ESPN starts here\. Crank it up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,183 likes - 41 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,212 likes - 41 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

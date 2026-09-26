@@ -1,6 +1,6 @@
 {
   "description": "Allerbeste songs van de 90's! Cover: No Doubt",
-  "num_followers": 89327,
+  "num_followers": 89339,
   "original_name": "90's Allerbeste",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Keep The Faith",
-        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 394400,
-      "name": "Bed Of Roses",
-      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "Falling into You",
         "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 456866,
       "name": "It's All Coming Back to Me Now",
       "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Keep The Faith",
+        "url": "https://open.spotify.com/album/2FbviTPUjgJJUxsGM1sGDq"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 394400,
+      "name": "Bed Of Roses",
+      "url": "https://open.spotify.com/track/1zng9uqqXoPkmU05nsAlsw"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Stars (Collector's Edition)",
-        "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 248599,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "The Colour Of My Love",
         "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 342400,
       "name": "The Power of Love",
       "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Stars (Collector's Edition)",
+        "url": "https://open.spotify.com/album/2WOo1KEogmN7MdDMjVCusC"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 248599,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -811,18 +811,18 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "The Long Road Back",
-        "url": "https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU"
+        "name": "Real Life",
+        "url": "https://open.spotify.com/album/2O5Qb4CQBTkN7UIvFBTCsq"
       },
       "artists": [
         {
-          "name": "Peter Andre",
-          "url": "https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
         }
       ],
-      "duration_ms": 217106,
-      "name": "Mysterious Girl - Radio Edit",
-      "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
+      "duration_ms": 309426,
+      "name": "Let There Be Love - 2002 Digital Remaster",
+      "url": "https://open.spotify.com/track/1KKAzCSZ7tS4KWDqG6uxVA"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -843,18 +843,18 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Real Life",
-        "url": "https://open.spotify.com/album/2O5Qb4CQBTkN7UIvFBTCsq"
+        "name": "The Long Road Back",
+        "url": "https://open.spotify.com/album/5SzHkxYKPIK4LcGaJrgnNU"
       },
       "artists": [
         {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+          "name": "Peter Andre",
+          "url": "https://open.spotify.com/artist/4zVfvSWs6FvSD6B5lQGs2S"
         }
       ],
-      "duration_ms": 309426,
-      "name": "Let There Be Love - 2002 Digital Remaster",
-      "url": "https://open.spotify.com/track/1KKAzCSZ7tS4KWDqG6uxVA"
+      "duration_ms": 217106,
+      "name": "Mysterious Girl - Radio Edit",
+      "url": "https://open.spotify.com/track/3GCpEbJzknVdpvx9WI03x3"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Dish Of The Day",
-        "url": "https://open.spotify.com/album/1l2SxZKUm1UH45qUqpLfYH"
-      },
-      "artists": [
-        {
-          "name": "Fools Garden",
-          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0fYctMs4EvoEqzDh8Kmg5g"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 240693,
       "name": "Gangsta's Paradise",
       "url": "https://open.spotify.com/track/7lQWRAjyhTpCWFC0jmclT4"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Dish Of The Day",
+        "url": "https://open.spotify.com/album/1l2SxZKUm1UH45qUqpLfYH"
+      },
+      "artists": [
+        {
+          "name": "Fools Garden",
+          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/4fXGWiVhlOLdhwRDP6pIFG"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Greatest Hits!",
-        "url": "https://open.spotify.com/album/5t02mTYT9ks9sOC1ihea4a"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 217539,
-      "name": "We\u2019re Going to Ibiza!",
-      "url": "https://open.spotify.com/track/0b8PKDeFc2T5u9cRbLLv2r"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "The Hit Collection",
         "url": "https://open.spotify.com/album/47vSyDEsXn8mG7JKDMiK5L"
       },
@@ -1475,18 +1459,34 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "(What's the Story) Morning Glory?",
-        "url": "https://open.spotify.com/album/5NCJ52G67LVp5elc367Sjs"
+        "name": "Greatest Hits!",
+        "url": "https://open.spotify.com/album/5t02mTYT9ks9sOC1ihea4a"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
         }
       ],
-      "duration_ms": 287826,
-      "name": "Don't Look Back in Anger",
-      "url": "https://open.spotify.com/track/698mT3CTx8JEnp7twwJrGG"
+      "duration_ms": 217539,
+      "name": "We\u2019re Going to Ibiza!",
+      "url": "https://open.spotify.com/track/0b8PKDeFc2T5u9cRbLLv2r"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "The Best Of Me",
+        "url": "https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "The Best Of Me",
-        "url": "https://open.spotify.com/album/4kbE34G5bxaxwuCqz0NEw4"
+        "name": "(What's the Story) Morning Glory?",
+        "url": "https://open.spotify.com/album/5NCJ52G67LVp5elc367Sjs"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 232200,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/6jFOG89lRSnBD8QDExis0s"
+      "duration_ms": 287826,
+      "name": "Don't Look Back in Anger",
+      "url": "https://open.spotify.com/track/698mT3CTx8JEnp7twwJrGG"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Would I Lie To You",
-        "url": "https://open.spotify.com/album/0LnItV3dnYTejvxvJsW20n"
-      },
-      "artists": [
-        {
-          "name": "Charles & Eddie",
-          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Would I Lie To You?",
-      "url": "https://open.spotify.com/track/1A3iXoekVzV95cq89XiiuX"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "The New Best Of (All Hits & Remixes) 2016",
         "url": "https://open.spotify.com/album/39gSR80KryAcX955TARfGg"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 233106,
       "name": "Quit Playing Games (With My Heart)",
       "url": "https://open.spotify.com/track/10TwZnDyL3tfpwBV85Wevs"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Would I Lie To You",
+        "url": "https://open.spotify.com/album/0LnItV3dnYTejvxvJsW20n"
+      },
+      "artists": [
+        {
+          "name": "Charles & Eddie",
+          "url": "https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Would I Lie To You?",
+      "url": "https://open.spotify.com/track/1A3iXoekVzV95cq89XiiuX"
     },
     {
       "added_at": "2024-12-31 20:44:36",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-12-31 20:44:36",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/1GQCluFc8ODQis5kvcDVKF"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 276866,
-      "name": "Tears In Heaven",
-      "url": "https://open.spotify.com/track/2lJOKQmXQ5yiRyCTE5FyDE"
-    },
-    {
-      "added_at": "2024-12-31 20:44:36",
-      "album": {
         "name": "White On Blonde",
         "url": "https://open.spotify.com/album/6jYkl1sYBLOnqcNCeoEMAw"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 233866,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/4MIB4aXVS0M0KNVcbQlyOP"
+    },
+    {
+      "added_at": "2024-12-31 20:44:36",
+      "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/1GQCluFc8ODQis5kvcDVKF"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 276866,
+      "name": "Tears In Heaven",
+      "url": "https://open.spotify.com/track/2lJOKQmXQ5yiRyCTE5FyDE"
     }
   ],
   "unique_name": "90's Allerbeste",

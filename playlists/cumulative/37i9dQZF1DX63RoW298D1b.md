@@ -4,13 +4,14 @@
 
 > Soothing piano for the ultimate wind down.
 
-267 songs - 11 hr 15 min
+268 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A bed of tulips](https://open.spotify.com/track/3y3krIeEKphe51xVjdHLXm) | [Luanna Averie](https://open.spotify.com/artist/0rDO43Kf4w2sLN4pezlscB) | [A bed of tulips](https://open.spotify.com/album/6ssyw1LvXTs859YSEXx4tc) | 2:40 | 2023-05-09 | 2024-02-03 |
 | [A Day In June](https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [A Day In June](https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd) | 2:00 | 2023-08-23 |  |
 | [A Part Of Us](https://open.spotify.com/track/5aC8nrtrXpYfnhnRyG9LgI) | [Eirin Nordness](https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2) | [A Part Of Us](https://open.spotify.com/album/7JDvhxgKoaufSFdaemvWPI) | 1:57 | 2023-05-09 | 2024-02-03 |
+| [A Place to Rest](https://open.spotify.com/track/3W0xfHnJd2K2SZrn7jU1Bo) | [Denis Rial](https://open.spotify.com/artist/6kLSeA8bMNkur1A9Tnhde9) | [A Place to Rest](https://open.spotify.com/album/23s4UZqvN9xKFtGuNOjas4) | 2:42 | 2026-09-25 |  |
 | [A Place to Stay](https://open.spotify.com/track/43RlEfroF7mroiQOv2O5H2) | [Axel Bennett](https://open.spotify.com/artist/3cbNP4ir2UsDvVi8kbd1qz) | [A Place to Stay](https://open.spotify.com/album/7o3T9QNHp5atn8pLAC2QJ7) | 3:08 | 2026-06-12 |  |
 | [A quiet river](https://open.spotify.com/track/1Q2ih8UwOirSbXp9Nb4QV4) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [A quiet river](https://open.spotify.com/album/6xIHOY61L5LEsjV836wdLk) | 2:02 | 2024-03-19 |  |
 | [A Reunion](https://open.spotify.com/track/67E9l7Txh7dMUVCFLAfEzu) | [Donnie Harman](https://open.spotify.com/artist/6SGJd9IXJySRiU9CR8Bdbe) | [A Reunion](https://open.spotify.com/album/06DXO5RP52IVBcCF87fCAV) | 2:35 | 2023-09-05 |  |

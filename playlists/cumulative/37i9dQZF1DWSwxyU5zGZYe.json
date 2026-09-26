@@ -541,6 +541,32 @@
     },
     {
       "album": {
+        "name": "Pehla Pyaar Doosri Baar",
+        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185030,
+      "name": "Chaand (Unplugged)",
+      "url": "https://open.spotify.com/track/71TXRxAtsO9Gi06W1yryAv"
+    },
+    {
+      "album": {
         "name": "Chal Zero Pe Chalte Hain (From \"Zero Se Restart\")",
         "url": "https://open.spotify.com/album/3NofFZuMj0ZcbseAMrSFRz"
       },
@@ -3880,7 +3906,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 158666,
       "name": "Vaaroon Reprise - From \u201cMirzapur The Movie\u201d",
       "url": "https://open.spotify.com/track/2V7YhoyU99a82ebkapwrDt"

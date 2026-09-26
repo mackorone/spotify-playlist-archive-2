@@ -4993,6 +4993,32 @@
     },
     {
       "album": {
+        "name": "HIGHLIGHT",
+        "url": "https://open.spotify.com/album/0cIoOPLvXjj3Iyq0cM09LW"
+      },
+      "artists": [
+        {
+          "name": "Barajas",
+          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
+        },
+        {
+          "name": "Yeniell",
+          "url": "https://open.spotify.com/artist/0NfUDepBHPTyQBKWBmop91"
+        },
+        {
+          "name": "Borrero",
+          "url": "https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174014,
+      "name": "HIGHLIGHT",
+      "url": "https://open.spotify.com/track/4jlpJM9LinRqZZe8yzk9xM"
+    },
+    {
+      "album": {
         "name": "HIJOS DE DIOS",
         "url": "https://open.spotify.com/album/0GudmSRso9SiDKQS6Pzz33"
       },
@@ -6854,6 +6880,28 @@
       "duration_ms": 182717,
       "name": "Me Has Sostenido",
       "url": "https://open.spotify.com/track/6GY4wfvIwp846nBcZCKSKJ"
+    },
+    {
+      "album": {
+        "name": "BALANCE (B-002)",
+        "url": "https://open.spotify.com/album/0NNqdkEH3zqagF3hrAgZZo"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        },
+        {
+          "name": "RIVERS",
+          "url": "https://open.spotify.com/artist/3jMVVq9mJJn2anR1yqpzMW"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243840,
+      "name": "Me Hiere",
+      "url": "https://open.spotify.com/track/5AGmZp8Yby6C5efwjCTBDn"
     },
     {
       "album": {
@@ -9434,7 +9482,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 160000,
       "name": "Por \u00c9l",
       "url": "https://open.spotify.com/track/4byLjSJHwOMjFr6Lv0ZhxA"
@@ -11828,7 +11876,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 183050,
       "name": "Tuyaiia",
       "url": "https://open.spotify.com/track/4Mv2w5KEXVFbdYnedgdsDz"
@@ -12802,6 +12850,28 @@
       "duration_ms": 189213,
       "name": "Yoyo",
       "url": "https://open.spotify.com/track/0zYuk0Yu7i182Ze1OieTiV"
+    },
+    {
+      "album": {
+        "name": "Zaqueo",
+        "url": "https://open.spotify.com/album/1Z1ZfJZgpP8mc0j4nOPGGe"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        },
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180991,
+      "name": "Zaqueo",
+      "url": "https://open.spotify.com/track/5k0t1fLWVydyGRxOVbahaC"
     },
     {
       "album": {

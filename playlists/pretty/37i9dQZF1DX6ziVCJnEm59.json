@@ -1,12 +1,12 @@
 {
   "description": "Curl up in your favorite spot with some sweet, mellow tunes...",
-  "num_followers": 4008307,
+  "num_followers": 4007974,
   "original_name": "Your Favorite Coffeehouse",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMd9XApoZKkPJo1fgik4E57Opqq",
+  "snapshot_id": "AAAAAAJ+mpmpXIKX+bCrijuC6bItDgbo",
   "tracks": [
     {
       "added_at": "2026-09-15 16:23:05",
@@ -103,6 +103,22 @@
       "duration_ms": 186806,
       "name": "Hey Big Dipper",
       "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
+    },
+    {
+      "added_at": "2026-09-25 16:34:50",
+      "album": {
+        "name": "The Gem",
+        "url": "https://open.spotify.com/album/1nkNzpjmKmAOypmfp7a8Ic"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 221215,
+      "name": "Angel Vision",
+      "url": "https://open.spotify.com/track/3bstintYmtTAA8fbjoUerL"
     },
     {
       "added_at": "2026-09-15 16:23:05",

@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1487629,
+  "num_followers": 1487494,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "Wave",
-        "url": "https://open.spotify.com/album/5W4dS7EDdMOT9i1rnIoOS9"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 156176,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/5SsVGUftRUdEuiTfSFFYXq"
-    },
-    {
-      "added_at": "2026-09-04 03:00:36",
-      "album": {
         "name": "VI",
         "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 241400,
       "name": "Por Onde Voc\u00ea Anda?",
       "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
+    },
+    {
+      "added_at": "2026-09-04 03:00:36",
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/5W4dS7EDdMOT9i1rnIoOS9"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 156176,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/5SsVGUftRUdEuiTfSFFYXq"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -295,22 +295,6 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
-      },
-      "artists": [
-        {
-          "name": "MAR ABERTO",
-          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
-        }
-      ],
-      "duration_ms": 198193,
-      "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
-    },
-    {
-      "added_at": "2026-09-04 03:00:36",
-      "album": {
         "name": "Algo Parecido",
         "url": "https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 225018,
       "name": "Algo Parecido",
       "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
+    },
+    {
+      "added_at": "2026-09-04 03:00:36",
+      "album": {
+        "name": "Se fosse t\u00e3o f\u00e1cil (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7JdKZ7Ve0q242f1ljpi4c9"
+      },
+      "artists": [
+        {
+          "name": "MAR ABERTO",
+          "url": "https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO"
+        }
+      ],
+      "duration_ms": 198193,
+      "name": "Se fosse t\u00e3o f\u00e1cil - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4IuWJzJRVZyyjyxcDdzpaE"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -411,18 +411,18 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "Quase Sem Querer",
-        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
+        "name": "Zeeba - Reset",
+        "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
       },
       "artists": [
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         }
       ],
-      "duration_ms": 216842,
-      "name": "Quase Sem Querer",
-      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
+      "duration_ms": 214741,
+      "name": "Tudo Que Importa (Acoustic)",
+      "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -443,18 +443,18 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "Zeeba - Reset",
-        "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
+        "name": "Quase Sem Querer",
+        "url": "https://open.spotify.com/album/5v12mn6fKImJjZR9D3QZME"
       },
       "artists": [
         {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 214741,
-      "name": "Tudo Que Importa (Acoustic)",
-      "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
+      "duration_ms": 216842,
+      "name": "Quase Sem Querer",
+      "url": "https://open.spotify.com/track/0dPfujTAOWHFvAef50QvGi"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -575,26 +575,6 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "Sol Lua Sol, ao Vivo em S\u00e3o Paulo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla"
-      },
-      "artists": [
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        },
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 257282,
-      "name": "Outra Vez - Ao Vivo",
-      "url": "https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL"
-    },
-    {
-      "added_at": "2026-09-04 03:00:36",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2026-09-04 03:00:36",
+      "album": {
+        "name": "Sol Lua Sol, ao Vivo em S\u00e3o Paulo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/21dh335o4NHy3gkFZrNJla"
+      },
+      "artists": [
+        {
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
+        },
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 257282,
+      "name": "Outra Vez - Ao Vivo",
+      "url": "https://open.spotify.com/track/1fC4ixhfi1eiurXafXQ4UL"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -1019,22 +1019,18 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "Gostosin (Acoustic)",
-        "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
       },
       "artists": [
         {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        },
-        {
-          "name": "Ventura",
-          "url": "https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF"
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
         }
       ],
-      "duration_ms": 180333,
-      "name": "Gostosin (Acoustic)",
-      "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -1059,18 +1055,22 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
+        "name": "Gostosin (Acoustic)",
+        "url": "https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy"
       },
       "artists": [
         {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        },
+        {
+          "name": "Ventura",
+          "url": "https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF"
         }
       ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
+      "duration_ms": 180333,
+      "name": "Gostosin (Acoustic)",
+      "url": "https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x"
     },
     {
       "added_at": "2026-09-04 03:00:36",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2026-09-04 03:00:36",
       "album": {
-        "name": "Vers\u00f5es Que Eu Fiz",
-        "url": "https://open.spotify.com/album/1tHmHQwW8burYhP5I9sGx2"
-      },
-      "artists": [
-        {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
-        }
-      ],
-      "duration_ms": 229573,
-      "name": "Cola Comigo",
-      "url": "https://open.spotify.com/track/0qMLvVQQV4jFb9dR8VDYeA"
-    },
-    {
-      "added_at": "2026-09-04 03:00:36",
-      "album": {
         "name": "GUPE - PP sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 222582,
       "name": "beira - PP sessions - Ao Vivo",
       "url": "https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk"
+    },
+    {
+      "added_at": "2026-09-04 03:00:36",
+      "album": {
+        "name": "Vers\u00f5es Que Eu Fiz",
+        "url": "https://open.spotify.com/album/1tHmHQwW8burYhP5I9sGx2"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        }
+      ],
+      "duration_ms": 229573,
+      "name": "Cola Comigo",
+      "url": "https://open.spotify.com/track/0qMLvVQQV4jFb9dR8VDYeA"
     },
     {
       "added_at": "2026-09-04 03:00:36",

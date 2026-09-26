@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-241 songs - 14 hr 33 min
+242 songs - 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Corro a Ti](https://open.spotify.com/track/1sR3k6e5fuCQrHHMWjUkM5) | [LifeBanda](https://open.spotify.com/artist/5ZuEEy60Q2rXIQX20efDHz) | [Corro a Ti](https://open.spotify.com/album/4I9ZoZ53UKl31RaFYedPAP) | 3:32 | 2025-09-26 |  |
 | [Cuando está la Presencia del Rey](https://open.spotify.com/track/2l2IGV4CEBnT310cWK5PH4) | [Margarita de la Cruz](https://open.spotify.com/artist/6TgLtqzmFhIQD4OMxW1AF7) | [Cuando está la Presencia del Rey](https://open.spotify.com/album/5w6KLLGX8tLm7r4SL04PDZ) | 4:36 | 2025-09-26 | 2026-03-29 |
 | [Cuestión de Fé](https://open.spotify.com/track/1hA9pOl53hYmKBDzxE2Y6i) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [A Solas](https://open.spotify.com/album/7j9iOuNGdCEpBw4qVUPNwl) | 4:53 | 2024-07-19 | 2025-03-01 |
+| [Dale Candela](https://open.spotify.com/track/238tjakaabtBzeJirHl0oc) | [JIMMY ROCK](https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN), [Fe Mundo](https://open.spotify.com/artist/5gJb4A1xQNBpFhQbSroQx7), [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt) | [Dale Candela](https://open.spotify.com/album/12hBGKv5JjY2CB3K89fak4) | 3:08 | 2026-09-25 |  |
 | [De Fiesta](https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0) | 3:18 | 2020-11-24 | 2024-04-19 |
 | [De Fiesta \(feat\. Alex Zurdo\)](https://open.spotify.com/track/2N81uFWhHCIKAdTaPr99m4) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1fPigYK8EMFTArMvAwvCtR) | 3:18 | 2020-11-24 | 2026-03-29 |
 | [De Vuelta](https://open.spotify.com/track/58soAAGUis6dWUAir2CVY9) | [Simiente Incorruptible](https://open.spotify.com/artist/00lO9exwxYAnFcYeWhtotT) | [De Vuelta](https://open.spotify.com/album/6ZbWg7zKqSDAn41W6QhxWm) | 3:26 | 2020-11-24 | 2024-07-19 |
@@ -162,7 +163,7 @@
 | [Otra Vez](https://open.spotify.com/track/14t6bEV9Efq9yor2RuJoli) | [David Muguercia](https://open.spotify.com/artist/5nMM1vcEVt8ZMtMozqQ4fu), [Obyone](https://open.spotify.com/artist/1kjzrYEdRok24Tpamprfpa), [Emanuel Lara](https://open.spotify.com/artist/4h8AlGulCUpliPcRlj40Ap) | [Otra Vez](https://open.spotify.com/album/4jTwmNKRgjnTIrm8nyKA9C) | 3:08 | 2026-07-25 |  |
 | [Otra Vez](https://open.spotify.com/track/0MGskaT8GXb029IsD40jei) | [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Otra Vez](https://open.spotify.com/album/3m3fFA3DegATVGB6Gdp0re) | 2:22 | 2025-03-28 | 2025-05-01 |
 | [Oye](https://open.spotify.com/track/1tib88sDmTOsH7hGVLDATC) | [FLEIVA MUSIC](https://open.spotify.com/artist/3465xbnVAWcS12btMU20Iq), [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Oye](https://open.spotify.com/album/0qFqOqkNSBjstpjtYdGUkS) | 2:59 | 2026-03-29 |  |
-| [Pedí Un Deseo](https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9) | [Yaronk Rouse](https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI) | [Pedí Un Deseo](https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7) | 3:16 | 2025-07-25 |  |
+| [Pedí Un Deseo](https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9) | [Yaronk Rouse](https://open.spotify.com/artist/0X4lCAYlpMKKkNOcuL14eI) | [Pedí Un Deseo](https://open.spotify.com/album/6denrjuHskfvkh4ag75SN7) | 3:16 | 2025-07-25 | 2026-09-26 |
 | [Peleando En Mi Mente](https://open.spotify.com/track/0TomKFX1z1NswQpLF4rFRj) | [J Arias](https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym) | [Peleando En Mi Mente](https://open.spotify.com/album/3URUF6SAvEqpjZzr21xfwn) | 2:50 | 2026-06-26 |  |
 | [Perdi La Cuenta](https://open.spotify.com/track/7vXmcjJ7fSvYfHP9aEqU8s) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL) | [Perdi La Cuenta](https://open.spotify.com/album/3o4Z7JpwF3arUnwl9W7hAz) | 3:03 | 2026-03-29 |  |
 | [Perfecto Amor](https://open.spotify.com/track/4FWQs284A7woj3d5hxACxC) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Onell Diaz](https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2) | [Perfecto Amor](https://open.spotify.com/album/0S37j8K0vG6NCFkgV53cnO) | 3:19 | 2025-09-26 |  |

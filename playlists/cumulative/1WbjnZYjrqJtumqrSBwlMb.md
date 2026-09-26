@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,369 songs - 3 day 12 hr 21 min
+1,370 songs - 3 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Beanie](https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3) | 2:12 | 2026-01-07 |  |
 | [Beautiful World](https://open.spotify.com/track/4f4CAiVf1lTCNJgBi1mVKn) | [Sugar Cherry](https://open.spotify.com/artist/0XL4FAwlMdPd4UxmPnTPUd) | [Land of Pine](https://open.spotify.com/album/0mMyd6IDLycxlDihDuOIaM) | 2:35 | 2025-12-10 |  |
 | [BEAUTY AND THE BEAST](https://open.spotify.com/track/6pxHjkpwGmg97Yn5HcwNTn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:45 | 2026-03-29 |  |
+| [Beauty Sleep](https://open.spotify.com/track/1RrEB90qVYRsVE1DQsqwuJ) | [Jane Remover](https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu) | [Beauty Sleep](https://open.spotify.com/album/3xI4q1yRS4Vr1wMkQxlQjj) | 3:42 | 2026-09-26 |  |
 | [Before The Day Is Over](https://open.spotify.com/track/7zBscbZUCr4jEABrfV9g03) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:33 | 2022-11-06 |  |
 | [Before You Were Mine](https://open.spotify.com/track/2hy7LS3pvWnPrPMAoCN6ys) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [If This Isn’t Nice, I Don’t Know What Is](https://open.spotify.com/album/0QnWm07An8WyO3eupjBDoP) | 2:15 | 2021-08-16 |  |
 | [BEG FORGIVENESS](https://open.spotify.com/track/7DPUuTaTZCtQ6o4Xx00qzT) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 6:08 | 2024-02-10 | 2024-05-20 |

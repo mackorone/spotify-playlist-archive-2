@@ -5737,6 +5737,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Him",
+        "url": "https://open.spotify.com/album/2S3Grto0yAldonBiEIUXdM"
+      },
+      "artists": [
+        {
+          "name": "Quentin Wallace",
+          "url": "https://open.spotify.com/artist/4ZsvhCZ5uKfGDtbq0a4SGh"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160663,
+      "name": "I'm Not Him",
+      "url": "https://open.spotify.com/track/32zbpf0ODCs4SaorEgDlc0"
+    },
+    {
+      "album": {
         "name": "I'm Nowhere",
         "url": "https://open.spotify.com/album/2eSNKPsgDjNj79AjRwDBJ1"
       },
@@ -9074,6 +9092,24 @@
       "duration_ms": 231297,
       "name": "Palmar Blues",
       "url": "https://open.spotify.com/track/29Erykx9p5c1XgmtsTZmFn"
+    },
+    {
+      "album": {
+        "name": "Paneka",
+        "url": "https://open.spotify.com/album/73YbZ2e7RkFicCdu0GASfF"
+      },
+      "artists": [
+        {
+          "name": "HAYZEDMOANA",
+          "url": "https://open.spotify.com/artist/1kfhQKG9G8nk9n5d7SGCSp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136672,
+      "name": "Paneka",
+      "url": "https://open.spotify.com/track/68A3DFapZmoaBpNGPlD34O"
     },
     {
       "album": {

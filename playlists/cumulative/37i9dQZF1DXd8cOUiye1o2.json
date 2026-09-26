@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "Aankhein",
+        "url": "https://open.spotify.com/album/2fKe65b6B7Bb0sFRY0A39s"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315125,
+      "name": "Aankhein",
+      "url": "https://open.spotify.com/track/0Y0qi12uVrC1aTvZ0edihf"
+    },
+    {
+      "album": {
         "name": "Aankhon Ki Gustaakhiyan Title Track (From \"Aankhon Ki Gustaakhiyan\")",
         "url": "https://open.spotify.com/album/6LwKDhBbkEZhMv8K2BuYb5"
       },
@@ -1566,7 +1584,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 304756,
       "name": "Asha Forever",
       "url": "https://open.spotify.com/track/1ur1Ez1nwu7JOB9H9Dg6qk"
@@ -2341,6 +2359,32 @@
     },
     {
       "album": {
+        "name": "Bairi Piya",
+        "url": "https://open.spotify.com/album/2nv6BkUtcPqMBdWwloLBGO"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Anurag Mishra",
+          "url": "https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE"
+        },
+        {
+          "name": "Alok Ranjan Srivastava",
+          "url": "https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236146,
+      "name": "Bairi Piya",
+      "url": "https://open.spotify.com/track/7J3gWwFF84eXhB6Ek4ry4N"
+    },
+    {
+      "album": {
         "name": "Bairiya Re",
         "url": "https://open.spotify.com/album/53amD6kpJySximbBXoDXx5"
       },
@@ -2590,7 +2634,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 161860,
       "name": "Bandh Rehne Do",
       "url": "https://open.spotify.com/track/5g2fLolamjIaDpq3PLBX8m"
@@ -2672,7 +2716,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 207626,
       "name": "Banjaare (Following the Sun)",
       "url": "https://open.spotify.com/track/1LMfAnVIyTfqBJ4F7fRx0Y"
@@ -2774,7 +2818,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 254871,
       "name": "Barbaad Kare Mujhko (Sar-e-Shaam - Mehfilz with Papon) - From The Living Room",
       "url": "https://open.spotify.com/track/6qCXxRXYkeZvcRlCIPVyQA"
@@ -3941,6 +3985,32 @@
     },
     {
       "album": {
+        "name": "Pehla Pyaar Doosri Baar",
+        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173122,
+      "name": "Chaand",
+      "url": "https://open.spotify.com/track/4zPwGaLCexivXGV2XpjXo8"
+    },
+    {
+      "album": {
         "name": "Chaand",
         "url": "https://open.spotify.com/album/1bY2HK0xaFWGf31hCtcUiW"
       },
@@ -4172,7 +4242,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 259038,
       "name": "Chal Chhapaak",
       "url": "https://open.spotify.com/track/5CpdvaNmQkXONp9b6gfb6U"
@@ -7720,7 +7790,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 158584,
       "name": "Ghumela",
       "url": "https://open.spotify.com/track/19uPKWgnHUFkceh9fQUn21"
@@ -18257,6 +18327,32 @@
     },
     {
       "album": {
+        "name": "Pehla Pyaar Doosri Baar",
+        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Kumaar",
+          "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221021,
+      "name": "Purane Din",
+      "url": "https://open.spotify.com/track/3gqea65hpdOFJ4YFkUEKLb"
+    },
+    {
+      "album": {
         "name": "Pyaar Ka Jua",
         "url": "https://open.spotify.com/album/7jjtssE631WYoIIav4z25O"
       },
@@ -18272,6 +18368,32 @@
       "duration_ms": 138600,
       "name": "Pyaar Ka Jua",
       "url": "https://open.spotify.com/track/3yxStyDgcQy1omR8iqYJWY"
+    },
+    {
+      "album": {
+        "name": "Pehla Pyaar Doosri Baar",
+        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Raj Shekhar",
+          "url": "https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285003,
+      "name": "Pyaar Manga Hai Tumhi Se",
+      "url": "https://open.spotify.com/track/1TgLT1kdvDcNRVszU9at1P"
     },
     {
       "album": {
@@ -23760,6 +23882,28 @@
       "duration_ms": 240535,
       "name": "Tu Hai Meri (From \"Sunny Sanskari Ki Tulsi Kumari\")",
       "url": "https://open.spotify.com/track/04nGtYb4j4kZywPC9vtGPK"
+    },
+    {
+      "album": {
+        "name": "Tu Hi",
+        "url": "https://open.spotify.com/album/5YxS47sSzQgbkGc5vElELd"
+      },
+      "artists": [
+        {
+          "name": "Akcent",
+          "url": "https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225742,
+      "name": "Tu Hi",
+      "url": "https://open.spotify.com/track/6dmfXr3tqaFKIvAFEEAjai"
     },
     {
       "album": {

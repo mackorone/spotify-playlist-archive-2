@@ -4,7 +4,7 @@
 
 > Your favorite kids songs and nursery rhymes, now with videos\. Music videos available only on Premium\. Cover: Ms\. Rachel & Mr\. Aron
 
-40 songs - 1 hr 47 min
+41 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [I Love a Rainbow](https://open.spotify.com/track/3bblDd2pNGaTSWGOT6lf3y) | [Ms\. Rachel](https://open.spotify.com/artist/2VHUurTrOGljxENj3zk5Ep), [Mr\. Aron](https://open.spotify.com/artist/2vwgMqrI18rBthEJADjf5z) | [I Love a Rainbow](https://open.spotify.com/album/4ndX4Oc55aMO7u6EWRH6zJ) | 2:09 | 2026-09-04 |  |
 | [I Love Eating Vegetables](https://open.spotify.com/track/1ozlVbbbq8KvZd0lrEim19) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I Love Eating Vegetables](https://open.spotify.com/album/5UaeWRpbOxBhTfG4kmPLYd) | 2:02 | 2026-05-22 |  |
 | [I'm Going On a Trip](https://open.spotify.com/track/7EioBHFV3JEgZ1Q6GPqLFf) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [I'm Going On a Trip](https://open.spotify.com/album/6fM8LoKbojj1EQjAcMgn7P) | 3:10 | 2026-07-17 |  |
+| [I'm So Happy](https://open.spotify.com/track/4gGuWmlCp9YEWeh7bZaN1T) | [Ms\. Rachel](https://open.spotify.com/artist/2VHUurTrOGljxENj3zk5Ep) | [I'm So Happy](https://open.spotify.com/album/3qdzJSKdkacHfF8sZd6iLl) | 2:19 | 2026-09-25 |  |
 | [If You Love to Dance & Move](https://open.spotify.com/track/6sWc6IeS6ImN1Yr6Nfe2oG) | [Caitie's Classroom](https://open.spotify.com/artist/7KqTz4iDBYBRvVyReA3SHo), [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [If You Love to Dance & Move](https://open.spotify.com/album/5JHP855ISqCfxzUeHoNENq) | 3:29 | 2026-05-22 |  |
 | [Learn Numbers and Colours Song \- Bus, Cars and Trucks](https://open.spotify.com/track/2L8Q1XArhm968SXREBLeMb) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Wheels on the Bus & More Vehicle Songs!](https://open.spotify.com/album/5rMGKINa45CmYXC7y7EQni) | 1:53 | 2026-05-22 |  |
 | [Llama Song](https://open.spotify.com/track/7j2wiqoy9i0ZV97yibRYYy) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Songs About Stuff Vol\. 2](https://open.spotify.com/album/1QL6VpmUQKaxDRkvOOkqNk) | 1:50 | 2026-05-22 |  |

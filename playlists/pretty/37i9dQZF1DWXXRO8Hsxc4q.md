@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXRO8Hsxc4q.md) - [plain]
 
 > Create new habits in the new year with gentle Ambient meditations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,166 likes - 135 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,262 likes - 135 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

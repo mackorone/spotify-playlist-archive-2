@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "New music from your favorite women.  Cover: GAWD",
+  "description": "New music from your favorite women.  Cover: Jae Stephens",
   "name": "Queen",
   "tracks": [
     {
@@ -326,6 +326,24 @@
       "duration_ms": 280973,
       "name": "A Long Walk",
       "url": "https://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL"
+    },
+    {
+      "album": {
+        "name": "A MILLION MORE (DEMO)",
+        "url": "https://open.spotify.com/album/5MNgk44aXkJ8pmbARWMR97"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186723,
+      "name": "A MILLION MORE (DEMO)",
+      "url": "https://open.spotify.com/track/6aUfar2YWQqL43tCDhutX5"
     },
     {
       "album": {
@@ -1630,7 +1648,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 185531,
       "name": "Bed of Roses (with Wale)",
       "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
@@ -2422,7 +2440,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 131189,
       "name": "Call Me When You Can",
       "url": "https://open.spotify.com/track/6AODvwD0OtfmsZJKiU6ptW"
@@ -2832,6 +2850,28 @@
       "duration_ms": 186772,
       "name": "Chakra",
       "url": "https://open.spotify.com/track/4m8SPcvsDsTqR3jAi8pxRD"
+    },
+    {
+      "album": {
+        "name": "Chameleon (feat. Chloe George)",
+        "url": "https://open.spotify.com/album/7JxAACwKeGZiH6wYZaBWJN"
+      },
+      "artists": [
+        {
+          "name": "Mai Anna",
+          "url": "https://open.spotify.com/artist/2fTXlJF6M8NKBXu5FBWdDT"
+        },
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214661,
+      "name": "Chameleon (feat. Chloe George)",
+      "url": "https://open.spotify.com/track/6p9rNCjeJkFymFH25pytGU"
     },
     {
       "album": {
@@ -3752,7 +3792,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 202712,
       "name": "Daze",
       "url": "https://open.spotify.com/track/2JM7RAQLTWLMk4JbkduSvW"
@@ -4020,6 +4060,24 @@
       "duration_ms": 310853,
       "name": "Disarray",
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+    },
+    {
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6jYxo2yj7QrpRxPTMQ34Z0"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165603,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/7JBx1sq4AQ7ygviGiVC4Zf"
     },
     {
       "album": {
@@ -4907,6 +4965,24 @@
     },
     {
       "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/6lkFxfusm38ggcoTcbZIdZ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192666,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/4dzexuh5iUbzVDCfTGvpcz"
+    },
+    {
+      "album": {
         "name": "FREE",
         "url": "https://open.spotify.com/album/5kYK7Yov59At0MNDQBKR35"
       },
@@ -5450,7 +5526,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 166360,
       "name": "Freakie",
       "url": "https://open.spotify.com/track/03SbION4JAIxFMGmOcDB6v"
@@ -6070,7 +6146,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 194676,
       "name": "Good Intentions",
       "url": "https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI"
@@ -6752,6 +6828,24 @@
       "duration_ms": 215466,
       "name": "Hot Boyz",
       "url": "https://open.spotify.com/track/7mYvtEeBdMqRSyj1Qpv6my"
+    },
+    {
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182372,
+      "name": "Hot Topic",
+      "url": "https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH"
     },
     {
       "album": {
@@ -8284,7 +8378,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 162000,
       "name": "landslide",
       "url": "https://open.spotify.com/track/3kt52nqoVKEs1zFRecOmqz"
@@ -12672,7 +12766,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 182400,
       "name": "Shame (feat. BunnaB)",
       "url": "https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m"
@@ -13174,10 +13268,28 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 224498,
       "name": "Sofa Joy",
       "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
+    },
+    {
+      "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "Soft Side",
+      "url": "https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu"
     },
     {
       "album": {
@@ -15742,10 +15854,28 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 178779,
       "name": "Westside",
       "url": "https://open.spotify.com/track/7bX4qyPM9Ye5LBPbnkw5Lu"
+    },
+    {
+      "album": {
+        "name": "Westside (Stripped)",
+        "url": "https://open.spotify.com/album/7E9WmxXXdPTXKWxOjyYjNL"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198352,
+      "name": "Westside - Stripped",
+      "url": "https://open.spotify.com/track/72AbuBAmAw25LzCJvBbFbi"
     },
     {
       "album": {
@@ -15764,6 +15894,28 @@
       "duration_ms": 200727,
       "name": "what did you think love would be?",
       "url": "https://open.spotify.com/track/7cJGicwTADorJ8GfR2hxIB"
+    },
+    {
+      "album": {
+        "name": "What Lovers Do",
+        "url": "https://open.spotify.com/album/3XzX42Fmb4K4HdJ58LKCUu"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "MyGuyMars",
+          "url": "https://open.spotify.com/artist/0oH03sDsnxkWo7jFl6nZQ6"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152468,
+      "name": "What Lovers Do",
+      "url": "https://open.spotify.com/track/4ON7li6HIFhaTXn7hIq0g7"
     },
     {
       "album": {
@@ -15818,6 +15970,24 @@
       "duration_ms": 165366,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/282CsTYfTGnMvTawclZOEh"
+    },
+    {
+      "album": {
+        "name": "What\u2019s It Gonna Take?",
+        "url": "https://open.spotify.com/album/6eoylEkYXlv3HR7Fd6vTQe"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237440,
+      "name": "What\u2019s It Gonna Take?",
+      "url": "https://open.spotify.com/track/78VtRnPMH2En5nJ19uWJFj"
     },
     {
       "album": {

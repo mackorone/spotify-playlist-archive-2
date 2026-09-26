@@ -4,7 +4,7 @@
 
 > Feel good songs yang bikin kamu happy
 
-339 songs - 18 hr 58 min
+341 songs - 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Adu Bola Mata](https://open.spotify.com/track/7wsle0lIudoJaGDAXfwHjm) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Adu Bola Mata](https://open.spotify.com/album/2yANwUmtQhdZpq98mcBN73) | 4:00 | 2025-09-29 |  |
 | [Aduh](https://open.spotify.com/track/4hqNaY8uNHrPzW4l3ulDSo) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Aduh](https://open.spotify.com/album/2vz25rEFGA1ziNgy70BJus) | 3:16 | 2023-11-28 |  |
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:09 | 2022-12-23 | 2023-01-10 |
+| [Ain't In LA](https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain't In LA](https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s) | 3:04 | 2026-09-25 |  |
 | [Aku Tempatmu Pulang](https://open.spotify.com/track/2THSRFEIrQHhW6zgMb4aJI) | [Armand Maulana](https://open.spotify.com/artist/1HHKUckpOnrE6c6YlbYzZb) | [Sarwa Renjana](https://open.spotify.com/album/54bIfja1dUvfnOPUCmY5CC) | 3:10 | 2025-03-03 | 2025-09-17 |
 | [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 | 2025-10-07 |  |
 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 | 2022-12-13 | 2023-09-14 |
@@ -61,6 +62,7 @@
 | [BOY CRAZY.](https://open.spotify.com/track/5CiPDLxXmUG7Fk5yjlNy9n) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [BOY CRAZY.](https://open.spotify.com/album/5vbKk8Ki7HxcDUCYh5EUZc) | 2:28 | 2025-06-23 | 2025-07-28 |
 | [Boyz in da Hood](https://open.spotify.com/track/7GImVZmByp3f3mJXUBsWWa) | [Serigala Malam](https://open.spotify.com/artist/6kfH65R3zLl5lcfC8HnJBN), [D.P.M.B](https://open.spotify.com/artist/5TXNAGvl0RJtT0Ps1LdNhG) | [Question](https://open.spotify.com/album/7yRo4YxTbr6aTxJWAQbS8W) | 3:43 | 2025-08-03 | 2025-09-08 |
 | [Bukan Kamu](https://open.spotify.com/track/2YsA7yF6WT6qSfQalGnPmR) | [Fatin](https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC), [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Bukan Kamu](https://open.spotify.com/album/365v0Af4GL0ayUfQYmEc4H) | 3:49 | 2022-12-13 | 2023-06-21 |
+| [bunga bunga di barcelona](https://open.spotify.com/track/1z39Newld3bFC6zM9Fice5) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [bunga bunga di barcelona](https://open.spotify.com/album/52tBxrRKhr6Vx1xPOsoBjC) | 3:06 | 2026-09-25 |  |
 | [Burden](https://open.spotify.com/track/3URO5pUAkXUaal0AVOiEcV) | [Slothkidd](https://open.spotify.com/artist/15HEMQRya0rVITJlBA1bV2), [WhyYZ](https://open.spotify.com/artist/2d9gUFkJXrgG3qv0Hn0Cgi), [Iamgreedy](https://open.spotify.com/artist/7hY6yU9V1rQCQ33uDnfQaf) | [Burden](https://open.spotify.com/album/6sdBZzhRnCQ2nBIEDdzQkL) | 3:44 | 2025-08-03 | 2025-09-08 |
 | [Bye](https://open.spotify.com/track/5GoL66KMxK545exM1BR43t) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Bye](https://open.spotify.com/album/6qAjIPCAssJUpYidyXoIXp) | 3:46 | 2023-10-11 | 2024-10-22 |
 | [Can't Stop](https://open.spotify.com/track/0bhKpG1BqJnZiBPxPkKTkH) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Starkissed](https://open.spotify.com/album/6iPNWX9dibeWPMaVuhRKEw) | 2:24 | 2025-12-16 |  |

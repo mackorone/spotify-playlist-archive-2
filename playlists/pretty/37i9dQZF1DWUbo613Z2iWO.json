@@ -1,28 +1,32 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Jaymin",
-  "num_followers": 60223,
+  "description": "R&B of the moment by the artists of the future. Cover: Zyah Belle",
+  "num_followers": 60229,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP3HFa2ipxqF1TVuV5z7qE9l18vp",
+  "snapshot_id": "AAAAAHDZF4UqLB9ayww7AIZP1Zrv3FjF",
   "tracks": [
     {
-      "added_at": "2026-09-18 06:45:47",
+      "added_at": "2026-09-25 07:19:01",
       "album": {
-        "name": "Static",
-        "url": "https://open.spotify.com/album/4PEA7Ywknl77l6WM3DA9bP"
+        "name": "What Lovers Do",
+        "url": "https://open.spotify.com/album/3XzX42Fmb4K4HdJ58LKCUu"
       },
       "artists": [
         {
-          "name": "Jaymin",
-          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "MyGuyMars",
+          "url": "https://open.spotify.com/artist/0oH03sDsnxkWo7jFl6nZQ6"
         }
       ],
-      "duration_ms": 184737,
-      "name": "Red Eye",
-      "url": "https://open.spotify.com/track/3tv3nu2BNrKEbD6JaDDECz"
+      "duration_ms": 152468,
+      "name": "What Lovers Do",
+      "url": "https://open.spotify.com/track/4ON7li6HIFhaTXn7hIq0g7"
     },
     {
       "added_at": "2026-09-11 04:02:25",
@@ -41,6 +45,54 @@
       "url": "https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt"
     },
     {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "Homegrown",
+        "url": "https://open.spotify.com/album/7lIRsoyw9VevsE9fEQOcBJ"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "duration_ms": 177841,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2FK12BFadDMlelVr4Fn7Xi"
+    },
+    {
+      "added_at": "2026-09-18 06:45:47",
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/4PEA7Ywknl77l6WM3DA9bP"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "duration_ms": 184737,
+      "name": "Red Eye",
+      "url": "https://open.spotify.com/track/3tv3nu2BNrKEbD6JaDDECz"
+    },
+    {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "Decimate",
+        "url": "https://open.spotify.com/album/0SqDA9jpDJeC1uSwq7Lp35"
+      },
+      "artists": [
+        {
+          "name": "Maeta",
+          "url": "https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO"
+        }
+      ],
+      "duration_ms": 200531,
+      "name": "Decimate",
+      "url": "https://open.spotify.com/track/6nLUixjBeTjJqsKXdu6MBm"
+    },
+    {
       "added_at": "2026-09-18 06:45:47",
       "album": {
         "name": "Yearning",
@@ -55,6 +107,22 @@
       "duration_ms": 173868,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
+    },
+    {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Soft Side",
+      "url": "https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu"
     },
     {
       "added_at": "2026-09-18 06:45:47",
@@ -77,6 +145,22 @@
       "url": "https://open.spotify.com/track/1gdWMROp3Jb8mK71KqWdYK"
     },
     {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "Canary",
+        "url": "https://open.spotify.com/album/6pZQBsrp1LCAIDAPBRN9MV"
+      },
+      "artists": [
+        {
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+        }
+      ],
+      "duration_ms": 206072,
+      "name": "Canary",
+      "url": "https://open.spotify.com/track/73PUE5Vp2NdUZ5VNiaYN26"
+    },
+    {
       "added_at": "2026-08-21 04:58:28",
       "album": {
         "name": "Lean On",
@@ -91,6 +175,22 @@
       "duration_ms": 205000,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+    },
+    {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "What\u2019s It Gonna Take?",
+        "url": "https://open.spotify.com/album/6eoylEkYXlv3HR7Fd6vTQe"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "What\u2019s It Gonna Take?",
+      "url": "https://open.spotify.com/track/78VtRnPMH2En5nJ19uWJFj"
     },
     {
       "added_at": "2026-08-28 04:08:27",
@@ -113,6 +213,22 @@
       "url": "https://open.spotify.com/track/5bEvLbgaLK2O9HnBpT4BwR"
     },
     {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "hasty!",
+        "url": "https://open.spotify.com/album/738OhgTOyuNqjZXwc1wzWv"
+      },
+      "artists": [
+        {
+          "name": "Jahson Paynter",
+          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "hasty!",
+      "url": "https://open.spotify.com/track/0yuPdnuIWmLFqme2kdYGsO"
+    },
+    {
       "added_at": "2026-09-18 06:45:47",
       "album": {
         "name": "Rain",
@@ -129,6 +245,22 @@
       "url": "https://open.spotify.com/track/1RWZDdIe9TwL1vUlyti5aD"
     },
     {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 182372,
+      "name": "Hot Topic",
+      "url": "https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH"
+    },
+    {
       "added_at": "2026-09-18 06:45:47",
       "album": {
         "name": "Plein Soleil",
@@ -143,6 +275,106 @@
       "duration_ms": 205746,
       "name": "Plein Soleil",
       "url": "https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81"
+    },
+    {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "SARAHTONIN",
+        "url": "https://open.spotify.com/album/1QrRwigzGIQyIqwCuUuthy"
+      },
+      "artists": [
+        {
+          "name": "Johnny Venus",
+          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        },
+        {
+          "name": "Alissia",
+          "url": "https://open.spotify.com/artist/0yq0ZW3g1vX4Vsfz9wH7rO"
+        }
+      ],
+      "duration_ms": 310533,
+      "name": "SARAHTONIN",
+      "url": "https://open.spotify.com/track/28jQgFhfXOy1eBc0EdWHzG"
+    },
+    {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "\"Tug Of War\"",
+        "url": "https://open.spotify.com/album/5t63hXToE85NG6aUQMjY32"
+      },
+      "artists": [
+        {
+          "name": "sunandmoon",
+          "url": "https://open.spotify.com/artist/3ikGms7GwFvw8noOZqgo0e"
+        },
+        {
+          "name": "Ogi",
+          "url": "https://open.spotify.com/artist/60nDKjd690Luygtd3Fm0Cu"
+        },
+        {
+          "name": "Anoop",
+          "url": "https://open.spotify.com/artist/3996HCdpgDyZ3UewAm5IZy"
+        }
+      ],
+      "duration_ms": 305058,
+      "name": "See The Signs",
+      "url": "https://open.spotify.com/track/0dNNcJNL4FD47fUmQijENm"
+    },
+    {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "I's Role",
+        "url": "https://open.spotify.com/album/2TnY73hiwqrtGzQPa88j3X"
+      },
+      "artists": [
+        {
+          "name": "Chuka, The Destroyer",
+          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+        }
+      ],
+      "duration_ms": 147680,
+      "name": "I's Role",
+      "url": "https://open.spotify.com/track/6WIRCf2J2YbhEIJTvkumeu"
+    },
+    {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "ON THE SCHEDULE",
+        "url": "https://open.spotify.com/album/7vHO368QppzJL9g1jnozna"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "Braxton Cook",
+          "url": "https://open.spotify.com/artist/60k4atxgEIMFz4DWHp0le1"
+        }
+      ],
+      "duration_ms": 196566,
+      "name": "ON THE SCHEDULE",
+      "url": "https://open.spotify.com/track/4YSqHMRMRjREUrWqmj2tFS"
+    },
+    {
+      "added_at": "2026-09-25 07:19:01",
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/6lkFxfusm38ggcoTcbZIdZ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/4dzexuh5iUbzVDCfTGvpcz"
     },
     {
       "added_at": "2026-08-21 04:58:28",
@@ -525,22 +757,6 @@
       "url": "https://open.spotify.com/track/7xrXXyQR8gRgG48isIw2xS"
     },
     {
-      "added_at": "2026-09-04 04:02:39",
-      "album": {
-        "name": "NIGHTMARES",
-        "url": "https://open.spotify.com/album/790MlEtQqX2QZbkq3W0Ezn"
-      },
-      "artists": [
-        {
-          "name": "Johnny Venus",
-          "url": "https://open.spotify.com/artist/4Y9QKWtGSeL2NnVokmWAvz"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "NIGHTMARES",
-      "url": "https://open.spotify.com/track/35geEuEIgzwrVVYsVb3roE"
-    },
-    {
       "added_at": "2026-09-18 06:45:47",
       "album": {
         "name": "SUBSTANCE",
@@ -555,22 +771,6 @@
       "duration_ms": 159729,
       "name": "SUBSTANCE",
       "url": "https://open.spotify.com/track/5zVlI1WOXOlUbPbekBU1pN"
-    },
-    {
-      "added_at": "2026-09-04 04:02:39",
-      "album": {
-        "name": "I Miss The City / Gymnastics",
-        "url": "https://open.spotify.com/album/4GLLLTFMT9fUD04hGiac6Q"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 180986,
-      "name": "I Miss The City",
-      "url": "https://open.spotify.com/track/3huxbU1AE3HrAkcU1X5zVc"
     },
     {
       "added_at": "2026-08-28 04:08:27",
@@ -675,22 +875,6 @@
       "duration_ms": 187333,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/0547MWFbVf9ykU6T7LMbCD"
-    },
-    {
-      "added_at": "2026-09-04 04:02:39",
-      "album": {
-        "name": "LAW",
-        "url": "https://open.spotify.com/album/3DYS73pLqqAk05mYrXrvDs"
-      },
-      "artists": [
-        {
-          "name": "Chuka, The Destroyer",
-          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "LAW",
-      "url": "https://open.spotify.com/track/2psLN96KsgvWvLE2SZfprL"
     },
     {
       "added_at": "2026-09-04 04:02:39",
@@ -1125,22 +1309,6 @@
       "url": "https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P"
     },
     {
-      "added_at": "2026-07-10 05:29:33",
-      "album": {
-        "name": "'Til We Meet Again",
-        "url": "https://open.spotify.com/album/0r8AyEKhH2xnRysPfV0Rda"
-      },
-      "artists": [
-        {
-          "name": "Amaria",
-          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
-        }
-      ],
-      "duration_ms": 259066,
-      "name": "'Til We Meet Again",
-      "url": "https://open.spotify.com/track/3d9Bq1knalWiwoTjkMwISL"
-    },
-    {
       "added_at": "2026-07-17 04:38:08",
       "album": {
         "name": "Proud",
@@ -1291,22 +1459,6 @@
       "duration_ms": 213333,
       "name": "Spray",
       "url": "https://open.spotify.com/track/2mGxhluEmuB06abqZBzVUK"
-    },
-    {
-      "added_at": "2026-07-24 04:56:43",
-      "album": {
-        "name": "DON'T DISTURB THE GROOVE: AFROSOUL",
-        "url": "https://open.spotify.com/album/4xyKhGraLeaPcYX9cQFAO5"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "LET ME GO",
-      "url": "https://open.spotify.com/track/05Ez5xHnDhrvOvZr5BeKkj"
     },
     {
       "added_at": "2026-07-17 04:38:08",
@@ -1921,22 +2073,6 @@
       "url": "https://open.spotify.com/track/2oyLgQOfWSA5Q1BH4LzuOJ"
     },
     {
-      "added_at": "2026-06-19 04:01:58",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/1U22hjL3og5gV4xC2x7mQz"
-      },
-      "artists": [
-        {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
-        }
-      ],
-      "duration_ms": 210214,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/5yN8X3TofBg9IhN0jlb1XI"
-    },
-    {
       "added_at": "2026-06-12 05:12:18",
       "album": {
         "name": "Drama",
@@ -2377,22 +2513,6 @@
       "url": "https://open.spotify.com/track/2iUmp2L3Va1syZMi7CA5iL"
     },
     {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "AOTW",
-        "url": "https://open.spotify.com/album/17TAJBvubiVUW10b5zIX70"
-      },
-      "artists": [
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "AOTW",
-      "url": "https://open.spotify.com/track/3LQgaxlqm2OMBR974oL6jS"
-    },
-    {
       "added_at": "2026-06-05 04:01:54",
       "album": {
         "name": "Why Me?",
@@ -2579,26 +2699,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Undeniable (feat. Aitch)",
-        "url": "https://open.spotify.com/album/12CHRueGMTjPpZ5smrigUr"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 136739,
-      "name": "Undeniable (feat. Aitch)",
-      "url": "https://open.spotify.com/track/0V8u1Al9dqSA7f7m3yambp"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "sweet talk",
         "url": "https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY"
       },
@@ -2683,38 +2783,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/0KpO1I2Sukj5rr0q2Jmugs"
-      },
-      "artists": [
-        {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
-        }
-      ],
-      "duration_ms": 153654,
-      "name": "S.I.M.P.L.E",
-      "url": "https://open.spotify.com/track/4QMudMqweLaXJHECiRc5bb"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "is anybody home!?",
-        "url": "https://open.spotify.com/album/686HK68mvUb5V6Cm7OFQJX"
-      },
-      "artists": [
-        {
-          "name": "Jahson Paynter",
-          "url": "https://open.spotify.com/artist/73SbrIktK3Na0OTmhZpMy8"
-        }
-      ],
-      "duration_ms": 257561,
-      "name": "clear blue!",
-      "url": "https://open.spotify.com/track/1BMWubB3BOhlqnq3kuFuRI"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Make It Make Sense",
         "url": "https://open.spotify.com/album/1XiUEcOilmHXGhaVH91cyw"
       },
@@ -2767,22 +2835,6 @@
       "duration_ms": 146738,
       "name": "Oops",
       "url": "https://open.spotify.com/track/5HUqlNEKgLwBiPfpK9wBaX"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "stuck",
-        "url": "https://open.spotify.com/album/2WQhpOLkmPLPgrcBYjWmRK"
-      },
-      "artists": [
-        {
-          "name": "Saint Harison",
-          "url": "https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH"
-        }
-      ],
-      "duration_ms": 161334,
-      "name": "stuck",
-      "url": "https://open.spotify.com/track/1nEzZ4l1LYmmaDNgWNzVCG"
     },
     {
       "added_at": "2026-05-29 04:02:53",
@@ -2939,22 +2991,6 @@
     {
       "added_at": "2026-05-29 04:02:53",
       "album": {
-        "name": "Tricks Are For Kids",
-        "url": "https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO"
-      },
-      "artists": [
-        {
-          "name": "rjtheweirdo",
-          "url": "https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW"
-        }
-      ],
-      "duration_ms": 140259,
-      "name": "Tricks Are For Kids",
-      "url": "https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
         "name": "Safety",
         "url": "https://open.spotify.com/album/4FRGOKIYHjFLT2XQ0jBKJY"
       },
@@ -3035,22 +3071,6 @@
       "duration_ms": 182586,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/1aBmMmWmtkLw13OzY1SaVt"
-    },
-    {
-      "added_at": "2026-05-29 04:02:53",
-      "album": {
-        "name": "A Mile In My Mind",
-        "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
-      },
-      "artists": [
-        {
-          "name": "Ebub\u00e9",
-          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
-        }
-      ],
-      "duration_ms": 167195,
-      "name": "A Mile In My Mind",
-      "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
     },
     {
       "added_at": "2026-05-29 04:02:53",

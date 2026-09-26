@@ -6240,7 +6240,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 125013,
       "name": "Glowing Guts",
       "url": "https://open.spotify.com/track/0VvIO0ZW3iCendYN3iQYgi"
@@ -11010,6 +11010,24 @@
       "duration_ms": 183448,
       "name": "no reason to cry",
       "url": "https://open.spotify.com/track/5Byx31VEpvvOBmsVFPzTh0"
+    },
+    {
+      "album": {
+        "name": "Popstar",
+        "url": "https://open.spotify.com/album/06CjF89lLSSiVWXujVVtQs"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140520,
+      "name": "Nobody Wanna Dance Anymore",
+      "url": "https://open.spotify.com/track/1ZiY6y9yI46xKiA3vFCLkx"
     },
     {
       "album": {

@@ -4,12 +4,13 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every week!
 
-581 songs - 1 day 3 hr 44 min
+583 songs - 1 day 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1000 \(feat\. CP\)](https://open.spotify.com/track/3CejJ593Dg54c4m8NlSpto) | [Très Mortimer](https://open.spotify.com/artist/3zGzbXr9Q8zS9xictKAnt7), [CP](https://open.spotify.com/artist/4yyJIkmo80mhEQXr8DF2ub) | [1000 \(feat\. CP\)](https://open.spotify.com/album/6svs8n6epi8U1u6xhENItF) | 2:50 | 2022-05-06 | 2022-10-08 |
 | [1000 BPM](https://open.spotify.com/track/4xk8R3G79Hyz8uLGKUVV1l) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [1000 BPM](https://open.spotify.com/album/1meGf7IwRXYnL2Ge9IoK4r) | 2:02 | 2025-04-18 |  |
+| [2 Phones](https://open.spotify.com/track/1dXUx4CnMaqoG3YPfgv6fI) | [Ghost Jr](https://open.spotify.com/artist/4eFVDYhMMfEXPMJEPMooeQ) | [2 Phones](https://open.spotify.com/album/4H6ZkiEsZ6zurMMWxxGiHC) | 2:53 | 2026-09-25 |  |
 | [3AM](https://open.spotify.com/track/2zlKYF8UQ8udETMavzIN8I) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6) | [3AM](https://open.spotify.com/album/4PASfE1ZsBkAVVCP0CD9IX) | 3:48 | 2024-10-18 | 2025-04-27 |
 | [4321](https://open.spotify.com/track/6vWnGPaLwC7dZEZta594fs) | [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP) | [4321](https://open.spotify.com/album/3sMHqf5dmjRL3MaENIrp7z) | 2:22 | 2024-01-19 | 2025-04-27 |
 | [64 Impala](https://open.spotify.com/track/52w9GCt9IeQU8R7WhHrmXi) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc) | [64 Impala](https://open.spotify.com/album/1nIIfKcs5sJzuCoOu2zacs) | 2:11 | 2024-07-26 | 2025-04-27 |
@@ -115,6 +116,7 @@
 | [Crazy Girl](https://open.spotify.com/track/0LjhJNwHmrNpiurbvy70jW) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Crazy Girl](https://open.spotify.com/album/5nCjCuxUIxaBUxSto8ayxF) | 2:36 | 2025-03-07 |  |
 | [CREW](https://open.spotify.com/track/4jP8t7NUr3ESUZ3b5Zmp6M) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [CREW](https://open.spotify.com/album/7251NIf38i495LPXBgj6UY) | 3:05 | 2022-10-17 | 2023-04-09 |
 | [Cry Me A River](https://open.spotify.com/track/4jU7BzdI8lxvtuKu0dXKL1) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Cry Me A River](https://open.spotify.com/album/1iyL5MD15REXnRbw769U5W) | 2:29 | 2025-08-15 |  |
+| [Cut Me Open](https://open.spotify.com/track/7MQfC67xwZT2TYbq0HqygO) | [Borgeous](https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp) | [Cut Me Open](https://open.spotify.com/album/5s1ZHACKonkFcsse4WZUj5) | 2:27 | 2026-09-25 |  |
 | [Cute Without The E \(Ziri\)](https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Cute Without The E \(Ziri\)](https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0) | 3:22 | 2023-04-07 | 2025-04-27 |
 | [D House](https://open.spotify.com/track/6TKtoZBT8PGOgIP3e30hDN) | [DISTO](https://open.spotify.com/artist/1uodYnEBYYgZsExzoMeiGl) | [D House](https://open.spotify.com/album/7nIEkc3bIt0DIzUqQB3koJ) | 3:16 | 2022-12-06 | 2023-12-14 |
 | [Da Homies](https://open.spotify.com/track/47xNlfeg2FAIENeBC79kye) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [MT11](https://open.spotify.com/artist/1dupVc2k1FzwKcGNPX08ks) | [Da Homies](https://open.spotify.com/album/3NJWsGiRPEyCOLKq1jB5Ac) | 3:35 | 2022-05-06 | 2023-04-09 |

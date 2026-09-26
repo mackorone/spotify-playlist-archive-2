@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "2 Phones",
+        "url": "https://open.spotify.com/album/4H6ZkiEsZ6zurMMWxxGiHC"
+      },
+      "artists": [
+        {
+          "name": "Ghost Jr",
+          "url": "https://open.spotify.com/artist/4eFVDYhMMfEXPMJEPMooeQ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173061,
+      "name": "2 Phones",
+      "url": "https://open.spotify.com/track/1dXUx4CnMaqoG3YPfgv6fI"
+    },
+    {
+      "album": {
         "name": "3AM",
         "url": "https://open.spotify.com/album/4PASfE1ZsBkAVVCP0CD9IX"
       },
@@ -2256,6 +2274,24 @@
       "duration_ms": 149200,
       "name": "Cry Me A River",
       "url": "https://open.spotify.com/track/4jU7BzdI8lxvtuKu0dXKL1"
+    },
+    {
+      "album": {
+        "name": "Cut Me Open",
+        "url": "https://open.spotify.com/album/5s1ZHACKonkFcsse4WZUj5"
+      },
+      "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147555,
+      "name": "Cut Me Open",
+      "url": "https://open.spotify.com/track/7MQfC67xwZT2TYbq0HqygO"
     },
     {
       "album": {

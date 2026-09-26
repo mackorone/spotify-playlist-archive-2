@@ -1,12 +1,12 @@
 {
   "description": "All the sunny surf rock you need. ",
-  "num_followers": 483908,
+  "num_followers": 483892,
   "original_name": "Surf Rock Sunshine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK+gQCETqQNsaxeWiFBdo9kcpnfp",
+  "snapshot_id": "AAAAAKfa6ErEZg2sCwWK9qlLAJynT+GJ",
   "tracks": [
     {
       "added_at": "2026-09-17 14:00:53",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Cut Worms",
-        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
-      },
-      "artists": [
-        {
-          "name": "Cut Worms",
-          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
-        }
-      ],
-      "duration_ms": 183030,
-      "name": "Ballad of the Texas King",
-      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Stranger (Mariachi)",
         "url": "https://open.spotify.com/album/3kf0m4pSeFxg7JXaMSsiZI"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 204626,
       "name": "Stranger - Mariachi",
       "url": "https://open.spotify.com/track/51roZBvM3TYZWT5hvx0kxq"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Cut Worms",
+        "url": "https://open.spotify.com/album/2RcDC3U0dfYCrniJkBbtE2"
+      },
+      "artists": [
+        {
+          "name": "Cut Worms",
+          "url": "https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l"
+        }
+      ],
+      "duration_ms": 183030,
+      "name": "Ballad of the Texas King",
+      "url": "https://open.spotify.com/track/3Lm2Em6yWbpOVEX8WDJ92j"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -395,22 +395,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Naked At Your Door",
-        "url": "https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4"
-      },
-      "artists": [
-        {
-          "name": "Day We Ran",
-          "url": "https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS"
-        }
-      ],
-      "duration_ms": 151384,
-      "name": "Lady",
-      "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Daydream Twins",
         "url": "https://open.spotify.com/album/2HvWvA8NGrxcCwgdYZRxIO"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 362601,
       "name": "Carpop",
       "url": "https://open.spotify.com/track/3ZpJQim8bB9FmqkLch1DGV"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Naked At Your Door",
+        "url": "https://open.spotify.com/album/7feR1LQyiFUVRTI0xnUST4"
+      },
+      "artists": [
+        {
+          "name": "Day We Ran",
+          "url": "https://open.spotify.com/artist/6dtbK89qIT2XjIsCQHjTxS"
+        }
+      ],
+      "duration_ms": 151384,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/3lsdBDbTqaJOY5xcS4DTJ4"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Kamakura",
-        "url": "https://open.spotify.com/album/64p9VeLQsDBEBQgifPMPsu"
-      },
-      "artists": [
-        {
-          "name": "Yuzostate",
-          "url": "https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Kamakura",
-      "url": "https://open.spotify.com/track/2N7XCLNPXNYOIA6R6Oawn1"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "So Excited",
         "url": "https://open.spotify.com/album/2wFLtPEYR56o8ng2gvZIi8"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 240486,
       "name": "So Excited",
       "url": "https://open.spotify.com/track/3H3Iz6PAfenrPKRq0tS4oN"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Kamakura",
+        "url": "https://open.spotify.com/album/64p9VeLQsDBEBQgifPMPsu"
+      },
+      "artists": [
+        {
+          "name": "Yuzostate",
+          "url": "https://open.spotify.com/artist/0wp464QhpVc7hKfT6jNEp5"
+        }
+      ],
+      "duration_ms": 187500,
+      "name": "Kamakura",
+      "url": "https://open.spotify.com/track/2N7XCLNPXNYOIA6R6Oawn1"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -619,8 +619,8 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Ricochet",
-        "url": "https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh"
+        "name": "No Chaser",
+        "url": "https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
         }
       ],
-      "duration_ms": 223961,
-      "name": "Ricochet",
-      "url": "https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8"
+      "duration_ms": 160618,
+      "name": "Burning Tide",
+      "url": "https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -667,18 +667,18 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Ooooo",
-        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+        "name": "Ozonia",
+        "url": "https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal"
       },
       "artists": [
         {
-          "name": "Easy Honey",
-          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+          "name": "The Bures Band",
+          "url": "https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV"
         }
       ],
-      "duration_ms": 154811,
-      "name": "Alright, Alright",
-      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
+      "duration_ms": 344666,
+      "name": "SLPM",
+      "url": "https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -699,8 +699,8 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "No Chaser",
-        "url": "https://open.spotify.com/album/5pjiOflzxGXxwUrtgrOJOU"
+        "name": "Ricochet",
+        "url": "https://open.spotify.com/album/5sVRuqcn14SpKiD3LUMBqh"
       },
       "artists": [
         {
@@ -708,9 +708,41 @@
           "url": "https://open.spotify.com/artist/78DoiOUHouyEPI7aNgqkkm"
         }
       ],
-      "duration_ms": 160618,
-      "name": "Burning Tide",
-      "url": "https://open.spotify.com/track/1vgwFfRV9WoIAxU7a9taWZ"
+      "duration_ms": 223961,
+      "name": "Ricochet",
+      "url": "https://open.spotify.com/track/1kYnMw5tFjKomRHYETAMx8"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Mushroom",
+        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
+      },
+      "artists": [
+        {
+          "name": "Babe Rainbow",
+          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Ooooo",
+        "url": "https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5"
+      },
+      "artists": [
+        {
+          "name": "Easy Honey",
+          "url": "https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj"
+        }
+      ],
+      "duration_ms": 154811,
+      "name": "Alright, Alright",
+      "url": "https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -763,22 +795,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Mushroom",
-        "url": "https://open.spotify.com/album/2B2c7Sr3eEaEYyM5qrwYyu"
-      },
-      "artists": [
-        {
-          "name": "Babe Rainbow",
-          "url": "https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u"
-        }
-      ],
-      "duration_ms": 205974,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/6nOyxthqenZOOl1sWNeg2v"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Thrift Store",
         "url": "https://open.spotify.com/album/2wuLmqioOr6gmHwaoz0jWQ"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Ozonia",
-        "url": "https://open.spotify.com/album/4m8DsOcFbHDINyXGtpxMal"
-      },
-      "artists": [
-        {
-          "name": "The Bures Band",
-          "url": "https://open.spotify.com/artist/67BYabRwsu3m4F1x5kohzV"
-        }
-      ],
-      "duration_ms": 344666,
-      "name": "SLPM",
-      "url": "https://open.spotify.com/track/7CglnAjpSvMMSIAMeBfVvP"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Parking Lot",
         "url": "https://open.spotify.com/album/4h3yu2Ng1BoBrtjBz5g7zx"
       },
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Reef Prince / Better",
-        "url": "https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG"
-      },
-      "artists": [
-        {
-          "name": "Great Gable",
-          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
-        }
-      ],
-      "duration_ms": 187527,
-      "name": "Reef Prince",
-      "url": "https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "LONG LIVE THE WILDERNESS",
         "url": "https://open.spotify.com/album/74G6zlK0eqHKbdleUXtafE"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 286209,
       "name": "LONG LIVE THE WILDERNESS",
       "url": "https://open.spotify.com/track/0F3XAOuJuMY1dUll6lR0RY"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Reef Prince / Better",
+        "url": "https://open.spotify.com/album/7k6qTjk4AYn47KYUmgX7AG"
+      },
+      "artists": [
+        {
+          "name": "Great Gable",
+          "url": "https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1"
+        }
+      ],
+      "duration_ms": 187527,
+      "name": "Reef Prince",
+      "url": "https://open.spotify.com/track/0zZgOwy2A01i7f8Ye2QHDS"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Chubby Money",
-        "url": "https://open.spotify.com/album/3uxAGVB65BwB3bsgN8qqPU"
-      },
-      "artists": [
-        {
-          "name": "LAZY GHOST",
-          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
-        }
-      ],
-      "duration_ms": 211243,
-      "name": "Chubby Money",
-      "url": "https://open.spotify.com/track/2VisPnKIme2cMXmhbO7u6V"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Small Fry",
         "url": "https://open.spotify.com/album/2ZxvQr6jlEWSmiCmMpE9VR"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 206260,
       "name": "Hometown",
       "url": "https://open.spotify.com/track/0mFRpxD2a8hGgvXLIeCGgA"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Chubby Money",
+        "url": "https://open.spotify.com/album/3uxAGVB65BwB3bsgN8qqPU"
+      },
+      "artists": [
+        {
+          "name": "LAZY GHOST",
+          "url": "https://open.spotify.com/artist/46tdza9HtvQ3nCEU7LRTKz"
+        }
+      ],
+      "duration_ms": 211243,
+      "name": "Chubby Money",
+      "url": "https://open.spotify.com/track/2VisPnKIme2cMXmhbO7u6V"
     },
     {
       "added_at": "2026-09-17 14:00:53",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-09-17 14:00:53",
       "album": {
-        "name": "Sharks",
-        "url": "https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL"
-      },
-      "artists": [
-        {
-          "name": "Dune Rats",
-          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
-        }
-      ],
-      "duration_ms": 221842,
-      "name": "Sharks",
-      "url": "https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy"
-    },
-    {
-      "added_at": "2026-09-17 14:00:53",
-      "album": {
         "name": "Hideaway",
         "url": "https://open.spotify.com/album/5vM64OxKlY55VcAfFEJEra"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 186521,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/6MoD2aTX0Yc2YjHjG7CxXf"
+    },
+    {
+      "added_at": "2026-09-17 14:00:53",
+      "album": {
+        "name": "Sharks",
+        "url": "https://open.spotify.com/album/3Ux3tqe169UnBo1a7gREiL"
+      },
+      "artists": [
+        {
+          "name": "Dune Rats",
+          "url": "https://open.spotify.com/artist/0KtaCKmTMIQZsxlOgyNa04"
+        }
+      ],
+      "duration_ms": 221842,
+      "name": "Sharks",
+      "url": "https://open.spotify.com/track/1Q5izvlLFm6gQZyaxJHEHy"
     }
   ],
   "unique_name": "Surf Rock Sunshine",

@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: ORORA\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: wnsday\)
 
-670 songs - 1 day 11 hr 49 min
+671 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Beautiful \(Prod\. Devine Channel\)](https://open.spotify.com/track/07MMmXOiYcbCu4vuW42S83) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3), [Chancellor](https://open.spotify.com/artist/0u06YeydlBk3awnk5KgdBx) | [Beautiful](https://open.spotify.com/album/3McZHkEnR5tRt9YJNuL8Ne) | 3:29 | 2022-05-28 | 2022-07-06 |
 | [Before you leave](https://open.spotify.com/track/5jM1gEtRlJvL0wRr6mWwuC) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Before you leave](https://open.spotify.com/album/5WHFoTl5Kt1mcIDAq23opf) | 3:03 | 2022-08-12 | 2023-01-21 |
 | [Beige coat](https://open.spotify.com/track/0RErLzcXg9K3FtjN86e4gm) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Beige coat](https://open.spotify.com/album/6u3aQc7r3FsTkDgVD1t3Vc) | 2:59 | 2022-05-28 | 2023-02-15 |
+| [Bells On My Neck](https://open.spotify.com/track/6CGGNW8PJJd8o0zTlWHue8) | [wnsday](https://open.spotify.com/artist/72LdkNVMGXuNd0FyRqqNhX) | [MONTE](https://open.spotify.com/album/1s7VadNfcpFUHTkZs9fDRS) | 3:27 | 2026-09-25 |  |
 | [Beside You \(feat\. LIMZY\)](https://open.spotify.com/track/6FCgF4BO3QzteywSsuJ7Tk) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Limzy](https://open.spotify.com/artist/1S3po0DnvzmI2nDXxbxfUu) | [Beside You \(feat\. LIMZY\)](https://open.spotify.com/album/3zUFUes1ztWrgPFWSkomfu) | 3:08 | 2023-10-20 | 2024-03-09 |
 | [Best Part](https://open.spotify.com/track/1Ik2R65BbnFxfv3byMoLko) | [Hyeli](https://open.spotify.com/artist/6k1itI6W0whemoxvE2v5NG) | [Best Part](https://open.spotify.com/album/0fJnucFzUQfKFS3J2TPp6o) | 3:05 | 2024-09-13 | 2024-12-19 |
 | [Better](https://open.spotify.com/track/6a5DPLmFyHypY8VcsL8O7L) | [JK Kim Dong Uk](https://open.spotify.com/artist/3rbvvrsMmH8iT9qFf3IoNz) | [Better](https://open.spotify.com/album/5qNWv2c6vEkt1wLQ5hBYAX) | 3:36 | 2023-11-02 | 2024-04-05 |
@@ -232,7 +233,7 @@
 | [glass](https://open.spotify.com/track/5AFRf43aEAoPzbF8UfQjbN) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [glass](https://open.spotify.com/album/1VPiZ5TPYbkPT8u0kOuQLe) | 3:28 | 2022-05-28 | 2022-08-13 |
 | [Glow Stars](https://open.spotify.com/track/2diKKn6SXjEUklvTVAdavi) | [손예지](https://open.spotify.com/artist/5aNEtOd2W7WCBb0HtZ53B8) | [Glow Stars](https://open.spotify.com/album/6YIMzx1Hrag23hMqOVW5Nz) | 3:29 | 2025-03-13 | 2025-07-09 |
 | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/track/0A44VMmhs42WXCNYJGeDLM) | [yiyona](https://open.spotify.com/artist/5UxbxMzCNo2m4oyAN4GYCv), [Blueny](https://open.spotify.com/artist/3yHT48fEq1Uhl1kgcnIyD0) | [Goldfish \(Feat\. Blueny of OuiOui\)](https://open.spotify.com/album/7JSpdJ3tkyGR7rb34jUaTY) | 3:16 | 2022-12-15 | 2023-07-08 |
-| [Good Day \(Feat\. Jay Park, 1iL\)](https://open.spotify.com/track/4lveRzAWbl6pNLITlfiW9A) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [1iL](https://open.spotify.com/artist/0aLwY7iJg9JPeLOX8Rf5iP) | [Good Day \(Feat\. Jay Park, 1iL\)](https://open.spotify.com/album/432CGZ4tKvuyizD5MSW5iW) | 3:38 | 2026-04-13 |  |
+| [Good Day \(Feat\. Jay Park, 1iL\)](https://open.spotify.com/track/4lveRzAWbl6pNLITlfiW9A) | [DONGHAE](https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [1iL](https://open.spotify.com/artist/0aLwY7iJg9JPeLOX8Rf5iP) | [Good Day \(Feat\. Jay Park, 1iL\)](https://open.spotify.com/album/432CGZ4tKvuyizD5MSW5iW) | 3:38 | 2026-04-13 | 2026-09-26 |
 | [good news](https://open.spotify.com/track/0zr9voDmEdrRoa7uT81KzS) | [RuRu](https://open.spotify.com/artist/6XgOEA5NhkUYCU7vbYJAqc) | [BODY](https://open.spotify.com/album/2Y1kBEbRAm3rCWf2GkAMQh) | 3:09 | 2024-06-05 | 2024-09-14 |
 | [Good Night \(feat\. Claire Young\)](https://open.spotify.com/track/3cYii2G5OJVFwDN598fYs2) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Claire Young](https://open.spotify.com/artist/0lKyWWEdzYmTNHWtYgRXqE) | [Good Night](https://open.spotify.com/album/0S365TsIKb9yDT5DERw3Yh) | 3:31 | 2024-03-25 | 2024-08-02 |
 | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/track/48eI2GnP9gpviBG0NAtT30) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Good Night Good Morning \(GNGM\)](https://open.spotify.com/album/7998eG5cX4aNYpQoBZ9GHG) | 2:48 | 2024-08-30 | 2024-12-06 |

@@ -1623,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Always On",
+        "url": "https://open.spotify.com/album/3RnUYqUywR0C0wgTo4Nt6T"
+      },
+      "artists": [
+        {
+          "name": "Ten Eighty Trees",
+          "url": "https://open.spotify.com/artist/0ej6zez5h9tG4QiqvOj9ZD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176325,
+      "name": "Always On",
+      "url": "https://open.spotify.com/track/0lCf9xdDEjxDj8nGSFPI5C"
+    },
+    {
+      "album": {
         "name": "Alyssa",
         "url": "https://open.spotify.com/album/5dM9t3adi7NlhXYtoVqozd"
       },
@@ -2870,7 +2888,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 178285,
       "name": "Barriers",
       "url": "https://open.spotify.com/track/5qnJ1ckkxw4sP4OHlTpyUb"
@@ -3120,6 +3138,24 @@
       "duration_ms": 44000,
       "name": "BEAVER CREAM",
       "url": "https://open.spotify.com/track/294bk3KsT4gWATUjSKBnKM"
+    },
+    {
+      "album": {
+        "name": "Tales of Middle Age",
+        "url": "https://open.spotify.com/album/3Ys3n6OkQJl7U0FqnVsLmE"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309017,
+      "name": "Bedtime Stories",
+      "url": "https://open.spotify.com/track/5cSDsuQai72NebrmAEp7jU"
     },
     {
       "album": {
@@ -5522,7 +5558,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 185564,
       "name": "Bum Like You",
       "url": "https://open.spotify.com/track/6BerfwUE4z8BQ5L9cvKe9p"
@@ -9650,7 +9686,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-13",
+      "date_removed": null,
       "duration_ms": 220642,
       "name": "disaster",
       "url": "https://open.spotify.com/track/0M201PbVv5MjbZkiWzCUlk"
@@ -10470,6 +10506,24 @@
       "duration_ms": 119022,
       "name": "Down on Richmond",
       "url": "https://open.spotify.com/track/7n2vhgZt1Kk8TMRCzgbfl3"
+    },
+    {
+      "album": {
+        "name": "Down The Road",
+        "url": "https://open.spotify.com/album/5niWWXnHCWckbpwCx4k5Lk"
+      },
+      "artists": [
+        {
+          "name": "Desert Primrose",
+          "url": "https://open.spotify.com/artist/6DBbCeEyW5V1m3IzajFRvu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284514,
+      "name": "Down The Road",
+      "url": "https://open.spotify.com/track/4gFkoEOYPFJNbgyvgWHaKA"
     },
     {
       "album": {
@@ -12490,6 +12544,24 @@
       "duration_ms": 209971,
       "name": "Feed",
       "url": "https://open.spotify.com/track/1ONK0N5n6ugF46VBQmM3XM"
+    },
+    {
+      "album": {
+        "name": "Tales of Middle Age",
+        "url": "https://open.spotify.com/album/3Ys3n6OkQJl7U0FqnVsLmE"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197561,
+      "name": "Feeding Children",
+      "url": "https://open.spotify.com/track/6EMnJYj1xDxgHNA4VafLVf"
     },
     {
       "album": {
@@ -14716,7 +14788,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 248472,
       "name": "Glutton For Pain",
       "url": "https://open.spotify.com/track/6xcZfMvQENoGRNa6q8y04C"
@@ -14903,6 +14975,24 @@
     },
     {
       "album": {
+        "name": "Tales of Middle Age",
+        "url": "https://open.spotify.com/album/3Ys3n6OkQJl7U0FqnVsLmE"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202019,
+      "name": "Going of Age",
+      "url": "https://open.spotify.com/track/2MzNU1DdPcVQjdwPwAldUp"
+    },
+    {
+      "album": {
         "name": "NOISE COMPLAINT",
         "url": "https://open.spotify.com/album/4qoAqXNmCL4HDmCRNefBTk"
       },
@@ -15076,7 +15166,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 172950,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/5PbhYrim2us62q3B5iZLgS"
@@ -15447,6 +15537,24 @@
     },
     {
       "album": {
+        "name": "Growth Extractors",
+        "url": "https://open.spotify.com/album/131O9HDEtaDDpFlQ0sToor"
+      },
+      "artists": [
+        {
+          "name": "One Dimensional Creatures",
+          "url": "https://open.spotify.com/artist/7o6WniivmQftDih58zgQ8o"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170741,
+      "name": "Growth Extractors",
+      "url": "https://open.spotify.com/track/04KFDvCLLzh00ULv3HuKox"
+    },
+    {
+      "album": {
         "name": "Radiobed",
         "url": "https://open.spotify.com/album/0Q0KaneUvsWOisNrcsDnxO"
       },
@@ -15632,6 +15740,24 @@
       "duration_ms": 300879,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1PjtZThLPYY2DZSfkv5YgY"
+    },
+    {
+      "album": {
+        "name": "Halloween",
+        "url": "https://open.spotify.com/album/1ArECBsSpdUMD2bbInsYx9"
+      },
+      "artists": [
+        {
+          "name": "Missing Since Monday",
+          "url": "https://open.spotify.com/artist/4oPbfmyQAkcukOgEUt3ZAb"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196027,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/1p6gPdesVFeJ0iUIW36szB"
     },
     {
       "album": {
@@ -16540,6 +16666,24 @@
       "duration_ms": 233760,
       "name": "Hide and Seek",
       "url": "https://open.spotify.com/track/42zMQUKHKcykm8UR0IiCD0"
+    },
+    {
+      "album": {
+        "name": "High Cortisol Summer",
+        "url": "https://open.spotify.com/album/7obpeCyVEHAZECgLth3BMC"
+      },
+      "artists": [
+        {
+          "name": "Sun Spoiler",
+          "url": "https://open.spotify.com/artist/6pW8KV09KcQOrT2CigJCCU"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99096,
+      "name": "High Cortisol Summer",
+      "url": "https://open.spotify.com/track/2S12DJwjpV9YBGR5lBl3D7"
     },
     {
       "album": {
@@ -24933,6 +25077,24 @@
     },
     {
       "album": {
+        "name": "Nightcrawler",
+        "url": "https://open.spotify.com/album/2lO1hM9haUDFDVMKtYH53z"
+      },
+      "artists": [
+        {
+          "name": "Safehaven",
+          "url": "https://open.spotify.com/artist/0cdjC5PZiEKZcz77gfqELi"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195500,
+      "name": "Nightcrawler",
+      "url": "https://open.spotify.com/track/1xY7OKomhogwyzHstqWjKV"
+    },
+    {
+      "album": {
         "name": "NIGHTMARES",
         "url": "https://open.spotify.com/album/5NBIbjXyr0bbP5TQNQZOUm"
       },
@@ -25838,6 +26000,24 @@
       "duration_ms": 165358,
       "name": "Nowhere Man",
       "url": "https://open.spotify.com/track/0117Rkgi04BTIF85Bvcwwz"
+    },
+    {
+      "album": {
+        "name": "NOWHERE TO RUN",
+        "url": "https://open.spotify.com/album/26zkpA8JQnGL9lCc0E0AF7"
+      },
+      "artists": [
+        {
+          "name": "MADiSON ViOLETT",
+          "url": "https://open.spotify.com/artist/0ODjHIp6tDWsXEG89ykLgZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206400,
+      "name": "NOWHERE TO RUN",
+      "url": "https://open.spotify.com/track/21SgFtuBrTLntV4y5rJzo8"
     },
     {
       "album": {
@@ -28827,6 +29007,24 @@
     },
     {
       "album": {
+        "name": "Radio garage",
+        "url": "https://open.spotify.com/album/1hSIGO6O6LPmmDfduCO3tz"
+      },
+      "artists": [
+        {
+          "name": "The Blue Book Project",
+          "url": "https://open.spotify.com/artist/4vsdpjZzJltgjuNUeIsc9O"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153344,
+      "name": "Radio garage",
+      "url": "https://open.spotify.com/track/7fJU72ClbJ40XCFXb8S0xS"
+    },
+    {
+      "album": {
         "name": "Radio Silence",
         "url": "https://open.spotify.com/album/0M3o34t4JsGiCei4LtzKlk"
       },
@@ -28982,7 +29180,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 158001,
       "name": "Raw Food",
       "url": "https://open.spotify.com/track/0InOgUCfOajtsTKqPBpI1R"
@@ -35609,6 +35807,24 @@
     },
     {
       "album": {
+        "name": "tear u \u00f8ut my <3",
+        "url": "https://open.spotify.com/album/7rMrfkjJ5oo70HbYWgr28f"
+      },
+      "artists": [
+        {
+          "name": "Limbo",
+          "url": "https://open.spotify.com/artist/70dp4M8cICx85CXZF9O6iX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123539,
+      "name": "tear u \u00f8ut my <3",
+      "url": "https://open.spotify.com/track/5uUE08ZrtLHvKsZ8WsUR1Z"
+    },
+    {
+      "album": {
         "name": "TEARJERKER",
         "url": "https://open.spotify.com/album/1nWqYRZTtc2Yd7dDwrXR2K"
       },
@@ -39661,6 +39877,24 @@
     },
     {
       "album": {
+        "name": "Bestie Flamb\u00e9",
+        "url": "https://open.spotify.com/album/4senMwE49Z9ErY3BmHIW4I"
+      },
+      "artists": [
+        {
+          "name": "RUDE",
+          "url": "https://open.spotify.com/artist/3KdGtn4bo1ippG8VvX0AIx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173598,
+      "name": "Veg Burger",
+      "url": "https://open.spotify.com/track/5MKI4AF8DdLl62aGLvU8QG"
+    },
+    {
+      "album": {
         "name": "Veneer of Happiness",
         "url": "https://open.spotify.com/album/2UsupNlVls5rnuxjAxdVoe"
       },
@@ -39982,6 +40216,24 @@
       "duration_ms": 312500,
       "name": "Vol",
       "url": "https://open.spotify.com/track/7DHcBXahtXoUNx2W3QK1cV"
+    },
+    {
+      "album": {
+        "name": "Voltage (adhd anthem)",
+        "url": "https://open.spotify.com/album/23fRgRZjMBSUhqFOlR1lII"
+      },
+      "artists": [
+        {
+          "name": "Chappy Go Lucky",
+          "url": "https://open.spotify.com/artist/104jh90Z1ftSFlmEGnw065"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146750,
+      "name": "Voltage (adhd anthem)",
+      "url": "https://open.spotify.com/track/3yFQ2bFh7dRogov1rJg9aj"
     },
     {
       "album": {
@@ -42307,6 +42559,24 @@
     },
     {
       "album": {
+        "name": "Yeah Yeah Yeah",
+        "url": "https://open.spotify.com/album/7gE70GFOPAmI20XoDtHI2L"
+      },
+      "artists": [
+        {
+          "name": "The Groves",
+          "url": "https://open.spotify.com/artist/7MNWho8SZdxVPInYov5NYB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177334,
+      "name": "Yeah Yeah Yeah",
+      "url": "https://open.spotify.com/track/3zUJhHCEKl2NJKSfA5wzHl"
+    },
+    {
+      "album": {
         "name": "Static Spirit",
         "url": "https://open.spotify.com/album/0V6hmGKLUJwDvs2Xa92R6p"
       },
@@ -42826,6 +43096,24 @@
       "duration_ms": 206506,
       "name": "Your Web Of Lies",
       "url": "https://open.spotify.com/track/5oac3BCTHhfNKWKIzpxef8"
+    },
+    {
+      "album": {
+        "name": "Tales of Middle Age",
+        "url": "https://open.spotify.com/album/3Ys3n6OkQJl7U0FqnVsLmE"
+      },
+      "artists": [
+        {
+          "name": "TIRED",
+          "url": "https://open.spotify.com/artist/26Fypj1nYvaqMCLeqEiIMO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170810,
+      "name": "Youth of Today",
+      "url": "https://open.spotify.com/track/1AAwEuQPqBN6971m0KaJbR"
     },
     {
       "album": {

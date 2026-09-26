@@ -1,13 +1,29 @@
 {
-  "description": "Brand new music from Tinashe, Julia Jacklin, Madonna, Charli xcx, Leon Bridges, Tobiahs, VV Ace + more ",
-  "num_followers": 459718,
+  "description": "Brand new music from Taylor Swift, Tinashe, Julia Jacklin, Madonna, Charli xcx, Leon Bridges + more",
+  "num_followers": 460086,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGxgY7GGcGmLL6pISLKX4SXJE0t+",
+  "snapshot_id": "AAAAAPinNoIsk/AkjGvfEaDVcG+WBTMc",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:04:23",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
     {
       "added_at": "2026-09-24 14:00:27",
       "album": {
@@ -756,8 +772,8 @@
           "url": "https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 7",
+      "duration_ms": 225000,
+      "name": "Thomas",
       "url": "https://open.spotify.com/track/65PUfUOQar5RswdwXO6S1k"
     },
     {
@@ -770,10 +786,14 @@
         {
           "name": "VITA",
           "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
+        },
+        {
+          "name": "REINEN",
+          "url": "https://open.spotify.com/artist/0IYg6J3r1hJUPLNupSbqvt"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 182000,
+      "name": "HYPER (with REINEN)",
       "url": "https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW"
     },
     {
@@ -874,10 +894,14 @@
         {
           "name": "Karan Aujla",
           "url": "https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ"
+        },
+        {
+          "name": "Mxrci",
+          "url": "https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 218110,
+      "name": "Aujla Szn",
       "url": "https://open.spotify.com/track/6FA6lEbtWNxknRtaok2Ua4"
     },
     {
@@ -1208,8 +1232,8 @@
           "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 182372,
+      "name": "Hot Topic",
       "url": "https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH"
     },
     {
@@ -1440,8 +1464,8 @@
           "url": "https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 232000,
+      "name": "Sitting Around",
       "url": "https://open.spotify.com/track/3xF3akBcgGqcLIjsNnVRnG"
     },
     {

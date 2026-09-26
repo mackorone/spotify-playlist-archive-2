@@ -1,12 +1,12 @@
 {
   "description": "Rits, Noah Ysp, Moony11 en meer..",
-  "num_followers": 158338,
+  "num_followers": 158336,
   "original_name": "Fresh Flows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM+3DSTOZHdBaf1Qb7kgT9UhGIpy",
+  "snapshot_id": "AAAAAAsjaXA8YqhvUGszMtjGK0QteZXg",
   "tracks": [
     {
       "added_at": "2026-09-24 22:01:18",
@@ -99,18 +99,22 @@
     {
       "added_at": "2026-09-24 22:01:18",
       "album": {
-        "name": "HAC \u00e0 DOS",
-        "url": "https://open.spotify.com/album/3zmbZSNPACkHbvnRuRT0MI"
+        "name": "NET RODDY",
+        "url": "https://open.spotify.com/album/36vPEThfy46ZKf25ZsU7Qg"
       },
       "artists": [
         {
-          "name": "247Loosey",
-          "url": "https://open.spotify.com/artist/5MxaJCmQcD7J3leCOMgkvH"
+          "name": "KV6",
+          "url": "https://open.spotify.com/artist/5Ojlrj4iEOFt2ygzVY859Y"
+        },
+        {
+          "name": "ACHTKEER",
+          "url": "https://open.spotify.com/artist/64074GCrdlmMFRW2R3kh6u"
         }
       ],
-      "duration_ms": 141369,
-      "name": "HAC \u00e0 DOS",
-      "url": "https://open.spotify.com/track/0TDJb8doKSZ6nbMFyzu4NU"
+      "duration_ms": 145600,
+      "name": "NET RODDY",
+      "url": "https://open.spotify.com/track/7rXCqPlm0IeescN1N4AAiD"
     },
     {
       "added_at": "2026-09-24 22:01:18",
@@ -167,26 +171,6 @@
       "duration_ms": 141991,
       "name": "UNESCO",
       "url": "https://open.spotify.com/track/39j9xJAuZyjOwH8sbqdltn"
-    },
-    {
-      "added_at": "2026-09-24 22:01:18",
-      "album": {
-        "name": "NET RODDY",
-        "url": "https://open.spotify.com/album/36vPEThfy46ZKf25ZsU7Qg"
-      },
-      "artists": [
-        {
-          "name": "KV6",
-          "url": "https://open.spotify.com/artist/5Ojlrj4iEOFt2ygzVY859Y"
-        },
-        {
-          "name": "ACHTKEER",
-          "url": "https://open.spotify.com/artist/64074GCrdlmMFRW2R3kh6u"
-        }
-      ],
-      "duration_ms": 145600,
-      "name": "NET RODDY",
-      "url": "https://open.spotify.com/track/7rXCqPlm0IeescN1N4AAiD"
     },
     {
       "added_at": "2026-09-24 22:01:18",

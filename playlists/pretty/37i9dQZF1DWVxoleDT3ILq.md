@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Estoy Bien en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,832 likes - 54 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,814 likes - 54 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 53 | [Pavimento](https://open.spotify.com/track/3R759Y9VUnFvvevEw9f0b4) | [Silabario](https://open.spotify.com/artist/69Z9Rb8JunV1blSuO4Fkbs) | [Pavimento](https://open.spotify.com/album/6mJ7WWmqunWIackW9mkkm8) | 4:49 |
 | 54 | [roger](https://open.spotify.com/track/4rUJUCW9QdNVijNY1ifzop) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [roger](https://open.spotify.com/album/0bwLHbRjrKW9uituCrG4q7) | 2:52 |
 
-Snapshot ID: `AAAAAMZG73Ww+4043MVWKijIaAojfYp1`
+Snapshot ID: `AAAAAJlDwpS1pLodKDvF7xbElV1rAvuT`

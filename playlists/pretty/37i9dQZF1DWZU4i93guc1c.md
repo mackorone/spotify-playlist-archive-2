@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > новинки українського андерґраунду\. обкладинка: Lyuda Bielousova \(LB\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,622 likes - 115 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,628 likes - 115 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 | 114 | [мед](https://open.spotify.com/track/7kbNj9NHYnKYOhejYxMJlR) | [pollyséna](https://open.spotify.com/artist/701tkyvZL9Cf7BffrezT9F) | [мед](https://open.spotify.com/album/3eKkTEpIJGsZgmS5MxcQ1F) | 2:45 |
 | 115 | [бардак](https://open.spotify.com/track/0sd6k6SOW4v2Z6Y6xFkn09) | [сліпток](https://open.spotify.com/artist/56M3mfXvDAZ8eYzHfM6lu0) | [Бардак](https://open.spotify.com/album/4D2H1xAHsZFVoRlKMFrbHP) | 2:50 |
 
-Snapshot ID: `AAAAAEo/MWGZztTvIc8yYudcLpUYb43n`
+Snapshot ID: `AAAAAJnmiJPYk32Yowfs7WfSdbumKTWQ`

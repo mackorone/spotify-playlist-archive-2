@@ -6,7 +6,7 @@
     "name": "az",
     "url": "https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq"
   },
-  "snapshot_id": "AAAAKgv2z1fEsp2nYIAZdvwvP5gsUxej",
+  "snapshot_id": "AAAAK44SnBp7Ib/Ddm/cOJnn47l8cIZV",
   "tracks": [
     {
       "added_at": "2024-07-03 09:23:06",
@@ -615,6 +615,26 @@
       "duration_ms": 183026,
       "name": "Romantic",
       "url": "https://open.spotify.com/track/6iXO4A5u0CRLNre9lSxntL"
+    },
+    {
+      "added_at": "2026-09-25 22:49:42",
+      "album": {
+        "name": "1471",
+        "url": "https://open.spotify.com/album/6aazGhy1unBHW4nPE6uHlN"
+      },
+      "artists": [
+        {
+          "name": "Babyfather",
+          "url": "https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA"
+        },
+        {
+          "name": "Tirzah",
+          "url": "https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd"
+        }
+      ],
+      "duration_ms": 104000,
+      "name": "1471",
+      "url": "https://open.spotify.com/track/1BVo3CqGJO3YMNeoK5Ihye"
     }
   ],
   "unique_name": "you are forgiven",

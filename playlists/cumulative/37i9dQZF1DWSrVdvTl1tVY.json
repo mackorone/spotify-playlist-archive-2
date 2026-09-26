@@ -7819,6 +7819,24 @@
     },
     {
       "album": {
+        "name": "Dynamo EP",
+        "url": "https://open.spotify.com/album/1AatZ6Er5CKdQ1wGxhsT1K"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Spiteri",
+          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Dynamo",
+      "url": "https://open.spotify.com/track/4C6SwszAF1EBgkGnkkdFvW"
+    },
+    {
+      "album": {
         "name": "D\u00d3NDE EST\u00c1",
         "url": "https://open.spotify.com/album/7u8SXWRQiR1aCmyjHCzwWJ"
       },
@@ -28944,24 +28962,6 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "album": {
-        "name": "Dynamo EP",
-        "url": "https://open.spotify.com/album/1AatZ6Er5CKdQ1wGxhsT1K"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Spiteri",
-          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4C6SwszAF1EBgkGnkkdFvW"
     },
     {
       "album": {

@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "Amores de monta\u00f1a",
+        "url": "https://open.spotify.com/album/2o5QqiDCNGqaq3TUCqUGBn"
+      },
+      "artists": [
+        {
+          "name": "Banda La Reyna de Oaxaca",
+          "url": "https://open.spotify.com/artist/0BsNy71GupPGl8vkwLSSJI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217208,
+      "name": "Amores de monta\u00f1a",
+      "url": "https://open.spotify.com/track/05rLt8OUdyNlDMLOHBhixw"
+    },
+    {
+      "album": {
         "name": "En Vivo! Desde Pico Rivera, Ca",
         "url": "https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd"
       },
@@ -852,7 +870,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 169738,
       "name": "Cumbia Del Clavi",
       "url": "https://open.spotify.com/track/7H5t2fboweenWJMXeNGRVu"
@@ -990,7 +1008,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 205647,
       "name": "El Aferrafter",
       "url": "https://open.spotify.com/track/4UflFP15sPu8HdABGEwEpV"
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 154853,
       "name": "El Alacr\u00e1n",
       "url": "https://open.spotify.com/track/11ZyiDSiT3aQCKE13adq2r"
@@ -1150,6 +1168,28 @@
       "duration_ms": 241581,
       "name": "El Alacr\u00e1n (Tumbando Ca\u00f1a)",
       "url": "https://open.spotify.com/track/5zvdQzSP3UTLifWD9YHLEJ"
+    },
+    {
+      "album": {
+        "name": "El Amor De Mi Vida",
+        "url": "https://open.spotify.com/album/3C5Wvd1D40hoBJWGkfZeB4"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        },
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186514,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/4WhJcfnu0CaLHcYJsX2Xmt"
     },
     {
       "album": {
@@ -1208,7 +1248,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 163285,
       "name": "El Baile de la Iguana (En Vivo)",
       "url": "https://open.spotify.com/track/4Pgecg5ZeQ0qdjb8O3YRiM"
@@ -1374,6 +1414,24 @@
       "duration_ms": 183360,
       "name": "El Contagio",
       "url": "https://open.spotify.com/track/1wsPiN2Y0cIvMDbLK8ywkt"
+    },
+    {
+      "album": {
+        "name": "El Gavil\u00e1n",
+        "url": "https://open.spotify.com/album/3hcLWdaBXLjWKxxbljoQ8N"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244366,
+      "name": "El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/6xNHgNeQR0N3nGsIBGW94z"
     },
     {
       "album": {
@@ -1755,6 +1813,28 @@
     },
     {
       "album": {
+        "name": "el taca taca ta (remix)",
+        "url": "https://open.spotify.com/album/2OG8ON3G040SHedULEvXon"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Nuevo Amanecer",
+          "url": "https://open.spotify.com/artist/5PYRJEcuO4GwG3LEiowJQc"
+        },
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242112,
+      "name": "el taca taca ta - remix",
+      "url": "https://open.spotify.com/track/588dUhigU4hLeFcbXzFI0q"
+    },
+    {
+      "album": {
         "name": "Para Ti",
         "url": "https://open.spotify.com/album/3K26VphEF0C4X46uRL0x76"
       },
@@ -1784,7 +1864,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 216163,
       "name": "El Tecolotito",
       "url": "https://open.spotify.com/track/1iMcb6dkCoKbLIp9akziVk"
@@ -2184,7 +2264,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 167544,
       "name": "Eva Mar\u00eda",
       "url": "https://open.spotify.com/track/0AhvaPKACJhgkir9aUfE2S"
@@ -2278,7 +2358,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 224722,
       "name": "Flor de Pi\u00f1a",
       "url": "https://open.spotify.com/track/4Gi4t7VTmsarbId2oEYZkj"
@@ -2386,7 +2466,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 192458,
       "name": "Hola Que Tal",
       "url": "https://open.spotify.com/track/7AwSauhkpTlnDh9Ap9ESKl"
@@ -3414,6 +3494,24 @@
       "duration_ms": 175532,
       "name": "La Nena",
       "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
+    },
+    {
+      "album": {
+        "name": "La Ni\u00f1a Del Telefono",
+        "url": "https://open.spotify.com/album/4kQU0krh0xtWW2Ox2MWsBF"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Tempestad",
+          "url": "https://open.spotify.com/artist/7m1jfOxpHhKzzhFRJyfKAK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231804,
+      "name": "La Ni\u00f1a Del Telefono",
+      "url": "https://open.spotify.com/track/4n1jsARd9OG4o0H2BJdoMU"
     },
     {
       "album": {
@@ -4554,7 +4652,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 207737,
       "name": "Orgullosa Maria",
       "url": "https://open.spotify.com/track/6l4StzxtJqjgsqs9TkuRJA"
@@ -4822,6 +4920,24 @@
       "duration_ms": 251933,
       "name": "Popurri Fregon: Carnaval, El Buey De La Barranca, Serian Las Dos, La Mariguana",
       "url": "https://open.spotify.com/track/5Kv8b5skMVvucgC4Ca6lHD"
+    },
+    {
+      "album": {
+        "name": "Cumbias Chidas, Loco",
+        "url": "https://open.spotify.com/album/7ae2dm5jJJNRskhc3S8Hzg"
+      },
+      "artists": [
+        {
+          "name": "Banda Lirio",
+          "url": "https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289655,
+      "name": "Popurr\u00ed Chico - Che: Qui\u00e9n Pomp\u00f3/Macorina/Que Culpa Tiene La Estaca",
+      "url": "https://open.spotify.com/track/6vgfwHT76RhVAyT0vE86zP"
     },
     {
       "album": {
@@ -5097,6 +5213,24 @@
     },
     {
       "album": {
+        "name": "10 Pa' Huapanguear",
+        "url": "https://open.spotify.com/album/4XEQwR2ThYEitmYIv9g4Di"
+      },
+      "artists": [
+        {
+          "name": "La Kumbre Con K",
+          "url": "https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169920,
+      "name": "Sal y Lim\u00f3n (Huapango)",
+      "url": "https://open.spotify.com/track/7dSL9q8K1bHpePd2S02AKs"
+    },
+    {
+      "album": {
         "name": "Frente A Frente",
         "url": "https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6"
       },
@@ -5242,6 +5376,24 @@
       "duration_ms": 159397,
       "name": "Solo Que Lo Dudes",
       "url": "https://open.spotify.com/track/6K3Z9ZgPC236RMBIT1q2sx"
+    },
+    {
+      "album": {
+        "name": "Son De Amoltepec (Live)",
+        "url": "https://open.spotify.com/album/6LbgbwKbwYVK74L3d52TDI"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Tempestad",
+          "url": "https://open.spotify.com/artist/7m1jfOxpHhKzzhFRJyfKAK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213840,
+      "name": "Son De Amoltepec (Live)",
+      "url": "https://open.spotify.com/track/1aqkdBQ1gLZDMVR1fHPclr"
     },
     {
       "album": {
@@ -5404,7 +5556,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 178723,
       "name": "Tristes Recuerdos",
       "url": "https://open.spotify.com/track/0RVq2Gc0ujeOVMFZgWhLAT"
@@ -5640,6 +5792,24 @@
       "duration_ms": 223880,
       "name": "Vanidosa",
       "url": "https://open.spotify.com/track/7Io1uxWdBYeYasxiaxbdMQ"
+    },
+    {
+      "album": {
+        "name": "Vaqueras Tribal",
+        "url": "https://open.spotify.com/album/7rtgxF4qLJKVRCL1fQ2hjz"
+      },
+      "artists": [
+        {
+          "name": "DISTINTO NORTE",
+          "url": "https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208985,
+      "name": "Vaqueras Tribal",
+      "url": "https://open.spotify.com/track/4cTWfB9arDHgqpgMS0vJZT"
     },
     {
       "album": {
@@ -5900,6 +6070,28 @@
       "duration_ms": 181826,
       "name": "Zapateado Endemoniado",
       "url": "https://open.spotify.com/track/1tEZVJXk5GEYEwr5a04nj8"
+    },
+    {
+      "album": {
+        "name": "Zapateado \u00c1ntrax",
+        "url": "https://open.spotify.com/album/0kzU6eJmyqvXhKz0rSJ11j"
+      },
+      "artists": [
+        {
+          "name": "Los Rugar",
+          "url": "https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9"
+        },
+        {
+          "name": "los ultimos del topo chico",
+          "url": "https://open.spotify.com/artist/3unCdhSTIZtu0T9KqC0kqp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233018,
+      "name": "Zapateado \u00c1ntrax",
+      "url": "https://open.spotify.com/track/0Rs5XaoW7AcJVAbUEP30dm"
     },
     {
       "album": {

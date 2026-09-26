@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New music from Laura Tesoro, Pierre de Maere, OLIVIA and more...",
+  "description": "New music from Taylor Swift, Laura Tesoro, Pierre de Maere, OLIVIA and more...",
   "name": "New Music Friday BE",
   "tracks": [
     {
@@ -54079,6 +54079,28 @@
     },
     {
       "album": {
+        "name": "22 Durnham Dew",
+        "url": "https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n"
+      },
+      "artists": [
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        },
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195532,
+      "name": "Do No Harm (feat. Baby Rose)",
+      "url": "https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v"
+    },
+    {
+      "album": {
         "name": "BAD BOY LOVESTORY",
         "url": "https://open.spotify.com/album/4l4t2cO18SyZLu0uMYfGBm"
       },
@@ -55899,6 +55921,24 @@
     },
     {
       "album": {
+        "name": "Caliciuri",
+        "url": "https://open.spotify.com/album/6ulZ3BkOyBCmA7W4zekPPp"
+      },
+      "artists": [
+        {
+          "name": "Cali",
+          "url": "https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215680,
+      "name": "Donne-moi tout",
+      "url": "https://open.spotify.com/track/4S0KDmXFIqXK5HHSOjjlee"
+    },
+    {
+      "album": {
         "name": "Don\u2019t Break Her Heart",
         "url": "https://open.spotify.com/album/4zH1DbsAbNzjtL0CtUBGnY"
       },
@@ -57502,6 +57542,24 @@
       "duration_ms": 224622,
       "name": "Drifting Away",
       "url": "https://open.spotify.com/track/1zKWhcQGThVeNvN8t4WMNC"
+    },
+    {
+      "album": {
+        "name": "Eldorado",
+        "url": "https://open.spotify.com/album/03KqYH5ZjTMhyhilRyUbqW"
+      },
+      "artists": [
+        {
+          "name": "Girls In Hawaii",
+          "url": "https://open.spotify.com/artist/1HRqqu7DoKzpIBvdU7Jjib"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305706,
+      "name": "Drifting In The Summer Rain",
+      "url": "https://open.spotify.com/track/3a8uAqfonQGbSqtjpN7lk6"
     },
     {
       "album": {
@@ -88885,6 +88943,32 @@
     },
     {
       "album": {
+        "name": "Jungle Noire",
+        "url": "https://open.spotify.com/album/2IAAbamIP2plGErikuiWYd"
+      },
+      "artists": [
+        {
+          "name": "Scylla",
+          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
+        },
+        {
+          "name": "Furax Barbarossa",
+          "url": "https://open.spotify.com/artist/4LujPNfyrtunY5noju2iIa"
+        },
+        {
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296520,
+      "name": "HORIZONS",
+      "url": "https://open.spotify.com/track/4mMjLwwILdbH5RcziLYEX7"
+    },
+    {
+      "album": {
         "name": "Hors du temps",
         "url": "https://open.spotify.com/album/7vJd3XzTlZfWywuOq2Lo59"
       },
@@ -95080,8 +95164,8 @@
           "url": "https://open.spotify.com/artist/1nSBihjWQgnAwxnd65XPdN"
         },
         {
-          "name": "Eline Maan",
-          "url": "https://open.spotify.com/artist/6DixwhjTNjqYjfYJMrai41"
+          "name": "Eline Mann",
+          "url": "https://open.spotify.com/artist/7B68JAWDHgVV7OiLmtjxtu"
         }
       ],
       "date_added": "2026-09-24",
@@ -115038,6 +115122,24 @@
       "duration_ms": 192395,
       "name": "Les Flammes",
       "url": "https://open.spotify.com/track/0RbV9Y0v7UJT0yVlxyvSjr"
+    },
+    {
+      "album": {
+        "name": "ROMANCE RODEO",
+        "url": "https://open.spotify.com/album/7pgJyoe9Um0keycHs8Xmin"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169009,
+      "name": "LES FOURMIS",
+      "url": "https://open.spotify.com/track/4nqefoXOG8qs7YromWqpeV"
     },
     {
       "album": {
@@ -147490,12 +147592,12 @@
           "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
         },
         {
-          "name": "Hydawai",
-          "url": "https://open.spotify.com/artist/5adV10VCaQCO3HJLlVQiFZ"
-        },
-        {
           "name": "LOWEN",
           "url": "https://open.spotify.com/artist/1Otld2dXsrd1KlFeqWzd0f"
+        },
+        {
+          "name": "Hydawai",
+          "url": "https://open.spotify.com/artist/5adV10VCaQCO3HJLlVQiFZ"
         }
       ],
       "date_added": "2026-09-24",
@@ -157972,6 +158074,24 @@
       "duration_ms": 185142,
       "name": "Patience (with Amadou & Mariam)",
       "url": "https://open.spotify.com/track/0aDif6YXwDWGPWiDrREe4K"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "album": {
@@ -190671,6 +190791,24 @@
     },
     {
       "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/2ZgIa3WC76TfZNP7rMT5gf"
+      },
+      "artists": [
+        {
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/1nItkcuBMQ0wwmUN6yznda"
+    },
+    {
+      "album": {
         "name": "Stay Alive",
         "url": "https://open.spotify.com/album/02L1yfDDg8vAiqlHYM0Roi"
       },
@@ -211101,114 +211239,6 @@
     },
     {
       "album": {
-        "name": "22 Durnham Dew",
-        "url": "https://open.spotify.com/album/2vpI9Lkw6tfkjc5DDQ980n"
-      },
-      "artists": [
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/7tRNSE3ymVdtpiw3j38j1v"
-    },
-    {
-      "album": {
-        "name": "ROMANCE RODEO",
-        "url": "https://open.spotify.com/album/7pgJyoe9Um0keycHs8Xmin"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4nqefoXOG8qs7YromWqpeV"
-    },
-    {
-      "album": {
-        "name": "Jungle Noire",
-        "url": "https://open.spotify.com/album/2IAAbamIP2plGErikuiWYd"
-      },
-      "artists": [
-        {
-          "name": "Scylla",
-          "url": "https://open.spotify.com/artist/7fRBY7RRf4iMn2Z4bhZcYA"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/4mMjLwwILdbH5RcziLYEX7"
-    },
-    {
-      "album": {
-        "name": "Eldorado",
-        "url": "https://open.spotify.com/album/03KqYH5ZjTMhyhilRyUbqW"
-      },
-      "artists": [
-        {
-          "name": "Girls In Hawaii",
-          "url": "https://open.spotify.com/artist/1HRqqu7DoKzpIBvdU7Jjib"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/3a8uAqfonQGbSqtjpN7lk6"
-    },
-    {
-      "album": {
-        "name": "INK",
-        "url": "https://open.spotify.com/album/375CTwXJmik4bUJVgU4hHt"
-      },
-      "artists": [
-        {
-          "name": "Daan",
-          "url": "https://open.spotify.com/artist/5rytKg8dlNhhb2nZ47y9IW"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/5SNolMmA7vq5dEj2kG6kYL"
-    },
-    {
-      "album": {
-        "name": "Caliciuri",
-        "url": "https://open.spotify.com/album/6ulZ3BkOyBCmA7W4zekPPp"
-      },
-      "artists": [
-        {
-          "name": "Cali",
-          "url": "https://open.spotify.com/artist/1ULXG4gd6YSvdjuFBJ6sAA"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/4S0KDmXFIqXK5HHSOjjlee"
-    },
-    {
-      "album": {
         "name": "Track Team",
         "url": "https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL"
       },
@@ -226866,6 +226896,24 @@
       "duration_ms": 209846,
       "name": "Whisper In The Waves",
       "url": "https://open.spotify.com/track/45aDo2HZ09ueKJUtiT26BH"
+    },
+    {
+      "album": {
+        "name": "INK",
+        "url": "https://open.spotify.com/album/375CTwXJmik4bUJVgU4hHt"
+      },
+      "artists": [
+        {
+          "name": "Daan",
+          "url": "https://open.spotify.com/artist/5rytKg8dlNhhb2nZ47y9IW"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175720,
+      "name": "Whispering Grass",
+      "url": "https://open.spotify.com/track/5SNolMmA7vq5dEj2kG6kYL"
     },
     {
       "album": {

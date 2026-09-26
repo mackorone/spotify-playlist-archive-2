@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: BAHA
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,656 likes - 105 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,630 likes - 105 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

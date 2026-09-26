@@ -221,7 +221,7 @@
 | [Hasty Boom Alert](https://open.spotify.com/track/4miEA9U9PZKBYryATLzCKC) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 5:15 | 2022-04-13 |  |
 | [Hawkmoth](https://open.spotify.com/track/0LQwjyPTElZ4rKxJXEPFnq) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Reachy Prints](https://open.spotify.com/album/1gEUsLhMFziQj29kuo65hk) | 4:48 | 2022-04-13 | 2024-04-19 |
 | [Hawkmoth](https://open.spotify.com/track/44MqpNL8xdtG3hTT2QWbQ4) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Reachy Prints](https://open.spotify.com/album/4nwAU3LuHt6nL5KLqhzw1z) | 4:48 | 2022-04-13 | 2026-05-18 |
-| [Hector's House](https://open.spotify.com/track/2aaLOIGfCXEgiXdf1UYJvd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Bluff Limbo](https://open.spotify.com/album/0l8dymo7QwPHkQRNEInA9A) | 4:26 | 2022-04-13 | 2026-09-25 |
+| [Hector's House](https://open.spotify.com/track/2aaLOIGfCXEgiXdf1UYJvd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Bluff Limbo](https://open.spotify.com/album/0l8dymo7QwPHkQRNEInA9A) | 4:26 | 2022-04-13 |  |
 | [Hector's House](https://open.spotify.com/track/3XbNSgW77PbTll3rGl35pO) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Bluff Limbo](https://open.spotify.com/album/0FY2xhnMoOCr2Y4nOMW28y) | 4:26 | 2022-04-13 | 2024-04-19 |
 | [Hector's House](https://open.spotify.com/track/72uwGFdnyzQc0AXtOzst5j) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Bluff Limbo](https://open.spotify.com/album/18nE7bx6O1nC1MGpAYCPJv) | 4:26 | 2022-04-13 | 2023-04-05 |
 | [Heidelberger Platz](https://open.spotify.com/track/3jAg0zZ3djLfPJZUg8tqWB) | [Studio Pankow](https://open.spotify.com/artist/2u2gYNDjDWwtkkr2XYVffq) | [Linienbusse](https://open.spotify.com/album/34DqwBqIa0Vkj2RbqvZxge) | 8:27 | 2022-04-13 |  |
@@ -586,6 +586,6 @@
 | [Zip Left, Zip Right](https://open.spotify.com/track/3oGa7UEICaO8EcA7tlVJ8d) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Digitalis](https://open.spotify.com/album/6SwEpgSxk3oRekFjMl69Oo) | 5:55 | 2022-04-13 |  |
 | [µ\-Ziq Theme](https://open.spotify.com/track/1fwH44zNWFYUc1OAwSIbkd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/0SV8Fc8l7S3tRNUBUTgkqy) | 4:36 | 2022-04-13 | 2023-04-29 |
 | [µ\-Ziq Theme](https://open.spotify.com/track/3jiRMszW0zfo4cO1gT7unu) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1mwzd45uIahVmQ2A7UvHoq) | 4:36 | 2022-04-13 | 2024-02-15 |
-| [µ\-Ziq Theme](https://open.spotify.com/track/71SdX5avHceBTkacN935ri) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1gd89zVAfPT4PSZPdRdat7) | 4:36 | 2022-04-13 |  |
+| [µ\-Ziq Theme](https://open.spotify.com/track/71SdX5avHceBTkacN935ri) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1gd89zVAfPT4PSZPdRdat7) | 4:36 | 2022-04-13 | 2026-09-26 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

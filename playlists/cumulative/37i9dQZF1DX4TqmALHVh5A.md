@@ -4,7 +4,7 @@
 
 > La scène française branchée sur courant alternatif\. Photo : Danyl & A6el.
 
-582 songs - 1 day 5 hr 50 min
+583 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Fire In Higher Ground](https://open.spotify.com/track/4dlJOy0IXON6qP4XsDwmpT) | [Chester Remington](https://open.spotify.com/artist/2SsHmYd28pfHyHeec39mBM) | [Fire In Higher Ground](https://open.spotify.com/album/6S1FL1pvdpss8fVA6cK5a8) | 4:52 | 2024-01-18 | 2024-02-09 |
 | [Fièvre !](https://open.spotify.com/track/3lpPRptGix3W5iFSlsCxw8) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [Fièvre !](https://open.spotify.com/album/7rFzSd3Tt7ZDIxLtFO2D8J) | 3:36 | 2026-06-18 | 2026-08-28 |
 | [FLEMME](https://open.spotify.com/track/1aWfRPTSnvfgn0p5niDMr1) | [SALYA](https://open.spotify.com/artist/2xXqtqQ3MyZVlE7mp1l8ef) | [FLEMME](https://open.spotify.com/album/179KOwuoogAJN7nKByOBha) | 2:27 | 2025-11-13 | 2026-02-13 |
-| [fleurs](https://open.spotify.com/track/7osDy3z3R1ET3rDB2vvDHs) | [Skabe](https://open.spotify.com/artist/5o5p5gPLO2zKfTi1KZX9sZ) | [fleurs](https://open.spotify.com/album/3Rslr3ps1Vr3rkenXSmJLs) | 1:54 | 2026-07-16 |  |
+| [fleurs](https://open.spotify.com/track/7osDy3z3R1ET3rDB2vvDHs) | [Skabe](https://open.spotify.com/artist/5o5p5gPLO2zKfTi1KZX9sZ) | [fleurs](https://open.spotify.com/album/3Rslr3ps1Vr3rkenXSmJLs) | 1:54 | 2026-07-16 | 2026-09-26 |
 | [Flèche Argentée](https://open.spotify.com/track/56F782Sp56OhuQT9yREuvz) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Flèche Argentée](https://open.spotify.com/album/5RpOAd4JdkkG0cLP5DTJcz) | 3:05 | 2023-11-02 | 2023-12-08 |
 | [Focused](https://open.spotify.com/track/4k9j3QbPco2VqW3w4Wz1Qq) | [PAMELA](https://open.spotify.com/artist/5Zmjvb5b6WPHZNWF7rxHja) | [Focused](https://open.spotify.com/album/4sbsFxdZAZuiy8Iu6leRe7) | 3:06 | 2024-10-17 | 2025-03-14 |
 | [For You](https://open.spotify.com/track/26mrGVfb3bbXUP1ktG4oNZ) | [Requin Chagrin](https://open.spotify.com/artist/7hstPLRSo0ipNnICMpTN5g) | [Décollage](https://open.spotify.com/album/7gmQgiup3PRcGbw97xelQH) | 2:43 | 2026-03-26 | 2026-09-18 |
@@ -315,6 +315,7 @@
 | [Le téléphone](https://open.spotify.com/track/3NAx8hW6fdM9Tyt8RqplNM) | [Jim Bauer](https://open.spotify.com/artist/77kjYcXMhJX87ZjtrlxbLo) | [Le téléphone](https://open.spotify.com/album/7xlJo76BopfAUd4rwiwDPv) | 2:42 | 2023-11-23 | 2023-12-01 |
 | [les adieux](https://open.spotify.com/track/5InmwOdtudXZMys1G2Uo09) | [billie](https://open.spotify.com/artist/5OlAhdgR13gu6r0MZU8eKj) | [les adieux](https://open.spotify.com/album/3kN893vmbtMas2NEwHiR1y) | 3:16 | 2026-04-30 | 2026-06-19 |
 | [Les Chevaux Blancs](https://open.spotify.com/track/6y0yMswC3BLtp5VQ41lxJD) | [Mon cher Guy](https://open.spotify.com/artist/6KwKwfx3DSMOYDfHo1GcK2), [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Cowboy Circus](https://open.spotify.com/album/0LeNAzIxVwsSVrvUq28HPD) | 2:38 | 2025-06-12 | 2025-11-07 |
+| [LES FOURMIS](https://open.spotify.com/track/4nqefoXOG8qs7YromWqpeV) | [IGOR](https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI) | [ROMANCE RODEO](https://open.spotify.com/album/7pgJyoe9Um0keycHs8Xmin) | 2:49 | 2026-09-24 |  |
 | [LES FRAMBOISES](https://open.spotify.com/track/4WL4dfBOxheHyOcgPtyaZF) | [Simia](https://open.spotify.com/artist/57dGH4c5aKHr46UJqCDEev) | [TÇPÇ!](https://open.spotify.com/album/2deUjrM2eyy0UQuImPJJlq) | 2:40 | 2025-10-10 | 2026-01-16 |
 | [Les garçons](https://open.spotify.com/track/5XGju7r47HMtg660vdkBSd) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Les garçons](https://open.spotify.com/album/6Yy55S5ELrJMIbGcdQ7qQK) | 3:40 | 2023-11-16 | 2024-09-13 |
 | [Les garçons](https://open.spotify.com/track/3Ff2iqsPtk3vtl0LPbTZx6) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W) | [Rêve parti](https://open.spotify.com/album/3cTYOxcJrFZjoTClbbceI9) | 3:41 | 2024-03-28 | 2024-04-19 |
@@ -340,6 +341,7 @@
 | [Magenta](https://open.spotify.com/track/5tLmCV2kgSqTLVYetgTgBL) | [BLUE GEMINI](https://open.spotify.com/artist/7t8yQWK5A7DIXDJqyoXE3w) | [MIND THE GAP](https://open.spotify.com/album/7kn0CpZlN0CXTrqEvxgGin) | 3:24 | 2026-07-09 | 2026-09-25 |
 | [mais le ciel est sublime](https://open.spotify.com/track/5cfD8I77n0o74lx5I6kdjt) | [nous étions une armée](https://open.spotify.com/artist/2GT9RRFupyQile63whfk0t) | [mais le ciel est sublime](https://open.spotify.com/album/6wlaGZBe38vEnajOPYzAOl) | 3:44 | 2025-10-23 | 2026-01-24 |
 | [Maisons vides](https://open.spotify.com/track/5xcpjChubYvUHXS5M9MFFB) | [KCIDY](https://open.spotify.com/artist/7rOzcz6BWm7gwp4LMpdkSO) | [Maisons vides](https://open.spotify.com/album/1hgVIIJBeoAcy96jPMS3Xx) | 4:02 | 2025-05-15 | 2025-10-11 |
+| [maldini](https://open.spotify.com/track/4G85rZl49Q3zew6pP1XRCY) | [beau décor](https://open.spotify.com/artist/3quniBq1MWtPBHzTWQ4TyH) | [maldini](https://open.spotify.com/album/53jpXacxlrpxnd7ULodvcI) | 2:32 | 2026-09-25 |  |
 | [Mascu Ferme Ta Gueule](https://open.spotify.com/track/5QQlYQJuk65q8zD82KPTBN) | [Droges](https://open.spotify.com/artist/5SDTx48ndpoXdLVYixXAHd) | [Mascu Ferme Ta Gueule](https://open.spotify.com/album/535KV48kRNmaoGMyIEk1Hj) | 3:08 | 2024-11-07 | 2025-03-28 |
 | [Mauvais Garçon](https://open.spotify.com/track/0b9cs1WibgvzNh6zIaljzw) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Mauvais Garçon](https://open.spotify.com/album/2xRuAm8VKXSMpbAjlqkCbW) | 2:51 | 2023-09-28 | 2024-03-29 |
 | [Mauvaise tête](https://open.spotify.com/track/4QEg4vfzw0NwePfYMoJtwK) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Mauvaise tête](https://open.spotify.com/album/0Lf2JwBPW1pxnmScm5m2L1) | 2:38 | 2025-12-18 | 2026-03-20 |
@@ -544,7 +546,6 @@
 | [Tout sauf la vérité](https://open.spotify.com/track/2WhOzOZmVXZDaMSzWvVKwa) | [MaMaMa](https://open.spotify.com/artist/4cyoA6TEaCkcI6ue37dJpw) | [Tout sauf la vérité](https://open.spotify.com/album/3Z68OlrIgQ6SztVZW7PZeI) | 2:42 | 2026-02-19 | 2026-05-16 |
 | [Tout seul](https://open.spotify.com/track/6VZ0v0TSl98xFn6rQuzVgy) | [AGAV](https://open.spotify.com/artist/6F9Ri1Fo7GuIv50JNvga8g) | [Tout seul](https://open.spotify.com/album/434ZXKSEKFsnFPImSq1si0) | 2:20 | 2026-01-23 | 2026-04-24 |
 | [Tovsk](https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD) | [Vipères Sucrées Salées](https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5) | [Tovsk](https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2) | 2:45 | 2023-11-30 | 2024-03-08 |
-| [Track 2](https://open.spotify.com/track/4nqefoXOG8qs7YromWqpeV) | [IGOR](https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI) | [ROMANCE RODEO](https://open.spotify.com/album/7pgJyoe9Um0keycHs8Xmin) | 0:00 | 2026-09-24 |  |
 | [Travail Famille Connasse](https://open.spotify.com/track/4ruytwNYWTnvwEq3XNhv0l) | [Schlaasss](https://open.spotify.com/artist/7znBntfGatVV9Elt7uP8Bu) | [Travail Famille Connasse](https://open.spotify.com/album/3cvnKTweWEc1Wwgi3SmhtX) | 3:28 | 2024-11-21 | 2025-03-12 |
 | [Trop Instable](https://open.spotify.com/track/3qglIdcFgSVNKMZw5UzzwR) | [Blaame](https://open.spotify.com/artist/40eNfkD7ZldjqnmTm4fbdl) | [Trop Instable](https://open.spotify.com/album/4jguA0V4PC2mfYrBDXBkrE) | 2:52 | 2026-05-15 | 2026-07-03 |
 | [Trouble](https://open.spotify.com/track/2jWSqM1ZAUWFB0MiWvjsZs) | [Max Baby](https://open.spotify.com/artist/0ofOICmdTikzuZtaYALygA) | [Trouble](https://open.spotify.com/album/4Ra0HAJtws6bcNy6bAh87v) | 3:23 | 2024-10-17 | 2024-11-22 |

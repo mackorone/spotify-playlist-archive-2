@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,859 songs - 12 day 9 hr 27 min
+7,864 songs - 12 day 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1000,6 +1000,7 @@
 | [By Myself](https://open.spotify.com/track/46ut8h95lWrujMmmtM1UBd) | [Sem0r](https://open.spotify.com/artist/5kKtBm0XgwJnI8oudcaupR) | [By Myself](https://open.spotify.com/album/4kktqhDEgs6dlFUAIISf5A) | 2:04 | 2022-02-14 | 2022-07-22 |
 | [By The Oak Tree](https://open.spotify.com/track/4U0qDxrvFt41T3XbXuPRbQ) | [Featherz](https://open.spotify.com/artist/0V8uf5xKaWMGDwIcxOFYPK) | [By The Oak Tree](https://open.spotify.com/album/2peDPKd9eYsrKGCpHgCk0G) | 2:58 | 2020-11-05 | 2021-10-20 |
 | [By the Sea](https://open.spotify.com/track/1Atex0qFqPysiRWifg9eb5) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC) | [By the Sea](https://open.spotify.com/album/7AARSMsomLuyCdOpIdqgfq) | 1:59 | 2024-09-06 | 2025-04-26 |
+| [by the sea](https://open.spotify.com/track/39FltUuMX7sBgt7D05diVP) | [Papi Pier](https://open.spotify.com/artist/12lYoPQA3rNidZJe8zMTwe) | [by the sea](https://open.spotify.com/album/3H6YlphXCX8Uv0XeeZPtNj) | 2:07 | 2026-09-25 |  |
 | [By The Shore](https://open.spotify.com/track/3kOtrXdDW7zkcLP5IrMmDc) | [Sofasound](https://open.spotify.com/artist/3pOOUcLNTiZ8nljgMJDXQ6) | [By The Shore](https://open.spotify.com/album/3OeGitqAurDppmktpmSkBU) | 3:14 | 2019-05-29 | 2020-04-13 |
 | [By This River \- Spotify Singles](https://open.spotify.com/track/3ZuyLRUhtxy3Aw8LOX3nsE) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 3:51 | 2022-05-04 | 2022-08-27 |
 | [Bye](https://open.spotify.com/track/5xa1WF36hjrxH09WmkNWGo) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni) | [Bye](https://open.spotify.com/album/6jJRG2v7YtMm7Gs1tEP1EZ) | 2:15 | 2022-09-02 | 2022-12-09 |
@@ -4461,6 +4462,7 @@
 | [Morning Rays](https://open.spotify.com/track/7D8dbSD6PTu9uwNfzuwoAR) | [J\. Lorenzo](https://open.spotify.com/artist/1znEpSLL4247fcHcMICTgN) | [Morning Rays](https://open.spotify.com/album/2Mme6wsiWEvVzHQktR2Wus) | 1:57 | 2022-11-18 | 2023-10-20 |
 | [Morning Routine](https://open.spotify.com/track/3QkuxqoAIE4wEkQHdvXrcN) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA) | [Morning Routine](https://open.spotify.com/album/00vDQCTn6KopnKGwYtRiG2) | 1:37 | 2023-02-13 | 2023-02-28 |
 | [Morning Routine](https://open.spotify.com/track/5xkFx1r5s899TF4eDlzIq4) | [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Morning Routine](https://open.spotify.com/album/7h1b8l17OW0aKsk4MAKalt) | 1:59 | 2023-04-12 | 2023-10-20 |
+| [morning sight](https://open.spotify.com/track/50qVnHKZRO4er4D82zBuMe) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [morning sight](https://open.spotify.com/album/3dcgn7hN3wd7FT05IGHPDC) | 2:25 | 2026-09-25 |  |
 | [morning skies](https://open.spotify.com/track/5rmzsbaHnYzLxtLmjVbHCB) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [morning skies](https://open.spotify.com/album/7flqKXQE1SrVabUY3V7xxp) | 2:08 | 2025-06-30 | 2026-01-31 |
 | [Morning Stretch](https://open.spotify.com/track/4BfOkMlyoev0VEN5ClXMby) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [As The Sun Rises](https://open.spotify.com/album/4OGfkftDPq4gOqtKCf1G2y) | 2:24 | 2022-04-15 | 2022-10-14 |
 | [Morning Sunset](https://open.spotify.com/track/1e4qDnDBNt93bnfJgVw0LA) | [Ours Samplus](https://open.spotify.com/artist/0XtVN1QaB7vYRpw4qEIRt0), [Mounika.](https://open.spotify.com/artist/2FdGoGN8SKxgxhUlP9aMDO) | [Bepolar](https://open.spotify.com/album/2f7BrlX5rJZrmz0uPw3mSU) | 2:55 | 2023-05-18 | 2023-07-07 |
@@ -4780,6 +4782,7 @@
 | [Normal Day](https://open.spotify.com/track/5nntPu5WRXxckE0CnWU5gF) | [Funky Fella](https://open.spotify.com/artist/1fbcnomvhK1HKLYFmquYMA), [Joshua Woolf](https://open.spotify.com/artist/7gsouQpb8mmnAurmljtPDK) | [Normal Day](https://open.spotify.com/album/1NWjOAZg42WIxuanNbRvUF) | 2:16 | 2022-07-08 | 2022-10-21 |
 | [North Shore Roadtrip](https://open.spotify.com/track/1XBiRNZvpa4L55OgyQDPkR) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [North Shore Roadtrip](https://open.spotify.com/album/5VvJJ5Ya3LFhWBbGnRcltM) | 1:54 | 2024-02-16 | 2025-06-07 |
 | [North Wing](https://open.spotify.com/track/0epWzoHL7bQh4ER3OWwrEe) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [North Wing](https://open.spotify.com/album/3DSMJrhxMK1iPHOAxfyFwk) | 2:34 | 2020-02-10 | 2021-08-28 |
+| [Northbound](https://open.spotify.com/track/4dzyjuI8PevQHhVJsgRfDb) | [EmptyAtomic](https://open.spotify.com/artist/4rRzjnxPTlenw1v7kOGRC2) | [Northbound](https://open.spotify.com/album/711zJ9xLQAURfGg2yLUQ93) | 2:13 | 2026-09-25 |  |
 | [Northern Lights](https://open.spotify.com/track/5ie0eCg6MnIAXVyqg8VGGy) | [HawkOne](https://open.spotify.com/artist/7Dlqz8agsXxLV5fwDPT65Y), [okwow](https://open.spotify.com/artist/1Gx2S5p5nWuMKhPq3k2kCq) | [Northern Lights](https://open.spotify.com/album/7fuQgnBnwhQOPUjkJtWUCX) | 2:00 | 2022-08-19 | 2022-11-25 |
 | [Noru](https://open.spotify.com/track/6KRQso2wzi3mz8EOqK4Urd) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Noru](https://open.spotify.com/album/0rIJZrLVEWozfhW0zmbcO6) | 2:01 | 2026-03-13 |  |
 | [Nos Usamos](https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Nos Usamos](https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND) | 4:29 | 2021-01-16 | 2022-03-21 |
@@ -5242,6 +5245,7 @@
 | [Pine Leaves.](https://open.spotify.com/track/7CCkeTnElxf19T7XRQ5zXh) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Solitude.](https://open.spotify.com/album/2LmtQ9lQwaV9D1xRUL80fG) | 1:30 | 2019-06-22 | 2020-01-04 |
 | [Pineapple Buddies](https://open.spotify.com/track/0mj2sBzTr6l1klNonBbLyG) | [Breakfast For Brunch](https://open.spotify.com/artist/4qLyv8RotSOSjWze2rJD7O) | [Pineapple Buddies](https://open.spotify.com/album/57JWCjra4VebstviuIJ6Ne) | 1:58 | 2023-09-29 | 2024-03-08 |
 | [Pineapple Jam](https://open.spotify.com/track/3jC14t5vOM1YQCsPdf2ZKd) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Bluewerks Vol\. 1: Up Down Left Right](https://open.spotify.com/album/3rF38iEMLEfEGQcS1Bb2Y5) | 3:06 | 2021-03-06 | 2022-01-14 |
+| [Pinecones](https://open.spotify.com/track/35eYrc1Umeb5K9vq2dp2Nu) | [TimberRidge](https://open.spotify.com/artist/0Dhp5LBunI0YQAkPwshY0k) | [Pinecones](https://open.spotify.com/album/09PnANUPmfAOEOp4UHpUIW) | 2:23 | 2026-09-25 |  |
 | [Ping Pong](https://open.spotify.com/track/6sN04ks197cocPeD50jaUY) | [Lovers Hifi](https://open.spotify.com/artist/6N2rWeJGrU9be5JfLaaT6z) | [Ping Pong](https://open.spotify.com/album/3yEW85Om8Pu4OofxjNiDlu) | 2:20 | 2023-08-25 | 2023-09-16 |
 | [Pink](https://open.spotify.com/track/6RhodMmbSobhEnz195osWL) | [parrow](https://open.spotify.com/artist/4F2fKPyz3qE4HRlmT2avKI) | [Pink](https://open.spotify.com/album/7oOB0DclNP1X1RlB6sAg9H) | 2:06 | 2025-05-23 | 2025-07-12 |
 | [Pink Crickets](https://open.spotify.com/track/6CupNOQJGQXRSqm95Lc5cH) | [Injustice](https://open.spotify.com/artist/5UOyn9e7iqrO4mcm4n7PDO) | [Pink Crickets](https://open.spotify.com/album/1MZRPx1xsi8zUw0wU4UWjP) | 2:01 | 2023-01-06 | 2023-11-11 |
@@ -6894,6 +6898,7 @@
 | [The Realest](https://open.spotify.com/track/3PSJtsmUpV4Zk6ZPLJmmaI) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Realest](https://open.spotify.com/album/6G42Qb7HVcHAwRQDWvt0Iq) | 2:46 | 2023-02-13 | 2023-10-13 |
 | [The Realest](https://open.spotify.com/track/26vWmDXFUQilc5FtUMIgN7) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0), [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [The Realest](https://open.spotify.com/album/7mQn9XWfeffVvBFzfGrlA8) | 2:05 | 2024-12-06 | 2025-06-07 |
 | [The Red Line](https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [The Red Line](https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w) | 2:38 | 2022-01-21 | 2022-07-16 |
+| [The Return](https://open.spotify.com/track/2HD94Pq4TL2ITkusTcErmu) | [Mark Rich](https://open.spotify.com/artist/0GrYGtQAFpelrSk5bBQ7Dg) | [The Return](https://open.spotify.com/album/5aM3M2vg5lnw5BVkEaT43n) | 2:08 | 2026-09-25 |  |
 | [The Riot](https://open.spotify.com/track/3l7x2uqzhDe6VcSW1IIV3R) | [Teknicolores](https://open.spotify.com/artist/1xXraGRML6j3iypdaZDvQk) | [The Riot](https://open.spotify.com/album/40avBoYjFO8PbcxTaW8DUs) | 2:10 | 2022-12-09 | 2023-09-16 |
 | [The Road Continues](https://open.spotify.com/track/2ZVUf16teQZ6Np8SZPxHo1) | [éurdún](https://open.spotify.com/artist/1JRioB3bu3XOIosyPBiVma) | [The Road Continues](https://open.spotify.com/album/2NfFrVM0MC8u9ssxryXOxx) | 1:47 | 2022-11-11 | 2023-11-11 |
 | [The Sauce](https://open.spotify.com/track/0PIHjdQss2Do1UG2ubmVs8) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [The Sauce](https://open.spotify.com/album/7zDpGxZC4j2UlflqNDapC7) | 2:00 | 2024-08-23 | 2025-05-24 |

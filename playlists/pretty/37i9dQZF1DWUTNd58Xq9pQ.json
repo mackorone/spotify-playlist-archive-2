@@ -1,6 +1,6 @@
 {
   "description": "Sign up for False Idols at Drumsheds <a href=\"https://register.broadwicklive.com/false-idols-london?ref=dsweb\">here</a>",
-  "num_followers": 1841,
+  "num_followers": 1842,
   "original_name": "False Idols",
   "owner": {
     "name": "Spotify",
@@ -583,18 +583,22 @@
     {
       "added_at": "2026-08-13 11:11:48",
       "album": {
-        "name": "Perfect Picture",
-        "url": "https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P"
+        "name": "The Dark, The Light",
+        "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
       },
       "artists": [
         {
-          "name": "Hannah Diamond",
-          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
+          "name": "Bozart",
+          "url": "https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI"
+        },
+        {
+          "name": "Jen Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
         }
       ],
-      "duration_ms": 214493,
-      "name": "Affirmations",
-      "url": "https://open.spotify.com/track/6kTxmVtwFSqOLatUYH57FH"
+      "duration_ms": 234480,
+      "name": "The Dark, The Light (Edit)",
+      "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"
     },
     {
       "added_at": "2026-08-13 11:11:48",
@@ -615,22 +619,18 @@
     {
       "added_at": "2026-08-13 11:11:48",
       "album": {
-        "name": "The Dark, The Light",
-        "url": "https://open.spotify.com/album/5ZfJiJQqkWCRA61daHr4b5"
+        "name": "Perfect Picture",
+        "url": "https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P"
       },
       "artists": [
         {
-          "name": "Bozart",
-          "url": "https://open.spotify.com/artist/0P9fjhNfuSTdiwuEo1MxqI"
-        },
-        {
-          "name": "Jen Cardini",
-          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
+          "name": "Hannah Diamond",
+          "url": "https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU"
         }
       ],
-      "duration_ms": 234480,
-      "name": "The Dark, The Light (Edit)",
-      "url": "https://open.spotify.com/track/0lBXFOrDC2JlIPp6soVYpR"
+      "duration_ms": 214493,
+      "name": "Affirmations",
+      "url": "https://open.spotify.com/track/6kTxmVtwFSqOLatUYH57FH"
     },
     {
       "added_at": "2026-08-13 11:11:48",
@@ -891,18 +891,22 @@
     {
       "added_at": "2026-08-13 11:11:48",
       "album": {
-        "name": "Don't Bother Me EP",
-        "url": "https://open.spotify.com/album/5il50KYizwMVqyiiVwJrFE"
+        "name": "Brat/Nasty",
+        "url": "https://open.spotify.com/album/19gN9RaefCtvZoGUZc8YLC"
       },
       "artists": [
         {
-          "name": "SYREETA",
-          "url": "https://open.spotify.com/artist/6NLeKpbb77Bgp6hPZjf6KJ"
+          "name": "J Wax",
+          "url": "https://open.spotify.com/artist/32UMn8JWwIcnJp5P7G61UQ"
+        },
+        {
+          "name": "LN",
+          "url": "https://open.spotify.com/artist/7G6Tv0i12NplnOB2nbwiAJ"
         }
       ],
-      "duration_ms": 210822,
-      "name": "Don't Bother Me",
-      "url": "https://open.spotify.com/track/7sU97fZkuTXnQsv4qkUZIJ"
+      "duration_ms": 152659,
+      "name": "Brat",
+      "url": "https://open.spotify.com/track/0NVnlAuLfKeOxK0sxvJFKI"
     }
   ],
   "unique_name": "False Idols",

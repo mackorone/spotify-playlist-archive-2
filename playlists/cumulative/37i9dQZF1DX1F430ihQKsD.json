@@ -1657,6 +1657,24 @@
     },
     {
       "album": {
+        "name": "benny and joon",
+        "url": "https://open.spotify.com/album/52lTsn593Pm7mdWFCWLJU1"
+      },
+      "artists": [
+        {
+          "name": "House Mouse",
+          "url": "https://open.spotify.com/artist/4ZK6TmUwHiUmytmxalwarx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141074,
+      "name": "benny and joon",
+      "url": "https://open.spotify.com/track/3LCWww9Blfk05umTHo1YwU"
+    },
+    {
+      "album": {
         "name": "Bermudes",
         "url": "https://open.spotify.com/album/1PQ2uxec0Z8Ay19WeAZ98c"
       },
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 201882,
       "name": "Blame",
       "url": "https://open.spotify.com/track/7IQWsorg1GCpQIqDeHKOHb"
@@ -2580,7 +2598,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 189090,
       "name": "CASTLE WALLS",
       "url": "https://open.spotify.com/track/2THUiEvUWbVl71pqdsubSS"
@@ -2970,6 +2988,24 @@
       "duration_ms": 257333,
       "name": "Ciel",
       "url": "https://open.spotify.com/track/3NcikFH886J3WbrdG4LNff"
+    },
+    {
+      "album": {
+        "name": "Cigarette",
+        "url": "https://open.spotify.com/album/5fieXMmX2lg4sM0kNs2l9B"
+      },
+      "artists": [
+        {
+          "name": "Alex Cody",
+          "url": "https://open.spotify.com/artist/2nW0p4cWUvmo5rYJYW7yLP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200361,
+      "name": "Cigarette",
+      "url": "https://open.spotify.com/track/2JHg7JjuMhpJb533lMODpb"
     },
     {
       "album": {
@@ -3440,7 +3476,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 205216,
       "name": "copycat",
       "url": "https://open.spotify.com/track/4Qa6CYV025QuVetFPDdLWH"
@@ -3694,7 +3730,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 194215,
       "name": "Cut Me Loose",
       "url": "https://open.spotify.com/track/4ibXJLkmjowEgwUdZNRz5H"
@@ -3908,7 +3944,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 239249,
       "name": "Dans une autre vie",
       "url": "https://open.spotify.com/track/1VJdtTZWeTouSi3y6ik8zR"
@@ -4476,7 +4512,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 183275,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/3ii39q3PlsdGcL2QAxc2pe"
@@ -5872,7 +5908,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 148000,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4Hv6YUxq4IsUiJhZPpNdNl"
@@ -7510,7 +7546,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 192466,
       "name": "If Time \u201926",
       "url": "https://open.spotify.com/track/4akzkJlxy9FDpa5axng9CE"
@@ -7926,7 +7962,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 168333,
       "name": "J'esp\u00e8re",
       "url": "https://open.spotify.com/track/4jIDz5i4LhitudAuJAwLqM"
@@ -8548,7 +8584,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 171939,
       "name": "Kicking & screaming",
       "url": "https://open.spotify.com/track/5ydb6mhv4W8e6mdWte91z9"
@@ -10484,7 +10520,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 126000,
       "name": "maybe i think",
       "url": "https://open.spotify.com/track/6sslSA1MP4zJS1RO2wemux"
@@ -11558,7 +11594,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 203360,
       "name": "Nosebleeds",
       "url": "https://open.spotify.com/track/7EwUOa9eqaDRiEkPgOh6bf"
@@ -12023,6 +12059,24 @@
     },
     {
       "album": {
+        "name": "On reviendra de loin",
+        "url": "https://open.spotify.com/album/6DNN7rQ7w4OXxdT158qSs9"
+      },
+      "artists": [
+        {
+          "name": "Phil Murray",
+          "url": "https://open.spotify.com/artist/4esf0eEKQfSIStYwJh5tCN"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185967,
+      "name": "On reviendra de loin",
+      "url": "https://open.spotify.com/track/6b4vbLKLSXb5mqIyI38GEg"
+    },
+    {
+      "album": {
         "name": "On s'aime jusqu'\u00e0 quand ?",
         "url": "https://open.spotify.com/album/7bP8Fs0pt3T60PFhjcYLYF"
       },
@@ -12453,6 +12507,24 @@
     },
     {
       "album": {
+        "name": "Parapluies",
+        "url": "https://open.spotify.com/album/6VQkI306pBFftOR1Xepaih"
+      },
+      "artists": [
+        {
+          "name": "Claudie L\u00e9tourneau",
+          "url": "https://open.spotify.com/artist/5aK8Edh7xb8bqrg1WSlVfS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172404,
+      "name": "Parapluies",
+      "url": "https://open.spotify.com/track/0WedARz5eioe0n7aobXXlp"
+    },
+    {
+      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/7gG5mPrZPcu6TgIZcTxMpy"
       },
@@ -12749,6 +12821,24 @@
     },
     {
       "album": {
+        "name": "pauvre pomme",
+        "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237253,
+      "name": "pauvre pomme",
+      "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
+    },
+    {
+      "album": {
         "name": "Sisyphe",
         "url": "https://open.spotify.com/album/2H6oiwdOZTioAvQNgTCjMu"
       },
@@ -12760,7 +12850,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 168001,
       "name": "Peau",
       "url": "https://open.spotify.com/track/1CctrY51mx67vQcKt1chKx"
@@ -12930,7 +13020,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 139354,
       "name": "Peur du soleil",
       "url": "https://open.spotify.com/track/0jMsGHWU3ZIR9lNrBeBvxy"
@@ -13472,7 +13562,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 246906,
       "name": "Present Tense",
       "url": "https://open.spotify.com/track/0CLbaTUZPfyMFTsnFx8bSI"
@@ -13778,7 +13868,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 262320,
       "name": "quand tu veux",
       "url": "https://open.spotify.com/track/3mhCBp2WRYj7c08o3wDfbO"
@@ -13872,7 +13962,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 190808,
       "name": "Rat Race",
       "url": "https://open.spotify.com/track/04rWIbi5Xi1oTVMmqDsiOJ"
@@ -14372,7 +14462,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 190769,
       "name": "RUBY",
       "url": "https://open.spotify.com/track/3wF8uEBWN5ffZCqUa9vJ0T"
@@ -14528,7 +14618,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 253710,
       "name": "r\u00eaves en hd",
       "url": "https://open.spotify.com/track/0YSTWkVtb5OBefIZSt5Xc5"
@@ -14878,7 +14968,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 218000,
       "name": "Seule",
       "url": "https://open.spotify.com/track/3rpcw6ZKj1XwQVZqHngFTc"
@@ -15802,7 +15892,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 127747,
       "name": "Stranger, ik u",
       "url": "https://open.spotify.com/track/4UiRAVdWqKoFsytUqw2wtq"
@@ -16268,7 +16358,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 225801,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/38k3wiIfJJoTaFtdXgMco3"
@@ -16326,7 +16416,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 248586,
       "name": "Tarot",
       "url": "https://open.spotify.com/track/1PNaCwrKIBqjaK5FR2NnUJ"
@@ -16888,7 +16978,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 207346,
       "name": "Tough",
       "url": "https://open.spotify.com/track/29KCxeyJ8Fey6UrP1tSRYQ"
@@ -17386,7 +17476,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 210306,
       "name": "Un Deux Trois",
       "url": "https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe"
@@ -17986,7 +18076,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 184826,
       "name": "we were fire",
       "url": "https://open.spotify.com/track/3rhRmWRFtvZy7TjWd8CIqG"
@@ -18244,7 +18334,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 172500,
       "name": "Win of the Century",
       "url": "https://open.spotify.com/track/6uL1E5qg1PxEAzxBODCxPh"
@@ -18280,7 +18370,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 222154,
       "name": "Without You",
       "url": "https://open.spotify.com/track/2wH6RL4aZ1b1CDh03zqSoF"
@@ -18770,7 +18860,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 327446,
       "name": "\u00c9t\u00e9 \u00e0 Montr\u00e9al",
       "url": "https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe"

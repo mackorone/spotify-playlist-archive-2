@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The soulful tunes to ease you into your day. Cover: Eric Bellinger",
+  "description": "The soulful tunes to ease you into your day. Cover: Tank",
   "name": "Soul Coffee",
   "tracks": [
     {
@@ -482,6 +482,28 @@
       "duration_ms": 180095,
       "name": "All About You",
       "url": "https://open.spotify.com/track/2uddLj27GIDBIdwRuIomE4"
+    },
+    {
+      "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        },
+        {
+          "name": "Lydia Kitto",
+          "url": "https://open.spotify.com/artist/7uYscr8hQYNxhyyvJ4m2PA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242609,
+      "name": "All Day, All Night (feat. Lydia Kitto)",
+      "url": "https://open.spotify.com/track/3bzPIGOvMnnePP7GzZrwF2"
     },
     {
       "album": {
@@ -3054,7 +3076,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 218998,
       "name": "Come Get My Love",
       "url": "https://open.spotify.com/track/2XCcvfgiM3PtKWenEpCVEH"
@@ -3192,10 +3214,28 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 164658,
       "name": "Control",
       "url": "https://open.spotify.com/track/0MfDffWuP59FSZmCsbU8w7"
+    },
+    {
+      "album": {
+        "name": "EXPERIENCE",
+        "url": "https://open.spotify.com/album/7GpQrbTe8iDmCiksP9wztt"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164658,
+      "name": "CONTROL",
+      "url": "https://open.spotify.com/track/4GPkGrK5i46M8cUzdUmTsw"
     },
     {
       "album": {
@@ -3946,7 +3986,7 @@
       ],
       "date_added": "2026-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 162762,
       "name": "Don't Play",
       "url": "https://open.spotify.com/track/4rZkgApbir8f7x9bTyjVta"
@@ -5016,7 +5056,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 177688,
       "name": "Float",
       "url": "https://open.spotify.com/track/2vpTOT7QuPXTDnf9NpysUO"
@@ -5994,6 +6034,24 @@
       "duration_ms": 152405,
       "name": "God Herself",
       "url": "https://open.spotify.com/track/10bH3xbZFCRWpOLecfKpLe"
+    },
+    {
+      "album": {
+        "name": "God of You",
+        "url": "https://open.spotify.com/album/7MnJtgiY24chh2SztvAU4l"
+      },
+      "artists": [
+        {
+          "name": "Danielle Ponder",
+          "url": "https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220428,
+      "name": "God of You",
+      "url": "https://open.spotify.com/track/6O9V8wvuDf5JiniQ6YGov5"
     },
     {
       "album": {
@@ -8656,6 +8714,24 @@
       "duration_ms": 246334,
       "name": "Joyful Noise - The Colleagues remix",
       "url": "https://open.spotify.com/track/3UBF6emB78JFBl1cl3tgan"
+    },
+    {
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/3u406K3rAQbUMUcMSwBYlZ"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/64WK0FPVYNJkFsRFICD4kA"
     },
     {
       "album": {
@@ -11706,7 +11782,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 202732,
       "name": "Nature's Perfume",
       "url": "https://open.spotify.com/track/1XiFKTspnnZQQUG8XNiBsB"
@@ -12561,6 +12637,28 @@
     },
     {
       "album": {
+        "name": "One Love (Camp Mix)",
+        "url": "https://open.spotify.com/album/1epcTGOqJr6VJFvgFoIASx"
+      },
+      "artists": [
+        {
+          "name": "Kem",
+          "url": "https://open.spotify.com/artist/1f2e3RQf7LHOum8NU61q0R"
+        },
+        {
+          "name": "Camper",
+          "url": "https://open.spotify.com/artist/6LRKiJQwBb8A9iukQsyglp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219110,
+      "name": "One Love - Camp Mix",
+      "url": "https://open.spotify.com/track/1Kee1hxEDNPC7kVibHIJdJ"
+    },
+    {
+      "album": {
         "name": "One More Kiss",
         "url": "https://open.spotify.com/album/1qufygTBLF7OnpyRKoj87R"
       },
@@ -13241,6 +13339,28 @@
     },
     {
       "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/5wsKCPX3VqZKXzvVUaVbzZ"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186421,
+      "name": "Pieces (+ Lucky Daye)",
+      "url": "https://open.spotify.com/track/71xigYhF7fHi2GEiwwMeo6"
+    },
+    {
+      "album": {
         "name": "Pineapple Cognac",
         "url": "https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM"
       },
@@ -13588,7 +13708,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 228290,
       "name": "Protect My Heart",
       "url": "https://open.spotify.com/track/5ygX4Sq4PM9c8kaPJB660f"
@@ -17616,7 +17736,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 225613,
       "name": "Twisting (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj"
@@ -18452,10 +18572,28 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 178779,
       "name": "Westside",
       "url": "https://open.spotify.com/track/7GqtjPXE2gAEFgKLZ5436I"
+    },
+    {
+      "album": {
+        "name": "Westside (Stripped)",
+        "url": "https://open.spotify.com/album/7E9WmxXXdPTXKWxOjyYjNL"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198352,
+      "name": "Westside - Stripped",
+      "url": "https://open.spotify.com/track/72AbuBAmAw25LzCJvBbFbi"
     },
     {
       "album": {
@@ -19354,6 +19492,24 @@
       "duration_ms": 268946,
       "name": "You in My Face",
       "url": "https://open.spotify.com/track/7I8tpyYYwPvSdGL3lu1VAv"
+    },
+    {
+      "album": {
+        "name": "EXPERIENCE",
+        "url": "https://open.spotify.com/album/7GpQrbTe8iDmCiksP9wztt"
+      },
+      "artists": [
+        {
+          "name": "Tank",
+          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252000,
+      "name": "YOU KNOW",
+      "url": "https://open.spotify.com/track/3tzrITns22GkZATGo4GvxU"
     },
     {
       "album": {

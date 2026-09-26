@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRH3BidpSgn.md) - [plain]
 
 > <a href="spotify:artist:0ygIgsjUzKivFgxgjQ9iV9">Jacques Greene</a>'s favourite tracks\. Updated regularly\. Curated by Jacques Greene\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727 likes - 55 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 740 likes - 55 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRH3BidpSgn.md) - [plain]
 | 54 | [Adrenalin](https://open.spotify.com/track/3RHtJJIzbFx3uSyIFcnLDY) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Adrenalin](https://open.spotify.com/album/5aaLq1btwptG8KNCKCElwl) | 8:12 |
 | 55 | [Crystal \- Digweed & Muir Bedrock Mix](https://open.spotify.com/track/358ieIVIU59VvXe5obotgE) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3), [John Digweed](https://open.spotify.com/artist/3xnDktxhudJR2Wv3HZDQ9W), [Nick Muir](https://open.spotify.com/artist/2Z24cX1mJuD751l4CusqYp) | [Digging In The Crates: 2001 Vol\. 1](https://open.spotify.com/album/5JP9saepV3nWZubKdSSCEI) | 12:54 |
 
-Snapshot ID: `AAAAANxJ/OZ2yG3TAceRjDkG0N6GHutk`
+Snapshot ID: `AAAAACM1HkGxmCmlUbw5Hg11HJ5Jf8xt`

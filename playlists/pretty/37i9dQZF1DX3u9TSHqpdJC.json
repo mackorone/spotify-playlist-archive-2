@@ -1,12 +1,12 @@
 {
   "description": "The best pop songs from new, independent artists as chosen by our editors.  Cover: googly eyes. Artwork by Paola Saliby",
-  "num_followers": 243448,
+  "num_followers": 243482,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABMK08xTJh63lG1pQrPnXYpzD9yc",
+  "snapshot_id": "AAAAAJ/OmxsXLoR3p1JIA8v5gbxE/8Bw",
   "tracks": [
     {
       "added_at": "2026-09-23 04:00:18",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/2V3vjSqRbYfhPkUrczYnxo"
     },
     {
-      "added_at": "2026-09-23 06:06:21",
+      "added_at": "2026-09-25 04:03:25",
       "album": {
-        "name": "Girls Like Me Don't Change",
-        "url": "https://open.spotify.com/album/6L7P4H98Nagqf6huajQCjC"
+        "name": "The Box",
+        "url": "https://open.spotify.com/album/2vjDAKFAnCrEjteyOtWI63"
       },
       "artists": [
         {
-          "name": "Syamali",
-          "url": "https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4"
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
         }
       ],
-      "duration_ms": 194451,
-      "name": "Girls Like Me Don't Change",
-      "url": "https://open.spotify.com/track/3I3WLLudgxREJVzKsJWfu3"
+      "duration_ms": 225383,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/072EYLKY3RnrcSssCX55gq"
     },
     {
       "added_at": "2026-09-23 04:00:18",
@@ -119,6 +119,38 @@
       "duration_ms": 180471,
       "name": "animal",
       "url": "https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe"
+    },
+    {
+      "added_at": "2026-09-25 04:03:25",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/1FPTrSxtlfZvTcGE7n23DX"
+      },
+      "artists": [
+        {
+          "name": "Alya",
+          "url": "https://open.spotify.com/artist/6xcJFzdGwkQBTtA59Bkckg"
+        }
+      ],
+      "duration_ms": 169907,
+      "name": "Lemonade",
+      "url": "https://open.spotify.com/track/3Cof51IjtIRLXf9kE2rJWf"
+    },
+    {
+      "added_at": "2026-09-09 04:00:32",
+      "album": {
+        "name": "Ghost Train",
+        "url": "https://open.spotify.com/album/1PGZVCzqQwZOzf8X5tc02G"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hu",
+          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
+        }
+      ],
+      "duration_ms": 193189,
+      "name": "Ghost Train",
+      "url": "https://open.spotify.com/track/56ouZOgAkOMXprl1m42mqj"
     },
     {
       "added_at": "2026-09-23 04:00:18",
@@ -151,22 +183,6 @@
       "duration_ms": 192130,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1v6r9yWdxSDst5EAeIdF4l"
-    },
-    {
-      "added_at": "2026-09-09 04:00:32",
-      "album": {
-        "name": "Ghost Train",
-        "url": "https://open.spotify.com/album/1PGZVCzqQwZOzf8X5tc02G"
-      },
-      "artists": [
-        {
-          "name": "Hannah Hu",
-          "url": "https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl"
-        }
-      ],
-      "duration_ms": 193189,
-      "name": "Ghost Train",
-      "url": "https://open.spotify.com/track/56ouZOgAkOMXprl1m42mqj"
     },
     {
       "added_at": "2026-09-16 15:55:28",
@@ -599,22 +615,6 @@
       "duration_ms": 152014,
       "name": "aries baby",
       "url": "https://open.spotify.com/track/6j6NzyRcYOQBHl4ZXNEYyP"
-    },
-    {
-      "added_at": "2026-08-12 04:00:21",
-      "album": {
-        "name": "Sadder Days",
-        "url": "https://open.spotify.com/album/0O12fFnmOEBZ8HzcJV1PhZ"
-      },
-      "artists": [
-        {
-          "name": "Ruby Plume",
-          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Sadder Days",
-      "url": "https://open.spotify.com/track/6D0DwLJ40RzSyhRuuR4fSX"
     },
     {
       "added_at": "2026-08-19 04:00:32",

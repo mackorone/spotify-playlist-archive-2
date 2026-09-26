@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Luciano Pereyra, Uriel Lozano & Un Poco De Ruido.
 
-581 songs - 1 day 8 hr 41 min
+582 songs - 1 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -286,10 +286,11 @@
 | [MALA](https://open.spotify.com/track/5zmOqNbUyYFRKzmwFauNgj) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw), [Cacho Deicas](https://open.spotify.com/artist/0rekO119G0yO5gjzM4nxZ2) | [MALA](https://open.spotify.com/album/1ntZkQLCuUz5G5wlUPO8ar) | 3:17 | 2026-04-23 | 2026-08-24 |
 | [Maldita flor](https://open.spotify.com/track/72Oc0OIk1j0UfMkq9zV79L) | [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR), [El Suppe'r De Oro](https://open.spotify.com/artist/5YcTv2UEkzSdBgDUlCHSya) | [Maldita Flor](https://open.spotify.com/album/02pZs137dI76WI0aNsHMz6) | 3:02 | 2023-12-08 | 2024-02-24 |
 | [Maldita Traidora](https://open.spotify.com/track/7lqkZf6ACHHZN8OMYkwJKA) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Maldita Traidora](https://open.spotify.com/album/1z8zIqVzGUC6SbO2RpTMXi) | 4:06 | 2022-07-15 | 2022-08-13 |
-| [Maldito Amor](https://open.spotify.com/track/5NlBak3CleM03JgyFHcHET) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Maldito Amor](https://open.spotify.com/album/4GCmuw2jffd56b9EHXGkSn) | 3:13 | 2024-05-03 |  |
+| [Maldito Amor](https://open.spotify.com/track/5NlBak3CleM03JgyFHcHET) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Maldito Amor](https://open.spotify.com/album/4GCmuw2jffd56b9EHXGkSn) | 3:13 | 2024-05-03 | 2026-09-26 |
 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 | 2022-01-14 |  |
 | [Me Duele Perderte](https://open.spotify.com/track/6s4GOG6jGfsyUOOKeelV0K) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Grupo Red](https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz) | [Me Duele Perderte](https://open.spotify.com/album/3BqsWVIzgYY6zpj9MNoyWw) | 3:48 | 2024-05-24 | 2024-06-08 |
 | [Me Enamore De Mi Amante / Que Te Parece](https://open.spotify.com/track/6W2oRrkhKEAt4JTVIuBK3Y) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl), [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Cumbia A\-¡Cuatica!](https://open.spotify.com/album/7LkUzvVTDRfAcn616T9rky) | 4:24 | 2025-07-25 | 2025-09-13 |
+| [Me Enamoré De Ti \- Versión Cumbia](https://open.spotify.com/track/4zg37WukKgzAo0Gq7e6do4) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri) | [Ahora Las Bailamos](https://open.spotify.com/album/6xL8EC59Tm7su6NXy7s4Bs) | 3:03 | 2026-09-25 |  |
 | [Me Encanta](https://open.spotify.com/track/7asgcWpGtv92TiMZUYNWVt) | [Matías Valdez](https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID), [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Me Encanta](https://open.spotify.com/album/08orK7pUWMWTpdOK1b3AOi) | 3:31 | 2022-01-14 |  |
 | [Me Equivoqué Otra Vez](https://open.spotify.com/track/2A4e9DgiXeal1EIJa4xAgk) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Me Equivoqué Otra Vez](https://open.spotify.com/album/5s8s1HOQNJ1Fl9aDLkMQpy) | 2:55 | 2023-12-22 |  |
 | [Me Estoy Muriendo](https://open.spotify.com/track/2wgqb1CzjylxUSDHnaMSi1) | [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID) | [Amor, Familia y Respeto](https://open.spotify.com/album/434Iw6Hpknzb3altfTyF71) | 3:54 | 2024-08-30 | 2024-09-06 |

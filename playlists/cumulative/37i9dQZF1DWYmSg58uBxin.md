@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-338 songs - 15 hr 18 min
+339 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Desire](https://open.spotify.com/track/5cWa71pMRmDodJd6UUznzW) | [Ulf Janson](https://open.spotify.com/artist/6EY0o8bLVxMJlgpipFvfhK) | [Desire](https://open.spotify.com/album/5IpykcNabqsUdE24A5oCJ4) | 2:24 | 2020-10-20\* | 2023-09-09 |
 | [Distant Echo](https://open.spotify.com/track/5Q5pgBHtLlpj2Us2DctnEL) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Distant Echo](https://open.spotify.com/album/7fFn2jrNGSSr8HFXHXzV8y) | 3:16 | 2020-10-20\* | 2021-11-17 |
 | [Divinity](https://open.spotify.com/track/2IPARS6gREjiJ8DMO0zRte) | [Echo River](https://open.spotify.com/artist/1ytRxYe87vfftgDbZ9kGw8) | [Divinity](https://open.spotify.com/album/0I8qM3zwamIBPBcqt08e5J) | 3:56 | 2020-10-20\* | 2023-09-09 |
-| [Dormendi](https://open.spotify.com/track/2fhJokmG2tWLEIspaOyWzL) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Dormendi](https://open.spotify.com/album/1IKp4YnhKuAaIZDAbzkCc9) | 2:26 | 2023-09-08 |  |
+| [Dormendi](https://open.spotify.com/track/2fhJokmG2tWLEIspaOyWzL) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Dormendi](https://open.spotify.com/album/1IKp4YnhKuAaIZDAbzkCc9) | 2:26 | 2023-09-08 | 2026-09-26 |
 | [Echoes \- Stripped](https://open.spotify.com/track/0NaLeSHFWST2SVryqm1Gqn) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Echoes](https://open.spotify.com/album/3NdcsDmGYs9Xa3L4D5Re33) | 3:39 | 2020-10-20\* | 2021-11-17 |
 | [Elegi For Cello](https://open.spotify.com/track/7dQKHDJim4QKJ1yBJjJHER) | [Elena Falwell](https://open.spotify.com/artist/6UAIuJD5BiwwPfxdsVDXBh) | [Elegi For Cello](https://open.spotify.com/album/4EzVBLVXTaZSv3mmaj7zKB) | 2:43 | 2020-10-20\* | 2023-09-09 |
 | [Empathy](https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Empathy](https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w) | 2:29 | 2020-10-20\* | 2024-07-30 |
@@ -166,7 +166,7 @@
 | [Le Lac des Buttes](https://open.spotify.com/track/2wSDYbFEls8WYUCLCUvZNJ) | [Nicolas Dupain\-Aignon](https://open.spotify.com/artist/13jahwQWxrUhKBpng3HRQf) | [Lac des Buttes](https://open.spotify.com/album/5f7kNJ30Borz8VHTtsuG32) | 2:13 | 2023-09-26 | 2026-05-23 |
 | [Les Feuilles](https://open.spotify.com/track/7GamvubJKZr56GDh3NvV64) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Les Feuilles](https://open.spotify.com/album/6W1xpVfcNAVKOczSEVmsbN) | 2:18 | 2025-03-05 |  |
 | [Les glaçons qui pendent du toit](https://open.spotify.com/track/3d5DvDVcTHVNVawSpIRaAe) | [Prewitt Massé](https://open.spotify.com/artist/4A2bJABmFzaDnZwBris4yj) | [Les glaçons qui pendent du toit](https://open.spotify.com/album/2nJRovvCNdu90cXOHcU1CK) | 1:44 | 2020-10-20\* | 2023-09-09 |
-| [Let It Be Us](https://open.spotify.com/track/7lV58DNV6rBJ57wyWiPClh) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Let It Be Us](https://open.spotify.com/album/3lI2vFP5irpgNbkg1ikc97) | 2:33 | 2023-09-08 |  |
+| [Let It Be Us](https://open.spotify.com/track/7lV58DNV6rBJ57wyWiPClh) | [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Let It Be Us](https://open.spotify.com/album/3lI2vFP5irpgNbkg1ikc97) | 2:33 | 2023-09-08 | 2026-09-26 |
 | [Letters to the Wind](https://open.spotify.com/track/2xIOGocs3xntXBULxJw5iL) | [Joseph Fina](https://open.spotify.com/artist/5BZjycpMPqgrPbJJq43szv) | [Letters to the Wind](https://open.spotify.com/album/2ao7v1AcoOvv8sEJ3vhncp) | 2:44 | 2025-05-20 | 2026-05-23 |
 | [Liedchen](https://open.spotify.com/track/5Ly26x1z1XshVyBKos1PXw) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Liedchen](https://open.spotify.com/album/195rTFzMloA4cdl0ncy3cU) | 2:35 | 2023-09-08 |  |
 | [Lifeline \- Piano Version](https://open.spotify.com/track/7bm4pv15CYFsBTqbPip9tb) | [Hans Johansen](https://open.spotify.com/artist/6mCxkqJgErnJ1HmseA4qsM) | [Lifeline](https://open.spotify.com/album/4Tpe4sBxpvwyUZjW5VC4GG) | 3:24 | 2020-10-20\* | 2023-09-09 |
@@ -202,6 +202,7 @@
 | [My Son](https://open.spotify.com/track/3wtpKMUkSiZPDRH5vxYLmz) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [My Son](https://open.spotify.com/album/2adunymdxS0IP1zEhYzLXr) | 1:58 | 2022-06-03 | 2023-09-09 |
 | [Naked](https://open.spotify.com/track/45d2JrwB423sR5mC9eI7BM) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Naked](https://open.spotify.com/album/3NQO6Taj5fCknYeSs3aNJc) | 2:55 | 2024-10-08 |  |
 | [Nano](https://open.spotify.com/track/79A5Sj9fMnzbGyWAP80JvQ) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Strangers](https://open.spotify.com/album/66IWot103uNhraOJAxlHXp) | 3:09 | 2023-09-08 | 2025-05-21 |
+| [New Beginnings](https://open.spotify.com/track/2TbTCy0HYEXluXHFHN26FP) | [Rosenkalla](https://open.spotify.com/artist/0MbWSSyQVHyA2HNPHcc1Kz) | [New Beginnings](https://open.spotify.com/album/6Bmou1gwGh1yyVzv7wBuvo) | 2:36 | 2026-09-25 |  |
 | [Night Bird, Night Song](https://open.spotify.com/track/4oKLGQ5RhsIItD2zcOe7l3) | [Camilla Turgot](https://open.spotify.com/artist/4dMzIDrTnlZ42GJiWGxzB2) | [Night Bird, Night Song](https://open.spotify.com/album/7cUVIhZAj4cyjdateENnve) | 2:10 | 2023-09-26 | 2026-05-23 |
 | [Night Fairy Dust](https://open.spotify.com/track/4662qV1YfJM3X9lTjlRcWL) | [Marcel Leblanc](https://open.spotify.com/artist/4pZL5hrGaaGSVfFOCtYxz7) | [Thérapie Acoustique](https://open.spotify.com/album/5XNtYndkZcj7HNUxtOSP6X) | 3:02 | 2020-10-20\* | 2023-09-09 |
 | [Nightfall](https://open.spotify.com/track/00vuLLQm8cgQy3S6KBiIDP) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Dulces Sueños](https://open.spotify.com/album/1QlQTmNJSAroXlf82gRaAA) | 2:57 | 2020-10-20\* | 2021-11-17 |
@@ -336,7 +337,7 @@
 | [Water](https://open.spotify.com/track/15aAIdzt0xxazdV6abyGBC) | [Roger Reuse](https://open.spotify.com/artist/6t5dwOvjZLh3OupwyoT1z4) | [Water](https://open.spotify.com/album/2iqpzaEFsjiuD4HJzu0nJw) | 2:14 | 2020-10-20\* | 2024-09-11 |
 | [Water Lilies](https://open.spotify.com/track/2aYkMhQCtzhfTtUfydibE3) | [Noah Hart](https://open.spotify.com/artist/774mkzUMjSY8lZyRwVJqen) | [Water Lilies](https://open.spotify.com/album/6PcpSQ8kNsSGVyXH0ZY9JJ) | 3:20 | 2023-09-26 |  |
 | [When Day Breaks](https://open.spotify.com/track/3khZkLeb8AAnz86WhmbfXa) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [When Day Breaks](https://open.spotify.com/album/2xgEH5nrfXUE3RIYUQQTuf) | 2:21 | 2024-10-22 |  |
-| [White wings](https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [White wings](https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3) | 2:38 | 2024-11-06 |  |
+| [White wings](https://open.spotify.com/track/3s886lrKl2lG3g0BF7lXCE) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [White wings](https://open.spotify.com/album/3RvRZdW1r1HjySuqAoDLX3) | 2:38 | 2024-11-06 | 2026-09-26 |
 | [Willow](https://open.spotify.com/track/32wkxIedt5jMtJnwTP9p1l) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Willow](https://open.spotify.com/album/5GYYbZtBySsiqBAspjHVPK) | 2:28 | 2024-08-13 | 2025-05-21 |
 | [Winding Trails](https://open.spotify.com/track/5X3hvz25Pyqgtj1jF3HX4V) | [Cara Wolff](https://open.spotify.com/artist/4awzT4TfiIuWgss8saWodD) | [Winding Trails](https://open.spotify.com/album/6pVYhysoA5VGngRzATX4bo) | 2:02 | 2020-10-20\* | 2023-09-09 |
 | [Wkrótce](https://open.spotify.com/track/4Tqc20K1sAMwYogL1wFW0R) | [Zygmunt Czarnecki](https://open.spotify.com/artist/1uKeHKFusnucKrl8BLDoXM) | [Wkrótce](https://open.spotify.com/album/5RYb6RC5zwnM15kJoKKJd7) | 2:14 | 2023-09-08 | 2025-05-21 |

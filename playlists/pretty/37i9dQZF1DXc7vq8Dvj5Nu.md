@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain]
 
 > <a href="spotify:artist:4VZEaqiJm8GOd1pSgjD62y">Skeleten's </a> favourite tracks\. Updated regularly\. Curated by Skeleten\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,292 likes - 93 songs - 8 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,304 likes - 93 songs - 8 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7vq8Dvj5Nu.md) - [plain]
 | 74 | [The Open Path](https://open.spotify.com/track/5vCt2MVrslHNpJU7QXRHAK) | [Solar Quest](https://open.spotify.com/artist/60ExFpR6jHJQf0df0tVDQC) | [Orgship](https://open.spotify.com/album/3FL0uJyrnPrQ7XBvycdiBh) | 9:02 |
 | 75 | [Borders](https://open.spotify.com/track/4hBsy0ztxxWZD2KwEf8gim) | [Marcus Whale](https://open.spotify.com/artist/5nLohk63L8J7ZMnmOt3z44) | [Ecstasy](https://open.spotify.com/album/7dAsE8cCm2lnSXtKt3bLRp) | 4:33 |
 | 76 | [Smiling In Slow Motion](https://open.spotify.com/track/0Rwgnq0LNX6e3kmh633B1t) | [Mike Midnight](https://open.spotify.com/artist/7IMBoHdwI1Z2D14Gni6ehv) | [Angel Hours](https://open.spotify.com/album/5Xl4JUhV7nNDvHWM3oAp2i) | 3:50 |
-| 77 | [The Phoenix \- Steal from the Rich](https://open.spotify.com/track/1O7GqaojfsqiYvNXkxXhMK) | [God Within](https://open.spotify.com/artist/4hKvdWrxUUr7IZCgoQGocx) | [Delusions of Grandeur: B\-Sides](https://open.spotify.com/album/5W9aK7s8Ardc4ATqEUCjs0) | 8:21 |
+| 77 | [The Phoenix \- Steal from the Rich](https://open.spotify.com/track/1O7GqaojfsqiYvNXkxXhMK) | [God Within](https://open.spotify.com/artist/4hKvdWrxUUr7IZCgoQGocx), [Robbie Hardkiss](https://open.spotify.com/artist/5CEyigGlGpOVxeXd0uMFGc) | [Delusions of Grandeur: B\-Sides](https://open.spotify.com/album/5W9aK7s8Ardc4ATqEUCjs0) | 8:21 |
 | 78 | [Ghost Spirits \- Wicked Beat Sound System Remix](https://open.spotify.com/track/3AnGzTZameUe07yEb24DkT) | [Yothu Yindi](https://open.spotify.com/artist/5sHPYevv4ykaH79HIHqBDP), [Wicked Beat Sound System](https://open.spotify.com/artist/5RB16Vyw4jxIWwev3RWDAI) | [The Remixes](https://open.spotify.com/album/1LF7XVaFbcK9qgKwGXYMB6) | 5:04 |
 | 79 | [A Letter from Home \- 2019 remaster](https://open.spotify.com/track/4O4qQ0AfTEPegcbkyDKD57) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [A Strangely Isolated Place](https://open.spotify.com/album/4FhQ1P2yfmyo1axATOCfR9) | 7:04 |
 | 80 | [No Gamet](https://open.spotify.com/track/4fSXAdrJNT1S7WMnWD2POw) | [Yimino](https://open.spotify.com/artist/4ZfR36H0qPMwB77F0bjIyF), [MC Golightly](https://open.spotify.com/artist/4RPev42InmxEbFuln3N56p) | [Autonoe Vora](https://open.spotify.com/album/36cozbmFj6YrBznJyfwW8H) | 6:24 |

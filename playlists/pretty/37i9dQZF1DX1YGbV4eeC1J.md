@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > What is your love language? Say it in Swahili\.  Cover: D Voice
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,322 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,385 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 5 | [Somebody](https://open.spotify.com/track/3CFCxKoA91XYhTh452SAJj) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Somebody](https://open.spotify.com/album/6Lbkqp4MmahYVWmBq6LUWR) | 3:51 |
 | 6 | [Napendwa](https://open.spotify.com/track/2fe7pt46glPPjQFBjriMCz) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ), [Dayoo](https://open.spotify.com/artist/5cao6tIwCnI01KifhRwHnc) | [Napendwa](https://open.spotify.com/album/6d9KJ3UK1Idjud9Hl7A7EC) | 3:09 |
 | 7 | [Yoyo](https://open.spotify.com/track/78AwXtsxAg9TErM4gwNs2k) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Yoyo](https://open.spotify.com/album/68uiH2UHyO8clfkV4HWnzq) | 3:10 |
-| 8 | [Track 2](https://open.spotify.com/track/1b731QaxyB1OfOVzdb88bI) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [KANDA](https://open.spotify.com/album/34KsjXx5WtGnS9v7HsCCxc) | 0:00 |
+| 8 | [Nahisi Kufa](https://open.spotify.com/track/1b731QaxyB1OfOVzdb88bI) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [KANDA](https://open.spotify.com/album/34KsjXx5WtGnS9v7HsCCxc) | 2:41 |
 | 9 | [Bhuju](https://open.spotify.com/track/43anMhnVk6EDjvxu3re25J) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Bhuju](https://open.spotify.com/album/3YeYkTet5Z6gbB66868VcL) | 3:29 |
 | 10 | [Wasiwasi](https://open.spotify.com/track/6APLhvny4lS9NxuJjE5fXf) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Wasiwasi](https://open.spotify.com/album/4A3tkgIoGW190qRfJNzfKg) | 3:00 |
 | 11 | [Njeve](https://open.spotify.com/track/2Wsj8IF7dEBoKKqx0sGqRZ) | [Onyach Pala](https://open.spotify.com/artist/0n6oUcA6fVz1OAGydM9s2U) | [Njeve](https://open.spotify.com/album/0E0crvIU728RRRK5b3821K) | 2:58 |

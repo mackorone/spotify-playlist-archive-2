@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 224967,
+  "num_followers": 224992,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -124,8 +124,8 @@
           "url": "https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 172121,
+      "name": "Come Through",
       "url": "https://open.spotify.com/track/06nuQASic35njbk01mB2KY"
     },
     {
@@ -951,6 +951,22 @@
     {
       "added_at": "2026-09-24 22:00:19",
       "album": {
+        "name": "Wild Geese, Wild Love / Day 2000 Awake",
+        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "duration_ms": 323386,
+      "name": "Wild Geese, Wild Love",
+      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
+    },
+    {
+      "added_at": "2026-09-24 22:00:19",
+      "album": {
         "name": "A Fire Test",
         "url": "https://open.spotify.com/album/2Cd6J0yxphB9eXLTUK2iob"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 195254,
       "name": "A Fire Test",
       "url": "https://open.spotify.com/track/4d3vaJvP6JOwu13rpmRraD"
-    },
-    {
-      "added_at": "2026-09-24 22:00:19",
-      "album": {
-        "name": "Wild Geese, Wild Love / Day 2000 Awake",
-        "url": "https://open.spotify.com/album/66GZtWDeK1hpl8runVWZQB"
-      },
-      "artists": [
-        {
-          "name": "Amanda Bergman",
-          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
-        }
-      ],
-      "duration_ms": 323386,
-      "name": "Wild Geese, Wild Love",
-      "url": "https://open.spotify.com/track/6AKLCejap9zRZ4QDKyrmSR"
     },
     {
       "added_at": "2026-09-24 22:00:19",

@@ -1,12 +1,12 @@
 {
   "description": "playlist spotify free",
-  "num_followers": 287,
+  "num_followers": 288,
   "original_name": "playlist spotify free",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKJytK08N4gYZlt5R+TtBPs6gd5eee",
+  "snapshot_id": "AAAKLl5UOlLrYgH2LkB1MtFArPrJ+BO4",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -2341,22 +2341,6 @@
       "url": "https://open.spotify.com/track/1cBGgatQ4qZI0sZGPNTSPP"
     },
     {
-      "added_at": "2025-10-21 23:18:13",
-      "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/5Y28dauWThEhzg0yaQM4kE"
-      },
-      "artists": [
-        {
-          "name": "Rythmora",
-          "url": "https://open.spotify.com/artist/5P55Xh9Vn9Q4BkvQvKpQK9"
-        }
-      ],
-      "duration_ms": 128519,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/1QgNaCnFjV2iyrklG8e6LT"
-    },
-    {
       "added_at": "2025-10-17 12:34:17",
       "album": {
         "name": "Swords and Planets",
@@ -2499,22 +2483,6 @@
       "duration_ms": 166000,
       "name": "Born to Win",
       "url": "https://open.spotify.com/track/35LTYZw0nxNMXEBaVAbJAa"
-    },
-    {
-      "added_at": "2025-10-04 06:27:17",
-      "album": {
-        "name": "All the Things",
-        "url": "https://open.spotify.com/album/2XOlx9vThppBcZkc8ibcHj"
-      },
-      "artists": [
-        {
-          "name": "The New Travelers",
-          "url": "https://open.spotify.com/artist/7Fm9XDO9ozU9jnLJltTS4m"
-        }
-      ],
-      "duration_ms": 225616,
-      "name": "All the Things",
-      "url": "https://open.spotify.com/track/26S3F36DIvuCxKR5zPQQAN"
     },
     {
       "added_at": "2025-09-29 21:35:36",
@@ -2983,30 +2951,6 @@
       "duration_ms": 211625,
       "name": "Fall",
       "url": "https://open.spotify.com/track/11IWTXz2DUUSJWC91x10gu"
-    },
-    {
-      "added_at": "2025-09-15 07:39:55",
-      "album": {
-        "name": "Without A Trace",
-        "url": "https://open.spotify.com/album/0wA3KikaMRU0YxYnxc6412"
-      },
-      "artists": [
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/3Xggcc3RGfibkEik8o4Izw"
-        },
-        {
-          "name": "Tyler Stephenson",
-          "url": "https://open.spotify.com/artist/6SgDG5SRgdtmua4VJSv7WL"
-        },
-        {
-          "name": "Rose Bailey",
-          "url": "https://open.spotify.com/artist/1qk3iox9Y3SJHDuSKTwieU"
-        }
-      ],
-      "duration_ms": 198913,
-      "name": "Without A Trace",
-      "url": "https://open.spotify.com/track/29In6E8GuX5ZXPJUTKZNCj"
     },
     {
       "added_at": "2025-09-15 07:37:51",
@@ -79399,6 +79343,70 @@
       "duration_ms": 162000,
       "name": "Deep Sea",
       "url": "https://open.spotify.com/track/2kLo2GROhKLzxp46XADbkY"
+    },
+    {
+      "added_at": "2026-09-25 09:27:04",
+      "album": {
+        "name": "The Man From The Future",
+        "url": "https://open.spotify.com/album/6dLHgNSzzSW09uzLRouSyh"
+      },
+      "artists": [
+        {
+          "name": "Bad Profile",
+          "url": "https://open.spotify.com/artist/5c43PH7EfMfeClZuUTqWIr"
+        }
+      ],
+      "duration_ms": 291982,
+      "name": "The Man From The Future",
+      "url": "https://open.spotify.com/track/7p65nQleos3WPKv8QDz874"
+    },
+    {
+      "added_at": "2026-09-25 11:06:36",
+      "album": {
+        "name": "Blender for Dumplings",
+        "url": "https://open.spotify.com/album/2IabEORbcasMjJiwcD60eU"
+      },
+      "artists": [
+        {
+          "name": "Dustlit Sinners",
+          "url": "https://open.spotify.com/artist/74E8wtZ8H4Jv6xQ3eC60f4"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Blender for Dumplings",
+      "url": "https://open.spotify.com/track/2bUCgeUlLA6txjXOmK60KJ"
+    },
+    {
+      "added_at": "2026-09-25 14:02:04",
+      "album": {
+        "name": "Brave the Storm",
+        "url": "https://open.spotify.com/album/6dDQodS2dZ4YM0Um9VFb7s"
+      },
+      "artists": [
+        {
+          "name": "Dark Shadow",
+          "url": "https://open.spotify.com/artist/0u3gMOjFMW2GYVNlZjG09q"
+        }
+      ],
+      "duration_ms": 386183,
+      "name": "Brave the Storm",
+      "url": "https://open.spotify.com/track/6B76d3Seh8XwUKTCrplf8a"
+    },
+    {
+      "added_at": "2026-09-25 14:03:48",
+      "album": {
+        "name": "Promises Made",
+        "url": "https://open.spotify.com/album/5LZWFXUSSKoRwkEwFJdK0o"
+      },
+      "artists": [
+        {
+          "name": "Riiver Brukes",
+          "url": "https://open.spotify.com/artist/3Uqhtmf0RC1zjRPxoRDWjS"
+        }
+      ],
+      "duration_ms": 249000,
+      "name": "Promises Made",
+      "url": "https://open.spotify.com/track/2HQkV50Jrnyla0dAeeGoUr"
     }
   ],
   "unique_name": "playlist spotify free",

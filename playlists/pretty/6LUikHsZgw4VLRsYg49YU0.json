@@ -1,13 +1,33 @@
 {
   "description": "New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!",
-  "num_followers": 4311,
+  "num_followers": 4310,
   "original_name": "Anime Songs",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "AAADizeLCRxG429oo5vsZbXrYgWwy5+e",
+  "snapshot_id": "AAADjcb6WUGpSg5z3w3QRs0vuJiH5tly",
   "tracks": [
+    {
+      "added_at": "2026-09-25 14:11:07",
+      "album": {
+        "name": "You Say Run - 10th Anniversary Version (feat. Electric Callboy) [from My Hero Academia: The Final Season]",
+        "url": "https://open.spotify.com/album/3GIlYCIrGMfjeUXv38w9JG"
+      },
+      "artists": [
+        {
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 231771,
+      "name": "You Say Run - 10th Anniversary Version (feat. Electric Callboy) - from My Hero Academia: The Final Season",
+      "url": "https://open.spotify.com/track/615BHREacjRvrGAqJ3ynvS"
+    },
     {
       "added_at": "2026-08-28 17:14:07",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Roxie
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,459 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,491 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 6 | [obłoki](https://open.spotify.com/track/6D7uM8zuAYJ82Fwatw9rWA) | [Jasiek Piwowarczyk](https://open.spotify.com/artist/705MUvkld29STeOVijPoTe) | [obłoki](https://open.spotify.com/album/2m4fIQU7WLfjijZpViJLhN) | 2:49 |
 | 7 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
 | 8 | [Nie ma miejsca jak dom](https://open.spotify.com/track/2W61aot3YavDVRABULNHAy) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Nie ma miejsca jak dom](https://open.spotify.com/album/2cMSGsICanADztWRLYbEZw) | 3:18 |
-| 9 | [możemorze](https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2) | [możemorze](https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3) | 2:39 |
+| 9 | [możemorze](https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [prześwit](https://open.spotify.com/artist/48pF8m5m2dDUQHlP1WiU7f) | [możemorze](https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3) | 2:39 |
 | 10 | [na błysk](https://open.spotify.com/track/02xdXJE0MMWJP9LGI7W1tS) | [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [na błysk](https://open.spotify.com/album/6l4WefLj0rzKsHc2sNgkwG) | 3:49 |
 | 11 | [Anioły \(Pojedynek\)](https://open.spotify.com/track/2FPk6E4BfCsdJ4esqT6bVv) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX), [Julia Pietrucha](https://open.spotify.com/artist/5gSWboNBgJZ060m1r30Xmg) | [Anioły \(Pojedynek\)](https://open.spotify.com/album/6Y1mNv6Zlfkh8U7H2jabST) | 4:42 |
 | 12 | [Jednakowi](https://open.spotify.com/track/4ZJzEXIz4tQ99QfreV3w5W) | [Krzysztof Zalewski](https://open.spotify.com/artist/1U1eSs7M2ENf09cDx4lavK) | [Jednakowi](https://open.spotify.com/album/77qp58seJ1NA1EpHua2Z0f) | 3:16 |

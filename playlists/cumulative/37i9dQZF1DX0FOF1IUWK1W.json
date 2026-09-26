@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "MC JVila, Vulgo FK, Veigh, Kayblack e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Z\u00e9 Neto & Cristiano e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -3358,7 +3358,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 161298,
       "name": "Cheiro De Culpado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bor3RIvmpmz5c435liCs9"
@@ -4908,7 +4908,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 158589,
       "name": "Displicente - Ao Vivo",
       "url": "https://open.spotify.com/track/7cYwK2NkBOMpKs44d6HroI"
@@ -9181,6 +9181,28 @@
     },
     {
       "album": {
+        "name": "Mega Hair (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6x2tya5gbF2JqQIvW1p0ST"
+      },
+      "artists": [
+        {
+          "name": "Netto Brito",
+          "url": "https://open.spotify.com/artist/1slHyPE5gIYlHAKLiLv9PU"
+        },
+        {
+          "name": "Luan Pereira",
+          "url": "https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153721,
+      "name": "Mega Hair - Ao Vivo",
+      "url": "https://open.spotify.com/track/6lZjGV5YRf4JP82ylbO0yu"
+    },
+    {
+      "album": {
         "name": "LUAN CITY 2.0 (Ao Vivo)",
         "url": "https://open.spotify.com/album/6rzJP5MMqTNT0OHwOn9wUD"
       },
@@ -13348,7 +13370,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 196535,
       "name": "pros menor da nova",
       "url": "https://open.spotify.com/track/4K8jKvRCwZcn6FXRJd9T3C"
@@ -14218,6 +14240,28 @@
       "duration_ms": 127771,
       "name": "Ritmo da Sanfoninha (Fomfomrom)",
       "url": "https://open.spotify.com/track/4NjI4qbTN70oQZ8Alt9cdC"
+    },
+    {
+      "album": {
+        "name": "Role Perfeito (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5dRfhwO5qRFMld99PBrOvb"
+      },
+      "artists": [
+        {
+          "name": "Kaique e Felipe",
+          "url": "https://open.spotify.com/artist/0JRPF8WIKUtSO2IUYfrcuh"
+        },
+        {
+          "name": "CountryBeat",
+          "url": "https://open.spotify.com/artist/5IREutgMnyQqRcc8r15gWk"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166791,
+      "name": "Role Perfeito - Ao Vivo",
+      "url": "https://open.spotify.com/track/0EFt56Fw8g2KzsRQ8AcNcr"
     },
     {
       "album": {
@@ -16114,6 +16158,24 @@
       "duration_ms": 229153,
       "name": "Te Maceto Depois do Baile",
       "url": "https://open.spotify.com/track/3EuPKX0FLhAxfL5hZBlfJe"
+    },
+    {
+      "album": {
+        "name": "Mari no Barzinho (Ao Vivo em Fortaleza)",
+        "url": "https://open.spotify.com/album/6P4kv2DgtMn2d9YnxZYBrX"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167692,
+      "name": "Telefone Sem Fio - Ao Vivo",
+      "url": "https://open.spotify.com/track/0mo4IFJlaejAEzwUmyOyTD"
     },
     {
       "album": {

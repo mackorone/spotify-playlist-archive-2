@@ -3393,6 +3393,24 @@
     },
     {
       "album": {
+        "name": "cuerpo fr\u00edo",
+        "url": "https://open.spotify.com/album/4vU4HmewMQSaLUPILtNzJe"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164099,
+      "name": "cuerpo fr\u00edo",
+      "url": "https://open.spotify.com/track/3xjjV92tK8jBlH8wwI0aot"
+    },
+    {
+      "album": {
         "name": "C\u00e1llame",
         "url": "https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w"
       },
@@ -5446,7 +5464,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 218000,
       "name": "Errante",
       "url": "https://open.spotify.com/track/6GbWqZbWu6Zh5RcjGref6W"
@@ -8492,7 +8510,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 242065,
       "name": "Los Llamados Pitag\u00f3ricos",
       "url": "https://open.spotify.com/track/7ydaxAURHTlX3JGOo7JEsW"
@@ -8706,6 +8724,24 @@
       "duration_ms": 188000,
       "name": "Lunedad",
       "url": "https://open.spotify.com/track/48fTQdTObHQn1NjY4ftQk0"
+    },
+    {
+      "album": {
+        "name": "Luz",
+        "url": "https://open.spotify.com/album/5DpdFclf9jmpQSWKfOJQOA"
+      },
+      "artists": [
+        {
+          "name": "Daniel Qui\u00e9n",
+          "url": "https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197953,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/5gWuFVmTAtjiMxMLLB9cNp"
     },
     {
       "album": {
@@ -10711,6 +10747,28 @@
     },
     {
       "album": {
+        "name": "NI\u00d1O DON",
+        "url": "https://open.spotify.com/album/5HjlROc1h4Bjw1vrLnbUVU"
+      },
+      "artists": [
+        {
+          "name": "Los Fibos",
+          "url": "https://open.spotify.com/artist/1Kcaj61FM0mFYwh4ZCN4Lw"
+        },
+        {
+          "name": "Luis Sosa",
+          "url": "https://open.spotify.com/artist/6EW6psW4qz2SWbqAwMuQgj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253396,
+      "name": "ni\u00f1o don",
+      "url": "https://open.spotify.com/track/6IL6V4WyAPzruODlvv3peU"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1os",
         "url": "https://open.spotify.com/album/78wl83QVv5HKHGUlyRDfyU"
       },
@@ -10990,7 +11048,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 207000,
       "name": "No Puedo M\u00e1s",
       "url": "https://open.spotify.com/track/27lDJbfLUkTxVAMqQaVT2a"
@@ -11972,7 +12030,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 192882,
       "name": "Perdidos en el Tiempo",
       "url": "https://open.spotify.com/track/0puJdIslV3W1bJvS5qj1s1"
@@ -12530,6 +12588,24 @@
       "duration_ms": 209250,
       "name": "Que fue lo que Pas\u00f3",
       "url": "https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD"
+    },
+    {
+      "album": {
+        "name": "QUE LE VAYA BIEN",
+        "url": "https://open.spotify.com/album/25wmjOWaoznM9TZeVnVwWz"
+      },
+      "artists": [
+        {
+          "name": "Ultraligera",
+          "url": "https://open.spotify.com/artist/5Vv5llyiK1nlME2UNDzPBB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298564,
+      "name": "QUE LE VAYA BIEN",
+      "url": "https://open.spotify.com/track/1sBVmEIqbTypPxYjqyyoVN"
     },
     {
       "album": {
@@ -14918,7 +14994,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 184338,
       "name": "Todos piensan que ya te olvid\u00e9",
       "url": "https://open.spotify.com/track/3Yep9HySEW2mDnfUbEclDo"
@@ -15986,7 +16062,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 234933,
       "name": "Vidas Felices",
       "url": "https://open.spotify.com/track/0f8GPONRZHrP6mOrxswCfW"
@@ -16439,6 +16515,24 @@
     },
     {
       "album": {
+        "name": "Ya No Es por Ti",
+        "url": "https://open.spotify.com/album/4Ku1VDlAPDWLYNhHRuCMq0"
+      },
+      "artists": [
+        {
+          "name": "Los Daniels",
+          "url": "https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156705,
+      "name": "Ya No Es por Ti",
+      "url": "https://open.spotify.com/track/5yNcTwcqgN5c6Gcc2Pe2vH"
+    },
+    {
+      "album": {
         "name": "Ya no hay papel",
         "url": "https://open.spotify.com/album/1mNFoUH1m9jLzO6HHqybhz"
       },
@@ -16810,6 +16904,24 @@
       "duration_ms": 165986,
       "name": "\u00c1rbol",
       "url": "https://open.spotify.com/track/6MkWgZNpY548ccjs2PJSyq"
+    },
+    {
+      "album": {
+        "name": "ODIENME M\u00c1S (L\u00c1DRENME)",
+        "url": "https://open.spotify.com/album/7DXkmpEboxBr73H64UecQx"
+      },
+      "artists": [
+        {
+          "name": "Gloory Hole",
+          "url": "https://open.spotify.com/artist/3iq1MFUd7NXDXWChm0E2mO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228500,
+      "name": "\u00d3DIENME M\u00c1S (L\u00c1DRENME)",
+      "url": "https://open.spotify.com/track/23IOXJKV1KEQIbiR731AMJ"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa"

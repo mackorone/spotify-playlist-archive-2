@@ -1,32 +1,28 @@
 {
-  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Camilo",
-  "num_followers": 600651,
+  "description": "Los \u00e9xitos m\u00e1s POPulares en espa\u00f1ol los encuentras aqu\u00ed. Foto: Fabian",
+  "num_followers": 600551,
   "original_name": "Frecuencia Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHq+N1Cgr+3INdpcmeywlS7QL+0U",
+  "snapshot_id": "AAAAAEC/Xb0xrtvOPDA8s+NZgE+F/RUm",
   "tracks": [
     {
-      "added_at": "2026-08-28 12:57:54",
+      "added_at": "2026-09-25 04:59:18",
       "album": {
-        "name": "DOLCE VITA",
-        "url": "https://open.spotify.com/album/5F5UJNfmsy94fLpG6i3xL2"
+        "name": "LEJOS",
+        "url": "https://open.spotify.com/album/434f2GTmix3G9KBL469TUV"
       },
       "artists": [
         {
-          "name": "DANNA",
-          "url": "https://open.spotify.com/artist/3Lk8ifX8dLKXls1ZCZAHgc"
-        },
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+          "name": "FABIAN",
+          "url": "https://open.spotify.com/artist/5OHLIL5eTIYJ4WXNvKkeyG"
         }
       ],
-      "duration_ms": 190875,
-      "name": "DOLCE VITA",
-      "url": "https://open.spotify.com/track/7lM4pBtnoHScsZaxTSWCvS"
+      "duration_ms": 195436,
+      "name": "LEJOS",
+      "url": "https://open.spotify.com/track/4gssyYgB9EegQ8Klp46Bvs"
     },
     {
       "added_at": "2026-08-21 04:59:14",
@@ -117,6 +113,22 @@
       "url": "https://open.spotify.com/track/2WzXAEN2FvbwjAi7NEOUeo"
     },
     {
+      "added_at": "2026-09-25 04:59:18",
+      "album": {
+        "name": "Escenarios Ficticios",
+        "url": "https://open.spotify.com/album/6zwgX9tlUcGRBIfDB5I6fq"
+      },
+      "artists": [
+        {
+          "name": "Chell",
+          "url": "https://open.spotify.com/artist/26z5jcyErxp9lUdkw28pId"
+        }
+      ],
+      "duration_ms": 188347,
+      "name": "Algo Cambiar\u00e1",
+      "url": "https://open.spotify.com/track/2f60WcMHtB91W44LXFGc2y"
+    },
+    {
       "added_at": "2026-08-28 12:57:54",
       "album": {
         "name": "No vivir\u00edas igual",
@@ -131,6 +143,26 @@
       "duration_ms": 174967,
       "name": "No Vivir\u00edas Igual",
       "url": "https://open.spotify.com/track/1Ti5iLAbHICLtvkQW1d4YZ"
+    },
+    {
+      "added_at": "2026-09-25 04:59:18",
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/7qWGL1APRHrhvPW7aA2y2h"
+      },
+      "artists": [
+        {
+          "name": "Maca & Gero",
+          "url": "https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV"
+        },
+        {
+          "name": "Manuel Lizarazo",
+          "url": "https://open.spotify.com/artist/3GAdaUGcZiphtBqlLxXHZC"
+        }
+      ],
+      "duration_ms": 180095,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/6OtV718PF8srqETTUOKJMI"
     },
     {
       "added_at": "2026-09-04 04:59:26",
@@ -313,10 +345,10 @@
       "url": "https://open.spotify.com/track/1cxiTnSdoLscxNU25iCPg5"
     },
     {
-      "added_at": "2026-08-21 04:59:14",
+      "added_at": "2026-09-25 04:59:18",
       "album": {
-        "name": "AREPA CON TINTO",
-        "url": "https://open.spotify.com/album/3uH7B6JC0D6dEcEG0HqJVF"
+        "name": "GOATSTAR",
+        "url": "https://open.spotify.com/album/7uCmrTga14ObB0lM6acn3Q"
       },
       "artists": [
         {
@@ -324,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0v3BbC31xeFTsSemq1ApgI"
         }
       ],
-      "duration_ms": 125209,
-      "name": "AREPA CON TINTO",
-      "url": "https://open.spotify.com/track/3rAYvZnTPOqmOXOBDOsVKo"
+      "duration_ms": 155453,
+      "name": "GOATSTAR",
+      "url": "https://open.spotify.com/track/4i9QkVLqzN6c3fNSaNJPNo"
     },
     {
       "added_at": "2026-08-21 04:59:14",
@@ -343,22 +375,6 @@
       "duration_ms": 177333,
       "name": "Ando (bye, ya me voy\u2026)",
       "url": "https://open.spotify.com/track/1SibhfQCLiuL7qyYLwNZOc"
-    },
-    {
-      "added_at": "2026-08-21 04:59:14",
-      "album": {
-        "name": "H\u00e1blate de M\u00ed",
-        "url": "https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ"
-      },
-      "artists": [
-        {
-          "name": "J\u00f3sean Log",
-          "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
-        }
-      ],
-      "duration_ms": 188612,
-      "name": "Doma",
-      "url": "https://open.spotify.com/track/58cLm4PaHNt8DDr9ayZnNz"
     },
     {
       "added_at": "2026-07-01 14:25:35",

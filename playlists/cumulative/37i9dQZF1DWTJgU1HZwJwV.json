@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Aurelia",
+        "url": "https://open.spotify.com/album/0zvusrc1LCsPVkDQjj7HOu"
+      },
+      "artists": [
+        {
+          "name": "Vandenberg",
+          "url": "https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168743,
+      "name": "Aurelia",
+      "url": "https://open.spotify.com/track/3jAqKknjywqPkmQjrtgXT2"
+    },
+    {
+      "album": {
         "name": "Azores",
         "url": "https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu"
       },
@@ -3724,6 +3742,24 @@
       "duration_ms": 149750,
       "name": "Glide",
       "url": "https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa"
+    },
+    {
+      "album": {
+        "name": "Golden Light on Quiet Water",
+        "url": "https://open.spotify.com/album/74b3bhTVG63Uy3y4PA16X9"
+      },
+      "artists": [
+        {
+          "name": "P. Moretti",
+          "url": "https://open.spotify.com/artist/0T3Is0sNMMVfmzfH0Z6Et6"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155260,
+      "name": "Golden Light on Quiet Water",
+      "url": "https://open.spotify.com/track/0VvAq5Mabo2nKp4USsGjsR"
     },
     {
       "album": {
@@ -9752,6 +9788,24 @@
       "duration_ms": 146476,
       "name": "The Midnight Oil",
       "url": "https://open.spotify.com/track/5CAWxpUqibj7afx1wEOk40"
+    },
+    {
+      "album": {
+        "name": "The Old Cabin",
+        "url": "https://open.spotify.com/album/5GyPRbUcEMHcYZ4udgMKib"
+      },
+      "artists": [
+        {
+          "name": "Billy Varon",
+          "url": "https://open.spotify.com/artist/00mYPMTJDSN7qczU0deUuY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132260,
+      "name": "The Old Cabin",
+      "url": "https://open.spotify.com/track/4JgsHJ3cZfgnBd1v8m565Y"
     },
     {
       "album": {

@@ -2207,6 +2207,24 @@
     },
     {
       "album": {
+        "name": "Beauty Sleep",
+        "url": "https://open.spotify.com/album/3xI4q1yRS4Vr1wMkQxlQjj"
+      },
+      "artists": [
+        {
+          "name": "Jane Remover",
+          "url": "https://open.spotify.com/artist/2rLGlNI6htigNxx172qxLu"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222967,
+      "name": "Beauty Sleep",
+      "url": "https://open.spotify.com/track/1RrEB90qVYRsVE1DQsqwuJ"
+    },
+    {
+      "album": {
         "name": "SMITHEREENS",
         "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Kastanienm\u00e4nnchen, Laternenlieder und K\u00fcrbis schnitzen. ",
-  "num_followers": 62053,
+  "num_followers": 62070,
   "original_name": "Familienzeit: Herbst",
   "owner": {
     "name": "Spotify",
@@ -635,26 +635,18 @@
     {
       "added_at": "2026-09-24 22:00:49",
       "album": {
-        "name": "Ich lass mich nicht \u00e4rgern",
-        "url": "https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N"
+        "name": "Die Herbstzeit ist da: 20 sch\u00f6nste Kinderlieder im Herbst",
+        "url": "https://open.spotify.com/album/7erUTJEt8ji25M5bqF0shi"
       },
       "artists": [
         {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
-        },
-        {
-          "name": "Berlin Radio Children's Choir",
-          "url": "https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ"
+          "name": "Stephen Janetzko",
+          "url": "https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG"
         }
       ],
-      "duration_ms": 199520,
-      "name": "Ich lass mich nicht \u00e4rgern",
-      "url": "https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND"
+      "duration_ms": 105720,
+      "name": "Bunte Bl\u00e4tter (Herbstlied)",
+      "url": "https://open.spotify.com/track/2Xd0iej84kqqS4W0IcNHjk"
     },
     {
       "added_at": "2026-09-24 22:00:49",
@@ -699,18 +691,26 @@
     {
       "added_at": "2026-09-24 22:00:49",
       "album": {
-        "name": "Die Herbstzeit ist da: 20 sch\u00f6nste Kinderlieder im Herbst",
-        "url": "https://open.spotify.com/album/7erUTJEt8ji25M5bqF0shi"
+        "name": "Ich lass mich nicht \u00e4rgern",
+        "url": "https://open.spotify.com/album/7tvCuNZWZj3oixkjhrfo1N"
       },
       "artists": [
         {
-          "name": "Stephen Janetzko",
-          "url": "https://open.spotify.com/artist/0HC9OQdqPCCE1WNMetTTmG"
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        },
+        {
+          "name": "Berlin Radio Children's Choir",
+          "url": "https://open.spotify.com/artist/7meMu2NIiuBL1gyYYh0kjZ"
         }
       ],
-      "duration_ms": 105720,
-      "name": "Bunte Bl\u00e4tter (Herbstlied)",
-      "url": "https://open.spotify.com/track/2Xd0iej84kqqS4W0IcNHjk"
+      "duration_ms": 199520,
+      "name": "Ich lass mich nicht \u00e4rgern",
+      "url": "https://open.spotify.com/track/5BgnKutSrMkOObNxyip4ND"
     },
     {
       "added_at": "2026-09-24 22:00:49",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-24 22:00:49",
       "album": {
-        "name": "Im Land der bunten Fantasie - Lieder zum Tanzen, Tr\u00e4umen und Mitsingen",
-        "url": "https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn"
-      },
-      "artists": [
-        {
-          "name": "Cattu der Traumf\u00e4nger",
-          "url": "https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx"
-        }
-      ],
-      "duration_ms": 156554,
-      "name": "Hu Ha Halloween",
-      "url": "https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9"
-    },
-    {
-      "added_at": "2026-09-24 22:00:49",
-      "album": {
         "name": "Der Sommer sagt: \"Auf Wiederseh'n!\"",
         "url": "https://open.spotify.com/album/6ZJoNJBigls3iiEatIYZKd"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 167889,
       "name": "Der Sommer sagt: \"Auf Wiederseh'n!\"",
       "url": "https://open.spotify.com/track/5D5apAAFmvWxHKYzV9fYoi"
+    },
+    {
+      "added_at": "2026-09-24 22:00:49",
+      "album": {
+        "name": "Im Land der bunten Fantasie - Lieder zum Tanzen, Tr\u00e4umen und Mitsingen",
+        "url": "https://open.spotify.com/album/4snrlgBOo2mHe82gC8ONhn"
+      },
+      "artists": [
+        {
+          "name": "Cattu der Traumf\u00e4nger",
+          "url": "https://open.spotify.com/artist/3k28tiwSdzje4lp5leH4Cx"
+        }
+      ],
+      "duration_ms": 156554,
+      "name": "Hu Ha Halloween",
+      "url": "https://open.spotify.com/track/4r8pkG3FfuYGFTHYtb2az9"
     },
     {
       "added_at": "2026-09-24 22:00:49",

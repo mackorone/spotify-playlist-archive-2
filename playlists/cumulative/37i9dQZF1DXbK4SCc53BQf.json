@@ -993,6 +993,36 @@
     },
     {
       "album": {
+        "name": "Dale Candela",
+        "url": "https://open.spotify.com/album/12hBGKv5JjY2CB3K89fak4"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Fe Mundo",
+          "url": "https://open.spotify.com/artist/5gJb4A1xQNBpFhQbSroQx7"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "DJ Mykael V",
+          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188437,
+      "name": "Dale Candela",
+      "url": "https://open.spotify.com/track/238tjakaabtBzeJirHl0oc"
+    },
+    {
+      "album": {
         "name": "Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0"
       },
@@ -3024,7 +3054,7 @@
       ],
       "date_added": "2025-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 196156,
       "name": "Ped\u00ed Un Deseo",
       "url": "https://open.spotify.com/track/1efS7fzuIPrfiQFVoPxjg9"

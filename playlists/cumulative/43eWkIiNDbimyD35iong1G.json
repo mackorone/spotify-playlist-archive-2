@@ -2325,6 +2325,24 @@
     },
     {
       "album": {
+        "name": "I See What You're Saying",
+        "url": "https://open.spotify.com/album/7DaF7sNtD0Nt1kUklt9iLX"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173232,
+      "name": "I See What You're Saying",
+      "url": "https://open.spotify.com/track/1fSkJe0fkPkkZTh7eFGqbN"
+    },
+    {
+      "album": {
         "name": "Agent Provocateur",
         "url": "https://open.spotify.com/album/4oQhDQDKMeI6IMlwpXt3j8"
       },

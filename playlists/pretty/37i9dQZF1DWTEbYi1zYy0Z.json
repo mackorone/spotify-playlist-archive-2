@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 91741,
+  "num_followers": 91773,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPrKKc5DcJ93wenG3fECkrEQInky",
+  "snapshot_id": "AAAAAOazRbErCV830On/TI0t6GIq4EGg",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:00:34",
+      "album": {
+        "name": "Between The Beats",
+        "url": "https://open.spotify.com/album/5pjFDSaEtMdUKr7nnGUa0u"
+      },
+      "artists": [
+        {
+          "name": "Oli Silk",
+          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Between The Beats",
+      "url": "https://open.spotify.com/track/2zyIojU16tXMkYj8Ik57cY"
+    },
     {
       "added_at": "2026-09-18 04:00:56",
       "album": {
@@ -135,26 +151,6 @@
       "duration_ms": 219000,
       "name": "The Groove In You (feat. Ryan La Valette)",
       "url": "https://open.spotify.com/track/3dz1DsiJdhLs9zGrS18s00"
-    },
-    {
-      "added_at": "2026-08-07 04:00:19",
-      "album": {
-        "name": "Say What You See",
-        "url": "https://open.spotify.com/album/4pYSUeXqL7QoXMKVmMEUzn"
-      },
-      "artists": [
-        {
-          "name": "Oli Silk",
-          "url": "https://open.spotify.com/artist/7a9DZt3DpmEVkZZZ6MkWdE"
-        },
-        {
-          "name": "Evan Taylor",
-          "url": "https://open.spotify.com/artist/25uEY8hKswY86ulJ0tGCkx"
-        }
-      ],
-      "duration_ms": 253306,
-      "name": "Say What You See",
-      "url": "https://open.spotify.com/track/0jPENAe4iLWp2HayHOZnod"
     },
     {
       "added_at": "2026-08-07 04:00:19",

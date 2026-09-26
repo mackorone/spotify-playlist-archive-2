@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 
 > Curated for the culture, built for the fairway\. <a href="https://www.instagram.com/swang/">Tap in</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,665 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,679 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpmFuDEAl15.md) - [plain]
 | 98 | [OVERLY](https://open.spotify.com/track/5tRylsadMpm8TydUgq7NWj) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [MUSIC](https://open.spotify.com/album/0fSfkmx0tdPqFYkJuNX74a) | 1:45 |
 | 99 | [WHU\-TANG](https://open.spotify.com/track/0DAuCEc5qNTzGyGhCPoyvl) | [Whu Else](https://open.spotify.com/artist/4YzpHOw5CeN2PhIgiEyGML) | [WHU\-TANG](https://open.spotify.com/album/7GCYnNhgqQa3fpHowmuCnk) | 2:39 |
 
-Snapshot ID: `AAAAADd4eatX4fJQltucnLC0FkA+GY/w`
+Snapshot ID: `AAAAAEJO+HlJZwCjFb3bUI3miGB9tc+6`

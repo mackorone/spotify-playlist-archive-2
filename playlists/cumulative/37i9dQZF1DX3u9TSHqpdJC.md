@@ -4,7 +4,7 @@
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: googly eyes\. Artwork by Paola Saliby
 
-4,632 songs - 9 day 20 hr 1 min
+4,634 songs - 9 day 20 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1552,7 +1552,7 @@
 | [Girls](https://open.spotify.com/track/4QtA3BmNWccg5wE29ivJRx) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Girls](https://open.spotify.com/album/7GyusgeLHDSmbo9mENH8CQ) | 2:50 | 2025-02-19 | 2025-04-10 |
 | [Girls](https://open.spotify.com/track/2CRK2gpsJ8sDcYirGYZrF1) | [VANÈS](https://open.spotify.com/artist/1pTUJW4rouSRTVpWFHHHVt) | [Girls](https://open.spotify.com/album/24Q4mP7478fGZpfgOw0PHw) | 2:44 | 2022-06-29 | 2022-07-28 |
 | [Girls Gone Wild](https://open.spotify.com/track/7q2PvvuEvuZwuXlwvkKyPm) | [Rosetta](https://open.spotify.com/artist/6Lx5dgRpSaju4zkiSYmYoa) | [Girls Gone Wild](https://open.spotify.com/album/4iATlDkOaCC5pujOmapT4F) | 2:43 | 2025-07-23 | 2025-09-18 |
-| [Girls Like Me Don't Change](https://open.spotify.com/track/3I3WLLudgxREJVzKsJWfu3) | [Syamali](https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4) | [Girls Like Me Don't Change](https://open.spotify.com/album/6L7P4H98Nagqf6huajQCjC) | 3:14 | 2026-09-23 |  |
+| [Girls Like Me Don't Change](https://open.spotify.com/track/3I3WLLudgxREJVzKsJWfu3) | [Syamali](https://open.spotify.com/artist/17kHwTPo7kOMb7DTEyySs4) | [Girls Like Me Don't Change](https://open.spotify.com/album/6L7P4H98Nagqf6huajQCjC) | 3:14 | 2026-09-23 | 2026-09-26 |
 | [Girl’s Girl](https://open.spotify.com/track/1SEWV5XmjNBeBCmURjHxhf) | [EDIE](https://open.spotify.com/artist/1zcbZrLQ9t1AXrLXy1lIMY) | [Girl’s Girl](https://open.spotify.com/album/3QhxTB2C1mUdUAlpntDjge) | 3:11 | 2025-06-18 | 2025-08-21 |
 | [girl’s girl \- Spotify Singles](https://open.spotify.com/track/3L3R5F6V6Nx4u1LAftG763) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [girl’s girl \- Spotify Singles](https://open.spotify.com/album/4Td8Cw8c48epzNScqR0CM3) | 3:17 | 2022-10-19 | 2023-01-12 |
 | [Give](https://open.spotify.com/track/3yIx7p0dlbFrXdchaLhQoE) | [Hadi](https://open.spotify.com/artist/6IoMp72EAMD3JogASNYTLa), [Melissa Lamm](https://open.spotify.com/artist/334LO02AucGEYUBb4Rhx4K), [Kerfo](https://open.spotify.com/artist/1JeTdcoPRh3A4KOJtnQyJ3) | [Give](https://open.spotify.com/album/2JoASvtr8fOgSKk5nevhdS) | 3:53 | 2020-10-29 | 2020-11-18 |
@@ -2338,6 +2338,7 @@
 | [Left My Lover](https://open.spotify.com/track/4CiUCRZjWRqFvZkz7xnbk0) | [Mariam Kubursi](https://open.spotify.com/artist/619doDBQCaDpnvpRc14gMJ) | [Left My Lover](https://open.spotify.com/album/76ycC6aJQwyeimn1fX8ulL) | 1:03 | 2026-08-26 |  |
 | [Left Unsaid](https://open.spotify.com/track/1yrGI6TsSmBs7Gs0AkXkxG) | [Somitelle](https://open.spotify.com/artist/2om8Z9DT6kNzHd9x6vdmgf) | [Left Unsaid](https://open.spotify.com/album/0YjxfgttYy9Sw8anKKzJcR) | 3:06 | 2022-05-11 | 2022-06-30 |
 | [Lego Blocks](https://open.spotify.com/track/01RJQlTi0aR0syDcSFLzTv) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Lego Blocks](https://open.spotify.com/album/1z6yLxp8En102543kFdidP) | 2:39 | 2022-06-08 | 2023-01-12 |
+| [Lemonade](https://open.spotify.com/track/3Cof51IjtIRLXf9kE2rJWf) | [Alya](https://open.spotify.com/artist/6xcJFzdGwkQBTtA59Bkckg) | [Lemonade](https://open.spotify.com/album/1FPTrSxtlfZvTcGE7n23DX) | 2:49 | 2026-09-25 |  |
 | [Lemonade](https://open.spotify.com/track/0q6BSDsaOryg8o396XTC8g) | [Dutchkid](https://open.spotify.com/artist/2mgl6HmStFhjJciWKpStup) | [Lemonade](https://open.spotify.com/album/6HueWBXlOgr22O2ZLdnDOB) | 3:16 | 2021-02-04 | 2021-03-06 |
 | [Lemonade](https://open.spotify.com/track/2eeufUoiKPhFGFhy3rLRGR) | [J.O.Y](https://open.spotify.com/artist/1oB65aeaC4Cql0h6VvX0mm) | [Lemonade](https://open.spotify.com/album/4ryZIaGwGRzAO9MOXwsujX) | 2:26 | 2021-11-11 | 2021-12-01 |
 | [Lemonade](https://open.spotify.com/track/5gK0bv6DMbmfne9ktJ4ZJL) | [Lone Waves](https://open.spotify.com/artist/45EpHuWKvRCZZSVininBeS) | [Lemonade](https://open.spotify.com/album/3YFYT5aq1rYO05EdZ4Q7Fd) | 4:04 | 2022-09-14 | 2022-11-10 |
@@ -3450,7 +3451,7 @@
 | [Sad Lullaby](https://open.spotify.com/track/61dXVEGgk0YrSX0lDH9qfY) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Sad Lullaby](https://open.spotify.com/album/0mhQlc6V2rX86ocFqHpgTd) | 3:25 | 2020-12-08 | 2021-01-15 |
 | [SAD MACHINE](https://open.spotify.com/track/0DZ2WmzcaQRb9zj0htp7Su) | [Maasho](https://open.spotify.com/artist/1JREmglx633MGQB73njWtE) | [SAD MACHINE](https://open.spotify.com/album/1uMjNKZr9LrKCTuBll1nSk) | 2:58 | 2021-03-25 | 2021-04-22 |
 | [sad song 77](https://open.spotify.com/track/2puUskcR7e0Ns8M7CxeDcf) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [sad song 77](https://open.spotify.com/album/6DN6PbET9DPQnnzVhNKjFA) | 2:48 | 2021-01-21 | 2021-01-28 |
-| [Sadder Days](https://open.spotify.com/track/6D0DwLJ40RzSyhRuuR4fSX) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Sadder Days](https://open.spotify.com/album/0O12fFnmOEBZ8HzcJV1PhZ) | 4:04 | 2026-08-12 |  |
+| [Sadder Days](https://open.spotify.com/track/6D0DwLJ40RzSyhRuuR4fSX) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Sadder Days](https://open.spotify.com/album/0O12fFnmOEBZ8HzcJV1PhZ) | 4:04 | 2026-08-12 | 2026-09-26 |
 | [Sadie](https://open.spotify.com/track/2vapJLqCu1GJhVsGLuuHme) | [Jordan Jack](https://open.spotify.com/artist/5ff4bzcr8wYcVqmuhCBl7d), [Mason Murphy](https://open.spotify.com/artist/0iGR1dPENdfzoZbpsFlYug) | [Sadie](https://open.spotify.com/album/0ygBIdoO5nkMWkBpkeZrfr) | 2:59 | 2021-05-06 | 2021-05-20 |
 | [Safe & Sound](https://open.spotify.com/track/1DRYQw4p4ZFWAqeR0zUfqA) | [RLY](https://open.spotify.com/artist/0RVUtBjAbz5T90n26psVHJ) | [Safe & Sound](https://open.spotify.com/album/2G3XbmCG2vnASKfxfRbvps) | 2:54 | 2024-02-14 | 2024-05-02 |
 | [Safe For Another Day](https://open.spotify.com/track/6hMIlCVxfh93G65HTthxwQ) | [Surely Shirley](https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB) | [Safe For Another Day](https://open.spotify.com/album/5lFIiWu2PSgEIETJ77dBJ7) | 3:06 | 2025-06-18 | 2025-08-21 |
@@ -4025,6 +4026,7 @@
 | [THE BEGINNING OF THE END](https://open.spotify.com/track/1KRqSqWl2uKEgSC0PzRMBV) | [NIQI](https://open.spotify.com/artist/18EiBs3KVXPFbgaNKN6GVR) | [THE BEGINNING OF THE END](https://open.spotify.com/album/2C8hrvBKGBPREteZi1e02q) | 3:19 | 2026-04-01 | 2026-06-18 |
 | [The Best](https://open.spotify.com/track/2HxQGJKOcPi87pffJ5UWt6) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [The Best](https://open.spotify.com/album/6aaGEL4bFFCKe6CXFE8YMf) | 2:14 | 2023-10-04 | 2023-11-16 |
 | [The Best Thing I Ever Gave You](https://open.spotify.com/track/2fNApr92x490Mgk9McD8ST) | [Drew Erwin](https://open.spotify.com/artist/2375stUa3UNtEAGG0F5XBc) | [The Best Thing I Ever Gave You](https://open.spotify.com/album/1RCtHsRSfHv1xIUYSVg7if) | 3:41 | 2023-06-28 | 2023-08-31 |
+| [The Box](https://open.spotify.com/track/072EYLKY3RnrcSssCX55gq) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [The Box](https://open.spotify.com/album/2vjDAKFAnCrEjteyOtWI63) | 3:45 | 2026-09-25 |  |
 | [The Boy From Class](https://open.spotify.com/track/68ESb6AImEc4KVNwfJtchV) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [The Boy From Class](https://open.spotify.com/album/10hFVPYCXVR5rwZwsxns5c) | 2:07 | 2021-09-30 | 2021-10-21 |
 | [The Boy Who Cried Love](https://open.spotify.com/track/2NTX4lpTcfl4BnzzX0EHXv) | [Stevie Bill](https://open.spotify.com/artist/72TRHiF9vPzDe78D4PmHWv) | [The Boy Who Cried Love](https://open.spotify.com/album/4vfxI4Ev5DxHEGHVk2I1ZJ) | 2:40 | 2022-08-24 | 2022-10-06 |
 | [The Breaks](https://open.spotify.com/track/0gueawLShEbZoAfMaADOkP) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [The Breaks](https://open.spotify.com/album/0VU1pdKj120ZSfxMppb238) | 3:20 | 2021-02-25 | 2021-03-25 |

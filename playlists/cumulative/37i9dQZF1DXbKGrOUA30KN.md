@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: TOBIAS
 
-768 songs - 1 day 10 hr 26 min
+768 songs - 1 day 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Dir gehört die Welt](https://open.spotify.com/track/3T1knCX9pwR15QuyPtBKGp) | [Peter Maffay](https://open.spotify.com/artist/5W3s4beu23rOlseCbVOp4l), [Johannes Oerding](https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K) | [Dir gehört die Welt](https://open.spotify.com/album/3wcBR706AgmF12JbGHlrk8) | 2:55 | 2026-09-03 | 2026-09-25 |
 | [disstrack](https://open.spotify.com/track/1DvE4PD6gtLCOJqpORDqG2) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF) | [disstrack](https://open.spotify.com/album/1cKqmrqpLqQv7w36THAaUh) | 2:40 | 2026-08-06 | 2026-08-28 |
 | [Doktor Doktor](https://open.spotify.com/track/1P2CfJixPtgRQkBEgZl7Jq) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Doktor Doktor](https://open.spotify.com/album/0tMdfQhBku9acAvBGS3Ta6) | 2:20 | 2025-11-27 | 2026-01-30 |
+| [Down](https://open.spotify.com/track/5kgirqD4Vp21Svujvqp4BO) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Ich muss dir noch was sagen](https://open.spotify.com/album/09MetCSISjGGdKhi7RTlt0) | 2:17 | 2026-09-24 |  |
 | [Draußen Sein](https://open.spotify.com/track/4IpfsT0FbnqgAIlBaCWGbL) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Draußen Sein](https://open.spotify.com/album/4qGBfmf8VWrGkg8nakobb6) | 2:31 | 2026-08-13 | 2026-09-18 |
 | [Drunk in Love](https://open.spotify.com/track/7MMIqKbRvpFSfF3WaJ7IdW) | [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB), [Young Mesh](https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys), [DXVE](https://open.spotify.com/artist/5WaWH4bt6sGHjuQaFYQAWJ), [FOURTY](https://open.spotify.com/artist/1SnSPHBs8l5iAvoWF0aO05) | [Drunk in Love](https://open.spotify.com/album/5j8myFVGmuDLHHVNGamVer) | 2:44 | 2026-02-19 | 2026-03-13 |
 | [Du](https://open.spotify.com/track/0aT7NR7uu8Hwv2vak9pcGz) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Du](https://open.spotify.com/album/2gemn4tYNAs2ZDi9svuAwp) | 3:28 | 2026-07-30 | 2026-09-04 |
@@ -647,13 +648,12 @@
 | [time flies](https://open.spotify.com/track/4V6dMONwHVfw8QfpSucNrt) | [PAMO](https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r) | [time flies](https://open.spotify.com/album/77qQwRE8towWv5I7T619Ib) | 2:21 | 2026-09-10 | 2026-09-25 |
 | [TIPICO!](https://open.spotify.com/track/2SC0tWaxDDTZn1N3HNG1K1) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [TIPICO!](https://open.spotify.com/album/7ydHkHaaiC8ZiryhzfegbV) | 2:11 | 2026-08-20 | 2026-09-04 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 10](https://open.spotify.com/track/5kgirqD4Vp21Svujvqp4BO) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Ich muss dir noch was sagen](https://open.spotify.com/album/09MetCSISjGGdKhi7RTlt0) | 0:00 | 2026-09-24 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 | 2026-05-15 |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |
 | [Träume aus Lava](https://open.spotify.com/track/5uBe0XqL7Nnb1XC2XILPYr) | [IL CIVETTO](https://open.spotify.com/artist/337iYuRKw6oyOfxsxRuR0o) | [Träume aus Lava](https://open.spotify.com/album/3JJGVY1q1dXOBMLsV3WtZZ) | 2:07 | 2026-08-27 | 2026-09-25 |
 | [tu was du nicht lassen kannst.](https://open.spotify.com/track/108VJ9dXI45I6IZb2SYux8) | [Luca Noel](https://open.spotify.com/artist/2fgVPd8uD6O3GdNbJqp7Kw) | [tu was du nicht lassen kannst.](https://open.spotify.com/album/1ElqUsxfaqFdUt3s8XlImO) | 2:31 | 2025-10-24 | 2025-11-28 |
-| [Tutti Vibe](https://open.spotify.com/track/3cuQKi6tnyfECDBUY1F0lN) | [Querbeat](https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4) | [Tutti Vibe](https://open.spotify.com/album/0lrJuNlMGSVoVeNiLyFUQi) | 2:49 | 2026-09-24 |  |
+| [TUTTI VIBE](https://open.spotify.com/track/3cuQKi6tnyfECDBUY1F0lN) | [Querbeat](https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4) | [TUTTI VIBE](https://open.spotify.com/album/0lrJuNlMGSVoVeNiLyFUQi) | 2:49 | 2026-09-24 |  |
 | [Unbesiegbar](https://open.spotify.com/track/3Sm5fnLXDD4lRP9dSkqIKQ) | [Joel Brandenstein](https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A) | [Unbesiegbar](https://open.spotify.com/album/0EIfuG6boq1JIaTHUoA4sX) | 2:47 | 2025-10-24 | 2025-11-21 |
 | [Unendliche Geschichte](https://open.spotify.com/track/2jOUL7YuwqZFZ6LV7SVBtI) | [helena Delphi ](https://open.spotify.com/artist/1Bl1zS084yAe6JnH3SYzVy) | [Unendliche Geschichte](https://open.spotify.com/album/75Fu1FLNKZ79FphapJ4vFj) | 4:00 | 2026-02-05 | 2026-02-27 |
 | [Unfair](https://open.spotify.com/track/5wfVTGw8MvQHzd7mtjy5b8) | [ANNA YUNA](https://open.spotify.com/artist/69NHshm7qWQWGOURezT9b5) | [Unfair](https://open.spotify.com/album/1A1V9e9mHLSPyCYpocPVJw) | 2:18 | 2025-11-06 | 2025-11-28 |

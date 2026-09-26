@@ -1,12 +1,12 @@
 {
   "description": "This is Gigi Perez. The essential tracks, all in one playlist.",
-  "num_followers": 11431,
+  "num_followers": 11437,
   "original_name": "This Is Gigi Perez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arMWgAAAAAC1T1thz9eTP1Vc6uZ/8P6o",
+  "snapshot_id": "arRoAAAAAAAo2Hs7hLjuWySghFdcrMvc",
   "tracks": [
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 227141,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz"
+      "duration_ms": 298066,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/4W4UK2NM6pkYQ1NTfFnhBU"
     },
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 298066,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/4W4UK2NM6pkYQ1NTfFnhBU"
+      "duration_ms": 227141,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/4QjICO0GjMVJpK4OnxkAGz"
     },
     {
       "added_at": null,

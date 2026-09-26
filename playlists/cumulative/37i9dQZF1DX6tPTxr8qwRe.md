@@ -2,9 +2,9 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> sweet\. sharp\. unbothered \- VANITY on the cover
+> sweet\. sharp\. unbothered \- Nessa Barrett on the cover
 
-1,150 songs - 2 day 5 hr 18 min
+1,154 songs - 2 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [BODY HORROR](https://open.spotify.com/track/4X7VQgoyjOMTONyGI6rkEV) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [BODY HORROR](https://open.spotify.com/album/6KEW2xl30m37AfWixq60Jl) | 2:48 | 2026-04-17 | 2026-08-15 |
 | [Body On Me](https://open.spotify.com/track/6MglZeuPDQwHzZTxrRZfCW) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [I Promise No One's Watching](https://open.spotify.com/album/5IVW9XdJ8w9MFB6VO66AXZ) | 2:33 | 2025-06-13 | 2025-10-05 |
 | [Bon Voyage](https://open.spotify.com/track/012jGdugVtQMUJn8s6onGo) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Bon Voyage](https://open.spotify.com/album/7MkPMywDbiUC6QJ7J4Vgt9) | 3:24 | 2024-10-04 | 2025-02-22 |
+| [Bones and All](https://open.spotify.com/track/4A0O4CdnSXN7uoao2qCFvG) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Bones and All](https://open.spotify.com/album/1EShGQK7TXutid3iDDZPUS) | 3:21 | 2026-09-25 |  |
 | [BOO HOO](https://open.spotify.com/track/72JlIpEVjdNwFtffVJP2kK) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [BOO HOO](https://open.spotify.com/album/340DkD2ALkoIfq553m5lgl) | 2:50 | 2022-02-25 | 2022-07-02 |
 | [Bored](https://open.spotify.com/track/2iqsWOyAgyR7oELyZYEgz9) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Bored](https://open.spotify.com/album/0cgafe2qKB3lu4F8JDhWIS) | 2:47 | 2023-02-10 | 2023-07-15 |
 | [Bougie Bitch](https://open.spotify.com/track/3vwMUcxR0V664IvIt3HhfG) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Bougie Bitch](https://open.spotify.com/album/13qIfIFasLtP1VkcbKCM1g) | 2:38 | 2024-06-21 | 2024-10-12 |
@@ -329,6 +330,7 @@
 | [Ex's Side](https://open.spotify.com/track/4bmOMudg7SgJkoz5C0FTvj) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Ex's Side](https://open.spotify.com/album/5WlT8mcs04cM9ueyKTk78a) | 2:52 | 2021-12-03 | 2022-03-12 |
 | [ExBox](https://open.spotify.com/track/2fwC1bsAd5GrTwvGBRep0p) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/4fS2Qd6JEg1q6LCWPOEh9G) | 2:09 | 2022-10-07 | 2023-04-01 |
 | [EXPECTATIONS](https://open.spotify.com/track/5iZNagyVCvgTBRlxhvvyfD) | [Lana Lubany](https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR) | [EXPECTATIONS](https://open.spotify.com/album/4JVdNocE2EKTKdAHpc3wed) | 2:58 | 2023-06-02 | 2023-08-26 |
+| [expectations](https://open.spotify.com/track/25nbeJzxF3dwvtTq57QKZi) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 3:41 | 2026-09-25 |  |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2023-01-28 |
 | [EXTRA EXTRA](https://open.spotify.com/track/6hTudL1V7CHBhxwV8k9oIo) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [EXTRA EXTRA](https://open.spotify.com/album/7gJ1BUgV6kkyaFzKE5LizN) | 3:25 | 2023-07-21 | 2023-09-02 |
 | [F U Anthem \(Fuck You Anthem\)](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 | 2021-10-01 | 2022-03-26 |
@@ -494,6 +496,7 @@
 | [I Am Obsessed](https://open.spotify.com/track/423SNW35e6XTZMMVXda3K8) | [PUNCHBAG](https://open.spotify.com/artist/4cIkY1R6unpsnIdkLfOTFf) | [I Am Obsessed](https://open.spotify.com/album/3h3st9zgM3t7tPqmeZZzCz) | 3:23 | 2026-02-13 | 2026-05-16 |
 | [I Dare You](https://open.spotify.com/track/1s166KHIHNHlsmREqxQm5Y) | [Bentez](https://open.spotify.com/artist/4rWmSn2xY1knToB6aIfoaf) | [I Dare You](https://open.spotify.com/album/26IkVnsFMO6WiWat5WYV4f) | 3:05 | 2025-08-29 | 2026-02-21 |
 | [I Dated A Monster](https://open.spotify.com/track/2E2BQgdpVKcgDdS6IIJVrK) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [I Dated A Monster](https://open.spotify.com/album/5gGqwJK1phJFLisHG3CLPl) | 3:59 | 2024-03-01 | 2024-06-15 |
+| [I Don't Have Any Problems](https://open.spotify.com/track/28lnAZtEMdyBW3IWYsqko5) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [I Don't Have Any Problems](https://open.spotify.com/album/0U4GusNemic0pIDqPiFmuj) | 2:03 | 2026-09-25 |  |
 | [I DON'T LIKE YOU](https://open.spotify.com/track/1bPX434rtJb556MIkQt6mi) | [CG5](https://open.spotify.com/artist/3YJDqtTSjydvUpTvU1fJ6O) | [I DON'T LIKE YOU](https://open.spotify.com/album/3YeED48niwqqRwnnK3H8Hh) | 2:26 | 2026-06-26 |  |
 | [i feel everything](https://open.spotify.com/track/110y35XBBoCyzv1jClu3Kv) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [teaching a robot to love](https://open.spotify.com/album/0BOp6BSkFIfrUPaAOu2VgL) | 2:18 | 2022-06-03 | 2023-02-04 |
 | [I Gotta Be Cool](https://open.spotify.com/track/7ux2e8AFpQ7aM5YDjyNCwi) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/1afriBMjB8dx1CVmTsEI5a) | 3:29 | 2024-10-18 | 2025-03-01 |
@@ -568,7 +571,7 @@
 | [KILL4ME](https://open.spotify.com/track/0KxoMqgYkchnTZ0sRrlyqw) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [KILL4ME](https://open.spotify.com/album/7vjtCYVgXACX4bZ3nAvepU) | 2:20 | 2025-06-06 | 2025-10-18 |
 | [Killer](https://open.spotify.com/track/3MKBHqQ5EtXnChdVF4P3ji) | [Indy](https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ) | [Killer](https://open.spotify.com/album/3UgmPtg6ADEBPEef7RImgg) | 3:00 | 2022-10-28 | 2023-04-01 |
 | [killer queen](https://open.spotify.com/track/0qo1JukfClmpHnUOJxpFXi) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [killer queen](https://open.spotify.com/album/09h4w3F8jXAQnbYmGYktRR) | 2:58 | 2021-10-29 | 2023-01-06 |
-| [KILLSWITCH](https://open.spotify.com/track/2ONOuIhH0c9h8ioIxr2msm) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [KILLSWITCH](https://open.spotify.com/album/2UXXrsBmLTvy63ZD9o6YuX) | 2:18 | 2026-04-17 |  |
+| [KILLSWITCH](https://open.spotify.com/track/2ONOuIhH0c9h8ioIxr2msm) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [KILLSWITCH](https://open.spotify.com/album/2UXXrsBmLTvy63ZD9o6YuX) | 2:18 | 2026-04-17 | 2026-09-26 |
 | [Kind of Love](https://open.spotify.com/track/27q9snUZ3LptuVJyXgrHPk) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Kind of Love](https://open.spotify.com/album/68g8IaUYJTGfMnhTr661c0) | 3:38 | 2022-01-14 | 2022-04-29 |
 | [kinda smacks](https://open.spotify.com/track/4cwi0Yd3pq1GfvHj7FLMdn) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [kinda smacks](https://open.spotify.com/album/09Aw6tRqufmeBbVjR5kHrm) | 2:16 | 2024-02-16 | 2024-05-03 |
 | [kingpin](https://open.spotify.com/track/3n3KrqgcOGy8Zr3yaOotex) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [kingpin](https://open.spotify.com/album/7bxoNBTW1gQTx1POK4pgZb) | 2:38 | 2026-09-11 |  |
@@ -689,7 +692,7 @@
 | [More!](https://open.spotify.com/track/1tFeGs7Tbzbgpgv1rf8eg1) | [Nxdia](https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf) | [More!](https://open.spotify.com/album/6ZsrUt5WHKhI2SU4klueuo) | 2:27 | 2025-05-02 | 2025-06-14 |
 | [Mortal Kombat](https://open.spotify.com/track/0bJR1UNUVlYLfFRUrAqKFn) | [SkyDxddy](https://open.spotify.com/artist/2xe5FZM6bB4k1KhfTZBBSx) | [Mortal Kombat](https://open.spotify.com/album/7tYTD9ApMBnfvxcL8kMVdC) | 1:59 | 2025-03-07 | 2025-06-14 |
 | [MOST WANTED MAN](https://open.spotify.com/track/7mLoL2o1O1adcbi30eU7o7) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [MOST WANTED MAN](https://open.spotify.com/album/4RjkqlSc7GqoqyOYqOtXOx) | 2:47 | 2024-09-06 | 2025-01-25 |
-| [Mother](https://open.spotify.com/track/1GetI7Wey71J1LXKONATcO) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Mother](https://open.spotify.com/album/2GcvOIiDvnAyK1gLEgMQVu) | 1:39 | 2026-05-08 |  |
+| [Mother](https://open.spotify.com/track/1GetI7Wey71J1LXKONATcO) | [DYLN](https://open.spotify.com/artist/4qf6u9kjZdqQ1VI09mV1Q5) | [Mother](https://open.spotify.com/album/2GcvOIiDvnAyK1gLEgMQVu) | 1:39 | 2026-05-08 | 2026-09-26 |
 | [Mouthwash](https://open.spotify.com/track/0qkX92NooHlyyucGb0yaF5) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Melancholia](https://open.spotify.com/album/2DM6bydNkbiaQbxIxSTuhi) | 2:54 | 2022-09-09 | 2023-02-04 |
 | [MOVE](https://open.spotify.com/track/5FPfUz8dqrJmZEA0hV2nwT) | [Marged](https://open.spotify.com/artist/0o9HylUqkQAHeqKtW9TCy0) | [MOVE](https://open.spotify.com/album/5WE3dloLqYGlTZi3bmQLJm) | 5:02 | 2025-07-11 | 2025-10-05 |
 | [mR.mELoDramAtiC](https://open.spotify.com/track/6rMO78nXjFtwI5s83OSqUb) | [Shakira Jasmine](https://open.spotify.com/artist/18nKUAfNnowoqfqDhwI3X3) | [kira](https://open.spotify.com/album/5rmc5LHFzb8v69KTdNfoeX) | 2:52 | 2025-11-28 | 2026-05-02 |
@@ -878,7 +881,7 @@
 | [Selfish](https://open.spotify.com/track/7eWHF1vaNW7W8W8GotYrlq) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Selfish](https://open.spotify.com/album/67pLH9BcT0kwLCfFErRuvO) | 2:30 | 2022-03-25 | 2022-06-04 |
 | [SENSITIVE](https://open.spotify.com/track/7iOTB9EaWdIV7QmzDAGIce) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [SENSITIVE](https://open.spotify.com/album/0o8Bu11t3vEILxUdzLyyBx) | 2:15 | 2022-03-11 | 2022-06-04 |
 | [SERiAL KiLLER](https://open.spotify.com/track/5hAKpqv7L2bhzzQr4XDN6z) | [Ella Boh](https://open.spotify.com/artist/3UWNE3idxa2v2TMzrBRX11) | [SERiAL KiLLER](https://open.spotify.com/album/0izQeMP2SyIqsD8vH3s3bi) | 2:52 | 2025-10-31 | 2026-02-28 |
-| [Set Me on Fire](https://open.spotify.com/track/77AQnl9zkhm2JJHjAWA5gW) | [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA) | [Set Me on Fire](https://open.spotify.com/album/4FXiLqPjw7UbrMnbwfd0qm) | 3:20 | 2026-05-08 |  |
+| [Set Me on Fire](https://open.spotify.com/track/77AQnl9zkhm2JJHjAWA5gW) | [MOTHERMARY](https://open.spotify.com/artist/3NXcwLXXhOFaRP7zy9RPLA) | [Set Me on Fire](https://open.spotify.com/album/4FXiLqPjw7UbrMnbwfd0qm) | 3:20 | 2026-05-08 | 2026-09-26 |
 | [Seven](https://open.spotify.com/track/0YrwiodQd07LE9vpI0w3Iw) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [Seven](https://open.spotify.com/album/4bahLUJtW6lWbzyAfn4xD0) | 2:04 | 2022-09-09 | 2023-04-22 |
 | [Sex Concept](https://open.spotify.com/track/056QhSuhJ822uO45NZtq1X) | [SOFIA ISELLA](https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2) | [Sex Concept](https://open.spotify.com/album/2JOwZaCHcUSJUxQPQ9WfmY) | 3:52 | 2024-08-16 | 2025-01-25 |
 | [SEX MACHINA](https://open.spotify.com/track/5l8xjpKJW5Yj7mSSlSth3K) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [SEX MACHINA](https://open.spotify.com/album/6OcUMgJgqb5scFxtd7n4hq) | 2:09 | 2023-11-10 | 2024-03-23 |
@@ -1025,7 +1028,7 @@
 | [To The Moon](https://open.spotify.com/track/7JRnLgqbG12bgMeI0Nntei) | [NEVE](https://open.spotify.com/artist/2sZ1bsMMDGUvXBvihXLZn2) | [To The Moon](https://open.spotify.com/album/2ar7pzKt4oF0qyODJLwIMn) | 2:51 | 2023-07-28 | 2023-12-09 |
 | [Tombstone](https://open.spotify.com/track/5wRS72uvPwRMCY39ZzsGd3) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Tombstone](https://open.spotify.com/album/1evZwJqReLrvbQIyPamqFs) | 3:30 | 2026-04-10 | 2026-06-22 |
 | [Tongue Trick](https://open.spotify.com/track/0nmVf8TKm9VPvgELV4u2EA) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Choke Hold](https://open.spotify.com/album/7avibQveVA03ZGcknyu0dm) | 2:47 | 2024-08-30 | 2024-09-28 |
-| [Too Fast To Live, Too Young To Die](https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Too Fast To Live, Too Young To Die](https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP) | 3:21 | 2026-07-17 |  |
+| [Too Fast To Live, Too Young To Die](https://open.spotify.com/track/21MKQAjN27atrgu5jAlzaL) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Too Fast To Live, Too Young To Die](https://open.spotify.com/album/7izVNMquDzVFQSKhdG3nrP) | 3:21 | 2026-07-17 | 2026-09-26 |
 | [too hot to cry](https://open.spotify.com/track/3RhPFIqJ9waaB5FTg8wugv) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 3:08 | 2022-10-14 | 2023-03-25 |
 | [Too Late To Move On](https://open.spotify.com/track/3dpf0TzNlYHtO2UIPtf7MF) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Too Late To Move On](https://open.spotify.com/album/7FrVCTcqXnk62p8QDxR3Ii) | 2:31 | 2023-05-05 | 2023-06-24 |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2022-05-20 | 2022-09-24 |
@@ -1034,6 +1037,7 @@
 | [Touch Therapy](https://open.spotify.com/track/26121YtyDrlazXPzMxmJx7) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [Touch Therapy](https://open.spotify.com/album/5opyM4qE5y3xM6etvgBzzF) | 2:29 | 2024-05-31 | 2024-09-14 |
 | [touching myself](https://open.spotify.com/track/4Syo2P98egu33XoKqnywLg) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [touching myself](https://open.spotify.com/album/2HGGq0rJDUv7rjeRBep34t) | 2:39 | 2023-05-05 | 2023-08-05 |
 | [touchin’ me](https://open.spotify.com/track/5Vwkt7zvEcj5riL46ZbM5K) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [touchin’ me](https://open.spotify.com/album/5QuI0tJc8MziD6jMD0bUm0) | 2:29 | 2024-07-26 | 2024-10-19 |
+| [Tough Love](https://open.spotify.com/track/1qeDiZrY4LBsycOVHSlYWI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Tough Love](https://open.spotify.com/album/7CiptkUx1T0sHuZgUcwxEq) | 3:15 | 2026-09-25 |  |
 | [Tough Luck](https://open.spotify.com/track/7HOUb3yqu08VJHI81cq7xt) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Tough Luck](https://open.spotify.com/album/2sLG38zmVGBx38pYtYTtbD) | 2:43 | 2025-03-07 | 2025-06-14 |
 | [tower of memories](https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [the theory of you](https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB) | 3:28 | 2025-11-07 | 2026-04-04 |
 | [Toy Soldier](https://open.spotify.com/track/70tTI0z1IDR7OqOQQZM9e3) | [Earth to Eve](https://open.spotify.com/artist/5VjqGrGYRn6vdmCxlLNsea) | [Toy Soldier](https://open.spotify.com/album/5Q6aPqXpmbRMJnIKiWgohG) | 3:56 | 2025-12-19 | 2026-02-28 |

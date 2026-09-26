@@ -1,13 +1,29 @@
 {
   "description": "Raw, emotional, and acoustic. Cover: Tinsley Ellis",
-  "num_followers": 875564,
+  "num_followers": 875523,
   "original_name": "Acoustic Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADScwuV+pVCt66VB9azm+gwbdMdX",
+  "snapshot_id": "AAAAANCuVJnmplPzB1CZFhnuGywrr7ID",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:00:36",
+      "album": {
+        "name": "Yellow Dog Blues",
+        "url": "https://open.spotify.com/album/6VT7JNTPe7yArVzWJJOLOs"
+      },
+      "artists": [
+        {
+          "name": "Bruce Cockburn",
+          "url": "https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Yellow Dog Blues",
+      "url": "https://open.spotify.com/track/3bEOHX0DEKB6Wo0N4njlIo"
+    },
     {
       "added_at": "2026-03-06 05:00:03",
       "album": {
@@ -1095,22 +1111,6 @@
       "duration_ms": 194373,
       "name": "Alabama Blues",
       "url": "https://open.spotify.com/track/4ghvDvK0tWXLfvG4znwpAe"
-    },
-    {
-      "added_at": "2020-08-11 16:18:31",
-      "album": {
-        "name": "America the Beautiful",
-        "url": "https://open.spotify.com/album/2Bi2Z6pBfKhBDRDdVMNZhv"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "America the Beautiful",
-      "url": "https://open.spotify.com/track/3ohWkpSBpimp9jXbvDETR1"
     },
     {
       "added_at": "2020-08-11 16:18:31",

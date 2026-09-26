@@ -4,7 +4,7 @@
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Salma Salsabil
 
-1,800 songs - 4 day 17 hr 54 min
+1,802 songs - 4 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Aku Cape Banget](https://open.spotify.com/track/4D3PddoeRoeKqSpacIawSz) | [Refo Dan Fauna](https://open.spotify.com/artist/6ILCDTreFre4EDfBZxCGxi) | [Aku Cape Banget](https://open.spotify.com/album/3xbo1OE0afgzqK5btGnDc3) | 3:10 | 2025-09-11 | 2025-10-17 |
 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 | 2025-03-13 | 2025-05-30 |
 | [Aku dan Kamu](https://open.spotify.com/track/1zC1d201hDkb0XPB61cVPl) | [White Chorus](https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc) | [L.U.F.S.](https://open.spotify.com/album/3ujE961OraZhbOwYh1eMk7) | 4:25 | 2026-09-03 |  |
+| [Aku Dan Kamu \(Tak Ingin Terpisah\)](https://open.spotify.com/track/69VeZLzqr4fRrwxyvM7zfK) | [Adiw](https://open.spotify.com/artist/0eZiFlsqZflber3eKOfYWa), [Tiara Effendy](https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg) | [Aku Dan Kamu \(Tak Ingin Terpisah\)](https://open.spotify.com/album/04m9NcElzVdytReDsUm3pG) | 2:45 | 2026-09-25 |  |
 | [Aku Harus Pergi](https://open.spotify.com/track/33HagC36ZDbYVqoc9ud6vm) | [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Ari Lesmana](https://open.spotify.com/artist/3MMDw11m6HJrXlGOE3honc) | [Aku Harus Pergi](https://open.spotify.com/album/4ueflq2bwdCMKNx6RwbFbe) | 3:52 | 2026-06-04 |  |
 | [Aku Ingin](https://open.spotify.com/track/4lmgkmp7kOMg0ilXMyJheF) | [Pee Wee Gaskins](https://open.spotify.com/artist/62USA8ccl2yj1sSVyqL2LR) | [Aku Ingin](https://open.spotify.com/album/5M7gzKtJsGKEhhV7Isa0ES) | 4:21 | 2025-09-11 | 2025-11-07 |
 | [Aku Juga Manusia](https://open.spotify.com/track/75JjV3OxwhcCmOA4RZvmBI) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Aku Juga Manusia](https://open.spotify.com/album/2mYEZvkuYhHasChpxIVjc5) | 4:21 | 2026-01-22 | 2026-03-27 |
@@ -1323,6 +1324,7 @@
 | [Sampai Kapan?](https://open.spotify.com/track/4kLQSjBNtVIDaGcNZQkVss) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Sampai Kapan?](https://open.spotify.com/album/0gLgDGOCrdYJHpOaXjFNcf) | 5:02 | 2026-05-21 | 2026-06-26 |
 | [Sampai Kita Jadi Tua](https://open.spotify.com/track/1NnEN2eunhro9y6BMkcGPj) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Sampai Kita Jadi Tua](https://open.spotify.com/album/1jlvdtwI733LB4iOPyPN5p) | 3:34 | 2024-09-26 | 2024-11-15 |
 | [Sampai Menutup Mata](https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Sampai Menutup Mata](https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9) | 4:08 | 2024-09-05 | 2025-01-10 |
+| [Sampai Ujung Batas](https://open.spotify.com/track/7BNvfb7xnggIInGUj6kKxa) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ) | [Dunia dan Seisinya](https://open.spotify.com/album/6trwcUAKmtcddQWTxCBA1D) | 3:50 | 2026-09-25 |  |
 | [Sampaikan Kepadanya](https://open.spotify.com/track/6xPmaa0xUwO4yFTnQqtvPU) | [Davisiumbing](https://open.spotify.com/artist/6I0a3WIV63MtJskiaXUEYS) | [Sampaikan Kepadanya](https://open.spotify.com/album/25g3WqPL8izBIxfkHsx678) | 4:33 | 2024-11-14 | 2025-02-28 |
 | [Sampaikan Rindu](https://open.spotify.com/track/2bRNul3hyw1PSb7HoYLVPY) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG) | [Melangkah](https://open.spotify.com/album/2y28ojd9lBvtJjgoGgCLov) | 4:27 | 2024-11-08 | 2025-02-28 |
 | [Sana Jatuh Cinta](https://open.spotify.com/track/5EUKIw2KWvvECrdEwjNvQJ) | [Natasya Sabella](https://open.spotify.com/artist/2w2xKlumnOzCf5eVTkmNXn) | [Sana Jatuh Cinta](https://open.spotify.com/album/63VBNqGSZxy0Hlvj8bf5n2) | 3:50 | 2026-09-24 |  |
@@ -1451,7 +1453,7 @@
 | [Seperti Laut Kepada Langit](https://open.spotify.com/track/5TbRXGcAJ5OHoOFBmWeDjW) | [Barsena Bestandhi](https://open.spotify.com/artist/5vZpfzIdyiutGngkSKEb8i) | [Seperti Laut Kepada Langit](https://open.spotify.com/album/7FtUz5SyFn0HgNeUY6VIbb) | 4:57 | 2024-03-07 | 2024-05-24 |
 | [September](https://open.spotify.com/track/50RwqBmAJyNxr8dZO8AHlY) | [Sidepony](https://open.spotify.com/artist/0OqP950wV7lxctJvgF8Z2m) | [September](https://open.spotify.com/album/75I9lE4LhtFYySQszqi99A) | 4:09 | 2026-08-20 | 2026-09-11 |
 | [Serasa X Juwita](https://open.spotify.com/track/4tBWE1YXuLOKalCHyAgRvq) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Serasa X Juwita](https://open.spotify.com/album/7ieS8TtZfUqKCycMTAkPHh) | 6:32 | 2025-05-08 | 2025-06-27 |
-| [Seratus Hidup Lagi](https://open.spotify.com/track/7gTaUqRa3geMRK2QAuz7pW) | [Meidra](https://open.spotify.com/artist/1ncnrVp75hhvVYoseGD9mD) | [Seratus Hidup Lagi](https://open.spotify.com/album/43EEGIVO0AUOx9nctLN4Ue) | 3:31 | 2026-08-13 | 2026-09-11 |
+| [Seratus Hidup Lagi](https://open.spotify.com/track/7gTaUqRa3geMRK2QAuz7pW) | [Meidra](https://open.spotify.com/artist/1ncnrVp75hhvVYoseGD9mD) | [Seratus Hidup Lagi](https://open.spotify.com/album/43EEGIVO0AUOx9nctLN4Ue) | 3:31 | 2026-08-13 |  |
 | [Serba Salah](https://open.spotify.com/track/5tEsljQtjfvDYKF7sUqzZ3) | [Giant Jay](https://open.spotify.com/artist/4m82DgDdkBu9cc55yndlQI) | [Serba Salah](https://open.spotify.com/album/1domYqDxThQPM3cMvW6Bow) | 3:36 | 2025-06-19 | 2025-08-01 |
 | [Serba Serbi Mencinta](https://open.spotify.com/track/2DHdfENEshp7aHjUA3Wo8I) | [Samuel Cipta](https://open.spotify.com/artist/7zJZ3KU0oAP3yxu0HzYnOc) | [Serba Serbi Mencinta](https://open.spotify.com/album/4okPhDGe1wPxv9BXLIVroU) | 3:44 | 2024-02-23 | 2024-03-29 |
 | [Seribu Pelukan](https://open.spotify.com/track/1hJTAqeobG7hQEavj8PUjO) | [Raissa Ramadhani](https://open.spotify.com/artist/7F4To7Rp9vdkoaCi70TYD5) | [Seribu Pelukan](https://open.spotify.com/album/2l6X7rCdAjVmUG0KzbfhEW) | 3:53 | 2024-01-18 | 2024-02-02 |

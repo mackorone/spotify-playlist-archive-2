@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Emmet Cohen",
+  "description": "New jazz for open minds. Cover: Kiefer",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -4790,7 +4790,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 220573,
       "name": "Birds Ascend",
       "url": "https://open.spotify.com/track/11tFXzLezhHKquc1Bz3f63"
@@ -6404,7 +6404,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 214837,
       "name": "BusyForYa (feat. Planet Giza, Shibo)",
       "url": "https://open.spotify.com/track/2ETcuQhpS0DmavS5v2fU6O"
@@ -15505,6 +15505,24 @@
     },
     {
       "album": {
+        "name": "Bodies & Ideas",
+        "url": "https://open.spotify.com/album/0VTpBRBEUqEuThv2zKxIt5"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Phal",
+          "url": "https://open.spotify.com/artist/1AKiAMwxnF2f1zBlSGDfXC"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204360,
+      "name": "Gimme a Smile",
+      "url": "https://open.spotify.com/track/6K2gm86gUFVSNFe2Fnvdvs"
+    },
+    {
+      "album": {
         "name": "Giorgio knows",
         "url": "https://open.spotify.com/album/5J8z4j1nlYXNgvbtjdwGrA"
       },
@@ -21294,7 +21312,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 272535,
       "name": "Las Rosas No Hablan (feat. C\u00e9cile McLorin Salvant)",
       "url": "https://open.spotify.com/track/0K8VCnJbsWEAyq0cW33OkN"
@@ -21834,7 +21852,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 377292,
       "name": "Let's try",
       "url": "https://open.spotify.com/track/6Y6ncZAtBwI16AP5541aDr"
@@ -28959,6 +28977,32 @@
     },
     {
       "album": {
+        "name": "Memory Bomb",
+        "url": "https://open.spotify.com/album/4LyevrLzvyquVTex1GSjuB"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy"
+        },
+        {
+          "name": "Shibo",
+          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167794,
+      "name": "Overture (feat. Nate Smith, Shibo)",
+      "url": "https://open.spotify.com/track/2NvLivoGmNiAxKdI6ylzPk"
+    },
+    {
+      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/7AlU9ycA28c66nwVrkxn9o"
       },
@@ -29994,7 +30038,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 130532,
       "name": "play (feat. kamasi washington)",
       "url": "https://open.spotify.com/track/613oOKOga5hwD4KqFKJQUq"
@@ -33027,6 +33071,40 @@
     },
     {
       "album": {
+        "name": "Save Your Love For Me",
+        "url": "https://open.spotify.com/album/5pignuLGf8luVEkknB07MX"
+      },
+      "artists": [
+        {
+          "name": "Steven Feifke",
+          "url": "https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S"
+        },
+        {
+          "name": "Alita Moses",
+          "url": "https://open.spotify.com/artist/7BIauBSZzpxGjwgYujcnVl"
+        },
+        {
+          "name": "Raviv Markovitz",
+          "url": "https://open.spotify.com/artist/3cKRClpJBjmZuqXYPCsv3Z"
+        },
+        {
+          "name": "Alex Wintz",
+          "url": "https://open.spotify.com/artist/1b0PpNT04TKHBh2tBzDaHY"
+        },
+        {
+          "name": "James Burton III",
+          "url": "https://open.spotify.com/artist/3prSL24E1gL8ZysAiQ16tu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433093,
+      "name": "Save Your Love For Me",
+      "url": "https://open.spotify.com/track/3yLyUD6ZVnpUAZ8tzUPmVI"
+    },
+    {
+      "album": {
         "name": "Savvy",
         "url": "https://open.spotify.com/album/5BJBUwa82tAkixczrIlqjl"
       },
@@ -33400,6 +33478,28 @@
       "duration_ms": 135504,
       "name": "Sentimental Things",
       "url": "https://open.spotify.com/track/1CHvxWOHG3Vikso7RI0CS1"
+    },
+    {
+      "album": {
+        "name": "sepia",
+        "url": "https://open.spotify.com/album/44KLsk28L2z0Y0BuNhSPkG"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270001,
+      "name": "sepia",
+      "url": "https://open.spotify.com/track/2rHOQ1CXk7nB5MyRQcLynX"
     },
     {
       "album": {
@@ -43850,6 +43950,28 @@
       "duration_ms": 257221,
       "name": "Waterfilm",
       "url": "https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH"
+    },
+    {
+      "album": {
+        "name": "Water\u2019s Edge",
+        "url": "https://open.spotify.com/album/1JClFAJBmFZNpK0WrmJwQM"
+      },
+      "artists": [
+        {
+          "name": "Adrian Younge",
+          "url": "https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd"
+        },
+        {
+          "name": "Ali Shaheed Muhammad",
+          "url": "https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174868,
+      "name": "Water\u2019s Edge",
+      "url": "https://open.spotify.com/track/1Ay0dA7sOqOanoqIWsghLU"
     },
     {
       "album": {

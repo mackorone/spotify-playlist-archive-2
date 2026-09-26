@@ -4,10 +4,11 @@
 
 > 
 
-38 songs - 2 hr 39 min
+39 songs - 2 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1471](https://open.spotify.com/track/1BVo3CqGJO3YMNeoK5Ihye) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [1471](https://open.spotify.com/album/6aazGhy1unBHW4nPE6uHlN) | 1:44 | 2026-09-25 |  |
 | [Age Ain't Nothing But a Number](https://open.spotify.com/track/3pJTQBXx4iT71L0iLaZhTT) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But a Number EP](https://open.spotify.com/album/7BxgeduIn0lu0x3r97RtjE) | 4:12 | 2024-07-09 |  |
 | [Being Boring \- 2018 Remaster](https://open.spotify.com/track/6utJDOqzWj8FggDp1R2Wi2) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Behaviour: Further Listening 1990 \- 1991 \(2018 Remaster\)](https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET) | 6:50 | 2024-07-06 |  |
 | [Blue Velvet](https://open.spotify.com/track/4LAa9a5VMkk3mN8BHhB93c) | [Alberto Baldan Bembo](https://open.spotify.com/artist/13MlmKnz81PZqZgMfCdVRR) | [L'amica di mia madre \(Colonna sonora originale del film\)](https://open.spotify.com/album/3wMMEeUpFG4YqilF56KCHw) | 1:18 | 2024-07-03 |  |

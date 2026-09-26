@@ -1,6 +1,6 @@
 {
   "description": "Baba God, run am \ud83d\ude4f. \nCover:  T Dollar",
-  "num_followers": 102909,
+  "num_followers": 102973,
   "original_name": "afro adura ",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2026-09-25 00:01:41",
       "album": {
+        "name": "A LOT A LOT",
+        "url": "https://open.spotify.com/album/3hGg2tQ8Z0zKkmaR4hlIVk"
+      },
+      "artists": [
+        {
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+        }
+      ],
+      "duration_ms": 182689,
+      "name": "A LOT A LOT",
+      "url": "https://open.spotify.com/track/13qqNFF4btUAEj352hwIKu"
+    },
+    {
+      "added_at": "2026-09-25 00:01:41",
+      "album": {
         "name": "Lifestyle (YA MAN)",
         "url": "https://open.spotify.com/album/2d6ZBsNkOyYoYI2gSN535T"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 135000,
       "name": "Lifestyle (YA MAN)",
       "url": "https://open.spotify.com/track/6ubxq6y4rAkRhb1j8rGA2Q"
-    },
-    {
-      "added_at": "2026-09-25 00:01:41",
-      "album": {
-        "name": "A LOT A LOT",
-        "url": "https://open.spotify.com/album/3hGg2tQ8Z0zKkmaR4hlIVk"
-      },
-      "artists": [
-        {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
-        }
-      ],
-      "duration_ms": 184854,
-      "name": "A LOT A LOT",
-      "url": "https://open.spotify.com/track/13qqNFF4btUAEj352hwIKu"
     },
     {
       "added_at": "2026-09-25 00:01:41",
@@ -463,18 +463,18 @@
     {
       "added_at": "2026-09-25 00:01:41",
       "album": {
-        "name": "Ololade Asake",
-        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
+        "name": "LAMEDA / AWAY",
+        "url": "https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky"
       },
       "artists": [
         {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+          "name": "SAMAD",
+          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
         }
       ],
-      "duration_ms": 164125,
-      "name": "Baba God",
-      "url": "https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM"
+      "duration_ms": 136621,
+      "name": "Lameda",
+      "url": "https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe"
     },
     {
       "added_at": "2026-09-25 00:01:41",
@@ -499,18 +499,18 @@
     {
       "added_at": "2026-09-25 00:01:41",
       "album": {
-        "name": "LAMEDA / AWAY",
-        "url": "https://open.spotify.com/album/6Pjh1WqGkR7CeV18XNJeky"
+        "name": "Ololade Asake",
+        "url": "https://open.spotify.com/album/37Mc42zLnXI5oEN0WcyEA4"
       },
       "artists": [
         {
-          "name": "SAMAD",
-          "url": "https://open.spotify.com/artist/0X1sGf1y8XCupQFDUkiPmB"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
         }
       ],
-      "duration_ms": 136621,
-      "name": "Lameda",
-      "url": "https://open.spotify.com/track/7DRJm0x4djOSGWLiAbRohe"
+      "duration_ms": 164125,
+      "name": "Baba God",
+      "url": "https://open.spotify.com/track/5GLAHK3yCLCZ9lzmb44EVM"
     },
     {
       "added_at": "2026-09-25 00:01:41",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-09-25 00:01:41",
       "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
-      },
-      "artists": [
-        {
-          "name": "Llona",
-          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
-        }
-      ],
-      "duration_ms": 170626,
-      "name": "Pressure",
-      "url": "https://open.spotify.com/track/5qXKP8mciCAtjLfr91LwVl"
-    },
-    {
-      "added_at": "2026-09-25 00:01:41",
-      "album": {
         "name": "Olamid\u00e9",
         "url": "https://open.spotify.com/album/4jUXymdfBvDcDQQV0gdure"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 211756,
       "name": "Free",
       "url": "https://open.spotify.com/track/75NaRkat24l3uKOyfymyzJ"
+    },
+    {
+      "added_at": "2026-09-25 00:01:41",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/3Jf7CAW4GkcpfPpXfli4Oa"
+      },
+      "artists": [
+        {
+          "name": "Llona",
+          "url": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc"
+        }
+      ],
+      "duration_ms": 170626,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/5qXKP8mciCAtjLfr91LwVl"
     },
     {
       "added_at": "2026-09-25 00:01:41",
@@ -823,6 +823,22 @@
     {
       "added_at": "2026-09-25 00:01:41",
       "album": {
+        "name": "Barrystar Vol. 1",
+        "url": "https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA"
+      },
+      "artists": [
+        {
+          "name": "Barry Jhay",
+          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
+        }
+      ],
+      "duration_ms": 192857,
+      "name": "See Me See God (SMSG)",
+      "url": "https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H"
+    },
+    {
+      "added_at": "2026-09-25 00:01:41",
+      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/2wRyRUAyi7cr8XITcisnKb"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 161920,
       "name": "Cry (with Black Sherif)",
       "url": "https://open.spotify.com/track/6Xec7VYM3Y98esBVd6VCPh"
-    },
-    {
-      "added_at": "2026-09-25 00:01:41",
-      "album": {
-        "name": "Barrystar Vol. 1",
-        "url": "https://open.spotify.com/album/4HutXkeh0hWTIw2rEFhJIA"
-      },
-      "artists": [
-        {
-          "name": "Barry Jhay",
-          "url": "https://open.spotify.com/artist/1iqokWFu0o5C72D1x5MuLt"
-        }
-      ],
-      "duration_ms": 192857,
-      "name": "See Me See God (SMSG)",
-      "url": "https://open.spotify.com/track/1xFkc8KXwVk1FoG5xhcU3H"
     },
     {
       "added_at": "2026-09-25 00:01:41",

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Rashmeet Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,175 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,180 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Faqeeran \- Live](https://open.spotify.com/track/7DlNgLpxX3gPh3tzqrY7tL) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [MUSAFIR \(Live\)](https://open.spotify.com/album/6IAfM7GKWU0oKM2XNQv6qI) | 4:42 |
 | 2 | [Jogi](https://open.spotify.com/track/22OYPLWN8ADWaWJgt6VNh8) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jogi](https://open.spotify.com/album/3MTAv5z2xPjEJCEqMGIrf3) | 2:24 |
-| 3 | [Asla Najaij](https://open.spotify.com/track/1gp9frbLJZRdvu7GFfTKbX) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Zealo](https://open.spotify.com/artist/6ExvbG6BYbkFG4dp57ea6k) | [Asla Najaij](https://open.spotify.com/album/46cJtfiJmMzUYoKhkefiQU) | 2:21 |
-| 4 | [Uddi Uddi](https://open.spotify.com/track/3km3RYsvgGjijyfMAOwr8C) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Forever](https://open.spotify.com/album/3eOgLmDciOYgHrX60jnN9y) | 2:57 |
+| 3 | [Uddi Uddi](https://open.spotify.com/track/3km3RYsvgGjijyfMAOwr8C) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Forever](https://open.spotify.com/album/3eOgLmDciOYgHrX60jnN9y) | 2:57 |
+| 4 | [Nazar](https://open.spotify.com/track/37ogTsqSzkHARCwff2p9f9) | [Sifat Dhillon](https://open.spotify.com/artist/3K7jwOEv0p7Uci0NhZXugC), [Don Nas](https://open.spotify.com/artist/7z5ImG1hrWgPx7K5HMMEcC), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d) | [Nazar](https://open.spotify.com/album/2JQSlImy0ITeARqyQQbTzw) | 2:51 |
 | 5 | [Han G](https://open.spotify.com/track/6sx9Ex9d2pRHqF9l9VLch8) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge), [Jaggi Bathinde Wala](https://open.spotify.com/artist/1Jbvo4pjRoe615tEiA12X0) | [Han G](https://open.spotify.com/album/0423F7TMUDOIn7hwDFAEsJ) | 2:22 |
 | 6 | [Lala Lala](https://open.spotify.com/track/5a5xZ3iA2cB8vWEmHbC2kd) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg) | [Lala Lala](https://open.spotify.com/album/2TWuq3arHNQS8QeNVKWIaz) | 2:42 |
 | 7 | [Nagri Nagri \("From Bibi Rajni"\)](https://open.spotify.com/track/1vuC6Y0R7WI9uOUm4h6zYJ) | [Jyoti Nooran](https://open.spotify.com/artist/7ezZ4ix4QBrKkvxanGClFB), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harmanjeet Singh](https://open.spotify.com/artist/5GKQZoriMz17iLIGdRp2Yt) | [Nagri Nagri \("From Bibi Rajni"\)](https://open.spotify.com/album/0fH91dN0Sr2Dwj382FM5DI) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 49 | [Yaari](https://open.spotify.com/track/5qMOxQs2vj9b5Vdh4pj8bi) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX), [Lucas](https://open.spotify.com/artist/7y1Z5RFuhmn0L1in87Hayd) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:19 |
 | 50 | [Ammiye](https://open.spotify.com/track/48bRxd4YmkZSMaCEiNpWbP) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:40 |
 
-Snapshot ID: `AAAAANpXZ4OFULumQXG0yJM6E6xLgrVf`
+Snapshot ID: `AAAAAEVJVwE6Z9Ec2WO3jpdBYCvc7sNA`

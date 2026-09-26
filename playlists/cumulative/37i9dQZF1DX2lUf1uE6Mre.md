@@ -4,7 +4,7 @@
 
 > Die Playlist zur Wasserpfeife\. Cover: Shirin David, Summer Cem
 
-538 songs - 22 hr 40 min
+539 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Airforce](https://open.spotify.com/track/52DjIXARE3qh096lgv77XA) | [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Airforce](https://open.spotify.com/album/2FZfpEgaQCVeYLieGFVorP) | 2:45 | 2024-08-26 | 2024-09-03 |
 | [AKON](https://open.spotify.com/track/6YFNhYf7A33biVmMG1JSQf) | [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [MOST VALUABLE PLAYA](https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v) | 2:18 | 2025-04-10 | 2025-08-23 |
 | [AKRAPOVIC](https://open.spotify.com/track/3GUEKLXKqmyOFDdyv57B5o) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [MERO](https://open.spotify.com/artist/5wyWp867LWGjFmYZXVSFnZ) | [AKRAPOVIC](https://open.spotify.com/album/1XWTn78hAVxuVT3W41LoAI) | 2:19 | 2025-12-19 |  |
-| [Aladin](https://open.spotify.com/track/3OfWj0eUj76k3Hz9HKD6uA) | [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Aladin](https://open.spotify.com/album/3q4PDQhnNKNrJa2Hwy4Z7F) | 2:50 | 2026-06-11 |  |
+| [Aladin](https://open.spotify.com/track/3OfWj0eUj76k3Hz9HKD6uA) | [Ché Salah](https://open.spotify.com/artist/6WOkXoxrbPnZXLHVcNqJCT), [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Aladin](https://open.spotify.com/album/3q4PDQhnNKNrJa2Hwy4Z7F) | 2:50 | 2026-06-11 | 2026-09-26 |
 | [ALLE LIEBEN MUSSO](https://open.spotify.com/track/76wDd2m8dQi8YpMcgFKRJn) | [Musso](https://open.spotify.com/artist/2FyxcdLSH7XqsfJE6Iu0tJ) | [STILL DON'T PANIC](https://open.spotify.com/album/3bohKQuv5jLycIyK2HaqpE) | 2:40 | 2025-11-06 |  |
 | [Alles](https://open.spotify.com/track/7DbBL1xhWnlSwQTNup2kwg) | [Schubi AKpella](https://open.spotify.com/artist/2SveKtmknwwMpYJtuFkYZj), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Alles](https://open.spotify.com/album/01BTZn6JgVZ6c4DmFwJ4SQ) | 3:07 | 2026-01-16 |  |
 | [Alors \(feat\. CAPO\)](https://open.spotify.com/track/0zBOXwDbCEM0Wbx3rqVdQb) | [Kurdo](https://open.spotify.com/artist/1yIifIA91WgmfzBcjbQB8i), [CAPO](https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu) | [KRISTALL](https://open.spotify.com/album/6Erf1V9IXZsN2oY2AO5g0g) | 2:44 | 2024-06-28 |  |
@@ -183,6 +183,7 @@
 | [Fashion Killa](https://open.spotify.com/track/4bGE5BdC6qUND3OMhp1dt0) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Fashion Killa](https://open.spotify.com/album/6BVxAzp75T4l3Mwn97vjNg) | 2:12 | 2026-04-09 |  |
 | [Favela](https://open.spotify.com/track/75lcLViAJrnKsQTVgn1ZBp) | [Zuna](https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e) | [Favela](https://open.spotify.com/album/3qtjEZ0ULgJaKjf5eIhapK) | 2:12 | 2024-08-21 | 2024-10-11 |
 | [Favela Type Beat](https://open.spotify.com/track/0yfe4whuXtjif5WQt4uXGu) | [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [Favela Type Beat](https://open.spotify.com/album/6Jy1my0Y51UIeZSmp37P9K) | 2:27 | 2024-06-28 | 2024-12-17 |
+| [FEELINGS](https://open.spotify.com/track/06gDGefw318uLsbZwD2lzC) | [marlon](https://open.spotify.com/artist/1Vik8Idfyx10pDtl7oyZGL), [Southside Q](https://open.spotify.com/artist/31iD3wB1injwPbHsq3LI1l) | [FEELINGS](https://open.spotify.com/album/6hAzYzd0fzIkRX3uHW2q89) | 1:56 | 2026-09-25 |  |
 | [Fiona](https://open.spotify.com/track/3SM5bLdiELoAWycAy7dD2J) | [BENSH47](https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw) | [Fiona](https://open.spotify.com/album/6ytRAacYIXoohTPj6RshfF) | 2:52 | 2025-09-18 | 2025-10-03 |
 | [Fremder Mann](https://open.spotify.com/track/5Mduvr7sXDbkXh5rBDLBZg) | [Aymo](https://open.spotify.com/artist/4dFsxc7SFDOmkzNLKILGUq), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Fremder Mann](https://open.spotify.com/album/4yURqlXD0uHzw8bvTgemOO) | 2:43 | 2026-01-22 | 2026-02-10 |
 | [French Nails](https://open.spotify.com/track/5mOuGEk24EcFEiucO9rKhZ) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [French Nails](https://open.spotify.com/album/27MfpZoTZHr8OWIsgjCXCB) | 2:13 | 2025-02-03 | 2025-04-18 |

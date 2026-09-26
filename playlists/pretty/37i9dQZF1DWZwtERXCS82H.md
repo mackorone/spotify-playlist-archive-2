@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 
 > Calm and quiet piano music for reading.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,650,455 likes - 155 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,651,511 likes - 155 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In the Light of the Moon](https://open.spotify.com/track/3tfmiBDVxp5nGqoBBB2QxU) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [In the Light of the Moon](https://open.spotify.com/album/7fFLGkrMPuK6IuEnZ0C2Hw) | 2:23 |
 | 2 | [Fragments](https://open.spotify.com/track/3908RXyBz01sSe4SDY9SHw) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Fragments](https://open.spotify.com/album/5m2blnRxFotgjHSeMl1kZl) | 2:00 |
-| 3 | [Passing Clouds](https://open.spotify.com/track/3n2jtELNk0pDk60WEFELvw) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Passing Clouds](https://open.spotify.com/album/6yPyotkHUgjWsdzxLiC0jz) | 3:15 |
-| 4 | [Evening Breeze](https://open.spotify.com/track/7tprazZON3rZewH5u0UBfn) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [Evening Breeze](https://open.spotify.com/album/37Zu37uyM3Yve7ys41qn47) | 2:20 |
-| 5 | [Contemplation](https://open.spotify.com/track/2EAPaYvSuOQd4zCUTIyJc1) | [A Howard](https://open.spotify.com/artist/4Wn0X2hBSyW6qZNbOFztcO) | [Contemplation](https://open.spotify.com/album/2jG0rJUN43JPLZJdPuqoCf) | 2:25 |
+| 3 | [Contemplation](https://open.spotify.com/track/2EAPaYvSuOQd4zCUTIyJc1) | [A Howard](https://open.spotify.com/artist/4Wn0X2hBSyW6qZNbOFztcO) | [Contemplation](https://open.spotify.com/album/2jG0rJUN43JPLZJdPuqoCf) | 2:25 |
+| 4 | [Passing Clouds](https://open.spotify.com/track/3n2jtELNk0pDk60WEFELvw) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Passing Clouds](https://open.spotify.com/album/6yPyotkHUgjWsdzxLiC0jz) | 3:15 |
+| 5 | [Evening Breeze](https://open.spotify.com/track/7tprazZON3rZewH5u0UBfn) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [Evening Breeze](https://open.spotify.com/album/37Zu37uyM3Yve7ys41qn47) | 2:20 |
 | 6 | [Leaving The Nest](https://open.spotify.com/track/0LSl8gspRfVmXg5qzgS2mX) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Leaving The Nest](https://open.spotify.com/album/0jwUlqxQuuw3jmpwSIpqQM) | 2:32 |
 | 7 | [New Light](https://open.spotify.com/track/5XaDdPqb8MTApJ5kqReqgg) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [New Light](https://open.spotify.com/album/5CUoTSDPsTd5mfpJsWIbz3) | 2:26 |
 | 8 | [Full Of Air](https://open.spotify.com/track/2F0M2iHNjKyTNnWbrcTKtf) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Full Of Air](https://open.spotify.com/album/42wLpLUbOpixFBCxuxKNMj) | 2:18 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwtERXCS82H.md) - [plain]
 | 154 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 |
 | 155 | [Nostalgia](https://open.spotify.com/track/2VLZp2Z7FLrkn2ysVgZGKY) | [Jacob Hall](https://open.spotify.com/artist/3QbJuIiSnvn9BHetzinMUM) | [Nostalgia](https://open.spotify.com/album/4tradG5YoXryCru3ftThli) | 2:12 |
 
-Snapshot ID: `AAAAAGZwj93zxtn4XD7AE75ZktYrFF6C`
+Snapshot ID: `AAAAANz4zJDQVRyd5ltB1ugH0MlAyhCO`

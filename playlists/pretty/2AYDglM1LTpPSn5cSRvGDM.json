@@ -1,12 +1,12 @@
 {
   "description": "The best Progressive House in the scene. <a href=\"https://ffm.link/9o81evb/\">Instagram</a>, <a href=\"https://ffm.link/xjgmb7\">Website, </a><a href=\"https://ffm.link/bknqm1j\">Merch</a>",
-  "num_followers": 110906,
+  "num_followers": 110919,
   "original_name": "Progressive House 2026",
   "owner": {
     "name": "Enhanced Music",
     "url": "https://open.spotify.com/user/enhanced_music"
   },
-  "snapshot_id": "AABBC7DlQeBeLlDfnpdgy12oTXUFAQpV",
+  "snapshot_id": "AABBDSxagFsqBhHGNrWNOPwSAgYXMx14",
   "tracks": [
     {
       "added_at": "2026-09-18 10:37:36",
@@ -43,6 +43,26 @@
       "duration_ms": 207096,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/3nnVBpOLN06xpAZ1kAkmIc"
+    },
+    {
+      "added_at": "2026-09-25 07:54:35",
+      "album": {
+        "name": "7 Miles High",
+        "url": "https://open.spotify.com/album/3gFDcNRzQ7hRWkB80Qx63K"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "7 Miles High",
+      "url": "https://open.spotify.com/track/6QmYmxft6ZLXvLJz8UBVqe"
     },
     {
       "added_at": "2026-09-02 22:09:12",
@@ -493,7 +513,7 @@
         },
         {
           "name": "Madelynn",
-          "url": "https://open.spotify.com/artist/24rKWXYhCkelENiRspKoeb"
+          "url": "https://open.spotify.com/artist/00rkjBj0UFUgJIGJ9xhmLd"
         }
       ],
       "duration_ms": 199687,

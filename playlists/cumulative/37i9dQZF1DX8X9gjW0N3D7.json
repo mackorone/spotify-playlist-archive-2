@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: Orange Lessard",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts.  Photo: \u00c9tienne Dufresne",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -3708,7 +3708,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 192466,
       "name": "If Time \u201926",
       "url": "https://open.spotify.com/track/4akzkJlxy9FDpa5axng9CE"
@@ -3842,7 +3842,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 248366,
       "name": "Isabella",
       "url": "https://open.spotify.com/track/0xVXNGoXkICVLJdbMzprPV"
@@ -7398,7 +7398,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 174709,
       "name": "Oh, My Lanta!",
       "url": "https://open.spotify.com/track/0dthKlUKUhIUN0YHluFXs7"
@@ -7823,6 +7823,24 @@
     },
     {
       "album": {
+        "name": "Parapluies",
+        "url": "https://open.spotify.com/album/6VQkI306pBFftOR1Xepaih"
+      },
+      "artists": [
+        {
+          "name": "Claudie L\u00e9tourneau",
+          "url": "https://open.spotify.com/artist/5aK8Edh7xb8bqrg1WSlVfS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172404,
+      "name": "Parapluies",
+      "url": "https://open.spotify.com/track/0WedARz5eioe0n7aobXXlp"
+    },
+    {
+      "album": {
         "name": "Parfait pays",
         "url": "https://open.spotify.com/album/6XIw13Rngf3GW3s1k1x6rf"
       },
@@ -7950,6 +7968,24 @@
       "duration_ms": 323834,
       "name": "Pattern",
       "url": "https://open.spotify.com/track/3sRCcwcIRRCaMwoRem3HrY"
+    },
+    {
+      "album": {
+        "name": "pauvre pomme",
+        "url": "https://open.spotify.com/album/3ZTHNhGuk2adX1dIEQVxNv"
+      },
+      "artists": [
+        {
+          "name": "Etienne Dufresne",
+          "url": "https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237253,
+      "name": "pauvre pomme",
+      "url": "https://open.spotify.com/track/4W5Ny48E1oUxnYDRqurBPX"
     },
     {
       "album": {
@@ -8903,6 +8939,24 @@
     },
     {
       "album": {
+        "name": "Rouyn-Noranda",
+        "url": "https://open.spotify.com/album/5Rnmgu5xLiAEGt6sOu6SZ3"
+      },
+      "artists": [
+        {
+          "name": "David Brown Woods",
+          "url": "https://open.spotify.com/artist/7ch5rtS25rWOyZEekWgBli"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193999,
+      "name": "Rouyn-Noranda",
+      "url": "https://open.spotify.com/track/1lJ3gNl4FRFsIsVyVg5ink"
+    },
+    {
+      "album": {
         "name": "R\u00e2",
         "url": "https://open.spotify.com/album/3T1RDxhshQMgd50oJeLmoa"
       },
@@ -9124,6 +9178,24 @@
       "duration_ms": 174653,
       "name": "Sans se retourner",
       "url": "https://open.spotify.com/track/17cIgW5aZocFMlkDGauBPH"
+    },
+    {
+      "album": {
+        "name": "SANS TOi",
+        "url": "https://open.spotify.com/album/2jeZaqhXELmmWfFx0TFOfY"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebm",
+          "url": "https://open.spotify.com/artist/6fiZDVQvW1lOkWfH6PV30w"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203005,
+      "name": "SANS TOi",
+      "url": "https://open.spotify.com/track/7ibt9DCVtXqnygrvPPSIG7"
     },
     {
       "album": {
@@ -9614,7 +9686,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 163676,
       "name": "St-Misanthrope",
       "url": "https://open.spotify.com/track/2RGlA5KcrwSGH1nmLn0Glr"
@@ -10730,7 +10802,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 174418,
       "name": "Un jour sur deux",
       "url": "https://open.spotify.com/track/2tB5vUze2M3gVTR3bquoJG"
@@ -11386,6 +11458,24 @@
       "duration_ms": 264580,
       "name": "\u00c0 toi",
       "url": "https://open.spotify.com/track/4ED4IyujdsCRbuaQv5tMLd"
+    },
+    {
+      "album": {
+        "name": "Oiseau migrateur",
+        "url": "https://open.spotify.com/album/0hBGiv7nOBntxPQLEkzyZt"
+      },
+      "artists": [
+        {
+          "name": "Dom Pelletier",
+          "url": "https://open.spotify.com/artist/5KFyzaCibOj81aJQAnVnPa"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122574,
+      "name": "\u00c0 tous les jours",
+      "url": "https://open.spotify.com/track/5fCfrDplyIj81xQw5YWlK3"
     },
     {
       "album": {

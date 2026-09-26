@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Isabel Wood
 
-3,072 songs - 6 day 14 hr 59 min
+3,073 songs - 6 day 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1263,6 +1263,7 @@
 | [HUSH](https://open.spotify.com/track/2Sz9UBfeZ0N0h9H6gUtblz) | [Ben Swissa](https://open.spotify.com/artist/5oCWqJlsPteQEIjAMxQRs8) | [HUSH](https://open.spotify.com/album/5t0Iro1tcxCXEq4sxpuFlf) | 2:27 | 2024-10-11 | 2024-11-22 |
 | [Hush Baby, Hurry Slowly](https://open.spotify.com/track/20fkA1ahV9WxHTt03calHi) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [There’s Always More That I Could Say](https://open.spotify.com/album/3lWtOvOTvEWxEjkVCbWyir) | 2:44 | 2025-10-23 | 2025-12-12 |
 | [Hymn to Virgil](https://open.spotify.com/track/2tlNxmGvNK3OukJrwU50Wd) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unending](https://open.spotify.com/album/10MWtR7jwqRTLQAvmTU7uQ) | 3:22 | 2024-12-05 | 2025-02-14 |
+| [HYPER \(with REINEN\)](https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB), [REINEN](https://open.spotify.com/artist/0IYg6J3r1hJUPLNupSbqvt) | [OPIA](https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom) | 3:02 | 2026-09-24 |  |
 | [HYPNOTIZE](https://open.spotify.com/track/3fEX9NgOeklq816Fw00uoo) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/22KDw9pbkC6MYgJ8hIBSSw) | 2:50 | 2026-01-23 | 2026-03-13 |
 | [I <3 GIRLS](https://open.spotify.com/track/58Oikf9KtlvnI4lSYqjTX6) | [Robert Baxter](https://open.spotify.com/artist/5VOw2lhSolJj6DgdrkN20j), [Hylander](https://open.spotify.com/artist/00JuW5c5vm2ztgv54DRqF4) | [I <3 GIRLS](https://open.spotify.com/album/5sxc6U4UAcKihCvL0qt5Gh) | 2:40 | 2025-11-20 | 2025-12-19 |
 | [I <3 YOU](https://open.spotify.com/track/7DNTmEFMARpxeSFY82wZiw) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [PRINCESS OF POWER](https://open.spotify.com/album/2rjfRdmVDBMFT5mamSsVeU) | 3:36 | 2025-06-06 | 2025-07-25 |
@@ -2020,6 +2021,7 @@
 | [Party for 1](https://open.spotify.com/track/4RI98h52sAV0x4rUulR7ZD) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Party for 1](https://open.spotify.com/album/2RuYTWi6PiYkwGHwBHj5ry) | 3:10 | 2023-09-14 | 2023-10-20 |
 | [Party People](https://open.spotify.com/track/2Lw2oix2hvPOMwgyDObq66) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Party People](https://open.spotify.com/album/08755IyPKuxTT7oMJUPiCy) | 3:14 | 2025-01-09 | 2025-02-14 |
 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-11 | 2026-07-17 |
+| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-09-25 |  |
 | [PEACE](https://open.spotify.com/track/029716DF9HG1kx3P9rZLHV) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV) | [PEACE](https://open.spotify.com/album/7IpUoPjgMg1hiypyO07c5E) | 2:22 | 2026-05-28 | 2026-07-10 |
 | [Peace of Mind](https://open.spotify.com/track/7h8qrDfxBzUGcXXiR4Jxea) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Peace of Mind](https://open.spotify.com/album/6yF8JrEp3yBfFJptdIPLi7) | 3:09 | 2023-12-21 | 2024-01-26 |
 | [Peachy](https://open.spotify.com/track/4dnlqWycr3zqpIcDlokexi) | [Samantha Jade](https://open.spotify.com/artist/5i84V8Zk7YqCN6xxb7SWgw) | [Peachy](https://open.spotify.com/album/2iRgAzywwtm3NVYycfOF4T) | 3:09 | 2024-07-25 | 2024-08-23 |
@@ -2774,7 +2776,6 @@
 | [Tough Love](https://open.spotify.com/track/1qeDiZrY4LBsycOVHSlYWI) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [Tough Love](https://open.spotify.com/album/7CiptkUx1T0sHuZgUcwxEq) | 3:15 | 2026-09-24 |  |
 | [Tough Luck](https://open.spotify.com/track/1GexRDFzRQpNkflfXgI2lM) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Tough Luck](https://open.spotify.com/album/6fUa2nGebxcruwkUtLnOD2) | 3:12 | 2025-05-15 | 2025-06-13 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-14 |
-| [Track 2](https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [OPIA](https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom) | 0:00 | 2026-09-24 |  |
 | [Tracy](https://open.spotify.com/track/2Irs8tqS6DELbaFlwlwRTC) | [PASH](https://open.spotify.com/artist/3jEgbW70PXxv993symSK35) | [Tracy](https://open.spotify.com/album/6KOs8bG57zs3LK9i3rydM0) | 2:20 | 2025-11-13 | 2026-02-06 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-15 | 2024-03-22 |
 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 | 2025-01-09 | 2025-02-21 |

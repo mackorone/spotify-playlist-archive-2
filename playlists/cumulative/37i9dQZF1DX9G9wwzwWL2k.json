@@ -1017,6 +1017,32 @@
     },
     {
       "album": {
+        "name": "Alfv\u00e9n: Orchestral Works",
+        "url": "https://open.spotify.com/album/4it2C0of3xB4ebfGnyAVd8"
+      },
+      "artists": [
+        {
+          "name": "Hugo Alfv\u00e9n",
+          "url": "https://open.spotify.com/artist/7oFvKLdVtXPcuZdfrWpcyj"
+        },
+        {
+          "name": "Deutsches Symphonie-Orchester Berlin",
+          "url": "https://open.spotify.com/artist/49TgMBH68KIFiOmLMoUOWY"
+        },
+        {
+          "name": "\u0141ukasz Borowicz",
+          "url": "https://open.spotify.com/artist/7uLvjFKAw1iwyrA3FrSkaa"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 555240,
+      "name": "Festival Overture, Op. 52",
+      "url": "https://open.spotify.com/track/76gA0JuGFZxyBgXVSv8VI7"
+    },
+    {
+      "album": {
         "name": "The Sound of Sibelius",
         "url": "https://open.spotify.com/album/3c4pFqVpXlGjUt9yGSaCQi"
       },
@@ -3814,6 +3840,32 @@
       "duration_ms": 479000,
       "name": "The Planets, Op. 32: Mars, the Bringer of War",
       "url": "https://open.spotify.com/track/307XDlQfKttacMlImCMrOu"
+    },
+    {
+      "album": {
+        "name": "The Poem of Life",
+        "url": "https://open.spotify.com/album/3WDBJXRqV793pvs2s68Twf"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        },
+        {
+          "name": "Shanghai Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8"
+        },
+        {
+          "name": "Liang Zhang",
+          "url": "https://open.spotify.com/artist/2ps20TD19WuTC4OwEETvqf"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224408,
+      "name": "The Unfinished Poem",
+      "url": "https://open.spotify.com/track/69uimZrYay5KapNWP0D8P4"
     },
     {
       "album": {

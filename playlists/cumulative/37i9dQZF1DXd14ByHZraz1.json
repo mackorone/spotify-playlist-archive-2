@@ -5494,7 +5494,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 181769,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/2DhLh8MFQLFXiH9rm1Y5Ix"
@@ -5793,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "Pop This",
+        "url": "https://open.spotify.com/album/6jN04aIOe465ymEnpIz4WG"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "Pop This",
+      "url": "https://open.spotify.com/track/0S9kUWMb4SoO1lnjvcRD7d"
+    },
+    {
+      "album": {
         "name": "Portal 1111",
         "url": "https://open.spotify.com/album/7uJgHC3tb61i6cC3W65ima"
       },
@@ -6012,7 +6030,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 303649,
       "name": "Rebel Boogie Nights",
       "url": "https://open.spotify.com/track/6H7Vhpkq4yNqFPWkmpfjn3"
@@ -7363,6 +7381,32 @@
     },
     {
       "album": {
+        "name": "U Can Feel It",
+        "url": "https://open.spotify.com/album/1htR0IJqVOar3W3De2PP40"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        },
+        {
+          "name": "GESUS",
+          "url": "https://open.spotify.com/artist/5b3mQYKhY0g6VNfFrEqXQW"
+        },
+        {
+          "name": "Galli J",
+          "url": "https://open.spotify.com/artist/6nIJkiCwmXxSvzrlJ0qLcW"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184761,
+      "name": "U Can Feel It",
+      "url": "https://open.spotify.com/track/5EaSnjnAg6PENntreY34Cz"
+    },
+    {
+      "album": {
         "name": "Underground",
         "url": "https://open.spotify.com/album/6JyvNtDRMgxjMB9JJPR1bT"
       },
@@ -7408,6 +7452,24 @@
       "duration_ms": 154500,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/0smB5zD5CJYMtdXvS2qS5A"
+    },
+    {
+      "album": {
+        "name": "Unlock EP",
+        "url": "https://open.spotify.com/album/4PSooxBgRkmQpNlvDxNAgN"
+      },
+      "artists": [
+        {
+          "name": "Curol",
+          "url": "https://open.spotify.com/artist/334DQtGwD8Ic96L1RjIhzX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236190,
+      "name": "Unlock",
+      "url": "https://open.spotify.com/track/3AGMQ3gFURU45KEhqjLACy"
     },
     {
       "album": {
@@ -7566,7 +7628,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 215625,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/1BBJd8Q3MFNCsExmWAcB71"

@@ -427,6 +427,40 @@
     },
     {
       "album": {
+        "name": "\"'Summer Evening\": Classical Relaxation",
+        "url": "https://open.spotify.com/album/5umGN7sKRlkzrzHUsQ8xMT"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vivaldi",
+          "url": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        {
+          "name": "Pina Carmirelli",
+          "url": "https://open.spotify.com/artist/6U8Jv7oc7hXN7HDIOaKz6r"
+        },
+        {
+          "name": "Claudio Buccarella",
+          "url": "https://open.spotify.com/artist/1rbapXT4pv2x2H0DgWJm8M"
+        },
+        {
+          "name": "Francesco Strano",
+          "url": "https://open.spotify.com/artist/1sarW5fGaS4eZQdzFN6y4Y"
+        },
+        {
+          "name": "I Musici",
+          "url": "https://open.spotify.com/artist/5TYM4xzvG2OuZafhTEuAHX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106373,
+      "name": "12 Concertos, Op. 3 - \"L'estro armonico\" / Concerto No. 2 in G minor for 2 Violins & Cello, RV 578: 1. Adagio e spiccato",
+      "url": "https://open.spotify.com/track/6yjlvvgbutDa2hz7r4TFNI"
+    },
+    {
+      "album": {
         "name": "\"Summer's Coda: Classical Works\"",
         "url": "https://open.spotify.com/album/0xs56PSoiFBvLeiBWEkYgq"
       },
@@ -520,7 +554,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 46306,
       "name": "12 Variations for Cello and Piano on \"See the Conquering Hero Comes\", WoO 45: Var. 4",
       "url": "https://open.spotify.com/track/0IEjWpQV8BwPzFX07TFMUN"
@@ -550,7 +584,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 126333,
       "name": "12 Violin Concertos, Op. 4 \"La stravaganza\" / Concerto No. 11 in D Major, RV 204: 3. Allegro assai",
       "url": "https://open.spotify.com/track/0c1TKVQIYrmJ36tvrbaVWW"
@@ -2255,6 +2289,24 @@
     },
     {
       "album": {
+        "name": "A Portrait of Decay",
+        "url": "https://open.spotify.com/album/7wCcXNQyXeefVPuZhDQZnI"
+      },
+      "artists": [
+        {
+          "name": "Crypta",
+          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "A Portrait of Decay",
+      "url": "https://open.spotify.com/track/5rMBX7CbIpsG8GSaFxTxAQ"
+    },
+    {
+      "album": {
         "name": "2014 NYC (Live at Best Buy Theatre, New York, 2014)",
         "url": "https://open.spotify.com/album/4bDCE47WHVCxy7CZJUs1Y2"
       },
@@ -2356,7 +2408,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 323793,
       "name": "A Tale Of Two Tupilaqs",
       "url": "https://open.spotify.com/track/02sL5l61LOnB3jeO4yP9M6"
@@ -4078,7 +4130,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 221680,
       "name": "All My Demons Greeting Me As A Friend",
       "url": "https://open.spotify.com/track/5O1tikYb6HKrP5cxSQv0iV"
@@ -5771,6 +5823,24 @@
     },
     {
       "album": {
+        "name": "Arcadia",
+        "url": "https://open.spotify.com/album/4BDLQIGU06K2ZaeB3b6GCp"
+      },
+      "artists": [
+        {
+          "name": "Asia",
+          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280986,
+      "name": "Arcadia",
+      "url": "https://open.spotify.com/track/13KuvvnxvN7QYeGcUjlzXl"
+    },
+    {
+      "album": {
         "name": "Arcana",
         "url": "https://open.spotify.com/album/0Ewu7WkUIcaQG1KPQLz1sm"
       },
@@ -7030,7 +7100,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 226341,
       "name": "b2tm \u25cb",
       "url": "https://open.spotify.com/track/1iXJOdAkkH0afXnhkI2d6N"
@@ -7074,6 +7144,24 @@
       "duration_ms": 266534,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/3IDwBKrMKtXg3nMhxQZPLL"
+    },
+    {
+      "album": {
+        "name": "Back Into My Life",
+        "url": "https://open.spotify.com/album/1YD9ztFmMdK6tAu5C7nDlr"
+      },
+      "artists": [
+        {
+          "name": "UFO",
+          "url": "https://open.spotify.com/artist/2Omy3P5hFZym7FKum1JA1s"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230093,
+      "name": "Back Into My Life - Single Edit",
+      "url": "https://open.spotify.com/track/53eHmGFbh14bn3MNA6JY47"
     },
     {
       "album": {
@@ -7596,7 +7684,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 268170,
       "name": "Be as Kings, Be as Gods",
       "url": "https://open.spotify.com/track/4LSts6OkYa5YRs1hh9GWnh"
@@ -7872,6 +7960,24 @@
       "duration_ms": 259232,
       "name": "Bed Of Nails (feat. Alice Cooper)",
       "url": "https://open.spotify.com/track/6WxqrgXopMcZ4dURmdFTan"
+    },
+    {
+      "album": {
+        "name": "Better Days (Deluxe)",
+        "url": "https://open.spotify.com/album/2Hkya0Y7jG5OrflPhVJNlk"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218635,
+      "name": "Bedroom Posters",
+      "url": "https://open.spotify.com/track/02Elr7Ng8MAGCZvNNb13Q4"
     },
     {
       "album": {
@@ -8276,7 +8382,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 224649,
       "name": "Better Days - Asleep Version",
       "url": "https://open.spotify.com/track/0vEd0dxnBQPTRARUrLioX9"
@@ -9818,6 +9924,24 @@
       "duration_ms": 246053,
       "name": "Borealis",
       "url": "https://open.spotify.com/track/5wOWgKdRSuqdR1UshYDw4q"
+    },
+    {
+      "album": {
+        "name": "BORN FROM NOTHING",
+        "url": "https://open.spotify.com/album/5nL0MaisBWeSLL0XiHOUas"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203303,
+      "name": "BORN FROM NOTHING",
+      "url": "https://open.spotify.com/track/0QRTdsEMKifTTxE7c6lawp"
     },
     {
       "album": {
@@ -11953,6 +12077,32 @@
     },
     {
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/2B92o8NIVPpUUQ6JWutnRD"
+      },
+      "artists": [
+        {
+          "name": "TOMORA",
+          "url": "https://open.spotify.com/artist/5r0BuurxKQugj8cjHiO8pY"
+        },
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "Tom Rowlands",
+          "url": "https://open.spotify.com/artist/45F5Ue9KSHAtp7aE85zlsW"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261546,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/0mVE7ho0GazVMHVyt6cFz5"
+    },
+    {
+      "album": {
         "name": "The Paranoiac Miracle / Eternal Void (2005/2006)",
         "url": "https://open.spotify.com/album/4rkNWi2Gc03texktwoRRFG"
       },
@@ -12074,6 +12224,24 @@
       "duration_ms": 66230,
       "name": "Chamber of the Departed",
       "url": "https://open.spotify.com/track/39A1mYvPC5U9bCtLQkC12m"
+    },
+    {
+      "album": {
+        "name": "Chapter 4",
+        "url": "https://open.spotify.com/album/7iVISoawYt4py8izsqOdq7"
+      },
+      "artists": [
+        {
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197119,
+      "name": "Chapter 4",
+      "url": "https://open.spotify.com/track/7wsi6doEPUrUlFJYylmApv"
     },
     {
       "album": {
@@ -12490,6 +12658,24 @@
       "duration_ms": 257500,
       "name": "Chile SA",
       "url": "https://open.spotify.com/track/4An8UjbADFO12XE9klWQLS"
+    },
+    {
+      "album": {
+        "name": "Glastonbury 1994",
+        "url": "https://open.spotify.com/album/6Sdg4JV3orraCaCSAyAAyy"
+      },
+      "artists": [
+        {
+          "name": "Orbital",
+          "url": "https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463040,
+      "name": "Chime - Glastonbury 1994",
+      "url": "https://open.spotify.com/track/7p6313ufXAUBgL9UjBbQyZ"
     },
     {
       "album": {
@@ -13327,6 +13513,24 @@
     },
     {
       "album": {
+        "name": "Come This Madness",
+        "url": "https://open.spotify.com/album/5zaikljPJZyvgRy9uHIAhj"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242249,
+      "name": "Come This Madness",
+      "url": "https://open.spotify.com/track/26nfD0mKZGkMl1YAmSYFLN"
+    },
+    {
+      "album": {
         "name": "Comfortably Numb Re-Imagined",
         "url": "https://open.spotify.com/album/4z9tjscGnpJVbM1PWWdAfS"
       },
@@ -13667,6 +13871,28 @@
     },
     {
       "album": {
+        "name": "\"'Summer Evening\": Classical Relaxation",
+        "url": "https://open.spotify.com/album/5umGN7sKRlkzrzHUsQ8xMT"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Orpheus Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86333,
+      "name": "Contredanse in C Major. La Bataille, K. 535",
+      "url": "https://open.spotify.com/track/2ht1GjeCgLZI65PJykjDtS"
+    },
+    {
+      "album": {
         "name": "Cool Guy",
         "url": "https://open.spotify.com/album/4k9XE5JzzWmtoY8eMQQuRY"
       },
@@ -13967,6 +14193,28 @@
     },
     {
       "album": {
+        "name": "Cradle Of Love (R3HAB Remix)",
+        "url": "https://open.spotify.com/album/4hNdAsI68Z81SXTBCQqK1u"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152746,
+      "name": "Cradle Of Love - R3HAB Remix",
+      "url": "https://open.spotify.com/track/58gCZtitxBV03Q9D486caH"
+    },
+    {
+      "album": {
         "name": "Still Not Getting Any... (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/1ejcSGLsGY6IgxZkMmnwuN"
       },
@@ -14084,6 +14332,24 @@
       "duration_ms": 290475,
       "name": "Cream (Take 2)",
       "url": "https://open.spotify.com/track/2CkRxfFJhdhjPKhhi515zc"
+    },
+    {
+      "album": {
+        "name": "Unshatter Film Soundtrack (Live in S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/0PVjo8iVec500UfG9HKmMw"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103700,
+      "name": "Creation/Interlude - Unshatter Film Soundtrack - Live in S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4HTtgqe4J9bxX0bkyE4j9C"
     },
     {
       "album": {
@@ -15947,6 +16213,24 @@
     },
     {
       "album": {
+        "name": "Solaris",
+        "url": "https://open.spotify.com/album/3uqhJyHsSPmCpm8dw9HbTL"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 472733,
+      "name": "Departure Song",
+      "url": "https://open.spotify.com/track/3HzE48NroGs50CMSpGVbs2"
+    },
+    {
+      "album": {
         "name": "Depraved Mind Murder",
         "url": "https://open.spotify.com/album/6sZY1rg4jVeL5lBDjD7e9P"
       },
@@ -16344,6 +16628,28 @@
       "duration_ms": 149080,
       "name": "Dicotom\u00eda",
       "url": "https://open.spotify.com/track/5Z0VhKCOEueiIGJJXIgKPb"
+    },
+    {
+      "album": {
+        "name": "\"'Summer Evening\": Classical Relaxation",
+        "url": "https://open.spotify.com/album/5umGN7sKRlkzrzHUsQ8xMT"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Orpheus Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/35pZsti1RSA5Zv98jAm8kX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108133,
+      "name": "Die Gesch\u00f6pfe des Prometheus, Op. 43: No. 3, Allegro vivace",
+      "url": "https://open.spotify.com/track/4ZnC9Tu3xHEIQLWRsmBxq3"
     },
     {
       "album": {
@@ -18473,6 +18779,24 @@
     },
     {
       "album": {
+        "name": "D\u01ebkksalir",
+        "url": "https://open.spotify.com/album/71ciBZC52xKPJRabK38IOB"
+      },
+      "artists": [
+        {
+          "name": "SK\u00c1LD",
+          "url": "https://open.spotify.com/artist/3uliAYf4KyTkBpVf3BiWVv"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254176,
+      "name": "D\u01ebkksalir",
+      "url": "https://open.spotify.com/track/3LHgdQNw4oj3cEBkiIs9hm"
+    },
+    {
+      "album": {
         "name": "Eagle Fly Free (Live)",
         "url": "https://open.spotify.com/album/0HO38IeApQgLNoZFa7WDUM"
       },
@@ -19410,6 +19734,32 @@
       "duration_ms": 200381,
       "name": "El P\u00e1jaro Carpintero - Los Nuevos Canticuentos",
       "url": "https://open.spotify.com/track/7oZDH5G7U7U19itnDQgsOw"
+    },
+    {
+      "album": {
+        "name": "El Sendero del Mago",
+        "url": "https://open.spotify.com/album/51DoLUPIB03ieuKSB2fUFH"
+      },
+      "artists": [
+        {
+          "name": "Hijos de las Hojas",
+          "url": "https://open.spotify.com/artist/6isvSCaUPeMinPzcY5LtBM"
+        },
+        {
+          "name": "Ojal De Ajaw",
+          "url": "https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ"
+        },
+        {
+          "name": "Fer Maquehue",
+          "url": "https://open.spotify.com/artist/7rwJA64BVr51w5QRTW3146"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255427,
+      "name": "El Sendero del Mago",
+      "url": "https://open.spotify.com/track/3gv20TPUStR8lCYtnz12aR"
     },
     {
       "album": {
@@ -23523,6 +23873,24 @@
     },
     {
       "album": {
+        "name": "Islands (2026 David Singleton Elemental Mixes)",
+        "url": "https://open.spotify.com/album/3IQzMk4uDdhAYBoULqqcJa"
+      },
+      "artists": [
+        {
+          "name": "King Crimson",
+          "url": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 615966,
+      "name": "Formentera Lady - Elemental Mix",
+      "url": "https://open.spotify.com/track/6C8FQHVNGUJxXGahSGRydQ"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/1d8W5sDOh6xY7y6UYp2rcg"
       },
@@ -24468,6 +24836,28 @@
       "duration_ms": 242880,
       "name": "Funeral Pyre",
       "url": "https://open.spotify.com/track/2OCHovRkWSvlxl8fhuL0U4"
+    },
+    {
+      "album": {
+        "name": "Funk Can Save U Revibed",
+        "url": "https://open.spotify.com/album/3qLhb1cWPMT3QrvxBBqvsW"
+      },
+      "artists": [
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        },
+        {
+          "name": "Buckethead",
+          "url": "https://open.spotify.com/artist/0fDF0jjmdouCIeWhNnblwV"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "Funk Can Save U Revibed",
+      "url": "https://open.spotify.com/track/2nhQW6ih851OkukBzw5Iz5"
     },
     {
       "album": {
@@ -26292,7 +26682,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 113558,
       "name": "Graceless",
       "url": "https://open.spotify.com/track/6hmDWLpg9foHG9duUBpDyd"
@@ -29567,6 +29957,28 @@
     },
     {
       "album": {
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/62ssKamuwtBLipfVRPeiYo"
+      },
+      "artists": [
+        {
+          "name": "La Rata Bluesera",
+          "url": "https://open.spotify.com/artist/2lbnuoTiUF2WUqQ4YAQsyn"
+        },
+        {
+          "name": "Maria y los Templos",
+          "url": "https://open.spotify.com/artist/0AuV5O3Wvfqzxnd1uhzudb"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295063,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/4peQHFyLT3RddMChVDWssM"
+    },
+    {
+      "album": {
         "name": "Caribenya",
         "url": "https://open.spotify.com/album/0U404UoBYG2TGEJjMzCYg4"
       },
@@ -32376,7 +32788,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 224125,
       "name": "In Limbo - 2026 Mix",
       "url": "https://open.spotify.com/track/4ywrrzhLL3AZ1WZ9ieGaPh"
@@ -32876,7 +33288,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 302063,
       "name": "Incubus Succubus",
       "url": "https://open.spotify.com/track/0UtaYJ5IcAJKuJGwFi3L5e"
@@ -33512,6 +33924,28 @@
       "duration_ms": 259173,
       "name": "Into The Fire - Live At The Royal Albert Hall",
       "url": "https://open.spotify.com/track/0ZVcVOKsMn7sxnmRLGYmsr"
+    },
+    {
+      "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/6LwvUq9ftD00a4mNKnGYPm"
+      },
+      "artists": [
+        {
+          "name": "Delerium",
+          "url": "https://open.spotify.com/artist/0IUq1plF3ON4Fboj1bE6kN"
+        },
+        {
+          "name": "Diamanda Gal\u00e1s",
+          "url": "https://open.spotify.com/artist/42AURgCa94xz79E0fxE3Ay"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361600,
+      "name": "Into The Light",
+      "url": "https://open.spotify.com/track/4ifLKjSU3nEwlVujMtjfBw"
     },
     {
       "album": {
@@ -37315,6 +37749,24 @@
     },
     {
       "album": {
+        "name": "Led to Slaughter",
+        "url": "https://open.spotify.com/album/5jayYdO0rIFzHCCLJGO3fo"
+      },
+      "artists": [
+        {
+          "name": "All Shall Perish",
+          "url": "https://open.spotify.com/artist/7GkGdNLPzWw4e6ctwKvI2x"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274819,
+      "name": "Led to Slaughter",
+      "url": "https://open.spotify.com/track/0TqLM1vSU0g5ztNZppiDTs"
+    },
+    {
+      "album": {
         "name": "Left on Mars",
         "url": "https://open.spotify.com/album/3Teu4wdoUdqhuDJRIW06P5"
       },
@@ -40901,6 +41353,36 @@
     },
     {
       "album": {
+        "name": "Debo Haber Cambiado Mucho",
+        "url": "https://open.spotify.com/album/6dClfBekNaWiHa2DDFnIPR"
+      },
+      "artists": [
+        {
+          "name": "Dj Perez",
+          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
+        },
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Felipe Metraca",
+          "url": "https://open.spotify.com/artist/0TKJmcKMGA653s8CW93UEs"
+        },
+        {
+          "name": "Odd\u00f3",
+          "url": "https://open.spotify.com/artist/3OqaE7bi2wy4kAKYasQ8NT"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187886,
+      "name": "Madr\u00fagal",
+      "url": "https://open.spotify.com/track/2ma3z0Eg39arrVBulSDJFN"
+    },
+    {
+      "album": {
         "name": "Zodeon at Crystal Hall",
         "url": "https://open.spotify.com/album/17llPIMPUtlH5azIRiPDhd"
       },
@@ -41126,6 +41608,24 @@
       "duration_ms": 218800,
       "name": "Make Up Your Mind",
       "url": "https://open.spotify.com/track/5S1BWTNLOZd9N4iQlo7JAo"
+    },
+    {
+      "album": {
+        "name": "Make Your Exit",
+        "url": "https://open.spotify.com/album/1mpX8Bbw4aoEWwx7MAAeAN"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153970,
+      "name": "Make Your Exit",
+      "url": "https://open.spotify.com/track/08ITA9gnwYlLKw31HuBqLu"
     },
     {
       "album": {
@@ -42732,7 +43232,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 256079,
       "name": "Milk Of My Dreams",
       "url": "https://open.spotify.com/track/1HRRBI5v9tJ8826WrHx1zh"
@@ -46227,6 +46727,32 @@
     },
     {
       "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7ubycHRiKPW2ZlCMnr4YeP"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "HIMARI",
+          "url": "https://open.spotify.com/artist/2Y1xtY1448YNAQ3qMRPLan"
+        },
+        {
+          "name": "Chelsea Wang",
+          "url": "https://open.spotify.com/artist/1pN00t4toF0cIRmnW66n41"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267293,
+      "name": "Nocturne No. 20 in C-Sharp Minor, KK IVa/16 (Transcr. Milstein for Violin & Piano)",
+      "url": "https://open.spotify.com/track/0J09UoigrgIAqBJbRppkci"
+    },
+    {
+      "album": {
         "name": "Lunaris",
         "url": "https://open.spotify.com/album/1SxpR5PUJS2tjgjbKq3drA"
       },
@@ -47295,6 +47821,28 @@
     },
     {
       "album": {
+        "name": "Omega (2026 Remix)",
+        "url": "https://open.spotify.com/album/68SECOnxuLhojS9zxVx5gp"
+      },
+      "artists": [
+        {
+          "name": "Bruce Dickinson",
+          "url": "https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9"
+        },
+        {
+          "name": "Brendan Duffey",
+          "url": "https://open.spotify.com/artist/2stIZek6erG1Ds8O1bf2zV"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381691,
+      "name": "Omega - 2026 Remix",
+      "url": "https://open.spotify.com/track/7ElFVE9ZQZXigCxAoNxM0X"
+    },
+    {
+      "album": {
         "name": "Ashes of the Wake - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
       },
@@ -48294,6 +48842,24 @@
       "duration_ms": 255149,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/1ufj9w89JossebPQFZjLEi"
+    },
+    {
+      "album": {
+        "name": "Orgasmatron (Cameron Webb 40th Anniversary Remix)",
+        "url": "https://open.spotify.com/album/63EtYRYkIyqd3WZcRVEQ4A"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319492,
+      "name": "Orgasmatron - Cameron Webb 40th Anniversary Remix",
+      "url": "https://open.spotify.com/track/0hcDgU3NaIxx5ls9rDVa2k"
     },
     {
       "album": {
@@ -49569,6 +50135,24 @@
     },
     {
       "album": {
+        "name": "Pay To Cum",
+        "url": "https://open.spotify.com/album/488DPUsFttShA2xYcWmUh7"
+      },
+      "artists": [
+        {
+          "name": "Bad Brains",
+          "url": "https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110576,
+      "name": "Pay To Cum",
+      "url": "https://open.spotify.com/track/0FmqsZWJXiKZHA9z2S4hbw"
+    },
+    {
+      "album": {
         "name": "Peace & Abundance",
         "url": "https://open.spotify.com/album/6e1AxhsPcfPYhAkYeOpb24"
       },
@@ -50354,7 +50938,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 233693,
       "name": "Piano Sonata No. 11 in A Major, K. 331: If. Var. 5",
       "url": "https://open.spotify.com/track/2eY0y1WnKiGUUBKx2nvuwW"
@@ -50994,6 +51578,28 @@
       "duration_ms": 546871,
       "name": "Pop Life - Extended Version",
       "url": "https://open.spotify.com/track/1bIL0zAcvAFH6e0LWY1abW"
+    },
+    {
+      "album": {
+        "name": "Por Monta\u00f1as y Praderas (Remix Gonzalo Henr\u00edquez)",
+        "url": "https://open.spotify.com/album/5FycW1rwpW5qiNt7Ik1m46"
+      },
+      "artists": [
+        {
+          "name": "Quilapay\u00fan",
+          "url": "https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup"
+        },
+        {
+          "name": "Gonzalo Henriquez",
+          "url": "https://open.spotify.com/artist/2XnXa5CL1JAPmecZBynizx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208591,
+      "name": "Por Monta\u00f1as y Praderas - Remix Gonzalo Henr\u00edquez",
+      "url": "https://open.spotify.com/track/7iAJxfrkL87xBbDVTHXRc8"
     },
     {
       "album": {
@@ -53195,6 +53801,24 @@
     },
     {
       "album": {
+        "name": "Reach Out I'll Be There (Live Version)",
+        "url": "https://open.spotify.com/album/43yQ5D2sr8yYvHodZxkwuY"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228160,
+      "name": "Reach Out I'll Be There - Live Version",
+      "url": "https://open.spotify.com/track/75OricYyyeGrUvXziSok6F"
+    },
+    {
+      "album": {
         "name": "Reaching",
         "url": "https://open.spotify.com/album/2fYE7q0uF7oiJHTspqThqR"
       },
@@ -53718,6 +54342,24 @@
       "duration_ms": 225493,
       "name": "Refuge in the Morgue",
       "url": "https://open.spotify.com/track/39EvwXn6Cw1to71UnmGWqE"
+    },
+    {
+      "album": {
+        "name": "Executing Nostalgia",
+        "url": "https://open.spotify.com/album/5XNhy5T4wwhSDIuMJ9oKrT"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Stone",
+          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230250,
+      "name": "Regression",
+      "url": "https://open.spotify.com/track/5TluT1HNjRLakrz7YXtCbA"
     },
     {
       "album": {
@@ -56670,7 +57312,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 291197,
       "name": "Scandinavian Eyes",
       "url": "https://open.spotify.com/track/5rNOw176IxZjoBlRz4IJaH"
@@ -57159,6 +57801,24 @@
     },
     {
       "album": {
+        "name": "Secuela",
+        "url": "https://open.spotify.com/album/3Pro3qliGUcpkjTyFdvc8s"
+      },
+      "artists": [
+        {
+          "name": "The Covers Duo",
+          "url": "https://open.spotify.com/artist/0vlbXMsO1PRqmfJv5tAJ8G"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254745,
+      "name": "Secuela",
+      "url": "https://open.spotify.com/track/2vHqVMwjRg8z7iUeovYpaF"
+    },
+    {
+      "album": {
         "name": "This Mirror Weighs a Ton/See Out Loud",
         "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
       },
@@ -57232,7 +57892,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 253520,
       "name": "SEEIN\u2019 STARS: ELTON JOHN VERSION",
       "url": "https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx"
@@ -58210,6 +58870,32 @@
       "duration_ms": 214191,
       "name": "She Makes Me (Feel Alright) - Live",
       "url": "https://open.spotify.com/track/0jQGiTIMPDpYnOsomWyrd8"
+    },
+    {
+      "album": {
+        "name": "Songs to Listen to in a Wendy\u2019s Parking Lot",
+        "url": "https://open.spotify.com/album/4q4KzQr479fjaasqEmGDZK"
+      },
+      "artists": [
+        {
+          "name": "Wendy's",
+          "url": "https://open.spotify.com/artist/1Q3YlhfiATNk5rLyNFOvyd"
+        },
+        {
+          "name": "Matty Mullins",
+          "url": "https://open.spotify.com/artist/2X6VbP5vxuup0exzZ8vhot"
+        },
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211125,
+      "name": "She Said She Didn't Want Fries (feat. Matty Mullins)",
+      "url": "https://open.spotify.com/track/08BEHASUPMvn6C3Zk9Rh8q"
     },
     {
       "album": {
@@ -59741,6 +60427,24 @@
     },
     {
       "album": {
+        "name": "Social Apocalypse",
+        "url": "https://open.spotify.com/album/6TBRv74cGwsNjrRWKx1pWk"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239394,
+      "name": "Social Apocalypse",
+      "url": "https://open.spotify.com/track/7LYrWNctGC55Ch60eU8AxK"
+    },
+    {
+      "album": {
         "name": "VSQ Performs KPOP Demon Hunters",
         "url": "https://open.spotify.com/album/6UyihtSsacro4ywDxLb8cB"
       },
@@ -60368,6 +61072,24 @@
       "duration_ms": 260230,
       "name": "Something Happens",
       "url": "https://open.spotify.com/track/4IBsqXxOMUjmb3cWH0hV8K"
+    },
+    {
+      "album": {
+        "name": "Something In The Water",
+        "url": "https://open.spotify.com/album/10SpGyx3uUMQI6AI552AGE"
+      },
+      "artists": [
+        {
+          "name": "Scary Kids Scaring Kids",
+          "url": "https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190378,
+      "name": "Something In The Water",
+      "url": "https://open.spotify.com/track/1iYjfL9hSZMrmaWYj7SR1d"
     },
     {
       "album": {
@@ -61670,7 +62392,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-22",
+      "date_removed": null,
       "duration_ms": 238853,
       "name": "Standing On Higher Ground / Losing Proposition - Vocal Experiments",
       "url": "https://open.spotify.com/track/2zOyhFxXmzzqG8A7V0R9u8"
@@ -64193,6 +64915,24 @@
     },
     {
       "album": {
+        "name": "Tales Of Trees",
+        "url": "https://open.spotify.com/album/1SXJJWU6eth3VAPnZZ2Kru"
+      },
+      "artists": [
+        {
+          "name": "Enslaved",
+          "url": "https://open.spotify.com/artist/2HmtB6wVRRi3z0JwZHtkiD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283840,
+      "name": "Tales of Trees",
+      "url": "https://open.spotify.com/track/02dR8GB1wcqc7ng8t3yZCN"
+    },
+    {
+      "album": {
         "name": "Talkin to the Trees",
         "url": "https://open.spotify.com/album/4LY9uu39o04XPJN7cDaZsH"
       },
@@ -65421,6 +66161,24 @@
     },
     {
       "album": {
+        "name": "Eskimo Folk Tales",
+        "url": "https://open.spotify.com/album/1IuG5UYJ3uFJoYTyXPiK2S"
+      },
+      "artists": [
+        {
+          "name": "The Residents",
+          "url": "https://open.spotify.com/artist/0X7nkgtJrvXcn1W8lN9Mtm"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186356,
+      "name": "The Barren Woman and the Worm",
+      "url": "https://open.spotify.com/track/0anwdikZblcAQw6SR1X2vI"
+    },
+    {
+      "album": {
         "name": "The Beautiful Dark of Life",
         "url": "https://open.spotify.com/album/0nr7lYXQacc7pEf4MrZjGp"
       },
@@ -65436,6 +66194,32 @@
       "duration_ms": 188608,
       "name": "The Beautiful Dark of Life",
       "url": "https://open.spotify.com/track/6A3UXnzzTP6KwGl9uArrLU"
+    },
+    {
+      "album": {
+        "name": "Songs to Listen to in a Wendy\u2019s Parking Lot",
+        "url": "https://open.spotify.com/album/4q4KzQr479fjaasqEmGDZK"
+      },
+      "artists": [
+        {
+          "name": "Wendy's",
+          "url": "https://open.spotify.com/artist/1Q3YlhfiATNk5rLyNFOvyd"
+        },
+        {
+          "name": "Beau Bokan",
+          "url": "https://open.spotify.com/artist/6rWo3S7PTxsCoq9z1nDPYv"
+        },
+        {
+          "name": "blessthefall",
+          "url": "https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "The Best Combo Meal on the Worst Night of my Life (feat. Beau Bokan)",
+      "url": "https://open.spotify.com/track/42Db9MjkKCYzTwTFgwJo3j"
     },
     {
       "album": {
@@ -68187,6 +68971,24 @@
     },
     {
       "album": {
+        "name": "The Serpent (2026 Mix)",
+        "url": "https://open.spotify.com/album/2DzcJT2sls1LtoXiKRpMxl"
+      },
+      "artists": [
+        {
+          "name": "Genesis",
+          "url": "https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283583,
+      "name": "The Serpent - 2026 Mix",
+      "url": "https://open.spotify.com/track/5UuikI2t1jfLx4wtjU4KMG"
+    },
+    {
+      "album": {
         "name": "The Serpent and the King",
         "url": "https://open.spotify.com/album/53T5pDi25DmqJiQgHdinBq"
       },
@@ -69829,6 +70631,24 @@
     },
     {
       "album": {
+        "name": "Tierre Obletz",
+        "url": "https://open.spotify.com/album/6tEdrsPj7YSW8lGBFOFmXi"
+      },
+      "artists": [
+        {
+          "name": "bel canto",
+          "url": "https://open.spotify.com/artist/5Bz8k8phXRsAtBB6xrIR83"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304000,
+      "name": "Tierre Obletz",
+      "url": "https://open.spotify.com/track/0RTRU4Ci6K4qDTc3iJuKed"
+    },
+    {
+      "album": {
         "name": "Til A Mawnin (feat. Sting)",
         "url": "https://open.spotify.com/album/3cl3ypsAyDFKiXzrVwhjIe"
       },
@@ -71286,6 +72106,28 @@
       "duration_ms": 227786,
       "name": "Tronic",
       "url": "https://open.spotify.com/track/05z6Fg2mmRbxRb58zMBPvp"
+    },
+    {
+      "album": {
+        "name": "Freak Out! (60th Anniversary)",
+        "url": "https://open.spotify.com/album/6IMRXGiuck95q5i1p3cZuf"
+      },
+      "artists": [
+        {
+          "name": "The Mothers Of Invention",
+          "url": "https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL"
+        },
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356030,
+      "name": "Trouble Every Day - 1966 Mono Mix",
+      "url": "https://open.spotify.com/track/7fIKufBCo0xLbza9GbvSGB"
     },
     {
       "album": {
@@ -72871,6 +73713,28 @@
     },
     {
       "album": {
+        "name": "Upperhand (from CONTROL Resonant)",
+        "url": "https://open.spotify.com/album/5YIK1uqeTzFQMwVpM63XPb"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Kalandra",
+          "url": "https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249784,
+      "name": "Upperhand - from CONTROL Resonant",
+      "url": "https://open.spotify.com/track/0XGYP5Fe2wSj7zxNdLnXiD"
+    },
+    {
+      "album": {
         "name": "Upphaf",
         "url": "https://open.spotify.com/album/1Pi6Re7Laq42e5T7FvN847"
       },
@@ -74314,7 +75178,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 155866,
       "name": "Waltz No. 19 in A Minor, KK IVb/11",
       "url": "https://open.spotify.com/track/5oOqhC4TUixHoMKsUTAKSY"

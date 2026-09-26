@@ -1115,6 +1115,28 @@
     },
     {
       "album": {
+        "name": "Aku Dan Kamu (Tak Ingin Terpisah)",
+        "url": "https://open.spotify.com/album/04m9NcElzVdytReDsUm3pG"
+      },
+      "artists": [
+        {
+          "name": "Adiw",
+          "url": "https://open.spotify.com/artist/0eZiFlsqZflber3eKOfYWa"
+        },
+        {
+          "name": "Tiara Effendy",
+          "url": "https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Aku Dan Kamu (Tak Ingin Terpisah)",
+      "url": "https://open.spotify.com/track/69VeZLzqr4fRrwxyvM7zfK"
+    },
+    {
+      "album": {
         "name": "Aku Harus Pergi",
         "url": "https://open.spotify.com/album/4ueflq2bwdCMKNx6RwbFbe"
       },
@@ -25055,6 +25077,24 @@
     },
     {
       "album": {
+        "name": "Dunia dan Seisinya",
+        "url": "https://open.spotify.com/album/6trwcUAKmtcddQWTxCBA1D"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230752,
+      "name": "Sampai Ujung Batas",
+      "url": "https://open.spotify.com/track/7BNvfb7xnggIInGUj6kKxa"
+    },
+    {
+      "album": {
         "name": "Sampaikan Kepadanya",
         "url": "https://open.spotify.com/album/25g3WqPL8izBIxfkHsx678"
       },
@@ -27498,7 +27538,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 211665,
       "name": "Seratus Hidup Lagi",
       "url": "https://open.spotify.com/track/7gTaUqRa3geMRK2QAuz7pW"

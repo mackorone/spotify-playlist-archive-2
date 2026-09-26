@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: jonabug",
+  "description": "M\u00fasica brasileira fora da curva. Foto: CACO/CONCHA",
   "name": "alt BR",
   "tracks": [
     {
@@ -1520,10 +1520,28 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 196634,
       "name": "Aqui Dentro",
       "url": "https://open.spotify.com/track/3ui5IGS8jIlvqmtD9EfJDP"
+    },
+    {
+      "album": {
+        "name": "Cidade do Suor",
+        "url": "https://open.spotify.com/album/4Y1dpm2SZfbdFIdrh4KDBL"
+      },
+      "artists": [
+        {
+          "name": "Sopr\u00fc",
+          "url": "https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194020,
+      "name": "Ar em Roma",
+      "url": "https://open.spotify.com/track/0UWDrDvjdZRee5lSRicMBC"
     },
     {
       "album": {
@@ -3590,7 +3608,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 354000,
       "name": "Chuva De Vento",
       "url": "https://open.spotify.com/track/77K2d8ciamguJnnu257i50"
@@ -3995,6 +4013,28 @@
     },
     {
       "album": {
+        "name": "Conversa de Elevador",
+        "url": "https://open.spotify.com/album/1QKWjUxejgRAyRYzUAwZIq"
+      },
+      "artists": [
+        {
+          "name": "clara bicho",
+          "url": "https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK"
+        },
+        {
+          "name": "Gabriel Campos",
+          "url": "https://open.spotify.com/artist/3jBbW1WUmpJF8lwJm3rQxb"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167526,
+      "name": "Conversa de Elevador",
+      "url": "https://open.spotify.com/track/0QPio1Fioo04TE8UM1Zgit"
+    },
+    {
+      "album": {
         "name": "conversas",
         "url": "https://open.spotify.com/album/7LTFP79nLM5wHdPvRhE5De"
       },
@@ -4346,7 +4386,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 203951,
       "name": "C\u00ea La Vie",
       "url": "https://open.spotify.com/track/1C6o5ypsjD6TUPlTPqFbT0"
@@ -4810,7 +4850,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 235000,
       "name": "Depressa",
       "url": "https://open.spotify.com/track/1fdw0RylmEVesr0sKUeT4x"
@@ -6772,7 +6812,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 198053,
       "name": "eyes",
       "url": "https://open.spotify.com/track/6Dqp3yGMW9Ieenpra36Quz"
@@ -7318,7 +7358,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 228469,
       "name": "Fortaleza Wonderland",
       "url": "https://open.spotify.com/track/3RUDkFfdoVnBt1sbQ4RRUh"
@@ -8160,6 +8200,32 @@
       "duration_ms": 238085,
       "name": "Infinita",
       "url": "https://open.spotify.com/track/4yv4dVvcP0ldZxjck7sQAF"
+    },
+    {
+      "album": {
+        "name": "Infinito V\u00e3o",
+        "url": "https://open.spotify.com/album/5qOJCc99DLPFtqmWDsGhpQ"
+      },
+      "artists": [
+        {
+          "name": "Caetano Malta",
+          "url": "https://open.spotify.com/artist/41iimwP9pnOm0EY3E0lXYR"
+        },
+        {
+          "name": "Arto Lindsay",
+          "url": "https://open.spotify.com/artist/2914JagOufmP5BY9qLDxtF"
+        },
+        {
+          "name": "MOMO.",
+          "url": "https://open.spotify.com/artist/59U0b1U9BXyD2ftlbJUdXM"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220426,
+      "name": "Infinito V\u00e3o",
+      "url": "https://open.spotify.com/track/1R8Yv6VpNW9hTsStzqyjVD"
     },
     {
       "album": {
@@ -9828,7 +9894,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 190975,
       "name": "Melhor Resposta",
       "url": "https://open.spotify.com/track/3y4XwP5QX7z2E9Co6U2lKs"
@@ -10414,6 +10480,28 @@
       "duration_ms": 187628,
       "name": "Mistificar",
       "url": "https://open.spotify.com/track/63cd1HLiFFWrelMezvFyBO"
+    },
+    {
+      "album": {
+        "name": "Mob\u00edlia",
+        "url": "https://open.spotify.com/album/2zMrHGwKpCdNZvqpxkszJs"
+      },
+      "artists": [
+        {
+          "name": "Enrico Vaz",
+          "url": "https://open.spotify.com/artist/6CqnqfLgMfw3ht2ftU8I3a"
+        },
+        {
+          "name": "Pablo Vermell",
+          "url": "https://open.spotify.com/artist/1QXsIqLfotA6OnwVqQvPs5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Mobilia",
+      "url": "https://open.spotify.com/track/64lHVdsmLSRy1vne98YLbp"
     },
     {
       "album": {
@@ -11225,6 +11313,24 @@
     },
     {
       "album": {
+        "name": "Cinderela / Noite Nubente",
+        "url": "https://open.spotify.com/album/4b8FpLcP06K1R2hsrlMACg"
+      },
+      "artists": [
+        {
+          "name": "CACO/CONCHA",
+          "url": "https://open.spotify.com/artist/4PGfbcmKIgDuemM5mqQ6xa"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254867,
+      "name": "Noite Nubente",
+      "url": "https://open.spotify.com/track/28RKRx7KSYLLnVnaU3Jd4V"
+    },
+    {
+      "album": {
         "name": "Noite Passada",
         "url": "https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU"
       },
@@ -11349,6 +11455,24 @@
     },
     {
       "album": {
+        "name": "Nova Luz",
+        "url": "https://open.spotify.com/album/7rUxIltzBxoTdX1oTGzNES"
+      },
+      "artists": [
+        {
+          "name": "Dani Bessa",
+          "url": "https://open.spotify.com/artist/28jQ1K0U4zoUORrM8aNr29"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214449,
+      "name": "Nova Luz",
+      "url": "https://open.spotify.com/track/6D7TAd2nmbZQkT984ENFaF"
+    },
+    {
+      "album": {
         "name": "MAGICLEOMIXTAPE (quando v\u00ea, j\u00e1 foi)",
         "url": "https://open.spotify.com/album/4Mt0fg5ARNpgJzGqk1JLAC"
       },
@@ -11429,6 +11553,24 @@
     },
     {
       "album": {
+        "name": "n\u00e3o d\u00e1 tempo",
+        "url": "https://open.spotify.com/album/4iOlk9WZOSfEQEUWNrJ9uH"
+      },
+      "artists": [
+        {
+          "name": "Breno Branches",
+          "url": "https://open.spotify.com/artist/7hTaRYWtNlp0VOxkbKhUGj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142500,
+      "name": "n\u00e3o d\u00e1 tempo",
+      "url": "https://open.spotify.com/track/4ORuj7og3tiEu3pV28Ek53"
+    },
+    {
+      "album": {
         "name": "N\u00e3o foi por mal",
         "url": "https://open.spotify.com/album/4rQgElXcm1KYhD2dhoez8g"
       },
@@ -11462,6 +11604,28 @@
       "duration_ms": 205256,
       "name": "N\u00e3o Fosse T\u00e3o Tarde",
       "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
+    },
+    {
+      "album": {
+        "name": "N\u00e3o Havia Paz para o Alquimista",
+        "url": "https://open.spotify.com/album/2scE2LxrKSmASz4J9eseQg"
+      },
+      "artists": [
+        {
+          "name": "tem mas acabou",
+          "url": "https://open.spotify.com/artist/2ZGLnv8hBLM3XJHbAALbMi"
+        },
+        {
+          "name": "Brita",
+          "url": "https://open.spotify.com/artist/18MjKd8C1pcD2vGlm9MwGQ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208260,
+      "name": "N\u00e3o Havia Paz para o Alquimista",
+      "url": "https://open.spotify.com/track/4VkvIhXRE8q6YTYmdKrwo3"
     },
     {
       "album": {
@@ -12838,7 +13002,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 253056,
       "name": "Pedestal",
       "url": "https://open.spotify.com/track/3C7rx29J2MH2rVrEdLUKWc"
@@ -15110,7 +15274,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 215142,
       "name": "seja delicado por favor",
       "url": "https://open.spotify.com/track/4HdGetg4Iwyo7IKM75RwuU"
@@ -15900,6 +16064,24 @@
       "duration_ms": 177735,
       "name": "Sprezzatura",
       "url": "https://open.spotify.com/track/0H2YqUAmW3Sxbqx8ez8jmG"
+    },
+    {
+      "album": {
+        "name": "fantasmas, vol. 1",
+        "url": "https://open.spotify.com/album/0IppfFqvq22EKb8IFuA9Rl"
+      },
+      "artists": [
+        {
+          "name": "Charles Tixier",
+          "url": "https://open.spotify.com/artist/0tisbNNCvi6QjEc3JZ7wT8"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180096,
+      "name": "STILL inna DREam",
+      "url": "https://open.spotify.com/track/4Bp3rrqZXgc239gvs1PraO"
     },
     {
       "album": {

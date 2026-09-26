@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-04",
-  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Yemi Alade",
+  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Niniola",
   "name": "Women of Afro",
   "tracks": [
     {
@@ -110,7 +110,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 124586,
       "name": "6 o'clock",
       "url": "https://open.spotify.com/track/7gt68ukLRTbKf9RXA3dKcP"
@@ -220,7 +220,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 143157,
       "name": "African King",
       "url": "https://open.spotify.com/track/6ggYw77QdcBDBj0thdtMAl"
@@ -246,6 +246,24 @@
       "duration_ms": 194666,
       "name": "After",
       "url": "https://open.spotify.com/track/10t22Qwyd0fbxfENS6ssbI"
+    },
+    {
+      "album": {
+        "name": "AGAIN",
+        "url": "https://open.spotify.com/album/7LHr1BVJLyiA9xD0fBjl7v"
+      },
+      "artists": [
+        {
+          "name": "Nissi",
+          "url": "https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153183,
+      "name": "AGAIN",
+      "url": "https://open.spotify.com/track/1SaSlPxQa34QGBeNlpyF5v"
     },
     {
       "album": {
@@ -623,6 +641,28 @@
     },
     {
       "album": {
+        "name": "Bendova",
+        "url": "https://open.spotify.com/album/5GwAV0yiinVM6UWuBRa7e2"
+      },
+      "artists": [
+        {
+          "name": "Wendy Shay",
+          "url": "https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162941,
+      "name": "Bendova",
+      "url": "https://open.spotify.com/track/0yMNSWqzTUWWF9HaODxQaC"
+    },
+    {
+      "album": {
         "name": "Love Is A Kingdom",
         "url": "https://open.spotify.com/album/3aI43F5shWPnoW4KMfxM1c"
       },
@@ -746,7 +786,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 208746,
       "name": "BLESSINGS",
       "url": "https://open.spotify.com/track/2w8h4UxNixZ48O5eYqXJ7w"
@@ -1300,7 +1340,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 177015,
       "name": "damn u",
       "url": "https://open.spotify.com/track/5XT1UyE4dVm8DsqVGir9PG"
@@ -1536,7 +1576,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 161236,
       "name": "Don\u2019t You Forget",
       "url": "https://open.spotify.com/track/0IZ5b7T4D3GcoMMAZZO9EQ"
@@ -4110,7 +4150,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 122790,
       "name": "Niahidi",
       "url": "https://open.spotify.com/track/34NEbs787Ie5TTHfCR7cxh"
@@ -5584,7 +5624,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 164102,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/2QudWKYB8feL5Q0pHe06pG"
@@ -5798,6 +5838,24 @@
       "duration_ms": 290909,
       "name": "Thobela",
       "url": "https://open.spotify.com/track/2nbIOACMsrzwJRffLmysWa"
+    },
+    {
+      "album": {
+        "name": "Tika",
+        "url": "https://open.spotify.com/album/3ZOZ1sNtwlbLj0fSPDIxhq"
+      },
+      "artists": [
+        {
+          "name": "Niniola",
+          "url": "https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129516,
+      "name": "Tika",
+      "url": "https://open.spotify.com/track/4YWqtagELt3giBdcMQYpC3"
     },
     {
       "album": {
@@ -6100,6 +6158,24 @@
       "duration_ms": 192547,
       "name": "victory!",
       "url": "https://open.spotify.com/track/0Af32lFc5aU4EtmVZKfpdj"
+    },
+    {
+      "album": {
+        "name": "BLNDE FOR PRESIDENT",
+        "url": "https://open.spotify.com/album/02dtj1MTRmvitNmTwjE4Nl"
+      },
+      "artists": [
+        {
+          "name": "BLNDE",
+          "url": "https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141116,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/5Nel8CnZxSZUZ3i3yLowLk"
     },
     {
       "album": {

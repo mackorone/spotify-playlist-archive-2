@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "0pay",
+        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "0pay",
+      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
+    },
+    {
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -330,7 +348,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 181304,
       "name": "5AM",
       "url": "https://open.spotify.com/track/3GA5aR1yTKcIylPurPCpB5"
@@ -389,7 +407,7 @@
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 184854,
+      "duration_ms": 182689,
       "name": "A LOT A LOT",
       "url": "https://open.spotify.com/track/13qqNFF4btUAEj352hwIKu"
     },
@@ -3454,7 +3472,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 124144,
       "name": "Closure",
       "url": "https://open.spotify.com/track/3ur4xNci4Jk5d2nNcMW8nr"
@@ -4346,6 +4364,24 @@
       "duration_ms": 184135,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/0Zy9VEBhwZzh3RPzMDvdrM"
+    },
+    {
+      "album": {
+        "name": "SWAGUU",
+        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158589,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
     },
     {
       "album": {
@@ -5262,6 +5298,28 @@
       "duration_ms": 196176,
       "name": "Falling",
       "url": "https://open.spotify.com/track/12NrVseXqjjk8gV4LuOEW1"
+    },
+    {
+      "album": {
+        "name": "Lust & Hustle",
+        "url": "https://open.spotify.com/album/1TdAdr5W0eSUO2VNixB26p"
+      },
+      "artists": [
+        {
+          "name": "PaBrymo",
+          "url": "https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk"
+        },
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180075,
+      "name": "Fancy",
+      "url": "https://open.spotify.com/track/7FAbU6FZ8YVvd9rSMEzwZT"
     },
     {
       "album": {
@@ -7896,7 +7954,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 163650,
       "name": "Know You",
       "url": "https://open.spotify.com/track/58nwReMJ5wix6IvUt78sya"
@@ -9094,6 +9152,28 @@
       "duration_ms": 189148,
       "name": "Make Sense",
       "url": "https://open.spotify.com/track/4V5ewWUvecAPHQmgZ1TPQJ"
+    },
+    {
+      "album": {
+        "name": "Malaria",
+        "url": "https://open.spotify.com/album/0oEhRoZuwqGnloiOkkTT5R"
+      },
+      "artists": [
+        {
+          "name": "Ayo Maff",
+          "url": "https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6"
+        },
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171128,
+      "name": "Malaria",
+      "url": "https://open.spotify.com/track/6JU5A8MFJcky0e0rb5prZh"
     },
     {
       "album": {
@@ -15892,7 +15972,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 148269,
       "name": "Uche Jumbo",
       "url": "https://open.spotify.com/track/7bRUMiDGOuaVamLrq52rSW"

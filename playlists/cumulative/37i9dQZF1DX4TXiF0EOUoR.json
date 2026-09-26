@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Amores de monta\u00f1a",
+        "url": "https://open.spotify.com/album/2o5QqiDCNGqaq3TUCqUGBn"
+      },
+      "artists": [
+        {
+          "name": "Banda La Reyna de Oaxaca",
+          "url": "https://open.spotify.com/artist/0BsNy71GupPGl8vkwLSSJI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217208,
+      "name": "Amores de monta\u00f1a",
+      "url": "https://open.spotify.com/track/05rLt8OUdyNlDMLOHBhixw"
+    },
+    {
+      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
       },
@@ -146,6 +164,24 @@
       "duration_ms": 183186,
       "name": "Arreando La Mula",
       "url": "https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu"
+    },
+    {
+      "album": {
+        "name": "Sones Y Caballos (En Vivo)",
+        "url": "https://open.spotify.com/album/4IaBBesdQqQlel5hGHGz8j"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192165,
+      "name": "Arriba El Roble - En Vivo",
+      "url": "https://open.spotify.com/track/1sFo0HZpiKTuuiMwPcytuh"
     },
     {
       "album": {
@@ -524,7 +560,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 183640,
       "name": "El Capiro",
       "url": "https://open.spotify.com/track/42d9ExiLvYE8RLaPkVQimd"
@@ -636,6 +672,24 @@
       "duration_ms": 144693,
       "name": "El Coyotito - En Vivo",
       "url": "https://open.spotify.com/track/4cvgt1OqvbjikfPRJFfQCN"
+    },
+    {
+      "album": {
+        "name": "El Gavil\u00e1n",
+        "url": "https://open.spotify.com/album/3hcLWdaBXLjWKxxbljoQ8N"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244366,
+      "name": "El Gavil\u00e1n",
+      "url": "https://open.spotify.com/track/6xNHgNeQR0N3nGsIBGW94z"
     },
     {
       "album": {
@@ -830,7 +884,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 198080,
       "name": "El Muchacho Alegre",
       "url": "https://open.spotify.com/track/6kasN4p6p7Y9LT0OBdLES2"
@@ -1472,7 +1526,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 176889,
       "name": "El Teterete",
       "url": "https://open.spotify.com/track/4hwq3Fwh2YotxDBndS8cKk"
@@ -2109,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Kraken",
+        "url": "https://open.spotify.com/album/31VRqX2KYghVfj4hxp8K5i"
+      },
+      "artists": [
+        {
+          "name": "Banda Aires del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/19mnuaz6IV93BapGucACZH"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253325,
+      "name": "Kraken",
+      "url": "https://open.spotify.com/track/09L9pzE5wVrNEbbtQ9Tv0N"
+    },
+    {
+      "album": {
         "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
         "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
       },
@@ -2416,7 +2488,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 192773,
       "name": "La Gitanilla",
       "url": "https://open.spotify.com/track/0lWqEEFGfBgiiLJPqIArjE"
@@ -2470,7 +2542,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 198687,
       "name": "La Guitarra de Lolo",
       "url": "https://open.spotify.com/track/13OHyNseYByEDHeRzO6sD2"
@@ -2874,6 +2946,24 @@
       "duration_ms": 197162,
       "name": "Los Enanitos",
       "url": "https://open.spotify.com/track/3FJoKq6hH2RNZdPOW0E3FP"
+    },
+    {
+      "album": {
+        "name": "Los Ixtlahuaca",
+        "url": "https://open.spotify.com/album/2j916nOvOLXLpC7OUz5U49"
+      },
+      "artists": [
+        {
+          "name": "Banda La Reyna de Oaxaca",
+          "url": "https://open.spotify.com/artist/0BsNy71GupPGl8vkwLSSJI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234954,
+      "name": "Los Ixtlahuaca",
+      "url": "https://open.spotify.com/track/5RdrrkGOo9RjFqpKX0qD2I"
     },
     {
       "album": {

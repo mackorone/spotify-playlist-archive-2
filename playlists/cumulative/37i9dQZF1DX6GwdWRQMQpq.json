@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Coi Leray",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Dolly Babe & Megan Thee Stallion",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -10462,7 +10462,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 135672,
       "name": "Nicki Flow",
       "url": "https://open.spotify.com/track/3r52kZ19Gy1d1hmXUgCbnL"
@@ -11220,6 +11220,24 @@
     {
       "album": {
         "name": "OKAY",
+        "url": "https://open.spotify.com/album/6dj5jd2m55Mu9IDsit5szL"
+      },
+      "artists": [
+        {
+          "name": "DreamDoll",
+          "url": "https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154238,
+      "name": "OKAY",
+      "url": "https://open.spotify.com/track/6KkKUztDojP7v5e07Xb9S1"
+    },
+    {
+      "album": {
+        "name": "OKAY",
         "url": "https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL"
       },
       "artists": [
@@ -11944,10 +11962,32 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 126686,
       "name": "Pink Blush",
       "url": "https://open.spotify.com/track/2FaW6Je4rEKqCE47NbLQX1"
+    },
+    {
+      "album": {
+        "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+        "url": "https://open.spotify.com/album/3sqKpIBO5ST20iCc5kY5nA"
+      },
+      "artists": [
+        {
+          "name": "Dolly Babe",
+          "url": "https://open.spotify.com/artist/647qQOSIMSyoEoUEnN5LsM"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161817,
+      "name": "Pink Blush (Remix) [feat. Megan Thee Stallion]",
+      "url": "https://open.spotify.com/track/2k1gcQWaB2FuVFqK46s4ob"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sienna Spiro",
-  "num_followers": 247877,
+  "num_followers": 247923,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADlmNodQ0JZq/ITVARaNG2w1STtN",
+  "snapshot_id": "AAAAAFy2zfcklj1cldlWFJ73+EGwV3Jo",
   "tracks": [
     {
       "added_at": "2026-07-22 20:15:47",
@@ -23,22 +23,6 @@
       "duration_ms": 242459,
       "name": "It Takes A Woman (Cover) (Live) - Spotify Live Room",
       "url": "https://open.spotify.com/track/1jnexmU3uWd0D54O3kWxKm"
-    },
-    {
-      "added_at": "2026-05-29 04:00:18",
-      "album": {
-        "name": "Can't Get You Out of My Head - Spotify Singles",
-        "url": "https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql"
-      },
-      "artists": [
-        {
-          "name": "Mikayla Geier",
-          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Can't Get You Out of My Head - Spotify Singles",
-      "url": "https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR"
     },
     {
       "added_at": "2026-05-23 16:58:14",
@@ -75,6 +59,22 @@
     {
       "added_at": "2026-05-23 16:58:14",
       "album": {
+        "name": "Into You (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 246901,
+      "name": "Into You - Spotify Singles",
+      "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
+    },
+    {
+      "added_at": "2026-05-23 16:58:14",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5F6IRzJZGzLGb8R0GDMKSz"
       },
@@ -87,6 +87,54 @@
       "duration_ms": 241776,
       "name": "You'll Be In My Heart - Spotify Singles",
       "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX"
+    },
+    {
+      "added_at": "2026-09-25 04:00:28",
+      "album": {
+        "name": "I Want to Know What Love Is",
+        "url": "https://open.spotify.com/album/6MB8OonnULWOmlcIgUZyMv"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 233500,
+      "name": "I Want to Know What Love Is",
+      "url": "https://open.spotify.com/track/45GBS4shUWBo3V8qkK73LD"
+    },
+    {
+      "added_at": "2026-05-29 04:00:18",
+      "album": {
+        "name": "Can't Get You Out of My Head - Spotify Singles",
+        "url": "https://open.spotify.com/album/6ynUBc9yQ4pq7kImTMdOql"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Geier",
+          "url": "https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Can't Get You Out of My Head - Spotify Singles",
+      "url": "https://open.spotify.com/track/6j4kyvjM60Te1mU0H2LTwR"
+    },
+    {
+      "added_at": "2026-05-23 16:58:14",
+      "album": {
+        "name": "Take On Me",
+        "url": "https://open.spotify.com/album/6gfeC67BKpG7U2ImKTuCXH"
+      },
+      "artists": [
+        {
+          "name": "Walk off the Earth",
+          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+        }
+      ],
+      "duration_ms": 219281,
+      "name": "Take On Me",
+      "url": "https://open.spotify.com/track/25EhSAtPhtbC2AwhvmDHj6"
     },
     {
       "added_at": "2026-07-03 04:00:40",
@@ -107,34 +155,18 @@
     {
       "added_at": "2026-05-23 16:58:14",
       "album": {
-        "name": "Take On Me",
-        "url": "https://open.spotify.com/album/6gfeC67BKpG7U2ImKTuCXH"
+        "name": "The scientist",
+        "url": "https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN"
       },
       "artists": [
         {
-          "name": "Walk off the Earth",
-          "url": "https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX"
+          "name": "Bea",
+          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
         }
       ],
-      "duration_ms": 219281,
-      "name": "Take On Me",
-      "url": "https://open.spotify.com/track/25EhSAtPhtbC2AwhvmDHj6"
-    },
-    {
-      "added_at": "2026-05-23 16:58:14",
-      "album": {
-        "name": "Your Love Is My Drug (Like A Version)",
-        "url": "https://open.spotify.com/album/4EAcNSUHnrUbat7K86bEqd"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 195667,
-      "name": "Your Love Is My Drug (Like A Version)",
-      "url": "https://open.spotify.com/track/35FIIqFiSUu8WLhVfOYDip"
+      "duration_ms": 267700,
+      "name": "The scientist",
+      "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
     },
     {
       "added_at": "2026-05-23 16:58:14",
@@ -159,22 +191,6 @@
     {
       "added_at": "2026-05-23 16:58:14",
       "album": {
-        "name": "Don\u2019t Dream It\u2019s Over (From The Movie \u201cGOAT\u201d)",
-        "url": "https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf"
-      },
-      "artists": [
-        {
-          "name": "Bryant Barnes",
-          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
-        }
-      ],
-      "duration_ms": 193012,
-      "name": "Don\u2019t Dream It\u2019s Over - From The Movie \u201cGOAT\u201d",
-      "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
-    },
-    {
-      "added_at": "2026-05-23 16:58:14",
-      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -191,6 +207,70 @@
     {
       "added_at": "2026-05-23 16:58:14",
       "album": {
+        "name": "Don\u2019t Dream It\u2019s Over (From The Movie \u201cGOAT\u201d)",
+        "url": "https://open.spotify.com/album/4cA36IeupWI5AYDXl9wLgf"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 193012,
+      "name": "Don\u2019t Dream It\u2019s Over - From The Movie \u201cGOAT\u201d",
+      "url": "https://open.spotify.com/track/16zIGnAmzJUQY0aZPjiqQ5"
+    },
+    {
+      "added_at": "2026-05-23 16:58:14",
+      "album": {
+        "name": "Time After Time (Spotify Singles)",
+        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 219648,
+      "name": "Time After Time - Spotify Singles",
+      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
+    },
+    {
+      "added_at": "2026-05-23 16:58:14",
+      "album": {
+        "name": "Your Love Is My Drug (Like A Version)",
+        "url": "https://open.spotify.com/album/4EAcNSUHnrUbat7K86bEqd"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 195667,
+      "name": "Your Love Is My Drug (Like A Version)",
+      "url": "https://open.spotify.com/track/35FIIqFiSUu8WLhVfOYDip"
+    },
+    {
+      "added_at": "2026-05-23 16:58:14",
+      "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 254725,
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
+    },
+    {
+      "added_at": "2026-05-23 16:58:14",
+      "album": {
         "name": "Off Campus: The Mixtape",
         "url": "https://open.spotify.com/album/5CJqPFrc9hPete87L5DFSN"
       },
@@ -203,22 +283,6 @@
       "duration_ms": 131280,
       "name": "Baby Now That I Found You",
       "url": "https://open.spotify.com/track/3pnVh7sYDBQ9D2tkKAWnhs"
-    },
-    {
-      "added_at": "2026-05-23 16:58:14",
-      "album": {
-        "name": "The scientist",
-        "url": "https://open.spotify.com/album/6sZtwWiBa5s3c4ypElSEkN"
-      },
-      "artists": [
-        {
-          "name": "Bea",
-          "url": "https://open.spotify.com/artist/6Jl6Xw5FnzQqmKNodwbKym"
-        }
-      ],
-      "duration_ms": 267700,
-      "name": "The scientist",
-      "url": "https://open.spotify.com/track/45G5DwgpBq8Sr6o1dFuO2I"
     },
     {
       "added_at": "2026-05-23 16:58:14",
@@ -255,34 +319,18 @@
     {
       "added_at": "2026-05-23 16:58:14",
       "album": {
-        "name": "Time After Time (Spotify Singles)",
-        "url": "https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop"
+        "name": "Always Remember Us This Way",
+        "url": "https://open.spotify.com/album/1f7YYa32O6pDWNOkUUW6Z5"
       },
       "artists": [
         {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+          "name": "Jada Facer",
+          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
         }
       ],
-      "duration_ms": 219648,
-      "name": "Time After Time - Spotify Singles",
-      "url": "https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W"
-    },
-    {
-      "added_at": "2026-05-23 16:58:14",
-      "album": {
-        "name": "Into You (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1J5EJwA0fSnOBOHkrIe6vM"
-      },
-      "artists": [
-        {
-          "name": "AD\u00c9LA",
-          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
-        }
-      ],
-      "duration_ms": 246901,
-      "name": "Into You - Spotify Singles",
-      "url": "https://open.spotify.com/track/4smI43J9NuIJpRT76fCLX6"
+      "duration_ms": 164418,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/16PeBkyJ6hq6ZQ5iOaE7nY"
     },
     {
       "added_at": "2026-05-23 16:58:14",
@@ -299,22 +347,6 @@
       "duration_ms": 151446,
       "name": "Rewrite the Stars",
       "url": "https://open.spotify.com/track/6MmBZEU7zbWwPP32XJQPoI"
-    },
-    {
-      "added_at": "2026-05-23 16:58:14",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/6Yg2WbhAn0F3vFiwFnC7wO"
-      },
-      "artists": [
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 254725,
-      "name": "Happier Than Ever",
-      "url": "https://open.spotify.com/track/4sRoiXZBLpiRIklm2wy0WZ"
     },
     {
       "added_at": "2026-05-23 16:58:14",
@@ -431,22 +463,6 @@
       "duration_ms": 225647,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/1uw2yArj2WPAzF2kKJMgqq"
-    },
-    {
-      "added_at": "2026-05-23 16:58:14",
-      "album": {
-        "name": "Always Remember Us This Way",
-        "url": "https://open.spotify.com/album/1f7YYa32O6pDWNOkUUW6Z5"
-      },
-      "artists": [
-        {
-          "name": "Jada Facer",
-          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
-        }
-      ],
-      "duration_ms": 164418,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/16PeBkyJ6hq6ZQ5iOaE7nY"
     },
     {
       "added_at": "2026-05-23 16:58:14",
@@ -1187,22 +1203,6 @@
       "duration_ms": 177857,
       "name": "Teenage Dream",
       "url": "https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD"
-    },
-    {
-      "added_at": "2026-05-23 16:58:14",
-      "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/6Q3yJG9z24SwouL3qsZkOm"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 252716,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/5U8frcz1zLfKDX5sDTpsnV"
     },
     {
       "added_at": "2026-05-23 16:58:14",

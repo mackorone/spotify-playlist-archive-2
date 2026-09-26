@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-208 songs - 12 hr 12 min
+209 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Aurora](https://open.spotify.com/track/2jd20t5nkaFrEbTPJNXDzi) | [Jeremy Soule](https://open.spotify.com/artist/77yY2QmM6bYvjJ3y5L2R0v) | [The Elder Scrolls V: Skyrim: Original Game Soundtrack](https://open.spotify.com/album/25r7pEf31viAbsoVHC6bQ4) | 7:21 | 2021-12-15 |  |
 | [Awakening](https://open.spotify.com/track/5rH5Z27SXGNkSZ0L5WZRBz) | [Knut Avenstroup Haugen](https://open.spotify.com/artist/5tGhfbvLZoyaM8GwORmL2k), [The Chamber Orchestra Of London](https://open.spotify.com/artist/2IS9rTtWwEfUEY4u3mecIT) | [Dune: Awakening \(Original Video Game Soundtrack\)](https://open.spotify.com/album/7ywGD6818xlYT3tawU95Hi) | 1:36 | 2025-06-27 |  |
 | [Battlefield 6 Main Theme \- From "Battlefield 6"](https://open.spotify.com/track/5VleeWGSWkxdZ2tEZibpGs) | [Henry Jackman](https://open.spotify.com/artist/5SEW04tNMMrOz7UFQJA6vz) | [Battlefield 6 Main Theme \(From "Battlefield 6"\)](https://open.spotify.com/album/5ZHTmpz9ZAEb9DafmpcuIZ) | 4:10 | 2025-10-10 |  |
+| [Belleteyn Night](https://open.spotify.com/track/4anj7i1IlFZ4haVhuQ1F87) | [Magda Urbańska](https://open.spotify.com/artist/0wVFlXdyez3WlwABjZW7C3) | [The Witcher 3: Wild Hunt \- Songs of the Past \(Official gamescom 2026 Soundtrack EP\)](https://open.spotify.com/album/3QKk2yZiKD9U8SnQRJjLA4) | 3:08 | 2026-09-25 |  |
 | [Beyond the Dawn](https://open.spotify.com/track/2fSXpnPjqPuRfp1xxm4G3R) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz), [Tales of Series Sound Team](https://open.spotify.com/artist/7AkMAVMGgyXoVJel1lgVO4), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [Tales of Arise \- Beyond the Dawn \(Original Game Soundtrack\)](https://open.spotify.com/album/1YQXfr59bJSE9bvdi4jy1m) | 1:37 | 2023-11-30 |  |
 | [Beyond the Dawn](https://open.spotify.com/track/1alyWxibSGkmwbwZYy9Hhe) | [Motoi Sakuraba](https://open.spotify.com/artist/1DdhScDGl9AceKnbvgkFgz), [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [TALES OF ARISE \- Beyond the Dawn Original Soundtrack](https://open.spotify.com/album/2HL2ppkJtrzXl1lu96JVGY) | 1:37 | 2023-11-30 | 2024-04-19 |
 | [Bloodhunt Main Theme](https://open.spotify.com/track/1r4MUA5cT9eGCI9drPV74m) | [Atanas Valkov](https://open.spotify.com/artist/4cAAN7SGwKPLlveflKR9z5) | [Vampire: The Masquerade \- Bloodhunt \(Original Soundtrack\)](https://open.spotify.com/album/1n9ixNMkvMMHukntiOfIZf) | 2:57 | 2022-08-19 |  |

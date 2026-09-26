@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Stephen Wilson Jr.
+> roots run deep with Dylan Gossett
 
-501 songs - 1 day 6 hr 6 min
+502 songs - 1 day 6 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Hardwired \(feat\. Miranda Lambert\)](https://open.spotify.com/track/6A297r5nVjE6eXGI6h00SL) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Hardwired](https://open.spotify.com/album/7fDNpo4jPuAmeSN7j8OYPB) | 4:51 | 2026-07-31 |  |
 | [Hardwood Floors](https://open.spotify.com/track/7BAb0MMi9vrX68buZqzyLa) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Seneca](https://open.spotify.com/album/0FazkbocfVJ5apOEfeCUsE) | 4:00 | 2024-01-31 |  |
 | [Hardwood Floors](https://open.spotify.com/track/7ombTZVkZmszWGo4QX4nSo) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Seneca](https://open.spotify.com/album/4jvlMjz329DXzWF9XtELvu) | 4:00 | 2026-05-01 | 2026-06-27 |
+| [Headed Back To Austin](https://open.spotify.com/track/7cnI83ZwaVbJiWsgs6lUbO) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Ramblin'](https://open.spotify.com/album/2mLOKf5bL07b6un4DENa6U) | 3:45 | 2026-09-25 |  |
 | [Heading South](https://open.spotify.com/track/2Dct3GykKZ58hpWRFfe2Qd) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Heading South](https://open.spotify.com/album/3Ca58JR3vDDMl5i8QKkWzP) | 2:51 | 2023-02-24 |  |
 | [Heart You Didn't Break](https://open.spotify.com/track/3LZ9tH82f13GAbbm97c8dN) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Heart You Didn't Break](https://open.spotify.com/album/5uUttORPPONM7o3vhYZO2m) | 3:12 | 2026-04-17 |  |
 | [Heaven On Earth](https://open.spotify.com/track/5IOnG2HrnO062RDwgx0TuO) | [Hayden Blount](https://open.spotify.com/artist/3lMuNq4oBlVIMBJcpAuT4j) | [Heaven On Earth](https://open.spotify.com/album/5o919zG29Vo2KpdgWuWBxQ) | 2:44 | 2024-10-06 |  |

@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 219570,
       "name": "Beams",
       "url": "https://open.spotify.com/track/7AieCEz0Kpv2c8L63LXcWw"
@@ -1466,7 +1466,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 185933,
       "name": "Black Cherry Liqueur",
       "url": "https://open.spotify.com/track/0FTqriqVRsDGT96kH6RfgC"
@@ -3972,7 +3972,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 155848,
       "name": "Fall with Me",
       "url": "https://open.spotify.com/track/2vylf7rmqNdkIQkwTeAjnc"
@@ -5708,6 +5708,28 @@
       "duration_ms": 167272,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/3mDdkv8881MzLmSB7z8Ogy"
+    },
+    {
+      "album": {
+        "name": "OPIA",
+        "url": "https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom"
+      },
+      "artists": [
+        {
+          "name": "VITA",
+          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
+        },
+        {
+          "name": "REINEN",
+          "url": "https://open.spotify.com/artist/0IYg6J3r1hJUPLNupSbqvt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "HYPER (with REINEN)",
+      "url": "https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW"
     },
     {
       "album": {
@@ -9907,6 +9929,24 @@
     },
     {
       "album": {
+        "name": "Puddle",
+        "url": "https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X"
+      },
+      "artists": [
+        {
+          "name": "Murex",
+          "url": "https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117489,
+      "name": "Puddle",
+      "url": "https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL"
+    },
+    {
+      "album": {
         "name": "Bought Me A Guitar",
         "url": "https://open.spotify.com/album/4Vqylkfp1XEmdwx533duY1"
       },
@@ -9940,6 +9980,28 @@
       "duration_ms": 221129,
       "name": "Quicksand Heart",
       "url": "https://open.spotify.com/track/10sBS8Ko7OdndQKsGNSpBA"
+    },
+    {
+      "album": {
+        "name": "R U OK?",
+        "url": "https://open.spotify.com/album/3QuDfvfYx0m0K3A2fmBy2g"
+      },
+      "artists": [
+        {
+          "name": "BINA.",
+          "url": "https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC"
+        },
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169090,
+      "name": "R U OK?",
+      "url": "https://open.spotify.com/track/2bE7yw711WwTYNcd6v1Yzt"
     },
     {
       "album": {

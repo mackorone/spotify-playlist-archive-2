@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Haryanvi Hip-Hop! Cover: Rawme Hooda & MC SQUARE",
+  "description": "Best of Haryanvi Hip-Hop! Cover: Masoom Sharma",
   "name": "RAP 91 Haryanvi",
   "tracks": [
     {
@@ -2022,6 +2022,28 @@
       "duration_ms": 208695,
       "name": "Bhai 4",
       "url": "https://open.spotify.com/track/6rGgaRS0jslie0KkC24wJZ"
+    },
+    {
+      "album": {
+        "name": "Bhaichara",
+        "url": "https://open.spotify.com/album/1qBVXXXJpvoi4TTeOYPdy6"
+      },
+      "artists": [
+        {
+          "name": "Hammy Muzic",
+          "url": "https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj"
+        },
+        {
+          "name": "Legacy",
+          "url": "https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157219,
+      "name": "Bhaichara",
+      "url": "https://open.spotify.com/track/3PFQEuuXhX8kRcx66OYx58"
     },
     {
       "album": {
@@ -8137,6 +8159,32 @@
     },
     {
       "album": {
+        "name": "Kaun Marvana",
+        "url": "https://open.spotify.com/album/7JfXrTOs73RMeR0FdmBwI0"
+      },
+      "artists": [
+        {
+          "name": "Masoom Sharma",
+          "url": "https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj"
+        },
+        {
+          "name": "Priyam",
+          "url": "https://open.spotify.com/artist/6zHVlpak6U0fqQ5FjAeZN2"
+        },
+        {
+          "name": "Amar Karnawal",
+          "url": "https://open.spotify.com/artist/6DAbqsPFnfdjW7qUtVW7wS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Kaun Marvana",
+      "url": "https://open.spotify.com/track/4aFmzuZXXtCbwW7SfWXFFZ"
+    },
+    {
+      "album": {
         "name": "Kede Kede Yaar",
         "url": "https://open.spotify.com/album/2wrCS3CHyPOACbcDEc3ULP"
       },
@@ -11458,6 +11506,10 @@
         {
           "name": "Balram Baisla",
           "url": "https://open.spotify.com/artist/1LEwA0hsFupxLwNt8pPg0s"
+        },
+        {
+          "name": "Maharaja",
+          "url": "https://open.spotify.com/artist/0SI64dy8f4kO21pSSXFQve"
         }
       ],
       "date_added": "2026-09-18",
@@ -12260,7 +12312,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 183518,
       "name": "Russian Toys",
       "url": "https://open.spotify.com/track/6dZopjLrQwNaqKGi7MMku2"
@@ -13068,7 +13120,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 165055,
       "name": "Still Standing",
       "url": "https://open.spotify.com/track/3JaOlHlcLmYRELnxzyIMYL"

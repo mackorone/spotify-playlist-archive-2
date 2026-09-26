@@ -4,7 +4,7 @@
 
 > The best new dance tracks from independent artists & labels\. Featuring KDAY\. Curated with love by human Spotify editors.
 
-3,688 songs - 9 day 21 hr 41 min
+3,690 songs - 9 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,6 +437,7 @@
 | [Both Sides](https://open.spotify.com/track/0SkdSsuQQNkFz7ZllYFoGS) | [Sensu](https://open.spotify.com/artist/4KkoOAycKxCd85wUPaImhw), [Denyher](https://open.spotify.com/artist/0sPzTv6cyRxqiBRVnNXd31) | [Both Sides](https://open.spotify.com/album/1iG6fN6hv4iMYYOHJnaymO) | 3:01 | 2022-05-18 | 2022-07-21 |
 | [Bounce](https://open.spotify.com/track/6o77Iq2lw3KoLUwb5AuN84) | [Preece](https://open.spotify.com/artist/1bajsLluyeJpzaPoRB8uLQ) | [Bounce](https://open.spotify.com/album/2vq0TwPj3gAEXHCZV69DvM) | 2:51 | 2026-09-23 |  |
 | [Bounce 03](https://open.spotify.com/track/6x38ulkw93vhg3MEaX9Agy) | [3LEEZA](https://open.spotify.com/artist/7xoexOjio0HiK5aUmPWsjO) | [Bounce 03](https://open.spotify.com/album/1j9noJqTsXq0vlHOPouLmx) | 3:51 | 2026-02-04 | 2026-04-09 |
+| [BOUNCIN](https://open.spotify.com/track/2g8ld6HN07H8ylTJVbeazz) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [BOUNCIN](https://open.spotify.com/album/0XEY9Uay6nkHixYlB5pPsp) | 2:36 | 2026-09-25 |  |
 | [BOUNCING LIKE A BIRD \- Original Mix](https://open.spotify.com/track/7nyPb9oIcocFkNLh8K65PF) | [Chiccaleaf ITA](https://open.spotify.com/artist/3zgIBo6uuI4mam0XTJNR8J) | [V.A](https://open.spotify.com/album/1PcJUJ3SIosTkONHKItwUr) | 5:15 | 2022-08-24 | 2022-09-15 |
 | [Bourgeoisie](https://open.spotify.com/track/2QdxwYLD78zrdDmfSbM7L3) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU) | [Angelica](https://open.spotify.com/album/2FRhqyhCl2pz7Bx7IiugOI) | 2:48 | 2021-12-01 | 2022-01-13 |
 | [Bow Street](https://open.spotify.com/track/5hH5wT6OP4rwTYxW5Omk9h) | [Mell Hall](https://open.spotify.com/artist/1EzMBKiEO3rQbvnNxLK6HZ) | [Bow Street / Disco Nap](https://open.spotify.com/album/48ooxkhdFxRpIFNlt314Hs) | 2:54 | 2023-04-03 | 2023-05-04 |
@@ -2273,7 +2274,7 @@
 | [No Good](https://open.spotify.com/track/1FMx9xm0tf53HCh1T6TXK0) | [Joe Mattei](https://open.spotify.com/artist/0SL9C2lAw80S3N4IHFpaI6) | [No Good](https://open.spotify.com/album/2R5jWJMZNtsNYdWAJ4GYEs) | 3:35 | 2024-04-10 | 2024-06-01 |
 | [No Good Reason](https://open.spotify.com/track/4YTBloQHYeKdowKJ2uurPv) | [Eyezic](https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97) | [No Good Reason](https://open.spotify.com/album/2KR7NQ0vda2mEtDE1QbTOg) | 3:05 | 2024-05-23 | 2024-06-13 |
 | [No Heart](https://open.spotify.com/track/2PT2YgnWt40cdlVWHINqiu) | [THELMA](https://open.spotify.com/artist/6FmmPwPeUC5mYKHF6mkulm) | [No Heart](https://open.spotify.com/album/4LmR3GgkzZllnYMP4pkYki) | 4:52 | 2025-09-17 | 2025-10-23 |
-| [No Joke](https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX) | [Ben Griff](https://open.spotify.com/artist/0UBeWkZtGsqsGG83v4iCNZ) | [No Joke](https://open.spotify.com/album/19fK99qInBx1rJLqaCfvcC) | 3:29 | 2026-09-04 |  |
+| [No Joke](https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX) | [Ben Griff](https://open.spotify.com/artist/0UBeWkZtGsqsGG83v4iCNZ) | [No Joke](https://open.spotify.com/album/19fK99qInBx1rJLqaCfvcC) | 3:29 | 2026-09-04 | 2026-09-26 |
 | [No Lie](https://open.spotify.com/track/2tixFjoUKv6rfgcWFXcJdI) | [American Dance Ghosts](https://open.spotify.com/artist/5iK0IA5h8WCOKSCfiJGVLT) | [No Lie](https://open.spotify.com/album/2zz6KdMmS1sqK9uOlrvE6W) | 4:27 | 2023-02-08 | 2023-03-02 |
 | [NO LOVE FOR THE BOUNCE](https://open.spotify.com/track/0arqUgnNPiUYXECib0CljX) | [DON JB](https://open.spotify.com/artist/4uTDGyMIRwn4enZ52hJKce) | [NO LOVE FOR THE BOUNCE](https://open.spotify.com/album/5pRFQmlH95fUJJvbLbHFU0) | 3:33 | 2025-09-11 | 2025-10-11 |
 | [No More Tears](https://open.spotify.com/track/4R3ANKaWiX0H8lHjdN1HBM) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [No More Tears](https://open.spotify.com/album/0jNyzx2n6pdXzAn6Df386M) | 5:18 | 2021-12-01 | 2022-01-27 |
@@ -3035,6 +3036,7 @@
 | [Sunscreen](https://open.spotify.com/track/20M2zHhv6GcHudxeHXmdbr) | [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D), [Spray](https://open.spotify.com/artist/7AyNPhiTjEsBF4HBBW4gDf), [Merely](https://open.spotify.com/artist/3R0EMFbUS5NaombX9GQOn7) | [Sunscreen](https://open.spotify.com/album/6mjHHVGCJmNCTqB5fvD53k) | 3:46 | 2025-07-04 | 2025-08-02 |
 | [Sunset Dreamin'](https://open.spotify.com/track/5CZcPmeiOvxykRKewSWYyx) | [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa), [Mad.Again](https://open.spotify.com/artist/0N3Cd61UD4Y0ED9YXFGa5V) | [Sunset Dreamin'](https://open.spotify.com/album/3bdMQpsIQUYgkF9BkuvIqk) | 6:29 | 2023-05-10 | 2023-06-08 |
 | [Sunshine](https://open.spotify.com/track/2jw4OPeG1bhHtJTDTuCHE4) | [Harel Atias](https://open.spotify.com/artist/1SCMv8zHIZQTOIWu3mBmY8) | [Sunshine](https://open.spotify.com/album/59TOwrpPodcXZvs82NdWuh) | 2:51 | 2023-04-12 | 2023-04-27 |
+| [Sunshine](https://open.spotify.com/track/7D8yRzQXkDdDr3CQ7UX6An) | [OBLQ](https://open.spotify.com/artist/6M8AKWzvTH1HvTSdvAFsF8) | [Sunshine](https://open.spotify.com/album/2kKNSLMbIQ3InaKKRkGmIj) | 3:48 | 2026-09-25 |  |
 | [Sunup Swale](https://open.spotify.com/track/29pG0oXVCY1Q7fijAw2VLu) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [Kamo Eagle](https://open.spotify.com/album/7eoA3O8bNvMsVtKg3C3h9p) | 8:20 | 2022-06-08 | 2022-07-21 |
 | [Super Good Times](https://open.spotify.com/track/1qooiZqttVLM5Z2dHLofHM) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/5a7aGgIO1ZziPyjE6MJZ8T) | 3:41 | 2021-12-01 | 2022-01-13 |
 | [Super Stroke](https://open.spotify.com/track/7GecLEJ8s2kAmyjpB2cBLX) | [Eden Burns](https://open.spotify.com/artist/6lItMkb0pYOU1DvFUWgYo2) | [Big Beat Manifesto Vol\. V](https://open.spotify.com/album/73qqk6hd5Okw6WQxMKaXOo) | 6:21 | 2022-11-30 | 2023-02-03 |
@@ -3333,7 +3335,7 @@
 | [Trusted](https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi) | [machìna](https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn) | [Trusted EP](https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9) | 3:14 | 2022-03-09 | 2022-04-28 |
 | [Try](https://open.spotify.com/track/2k5FAxgu8aIazgH66dYqbn) | [Dyzen](https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl) | [Try](https://open.spotify.com/album/5FkG72VCBcwRxBs5hMUvra) | 5:29 | 2024-10-24 | 2024-12-05 |
 | [TRYING TO SAY SOMETHING](https://open.spotify.com/track/3eWbApzvYveVZfYBBFJs5p) | [ZEP](https://open.spotify.com/artist/72OZwUYL9lvmwBvvsstpIV) | [TRYING TO SAY SOMETHING](https://open.spotify.com/album/0RTqNC6GvDXiBsBGElrROE) | 2:21 | 2024-11-20 | 2024-12-05 |
-| [TU](https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [TU](https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI) | 2:40 | 2026-04-03 |  |
+| [TU](https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN) | [fromclay](https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu) | [TU](https://open.spotify.com/album/4Jne5XEYDgjWiYF2GQxEOI) | 2:40 | 2026-04-03 | 2026-09-26 |
 | [Tu Medice](https://open.spotify.com/track/2uoeGOB5Xq5N4eLLIVyRb5) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV) | [Tu Medice](https://open.spotify.com/album/1cE5rI8088FcWnyrnwIW5x) | 4:22 | 2025-07-09 | 2025-09-21 |
 | [Tu Segredos](https://open.spotify.com/track/1WV1pLRmDLBPKWfOdITw6y) | [Pedroz](https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p) | [Tu Segredos](https://open.spotify.com/album/5jnOm7Xv8UlQDnUmuDEOVS) | 3:31 | 2024-10-23 | 2024-11-14 |
 | [Tuesday Morning](https://open.spotify.com/track/1w8xFWRRgf7ZXvfrWL4ouv) | [Manu Dia](https://open.spotify.com/artist/3iloWJ7zajxZwkDv2cYQQw), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Tuesday Morning](https://open.spotify.com/album/0F5vinewfHFeDJAawCcY7x) | 4:09 | 2022-01-26 | 2022-03-24 |

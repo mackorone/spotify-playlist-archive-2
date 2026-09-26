@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Tattoo Colour",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e44\u0e27\u0e23\u0e31\u0e25\u0e41\u0e25\u0e30\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e19\u0e01\u0e23\u0e30\u0e41\u0e2a\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: the ge",
   "name": "Viral Hits Thailand",
   "tracks": [
     {
@@ -2722,7 +2722,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 212000,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/06BpRg0JXjnUmjtOZjZT3U"
@@ -2828,7 +2828,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 202767,
       "name": "Bye",
       "url": "https://open.spotify.com/track/1dRGIAZOqJsaFgYpIMD1Hn"
@@ -3326,7 +3326,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 220291,
       "name": "CHEST VOICE",
       "url": "https://open.spotify.com/track/6fjZEUzV1nt8BJdd0416jp"
@@ -4632,6 +4632,28 @@
       "duration_ms": 248727,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/5FuTVHybda7WhSvaHBMb0t"
+    },
+    {
+      "album": {
+        "name": "don\u2019t hide",
+        "url": "https://open.spotify.com/album/5YdcJOuy9ANTRoypFgRTtE"
+      },
+      "artists": [
+        {
+          "name": "atom chanakan",
+          "url": "https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw"
+        },
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200146,
+      "name": "don\u2019t hide (feat. GALCHANIE)",
+      "url": "https://open.spotify.com/track/62cfnbOHpJ884Plu34eQMj"
     },
     {
       "album": {
@@ -13835,6 +13857,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "mood swings",
         "url": "https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe"
       },
@@ -22135,6 +22175,24 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e2d\u0e08\u0e35\u0e1a (nice to meet you) [From \u201cHENRY\u2019s First Dates\u201d]",
+        "url": "https://open.spotify.com/album/0LAaAakmTg0dbMUHNZI0T2"
+      },
+      "artists": [
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "\u0e02\u0e2d\u0e08\u0e35\u0e1a (nice to meet you) - From \u201cHENRY\u2019s First Dates\u201d",
+      "url": "https://open.spotify.com/track/0yZK1j2HIei9ISh931D97a"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e2d\u0e1a\u0e04\u0e38\u0e13\u0e17\u0e35\u0e48\u0e40\u0e23\u0e32\u0e40\u0e04\u0e22\u0e1a\u0e2d\u0e01\u0e23\u0e31\u0e01\u0e41\u0e25\u0e30\u0e1a\u0e2d\u0e01\u0e25\u0e32 (English Version) - Single",
         "url": "https://open.spotify.com/album/1zsTQAGPwnikzQUzwdFj34"
       },
@@ -22190,7 +22248,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 172000,
       "name": "\u0e02\u0e2d\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/4aMAa266XcIMVxP1jBLs0v"
@@ -22346,7 +22404,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 210000,
       "name": "\u0e04\u0e32\u0e23\u0e32\u0e42\u0e2d\u0e40\u0e01\u0e30 (Karaoke)",
       "url": "https://open.spotify.com/track/17h2gVR109XfFX0q7xdsyL"
@@ -22628,7 +22686,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 188000,
       "name": "\u0e0a\u0e2d\u0e1a\u0e08\u0e31\u0e07\u0e27\u0e48\u0e30 (Ricky Latin)",
       "url": "https://open.spotify.com/track/5su7so7GIrRcGXaVfgJYAa"
@@ -22780,7 +22838,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 213230,
       "name": "\u0e14\u0e31\u0e49\u0e07\u0e40\u0e14\u0e34\u0e21",
       "url": "https://open.spotify.com/track/3Lu2Kn9MAb7mIXaRDZBZWG"
@@ -22856,6 +22914,24 @@
       "duration_ms": 180182,
       "name": "\u0e16\u0e39\u0e01\u0e2a\u0e40\u0e1b\u0e01 (Let\u2019s Go)",
       "url": "https://open.spotify.com/track/7p5yG8VirRCXPCzCNdj38Y"
+    },
+    {
+      "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19 (Crossroads)",
+        "url": "https://open.spotify.com/album/7xkjJRoG1XxU94Qr2zm5Zy"
+      },
+      "artists": [
+        {
+          "name": "FREEHAND",
+          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218414,
+      "name": "\u0e16\u0e49\u0e32\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19 (Crossroads)",
+      "url": "https://open.spotify.com/track/4NhtEMpFYFW3mb9c2ZQlMH"
     },
     {
       "album": {
@@ -22958,6 +23034,24 @@
       "duration_ms": 283258,
       "name": "\u0e17\u0e35\u0e48\u0e17\u0e35\u0e48\u0e1b\u0e25\u0e2d\u0e14\u0e20\u0e31\u0e22",
       "url": "https://open.spotify.com/track/0FnnwqW9QVZgoHfB5mH49V"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32",
+        "url": "https://open.spotify.com/album/7Luok1GvB5cGOD4cQicI1D"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211821,
+      "name": "\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32",
+      "url": "https://open.spotify.com/track/3vJ6KgtaCKcfsLtQT6LoQ4"
     },
     {
       "album": {
@@ -23518,7 +23612,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 200673,
       "name": "\u0e2a\u0e31\u0e1a\u0e2a\u0e19\u0e27\u0e38\u0e48\u0e19\u0e27\u0e32\u0e22 (Outside)",
       "url": "https://open.spotify.com/track/4OiVtlt4R0lxyvOUYk4FEs"
@@ -23710,7 +23804,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 199194,
       "name": "\u0e2b\u0e19\u0e49\u0e32\u0e44\u0e2b\u0e27\u0e49\u0e2b\u0e25\u0e31\u0e07\u0e2b\u0e25\u0e2d\u0e01 (Oh My Gosh)",
       "url": "https://open.spotify.com/track/71kUf6kJpLMzVwtBFwzcvs"
@@ -23963,6 +24057,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e08\u0e47\u0e1a\u0e41\u0e15\u0e48\u0e08\u0e1a",
+        "url": "https://open.spotify.com/album/7qPL2mYWen4ptag3viw5qK"
+      },
+      "artists": [
+        {
+          "name": "the ge",
+          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163179,
+      "name": "\u0e40\u0e08\u0e47\u0e1a\u0e41\u0e15\u0e48\u0e08\u0e1a",
+      "url": "https://open.spotify.com/track/5xeSLlhBkNWIVSe1qSrj7m"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e08\u0e49\u0e32\u0e0a\u0e32\u0e22\u0e02\u0e2d\u0e07\u0e41\u0e01 (My Queen)",
         "url": "https://open.spotify.com/album/1gjydKMsfFAFyCTzqevCX9"
       },
@@ -24209,6 +24321,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e04\u0e48...\u0e2b\u0e32\u0e22\u0e44\u0e1b (Gone)",
+        "url": "https://open.spotify.com/album/5wWXkW2sKD7w1bInzSyFgk"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "\u0e41\u0e04\u0e48...\u0e2b\u0e32\u0e22\u0e44\u0e1b (Gone)",
+      "url": "https://open.spotify.com/track/3rsMVOw61uhP7Ub96xsK3o"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e04\u0e48\u0e04\u0e19\u0e04\u0e38\u0e22 (Just Friends)",
         "url": "https://open.spotify.com/album/13YZD2lSOQDtPvonMaeB4E"
       },
@@ -24224,6 +24354,46 @@
       "duration_ms": 184166,
       "name": "\u0e41\u0e04\u0e48\u0e04\u0e19\u0e04\u0e38\u0e22 (Just Friends)",
       "url": "https://open.spotify.com/track/3fBaEUP9EZ4IvIeq4zA313"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/0XqqhAzaXerogBQgniTZpy"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        },
+        {
+          "name": "KT KRATAE",
+          "url": "https://open.spotify.com/artist/6hwQvarRAeFfdCuFjpJZTy"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214427,
+      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/3H1mjWpfQRIvIgP6ogYLkW"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e1f\u0e19\u0e04\u0e25\u0e31\u0e1aNo\u0e41\u0e1f\u0e19\u0e04\u0e23\u0e31\u0e1a (No Fankub) [From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19]",
+        "url": "https://open.spotify.com/album/1gnbCXptB5UR6POjPURvui"
+      },
+      "artists": [
+        {
+          "name": "PIDE",
+          "url": "https://open.spotify.com/artist/2fBOV1th6k87utX2LYuXeP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183984,
+      "name": "\u0e41\u0e1f\u0e19\u0e04\u0e25\u0e31\u0e1aNo\u0e41\u0e1f\u0e19\u0e04\u0e23\u0e31\u0e1a (No Fankub) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
+      "url": "https://open.spotify.com/track/4TQokJkD0O2wujHK2zUDGD"
     },
     {
       "album": {

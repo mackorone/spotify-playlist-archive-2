@@ -8133,6 +8133,24 @@
     },
     {
       "album": {
+        "name": "parallel lives",
+        "url": "https://open.spotify.com/album/3g6l82KOpVDZvaf5i9DC2B"
+      },
+      "artists": [
+        {
+          "name": "i.am.u.",
+          "url": "https://open.spotify.com/artist/2ikhrwYSd90KMYRIIS8Iju"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155564,
+      "name": "parallel lives",
+      "url": "https://open.spotify.com/track/5fY1Ez8DDQmeuaSulNny9N"
+    },
+    {
+      "album": {
         "name": "Paralyzed",
         "url": "https://open.spotify.com/album/2g1R9kNBhCFih34KqUN3J4"
       },

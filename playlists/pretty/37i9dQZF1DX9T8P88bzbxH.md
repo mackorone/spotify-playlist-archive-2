@@ -1,45 +1,32 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain](/playlists/plain/37i9dQZF1DX9T8P88bzbxH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DX9T8P88bzbxH)
 
-### [On Tour Singapore: Firdhaus](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
+### [On Tour Singapore: EMPAT](https://open.spotify.com/playlist/37i9dQZF1DX9T8P88bzbxH)
 
-> One night only\. Cover: Firdhaus
+> One night only\. Cover: Ernie Zakri, Syamel, Anuar Zain, Ziana Zain
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,270 likes - 33 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,276 likes - 20 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [kyoto.](https://open.spotify.com/track/1sVlmkf6AoCZEYEsyAoWLV) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [kyoto.](https://open.spotify.com/album/7FBqllBp2WIAEaK86okdNt) | 3:17 |
-| 2 | [If I Die, Please Tell My Mom I Love Her.](https://open.spotify.com/track/3XawG4yXxz9Ws7PZru7wnR) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [If I Die, Please Tell My Mom I Love Her.](https://open.spotify.com/album/7g6Hx75SY34cIVm4czHb6L) | 1:29 |
-| 3 | [Hey, I Like You A Lot](https://open.spotify.com/track/01VpOGgJFf1kNaR0Xr8pvY) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [A Letter](https://open.spotify.com/album/3EqxHwpQSBk3xtF165nHk0) | 3:43 |
-| 4 | [My 菜](https://open.spotify.com/track/0Qw6T2cOILFqqeJPgNfqEH) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [My 菜](https://open.spotify.com/album/6IGrgL1b9J2oPINL6oZri2) | 3:29 |
-| 5 | [異地戀](https://open.spotify.com/track/3BLDDDkS5CyjjpoSILN46J) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生，起起落落落落落？](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 3:02 |
-| 6 | [早點回家](https://open.spotify.com/track/33HQZb5yMqtHmmJ0kLrO3l) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生，起起落落落落落？](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 4:39 |
-| 7 | [我沒想過會這樣失去你](https://open.spotify.com/track/3f4ZXh0lePQvXk1yfdSjEb) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [我沒想過會這樣失去你](https://open.spotify.com/album/2Obx8SoJK10heR616d83GH) | 5:27 |
-| 8 | [哥哥](https://open.spotify.com/track/2p65f1l8p0m8j0Ny6tJBAe) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [A Letter.](https://open.spotify.com/album/34746CcFVXWEK2UcH47OUH) | 3:17 |
-| 9 | [你想得美](https://open.spotify.com/track/1RYbcLbJyuHKSueohqPiEi) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你想得美](https://open.spotify.com/album/3hMtMbMa4YjCkwWMKbroAV) | 3:32 |
-| 10 | [上天啊](https://open.spotify.com/track/0VhK02gTZ4LLyFmHG4qShc) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生，起起落落落落落？](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 4:25 |
-| 11 | [好好吃飯](https://open.spotify.com/track/0xkOAdcy8W1WXFpmYBc2EU) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [Jeryl Lee](https://open.spotify.com/artist/5e5VeJlSaelIR6bSLRaEjE) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 3:41 |
-| 12 | [也許是我寫給你的最後一首歌](https://open.spotify.com/track/3KIW75aUkooLJBLa6ah5y1) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 5:35 |
-| 13 | [我不是一個完美的人 \- 电影《雨城》主题曲](https://open.spotify.com/track/1W6Mk0QPqIjUhLV7GIVuzp) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 4:40 |
-| 14 | [人生，起起落落落落落？](https://open.spotify.com/track/1VqdJfu2R0jnR1VGrTpqEB) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生，起起落落落落落？](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 4:14 |
-| 15 | [你會來看我嗎？](https://open.spotify.com/track/0DxkPgLfLetPrvtMeJjNB4) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你會來看我嗎？](https://open.spotify.com/album/6byW0FebDU634pXsBmb4tC) | 3:41 |
-| 16 | [Table For Two](https://open.spotify.com/track/7LllQtUStOSoGpsfwYImT5) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生，起起落落落落落？](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 5:20 |
-| 17 | [像水一樣](https://open.spotify.com/track/2ertU0G948DJAvaASQ7LXU) | [Dato' Sri Siti Nurhaliza](https://open.spotify.com/artist/5d0bxRte3J74ZXyEGRL8uU), [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [像水一樣](https://open.spotify.com/album/06snrmDNg7ZVSuDeOUL7DG) | 3:08 |
-| 18 | [友谊长存](https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [友谊长存](https://open.spotify.com/album/0teughBYfffqo1RhvAX51S) | 5:19 |
-| 19 | [我們都是第一次做人](https://open.spotify.com/track/4hZXOzYgbNKndzLlFGrgSp) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [我們都是第一次做人](https://open.spotify.com/album/6AdEJdHLUEHKfvroD4YqDY) | 3:38 |
-| 20 | [你好，就足矣](https://open.spotify.com/track/50BsxaRhKQZUUkkS3xB2ck) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [你好，就足矣](https://open.spotify.com/album/3nrxLJqisNuN80ypx9Q8p8) | 5:36 |
-| 21 | [安](https://open.spotify.com/track/66U2Iisy3G5fXWeWXMJCvP) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [人生，起起落落落落落？](https://open.spotify.com/album/5cvhqXc6Za217p7SsOHLZW) | 2:56 |
-| 22 | [地球是平的](https://open.spotify.com/track/4YtJDKz317y9NNKFqT3yJT) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [地球是平的](https://open.spotify.com/album/5Ui8o2k4DUUs2bTG0TmQxP) | 4:48 |
-| 23 | [你可以把鼻涕擦在我衣服上](https://open.spotify.com/track/1DjqKLaUCZ1gNsISadM5rv) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 3:47 |
-| 24 | [阿拉斯加海灣](https://open.spotify.com/track/1QUkVUJiQGR0bNe7aS8Mfb) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [A Letter.](https://open.spotify.com/album/34746CcFVXWEK2UcH47OUH) | 4:06 |
-| 25 | [飛蛾撲火](https://open.spotify.com/track/0CKaY4qY9dRC6wf9jfbbrk) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 4:04 |
-| 26 | [拳王阿里](https://open.spotify.com/track/5doEgBL50h0qxf4xh2CELV) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [拳王阿里](https://open.spotify.com/album/3aXFOdQumKeELs8qyCiQGu) | 3:47 |
-| 27 | [不是只是](https://open.spotify.com/track/0QkCceNWQkd7TcwCYdwnva) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [不是只是](https://open.spotify.com/album/4OrkvAz3cPPYBw2wcUD7U2) | 3:40 |
-| 28 | [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 |
-| 29 | [能遇見，就很不錯了](https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [能遇見，就很不錯了](https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S) | 3:48 |
-| 30 | [合照](https://open.spotify.com/track/1imPxyJ2Dq03wqbIwpPGFk) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [合照](https://open.spotify.com/album/6XB3fTpQU93OCvLhMRhVqm) | 3:35 |
-| 31 | [相信自己相信自己相信自己](https://open.spotify.com/track/41pTHJgiE6RK8ptyGz2WLp) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [好好吃飯](https://open.spotify.com/album/6gMivPXWpQfmeQezBumGml) | 4:20 |
-| 32 | [差一點](https://open.spotify.com/track/1QwnRiT6r8ZZiEnoUW7S1h) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 4:15 |
-| 33 | [被喜歡真的有那麼重要嗎？](https://open.spotify.com/track/5eMmL4m4VwWYyo5mpYfGPD) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 3:03 |
+| 1 | [Sejambak Bunga](https://open.spotify.com/track/4CYGBC1ElT0ZiL0tDa4DSJ) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Sejambak Bunga](https://open.spotify.com/album/7FwDZSvNxtY5tCnzeRdTgo) | 3:18 |
+| 2 | [Cukup Sekali](https://open.spotify.com/track/0fVTCm9sDEp2vCaFHoV8fF) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx) | [PERTAMA](https://open.spotify.com/album/6oc6RoOjk8cTFlxIAw7W8f) | 3:28 |
+| 3 | [Sedetik Lebih](https://open.spotify.com/track/09DjFJGE8Va8WxQskOT4if) | [Anuar Zain](https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a) | [Hitman](https://open.spotify.com/album/05IUzRcdLnNZW6QLddOL2y) | 4:42 |
+| 4 | [Puncak Kasih](https://open.spotify.com/track/16wK7VGL5cPdIqqfd6aXa9) | [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [Pop Sensasi](https://open.spotify.com/album/3TxOhghQByi2ekOv564NS8) | 5:34 |
+| 5 | [Masing Masing](https://open.spotify.com/track/1fMBkOEghQqYr0Cu5PVZwF) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Broken Heart Club \(ID\)](https://open.spotify.com/album/0ugLFb4RwjTRrblPZ3YmAa) | 3:54 |
+| 6 | [PERTAMA](https://open.spotify.com/track/1kki5v3dswxS7kxNkES0Xj) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx) | [PERTAMA](https://open.spotify.com/album/6oc6RoOjk8cTFlxIAw7W8f) | 2:57 |
+| 7 | [Jangan Henti](https://open.spotify.com/track/0FRBjygE4ZPUb4L6uPQ3CG) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx), [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Anuar Zain](https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a), [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [Jangan Henti](https://open.spotify.com/album/521izUz80gkhGYzYoeqwIa) | 3:48 |
+| 8 | [Lelaki Ini](https://open.spotify.com/track/3uFBxv4BuP7R1AQ2eTI0FU) | [Anuar Zain](https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a) | [Lagu Gerek!](https://open.spotify.com/album/1hV11WsjjQ2SB2Emk2sUJL) | 5:11 |
+| 9 | [Kemelut Di Muara Kasih](https://open.spotify.com/track/1LJ2vYoq34pGCQvz49CbP5) | [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [Ratu \- Satu Penghargaan 1992 \- 2001](https://open.spotify.com/album/0cZGkmvn8YBoUaz3RpeJpC) | 5:06 |
+| 10 | [Jangan Hilang Percaya](https://open.spotify.com/track/1IJz6neRjsJPD0HZBJoThM) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:57 |
+| 11 | [Beribu Tanda Tanya](https://open.spotify.com/track/1AItqoSpHzdHTqCYqllHp3) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx) | [Beribu Tanda Tanya](https://open.spotify.com/album/3BsiQnt3ysHy8mKG9n16WY) | 3:49 |
+| 12 | [Ketulusan Hati](https://open.spotify.com/track/0ZB5IGGmc05zjiKg4uTlb3) | [Anuar Zain](https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a) | [ANUAR ZAIN](https://open.spotify.com/album/7nLcvRX9zuwZR1N8jI0gtt) | 4:40 |
+| 13 | [Aura](https://open.spotify.com/track/4SXdPKPbNAJyjcV5UYwsli) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Aura](https://open.spotify.com/album/05lIHO55Jda6G50N8UCKvf) | 4:07 |
+| 14 | [Menadah Gerimis](https://open.spotify.com/track/35XTi18jlfPCOtljO7xKji) | [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [Ratu \- Satu Penghargaan 1992 \- 2001](https://open.spotify.com/album/0cZGkmvn8YBoUaz3RpeJpC) | 5:20 |
+| 15 | [Aku Bukan Dia](https://open.spotify.com/track/09oPqe5xNrt3GL9filmlR9) | [Syamel](https://open.spotify.com/artist/5K7M6xiKbPlcekc5fjqbgx) | [PERTAMA](https://open.spotify.com/album/6oc6RoOjk8cTFlxIAw7W8f) | 3:41 |
+| 16 | [Perpisahan](https://open.spotify.com/track/3xvhTVfv8UTz8mex3CI4v8) | [Anuar Zain](https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a) | [Anuar Zain Tiga Dekad Muzik Cinta Dan Sanubari](https://open.spotify.com/album/2NaZl2BkPyJYxyGeSpHfny) | 5:21 |
+| 17 | [Sangkar Cinta \- Bonus Track](https://open.spotify.com/track/6bMvrR0qHZSiaVnqwJDKmn) | [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [Puncak Kasih](https://open.spotify.com/album/3qCGaGovUet8reRS0wdxXo) | 5:34 |
+| 18 | [Ku Bersuara](https://open.spotify.com/track/0C6QegNJ8Abz5qwfjZCLtu) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Ku Bersuara](https://open.spotify.com/album/6U7iMFzuqYSqzjKoth2bFF) | 3:21 |
+| 19 | [Cinta Harus Memiliki](https://open.spotify.com/track/3qS92cciUkc2vz9SmPKhna) | [Anuar Zain](https://open.spotify.com/artist/4jseSNWUg2haVIdUZS8R1a) | [Anuar Zain](https://open.spotify.com/album/4FQV9neXEDhEdYJxuc8QyN) | 5:27 |
+| 20 | [Anggapanmu/Kemelut Di Muara Kasih/Korban Cinta](https://open.spotify.com/track/2h3Xo2JKqfb1CPz8TWEJF2) | [Ziana Zain](https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682) | [No\. 1s 'live'](https://open.spotify.com/album/2C66GhldUvOUhgMSwhfamv) | 8:18 |
 
-Snapshot ID: `AAAAAJ0IpHFuPmh+zkI4ypydDBJDOw9b`
+Snapshot ID: `AAAAAF3aoLRONS5xWrULsMlOjLj5i4HT`

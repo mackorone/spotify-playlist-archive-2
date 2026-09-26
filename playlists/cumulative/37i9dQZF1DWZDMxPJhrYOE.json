@@ -227,6 +227,24 @@
     },
     {
       "album": {
+        "name": "124",
+        "url": "https://open.spotify.com/album/393ZYZG7kp51f2WPrvPKLc"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175605,
+      "name": "124",
+      "url": "https://open.spotify.com/track/5hzSuUxi6XVerUeVhKmQp5"
+    },
+    {
+      "album": {
         "name": "15 MINUTES",
         "url": "https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK"
       },
@@ -6123,6 +6141,24 @@
     },
     {
       "album": {
+        "name": "hej far",
+        "url": "https://open.spotify.com/album/016lJisgZ13xUtaBMDXkeM"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144950,
+      "name": "d\u00f8 med dig",
+      "url": "https://open.spotify.com/track/2q5nkpJMREI1QHUEOKFBJj"
+    },
+    {
+      "album": {
         "name": "D\u00f8dvande",
         "url": "https://open.spotify.com/album/0PjEG7TBeZ3o3pPEDwxFKL"
       },
@@ -10122,7 +10158,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 180363,
       "name": "Holder Igen",
       "url": "https://open.spotify.com/track/7b9fYMQh0KP7xmFLUzqrcJ"
@@ -10789,7 +10825,7 @@
     },
     {
       "album": {
-        "name": "Hver Eneste Gang (feat. KESI & MAS)",
+        "name": "Hver Eneste Gang",
         "url": "https://open.spotify.com/album/7i3y8UzOiZOXOxAwZymwiQ"
       },
       "artists": [
@@ -10810,7 +10846,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 229875,
-      "name": "Hver Eneste Gang (feat. KESI & MAS)",
+      "name": "Hver Eneste Gang",
       "url": "https://open.spotify.com/track/1p8AjTC2doJ2gau4MNbnZ8"
     },
     {
@@ -22878,24 +22914,6 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "album": {
-        "name": "hej far",
-        "url": "https://open.spotify.com/album/016lJisgZ13xUtaBMDXkeM"
-      },
-      "artists": [
-        {
-          "name": "TopGunn",
-          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/2q5nkpJMREI1QHUEOKFBJj"
     },
     {
       "album": {

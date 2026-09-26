@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to the recent hits of Christian Rock.  Cover: Stephen Stanley ",
+  "description": "Listen to the recent hits of Christian Rock.  Cover: Stryper",
   "name": "Top Christian Rock",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 253856,
       "name": "Ambush",
       "url": "https://open.spotify.com/track/6R7ZopFApl53TBoHagimq6"
@@ -2011,6 +2011,24 @@
     },
     {
       "album": {
+        "name": "Fire Goes On (Radio Edit)",
+        "url": "https://open.spotify.com/album/1i0Hfxh10BP4tLSG9yZTHn"
+      },
+      "artists": [
+        {
+          "name": "Tree63",
+          "url": "https://open.spotify.com/artist/6x5SSOrpZwjUi8zfLBOQi7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185564,
+      "name": "Fire Goes On - Radio Edit",
+      "url": "https://open.spotify.com/track/5bsmVGJSMllXNe71nqeQkN"
+    },
+    {
+      "album": {
         "name": "Firm Foundation (He Won't)",
         "url": "https://open.spotify.com/album/2xoamtc1hV7E47G2LfIZuE"
       },
@@ -2428,7 +2446,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 213651,
       "name": "Here In Your Heart",
       "url": "https://open.spotify.com/track/6aGsycZ7S2iQnHTCUo6rfo"
@@ -2598,7 +2616,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 207373,
       "name": "I Said What I Said",
       "url": "https://open.spotify.com/track/3nLxpKPAjTwohHtN7HLLoL"
@@ -2790,6 +2808,24 @@
       "duration_ms": 250086,
       "name": "It Is Finished",
       "url": "https://open.spotify.com/track/6hmTv34PvjSgSJIQRUhsnw"
+    },
+    {
+      "album": {
+        "name": "Jericho",
+        "url": "https://open.spotify.com/album/1UWdia2euIwkicsOj4QZeA"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173324,
+      "name": "Jericho",
+      "url": "https://open.spotify.com/track/3fJVGWu0D6AA6G5v02Z5fe"
     },
     {
       "album": {
@@ -3896,10 +3932,32 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 217197,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4MwDtHxtQw3IW1luonVIs0"
+    },
+    {
+      "album": {
+        "name": "I Said What I Said",
+        "url": "https://open.spotify.com/album/0ZEHk5W2UEnfHQisfGlwFj"
+      },
+      "artists": [
+        {
+          "name": "Set for the Fall",
+          "url": "https://open.spotify.com/artist/770Es4dWiuiq9sNiAdmXTr"
+        },
+        {
+          "name": "Decyfer Down",
+          "url": "https://open.spotify.com/artist/4C0vbj4LNsNUjH0Q9IFW3B"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214237,
+      "name": "Product Of Pressure (feat. Decyfer Down)",
+      "url": "https://open.spotify.com/track/28uK269ovKIXSlsmdm3Aq4"
     },
     {
       "album": {
@@ -4452,6 +4510,24 @@
       "duration_ms": 261714,
       "name": "SEVENS",
       "url": "https://open.spotify.com/track/2sglTkwKcBpufhmTX2X9YZ"
+    },
+    {
+      "album": {
+        "name": "Throne Of Thorns",
+        "url": "https://open.spotify.com/album/3DP4lSuHILSUj8aHQJ8oRo"
+      },
+      "artists": [
+        {
+          "name": "Stryper",
+          "url": "https://open.spotify.com/artist/6lE1ly8K8H7u8k2ej2plvv"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233258,
+      "name": "Shadowbreaker",
+      "url": "https://open.spotify.com/track/7Hun2KjMhGGOh6xJo25hsG"
     },
     {
       "album": {

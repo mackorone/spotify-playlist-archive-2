@@ -1,13 +1,97 @@
 {
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Mesto",
-  "num_followers": 1813611,
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Mel\u00e9",
+  "num_followers": 1813345,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOFyK61bULB6qwipOwj6e9bvxrhM",
+  "snapshot_id": "AAAAAO/Aaoe1P0yTEIOlqgDOKf4pC1KM",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:03:10",
+      "album": {
+        "name": "Alive On Arrival",
+        "url": "https://open.spotify.com/album/7ofloReOMVkpkX5PvMd6v3"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        },
+        {
+          "name": "Reek0",
+          "url": "https://open.spotify.com/artist/28gviylYNuXOlKWXYQ87uD"
+        },
+        {
+          "name": "Marla Kether",
+          "url": "https://open.spotify.com/artist/6FkMrtFxVIbhdx0y62sTCU"
+        }
+      ],
+      "duration_ms": 281769,
+      "name": "Get A Little Down",
+      "url": "https://open.spotify.com/track/5UwczBnC2HJT36jt3Bt7M5"
+    },
+    {
+      "added_at": "2026-09-18 04:01:48",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N"
+      },
+      "artists": [
+        {
+          "name": "Joseph Capriati",
+          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        {
+          "name": "GENNARO",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
+    },
+    {
+      "added_at": "2026-09-25 04:03:10",
+      "album": {
+        "name": "Noise Keeper",
+        "url": "https://open.spotify.com/album/4KaPxnYMgh00lMOikzBcjW"
+      },
+      "artists": [
+        {
+          "name": "Chlo\u00e9 Caillet",
+          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+        },
+        {
+          "name": "D Stone",
+          "url": "https://open.spotify.com/artist/54G5Bq4yKz8mwGYFsffne9"
+        }
+      ],
+      "duration_ms": 222292,
+      "name": "Noise Keeper",
+      "url": "https://open.spotify.com/track/6zdKacNxfO8UcYE02a2TcP"
+    },
+    {
+      "added_at": "2026-09-25 04:03:10",
+      "album": {
+        "name": "Gotta Be Cool (Luch Remix)",
+        "url": "https://open.spotify.com/album/0wuSilFBnY1ZHmKLM2OuDL"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "duration_ms": 182903,
+      "name": "Gotta Be Cool - Luch Remix",
+      "url": "https://open.spotify.com/track/6jtVPskUWZSDBtotyrfzzX"
+    },
     {
       "added_at": "2026-09-18 04:01:48",
       "album": {
@@ -57,40 +141,80 @@
       "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
     },
     {
-      "added_at": "2026-09-18 04:01:48",
+      "added_at": "2026-09-25 04:03:10",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N"
+        "name": "Keep Workin'",
+        "url": "https://open.spotify.com/album/4JJKocCTtLWUa2DjUHXZ0e"
       },
       "artists": [
         {
-          "name": "Joseph Capriati",
-          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
         },
         {
-          "name": "GENNARO",
-          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+          "name": "Yamagucci",
+          "url": "https://open.spotify.com/artist/6EuSg8aungYTh6vNgL1EpG"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
+      "duration_ms": 210236,
+      "name": "Keep Workin'",
+      "url": "https://open.spotify.com/track/5NJe4tTqytnpRDEZAEzZzw"
+    },
+    {
+      "added_at": "2026-09-18 04:01:48",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/6h2YCNXUNfDkHmTqVheOhE"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Astr\u00f8",
+          "url": "https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ"
+        }
+      ],
+      "duration_ms": 177098,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/6NZpSV9wwvtGLQUynf3ofk"
+    },
+    {
+      "added_at": "2026-09-25 04:03:10",
+      "album": {
+        "name": "TripoWah",
+        "url": "https://open.spotify.com/album/6o53JY5OuDMriGixegSSTZ"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Tripolism",
+          "url": "https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp"
+        }
+      ],
+      "duration_ms": 218506,
+      "name": "TripoWah",
+      "url": "https://open.spotify.com/track/7BzWIpEbBKKMBPez33o3jU"
     },
     {
       "added_at": "2026-09-11 04:01:31",
       "album": {
-        "name": "Get Up And Dance",
-        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/6tcN6c8uhrzzlqdLeyn5nt"
       },
       "artists": [
         {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
         }
       ],
-      "duration_ms": 155081,
-      "name": "Get Up And Dance",
-      "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
+      "duration_ms": 186301,
+      "name": "Broken Love",
+      "url": "https://open.spotify.com/track/7dDyrOyL1NBPE8uUi217NO"
     },
     {
       "added_at": "2026-09-04 04:00:58",
@@ -115,42 +239,6 @@
     {
       "added_at": "2026-09-11 04:01:31",
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/6tcN6c8uhrzzlqdLeyn5nt"
-      },
-      "artists": [
-        {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
-        }
-      ],
-      "duration_ms": 186301,
-      "name": "Broken Love",
-      "url": "https://open.spotify.com/track/7dDyrOyL1NBPE8uUi217NO"
-    },
-    {
-      "added_at": "2026-09-18 04:01:48",
-      "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/6h2YCNXUNfDkHmTqVheOhE"
-      },
-      "artists": [
-        {
-          "name": "Sama (US)",
-          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
-        },
-        {
-          "name": "Astr\u00f8",
-          "url": "https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ"
-        }
-      ],
-      "duration_ms": 177098,
-      "name": "Give Me A Minute",
-      "url": "https://open.spotify.com/track/6NZpSV9wwvtGLQUynf3ofk"
-    },
-    {
-      "added_at": "2026-09-11 04:01:31",
-      "album": {
         "name": "Music Don't Stop",
         "url": "https://open.spotify.com/album/4sFGrLwLDtaAYyST7IJqLu"
       },
@@ -167,6 +255,54 @@
       "duration_ms": 215500,
       "name": "Music Don't Stop",
       "url": "https://open.spotify.com/track/0KcEUsbDhld6ZFK2eYOVtG"
+    },
+    {
+      "added_at": "2026-09-25 04:03:10",
+      "album": {
+        "name": "TTW (Kaytranada Remix)",
+        "url": "https://open.spotify.com/album/1xAna72t1R4SFlsztBiGvr"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 267293,
+      "name": "TTW - Kaytranada Remix",
+      "url": "https://open.spotify.com/track/18rZ6reSIBiaJNSe8ZGOmy"
+    },
+    {
+      "added_at": "2026-09-25 04:03:10",
+      "album": {
+        "name": "Bassline",
+        "url": "https://open.spotify.com/album/3DeBBfFQkft6JQzUSY6yBl"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Jungle 70",
+          "url": "https://open.spotify.com/artist/2mKE6K8lwCwpeJisAZZbWl"
+        }
+      ],
+      "duration_ms": 142765,
+      "name": "Bassline",
+      "url": "https://open.spotify.com/track/7KLsZrIzZc4S3sy3dYiX1g"
     },
     {
       "added_at": "2026-08-28 04:01:30",
@@ -205,6 +341,38 @@
       "url": "https://open.spotify.com/track/3aKeZ75NMlUdk75F3N8mix"
     },
     {
+      "added_at": "2026-09-25 04:03:10",
+      "album": {
+        "name": "Uno Dos Tres",
+        "url": "https://open.spotify.com/album/1bqMPwpSaxLiyeWDBQvRug"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Uno Dos Tres",
+      "url": "https://open.spotify.com/track/2vdtxz7fFGfAu6Xs3i2D6m"
+    },
+    {
+      "added_at": "2026-08-28 04:01:30",
+      "album": {
+        "name": "Sun is Shining (Lovelee Dae)",
+        "url": "https://open.spotify.com/album/1mbjeF0qWky3z9Xlz4H4sC"
+      },
+      "artists": [
+        {
+          "name": "Tommy Phillips",
+          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
+        }
+      ],
+      "duration_ms": 174924,
+      "name": "Sun is Shining (Lovelee Dae)",
+      "url": "https://open.spotify.com/track/4BnF9lzg2f7kc7wxydPhby"
+    },
+    {
       "added_at": "2026-08-28 04:01:30",
       "album": {
         "name": "Level Up",
@@ -219,6 +387,42 @@
       "duration_ms": 156015,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU"
+    },
+    {
+      "added_at": "2026-09-11 04:01:31",
+      "album": {
+        "name": "Get Up And Dance",
+        "url": "https://open.spotify.com/album/3PbkeRh92HBhRCs08U9PQr"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 155081,
+      "name": "Get Up And Dance",
+      "url": "https://open.spotify.com/track/3XO43dyBY9DWKIAeFEidRC"
+    },
+    {
+      "added_at": "2026-09-25 04:03:10",
+      "album": {
+        "name": "I Got A Story From...",
+        "url": "https://open.spotify.com/album/135lRYt0qFen4ttAh03cPe"
+      },
+      "artists": [
+        {
+          "name": "Edd",
+          "url": "https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX"
+        },
+        {
+          "name": "King Wizard",
+          "url": "https://open.spotify.com/artist/7BjXmKO4yIHUP7BTi1ZGUc"
+        }
+      ],
+      "duration_ms": 191818,
+      "name": "I Got A Story From... - Club Edit",
+      "url": "https://open.spotify.com/track/28JJCpmvuGEmtKKrOEnCpo"
     },
     {
       "added_at": "2026-09-11 04:01:31",
@@ -267,22 +471,6 @@
       "duration_ms": 142500,
       "name": "High In Ibiza",
       "url": "https://open.spotify.com/track/1hiKvffSphbFpWEr2VJYJP"
-    },
-    {
-      "added_at": "2026-08-28 04:01:30",
-      "album": {
-        "name": "Sun is Shining (Lovelee Dae)",
-        "url": "https://open.spotify.com/album/1mbjeF0qWky3z9Xlz4H4sC"
-      },
-      "artists": [
-        {
-          "name": "Tommy Phillips",
-          "url": "https://open.spotify.com/artist/3Z1hS6haFjSDvQc8TORkIW"
-        }
-      ],
-      "duration_ms": 174924,
-      "name": "Sun is Shining (Lovelee Dae)",
-      "url": "https://open.spotify.com/track/4BnF9lzg2f7kc7wxydPhby"
     },
     {
       "added_at": "2026-09-04 04:00:58",
@@ -541,22 +729,6 @@
       "url": "https://open.spotify.com/track/5vBOE85x2iJsbtBmDg34Hi"
     },
     {
-      "added_at": "2026-08-07 04:01:05",
-      "album": {
-        "name": "Pure Devotion",
-        "url": "https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 195285,
-      "name": "After The Rain",
-      "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
-    },
-    {
       "added_at": "2026-09-18 04:01:48",
       "album": {
         "name": "P \u2605 K I",
@@ -705,26 +877,6 @@
       "url": "https://open.spotify.com/track/0vHfY43h0GV1lRv5wPpbJR"
     },
     {
-      "added_at": "2026-08-07 04:01:05",
-      "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/5oB1a3IpezAWEtn35xEfok"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "SACHA",
-          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
-        }
-      ],
-      "duration_ms": 157593,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91"
-    },
-    {
       "added_at": "2026-09-18 04:01:48",
       "album": {
         "name": "Baby Do You Wanna Bump",
@@ -825,26 +977,6 @@
       "url": "https://open.spotify.com/track/5BPMItTjAsSOhOlDdftmhV"
     },
     {
-      "added_at": "2026-08-07 04:01:05",
-      "album": {
-        "name": "Beat Goes On",
-        "url": "https://open.spotify.com/album/5ZBsNOxU0xOPIjpEwYLmDy"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
-        }
-      ],
-      "duration_ms": 228387,
-      "name": "Beat Goes On",
-      "url": "https://open.spotify.com/track/4WHvIDcDOcAVrsI5BxPGBM"
-    },
-    {
       "added_at": "2026-07-31 04:01:37",
       "album": {
         "name": "Careful",
@@ -923,26 +1055,6 @@
     {
       "added_at": "2026-08-07 04:01:05",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/4xYP4WbxY4JViO6OLYjCbK"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "SAYAK DAS",
-          "url": "https://open.spotify.com/artist/03AJD6Gg6ZfEus17Dhhu1A"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Bad Habit",
-      "url": "https://open.spotify.com/track/0ZL0LiEdUas8eiMlhBWMh9"
-    },
-    {
-      "added_at": "2026-08-07 04:01:05",
-      "album": {
         "name": "Fux With Us (feat. TiaCorine)",
         "url": "https://open.spotify.com/album/3hxSPaPvkCnM6qgm9ld1HR"
       },
@@ -1017,26 +1129,6 @@
       "url": "https://open.spotify.com/track/5tSKSeCq8veSh3je7x6mML"
     },
     {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
-        "name": "Impressions",
-        "url": "https://open.spotify.com/album/1KuopOe1UEMWK2XmTTvKyw"
-      },
-      "artists": [
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        },
-        {
-          "name": "Stevie Appleton",
-          "url": "https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ"
-        }
-      ],
-      "duration_ms": 176444,
-      "name": "Impressions",
-      "url": "https://open.spotify.com/track/0FxEt9WPc729I8X2hvk4vp"
-    },
-    {
       "added_at": "2026-08-14 04:00:44",
       "album": {
         "name": "Reason Why",
@@ -1091,26 +1183,6 @@
       "duration_ms": 195026,
       "name": "It's Love",
       "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
-    },
-    {
-      "added_at": "2026-07-31 04:01:37",
-      "album": {
-        "name": "soul reply",
-        "url": "https://open.spotify.com/album/6OQGzm9zhi8oztBZvQc96H"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        },
-        {
-          "name": "Riva Starr",
-          "url": "https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D"
-        }
-      ],
-      "duration_ms": 179311,
-      "name": "soul reply",
-      "url": "https://open.spotify.com/track/4Txm1bcmxUS0h7fRhnhfa8"
     },
     {
       "added_at": "2026-08-07 04:01:05",
@@ -1223,22 +1295,6 @@
       "duration_ms": 198960,
       "name": "Kick Back",
       "url": "https://open.spotify.com/track/3PLXh3XJRYXmKRsbmONqDd"
-    },
-    {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
-        "name": "Italian Job",
-        "url": "https://open.spotify.com/album/5YtEeaQfwFhZZpfxgzjiVT"
-      },
-      "artists": [
-        {
-          "name": "SOSA",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 175424,
-      "name": "Italian Job",
-      "url": "https://open.spotify.com/track/2AYebbKenqjmq5pOsn7L2o"
     },
     {
       "added_at": "2026-07-24 04:01:29",
@@ -1359,38 +1415,6 @@
       "duration_ms": 285205,
       "name": "4X4",
       "url": "https://open.spotify.com/track/4yaWWGx1sd1E6jWalOv08M"
-    },
-    {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
-        "name": "Show Me",
-        "url": "https://open.spotify.com/album/7vB2rUKQk56dRHIQ8i5CT0"
-      },
-      "artists": [
-        {
-          "name": "Jackie Hollander",
-          "url": "https://open.spotify.com/artist/5ykY9Uweo3gl5VFpb6z6pQ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Show Me",
-      "url": "https://open.spotify.com/track/4UJPTK0oVnnLP7psav3x5R"
-    },
-    {
-      "added_at": "2026-08-14 04:00:44",
-      "album": {
-        "name": "Context",
-        "url": "https://open.spotify.com/album/0BJVBckpNAfFH7qDSWnEqH"
-      },
-      "artists": [
-        {
-          "name": "DJ Jackum",
-          "url": "https://open.spotify.com/artist/0d44JahSUHqjM6UTn1y8IX"
-        }
-      ],
-      "duration_ms": 266277,
-      "name": "Floo",
-      "url": "https://open.spotify.com/track/1fgPVwPWvRDzI0yUKxFWzX"
     },
     {
       "added_at": "2026-05-29 04:01:19",

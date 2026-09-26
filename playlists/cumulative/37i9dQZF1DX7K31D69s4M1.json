@@ -333,6 +333,24 @@
     },
     {
       "album": {
+        "name": "A Line in Time",
+        "url": "https://open.spotify.com/album/6yYKilYY799y6KxeIYFnkt"
+      },
+      "artists": [
+        {
+          "name": "Eve St. Claire",
+          "url": "https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136666,
+      "name": "A Line in Time",
+      "url": "https://open.spotify.com/track/2TM93oW5oF04y7S5LEefnZ"
+    },
+    {
+      "album": {
         "name": "A Little Journey",
         "url": "https://open.spotify.com/album/5hZI8dZFuOUmWn4Jlbb3Tb"
       },
@@ -31228,6 +31246,24 @@
       "duration_ms": 180500,
       "name": "Unsere Reise",
       "url": "https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC"
+    },
+    {
+      "album": {
+        "name": "Until Dawn Comes",
+        "url": "https://open.spotify.com/album/3wiB6r43Lz2cZ9rFIX0sGD"
+      },
+      "artists": [
+        {
+          "name": "Thomas Preber",
+          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147410,
+      "name": "Until Dawn Comes",
+      "url": "https://open.spotify.com/track/7cOdAL2melf17V8iejFkTF"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Cover: RIA",
+  "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Cover: Los Terricolas, Tony Garcia",
   "name": "Sierre\u00f1o 2026",
   "tracks": [
     {
@@ -332,6 +332,24 @@
       "duration_ms": 168086,
       "name": "A Puro Dolor",
       "url": "https://open.spotify.com/track/1rXxK89X0XGpIdTB6CwiFu"
+    },
+    {
+      "album": {
+        "name": "Sin Miedo al \u00c9xito",
+        "url": "https://open.spotify.com/album/4pCi1i3uEdFU0QCL1yClnE"
+      },
+      "artists": [
+        {
+          "name": "La Ventaja",
+          "url": "https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181591,
+      "name": "A Qu\u00e9 Te Atienes",
+      "url": "https://open.spotify.com/track/4F99vhSyDHXz34aZrIUQdv"
     },
     {
       "album": {
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 181818,
       "name": "Bien Vividos",
       "url": "https://open.spotify.com/track/4U6nW9cAxjgYRdV2szOeLA"
@@ -1301,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Burbujas",
+        "url": "https://open.spotify.com/album/5s56SAesfL85fiUakHbMdV"
+      },
+      "artists": [
+        {
+          "name": "Alto Linaje",
+          "url": "https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255076,
+      "name": "Burbujas",
+      "url": "https://open.spotify.com/track/75TqtZephQuKrsUKudbaFV"
+    },
+    {
+      "album": {
         "name": "Busc\u00e1ndole A La Suerte",
         "url": "https://open.spotify.com/album/74bPnWHzQtUocCjMpK08au"
       },
@@ -1356,6 +1392,24 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "album": {
+        "name": "Cabr\u00f3n Bien Hecho",
+        "url": "https://open.spotify.com/album/3fT267K1G7jnJmakq5xUZo"
+      },
+      "artists": [
+        {
+          "name": "Lauro Pi\u00f1era",
+          "url": "https://open.spotify.com/artist/1I6KywB0YaLKHVOUcnmlS7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179280,
+      "name": "Cabr\u00f3n Bien Hecho",
+      "url": "https://open.spotify.com/track/4DWXbE4HXzIQVpF2VygoG8"
     },
     {
       "album": {
@@ -2668,6 +2722,24 @@
       "duration_ms": 138582,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/6vqxgzdGmImW9hrx2IN7VP"
+    },
+    {
+      "album": {
+        "name": "De Encargo",
+        "url": "https://open.spotify.com/album/2iAQZQbzJjpjvdTjLT4Lko"
+      },
+      "artists": [
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206874,
+      "name": "Designo King",
+      "url": "https://open.spotify.com/track/4pjpUdYr0XhEY2W94uVMmu"
     },
     {
       "album": {
@@ -6830,7 +6902,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 170232,
       "name": "Mi Deber",
       "url": "https://open.spotify.com/track/5w5VxYwS2G9uffuQjY29XN"
@@ -7550,7 +7622,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
@@ -8140,7 +8212,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 188303,
       "name": "Olvidarte No Sera Sencillo",
       "url": "https://open.spotify.com/track/33mS2YsMsq5XHMdahFzeCF"
@@ -8956,7 +9028,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 276648,
       "name": "Pu\u00f1o de Diamantes",
       "url": "https://open.spotify.com/track/3HQfiw1j3zL1jcLYWlozA9"
@@ -9745,6 +9817,24 @@
     },
     {
       "album": {
+        "name": "Ser\u00e1s M\u00eda",
+        "url": "https://open.spotify.com/album/7d6zIugMLgvrhJITjG4Xk1"
+      },
+      "artists": [
+        {
+          "name": "Novillos de la Sierra",
+          "url": "https://open.spotify.com/artist/0y9rTsbpRAIIkDMP3DsNro"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250500,
+      "name": "Ser\u00e1s M\u00eda",
+      "url": "https://open.spotify.com/track/2Sj0bIZExjrf88J32MxiuQ"
+    },
+    {
+      "album": {
         "name": "Si Dios Conmigo, Qui\u00e9n Contra M\u00ed",
         "url": "https://open.spotify.com/album/1035I3Ilwk2w85l1Ma1DXS"
       },
@@ -9868,7 +9958,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 206680,
       "name": "Si Un D\u00eda Me Extra\u00f1as",
       "url": "https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j"
@@ -10230,7 +10320,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 163979,
       "name": "SOY GRACIAS A DIOS",
       "url": "https://open.spotify.com/track/7GQfk7tJpiI63QSAOzDiNV"
@@ -10510,6 +10600,28 @@
       "duration_ms": 153153,
       "name": "TE FUI A SEGUIR",
       "url": "https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT"
+    },
+    {
+      "album": {
+        "name": "Te Juro Que Te Amo",
+        "url": "https://open.spotify.com/album/3KFjkpJeNpyGqIiT1DFbs5"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        },
+        {
+          "name": "Tony Garc\u00eda",
+          "url": "https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250578,
+      "name": "Te Juro Que Te Amo",
+      "url": "https://open.spotify.com/track/5lsuNXIWlzDaHKi0iJb1kp"
     },
     {
       "album": {
@@ -10846,7 +10958,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 208000,
       "name": "Tres Veladoras",
       "url": "https://open.spotify.com/track/4Ua4dmFPenv0xlDK8sIEQN"
@@ -11453,6 +11565,24 @@
     },
     {
       "album": {
+        "name": "Vibrando bajo",
+        "url": "https://open.spotify.com/album/4JgZOF7no0vY7JEYc45O62"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173963,
+      "name": "Vibrando bajo",
+      "url": "https://open.spotify.com/track/3uXyUBP9LLfpmHwsxSlDx9"
+    },
+    {
+      "album": {
         "name": "Vibrar +",
         "url": "https://open.spotify.com/album/5JG8dcjPqJTaunDFiyeWw6"
       },
@@ -11960,6 +12090,28 @@
       "duration_ms": 169537,
       "name": "Ya No Me Duele Tanto",
       "url": "https://open.spotify.com/track/0iNIe5802Xv0U5S7yxKNA1"
+    },
+    {
+      "album": {
+        "name": "Ya No Regreses",
+        "url": "https://open.spotify.com/album/1K2vyn9zRYRLXImeLuDe3L"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180526,
+      "name": "Ya No Regreses",
+      "url": "https://open.spotify.com/track/0epL8uV1kkMnUGlKxGT4yH"
     },
     {
       "album": {

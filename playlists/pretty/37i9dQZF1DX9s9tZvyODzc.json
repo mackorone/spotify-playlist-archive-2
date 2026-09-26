@@ -1,6 +1,6 @@
 {
   "description": "Dale play y dej\u00e1 que la m\u00fasica te lleve.",
-  "num_followers": 224862,
+  "num_followers": 224911,
   "original_name": "Ruta 2",
   "owner": {
     "name": "Spotify",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2026-09-24 22:02:32",
       "album": {
+        "name": "Hotel Miranda!",
+        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 207632,
+      "name": "Yo Te Dir\u00e9",
+      "url": "https://open.spotify.com/track/2Io2LJQRWDMfhhfqPu2KG1"
+    },
+    {
+      "added_at": "2026-09-24 22:02:32",
+      "album": {
         "name": "Cirug\u00eda (Portal Sessions)",
         "url": "https://open.spotify.com/album/4Dy7IxsvlG9rEt0lGECFDr"
       },
@@ -1247,26 +1267,6 @@
       "duration_ms": 218952,
       "name": "Cirug\u00eda (Portal Sessions)",
       "url": "https://open.spotify.com/track/5ssgbRdJTVgTLmkJ7gmPuF"
-    },
-    {
-      "added_at": "2026-09-24 22:02:32",
-      "album": {
-        "name": "Hotel Miranda!",
-        "url": "https://open.spotify.com/album/5QL33hpDp6XBWdNsc0VGUO"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 207632,
-      "name": "Yo Te Dir\u00e9",
-      "url": "https://open.spotify.com/track/2Io2LJQRWDMfhhfqPu2KG1"
     },
     {
       "added_at": "2026-09-24 22:02:32",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-09-24 22:02:32",
       "album": {
-        "name": "M\u00e9ritos Y Merecimientos",
-        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
-      },
-      "artists": [
-        {
-          "name": "Fernando Cabrera",
-          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "M\u00e9ritos Y Merecimientos",
-      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
-    },
-    {
-      "added_at": "2026-09-24 22:02:32",
-      "album": {
         "name": "Campanas en la Noche",
         "url": "https://open.spotify.com/album/28nGED6CTK0a1kcLrFhuXr"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 250241,
       "name": "Campanas en la Noche",
       "url": "https://open.spotify.com/track/3YleanwcXBJFBujoBQcfxe"
+    },
+    {
+      "added_at": "2026-09-24 22:02:32",
+      "album": {
+        "name": "M\u00e9ritos Y Merecimientos",
+        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
+      },
+      "artists": [
+        {
+          "name": "Fernando Cabrera",
+          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "M\u00e9ritos Y Merecimientos",
+      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
     },
     {
       "added_at": "2026-09-24 22:02:32",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2026-09-24 22:02:32",
       "album": {
+        "name": "Los Lobos",
+        "url": "https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP"
+      },
+      "artists": [
+        {
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        }
+      ],
+      "duration_ms": 228938,
+      "name": "Roma",
+      "url": "https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO"
+    },
+    {
+      "added_at": "2026-09-24 22:02:32",
+      "album": {
         "name": "Ramma + Cindy Cats - Spotify Sessions",
         "url": "https://open.spotify.com/album/4bzxNfa7jc2IYQStCPZpr7"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 286035,
       "name": "Bicho de Ciudad - Spotify Sessions",
       "url": "https://open.spotify.com/track/1yzL2dFew4VVhjcdbefbHL"
-    },
-    {
-      "added_at": "2026-09-24 22:02:32",
-      "album": {
-        "name": "Los Lobos",
-        "url": "https://open.spotify.com/album/6eE0K6iXOBrNTXHBahxCaP"
-      },
-      "artists": [
-        {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        }
-      ],
-      "duration_ms": 228938,
-      "name": "Roma",
-      "url": "https://open.spotify.com/track/56E8G34SfyjtNO2p7L3exO"
     },
     {
       "added_at": "2026-09-24 22:02:32",

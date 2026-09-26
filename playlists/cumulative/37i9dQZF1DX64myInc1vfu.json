@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: iLe",
+  "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: Camilo",
   "name": "boleritos",
   "tracks": [
     {
@@ -180,7 +180,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 84558,
       "name": "Aunque Me Cueste La Vida",
       "url": "https://open.spotify.com/track/4CyyyUAuUaNbR5v2nRtwMz"
@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-30",
+      "date_removed": null,
       "duration_ms": 193672,
       "name": "Cuenta Regresiva",
       "url": "https://open.spotify.com/track/1uRn5FuNtdRKsXvzprK3Nm"
@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159528,
+      "name": "For Eva",
+      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
+    },
+    {
+      "album": {
         "name": "Frio",
         "url": "https://open.spotify.com/album/1gbBR68zEJvzpArT7UhsPh"
       },
@@ -1284,6 +1302,24 @@
       "duration_ms": 186491,
       "name": "Jaque Mate",
       "url": "https://open.spotify.com/track/1e1qYSKEhN4UkIAoKRQgZ1"
+    },
+    {
+      "album": {
+        "name": "Las Canciones M\u00e1s Hermosas Son para Ti",
+        "url": "https://open.spotify.com/album/28jeqiktbF30fTzOIdSx1C"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143964,
+      "name": "Justo As\u00ed",
+      "url": "https://open.spotify.com/track/2pRtM6i9NqT8I02Tyhexpr"
     },
     {
       "album": {
@@ -1584,6 +1620,32 @@
       "duration_ms": 238253,
       "name": "Mar",
       "url": "https://open.spotify.com/track/4V2zyfggF3TXlihp7llTJm"
+    },
+    {
+      "album": {
+        "name": "Me Hac\u00edas Falta T\u00fa",
+        "url": "https://open.spotify.com/album/7aRFu5xFRFfG4FsG8dhk77"
+      },
+      "artists": [
+        {
+          "name": "Reno Rojas",
+          "url": "https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l"
+        },
+        {
+          "name": "Pablo Bail\u00f3n",
+          "url": "https://open.spotify.com/artist/0P0PTFI2AkaBoVbo7Q90LB"
+        },
+        {
+          "name": "chimi",
+          "url": "https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185571,
+      "name": "Me Hac\u00edas Falta T\u00fa",
+      "url": "https://open.spotify.com/track/61EVKj9EDHEExfH3oJUxk8"
     },
     {
       "album": {
@@ -2168,10 +2230,32 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 167313,
       "name": "Qu\u00e9 Pecado",
       "url": "https://open.spotify.com/track/0D7qH96m1YEQABHtZmvWUr"
+    },
+    {
+      "album": {
+        "name": "Saber si estoy a tiempo (feat. Mar\u00eda Jos\u00e9)",
+        "url": "https://open.spotify.com/album/6jl84sIqZDudBVQND1CrKq"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Quijano",
+          "url": "https://open.spotify.com/artist/2ECP3nWC88LaFz4oQzTo3Z"
+        },
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228123,
+      "name": "Saber si estoy a tiempo (feat. Mar\u00eda Jos\u00e9)",
+      "url": "https://open.spotify.com/track/303wZAFrAzGnfxpqtmLRsH"
     },
     {
       "album": {
@@ -2294,6 +2378,24 @@
       "duration_ms": 220300,
       "name": "Se Me Olvid\u00f3",
       "url": "https://open.spotify.com/track/7xLYLM5K6S1TwiSdfuhZQg"
+    },
+    {
+      "album": {
+        "name": "Trebol (II)",
+        "url": "https://open.spotify.com/album/6Ui70QofSR8xW4RBe91sY0"
+      },
+      "artists": [
+        {
+          "name": "Pantoja",
+          "url": "https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107771,
+      "name": "Se Me Olvid\u00f3",
+      "url": "https://open.spotify.com/track/0pLAITuQmy20vFVydGtt6O"
     },
     {
       "album": {
@@ -2606,7 +2708,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-01",
+      "date_removed": null,
       "duration_ms": 190586,
       "name": "Te Vi Partir",
       "url": "https://open.spotify.com/track/3tiiu0Znrc4UVqTE2lYAaB"
@@ -2752,7 +2854,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 188139,
       "name": "Tu Camisa",
       "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"

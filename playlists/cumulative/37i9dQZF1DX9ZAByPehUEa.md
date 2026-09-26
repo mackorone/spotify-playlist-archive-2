@@ -4,7 +4,7 @@
 
 > Welcome to DISCOLAND 🪩🕺🏽 it's a happy place
 
-831 songs - 2 day 1 hr 23 min
+832 songs - 2 day 1 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Choreography](https://open.spotify.com/track/4GUk88VIJf44BKq6LxYEON) | [Midnight Magic](https://open.spotify.com/artist/3KuNrap7xPWVJCyBHAE4le) | [Choreography](https://open.spotify.com/album/1Qd6BowTfD28RhWznEj4zU) | 4:46 | 2026-05-15 |  |
 | [Clap Your Hands](https://open.spotify.com/track/3nguT92oaDLnqUTwhMLAYr) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [Clap Your Hands](https://open.spotify.com/album/3SiGH2gzxcVurxZj9dg8Qm) | 3:35 | 2026-03-20 |  |
 | [Clap Your Hands \(Rap\-O\-Clap\-O\)](https://open.spotify.com/track/4BhWxWUfQUh7NkHcytqZYq) | [Les Bisous](https://open.spotify.com/artist/0s2WMcDT7MPu0HnoxzX3OW) | [Clap Your Hands \(Rap\-O\-Clap\-O\)](https://open.spotify.com/album/1MoCYe9db0hOLpMvRANuG1) | 3:34 | 2025-05-12 | 2025-05-17 |
-| [Close 2 You](https://open.spotify.com/track/0TcZAw5Xs5JwdqE5nRzAbQ) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Close 2 You](https://open.spotify.com/album/6Bw3whl0I4WGKjZW8b3pr3) | 3:18 | 2024-03-29 |  |
+| [Close 2 You](https://open.spotify.com/track/0TcZAw5Xs5JwdqE5nRzAbQ) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [Never Dull](https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm) | [Close 2 You](https://open.spotify.com/album/6Bw3whl0I4WGKjZW8b3pr3) | 3:18 | 2024-03-29 | 2026-09-26 |
 | [Close To You](https://open.spotify.com/track/2JsH4kKxABzVTRmAlQSl4n) | [Thando](https://open.spotify.com/artist/3mSWsKWD1sXEhsv9vb33sX), [Mat.Joe](https://open.spotify.com/artist/38jpuy3yt3QIxQ8Fn1HTeJ) | [Close To You](https://open.spotify.com/album/5clVIiHCxco71LlMMgnjRv) | 2:54 | 2025-05-12 | 2025-07-26 |
 | [Club Cotton \(Future Disco Edit\) \(Mixed\)](https://open.spotify.com/track/2bgBsPqPhORnZh2HRO5B8X) | [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [Future Disco](https://open.spotify.com/artist/6UgzJ5LzNU5W5dIxmMhQG9) | [Future Disco: Visions of Love](https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4) | 2:51 | 2022-04-06 | 2022-07-24 |
 | [Club Med Anthem](https://open.spotify.com/track/6TyFUHPAFDCX6ZqwduIk08) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [In Paradise](https://open.spotify.com/album/6TXM8VCPgZEfekCfoCKIwP) | 3:30 | 2025-08-22 | 2025-11-15 |
@@ -390,6 +390,7 @@
 | [IOU](https://open.spotify.com/track/3OEWZY77qDUspVdfYGxjDT) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [IOU](https://open.spotify.com/album/47xg1VMxlbJyAojEPpXSt6) | 4:56 | 2024-05-31 | 2024-08-24 |
 | [Is It Good](https://open.spotify.com/track/4lMrVriU09bwqOHUKLUm8M) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Is It Good](https://open.spotify.com/album/2FsF8wnOzjKBgIHdQWhhrQ) | 3:19 | 2025-05-02 | 2025-08-02 |
 | [ISSINME](https://open.spotify.com/track/6GxDJdnVIbiPtIovlaGzhv) | [Dylan C\. Greene](https://open.spotify.com/artist/5E6C1T3ALDIdlJCWL0ZPC4), [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH) | [ISSINME](https://open.spotify.com/album/2WzH2wkkyc31zY7GIMKxD4) | 4:12 | 2025-05-30 |  |
+| [It's Coming](https://open.spotify.com/track/7HXCqd8Y0fJZhEFRw3lWyX) | [Crush Club](https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [It's Coming](https://open.spotify.com/album/7ARiGOUuv9uWuz1wR8Q40X) | 3:45 | 2026-09-25 |  |
 | [It's Fine](https://open.spotify.com/track/0xk0zUoVMMjcUDPC11Jr3H) | [Ejeca](https://open.spotify.com/artist/0tSC9Vot7WlR1MsLBqQ9HX) | [French Touch Mixtape 002](https://open.spotify.com/album/4ciBijVg4t41PtFJbT1NCi) | 2:38 | 2022-06-09 | 2022-08-06 |
 | [It's Love](https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Cavi](https://open.spotify.com/artist/0l3pVeXR1Tq4r2jL0PjdKK) | [It's Love](https://open.spotify.com/album/7Iqs2ofmykMvzi6Y3SjMzX) | 3:15 | 2026-09-04 |  |
 | [ITALODISCO \- English Version](https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ITALODISCO \(English Version\)](https://open.spotify.com/album/43pxODk9GVXEEnXfzzNLRu) | 3:19 | 2023-10-02 | 2024-05-18 |

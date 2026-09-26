@@ -4,7 +4,7 @@
 
 > Lo que suena en la noche.
 
-229 songs - 13 hr 54 min
+230 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [NADIE TE ENSEÑA A ROMPER UN CORAZÓN](https://open.spotify.com/track/2RWE3pGY5zBhnnLfbwbGXr) | [Lua Lacruz](https://open.spotify.com/artist/6UwX82C61vmictoQeSRozK) | [NADIE TE ENSEÑA A ROMPER UN CORAZÓN](https://open.spotify.com/album/2pD1ueOLFTiNutvjvymJx1) | 2:48 | 2026-07-30 | 2026-08-11 |
 | [NAVI](https://open.spotify.com/track/0ax5zJXD0Vq0XpeiIc8rJc) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NAVI](https://open.spotify.com/album/7GFmnERl0J8pNu0IMQ2Fwi) | 2:15 | 2024-03-01 | 2024-10-16 |
 | [NETFLIX AND CHILL](https://open.spotify.com/track/7i0jnaHh4ZLQmtux4qTxXV) | [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [NETFLIX AND CHILL](https://open.spotify.com/album/7F1YcZQm1HvLwPFNEpdRpR) | 3:40 | 2026-01-19 |  |
+| [Ni Una Palabra](https://open.spotify.com/track/3isKDTI8P62gvEhPKPn92d) | [A.D Music](https://open.spotify.com/artist/2B3YUG5F1Huk92Hdml7y4p), [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Ni Una Palabra](https://open.spotify.com/album/3cgmoKaXUAYb4Q7FA9rsMa) | 3:30 | 2026-09-25 |  |
 | [No Hay Nadie Más](https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:19 | 2021-11-12 | 2026-04-25 |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2022-11-25 | 2024-04-19 |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 5:09 | 2021-11-12 | 2022-12-09 |

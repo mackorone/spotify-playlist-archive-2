@@ -1,6 +1,6 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39269,
+  "num_followers": 39276,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,42 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
+        "name": "Halgi Original Mix 2021",
+        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
+      },
+      "artists": [
+        {
+          "name": "Dj Sagar Barshi",
+          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
+        }
+      ],
+      "duration_ms": 253283,
+      "name": "Halgi Original Mix 2021",
+      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
+        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "PATYA THE DOC",
+          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
+        }
+      ],
+      "duration_ms": 154137,
+      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
+      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
+    },
+    {
+      "added_at": "2026-09-24 07:16:44",
+      "album": {
         "name": "Majhi Baay Go",
         "url": "https://open.spotify.com/album/1uzFocZ3RIryCFbCzNiXVD"
       },
@@ -563,38 +599,22 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
-        "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-        "url": "https://open.spotify.com/album/24KadeH1xYQHcrxaiFsY8n"
+        "name": "Pushpa - The Rise",
+        "url": "https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ"
       },
       "artists": [
         {
-          "name": "Kratex",
-          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
         },
         {
-          "name": "PATYA THE DOC",
-          "url": "https://open.spotify.com/artist/67bgYV3B0briff1AeDe5O0"
+          "name": "Raagini Kavathekar",
+          "url": "https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV"
         }
       ],
-      "duration_ms": 154137,
-      "name": "Zapuk Zupuk (From \"Zapuk Zupuk\")",
-      "url": "https://open.spotify.com/track/5tR33Cc72be8P3iDW38TMC"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Halgi Original Mix 2021",
-        "url": "https://open.spotify.com/album/0e5VIf0iCEAXwMSrCq1sCO"
-      },
-      "artists": [
-        {
-          "name": "Dj Sagar Barshi",
-          "url": "https://open.spotify.com/artist/2xxMr85ClJANTBZzwqQrz6"
-        }
-      ],
-      "duration_ms": 253283,
-      "name": "Halgi Original Mix 2021",
-      "url": "https://open.spotify.com/track/65MsTGfDr0E3OyVYXqtugi"
+      "duration_ms": 198490,
+      "name": "Srivalli Marathi Version",
+      "url": "https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA"
     },
     {
       "added_at": "2026-09-24 07:16:44",
@@ -623,26 +643,6 @@
       "duration_ms": 249622,
       "name": "Kajwa",
       "url": "https://open.spotify.com/track/7yW1U21NXBawQB8fdlE0vx"
-    },
-    {
-      "added_at": "2026-09-24 07:16:44",
-      "album": {
-        "name": "Pushpa - The Rise",
-        "url": "https://open.spotify.com/album/7KjTtIqgrorJnFCbG5PxhQ"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Raagini Kavathekar",
-          "url": "https://open.spotify.com/artist/2a9YrIjX4ApduWiuIO4ijV"
-        }
-      ],
-      "duration_ms": 198490,
-      "name": "Srivalli Marathi Version",
-      "url": "https://open.spotify.com/track/23qDbPM8PDK5K5wJjvu8rA"
     },
     {
       "added_at": "2026-09-24 07:16:44",
@@ -771,26 +771,26 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
-        "name": "O Sheth (DJ Remix)",
-        "url": "https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK"
+        "name": "Girlz",
+        "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
       },
       "artists": [
         {
-          "name": "Praniket Khune",
-          "url": "https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ"
+          "name": "Vaishali Samant",
+          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
         },
         {
-          "name": "Sandhya Keshe",
-          "url": "https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak"
+          "name": "Kavita Raam",
+          "url": "https://open.spotify.com/artist/6yXmsGNyvtpXM6g8yupcrS"
         },
         {
-          "name": "Umesh Gawali",
-          "url": "https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR"
+          "name": "Mugdha Karhade",
+          "url": "https://open.spotify.com/artist/7zW0Crf8iaoyrTFoMFIq7b"
         }
       ],
-      "duration_ms": 184733,
-      "name": "O Sheth (DJ Remix)",
-      "url": "https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl"
+      "duration_ms": 216166,
+      "name": "Aaichya Gavat",
+      "url": "https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0"
     },
     {
       "added_at": "2026-09-24 07:16:44",
@@ -827,26 +827,26 @@
     {
       "added_at": "2026-09-24 07:16:44",
       "album": {
-        "name": "Girlz",
-        "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
+        "name": "O Sheth (DJ Remix)",
+        "url": "https://open.spotify.com/album/4LOVpn0sKbfIT6BUyjZqKK"
       },
       "artists": [
         {
-          "name": "Vaishali Samant",
-          "url": "https://open.spotify.com/artist/2zGP2SUtwsDhdyYzf0kKp8"
+          "name": "Praniket Khune",
+          "url": "https://open.spotify.com/artist/1dL65B06v62VbbrnJklKUJ"
         },
         {
-          "name": "Kavita Raam",
-          "url": "https://open.spotify.com/artist/6yXmsGNyvtpXM6g8yupcrS"
+          "name": "Sandhya Keshe",
+          "url": "https://open.spotify.com/artist/2cQU4jBHWE17V2BLq6Y7Ak"
         },
         {
-          "name": "Mugdha Karhade",
-          "url": "https://open.spotify.com/artist/7zW0Crf8iaoyrTFoMFIq7b"
+          "name": "Umesh Gawali",
+          "url": "https://open.spotify.com/artist/00PJ0oZlC5InNHCDRYaubR"
         }
       ],
-      "duration_ms": 216166,
-      "name": "Aaichya Gavat",
-      "url": "https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0"
+      "duration_ms": 184733,
+      "name": "O Sheth (DJ Remix)",
+      "url": "https://open.spotify.com/track/5B3IsGRHozEAeRnyGs5XEl"
     },
     {
       "added_at": "2026-09-24 07:16:44",

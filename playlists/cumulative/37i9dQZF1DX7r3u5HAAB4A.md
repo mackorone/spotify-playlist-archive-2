@@ -2,9 +2,9 @@
 
 ### [Fever](https://open.spotify.com/playlist/37i9dQZF1DX7r3u5HAAB4A)
 
-> A melting pot of Caribbean culture\. Cover: Malie Donn
+> A melting pot of Caribbean culture\. Cover: Shenseea
 
-383 songs - 18 hr 47 min
+384 songs - 18 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Unstoppable](https://open.spotify.com/track/2sGiwsp8kDpa0XHrokyv1e) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [First Week Out](https://open.spotify.com/album/2OeHKYJwIswaxKT4cGBIgp) | 3:24 | 2024-08-29 |  |
 | [V.I.P.](https://open.spotify.com/track/3JS8amcXIpq51ZEpfziQOb) | [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [V.I.P.](https://open.spotify.com/album/1yBU6Ro4hKtAoLxrRuVu1j) | 2:08 | 2025-04-18 | 2025-05-17 |
 | [Vibrations](https://open.spotify.com/track/6fRMK1sDPkbCpETqLnaiBI) | [Imeru Tafari](https://open.spotify.com/artist/1YxQyYfXtg9pMJStr0hvxT), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [The Essential](https://open.spotify.com/album/1SNwkb5nYGoI3pVzV3GFnv) | 4:45 | 2024-10-25 | 2025-01-17 |
+| [Vulnerability](https://open.spotify.com/track/3GIr72dSNm9hns57QSSHYJ) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Vulnerability](https://open.spotify.com/album/7BvxInjj9cKDqs4IRn3TBj) | 3:13 | 2026-09-25 |  |
 | [W \(feat\. Gunna\)](https://open.spotify.com/track/6xW2g0c5uSoa3S6xk9eI4j) | [Original Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [W \(feat\. Gunna\)](https://open.spotify.com/album/4CGh0wfCdEh3xZVHx8uJK5) | 3:50 | 2025-03-28 |  |
 | [Wait 4 Me](https://open.spotify.com/track/0CpanQr35GbjeuwH69aUfK) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH) | [Wait 4 Me](https://open.spotify.com/album/1Vm86lGZIrhMwuMjPuH62V) | 1:51 | 2024-12-26 | 2025-02-01 |
 | [Waste Har Time](https://open.spotify.com/track/5VNpSFUUsMHRjt8iVVxupx) | [Aidonia](https://open.spotify.com/artist/5mYWkDD4b1eM4ZjFq5axxs) | [Waste Har Time](https://open.spotify.com/album/5M5lWvEgCrfiobNnlN7EzV) | 2:53 | 2025-02-28 | 2025-03-15 |

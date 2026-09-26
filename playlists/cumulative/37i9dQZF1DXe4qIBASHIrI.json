@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 277172,
       "name": "Panadero",
       "url": "https://open.spotify.com/track/35GRNFIl3ANE1slInNSRKm"
@@ -2466,6 +2466,24 @@
       "duration_ms": 229225,
       "name": "Si No Vas a Ser T\u00fa",
       "url": "https://open.spotify.com/track/2vLFK4t0KQwNVQvnjGuMb8"
+    },
+    {
+      "album": {
+        "name": "Happy-fi Compilaci\u00f3n Vol. 3",
+        "url": "https://open.spotify.com/album/0D0rsW8bntexaz1gOO57Es"
+      },
+      "artists": [
+        {
+          "name": "Ni\u00f1a",
+          "url": "https://open.spotify.com/artist/7grWtzrni1t8epe3gL6syg"
+        }
+      ],
+      "date_added": "2023-09-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190266,
+      "name": "Sistema Perfecto",
+      "url": "https://open.spotify.com/track/4LCS8q4YQ9zF4Ykk3gVQWV"
     },
     {
       "album": {

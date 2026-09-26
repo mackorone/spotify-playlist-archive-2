@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: Musa
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,359 likes - 95 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,442 likes - 95 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

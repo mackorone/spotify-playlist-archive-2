@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX942d1NzGgzk.md) - [plain]
 
 > The latest of R&B rising in the UK\. Cover: Nippa
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,064 likes - 69 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,090 likes - 69 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bittersweet](https://open.spotify.com/track/2FK12BFadDMlelVr4Fn7Xi) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Homegrown](https://open.spotify.com/album/7lIRsoyw9VevsE9fEQOcBJ) | 2:57 |
 | 2 | [WONDERMAN](https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [WONDERMAN](https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9) | 4:04 |
-| 3 | [Track 2](https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Undeniable](https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8) | 0:00 |
+| 3 | [Hot Topic](https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Undeniable](https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8) | 3:02 |
 | 4 | [+facecard](https://open.spotify.com/track/4EM2IFIMFbV2WlPcD10Eq9) | [plusamari](https://open.spotify.com/artist/7aBsay1LwiX89GuowSd15N) | [colour + chaos](https://open.spotify.com/album/5f7rjbPfC6TSbqGHY2re8i) | 2:46 |
 | 5 | [Dare You/N2S](https://open.spotify.com/track/1lGlrfpVqRoSRhHaq9V3sn) | [Javán](https://open.spotify.com/artist/5Q3s71M9YsjdQNa0NTkzkE) | [Dare You/N2S](https://open.spotify.com/album/5RaZ81hlhuq2Pa0R6kOxV6) | 2:29 |
 | 6 | [LUV MYSELF](https://open.spotify.com/track/3BNljvFH5CaT9T0gcq94qa) | [DAMEDAME\*](https://open.spotify.com/artist/3X6c2uu6yXYP4XnprvDg11) | [DREAMS ON THE PASSENGER SEAT](https://open.spotify.com/album/7KfrXVxJfWwJfYXwNy6puK) | 2:28 |

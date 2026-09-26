@@ -1,12 +1,12 @@
 {
   "description": "This is David Allan Coe. The essential tracks, all in one playlist.",
-  "num_followers": 29099,
+  "num_followers": 29109,
   "original_name": "This Is David Allan Coe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arMWgAAAAADlieAqGCjW9CIdbbjesjMb",
+  "snapshot_id": "arRoAAAAAACY+yudm3pfDpU3FHjPjz+Z",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unchained",
-        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 158293,
-      "name": "I'm Gonna Hurt Her On the Radio",
-      "url": "https://open.spotify.com/track/4QnQ1INIWEeDgz140kPqz1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Darlin', Darlin'",
         "url": "https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B"
       },
@@ -299,6 +283,38 @@
       "duration_ms": 168080,
       "name": "Don't Cry Darlin' (Recitation by George Jones)",
       "url": "https://open.spotify.com/track/5sTNElZHQWHWkz3WuIX3XA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unchained",
+        "url": "https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 158293,
+      "name": "I'm Gonna Hurt Her On the Radio",
+      "url": "https://open.spotify.com/track/4QnQ1INIWEeDgz140kPqz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Just Divorced",
+        "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 139733,
+      "name": "It's Great to Be Single Again",
+      "url": "https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S"
     },
     {
       "added_at": null,
@@ -360,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
         }
       ],
-      "duration_ms": 139733,
-      "name": "It's Great to Be Single Again",
-      "url": "https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S"
+      "duration_ms": 147973,
+      "name": "Blue Grass Morning",
+      "url": "https://open.spotify.com/track/0DswKH36OANJJuRNlDXMLl"
     },
     {
       "added_at": null,
@@ -411,22 +427,6 @@
       "duration_ms": 152906,
       "name": "Mississippi River Queen",
       "url": "https://open.spotify.com/track/5fHhVrVYg4TloeZoVf6wJX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Just Divorced",
-        "url": "https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Blue Grass Morning",
-      "url": "https://open.spotify.com/track/0DswKH36OANJJuRNlDXMLl"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Castles in the Sand",
-        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
-      },
-      "artists": [
-        {
-          "name": "David Allan Coe",
-          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Once Upon a Rhyme",
         "url": "https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 182026,
       "name": "Sweet Vibrations (Some Folks Call It Love)",
       "url": "https://open.spotify.com/track/41wFXSrdWefbvAlbKI55N6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Castles in the Sand",
+        "url": "https://open.spotify.com/album/4ThqzeQR2AiwZiqSUQHSib"
+      },
+      "artists": [
+        {
+          "name": "David Allan Coe",
+          "url": "https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6"
+        }
+      ],
+      "duration_ms": 162293,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/5c0bsFoyO1rvsoCnxHCYJx"
     },
     {
       "added_at": null,

@@ -1,29 +1,13 @@
 {
   "description": "it's finally folk weather \ud83c\udf42",
-  "num_followers": 150699,
+  "num_followers": 150887,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP38KMEy12VLlzrXbI1c8l3hSAHU",
+  "snapshot_id": "AAAAAGeJxNskUkG/4l+3bD3MjDMF4N0c",
   "tracks": [
-    {
-      "added_at": "2026-09-22 04:00:41",
-      "album": {
-        "name": "Razor Love - Spotify Singles",
-        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
-      },
-      "artists": [
-        {
-          "name": "Folk Bitch Trio",
-          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
-        }
-      ],
-      "duration_ms": 364329,
-      "name": "Razor Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
-    },
     {
       "added_at": "2026-09-22 04:00:41",
       "album": {
@@ -41,6 +25,166 @@
       "url": "https://open.spotify.com/track/3UAB5IGVkLgBHxn5vzEn2w"
     },
     {
+      "added_at": "2026-09-25 04:02:34",
+      "album": {
+        "name": "San Francisco, 2005",
+        "url": "https://open.spotify.com/album/4xgaE609AqfGfez8IXiyiy"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 247364,
+      "name": "San Francisco, 2005",
+      "url": "https://open.spotify.com/track/5Ev1zhaO6hi5eCLGYE0WKT"
+    },
+    {
+      "added_at": "2026-09-25 04:02:34",
+      "album": {
+        "name": "If I Had The Hand Of God",
+        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 161816,
+      "name": "If I Had The Hand Of God",
+      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+    },
+    {
+      "added_at": "2026-09-22 12:26:44",
+      "album": {
+        "name": "I see them, I see me",
+        "url": "https://open.spotify.com/album/2dIevXo4isEeTr9fmU9eZd"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 193293,
+      "name": "When You Look at Me",
+      "url": "https://open.spotify.com/track/4vzmREv8I7PDPC95mK8t6V"
+    },
+    {
+      "added_at": "2026-09-25 04:02:34",
+      "album": {
+        "name": "Knots",
+        "url": "https://open.spotify.com/album/0yWiOlhHvZK3Hlwufafknq"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "duration_ms": 217738,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5nuQm6FfSRHl5AFXAG63G0"
+    },
+    {
+      "added_at": "2026-09-22 04:00:41",
+      "album": {
+        "name": "Razor Love - Spotify Singles",
+        "url": "https://open.spotify.com/album/0000G6yFp7EdStmeLsx5js"
+      },
+      "artists": [
+        {
+          "name": "Folk Bitch Trio",
+          "url": "https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r"
+        }
+      ],
+      "duration_ms": 364329,
+      "name": "Razor Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/5Rxt8qv4DGDbypKLHSDI5i"
+    },
+    {
+      "added_at": "2026-09-22 12:26:44",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 229264,
+      "name": "Anybody's fool",
+      "url": "https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ"
+    },
+    {
+      "added_at": "2026-09-25 04:02:34",
+      "album": {
+        "name": "Comedy Show",
+        "url": "https://open.spotify.com/album/1fSqtjQVfqPTgxHHwWLEQl"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Comedy Show",
+      "url": "https://open.spotify.com/track/48LltIDW6feAer3te5Wp7v"
+    },
+    {
+      "added_at": "2026-09-25 04:02:34",
+      "album": {
+        "name": "love, make me a believer",
+        "url": "https://open.spotify.com/album/0nsv9YMNJ67EDNCdLllioz"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "duration_ms": 166276,
+      "name": "love, make me a believer",
+      "url": "https://open.spotify.com/track/0zU5b6zRZZk4l8FVimCtcu"
+    },
+    {
+      "added_at": "2026-09-25 04:02:34",
+      "album": {
+        "name": "carmen",
+        "url": "https://open.spotify.com/album/2rDLKXeDmit2yZHIZwrlrd"
+      },
+      "artists": [
+        {
+          "name": "isobel",
+          "url": "https://open.spotify.com/artist/2qWWux0rPt1TL9UsygIpCA"
+        }
+      ],
+      "duration_ms": 298871,
+      "name": "carmen",
+      "url": "https://open.spotify.com/track/214zCHrOStQLhWdoCLBBTY"
+    },
+    {
+      "added_at": "2026-09-25 04:02:34",
+      "album": {
+        "name": "Crystal Teeth World Tour",
+        "url": "https://open.spotify.com/album/4CaJxFgJFazfa5ULRz9r6G"
+      },
+      "artists": [
+        {
+          "name": "Cicada",
+          "url": "https://open.spotify.com/artist/1Vt0r4emAfug3oHrH4GIvD"
+        }
+      ],
+      "duration_ms": 125500,
+      "name": "Let You Know",
+      "url": "https://open.spotify.com/track/102MWefF5h8IGe5OgJiqx8"
+    },
+    {
       "added_at": "2026-09-22 04:00:41",
       "album": {
         "name": "Martha Sways (Spotify Singles)",
@@ -55,6 +199,58 @@
       "duration_ms": 296192,
       "name": "Martha Sways - Spotify Singles",
       "url": "https://open.spotify.com/track/0o96BRVCx7wR4NtUHsvbCN"
+    },
+    {
+      "added_at": "2026-09-04 04:01:35",
+      "album": {
+        "name": "True Feeling",
+        "url": "https://open.spotify.com/album/2ucFfCPEF42yMlLzEwnF8w"
+      },
+      "artists": [
+        {
+          "name": "Hans Williams",
+          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
+        }
+      ],
+      "duration_ms": 265912,
+      "name": "True Feeling",
+      "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
+    },
+    {
+      "added_at": "2026-09-18 14:01:21",
+      "album": {
+        "name": "say it",
+        "url": "https://open.spotify.com/album/5Ing5q75Z5e4uqQNC0yh4Z"
+      },
+      "artists": [
+        {
+          "name": "Frankie Venter",
+          "url": "https://open.spotify.com/artist/4OpEtCxKCkuq7XqJ18zVYn"
+        }
+      ],
+      "duration_ms": 197846,
+      "name": "say it",
+      "url": "https://open.spotify.com/track/31gyMsBSLitwetPKlcntZv"
+    },
+    {
+      "added_at": "2026-09-04 04:01:35",
+      "album": {
+        "name": "The Whale",
+        "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
+      },
+      "artists": [
+        {
+          "name": "Grumpy",
+          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
+        },
+        {
+          "name": "D.A. Crimson",
+          "url": "https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW"
+        }
+      ],
+      "duration_ms": 205563,
+      "name": "The Whale",
+      "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
     },
     {
       "added_at": "2026-09-22 12:16:45",
@@ -75,22 +271,6 @@
     {
       "added_at": "2026-09-22 12:26:44",
       "album": {
-        "name": "I see them, I see me",
-        "url": "https://open.spotify.com/album/2dIevXo4isEeTr9fmU9eZd"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 193293,
-      "name": "When You Look at Me",
-      "url": "https://open.spotify.com/track/4vzmREv8I7PDPC95mK8t6V"
-    },
-    {
-      "added_at": "2026-09-22 12:26:44",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
       },
@@ -105,20 +285,20 @@
       "url": "https://open.spotify.com/track/5eyA1FEEE0pMazqeAA3AYD"
     },
     {
-      "added_at": "2026-09-18 14:01:21",
+      "added_at": "2026-09-25 04:02:34",
       "album": {
-        "name": "say it",
-        "url": "https://open.spotify.com/album/5Ing5q75Z5e4uqQNC0yh4Z"
+        "name": "My First Time",
+        "url": "https://open.spotify.com/album/7CjKtY2iqbhFHpfE993MxP"
       },
       "artists": [
         {
-          "name": "Frankie Venter",
-          "url": "https://open.spotify.com/artist/4OpEtCxKCkuq7XqJ18zVYn"
+          "name": "Sydney Rose",
+          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
         }
       ],
-      "duration_ms": 197846,
-      "name": "say it",
-      "url": "https://open.spotify.com/track/31gyMsBSLitwetPKlcntZv"
+      "duration_ms": 222191,
+      "name": "My First Time",
+      "url": "https://open.spotify.com/track/41eSXYnHiAkD7PKCprJDsa"
     },
     {
       "added_at": "2026-09-18 04:01:46",
@@ -169,22 +349,6 @@
       "url": "https://open.spotify.com/track/5RZomQGckBcXSH8lsKBhqD"
     },
     {
-      "added_at": "2026-09-04 04:01:35",
-      "album": {
-        "name": "True Feeling",
-        "url": "https://open.spotify.com/album/2ucFfCPEF42yMlLzEwnF8w"
-      },
-      "artists": [
-        {
-          "name": "Hans Williams",
-          "url": "https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj"
-        }
-      ],
-      "duration_ms": 265912,
-      "name": "True Feeling",
-      "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
-    },
-    {
       "added_at": "2026-09-18 04:01:46",
       "album": {
         "name": "modern age",
@@ -217,26 +381,6 @@
       "url": "https://open.spotify.com/track/2ZrWP6HDMdUhtTxMNgCaM9"
     },
     {
-      "added_at": "2026-09-04 04:01:35",
-      "album": {
-        "name": "The Whale",
-        "url": "https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z"
-      },
-      "artists": [
-        {
-          "name": "Grumpy",
-          "url": "https://open.spotify.com/artist/480FcWBc0dlEZc52noh462"
-        },
-        {
-          "name": "D.A. Crimson",
-          "url": "https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW"
-        }
-      ],
-      "duration_ms": 205563,
-      "name": "The Whale",
-      "url": "https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd"
-    },
-    {
       "added_at": "2026-09-11 04:01:01",
       "album": {
         "name": "Keep You",
@@ -251,22 +395,6 @@
       "duration_ms": 152963,
       "name": "Keep You",
       "url": "https://open.spotify.com/track/2yfUnaOSiO4ffdlglZhHzw"
-    },
-    {
-      "added_at": "2026-09-22 12:26:44",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 229264,
-      "name": "Anybody's fool",
-      "url": "https://open.spotify.com/track/3rzwGm27A4GmgYKFUPJijZ"
     },
     {
       "added_at": "2026-08-28 04:01:49",
@@ -1279,6 +1407,22 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 213147,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
+    },
+    {
+      "added_at": "2026-06-19 04:01:40",
+      "album": {
         "name": "Cinderella",
         "url": "https://open.spotify.com/album/7xc8qjSipCIqZoBfHuj7X4"
       },
@@ -1947,22 +2091,6 @@
     {
       "added_at": "2026-06-19 04:01:40",
       "album": {
-        "name": "Pale Blue Eyes",
-        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 213147,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
         "name": "Finish Line",
         "url": "https://open.spotify.com/album/69yBujeTPGK2rC2qFcdS9X"
       },
@@ -1991,186 +2119,6 @@
       "duration_ms": 313653,
       "name": "All Them Horses",
       "url": "https://open.spotify.com/track/4y3VBhJPEztyRmNxfK3tZ5"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Nested in Tangles (Deluxe)",
-        "url": "https://open.spotify.com/album/0v3bid5eeWmchf4wCNcxVE"
-      },
-      "artists": [
-        {
-          "name": "Hannah Frances",
-          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
-        },
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Beholden to the Birds Murmuring Above",
-      "url": "https://open.spotify.com/track/4rJDJnOFLms2b4oFquIBFg"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Siri, Cancel My Plans",
-        "url": "https://open.spotify.com/album/4rSCTsEKef4LHsPP7UE9UT"
-      },
-      "artists": [
-        {
-          "name": "Jack Van Cleaf",
-          "url": "https://open.spotify.com/artist/7nW46aJfNHxK9Y3M5Dhadk"
-        }
-      ],
-      "duration_ms": 183813,
-      "name": "Siri, Cancel My Plans",
-      "url": "https://open.spotify.com/track/3nHAw1ypqCG5wS51ipil5i"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "exposure therapy",
-        "url": "https://open.spotify.com/album/18TFbtYFWjkpYwj4mmU0N3"
-      },
-      "artists": [
-        {
-          "name": "Khatumu",
-          "url": "https://open.spotify.com/artist/4UKSvoK7sV3294V39V0pfu"
-        }
-      ],
-      "duration_ms": 161593,
-      "name": "tennis practice",
-      "url": "https://open.spotify.com/track/7BlOrylka32xGgGTpqAOdW"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "When You Turn Around",
-        "url": "https://open.spotify.com/album/6JL74yOq6MXK9oRRM6c4X8"
-      },
-      "artists": [
-        {
-          "name": "Leonie Biney",
-          "url": "https://open.spotify.com/artist/4fG5iQ1bDCtgOmhbVNWilq"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Full Circle",
-      "url": "https://open.spotify.com/track/3vDjuLWIztKBycG5gxHibt"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "pink moon",
-        "url": "https://open.spotify.com/album/6obyaef6k16jbYn4EFhCuE"
-      },
-      "artists": [
-        {
-          "name": "runo plum",
-          "url": "https://open.spotify.com/artist/0pouttXEXIHvguV90fhB39"
-        }
-      ],
-      "duration_ms": 201146,
-      "name": "pink moon",
-      "url": "https://open.spotify.com/track/7ps6k8CDGZBh9201nz6UK7"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Right In Front Of Me",
-        "url": "https://open.spotify.com/album/1YMx0etA4qtlVLXSkQvJvg"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "Right In Front Of Me",
-      "url": "https://open.spotify.com/track/3rJXRshWRO9pITVPuQCroz"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Evening Star",
-        "url": "https://open.spotify.com/album/197taNYjpikHAPjkOWctWk"
-      },
-      "artists": [
-        {
-          "name": "Emma Harner",
-          "url": "https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ"
-        }
-      ],
-      "duration_ms": 182440,
-      "name": "Woman of the Hour",
-      "url": "https://open.spotify.com/track/7dueFJQSm2gjWZ8etx024G"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "S'mores",
-        "url": "https://open.spotify.com/album/4Fm5WcOWVEsjazq2cioq9n"
-      },
-      "artists": [
-        {
-          "name": "Isaac Stalling",
-          "url": "https://open.spotify.com/artist/3qfuw2kKPpDgkwvD0AJPsZ"
-        }
-      ],
-      "duration_ms": 154737,
-      "name": "S'mores",
-      "url": "https://open.spotify.com/track/4rhno1gIW5Is6gnCUj69tR"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Wendy Eisenberg",
-        "url": "https://open.spotify.com/album/461pbwQf3k7oOQ43DZjzf5"
-      },
-      "artists": [
-        {
-          "name": "Wendy Eisenberg",
-          "url": "https://open.spotify.com/artist/7HrVZurdKyYpQamwyD1gBi"
-        }
-      ],
-      "duration_ms": 223155,
-      "name": "Will You Dare",
-      "url": "https://open.spotify.com/track/0qI9b53TUwd5tnT0eoIeqm"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Icarus",
-        "url": "https://open.spotify.com/album/0QVm1Cpmact9iTmfPlo2Rn"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 265278,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/2N6WsYhRzq4bzeYPRpOpNN"
-    },
-    {
-      "added_at": "2026-06-19 04:01:40",
-      "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/6HoUyHZhEVpo1S6iKQTVXV"
-      },
-      "artists": [
-        {
-          "name": "villagerrr",
-          "url": "https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5"
-        }
-      ],
-      "duration_ms": 261533,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/5rvooe7Tm8rebvBmdJTvgn"
     }
   ],
   "unique_name": "juniper",

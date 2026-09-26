@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 27.
 
-354 songs - 19 hr 26 min
+355 songs - 19 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Better](https://open.spotify.com/track/5zaDzuxKea73orX9RodvRU) | [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Better](https://open.spotify.com/album/55RZv5u9hsPT7QMwioGIvY) | 2:34 | 2022-09-22 | 2025-09-16 |
 | [Better Days](https://open.spotify.com/track/4ncYt6zcpeT7TdKy5XQ8Mu) | [KILIMANJARO](https://open.spotify.com/artist/4QGD0m9AGZixhuPAzaBeD7), [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Better Days](https://open.spotify.com/album/77rQVGYB6ZuwjAKo6Q2Qbh) | 3:00 | 2025-09-15 | 2026-09-11 |
 | [Big Talk](https://open.spotify.com/track/39W9pHDCfUcw3zJSYb3HNJ) | [SOFY](https://open.spotify.com/artist/34TRRbxNJYpDV7VJ7kBzQd) | [Big Talk](https://open.spotify.com/album/2Rt12p1ywQyDf0czEb1nPK) | 3:17 | 2022-09-22 | 2025-09-16 |
+| [Blink Twice](https://open.spotify.com/track/5A8YVeEtelHwCxWodW6KrP) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Blink Twice](https://open.spotify.com/album/0bNqctvjXrsdGVdZ0hWnPe) | 3:20 | 2026-09-25 |  |
 | [BLOOM](https://open.spotify.com/track/2UjL9PumdAIde8LDN9iwJD) | [Smallx](https://open.spotify.com/artist/4PgPJfNYhFaHAV5C5dFhYS), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [NAFIDA](https://open.spotify.com/album/2y09iaCtieD2Aj1lsEpKvs) | 2:41 | 2026-09-10 |  |
 | [BOMBAY](https://open.spotify.com/track/76kL83yLBUnoDl8nqObsci) | [KMB](https://open.spotify.com/artist/5uvPG968kxvq3M0ZyxZglc) | [BOMBAY](https://open.spotify.com/album/7mBETUvrMuUHXLHU9qWUeH) | 2:15 | 2025-09-15 | 2026-09-11 |
 | [BOP](https://open.spotify.com/track/55B7h4UVKWsKG5prz7xRr3) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr), [Jolie P](https://open.spotify.com/artist/7LoympcZMyx1ySTpekLmzB) | [BOP](https://open.spotify.com/album/6w1Dq46a5GjDEcVCmgnYrv) | 4:15 | 2026-09-10 |  |
@@ -53,7 +54,7 @@
 | [Bricks in the Wall](https://open.spotify.com/track/6v3QTxRbJ3azhBhsNsrpPy) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Worlds End FM](https://open.spotify.com/album/14FhzR5HOUxorgSJ55Dr1E) | 3:27 | 2022-09-22 | 2024-04-19 |
 | [Bricks in the Wall](https://open.spotify.com/track/3pWb38JvPPqIvIZYewEaDn) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Bricks in the Wall](https://open.spotify.com/album/3VfeTjPyKjBr1s4gyeu0w4) | 3:27 | 2022-09-22 | 2023-06-12 |
 | [Bricks in the Wall](https://open.spotify.com/track/79OIgwVIAyRyONl4r5JDD9) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Bricks in the Wall](https://open.spotify.com/album/7htEwl4XfIWCnAE9ENgZqU) | 3:27 | 2022-09-22 | 2025-09-16 |
-| [Business](https://open.spotify.com/track/79rLyEwJTHSH6UUqDw3QiC) | [cheapcuts](https://open.spotify.com/artist/2el2xI4E9IqiwhRJr2OJqu), [Franksy](https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi) | [Business](https://open.spotify.com/album/00CFYLl3xb3kdC2BgjkMoB) | 2:42 | 2026-09-10 |  |
+| [Business](https://open.spotify.com/track/79rLyEwJTHSH6UUqDw3QiC) | [cheapcuts](https://open.spotify.com/artist/2el2xI4E9IqiwhRJr2OJqu), [Franksy](https://open.spotify.com/artist/2OGxLXrhZnYt8X8qL1i1fi) | [Business](https://open.spotify.com/album/00CFYLl3xb3kdC2BgjkMoB) | 2:42 | 2026-09-10 | 2026-09-26 |
 | [Calla \- Montoya Remix](https://open.spotify.com/track/1juH9h43VicSB5pDv6NNMV) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV), [Montoya](https://open.spotify.com/artist/52pEvBJxxzBacaaxVOSyxa) | [Venus & Blue \- RMX](https://open.spotify.com/album/12C8BSEBff8Ksh0GNlyrL6) | 3:53 | 2026-09-10 |  |
 | [Camaleón](https://open.spotify.com/track/6Z9ygFFq7MEzVDbpKiZoRV) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [CAMALEÓN](https://open.spotify.com/album/4eHDzz9l9ZhECvt9VRSfoc) | 3:17 | 2025-09-15 | 2026-09-11 |
 | [Can't Feel It](https://open.spotify.com/track/4moWJefMHCuUPCpwKAqI7A) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Crystalpunk](https://open.spotify.com/album/7r3eIQLhtzJmQObC4GuUac) | 3:37 | 2026-09-10 |  |

@@ -2957,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "Ich muss dir noch was sagen",
+        "url": "https://open.spotify.com/album/09MetCSISjGGdKhi7RTlt0"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137037,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/5kgirqD4Vp21Svujvqp4BO"
+    },
+    {
+      "album": {
         "name": "Drau\u00dfen Sein",
         "url": "https://open.spotify.com/album/4qGBfmf8VWrGkg8nakobb6"
       },
@@ -12003,24 +12021,6 @@
     },
     {
       "album": {
-        "name": "Ich muss dir noch was sagen",
-        "url": "https://open.spotify.com/album/09MetCSISjGGdKhi7RTlt0"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/5kgirqD4Vp21Svujvqp4BO"
-    },
-    {
-      "album": {
         "name": "Traumfrau",
         "url": "https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9"
       },
@@ -12115,7 +12115,7 @@
     },
     {
       "album": {
-        "name": "Tutti Vibe",
+        "name": "TUTTI VIBE",
         "url": "https://open.spotify.com/album/0lrJuNlMGSVoVeNiLyFUQi"
       },
       "artists": [
@@ -12128,7 +12128,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 169202,
-      "name": "Tutti Vibe",
+      "name": "TUTTI VIBE",
       "url": "https://open.spotify.com/track/3cuQKi6tnyfECDBUY1F0lN"
     },
     {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "Torna pi\u00f9 tardi per tutte le novit\u00e0 della settimana \ud83d\udc40",
+  "description": "Nuovi brani di Taylor Swift, Sfera Ebbasta, Ozuna,  Madonna con Charli xcx, Gino Paoli con Paolo Fresu, SETTEMBRE e tanti altri.",
   "name": "New Music Friday Italia",
   "tracks": [
     {
@@ -1483,7 +1483,7 @@
         },
         {
           "name": "Yago",
-          "url": "https://open.spotify.com/artist/4cRzFzudJww12jwK1ynise"
+          "url": "https://open.spotify.com/artist/0V5KSQBTEZ9aMI0rzoLfRI"
         }
       ],
       "date_added": "2026-09-24",
@@ -137623,6 +137623,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "LOS ANGELITOS",
         "url": "https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5"
       },
@@ -187435,6 +187453,32 @@
     },
     {
       "album": {
+        "name": "TOP OF THE POPS (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/68kUOOPBwN7IP9KeoVCMdA"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Dibla",
+          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "TOP OF THE POPS (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/5OAQg4LJJ2kFWsNdkOeKO2"
+    },
+    {
+      "album": {
         "name": "Torcida",
         "url": "https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V"
       },
@@ -201018,6 +201062,24 @@
       "duration_ms": 182278,
       "name": "WARCRY",
       "url": "https://open.spotify.com/track/7GVpcXnj4dq0ozhiPKwWPm"
+    },
+    {
+      "album": {
+        "name": "Warhorse",
+        "url": "https://open.spotify.com/album/1e8cp3UgVJORQmHWHjvRiq"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Warhorse",
+      "url": "https://open.spotify.com/track/6QtdNJhSCP7XgTDJL2BlJ7"
     },
     {
       "album": {

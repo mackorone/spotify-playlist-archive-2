@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "F\u00fcr Oskar (Piano Solo Version)",
+        "url": "https://open.spotify.com/album/7909mLKgZz76bvx7QQW8wL"
+      },
+      "artists": [
+        {
+          "name": "Justus R\u00fcmenapp",
+          "url": "https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180189,
+      "name": "F\u00fcr Oskar - Piano Solo Version",
+      "url": "https://open.spotify.com/track/6RigzeETljPKCsDaiK6CNd"
+    },
+    {
+      "album": {
         "name": "Go South",
         "url": "https://open.spotify.com/album/1RypPSrMTRaAXvO3u8BurB"
       },
@@ -1724,6 +1742,24 @@
       "duration_ms": 156189,
       "name": "Skyline Sonnet",
       "url": "https://open.spotify.com/track/5IqPPFogK8Quw9iKgnvqxl"
+    },
+    {
+      "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/5r41qddgDDLeCvr4U1ZbAI"
+      },
+      "artists": [
+        {
+          "name": "Carl Kaleo",
+          "url": "https://open.spotify.com/artist/4mcRi26s1KUkHVFcD3opEY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134500,
+      "name": "So Far So Good",
+      "url": "https://open.spotify.com/track/6LBvFPt07P39OXkD3bMmiR"
     },
     {
       "album": {

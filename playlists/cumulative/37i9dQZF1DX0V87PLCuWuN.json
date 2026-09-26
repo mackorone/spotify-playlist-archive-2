@@ -331,6 +331,32 @@
     },
     {
       "album": {
+        "name": "Berghain",
+        "url": "https://open.spotify.com/album/6X6Wv6LIV5fMj06ETjBS3o"
+      },
+      "artists": [
+        {
+          "name": "Louis Philippson",
+          "url": "https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH"
+        },
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181997,
+      "name": "Berghain",
+      "url": "https://open.spotify.com/track/7MJojRySGD3IsOJSB41Jv6"
+    },
+    {
+      "album": {
         "name": "Bizet: Carmen, Act I: Habanera. L'amour est un oiseau rebelle",
         "url": "https://open.spotify.com/album/3r7k6jCaUIJrwkgEIcBk1g"
       },
@@ -522,6 +548,32 @@
       "duration_ms": 340200,
       "name": "Delibes: Lakm\u00e9, Act 1: Duo des fleurs. \"Viens, Mallika\" (Lakm\u00e9, Mallika)",
       "url": "https://open.spotify.com/track/2QRL3aEqAyKCc88yfoEq3g"
+    },
+    {
+      "album": {
+        "name": "Deuxi\u00e8me Chance",
+        "url": "https://open.spotify.com/album/0ymomQz35l2OIyMmVTDcGR"
+      },
+      "artists": [
+        {
+          "name": "Esther Abrami",
+          "url": "https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng"
+        },
+        {
+          "name": "The City of Prague Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu"
+        },
+        {
+          "name": "Irene Delgado-Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/5KKt9lmn8yY9NX2jiSecr9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260465,
+      "name": "Deuxi\u00e8me Chance",
+      "url": "https://open.spotify.com/track/0cxSoyOh1KPKERPiqzETT3"
     },
     {
       "album": {
@@ -1096,6 +1148,32 @@
       "duration_ms": 213666,
       "name": "La traviata, Act I: Prelude",
       "url": "https://open.spotify.com/track/11Xb4g57kDYwbjKVljcyTN"
+    },
+    {
+      "album": {
+        "name": "Manuel de Falla",
+        "url": "https://open.spotify.com/album/1mbL1kJdbwU9NVyd7qgGMs"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "Domingo Hindoyan",
+          "url": "https://open.spotify.com/artist/2feNtcJ1uaxCQFDqv4zajg"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220066,
+      "name": "La vida breve: Act II: Danza (espagnola) No. 1",
+      "url": "https://open.spotify.com/track/21lLF0RCRzK7hvBi940LLC"
     },
     {
       "album": {
@@ -1815,6 +1893,28 @@
     },
     {
       "album": {
+        "name": "Mendelssohn: String Quartet No. 6 in F Minor, Op. 80: I. Allegro vivace assai \u2013 Presto (Musical Moments)",
+        "url": "https://open.spotify.com/album/0hVWayj9NHtzx8DJnkjNAB"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Aris Quartett",
+          "url": "https://open.spotify.com/artist/2jXDyFnh8GckAh2ODk1vqh"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436506,
+      "name": "String Quartet No. 6 in F Minor, Op. 80: I. Allegro vivace assai \u2013 Presto - Musical Moments",
+      "url": "https://open.spotify.com/track/3Z2gFtzNZAOWj5KgoE5h5K"
+    },
+    {
+      "album": {
         "name": "Shostakovich: The String Quartets",
         "url": "https://open.spotify.com/album/2KKcrsTpvh66b2NdWkHLp4"
       },
@@ -2172,6 +2272,32 @@
       "duration_ms": 403000,
       "name": "Symphony No. 8 in C Minor, Op. 65: III. Allegro non troppo",
       "url": "https://open.spotify.com/track/2ZHdRW4FI8FCCSssQel8bT"
+    },
+    {
+      "album": {
+        "name": "Beethoven: Symphony No.9",
+        "url": "https://open.spotify.com/album/3PFXzb8ySwZMDjyD25c6Bt"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Herbert von Karajan",
+          "url": "https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 626000,
+      "name": "Symphony No. 9 in D Minor, Op. 125 \"Choral\": II. Scherzo. Molto vivace \u2013 Presto",
+      "url": "https://open.spotify.com/track/2gK0pgL5CwCxOvP0Ks9gGz"
     },
     {
       "album": {

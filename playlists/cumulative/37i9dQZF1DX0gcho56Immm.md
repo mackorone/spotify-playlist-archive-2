@@ -2,9 +2,9 @@
 
 ### [Cph+](https://open.spotify.com/playlist/37i9dQZF1DX0gcho56Immm)
 
-> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Yvonnes
+> explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Yangze
 
-334 songs - 19 hr 18 min
+338 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [dog\-tired](https://open.spotify.com/track/4ckNiDVC9gYumzgg9qZTQH) | [Camille Keller](https://open.spotify.com/artist/3cSFP8ZUJeHzJaPdHtdl0F) | [Lack of G\-LIP](https://open.spotify.com/album/2jn64i9HNuamZQtSlLyjR4) | 2:21 | 2025-04-24 |  |
 | [Don't Let This Feeling](https://open.spotify.com/track/33040QumosMtuIENd4dG4D) | [Vanessa Amara](https://open.spotify.com/artist/4SA1HXklaVW0YDH7RjxKS9) | [Don't Let This Feeling](https://open.spotify.com/album/6A60dXBiLWris444qgDKaa) | 2:52 | 2025-03-13 | 2025-09-13 |
 | [Doom Bikini](https://open.spotify.com/track/740QhlNMaY3mERdoQ7B5M5) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Doom Bikini](https://open.spotify.com/album/3YNUpHeTZEwmQMtmJy5fDm) | 4:56 | 2025-07-25 |  |
+| [Dreamer \- Tony Seltzer Remix](https://open.spotify.com/track/3k9A76umhCCk1HWTnwSL96) | [Sassy 009](https://open.spotify.com/artist/30gJ2CPCeUvghTg6TkfA4L), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Dreamer \(Tony Seltzer Remix\)](https://open.spotify.com/album/0ygHduIqchsm9KTH2uPFc2) | 2:02 | 2026-09-25 |  |
 | [Dreams](https://open.spotify.com/track/4cgha4ghzfm6lLanSfdtHp) | [lene 3000](https://open.spotify.com/artist/2xljJPV7fZOIWj7x4ko22G) | [Dreams](https://open.spotify.com/album/4I4IpTNnfFUyh7HCpRt7FS) | 2:55 | 2026-05-29 |  |
 | [Dreamy Ride](https://open.spotify.com/track/0ReJIOFDYCHbC1yY2CXLzk) | [Farao](https://open.spotify.com/artist/6XIX2G6ZGiVQgMr6SSTMFu) | [Voice Continues](https://open.spotify.com/album/0nVyeUjJU9pv0DyuHKMXNp) | 3:57 | 2025-09-26 |  |
 | [driving \(so many emotions\)](https://open.spotify.com/track/7yEb7bJZ6HEVPXaBUU5jDD) | [Zoumer](https://open.spotify.com/artist/2gvZEOoUMIzYFrXeqMaALB) | [e.a.l\. \(euro arab lovergirl\)](https://open.spotify.com/album/4XUlpIcXlnqe5xkscLOwEJ) | 3:02 | 2026-03-12 |  |
@@ -216,6 +217,7 @@
 | [Numb](https://open.spotify.com/track/3R3gSrDHRnAu0ZMxXPaqd4) | [Melodi Ghazal](https://open.spotify.com/artist/6f05TSa46XPA6UoITTjqwm) | [Numb](https://open.spotify.com/album/4hUxwuyEjww2DH1RrdIqlK) | 2:53 | 2026-01-23 |  |
 | [nursed](https://open.spotify.com/track/0eHAj1orKqxcYybWXMB8ue) | [Sindy](https://open.spotify.com/artist/3YUBKpd4lRd09FvF8jrLRa) | [lure](https://open.spotify.com/album/4EM9lezjSIAyCMNd6v0oRg) | 3:00 | 2026-05-08 |  |
 | [Ocean Apart](https://open.spotify.com/track/6rWPWP8A3c78e1UBXY0QSO) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 3:11 | 2025-06-26 |  |
+| [Okay](https://open.spotify.com/track/0q2Ku7OAuNGNUOEK5rUjs5) | [Yangze](https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt) | [Okay](https://open.spotify.com/album/1pb4KZOOnq4TC82aeDbJtT) | 2:52 | 2026-09-25 |  |
 | [On God](https://open.spotify.com/track/0kBXdPTfwoxlmNJkDExPrZ) | [james K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Friend](https://open.spotify.com/album/5clpTIKRLA4BTRVwrtacPp) | 5:27 | 2025-09-05 |  |
 | [Open Air Backseat](https://open.spotify.com/track/1fJu2Da9yY5wdCWH8gHS4E) | [haloplus+](https://open.spotify.com/artist/224oiUpyCYmxo3WJQW3EPB) | [Open Air Backseat](https://open.spotify.com/album/32QRugnY3lGwqLvBRCgtuQ) | 3:06 | 2025-07-25 | 2026-03-07 |
 | [Orbit With You](https://open.spotify.com/track/5xztDcEC4sgXximb2D4a7g) | [FRUM](https://open.spotify.com/artist/5bLn7G1fMLphqWKHVsf36r) | [Whirlpool](https://open.spotify.com/album/7H4WKgNSU90vCS3Jp4sidl) | 2:59 | 2025-05-22 | 2026-03-07 |
@@ -234,6 +236,7 @@
 | [Postinternetfame](https://open.spotify.com/track/1EiHTft00amQg7z5TX2lLh) | [Quiet Light](https://open.spotify.com/artist/6Uy2IwBjxdF0MxQVIN18n9) | [Postinternetfame / Self Tape](https://open.spotify.com/album/34pUJjYymPU7jioThphtiR) | 2:21 | 2026-03-26 | 2026-04-24 |
 | [Projections \- Colle Remix](https://open.spotify.com/track/1DmvR4odW4niugUweTiw8q) | [Maria Somerville](https://open.spotify.com/artist/5JjgffJf4s4KF29xdEaAQd), [Colle](https://open.spotify.com/artist/1Ntmc8ccjS54sdx3ZVqqPI) | [Projections \(Colle Remix\)](https://open.spotify.com/album/2aDOh93pOT8VkThc8UGn07) | 4:29 | 2025-11-14 | 2026-03-20 |
 | [Proof Shes Picked Her Poison](https://open.spotify.com/track/4Lz7BSQtqLFX1witSjvOJ0) | [True Blue](https://open.spotify.com/artist/43c8bw6Z0PmKc7zJoMnfdW) | [Fountain Edits](https://open.spotify.com/album/47YCO51avOV38XM0KmmEKg) | 4:51 | 2026-08-07 |  |
+| [Puddle](https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Puddle](https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X) | 1:57 | 2026-09-25 |  |
 | [Push & Pull](https://open.spotify.com/track/5GQ6CEB6IXh4fUj8FTpRWi) | [A Good Year](https://open.spotify.com/artist/30F8R1qAerw8VvYtRGGg0j), [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [Push & Pull](https://open.spotify.com/album/5PoFJ3cIu2DeUPTHE3UAkZ) | 3:19 | 2025-11-07 | 2026-04-24 |
 | [Qw4nt0hmW3b](https://open.spotify.com/track/33hWWAHK22EVzZ7Lyry51z) | [Discovery Zone](https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt), [E/T](https://open.spotify.com/artist/546bJduW9d8xAi9Wc3nWC9) | [Supernatural](https://open.spotify.com/album/17n8tO0Sm5ahYvvVqONHBr) | 6:51 | 2025-07-11 | 2026-03-07 |
 | [Rare](https://open.spotify.com/track/0mMlGjmEiT1og3pzGseIO9) | [Maria BC](https://open.spotify.com/artist/1GRdVyqsikMsJrvHskjwry) | [Marathon](https://open.spotify.com/album/6DygEWTpUZOaQWSugKs4mk) | 3:20 | 2026-03-06 |  |
@@ -328,6 +331,7 @@
 | [Whatyoufeellike](https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt) | [miaw](https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8) | [Whatyoufeellike](https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM) | 2:46 | 2026-09-11 |  |
 | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/track/14J9XLdZtxyzJrmwfjPaw0) | [shinyhunt](https://open.spotify.com/artist/6HzmHkcqEfZjqzsd5rGG63) | [when my eyes lose you, you occupy my thoughts](https://open.spotify.com/album/6SCbG0gZUM6jkNxkEQD6qe) | 3:27 | 2025-11-07 |  |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-03-13 | 2026-01-17 |
+| [Will You Allow It?](https://open.spotify.com/track/5Lis2P67FYe0zwlSpXSImw) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [Will You Allow It?](https://open.spotify.com/album/25GK6pL8jzhzzwVWzuo4e2) | 2:58 | 2026-09-25 |  |
 | [Woman Lake](https://open.spotify.com/track/6qSt1UvGaxHUzzV244HpmO) | [snuggle](https://open.spotify.com/artist/3hD5jCWM1Kzj6BqhnwICTa) | [Woman Lake](https://open.spotify.com/album/5FTfV5xtWhRbcQ3K1H97Q6) | 2:44 | 2025-04-17 | 2026-03-07 |
 | [X.U.Y.](https://open.spotify.com/track/7D1UX739Xu5b9ZbjqodwWT) | [Moin](https://open.spotify.com/artist/3HKbW1X4Aj2RZU6ruh3a0e) | [See / X.U.Y.](https://open.spotify.com/album/5LDnunPgPjbR973c1NStVV) | 3:48 | 2025-04-17 |  |
 | [Yamaha Dreaming](https://open.spotify.com/track/2mZb0hEM8VUEHICuwUfZls) | [Fade Evare](https://open.spotify.com/artist/38ZwzFFaxyRIXA2r4PQXu4) | [Keep Talking / Yamaha Dreaming](https://open.spotify.com/album/6uuxoe0aGuCAXaNWlr2rVO) | 3:23 | 2025-07-11 | 2025-11-08 |

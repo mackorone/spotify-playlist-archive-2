@@ -1,28 +1,68 @@
 {
-  "description": "this new Boy Harsher album is delightful \ud83c\udfa5 metropolis is your home for the best indie dance",
-  "num_followers": 867805,
+  "description": "these boys from Mexico are extra funky \ud83c\uddf2\ud83c\uddfd metropolis is your home for the best indie dance",
+  "num_followers": 867773,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOsc6MLHEK6uX9Vz9NtpHXfcpMfr",
+  "snapshot_id": "AAAAAPJ+eu527XG9l6U0doz1X3MmiryE",
   "tracks": [
     {
-      "added_at": "2026-09-18 04:02:55",
+      "added_at": "2026-09-25 04:02:12",
       "album": {
-        "name": "GET MEAN",
-        "url": "https://open.spotify.com/album/7MSjDOtClAwAVMK2CUw9uz"
+        "name": "Norway",
+        "url": "https://open.spotify.com/album/367htatgPzE9MuBKhFZyZ3"
       },
       "artists": [
         {
-          "name": "Boy Harsher",
-          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+          "name": "Midnight Generation",
+          "url": "https://open.spotify.com/artist/4CKIGHCZRzNoiNDSaW5eaq"
         }
       ],
-      "duration_ms": 199253,
-      "name": "Faulty",
-      "url": "https://open.spotify.com/track/1oLrfOvf2TaMR23qu8QThR"
+      "duration_ms": 238013,
+      "name": "Norway",
+      "url": "https://open.spotify.com/track/7Im3WV5PgWf9BxARvEhkPz"
+    },
+    {
+      "added_at": "2026-08-21 04:02:03",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/46WJDp3GxPodjmInHhsSAG"
+      },
+      "artists": [
+        {
+          "name": "Bluprint",
+          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+        }
+      ],
+      "duration_ms": 202500,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
+    },
+    {
+      "added_at": "2026-09-25 04:02:12",
+      "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/5OCJBzbEAE30YLojP5Pgo9"
+      },
+      "artists": [
+        {
+          "name": "Jam City",
+          "url": "https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3"
+        },
+        {
+          "name": "S\u00f8lv",
+          "url": "https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe"
+        },
+        {
+          "name": "Aidan",
+          "url": "https://open.spotify.com/artist/6C8vPirDpnA5E9PUfn4RaW"
+        }
+      ],
+      "duration_ms": 259548,
+      "name": "Pure Vice",
+      "url": "https://open.spotify.com/track/2NF2GJ8rSAbirBnzBiF2ri"
     },
     {
       "added_at": "2026-07-24 04:02:32",
@@ -41,6 +81,78 @@
       "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "Nosebleeds",
+        "url": "https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH"
+      },
+      "artists": [
+        {
+          "name": "Yes Boone",
+          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
+        }
+      ],
+      "duration_ms": 192855,
+      "name": "Nosebleeds",
+      "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
+    },
+    {
+      "added_at": "2026-09-25 04:02:12",
+      "album": {
+        "name": "Loser (Fcukers Remix)",
+        "url": "https://open.spotify.com/album/73YOpL9H4qK72bJdakOzyl"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        },
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "duration_ms": 267616,
+      "name": "Loser (Fcukers Remix)",
+      "url": "https://open.spotify.com/track/5Xr20lO3fb2gLtDOKyF0G5"
+    },
+    {
+      "added_at": "2026-09-18 04:02:55",
+      "album": {
+        "name": "GET MEAN",
+        "url": "https://open.spotify.com/album/7MSjDOtClAwAVMK2CUw9uz"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Faulty",
+      "url": "https://open.spotify.com/track/1oLrfOvf2TaMR23qu8QThR"
+    },
+    {
+      "added_at": "2026-09-25 04:02:12",
+      "album": {
+        "name": "Heavenly Sea",
+        "url": "https://open.spotify.com/album/7e4HuwUijm4aFa721ixfBU"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "EVA",
+          "url": "https://open.spotify.com/artist/0v6LuGKJtBASsQuJVSf0K0"
+        }
+      ],
+      "duration_ms": 193378,
+      "name": "Heavenly Sea",
+      "url": "https://open.spotify.com/track/2Dypv6hOMF9aooaL4Vg47V"
+    },
+    {
       "added_at": "2026-09-18 04:02:55",
       "album": {
         "name": "JOY (Shit You Make Me Feel)",
@@ -57,20 +169,20 @@
       "url": "https://open.spotify.com/track/5IHS5zIm7YG641JTXbwyJY"
     },
     {
-      "added_at": "2026-08-21 04:02:03",
+      "added_at": "2026-09-25 04:02:12",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/46WJDp3GxPodjmInHhsSAG"
+        "name": "Feel At Home",
+        "url": "https://open.spotify.com/album/6r4EIWWuvehofN8G6BCpFG"
       },
       "artists": [
         {
-          "name": "Bluprint",
-          "url": "https://open.spotify.com/artist/4wCBSh6bVNDGxOfnem1F5Z"
+          "name": "ISHA",
+          "url": "https://open.spotify.com/artist/55hWeru6WpyvzFME9pokm5"
         }
       ],
-      "duration_ms": 202500,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/6piQHctdZsdfpTBinuBalt"
+      "duration_ms": 145822,
+      "name": "Feel At Home",
+      "url": "https://open.spotify.com/track/4RZHzZtfExcjFAqgFtwwrZ"
     },
     {
       "added_at": "2026-09-04 04:26:07",
@@ -93,48 +205,24 @@
       "url": "https://open.spotify.com/track/21FIfzHFdjn8oZKUVvCqwf"
     },
     {
-      "added_at": "2026-09-11 04:02:15",
+      "added_at": "2026-09-25 04:02:12",
       "album": {
-        "name": "moln (Finally Version)",
-        "url": "https://open.spotify.com/album/5xYq7IoC1I1o3cJ4oTQ6Zh"
+        "name": "Stay Now",
+        "url": "https://open.spotify.com/album/0EZ6dMa4OWDZdrcm5MLesY"
       },
       "artists": [
         {
-          "name": "Catz 'n Dogz",
-          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         },
         {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
         }
       ],
-      "duration_ms": 232727,
-      "name": "moln - Finally Version",
-      "url": "https://open.spotify.com/track/0wnQPvxjJPkluqxweVO5F3"
-    },
-    {
-      "added_at": "2026-09-04 04:26:07",
-      "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/3595NnBUCIliBl17nLoPYT"
-      },
-      "artists": [
-        {
-          "name": "Leyo",
-          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
-        },
-        {
-          "name": "Thierry Ganz",
-          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/4cluYSm11ohFV5WPkU7Feq"
+      "duration_ms": 208484,
+      "name": "Stay Now",
+      "url": "https://open.spotify.com/track/0JG0XzJeONILCRHgKDJX1s"
     },
     {
       "added_at": "2026-08-21 04:02:03",
@@ -151,6 +239,26 @@
       "duration_ms": 169846,
       "name": "catch me if you can",
       "url": "https://open.spotify.com/track/4tloBnrmsdF3lDDCMRQbJA"
+    },
+    {
+      "added_at": "2026-08-07 04:01:55",
+      "album": {
+        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
+      },
+      "artists": [
+        {
+          "name": "The Avalanches",
+          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+        },
+        {
+          "name": "Portraits Of Tracy",
+          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+        }
+      ],
+      "duration_ms": 169613,
+      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
+      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
     },
     {
       "added_at": "2026-09-22 18:18:16",
@@ -205,22 +313,6 @@
       "url": "https://open.spotify.com/track/4DB3WKwPy7POy94JYZ5Jrs"
     },
     {
-      "added_at": "2026-09-11 04:02:15",
-      "album": {
-        "name": "Nosebleeds",
-        "url": "https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH"
-      },
-      "artists": [
-        {
-          "name": "Yes Boone",
-          "url": "https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5"
-        }
-      ],
-      "duration_ms": 192855,
-      "name": "Nosebleeds",
-      "url": "https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp"
-    },
-    {
       "added_at": "2026-08-14 04:02:00",
       "album": {
         "name": "Jersey (feat. Jam City)",
@@ -241,24 +333,24 @@
       "url": "https://open.spotify.com/track/2edXxLt3xK8NR8uJ5yIxmk"
     },
     {
-      "added_at": "2026-08-07 04:01:55",
+      "added_at": "2026-09-25 04:02:12",
       "album": {
-        "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
-        "url": "https://open.spotify.com/album/077lZ5kUWMRaFAkXdvwWW0"
+        "name": "I can send you to space (Will Saul Remix)",
+        "url": "https://open.spotify.com/album/0GSvV6rrMY1XMKqehFNh1f"
       },
       "artists": [
         {
-          "name": "The Avalanches",
-          "url": "https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED"
+          "name": "Bambounou",
+          "url": "https://open.spotify.com/artist/48P6su5lHrVCZtJVXMjJnX"
         },
         {
-          "name": "Portraits Of Tracy",
-          "url": "https://open.spotify.com/artist/34QizBjxVeMcA5HlZpKxxE"
+          "name": "Will Saul",
+          "url": "https://open.spotify.com/artist/3qtVupTIjHwH8BLBZXog53"
         }
       ],
-      "duration_ms": 169613,
-      "name": "Can't Get Over Losing You (feat. Portraits Of Tracy)",
-      "url": "https://open.spotify.com/track/2LfIvkV7kBvqo3tx1H9sqw"
+      "duration_ms": 464858,
+      "name": "I can send you to space - Will Saul Remix",
+      "url": "https://open.spotify.com/track/0soGbdnO5XCXzvMl3Y9kig"
     },
     {
       "added_at": "2026-08-14 04:02:00",
@@ -295,6 +387,26 @@
       "duration_ms": 195942,
       "name": "I Could Be Madonna",
       "url": "https://open.spotify.com/track/1sVVbdDuMGG8BMGqcwVRS6"
+    },
+    {
+      "added_at": "2026-09-25 04:02:12",
+      "album": {
+        "name": "Tell It To The Mountain",
+        "url": "https://open.spotify.com/album/4J1sFFT07m0KtK5UP6AAqv"
+      },
+      "artists": [
+        {
+          "name": "Axel Boman",
+          "url": "https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O"
+        },
+        {
+          "name": "Superpitcher",
+          "url": "https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5"
+        }
+      ],
+      "duration_ms": 498491,
+      "name": "Hey It's Me, I Love You",
+      "url": "https://open.spotify.com/track/0XVodOGFk18G7bAvoniX50"
     },
     {
       "added_at": "2026-08-28 04:02:12",
@@ -473,6 +585,30 @@
       "url": "https://open.spotify.com/track/65yxSGrrEc4zeRiQPVOjty"
     },
     {
+      "added_at": "2026-09-11 04:02:15",
+      "album": {
+        "name": "moln (Finally Version)",
+        "url": "https://open.spotify.com/album/5xYq7IoC1I1o3cJ4oTQ6Zh"
+      },
+      "artists": [
+        {
+          "name": "Catz 'n Dogz",
+          "url": "https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh"
+        },
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 232727,
+      "name": "moln - Finally Version",
+      "url": "https://open.spotify.com/track/0wnQPvxjJPkluqxweVO5F3"
+    },
+    {
       "added_at": "2026-08-21 04:02:03",
       "album": {
         "name": "Time With You",
@@ -619,6 +755,26 @@
       "duration_ms": 184077,
       "name": "Te Caigo",
       "url": "https://open.spotify.com/track/1SNdl0d0YHfoD7b0Uvfn1W"
+    },
+    {
+      "added_at": "2026-09-04 04:26:07",
+      "album": {
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/3595NnBUCIliBl17nLoPYT"
+      },
+      "artists": [
+        {
+          "name": "Leyo",
+          "url": "https://open.spotify.com/artist/4AF8mOroQTHChfzH7GJ94p"
+        },
+        {
+          "name": "Thierry Ganz",
+          "url": "https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4cluYSm11ohFV5WPkU7Feq"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -877,26 +1033,6 @@
       "url": "https://open.spotify.com/track/10SI5lACqzoAICNX3LbMft"
     },
     {
-      "added_at": "2026-08-21 04:02:03",
-      "album": {
-        "name": "Black Box (Nick Zinner Remix)",
-        "url": "https://open.spotify.com/album/0veY9GD5TvEI7Fe9KyliMm"
-      },
-      "artists": [
-        {
-          "name": "Automatic",
-          "url": "https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU"
-        },
-        {
-          "name": "Nick Zinner",
-          "url": "https://open.spotify.com/artist/2skDtpQeOI6zjRWIT3iFkO"
-        }
-      ],
-      "duration_ms": 284091,
-      "name": "Black Box (Nick Zinner Remix)",
-      "url": "https://open.spotify.com/track/5W7VzZiB3hVx2BVSvnNk3q"
-    },
-    {
       "added_at": "2026-08-14 04:02:00",
       "album": {
         "name": "PRIZEFIGHTER",
@@ -977,22 +1113,6 @@
       "url": "https://open.spotify.com/track/2SpViBCYQMXwS6OrTTWG3u"
     },
     {
-      "added_at": "2026-06-19 04:16:01",
-      "album": {
-        "name": "Beautiful Noise In My Head",
-        "url": "https://open.spotify.com/album/27gneoLHvNb0VWRWUd1K8N"
-      },
-      "artists": [
-        {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
-        }
-      ],
-      "duration_ms": 211331,
-      "name": "Beautiful Noise In My Head",
-      "url": "https://open.spotify.com/track/2GoLYTvdOKOTNJYOBUk7N6"
-    },
-    {
       "added_at": "2026-05-15 04:01:39",
       "album": {
         "name": "Falling Again",
@@ -1057,26 +1177,6 @@
       "url": "https://open.spotify.com/track/2yksZVaKYIbh4IEEAa2kJV"
     },
     {
-      "added_at": "2026-07-17 04:01:59",
-      "album": {
-        "name": "Entropy",
-        "url": "https://open.spotify.com/album/17n5dv9DOKRXZepPMDvHtS"
-      },
-      "artists": [
-        {
-          "name": "Desmond",
-          "url": "https://open.spotify.com/artist/28Zwkol38hAQJpW6YKetuY"
-        },
-        {
-          "name": "EV",
-          "url": "https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/4mDySZQYofX5dZSPpQNxi7"
-    },
-    {
       "added_at": "2026-08-07 04:01:55",
       "album": {
         "name": "Helios EP",
@@ -1127,22 +1227,6 @@
       "duration_ms": 192066,
       "name": "WANNA GET DOWN",
       "url": "https://open.spotify.com/track/4Hoj7nOogsyeeqoJbiCWcA"
-    },
-    {
-      "added_at": "2026-07-10 04:02:03",
-      "album": {
-        "name": "only one",
-        "url": "https://open.spotify.com/album/42Y0EOs7mZwLgE6ZzaECde"
-      },
-      "artists": [
-        {
-          "name": "bad tuner",
-          "url": "https://open.spotify.com/artist/6a5fdBQLjJqoSGN5gythKm"
-        }
-      ],
-      "duration_ms": 211653,
-      "name": "only one",
-      "url": "https://open.spotify.com/track/2PpPJSn4GdB6Dzsm9CsEC0"
     },
     {
       "added_at": "2026-07-10 04:02:03",
@@ -1259,26 +1343,6 @@
       "duration_ms": 169392,
       "name": "Goes Like",
       "url": "https://open.spotify.com/track/05p4Ruz6Pg0X3IuyZ3BbBR"
-    },
-    {
-      "added_at": "2026-06-19 04:16:01",
-      "album": {
-        "name": "Fallin'",
-        "url": "https://open.spotify.com/album/4K9rfx9YiUfGvCV4qLtdd5"
-      },
-      "artists": [
-        {
-          "name": "Plaisance",
-          "url": "https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu"
-        },
-        {
-          "name": "MATTII",
-          "url": "https://open.spotify.com/artist/1tCd8DCTFUYDclgcwuL1A6"
-        }
-      ],
-      "duration_ms": 187223,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/7G7CE9KCxDS3QNO7f9tp8T"
     },
     {
       "added_at": "2026-05-15 04:01:39",
@@ -1441,22 +1505,6 @@
       "url": "https://open.spotify.com/track/1t8ZZYDtprPhRtXU3977NH"
     },
     {
-      "added_at": "2026-05-22 04:01:02",
-      "album": {
-        "name": "JOY (Light In The Dark)",
-        "url": "https://open.spotify.com/album/4O6IC1c67UMYoDaZp0FMWS"
-      },
-      "artists": [
-        {
-          "name": "Joy Anonymous",
-          "url": "https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R"
-        }
-      ],
-      "duration_ms": 296045,
-      "name": "JOY (Light In The Dark)",
-      "url": "https://open.spotify.com/track/6rZfjIl7gepUSwkmi22luo"
-    },
-    {
       "added_at": "2026-05-01 04:01:44",
       "album": {
         "name": "Fold",
@@ -1579,26 +1627,6 @@
       "duration_ms": 157058,
       "name": "It's All About The Music",
       "url": "https://open.spotify.com/track/6KEyvhYNlMtW7Caf1BP0eb"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "50KWTTS",
-        "url": "https://open.spotify.com/album/4yMBeYLgk0aO0O8EbQ6j58"
-      },
-      "artists": [
-        {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        },
-        {
-          "name": "Marie Davidson",
-          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Watch Me",
-      "url": "https://open.spotify.com/track/7CdKgelWaFAubv36vIUNPA"
     },
     {
       "added_at": "2026-04-10 04:02:28",
@@ -1731,26 +1759,6 @@
       "duration_ms": 171613,
       "name": "if you wanna party, come over to my house",
       "url": "https://open.spotify.com/track/5rBBVYaOqtFS1Dx6MVpr5O"
-    },
-    {
-      "added_at": "2026-04-10 04:02:28",
-      "album": {
-        "name": "Far Too Long",
-        "url": "https://open.spotify.com/album/20JmqCKJnP9Bxk3Qd5BJTv"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bourachot",
-          "url": "https://open.spotify.com/artist/24bH0ZMlrOkri5XncEL7Oy"
-        },
-        {
-          "name": "Sodade",
-          "url": "https://open.spotify.com/artist/5fS6fDNPVPLybAvg7YIvFt"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "Far Too Long",
-      "url": "https://open.spotify.com/track/1OrOKPU1gkvREJenk6m7U4"
     },
     {
       "added_at": "2026-04-10 04:02:28",

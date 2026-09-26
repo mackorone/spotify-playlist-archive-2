@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3g2x83PnE4udquzQctBOSF.md) - [plain]
 
 > 
 
-[angiū](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,753 likes - 6 songs - 23 min 30 sec
+[angiū](https://open.spotify.com/user/due850omgu70ns7dyg7n7jf12) - 2,752 likes - 6 songs - 23 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

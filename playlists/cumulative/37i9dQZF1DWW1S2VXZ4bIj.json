@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Zom Marie",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 4EVE",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 159095,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
@@ -1561,6 +1561,28 @@
     },
     {
       "album": {
+        "name": "don\u2019t hide",
+        "url": "https://open.spotify.com/album/5YdcJOuy9ANTRoypFgRTtE"
+      },
+      "artists": [
+        {
+          "name": "atom chanakan",
+          "url": "https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw"
+        },
+        {
+          "name": "GALCHANIE",
+          "url": "https://open.spotify.com/artist/3ymVAMnF6CJaSM8IwAcfoa"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200146,
+      "name": "don\u2019t hide (feat. GALCHANIE)",
+      "url": "https://open.spotify.com/track/62cfnbOHpJ884Plu34eQMj"
+    },
+    {
+      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/3DmDoHxAeEiDFNWrHSKAdQ"
       },
@@ -1648,6 +1670,24 @@
       "duration_ms": 224998,
       "name": "drop dead",
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
+    },
+    {
+      "album": {
+        "name": "DUST",
+        "url": "https://open.spotify.com/album/2y7x9mZ9M0hWIQL7JhAOGV"
+      },
+      "artists": [
+        {
+          "name": "PiXXiE",
+          "url": "https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "DUSTY",
+      "url": "https://open.spotify.com/track/5mllbepsjuNZPax6LX1tuW"
     },
     {
       "album": {
@@ -3787,6 +3827,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "Perfect",
         "url": "https://open.spotify.com/album/5p3Jnt2oeoYnBsiGB3Nouq"
       },
@@ -4858,7 +4916,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 157560,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY"
@@ -8132,7 +8190,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 188000,
       "name": "\u0e0a\u0e2d\u0e1a\u0e08\u0e31\u0e07\u0e27\u0e48\u0e30 (Ricky Latin)",
       "url": "https://open.spotify.com/track/5su7so7GIrRcGXaVfgJYAa"
@@ -8993,6 +9051,24 @@
     },
     {
       "album": {
+        "name": "\u0e16\u0e49\u0e32\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19 (Crossroads)",
+        "url": "https://open.spotify.com/album/7xkjJRoG1XxU94Qr2zm5Zy"
+      },
+      "artists": [
+        {
+          "name": "FREEHAND",
+          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218414,
+      "name": "\u0e16\u0e49\u0e32\u0e2a\u0e31\u0e01\u0e27\u0e31\u0e19 (Crossroads)",
+      "url": "https://open.spotify.com/track/4NhtEMpFYFW3mb9c2ZQlMH"
+    },
+    {
+      "album": {
         "name": "\u0e16\u0e49\u0e32\u0e2b\u0e32\u0e01\u0e09\u0e31\u0e19\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e21\u0e31\u0e19\u0e08\u0e30\u0e40\u0e08\u0e47\u0e1a (ALT. ENDING)",
         "url": "https://open.spotify.com/album/1NF8GzDpRk4Mhhhz5IlP6b"
       },
@@ -9128,6 +9204,24 @@
       "duration_ms": 292500,
       "name": "\u0e17\u0e35\u0e48\u0e04\u0e31\u0e48\u0e19\u0e2b\u0e19\u0e31\u0e07\u0e2a\u0e37\u0e2d (Sometimes)",
       "url": "https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32",
+        "url": "https://open.spotify.com/album/7Luok1GvB5cGOD4cQicI1D"
+      },
+      "artists": [
+        {
+          "name": "4EVE",
+          "url": "https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211821,
+      "name": "\u0e17\u0e35\u0e48\u0e1b\u0e23\u0e36\u0e01\u0e29\u0e32",
+      "url": "https://open.spotify.com/track/3vJ6KgtaCKcfsLtQT6LoQ4"
     },
     {
       "album": {
@@ -9436,7 +9530,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 360000,
       "name": "\u0e19\u0e31\u0e01\u0e41\u0e2a\u0e14\u0e07\u0e15\u0e1a\u0e15\u0e32 - Remix",
       "url": "https://open.spotify.com/track/5fajhzcr4puTHlkzI8KQwm"
@@ -10854,7 +10948,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 221428,
       "name": "\u0e23\u0e31\u0e01\u0e17\u0e35\u0e48\u0e1e\u0e2d\u0e14\u0e35 (enough)",
       "url": "https://open.spotify.com/track/3IEA2jlMYaWZV1yJtaOsJx"
@@ -10908,7 +11002,7 @@
       ],
       "date_added": "2026-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 253764,
       "name": "\u0e23\u0e31\u0e01\u0e21\u0e31\u0e01\u0e22\u0e32\u0e01 (Lover Loser)",
       "url": "https://open.spotify.com/track/746ratCSSeCGRVZVoy6lLA"
@@ -12987,6 +13081,24 @@
     },
     {
       "album": {
+        "name": "\u0e40\u0e08\u0e47\u0e1a\u0e41\u0e15\u0e48\u0e08\u0e1a",
+        "url": "https://open.spotify.com/album/7qPL2mYWen4ptag3viw5qK"
+      },
+      "artists": [
+        {
+          "name": "the ge",
+          "url": "https://open.spotify.com/artist/1h0iQlfKHiBlQsUsdzJ9l7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163179,
+      "name": "\u0e40\u0e08\u0e47\u0e1a\u0e41\u0e15\u0e48\u0e08\u0e1a",
+      "url": "https://open.spotify.com/track/5xeSLlhBkNWIVSe1qSrj7m"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e08\u0e47\u0e1a\u0e41\u0e25\u0e49\u0e27\u0e0a\u0e48\u0e27\u0e22\u0e08\u0e33",
         "url": "https://open.spotify.com/album/0g1DORmV2JYixtOi4TBHMs"
       },
@@ -14119,6 +14231,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e04\u0e48...\u0e2b\u0e32\u0e22\u0e44\u0e1b (Gone)",
+        "url": "https://open.spotify.com/album/5wWXkW2sKD7w1bInzSyFgk"
+      },
+      "artists": [
+        {
+          "name": "Tilly Birds",
+          "url": "https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243750,
+      "name": "\u0e41\u0e04\u0e48...\u0e2b\u0e32\u0e22\u0e44\u0e1b (Gone)",
+      "url": "https://open.spotify.com/track/3rsMVOw61uhP7Ub96xsK3o"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e04\u0e48\u0e19\u0e32\u0e17\u0e35\u0e40\u0e14\u0e35\u0e22\u0e27 (A Minute)",
         "url": "https://open.spotify.com/album/09g1TRMQbauWslcoOYwvXk"
       },
@@ -14152,6 +14282,28 @@
       "duration_ms": 224173,
       "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e2d\u0e07\u0e0a\u0e32\u0e22 (brother zone)",
       "url": "https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/0XqqhAzaXerogBQgniTZpy"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        },
+        {
+          "name": "KT KRATAE",
+          "url": "https://open.spotify.com/artist/6hwQvarRAeFfdCuFjpJZTy"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214427,
+      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/3H1mjWpfQRIvIgP6ogYLkW"
     },
     {
       "album": {
@@ -14666,7 +14818,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 221049,
       "name": "\u0e43\u0e08\u0e1a\u0e32\u0e07",
       "url": "https://open.spotify.com/track/1znP3iOktHkMy0P8ZFPFe9"
@@ -15106,7 +15258,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 202900,
       "name": "\u0e44\u0e21\u0e48\u0e21\u0e35\u0e27\u0e31\u0e19 (Fragile)",
       "url": "https://open.spotify.com/track/0NV22uXDU0K7EIjKuhzoBy"

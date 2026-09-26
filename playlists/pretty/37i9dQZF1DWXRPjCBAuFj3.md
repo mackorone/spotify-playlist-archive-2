@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > lontano lontano lontano 🐎🐎🐎 Sfera in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,260 likes - 117 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,266 likes - 117 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

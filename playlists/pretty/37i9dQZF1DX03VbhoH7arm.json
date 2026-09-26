@@ -1,15 +1,31 @@
 {
-  "description": "Grandes hits do BR e do \ud83c\udf0e / Foto: Miley Cyrus",
-  "num_followers": 1566906,
+  "description": "Grandes hits do BR e do \ud83c\udf0e / Foto: Taylor Swift",
+  "num_followers": 1566838,
   "original_name": "Hot Hits Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOBztiggMTIkfleOLHoLvmLHZc/k",
+  "snapshot_id": "AAAAAGod7H5q/81uo7vL68tjBjDp3Pec",
   "tracks": [
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Bass Persuades",
         "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
@@ -25,7 +41,7 @@
       "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "NO ME ARREPIENTO DE SENTIR TANTO",
         "url": "https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ"
@@ -49,7 +65,27 @@
       "url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
+      "album": {
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
+    },
+    {
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "WILD",
         "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
@@ -65,7 +101,23 @@
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
+      "album": {
+        "name": "Ain't In LA",
+        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "duration_ms": 184927,
+      "name": "Ain't In LA",
+      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+    },
+    {
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "B'DAY (20th ANNIVERSARY DELUXE EDITION)",
         "url": "https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW"
@@ -85,7 +137,7 @@
       "url": "https://open.spotify.com/track/5VXKx33wTSpbq3Dm5b1qU9"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "SaWaDiKa",
         "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
@@ -101,7 +153,7 @@
       "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "MATADORA",
         "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
@@ -117,7 +169,7 @@
       "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "EQUILIBRIVM II",
         "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
@@ -137,7 +189,7 @@
       "url": "https://open.spotify.com/track/3DdilHpKlj1sNWr1C0jZKL"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Bass Persuades",
         "url": "https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3"
@@ -153,7 +205,7 @@
       "url": "https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "ROCKSTAR",
         "url": "https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm"
@@ -173,10 +225,10 @@
       "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
-        "name": "Ain't In LA",
-        "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
+        "name": "PRIMA",
+        "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
       },
       "artists": [
         {
@@ -184,12 +236,12 @@
           "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
         }
       ],
-      "duration_ms": 184927,
-      "name": "Ain't In LA",
-      "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
+      "duration_ms": 181270,
+      "name": "Nicole Kidman",
+      "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Leak It (DENNIS Remix)",
         "url": "https://open.spotify.com/album/0pUf9stzX3Fl7tn60TcvSP"
@@ -209,7 +261,7 @@
       "url": "https://open.spotify.com/track/0NtdDxJlVrKbZqdCUK0E7V"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "petal",
         "url": "https://open.spotify.com/album/2k4FmEtXR0WiDW0Ac2QArT"
@@ -225,7 +277,7 @@
       "url": "https://open.spotify.com/track/70pVCVMGjmIWPbWXDwf11e"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "A*POP",
         "url": "https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF"
@@ -241,7 +293,7 @@
       "url": "https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Mem\u00f3rias P\u00f3stumas",
         "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
@@ -257,7 +309,7 @@
       "url": "https://open.spotify.com/track/6PPB5jKQ257UqzP7tgmozP"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "EQUILIBRIVM II",
         "url": "https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg"
@@ -277,7 +329,7 @@
       "url": "https://open.spotify.com/track/0kcS3YhPRQnpUOUSiHDW1R"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Mo\u00e7a",
         "url": "https://open.spotify.com/album/5lKJXq6buEHcbd7LGmCs1z"
@@ -297,7 +349,7 @@
       "url": "https://open.spotify.com/track/3hnFZQNmaYvNgroiiCKRcf"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Mem\u00f3rias P\u00f3stumas",
         "url": "https://open.spotify.com/album/37oi5fAM46AtRr3bXNj8M3"
@@ -313,7 +365,7 @@
       "url": "https://open.spotify.com/track/3mzJgriFYY654vVhzwCepw"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Radical Optimism",
         "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
@@ -329,7 +381,7 @@
       "url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "CONFESSIONS II",
         "url": "https://open.spotify.com/album/1CWY6mfnuLlF4BKRLFcUDQ"
@@ -345,7 +397,7 @@
       "url": "https://open.spotify.com/track/3a49TEtsbeAgzZAQH9WiDZ"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "you seem pretty sad for a girl so in love",
         "url": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl"
@@ -361,7 +413,7 @@
       "url": "https://open.spotify.com/track/4LfCY65LvojKjWEnU7fNN4"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
@@ -377,7 +429,7 @@
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
@@ -393,7 +445,7 @@
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Matchola - Spotify Sessions",
         "url": "https://open.spotify.com/album/4hafpkCGRkySUlu1GuBpqL"
@@ -409,7 +461,7 @@
       "url": "https://open.spotify.com/track/5gUDjykqXzVEXX3VSlXjCy"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Midnight Sun: Girls Trip",
         "url": "https://open.spotify.com/album/4WMcRlbt7NvpKrrqO8ykQf"
@@ -429,7 +481,7 @@
       "url": "https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "G-LATINA",
         "url": "https://open.spotify.com/album/7mogv95UWW5yloGmZwiILr"
@@ -449,7 +501,7 @@
       "url": "https://open.spotify.com/track/3Q0jBRz944gYpMXiYfODjN"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
@@ -469,7 +521,7 @@
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN"
@@ -489,7 +541,7 @@
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "EQUILIBRIVM",
         "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
@@ -509,7 +561,7 @@
       "url": "https://open.spotify.com/track/0PdE8XqWrtlWxDG8FEjvy0"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -525,7 +577,7 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "EQUILIBRIVM",
         "url": "https://open.spotify.com/album/0X22dVuwJtKnZDlie1Eln5"
@@ -541,7 +593,7 @@
       "url": "https://open.spotify.com/track/7kLZlMAsV9Kx7RynqQaTiG"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Man\u2019s Best Friend",
         "url": "https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop"
@@ -557,7 +609,7 @@
       "url": "https://open.spotify.com/track/2BwO5K8Q7EPAJSGze3AAh9"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Sweet Boy",
         "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
@@ -573,7 +625,7 @@
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Bird's Eye",
         "url": "https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa"
@@ -589,43 +641,7 @@
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
-      "album": {
-        "name": "Sa\u00ed para ver o mar",
-        "url": "https://open.spotify.com/album/2eHFDRyLAzE0XvfFniWO5O"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 191810,
-      "name": "Sa\u00ed para ver o mar",
-      "url": "https://open.spotify.com/track/3IFWQxX0TlPCKlyju1kAHB"
-    },
-    {
-      "added_at": "2026-09-18 12:21:53",
-      "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/1rG5TDs3jYh6OU753I54CI"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Favorite Girl",
-      "url": "https://open.spotify.com/track/4nTjkWK590oBDcnIxTr1mI"
-    },
-    {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "drop dead",
         "url": "https://open.spotify.com/album/4OMvPbXaYlbUm6TnwyXGct"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/6gkbtMtioHgtyGjrMel6ei"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Coisas Naturais",
         "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/5EMdMjFDucmNsD80Y0mjEI"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -705,7 +721,7 @@
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "The Boy Who Played the Harp",
         "url": "https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "The Art of Loving",
         "url": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Dracula (with JENNIE)",
         "url": "https://open.spotify.com/album/6KFq3hJB6JnNvDbEHRvPoK"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "JETSKI",
         "url": "https://open.spotify.com/album/4pjiSoP1rvrhDRsD1Hey6o"
@@ -801,7 +817,7 @@
       "url": "https://open.spotify.com/track/3jhyw60F61gc7nC4dblqtC"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/0pLJCdOvfghIEinnPXIqIx"
@@ -817,7 +833,7 @@
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
@@ -833,23 +849,7 @@
       "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
-      "album": {
-        "name": "Coisas Naturais",
-        "url": "https://open.spotify.com/album/2PRDU8Oeb9f0lpgSjbaJXE"
-      },
-      "artists": [
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "duration_ms": 197030,
-      "name": "Lua Cheia",
-      "url": "https://open.spotify.com/track/6II8HGRVkvVUy0uIM4X5Qq"
-    },
-    {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "i think i'm addicted",
         "url": "https://open.spotify.com/album/6zUJXKpWJGuzb2LrB7t7hG"
@@ -869,7 +869,7 @@
       "url": "https://open.spotify.com/track/7MStpKz6w6a7Kq0QR7QTu0"
     },
     {
-      "added_at": "2026-09-18 12:21:53",
+      "added_at": "2026-09-25 18:46:10",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"

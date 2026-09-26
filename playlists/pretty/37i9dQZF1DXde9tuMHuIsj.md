@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Brray
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,479,522 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479,507 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 8 | [Bilingüe](https://open.spotify.com/track/4q2NvHIzfkndvIfRo5yGwy) | [JEYYFF](https://open.spotify.com/artist/6aH9igPZf8ShUGL3ITPQhA), [Chal 777](https://open.spotify.com/artist/3mK7sIlefqaAHtpWNiCqyJ), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx) | [Bilingüe](https://open.spotify.com/album/4FzXXDKnRpJpQA4AZUlrFS) | 4:03 |
 | 9 | [Las mas bonitas son p\#tas](https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las mas bonitas son p\#tas](https://open.spotify.com/album/6ylkMDI1T3kWWSeDdD8yyO) | 2:39 |
 | 10 | [DE MEDALLO PA MOROVIS](https://open.spotify.com/track/0YJyWgMaPwbhZmpXi8FBbf) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [LA AMENAZA](https://open.spotify.com/album/0i7JDOjUAImPE2fOqbFamJ) | 2:58 |
-| 11 | [Manhattan II](https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Manhattan II](https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0) | 2:15 |
+| 11 | [Manhattan II](https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Mr\. Goat](https://open.spotify.com/artist/2BDwUsmUVYMAa6lMc4Bbt9) | [Manhattan II](https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0) | 2:15 |
 | 12 | [ALL WHITE REMIX \(feat\. Conep, VEI HABACHE\)](https://open.spotify.com/track/1u8ISwHTmcb1eEr7xWuMtT) | [FANTA ROSARIO](https://open.spotify.com/artist/60QJavT1315GeS57lU0YXN), [Tommy Blanco](https://open.spotify.com/artist/37GpjLgunGgS7iDMCp5Cch), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Conep](https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx), [VEI HABACHE](https://open.spotify.com/artist/2sLkiZWy89QT6JzA3uP56Z) | [ALL WHITE REMIX \(feat\. Conep, VEI HABACHE\)](https://open.spotify.com/album/6qYxkhMJ2vzxkRrlXzsP1m) | 5:53 |
 | 13 | [Las Muñequitas \- Remix](https://open.spotify.com/track/4JZq1NlpsXqpqYra43QNEG) | [Mr Plata](https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [El Americano 4KT](https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N) | [Las Muñequitas \(Remix\)](https://open.spotify.com/album/4nbP74VOG2T2FrBtckNIk4) | 3:37 |
 | 14 | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/track/7nrd0eIftH3NQLfgk20Qp9) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [YOGURCITO REMIX \(feat\. Kris R., ROA\)](https://open.spotify.com/album/3VpceHZ7RMR5Te1GljOED9) | 6:15 |

@@ -3923,6 +3923,32 @@
     },
     {
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/6TllqIS8p7J9QVotQfbeoG"
+      },
+      "artists": [
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        },
+        {
+          "name": "Hardt Antoine",
+          "url": "https://open.spotify.com/artist/3nJOVgthGYcDojzO7utIyA"
+        },
+        {
+          "name": "Nariman",
+          "url": "https://open.spotify.com/artist/2nfCSIlDMhDckP3xf3J0va"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197416,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/6LpbTB4QYX68oKwO0PCTWd"
+    },
+    {
+      "album": {
         "name": "Stay (Justin Martin Remix)",
         "url": "https://open.spotify.com/album/1O7dsTLj0WtzNOF0BfuaLP"
       },
@@ -4188,7 +4214,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 281320,
       "name": "The Beach - Bonus Track",
       "url": "https://open.spotify.com/track/0FCUZdyI2UvVscNAnKHopR"

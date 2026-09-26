@@ -1427,6 +1427,44 @@
     },
     {
       "album": {
+        "name": "El Bondi [Arrochadeira]",
+        "url": "https://open.spotify.com/album/1No14YNhKd6erps2Q4ccMf"
+      },
+      "artists": [
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "MK no Beat",
+          "url": "https://open.spotify.com/artist/7HJI3KV7QYdzMHYM9WC1LC"
+        },
+        {
+          "name": "Skorps",
+          "url": "https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy"
+        },
+        {
+          "name": "TRATTO DE LA CALLE",
+          "url": "https://open.spotify.com/artist/1fJmhlwwsRZfAgkahD5I73"
+        },
+        {
+          "name": "HACHIS",
+          "url": "https://open.spotify.com/artist/7eETC2QmeXY7hVxoTpg3bg"
+        },
+        {
+          "name": "GORDOLINDO",
+          "url": "https://open.spotify.com/artist/4TvSNWfLMUNNIqMPUmkLlX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133846,
+      "name": "El Bondi [Arrochadeira]",
+      "url": "https://open.spotify.com/track/3o6VWN0HEgNS8FV7ksatWv"
+    },
+    {
+      "album": {
         "name": "ELEMENTO",
         "url": "https://open.spotify.com/album/0KlPB9P2HLb2EA03s8l9mB"
       },

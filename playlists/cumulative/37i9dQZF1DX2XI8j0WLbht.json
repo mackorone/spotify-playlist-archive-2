@@ -527,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Belleza Pasajera",
+        "url": "https://open.spotify.com/album/4hTPvzOnuyBQAgIfRLpDhd"
+      },
+      "artists": [
+        {
+          "name": "Paola Decanini",
+          "url": "https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228235,
+      "name": "Belleza Pasajera",
+      "url": "https://open.spotify.com/track/0zTOXS5uSxH6XgTCbIBbxE"
+    },
+    {
+      "album": {
         "name": "Besar",
         "url": "https://open.spotify.com/album/3ggnQ2EBey7bpJRuV7YhnX"
       },
@@ -3564,7 +3582,7 @@
       ],
       "date_added": "2025-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 314573,
       "name": "Nos Queda Mucho Dolor Por Recorrer",
       "url": "https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l"
@@ -4480,6 +4498,24 @@
       "duration_ms": 197884,
       "name": "Skokiaan",
       "url": "https://open.spotify.com/track/2NtCE2KvwtmIOwmGRB04Hy"
+    },
+    {
+      "album": {
+        "name": "Dolores y compa\u00f1\u00eda",
+        "url": "https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Alatorre",
+          "url": "https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218024,
+      "name": "Socorro",
+      "url": "https://open.spotify.com/track/7aOCTIavuPBXbnsw0SUbrV"
     },
     {
       "album": {

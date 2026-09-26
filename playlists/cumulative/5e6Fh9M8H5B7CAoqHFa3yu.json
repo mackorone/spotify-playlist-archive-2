@@ -3027,6 +3027,24 @@
     },
     {
       "album": {
+        "name": "at night i dream of you",
+        "url": "https://open.spotify.com/album/7LW1scjbOo9fsvkBkawJCU"
+      },
+      "artists": [
+        {
+          "name": "Cold Water",
+          "url": "https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "at night i dream of you",
+      "url": "https://open.spotify.com/track/79XUBO372HCq6WozbVeRte"
+    },
+    {
+      "album": {
         "name": "At The Restaurant",
         "url": "https://open.spotify.com/album/5BXD9EhfxsvVwrgdtAl3Ku"
       },
@@ -8440,10 +8458,6 @@
         {
           "name": "Jos\u00e9 Sechi",
           "url": "https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi"
-        },
-        {
-          "name": "Meditherranea & Prova MI & 001 BEST & Jos\u00e9 Sechi",
-          "url": "https://open.spotify.com/artist/0fw3C1w2BWMmiZiayDQzo8"
         }
       ],
       "date_added": "2026-09-24",
@@ -10980,7 +10994,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 128519,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/1QgNaCnFjV2iyrklG8e6LT"
@@ -19183,6 +19197,24 @@
     },
     {
       "album": {
+        "name": "i remember this place",
+        "url": "https://open.spotify.com/album/1iJfTvqVZSwnYLWpBpgJlC"
+      },
+      "artists": [
+        {
+          "name": "Bon Echo",
+          "url": "https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133866,
+      "name": "i remember this place",
+      "url": "https://open.spotify.com/track/2Fz3Irq8yR19lBzwyyniSB"
+    },
+    {
+      "album": {
         "name": "I Saw You Burn",
         "url": "https://open.spotify.com/album/41Go2aP9lNmIDfKGvxpZwu"
       },
@@ -22976,6 +23008,32 @@
       "duration_ms": 334500,
       "name": "La Forma Del Vicio",
       "url": "https://open.spotify.com/track/6j6TPAgaN0kRYInKFB58ay"
+    },
+    {
+      "album": {
+        "name": "La giusta frequenza",
+        "url": "https://open.spotify.com/album/5vBt53WuOzmWyNlvAsP1Zt"
+      },
+      "artists": [
+        {
+          "name": "SAM D",
+          "url": "https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr"
+        },
+        {
+          "name": "Numa Mc",
+          "url": "https://open.spotify.com/artist/5O1HeNhR5Itl8JfAgKvNOQ"
+        },
+        {
+          "name": "DnD Records",
+          "url": "https://open.spotify.com/artist/3hqVCWmGpzQVwolog0J7yE"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "La giusta frequenza",
+      "url": "https://open.spotify.com/track/31FMJnC6sdicyFgVzbcsqr"
     },
     {
       "album": {
@@ -31598,7 +31656,7 @@
       ],
       "date_added": "2025-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 150000,
       "name": "Past Midnight",
       "url": "https://open.spotify.com/track/1gKUMev30Y2sJGJbDNcitL"

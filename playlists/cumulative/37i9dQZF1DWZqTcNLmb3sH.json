@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Check out the latest hits from Sandalwood!\nCover : Bail",
+  "description": "Check out the latest hits from Sandalwood!\nCover : Brindavihari",
   "name": "Latest Kannada",
   "tracks": [
     {
@@ -4458,7 +4458,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 423936,
       "name": "Baana Saradaara",
       "url": "https://open.spotify.com/track/1BkD7IUMvqIUkgGe4uvtwf"
@@ -32639,6 +32639,32 @@
     },
     {
       "album": {
+        "name": "Nan Amma (From \"KHELA\")",
+        "url": "https://open.spotify.com/album/7b0BiMIO6AEECgZsopnvzn"
+      },
+      "artists": [
+        {
+          "name": "Thyagaraja M.S",
+          "url": "https://open.spotify.com/artist/6h0s6nu545c3GUh5GquDaY"
+        },
+        {
+          "name": "Manoj Sowgandh",
+          "url": "https://open.spotify.com/artist/4xG9GIV71NfFZq7wpRSlV5"
+        },
+        {
+          "name": "Aniruddha Sastry",
+          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205189,
+      "name": "Nan Amma (From \"KHELA\")",
+      "url": "https://open.spotify.com/track/3iMSrinyp1aSAEgP3lzOki"
+    },
+    {
+      "album": {
         "name": "Nan Hesaru Saniya (From \"Common Man\")",
         "url": "https://open.spotify.com/album/1XEN0QJkgta4JPrTVlbrht"
       },
@@ -38472,6 +38498,36 @@
       "duration_ms": 304062,
       "name": "Ondhe Maathali Helodaadare (From \"PYAAR\")",
       "url": "https://open.spotify.com/track/5wA5KpnG90qW2ndXjzgRXK"
+    },
+    {
+      "album": {
+        "name": "Ondhe Ondu (From \"Brindhavihari\")",
+        "url": "https://open.spotify.com/album/3r9aO8uA21Tgk24gTLU9Qf"
+      },
+      "artists": [
+        {
+          "name": "Hesham Abdul Wahab",
+          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        },
+        {
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327671,
+      "name": "Ondhe Ondu (From \"Brindhavihari\")",
+      "url": "https://open.spotify.com/track/1b8vp9rQybCPVanJatWPIZ"
     },
     {
       "album": {
@@ -49744,7 +49800,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 364000,
       "name": "Vibe Of Graamaayana (From \"Graamaayana\")",
       "url": "https://open.spotify.com/track/4iJGuZLvyso0QIqApCLQMG"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "unge kniv \ud83d\udd2a @KlaraVibeke",
+  "description": "unge kniv \ud83d\udd2a @JOSVA",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -82,6 +82,24 @@
       "duration_ms": 185760,
       "name": "1000 H\u00e6nder",
       "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
+    },
+    {
+      "album": {
+        "name": "124",
+        "url": "https://open.spotify.com/album/393ZYZG7kp51f2WPrvPKLc"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175605,
+      "name": "124",
+      "url": "https://open.spotify.com/track/5hzSuUxi6XVerUeVhKmQp5"
     },
     {
       "album": {
@@ -700,7 +718,7 @@
       ],
       "date_added": "2026-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 183788,
       "name": "Blue Flame",
       "url": "https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o"
@@ -5278,7 +5296,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 203373,
       "name": "Nights Like These",
       "url": "https://open.spotify.com/track/1QCEVDKBXdnMniG3Aw1M98"
@@ -5452,6 +5470,24 @@
       "duration_ms": 146442,
       "name": "N\u00d8GEN (feat. Lord Siva)",
       "url": "https://open.spotify.com/track/79WivSc02fx7ocg2Enl0ED"
+    },
+    {
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/1pb4KZOOnq4TC82aeDbJtT"
+      },
+      "artists": [
+        {
+          "name": "Yangze",
+          "url": "https://open.spotify.com/artist/41ZgBrHYJcdi3LEiZX1RMt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172169,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0q2Ku7OAuNGNUOEK5rUjs5"
     },
     {
       "album": {
@@ -6345,6 +6381,24 @@
     },
     {
       "album": {
+        "name": "Septembersol",
+        "url": "https://open.spotify.com/album/2zGAvHYfKm6dHMx31A8FoU"
+      },
+      "artists": [
+        {
+          "name": "Mona Moroni",
+          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Septembersol",
+      "url": "https://open.spotify.com/track/7G49uERj3bMgHiqfv4PVMf"
+    },
+    {
+      "album": {
         "name": "Ser I Mig Nu",
         "url": "https://open.spotify.com/album/6R5lKOetm0GTwtvP5msPpY"
       },
@@ -6868,7 +6922,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 143281,
       "name": "st\u00e5r for skud </3",
       "url": "https://open.spotify.com/track/65m0grU6EDSCBoX2hS4kZ7"
@@ -7988,7 +8042,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 200164,
       "name": "Venter Jo Bare",
       "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"

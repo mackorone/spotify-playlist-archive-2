@@ -1,45 +1,13 @@
 {
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Cassandra Coleman",
-  "num_followers": 955216,
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Joy Oladokun",
+  "num_followers": 955159,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALG6ItY9EPWHeCR66x0GT1YQm+bA",
+  "snapshot_id": "AAAAAJ6Ai8XbVkoKCx3CH23R/RnDpfCi",
   "tracks": [
-    {
-      "added_at": "2026-09-18 04:01:02",
-      "album": {
-        "name": "End Of Your Love",
-        "url": "https://open.spotify.com/album/0boQbM2Y1UuPVNyhDTRvjD"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Coleman",
-          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
-        }
-      ],
-      "duration_ms": 250865,
-      "name": "End Of Your Love",
-      "url": "https://open.spotify.com/track/5pXwBJIXdskly7dogEQUKw"
-    },
-    {
-      "added_at": "2026-09-18 04:01:02",
-      "album": {
-        "name": "The Late Show",
-        "url": "https://open.spotify.com/album/5B8dcN7FeNf1050hUs28gM"
-      },
-      "artists": [
-        {
-          "name": "Evan Honer",
-          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
-        }
-      ],
-      "duration_ms": 186764,
-      "name": "The Late Show",
-      "url": "https://open.spotify.com/track/2lDIKBnTJJWB66Hn0aouHG"
-    },
     {
       "added_at": "2026-09-04 04:01:22",
       "album": {
@@ -61,6 +29,22 @@
       "url": "https://open.spotify.com/track/0E8KC0cKuIdj9NjaDBooVc"
     },
     {
+      "added_at": "2026-09-25 04:01:45",
+      "album": {
+        "name": "Hope Is A Heavy Thing",
+        "url": "https://open.spotify.com/album/4q8V0cVboa6VtjCYoPHTm9"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205053,
+      "name": "Easy Company",
+      "url": "https://open.spotify.com/track/6En20OZbeLSvH97lc4q9bv"
+    },
+    {
       "added_at": "2026-09-04 04:01:22",
       "album": {
         "name": "Wild Woman",
@@ -77,20 +61,100 @@
       "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
     },
     {
-      "added_at": "2026-09-18 04:01:02",
+      "added_at": "2026-09-25 04:01:45",
       "album": {
-        "name": "Universe Awaiting EP",
-        "url": "https://open.spotify.com/album/6PpbsztD3IG5xV4dGyrFVt"
+        "name": "Best Day of Your Life",
+        "url": "https://open.spotify.com/album/1l4VjTJgODdprYzKaUvsfx"
       },
       "artists": [
         {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+          "name": "Jon Bryant",
+          "url": "https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L"
         }
       ],
-      "duration_ms": 185500,
-      "name": "Universe Awaiting",
-      "url": "https://open.spotify.com/track/0X8aiGfHrN5cfIg67jdgh6"
+      "duration_ms": 229013,
+      "name": "Best Day of Your Life",
+      "url": "https://open.spotify.com/track/6JiStBvQzXMieACGLGanhp"
+    },
+    {
+      "added_at": "2026-09-18 04:01:02",
+      "album": {
+        "name": "The Late Show",
+        "url": "https://open.spotify.com/album/5B8dcN7FeNf1050hUs28gM"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "duration_ms": 186764,
+      "name": "The Late Show",
+      "url": "https://open.spotify.com/track/2lDIKBnTJJWB66Hn0aouHG"
+    },
+    {
+      "added_at": "2026-09-18 04:01:02",
+      "album": {
+        "name": "End Of Your Love",
+        "url": "https://open.spotify.com/album/0boQbM2Y1UuPVNyhDTRvjD"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
+        }
+      ],
+      "duration_ms": 250865,
+      "name": "End Of Your Love",
+      "url": "https://open.spotify.com/track/5pXwBJIXdskly7dogEQUKw"
+    },
+    {
+      "added_at": "2026-09-04 04:01:22",
+      "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 169121,
+      "name": "Good At Leaving",
+      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
+    },
+    {
+      "added_at": "2026-09-04 04:01:22",
+      "album": {
+        "name": "The Great Divide: The Last Of The Bugs",
+        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 286967,
+      "name": "Orbiter",
+      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
+    },
+    {
+      "added_at": "2026-09-25 04:01:45",
+      "album": {
+        "name": "How Lonely",
+        "url": "https://open.spotify.com/album/0szH0V7q7wxhn47PBYQfVl"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "How Lonely",
+      "url": "https://open.spotify.com/track/4sjZn5XgFvFEilkZ2HbCvB"
     },
     {
       "added_at": "2026-09-11 04:01:12",
@@ -141,22 +205,6 @@
       "url": "https://open.spotify.com/track/7tr6hTeo3INeHKvToHYRDa"
     },
     {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
-        "name": "Is This Heaven? (Extended)",
-        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 169121,
-      "name": "Good At Leaving",
-      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
-    },
-    {
       "added_at": "2026-09-11 04:01:12",
       "album": {
         "name": "Isabelle Fly",
@@ -191,22 +239,6 @@
       "duration_ms": 168000,
       "name": "Hanging Out In My Head",
       "url": "https://open.spotify.com/track/5ValF3UWlU0MasMfGFXXle"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
-        "name": "The Great Divide: The Last Of The Bugs",
-        "url": "https://open.spotify.com/album/01HMeEWI4jOmTIDHGaGI1n"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 286967,
-      "name": "Orbiter",
-      "url": "https://open.spotify.com/track/4W6yulge3h7FSy0zGFrNKs"
     },
     {
       "added_at": "2026-09-11 04:01:12",
@@ -259,22 +291,6 @@
     {
       "added_at": "2026-09-04 04:01:22",
       "album": {
-        "name": "I Won\u2019t Be There Waiting For You",
-        "url": "https://open.spotify.com/album/7giFDQWTJPCEVshvReKhvX"
-      },
-      "artists": [
-        {
-          "name": "Bo Staloch",
-          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
-        }
-      ],
-      "duration_ms": 253271,
-      "name": "I Won\u2019t Be There Waiting For You",
-      "url": "https://open.spotify.com/track/0c8XsPbm9w5fCsMXxTJEu8"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
         "name": "Don't Feel Right",
         "url": "https://open.spotify.com/album/5c74JMhCejvzLcT7Buzj9l"
       },
@@ -287,6 +303,38 @@
       "duration_ms": 210266,
       "name": "Don't Feel Right",
       "url": "https://open.spotify.com/track/7rgKSc2ZNTv28wyY7COiv7"
+    },
+    {
+      "added_at": "2026-09-18 04:01:02",
+      "album": {
+        "name": "Universe Awaiting EP",
+        "url": "https://open.spotify.com/album/6PpbsztD3IG5xV4dGyrFVt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Universe Awaiting",
+      "url": "https://open.spotify.com/track/0X8aiGfHrN5cfIg67jdgh6"
+    },
+    {
+      "added_at": "2026-09-04 04:01:22",
+      "album": {
+        "name": "I Won\u2019t Be There Waiting For You",
+        "url": "https://open.spotify.com/album/7giFDQWTJPCEVshvReKhvX"
+      },
+      "artists": [
+        {
+          "name": "Bo Staloch",
+          "url": "https://open.spotify.com/artist/2EtiCherSxAKu7mnbU8Poh"
+        }
+      ],
+      "duration_ms": 253271,
+      "name": "I Won\u2019t Be There Waiting For You",
+      "url": "https://open.spotify.com/track/0c8XsPbm9w5fCsMXxTJEu8"
     },
     {
       "added_at": "2026-09-04 04:01:22",
@@ -1283,22 +1331,6 @@
     {
       "added_at": "2026-09-04 04:01:22",
       "album": {
-        "name": "Halcyon (Deluxe)",
-        "url": "https://open.spotify.com/album/4P1BBeZSJSknyrfkLbD2Ab"
-      },
-      "artists": [
-        {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Hold Me Down",
-      "url": "https://open.spotify.com/track/0P2Oin9RGR8ILP5xYNSBiy"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
         "name": "hate me too",
         "url": "https://open.spotify.com/album/049FuqHfjsiNlLfARnGQZ7"
       },
@@ -1431,22 +1463,6 @@
       "duration_ms": 163603,
       "name": "I Don't Need to Know How This Ends",
       "url": "https://open.spotify.com/track/5y0oplBzk3wfWfTkQiStiG"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
-        "name": "DON'T WANNA GO HOME",
-        "url": "https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg"
-      },
-      "artists": [
-        {
-          "name": "Adrien Nunez",
-          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
-        }
-      ],
-      "duration_ms": 133560,
-      "name": "DON'T WANNA GO HOME",
-      "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
     },
     {
       "added_at": "2026-09-04 04:01:22",
@@ -1623,26 +1639,6 @@
       "duration_ms": 287063,
       "name": "Matches & Gasoline",
       "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
-        "name": "LOOK! I'm Alive",
-        "url": "https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        },
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 243038,
-      "name": "Live & Let Go (with DISPATCH)",
-      "url": "https://open.spotify.com/track/5bANCdXPTD9Lik5JGhYsAO"
     }
   ],
   "unique_name": "Folk Pop",

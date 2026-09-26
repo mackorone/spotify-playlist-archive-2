@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Bien Argento 📸 Bardero$
 
-[Spotify](https://open.spotify.com/user/spotify) - 213,413 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 213,416 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Narcos](https://open.spotify.com/track/2VcHb0GYyRpoBEotMidlFW) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Mala Vida](https://open.spotify.com/album/3HXMdLBIbYp1pgpKvQ9ikZ) | 2:32 |
-| 2 | [Estímulos](https://open.spotify.com/track/1KnZWCtbbSXpb3CPOKdrK6) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [CLOUD SOUNDS](https://open.spotify.com/artist/1ACKJ6hH5bMUkcgcKXIqbZ) | [Soui Uno x CLOUD Sounds](https://open.spotify.com/album/7tJmMaqihNJU9O8bqbWF3y) | 2:41 |
+| 2 | [Estímulos \- CLOUD sounds](https://open.spotify.com/track/1KnZWCtbbSXpb3CPOKdrK6) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [CLOUD SOUNDS](https://open.spotify.com/artist/1ACKJ6hH5bMUkcgcKXIqbZ) | [Soui Uno x CLOUD Sounds](https://open.spotify.com/album/7tJmMaqihNJU9O8bqbWF3y) | 2:41 |
 | 3 | [15MIN AL DIA](https://open.spotify.com/track/1JMvcvyLyS1RsCWk7gOcy7) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt), [ARA](https://open.spotify.com/artist/5wkxQh0fD5bsqxKm6Ajv7o) | [15MIN AL DIA](https://open.spotify.com/album/5WafPBzeiWLHdmJo0oH5OL) | 2:32 |
 | 4 | [COPA DE DRANK](https://open.spotify.com/track/5bGpKRZ2jiKJHIm4erLqvg) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT), [The B Brothers](https://open.spotify.com/artist/6aMj3NbElv7ZTyrzy0KNzL) | [MUMBLESS](https://open.spotify.com/album/0bHp1xXazXpEXJiPrUCzbA) | 1:58 |
 | 5 | [Cap \#3 \- Villa Caraza](https://open.spotify.com/track/0jD6ZTZgJnBkd1MR3euse4) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Cap \#3 \- Villa Caraza](https://open.spotify.com/album/2mwqCReRe5iKB6kYBPXD2I) | 2:15 |

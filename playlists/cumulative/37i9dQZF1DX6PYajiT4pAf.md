@@ -2,9 +2,9 @@
 
 ### [Novedades Viernes España](https://open.spotify.com/playlist/37i9dQZF1DX6PYajiT4pAf)
 
-> Las novedades de la semana.
+> Taylor Swift, Ozuna, Ovy On The Drums & Manuel Turizo, Madonna & Charli xcx y más novedades de la semana.
 
-6,784 songs - 14 day 10 hr 55 min
+6,785 songs - 14 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1384,7 +1384,7 @@
 | [Curiosidad](https://open.spotify.com/track/3vMXuohsRNNf1KE67nbGCQ) | [Dollar Selmouni](https://open.spotify.com/artist/2544NCTfffschCn1NZVMSb), [Fectro](https://open.spotify.com/artist/34Tgpgu56FedPkQ23qcq1M) | [Curiosidad](https://open.spotify.com/album/0HFfhHh13NwI5uWG3BWibH) | 2:45 | 2025-02-13 | 2025-02-21 |
 | [Curiosidad](https://open.spotify.com/track/4klqzB8TazgCXAEFUkAwrn) | [Manu Cort](https://open.spotify.com/artist/1s5yaJ9Dr74CfXADawVeqs), [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [Curiosidad](https://open.spotify.com/album/6fobWc0jXDjifWcO0E0J5p) | 2:23 | 2025-01-16 | 2025-01-24 |
 | [curita sana](https://open.spotify.com/track/1rIjpwW0KaaSRPJzFd454z) | [Tatiana Delalvz](https://open.spotify.com/artist/4rFr57FRQgkd7FSwvQxBNP) | [curita sana](https://open.spotify.com/album/6rv3Abs1sdpEYahhgNdhR9) | 2:14 | 2026-06-25 | 2026-07-03 |
-| [Curra Curra Curra](https://open.spotify.com/track/0uv6GPCW0YiJoAF6bu6SRn) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U) | [Curra o Ama](https://open.spotify.com/album/6ATKp6Q6xQGEXPwIKL4eLr) | 3:02 | 2026-09-24 |  |
+| [Curra Curra Curra](https://open.spotify.com/track/0uv6GPCW0YiJoAF6bu6SRn) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U), [8 Keys](https://open.spotify.com/artist/2VJOyNT0Kv0wTu27RqNOIE) | [Curra o Ama](https://open.spotify.com/album/6ATKp6Q6xQGEXPwIKL4eLr) | 3:02 | 2026-09-24 |  |
 | [Curso Avanzado de Perra](https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Curso Avanzado de Perra](https://open.spotify.com/album/4vL3EwRnbXQFXYtCSRc39p) | 2:58 | 2025-01-16 | 2025-01-24 |
 | [CUTE GUAPO \- Ídolos Soundtrack](https://open.spotify.com/track/5LrKfjV7lMnPgck7Jr3RBC) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Ídolos Soundtrack](https://open.spotify.com/album/7wntxEN9mXjmzFUfRXGzvp) | 2:44 | 2026-01-23 | 2026-01-30 |
 | [Cuál Es La Necesidad](https://open.spotify.com/track/1eIJVAmYYui2VHcQ1cmwR2) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Cuál Es La Necesidad](https://open.spotify.com/album/5EumHLtbT0Jc90E3I8j0On) | 2:24 | 2026-09-03 | 2026-09-11 |
@@ -4587,6 +4587,7 @@
 | [Patas Arriba El Hotel](https://open.spotify.com/track/0APDDVSSlSGCCduJpGmBHk) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [Patas Arriba El Hotel](https://open.spotify.com/album/1IZlGp5wCk7lFxWHqHE57T) | 2:57 | 2025-06-19 | 2025-06-27 |
 | [PATATA TORTILLA](https://open.spotify.com/track/26jlkM9Xg9oDhPPBptKOdl) | [DeTeresa](https://open.spotify.com/artist/31zeUTZRXGIPUzzszUm4FK) | [\(S\)PAIN](https://open.spotify.com/album/1iijRS98I4WjAcLpBp6yZB) | 2:36 | 2026-03-05 | 2026-03-13 |
 | [Patatas de chino](https://open.spotify.com/track/1zlTTbTEAhunokfJDAOUjT) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr) | [Patatas de chino](https://open.spotify.com/album/684ZvhyqUrLqIkFi3kSvBz) | 3:05 | 2025-07-04 | 2025-07-11 |
+| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-09-25 |  |
 | [PaToLasGyales](https://open.spotify.com/track/7AFCPBLMPF2SLHAPY5PMae) | [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [LOS ANGELITOS](https://open.spotify.com/album/3nlnOHjbXkkcXnMVeO4Hs5) | 3:38 | 2026-06-18 | 2026-06-26 |
 | [PATRONA](https://open.spotify.com/track/7y7NzMaaeT78ljVFGOALzU) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [PATRONA](https://open.spotify.com/album/42ezAHV90jXuRCgi94UTvf) | 2:45 | 2026-06-25 | 2026-07-03 |
 | [Pay That Toll](https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Pay That Toll](https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh) | 2:47 | 2026-08-27 | 2026-09-04 |
@@ -5043,7 +5044,7 @@
 | [Qué+Da](https://open.spotify.com/track/7jnQcaPFeF37CjAcyMdjkz) | [Chanela Clicka](https://open.spotify.com/artist/2RQCJUGP83CMLYttGm2Ypy), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Qué+Da](https://open.spotify.com/album/0cIuSzAChgpTzbmPf9LfTh) | 3:06 | 2025-05-29 | 2025-06-06 |
 | [Quédate a morir en esa vida](https://open.spotify.com/track/481GsUeV3oXheOmybGrzJO) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Quédate a morir en esa vida](https://open.spotify.com/album/0hlmYfMOxlO6lTuU84Vhfo) | 3:29 | 2026-07-02 | 2026-07-10 |
 | [Quédate conmigo hasta el amanecer](https://open.spotify.com/track/2DwS2IJswJygJy6J5YU9TO) | [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ) | [Quédate conmigo hasta el amanecer](https://open.spotify.com/album/2iE5hyRtQnjielyxKiC3kh) | 2:48 | 2026-04-02 | 2026-04-10 |
-| [Quédate en su voz \- Por Ellas Cadena 100](https://open.spotify.com/track/4ifom2idR21VmcMeB36AT9) | [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD) | [Quédate en su voz \(Por Ellas Cadena 100\)](https://open.spotify.com/album/6JigedhnBqWPhPHamvcU5n) | 4:01 | 2026-09-24 |  |
+| [Quédate en su voz](https://open.spotify.com/track/4ifom2idR21VmcMeB36AT9) | [Leire Martinez](https://open.spotify.com/artist/0B0esAjCSSwycZDx1bhpmD) | [Quédate en su voz](https://open.spotify.com/album/6JigedhnBqWPhPHamvcU5n) | 4:01 | 2026-09-24 |  |
 | [quédate esta noche](https://open.spotify.com/track/5r5eCQP0Y1E8XTin7m7Fgy) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [quédate esta noche](https://open.spotify.com/album/3gmU7vR51fcATZnJW2ZekQ) | 2:33 | 2025-08-28 | 2025-09-05 |
 | [Quédate Esta Noche](https://open.spotify.com/track/2dfay0fjY2Lgeof4GUChOg) | [Siloé](https://open.spotify.com/artist/5q3atpVIFpXkHlcOKyK0H4) | [Quédate Esta Noche](https://open.spotify.com/album/2FDRe9xchogHc9qf2B8b3t) | 3:35 | 2026-01-15 | 2026-01-23 |
 | [quémalo](https://open.spotify.com/track/190fhODebqheJJCtnILbHL) | [Carmen Ferre](https://open.spotify.com/artist/0YQ5lCNqrjymrsqmSn62YV), [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ) | [todo saldrá bien](https://open.spotify.com/album/5hlUNgUgQZd0TPH1KIjX5f) | 2:59 | 2026-09-18 | 2026-09-25 |

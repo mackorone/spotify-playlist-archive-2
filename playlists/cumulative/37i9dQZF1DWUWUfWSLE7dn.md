@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-221 songs - 11 hr 18 min
+222 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Sherwood Forest](https://open.spotify.com/track/51zjgYMqhtxjYckGppYoce) | [Marc Streitenfeld](https://open.spotify.com/artist/02qXVbvAMyWhdHb2GfUcXM) | [Robin Hood \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1QN1oNiNm33SVenYlW7ADL) | 2:19 | 2022-07-29 | 2024-04-19 |
 | [shimmer](https://open.spotify.com/track/5HEFeQwfpoXRQ6qWgCiBe7) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Once in a Lifetime](https://open.spotify.com/album/5oFBExdi3Xlfy4eMTdO9QE) | 2:18 | 2022-03-09 | 2022-11-09 |
 | [Sinfonia in B Minor](https://open.spotify.com/track/22Et1UbszIpkpzm1he39Sr) | [Tegelhof Kammerorchester](https://open.spotify.com/artist/4LDRtSFYN5nWkF52Wk5Bx7) | [Prelude and Sinfonia](https://open.spotify.com/album/7t6wKQwzM8DFIpieNeiuIT) | 2:37 | 2022-03-09 | 2022-11-09 |
+| [Sinfonietta, FP 141: III\. Andante cantabile](https://open.spotify.com/track/6gzOZHkt1UCiqXwu0ZiSXx) | [Francis Poulenc](https://open.spotify.com/artist/4IAWVxo2fpTBPn6k7GZ3eY), [ORF Radio\-Symphonieorchester Wien](https://open.spotify.com/artist/76MQAIy2SmztmEBSfbl6xp), [Simone Menezes](https://open.spotify.com/artist/4ubbGzHCtdRZstzzO5fbXj) | [Prokofiev — Villa\-Lobos — Poulenc](https://open.spotify.com/album/1HV0ltze2Bks9WPo4USXY3) | 7:14 | 2026-09-25 |  |
 | [Sleeping In Seattle](https://open.spotify.com/track/2uVHaRTe5hyGyASOXZcx9d) | [Max Ellion](https://open.spotify.com/artist/5ws4QOSnfOqKDBbNQEZXtg) | [Sleeping In Seattle](https://open.spotify.com/album/3H9duc8pePa97f1AWFjuIi) | 2:55 | 2022-03-09 | 2022-11-09 |
 | [Snape to Malfoy Manor](https://open.spotify.com/track/2qa4ObOcbA51uB9exCnZay) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6s9twOs9wMKOEluU5dkBE0) | 1:58 | 2024-08-23 |  |
 | [Snow Scene](https://open.spotify.com/track/6tlqa8M2qLusIX5eSG1fJQ) | [En Sollozos](https://open.spotify.com/artist/3aGdDLCXYoZixmZbIriJoE) | [Snow Scene](https://open.spotify.com/album/745UVNtTG3NGjMV85zFIld) | 3:01 | 2022-06-10 | 2022-11-09 |

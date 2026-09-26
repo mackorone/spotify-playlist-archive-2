@@ -4,7 +4,7 @@
 
 > \#fyp
 
-1,215 songs - 2 day 14 hr 48 min
+1,216 songs - 2 day 14 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Big mama](https://open.spotify.com/track/1TXuor1bUOZQnWrksFoccd) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Jeunesse Dorée](https://open.spotify.com/album/2W8FV0Qcb6DsyZWFWPVTD3) | 2:24 | 2025-10-13 | 2026-01-15 |
 | [Billet](https://open.spotify.com/track/0AYCidYCYS3NUcRCcMip1a) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV) | [Loud](https://open.spotify.com/album/3yk6eaVohNwQAXjcdfP0KV) | 2:59 | 2026-04-30 | 2026-07-17 |
 | [Billie Jean](https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:53 | 2026-04-28 | 2026-07-10 |
+| [BIR HAKEIM](https://open.spotify.com/track/7kn0PLcflNzx1tC2dRm0BX) | [Cherry Pie](https://open.spotify.com/artist/6CLK013UumRbFXYJIYvRnz) | [BIR HAKEIM](https://open.spotify.com/album/4bXz2X0dtOv60AdBf1TcB9) | 4:03 | 2026-09-25 |  |
 | [Bisous Mwa](https://open.spotify.com/track/4vcZL3UwIGaycYYGWkRgAH) | [Misu Na Misu](https://open.spotify.com/artist/5ZB7FUPkLGJMGqtltU3DjA), [Yaskaa D Yaskii](https://open.spotify.com/artist/1YQAmcZH6kZBaMb7IySYTD), [Djemso](https://open.spotify.com/artist/6Q2cBl4ImaizPVB4qRWbRX) | [Bisous Mwa](https://open.spotify.com/album/2xvTPloz0AfVqfNT1IzHaX) | 2:47 | 2025-02-21 | 2025-05-03 |
 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 | 2024-01-26 | 2024-02-17 |
 | [BLOQUÉ](https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [BLOQUÉ](https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL) | 3:21 | 2025-12-12 | 2026-03-28 |
@@ -1125,7 +1126,7 @@
 | [Tout y est](https://open.spotify.com/track/1W2zRAejDGNLqtqXpcrhVw) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi), [Jozii](https://open.spotify.com/artist/1nDtmYJmQcZEXU56pz5R9d) | [Tout y est](https://open.spotify.com/album/245xn3XplCs6PHCiBk3dBU) | 2:47 | 2024-07-25 | 2024-09-18 |
 | [Toute la nuit](https://open.spotify.com/track/4kzHds1mgNB0kuCLHeOGiV) | [GP Explorer](https://open.spotify.com/artist/70uVwDuiOTyZqm8Ik2rk7O), [Anyme023](https://open.spotify.com/artist/2XoNHBh5o3I1Niqsr5uA3P) | [Toute la nuit](https://open.spotify.com/album/0GNUPfnVUIn0Pbm3KLB8NS) | 3:18 | 2025-10-08 | 2026-02-21 |
 | [Toxic Boy](https://open.spotify.com/track/2HbIEJRofkF6QwhwF3FDCk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide](https://open.spotify.com/album/7xZ9nd2ZAoEUDVd0R96yEU) | 3:33 | 2025-10-10 | 2025-12-24 |
-| [Training Season](https://open.spotify.com/track/3LX8cHzqTzkAiKkT5F36wg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/5wGVLpW3wuGqzBy6zl1OTJ) | 3:29 | 2026-08-28 |  |
+| [Training Season](https://open.spotify.com/track/3LX8cHzqTzkAiKkT5F36wg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/5wGVLpW3wuGqzBy6zl1OTJ) | 3:29 | 2026-08-28 | 2026-09-26 |
 | [Trap Queen](https://open.spotify.com/track/0TzxcB6dK46vgXZT2P8qeR) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap](https://open.spotify.com/album/1wCr7zhB4lMa2vZVhu4ty6) | 3:42 | 2025-03-21 | 2025-06-21 |
 | [Triste everyday](https://open.spotify.com/track/0Y8SAJX7NICrCgiAwwcYJN) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:21 | 2026-01-09 | 2026-05-06 |
 | [Trop parler](https://open.spotify.com/track/403UULZfsCNgiCJlf7kii4) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Trop parler](https://open.spotify.com/album/6Qeq7qS0CVx0s81e0eftvY) | 3:03 | 2023-08-25 | 2024-02-03 |

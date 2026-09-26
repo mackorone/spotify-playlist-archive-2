@@ -1,15 +1,15 @@
 {
   "description": "The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Camilo",
-  "num_followers": 50813,
+  "num_followers": 50792,
   "original_name": "LATIN POP HITS 2026 - \u00c9xitos del Pop Latino",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAAVmu1B48JPD01SwU8Gm6X7kM3GCKXa",
+  "snapshot_id": "AAAVoRqZW0qNA2NOIDDQ06CbqGEzAiKP",
   "tracks": [
     {
-      "added_at": "2026-09-10 15:55:52",
+      "added_at": "2026-09-18 13:58:11",
       "album": {
         "name": "Para Cuando Sean Mayores",
         "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
@@ -18,11 +18,15 @@
         {
           "name": "Camilo",
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
         }
       ],
-      "duration_ms": 148720,
-      "name": "Chiquita",
-      "url": "https://open.spotify.com/track/33NgMBpGrhqLcsmWcpSYot"
+      "duration_ms": 203480,
+      "name": "La Medalla",
+      "url": "https://open.spotify.com/track/3xXf2AMnx9a8ArfpsOW2Td"
     },
     {
       "added_at": "2026-09-18 15:00:45",
@@ -105,6 +109,22 @@
       "url": "https://open.spotify.com/track/0722nt9nR0eOuSEll5WtgK"
     },
     {
+      "added_at": "2026-09-25 14:50:24",
+      "album": {
+        "name": "LA DEL ARROBA",
+        "url": "https://open.spotify.com/album/5tZ42w63Q1toMoxeqIBbiJ"
+      },
+      "artists": [
+        {
+          "name": "DOME",
+          "url": "https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5"
+        }
+      ],
+      "duration_ms": 161699,
+      "name": "@INCONDICIONAL",
+      "url": "https://open.spotify.com/track/5p4tICGqsPT20mXiKgt534"
+    },
+    {
       "added_at": "2026-09-10 16:06:26",
       "album": {
         "name": "ReVivo",
@@ -141,26 +161,6 @@
       "url": "https://open.spotify.com/track/1D9HeHrfmxYBtxswHTOAnM"
     },
     {
-      "added_at": "2026-09-18 13:58:11",
-      "album": {
-        "name": "Para Cuando Sean Mayores",
-        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 203480,
-      "name": "La Medalla",
-      "url": "https://open.spotify.com/track/3xXf2AMnx9a8ArfpsOW2Td"
-    },
-    {
       "added_at": "2025-11-21 12:14:40",
       "album": {
         "name": "FEMME FATALE",
@@ -191,6 +191,38 @@
       "duration_ms": 183529,
       "name": "SUPERESTRELLA",
       "url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47"
+    },
+    {
+      "added_at": "2026-09-25 14:38:13",
+      "album": {
+        "name": "PLAYA FR\u00cdA",
+        "url": "https://open.spotify.com/album/7hbGSxtsZWVfuJ7pJkgmI2"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 128888,
+      "name": "PLAYA FR\u00cdA",
+      "url": "https://open.spotify.com/track/4aKRWHJbiu8kFNow0o9JUS"
+    },
+    {
+      "added_at": "2026-09-10 15:55:52",
+      "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 148720,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/33NgMBpGrhqLcsmWcpSYot"
     },
     {
       "added_at": "2026-07-31 12:22:06",

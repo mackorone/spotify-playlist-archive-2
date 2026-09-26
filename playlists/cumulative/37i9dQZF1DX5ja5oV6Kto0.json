@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "0pay",
+        "url": "https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub"
+      },
+      "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159272,
+      "name": "0pay",
+      "url": "https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO"
+    },
+    {
+      "album": {
         "name": "1 of 1",
         "url": "https://open.spotify.com/album/007o96OdGuH17jGD1SSVV3"
       },
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 148636,
       "name": "Big Bad World",
       "url": "https://open.spotify.com/track/5TPAFz0dbYfWSEcDOKUYBc"

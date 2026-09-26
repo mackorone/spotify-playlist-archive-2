@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Anuel, ROA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,358 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,319 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 34 | [TU DÚO FAVORITO](https://open.spotify.com/track/2PgzfI3gOPNZqC2hzI2KnK) | [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [EL VENDEDOR DE ROSAS](https://open.spotify.com/album/0BfyrvKdq69jR1HuHEn6cR) | 2:51 |
 | 35 | [POR TI](https://open.spotify.com/track/3Ip1sc72P5uz8BUB9kb4QQ) | [Yapi](https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn), [SOUNDPLUG](https://open.spotify.com/artist/3V27gyl5V5dvei7a0U8zuX) | [POR TI](https://open.spotify.com/album/0NnW0UN9DFuNIzJHgUdaJa) | 1:55 |
 | 36 | [NYX00 \(with JC Reyes\)](https://open.spotify.com/track/0FI11LoJ41qud3TkFEYlzI) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [NYX00 \(with JC Reyes\)](https://open.spotify.com/album/76vkxtGwUplBS3sW3doHK8) | 3:00 |
-| 37 | [Manhattan II](https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Manhattan II](https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0) | 2:15 |
+| 37 | [Manhattan II](https://open.spotify.com/track/4iK6DxY48lY27FHklxpEGY) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Mr\. Goat](https://open.spotify.com/artist/2BDwUsmUVYMAa6lMc4Bbt9) | [Manhattan II](https://open.spotify.com/album/2Se1qWIRcHDKlX8F1rfYS0) | 2:15 |
 | 38 | [Baby Lover](https://open.spotify.com/track/3kWMm2iFysQf0j1857c1vk) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Real G4 Life Vol\. 3](https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0) | 3:14 |
 | 39 | [666](https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [666](https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL) | 2:20 |
 | 40 | [Fantasia](https://open.spotify.com/track/2cu9stofbXbOFmaIFJzItd) | [Xiyo](https://open.spotify.com/artist/2FzRIRtYVDBIJBvTqh7xzQ), [Fernandezz](https://open.spotify.com/artist/7mVQGK5j4VKkAvdOhUotB1), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk) | [Belladonna](https://open.spotify.com/album/279QwBqCJMO7irKwrB7024) | 4:02 |

@@ -1,13 +1,49 @@
 {
   "description": "Be inspired and let the music heal your soul and uplift your spirits.",
-  "num_followers": 50145,
+  "num_followers": 50147,
   "original_name": "Sing His Praises",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALpsEIWx7z6oDLCpfoO744g6+MQb",
+  "snapshot_id": "AAAAAFoGPHXl8iRo8y6ySLCzpw6JRLyR",
   "tracks": [
+    {
+      "added_at": "2026-09-25 05:46:54",
+      "album": {
+        "name": "Inakay Mo, Niyakap Mo",
+        "url": "https://open.spotify.com/album/7qCO9sdEpu8pa3VbuKpLQw"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Querubin",
+          "url": "https://open.spotify.com/artist/6af6ThbIjS7M2ahGkrnukn"
+        }
+      ],
+      "duration_ms": 319162,
+      "name": "Inakay Mo, Niyakap Mo",
+      "url": "https://open.spotify.com/track/5H1eIXA6hdThUOOHfRCzXU"
+    },
+    {
+      "added_at": "2026-09-25 05:46:54",
+      "album": {
+        "name": "Ikaw ay Tapat",
+        "url": "https://open.spotify.com/album/4L66Fy707bC3rvgYI5qgoj"
+      },
+      "artists": [
+        {
+          "name": "Forever Worship",
+          "url": "https://open.spotify.com/artist/7f436MInRRQXriBEuwgn6I"
+        },
+        {
+          "name": "Jaira Magtibay",
+          "url": "https://open.spotify.com/artist/4RwyVE9J4h6KUDVasvGeT8"
+        }
+      ],
+      "duration_ms": 344577,
+      "name": "Ikaw ay Tapat",
+      "url": "https://open.spotify.com/track/0pivMwxkLegJVpYV0ukKyW"
+    },
     {
       "added_at": "2026-09-04 02:00:13",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 Capo, Jimmy Guzman,  Esteban Gonz\u00e1lez bufando",
+  "description": "Mi gusto, mi estilo mi flow, puro perreo Mexa, beb\u00e9 \ud83c\udf51 El Bogueto Chakal bufando",
   "name": "Reggaet\u00f3n Mexa ",
   "tracks": [
     {
@@ -712,7 +712,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 158181,
       "name": "A Solas",
       "url": "https://open.spotify.com/track/6mOaJN1BXMw5VqfTQ35IDl"
@@ -4620,7 +4620,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 177061,
       "name": "Cochinola",
       "url": "https://open.spotify.com/track/3wgY2lmmvDkTRlecd2zYJf"
@@ -6706,7 +6706,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 148995,
       "name": "DISCOTEKA",
       "url": "https://open.spotify.com/track/7k2qFJuwJsbr0oPWLX8VPq"
@@ -7898,7 +7898,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 185567,
       "name": "Es Triiste",
       "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
@@ -10372,6 +10372,28 @@
       "duration_ms": 170756,
       "name": "Jordan de Caja",
       "url": "https://open.spotify.com/track/05awDtzoODiJmHdZ2TjPpo"
+    },
+    {
+      "album": {
+        "name": "JOSSE\u00c1NDOLE",
+        "url": "https://open.spotify.com/album/4FRXubqodRVqa6PYOSD9qs"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164400,
+      "name": "JOSSE\u00c1NDOLE",
+      "url": "https://open.spotify.com/track/6uslmL0DhpAOloHi7p5XKC"
     },
     {
       "album": {
@@ -16085,6 +16107,28 @@
     },
     {
       "album": {
+        "name": "No Quiere Salir",
+        "url": "https://open.spotify.com/album/2uqpfbEYw8AMnLxGtqMjUg"
+      },
+      "artists": [
+        {
+          "name": "Millonario",
+          "url": "https://open.spotify.com/artist/2N2aJ1SXQxMkhHD8C6fhYD"
+        },
+        {
+          "name": "Asmed",
+          "url": "https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209520,
+      "name": "No Quiere Salir",
+      "url": "https://open.spotify.com/track/4D7e8opeFSkFhXQXXZey3a"
+    },
+    {
+      "album": {
         "name": "No te conozco",
         "url": "https://open.spotify.com/album/6y0kbWolGVyrTTrvuTtIdi"
       },
@@ -20945,6 +20989,28 @@
     },
     {
       "album": {
+        "name": "R\u00e1pido a lo Flash",
+        "url": "https://open.spotify.com/album/6t7lYcFpWMdzFZKREbm34g"
+      },
+      "artists": [
+        {
+          "name": "Zkinny",
+          "url": "https://open.spotify.com/artist/0d79jnh3olMERKXkRefiHO"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181283,
+      "name": "R\u00e1pido a lo Flash",
+      "url": "https://open.spotify.com/track/5yXAU5pNqlO7uLL8RASlUR"
+    },
+    {
+      "album": {
         "name": "S+S",
         "url": "https://open.spotify.com/album/1hvPHKBq7EU0W4vX0dOdF3"
       },
@@ -21560,7 +21626,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 218633,
       "name": "Sexxo",
       "url": "https://open.spotify.com/track/3oqIWPMwGYRaQDowdVcjR8"
@@ -23636,6 +23702,24 @@
       "duration_ms": 121800,
       "name": "TiTis",
       "url": "https://open.spotify.com/track/5sviOHka5WMyKidQCSdFNa"
+    },
+    {
+      "album": {
+        "name": "Todas Mienten",
+        "url": "https://open.spotify.com/album/5YKn74xV5MR54EzNiGiovW"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162666,
+      "name": "Todas Mienten",
+      "url": "https://open.spotify.com/track/1i4YutNLLzUJ8iyWLp3Yfe"
     },
     {
       "album": {
@@ -25988,6 +26072,28 @@
       "duration_ms": 234947,
       "name": "XQTECE?",
       "url": "https://open.spotify.com/track/3Snm7CC9FhqAOeGa3RuFNN"
+    },
+    {
+      "album": {
+        "name": "Y dice 12345",
+        "url": "https://open.spotify.com/album/7vnRVviDrF3Vtb9b4Qhg2I"
+      },
+      "artists": [
+        {
+          "name": "Alnz G",
+          "url": "https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf"
+        },
+        {
+          "name": "Kinto Piso",
+          "url": "https://open.spotify.com/artist/7fmF1cxEVCz8Ais01qrJwH"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137528,
+      "name": "Y dice 12345",
+      "url": "https://open.spotify.com/track/6BdgLdXRw9DcC2o1RcPsDh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > 🍾
 
-303 songs - 17 hr 15 min
+305 songs - 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Come and Get Your Love \- Single Version](https://open.spotify.com/track/7GVUmCP00eSsqc4tzj1sDD) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Come and Get Your Love](https://open.spotify.com/album/5Gf5m9M6RiK2lkjpbP0xRu) | 3:25 | 2023-01-04 | 2024-12-07 |
 | [Comme si comme ça](https://open.spotify.com/track/7rNi8chU9oL22ArTxDneFN) | [Gozze](https://open.spotify.com/artist/6UgbULjRAY4P8xJasrVCgA) | [Comme si comme ça](https://open.spotify.com/album/0ZJXUTUrcQdaSbPessy1ti) | 2:32 | 2025-10-02 | 2025-11-07 |
 | [Connection](https://open.spotify.com/track/6Q6aBwbKLh3SBbFiQce1YK) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [10 Tracks to Echo in the Dark](https://open.spotify.com/album/4aHwEq65yWoM0KQkaE1Dsv) | 3:45 | 2022-12-08 | 2023-01-05 |
+| [COULEUR VANILLE](https://open.spotify.com/track/7ED9Upg95GqWssitj6yh7Z) | [Odetto](https://open.spotify.com/artist/24VFUtoeBmyKFwkl2pVtHF) | [C'EST BLEU L'AMOUR](https://open.spotify.com/album/1QkFwwJWmzmNVBUlATpX43) | 3:52 | 2026-09-25 |  |
 | [coup de vent](https://open.spotify.com/track/7bgL5HIj6yUwrew8SyVK20) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [coup de vent](https://open.spotify.com/album/6beHhebz4qt4kmCmbFEvAh) | 3:40 | 2025-11-20 | 2025-11-29 |
 | [Daddy](https://open.spotify.com/track/4NuHkMJ4V4MKv0U9GuVvPJ) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Phoenix](https://open.spotify.com/album/2jpQor1ZFocZF7Io0eI8mR) | 2:50 | 2022-12-08 | 2023-06-10 |
 | [Daydreaming](https://open.spotify.com/track/69w5X6uTrOaWM32IetSzvO) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:07 | 2022-12-08 | 2024-03-23 |
@@ -90,7 +91,7 @@
 | [Edge of Desire](https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm) | [Edge of Desire](https://open.spotify.com/album/53b1lFTsC7lV3pieOFYZ9i) | 2:14 | 2025-07-18 |  |
 | [Escapee](https://open.spotify.com/track/4ENHZdi8sqEtVZiltkPZig) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Moment Bends](https://open.spotify.com/album/6dlzzPf1VybEx2JI8tphXo) | 2:57 | 2022-12-08 | 2023-09-23 |
 | [Eté 90](https://open.spotify.com/track/1p9dxTMtG4gZpLp7yzvT54) | [Therapie TAXI](https://open.spotify.com/artist/5MynxBz4ZMqvUzpcxTZl4C) | [Rupture 2 merde](https://open.spotify.com/album/7gKZ1HukHMcMI5PYQNMIWy) | 3:12 | 2022-12-08 | 2023-09-23 |
-| [Evelyn](https://open.spotify.com/track/5i4UA4g228xnpaT3s5N6Wi) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266), [Modern Living](https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9) | [Evelyn](https://open.spotify.com/album/5v1cWxcIv2WJdSoFo0TCZY) | 4:02 | 2026-06-12 |  |
+| [Evelyn](https://open.spotify.com/track/5i4UA4g228xnpaT3s5N6Wi) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266), [Modern Living](https://open.spotify.com/artist/3rtmhk7q9YhsFeQXF639G9) | [Evelyn](https://open.spotify.com/album/5v1cWxcIv2WJdSoFo0TCZY) | 4:02 | 2026-06-12 | 2026-09-26 |
 | [Every City Has a Rhythm](https://open.spotify.com/track/60RdcbaDxLrWs6m3y5vbAj) | [Lucas/Heaven](https://open.spotify.com/artist/599Nb6RNfq6sKpgVamulJT) | [Blues of the World](https://open.spotify.com/album/1FaopXOLIITSKrkzjxrOU2) | 4:20 | 2022-12-08 | 2023-09-23 |
 | [Everyone Moves To LA \(feat\. Felicia Douglass\)](https://open.spotify.com/track/2UauebcRqmfb6NXRxBF5Re) | [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR), [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Felicia Douglass](https://open.spotify.com/artist/3uKe1tF6HSEHFFKfHgpGnj) | [CLUSTERFUNK](https://open.spotify.com/album/4iLyenp5vruRWu6tgV03WT) | 3:57 | 2023-04-28 | 2026-09-04 |
 | [Fade Out Lines \- The Avener Rework](https://open.spotify.com/track/1zcblo8rJJqbUScTzNAayv) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT) | [Eclectic Dining](https://open.spotify.com/album/5nPMaHwFKXIe77Kpwm3KBq) | 4:36 | 2023-12-01 | 2024-01-29 |
@@ -130,6 +131,7 @@
 | [Heartbeat](https://open.spotify.com/track/0LF31JzVi4GSthMthWoHIE) | [Plaisance](https://open.spotify.com/artist/21LpA1uYZ28gFWyXueXGMu), [Quiet Blue](https://open.spotify.com/artist/2Wid46wTM2efkNxWhmVqpf) | [Fallin'](https://open.spotify.com/album/2ckOSr74FyVnYd6a4nsXyY) | 4:00 | 2026-07-24 |  |
 | [Heartstrings](https://open.spotify.com/track/15Kj37bbsZIhr0NohlCTpw) | [Victor Marc](https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX) | [Heartstrings](https://open.spotify.com/album/6kTo4iuBmoNfHO0yEpLWDs) | 3:48 | 2025-06-05 | 2025-06-21 |
 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 | 2022-12-08 | 2023-03-25 |
+| [Heavenly Sea](https://open.spotify.com/track/2Dypv6hOMF9aooaL4Vg47V) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [EVA](https://open.spotify.com/artist/0v6LuGKJtBASsQuJVSf0K0) | [Heavenly Sea](https://open.spotify.com/album/7e4HuwUijm4aFa721ixfBU) | 3:13 | 2026-09-25 |  |
 | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 | 2023-09-22 |  |
 | [Hey You](https://open.spotify.com/track/33wtOrINFmeERJsRPfoSVw) | [Pony Pony Run Run](https://open.spotify.com/artist/6RXZaVIbZfdngXJOSGrVH3) | [Hey You](https://open.spotify.com/album/5U6J7r8KVcCoQzyaRZVkFi) | 3:12 | 2022-12-08 | 2023-09-23 |
 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 | 2022-12-08 | 2023-07-29 |
@@ -197,7 +199,7 @@
 | [Nu Lova](https://open.spotify.com/track/5a0GDt1xtU00fGHbXHFfon) | [NoMBe](https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw) | [Nu Lova](https://open.spotify.com/album/75c5XqGFHh1SG809KlXhFj) | 3:22 | 2024-12-06 | 2025-02-21 |
 | [Nue](https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire \(Réédition\)](https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd) | 3:04 | 2023-01-04 | 2024-09-21 |
 | [Nuit sauvage](https://open.spotify.com/track/7zbOsTSAkfLuf7865DYbai) | [ELISA ERKA](https://open.spotify.com/artist/1EkqwqtzsjxMYJZH73RFVM), [SOLEIL ROUGE](https://open.spotify.com/artist/2Trhtz39560UW6C8EXSrrI) | [Nuit sauvage](https://open.spotify.com/album/3GYhCAFqT7Rkh7WMthR7Rw) | 2:31 | 2025-08-28 |  |
-| [Off The Ground](https://open.spotify.com/track/3yIGWpmhul23xz9C3PXPQ2) | [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Off The Ground](https://open.spotify.com/album/689JJdi5MRiutt90NzEVOv) | 2:32 | 2025-06-05 |  |
+| [Off The Ground](https://open.spotify.com/track/3yIGWpmhul23xz9C3PXPQ2) | [HolyBrune](https://open.spotify.com/artist/2L3geJ3pFSYkXI8RdOFQfj) | [Off The Ground](https://open.spotify.com/album/689JJdi5MRiutt90NzEVOv) | 2:32 | 2025-06-05 | 2026-09-26 |
 | [Open Sky](https://open.spotify.com/track/3ZLVL6pHNwKUNAbj2rwn28) | [Ashel](https://open.spotify.com/artist/0uQmXAc9TJ42Te5soOJvkT) | [Open Sky](https://open.spotify.com/album/7EKjOk98JB2krF2DVA1X7m) | 2:16 | 2026-03-06 | 2026-05-01 |
 | [Ordinary Love](https://open.spotify.com/track/2ZFY0GxSVogl6wppoUMiQp) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Embrace](https://open.spotify.com/album/1JiflktVuDJ5OQkX6QFQRs) | 4:23 | 2023-09-22 | 2024-04-19 |
 | [Ordinary Love](https://open.spotify.com/track/7Ax5HJX8qYd6HVceODiGHA) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Ordinary Love](https://open.spotify.com/album/5Gy5KkdRH0VJV9YGOUuQjt) | 4:23 | 2023-06-09 |  |

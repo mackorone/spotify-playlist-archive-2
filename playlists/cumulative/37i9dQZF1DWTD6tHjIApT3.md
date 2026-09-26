@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: LANA
 
-3,889 songs - 10 day 7 hr 20 min
+3,890 songs - 10 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2191,7 +2191,7 @@
 | [Wonderful Days \- feat.Jan](https://open.spotify.com/track/2ptgJKRPCgVI1iI4w5KcaU) | [GIRA MUNDO](https://open.spotify.com/artist/62Va8ffu6xF2kgP4oqHBkW), [Jan](https://open.spotify.com/artist/4PjXq1smNWJ32ixoXMlgGQ) | [Wonderful Days \(feat.Jan\)](https://open.spotify.com/album/4cgRCUJjioyKM0JEr8dekI) | 3:39 | 2024-04-16 | 2024-04-24 |
 | [Wonderland](https://open.spotify.com/track/394oCRuzRAlpjgWhYE0Z2X) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Wonderland](https://open.spotify.com/album/1JOeGgY4MCY2LbvoCvCxma) | 4:17 | 2022-06-02 | 2022-07-21 |
 | [wonderland](https://open.spotify.com/track/2ZprfZxepqebe1iIuyFK37) | [yukaDD](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe) | [wonderland](https://open.spotify.com/album/1utyCLbWwQ4hW21s5Wbhsk) | 2:48 | 2024-05-21 | 2024-05-29 |
-| [Words to Follow](https://open.spotify.com/track/1NaLmLLhaM6EtTxHvbFffz) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Words to Follow](https://open.spotify.com/album/7nGlLqnNc3AffIsZGLH9eP) | 3:11 | 2026-04-07 |  |
+| [Words to Follow](https://open.spotify.com/track/1NaLmLLhaM6EtTxHvbFffz) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Words to Follow](https://open.spotify.com/album/7nGlLqnNc3AffIsZGLH9eP) | 3:11 | 2026-04-07 | 2026-09-26 |
 | [WORLD DANCE](https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORLD DANCE](https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1) | 3:41 | 2023-08-15 | 2023-10-13 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-30 | 2023-07-05 |
 | [Wren](https://open.spotify.com/track/4251HZQieHxgvAH6D7v8U5) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f) | 3:07 | 2024-08-27 | 2024-11-13 |
@@ -2641,6 +2641,7 @@
 | [カントリー・ロード](https://open.spotify.com/track/6M1EKXEkTd6LqJCAoJnrP5) | [のん×SOIL&”PIMP”SESSIONS](https://open.spotify.com/artist/144DKrBPPXLhf7o5WO5Nqx), [NON](https://open.spotify.com/artist/4YRx01IyUq6BreGGtNHQQk), [SOIL & “PIMP” SESSIONS](https://open.spotify.com/artist/5COMNbVWoe1Kb5UTFAaUwF) | [スタジオジブリトリビュートアルバム「ジブリをうたう その2」](https://open.spotify.com/album/4aSh6EozLaP8nPrgvSpazt) | 3:31 | 2026-02-24 | 2026-03-04 |
 | [カーニバル](https://open.spotify.com/track/0AeRBtvSVRgoOOqH6wpVj7) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [カーニバル](https://open.spotify.com/album/07gRQAuJ9IQerIveLKsDkS) | 3:31 | 2025-06-03 | 2025-07-14 |
 | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/track/0eiwO4ew5VzzjL9fsrUE1N) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [ガジュマル ～Heaven in the Rain～](https://open.spotify.com/album/7DeRNe0Pzmyb07YCsTjjC1) | 4:59 | 2024-01-09 | 2025-02-05 |
+| [ガムシャラ](https://open.spotify.com/track/0xkIeSkx5g5UwP8wnsw3f5) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [ガムシャラ](https://open.spotify.com/album/3yMLvnj2odPbafzUUv9Ql9) | 3:35 | 2026-09-22 |  |
 | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/track/1oYLlpOQv3LrykfZDyizun) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB), [lily wii!](https://open.spotify.com/artist/4S393iGKVn1I0Kro8MD4BP) | [ガールフレンド・オブ・ザ・デッド!](https://open.spotify.com/album/1oDCKrs5Xg8rX1uij43sBK) | 3:35 | 2022-06-28 | 2022-07-13 |
 | [キウい](https://open.spotify.com/track/721tYpZ72AasqfK7oXYseX) | [一寸先闇バンド](https://open.spotify.com/artist/08KCxeR1XesZZqWkgG9Fas) | [ひねもす](https://open.spotify.com/album/2jQk4cwDoQN2BlKAthTeOa) | 2:55 | 2026-02-24 | 2026-03-04 |
 | [キオクの狭間](https://open.spotify.com/track/2tYxJiNdsf94gtraX8noZX) | [marble](https://open.spotify.com/artist/2dc5blvdybsdWvxEeGAbie) | [キオクの狭間](https://open.spotify.com/album/4aPoxmq4aYUBjDlmT9VtWV) | 5:29 | 2022-09-15 | 2022-09-28 |

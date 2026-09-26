@@ -1227,6 +1227,28 @@
     },
     {
       "album": {
+        "name": "Piano Chronicles (Live)",
+        "url": "https://open.spotify.com/album/1yK9i6go10B94r2uH0oyQj"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kit Armstrong",
+          "url": "https://open.spotify.com/artist/1FfN1mD94wKl0ozsfpOD43"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217746,
+      "name": "Erbarm dich mein, o Herre Gott, BWV 721 - Live",
+      "url": "https://open.spotify.com/track/5yYYMovULlwZkyeLOOHQCv"
+    },
+    {
+      "album": {
         "name": "Opus 7 for String Quintet",
         "url": "https://open.spotify.com/album/62woVfY3frYJwvYajDe9Co"
       },

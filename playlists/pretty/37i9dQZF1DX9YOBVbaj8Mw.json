@@ -1,6 +1,6 @@
 {
   "description": "Pos\u0142uchaj zwyci\u0119zc\u00f3w i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 20429,
+  "num_followers": 20426,
   "original_name": "Fryderyk 2026",
   "owner": {
     "name": "Spotify",
@@ -1159,38 +1159,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Tequila Songs & Desert Winds",
-        "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
-      },
-      "artists": [
-        {
-          "name": "Corruption",
-          "url": "https://open.spotify.com/artist/3IWOunWztg9lrQ4QyA3nGD"
-        }
-      ],
-      "duration_ms": 218193,
-      "name": "Tequila, Mezcal",
-      "url": "https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "CITY CLUSTER",
-        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 FOX Kr\u00f3l",
-          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
-        }
-      ],
-      "duration_ms": 253000,
-      "name": "UP & DOWN",
-      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Agma",
         "url": "https://open.spotify.com/album/4AQeD34OK5WncJ4yzOpJOk"
       },
@@ -1219,6 +1187,38 @@
       "duration_ms": 421000,
       "name": "Sacred",
       "url": "https://open.spotify.com/track/5pXascPOOGTfedZSAkxQlg"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Tequila Songs & Desert Winds",
+        "url": "https://open.spotify.com/album/1oH0rDXXFWqpn2Bkdgil3F"
+      },
+      "artists": [
+        {
+          "name": "Corruption",
+          "url": "https://open.spotify.com/artist/3IWOunWztg9lrQ4QyA3nGD"
+        }
+      ],
+      "duration_ms": 218193,
+      "name": "Tequila, Mezcal",
+      "url": "https://open.spotify.com/track/7xrvlfztFkz35612nYlHHz"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "CITY CLUSTER",
+        "url": "https://open.spotify.com/album/3AnVflrT0bjMfbEGKsFfuU"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 FOX Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/5sQT3ksKgSbif3ykU1tMek"
+        }
+      ],
+      "duration_ms": 253000,
+      "name": "UP & DOWN",
+      "url": "https://open.spotify.com/track/6tfwKz3crWeA0PIF5OnS4F"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1255,6 +1255,38 @@
       "duration_ms": 302513,
       "name": "Tisra for Zawinul (feat. Bodek Janke)",
       "url": "https://open.spotify.com/track/7MNT9fWxScxpQInHFaasdr"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "Agma",
+        "url": "https://open.spotify.com/album/4AQeD34OK5WncJ4yzOpJOk"
+      },
+      "artists": [
+        {
+          "name": "Szymon Mika",
+          "url": "https://open.spotify.com/artist/7kn4iVkwF5H5NUqc027hHW"
+        },
+        {
+          "name": "Song Yi Jeon",
+          "url": "https://open.spotify.com/artist/17v2MwiC7Seq23J5tByGoa"
+        },
+        {
+          "name": "Oskar T\u00f6r\u00f6k",
+          "url": "https://open.spotify.com/artist/6ggig1QTrvv08jV2Q92vhs"
+        },
+        {
+          "name": "Andrzej \u015awi\u0119s",
+          "url": "https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC"
+        },
+        {
+          "name": "Peter Somos",
+          "url": "https://open.spotify.com/artist/4jHzxxSHEp8zYuAYve98eB"
+        }
+      ],
+      "duration_ms": 514000,
+      "name": "Reinvented",
+      "url": "https://open.spotify.com/track/6bkCoSWdt9XzZ5sJSv7Jvg"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1315,74 +1347,6 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Agma",
-        "url": "https://open.spotify.com/album/4AQeD34OK5WncJ4yzOpJOk"
-      },
-      "artists": [
-        {
-          "name": "Szymon Mika",
-          "url": "https://open.spotify.com/artist/7kn4iVkwF5H5NUqc027hHW"
-        },
-        {
-          "name": "Song Yi Jeon",
-          "url": "https://open.spotify.com/artist/17v2MwiC7Seq23J5tByGoa"
-        },
-        {
-          "name": "Oskar T\u00f6r\u00f6k",
-          "url": "https://open.spotify.com/artist/6ggig1QTrvv08jV2Q92vhs"
-        },
-        {
-          "name": "Andrzej \u015awi\u0119s",
-          "url": "https://open.spotify.com/artist/2ySLf2vBugWqJUuXExI8rC"
-        },
-        {
-          "name": "Peter Somos",
-          "url": "https://open.spotify.com/artist/4jHzxxSHEp8zYuAYve98eB"
-        }
-      ],
-      "duration_ms": 514000,
-      "name": "Reinvented",
-      "url": "https://open.spotify.com/track/6bkCoSWdt9XzZ5sJSv7Jvg"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "neurodivergent",
-        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
-      },
-      "artists": [
-        {
-          "name": "Aga Derlak",
-          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
-        }
-      ],
-      "duration_ms": 189475,
-      "name": "number 4",
-      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
-        "name": "No Return No Karma",
-        "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Bara\u0144ski",
-          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
-        },
-        {
-          "name": "Kuba Badach",
-          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
-        }
-      ],
-      "duration_ms": 350390,
-      "name": "Ballada (feat. Kuba Badach)",
-      "url": "https://open.spotify.com/track/0Okn9ZO2UnLZKqflhjZLm3"
-    },
-    {
-      "added_at": "2026-05-26 09:05:26",
-      "album": {
         "name": "Fallen Angel",
         "url": "https://open.spotify.com/album/1G84svAz13TPJdzEIPNOmV"
       },
@@ -1407,6 +1371,42 @@
       "duration_ms": 188516,
       "name": "Fallen Angel: IV. Fire",
       "url": "https://open.spotify.com/track/77FPbX7cVpo3S35cmHfrhZ"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "No Return No Karma",
+        "url": "https://open.spotify.com/album/6UO4PU9xukOuML8enQAEBB"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Bara\u0144ski",
+          "url": "https://open.spotify.com/artist/6oH0zM5dxLJn7DSHsKuM0A"
+        },
+        {
+          "name": "Kuba Badach",
+          "url": "https://open.spotify.com/artist/5370ZRL4QLnYElDr8sjDzC"
+        }
+      ],
+      "duration_ms": 350390,
+      "name": "Ballada (feat. Kuba Badach)",
+      "url": "https://open.spotify.com/track/0Okn9ZO2UnLZKqflhjZLm3"
+    },
+    {
+      "added_at": "2026-05-26 09:05:26",
+      "album": {
+        "name": "neurodivergent",
+        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
+      },
+      "artists": [
+        {
+          "name": "Aga Derlak",
+          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
+        }
+      ],
+      "duration_ms": 189475,
+      "name": "number 4",
+      "url": "https://open.spotify.com/track/4ibIVReoP9Kv7EOLKiSato"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "neurodivergent",
-        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
+        "name": "Wsch\u00f3d",
+        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
       },
       "artists": [
         {
-          "name": "Aga Derlak",
-          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
+          "name": "Karolina B\u0142achnia",
+          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
         }
       ],
-      "duration_ms": 568547,
-      "name": "is it",
-      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
+      "duration_ms": 470111,
+      "name": "Dawno I Nieprawda",
+      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
     },
     {
       "added_at": "2026-05-26 09:05:26",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2026-05-26 09:05:26",
       "album": {
-        "name": "Wsch\u00f3d",
-        "url": "https://open.spotify.com/album/2px8SaiCc5Ah5jefyoRc92"
+        "name": "neurodivergent",
+        "url": "https://open.spotify.com/album/6gBwZZvR34WXlnP8j0yebu"
       },
       "artists": [
         {
-          "name": "Karolina B\u0142achnia",
-          "url": "https://open.spotify.com/artist/1xUsokZJfAI3eZtjjuKhtX"
+          "name": "Aga Derlak",
+          "url": "https://open.spotify.com/artist/4HF1r8SlGoxntonU0hlk6l"
         }
       ],
-      "duration_ms": 470111,
-      "name": "Dawno I Nieprawda",
-      "url": "https://open.spotify.com/track/0FMtDM8wYBLsbtknqqAClY"
+      "duration_ms": 568547,
+      "name": "is it",
+      "url": "https://open.spotify.com/track/6doQlNXVP2ErXE18lCRYgJ"
     }
   ],
   "unique_name": "Fryderyk 2026",

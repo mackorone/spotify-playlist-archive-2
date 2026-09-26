@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-09",
-  "description": "Rising voices, enduring roots. Cover: Zach Meadows",
+  "description": "Rising voices, enduring roots. Cover: Lawrence Rothman",
   "name": "Emerging Americana",
   "tracks": [
     {
@@ -2630,7 +2630,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 162049,
       "name": "Gonna Love You",
       "url": "https://open.spotify.com/track/1DxHrCHAwrKh8L2FdwrQhu"
@@ -4997,6 +4997,24 @@
     },
     {
       "album": {
+        "name": "Morning When it Comes",
+        "url": "https://open.spotify.com/album/0A4FaKWZ7j6umN53gn7WzV"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206600,
+      "name": "Moonlight and Tobacco",
+      "url": "https://open.spotify.com/track/3VH6jBni83e1mYwRM3RKep"
+    },
+    {
+      "album": {
         "name": "More",
         "url": "https://open.spotify.com/album/3hYLDvOXofP7VgpUY5aC1v"
       },
@@ -5228,6 +5246,24 @@
       "duration_ms": 154666,
       "name": "Nothin' At All",
       "url": "https://open.spotify.com/track/0OPx3KJ24XdVgZSbAcrxLz"
+    },
+    {
+      "album": {
+        "name": "Here Lies Love/Sawdust To Stardust",
+        "url": "https://open.spotify.com/album/6Xx6wzmVTtdHxtzRNWn909"
+      },
+      "artists": [
+        {
+          "name": "Lawrence Rothman",
+          "url": "https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176720,
+      "name": "Nothing Like Shakespeare",
+      "url": "https://open.spotify.com/track/3k1ScqyvjNY0t9khBY3YaW"
     },
     {
       "album": {
@@ -5874,7 +5910,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 220600,
       "name": "Queen of Spades",
       "url": "https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl"
@@ -7172,7 +7208,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 220341,
       "name": "The Big Time",
       "url": "https://open.spotify.com/track/0Cq7dBJ0G1JFeu6fQTLYyH"
@@ -7230,6 +7266,24 @@
       "duration_ms": 226509,
       "name": "The Fair and Dark Haired Lad",
       "url": "https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja"
+    },
+    {
+      "album": {
+        "name": "The Game",
+        "url": "https://open.spotify.com/album/46cQ9gF7K1xGbdl6na9Pg8"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209840,
+      "name": "The Game",
+      "url": "https://open.spotify.com/track/1Rxp14gFzxVfLrhAy9BAlw"
     },
     {
       "album": {

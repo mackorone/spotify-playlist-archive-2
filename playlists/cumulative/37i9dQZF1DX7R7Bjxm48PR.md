@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-194 songs - 8 hr 41 min
+199 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Birds view](https://open.spotify.com/track/4PkmyK6ZS3X96rG05wmThj) | [Egil Kahn](https://open.spotify.com/artist/28QjN2OHUlc9nT6Oo0okfe) | [Hills](https://open.spotify.com/album/2VdPwkgbn9S8KFfkrHqhGa) | 2:05 | 2022-11-14 | 2024-10-23 |
 | [Bliss](https://open.spotify.com/track/1uUf0oxdIJYfJCJRRIQsRm) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [Bliss](https://open.spotify.com/album/7LbRUFAxDaHVjCcvNmsWmV) | 3:31 | 2025-09-17 | 2026-08-01 |
 | [Breathe](https://open.spotify.com/track/6itK5FBbAQklhk2YXTCnxq) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Breathe](https://open.spotify.com/album/7uEBVnTdDMZS8aafFByHE5) | 2:32 | 2026-07-31 |  |
+| [Breathing Light](https://open.spotify.com/track/6ma7flYJ51BDVgg0vJlIYP) | [Quiet Solace](https://open.spotify.com/artist/4FWT8xrufB3LOzBvpoSLQK) | [Breathing Light](https://open.spotify.com/album/4Ya5LGXWMfMlAgbhHS3X20) | 2:42 | 2026-09-25 |  |
 | [Brightness](https://open.spotify.com/track/02LCUK8mJhh65xVc9hVoXB) | [Lux Tigon](https://open.spotify.com/artist/759EMezWm078OWxpbGzRNM) | [Waves](https://open.spotify.com/album/4sWw9ZNMdERgyz8KbtgHUi) | 2:14 | 2022-01-19 |  |
 | [Calm And Restore](https://open.spotify.com/track/0t714TKW801BuUy11qPX0K) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calm And Restore](https://open.spotify.com/album/2DeYd1rdTsveiEqsBq4K4F) | 3:01 | 2024-10-22 | 2025-02-20 |
 | [Canyon View](https://open.spotify.com/track/7cCDwM8s5gRC40RmaBwd4e) | [the aisle filler](https://open.spotify.com/artist/20cv2xJ8u0oURplfF0Pr5U) | [Canyon View](https://open.spotify.com/album/4LV3lTKdxuqHq6S67Q9pxB) | 2:30 | 2026-08-14 |  |
@@ -50,6 +51,7 @@
 | [Dunfanaghy Beach](https://open.spotify.com/track/6HzRAiGTMhRBYHJpYBxLDt) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Dunfanaghy Beach](https://open.spotify.com/album/3RrKj0S9sPr9Zhhpz9vFDW) | 2:09 | 2022-01-19 | 2024-11-14 |
 | [Désir](https://open.spotify.com/track/3yeIp7ZvFx2WGhsdPqIj8Z) | [Valerie Renaud](https://open.spotify.com/artist/1GgQvtLPuHNOXTFtsUO7Lq) | [Désir](https://open.spotify.com/album/6ebN9IykUukkxB4bdMxs3t) | 2:43 | 2022-02-02 | 2024-12-18 |
 | [Easy](https://open.spotify.com/track/1OP1Pxj0AeFSkVcqdc9IFQ) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [Easy](https://open.spotify.com/album/4XJPGsxGDxmk8qNylj56gb) | 2:51 | 2022-07-27 |  |
+| [Elara](https://open.spotify.com/track/1pUM7iVm5ErlcnhY1zC3aU) | [Verdame](https://open.spotify.com/artist/0xiNBrTQ3VM9vCPoRQ7ZBY) | [Elara](https://open.spotify.com/album/02jaiIdYIaEoVtGQtj8IsA) | 2:35 | 2026-09-25 |  |
 | [Ember](https://open.spotify.com/track/0UI9vtPrrF4rKVbAyftf6Q) | [Solfjord](https://open.spotify.com/artist/01Lia3RrLFYftxXx5DgHG0) | [Ember](https://open.spotify.com/album/6saaWCTWKStjjhJJx3KdMw) | 2:39 | 2025-09-17 |  |
 | [Emotion](https://open.spotify.com/track/3Erp4addg6gNsxONhzMTff) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Emotion](https://open.spotify.com/album/5qBzrhSYA2oc8GUJgty2Pp) | 3:24 | 2022-01-19 |  |
 | [Empires Luck](https://open.spotify.com/track/3eKndOAWTLzbzqaAdBRwBR) | [Sur Coast](https://open.spotify.com/artist/6VXxffyxJXQz5x91xTaaQN) | [Empires Luck](https://open.spotify.com/album/3Dm6sCX8BsO4t8TEOPO6DO) | 3:02 | 2022-01-19 |  |
@@ -137,6 +139,7 @@
 | [Remembering](https://open.spotify.com/track/6kwqwIUxDK84yXyfL7jvGf) | [Minette Martin](https://open.spotify.com/artist/3wQXisRiLi09Cw9UUSd0cA) | [Remembering](https://open.spotify.com/album/5MgQWq121MYWo7NdwgbJ1K) | 2:18 | 2022-01-19 | 2025-01-30 |
 | [reset](https://open.spotify.com/track/3EvstLL3S2fgyhg5HIQiPO) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Reset](https://open.spotify.com/album/0BziJ3Vj6ktrJ9grdZuGtB) | 3:26 | 2022-01-19 | 2025-06-11 |
 | [Restep](https://open.spotify.com/track/4lSVgERyr2PEVuTfw67NOl) | [Montauk Season](https://open.spotify.com/artist/1CxzUz71eYdN6LFkku1F8H) | [Restep](https://open.spotify.com/album/50XEml8T1onTvYMVIgsKCg) | 1:46 | 2024-11-19 |  |
+| [Return Path](https://open.spotify.com/track/62SNnG0zgZUyShmWFUDznl) | [Ananda](https://open.spotify.com/artist/0OHO8bpZ2kCqXnA3pIICie) | [Return Path](https://open.spotify.com/album/7hGnluPJgi3594kVoRNqyV) | 2:27 | 2026-09-25 |  |
 | [Rolling In Grass](https://open.spotify.com/track/6n7sw6rfa1sOYBYQPvzahQ) | [Justin Simmons](https://open.spotify.com/artist/5CvLDef0LzbuPs2YKmgGU8) | [Rolling In Grass](https://open.spotify.com/album/4gJY792f8Kha7jSkC5ZWfg) | 3:02 | 2022-04-13 | 2025-04-30 |
 | [Rós](https://open.spotify.com/track/1HVMOiJZzq3F8o8VEQsh77) | [Jonny Colgan](https://open.spotify.com/artist/6LfM1oqPkRMSylbEKjmOvA) | [Rós](https://open.spotify.com/album/6PIDeurwsuW0AEex2B59Rn) | 2:28 | 2022-01-19 |  |
 | [Sea Terms](https://open.spotify.com/track/25BD0YQAjKvVqP4G8VhPd5) | [Alan Ellis](https://open.spotify.com/artist/624bnI8CyQTzYDFICtmHTN) | [Deeper Still](https://open.spotify.com/album/00lmL7tTXFcXRgNcRRHuhk) | 2:56 | 2022-01-19 |  |
@@ -149,6 +152,7 @@
 | [Sincerity](https://open.spotify.com/track/6LmFMurSx0pVsZCuHolQ1r) | [Pierre Delongpre](https://open.spotify.com/artist/5WMDkZMK3ZgXII7d14q5I9) | [Piano and My Heart](https://open.spotify.com/album/6LueQAU32JLzLcf4ONiAsi) | 2:54 | 2022-01-19 | 2025-01-08 |
 | [Slow Minor Reflection \(Rework\)](https://open.spotify.com/track/75xVb6hYBS7w1bd6rtoxQw) | [Mathias Algotsson](https://open.spotify.com/artist/5cxbLasvz3bRsChqr96Qy6) | [Slow Minor Reflection \(Rework\)](https://open.spotify.com/album/4pfbotQd3HJUKguN4dUsAC) | 2:49 | 2025-03-28 | 2025-04-03 |
 | [Slow Release](https://open.spotify.com/track/0BhIPUDcsFG5fYr9uOSd35) | [Halcyon Fields](https://open.spotify.com/artist/5iDVGLma1wDxCbA5gtS6cN) | [Slow Release](https://open.spotify.com/album/2069wPcp6sTs8ZgS7xoXgQ) | 3:24 | 2023-04-05 |  |
+| [Smooth Seas](https://open.spotify.com/track/2NGC6YyTE4lodrKBkZVAqJ) | [Pax Soloman](https://open.spotify.com/artist/7lPIQjl1EboMXeIKVogpRg) | [Smooth Seas](https://open.spotify.com/album/1GvhRdpojbeTpEqZoxKpwd) | 2:14 | 2026-09-25 |  |
 | [Soft Gravity](https://open.spotify.com/track/04L3ysrKJAYm3PbfO6aonO) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Soft Gravity](https://open.spotify.com/album/34v6EsMOGwMJ5mt2sM2OKS) | 2:42 | 2025-09-17 |  |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-01-19 | 2024-11-14 |
 | [Solitude](https://open.spotify.com/track/23xaPw50MI2yuX666Jiyag) | [Sarah Bowman](https://open.spotify.com/artist/2Wz8oWJF4XcdrxJeFkkWJI) | [Solitude](https://open.spotify.com/album/5UYaZ6FoT2W2RlU9H2lrZt) | 2:39 | 2022-01-19 | 2024-12-18 |
@@ -182,6 +186,7 @@
 | [Unawareness](https://open.spotify.com/track/3JLCotc9wEILsbwsB2T1yf) | [Enika Moerani](https://open.spotify.com/artist/6WLxSLWa7PieCNhztESUCh) | [Unawareness](https://open.spotify.com/album/38UaLlzWn7IKeiufHsFT9i) | 2:42 | 2022-01-19 |  |
 | [Under The Sky](https://open.spotify.com/track/5u4tzKR7fFLFVcr3u6h1JF) | [Boudoin](https://open.spotify.com/artist/1VtcKV38DHQyR0rBukGcep) | [Under The Sky](https://open.spotify.com/album/36IP6uCEgs7X9qI29Qz9KA) | 2:03 | 2022-01-19 | 2025-01-30 |
 | [Une chambre](https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Une chambre](https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7) | 2:42 | 2022-01-19 |  |
+| [Unspoken Place](https://open.spotify.com/track/7ENZCtY5PdhvZumWzhy4EL) | [Nim Int](https://open.spotify.com/artist/0ZdDi3siQCLjQTCv8Lr7r6) | [Unspoken Place](https://open.spotify.com/album/38AwECUXrRbPWRo65pb5uR) | 2:21 | 2026-09-25 |  |
 | [Verdicular](https://open.spotify.com/track/0Z1OMQ29VndIdWZ8UWGrak) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Verdicular](https://open.spotify.com/album/46dHHrOaAhDDxjPoL3lAay) | 2:19 | 2025-04-29 |  |
 | [Vertigini](https://open.spotify.com/track/5FzjFbaz91mxF5WHM0xLGi) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Vertigini](https://open.spotify.com/album/1IfQvziChTayQGpZU6RCif) | 2:00 | 2025-03-14 |  |
 | [Views Of Nature](https://open.spotify.com/track/6QjDVuX5ufvEQZfo5gmBKi) | [Tiphaine Calvet](https://open.spotify.com/artist/1242qzkR8hc2Hv5AdHpiIU) | [Views Of Nature](https://open.spotify.com/album/5Xb5hY2GNbjDB6RGVD64kl) | 2:18 | 2022-01-19 |  |

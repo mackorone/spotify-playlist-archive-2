@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tonton Mauvais djo.
+> Du Congo, au monde 🌍 avec Tontons Tiakola et Rema.
 
-803 songs - 1 day 20 hr 51 min
+804 songs - 1 day 20 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Bellissima](https://open.spotify.com/track/0AxYEMfUkrTKLqjkUqu0cF) | [CDG](https://open.spotify.com/artist/44ePsJ2ugBV7yHk8c4w4WL) | [Bellissima](https://open.spotify.com/album/0ixI1I23HfN63TnflEgGLM) | 2:46 | 2025-01-31 | 2025-04-26 |
 | [Benda](https://open.spotify.com/track/4KElRi2M7RodLDq6fWoiN5) | [3 Heures prod](https://open.spotify.com/artist/5NLdXXUvTUKUKMeWxhsIbV), [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj) | [Nouvelle ère](https://open.spotify.com/album/7zQsrVvfvT0iyv6Ute4Jti) | 3:15 | 2023-10-06 | 2023-11-25 |
 | [Bendo](https://open.spotify.com/track/5ivj3W4YDsg9I5eDXYINO4) | [Vava Coràzon](https://open.spotify.com/artist/7zRFblV2dOGuubxzNPg47Z) | [Bendo](https://open.spotify.com/album/0Wf2oOAY8k5yI9LCthgu9y) | 2:09 | 2024-11-08 | 2025-01-25 |
+| [Best](https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:42 | 2026-09-25 |  |
 | [Beta maboko](https://open.spotify.com/track/28DTeYIDHT3a7I8bG8egww) | [Élie André](https://open.spotify.com/artist/65yIvDZ7NruXOW1qAcu8Cv) | [Jésus sauve](https://open.spotify.com/album/4ahrLMWu9lHocQyKPyBqUx) | 2:38 | 2024-12-13 | 2025-03-01 |
 | [BIBAMBA](https://open.spotify.com/track/1UDwSY58I4znIJZUPVcKWI) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6AzZj4gXROdfqsqBXjubKW) | 3:02 | 2022-11-18 | 2022-11-20 |
 | [BIBAMBA](https://open.spotify.com/track/1qJu5qWynObxyKSMGh0xM0) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [BIBAMBA](https://open.spotify.com/album/6fNqw6OqnYexbBes93iK5n) | 3:02 | 2022-11-18 | 2022-12-09 |

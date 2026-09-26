@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: Alba Morena.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,393 likes - 120 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,386 likes - 120 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 4 | [Me gusta, me encanta](https://open.spotify.com/track/7wtSmwHVOo47FMMdbdgzg3) | [Amatria](https://open.spotify.com/artist/5aINmhPWfAHvZ5qaMdBezq) | [Me gusta, me encanta](https://open.spotify.com/album/330WIzpvpEa3PXSIjwlzu4) | 2:41 |
 | 5 | [Flores](https://open.spotify.com/track/3qnxbgYSxdF3INZ6N460ow) | [Comandante Twin](https://open.spotify.com/artist/6MgIZuaJa0swshfLRDZMdw) | [Flores](https://open.spotify.com/album/69zZXzCT47fExSGiFJa6wM) | 4:13 |
 | 6 | [X LOS SIGLOS DE LOS SIGLOS](https://open.spotify.com/track/2tdDIiHo2JJFrXmOvRnu0z) | [Sienna](https://open.spotify.com/artist/4PSNWFX3rYscMdKRp59uYA) | [X LOS SIGLOS DE LOS SIGLOS](https://open.spotify.com/album/1So00vDI2ufcKnBPdQohTt) | 3:01 |
-| 7 | [Curra Curra Curra](https://open.spotify.com/track/0uv6GPCW0YiJoAF6bu6SRn) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U) | [Curra o Ama](https://open.spotify.com/album/6ATKp6Q6xQGEXPwIKL4eLr) | 3:02 |
+| 7 | [Curra Curra Curra](https://open.spotify.com/track/0uv6GPCW0YiJoAF6bu6SRn) | [Ben Yart](https://open.spotify.com/artist/1Emea6iLt1X27HTatnL7oV), [Mr\. Worth](https://open.spotify.com/artist/1W0J1H8phUbT5iAD1CrI0U), [8 Keys](https://open.spotify.com/artist/2VJOyNT0Kv0wTu27RqNOIE) | [Curra o Ama](https://open.spotify.com/album/6ATKp6Q6xQGEXPwIKL4eLr) | 3:02 |
 | 8 | [Da Me](https://open.spotify.com/track/25wuRe51bNX1zQXWKxWm9Y) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Da Me](https://open.spotify.com/album/6bY3R8Ne0tYamDMo16D27k) | 1:56 |
 | 9 | [Chiquitita, Matona!](https://open.spotify.com/track/5UrhV0LIMr3FPrXdWgEWn1) | [Dianka](https://open.spotify.com/artist/1wEtCoZtRJARnoN74e5Seh), [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Chiquitita, Matona!](https://open.spotify.com/album/5uMGynwajK5LQVS8eWeukY) | 3:16 |
 | 10 | [Mañanas de Euforia](https://open.spotify.com/track/4gjlcKTl9IifCFpHl1Hbyf) | [Carmen 113](https://open.spotify.com/artist/3wcfgYTtdxmXrhuUuq3kEe) | [Mañanas de Euforia](https://open.spotify.com/album/4o3VecJjnQ3wdrdWouIyqB) | 2:51 |

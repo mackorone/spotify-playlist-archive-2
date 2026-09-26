@@ -29759,6 +29759,24 @@
     },
     {
       "album": {
+        "name": "The Boathouse",
+        "url": "https://open.spotify.com/album/1llsQnSLtlfXtfwrC4Ityx"
+      },
+      "artists": [
+        {
+          "name": "Lottie McLeod",
+          "url": "https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Thomas",
+      "url": "https://open.spotify.com/track/65PUfUOQar5RswdwXO6S1k"
+    },
+    {
+      "album": {
         "name": "Thought You'd Know By Now",
         "url": "https://open.spotify.com/album/4GIXkFwJ7hhS1TaByKiQDQ"
       },
@@ -30450,24 +30468,6 @@
       "duration_ms": 187500,
       "name": "traces (feat. Molina)",
       "url": "https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa"
-    },
-    {
-      "album": {
-        "name": "The Boathouse",
-        "url": "https://open.spotify.com/album/1llsQnSLtlfXtfwrC4Ityx"
-      },
-      "artists": [
-        {
-          "name": "Lottie McLeod",
-          "url": "https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/65PUfUOQar5RswdwXO6S1k"
     },
     {
       "album": {

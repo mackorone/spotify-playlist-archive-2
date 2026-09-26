@@ -2603,6 +2603,32 @@
     },
     {
       "album": {
+        "name": "18teen",
+        "url": "https://open.spotify.com/album/7K0c6S3Sh3qstQp49RnGZv"
+      },
+      "artists": [
+        {
+          "name": "Seeyah",
+          "url": "https://open.spotify.com/artist/1ScheniypyvqpRJLWWYX15"
+        },
+        {
+          "name": "W4DE",
+          "url": "https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi"
+        },
+        {
+          "name": "Brodie.Bro",
+          "url": "https://open.spotify.com/artist/6Bihlnnu6mcDgw7wEBjwB7"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362127,
+      "name": "6 Ekseni",
+      "url": "https://open.spotify.com/track/2Y3pHnLsttIozTPYc4x80S"
+    },
+    {
+      "album": {
         "name": "The Legacy EP King of Barcadi",
         "url": "https://open.spotify.com/album/7GlVQlozV3Rb2pwWksM0rH"
       },
@@ -41793,7 +41819,7 @@
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 146064,
+      "duration_ms": 144000,
       "name": "CHE",
       "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
     },
@@ -106518,13 +106544,17 @@
         {
           "name": "Djy Vino",
           "url": "https://open.spotify.com/artist/7nZl3bYXhqwAHY8WWMMEZ8"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
         }
       ],
       "date_added": "2026-09-24",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 483412,
-      "name": "Inhliziyo Yam",
+      "name": "Inhliziyo Yam (feat. Mashudu)",
       "url": "https://open.spotify.com/track/1pSV7PJwTHd04IwRXJpWkj"
     },
     {
@@ -139917,6 +139947,28 @@
     },
     {
       "album": {
+        "name": "EXITECHNO",
+        "url": "https://open.spotify.com/album/4TDcmsuTszNJVeX2AU3Imu"
+      },
+      "artists": [
+        {
+          "name": "FKA MASH",
+          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
+        },
+        {
+          "name": "Samuell Miller",
+          "url": "https://open.spotify.com/artist/4kirKfHRU1tsj5MiiC9bZU"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 455593,
+      "name": "Make Believe",
+      "url": "https://open.spotify.com/track/5WSesDy09JmCkVyFPb4SeT"
+    },
+    {
+      "album": {
         "name": "Make believe",
         "url": "https://open.spotify.com/album/1lglf5yZbn6fAgE7Iay13V"
       },
@@ -159176,6 +159228,32 @@
       "duration_ms": 369579,
       "name": "Naye Wave",
       "url": "https://open.spotify.com/track/2OD29cJ4zEB3lN2QnYBmZT"
+    },
+    {
+      "album": {
+        "name": "Nayvee's Prayer",
+        "url": "https://open.spotify.com/album/346z7pvdI3XnhRnebDdz1w"
+      },
+      "artists": [
+        {
+          "name": "DJ Zinhle",
+          "url": "https://open.spotify.com/artist/4z9NtIRj7d5cohzOjprqxW"
+        },
+        {
+          "name": "Nayvee Womculo",
+          "url": "https://open.spotify.com/artist/7dkktKLtIZD6f77dYdNYrG"
+        },
+        {
+          "name": "Young Stunna",
+          "url": "https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390508,
+      "name": "Nayvee's Prayer",
+      "url": "https://open.spotify.com/track/5egspxTv2n1RX7etEQqXul"
     },
     {
       "album": {
@@ -181530,6 +181608,24 @@
       "duration_ms": 333382,
       "name": "Patience",
       "url": "https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "album": {
@@ -235112,42 +235208,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/0rIU6NfW2aSPdV1S5VBBYT"
-    },
-    {
-      "album": {
-        "name": "18teen",
-        "url": "https://open.spotify.com/album/7K0c6S3Sh3qstQp49RnGZv"
-      },
-      "artists": [
-        {
-          "name": "Seeyah",
-          "url": "https://open.spotify.com/artist/1ScheniypyvqpRJLWWYX15"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2Y3pHnLsttIozTPYc4x80S"
-    },
-    {
-      "album": {
-        "name": "EXITECHNO",
-        "url": "https://open.spotify.com/album/4TDcmsuTszNJVeX2AU3Imu"
-      },
-      "artists": [
-        {
-          "name": "FKA MASH",
-          "url": "https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/5WSesDy09JmCkVyFPb4SeT"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Unwind to the real beauty of Instrumentals!
 
-149 songs - 11 hr 56 min
+150 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Awakening The Soul 2](https://open.spotify.com/track/6cqkxzLZNglEN65Kt5hCMF) | [Pandit Satish Vyas](https://open.spotify.com/artist/5VjvnatSJPsJtYQIX2qOlV) | [Moods of Yoga \- Asana](https://open.spotify.com/album/7g7ZeAYpbui7XaEEgea1qH) | 17:21 | 2022-06-10 |  |
 | [Back to One](https://open.spotify.com/track/4yEXxzaeY1QfEfRVXTNqi9) | [Chris Jason](https://open.spotify.com/artist/2V2s3Ojx8fA8C0kZhyWmkl) | [Back to One](https://open.spotify.com/album/5r2rB9OynhQbvJeBE24z28) | 3:10 | 2022-06-10 |  |
 | [Bageshri](https://open.spotify.com/track/52oIvQ4IigJNawWR1wDhdb) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Instrumental India](https://open.spotify.com/album/0WjHwe8uVK8zjov0DlAypX) | 8:11 | 2022-06-10 | 2024-07-30 |
-| [Ballad Of Krishna \(feat\. Sandeep Chowta & thommyknoles\)](https://open.spotify.com/track/3MtAHtJnXMsfLyJ5Sq2c2u) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [thommyknoles](https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 6:03 | 2022-06-10 |  |
+| [Ballad Of Krishna \(feat\. Sandeep Chowta & thommyknoles\)](https://open.spotify.com/track/3MtAHtJnXMsfLyJ5Sq2c2u) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [thommyknoles](https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt) | [Abhay Nayampally](https://open.spotify.com/album/0PHqvL0508Pp8PSESdRrih) | 6:03 | 2022-06-10 | 2026-09-26 |
 | [Ballad Of Krishna \(feat\. Sandeep Chowta & thommyknoles\)](https://open.spotify.com/track/3zxYkGwyk2ZXzFI6r72NlM) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [thommyknoles](https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt) | [Abhay Nayampally](https://open.spotify.com/album/6QhwQscRUGJ0C4E1xj9Uga) | 6:03 | 2022-06-10 | 2024-04-19 |
 | [Ballad Of Krishna \(feat\. Sandeep Chowta & thommyknoles\)](https://open.spotify.com/track/5JE4bVp3peKYimBL6FtXiE) | [Abhay Nayampally](https://open.spotify.com/artist/6gMthCwlWiJ0dq7lvDitTa), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [thommyknoles](https://open.spotify.com/artist/6ow5uPEmTf2syuovBlfibt) | [Abhay Nayampally](https://open.spotify.com/album/3IkUBDxwNCrjavADJMynrN) | 6:03 | 2022-06-10 | 2023-11-05 |
 | [Bantureethi Koluvu \- Instrumental](https://open.spotify.com/track/54cexJUIswXGxlfR2eky8y) | [Phani Narayana](https://open.spotify.com/artist/5xbjAQJmDH4MyNh68NJ4U0) | [This is Carnatic Fusion, Vol\. 4](https://open.spotify.com/album/6a8P91f5BM5eykZPz7M2jV) | 4:21 | 2022-06-10 |  |
@@ -156,6 +156,7 @@
 | [Wake up Rama](https://open.spotify.com/track/5bNZHTX9GlngnP0tyRbDZ8) | [Sanjeev T](https://open.spotify.com/artist/4i3H5BsVTVwxXcWC3CdVPu) | [St.](https://open.spotify.com/album/2NBFBbCFVhFDOTAEMZg4kw) | 5:08 | 2022-06-10 | 2024-04-19 |
 | [Watching Her Dance](https://open.spotify.com/track/6SGGfkRmvRVJzdOimZFEa6) | [Varun Nimbolkar](https://open.spotify.com/artist/3dmI9UkzIOZZeHcdLJfXZs) | [Watching Her Dance](https://open.spotify.com/album/3T1O3WPSess47GBkjmqTiQ) | 4:16 | 2022-06-10 |  |
 | [When Mountains Meet The Sky](https://open.spotify.com/track/4UgmT9HJw8RTjYaEmgXkpK) | [Sanjay Divecha](https://open.spotify.com/artist/2Z68fPcM9qkmKpaBIFrVWJ) | [Leela](https://open.spotify.com/album/3VP9x8JTNS2oYFIT2VGQNa) | 3:50 | 2025-07-07 |  |
+| [Whirlwind Kadhal](https://open.spotify.com/track/5kD7Nn9y3cDGgo0dNGMtln) | [Saurav Srisan](https://open.spotify.com/artist/0MHTfH9CyrPzeUlvtd9lup) | [Whirlwind Kadhal](https://open.spotify.com/album/4HKzxd6lWsr9J5A2VZPbHF) | 1:43 | 2026-09-24 |  |
 | [Whispering Hues \(feat\. Rajhesh Vaidhya\)](https://open.spotify.com/track/7tCpcJ53Z7uslT4sjjZsSc) | [Varun Sunil](https://open.spotify.com/artist/6L9N1bZKr4hKm1jAJ9a1K2), [Rajhesh Vaidhya](https://open.spotify.com/artist/4ymxXOXgxZVu5dDot8oXuL) | [Whispering Hues \(feat\. Rajhesh Vaidhya\)](https://open.spotify.com/album/5wNdD3ZDfrx3cxpiSdwmUK) | 4:28 | 2022-06-10 |  |
 
 \*This playlist was first scraped on 2023-07-08. Prior content cannot be recovered.

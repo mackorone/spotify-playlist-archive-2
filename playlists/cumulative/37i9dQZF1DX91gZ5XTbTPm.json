@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: BloodHound Q50",
+  "description": "The Midwest is always on time. Cover: DDG",
   "name": "CST",
   "tracks": [
     {
@@ -1152,6 +1152,24 @@
       "duration_ms": 166748,
       "name": "95 Bulls (feat. King Von)",
       "url": "https://open.spotify.com/track/61ecTlWWsnqVkgBO1A4f8b"
+    },
+    {
+      "album": {
+        "name": "They Forgot",
+        "url": "https://open.spotify.com/album/4Cc2TMtRh1NlycKQyy65p4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164539,
+      "name": "99 Ovrall",
+      "url": "https://open.spotify.com/track/3e53bFiy5cpcNv6B95NbeN"
     },
     {
       "album": {
@@ -3668,7 +3686,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 104975,
       "name": "Biggest Brats",
       "url": "https://open.spotify.com/track/4Ta3NFoPcc9A9tZK3ziZC2"
@@ -4788,7 +4806,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 186153,
       "name": "Buncha Crunch (with 1900Rugrat)",
       "url": "https://open.spotify.com/track/11JxCtqkx7imFb3vA7kivF"
@@ -5006,6 +5024,28 @@
       "duration_ms": 133397,
       "name": "ButterBALL SHAWTY",
       "url": "https://open.spotify.com/track/08uyZIYaJWbDZw3lvUHLsd"
+    },
+    {
+      "album": {
+        "name": "HIT-A-THON",
+        "url": "https://open.spotify.com/album/6Ow5nHWrqJUxnrECV4HN5y"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129372,
+      "name": "BUTTONS & SWITCHES",
+      "url": "https://open.spotify.com/track/25emvtSA2D5EpdSROFqKLM"
     },
     {
       "album": {
@@ -11764,7 +11804,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 108552,
       "name": "Grave Shift",
       "url": "https://open.spotify.com/track/709mWTXjjm5O9KrCeTdt0N"
@@ -14843,6 +14883,24 @@
     },
     {
       "album": {
+        "name": "Immaculate",
+        "url": "https://open.spotify.com/album/0mHtUzuiCkG15tCM6loBxe"
+      },
+      "artists": [
+        {
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Immaculate",
+      "url": "https://open.spotify.com/track/0HPQe56hemNu2PhHKeRLoz"
+    },
+    {
+      "album": {
         "name": "RBT",
         "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
       },
@@ -16476,6 +16534,24 @@
       "duration_ms": 154040,
       "name": "Last Days",
       "url": "https://open.spotify.com/track/6m63k9onxYHiugyMIy2jjg"
+    },
+    {
+      "album": {
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/6R9jM45hhFjD5GvDCCv07s"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173403,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/0YkRgh1a7FVIqPe0QkTJtN"
     },
     {
       "album": {
@@ -18963,6 +19039,24 @@
     },
     {
       "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1zEfOMfqf3FfChtxCBUjRd"
+      },
+      "artists": [
+        {
+          "name": "STAR BANDZ",
+          "url": "https://open.spotify.com/artist/5qhDQveADDnjIZQ85AtgDM"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148741,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/1YkMUSHP57CjapGqBD1JJz"
+    },
+    {
+      "album": {
         "name": "Move Pt. 2",
         "url": "https://open.spotify.com/album/2HNBlkI3hyoHUZJfHFjAKQ"
       },
@@ -20600,7 +20694,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "Not Yours",
       "url": "https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt"
@@ -20622,6 +20716,24 @@
       "duration_ms": 163493,
       "name": "Nothin New",
       "url": "https://open.spotify.com/track/2L8Ekbj7jybc5Xja0VgSzO"
+    },
+    {
+      "album": {
+        "name": "Nothing",
+        "url": "https://open.spotify.com/album/35lX5VFEZSRbJx2kRGq8j9"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174423,
+      "name": "Nothing",
+      "url": "https://open.spotify.com/track/1teOdIejfuliyqkvZ7hM0s"
     },
     {
       "album": {
@@ -20658,7 +20770,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 116871,
       "name": "NOWHERE NEAR YOU",
       "url": "https://open.spotify.com/track/7KjzZjfmVmoZtkUygVof9m"
@@ -22409,6 +22521,24 @@
     },
     {
       "album": {
+        "name": "Play This Back",
+        "url": "https://open.spotify.com/album/3OhvsUcH2FgP9zWYk3i7Vt"
+      },
+      "artists": [
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155675,
+      "name": "Play This Back",
+      "url": "https://open.spotify.com/track/019EOX98z5znTG6JMEAuxb"
+    },
+    {
+      "album": {
         "name": "Play Time Over",
         "url": "https://open.spotify.com/album/3FUDq7Ega19JRrWry7FaaC"
       },
@@ -23560,7 +23690,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 180784,
       "name": "Rain (feat. Skilla Baby)",
       "url": "https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a"
@@ -24467,6 +24597,24 @@
     },
     {
       "album": {
+        "name": "They Forgot",
+        "url": "https://open.spotify.com/album/4Cc2TMtRh1NlycKQyy65p4"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210609,
+      "name": "Robbery 10",
+      "url": "https://open.spotify.com/track/2W2Mmm3BaoRpKq7lr4Cpjp"
+    },
+    {
+      "album": {
         "name": "Robbery 6",
         "url": "https://open.spotify.com/album/7nHTFeY1uy9B24cKkTSZ1X"
       },
@@ -24950,6 +25098,40 @@
       "duration_ms": 139989,
       "name": "Rottweiler",
       "url": "https://open.spotify.com/track/2qRg52SDWzUNeSYRxBnMEV"
+    },
+    {
+      "album": {
+        "name": "HIT-A-THON",
+        "url": "https://open.spotify.com/album/6Ow5nHWrqJUxnrECV4HN5y"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "42 Dugg",
+          "url": "https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG"
+        },
+        {
+          "name": "PLUTO",
+          "url": "https://open.spotify.com/artist/4uqHgaeBynLBQgfhMEIm1G"
+        },
+        {
+          "name": "Bankroll Ni",
+          "url": "https://open.spotify.com/artist/6557ikOFsjiDmV7gjHYuiD"
+        },
+        {
+          "name": "SMJ",
+          "url": "https://open.spotify.com/artist/4pDtAjA47T0lTKu97HfNfq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263657,
+      "name": "ROUND & ROUND",
+      "url": "https://open.spotify.com/track/0Hyqk5oKpiwCGK5CxVzCri"
     },
     {
       "album": {
@@ -25780,7 +25962,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 151919,
       "name": "She In Love wit a Dumper (feat. BabyTron) - Scammer Remix",
       "url": "https://open.spotify.com/track/0PzYigTfs3EgRE4TyrLGXU"
@@ -30947,6 +31129,28 @@
     },
     {
       "album": {
+        "name": "Biggest Brats",
+        "url": "https://open.spotify.com/album/0iXS2wcxsw5Al0n2wIm7zZ"
+      },
+      "artists": [
+        {
+          "name": "Lil M.U.",
+          "url": "https://open.spotify.com/artist/1FqtduZDVtxwzIL1vkGOVn"
+        },
+        {
+          "name": "BunnaB",
+          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173146,
+      "name": "Top of Cars (Remix)",
+      "url": "https://open.spotify.com/track/3VKHwlflo3EEUxYs08up9p"
+    },
+    {
+      "album": {
         "name": "Top of the Hill",
         "url": "https://open.spotify.com/album/2R2XREd3drTTYwFyaJuZ7L"
       },
@@ -30958,7 +31162,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 110737,
       "name": "Top of the Hill",
       "url": "https://open.spotify.com/track/4XY16HWTg6CZ5yQP65XiB0"
@@ -33332,7 +33536,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 179424,
       "name": "WHY THEY PLAYIN",
       "url": "https://open.spotify.com/track/42jDExux1daGNO1r6pmdUO"
@@ -34478,7 +34682,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 155876,
       "name": "Young Ho",
       "url": "https://open.spotify.com/track/2cm9PdoJ7kZtqhDJohQPSV"

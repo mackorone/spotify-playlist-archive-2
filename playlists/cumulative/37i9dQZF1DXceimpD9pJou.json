@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las mejores nuevas canciones Cristianas.  Foto: Funky & Natan El Profeta",
+  "description": "Las mejores nuevas canciones Cristianas.  Foto: Barak",
   "name": "Todas Novedades Cristianas",
   "tracks": [
     {
@@ -832,7 +832,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 190158,
       "name": "A Prueba de To\u2019",
       "url": "https://open.spotify.com/track/1hTYTG6qHczpxFF6mVFJ6B"
@@ -3588,7 +3588,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 235559,
       "name": "Alabar\u00e9",
       "url": "https://open.spotify.com/track/5gQPOUhf5yRBEutGWAfkFc"
@@ -4336,7 +4336,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 229910,
       "name": "Algo A\u00fan Mejor",
       "url": "https://open.spotify.com/track/3bAnuxpQPUoQ4NaaPxw0is"
@@ -7713,6 +7713,24 @@
     },
     {
       "album": {
+        "name": "AVA",
+        "url": "https://open.spotify.com/album/6gg1Mhux4MqynlTUkwuUQ4"
+      },
+      "artists": [
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121411,
+      "name": "AVA",
+      "url": "https://open.spotify.com/track/55Bp0ckSSkVgIjietNuMJH"
+    },
+    {
+      "album": {
         "name": "Averly Morillo: \u00bfQuien Podr\u00e1? (Drill Remix)",
         "url": "https://open.spotify.com/album/1yc7uLhaIgnvMwk9zoC9OI"
       },
@@ -9480,6 +9498,24 @@
       "duration_ms": 164722,
       "name": "Blindada",
       "url": "https://open.spotify.com/track/54040tP5vp9wThDM8tPo6P"
+    },
+    {
+      "album": {
+        "name": "Bondadoso Dios",
+        "url": "https://open.spotify.com/album/0ERXT6Aa8rSeO5N4BZOLXL"
+      },
+      "artists": [
+        {
+          "name": "Barak",
+          "url": "https://open.spotify.com/artist/2IzxJqK9NbSIdw7rQVW03P"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456891,
+      "name": "Bondadoso Dios",
+      "url": "https://open.spotify.com/track/7dmFy8OlfW2Gb2ekz6attk"
     },
     {
       "album": {
@@ -13827,6 +13863,28 @@
     },
     {
       "album": {
+        "name": "Confundidos",
+        "url": "https://open.spotify.com/album/6Tgg78gYt68ma4rlWqnNvu"
+      },
+      "artists": [
+        {
+          "name": "Jackson Martinez",
+          "url": "https://open.spotify.com/artist/01nKsHc3t6RZ15vwM8coxx"
+        },
+        {
+          "name": "Elemento",
+          "url": "https://open.spotify.com/artist/18cY0XRBki7XQXG2Sd5Fwd"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215869,
+      "name": "Confundidos",
+      "url": "https://open.spotify.com/track/4A9eIDKe2I2nl0VDsgQo8o"
+    },
+    {
+      "album": {
         "name": "Confuso",
         "url": "https://open.spotify.com/album/7a53VfXvE7ezrt9T43XtS2"
       },
@@ -15784,7 +15842,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 324812,
       "name": "Creo En Ti",
       "url": "https://open.spotify.com/track/7kL0dFJeygYMTE8oULlxRe"
@@ -16376,7 +16434,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 234155,
       "name": "Cristo Vivo",
       "url": "https://open.spotify.com/track/5BTyUZyUBsO347gRezgCL6"
@@ -17299,6 +17357,36 @@
     },
     {
       "album": {
+        "name": "Dale Candela",
+        "url": "https://open.spotify.com/album/12hBGKv5JjY2CB3K89fak4"
+      },
+      "artists": [
+        {
+          "name": "JIMMY ROCK",
+          "url": "https://open.spotify.com/artist/6YN7TGi4ZlsAy38fZVPvkN"
+        },
+        {
+          "name": "Fe Mundo",
+          "url": "https://open.spotify.com/artist/5gJb4A1xQNBpFhQbSroQx7"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        },
+        {
+          "name": "DJ Mykael V",
+          "url": "https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188437,
+      "name": "Dale Candela",
+      "url": "https://open.spotify.com/track/238tjakaabtBzeJirHl0oc"
+    },
+    {
+      "album": {
         "name": "Dale Con Fe (Remix)",
         "url": "https://open.spotify.com/album/6y2joZpKlfWWsuL4PQdSXG"
       },
@@ -17436,6 +17524,28 @@
       "duration_ms": 489113,
       "name": "Dame Fe",
       "url": "https://open.spotify.com/track/2bEhNeuAxXpRY4xbFWu8D5"
+    },
+    {
+      "album": {
+        "name": "Dando Gracias (Live Session)",
+        "url": "https://open.spotify.com/album/2lQWVifxJm9DGTvpwIBSuR"
+      },
+      "artists": [
+        {
+          "name": "Ricky Vazquez",
+          "url": "https://open.spotify.com/artist/1JNFZ2QcDKJbAPYwgCvgRb"
+        },
+        {
+          "name": "Nico Cabrera",
+          "url": "https://open.spotify.com/artist/5wxATPJa84XY8v3jEfrZOF"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234200,
+      "name": "Dando Gracias - Live Session",
+      "url": "https://open.spotify.com/track/6jmStrlVZNwgfDUKD8oAtM"
     },
     {
       "album": {
@@ -18628,7 +18738,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 252000,
       "name": "Descansar\u00e9",
       "url": "https://open.spotify.com/track/3U2Qd1Y01KnrvitrWgSIXm"
@@ -26341,6 +26451,36 @@
     },
     {
       "album": {
+        "name": "Env\u00edame a mi",
+        "url": "https://open.spotify.com/album/3VrKgyGuqdlNZZP88SoDrI"
+      },
+      "artists": [
+        {
+          "name": "VIVAFE",
+          "url": "https://open.spotify.com/artist/0CsdWJuo52qt8ZTGcKY2Cz"
+        },
+        {
+          "name": "Estefan\u00eda Benedicto",
+          "url": "https://open.spotify.com/artist/4pu3frWSdObuQ7FK6KsLU1"
+        },
+        {
+          "name": "Jaime Salmoreno",
+          "url": "https://open.spotify.com/artist/4fKVO6Ld1mCTfd7tlalanR"
+        },
+        {
+          "name": "Chechu Reguart",
+          "url": "https://open.spotify.com/artist/3S1P47vIbu4yOtnK40RAH0"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196570,
+      "name": "Env\u00edame a m\u00ed",
+      "url": "https://open.spotify.com/track/6gr7uSFjc8EoSVzMXgoHlr"
+    },
+    {
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/4mtCyqoW0iE30vtZpZtHDx"
       },
@@ -29372,7 +29512,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 386000,
       "name": "Exaltar",
       "url": "https://open.spotify.com/track/7xF4W0cjNyJpgC0tPK7WyR"
@@ -31826,7 +31966,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 365879,
       "name": "Gloria A Aquel",
       "url": "https://open.spotify.com/track/4xwVVo2u6II0YhmdNnTqAQ"
@@ -31978,7 +32118,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 520000,
       "name": "Gloria al Justo",
       "url": "https://open.spotify.com/track/4FuyXL9K0bdeXU9wEny7ez"
@@ -32252,7 +32392,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 228628,
       "name": "Gonna Be Alright (Todo Estar\u00e1 Bien)",
       "url": "https://open.spotify.com/track/65EukCTNmdBVGJaB8Oz5Jr"
@@ -35882,6 +36022,32 @@
       "duration_ms": 158769,
       "name": "High, Pt.2",
       "url": "https://open.spotify.com/track/5nHH0S7cqlGQgVR8q2oYtc"
+    },
+    {
+      "album": {
+        "name": "HIGHLIGHT",
+        "url": "https://open.spotify.com/album/0cIoOPLvXjj3Iyq0cM09LW"
+      },
+      "artists": [
+        {
+          "name": "Barajas",
+          "url": "https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw"
+        },
+        {
+          "name": "Yeniell",
+          "url": "https://open.spotify.com/artist/0NfUDepBHPTyQBKWBmop91"
+        },
+        {
+          "name": "Borrero",
+          "url": "https://open.spotify.com/artist/4v1ySMpX5kA1V5HlVsJwDU"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174014,
+      "name": "HIGHLIGHT",
+      "url": "https://open.spotify.com/track/4jlpJM9LinRqZZe8yzk9xM"
     },
     {
       "album": {
@@ -41610,7 +41776,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 206470,
       "name": "Las Aguas No Apagar\u00e1n",
       "url": "https://open.spotify.com/track/1URGX0LgNxKnQwNo2GcVwD"
@@ -50483,6 +50649,32 @@
     },
     {
       "album": {
+        "name": "Mira Lo Que Ha Hecho Dios",
+        "url": "https://open.spotify.com/album/3qLl1pAfqfJPfcOq3tC9vn"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Elevation Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/337ClCqxF9LJsLhB86Tsf0"
+        },
+        {
+          "name": "Emely Williams",
+          "url": "https://open.spotify.com/artist/0LC1yPnOQaj6VIz5gtZ82H"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312930,
+      "name": "Mira Lo Que Ha Hecho Dios",
+      "url": "https://open.spotify.com/track/4rYBj8PbdNVRZ9BxvC9YVo"
+    },
+    {
+      "album": {
         "name": "Mira lo que traigo",
         "url": "https://open.spotify.com/album/0IG5xyKnCZ8apP0vvrd8F6"
       },
@@ -51934,7 +52126,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 951870,
       "name": "M\u00edrenlo",
       "url": "https://open.spotify.com/track/3nKxuviTc7NV6Sz1UqL9ch"
@@ -58323,6 +58515,24 @@
     },
     {
       "album": {
+        "name": "Para Pap\u00e1",
+        "url": "https://open.spotify.com/album/5VLxuYR5BZvXnoOSJZt3jB"
+      },
+      "artists": [
+        {
+          "name": "Yanky La Mente Maestra",
+          "url": "https://open.spotify.com/artist/62haXwmW5t0AaSV5Dsw7P6"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212421,
+      "name": "Para Pap\u00e1",
+      "url": "https://open.spotify.com/track/5Y93k8BLASBAHY5rpz3LJA"
+    },
+    {
+      "album": {
         "name": "Para Siempre",
         "url": "https://open.spotify.com/album/61pP34hYNU1rpXQEc8vKTW"
       },
@@ -59864,6 +60074,32 @@
       "duration_ms": 173823,
       "name": "Pila De Versos",
       "url": "https://open.spotify.com/track/4NF7mdvxEAttDKo36bVaz1"
+    },
+    {
+      "album": {
+        "name": "Pint\u00e1ndote",
+        "url": "https://open.spotify.com/album/0HGV6jn1VZViFnY8RK9KJj"
+      },
+      "artists": [
+        {
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
+        },
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258746,
+      "name": "Pint\u00e1ndote",
+      "url": "https://open.spotify.com/track/58GIu8LkJzsBf9kHm8X2gd"
     },
     {
       "album": {
@@ -64813,6 +65049,28 @@
     },
     {
       "album": {
+        "name": "Reposa (Live)",
+        "url": "https://open.spotify.com/album/2lgZts5s1EBYONhQTupiLM"
+      },
+      "artists": [
+        {
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
+        },
+        {
+          "name": "The Blessed Steps Choir",
+          "url": "https://open.spotify.com/artist/3KCug4eYRhgnmg7z356a5w"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 810893,
+      "name": "Reposa - Live",
+      "url": "https://open.spotify.com/track/3RSOruHDMCPHK2xxbmzptd"
+    },
+    {
+      "album": {
         "name": "Rescate",
         "url": "https://open.spotify.com/album/1hPicHJCE4uDiXEHwdUaKX"
       },
@@ -65912,6 +66170,24 @@
       "duration_ms": 253746,
       "name": "Rompiendo",
       "url": "https://open.spotify.com/track/67Ykm1OX2dKXh5W9jwPB8a"
+    },
+    {
+      "album": {
+        "name": "Rompimiento",
+        "url": "https://open.spotify.com/album/3gTiT5w0KCzJ7BmOJcMoop"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Hurtado",
+          "url": "https://open.spotify.com/artist/4F1wRYU0CoLIhLMjdmoEXx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551000,
+      "name": "Rompimiento",
+      "url": "https://open.spotify.com/track/06zTJQyMOUpNvBgAWTpwRU"
     },
     {
       "album": {
@@ -67168,7 +67444,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 274266,
       "name": "Santo",
       "url": "https://open.spotify.com/track/7ltXF3kxC3gqN5fkzJOVdo"
@@ -69072,7 +69348,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 236800,
       "name": "si yo fuera t\u00fa",
       "url": "https://open.spotify.com/track/3q4RFMXQRu8M400FCtGDNk"
@@ -69556,6 +69832,24 @@
       "duration_ms": 203968,
       "name": "Siervo Por Amor",
       "url": "https://open.spotify.com/track/5bKnVDINIUsjMI5Dmf4g97"
+    },
+    {
+      "album": {
+        "name": "BALANCE (B-002)",
+        "url": "https://open.spotify.com/album/0NNqdkEH3zqagF3hrAgZZo"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "Siete Minutos",
+      "url": "https://open.spotify.com/track/6diE3lVdhREGHJWJMBk5nj"
     },
     {
       "album": {
@@ -70160,7 +70454,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 285915,
       "name": "Sin Reflectores",
       "url": "https://open.spotify.com/track/2MEep18MblsiDHN2Gjad4c"
@@ -72034,6 +72328,24 @@
       "duration_ms": 478750,
       "name": "Soy Esa Generaci\u00f3n - Live",
       "url": "https://open.spotify.com/track/6MvIH6ODTfy3UsNTSkKtzh"
+    },
+    {
+      "album": {
+        "name": "Soy Esto",
+        "url": "https://open.spotify.com/album/0CEUlvMoaZLNAKQdRGgVag"
+      },
+      "artists": [
+        {
+          "name": "PLATANOS",
+          "url": "https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Soy Esto",
+      "url": "https://open.spotify.com/track/5XPTn6OSZ99MMTn2WjcZjA"
     },
     {
       "album": {
@@ -86911,6 +87223,28 @@
     },
     {
       "album": {
+        "name": "Yo Quiero Ver Tu Gloria (Medley)",
+        "url": "https://open.spotify.com/album/18IolzSZwtXRdbO50dkuZH"
+      },
+      "artists": [
+        {
+          "name": "Ericson Alexander Molano",
+          "url": "https://open.spotify.com/artist/725RWHC7v2JOqMWmzx7XuK"
+        },
+        {
+          "name": "David Scarpeta",
+          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 498472,
+      "name": "Yo Quiero Ver Tu Gloria (Medley)",
+      "url": "https://open.spotify.com/track/2ZHyqVLO5EENmjSFib23WH"
+    },
+    {
+      "album": {
         "name": "Yo Sigo Aqu\u00ed",
         "url": "https://open.spotify.com/album/111q0aIgQ9mIYTLKQvDMnu"
       },
@@ -87625,6 +87959,28 @@
     },
     {
       "album": {
+        "name": "Zaqueo",
+        "url": "https://open.spotify.com/album/1Z1ZfJZgpP8mc0j4nOPGGe"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        },
+        {
+          "name": "Rubinsky Rbk",
+          "url": "https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180991,
+      "name": "Zaqueo",
+      "url": "https://open.spotify.com/track/5k0t1fLWVydyGRxOVbahaC"
+    },
+    {
+      "album": {
         "name": "Zarza Arder (Moises)",
         "url": "https://open.spotify.com/album/0xoaBKvCa4E4SvESbQVhNb"
       },
@@ -88082,7 +88438,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 490588,
       "name": "\u00bfQu\u00e9 Quieres De M\u00ed?",
       "url": "https://open.spotify.com/track/5E5QhO6dKyNgyxq62BxMg3"

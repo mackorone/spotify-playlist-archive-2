@@ -4,12 +4,13 @@
 
 > The best Progressive House in the scene\. <a href="https://ffm.link/9o81evb/">Instagram</a>, <a href="https://ffm.link/xjgmb7">Website, </a><a href="https://ffm.link/bknqm1j">Merch</a>
 
-289 songs - 16 hr 35 min
+290 songs - 16 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3026](https://open.spotify.com/track/4ad21BWm7B2Dwa9bWjKDE7) | [DJ Tony Magic](https://open.spotify.com/artist/3GmpVstDknVbWocJKp9NFk), [Mike Mendizabal](https://open.spotify.com/artist/1hBsfzOOJtR9BJ3QBYdA60) | [3026](https://open.spotify.com/album/7qKWlE9HcUdYXJaSsOYPGY) | 3:30 | 2025-12-12 |  |
 | [4AM](https://open.spotify.com/track/7HswRhwlZc9yzwWl33UgCD) | [Marc Antonix](https://open.spotify.com/artist/73hmgKy5dPtfbmkzOH7Uco), [KATTASTROPHIX](https://open.spotify.com/artist/77AaFDgxJxuXNbl1eEgX0z) | [4AM](https://open.spotify.com/album/6tdmsAe3f38GQIIEzmtazr) | 2:24 | 2025-07-11 | 2025-09-27 |
+| [7 Miles High](https://open.spotify.com/track/6QmYmxft6ZLXvLJz8UBVqe) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE), [LUKE ALEXANDER](https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542) | [7 Miles High](https://open.spotify.com/album/3gFDcNRzQ7hRWkB80Qx63K) | 2:30 | 2026-09-25 |  |
 | [8ths](https://open.spotify.com/track/3oLfgPob5XKsY48VB20UZz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Error5 EP](https://open.spotify.com/album/47LmTgQtRaRhVAUgIuVpF2) | 6:11 | 2025-08-08 | 2026-08-01 |
 | [About To Lose It](https://open.spotify.com/track/4dmHmgq6pzTrJ3DiVCkX8S) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [About To Lose It](https://open.spotify.com/album/7yITKlq2ryNlFVpKVSnYUY) | 3:15 | 2025-07-11 | 2025-08-23 |
 | [ACID](https://open.spotify.com/track/2Kkx9JxUQqsUIjGtjO4hMP) | [ON\_1](https://open.spotify.com/artist/1yga9Ci8sD6gpO5Vf1AN86) | [ACID](https://open.spotify.com/album/1COAoGRQqPCQIGZX9qCH3b) | 3:34 | 2025-07-25 | 2025-08-23 |
@@ -129,7 +130,7 @@
 | [If Here Was Forever](https://open.spotify.com/track/7cxdnI0kpPa7jNnANwWRYW) | [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c), [MØØNE](https://open.spotify.com/artist/7kKL0Z6mypwMkgCevMfuQ6) | [Becoming](https://open.spotify.com/album/3j09ujGiqVYzlxpzaLCCIH) | 4:13 | 2026-09-16 |  |
 | [Ignite](https://open.spotify.com/track/4Zjw84D9r0k1SlBbUHj6U4) | [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn), [Maor Levi](https://open.spotify.com/artist/7iVuXpgNEl87BwdwV1L6he), [Giuseppe De Luca](https://open.spotify.com/artist/1FgOxY04oRLgFoibYeBtuv) | [Ignite](https://open.spotify.com/album/3GRYJstBFhTZeiNSS6NSTY) | 4:40 | 2025-07-11 | 2025-08-09 |
 | [Illithid's March](https://open.spotify.com/track/7vsrgJA2nB9x0jM0SlHX9D) | [Morgin Madison](https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej), [Viligir](https://open.spotify.com/artist/5cVoZHtetVYkVqwK0g741D), [Pastelle](https://open.spotify.com/artist/4n44JgB3xSOFlt21cCIc0T) | [Odyssey](https://open.spotify.com/album/3nxOJvuvEBSPo3fvEUMefZ) | 4:50 | 2025-07-11 | 2026-01-31 |
-| [In Another Light](https://open.spotify.com/track/6AylbWRKRh27HZHm3Cb2DT) | [Leon Lour](https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw), [Madelynn](https://open.spotify.com/artist/24rKWXYhCkelENiRspKoeb) | [In Another Light](https://open.spotify.com/album/38xFiPSAVfRG5FWUtURUUH) | 3:19 | 2026-04-27 |  |
+| [In Another Light](https://open.spotify.com/track/6AylbWRKRh27HZHm3Cb2DT) | [Leon Lour](https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw), [Madelynn](https://open.spotify.com/artist/00rkjBj0UFUgJIGJ9xhmLd) | [In Another Light](https://open.spotify.com/album/38xFiPSAVfRG5FWUtURUUH) | 3:19 | 2026-04-27 |  |
 | [In Every Life](https://open.spotify.com/track/4FyCcBkN2pVvw0ZZZV2rjY) | [Audien](https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE) | [In Every Life](https://open.spotify.com/album/60lgL9FkLYX2qHC6WQWTJq) | 3:24 | 2026-02-06 |  |
 | [In The Night](https://open.spotify.com/track/7rE8HJFhRtI2P69ENWim6R) | [Leena Punks](https://open.spotify.com/artist/4v86SW8ZXq6cYAvMnaqYWt) | [In The Night](https://open.spotify.com/album/7y4lX00wgUT9NlYmrF0Rns) | 3:40 | 2026-03-06 |  |
 | [In Too Deep](https://open.spotify.com/track/5OkOxSTNPwXtvWcWPU1vup) | [Kapera](https://open.spotify.com/artist/6pbownHQeZG6xwDSUEjewe), [EMME](https://open.spotify.com/artist/04zy0QJacNRBhI0H3WmkSs) | [In Too Deep](https://open.spotify.com/album/4IDucmfMVnATGGivGzI70Y) | 3:50 | 2025-07-11 | 2025-07-26 |

@@ -1,13 +1,29 @@
 {
-  "description": "New music from your favorite women.  Cover: GAWD",
-  "num_followers": 233212,
+  "description": "New music from your favorite women.  Cover: Jae Stephens",
+  "num_followers": 233233,
   "original_name": "Queen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHBFzPRlac7PVkOoL6ZA1ih3nUFe",
+  "snapshot_id": "AAAAAM521HH8vPuorn/LzmXB2C/SHJVE",
   "tracks": [
+    {
+      "added_at": "2026-09-25 07:44:15",
+      "album": {
+        "name": "AUDACITY",
+        "url": "https://open.spotify.com/album/03QBipeNRLRu3DRb48t6yi"
+      },
+      "artists": [
+        {
+          "name": "Jae Stephens",
+          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "Soft Side",
+      "url": "https://open.spotify.com/track/2VwBpYBX9Fi3dPe8qDYCiu"
+    },
     {
       "added_at": "2026-09-18 07:05:18",
       "album": {
@@ -49,20 +65,40 @@
       "url": "https://open.spotify.com/track/5bKQbcGv7lf1RmWMmwhwAr"
     },
     {
-      "added_at": "2026-09-18 07:05:18",
+      "added_at": "2026-09-25 07:44:15",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/58zT0QIvIoPR17pcS4S8uJ"
+        "name": "Westside (Stripped)",
+        "url": "https://open.spotify.com/album/7E9WmxXXdPTXKWxOjyYjNL"
       },
       "artists": [
         {
-          "name": "TheARTI$t",
-          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
         }
       ],
-      "duration_ms": 189374,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1RWZDdIe9TwL1vUlyti5aD"
+      "duration_ms": 198352,
+      "name": "Westside - Stripped",
+      "url": "https://open.spotify.com/track/72AbuBAmAw25LzCJvBbFbi"
+    },
+    {
+      "added_at": "2026-09-25 07:44:15",
+      "album": {
+        "name": "What Lovers Do",
+        "url": "https://open.spotify.com/album/3XzX42Fmb4K4HdJ58LKCUu"
+      },
+      "artists": [
+        {
+          "name": "Zyah Belle",
+          "url": "https://open.spotify.com/artist/09q46aTaAsSGoLID49Y6Sx"
+        },
+        {
+          "name": "MyGuyMars",
+          "url": "https://open.spotify.com/artist/0oH03sDsnxkWo7jFl6nZQ6"
+        }
+      ],
+      "duration_ms": 152468,
+      "name": "What Lovers Do",
+      "url": "https://open.spotify.com/track/4ON7li6HIFhaTXn7hIq0g7"
     },
     {
       "added_at": "2026-09-18 07:05:18",
@@ -83,6 +119,22 @@
     {
       "added_at": "2026-09-18 07:05:18",
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/58zT0QIvIoPR17pcS4S8uJ"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "duration_ms": 189374,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1RWZDdIe9TwL1vUlyti5aD"
+    },
+    {
+      "added_at": "2026-09-18 07:05:18",
+      "album": {
         "name": "Yearning",
         "url": "https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq"
       },
@@ -95,6 +147,22 @@
       "duration_ms": 173868,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
+    },
+    {
+      "added_at": "2026-09-25 07:44:15",
+      "album": {
+        "name": "What\u2019s It Gonna Take?",
+        "url": "https://open.spotify.com/album/6eoylEkYXlv3HR7Fd6vTQe"
+      },
+      "artists": [
+        {
+          "name": "Amaria",
+          "url": "https://open.spotify.com/artist/2clS9uX2uOrHHqkyDMkzA1"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "What\u2019s It Gonna Take?",
+      "url": "https://open.spotify.com/track/78VtRnPMH2En5nJ19uWJFj"
     },
     {
       "added_at": "2026-09-18 07:05:18",
@@ -111,6 +179,26 @@
       "duration_ms": 184369,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/3jNMzFQG7TWl18G20230ld"
+    },
+    {
+      "added_at": "2026-09-25 07:44:15",
+      "album": {
+        "name": "Chameleon (feat. Chloe George)",
+        "url": "https://open.spotify.com/album/7JxAACwKeGZiH6wYZaBWJN"
+      },
+      "artists": [
+        {
+          "name": "Mai Anna",
+          "url": "https://open.spotify.com/artist/2fTXlJF6M8NKBXu5FBWdDT"
+        },
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "duration_ms": 214661,
+      "name": "Chameleon (feat. Chloe George)",
+      "url": "https://open.spotify.com/track/6p9rNCjeJkFymFH25pytGU"
     },
     {
       "added_at": "2026-09-18 07:05:18",
@@ -161,6 +249,38 @@
       "url": "https://open.spotify.com/track/3cXTJ9Sll0axx5leptQShq"
     },
     {
+      "added_at": "2026-09-25 07:44:15",
+      "album": {
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 182372,
+      "name": "Hot Topic",
+      "url": "https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH"
+    },
+    {
+      "added_at": "2026-09-25 07:44:15",
+      "album": {
+        "name": "A MILLION MORE (DEMO)",
+        "url": "https://open.spotify.com/album/5MNgk44aXkJ8pmbARWMR97"
+      },
+      "artists": [
+        {
+          "name": "Jamilah Barry",
+          "url": "https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv"
+        }
+      ],
+      "duration_ms": 186723,
+      "name": "A MILLION MORE (DEMO)",
+      "url": "https://open.spotify.com/track/6aUfar2YWQqL43tCDhutX5"
+    },
+    {
       "added_at": "2026-09-18 07:05:18",
       "album": {
         "name": "Still Love You",
@@ -175,6 +295,38 @@
       "duration_ms": 254500,
       "name": "Still Love You",
       "url": "https://open.spotify.com/track/2IlwagcDKYUuIVq2f9LCc1"
+    },
+    {
+      "added_at": "2026-09-18 07:05:18",
+      "album": {
+        "name": "late night",
+        "url": "https://open.spotify.com/album/6yqw95xO7ZKfQW5fO58Hlm"
+      },
+      "artists": [
+        {
+          "name": "Ray Lozano",
+          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "late night",
+      "url": "https://open.spotify.com/track/23i10hKRFFtyNN801D2AYz"
+    },
+    {
+      "added_at": "2026-09-25 07:44:15",
+      "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/6lkFxfusm38ggcoTcbZIdZ"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Berchie",
+          "url": "https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/4dzexuh5iUbzVDCfTGvpcz"
     },
     {
       "added_at": "2026-09-18 07:05:18",
@@ -195,22 +347,6 @@
     {
       "added_at": "2026-09-18 07:05:18",
       "album": {
-        "name": "late night",
-        "url": "https://open.spotify.com/album/6yqw95xO7ZKfQW5fO58Hlm"
-      },
-      "artists": [
-        {
-          "name": "Ray Lozano",
-          "url": "https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "late night",
-      "url": "https://open.spotify.com/track/23i10hKRFFtyNN801D2AYz"
-    },
-    {
-      "added_at": "2026-09-18 07:05:18",
-      "album": {
         "name": "Skin & Bones",
         "url": "https://open.spotify.com/album/0eAhfR5OQLE3TCKWW90tob"
       },
@@ -223,6 +359,22 @@
       "duration_ms": 154372,
       "name": "Skin & Bones",
       "url": "https://open.spotify.com/track/2yv8cYKk9bJkSUzxSl1CFZ"
+    },
+    {
+      "added_at": "2026-09-25 07:44:15",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6jYxo2yj7QrpRxPTMQ34Z0"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 165603,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/7JBx1sq4AQ7ygviGiVC4Zf"
     },
     {
       "added_at": "2026-09-18 07:05:18",
@@ -2297,26 +2449,6 @@
       "url": "https://open.spotify.com/track/0T1VdaTxOLZFmpTrMfbZAT"
     },
     {
-      "added_at": "2026-05-08 06:30:18",
-      "album": {
-        "name": "Bed of Roses (with Wale)",
-        "url": "https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3"
-      },
-      "artists": [
-        {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
-        },
-        {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
-        }
-      ],
-      "duration_ms": 185531,
-      "name": "Bed of Roses (with Wale)",
-      "url": "https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW"
-    },
-    {
       "added_at": "2026-04-24 04:03:02",
       "album": {
         "name": "Beautiful Tragedy",
@@ -2437,26 +2569,6 @@
       "url": "https://open.spotify.com/track/1j5hEy3LjijkTOFipOYz3x"
     },
     {
-      "added_at": "2026-05-08 06:30:18",
-      "album": {
-        "name": "landslide",
-        "url": "https://open.spotify.com/album/4rq9H26lB3WFAL2nO9hCW8"
-      },
-      "artists": [
-        {
-          "name": "Tia Gordon",
-          "url": "https://open.spotify.com/artist/5rXNmuTfaGC8hw0JEQOpLc"
-        },
-        {
-          "name": "TAVE",
-          "url": "https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "landslide",
-      "url": "https://open.spotify.com/track/3kt52nqoVKEs1zFRecOmqz"
-    },
-    {
       "added_at": "2026-05-01 07:00:07",
       "album": {
         "name": "Crush!",
@@ -2521,22 +2633,6 @@
       "url": "https://open.spotify.com/track/0Ntgg91du8iTGOobonADUu"
     },
     {
-      "added_at": "2026-05-01 07:00:07",
-      "album": {
-        "name": "Don\u2019t Come Home",
-        "url": "https://open.spotify.com/album/36ROdch6cCh1N0doNGFKQo"
-      },
-      "artists": [
-        {
-          "name": "Pimmie",
-          "url": "https://open.spotify.com/artist/30AbYddXmSkDXhnW6lB0ll"
-        }
-      ],
-      "duration_ms": 131189,
-      "name": "Call Me When You Can",
-      "url": "https://open.spotify.com/track/6AODvwD0OtfmsZJKiU6ptW"
-    },
-    {
       "added_at": "2026-04-10 04:48:28",
       "album": {
         "name": "Fuck, Marry, Kill",
@@ -2551,22 +2647,6 @@
       "duration_ms": 157818,
       "name": "Non Negotiables",
       "url": "https://open.spotify.com/track/3HUhrokD6jm8EH8qK1gIuZ"
-    },
-    {
-      "added_at": "2026-03-20 06:19:37",
-      "album": {
-        "name": "When The City Sleeps",
-        "url": "https://open.spotify.com/album/7AQJyREmqZhnetWVX9ubhj"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        }
-      ],
-      "duration_ms": 178779,
-      "name": "Westside",
-      "url": "https://open.spotify.com/track/7bX4qyPM9Ye5LBPbnkw5Lu"
     },
     {
       "added_at": "2026-04-17 06:37:17",
@@ -2633,46 +2713,6 @@
       "url": "https://open.spotify.com/track/0iAj8Y4ZSdezYNsqDjiFpd"
     },
     {
-      "added_at": "2026-03-27 05:57:52",
-      "album": {
-        "name": "Shame (feat. BunnaB)",
-        "url": "https://open.spotify.com/album/4kmYNr0m3Gix0k4zVz7mRG"
-      },
-      "artists": [
-        {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
-        },
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        },
-        {
-          "name": "BunnaB",
-          "url": "https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Shame (feat. BunnaB)",
-      "url": "https://open.spotify.com/track/1b0ItqHKEk0lHWy21vRi2m"
-    },
-    {
-      "added_at": "2026-01-23 05:42:11",
-      "album": {
-        "name": "Feline's Return",
-        "url": "https://open.spotify.com/album/2Mk8d4jvxyyNYbVZcY98hR"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 224498,
-      "name": "Sofa Joy",
-      "url": "https://open.spotify.com/track/2ZRYbR8vVS1utxEtXFmawD"
-    },
-    {
       "added_at": "2026-03-20 06:19:37",
       "album": {
         "name": "Soul Food",
@@ -2707,42 +2747,6 @@
       "duration_ms": 142229,
       "name": "F.O.O.L",
       "url": "https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC"
-    },
-    {
-      "added_at": "2026-03-20 06:19:37",
-      "album": {
-        "name": "Good Intentions",
-        "url": "https://open.spotify.com/album/7KZbPMVX1MIgaamombQinf"
-      },
-      "artists": [
-        {
-          "name": "Ego Ella May",
-          "url": "https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6"
-        },
-        {
-          "name": "J Warner",
-          "url": "https://open.spotify.com/artist/2qFIyqgMSxeb3rb9UDnOuo"
-        }
-      ],
-      "duration_ms": 194676,
-      "name": "Good Intentions",
-      "url": "https://open.spotify.com/track/6QtcGEyLF3SPMoR8i5bsKI"
-    },
-    {
-      "added_at": "2026-03-20 06:19:37",
-      "album": {
-        "name": "Daze",
-        "url": "https://open.spotify.com/album/3i3cXH65i41Js00CukK15J"
-      },
-      "artists": [
-        {
-          "name": "Olympia Vitalis",
-          "url": "https://open.spotify.com/artist/2hGdIKyNUkvMzSxllWksAt"
-        }
-      ],
-      "duration_ms": 202712,
-      "name": "Daze",
-      "url": "https://open.spotify.com/track/2JM7RAQLTWLMk4JbkduSvW"
     },
     {
       "added_at": "2026-02-13 05:40:53",
@@ -2963,22 +2967,6 @@
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
-    },
-    {
-      "added_at": "2025-11-14 09:13:01",
-      "album": {
-        "name": "TOTAL SELLOUT",
-        "url": "https://open.spotify.com/album/1DQiLs9MgKkzCW7d6WPcTV"
-      },
-      "artists": [
-        {
-          "name": "Jae Stephens",
-          "url": "https://open.spotify.com/artist/4HiLipaDjOwRkhJlk5s1uT"
-        }
-      ],
-      "duration_ms": 166360,
-      "name": "Freakie",
-      "url": "https://open.spotify.com/track/03SbION4JAIxFMGmOcDB6v"
     }
   ],
   "unique_name": "Queen",

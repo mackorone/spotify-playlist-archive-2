@@ -4,7 +4,7 @@
 
 > Rap from hell\. Cover: $uicideboy$
 
-677 songs - 1 day 2 hr 47 min
+678 songs - 1 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Breakhearts](https://open.spotify.com/track/1c1Vw5n3oNvUk4AhsohBqC) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Breakhearts](https://open.spotify.com/album/19dbRtvQvOC2bd7YDNT1pH) | 1:50 | 2022-05-13 | 2022-05-28 |
 | [Brimstone \(feat\. Xavier Wulf\)](https://open.spotify.com/track/2T6mUJ4EI7JWyLeKsQVd12) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Xavier Wulf](https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S) | [BURDEN](https://open.spotify.com/album/0wSFuZAb0jQ30K7Pa4g2wO) | 2:21 | 2021-09-17 | 2022-05-17 |
 | [BRRRAP](https://open.spotify.com/track/5VDvgkiNr3nORfWh3kKm4C) | [Crewsont](https://open.spotify.com/artist/2vPdDn1mdVgGnOBSz849GG), [Numb$kull](https://open.spotify.com/artist/7wQoo6BKPCAnSZRgE3qjp2), [Downwxlf](https://open.spotify.com/artist/5pA7EfsM1Eer3bqAySwaKq) | [BRRRAP](https://open.spotify.com/album/3EFb6LK06z60wfn0twzGbn) | 1:59 | 2022-03-25 | 2022-04-21 |
+| [BucketList](https://open.spotify.com/track/5PMSRs2fehQqGnNfLxfg6b) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [BucketList](https://open.spotify.com/album/2rQa8SUb7DY2gjk1I4Fxd1) | 2:25 | 2026-09-25 |  |
 | [BULLET](https://open.spotify.com/track/1LUblxczgUUs7nzCQ9sY9i) | [NORTMIRAGE](https://open.spotify.com/artist/6UKFiJTIiMnkfIlPJ5XOfp), [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8) | [BULLET](https://open.spotify.com/album/6iPQNv6SDZb8it4BvecDqI) | 1:53 | 2022-08-19 | 2022-10-29 |
 | [BULLETHELL](https://open.spotify.com/track/6MjXJ76xJ7xsPNvuiNA0c9) | [Blckbrd](https://open.spotify.com/artist/3KaGYKJVfw5bBMfqWj5p2O), [Saliva Grey](https://open.spotify.com/artist/1a7xjqgtH0LtzVv80S9kVx) | [BULLETHELL](https://open.spotify.com/album/6UrSFokkvOQc0bEd82e5ef) | 3:52 | 2022-04-01 | 2022-05-05 |
 | [Bullseye](https://open.spotify.com/track/4SNT8eqoy7wMXu1b8CVPOp) | [Downfvll](https://open.spotify.com/artist/11y2EjkCbWLix1tkjbiWed), [NIKKO](https://open.spotify.com/artist/3dnOnDLzcymqwDP7HMEFAC) | [Bullseye](https://open.spotify.com/album/3OeEwJ83ygrHxiY71LBbva) | 2:49 | 2022-04-15 | 2022-06-25 |
@@ -314,7 +315,7 @@
 | [I ONLY KNOW A FEW GOOD PEOPLE](https://open.spotify.com/track/4krgdfGN8fbJ0ERcUB8Czo) | [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn) | [I ONLY KNOW A FEW GOOD PEOPLE](https://open.spotify.com/album/1C2qR9cyY1soD9JJVRnetB) | 1:37 | 2023-04-14 | 2023-07-01 |
 | [I SAW A GHOST](https://open.spotify.com/track/308nDdX2dufnNzssguoaoi) | [Killstation](https://open.spotify.com/artist/0zPILh9oEH0fDagpkHTQQ8) | [XXII](https://open.spotify.com/album/6uoO6YlUEdnR1ynxrG4qEu) | 2:00 | 2022-04-11 | 2023-04-15 |
 | [I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.](https://open.spotify.com/track/5YlUuBa1ksvlWjqI9Uqmhu) | [Mikey The Magician](https://open.spotify.com/artist/7MmolAHKbrszXiOaS47Bwn), [Shakewell](https://open.spotify.com/artist/1w7GLktHE8w0aEhhaZ0QKB), [All But 6](https://open.spotify.com/artist/2BZgYLKKHwbZoKRmSe04US) | [I SAW HIM IN THE METAVERSE HE IS A BITCH THERE TOO.](https://open.spotify.com/album/6JfAaVEfkuNVR4pOnGg3mB) | 2:03 | 2023-04-07 | 2024-02-24 |
-| [I Saw Jesus Christ In a Parking Lot](https://open.spotify.com/track/1QQO4A3145m77ClwQBcM6S) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [I Saw Jesus Christ In a Parking Lot](https://open.spotify.com/album/4qtGOyxc4MfopoH9b8xuYd) | 1:30 | 2024-03-08 |  |
+| [I Saw Jesus Christ In a Parking Lot](https://open.spotify.com/track/1QQO4A3145m77ClwQBcM6S) | [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [I Saw Jesus Christ In a Parking Lot](https://open.spotify.com/album/4qtGOyxc4MfopoH9b8xuYd) | 1:30 | 2024-03-08 | 2026-09-26 |
 | [I Think It's Time That I Emerge](https://open.spotify.com/track/4AxnwDsuPBrgXTBqenWTiB) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Grim](https://open.spotify.com/album/6d4VSAlOuekwRBNENNHftb) | 2:52 | 2021-09-17 | 2022-06-11 |
 | [I WON'T SAVE YOU](https://open.spotify.com/track/4Pg3azdQ1PdO2kPac2X6ks) | [Hugo Gray](https://open.spotify.com/artist/1NzOQ8DXuG5sMmCsyvhDgf), [PANDEMXNIUM](https://open.spotify.com/artist/2krdsObsuYN0O7EK6B1H76) | [I WON'T SAVE YOU](https://open.spotify.com/album/6Nsj8kW7ybcU6ZG41fA1l2) | 1:39 | 2022-11-25 | 2023-07-01 |
 | [I'll Always Be Around](https://open.spotify.com/track/7bDOvN5MkCiyGttswXAIuz) | [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [Blood Was Never Thick As Water](https://open.spotify.com/album/3jvcVodjikx2tcIoCojLxw) | 3:25 | 2021-10-22 | 2022-05-17 |

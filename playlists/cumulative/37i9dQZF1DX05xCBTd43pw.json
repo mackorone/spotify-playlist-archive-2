@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Los Ojos Del C\u00f3ndor",
+        "url": "https://open.spotify.com/album/2C8ZUoLNFrEO7KzPg03329"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194961,
+      "name": "Alma Mia",
+      "url": "https://open.spotify.com/track/0UbHQ7wLwqGetrn2dOVBVc"
+    },
+    {
+      "album": {
         "name": "Alright",
         "url": "https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM"
       },
@@ -4334,7 +4352,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 193576,
       "name": "House of Glass",
       "url": "https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE"
@@ -5686,7 +5704,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 196246,
       "name": "Long Year",
       "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
@@ -9715,7 +9733,7 @@
     },
     {
       "album": {
-        "name": "20 SOMETHING IS A F*CKING STRANGE PLACE",
+        "name": "20 SOMETHING IS A FUCKING STRANGE PLACE",
         "url": "https://open.spotify.com/album/5aW1dSPLvETJtyMzsG0Wws"
       },
       "artists": [
@@ -9824,6 +9842,24 @@
       "duration_ms": 162835,
       "name": "Valse \u00e0 Demi",
       "url": "https://open.spotify.com/track/5gfb1OANgI7roumlmuYo0x"
+    },
+    {
+      "album": {
+        "name": "Vergessen",
+        "url": "https://open.spotify.com/album/6dn2tNWfhTNLhql28OKTLZ"
+      },
+      "artists": [
+        {
+          "name": "Seulfa",
+          "url": "https://open.spotify.com/artist/7bbqldmfBkBtAyjjBVs4xA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "Vergessen",
+      "url": "https://open.spotify.com/track/5bABCHSlFAsetJuWHAa8Tt"
     },
     {
       "album": {

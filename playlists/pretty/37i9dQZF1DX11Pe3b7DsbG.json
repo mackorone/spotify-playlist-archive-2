@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 233858,
+  "num_followers": 233850,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -947,58 +947,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Tudo Azul",
-        "url": "https://open.spotify.com/album/49GlmFB8PkKv5LT6qsL8Ty"
-      },
-      "artists": [
-        {
-          "name": "VELHA GUARDA DA PORTELA",
-          "url": "https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Volta Meu Amor",
-      "url": "https://open.spotify.com/track/1YcFAX7t0ijC9KmeL4pj95"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
-        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 292275,
-      "name": "Amiga da Minha Mulher / Cilada - Ao Vivo",
-      "url": "https://open.spotify.com/track/7wkn5YzIbYWtub1jgwp2D8"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
-        "name": "Espiral de Ilus\u00e3o",
-        "url": "https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 220240,
-      "name": "L\u00e1 Vem Voc\u00ea",
-      "url": "https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Sambabook Dona Ivone Lara",
         "url": "https://open.spotify.com/album/69qErPKLHHugsWzOXRB0Ls"
       },
@@ -1087,6 +1035,58 @@
       "duration_ms": 228720,
       "name": "Sonho Meu",
       "url": "https://open.spotify.com/track/62hLOAVwp0V2aFuT7sEQC9"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Tudo Azul",
+        "url": "https://open.spotify.com/album/49GlmFB8PkKv5LT6qsL8Ty"
+      },
+      "artists": [
+        {
+          "name": "VELHA GUARDA DA PORTELA",
+          "url": "https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 264373,
+      "name": "Volta Meu Amor",
+      "url": "https://open.spotify.com/track/1YcFAX7t0ijC9KmeL4pj95"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 292275,
+      "name": "Amiga da Minha Mulher / Cilada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wkn5YzIbYWtub1jgwp2D8"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
+        "name": "Espiral de Ilus\u00e3o",
+        "url": "https://open.spotify.com/album/6IczDBDR1kf2VyLjipgCPT"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 220240,
+      "name": "L\u00e1 Vem Voc\u00ea",
+      "url": "https://open.spotify.com/track/7n0OAb9pyMzUKCp7LpONFT"
     },
     {
       "added_at": "2025-09-19 22:07:37",

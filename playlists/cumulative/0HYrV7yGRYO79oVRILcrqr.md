@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-765 songs - 1 day 23 hr 45 min
+767 songs - 1 day 23 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -318,6 +318,7 @@
 | [I'm Bored x](https://open.spotify.com/track/1fRonpKCl5SRNccAHOEvl0) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [I'm Bored x](https://open.spotify.com/album/6pPoIqEGFHEEu0FGE23UWz) | 4:08 | 2026-09-18 |  |
 | [I'm Gonna Live](https://open.spotify.com/track/4uYt7IA77IDaBuNRjRefIX) | [Stu White](https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ) | [I'm Gonna Live](https://open.spotify.com/album/3vLxSsCmYV4ndoklyWM7qP) | 3:40 | 2026-08-16 |  |
 | [I'm In Love With The Way \(You Breathe My Name\)](https://open.spotify.com/track/2BKkiZsIn81BlnNSIm2NEb) | [Paper Satellite](https://open.spotify.com/artist/4nfaau5xtDWVVwCTxkjZrN) | [Turbulence](https://open.spotify.com/album/42b2E8vOKrh5XBI8rGG1Fz) | 5:48 | 2026-07-13 | 2026-08-01 |
+| [I'm Not Him](https://open.spotify.com/track/32zbpf0ODCs4SaorEgDlc0) | [Quentin Wallace](https://open.spotify.com/artist/4ZsvhCZ5uKfGDtbq0a4SGh) | [I'm Not Him](https://open.spotify.com/album/2S3Grto0yAldonBiEIUXdM) | 2:40 | 2026-09-25 |  |
 | [I'm Nowhere](https://open.spotify.com/track/64xdIDgCW0RbO6Rldrygaa) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [I'm Nowhere](https://open.spotify.com/album/2eSNKPsgDjNj79AjRwDBJ1) | 3:21 | 2026-09-07 | 2026-09-20 |
 | [I'm On Fire](https://open.spotify.com/track/2YkStnBSMoFi5lNyub4xRd) | [W\. Charles Hall](https://open.spotify.com/artist/1YJgR9U2T5deghpvxv7VSj) | [Heartland](https://open.spotify.com/album/3qamfjUyjGNTFBDxI6g9uY) | 2:38 | 2026-03-16 | 2026-04-21 |
 | [I've Got No Fear](https://open.spotify.com/track/0Aj2Zv5gEcj4ndcDpvy9WQ) | [Mays Hounds](https://open.spotify.com/artist/0uyaofsOLmzcYezAAKtYkj) | [I've Got No Fear](https://open.spotify.com/album/557Qq6MMDSAzL75W5qfeDw) | 2:23 | 2025-10-22 | 2025-11-28 |
@@ -498,6 +499,7 @@
 | [Outlaw Skirt](https://open.spotify.com/track/4XJvokji3XG9cUZKeySQ2W) | [The Twinpims](https://open.spotify.com/artist/6UrRv5Q70wkn1urhQBqItL) | [Outlaw Skirt](https://open.spotify.com/album/5BDmrCwm1kQCo46Rsrmmq7) | 2:43 | 2026-05-07 | 2026-05-26 |
 | [Outta Control](https://open.spotify.com/track/6CFhnrHIzYr3uYHPAx2ix9) | [Crispy Danger](https://open.spotify.com/artist/3KmwVFNqWQiSY2hVaiIB7b) | [Outta Control](https://open.spotify.com/album/4FPn9FK7LFYNx9UMnsgcFB) | 2:51 | 2026-05-02 | 2026-07-20 |
 | [Palmar Blues](https://open.spotify.com/track/29Erykx9p5c1XgmtsTZmFn) | [Alessandro Moleta](https://open.spotify.com/artist/2UgWckDms6glmwjJSs1Sa6), [Dionatan Martins](https://open.spotify.com/artist/5v8q3aC4tyLkW696GOb4Ze) | [Palmar Blues](https://open.spotify.com/album/6eSmOavkrhZwx4nVu4O0Qe) | 3:51 | 2026-09-07 | 2026-09-20 |
+| [Paneka](https://open.spotify.com/track/68A3DFapZmoaBpNGPlD34O) | [HAYZEDMOANA](https://open.spotify.com/artist/1kfhQKG9G8nk9n5d7SGCSp) | [Paneka](https://open.spotify.com/album/73YbZ2e7RkFicCdu0GASfF) | 2:16 | 2026-09-25 |  |
 | [Paper Mache](https://open.spotify.com/track/49aASBTHzF8GhtqgOXSlfg) | [Katrina](https://open.spotify.com/artist/2hpCkArHzQ852NRLx6TG2o) | [Paper Mache](https://open.spotify.com/album/0sZw1vxa8YcDceWAnTqNS0) | 2:09 | 2025-11-30 | 2025-12-17 |
 | [Paralisia Do Sono](https://open.spotify.com/track/6IjUGACXqxZhz8ortWGDmU) | [The Jump Out Helicopters](https://open.spotify.com/artist/4XKjXT1OIFR3zVbEgZGmel) | [Entre O Sonho E O Acordado](https://open.spotify.com/album/0Twg6AtBwK1vS9lPVklpqI) | 2:39 | 2025-09-29 | 2025-12-17 |
 | [Parar respirar pensar y actuar](https://open.spotify.com/track/67E2Do4adYM1ynZRlLzbV5) | [Orlando Vitale](https://open.spotify.com/artist/2CQ4n8I7rMZiujKRFlQqZa) | [Parar respirar pensar y actuar](https://open.spotify.com/album/6WWPmTrcnyxbgAiLCstgsJ) | 5:00 | 2026-02-25 | 2026-03-18 |

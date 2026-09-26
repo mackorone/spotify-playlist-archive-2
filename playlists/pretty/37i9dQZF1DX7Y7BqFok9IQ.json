@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Ghost Hounds",
-  "num_followers": 271910,
+  "num_followers": 272001,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN7nBgjvD2kDWv3urii/dqTVUXZk",
+  "snapshot_id": "AAAAAGNnmuZURnXohASXjZ67crOCKzrE",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:23",
@@ -59,6 +59,46 @@
       "duration_ms": 186133,
       "name": "Mercy",
       "url": "https://open.spotify.com/track/1httKI7AShBFrUfR3jjKmh"
+    },
+    {
+      "added_at": "2026-09-25 04:00:37",
+      "album": {
+        "name": "Post-Midnight Behaviour",
+        "url": "https://open.spotify.com/album/3DFHjnmgvbjRUQmpwNP59K"
+      },
+      "artists": [
+        {
+          "name": "Ben Poole",
+          "url": "https://open.spotify.com/artist/3MQuQtVNJG9SchM1l2CTm3"
+        },
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        },
+        {
+          "name": "Oli Brown",
+          "url": "https://open.spotify.com/artist/2b5hTGWhfcA88PyeZAJ3Ma"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Runaway Souls (feat. Elles Bailey & Oli Brown)",
+      "url": "https://open.spotify.com/track/3rs3QuaesxPIW6QXv6FxwH"
+    },
+    {
+      "added_at": "2026-09-25 04:00:37",
+      "album": {
+        "name": "Silverlight Blues",
+        "url": "https://open.spotify.com/album/5qKUf2V66u6AftU3p8ni0Z"
+      },
+      "artists": [
+        {
+          "name": "The Temperance Movement",
+          "url": "https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss"
+        }
+      ],
+      "duration_ms": 236798,
+      "name": "Silverlight Blues",
+      "url": "https://open.spotify.com/track/2aW52YUu5ZLU0gyzoHIyXU"
     },
     {
       "added_at": "2026-08-28 04:02:23",
@@ -1483,22 +1523,6 @@
     {
       "added_at": "2026-08-28 04:02:23",
       "album": {
-        "name": "Blue Sky",
-        "url": "https://open.spotify.com/album/2KUwhFMUmvRLG1muibvI4r"
-      },
-      "artists": [
-        {
-          "name": "Aranda",
-          "url": "https://open.spotify.com/artist/6l0DPGloCYFvs6dM7Y8Wmw"
-        }
-      ],
-      "duration_ms": 211143,
-      "name": "Blue Sky",
-      "url": "https://open.spotify.com/track/0hYTpOC7TJOZXbwB6ICKw3"
-    },
-    {
-      "added_at": "2026-08-28 04:02:23",
-      "album": {
         "name": "Truth Be Told EP",
         "url": "https://open.spotify.com/album/3sKN3K3rG2nvkwhtkmLYVR"
       },
@@ -2175,22 +2199,6 @@
       "duration_ms": 228288,
       "name": "Haunted Heart",
       "url": "https://open.spotify.com/track/74y2oKuMSBVtoukuUg08rh"
-    },
-    {
-      "added_at": "2026-08-28 04:02:23",
-      "album": {
-        "name": "I'm Gone",
-        "url": "https://open.spotify.com/album/2mQCWFo3LOBpx66YqquzXr"
-      },
-      "artists": [
-        {
-          "name": "VISION ARCADE",
-          "url": "https://open.spotify.com/artist/21tnncEE8gHj8B6C7iOCFX"
-        }
-      ],
-      "duration_ms": 282906,
-      "name": "I'm Gone",
-      "url": "https://open.spotify.com/track/1ZbVqL2ErCQH26Zj4JkHy0"
     },
     {
       "added_at": "2026-08-28 04:02:23",

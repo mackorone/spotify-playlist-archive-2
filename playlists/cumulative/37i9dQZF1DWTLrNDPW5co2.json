@@ -727,6 +727,28 @@
     },
     {
       "album": {
+        "name": "BBDV6?",
+        "url": "https://open.spotify.com/album/2F7lEU0q1esVUkpizjD28q"
+      },
+      "artists": [
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+        },
+        {
+          "name": "Crookers",
+          "url": "https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "BBDV6?",
+      "url": "https://open.spotify.com/track/1zZm1WBeEsL8JhjhUx03Cv"
+    },
+    {
+      "album": {
         "name": "BDE 3XL",
         "url": "https://open.spotify.com/album/7wzmb5z3iBq6BGkPf32s8c"
       },
@@ -1310,6 +1332,24 @@
       "duration_ms": 185431,
       "name": "Calling My Name",
       "url": "https://open.spotify.com/track/19ruggDygOE3ZzX4xXIOmy"
+    },
+    {
+      "album": {
+        "name": "CAN'T HEAR THIS SH** ON THE RADIO!",
+        "url": "https://open.spotify.com/album/3r0Kfq7M6viuaGAdZn4bKs"
+      },
+      "artists": [
+        {
+          "name": "Angel Rider",
+          "url": "https://open.spotify.com/artist/1Hg3ptKN8VnSAC5TQ5MlEA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201096,
+      "name": "CAN'T HEAR THIS SH** ON THE RADIO!",
+      "url": "https://open.spotify.com/track/7m6Arn7hyDwwPVvnVVCAOQ"
     },
     {
       "album": {
@@ -3546,7 +3586,7 @@
       ],
       "date_added": "2025-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 223880,
       "name": "Good Boy",
       "url": "https://open.spotify.com/track/3ewCbG1yn5d20wp1OlkogH"
@@ -8840,7 +8880,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 340000,
       "name": "Strung Up",
       "url": "https://open.spotify.com/track/6BFL7H3b7BofaQt7U73pye"

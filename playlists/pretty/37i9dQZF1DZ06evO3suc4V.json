@@ -1,12 +1,12 @@
 {
   "description": "This is Ravyn Lenae. The essential tracks, all in one playlist.",
-  "num_followers": 11390,
+  "num_followers": 11397,
   "original_name": "This Is Ravyn Lenae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arMWgAAAAACF0ATLB2QvCRswv/Mzt9Hq",
+  "snapshot_id": "arRoAAAAAACAmBXqw5p1nGMXKqc0zwvU",
   "tracks": [
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NOIR",
+        "url": "https://open.spotify.com/album/5rVlqi2fHOmWB764N8PsWF"
+      },
+      "artists": [
+        {
+          "name": "Smino",
+          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 246960,
+      "name": "MF GROOVE (with Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/3f0wlG15mXf22WOraAYwJ7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Telefone",
         "url": "https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 218627,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3MoQWxjYFWm5wh7Q5XwSBp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NOIR",
-        "url": "https://open.spotify.com/album/5rVlqi2fHOmWB764N8PsWF"
-      },
-      "artists": [
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        },
-        {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-        }
-      ],
-      "duration_ms": 246960,
-      "name": "MF GROOVE (with Ravyn Lenae)",
-      "url": "https://open.spotify.com/track/3f0wlG15mXf22WOraAYwJ7"
     },
     {
       "added_at": null,

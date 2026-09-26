@@ -3299,6 +3299,24 @@
     },
     {
       "album": {
+        "name": "The Suicide Handbook",
+        "url": "https://open.spotify.com/album/6R7JETrEHliaeUXBx2wUSs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225133,
+      "name": "Off Broadway",
+      "url": "https://open.spotify.com/track/7DdPo2tZ204EUXWPd7wegt"
+    },
+    {
+      "album": {
         "name": "Easy Tiger",
         "url": "https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE"
       },
@@ -4934,7 +4952,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 226160,
       "name": "Touch, Feel & Lose",
       "url": "https://open.spotify.com/track/3XDaAJRBkyzDGZmCANjLZr"

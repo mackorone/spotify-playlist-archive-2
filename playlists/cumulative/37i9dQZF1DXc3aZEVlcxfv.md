@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-685 songs - 1 day 21 hr 59 min
+686 songs - 1 day 22 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [JESUS](https://open.spotify.com/track/4KZZLqQTcY2YfbEviV7bzf) | [Dr Joe Ebi](https://open.spotify.com/artist/5p5hQ6etqr9a2rLdSkjgO6), [Zoe Ebi\-Adoga](https://open.spotify.com/artist/1CLXZzitYXLnDnZVEE2Wep) | [JESUS](https://open.spotify.com/album/1O9AB2HcLOhfvzVaR6Zalu) | 4:10 | 2024-10-11 | 2025-03-07 |
 | [Jesus](https://open.spotify.com/track/2X1KhBy93qsWLWmuYjDyTF) | [Veekeyz](https://open.spotify.com/artist/57xgBBHoYZN5vMioJSSOcw) | [Jesus](https://open.spotify.com/album/3XB80hfj7QMeWFCzlEqDQp) | 4:38 | 2026-07-03 | 2026-08-19 |
 | [JESUS \- Acoustic Version](https://open.spotify.com/track/697RxMNB5lPeOqASJ8a9Um) | [Evans Ogboi](https://open.spotify.com/artist/2atv3xZ8TKAZoDUWES3ho0) | [JESUS \(Acoustic Version\)](https://open.spotify.com/album/1MLCsznCAwcFzLRuzQFuix) | 4:36 | 2025-08-01 | 2025-10-03 |
-| [JESUS I LOVE YOU](https://open.spotify.com/track/5tY1rYMBz0luUN6ExNiw6Y) | [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [JESUS I LOVE YOU](https://open.spotify.com/album/5EfiwoRRhhViVNTp3IgBvA) | 2:42 | 2026-09-04 |  |
+| [JESUS I LOVE YOU](https://open.spotify.com/track/5tY1rYMBz0luUN6ExNiw6Y) | [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [JESUS I LOVE YOU](https://open.spotify.com/album/5EfiwoRRhhViVNTp3IgBvA) | 2:42 | 2026-09-04 | 2026-09-26 |
 | [Jesus Loves Me \(Oh Kwabena\)](https://open.spotify.com/track/2XP4PLQp37qU0wHunJHuSl) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Jesus Loves Me \(Oh Kwabena\)](https://open.spotify.com/album/6rqAYrPXgVDBMpgFSP9Iin) | 2:11 | 2025-11-21 | 2026-01-15 |
 | [Jesus Loves You \- LIVE AT SOZO EMPERIA](https://open.spotify.com/track/2OfWraIjYuA02bQAJUjq9t) | [De Stanley Brothers](https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3) | [Jesus Loves You \(LIVE AT SOZO EMPERIA\)](https://open.spotify.com/album/4wUWj3T2bpgM6LOXzVdI8P) | 8:29 | 2025-02-28 | 2025-03-28 |
 | [Jesus Oh](https://open.spotify.com/track/0e9OdbqgTZ8ZJnFLdhPndl) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Jesus Oh](https://open.spotify.com/album/5pGGZjMWt9rlK5zsPsFKLY) | 4:15 | 2024-09-30 | 2025-02-07 |
@@ -468,6 +468,7 @@
 | [Never Go Back](https://open.spotify.com/track/6p2JFd5je1ulXf2xE9Zmft) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Julia McMillan](https://open.spotify.com/artist/5ektyaMN6ejyyiSdkDUArQ) | [REDEEMED](https://open.spotify.com/album/6cOAKz1VOn9cFMuCTiNW8S) | 3:17 | 2024-10-18 | 2025-02-07 |
 | [New Day](https://open.spotify.com/track/3HtzmaDTfIw3ZuhBrzWJ7h) | [Ebube Immanuel](https://open.spotify.com/artist/6T9pNc1rbjm0SpkqyDO6dp) | [New Day](https://open.spotify.com/album/4IxnmE6G9VNJwMFHjnZhwO) | 3:45 | 2025-08-01 | 2026-03-20 |
 | [Nifundishe](https://open.spotify.com/track/6RRoq1OV4PGkY1pm7ErvxH) | [Mathias Walichupa](https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU), [Nicole Ngabo](https://open.spotify.com/artist/7qM0oYRsIMNv6x9eBwdmA4) | [Nifundishe](https://open.spotify.com/album/7w8mOa3oWyf9pjT6Qgle23) | 4:32 | 2024-09-30 | 2025-02-07 |
+| [Nikumbuke](https://open.spotify.com/track/1KfQkotQJ73JT93plHOxTh) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nikumbuke](https://open.spotify.com/album/0yOxz1GgBgXb71mIbyTTsF) | 4:05 | 2026-09-25 |  |
 | [Nina Siri](https://open.spotify.com/track/7wcBcpJnk3FkNvspFJN6SE) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Umusirikare](https://open.spotify.com/album/2gmosA09uXbSu5MvBBswLh) | 11:10 | 2024-09-27 | 2025-02-21 |
 | [No Lele](https://open.spotify.com/track/1NUQMXLEWvdI2hiviHvJfG) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Energize Music](https://open.spotify.com/artist/5dAPl80cZ4v2sTePGMbP2E) | [No Lele](https://open.spotify.com/album/7AoEgq9WWOT0RoLf8cbZ1l) | 2:45 | 2025-11-14 | 2025-11-28 |
 | [No One Else](https://open.spotify.com/track/1sGQPI8NOyXaH7yFlUXufh) | [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV), [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [No One Else](https://open.spotify.com/album/5lEMLszUUqfbd0EGFkA4Fb) | 2:18 | 2025-05-16 | 2025-06-27 |

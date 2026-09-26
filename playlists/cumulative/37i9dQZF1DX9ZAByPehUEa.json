@@ -2594,7 +2594,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 198750,
       "name": "Close 2 You",
       "url": "https://open.spotify.com/track/0TcZAw5Xs5JwdqE5nRzAbQ"
@@ -7982,6 +7982,28 @@
       "duration_ms": 252923,
       "name": "ISSINME",
       "url": "https://open.spotify.com/track/6GxDJdnVIbiPtIovlaGzhv"
+    },
+    {
+      "album": {
+        "name": "It's Coming",
+        "url": "https://open.spotify.com/album/7ARiGOUuv9uWuz1wR8Q40X"
+      },
+      "artists": [
+        {
+          "name": "Crush Club",
+          "url": "https://open.spotify.com/artist/3xxRhjD7z41Q0hnNEjIifc"
+        },
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225920,
+      "name": "It's Coming",
+      "url": "https://open.spotify.com/track/7HXCqd8Y0fJZhEFRw3lWyX"
     },
     {
       "album": {

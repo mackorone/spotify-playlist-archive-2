@@ -1,6 +1,6 @@
 {
   "description": "a hardcore home for slowcore fans.",
-  "num_followers": 212042,
+  "num_followers": 212028,
   "original_name": "slowcore",
   "owner": {
     "name": "Spotify",
@@ -187,22 +187,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "LSD and the Search for God",
-        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
-      },
-      "artists": [
-        {
-          "name": "LSD and the Search for God",
-          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
-        }
-      ],
-      "duration_ms": 304240,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Heavy Black Frame",
         "url": "https://open.spotify.com/album/4iEJq1LRPTy6q2kNUDKV3o"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 271306,
       "name": "Nothing Left to Say",
       "url": "https://open.spotify.com/track/0MZmVxSYtBphmi5mrgTLXp"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "LSD and the Search for God",
+        "url": "https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS"
+      },
+      "artists": [
+        {
+          "name": "LSD and the Search for God",
+          "url": "https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv"
+        }
+      ],
+      "duration_ms": 304240,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "i'm not a violent dog, i don't know why i bite",
-        "url": "https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P"
-      },
-      "artists": [
-        {
-          "name": "dog isle",
-          "url": "https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx"
-        }
-      ],
-      "duration_ms": 115067,
-      "name": "she loved dogs",
-      "url": "https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Control (Remastered)",
         "url": "https://open.spotify.com/album/3WPhii5HmncMeCKLHZUePr"
       },
@@ -523,22 +507,6 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
-        "name": "Millions Now Living Will Never Die",
-        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 327826,
-      "name": "Glass Museum",
-      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
         "name": "Today",
         "url": "https://open.spotify.com/album/5vNKHuz5SeL0bOLtha1xQJ"
       },
@@ -551,6 +519,38 @@
       "duration_ms": 269946,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/1tDI5qw1b8hOLVOazlECo2"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "i'm not a violent dog, i don't know why i bite",
+        "url": "https://open.spotify.com/album/0S2hBpEIxwy70VcRuqHa9P"
+      },
+      "artists": [
+        {
+          "name": "dog isle",
+          "url": "https://open.spotify.com/artist/0OPB40Rma9zNV0q9E0HJZx"
+        }
+      ],
+      "duration_ms": 115067,
+      "name": "she loved dogs",
+      "url": "https://open.spotify.com/track/7cDUACo0ZIHrUPjVRjmEVG"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
+        "name": "Millions Now Living Will Never Die",
+        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 327826,
+      "name": "Glass Museum",
+      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
     },
     {
       "added_at": "2025-08-07 23:00:59",
@@ -587,6 +587,22 @@
     {
       "added_at": "2025-08-07 23:00:59",
       "album": {
+        "name": "On Fire",
+        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
+      },
+      "artists": [
+        {
+          "name": "Galaxie 500",
+          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
+        }
+      ],
+      "duration_ms": 314560,
+      "name": "Snowstorm",
+      "url": "https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu"
+    },
+    {
+      "added_at": "2025-08-07 23:00:59",
+      "album": {
         "name": "No Depression In Heaven",
         "url": "https://open.spotify.com/album/5MLdgEFXND3EClVF1he9nn"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 274475,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM"
-    },
-    {
-      "added_at": "2025-08-07 23:00:59",
-      "album": {
-        "name": "On Fire",
-        "url": "https://open.spotify.com/album/1qhNLXBmt1EW6Kwt2A3u8M"
-      },
-      "artists": [
-        {
-          "name": "Galaxie 500",
-          "url": "https://open.spotify.com/artist/6guTJsgPymDUVfqDJyz5UG"
-        }
-      ],
-      "duration_ms": 314560,
-      "name": "Snowstorm",
-      "url": "https://open.spotify.com/track/5s5uy4gguOtt5DZcsqxVsu"
     },
     {
       "added_at": "2025-08-07 23:00:59",

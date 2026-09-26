@@ -1,12 +1,12 @@
 {
   "description": "\u03a4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03c4\u03b7\u03c2 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Akylas",
-  "num_followers": 53533,
+  "num_followers": 53538,
   "original_name": "Greek Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEppocrPnQB5D/wYNf1WZxAy5Z6W",
+  "snapshot_id": "AAAAADFeXAVc1FIt3uPUoaf6nz4yNKvr",
   "tracks": [
     {
       "added_at": "2026-09-24 21:00:30",
@@ -267,6 +267,26 @@
       "duration_ms": 237731,
       "name": "Esena I Tipota",
       "url": "https://open.spotify.com/track/60jhmQaIFfvKwQnT4joR1F"
+    },
+    {
+      "added_at": "2026-09-25 09:49:05",
+      "album": {
+        "name": "To Balkoni Tou Papaz\u00f3",
+        "url": "https://open.spotify.com/album/7zZZ1k99daZPC8HHr9WJxL"
+      },
+      "artists": [
+        {
+          "name": "Papaz\u00f3",
+          "url": "https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ"
+        },
+        {
+          "name": "Marseaux",
+          "url": "https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz"
+        }
+      ],
+      "duration_ms": 138260,
+      "name": "Tou Agoriou Apenanti",
+      "url": "https://open.spotify.com/track/0yY0iAdNJDfUno1SKVN5NR"
     },
     {
       "added_at": "2026-09-24 21:00:30",
@@ -799,22 +819,6 @@
       "duration_ms": 180000,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/4FKDGC1hp2ojXjgzf1oVG9"
-    },
-    {
-      "added_at": "2026-09-24 21:00:30",
-      "album": {
-        "name": "NAYA",
-        "url": "https://open.spotify.com/album/6Gb4SvqtyqT5JYSy4cvUQx"
-      },
-      "artists": [
-        {
-          "name": "CARLA",
-          "url": "https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z"
-        }
-      ],
-      "duration_ms": 155368,
-      "name": "NAYA",
-      "url": "https://open.spotify.com/track/7CoyoHJ9Nhlcl1MPwmUmsn"
     },
     {
       "added_at": "2026-09-24 21:00:30",

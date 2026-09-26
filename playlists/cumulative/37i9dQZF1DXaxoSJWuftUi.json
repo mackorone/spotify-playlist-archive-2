@@ -411,6 +411,24 @@
     },
     {
       "album": {
+        "name": "I'm So Happy",
+        "url": "https://open.spotify.com/album/3qdzJSKdkacHfF8sZd6iLl"
+      },
+      "artists": [
+        {
+          "name": "Ms. Rachel",
+          "url": "https://open.spotify.com/artist/2VHUurTrOGljxENj3zk5Ep"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139136,
+      "name": "I'm So Happy",
+      "url": "https://open.spotify.com/track/4gGuWmlCp9YEWeh7bZaN1T"
+    },
+    {
+      "album": {
         "name": "If You Love to Dance & Move",
         "url": "https://open.spotify.com/album/5JHP855ISqCfxzUeHoNENq"
       },

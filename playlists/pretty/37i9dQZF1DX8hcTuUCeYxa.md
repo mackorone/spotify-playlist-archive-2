@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,095 likes - 89 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,123 likes - 89 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,11 +24,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 14 | [High Function Low Drive](https://open.spotify.com/track/42QleouV3agCRzyNeOsY2l) | [Odd Beholder](https://open.spotify.com/artist/3QXIzf05xhPdEUciKVif6v) | [High Function Low Drive](https://open.spotify.com/album/6AiTQMVnW7slkCCQUGpzvr) | 3:32 |
 | 15 | [Hit Me Back](https://open.spotify.com/track/4nQHF7CY484iX8kZQPoRWo) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Hit Me Back](https://open.spotify.com/album/441V0UvbXBdaUb3P4ywY2I) | 3:45 |
 | 16 | [STILL I STARE… AND COMPARE](https://open.spotify.com/track/4O1aVoMnkKI2Bmz4Lmd6CQ) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [TAKE A HINT, LET ME GO](https://open.spotify.com/album/74BNbhJmMT5bmlN1GHhKfq) | 2:52 |
-| 17 | [Track 11](https://open.spotify.com/track/6F5Ni3Gtqckp6J9c3tTK5r) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [SCHAU NICHT SO](https://open.spotify.com/album/22wTLKO4hNbsSV1e8jHk6Z) | 0:00 |
+| 17 | [DAS LETZTE LIED](https://open.spotify.com/track/6F5Ni3Gtqckp6J9c3tTK5r) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [SCHAU NICHT SO](https://open.spotify.com/album/22wTLKO4hNbsSV1e8jHk6Z) | 4:35 |
 | 18 | [Natural High](https://open.spotify.com/track/2ltTipWlzX9L8ofFKJioJi) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Natural High](https://open.spotify.com/album/7JLoQup5FmnWodYaoFfpBt) | 5:45 |
 | 19 | [don't pick up next time](https://open.spotify.com/track/1mExkdHsTjr6kEC2qkIO3y) | [nothhingspecial](https://open.spotify.com/artist/1GDKz5zXC9NCTA2ViXPv02) | [don't pick up next time](https://open.spotify.com/album/1hqOj4ZQ6bmFZE0PgLM0V5) | 2:53 |
 | 20 | [Stone Fruit](https://open.spotify.com/track/0GuYLoC2G9eXMGwwXH8xt1) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Violins](https://open.spotify.com/album/6ahtjSXlZpJsOxSOucSuRg) | 3:35 |
-| 21 | [Honey Honey](https://open.spotify.com/track/1I3D3G5pwYFKNYGIYTLRCq) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Honey Honey](https://open.spotify.com/album/0AuDQR5ASwikOugYr1perq) | 3:33 |
+| 21 | [Honey Honey](https://open.spotify.com/track/1I3D3G5pwYFKNYGIYTLRCq) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Lords of Lounge](https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88) | [Honey Honey](https://open.spotify.com/album/0AuDQR5ASwikOugYr1perq) | 3:33 |
 | 22 | [OBEY \(THERE iS STiLL A RiOT GOiNG ON\)](https://open.spotify.com/track/0QLUEKYbFWc1MG2owHHaUt) | [Bonaparte](https://open.spotify.com/artist/2jwl8DJIsmnFbA5vPdGSCy) | [OBEY \(THERE iS STiLL A RiOT GOiNG ON\)](https://open.spotify.com/album/4dJX3yy5hHxLfAvtJTBpZW) | 3:05 |
 | 23 | [Jenny](https://open.spotify.com/track/67zxIv3yivtuIG6riPQa3U) | [Nick Ward](https://open.spotify.com/artist/1JjlFdZ1LKxyQ8moqDOmS9) | [Jenny](https://open.spotify.com/album/14PW20ySyvP27eGpXFC79K) | 3:06 |
 | 24 | [Any Doubt](https://open.spotify.com/track/5TCEXrHrhseoKEL7fWMeNb) | [Steaming Satellites](https://open.spotify.com/artist/245cfTGLRjFApGjsOe1hLL) | [The Great Lime Paradigm](https://open.spotify.com/album/79X40UbtwOVtiOIo64WGQT) | 2:32 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 88 | [Carried Away](https://open.spotify.com/track/19lqaiN82kquWMFKoN9a2Y) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [Carried Away](https://open.spotify.com/album/4XAILUw9uSKXewYYv6DTMS) | 3:07 |
 | 89 | [Barstool Blues](https://open.spotify.com/track/0Xef5Z0zIEFDW98PEAJTYQ) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT), [Califone](https://open.spotify.com/artist/3mv2eHwrIONSkviASDMRMa) | [Barstool Blues](https://open.spotify.com/album/06BhJhLi5uqQ2AkjPuClvW) | 3:03 |
 
-Snapshot ID: `AAAAANYEYdIuVHxyPpjqFJImOoLtFjD7`
+Snapshot ID: `AAAAAKL8JOnACWMljrFX7Kuoc8m7Fhtk`

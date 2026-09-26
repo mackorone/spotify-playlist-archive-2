@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Brandon Lake",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Frannie Cash",
   "name": "Top Contemporary Christian",
   "tracks": [
     {
@@ -270,6 +270,24 @@
       "duration_ms": 178461,
       "name": "All I See",
       "url": "https://open.spotify.com/track/1OIhubEHsc9JJskFkqa1h3"
+    },
+    {
+      "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/43sB8hIB7HyFj06HtYM5PQ"
+      },
+      "artists": [
+        {
+          "name": "Seph Schlueter",
+          "url": "https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183311,
+      "name": "All In",
+      "url": "https://open.spotify.com/track/0fh9KisyOciquifVrB7lmd"
     },
     {
       "album": {
@@ -1075,6 +1093,24 @@
     },
     {
       "album": {
+        "name": "Outsing The Angels",
+        "url": "https://open.spotify.com/album/3ZivZ6HyBnKTlVe5Nnk61k"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266066,
+      "name": "Blessed Be",
+      "url": "https://open.spotify.com/track/6yzekVFsqBx5uQkazo3mmT"
+    },
+    {
+      "album": {
         "name": "Bloodlines",
         "url": "https://open.spotify.com/album/6wjDPPN67TFsvIKWafu7Zz"
       },
@@ -1456,7 +1492,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 214872,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/115KAd9VbsmqjrGVRbsIVC"
@@ -1474,7 +1510,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 237053,
       "name": "Call Me In The Morning",
       "url": "https://open.spotify.com/track/6OWnjHX4nvE6F3qxDOFmDY"
@@ -2010,7 +2046,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 149994,
       "name": "Darken The Doorway",
       "url": "https://open.spotify.com/track/55jJqk7yaFYSTRZRqhUaqC"
@@ -2282,6 +2318,24 @@
       "duration_ms": 255398,
       "name": "Doesn't He",
       "url": "https://open.spotify.com/track/1re3ARSEiDfRxUTKKlbI8k"
+    },
+    {
+      "album": {
+        "name": "Jesus Is King",
+        "url": "https://open.spotify.com/album/4Vx9HrbcJpPpis8zGrqYL4"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207845,
+      "name": "Don't Give Up On Me",
+      "url": "https://open.spotify.com/track/02Yb9hB7PMxUNvrZuOrYFc"
     },
     {
       "album": {
@@ -5186,7 +5240,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 215005,
       "name": "Here And Heaven",
       "url": "https://open.spotify.com/track/7jv39eho02JxYYaHZgJVAq"
@@ -5574,6 +5628,24 @@
       "duration_ms": 232797,
       "name": "Honest",
       "url": "https://open.spotify.com/track/38uLa2A1WbDjR10K0yxMTT"
+    },
+    {
+      "album": {
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/4by63MmBpTRKY8ZbqtGuIh"
+      },
+      "artists": [
+        {
+          "name": "Franni Cash",
+          "url": "https://open.spotify.com/artist/4fxcjHw2RUb4fBwuqHufT1"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179735,
+      "name": "Honest To God",
+      "url": "https://open.spotify.com/track/7wtjMjxPbKlWikgmTtO6Dt"
     },
     {
       "album": {
@@ -6073,6 +6145,24 @@
     },
     {
       "album": {
+        "name": "I Know I'm Loved",
+        "url": "https://open.spotify.com/album/0vOa2Z2AeuqBG0nHlUe6tq"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213988,
+      "name": "I Know I'm Loved",
+      "url": "https://open.spotify.com/track/5DdTSzBDwGFf54X20MtUmc"
+    },
+    {
+      "album": {
         "name": "I Love Jesus",
         "url": "https://open.spotify.com/album/596PxhjTOrMpb9O9bAZn45"
       },
@@ -6326,6 +6416,24 @@
       "duration_ms": 198906,
       "name": "I Will Carry You - Radio Version",
       "url": "https://open.spotify.com/track/7d09yra9jPl1CaxUXHWh1b"
+    },
+    {
+      "album": {
+        "name": "I Won't Forget",
+        "url": "https://open.spotify.com/album/5ucv5DKvRC08C5szcMyoiR"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235624,
+      "name": "I Won\u2019t Forget",
+      "url": "https://open.spotify.com/track/08080M9ELtAuoUMlFRvD89"
     },
     {
       "album": {
@@ -7974,7 +8082,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 213924,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/53eAz1xAe54QMFBr1zjein"
@@ -8772,7 +8880,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 269000,
       "name": "My Closest Friend",
       "url": "https://open.spotify.com/track/1lHhEX1zhmracxjauG6UWf"
@@ -8946,6 +9054,24 @@
       "duration_ms": 341986,
       "name": "My Tribute (To God Be The Glory)",
       "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
+    },
+    {
+      "album": {
+        "name": "My Victory's Coming",
+        "url": "https://open.spotify.com/album/7yPY0qyaD1R1uBgGNv74G1"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207479,
+      "name": "My Victory's Coming",
+      "url": "https://open.spotify.com/track/0q81m7cmZBGikRTv9L1lPD"
     },
     {
       "album": {
@@ -9706,6 +9832,24 @@
       "duration_ms": 215000,
       "name": "Over and Over",
       "url": "https://open.spotify.com/track/3Fq9eU3HKUviaVtgEIq8lu"
+    },
+    {
+      "album": {
+        "name": "Well Done",
+        "url": "https://open.spotify.com/album/4i1aalzdYPCnXt3zloorYB"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "Over and Over Again",
+      "url": "https://open.spotify.com/track/6nr2LpKzFVIO3SzBw37OG2"
     },
     {
       "album": {
@@ -12110,7 +12254,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 194255,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/57g8LPfp00QJMhhY4oeAys"
@@ -12662,7 +12806,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 164266,
       "name": "The Day Is Coming",
       "url": "https://open.spotify.com/track/3ZMyU0iClMiaYaAzxfZ5eI"
@@ -13014,6 +13158,46 @@
       "duration_ms": 222238,
       "name": "The Mercy Room",
       "url": "https://open.spotify.com/track/5I7WPi3OheSMwPRf8AGPpC"
+    },
+    {
+      "album": {
+        "name": "the most beautiful colours",
+        "url": "https://open.spotify.com/album/5DWJBDPWprxOLTlpje2nW9"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215664,
+      "name": "the most beautiful colours",
+      "url": "https://open.spotify.com/track/3teC9tCB847HFQW2Evh1SW"
+    },
+    {
+      "album": {
+        "name": "The River",
+        "url": "https://open.spotify.com/album/5IQbJLeGBfKId7oT3z5vtE"
+      },
+      "artists": [
+        {
+          "name": "Kaelob Mecum",
+          "url": "https://open.spotify.com/artist/0Mz8GEgLhb3heEDpRTtnr4"
+        },
+        {
+          "name": "Gloria Anderson",
+          "url": "https://open.spotify.com/artist/5Vs0afvaHsjSUpWa3Y7Ewj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190653,
+      "name": "The Odds",
+      "url": "https://open.spotify.com/track/5tLCKERx0ojoljW9lLL8uH"
     },
     {
       "album": {
@@ -13960,7 +14144,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 205285,
       "name": "Wait On The Lord",
       "url": "https://open.spotify.com/track/0h5jjjBxU7q8Uv6LyGXabN"
@@ -14430,7 +14614,7 @@
       ],
       "date_added": "2026-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 182816,
       "name": "what if i told you?",
       "url": "https://open.spotify.com/track/4iz2gpYykJizD8tyqnhZZw"

@@ -7041,6 +7041,24 @@
     },
     {
       "album": {
+        "name": "\u062a\u0644\u0627\u062d\u0642",
+        "url": "https://open.spotify.com/album/3DnYS6m3og2iZkZcg9SGVU"
+      },
+      "artists": [
+        {
+          "name": "Ayed",
+          "url": "https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120757,
+      "name": "\u062a\u0644\u0627\u062d\u0642",
+      "url": "https://open.spotify.com/track/0wK2a0f0EaYtY5g66BCirt"
+    },
+    {
+      "album": {
         "name": "\u062a\u0645\u0633\u0643 \u0628\u064a",
         "url": "https://open.spotify.com/album/6EReB4XNZ2sB7ovAyU3yDP"
       },
@@ -8130,6 +8148,24 @@
       "duration_ms": 172955,
       "name": "\u0644\u0645\u0627 \u0634\u0641\u062a\u0647",
       "url": "https://open.spotify.com/track/4tN8EZsbTYa3FSID88ueA8"
+    },
+    {
+      "album": {
+        "name": "\u0644\u064a\u062a \u0627\u0644\u0628\u0634\u0631 \u0643\u0644\u0647\u0645 \u0633\u0644\u0645\u0627\u0646",
+        "url": "https://open.spotify.com/album/412gKALTCMNMN5Ai9B7yTS"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Abdu",
+          "url": "https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297739,
+      "name": "\u0644\u064a\u062a \u0627\u0644\u0628\u0634\u0631 \u0643\u0644\u0647\u0645 \u0633\u0644\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/40kvbQ7mlvOGAVqPEjEJsC"
     },
     {
       "album": {

@@ -2554,7 +2554,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 178520,
       "name": "Continental",
       "url": "https://open.spotify.com/track/2dRRAPNvQV0scVkbdEKuWk"
@@ -6973,6 +6973,32 @@
     },
     {
       "album": {
+        "name": "Mundo C\u00e3o",
+        "url": "https://open.spotify.com/album/6nPBKsuVSQWWY8nrNNio99"
+      },
+      "artists": [
+        {
+          "name": "Machete Bomb",
+          "url": "https://open.spotify.com/artist/0BjJ3oYFwa2SUn567mGSOQ"
+        },
+        {
+          "name": "Freitera",
+          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
+        },
+        {
+          "name": "Aliena\u00e7\u00e3o Afrofuturista",
+          "url": "https://open.spotify.com/artist/6SDw7meBBAwiwI92SnXZ77"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185586,
+      "name": "Mundo C\u00e3o",
+      "url": "https://open.spotify.com/track/4Yb4PeC8bGddL5c1RD2rse"
+    },
+    {
+      "album": {
         "name": "Capital Inicial 4.0 (Deluxe)",
         "url": "https://open.spotify.com/album/2Hd7jdiY7jTatb7DGiQZuv"
       },
@@ -8438,7 +8464,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 183806,
       "name": "O Samba Parou",
       "url": "https://open.spotify.com/track/6phRpyYONHk3sEgCjhqbi5"
@@ -9398,6 +9424,24 @@
       "duration_ms": 223773,
       "name": "PITTYNANDO",
       "url": "https://open.spotify.com/track/0W8wc6tclS3TGMS9pQ5dp7"
+    },
+    {
+      "album": {
+        "name": "Pivete / Quanto Menos, Melhor",
+        "url": "https://open.spotify.com/album/73wuPPQPaPVBPp7hPgAXQQ"
+      },
+      "artists": [
+        {
+          "name": "Jovens Idosos",
+          "url": "https://open.spotify.com/artist/4QN6MChHDWiP8E7mxA8bVB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101180,
+      "name": "Pivete",
+      "url": "https://open.spotify.com/track/5Ue9WZjfPu4o96ZyvLE25B"
     },
     {
       "album": {
@@ -11288,7 +11332,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 180407,
       "name": "Start The Game",
       "url": "https://open.spotify.com/track/2b4M4suG9jQKuOod8PaluT"
@@ -11404,6 +11448,24 @@
       "duration_ms": 154158,
       "name": "Supla Zombie",
       "url": "https://open.spotify.com/track/2bSv2939o5oeCJKevJz9PZ"
+    },
+    {
+      "album": {
+        "name": "Surpresinha",
+        "url": "https://open.spotify.com/album/2yYkuA8QCPSMMBpoPuqhYP"
+      },
+      "artists": [
+        {
+          "name": "cat\u00ef\u00e7a",
+          "url": "https://open.spotify.com/artist/1iW65Tu0rLz2xQ90W09I07"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66844,
+      "name": "Surpresinha",
+      "url": "https://open.spotify.com/track/153eN3VoXfOXiUM1BrPE2F"
     },
     {
       "album": {

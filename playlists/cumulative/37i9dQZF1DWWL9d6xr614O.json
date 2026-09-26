@@ -1459,6 +1459,28 @@
     },
     {
       "album": {
+        "name": "Ikaw ay Tapat",
+        "url": "https://open.spotify.com/album/4L66Fy707bC3rvgYI5qgoj"
+      },
+      "artists": [
+        {
+          "name": "Forever Worship",
+          "url": "https://open.spotify.com/artist/7f436MInRRQXriBEuwgn6I"
+        },
+        {
+          "name": "Jaira Magtibay",
+          "url": "https://open.spotify.com/artist/4RwyVE9J4h6KUDVasvGeT8"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344577,
+      "name": "Ikaw ay Tapat",
+      "url": "https://open.spotify.com/track/0pivMwxkLegJVpYV0ukKyW"
+    },
+    {
+      "album": {
         "name": "Ililigtas (Rescue Tagalog Version)",
         "url": "https://open.spotify.com/album/1EBDxM3YTt3SSxp1rbuFm1"
       },
@@ -1510,6 +1532,24 @@
       "duration_ms": 278260,
       "name": "Ililigtas Ka Niya",
       "url": "https://open.spotify.com/track/7cElhP84PAFlTds4sAxMvk"
+    },
+    {
+      "album": {
+        "name": "Inakay Mo, Niyakap Mo",
+        "url": "https://open.spotify.com/album/7qCO9sdEpu8pa3VbuKpLQw"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey Querubin",
+          "url": "https://open.spotify.com/artist/6af6ThbIjS7M2ahGkrnukn"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319162,
+      "name": "Inakay Mo, Niyakap Mo",
+      "url": "https://open.spotify.com/track/5H1eIXA6hdThUOOHfRCzXU"
     },
     {
       "album": {

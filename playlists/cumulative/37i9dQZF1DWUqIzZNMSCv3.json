@@ -1437,6 +1437,28 @@
     },
     {
       "album": {
+        "name": "M\u00e9moire",
+        "url": "https://open.spotify.com/album/42RcD8GuZysTSpe3TVqJQp"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254546,
+      "name": "Faur\u00e9: Cantique de Jean Racine, Op. 11 (Transcr. Tharaud for Piano Solo)",
+      "url": "https://open.spotify.com/track/3ToJpDckSubLgTlu8tRD4a"
+    },
+    {
+      "album": {
         "name": "J.S. Bach: French Suite No. 5 in G Major, BWV 816: I. Allemande",
         "url": "https://open.spotify.com/album/2rGNxZi5BpXPuWhfrDcJTo"
       },
@@ -3246,6 +3268,28 @@
       "duration_ms": 143531,
       "name": "Sonata No. 42 in D Minor (Arr. \u00d3lafsson)",
       "url": "https://open.spotify.com/track/4tKmydUDl8OIeb7fioEsnl"
+    },
+    {
+      "album": {
+        "name": "Song Without Words in A Major",
+        "url": "https://open.spotify.com/album/3rbNekPV3k5ESL1TpYfAhC"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Song Without Words in A Major",
+      "url": "https://open.spotify.com/track/4xzxc7igB9XYMgLplT44Kp"
     },
     {
       "album": {

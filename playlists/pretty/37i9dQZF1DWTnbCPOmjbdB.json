@@ -1,6 +1,6 @@
 {
   "description": "Najlepsze polskie piosenki na czasie. Cover: Roxie",
-  "num_followers": 268459,
+  "num_followers": 268491,
   "original_name": "Polskie hity",
   "owner": {
     "name": "Spotify",
@@ -166,6 +166,10 @@
         {
           "name": "BSK",
           "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        },
+        {
+          "name": "prze\u015bwit",
+          "url": "https://open.spotify.com/artist/48pF8m5m2dDUQHlP1WiU7f"
         }
       ],
       "duration_ms": 159529,

@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Manuel Turizo.
 
-407 songs - 21 hr 17 min
+409 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,6 +302,7 @@
 | [OJALÁ](https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [OJALÁ](https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS) | 2:40 | 2022-06-10 | 2022-07-23 |
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2022-10-21 | 2024-11-30 |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-06-24 |  |
+| [OKCRA](https://open.spotify.com/track/0MpG3FrYRY2EmSgwrV8oF7) | [Lorduy](https://open.spotify.com/artist/69W4dBFtMrTWYHEHwbpHhC), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf), [Blazz Music](https://open.spotify.com/artist/0Nt94CK2e3Vvp5ddUHGZsw) | [OKCRA](https://open.spotify.com/album/7t8IHDrZiUec3iZuKJLxZY) | 2:40 | 2026-09-25 |  |
 | [Pa Que](https://open.spotify.com/track/1Xeocn50sUEglN2083ISju) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Pa Que](https://open.spotify.com/album/1P1yzzemBtMqCRT9qKON0f) | 3:15 | 2022-08-12 | 2022-08-27 |
 | [Pa que ya no estés triste](https://open.spotify.com/track/4Foho0RcX50Fqg9wgdiQBQ) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [Pa que ya no estés triste](https://open.spotify.com/album/1HzgN9B54LNZgdGqFE9wHR) | 3:05 | 2025-10-17 | 2026-03-14 |
 | [PA TI <3](https://open.spotify.com/track/35EqUnbJ0rCZZCWrQdYo1d) | [Ela Conem](https://open.spotify.com/artist/6j3TVnrOKJQYWcX5YKLMkV) | [PA TI <3](https://open.spotify.com/album/39sk0PBz8zYj7V0bBHpXKo) | 2:18 | 2026-09-18 |  |
@@ -407,6 +408,7 @@
 | [Valió La Pena](https://open.spotify.com/track/0ET8DXzYpcYHAXuY6NNfqi) | [Fanny Lu](https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ) | [Valió La Pena](https://open.spotify.com/album/0tjSbtqRjSDIgiXncDEHx0) | 2:32 | 2022-03-25 | 2022-04-02 |
 | [Vieja Canción](https://open.spotify.com/track/7bnykHhGtwK8RTZnaLz33J) | [Ancizar](https://open.spotify.com/artist/4TtiBmQj8iyXCvnPthsuAD), [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX), [Jaider White](https://open.spotify.com/artist/2oAdgZHcguW7xGY9i1xqso) | [Reggaetón Club](https://open.spotify.com/album/2KxWRBcEsElx9QA5NtvPVR) | 3:44 | 2022-01-18 | 2022-01-29 |
 | [Volar](https://open.spotify.com/track/5pQGLii6TY6nUzuBM5KXhs) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Volar](https://open.spotify.com/album/6mF5PHt6rr48cTh75pMx5W) | 3:26 | 2023-05-19 | 2023-06-17 |
+| [Volveré](https://open.spotify.com/track/5uRrYrFs8hRaPBT15ljKhH) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Volveré](https://open.spotify.com/album/5qw35qmtl50xkx4Nr6QNDj) | 2:24 | 2026-09-25 |  |
 | [Whiskey y Coco](https://open.spotify.com/track/0otoSS2m3QjbDLzsHMobgK) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Whiskey y Coco](https://open.spotify.com/album/6MVcp3C5rcllaSyU9nhGrP) | 3:06 | 2023-02-03 | 2023-03-18 |
 | [Whiskey y Coco \- Remix](https://open.spotify.com/track/3pUqOFuXETdcGRh8E587BE) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Whiskey y Coco \(Remix\)](https://open.spotify.com/album/4g71V57SAYujhaE1QcJUCF) | 3:41 | 2023-05-18 | 2023-06-24 |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-02-03 | 2025-05-17 |

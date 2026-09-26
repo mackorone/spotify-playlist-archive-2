@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the sounds of South African Jazz\. Cover: vuyo viwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,693 likes - 60 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,695 likes - 60 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 15 | [geza](https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs) | [vuyo viwe](https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj) | [geza](https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi) | 7:09 |
 | 16 | [Nguwe](https://open.spotify.com/track/0TqxXQxF11lNHNzpzQ8MCZ) | [Internet Athi](https://open.spotify.com/artist/5ycDBJECG7YqvqtkstSFaa) | [Nguwe](https://open.spotify.com/album/1lbVmXMwuOaR7IGh4V47cQ) | 5:09 |
 | 17 | [Lesedi](https://open.spotify.com/track/7yCLdDtr0RBqQ36gQ0OYhO) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 10:02 |
-| 18 | [Third World Child](https://open.spotify.com/track/77eZpR8sSF7OKG6SON6cwH) | [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [Scatterlings \(Johnny Clegg Reimagined\)](https://open.spotify.com/album/7f3nbz6bx26a15WKCzYQKT) | 4:55 |
-| 19 | [The Beyond](https://open.spotify.com/track/1CFaQyXq0nSHSBQ9AAALDQ) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ) | [The Beyond](https://open.spotify.com/album/5xTKYO7RjVCdaROa9kvBcN) | 1:45 |
+| 18 | [The Beyond](https://open.spotify.com/track/1CFaQyXq0nSHSBQ9AAALDQ) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ) | [The Beyond](https://open.spotify.com/album/5xTKYO7RjVCdaROa9kvBcN) | 1:45 |
+| 19 | [Third World Child](https://open.spotify.com/track/77eZpR8sSF7OKG6SON6cwH) | [Johnny Clegg](https://open.spotify.com/artist/7idPv1alc0mcEhEsKlMV2O), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Kyle Shepherd Trio](https://open.spotify.com/artist/4ZQ1alIeuLSNI5DkiYNzxx) | [Scatterlings \(Johnny Clegg Reimagined\)](https://open.spotify.com/album/7f3nbz6bx26a15WKCzYQKT) | 4:55 |
 | 20 | [Thato Ya Hao](https://open.spotify.com/track/5wwlcvBWy5VRA0ZKgQk6HP) | [John Lundun](https://open.spotify.com/artist/0yZ5REAJnSQ71pr9yC9CVk), [MODIKA.](https://open.spotify.com/artist/0yIhOcXDITuo8fbnLTvR7m) | [Thato Ya Hao](https://open.spotify.com/album/04RM5lbAmZ1xLP7XpHsGNA) | 3:11 |
 | 21 | [xandibona wena feat\. Thandi Ntuli](https://open.spotify.com/track/2i34qxXLo879bdRYDwyhQN) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Thandi Ntuli](https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy) | [Sankofa](https://open.spotify.com/album/5y7tFgFLl0d5AKExJC8Rsy) | 4:03 |
 | 22 | [Monate Ofedile](https://open.spotify.com/track/3tmrfMKWSKiPzhyKqX419r) | [Don Laka](https://open.spotify.com/artist/1pVB3hFHwbaa3CkI72nQfQ) | [Invitation 2](https://open.spotify.com/album/3JHKnTZn987AZsQHDpx0x5) | 4:18 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 56 | [Baby Ngimanzi Wuthando](https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [TRUE STORY](https://open.spotify.com/album/4Pyg9xened5ecpzU6BVYzX) | 3:57 |
 | 57 | [Doodle Do \- Diminished Light](https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s) | [Pilani Bubu](https://open.spotify.com/artist/6KljVJXbQ3IF9891IvG5be) | [Doodle Do \- Diminished Light](https://open.spotify.com/album/0Q9DsJOyrb0BoH9KnViXie) | 4:04 |
 | 58 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
-| 59 | [Air](https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [A Semblance: Of Return](https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl) | 6:33 |
-| 60 | [Ngeke!](https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:30 |
+| 59 | [Ngeke!](https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR) | [BandaBanda](https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [ZINZA](https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv) | 4:30 |
+| 60 | [Air](https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [A Semblance: Of Return](https://open.spotify.com/album/2BzJDkyvW1nT6XotKEkgZl) | 6:33 |
 
 Snapshot ID: `AAAAAIC3S5v31erZnr6kTkqXwFMdSXjC`

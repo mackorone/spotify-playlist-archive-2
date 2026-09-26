@@ -10343,6 +10343,24 @@
     },
     {
       "album": {
+        "name": "My God",
+        "url": "https://open.spotify.com/album/4RpKKnWKpL4gCBQk0KG11B"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 488149,
+      "name": "My God",
+      "url": "https://open.spotify.com/track/5Kipo6rCgdizoEKxyRvbST"
+    },
+    {
+      "album": {
         "name": "My Lover (Live)",
         "url": "https://open.spotify.com/album/2C37Rmrh9wdDDFNii8pfCq"
       },
@@ -11227,6 +11245,24 @@
     },
     {
       "album": {
+        "name": "Worship Leader's Diary",
+        "url": "https://open.spotify.com/album/211Th8Wp70e5Uz6mOSNt2o"
+      },
+      "artists": [
+        {
+          "name": "ANTHNY",
+          "url": "https://open.spotify.com/artist/4BlBv9QEzkvROw7jx0uWC5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243852,
+      "name": "offering (the stand)",
+      "url": "https://open.spotify.com/track/0hoy1kxFaCuAPC9joOkpJi"
+    },
+    {
+      "album": {
         "name": "Ogo",
         "url": "https://open.spotify.com/album/0FR8yTV3mlUHExeORoCCWS"
       },
@@ -12046,7 +12082,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 240698,
       "name": "prepare me",
       "url": "https://open.spotify.com/track/0j3gqn5IhxOXXEJ7DhB87N"
@@ -12104,7 +12140,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 953130,
       "name": "Promise Keeper",
       "url": "https://open.spotify.com/track/7v7F2NAs359SCkFk5YBZEK"

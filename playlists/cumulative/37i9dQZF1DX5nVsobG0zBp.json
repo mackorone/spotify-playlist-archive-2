@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: LON3R JOHNY",
+  "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Richie Campbell",
   "name": "Rap Tuga Hits",
   "tracks": [
     {
@@ -821,6 +821,24 @@
     },
     {
       "album": {
+        "name": "BANGLA",
+        "url": "https://open.spotify.com/album/3CeNaZIMuNI2y7JKHMY7D4"
+      },
+      "artists": [
+        {
+          "name": "Piruka",
+          "url": "https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127200,
+      "name": "BANGLA",
+      "url": "https://open.spotify.com/track/0eICBdMRCwuF8YxgaaHNRe"
+    },
+    {
+      "album": {
         "name": "Beber Para Esquecer",
         "url": "https://open.spotify.com/album/3kHspN9UQgOo4q8f3y7N3K"
       },
@@ -1595,6 +1613,24 @@
     },
     {
       "album": {
+        "name": "Demb\u00e9l\u00e9",
+        "url": "https://open.spotify.com/album/50utoD0gDO1vqAqEVzHXqq"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171645,
+      "name": "Demb\u00e9l\u00e9",
+      "url": "https://open.spotify.com/track/5axSqCpJHcCaRdLv6gQ7ks"
+    },
+    {
+      "album": {
         "name": "Desconfinamento",
         "url": "https://open.spotify.com/album/1ktxHZvu6tTukquKyS9b67"
       },
@@ -1624,7 +1660,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 186139,
       "name": "Desconfinamento",
       "url": "https://open.spotify.com/track/2uaceelHxzFYnhLec89RpE"
@@ -2921,6 +2957,24 @@
     },
     {
       "album": {
+        "name": "Elephant In The Room",
+        "url": "https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167832,
+      "name": "Look What You've Done",
+      "url": "https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS"
+    },
+    {
+      "album": {
         "name": "Louca Life",
         "url": "https://open.spotify.com/album/27Xe1TLkI2sxs5e2nYCwCZ"
       },
@@ -2994,7 +3048,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 208068,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/677ebW5G4BLaqX5Ue3itGv"
@@ -3710,6 +3764,32 @@
       "duration_ms": 180491,
       "name": "Mo\u00e7a",
       "url": "https://open.spotify.com/track/5ADtkD7oOzAQFWcfYQvQsl"
+    },
+    {
+      "album": {
+        "name": "Mulher Do Bandido",
+        "url": "https://open.spotify.com/album/4l2k2xZcm3entvzOjoA42b"
+      },
+      "artists": [
+        {
+          "name": "Prod\u00edgio",
+          "url": "https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5"
+        },
+        {
+          "name": "Rikinho",
+          "url": "https://open.spotify.com/artist/0MwIU9RawJmWw1SOhZi6Qw"
+        },
+        {
+          "name": "Edgar Domingos",
+          "url": "https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Mulher Do Bandido",
+      "url": "https://open.spotify.com/track/0eZiONOncclcPEMty5K5AO"
     },
     {
       "album": {
@@ -5346,7 +5426,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 191679,
       "name": "Tou Bem (feat. Lhast)",
       "url": "https://open.spotify.com/track/0gzwa0yJncSs29DjXajA5i"
@@ -5578,7 +5658,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 260800,
       "name": "Vencedor",
       "url": "https://open.spotify.com/track/4a0H1kKez7UVLveRL5cEgy"

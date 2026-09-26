@@ -21337,6 +21337,24 @@
     },
     {
       "album": {
+        "name": "\u6b7b\u306c\u304b\u751f\u304d\u308b\u304b",
+        "url": "https://open.spotify.com/album/4HL13G5HCfsP2QvTknHmyD"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165974,
+      "name": "\u6b7b\u306c\u304b\u751f\u304d\u308b\u304b",
+      "url": "https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX"
+    },
+    {
+      "album": {
         "name": "HELP EVER HURT NEVER",
         "url": "https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG"
       },

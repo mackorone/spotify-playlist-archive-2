@@ -1,12 +1,12 @@
 {
   "description": "This is Auli'i Cravalho. The essential tracks, all in one playlist.",
-  "num_followers": 3405,
+  "num_followers": 3404,
   "original_name": "This Is Auli'i Cravalho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arMWgAAAAAD/XPd5WM5LKIqJCWk6bdjT",
+  "snapshot_id": "arRoAAAAAADLKWQXk9IoWOiDeBwCrN3Q",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scars To Your Beautiful (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2"
+        "name": "The Mighty Nein (Prime Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/1QmjGCBvoF3o3VuXC4dHum"
       },
       "artists": [
         {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Habib",
+          "url": "https://open.spotify.com/artist/5s4yKsjfxsyBtIOCufluoU"
         }
       ],
-      "duration_ms": 258933,
-      "name": "Scars To Your Beautiful - Rise Cast Version",
-      "url": "https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE"
+      "duration_ms": 69293,
+      "name": "Toya, The Vivid Voice",
+      "url": "https://open.spotify.com/track/2FAzZRueBka2OXAcAW4Iky"
     },
     {
       "added_at": null,
@@ -471,22 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Mighty Nein (Prime Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/1QmjGCBvoF3o3VuXC4dHum"
+        "name": "Scars To Your Beautiful (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/0ci1RPXgRO5v8Y1ngN5gq2"
       },
       "artists": [
         {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
         },
         {
-          "name": "Habib",
-          "url": "https://open.spotify.com/artist/5s4yKsjfxsyBtIOCufluoU"
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 69293,
-      "name": "Toya, The Vivid Voice",
-      "url": "https://open.spotify.com/track/2FAzZRueBka2OXAcAW4Iky"
+      "duration_ms": 258933,
+      "name": "Scars To Your Beautiful - Rise Cast Version",
+      "url": "https://open.spotify.com/track/1rffHCBOEXWWl4FjSPToyE"
     },
     {
       "added_at": null,

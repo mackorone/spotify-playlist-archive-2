@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-903 songs - 1 day 20 hr 55 min
+905 songs - 1 day 21 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Don't Surrender](https://open.spotify.com/track/7CYmaKqY6HuQrP8JBaniAP) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [Don't Surrender](https://open.spotify.com/album/6rnQEX7eeA2POsxsk38QIV) | 2:45 | 2023-08-08 | 2024-03-13 |
 | [Don't Understand](https://open.spotify.com/track/068ysAB24O3bxsG2ckfOdh) | [Sketchez](https://open.spotify.com/artist/3i1DZLmhjic0xxPoAhwSY6) | [Don't Understand](https://open.spotify.com/album/2R53EaGCJFfcZb6Pw9k4Ff) | 2:18 | 2023-12-13 | 2024-04-17 |
 | [Don't Wake Me Up](https://open.spotify.com/track/0gnZukG3p3XcRt2BF8ZcoU) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Don't Wake Me Up](https://open.spotify.com/album/3BG9PweBEnI1wE8Vvtvo4L) | 2:31 | 2025-12-26 |  |
+| [DON'T WANNA KNOW!!!](https://open.spotify.com/track/2wxhaahMoNMaBVhEFJHnSW) | [Laeko](https://open.spotify.com/artist/3EIT3LGmmYzag8NaQ681nT) | [DON'T WANNA KNOW!!!](https://open.spotify.com/album/1wiAmLqIf4IUMfcdmgsOW1) | 3:04 | 2026-09-25 |  |
 | [Don't Want To Feel](https://open.spotify.com/track/0MbShZ0lNiflOae1B0cCD4) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL) | [Playing with Fire](https://open.spotify.com/album/19wkkvKkqO1SY9M3jYD8Nl) | 3:31 | 2023-07-07 | 2023-08-10 |
 | [Don't Want To Feel](https://open.spotify.com/track/5WZogsNGbF8m0FU68f9pV4) | [Josh Rubin](https://open.spotify.com/artist/7e1qyhWgdVEnEjG7Sbb5W0), [Highlnd](https://open.spotify.com/artist/5CI6YfdGj33Dk91IiUge82), [nøll](https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL) | [Don't Want To Feel](https://open.spotify.com/album/21C6omxO7GWCKW9CSKictI) | 3:31 | 2023-04-22 | 2023-08-10 |
 | [Done Better](https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS) | [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t), [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Done Better](https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh) | 2:50 | 2023-12-26 | 2024-08-28 |
@@ -357,6 +358,7 @@
 | [grow apart](https://open.spotify.com/track/1Wk4VhEdlPzRBQmogzCejD) | [Ghostnaps](https://open.spotify.com/artist/12H4M1bhUsHGZfES7IO27D) | [grow apart](https://open.spotify.com/album/2DpQY6dml38F5Wc5AtAJgc) | 2:54 | 2024-07-09 | 2025-01-08 |
 | [Guide You Home](https://open.spotify.com/track/26k2oNy7Ps75NSxiHKjP1W) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Level 8](https://open.spotify.com/artist/7GHpLKwhlOEzggNhtgQaYv) | [Guide You Home](https://open.spotify.com/album/4NRH0zEwYAIvZyZUMk4nsb) | 3:12 | 2023-02-17 | 2023-02-21 |
 | [H.A.Y](https://open.spotify.com/track/2Y5z3eOhmuDQNyAKAmmVcR) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr) | [H.A.Y](https://open.spotify.com/album/7mMKUcbLBTeMP51qkihmPy) | 3:43 | 2023-08-08 | 2023-12-14 |
+| [Halcyon](https://open.spotify.com/track/1A9xz99EOvP3KTApINsP0n) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Jibaan](https://open.spotify.com/artist/5A20HgnNenptlZIhbSFbvJ) | [Regardless EP](https://open.spotify.com/album/0OU4IbDVtq0F1az5j3roBq) | 3:47 | 2026-09-25 |  |
 | [Halo \(I'll Be There\)](https://open.spotify.com/track/4yjD6NhVSE7vdxqGgTXyyp) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [MAD SNAX](https://open.spotify.com/artist/33MJONPoMWD0sKQvCHCdnu), [Misfit](https://open.spotify.com/artist/4qqtDYEq0zywabPZZa2uFH) | [Halo \(I'll Be There\)](https://open.spotify.com/album/23zxzYYJoZlfIGkajSLOBM) | 2:44 | 2023-05-05 | 2023-08-10 |
 | [Happier Now](https://open.spotify.com/track/6aDhxjsjRJ9yys2g7Dm8qW) | [SadBois](https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ), [Gabriel Eli](https://open.spotify.com/artist/6Ro6AlBLndB1ttsLAOZP6h) | [Happier Now](https://open.spotify.com/album/4sbyMFGjrzJroFJxtOyqTV) | 3:00 | 2024-10-03 |  |
 | [harinezumi](https://open.spotify.com/track/7xm03vyufkfib4IKZeelWJ) | [waera](https://open.spotify.com/artist/0Pz9dDcv7SWwHzdqAjQr3l) | [harinezumi](https://open.spotify.com/album/4KXcFAlr8h4ysLuy9dVovi) | 1:57 | 2025-02-14 |  |

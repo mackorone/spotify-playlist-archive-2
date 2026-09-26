@@ -4,7 +4,7 @@
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Alduts Sherdley
 
-315 songs - 15 hr 30 min
+316 songs - 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Ochii care nu se văd](https://open.spotify.com/track/40VQXiJYyLIsqOZvBTmLDd) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [GINIA](https://open.spotify.com/artist/1giHQkT7XkpCarE8kyA6DL) | [Ochii care nu se văd](https://open.spotify.com/album/5p8fQCvnHnXHlnyvRH0QrJ) | 2:30 | 2025-07-31 | 2025-09-12 |
 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 | 2024-06-27 |  |
 | [Oglinda Oglinjoara](https://open.spotify.com/track/4NQcy8rMlBbIIwySNXZOeX) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Oglinda Oglinjoara](https://open.spotify.com/album/45xaKBcjTfsxVZMXnqNpCN) | 2:06 | 2026-03-06 | 2026-04-24 |
+| [Oglindă oglinjoară](https://open.spotify.com/track/38pN4Z80UagGOo2SrQhyrZ) | [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl), [Arkanian](https://open.spotify.com/artist/1LdNutYy0xoGpKCDCj2k1p) | [Oglindă oglinjoară](https://open.spotify.com/album/1ZAHolbqWYrR3pBaZAYVF3) | 2:11 | 2026-09-25 |  |
 | [Operatiunea GhostGun](https://open.spotify.com/track/6ZvxHr1I4tofQp3WOh68j4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Toata lumea moare](https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2) | 2:24 | 2025-03-27 |  |
 | [Otrava](https://open.spotify.com/track/0CNabe96mGBCMn22tTCZ5v) | [Lazy Ed](https://open.spotify.com/artist/23l5vFzRRC5iUKVCH2eb4T), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh) | [Otrava](https://open.spotify.com/album/5zDse55zEb8drEC7Vjc0pv) | 3:13 | 2025-11-20 | 2025-12-05 |
 | [Pana la ultimul suflu](https://open.spotify.com/track/22H8GavQmDeMXiXfoR4FZe) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Pana la ultimul suflu](https://open.spotify.com/album/2wLwyvUpe56h74qMdVZf5s) | 2:36 | 2026-06-12 | 2026-07-03 |
@@ -307,7 +308,7 @@
 | [WESTSIDE BUCURESTI](https://open.spotify.com/track/1D5dtqN5tfLFLtexQs3K4p) | [KYOTO](https://open.spotify.com/artist/7HZEPyhE3YmdG74uLUB1VO) | [WESTSIDE BUCURESTI](https://open.spotify.com/album/04t7e6WP78wknRAtcRVMF8) | 4:15 | 2026-04-30 | 2026-05-15 |
 | [X6](https://open.spotify.com/track/2K27dgyO1yDFw2gZNQSkFF) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6](https://open.spotify.com/album/6CMkTshSmtSl4FGTn5aIU3) | 2:29 | 2024-06-27 |  |
 | [X6 V2](https://open.spotify.com/track/6hrkmWVqgogA0ySohfzCUv) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [X6 V2](https://open.spotify.com/album/5hJXqN5HEht3cPoKpHvged) | 2:29 | 2025-06-26 | 2025-09-06 |
-| [Yessir](https://open.spotify.com/track/5pMfPRsUrGnKQwBLQa3JhP) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg) | [Yessir](https://open.spotify.com/album/0f0jAWh6YzeCbGCbMVQhKV) | 3:50 | 2026-09-03 |  |
+| [Yessir](https://open.spotify.com/track/5pMfPRsUrGnKQwBLQa3JhP) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg) | [Yessir](https://open.spotify.com/album/0f0jAWh6YzeCbGCbMVQhKV) | 3:50 | 2026-09-03 | 2026-09-26 |
 | [Zece Zile](https://open.spotify.com/track/64ssajATpkzcxp9lUJWCKu) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Zece Zile](https://open.spotify.com/album/7GgBqWI0jrODYlGWyG6KES) | 3:17 | 2026-09-11 |  |
 | [ZERO](https://open.spotify.com/track/3vDNT5H8VtKFgaDL0zD68Z) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [ZERO](https://open.spotify.com/album/6I5JKDtiXS8HvlLznCRfcY) | 2:40 | 2024-06-27 | 2025-06-06 |
 | [Zile Gemene](https://open.spotify.com/track/1fLAcffF9GTh1XrZJWpVtU) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Zile Gemene](https://open.spotify.com/album/4dgEAQpcWaILxIPMhzvyrD) | 2:44 | 2025-10-23 | 2025-11-07 |

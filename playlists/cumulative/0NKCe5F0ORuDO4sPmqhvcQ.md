@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-729 songs - 1 day 16 hr 43 min
+731 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-19 | 2023-01-20 |
 | [F.M.T.D.](https://open.spotify.com/track/24wxQ6tO7NyFGV93TclK8k) | [a.k.a\. skips](https://open.spotify.com/artist/4Ri7SRv1OH3ZXcY2LHIfVv) | [F.M.T.D.](https://open.spotify.com/album/4CLUqPA3WTCfZ5As3nDBjN) | 6:41 | 2023-10-04 | 2024-03-23 |
 | [Fa111en Angels](https://open.spotify.com/track/2nAVOPiURJ8CYwFEFq3HBU) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:47 | 2021-12-07 | 2022-01-08 |
+| [FACE2FACE](https://open.spotify.com/track/72w6dmlgNDagH5fbQKr64D) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX) | [FACE2FACE](https://open.spotify.com/album/6IOi7NuN61x8ww6CgJHv1v) | 2:51 | 2026-09-25 |  |
 | [fade](https://open.spotify.com/track/0Pi7TJXg48pyHaAPP4b1I7) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [..\. Onward](https://open.spotify.com/album/7DJ0bdtLsehTTj541oS2Pk) | 2:49 | 2022-09-13 | 2023-07-20 |
 | [Falcon](https://open.spotify.com/track/11NbL1wxxGZUqvHK46K1hD) | [Cherry Flavored Antacids](https://open.spotify.com/artist/45WhFmbNarLeiAJr9YElJ7) | [Falcon](https://open.spotify.com/album/2SF71EDbFOE3EkQ7skpqth) | 5:41 | 2022-08-02 | 2022-09-19 |
 | [Fall In](https://open.spotify.com/track/6uEy133no179YW6ulcmalc) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Fall In](https://open.spotify.com/album/0O87u3ZNG6B7jXiRh9TOoz) | 4:22 | 2022-03-30 | 2025-09-28 |
@@ -676,6 +677,7 @@
 | [TURN IT DOWN](https://open.spotify.com/track/1j8yjtaPW2rPsTyB1u8P4i) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5) | [TURN IT DOWN](https://open.spotify.com/album/6F9N9UkELafppB2aOEvMqR) | 2:34 | 2021-11-22 | 2022-01-08 |
 | [undo](https://open.spotify.com/track/7i9KAvis03PzePTT88cYmG) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [undo](https://open.spotify.com/album/1LTXwkbpRU3UrSlqMXkZ53) | 3:04 | 2021-11-01 | 2022-01-08 |
 | [Unfamiliar Faces](https://open.spotify.com/track/5fgQ8FZ4bfTs9Pk4oG6imi) | [Chloe Parché](https://open.spotify.com/artist/6jCOKlQ9OBPbQgPoZ3haov) | [Unfamiliar Faces](https://open.spotify.com/album/5LQcOO6gfzCEk8zbffdTI8) | 3:29 | 2021-11-19 | 2022-01-08 |
+| [Uno Dos Tres](https://open.spotify.com/track/2vdtxz7fFGfAu6Xs3i2D6m) | [Cole Knight](https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb) | [Uno Dos Tres](https://open.spotify.com/album/1bqMPwpSaxLiyeWDBQvRug) | 3:00 | 2026-09-25 |  |
 | [USE ME](https://open.spotify.com/track/1Bm2rN43nD3zuRZvpyq2vR) | [Midnight Pool Party](https://open.spotify.com/artist/5SCaNm27aL0t2Vld0DxV4Z) | [USE ME](https://open.spotify.com/album/3p1sSOGpCL5G1kDomhAlVi) | 4:00 | 2024-05-12 | 2025-08-25 |
 | [VALENTINE](https://open.spotify.com/track/0OYi9qARPLv68hWIvIEifz) | [Marty Valentine](https://open.spotify.com/artist/7JCYYyIBno1eDpBqI436yk) | [VALENTINE](https://open.spotify.com/album/1dlmtbWgwvYpbmN3tDn42F) | 2:41 | 2022-02-15 | 2022-03-10 |
 | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/track/53HvRc4rqJa8YmssjH5GKp) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [Vanilla Sky \(with Wrabel\)](https://open.spotify.com/album/1AW5jWwgZpzSyl8gELf5Iu) | 3:00 | 2022-02-15 | 2022-03-10 |

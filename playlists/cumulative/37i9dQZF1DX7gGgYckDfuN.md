@@ -4,7 +4,7 @@
 
 > Enjoy Music From "JoJo's Bizarre Adventure" series! ©LUCKY LAND COMMUNICATIONS/集英社・ジョジョの奇妙な冒険SBR製作委員会
 
-99 songs - 8 hr 28 min
+101 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Modern Crusaders](https://open.spotify.com/track/65fqcmj2M1EiERwDoIflDt) | [Enigma](https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt) | [The Screen Behind The Mirror](https://open.spotify.com/album/7DYEllaK5Cxa2cbcCF1QDV) | 3:50 | 2021-12-09 |  |
 | [Roundabout](https://open.spotify.com/track/6KIFja6dizWkI7IpY0vmr8) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Ultimate Yes: 35th Anniversary Collection](https://open.spotify.com/album/37GBIGYhZlXUZA0NZ4ifHl) | 8:32 | 2021-12-09 |  |
 | [Roundabout \- 2003 Remaster](https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Fragile \(Deluxe Edition\)](https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG) | 8:30 | 2021-12-09 | 2022-11-12 |
+| [SPIN](https://open.spotify.com/track/7Kn5NdVjzS9WUPub1rlwuT) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [SPIN](https://open.spotify.com/album/4Zgc3KeKNzc25VloCHuKBK) | 5:05 | 2026-09-25 |  |
 | [STAND PROUD](https://open.spotify.com/track/1YTW2IiSDH0buMd07A5Nnw) | [Jin Hashimoto](https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0) | [STAND PROUD](https://open.spotify.com/album/44ewhH5kSkscHRCx4rpLfz) | 4:38 | 2023-06-27 |  |
 | [STAND PROUD](https://open.spotify.com/track/3OqPSJsqe4LvcaVl7G6vV3) | [Jin Hashimoto](https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0) | [STAND PROUD](https://open.spotify.com/album/4p5qdQrjYGuVwakXJ1hB4k) | 4:38 | 2021-12-09 | 2024-04-19 |
 | [STAND PROUD \- Dramatic Ver.](https://open.spotify.com/track/1Rd9BnPgT6eRLwsvfUZauD) | [Jin Hashimoto](https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0) | [JOJO'S BIZARRE ADVENTURE \-The anthology songs 3](https://open.spotify.com/album/5MGmqY04cQTY3YUQpRp9EE) | 5:09 | 2021-12-09 | 2024-04-19 |
@@ -102,6 +103,7 @@
 | [憩い \- Piano Ver.](https://open.spotify.com/track/6swnNYtCU8YnwucoN6LAa2) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険スターダストクルセイダースO.S.T\. \[Journey\]](https://open.spotify.com/album/4MopTqedSUFAD4fykTiy4p) | 2:01 | 2023-06-27 |  |
 | [昼下がりの杜王町](https://open.spotify.com/track/79bIwBHgDgy8qYsECBtAVU) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険ダイヤモンドは砕けない O.S.T～Daydream～](https://open.spotify.com/album/0wNAe0GDTckyWF7cdFZqmx) | 1:29 | 2023-06-27 |  |
 | [未来への遺産\-Jonathan's Ballad\-](https://open.spotify.com/track/1MTNb1Zj1gmSaEV4kzfzyI) | [Hiroaki Tommy Tominaga](https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ) | [ジョジョの奇妙な冒険 The anthology songs \(1\)](https://open.spotify.com/album/5wkgDg471DpsM7XoPEefV0) | 6:44 | 2023-06-27 |  |
+| [死ぬか生きるか](https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [死ぬか生きるか](https://open.spotify.com/album/4HL13G5HCfsP2QvTknHmyD) | 2:45 | 2026-09-25 |  |
 | [狡猾な鼠](https://open.spotify.com/track/7emhF0OnsOkZbzLdtEsCjn) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険ダイヤモンドは砕けない O.S.T～Nightwalk～](https://open.spotify.com/album/7dabC3QeC7JAxJw5bLVaDF) | 3:15 | 2023-06-27 |  |
 | [石仮面～序章～](https://open.spotify.com/track/3SYpvSrmxfwOZYGik5qfQk) | [松尾早人](https://open.spotify.com/artist/0AJFWjU9y4C16lrdCrM9bn) | [ジョジョの奇妙な冒険 O.S.T Phantom Blood \[Destiny\]](https://open.spotify.com/album/4vT8j08jVMHOO3nbkefEH5) | 2:17 | 2023-06-27 |  |
 | [裏切り者のレクイエム \- Diavolo Ver.](https://open.spotify.com/track/33M6kaWHEUxmMpvlBefRAK) | [Yugo Kanno](https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD) | [ジョジョの奇妙な冒険 黄金の風 O.S.T \(Vol.3 Finare\)](https://open.spotify.com/album/4yauUwryR6UKaAOqoqEPoz) | 3:44 | 2023-06-27 |  |

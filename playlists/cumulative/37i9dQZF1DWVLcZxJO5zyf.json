@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: JUNIOR, Luccas Carlos",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Joyce Alane",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -3041,6 +3041,24 @@
     },
     {
       "album": {
+        "name": "Me D\u00e1 Uma Luz",
+        "url": "https://open.spotify.com/album/0a5I4iN5Vrq6K5b8dUAFgQ"
+      },
+      "artists": [
+        {
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191088,
+      "name": "Dilema",
+      "url": "https://open.spotify.com/track/4fJWANIINf6cHT0woUuxkL"
+    },
+    {
+      "album": {
         "name": "Dilema",
         "url": "https://open.spotify.com/album/4x120qkC4A72WlSXxVJr8b"
       },
@@ -4658,7 +4676,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 150258,
       "name": "Labirinto",
       "url": "https://open.spotify.com/track/3EDNdZN1NCPYUZhoSYCwOv"
@@ -4870,7 +4888,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 192766,
       "name": "Loira Gelada",
       "url": "https://open.spotify.com/track/2p68vxFhBV5MMVaGkiKqkc"
@@ -6242,6 +6260,28 @@
       "duration_ms": 195805,
       "name": "Na Calada da Tarde",
       "url": "https://open.spotify.com/track/7zqfsyPXgVQmaVkErptcP5"
+    },
+    {
+      "album": {
+        "name": "Na M\u00e3o Do Acaso",
+        "url": "https://open.spotify.com/album/64hOSYnhRludB66MlnWpZ1"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218280,
+      "name": "Na M\u00e3o Do Acaso",
+      "url": "https://open.spotify.com/track/3FuodKkKDIGEYA35q1wFcl"
     },
     {
       "album": {
@@ -8222,7 +8262,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 163263,
       "name": "Que Pecado!",
       "url": "https://open.spotify.com/track/5djr1EgrgGLBbZD8xOxNPs"
@@ -9539,6 +9579,28 @@
     },
     {
       "album": {
+        "name": "Solo T\u00fa y Yo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4CLB0832HWx7CBsNtFfEdG"
+      },
+      "artists": [
+        {
+          "name": "Wanessa Camargo",
+          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
+        },
+        {
+          "name": "Maite Perroni",
+          "url": "https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "Solo T\u00fa y Yo - Ao Vivo",
+      "url": "https://open.spotify.com/track/0zMfZA6AyRkTMhzUcq8v6Q"
+    },
+    {
+      "album": {
         "name": "Soltinha",
         "url": "https://open.spotify.com/album/79o5cWTyCM3YNqYIK9wKif"
       },
@@ -9824,7 +9886,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 220647,
       "name": "S\u00f3 Voc\u00ea Que N\u00e3o",
       "url": "https://open.spotify.com/track/7Eolxg7fFxxSoOfQBq1M50"
@@ -11050,6 +11112,32 @@
       "duration_ms": 245566,
       "name": "\u00c1guas passadas (Netuno)",
       "url": "https://open.spotify.com/track/5o9cjCBznQKB29YE1XfkD4"
+    },
+    {
+      "album": {
+        "name": "Sedenta",
+        "url": "https://open.spotify.com/album/1nrS0PFRsbqBj2awTLookv"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        },
+        {
+          "name": "BIN",
+          "url": "https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg"
+        },
+        {
+          "name": "Maikinho DJ",
+          "url": "https://open.spotify.com/artist/4fjI8I30Qwk0hOKr8jNvEh"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152465,
+      "name": "\u00daltima Sess\u00e3o",
+      "url": "https://open.spotify.com/track/79yCrPRLd0mPVQiekndGJI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWVLcZxJO5zyf"

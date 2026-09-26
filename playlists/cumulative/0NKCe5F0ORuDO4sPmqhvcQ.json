@@ -4411,6 +4411,24 @@
     },
     {
       "album": {
+        "name": "FACE2FACE",
+        "url": "https://open.spotify.com/album/6IOi7NuN61x8ww6CgJHv1v"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "FACE2FACE",
+      "url": "https://open.spotify.com/track/72w6dmlgNDagH5fbQKr64D"
+    },
+    {
+      "album": {
         "name": "... Onward",
         "url": "https://open.spotify.com/album/7DJ0bdtLsehTTj541oS2Pk"
       },
@@ -13810,6 +13828,24 @@
       "duration_ms": 209714,
       "name": "Unfamiliar Faces",
       "url": "https://open.spotify.com/track/5fgQ8FZ4bfTs9Pk4oG6imi"
+    },
+    {
+      "album": {
+        "name": "Uno Dos Tres",
+        "url": "https://open.spotify.com/album/1bqMPwpSaxLiyeWDBQvRug"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Uno Dos Tres",
+      "url": "https://open.spotify.com/track/2vdtxz7fFGfAu6Xs3i2D6m"
     },
     {
       "album": {

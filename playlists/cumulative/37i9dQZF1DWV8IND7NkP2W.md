@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-843 songs - 1 day 14 hr 11 min
+844 songs - 1 day 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Curtain Call](https://open.spotify.com/track/38XfPiYuoayjbUX9Q9qOzK) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Curtain Call](https://open.spotify.com/album/59TQxHntLy3yBkzajpmqdp) | 1:44 | 2021-12-23 | 2022-07-17 |
 | [D's Swing](https://open.spotify.com/track/2S9rmVlkNTktxi1cOeQNIS) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [D's Swing](https://open.spotify.com/album/7wSOkWVleE8uGAYPGJAWRj) | 3:38 | 2022-07-28 | 2022-11-18 |
 | [Dance](https://open.spotify.com/track/15ZGmuxEQvuu6FhbhlUJ4n) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Dance](https://open.spotify.com/album/2x2cUyIuScLl3M7eVeeAdq) | 3:19 | 2023-09-26 | 2026-09-23 |
-| [Dawn Breaks](https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Dawn Breaks](https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw) | 1:58 | 2025-12-02 |  |
+| [Dawn Breaks](https://open.spotify.com/track/74S6DteUTCW0CJXm7ulDdJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Dawn Breaks](https://open.spotify.com/album/4GzbiM1VRAZwARO8DCCbUw) | 1:58 | 2025-12-02 | 2026-09-26 |
 | [dawn of diego martin](https://open.spotify.com/track/0yedPe6bSN6TU4lvxApeqb) | [Akio Watanabe](https://open.spotify.com/artist/1epOdFDcd9PEgkchlAUND4), [n'sawa\-saraca](https://open.spotify.com/artist/2qjQAfgSf4srD1QtETCX7v) | [dawn of diego martin](https://open.spotify.com/album/3mfY09Oj9fEjPV4ckbZcSM) | 3:21 | 2021-12-23 | 2022-07-27 |
 | [Day Off](https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [Day Off](https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4) | 3:04 | 2026-09-22 |  |
 | [DAY OFF](https://open.spotify.com/track/50O8IO9mY1fhlgB9iOnsxG) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [DAY OFF](https://open.spotify.com/album/5lWmKhQToRBkp4GXpPufKG) | 3:46 | 2021-12-23 | 2022-07-17 |
@@ -338,6 +338,7 @@
 | [ingenuity](https://open.spotify.com/track/7Fc6xaWktLjTFh2pkXPWPs) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/00BnzaMCnyitulh8rIEFWV) | 3:04 | 2022-07-28 | 2023-01-11 |
 | [ingenuity](https://open.spotify.com/track/7Jpq5JifjHGXkcke4xaxa8) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Ingenuity \(The Noam Chomsky Music Project\)](https://open.spotify.com/album/073FOLOmSzVc8brGH32LWB) | 3:04 | 2021-12-23 | 2022-07-29 |
 | [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 | 2021-12-23 | 2025-10-10 |
+| [Inside A Dream](https://open.spotify.com/track/0jMAGq8ymKwEAlrmhwC3Nr) | [TAKESY](https://open.spotify.com/artist/1Vl9HSkJjIqoDjTPBZmDmI), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Inside A Dream](https://open.spotify.com/album/5ePdG1fARt5eoDLpxyNlt3) | 2:04 | 2026-09-22 |  |
 | [Inside Love](https://open.spotify.com/track/5WSaTxllq6SNyOCEh2C1kb) | [SSIR](https://open.spotify.com/artist/68aVwfoV4wmRwYhRhaze7t) | [Inside Love](https://open.spotify.com/album/4bA08DkU2XGgOvwgmB7dFa) | 1:40 | 2022-04-14 | 2022-07-28 |
 | [Intersect](https://open.spotify.com/track/40ZwjOSE0JE0eqYN6v1XXn) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [Cadence](https://open.spotify.com/album/61KwQrK6ffvkm5JWWHwjTg) | 2:51 | 2021-12-23 | 2022-07-17 |
 | [INTO DEEP](https://open.spotify.com/track/1c6QKZ0z2TFQwQ7S5lzfjk) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [INTO DEEP](https://open.spotify.com/album/2ZXpS7xopeAG0okEqqtzpU) | 2:34 | 2024-09-06 | 2025-01-14 |
@@ -566,7 +567,7 @@
 | [Phase](https://open.spotify.com/track/3yZ68IVDwSQiiOVWC4q9FE) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [Phase](https://open.spotify.com/album/5KWQNh9R34UF3sWYMbeYL0) | 2:08 | 2021-12-23 | 2022-07-28 |
 | [piece](https://open.spotify.com/track/5WEFcK4B2OKgjkaGgnj5g9) | [illmore](https://open.spotify.com/artist/6xLWs7PzOiPY2351KcoeGZ) | [piece](https://open.spotify.com/album/30bXqKd3MP5a3vKE0tLUfe) | 1:26 | 2022-01-06 | 2022-07-28 |
 | [pink misty wave](https://open.spotify.com/track/7mqcCAKHLx0mLWgh7dfQ5w) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [pink misty wave](https://open.spotify.com/album/3pyCGrRGJ8lsuL2aqzHYXg) | 3:12 | 2025-03-06 | 2025-06-22 |
-| [Plastic Love](https://open.spotify.com/track/08KwAEzYm3gVyyB27OKvO9) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76) | [CONCIERTO](https://open.spotify.com/album/7LucFEUjgiiH2MwkrJBELj) | 4:28 | 2021-12-23 | 2026-09-23 |
+| [Plastic Love](https://open.spotify.com/track/08KwAEzYm3gVyyB27OKvO9) | [Grey October Sound](https://open.spotify.com/artist/0uLTdGmiCzxyYaloac9N76) | [CONCIERTO](https://open.spotify.com/album/7LucFEUjgiiH2MwkrJBELj) | 4:28 | 2021-12-23 |  |
 | [Playing It Simple](https://open.spotify.com/track/4nZdOauCI0UsRFFi9SrFjW) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Playing It Simple](https://open.spotify.com/album/56yTlOgrClDyGwyEEMdA48) | 2:55 | 2022-03-17 | 2022-06-30 |
 | [Pleasant rain](https://open.spotify.com/track/7cemJ8rocM4qmycJ8r9VTw) | [DJ ZEEK](https://open.spotify.com/artist/6jX9IZnwPeKQyuAMkJE8OK) | [Pleasant rain](https://open.spotify.com/album/78I8I5FRvCYmRrmcFvowih) | 2:34 | 2021-12-23 | 2022-07-06 |
 | [Please Think Twice](https://open.spotify.com/track/3XAtKEECaYJYeoiH5PXutP) | [Sweet William](https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ) | [Beat Theme](https://open.spotify.com/album/4R3lrPQgBGF3FIAQdb6UPP) | 3:41 | 2021-12-23 | 2022-07-29 |
@@ -843,7 +844,7 @@
 | [光のように](https://open.spotify.com/track/0TZloem996VUIcOnML8Kp0) | [Yuri Hiranuma](https://open.spotify.com/artist/6pAS2H3KqkDPniC1GNmcD1) | [光のように](https://open.spotify.com/album/77NDqgGxatgBntyyD9634e) | 2:20 | 2023-06-06 |  |
 | [夕映 03](https://open.spotify.com/track/4zfzaUsbKgV3cYDw2hhLeD) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夕映](https://open.spotify.com/album/3uEUBhmwTJusgd9GxYHxAR) | 1:58 | 2021-12-23 |  |
 | [夜景 01](https://open.spotify.com/track/1XIHeOhhMJksHCFczCOW0p) | [兼元珈琲店](https://open.spotify.com/artist/5gv23RjCeD5CrAHOPLw5Z3) | [夜景](https://open.spotify.com/album/7zvsVcGHERSsrJ54RYw2HN) | 1:50 | 2022-01-06 | 2022-07-22 |
-| [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 |  |
+| [夢の中](https://open.spotify.com/track/50cJTPKCH0CyEgsUgv53Ny) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [夢の中](https://open.spotify.com/album/4fULEvayFtLR24G9VDWvCb) | 2:39 | 2021-12-23 | 2026-09-26 |
 | [平和](https://open.spotify.com/track/3g3k750g1iXaaFfK6aWazL) | [MEITEI](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [平和](https://open.spotify.com/album/3S5A4RX0kQMqKKnPT5UR4w) | 3:23 | 2024-04-12 | 2024-12-05 |
 | [愛が廃れたって \- Instrumental](https://open.spotify.com/track/3JCWebd4sVMpxStBvFpoJS) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI) | [MAHORO \(Instrumental\)](https://open.spotify.com/album/5V79pIal805EAayl2qblmu) | 4:11 | 2024-02-01 | 2024-06-08 |
 | [波紋](https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Nagipan](https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS) | [波紋](https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8) | 3:09 | 2025-07-11 |  |

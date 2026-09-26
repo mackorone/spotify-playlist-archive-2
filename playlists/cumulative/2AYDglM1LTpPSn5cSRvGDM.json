@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "7 Miles High",
+        "url": "https://open.spotify.com/album/3gFDcNRzQ7hRWkB80Qx63K"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "LUKE ALEXANDER",
+          "url": "https://open.spotify.com/artist/7x19vko80gBo5wK1kwn542"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "7 Miles High",
+      "url": "https://open.spotify.com/track/6QmYmxft6ZLXvLJz8UBVqe"
+    },
+    {
+      "album": {
         "name": "Error5 EP",
         "url": "https://open.spotify.com/album/47LmTgQtRaRhVAUgIuVpF2"
       },
@@ -2573,7 +2595,7 @@
         },
         {
           "name": "Madelynn",
-          "url": "https://open.spotify.com/artist/24rKWXYhCkelENiRspKoeb"
+          "url": "https://open.spotify.com/artist/00rkjBj0UFUgJIGJ9xhmLd"
         }
       ],
       "date_added": "2026-04-27",

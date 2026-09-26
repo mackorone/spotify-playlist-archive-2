@@ -4,7 +4,7 @@
 
 > The best dance hits in Africa\. Cover: FKA Mash
 
-1,516 songs - 5 day 14 hr 4 min
+1,516 songs - 5 day 14 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -796,6 +796,7 @@
 | [Magic](https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [Aubs](https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3), [Kabomo](https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f) | [Mmino Wa Batho](https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ) | 5:54 | 2024-10-24 | 2025-01-18 |
 | [Magic](https://open.spotify.com/track/2aqkBEgu7YH5uhcSDB6bbA) | [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC), [kALEGO](https://open.spotify.com/artist/6XIDZAHJj0vDbVZ6zHz3dw) | [Magic](https://open.spotify.com/album/15P7HxkFENVU3cmrX7k9kI) | 5:53 | 2022-08-18 | 2022-09-30 |
 | [Maji Matamu \- Main HT](https://open.spotify.com/track/0r3lYlCsW31s7rWcWxBY7X) | [HyperSOUL\-X](https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os) | [Maji Matamu \(Main HT\)](https://open.spotify.com/album/0K3KmKQOJBMRDzLfc6koBI) | 5:43 | 2022-05-05 | 2022-06-18 |
+| [Make Believe](https://open.spotify.com/track/5WSesDy09JmCkVyFPb4SeT) | [FKA MASH](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq), [Samuell Miller](https://open.spotify.com/artist/4kirKfHRU1tsj5MiiC9bZU) | [EXITECHNO](https://open.spotify.com/album/4TDcmsuTszNJVeX2AU3Imu) | 7:35 | 2026-09-24 |  |
 | [Make Up Your Mind](https://open.spotify.com/track/2yIXVCaIrvVL6TSamoMdVR) | [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt) | [Stay True Sounds Vol.4 Compiled By Kid Fonque](https://open.spotify.com/album/5K19EXUx0mNTfKPc7Zo5AK) | 7:46 | 2022-04-28 | 2022-09-10 |
 | [Make You Cry](https://open.spotify.com/track/4z7GaivspHZr23ADtT5WGb) | [Dirty Channels](https://open.spotify.com/artist/6Mfp25l60MUxx8MWkA0vil) | [Make You Cry](https://open.spotify.com/album/565RETZXopjygQUFxSmaYq) | 4:11 | 2023-02-23 | 2023-03-04 |
 | [Make You Go](https://open.spotify.com/track/5AVUynEPVWIi1Ugz9wVKwB) | [Nautica](https://open.spotify.com/artist/1o2JBdhhkXydmQlMkr2BGx), [Eanthé](https://open.spotify.com/artist/5v9sGDFPdTcWIlQEPTGcID) | [Make You Go](https://open.spotify.com/album/6F3m0OXlicSHQanEaYymjK) | 3:04 | 2022-07-07 | 2022-07-15 |
@@ -1315,7 +1316,6 @@
 | [Tonight](https://open.spotify.com/track/70rIvrzenju3C2A53M3cto) | [Ghost](https://open.spotify.com/artist/6tNHdlHpPDgZQp6fa3kbM8) | [Tonight](https://open.spotify.com/album/43Ivx6bjF4vKmjiuqMIb9a) | 3:16 | 2022-07-07 | 2022-07-29 |
 | [Too Much Information \- Laolu Remix \(Edit\)](https://open.spotify.com/track/1mHdnrcPMlhwFqMrsS9Kbx) | [Dele Sosimi Afrobeat Orchestra](https://open.spotify.com/artist/6QqfKF0FAhEq6AIKLpDkSb), [Laolu](https://open.spotify.com/artist/53PSeUFq8tMZc0zdd1oUTG) | [Too Much Information \(Remixes\)](https://open.spotify.com/album/4VAJVub0Ft9gCJmODhwThV) | 8:32 | 2025-03-13 | 2025-03-22 |
 | [Touch \- Extended Mix](https://open.spotify.com/track/3itypsvYnEdQpIP77edzsh) | [Milk & Sugar](https://open.spotify.com/artist/159cwGtgCzNpyHWY6tzihH), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Touch](https://open.spotify.com/album/0OLTA9mEZfUrvsEoiZZ0xV) | 6:13 | 2025-02-14 | 2025-02-28 |
-| [Track 4](https://open.spotify.com/track/5WSesDy09JmCkVyFPb4SeT) | [FKA MASH](https://open.spotify.com/artist/6tooLez7Cq2bgY60m3TJMq) | [EXITECHNO](https://open.spotify.com/album/4TDcmsuTszNJVeX2AU3Imu) | 0:00 | 2026-09-24 |  |
 | [Traffic](https://open.spotify.com/track/4Zsj1GkqCnMhDk8ARB6pju) | [Cinimin](https://open.spotify.com/artist/7x5rKYGYaTOSjr5B3EBAkC) | [Traffic](https://open.spotify.com/album/4eJvBTfzGNVz6LFCYgUTHf) | 2:59 | 2022-09-22 | 2022-10-14 |
 | [Train To Work](https://open.spotify.com/track/1pNyMl9Tj4uQgyW21yY95D) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Serengeti](https://open.spotify.com/album/4dACuW8u8dZA8k5U5ZFsOh) | 7:00 | 2022-03-24 | 2022-06-18 |
 | [Tribal Drums](https://open.spotify.com/track/0IVgGcimUhHhQroMmy78Zn) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Tribal Drums](https://open.spotify.com/album/6ZWXbOy4XasSJS7RFAz68n) | 7:14 | 2022-07-07 | 2022-07-15 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-596 songs - 1 day 5 hr 52 min
+597 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [Let Yourself Go \- 2023 Remastered Version](https://open.spotify.com/track/1dhvoTFqVJWHh61HGqB9gu) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Let Yourself Go \(2023 Remastered Version\)](https://open.spotify.com/album/3KjD9AhKfdwIryLxllW86j) | 3:48 | 2026-04-05 | 2026-08-07 |
 | [Let Yourself Go \- Remastered](https://open.spotify.com/track/1WxQkKSQINGaG1GoUPBjEU) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Let Yourself Go \(Remastered\)](https://open.spotify.com/album/3yJFcY5e8CT8NJ1EGhrZ0z) | 3:48 | 2024-07-26 | 2026-04-06 |
 | [Let's Do It](https://open.spotify.com/track/67fFApZyHZ9LjsvkUQJShY) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/1B9CLt71zBlS87qDLXqcqQ) | 3:05 | 2026-08-18 |  |
-| [Let's Face The Music And Dance](https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 5:18 | 2024-07-26 |  |
+| [Let's Face The Music And Dance](https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 5:18 | 2024-07-26 | 2026-09-26 |
 | [Let's Go Back To The Waltz](https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [Empathy](https://open.spotify.com/album/3R0A51xf7JzlKCEm3RmleH) | 4:30 | 2024-07-26 |  |
 | [Let's Go West Again](https://open.spotify.com/track/4mbFo8etzP7mRYPLhUnU3R) | [Betty Hutton](https://open.spotify.com/artist/4VCyL3xDf8AYZUQRtEF7bp) | [Annie Get Your Gun \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/6ElY58QbaDUrZju8KQ0UBh) | 3:08 | 2024-07-26 |  |
 | [Let's Have Another Cup Of Coffee \(From "Face The Music"\) \- 2002 Remastered](https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ) | [Glenn Miller](https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc), [Ernie Caceres](https://open.spotify.com/artist/5wazyKBgk8KDzdmHIhuhvc), [Marion Hutton](https://open.spotify.com/artist/3laQbbBvyhDMtrSHPyk4My), [The Modernaires](https://open.spotify.com/artist/3qKEtH1zoLm2ofNZivYevw) | [America's Bandleader](https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT) | 3:03 | 2025-09-16 |  |
@@ -361,6 +361,7 @@
 | [On n'prend pas un homme avec un fusil](https://open.spotify.com/track/3YIZinUpp5avtyXLurA1K8) | [Lily Fayol](https://open.spotify.com/artist/5t7E7Ukm4ibnZCFuyL9k9E) | [Rue de Lappe \(Collection "Légende de la chanson française"\)](https://open.spotify.com/album/02EvTvv1ytnQDYrKIUni9G) | 2:42 | 2024-07-26 |  |
 | [On the Avenue](https://open.spotify.com/track/0u7UgMUozKWy90L4ndcAKO) | [Irving Berlin](https://open.spotify.com/artist/32zXZpxwb2bq7oGzAhe1Ii) | [Irving Berlin](https://open.spotify.com/album/2SDRpgeExbbsEXGC9hibtJ) | 1:48 | 2024-07-26 |  |
 | [Once Upon a Time Today](https://open.spotify.com/track/5wAvxhoU2F0675zispvzIo) | [Russell Nype](https://open.spotify.com/artist/4cerD92u3RJET1mB07UoGp) | [Call Me Madam](https://open.spotify.com/album/5sqze5Mh00RrTEp1gasM1u) | 3:15 | 2024-07-26 |  |
+| [One O'clock in the Morning I Get Lonesome](https://open.spotify.com/track/0BSDgPzdUoqnKyo6BGuJBe) | [The White Star Line Quintet](https://open.spotify.com/artist/7J22xCSmmFiQcyP8vVTnQ9) | [An Evening's Echoes](https://open.spotify.com/album/2ofZAF5IDvLaJR7SD8CpPo) | 2:16 | 2026-09-25 |  |
 | [Only For Americans](https://open.spotify.com/track/4OlSG08uiQnQBSaAesJtug) | [The Andrews Sisters](https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM) | [Some Sunny Day \- The Songbook, The Energy And The Blend](https://open.spotify.com/album/5BeoWMtKwyiL1t2pDUG6nA) | 2:31 | 2024-07-26 |  |
 | [Ooh! Maybe It's You](https://open.spotify.com/track/1ZAc9CTdBKSgUsjMeVrJDl) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [King of Jazz: The Complete A to Z Collection, Vol\. 32](https://open.spotify.com/album/7xDycDL2p7FqgmneJCtHm0) | 2:33 | 2025-04-07 | 2026-08-07 |
 | [Ooh! Maybe It's You](https://open.spotify.com/track/0SUQCbSEYTX0ni9BpLuHQM) | [Paul Whiteman](https://open.spotify.com/artist/1mZm40boQmdGKicfbNkd0r) | [Paul Whiteman Original 1927 Recordings](https://open.spotify.com/album/1Ak4pWwJi7Lylg4Xjeivi0) | 2:41 | 2026-08-06 |  |

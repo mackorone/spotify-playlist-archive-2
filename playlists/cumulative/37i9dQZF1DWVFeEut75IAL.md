@@ -4,7 +4,7 @@
 
 > The most calming classical music.
 
-204 songs - 13 hr 7 min
+205 songs - 13 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [En rêve, Nocturne, S\. 207](https://open.spotify.com/track/6PFVI2TGMfDEAzDsx9KKln) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Marc\-André Hamelin](https://open.spotify.com/artist/0pm0LWiklLtNXUP2GVwdqY) | [Hamelin Plays Liszt: Hungarian Rhapsodies Nos\. 2, 10 & 13; Un sospiro; Nuages gris etc.](https://open.spotify.com/album/5FV5T6BMPTJvDoPKGtVnE1) | 2:32 | 2025-07-04 |  |
 | [Erbarm dich mein, o Herre Gott, BWV 721 \(Arr\. S\. Scheiwiller for Cello & Orchestra\)](https://open.spotify.com/track/5pCoZCarC9qZ5UqnMxxFju) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Simone Drescher](https://open.spotify.com/artist/42lod2cmRT0BzVFKh01zbp), [Sinfonietta Riga](https://open.spotify.com/artist/3PaOiIUiOccivDf73rOXsY), [Jānis Liepiņš](https://open.spotify.com/artist/2fT0t0dDsDrf0GLZO6YQsd) | [Humanity](https://open.spotify.com/album/3szs87EzcEUj8vjZCe4q7N) | 3:34 | 2022-10-07 | 2023-03-15 |
 | [Faraway Waltz](https://open.spotify.com/track/7ytSSOl8umyGbU0ZRGX3nW) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH), [Leon Wolf](https://open.spotify.com/artist/7IliShIfPIrKZgNLrsu40S), [Robin Kallenberger](https://open.spotify.com/artist/2NXmj32ljyGyI7FmQS7u8r) | [My Way](https://open.spotify.com/album/4eZkYYbrLCdS5yjhIk8zxJ) | 2:39 | 2025-11-26 |  |
+| [Farewell to Stromness](https://open.spotify.com/track/08UoiHf28HFF7jgM97oqdW) | [Peter Maxwell Davies](https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR), [Steven Osborne](https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK) | [Maxwell Davies: Farewell to Stromness](https://open.spotify.com/album/29Z8ORiBMATtKrySRWAxnl) | 4:34 | 2026-09-25 |  |
 | [Filma Solo](https://open.spotify.com/track/4SsDrt7HV1ECcJ2A7EHfLL) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/0HYTxeKs2ySnsuAkwnwDrd) | 3:15 | 2021-11-15 |  |
 | [Filma Solo](https://open.spotify.com/track/6MPpYctLr7JXWIAcD1feq8) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Piano Works](https://open.spotify.com/album/1tASsj4SDpPR8UIHjKMjch) | 3:15 | 2022-07-22 | 2024-04-19 |
 | [Five Pieces For Violin And Piano: I\. Elegia \(Andante Larghetto\)](https://open.spotify.com/track/1d1FNmfO3dFlH8873yNFX3) | [Valentin Silvestrov](https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6), [Duo Gazzana](https://open.spotify.com/artist/44yqsYKtToaDXjtyMuVXCj) | [Takemitsu, Hindemith, Janáček, Silvestrov: Five Pieces](https://open.spotify.com/album/3NCv2JjqPcJQx1dYcGDPiv) | 2:59 | 2022-07-22 | 2024-04-19 |

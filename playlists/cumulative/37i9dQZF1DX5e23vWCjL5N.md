@@ -2,9 +2,9 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Punchline, storytelling, rap italiano\. Ele A in cover.
+> Punchline, storytelling, rap italiano\. 22simba in cover.
 
-456 songs - 23 hr 12 min
+459 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Freccia](https://open.spotify.com/track/4AfmZe8i6uNAR5xTSZxqNn) | [Rancore](https://open.spotify.com/artist/5DkmrXKeWgDS86KKEw45o6) | [XENOVERSO](https://open.spotify.com/album/70UOLXHPH0eMbjJuaE7OqW) | 3:21 | 2022-04-15 | 2022-06-10 |
 | [Fredda, Triste, Pericolosa \(feat\. Franco126\)](https://open.spotify.com/track/3ZoM03sEG6GR213z2cqYzO) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc) | [GVESVS](https://open.spotify.com/album/1fONeOwepyow1t4dUw0RcL) | 2:51 | 2022-04-15 | 2022-06-10 |
 | [Free \(feat\. Marracash & Rkomi\)](https://open.spotify.com/track/2bTt0QXf4b1gmIhD4zyXxP) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:10 | 2023-01-13 | 2025-04-11 |
+| [Freedom](https://open.spotify.com/track/3TLsevSDogRj0JG2EOBuVO) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Miria](https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw) | 3:04 | 2026-09-25 |  |
 | [FUMO DI CHINA](https://open.spotify.com/track/5NKZFyEEIHNJuT6gnNRkm3) | [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Dj Craim](https://open.spotify.com/artist/0ermTOwdFG35lQiVjsWNEZ) | [AKA DANNO \(DELUXE\)](https://open.spotify.com/album/1aMvYmRYDNaM4Wg3T7ks35) | 2:49 | 2026-06-25 | 2026-09-04 |
 | [GAME OVER](https://open.spotify.com/track/1slby4wvXGz2xvJudzrqVJ) | [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx), [Gumma Vybz](https://open.spotify.com/artist/3XOuRvla4WvUpc7jpO5b9P) | [GAME OVER](https://open.spotify.com/album/2I4BCpXcZs3Uelkutq4ya3) | 2:00 | 2025-04-17 | 2025-06-06 |
 | [GHIGLIOTTINA \- feat\. Noyz Narcos](https://open.spotify.com/track/01BCvCKQNDmFQQQSjrzPnm) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 3:06 | 2022-04-15 | 2023-12-15 |
@@ -276,6 +277,7 @@
 | [Millesimati \(con Noyz Narcos, Lazza, Salmo & J Lord\)](https://open.spotify.com/track/3E0PSVpSR5zk1X75gGh99o) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:48 | 2022-09-15 | 2023-02-03 |
 | [Mio Padre](https://open.spotify.com/track/1xlxFayQQt55fsQj8ENMS8) | [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [Mentre Los Angeles Brucia](https://open.spotify.com/album/2O1iWxwf8rcqR6SYksKSb1) | 2:31 | 2025-06-19 | 2025-11-14 |
 | [Mio padre \(feat\. Noyz Narcos & Guè\)](https://open.spotify.com/track/6im0jVUTuW50jBwTHnMiur) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Containers](https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc) | 2:26 | 2024-10-10 | 2025-04-11 |
+| [Miria](https://open.spotify.com/track/3k265pHaq1vmxAQ8vWr5pR) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Miria](https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw) | 2:28 | 2026-09-25 |  |
 | [Momenti No](https://open.spotify.com/track/4IxM8LopMS2014C2LTJEYu) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:12 | 2023-11-17 | 2025-04-19 |
 | [MOMENTO E MOMENTO](https://open.spotify.com/track/5z8hzYn8ybDFL2XzGwGliG) | [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [MOMENTO E MOMENTO](https://open.spotify.com/album/1HsXlYjQl35Jx1nqFlzu8o) | 2:27 | 2024-05-02 | 2025-01-10 |
 | [Mon Amour](https://open.spotify.com/track/60ZTMQ4JgsyMlD4ZXsHMt9) | [Leon Faun](https://open.spotify.com/artist/14XRgLXin9R3eKTNXBNwos) | [Mon Amour](https://open.spotify.com/album/6UBSCKET51OOy2vEbEBGjm) | 2:25 | 2026-04-02 | 2026-05-08 |
@@ -439,6 +441,7 @@
 | [Una Volta Sola](https://open.spotify.com/track/4k6r87hJWwXycbTzcNkLgF) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Penna Capitale](https://open.spotify.com/album/0jsRfpEI674x8A0UkgMTuL) | 3:22 | 2024-01-02 | 2024-01-04 |
 | [V per Vangelo](https://open.spotify.com/track/4oMiCgeROySnMbUDwH9lt3) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Vangelo](https://open.spotify.com/album/2gqFeF2xx9zMEwUWRc5UK4) | 3:29 | 2026-04-09 |  |
 | [Vabbene](https://open.spotify.com/track/2zOLtHrCpfJLULqubanbt6) | [Gallas](https://open.spotify.com/artist/0trWmturcmhrIVeVWbn1OT) | [Vabbene](https://open.spotify.com/album/4VLKLMa67QkH642Uuxmmok) | 2:09 | 2026-03-19 | 2026-04-10 |
+| [Valle dei Re](https://open.spotify.com/track/0roIq7Szo7q48nQ1IDbBES) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [Miria](https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw) | 1:43 | 2026-09-25 |  |
 | [Valzer \(feat\. nayt\)](https://open.spotify.com/track/4EeRcdj7sbwxaNsJlSWS3q) | [Mezzosangue](https://open.spotify.com/artist/63isdzBiMOaYkMiX6XddfB), [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Viscerale](https://open.spotify.com/album/0QsYShpxYb7pQXwnkoaIUT) | 3:31 | 2025-04-10 |  |
 | [VDLC](https://open.spotify.com/track/242NmD3BqOefyiOZQy2MT2) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:18 | 2023-11-17 | 2025-06-06 |
 | [Veleno 8 \(feat\. Gemitaiz\)](https://open.spotify.com/track/06OBAy97uVyHCZvonvgfE2) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX), [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [MM Vol\. 4](https://open.spotify.com/album/6u7PVqrCBPex6FSw8eb5ce) | 3:02 | 2022-04-15 | 2023-12-01 |

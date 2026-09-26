@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. Cover: Amiel Sol
+> Mga nangunguna sa mundo ng OPM\. Cover: Jin DC
 
-621 songs - 1 day 14 hr 46 min
+624 songs - 1 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Aura](https://open.spotify.com/track/26DcgZg9O6YCUVuRukGGhQ) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Aura](https://open.spotify.com/album/4pOYu3ruXW8StaMZmXTcDs) | 5:18 | 2025-07-21 | 2025-12-03 |
 | [Aurora](https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Aurora](https://open.spotify.com/album/1zk01WEUn4lsTxjqkOIr5u) | 4:45 | 2024-04-24 | 2024-08-29 |
 | [Autumn](https://open.spotify.com/track/6opdgT1roU2ztb2WmXQG1U) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Autumn](https://open.spotify.com/album/0jgiAyKTHYE4bHbwCSbtV2) | 4:04 | 2024-01-24 | 2024-02-01 |
-| [Autumn \(Reimagined\)](https://open.spotify.com/track/2NP0WCHeIjBi3oC7MruePl) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Autumn \(Reimagined\)](https://open.spotify.com/album/4jKfiwrpklbqDOrwiUBsLv) | 3:56 | 2026-05-13 |  |
+| [Autumn \(Reimagined\)](https://open.spotify.com/track/2NP0WCHeIjBi3oC7MruePl) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Autumn \(Reimagined\)](https://open.spotify.com/album/4jKfiwrpklbqDOrwiUBsLv) | 3:56 | 2026-05-13 | 2026-09-26 |
 | [Awatin](https://open.spotify.com/track/5q0b9HzHrJ0COmFx7Hsulg) | [Calein](https://open.spotify.com/artist/0DpLoyGVbhOHNR3ht2oO9y) | [Awatin](https://open.spotify.com/album/1BM6cU2S8UkM89MSqUB0ld) | 4:52 | 2025-01-29 | 2025-05-01 |
 | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Awitin Mo, Isasayaw Ko](https://open.spotify.com/album/786KRmYsG0vWZJBNMdeeoi) | 4:57 | 2024-06-12 | 2024-09-19 |
 | [Ayaw Baya](https://open.spotify.com/track/42Xk3IBopZoqG5R9YSctGS) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Ayaw Baya](https://open.spotify.com/album/0zLGNLnfdMdb0dpsfEQGmy) | 4:10 | 2025-08-06 | 2025-11-20 |
@@ -69,6 +69,7 @@
 | [Bampira](https://open.spotify.com/track/3Ah10IzaPO4Sz4afpKqXe5) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [kung tayo’y nasa isang horror na pelikula, tiyak ako ang una mong papatayin](https://open.spotify.com/album/6Z2NovhasdQJTeR7DjzoHu) | 4:43 | 2026-09-18 |  |
 | [Bandaid \(feat\. Johnoy Danao\)](https://open.spotify.com/track/7zZ4ZjBpdeVqBY12DDb5RO) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc), [Johnoy Danao](https://open.spotify.com/artist/2zFBNsALb4M2FhKl98wcvd) | [Bandaid \(feat\. Johnoy Danao\)](https://open.spotify.com/album/3LYZsMhLEpjUaAA1wFceUS) | 4:03 | 2025-08-20 | 2025-10-07 |
 | [Basta't Kasama Ka](https://open.spotify.com/track/3IHFveMyXASMzZeyyfcM9U) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Basta't Kasama Ka](https://open.spotify.com/album/3AdVxlvpAhoJI9uoXfsqEF) | 4:44 | 2026-06-26 | 2026-09-05 |
+| [Bawat Segundo](https://open.spotify.com/track/4vOjN6LKp4jCpoqVoOkZnp) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Bawat Segundo](https://open.spotify.com/album/3bB1fPxzbomi5nbqDcEn7M) | 4:11 | 2026-09-25 |  |
 | [Bawat Taon](https://open.spotify.com/track/6kYyxKJDpeGFwQTIdhIlpp) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Bawat Taon](https://open.spotify.com/album/27Uo3d3sLqClyT7tX9ooHQ) | 3:54 | 2024-01-24 | 2024-02-15 |
 | [Bebe](https://open.spotify.com/track/48uhAuFJLnUwti49dcyjmZ) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Bebe](https://open.spotify.com/album/1iVwS9MFswan5ib1OQK4rc) | 3:10 | 2025-11-27 | 2025-12-18 |
 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 | 2024-04-10 | 2024-08-08 |
@@ -244,6 +245,7 @@
 | [Kalamidad](https://open.spotify.com/track/1QvnsLejPCvsGVWKkGgo5m) | [ORIGIN](https://open.spotify.com/artist/0b02sb1yDfitXVVkMJ73gt), [El Manu](https://open.spotify.com/artist/1r2yCpK3TvWvkZQ2vFhDF0) | [Kalamidad](https://open.spotify.com/album/1YcbK71uG0ikpoxbT1BQOf) | 3:38 | 2026-05-13 | 2026-06-26 |
 | [Kalapastangan](https://open.spotify.com/track/1udOOSbJnytCdgvbgYOF5s) | [fitterkarma](https://open.spotify.com/artist/3tWAXoP37qDPvpAOnj7Zmr) | [Kalapastangan](https://open.spotify.com/album/3a6kSazBwMHk4rJU07hQCg) | 4:36 | 2026-01-29 | 2026-08-08 |
 | [Kalawakan](https://open.spotify.com/track/4L1cUWMpmGgfD5t6s5V5Wy) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [Kalawakan](https://open.spotify.com/album/2IkFpMoOTNwKWbcxAa3RHs) | 3:59 | 2025-12-10 | 2026-03-12 |
+| [Kalendaryo](https://open.spotify.com/track/3979LHIoFI5gBUdLFn1e3T) | [nicole](https://open.spotify.com/artist/64c6qxJIkcvJP3glpCkWHp) | [Kalendaryo](https://open.spotify.com/album/2qgaoTnz2VcnJmg2JCdd84) | 3:28 | 2026-09-25 |  |
 | [Kalimutan Ka](https://open.spotify.com/track/7dXZnGGBn9Kfu8NCnrRl3w) | [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc) | [Kalimutan Ka](https://open.spotify.com/album/1CVdBDkuBgD62YGDXslE4R) | 4:48 | 2025-03-05 | 2025-08-14 |
 | [Kalimutan Mo Na Lang](https://open.spotify.com/track/3eGdqfiTv3Da4OdFwj8EAP) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg), [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Kalimutan Mo Na Lang](https://open.spotify.com/album/4egLEJrAV2C4fTVrqI2DQP) | 4:45 | 2026-07-17 |  |
 | [KAMEHAMEHA](https://open.spotify.com/track/4vt5xae70yXSP9jwy42q9e) | [SunKissed Lola](https://open.spotify.com/artist/4bLLB1dbsRVUTcMpnDGDO2) | [Olaholah](https://open.spotify.com/album/0HMzFaO7tbJus5v3QkmRJn) | 3:48 | 2024-10-02 | 2025-03-27 |
@@ -348,6 +350,7 @@
 | [Munchies](https://open.spotify.com/track/1vXc5zGgyzKsNjA6USRzkd) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Munchies](https://open.spotify.com/album/7MKpOuvtAQlOYTjPeRAgXk) | 3:28 | 2024-05-01 | 2024-06-01 |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-06-20 | 2024-11-28 |
 | [My Day](https://open.spotify.com/track/26gpJidk118QGbNcDqCHbW) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [My Day](https://open.spotify.com/album/0nIgomkDdr75IJu4aanFJl) | 3:49 | 2025-01-01 | 2025-05-22 |
+| [Na Para Bang](https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ) | [Mariah Deborah](https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv) | [Na Para Bang](https://open.spotify.com/album/3PEV15iBgqpsdyUVT5pj4x) | 3:48 | 2026-09-25 |  |
 | [Nagbabakasakali](https://open.spotify.com/track/4fE0gWRGGRTxMCiJ51As3w) | [polaris.](https://open.spotify.com/artist/48iP2a3vIRKl7MtFZDLnUx), [drmfy](https://open.spotify.com/artist/4hsyXkZRXr0zZ8WNQAJnhp) | [Nagbabakasakali](https://open.spotify.com/album/3QGjMQB9pwrBzvdbHacVdQ) | 3:22 | 2024-01-24 | 2024-02-29 |
 | [Naghihilom](https://open.spotify.com/track/6pm5eFo0aUQapVVmtitNLm) | [Sponge Cola](https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye), [Gigi de Lana](https://open.spotify.com/artist/0zmtRgl3r6ZB8T5FUp5naq) | [Naghihilom](https://open.spotify.com/album/2oNLWSeixoKdn419QQ5tyo) | 6:01 | 2026-03-11 | 2026-04-23 |
 | [Nagmamahal Lang Ako](https://open.spotify.com/track/1d9sTxRHVOUEpyqdmN7cJJ) | [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Nagmamahal Lang Ako](https://open.spotify.com/album/0Ws6ZppiiRdOad3SQELgUk) | 5:07 | 2025-02-19 | 2025-05-01 |
@@ -495,7 +498,7 @@
 | [Salbabida](https://open.spotify.com/track/1VpidxmlCDlPGd17KffCEA) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Salbabida](https://open.spotify.com/album/5nUfEKEPFZMYIuDdTuDZwu) | 4:10 | 2024-07-17 | 2024-08-08 |
 | [Sampung Mga Daliri](https://open.spotify.com/track/2MHg2BVPaTgiCUDWp2jZqf) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy), [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [Sampung Mga Daliri](https://open.spotify.com/album/0mcwOiM8mrg5UGnZE02nWv) | 3:39 | 2025-01-29 | 2025-05-29 |
 | [San Ka Na](https://open.spotify.com/track/06EgbrpVPxamQ0dl0aygNM) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [San Ka Na](https://open.spotify.com/album/1LclfphmHU5JfhtFnUEUHP) | 3:54 | 2024-11-06 | 2025-03-14 |
-| [San Ka Na \(feat\. Parokya Ni Edgar\)](https://open.spotify.com/track/0Smt6A0cK41SSCdsOCaZv9) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc), [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [I'm Okay \(Deluxe\)](https://open.spotify.com/album/75PaR3zGJnWznnTqnF1KWy) | 4:07 | 2026-07-10 |  |
+| [San Ka Na \(feat\. Parokya Ni Edgar\)](https://open.spotify.com/track/0Smt6A0cK41SSCdsOCaZv9) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc), [Parokya Ni Edgar](https://open.spotify.com/artist/2XHTklRsNMOOQT56Zm3WS4) | [I'm Okay \(Deluxe\)](https://open.spotify.com/album/75PaR3zGJnWznnTqnF1KWy) | 4:07 | 2026-07-10 | 2026-09-26 |
 | [Sandal](https://open.spotify.com/track/5AqmRNx25UmxdyA93Gwb7P) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Sandal](https://open.spotify.com/album/29fpGpYFrsx9QbWZiu2oWX) | 3:46 | 2024-09-04 | 2024-12-05 |
 | [Sandali](https://open.spotify.com/track/01yAdrgd5cjxUyebfX4VGa) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sandali](https://open.spotify.com/album/4t92Zbfii2HcubPxieMyUX) | 3:39 | 2025-09-17 | 2026-02-26 |
 | [Sandali](https://open.spotify.com/track/6gbhAe0l2WPXEGFYOBdPOO) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Sandali](https://open.spotify.com/album/6HculBGdKrjNRW3w2ChG7P) | 3:28 | 2024-06-26 | 2024-10-24 |
@@ -562,7 +565,7 @@
 | [Tanging Hiling](https://open.spotify.com/track/7I6XHxhVPKAZECf4H09lu0) | [Noah Alejandre](https://open.spotify.com/artist/3XGlotxI2yAE3RV0DX6oD2) | [Tanging Hiling](https://open.spotify.com/album/30YFM6tq4PDTm7WEDvOIxY) | 4:10 | 2026-04-08 | 2026-06-03 |
 | [Tanging Ikaw](https://open.spotify.com/track/1mT8L0Da9RmYbx9TUpqU1y) | [Sugarcane](https://open.spotify.com/artist/61OfH8eB8aJIc9T98cecNT) | [Tanging Ikaw](https://open.spotify.com/album/5Vo9ijLxjWDZfl11vJhc4a) | 2:56 | 2025-02-06 | 2025-08-28 |
 | [Tatlong Buwan](https://open.spotify.com/track/5fuF65QYgM8mgXTgu3XS3u) | [Sponge Cola](https://open.spotify.com/artist/1tXFYQZSAswt4JLB42lpye) | [Tatlong Buwan](https://open.spotify.com/album/6kvSdv7ZFSPAggOKcefhp4) | 2:48 | 2024-05-01 | 2024-06-13 |
-| [TATLONG WIFE](https://open.spotify.com/track/7MzcwGTPU2tRfv3UzTnwRJ) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [TATLONG WIFE](https://open.spotify.com/album/7pFGDyfyee6wvmw7auQQ0F) | 1:58 | 2026-08-14 |  |
+| [TATLONG WIFE](https://open.spotify.com/track/7MzcwGTPU2tRfv3UzTnwRJ) | [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [TATLONG WIFE](https://open.spotify.com/album/7pFGDyfyee6wvmw7auQQ0F) | 1:58 | 2026-08-14 | 2026-09-26 |
 | [Tayo](https://open.spotify.com/track/3sveSiExuvXMdTGdXEMO3z) | [Healy After Dark](https://open.spotify.com/artist/5xRllYZrqUU5by4KMyz9cY) | [Tayo](https://open.spotify.com/album/35YnRTNicvoMURUPEBepqj) | 4:41 | 2025-03-19 | 2025-05-22 |
 | [tayo lang \(may alam\)](https://open.spotify.com/track/5SLbJ9NcVO8FaRKX5XImz8) | [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr), [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI), [Fana](https://open.spotify.com/artist/3kKBZLHVgnGKVsfNutJVip) | [tayo lang \(may alam\)](https://open.spotify.com/album/3ZPjyuE4jt5Hb2Bo3d4DRG) | 3:28 | 2025-06-25 | 2025-08-07 |
 | [Tayo Na Lang](https://open.spotify.com/track/0dAyWjeCEoj6LwEPTLxb3D) | [NOBITA](https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V) | [Tayo Na Lang](https://open.spotify.com/album/4AohEejWfBs3iIrSvF7XyG) | 3:44 | 2024-02-21 | 2024-08-29 |

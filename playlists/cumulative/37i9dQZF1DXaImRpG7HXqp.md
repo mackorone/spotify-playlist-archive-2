@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-888 songs - 1 day 14 hr 33 min
+889 songs - 1 day 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -545,6 +545,7 @@
 | [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 | 2022-07-08 | 2024-10-02 |
 | [Old Novels](https://open.spotify.com/track/7qBvJvJkz9RAOwzAzxukbH) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Old Novels](https://open.spotify.com/album/6SGa8dYeTFicb8ORNNr33j) | 2:08 | 2023-08-10 | 2025-10-02 |
 | [Old World](https://open.spotify.com/track/4z66Dw7i6dmpNvKD8DYs8Q) | [Marcio Philomena](https://open.spotify.com/artist/51GnoV2CNj0pAcxWvCcQM2) | [Cafe des Anges](https://open.spotify.com/album/7JFwJhMHcwKInpK9DZJEOq) | 2:59 | 2023-02-24 | 2024-04-05 |
+| [On My Walk Home](https://open.spotify.com/track/5wipbIzQew6qfROoXVhiXU) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [On My Walk Home](https://open.spotify.com/album/5om7Ht6MrrDyuTF2CRXAfQ) | 2:38 | 2026-09-25 |  |
 | [On This Day](https://open.spotify.com/track/0ROxScNcNq6OrE6g8ImdgP) | [Em Monet](https://open.spotify.com/artist/2hzlSHfKcUQMB1B3wTwOd0) | [On This Day](https://open.spotify.com/album/3U1uyg3ua3Euynzq7juUch) | 2:07 | 2025-02-19 |  |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2021-12-08 | 2023-03-10 |
 | [One More Midnight](https://open.spotify.com/track/3OxMslcb0NF0Calpo8GxHW) | [Adriana Von](https://open.spotify.com/artist/1vaAJMEhSW3SEr07yzlKDO) | [One More Midnight](https://open.spotify.com/album/2hsyVpCsOYeejMM1GSrorb) | 2:40 | 2021-12-08 | 2023-04-22 |

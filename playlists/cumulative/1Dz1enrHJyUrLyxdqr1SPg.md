@@ -4,7 +4,7 @@
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-165 songs - 9 hr 43 min
+167 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,11 +137,13 @@
 | [Supernova](https://open.spotify.com/track/351yKe99zqflE5qfy3ayUI) | [RCKYLNDN](https://open.spotify.com/artist/5WSiPMaJ4FK3v4v7mqXewG) | [Supernova](https://open.spotify.com/album/0eM9W8Okzfd8E5Istxo9F2) | 3:59 | 2026-08-30 |  |
 | [Supersonic drive](https://open.spotify.com/track/0nA9cLh8rUQurMJqpOGZTC) | [Alterkix](https://open.spotify.com/artist/5GTkfbNzzJDrQFbG3x4oZu) | [Supersonic drive](https://open.spotify.com/album/0OTZVC3sutznLOrCw7BQul) | 3:26 | 2024-06-18 | 2026-06-06 |
 | [Swan Song](https://open.spotify.com/track/1ISCNU8HMf4JM2kprnOjHt) | [Valeryan](https://open.spotify.com/artist/4dBnn8oYs431SPtflMrIaj) | [Swan Song](https://open.spotify.com/album/14fIqvkGWIYQPfZ3omx8Fo) | 4:23 | 2026-09-06 |  |
+| [System Fallin](https://open.spotify.com/track/21SPd4SsKN5BpE5QL0NwHU) | [The Dreamers Roots](https://open.spotify.com/artist/3GGadIaVfzQO2amB4criGb) | [System Fallin](https://open.spotify.com/album/2mulFAqmG4VU57DNtHnjUZ) | 4:26 | 2026-09-25 |  |
 | [Tara](https://open.spotify.com/track/3wbfNm0iqSoV4plNLUpL8M) | [Denise Glover](https://open.spotify.com/artist/28V15gh4m18DQnV04TEVXr), [Jim Sande](https://open.spotify.com/artist/2RqwceZJGjpobxaQaOGx6C) | [Tara](https://open.spotify.com/album/0a8Ah1nOni4As3myEW0weF) | 3:12 | 2024-05-16 |  |
 | [Tell Me Lies](https://open.spotify.com/track/7uDwWou3CbkEtwp6YWBMvu) | [Steve Marks](https://open.spotify.com/artist/2d2IafdfrktjgsgZWdC85K) | [Tell Me Lies](https://open.spotify.com/album/2pnnjqDp1J0raq09vuftlC) | 2:38 | 2025-10-24 |  |
 | [The Black Swan Love Song](https://open.spotify.com/track/6KPkN8ogwmXIvO9N2LJHJr) | [Laurie Miller](https://open.spotify.com/artist/6IzJq5jhRMwWBmyCVX37tz) | [The Black Swan Love Song](https://open.spotify.com/album/0w3vUW84HgnGNGfEBbx45g) | 4:42 | 2025-08-31 | 2026-08-22 |
 | [The Dance of Wednesday](https://open.spotify.com/track/5CelbysfQNPKFjTKCg8zfN) | [Simon Watt](https://open.spotify.com/artist/3bxZrEFrEjxtnBNf5wXPmx) | [The Dance of Wednesday](https://open.spotify.com/album/2hRNd6UVawKQF36DmAQL9A) | 3:17 | 2025-04-02 | 2026-09-17 |
 | [The Eagle](https://open.spotify.com/track/5p7k4s2aRrU3qfF2VF4lJw) | [ENILSounds](https://open.spotify.com/artist/4OzICHv6oK0sL7gco6JibF) | [The Eagle](https://open.spotify.com/album/6hXloA8sjPIQ8YIghxirh0) | 3:54 | 2023-10-13 |  |
+| [The Emigrants](https://open.spotify.com/track/330lJbLiWL32mTDpYS8SWL) | [Jay's Expedition](https://open.spotify.com/artist/0E2u7IhwC4nHDtw6oG29jW) | [The Emigrants](https://open.spotify.com/album/3WjBPCKdz5Pz0MmXkeBfTJ) | 3:28 | 2026-09-25 |  |
 | [the gem](https://open.spotify.com/track/1ZbeUC4zHzVtXgvoQrSlz6) | [Tanay Gagrani](https://open.spotify.com/artist/15csmQInogzFI82oHveV1G), [Oghamyst](https://open.spotify.com/artist/2XAUEzj8PjNIJFRlL4UR12) | [the gem](https://open.spotify.com/album/5AzKWogVQI2tdB7jdC56IZ) | 2:41 | 2026-02-01 |  |
 | [The Labyrinth](https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg) | [Errant Shadow](https://open.spotify.com/artist/32yImafufTQRCNtMvD4YSN) | [Errant Knights](https://open.spotify.com/album/4bUoHxBO9UqYndN3JwgBoC) | 4:26 | 2024-11-18 |  |
 | [The physician \- Original Motion Picture Soundtrack](https://open.spotify.com/track/0gkvuV1X6kDG1Zps9zthDz) | [Globotom](https://open.spotify.com/artist/4pmDtJQcRGtd8HrzrUzpp0) | [HOLY B3 \(Original Motion Picture Soundtrack, Additional Draft 1\)](https://open.spotify.com/album/3bGkV7s2nn6LJC6J5ZZTUg) | 2:08 | 2025-10-31 | 2025-11-29 |

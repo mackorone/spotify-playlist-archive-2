@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 
 > Discover new favorites or tomorrow's hits today\. Cover: DOLLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,515 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,513 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1TxhZPYjnhx.md) - [plain]
 | 5 | [She’s Gonna Break My Heart](https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3) | [Magnus Ferrell](https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe), [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Groove Therapy](https://open.spotify.com/album/3xSvgav5fUUTKYFTLk9gMb) | 2:46 |
 | 6 | [I Don't Have Any Problems](https://open.spotify.com/track/28lnAZtEMdyBW3IWYsqko5) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm) | [I Don't Have Any Problems](https://open.spotify.com/album/0U4GusNemic0pIDqPiFmuj) | 2:03 |
 | 7 | [Swingin’ Magic](https://open.spotify.com/track/1hRZJgqpTb8VzSALbDSUrk) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Swingin’ Magic](https://open.spotify.com/album/2vLpnOuFPSXk7PoFPAkt4n) | 2:57 |
-| 8 | [Track 3](https://open.spotify.com/track/6PYYwVUxm2F8eFoChZfWkD) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Afterglow](https://open.spotify.com/album/1oHXOT51CIzxKBciXp7jfM) | 0:00 |
+| 8 | [Headstart](https://open.spotify.com/track/6PYYwVUxm2F8eFoChZfWkD) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Afterglow](https://open.spotify.com/album/1oHXOT51CIzxKBciXp7jfM) | 2:34 |
 | 9 | [dyou think of me](https://open.spotify.com/track/5fEfht8E1MnLeQariMmwuQ) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [dyou think of me](https://open.spotify.com/album/55noFybx9DRqwvi78jLeSe) | 3:04 |
 | 10 | [Fade to Black](https://open.spotify.com/track/2OwSG3eTglwzLOiwvut1TF) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Fade to Black](https://open.spotify.com/album/6e0080iK9HzuJykUPwPLBn) | 2:44 |
 | 11 | [Fleabag \(feat\. Paolo Sandejas\)](https://open.spotify.com/track/7xRga53GguD9bLi2NtaIv3) | [NEW LORE](https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E), [Paolo Sandejas](https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R) | [Fleabag \(feat\. Paolo Sandejas\)](https://open.spotify.com/album/1e36Xz5KJvTY3zVjVWIi8h) | 2:53 |

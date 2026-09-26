@@ -6407,6 +6407,24 @@
     },
     {
       "album": {
+        "name": "Silent Creek Meadow",
+        "url": "https://open.spotify.com/album/4Ne9CAIrj51t9NXHcdaZOp"
+      },
+      "artists": [
+        {
+          "name": "Hayden Phoenix",
+          "url": "https://open.spotify.com/artist/50RQSrhyCEESbROELBFA3r"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Silent Creek Meadow",
+      "url": "https://open.spotify.com/track/0xFqWO0c32qvy5MVxdlX2b"
+    },
+    {
+      "album": {
         "name": "Simmer down",
         "url": "https://open.spotify.com/album/5DnoLzFxcbKOTBB8rHch6Y"
       },
@@ -7556,6 +7574,24 @@
       "duration_ms": 153191,
       "name": "Through a Maze",
       "url": "https://open.spotify.com/track/01nrJ5PYtkLc8zz7ZIw9XH"
+    },
+    {
+      "album": {
+        "name": "Throughout the Day",
+        "url": "https://open.spotify.com/album/2MrqNgveGsZiRZlbe7C1ik"
+      },
+      "artists": [
+        {
+          "name": "Argun North",
+          "url": "https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147874,
+      "name": "Throughout the Day",
+      "url": "https://open.spotify.com/track/6MbX45spiOMOmLHQgHfzO6"
     },
     {
       "album": {

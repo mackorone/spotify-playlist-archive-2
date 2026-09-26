@@ -16,7 +16,7 @@
       ],
       "date_added": "2025-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 134279,
       "name": "0 a 100",
       "url": "https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p"
@@ -2835,6 +2835,24 @@
     },
     {
       "album": {
+        "name": "Coxear",
+        "url": "https://open.spotify.com/album/2S4TSogAs71UCJ3cQh8zS1"
+      },
+      "artists": [
+        {
+          "name": "3 Finer",
+          "url": "https://open.spotify.com/artist/0gGg41vqYrv92MZmSt6pT5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177333,
+      "name": "Coxear",
+      "url": "https://open.spotify.com/track/6cKDN7ojnBtVR7b56reJ7a"
+    },
+    {
+      "album": {
         "name": "Credo",
         "url": "https://open.spotify.com/album/6QKiftBhtPna757ems3oE2"
       },
@@ -5064,6 +5082,32 @@
       "duration_ms": 206333,
       "name": "Gestora",
       "url": "https://open.spotify.com/track/2N1hEIzWuX3YJoIzEn7F1g"
+    },
+    {
+      "album": {
+        "name": "S\u00f3 Amor",
+        "url": "https://open.spotify.com/album/3dnuYQqwX1XwYKeXJ9dLbO"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "Skuco",
+          "url": "https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6"
+        },
+        {
+          "name": "Afroplug",
+          "url": "https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227208,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/7xNyJymdJE5hwdEX4dNi9l"
     },
     {
       "album": {
@@ -14128,7 +14172,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 191080,
       "name": "Viver Tudo Hoje",
       "url": "https://open.spotify.com/track/2iid8EMD4EwTXe9IdjTnHj"

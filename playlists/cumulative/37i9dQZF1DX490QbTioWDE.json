@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "A QUIEN LE IMPORTA (VERSION CUARTETO)",
+        "url": "https://open.spotify.com/album/0MZVnmX5747r5KOQlmgUgQ"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170482,
+      "name": "A QUIEN LE IMPORTA - VERSION CUARTETO",
+      "url": "https://open.spotify.com/track/1J352QesHrGoqDORKIPNI7"
+    },
+    {
+      "album": {
         "name": "A un Milimetro de Ti / Tan Natural",
         "url": "https://open.spotify.com/album/5aa9yk905wXc6nyZ6mMMLh"
       },
@@ -790,7 +812,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 184375,
       "name": "Amor Secreto",
       "url": "https://open.spotify.com/track/1yu5VfKVwFmPW5WECt17Nd"
@@ -1998,6 +2020,28 @@
       "duration_ms": 187338,
       "name": "Coraz\u00f3n de Cristal - En Vivo",
       "url": "https://open.spotify.com/track/5HoJE1g4hG8unRngkeJJ8w"
+    },
+    {
+      "album": {
+        "name": "Coraz\u00f3n De Hielo",
+        "url": "https://open.spotify.com/album/3u78XCJrPlxL0OZox7Gtvh"
+      },
+      "artists": [
+        {
+          "name": "El Lobo",
+          "url": "https://open.spotify.com/artist/1CPciktTTItfYFKVuHbLnK"
+        },
+        {
+          "name": "Tyago Griffo",
+          "url": "https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139034,
+      "name": "Coraz\u00f3n De Hielo",
+      "url": "https://open.spotify.com/track/0KusYLgWKaINFVpDjgItcv"
     },
     {
       "album": {
@@ -3558,7 +3602,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 139465,
       "name": "En otra vida - En Vivo",
       "url": "https://open.spotify.com/track/07IixpZJQJZSvNAWiLOfck"
@@ -3884,7 +3928,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 199651,
       "name": "Esto se Acab\u00f3",
       "url": "https://open.spotify.com/track/35nkugOAny7dEuL3b3bNOf"
@@ -4708,6 +4752,28 @@
       "duration_ms": 204303,
       "name": "Infiel",
       "url": "https://open.spotify.com/track/39qqJRcvRDFjW5S7kyDHoD"
+    },
+    {
+      "album": {
+        "name": "Intentemos / Y Para Que Sufrir (En Vivo)",
+        "url": "https://open.spotify.com/album/5Wry2YpqKAmSKa1Vd4Za6k"
+      },
+      "artists": [
+        {
+          "name": "Los Herrera",
+          "url": "https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ"
+        },
+        {
+          "name": "Rodrigo Tapari",
+          "url": "https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297290,
+      "name": "Intentemos / Y Para Que Sufrir - En Vivo",
+      "url": "https://open.spotify.com/track/7b64GSjzKxe4MSYWXWDvGP"
     },
     {
       "album": {
@@ -7581,6 +7647,28 @@
     },
     {
       "album": {
+        "name": "No Puedo Fingirlo (En Vivo)",
+        "url": "https://open.spotify.com/album/4FNqFAQ2XX72CjOYVKAt1U"
+      },
+      "artists": [
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        },
+        {
+          "name": "Ulises Bueno",
+          "url": "https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236373,
+      "name": "No Puedo Fingirlo - En Vivo",
+      "url": "https://open.spotify.com/track/5aEtgVD6NsMyAh3qtHZAai"
+    },
+    {
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/7Cn5f97ZxIoUwstXEtWaTJ"
       },
@@ -9136,7 +9224,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 165918,
       "name": "QUE ME FALTE TODO",
       "url": "https://open.spotify.com/track/1TyBUtMxdmRfXhW3MmbxtQ"

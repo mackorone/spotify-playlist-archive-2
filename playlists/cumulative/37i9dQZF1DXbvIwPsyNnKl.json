@@ -872,7 +872,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 129176,
       "name": "amoy bueno",
       "url": "https://open.spotify.com/track/1LQHPO2mPJKGdGAdEVU05A"
@@ -8194,7 +8194,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 168312,
       "name": "Sinasabi Ko Na Nga Ba",
       "url": "https://open.spotify.com/track/5paN5BIEU70EPHa1XwkuaY"
@@ -8868,6 +8868,36 @@
       "duration_ms": 194786,
       "name": "Take It To The Roof",
       "url": "https://open.spotify.com/track/0iP5DWmX7dbpxpKot3VzOR"
+    },
+    {
+      "album": {
+        "name": "TALK YO SHIT",
+        "url": "https://open.spotify.com/album/1TiFwupGTRFqXd2zRClFS2"
+      },
+      "artists": [
+        {
+          "name": "Realest Cram",
+          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
+        },
+        {
+          "name": "CK YG",
+          "url": "https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2"
+        },
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        },
+        {
+          "name": "OLG Zak",
+          "url": "https://open.spotify.com/artist/3cAaV8C5Lgdvtib9ub4EGs"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229250,
+      "name": "TALK YO SHIT",
+      "url": "https://open.spotify.com/track/0BnbnB14N8EY7axiE6QwtI"
     },
     {
       "album": {
@@ -9546,6 +9576,24 @@
       "duration_ms": 149600,
       "name": "TYPE G",
       "url": "https://open.spotify.com/track/0djcOLEtzLk2zgpLZW2QqB"
+    },
+    {
+      "album": {
+        "name": "Type G",
+        "url": "https://open.spotify.com/album/0shX2EZZkqVPMGVOgLlPNb"
+      },
+      "artists": [
+        {
+          "name": "Zombie Bleu",
+          "url": "https://open.spotify.com/artist/0CelpCXw05DJ5EH7893QRv"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191608,
+      "name": "Type G",
+      "url": "https://open.spotify.com/track/2VhL5aPzVoGvniMFKgLmrq"
     },
     {
       "album": {

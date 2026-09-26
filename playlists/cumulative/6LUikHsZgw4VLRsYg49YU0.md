@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-318 songs - 18 hr 18 min
+319 songs - 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Wires \(Lazarus Version\)](https://open.spotify.com/track/4Wjhmh0mRCKDSBCMcIyWut) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Lazarus \(Adult Swim Original Series Soundtrack\)](https://open.spotify.com/album/6FxiYTl0Ht63ZdtgtjLIGg) | 4:33 | 2025-04-11 |  |
 | [YES](https://open.spotify.com/track/2b8adGbmp6swKDTeySw1eU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [YES](https://open.spotify.com/album/2MfHhRewq0NNudlThYeOw8) | 5:01 | 2026-05-15 |  |
 | [You Can't Run From Me \(from Cyberpunk: Edgerunners Season 2\)](https://open.spotify.com/track/098z6VSAmmxyts3ogCGPfr) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [You Can't Run From Me \(from Cyberpunk: Edgerunners 2\)](https://open.spotify.com/album/5EU0MQCdOmuusiIICq7VEG) | 3:54 | 2026-07-03 |  |
+| [You Say Run \- 10th Anniversary Version \(feat\. Electric Callboy\) \- from My Hero Academia: The Final Season](https://open.spotify.com/track/615BHREacjRvrGAqJ3ynvS) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [You Say Run \- 10th Anniversary Version \(feat\. Electric Callboy\) \[from My Hero Academia: The Final Season\]](https://open.spotify.com/album/3GIlYCIrGMfjeUXv38w9JG) | 3:51 | 2026-09-25 |  |
 | [You're My Sunshine \- from "Honey Lemon Soda" Soundtrack](https://open.spotify.com/track/1IDCpaNETSyfcWhGwyhOFh) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [You're My Sunshine \(from "Honey Lemon Soda" Soundtrack\)](https://open.spotify.com/album/6XoIoaJygwBxqOZESH6UCL) | 4:19 | 2025-01-17 |  |
 | [yurukuru\*love（TV Size）](https://open.spotify.com/track/4Gsy3Af9H0uHQcpOO9VvGd) | [相沢 智\(CV:高橋李依\)](https://open.spotify.com/artist/7irrLhnxYR8qs4dHY6I8TI), [群堂みすず\(CV:日高里菜\)](https://open.spotify.com/artist/4vd1PZjB3QigIWcuIuta9q), [キャロル・オールストン\(CV:天城サリー\)](https://open.spotify.com/artist/5kAddo3uymgOgZR5aNaGp3) | [トモちゃんは女の子！　オリジナルサウンドトラック](https://open.spotify.com/album/23MmEjzwSZkjJydj6d1ZYL) | 1:33 | 2023-01-27 | 2025-04-12 |
 | [βios](https://open.spotify.com/track/30XxVjgbzt3BhaZIRIriaE) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [GUILTY CROWN COMPLETE SOUNDTRACK](https://open.spotify.com/album/0GYWaav81pYQVP3QcOdVv1) | 4:33 | 2022-12-09 | 2024-04-13 |

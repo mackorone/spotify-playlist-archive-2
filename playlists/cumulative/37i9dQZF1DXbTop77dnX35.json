@@ -6311,6 +6311,28 @@
     },
     {
       "album": {
+        "name": "2nd Step",
+        "url": "https://open.spotify.com/album/13F37l0pvS6Y8MFLdt56CP"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        },
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160741,
+      "name": "Allo",
+      "url": "https://open.spotify.com/track/02U8LbJujN3o0COgb6yHHF"
+    },
+    {
+      "album": {
         "name": "Allonsy",
         "url": "https://open.spotify.com/album/3ld2R0hanathb4Gfzcq5Qs"
       },
@@ -23873,7 +23895,7 @@
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 146064,
+      "duration_ms": 144000,
       "name": "CHE",
       "url": "https://open.spotify.com/track/6sPehU8iJcnrSndiAoFONQ"
     },
@@ -50490,6 +50512,28 @@
       "duration_ms": 585806,
       "name": "Good God",
       "url": "https://open.spotify.com/track/2dBSHcsj2hLjUXs7XC0L3b"
+    },
+    {
+      "album": {
+        "name": "Not Pride Just Scars",
+        "url": "https://open.spotify.com/album/37iK5C0xJUH60ZyApDrMQm"
+      },
+      "artists": [
+        {
+          "name": "Dluxx",
+          "url": "https://open.spotify.com/artist/5iQOHTp8VoWAzDPsv20KIe"
+        },
+        {
+          "name": "Aguero Banks",
+          "url": "https://open.spotify.com/artist/07xuHzGNG1v2zLVtPypTGX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202596,
+      "name": "Good Life",
+      "url": "https://open.spotify.com/track/00TTwV6fn20U2OYcx3YhRT"
     },
     {
       "album": {
@@ -87389,6 +87433,24 @@
     },
     {
       "album": {
+        "name": "Digg Doole",
+        "url": "https://open.spotify.com/album/3aaWKHhYq5tqJzWwHD9Bl6"
+      },
+      "artists": [
+        {
+          "name": "AMADEUS",
+          "url": "https://open.spotify.com/artist/4UIkM1s2GA411ufzpCn0ya"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190339,
+      "name": "Naafiyo",
+      "url": "https://open.spotify.com/track/4GKdMFcNQ6iKaTYW3OnPAg"
+    },
+    {
+      "album": {
         "name": "Nabukeera",
         "url": "https://open.spotify.com/album/5F6NFgzuVZpuRtNf9BnlGZ"
       },
@@ -101582,6 +101644,24 @@
       "duration_ms": 164886,
       "name": "Patience",
       "url": "https://open.spotify.com/track/0eoGHsJMApwkfSbWNx26bv"
+    },
+    {
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
     },
     {
       "album": {
@@ -132445,78 +132525,6 @@
     },
     {
       "album": {
-        "name": "Not Pride Just Scars",
-        "url": "https://open.spotify.com/album/37iK5C0xJUH60ZyApDrMQm"
-      },
-      "artists": [
-        {
-          "name": "Dluxx",
-          "url": "https://open.spotify.com/artist/5iQOHTp8VoWAzDPsv20KIe"
-        }
-      ],
-      "date_added": "2026-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/00TTwV6fn20U2OYcx3YhRT"
-    },
-    {
-      "album": {
-        "name": "2nd Step",
-        "url": "https://open.spotify.com/album/13F37l0pvS6Y8MFLdt56CP"
-      },
-      "artists": [
-        {
-          "name": "Kelvyn Boy",
-          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
-        }
-      ],
-      "date_added": "2026-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/02U8LbJujN3o0COgb6yHHF"
-    },
-    {
-      "album": {
-        "name": "H.I (Human Intelligence)",
-        "url": "https://open.spotify.com/album/6t1kDJ94BMeYjJZCWHfTDd"
-      },
-      "artists": [
-        {
-          "name": "Mohombi",
-          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
-        }
-      ],
-      "date_added": "2026-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3KuknXf2idmqHl6FqMLYKQ"
-    },
-    {
-      "album": {
-        "name": "Digg Doole",
-        "url": "https://open.spotify.com/album/3aaWKHhYq5tqJzWwHD9Bl6"
-      },
-      "artists": [
-        {
-          "name": "AMADEUS",
-          "url": "https://open.spotify.com/artist/4UIkM1s2GA411ufzpCn0ya"
-        }
-      ],
-      "date_added": "2026-09-25",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/4GKdMFcNQ6iKaTYW3OnPAg"
-    },
-    {
-      "album": {
         "name": "Monica",
         "url": "https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES"
       },
@@ -140950,6 +140958,24 @@
       "duration_ms": 254912,
       "name": "Wish Me Well",
       "url": "https://open.spotify.com/track/1ctQgHggWApZOZ9UBLFR4D"
+    },
+    {
+      "album": {
+        "name": "H.I (Human Intelligence)",
+        "url": "https://open.spotify.com/album/6t1kDJ94BMeYjJZCWHfTDd"
+      },
+      "artists": [
+        {
+          "name": "Mohombi",
+          "url": "https://open.spotify.com/artist/37GUqxafAvAKGMZbXCUnmr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134550,
+      "name": "Wishing You Well",
+      "url": "https://open.spotify.com/track/3KuknXf2idmqHl6FqMLYKQ"
     },
     {
       "album": {

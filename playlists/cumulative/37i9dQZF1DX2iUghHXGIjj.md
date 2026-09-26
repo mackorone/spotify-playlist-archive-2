@@ -4,7 +4,7 @@
 
 > Raw, emotional, and acoustic\. Cover: Tinsley Ellis
 
-184 songs - 11 hr 28 min
+185 songs - 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [All True Man](https://open.spotify.com/track/2razQWxhIPRTNHpUl59uuX) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B), [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [All True Man](https://open.spotify.com/album/67GlTIuBHpF1BIHuZvqAjl) | 4:04 | 2021-02-05 | 2024-04-19 |
 | [All True Man](https://open.spotify.com/track/7BSI3B5WACBr9Q4QFSo9hu) | [Big Head Todd and The Monsters](https://open.spotify.com/artist/1lOQRP0UJWmpoDWBa8PB0B), [Ronnie Baker Brooks](https://open.spotify.com/artist/1R61o55489TKal84OYdcnI) | [All True Man](https://open.spotify.com/album/1fJYp4Hby3qVjElqhemDpc) | 4:04 | 2021-02-05 |  |
 | [Am I Wrong](https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Keb' Mo'](https://open.spotify.com/album/09rC6HgLbuYl74OvGdJw6t) | 2:19 | 2020-08-11 |  |
-| [America the Beautiful](https://open.spotify.com/track/3ohWkpSBpimp9jXbvDETR1) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [America the Beautiful](https://open.spotify.com/album/2Bi2Z6pBfKhBDRDdVMNZhv) | 3:36 | 2020-08-11 |  |
+| [America the Beautiful](https://open.spotify.com/track/3ohWkpSBpimp9jXbvDETR1) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [America the Beautiful](https://open.spotify.com/album/2Bi2Z6pBfKhBDRDdVMNZhv) | 3:36 | 2020-08-11 | 2026-09-26 |
 | [Another Man](https://open.spotify.com/track/3aYzsSfm5H5597mewo0r3N) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:14 | 2021-10-15 |  |
 | [Apple Picker \(Acoustic\)](https://open.spotify.com/track/3y3cL6EO4ZwSUAFqSMF1Ec) | [Little G Weevil](https://open.spotify.com/artist/4hkwwRsMaMnDGor4KRup2m) | [Three Chords Too Many](https://open.spotify.com/album/5ncj1ATQJG0z62v5zvowKt) | 5:36 | 2020-08-11 |  |
 | [Baby, Please Don't Go](https://open.spotify.com/track/2l3cWYbnJaocXNaWUxm2lu) | [Preacher Boy](https://open.spotify.com/artist/3pvKfUWJ5sqkjXo4dLUnZu) | [The National Blues](https://open.spotify.com/album/66V2vodLs0cyWla3FbSymM) | 3:23 | 2020-08-11 |  |
@@ -190,6 +190,7 @@
 | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/track/6QaEUzzNtspNmCAdG4OUb6) | [Nat Myers](https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS) | [Willow Witchin' \(Hot Take\)](https://open.spotify.com/album/3DO5TaKuot0DPdfrDxZxZl) | 2:30 | 2021-07-02 |  |
 | [With My Maker I Am One](https://open.spotify.com/track/1P3EPqytwKmzzgrbw72xRP) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker's Guitar](https://open.spotify.com/album/3Ska5qQfOmK6PyxdGhUnSG) | 3:41 | 2020-08-11 | 2024-04-19 |
 | [With My Maker I Am One](https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker’s Guitar](https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr) | 3:41 | 2020-08-11 | 2026-01-31 |
+| [Yellow Dog Blues](https://open.spotify.com/track/3bEOHX0DEKB6Wo0N4njlIo) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Yellow Dog Blues](https://open.spotify.com/album/6VT7JNTPe7yArVzWJJOLOs) | 3:14 | 2026-09-25 |  |
 | [You Don't Care for Me Enough to Cry](https://open.spotify.com/track/1tQGRq2WOBXjL3JWdWMONg) | [John Moreland](https://open.spotify.com/artist/5MPWTD6J1H9XqYEOb4QkdH) | [High on Tulsa Heat](https://open.spotify.com/album/1NvW80mVflSphrro6oWLuP) | 4:14 | 2020-08-11 |  |
 | [You'll All Get What's Coming To You](https://open.spotify.com/track/12u5zwcsb50LIhzpPxDI7q) | [Dan Arborise](https://open.spotify.com/artist/3tLrjXofiogOGcDpAUgM5z) | [Of Tide And Trail](https://open.spotify.com/album/5wUbHsRZkKTSq7a2QFoz6m) | 4:14 | 2020-08-11 |  |
 

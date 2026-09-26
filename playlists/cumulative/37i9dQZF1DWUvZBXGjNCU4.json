@@ -2133,6 +2133,24 @@
     },
     {
       "album": {
+        "name": "Far Above",
+        "url": "https://open.spotify.com/album/0yUFocnvwVbmNIOYiBjx75"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9e Claire",
+          "url": "https://open.spotify.com/artist/71n57F1oDzZRpSR293PwIP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146250,
+      "name": "Far Above",
+      "url": "https://open.spotify.com/track/2gmjHz8kFibVksELLjryYd"
+    },
+    {
+      "album": {
         "name": "Favor from the Wind",
         "url": "https://open.spotify.com/album/6EQJJ0BLotBsUpafBhjfR1"
       },
@@ -3556,6 +3574,24 @@
       "duration_ms": 186092,
       "name": "Keirin",
       "url": "https://open.spotify.com/track/0ZlIp06FN57EBXDO1oYeUp"
+    },
+    {
+      "album": {
+        "name": "Kind Regards [Un cordiale saluto]",
+        "url": "https://open.spotify.com/album/1QQP17UbljjrUgenCyvmlz"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Campagnoli",
+          "url": "https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188742,
+      "name": "Kind Regards [Un cordiale saluto]",
+      "url": "https://open.spotify.com/track/7FuUCQDyMSA4EZG5T8cg4V"
     },
     {
       "album": {
@@ -6688,6 +6724,24 @@
       "duration_ms": 127546,
       "name": "The Rainbow",
       "url": "https://open.spotify.com/track/17RZOpjS9as3aMnvMA976O"
+    },
+    {
+      "album": {
+        "name": "The Road Ahead",
+        "url": "https://open.spotify.com/album/62ar2Cbga4avdgHnN3HKSX"
+      },
+      "artists": [
+        {
+          "name": "Billy Varon",
+          "url": "https://open.spotify.com/artist/00mYPMTJDSN7qczU0deUuY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140434,
+      "name": "The Road Ahead",
+      "url": "https://open.spotify.com/track/7xALoIVoEzI3eRYNPt8oHJ"
     },
     {
       "album": {

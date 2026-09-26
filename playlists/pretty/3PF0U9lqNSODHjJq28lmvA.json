@@ -1,188 +1,316 @@
 {
   "description": "This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday \ud83d\ude0e",
-  "num_followers": 2653,
+  "num_followers": 2656,
   "original_name": "Independent Music Friday",
   "owner": {
     "name": "Record Union",
     "url": "https://open.spotify.com/user/recordunion"
   },
-  "snapshot_id": "AAAF/wul1FBzZCJ/ObleqeoRmxgCy4Qq",
+  "snapshot_id": "AAAGAS4Gl3ppS349/hWW8WecGIKU8PL4",
   "tracks": [
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "This Life",
-        "url": "https://open.spotify.com/album/2hLHmde256SIeTzUv0FrUs"
+        "name": "K\u00f6ttv\u00e4rld",
+        "url": "https://open.spotify.com/album/6IpWVkd00sRaACqgkMnVtt"
       },
       "artists": [
         {
-          "name": "SOOTH",
-          "url": "https://open.spotify.com/artist/40UUzmCiG8fYTGs8itCcoJ"
+          "name": "God Mother",
+          "url": "https://open.spotify.com/artist/4m4mM8KMQd8gtIFC4SOGHL"
         }
       ],
-      "duration_ms": 184920,
-      "name": "This Life",
-      "url": "https://open.spotify.com/track/2JuhLjWpYIBYUJsVZIw5Fd"
+      "duration_ms": 184680,
+      "name": "Fault",
+      "url": "https://open.spotify.com/track/0X83tiB07PpGgl3dSciqrj"
     },
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "Min spaniel",
-        "url": "https://open.spotify.com/album/5M4QoChMVMh1NIG9D0oT02"
+        "name": "Driftaway",
+        "url": "https://open.spotify.com/album/7oN54mzF2mEMXQDkQWr06X"
       },
       "artists": [
         {
-          "name": "Erik L\u00f6fmarck",
-          "url": "https://open.spotify.com/artist/6yucunkyQD9WOadUmDvAOD"
+          "name": "Awaken The Fire",
+          "url": "https://open.spotify.com/artist/4k9YxZViR98Bqsi2QbXaAc"
         }
       ],
-      "duration_ms": 195866,
-      "name": "Min spaniel",
-      "url": "https://open.spotify.com/track/6Ny8v6nIuakHkCZoxbNG9K"
+      "duration_ms": 173210,
+      "name": "Driftaway",
+      "url": "https://open.spotify.com/track/2PGzQoKILAPxqUwmnQW6jk"
     },
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/4xDYjABDuNUrAOtOweD5r5"
+        "name": "Turkish Airlines",
+        "url": "https://open.spotify.com/album/2B8vYJU2sEYtepSxmNDbAV"
       },
       "artists": [
         {
-          "name": "Absolutely Yours",
-          "url": "https://open.spotify.com/artist/7Cm6Z98cAhI70GCdPTEoJu"
+          "name": "Sultan",
+          "url": "https://open.spotify.com/artist/16EQuNU6K3sGYYgd4OnEJM"
         }
       ],
-      "duration_ms": 194478,
-      "name": "Let It Die",
-      "url": "https://open.spotify.com/track/5HoiO6SIw8SwKLL3SWfbh0"
+      "duration_ms": 146864,
+      "name": "Turkish Airlines",
+      "url": "https://open.spotify.com/track/3Ufjh4iTLykuY16bgyug0O"
     },
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "Loud to Last",
-        "url": "https://open.spotify.com/album/64TLr3phZ7n6WU1UQzwGe9"
+        "name": "Magnetismus",
+        "url": "https://open.spotify.com/album/4O3kEcbnQOTh1SmwZSjljw"
       },
       "artists": [
         {
-          "name": "JF PUNK",
-          "url": "https://open.spotify.com/artist/5Va5Hac9gE20pZ35RNmx4c"
+          "name": "Dom Astro",
+          "url": "https://open.spotify.com/artist/1yYvhpN73lwkBiZwwu16xi"
         }
       ],
-      "duration_ms": 216348,
-      "name": "Until It\u2019s Over",
-      "url": "https://open.spotify.com/track/47F2e2vhqMQR3MgGWKhzWn"
+      "duration_ms": 137142,
+      "name": "Magnetismus - Radio Edit",
+      "url": "https://open.spotify.com/track/0z5L7kQHmW7hcbbxQ7QnL7"
     },
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "Row",
-        "url": "https://open.spotify.com/album/3zfa3w6hSahtkGHdIXR0p5"
+        "name": "Wanna Know",
+        "url": "https://open.spotify.com/album/5z4o01gaVewFLc3Dpqh9mh"
       },
       "artists": [
         {
-          "name": "Malsten",
-          "url": "https://open.spotify.com/artist/4DVftI8JqhOqTb7DOMsPNa"
+          "name": "Too Hard To Spell",
+          "url": "https://open.spotify.com/artist/2EQcck7DUz4tBSp2zRKC55"
         }
       ],
-      "duration_ms": 449505,
-      "name": "Row",
-      "url": "https://open.spotify.com/track/739QcB62pjeN3zOoZBYPEz"
+      "duration_ms": 195840,
+      "name": "Wanna Know",
+      "url": "https://open.spotify.com/track/0AXj3L2BVek6rLNNSYYg48"
     },
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "Min Pappa",
-        "url": "https://open.spotify.com/album/12OTwUsL0BszvoJrcX63yK"
+        "name": "Come on Over",
+        "url": "https://open.spotify.com/album/2s8UyI1qLa82epqKl0LI6c"
       },
       "artists": [
         {
-          "name": "Ulf Krantz",
-          "url": "https://open.spotify.com/artist/5XQmWmMR9NHdmYDj5JIR9a"
+          "name": "Lene Lie",
+          "url": "https://open.spotify.com/artist/05CrC0heEOp9o3PIMkvklo"
         }
       ],
-      "duration_ms": 281916,
-      "name": "Min Pappa",
-      "url": "https://open.spotify.com/track/0xGf6FfHFjezrqiIC7Hus3"
+      "duration_ms": 212245,
+      "name": "Come on Over",
+      "url": "https://open.spotify.com/track/7GOEphWhu8YDBl7UUWmYhY"
     },
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "Chapter I: The Quiet Collapse",
-        "url": "https://open.spotify.com/album/1u3OKaNULqzE8gL8gnayGp"
+        "name": "Paper Trail",
+        "url": "https://open.spotify.com/album/41ktBFIf0D3gzrVIzYzIhX"
       },
       "artists": [
         {
-          "name": "Shikaka",
-          "url": "https://open.spotify.com/artist/7yUZA279bvWY1sqCROVb9Y"
+          "name": "Verdant Tide",
+          "url": "https://open.spotify.com/artist/6HTYQdG1XoNQdgp2ZAk1Re"
         }
       ],
-      "duration_ms": 452419,
-      "name": "Chapter I: The Quiet Collapse",
-      "url": "https://open.spotify.com/track/7pvEmf1oQiD5JUxX1qwSNv"
+      "duration_ms": 254200,
+      "name": "Paper Trail",
+      "url": "https://open.spotify.com/track/62bB9QkY7QQjOoMefvidGP"
     },
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "Dead City Monkeys",
-        "url": "https://open.spotify.com/album/5aTELpswBgnCIjFT3oLvX7"
+        "name": "Care Less",
+        "url": "https://open.spotify.com/album/6aJxXfpj9CuKPHfi2uoCAi"
       },
       "artists": [
         {
-          "name": "DeadCityMonkeys",
-          "url": "https://open.spotify.com/artist/7xmHTajSoookwtf2x0NOoQ"
+          "name": "Nomy",
+          "url": "https://open.spotify.com/artist/20bAxKr0YrCvceZeLqs37e"
         }
       ],
-      "duration_ms": 233740,
-      "name": "Dead City Monkeys",
-      "url": "https://open.spotify.com/track/2g8GfWjoa1K5LqgeRU7HWA"
+      "duration_ms": 200000,
+      "name": "Care Less",
+      "url": "https://open.spotify.com/track/4loWK0cptQ0pmekjIrhTUy"
     },
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "Lights Above",
-        "url": "https://open.spotify.com/album/3Da97WraCgEiMaXMhHBWMK"
+        "name": "Ta mig tillbaka",
+        "url": "https://open.spotify.com/album/5cYzLF5MfWYW3Ru1MmcrQR"
       },
       "artists": [
         {
-          "name": "Silk Button Butchers",
-          "url": "https://open.spotify.com/artist/61bfkB9zBmFzwVvr8wHlbn"
+          "name": "Martin Persson",
+          "url": "https://open.spotify.com/artist/1m2EwtulEEgEwMFnYJEPY6"
         }
       ],
-      "duration_ms": 264672,
-      "name": "Lights Above",
-      "url": "https://open.spotify.com/track/4KYY91g7RImNah3n2bLjqq"
+      "duration_ms": 234712,
+      "name": "Ta mig tillbaka",
+      "url": "https://open.spotify.com/track/1g4MaBJ8xffzm3NaI6Izmd"
     },
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "BUENOS AIRES 2026 (From \"Subway Surfers\")",
-        "url": "https://open.spotify.com/album/1QRhzGBN415fM7Msq1aF5D"
+        "name": "Tutto o Niente",
+        "url": "https://open.spotify.com/album/6Fy0sYhzSD6jr1cwthUeHQ"
       },
       "artists": [
         {
-          "name": "Subway Surfers",
-          "url": "https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ"
+          "name": "Paulo Ricardo Moreira",
+          "url": "https://open.spotify.com/artist/1av4tusBY3VATFoHTwpHuH"
         }
       ],
-      "duration_ms": 146029,
-      "name": "BUENOS AIRES 2026 - From \"Subway Surfers\"",
-      "url": "https://open.spotify.com/track/1Vglt25OaeoqtWnmZW9eHD"
+      "duration_ms": 168554,
+      "name": "Tutto o Niente",
+      "url": "https://open.spotify.com/track/6dSFZXTOgfcJTcm7vxC6Xp"
     },
     {
-      "added_at": "2026-09-18 14:37:14",
+      "added_at": "2026-09-25 14:14:32",
       "album": {
-        "name": "Ge k\u00e4rleken vingar",
-        "url": "https://open.spotify.com/album/5VYr943M5d7qdX3bXaHrP3"
+        "name": "Cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/41Mp92vJHUUfS4BTu5BaTZ"
       },
       "artists": [
         {
-          "name": "Peder Blomqvist",
-          "url": "https://open.spotify.com/artist/7zBbaFZFKaioSoQud6YKsi"
+          "name": "Muri\u00f3 el Doctor",
+          "url": "https://open.spotify.com/artist/0zpcT4TLVcexOv1WOjci2J"
         }
       ],
-      "duration_ms": 316000,
-      "name": "Peder Blomqvist",
-      "url": "https://open.spotify.com/track/5QiL2994RBrqIEYAQ99N1c"
+      "duration_ms": 240507,
+      "name": "Cumplea\u00f1os",
+      "url": "https://open.spotify.com/track/6YWrueopysKzpeZCIGCERT"
+    },
+    {
+      "added_at": "2026-09-25 14:14:32",
+      "album": {
+        "name": "Revelling in Madness",
+        "url": "https://open.spotify.com/album/0SxBT0lLuKaXd16qh1yjAg"
+      },
+      "artists": [
+        {
+          "name": "Leroy T. Brown",
+          "url": "https://open.spotify.com/artist/60irOEUuAaslNaiwWOBuXW"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Revelling in Madness",
+      "url": "https://open.spotify.com/track/7lHobci1Os8021CZ44baVN"
+    },
+    {
+      "added_at": "2026-09-25 14:14:32",
+      "album": {
+        "name": "The Dragons Door (10th Anniversary Re-release)",
+        "url": "https://open.spotify.com/album/5jd7TkkyQSbiwbhGRAjReY"
+      },
+      "artists": [
+        {
+          "name": "Katana Cartel",
+          "url": "https://open.spotify.com/artist/6MngbKovX3R5FrHMXbAqaL"
+        }
+      ],
+      "duration_ms": 226955,
+      "name": "The Dragons Door - 10th Anniversary Re-release",
+      "url": "https://open.spotify.com/track/4SrcVDBKTTbSmP2uol8eNo"
+    },
+    {
+      "added_at": "2026-09-25 14:14:32",
+      "album": {
+        "name": "your side of england",
+        "url": "https://open.spotify.com/album/7sZ0q2LQs5CU7ba2TUImqL"
+      },
+      "artists": [
+        {
+          "name": "Aisyah Leman",
+          "url": "https://open.spotify.com/artist/0TyvauGATIBO6ciV21b5ri"
+        }
+      ],
+      "duration_ms": 250984,
+      "name": "Your Side Of England",
+      "url": "https://open.spotify.com/track/2QpuKF7G5YdFwAt83cl4mg"
+    },
+    {
+      "added_at": "2026-09-25 14:14:32",
+      "album": {
+        "name": "Only For The Brave",
+        "url": "https://open.spotify.com/album/6DYgwZspIR60mI8VGT0IRH"
+      },
+      "artists": [
+        {
+          "name": "Rebel Road",
+          "url": "https://open.spotify.com/artist/6S7kR53XKNCHwHCNXMmJRx"
+        }
+      ],
+      "duration_ms": 167080,
+      "name": "Only For The Brave",
+      "url": "https://open.spotify.com/track/0X9LanUXgXr7SPnT2VAvha"
+    },
+    {
+      "added_at": "2026-09-25 14:14:32",
+      "album": {
+        "name": "Sing Sad Songs",
+        "url": "https://open.spotify.com/album/1jEH074708sS38Fg5U3UAh"
+      },
+      "artists": [
+        {
+          "name": "Songbird Syndicate",
+          "url": "https://open.spotify.com/artist/3Dt5ldK1CYbwFDyaICQaoC"
+        }
+      ],
+      "duration_ms": 128916,
+      "name": "She Said",
+      "url": "https://open.spotify.com/track/3BjISSqqwWVd6saspvXKf1"
+    },
+    {
+      "added_at": "2026-09-25 14:14:32",
+      "album": {
+        "name": "Kallulandia",
+        "url": "https://open.spotify.com/album/790rU86KQvwDkuDGHT3S6O"
+      },
+      "artists": [
+        {
+          "name": "Huge L",
+          "url": "https://open.spotify.com/artist/3CsfzUptehCikRLWMHr1dB"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Kallulandia",
+      "url": "https://open.spotify.com/track/11yiCxhQESYX1ZLfI1WwMg"
+    },
+    {
+      "added_at": "2026-09-25 14:14:32",
+      "album": {
+        "name": "MOTHERCRAFT",
+        "url": "https://open.spotify.com/album/1lnGzLJkRAHtuthh6lAppM"
+      },
+      "artists": [
+        {
+          "name": "After Death Art",
+          "url": "https://open.spotify.com/artist/5zhMspVqdOyFX1YFuDLr53"
+        }
+      ],
+      "duration_ms": 191842,
+      "name": "MOTHERCRAFT",
+      "url": "https://open.spotify.com/track/6Mv9dNlsIZcUtpAXakVXEo"
+    },
+    {
+      "added_at": "2026-09-25 14:14:32",
+      "album": {
+        "name": "Past and Present",
+        "url": "https://open.spotify.com/album/2sKPG9mGTkBwEzU8C49qC6"
+      },
+      "artists": [
+        {
+          "name": "An Evening At Elmwood",
+          "url": "https://open.spotify.com/artist/4BCuqilGa2A1LyL0YTENxd"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Past Tense",
+      "url": "https://open.spotify.com/track/2dYGTXGyiOvNRWUz501Avy"
     }
   ],
   "unique_name": "Independent Music Friday",

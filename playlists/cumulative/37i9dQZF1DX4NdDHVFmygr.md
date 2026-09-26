@@ -2,7 +2,7 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: Draganov, TIF
+> Les hits marocains du moment\. Cover: Manal
 
 544 songs - 1 day 4 hr 51 min
 

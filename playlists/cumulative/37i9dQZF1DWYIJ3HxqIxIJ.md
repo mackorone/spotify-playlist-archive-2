@@ -4,7 +4,7 @@
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Lewis Love
 
-623 songs - 1 day 9 hr 19 min
+623 songs - 1 day 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [How I'd Kill](https://open.spotify.com/track/44zcMuVzpIb0RnzuxipJOn) | [Cowboy Malfoy](https://open.spotify.com/artist/2Cg4UE0dOib6suUva3ieEH) | [How I'd Kill](https://open.spotify.com/album/30m9Iow7aDLodvubk5eg4b) | 2:23 | 2023-03-02 | 2024-10-02 |
 | [How We Livin'](https://open.spotify.com/track/10bGyAjMw61JLTs1ma3jxL) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh) | [How We Livin'](https://open.spotify.com/album/3sBHXOVi0l6EIoK03h9ggc) | 3:38 | 2021-10-15 | 2022-07-29 |
 | [How We Livin'](https://open.spotify.com/track/35KDwZwYeUx1BUgFINesrz) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh) | [How We Livin'](https://open.spotify.com/album/1bDPrkh5p65SjANp8sqK6Q) | 3:38 | 2021-10-15 | 2022-08-16 |
+| [HYPER \(with REINEN\)](https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB), [REINEN](https://open.spotify.com/artist/0IYg6J3r1hJUPLNupSbqvt) | [OPIA](https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom) | 3:02 | 2026-09-24 |  |
 | [I Cannot Read Your Mind](https://open.spotify.com/track/5uecy0FCxBnspHbGnoEcCx) | [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [I Cannot Read Your Mind](https://open.spotify.com/album/2j4WGxQ21PFvGr8DLW7QtB) | 2:54 | 2023-08-17 | 2024-10-02 |
 | [I Did You Wrong](https://open.spotify.com/track/2onMysrdB7Hg2q9W7foPOP) | [Harry Hayes](https://open.spotify.com/artist/7BBSATOdEaY07XbxlUzfFu) | [I Did You Wrong](https://open.spotify.com/album/0uERPZCGVreMb8pIeQiHiX) | 2:52 | 2026-04-24 | 2026-08-28 |
 | [I DON'T WANNA BE LIKE YOU](https://open.spotify.com/track/26FuBmI70i0mXaKTST6Bz4) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [4TH WALL](https://open.spotify.com/album/17FxTkMIOb6nzuewcCmTJc) | 2:43 | 2023-03-02 | 2024-10-02 |
@@ -585,7 +586,6 @@
 | [too gone](https://open.spotify.com/track/4ClqfQf1eANWY4bWHa6SZ4) | [ROX LAVI](https://open.spotify.com/artist/4VA9QmsuAL3yxm5K5OCizT) | [Blah blah about the blah](https://open.spotify.com/album/2l2oj0iPFDKOBuKslDP7TB) | 3:46 | 2025-11-06 | 2026-01-20 |
 | [Touch Me \(Hold My Hand\)](https://open.spotify.com/track/65WxintbjsESKlBJBlyGzK) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Esther / Touch Me \(Hold My Hand\)](https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ) | 4:01 | 2021-10-15 | 2022-08-16 |
 | [Toyota Camry](https://open.spotify.com/track/7xAgpLgXL0Hi1q2pW48zNa) | [Radio Free Alice](https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj) | [Toyota Camry](https://open.spotify.com/album/1iabNMrVo9EZjQdWvJkwHB) | 3:10 | 2025-08-21 | 2025-11-07 |
-| [Track 2](https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [OPIA](https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom) | 0:00 | 2026-09-24 |  |
 | [Trapped In L.A.](https://open.spotify.com/track/2RVOWW1qslpLW57CHoQ6dq) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Trapped In L.A.](https://open.spotify.com/album/3x53wtMGKU425IaCbQgaq1) | 2:08 | 2022-08-15 | 2022-11-11 |
 | [Trophies](https://open.spotify.com/track/37lI9YYqd5Fb6IfTB8Teqe) | [Marlin's Dreaming](https://open.spotify.com/artist/3LTsKAOByvXFR2UshGoxaL) | [Trophies](https://open.spotify.com/album/1IsM96zlLkllynT8zwbjcD) | 2:59 | 2021-10-15 | 2022-08-16 |
 | [True](https://open.spotify.com/track/1amJavIEToI7pdHkPN6A1S) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [True](https://open.spotify.com/album/2CTrixoR150ii6HT2SAaMn) | 2:05 | 2024-10-01 | 2025-05-30 |

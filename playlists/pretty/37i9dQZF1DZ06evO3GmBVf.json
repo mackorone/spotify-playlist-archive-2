@@ -1,12 +1,12 @@
 {
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
-  "num_followers": 218735,
+  "num_followers": 218754,
   "original_name": "This Is Lefty Sm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arMWgAAAAAB5EkDiFLNg9ZoWOvo4CH39",
+  "snapshot_id": "arRoAAAAAACpSZae0v/cAT6qp3RacfBv",
   "tracks": [
     {
       "added_at": null,
@@ -139,6 +139,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Encerrado En Mi Mundo",
+        "url": "https://open.spotify.com/album/5YvOq1cAoJNiHkLLL2qgX9"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Encerrado En Mi Mundo",
+      "url": "https://open.spotify.com/track/6B8higk6pidzE5DQbBGOzy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Bais\u00f3n",
         "url": "https://open.spotify.com/album/0lQOsBHEf9EAm0j8hlbFYr"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 219791,
       "name": "El Bais\u00f3n",
       "url": "https://open.spotify.com/track/6WwCuYWEH32z0tn8mSN3MY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Encerrado En Mi Mundo",
-        "url": "https://open.spotify.com/album/5YvOq1cAoJNiHkLLL2qgX9"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Encerrado En Mi Mundo",
-      "url": "https://open.spotify.com/track/6B8higk6pidzE5DQbBGOzy"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En La Nube",
+        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 212519,
+      "name": "En La Nube",
+      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dice Que Me Quiere",
         "url": "https://open.spotify.com/album/17MHsZsYostt7VeA62ZsCP"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 168777,
       "name": "Dice Que Me Quiere",
       "url": "https://open.spotify.com/track/5KInsY7fAYt1haZlcWzEBP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En La Nube",
-        "url": "https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "En La Nube",
-      "url": "https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF"
     },
     {
       "added_at": null,
@@ -775,26 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shit Masiva",
-        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
-      },
-      "artists": [
-        {
-          "name": "Sauceda SM",
-          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
-        },
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 235068,
-      "name": "Ac\u00e1 Entre Nos",
-      "url": "https://open.spotify.com/track/4O6R59QSJoQlROItXrZcCe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estilo Fino",
         "url": "https://open.spotify.com/album/4yblA3RA4p10vG7lZ45hHh"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 186625,
       "name": "16 Toneladas",
       "url": "https://open.spotify.com/track/3992fLSRgc9uJmoeAjDP2Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shit Masiva",
+        "url": "https://open.spotify.com/album/78JJr4jPxcdU5fTQK2NN78"
+      },
+      "artists": [
+        {
+          "name": "Sauceda SM",
+          "url": "https://open.spotify.com/artist/7ynMGDLyeUKVq7XuYapTJ2"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 235068,
+      "name": "Ac\u00e1 Entre Nos",
+      "url": "https://open.spotify.com/track/4O6R59QSJoQlROItXrZcCe"
     },
     {
       "added_at": null,

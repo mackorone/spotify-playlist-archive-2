@@ -1,6 +1,6 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks.",
-  "num_followers": 2255139,
+  "num_followers": 2254890,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx"
     },
     {
-      "added_at": "2026-08-21 11:48:59",
-      "album": {
-        "name": "The light in the painting",
-        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 224595,
-      "name": "The light in the painting",
-      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
-    },
-    {
       "added_at": "2025-10-17 10:29:03",
       "album": {
         "name": "Black Friday",
@@ -359,6 +343,22 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2026-08-21 11:48:59",
+      "album": {
+        "name": "The light in the painting",
+        "url": "https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 224595,
+      "name": "The light in the painting",
+      "url": "https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "See Through",
-        "url": "https://open.spotify.com/album/7qqtzUz4Wd44ylS9kC5wrP"
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf"
       },
       "artists": [
         {
-          "name": "Ruti",
-          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
+          "name": "Rosie H Sullivan",
+          "url": "https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je"
         }
       ],
-      "duration_ms": 170877,
-      "name": "See Through",
-      "url": "https://open.spotify.com/track/4NjWqzNLY1E0OylkvAiLxH"
+      "duration_ms": 273687,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc"
     },
     {
       "added_at": "2025-10-17 10:29:03",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/0FpJ9wlktoKInqfSpgBSjf"
+        "name": "See Through",
+        "url": "https://open.spotify.com/album/7qqtzUz4Wd44ylS9kC5wrP"
       },
       "artists": [
         {
-          "name": "Rosie H Sullivan",
-          "url": "https://open.spotify.com/artist/0lVelcY3fGmACzxZGSW3Je"
+          "name": "Ruti",
+          "url": "https://open.spotify.com/artist/5vQr71zjhOUi0RPPeQE6bE"
         }
       ],
-      "duration_ms": 273687,
-      "name": "Timeless",
-      "url": "https://open.spotify.com/track/3AZ3iDuNNkxIKYZJiFzYvc"
+      "duration_ms": 170877,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/4NjWqzNLY1E0OylkvAiLxH"
     },
     {
       "added_at": "2025-10-17 10:29:03",

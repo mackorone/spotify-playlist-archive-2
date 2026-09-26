@@ -4,7 +4,7 @@
 
 > Τα καλύτερα της ελληνικής ποπ σκηνής αυτή τη στιγμή\. Εξώφυλλο: Akylas
 
-326 songs - 16 hr 37 min
+327 songs - 16 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Mykonos \- Afro House Remix](https://open.spotify.com/track/6ojWvKOZz9V2dESo6KBotL) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK), [Michael Tsaousopoulos](https://open.spotify.com/artist/5PqeqrwrU93NISsOPbYPHN) | [Mykonos \(Afro House Remix\)](https://open.spotify.com/album/3TPCyqLmLEa1i1ANxmHGpd) | 2:28 | 2024-07-18 | 2024-10-25 |
 | [Mythos](https://open.spotify.com/track/0fSun9srR8uNjfSMYkxVn5) | [Josephine](https://open.spotify.com/artist/1fAotS2jUxpI8bnIxd5cIR) | [Mythos](https://open.spotify.com/album/58ot8gXv5rkCoHrsPKRENm) | 2:54 | 2024-09-12 | 2025-05-09 |
 | [Na Minoume Panta Pedia](https://open.spotify.com/track/42rJEFQaMjNVa3ZMZQQXta) | [Michalis Hatzigiannis](https://open.spotify.com/artist/77YRvt1TuxpCmW4Ydrx69A) | [Na Minoume Panta Pedia \(Original TV Series Soundtrack\)](https://open.spotify.com/album/52mLi5TJ7IkDvM0SMjZNdp) | 3:07 | 2024-10-24 | 2024-11-15 |
-| [NAYA](https://open.spotify.com/track/7CoyoHJ9Nhlcl1MPwmUmsn) | [CARLA](https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z) | [NAYA](https://open.spotify.com/album/6Gb4SvqtyqT5JYSy4cvUQx) | 2:35 | 2026-04-30 |  |
+| [NAYA](https://open.spotify.com/track/7CoyoHJ9Nhlcl1MPwmUmsn) | [CARLA](https://open.spotify.com/artist/0efzWCTqpsoaTZNUn3ar4z) | [NAYA](https://open.spotify.com/album/6Gb4SvqtyqT5JYSy4cvUQx) | 2:35 | 2026-04-30 | 2026-09-26 |
 | [Neon Sky](https://open.spotify.com/track/2mw0Apayn8IKWyKwsaZ8mx) | [Kid Moxie](https://open.spotify.com/artist/4AK5FOk3Q4pkQV83DvYHJa) | [Neon Sky](https://open.spotify.com/album/7bhgW6xg1uvqhDzlUD14Vg) | 4:12 | 2024-10-17 | 2024-11-01 |
 | [Nero](https://open.spotify.com/track/2ubEbpEKlROchIqMYQSC9f) | [Konstantinos Argiros](https://open.spotify.com/artist/5YquORfLTx6nWMlBzJstx7), [Noizy](https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB) | [Nero](https://open.spotify.com/album/1TzT3q0Z7rRE7jwjyXdg8y) | 3:08 | 2025-09-04 | 2026-03-27 |
 | [NEVRA S3X STRESS](https://open.spotify.com/track/2f9lwB6SpNuOYkESI3wbpj) | [Joanne](https://open.spotify.com/artist/75z1OhYtUgB075L3zyMfFH) | [NEVRA S3X STRESS](https://open.spotify.com/album/7KfKlTNQgQevztlEaaK5AD) | 2:32 | 2026-06-18 | 2026-09-25 |
@@ -307,6 +307,7 @@
 | [To Tango Tis Nefelis \- ONEMANSHOW & Ralf Mag Remix](https://open.spotify.com/track/4dODtxnCE3YB7dP8lvK55d) | [Haris Alexiou](https://open.spotify.com/artist/4cgCxnsmy9kDcl3oA2BYRY), [Ralf Mag](https://open.spotify.com/artist/0z7vh522N8W5SBlvtRL2WR), [ONEMANSHOW](https://open.spotify.com/artist/65WejxJ3sDrhZqVZWeFAqR) | [To Tango Tis Nefelis](https://open.spotify.com/album/3l99PmvReKh8FgbxlcWGl9) | 6:10 | 2024-07-04 | 2025-03-21 |
 | [To Velos](https://open.spotify.com/track/6TFPOMN57JxaKdfkxwB4YQ) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [To Velos](https://open.spotify.com/album/3BxWWqlUWJ0551CLIJBD2H) | 2:49 | 2025-01-30 | 2025-02-14 |
 | [TOP](https://open.spotify.com/track/0IJrMuRsw30NKa1d5KzNBw) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [TOP](https://open.spotify.com/album/2satLXIf7PYPV6pqg69168) | 2:36 | 2026-01-22 | 2026-05-08 |
+| [Tou Agoriou Apenanti](https://open.spotify.com/track/0yY0iAdNJDfUno1SKVN5NR) | [Papazó](https://open.spotify.com/artist/31z8duLz87iJxfXN5PoltZ), [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [To Balkoni Tou Papazó](https://open.spotify.com/album/7zZZ1k99daZPC8HHr9WJxL) | 2:18 | 2026-09-25 |  |
 | [Tourísta](https://open.spotify.com/track/2XTxnII8KE0wRoIqyf3nsx) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Peproméno](https://open.spotify.com/album/3rqiucHK1cixqLeXd7I6A2) | 2:57 | 2025-06-13 | 2025-08-01 |
 | [Tragoudao Dinata](https://open.spotify.com/track/1zbPYnhRaPooiirF9rc4j1) | [Stelios Rokkos](https://open.spotify.com/artist/01GDS9NmGwhzHm2VjbZFcG) | [Tragoudao Dinata](https://open.spotify.com/album/3MvFgf053daWKzR5EcL6vK) | 3:09 | 2025-12-04 | 2026-06-12 |
 | [Trelane Mas](https://open.spotify.com/track/5CnaKQEtOPnY8jf1npotRQ) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz), [DJ.Silence](https://open.spotify.com/artist/4lpfvtAHLELZcezTOUHiQX) | [Trelane Mas](https://open.spotify.com/album/5q5Yc64p2GhKiM2deSXvBi) | 3:18 | 2025-06-19 | 2026-02-13 |

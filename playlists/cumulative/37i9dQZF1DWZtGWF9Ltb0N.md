@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-947 songs - 2 day 12 hr 51 min
+948 songs - 2 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Fever](https://open.spotify.com/track/67adVknti3PYlf3nm6A9RT) | [Bentronix](https://open.spotify.com/artist/1eG7iy8cMeHYE0y9pj9x1H) | [The Haze EP](https://open.spotify.com/album/5HuJ8sZ5IvWePFov2dsVnu) | 3:46 | 2022-02-17 | 2022-07-29 |
 | [FFO](https://open.spotify.com/track/2kooa34cnfCMuCUsnbMeEf) | [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [FFO](https://open.spotify.com/album/2eTmqwXJAbl41hiK813t6k) | 4:30 | 2025-02-16 |  |
 | [Fight](https://open.spotify.com/track/03NZI88e7f9ocbkw3j6PSo) | [Mary Droppinz](https://open.spotify.com/artist/4tPVnr7VB15UA9TRsie3cS) | [Fight](https://open.spotify.com/album/5ahEUKnTbfV7sxyYkOd1UK) | 2:51 | 2024-12-13 | 2026-07-11 |
+| [Fight Back Sound](https://open.spotify.com/track/2Y68itGMn8pcyWOlmsoRH4) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6), [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Fight Back Sound](https://open.spotify.com/album/1nGcD6XKaANSaiTssGisyI) | 2:56 | 2026-09-25 |  |
 | [Finality](https://open.spotify.com/track/1Lpt1GZWUcibnxgXoGTmfW) | [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2), [LUMEN](https://open.spotify.com/artist/1JM1n7fWKg7BYuZjhV9FWR), [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY) | [Finality](https://open.spotify.com/album/4uMH7mASCdwTSSMhol9jgh) | 6:08 | 2024-03-01 | 2026-01-24 |
 | [Fire Exit](https://open.spotify.com/track/2hZaN1NkoFZC3cAWAbNxmF) | [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Fire Exit / Dark Vistas](https://open.spotify.com/album/5feUmqlFPkJlA9zuQHkiBd) | 3:46 | 2022-02-17 | 2022-04-09 |
 | [Firing Line \- Oddkut Remix](https://open.spotify.com/track/5FVvIGgGGha5CkcFaIk2ea) | [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Abstrakt Sonance](https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp), [Oddkut](https://open.spotify.com/artist/45ME91Qyv7XQQk0SBaSxgQ) | [Firing Line \(The Remixes\)](https://open.spotify.com/album/2IxiUEyFkk17pyak0ArjfL) | 4:48 | 2022-10-14 | 2023-01-06 |
@@ -927,7 +928,7 @@
 | [Whoop D Don't](https://open.spotify.com/track/7o9s5UllrblOHSW18IKs3s) | [Kotek](https://open.spotify.com/artist/5JD5mJBIRz9pisqHn7SM7W) | [Whoop D Don't](https://open.spotify.com/album/3wnlvDJ9FQm4FOM6LhqIUO) | 3:28 | 2024-08-02 | 2024-10-03 |
 | [Wild \- Shanghai Doom Remix](https://open.spotify.com/track/7FGomI5iGCQheRzsR6Dahv) | [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ), [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK), [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [PERIPHERY \(Remix LP\)](https://open.spotify.com/album/0UUCwVDcLMXeh40CoFZkk5) | 3:12 | 2024-05-17 | 2025-03-12 |
 | [Wild Flowers](https://open.spotify.com/track/5GvC8Uzo1zIb03zWNHC2V2) | [ring noord](https://open.spotify.com/artist/2LG15MTQyH0AMfeCMjdr8A), [Sleepnet](https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2), [Former](https://open.spotify.com/artist/5JUoiC2oaCGmgVl1Dsw1vN) | [Wild Flowers](https://open.spotify.com/album/3AYsxTbk9MZtVjquj60Isb) | 5:23 | 2025-04-11 | 2026-01-24 |
-| [Wild Inside](https://open.spotify.com/track/6r8MoYtlJVn9Isd3ieXFGY) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Wild Inside](https://open.spotify.com/album/6eNWdgYau7HHSTWgAbltSR) | 3:37 | 2024-11-08 |  |
+| [Wild Inside](https://open.spotify.com/track/6r8MoYtlJVn9Isd3ieXFGY) | [The Glitch Mob](https://open.spotify.com/artist/3a9qv6NLHnsVxJUtKOMHvD) | [Wild Inside](https://open.spotify.com/album/6eNWdgYau7HHSTWgAbltSR) | 3:37 | 2024-11-08 | 2026-09-26 |
 | [WILIN](https://open.spotify.com/track/0K7WtvwPnqZNgubEjlNpxI) | [Dabow](https://open.spotify.com/artist/6GQx1heM2wyI3iHpAC5P8X), [Phydra](https://open.spotify.com/artist/2JdaYXJWMGUViJhVFhkkcH) | [WILIN](https://open.spotify.com/album/1gUMgigX2NTCn88jDCS8iJ) | 3:08 | 2024-03-29 | 2024-05-27 |
 | [Winter Horns](https://open.spotify.com/track/6cPZIB5yZMq6rojtLKGnlq) | [Tetrad](https://open.spotify.com/artist/1SA9pZ8uTxr9yGFOhVNSfD) | [For The Heads Compilation Vol\. 1](https://open.spotify.com/album/22of22T3TL25A3iq2HDn5y) | 5:36 | 2022-02-17 | 2022-07-29 |
 | [Wisdom](https://open.spotify.com/track/3F9yTY87haeNOoPZzNRHN9) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Wisdom](https://open.spotify.com/album/3OU2VNhplpTYkcFdX8YcxH) | 5:48 | 2022-02-17 | 2024-08-24 |

@@ -453,6 +453,32 @@
     },
     {
       "album": {
+        "name": "18teen",
+        "url": "https://open.spotify.com/album/7K0c6S3Sh3qstQp49RnGZv"
+      },
+      "artists": [
+        {
+          "name": "Seeyah",
+          "url": "https://open.spotify.com/artist/1ScheniypyvqpRJLWWYX15"
+        },
+        {
+          "name": "W4DE",
+          "url": "https://open.spotify.com/artist/0rkl0hmiFT3sfcRFm7gzHi"
+        },
+        {
+          "name": "Brodie.Bro",
+          "url": "https://open.spotify.com/artist/6Bihlnnu6mcDgw7wEBjwB7"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 362127,
+      "name": "6 Ekseni",
+      "url": "https://open.spotify.com/track/2Y3pHnLsttIozTPYc4x80S"
+    },
+    {
+      "album": {
         "name": "66",
         "url": "https://open.spotify.com/album/6pTx4o3Ww2KeWMUVtONaGd"
       },
@@ -37816,24 +37842,6 @@
       "duration_ms": 443893,
       "name": "TOUCHED THE SKY - DBN GOGO & EFFECTED VS DENNIS FERRER (FEAT. TRIPLE X DA GHOST & MIA TUTTAVILLA)",
       "url": "https://open.spotify.com/track/5fdTC0zQNb1pLg3tmobQ9t"
-    },
-    {
-      "album": {
-        "name": "18teen",
-        "url": "https://open.spotify.com/album/7K0c6S3Sh3qstQp49RnGZv"
-      },
-      "artists": [
-        {
-          "name": "Seeyah",
-          "url": "https://open.spotify.com/artist/1ScheniypyvqpRJLWWYX15"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/2Y3pHnLsttIozTPYc4x80S"
     },
     {
       "album": {

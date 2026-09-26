@@ -2098,7 +2098,7 @@
       ],
       "date_added": "2025-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 342893,
       "name": "CHROMA 011 A.L.O.E II",
       "url": "https://open.spotify.com/track/61gCDJBdaNXE4sy9Xl2lvl"
@@ -4573,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "Music is the Answer",
+        "url": "https://open.spotify.com/album/1dy4bXYfvwhKz7nuUACHpv"
+      },
+      "artists": [
+        {
+          "name": "SYEYL",
+          "url": "https://open.spotify.com/artist/0VrWyZeTXQTSfcNCrtiKfS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223414,
+      "name": "how to disappear completely",
+      "url": "https://open.spotify.com/track/4yRU442TALRz9eVxVvmGKF"
+    },
+    {
+      "album": {
         "name": "Hydrogen23",
         "url": "https://open.spotify.com/album/5f9ItIuLGnyi0I2QEXrDdc"
       },
@@ -4975,6 +4993,24 @@
     },
     {
       "album": {
+        "name": "Nondualism",
+        "url": "https://open.spotify.com/album/4Z3wdX8L4tOLbSS2wLAu42"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9pe",
+          "url": "https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254242,
+      "name": "Ja Gu De",
+      "url": "https://open.spotify.com/track/0dEngkBy9DrhNJitGkfY13"
+    },
+    {
+      "album": {
         "name": "Smoke Tape",
         "url": "https://open.spotify.com/album/6UQFJCmACwKoI5qL9LUbxE"
       },
@@ -5346,7 +5382,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 234000,
       "name": "La Riva",
       "url": "https://open.spotify.com/track/5YcH4BZgRV8pcfsUy1bc06"
@@ -6380,6 +6416,24 @@
       "duration_ms": 388577,
       "name": "Mizu-Iro",
       "url": "https://open.spotify.com/track/1Gg1LzqEi4eL2AV8hlTI5x"
+    },
+    {
+      "album": {
+        "name": "Mnestic",
+        "url": "https://open.spotify.com/album/5XukSllCsOEZG7O1aWvTsn"
+      },
+      "artists": [
+        {
+          "name": "Teal Teal",
+          "url": "https://open.spotify.com/artist/7jG4HV4KgY0a4KAg02BEbu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300000,
+      "name": "Mnestic",
+      "url": "https://open.spotify.com/track/5Iet1jqbp3MPveapghPI6l"
     },
     {
       "album": {
@@ -7930,7 +7984,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 224315,
       "name": "Reality Beckons",
       "url": "https://open.spotify.com/track/2xxjg0zKrLe6VtRerHujAn"

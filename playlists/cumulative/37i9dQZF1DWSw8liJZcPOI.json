@@ -11219,6 +11219,24 @@
     },
     {
       "album": {
+        "name": "Systems: The London Underground (Late Evening)",
+        "url": "https://open.spotify.com/album/09Bfyy8MiraNABmyzS9XP4"
+      },
+      "artists": [
+        {
+          "name": "Matthew Wilcock",
+          "url": "https://open.spotify.com/artist/5wwV0lI76LUp7NDc7XGBjf"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Systems: The London Underground (Late Evening)",
+      "url": "https://open.spotify.com/track/00LGN0mMCWxs8NHqSfL7kl"
+    },
+    {
+      "album": {
         "name": "S\u00f8ndag",
         "url": "https://open.spotify.com/album/4hCn9xh31Xa4uNYtKpU1zP"
       },
@@ -13032,7 +13050,7 @@
       ],
       "date_added": "2020-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 276316,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3p6PUYuD5JbhR33oukJBzB"

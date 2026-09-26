@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 
 > Những giai điệu quê hương quen thuộc đậm đà.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,868 likes - 75 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,870 likes - 75 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCQJbQlZlA.md) - [plain]
 | 74 | [Nhớ Quê](https://open.spotify.com/track/0z5riOGlFSp6umUxbsH63I) | [Từ Như Tài](https://open.spotify.com/artist/4FIoUZ4oxNciUpioxvVRom) | [Nhớ Quê](https://open.spotify.com/album/2ItU4rDAiq5vrm1YGpZpkv) | 4:47 |
 | 75 | [Đi Trong Hương Tràm](https://open.spotify.com/track/7kSQKyDhD70OQ2QC3725sR) | [Ngọc Liên](https://open.spotify.com/artist/6xaXA45aKi0Up6xbS8pfqO) | [Say Cùng Lan Tím](https://open.spotify.com/album/0FwkrJwKDOh5anXfqEy1PT) | 4:44 |
 
-Snapshot ID: `AAAAAPw8+nA9+nJXGenxyu+Y0kSSjpPw`
+Snapshot ID: `AAAAAEDaH0r0QE7VGl2LsPGEfVi1htAD`

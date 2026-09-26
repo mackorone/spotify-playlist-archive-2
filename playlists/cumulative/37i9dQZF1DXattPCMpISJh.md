@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Dabeull
 
-351 songs - 21 hr 33 min
+352 songs - 21 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [It's Gonna Be Alright \- Ricky Birickyno Classic Remix Edit](https://open.spotify.com/track/4zr3R8lzGvORufPJqQW3Di) | [The Soultrend Orchestra](https://open.spotify.com/artist/2ZCDrnzQpD9Xp5g2n2esnV), [Papik](https://open.spotify.com/artist/5Wh262aq2cDPRXCljNooc4), [Frankie Lovecchio](https://open.spotify.com/artist/5v4HimVMqQbkqKg9kBrkQT), [Ricky Birickyno](https://open.spotify.com/artist/1hxQACgW4A0vQr2yzk3IrD) | [It's Gonna Be Alright \(Ricky Birickyno Remix\)](https://open.spotify.com/album/5ypOk5AWTooT79vNee52Ai) | 4:37 | 2022-10-28 | 2023-08-19 |
 | [It's like a dream](https://open.spotify.com/track/6EJk6D8XbJsr6GjZp1XVT5) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [There is no Neil Frances](https://open.spotify.com/album/4dIcsXIElacBzTpnDo3j3M) | 3:07 | 2021-12-17 | 2022-10-01 |
 | [It's You](https://open.spotify.com/track/1Ky3doQEPgrKmZzLXEp04b) | [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct) | [It's You](https://open.spotify.com/album/1dKA9jVXe7CfeZQJXt77FJ) | 2:31 | 2021-11-12 | 2023-01-28 |
+| [Jennifer](https://open.spotify.com/track/4oF46suNctrzdFKGw4CQAv) | [Charlie Jeer](https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De) | [Take Away My Problems](https://open.spotify.com/album/1QthikCvDI8Bt7QAODFQ7h) | 2:36 | 2026-09-25 |  |
 | [Jet Fuel](https://open.spotify.com/track/2KiEnTzDtNEGrEDcZGUHpZ) | [DiRTY RADiO](https://open.spotify.com/artist/7bhcf6U7Lu1Ra9u0oWLM5x) | [Jet Fuel](https://open.spotify.com/album/0p0iHnopoBiApdvABd9T0u) | 2:42 | 2023-04-28 | 2023-05-20 |
 | [Joy](https://open.spotify.com/track/51zebAwN6zTBOw0ue2XLIP) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Joy](https://open.spotify.com/album/5zWuDfviPKmQ8SdoMlgGat) | 3:25 | 2025-08-08 |  |
 | [Juiceboy](https://open.spotify.com/track/4voImA5OPckTXJz5m8ZQy4) | [Lavera](https://open.spotify.com/artist/0kmuxSLDnKLPAqs6DuhegB), [Mondgomery](https://open.spotify.com/artist/05eMmbSBU5u0L6XIAU0esH) | [Girls](https://open.spotify.com/album/2qAHhBd41CXvguVJc0UJ5u) | 2:51 | 2022-07-01 | 2022-11-13 |
@@ -236,7 +237,7 @@
 | [Out of Your Mind](https://open.spotify.com/track/6hzfmSXnmXPhOXs6aWH0JC) | [Le Flex](https://open.spotify.com/artist/3FeBwrxlR57o2rFbFWUWzF) | [Songs I Wish I'd Written: Vol\. 5](https://open.spotify.com/album/2OXgwJiuLHrIdmYKKhO5gg) | 4:24 | 2023-02-17 | 2025-08-09 |
 | [Outta My Mind](https://open.spotify.com/track/64Esl8jMGgdq66evUBKeJ2) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [Outta My Mind](https://open.spotify.com/album/6oMNE87tErgAFfZjVYEjYo) | 3:29 | 2024-08-09 | 2024-09-07 |
 | [Over You](https://open.spotify.com/track/5Rp5SPoEHJswNskrofuysE) | [Ken@Work](https://open.spotify.com/artist/2MEx3ga68IvvpzG5T0UlWj) | [Over You](https://open.spotify.com/album/7dl8uSvgqm2HlGL3a0X2Yn) | 6:37 | 2022-01-07 | 2022-10-29 |
-| [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/track/35sXaEaVnnYotLjnjRLMJK) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/album/0BfdHIeFgdUvuCHbFYriJ4) | 3:32 | 2023-08-18 |  |
+| [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/track/35sXaEaVnnYotLjnjRLMJK) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/album/0BfdHIeFgdUvuCHbFYriJ4) | 3:32 | 2023-08-18 | 2026-09-26 |
 | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4XAcDBwWvD5ZxrZWlcVUq7) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Drama Queen](https://open.spotify.com/album/0kMmfTz3OwAh73dSCN3FpW) | 3:32 | 2023-08-18 | 2024-04-19 |
 | [Party People](https://open.spotify.com/track/7IKT5V9D9pbXzCEjw3465z) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq) | [Party People](https://open.spotify.com/album/7pYDdpY6EsjgoWKG22rnqG) | 7:18 | 2023-03-17 | 2023-06-17 |
 | [Passion \(feat\. Nile Rodgers\) \- Fred Falke Remix](https://open.spotify.com/track/766vYpMcjhccL5cd2L46rY) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Passion \(feat\. Nile Rodgers\) \[Fred Falke Remix\]](https://open.spotify.com/album/0MkaVWp7IcoaA3c7yYl0a5) | 3:53 | 2022-09-02 | 2024-04-19 |

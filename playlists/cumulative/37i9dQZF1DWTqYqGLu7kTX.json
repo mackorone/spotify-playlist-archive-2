@@ -2645,6 +2645,28 @@
     },
     {
       "album": {
+        "name": "Autobiography",
+        "url": "https://open.spotify.com/album/49kI8wLqF1S7EKpl4t2Cfn"
+      },
+      "artists": [
+        {
+          "name": "NIJJAR",
+          "url": "https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W"
+        },
+        {
+          "name": "Jazz Dee",
+          "url": "https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177833,
+      "name": "G Who",
+      "url": "https://open.spotify.com/track/7J9tw4E4ZKcX0AvhTOtqfk"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -7438,7 +7460,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 166800,
       "name": "UNDERTAKER (feat. Gurlez Akhtar)",
       "url": "https://open.spotify.com/track/40KKnNrh0mkxhqQEUfhFYU"

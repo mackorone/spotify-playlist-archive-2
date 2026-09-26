@@ -4,7 +4,7 @@
 
 > Solo rap da Napoli e dalla Campania\. DDM in cover.
 
-651 songs - 1 day 5 hr 13 min
+651 songs - 1 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -593,13 +593,13 @@
 | [TOP GAMMA \(feat\. Vettosi\)](https://open.spotify.com/track/3jRMMZ9mWADGUFJCCpN8hU) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 2:49 | 2023-04-13 | 2023-04-28 |
 | [Topless](https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog) | [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Topless](https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X) | 3:00 | 2022-05-10 | 2024-09-20 |
 | [TOTÓ E NINETTA](https://open.spotify.com/track/54mnZksfn6O5Cieq7F6dbR) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV), [Christian Liguori](https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn) | [TOTÓ E NINETTA](https://open.spotify.com/album/5qHjWT3a9n7xdxj7t0LBLR) | 2:26 | 2025-07-24 |  |
-| [Track 4](https://open.spotify.com/track/7vs1ObCmNfHDY87Xe9a1K4) | [Mumei](https://open.spotify.com/artist/1RfsFDw4R7x14OT4DYudKQ) | [O'SFACCIMM RO REP 2](https://open.spotify.com/album/3KS1Rr4JhDP1Qfl44gf0a8) | 0:00 | 2026-09-24 |  |
 | [Trafficant](https://open.spotify.com/track/4bXx7IeSbih5tNcyegNjSp) | [El Chapo Junior](https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc), [Youngotti](https://open.spotify.com/artist/1HUUj26tHxXxB0wSedYfFH) | [Trafficant](https://open.spotify.com/album/2tVfIlCQK5k7y3kjSvCmJ7) | 2:23 | 2024-10-17 | 2024-12-06 |
 | [TRANQUILLA MA](https://open.spotify.com/track/1XXzZhwXv8NAjTVetw69Yp) | [MOWGLI](https://open.spotify.com/artist/048wJUTvO90bEipRqJlpfa), [musa](https://open.spotify.com/artist/0TA41Vre17wBa5qsPU0Xno) | [TRANQUILLA MA](https://open.spotify.com/album/0mDmjFLfGXWNNUxEXpfpaj) | 2:54 | 2026-03-05 | 2026-03-18 |
 | [TRANSALP](https://open.spotify.com/track/7zZ4zM2SjQ5rIkTHgXkOas) | [Skugnizz](https://open.spotify.com/artist/2JdjbtVckoqADquM30hdSc) | [TRANSALP](https://open.spotify.com/album/1ZL6Wk21dWNHRoaqKALNxR) | 2:19 | 2023-07-14 | 2023-09-01 |
 | [TRAP](https://open.spotify.com/track/3yNNheP6f1qfSvIPUcZIik) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [SKUGNIZZO](https://open.spotify.com/album/1poMIogJXCAXbUhaVfc3P6) | 2:34 | 2024-11-14 | 2025-01-24 |
 | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/track/7IrtgihaMKV0DOVcB0TcBG) | [SLF](https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS), [MV Killa](https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY), [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem), [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Vale Lambo](https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn) | [TRAVESURAS \(feat\. MV Killa, Yung Snapp, Lele Blade, Vale Lambo\)](https://open.spotify.com/album/068WIA490RGoZi1ZObrv9e) | 4:25 | 2022-05-10 | 2025-11-14 |
 | [TREVI \(FREESTYLE\)](https://open.spotify.com/track/058f5DHmd8TdzDM7xLm7rp) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [TREVI \(FREESTYLE\)](https://open.spotify.com/album/74C3CgG3lgqfXumCEGHnA1) | 2:25 | 2025-07-24 | 2026-05-01 |
+| [TRICK E BALLAKK](https://open.spotify.com/track/7vs1ObCmNfHDY87Xe9a1K4) | [Mumei](https://open.spotify.com/artist/1RfsFDw4R7x14OT4DYudKQ) | [O'SFACCIMM RO REP 2](https://open.spotify.com/album/3KS1Rr4JhDP1Qfl44gf0a8) | 3:02 | 2026-09-24 |  |
 | [TT NGRIPPAT](https://open.spotify.com/track/3o1X6zIjTaw1qlMHtGBhWW) | [Mooncler](https://open.spotify.com/artist/0BDxLYk6ELncPbNil9xCj7), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [TT NGRIPPAT](https://open.spotify.com/album/6pMFcJZQVbDncGcLi6a2z6) | 2:34 | 2023-03-30 | 2023-04-28 |
 | [TU](https://open.spotify.com/track/3UqlUOFqUvP79SS5tj2LSg) | [LA NIÑA](https://open.spotify.com/artist/7F0wzg6BIXNOSrh8ixhobj), [Franco Ricciardi](https://open.spotify.com/artist/6OrkNJBcycRCzSbWAWAAyL) | [TU](https://open.spotify.com/album/2rxzfBscfDgh4Uzl6vifIr) | 3:19 | 2022-05-10 | 2022-11-11 |
 | [Tu No](https://open.spotify.com/track/0rlRU7hLJNjzI7nCSj9eIP) | [Fiore](https://open.spotify.com/artist/087xYE0Vx9VAmQnkDpCq3R), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Tu No](https://open.spotify.com/album/1dU0OJ5KopEMx9dBx1VMvm) | 2:24 | 2023-07-27 | 2023-09-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Shreez, Tizzo, Salgrimo, Le Ice, Peeda, Soft, YoAlain!, Chiko",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: K!RA OJI, Nicky Savage",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 129250,
       "name": "AVEC MOI",
       "url": "https://open.spotify.com/track/1NAEIXRTS75J5zQmjg6Ek0"
@@ -3403,6 +3403,28 @@
     },
     {
       "album": {
+        "name": "BLUE ARC",
+        "url": "https://open.spotify.com/album/332nR6lTzS0hybmOMq1UCA"
+      },
+      "artists": [
+        {
+          "name": "K!RA OJI",
+          "url": "https://open.spotify.com/artist/5qL0GdnYTCXlr2wJK6XCQm"
+        },
+        {
+          "name": "Nicky Savage",
+          "url": "https://open.spotify.com/artist/1yG7xAkT8v6Ora2dBdkrgq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107979,
+      "name": "BITCHBOYJCONNAISLECODE",
+      "url": "https://open.spotify.com/track/076bEvi8q0TxZYXwOgnoI3"
+    },
+    {
+      "album": {
         "name": "Bizarre",
         "url": "https://open.spotify.com/album/7MccU2BmWKV2ZdIuNLfSML"
       },
@@ -4180,6 +4202,36 @@
       "duration_ms": 169547,
       "name": "Burn",
       "url": "https://open.spotify.com/track/6h89l9iPmlCCFYwcdTzqM5"
+    },
+    {
+      "album": {
+        "name": "BUS DE NUIT",
+        "url": "https://open.spotify.com/album/3WGWOOY1EDZhGn8wXgjZ01"
+      },
+      "artists": [
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        },
+        {
+          "name": "Gars S\u00fbrs Municipaux",
+          "url": "https://open.spotify.com/artist/0P5BJ905JUp3Zo4VkkvGdz"
+        },
+        {
+          "name": "Neimo",
+          "url": "https://open.spotify.com/artist/7kVt9OkrP0ow91rfCznrTm"
+        },
+        {
+          "name": "okis",
+          "url": "https://open.spotify.com/artist/5Cu5db0NsK9CumDuby09cB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147688,
+      "name": "BUS DE NUIT",
+      "url": "https://open.spotify.com/track/2hkxolcS7vFyCbUK9IiMyZ"
     },
     {
       "album": {
@@ -5156,6 +5208,24 @@
       "duration_ms": 167037,
       "name": "Chaque Douille",
       "url": "https://open.spotify.com/track/5VXekSKXEpZZxaSSqVebFB"
+    },
+    {
+      "album": {
+        "name": "Chaque Mois de l'Ann\u00e9e",
+        "url": "https://open.spotify.com/album/6X6qNFZxGMYMJigOI3ApIY"
+      },
+      "artists": [
+        {
+          "name": "S Burn",
+          "url": "https://open.spotify.com/artist/631btWNFhxJ0MI1oGW6IUz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184827,
+      "name": "Chaque Mois de l'Ann\u00e9e",
+      "url": "https://open.spotify.com/track/0k9ZlUqNKt9BQZ1QQOLI4F"
     },
     {
       "album": {
@@ -11717,6 +11787,28 @@
     },
     {
       "album": {
+        "name": "i was gone",
+        "url": "https://open.spotify.com/album/5Rrmr45Yfy9dqttbh5k1ia"
+      },
+      "artists": [
+        {
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
+        },
+        {
+          "name": "David Campana",
+          "url": "https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "i was gone",
+      "url": "https://open.spotify.com/track/4tc63itlGrACm0prjhHD8v"
+    },
+    {
+      "album": {
         "name": "ian Hiding",
         "url": "https://open.spotify.com/album/3NbxbVqJ0xxODEjjLe5a6s"
       },
@@ -13002,7 +13094,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 78406,
       "name": "Kesspass",
       "url": "https://open.spotify.com/track/3b3uN9TidV9Eqyp6CWAkW6"
@@ -14408,7 +14500,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 198374,
       "name": "Les ailes",
       "url": "https://open.spotify.com/track/5S8YpOaA9eTckCWySKewow"
@@ -19543,6 +19635,24 @@
     },
     {
       "album": {
+        "name": "DESTIN\u00c9",
+        "url": "https://open.spotify.com/album/5IqzgFotMAjs7h3YjO8nLF"
+      },
+      "artists": [
+        {
+          "name": "TJ DTS",
+          "url": "https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183457,
+      "name": "PHANTOM",
+      "url": "https://open.spotify.com/track/0kBJl7JfGYCXzZYg3j4Hyj"
+    },
+    {
+      "album": {
         "name": "LUX Ultra",
         "url": "https://open.spotify.com/album/4GtRDAsovOqx7Wv0qLrzII"
       },
@@ -23444,7 +23554,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 152225,
       "name": "SOLO SOLO",
       "url": "https://open.spotify.com/track/6wSuxoPuQrCfSnCWlIdCmp"
@@ -23560,7 +23670,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 208000,
       "name": "SOUL",
       "url": "https://open.spotify.com/track/6LU51Xi3UsLQe9okcS46uy"
@@ -24414,7 +24524,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 148351,
       "name": "Tehfouf",
       "url": "https://open.spotify.com/track/1C1d6BPQ9ILd6fSgRtcQrV"
@@ -25803,6 +25913,32 @@
     },
     {
       "album": {
+        "name": "UNEXPECTED VODKA JOURNEY",
+        "url": "https://open.spotify.com/album/5iLPxUtrh64ayqsqRJ57xN"
+      },
+      "artists": [
+        {
+          "name": "Offstat",
+          "url": "https://open.spotify.com/artist/3BiSqDhCtfmnu2S4zqvTJb"
+        },
+        {
+          "name": "ACHEL",
+          "url": "https://open.spotify.com/artist/6in022Z3USh3c6g4gTaljW"
+        },
+        {
+          "name": "ZEHD",
+          "url": "https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144424,
+      "name": "UNEXPECTED VODKA JOURNEY",
+      "url": "https://open.spotify.com/track/4WX6h2Ha0TH3wIiTSEI1ZN"
+    },
+    {
+      "album": {
         "name": "UNI",
         "url": "https://open.spotify.com/album/4kyUmxpnDNdl23fCW3VQNC"
       },
@@ -26450,7 +26586,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 153203,
       "name": "Vraiment",
       "url": "https://open.spotify.com/track/3R3OYCyYGa5538RBDXY7bX"
@@ -26650,6 +26786,28 @@
       "duration_ms": 162324,
       "name": "WHAP",
       "url": "https://open.spotify.com/track/7pNJNSyIM9uHW5GeJQha6F"
+    },
+    {
+      "album": {
+        "name": "What it is",
+        "url": "https://open.spotify.com/album/35RGKZ9l3Bumsz7V0jmRtr"
+      },
+      "artists": [
+        {
+          "name": "Vago",
+          "url": "https://open.spotify.com/artist/7uy5FZOHPwE01q5QXpqZRe"
+        },
+        {
+          "name": "TRAPMAT SAVIOR",
+          "url": "https://open.spotify.com/artist/5vaj4nUcjIF9Op1rFtebxV"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165538,
+      "name": "What it is",
+      "url": "https://open.spotify.com/track/4ndF3bioygqvtqy3RoxLoU"
     },
     {
       "album": {

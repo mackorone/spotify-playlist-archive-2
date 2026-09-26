@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Estopa con Kiko Veneno.
 
-828 songs - 2 day 4 hr 40 min
+829 songs - 2 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [20 de abril \- En directo 1997](https://open.spotify.com/track/4bavcis6bApsKI8YkKg3Cx) | [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [Nos Vemos En Los Bares](https://open.spotify.com/album/7L71kEobxeJszx6zWiu5Sz) | 3:57 | 2022-05-19 |  |
 | [4 Impulsos Más](https://open.spotify.com/track/2UEWhrxIRlZJeObLrwhhE2) | [Erin Memento](https://open.spotify.com/artist/7J8Jvh09QTtKZYnvChiHsp) | [4 Impulsos Más](https://open.spotify.com/album/1ZAHYBJwpccd5CIo0Ab1zo) | 3:27 | 2024-10-03 | 2024-11-08 |
 | [50town](https://open.spotify.com/track/3ioHppCrvq9F4v7XHIsCoo) | [Rubén Pozo](https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz) | [50town](https://open.spotify.com/album/5l2e4MbK3HVMSucA58waQr) | 3:28 | 2025-07-17 | 2025-07-31 |
-| [A Contracorriente](https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:02 | 2022-07-07 |  |
+| [A Contracorriente](https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz) | [El Canto Del Loco](https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj) | [Rock en Español](https://open.spotify.com/album/0ynW2QsMEAOTnJKolbSWSV) | 3:02 | 2022-07-07 | 2026-09-26 |
 | [A contraluz](https://open.spotify.com/track/2AWqAyzKpKS83r4kpJxDmt) | [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo) | [A contraluz](https://open.spotify.com/album/7dK9XfqrJOck4mnhzv9Q11) | 4:21 | 2025-10-23 | 2026-07-03 |
 | [A Dios](https://open.spotify.com/track/6M5XPLlWAFUAPX6wG5dmSR) | [Malonda](https://open.spotify.com/artist/4Abn3coCPVGkBP3hfPJIgG), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY) | [A Dios](https://open.spotify.com/album/1IM9qP37UMdPwir6SX5d9T) | 3:50 | 2023-05-11 | 2023-06-02 |
 | [A estas alturas](https://open.spotify.com/track/3ZN6k7GoNmhhjs7FDyA2ML) | [Michael Foster](https://open.spotify.com/artist/5OmNL8cD7wnxaG0808fYXG) | [A estas alturas](https://open.spotify.com/album/6TjqVi3szqHGOXtaHKMbqt) | 2:44 | 2026-01-22 | 2026-02-20 |
@@ -346,6 +346,7 @@
 | [Hasta que cierro los ojos](https://open.spotify.com/track/2iU5yApTiBhiXKx2uaKZP0) | [Sidecars](https://open.spotify.com/artist/1OxGzd3ks0V8CVWtXT1VMj) | [Hasta que cierro los ojos](https://open.spotify.com/album/6nuNtudPXfOG8YJck48E4Z) | 4:05 | 2023-12-08 | 2024-01-26 |
 | [Hasta que me quede sin voz](https://open.spotify.com/track/6kQQ1rfAoHNPPi5TAwxZ1v) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Hasta que me quede sin voz](https://open.spotify.com/album/1a9zBNjuot6DwC0KElxQQx) | 5:06 | 2025-10-09 |  |
 | [Hemos tenido suerte](https://open.spotify.com/track/5x9FFKapZETDVBsZC5wnkv) | [Brighton 64](https://open.spotify.com/artist/1luZ3ie9CVbTWbnELZmrzz) | [Hemos tenido suerte](https://open.spotify.com/album/332RHcFKI5LGE3UMXrcrxc) | 3:10 | 2025-10-02 | 2025-10-17 |
+| [Hey chaval](https://open.spotify.com/track/0egCH56ZdxPxAwSdIkPk8s) | [Chiquita Movida](https://open.spotify.com/artist/7chkUZGYVGXjl19G8Di1Rr), [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa), [Mediyama](https://open.spotify.com/artist/4AvBrqytoNTLyrxvmmTR6o), [Skiz7](https://open.spotify.com/artist/2v7G5QXX2BqCnHRil1IVKZ) | [Hey chaval](https://open.spotify.com/album/561d8Vu5jtwni9WH0Tn58h) | 4:23 | 2026-09-24 |  |
 | [Historia de dos ciudades](https://open.spotify.com/track/143bxX8ra8hQdZNVFTpGtU) | [Loquillo](https://open.spotify.com/artist/5Fv0DQ1ZBuc2DlidtOUCZr) | [Diario de una tregua](https://open.spotify.com/album/7cmVvrFXZuMgiEakavUfQO) | 4:57 | 2022-05-19 | 2022-05-27 |
 | [Horas Infinitas](https://open.spotify.com/track/6H2uiDE7SisfFVmcdkGwSk) | [La Fuga](https://open.spotify.com/artist/5YyScSZOuBHpoFhGvHFedc) | [Horas Infinitas](https://open.spotify.com/album/0CDG0uipRnwRJy52cqDL67) | 4:17 | 2025-09-25 | 2025-10-04 |
 | [Hormigon, Mujeres y Alcohol \- Edición 35 aniversario](https://open.spotify.com/track/2kdcgSLw6FzxdL0gkhAT16) | [Ramoncin](https://open.spotify.com/artist/1S83AICkpMqmowvInvbizT) | [Arañando La Ciudad \- 35 aniversario](https://open.spotify.com/album/1ckB2GAUFFgnlAUjyWptsY) | 2:27 | 2022-05-26 | 2022-07-13 |

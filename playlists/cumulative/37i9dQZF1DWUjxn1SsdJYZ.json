@@ -21383,6 +21383,28 @@
     },
     {
       "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/6eiF1CawkNbaWNF36XTbdc"
+      },
+      "artists": [
+        {
+          "name": "SHY",
+          "url": "https://open.spotify.com/artist/0f9jGgLW6UkYdbhzL4sIZQ"
+        },
+        {
+          "name": "Eliezer",
+          "url": "https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/4LjZ6kDtVZj4l2vCcTufkG"
+    },
+    {
+      "album": {
         "name": "Independent",
         "url": "https://open.spotify.com/album/1r5LnMShpbHLrgLQgTk8fS"
       },

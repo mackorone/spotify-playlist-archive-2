@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Satinder Sartaaj",
-  "num_followers": 45520,
+  "num_followers": 45571,
   "original_name": "Punjabi Ghazals & Qawwalis",
   "owner": {
     "name": "Spotify",
@@ -383,46 +383,6 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Flowers Of the Same Tree",
-        "url": "https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6"
-      },
-      "artists": [
-        {
-          "name": "Bir Singh",
-          "url": "https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi"
-        },
-        {
-          "name": "Jaskirat Singh",
-          "url": "https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6"
-        }
-      ],
-      "duration_ms": 284487,
-      "name": "Flowers Of the Same Tree",
-      "url": "https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
-        "name": "Seasons of Sartaaj",
-        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
-      },
-      "artists": [
-        {
-          "name": "Satinder Sartaaj",
-          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
-        },
-        {
-          "name": "Nargis Fakhri",
-          "url": "https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS"
-        }
-      ],
-      "duration_ms": 310658,
-      "name": "Tere Vaastey",
-      "url": "https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
         "name": "Nazaraa",
         "url": "https://open.spotify.com/album/5iCcHyEBQZgTVScHW89gf3"
       },
@@ -447,6 +407,46 @@
       "duration_ms": 310195,
       "name": "Nazaraa",
       "url": "https://open.spotify.com/track/06u4Dl0Rx1CTT84L2YdCBX"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
+        "name": "Seasons of Sartaaj",
+        "url": "https://open.spotify.com/album/4xF2qIUtsAvN5laJlXuav6"
+      },
+      "artists": [
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Nargis Fakhri",
+          "url": "https://open.spotify.com/artist/1tSV6wUtJWPNuEp4aSMzhS"
+        }
+      ],
+      "duration_ms": 310658,
+      "name": "Tere Vaastey",
+      "url": "https://open.spotify.com/track/6CPStPrCzQaNxRHP9gid67"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
+        "name": "Flowers Of the Same Tree",
+        "url": "https://open.spotify.com/album/4hnhLGtUDSD0Vub1z0XLi6"
+      },
+      "artists": [
+        {
+          "name": "Bir Singh",
+          "url": "https://open.spotify.com/artist/6Su06O6MCxKJXOtxkM8iBi"
+        },
+        {
+          "name": "Jaskirat Singh",
+          "url": "https://open.spotify.com/artist/3vMBkisQV8By38zokY8bs6"
+        }
+      ],
+      "duration_ms": 284487,
+      "name": "Flowers Of the Same Tree",
+      "url": "https://open.spotify.com/track/30wKQxl6Dy9D4WCLPHBk5d"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -487,22 +487,6 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Greatest Hits Of Manmohan Waris",
-        "url": "https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9"
-      },
-      "artists": [
-        {
-          "name": "Manmohan Waris",
-          "url": "https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5"
-        }
-      ],
-      "duration_ms": 417213,
-      "name": "Kalli Beh Ke Sochni",
-      "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
         "name": "Uchiyaan Lambiyaan",
         "url": "https://open.spotify.com/album/43MG1gcCk4wp2ULa0Fl5xd"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 525328,
       "name": "Uchiyaan Lambiyaan",
       "url": "https://open.spotify.com/track/0IafwsYaah6ee0mY9FLOiO"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
+        "name": "Greatest Hits Of Manmohan Waris",
+        "url": "https://open.spotify.com/album/5rUd2OXvFaQeyirU1iWJQ9"
+      },
+      "artists": [
+        {
+          "name": "Manmohan Waris",
+          "url": "https://open.spotify.com/artist/5p94H6vd1uZ4WiiFPelfQ5"
+        }
+      ],
+      "duration_ms": 417213,
+      "name": "Kalli Beh Ke Sochni",
+      "url": "https://open.spotify.com/track/4sQrADh96OYpGc0rqPJZ64"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
-        "name": "Treasured Moments",
-        "url": "https://open.spotify.com/album/3AJVUQpGABGVVUoDvi848K"
-      },
-      "artists": [
-        {
-          "name": "Wadali Brothers",
-          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
-        }
-      ],
-      "duration_ms": 1174226,
-      "name": "Ve Sone Diyan Kangna",
-      "url": "https://open.spotify.com/track/3E765tcRR8JBqWBha6AG3Q"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
         "name": "Ishqe De",
         "url": "https://open.spotify.com/album/3xeIWOhVor6b8GbMlmgr5C"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 418333,
       "name": "Uthan Wale Lai Jaange",
       "url": "https://open.spotify.com/track/6zqxy4YhDcsbiN89cqcE8u"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
+        "name": "Treasured Moments",
+        "url": "https://open.spotify.com/album/3AJVUQpGABGVVUoDvi848K"
+      },
+      "artists": [
+        {
+          "name": "Wadali Brothers",
+          "url": "https://open.spotify.com/artist/293XZCVDsIPWXKfieaHLuX"
+        }
+      ],
+      "duration_ms": 1174226,
+      "name": "Ve Sone Diyan Kangna",
+      "url": "https://open.spotify.com/track/3E765tcRR8JBqWBha6AG3Q"
     },
     {
       "added_at": "2026-09-03 17:28:17",
@@ -727,6 +727,22 @@
     {
       "added_at": "2026-09-03 17:28:17",
       "album": {
+        "name": "Allah Mola",
+        "url": "https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj"
+      },
+      "artists": [
+        {
+          "name": "Sultana",
+          "url": "https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Allah Mola",
+      "url": "https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4"
+    },
+    {
+      "added_at": "2026-09-03 17:28:17",
+      "album": {
         "name": "DUMA DUM MAST QALANDER (Rebooted & Revved Up)",
         "url": "https://open.spotify.com/album/0ryfzVTE1efrUdiRmnR5eI"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 249545,
       "name": "DUMA DUM MAST QALANDER - Rebooted & Revved Up",
       "url": "https://open.spotify.com/track/6uVX6rVtBCNk648wmMtWOU"
-    },
-    {
-      "added_at": "2026-09-03 17:28:17",
-      "album": {
-        "name": "Allah Mola",
-        "url": "https://open.spotify.com/album/6d2xxrqFIldOccXZCxHLQj"
-      },
-      "artists": [
-        {
-          "name": "Sultana",
-          "url": "https://open.spotify.com/artist/5Y1AqsKrn4ZFw118BUwEfE"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Allah Mola",
-      "url": "https://open.spotify.com/track/1XYsXVcd5to0wAuIdrzGY4"
     },
     {
       "added_at": "2026-09-03 17:28:17",

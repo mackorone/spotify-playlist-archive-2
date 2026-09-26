@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,373 songs - 5 day 3 hr 7 min
+2,375 songs - 5 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -377,6 +377,7 @@
 | [Dag & Natt](https://open.spotify.com/track/0UYWu73xSqMqc2V6oMNrAY) | [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Dag & Natt](https://open.spotify.com/album/0rc3ipMDmum6TxdzS6et3E) | 2:33 | 2025-06-19 | 2025-08-01 |
 | [Dag 1](https://open.spotify.com/track/1uldIZbqjW1nMER6ktCQLS) | [Labyrint](https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo) | [Dag 1](https://open.spotify.com/album/7xte7lrGFkhOv3lvN4zyIp) | 3:34 | 2025-09-18 | 2026-02-06 |
 | [Dagar som aldrig tar slut](https://open.spotify.com/track/09olrvgVUSM3dbNGP6x7fE) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Dagar som aldrig tar slut](https://open.spotify.com/album/02dhUBkEIAJWMu7Uf1MWn2) | 3:12 | 2024-05-02 | 2024-06-01 |
+| [Daisies](https://open.spotify.com/track/1xg5ku2x0XxEdTcVLmqHl0) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Daisies](https://open.spotify.com/album/6S9vjdttva5EL2otf9xZiu) | 2:40 | 2026-09-24 |  |
 | [Dance King](https://open.spotify.com/track/39M1vHVjacFSQroeRSTV4V) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Dance King](https://open.spotify.com/album/6Uv7kHf6Jroa2W24NSzPQ8) | 2:30 | 2025-07-17 | 2025-10-24 |
 | [Dancer](https://open.spotify.com/track/3FpsFW7PcGAUki4siWcvVk) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Dancer](https://open.spotify.com/album/1RY6ffqngwYDOrQ9vHb5SC) | 3:57 | 2021-12-16 | 2022-02-27 |
 | [Dancing On Dynamite](https://open.spotify.com/track/69xtyFE0Vsm9PspAnp5Bmj) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Dancing On Dynamite](https://open.spotify.com/album/5uxfXlbkYB1GTDIDm1oYOa) | 2:42 | 2024-08-29 | 2025-03-14 |
@@ -827,7 +828,7 @@
 | [Happy For Me](https://open.spotify.com/track/2fePTyV9lwf7qYLkyCwTsX) | [Lou Elliotte](https://open.spotify.com/artist/03UTtO2Zq2GKk4gQRY9zq6) | [Happy For Me](https://open.spotify.com/album/6bvJbuBDbG305Nqn3XGdly) | 2:59 | 2021-12-16 | 2022-01-14 |
 | [HAPPY HURTS](https://open.spotify.com/track/2r2l2KmLnaULSmaeB7Df8b) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [EYEYE](https://open.spotify.com/album/4DEuMVYWVQHxhE8oNBO8T4) | 4:56 | 2022-09-15 | 2022-10-31 |
 | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/track/7JGCzG4u3YNom3CTwz2kpr) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Happy New Year \- Spotify Singles: Holiday](https://open.spotify.com/album/0lcmBSL5gnznCRwyX6boRL) | 3:04 | 2021-12-16 | 2022-05-13 |
-| [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 | 2026-05-07 |  |
+| [Happy Now](https://open.spotify.com/track/0XRf5KvljGef9eVvuT14yx) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Happy Now](https://open.spotify.com/album/2QTQJB2vF5vtpHoWgzQwQP) | 2:42 | 2026-05-07 | 2026-09-26 |
 | [Har det värsta redan hänt](https://open.spotify.com/track/7ipKP6Ut4mpzj840rDNHKJ) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES) | [Har det värsta redan hänt](https://open.spotify.com/album/7H6pdOtvIT5EubccKtvptU) | 3:43 | 2025-09-04 | 2025-11-25 |
 | [Har du också känt den](https://open.spotify.com/track/2EOs4OdGE2bfr3PalXWh3m) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Har du också känt den](https://open.spotify.com/album/7756xsFANOT1qnKlLIYojt) | 3:25 | 2026-08-27 |  |
 | [Har du sett henne i blått](https://open.spotify.com/track/4Cyvf54FSEE7NcdK0vN3Ej) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Har du sett henne i blått](https://open.spotify.com/album/2nW9lLF2l1cAAgdM6xMJMW) | 3:21 | 2023-01-05 | 2023-10-06 |
@@ -1052,7 +1053,7 @@
 | [Ingen vet](https://open.spotify.com/track/2bj5vOx7gLu5zO8MrNNw50) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Ingen vet](https://open.spotify.com/album/6tYv9DYTSiUR2xY15qru1r) | 2:40 | 2025-08-21 | 2025-12-14 |
 | [Ingen Vet...](https://open.spotify.com/track/53vPl8xKjPc6AaCLD1XlpH) | [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I Rymden Finns Inga Tårar](https://open.spotify.com/album/53vNOMnb7XNn6cM0dyKi3Z) | 3:46 | 2025-10-23 | 2026-02-13 |
 | [Ingen, bara du](https://open.spotify.com/track/0GxJrcTLGKYm7LLpMf3ifv) | [VIOL](https://open.spotify.com/artist/5mf2lROvATwH6apu0AZBmt) | [Ingen, bara du](https://open.spotify.com/album/7ycajtCnklHybUFzHJvPYA) | 2:46 | 2024-06-13 | 2024-08-16 |
-| [Ingenting](https://open.spotify.com/track/0L7mmcpKaTk5cCJqEF9vVf) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Ingenting](https://open.spotify.com/album/1HRxwe5kL63xBlXg4yszJQ) | 2:47 | 2026-02-12 |  |
+| [Ingenting](https://open.spotify.com/track/0L7mmcpKaTk5cCJqEF9vVf) | [Emilia Pantic](https://open.spotify.com/artist/4VxhlCrL73BKHepsnxqLiG) | [Ingenting](https://open.spotify.com/album/1HRxwe5kL63xBlXg4yszJQ) | 2:47 | 2026-02-12 | 2026-09-26 |
 | [Ingenting](https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Ingenting](https://open.spotify.com/album/1c6w3smUTkjQ1m3KJEbdxr) | 3:08 | 2024-09-05 | 2024-11-26 |
 | [Ingenting](https://open.spotify.com/track/3t6K2juWZJbEEWWXM8YMjL) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ingenting](https://open.spotify.com/album/3DqUAzuwPpxBZDEwiL10aw) | 2:47 | 2024-05-02 | 2024-06-01 |
 | [INGET E SAMMA](https://open.spotify.com/track/13aLtHCE3vPPDCct3nz6Iz) | [Reyn](https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB) | [INGET E SAMMA](https://open.spotify.com/album/3vEuDEYKjbonMqING0XegG) | 2:32 | 2026-04-16 | 2026-06-19 |
@@ -1478,6 +1479,7 @@
 | [not your fault](https://open.spotify.com/track/2jtHAE1bwV0qPnpg1KCMkH) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [not your fault](https://open.spotify.com/album/0Qq8puDyqqdmAWMUirix5o) | 3:45 | 2022-03-10 | 2022-04-21 |
 | [Nothing 4\-ever](https://open.spotify.com/track/5wqq5bmr41MsWnoCx2FX4i) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Okej att dö](https://open.spotify.com/album/6xeArYtgNeWryc5C0xOME3) | 2:51 | 2025-01-30 | 2025-05-23 |
 | [Nothing To Prove](https://open.spotify.com/track/7zrn5lY8a2kJUk9DLKhyXJ) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [It Takes Me Places...](https://open.spotify.com/album/2hu5hB7E6GABTNd0s8d7Hh) | 3:05 | 2024-10-04 | 2024-10-13 |
+| [Notre\-Dame](https://open.spotify.com/track/782aJc4ozyCjQmmH5szD2z) | [Klara Almström](https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3) | [Notre\-Dame](https://open.spotify.com/album/4GqngEMwkyUETDkxUzolNW) | 2:50 | 2026-09-24 |  |
 | [Notre\-Dame](https://open.spotify.com/track/77ioVpwicQ3PuMfhNtZyg2) | [Mares](https://open.spotify.com/artist/4TdxMK2fOY7eOBvgtDwbVC) | [Notre\-Dame](https://open.spotify.com/album/4a5uM9yzhjfql6WW6NgIch) | 3:22 | 2022-04-07 | 2023-09-16 |
 | [November](https://open.spotify.com/track/3wxe1sxClKHMW73z9hnL4y) | [Nektar](https://open.spotify.com/artist/1yeda824Q8uZiR0i29Fa4d) | [Om du behöver mig](https://open.spotify.com/album/0Df1JBTZ6Qg2V2JN26W9CZ) | 3:48 | 2025-11-06 | 2026-03-20 |
 | [NU](https://open.spotify.com/track/1AcUJgg8BIGkVOP1D0vXvG) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [Heartbreakmiljonär](https://open.spotify.com/album/6rRVhNGvjcmFs9kgfi660n) | 2:46 | 2023-11-09 | 2024-02-09 |

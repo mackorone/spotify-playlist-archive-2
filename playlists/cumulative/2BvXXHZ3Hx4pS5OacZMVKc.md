@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-479 songs - 1 day 0 hr 35 min
+480 songs - 1 day 0 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Good With It](https://open.spotify.com/track/3YOaNc8IzHkGCKqoP4ePBa) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Good With It](https://open.spotify.com/album/0RtdWilPUDpbDjs4Gc8yV5) | 3:52 | 2022-12-02 | 2023-08-11 |
 | [Goodbye My Love](https://open.spotify.com/track/1PQtTEWRmKgjCR3W30J48X) | [Irokz](https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY) | [Goodbye My Love](https://open.spotify.com/album/30GcMOqdVkrHDDsgyAacuj) | 3:18 | 2025-05-16 |  |
 | [Gravity](https://open.spotify.com/track/5rz7AN785YRvMctnkqaawn) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Gravity](https://open.spotify.com/album/6BBRX0hnu6rjmrR3brUPhi) | 3:27 | 2022-02-03 | 2022-09-15 |
+| [Halcyon](https://open.spotify.com/track/1A9xz99EOvP3KTApINsP0n) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Jibaan](https://open.spotify.com/artist/5A20HgnNenptlZIhbSFbvJ) | [Regardless EP](https://open.spotify.com/album/0OU4IbDVtq0F1az5j3roBq) | 3:47 | 2026-09-25 |  |
 | [Hardwired](https://open.spotify.com/track/3VajuLxTdiugx8bbSJfW3s) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Hardwired](https://open.spotify.com/album/6i4voLsQw51FbdxdjAbA7n) | 5:02 | 2022-02-03 | 2022-09-15 |
 | [Hate You](https://open.spotify.com/track/4hJDfvU0vJTHfXrcXnfqyt) | [Poylow](https://open.spotify.com/artist/2u1KLzprGSRmfFhjt7MDYq), [BAUWZ](https://open.spotify.com/artist/1SkY6AUOKqfL6sjSt8HVjq), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY) | [Hate You](https://open.spotify.com/album/7K9CMJzx57LLIrvfv8CHyl) | 3:00 | 2022-02-03 | 2023-08-11 |
 | [Heartless](https://open.spotify.com/track/47OUzXogBBy3INSgRMk01N) | [Jonth](https://open.spotify.com/artist/461fWLhyGb1giJaTUEPpWt), [Tom Wilson](https://open.spotify.com/artist/4W9vuLWmzlcGv6stGVWPPC), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0), [Jagsy](https://open.spotify.com/artist/7wu8XR5hwRbOweUONPzNvL), [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr), [Domastic](https://open.spotify.com/artist/6IaUmXLyN20djYxvBlTk4c) | [Heartless](https://open.spotify.com/album/40bAQxAQsV9RYLRzOZjV9A) | 3:03 | 2022-02-03 | 2023-08-11 |

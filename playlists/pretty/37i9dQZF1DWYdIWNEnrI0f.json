@@ -1,6 +1,6 @@
 {
   "description": "Let Japanese beats guide you into a calm and blissful evening. / \u5fc3\u5730\u3088\u3044\u591c\u3092\u904e\u3054\u3059\u305f\u3081\u306e\u65e5\u672c\u88fd\u30d3\u30fc\u30c8\u30b5\u30a6\u30f3\u30c9",
-  "num_followers": 33161,
+  "num_followers": 33199,
   "original_name": "Fujiyama Beats",
   "owner": {
     "name": "Spotify",
@@ -431,8 +431,8 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "\u6ce2\u7d0b",
-        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
+        "name": "Tayutau",
+        "url": "https://open.spotify.com/album/2rDkaipWW2xf6MxZosufpd"
       },
       "artists": [
         {
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 189878,
-      "name": "\u6ce2\u7d0b",
-      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
+      "duration_ms": 142022,
+      "name": "Tayutau",
+      "url": "https://open.spotify.com/track/1ZiDure4S90WRUJ1CP17p5"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -539,8 +539,8 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "Syn Fonia I",
-        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
+        "name": "\u6ce2\u7d0b",
+        "url": "https://open.spotify.com/album/2ehOsRK8RmkbK47XllQ8L8"
       },
       "artists": [
         {
@@ -548,13 +548,13 @@
           "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
         },
         {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+          "name": "Nagipan",
+          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
         }
       ],
-      "duration_ms": 228750,
-      "name": "Space Orgazm",
-      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
+      "duration_ms": 189878,
+      "name": "\u6ce2\u7d0b",
+      "url": "https://open.spotify.com/track/4t3ll0AOpVc4wAUakoDEtT"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -571,6 +571,38 @@
       "duration_ms": 188679,
       "name": "So Real (Instrumental)",
       "url": "https://open.spotify.com/track/7uKuva4zZIhpl9wfJ7pMTd"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
+        "name": "Stem.\u200bt\u03b4pe",
+        "url": "https://open.spotify.com/album/66hQk83LlSVTXX19sJw49S"
+      },
+      "artists": [
+        {
+          "name": "Green Assassin Dollar",
+          "url": "https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Elnino",
+      "url": "https://open.spotify.com/track/6Vfiq90OM9CgbTVmJAa2Mp"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -595,40 +627,8 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "Stem.\u200bt\u03b4pe",
-        "url": "https://open.spotify.com/album/66hQk83LlSVTXX19sJw49S"
-      },
-      "artists": [
-        {
-          "name": "Green Assassin Dollar",
-          "url": "https://open.spotify.com/artist/64FwB76hSP9VtYtPSBbEY7"
-        }
-      ],
-      "duration_ms": 90000,
-      "name": "Elnino",
-      "url": "https://open.spotify.com/track/6Vfiq90OM9CgbTVmJAa2Mp"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
-        "name": "Paris Nights",
-        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Paris Nights",
-      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
-        "name": "Tayutau",
-        "url": "https://open.spotify.com/album/2rDkaipWW2xf6MxZosufpd"
+        "name": "Syn Fonia I",
+        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
       },
       "artists": [
         {
@@ -636,33 +636,13 @@
           "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
         },
         {
-          "name": "Nagipan",
-          "url": "https://open.spotify.com/artist/6judDBSYKSSJENpZ83zoVS"
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
         }
       ],
-      "duration_ms": 142022,
-      "name": "Tayutau",
-      "url": "https://open.spotify.com/track/1ZiDure4S90WRUJ1CP17p5"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
-        "name": "Raincoat (Paul Grant Remix)",
-        "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
-      },
-      "artists": [
-        {
-          "name": "Shingo Sekiguchi",
-          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
-        },
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        }
-      ],
-      "duration_ms": 193125,
-      "name": "Raincoat (Paul Grant Remix)",
-      "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
+      "duration_ms": 228750,
+      "name": "Space Orgazm",
+      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -715,6 +695,26 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
+        "name": "Raincoat (Paul Grant Remix)",
+        "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
+      },
+      "artists": [
+        {
+          "name": "Shingo Sekiguchi",
+          "url": "https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9"
+        },
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "Raincoat (Paul Grant Remix)",
+      "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
         "name": "samurai champloo music record impression",
         "url": "https://open.spotify.com/album/0OHuppyLVS3j98Joo5HMBS"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
-        "name": "Day Off",
-        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 184372,
-      "name": "Day Off",
-      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
         "name": "20250327",
         "url": "https://open.spotify.com/album/3c9pYvp6UAqOOnKo0NgVbC"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 144498,
       "name": "20250327",
       "url": "https://open.spotify.com/track/0nEu50RsMP6XI5JkImwbCQ"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
+        "name": "Day Off",
+        "url": "https://open.spotify.com/album/5bNGgnmHrnFELclHWf6MG4"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 184372,
+      "name": "Day Off",
+      "url": "https://open.spotify.com/track/4hlncoU20knZPj1o68AaLF"
     },
     {
       "added_at": "2026-09-22 16:44:58",
@@ -795,6 +795,22 @@
     {
       "added_at": "2026-09-22 16:44:58",
       "album": {
+        "name": "insideout",
+        "url": "https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW"
+      },
+      "artists": [
+        {
+          "name": "Pleij",
+          "url": "https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN"
+        }
+      ],
+      "duration_ms": 145263,
+      "name": "insideout",
+      "url": "https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9"
+    },
+    {
+      "added_at": "2026-09-22 16:44:58",
+      "album": {
         "name": "#02 untitled",
         "url": "https://open.spotify.com/album/7oYZpso12Z4cdhHJnztjlK"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 200061,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5fB4LYOgKzoD527MCLV46q"
-    },
-    {
-      "added_at": "2026-09-22 16:44:58",
-      "album": {
-        "name": "insideout",
-        "url": "https://open.spotify.com/album/3ItAUVVWQC6Y3jm6y4bLDW"
-      },
-      "artists": [
-        {
-          "name": "Pleij",
-          "url": "https://open.spotify.com/artist/0JohphlOxBRMHrYLcWvIFN"
-        }
-      ],
-      "duration_ms": 145263,
-      "name": "insideout",
-      "url": "https://open.spotify.com/track/1mANYloG5MWO9OYzt7pCu9"
     },
     {
       "added_at": "2026-09-22 16:44:58",

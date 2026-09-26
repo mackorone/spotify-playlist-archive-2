@@ -4,7 +4,7 @@
 
 > Tu táta tu tatá..\. el beat del funk de Brasil para el mundo\. Cover: Zé Pequeña & 143Leti
 
-257 songs - 11 hr 13 min
+258 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [DESCENDO E REBOLANDO](https://open.spotify.com/track/3pAITIfLPZ2QJJJhlzH3jO) | [mmedina](https://open.spotify.com/artist/4J5axD0Q4m933iNQbSrEQL), [17Beats](https://open.spotify.com/artist/3KVLe0uzCtCqJktfpCvLNZ) | [DESCENDO E REBOLANDO](https://open.spotify.com/album/7vFhdfy1URRddUhKHrW02G) | 2:36 | 2024-03-15 |  |
 | [Double Team](https://open.spotify.com/track/3JoGZZobxsyQghxcAoW013) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 3:51 | 2024-05-31 |  |
 | [Double Team](https://open.spotify.com/track/6NYEwgaB1NESBTjPG5Vfsx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN) | [Double Team](https://open.spotify.com/album/3VmiAMccKEWDwNzNSUQ55V) | 3:51 | 2024-03-22 | 2024-04-27 |
+| [El Bondi \[Arrochadeira\]](https://open.spotify.com/track/3o6VWN0HEgNS8FV7ksatWv) | [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MK no Beat](https://open.spotify.com/artist/7HJI3KV7QYdzMHYM9WC1LC), [Skorps](https://open.spotify.com/artist/4WolQpakht16d6Cs9Uh0xy), [TRATTO DE LA CALLE](https://open.spotify.com/artist/1fJmhlwwsRZfAgkahD5I73), [HACHIS](https://open.spotify.com/artist/7eETC2QmeXY7hVxoTpg3bg), [GORDOLINDO](https://open.spotify.com/artist/4TvSNWfLMUNNIqMPUmkLlX) | [El Bondi \[Arrochadeira\]](https://open.spotify.com/album/1No14YNhKd6erps2Q4ccMf) | 2:13 | 2026-09-25 |  |
 | [ELEMENTO](https://open.spotify.com/track/5KOftKE33lf7qbp6nX58Bo) | [FERMIN](https://open.spotify.com/artist/6ugrj0FCDIKINVrQP9sPJz) | [ELEMENTO](https://open.spotify.com/album/0KlPB9P2HLb2EA03s8l9mB) | 2:29 | 2023-11-29 | 2024-03-16 |
 | [Eléctrica](https://open.spotify.com/track/63vtmiipQfllmqykpm6PyY) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:12 | 2023-11-29 | 2026-02-27 |
 | [Esperanza](https://open.spotify.com/track/4wI8SWCSBNfg3YI4TGJbTC) | [Pema](https://open.spotify.com/artist/4UPQYLtbCW9LYqx5e1g51D), [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [Esperanza](https://open.spotify.com/album/57cjzCSClgmDTME2P20zRC) | 3:14 | 2024-03-15 | 2024-04-27 |

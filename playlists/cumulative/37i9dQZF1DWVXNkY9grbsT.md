@@ -4,7 +4,7 @@
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Curated by human Spotify editors.
 
-660 songs - 2 day 5 hr 56 min
+661 songs - 2 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -337,6 +337,7 @@
 | [Labastida](https://open.spotify.com/track/531qAb7xqH2w9cFqprUN0y) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Labastida](https://open.spotify.com/album/6HBQicsEWoTnFb1zEp9eVF) | 2:57 | 2025-06-20 | 2026-07-18 |
 | [Laid](https://open.spotify.com/track/6nBjD7jPoOaAckGMZeZnP4) | [Martyna Basta](https://open.spotify.com/artist/0vRyt5xtZZ8cve0YTSxNIw), [LEYA](https://open.spotify.com/artist/6Af4zImb75tO0LxOAEdUI1) | [Winged in Collapse](https://open.spotify.com/album/6tzIWT9zGis2PJer68E2NR) | 4:40 | 2026-05-16 |  |
 | [Lake](https://open.spotify.com/track/1YtOsElSkFdSDMbtDiSkJD) | [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Lake](https://open.spotify.com/album/5thgnsnY8BYC27Esdvnr6H) | 3:31 | 2025-01-17 |  |
+| [Leave Me Alone](https://open.spotify.com/track/6hQWMD8jG26ijfi2sAzlIO) | [DjRUM](https://open.spotify.com/artist/4HwlolvniI44ETSg5tajeZ) | [Leave Me Alone](https://open.spotify.com/album/5oBx0lLuGnFz9QSxvd9ib4) | 3:46 | 2026-09-25 |  |
 | [let all the poisons that lurk in the mud seep out \- Actress Remix](https://open.spotify.com/track/0aZIpFZPJqM1evzPGEcRxC) | [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy), [Moses Boyd](https://open.spotify.com/artist/1otDUlTEBjcyDQg6CkHRaV), [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [let all the poisons that lurk in the mud seep out \(Actress Remix\)](https://open.spotify.com/album/1OsykdLbXH6KL0tAebPL1X) | 5:13 | 2021-12-26 | 2023-08-12 |
 | [Life's A Spiral](https://open.spotify.com/track/1Qq7cSy8w3WAOQdUITCC8D) | [Florian T M Zeisig](https://open.spotify.com/artist/6ufIfvoo0cRpP8v0XAG6dv), [Róisín Berkeley](https://open.spotify.com/artist/4C6Sd5wUcSapvGV3sbZoCG), [Cathal Berkeley](https://open.spotify.com/artist/4UsICmM9hJUe13eTyJ46qJ) | [A New Life](https://open.spotify.com/album/25GytFPwqK2zbCo5hMrs4l) | 5:24 | 2025-09-04 |  |
 | [Like Last Night](https://open.spotify.com/track/5QeBKoOTrDa65IQUgMka9l) | [Stine Janvin](https://open.spotify.com/artist/6klRil30SiILsNixh4xy4Q) | [Fake Synthetic Music](https://open.spotify.com/album/3KXyJWR2afbxWzIHdtlHaH) | 3:44 | 2021-12-26 | 2023-08-12 |
@@ -594,7 +595,7 @@
 | [Torpid](https://open.spotify.com/track/6aS9ptczLiEK9ns822OCc6) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Taum](https://open.spotify.com/album/78MoYQxnLBCs6XjgnkLy0r) | 4:34 | 2022-01-23 | 2024-09-07 |
 | [Touches Everything](https://open.spotify.com/track/0i7HGzGIrquBSmKD7WLBeI) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Overflow](https://open.spotify.com/album/091dnUcBWWE8YXH340kf9Z) | 5:04 | 2021-12-26 | 2023-08-12 |
 | [Tower of Cloud](https://open.spotify.com/track/5jsQg8XLCQt6fGE8vNiria) | [Masayoshi Fujita](https://open.spotify.com/artist/6rp6bzwzVN7UtQVO6ld2vT) | [Migratory](https://open.spotify.com/album/1UuZfvsJR79dbUPmblhZbv) | 5:11 | 2025-01-14 | 2025-12-13 |
-| [Trails](https://open.spotify.com/track/7DSynJzS7ooU7ocEttxpD6) | [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Trails](https://open.spotify.com/album/1OPu88xdvOBQqbswBUBEL2) | 2:54 | 2025-03-21 |  |
+| [Trails](https://open.spotify.com/track/7DSynJzS7ooU7ocEttxpD6) | [Juha Mäki\-Patola](https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK) | [Trails](https://open.spotify.com/album/1OPu88xdvOBQqbswBUBEL2) | 2:54 | 2025-03-21 | 2026-09-26 |
 | [Trains](https://open.spotify.com/track/4Dhm28AOQtFIh7WIJPBAve) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Trains](https://open.spotify.com/album/0g49zydHbVF2G93G9PJxv1) | 3:49 | 2022-01-07 | 2023-08-05 |
 | [Tramuntana \- Efdemin Remix](https://open.spotify.com/track/6yUIf4MeZhA2tvq42EHaFT) | [Ben Kaczor](https://open.spotify.com/artist/4F3AofUDB3Vb0dHSSFP4aL), [efdemin](https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G) | [Petrovo Uho Remixes Part I/III](https://open.spotify.com/album/6V5xhUwDfS2z2zHo608b84) | 7:00 | 2023-06-09 | 2025-01-10 |
 | [Transformation](https://open.spotify.com/track/0I9wtsHfSfFT5oyzTzquWy) | [JakoJako](https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E) | [Metamorphose](https://open.spotify.com/album/6k9zEfwG9jfM5WvEtnob5o) | 3:10 | 2022-04-01 | 2025-03-01 |

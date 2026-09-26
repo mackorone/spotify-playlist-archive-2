@@ -1,13 +1,109 @@
 {
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure.",
-  "num_followers": 9179,
+  "num_followers": 9181,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAAREipHwntMzpPlj1CgSmq1BDb0oNUa",
+  "snapshot_id": "AAARIoVCCIU/eDRfwEcoH1u6fsgf+OBh",
   "tracks": [
+    {
+      "added_at": "2026-09-25 18:50:00",
+      "album": {
+        "name": "Social Apocalypse",
+        "url": "https://open.spotify.com/album/6TBRv74cGwsNjrRWKx1pWk"
+      },
+      "artists": [
+        {
+          "name": "Bullet For My Valentine",
+          "url": "https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT"
+        }
+      ],
+      "duration_ms": 239394,
+      "name": "Social Apocalypse",
+      "url": "https://open.spotify.com/track/7LYrWNctGC55Ch60eU8AxK"
+    },
+    {
+      "added_at": "2026-09-25 18:53:17",
+      "album": {
+        "name": "Wasted Lands",
+        "url": "https://open.spotify.com/album/2Q8InCLAm10CF6uu96FqBs"
+      },
+      "artists": [
+        {
+          "name": "Clutch",
+          "url": "https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ"
+        }
+      ],
+      "duration_ms": 194060,
+      "name": "Wasted Lands",
+      "url": "https://open.spotify.com/track/758slc35vXuBj1P0aDoomV"
+    },
+    {
+      "added_at": "2026-09-25 18:51:40",
+      "album": {
+        "name": "Vengeance (You'll Be Seen by Your God)",
+        "url": "https://open.spotify.com/album/3mDGGWwjESS5aN3gP9vARR"
+      },
+      "artists": [
+        {
+          "name": "Lockslip",
+          "url": "https://open.spotify.com/artist/0gzGKvAghxfa0VdLBWLb7R"
+        }
+      ],
+      "duration_ms": 184675,
+      "name": "Vengeance (You'll Be Seen by Your God)",
+      "url": "https://open.spotify.com/track/0dkJ4ibeS3gj7YcEMUUnvJ"
+    },
+    {
+      "added_at": "2026-09-25 18:52:41",
+      "album": {
+        "name": "Crucified",
+        "url": "https://open.spotify.com/album/5Jz2uk2TgskbcQF5maAxeE"
+      },
+      "artists": [
+        {
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+        }
+      ],
+      "duration_ms": 263972,
+      "name": "Crucified",
+      "url": "https://open.spotify.com/track/16RujY71B7zUln5H6q8CPk"
+    },
+    {
+      "added_at": "2026-09-25 18:52:11",
+      "album": {
+        "name": "Make Your Exit",
+        "url": "https://open.spotify.com/album/1mpX8Bbw4aoEWwx7MAAeAN"
+      },
+      "artists": [
+        {
+          "name": "Suicide Silence",
+          "url": "https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc"
+        }
+      ],
+      "duration_ms": 153970,
+      "name": "Make Your Exit",
+      "url": "https://open.spotify.com/track/08ITA9gnwYlLKw31HuBqLu"
+    },
+    {
+      "added_at": "2026-09-25 18:51:00",
+      "album": {
+        "name": "Swallow",
+        "url": "https://open.spotify.com/album/4ev1XrakdReSGteV9QTFx8"
+      },
+      "artists": [
+        {
+          "name": "WARGASM (UK)",
+          "url": "https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Swallow",
+      "url": "https://open.spotify.com/track/13T5HtRAEi0WufzsLOXm1Q"
+    },
     {
       "added_at": "2026-09-18 18:32:01",
       "album": {

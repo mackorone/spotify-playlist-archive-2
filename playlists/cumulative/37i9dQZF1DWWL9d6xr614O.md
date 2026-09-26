@@ -4,7 +4,7 @@
 
 > Be inspired and let the music heal your soul and uplift your spirits.
 
-211 songs - 16 hr 9 min
+213 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,9 +81,11 @@
 | [Ihip ng Trumpeta, Awit ng Papuri](https://open.spotify.com/track/728ZiVcGHHxpTPzgDZYyXR) | [Darren Sanchez](https://open.spotify.com/artist/6u3QwegLEwu8RLoxSp5frv) | [Ihip ng Trumpeta, Awit ng Papuri](https://open.spotify.com/album/4WRKKj9dhvuxe7gNF8Cz0N) | 4:32 | 2022-04-15 |  |
 | [Ikaw Ang Pag\-ibig](https://open.spotify.com/track/1wUSsvDFhZwwbtpiUeYl2h) | [KDR Music House](https://open.spotify.com/artist/6sdMyHTsU32ShOuGFUUnO0), [Reynen Nueva](https://open.spotify.com/artist/78I7nq1txl16GLWwhohOkN) | [Ikaw Ang Pag\-ibig](https://open.spotify.com/album/2JUq5w3bUz1EoVYsg5W0GI) | 4:25 | 2023-03-29 | 2024-10-25 |
 | [Ikaw Ay Naroon](https://open.spotify.com/track/63fzs7wvDfRyXWJ73hk9iA) | [Vanessa Dulay](https://open.spotify.com/artist/619t7Go50LO7RufaREG3br), [Deovincci Dasig](https://open.spotify.com/artist/19aD9C8Y8OYJO7NsRXictD) | [Ikaw Ay Naroon](https://open.spotify.com/album/5WSwROKZ8ymqcBH5hipozD) | 5:25 | 2024-10-24 |  |
+| [Ikaw ay Tapat](https://open.spotify.com/track/0pivMwxkLegJVpYV0ukKyW) | [Forever Worship](https://open.spotify.com/artist/7f436MInRRQXriBEuwgn6I), [Jaira Magtibay](https://open.spotify.com/artist/4RwyVE9J4h6KUDVasvGeT8) | [Ikaw ay Tapat](https://open.spotify.com/album/4L66Fy707bC3rvgYI5qgoj) | 5:44 | 2026-09-25 |  |
 | [Ililigtas \(Rescue Tagalog Version\)](https://open.spotify.com/track/4VcCbvd88cB58Qw551ot0h) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Ililigtas \(Rescue Tagalog Version\)](https://open.spotify.com/album/1EBDxM3YTt3SSxp1rbuFm1) | 3:34 | 2024-10-24 |  |
 | [Ililigtas Ka Niya](https://open.spotify.com/track/00LHqyWw8CoUcqk3jgCUUb) | [ABS\-CBN Music All Star](https://open.spotify.com/artist/2H4bbbOohoe9zhqEsiRi7j) | [Ililigtas Ka Niya](https://open.spotify.com/album/1eSVR8lo6sErkXaqrQPpah) | 4:38 | 2023-05-05 | 2024-04-19 |
 | [Ililigtas Ka Niya](https://open.spotify.com/track/7cElhP84PAFlTds4sAxMvk) | [ABS\-CBN Music All Star](https://open.spotify.com/artist/2H4bbbOohoe9zhqEsiRi7j) | [Ililigtas Ka Niya](https://open.spotify.com/album/0GDeJk432FjFcc5zVW2Wey) | 4:38 | 2022-04-15 |  |
+| [Inakay Mo, Niyakap Mo](https://open.spotify.com/track/5H1eIXA6hdThUOOHfRCzXU) | [Jeffrey Querubin](https://open.spotify.com/artist/6af6ThbIjS7M2ahGkrnukn) | [Inakay Mo, Niyakap Mo](https://open.spotify.com/album/7qCO9sdEpu8pa3VbuKpLQw) | 5:19 | 2026-09-25 |  |
 | [Incredible](https://open.spotify.com/track/4irfvqovhqNcmZ6fMfDVCS) | [Liveloud Worship](https://open.spotify.com/artist/4XC8aM9budSQnDfhUktPTY) | [Make Room](https://open.spotify.com/album/78tYA5dpbLsaD3GYiLZT4U) | 4:13 | 2022-04-15 |  |
 | [Jesus Christ Emmanuel](https://open.spotify.com/track/5SVfg0ZETYNiOCrqn8Bg3V) | [gloryfall](https://open.spotify.com/artist/7dQz7ghhjBL8DifbsUpRMk) | [Jesus Christ Emmanuel](https://open.spotify.com/album/73ALowPA66Ped9XqRQ3fmG) | 3:58 | 2024-03-19 |  |
 | [Jesus Loves Me \- Cover](https://open.spotify.com/track/29OA1rxkUBtv2Oh9PqUXOo) | [John Esperancilla](https://open.spotify.com/artist/0Qyob1OmnDqorri1QylLTx) | [Jesus Loves Me \(Cover\)](https://open.spotify.com/album/4wXdd94xj0Ert6tGMFRLwo) | 3:30 | 2024-03-19 |  |

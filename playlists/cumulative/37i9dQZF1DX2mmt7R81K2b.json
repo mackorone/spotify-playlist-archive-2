@@ -1247,6 +1247,48 @@
     },
     {
       "album": {
+        "name": "Grieg: Morning Mood",
+        "url": "https://open.spotify.com/album/7zqTTQ2ds1d9iHvOg0tPM4"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Lucienne Renaudin Vary",
+          "url": "https://open.spotify.com/artist/24GBjJEWkP0b1NiOTheF54"
+        },
+        {
+          "name": "Quatuor Hanson",
+          "url": "https://open.spotify.com/artist/6Xl56vI0YZDmvBBlvNvrOR"
+        },
+        {
+          "name": "Thomas Bramerie",
+          "url": "https://open.spotify.com/artist/0wDzOYze3ix7yh8brXMZBq"
+        },
+        {
+          "name": "Franck Agulhon",
+          "url": "https://open.spotify.com/artist/4QqaxUZvTBKtos0WuBnG2L"
+        },
+        {
+          "name": "Vincent Bourgeyx",
+          "url": "https://open.spotify.com/artist/72c81FOhZKkAX5GV4Pyxnv"
+        },
+        {
+          "name": "Hugo Lippi",
+          "url": "https://open.spotify.com/artist/6RFPSpBwx4xVZohB4qcXy7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305546,
+      "name": "Grieg: Morning Mood (From Peer Gynt, Op. 23)",
+      "url": "https://open.spotify.com/track/5nlJsxoSPZzU6gTG1xmMxP"
+    },
+    {
+      "album": {
         "name": "Passacaglia",
         "url": "https://open.spotify.com/album/0oclKCCHh2pgR5M5bolNST"
       },
@@ -2986,6 +3028,28 @@
       "duration_ms": 166560,
       "name": "Summertime (From \"Porgy and Bess\")",
       "url": "https://open.spotify.com/track/2TZzD2PXSL0S9h4HoRVMkt"
+    },
+    {
+      "album": {
+        "name": "Gershwin Variations",
+        "url": "https://open.spotify.com/album/555iB5SDr21Nr6FZJT9mN5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 56426,
+      "name": "Summertime, 20 Concert Variations & Finale, on a Theme of George Gershwin in B: Variation 7 : Nocturne",
+      "url": "https://open.spotify.com/track/3zrLMFuBH55TYJbOqz77DK"
     },
     {
       "album": {

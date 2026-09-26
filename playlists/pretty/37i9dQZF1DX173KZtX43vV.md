@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 
 > The newest arrivals\. Cover: Tiakola
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,486 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,488 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Jet Lag](https://open.spotify.com/track/5CYfZNnRoSRzMwaLyl4ey1) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:01 |
 | 2 | [Watch You Dance](https://open.spotify.com/track/4lOKG77QX7DXG6x2cZ1egg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Watch You Dance](https://open.spotify.com/album/1fg3ZklsI8O7TdzAHyDRh1) | 2:27 |
 | 3 | [Bittersweet](https://open.spotify.com/track/2FK12BFadDMlelVr4Fn7Xi) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Homegrown](https://open.spotify.com/album/7lIRsoyw9VevsE9fEQOcBJ) | 2:57 |
-| 4 | [Track 2](https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Undeniable](https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8) | 0:00 |
+| 4 | [Hot Topic](https://open.spotify.com/track/5YYSYdSzUim2KqqMnClkoH) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Undeniable](https://open.spotify.com/album/5iKo5Miu3zDAMAY30HZVE8) | 3:02 |
 | 5 | [Wrestlemania](https://open.spotify.com/track/1CJcXEEggADxTHcdG6JrWq) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Surf's Up](https://open.spotify.com/album/7xOXvAr4rtexCJs1EdSMOF) | 3:33 |
 | 6 | [Canary](https://open.spotify.com/track/73PUE5Vp2NdUZ5VNiaYN26) | [Ebubé](https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W) | [Canary](https://open.spotify.com/album/6pZQBsrp1LCAIDAPBRN9MV) | 3:26 |
 | 7 | [Ye](https://open.spotify.com/track/0oEhMEWHXOiYs58LP6ioC9) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1), [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Ye](https://open.spotify.com/album/3clavYvvQGYh01lciAx3t3) | 3:13 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 15 | [GTA 6](https://open.spotify.com/track/0CdBlT9EtP6u89NCTmkFqH) | [Travy](https://open.spotify.com/artist/3Jlb9WCVsroYGv8TKOGLly) | [GTA 6](https://open.spotify.com/album/6QyA08yU08CQrCcAqkh1bg) | 2:17 |
 | 16 | [Satisfeen](https://open.spotify.com/track/2VBcAxYv50J8JghXP5JcBs) | [Saint Demarcus](https://open.spotify.com/artist/1daB5jM8z6ChuecR8f2QxP) | [Satisfeen](https://open.spotify.com/album/0bBYXNQ9RYpJQ3LfFmSEWA) | 3:18 |
 | 17 | [NOBODY](https://open.spotify.com/track/2DcondevKbL7i5dreAdWpG) | [ICXN](https://open.spotify.com/artist/4sSWCS9Anbnw2MCtWW9LOj), [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [NOBODY](https://open.spotify.com/album/2RnwESL833DuPq9ch1pkD7) | 3:04 |
-| 18 | [Yes I Will](https://open.spotify.com/track/2KRbVaxFvXjH4vHZ6tKhtS) | [FromJerome](https://open.spotify.com/artist/2KrD2XsvyG8ZBFsjE22T9S) | [Yes I Will](https://open.spotify.com/album/2b2oBMdvRFDi32HcO2eBY7) | 2:17 |
+| 18 | [YES I WILL](https://open.spotify.com/track/2KRbVaxFvXjH4vHZ6tKhtS) | [FromJerome](https://open.spotify.com/artist/2KrD2XsvyG8ZBFsjE22T9S) | [YES I WILL](https://open.spotify.com/album/2b2oBMdvRFDi32HcO2eBY7) | 2:17 |
 | 19 | [VAMPIRE](https://open.spotify.com/track/4ce5IXqCHpiZWqy5s5CVEc) | [H.LLS](https://open.spotify.com/artist/2O29wNJCgkJCJf4a5HlfMD) | [VAMPIRE](https://open.spotify.com/album/476SskLERv2SGcicz0wl5m) | 2:32 |
 | 20 | [Oi You](https://open.spotify.com/track/0KlW99FcyzVOVJ7E250LOW) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [Goodbye For Now](https://open.spotify.com/album/4gvsPMloLnYa11YWcvjcUj) | 2:46 |
 | 21 | [IRIE](https://open.spotify.com/track/1gm80DiC1XxOcVAgkQCpIV) | [TeeboFG](https://open.spotify.com/artist/7edFyKusasb7yyeTkBqVsI) | [IRIE](https://open.spotify.com/album/4Fo5wwO4tjtqCvuSp7lmF5) | 2:07 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX173KZtX43vV.md) - [plain]
 | 24 | [Old School](https://open.spotify.com/track/1NjGf1Yhdr5PAyR5IN4GZp) | [Tay Jordan](https://open.spotify.com/artist/13WFAXpgT5EchE1bdPG8ct) | [Old School](https://open.spotify.com/album/00jhXX081WE9x6v7iiXAN2) | 3:37 |
 | 25 | [Champions League](https://open.spotify.com/track/3FGp5fXOyo3HD88mB6D8aa) | [Handz On](https://open.spotify.com/artist/0DVdOCRtsl9vtKDSisFQRn) | [Champions League](https://open.spotify.com/album/2QZgVIOr4bt2S14rh05q6W) | 2:04 |
 | 26 | [I Tried](https://open.spotify.com/track/1oyjOqbtRMnjc6gG6eovDT) | [Trooh Hippi](https://open.spotify.com/artist/62XEUcqnIRwA2y2PeRLRMC) | [I Tried](https://open.spotify.com/album/5ocn987lj68ns6WYkmSAYZ) | 2:12 |
-| 27 | [Track 7](https://open.spotify.com/track/4WozK8h1XBrFBX5GBHVvFE) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [Elements 2 //](https://open.spotify.com/album/5NJqLOfwCXu3y3KwLjWJc0) | 0:00 |
+| 27 | [Can I //](https://open.spotify.com/track/4WozK8h1XBrFBX5GBHVvFE) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Ashley Walters](https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO) | [Elements 2 //](https://open.spotify.com/album/5NJqLOfwCXu3y3KwLjWJc0) | 2:41 |
 | 28 | [Best](https://open.spotify.com/track/2oVib8c5Z46aiAwNj8Vcbq) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [WpointM](https://open.spotify.com/album/3DQjIYAljCg3htgIMPjLf8) | 3:42 |
 | 29 | [Glory](https://open.spotify.com/track/6HfJ2xqvQCmwHBuA86MPII) | [Taylor Bleu](https://open.spotify.com/artist/73TFBwUOa5jk7ZvVNQ8WBn) | [Crayon Scars](https://open.spotify.com/album/6S8kCQhMivpKtOfdTHSA6f) | 2:37 |
 | 30 | [Blue](https://open.spotify.com/track/2C66YBmleViuo0b8jJvRvt) | [cikho](https://open.spotify.com/artist/3K5lshiZhzx2bvme3n4hTz) | [Blue](https://open.spotify.com/album/5UFh6gepH15NfwKJy0xGhM) | 2:33 |

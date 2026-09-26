@@ -7731,6 +7731,24 @@
     },
     {
       "album": {
+        "name": "The Thin Line",
+        "url": "https://open.spotify.com/album/3R0nH1LHJ4jn6b6yHGqpfs"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Elil",
+          "url": "https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154966,
+      "name": "The Thin Line",
+      "url": "https://open.spotify.com/track/6U5nVPaAgn8P0vs0ZITlyS"
+    },
+    {
+      "album": {
         "name": "The Tree",
         "url": "https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij"
       },

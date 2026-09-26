@@ -4,7 +4,7 @@
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: SONNIE 桑尼
 
-1,002 songs - 2 day 17 hr 18 min
+1,003 songs - 2 day 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [停留](https://open.spotify.com/track/5qiJHEuGogfxUqNXMLqe3A) | [BaishaJAWS](https://open.spotify.com/artist/1Urg6a4MvccwltzRKTwtgv) | [Metamorphosis](https://open.spotify.com/album/1xCpoCbrDN9nC0JYTvxD0y) | 4:49 | 2024-11-28 | 2025-01-24 |
 | [偶像 \(feat.五月天 阿信\)](https://open.spotify.com/track/1ensBF2RM6BCYOqliw68Va) | [Mixer](https://open.spotify.com/artist/4AWa6pcQK9J9aSAN67cLHv), [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [偶像](https://open.spotify.com/album/0bVv3tyuxEvWtDLPmA8fTO) | 4:01 | 2025-03-06 | 2025-03-28 |
 | [偶像包袱](https://open.spotify.com/track/64bPgDsKxXfS3CVkwJQMIq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [偶像包袱](https://open.spotify.com/album/3lOtu3IhDrGVrQ3k0Navwr) | 3:57 | 2026-09-03 |  |
+| [偷偷愛](https://open.spotify.com/track/0L7R4dmkwk46DEZgqx1fF7) | [Amazing Show](https://open.spotify.com/artist/3n16EAnJtz6SZGx2zJssrI) | [Amazing Show同名專輯](https://open.spotify.com/album/7DEWBNaWhhqgjai4w7Mcau) | 4:22 | 2026-09-25 |  |
 | [傀儡戲 \(Netflix 影集《黑盒子》主題曲\)](https://open.spotify.com/track/1DafEncDqIufjjpN1fYBWG) | [BOOM！怪物星人](https://open.spotify.com/artist/7pd8OrAGWxfDR2ujHsVEvX) | [傀儡戲](https://open.spotify.com/album/3IXwJVDEEay9GPOfjkePV7) | 2:28 | 2025-11-13 | 2025-12-05 |
 | [催眠](https://open.spotify.com/track/7cXGcYLcXNCwRu88ZMzgoh) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [結伴](https://open.spotify.com/album/5P7W9ZOIIManMjXgMuPCbA) | 4:30 | 2024-06-28 | 2024-08-23 |
 | [傷心摩托車](https://open.spotify.com/track/4Tjgg37Mya4csqcq6minfz) | [來者何人 Whoou!](https://open.spotify.com/artist/7aKtsdVpc4ae6PGZKfmqPs) | [傷心摩托車](https://open.spotify.com/album/6Cy70qzpBFoTOqMhooUc0a) | 3:08 | 2025-03-21 | 2025-04-11 |

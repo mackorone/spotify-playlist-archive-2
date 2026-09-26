@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Place to Rest",
+        "url": "https://open.spotify.com/album/23s4UZqvN9xKFtGuNOjas4"
+      },
+      "artists": [
+        {
+          "name": "Denis Rial",
+          "url": "https://open.spotify.com/artist/6kLSeA8bMNkur1A9Tnhde9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162325,
+      "name": "A Place to Rest",
+      "url": "https://open.spotify.com/track/3W0xfHnJd2K2SZrn7jU1Bo"
+    },
+    {
+      "album": {
         "name": "A Place to Stay",
         "url": "https://open.spotify.com/album/7o3T9QNHp5atn8pLAC2QJ7"
       },

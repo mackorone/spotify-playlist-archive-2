@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 
 > Wekelijkse update! Cover: CVNTS
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,503 likes - 99 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,517 likes - 99 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWrJKwf0q9nn.md) - [plain]
 | 22 | [Like An Amplifier \(with Goggi\)](https://open.spotify.com/track/0gASACsvexZ5fyj3C97dP7) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [DJ Terry](https://open.spotify.com/artist/49vRRr0jNCPO794NATNr3j), [GOGGI](https://open.spotify.com/artist/7ELcfkiBGy09Snj06Nvy6g) | [Like an Amplifier \(with Goggi\)](https://open.spotify.com/album/2u1dfmBdBVjfsgqNmwaYqO) | 2:24 |
 | 23 | [Confession](https://open.spotify.com/track/2nJa6C2eIDDcxESn7sS0cl) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Confession](https://open.spotify.com/album/0h0JpuuqCP71DuI9RBu777) | 2:28 |
 | 24 | [Gotta Feel It](https://open.spotify.com/track/05sRg5ceAspgm1sykKUGDV) | [CIEL.](https://open.spotify.com/artist/7k3cId1oZqUxRM5QgjMKJU) | [Gotta Feel It](https://open.spotify.com/album/28J1v9W7b6GgYS6jnP6a7v) | 2:12 |
-| 25 | [I'm Over School](https://open.spotify.com/track/1t5UnhrnAHbCEUogduURSu) | [Kid Noize](https://open.spotify.com/artist/1nSBihjWQgnAwxnd65XPdN), [Eline Maan](https://open.spotify.com/artist/6DixwhjTNjqYjfYJMrai41) | [I'm Over School](https://open.spotify.com/album/590GxMcNJh12QIrGNTlWqb) | 3:22 |
+| 25 | [I'm Over School](https://open.spotify.com/track/1t5UnhrnAHbCEUogduURSu) | [Kid Noize](https://open.spotify.com/artist/1nSBihjWQgnAwxnd65XPdN), [Eline Mann](https://open.spotify.com/artist/7B68JAWDHgVV7OiLmtjxtu) | [I'm Over School](https://open.spotify.com/album/590GxMcNJh12QIrGNTlWqb) | 3:22 |
 | 26 | [Alors On Danse \(Estan Locas\) \[with Daddy Yankee\]](https://open.spotify.com/track/1A01zOjZzMLbUIMeZZXNqO) | [Billy The Kit](https://open.spotify.com/artist/7mHUbNIflNX99gowiCMCwZ), [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Alors On Danse \(Estan Locas\) \[with Daddy Yankee\]](https://open.spotify.com/album/7sMks6FwTKv0nV4eHitusl) | 2:36 |
-| 27 | [Track 6](https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [CATHARSIS](https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd) | 0:00 |
+| 27 | [Staub](https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [CATHARSIS](https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd) | 3:25 |
 | 28 | [Trust The Melody](https://open.spotify.com/track/5K3NgHPiGVm9nqmetTHdue) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Luisa Wilson](https://open.spotify.com/artist/1g1RwWbMPNk9PofqhbovkQ) | [Finally](https://open.spotify.com/album/6TJWQ2mNTNxHTdG5naxk0v) | 2:30 |
 | 29 | [Beg \(For You\)](https://open.spotify.com/track/3GtXnPVqXrHQByC3AsCJtz) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [First Light: Afterglow](https://open.spotify.com/album/4a203EQlxmolYKEcHETbYi) | 3:05 |
 | 30 | [Smile](https://open.spotify.com/track/28JoWqu4PGPPv3mQQgdvHY) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [Bryan V](https://open.spotify.com/artist/0UKwof7pq8Tz02TEnvcWJE) | [Smile](https://open.spotify.com/album/60gnI4jnB6o2qkkiG0JMVi) | 3:01 |

@@ -2,7 +2,7 @@
 
 ### [afro&b ](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> Intersection of R&B and afrobeats\. Cover: Lusanda
+> Intersection of R&B and afrobeats\. Cover: Tomi Thomas
 
 645 songs - 1 day 9 hr 42 min
 

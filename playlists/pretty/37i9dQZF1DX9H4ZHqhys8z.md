@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Γιορτάζοντας 5 Χρόνια EQUAL\. Εξώφυλλο: Danae
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,048 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,046 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 33 | [ÉNA NERÓ](https://open.spotify.com/track/4IIzFVHkAynnStxCIs21iy) | [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [ÉNA NERÓ](https://open.spotify.com/album/68VsyGkfZoBFDRrOL9hagB) | 2:54 |
 | 34 | [Granita Lemoni](https://open.spotify.com/track/1d7mMTCDkPB6No9nvJ6Lhc) | [Marseaux](https://open.spotify.com/artist/6hyFvbMnKrLVujJZnovsWz) | [Granita Lemoni](https://open.spotify.com/album/6QusMyuqgtSe2W2naYg85e) | 3:36 |
 | 35 | [Astrofeggia](https://open.spotify.com/track/6VYarRcF6WxGDZ0BejmCR9) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Astrofeggia](https://open.spotify.com/album/4cUAyISg8OcodUZnE1LLIq) | 3:07 |
-| 36 | [IN BERLIN](https://open.spotify.com/track/6zZxKDOarBgVNZ07KqZuEq) | [Tamta](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [IN BERLIN](https://open.spotify.com/album/2gKRlkxa5WVWwqBUqvMChi) | 2:20 |
+| 36 | [IN BERLIN](https://open.spotify.com/track/6zZxKDOarBgVNZ07KqZuEq) | [TAMTA](https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ), [Ellize](https://open.spotify.com/artist/16NpduEB1MO70qblBBj3GH) | [IN BERLIN](https://open.spotify.com/album/2gKRlkxa5WVWwqBUqvMChi) | 2:20 |
 | 37 | [Katarameni Kardia](https://open.spotify.com/track/36X7kwEYIWh6gQtB4MGZaJ) | [Aspa](https://open.spotify.com/artist/1dxuhrh05CDzJtEc9qEc3N) | [Katarameni Kardia](https://open.spotify.com/album/1e7DtYTJTenGBMPS9fso3h) | 2:46 |
 | 38 | [Ola Teleia](https://open.spotify.com/track/3hLxmtsDJklWMoEudOZzuK) | [Natassa Bofiliou](https://open.spotify.com/artist/3ujPrFnLXVgRRelOhW1E2t), [Themis Karamouratidis](https://open.spotify.com/artist/0EIcylomMbDZeLPBCy1z3b), [Gerasimos Evangelatos](https://open.spotify.com/artist/3FOcz0CoQjXRhfnKLqrXQq) | [Ola Teleia](https://open.spotify.com/album/5OKTzKXrXmI2zoGzLOlXgZ) | 3:04 |
 | 39 | [Mesa Mou \- Tou Oneirou I Fotia](https://open.spotify.com/track/7gTnct37ZrC9VjJfmZKAQv) | [Ioulia Karapataki](https://open.spotify.com/artist/6I62lkqyy7npSxNWgjQtwG), [Agis Papapanagiotou](https://open.spotify.com/artist/6Jm3dJQ454rJcYfUofNQlt) | [Mesa Mou \(Tou Oneirou I Fotia\)](https://open.spotify.com/album/5riDyJ2CbKs6bZn6udmzup) | 3:51 |

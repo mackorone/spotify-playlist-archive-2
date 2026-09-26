@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65948,
+  "num_followers": 65951,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arMWgAAAAAA9w/38P61P2ZIuImUiWcxp",
+  "snapshot_id": "arRoAAAAAADOsb+hs5UAU9MK5GuDx3j0",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISTRACTION / SCREAM MY NAME",
-        "url": "https://open.spotify.com/album/5cmwRxgjoi3TZbgz7UGYLp"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "DISTRACTION",
-      "url": "https://open.spotify.com/track/5vI1m5V38fFdYNRWpqAHRW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Her Love Still Haunts Me Like a Ghost",
         "url": "https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 49076,
       "name": "Enough For You",
       "url": "https://open.spotify.com/track/2LdSGeevF8S4LF2oWyONWO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DISTRACTION / SCREAM MY NAME",
+        "url": "https://open.spotify.com/album/5cmwRxgjoi3TZbgz7UGYLp"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "DISTRACTION",
+      "url": "https://open.spotify.com/track/5vI1m5V38fFdYNRWpqAHRW"
     },
     {
       "added_at": null,

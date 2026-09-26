@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 
 > Best of Desi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,215 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,306 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 44 | [Zigane](https://open.spotify.com/track/187plAI0yXdIlU0srDPt18) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Zigane](https://open.spotify.com/album/7KWTIK4dnNltRSeDuwY8f3) | 3:12 |
 | 45 | [Shikaar \- Music Inspired by the Original Series "Bait"](https://open.spotify.com/track/72sUzSc6ndQw2nTTqBo061) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Young Stunners](https://open.spotify.com/artist/01PyusFVbXgoD5Kl1mR8CC) | [Shikaar \(Music Inspired by the Original Series "Bait"\)](https://open.spotify.com/album/6D10vvOqgTvlqfYPBZCMc4) | 3:06 |
 | 46 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 |
-| 47 | [Praying Mantis](https://open.spotify.com/track/7lLYgsbbYZUHD3ykhe8zFd) | [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Praying Mantis](https://open.spotify.com/album/0FZoOvzYo8La6K82yKnjIn) | 3:12 |
-| 48 | [You & I](https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [You & I](https://open.spotify.com/album/68ld620Tx7IlPXWRnVn2al) | 3:31 |
+| 47 | [You & I](https://open.spotify.com/track/1UhwJHL94SwSZk9jUsleHF) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [You & I](https://open.spotify.com/album/68ld620Tx7IlPXWRnVn2al) | 3:31 |
+| 48 | [Y2K](https://open.spotify.com/track/090UnEhlo1IBW0a4pQa0Tc) | [ST MAN](https://open.spotify.com/artist/7FkwKgrWfjYJ3sgAFgGr31), [Roj Moktan](https://open.spotify.com/artist/3oMHyLZUZNh5Uvy95vzArw), [Somiya Baraili](https://open.spotify.com/artist/3j5odtct2MdyDXHvWQu43p) | [Y2K](https://open.spotify.com/album/5mTdw4NQ665ArkXI9uDXoI) | 4:16 |
 | 49 | [Kaun Talha](https://open.spotify.com/track/0euDWZG2g1Cw12TDyLQUKu) | [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Kaun Talha](https://open.spotify.com/album/79kk4fBrppufcwHKZ6SspP) | 4:29 |
 | 50 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 |
 | 51 | [Sargoshi](https://open.spotify.com/track/0ykymzQ4wnbXn6URdABwfN) | [CGF](https://open.spotify.com/artist/09b4lIrEt7y51tHKvpKtFK), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Mustafa Ansary](https://open.spotify.com/artist/5vDKZEJxntFg7beb1Dul8z) | [Sargoshi](https://open.spotify.com/album/1ANUXBw3AUVUUXfFpbIcY7) | 2:31 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RahGIyQXcJ.md) - [plain]
 | 84 | [IYKYK](https://open.spotify.com/track/3Hp5UfErvtHw0SlkRPHkf9) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Dishant](https://open.spotify.com/artist/03NjaVnVwllxUUcSUDglNJ), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Inferno](https://open.spotify.com/album/4ZbDtK4rvjgDiyofGLQzot) | 2:35 |
 | 85 | [Hashbrown](https://open.spotify.com/track/5pRmOLFfqEybt2C2hfmglZ) | [Kim The Beloved](https://open.spotify.com/artist/2lXkftiHxP34fKQl8W6hCC), [Kartik](https://open.spotify.com/artist/0WzZnHBlbrOE7MpcN2AGhh) | [Hashbrown](https://open.spotify.com/album/6YwBfiShsJScT5nxvBbwzp) | 2:28 |
 
-Snapshot ID: `AAAAAPnuvUaNSggBpFGujhgVdTypsNRe`
+Snapshot ID: `AAAAANAPgL1nEyaTprUNs1RPRIo0Ng86`

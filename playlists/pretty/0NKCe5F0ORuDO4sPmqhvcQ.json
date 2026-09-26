@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening ",
-  "num_followers": 20345,
+  "num_followers": 20343,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAArWOZp1sjVQ+2SitvIC2GFafBSUY6A",
+  "snapshot_id": "AAArWzt/7O6p1dL/t46dS+Zpr1QYkJWZ",
   "tracks": [
     {
       "added_at": "2026-09-15 18:22:50",
@@ -103,6 +103,22 @@
       "duration_ms": 172500,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/0TlJ9h0O9wJeda51rW9ktj"
+    },
+    {
+      "added_at": "2026-09-25 14:38:29",
+      "album": {
+        "name": "FACE2FACE",
+        "url": "https://open.spotify.com/album/6IOi7NuN61x8ww6CgJHv1v"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        }
+      ],
+      "duration_ms": 171162,
+      "name": "FACE2FACE",
+      "url": "https://open.spotify.com/track/72w6dmlgNDagH5fbQKr64D"
     },
     {
       "added_at": "2026-07-24 23:59:54",
@@ -1111,6 +1127,22 @@
       "duration_ms": 166628,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/0ce3j6wnI1zasUA65b0YyS"
+    },
+    {
+      "added_at": "2026-09-25 17:46:41",
+      "album": {
+        "name": "Uno Dos Tres",
+        "url": "https://open.spotify.com/album/1bqMPwpSaxLiyeWDBQvRug"
+      },
+      "artists": [
+        {
+          "name": "Cole Knight",
+          "url": "https://open.spotify.com/artist/6dZJom6MdxO0nNa0Ot7lqb"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Uno Dos Tres",
+      "url": "https://open.spotify.com/track/2vdtxz7fFGfAu6Xs3i2D6m"
     }
   ],
   "unique_name": "Moving Castle Monthly",

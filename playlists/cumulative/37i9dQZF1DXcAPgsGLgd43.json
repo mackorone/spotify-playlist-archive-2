@@ -3167,6 +3167,24 @@
     },
     {
       "album": {
+        "name": "Cuidado EP",
+        "url": "https://open.spotify.com/album/2ziOi3qn7e10rfmuQUwZCF"
+      },
+      "artists": [
+        {
+          "name": "Amal Nemer",
+          "url": "https://open.spotify.com/artist/4dJbkK58s6mj9RGElqCNhm"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "Cuidado",
+      "url": "https://open.spotify.com/track/1kJhs1vRiFFnYWoyXztNll"
+    },
+    {
+      "album": {
         "name": "Culo",
         "url": "https://open.spotify.com/album/5JVaZThemCsRFGs94NnMID"
       },
@@ -4364,7 +4382,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 223200,
       "name": "Escandalosa",
       "url": "https://open.spotify.com/track/3lQVGhXLYLS0VkVhzZU0Nd"
@@ -4960,7 +4978,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 179091,
       "name": "Gado",
       "url": "https://open.spotify.com/track/34PMtD6uhx4cr6U3LvMvzW"
@@ -5132,7 +5150,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 176129,
       "name": "Guaro",
       "url": "https://open.spotify.com/track/3U2AuOPN5DwueUHFGBO3LG"
@@ -5172,7 +5190,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 156614,
       "name": "Habla M\u00e1s Fuerte",
       "url": "https://open.spotify.com/track/5oJIerbzHbUuCY9uBe7WNz"
@@ -5706,6 +5724,28 @@
       "duration_ms": 180465,
       "name": "La Criminal",
       "url": "https://open.spotify.com/track/63ssrGUv1fr6e55Bsr8m9e"
+    },
+    {
+      "album": {
+        "name": "La Cumbia",
+        "url": "https://open.spotify.com/album/2l2IpcACHX2myhvcJ6JsS7"
+      },
+      "artists": [
+        {
+          "name": "Fabi Hernandez",
+          "url": "https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np"
+        },
+        {
+          "name": "Mathieu Ruz",
+          "url": "https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "La Cumbia",
+      "url": "https://open.spotify.com/track/78dUBWQkhiITBB4KxWVNXf"
     },
     {
       "album": {
@@ -7114,7 +7154,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
@@ -7687,6 +7727,32 @@
     },
     {
       "album": {
+        "name": "Movimiento",
+        "url": "https://open.spotify.com/album/6oIHoEwrm6noktaEdvxod4"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "ATLAC",
+          "url": "https://open.spotify.com/artist/4zjApLlmv1DjwnM2Yrmp98"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154161,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/5CcmjQ1cZFvA63uoWwLVvt"
+    },
+    {
+      "album": {
         "name": "Mueve Los Dos Pies",
         "url": "https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU"
       },
@@ -7738,6 +7804,24 @@
       "duration_ms": 177142,
       "name": "Musica",
       "url": "https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl"
+    },
+    {
+      "album": {
+        "name": "Musica Infinita",
+        "url": "https://open.spotify.com/album/34soFImKwGMAayoBJmfTI7"
+      },
+      "artists": [
+        {
+          "name": "Carloh",
+          "url": "https://open.spotify.com/artist/3cPsVugsjXZ03yXIblunwd"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177187,
+      "name": "Musica Infinita",
+      "url": "https://open.spotify.com/track/491nzejAjYLD592eRUxHmk"
     },
     {
       "album": {
@@ -9213,6 +9297,24 @@
     },
     {
       "album": {
+        "name": "Que Paso",
+        "url": "https://open.spotify.com/album/6OzRKxpAaLS09N3YDRGSW4"
+      },
+      "artists": [
+        {
+          "name": "Massianello",
+          "url": "https://open.spotify.com/artist/6oARZ0ckg0uN1GEs22MQw7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Que Paso",
+      "url": "https://open.spotify.com/track/7fhipI7spbU6sO507KL9UK"
+    },
+    {
+      "album": {
         "name": "King Of Groove EP",
         "url": "https://open.spotify.com/album/0tujiN8DryUYPcnIo8Ebd3"
       },
@@ -9428,7 +9530,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 194798,
       "name": "Rave En La Favela",
       "url": "https://open.spotify.com/track/0Ec05on4EUPA2OXLu6BIpj"
@@ -9454,7 +9556,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 165120,
       "name": "Rebeca",
       "url": "https://open.spotify.com/track/5N2ppnfd0pVWG6NEHVdPXG"
@@ -10019,6 +10121,36 @@
     },
     {
       "album": {
+        "name": "Se Quema El Monte",
+        "url": "https://open.spotify.com/album/73EQ01H1JNSUDMzXMolx5g"
+      },
+      "artists": [
+        {
+          "name": "Al\u00e9 Kum\u00e1",
+          "url": "https://open.spotify.com/artist/5GcgHApquo93JDlpKJ5lu0"
+        },
+        {
+          "name": "MORENITA",
+          "url": "https://open.spotify.com/artist/4BRR1MOnfQFaBKEDhRkZ71"
+        },
+        {
+          "name": "Marc Joef",
+          "url": "https://open.spotify.com/artist/0Ps0hdCND0hPJ9JkhepFSX"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195091,
+      "name": "Se Quema El Monte",
+      "url": "https://open.spotify.com/track/3k1C3LYcvVlL1c0QLR6HWH"
+    },
+    {
+      "album": {
         "name": "Se Va (feat. Cumbiafrica)",
         "url": "https://open.spotify.com/album/18ED85gUGwthDGzMO25ErT"
       },
@@ -10152,7 +10284,7 @@
       ],
       "date_added": "2025-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 146250,
       "name": "Shingaling Shingaling",
       "url": "https://open.spotify.com/track/3fwmJrwHkJrUcybkmTU8pd"

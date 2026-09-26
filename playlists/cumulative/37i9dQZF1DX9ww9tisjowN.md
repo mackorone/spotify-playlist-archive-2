@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Mori Calliope
 
-1,243 songs - 2 day 23 hr 2 min
+1,244 songs - 2 day 23 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1118,6 +1118,7 @@
 | [本当だよ](https://open.spotify.com/track/4fnskJdNDDh27vBhsvXChn) | [ナツノセ](https://open.spotify.com/artist/2oGGvMrukzgUrFNLxk2Mbe) | [本当だよ](https://open.spotify.com/album/2pUZsOT4J7PjdyrXOzbu4z) | 3:33 | 2024-08-08 | 2024-10-25 |
 | [桜日和とタイムマシン with 初音ミク](https://open.spotify.com/track/1sEObTHGtsQxJj7nEp9kMY) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [桜日和とタイムマシン with 初音ミク／初夏](https://open.spotify.com/album/2vxWLmD9gv9RDgL4SM71Wg) | 5:31 | 2024-10-24 | 2024-12-05 |
 | [正解 \(feat\. 重音テト\)](https://open.spotify.com/track/2oiylllT3beeY5RsyDbJwF) | [雨良 Amala](https://open.spotify.com/artist/0KV9aMuLw3TDXZXBR1Fibl), [Teto Kasane](https://open.spotify.com/artist/1whAPNHAalmyNIsfapcIcR) | [正解 \(feat\. 重音テト\)](https://open.spotify.com/album/7LJsGjKF8UNlsvBeXezspq) | 3:31 | 2026-09-17 | 2026-09-25 |
+| [死ぬか生きるか](https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [死ぬか生きるか](https://open.spotify.com/album/4HL13G5HCfsP2QvTknHmyD) | 2:45 | 2026-09-24 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2024-04-18 |  |
 | [残機](https://open.spotify.com/track/2fJbss5uUmmBqn7qFkmyWj) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [沈香学](https://open.spotify.com/album/1mtciArMoiLPqOdflY5dWQ) | 3:50 | 2023-06-22 | 2026-01-30 |
 | [残酷な夜に輝け \- Shine in the Cruel Night](https://open.spotify.com/track/5M7jWHYQvmDxZsXfLCnnPU) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LACE UP](https://open.spotify.com/album/1pQSHHdneb1dWfV8RRRIeA) | 6:22 | 2026-09-17 |  |

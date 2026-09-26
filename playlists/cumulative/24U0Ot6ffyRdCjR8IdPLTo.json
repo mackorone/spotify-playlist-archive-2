@@ -3429,6 +3429,24 @@
     },
     {
       "album": {
+        "name": "Killing Kind",
+        "url": "https://open.spotify.com/album/6eQE45k1F7Ux1UFImcQc5m"
+      },
+      "artists": [
+        {
+          "name": "Gigi Moss",
+          "url": "https://open.spotify.com/artist/38NVCgrJsx212T9Tk3yMv6"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222266,
+      "name": "Killing Kind",
+      "url": "https://open.spotify.com/track/17Ge1Dz5RRnGdXPULhXaQ3"
+    },
+    {
+      "album": {
         "name": "KILOS",
         "url": "https://open.spotify.com/album/7778WUkw4GEripfJ7R0V3y"
       },
@@ -3880,6 +3898,24 @@
       "duration_ms": 146835,
       "name": "love's not pain",
       "url": "https://open.spotify.com/track/2mElFGDLWCZnuyHt6APKdl"
+    },
+    {
+      "album": {
+        "name": "love, make me a believer",
+        "url": "https://open.spotify.com/album/0nsv9YMNJ67EDNCdLllioz"
+      },
+      "artists": [
+        {
+          "name": "Jessie Mazin",
+          "url": "https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166276,
+      "name": "love, make me a believer",
+      "url": "https://open.spotify.com/track/0zU5b6zRZZk4l8FVimCtcu"
     },
     {
       "album": {
@@ -5673,6 +5709,24 @@
     },
     {
       "album": {
+        "name": "Sherry Wine",
+        "url": "https://open.spotify.com/album/3VAZyVBmMCL77esrLijBkL"
+      },
+      "artists": [
+        {
+          "name": "Whitney Whitney",
+          "url": "https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205493,
+      "name": "Sherry Wine",
+      "url": "https://open.spotify.com/track/37BMnmcnLT63VCbAdCL307"
+    },
+    {
+      "album": {
         "name": "Shimmer",
         "url": "https://open.spotify.com/album/485OiS4kRsIiO0EjwXotsB"
       },
@@ -6788,6 +6842,24 @@
       "duration_ms": 245634,
       "name": "The Blue",
       "url": "https://open.spotify.com/track/4LAeAtcbEAFYTRsZRpua6Z"
+    },
+    {
+      "album": {
+        "name": "The Dead Ones",
+        "url": "https://open.spotify.com/album/6EYV72DNd5VFhaOXThRcAi"
+      },
+      "artists": [
+        {
+          "name": "Lydia Kenny",
+          "url": "https://open.spotify.com/artist/6qT8Z4I9qTAxpJkvPLM0Fa"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187320,
+      "name": "The Dead Ones",
+      "url": "https://open.spotify.com/track/4SY4oS0sRxMErvCxo9xdsk"
     },
     {
       "album": {

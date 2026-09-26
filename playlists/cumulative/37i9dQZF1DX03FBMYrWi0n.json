@@ -997,6 +997,24 @@
     },
     {
       "album": {
+        "name": "AVALANCHE",
+        "url": "https://open.spotify.com/album/1i3FlcMGOBhQN9jkgUdJ1t"
+      },
+      "artists": [
+        {
+          "name": "Oli F\u00e9ra",
+          "url": "https://open.spotify.com/artist/7w7eRmvf0GmCUfjokS71qw"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229355,
+      "name": "AVALANCHE",
+      "url": "https://open.spotify.com/track/29XWfrcAx8kuaQ8EiTOkad"
+    },
+    {
+      "album": {
         "name": "Accusez r\u00e9ception",
         "url": "https://open.spotify.com/album/7nnEcglxzIcJPqVsxfVwHV"
       },
@@ -1613,6 +1631,24 @@
     },
     {
       "album": {
+        "name": "C'est pas grave si je pleure",
+        "url": "https://open.spotify.com/album/3XroNnNuBsrb4CmTbCS9Hf"
+      },
+      "artists": [
+        {
+          "name": "MARIE NEIGES",
+          "url": "https://open.spotify.com/artist/2pHSyGrMFR9MTE5jB0gOCA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226066,
+      "name": "Bruit",
+      "url": "https://open.spotify.com/track/356F6ZVKGCMssYw2P57SVR"
+    },
+    {
+      "album": {
         "name": "Burn Bitch",
         "url": "https://open.spotify.com/album/58I2LUej6dWEyy2KJNc3tL"
       },
@@ -1642,7 +1678,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 265043,
       "name": "Burn the Bridges",
       "url": "https://open.spotify.com/track/4OYRrA8plQ4p2whMAvHaqX"
@@ -1808,6 +1844,24 @@
       "duration_ms": 211920,
       "name": "Cantalou",
       "url": "https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD"
+    },
+    {
+      "album": {
+        "name": "CAPS LOCK",
+        "url": "https://open.spotify.com/album/2hOvCXR3WlsBgDZ6wPA7Fp"
+      },
+      "artists": [
+        {
+          "name": "Grand Public",
+          "url": "https://open.spotify.com/artist/5Ctw4xKmnbdrLyWdEA4KiO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247821,
+      "name": "CAPS LOCK",
+      "url": "https://open.spotify.com/track/50Xj9ygdLzT6jsSkMqBwfM"
     },
     {
       "album": {
@@ -2768,7 +2822,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 195783,
       "name": "Dans la rue",
       "url": "https://open.spotify.com/track/5tBRyDEWpRisfUv3POqnWy"
@@ -2840,7 +2894,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 135211,
       "name": "DEAD INSIDE",
       "url": "https://open.spotify.com/track/507NCJogPbwVjrtaPfd2pV"
@@ -2912,7 +2966,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 189540,
       "name": "Demain minuit",
       "url": "https://open.spotify.com/track/1HubFNujYKvxk5UfvJNLpV"
@@ -4518,7 +4572,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 178379,
       "name": "heart",
       "url": "https://open.spotify.com/track/0bdwem7sj4TeYcPslXwcSK"
@@ -5775,6 +5829,24 @@
     },
     {
       "album": {
+        "name": "Ancrage",
+        "url": "https://open.spotify.com/album/2xYihRjyr2oTrHO65B7P0z"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Moreno",
+          "url": "https://open.spotify.com/artist/4rbYig3C1deu91CnhylYvZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205303,
+      "name": "L'amour ici",
+      "url": "https://open.spotify.com/track/11vTk0GPbXFT5lOVbFh9pN"
+    },
+    {
+      "album": {
         "name": "t.o.m. ou la trajectoire des pers\u00e9ides",
         "url": "https://open.spotify.com/album/7Knxggbd3Q6zv5jzad9hLY"
       },
@@ -5815,6 +5887,24 @@
     },
     {
       "album": {
+        "name": "L'empire",
+        "url": "https://open.spotify.com/album/5CqBu7hPa9060XL0rGgG2X"
+      },
+      "artists": [
+        {
+          "name": "maudit vincent",
+          "url": "https://open.spotify.com/artist/25mJaUC1juKOVjIfb0JUqJ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205501,
+      "name": "L'empire",
+      "url": "https://open.spotify.com/track/5UOTnqeoCkIVBAo8jxOkma"
+    },
+    {
+      "album": {
         "name": "L'heure des fontaines",
         "url": "https://open.spotify.com/album/2bjM6zDrQDanqa1AGX2QWA"
       },
@@ -5844,7 +5934,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 287200,
       "name": "L'\u00e8re de glace",
       "url": "https://open.spotify.com/track/1XxooNA0LDvoNFwl76nmOj"
@@ -9683,6 +9773,24 @@
     },
     {
       "album": {
+        "name": "Grosses cernes",
+        "url": "https://open.spotify.com/album/2suHpX4rYYresYV5j7T0yH"
+      },
+      "artists": [
+        {
+          "name": "Antoine Vitesse",
+          "url": "https://open.spotify.com/artist/7sDCcEZBfKF5BgC5qap8E4"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Sale gueule",
+      "url": "https://open.spotify.com/track/49qmk2SJ9177CmMM5yyZs7"
+    },
+    {
+      "album": {
         "name": "Sang du Christ",
         "url": "https://open.spotify.com/album/63V0GHC01KxyQxBFqypDHa"
       },
@@ -9716,6 +9824,24 @@
       "duration_ms": 175459,
       "name": "Sans soleil",
       "url": "https://open.spotify.com/track/0OF84e7RhmShtWnaqlsn18"
+    },
+    {
+      "album": {
+        "name": "SANS TOi",
+        "url": "https://open.spotify.com/album/2jeZaqhXELmmWfFx0TFOfY"
+      },
+      "artists": [
+        {
+          "name": "No\u00ebm",
+          "url": "https://open.spotify.com/artist/6fiZDVQvW1lOkWfH6PV30w"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203005,
+      "name": "SANS TOi",
+      "url": "https://open.spotify.com/track/7ibt9DCVtXqnygrvPPSIG7"
     },
     {
       "album": {
@@ -10275,6 +10401,24 @@
     },
     {
       "album": {
+        "name": "Sofort, Si Fort",
+        "url": "https://open.spotify.com/album/33GOfl5Ketn68EijWcLkFe"
+      },
+      "artists": [
+        {
+          "name": "Yoo Doo Right",
+          "url": "https://open.spotify.com/artist/2pVonF82aN2ttqFHsynVeW"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293613,
+      "name": "Sofort, Si Fort",
+      "url": "https://open.spotify.com/track/20P2z18pce5v5wPLtSYEfb"
+    },
+    {
+      "album": {
         "name": "Soleil",
         "url": "https://open.spotify.com/album/7CUa6VocVNePJHKTSLdruZ"
       },
@@ -10708,7 +10852,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 205546,
       "name": "Surf Jesus Surf",
       "url": "https://open.spotify.com/track/3cpBoQaaw3TBoVwesCtfgg"
@@ -10762,7 +10906,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 173538,
       "name": "SWITCH",
       "url": "https://open.spotify.com/track/4LoQfMFStpm7xJF0mnDACm"
@@ -11176,7 +11320,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 236254,
       "name": "Tout ce que je voudrais \u00eatre, c'est tout ce que je ne suis pas",
       "url": "https://open.spotify.com/track/5iISNJSdGntEhsDBXAtisg"
@@ -11216,6 +11360,24 @@
       "duration_ms": 174151,
       "name": "Tout recommence",
       "url": "https://open.spotify.com/track/6k4AAQgHGx1Lt7jcz0nsKM"
+    },
+    {
+      "album": {
+        "name": "TRACAS",
+        "url": "https://open.spotify.com/album/6D2DhtLNsMP7aqd1exYrAU"
+      },
+      "artists": [
+        {
+          "name": "Eaubad",
+          "url": "https://open.spotify.com/artist/462pDEWX9S9AleYYpieZWq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153346,
+      "name": "TRACAS",
+      "url": "https://open.spotify.com/track/7AMELJ6olqoYjERd6pGpIU"
     },
     {
       "album": {

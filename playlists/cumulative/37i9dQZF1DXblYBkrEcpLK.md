@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Daoko
 
-900 songs - 2 day 11 hr 0 min
+902 songs - 2 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [65535](https://open.spotify.com/track/6Inn2sWeIORMSAVnwdrRkw) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [65535](https://open.spotify.com/album/6ZoU2pym8PqrNtmFpnuimw) | 3:13 | 2023-10-03 | 2023-10-18 |
 | [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 | 2023-10-24 | 2023-11-11 |
 | [A Song Of Romance \- from EP "神の名を"](https://open.spotify.com/track/7eeuJS8GJeKJKfSPomUIWb) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [A Song Of Romance \(from EP "神の名を"\)](https://open.spotify.com/album/2TVH1hQVFINWeRcgutbgCJ) | 4:06 | 2026-09-15 |  |
+| [Abracadabra \- Cover](https://open.spotify.com/track/58WUQ6HgftHygkRMcEGN6c) | [Ave Mujica](https://open.spotify.com/artist/5BKIH2Kwc6LbetG04Boai7) | [Abracadabra \(Cover\)](https://open.spotify.com/album/4LVOjWiWu1sgqOi33uYVAH) | 3:42 | 2026-09-25 |  |
 | [ACROSS THE WORLD](https://open.spotify.com/track/174kT94aK54zCC0aIdEMz9) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [ACROSS THE WORLD](https://open.spotify.com/album/6YWZhGWLwLUnZssY6XkVQM) | 4:14 | 2024-07-03 | 2024-09-13 |
 | [Actor](https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [Actor](https://open.spotify.com/album/54vQuJiZufsTdbyIt5I8zb) | 3:49 | 2025-11-19 | 2026-02-25 |
 | [adrenaline!!!](https://open.spotify.com/track/10Yk9WbT2840l1NK5RWvkq) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [TAILWIND](https://open.spotify.com/album/6aQawPPAZQ83W5Iy5E702F) | 4:34 | 2022-07-07 | 2024-04-20 |
@@ -69,7 +70,7 @@
 | [BEYOND THE TIME \~メビウスの宇宙を越えて\~ / with TM NETWORK](https://open.spotify.com/track/0fjjznHpfbPcRdBDqfkhnk) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV) | [BEYOND THE TIME \~メビウスの宇宙を越えて\~ / with TM NETWORK](https://open.spotify.com/album/0C1FHJuqDP34JuFzXzrqTZ) | 5:36 | 2022-06-14 | 2022-06-21 |
 | [BINKUSUNO SAKE](https://open.spotify.com/track/4oVlD8uK2QioN4iZ1lBL6X) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UTA'S SONGS ONE PIECE FILM RED](https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172) | 3:26 | 2022-09-20 | 2023-10-24 |
 | [Bitter Sweet Harmony](https://open.spotify.com/track/4pY7Ls1vq65efdZfZaNn69) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [30 pieces of love \-selection\-](https://open.spotify.com/album/33L48U5bNYik44z86Zf9ah) | 4:34 | 2022-06-24 | 2022-07-03 |
-| [BLACK SHOUT \- 10th anniv\. ver.](https://open.spotify.com/track/1HfPagEyxGNlU0W1iwUTpr) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Lehre der Rose](https://open.spotify.com/album/1HPun9tYXr9jHr2nk297S8) | 4:05 | 2026-08-25 |  |
+| [BLACK SHOUT \- 10th anniv\. ver.](https://open.spotify.com/track/1HfPagEyxGNlU0W1iwUTpr) | [Roselia](https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy) | [Lehre der Rose](https://open.spotify.com/album/1HPun9tYXr9jHr2nk297S8) | 4:05 | 2026-08-25 | 2026-09-26 |
 | [BLUE BUD](https://open.spotify.com/track/4tT27irqZ5muAdDoVbMeio) | [青木陽菜](https://open.spotify.com/artist/5mUGS61tvbFlPgRW3ibdbx) | [BLUE BUD](https://open.spotify.com/album/4PhY3tQSEPEubND9Vun5pG) | 3:56 | 2024-01-25 | 2024-02-14 |
 | [Blue Shining Star](https://open.spotify.com/track/3vFaVH1ux9FIYNsrLAVG9N) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Blue Shining Star](https://open.spotify.com/album/2SeMoqmSR2QsKeDWCnMSvE) | 3:41 | 2026-06-30 | 2026-07-07 |
 | [Blue Velvet \- From CrosSing](https://open.spotify.com/track/1stcaK4Jiau9TzqkxujW8C) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- From CrosSing](https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q) | 3:54 | 2023-01-05 | 2023-01-11 |
@@ -639,6 +640,7 @@
 | [ハミダシモノ](https://open.spotify.com/track/7zmcWkQvzc9bYzOUx29aI1) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [ハミダシモノ](https://open.spotify.com/album/4MeRUletyrm8svQIvlS8kb) | 3:55 | 2022-06-24 | 2022-07-25 |
 | [ハレの日に \- Harenohini](https://open.spotify.com/track/41bU6Anbt3NPBdGLzpEcal) | [汐れいら](https://open.spotify.com/artist/6GVsZoMbMt0jmqwcvz1a1F) | [ハレの日に \- Harenohini](https://open.spotify.com/album/3aaRYkHau7tGCBcVMAlTWY) | 4:37 | 2025-07-22 | 2026-07-07 |
 | [ハレノバテイクオーバー](https://open.spotify.com/track/5MjSRZxbySa60WgKcvo3dy) | [Shiina Natsukawa](https://open.spotify.com/artist/1fkqRIgZFVQAsJT6D8L3JZ) | [コンポジット](https://open.spotify.com/album/7c13AoYp8d1co832E46kqU) | 3:38 | 2022-06-14 | 2022-07-28 |
+| [ハレルヤ](https://open.spotify.com/track/6SG7or69xb3V5A3sVxSNOt) | [Mai Kuraki](https://open.spotify.com/artist/4x3GOic9xXFOoOBrEMuvN9) | [ハレルヤ](https://open.spotify.com/album/6fYTtZcevykJrR9gmjNRa2) | 3:27 | 2026-09-25 |  |
 | [ハレ晴レユカイ](https://open.spotify.com/track/1663gb8VtFxxRsgBz5jaN7) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [ハレ晴レユカイ（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/3DDGxVLZh1qq1EnKxG1ANP) | 3:32 | 2024-07-30 | 2024-08-23 |
 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 | 2022-06-24 | 2024-03-27 |
 | [バイマイダーリン](https://open.spotify.com/track/0EJv7wenuEybeZQLHDplr3) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [みきまりあ](https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [バイマイダーリン](https://open.spotify.com/album/11349d0Gto4UrVUNBIdkwA) | 2:40 | 2024-04-23 | 2024-08-04 |
@@ -781,7 +783,7 @@
 | [指先ハート](https://open.spotify.com/track/3vwoUh3UV9y5IqDSb5D6Us) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [夢で逢えなくても／指先ハート](https://open.spotify.com/album/5MPA4vZpUId6YaKiMNt9vB) | 4:02 | 2023-10-24 | 2023-11-18 |
 | [数センチメンタル](https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [数センチメンタル](https://open.spotify.com/album/6DrKTI77wgOlpMPcCKPAqY) | 3:06 | 2023-04-11 | 2024-05-02 |
 | [新時代 \- from CrosSing](https://open.spotify.com/track/0gUM9KMr5NbOWBW13ia2iq) | [夏吉ゆうこ](https://open.spotify.com/artist/3gEhlBxOMT0wSTJ2noou7B), [松岡美里](https://open.spotify.com/artist/27esoqFTkcU7B0wpLyrocy) | [新時代 \- from CrosSing](https://open.spotify.com/album/17N3YZzGjy4LWrM9NhPmut) | 3:47 | 2023-06-13 | 2023-06-15 |
-| [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-12 |  |
+| [新時代 \- ウタ from ONE PIECE FILM RED](https://open.spotify.com/track/2l2yRJWgMiJkfPbRNiuC25) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [新時代 \(ウタ from ONE PIECE FILM RED\)](https://open.spotify.com/album/7r72omJJLTajYYn9vImIcb) | 3:48 | 2022-06-12 | 2026-09-26 |
 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 | 2024-04-16 | 2024-07-10 |
 | [旅の途中](https://open.spotify.com/track/1M9G7rtS145mE3KLwErInn) | [清浦夏実](https://open.spotify.com/artist/1zQHmmgQS3xyp26PxWlTwk) | [十九色](https://open.spotify.com/album/7MuoD3uNuZGStZn3S9Iljv) | 4:53 | 2022-06-14 | 2022-07-03 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-06-09 | 2024-02-14 |

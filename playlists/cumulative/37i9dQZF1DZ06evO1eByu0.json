@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Acenda a Sua Luz",
+        "url": "https://open.spotify.com/album/4KNkeq0ZhLKLIiCKWrL66f"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292432,
+      "name": "Depois da Cruz",
+      "url": "https://open.spotify.com/track/2JNPUQuPvwlur4xz2giXVs"
+    },
+    {
+      "album": {
         "name": "Adorai (Os Melhores Momentos)",
         "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
       },
@@ -2042,7 +2060,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 268416,
       "name": "Rey De Gloria",
       "url": "https://open.spotify.com/track/3NjPKX1NUbTgpJ89Fks4LF"

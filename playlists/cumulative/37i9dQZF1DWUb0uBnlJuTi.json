@@ -3203,6 +3203,24 @@
     },
     {
       "album": {
+        "name": "Give Me Something",
+        "url": "https://open.spotify.com/album/4NXkteWMZsv8vP563GwhY7"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338499,
+      "name": "Give Me Something",
+      "url": "https://open.spotify.com/track/5mr8N60dm55kVv5LzDusym"
+    },
+    {
+      "album": {
         "name": "Glaze",
         "url": "https://open.spotify.com/album/4J5ZNleIjACZZWp633TO6m"
       },
@@ -9998,7 +10016,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 145499,
       "name": "Wouldn't You",
       "url": "https://open.spotify.com/track/7i9Xk5r7RUNFq4oSNPwGJe"

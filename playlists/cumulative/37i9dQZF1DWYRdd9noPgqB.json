@@ -117,6 +117,24 @@
     },
     {
       "album": {
+        "name": "A GoodStart",
+        "url": "https://open.spotify.com/album/5iAoVrgUfTM2HYo4kWFhNe"
+      },
+      "artists": [
+        {
+          "name": "MySummerRadio",
+          "url": "https://open.spotify.com/artist/0oINj5EcqEYXEYQ930vX7n"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218788,
+      "name": "A GoodStart",
+      "url": "https://open.spotify.com/track/6jFk5NOvKpZSihrpr3Ph4Z"
+    },
+    {
+      "album": {
         "name": "A Real Hero",
         "url": "https://open.spotify.com/album/2zLx60VBP8NhZRk3fvKJ1x"
       },
@@ -1500,7 +1518,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 140211,
       "name": "Creepy",
       "url": "https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW"
@@ -2772,7 +2790,7 @@
       ],
       "date_added": "2026-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 155960,
       "name": "Funny Friends",
       "url": "https://open.spotify.com/track/6l1AuMUnZWoEdWodKUM4Mc"
@@ -7754,6 +7772,28 @@
       "duration_ms": 169407,
       "name": "Sober Up",
       "url": "https://open.spotify.com/track/3ImNIsa0NoPrvF77lNAvM3"
+    },
+    {
+      "album": {
+        "name": "Some Kind Of High",
+        "url": "https://open.spotify.com/album/6prMnt4ighpUNRRqJU9Ofz"
+      },
+      "artists": [
+        {
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+        },
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150323,
+      "name": "Some Kind Of High",
+      "url": "https://open.spotify.com/track/4tVACv3zcfxSC4M1P43X9y"
     },
     {
       "album": {

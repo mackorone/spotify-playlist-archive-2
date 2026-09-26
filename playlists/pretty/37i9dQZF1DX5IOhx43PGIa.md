@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 364,153 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 364,152 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [cry jar](https://open.spotify.com/track/2jFbCjRBcwxpV6shKMujVp) | [pami](https://open.spotify.com/artist/4cC1AQC0SUwmemy2FHBST8) | [cry jar](https://open.spotify.com/album/03pyvh1jEA8y8d9zgHtrko) | 2:59 |
 | 100 | [believer](https://open.spotify.com/track/1gsluHuD49kHNRffgIkxEJ) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [THE VALOUR HOUR](https://open.spotify.com/album/2FHhVwTH9nsnSRNfFO0aHv) | 2:57 |
 
-Snapshot ID: `AAAAAHBa0ygec9+IM7wF+a8gNnCrVzmx`
+Snapshot ID: `AAAAAB4IMYLhC1N2VDgY1mtare0SfqS0`

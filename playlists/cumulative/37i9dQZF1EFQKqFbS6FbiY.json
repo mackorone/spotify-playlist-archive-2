@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Sentimento no M\u00e1ximo 2.0",
+        "url": "https://open.spotify.com/album/4asOaoxIcNXJv5wLPSBS5V"
+      },
+      "artists": [
+        {
+          "name": "Tiaguinho Carvalho",
+          "url": "https://open.spotify.com/artist/3YTPwaAl7b7ve2E7fEfeMc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144186,
+      "name": "Adeus",
+      "url": "https://open.spotify.com/track/7hS49CsgrcdKMewHLtVxNy"
+    },
+    {
+      "album": {
         "name": "\u00c9 S\u00f3 Dizer Que Sim",
         "url": "https://open.spotify.com/album/4KngrxmbT1fr7Tkdqo1Sei"
       },

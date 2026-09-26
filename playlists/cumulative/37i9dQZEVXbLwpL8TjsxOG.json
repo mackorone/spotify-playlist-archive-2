@@ -14844,7 +14844,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 204068,
       "name": "Risk It All",
       "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD"
@@ -17588,7 +17588,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 159007,
       "name": "SWIM",
       "url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712"
@@ -22766,7 +22766,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 284000,
       "name": "\u51e1\u661f",
       "url": "https://open.spotify.com/track/07Y64md8ePTQuheCFhdlDZ"
@@ -23206,7 +23206,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 251387,
       "name": "\u53ea\u8981\u548c\u4f60\u5728\u4e00\u8d77",
       "url": "https://open.spotify.com/track/6BnnESswToNUBdif5h9aGP"
@@ -23480,7 +23480,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-10",
+      "date_removed": null,
       "duration_ms": 211720,
       "name": "\u56cd\u5e16\u8857",
       "url": "https://open.spotify.com/track/3hU9nGBhYJQwvF8BJ4PUcE"
@@ -24670,7 +24670,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 205933,
       "name": "\u601d\u89ba\u5931\u8abf",
       "url": "https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz"
@@ -27308,6 +27308,42 @@
       "duration_ms": 262105,
       "name": "\u6df1\u95a8 feat. Kelly Chen \u9673\u6167\u7433",
       "url": "https://open.spotify.com/track/10YtrR4JpndrvuI2vohpUM"
+    },
+    {
+      "album": {
+        "name": "\u6dfa\u7c89\u7d05",
+        "url": "https://open.spotify.com/album/2uba9qMeStHlwXLbUu0PYj"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232319,
+      "name": "\u6dfa\u7c89\u7d05 baby pink",
+      "url": "https://open.spotify.com/track/4S90MYCimsVK6C6o3UAnro"
+    },
+    {
+      "album": {
+        "name": "\u6dfa\u7c89\u7d05",
+        "url": "https://open.spotify.com/album/2uba9qMeStHlwXLbUu0PYj"
+      },
+      "artists": [
+        {
+          "name": "Gareth.T",
+          "url": "https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201816,
+      "name": "\u6dfa\u7c89\u7d05 pale pink",
+      "url": "https://open.spotify.com/track/3bHIyMzAs0BC3T0YVn4Ctb"
     },
     {
       "album": {
@@ -30174,7 +30210,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 245664,
       "name": "\u9060\u5728\u773c\u524d",
       "url": "https://open.spotify.com/track/6BC8sFJBG0XIoFZLrlI1Rc"
@@ -30520,7 +30556,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 195755,
       "name": "\u967d\u5149\u666e\u7167",
       "url": "https://open.spotify.com/track/60oVYVR5bZ5DYp7f2E9zYn"

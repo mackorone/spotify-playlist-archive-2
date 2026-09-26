@@ -3721,6 +3721,28 @@
     },
     {
       "album": {
+        "name": "Regardless EP",
+        "url": "https://open.spotify.com/album/0OU4IbDVtq0F1az5j3roBq"
+      },
+      "artists": [
+        {
+          "name": "P3PPER",
+          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
+        },
+        {
+          "name": "Jibaan",
+          "url": "https://open.spotify.com/artist/5A20HgnNenptlZIhbSFbvJ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227357,
+      "name": "Halcyon",
+      "url": "https://open.spotify.com/track/1A9xz99EOvP3KTApINsP0n"
+    },
+    {
+      "album": {
         "name": "Hardwired",
         "url": "https://open.spotify.com/album/6i4voLsQw51FbdxdjAbA7n"
       },

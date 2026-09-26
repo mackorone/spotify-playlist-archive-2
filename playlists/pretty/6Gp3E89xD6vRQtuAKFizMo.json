@@ -1,13 +1,45 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43256,
+  "num_followers": 43255,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAa2QWDWrJaeMzgE5+SRP2iHt4xkfAQ",
+  "snapshot_id": "AAAa3YJXY1EyaOGSE1a0die6KLG+bCG6",
   "tracks": [
+    {
+      "added_at": "2026-09-25 10:45:05",
+      "album": {
+        "name": "Cut Me Open",
+        "url": "https://open.spotify.com/album/5s1ZHACKonkFcsse4WZUj5"
+      },
+      "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        }
+      ],
+      "duration_ms": 147555,
+      "name": "Cut Me Open",
+      "url": "https://open.spotify.com/track/7MQfC67xwZT2TYbq0HqygO"
+    },
+    {
+      "added_at": "2026-09-25 10:44:50",
+      "album": {
+        "name": "2 Phones",
+        "url": "https://open.spotify.com/album/4H6ZkiEsZ6zurMMWxxGiHC"
+      },
+      "artists": [
+        {
+          "name": "Ghost Jr",
+          "url": "https://open.spotify.com/artist/4eFVDYhMMfEXPMJEPMooeQ"
+        }
+      ],
+      "duration_ms": 173061,
+      "name": "2 Phones",
+      "url": "https://open.spotify.com/track/1dXUx4CnMaqoG3YPfgv6fI"
+    },
     {
       "added_at": "2026-09-18 05:55:04",
       "album": {

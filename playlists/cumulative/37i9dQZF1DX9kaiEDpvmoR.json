@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "L\u00e4ngtan till v\u00e5ren",
+        "url": "https://open.spotify.com/album/6OFxTZikOMONn2rlBXbmJW"
+      },
+      "artists": [
+        {
+          "name": "Lars Winnerb\u00e4ck",
+          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245506,
+      "name": "50 \u00e5r i V\u00e4ster\u00e5s",
+      "url": "https://open.spotify.com/track/21yl33grFUgtUVt7KjdAkR"
+    },
+    {
+      "album": {
         "name": "A Fragile Thing",
         "url": "https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l"
       },
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 200448,
       "name": "Good Time Is Coming",
       "url": "https://open.spotify.com/track/2slo0Qu8x9aVvSnVr5MxUn"
@@ -7009,7 +7027,7 @@
     },
     {
       "album": {
-        "name": "Mitt hj\u00e4rta en rebell",
+        "name": "MITT HJ\u00c4RTA EN REBELL",
         "url": "https://open.spotify.com/album/2wSAeBhPk56MwhfaXhfePx"
       },
       "artists": [
@@ -7022,7 +7040,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 191635,
-      "name": "Mitt hj\u00e4rta en rebell",
+      "name": "MITT HJ\u00c4RTA EN REBELL",
       "url": "https://open.spotify.com/track/5vWwVISfokXhL3ZAK7Y5yj"
     },
     {
@@ -8833,6 +8851,24 @@
     },
     {
       "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/4Hl2KEhHL8HVL9fWlcbWBB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155648,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/6eVoCbEtFjzfYeWJjkD3gP"
+    },
+    {
+      "album": {
         "name": "Siljans strand / Midsommarvisa",
         "url": "https://open.spotify.com/album/3JilTaTno4h9mQtackWJtw"
       },
@@ -10292,24 +10328,6 @@
       "duration_ms": 190881,
       "name": "Ton\u00e5rsland",
       "url": "https://open.spotify.com/track/07PdIAugd5ZoKN8Pq1zy8Q"
-    },
-    {
-      "album": {
-        "name": "L\u00e4ngtan till v\u00e5ren",
-        "url": "https://open.spotify.com/album/6OFxTZikOMONn2rlBXbmJW"
-      },
-      "artists": [
-        {
-          "name": "Lars Winnerb\u00e4ck",
-          "url": "https://open.spotify.com/artist/33zLgL7tT1vg7eRpWYX5uI"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/21yl33grFUgtUVt7KjdAkR"
     },
     {
       "album": {

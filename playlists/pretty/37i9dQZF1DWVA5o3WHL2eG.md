@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: badmómzjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,235 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,234 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 40 | [love of my life](https://open.spotify.com/track/6LA3YoaoUanUykfzT9sip0) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n) | [love of my life](https://open.spotify.com/album/6VFQH171fCVaTcftFPliXy) | 2:39 |
 | 41 | [Weißes Kleid](https://open.spotify.com/track/4vIl1z8R2hfWXbh8yOxKmj) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [Weißes Kleid](https://open.spotify.com/album/4DxfBlssviPzjpAnntTULD) | 2:20 |
 | 42 | [Faded Echos](https://open.spotify.com/track/7aoiix7qtd4JMAAJaOjJ2s) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [The Purple Cat Edition](https://open.spotify.com/album/2MyzrfuvyuiBLWGPP9qUsE) | 5:26 |
-| 43 | [du bist so schön](https://open.spotify.com/track/3c8HrgTCEET4fY1iPZMf66) | [selene](https://open.spotify.com/artist/3Mg9i6HVFg0ETCcGMqNhU9) | [du bist so schön](https://open.spotify.com/album/6tuAfBTGcGMC14iu5C27Rf) | 2:23 |
-| 44 | [DIVA CLUB](https://open.spotify.com/track/4Sb1E7Z2bAigEjtGQNSK1o) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [DIVA CLUB](https://open.spotify.com/album/1qkc6VY7VlrJen8mBcfKbu) | 4:08 |
+| 43 | [DIVA CLUB](https://open.spotify.com/track/4Sb1E7Z2bAigEjtGQNSK1o) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [DIVA CLUB](https://open.spotify.com/album/1qkc6VY7VlrJen8mBcfKbu) | 4:08 |
+| 44 | [du bist so schön](https://open.spotify.com/track/3c8HrgTCEET4fY1iPZMf66) | [selene](https://open.spotify.com/artist/3Mg9i6HVFg0ETCcGMqNhU9) | [du bist so schön](https://open.spotify.com/album/6tuAfBTGcGMC14iu5C27Rf) | 2:23 |
 | 45 | [Lazy](https://open.spotify.com/track/6o3Gkh1ADRpdJ426MISje7) | [Frida Darko](https://open.spotify.com/artist/5nvhpnFpC7rsQ0mWDNx4bn) | [Lazy](https://open.spotify.com/album/4mOKUmDMj3Nla9Re7vAJo4) | 4:56 |
 | 46 | [poème flou](https://open.spotify.com/track/7vBvHMgR7fw9tYqyNFknXy) | [PAU](https://open.spotify.com/artist/78N4EdgLLbUGyOlvJiGsM9) | [poème flou](https://open.spotify.com/album/0P3KJJONdWDJAx1h4X4fgN) | 2:24 |
-| 47 | [Wo bist du](https://open.spotify.com/track/5Il7KZKdX0saAscs0JNBJa) | [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt) | [Wo bist du](https://open.spotify.com/album/5d2xuuB7zmVHz5BIAPeJNX) | 2:20 |
-| 48 | [R.I.P](https://open.spotify.com/track/1crlF8U4zh5swy1zdq1HFm) | [Aisha Vibes](https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN) | [R.I.P](https://open.spotify.com/album/2Tzv3cwPhh9m65vaTg6IAE) | 3:05 |
+| 47 | [R.I.P](https://open.spotify.com/track/1crlF8U4zh5swy1zdq1HFm) | [Aisha Vibes](https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN) | [R.I.P](https://open.spotify.com/album/2Tzv3cwPhh9m65vaTg6IAE) | 3:05 |
+| 48 | [Wo bist du](https://open.spotify.com/track/5Il7KZKdX0saAscs0JNBJa) | [Elly](https://open.spotify.com/artist/5ESkKkvLe33xT9Jsr8GBDt) | [Wo bist du](https://open.spotify.com/album/5d2xuuB7zmVHz5BIAPeJNX) | 2:20 |
 | 49 | [Tunnelblick](https://open.spotify.com/track/7uO6VqHLUflWaKe2hJrr7J) | [Girlwoman](https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0) | [Tunnelblick](https://open.spotify.com/album/48SFAfajk2gzwRzrKCpKst) | 3:34 |
 | 50 | [M42](https://open.spotify.com/track/5TCGivZkMvwCTqgEo6fSWL) | [CAVA](https://open.spotify.com/artist/43J6iItIIExbh3sEHISaD6) | [M42](https://open.spotify.com/album/4vJUOkS14MfUax09dIybt6) | 2:56 |
 

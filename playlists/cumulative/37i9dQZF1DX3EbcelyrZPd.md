@@ -4,7 +4,7 @@
 
 > Get your fill of vibes straight out of Tanzania\. Cover: Joel Lwaga
 
-736 songs - 1 day 17 hr 42 min
+736 songs - 1 day 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Nikilala](https://open.spotify.com/track/6RFGm7BDBsbGM2A4Q332n4) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [Nikilala](https://open.spotify.com/album/1cUWkCUttv5J9EyGJutwWL) | 2:30 | 2023-03-09 | 2023-06-23 |
 | [Nikilewa](https://open.spotify.com/track/1qcGEe6axTplnCkOGnztSm) | [Loui](https://open.spotify.com/artist/53SBWd8nuUmKxJPS9quQi5) | [Nikilewa](https://open.spotify.com/album/5GKOjH3Mz96OS8jXHr2g6Z) | 3:29 | 2023-11-02 | 2024-04-19 |
 | [Nikizipata](https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Nikizipata](https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4) | 3:00 | 2021-11-25 | 2022-02-25 |
+| [Niko Single](https://open.spotify.com/track/6gAOuijLhyErzLcnf6VMKd) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [KANDA](https://open.spotify.com/album/34KsjXx5WtGnS9v7HsCCxc) | 2:52 | 2026-09-25 |  |
 | [Nikumbuke](https://open.spotify.com/track/1KfQkotQJ73JT93plHOxTh) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Nikumbuke](https://open.spotify.com/album/0yOxz1GgBgXb71mIbyTTsF) | 4:05 | 2026-09-25 |  |
 | [Nikupe](https://open.spotify.com/track/3sdHTy7PyUwcxdkot3FOP2) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK), [D Love](https://open.spotify.com/artist/6X3Lq8GTJirf9y3mfvDoPU) | [Nikupe](https://open.spotify.com/album/6rb4FpYQdr6woXj3NyKTbk) | 3:10 | 2026-02-05 | 2026-06-26 |
 | [Nikupende \(feat\. Q\-Mark & Slick Widit\)](https://open.spotify.com/track/0vmx7Ir3yqYzLvtDGmQK7l) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl), [Afriikan Papi](https://open.spotify.com/artist/4fDmMQuFAIHnsKbmfOY8yO), [Q\-Mark](https://open.spotify.com/artist/1PINqStNpc48PWNAMDQpVj), [Slick Widit](https://open.spotify.com/artist/3bDWpyZXR29vsVsjguxLWe) | [Nikupende \(feat\. Afriikan Papi, Q\-Mark & Slick Widit\)](https://open.spotify.com/album/5CaPbeq0J1ugZNNfN8MVYW) | 4:26 | 2023-10-19 | 2024-01-19 |
@@ -630,7 +631,6 @@
 | [Toto \(feat\. Barnaba\)](https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Toto \(feat\. Barnaba\)](https://open.spotify.com/album/0j9QtYqhQwm5fcjgwFfK0A) | 3:39 | 2024-10-31 | 2025-02-21 |
 | [Totorimi \(feat\. Billnass\)](https://open.spotify.com/track/73y9Vj3ST8UfRj17wtCckA) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4) | [Totorimi \(feat\. Billnass\)](https://open.spotify.com/album/4jzgBHqnW6dwSdN7pURg5k) | 3:50 | 2024-09-27 | 2025-10-17 |
 | [Touch](https://open.spotify.com/track/6LhhKqI7A7Pyn6TQp0KqNq) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Touch](https://open.spotify.com/album/2yBzGSKc9W0KyTb7fwowhW) | 3:45 | 2026-08-13 |  |
-| [Track 4](https://open.spotify.com/track/6gAOuijLhyErzLcnf6VMKd) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [KANDA](https://open.spotify.com/album/34KsjXx5WtGnS9v7HsCCxc) | 0:00 | 2026-09-25 |  |
 | [Tubariki](https://open.spotify.com/track/13mPOz1niVXYDOY1j8bXdx) | [Ibraah](https://open.spotify.com/artist/0Dxcbz9hjyAdLULzwZcxWe), [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Whozu](https://open.spotify.com/artist/1swMdo3gNazUp0Jao7AHy3) | [Tubariki](https://open.spotify.com/album/71HhXeZoBGEV9zgEYTEDnI) | 4:46 | 2024-07-04 | 2025-05-16 |
 | [Tucheze](https://open.spotify.com/track/02usEBrKS2uXxRKHoSkMxP) | [Abby Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [Tucheze](https://open.spotify.com/album/0o9XMCv7eslk5hhMl7jlRR) | 2:55 | 2021-10-29 | 2022-02-11 |
 | [Tumetoka Mbali](https://open.spotify.com/track/1TUAO4gqLN8BNxXCzuDU2a) | [Bytar Beast](https://open.spotify.com/artist/5uCIQxTHZlW51VhsXAZ6P4), [Jaivah](https://open.spotify.com/artist/6MKLtjYnjCD7u87mPsvJo3) | [Tumetoka Mbali](https://open.spotify.com/album/1JoHFqwW9afic2StZ5kxZW) | 3:26 | 2024-10-03 | 2025-04-12 |

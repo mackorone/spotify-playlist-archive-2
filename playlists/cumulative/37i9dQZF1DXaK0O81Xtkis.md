@@ -4,7 +4,7 @@
 
 > a little indie, a little pop, soda featuring Henry Morris
 
-1,674 songs - 3 day 11 hr 38 min
+1,676 songs - 3 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1092,7 +1092,7 @@
 | [Only Fan \(feat\. Cordae\)](https://open.spotify.com/track/6514uhzGpeyocCHv5kBih4) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Infinite Dream](https://open.spotify.com/album/7CY2Iv5eX7eGAOdRNHfIBr) | 2:33 | 2022-09-16 | 2022-11-12 |
 | [only human](https://open.spotify.com/track/1XLZcAceP6w4b7f6IdhYZ8) | [Munn](https://open.spotify.com/artist/3cKS6z9VNfN9u5ZyNiph4l), [Delanie Leclerc](https://open.spotify.com/artist/547XK7rrl55NSCTqDa7TUx) | [only human.](https://open.spotify.com/album/0IB5gkV5Te5PRuA2KKXqhQ) | 2:30 | 2021-10-29 | 2022-01-22 |
 | [ONLY ONE](https://open.spotify.com/track/04xnC2Uwq38RPrwCLv6f0G) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:03 | 2022-09-16 | 2022-10-15 |
-| [Only One](https://open.spotify.com/track/1bJX1R4D9xJtZZpc1VAUXY) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Only One](https://open.spotify.com/album/7wXdnWZsezOlWML2CNCtAm) | 2:46 | 2026-05-22 |  |
+| [Only One](https://open.spotify.com/track/1bJX1R4D9xJtZZpc1VAUXY) | [Will Swinton](https://open.spotify.com/artist/1fUcXY3KcnNvCP2dnF7XCh) | [Only One](https://open.spotify.com/album/7wXdnWZsezOlWML2CNCtAm) | 2:46 | 2026-05-22 | 2026-09-26 |
 | [Orange Wine](https://open.spotify.com/track/2v1eNKtCcOThjhGcXAgI3V) | [Arthur Hill](https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg) | [Orange Wine](https://open.spotify.com/album/1Y3SirSXiKgZMnrPQubauH) | 3:10 | 2026-09-11 |  |
 | [orbit](https://open.spotify.com/track/1xMtUb8b1DxW89FJfxOwPN) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [orbit](https://open.spotify.com/album/5xLRIrNswkxjD0U0z47Rw2) | 3:09 | 2023-11-24 | 2024-01-05 |
 | [othello](https://open.spotify.com/track/06ss61sRVXC2DuYh2GcoVt) | [hard life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [othello](https://open.spotify.com/album/7C4tEL9g4Vb2Dsn9Q1H52h) | 3:12 | 2025-04-11 | 2025-06-14 |
@@ -1243,7 +1243,7 @@
 | [See You in the Summer](https://open.spotify.com/track/5cjaXus6h65tKqjFf2ULU7) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [See You in the Summer](https://open.spotify.com/album/0T7sPKFNVkOgawv6t6U1IM) | 3:05 | 2026-07-24 |  |
 | [See You Later](https://open.spotify.com/track/0PCtDCMDypMnUhVrLyOQZs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [The Dark](https://open.spotify.com/album/6S2FI6xzGq3INs2WnlB9ou) | 2:35 | 2023-10-13 | 2024-01-05 |
 | [See You Later](https://open.spotify.com/track/1Gu9Ub6kjlbsk64jY7Qjgs) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [See You Later](https://open.spotify.com/album/3F5wWjyaj0raSg2JFK1Yqw) | 2:35 | 2023-06-30 | 2023-10-19 |
-| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-03-27 |  |
+| [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 | 2026-03-27 | 2026-09-26 |
 | [self\-fulfilling prophecy](https://open.spotify.com/track/582JbWRQHuIenmQw1AsKPE) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [self\-fulfilling prophecy](https://open.spotify.com/album/6TSDeEgkTScNo2YSJZkCjI) | 2:47 | 2025-06-06 | 2025-07-02 |
 | [Semi Pro](https://open.spotify.com/track/5pAEaufx5VFIl8ct3kWtOt) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Semi Pro](https://open.spotify.com/album/52lZvD8hEnCoYnnvVC6dbp) | 3:02 | 2021-12-03 | 2022-02-05 |
 | [September Baby](https://open.spotify.com/track/5QlhAs2Xud8nAIGLEmL9I3) | [The Brummies](https://open.spotify.com/artist/1B9SbgFtfWSlUvAd1y0AaA) | [September Baby](https://open.spotify.com/album/6lIFcbUTt0Hh2d7HSKnnDh) | 3:39 | 2024-08-30 | 2024-11-06 |
@@ -1316,6 +1316,7 @@
 | [sophisticated](https://open.spotify.com/track/6p7Fm6TupbX3NU4fsJx5wG) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [sophisticated](https://open.spotify.com/album/1W9TZkECRCF5b1bYbdJxeS) | 2:59 | 2022-08-19 | 2022-09-03 |
 | [sore throat](https://open.spotify.com/track/3RdB7tA0M8IPDqZYoDdqAx) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [sore throat](https://open.spotify.com/album/5rE87P7Br0k6iXrC43ztZh) | 2:24 | 2025-09-19 | 2025-10-11 |
 | [Sorry I'm Here For Someone Else](https://open.spotify.com/track/3x3K1RP3Zfi2qeMR8kyrNO) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Sorry I'm Here For Someone Else](https://open.spotify.com/album/38PKSUSFXnO4mbUhLC4ELZ) | 2:36 | 2025-02-28 | 2025-06-21 |
+| [Sorry Much](https://open.spotify.com/track/31kc2aRTsb1TwByv2Zd3RC) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Loving and Losing](https://open.spotify.com/album/3vq2VF9ZyCVqnE7Apciczd) | 2:54 | 2026-09-25 |  |
 | [Sorry Sorry](https://open.spotify.com/track/17YpFF4E6oMFZWKzaXnZdp) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Sorry Sorry](https://open.spotify.com/album/3I2q66LfIWOWrRniUc4XGC) | 3:28 | 2024-05-10 | 2024-06-29 |
 | [SOS](https://open.spotify.com/track/40fgimZMmbb21zLiyDa2j3) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [SOS](https://open.spotify.com/album/6YhIk6y8ENfQN7qcSIwuvB) | 3:16 | 2024-01-26 | 2024-02-17 |
 | [SOS](https://open.spotify.com/track/6lg0ZagTCrEnuVSoOz8I5W) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Happy Sad Songs](https://open.spotify.com/album/0kyYIrS10ZxHFK8tvgAynM) | 2:10 | 2024-05-24 | 2024-07-19 |
@@ -1412,6 +1413,7 @@
 | [take the hit](https://open.spotify.com/track/7hcNXgnBncyybhQVhTFNd7) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything and nothing](https://open.spotify.com/album/1V78TBOwsEy3F87x0rAxhO) | 2:20 | 2024-05-10 | 2024-07-19 |
 | [Takeaway Cup](https://open.spotify.com/track/65CvImGO0oPmybnQix1SVv) | [Chris Bates](https://open.spotify.com/artist/1wMxoWB76tKp8gOJDGRxxJ) | [Takeaway Cup](https://open.spotify.com/album/12PdiG9F9Xz8tFYIZXwUUn) | 2:29 | 2023-09-15 | 2023-10-07 |
 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 | 2024-07-12 | 2024-09-14 |
+| [Talk](https://open.spotify.com/track/3P8mp28VUVV0YQtyAYgwRM) | [Hudson Stone](https://open.spotify.com/artist/2i8MybJZlckvB0dnB8oLFH) | [Talk](https://open.spotify.com/album/2OFhbCpaulAiQr1AxmKIMP) | 3:01 | 2026-09-25 |  |
 | [TALK](https://open.spotify.com/track/6Kq3k4yZdiwfxvYRBy4Qpv) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [songs to drive to](https://open.spotify.com/album/2XIykPMdAG9JRZ8xWqS7Eu) | 2:53 | 2025-03-07 | 2025-05-17 |
 | [Talk Me Down](https://open.spotify.com/track/5RfTkZXXAq7ofaPOBZAXvb) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Talk Me Down](https://open.spotify.com/album/0ksRUgPVLT45egqtYf0yeL) | 2:52 | 2025-02-28 | 2025-06-28 |
 | [TALK TO ME](https://open.spotify.com/track/7m0GDXRGF3UlFxJ989v6VH) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [TALK TO ME](https://open.spotify.com/album/1ZGnMpAYWjIS5LIHGs9Yib) | 2:38 | 2025-08-08 | 2025-11-15 |

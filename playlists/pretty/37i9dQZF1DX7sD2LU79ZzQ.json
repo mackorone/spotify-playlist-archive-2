@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Salma Salsabil",
-  "num_followers": 152801,
+  "num_followers": 152861,
   "original_name": "Naik Daun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKOs7fB2mEBv4Cm2UIdz6s7/zv65",
+  "snapshot_id": "AAAAAMm+CFbryQ0H5GAKLFkG+fRAjxV/",
   "tracks": [
     {
       "added_at": "2026-09-24 23:21:11",
@@ -87,6 +87,22 @@
       "duration_ms": 236810,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/6NT1C7sOxWRVsUykEJ6one"
+    },
+    {
+      "added_at": "2026-09-24 23:21:11",
+      "album": {
+        "name": "Maju Satu Satu",
+        "url": "https://open.spotify.com/album/2kAboCQpVrE808rfLHEQmJ"
+      },
+      "artists": [
+        {
+          "name": "Tsaqib",
+          "url": "https://open.spotify.com/artist/2o1sa27U08Oa7jRLrZrFlx"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Maju Satu Satu",
+      "url": "https://open.spotify.com/track/3jBlb7ZMXQHOBLipWeXIDW"
     },
     {
       "added_at": "2026-09-24 23:21:11",
@@ -243,6 +259,22 @@
       "duration_ms": 233968,
       "name": "Rumah Yang Bising",
       "url": "https://open.spotify.com/track/2LV5uQcjkd7a8WJj01Iy4r"
+    },
+    {
+      "added_at": "2026-09-24 23:21:11",
+      "album": {
+        "name": "Tak Semudah Hompimpa",
+        "url": "https://open.spotify.com/album/7MVHYuCr4lIJ1MaU944tdb"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "duration_ms": 204520,
+      "name": "Tak Semudah Hompimpa",
+      "url": "https://open.spotify.com/track/0Q82xVk3e34a6InV5sQHeQ"
     },
     {
       "added_at": "2026-09-24 23:21:11",
@@ -409,20 +441,20 @@
       "url": "https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp"
     },
     {
-      "added_at": "2026-09-24 23:21:11",
+      "added_at": "2026-09-25 06:30:36",
       "album": {
-        "name": "Tak Semudah Hompimpa",
-        "url": "https://open.spotify.com/album/7MVHYuCr4lIJ1MaU944tdb"
+        "name": "Seratus Hidup Lagi",
+        "url": "https://open.spotify.com/album/43EEGIVO0AUOx9nctLN4Ue"
       },
       "artists": [
         {
-          "name": "Nabila Taqiyyah",
-          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+          "name": "Meidra",
+          "url": "https://open.spotify.com/artist/1ncnrVp75hhvVYoseGD9mD"
         }
       ],
-      "duration_ms": 204520,
-      "name": "Tak Semudah Hompimpa",
-      "url": "https://open.spotify.com/track/0Q82xVk3e34a6InV5sQHeQ"
+      "duration_ms": 211665,
+      "name": "Seratus Hidup Lagi",
+      "url": "https://open.spotify.com/track/7gTaUqRa3geMRK2QAuz7pW"
     },
     {
       "added_at": "2026-09-24 23:21:11",
@@ -455,6 +487,22 @@
       "duration_ms": 186570,
       "name": "Ceritanya Jatuh Cinta",
       "url": "https://open.spotify.com/track/0f9J5rMcMhCQiPGSJHvr7G"
+    },
+    {
+      "added_at": "2026-09-25 06:30:36",
+      "album": {
+        "name": "Dunia dan Seisinya",
+        "url": "https://open.spotify.com/album/6trwcUAKmtcddQWTxCBA1D"
+      },
+      "artists": [
+        {
+          "name": "Rony Parulian",
+          "url": "https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ"
+        }
+      ],
+      "duration_ms": 230752,
+      "name": "Sampai Ujung Batas",
+      "url": "https://open.spotify.com/track/7BNvfb7xnggIInGUj6kKxa"
     },
     {
       "added_at": "2026-09-24 23:21:11",
@@ -607,6 +655,26 @@
       "duration_ms": 226560,
       "name": "Sumpah Percuma",
       "url": "https://open.spotify.com/track/27KVvr6QgfsToa1774HDMz"
+    },
+    {
+      "added_at": "2026-09-25 06:30:36",
+      "album": {
+        "name": "Aku Dan Kamu (Tak Ingin Terpisah)",
+        "url": "https://open.spotify.com/album/04m9NcElzVdytReDsUm3pG"
+      },
+      "artists": [
+        {
+          "name": "Adiw",
+          "url": "https://open.spotify.com/artist/0eZiFlsqZflber3eKOfYWa"
+        },
+        {
+          "name": "Tiara Effendy",
+          "url": "https://open.spotify.com/artist/2fOTPwnARqKiw6FvDgUJLg"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "Aku Dan Kamu (Tak Ingin Terpisah)",
+      "url": "https://open.spotify.com/track/69VeZLzqr4fRrwxyvM7zfK"
     },
     {
       "added_at": "2026-09-24 23:21:11",
@@ -1131,22 +1199,6 @@
       "duration_ms": 237695,
       "name": "Menunggu",
       "url": "https://open.spotify.com/track/3ieJ6cvnM29I5EWIUR8OOD"
-    },
-    {
-      "added_at": "2026-09-24 23:21:11",
-      "album": {
-        "name": "Maju Satu Satu",
-        "url": "https://open.spotify.com/album/2kAboCQpVrE808rfLHEQmJ"
-      },
-      "artists": [
-        {
-          "name": "Tsaqib",
-          "url": "https://open.spotify.com/artist/2o1sa27U08Oa7jRLrZrFlx"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Maju Satu Satu",
-      "url": "https://open.spotify.com/track/3jBlb7ZMXQHOBLipWeXIDW"
     },
     {
       "added_at": "2026-09-24 23:21:11",

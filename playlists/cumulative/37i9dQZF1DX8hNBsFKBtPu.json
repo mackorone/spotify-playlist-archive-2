@@ -161,6 +161,24 @@
     },
     {
       "album": {
+        "name": "124",
+        "url": "https://open.spotify.com/album/393ZYZG7kp51f2WPrvPKLc"
+      },
+      "artists": [
+        {
+          "name": "JOSVA",
+          "url": "https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175605,
+      "name": "124",
+      "url": "https://open.spotify.com/track/5hzSuUxi6XVerUeVhKmQp5"
+    },
+    {
+      "album": {
         "name": "2 hands",
         "url": "https://open.spotify.com/album/2BdJwrx2wMJi7x06wWkUFg"
       },
@@ -2961,6 +2979,28 @@
     },
     {
       "album": {
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
+    },
+    {
+      "album": {
         "name": "What Are The Odds",
         "url": "https://open.spotify.com/album/53Rf76kJAhJNtyrxLgKTRa"
       },
@@ -4211,6 +4251,24 @@
     },
     {
       "album": {
+        "name": "Dysphoria",
+        "url": "https://open.spotify.com/album/5jouOJvb2kuqnlrKm04RbT"
+      },
+      "artists": [
+        {
+          "name": "Mekdes",
+          "url": "https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190372,
+      "name": "Dysphoria",
+      "url": "https://open.spotify.com/track/0CbZTdrF4xnNN1ggbnXOnZ"
+    },
+    {
+      "album": {
         "name": "d\u00a3aler",
         "url": "https://open.spotify.com/album/7ikoTkIbCm6jpWOHa9Cwde"
       },
@@ -4280,6 +4338,42 @@
       "duration_ms": 192208,
       "name": "D\u00f8 lykkelig",
       "url": "https://open.spotify.com/track/1W7VoI0jZwHtNlBZpkTCHu"
+    },
+    {
+      "album": {
+        "name": "hej far",
+        "url": "https://open.spotify.com/album/016lJisgZ13xUtaBMDXkeM"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144950,
+      "name": "d\u00f8 med dig",
+      "url": "https://open.spotify.com/track/2q5nkpJMREI1QHUEOKFBJj"
+    },
+    {
+      "album": {
+        "name": "D\u00f8 Ung",
+        "url": "https://open.spotify.com/album/152IPIxDK4D18mHienosaX"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201939,
+      "name": "D\u00f8 Ung",
+      "url": "https://open.spotify.com/track/1kQEhz2848yF0G6ZdDGxcn"
     },
     {
       "album": {
@@ -7907,6 +8001,32 @@
     },
     {
       "album": {
+        "name": "Hver Eneste Gang",
+        "url": "https://open.spotify.com/album/7i3y8UzOiZOXOxAwZymwiQ"
+      },
+      "artists": [
+        {
+          "name": "Thor Farlov",
+          "url": "https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229875,
+      "name": "Hver Eneste Gang",
+      "url": "https://open.spotify.com/track/1p8AjTC2doJ2gau4MNbnZ8"
+    },
+    {
+      "album": {
         "name": "Hvilel\u00f8s",
         "url": "https://open.spotify.com/album/6UyX91K0TRsZKaFGcVU9QP"
       },
@@ -8720,7 +8840,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 173547,
       "name": "Ik Giv Slip",
       "url": "https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt"
@@ -9090,7 +9210,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 165251,
       "name": "Jeg har ik tabt mig",
       "url": "https://open.spotify.com/track/7pPDQvQ26Vm8loS3IZgcxs"
@@ -14300,10 +14420,28 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 179318,
       "name": "September",
       "url": "https://open.spotify.com/track/1uLYYoPX1crAgFEcyCSVIl"
+    },
+    {
+      "album": {
+        "name": "Septembersol",
+        "url": "https://open.spotify.com/album/2zGAvHYfKm6dHMx31A8FoU"
+      },
+      "artists": [
+        {
+          "name": "Mona Moroni",
+          "url": "https://open.spotify.com/artist/38PAFXQi0atIV2ztzlIdAS"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Septembersol",
+      "url": "https://open.spotify.com/track/7G49uERj3bMgHiqfv4PVMf"
     },
     {
       "album": {
@@ -14876,6 +15014,28 @@
       "duration_ms": 148500,
       "name": "So What (feat. milo)",
       "url": "https://open.spotify.com/track/3iar0tVgdzwpvQechUtUsz"
+    },
+    {
+      "album": {
+        "name": "Det, Man Vander, Vokser",
+        "url": "https://open.spotify.com/album/6E6WiXDFMhMxLO4FjAdH6r"
+      },
+      "artists": [
+        {
+          "name": "Sira Jovina",
+          "url": "https://open.spotify.com/artist/6J9AFauvtJJ8brNaiWwWat"
+        },
+        {
+          "name": "Oilly Wallace",
+          "url": "https://open.spotify.com/artist/2Str5hCf89OLMWRz2zwJ6F"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171614,
+      "name": "Solrig Altan",
+      "url": "https://open.spotify.com/track/5t9Zq4DT9FtqXOqB5Vl4bI"
     },
     {
       "album": {

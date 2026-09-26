@@ -1,13 +1,33 @@
 {
-  "description": "Featuring that new vintage. Cover: Frank Mastra",
-  "num_followers": 447800,
+  "description": "Featuring that new vintage. Cover: Magnus Farrell",
+  "num_followers": 447820,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL6IXbEQ+y7dGp1vSfbYGW0vjEsv",
+  "snapshot_id": "AAAAABY9KDginWeMzXHGQDy0fYyW/8Zy",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:21:58",
+      "album": {
+        "name": "Groove Therapy",
+        "url": "https://open.spotify.com/album/3xSvgav5fUUTKYFTLk9gMb"
+      },
+      "artists": [
+        {
+          "name": "Magnus Ferrell",
+          "url": "https://open.spotify.com/artist/5CljSCTqoS1Yu0tNJZJcKe"
+        },
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "duration_ms": 166841,
+      "name": "She\u2019s Gonna Break My Heart",
+      "url": "https://open.spotify.com/track/6FqoCnCIuNXNh4H6V7Aux3"
+    },
     {
       "added_at": "2026-08-28 04:02:54",
       "album": {
@@ -23,6 +43,22 @@
       "duration_ms": 203446,
       "name": "Show Me How",
       "url": "https://open.spotify.com/track/1PBnd0988GaZgLhhReu2SM"
+    },
+    {
+      "added_at": "2026-09-25 04:21:58",
+      "album": {
+        "name": "Heartblush",
+        "url": "https://open.spotify.com/album/6psB217RGciVr55Ss6c1MI"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "duration_ms": 204827,
+      "name": "Heartblush",
+      "url": "https://open.spotify.com/track/0AGcI0jKRUFTlVF0dpffsk"
     },
     {
       "added_at": "2026-08-28 04:02:54",
@@ -55,6 +91,22 @@
       "duration_ms": 175000,
       "name": "Ego Talking",
       "url": "https://open.spotify.com/track/3XGuVdPaYpIj48GOl711bK"
+    },
+    {
+      "added_at": "2026-09-25 04:21:58",
+      "album": {
+        "name": "Take Away My Problems",
+        "url": "https://open.spotify.com/album/1QthikCvDI8Bt7QAODFQ7h"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "duration_ms": 156864,
+      "name": "Jennifer",
+      "url": "https://open.spotify.com/track/4oF46suNctrzdFKGw4CQAv"
     },
     {
       "added_at": "2026-09-11 04:21:06",
@@ -359,22 +411,6 @@
       "duration_ms": 248203,
       "name": "My Love",
       "url": "https://open.spotify.com/track/1EQzwySOz9MxpbPIhzj5Mh"
-    },
-    {
-      "added_at": "2026-08-07 17:46:39",
-      "album": {
-        "name": "If You Ever Loved Me",
-        "url": "https://open.spotify.com/album/1H4V4rCppexGI2Ubqs1N8V"
-      },
-      "artists": [
-        {
-          "name": "Hope Winter",
-          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
-        }
-      ],
-      "duration_ms": 172349,
-      "name": "If You Ever Loved Me",
-      "url": "https://open.spotify.com/track/1RzL3slVvnwjo06s4rgM6x"
     },
     {
       "added_at": "2026-07-31 04:01:15",
@@ -1131,38 +1167,6 @@
       "duration_ms": 191495,
       "name": "Love Bites Back",
       "url": "https://open.spotify.com/track/7uL0VRG67JdPMw9uDg3FWE"
-    },
-    {
-      "added_at": "2026-03-28 20:26:15",
-      "album": {
-        "name": "Missing You",
-        "url": "https://open.spotify.com/album/0Cs8yc9v730VOmCOcAD6pC"
-      },
-      "artists": [
-        {
-          "name": "Hope Winter",
-          "url": "https://open.spotify.com/artist/0z6HuSgeJW8svCflyICYN6"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/1EgGW9s2H8zNGXQHVMcUnj"
-    },
-    {
-      "added_at": "2026-02-23 17:14:33",
-      "album": {
-        "name": "prettyboy",
-        "url": "https://open.spotify.com/album/4u2Y7ehSkcpYg4LWgJVlsU"
-      },
-      "artists": [
-        {
-          "name": "Mira Housey",
-          "url": "https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg"
-        }
-      ],
-      "duration_ms": 152125,
-      "name": "prettyboy",
-      "url": "https://open.spotify.com/track/2ZhGio1HmhJWHI4D4B9FET"
     },
     {
       "added_at": "2026-04-03 04:58:46",

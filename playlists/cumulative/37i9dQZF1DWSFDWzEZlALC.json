@@ -4252,7 +4252,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 212000,
       "name": "bhs&lilien (checkt ihr wegen brasilien und so?)",
       "url": "https://open.spotify.com/track/1N6uQb1zuKHrKm7sgmJBaj"
@@ -10988,6 +10988,24 @@
       "duration_ms": 232453,
       "name": "Forrest Gump",
       "url": "https://open.spotify.com/track/2z6bOGp2SoQJuIH0TvxlsC"
+    },
+    {
+      "album": {
+        "name": "Fous!",
+        "url": "https://open.spotify.com/album/7r9AubIxGLReZWAyNYExck"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126136,
+      "name": "Fous!",
+      "url": "https://open.spotify.com/track/5TjBYNNSQD5djlxGOwilDo"
     },
     {
       "album": {
@@ -19434,6 +19452,24 @@
       "duration_ms": 131992,
       "name": "lass los",
       "url": "https://open.spotify.com/track/7ds5QDfQbzheDtl7NOOcPc"
+    },
+    {
+      "album": {
+        "name": "Das Beste vom Schlechten",
+        "url": "https://open.spotify.com/album/3j6hBOHsEloHQWkNNFg0IU"
+      },
+      "artists": [
+        {
+          "name": "error",
+          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146134,
+      "name": "Lass los (wenn du musst)",
+      "url": "https://open.spotify.com/track/0NVMXZNNgwa3boKmiMJ5d0"
     },
     {
       "album": {
@@ -31421,42 +31457,6 @@
     },
     {
       "album": {
-        "name": "Zusammenbleiben",
-        "url": "https://open.spotify.com/album/7jCI4W7mAQsw6wXnbApdCq"
-      },
-      "artists": [
-        {
-          "name": "BRUCKNER",
-          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/6WU2QPKZC5J2jnrrvnYyEz"
-    },
-    {
-      "album": {
-        "name": "Das Beste vom Schlechten",
-        "url": "https://open.spotify.com/album/3j6hBOHsEloHQWkNNFg0IU"
-      },
-      "artists": [
-        {
-          "name": "error",
-          "url": "https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/0NVMXZNNgwa3boKmiMJ5d0"
-    },
-    {
-      "album": {
         "name": "trauen",
         "url": "https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po"
       },
@@ -36914,6 +36914,28 @@
       "duration_ms": 121574,
       "name": "zusammenalleine",
       "url": "https://open.spotify.com/track/0m0Ajm118G40tykZvwWQBP"
+    },
+    {
+      "album": {
+        "name": "Zusammenbleiben",
+        "url": "https://open.spotify.com/album/7jCI4W7mAQsw6wXnbApdCq"
+      },
+      "artists": [
+        {
+          "name": "BRUCKNER",
+          "url": "https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq"
+        },
+        {
+          "name": "Falschgeld",
+          "url": "https://open.spotify.com/artist/4nXKLJPNMpME7ZtV1ClQLc"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230500,
+      "name": "Zusammenbleiben",
+      "url": "https://open.spotify.com/track/6WU2QPKZC5J2jnrrvnYyEz"
     },
     {
       "album": {

@@ -4,11 +4,12 @@
 
 > The new wave of alternative, genre\-bending and creative afro fusion music: BLNDE
 
-1,178 songs - 2 day 8 hr 26 min
+1,179 songs - 2 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#toomuchswag](https://open.spotify.com/track/1STZzSByzeHohDFEQbe7Vn) | [Zen Univrse](https://open.spotify.com/artist/5CSSzEHLGMcRVwq340BpHl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [\#flowstate](https://open.spotify.com/album/6MWeAxK9tsH3ozNCcy1lfH) | 1:52 | 2026-07-31 |  |
+| [0pay](https://open.spotify.com/track/2VZDOoKIs7TWZB2dxSshrO) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [0pay](https://open.spotify.com/album/4IBb63cAgOlMPJ6Ga5umub) | 2:39 | 2026-09-25 |  |
 | [1 of 1](https://open.spotify.com/track/1BImbxAJo7PNDWdPMC7c8l) | [Txmmyily](https://open.spotify.com/artist/2k4BorccGemzBPjIRkT5Pa) | [1 of 1](https://open.spotify.com/album/007o96OdGuH17jGD1SSVV3) | 2:10 | 2026-08-21 |  |
 | [100](https://open.spotify.com/track/4tVM51ch0CnTjgG77cLZqE) | [Zarion Uti](https://open.spotify.com/artist/7tlAHKyqsln6Ofr8jz50kg) | [100](https://open.spotify.com/album/417gVtxA0PrdGVTMnMFAfA) | 2:30 | 2025-04-04 | 2025-05-09 |
 | [100 % or More](https://open.spotify.com/track/1nhPJxL9x5oaPYcLfm4Wxz) | [OCAPO](https://open.spotify.com/artist/0rPvE6uRDqVXYoeM6dGKZV), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Ictooicy](https://open.spotify.com/artist/19cyiv0rM3o9U8WboDW0Js) | [100 % or More](https://open.spotify.com/album/3mxg5EVTIx9lOZjodWM54H) | 4:12 | 2021-12-16 | 2022-04-22 |
@@ -133,7 +134,7 @@
 | [BESTFRNDS](https://open.spotify.com/track/2kpYJO7RYhImav7qbK9aoq) | [Noir](https://open.spotify.com/artist/0jOcWEjwKDMzSfi2Yeyjd4) | [CLUB NOIR](https://open.spotify.com/album/7zk2IGOMWrJ2xzKxXyFqAj) | 2:28 | 2025-11-07 | 2026-01-15 |
 | [Bestie](https://open.spotify.com/track/0brRHW86zUOI6LI0ONCuT5) | [AP](https://open.spotify.com/artist/5De3gFBkxhHFFckb1gHFnJ) | [Bestie](https://open.spotify.com/album/7mIiPZxkjNWyLVrWBttoFU) | 2:46 | 2023-07-28 | 2023-11-16 |
 | [Better Days](https://open.spotify.com/track/1fcPm7yphWQzX0gLZe11ez) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [Pacino Capsule](https://open.spotify.com/album/4gARWueu1JzMQoQLRzz2ny) | 2:11 | 2022-01-13 | 2022-02-04 |
-| [Big Bad World](https://open.spotify.com/track/5TPAFz0dbYfWSEcDOKUYBc) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Big Bad World](https://open.spotify.com/album/4pCFcva7BTJM5Onhh4hiEn) | 2:28 | 2026-06-19 |  |
+| [Big Bad World](https://open.spotify.com/track/5TPAFz0dbYfWSEcDOKUYBc) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW) | [Big Bad World](https://open.spotify.com/album/4pCFcva7BTJM5Onhh4hiEn) | 2:28 | 2026-06-19 | 2026-09-26 |
 | [Big Deel](https://open.spotify.com/track/66RjUgZnuFIMuwtL51wdQ5) | [DEELA](https://open.spotify.com/artist/10yLOgKTy2iAtvIqkow5l4), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ), [Genio Bambino](https://open.spotify.com/artist/3KwukNCo4MbjbgbvrVqLP0) | [Good Girl No Dey Pay](https://open.spotify.com/album/6QEAFXgLPabFWNOMPbXBbV) | 2:11 | 2024-11-08 | 2025-01-17 |
 | [Big Money](https://open.spotify.com/track/5cKpgv19Uh2kwWM29Q5YNp) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Big Money](https://open.spotify.com/album/1kXCtMduX4ysnZnIfEdBBA) | 2:18 | 2022-09-15 | 2022-09-30 |
 | [Biggo](https://open.spotify.com/track/3ObgktkhFwYk4HCksIBHRv) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw), [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [Biggo](https://open.spotify.com/album/5MbFksPaxBZuSTvlLeJ1Px) | 2:56 | 2023-08-10 | 2024-02-23 |

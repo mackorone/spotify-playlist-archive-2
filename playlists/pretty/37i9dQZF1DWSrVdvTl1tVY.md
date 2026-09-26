@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Max Dean, Luke Dean, Nafe Smallz
 
-[Spotify](https://open.spotify.com/user/spotify) - 743,275 likes - 118 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 743,257 likes - 118 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrVdvTl1tVY.md) - [plain]
 | 10 | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/track/5tAcpqwkuMxKN3iXyn6afo) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Tristan Henry](https://open.spotify.com/artist/6UyRsPqWooGjDexC857b1T) | [Leaving \(feat\. Tristan Henry\)](https://open.spotify.com/album/4MXfiszmvJ68skccri9nLC) | 3:18 |
 | 11 | [Sheetz](https://open.spotify.com/track/6BbT79lSfkd5rqLaaDN3Q8) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Energy Crew](https://open.spotify.com/album/1F4hYcrjNOuHqmitVgDQaT) | 3:21 |
 | 12 | [Witty](https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx) | [Kitty Hall](https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ) | [Witty](https://open.spotify.com/album/4bhf9v3REyvW96YzoY9Bh4) | 3:40 |
-| 13 | [Track 1](https://open.spotify.com/track/4C6SwszAF1EBgkGnkkdFvW) | [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df) | [Dynamo EP](https://open.spotify.com/album/1AatZ6Er5CKdQ1wGxhsT1K) | 0:00 |
+| 13 | [Dynamo](https://open.spotify.com/track/4C6SwszAF1EBgkGnkkdFvW) | [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df) | [Dynamo EP](https://open.spotify.com/album/1AatZ6Er5CKdQ1wGxhsT1K) | 2:45 |
 | 14 | [THE MOB](https://open.spotify.com/track/6F2ckzsOmaog4Ho3S928X4) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [THE MOB / Seamless](https://open.spotify.com/album/4ZplKVemkCr0b7Hh2aujSo) | 2:31 |
 | 15 | [Friction](https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao), [Locky](https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa) | [Friction](https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB) | 3:13 |
 | 16 | [Just A Little Bit More](https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Just A Little Bit More](https://open.spotify.com/album/1tahMnSGCdaf45wlxB3szC) | 3:34 |

@@ -4,7 +4,7 @@
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: Aziz Hedra
 
-723 songs - 1 day 18 hr 18 min
+724 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,6 +657,7 @@
 | [Things I Didn't Do](https://open.spotify.com/track/5t2KYFWkhdPZ5YVyiSXtiA) | [Niki Mawarni](https://open.spotify.com/artist/1YZlQtrfT9K3702wBxnHIK) | [Things I Didn't Do](https://open.spotify.com/album/5xFhLv6LmBRAcq5uTUfFfX) | 3:33 | 2024-06-27 | 2025-01-24 |
 | [things i'd do for you](https://open.spotify.com/track/1gAAHNHRu8UTvVWBswBdG3) | [Lukas Will](https://open.spotify.com/artist/2CY8nVYLln1sjeOcpp4hC7) | [things i'd do for you](https://open.spotify.com/album/6CpqiJm7c5opBCu1eJqxB8) | 3:24 | 2026-06-26 | 2026-08-14 |
 | [THUNDER!!!!!!!!!!](https://open.spotify.com/track/5XzURZIO52HHAN5pWaglnH) | [Sunwich](https://open.spotify.com/artist/45KFMEB3QETjFvFME86vYO) | [THUNDER!!!!!!!!!!](https://open.spotify.com/album/5z3Jb4z7T5G8DzrWQY2dr5) | 3:25 | 2025-06-19 | 2025-08-22 |
+| [Till We’re Old](https://open.spotify.com/track/4FTrJDneNNI6VCaDq7UJyL) | [D’MASIV](https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB) | [Till We’re Old](https://open.spotify.com/album/38w97o00eMVmhSNVkLy9DO) | 3:50 | 2026-09-25 |  |
 | [Time Flies](https://open.spotify.com/track/5E3upQeg47ZTnpNkk7DjsM) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [Time Flies](https://open.spotify.com/album/6qE7AdkTHRdOh40JYZctFQ) | 4:15 | 2025-06-19 | 2025-08-08 |
 | [To Lose Someone](https://open.spotify.com/track/1pGoLLnUz6S4dOrw0bYKBW) | [VIONA](https://open.spotify.com/artist/6Ng5PoEhU9eoRDsu6f3pUa), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O), [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL) | [To Lose Someone](https://open.spotify.com/album/0VOlrQEeNJGP5Qg1AyZWGL) | 3:58 | 2024-06-27 | 2024-08-02 |
 | [Toast to Those Days](https://open.spotify.com/track/6irIltxYE4Exl8Mf6LyWeB) | [Bryan Jonathan](https://open.spotify.com/artist/1vNzfNaaBW5seGFJn0IYbG), [Rexa Buyung](https://open.spotify.com/artist/2zfyxpdCcnpgQwJaapDaXE) | [Toast to Those Days](https://open.spotify.com/album/5unIruhbSL2xCPnbH3dEGP) | 4:18 | 2025-01-17 | 2025-05-09 |

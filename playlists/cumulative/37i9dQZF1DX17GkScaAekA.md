@@ -4,7 +4,7 @@
 
 > quiet hallways, dusty sunlight, cosy sweaters, and hot tea
 
-173 songs - 11 hr 8 min
+174 songs - 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Einaudi: Una mattina](https://open.spotify.com/track/0rFdP3ZfwsUajBLUuex0Kb) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Gautier Capuçon](https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI), [Jerome Ducros](https://open.spotify.com/artist/21fQySiU5oXJndnmB15Nrq) | [Emotions](https://open.spotify.com/album/509IXZSfjhyrC15B0LYKkX) | 3:10 | 2022-07-18 | 2024-04-19 |
 | [Emerald and Stone](https://open.spotify.com/track/1i1qDioBSMR3YQ2xKSi75m) | [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Kammerorchester Basel](https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU) | [Emerald and Stone](https://open.spotify.com/album/4EQe1P20TVDfxwRKDp3El5) | 2:15 | 2023-11-21 |  |
 | [Emerald and Stone](https://open.spotify.com/track/2LRwdz7Eei7EPTUjbE4SPZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Leo Abrahams](https://open.spotify.com/artist/6g4q7DPLaVqWGnfMpAb2Yd), [Anastasia Kobekina](https://open.spotify.com/artist/3gyMSbylsDuJor2dpGQ96m), [Kammerorchester Basel](https://open.spotify.com/artist/1fY6hh9OH6MirLiogDiwPU) | [Venice](https://open.spotify.com/album/1NpDsdlLsF9LjjdapSYmnz) | 2:15 | 2024-02-08 | 2024-04-19 |
+| [Erbarm dich mein, o Herre Gott, BWV 721 \- Live](https://open.spotify.com/track/5yYYMovULlwZkyeLOOHQCv) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Kit Armstrong](https://open.spotify.com/artist/1FfN1mD94wKl0ozsfpOD43) | [Piano Chronicles \(Live\)](https://open.spotify.com/album/1yK9i6go10B94r2uH0oyQj) | 3:37 | 2026-09-25 |  |
 | [Esteio](https://open.spotify.com/track/5lG49D1UTqkvQtVvi0vXVt) | [João Felipe](https://open.spotify.com/artist/2B3WqjVWqSqTR6oD4lnGIg), [DeComposers](https://open.spotify.com/artist/1mI5STBm9NOoBFA0bjJX0S) | [Opus 7 for String Quintet](https://open.spotify.com/album/62woVfY3frYJwvYajDe9Co) | 2:44 | 2026-08-07 |  |
 | [Experience](https://open.spotify.com/track/1BncfTJAWxrsxyT9culBrj) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [Daniel Hope](https://open.spotify.com/artist/59r5UU2HOytn9V5uMZ5Vur), [I Virtuosi Italiani](https://open.spotify.com/artist/1k1AM2ESRQseVAj6rvBdtx) | [In A Time Lapse](https://open.spotify.com/album/3uJ6D2WOPdjwJ0SrsH9EiG) | 5:15 | 2021-11-09 |  |
 | [Fantasia in D Minor, K\. 397](https://open.spotify.com/track/7IHEJdJhju1F2rhIiwgawx) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Alfred Brendel](https://open.spotify.com/artist/5vBh0nve44zwwVF5KWtCwA) | [Mozart: Piano Sonatas K.310, K.311 & K.533/494](https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr) | 5:16 | 2021-11-09 |  |

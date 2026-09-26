@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 
 > 
 
-[az](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 likes - 37 songs - 2 hr 35 min
+[az](https://open.spotify.com/user/34ju0qupggd7c0twwwss0bceq) - 0 likes - 38 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,5 +45,6 @@ pretty - [cumulative](/playlists/cumulative/6PMKZl4slXlFqxPgU4v5w1.md) - [plain]
 | 35 | [Hold On to Love](https://open.spotify.com/track/4aaWZIJBGnsTdBbX6YuRx0) | [Jon Anderson](https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u) | [In The City Of Angels](https://open.spotify.com/album/5gRUt3wH470P23aK37bqSj) | 4:46 |
 | 36 | [Age Ain't Nothing But a Number](https://open.spotify.com/track/3pJTQBXx4iT71L0iLaZhTT) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But a Number EP](https://open.spotify.com/album/7BxgeduIn0lu0x3r97RtjE) | 4:12 |
 | 37 | [Romantic](https://open.spotify.com/track/6iXO4A5u0CRLNre9lSxntL) | [Yusuke Honma](https://open.spotify.com/artist/5QLXviQ1Xodo1PuwOQ848V) | [Yu Yu Hakusho Original Soundtrack](https://open.spotify.com/album/5DRd3WmUMyVgQvRWowIsPZ) | 3:03 |
+| 38 | [1471](https://open.spotify.com/track/1BVo3CqGJO3YMNeoK5Ihye) | [Babyfather](https://open.spotify.com/artist/3DmDJOQgrwlq8MxXGLeFvA), [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [1471](https://open.spotify.com/album/6aazGhy1unBHW4nPE6uHlN) | 1:44 |
 
-Snapshot ID: `AAAAKgv2z1fEsp2nYIAZdvwvP5gsUxej`
+Snapshot ID: `AAAAK44SnBp7Ib/Ddm/cOJnn47l8cIZV`

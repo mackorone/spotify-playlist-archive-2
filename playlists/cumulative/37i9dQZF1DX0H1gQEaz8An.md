@@ -4,11 +4,11 @@
 
 > Lo que diga el corazón ❤️💔 Cover: Helen Ochoa
 
-261 songs - 13 hr 35 min
+262 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [/Desvelaos](https://open.spotify.com/track/4v4ZRvkVBzSOeMY0Is3Cfk) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 2:35 | 2025-11-15 |  |
+| [/Desvelaos](https://open.spotify.com/track/4v4ZRvkVBzSOeMY0Is3Cfk) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [DELIRIUM](https://open.spotify.com/album/0xTFLxAqGha7RPtlHkDqm6) | 2:35 | 2025-11-15 | 2026-09-26 |
 | [130](https://open.spotify.com/track/3gs77UQQa4ucIxoCQkY08K) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [130](https://open.spotify.com/album/0wbnTjxysM59zeh4z4a5ID) | 3:03 | 2025-07-04 |  |
 | [24 Siempre](https://open.spotify.com/track/1ekkotKjeaFggY13fbciQW) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [24 Siempre](https://open.spotify.com/album/2Li0WiEu76RousoqTYYUmd) | 3:11 | 2025-02-28 | 2025-05-28 |
 | [3 Noches](https://open.spotify.com/track/2tzPQsyc5iAuhM6cdHE9dR) | [Christian Ortega](https://open.spotify.com/artist/528MXn4CmZm4mLZ9vutc1b), [Ramses Rico](https://open.spotify.com/artist/6J3O2ixka3HAaIuRrR9YQU) | [Estilo Bropza \(Deluxe\)](https://open.spotify.com/album/3X0MaMl8ue8BC14CAD4mws) | 3:32 | 2026-03-06 |  |
@@ -199,6 +199,7 @@
 | [punchbowl](https://open.spotify.com/track/0XdYL8Z6LTSUXM5JtRtdTK) | [Julio Caesar](https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K) | [punchbowl](https://open.spotify.com/album/2fsUjpzzA7swEZbpFjujyc) | 2:34 | 2026-04-03 |  |
 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 | 2025-09-26 |  |
 | [Pásenla Bien](https://open.spotify.com/track/5RkfM28bk7ATeaBTwOBsDZ) | [MauXo](https://open.spotify.com/artist/0NH0VtfGCgs3ArcnjvsVMs) | [Pásenla Bien](https://open.spotify.com/album/7m2zbmSF94VzQ6sU1OmHOD) | 3:24 | 2026-04-03 |  |
+| [QLERO](https://open.spotify.com/track/2dk6XG1rbZVFO6GxJe0Oy8) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [QLERO](https://open.spotify.com/album/6v1xfZjCdOeojj6dtFVgOY) | 2:59 | 2026-09-25 |  |
 | [QSFCE](https://open.spotify.com/track/4M9IDxDcuY2Cdk7vx2OiKN) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [QSFCE](https://open.spotify.com/album/0x69KZkG9mMgnQXyV4lTDk) | 4:40 | 2025-01-17 | 2025-05-28 |
 | [Que Onda](https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Que Onda](https://open.spotify.com/album/4x6cjOcVz44aiLSOHCLKPd) | 3:11 | 2024-03-15 | 2025-03-08 |
 | [Que Pedo](https://open.spotify.com/track/5ZNQU2PIp5KItB73TUft2B) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [Que Pedo](https://open.spotify.com/album/1i1It41Q2QnkUU2duPxfzy) | 3:14 | 2025-01-31 | 2026-04-04 |

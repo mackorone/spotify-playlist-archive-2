@@ -1,6 +1,6 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Sara James",
-  "num_followers": 26552,
+  "num_followers": 26583,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
@@ -86,6 +86,10 @@
         {
           "name": "BSK",
           "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        },
+        {
+          "name": "prze\u015bwit",
+          "url": "https://open.spotify.com/artist/48pF8m5m2dDUQHlP1WiU7f"
         }
       ],
       "duration_ms": 159529,
@@ -104,8 +108,8 @@
           "url": "https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 136155,
+      "name": "THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO",
       "url": "https://open.spotify.com/track/6CKUQ4zcPPp63nPYaCfXKu"
     },
     {
@@ -339,6 +343,22 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
+        "name": "pelagia",
+        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
+      },
+      "artists": [
+        {
+          "name": "shama",
+          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "pelagia",
+      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
         "name": "Widz\u0119 Ci\u0119",
         "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
       },
@@ -391,18 +411,18 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "pelagia",
-        "url": "https://open.spotify.com/album/3Nd6SupiS3D55rVmXhJ9tS"
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
       },
       "artists": [
         {
-          "name": "shama",
-          "url": "https://open.spotify.com/artist/1HhRfvC2bS9XeeiR5I5UmI"
+          "name": "Kinga Wo\u0142oszyn",
+          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
         }
       ],
-      "duration_ms": 190000,
-      "name": "pelagia",
-      "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
+      "duration_ms": 194630,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -423,18 +443,18 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
+        "name": "nie wierz\u0119 w bajki",
+        "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
       },
       "artists": [
         {
-          "name": "Kinga Wo\u0142oszyn",
-          "url": "https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed"
+          "name": "Qncicka",
+          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
         }
       ],
-      "duration_ms": 194630,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX"
+      "duration_ms": 192679,
+      "name": "nie wierz\u0119 w bajki",
+      "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -471,22 +491,18 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Daj mi zna\u0107",
-        "url": "https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m"
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/7vXymVunheG3BABabEky8f"
       },
       "artists": [
         {
-          "name": "pszona",
-          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
-        },
-        {
-          "name": "Nita",
-          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+          "name": "Wiktor Sas",
+          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
         }
       ],
-      "duration_ms": 179354,
-      "name": "Daj mi zna\u0107",
-      "url": "https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo"
+      "duration_ms": 160846,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -507,6 +523,46 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
+        "name": "Daj mi zna\u0107",
+        "url": "https://open.spotify.com/album/2ODBwHAh1vKCNMXtcm4U7m"
+      },
+      "artists": [
+        {
+          "name": "pszona",
+          "url": "https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq"
+        },
+        {
+          "name": "Nita",
+          "url": "https://open.spotify.com/artist/1AGR5KsqctsAYgxxINt5xi"
+        }
+      ],
+      "duration_ms": 179354,
+      "name": "Daj mi zna\u0107",
+      "url": "https://open.spotify.com/track/2cbAtKKJilsNWu23iieJjo"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "sad, alone?",
+        "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        },
+        {
+          "name": "kurtis baker",
+          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "sad, alone?",
+      "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
         "name": "Nie za\u015bpiewam Twojej mamie",
         "url": "https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh"
       },
@@ -519,38 +575,6 @@
       "duration_ms": 190506,
       "name": "Nie za\u015bpiewam Twojej mamie",
       "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "nie wierz\u0119 w bajki",
-        "url": "https://open.spotify.com/album/39NlvHsshHtXzDw0CO9IQw"
-      },
-      "artists": [
-        {
-          "name": "Qncicka",
-          "url": "https://open.spotify.com/artist/5xnomfZ4gxl88B5hJixOHZ"
-        }
-      ],
-      "duration_ms": 192679,
-      "name": "nie wierz\u0119 w bajki",
-      "url": "https://open.spotify.com/track/70O3LWBo7cvQ0Qx8CcyhrE"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/7vXymVunheG3BABabEky8f"
-      },
-      "artists": [
-        {
-          "name": "Wiktor Sas",
-          "url": "https://open.spotify.com/artist/5eMGKtyT2PGPjBbNOcaktT"
-        }
-      ],
-      "duration_ms": 160846,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5jE6uPYDwrSc763muXBiRV"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -583,6 +607,22 @@
       "duration_ms": 203101,
       "name": "Pick me baby",
       "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "bunny boy problems",
+        "url": "https://open.spotify.com/album/6Ga8Ft1RTJO7bFAej0Uz5K"
+      },
+      "artists": [
+        {
+          "name": "stickxr",
+          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
+        }
+      ],
+      "duration_ms": 134788,
+      "name": "fiji water angel \u795e\u5c64",
+      "url": "https://open.spotify.com/track/2EMmkAzrNynjNTmqCFqXDi"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -627,26 +667,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "sad, alone?",
-        "url": "https://open.spotify.com/album/2xWTvIrhyf2SZg3hAIyh0q"
-      },
-      "artists": [
-        {
-          "name": "bartek turski",
-          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
-        },
-        {
-          "name": "kurtis baker",
-          "url": "https://open.spotify.com/artist/3r9YAOUaPgQV22zcFmHMXv"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "sad, alone?",
-      "url": "https://open.spotify.com/track/6FTZamgX8SUlpTL9xKgMtZ"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "Zapomnij mnie",
         "url": "https://open.spotify.com/album/1onqezb5thq5OIpo3Q15YK"
       },
@@ -675,6 +695,26 @@
       "duration_ms": 158222,
       "name": "Po drugiej stronie szk\u0142a",
       "url": "https://open.spotify.com/track/7uyrqEix2UJUrCqOOFsnKf"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "Czuj\u0119 si\u0119 sexy af",
+        "url": "https://open.spotify.com/album/5lOPYpRXOJZVgbwqPtux2j"
+      },
+      "artists": [
+        {
+          "name": "Frank Leen",
+          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
+        },
+        {
+          "name": "BSK",
+          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
+        }
+      ],
+      "duration_ms": 161280,
+      "name": "Czuj\u0119 si\u0119 sexy af",
+      "url": "https://open.spotify.com/track/1fRh9qhe8Ql0iy6RKgWCDO"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -727,26 +767,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Czuj\u0119 si\u0119 sexy af",
-        "url": "https://open.spotify.com/album/5lOPYpRXOJZVgbwqPtux2j"
-      },
-      "artists": [
-        {
-          "name": "Frank Leen",
-          "url": "https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4"
-        },
-        {
-          "name": "BSK",
-          "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Czuj\u0119 si\u0119 sexy af",
-      "url": "https://open.spotify.com/track/1fRh9qhe8Ql0iy6RKgWCDO"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "Echo Echo",
         "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
       },
@@ -775,22 +795,6 @@
       "duration_ms": 181463,
       "name": "Tracimy tylko czas",
       "url": "https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "bunny boy problems",
-        "url": "https://open.spotify.com/album/6Ga8Ft1RTJO7bFAej0Uz5K"
-      },
-      "artists": [
-        {
-          "name": "stickxr",
-          "url": "https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT"
-        }
-      ],
-      "duration_ms": 134788,
-      "name": "fiji water angel \u795e\u5c64",
-      "url": "https://open.spotify.com/track/2EMmkAzrNynjNTmqCFqXDi"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -863,6 +867,22 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
+        "name": "Miodowe lata",
+        "url": "https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "duration_ms": 211196,
+      "name": "Miodowe lata",
+      "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
         "name": "SYRENY",
         "url": "https://open.spotify.com/album/3ayp6W3sexpcTIMl7RhBRU"
       },
@@ -883,22 +903,6 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
-        "name": "Miodowe lata",
-        "url": "https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C"
-      },
-      "artists": [
-        {
-          "name": "Zuta",
-          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
-        }
-      ],
-      "duration_ms": 211196,
-      "name": "Miodowe lata",
-      "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
         "name": "Korzenie",
         "url": "https://open.spotify.com/album/2RGWHPBnfR5tPgLRZeoiBX"
       },
@@ -911,22 +915,6 @@
       "duration_ms": 194887,
       "name": "Korzenie",
       "url": "https://open.spotify.com/track/7zM4rMVqVVTH7ZsN57l6RB"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "Po nocach",
-        "url": "https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC"
-      },
-      "artists": [
-        {
-          "name": "Natalia Zast\u0119pa",
-          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
-        }
-      ],
-      "duration_ms": 211732,
-      "name": "Po nocach",
-      "url": "https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -947,6 +935,22 @@
       "duration_ms": 201688,
       "name": "dancefloor?",
       "url": "https://open.spotify.com/track/5GV9AMBtRstMTBuWaS55rn"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
+        "name": "Po nocach",
+        "url": "https://open.spotify.com/album/0KLbKLuIrEAGYIXgFPkAbC"
+      },
+      "artists": [
+        {
+          "name": "Natalia Zast\u0119pa",
+          "url": "https://open.spotify.com/artist/7bXYYWnAtHMVj0lSOHryno"
+        }
+      ],
+      "duration_ms": 211732,
+      "name": "Po nocach",
+      "url": "https://open.spotify.com/track/33eaJUreX0C9HnLs0fjZTy"
     },
     {
       "added_at": "2026-09-24 22:01:52",
@@ -1067,6 +1071,30 @@
     {
       "added_at": "2026-09-24 22:01:52",
       "album": {
+        "name": "Presja",
+        "url": "https://open.spotify.com/album/5CY2lpmAOQMlreF9z5TTMQ"
+      },
+      "artists": [
+        {
+          "name": "Julka Grabowska",
+          "url": "https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH"
+        },
+        {
+          "name": "MtZ",
+          "url": "https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu"
+        },
+        {
+          "name": "Jxcob",
+          "url": "https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "Presja",
+      "url": "https://open.spotify.com/track/2pmb9sfLcHPC0Eouk5zb6y"
+    },
+    {
+      "added_at": "2026-09-24 22:01:52",
+      "album": {
         "name": "psikus",
         "url": "https://open.spotify.com/album/4Exm7BKeJN8FBxRACtbkcd"
       },
@@ -1079,22 +1107,6 @@
       "duration_ms": 173137,
       "name": "psikus",
       "url": "https://open.spotify.com/track/0y8oU55YrlHEGEa8y3rYmR"
-    },
-    {
-      "added_at": "2026-09-24 22:01:52",
-      "album": {
-        "name": "Eskapizm",
-        "url": "https://open.spotify.com/album/264DglpVrsVh4P1j7A6NL5"
-      },
-      "artists": [
-        {
-          "name": "oysterboy",
-          "url": "https://open.spotify.com/artist/0zHt0gWj0hDUgKOrUkeiYk"
-        }
-      ],
-      "duration_ms": 213088,
-      "name": "Po\u017cegnanie z Morzem",
-      "url": "https://open.spotify.com/track/1WQEhQP4vYEX9vHuDK61SH"
     },
     {
       "added_at": "2026-09-24 22:01:52",

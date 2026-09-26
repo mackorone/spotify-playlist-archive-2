@@ -4238,7 +4238,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 234466,
       "name": "I Don't Wanna Live Without Your Love",
       "url": "https://open.spotify.com/track/1bQ6SZAR7xI0z6sIxK95KJ"
@@ -9459,7 +9459,7 @@
       "artists": [
         {
           "name": "Alexia",
-          "url": "https://open.spotify.com/artist/6aNCb0kRQ9femxs9j3xUY1"
+          "url": "https://open.spotify.com/artist/09ao6AC5gW8AxRBUVkqWIB"
         }
       ],
       "date_added": "2024-07-10",
@@ -9657,6 +9657,24 @@
     },
     {
       "album": {
+        "name": "Anytime (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2ewtfRORr9GmWbZ9nKkxDc"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235760,
+      "name": "Show Me The Way Back To Your Heart",
+      "url": "https://open.spotify.com/track/1DUK8PhQcA3QwdQNNlFDXS"
+    },
+    {
+      "album": {
         "name": "Anytime",
         "url": "https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd"
       },
@@ -9668,7 +9686,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 235760,
       "name": "Show Me The Way Back To Your Heart",
       "url": "https://open.spotify.com/track/4YcXc551uqE3IpHf3iZiYM"

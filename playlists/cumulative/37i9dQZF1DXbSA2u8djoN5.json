@@ -4177,6 +4177,28 @@
     },
     {
       "album": {
+        "name": "Oglind\u0103 oglinjoar\u0103",
+        "url": "https://open.spotify.com/album/1ZAHolbqWYrR3pBaZAYVF3"
+      },
+      "artists": [
+        {
+          "name": "Badd G",
+          "url": "https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl"
+        },
+        {
+          "name": "Arkanian",
+          "url": "https://open.spotify.com/artist/1LdNutYy0xoGpKCDCj2k1p"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131020,
+      "name": "Oglind\u0103 oglinjoar\u0103",
+      "url": "https://open.spotify.com/track/38pN4Z80UagGOo2SrQhyrZ"
+    },
+    {
+      "album": {
         "name": "Toata lumea moare",
         "url": "https://open.spotify.com/album/3HSN1uMfMOg2j7fCmVVAh2"
       },
@@ -6314,7 +6336,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 230400,
       "name": "Yessir",
       "url": "https://open.spotify.com/track/5pMfPRsUrGnKQwBLQa3JhP"

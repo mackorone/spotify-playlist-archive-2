@@ -1,6 +1,6 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 271560,
+  "num_followers": 271596,
   "original_name": "Women of Blues",
   "owner": {
     "name": "Spotify",
@@ -75,22 +75,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Wary + Strange",
-        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 201240,
-      "name": "Black Myself",
-      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Trilogy, Vol. 1",
         "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 243200,
       "name": "She Was a Doorman",
       "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Wary + Strange",
+        "url": "https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda"
+      },
+      "artists": [
+        {
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Black Myself",
+      "url": "https://open.spotify.com/track/2BbFd78ykW1pnR5vZreQkr"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Broken People",
-        "url": "https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr"
-      },
-      "artists": [
-        {
-          "name": "Muddy Magnolias",
-          "url": "https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X"
-        }
-      ],
-      "duration_ms": 251613,
-      "name": "It Ain't Easy",
-      "url": "https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Blood Harmony",
         "url": "https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe"
       },
@@ -235,18 +219,18 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Fish Outta Water",
-        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
+        "name": "Broken People",
+        "url": "https://open.spotify.com/album/3MIBce2g1BNk3mUuj10Ylr"
       },
       "artists": [
         {
-          "name": "Karen Lovely",
-          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
+          "name": "Muddy Magnolias",
+          "url": "https://open.spotify.com/artist/1t7mdRbvflM5966YVfyk1X"
         }
       ],
-      "duration_ms": 230533,
-      "name": "Fish Outta Water",
-      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
+      "duration_ms": 251613,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/2e58JCJzmWLtlLt0320MVp"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -271,18 +255,18 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "The Beautiful Bones",
-        "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
+        "name": "Fish Outta Water",
+        "url": "https://open.spotify.com/album/52Hy5Ucrx8mbkOAyH9P1Qg"
       },
       "artists": [
         {
-          "name": "Kelley Hunt",
-          "url": "https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv"
+          "name": "Karen Lovely",
+          "url": "https://open.spotify.com/artist/33PWKu9VjoLVGC9j7xT2I5"
         }
       ],
-      "duration_ms": 264253,
-      "name": "Release and Be Free",
-      "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
+      "duration_ms": 230533,
+      "name": "Fish Outta Water",
+      "url": "https://open.spotify.com/track/0otTCVBZRpLduHl1ogOJ0y"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -299,6 +283,22 @@
       "duration_ms": 232600,
       "name": "Leave Me Alone",
       "url": "https://open.spotify.com/track/4pvtn6rUZEL9hranwiaZ5d"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "The Beautiful Bones",
+        "url": "https://open.spotify.com/album/5a1VvpMgW0Mz0FDVOYOV38"
+      },
+      "artists": [
+        {
+          "name": "Kelley Hunt",
+          "url": "https://open.spotify.com/artist/0L7Y276gBjB2pxuyhpgzgv"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "Release and Be Free",
+      "url": "https://open.spotify.com/track/7d1ZzOIyACB64aEibmWfH7"
     },
     {
       "added_at": "2024-08-13 17:16:13",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-08-13 17:16:13",
       "album": {
-        "name": "Tricky Thing",
-        "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
-      },
-      "artists": [
-        {
-          "name": "Jessy Martens and Band",
-          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "Tricky Thing",
-      "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
-    },
-    {
-      "added_at": "2024-08-13 17:16:13",
-      "album": {
         "name": "Blood Red Blues",
         "url": "https://open.spotify.com/album/6AmwjavjuaLjqA9II7pLDO"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 234520,
       "name": "Blood Red Blues",
       "url": "https://open.spotify.com/track/6tUaoQubP95G9YseowN2Fc"
+    },
+    {
+      "added_at": "2024-08-13 17:16:13",
+      "album": {
+        "name": "Tricky Thing",
+        "url": "https://open.spotify.com/album/4aPtimYS5kIEl8d03ToDUz"
+      },
+      "artists": [
+        {
+          "name": "Jessy Martens and Band",
+          "url": "https://open.spotify.com/artist/4kJMG0aB4UYiKfHA9esWDt"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "Tricky Thing",
+      "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
     },
     {
       "added_at": "2024-08-13 17:16:13",

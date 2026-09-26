@@ -1499,6 +1499,28 @@
     },
     {
       "album": {
+        "name": "At The Top",
+        "url": "https://open.spotify.com/album/4MgzoI7rW4JRnz5YUJP4fz"
+      },
+      "artists": [
+        {
+          "name": "Ness\u00f8",
+          "url": "https://open.spotify.com/artist/15zqFxyXkm096rs1qnVn7b"
+        },
+        {
+          "name": "Markus Martinez",
+          "url": "https://open.spotify.com/artist/4X7TDt68pJhQxropTlyfc0"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "At The Top",
+      "url": "https://open.spotify.com/track/4sfJ4G2Dz67pk3A8scgV4Q"
+    },
+    {
+      "album": {
         "name": "atmosphere",
         "url": "https://open.spotify.com/album/4KlwW5xCucKgkpzFNWffRZ"
       },
@@ -2360,7 +2382,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 160000,
       "name": "Baddies Going Out",
       "url": "https://open.spotify.com/track/22rOiUEbwIIWM4KCAodbZD"
@@ -4437,6 +4459,32 @@
     },
     {
       "album": {
+        "name": "BROKE A$$ HOME",
+        "url": "https://open.spotify.com/album/3CfEasukeDstsy1DPFazZ3"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "BARTS",
+          "url": "https://open.spotify.com/artist/44qzMC9QX2iSk5ttc4SZfH"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "BROKE A$$ HOME",
+      "url": "https://open.spotify.com/track/0UNET0aKD12ED6HHnx04Uv"
+    },
+    {
+      "album": {
         "name": "Broke Bois",
         "url": "https://open.spotify.com/album/2RdNIFYIiczFB28j8pAbmx"
       },
@@ -4938,6 +4986,24 @@
       "duration_ms": 213515,
       "name": "Cadillac",
       "url": "https://open.spotify.com/track/1kzzAtzsPKRtsVTaR4Otfm"
+    },
+    {
+      "album": {
+        "name": "Keep The Heat",
+        "url": "https://open.spotify.com/album/1VDcjSEKxdZcAWNwoplzBU"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200769,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/5fFyFyZY2azjTMIS9NozEU"
     },
     {
       "album": {
@@ -5704,7 +5770,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 167633,
       "name": "Cocaine Inside My Blunts - Dave Summer Remix",
       "url": "https://open.spotify.com/track/2rJqvBhCrN9Bt4nrK6fLOC"
@@ -6186,7 +6252,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 165923,
       "name": "Count On You",
       "url": "https://open.spotify.com/track/7v9mYX2KjcQQtunwVbaKx4"
@@ -11996,7 +12062,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 185033,
       "name": "Grind It",
       "url": "https://open.spotify.com/track/59oNw10kWdQbWaYl2mYUVM"
@@ -12292,7 +12358,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 163790,
       "name": "Heaven Or Hell",
       "url": "https://open.spotify.com/track/21TnRdF00nrfWZvNrIIPM3"
@@ -16137,6 +16203,24 @@
     },
     {
       "album": {
+        "name": "LONDON DUB",
+        "url": "https://open.spotify.com/album/5mZDTbsM8uSYuRDxJXOV6v"
+      },
+      "artists": [
+        {
+          "name": "bauti",
+          "url": "https://open.spotify.com/artist/5WM06QK9Vtq1p9aRSczRdf"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174222,
+      "name": "LONDON DUB",
+      "url": "https://open.spotify.com/track/0YYeftSxhDGnUGY31pCTsk"
+    },
+    {
+      "album": {
         "name": "Look At Me",
         "url": "https://open.spotify.com/album/1dzxMhanj9kriQCS1PDwzU"
       },
@@ -17092,7 +17176,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 156069,
       "name": "MilliON Me",
       "url": "https://open.spotify.com/track/08AXTbBi7NgjAFoovjulPd"
@@ -17396,6 +17480,24 @@
       "duration_ms": 187500,
       "name": "Money",
       "url": "https://open.spotify.com/track/1wucEMrF23sCi6vpO85vM7"
+    },
+    {
+      "album": {
+        "name": "Money Dance",
+        "url": "https://open.spotify.com/album/6uT1BkbpXKn37QQ4z8zP9c"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156927,
+      "name": "Money Dance",
+      "url": "https://open.spotify.com/track/4V1MvTibkCCOXSJKbcjS0B"
     },
     {
       "album": {
@@ -18232,6 +18334,24 @@
       "duration_ms": 225000,
       "name": "N9",
       "url": "https://open.spotify.com/track/1PEngfnmX0SOrE1Y4CWLvE"
+    },
+    {
+      "album": {
+        "name": "\u2661\u262eEP",
+        "url": "https://open.spotify.com/album/2DQW8cUMYHosVHfmsT2gMW"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brecht",
+          "url": "https://open.spotify.com/artist/1VFwWJaTMckGNeRWak0cXi"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "Nada De Novo",
+      "url": "https://open.spotify.com/track/5vg7nDsIuC0NmWLDR7vhUw"
     },
     {
       "album": {
@@ -27838,7 +27958,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 165692,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/20TXAzJqpeulPwKmTPWEpD"
@@ -27864,6 +27984,28 @@
       "duration_ms": 193000,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1BfhZT1HacQ1l4V4uXFxCq"
+    },
+    {
+      "album": {
+        "name": "To The Front",
+        "url": "https://open.spotify.com/album/0Soq75XwHqXGTgReaqVCtr"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "bradeazy",
+          "url": "https://open.spotify.com/artist/1dESZUZevzhd5dzq9ZsMLI"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138161,
+      "name": "To The Front",
+      "url": "https://open.spotify.com/track/7fF7p3s2PcYRuGpUPZweTm"
     },
     {
       "album": {
@@ -28202,7 +28344,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 108398,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/1fq81fwfle9L3Z0dRERDvP"
@@ -29962,6 +30104,32 @@
       "duration_ms": 136615,
       "name": "Won\u2019t Be Possible",
       "url": "https://open.spotify.com/track/20kaCbdgkJRUPniPVZgsoR"
+    },
+    {
+      "album": {
+        "name": "Woops",
+        "url": "https://open.spotify.com/album/7oFd9k7TkRXJh3zCPljihC"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
+          "name": "Dj Bountyhunter",
+          "url": "https://open.spotify.com/artist/5yqxD8W7WnMJQZeoBU0Q66"
+        },
+        {
+          "name": "BRANDON",
+          "url": "https://open.spotify.com/artist/7HHxWuXHsKdcTbWDqqYbsY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127413,
+      "name": "Woops",
+      "url": "https://open.spotify.com/track/2q1i9lcsBPBtQRSWTu8gDp"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [RADAR Italia](https://open.spotify.com/playlist/37i9dQZF1DWVjDgOMO8jZl)
 
-> Sei nomi e sei storie che non vediamo l'ora di farvi scoprire e raccontarvi quest'anno 🥹 prima stanza a destra e Angelica Bove in cover
+> La classe RADAR 2026/27 che non vediamo l'ora di farvi scoprire e raccontarvi 🥹 prima stanza a destra e Angelica Bove in cover
 
 240 songs - 11 hr 26 min
 
@@ -53,7 +53,7 @@
 | [Cliché](https://open.spotify.com/track/7feAP0q0KS4DW0blbHK7Pn) | [Epoque](https://open.spotify.com/artist/5xNhapdkr2QQJoAkK9h67k) | [Cliché](https://open.spotify.com/album/6bYA5jFVkSwtq3cFpGCvOz) | 3:12 | 2022-08-31 | 2023-04-12 |
 | [Come i Grandi](https://open.spotify.com/track/1DOajHZ9LD7MlNVHz8NMup) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Come i Grandi](https://open.spotify.com/album/61zWMNozdieRSJKQw1nzyR) | 3:07 | 2022-08-31 | 2023-04-12 |
 | [Come Te](https://open.spotify.com/track/3cDtXLGAb9APMbhKQd9jYx) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [The Freak Show](https://open.spotify.com/album/0ODC0hNSTpUbAGS35m6eoS) | 2:49 | 2024-10-30 | 2024-12-13 |
-| [COME?COSA?](https://open.spotify.com/track/70g7axgYxruNG2wzM3atj6) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [COME?COSA?](https://open.spotify.com/album/7EWOkI71vUUKL1lpN8bzfh) | 2:27 | 2026-06-10 |  |
+| [COME?COSA?](https://open.spotify.com/track/70g7axgYxruNG2wzM3atj6) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [COME?COSA?](https://open.spotify.com/album/7EWOkI71vUUKL1lpN8bzfh) | 2:27 | 2026-06-10 | 2026-09-26 |
 | [Compliquè \(feat\. Shiva & Ghali\)](https://open.spotify.com/track/4NAGAsgNfPY2zoP8JfSGXc) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 3:17 | 2022-08-31 | 2023-04-12 |
 | [Copacabana](https://open.spotify.com/track/5S7fTiSn3bpJF9UMCp9j97) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [PROVINCIALE](https://open.spotify.com/album/3neHYsGA6MSGSahkig6gCq) | 2:49 | 2022-08-31 | 2023-04-12 |
 | [COSA VUOI DA ME](https://open.spotify.com/track/7hdWs4Qbzevc7zkDg0HWc0) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB) | [SANTISSIMO](https://open.spotify.com/album/0Ua2qdU4Z3xzdmcXFkDCgF) | 3:07 | 2026-05-07 | 2026-06-11 |
@@ -182,7 +182,7 @@
 | [Ponza](https://open.spotify.com/track/5HfObWIsEfQ2PW5Kn57IId) | [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Ponza](https://open.spotify.com/album/3eeyeSBJ0KSAmhgf91dWhO) | 2:45 | 2022-08-31 | 2023-04-12 |
 | [Porta Pia](https://open.spotify.com/track/4KOpgmof0r6RJEOWUgU9Kl) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:55 | 2024-04-23 | 2025-05-14 |
 | [portami a ballare in primavera](https://open.spotify.com/track/39J4IyWQJWcBPU6tMnlD07) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [il dolce ricordo della nostra disperata gioventù](https://open.spotify.com/album/1nUcm1FiMWkZ2u2xT3FvoD) | 3:50 | 2026-06-10 |  |
-| [portando il peso](https://open.spotify.com/track/1shB1wr5n1OPA5hMbUm0GH) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [PORTANDO IL PESO](https://open.spotify.com/album/358cLvndXP5cbPIvg2o5uw) | 3:34 | 2026-06-10 |  |
+| [portando il peso](https://open.spotify.com/track/1shB1wr5n1OPA5hMbUm0GH) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [PORTANDO IL PESO](https://open.spotify.com/album/358cLvndXP5cbPIvg2o5uw) | 3:34 | 2026-06-10 | 2026-09-26 |
 | [Ppl](https://open.spotify.com/track/6Mxtn8VYIdGWtkyVbKluVT) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Hiding](https://open.spotify.com/album/1LDEPbaGv4HgFoviWNUcXi) | 3:47 | 2025-05-13 | 2026-06-11 |
 | [Pressione bassa](https://open.spotify.com/track/3pxIA51RPAMQnsbuArdp1G) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Pressione bassa](https://open.spotify.com/album/7IymFkEORToOb49LSg5495) | 2:48 | 2023-04-11 | 2024-04-24 |
 | [Problem Solver](https://open.spotify.com/track/3X5Zw8zkIGULZEnJUwwJwj) | [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [Northside Melodies](https://open.spotify.com/album/3UOgCV3tWykMlgP0LG33eX) | 2:30 | 2025-05-13 | 2026-06-11 |
@@ -217,7 +217,7 @@
 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 | 2022-08-31 | 2023-04-12 |
 | [Stanza](https://open.spotify.com/track/2EBlqIr8yZLUqTiWtB9Tgo) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 3](https://open.spotify.com/album/0oziYx99Q1JEAzHl5bZlra) | 2:18 | 2024-12-12 | 2025-05-14 |
 | [STAY ON BARS \#1](https://open.spotify.com/track/4qaJQlcJcn6NWlSrOgolDb) | [Marte](https://open.spotify.com/artist/3IWdXZamAg5bhIa0KyRBNb) | [STAY ON BARS \#1](https://open.spotify.com/album/2KHagMF2ivCxgvajHZeFoU) | 1:58 | 2025-05-13 | 2026-06-11 |
-| [step up](https://open.spotify.com/track/6ZzG59qjRPYFe5uwpCXrIg) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [PORTANDO IL PESO](https://open.spotify.com/album/358cLvndXP5cbPIvg2o5uw) | 1:37 | 2026-06-10 |  |
+| [step up](https://open.spotify.com/track/6ZzG59qjRPYFe5uwpCXrIg) | [Visino Bianco](https://open.spotify.com/artist/5k9ftVfZWQvoQkIEqcnTwx) | [PORTANDO IL PESO](https://open.spotify.com/album/358cLvndXP5cbPIvg2o5uw) | 1:37 | 2026-06-10 | 2026-09-26 |
 | [strappami la pelle a morsi](https://open.spotify.com/track/6q8se4AGDOyU6hsnDTpWE9) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [strappami la pelle a morsi](https://open.spotify.com/album/5QF6qF4rFdxpwpSoj8HANB) | 2:19 | 2024-04-23 | 2025-05-14 |
 | [T'aggio vuluto bene](https://open.spotify.com/track/62GSCLUoW8SWXh9v3xLaiZ) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI) | [T'aggio vuluto bene](https://open.spotify.com/album/0JFgZQDWr2NSXQ5vlU7vpe) | 2:36 | 2024-04-23 | 2025-05-14 |
 | [Tana](https://open.spotify.com/track/3Tjq75DIFPx7FUBMwu1BrL) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [Tana](https://open.spotify.com/album/1mfvkuYG4BB9qeJpbaWNOh) | 2:48 | 2026-06-10 |  |

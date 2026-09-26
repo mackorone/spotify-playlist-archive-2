@@ -2,9 +2,9 @@
 
 ### [Radio Corazón](https://open.spotify.com/playlist/37i9dQZF1DWSF59R74xaFB)
 
-> El amor no se escucha, se siente..\.  💖 Kendall Peña en portada.
+> El amor no se escucha, se siente..\.  💖 Ha\*Ash y Cristian Castro en portada.
 
-625 songs - 1 day 12 hr 25 min
+626 songs - 1 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Andar Conmigo](https://open.spotify.com/track/05iMQqncVBIm4AE26EvaTL) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 3:13 | 2021-10-21 |  |
 | [Antes De Que El Mundo Se Acabe](https://open.spotify.com/track/5rEiFEMZsfptjF6svSHc27) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Antes De Que El Mundo Se Acabe](https://open.spotify.com/album/6G8DhREv4cprMtZxUtebPU) | 3:12 | 2026-01-30 | 2026-03-14 |
 | [Antes De Renunciar](https://open.spotify.com/track/4016DEucMihHzSrmeDnriY) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Antes De Renunciar](https://open.spotify.com/album/0cAGiNAiT1y4xFBHTNA0oR) | 3:57 | 2025-05-02 | 2025-05-17 |
+| [Antes Que Te Cases](https://open.spotify.com/track/4m4YeA7v8mfK5EZbQBYJFj) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Antes Que Te Cases](https://open.spotify.com/album/2mVRI81ml1lRbhXN6osYcD) | 3:23 | 2026-09-26 |  |
 | [Antología](https://open.spotify.com/track/1I1DRPWM8iIYEbsuGMbaR3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Grandes Exitos](https://open.spotify.com/album/3JhHRFetUgAWw376a3sk6C) | 4:11 | 2021-10-21 |  |
 | [Aunque Sea Un Momento](https://open.spotify.com/track/7nfvfmJsbzoEFciY8w7ajA) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Contra el Viento](https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr) | 3:37 | 2021-10-21 |  |
 | [Avioncito de Papel](https://open.spotify.com/track/6egy0VnC8Bk0Spubi8Xe1W) | [Dani Martín](https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Avioncito de Papel](https://open.spotify.com/album/5qoaoUSAfDGA4obdQHb2yb) | 3:49 | 2021-10-21 | 2022-04-21 |
@@ -326,7 +327,7 @@
 | [Lumbre](https://open.spotify.com/track/1sgAnJSV7QW8UZPjYytMKe) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk), [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Lumbre](https://open.spotify.com/album/4XtZoZunsXhGF34XDHB2bu) | 3:54 | 2026-01-16 | 2026-01-24 |
 | [Magia \(feat\. Jesús Navarro de Reik\)](https://open.spotify.com/track/1pYj0haXxuFonpEoNxBzsL) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [8 Lunas](https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll) | 3:50 | 2021-10-21 | 2022-04-19 |
 | [Malas Decisiones](https://open.spotify.com/track/6Xj014IHwbLVjiVT6H89on) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [K23](https://open.spotify.com/album/2jN4nUsaEyeT4oefP5XhF6) | 2:19 | 2023-02-24 | 2023-04-01 |
-| [maldita canción \(de pop\)](https://open.spotify.com/track/4ZRjOr9OIHWvVm7bhB0hrX) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [maldita canción \(de pop\)](https://open.spotify.com/album/3y7BxEP4fdzONAVyPjTldX) | 3:18 | 2026-05-15 |  |
+| [maldita canción \(de pop\)](https://open.spotify.com/track/4ZRjOr9OIHWvVm7bhB0hrX) | [Kendall Peña](https://open.spotify.com/artist/2Sb4Db1YYVwCK3l04E9cpn), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [maldita canción \(de pop\)](https://open.spotify.com/album/3y7BxEP4fdzONAVyPjTldX) | 3:18 | 2026-05-15 | 2026-09-26 |
 | [Maldita Primavera](https://open.spotify.com/track/2PKd8lbXAp9LJaysyEtGuE) | [Yuri](https://open.spotify.com/artist/4OgNARLQSC4yy7Dsa5cqxx), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Yuri y Sus Amigos del Regional Mexicano](https://open.spotify.com/album/6tRva9OrjfJ1wzU44X2y3V) | 3:46 | 2025-02-07 | 2025-10-26 |
 | [Maldito miedo \(feat\. Soge Culebra\)](https://open.spotify.com/track/1oGkFC08hfifH5qkgTlOzT) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X), [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5) | [Maldito miedo \(feat\. Soge Culebra\)](https://open.spotify.com/album/4veA2UPcCZNPNn8ewioSWV) | 3:26 | 2021-10-21 | 2022-04-17 |
 | [Mamá](https://open.spotify.com/track/5DCCCNDhkcw1k3VMBN9zrx) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn), [Kim Loaiza](https://open.spotify.com/artist/1QivQCLVipV61DiQiyV14A) | [Mamá](https://open.spotify.com/album/02Vg0bEN68tF5ySg2T6H0I) | 3:22 | 2025-05-02 | 2025-06-14 |

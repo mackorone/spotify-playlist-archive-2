@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de septiembre 2026. Cover: ARIA VEGA",
-  "num_followers": 1541599,
+  "num_followers": 1541895,
   "original_name": "Lo mejor del mes",
   "owner": {
     "name": "Spotify",
@@ -87,6 +87,26 @@
     {
       "added_at": "2026-09-24 18:30:26",
       "album": {
+        "name": "VAMO A VEL",
+        "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "VAMO A VEL",
+      "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
+    },
+    {
+      "added_at": "2026-09-24 18:30:26",
+      "album": {
         "name": "Malas Ma\u00f1as",
         "url": "https://open.spotify.com/album/2ACv05CcHTvW2Bdw8oj0Kh"
       },
@@ -119,26 +139,6 @@
       "duration_ms": 221354,
       "name": "ENTRE TU Y YO",
       "url": "https://open.spotify.com/track/5qWf1WJSGYDCdRQSCdE9Wg"
-    },
-    {
-      "added_at": "2026-09-24 18:30:26",
-      "album": {
-        "name": "VAMO A VEL",
-        "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "VAMO A VEL",
-      "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
     },
     {
       "added_at": "2026-09-24 19:55:06",
@@ -295,8 +295,8 @@
     {
       "added_at": "2026-09-24 18:30:26",
       "album": {
-        "name": "El \u00c1rbol",
-        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
       },
       "artists": [
         {
@@ -304,9 +304,25 @@
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 181960,
-      "name": "El \u00c1rbol",
-      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
+      "duration_ms": 159528,
+      "name": "For Eva",
+      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
+    },
+    {
+      "added_at": "2026-09-24 18:30:26",
+      "album": {
+        "name": "fill de la mar (2026)",
+        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 117857,
+      "name": "gaviotas de cristal",
+      "url": "https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh"
     },
     {
       "added_at": "2026-09-24 18:30:26",
@@ -327,22 +343,6 @@
       "duration_ms": 208465,
       "name": "Tal Vez Ma\u00f1ana",
       "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
-    },
-    {
-      "added_at": "2026-09-24 18:30:26",
-      "album": {
-        "name": "fill de la mar (2026)",
-        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 117857,
-      "name": "gaviotas de cristal",
-      "url": "https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh"
     },
     {
       "added_at": "2026-09-24 18:30:26",
@@ -387,8 +387,8 @@
     {
       "added_at": "2026-09-24 18:30:26",
       "album": {
-        "name": "Para Cuando Sean Mayores",
-        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+        "name": "El \u00c1rbol",
+        "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
       },
       "artists": [
         {
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 159528,
-      "name": "For Eva",
-      "url": "https://open.spotify.com/track/69jTHsPXAij557lc73zcp2"
+      "duration_ms": 181960,
+      "name": "El \u00c1rbol",
+      "url": "https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9"
     },
     {
       "added_at": "2026-09-24 18:30:26",
@@ -675,6 +675,26 @@
     {
       "added_at": "2026-09-24 18:30:26",
       "album": {
+        "name": "JEEP",
+        "url": "https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        }
+      ],
+      "duration_ms": 195886,
+      "name": "JEEP",
+      "url": "https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t"
+    },
+    {
+      "added_at": "2026-09-24 18:30:26",
+      "album": {
         "name": "Si Un D\u00eda Me Extra\u00f1as",
         "url": "https://open.spotify.com/album/0h7ddj7I7SsXci0mOI9lgd"
       },
@@ -687,22 +707,6 @@
       "duration_ms": 206680,
       "name": "Si Un D\u00eda Me Extra\u00f1as",
       "url": "https://open.spotify.com/track/5PfOuTytmTRASLSjreZe2j"
-    },
-    {
-      "added_at": "2026-09-24 18:30:26",
-      "album": {
-        "name": "clich\u00e9",
-        "url": "https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce"
-      },
-      "artists": [
-        {
-          "name": "aLex vs aLex",
-          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
-        }
-      ],
-      "duration_ms": 127616,
-      "name": "2000",
-      "url": "https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36"
     },
     {
       "added_at": "2026-09-24 18:30:26",
@@ -723,22 +727,18 @@
     {
       "added_at": "2026-09-24 18:30:26",
       "album": {
-        "name": "JEEP",
-        "url": "https://open.spotify.com/album/2g5iVDVoQ1WvWTUfxhtzOm"
+        "name": "clich\u00e9",
+        "url": "https://open.spotify.com/album/11GETIu9HUmJlWKOjMkWce"
       },
       "artists": [
         {
-          "name": "MAGNA",
-          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
-        },
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+          "name": "aLex vs aLex",
+          "url": "https://open.spotify.com/artist/5faWaRmwlvIin04bFM0tfM"
         }
       ],
-      "duration_ms": 195886,
-      "name": "JEEP",
-      "url": "https://open.spotify.com/track/7ctWQyAdC1OVpFDtqxNk8t"
+      "duration_ms": 127616,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/4pSR9KbbV3GUtg8Pissd36"
     },
     {
       "added_at": "2026-09-24 18:30:26",
@@ -777,6 +777,38 @@
       "url": "https://open.spotify.com/track/6ZLpEYDN1alkr0wWOcmfuD"
     },
     {
+      "added_at": "2026-09-24 18:30:26",
+      "album": {
+        "name": "VALIENTE",
+        "url": "https://open.spotify.com/album/7zl5hsgnVio4VvgjqkcaWE"
+      },
+      "artists": [
+        {
+          "name": "Gus",
+          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
+        }
+      ],
+      "duration_ms": 150434,
+      "name": "VALIENTE",
+      "url": "https://open.spotify.com/track/6zsh0CVgBxGnmDQvSxAObK"
+    },
+    {
+      "added_at": "2026-09-24 18:30:26",
+      "album": {
+        "name": "I can fix him",
+        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
+      },
+      "artists": [
+        {
+          "name": "Nina del R\u00edo",
+          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
+        }
+      ],
+      "duration_ms": 184893,
+      "name": "I can fix him",
+      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
+    },
+    {
       "added_at": "2026-09-24 19:55:06",
       "album": {
         "name": "algo me gusta de ti",
@@ -811,38 +843,6 @@
     {
       "added_at": "2026-09-24 18:30:26",
       "album": {
-        "name": "I can fix him",
-        "url": "https://open.spotify.com/album/4AZ15o5BeWgBotdBzuHP7r"
-      },
-      "artists": [
-        {
-          "name": "Nina del R\u00edo",
-          "url": "https://open.spotify.com/artist/1wUSPdDC7yelxpg2mdnLGd"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "I can fix him",
-      "url": "https://open.spotify.com/track/6BHXQiNkRvMzBskYaoTk0y"
-    },
-    {
-      "added_at": "2026-09-24 18:30:26",
-      "album": {
-        "name": "VALIENTE",
-        "url": "https://open.spotify.com/album/7zl5hsgnVio4VvgjqkcaWE"
-      },
-      "artists": [
-        {
-          "name": "Gus",
-          "url": "https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4"
-        }
-      ],
-      "duration_ms": 150434,
-      "name": "VALIENTE",
-      "url": "https://open.spotify.com/track/6zsh0CVgBxGnmDQvSxAObK"
-    },
-    {
-      "added_at": "2026-09-24 18:30:26",
-      "album": {
         "name": "PERMANENTE",
         "url": "https://open.spotify.com/album/0JLo9Cf13yWYWebq6rIU0d"
       },
@@ -859,6 +859,22 @@
       "duration_ms": 142275,
       "name": "PERMANENTE",
       "url": "https://open.spotify.com/track/5yfaf9e2rp5u4R80DlFB9V"
+    },
+    {
+      "added_at": "2026-09-24 19:55:06",
+      "album": {
+        "name": "INTER\u00c9S HACIA TI",
+        "url": "https://open.spotify.com/album/3NVnCP1FRHUhAOrKgo7TZ2"
+      },
+      "artists": [
+        {
+          "name": "FAMA",
+          "url": "https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X"
+        }
+      ],
+      "duration_ms": 149291,
+      "name": "INTER\u00c9S HACIA TI",
+      "url": "https://open.spotify.com/track/1YmlIvluWNhC2iHEpwRP6U"
     },
     {
       "added_at": "2026-09-24 19:55:06",
@@ -899,22 +915,6 @@
       "duration_ms": 162925,
       "name": "Bombas de Amor",
       "url": "https://open.spotify.com/track/3GIHVOueM68HxiyW3LRinE"
-    },
-    {
-      "added_at": "2026-09-24 19:55:06",
-      "album": {
-        "name": "INTER\u00c9S HACIA TI",
-        "url": "https://open.spotify.com/album/3NVnCP1FRHUhAOrKgo7TZ2"
-      },
-      "artists": [
-        {
-          "name": "FAMA",
-          "url": "https://open.spotify.com/artist/0vYXDaGn2E1NcgYQ1PVN7X"
-        }
-      ],
-      "duration_ms": 149291,
-      "name": "INTER\u00c9S HACIA TI",
-      "url": "https://open.spotify.com/track/1YmlIvluWNhC2iHEpwRP6U"
     },
     {
       "added_at": "2026-09-24 18:30:26",

@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,931 songs - 5 day 11 hr 1 min
+1,932 songs - 5 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Bloodflow](https://open.spotify.com/track/4ygSSIuPuM0EYu22s8YF4t) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Open](https://open.spotify.com/album/40NdyNNK6vu96QBK1y7ZCx) | 5:58 | 2020-05-18 | 2020-07-18 |
 | [Bloodline feat\. Tomas Høffding](https://open.spotify.com/track/1GyLXvaWJ0dlugN99u4kKb) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Tomas Høffding](https://open.spotify.com/artist/3vAZRzjco8xKk2NbT5BQ6A) | [1983](https://open.spotify.com/album/31bHWGxXkpup6zbPdNjhPy) | 5:50 | 2020-02-29\* | 2020-03-16 |
 | [Bloom](https://open.spotify.com/track/1HaJ9IFikoK82LmPkzNr3x) | [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [Painting In Shades](https://open.spotify.com/album/02SXB7KBEsKUCNMrbJTsr3) | 4:43 | 2021-04-03 | 2022-07-28 |
+| [Bloom](https://open.spotify.com/track/6NisBf2xWzNTyDLEFlCvBk) | [oskar med k](https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ) | [Bloom](https://open.spotify.com/album/0ca5L1k61P5AIUwBF8LYV6) | 3:39 | 2026-09-25 |  |
 | [Blossom](https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Colorize 2023 Spring Sampler](https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO) | 4:00 | 2023-07-07 | 2024-04-19 |
 | [Blue](https://open.spotify.com/track/72bs66ZAxaeg7GUAVUQzZy) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Blue](https://open.spotify.com/album/7qSI8zRVFIOUKdENPi03E5) | 3:37 | 2025-05-23 | 2025-12-20 |
 | [Blue Dream \- Koresma Remix](https://open.spotify.com/track/39KSC7pPxIp15t9NknC6mb) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm), [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [Mountain of Memory \(Remixes\)](https://open.spotify.com/album/2nqwTmApCiPP6jAAB7ZtDn) | 3:07 | 2020-10-09 | 2022-06-12 |
@@ -222,7 +223,7 @@
 | [Breathe \- CamelPhat Just Chill Mix](https://open.spotify.com/track/6omsLkEQDeDHtILgj3Vkmn) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Breathe \(CamelPhat Just Chill Mix\)](https://open.spotify.com/album/3jJE4tQdbiYaRcxgNsVqtn) | 4:31 | 2020-03-16 | 2022-10-13 |
 | [Breathe In](https://open.spotify.com/track/0DzRRsU837SFfGg3qHggZt) | [PRAANA](https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n), [Klur](https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ), [Kuala](https://open.spotify.com/artist/2uMnogCIZC4nsRgavacAkv) | [Breathe In](https://open.spotify.com/album/3OlOyy3r8jil3U0aYzALyw) | 4:25 | 2024-04-05 | 2024-06-22 |
 | [Breathing](https://open.spotify.com/track/1MvLmHeLkaNgUScgbUVnWJ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Breathing](https://open.spotify.com/album/1bgPsKJwqED6DoNaZNdM42) | 3:42 | 2021-03-27 | 2024-04-19 |
-| [Breathing](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Breathing](https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan) | 3:24 | 2025-02-28 |  |
+| [Breathing](https://open.spotify.com/track/4u53O1CMHzbuKjO9fGcGQV) | [Ourson](https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY) | [Breathing](https://open.spotify.com/album/1bMQCZWPYlLqZP7jiurMan) | 3:24 | 2025-02-28 | 2026-09-26 |
 | [Breeze](https://open.spotify.com/track/4Iz4rZPxjWYQCeVtksopKv) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS) | [Breeze](https://open.spotify.com/album/0udlUWkYUdtgKhg8x8DSM5) | 2:38 | 2025-04-18 | 2025-09-24 |
 | [Brighter](https://open.spotify.com/track/6PKGDDpYt39sJfHJrYxJW4) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:41 | 2020-05-18 | 2020-07-03 |
 | [Brighter \- Emmit's Version](https://open.spotify.com/track/033ONGPnuUbMiIPL6Awdpf) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Brighter \(Emmit's Version\)](https://open.spotify.com/album/6H8SEtvWCSthGHsKiXOaHt) | 2:42 | 2024-05-03 | 2024-09-21 |

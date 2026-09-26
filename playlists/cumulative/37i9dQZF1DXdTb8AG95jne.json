@@ -5664,7 +5664,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 191489,
       "name": "Echo",
       "url": "https://open.spotify.com/track/08uirDi1mfmqvrSIlWDR7e"
@@ -17980,6 +17980,24 @@
       "duration_ms": 195866,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/1UZFUBCPJgHqLXgIVOfTGO"
+    },
+    {
+      "album": {
+        "name": "ROLL THE DICE",
+        "url": "https://open.spotify.com/album/7AIR33dZ6Q30CG7OVDbzMd"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234929,
+      "name": "ROLL THE DICE",
+      "url": "https://open.spotify.com/track/5waEeiAfDt9MESRvJvbaC0"
     },
     {
       "album": {

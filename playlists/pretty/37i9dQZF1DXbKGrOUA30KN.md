@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: TOBIAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,617 likes - 90 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,541 likes - 90 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 3 | [10m² \- Mit verifiziert](https://open.spotify.com/track/5uJx4ntkPG08A8ezQTbXvD) | [Philipp Poisel](https://open.spotify.com/artist/7HkIxdAV13bOrkOhh6H3Dg), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [10m² \(Mit verifiziert\)](https://open.spotify.com/album/3dA0RfJpjxn3D5FmH4KqWb) | 3:53 |
 | 4 | [Stille Kämpfe](https://open.spotify.com/track/5bwAUjXCeswq7BD1dX4hqV) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Stille Kämpfe](https://open.spotify.com/album/6i7nTqFylGp2JEqUIHCDxc) | 2:47 |
 | 5 | [KOPF AUS HERZ AUF](https://open.spotify.com/track/3XlF5qXcaqtINvTMPYLAKY) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [KOPF AUS HERZ AUF](https://open.spotify.com/album/3nZ3yNJ7CUaBG7hOK2bkKr) | 2:38 |
-| 6 | [Track 10](https://open.spotify.com/track/5kgirqD4Vp21Svujvqp4BO) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Ich muss dir noch was sagen](https://open.spotify.com/album/09MetCSISjGGdKhi7RTlt0) | 0:00 |
+| 6 | [Down](https://open.spotify.com/track/5kgirqD4Vp21Svujvqp4BO) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Ich muss dir noch was sagen](https://open.spotify.com/album/09MetCSISjGGdKhi7RTlt0) | 2:17 |
 | 7 | [Dein Lied](https://open.spotify.com/track/2nSE7dT2VRZ5it7iGfn5Au) | [KLANGSPIEL](https://open.spotify.com/artist/3usPPkMdtxRaQl5pEpIkAq), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Dein Lied](https://open.spotify.com/album/4ak7YGfD2M1LXg49UXghJU) | 2:08 |
 | 8 | [nebelschwadengrau](https://open.spotify.com/track/3BmSV3De4VMcUpICTFjlFQ) | [maja kemper](https://open.spotify.com/artist/18mccMGkbMAxvuQ5D6a7lk) | [nebelschwadengrau](https://open.spotify.com/album/4dfRHYoDIZuCZ5nYfYhbSu) | 3:16 |
 | 9 | [Solange ich lebe.](https://open.spotify.com/track/5gyD6jxWuim6LVAUncka8W) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6) | [Solange ich lebe.](https://open.spotify.com/album/2i2b5VwoC4g4DyGCVE2sQs) | 2:11 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 16 | [One Hit Wonder](https://open.spotify.com/track/4y0Z8aUrromFTwfLYeNoqe) | [Ellice](https://open.spotify.com/artist/7sAaTbbHDafboXdSERjtEl) | [One Hit Wonder](https://open.spotify.com/album/2eiBFOobO4fdrKfY04bZSE) | 2:35 |
 | 17 | [Optimistisch](https://open.spotify.com/track/1idx5w32OLTjYWcbHqeoP6) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt), [leiseer](https://open.spotify.com/artist/4wNGXnmteSkCfJ4aigVsyz) | [Optimistisch](https://open.spotify.com/album/6tDdSd2I3qQhhTcoHtn0Ky) | 2:55 |
 | 18 | [Ich gebe dir mein Wort](https://open.spotify.com/track/21PPMwnh7W8dgk90PtKJOj) | [Milano](https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm) | [Ich gebe dir mein Wort](https://open.spotify.com/album/4z5jshUbGSd2jPVwq5ZO4G) | 2:26 |
-| 19 | [Tutti Vibe](https://open.spotify.com/track/3cuQKi6tnyfECDBUY1F0lN) | [Querbeat](https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4) | [Tutti Vibe](https://open.spotify.com/album/0lrJuNlMGSVoVeNiLyFUQi) | 2:49 |
+| 19 | [TUTTI VIBE](https://open.spotify.com/track/3cuQKi6tnyfECDBUY1F0lN) | [Querbeat](https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4) | [TUTTI VIBE](https://open.spotify.com/album/0lrJuNlMGSVoVeNiLyFUQi) | 2:49 |
 | 20 | [Glaubst du nicht auch](https://open.spotify.com/track/1MDC9cmNlt3nU18QDk0STY) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc), [benno!](https://open.spotify.com/artist/1EZIni3W4CmC2bTy75Q053) | [So ist das mit dem Glück](https://open.spotify.com/album/4sre2JgnwsJoH2Bd8r0tEA) | 2:26 |
 | 21 | [My Girl](https://open.spotify.com/track/4aoIIMEnYjE5ZDVNuP7FKg) | [Sean Ok](https://open.spotify.com/artist/1bsrTaW6CckCpXMVCVRD2y) | [My Girl](https://open.spotify.com/album/4tyWe4sgq5eEOyJBosup40) | 2:58 |
 | 22 | [Gut](https://open.spotify.com/track/3mZDTsGwdZwLT7Y4C1iYcD) | [Culcha Candela](https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL) | [Gut](https://open.spotify.com/album/74Dv5YRgUsvpzMXYLEPXi7) | 2:24 |

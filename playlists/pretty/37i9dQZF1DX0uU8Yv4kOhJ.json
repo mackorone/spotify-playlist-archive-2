@@ -1,15 +1,15 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 135360,
+  "num_followers": 135356,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK6eald/jCQDX/tCiN0CQrtSVsda",
+  "snapshot_id": "AAAAAF8XFVBUaM7twaAOZKxXIcSsJYD8",
   "tracks": [
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Le top des Andes (Les plus grands th\u00e8mes \u00e0 la fl\u00fbte des Andes)",
         "url": "https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
+        "name": "Los Ojos Del C\u00f3ndor",
+        "url": "https://open.spotify.com/album/2C8ZUoLNFrEO7KzPg03329"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 194961,
+      "name": "Alma Mia",
+      "url": "https://open.spotify.com/track/0UbHQ7wLwqGetrn2dOVBVc"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Orcas",
         "url": "https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3"
@@ -41,23 +57,7 @@
       "url": "https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Land of the Incas (Music of the Andes)",
-        "url": "https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn"
-      },
-      "artists": [
-        {
-          "name": "Inkuyo",
-          "url": "https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt"
-        }
-      ],
-      "duration_ms": 308880,
-      "name": "Wipala",
-      "url": "https://open.spotify.com/track/7uxmsieVovltullEN2B8QU"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Morochaje de Primera L\u00ednea (Cerrero Dub Mix)",
         "url": "https://open.spotify.com/album/6gxUTwTgzHBJ3lLEFjf8ka"
@@ -77,23 +77,23 @@
       "url": "https://open.spotify.com/track/30XTJz8FWDN2zUL0ZcwIvb"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
-        "name": "Flutes Indiennes",
-        "url": "https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF"
+        "name": "Land of the Incas (Music of the Andes)",
+        "url": "https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn"
       },
       "artists": [
         {
-          "name": "Los Incas",
-          "url": "https://open.spotify.com/artist/0FuVBvRYAU8R2GEyErL64H"
+          "name": "Inkuyo",
+          "url": "https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt"
         }
       ],
-      "duration_ms": 125346,
-      "name": "Recuerdos de Calahuayo (Peru)",
-      "url": "https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq"
+      "duration_ms": 308880,
+      "name": "Wipala",
+      "url": "https://open.spotify.com/track/7uxmsieVovltullEN2B8QU"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Llegar\u00e1",
         "url": "https://open.spotify.com/album/1tbSyBL4rjT73sQwLfDNpi"
@@ -113,7 +113,23 @@
       "url": "https://open.spotify.com/track/6WUDIML61rMTnuxRlNVcJL"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
+        "name": "Flutes Indiennes",
+        "url": "https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF"
+      },
+      "artists": [
+        {
+          "name": "Los Incas",
+          "url": "https://open.spotify.com/artist/0FuVBvRYAU8R2GEyErL64H"
+        }
+      ],
+      "duration_ms": 125346,
+      "name": "Recuerdos de Calahuayo (Peru)",
+      "url": "https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Quena De Los Andes",
         "url": "https://open.spotify.com/album/5uzYC0tdg1kxzzbNzNq7t1"
@@ -129,39 +145,7 @@
       "url": "https://open.spotify.com/track/4QPnKgaAx3vQJ05LGfIu2h"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "El Fin del Mar",
-        "url": "https://open.spotify.com/album/51xJG7Sg2Lkh7FJEAzxUvK"
-      },
-      "artists": [
-        {
-          "name": "Vilamarea",
-          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
-        }
-      ],
-      "duration_ms": 258687,
-      "name": "El Fin del Mar",
-      "url": "https://open.spotify.com/track/7z0Rl2N1ChaC6a9FxSGn9Y"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Land of the Incas (Music of the Andes)",
-        "url": "https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn"
-      },
-      "artists": [
-        {
-          "name": "Inkuyo",
-          "url": "https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt"
-        }
-      ],
-      "duration_ms": 198360,
-      "name": "U\u00f1a",
-      "url": "https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
         "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
@@ -177,7 +161,23 @@
       "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
+        "name": "Land of the Incas (Music of the Andes)",
+        "url": "https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn"
+      },
+      "artists": [
+        {
+          "name": "Inkuyo",
+          "url": "https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt"
+        }
+      ],
+      "duration_ms": 198360,
+      "name": "U\u00f1a",
+      "url": "https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/4BQafZfyveBiMv3FDJ6wAU"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/2nHbYehgkMWR4fmqswEvD9"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Encuentros (Meetings)",
         "url": "https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL"
@@ -209,7 +209,7 @@
       "url": "https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "A Journey To The Andes",
         "url": "https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Quena de los Andes",
         "url": "https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Hoja de Coca",
         "url": "https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Viento en los Andes",
         "url": "https://open.spotify.com/album/4irQteHtIYmZJ8dVlPHCIF"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/48TL83NPwQdSvaFATmjKPn"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Isqun",
         "url": "https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7"
@@ -289,7 +289,7 @@
       "url": "https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Charango Peruano",
         "url": "https://open.spotify.com/album/4HVoQalB9EVdBsbeOt4Wxx"
@@ -305,7 +305,7 @@
       "url": "https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Musica De Bolivia",
         "url": "https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC"
@@ -321,7 +321,7 @@
       "url": "https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "No Vuelvo a Amar (Bolivia y Su Folklore)",
         "url": "https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY"
@@ -353,7 +353,7 @@
       "url": "https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/4C0QSVsIVjfwsWVw2NKLl7"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/5x214mzuu4GqHBCLIVJkDk"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Guitarra y Canto del Ande",
         "url": "https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Pu\u00f1ales",
         "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Mezcla",
         "url": "https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Pura Flor",
         "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 2",
         "url": "https://open.spotify.com/album/4mbnG0P8Oi8JJAoCtX8J5D"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/120c4z2FZUop2bVpc5sTMD"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Qam Hina",
         "url": "https://open.spotify.com/album/4iRMmNgcj155HZInt8BXxK"
@@ -481,7 +481,7 @@
       "url": "https://open.spotify.com/track/4rRgfl70FRS1OYBD29pQa4"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Alma m\u00eda",
         "url": "https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ"
@@ -497,7 +497,7 @@
       "url": "https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "No Me Quiero Doler",
         "url": "https://open.spotify.com/album/0bxPIMdVzvOY31BxAqv6FQ"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/5yHQDlmQ4PJQR9CAFsdoMG"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Vol. 2",
         "url": "https://open.spotify.com/album/4ue3QgybkfMuFP2sFk2zBP"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/7bPZBm7Wr6poE49MRWO30V"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Tiempo Atr\u00e1s",
         "url": "https://open.spotify.com/album/1de6lhpWxYRivS5xSM83gK"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Melodias Andinas - Musica Instrumental",
         "url": "https://open.spotify.com/album/6uO1WhrVQiOOEmpoA3QYxz"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/03FqjvZvLyITRlrVkpgscu"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Temporal",
         "url": "https://open.spotify.com/album/6oh8cAjnjKEG9VukgrxHAQ"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/4XuDgMcyzLFaBAeRFx1MK0"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Wal\u00fcng II",
         "url": "https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Presente Simple",
         "url": "https://open.spotify.com/album/5ti3NX7RmgXSSWaFJQ9eay"
@@ -621,7 +621,7 @@
       "url": "https://open.spotify.com/track/0VHAHQJZvo6djEvDB551Vf"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "La Ni\u00f1a Blanca",
         "url": "https://open.spotify.com/album/4eTyTbkSsLAM0pwR7Uex5s"
@@ -637,7 +637,7 @@
       "url": "https://open.spotify.com/track/2HQfE6rpHZnbXZUtUtO9RL"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Alpamayo: Music From Peru and Ecuador",
         "url": "https://open.spotify.com/album/1dxPMheXy9f4e4qdanfuVK"
@@ -653,7 +653,7 @@
       "url": "https://open.spotify.com/track/5AzMb8M8OP7gzY4eoofKsX"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Desventura",
         "url": "https://open.spotify.com/album/1gNGhrPZGS6fYcUSR6I7Ku"
@@ -669,7 +669,7 @@
       "url": "https://open.spotify.com/track/62JMeGryB8d3EHFUpFfQWQ"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "This Is How You Smile",
         "url": "https://open.spotify.com/album/17LsQV3q3cgTBrat3D5JSv"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/5lvBsLDwmZdpWOTRTl8dZu"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "La Casa No Existe",
         "url": "https://open.spotify.com/album/0SxTeOE2w7uINeSt7I8wmT"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/5xKk5ZGsk6HPspcaCgr8kr"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Amansar\u00e1 (Remixed)",
         "url": "https://open.spotify.com/album/1APDDRn5wQC7a1EpMUIrjd"
@@ -721,7 +721,23 @@
       "url": "https://open.spotify.com/track/26hcJ6HQTl79tPYikflRc5"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
+      "album": {
+        "name": "Caminar en Belleza",
+        "url": "https://open.spotify.com/album/7zosPbSLoJngyH1Mmjfmdu"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        }
+      ],
+      "duration_ms": 219297,
+      "name": "Caminar en Belleza",
+      "url": "https://open.spotify.com/track/0BkMJwnKsmg7lpXSzRRNuZ"
+    },
+    {
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Altamar",
         "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
@@ -737,7 +753,7 @@
       "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
@@ -757,7 +773,7 @@
       "url": "https://open.spotify.com/track/0633GnMObUml98aYLCUmEg"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Eso Que Tu Haces",
         "url": "https://open.spotify.com/album/4JGmH3z4Hr3xhUEWvnAqz7"
@@ -773,7 +789,7 @@
       "url": "https://open.spotify.com/track/3KXaCW6XnAJnon4VwwVJWY"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Ac\u00fastico",
         "url": "https://open.spotify.com/album/1L7X3TMHXuB8XSOZpdkxAc"
@@ -789,7 +805,7 @@
       "url": "https://open.spotify.com/track/4QHLlJYsUWCoRkRaUFYIhP"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Prender el Alma",
         "url": "https://open.spotify.com/album/3qayyVd2DD1T9uXwOZoHsP"
@@ -805,7 +821,7 @@
       "url": "https://open.spotify.com/track/5pU9azu0VQIUk2nTUVxwxY"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "\u201dZamba Puta\u201d",
         "url": "https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J"
@@ -821,7 +837,7 @@
       "url": "https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D"
     },
     {
-      "added_at": "2023-09-29 18:58:26",
+      "added_at": "2026-09-25 04:59:23",
       "album": {
         "name": "Balance",
         "url": "https://open.spotify.com/album/2nwchash9HLqv22iAUBrKx"
@@ -839,22 +855,6 @@
       "duration_ms": 254815,
       "name": "Corazon de Rubi",
       "url": "https://open.spotify.com/track/4ZNIMDo5YS5blN6MsN0tL9"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Manglares (B-Sides) - EP",
-        "url": "https://open.spotify.com/album/4BxZEP4iqM3Bm4iOm6q1O1"
-      },
-      "artists": [
-        {
-          "name": "TELEBIT",
-          "url": "https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI"
-        }
-      ],
-      "duration_ms": 218752,
-      "name": "Gemas",
-      "url": "https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH"
     }
   ],
   "unique_name": "Entre los Andes",

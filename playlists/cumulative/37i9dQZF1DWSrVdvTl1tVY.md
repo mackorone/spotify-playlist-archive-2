@@ -4,7 +4,7 @@
 
 > The biggest house bangers popping off in the UK, let's go! Cover: Max Dean, Luke Dean, Nafe Smallz
 
-1,565 songs - 3 day 16 hr 9 min
+1,565 songs - 3 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-06 | 2024-02-09 |
 | [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 | 2023-08-03 | 2023-12-22 |
 | [Dying To Survive](https://open.spotify.com/track/659VTygtDypGKXaw9UsECk) | [Justin Vilhauer](https://open.spotify.com/artist/3sdVoeK4pnIakZ3Lb3W3kn), [RozálesD](https://open.spotify.com/artist/7GhnyJS0tG7wuQiaHj9Mat) | [Dying To Survive](https://open.spotify.com/album/7qHQiUr8I6gPVs47pe3v7g) | 6:12 | 2025-12-12 | 2026-03-20 |
+| [Dynamo](https://open.spotify.com/track/4C6SwszAF1EBgkGnkkdFvW) | [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df) | [Dynamo EP](https://open.spotify.com/album/1AatZ6Er5CKdQ1wGxhsT1K) | 2:45 | 2026-09-24 |  |
 | [DÓNDE ESTÁ](https://open.spotify.com/track/35syZ8HVLl1YBS0bY6nzaj) | [YOURS](https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7) | [DÓNDE ESTÁ](https://open.spotify.com/album/7u8SXWRQiR1aCmyjHCzwWJ) | 3:48 | 2023-06-09 | 2023-07-14 |
 | [E\-Soul](https://open.spotify.com/track/7HtG4VfVor4wAktzmvRtnW) | [Darius Syrossian](https://open.spotify.com/artist/6PDUdAoMV9dMy0wOt09Rsf), [Jena](https://open.spotify.com/artist/5C4eCUR6V0Kbdn8g0y390j) | [E\-Soul](https://open.spotify.com/album/16hF10iERvFSYxGV4ty43f) | 3:52 | 2023-11-24 | 2024-02-24 |
 | [Earthquake](https://open.spotify.com/track/0HPhh6qb8R9uklOyCZPghi) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR) | [Earthquake](https://open.spotify.com/album/4pKPanLt7ZuyR4qepavqFt) | 3:27 | 2025-03-28 | 2025-08-01 |
@@ -1425,7 +1426,6 @@
 | [Touch Down \(Feel The Rush\)](https://open.spotify.com/track/7KH2YG1vKtZurTuRg3n19l) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [Touch Down \(Feel The Rush\)](https://open.spotify.com/album/6NbkKbATuGjI6E5vKtYCHI) | 3:16 | 2024-06-14 | 2025-01-31 |
 | [Touching My Body](https://open.spotify.com/track/57PvBFABJ1F5mX69oUt8Yh) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Etta Bond](https://open.spotify.com/artist/0zanHkxN0P38oWegA8iSQA) | [Touching My Body / Down Shovel](https://open.spotify.com/album/6WqDlSi0CRDZWTFjPNxtrI) | 7:10 | 2023-07-06 | 2023-11-10 |
 | [Toxic](https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Ragie Ban](https://open.spotify.com/artist/7lz52Oe1rAo5DwfSRwFsQL) | [Toxic](https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn) | 2:44 | 2025-03-28 | 2025-07-25 |
-| [Track 1](https://open.spotify.com/track/4C6SwszAF1EBgkGnkkdFvW) | [Ronnie Spiteri](https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df) | [Dynamo EP](https://open.spotify.com/album/1AatZ6Er5CKdQ1wGxhsT1K) | 0:00 | 2026-09-24 |  |
 | [Trapped \- Radio\-Edit](https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [What Did You Come For ?](https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e) | 3:41 | 2026-07-09 |  |
 | [Tremble \(ft\. Kim English\)](https://open.spotify.com/track/4EPlJnDi3cE0V3H5iYjs6M) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Tremble \(ft\. Kim English\)](https://open.spotify.com/album/2Fji8FWMOMhF1mLiH5taPF) | 2:42 | 2025-02-21 | 2025-06-27 |
 | [Tribal Badman](https://open.spotify.com/track/6Fvzozbq17iFwej6D0vuOE) | [Ben Sterling](https://open.spotify.com/artist/79uJoLQkQ621xZy7MyH4uL) | [Tribal Badman](https://open.spotify.com/album/6RhN7hwwVezdN1tlOz7sZs) | 3:32 | 2024-07-25 | 2025-03-07 |

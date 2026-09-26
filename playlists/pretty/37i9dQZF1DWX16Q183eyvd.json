@@ -1,13 +1,33 @@
 {
   "description": "Push play on the coolest playlist around, and get ready to jump around. Cover: Gracie's Corner\n\n",
-  "num_followers": 135116,
+  "num_followers": 135172,
   "original_name": "Hip-Hop & R&B for Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAYBp7H3nbb3LgUAs/X78v6zWqbr",
+  "snapshot_id": "AAAAAOdKS6roa0Rg8dWsUzw//lvkmUHs",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:01:52",
+      "album": {
+        "name": "Get It Right (Listen to NATURE!)",
+        "url": "https://open.spotify.com/album/0gZpgjBVMe2ebi1pK7bTAf"
+      },
+      "artists": [
+        {
+          "name": "Alphabet Rockers",
+          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 264762,
+      "name": "Get It Right (Listen to NATURE!)",
+      "url": "https://open.spotify.com/track/0DjkMloRTe2gzapuUAlRIP"
+    },
     {
       "added_at": "2026-08-07 04:00:56",
       "album": {
@@ -479,22 +499,6 @@
       "duration_ms": 172913,
       "name": "Cookie Jar",
       "url": "https://open.spotify.com/track/01rRqiFCeG17apx187OJjo"
-    },
-    {
-      "added_at": "2026-07-26 19:42:47",
-      "album": {
-        "name": "Eclipse: The Musical",
-        "url": "https://open.spotify.com/album/4bLwHgjmfLPcT1jl3zno2L"
-      },
-      "artists": [
-        {
-          "name": "Alphabet Rockers",
-          "url": "https://open.spotify.com/artist/1drbmqQDCYQ7pPtGYj5Y04"
-        }
-      ],
-      "duration_ms": 196543,
-      "name": "Syzygy",
-      "url": "https://open.spotify.com/track/1LBKOcvDxeoPzsP1hgQB5o"
     },
     {
       "added_at": "2026-07-26 19:42:47",

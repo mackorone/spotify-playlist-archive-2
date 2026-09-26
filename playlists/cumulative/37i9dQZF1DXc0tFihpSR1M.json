@@ -558,7 +558,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 311733,
       "name": "Aperture",
       "url": "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0"
@@ -7031,6 +7031,24 @@
     },
     {
       "album": {
+        "name": "livredd for \u00e5 bli glemt",
+        "url": "https://open.spotify.com/album/0dcFlsfGtRTvUMgMz8YSTM"
+      },
+      "artists": [
+        {
+          "name": "Metropolen",
+          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233731,
+      "name": "Livredd for \u00e5 bli glemt",
+      "url": "https://open.spotify.com/track/18t5lCoaT5aOyETbGlXq8K"
+    },
+    {
+      "album": {
         "name": "Lomma full av solskinn (feat. Ravi)",
         "url": "https://open.spotify.com/album/0einyi3IgQMoOy70BDNiOH"
       },
@@ -8532,6 +8550,24 @@
       "duration_ms": 172212,
       "name": "Not That Serious",
       "url": "https://open.spotify.com/track/7B6yrPp2vBtm57Q8HM2cyb"
+    },
+    {
+      "album": {
+        "name": "PS: ikke si det til noen",
+        "url": "https://open.spotify.com/album/5J6ILL10VbOcA0QlGRjxgZ"
+      },
+      "artists": [
+        {
+          "name": "Yngvil",
+          "url": "https://open.spotify.com/artist/4uE77IUh7bzJzGZjRnKOOj"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167795,
+      "name": "Notting Hill",
+      "url": "https://open.spotify.com/track/4VcGKBVrELc3BHY52AN4bX"
     },
     {
       "album": {
@@ -10968,7 +11004,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 187265,
       "name": "Summer You Were Mine",
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
@@ -12172,42 +12208,6 @@
       "duration_ms": 166291,
       "name": "Toscana",
       "url": "https://open.spotify.com/track/7rQxgwpo7sS77Yv0oVYG81"
-    },
-    {
-      "album": {
-        "name": "PS: ikke si det til noen",
-        "url": "https://open.spotify.com/album/5J6ILL10VbOcA0QlGRjxgZ"
-      },
-      "artists": [
-        {
-          "name": "Yngvil",
-          "url": "https://open.spotify.com/artist/4uE77IUh7bzJzGZjRnKOOj"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4VcGKBVrELc3BHY52AN4bX"
-    },
-    {
-      "album": {
-        "name": "livredd for \u00e5 bli glemt",
-        "url": "https://open.spotify.com/album/0dcFlsfGtRTvUMgMz8YSTM"
-      },
-      "artists": [
-        {
-          "name": "Metropolen",
-          "url": "https://open.spotify.com/artist/2veUQvo0k7rk3TI5l0EnIi"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/18t5lCoaT5aOyETbGlXq8K"
     },
     {
       "album": {

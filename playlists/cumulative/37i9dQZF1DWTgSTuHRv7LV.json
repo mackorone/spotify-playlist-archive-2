@@ -5860,7 +5860,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 191856,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/5fa2aNf763WQkl921OYblE"
@@ -9442,7 +9442,7 @@
       ],
       "date_added": "2025-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 213356,
       "name": "Lo Que Soy",
       "url": "https://open.spotify.com/track/6zQ1fFfhSPdwid5mKSlBeq"
@@ -12658,6 +12658,28 @@
       "duration_ms": 258540,
       "name": "Paulo Londra: Bzrp Music Sessions, Vol. 23",
       "url": "https://open.spotify.com/track/4F4bzCA8RWoyKQDfeFGolM"
+    },
+    {
+      "album": {
+        "name": "Pedro Cash",
+        "url": "https://open.spotify.com/album/59YPyzeKH5lSYUScOn9MZN"
+      },
+      "artists": [
+        {
+          "name": "Akapellah",
+          "url": "https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173626,
+      "name": "Pedro Cash",
+      "url": "https://open.spotify.com/track/2a8imDK3pmBDJxiVB07iq5"
     },
     {
       "album": {
@@ -17592,6 +17614,32 @@
       "duration_ms": 187500,
       "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
+    },
+    {
+      "album": {
+        "name": "Violencia",
+        "url": "https://open.spotify.com/album/7ojU1LWWkRdh4wSpEnPvGj"
+      },
+      "artists": [
+        {
+          "name": "H de Perra",
+          "url": "https://open.spotify.com/artist/58IwebpCTUds8Ricp3zbTU"
+        },
+        {
+          "name": "MALEBO",
+          "url": "https://open.spotify.com/artist/2S65E8yhw1Qbw0fc196FFW"
+        },
+        {
+          "name": "Teorema",
+          "url": "https://open.spotify.com/artist/3oXB0SMPKC4ILFeiCQR3TA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246857,
+      "name": "Violencia",
+      "url": "https://open.spotify.com/track/6GJ4n1wYeoIRTMRrrnLXyw"
     },
     {
       "album": {

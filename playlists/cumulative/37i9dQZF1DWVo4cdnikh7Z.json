@@ -5896,8 +5896,8 @@
       },
       "artists": [
         {
-          "name": "Hari S. R",
-          "url": "https://open.spotify.com/artist/2tpEowIgDzU8mOYxzM2L6S"
+          "name": "Hari S R",
+          "url": "https://open.spotify.com/artist/2JE6c6KUpnyUqx8JcyU7d7"
         },
         {
           "name": "Thamizh Aadhavan",
@@ -14641,6 +14641,24 @@
     },
     {
       "album": {
+        "name": "Enthine Kaalum Ninne",
+        "url": "https://open.spotify.com/album/03ZPHmz9t4cKLwSn9mrccF"
+      },
+      "artists": [
+        {
+          "name": "Ashkar Perinkary",
+          "url": "https://open.spotify.com/artist/5evoR7TBHVu7yziT2oHOAO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258424,
+      "name": "Enthine Kaalum Ninne",
+      "url": "https://open.spotify.com/track/0RsBtCsKeYWVl4WqUlTf37"
+    },
+    {
+      "album": {
         "name": "Aalambana (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/39KQ4Vr4myL0VV1c9IFUCR"
       },
@@ -19848,6 +19866,36 @@
       "duration_ms": 211494,
       "name": "Iyalisaiye (From \"Yen Ennai Edho Seidhai\")",
       "url": "https://open.spotify.com/track/567NWlEGfrwfDV5PAjCipW"
+    },
+    {
+      "album": {
+        "name": "Jai Jai Rama (From \"Ramayana\") [TAMIL]",
+        "url": "https://open.spotify.com/album/3zMJabgdu8wV9cna4E8yhU"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Chinmayi",
+          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320139,
+      "name": "Jai Jai Rama (From \"Ramayana\") [TAMIL]",
+      "url": "https://open.spotify.com/track/2tQPhcbelljNZf0MIwg9bo"
     },
     {
       "album": {
@@ -29256,7 +29304,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 273644,
       "name": "Loser Song - From \"I'M Game - Tamil\"",
       "url": "https://open.spotify.com/track/2KM4MV98U8y002Et7pRpof"
@@ -40548,6 +40596,36 @@
       "duration_ms": 60000,
       "name": "One Name (From \"Jailer 2\")",
       "url": "https://open.spotify.com/track/4NMe76giWnRILo6nTfvPeP"
+    },
+    {
+      "album": {
+        "name": "One Sun One Moon (From \"Jailer 2\")",
+        "url": "https://open.spotify.com/album/5Rw1dH1FoUDJyIa9iqMM1Z"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Super Subu",
+          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
+        },
+        {
+          "name": "M.S Krsna",
+          "url": "https://open.spotify.com/artist/4qVLx0XPsO5EInvKYH6Pxx"
+        },
+        {
+          "name": "Heisenberg",
+          "url": "https://open.spotify.com/artist/3bsrlEbnX8sWwXlTe80RSr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217142,
+      "name": "One Sun One Moon (From \"Jailer 2\")",
+      "url": "https://open.spotify.com/track/1GPaw1k528Taq3YOr4Bmtu"
     },
     {
       "album": {

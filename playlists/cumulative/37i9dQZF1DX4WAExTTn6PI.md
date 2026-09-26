@@ -2,9 +2,9 @@
 
 ### [Emerging Americana](https://open.spotify.com/playlist/37i9dQZF1DX4WAExTTn6PI)
 
-> Rising voices, enduring roots\. Cover: Zach Meadows
+> Rising voices, enduring roots\. Cover: Lawrence Rothman
 
-463 songs - 1 day 4 hr 4 min
+466 songs - 1 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,7 +151,7 @@
 | [Golden Child](https://open.spotify.com/track/54ST44raZeEPHldDpV0x2m) | [Mercy Bell](https://open.spotify.com/artist/66gM98dnEDRy8GkDmZt0EG) | [Golden Child](https://open.spotify.com/album/3zgi09x1GpxbxjBx087ajX) | 3:59 | 2022-01-28 | 2023-06-17 |
 | [Golden State](https://open.spotify.com/track/45xzjdv3RJdGtSBbDyKg0t) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [Golden State](https://open.spotify.com/album/4rUeKNbWM0XQwbkojQSMFI) | 4:24 | 2023-05-19 | 2025-12-13 |
 | [Gone](https://open.spotify.com/track/087TB9G9VYQ8BDGOoKtbW8) | [Rambler Kane](https://open.spotify.com/artist/7k8nztcDZOpEF7BO327JCg) | [Gone](https://open.spotify.com/album/6XfYaqvXP5729clabOlMNG) | 3:32 | 2025-11-07 | 2025-12-13 |
-| [Gonna Love You](https://open.spotify.com/track/1DxHrCHAwrKh8L2FdwrQhu) | [John Hollier & the Rêverie](https://open.spotify.com/artist/57boDAppxqwgLqZs4NRmFs) | [Rainmaker](https://open.spotify.com/album/300BYZlr1qe8sUE0qD5BOK) | 2:42 | 2026-03-20 |  |
+| [Gonna Love You](https://open.spotify.com/track/1DxHrCHAwrKh8L2FdwrQhu) | [John Hollier & the Rêverie](https://open.spotify.com/artist/57boDAppxqwgLqZs4NRmFs) | [Rainmaker](https://open.spotify.com/album/300BYZlr1qe8sUE0qD5BOK) | 2:42 | 2026-03-20 | 2026-09-26 |
 | [Good Luck](https://open.spotify.com/track/3kYXNH6QFe8bdNKL5XftO2) | [Alice Kristiansen](https://open.spotify.com/artist/4GhlwQ4mxyuwgeOiuWePZl) | [Nothing is Forever](https://open.spotify.com/album/37A8FUlvO6vib4JoAi60zb) | 4:04 | 2025-12-12 | 2026-08-15 |
 | [Good Night Down in Georgia](https://open.spotify.com/track/2SJygkVMOLAp8690LOee1h) | [The Dirty Guv'nahs](https://open.spotify.com/artist/4h3cy2TQzlb5Aklcr2CghR) | [Revival](https://open.spotify.com/album/4C75RzJVeSN3s1K0cwZTpY) | 4:10 | 2022-01-28 | 2024-03-02 |
 | [Good Ol' Boys with Bad Names](https://open.spotify.com/track/659Vb5AFqIdFiMDY8GXUAp) | [Logan Halstead](https://open.spotify.com/artist/4XuOM2K7MfXMP6cinOPido) | [Good Ol' Boys with Bad Names](https://open.spotify.com/album/2LbLo3eYCbE3CTe4sYQmM0) | 1:54 | 2023-02-03 | 2025-11-08 |
@@ -280,6 +280,7 @@
 | [Miss Queen Know It All](https://open.spotify.com/track/2vJgX76zzFsPMoUhdPlLeb) | [Meg Lui](https://open.spotify.com/artist/0ei3gCD1ByhH4bn6DeGBsJ) | [Miss Queen Know It All](https://open.spotify.com/album/0vdydLfZYSC8bJDlIjz1bT) | 3:26 | 2026-08-28 |  |
 | [Molly and Me](https://open.spotify.com/track/6hU7Ulx7be3y1SAmQdO9cp) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Molly and Me](https://open.spotify.com/album/60wYaXAT0BiEBDRH13TUNu) | 3:55 | 2026-09-11 |  |
 | [Montana](https://open.spotify.com/track/7dOJBgT085toOuePJKRaTA) | [Charlie Marie](https://open.spotify.com/artist/406fNzpPwYacXCIIExPSuj) | [Signs](https://open.spotify.com/album/6TOi3zlVKoBLOAT3mwbGkR) | 4:15 | 2026-06-05 |  |
+| [Moonlight and Tobacco](https://open.spotify.com/track/3VH6jBni83e1mYwRM3RKep) | [Humbird](https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB) | [Morning When it Comes](https://open.spotify.com/album/0A4FaKWZ7j6umN53gn7WzV) | 3:26 | 2026-09-25 |  |
 | [More](https://open.spotify.com/track/3VcsNXPuVExzrsc3Garkmf) | [Kalyn Fay](https://open.spotify.com/artist/2ojhmBnnR44AHdtGGK8f9q) | [More](https://open.spotify.com/album/3hYLDvOXofP7VgpUY5aC1v) | 3:08 | 2026-02-27 | 2026-09-12 |
 | [MotherDaughterSisterWife](https://open.spotify.com/track/3DC4W4ci66hEfWq9TJnd3M) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [MotherDaughterSisterWife](https://open.spotify.com/album/6HS310557rzpZixPuDvBvH) | 3:22 | 2025-10-17 | 2026-01-31 |
 | [Mountain Brandy](https://open.spotify.com/track/5YGlfUaRKY3wGBSp6g2BdV) | [Colby T\. Helms](https://open.spotify.com/artist/41SWovnnP8qo3g7e7TTtmO) | [Tales of Misfortune](https://open.spotify.com/album/7r45qFqWDxmJOCNAPZBiuZ) | 4:36 | 2024-01-19 | 2026-04-18 |
@@ -293,6 +294,7 @@
 | [Normal Man](https://open.spotify.com/track/6G9FbzVLpaO11tdbF695bw) | [Will Slater](https://open.spotify.com/artist/1yxkDgfBfLB58FnsUUexpD) | [Normal Man](https://open.spotify.com/album/1Zev3Kk02xxQDe5opXZKaI) | 4:13 | 2026-01-30 | 2026-08-08 |
 | [Not Going Back](https://open.spotify.com/track/6Th9lSm2XopRstK6kNlfSa) | [Muireann Bradley](https://open.spotify.com/artist/4kuuvvwzgrAZYE67WPrbYl) | [Not Going Back](https://open.spotify.com/album/4CbuucoAgrfGommZyADFtY) | 3:26 | 2026-06-26 |  |
 | [Nothin' At All](https://open.spotify.com/track/0OPx3KJ24XdVgZSbAcrxLz) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Nothin' At All // Good These Days](https://open.spotify.com/album/4z8ST41if1eDX00HErdqhs) | 2:34 | 2025-03-21 | 2026-02-07 |
+| [Nothing Like Shakespeare](https://open.spotify.com/track/3k1ScqyvjNY0t9khBY3YaW) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N) | [Here Lies Love/Sawdust To Stardust](https://open.spotify.com/album/6Xx6wzmVTtdHxtzRNWn909) | 2:56 | 2026-09-25 |  |
 | [Nothing's Wrong](https://open.spotify.com/track/3ejswiDrCHaq6OxOB21iLe) | [Jacob McCoy](https://open.spotify.com/artist/1ZF1pknOx8smpDfSgsb7uh) | [Nothing's Wrong](https://open.spotify.com/album/12LA0B9aSUiE5zaTydkFnr) | 3:42 | 2026-02-13 | 2026-08-28 |
 | [Ocean Bed](https://open.spotify.com/track/53dyuOtRb9WMz5puNHodZN) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Ocean Bed](https://open.spotify.com/album/2xCrzpspW5gU2hkMENVexR) | 4:00 | 2022-01-28 | 2023-01-14 |
 | [Oh Don't Tell Her](https://open.spotify.com/track/3RSgNrKX1pKr9IGXI8DJeb) | [Todd Day Wait](https://open.spotify.com/artist/6GAZhXqlPQdf3mzK6hvGM9) | [Letters From The Road](https://open.spotify.com/album/0JHImX2PUsNADoalvG2APK) | 3:17 | 2025-12-12 | 2026-03-28 |
@@ -327,7 +329,7 @@
 | [Property Line](https://open.spotify.com/track/24vqPVOfqHTIqf1QzGy2qn) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Property Line](https://open.spotify.com/album/04y1xdX3N1r6ns09xw7hJI) | 2:24 | 2023-05-26 | 2023-07-15 |
 | [Psyche](https://open.spotify.com/track/5mhPc3WZRnqjNPNTYApJxn) | [davy](https://open.spotify.com/artist/2dbsiIAqa0BRSqYP9WqJ2f) | [Psyche](https://open.spotify.com/album/4audkdrvzLc89WPI96WTRG) | 3:58 | 2026-08-07 |  |
 | [Pulverize](https://open.spotify.com/track/0XHLZNivQ9KbQ4RsdjESx9) | [Thomas Dollbaum](https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ) | [Pulverize](https://open.spotify.com/album/6IJ34SLxxEXBVQ9ekiyUTn) | 3:52 | 2026-05-08 | 2026-09-19 |
-| [Queen of Spades](https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo) | [Queen of Spades](https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5) | 3:40 | 2026-03-20 |  |
+| [Queen of Spades](https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo) | [Queen of Spades](https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5) | 3:40 | 2026-03-20 | 2026-09-26 |
 | [Rabbits](https://open.spotify.com/track/0y87p8TQIJ5FRpBhVKOvJQ) | [Thomas Dollbaum](https://open.spotify.com/artist/3TBOFVWrSRdDxKjNxBdlKZ) | [Rabbits](https://open.spotify.com/album/0hbpIIHxUA6oCIi4pEgDuC) | 2:50 | 2026-05-22 | 2026-08-28 |
 | [Ready](https://open.spotify.com/track/1Nt7Anp2dEuY7oDCouQPlO) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Consequences](https://open.spotify.com/album/3HrrIjkYerBeAVBfNsQoXv) | 4:33 | 2022-01-28 | 2024-03-09 |
 | [Ready](https://open.spotify.com/track/7Ie1CC6QSRdaQsE8GvHalE) | [Leighton Fields](https://open.spotify.com/artist/1wiUnz0BmFJrv70iCFUYBd) | [Ready](https://open.spotify.com/album/6S2BM1B8Rz7yQT6b5iDPWW) | 4:33 | 2022-01-28 | 2022-07-29 |
@@ -398,10 +400,11 @@
 | [Texas Moon](https://open.spotify.com/track/3EWI7uja1ZE1GF8qaKH3jO) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC) | [Vincent Neil Emerson](https://open.spotify.com/album/17Ez3EXApQUrtqojPQvX6x) | 3:25 | 2022-01-28 | 2023-01-14 |
 | [Thank the Lord](https://open.spotify.com/track/1UQU5F0KBQokni2XIoY4De) | [The Pink Stones](https://open.spotify.com/artist/77xJf67Cuu7UPJgJoClESG), [Wyatt Ellis](https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB) | [Thank the Lord… it’s The Pink Stones](https://open.spotify.com/album/1m7PWbKvEcBikdUbE4vuZZ) | 3:56 | 2025-12-12 | 2026-05-09 |
 | [That River](https://open.spotify.com/track/7fre8zstP7XaI5VkmRu8I4) | [Margo Cilker](https://open.spotify.com/artist/5E9q1sbVJ2MCiI8MMdPvj7) | [Pohorylle](https://open.spotify.com/album/5fqxOeUUV2uv4cJ1VltThR) | 3:09 | 2022-01-28 | 2025-10-18 |
-| [The Big Time](https://open.spotify.com/track/0Cq7dBJ0G1JFeu6fQTLYyH) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [The Big Time](https://open.spotify.com/album/6DULsRHZgOAeTM7VnBzbjz) | 3:40 | 2026-02-27 |  |
+| [The Big Time](https://open.spotify.com/track/0Cq7dBJ0G1JFeu6fQTLYyH) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [The Big Time](https://open.spotify.com/album/6DULsRHZgOAeTM7VnBzbjz) | 3:40 | 2026-02-27 | 2026-09-26 |
 | [The Boy And The Swan](https://open.spotify.com/track/3OhnER1sVL5LlIdeBAvkFZ) | [Bird](https://open.spotify.com/artist/2bdmTAor9skjnI4YX2Uk6N) | [The Boy And The Swan](https://open.spotify.com/album/1paQiW4t0eYyP4VvERxjjo) | 4:09 | 2026-01-23 | 2026-08-22 |
 | [The Dreaming Kind](https://open.spotify.com/track/0VUmkh6uFoNL6LyPm5b5wu) | [Lacy Green](https://open.spotify.com/artist/6WO2WuZjHxfZweG6FvoeCL) | [The Dreaming Kind](https://open.spotify.com/album/0RkkdDiuROPhI0p4gw9vpH) | 4:02 | 2026-02-27 | 2026-09-12 |
 | [The Fair and Dark Haired Lad](https://open.spotify.com/track/3AeGn9MkzB0fJtfp1AWUja) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [The Fair and Dark Haired Lad](https://open.spotify.com/album/5UNEzuZg2aNzC9GB7d1JRH) | 3:46 | 2023-01-13 | 2024-08-31 |
+| [The Game](https://open.spotify.com/track/1Rxp14gFzxVfLrhAy9BAlw) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Game](https://open.spotify.com/album/46cQ9gF7K1xGbdl6na9Pg8) | 3:29 | 2026-09-25 |  |
 | [The Luckier Ones](https://open.spotify.com/track/6XrZvjJLyv3frS0lNU9GXF) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD) | [A Heavy Duty Heart](https://open.spotify.com/album/3jEb6lCEoLcTpYbdplupEi) | 3:51 | 2026-03-27 |  |
 | [The Ones](https://open.spotify.com/track/5MMgIJBWZt8gpfDlx47Y87) | [The Autumn Defense](https://open.spotify.com/artist/71I7zoXe7aIZvzN19S1gIo) | [The Ones](https://open.spotify.com/album/5owlTY9RcBaEnPJBmtGVLU) | 6:07 | 2025-10-10 | 2026-06-06 |
 | [The Ridge](https://open.spotify.com/track/6KKD2JNwUK7tAh2pCTcr1j) | [Jobi Riccio](https://open.spotify.com/artist/0iBeDti8V9DLGVPA2xHMeO) | [The Ridge](https://open.spotify.com/album/097jShaJ3ieb9co95tFAoX) | 3:50 | 2025-12-12 | 2026-02-28 |

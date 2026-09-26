@@ -1,28 +1,76 @@
 {
-  "description": "The best in folk & acoustic today featuring music from Orville Peck",
-  "num_followers": 1682837,
+  "description": "The best in folk & acoustic today featuring music from Humbird",
+  "num_followers": 1682652,
   "original_name": "Roots Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIkr5pSyRZAERgCXfeDiMONj4VNM",
+  "snapshot_id": "AAAAAJ2T/+doKFO86k9HMwij6+QDo1+6",
   "tracks": [
     {
-      "added_at": "2026-09-18 04:21:50",
+      "added_at": "2026-09-25 04:02:38",
       "album": {
-        "name": "Mule",
-        "url": "https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo"
+        "name": "Morning When it Comes",
+        "url": "https://open.spotify.com/album/0A4FaKWZ7j6umN53gn7WzV"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
         }
       ],
-      "duration_ms": 179054,
-      "name": "Run Out Of Road",
-      "url": "https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI"
+      "duration_ms": 206600,
+      "name": "Moonlight and Tobacco",
+      "url": "https://open.spotify.com/track/3VH6jBni83e1mYwRM3RKep"
+    },
+    {
+      "added_at": "2026-09-25 04:02:38",
+      "album": {
+        "name": "Looking For Love",
+        "url": "https://open.spotify.com/album/1WOTToFizLGcxZyZkxVqgr"
+      },
+      "artists": [
+        {
+          "name": "Sam Burchfield",
+          "url": "https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5"
+        }
+      ],
+      "duration_ms": 240600,
+      "name": "Looking For Love",
+      "url": "https://open.spotify.com/track/554YpKFKPvWERNpy1Fn5iz"
+    },
+    {
+      "added_at": "2026-09-25 04:02:38",
+      "album": {
+        "name": "If I Had The Hand Of God",
+        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 161816,
+      "name": "If I Had The Hand Of God",
+      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+    },
+    {
+      "added_at": "2026-09-25 04:02:38",
+      "album": {
+        "name": "Don't Mind Me",
+        "url": "https://open.spotify.com/album/4VujTXerfDgxfrXVasUVnW"
+      },
+      "artists": [
+        {
+          "name": "Landon Smith",
+          "url": "https://open.spotify.com/artist/3xYWSAnkKiD6rqoMtOod1m"
+        }
+      ],
+      "duration_ms": 203683,
+      "name": "Don't Mind Me",
+      "url": "https://open.spotify.com/track/63tSgRp2KZASBPtKZ9NTg0"
     },
     {
       "added_at": "2026-09-18 04:21:50",
@@ -43,6 +91,22 @@
       "duration_ms": 243941,
       "name": "Me, After",
       "url": "https://open.spotify.com/track/6lBI4TII4BY1SxIll3EiqT"
+    },
+    {
+      "added_at": "2026-09-18 04:21:50",
+      "album": {
+        "name": "Mule",
+        "url": "https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Run Out Of Road",
+      "url": "https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI"
     },
     {
       "added_at": "2026-09-18 04:21:50",
@@ -1615,22 +1679,6 @@
     {
       "added_at": "2026-09-18 04:21:50",
       "album": {
-        "name": "Bus Back To Richmond / More Than Friends",
-        "url": "https://open.spotify.com/album/7MJlctOJwPCNL39oaag0ce"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 174744,
-      "name": "Bus Back To Richmond",
-      "url": "https://open.spotify.com/track/0uP3nr5ygvojAQftifZ0ga"
-    },
-    {
-      "added_at": "2026-09-18 04:21:50",
-      "album": {
         "name": "Small Talk",
         "url": "https://open.spotify.com/album/0DV7ElSZhfGNknhxBnQeJk"
       },
@@ -2051,38 +2099,6 @@
     {
       "added_at": "2026-09-18 04:21:50",
       "album": {
-        "name": "So Long Little Miss Sunshine",
-        "url": "https://open.spotify.com/album/66H97i02fAu4oFUYUGxIhr"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        }
-      ],
-      "duration_ms": 224861,
-      "name": "Everything Burns",
-      "url": "https://open.spotify.com/track/0lL6aruZNHj9NdWEVni3MX"
-    },
-    {
-      "added_at": "2026-09-18 04:21:50",
-      "album": {
-        "name": "Dog Eared",
-        "url": "https://open.spotify.com/album/79zQn0JeZ9tVX2T0VvpDGi"
-      },
-      "artists": [
-        {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
-        }
-      ],
-      "duration_ms": 219503,
-      "name": "Planets",
-      "url": "https://open.spotify.com/track/3dd8B6aaibeQOssE9epPl0"
-    },
-    {
-      "added_at": "2026-09-18 04:21:50",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/55GVOmy6g6oRXIuUklMxnS"
       },
@@ -2163,22 +2179,6 @@
       "duration_ms": 230112,
       "name": "The Great Caucasian God",
       "url": "https://open.spotify.com/track/6WoT1ESQGQUFQOi9QHvE5Y"
-    },
-    {
-      "added_at": "2026-09-18 04:21:50",
-      "album": {
-        "name": "You Again",
-        "url": "https://open.spotify.com/album/2Chkb8Apocqiq73DnOC56m"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "You Again",
-      "url": "https://open.spotify.com/track/1Ki5PqMFMTKQfjB1uet9pG"
     },
     {
       "added_at": "2026-09-18 04:21:50",

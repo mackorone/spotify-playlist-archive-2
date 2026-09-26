@@ -1,13 +1,29 @@
 {
-  "description": "\u00a1Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Lolab\u00fam",
-  "num_followers": 27389,
+  "description": "\u00a1Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Hermanos Guti\u00e9rrez",
+  "num_followers": 27414,
   "original_name": "Indie Andinos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIvy9Y/MNuGym17p8DJAF4Bz3OOB",
+  "snapshot_id": "AAAAAEPwTDlsHs5s4ikBh4rGz0pXGZSc",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:59:20",
+      "album": {
+        "name": "Los Ojos Del C\u00f3ndor",
+        "url": "https://open.spotify.com/album/2C8ZUoLNFrEO7KzPg03329"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+        }
+      ],
+      "duration_ms": 212980,
+      "name": "Los Ojos Del C\u00f3ndor",
+      "url": "https://open.spotify.com/track/3cJvScXrQVCchpz83aNrXq"
+    },
     {
       "added_at": "2026-09-18 04:59:27",
       "album": {
@@ -39,6 +55,22 @@
       "duration_ms": 172432,
       "name": "Las Notas Ser\u00e1n Besos",
       "url": "https://open.spotify.com/track/5DqzMGW2RiwZkSTOq99K8q"
+    },
+    {
+      "added_at": "2026-09-25 04:59:20",
+      "album": {
+        "name": "ya no estoy",
+        "url": "https://open.spotify.com/album/2CTAPQs0Md2J7Q9zkMmJSz"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 178874,
+      "name": "ya no estoy",
+      "url": "https://open.spotify.com/track/0tuhaH4P3jVSCTdV070tig"
     },
     {
       "added_at": "2026-09-04 04:59:27",

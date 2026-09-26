@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 
 > This is Pierce The Veil\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,969 likes - 37 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,008 likes - 37 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 | 36 | [a kind thing to do \(feat\. Vic Fuentes\)](https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Vic Fuentes](https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 4:07 |
 | 37 | [Currents Convulsive](https://open.spotify.com/track/55z9JKoPKREhOv1bppouag) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 3:35 |
 
-Snapshot ID: `arMWgAAAAACOtQtrfmT1sItgLKE77QPo`
+Snapshot ID: `arRoAAAAAADJaPX5OgDbI+yMIxUm65tT`

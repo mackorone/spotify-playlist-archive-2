@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Our Fresh Finds Vanita Leo, Ilusion Eterno, MXKA & Angel Tumbado, rompiendo en el Lone Star State.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,442 likes - 45 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,401 likes - 45 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

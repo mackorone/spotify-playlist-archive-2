@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-623 songs - 1 day 2 hr 20 min
+626 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Aria Amore](https://open.spotify.com/track/2gbiV6hshIr99CuE8Jmc1J) | [Sergei Baronin](https://open.spotify.com/artist/43F9YqxW89cDIMwYv7Ruoy) | [Aria Amore](https://open.spotify.com/album/0dZ1cH2oc1byH1xvEMkwhE) | 2:36 | 2022-06-17 | 2022-10-07 |
 | [Art Deco](https://open.spotify.com/track/2S1ddYY7BolUpyqjFVrgGv) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [Satellites](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:33 | 2022-06-17 | 2024-07-18 |
 | [At the same time](https://open.spotify.com/track/5Y2UB0AcXta6OuSxgeqMRG) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [At the same time](https://open.spotify.com/album/0IU4O0061NBlGfcVX9YObh) | 3:11 | 2025-09-12 | 2026-05-23 |
+| [Aurelia](https://open.spotify.com/track/3jAqKknjywqPkmQjrtgXT2) | [Vandenberg](https://open.spotify.com/artist/5YCtylTmw5A39uy1jP36Wi) | [Aurelia](https://open.spotify.com/album/0zvusrc1LCsPVkDQjj7HOu) | 2:48 | 2026-09-25 |  |
 | [Azores](https://open.spotify.com/track/2YN1AKTAJApNLbTyNXrm6j) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Azores](https://open.spotify.com/album/6cBG03sFqnDga0VqnWDpEu) | 2:39 | 2023-04-28 | 2023-06-23 |
 | [Back at Mills Creek](https://open.spotify.com/track/1sokyJcoiRdRyjmPYzcQRu) | [Maisy Anderson](https://open.spotify.com/artist/1LZ0rsW9h1Aaoh9kJjWUeE) | [Back at Mills Creek](https://open.spotify.com/album/04bqEOyyP1MIEe5lCrUgUv) | 2:18 | 2024-02-02 |  |
 | [Bagatela De Manhã](https://open.spotify.com/track/2pNnJty3Cpkt2taPau3whq) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Bagatela De Manhã](https://open.spotify.com/album/35g5kehLip9hxTtsktxz0R) | 2:06 | 2022-06-17 | 2022-09-03 |
@@ -213,6 +214,7 @@
 | [Glide](https://open.spotify.com/track/1iTnYij47T9BmboWHs5wsC) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/79PiXS788M5DE77IOknDCi) | 2:29 | 2022-10-28 | 2023-04-27 |
 | [Glide](https://open.spotify.com/track/4ErdgxMPqlPd7wNM07oan4) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/4zvQetd2SH0ecyCY14flMz) | 2:29 | 2023-03-24 | 2024-04-19 |
 | [Glide](https://open.spotify.com/track/6pkcB9YBzPNECMEqOsdSBa) | [Luna Grove](https://open.spotify.com/artist/4mo3zahoMNo36n3sYo5Z1M) | [Glide](https://open.spotify.com/album/2PaANkBfLwCRqMnBhtBN18) | 2:29 | 2022-06-17 | 2024-05-25 |
+| [Golden Light on Quiet Water](https://open.spotify.com/track/0VvAq5Mabo2nKp4USsGjsR) | [P\. Moretti](https://open.spotify.com/artist/0T3Is0sNMMVfmzfH0Z6Et6) | [Golden Light on Quiet Water](https://open.spotify.com/album/74b3bhTVG63Uy3y4PA16X9) | 2:35 | 2026-09-25 |  |
 | [Gone to seed](https://open.spotify.com/track/0b4pX3JMLnJi1QY3W42zjN) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Gone to seed](https://open.spotify.com/album/7MvoXy4KLNxXMCBI6F3I8K) | 2:24 | 2022-12-23 | 2023-08-25 |
 | [Goodbye \- Guitar Solo](https://open.spotify.com/track/1yJUM8bo9Qgg5us8WRRyBi) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Goodbye \(Guitar Solo\)](https://open.spotify.com/album/7l9VjiD9GYz7hVjaNwcXlT) | 2:30 | 2022-06-17 | 2023-05-20 |
 | [Grab My Hand](https://open.spotify.com/track/6LhDAXww2xZbw87UmR8KKO) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Grab My Hand](https://open.spotify.com/album/2XZJaBtSr3fNxgUZcmtH95) | 3:03 | 2022-06-17 | 2024-04-05 |
@@ -547,6 +549,7 @@
 | [The Lowest Point](https://open.spotify.com/track/2gtT9F0c1DDaz0W3vr2hRv) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [The Lowest Point](https://open.spotify.com/album/5Wf8oYxZ6nrVDBmDM6Hj6t) | 2:31 | 2024-12-10 |  |
 | [The Meadow Stirs](https://open.spotify.com/track/7cVR6AMaMaUFuWFGvAsjDv) | [Noah Lorne](https://open.spotify.com/artist/3mgtorvPIuOOqO0V5EwEqa) | [The Meadow Stirs](https://open.spotify.com/album/13MZr3OrJgQnMcukseUfSL) | 2:41 | 2025-05-28 |  |
 | [The Midnight Oil](https://open.spotify.com/track/5CAWxpUqibj7afx1wEOk40) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [The Midnight Oil](https://open.spotify.com/album/0lqmnpZkLOLirEruzyZVGV) | 2:26 | 2026-05-29 |  |
+| [The Old Cabin](https://open.spotify.com/track/4JgsHJ3cZfgnBd1v8m565Y) | [Billy Varon](https://open.spotify.com/artist/00mYPMTJDSN7qczU0deUuY) | [The Old Cabin](https://open.spotify.com/album/5GyPRbUcEMHcYZ4udgMKib) | 2:12 | 2026-09-25 |  |
 | [The Opera House](https://open.spotify.com/track/3dhrGAxAN0i37d64p4bCm1) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [The Opera House](https://open.spotify.com/album/3LqVjTRi1yMlpNsjYEBPMG) | 3:00 | 2023-06-22 | 2024-05-10 |
 | [The Rain Comes](https://open.spotify.com/track/5zpgmMQ46DVTr97ZwFDcAG) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [The Rain Comes](https://open.spotify.com/album/6R7wD5TChs18vFNeX4jzin) | 2:40 | 2025-09-12 |  |
 | [The Spring Bird](https://open.spotify.com/track/1PvZZloPxrC4q2nh3LCj4O) | [Tim Philis](https://open.spotify.com/artist/1OFXBk4WZ7ZF3I98uJ9T6j) | [The Spring Bird](https://open.spotify.com/album/1zBJdIFX92nSLrv5ek5YqP) | 2:20 | 2022-06-17 | 2023-08-18 |

@@ -4,7 +4,7 @@
 
 > świeże brzmienia na horyzoncie ✨ Cover: Sara James
 
-990 songs - 2 day 0 hr 16 min
+991 songs - 2 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -493,7 +493,7 @@
 | [morze dalej zimne](https://open.spotify.com/track/13dtlYx0QRQn91gcoRn76Q) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq) | [morze dalej zimne](https://open.spotify.com/album/6E9cmfQBcmqN7MGTV1TiT9) | 2:56 | 2025-11-04 | 2026-03-06 |
 | [Movie Scene](https://open.spotify.com/track/08rIyrMwsKpn2h59mpD6cF) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Movie Scene](https://open.spotify.com/album/2Fgr8yKGVEDXaqRzByaV3J) | 3:00 | 2025-02-20 | 2025-04-18 |
 | [Może wolniej](https://open.spotify.com/track/6PM2WnI82OpoQAN3eWqTMi) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Może wolniej](https://open.spotify.com/album/51gwYmWzH81RaKsDL5KXfa) | 2:25 | 2026-01-30 | 2026-05-01 |
-| [możemorze](https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2) | [możemorze](https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3) | 2:39 | 2026-09-24 |  |
+| [możemorze](https://open.spotify.com/track/0IE7cjqYVMWRliklJuU0nn) | [pszona](https://open.spotify.com/artist/4aDCdXr7zIjjO8zk9URwMq), [BSK](https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2), [prześwit](https://open.spotify.com/artist/48pF8m5m2dDUQHlP1WiU7f) | [możemorze](https://open.spotify.com/album/0pny6F5xvOvZy3AI6hMdj3) | 2:39 | 2026-09-24 |  |
 | [my](https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [my](https://open.spotify.com/album/19GsnIluYB9d42QHswzfej) | 3:36 | 2024-07-11 | 2024-11-08 |
 | [Myślę o Tobie przed snem](https://open.spotify.com/track/3rOeJECNSOOU8LZCXhyu0X) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [Myślę o Tobie przed snem](https://open.spotify.com/album/6Hkegvu8DbNmV8KfVkZsbd) | 2:52 | 2024-10-18 | 2025-01-24 |
 | [Mów do Mnie](https://open.spotify.com/track/2SSzVxGRaNdP86juW7aEJ3) | [OG KAMKA](https://open.spotify.com/artist/4PWPZvjcjwtAh07gTsNPTb), [Viki Gabor](https://open.spotify.com/artist/3yCRvilOBzRkyxOsOi4tsR) | [Mów do Mnie](https://open.spotify.com/album/6OayOjwX7kDU1ZhDAEJEIJ) | 2:38 | 2025-12-18 | 2026-02-06 |
@@ -665,9 +665,10 @@
 | [powiem/nie powiem](https://open.spotify.com/track/509mth4lw2dQQcGXtKMHDc) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [powiem/nie powiem](https://open.spotify.com/album/1wnV3DSxRwQzSiPEkQzQ4t) | 3:28 | 2026-04-17 | 2026-06-26 |
 | [poza Tobą nic](https://open.spotify.com/track/4fxmxMlrViwVyolXZJUJ8Z) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [poza Tobą nic](https://open.spotify.com/album/6NLJMNdUdNY3Mv2jnlxKWv) | 2:53 | 2026-09-03 |  |
 | [Pozwól mi czuć](https://open.spotify.com/track/1maFv5IRJwGOwCWRnh53F0) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [Pozwól mi czuć](https://open.spotify.com/album/46dAAbyTDO4x0MjzJMSR4P) | 3:20 | 2026-02-05 | 2026-05-01 |
-| [Pożegnanie z Morzem](https://open.spotify.com/track/1WQEhQP4vYEX9vHuDK61SH) | [oysterboy](https://open.spotify.com/artist/0zHt0gWj0hDUgKOrUkeiYk) | [Eskapizm](https://open.spotify.com/album/264DglpVrsVh4P1j7A6NL5) | 3:33 | 2026-09-10 |  |
+| [Pożegnanie z Morzem](https://open.spotify.com/track/1WQEhQP4vYEX9vHuDK61SH) | [oysterboy](https://open.spotify.com/artist/0zHt0gWj0hDUgKOrUkeiYk) | [Eskapizm](https://open.spotify.com/album/264DglpVrsVh4P1j7A6NL5) | 3:33 | 2026-09-10 | 2026-09-26 |
 | [Pray](https://open.spotify.com/track/7yT5rUvzEQh60Olh2GXShd) | [ALICJA](https://open.spotify.com/artist/0aCRGI3PsmtCjyTCnRpRgM) | [Pray](https://open.spotify.com/album/3ADI3YJtPk0QUsdCY1soXx) | 3:00 | 2026-02-12 | 2026-05-24 |
 | [PRAY](https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt) | [KUBA](https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW) | [PRAY](https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ) | 2:45 | 2025-01-16 | 2025-03-21 |
+| [Presja](https://open.spotify.com/track/2pmb9sfLcHPC0Eouk5zb6y) | [Julka Grabowska](https://open.spotify.com/artist/0eC2qcmwFOhPgzxaGoyasH), [MtZ](https://open.spotify.com/artist/5qi3aTonrqAZjYw1D6X5Pu), [Jxcob](https://open.spotify.com/artist/6NymiB9zG13gz3WbLzbXP2) | [Presja](https://open.spotify.com/album/5CY2lpmAOQMlreF9z5TTMQ) | 2:56 | 2026-09-24 |  |
 | [Press Pause](https://open.spotify.com/track/68qGBPUqSLlxwbbkWrMIjZ) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Press Pause](https://open.spotify.com/album/05s3p7Iq338wtkqoeaPekD) | 3:19 | 2025-03-27 | 2025-07-04 |
 | [PRETTY LIES](https://open.spotify.com/track/221vIAPfaaS1rN0l6TnrUg) | [Sally](https://open.spotify.com/artist/6UGUIOyibm8kA96ClpbF1A) | [PRETTY LIES](https://open.spotify.com/album/0Zx3pNSIZDJO341isoT8kf) | 2:44 | 2024-10-25 | 2025-01-24 |
 | [Pretty Woman](https://open.spotify.com/track/3lw7lnqS2cNgrMEZeEzQ7W) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Pretty Woman](https://open.spotify.com/album/53ycyfvHxlw27C0dmfi2PW) | 2:46 | 2025-04-03 | 2025-08-04 |
@@ -826,6 +827,7 @@
 | [That’s So True](https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 2:46 | 2025-01-23 | 2025-04-25 |
 | [The Boys](https://open.spotify.com/track/28GrU7y1SAut9GqwvohEaZ) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Modern Romance](https://open.spotify.com/album/0j2JD5n3SLhPgisWlam9lD) | 2:38 | 2025-05-15 | 2025-07-18 |
 | [THINK OF ME](https://open.spotify.com/track/510ZpiTU4fNXTlnrFFx5Yt) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY) | [THINK OF ME](https://open.spotify.com/album/4aJWqEswzebwxDSCkVzTEt) | 2:29 | 2025-03-13 | 2025-03-21 |
+| [THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO](https://open.spotify.com/track/6CKUQ4zcPPp63nPYaCfXKu) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO](https://open.spotify.com/album/5zooMKDaIjcg8gqsLCMFk8) | 2:16 | 2026-09-24 |  |
 | [This too shall pass](https://open.spotify.com/track/521BQfcSZETxe1GV9TAbsP) | [Stasiek Kukulski](https://open.spotify.com/artist/2D5HDdUAa64V8lwQFlTOVh) | [This too shall pass](https://open.spotify.com/album/1FZRasPpIPxiqPPXJFz01k) | 2:39 | 2026-01-22 | 2026-05-01 |
 | [Time Machine](https://open.spotify.com/track/0hv9WfQMyLzzhut0JsNRaS) | [Ola Poskrop](https://open.spotify.com/artist/2CJ1ODOHx6DhVpaDJaq6dy) | [Time Machine](https://open.spotify.com/album/5R2bGv16Uk0YL2R1cy394F) | 3:35 | 2025-08-19 | 2025-09-05 |
 | [Times Like These](https://open.spotify.com/track/01fzY6YKwKQ3LxCpIP6buB) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Addison](https://open.spotify.com/album/2ffVa2UhHUDwMHnr685zJ4) | 3:52 | 2025-06-05 | 2025-06-20 |
@@ -849,7 +851,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2025-01-23 | 2025-01-31 |
 | [tracimy sens](https://open.spotify.com/track/6wpF3A7b91RGelXpRvcDNr) | [nefrea](https://open.spotify.com/artist/0LDHuGDQljiQdkLri5BSAW), [Gmeniu](https://open.spotify.com/artist/2ahqO5ra5nDrvVfvR851Xj) | [tracimy sens](https://open.spotify.com/album/7cjyOgy8HEkt6Dwu0Gytjz) | 2:30 | 2025-07-17 | 2025-07-25 |
 | [Tracimy tylko czas](https://open.spotify.com/track/3A9S5Pvld6KupTf9YNvB0n) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Tracimy tylko czas](https://open.spotify.com/album/1Ylb0IznSHkbTANRKeiJXk) | 3:01 | 2026-07-16 |  |
-| [Track 1](https://open.spotify.com/track/6CKUQ4zcPPp63nPYaCfXKu) | [Marie](https://open.spotify.com/artist/5o7Atiia4I0WLFuN2qAu6M) | [THIS PLAYGROUND IS NOT MINE BUT I'LL MAKE IT SO](https://open.spotify.com/album/5zooMKDaIjcg8gqsLCMFk8) | 0:00 | 2026-09-24 |  |
 | [Trauma](https://open.spotify.com/track/0dpKWVgQv7uzygOIw8tmdv) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [Trauma](https://open.spotify.com/album/6C5G9YiWHHzuLcikJAOyMy) | 1:46 | 2024-12-06 | 2025-01-31 |
 | [Treehouse](https://open.spotify.com/track/7GINKMcfLDQEBQaTEPOjr8) | [Treehouse](https://open.spotify.com/artist/0f3IZDduhfx6wAGRgO6JBi) | [Treehouse](https://open.spotify.com/album/0Eol0GjvLJtW3xxFtB1V0W) | 3:44 | 2026-02-19 | 2026-03-27 |
 | [treehouse lullaby](https://open.spotify.com/track/4dBVQEf7ahOA11FJu357ac) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT) | [treehouse lullaby](https://open.spotify.com/album/1sQER5gRKMvKlnc7EwstR2) | 2:14 | 2025-02-27 | 2025-03-14 |

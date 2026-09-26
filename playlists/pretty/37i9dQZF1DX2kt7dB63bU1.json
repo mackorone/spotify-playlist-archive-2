@@ -1,13 +1,65 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 174284,
+  "num_followers": 174325,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIa1882XMrYy+WwEJ+CyLB2vTPGb",
+  "snapshot_id": "AAAAAEeU4KgO2dtO9I66+Y5AKKPHUCuK",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:00:34",
+      "album": {
+        "name": "Caged Bird",
+        "url": "https://open.spotify.com/album/0BqZ1rHDljZbdjYP7px8wg"
+      },
+      "artists": [
+        {
+          "name": "Ekep Nkwelle",
+          "url": "https://open.spotify.com/artist/3IOfJF8F1pqaaoQ2yTPABN"
+        }
+      ],
+      "duration_ms": 288373,
+      "name": "Caged Bird",
+      "url": "https://open.spotify.com/track/0EimX77JC1GABUv9CwsIq7"
+    },
+    {
+      "added_at": "2026-09-25 04:00:34",
+      "album": {
+        "name": "Nearness",
+        "url": "https://open.spotify.com/album/2fcXDN2hPLIFPLWovA2cca"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
+        {
+          "name": "Kenny Banks",
+          "url": "https://open.spotify.com/artist/6ZJmKRRAHENn4JELfLzfbd"
+        }
+      ],
+      "duration_ms": 296200,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/2vl5nt8ttbcBAhHWfcQR7C"
+    },
+    {
+      "added_at": "2026-09-25 04:00:34",
+      "album": {
+        "name": "Polka Dots And Moonbeams",
+        "url": "https://open.spotify.com/album/77mtyJRLgYiXX3cGmhIn9B"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "duration_ms": 282306,
+      "name": "Polka Dots and Moonbeams",
+      "url": "https://open.spotify.com/track/0P8pe1BrOKDP554NpDfkFy"
+    },
     {
       "added_at": "2026-09-18 04:00:45",
       "album": {
@@ -55,22 +107,6 @@
       "duration_ms": 172440,
       "name": "Tandem Bike",
       "url": "https://open.spotify.com/track/6NUrORpYDdSFLYk96VrQlr"
-    },
-    {
-      "added_at": "2026-09-11 04:00:21",
-      "album": {
-        "name": "Good Morning, Heartache",
-        "url": "https://open.spotify.com/album/5iRbJLW7p13ylH8FrduU2S"
-      },
-      "artists": [
-        {
-          "name": "Ekep Nkwelle",
-          "url": "https://open.spotify.com/artist/3IOfJF8F1pqaaoQ2yTPABN"
-        }
-      ],
-      "duration_ms": 343120,
-      "name": "Good Morning, Heartache",
-      "url": "https://open.spotify.com/track/7FGmhlXBygw9co6LIISd9a"
     },
     {
       "added_at": "2026-09-11 04:00:21",
@@ -251,26 +287,6 @@
       "duration_ms": 154160,
       "name": "Ridin' High",
       "url": "https://open.spotify.com/track/5QViSSo6i1Org1TGMn5szj"
-    },
-    {
-      "added_at": "2026-07-24 04:00:50",
-      "album": {
-        "name": "The Nearness Of You",
-        "url": "https://open.spotify.com/album/4DClTIq5hRwn09rJkbctRj"
-      },
-      "artists": [
-        {
-          "name": "Lizz Wright",
-          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
-        },
-        {
-          "name": "Kenny Banks",
-          "url": "https://open.spotify.com/artist/6ZJmKRRAHENn4JELfLzfbd"
-        }
-      ],
-      "duration_ms": 351440,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/35kG2qj9nuZRxemLbTreFZ"
     },
     {
       "added_at": "2026-07-17 04:00:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 217500,
       "name": "All I Ever Needed",
       "url": "https://open.spotify.com/track/4SayifPw2LFaHxGCzIuJKv"
-    },
-    {
-      "added_at": "2025-08-22 04:00:09",
-      "album": {
-        "name": "It's Magic",
-        "url": "https://open.spotify.com/album/0yGBHk8u0qGBlqe1hvDz42"
-      },
-      "artists": [
-        {
-          "name": "Stella Cole",
-          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
-        }
-      ],
-      "duration_ms": 219207,
-      "name": "It's Magic",
-      "url": "https://open.spotify.com/track/5TTJOdhMqjkYb2lN5qlLQT"
     },
     {
       "added_at": "2025-08-15 04:00:05",

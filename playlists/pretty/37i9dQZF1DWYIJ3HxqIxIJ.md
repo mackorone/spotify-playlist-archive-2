@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJ3HxqIxIJ.md) - [plain]
 
 > Local artists you need to watch, handpicked by our editors\. Cover: Lewis Love
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,923 likes - 49 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,927 likes - 49 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Man On The Moon](https://open.spotify.com/track/1B4zZQIEqRlmP4Ps2oRrE0) | [Lewis Love](https://open.spotify.com/artist/3JcEn85fRAXUyBsIpSWCiC) | [Man On The Moon](https://open.spotify.com/album/3Egk8lWJrbHZw7XvMSJsMx) | 3:23 |
 | 2 | [Nosebleeds](https://open.spotify.com/track/4nL8u0wNU4jUPNf0CnKzbp) | [Yes Boone](https://open.spotify.com/artist/38AjHGnP1jV6bCn2fnx4F5) | [Nosebleeds](https://open.spotify.com/album/6uYtjltsjNgIJIb5Uuq8eH) | 3:12 |
 | 3 | [Yearning](https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Yearning](https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq) | 2:53 |
-| 4 | [Track 2](https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB) | [OPIA](https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom) | 0:00 |
+| 4 | [HYPER \(with REINEN\)](https://open.spotify.com/track/5IAhDcnnXyUwTzkWWqSoRW) | [VITA](https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB), [REINEN](https://open.spotify.com/artist/0IYg6J3r1hJUPLNupSbqvt) | [OPIA](https://open.spotify.com/album/5P4PrekCfsSBEsWvCWeuom) | 3:02 |
 | 5 | [Guilty](https://open.spotify.com/track/6SEE7iA69AF9N8fqUYRdQr) | [Sammi Heaney](https://open.spotify.com/artist/6ooPINF78eV5CFLBPAaVZq) | [Guilty](https://open.spotify.com/album/52axGYJ0PQQiTOtFnJMo6F) | 3:46 |
 | 6 | [Player](https://open.spotify.com/track/7ynnIE2JkTcPfpWaH1DxMy) | [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [MATEK](https://open.spotify.com/artist/6W1873QQeyM22YAo1dm8uY) | [Player](https://open.spotify.com/album/4f8Y1PpbmWEvwSrgqOpvF0) | 2:13 |
 | 7 | [making out](https://open.spotify.com/track/5SQWCnd28UO4FrMwUYpQN5) | [2charm](https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr) | [making out](https://open.spotify.com/album/2kVA2DXxldHD7H9HNs0ah0) | 3:28 |

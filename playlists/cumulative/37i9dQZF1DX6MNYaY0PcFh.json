@@ -1163,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "Elements 2 //",
+        "url": "https://open.spotify.com/album/5NJqLOfwCXu3y3KwLjWJc0"
+      },
+      "artists": [
+        {
+          "name": "Star.One",
+          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
+        },
+        {
+          "name": "Ashley Walters",
+          "url": "https://open.spotify.com/artist/6YHM1vRoDQZuS7GLVx7qVO"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161299,
+      "name": "Can I //",
+      "url": "https://open.spotify.com/track/4WozK8h1XBrFBX5GBHVvFE"
+    },
+    {
+      "album": {
         "name": "Can't Decide (MJ Cole Remix)",
         "url": "https://open.spotify.com/album/08yF3dhRVJcFjMIl6gZreK"
       },
@@ -8504,24 +8526,6 @@
       "duration_ms": 119545,
       "name": "Top Bins",
       "url": "https://open.spotify.com/track/0VWVhmYPwdFRce984U8VVv"
-    },
-    {
-      "album": {
-        "name": "Elements 2 //",
-        "url": "https://open.spotify.com/album/5NJqLOfwCXu3y3KwLjWJc0"
-      },
-      "artists": [
-        {
-          "name": "Star.One",
-          "url": "https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/4WozK8h1XBrFBX5GBHVvFE"
     },
     {
       "album": {

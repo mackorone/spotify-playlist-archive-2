@@ -856,7 +856,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 216153,
       "name": "A vida se revela",
       "url": "https://open.spotify.com/track/4AGMxN4dW6U7uHrykhsXTC"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 190873,
       "name": "Agudo Grave",
       "url": "https://open.spotify.com/track/4TCgBRQyeMEpG7nM7uuk5v"
@@ -3882,7 +3882,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 200835,
       "name": "Bossa Sempre Nova",
       "url": "https://open.spotify.com/track/4wwAFZw2eyy63AALgl0rmW"
@@ -5888,7 +5888,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 256048,
       "name": "Cors\u00e1rio",
       "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
@@ -6052,7 +6052,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 246802,
       "name": "D'Ouro Brilhante",
       "url": "https://open.spotify.com/track/6WKEg8JZFraRFZLX9IukL5"
@@ -7992,7 +7992,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 191040,
       "name": "Espelhos",
       "url": "https://open.spotify.com/track/4fkN3GR7A7SSUoVg1ZL0Zu"
@@ -12444,7 +12444,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 220826,
       "name": "Me Ajuda",
       "url": "https://open.spotify.com/track/1blOHgDdBpI1BLCqgvZgz0"
@@ -12784,7 +12784,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 369806,
       "name": "Medley Latino - Ao Vivo",
       "url": "https://open.spotify.com/track/2aJKzqgQWPHl54LcoYc30N"
@@ -14230,7 +14230,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 232966,
       "name": "Nem Uma, Nem Duas, Nem Tr\u00eas",
       "url": "https://open.spotify.com/track/6CtJhfxODuGlf3atmAbki1"
@@ -15863,6 +15863,28 @@
     },
     {
       "album": {
+        "name": "Elas Cantam Arlindo",
+        "url": "https://open.spotify.com/album/66yRQTSxY2dC2UdflCdjZg"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206910,
+      "name": "O Que \u00e9 o Amor",
+      "url": "https://open.spotify.com/track/29Ftly2gNWx246MSdIkDZG"
+    },
+    {
+      "album": {
         "name": "alma doce",
         "url": "https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW"
       },
@@ -16002,6 +16024,28 @@
       "duration_ms": 221015,
       "name": "O Tempo Cuidar\u00e1 de Tudo",
       "url": "https://open.spotify.com/track/403D3zWfPQhtscWY509it9"
+    },
+    {
+      "album": {
+        "name": "Pra Gente Se Acabar",
+        "url": "https://open.spotify.com/album/4aPQULZO2vMg0UhUqzlOx6"
+      },
+      "artists": [
+        {
+          "name": "Samuca e a Selva",
+          "url": "https://open.spotify.com/artist/3xRsjZtEO4W7Y4Wgr4wSLD"
+        },
+        {
+          "name": "Carlos Daf\u00e9",
+          "url": "https://open.spotify.com/artist/7c2M9J4vkC24hmNwQyl4vZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186938,
+      "name": "O Tempo Leva",
+      "url": "https://open.spotify.com/track/6vljTD3BamQ2TFWxm26cnz"
     },
     {
       "album": {
@@ -20515,6 +20559,28 @@
     },
     {
       "album": {
+        "name": "Sangue Bom",
+        "url": "https://open.spotify.com/album/7DypAdT7904ztdjudUGVen"
+      },
+      "artists": [
+        {
+          "name": "Paulo Ricardo",
+          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179663,
+      "name": "Sangue Bom",
+      "url": "https://open.spotify.com/track/6SofGoEv9lZvL5ej9eULkP"
+    },
+    {
+      "album": {
         "name": "Sangue Latino",
         "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
       },
@@ -21070,7 +21136,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 174565,
       "name": "SEM DRAMAS",
       "url": "https://open.spotify.com/track/7aYoAp3JEVSEpZHW0r06hw"
@@ -24686,7 +24752,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 125193,
       "name": "VAMO COM CALMA, MALANDRA",
       "url": "https://open.spotify.com/track/1wmiLh6KsDeawslNRcLTCm"

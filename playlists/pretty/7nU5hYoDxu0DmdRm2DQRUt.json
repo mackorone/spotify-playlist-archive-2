@@ -1,13 +1,177 @@
 {
   "description": "New Arrivals keeps you posted on the latest records arriving in our record store and online shop &#x2F; kompakt.fm",
-  "num_followers": 8087,
+  "num_followers": 8088,
   "original_name": "KOMPAKT: New Arrivals",
   "owner": {
     "name": "Kompakt Records",
     "url": "https://open.spotify.com/user/kompaktrecords"
   },
-  "snapshot_id": "AAAPeLfu4YNsIYzr6IP+kCvPEEQJ1hW9",
+  "snapshot_id": "AAAPhwOxhVTGpmWvhMEZ4pj6lCn8qNcF",
   "tracks": [
+    {
+      "added_at": "2026-09-25 11:29:36",
+      "album": {
+        "name": "Total 26",
+        "url": "https://open.spotify.com/album/4nhEDipXBSgJZuBhhyQjVx"
+      },
+      "artists": [
+        {
+          "name": "DJ H0tline",
+          "url": "https://open.spotify.com/artist/0zprlAObxam7Bw4qVstgHr"
+        }
+      ],
+      "duration_ms": 316346,
+      "name": "Xtasy",
+      "url": "https://open.spotify.com/track/5hSdS8oiSqixprXLj9ZYJr"
+    },
+    {
+      "added_at": "2026-09-25 11:35:54",
+      "album": {
+        "name": "So Deep (Remix)",
+        "url": "https://open.spotify.com/album/2gMvYumtlbQzEGaEDfnYGH"
+      },
+      "artists": [
+        {
+          "name": "Orlando Voorn",
+          "url": "https://open.spotify.com/artist/4Kv4vEaYZEcrJoXqeMpN2u"
+        }
+      ],
+      "duration_ms": 379198,
+      "name": "So Deep - Remix",
+      "url": "https://open.spotify.com/track/0kBjQXjSh9ucVU9uxxTjub"
+    },
+    {
+      "added_at": "2026-09-25 11:30:16",
+      "album": {
+        "name": "E Dee Vol. 3",
+        "url": "https://open.spotify.com/album/2MUL6mWTB1bD9phskjTm6G"
+      },
+      "artists": [
+        {
+          "name": "Fango",
+          "url": "https://open.spotify.com/artist/0Ey5SuiHfEJX8DZzwyENz1"
+        }
+      ],
+      "duration_ms": 418360,
+      "name": "Illu",
+      "url": "https://open.spotify.com/track/4UONuzd409SaE2rQdhIMiW"
+    },
+    {
+      "added_at": "2026-09-25 11:30:49",
+      "album": {
+        "name": "Do Da Doo",
+        "url": "https://open.spotify.com/album/5nR8TrcDAADcOVvuuBvqZF"
+      },
+      "artists": [
+        {
+          "name": "Robotman",
+          "url": "https://open.spotify.com/artist/0rR0rKB2DplWkjks6zFgOp"
+        },
+        {
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
+        },
+        {
+          "name": "Plastikman",
+          "url": "https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n"
+        },
+        {
+          "name": "Richie Hawtin",
+          "url": "https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy"
+        }
+      ],
+      "duration_ms": 718731,
+      "name": "Do Da Doo - Plastikman Acid House Mix",
+      "url": "https://open.spotify.com/track/04AlFIQA3FzdZpN2ct4Bg6"
+    },
+    {
+      "added_at": "2026-09-25 11:31:47",
+      "album": {
+        "name": "The Raging Swells Crushing The Cliff Of My Love",
+        "url": "https://open.spotify.com/album/4xnmfyq6XlNWgUG5dvRvci"
+      },
+      "artists": [
+        {
+          "name": "Marion Poncet",
+          "url": "https://open.spotify.com/artist/3w9zvqXEojKyjNzdEOsovl"
+        },
+        {
+          "name": "Traumer",
+          "url": "https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh"
+        }
+      ],
+      "duration_ms": 444865,
+      "name": "Furious Stanca",
+      "url": "https://open.spotify.com/track/2UGRniWC3cNOb4OfA5ywy7"
+    },
+    {
+      "added_at": "2026-09-25 11:31:16",
+      "album": {
+        "name": "You (Edit)",
+        "url": "https://open.spotify.com/album/6VBP7Le7on5v806LjgHqmI"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        }
+      ],
+      "duration_ms": 227076,
+      "name": "You - Edit",
+      "url": "https://open.spotify.com/track/4ud0ZHYg6I2es1H2u0R997"
+    },
+    {
+      "added_at": "2026-09-25 11:32:59",
+      "album": {
+        "name": "Hans Nieswandt Edits",
+        "url": "https://open.spotify.com/album/1sBOjWnV4mOO89mtv6iZZG"
+      },
+      "artists": [
+        {
+          "name": "Floh de Cologne",
+          "url": "https://open.spotify.com/artist/04QGT0sr98LHIUjqPJ4RG4"
+        },
+        {
+          "name": "Hans Nieswandt",
+          "url": "https://open.spotify.com/artist/13Wd2jcpB4IJgu0pWyQMTQ"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Die Luft geh\u00f6rt denen, die sie atmen - Hans Nieswandt Edit",
+      "url": "https://open.spotify.com/track/6GuLOhhCbFacSB3QMwv7qL"
+    },
+    {
+      "added_at": "2026-09-25 11:29:50",
+      "album": {
+        "name": "Beyond the Veil",
+        "url": "https://open.spotify.com/album/1KXz26kRw23CymkBaVgk4z"
+      },
+      "artists": [
+        {
+          "name": "Altinbas",
+          "url": "https://open.spotify.com/artist/7bExzNVYdOn4SkrIXkqEyz"
+        }
+      ],
+      "duration_ms": 416484,
+      "name": "Beyond the Veil",
+      "url": "https://open.spotify.com/track/0FG212GabqWo7soMldHcUw"
+    },
+    {
+      "added_at": "2026-09-25 11:33:31",
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/4W49zKXch3TonDtup1x7yS"
+      },
+      "artists": [
+        {
+          "name": "Shinichi Atobe",
+          "url": "https://open.spotify.com/artist/2n1YSv6tFmLxYalICWxOGv"
+        }
+      ],
+      "duration_ms": 712774,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/6nvkGpQpm3JAHNAJOCiQmG"
+    },
     {
       "added_at": "2026-09-14 13:40:40",
       "album": {

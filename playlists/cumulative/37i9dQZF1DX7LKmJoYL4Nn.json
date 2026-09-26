@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 234280,
       "name": "Awakening Myth",
       "url": "https://open.spotify.com/track/7AG05wzbnra1jw4yJQV9nK"
@@ -3150,7 +3150,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 261346,
       "name": "VERMILION",
       "url": "https://open.spotify.com/track/3Bh5czKbGnsc7sudNCx2d8"
@@ -3954,7 +3954,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-09",
+      "date_removed": null,
       "duration_ms": 280626,
       "name": "\u30e0\u30fc\u30f3\u30e9\u30a4\u30c8\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/0Pmja2vH52EzqkJyxQltM7"
@@ -4458,6 +4458,28 @@
       "duration_ms": 291333,
       "name": "\u5922\u30ce\u54b2\u6d41\u661f\u968a\u6b4c",
       "url": "https://open.spotify.com/track/6rgPjeSP3mA7V0hXbUWGpI"
+    },
+    {
+      "album": {
+        "name": "HiMERU\u300c\u5922\u60f3\u306eDesert Wine\u300d\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 ES\u30a2\u30a4\u30c9\u30eb\u30bd\u30f3\u30b0 Solo -Bright me up!!-",
+        "url": "https://open.spotify.com/album/0bfUgrMQiJ9LIuACSCTzqj"
+      },
+      "artists": [
+        {
+          "name": "HiMERU(CV.\u7b20\u9593 \u6df3)",
+          "url": "https://open.spotify.com/artist/14a3u7GiUGrFzJtgJ88Nsn"
+        },
+        {
+          "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01",
+          "url": "https://open.spotify.com/artist/1mWiumgVzg1qWJKIU42Evx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178323,
+      "name": "\u5922\u60f3\u306eDesert Wine",
+      "url": "https://open.spotify.com/track/4v9yTrHlpf3d33UpLdzRKe"
     },
     {
       "album": {

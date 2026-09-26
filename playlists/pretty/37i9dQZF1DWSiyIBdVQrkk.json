@@ -1,6 +1,6 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>",
-  "num_followers": 2117607,
+  "num_followers": 2117332,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "In The Streets To Africa",
-        "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
-      },
-      "artists": [
-        {
-          "name": "Richie Spice",
-          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
-        }
-      ],
-      "duration_ms": 225506,
-      "name": "Youth Dem Cold",
-      "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Chronology",
         "url": "https://open.spotify.com/album/1w71axmi9UJfsKCdEqGdNm"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 213149,
       "name": "Smile Jamaica",
       "url": "https://open.spotify.com/track/7KhQx2EJaZIPGsbMAjf4jg"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "In The Streets To Africa",
+        "url": "https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc"
+      },
+      "artists": [
+        {
+          "name": "Richie Spice",
+          "url": "https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP"
+        }
+      ],
+      "duration_ms": 225506,
+      "name": "Youth Dem Cold",
+      "url": "https://open.spotify.com/track/4VoYv3ByzeEEIb8YEOT2rg"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -655,6 +655,22 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
+        "name": "Do To Me",
+        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
+      },
+      "artists": [
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 225103,
+      "name": "Do To Me",
+      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
         "name": "He Loves Us Both (feat. H.E.R.)",
         "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 221700,
       "name": "He Loves Us Both (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
-        "name": "Do To Me",
-        "url": "https://open.spotify.com/album/6b9SrV7fOCmUubzvBQvRVg"
-      },
-      "artists": [
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 225103,
-      "name": "Do To Me",
-      "url": "https://open.spotify.com/track/0CmQgwV3Bmzh9nZb9TNVEI"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
-        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Jamaica Jamaica",
         "url": "https://open.spotify.com/album/2ozJZeROKc2G2S0dCZbWdD"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 211620,
       "name": "Jamaica Jamaica",
       "url": "https://open.spotify.com/track/1IOKIOnUJnnjZSutpirvIl"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals",
+        "url": "https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "The Very Best Of The Wailing Souls",
-        "url": "https://open.spotify.com/album/35JVHz9f0H9oIzSYNW7BAC"
-      },
-      "artists": [
-        {
-          "name": "Wailing Souls",
-          "url": "https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL"
-        }
-      ],
-      "duration_ms": 252333,
-      "name": "Firehouse Rock",
-      "url": "https://open.spotify.com/track/2aEo5sPcclxVbA2vXFBi9M"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Road Runner",
         "url": "https://open.spotify.com/album/28ok5rJgmNe4pZ3OvoyAPY"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 178670,
       "name": "Road Runner",
       "url": "https://open.spotify.com/track/68ZpiCWoEtGhl8s1uaMXux"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "The Very Best Of The Wailing Souls",
+        "url": "https://open.spotify.com/album/35JVHz9f0H9oIzSYNW7BAC"
+      },
+      "artists": [
+        {
+          "name": "Wailing Souls",
+          "url": "https://open.spotify.com/artist/2ffhJMXvdEJFZISX76ccQL"
+        }
+      ],
+      "duration_ms": 252333,
+      "name": "Firehouse Rock",
+      "url": "https://open.spotify.com/track/2aEo5sPcclxVbA2vXFBi9M"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Pressure Drop: The Definitive Collection",
-        "url": "https://open.spotify.com/album/5lfJsDYf7XcdyHax7UO3OE"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "Funky Kingston",
-      "url": "https://open.spotify.com/track/2Vgw7NYq8futWHxCm3RBy3"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Nectar of the Gods",
         "url": "https://open.spotify.com/album/7fTqjHVugWluTJ8Ih9sLeC"
       },
@@ -1519,22 +1503,6 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Cry Wolf",
-        "url": "https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        }
-      ],
-      "duration_ms": 207772,
-      "name": "Cry Wolf",
-      "url": "https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
         "name": "Burn It To The Ground",
         "url": "https://open.spotify.com/album/7JIlW2igRiyuOPEUrD8eGg"
       },
@@ -1551,6 +1519,38 @@
       "duration_ms": 284000,
       "name": "Burn It To The Ground",
       "url": "https://open.spotify.com/track/5AeNzsPgqpZcAYRTdfLRYj"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Cry Wolf",
+        "url": "https://open.spotify.com/album/255urlK7V4yakvNY6r7aUK"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        }
+      ],
+      "duration_ms": 207772,
+      "name": "Cry Wolf",
+      "url": "https://open.spotify.com/track/6I2MrEcIvtLzz2Gv6DGCAU"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
+        "name": "Pressure Drop: The Definitive Collection",
+        "url": "https://open.spotify.com/album/5lfJsDYf7XcdyHax7UO3OE"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Funky Kingston",
+      "url": "https://open.spotify.com/track/2Vgw7NYq8futWHxCm3RBy3"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI"
+        "name": "Welcome to Jamrock",
+        "url": "https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
         }
       ],
-      "duration_ms": 220413,
-      "name": "Beach In Hawaii",
-      "url": "https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I"
+      "duration_ms": 213200,
+      "name": "Welcome To Jamrock",
+      "url": "https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Welcome to Jamrock",
-        "url": "https://open.spotify.com/album/1jL9mDhM5cMAwJD9brYyW5"
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI"
       },
       "artists": [
         {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 213200,
-      "name": "Welcome To Jamrock",
-      "url": "https://open.spotify.com/track/2e5Vm6VvdlTzuNcRSikeU6"
+      "duration_ms": 220413,
+      "name": "Beach In Hawaii",
+      "url": "https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I"
     },
     {
       "added_at": "2026-08-21 14:00:21",

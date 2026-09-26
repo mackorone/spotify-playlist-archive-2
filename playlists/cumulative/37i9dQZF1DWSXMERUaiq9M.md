@@ -4,7 +4,7 @@
 
 > 🚀 when ur love language is bpm 🚀  Cover: southstar
 
-851 songs - 2 day 2 hr 6 min
+851 songs - 2 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -705,6 +705,7 @@
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-06-29 | 2023-07-13 |
 | [Spin](https://open.spotify.com/track/0moGfmv7r22hx3nsU6yMf9) | [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt) | [Spin](https://open.spotify.com/album/4Ubxfr5wdZBzcm57wy2cgU) | 3:27 | 2025-07-17 | 2025-07-25 |
 | [Staring Into The Sun](https://open.spotify.com/track/4ZyOjIxFyf6UWdERULkFKE) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Staring Into The Sun](https://open.spotify.com/album/32fHr60Vpx6iUdl6UovJWH) | 3:16 | 2025-05-22 | 2025-10-11 |
+| [Staub](https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [CATHARSIS](https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd) | 3:25 | 2026-09-24 |  |
 | [Stay \- Ely Oaks Version](https://open.spotify.com/track/0nwP2efwenVG0C59bA8cOL) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [Misdemeanor](https://open.spotify.com/artist/6ohc4257tcIwK3UDZEQZeu) | [Stay \(Ely Oaks Version\)](https://open.spotify.com/album/2BDrI3p3xu92cKY2YpTOGl) | 2:39 | 2025-07-10 |  |
 | [Stay High](https://open.spotify.com/track/2PXRDrNnbgoNvSRt9LxB8G) | [Ueberrest](https://open.spotify.com/artist/7JipAMuZSlPJtbRVbi5vnS) | [44014](https://open.spotify.com/album/7e6XaF4E1KEgSBpKmsqOW3) | 4:31 | 2025-05-15 | 2025-05-23 |
 | [Stereoscopic](https://open.spotify.com/track/1tjc7RaBVpOBJLjkbjSBS0) | [BEC](https://open.spotify.com/artist/2rRlbUvyMjvEOdQPWtGoPI) | [Stereoscopic](https://open.spotify.com/album/6Z5OBUXv1C51O9aVVU5tM4) | 4:36 | 2023-09-21 | 2023-09-30 |
@@ -773,7 +774,6 @@
 | [Toter Schmetterling \- Single Edit](https://open.spotify.com/track/6IDywtwTrAkEsmJkPSNs27) | [Klangkuenstler](https://open.spotify.com/artist/6H77vD9YyhyxHBTkRpbMBk), [Sant](https://open.spotify.com/artist/0mgoNP0DrkKktInN298H4u) | [Toter Schmetterling](https://open.spotify.com/album/4TIt20JTmC6Vr99zuoSQlf) | 2:44 | 2025-09-18 |  |
 | [Touch My Body](https://open.spotify.com/track/0iUwIi7QYV7ecwiwx5pCgd) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [BIIANCO](https://open.spotify.com/artist/4Axsf7QVnPabbam5y6NwLt), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Touch My Body](https://open.spotify.com/album/2sFc58O2JuDvjGT11Gzgli) | 2:45 | 2024-08-29 | 2024-09-17 |
 | [Touch My Body](https://open.spotify.com/track/4phMw5RRSbWpVWCBvOwsoO) | [NOTMYTYPE](https://open.spotify.com/artist/7hjdOgAfEdNYBGViGyy28U), [IGDA](https://open.spotify.com/artist/0ak1kXL9XCay4yQq9ha2U8) | [Touch My Body](https://open.spotify.com/album/22tKTbDZGkrXRp4VDUZmDH) | 4:01 | 2024-06-13 | 2024-10-26 |
-| [Track 6](https://open.spotify.com/track/0FGlqrnlph0XIruUPaPACE) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [CATHARSIS](https://open.spotify.com/album/5VPzxNAublssw5EEKT22wd) | 0:00 | 2026-09-24 |  |
 | [Trajadão](https://open.spotify.com/track/3C9dOOUF0nUTy1hSvBEe7H) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun FM](https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3) | 2:42 | 2025-08-07 | 2025-08-16 |
 | [Trance, Acid, Techno](https://open.spotify.com/track/5L5spCX6nHyQZNJK8aToNa) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC), [Caroline Roxy](https://open.spotify.com/artist/65E2g1HICX11fDBessVxkW) | [Trance, Acid, Techno](https://open.spotify.com/album/4N3AJpgWwamNpc4C9uXxn3) | 2:33 | 2026-08-20 | 2026-09-04 |
 | [Transgender](https://open.spotify.com/track/2pgfgEF6CWsrPFF8HB6Xra) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM), [Police In Paris](https://open.spotify.com/artist/2NQvfk2OahqD2YybayOHC2), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Transgender](https://open.spotify.com/album/46muHUrkAVYiExmNO11XhI) | 2:56 | 2024-10-25 |  |

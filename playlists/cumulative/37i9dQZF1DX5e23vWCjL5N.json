@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Punchline, storytelling, rap italiano. Ele A in cover.",
+  "description": "Punchline, storytelling, rap italiano. 22simba in cover.",
   "name": "Liricisti",
   "tracks": [
     {
@@ -3571,6 +3571,24 @@
     },
     {
       "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184444,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3TLsevSDogRj0JG2EOBuVO"
+    },
+    {
+      "album": {
         "name": "AKA DANNO (DELUXE)",
         "url": "https://open.spotify.com/album/1aMvYmRYDNaM4Wg3T7ks35"
       },
@@ -5838,6 +5856,24 @@
       "duration_ms": 146206,
       "name": "Mio padre (feat. Noyz Narcos & Gu\u00e8)",
       "url": "https://open.spotify.com/track/6im0jVUTuW50jBwTHnMiur"
+    },
+    {
+      "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Miria",
+      "url": "https://open.spotify.com/track/3k265pHaq1vmxAQ8vWr5pR"
     },
     {
       "album": {
@@ -9348,6 +9384,24 @@
       "duration_ms": 129705,
       "name": "Vabbene",
       "url": "https://open.spotify.com/track/2zOLtHrCpfJLULqubanbt6"
+    },
+    {
+      "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103637,
+      "name": "Valle dei Re",
+      "url": "https://open.spotify.com/track/0roIq7Szo7q48nQ1IDbBES"
     },
     {
       "album": {

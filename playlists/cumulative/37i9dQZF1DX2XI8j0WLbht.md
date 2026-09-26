@@ -4,7 +4,7 @@
 
 > una guitarra y mucho sentimiento para cantar\. Ed Maverick en portada.
 
-282 songs - 18 hr 2 min
+284 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Azul](https://open.spotify.com/track/43uVCdofMSLIGOaWWakkO0) | [Macario Martínez](https://open.spotify.com/artist/228pVneav5qwbCGQrrqQo4) | [Azul](https://open.spotify.com/album/1UhzWnFPrhn178PkkD5Cbf) | 3:53 | 2025-11-07 |  |
 | [AZUL.](https://open.spotify.com/track/0j6STFxwqNU0MoUwDdbfae) | [Yukun](https://open.spotify.com/artist/4ov9qGZvnL4JWyKXDYSCPB) | [AZUL.](https://open.spotify.com/album/0RYRFzJ97pWuyL1UK9wGYS) | 2:01 | 2026-02-27 |  |
 | [Bambi](https://open.spotify.com/track/5s2sIXX27KyDupjyXNSrmt) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [ROJO REGALO](https://open.spotify.com/artist/7JCwfHOLK7S20ClYmV4bPd) | [Bambi](https://open.spotify.com/album/6QdOrxUeBBrFPjNUtfdSdb) | 4:10 | 2024-10-11 | 2025-05-31 |
+| [Belleza Pasajera](https://open.spotify.com/track/0zTOXS5uSxH6XgTCbIBbxE) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Belleza Pasajera](https://open.spotify.com/album/4hTPvzOnuyBQAgIfRLpDhd) | 3:48 | 2026-09-25 |  |
 | [Besar](https://open.spotify.com/track/1JfkGnktG9RRmQSxzN6jMC) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Besar](https://open.spotify.com/album/3ggnQ2EBey7bpJRuV7YhnX) | 3:34 | 2023-05-09 | 2025-05-31 |
 | [Besos de Mezcal](https://open.spotify.com/track/5n2oEHNiaCshJvtyS4Tewd) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Besos de Mezcal](https://open.spotify.com/album/4amubCKy3djyzbywCUrK4E) | 3:08 | 2022-03-04 | 2024-10-12 |
 | [Besos de Mezcal](https://open.spotify.com/track/3GoUbPBzAC6ABtFNdJmniO) | [Flor de Toloache](https://open.spotify.com/artist/1eEJbNVFQTDmQETQpLMoWD) | [Indestructible](https://open.spotify.com/album/6VBZup38Otx23Ff3tx9qfW) | 3:08 | 2022-03-04 | 2024-04-19 |
@@ -192,7 +193,7 @@
 | [No Te Vayas Sin Saber](https://open.spotify.com/track/3u136DJMY2wCgZ2TaO4wND) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Vendrán Suaves Lluvias](https://open.spotify.com/album/4PXqCA2P1xLNjIbn2pOQMm) | 3:44 | 2025-11-07 |  |
 | [Noche Sensacional](https://open.spotify.com/track/6L2rOHvZAwPCp2FqYmyvZ5) | [Chabuco](https://open.spotify.com/artist/7iVnPo1i10De0UGQz5eDsl), [Dayhan Díaz](https://open.spotify.com/artist/3L2JdDvaqkXdtw0DTnxLSa) | [Noche Sensacional](https://open.spotify.com/album/7zWTzor9FhwJC513rjjMda) | 3:17 | 2022-04-20 | 2023-06-10 |
 | [Nos da tiempo de todo](https://open.spotify.com/track/5JC6fW8zxvi4847IfOndGt) | [Carlos Meoli](https://open.spotify.com/artist/55kFc1hybuhiWOC7SiV59u) | [Rehacer](https://open.spotify.com/album/0NdgjRW2poAkXop6leeWK3) | 3:23 | 2026-09-04 |  |
-| [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR) | 5:14 | 2025-05-30 |  |
+| [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/track/51wUFdgpNsV8cVzu7i6N0l) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Nos Queda Mucho Dolor Por Recorrer](https://open.spotify.com/album/1SN273lz19UyGsPKrJkcsR) | 5:14 | 2025-05-30 | 2026-09-26 |
 | [pa que](https://open.spotify.com/track/5smAUZtCCJCcHv2qyknRgt) | [bpuntito](https://open.spotify.com/artist/7hpawMsfyoRG0gF7VAwv9u) | [pa que](https://open.spotify.com/album/54zMR9xpK3l6DHhjitr4Qd) | 3:16 | 2026-03-27 |  |
 | [Pajaro Azul](https://open.spotify.com/track/1FhrYN4eKtfXUhS1bMnknI) | [Ivan de la Rioja](https://open.spotify.com/artist/4wpcrUKNf1pPMdUyJyDzVA), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Pajaro Azul](https://open.spotify.com/album/7qbKlMLwSZUMR4tgOaOlKG) | 2:28 | 2026-09-04 |  |
 | [Palabras Vacías](https://open.spotify.com/track/3whx5H5CCDyXnkrXgt0nwp) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Índole](https://open.spotify.com/album/1u69ELQ46bSTtXtxAjOhDC) | 3:18 | 2025-11-07 | 2026-01-17 |
@@ -241,6 +242,7 @@
 | [siente más](https://open.spotify.com/track/6sycT6FiSI1YSERI9279qY) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 4:00 | 2025-05-30 |  |
 | [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger AK](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 | 2022-03-04 | 2025-05-31 |
 | [Skokiaan](https://open.spotify.com/track/2NtCE2KvwtmIOwmGRB04Hy) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN) | [ELCANO](https://open.spotify.com/album/6NX6KCQs8KEJIAA207IhAw) | 3:17 | 2022-04-20 | 2024-06-01 |
+| [Socorro](https://open.spotify.com/track/7aOCTIavuPBXbnsw0SUbrV) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Dolores y compañía](https://open.spotify.com/album/7pX5LQHRwvOISJAChz2tqx) | 3:38 | 2026-09-25 |  |
 | [Soledad](https://open.spotify.com/track/4LYDqFT3zydd33a2yCUZLw) | [Gabriela Alatorre](https://open.spotify.com/artist/5nx2QzX7iOhTv3L5eQOFG5) | [Soledad](https://open.spotify.com/album/0lHx8eiojQQ9hjwsUvjFVB) | 3:58 | 2026-04-24 |  |
 | [Son del Chile Frito](https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:35 | 2022-03-04 | 2025-05-31 |
 | [Son Tus Ojos Tranquilos](https://open.spotify.com/track/1nrTJhwBJcoxKdtyqSXUJl) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG), [Mixe Represent](https://open.spotify.com/artist/5qrOGN6UnfGEE9VgznHrBF) | [Son Tus Ojos Tranquilos](https://open.spotify.com/album/6aUP0uecjAjkY7kIZ0bpl2) | 4:56 | 2023-06-09 | 2025-05-31 |

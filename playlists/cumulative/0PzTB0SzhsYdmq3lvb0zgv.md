@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-599 songs - 1 day 9 hr 27 min
+603 songs - 1 day 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Deep \(In the Plans We Made\)](https://open.spotify.com/track/5A2YuFwiUUtLNDX022x8oo) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [If You Go There, I Hope You Find It](https://open.spotify.com/album/7vULyg3RtEXYxsOulFZQ41) | 4:32 | 2026-01-23 | 2026-02-20 |
 | [Devour Me](https://open.spotify.com/track/6pnMlIhyMoE2syCCYY4oee) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [LOVE IS THE LAW](https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0) | 3:10 | 2026-07-24 |  |
 | [DIAMONDS FOR YOUR PAIN](https://open.spotify.com/track/6QBQ8IiJC47SHuG7omEub0) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 1:28 | 2025-07-18 | 2026-02-19 |
+| [Dicht Bij Het Vuur](https://open.spotify.com/track/7rXjKVKU9oYwl0TXPYPj3t) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [Dicht Bij Het Vuur](https://open.spotify.com/album/28hXQjFqMi1OVhV7YAVL1s) | 3:44 | 2026-09-25 |  |
 | [Did You Love Somebody](https://open.spotify.com/track/1j4BkEFGLcBysD9SbnT4ld) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Did You Love Somebody](https://open.spotify.com/album/7HYIpIJ4qfmAFqgHYOC3fR) | 4:09 | 2025-07-18 |  |
 | [Did You Love Somebody \(feat\. Sir Chloe\)](https://open.spotify.com/track/3lZhH5QiBpcPUrvSy5VfZz) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire), [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Did You Love Somebody \(feat\. Sir Chloe\)](https://open.spotify.com/album/5AiC1ESCiFpZcDxSWylVeB) | 4:08 | 2025-07-18 | 2025-08-23 |
 | [Die On This Hill](https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Die On This Hill](https://open.spotify.com/album/7GS4aKISJ2KgAm4aBhkzng) | 3:37 | 2025-11-28 | 2026-02-19 |
@@ -197,6 +198,7 @@
 | [Good to know](https://open.spotify.com/track/4ICnjvpxN0faFDplYTE5jf) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [No Big Deal](https://open.spotify.com/album/2wUOMqXHDCLA50klefUDFU) | 3:06 | 2025-07-18 |  |
 | [Gospel Oak](https://open.spotify.com/track/6yVKfb3a5uFhx64hyUwEZF) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [The Clearing \(B Sides\)](https://open.spotify.com/album/6HmTemMMhm4C8tiM39Dz28) | 2:35 | 2026-08-25 |  |
 | [Grain by Grain](https://open.spotify.com/track/2sUR1qY51anvjBXMpfQGNa) | [Mel Parsons](https://open.spotify.com/artist/2mKPHz3RD0bMrQqKFnrwrC) | [Grain by Grain](https://open.spotify.com/album/2AZA6MxPVcnQ98wLkwSTeA) | 3:49 | 2026-06-25 | 2026-07-18 |
+| [Grandma Song](https://open.spotify.com/track/7ELw4A1MnqcOMVndn9R86G) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Grandma Song](https://open.spotify.com/album/48eCxWORHd5e5rKLtU5b7I) | 3:03 | 2026-09-25 |  |
 | [Grandma's Wisdom](https://open.spotify.com/track/2aPiOyvUJqi2IdiEN6SjAq) | [Säm Wilder](https://open.spotify.com/artist/5ggPsCXzRhoyVoeMRvg32B), [SLOJAY](https://open.spotify.com/artist/5HS4OHVUCSB0gbsbugOp7w) | [Grandma's Wisdom](https://open.spotify.com/album/7isfBCIfCSDvjdde0aAlz1) | 3:01 | 2026-02-27 |  |
 | [Gravity](https://open.spotify.com/track/67ZToNMUVrEPd4LppSTjH7) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/2gR5VChCr7aKQ2Ybk6vpf3) | 4:05 | 2026-01-09 |  |
 | [Grow](https://open.spotify.com/track/4oKZFnSK6xmq40KLehqYs5) | [Romy Dya](https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK) | [Grow](https://open.spotify.com/album/6i2Q9I1AkYBdvTjQMTVVE2) | 3:01 | 2025-07-18 | 2025-10-28 |
@@ -225,6 +227,7 @@
 | [How It's Gotta Be](https://open.spotify.com/track/4GN2iIuQYXSMi0WJGJF7IL) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Head Above Water](https://open.spotify.com/album/6Kbyq3so1qAj2r4d1JDKOy) | 3:41 | 2026-06-25 |  |
 | [Human \- Acoustic](https://open.spotify.com/track/0tuFMS5OvEf2Er5uOC7Qhs) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Human](https://open.spotify.com/album/2vvQVHFPVclHFrZQNOBOQ4) | 3:45 | 2026-01-09 | 2026-02-19 |
 | [Human Beings](https://open.spotify.com/track/107icQkNcqwZ7D8k9JNjGM) | [Mark Wilkinson](https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK) | [Human Beings](https://open.spotify.com/album/5V6sYT9FMHeFQQGqheyz8p) | 3:02 | 2026-06-25 |  |
+| [Hyde Park](https://open.spotify.com/track/6kiWnEjFCdUPrZY8p2WUyY) | [Laura Tesoro](https://open.spotify.com/artist/2vmZupMPxLgT8MNNXTRfa2) | [Hyde Park](https://open.spotify.com/album/6vKdXXlVUzUUv7mRPyvjpa) | 2:14 | 2026-09-25 |  |
 | [I Can See Clearly Now](https://open.spotify.com/track/2p21JKTsAM4KrJt9z2tGWQ) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Sunshine In The Music](https://open.spotify.com/album/1K9ee7rBIiemCGI0alOqJX) | 3:17 | 2026-02-19 |  |
 | [I CAN TELL](https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:15 | 2025-07-18 |  |
 | [I Don't Want To Fall In Love Again](https://open.spotify.com/track/54HHg1hkAWyJkS2QFeyOrY) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [I Don't Want To Fall In Love Again](https://open.spotify.com/album/2YfJNgBCdldfNP1IOwi4Io) | 3:11 | 2026-05-08 |  |
@@ -512,6 +515,7 @@
 | [Sweetheart](https://open.spotify.com/track/5XSBmZKP9J3ZRdqwygm2ee) | [Avery Lynch](https://open.spotify.com/artist/7aO285xSsCbjy0q9zEqXEk) | [Sweetheart](https://open.spotify.com/album/5YRCEVDf3R3TLwPJsKdctz) | 3:35 | 2025-07-18 |  |
 | [Take Care](https://open.spotify.com/track/0bht8SpPHXiUMApKcua4Mz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 2:32 | 2026-02-19 |  |
 | [Take Me Home](https://open.spotify.com/track/6tAQOq9ezWVntk5gympCFB) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Take Me Home](https://open.spotify.com/album/0c3d9m7N9afCX5dwPyooyT) | 3:28 | 2026-04-10 |  |
+| [Take My Hand](https://open.spotify.com/track/47uy9EQlRbDdNMEF9V01Ge) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime](https://open.spotify.com/album/2TSVHmU9pkzCVaJk3GGXGO) | 3:36 | 2026-09-25 |  |
 | [Take My Hand \- Acoustic](https://open.spotify.com/track/2VWKTFDOmeiaoDGDrTAaJd) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Take My Hand](https://open.spotify.com/album/4NyvkIst3MjPuSBUgTkv4d) | 3:31 | 2026-07-31 |  |
 | [Tangerine \(feat\. d4vd\)](https://open.spotify.com/track/4rSF54WsnmArj1cnKWFNcu) | [Damiano David](https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [FUNNY little FEARS](https://open.spotify.com/album/4xc5MKpCUw1LREm6cnBtOa) | 3:21 | 2025-07-18 | 2025-09-06 |
 | [Tattoo \- Spotify Singles](https://open.spotify.com/track/3OOl2L4LrjlRRSMDzIpua8) | [BABIE LATO](https://open.spotify.com/artist/0n6yaHp7ZDCuHJlNtN0q3G), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ), [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV), [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [Tattoo \- Spotify Singles](https://open.spotify.com/album/4aISMGKmjSm9b6uWlmpGef) | 2:33 | 2025-07-18 | 2025-09-27 |

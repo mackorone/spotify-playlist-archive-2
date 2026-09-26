@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With The Dogs, Autoimmune, The Cassandra Complex and more",
+  "description": "With The Dogs, Autoimmune, Jon Drake and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -796,7 +796,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4IgoUMRncx2KtiaZy9Iv4w"
@@ -858,6 +858,24 @@
       "duration_ms": 255000,
       "name": "Art\u0131k",
       "url": "https://open.spotify.com/track/461MvyYbmNiLKMjl9dLGbG"
+    },
+    {
+      "album": {
+        "name": "Palliativ Planet",
+        "url": "https://open.spotify.com/album/57B2Y4eRc5lNVc95rs56xf"
+      },
+      "artists": [
+        {
+          "name": "Johan Piribauer",
+          "url": "https://open.spotify.com/artist/7snANhwq2QpnYEmIVnRfEi"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228150,
+      "name": "Arvidsjaur",
+      "url": "https://open.spotify.com/track/0Bziz2o8iBriC8mTfloP2C"
     },
     {
       "album": {
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 249620,
       "name": "Blue and Grey",
       "url": "https://open.spotify.com/track/0Gt57LW9n5MknCEHhbN9AT"
@@ -1888,7 +1906,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 190000,
       "name": "Burning - Live at Paradiso",
       "url": "https://open.spotify.com/track/5AKzIkcSU2RH94rP6xJwdw"
@@ -2126,7 +2144,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 216756,
       "name": "Carry The Light",
       "url": "https://open.spotify.com/track/01QlANmhnuBGjN4ZzACMhR"
@@ -3860,7 +3878,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 214000,
       "name": "Dreams Aren't Enough - Live at Paradiso",
       "url": "https://open.spotify.com/track/6zNQZSpxBsTJbBk8kjIBqA"
@@ -4970,7 +4988,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 301250,
       "name": "Fall from Grace",
       "url": "https://open.spotify.com/track/5M2SJg1XfBiMh7OBEbx1kr"
@@ -6774,7 +6792,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 181190,
       "name": "Hours (Last Waltz)",
       "url": "https://open.spotify.com/track/3Q2fQ6hwP2E3wTJD6cV8al"
@@ -7106,7 +7124,7 @@
       ],
       "date_added": "2026-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 229742,
       "name": "I Rock The Fez",
       "url": "https://open.spotify.com/track/2MJcuG3uY79vv16GQctIrb"
@@ -7946,7 +7964,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 254925,
       "name": "Just Keep Swimming",
       "url": "https://open.spotify.com/track/5GIEnFRBb9fRPR963oPdJh"
@@ -8112,7 +8130,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 214001,
       "name": "Klokkene ringer for kvelden",
       "url": "https://open.spotify.com/track/3nO9J7Dfm4GTQkcQtYRVO0"
@@ -9390,7 +9408,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 227600,
       "name": "Mannen i speilet",
       "url": "https://open.spotify.com/track/2XMkSnJrJwg7NbkJaiYFXY"
@@ -11556,7 +11574,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 217295,
       "name": "Painting Princess",
       "url": "https://open.spotify.com/track/1fotqQEfQNkDV4Eb4Uk9ML"
@@ -12072,7 +12090,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 177502,
       "name": "Pointless Paranoia - Remastered 2025",
       "url": "https://open.spotify.com/track/57aH8JoDiGALsR3bAsSK4m"
@@ -13321,6 +13339,24 @@
     },
     {
       "album": {
+        "name": "D L / U X",
+        "url": "https://open.spotify.com/album/6f6t8TopgYSaBjhiJgpXIN"
+      },
+      "artists": [
+        {
+          "name": "Gene Dante",
+          "url": "https://open.spotify.com/artist/551kbR5wR5mAsJNDeB1Jzz"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177562,
+      "name": "She's Outside",
+      "url": "https://open.spotify.com/track/5h0OQLMrwlAHKC1xlO5DG3"
+    },
+    {
+      "album": {
         "name": "Ship of Sorrow",
         "url": "https://open.spotify.com/album/05j1aMIOAJ2GBy1dqCphVT"
       },
@@ -13332,7 +13368,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 245000,
       "name": "Ship of Sorrow",
       "url": "https://open.spotify.com/track/4nM1YRktjwhcRg41vBbKaA"
@@ -13422,7 +13458,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 200086,
       "name": "Sinnsyke Sanger",
       "url": "https://open.spotify.com/track/0jjPaIycspjZuh4lWWqCBj"
@@ -15267,6 +15303,24 @@
     },
     {
       "album": {
+        "name": "The Gabbagabbaheyhotel, Pt. 3",
+        "url": "https://open.spotify.com/album/4Y6qMWLujTEUWPojOtvVoS"
+      },
+      "artists": [
+        {
+          "name": "The Old",
+          "url": "https://open.spotify.com/artist/4quEGG6kPYvNpgp2V6j3dp"
+        }
+      ],
+      "date_added": "2026-09-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "The Hair",
+      "url": "https://open.spotify.com/track/3pIRroC5iuw3TvSlV7mqI8"
+    },
+    {
+      "album": {
         "name": "Lost in Silence",
         "url": "https://open.spotify.com/album/3Mg4ebm8kmjgtni4QWcuCl"
       },
@@ -16192,7 +16246,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 188000,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/4wHpvOL7XRllKNxsOCHwH3"

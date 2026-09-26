@@ -1,6 +1,6 @@
 {
   "description": "The best new AUS & NZ Rap. Cover: Lisi",
-  "num_followers": 142880,
+  "num_followers": 142875,
   "original_name": "Local Hype",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,26 @@
       "duration_ms": 172444,
       "name": "HIM",
       "url": "https://open.spotify.com/track/3nIZYfa1Ij4XrarJd1TNXP"
+    },
+    {
+      "added_at": "2026-09-24 14:01:03",
+      "album": {
+        "name": "One Of A Kind",
+        "url": "https://open.spotify.com/album/6eiF1CawkNbaWNF36XTbdc"
+      },
+      "artists": [
+        {
+          "name": "SHY",
+          "url": "https://open.spotify.com/artist/0f9jGgLW6UkYdbhzL4sIZQ"
+        },
+        {
+          "name": "Eliezer",
+          "url": "https://open.spotify.com/artist/0IgKE9e29rcE4iFvjXog0Y"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "One Of A Kind",
+      "url": "https://open.spotify.com/track/4LjZ6kDtVZj4l2vCcTufkG"
     },
     {
       "added_at": "2026-09-24 14:01:03",

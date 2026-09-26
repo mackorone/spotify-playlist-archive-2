@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Motion & good vibes! Cover: Issah
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,947 likes - 72 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,961 likes - 72 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

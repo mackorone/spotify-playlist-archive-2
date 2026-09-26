@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 ### [Spinnin' Records Brand New](https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI)
 
-> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Timmy Trumpet x Alle Farben
+> New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: AVE
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 117,686 likes - 307 songs - 15 hr 10 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 117,681 likes - 307 songs - 15 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Meet Me In The Dark \- Joel Corry Remix](https://open.spotify.com/track/5lxWnywnnSIhZ5C5n2m889) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Meet Me In The Dark \(Joel Corry Remix\)](https://open.spotify.com/album/0HerfMSZ4Yc60SXiXjnfEM) | 2:56 |
 | 2 | [Chase The Feeling \(feat\. ALEXX\)](https://open.spotify.com/track/0e5Af4sM86p0CD3KpZAEY2) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [ALEXX](https://open.spotify.com/artist/5uKJESYpkn1kFR72Sj0UWC) | [Chase The Feeling \(feat\. ALEXX\)](https://open.spotify.com/album/6yh6I4g8c6QYATbQJIe6VC) | 2:29 |
 | 3 | [This Ain't Just Music](https://open.spotify.com/track/6OJDHvSnRjgcuE0DtAilgK) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [This Ain't Just Music](https://open.spotify.com/album/0r17TOyQydRRmN7PLG16zX) | 2:45 |
-| 4 | [Be My Own](https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [MONTE](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Be My Own](https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5) | 2:59 |
-| 5 | [Break !t Down](https://open.spotify.com/track/6GozvuBGFBI5dbrSNqkRkL) | [Damian Clarke](https://open.spotify.com/artist/76vfiinPOoRvOVOJOVQThQ) | [Break !t Down](https://open.spotify.com/album/5Lz52PR7ghAJwbFo7Q3RS6) | 3:38 |
-| 6 | [Lost In You](https://open.spotify.com/track/7JepFBebSAZwfFz4DFualc) | [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5) | [Lost In You](https://open.spotify.com/album/54GJiL6xTG5L3sndbRtsaC) | 3:08 |
-| 7 | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 |
+| 4 | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/track/782t3eu2X2fedW5HWNAQQT) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [The Second Voice](https://open.spotify.com/artist/62DJxMVn5UY5avf5dOvg30), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [LET ME BE \(Official \- Jason Derulo, The Second Voice, Qing Madi\)](https://open.spotify.com/album/2tyym5PWZQJY2fuuQHmSVU) | 2:45 |
+| 5 | [Be My Own](https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [MONTE](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Be My Own](https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5) | 2:59 |
+| 6 | [Break !t Down](https://open.spotify.com/track/6GozvuBGFBI5dbrSNqkRkL) | [Damian Clarke](https://open.spotify.com/artist/76vfiinPOoRvOVOJOVQThQ) | [Break !t Down](https://open.spotify.com/album/5Lz52PR7ghAJwbFo7Q3RS6) | 3:38 |
+| 7 | [Lost In You](https://open.spotify.com/track/7JepFBebSAZwfFz4DFualc) | [Max Chapman](https://open.spotify.com/artist/5H2Ir5oA547rZrma8ZXFs5) | [Lost In You](https://open.spotify.com/album/54GJiL6xTG5L3sndbRtsaC) | 3:08 |
 | 8 | [Whole Again](https://open.spotify.com/track/1WGPOivrkVZPQTYS7yagu0) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Whole Again](https://open.spotify.com/album/4T6WGOKNC5P8euk1cbiqJs) | 2:48 |
 | 9 | [So Incredible \(Remix\)](https://open.spotify.com/track/5o9IvdwmVGFqhiWCP67qy2) | [Lies Zhara](https://open.spotify.com/artist/6lepB2hdHmFWYsZEDqP4l5) | [So Incredible \(Remix\)](https://open.spotify.com/album/2K7r7mT6pbFM4EbYR7XFzx) | 1:57 |
 | 10 | [All Night](https://open.spotify.com/track/3Ul23eh918yziF22bJkswP) | [AVE](https://open.spotify.com/artist/65aOyzXKa857ZYymGRKmqE) | [All Night](https://open.spotify.com/album/1KWdcEObnWmZHydMYRwSMJ) | 2:22 |
@@ -316,4 +316,4 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 306 | [Era](https://open.spotify.com/track/1eao1v2p0x5mckT9gMTOH6) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv) | [Era](https://open.spotify.com/album/4jm2U2sXJUJGBhKC1TJfsp) | 4:44 |
 | 307 | [Fever Dream \- Extended Mix](https://open.spotify.com/track/0nBHXHM7VzucF8OtVJzAdE) | [Tuew](https://open.spotify.com/artist/0TEFGr4Bz2GgUhfDGsNx3r) | [Fever Dream](https://open.spotify.com/album/3M7b4WrkyiNENf3GNXKLuq) | 3:32 |
 
-Snapshot ID: `AAAh/SfvpucL36XaylmUP6TayRU8+/Nm`
+Snapshot ID: `AAAh/yX0i4NBoQ3rjE6IF2rJF7+qe6sL`

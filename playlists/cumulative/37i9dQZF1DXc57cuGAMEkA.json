@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002\u85e4\u4e95 \u98a8, Ado, Kroi, Tinashe, Nothing But Thieves and more!\n",
+  "description": "\u6d0b\u697d\u3092\u4e2d\u5fc3\u306b\u4eca\u9031\u306e\u65b0\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002\u85e4\u4e95 \u98a8, Taylor Swift, Ado, Kroi, Tinashe,  \nNothing But Thieves and more!",
   "name": "New Music Friday Japan",
   "tracks": [
     {
@@ -82930,6 +82930,28 @@
       "duration_ms": 226578,
       "name": "Flea",
       "url": "https://open.spotify.com/track/28LRSVfLH4wJN8MRsoyr8z"
+    },
+    {
+      "album": {
+        "name": "Fleabag (feat. Paolo Sandejas)",
+        "url": "https://open.spotify.com/album/1e36Xz5KJvTY3zVjVWIi8h"
+      },
+      "artists": [
+        {
+          "name": "NEW LORE",
+          "url": "https://open.spotify.com/artist/6qJpZtfyp8a3D2bXq1eQ5E"
+        },
+        {
+          "name": "Paolo Sandejas",
+          "url": "https://open.spotify.com/artist/7aerdWadzubpu06Oxysg6R"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173500,
+      "name": "Fleabag (feat. Paolo Sandejas)",
+      "url": "https://open.spotify.com/track/7xRga53GguD9bLi2NtaIv3"
     },
     {
       "album": {
@@ -186833,6 +186855,24 @@
     },
     {
       "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "album": {
         "name": "PATRONA",
         "url": "https://open.spotify.com/album/42ezAHV90jXuRCgi94UTvf"
       },
@@ -189182,7 +189222,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 210960,
-      "name": "Pinapple Monster",
+      "name": "Pineapple Monster",
       "url": "https://open.spotify.com/track/0VgUgdzkknEH1fUMtCDovI"
     },
     {
@@ -246693,6 +246733,24 @@
     },
     {
       "album": {
+        "name": "The Boathouse",
+        "url": "https://open.spotify.com/album/1llsQnSLtlfXtfwrC4Ityx"
+      },
+      "artists": [
+        {
+          "name": "Lottie McLeod",
+          "url": "https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Thomas",
+      "url": "https://open.spotify.com/track/65PUfUOQar5RswdwXO6S1k"
+    },
+    {
+      "album": {
         "name": "Thootie (feat. Tokischa)",
         "url": "https://open.spotify.com/album/0TodY9XIuBX1k3DUhigXuG"
       },
@@ -251938,24 +251996,6 @@
       "duration_ms": 0,
       "name": "Track 1",
       "url": "https://open.spotify.com/track/66Cb8LL0T1m8KnPzTuiVYW"
-    },
-    {
-      "album": {
-        "name": "The Boathouse",
-        "url": "https://open.spotify.com/album/1llsQnSLtlfXtfwrC4Ityx"
-      },
-      "artists": [
-        {
-          "name": "Lottie McLeod",
-          "url": "https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/65PUfUOQar5RswdwXO6S1k"
     },
     {
       "album": {
@@ -288921,6 +288961,28 @@
     },
     {
       "album": {
+        "name": "\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u30fb\u30b9\u30bf\u30fc\u306e\u559c\u5287 feat. \u3053\u3063\u3061\u306e\u3051\u3093\u3068",
+        "url": "https://open.spotify.com/album/6FtYRmiSDlOJ3kHluWfWiw"
+      },
+      "artists": [
+        {
+          "name": "meiyo",
+          "url": "https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9"
+        },
+        {
+          "name": "\u3053\u3063\u3061\u306e\u3051\u3093\u3068",
+          "url": "https://open.spotify.com/artist/7EPGNfEHkDAc3ejlUDDpwX"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202768,
+      "name": "\u30d1\u30fc\u30d5\u30a7\u30af\u30c8\u30fb\u30b9\u30bf\u30fc\u306e\u559c\u5287 feat. \u3053\u3063\u3061\u306e\u3051\u3093\u3068",
+      "url": "https://open.spotify.com/track/3J2ICQACSVx1k6NVYjJ2O0"
+    },
+    {
+      "album": {
         "name": "\u30d1\u30fc\u30d7\u30eb\u30b9\u30ab\u30a4",
         "url": "https://open.spotify.com/album/6oFPR5rseGNY5TBsL6hdyJ"
       },
@@ -297599,6 +297661,24 @@
     },
     {
       "album": {
+        "name": "\u6b7b\u306c\u304b\u751f\u304d\u308b\u304b",
+        "url": "https://open.spotify.com/album/4HL13G5HCfsP2QvTknHmyD"
+      },
+      "artists": [
+        {
+          "name": "\u5343\u8449\u96c4\u559c",
+          "url": "https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165974,
+      "name": "\u6b7b\u306c\u304b\u751f\u304d\u308b\u304b",
+      "url": "https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX"
+    },
+    {
+      "album": {
         "name": "\u6b7b\u3093\u3058\u3083\u3044\u305f\u3044\u306e\u3055",
         "url": "https://open.spotify.com/album/4R16uyrksO4cYM4FtVUSws"
       },
@@ -301860,6 +301940,28 @@
       "duration_ms": 293721,
       "name": "\u96e8\u9154\u3044",
       "url": "https://open.spotify.com/track/5XMKwkduEhcYTqdWFP1NmP"
+    },
+    {
+      "album": {
+        "name": "\u96f0\u56f2\u6c17",
+        "url": "https://open.spotify.com/album/0wagxfM0C8B7hDawfqFYm6"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        },
+        {
+          "name": "\u912d\u96d9\u96d9",
+          "url": "https://open.spotify.com/artist/642hyS9EveDWXVIANUQnMb"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "\u96f0\u56f2\u6c17",
+      "url": "https://open.spotify.com/track/28dKw9Km5DDq6hrErz17Yi"
     },
     {
       "album": {

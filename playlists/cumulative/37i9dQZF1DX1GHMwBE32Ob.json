@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Bahubali",
+        "url": "https://open.spotify.com/album/3sg7XmCUiue0W7dW77hS0b"
+      },
+      "artists": [
+        {
+          "name": "T DOLLAR",
+          "url": "https://open.spotify.com/artist/2HPDMJm4oFd9fQh5N4WIAc"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144232,
+      "name": "Bahubali",
+      "url": "https://open.spotify.com/track/2jSkGbyUK1VmBXE3hgJyBl"
+    },
+    {
+      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/49IVKHiQ1G7Rt1ZM8L2ktA"
       },
@@ -5952,7 +5970,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 211525,
       "name": "Kowope",
       "url": "https://open.spotify.com/track/427Ghtd3sYoYAy1xVBVatt"

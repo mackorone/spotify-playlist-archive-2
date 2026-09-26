@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-595 songs - 1 day 1 hr 36 min
+596 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Fraction Of Time](https://open.spotify.com/track/2Jo7Yt5gcwtnBXMuylLH3c) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Fraction Of Time](https://open.spotify.com/album/2kBh0yDsnb1cUsX6835lgz) | 2:43 | 2022-05-13 | 2024-11-13 |
 | [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 | 2023-08-22 | 2026-08-15 |
 | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/track/3wbUNzYewaXXPMqeKZvl8I) | [Aramis Silvereke](https://open.spotify.com/artist/11efnmWuN6PImMPmQjAfKq) | [A Glance From His Brown & Blue Eyes](https://open.spotify.com/album/0ZwZThQ3XiWXWNw8xF06hF) | 4:00 | 2022-05-04 | 2024-10-02 |
+| [A Heart Left Waiting](https://open.spotify.com/track/665cLB7yDDROBMULcwxWPN) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [A Heart Left Waiting](https://open.spotify.com/album/0Cd764v4nVZXsXXJ0TN7fO) | 2:58 | 2026-09-25 |  |
 | [A Landscape In Time](https://open.spotify.com/track/3N3MDdkEPA6GDJcv5piDvF) | [Aran Locksley](https://open.spotify.com/artist/7GSlNqdvjRJaWUof6GaobW) | [A Landscape In Time](https://open.spotify.com/album/7AuKscPwxN4mpn8CicToVZ) | 2:18 | 2026-07-17 |  |
 | [A Love Note](https://open.spotify.com/track/7qWt0c0tCp5lc97qAdtaFV) | [Thibaud Fleming](https://open.spotify.com/artist/6QE5XI9fz7xt4jDwOqYceT) | [A Love Note](https://open.spotify.com/album/0MMN8nn4yVttrCm5AV8smU) | 2:06 | 2023-11-07 | 2025-05-01 |
 | [A passing season](https://open.spotify.com/track/0kcNgvxO5miMzPqkFYoeqK) | [Rowan Guthrie](https://open.spotify.com/artist/5UZOjfjGjEFQ5v3HGf02YG) | [A passing season](https://open.spotify.com/album/7uFAhV4JjbE5B7xgvxYTx7) | 2:55 | 2024-03-04 | 2026-08-28 |
@@ -586,7 +587,7 @@
 | [Wide Skies](https://open.spotify.com/track/7dgAZemjrAuLHTOikyWtbA) | [Liona Sand](https://open.spotify.com/artist/1p6pGVY7ZTHr9Lv9DCXQiE) | [Wide Skies](https://open.spotify.com/album/5flaLlq8sLt6VdnPCr5Ast) | 3:22 | 2022-04-14 | 2022-09-15 |
 | [Wiedersehen](https://open.spotify.com/track/3XJCDdzmuUdxz8hqXT32Gv) | [Christian Menke](https://open.spotify.com/artist/6CQRmzc7EGzYTRkfLMXRPU) | [Wiedersehen](https://open.spotify.com/album/1llNEXcHkiatftwmtVnkmr) | 3:27 | 2024-03-04 |  |
 | [Winds From The North](https://open.spotify.com/track/4qqKiqhvlVA5bahG0AFMip) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Winds From The North](https://open.spotify.com/album/0hO2pdcwBnbitpXMXsVYZ7) | 2:24 | 2024-03-19 |  |
-| [Winter Excess](https://open.spotify.com/track/0nOlxubcA9IShjz2DBpUUx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Winter Excess](https://open.spotify.com/album/57V8raQNJ2YkHs9KqiHn5H) | 2:29 | 2024-03-04 |  |
+| [Winter Excess](https://open.spotify.com/track/0nOlxubcA9IShjz2DBpUUx) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Winter Excess](https://open.spotify.com/album/57V8raQNJ2YkHs9KqiHn5H) | 2:29 | 2024-03-04 | 2026-09-26 |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2022-04-14 | 2025-04-05 |
 | [Wishes](https://open.spotify.com/track/7L3AZOpZ7LUvUHonOLwxob) | [Benjamin Dobbs](https://open.spotify.com/artist/0Ryn8sGu13BwRC3zDySvOP) | [Wishes](https://open.spotify.com/album/5gaGIa6VJgu090XhGHc6To) | 2:02 | 2022-12-22 | 2025-04-10 |
 | [Wishing](https://open.spotify.com/track/6DmakgjxCyZ5idLg6lbX1J) | [Kjartan Schön](https://open.spotify.com/artist/1Kseg3QEYs47CnkcWGWLyH) | [Wishing](https://open.spotify.com/album/6TXuH9AYP4OI1BErvfPlAc) | 2:29 | 2024-11-26 |  |

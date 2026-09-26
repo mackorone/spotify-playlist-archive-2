@@ -1,13 +1,49 @@
 {
-  "description": "Rilisan baru pekan ini dari Rizky Febian, Salma Salsabil, Jackson Wang, Rex Orange County dan masih banyak lagi dari dalam dan mancanegara.",
-  "num_followers": 250197,
+  "description": "Rilisan baru pekan ini dari Taylor Swift, Madonna, Charli xcx, Rizky Febian, Salma Salsabil, Jackson Wang, Rex Orange County dan masih banyak lagi dari dalam dan mancanegara.",
+  "num_followers": 250744,
   "original_name": "New Music Friday Indonesia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH7TpEIS8CEXv/C8i182QRW9JFtP",
+  "snapshot_id": "AAAAAMMJrqMaheCSDW+UF62bEZ8gpFiG",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:02:18",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
+    {
+      "added_at": "2026-09-25 04:02:18",
+      "album": {
+        "name": "Danceteria Afterhours",
+        "url": "https://open.spotify.com/album/7jX2nfe1lBHd4BsOLwuzh9"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 230503,
+      "name": "Danceteria Afterhours",
+      "url": "https://open.spotify.com/track/3j7BhP71ROCpc9R3w9P9UE"
+    },
     {
       "added_at": "2026-09-24 17:00:41",
       "album": {
@@ -243,6 +279,22 @@
       "duration_ms": 170801,
       "name": "SURPRISE SURPRISE!",
       "url": "https://open.spotify.com/track/7jbV9eFuXrjWCTnNTaxtys"
+    },
+    {
+      "added_at": "2026-09-25 04:55:44",
+      "album": {
+        "name": "Till We\u2019re Old",
+        "url": "https://open.spotify.com/album/38w97o00eMVmhSNVkLy9DO"
+      },
+      "artists": [
+        {
+          "name": "D\u2019MASIV",
+          "url": "https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB"
+        }
+      ],
+      "duration_ms": 230128,
+      "name": "Till We\u2019re Old",
+      "url": "https://open.spotify.com/track/4FTrJDneNNI6VCaDq7UJyL"
     },
     {
       "added_at": "2026-09-24 17:00:41",
@@ -508,8 +560,8 @@
           "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 154687,
+      "name": "Headstart",
       "url": "https://open.spotify.com/track/6PYYwVUxm2F8eFoChZfWkD"
     },
     {
@@ -561,6 +613,22 @@
       "url": "https://open.spotify.com/track/6YbbP3KeuaWkp1rfeTc5sp"
     },
     {
+      "added_at": "2026-09-25 09:09:07",
+      "album": {
+        "name": "#DUAPINTU",
+        "url": "https://open.spotify.com/album/3mzvjSnLG3DlHDNyCjlYl6"
+      },
+      "artists": [
+        {
+          "name": "Ramengvrl",
+          "url": "https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "#DUAPINTU",
+      "url": "https://open.spotify.com/track/15WRC4iyDsHiilNNVc2PKC"
+    },
+    {
       "added_at": "2026-09-24 17:00:41",
       "album": {
         "name": "sadge",
@@ -579,6 +647,26 @@
       "duration_ms": 143478,
       "name": "sadge",
       "url": "https://open.spotify.com/track/3GwzPtHpFMFT1fXVT5Qi1K"
+    },
+    {
+      "added_at": "2026-09-25 09:09:07",
+      "album": {
+        "name": "Kiai Jarkoni",
+        "url": "https://open.spotify.com/album/5hKDbyLssTbqUrIkSCymAb"
+      },
+      "artists": [
+        {
+          "name": "KAJAWI",
+          "url": "https://open.spotify.com/artist/4JLFY6fICG1BFaw8Jc5KzR"
+        },
+        {
+          "name": "GNTZ",
+          "url": "https://open.spotify.com/artist/7ow2mDnXr2XxvVzbpSX5mj"
+        }
+      ],
+      "duration_ms": 202831,
+      "name": "Kiai Jarkoni",
+      "url": "https://open.spotify.com/track/2OVC1hU8BHeWku9JvJ5L3q"
     },
     {
       "added_at": "2026-09-24 17:00:41",
@@ -1149,6 +1237,26 @@
       "url": "https://open.spotify.com/track/6yiFgrTqVSCdPI8ylhZmKW"
     },
     {
+      "added_at": "2026-09-25 09:09:07",
+      "album": {
+        "name": "Jangan Ganggu Hari Ini",
+        "url": "https://open.spotify.com/album/6Zcb3ukRovMVBcJhQSBJWR"
+      },
+      "artists": [
+        {
+          "name": "ttturbo",
+          "url": "https://open.spotify.com/artist/1bIDaru9s7vnfkubeG1VyG"
+        },
+        {
+          "name": "Turbokidz",
+          "url": "https://open.spotify.com/artist/0X2LJsREqS5E4iFZTStLum"
+        }
+      ],
+      "duration_ms": 167560,
+      "name": "Jangan Ganggu Hari Ini",
+      "url": "https://open.spotify.com/track/0AnDXfhoW8bClRccIJ5fe6"
+    },
+    {
       "added_at": "2026-09-24 17:00:41",
       "album": {
         "name": "Tempat Singgah",
@@ -1165,6 +1273,42 @@
       "url": "https://open.spotify.com/track/4OjdznpfyGRvOUF2ndww17"
     },
     {
+      "added_at": "2026-09-25 09:09:07",
+      "album": {
+        "name": "Together",
+        "url": "https://open.spotify.com/album/44Eg3AUua6nADvjt2MLQ0o"
+      },
+      "artists": [
+        {
+          "name": "thaniw",
+          "url": "https://open.spotify.com/artist/3BzYBBe9UI2A7bs2x58H1i"
+        },
+        {
+          "name": "Ave",
+          "url": "https://open.spotify.com/artist/0kZdHdMdgWhx5B0rhtm11A"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/1e4OubvK3FDQ81qlQOybKw"
+    },
+    {
+      "added_at": "2026-09-25 09:09:07",
+      "album": {
+        "name": "Masirah",
+        "url": "https://open.spotify.com/album/66jzKYbIq6P3gqKTPg58MO"
+      },
+      "artists": [
+        {
+          "name": "Heyds",
+          "url": "https://open.spotify.com/artist/1rdnsktfa10kfZWZVOzJxq"
+        }
+      ],
+      "duration_ms": 228432,
+      "name": "Iftitah",
+      "url": "https://open.spotify.com/track/0vISPSUlM9pVOkYPgUZE8T"
+    },
+    {
       "added_at": "2026-09-24 17:00:41",
       "album": {
         "name": "Human Nature",
@@ -1176,8 +1320,8 @@
           "url": "https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 186280,
+      "name": "Tree Secret",
       "url": "https://open.spotify.com/track/3FNW6aDQzQlAnnOEa7EM4R"
     },
     {
@@ -1256,8 +1400,8 @@
           "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 7",
+      "duration_ms": 215129,
+      "name": "Strange",
       "url": "https://open.spotify.com/track/7uLDLTZ4w11g5kdZDGwu2Y"
     },
     {

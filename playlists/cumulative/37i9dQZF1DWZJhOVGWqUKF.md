@@ -4,7 +4,7 @@
 
 > Sechs Saiten für ein Halleluja\. Cover: PLUME
 
-1,113 songs - 2 day 15 hr 25 min
+1,113 songs - 2 day 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -369,6 +369,7 @@
 | [Forever/Always](https://open.spotify.com/track/1MoRo6wa0WcfjlOcutsnui) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [Forever/Always](https://open.spotify.com/album/1mNFIIEOv5zRkhlBfSYqSt) | 3:42 | 2026-04-23 | 2026-06-19 |
 | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/track/7tWObLDZvkXipaTs2g5lVG) | [Shoreline](https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0), [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm), [Joe Taylor](https://open.spotify.com/artist/6CkD3DpO2MXNoTciSNL5Cj) | [Forgive \(feat\. Joe Taylor\)](https://open.spotify.com/album/6irLE2wNOu7jpzi4LTiHRT) | 3:13 | 2025-02-06 | 2025-02-21 |
 | [Fractured](https://open.spotify.com/track/5vVmVvGSIJrNKw7qHtJR3V) | [Our Mirage](https://open.spotify.com/artist/1QpYiCxy3p5Wz7HtomBqHU) | [Fractured](https://open.spotify.com/album/6mHHYaYqTlGamBa4xrGxOH) | 3:23 | 2024-12-05 | 2025-01-14 |
+| [Frankincense](https://open.spotify.com/track/2C9gknb8kZdHcZEsXArBKc) | [PLUME](https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv) | [Saferooms & Healing Frequencies](https://open.spotify.com/album/5LYr5Wq25XYCCQphnlgFgG) | 3:45 | 2026-09-24 |  |
 | [Freakin’ Out](https://open.spotify.com/track/2SaWT781xr3hHLdbVt5DB7) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Freakin’ Out](https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf) | 3:37 | 2026-04-16 |  |
 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 | 2026-02-26 | 2026-09-24 |
 | [FREE TO DIE](https://open.spotify.com/track/5QlaYAjyS0zuoA9zGk4c3R) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [RAT WARS ULTRA EDITION](https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS) | 3:41 | 2024-10-17 | 2025-01-17 |
@@ -1015,7 +1016,6 @@
 | [too far gone](https://open.spotify.com/track/6hkp7TNulqDK5BruldgB6j) | [rosecoloredworld](https://open.spotify.com/artist/463Zbm3YPy7aKLqX1LBycF) | [too far gone](https://open.spotify.com/album/08mjFRr5oPWwWrlf4QR8Ro) | 3:04 | 2026-01-09 | 2026-01-16 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-06-27 | 2025-12-05 |
 | [Total Annihilation](https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3) | [Kadavar](https://open.spotify.com/artist/0FfuujZJUa7Z2JzhhiPI2z) | [Total Annihilation](https://open.spotify.com/album/5yM0f4ArMFsiRXZC11hHGX) | 6:50 | 2025-09-25 | 2025-10-03 |
-| [Track 4](https://open.spotify.com/track/2C9gknb8kZdHcZEsXArBKc) | [PLUME](https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv) | [Saferooms & Healing Frequencies](https://open.spotify.com/album/5LYr5Wq25XYCCQphnlgFgG) | 0:00 | 2026-09-24 |  |
 | [Trance](https://open.spotify.com/track/0brIn3pRJwzTriu6lU82Ld) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Trance](https://open.spotify.com/album/6NR8dovDk3ZlXCvcJjX1Y8) | 3:07 | 2024-12-19 | 2025-02-07 |
 | [Transcendental Dreaming](https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ) | [Liotta Seoul](https://open.spotify.com/artist/5TVvYXtmzb3yeMZIiQdTQi) | [Transcendental Dreaming](https://open.spotify.com/album/77Hq632gLr2zvXDKSLhVbG) | 2:16 | 2024-08-01 | 2024-08-09 |
 | [Treat Yourself](https://open.spotify.com/track/1T9xUXnYocqM7QsoYxnNiC) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Treat Yourself](https://open.spotify.com/album/4MgUkVqJ6ucvFT8hj6zeri) | 3:38 | 2025-11-06 | 2025-12-12 |

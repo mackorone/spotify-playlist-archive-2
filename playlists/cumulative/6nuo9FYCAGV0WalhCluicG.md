@@ -4,7 +4,7 @@
 
 > The hottest UK rap, drill, grime and hip\-hop right now\. British rap, drill rap and freestyle rap, with british grime, british bangers and bangers only from Nemzzz, EsDeeKid, KidWild and more\. Cover: Nemzzz\.  Today's hit: Gass \- Travis Scott x Nemzzz
 
-207 songs - 9 hr 20 min
+208 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [LEFT OUT \(feat\. M Huncho\)](https://open.spotify.com/track/6h9lDWwnNEZgKUZxPjSohA) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r) | [IT'S NOT YOU IT'S ME](https://open.spotify.com/album/7yOrgeOtDX3XjPEzemjucQ) | 2:31 | 2026-03-13 |  |
 | [Let's Talk \(feat\. Jme\)](https://open.spotify.com/track/2w2FGqT7etJegkoesEzKsT) | [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Lets Talk \(feat\. Jme\)](https://open.spotify.com/album/4Y452bZyorfxW7bCIJJaIr) | 3:18 | 2025-10-03 | 2026-09-05 |
 | [Light It Up](https://open.spotify.com/track/43mrbXwYPHFmj4Eg0PTDhA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Light It Up](https://open.spotify.com/album/1WHMFghZk8mX5gv8QyV4xo) | 3:15 | 2026-07-31 | 2026-08-08 |
+| [Locked In](https://open.spotify.com/track/4pd03lrCHEsQmWuRKQ8qqg) | [deed0t](https://open.spotify.com/artist/6FKQHCg6j9fZ76nB91B80N) | [Locked In](https://open.spotify.com/album/507JZzXH83nKoZ5cWDPAu4) | 3:03 | 2026-09-25 |  |
 | [LOCKED IN FREESTYLE](https://open.spotify.com/track/6eEOnuRoGAcjG2ifHR6BXk) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [LOCKED IN FREESTYLE](https://open.spotify.com/album/15adnfLuRIbtT9Usdd44EN) | 1:40 | 2026-05-28 | 2026-08-13 |
 | [Low Vibrations](https://open.spotify.com/track/5I1t1h0LSvjJuGZUqC3Dwp) | [Krept & Konan](https://open.spotify.com/artist/31lnFZEM6ysvjOx59VyxRE) | [Low Vibrations](https://open.spotify.com/album/5huwFVBaEZQ2ntWjCDzIMk) | 2:56 | 2025-10-03 |  |
 | [luther \(with sza\)](https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 2:57 | 2025-10-03 | 2026-03-14 |
@@ -173,7 +174,7 @@
 | [Remontada \(feat\. Blanco\)](https://open.spotify.com/track/362tD7hUEZ06izuWdVlRnP) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Remontada \(feat\. Blanco\)](https://open.spotify.com/album/1OTdy9AJVXEerYPUTDCmRd) | 2:41 | 2025-10-03 |  |
 | [Rio Riddim \(feat\. Antconstantino\)](https://open.spotify.com/track/1fKfcnhrrrG2xjfBpnzRrH) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Capo Lee](https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh), [ANTCONSTANTINO](https://open.spotify.com/artist/0ncGcxcuCgFZ9vIMEMYQ30) | [Rio Riddim \(feat\. Antconstantino\)](https://open.spotify.com/album/636b4xq0N5aumIffhRLyXi) | 2:44 | 2025-10-03 |  |
 | [Roads](https://open.spotify.com/track/1sV7f1wmZuA1IleDu8ZqIe) | [Scorcher](https://open.spotify.com/artist/2BYHpYwXO4zi36Tf3pEH5n), [Kasst 8](https://open.spotify.com/artist/1K0CrrXj2Zogdgsyc5GfLs) | [Roads \(Remix\)](https://open.spotify.com/album/2muXYLqRjUsFuuS3o95vrN) | 2:22 | 2026-06-26 | 2026-07-04 |
-| [Rock Bottom](https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Rock Bottom](https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN) | 1:40 | 2025-10-03 |  |
+| [Rock Bottom](https://open.spotify.com/track/6zJi62orFGAdxyqiYIt2L7) | [Kidwild](https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9) | [Rock Bottom](https://open.spotify.com/album/3zMteQdj1SgctkfEoFKPKN) | 1:40 | 2025-10-03 | 2026-09-26 |
 | [RockWave](https://open.spotify.com/track/7umWv57SsTnh1P4FFTa8bg) | [EsDeeKid](https://open.spotify.com/artist/0EyhkwP3UnwGFBy6xwKjSy) | [RockWave](https://open.spotify.com/album/5Rti1VEHljEEGaVwlSHM3j) | 2:14 | 2026-06-26 |  |
 | [Rule One \(feat\. Bawo\)](https://open.spotify.com/track/7aZVYYzoE7Xlbz52mLTaQ6) | [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y), [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Rule One \(feat\. Bawo\)](https://open.spotify.com/album/1Qa6brrvZuzRTDszdsEZKz) | 2:54 | 2025-10-03 |  |
 | [Runnin](https://open.spotify.com/track/5b4szVlHAoR5BURFGXTmT0) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Runnin](https://open.spotify.com/album/1JONmXIlIqJ8fVERyDTFVX) | 2:47 | 2026-03-13 | 2026-08-22 |

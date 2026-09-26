@@ -5442,7 +5442,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 318186,
       "name": "Let's Face The Music And Dance",
       "url": "https://open.spotify.com/track/0h3dxP1Akmx0CKzoJTHbBa"
@@ -7104,6 +7104,24 @@
       "duration_ms": 195453,
       "name": "Once Upon a Time Today",
       "url": "https://open.spotify.com/track/5wAvxhoU2F0675zispvzIo"
+    },
+    {
+      "album": {
+        "name": "An Evening's Echoes",
+        "url": "https://open.spotify.com/album/2ofZAF5IDvLaJR7SD8CpPo"
+      },
+      "artists": [
+        {
+          "name": "The White Star Line Quintet",
+          "url": "https://open.spotify.com/artist/7J22xCSmmFiQcyP8vVTnQ9"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136527,
+      "name": "One O'clock in the Morning I Get Lonesome",
+      "url": "https://open.spotify.com/track/0BSDgPzdUoqnKyo6BGuJBe"
     },
     {
       "album": {

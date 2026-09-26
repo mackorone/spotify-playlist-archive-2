@@ -4,7 +4,7 @@
 
 > Christian Hits Now \| Best Christian songs of 2026\. NEW CHRISTIAN MUSIC! New Music Friday! Cover: <a href="https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4?si=k\_0tRBc\-QKaaJDlZqV9KHg">Jamie MacDonald</a> Fifa World cup 2026  , soaking worship , jelly roll worship  dolly parton rip dolly parton
 
-232 songs - 15 hr 10 min
+234 songs - 15 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [How Great](https://open.spotify.com/track/6ynVRbeD7wTttPB4SddawG) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [Breathe On It](https://open.spotify.com/album/6MVFE0ur2YQDrG6Hdo5V0w) | 3:26 | 2026-05-01 |  |
 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 | 2025-01-31 |  |
 | [I Love Jesus](https://open.spotify.com/track/2dppBpYsyfUJUNbTDoxq1a) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa) | [I Love Jesus](https://open.spotify.com/album/596PxhjTOrMpb9O9bAZn45) | 2:41 | 2024-07-26 |  |
+| [I Love The One](https://open.spotify.com/track/0aRAeMs2hCrXTxdMUy2gZG) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [I Love The One](https://open.spotify.com/album/0XEuSDs7zSUfvlf5AvpAbv) | 3:57 | 2026-09-25 |  |
 | [I Still Choose You](https://open.spotify.com/track/6jeIRXvir9UGLDpz1cmpbq) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [I Still Choose You](https://open.spotify.com/album/54W2okGfjHrV9WRA9HDye5) | 4:28 | 2026-01-16 |  |
 | [i still have you](https://open.spotify.com/track/1WrQq6Pnr7QGmXdd51EYu6) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [trustfall](https://open.spotify.com/album/6HGmAgrZHojZ3Urz9OTEyi) | 3:17 | 2025-04-25 | 2026-04-09 |
 | [I Surrender All](https://open.spotify.com/track/278oT0aaxxijjC6N37EOYH) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [I Surrender All](https://open.spotify.com/album/1qeZcSNuLbBjW3shvZ5scs) | 2:18 | 2025-01-31 | 2026-03-17 |
@@ -217,6 +218,7 @@
 | [Too Good](https://open.spotify.com/track/0q73rWQ84M1CszFeWxCGIv) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Too Good](https://open.spotify.com/album/4CdYApuFfFvZoVoIfY3IWH) | 3:55 | 2026-03-16 |  |
 | [Undefeated Champion](https://open.spotify.com/track/3d6JhJTdChB712JqdDV8yK) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk), [Graceson Todd](https://open.spotify.com/artist/1BPZ1Aq5dTqS54A2fXshx0) | [Undefeated Champion](https://open.spotify.com/album/2ie7TxOMcgBVu6v0OhzhD3) | 4:45 | 2025-01-31 | 2025-09-20 |
 | [Up To Something \- Live](https://open.spotify.com/track/6pnb65z7OWEpKtm9kRnRk6) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Rudy Villarreal](https://open.spotify.com/artist/7Jm4MrGvgZh86tUe0GrEB2), [Skylar Dayne](https://open.spotify.com/artist/6g747a2Ku43i2nlRfV2Tkg) | [Up To Something \(Live\)](https://open.spotify.com/album/0jJkeMIcLYiqMWKstNEXMg) | 7:40 | 2025-01-31 | 2026-03-17 |
+| [Used To Be](https://open.spotify.com/track/4wj4ogBPevGweczZNtHoZ2) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4) | [Used To Be](https://open.spotify.com/album/3RYKpZIW82JbMpULEdcxHG) | 3:01 | 2026-09-25 |  |
 | [wannabe](https://open.spotify.com/track/4D7RnTd7BfhdI81RodpDC6) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [wannabe](https://open.spotify.com/album/16oGWzZ8ggmwxUmlFrfc4e) | 3:19 | 2025-01-31 | 2026-03-17 |
 | [Watch Your Mouth](https://open.spotify.com/track/1AbSedPxXMKs3mALPjiNfM) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2) | [Mt\. Zion](https://open.spotify.com/album/0AF1OmlS1oYlymcUNCmmKd) | 3:42 | 2025-08-22 |  |
 | [Watchmen](https://open.spotify.com/track/48CJkDa7zpAX65uIWXyuHZ) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj), [The New Respects](https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9) | [EAT](https://open.spotify.com/album/0USg7yhc0M9kTNDlzcMU7K) | 2:47 | 2026-05-15 |  |

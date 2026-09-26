@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 182346,
       "name": "A Contracorriente",
       "url": "https://open.spotify.com/track/2MgIaPj0sYk1XS4CjXxgAz"
@@ -6594,6 +6594,36 @@
       "duration_ms": 190812,
       "name": "Hemos tenido suerte",
       "url": "https://open.spotify.com/track/5x9FFKapZETDVBsZC5wnkv"
+    },
+    {
+      "album": {
+        "name": "Hey chaval",
+        "url": "https://open.spotify.com/album/561d8Vu5jtwni9WH0Tn58h"
+      },
+      "artists": [
+        {
+          "name": "Chiquita Movida",
+          "url": "https://open.spotify.com/artist/7chkUZGYVGXjl19G8Di1Rr"
+        },
+        {
+          "name": "Rayden",
+          "url": "https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa"
+        },
+        {
+          "name": "Mediyama",
+          "url": "https://open.spotify.com/artist/4AvBrqytoNTLyrxvmmTR6o"
+        },
+        {
+          "name": "Skiz7",
+          "url": "https://open.spotify.com/artist/2v7G5QXX2BqCnHRil1IVKZ"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263924,
+      "name": "Hey chaval",
+      "url": "https://open.spotify.com/track/0egCH56ZdxPxAwSdIkPk8s"
     },
     {
       "album": {

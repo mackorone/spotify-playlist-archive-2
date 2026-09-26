@@ -1,13 +1,45 @@
 {
-  "description": "Explore all things indie rock right now. Featuring music from Winyah",
-  "num_followers": 803472,
+  "description": "Explore all things indie rock right now. Featuring music from Blondshell",
+  "num_followers": 803451,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACkWuNkYFPjcIo++spD4YXT4s90s",
+  "snapshot_id": "AAAAAMTYR691aY1i2NU4lcbK07EXknig",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:02:35",
+      "album": {
+        "name": "Violins",
+        "url": "https://open.spotify.com/album/6ahtjSXlZpJsOxSOucSuRg"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Stone Fruit",
+      "url": "https://open.spotify.com/track/0GuYLoC2G9eXMGwwXH8xt1"
+    },
+    {
+      "added_at": "2026-09-25 04:02:35",
+      "album": {
+        "name": "Primetime (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/7ovDEJjPRNRow5sf7NXkvX"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 211774,
+      "name": "On Video",
+      "url": "https://open.spotify.com/track/1QA6xgUEZ1BqOj2xuroM3N"
+    },
     {
       "added_at": "2026-09-18 17:14:25",
       "album": {
@@ -57,6 +89,134 @@
       "url": "https://open.spotify.com/track/4llSkj7K4ekT5wzcLKd4C5"
     },
     {
+      "added_at": "2026-09-25 04:02:35",
+      "album": {
+        "name": "If I Had The Hand Of God",
+        "url": "https://open.spotify.com/album/035OfrrI7lrwbLCSR9lT6b"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 161816,
+      "name": "If I Had The Hand Of God",
+      "url": "https://open.spotify.com/track/0XWmRFOE1No3BrWa4f5EgO"
+    },
+    {
+      "added_at": "2026-09-25 04:02:35",
+      "album": {
+        "name": "San Francisco, 2005",
+        "url": "https://open.spotify.com/album/4xgaE609AqfGfez8IXiyiy"
+      },
+      "artists": [
+        {
+          "name": "Renny Conti",
+          "url": "https://open.spotify.com/artist/27C5xkyXM5kWgVqqdR9aqY"
+        }
+      ],
+      "duration_ms": 247364,
+      "name": "San Francisco, 2005",
+      "url": "https://open.spotify.com/track/5Ev1zhaO6hi5eCLGYE0WKT"
+    },
+    {
+      "added_at": "2026-09-25 04:02:35",
+      "album": {
+        "name": "Knots",
+        "url": "https://open.spotify.com/album/0yWiOlhHvZK3Hlwufafknq"
+      },
+      "artists": [
+        {
+          "name": "Dogs on Shady Lane",
+          "url": "https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO"
+        }
+      ],
+      "duration_ms": 217738,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/5nuQm6FfSRHl5AFXAG63G0"
+    },
+    {
+      "added_at": "2026-09-18 17:14:25",
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 194103,
+      "name": "Write Me A Letter",
+      "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
+    },
+    {
+      "added_at": "2026-09-25 04:02:35",
+      "album": {
+        "name": "How Can I Explain What She Does To Me?",
+        "url": "https://open.spotify.com/album/5HWTxt3Yr5Pn8kCQqKOKOC"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "duration_ms": 190371,
+      "name": "How Can I Explain What She Does To Me?",
+      "url": "https://open.spotify.com/track/2rO9UrvTUHIswSZzzG4hLi"
+    },
+    {
+      "added_at": "2026-09-25 04:02:35",
+      "album": {
+        "name": "Umbrella",
+        "url": "https://open.spotify.com/album/7czxyUfML5Ma88C0Wjgvkq"
+      },
+      "artists": [
+        {
+          "name": "Starcleaner Reunion",
+          "url": "https://open.spotify.com/artist/0aE0jIMsKSVBasU5D0e5zM"
+        }
+      ],
+      "duration_ms": 175169,
+      "name": "Tea Drops Park",
+      "url": "https://open.spotify.com/track/63hXNvKU1hZkar83TSuEIl"
+    },
+    {
+      "added_at": "2026-09-25 04:02:35",
+      "album": {
+        "name": "Miss Leave Me Alone",
+        "url": "https://open.spotify.com/album/2icCeNHl0hdfxLnU9aSpJv"
+      },
+      "artists": [
+        {
+          "name": "Odie Leigh",
+          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
+        }
+      ],
+      "duration_ms": 119940,
+      "name": "Miss Leave Me Alone",
+      "url": "https://open.spotify.com/track/33laT1elh9MYq3mUjGJv4l"
+    },
+    {
+      "added_at": "2026-09-18 17:14:25",
+      "album": {
+        "name": "Wave Has a Place",
+        "url": "https://open.spotify.com/album/2zTrF75HZXccghZCO2V2pW"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 129840,
+      "name": "Wave Has a Place",
+      "url": "https://open.spotify.com/track/6zu2CSLcjJ15uumyXddXTg"
+    },
+    {
       "added_at": "2026-09-18 17:14:25",
       "album": {
         "name": "Right Here, Right Now",
@@ -71,6 +231,54 @@
       "duration_ms": 204235,
       "name": "I Am Of Course",
       "url": "https://open.spotify.com/track/653sip0zLVKhfUgnc2BAYL"
+    },
+    {
+      "added_at": "2026-09-25 04:02:35",
+      "album": {
+        "name": "Ode to Hum (I want it to rise)",
+        "url": "https://open.spotify.com/album/7lMQjGi2k4FnwIFLV7OjG8"
+      },
+      "artists": [
+        {
+          "name": "Superfan",
+          "url": "https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM"
+        }
+      ],
+      "duration_ms": 197408,
+      "name": "Ode to Hum (I want it to rise)",
+      "url": "https://open.spotify.com/track/7hpt8CHVqWOXXMDYsvdiSL"
+    },
+    {
+      "added_at": "2026-09-25 04:02:35",
+      "album": {
+        "name": "bitknot",
+        "url": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ"
+      },
+      "artists": [
+        {
+          "name": "feeble little horse",
+          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
+        }
+      ],
+      "duration_ms": 137463,
+      "name": "Rewind",
+      "url": "https://open.spotify.com/track/5dO7SoTU75M2UVVmPKx1kv"
+    },
+    {
+      "added_at": "2026-07-17 04:01:14",
+      "album": {
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
     },
     {
       "added_at": "2026-09-10 23:16:41",
@@ -91,54 +299,6 @@
     {
       "added_at": "2026-09-18 17:14:25",
       "album": {
-        "name": "Pylon",
-        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 194103,
-      "name": "Write Me A Letter",
-      "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Lost Boys",
-        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 254614,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
-    },
-    {
-      "added_at": "2026-08-28 04:02:42",
-      "album": {
-        "name": "The Hardest Thing",
-        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 201992,
-      "name": "The Hardest Thing",
-      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
-    },
-    {
-      "added_at": "2026-09-18 17:14:25",
-      "album": {
         "name": "June 2 (Early Version)",
         "url": "https://open.spotify.com/album/4jRlOp8Q5JPE3RPVrDDu1K"
       },
@@ -151,22 +311,6 @@
       "duration_ms": 212720,
       "name": "June 2 - Early Version",
       "url": "https://open.spotify.com/track/371NJco2wnSGa4sQu4mRrF"
-    },
-    {
-      "added_at": "2026-09-18 17:14:25",
-      "album": {
-        "name": "Wave Has a Place",
-        "url": "https://open.spotify.com/album/2zTrF75HZXccghZCO2V2pW"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 129840,
-      "name": "Wave Has a Place",
-      "url": "https://open.spotify.com/track/6zu2CSLcjJ15uumyXddXTg"
     },
     {
       "added_at": "2026-08-21 04:00:32",
@@ -719,22 +863,6 @@
     {
       "added_at": "2026-07-17 04:01:14",
       "album": {
-        "name": "Violins",
-        "url": "https://open.spotify.com/album/2dkOtTHYlj2DzIgLaf6FGy"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 250386,
-      "name": "Violins",
-      "url": "https://open.spotify.com/track/2xgOrdZIgcckxGam4dZNVA"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
         "name": "Bonny",
         "url": "https://open.spotify.com/album/2KsCvxIGlrfeqj6OfCZ9QF"
       },
@@ -939,22 +1067,6 @@
       "duration_ms": 192439,
       "name": "skinny dip",
       "url": "https://open.spotify.com/track/3GR1J0gHGBN4jX2auDDE2j"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Heart Has To Work So Hard",
-        "url": "https://open.spotify.com/album/1nIWbgwX2lwqgoUDimt1oh"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 192026,
-      "name": "Heart Has To Work So Hard",
-      "url": "https://open.spotify.com/track/4wwOje67xW4mPCf8JvmWYK"
     },
     {
       "added_at": "2026-07-17 04:01:14",
@@ -2339,254 +2451,6 @@
       "duration_ms": 166897,
       "name": "In Twos",
       "url": "https://open.spotify.com/track/4RlKJvvNZGrzZtupp8C2ap"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Another Picture",
-        "url": "https://open.spotify.com/album/2UizRzM5APPgxDAZN6LzXp"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Berlin TV Tower",
-      "url": "https://open.spotify.com/track/3DeVp7bfY7ua7eY95xgREC"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Love Will Kill Me",
-        "url": "https://open.spotify.com/album/1hRgrg6gwZmLV9DkSaxtdx"
-      },
-      "artists": [
-        {
-          "name": "Hetta Falzon",
-          "url": "https://open.spotify.com/artist/3xBbk46U69gH13s4Mxw2SH"
-        }
-      ],
-      "duration_ms": 198386,
-      "name": "Love Will Kill Me",
-      "url": "https://open.spotify.com/track/2VyGB5B0Y0YLbrBtGZIOLK"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Can\u2019t See",
-        "url": "https://open.spotify.com/album/2VEr2TJU9aVYo177TLrpbI"
-      },
-      "artists": [
-        {
-          "name": "Westside Cowboy",
-          "url": "https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2"
-        }
-      ],
-      "duration_ms": 146127,
-      "name": "Can't See",
-      "url": "https://open.spotify.com/track/694JhCHMO54W2X99Zc3tVU"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "The News",
-        "url": "https://open.spotify.com/album/7oRiVvp56YY3YrWn1gWFOp"
-      },
-      "artists": [
-        {
-          "name": "Drugdealer",
-          "url": "https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ"
-        }
-      ],
-      "duration_ms": 225615,
-      "name": "The News",
-      "url": "https://open.spotify.com/track/7DBf7vpgcSNBw6dL3IIuHD"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "(((((ultraSOUND)))))",
-        "url": "https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 244973,
-      "name": "Hula Girl",
-      "url": "https://open.spotify.com/track/2Q12wBicdnoLI6F343qcHk"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "marry me to dopamine",
-        "url": "https://open.spotify.com/album/3edgl05FYrAR6yUoizyfA7"
-      },
-      "artists": [
-        {
-          "name": "Kilu",
-          "url": "https://open.spotify.com/artist/795iruo8TSJsZPVAps6Iow"
-        }
-      ],
-      "duration_ms": 213083,
-      "name": "marry me to dopamine",
-      "url": "https://open.spotify.com/track/7Liv3NGQpyAJxxOfGgCiCr"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Chasing The Chimera",
-        "url": "https://open.spotify.com/album/0H4QxLnUPk1GlEkUtLuTww"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 231499,
-      "name": "Small Town Joan of Arc",
-      "url": "https://open.spotify.com/track/3xffKXnwzuAsio7sJgYECf"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Ripe Fruit Rots and Falls",
-        "url": "https://open.spotify.com/album/1gQAGyUvCMcV6iVDLYO2KW"
-      },
-      "artists": [
-        {
-          "name": "chokecherry",
-          "url": "https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Porcelain Warrior",
-      "url": "https://open.spotify.com/track/2XZNlO9iD9Nta0fqrb6N35"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Feed Me To The Wolves",
-        "url": "https://open.spotify.com/album/6m4rHFeRowKPikRts4bbUt"
-      },
-      "artists": [
-        {
-          "name": "Arts Fishing Club",
-          "url": "https://open.spotify.com/artist/6DUKY45lfzxJLOfU0v9C0j"
-        }
-      ],
-      "duration_ms": 219451,
-      "name": "Feed Me To The Wolves",
-      "url": "https://open.spotify.com/track/5akxkqaENlODd0KtnFvcRA"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/5TUQWlLCMdK4qGBCtNt3iq"
-      },
-      "artists": [
-        {
-          "name": "The Belair Lip Bombs",
-          "url": "https://open.spotify.com/artist/6viWvP8YChO4DcOi1BpNvT"
-        }
-      ],
-      "duration_ms": 157027,
-      "name": "Another World",
-      "url": "https://open.spotify.com/track/3TEzZdT1s8kipEpRqo98Y7"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Getting Killed",
-        "url": "https://open.spotify.com/album/0eeXb23yMW6EaIgm63xxPC"
-      },
-      "artists": [
-        {
-          "name": "Geese",
-          "url": "https://open.spotify.com/artist/0WCo84qtCKfbyIf1lqQWB4"
-        }
-      ],
-      "duration_ms": 210945,
-      "name": "Au Pays du Cocaine",
-      "url": "https://open.spotify.com/track/1g9GiiPPaL7KcDHlDzu7lT"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Snocaps",
-        "url": "https://open.spotify.com/album/1fevi1JMVt1PVIMh5Z80ad"
-      },
-      "artists": [
-        {
-          "name": "Snocaps",
-          "url": "https://open.spotify.com/artist/6kYyxNv4xNafn6AMAt6qTE"
-        },
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        },
-        {
-          "name": "Allison Crutchfield",
-          "url": "https://open.spotify.com/artist/1zIiCQLbCV0la5eLdT0FIj"
-        }
-      ],
-      "duration_ms": 143415,
-      "name": "Coast",
-      "url": "https://open.spotify.com/track/51qSkFx8D2dyWERxGQ44My"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Welcome to My Blue Sky (Deluxe)",
-        "url": "https://open.spotify.com/album/3otUXa8fv7v1bbi3ndLeW5"
-      },
-      "artists": [
-        {
-          "name": "Momma",
-          "url": "https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e"
-        }
-      ],
-      "duration_ms": 226910,
-      "name": "Not Sacred",
-      "url": "https://open.spotify.com/track/1XVxwUCxMLUztlz8JMy7q8"
-    },
-    {
-      "added_at": "2026-07-17 04:01:14",
-      "album": {
-        "name": "Phoebe's Song",
-        "url": "https://open.spotify.com/album/40wmLOiUiOIz1lRqKqC4KV"
-      },
-      "artists": [
-        {
-          "name": "Yumi Zouma",
-          "url": "https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "Phoebe's Song",
-      "url": "https://open.spotify.com/track/2TYVG6dKbHGb2nA3H7Mlqa"
     }
   ],
   "unique_name": "Today's Indie Rock",

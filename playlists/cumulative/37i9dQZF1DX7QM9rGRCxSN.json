@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Dame fuerza",
+        "url": "https://open.spotify.com/album/06Uff0c3YKDE4FcksJsiHT"
+      },
+      "artists": [
+        {
+          "name": "Distimia Agoraf\u00f3bica",
+          "url": "https://open.spotify.com/artist/7tISC8BW7wEIbPpQVz4RmR"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272000,
+      "name": "Dame fuerza",
+      "url": "https://open.spotify.com/track/1K0vZvFvGdMmuTtk3lG695"
+    },
+    {
+      "album": {
         "name": "De Dios",
         "url": "https://open.spotify.com/album/4kj1lahnGLAxqnVvThCA6y"
       },
@@ -780,6 +798,24 @@
       "duration_ms": 183900,
       "name": "Diamante",
       "url": "https://open.spotify.com/track/7t12Ms2nC67lGND4UQTykH"
+    },
+    {
+      "album": {
+        "name": "Donde El Mar Retrocede",
+        "url": "https://open.spotify.com/album/3rO0Be3ICRW93VTAHwZhHT"
+      },
+      "artists": [
+        {
+          "name": "Noviembre",
+          "url": "https://open.spotify.com/artist/1TBXWZ5eZnsNUet0Qvd64H"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203730,
+      "name": "Distancia",
+      "url": "https://open.spotify.com/track/29vqSzrC0V0ijDgUXaTRvO"
     },
     {
       "album": {
@@ -938,7 +974,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 187874,
       "name": "El Camino de Morir Triste",
       "url": "https://open.spotify.com/track/4ogBUSzG4ZuxdAzFUmeV2L"
@@ -960,6 +996,24 @@
       "duration_ms": 234000,
       "name": "El Club Internacional de Astronautas Fracasados",
       "url": "https://open.spotify.com/track/2bsHVINiqIvuj0kIsP3yHT"
+    },
+    {
+      "album": {
+        "name": "A La Distancia",
+        "url": "https://open.spotify.com/album/5xf0B7TnQzHjWqc6NJdZDM"
+      },
+      "artists": [
+        {
+          "name": "Estoy Bien",
+          "url": "https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279656,
+      "name": "El Desorden",
+      "url": "https://open.spotify.com/track/2TEN1xvt9tJAykKqKR386P"
     },
     {
       "album": {
@@ -1172,7 +1226,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 350000,
       "name": "Estallar",
       "url": "https://open.spotify.com/track/76lfQ80UnsyvJDxRbKOs3w"
@@ -1208,7 +1262,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 185693,
       "name": "Est\u00e1 Nublado y Tengo Calor",
       "url": "https://open.spotify.com/track/788chCGIQr4PgMByHndKyH"
@@ -1280,7 +1334,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 180000,
       "name": "Fantasmas en Casa",
       "url": "https://open.spotify.com/track/43ghfQUS2whU1tTyyPL9H4"
@@ -1334,7 +1388,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 242823,
       "name": "fluya +",
       "url": "https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc"
@@ -2364,7 +2418,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 54360,
       "name": "M\u00edr\u00e1me",
       "url": "https://open.spotify.com/track/59vdxakMPGSDidajykh9sa"
@@ -2718,6 +2772,24 @@
       "duration_ms": 164007,
       "name": "pasan los d\u00edas",
       "url": "https://open.spotify.com/track/0gndtLhT5ExWIKmRJo6TUx"
+    },
+    {
+      "album": {
+        "name": "Desaparecerporcompleto",
+        "url": "https://open.spotify.com/album/1VThMS7X9zX2sJr2wxkcCd"
+      },
+      "artists": [
+        {
+          "name": "desaparecerporcompleto",
+          "url": "https://open.spotify.com/artist/5OXEpkLV7CnklJTWsxvJz1"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/3i7HxLekMXSV56XM3R6rH7"
     },
     {
       "album": {
@@ -3794,6 +3866,42 @@
       "duration_ms": 290742,
       "name": "Your Lips, My Mouth",
       "url": "https://open.spotify.com/track/28afz1iY04Elvc7YhHDYTt"
+    },
+    {
+      "album": {
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/3E1sVU9dy5EkojxZAivmyQ"
+      },
+      "artists": [
+        {
+          "name": "Allanamiento Emocional",
+          "url": "https://open.spotify.com/artist/7d6pOevWwMO1Oi46SxnQAz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244576,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/06hQBCCnTPdlDur3HGGgv9"
+    },
+    {
+      "album": {
+        "name": "Zurekin",
+        "url": "https://open.spotify.com/album/4vZIYAAtoBjnjFYUJ2KDfS"
+      },
+      "artists": [
+        {
+          "name": "99 Payasos",
+          "url": "https://open.spotify.com/artist/2WSHIN9bs2GkKpPCaRz23c"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Zurekin",
+      "url": "https://open.spotify.com/track/0qyN4TDY6PvsPsAiKCkZoj"
     },
     {
       "album": {

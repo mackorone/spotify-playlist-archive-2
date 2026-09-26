@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-725 songs - 1 day 17 hr 38 min
+726 songs - 1 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Drilla](https://open.spotify.com/track/4M3izHKmBQZkiYPkUy5OQH) | [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J), [En:vy](https://open.spotify.com/artist/00YRVhQFlwO1OhSyWyT9pU) | [Drilla / Sinister Life](https://open.spotify.com/album/5KW8yPeQe51ENeSpawb43V) | 3:48 | 2024-11-08 | 2024-11-22 |
 | [Drops \- Kanine Remix](https://open.spotify.com/track/1KyPT1Fno54CmoGYmwi0Ix) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Drops Remixes](https://open.spotify.com/album/7nomZmjtgRYZzRl5hjHW1Q) | 4:22 | 2022-09-30 | 2023-05-19 |
 | [Drops \- Kanine Remix](https://open.spotify.com/track/3okcBYUuR2VRbygL9kYb5k) | [Darkzy](https://open.spotify.com/artist/7Ecng98JLorpsVdazNr0Ry), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Drops Remixes](https://open.spotify.com/album/6WkDq5hrKzwxDY4fdgjFEq) | 4:22 | 2023-05-19 | 2024-02-23 |
-| [Dub Special](https://open.spotify.com/track/73O1bdufMUauCs8UxFkvO0) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2), [Mad Sam](https://open.spotify.com/artist/7k3N8YrwPhTTtY78ES8i1L) | [Dub Special](https://open.spotify.com/album/2VzQYNcZ3c2bq5r3GV7sah) | 3:24 | 2026-04-23 |  |
+| [Dub Special](https://open.spotify.com/track/73O1bdufMUauCs8UxFkvO0) | [Sustance](https://open.spotify.com/artist/3069G1J62ioGObj518Umm2), [Mad Sam](https://open.spotify.com/artist/7k3N8YrwPhTTtY78ES8i1L) | [Dub Special](https://open.spotify.com/album/2VzQYNcZ3c2bq5r3GV7sah) | 3:24 | 2026-04-23 | 2026-09-26 |
 | [Dubplate Fly](https://open.spotify.com/track/4KPdVC99HDlGMYaAYNdxCj) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [14ZERO](https://open.spotify.com/album/4XLlNsFlBUxqhiDezv7yKM) | 4:01 | 2026-02-13 |  |
 | [Dubplate SZN](https://open.spotify.com/track/13iArvlZXd2w96OczxAAk2) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz), [Diagnostix](https://open.spotify.com/artist/1KBqYPChHN4Bn4iZ9uRQu5), [Jman](https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm) | [Dubplate SZN](https://open.spotify.com/album/5PW6U5SVpVbay9DYdNdAE2) | 3:10 | 2024-10-18 | 2025-08-23 |
 | [Dustup \- Mefjus Remix](https://open.spotify.com/track/54K7hHMBnraimv993nTC5M) | [Noisia](https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY), [The Upbeats](https://open.spotify.com/artist/5fbq6W6HAncSYaFtlQi7fF), [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj) | [Dustup \(Mefjus Remix\)](https://open.spotify.com/album/4IUVYA2rhHZwP4XWzoGK8Y) | 5:44 | 2025-08-22 | 2026-01-23 |
@@ -549,6 +549,7 @@
 | [Saints](https://open.spotify.com/track/28QTqDLE9jeOHNiMRtkquc) | [ECHOSYSTEM](https://open.spotify.com/artist/4AjcqEPNEc1l4ak9Lnqstl), [Mak & Pasteman](https://open.spotify.com/artist/72D2yFt9Tjzt1ryReiggXG) | [Saints](https://open.spotify.com/album/5Dq54EcygmbUrMGbrRBK5N) | 2:55 | 2026-04-23 | 2026-09-20 |
 | [Satan's Alley](https://open.spotify.com/track/0hMFRwnaH2l3vAPfwp0m8h) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Satan's Alley](https://open.spotify.com/album/12GOuAO4h3wsOrHHOwCPFs) | 4:04 | 2025-10-09 | 2026-03-08 |
 | [Savage](https://open.spotify.com/track/04fBENQTDO2gM8NRVNRf4e) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Savage](https://open.spotify.com/album/6wTizwMekuDFKmDejb1z3S) | 3:24 | 2024-08-02 | 2025-05-09 |
+| [Say It](https://open.spotify.com/track/1zRH0crUVv0vR94K8AIJfy) | [Photek](https://open.spotify.com/artist/3hXDMlrPegHRO0zUvBsRSI) | [Say It](https://open.spotify.com/album/0cUfStmEVc5K1zuaU1bYIn) | 4:08 | 2026-09-17 |  |
 | [Say My Name](https://open.spotify.com/track/2kFEAt6h5leSlJlgmo71Dr) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Say My Name](https://open.spotify.com/album/6kkuauy1P7R77eJxQ3F2pD) | 2:39 | 2024-07-25 | 2025-05-09 |
 | [Scream My Name](https://open.spotify.com/track/2aXOl9fXqnWrmAFDwWVZl7) | [Georgie Riot](https://open.spotify.com/artist/658we9fIJkrorlUIcDzsHi), [Sophie\-Grace](https://open.spotify.com/artist/22WNm8HQaXcq3qYDowNUDt) | [Scream My Name](https://open.spotify.com/album/5b5cuJWiwPQa34LPNfQ187) | 3:26 | 2025-11-14 | 2026-05-06 |
 | [SECRETS](https://open.spotify.com/track/2MHfZtevUlcxFLbyhtT4Q3) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Cameron Hayes](https://open.spotify.com/artist/1YXcpHpeg9PwsUBJwe9fgX) | [FORWARDS](https://open.spotify.com/album/4jODo10Bdrr47NGz6PvGf4) | 4:13 | 2024-08-29 | 2025-05-09 |

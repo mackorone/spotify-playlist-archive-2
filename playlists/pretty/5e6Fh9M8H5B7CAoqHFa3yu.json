@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 356,
+  "num_followers": 355,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALXhKLLvhvPY4uv4AOsTnOYKrmD2uF",
+  "snapshot_id": "AAALYwCgb0XLFYW6JJj24fnvyfv1vmP/",
   "tracks": [
     {
       "added_at": "2026-09-20 13:23:29",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/1vfAlDF7GKLxcnI1RFxKOP"
     },
     {
-      "added_at": "2025-10-21 23:32:46",
-      "album": {
-        "name": "Drifting",
-        "url": "https://open.spotify.com/album/5Y28dauWThEhzg0yaQM4kE"
-      },
-      "artists": [
-        {
-          "name": "Rythmora",
-          "url": "https://open.spotify.com/artist/5P55Xh9Vn9Q4BkvQvKpQK9"
-        }
-      ],
-      "duration_ms": 128519,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/1QgNaCnFjV2iyrklG8e6LT"
-    },
-    {
       "added_at": "2025-10-17 04:07:11",
       "album": {
         "name": "Mountain Flower",
@@ -1591,22 +1575,6 @@
       "duration_ms": 203870,
       "name": "Eyestillwant2play",
       "url": "https://open.spotify.com/track/0OJAhtkkMm967yy3PdYJ3S"
-    },
-    {
-      "added_at": "2025-10-04 06:23:11",
-      "album": {
-        "name": "Past Midnight",
-        "url": "https://open.spotify.com/album/0kdF4ZQpjOR2GLw77jPduc"
-      },
-      "artists": [
-        {
-          "name": "Rafael Vidal Lykova",
-          "url": "https://open.spotify.com/artist/7jFo2dnzVJ2XpI3e9AcDWA"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Past Midnight",
-      "url": "https://open.spotify.com/track/1gKUMev30Y2sJGJbDNcitL"
     },
     {
       "added_at": "2025-10-07 12:06:30",
@@ -45090,15 +45058,67 @@
         {
           "name": "Jos\u00e9 Sechi",
           "url": "https://open.spotify.com/artist/39DFyqpdOgrYNQbTBCK3hi"
-        },
-        {
-          "name": "Meditherranea & Prova MI & 001 BEST & Jos\u00e9 Sechi",
-          "url": "https://open.spotify.com/artist/0fw3C1w2BWMmiZiayDQzo8"
         }
       ],
       "duration_ms": 192287,
       "name": "Costa Smeralda",
       "url": "https://open.spotify.com/track/0c8byZvTEM74mRBofEonZX"
+    },
+    {
+      "added_at": "2026-09-25 11:56:42",
+      "album": {
+        "name": "La giusta frequenza",
+        "url": "https://open.spotify.com/album/5vBt53WuOzmWyNlvAsP1Zt"
+      },
+      "artists": [
+        {
+          "name": "SAM D",
+          "url": "https://open.spotify.com/artist/3O8EvAOtzUfoQmzinpQOqr"
+        },
+        {
+          "name": "Numa Mc",
+          "url": "https://open.spotify.com/artist/5O1HeNhR5Itl8JfAgKvNOQ"
+        },
+        {
+          "name": "DnD Records",
+          "url": "https://open.spotify.com/artist/3hqVCWmGpzQVwolog0J7yE"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "La giusta frequenza",
+      "url": "https://open.spotify.com/track/31FMJnC6sdicyFgVzbcsqr"
+    },
+    {
+      "added_at": "2026-09-25 13:41:43",
+      "album": {
+        "name": "at night i dream of you",
+        "url": "https://open.spotify.com/album/7LW1scjbOo9fsvkBkawJCU"
+      },
+      "artists": [
+        {
+          "name": "Cold Water",
+          "url": "https://open.spotify.com/artist/5kazB8wdgdWlnTuByuKYVw"
+        }
+      ],
+      "duration_ms": 96000,
+      "name": "at night i dream of you",
+      "url": "https://open.spotify.com/track/79XUBO372HCq6WozbVeRte"
+    },
+    {
+      "added_at": "2026-09-25 13:42:17",
+      "album": {
+        "name": "i remember this place",
+        "url": "https://open.spotify.com/album/1iJfTvqVZSwnYLWpBpgJlC"
+      },
+      "artists": [
+        {
+          "name": "Bon Echo",
+          "url": "https://open.spotify.com/artist/0cptB7nxVh6aCVkUZcrSLy"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "i remember this place",
+      "url": "https://open.spotify.com/track/2Fz3Irq8yR19lBzwyyniSB"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

@@ -1,12 +1,12 @@
 {
   "description": "This is Angela Torres. The essential tracks, all in one playlist.",
-  "num_followers": 9285,
+  "num_followers": 9292,
   "original_name": "This Is Angela Torres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arMWgAAAAABlUZTFkCOxftWELqpjiNHK",
+  "snapshot_id": "arRoAAAAAADSitfbBH95Dr7RyDG2tmdi",
   "tracks": [
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR DEL WENO",
-        "url": "https://open.spotify.com/album/4fSgoKVXnlEYs9gtElWJp6"
-      },
-      "artists": [
-        {
-          "name": "Franco Rizzaro",
-          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
-        },
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 198803,
-      "name": "AMOR DEL WENO",
-      "url": "https://open.spotify.com/track/2StKy6GrZrk8G9ChNNCb1T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PURA",
         "url": "https://open.spotify.com/album/2PAJpftisSwkakrKmheRcl"
       },
@@ -719,6 +699,26 @@
       "duration_ms": 221714,
       "name": "Tu Mitad (feat. Angela Torres)",
       "url": "https://open.spotify.com/track/6rkAc7HYaGhSAS8O5vCcKy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AMOR DEL WENO",
+        "url": "https://open.spotify.com/album/4fSgoKVXnlEYs9gtElWJp6"
+      },
+      "artists": [
+        {
+          "name": "Franco Rizzaro",
+          "url": "https://open.spotify.com/artist/1QLXQU95X4LRBK4VNTUAQB"
+        },
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 198803,
+      "name": "AMOR DEL WENO",
+      "url": "https://open.spotify.com/track/2StKy6GrZrk8G9ChNNCb1T"
     },
     {
       "added_at": null,

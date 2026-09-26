@@ -4,7 +4,7 @@
 
 > Tämän hetken kovimmat suomihitit.
 
-1,080 songs - 2 day 5 hr 45 min
+1,081 songs - 2 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -881,6 +881,7 @@
 | [Sä voit itkee](https://open.spotify.com/track/0HQfgBheIBbj4fwveSdEwW) | [Aaro630](https://open.spotify.com/artist/10VlMu7CdFYteROQQFbIBV) | [Sä voit itkee](https://open.spotify.com/album/6iTlU8fhVjCYAHylCd10Q2) | 3:17 | 2025-09-04 | 2025-09-27 |
 | [Sä voitit jo](https://open.spotify.com/track/47mdOZQXp6X0Pym3zKe4bR) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Sä voitit jo](https://open.spotify.com/album/1j0yvwm7L0EHsemk9EUS88) | 2:58 | 2024-08-15 | 2024-11-26 |
 | [SÄD!](https://open.spotify.com/track/6ap8d46sBzUPQyNx05hYbw) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [näätsä mut?](https://open.spotify.com/album/1jxW2otFGa3DmhKBjJKSHm) | 2:34 | 2024-10-10 | 2024-10-25 |
+| [Säilöttyjä kyynelii \(Vain elämää kausi 17\)](https://open.spotify.com/track/28mNCzizbyHexvDuO3Stww) | [Jippu](https://open.spotify.com/artist/0KYGvSXrGDHlExTpandhct) | [Säilöttyjä kyynelii \(Vain elämää kausi 17\)](https://open.spotify.com/album/6bPn1oCwYEHMD3zIjfzwG5) | 3:32 | 2026-09-25 |  |
 | [Särkyneet sydämet \- Vain elämää kausi 15](https://open.spotify.com/track/0u5LNtyYrqJOttsAkrkFWU) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Särkyneet sydämet \(Vain elämää kausi 15\)](https://open.spotify.com/album/1UOmPs7VlMyxzCni7pz1J3) | 2:50 | 2024-10-24 | 2024-11-01 |
 | [Säätänää](https://open.spotify.com/track/0oaKMTjVA3KQR5xBn4NeTe) | [Lukas Leon](https://open.spotify.com/artist/1lDaPfGRA6miVIOjZbY50n) | [Säätänää](https://open.spotify.com/album/1E5ySghfEKXG4kkgzqvL5J) | 2:30 | 2025-07-03 | 2025-08-13 |
 | [T\-paita \(feat\. Bizi\)](https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [APATHIA](https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE) | 2:34 | 2025-01-23 | 2025-01-31 |

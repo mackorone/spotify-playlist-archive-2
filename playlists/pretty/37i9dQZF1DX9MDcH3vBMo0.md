@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,052 likes - 131 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,294 likes - 131 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In the Light of the Moon](https://open.spotify.com/track/3tfmiBDVxp5nGqoBBB2QxU) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [In the Light of the Moon](https://open.spotify.com/album/7fFLGkrMPuK6IuEnZ0C2Hw) | 2:23 |
 | 2 | [Fragments](https://open.spotify.com/track/3908RXyBz01sSe4SDY9SHw) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Fragments](https://open.spotify.com/album/5m2blnRxFotgjHSeMl1kZl) | 2:00 |
-| 3 | [Evening Breeze](https://open.spotify.com/track/7tprazZON3rZewH5u0UBfn) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [Evening Breeze](https://open.spotify.com/album/37Zu37uyM3Yve7ys41qn47) | 2:20 |
-| 4 | [Passing Clouds](https://open.spotify.com/track/3n2jtELNk0pDk60WEFELvw) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Passing Clouds](https://open.spotify.com/album/6yPyotkHUgjWsdzxLiC0jz) | 3:15 |
-| 5 | [Leaving The Nest](https://open.spotify.com/track/0LSl8gspRfVmXg5qzgS2mX) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Leaving The Nest](https://open.spotify.com/album/0jwUlqxQuuw3jmpwSIpqQM) | 2:32 |
-| 6 | [Full Of Air](https://open.spotify.com/track/2F0M2iHNjKyTNnWbrcTKtf) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Full Of Air](https://open.spotify.com/album/42wLpLUbOpixFBCxuxKNMj) | 2:18 |
-| 7 | [New Light](https://open.spotify.com/track/5XaDdPqb8MTApJ5kqReqgg) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [New Light](https://open.spotify.com/album/5CUoTSDPsTd5mfpJsWIbz3) | 2:26 |
-| 8 | [Rivière](https://open.spotify.com/track/1DwfVWRVFTIwJxWGgzJo8b) | [Julien Trevant](https://open.spotify.com/artist/1hbSId3a071gC1M9PtyrLO) | [Rivière](https://open.spotify.com/album/4muqR8HL7uD33p8yYGbNS2) | 2:29 |
+| 3 | [Rivière](https://open.spotify.com/track/1DwfVWRVFTIwJxWGgzJo8b) | [Julien Trevant](https://open.spotify.com/artist/1hbSId3a071gC1M9PtyrLO) | [Rivière](https://open.spotify.com/album/4muqR8HL7uD33p8yYGbNS2) | 2:29 |
+| 4 | [Evening Breeze](https://open.spotify.com/track/7tprazZON3rZewH5u0UBfn) | [Antoine Fauré](https://open.spotify.com/artist/5TOgvcEmZnjyDHGdnQP4nL) | [Evening Breeze](https://open.spotify.com/album/37Zu37uyM3Yve7ys41qn47) | 2:20 |
+| 5 | [Passing Clouds](https://open.spotify.com/track/3n2jtELNk0pDk60WEFELvw) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Passing Clouds](https://open.spotify.com/album/6yPyotkHUgjWsdzxLiC0jz) | 3:15 |
+| 6 | [Leaving The Nest](https://open.spotify.com/track/0LSl8gspRfVmXg5qzgS2mX) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Leaving The Nest](https://open.spotify.com/album/0jwUlqxQuuw3jmpwSIpqQM) | 2:32 |
+| 7 | [Full Of Air](https://open.spotify.com/track/2F0M2iHNjKyTNnWbrcTKtf) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Full Of Air](https://open.spotify.com/album/42wLpLUbOpixFBCxuxKNMj) | 2:18 |
+| 8 | [New Light](https://open.spotify.com/track/5XaDdPqb8MTApJ5kqReqgg) | [Dalby](https://open.spotify.com/artist/5ai5w9rMxwvqSY4rrDof73) | [New Light](https://open.spotify.com/album/5CUoTSDPsTd5mfpJsWIbz3) | 2:26 |
 | 9 | [Biassono](https://open.spotify.com/track/4VCdqcivjBs1bfQAGB54rQ) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Biassono](https://open.spotify.com/album/6KZDkQ7hYuOqG8O4cjNLl9) | 2:31 |
 | 10 | [After Everything](https://open.spotify.com/track/1oBoHVBfw2E4WlV706LFgJ) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [After Everything](https://open.spotify.com/album/2RXqgmdddhg1Qu7SAiXBuR) | 2:20 |
 | 11 | [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 130 | [Slow Morning](https://open.spotify.com/track/56sl3qMDGAqd8ktMI57h7S) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Slow Morning](https://open.spotify.com/album/72tckPxhIpV8L7KwBgSSiu) | 2:10 |
 | 131 | [Eclipsis](https://open.spotify.com/track/2vcdqUMFMbKYvqzBYsVZDn) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Eclipsis](https://open.spotify.com/album/58AH9ExVBQglcFuAUpIl4t) | 2:26 |
 
-Snapshot ID: `AAAAADkbqpbngycrd5y88fB2KW3CbKaV`
+Snapshot ID: `AAAAAFviexWSwftZea8G6fHLHID7RsUy`

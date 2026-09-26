@@ -4,7 +4,7 @@
 
 > Enjoy the lo\-fi beat with oriental colors.
 
-442 songs - 23 hr 38 min
+443 songs - 23 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Holiday](https://open.spotify.com/track/2EiYnN1JJem3mrzvs2IOGN) | [JeHwi](https://open.spotify.com/artist/269A1U75KOCFyPAiXq4sjT) | [YUMI's Cells, Pt\. 10 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CqqZ9yXSWFitudW1r70sX) | 3:56 | 2022-05-03 | 2024-07-03 |
 | [Home](https://open.spotify.com/track/2973DHddEjLXmV4Wq9ldhY) | [Tenno](https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp) | [Mind Temple](https://open.spotify.com/album/7erfxu8pJ5KRvYHvIwEss5) | 2:59 | 2025-06-13 | 2026-03-13 |
 | [How Is It?](https://open.spotify.com/track/0kIAlFsKhfOmfaSnqFcX5R) | [Tarin](https://open.spotify.com/artist/4UEKXXZ65FBcAJPVerQjtO) | [How Is It?](https://open.spotify.com/album/6hbVMD8GqzaZsNd0SXAi5v) | 3:09 | 2022-05-03 | 2024-07-03 |
+| [Howling](https://open.spotify.com/track/2CZ4SHN1JxVUCzDlcZqJe7) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Howling](https://open.spotify.com/album/0zL6KKlSsNDf8gl9nbsUX5) | 2:40 | 2026-09-08 |  |
 | [I don't want \(feat.So Jung of LADIES’ CODE\)](https://open.spotify.com/track/4bRniHgokYQNWeFTbkLIos) | [JUNGKEY](https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2), [So Jung of LADIES’ CODE](https://open.spotify.com/artist/1VFKN7VXbR51RVlaKoZiuZ) | [LISH](https://open.spotify.com/album/6Py1in4kLxzcr1BaMY0qbj) | 3:44 | 2022-05-03 | 2024-07-03 |
 | [I drink again](https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:05 | 2022-05-03 | 2022-09-09 |
 | [I know](https://open.spotify.com/track/3nZ41ylOYXcJ8ydGSSMKsf) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Even if get lost, it can flow anyway](https://open.spotify.com/album/0HRFHhuvLEfG77flcrbCI9) | 3:00 | 2022-05-03 | 2022-06-30 |
@@ -169,7 +170,7 @@
 | [I'll remember you](https://open.spotify.com/track/78AudmluhvT8wSeOshMGrY) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [On & On](https://open.spotify.com/album/6yLvWDZeRqFzyjhsEVrfjG) | 3:08 | 2022-06-20 | 2022-06-30 |
 | [If I Was There \- Full Version](https://open.spotify.com/track/50T2Qs6xt60D7YksyuuXyk) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Forest part.1](https://open.spotify.com/album/3LlQxI5sqj7SGKwWGKtbMA) | 3:47 | 2022-05-03 | 2022-07-16 |
 | [In Love With The Sky](https://open.spotify.com/track/7vD2PASnOKJssyqoRYggbS) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3), [DaniSogen](https://open.spotify.com/artist/7igN8kqLCyyGn6QoVmB6CO) | [Soothing Breeze](https://open.spotify.com/album/5pDZOibwnpWmH0jFyZVGz6) | 2:42 | 2024-07-02 | 2025-01-27 |
-| [In The End](https://open.spotify.com/track/6s5lfAy1Yi5vEGm7IMpSzU) | [Ky akasha](https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk) | [Memory Within A Dream](https://open.spotify.com/album/5ExpE7QngmNtvMKrTS1dlc) | 2:25 | 2026-01-22 |  |
+| [In The End](https://open.spotify.com/track/6s5lfAy1Yi5vEGm7IMpSzU) | [Ky akasha](https://open.spotify.com/artist/4961tplpADAjhtfTzgBtKk) | [Memory Within A Dream](https://open.spotify.com/album/5ExpE7QngmNtvMKrTS1dlc) | 2:25 | 2026-01-22 | 2026-09-26 |
 | [In the Roses](https://open.spotify.com/track/45xP2REQXM1uz8HhuPxJmO) | [Kalaido](https://open.spotify.com/artist/5LXHT7v9uYGrsyEnL9q9K8) | [Moonlit Tales](https://open.spotify.com/album/6Meo6NJgk9I5t4SwKJ0r0h) | 3:18 | 2024-07-02 |  |
 | [in your arms](https://open.spotify.com/track/4fgIoBKHzO7YO5eATyYbMl) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [in your arms](https://open.spotify.com/album/5nNs8PotoPHT8MDTHD9wD5) | 4:37 | 2024-07-02 | 2025-05-02 |
 | [Inevitability](https://open.spotify.com/track/53wi2Eu0aciGfOftKUCi4R) | [Tido Kang](https://open.spotify.com/artist/49daIKDRlPMp7kGetJ2yVE) | [Flying Petals](https://open.spotify.com/album/1LJnXFzgDt7cbq1HFswL4A) | 3:04 | 2025-05-09 |  |

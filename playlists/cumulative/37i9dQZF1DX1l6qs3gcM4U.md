@@ -4,11 +4,11 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Chelsea Dinorath
 
-713 songs - 1 day 16 hr 54 min
+715 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 |  |
+| [0 a 100](https://open.spotify.com/track/6b2VNir58EMaPyNIN5Fz3p) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Choices](https://open.spotify.com/album/5paRTOL3SEbtrR11fLu05r) | 2:14 | 2025-06-16 | 2026-09-26 |
 | [14](https://open.spotify.com/track/2PNLTYeAebJgoMOxYb7i2S) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [CICLOS](https://open.spotify.com/album/5XY0auxYieXVEG7pmn6ANc) | 2:31 | 2026-02-06 |  |
 | [2AM](https://open.spotify.com/track/26iz22pkwZThajSbL8BVLE) | [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [2AM](https://open.spotify.com/album/2jvDIAAlla2IbwuoLUojvy) | 3:45 | 2021-12-10 |  |
 | [365](https://open.spotify.com/track/0qrad26bbnF71qbebIhV2q) | [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [365](https://open.spotify.com/album/2t2JD3efuWaZWDHF8gfCoT) | 3:39 | 2023-03-03 | 2026-03-20 |
@@ -149,6 +149,7 @@
 | [Corno](https://open.spotify.com/track/65YDzoTd19yrff1ThXfmOW) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99) | [Corno](https://open.spotify.com/album/5wIj5r7RnXbgpY86w5NIRZ) | 3:30 | 2022-07-22 | 2023-07-18 |
 | [Corromper](https://open.spotify.com/track/2TTzmy5zP2b9vjqcjTtaQN) | [Messias Maricoa](https://open.spotify.com/artist/2nGm3BYzGAxkIuptvhRD99), [Melony](https://open.spotify.com/artist/1dUOvNk4VuWFS2AqoimkfY) | [Corromper](https://open.spotify.com/album/4b4TDIKHDVVEg8Kh4fpmyd) | 2:36 | 2024-12-20 | 2025-01-10 |
 | [Could've Been \- Kizomba](https://open.spotify.com/track/1F1EJj1aVtbeI0y0hcFtRh) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Could've Been \(Kizomba\)](https://open.spotify.com/album/6qIdA3p9mLWsRO9OQvKlgj) | 4:30 | 2021-12-10 | 2022-04-15 |
+| [Coxear](https://open.spotify.com/track/6cKDN7ojnBtVR7b56reJ7a) | [3 Finer](https://open.spotify.com/artist/0gGg41vqYrv92MZmSt6pT5) | [Coxear](https://open.spotify.com/album/2S4TSogAs71UCJ3cQh8zS1) | 2:57 | 2026-09-25 |  |
 | [Credo](https://open.spotify.com/track/5QRdKPh18pJHdlIRjqEr8d) | [João Maia Ferreira](https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I) | [Credo](https://open.spotify.com/album/6QKiftBhtPna757ems3oE2) | 3:35 | 2024-06-20 | 2024-07-02 |
 | [Criola](https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Mika Mendes](https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q) | 4:43 | 2022-02-14 | 2025-02-28 |
 | [Cruz](https://open.spotify.com/track/7sQAf6RIi15iPmYOy1BAq9) | [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD) | [Cruz](https://open.spotify.com/album/3xRuPXf8ouzwctqt6Frqjb) | 2:40 | 2025-07-24 | 2025-08-15 |
@@ -259,6 +260,7 @@
 | [Gabriela](https://open.spotify.com/track/4h2efiSX3jLkhYbDKSnNJF) | [Garry](https://open.spotify.com/artist/3U0IGidZSk3ObLUMwDxVxS) | [Gabriela](https://open.spotify.com/album/0aQZXGj1TbwIyfNZicvSOt) | 3:44 | 2025-02-21 | 2025-04-18 |
 | [GBB](https://open.spotify.com/track/7tdtvi7LWBoR9OTTjxd46A) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Zara Williams](https://open.spotify.com/artist/6cDW8p42zhFhvAbiCPeGQB) | [GBB](https://open.spotify.com/album/5VNohJcXXxahm6IvtjDJxh) | 3:22 | 2025-10-16 | 2026-08-21 |
 | [Gestora](https://open.spotify.com/track/2N1hEIzWuX3YJoIzEn7F1g) | [Lupambo](https://open.spotify.com/artist/3VhkOgqrqw8bBm5PPJbHXA), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Gestora](https://open.spotify.com/album/7eVJGPWc09JB7RpqgEbbjJ) | 3:26 | 2026-03-06 | 2026-04-03 |
+| [Girassol](https://open.spotify.com/track/7xNyJymdJE5hwdEX4dNi9l) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Skuco](https://open.spotify.com/artist/4nLc6AQhRPQKGWc615P1B6), [Afroplug](https://open.spotify.com/artist/6OYYP5lN0Z9jffEcBzwqgK) | [Só Amor](https://open.spotify.com/album/3dnuYQqwX1XwYKeXJ9dLbO) | 3:47 | 2026-09-25 |  |
 | [Gogó Gúo Go](https://open.spotify.com/track/2pu3WSzex9of4eztWNPxPv) | [Heavy C](https://open.spotify.com/artist/70LmgRdYKHG2E9owGNTDbB) | [Gogó Gúo Go](https://open.spotify.com/album/2eWpNaolfGSy8Zs9m9KXw7) | 2:09 | 2024-08-08 | 2024-08-23 |
 | [Gostu Sabi](https://open.spotify.com/track/6cosp1xrAB2ibru87qvvqB) | [Gil Semedo](https://open.spotify.com/artist/09vnXoFkZgz4LpDF0xWULu), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Mito Kaskas](https://open.spotify.com/artist/61B4g2tzV2iOPCxFVXfC7F) | [Gostu Sabi](https://open.spotify.com/album/2Xi1UFTDSzhxS5bOn0uI3t) | 4:24 | 2022-06-16 | 2022-07-01 |
 | [Gotham City](https://open.spotify.com/track/0yLF7XRVC0Pafr3Ejgli8P) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Mark Delman](https://open.spotify.com/artist/0HMwMJguzXwhI9TX09MVMy) | [Malibu](https://open.spotify.com/album/6TKrvjwXLmlZ3muElIy4CT) | 3:04 | 2025-10-09 | 2025-10-17 |
@@ -692,7 +694,7 @@
 | [Vida Linda](https://open.spotify.com/track/6PFCS07ThHLVYlOM5LeJFP) | [William Araujo](https://open.spotify.com/artist/0Y8ziaoma06j8kuFH2rjon), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Vida Linda](https://open.spotify.com/album/7dB9tIZsUxMfgyeWgUGCkH) | 2:55 | 2025-07-11 |  |
 | [Vir de Longe](https://open.spotify.com/track/3KOr0Kvi9Gc4o4QJsxvxsP) | [Dj Ademar](https://open.spotify.com/artist/1cvPuORQS4Mihsv28cWjpX), [Yunety Nick](https://open.spotify.com/artist/5qI3Z9hDlc2jiamlGEHEwZ) | [Vir de Longe](https://open.spotify.com/album/0tUzHqLF2Pe2ijO5v1KVKd) | 2:52 | 2025-03-14 | 2025-03-28 |
 | [Viver pra Ti](https://open.spotify.com/track/0ngqThz7sP2YPJBVy8xDix) | [Young Double](https://open.spotify.com/artist/7uxVtHLLKggSUN4MNqqBfY), [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO) | [Viver pra Ti](https://open.spotify.com/album/7tLXv6EKwiLX3GnXkzjQEi) | 3:10 | 2026-01-09 | 2026-03-06 |
-| [Viver Tudo Hoje](https://open.spotify.com/track/2iid8EMD4EwTXe9IdjTnHj) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Viver Tudo Hoje](https://open.spotify.com/album/6boYtyCptIErvbTlBAL3DC) | 3:11 | 2026-04-09 |  |
+| [Viver Tudo Hoje](https://open.spotify.com/track/2iid8EMD4EwTXe9IdjTnHj) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Viver Tudo Hoje](https://open.spotify.com/album/6boYtyCptIErvbTlBAL3DC) | 3:11 | 2026-04-09 | 2026-09-26 |
 | [VOCÊ](https://open.spotify.com/track/5TDju74rOfBANHKVWXGtua) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [VOCÊ](https://open.spotify.com/album/1xdmCcOFhIZJZISKOGPOcS) | 3:12 | 2025-12-12 | 2026-01-16 |
 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 | 2022-02-14 |  |
 | [Você Prometeu](https://open.spotify.com/track/5pBB81JzrfWe7Egt34pF59) | [Button Rose](https://open.spotify.com/artist/6K2uG6jS3G38wI9ue1ifiD) | [Você Prometeu](https://open.spotify.com/album/5nS7Ja5m7XfBnT7FIlM02F) | 3:13 | 2024-10-24 |  |

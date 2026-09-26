@@ -12845,6 +12845,24 @@
     },
     {
       "album": {
+        "name": "GR\u00d6NT & GULT",
+        "url": "https://open.spotify.com/album/7wKjO1HLRJJCth890IgoDh"
+      },
+      "artists": [
+        {
+          "name": "Rivstart",
+          "url": "https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184488,
+      "name": "GR\u00d6NT & GULT",
+      "url": "https://open.spotify.com/track/1cTfAyEFTQOVkAtkIVn7o6"
+    },
+    {
+      "album": {
         "name": "GETING, BEATS & SPORT",
         "url": "https://open.spotify.com/album/1424ajQP4ece9Im56m8rxE"
       },

@@ -1963,6 +1963,24 @@
     },
     {
       "album": {
+        "name": "Do You Like It",
+        "url": "https://open.spotify.com/album/5oNMtqvYEomiIxbwmNbqLX"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223856,
+      "name": "Do You Like It",
+      "url": "https://open.spotify.com/track/0wiY8HX6a9CVwLm1cUCmOD"
+    },
+    {
+      "album": {
         "name": "Domino",
         "url": "https://open.spotify.com/album/5QN9QYWzWxqHK80uDXqBvK"
       },
@@ -5829,6 +5847,58 @@
     },
     {
       "album": {
+        "name": "N.Y. Baby (feat. Holly Walker, Say She She & Flavor Flav)",
+        "url": "https://open.spotify.com/album/6jjq0NYdzpneBQR6vzwFwN"
+      },
+      "artists": [
+        {
+          "name": "Blu DeTiger",
+          "url": "https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC"
+        },
+        {
+          "name": "Holly Walker",
+          "url": "https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC"
+        },
+        {
+          "name": "Flavor Flav",
+          "url": "https://open.spotify.com/artist/7Bzd9B4YO9HFqNVM2P7MPX"
+        },
+        {
+          "name": "Say She She",
+          "url": "https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220133,
+      "name": "N.Y. Baby (feat. Holly Walker, Say She She & Flavor Flav)",
+      "url": "https://open.spotify.com/track/5iHA1i9I8qzF0MQBPvpufe"
+    },
+    {
+      "album": {
+        "name": "Napoli",
+        "url": "https://open.spotify.com/album/36RjQ4KJf8WOAwaTxwccUD"
+      },
+      "artists": [
+        {
+          "name": "French Braids",
+          "url": "https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1"
+        },
+        {
+          "name": "CLUBZ",
+          "url": "https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177417,
+      "name": "Napoli",
+      "url": "https://open.spotify.com/track/037QzrnT2lW0Km0g692KS0"
+    },
+    {
+      "album": {
         "name": "Moon II",
         "url": "https://open.spotify.com/album/3xRV4gGRWtSkRpHJqvo6vL"
       },
@@ -5870,7 +5940,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 195986,
       "name": "NEVER ALONE",
       "url": "https://open.spotify.com/track/2Z4Ky6x7na6W7cWNapEbTN"
@@ -6020,7 +6090,7 @@
       ],
       "date_added": "2025-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 212096,
       "name": "Nothing Is Forever",
       "url": "https://open.spotify.com/track/26E5NPwV30kG0lYLrUhAK5"
@@ -9572,7 +9642,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 260625,
       "name": "You Mean The World To Me",
       "url": "https://open.spotify.com/track/65yxSGrrEc4zeRiQPVOjty"

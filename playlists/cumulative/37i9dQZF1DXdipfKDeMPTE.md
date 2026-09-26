@@ -4,7 +4,7 @@
 
 > after dark beats that stay up with you 🌙  for night owls, night drives, or midnight thoughts.
 
-679 songs - 1 day 1 hr 50 min
+682 songs - 1 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Inertia](https://open.spotify.com/track/3nWzbQhOInPTSx6Soo4hNP) | [Diz](https://open.spotify.com/artist/02Fpx7VRq10jCSdPM89TUT) | [Inertia](https://open.spotify.com/album/5gGLiaRluvAw9zMma6HbAr) | 2:43 | 2022-05-20 | 2023-01-18 |
 | [infamous](https://open.spotify.com/track/1zeLmqomXHdmGfdjFlv9Ge) | [strøget](https://open.spotify.com/artist/7JtjqVMOUr4hbaYRVQevHq) | [infamous](https://open.spotify.com/album/5jSgMwLaRJgBAd9seXFkLc) | 3:15 | 2022-05-20 | 2022-06-10 |
 | [Inscription](https://open.spotify.com/track/1bJRvWoWH0tMqnhwJIMRZe) | [Lekie Low](https://open.spotify.com/artist/2ughhJsUZpM6BpChCO0E7X) | [Inscription](https://open.spotify.com/album/2lg55fATLymCWwLUYX9Fjs) | 2:24 | 2024-06-28 | 2026-06-11 |
+| [Islesboro](https://open.spotify.com/track/0lD5namCktgUlYGZLo7mQG) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [Islesboro](https://open.spotify.com/album/2SYMtKmS8f6kMVfJ51h84n) | 2:27 | 2026-09-25 |  |
 | [Isular](https://open.spotify.com/track/1XzURP8Kqghwdzw1Q3aABz) | [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Isular](https://open.spotify.com/album/3S8ysn8QU1zPA1XkzFNzIA) | 1:32 | 2024-09-13 |  |
 | [It’s too late](https://open.spotify.com/track/1aqOqoKLyBAbPqUugiiJkW) | [Tenysi Abra](https://open.spotify.com/artist/4RoMEa8uh9nIgAvOC80Eba) | [Dreams Come True](https://open.spotify.com/album/6zx0mbBdkwn8VyFMkykwJd) | 1:47 | 2022-05-20 | 2022-07-08 |
 | [Jazz Love](https://open.spotify.com/track/1bHOz0yyZvAapjxJOrWO3x) | [Lost Name](https://open.spotify.com/artist/1HSPc1HNJLIMsNBFBtIpUa), [Shy Guy](https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR), [SpoonBeats](https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl) | [the moon is ours](https://open.spotify.com/album/5R9sUoJ4H14EEzolLKbnI9) | 2:30 | 2023-03-27 | 2024-06-29 |
@@ -431,6 +432,7 @@
 | [Nocturne](https://open.spotify.com/track/1bHV89KOaMMAHn9DGbpn0i) | [Digimazz](https://open.spotify.com/artist/0r4jxyuYzVGceiKpA9188p) | [Nocturne](https://open.spotify.com/album/0c95UQZbAT5ulrcizxI3xI) | 2:16 | 2022-05-20 | 2023-09-26 |
 | [Noir](https://open.spotify.com/track/0fzPyhqVO1fHUWsp7GmnBR) | [Warbrum](https://open.spotify.com/artist/2wB56GDHDdCPYAbtVU5gkG) | [Noir](https://open.spotify.com/album/3zyrdG6EpiXt1Yif7dtFod) | 2:33 | 2022-09-02 | 2023-10-01 |
 | [Nordic Noir](https://open.spotify.com/track/2WNBXRh0PiCUoFVQNVAPXs) | [Ullis](https://open.spotify.com/artist/3GGTIeWyoM9LCS27Mo2UH2) | [Nordic Noir](https://open.spotify.com/album/5IGLvQzRwTAkKuC8XT5us4) | 2:13 | 2022-09-02 | 2025-11-08 |
+| [Northbound](https://open.spotify.com/track/4dzyjuI8PevQHhVJsgRfDb) | [EmptyAtomic](https://open.spotify.com/artist/4rRzjnxPTlenw1v7kOGRC2) | [Northbound](https://open.spotify.com/album/711zJ9xLQAURfGg2yLUQ93) | 2:13 | 2026-09-25 |  |
 | [Northern Lights](https://open.spotify.com/track/0PFMhSR3vDrxaMA4m1DPdO) | [Stuffed Tomato](https://open.spotify.com/artist/5cbjnkdsTmPqxejdiFdK6b) | [Northern Lights](https://open.spotify.com/album/5HixHcyUxBR10KBYvAGXfi) | 2:22 | 2022-05-20 | 2022-11-26 |
 | [Norwood Gardens](https://open.spotify.com/track/6wluXwFG3GkUNhrsdPv7EO) | [Gael Rico](https://open.spotify.com/artist/7792K7G74q2ZpczQiXdvlX) | [Lofi Play](https://open.spotify.com/album/5NkSjgzWJxjhQjTSjdwvw0) | 1:37 | 2022-11-11 | 2026-06-11 |
 | [Nostalgia](https://open.spotify.com/track/3LlYuVgDOLkzTLwSeVk3cY) | [Salvador](https://open.spotify.com/artist/2wdEmmyhUHZQNXj8iRoXXY) | [Nostalgia](https://open.spotify.com/album/5esG5kjT45IGJ9fsh7jTkv) | 2:02 | 2023-03-27 | 2023-11-11 |
@@ -622,6 +624,7 @@
 | [The Summit Point \- Lofi Minecraft Music](https://open.spotify.com/track/4Z7AKTdfeqfzJQuVJsEL0U) | [LoCraft](https://open.spotify.com/artist/4RftachrjrKoRHUWPElfUJ) | [The Summit Point \(Lofi Minecraft Music\)](https://open.spotify.com/album/4148Pe35Y8ywo2HLcgvsM7) | 3:03 | 2022-06-03 | 2022-08-12 |
 | [The Sun Was Candy](https://open.spotify.com/track/1GB8vZWGbeMp2s02bhwT9q) | [Catchaser](https://open.spotify.com/artist/2SP58Wk0YjobckhSvIMJo3) | [Summer Symphonia](https://open.spotify.com/album/0Jbxg1X9GtfB4ZNZ82Jmih) | 3:00 | 2023-04-11 |  |
 | [Theme 2](https://open.spotify.com/track/5CqYOOox2kdtE6dC6wijFO) | [IAMPAUL](https://open.spotify.com/artist/1mBlZPMpRL8wT9aHBnBBph), [Peter Thomas Sound Orchester](https://open.spotify.com/artist/2guRkkGBMKiboUZJr0NhZF), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Theme 2](https://open.spotify.com/album/4w2wGQpkCTR3EIzU6Xvqm3) | 2:25 | 2023-04-11 | 2023-09-09 |
+| [then the moon](https://open.spotify.com/track/2gNSWBtArAwoyaH45Z2zYq) | [midnight swim](https://open.spotify.com/artist/10P2mhlgatKCJ8ddf15AO1) | [then the moon](https://open.spotify.com/album/4Rg5pZW2ucpn83SRY5kcLj) | 2:10 | 2026-09-25 |  |
 | [These Sleepless Hours](https://open.spotify.com/track/2XPkr4NiBrLIIkIYB5qT1B) | [alamodilla](https://open.spotify.com/artist/3CBCmX5r8ViX4viPLFyVmN), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [These Sleepless Hours](https://open.spotify.com/album/21jFs7Y5dXbr5q1McMTqIb) | 3:03 | 2022-06-17 | 2026-02-28 |
 | [This is Amsterdam](https://open.spotify.com/track/6DR19qqLR5SmXfMtOvFrrW) | [Flying Animal](https://open.spotify.com/artist/2swCJIywMR8xcM3yCXUFRx) | [This is Amsterdam](https://open.spotify.com/album/10wlmyMecAxIx7bdoIPNzK) | 1:48 | 2022-09-02 | 2026-02-28 |
 | [tight squeeze](https://open.spotify.com/track/2F0umTe5UJsSlGSbeUcD8p) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [tight squeeze](https://open.spotify.com/album/5kfL0ZyNYQxthQK3pj5WOh) | 2:28 | 2022-05-20 | 2024-07-13 |

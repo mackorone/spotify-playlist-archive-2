@@ -16037,6 +16037,36 @@
     },
     {
       "album": {
+        "name": "Eu Procuro",
+        "url": "https://open.spotify.com/album/3KGvZt7WPwY1U3qviG8q7d"
+      },
+      "artists": [
+        {
+          "name": "AnjO 005",
+          "url": "https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3"
+        },
+        {
+          "name": "JIRAYA",
+          "url": "https://open.spotify.com/artist/66HNyGlf150V83GQlgwNgQ"
+        },
+        {
+          "name": "Lucas Gons",
+          "url": "https://open.spotify.com/artist/5YN7FoLWAh3s2cfMVn6Rxh"
+        },
+        {
+          "name": "Dracko Studios",
+          "url": "https://open.spotify.com/artist/2X5bJxzOJfycWiqYGKlC5U"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185600,
+      "name": "Eu Procuro",
+      "url": "https://open.spotify.com/track/6YY8SNYhZ8ZfFjt6pJviQQ"
+    },
+    {
+      "album": {
         "name": "AL\u00c9M DA F\u00d3RMULA",
         "url": "https://open.spotify.com/album/4rehdg4UVUQGoy9jLhCppp"
       },
@@ -23582,7 +23612,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 128500,
       "name": "Loverboy\u2019s",
       "url": "https://open.spotify.com/track/1libgA1qxliusWEmgeY032"

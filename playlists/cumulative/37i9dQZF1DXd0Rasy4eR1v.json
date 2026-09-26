@@ -3955,6 +3955,28 @@
     },
     {
       "album": {
+        "name": "Borrowed Time",
+        "url": "https://open.spotify.com/album/0UiiAaGaOcWYkQkezbjKLi"
+      },
+      "artists": [
+        {
+          "name": "Shalu Row",
+          "url": "https://open.spotify.com/artist/4vHHga5WRfEMCfQWQ2upMj"
+        },
+        {
+          "name": "Z4NE",
+          "url": "https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158610,
+      "name": "Borrowed Time",
+      "url": "https://open.spotify.com/track/2oC0sn9kVSKN4v3q2F3bDv"
+    },
+    {
+      "album": {
         "name": "breakdown stories.",
         "url": "https://open.spotify.com/album/1JhoGHtkMTwZdWNz1nJ9rp"
       },
@@ -5746,6 +5768,24 @@
       "duration_ms": 122758,
       "name": "Dear me",
       "url": "https://open.spotify.com/track/5bfHR3tqZ2TRd3El70ynCY"
+    },
+    {
+      "album": {
+        "name": "Dedaar",
+        "url": "https://open.spotify.com/album/50oxRcb33qXnRZdDW34LnH"
+      },
+      "artists": [
+        {
+          "name": "Sinan Rajput",
+          "url": "https://open.spotify.com/artist/0avEinyUN34b2mxTo7YZLY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135050,
+      "name": "Dedaar",
+      "url": "https://open.spotify.com/track/0t7ba3SM6t33UyiiSEhgWl"
     },
     {
       "album": {
@@ -13826,6 +13866,24 @@
       "duration_ms": 244848,
       "name": "Kuch Baatain",
       "url": "https://open.spotify.com/track/2G9WXQ9iZEgDvlsjqMpGxS"
+    },
+    {
+      "album": {
+        "name": "Kuch Batien",
+        "url": "https://open.spotify.com/album/6QjAIYZtPsWeFZrFFu2bXx"
+      },
+      "artists": [
+        {
+          "name": "Omar Mukhtar",
+          "url": "https://open.spotify.com/artist/6FR7jutAadVl9LMNooryDl"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149512,
+      "name": "Kuch Batien",
+      "url": "https://open.spotify.com/track/6O9V5k83MsftZUwoTD9Ms1"
     },
     {
       "album": {
@@ -23381,6 +23439,24 @@
     },
     {
       "album": {
+        "name": "stay away",
+        "url": "https://open.spotify.com/album/5XPw4B0NuZh3BbfzEEiXtw"
+      },
+      "artists": [
+        {
+          "name": "Arshman Khan",
+          "url": "https://open.spotify.com/artist/7Gg4O0kIXEu2DYgycQrz8x"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209999,
+      "name": "stay away",
+      "url": "https://open.spotify.com/track/0ZFDZDX4Z67uoMXYRgBUjh"
+    },
+    {
+      "album": {
         "name": "Stay Mine",
         "url": "https://open.spotify.com/album/23IAHItiHEgf8viWKvfBkl"
       },
@@ -23866,6 +23942,28 @@
       "duration_ms": 285176,
       "name": "Taaray",
       "url": "https://open.spotify.com/track/2MC3EpViJGIUMSjHz41ZML"
+    },
+    {
+      "album": {
+        "name": "Taaray - Lucid",
+        "url": "https://open.spotify.com/album/0CTNzNqo9vnJKORr3U8wyG"
+      },
+      "artists": [
+        {
+          "name": "Junaid Atif Khan",
+          "url": "https://open.spotify.com/artist/7nwVbRTNidbA5HtNcGh4Tn"
+        },
+        {
+          "name": "Chris NGB",
+          "url": "https://open.spotify.com/artist/1xbdFyntmGXLc9GhsMWpfs"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Taaray - Lucid",
+      "url": "https://open.spotify.com/track/6EMXpTcQoKE2BSy7VBJyrq"
     },
     {
       "album": {
@@ -27610,6 +27708,32 @@
       "duration_ms": 161518,
       "name": "Yaar",
       "url": "https://open.spotify.com/track/25QVWjKRrJs5rUPNbu5Osc"
+    },
+    {
+      "album": {
+        "name": "Yaar",
+        "url": "https://open.spotify.com/album/6fqOiLdeVeCVrqx9x4SbfZ"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Noman",
+          "url": "https://open.spotify.com/artist/6Y1dq8E3xrCERBBIht2yIE"
+        },
+        {
+          "name": "Hamzay",
+          "url": "https://open.spotify.com/artist/3jZgv3hijK101spub7clyS"
+        },
+        {
+          "name": "HASEEB",
+          "url": "https://open.spotify.com/artist/6VTBfUo6LQmVKxat82WXNA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176640,
+      "name": "Yaar",
+      "url": "https://open.spotify.com/track/2la9bXwKqqk1QMTqvTGUx6"
     },
     {
       "album": {

@@ -3381,6 +3381,24 @@
     },
     {
       "album": {
+        "name": "Take Away My Problems",
+        "url": "https://open.spotify.com/album/1QthikCvDI8Bt7QAODFQ7h"
+      },
+      "artists": [
+        {
+          "name": "Charlie Jeer",
+          "url": "https://open.spotify.com/artist/3h9jrx2NF7x7EkNDZAn2De"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156864,
+      "name": "Jennifer",
+      "url": "https://open.spotify.com/track/4oF46suNctrzdFKGw4CQAv"
+    },
+    {
+      "album": {
         "name": "Jet Fuel",
         "url": "https://open.spotify.com/album/0p0iHnopoBiApdvABd9T0u"
       },
@@ -4764,7 +4782,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 212001,
       "name": "Paradise (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/35sXaEaVnnYotLjnjRLMJK"

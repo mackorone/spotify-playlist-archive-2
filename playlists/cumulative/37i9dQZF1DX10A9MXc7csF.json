@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Los Primos del Este & Oscar Ortiz \ud83d\udcf8",
+  "description": "The new school of M\u00fasica Mexicana. Danny Felix \ud83d\udcf8",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -2944,7 +2944,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 135833,
       "name": "Aura",
       "url": "https://open.spotify.com/track/7DTge7ZIrqW6gvcCt67xsl"
@@ -4573,6 +4573,24 @@
     },
     {
       "album": {
+        "name": "Burbujas",
+        "url": "https://open.spotify.com/album/5s56SAesfL85fiUakHbMdV"
+      },
+      "artists": [
+        {
+          "name": "Alto Linaje",
+          "url": "https://open.spotify.com/artist/5fUua1kfdZhAopUPazcdC5"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255076,
+      "name": "Burbujas",
+      "url": "https://open.spotify.com/track/75TqtZephQuKrsUKudbaFV"
+    },
+    {
+      "album": {
         "name": "Buz\u00f3n",
         "url": "https://open.spotify.com/album/3PV38xmzg0IMzsS4N1bPsi"
       },
@@ -5366,7 +5384,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 159119,
       "name": "CHAKA",
       "url": "https://open.spotify.com/track/2wTWVd1YHRR5IM7pPvpUjS"
@@ -5388,6 +5406,24 @@
       "duration_ms": 186270,
       "name": "Chaleco Salvavidas - En Vivo",
       "url": "https://open.spotify.com/track/0l8VoS1l9TeipsG8rRZzMB"
+    },
+    {
+      "album": {
+        "name": "The Gemeliza",
+        "url": "https://open.spotify.com/album/2UTATs0QPurLuoLmbqOFlM"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145595,
+      "name": "Chamba Chamba",
+      "url": "https://open.spotify.com/track/1rZjkFYjU8FnPaki0aJ4vf"
     },
     {
       "album": {
@@ -8203,6 +8239,28 @@
     },
     {
       "album": {
+        "name": "Desde Morrillo",
+        "url": "https://open.spotify.com/album/7DheTk9R0NjKeysSjBu6qy"
+      },
+      "artists": [
+        {
+          "name": "Eley Romero",
+          "url": "https://open.spotify.com/artist/59LngyBMq7f3sseWJKSLdl"
+        },
+        {
+          "name": "Kane Rodriguez",
+          "url": "https://open.spotify.com/artist/163DQlpiiNqxgn2m4WsD3e"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135509,
+      "name": "Desde Morrillo",
+      "url": "https://open.spotify.com/track/2QN4hKNKStg4DLryEZWWoC"
+    },
+    {
+      "album": {
         "name": "Desde Que Te Tengo",
         "url": "https://open.spotify.com/album/2iZq4gNWUtijm5lZSQlUrQ"
       },
@@ -8214,7 +8272,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 232000,
       "name": "Desde Que Te Tengo",
       "url": "https://open.spotify.com/track/1to9ZHrjZSyP6WevUoeNer"
@@ -8236,6 +8294,24 @@
       "duration_ms": 235200,
       "name": "Deseandote",
       "url": "https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr"
+    },
+    {
+      "album": {
+        "name": "De Encargo",
+        "url": "https://open.spotify.com/album/2iAQZQbzJjpjvdTjLT4Lko"
+      },
+      "artists": [
+        {
+          "name": "Antonin Padilla",
+          "url": "https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206874,
+      "name": "Designo King",
+      "url": "https://open.spotify.com/track/4pjpUdYr0XhEY2W94uVMmu"
     },
     {
       "album": {
@@ -13040,6 +13116,24 @@
       "duration_ms": 238629,
       "name": "Fan\u00e1tico de Ti",
       "url": "https://open.spotify.com/track/2EPHP6QE1MQG16la6WyH1K"
+    },
+    {
+      "album": {
+        "name": "Farandula",
+        "url": "https://open.spotify.com/album/73z08sHDditfBktCjuunfr"
+      },
+      "artists": [
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148142,
+      "name": "Farandula",
+      "url": "https://open.spotify.com/track/1U4s94pxodwbqEqPaVDdeH"
     },
     {
       "album": {
@@ -21066,7 +21160,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 149351,
       "name": "Mil x Hora",
       "url": "https://open.spotify.com/track/7B5U9TgPYByWbfG0UUvpQh"
@@ -28356,7 +28450,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 181916,
       "name": "regalametutiempo",
       "url": "https://open.spotify.com/track/67dAEz6RgbY2v3sc6cSc04"
@@ -34453,6 +34547,24 @@
     },
     {
       "album": {
+        "name": "Vibrando bajo",
+        "url": "https://open.spotify.com/album/4JgZOF7no0vY7JEYc45O62"
+      },
+      "artists": [
+        {
+          "name": "Damaris Bojor",
+          "url": "https://open.spotify.com/artist/611RCawF857UVjTN5ttzup"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173963,
+      "name": "Vibrando bajo",
+      "url": "https://open.spotify.com/track/3uXyUBP9LLfpmHwsxSlDx9"
+    },
+    {
+      "album": {
         "name": "Vibrar +",
         "url": "https://open.spotify.com/album/5JG8dcjPqJTaunDFiyeWw6"
       },
@@ -34660,7 +34772,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 159178,
       "name": "Vieja Escuela",
       "url": "https://open.spotify.com/track/7veqwrYo5LN7zVM4DaIR8m"

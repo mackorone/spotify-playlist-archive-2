@@ -6831,6 +6831,24 @@
     },
     {
       "album": {
+        "name": "Saferooms & Healing Frequencies",
+        "url": "https://open.spotify.com/album/5LYr5Wq25XYCCQphnlgFgG"
+      },
+      "artists": [
+        {
+          "name": "PLUME",
+          "url": "https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv"
+        }
+      ],
+      "date_added": "2026-09-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225986,
+      "name": "Frankincense",
+      "url": "https://open.spotify.com/track/2C9gknb8kZdHcZEsXArBKc"
+    },
+    {
+      "album": {
         "name": "Freakin\u2019 Out",
         "url": "https://open.spotify.com/album/3hToTQIS84qGNxEhrZHiWf"
       },
@@ -18892,24 +18910,6 @@
       "duration_ms": 410840,
       "name": "Total Annihilation",
       "url": "https://open.spotify.com/track/0bT8EJYpzZSH81N05sfpq3"
-    },
-    {
-      "album": {
-        "name": "Saferooms & Healing Frequencies",
-        "url": "https://open.spotify.com/album/5LYr5Wq25XYCCQphnlgFgG"
-      },
-      "artists": [
-        {
-          "name": "PLUME",
-          "url": "https://open.spotify.com/artist/4OaXP5RcjrbxyCBmVU5Jcv"
-        }
-      ],
-      "date_added": "2026-09-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/2C9gknb8kZdHcZEsXArBKc"
     },
     {
       "album": {

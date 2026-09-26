@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Theresa Phondo
 
-9,126 songs - 28 day 14 hr 48 min
+9,126 songs - 28 day 14 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2273,6 +2273,7 @@
 | [Fire](https://open.spotify.com/track/7idY31xxQzO0y3PxecNEFG) | [Lekan Olalusi](https://open.spotify.com/artist/3BXvOK9gz1SjROeKm5zbhj) | [Fire](https://open.spotify.com/album/2A5kA3qOr2zbR2oEVSh2CS) | 6:19 | 2023-10-06 | 2023-10-20 |
 | [Fire](https://open.spotify.com/track/2AhmFyKuWPEMoie3RbT0Gg) | [Miriam Jaydah](https://open.spotify.com/artist/0WD1OVRYVzK0UGWfh42NrG) | [Fire](https://open.spotify.com/album/1HPhM6imos4KxycwA6KKe6) | 2:23 | 2026-03-20 | 2026-04-03 |
 | [Fire](https://open.spotify.com/track/47pIqA2BD2VvicNWktyPOz) | [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Fire](https://open.spotify.com/album/55tLPfdCBOUCE6MegFElL1) | 2:53 | 2024-10-18 | 2024-11-01 |
+| [FIRE](https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ) | [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [FIRE](https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4) | 9:13 | 2026-09-25 |  |
 | [Fire](https://open.spotify.com/track/4xn0Cd4m75bNHTi6qEwTfX) | [Xpected](https://open.spotify.com/artist/0XpBhywbPNnwXvmbTui6zI) | [Fire](https://open.spotify.com/album/6KnJWoC2L0kYqsreDypTNh) | 3:31 | 2023-09-15 | 2023-09-29 |
 | [Fire \- Live](https://open.spotify.com/track/21qtkRxWRYazoctM8bxsQC) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx) | [Fire \(Live\)](https://open.spotify.com/album/2cfh0AgpP7j7ZSfPLYyCoE) | 9:39 | 2025-01-17 | 2025-01-31 |
 | [Fire \- Remix](https://open.spotify.com/track/1xlDaW6jp8aVe5uRtypeYH) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL), [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Isaiah Roberts](https://open.spotify.com/artist/6bwqsxhkLewp1LocvpL2ec) | [Fire \(Remix\)](https://open.spotify.com/album/2KDIUs2dLkvKsHesXFMEfn) | 3:10 | 2024-06-28 | 2024-07-12 |
@@ -7979,7 +7980,6 @@
 | [Toxic](https://open.spotify.com/track/1aTAnmQGXqz82RXhoLBSsQ) | [FOEVA](https://open.spotify.com/artist/2heAYgLQ8mW1NBwAIWYDfI) | [Toxic](https://open.spotify.com/album/2WGaiKFPFEat303TwLbuUt) | 2:40 | 2024-01-19 | 2024-02-02 |
 | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/track/5U4Ovjih4AkPzm6qKgRSHs) | [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [TOXIC \(Racing Thoughts\)](https://open.spotify.com/album/4rMQD6m79Z10fLzHwWUaKs) | 3:22 | 2024-03-08 | 2024-03-16 |
 | [TPC](https://open.spotify.com/track/4NeAVZAhCl8c2AX7Cwr5zL) | [Da Voice](https://open.spotify.com/artist/5Dc9tfmomwFNnBY10xj0kj) | [TPC](https://open.spotify.com/album/3s7VHDyi99q9iFlxY1slbq) | 3:48 | 2024-09-27 | 2024-10-11 |
-| [Track 1](https://open.spotify.com/track/3XPHWXa3fHoQCQroxEyBIZ) | [Sandra Boakye\-Duah](https://open.spotify.com/artist/7y1otdxrmiZ3GVTcxkwZGI) | [FIRE](https://open.spotify.com/album/29O9vFnuqUQEw5X27RuUp4) | 0:00 | 2026-09-25 |  |
 | [Transitions](https://open.spotify.com/track/6Hz9LQZ6Ojoa3a5DmVVP4N) | [Rohi Shaapera](https://open.spotify.com/artist/10C5zzyN7mS8BBJLqyTYUr) | [Transitions](https://open.spotify.com/album/7Gz5EoGHx4kRNzkTSelrF9) | 2:42 | 2025-07-04 | 2025-07-18 |
 | [Traumatized](https://open.spotify.com/track/4IuztXrOUvnDUONYGT5pc3) | [2Larni](https://open.spotify.com/artist/0OEREBZdg9v3W9w1L5xY4d) | [Traumatized](https://open.spotify.com/album/5dhM2pMbxRKCn65QwKccw9) | 1:28 | 2024-02-09 | 2024-02-16 |
 | [Traveller](https://open.spotify.com/track/0mCxma7UENksj35Hxm1k88) | [Father Ankrah Music](https://open.spotify.com/artist/0yt8H7q2YCQi8kUi1KeK6N) | [Traveller](https://open.spotify.com/album/19Xf6cvv5NKVkMDuZiesH2) | 3:13 | 2025-03-28 | 2025-04-11 |

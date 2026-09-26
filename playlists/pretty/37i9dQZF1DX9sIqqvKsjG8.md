@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 
 > Soft and contemplative piano music to help you focus and chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811,848 likes - 149 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811,746 likes - 149 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Almost a Thought](https://open.spotify.com/track/4dYcb9nQu8XYOH24woIKQR) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Almost a Thought](https://open.spotify.com/album/27Ijxx7U7UydWsJQexHtU2) | 2:21 |
 | 2 | [After Everything](https://open.spotify.com/track/1oBoHVBfw2E4WlV706LFgJ) | [Isidorus](https://open.spotify.com/artist/1XvelV0uWSMLWWE5VQHbOO) | [After Everything](https://open.spotify.com/album/2RXqgmdddhg1Qu7SAiXBuR) | 2:20 |
 | 3 | [I Dreamed of You](https://open.spotify.com/track/3q5PzPbD5IDrAd3GYmyXvY) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [I Dreamed of You](https://open.spotify.com/album/6TCwLDqzhLtvdl57BZzH1C) | 2:42 |
-| 4 | [Close](https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Close](https://open.spotify.com/album/0QmY2x8QMVeGjrZEVkmdQs) | 2:03 |
-| 5 | [Pinewood Skies](https://open.spotify.com/track/5DLRgFcDlyf0LY2PXaoalM) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Pinewood Skies](https://open.spotify.com/album/6chl3RZEcpn2FU4967WFzC) | 2:42 |
-| 6 | [Something Starts Here](https://open.spotify.com/track/48tTElYJi5RhygOfmG6hfY) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Something Starts Here](https://open.spotify.com/album/2cfDfUb7ara7igdp6DJ0FS) | 2:42 |
-| 7 | [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 |
-| 8 | [Through the Whispering Trees](https://open.spotify.com/track/42NQphnmJaNTvzfD57IFTI) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Through the Whispering Trees](https://open.spotify.com/album/3h0lm1G0XOd7Ew4lLmudOZ) | 3:05 |
-| 9 | [Particles](https://open.spotify.com/track/30eikMQkwP7jtD5SnYCBbB) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Particles](https://open.spotify.com/album/2hkdSb3Av1Z1JP67nKZpxX) | 2:39 |
-| 10 | [Hiraeth](https://open.spotify.com/track/3uRVVBVSzOWqVtjvAeBhqp) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Hiraeth](https://open.spotify.com/album/4H9pXm1FfMvgyYtHr3qUBX) | 3:01 |
+| 4 | [Hiraeth](https://open.spotify.com/track/3uRVVBVSzOWqVtjvAeBhqp) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Hiraeth](https://open.spotify.com/album/4H9pXm1FfMvgyYtHr3qUBX) | 3:01 |
+| 5 | [Close](https://open.spotify.com/track/2avCi5upj9VBQVCdsYfv57) | [J\. Alke](https://open.spotify.com/artist/2JeRW0SGODyCsx0pYAjxSC) | [Close](https://open.spotify.com/album/0QmY2x8QMVeGjrZEVkmdQs) | 2:03 |
+| 6 | [Pinewood Skies](https://open.spotify.com/track/5DLRgFcDlyf0LY2PXaoalM) | [Gregory Velvet](https://open.spotify.com/artist/59NyDOVfIi9ytVaEicIVrm) | [Pinewood Skies](https://open.spotify.com/album/6chl3RZEcpn2FU4967WFzC) | 2:42 |
+| 7 | [Something Starts Here](https://open.spotify.com/track/48tTElYJi5RhygOfmG6hfY) | [Skaresnø](https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA) | [Something Starts Here](https://open.spotify.com/album/2cfDfUb7ara7igdp6DJ0FS) | 2:42 |
+| 8 | [Equinox](https://open.spotify.com/track/4wv3ixqGPuO0Rdbf3Ut0PU) | [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Equinox](https://open.spotify.com/album/7HngB2j6G8OPPegkEIEBXY) | 2:58 |
+| 9 | [Through the Whispering Trees](https://open.spotify.com/track/42NQphnmJaNTvzfD57IFTI) | [Taylor S Brooks](https://open.spotify.com/artist/4hsODnHwgqmRM8ym63GA3S) | [Through the Whispering Trees](https://open.spotify.com/album/3h0lm1G0XOd7Ew4lLmudOZ) | 3:05 |
+| 10 | [Particles](https://open.spotify.com/track/30eikMQkwP7jtD5SnYCBbB) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Particles](https://open.spotify.com/album/2hkdSb3Av1Z1JP67nKZpxX) | 2:39 |
 | 11 | [In The Clouds](https://open.spotify.com/track/1zkplKo7fw7LgYT1djtfGT) | [Elarune](https://open.spotify.com/artist/0AGFEF0rviLWBlKn1DBeUu) | [In The Clouds](https://open.spotify.com/album/5mtn90RONMzO07ES5u76ak) | 2:32 |
 | 12 | [New](https://open.spotify.com/track/04WArssiYLEtm8cjnc4Aiz) | [Adjoa Bekoe](https://open.spotify.com/artist/0cQsoeN9sMLe32WaCK5PhU) | [New](https://open.spotify.com/album/4bqRhhOBGLfM7wEbhN6JnA) | 2:09 |
 | 13 | [Molto piano](https://open.spotify.com/track/0kkX746BEgDS6Tdi1iLSj9) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Molto piano](https://open.spotify.com/album/3eoqzmAk6oXPnmUuQQ7pFf) | 2:13 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sIqqvKsjG8.md) - [plain]
 | 148 | [Sonnet 1](https://open.spotify.com/track/5VKVUectaKrr9Mq9m3fnWT) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [Sonnet 1](https://open.spotify.com/album/61quLSJezCtYqMsoy6pMAz) | 2:11 |
 | 149 | [A Day In June](https://open.spotify.com/track/0AlsRtqib2JbMHDWvcDrus) | [Half Giant](https://open.spotify.com/artist/3nEq4JXO2GPqB7n95OacSk) | [A Day In June](https://open.spotify.com/album/7ssXeTKWZ23Y7g6CKzKrvd) | 2:00 |
 
-Snapshot ID: `AAAAAIagd5poF1IYFbpcgU8YRgUNVC1z`
+Snapshot ID: `AAAAANKUr6aE7wBjpa6PiwjYVwvHgzVk`

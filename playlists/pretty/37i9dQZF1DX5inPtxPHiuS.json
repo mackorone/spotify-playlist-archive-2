@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: \u00c1rbol de Ojos",
-  "num_followers": 91770,
+  "num_followers": 91773,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "El Reflejo",
-        "url": "https://open.spotify.com/album/6VawC8yDOjAfD168H2a3Vo"
-      },
-      "artists": [
-        {
-          "name": "Ekhymosis",
-          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
-        }
-      ],
-      "duration_ms": 218700,
-      "name": "El Reflejo",
-      "url": "https://open.spotify.com/track/1HcYDA5dwLeWHVTmNQf6XO"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 147453,
       "name": "Ning\u00fan Lugar",
       "url": "https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "El Reflejo",
+        "url": "https://open.spotify.com/album/6VawC8yDOjAfD168H2a3Vo"
+      },
+      "artists": [
+        {
+          "name": "Ekhymosis",
+          "url": "https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M"
+        }
+      ],
+      "duration_ms": 218700,
+      "name": "El Reflejo",
+      "url": "https://open.spotify.com/track/1HcYDA5dwLeWHVTmNQf6XO"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
+        "name": "No Hay Tiempo Que Perder",
+        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
+      },
+      "artists": [
+        {
+          "name": "Tr3sdeCoraZ\u00f3n",
+          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
+        }
+      ],
+      "duration_ms": 177711,
+      "name": "\u00bfQu\u00e9 se yo?",
+      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
         "name": "LVRBOY",
         "url": "https://open.spotify.com/album/5W6bM73YTdbpCZQXH0ZJtE"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 263449,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/0RrAW7InSmDFgpJ1yLkKxC"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
-        "name": "No Hay Tiempo Que Perder",
-        "url": "https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy"
-      },
-      "artists": [
-        {
-          "name": "Tr3sdeCoraZ\u00f3n",
-          "url": "https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M"
-        }
-      ],
-      "duration_ms": 177711,
-      "name": "\u00bfQu\u00e9 se yo?",
-      "url": "https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -839,18 +839,22 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Todo Se Olvida",
-        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
+        "name": "Madre Tierra",
+        "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
       },
       "artists": [
         {
-          "name": "Arrabalero",
-          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
+          "name": "La Sociedad de La Sombrilla",
+          "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
+        },
+        {
+          "name": "Sebasti\u00e1n Panesso",
+          "url": "https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf"
         }
       ],
-      "duration_ms": 272999,
-      "name": "Todo Se Olvida",
-      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
+      "duration_ms": 212660,
+      "name": "Madre Tierra",
+      "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -887,22 +891,18 @@
     {
       "added_at": "2026-09-11 04:59:19",
       "album": {
-        "name": "Madre Tierra",
-        "url": "https://open.spotify.com/album/6hfC8pQP0TYzJD9xd9EKSF"
+        "name": "Todo Se Olvida",
+        "url": "https://open.spotify.com/album/7IiH1HtllaGle5PNAgZDOU"
       },
       "artists": [
         {
-          "name": "La Sociedad de La Sombrilla",
-          "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
-        },
-        {
-          "name": "Sebasti\u00e1n Panesso",
-          "url": "https://open.spotify.com/artist/7klsfmubwzRluxsG4nRUyf"
+          "name": "Arrabalero",
+          "url": "https://open.spotify.com/artist/51gZ0KnXKT356BUJihiQCj"
         }
       ],
-      "duration_ms": 212660,
-      "name": "Madre Tierra",
-      "url": "https://open.spotify.com/track/1Nm64MdvvkfjwIntgflE17"
+      "duration_ms": 272999,
+      "name": "Todo Se Olvida",
+      "url": "https://open.spotify.com/track/5picMImS7FTOFGovnF8YFg"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -919,6 +919,26 @@
       "duration_ms": 278453,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
+    },
+    {
+      "added_at": "2026-09-11 04:59:19",
+      "album": {
+        "name": "Corriente",
+        "url": "https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY"
+      },
+      "artists": [
+        {
+          "name": "La Sociedad de La Sombrilla",
+          "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
+        },
+        {
+          "name": "Juan Amaya",
+          "url": "https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu"
+        }
+      ],
+      "duration_ms": 301863,
+      "name": "Corriente",
+      "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
     },
     {
       "added_at": "2026-09-11 04:59:19",
@@ -971,26 +991,6 @@
       "duration_ms": 178133,
       "name": "Recorrer el Mundo",
       "url": "https://open.spotify.com/track/1wpn2kg0vFgvEl7V6XeQzK"
-    },
-    {
-      "added_at": "2026-09-11 04:59:19",
-      "album": {
-        "name": "Corriente",
-        "url": "https://open.spotify.com/album/42VngVGNzCECnvcyUXsPxY"
-      },
-      "artists": [
-        {
-          "name": "La Sociedad de La Sombrilla",
-          "url": "https://open.spotify.com/artist/76ZpJJKxWFJyKOJzQXVWbk"
-        },
-        {
-          "name": "Juan Amaya",
-          "url": "https://open.spotify.com/artist/0RpTSYxPZkiscBuFwPpQHu"
-        }
-      ],
-      "duration_ms": 301863,
-      "name": "Corriente",
-      "url": "https://open.spotify.com/track/5Mm4TsFJwZd8PRoef7w21l"
     },
     {
       "added_at": "2026-09-11 04:59:19",

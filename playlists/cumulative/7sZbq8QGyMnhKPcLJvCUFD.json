@@ -4171,6 +4171,24 @@
     },
     {
       "album": {
+        "name": "DON'T WANNA KNOW!!!",
+        "url": "https://open.spotify.com/album/1wiAmLqIf4IUMfcdmgsOW1"
+      },
+      "artists": [
+        {
+          "name": "Laeko",
+          "url": "https://open.spotify.com/artist/3EIT3LGmmYzag8NaQ681nT"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184291,
+      "name": "DON'T WANNA KNOW!!!",
+      "url": "https://open.spotify.com/track/2wxhaahMoNMaBVhEFJHnSW"
+    },
+    {
+      "album": {
         "name": "Playing with Fire",
         "url": "https://open.spotify.com/album/19wkkvKkqO1SY9M3jYD8Nl"
       },
@@ -7352,6 +7370,28 @@
       "duration_ms": 223994,
       "name": "H.A.Y",
       "url": "https://open.spotify.com/track/2Y5z3eOhmuDQNyAKAmmVcR"
+    },
+    {
+      "album": {
+        "name": "Regardless EP",
+        "url": "https://open.spotify.com/album/0OU4IbDVtq0F1az5j3roBq"
+      },
+      "artists": [
+        {
+          "name": "P3PPER",
+          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
+        },
+        {
+          "name": "Jibaan",
+          "url": "https://open.spotify.com/artist/5A20HgnNenptlZIhbSFbvJ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227357,
+      "name": "Halcyon",
+      "url": "https://open.spotify.com/track/1A9xz99EOvP3KTApINsP0n"
     },
     {
       "album": {

@@ -8119,6 +8119,24 @@
     },
     {
       "album": {
+        "name": "BOUNCIN",
+        "url": "https://open.spotify.com/album/0XEY9Uay6nkHixYlB5pPsp"
+      },
+      "artists": [
+        {
+          "name": "fromclay",
+          "url": "https://open.spotify.com/artist/0EwNsbQywFna5Y83fmTwpu"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156893,
+      "name": "BOUNCIN",
+      "url": "https://open.spotify.com/track/2g8ld6HN07H8ylTJVbeazz"
+    },
+    {
+      "album": {
         "name": "V.A",
         "url": "https://open.spotify.com/album/1PcJUJ3SIosTkONHKItwUr"
       },
@@ -43106,7 +43124,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 209090,
       "name": "No Joke",
       "url": "https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX"
@@ -57567,6 +57585,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2kKNSLMbIQ3InaKKRkGmIj"
+      },
+      "artists": [
+        {
+          "name": "OBLQ",
+          "url": "https://open.spotify.com/artist/6M8AKWzvTH1HvTSdvAFsF8"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228250,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7D8yRzQXkDdDr3CQ7UX6An"
+    },
+    {
+      "album": {
         "name": "Kamo Eagle",
         "url": "https://open.spotify.com/album/7eoA3O8bNvMsVtKg3C3h9p"
       },
@@ -63174,7 +63210,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 160000,
       "name": "TU",
       "url": "https://open.spotify.com/track/4RkzOCoUtFzfjLv8JbeZcN"

@@ -1099,7 +1099,7 @@
     },
     {
       "album": {
-        "name": "\u5c0f\u5bf6\u8c9d\u7d93\u5178\u5152\u6b4c|\u7d93\u5178\u5152\u6b4c\u5531\u5531\u8df3\u8df3|\u5bf6\u5bf6\u653e\u96fb\u5152\u6b4c|\u4e00\u8d77\u4f86\u8df3\u821e\u5427!",
+        "name": "\u5c0f\u5bf6\u8c9d\u7d93\u5178\u5152\u6b4c\uff5c\u7d93\u5178\u5152\u6b4c\u5531\u5531\u8df3\u8df3\uff5c\u5bf6\u5bf6\u653e\u96fb\u5152\u6b4c\uff5c\u4e00\u8d77\u4f86\u8df3\u821e\u5427\uff01",
         "url": "https://open.spotify.com/album/5qY1p9E8QrAEwpxoDvQuBA"
       },
       "artists": [
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-20",
+      "date_removed": null,
       "duration_ms": 78290,
       "name": "\u502b\u6566\u9435\u6a4b\u57ae\u4e0b\u4f86\u57ae\u4e0b\u4f86",
       "url": "https://open.spotify.com/track/2IOCAsvUSyrzKbEEwutRPq"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 67986,
       "name": "\u746a\u8389\u6709\u96bb\u5c0f\u7dbf\u7f8a",
       "url": "https://open.spotify.com/track/6SyX3VoVqkD23KlwFN0yYt"

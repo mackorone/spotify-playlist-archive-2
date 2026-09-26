@@ -1,13 +1,29 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 422471,
+  "num_followers": 422523,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANsGtGJ16eX/lmbOQxRvL6GpOwA3",
+  "snapshot_id": "AAAAAJJAT/CyGfTGTDatPoOZ1sXrzYUk",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:00:32",
+      "album": {
+        "name": "Give Me Something",
+        "url": "https://open.spotify.com/album/4NXkteWMZsv8vP563GwhY7"
+      },
+      "artists": [
+        {
+          "name": "Vulfpeck",
+          "url": "https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6"
+        }
+      ],
+      "duration_ms": 338499,
+      "name": "Give Me Something",
+      "url": "https://open.spotify.com/track/5mr8N60dm55kVv5LzDusym"
+    },
     {
       "added_at": "2026-09-18 04:00:57",
       "album": {
@@ -2667,22 +2683,6 @@
       "duration_ms": 317000,
       "name": "Poignant Pelican",
       "url": "https://open.spotify.com/track/34gehm6RkffvxOQFYSOdqg"
-    },
-    {
-      "added_at": "2022-03-25 05:00:00",
-      "album": {
-        "name": "Wouldn't You",
-        "url": "https://open.spotify.com/album/7uFecTTe825dZGMIneAmj8"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        }
-      ],
-      "duration_ms": 145499,
-      "name": "Wouldn't You",
-      "url": "https://open.spotify.com/track/7i9Xk5r7RUNFq4oSNPwGJe"
     },
     {
       "added_at": "2021-12-07 16:03:56",

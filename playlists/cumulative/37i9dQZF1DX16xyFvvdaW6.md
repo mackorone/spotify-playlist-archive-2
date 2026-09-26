@@ -4,7 +4,7 @@
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-141 songs - 9 hr 52 min
+142 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Que Se Llene Tu Casa](https://open.spotify.com/track/5SJsGkMXZCN9mzxoM8JjNj) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Cuan Gran Amor](https://open.spotify.com/album/6uviGvDbNIhxoOMqTP3HKl) | 4:08 | 2022-10-25 |  |
 | [Quiero que Sepas](https://open.spotify.com/track/6oCLDQgN8sA7dmlkVHQYkm) | [Fos Rock](https://open.spotify.com/artist/0p9As39OkIqK6mOPOs7EvK), [Niel González](https://open.spotify.com/artist/0PsPEEuOCQ8oXtas45GuhW) | [Quiero que Sepas](https://open.spotify.com/album/5r0SSXFBcJGE38lZ1doQYc) | 2:20 | 2025-04-30 |  |
 | [Quisiera](https://open.spotify.com/track/4x6vIZfQBuYnVw8zjZEZ72) | [Metamorffosis](https://open.spotify.com/artist/7616QQ7F8yuDKMztFdAe35) | [Escrito En Las Estrellas](https://open.spotify.com/album/4VnK8zGduksGF2LDyDnYRT) | 5:13 | 2022-07-22 | 2025-11-22 |
-| [REFUGIO](https://open.spotify.com/track/13w7K9XrzSNWFFzhVrWE9Z) | [PLATANOS](https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB), [Anderson Rock](https://open.spotify.com/artist/3ynEqPsmMhLEEEdBJ1iHKL) | [REFUGIO](https://open.spotify.com/album/7pwbyqhkS69ZB6pDdSFixu) | 2:41 | 2025-02-28 |  |
+| [REFUGIO](https://open.spotify.com/track/13w7K9XrzSNWFFzhVrWE9Z) | [PLATANOS](https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB), [Anderson Rock](https://open.spotify.com/artist/3ynEqPsmMhLEEEdBJ1iHKL) | [REFUGIO](https://open.spotify.com/album/7pwbyqhkS69ZB6pDdSFixu) | 2:41 | 2025-02-28 | 2026-09-26 |
 | [Revolución](https://open.spotify.com/track/1qrbboeBXxw2The5xq6OHp) | [Padre Jony](https://open.spotify.com/artist/42HGVpAbSf1xevhPB2gero) | [Madrid 2011 \(Música para la JMJ / Music for WYD\)](https://open.spotify.com/album/1dgNP7NrxDBvuJwgxByvbU) | 3:43 | 2022-10-25 | 2024-12-12 |
 | [Revolución](https://open.spotify.com/track/3On8E0EIn0lFMc2Jbc9k0v) | [Padre Jony](https://open.spotify.com/artist/42HGVpAbSf1xevhPB2gero) | [Madrid 2011 \(Música para la JMJ / Music for WYD\)](https://open.spotify.com/album/3UbwDXMWN6ewsV7V9SfKQd) | 3:43 | 2022-07-22 | 2024-04-19 |
 | [Rey De Majestad](https://open.spotify.com/track/1YBT09TyZHe9y2EmB3Q1Vg) | [Vertical](https://open.spotify.com/artist/1hbkbFMzOqz9bW2KGPJrRW) | [Imagínate](https://open.spotify.com/album/3EAMMcIMWeDZ7evJ4Tjvu9) | 4:28 | 2022-07-22 | 2024-04-19 |
@@ -118,6 +118,7 @@
 | [Sobre las Aguas](https://open.spotify.com/track/0160nXrwsZGabn2MS3eZBt) | [Credo](https://open.spotify.com/artist/6RjjLhiDH0icVk8Et5Unsl) | [Sobre las Aguas](https://open.spotify.com/album/0NTxzUKkcuioP465pmYzUF) | 4:00 | 2022-07-22 |  |
 | [Somos Libres](https://open.spotify.com/track/5K8h4xOwZVRQa4VGriAQKv) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb) | [Incontenible Es Tu Amor](https://open.spotify.com/album/255rwV8lwNBydz4Has3O1D) | 3:55 | 2022-10-25 | 2026-06-27 |
 | [Somos Libres](https://open.spotify.com/track/2C5f7uN6SEhhZuEBiVednO) | [En Espíritu Y En Verdad](https://open.spotify.com/artist/39m45GawtjXnazyVoEGkfb), [Omar Rodriguez Music](https://open.spotify.com/artist/60qPt9fHjiHFrA0fgpPwac) | [Incontenible Es Tu Amor](https://open.spotify.com/album/3US7xplIUPp647q67nCMS0) | 3:55 | 2022-07-22 | 2024-04-19 |
+| [Soy Esto](https://open.spotify.com/track/5XPTn6OSZ99MMTn2WjcZjA) | [PLATANOS](https://open.spotify.com/artist/3L0Jyk3mauJeWDPBVCq8fB) | [Soy Esto](https://open.spotify.com/album/0CEUlvMoaZLNAKQdRGgVag) | 3:14 | 2026-09-25 |  |
 | [Tanto Amor](https://open.spotify.com/track/60g7TL0ROPXRtmsZ4vmoET) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Tanto Amor](https://open.spotify.com/album/3prwQzgCpTFiy41zg09tqQ) | 4:36 | 2025-09-26 |  |
 | [Tiene Razón](https://open.spotify.com/track/6AZUXNaxnfQ7Q3hG3qQPT7) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Tiene Razón](https://open.spotify.com/album/30oimvBwbITQfBDttMi6iG) | 3:19 | 2022-10-25 | 2024-07-30 |
 | [Tiene razón](https://open.spotify.com/track/0YVkK3eoqA9rmpqyMObT4h) | [Rescate](https://open.spotify.com/artist/1yIESehTCkR9hPmGFKxuV5) | [Indudablemente](https://open.spotify.com/album/59P6zsVljf0Gs8h4F8iWw4) | 3:19 | 2022-07-22 | 2025-07-26 |

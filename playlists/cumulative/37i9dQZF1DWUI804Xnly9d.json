@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Magic of acoustic poured into your Chai. Cover - Arijit Singh",
+  "description": "Magic of acoustic poured into your Chai. Cover - Bhediya",
   "name": "Chai & Acoustic",
   "tracks": [
     {
@@ -296,6 +296,24 @@
       "duration_ms": 212692,
       "name": "Aangan",
       "url": "https://open.spotify.com/track/5fQ68f0syCRx6dJoJvyxEh"
+    },
+    {
+      "album": {
+        "name": "Aankhein",
+        "url": "https://open.spotify.com/album/2fKe65b6B7Bb0sFRY0A39s"
+      },
+      "artists": [
+        {
+          "name": "Navjot Ahuja",
+          "url": "https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315125,
+      "name": "Aankhein",
+      "url": "https://open.spotify.com/track/0Y0qi12uVrC1aTvZ0edihf"
     },
     {
       "album": {
@@ -883,6 +901,32 @@
     },
     {
       "album": {
+        "name": "Bhediya (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Akhil Sachdeva",
+          "url": "https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "Apna Bana Le by Akhil Sachdeva",
+      "url": "https://open.spotify.com/track/3GtsNRc2zRiqMp7VuWhLua"
+    },
+    {
+      "album": {
         "name": "Arz Kiya Hai | Coke Studio Bharat",
         "url": "https://open.spotify.com/album/5JnqJs94bARmhFoOSW3H5h"
       },
@@ -1348,6 +1392,28 @@
       "duration_ms": 272033,
       "name": "Banja Beimaan",
       "url": "https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo"
+    },
+    {
+      "album": {
+        "name": "Saiyaara",
+        "url": "https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf"
+      },
+      "artists": [
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129945,
+      "name": "Barbaad Reprise - Female",
+      "url": "https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x"
     },
     {
       "album": {
@@ -1934,6 +2000,32 @@
       "duration_ms": 158315,
       "name": "Chaahat Ka Maara",
       "url": "https://open.spotify.com/track/3sS0DwsB8Vc58KOmGuzGM3"
+    },
+    {
+      "album": {
+        "name": "Pehla Pyaar Doosri Baar",
+        "url": "https://open.spotify.com/album/1uw9VCYG9jUnYmf3CnhxNj"
+      },
+      "artists": [
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185030,
+      "name": "Chaand (Unplugged)",
+      "url": "https://open.spotify.com/track/71TXRxAtsO9Gi06W1yryAv"
     },
     {
       "album": {
@@ -3708,7 +3800,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 219718,
       "name": "Gulon se",
       "url": "https://open.spotify.com/track/2ytNIFFfzSM5Ok2rhAbGe8"
@@ -4610,7 +4702,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 198000,
       "name": "Ishq-E-Jaan Unplugged",
       "url": "https://open.spotify.com/track/4EeU2XFrLnKczEC757PKDx"
@@ -6132,7 +6224,7 @@
       ],
       "date_added": "2026-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 373500,
       "name": "Khazana - Live",
       "url": "https://open.spotify.com/track/4EJO5Cu6cUw0rILpjud1Qj"
@@ -8100,7 +8192,7 @@
       ],
       "date_added": "2025-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 224274,
       "name": "Mere Hisse Ki 'Jayedaad'",
       "url": "https://open.spotify.com/track/3DurrqBX5nKpHbciiDIsp4"
@@ -9094,7 +9186,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 270252,
       "name": "par ab kya?",
       "url": "https://open.spotify.com/track/5DkBFgvF1ECLLwB0ykfRiS"
@@ -10686,6 +10778,24 @@
       "duration_ms": 216240,
       "name": "Sehar",
       "url": "https://open.spotify.com/track/1IWXDizuyzuBz7nXI6Wgdn"
+    },
+    {
+      "album": {
+        "name": "Sehne Waale Ko",
+        "url": "https://open.spotify.com/album/1FLxMp8DGEBHuAPIjwmAb5"
+      },
+      "artists": [
+        {
+          "name": "MYNK",
+          "url": "https://open.spotify.com/artist/1vpBI2qjRp4GXz6s24fIsY"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164083,
+      "name": "Sehne Waale Ko",
+      "url": "https://open.spotify.com/track/4Xnmp3WWFbHKAiRIfwlb7u"
     },
     {
       "album": {

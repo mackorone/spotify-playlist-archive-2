@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-1,308 songs - 3 day 0 hr 29 min
+1,309 songs - 3 day 0 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Call My Name](https://open.spotify.com/track/2RTSOgbEyShCnvxsHbCC7D) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Call My Name](https://open.spotify.com/album/7klufynHglkdPiPu82O4wB) | 3:03 | 2022-03-23 | 2022-06-03 |
 | [Calling](https://open.spotify.com/track/2rqlbwqcQBzuaI3DTlRiEP) | [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Cloudcage](https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA), [Matt Sky](https://open.spotify.com/artist/08FqNRAfeLHLh96BdNHljC) | [Calling](https://open.spotify.com/album/7eE9VGf46QBOuY4BkzTo3N) | 3:21 | 2023-07-31 | 2023-12-14 |
 | [Calling Us](https://open.spotify.com/track/7maTcRghSDNPyXuP9szRiW) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [David Feldman](https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Calling Us](https://open.spotify.com/album/6IDx39By9m2pJ62cAAj019) | 4:10 | 2023-01-25 | 2023-04-11 |
+| [Came To Meet My Fate](https://open.spotify.com/track/7t3NowbN4PIRNLYBAtMJlN) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ), [F8](https://open.spotify.com/artist/3MgJTUyF6qWAd5OUpb0559) | [Came To Meet My Fate](https://open.spotify.com/album/4OnZq7jnUXY3BchBveJRXP) | 2:46 | 2026-09-25 |  |
 | [Can We Be Free \- KDrew Remix](https://open.spotify.com/track/6z8jYJCzgBCNgbMTwvvnFy) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [KDrew](https://open.spotify.com/artist/1DLsogyGi0pwPtwV78D8uZ) | [Can We Be Free \(KDrew Remix\)](https://open.spotify.com/album/3po4Lcgb6oUUksB3d6xrt9) | 2:28 | 2022-12-03 | 2023-03-02 |
 | [Can You](https://open.spotify.com/track/1IViMQ0Ifl0N9Gbkwdifso) | [MXV](https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Can You](https://open.spotify.com/album/5mCqlZt0A5PjgtmFd82dHV) | 3:20 | 2025-06-24 | 2025-09-19 |
 | [CAN'T STOP](https://open.spotify.com/track/7rqKlUgJtkENoL3zrDosq9) | [MACHAKI](https://open.spotify.com/artist/7q7lcKyRzbFGozvjfwjtHZ) | [CAN'T STOP](https://open.spotify.com/album/33ZnYAhSXClO7zAeO7xcN7) | 2:37 | 2026-07-20 |  |

@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVtNueFT0Wu.md) - [plain](/playlists/plain/37i9dQZF1DWZVtNueFT0Wu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWZVtNueFT0Wu)
 
-### [LGBTQ+ History](https://open.spotify.com/playlist/37i9dQZF1DWZVtNueFT0Wu)
+### [Celebrate LGBTQ+ History Month](https://open.spotify.com/playlist/37i9dQZF1DWZVtNueFT0Wu)
 
 > The rich, complex history of LGBTQ+ people and movements that shaped the world we live in.
 
@@ -9,4 +9,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVtNueFT0Wu.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAKFvaHt0bWvPpQ0uw6ElL8HStckN`
+Snapshot ID: `AAAAALU7UALrbpu+OG8JuFSMmbRzx0wB`

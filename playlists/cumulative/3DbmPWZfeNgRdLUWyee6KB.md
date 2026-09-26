@@ -4,7 +4,7 @@
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-1,526 songs - 3 day 16 hr 53 min
+1,529 songs - 3 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [321 \(Self\-Destruct\)](https://open.spotify.com/track/5UkH8DqReMbDEb5VrnhQ9U) | [Jessie Alexandra](https://open.spotify.com/artist/6Qx6xEgIkrAc6GMu9uJ9b7) | [321 \(Self\-Destruct\)](https://open.spotify.com/album/3s7n1PPX8T37zbJzk0xrVd) | 3:16 | 2026-03-07 | 2026-04-12 |
 | [4AM Courtroom](https://open.spotify.com/track/7yY2TlWZxwzEZJq0yXUJNL) | [MUAD](https://open.spotify.com/artist/7quXFbhtUmwBWx6NvxyqSv) | [4AM Courtroom](https://open.spotify.com/album/3gYd4Np0DyBtRBM9YvShMv) | 4:06 | 2026-06-29 | 2026-08-10 |
 | [4thegirl](https://open.spotify.com/track/0K2X58uhUSfVCpPy2H8bl5) | [Velcro Scars](https://open.spotify.com/artist/51nu35m42ANVB85bNip6jy) | [Random Acts of Cynicism](https://open.spotify.com/album/51QpH5x3KiOnybwi7yPKXF) | 4:15 | 2025-12-15 | 2026-01-15 |
+| [6 Feet Calling](https://open.spotify.com/track/0t2E3v2usQGCeWIo9uZI22) | [Marc Biala](https://open.spotify.com/artist/6LLoUeo7ZlkB1Sy5yIlVSg) | [6 Feet Calling](https://open.spotify.com/album/2SVcutqdmS9LjNMCpN6tQS) | 3:09 | 2026-09-25 |  |
 | [6 P.M\. \- Sped Up + Reverbed](https://open.spotify.com/track/13c4SLMyy8znHwt61koe4Z) | [t\-WIN](https://open.spotify.com/artist/5iD7Mz3QWvVuXXXpHXlk2s) | [6 P.M\. \(Sped Up + Reverbed\)](https://open.spotify.com/album/5rYYBjP2VsETOIm13VcJ5H) | 3:42 | 2026-01-14 | 2026-02-20 |
 | [7 Minuti](https://open.spotify.com/track/79OfypttlVnnEevErh7JYo) | [David Monni](https://open.spotify.com/artist/0yL1F00rnkzQbRlb4FBmRx) | [7 Minuti](https://open.spotify.com/album/0AXg8MfBadPBzKIh9KQUhV) | 2:46 | 2026-09-04 |  |
 | [7 Wonder](https://open.spotify.com/track/2jEa1Hi7nMl4B8LT5yjThF) | [Necrovaye](https://open.spotify.com/artist/0dkN0O2ZrD4FTbEe8beISY) | [7 Wonder](https://open.spotify.com/album/2PVcfUE6GTbR4K8urqQcF0) | 2:29 | 2026-01-31 | 2026-02-28 |
@@ -202,6 +203,7 @@
 | [Can you call?](https://open.spotify.com/track/4v4g7aRNtY7kk46Q6ihguu) | [ZLAKE](https://open.spotify.com/artist/7pOE66jgzr7TmtbBIuaYwz) | [Can you call?](https://open.spotify.com/album/4KJ3VplFhO9gCQOGyhPJ5Y) | 2:45 | 2026-01-04 | 2026-02-03 |
 | [Can't Afford](https://open.spotify.com/track/3C7jGdj30dbakH85r90O8E) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [Avaraj](https://open.spotify.com/artist/6LTM1sXyyToaTPdm4B4WDC) | [Can't Afford](https://open.spotify.com/album/5jELC4QrFypNhPUt7VoZX4) | 3:41 | 2026-06-09 | 2026-07-19 |
 | [Can't Love The Same](https://open.spotify.com/track/1HbvcX1TViUOHiBoOnzYe6) | [Mckai](https://open.spotify.com/artist/4emtw8l93u2ub1FdLdnm5X) | [Can't Love The Same](https://open.spotify.com/album/2Wzq5NDBI0oHO54NgmVmLa) | 4:04 | 2026-03-24 | 2026-04-22 |
+| [Can't Stand NYC](https://open.spotify.com/track/7gVdfmpT4QqiChqDg7cjIl) | [Gavi](https://open.spotify.com/artist/2d0jjFNfxymeaYSoqitB85) | [Can't Stand NYC](https://open.spotify.com/album/4HT4XYDRp8TbL6GvvcLPCv) | 3:19 | 2026-09-25 |  |
 | [Candida Neve \- feat\. Maria Legato](https://open.spotify.com/track/4OVmWmGPrg3c6JryuwnpOf) | [Angelo Ceriani](https://open.spotify.com/artist/528oQIO898zLSZD9ZjDw5H) | [Canzoni Contromano](https://open.spotify.com/album/3nit3Sz2i15P8Kf4BZUDII) | 4:25 | 2025-10-02 | 2025-11-29 |
 | [Candor](https://open.spotify.com/track/2BZQf1SaFOQvgcEru7euV2) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [Haze](https://open.spotify.com/album/0UWOt7EEXl2rOz7YPynmmn) | 3:37 | 2025-12-16 | 2026-04-22 |
 | [Canzone di A](https://open.spotify.com/track/28it4WzTeD37iacjUxiKJG) | [Claudio Bassi](https://open.spotify.com/artist/5ybJ724whrlsUYrHiJAJf7) | [Canzone di A](https://open.spotify.com/album/3a2pFbCjSspfvZmP7BPBLS) | 4:59 | 2025-12-10 | 2026-01-05 |
@@ -946,6 +948,7 @@
 | [On My Way](https://open.spotify.com/track/5SajpJwLg8EFpHJ9dWUSDG) | [Snow64](https://open.spotify.com/artist/3FdWAAR7crFASn2OhxrujQ) | [On My Way](https://open.spotify.com/album/5tWElJ2aG2MSjd7XFwR8A9) | 3:18 | 2026-06-11 | 2026-07-19 |
 | [On your own](https://open.spotify.com/track/1PTZG1VSxy7VD4hAJWV63r) | [James Steam](https://open.spotify.com/artist/022t0zHvSLUwpaTE9AaMyc) | [On your own](https://open.spotify.com/album/5pQLzyWN1FXBt48ef2k1Zk) | 3:49 | 2026-09-16 |  |
 | [Once More Again \(Promo\)](https://open.spotify.com/track/6te6JY4BzKxhDPxjdru98T) | [Karyttah](https://open.spotify.com/artist/17QfBgyjtw9q54wXpTkXKu) | [Once More Again](https://open.spotify.com/album/2iK2jSzblXqV1SSozzXQU8) | 3:47 | 2026-07-06 | 2026-08-10 |
+| [Once Upon a Time](https://open.spotify.com/track/77Ypdobls6qY06nEKS727G) | [The Marica Frequency](https://open.spotify.com/artist/0s9He55onisVMQR4FVMWm0) | [The Clone](https://open.spotify.com/album/1FxRojzhFPsMqXMPagDBBs) | 4:13 | 2026-09-25 |  |
 | [One Big Love](https://open.spotify.com/track/1TacV2Z6hOXpC0Wxm4GeVx) | [Maria Maltseva](https://open.spotify.com/artist/19a7inyeBBxVwWxFY1n5Lf) | [One Big Love](https://open.spotify.com/album/5wEsY96xkxGfqsmoUM6Un6) | 3:45 | 2025-12-22 | 2026-01-24 |
 | [One Day I Turned Green](https://open.spotify.com/track/4UKLM7ILJLJoMXmXi3wJzy) | [Ralph Escava](https://open.spotify.com/artist/2cCoLEiISTVexQpjlAaohG) | [One Day I Turned Green](https://open.spotify.com/album/5K1Sne4ScDrCHUe0rh1C4H) | 3:25 | 2026-03-26 | 2026-04-22 |
 | [One I Choose](https://open.spotify.com/track/4AviqYGbYeoyrV9fFTMr0j) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [Avaraj](https://open.spotify.com/artist/6LTM1sXyyToaTPdm4B4WDC) | [One I Choose](https://open.spotify.com/album/0BcaHDbCaRgVQYmyEYdaJL) | 2:34 | 2026-08-25 | 2026-09-20 |

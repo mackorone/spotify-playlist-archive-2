@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-624 songs - 1 day 13 hr 24 min
+625 songs - 1 day 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,6 +530,7 @@
 | [That Feeling](https://open.spotify.com/track/2Ysz3zB0xV1w96CxhYq0bR) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [That Feeling](https://open.spotify.com/album/236G8bErE6jhTq1i912HQ9) | 4:22 | 2023-03-24 | 2023-05-06 |
 | [That's All I Wanted From You](https://open.spotify.com/track/6KPPfdQTxqmpt4Mr1RU09o) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [That's All I Wanted From You](https://open.spotify.com/album/5YMTxJYMulSFqd6kHpn14U) | 2:36 | 2023-07-28 | 2024-02-24 |
 | [That's How Love Is Made](https://open.spotify.com/track/1BIX2BQa6BroVxG6O97UWk) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [That's How Love Is Made](https://open.spotify.com/album/7jEsDY3DfzPI2MRJaOyZdP) | 3:46 | 2022-08-26 | 2024-01-13 |
+| [The Business](https://open.spotify.com/track/3rzPft7vs6rWxOQB0W8DDC) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw), [Mike James Kirkland](https://open.spotify.com/artist/7i8I9JnERHRALditUnoC0v) | [The Business](https://open.spotify.com/album/1HVhCcYutNzfpzo0elVbg8) | 3:48 | 2026-09-25 |  |
 | [The Cure](https://open.spotify.com/track/2hHGvBFaHmvrPDixbjsjPl) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [The Cure](https://open.spotify.com/album/38qkz7KdPXntMxHpsQQI6U) | 3:16 | 2026-01-09 | 2026-08-01 |
 | [The Greatest](https://open.spotify.com/track/5jDsmAYHMfGjIJ6Ytjqjys) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Walk With the Father](https://open.spotify.com/album/7cSExLIJTjo6zN5hpr05TX) | 3:20 | 2025-01-24 |  |
 | [The Light of the Sun](https://open.spotify.com/track/5o6klEdkcOSbzw9E3iHUYy) | [Luqman Frank](https://open.spotify.com/artist/2n9bS9HE2t5dn4sx6d4uAj), [Pep Love](https://open.spotify.com/artist/4onNLSRXS0x0dZaisdMo4E) | [The Light of the Sun](https://open.spotify.com/album/4uQNBaCXO5UIBiK1zpuny2) | 4:20 | 2022-05-13 | 2022-07-28 |
@@ -608,7 +609,7 @@
 | [Without You](https://open.spotify.com/track/2Ex6PBUZ3fsF6slCIiqIdp) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Without You](https://open.spotify.com/album/3WDkQ6nXADxHuZ4c94TqwE) | 2:26 | 2023-09-29 | 2025-07-19 |
 | [Woman \(Single Edit\)](https://open.spotify.com/track/3tW5b01kiWfMJKQWddwPNl) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Woman](https://open.spotify.com/album/5EDZmK0jbWRF7OmgilvMZ8) | 3:02 | 2023-09-01 | 2024-04-19 |
 | [Woman \- Single Edit](https://open.spotify.com/track/4ba1UPL7mNQbU2G2qkDAQF) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Woman](https://open.spotify.com/album/2G3KsJiBi8yJXwoeBG6V4N) | 3:02 | 2023-01-27 | 2024-08-03 |
-| [Won't Be Lonely](https://open.spotify.com/track/1nvQEpehDDOTCOMEoLYpin) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Won't Be Lonely](https://open.spotify.com/album/0oO6jj0i5sZQJS3rI5E3TF) | 3:45 | 2024-09-06 |  |
+| [Won't Be Lonely](https://open.spotify.com/track/1nvQEpehDDOTCOMEoLYpin) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Won't Be Lonely](https://open.spotify.com/album/0oO6jj0i5sZQJS3rI5E3TF) | 3:45 | 2024-09-06 | 2026-09-26 |
 | [Wonderful Love](https://open.spotify.com/track/5pHjmN9vFGPT94ZKtZ1bGN) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0), [MacKenzie](https://open.spotify.com/artist/3RGJj3VbTVH4BOhCNlyWcY) | [Wonderful Love](https://open.spotify.com/album/1vJVEvcpk9fajiz3sj2RYb) | 5:32 | 2026-02-27 | 2026-03-21 |
 | [Wonderland](https://open.spotify.com/track/2ABBvCK4TnSOv8wKJSCVcR) | [Wonder 45](https://open.spotify.com/artist/6k1Qbba3pn2wHLu7A2m95Q), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [Wonderland](https://open.spotify.com/album/3PRqDNpAzwzxAJqHWhL0cS) | 5:40 | 2022-05-06 | 2024-04-19 |
 | [Workin' Man Blues](https://open.spotify.com/track/3oS3jewBr4kDcMbBe4XkSq) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x) | [Down Every Road](https://open.spotify.com/album/4XtyzFCp2tAOynVSQLZMOf) | 3:37 | 2022-05-06 | 2024-04-19 |

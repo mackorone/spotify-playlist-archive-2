@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Kings Elliot
 
-589 songs - 1 day 6 hr 36 min
+591 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Again](https://open.spotify.com/track/4wcLynPZWGPThCEdDUFVMx) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Again](https://open.spotify.com/album/1b2MHBqttHQ5kCDNIfu3PE) | 3:09 | 2024-06-27 | 2026-03-27 |
 | [all night](https://open.spotify.com/track/1eCdTHsE0dek7lKGavN9Z9) | [outofhere](https://open.spotify.com/artist/5Tfwoxw3tFQX7FWxTcX2Rf) | [all night](https://open.spotify.com/album/19WyumxNi7EgpvCspY2t0F) | 2:09 | 2024-11-14 | 2024-12-31 |
 | [Alles was ich will](https://open.spotify.com/track/6UAAkP72FLHWMFmhmxm6rZ) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Alles was ich will](https://open.spotify.com/album/6vqi0ixcuy9pUSlGHFtNRa) | 2:56 | 2024-06-27 | 2024-10-04 |
+| [Alma Mia](https://open.spotify.com/track/0UbHQ7wLwqGetrn2dOVBVc) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Ojos Del Cóndor](https://open.spotify.com/album/2C8ZUoLNFrEO7KzPg03329) | 3:14 | 2026-09-25 |  |
 | [Alright](https://open.spotify.com/track/34GXxkoiX3dTC4GSGFY7xL) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Alright](https://open.spotify.com/album/5lJ5Ns7bIDv0KWoEJUW5xM) | 3:22 | 2024-06-27 | 2024-10-04 |
 | [Ancient](https://open.spotify.com/track/0Rq1Ml0FBjO2NsLVYwfQ5z) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [Ancient](https://open.spotify.com/album/03XKuGjq8upDPtlc5rsLoa) | 3:00 | 2026-06-25 | 2026-07-17 |
 | [Angelina](https://open.spotify.com/track/7diSzKYr6oXl8YlIHfvLrg) | [Dabu Fantastic](https://open.spotify.com/artist/7aaXYTOjKbeCwVxZRXAC24) | [Drinks](https://open.spotify.com/album/05IO5tRFtJE3yDlRbykmdH) | 2:58 | 2025-05-08 | 2025-05-16 |
@@ -239,7 +240,7 @@
 | [Honolulu](https://open.spotify.com/track/5pW5kURQgNzOgNLtYBhFxh) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P), [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [February](https://open.spotify.com/album/1aS4Ymw0GPsZI5sASa0Bq1) | 2:11 | 2025-02-27 | 2025-06-14 |
 | [Horizon](https://open.spotify.com/track/7id2LNfW3yMky5ty7c33Rg) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [Horizon](https://open.spotify.com/album/6OeXythS3OYZPmuWhEbbpq) | 2:52 | 2025-10-24 | 2026-05-08 |
 | [Hot Girl Summer](https://open.spotify.com/track/4DZdj7VuCfbzBg2UPG9oAO) | [Naomi Lareine](https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i) | [Hot Girl Summer](https://open.spotify.com/album/4yPDss2DQlBXN5NZv9MDHV) | 2:42 | 2026-07-09 |  |
-| [House of Glass](https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [House of Glass](https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk) | 3:13 | 2026-07-16 |  |
+| [House of Glass](https://open.spotify.com/track/3KMp7Up1ZUywaY8Xi2ngmE) | [Chiara Castelli](https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33) | [House of Glass](https://open.spotify.com/album/46ICgDFCoxTgciq5BtyDPk) | 3:13 | 2026-07-16 | 2026-09-26 |
 | [House On Fire](https://open.spotify.com/track/3zF1YMoUWaLsjnQgqwRc7K) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf) | [House On Fire](https://open.spotify.com/album/0mYcvsaGweNUTm4HoifK5O) | 2:59 | 2024-06-27 |  |
 | [House On Fire \- Duet Version](https://open.spotify.com/track/3D5RwZZhMiWkI2RrIhyenr) | [Linda Elys](https://open.spotify.com/artist/3uB8CiuJs0I1cDNUaVpdjf), [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5) | [House On Fire \(Duet Version\)](https://open.spotify.com/album/7dH9OmKx2qWo6zGfd9brou) | 2:59 | 2025-05-22 | 2025-08-07 |
 | [How Much Can a Heart Break](https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF) | [Pegasus](https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad) | [How Much Can a Heart Break](https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx) | 3:15 | 2024-10-11 |  |
@@ -313,7 +314,7 @@
 | [Like You Do](https://open.spotify.com/track/2oSQklnarJ2KxcNBr5XB4e) | [Elena Flury](https://open.spotify.com/artist/3Qje1fgX9cfwugPCAG6Uuy) | [Like You Do](https://open.spotify.com/album/57sa9heTy5qcbLqML5Ubj9) | 3:13 | 2025-12-05 | 2026-04-03 |
 | [Linger](https://open.spotify.com/track/3ICWCYXPGnRLXS1iB0SzkR) | [Jamila](https://open.spotify.com/artist/2BvBcx9p9oqzuOzevudbic) | [Linger](https://open.spotify.com/album/2YX2p7h92C7d7ISvDiz5qG) | 4:04 | 2025-02-14 | 2025-04-02 |
 | [Lonely Heart](https://open.spotify.com/track/2Zh86cFwTjfBNYKuKPdLG4) | [Nickless](https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea) | [Lonely Heart](https://open.spotify.com/album/6WkXHcyrGil31J06vRMDF7) | 2:47 | 2026-04-02 | 2026-05-22 |
-| [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 | 2024-10-03 |  |
+| [Long Year](https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Long Year](https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI) | 3:16 | 2024-10-03 | 2026-09-26 |
 | [Los Dos](https://open.spotify.com/track/58189tJfGnaAZtNKFStQVp) | [Cachita](https://open.spotify.com/artist/6CzgU7GybLlPawV1SVBc1V) | [Los Dos](https://open.spotify.com/album/5w88ova33Eob6q7EbeBn0G) | 2:56 | 2024-07-04 | 2024-08-06 |
 | [Los Ojos Del Cóndor](https://open.spotify.com/track/7kDWwFekRc1ZlzNX0VTjfr) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Ojos Del Cóndor](https://open.spotify.com/album/02rGEcmUxEmRaj1296jdlQ) | 3:32 | 2026-07-09 |  |
 | [Lose Control](https://open.spotify.com/track/0Jwvr34wPba4TA2B5Z6PSr) | [ANIKK](https://open.spotify.com/artist/2wvznrRx5MZ2qwqRJPYNmN) | [Lose Control](https://open.spotify.com/album/1kELQM73NVUWomyg32wXJ7) | 2:55 | 2025-06-13 | 2025-07-16 |
@@ -529,12 +530,13 @@
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 | 2025-09-20 |
 | [trop tard](https://open.spotify.com/track/7FcgfdaESPyI7MVgItXpob) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [trop tard](https://open.spotify.com/album/4Rhio8XlmhIDdq9CT1fehd) | 2:57 | 2025-07-10 | 2025-07-30 |
 | [Träumer](https://open.spotify.com/track/3zZT2tVOOvoeXhCXHXwLxe) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Träumer](https://open.spotify.com/album/2yxljgT0voJDYx4vQUq7Hi) | 3:29 | 2025-05-08 | 2025-05-16 |
-| [Twenty Something](https://open.spotify.com/track/6S5TA6mJyIll0WF1lD23bL) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [20 SOMETHING IS A F\*CKING STRANGE PLACE](https://open.spotify.com/album/5aW1dSPLvETJtyMzsG0Wws) | 2:48 | 2026-09-17 |  |
+| [Twenty Something](https://open.spotify.com/track/6S5TA6mJyIll0WF1lD23bL) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [20 SOMETHING IS A FUCKING STRANGE PLACE](https://open.spotify.com/album/5aW1dSPLvETJtyMzsG0Wws) | 2:48 | 2026-09-17 |  |
 | [Type Of Way](https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Type Of Way](https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj) | 3:14 | 2026-02-19 |  |
 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 | 2024-06-27 | 2025-09-13 |
 | [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-02-07 |  |
 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-15 | 2026-01-31 |
 | [Valse à Demi](https://open.spotify.com/track/5gfb1OANgI7roumlmuYo0x) | [Zoë Më](https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN), [Stephan Eicher](https://open.spotify.com/artist/29My6ypNwcVp0mjpy3sX2E) | [Valse à Demi](https://open.spotify.com/album/5imqbp4UGgNwRUftlTjUIR) | 2:42 | 2026-02-12 |  |
+| [Vergessen](https://open.spotify.com/track/5bABCHSlFAsetJuWHAa8Tt) | [Seulfa](https://open.spotify.com/artist/7bbqldmfBkBtAyjjBVs4xA) | [Vergessen](https://open.spotify.com/album/6dn2tNWfhTNLhql28OKTLZ) | 2:18 | 2026-09-25 |  |
 | [Versailles](https://open.spotify.com/track/1RLRhYJBhzwhV3YmHWaeXn) | [Sivilian](https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI) | [Versailles](https://open.spotify.com/album/4K6V5ncucugpMxxM9zqYBI) | 2:35 | 2026-04-16 | 2026-04-24 |
 | [Vertigo](https://open.spotify.com/track/3YkE77dWOcXPsIgS1l3mt9) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [Vertigo](https://open.spotify.com/album/0rSDcqU0vw2PuzITmk9gGx) | 2:47 | 2026-05-28 |  |
 | [Vibe](https://open.spotify.com/track/0K8zPoD9XCfHt1Q2qVGmq2) | [Marc Sway](https://open.spotify.com/artist/5czVIm17rZyNTdUdD6yY7w) | [Vibe](https://open.spotify.com/album/1aglfhSGUMbBBU3OGkw5y0) | 3:00 | 2024-07-04 | 2024-08-28 |

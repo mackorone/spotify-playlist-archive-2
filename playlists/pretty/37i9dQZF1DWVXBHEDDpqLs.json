@@ -1,12 +1,12 @@
 {
   "description": "the best underground club tracks \u2764\ufe0f\u200d\ud83d\udd25 ft. BIIANCO \u2764\ufe0f\u200d\ud83d\udd25",
-  "num_followers": 74948,
+  "num_followers": 74969,
   "original_name": "Club Culture",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADgwGpuzj2prltrUR28Ig32R/qBE",
+  "snapshot_id": "AAAAAPOVHRcQWn0PeROyIZHhAdE91/lr",
   "tracks": [
     {
       "added_at": "2026-08-21 17:13:23",
@@ -23,6 +23,26 @@
       "duration_ms": 195208,
       "name": "where_the_drummer_at?",
       "url": "https://open.spotify.com/track/6pwFszXCXChNmckOdoJA8c"
+    },
+    {
+      "added_at": "2026-09-25 04:02:27",
+      "album": {
+        "name": "INEEDTHAT",
+        "url": "https://open.spotify.com/album/2RHq9iKZCjdap8mo1DUgwy"
+      },
+      "artists": [
+        {
+          "name": "LATINCORE",
+          "url": "https://open.spotify.com/artist/6sg6SLjh4mTB5wum57eHId"
+        },
+        {
+          "name": "CRRDR",
+          "url": "https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "INEEDTHAT",
+      "url": "https://open.spotify.com/track/7kTR7m0sRmqnoee1Djjf7N"
     },
     {
       "added_at": "2026-09-18 04:02:28",
@@ -73,6 +93,22 @@
       "url": "https://open.spotify.com/track/0HPfpyY5gE1YzJ57X0xRzb"
     },
     {
+      "added_at": "2026-09-25 04:02:27",
+      "album": {
+        "name": "Gi Mi Keys Back / Auto Fake",
+        "url": "https://open.spotify.com/album/3eu159bVtGJ1ErAmIXdgt1"
+      },
+      "artists": [
+        {
+          "name": "Blawan",
+          "url": "https://open.spotify.com/artist/64kN9EkSTHYhda2FupL0KI"
+        }
+      ],
+      "duration_ms": 173936,
+      "name": "Auto Fake",
+      "url": "https://open.spotify.com/track/369pfKXBOmzv4OoRdNyGlR"
+    },
+    {
       "added_at": "2026-06-25 22:01:45",
       "album": {
         "name": "Cutting Thread",
@@ -93,28 +129,48 @@
       "url": "https://open.spotify.com/track/3fRURTdeiyrZMRKpyFtDbE"
     },
     {
-      "added_at": "2026-09-18 04:02:28",
+      "added_at": "2026-09-25 04:02:27",
       "album": {
-        "name": "3CORE",
-        "url": "https://open.spotify.com/album/3BOsf6qIqt5H8jJ2IQvNXo"
+        "name": "Sur",
+        "url": "https://open.spotify.com/album/3HmAosekRsMDhHTSD1erV8"
       },
       "artists": [
         {
-          "name": "CRRDR",
-          "url": "https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I"
+          "name": "Flash Gea",
+          "url": "https://open.spotify.com/artist/0bKc2cidr688jnhiPtgFEL"
         },
         {
-          "name": "Freebot",
-          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+          "name": "Eliangel",
+          "url": "https://open.spotify.com/artist/2O6bkbT1rbraCDdRKT9nPA"
         },
         {
-          "name": "Jo\u00e3o L\u00e1grima de Ouro",
-          "url": "https://open.spotify.com/artist/5bmcpwBSIz0TdjLVafaaWJ"
+          "name": "sonofmidi",
+          "url": "https://open.spotify.com/artist/1tnP9400Env59A6rbSAcjA"
         }
       ],
-      "duration_ms": 231724,
-      "name": "3CORE",
-      "url": "https://open.spotify.com/track/3rL8G2PhfWixppqcVDSvth"
+      "duration_ms": 181004,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/7JyMa5bp68fsJxtNoUFSVW"
+    },
+    {
+      "added_at": "2026-09-25 04:02:27",
+      "album": {
+        "name": "Boogey",
+        "url": "https://open.spotify.com/album/1tjpSO1AmmWTbCznuDOhla"
+      },
+      "artists": [
+        {
+          "name": "Wantigga",
+          "url": "https://open.spotify.com/artist/6jAydcjNjyqbeVY9LU6ImF"
+        },
+        {
+          "name": "DANN",
+          "url": "https://open.spotify.com/artist/5eKnOOwjFpzE4Wy42WuF0q"
+        }
+      ],
+      "duration_ms": 273043,
+      "name": "Boogey",
+      "url": "https://open.spotify.com/track/1QptaTSWHnqBrjL91p2r95"
     },
     {
       "added_at": "2026-09-04 04:01:33",
@@ -153,6 +209,22 @@
       "url": "https://open.spotify.com/track/3U6fC3lXQ1Tc7taKmWIujJ"
     },
     {
+      "added_at": "2026-09-25 04:02:27",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2kKNSLMbIQ3InaKKRkGmIj"
+      },
+      "artists": [
+        {
+          "name": "OBLQ",
+          "url": "https://open.spotify.com/artist/6M8AKWzvTH1HvTSdvAFsF8"
+        }
+      ],
+      "duration_ms": 228250,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/7D8yRzQXkDdDr3CQ7UX6An"
+    },
+    {
       "added_at": "2026-09-18 04:02:28",
       "album": {
         "name": "Niche Flex EP",
@@ -175,6 +247,46 @@
       "duration_ms": 205104,
       "name": "Run It Up",
       "url": "https://open.spotify.com/track/0FeIdgocbmdrBHse3iWxGx"
+    },
+    {
+      "added_at": "2026-09-25 04:02:27",
+      "album": {
+        "name": "Echoed Dafnino (Effy Remix)",
+        "url": "https://open.spotify.com/album/2DJOybraSs6ppWpAPs3vpC"
+      },
+      "artists": [
+        {
+          "name": "Olof Dreijer",
+          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
+        },
+        {
+          "name": "MaMan",
+          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
+        },
+        {
+          "name": "Effy",
+          "url": "https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0"
+        }
+      ],
+      "duration_ms": 268543,
+      "name": "Echoed Dafnino - Effy Remix",
+      "url": "https://open.spotify.com/track/38RFnW1gyBNxwvOIy3o1sG"
+    },
+    {
+      "added_at": "2026-09-25 04:02:27",
+      "album": {
+        "name": "So Not Over You",
+        "url": "https://open.spotify.com/album/4nEuzicU0JYs9prF0k9Vmi"
+      },
+      "artists": [
+        {
+          "name": "Aasthma",
+          "url": "https://open.spotify.com/artist/0oWDC2Rq9mbNIzMxoRpdoc"
+        }
+      ],
+      "duration_ms": 253913,
+      "name": "So Not Over You",
+      "url": "https://open.spotify.com/track/6V3jjz0GdEXYzO0T76shbf"
     },
     {
       "added_at": "2026-09-18 04:02:28",
@@ -227,6 +339,50 @@
       "duration_ms": 157674,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/1dOmFu6b2NQS8vrmhsTdTf"
+    },
+    {
+      "added_at": "2026-09-25 04:02:27",
+      "album": {
+        "name": "NXE 2",
+        "url": "https://open.spotify.com/album/5eGLirFvkBo2YDwIQtxh4v"
+      },
+      "artists": [
+        {
+          "name": "Endgame",
+          "url": "https://open.spotify.com/artist/16M4eU9RDj8zsuVOHXjXhm"
+        },
+        {
+          "name": "Dj Narciso Rsprodu\u00e7\u00f5es",
+          "url": "https://open.spotify.com/artist/417ingGoxN169eXT6TPXg1"
+        }
+      ],
+      "duration_ms": 180954,
+      "name": "Pow",
+      "url": "https://open.spotify.com/track/7naqyftTBtyuSFmF1cTfbC"
+    },
+    {
+      "added_at": "2026-09-18 04:02:28",
+      "album": {
+        "name": "3CORE",
+        "url": "https://open.spotify.com/album/3BOsf6qIqt5H8jJ2IQvNXo"
+      },
+      "artists": [
+        {
+          "name": "CRRDR",
+          "url": "https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I"
+        },
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Jo\u00e3o L\u00e1grima de Ouro",
+          "url": "https://open.spotify.com/artist/5bmcpwBSIz0TdjLVafaaWJ"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "3CORE",
+      "url": "https://open.spotify.com/track/3rL8G2PhfWixppqcVDSvth"
     },
     {
       "added_at": "2026-07-17 04:01:35",
@@ -319,6 +475,22 @@
       "duration_ms": 376241,
       "name": "Speed Queen",
       "url": "https://open.spotify.com/track/3fGJl3D1lKjYDZvK0uNT9j"
+    },
+    {
+      "added_at": "2026-09-25 04:02:27",
+      "album": {
+        "name": "Body Double",
+        "url": "https://open.spotify.com/album/6UHdkFEioHDwYnyJs5NjD2"
+      },
+      "artists": [
+        {
+          "name": "Swami Sound",
+          "url": "https://open.spotify.com/artist/67lCxLQeby3EZcCpig3rII"
+        }
+      ],
+      "duration_ms": 286373,
+      "name": "Body Double",
+      "url": "https://open.spotify.com/track/0lrTl7x7HS40HPhoCvLyK5"
     },
     {
       "added_at": "2026-08-07 04:01:42",
@@ -789,30 +961,6 @@
       "url": "https://open.spotify.com/track/3gMPHzLlWaVfbgop9TypAF"
     },
     {
-      "added_at": "2026-08-21 17:13:23",
-      "album": {
-        "name": "Echoed Dafnino (Pearson Sound Remix)",
-        "url": "https://open.spotify.com/album/4DCNHSfidxHcFpK61aPraT"
-      },
-      "artists": [
-        {
-          "name": "Olof Dreijer",
-          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
-        },
-        {
-          "name": "MaMan",
-          "url": "https://open.spotify.com/artist/4OGMVOTexmW4hEV4bZMX30"
-        },
-        {
-          "name": "Pearson Sound",
-          "url": "https://open.spotify.com/artist/3lN70MoiO9u6b95CsTeB1J"
-        }
-      ],
-      "duration_ms": 309059,
-      "name": "Echoed Dafnino - Pearson Sound Remix",
-      "url": "https://open.spotify.com/track/67Si0YFqgMomIJNbnr88Ga"
-    },
-    {
       "added_at": "2026-07-31 18:01:37",
       "album": {
         "name": "Dissidente",
@@ -897,22 +1045,6 @@
       "url": "https://open.spotify.com/track/6UgJhklY5LNzaRUHyFPKwD"
     },
     {
-      "added_at": "2026-07-31 04:01:30",
-      "album": {
-        "name": "XXXXX",
-        "url": "https://open.spotify.com/album/5L4HUwPtyxAoW27leVlZql"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 138118,
-      "name": "Taconeando",
-      "url": "https://open.spotify.com/track/4pmcdJ8a2eMRi2MxxBnjGJ"
-    },
-    {
       "added_at": "2026-08-21 17:13:23",
       "album": {
         "name": "TI",
@@ -977,22 +1109,6 @@
       "url": "https://open.spotify.com/track/53fmJmJRNaL4gpglopAs2S"
     },
     {
-      "added_at": "2026-07-24 04:02:18",
-      "album": {
-        "name": "YO DJ!",
-        "url": "https://open.spotify.com/album/7o6yQ5kBfVoVrqEfaLn7iP"
-      },
-      "artists": [
-        {
-          "name": "888hz",
-          "url": "https://open.spotify.com/artist/48Rx7rQqiZOX7GcxwSqxUy"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "YO DJ!",
-      "url": "https://open.spotify.com/track/0azjekivc46pZrwn1z4vnY"
-    },
-    {
       "added_at": "2026-08-07 04:01:42",
       "album": {
         "name": "Ramos (Verraco Reshape)",
@@ -1013,22 +1129,6 @@
       "url": "https://open.spotify.com/track/2AqkO83vEJOXlw24ZY4GjU"
     },
     {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "stop&watch",
-        "url": "https://open.spotify.com/album/1LrxigYCruS0fxgjKXsDnp"
-      },
-      "artists": [
-        {
-          "name": "cu.rve",
-          "url": "https://open.spotify.com/artist/6XtSmVWB7PJ1cC7uPise32"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "stop&watch",
-      "url": "https://open.spotify.com/track/2UfHZghoano6GlB1WkSz60"
-    },
-    {
       "added_at": "2026-07-31 04:01:30",
       "album": {
         "name": "Bang",
@@ -1043,26 +1143,6 @@
       "duration_ms": 200000,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1jTYIQTzD0eDoaZ6jdrXFf"
-    },
-    {
-      "added_at": "2026-07-31 04:01:30",
-      "album": {
-        "name": "VIKI VIKI",
-        "url": "https://open.spotify.com/album/1kqEki6s96Zqm45qdWt3Of"
-      },
-      "artists": [
-        {
-          "name": "\u68ee",
-          "url": "https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I"
-        },
-        {
-          "name": "KVGGLV",
-          "url": "https://open.spotify.com/artist/5OHEsmlG3h8uYCTi08UktJ"
-        }
-      ],
-      "duration_ms": 165992,
-      "name": "VIKI VIKI",
-      "url": "https://open.spotify.com/track/5aV3XsFfELEKhLEVWmioVI"
     },
     {
       "added_at": "2026-07-17 04:01:35",
@@ -1459,26 +1539,6 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
-        "name": "Loud Bloom",
-        "url": "https://open.spotify.com/album/2I8Y2r289lu5s26k50N9GL"
-      },
-      "artists": [
-        {
-          "name": "Olof Dreijer",
-          "url": "https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0"
-        },
-        {
-          "name": "Toya Delazy",
-          "url": "https://open.spotify.com/artist/4I0iGnuW9JgdWr6WsFIHj5"
-        }
-      ],
-      "duration_ms": 330456,
-      "name": "Makwande",
-      "url": "https://open.spotify.com/track/2R1HELgpU9wWWGDkM4upw5"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
         "name": "FIESTA",
         "url": "https://open.spotify.com/album/04cR0wP3saPJ7rBlI96V9h"
       },
@@ -1563,22 +1623,6 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
-        "name": "I Run",
-        "url": "https://open.spotify.com/album/1OqoUSGEahlRVGCP0psqzc"
-      },
-      "artists": [
-        {
-          "name": "GiGi FM",
-          "url": "https://open.spotify.com/artist/2I64l1qh83iqkQ3cLRGcPi"
-        }
-      ],
-      "duration_ms": 256941,
-      "name": "I Run",
-      "url": "https://open.spotify.com/track/1FGZWChOuxP6L0dfe5SO7j"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
         "name": "HAUSDOGS002",
         "url": "https://open.spotify.com/album/3r1BpQo7z9yWx8DHRqESxc"
       },
@@ -1647,26 +1691,6 @@
     {
       "added_at": "2026-06-25 22:01:45",
       "album": {
-        "name": "TVNKVNTVN",
-        "url": "https://open.spotify.com/album/0GH61kIFR6vpFHHz2l1e9y"
-      },
-      "artists": [
-        {
-          "name": "AMANTRA",
-          "url": "https://open.spotify.com/artist/3iFlEeHFzJ6kyvQiBg58vc"
-        },
-        {
-          "name": "Genosidra",
-          "url": "https://open.spotify.com/artist/6Y3JaYmXupDH2NZHSyQjUB"
-        }
-      ],
-      "duration_ms": 240610,
-      "name": "Chambapie",
-      "url": "https://open.spotify.com/track/2cyW4j1MdpPBQaPkiD4vgK"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
         "name": "Dance Tripping",
         "url": "https://open.spotify.com/album/3pAR92LCwkqtnDDmXawYP6"
       },
@@ -1715,22 +1739,6 @@
       "duration_ms": 210648,
       "name": "Problem - Edit",
       "url": "https://open.spotify.com/track/5QSNTp0H314gASHR10ompw"
-    },
-    {
-      "added_at": "2026-06-25 22:01:45",
-      "album": {
-        "name": "G\u00cdRIA",
-        "url": "https://open.spotify.com/album/4LPcwAvRQ5GxCd9SzBdJM8"
-      },
-      "artists": [
-        {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
-        }
-      ],
-      "duration_ms": 218665,
-      "name": "S\u00d3 ENVOLVIDO",
-      "url": "https://open.spotify.com/track/11naxpG1sUd891hzW1QPW9"
     },
     {
       "added_at": "2026-06-25 22:01:45",

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vyshak Varma",
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sagar Simha",
   "name": "Kannada Indie",
   "tracks": [
+    {
+      "album": {
+        "name": "Mic-Check - The EP",
+        "url": "https://open.spotify.com/album/1GnzVqRzEGNttLQbwBNwid"
+      },
+      "artists": [
+        {
+          "name": "SAYAAMI",
+          "url": "https://open.spotify.com/artist/0HMNFcsMEkswrmPofzoEd1"
+        },
+        {
+          "name": "JK Jeevan",
+          "url": "https://open.spotify.com/artist/4kbyeO6aMAe0l2NTyQJHsO"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163960,
+      "name": "#Bengaluru",
+      "url": "https://open.spotify.com/track/1o8dFTiLltqbZApHAEgunP"
+    },
     {
       "album": {
         "name": "#OooSHT - Heart Break With Attitude",
@@ -64,6 +86,24 @@
       "duration_ms": 168000,
       "name": "6ne Crossu",
       "url": "https://open.spotify.com/track/7C3DQb695Vt7vBcPTiSeOK"
+    },
+    {
+      "album": {
+        "name": "75 SQFT",
+        "url": "https://open.spotify.com/album/4SF0DRdhbBEPWthD2lgZqW"
+      },
+      "artists": [
+        {
+          "name": "Rohit Kavishetti",
+          "url": "https://open.spotify.com/artist/3FnYliY1kgBHVbTrRir0YK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175771,
+      "name": "75 SQFT",
+      "url": "https://open.spotify.com/track/1SmgC5MhifuVUddVLGxx6J"
     },
     {
       "album": {
@@ -1247,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Baaradhura hudukutha",
+        "url": "https://open.spotify.com/album/5hyNL1Xvcg6RXVzCaTvM70"
+      },
+      "artists": [
+        {
+          "name": "Gagan S",
+          "url": "https://open.spotify.com/artist/1Sd4QtJwOTB2eHOpFxh4ev"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269816,
+      "name": "Baaradhura hudukutha",
+      "url": "https://open.spotify.com/track/0KBFeL5Y2XLG7A6b2V1ceo"
+    },
+    {
+      "album": {
         "name": "Baare Banake",
         "url": "https://open.spotify.com/album/1PcxPwTbGTjdaBPcsfEYNJ"
       },
@@ -2008,7 +2066,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 158582,
       "name": "Biddiyabbe Hudugi",
       "url": "https://open.spotify.com/track/7DA7oVlc4kvyBFoQcFfkjr"
@@ -4223,6 +4281,32 @@
     },
     {
       "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/6Dhu79IVReEOdJ8MLsJibT"
+      },
+      "artists": [
+        {
+          "name": "Arhan A Betur",
+          "url": "https://open.spotify.com/artist/737rFWCotTGOPjpllN6Kw4"
+        },
+        {
+          "name": "Hitesh High",
+          "url": "https://open.spotify.com/artist/3rSYZ6tJgkSf15X3Go4Dzb"
+        },
+        {
+          "name": "H18",
+          "url": "https://open.spotify.com/artist/1Eh2sOlDATyNUt19twP1x3"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174064,
+      "name": "GOLDEN",
+      "url": "https://open.spotify.com/track/0LR0fbUDL6Av3WWCWEDyib"
+    },
+    {
+      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac"
       },
@@ -6152,7 +6236,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 468946,
       "name": "Kaas Akkana Magala Nanna Marathaala",
       "url": "https://open.spotify.com/track/3rp5ZDnfjj0Rs5uloDWVpb"
@@ -6294,7 +6378,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 184286,
       "name": "Kanasalu Manasalu",
       "url": "https://open.spotify.com/track/1H7CAkLj5GC8KrN6aSdB3u"
@@ -6610,7 +6694,7 @@
       ],
       "date_added": "2026-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 217794,
       "name": "Kannalli Ninna Bimba",
       "url": "https://open.spotify.com/track/6BqMKYbSjJBpQpsrnOuC8a"
@@ -9739,6 +9823,24 @@
     },
     {
       "album": {
+        "name": "Nannee Preethiya",
+        "url": "https://open.spotify.com/album/48DuHBIP1Lft47cNI1ACU6"
+      },
+      "artists": [
+        {
+          "name": "Shaunbhogmusic",
+          "url": "https://open.spotify.com/artist/2j1jUQaGT4CBcnrTjjHn5l"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271808,
+      "name": "Nannee Preethiya",
+      "url": "https://open.spotify.com/track/4q9gGRitAUpn6GLPwRvpJi"
+    },
+    {
+      "album": {
         "name": "Nannobba Driver Ni Nanna Lover",
         "url": "https://open.spotify.com/album/3JMDS8RMXFvdF7253hBfby"
       },
@@ -9878,7 +9980,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 144812,
       "name": "Nanu Ninna Gungalle",
       "url": "https://open.spotify.com/track/3A1SlGPj1dd5AWHyUYOKhx"
@@ -11044,7 +11146,7 @@
       ],
       "date_added": "2026-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 163500,
       "name": "Ninna Notavu",
       "url": "https://open.spotify.com/track/33W4mZI2Kd4sye4K65Pf0r"
@@ -12092,6 +12194,28 @@
       "duration_ms": 352340,
       "name": "Plz Worry",
       "url": "https://open.spotify.com/track/2AUqf4UqfXOfVH1LwpDOO5"
+    },
+    {
+      "album": {
+        "name": "ODE",
+        "url": "https://open.spotify.com/album/4MFrPHwwFx8sl3wjo65qEg"
+      },
+      "artists": [
+        {
+          "name": "VASISHTH",
+          "url": "https://open.spotify.com/artist/1eWxBV40zpTCctUrYjTwAg"
+        },
+        {
+          "name": "ASTITVA G",
+          "url": "https://open.spotify.com/artist/4pnTXsX8jy7xqOuLEq95Cr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97343,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/6qtXDtOxLjAddaAggYGq9n"
     },
     {
       "album": {
@@ -13626,7 +13750,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 186349,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/7tcV3DIXfskGfPj6u37GFb"
@@ -14708,6 +14832,24 @@
       "duration_ms": 113749,
       "name": "Vone Vone",
       "url": "https://open.spotify.com/track/0bs8ek0Ua5gjoaGc9Rkgjg"
+    },
+    {
+      "album": {
+        "name": "Vyartha Prayathna",
+        "url": "https://open.spotify.com/album/7p3EUCFtcCOUevhOWQvre7"
+      },
+      "artists": [
+        {
+          "name": "Karna",
+          "url": "https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176628,
+      "name": "Vyartha Prayathna",
+      "url": "https://open.spotify.com/track/4B4zqffgHsgI9OOR4QVXFp"
     },
     {
       "album": {

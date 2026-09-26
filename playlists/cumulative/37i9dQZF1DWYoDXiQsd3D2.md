@@ -4,7 +4,7 @@
 
 > look up, dream on, drift off...
 
-282 songs - 17 hr 58 min
+283 songs - 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Ariana](https://open.spotify.com/track/1ey4hhMVl1Tv9MK1y44tS0) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Ariana](https://open.spotify.com/album/5TysTo9f3n0XboUEI6qwEI) | 9:17 | 2022-01-05 | 2022-05-12 |
 | [As I Was \- Slow Meadow Rework](https://open.spotify.com/track/6ehQALaN51xzpm33QcA6YN) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [As I Was \(Slow Meadow Rework\)](https://open.spotify.com/album/6OhNDRA0Apui78ns2L6yzi) | 5:05 | 2022-04-26 |  |
 | [Attic](https://open.spotify.com/track/4vPDNfSJzweq5EVYukI0vi) | [Paul Herfort](https://open.spotify.com/artist/7m2yuNYMuLBtNgcHh9yBpl) | [Attic](https://open.spotify.com/album/1P3Iibn0vhn8SRIBJX248f) | 1:47 | 2022-07-27 |  |
+| [Auguries of Innocence: II\. When the Soul Slept](https://open.spotify.com/track/0VlX8uytfIe4pKt76cwSDV) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [Jess Gillam](https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB) | [Whitacre, Gillam: Auguries of Innocence: II\. When the Soul Slept](https://open.spotify.com/album/3qHoHWGWyXhB4LlBnpGbnK) | 4:54 | 2026-09-25 |  |
 | [Auguries of Innocence: V\. Of Innocence](https://open.spotify.com/track/3JZM8EE5R34V43oJGDnvHF) | [Eric Whitacre](https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL), [IDRA](https://open.spotify.com/artist/2hESzaxeYE9Iecec5TwYCH) | [Auguries of Innocence: V\. Of Innocence](https://open.spotify.com/album/6MiQzxRbmiIsTD5Bdr9neD) | 5:00 | 2026-08-28 |  |
 | [Aurora](https://open.spotify.com/track/41VwA66JSS45VlgYtXLfEH) | [Jacob Pavek](https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5), [BLOMMA](https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x) | [BLOMMA](https://open.spotify.com/album/2g0Uo6fJuPWOS6O5PtBTbk) | 4:25 | 2022-01-05 | 2022-07-29 |
 | [Aurora](https://open.spotify.com/track/7fIyzIV9JXEBTaBUWFtvtO) | [Jacob Pavek](https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5), [BLOMMA](https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x) | [BLOMMA](https://open.spotify.com/album/3ZkfxERiMWA5EBPqZSLgEc) | 4:25 | 2022-07-28 | 2022-12-07 |

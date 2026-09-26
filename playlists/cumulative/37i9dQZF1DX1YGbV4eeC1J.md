@@ -4,7 +4,7 @@
 
 > What is your love language? Say it in Swahili\.  Cover: D Voice
 
-392 songs - 21 hr 51 min
+392 songs - 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Na Nusu](https://open.spotify.com/track/7jJvxqb67Og9yVDND0FMuV) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Na Nusu](https://open.spotify.com/album/2ZzUdZ3zB29k13CVThLZRd) | 4:23 | 2024-07-18 | 2024-10-04 |
 | [Na Yule](https://open.spotify.com/track/3yXTg2aoTSA2IFo0XfEz8o) | [Ruby](https://open.spotify.com/artist/2ypTfYYhRIQFIYj6bdnKa6) | [Na Yule](https://open.spotify.com/album/2l5qQbYLacq6YJt78xdfZn) | 3:51 | 2022-05-26 | 2023-04-07 |
 | [Naenjoy](https://open.spotify.com/track/4OmM9icKzWnoo4pZC0wqoR) | [Stans](https://open.spotify.com/artist/1rOZ12AaA5RqBYuFpJWJpR) | [Naenjoy](https://open.spotify.com/album/6pBRCq3gGWwFG9oFAG9XmX) | 3:15 | 2026-09-24 |  |
+| [Nahisi Kufa](https://open.spotify.com/track/1b731QaxyB1OfOVzdb88bI) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9), [Christian Bella](https://open.spotify.com/artist/6aozNU9SYbDun9FIhXKZEn) | [KANDA](https://open.spotify.com/album/34KsjXx5WtGnS9v7HsCCxc) | 2:41 | 2026-09-24 |  |
 | [Naisha](https://open.spotify.com/track/5d5bOX4rcX8PaF3KqCKu0D) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Inside Out](https://open.spotify.com/album/305UoRlLjJxe9uJoT2GUnR) | 3:01 | 2023-06-08 | 2023-09-01 |
 | [Najipenda](https://open.spotify.com/track/0qWmdMX297pBnDSlozN5pl) | [Lony Bway](https://open.spotify.com/artist/2lCSNBa7XKaxqgIlAhGXFJ) | [Najipenda](https://open.spotify.com/album/1o41cWQLB1wgbvtRfmp3f8) | 2:45 | 2026-01-29 |  |
 | [Nakufa](https://open.spotify.com/track/2RzH7ZbIwhGWLy8H07HAB3) | [Okello Max](https://open.spotify.com/artist/4AIr4Ly0nJMjtcRg46naSp), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Amlyoto](https://open.spotify.com/artist/5X2uImif1VgMwjoNgzAkEP) | [Nakufa](https://open.spotify.com/album/2CWz097A1H3bExt8pHnaiH) | 4:55 | 2022-05-26 | 2024-03-01 |
@@ -342,7 +343,6 @@
 | [Tiririka](https://open.spotify.com/track/0cjQ4PR7bYMXl2GWMIRlAm) | [Yammi](https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK) | [Tiririka](https://open.spotify.com/album/2KQwOdsGxPTILQpk5ny7nB) | 3:47 | 2024-03-14 | 2024-03-22 |
 | [Toto \(feat\. Barnaba\)](https://open.spotify.com/track/29ZyUgbWQpQOoF0j9PPBiH) | [Nasha Travis](https://open.spotify.com/artist/12GFIGAtiAebsorhhWq7Fr), [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks) | [Toto \(feat\. Barnaba\)](https://open.spotify.com/album/0j9QtYqhQwm5fcjgwFfK0A) | 3:39 | 2024-10-31 | 2025-07-25 |
 | [Touch](https://open.spotify.com/track/6LhhKqI7A7Pyn6TQp0KqNq) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Touch](https://open.spotify.com/album/2yBzGSKc9W0KyTb7fwowhW) | 3:45 | 2026-08-13 |  |
-| [Track 2](https://open.spotify.com/track/1b731QaxyB1OfOVzdb88bI) | [Mocco Genius](https://open.spotify.com/artist/0qR7Js4rYymyutq0Sh8Fz9) | [KANDA](https://open.spotify.com/album/34KsjXx5WtGnS9v7HsCCxc) | 0:00 | 2026-09-24 |  |
 | [Trouble](https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Trouble](https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS) | 3:25 | 2023-06-15 | 2023-11-07 |
 | [Tulia Na Mimi \(feat\. Jay Melody\)](https://open.spotify.com/track/53rL8Pf3wxrrYHK3PzmFJZ) | [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a), [Jay Melody](https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70) | [Take Away The Pain](https://open.spotify.com/album/0CE8TePq8l9R9VppXR9KVo) | 3:09 | 2025-02-06 | 2025-07-05 |
 | [Tunapendana](https://open.spotify.com/track/1oYAE0VoUFgDVfhJKco79y) | [D Voice](https://open.spotify.com/artist/1IHsv9k444AnzTuju82Asm), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Tunapendana](https://open.spotify.com/album/6zDcz5cPI2rn1ZKbj4Euf2) | 3:35 | 2024-11-22 | 2026-05-01 |

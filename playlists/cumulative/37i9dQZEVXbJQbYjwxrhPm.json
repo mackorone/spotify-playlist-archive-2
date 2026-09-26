@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "AJ",
+        "url": "https://open.spotify.com/album/76ZRXWUswEY2Y6BB6r88yH"
+      },
+      "artists": [
+        {
+          "name": "Tedi Aleksandrova",
+          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204435,
+      "name": "AJ",
+      "url": "https://open.spotify.com/track/7ngzDY91OtjfMoixQrWJNa"
+    },
+    {
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/4x8QsNNRYXFnhC0TSXN2gs"
       },
@@ -2430,7 +2448,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 223448,
       "name": "Dai Dai",
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
@@ -2590,7 +2608,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 248215,
       "name": "Danoto kopay",
       "url": "https://open.spotify.com/track/1NCd6Euj3t2wiYRgPaX162"
@@ -4986,7 +5004,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 174829,
       "name": "Iskam ot teb",
       "url": "https://open.spotify.com/track/2duH4aHmawCOPCayHzlLae"
@@ -5394,7 +5412,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 199053,
       "name": "Kasay",
       "url": "https://open.spotify.com/track/4d8taEOlMp4ckG2OqxOjuW"
@@ -7528,7 +7546,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 209451,
       "name": "Orient Express",
       "url": "https://open.spotify.com/track/5fyieCkRITuBt8EOs47W2f"
@@ -8558,7 +8576,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 223698,
       "name": "Rezhim Neprilichna",
       "url": "https://open.spotify.com/track/1BDsCVdpvuR5qku8n8LUqG"
@@ -11227,6 +11245,24 @@
     },
     {
       "album": {
+        "name": "Edna na milion",
+        "url": "https://open.spotify.com/album/6G4XSAzdkP4fZFdNFqceuj"
+      },
+      "artists": [
+        {
+          "name": "Rayna",
+          "url": "https://open.spotify.com/artist/7dOcrtda9FBmyDlH94mmbx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195896,
+      "name": "Zle te chuvam",
+      "url": "https://open.spotify.com/track/3aw9qQEF3H8oBpaaonkEXd"
+    },
+    {
+      "album": {
         "name": "\u039c\u0397 \u039c\u0395 \u039a\u03a1\u038a\u039d\u0395\u0399\u03a3",
         "url": "https://open.spotify.com/album/1dajQMalLpnTZzD0BJURR0"
       },
@@ -11652,7 +11688,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 217500,
       "name": "\u0412\u0440\u0435\u043c\u0435\u0442\u043e \u043b\u0435\u043a\u0443\u0432\u0430",
       "url": "https://open.spotify.com/track/4kuW4hHAIl9tn8LuFQbAoz"
@@ -11850,7 +11886,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 248000,
       "name": "\u0413\u0440\u0435\u0448\u043d\u0438\u0446\u0438",
       "url": "https://open.spotify.com/track/6W2jsJG6MPPJ6xTWcNEeHr"
@@ -13806,7 +13842,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 190344,
       "name": "\u041f\u0430\u043b\u0430\u0432\u0430 \u0441\u0438",
       "url": "https://open.spotify.com/track/0qEIfEvkXJk0VoBLXL7JXO"
@@ -14938,7 +14974,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-20",
+      "date_removed": null,
       "duration_ms": 230123,
       "name": "\u0425\u043e\u0442\u0435\u043b",
       "url": "https://open.spotify.com/track/0JLwDgYbf88hOMIf3S0kqv"

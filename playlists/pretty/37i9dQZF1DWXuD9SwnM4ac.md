@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: The Moving Stills
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,253 likes - 99 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,253 likes - 99 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 24 | [nicotine](https://open.spotify.com/track/2DDqh8VKrNHo1xtzdydLfA) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [nicotine](https://open.spotify.com/album/7CPreu4yLanbK0BZrJRFoe) | 3:18 |
 | 25 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
 | 26 | [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 |
-| 27 | [Track 7](https://open.spotify.com/track/65PUfUOQar5RswdwXO6S1k) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [The Boathouse](https://open.spotify.com/album/1llsQnSLtlfXtfwrC4Ityx) | 0:00 |
+| 27 | [Thomas](https://open.spotify.com/track/65PUfUOQar5RswdwXO6S1k) | [Lottie McLeod](https://open.spotify.com/artist/5x7MYvI4G0xdrDVVB9T1g9) | [The Boathouse](https://open.spotify.com/album/1llsQnSLtlfXtfwrC4Ityx) | 3:45 |
 | 28 | [Hard Questions](https://open.spotify.com/track/063Agpb94qT1yZlK5jl3qt) | [\#1 Dads](https://open.spotify.com/artist/0RCHY4NGqCJ5GLWCYz2OiI) | [Hard Questions](https://open.spotify.com/album/4ty5EHaGyrGAXzlHBE9yB8) | 4:23 |
 | 29 | [Crab](https://open.spotify.com/track/6v1d0oFmJnq0Md14QjTnAB) | [Pool Girl](https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2) | [Crab](https://open.spotify.com/album/5ciVjsvsNYHZEkUaNZW75B) | 3:15 |
 | 30 | [Puddle](https://open.spotify.com/track/60mjdFiBFsUenV1XYT0yTL) | [Murex](https://open.spotify.com/artist/3v73yV0xtIge5cSlUF0Dby) | [Puddle](https://open.spotify.com/album/4jlBjrMWKu1EapkaLUno4X) | 1:57 |

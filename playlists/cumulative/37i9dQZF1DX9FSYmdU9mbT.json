@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 266302,
       "name": "A Hist\u00f3ria de Lilly Braun - Ao Vivo no Coala Festival",
       "url": "https://open.spotify.com/track/3Wicx68GSz3ctz7WBnOaGe"
@@ -208,6 +208,32 @@
       "duration_ms": 236970,
       "name": "Alian\u00e7a",
       "url": "https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE"
+    },
+    {
+      "album": {
+        "name": "Amigos Novos e Antigos",
+        "url": "https://open.spotify.com/album/1fR9eyUb98QHYIiB5Wz4ms"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Bosco",
+          "url": "https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH"
+        },
+        {
+          "name": "Bruna Black",
+          "url": "https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX"
+        },
+        {
+          "name": "Mestrinho",
+          "url": "https://open.spotify.com/artist/2yAXXiCbFgXSaKcYNioFBx"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276013,
+      "name": "Amigos Novos e Antigos",
+      "url": "https://open.spotify.com/track/4lfemtNyGfHygcrF5C2tg4"
     },
     {
       "album": {
@@ -1146,7 +1172,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 256048,
       "name": "Cors\u00e1rio",
       "url": "https://open.spotify.com/track/5VRY5G4qqb1zic8YbzIf9A"
@@ -2257,6 +2283,28 @@
     },
     {
       "album": {
+        "name": "Elas Cantam Arlindo",
+        "url": "https://open.spotify.com/album/66yRQTSxY2dC2UdflCdjZg"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        },
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206910,
+      "name": "O Que \u00e9 o Amor",
+      "url": "https://open.spotify.com/track/29Ftly2gNWx246MSdIkDZG"
+    },
+    {
+      "album": {
         "name": "O Que \u00c9 Que H\u00e1",
         "url": "https://open.spotify.com/album/5GY5057U8mZPzaqLXZj8Sa"
       },
@@ -2630,7 +2678,7 @@
       ],
       "date_added": "2025-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 224720,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
@@ -2666,7 +2714,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 197866,
       "name": "Quase uma trai\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6xFjoyv5tCdbvrH2gMeZmy"
@@ -3104,7 +3152,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 169813,
       "name": "S\u00e1bado em Copacabana",
       "url": "https://open.spotify.com/track/0WyaicPVGNCpf1VNqespsI"
@@ -3130,7 +3178,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-04",
+      "date_removed": null,
       "duration_ms": 202706,
       "name": "Toda Menina Baiana - Ao Vivo",
       "url": "https://open.spotify.com/track/0drLWHcGw3j6xZKn7zGJ7X"

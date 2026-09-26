@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,495 songs - 2 day 16 hr 20 min
+1,496 songs - 2 day 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1447,6 +1447,7 @@
 | [White Flag](https://open.spotify.com/track/7LgE8ldYlOZwEmYz6p1OjR) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Warm & Cold](https://open.spotify.com/artist/56qZnOS0zqyfUnJzZrsY9E), [THNK](https://open.spotify.com/artist/1JkAomV4XsVMKOGzWdgqnD) | [White Flag](https://open.spotify.com/album/5t29bD3QWgj6DcSR1x2rrN) | 2:09 | 2025-10-26 | 2026-03-16 |
 | [White Flag](https://open.spotify.com/track/649uvcXpUZG504aZF19ilf) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Charming Horses](https://open.spotify.com/artist/5rr0CMtvn1p9Be8ICfkTc3), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [White Flag](https://open.spotify.com/album/4zxa9Gu0z5rIIfbsGb3wfs) | 3:18 | 2023-09-22 | 2025-10-09 |
 | [Who](https://open.spotify.com/track/0iwPDxjMWFudZfAorIfoFE) | [Muwano](https://open.spotify.com/artist/6HZbDlTZVnotgVzuPcYxiX), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Who](https://open.spotify.com/album/6405U2FAPABcdYzk9gixhm) | 2:28 | 2025-03-16 | 2026-01-18 |
+| [Who You Are](https://open.spotify.com/track/0ShEGvZwPUT9PMat6bnWuc) | [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC), [dusk:dawn](https://open.spotify.com/artist/0ovM12PnBmC1MvVXRVeIIe) | [Who You Are](https://open.spotify.com/album/2yl5LeFFWBA1jEg4L6abhi) | 2:14 | 2026-09-25 |  |
 | [Who You Are](https://open.spotify.com/track/6yvFZzhEdkTWpdzuDFRcwr) | [Maréo](https://open.spotify.com/artist/5Pv2JCct27DJTWvUJnbHIY) | [Who You Are](https://open.spotify.com/album/03PWUyoxbqPw6W1uKZL3nK) | 2:24 | 2026-08-06 |  |
 | [Why Do You Love Me](https://open.spotify.com/track/1mLjB8tOLEpPmEkoidt6uk) | [NGTY](https://open.spotify.com/artist/5M7e2oB23MW1a8WIpCdnqh), [Jack Kelly](https://open.spotify.com/artist/1qXQAJC0HsasWQhGI8P1QC), [Kayee](https://open.spotify.com/artist/5q3CwCGqX3ROKpicP2GTFl) | [Why Do You Love Me](https://open.spotify.com/album/7H0pR2JGBg9PuPig7QNUE1) | 3:13 | 2025-12-21 |  |
 | [WHY?](https://open.spotify.com/track/1rQQ16ECybtuu2GrzZHeTx) | [Tanaka](https://open.spotify.com/artist/0RPM0FcHKPOu6ToI6bN4PE), [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz) | [WHY?](https://open.spotify.com/album/7KuRWzZHCwrX9YLIkDrx12) | 2:28 | 2025-06-29 | 2025-12-30 |

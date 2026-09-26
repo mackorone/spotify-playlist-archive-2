@@ -2469,6 +2469,28 @@
     },
     {
       "album": {
+        "name": "Piano Chronicles (Live)",
+        "url": "https://open.spotify.com/album/1yK9i6go10B94r2uH0oyQj"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kit Armstrong",
+          "url": "https://open.spotify.com/artist/1FfN1mD94wKl0ozsfpOD43"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217746,
+      "name": "Erbarm dich mein, o Herre Gott, BWV 721 - Live",
+      "url": "https://open.spotify.com/track/5yYYMovULlwZkyeLOOHQCv"
+    },
+    {
+      "album": {
         "name": "Eternity in an Hour: VIII. In an Hour",
         "url": "https://open.spotify.com/album/3t53lVMYsAnqmvVWbeRF99"
       },
@@ -2539,6 +2561,28 @@
     },
     {
       "album": {
+        "name": "Maxwell Davies: Farewell to Stromness",
+        "url": "https://open.spotify.com/album/29Z8ORiBMATtKrySRWAxnl"
+      },
+      "artists": [
+        {
+          "name": "Peter Maxwell Davies",
+          "url": "https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR"
+        },
+        {
+          "name": "Steven Osborne",
+          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274333,
+      "name": "Farewell to Stromness",
+      "url": "https://open.spotify.com/track/08UoiHf28HFF7jgM97oqdW"
+    },
+    {
+      "album": {
         "name": "Faur\u00e9: Apr\u00e8s un r\u00eave",
         "url": "https://open.spotify.com/album/5uyUOW67UwURdEQFbw7OI2"
       },
@@ -2562,6 +2606,28 @@
       "duration_ms": 205600,
       "name": "Faur\u00e9: 3 M\u00e9lodies, Op. 7: No. 1, Apr\u00e8s un r\u00eave (Arr. Casals for Violin and Piano)",
       "url": "https://open.spotify.com/track/5RseV3BrxgsmJHuaAsIMoS"
+    },
+    {
+      "album": {
+        "name": "M\u00e9moire",
+        "url": "https://open.spotify.com/album/42RcD8GuZysTSpe3TVqJQp"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254546,
+      "name": "Faur\u00e9: Cantique de Jean Racine, Op. 11 (Transcr. Tharaud for Piano Solo)",
+      "url": "https://open.spotify.com/track/3ToJpDckSubLgTlu8tRD4a"
     },
     {
       "album": {
@@ -3963,6 +4029,32 @@
     },
     {
       "album": {
+        "name": "Manuel de Falla",
+        "url": "https://open.spotify.com/album/1mbL1kJdbwU9NVyd7qgGMs"
+      },
+      "artists": [
+        {
+          "name": "Manuel de Falla",
+          "url": "https://open.spotify.com/artist/5BcbyYRgvvhfVGmCJSjHlT"
+        },
+        {
+          "name": "Royal Liverpool Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3"
+        },
+        {
+          "name": "Domingo Hindoyan",
+          "url": "https://open.spotify.com/artist/2feNtcJ1uaxCQFDqv4zajg"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220066,
+      "name": "La vida breve: Act II: Danza (espagnola) No. 1",
+      "url": "https://open.spotify.com/track/21lLF0RCRzK7hvBi940LLC"
+    },
+    {
+      "album": {
         "name": "Requiem - Music To Die For",
         "url": "https://open.spotify.com/album/21UT0OWmK7c3MVVPHkfaPG"
       },
@@ -4034,6 +4126,24 @@
       "duration_ms": 205493,
       "name": "Lacrimosa",
       "url": "https://open.spotify.com/track/1UvaZaHkh3D9AkmBrrnbFg"
+    },
+    {
+      "album": {
+        "name": "mirador",
+        "url": "https://open.spotify.com/album/2hGVnVTI3vz2SL4KPUr4Lz"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Blais",
+          "url": "https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273029,
+      "name": "laulasmaa",
+      "url": "https://open.spotify.com/track/2wlTZsfL5eictmDVatgi6K"
     },
     {
       "album": {
@@ -5657,6 +5767,36 @@
     },
     {
       "album": {
+        "name": "Prokofiev: Piano Concerto No. 1 \u2013 I. Allegro brioso",
+        "url": "https://open.spotify.com/album/0kHFa9vmtftVSQNhCJPBjj"
+      },
+      "artists": [
+        {
+          "name": "Sergei Prokofiev",
+          "url": "https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l"
+        },
+        {
+          "name": "Jan Barto\u0161",
+          "url": "https://open.spotify.com/artist/3zxQ5HRCohJpolCwQegY6J"
+        },
+        {
+          "name": "Jakub Hr\u016f\u0161a",
+          "url": "https://open.spotify.com/artist/5IZZX6hJg21YUMg1XBXPdr"
+        },
+        {
+          "name": "Bamberg Symphony",
+          "url": "https://open.spotify.com/artist/7qs9lBPZgZzLAYAWfHLAll"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421852,
+      "name": "Piano Concerto No. 1 in D-Flat Major, Op. 10: I. Allegro brioso",
+      "url": "https://open.spotify.com/track/4Zaz5JynPThrCyi46C11Mc"
+    },
+    {
+      "album": {
         "name": "Mozart & Shostakovich: Concertos for Piano and Strings & Piano Sonata",
         "url": "https://open.spotify.com/album/6iRnT562Cge9OO32IzxeaK"
       },
@@ -5968,6 +6108,44 @@
       "duration_ms": 193666,
       "name": "Piano Trio No. 6 in A Major, Op. 101: II. Minuetto. Allegro vivo",
       "url": "https://open.spotify.com/track/2zqbGWsRqZJ8rel2t26kol"
+    },
+    {
+      "album": {
+        "name": "Pifa Variation (After Messiah, HWV 56, Part I: No. 13, Pifa)",
+        "url": "https://open.spotify.com/album/05U3V1KeAZSvjg51BunKuX"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Jan-Peter Kl\u00f6pfel",
+          "url": "https://open.spotify.com/artist/7fpQh1lgdWnKPcAVJHsl4h"
+        },
+        {
+          "name": "Raphaela Gromes",
+          "url": "https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50"
+        },
+        {
+          "name": "Eldbj\u00f8rg Hemsing",
+          "url": "https://open.spotify.com/artist/4M2W6hcJWi6Nrd3XelpO3F"
+        },
+        {
+          "name": "Julian Riem",
+          "url": "https://open.spotify.com/artist/7xblEPvRNj5mqQ1vzV0g2D"
+        },
+        {
+          "name": "Goldmund Quartet",
+          "url": "https://open.spotify.com/artist/0FnOdHfjxgm6gvr5B0us9t"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178391,
+      "name": "Pifa Variation (After Messiah, HWV 56, Part I: No. 13, Pifa)",
+      "url": "https://open.spotify.com/track/2UZwYBwfQ0ImF14C5DduUv"
     },
     {
       "album": {
@@ -7074,6 +7252,28 @@
       "duration_ms": 169249,
       "name": "Song for the Village",
       "url": "https://open.spotify.com/track/62k80mnRaoxQpCAkgHI1sT"
+    },
+    {
+      "album": {
+        "name": "Song Without Words in A Major",
+        "url": "https://open.spotify.com/album/3rbNekPV3k5ESL1TpYfAhC"
+      },
+      "artists": [
+        {
+          "name": "Florence Beatrice Price",
+          "url": "https://open.spotify.com/artist/1M9s5TbPcKurMEzvvW0FFH"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180840,
+      "name": "Song Without Words in A Major",
+      "url": "https://open.spotify.com/track/4xzxc7igB9XYMgLplT44Kp"
     },
     {
       "album": {
@@ -8423,6 +8623,66 @@
     },
     {
       "album": {
+        "name": "Tsupryk: The Sun Was Low (Arr. Lawson for Violin, Cello, Harp & Vibraphone)",
+        "url": "https://open.spotify.com/album/0OoBvioG7iUojGyiaeyV2t"
+      },
+      "artists": [
+        {
+          "name": "Natalia Tsupryk",
+          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+        },
+        {
+          "name": "Krist\u012bne Balanas",
+          "url": "https://open.spotify.com/artist/0lDBHW4HNd46bGdVEl6Sjt"
+        },
+        {
+          "name": "Margarita Balanas",
+          "url": "https://open.spotify.com/artist/5ZEgy7PqXSEYz9yz7YZDQ7"
+        },
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        },
+        {
+          "name": "Elsa Bradley",
+          "url": "https://open.spotify.com/artist/0jmzQxOsKeghTYLLLnLjt6"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189781,
+      "name": "The Sun Was Low (Arr. Lawson for Violin, Cello, Harp & Vibraphone)",
+      "url": "https://open.spotify.com/track/0uVa01jgCP6o65T7bQb1MQ"
+    },
+    {
+      "album": {
+        "name": "The Poem of Life",
+        "url": "https://open.spotify.com/album/3WDBJXRqV793pvs2s68Twf"
+      },
+      "artists": [
+        {
+          "name": "Yu-Peng Chen",
+          "url": "https://open.spotify.com/artist/6CY7WNJfd5uZclcS3WeEjx"
+        },
+        {
+          "name": "Shanghai Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/5lbyxC6xs46cRcvIVRSFp8"
+        },
+        {
+          "name": "Liang Zhang",
+          "url": "https://open.spotify.com/artist/2ps20TD19WuTC4OwEETvqf"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224408,
+      "name": "The Unfinished Poem",
+      "url": "https://open.spotify.com/track/69uimZrYay5KapNWP0D8P4"
+    },
+    {
+      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
@@ -9150,6 +9410,36 @@
       "duration_ms": 233000,
       "name": "Violin Concerto in G Minor, Op. 8 No. 8, RV 332: III. Allegro",
       "url": "https://open.spotify.com/track/6lYtVLenzz1xIXJIEkcCXL"
+    },
+    {
+      "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7ubycHRiKPW2ZlCMnr4YeP"
+      },
+      "artists": [
+        {
+          "name": "Henryk Wieniawski",
+          "url": "https://open.spotify.com/artist/7wEcQTGkugQxXzikls4izh"
+        },
+        {
+          "name": "HIMARI",
+          "url": "https://open.spotify.com/artist/2Y1xtY1448YNAQ3qMRPLan"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        },
+        {
+          "name": "Sebastian Weigle",
+          "url": "https://open.spotify.com/artist/7wbkQAs2wAwpm3XCq6L6pe"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288053,
+      "name": "Violin Concerto No. 1 in F-Sharp Minor, Op. 14: II. Preghiera. Larghetto - Live at Philharmonie Berlin, 2025",
+      "url": "https://open.spotify.com/track/3bcFjgQt4GaoCP5G3NaRbB"
     },
     {
       "album": {

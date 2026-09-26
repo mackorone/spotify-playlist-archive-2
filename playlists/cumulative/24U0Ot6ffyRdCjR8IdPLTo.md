@@ -4,7 +4,7 @@
 
 > 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes!
 
-422 songs - 23 hr 13 min
+426 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [John Prine](https://open.spotify.com/track/2qICWO6h55bRJn16yYwbPi) | [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Easy Violence / John Prine](https://open.spotify.com/album/2N8s58tXG6YWPYSDYMyRWM) | 2:53 | 2023-09-08 | 2024-12-14 |
 | [June Baby](https://open.spotify.com/track/1Bi3VozG3TkmqO7D157n6A) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [June Baby](https://open.spotify.com/album/2zHSZ93YId2FctiSrTgY4j) | 3:02 | 2024-06-14 |  |
 | [jupiter and mars](https://open.spotify.com/track/3FVuolqDK7QnP53YYyMc8d) | [Carla Wehbe](https://open.spotify.com/artist/7G8jUNhcaie5DslhcoCB9w) | [Jupiter and Mars](https://open.spotify.com/album/0Hkx5bkDbfHjR2h8QTNDZh) | 4:07 | 2023-08-15 | 2024-12-14 |
+| [Killing Kind](https://open.spotify.com/track/17Ge1Dz5RRnGdXPULhXaQ3) | [Gigi Moss](https://open.spotify.com/artist/38NVCgrJsx212T9Tk3yMv6) | [Killing Kind](https://open.spotify.com/album/6eQE45k1F7Ux1UFImcQc5m) | 3:42 | 2026-09-25 |  |
 | [KILOS](https://open.spotify.com/track/5dkJEE0TecbGBVfTD9Ud0O) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [KILOS](https://open.spotify.com/album/7778WUkw4GEripfJ7R0V3y) | 3:15 | 2021-12-06 | 2023-08-16 |
 | [lacy](https://open.spotify.com/track/6QT6j7rKt7Vk3IuV2AUO9W) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 2:57 | 2023-09-08 | 2023-11-07 |
 | [Landslide](https://open.spotify.com/track/2QQKyvymCY1f21Fa2hrmrk) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Landslide](https://open.spotify.com/album/0nzHv5e8kBjl0S359J2bmr) | 3:55 | 2024-06-28 |  |
@@ -217,6 +218,7 @@
 | [Love U Like That](https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Love U Like That](https://open.spotify.com/album/4L1fTiCm419aQYUbfRJ3mA) | 3:31 | 2023-08-15 | 2023-08-29 |
 | [Love You To Death](https://open.spotify.com/track/1LuGdo7IQW64Z6qyOq6kuw) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Love You To Death](https://open.spotify.com/album/2kWsq2EhITWoK0N4pu09A7) | 2:19 | 2024-02-16 | 2026-07-22 |
 | [love's not pain](https://open.spotify.com/track/2mElFGDLWCZnuyHt6APKdl) | [Jessica Baio](https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95) | [love's not pain](https://open.spotify.com/album/0KFgeoREfHIGhvOiyWAAWn) | 2:26 | 2024-10-11 | 2026-07-25 |
+| [love, make me a believer](https://open.spotify.com/track/0zU5b6zRZZk4l8FVimCtcu) | [Jessie Mazin](https://open.spotify.com/artist/61Yb6Hi8nlwDwR3GJ7VAnx) | [love, make me a believer](https://open.spotify.com/album/0nsv9YMNJ67EDNCdLllioz) | 2:46 | 2026-09-25 |  |
 | [Lovers Only](https://open.spotify.com/track/5El7hefZel9jzdjnoBUrUJ) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Lovers Only](https://open.spotify.com/album/5SzdVGZnxac4bJmw1kI78U) | 3:39 | 2025-02-17 |  |
 | [loving you is](https://open.spotify.com/track/7KbwHZgHU3aBGbAVQ7mbzM) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [loving you is](https://open.spotify.com/album/6odnsiI90CwKQEduRA4Cek) | 3:24 | 2026-07-24 |  |
 | [Lying](https://open.spotify.com/track/1GsFAbxNUsYIrqY1p5gOgD) | [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Lying](https://open.spotify.com/album/1M0c54SpS4tyuPC54ftu3T) | 2:10 | 2023-08-15 | 2025-02-18 |
@@ -312,6 +314,7 @@
 | [Shape](https://open.spotify.com/track/3oPBo4yzu9VmmUYwU22CgB) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Shape / She Walks In](https://open.spotify.com/album/7zHQnT0AgdKlgTHICLbdM7) | 3:13 | 2023-08-28 | 2024-06-15 |
 | [Shawn](https://open.spotify.com/track/2EzckqCnSMivKc45dHh1aQ) | [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4), [Lieve](https://open.spotify.com/artist/0qSgoagy2DEfXutsC4AOD3) | [Memos](https://open.spotify.com/album/3OVpwWL3YjWKLa5TWb17u5) | 2:36 | 2024-12-13 | 2026-07-11 |
 | [She's There](https://open.spotify.com/track/01yJB2dEUSEMcow0DX0RHA) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Big Dumb Heart, Chapter 1](https://open.spotify.com/album/5flJ8xRc70suiyuOnE4YhG) | 3:50 | 2023-08-15 | 2023-08-29 |
+| [Sherry Wine](https://open.spotify.com/track/37BMnmcnLT63VCbAdCL307) | [Whitney Whitney](https://open.spotify.com/artist/2Jze5ZZUDEo9TowuCnI45R) | [Sherry Wine](https://open.spotify.com/album/3VAZyVBmMCL77esrLijBkL) | 3:25 | 2026-09-25 |  |
 | [Shimmer](https://open.spotify.com/track/5GCBU0qNaeKvZBhoGDgxXR) | [JFDR](https://open.spotify.com/artist/5Lg2eWJA2ZmMnZszOYPMCJ) | [Shimmer](https://open.spotify.com/album/485OiS4kRsIiO0EjwXotsB) | 3:21 | 2021-12-06 | 2023-08-16 |
 | [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-17 |  |
 | [Should Be Us](https://open.spotify.com/track/110vOPCNhnG4Xe1Gmhe32O) | [maryjo](https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H) | [Should Be Us](https://open.spotify.com/album/0nEny1K3mjUgEQMg4CKtPn) | 2:23 | 2024-04-26 | 2026-07-11 |
@@ -371,6 +374,7 @@
 | [That's What You Get](https://open.spotify.com/track/6NOF67FYntYIfPvQmSwicE) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [If You're Looking For A Reason To Key Your Ex's Car](https://open.spotify.com/album/4EpdkyMD0kkJEuqr8leDOc) | 3:07 | 2025-04-11 |  |
 | [the 1](https://open.spotify.com/track/0Jlcvv8IykzHaSmj49uNW8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:30 | 2023-08-15 | 2023-08-29 |
 | [The Blue](https://open.spotify.com/track/4LAeAtcbEAFYTRsZRpua6Z) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 4:05 | 2024-03-08 | 2025-02-18 |
+| [The Dead Ones](https://open.spotify.com/track/4SY4oS0sRxMErvCxo9xdsk) | [Lydia Kenny](https://open.spotify.com/artist/6qT8Z4I9qTAxpJkvPLM0Fa) | [The Dead Ones](https://open.spotify.com/album/6EYV72DNd5VFhaOXThRcAi) | 3:07 | 2026-09-25 |  |
 | [the dog](https://open.spotify.com/track/5HUW7EfyjG6sy6AnYUDGiA) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt) | [best of corook \(so far\)](https://open.spotify.com/album/6fsVvwHc566EXvlryeSp7N) | 2:46 | 2023-08-28 | 2024-06-15 |
 | [The Greatest](https://open.spotify.com/track/1urIUOKFTYggmfqAjh2xyz) | [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [The Greatest](https://open.spotify.com/album/4fLmfcdQ4ydEA5M5UxNRzZ) | 3:13 | 2024-06-14 | 2026-07-11 |
 | [The New Kid](https://open.spotify.com/track/1Ahda2CRcgMBAfKAp9Z7GO) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [The New Kid](https://open.spotify.com/album/0Hs5sLHBaGsh9Bn5AjZN0O) | 2:48 | 2023-10-14 | 2024-07-27 |

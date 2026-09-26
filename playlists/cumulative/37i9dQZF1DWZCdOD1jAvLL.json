@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Stank face activated. Cover: Ryan Shepherd",
+  "description": "Stank face activated. Cover: Michael Sparks",
   "name": "Bangers",
   "tracks": [
     {
@@ -3056,6 +3056,32 @@
       "duration_ms": 222814,
       "name": "Bring The House Down",
       "url": "https://open.spotify.com/track/3FXDzAJ28I5CNC7GWDRn4K"
+    },
+    {
+      "album": {
+        "name": "BROKE A$$ HOME",
+        "url": "https://open.spotify.com/album/3CfEasukeDstsy1DPFazZ3"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        },
+        {
+          "name": "BARTS",
+          "url": "https://open.spotify.com/artist/44qzMC9QX2iSk5ttc4SZfH"
+        },
+        {
+          "name": "Haylee Wood",
+          "url": "https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133636,
+      "name": "BROKE A$$ HOME",
+      "url": "https://open.spotify.com/track/0UNET0aKD12ED6HHnx04Uv"
     },
     {
       "album": {
@@ -6722,7 +6748,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 142529,
       "name": "Fast Money",
       "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
@@ -10980,7 +11006,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 185589,
       "name": "l!sten",
       "url": "https://open.spotify.com/track/7wIxOG0GnM21WueiICVACR"
@@ -13102,6 +13128,24 @@
       "duration_ms": 170833,
       "name": "Money",
       "url": "https://open.spotify.com/track/2AhKFNKiRxk2NZNF47bFjn"
+    },
+    {
+      "album": {
+        "name": "Money Dance",
+        "url": "https://open.spotify.com/album/6uT1BkbpXKn37QQ4z8zP9c"
+      },
+      "artists": [
+        {
+          "name": "Michael Sparks",
+          "url": "https://open.spotify.com/artist/1zuQZzeqzzlwUKVMYHvA87"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156927,
+      "name": "Money Dance",
+      "url": "https://open.spotify.com/track/4V1MvTibkCCOXSJKbcjS0B"
     },
     {
       "album": {
@@ -20881,6 +20925,24 @@
     },
     {
       "album": {
+        "name": "Touch Down",
+        "url": "https://open.spotify.com/album/2PlxFO6Ea3T8phJzH31r1e"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133369,
+      "name": "Touch Down",
+      "url": "https://open.spotify.com/track/2XKZ5W59VSHtEVWJ4XOQXZ"
+    },
+    {
+      "album": {
         "name": "Toxic",
         "url": "https://open.spotify.com/album/1dHYU7DWo9jAW6gphowkRn"
       },
@@ -22174,7 +22236,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 134400,
       "name": "WHO (You Know What I'm Waiting For)",
       "url": "https://open.spotify.com/track/6eTWVeUjiHH9BeWZI5oyyq"

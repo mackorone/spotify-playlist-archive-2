@@ -4,7 +4,7 @@
 
 > Neues aus der Welt des Pop\. Cover: Sugababes
 
-2,625 songs - 5 day 13 hr 51 min
+2,627 songs - 5 day 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [Fovame \- Spotify Singles](https://open.spotify.com/track/3zlmmuG8dsrtZoIvQoXCPX) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [Fovame \- Spotify Singles](https://open.spotify.com/album/32GZtAOfYXZvu2NWRAt0Sf) | 2:48 | 2025-05-08 | 2025-06-06 |
 | [Fragile](https://open.spotify.com/track/5LD1SWmhzKPPkRimY7BDM6) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Fragile](https://open.spotify.com/album/7teyHwrVJgZjPgdIx5oHtE) | 3:22 | 2025-08-07 | 2025-09-05 |
 | [Fragile](https://open.spotify.com/track/3oQLH34g3Dyj7x5qxKCUg0) | [Chris Crone](https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk) | [Fragile](https://open.spotify.com/album/78gE3euW7DsjAX3t4INSoT) | 2:16 | 2026-05-29 | 2026-06-26 |
+| [fragile machine](https://open.spotify.com/track/5jLFZfP8bSmA78w9TQc2ZN) | [wavvyboi](https://open.spotify.com/artist/2ke2MNKxAZ9y4wUCZEGV4D) | [some of us aren't made for heaven](https://open.spotify.com/album/4iun0DC0ygQL9o2RQbOAJ1) | 3:53 | 2026-09-24 |  |
 | [Free \(with Ellie Goulding\)](https://open.spotify.com/track/3NxB1jubUWY6zit9rOk8ZC) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Free \(with Ellie Goulding\)](https://open.spotify.com/album/6guctDCaYE7AhYqtX6RxNE) | 3:32 | 2024-07-25 | 2024-08-23 |
 | [French Girls](https://open.spotify.com/track/1IG0AHtVCjjgpND5iRDC6j) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [French Girls](https://open.spotify.com/album/0zNVm3xZratOorJpLbglfN) | 2:52 | 2025-05-01 | 2025-05-30 |
 | [fridge](https://open.spotify.com/track/0RRvEc7KMzVnZpdC0LNpvI) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [fridge](https://open.spotify.com/album/51hdFeMT8hLrxoXuLY8lz4) | 2:36 | 2025-05-22 | 2025-06-13 |
@@ -1735,6 +1736,7 @@
 | [PASSENGER](https://open.spotify.com/track/5Zv2Icw3vKuzQXZRhgmXkH) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [PASSENGER](https://open.spotify.com/album/6ZLVyO1GnQN35zYHbIB2bJ) | 2:39 | 2026-06-05 | 2026-07-10 |
 | [passenger side](https://open.spotify.com/track/2jpXlj0HRdK31Jm0ZjGLKU) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [liminal space](https://open.spotify.com/album/3EapUfMlvb3BG5OuPAPI3h) | 2:47 | 2024-10-31 | 2024-11-29 |
 | [Passion](https://open.spotify.com/track/6DD3DloL8AvZCI64707q5F) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Passion](https://open.spotify.com/album/49Lan6ZyZ9eqn7e9NV5hxK) | 3:07 | 2025-05-15 | 2025-06-13 |
+| [Patient Zero](https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Life of a Showgirl: The Encore](https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J) | 3:45 | 2026-09-25 |  |
 | [Pay That Toll](https://open.spotify.com/track/27vUVky3YOxLK8o7mGlCyp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Pay That Toll](https://open.spotify.com/album/43xlz2NkEE6ScD7HMXiSRh) | 2:47 | 2026-08-28 | 2026-09-25 |
 | [Peace](https://open.spotify.com/track/0SSJhttofZRl1mCyA0yOiM) | [Elle Coves](https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa) | [Peace](https://open.spotify.com/album/0Y51sbINvBPVZfzuXbDrml) | 2:47 | 2025-07-10 | 2025-08-09 |
 | [People Always Change](https://open.spotify.com/track/1fgPBVkZww9OAoVmDOJFdg) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Woman Of Faces](https://open.spotify.com/album/4EjogBoZXWpOTLhi9mxczy) | 4:50 | 2025-11-13 | 2025-12-12 |
@@ -2219,6 +2221,7 @@
 | [Tears on the dancefloor](https://open.spotify.com/track/0OXC7IGzv3OmxZBXhtC522) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Tears on the dancefloor](https://open.spotify.com/album/7eiXcxepPal5LmfLfX2hqj) | 2:53 | 2024-08-22 | 2024-09-20 |
 | [Tears To Stay](https://open.spotify.com/track/702sclnvy3bqY7KcUZarpr) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Tears To Stay](https://open.spotify.com/album/56v1Xxrq0f6iodYsedT9Bw) | 2:05 | 2024-07-04 | 2024-08-02 |
 | [Tears Won't Save You](https://open.spotify.com/track/61qVSIF8K79kxvByd817Ly) | [Jack Dean](https://open.spotify.com/artist/4Qqd73y2C4EJsGkM1HfElZ) | [Tears Won't Save You](https://open.spotify.com/album/5SA2BpADCbmaT4bgD2mGCP) | 3:00 | 2025-09-18 | 2025-10-17 |
+| [Tell Me](https://open.spotify.com/track/0ywxzEsnjBKonNBOwl8FRi) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [Tell Me](https://open.spotify.com/album/2RD8ETAUyjizOxlnBaZJG5) | 3:12 | 2026-09-25 |  |
 | [Tell Me It's Over](https://open.spotify.com/track/5dGzPJBNASM65k7uwcEMtt) | [Solya](https://open.spotify.com/artist/4q2k0Txoo06ZQ41MWnQMza) | [Tell Me It's Over](https://open.spotify.com/album/6MmMqPde3ph2QQY1FhaUrP) | 2:56 | 2026-01-08 | 2026-02-06 |
 | [Tell Me The Name](https://open.spotify.com/track/2hFpbQpaRHlZhtrYlXIltT) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [Tell Me The Name](https://open.spotify.com/album/770EzwgJTG2oM0U6pX1B11) | 3:05 | 2025-06-19 | 2025-07-04 |
 | [Tell You That](https://open.spotify.com/track/2XTIrSfRGDwsJTbqTTsuc3) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Tell You That](https://open.spotify.com/album/4TfEeYYy0igJ4T7UaVB3sS) | 2:57 | 2026-04-09 | 2026-04-24 |
@@ -2364,8 +2367,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-10 |
 | [Toy Gun](https://open.spotify.com/track/0OXVPuuyCU3Wih7xObJ4HO) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Toy Gun](https://open.spotify.com/album/6FlDkhHiDKhNeInRIdPng1) | 3:14 | 2026-09-10 |  |
 | [Traces](https://open.spotify.com/track/02K9rGknqp9ZPLVCHLs2X4) | [Michael Patrick Kelly](https://open.spotify.com/artist/4OGiMt96TFUKkKWf7Imlno) | [Traces](https://open.spotify.com/album/0BY5Jbqjlr2cobJaTIScsM) | 3:20 | 2025-10-31 | 2025-11-28 |
-| [Track 21](https://open.spotify.com/track/0SU3cUJRXi7RbWoVPC5kD6) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [Orchid \(Deluxe\)](https://open.spotify.com/album/0cTairXEsvN4pe3dc3jF3g) | 0:00 | 2026-09-24 |  |
-| [Track 4](https://open.spotify.com/track/5jLFZfP8bSmA78w9TQc2ZN) | [wavvyboi](https://open.spotify.com/artist/2ke2MNKxAZ9y4wUCZEGV4D) | [some of us aren't made for heaven](https://open.spotify.com/album/4iun0DC0ygQL9o2RQbOAJ1) | 0:00 | 2026-09-24 |  |
 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 | 2026-07-09 | 2026-08-07 |
 | [Train](https://open.spotify.com/track/2nyWIu3B4lAVQhXSQ9GEmb) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Train](https://open.spotify.com/album/52ylpmL4LaBIJnbQJUXrSj) | 3:57 | 2025-09-18 | 2025-10-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-16 | 2025-02-14 |
@@ -2412,6 +2413,7 @@
 | [Understand](https://open.spotify.com/track/7ya3sKrsij9TE2bGbK2BuK) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Understand](https://open.spotify.com/album/14HoBEOfnqbFD7kRLbJBAU) | 2:38 | 2026-07-09 | 2026-07-31 |
 | [Une seule vie](https://open.spotify.com/track/5Y3p9cIQH4TxX3sI4ZQIAL) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Une seule vie](https://open.spotify.com/album/2QiKXoR9j4aj69MmKI6gvQ) | 4:05 | 2026-08-28 | 2026-09-25 |
 | [Unexplainable](https://open.spotify.com/track/01yMV5L88G7Crs3cJqbxAB) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [Unexplainable](https://open.spotify.com/album/7j4sidrwHWHhP1bmdS3kaG) | 4:01 | 2025-05-15 | 2025-06-13 |
+| [unforgettable](https://open.spotify.com/track/0SU3cUJRXi7RbWoVPC5kD6) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [Orchid \(Deluxe\)](https://open.spotify.com/album/0cTairXEsvN4pe3dc3jF3g) | 2:53 | 2026-09-24 |  |
 | [Unicorn](https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Tales of a Failed Shapeshifter](https://open.spotify.com/album/2RL64278RxtHMgDH04qzex) | 2:28 | 2026-02-26 | 2026-03-27 |
 | [Unity](https://open.spotify.com/track/5mIuAYxGNf9rhdeno8MKD1) | [TAM](https://open.spotify.com/artist/7x6QjaVDrueDmZ8k5qyhaz) | [Unity](https://open.spotify.com/album/4NZ4WKU7Ikk0QEu4nFyzuy) | 2:39 | 2024-10-03 | 2024-10-25 |
 | [Universe](https://open.spotify.com/track/7f2E5Xxrzi1mGIaqNJK7vq) | [Jolina Louise](https://open.spotify.com/artist/6xOLMJky0sqFPGCcnkF6yP) | [Universe](https://open.spotify.com/album/2WfkAK6FWUMrIuxcKMc5FD) | 2:29 | 2025-01-30 | 2025-02-28 |

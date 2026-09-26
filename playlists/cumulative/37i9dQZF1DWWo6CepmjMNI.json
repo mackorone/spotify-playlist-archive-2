@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Story and Feel.",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49\u0e43\u0e2b\u0e21\u0e48\u0e41\u0e25\u0e30\u0e14\u0e35\u0e17\u0e35\u0e48\u0e2d\u0e22\u0e32\u0e01\u0e41\u0e19\u0e30\u0e19\u0e33. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: SHERRY",
   "name": "\u0e2d\u0e34\u0e19\u0e14\u0e35\u0e49 \u0e40\u0e17\u0e2a\u0e14\u0e35 Indie Tasty",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 260232,
       "name": "Apartment",
       "url": "https://open.spotify.com/track/78WamET7dLJqYpOP9AyLzS"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 257727,
       "name": "Lost (\u0e23\u0e31\u0e49\u0e07)",
       "url": "https://open.spotify.com/track/0ElzbjwK1ilg2kaDEBpv0G"
@@ -888,6 +888,24 @@
       "duration_ms": 230994,
       "name": "River",
       "url": "https://open.spotify.com/track/0V1DGS7GNqUAHInaU7b7Db"
+    },
+    {
+      "album": {
+        "name": "Rock And Love",
+        "url": "https://open.spotify.com/album/4KDDUaF1hrbDka0jIgTGCg"
+      },
+      "artists": [
+        {
+          "name": "TIMER",
+          "url": "https://open.spotify.com/artist/5pryfeXVGRDvy4wq9W87mR"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199875,
+      "name": "Rock And Love",
+      "url": "https://open.spotify.com/track/1o0jz3THUdBsKHN9mnCXnQ"
     },
     {
       "album": {
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 228000,
       "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e24\u0e14\u0e39",
       "url": "https://open.spotify.com/track/7Dnl2l9DkJXhqhy9HhRX4Q"
@@ -1529,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e48\u0e2d\u0e19\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c\u0e08\u0e30\u0e08\u0e32\u0e07\u0e2b\u0e32\u0e22\u0e44\u0e1b (Sunset)",
+        "url": "https://open.spotify.com/album/5rmWc3FFAAUT3YhaGcLqqQ"
+      },
+      "artists": [
+        {
+          "name": "PENFINS",
+          "url": "https://open.spotify.com/artist/6XEk4cGPHvtYxn9UYQly2l"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318000,
+      "name": "\u0e01\u0e48\u0e2d\u0e19\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c\u0e08\u0e30\u0e08\u0e32\u0e07\u0e2b\u0e32\u0e22\u0e44\u0e1b (Sunset)",
+      "url": "https://open.spotify.com/track/754lhqCrSQJp3XHQ7LgooJ"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
         "url": "https://open.spotify.com/album/6UrJeWPEBZ38g7gNDM3QSr"
       },
@@ -1540,7 +1576,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 302769,
       "name": "\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e18\u0e2d\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/1Wm0y7yUyAYxLhsDvLUozg"
@@ -1864,7 +1900,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 226103,
       "name": "\u0e04\u0e19\u0e21\u0e35\u0e04\u0e27\u0e32\u0e21\u0e23\u0e31\u0e01",
       "url": "https://open.spotify.com/track/5FcrMJEVPSIdjUb36wVDRq"
@@ -2178,6 +2214,24 @@
       "duration_ms": 305238,
       "name": "\u0e08\u0e19\u0e25\u0e37\u0e21\u0e44\u0e1b\u0e27\u0e48\u0e32\u0e09\u0e31\u0e19..",
       "url": "https://open.spotify.com/track/7hqnbHXT2jgWhEExrYuXAp"
+    },
+    {
+      "album": {
+        "name": "\u0e08\u0e21",
+        "url": "https://open.spotify.com/album/0jH7gDsbpsbizv6aO4B0Tb"
+      },
+      "artists": [
+        {
+          "name": "PLERNG",
+          "url": "https://open.spotify.com/artist/4rPqckx0SX15z8IzFBpfUe"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "\u0e08\u0e21",
+      "url": "https://open.spotify.com/track/0DBRXsa1X2J88kdXVdwt2C"
     },
     {
       "album": {
@@ -2628,6 +2682,24 @@
       "duration_ms": 256000,
       "name": "\u0e14\u0e35\u0e41\u0e25\u0e49\u0e27",
       "url": "https://open.spotify.com/track/08xrZIS2GjbsKWaceAbKRf"
+    },
+    {
+      "album": {
+        "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (DD)",
+        "url": "https://open.spotify.com/album/2VYxxc6TT0XRkiAcnD04Xq"
+      },
+      "artists": [
+        {
+          "name": "PANPAN YEEYEE",
+          "url": "https://open.spotify.com/artist/5xIZlZMfqO1ooXVB6RdVky"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214400,
+      "name": "\u0e14\u0e35\u0e4a\u0e14\u0e35 (DD)",
+      "url": "https://open.spotify.com/track/4j6JZUAvDWhx7aKVU1EKuy"
     },
     {
       "album": {
@@ -3351,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "\u0e1b\u0e25\u0e32\u0e22\u0e40\u0e2a\u0e49\u0e19\u0e02\u0e2d\u0e1a\u0e1f\u0e49\u0e32 (Oath To Romance)",
+        "url": "https://open.spotify.com/album/0cuNQ5xAjy7Zp6JTp1sfB0"
+      },
+      "artists": [
+        {
+          "name": "SHERRY",
+          "url": "https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307565,
+      "name": "\u0e1b\u0e25\u0e32\u0e22\u0e40\u0e2a\u0e49\u0e19\u0e02\u0e2d\u0e1a\u0e1f\u0e49\u0e32 (Oath To Romance)",
+      "url": "https://open.spotify.com/track/62bBrZb27BfRxPG8JyG5Yz"
+    },
+    {
+      "album": {
         "name": "\u0e1b\u0e25\u0e48\u0e2d\u0e22",
         "url": "https://open.spotify.com/album/7LnUHC59hLAW1sVQxNARfW"
       },
@@ -3474,7 +3564,7 @@
       ],
       "date_added": "2025-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 337613,
       "name": "\u0e1c\u0e48\u0e32\u0e19\u0e44\u0e1b\u0e14\u0e49\u0e27\u0e22\u0e14\u0e35",
       "url": "https://open.spotify.com/track/01YnIU4fI89z0S5RDKsjKb"
@@ -3994,6 +4084,24 @@
       "duration_ms": 233000,
       "name": "\u0e21\u0e35\u0e15\u0e25\u0e2d\u0e14",
       "url": "https://open.spotify.com/track/34DTcqp51oF4ERR5yFT01S"
+    },
+    {
+      "album": {
+        "name": "\u0e21\u0e48\u0e32\u0e19\u0e1d\u0e31\u0e19",
+        "url": "https://open.spotify.com/album/66w1Q7KxRBuevsgFvzNm2Y"
+      },
+      "artists": [
+        {
+          "name": "Cheyada",
+          "url": "https://open.spotify.com/artist/2Stl1HvZpyNM5qnCI5O87G"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250506,
+      "name": "\u0e21\u0e48\u0e32\u0e19\u0e1d\u0e31\u0e19",
+      "url": "https://open.spotify.com/track/2gbv0d4OJY48pFOFMAqgRF"
     },
     {
       "album": {
@@ -4682,7 +4790,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 203076,
       "name": "\u0e2a\u0e21\u0e2d\u0e07\u0e40\u0e1a\u0e25\u0e2d\u0e40\u0e1e\u0e23\u0e32\u0e30\u0e40\u0e18\u0e2d\u0e21\u0e35\u0e43\u0e08 (Brain Feel Foggy)",
       "url": "https://open.spotify.com/track/7mS8NfxXVqPqTJERelIrYF"
@@ -6044,6 +6152,24 @@
       "duration_ms": 259337,
       "name": "\u0e40\u0e1e\u0e35\u0e22\u0e07\u0e41\u0e15\u0e48\u0e27\u0e31\u0e19\u0e19\u0e35\u0e49\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
       "url": "https://open.spotify.com/track/1XGFVfMc25U3YoK2rsOuxR"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e2d\u0e07\u0e2a\u0e35\u0e48\u0e2a\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/4RbzkhG4HyYOmLUYiAgts3"
+      },
+      "artists": [
+        {
+          "name": "242",
+          "url": "https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169500,
+      "name": "\u0e40\u0e21\u0e34\u0e19",
+      "url": "https://open.spotify.com/track/3N9j3mTPPaHCoXmJbFb6cM"
     },
     {
       "album": {

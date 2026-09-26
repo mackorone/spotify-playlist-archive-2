@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Mori Calliope
 
-[Spotify](https://open.spotify.com/user/spotify) - 562,535 likes - 74 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 562,665 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,17 +70,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 60 | [HYPNOTIZE](https://open.spotify.com/track/5r2FAkZaMsO5SsHwcywQTi) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [THE CORE \- 核](https://open.spotify.com/album/07J0T7JwhvJaX6ky1PiyM6) | 2:50 |
 | 61 | [アンタに言ってんの！](https://open.spotify.com/track/3KaZDoUNLRzLgVIfJKTxrH) | [ぴーなた](https://open.spotify.com/artist/3zPzQnEfIunvuYDX0iUJju), [重音テト](https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o) | [アンタに言ってんの！](https://open.spotify.com/album/2I38UN7Ws4f19n1pu0jHDN) | 2:13 |
 | 62 | [IGNITE](https://open.spotify.com/track/30F0aAsXuyMVcGYD1He7Zx) | [JO1](https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu) | [IGNITE](https://open.spotify.com/album/6oe0WkbMxVo7ZlAnwWbFGW) | 3:29 |
-| 63 | [DIGITAL GIRL](https://open.spotify.com/track/45Us1IGeAiIRmj3bKWaAkH) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [REBON / BUGS LIFE / DIGITAL GIRL](https://open.spotify.com/album/28ktl53fSmJ3FqWjG8VFdH) | 2:19 |
-| 64 | [All Mine \(with Hatsune Miku, MOLIY, & jon\-YAKITORY\)](https://open.spotify.com/track/0q9RzA7nCzsa8fQX7myDYw) | [BEYOND BORDERs](https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [EMERGE M♡DE MIKU](https://open.spotify.com/album/3MdoJyoaOOzh2rDxxK6ehQ) | 2:15 |
-| 65 | [WATCH ME feat\. BIA](https://open.spotify.com/track/1QHY1PGo17jVdmVchaYlmZ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WATCH ME](https://open.spotify.com/album/1YeKHWyzrHaJsFTB7XeT6C) | 3:09 |
-| 66 | [理由](https://open.spotify.com/track/5F9VvD2KbmlysTNwUptNL9) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [理由](https://open.spotify.com/album/7srTz4jxPQvkx3C1ynLzKI) | 3:52 |
-| 67 | [PUNKS](https://open.spotify.com/track/1qOfcSDdi7Q4L1K6hhYCVL) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Whoop It Up "DELUXE Edition"](https://open.spotify.com/album/2wtXAFjLd0tys8M4oBdWMF) | 3:55 |
-| 68 | [ブラッド♡スパークス](https://open.spotify.com/track/0MtmpkswjRWBAfKk9isee5) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ブラッド♡スパークス](https://open.spotify.com/album/1wbenwd9fJRZZWFJcoze6O) | 2:25 |
-| 69 | [MONO TARINAI !](https://open.spotify.com/track/00ylWW2FEhE5Y5eKzXutx7) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [MONO TARINAI !](https://open.spotify.com/album/4j4RiT6NenGXF51avgibJj) | 2:54 |
-| 70 | [TEEN LOVE](https://open.spotify.com/track/3ezaDJzsxtkyyXVI4mI5NR) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [TEEN LOVE](https://open.spotify.com/album/3gAdqBBgEfCh9JbWMC3PLp) | 4:07 |
-| 71 | [SALTARE](https://open.spotify.com/track/0AT3NPrDFFIoMqWCwOZM1w) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [SALTARE](https://open.spotify.com/album/2lmDFg8jSd0oNRNOnKBraV) | 3:17 |
-| 72 | [Tomorrow's Sun](https://open.spotify.com/track/19ZxIxhAUsaO3VTVI8l57K) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Tomorrow's Sun](https://open.spotify.com/album/6eCDe0mCSpo5rB4y1jXc9Q) | 3:48 |
-| 73 | [hora](https://open.spotify.com/track/4p4RcxZBkJOhRq1fAWDVu9) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [hora](https://open.spotify.com/album/51SClLoJGlqlkEOoTX5xrU) | 3:23 |
-| 74 | [未完成婚姻論](https://open.spotify.com/track/1AukQSQzdaWtsH8z1wdmTO) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [MERAKI](https://open.spotify.com/album/02jYu8ctxk4EYep1LQheiW) | 3:08 |
+| 63 | [死ぬか生きるか](https://open.spotify.com/track/7vdZztyuzNX1joqkbhWBxX) | [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [死ぬか生きるか](https://open.spotify.com/album/4HL13G5HCfsP2QvTknHmyD) | 2:45 |
+| 64 | [DIGITAL GIRL](https://open.spotify.com/track/45Us1IGeAiIRmj3bKWaAkH) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [REBON / BUGS LIFE / DIGITAL GIRL](https://open.spotify.com/album/28ktl53fSmJ3FqWjG8VFdH) | 2:19 |
+| 65 | [All Mine \(with Hatsune Miku, MOLIY, & jon\-YAKITORY\)](https://open.spotify.com/track/0q9RzA7nCzsa8fQX7myDYw) | [BEYOND BORDERs](https://open.spotify.com/artist/6jmTGwxX5Hn6RvxxzT4MBr), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl), [MOLIY](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK), [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [EMERGE M♡DE MIKU](https://open.spotify.com/album/3MdoJyoaOOzh2rDxxK6ehQ) | 2:15 |
+| 66 | [WATCH ME feat\. BIA](https://open.spotify.com/track/1QHY1PGo17jVdmVchaYlmZ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [WATCH ME](https://open.spotify.com/album/1YeKHWyzrHaJsFTB7XeT6C) | 3:09 |
+| 67 | [理由](https://open.spotify.com/track/5F9VvD2KbmlysTNwUptNL9) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [理由](https://open.spotify.com/album/7srTz4jxPQvkx3C1ynLzKI) | 3:52 |
+| 68 | [PUNKS](https://open.spotify.com/track/1qOfcSDdi7Q4L1K6hhYCVL) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [Whoop It Up "DELUXE Edition"](https://open.spotify.com/album/2wtXAFjLd0tys8M4oBdWMF) | 3:55 |
+| 69 | [ブラッド♡スパークス](https://open.spotify.com/track/0MtmpkswjRWBAfKk9isee5) | [Brandy Senki](https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA) | [ブラッド♡スパークス](https://open.spotify.com/album/1wbenwd9fJRZZWFJcoze6O) | 2:25 |
+| 70 | [MONO TARINAI !](https://open.spotify.com/track/00ylWW2FEhE5Y5eKzXutx7) | [Tomggg](https://open.spotify.com/artist/4IB2TdHMteDOTMAA1UbbcE), [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [MONO TARINAI !](https://open.spotify.com/album/4j4RiT6NenGXF51avgibJj) | 2:54 |
+| 71 | [TEEN LOVE](https://open.spotify.com/track/3ezaDJzsxtkyyXVI4mI5NR) | [harha](https://open.spotify.com/artist/5V4VtQwk2WtMZd93CdYxvh) | [TEEN LOVE](https://open.spotify.com/album/3gAdqBBgEfCh9JbWMC3PLp) | 4:07 |
+| 72 | [SALTARE](https://open.spotify.com/track/0AT3NPrDFFIoMqWCwOZM1w) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [SALTARE](https://open.spotify.com/album/2lmDFg8jSd0oNRNOnKBraV) | 3:17 |
+| 73 | [Tomorrow's Sun](https://open.spotify.com/track/19ZxIxhAUsaO3VTVI8l57K) | [She Her Her Hers](https://open.spotify.com/artist/3Th9UyipOGp08husDe0Era) | [Tomorrow's Sun](https://open.spotify.com/album/6eCDe0mCSpo5rB4y1jXc9Q) | 3:48 |
+| 74 | [hora](https://open.spotify.com/track/4p4RcxZBkJOhRq1fAWDVu9) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [hora](https://open.spotify.com/album/51SClLoJGlqlkEOoTX5xrU) | 3:23 |
+| 75 | [未完成婚姻論](https://open.spotify.com/track/1AukQSQzdaWtsH8z1wdmTO) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [MERAKI](https://open.spotify.com/album/02jYu8ctxk4EYep1LQheiW) | 3:08 |
 
 Snapshot ID: `AAAAAF7dEnlMs+Ki1BzLal7om48IrFYl`

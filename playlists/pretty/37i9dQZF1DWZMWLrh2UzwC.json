@@ -1,13 +1,29 @@
 {
-  "description": "New music from ILLIT,  Hebe Tien, Hael Husaini, Mimifly, DOLLA, and many more!",
-  "num_followers": 75813,
+  "description": "New music from Taylor Swift, ILLIT,  Hebe Tien, Hael Husaini, Mimifly, DOLLA, and many more!",
+  "num_followers": 75929,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHmBfBazL03xBNNfvVURZiwPx9lt",
+  "snapshot_id": "AAAAAFKAkU1a/ng2MqZ5t7/FvKSe2csS",
   "tracks": [
+    {
+      "added_at": "2026-09-25 04:27:02",
+      "album": {
+        "name": "The Life of a Showgirl: The Encore",
+        "url": "https://open.spotify.com/album/4hF2gTGuPYlykYuphDxi8J"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 225868,
+      "name": "Patient Zero",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub"
+    },
     {
       "added_at": "2026-09-25 00:07:43",
       "album": {
@@ -416,8 +432,8 @@
           "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 154687,
+      "name": "Headstart",
       "url": "https://open.spotify.com/track/6PYYwVUxm2F8eFoChZfWkD"
     },
     {
@@ -772,8 +788,8 @@
           "url": "https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 186280,
+      "name": "Tree Secret",
       "url": "https://open.spotify.com/track/3FNW6aDQzQlAnnOEa7EM4R"
     },
     {
@@ -1431,6 +1447,30 @@
     {
       "added_at": "2026-09-24 16:10:48",
       "album": {
+        "name": "\u5723\u57ce\u4e4b\u5149",
+        "url": "https://open.spotify.com/album/5Ut7yLzLamasqE2bSF8qgS"
+      },
+      "artists": [
+        {
+          "name": "Awaken Generation",
+          "url": "https://open.spotify.com/artist/3jB6QGZ8yLygO5TvEPjx8a"
+        },
+        {
+          "name": "Miss Lou",
+          "url": "https://open.spotify.com/artist/4d9Kpr4Q9VIn3DkREGx2rJ"
+        },
+        {
+          "name": "\u6b23\u6021 XinYi",
+          "url": "https://open.spotify.com/artist/7Eq7X7t4073aV5t90jqFrp"
+        }
+      ],
+      "duration_ms": 392197,
+      "name": "\u5723\u57ce\u4e4b\u5149",
+      "url": "https://open.spotify.com/track/6zfyFHV86M0Fq7n4o8xH3P"
+    },
+    {
+      "added_at": "2026-09-24 16:10:48",
+      "album": {
         "name": "i don't wanna go home",
         "url": "https://open.spotify.com/album/1Tl7lic5DwxusjIte0xw1U"
       },
@@ -1504,8 +1544,8 @@
           "url": "https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 7",
+      "duration_ms": 215129,
+      "name": "Strange",
       "url": "https://open.spotify.com/track/7uLDLTZ4w11g5kdZDGwu2Y"
     },
     {

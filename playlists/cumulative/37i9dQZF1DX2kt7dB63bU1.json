@@ -665,6 +665,28 @@
     },
     {
       "album": {
+        "name": "Nearness",
+        "url": "https://open.spotify.com/album/2fcXDN2hPLIFPLWovA2cca"
+      },
+      "artists": [
+        {
+          "name": "Lizz Wright",
+          "url": "https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW"
+        },
+        {
+          "name": "Kenny Banks",
+          "url": "https://open.spotify.com/artist/6ZJmKRRAHENn4JELfLzfbd"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296200,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/2vl5nt8ttbcBAhHWfcQR7C"
+    },
+    {
+      "album": {
         "name": "Almost Like Being in Love",
         "url": "https://open.spotify.com/album/0Nh59ZpVKxw8TM7nHNEOYk"
       },
@@ -2454,6 +2476,24 @@
       "duration_ms": 259851,
       "name": "Cafe Gitane",
       "url": "https://open.spotify.com/track/5tABHkUoSrbkckheW29aOy"
+    },
+    {
+      "album": {
+        "name": "Caged Bird",
+        "url": "https://open.spotify.com/album/0BqZ1rHDljZbdjYP7px8wg"
+      },
+      "artists": [
+        {
+          "name": "Ekep Nkwelle",
+          "url": "https://open.spotify.com/artist/3IOfJF8F1pqaaoQ2yTPABN"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288373,
+      "name": "Caged Bird",
+      "url": "https://open.spotify.com/track/0EimX77JC1GABUv9CwsIq7"
     },
     {
       "album": {
@@ -5622,7 +5662,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 343120,
       "name": "Good Morning, Heartache",
       "url": "https://open.spotify.com/track/7FGmhlXBygw9co6LIISd9a"
@@ -8850,7 +8890,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 219207,
       "name": "It's Magic",
       "url": "https://open.spotify.com/track/5TTJOdhMqjkYb2lN5qlLQT"
@@ -12921,6 +12961,24 @@
     },
     {
       "album": {
+        "name": "Polka Dots And Moonbeams",
+        "url": "https://open.spotify.com/album/77mtyJRLgYiXX3cGmhIn9B"
+      },
+      "artists": [
+        {
+          "name": "Stella Cole",
+          "url": "https://open.spotify.com/artist/1JV6ZltofPUo3j5CTALYRR"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282306,
+      "name": "Polka Dots and Moonbeams",
+      "url": "https://open.spotify.com/track/0P8pe1BrOKDP554NpDfkFy"
+    },
+    {
+      "album": {
         "name": "A Jazz Date With Chris Connor",
         "url": "https://open.spotify.com/album/4RRXnSFg8fsdRfFwQVO1Uf"
       },
@@ -16410,7 +16468,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 351440,
       "name": "The Nearness Of You",
       "url": "https://open.spotify.com/track/35kG2qj9nuZRxemLbTreFZ"

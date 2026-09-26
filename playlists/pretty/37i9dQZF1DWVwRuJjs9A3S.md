@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: 7ebra
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,600 likes - 200 songs - 11 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,602 likes - 200 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -188,7 +188,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 178 | [BOY IN RED](https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [IT'S BEEN AWFUL](https://open.spotify.com/album/2ZDgH9uDdjRFNdjEyQCZtH) | 3:09 |
 | 179 | [I'd love to be a star](https://open.spotify.com/track/1iSXI8IPkPMxtITODa0mTg) | [Mercedess](https://open.spotify.com/artist/487LWNWQyTG52kpmID4tTm) | [I'd love to be a star, but I'm tired as fuck](https://open.spotify.com/album/1eBcNO07bb58jDOx4UJ9oi) | 3:35 |
 | 180 | [Ember](https://open.spotify.com/track/7jdLVBEhoDxGKdhfBEulzY) | [Iceage](https://open.spotify.com/artist/03hlOXqRyyXO3ectp3eEbU) | [Ember](https://open.spotify.com/album/7v39mio0wBEBfW44yf39bE) | 3:25 |
-| 181 | [I Am a Woman](https://open.spotify.com/track/1NEa2mPnNrvXaTX0z0qkFf) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [I Am a Woman](https://open.spotify.com/album/4pnt0BWZDzpT0EPpSkRuhs) | 3:44 |
+| 181 | [I Am a Woman \(Day 24\)](https://open.spotify.com/track/1NEa2mPnNrvXaTX0z0qkFf) | [Maia Hirasawa](https://open.spotify.com/artist/2xtgYE7gox5t043BJWi7bd) | [I Am a Woman \(Day 24\)](https://open.spotify.com/album/4pnt0BWZDzpT0EPpSkRuhs) | 3:44 |
 | 182 | [Famine](https://open.spotify.com/track/7tpNSjh41h0krqaPgx2Ex1) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [Famine](https://open.spotify.com/album/5jb9ppekYck87iA16d8JAn) | 3:08 |
 | 183 | [Evergreen](https://open.spotify.com/track/3fLX6yRLD2IkWQUxDJEQ0S) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Victory Garden](https://open.spotify.com/album/70ch2R18v3Zho0SlcN4CAN) | 3:41 |
 | 184 | [Florence](https://open.spotify.com/track/4vNf1qqBHno9dM6PcgVBHj) | [Ea Othilde](https://open.spotify.com/artist/1pwHSyOp1lppPxASOG0J99) | [Florence](https://open.spotify.com/album/0GAuzNrkQcaZyNezFjNDSB) | 4:31 |

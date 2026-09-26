@@ -1039,6 +1039,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/0ca5L1k61P5AIUwBF8LYV6"
+      },
+      "artists": [
+        {
+          "name": "oskar med k",
+          "url": "https://open.spotify.com/artist/28ntgpEkMU9Zm7F3gLDMhZ"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219622,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/6NisBf2xWzNTyDLEFlCvBk"
+    },
+    {
+      "album": {
         "name": "Bloom (ERIICE Remix)",
         "url": "https://open.spotify.com/album/5WX4pPN3WmRjC4zfIJfSfp"
       },
@@ -2282,6 +2300,24 @@
       "duration_ms": 152943,
       "name": "Eyes All Over Mine",
       "url": "https://open.spotify.com/track/2IWHXB8dwvZR8cfdOx172B"
+    },
+    {
+      "album": {
+        "name": "fall again",
+        "url": "https://open.spotify.com/album/0AMi250Mqogv3Mab4dQdmN"
+      },
+      "artists": [
+        {
+          "name": "heylucas",
+          "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "fall again",
+      "url": "https://open.spotify.com/track/6mIMiSAr10Fz7ws2vJMMqP"
     },
     {
       "album": {
@@ -5204,7 +5240,7 @@
       ],
       "date_added": "2025-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 256483,
       "name": "Mussulo (feat. Doddy)",
       "url": "https://open.spotify.com/track/3VSO45erUjYsPi1IFuc43Q"
@@ -5657,6 +5693,28 @@
     },
     {
       "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/47BE4e1BngBcpD7dhh9IhE"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        },
+        {
+          "name": "R\u00d8AM",
+          "url": "https://open.spotify.com/artist/0zNaA2cfs2SIGgbIxmoCIC"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165616,
+      "name": "Nothing Lasts Forever",
+      "url": "https://open.spotify.com/track/4RDJePvro9z2X1r8FFgSxt"
+    },
+    {
+      "album": {
         "name": "Nothing To Lose",
         "url": "https://open.spotify.com/album/7J3GKL2W7I86L3EpGQwxDi"
       },
@@ -5834,7 +5892,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 134244,
       "name": "On The Ground",
       "url": "https://open.spotify.com/track/331bJRuzgiksWvFiuVKhmH"
@@ -5934,7 +5992,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 169241,
       "name": "One Night In Mykonos",
       "url": "https://open.spotify.com/track/1yfKPKAFn1T0WyhsJr1835"
@@ -6862,7 +6920,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 184000,
       "name": "Save me",
       "url": "https://open.spotify.com/track/7rVjj9EVAlflgkO9ajcI4X"
@@ -6992,6 +7050,32 @@
       "duration_ms": 191200,
       "name": "Sentimental Pilot",
       "url": "https://open.spotify.com/track/5JV1rGklYVvzeoSof9qlhq"
+    },
+    {
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/6Wlk6NrYtOuOfwRmpGmezb"
+      },
+      "artists": [
+        {
+          "name": "blaank",
+          "url": "https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS"
+        },
+        {
+          "name": "LU2VYK",
+          "url": "https://open.spotify.com/artist/6XfxrlXxNCk5pI7eaXQO2L"
+        },
+        {
+          "name": "Asphodelle",
+          "url": "https://open.spotify.com/artist/1JJ9hSTHglphrcCRe90ntV"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164262,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/1N8iihpcp6T6B8kOod9ZL8"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: KHSD THAITAY",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: YOUNGOHM, KT KRATAE",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 114857,
       "name": "Domino",
       "url": "https://open.spotify.com/track/0ydJblhjjiwbOeYOARCe35"
@@ -4112,6 +4112,24 @@
       "duration_ms": 164700,
       "name": "LA LA LA",
       "url": "https://open.spotify.com/track/1eFiomVILeIntOI6OkEkVV"
+    },
+    {
+      "album": {
+        "name": "LAME SHIT",
+        "url": "https://open.spotify.com/album/1m1FCVmmaarUD61VIb4TEv"
+      },
+      "artists": [
+        {
+          "name": "G-Bear",
+          "url": "https://open.spotify.com/artist/5B3DHZuVuSCKONCjAEaoib"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239964,
+      "name": "LAME SHIT",
+      "url": "https://open.spotify.com/track/39Sceab5rQTMEbluJIUv1y"
     },
     {
       "album": {
@@ -7871,6 +7889,28 @@
     },
     {
       "album": {
+        "name": "Taxi Driver",
+        "url": "https://open.spotify.com/album/0BW2Oc0jUaXvihsyO5EDXW"
+      },
+      "artists": [
+        {
+          "name": "2K",
+          "url": "https://open.spotify.com/artist/7w08uJNZmg9HTsS6XeHX9E"
+        },
+        {
+          "name": "BABYBIGBENG",
+          "url": "https://open.spotify.com/artist/22IixLM0cRjLFGMJT6Zdxi"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/3C1mzkWf7VNXQROA50e4zY"
+    },
+    {
+      "album": {
         "name": "Thai Girl",
         "url": "https://open.spotify.com/album/4POElFc0fJXKOmksxyDE7e"
       },
@@ -9594,7 +9634,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 227142,
       "name": "\u0e04\u0e16\u0e0a\u0e2b",
       "url": "https://open.spotify.com/track/0fHjttmmevYDM5KAn0phK0"
@@ -11373,6 +11413,32 @@
     },
     {
       "album": {
+        "name": "\u0e14\u0e32\u0e27\u0e23\u0e49\u0e32\u0e22",
+        "url": "https://open.spotify.com/album/5opH7cJipU7QWJIiPNbbbT"
+      },
+      "artists": [
+        {
+          "name": "CDGuntee",
+          "url": "https://open.spotify.com/artist/6hzuCOHEv2eDQrxfQWFbp7"
+        },
+        {
+          "name": "Maiyarap",
+          "url": "https://open.spotify.com/artist/4QLlbZcntdcWpm40NooC2M"
+        },
+        {
+          "name": "BANK SORNRAM",
+          "url": "https://open.spotify.com/artist/4SOHmCciUAjlDDzI7Bcmoz"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265292,
+      "name": "\u0e14\u0e32\u0e27\u0e23\u0e49\u0e32\u0e22",
+      "url": "https://open.spotify.com/track/3yHIHQzEIKGKBSlxR4Sf4q"
+    },
+    {
+      "album": {
         "name": "\u0e14\u0e32\u0e27\u0e40\u0e14\u0e35\u0e22\u0e27\u0e14\u0e32\u0e22 (Lonely Star) (feat. SIMON)",
         "url": "https://open.spotify.com/album/30zytBk28he2yVUcrRD92g"
       },
@@ -12336,7 +12402,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 258000,
       "name": "\u0e19\u0e32\u0e19\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19",
       "url": "https://open.spotify.com/track/6DLUrYQzRslBVyu0ZvTSYJ"
@@ -13291,6 +13357,24 @@
     },
     {
       "album": {
+        "name": "\u0e20\u0e32\u0e27\u0e19\u0e32",
+        "url": "https://open.spotify.com/album/2hFeSFghqZkTotbv3CJQR7"
+      },
+      "artists": [
+        {
+          "name": "Baby Boat",
+          "url": "https://open.spotify.com/artist/7fMMVyalfNuiZBTVbaeJaU"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197304,
+      "name": "\u0e20\u0e32\u0e27\u0e19\u0e32",
+      "url": "https://open.spotify.com/track/42QTYhKCIdE22M7Xr0kVcu"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e13\u0e35\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c",
         "url": "https://open.spotify.com/album/0G5CLJsRRHYJlZRtuAjzz7"
       },
@@ -14142,7 +14226,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 196000,
       "name": "\u0e23\u0e31\u0e01\u0e0a\u0e31\u0e01\u0e01\u0e23\u0e30\u0e15\u0e38\u0e01",
       "url": "https://open.spotify.com/track/4ZioDDU5VqlzlMEKXEHFVZ"
@@ -15220,7 +15304,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 215194,
       "name": "\u0e2a\u0e32\u0e22\u0e15\u0e32",
       "url": "https://open.spotify.com/track/3zeEbGrxpkwl4XTTU7DFuG"
@@ -15727,6 +15811,28 @@
     },
     {
       "album": {
+        "name": "\u0e2b\u0e22\u0e38\u0e14\u0e40\u0e27\u0e25\u0e32 (Queen)",
+        "url": "https://open.spotify.com/album/3cReHvIbOsThQuIz4ZJtqH"
+      },
+      "artists": [
+        {
+          "name": "TARA",
+          "url": "https://open.spotify.com/artist/6E2EqXLs0SXLECSPCgzid0"
+        },
+        {
+          "name": "TrippyP",
+          "url": "https://open.spotify.com/artist/3UiG2DUZhvi7WDbp9gNOxW"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240227,
+      "name": "\u0e2b\u0e22\u0e38\u0e14\u0e40\u0e27\u0e25\u0e32 (Queen)",
+      "url": "https://open.spotify.com/track/5VNgT3ehgJruVfUc6piPzj"
+    },
+    {
+      "album": {
         "name": "\u0e2b\u0e25\u0e31\u0e1a\u0e15\u0e32\u0e1d\u0e31\u0e19\u0e16\u0e36\u0e07\u0e0a\u0e37\u0e48\u0e2d\u0e40\u0e18\u0e2d",
         "url": "https://open.spotify.com/album/5kSRnQMVPBLIDva5ZZwbZj"
       },
@@ -15836,7 +15942,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-26",
       "duration_ms": 184615,
       "name": "\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e2a\u0e35\u0e14\u0e33",
       "url": "https://open.spotify.com/track/5gbEGJJXjbF73DQQa2UQQE"
@@ -18400,6 +18506,28 @@
       "duration_ms": 245402,
       "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e17\u0e35\u0e48\u0e23\u0e39\u0e49",
       "url": "https://open.spotify.com/track/3yBAMHPyzKM9e1aimHNVjb"
+    },
+    {
+      "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/0XqqhAzaXerogBQgniTZpy"
+      },
+      "artists": [
+        {
+          "name": "YOUNGOHM",
+          "url": "https://open.spotify.com/artist/0AvGycOEDZTaBFLCaiGd9S"
+        },
+        {
+          "name": "KT KRATAE",
+          "url": "https://open.spotify.com/artist/6hwQvarRAeFfdCuFjpJZTy"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214427,
+      "name": "\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d\u0e41\u0e04\u0e48\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/3H1mjWpfQRIvIgP6ogYLkW"
     },
     {
       "album": {

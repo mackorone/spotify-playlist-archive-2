@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 146454,
+  "num_followers": 146462,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "arMWgAAAAADb2lLOM1exbaBJ+fwzlemw",
+  "snapshot_id": "arRoAAAAAACf1QlVR4xZT8u53V8EmQsJ",
   "tracks": [
     {
       "added_at": null,
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hecho en M\u00e9xico",
-        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 129266,
-      "name": "Hasta que el cuerpo aguante",
-      "url": "https://open.spotify.com/track/0KCzMpVMHbNASNzegF5miF"
+      "duration_ms": 253173,
+      "name": "El enmascarado de l\u00e1tex",
+      "url": "https://open.spotify.com/track/7HyvbAo2u4mpPCc2qC8UtV"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+        "name": "Hecho en M\u00e9xico",
+        "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 253173,
-      "name": "El enmascarado de l\u00e1tex",
-      "url": "https://open.spotify.com/track/7HyvbAo2u4mpPCc2qC8UtV"
+      "duration_ms": 129266,
+      "name": "Hasta que el cuerpo aguante",
+      "url": "https://open.spotify.com/track/0KCzMpVMHbNASNzegF5miF"
     },
     {
       "added_at": null,

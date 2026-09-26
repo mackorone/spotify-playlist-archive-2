@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-717 songs - 2 day 10 hr 36 min
+718 songs - 2 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [I Love You](https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [I Love You](https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl) | 4:22 | 2023-07-07 |  |
 | [I Never Really Cared](https://open.spotify.com/track/05GiEzky4rkUc2aS95qaUr) | [Stoto](https://open.spotify.com/artist/41kcR4JVrpn1xifg8lM2Fu) | [Afterlife](https://open.spotify.com/album/1GC0SjdlXjnx0NyhHV0Ug8) | 4:21 | 2021-12-08 | 2026-05-16 |
 | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/track/7qF9ZcGHkP9IQINswrY0NF) | [Harrison BDP](https://open.spotify.com/artist/4i3y3MC57rWYNAdYlE6HM3) | [I Thought I Would Feel Different But I Feel The Same](https://open.spotify.com/album/4mIi7gfPx1zEvaMHtJ2Hvs) | 7:51 | 2022-05-03 | 2023-04-12 |
+| [I Will Love You](https://open.spotify.com/track/4goVQdV53Rd3eCgBjVJ5dQ) | [Never Spring](https://open.spotify.com/artist/7qDIib7phg7setGtjb4mrc) | [I Will Love You](https://open.spotify.com/album/4yTnBKIdAE74uJvoGcpDjg) | 3:13 | 2026-09-18 |  |
 | [I'll be](https://open.spotify.com/track/2QLjto27aFe8gt0AjJC3zp) | [Banba](https://open.spotify.com/artist/5Igs4byggiqZsQBWJUT1Ad) | [I'll be](https://open.spotify.com/album/3uyVqqDEqwM8vlUok3XX4j) | 5:41 | 2021-12-08 | 2022-07-29 |
 | [I'll Be There \(feat\. Extra Special\)](https://open.spotify.com/track/6zNQHbsFK3ZY6qm9AdZE3C) | [Kaiyan](https://open.spotify.com/artist/2LTLYlJsnetSUuVQEnVNrE), [Extra Special](https://open.spotify.com/artist/1ANEORYDjMsHrF42Du60CW) | [I'll Be There \(feat\. Extra Special\)](https://open.spotify.com/album/4GzizSW5HvRENlslbUrPLk) | 3:40 | 2025-08-08 |  |
 | [Ibiza Blue](https://open.spotify.com/track/3HnJq0iCE0bVO1yYFxNX1C) | [Sue Avenue](https://open.spotify.com/artist/2UohvWGrvyjG67c93W6aqv) | [Ibiza Blue](https://open.spotify.com/album/6x9IjCEY9ZAwKtAUopoXKm) | 8:54 | 2021-12-08 | 2026-05-16 |
@@ -419,7 +420,7 @@
 | [Never Change](https://open.spotify.com/track/0cTvHN1nMaINu2cZFK87d8) | [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Change](https://open.spotify.com/album/28DnS842lod3ntK4UA7g27) | 3:15 | 2025-09-05 |  |
 | [Never Enough](https://open.spotify.com/track/63oLL7nhjCx3hqNQWfwYVM) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Never Enough](https://open.spotify.com/album/66YANI4iTibEQOQ1zHjbbO) | 3:32 | 2023-11-24 | 2024-07-13 |
 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 | 2022-10-28 | 2025-08-30 |
-| [NGF](https://open.spotify.com/track/2K3c88SbqrkGosh9fmT1gU) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [NGF](https://open.spotify.com/album/61TRAd9Tg1iyyPmYnAnyoS) | 6:44 | 2026-05-15 |  |
+| [NGF](https://open.spotify.com/track/2K3c88SbqrkGosh9fmT1gU) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [NGF](https://open.spotify.com/album/61TRAd9Tg1iyyPmYnAnyoS) | 6:44 | 2026-05-15 | 2026-09-26 |
 | [Night Blooming](https://open.spotify.com/track/7Jur43jHDkU1cZMheGQfPi) | [Axel Boman](https://open.spotify.com/artist/59qo8jHDlC1i30HVjQQW3O), [pbeatgirl](https://open.spotify.com/artist/4dupX4HZsvDVV26tiJ20a3) | [Night Blooming](https://open.spotify.com/album/2RSDkgHsxcaIKrMMJQFRZ7) | 6:42 | 2026-02-20 |  |
 | [Night Jaguars](https://open.spotify.com/track/4jasV5CeMTmORbhAyQgTL3) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Heaven Or Hell](https://open.spotify.com/album/4xOuauKQo1WNiGDXXNHbAY) | 3:52 | 2021-12-08 | 2023-08-12 |
 | [Night Walking](https://open.spotify.com/track/76uWZYQ8ifL8fAq7byloD2) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Night Walking](https://open.spotify.com/album/0TTwI6HXox5rTmgxKUp3tE) | 2:49 | 2026-02-27 |  |

@@ -783,6 +783,22 @@
     {
       "added_at": "2026-07-24 08:45:19",
       "album": {
+        "name": "\u96e8\u5f8c uuhu",
+        "url": "https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo"
+      },
+      "artists": [
+        {
+          "name": "Jeon Jin Hee",
+          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
+        }
+      ],
+      "duration_ms": 221026,
+      "name": "light",
+      "url": "https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7"
+    },
+    {
+      "added_at": "2026-07-24 08:45:19",
+      "album": {
         "name": "Echo (feat .JUKJAE)",
         "url": "https://open.spotify.com/album/52rbOdVSwBNZvhYGe2GgSj"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 192586,
       "name": "Echo (feat. JUKJAE)",
       "url": "https://open.spotify.com/track/2KzpyKIMLmOMVroRZ8RA6T"
-    },
-    {
-      "added_at": "2026-07-24 08:45:19",
-      "album": {
-        "name": "\u96e8\u5f8c uuhu",
-        "url": "https://open.spotify.com/album/5mohpEYo4oPggmwLVKxDuo"
-      },
-      "artists": [
-        {
-          "name": "Jeon Jin Hee",
-          "url": "https://open.spotify.com/artist/7MnWezV00qoqnc9aeG0gxg"
-        }
-      ],
-      "duration_ms": 221026,
-      "name": "light",
-      "url": "https://open.spotify.com/track/6BVnNfkItU3rnXaYML5NH7"
     },
     {
       "added_at": "2026-07-24 08:45:19",

@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: CHVRCHES
 
-3,389 songs - 8 day 3 hr 5 min
+3,389 songs - 8 day 3 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -687,6 +687,7 @@
 | [Darlin'](https://open.spotify.com/track/3lFVdFLQeBXLxqKxqwqIfS) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Glimmer of God](https://open.spotify.com/album/2sdEcm60h3HBZkd5k7SkRh) | 3:28 | 2024-10-24 | 2024-11-22 |
 | [Darling](https://open.spotify.com/track/1OQWeYu8b2QZoS2kGUTkCM) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Darling](https://open.spotify.com/album/0UK2D5JonE1BKF04uxYH4k) | 3:30 | 2025-09-11 | 2025-09-27 |
 | [Darling](https://open.spotify.com/track/0WTyIytT4Yi0nHtWI29PVZ) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Darling](https://open.spotify.com/album/1Dgpzrfx3i4N8NzBcWru47) | 2:53 | 2025-05-29 | 2025-06-20 |
+| [DAS LETZTE LIED](https://open.spotify.com/track/6F5Ni3Gtqckp6J9c3tTK5r) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [SCHAU NICHT SO](https://open.spotify.com/album/22wTLKO4hNbsSV1e8jHk6Z) | 4:35 | 2026-09-24 |  |
 | [Daughter from Hell](https://open.spotify.com/track/7yogqG9VriSe2gE9RKZKwG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Daughter from Hell](https://open.spotify.com/album/4BZydSQMfJNphTFZzyIxh5) | 4:04 | 2026-07-16 | 2026-07-31 |
 | [davina mccall](https://open.spotify.com/track/1a7ZPKYilBFgAX05MmDeBM) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [davina mccall](https://open.spotify.com/album/1tqnxJ9J0mbOv9deIp4wwf) | 3:47 | 2025-06-26 | 2025-07-11 |
 | [day by day](https://open.spotify.com/track/6AHVa7t3XI73eK3S9cTi98) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [day by day](https://open.spotify.com/album/3k4CF66i21U9yYOZB3S5UT) | 2:13 | 2024-12-12 | 2025-01-17 |
@@ -1297,7 +1298,7 @@
 | [Homesick For Another World](https://open.spotify.com/track/7LO4MeJGzjow43zIaqoOsA) | [James Ellis Ford](https://open.spotify.com/artist/4rzx4iwzF4sCJns8pelK55) | [Lost In Another World](https://open.spotify.com/album/6a4PjuIDMW3kxLNuoi4LXf) | 3:51 | 2026-08-13 | 2026-09-11 |
 | [Hometown Edge](https://open.spotify.com/track/3JGuU3QqJWwk2jiqNFFiyu) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [Hometown Edge](https://open.spotify.com/album/2jHVS7NMARVExgVFmKHK8L) | 2:57 | 2024-08-08 | 2024-08-30 |
 | [honey baby](https://open.spotify.com/track/1oxRczq7sYrIfXF9ROobai) | [JYN](https://open.spotify.com/artist/0AX2jZaUfUfEDzZnl6QCxG), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Dye My Hair / honey baby](https://open.spotify.com/album/0o9LpRyUlxupKiF1o2daEc) | 2:25 | 2024-08-29 | 2024-09-13 |
-| [Honey Honey](https://open.spotify.com/track/1I3D3G5pwYFKNYGIYTLRCq) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Honey Honey](https://open.spotify.com/album/0AuDQR5ASwikOugYr1perq) | 3:33 | 2026-09-24 |  |
+| [Honey Honey](https://open.spotify.com/track/1I3D3G5pwYFKNYGIYTLRCq) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG), [Lords of Lounge](https://open.spotify.com/artist/1rr5AQb3MwrAJB4mrw2K88) | [Honey Honey](https://open.spotify.com/album/0AuDQR5ASwikOugYr1perq) | 3:33 | 2026-09-24 |  |
 | [honey, come find me](https://open.spotify.com/track/16oPq8SKNJGvMQhbRWp8VI) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [honey,](https://open.spotify.com/album/2iGflcAPXTztrSowZoM8BK) | 2:02 | 2024-12-05 | 2025-01-10 |
 | [Honeycomb](https://open.spotify.com/track/0z8Z0sQiBgww2toWEf5A40) | [Panchiko](https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O) | [Honeycomb](https://open.spotify.com/album/1bXymWHWPNubbjT9Pi2HBH) | 3:14 | 2025-02-13 | 2025-02-28 |
 | [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 | 2025-01-09 | 2025-02-07 |
@@ -3066,7 +3067,6 @@
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-26 |
-| [Track 11](https://open.spotify.com/track/6F5Ni3Gtqckp6J9c3tTK5r) | [Leftovers](https://open.spotify.com/artist/05iAz0MsD0BryYptGXyzqI) | [SCHAU NICHT SO](https://open.spotify.com/album/22wTLKO4hNbsSV1e8jHk6Z) | 0:00 | 2026-09-24 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

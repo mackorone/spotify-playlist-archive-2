@@ -1681,6 +1681,28 @@
     },
     {
       "album": {
+        "name": "Maxwell Davies: Farewell to Stromness",
+        "url": "https://open.spotify.com/album/29Z8ORiBMATtKrySRWAxnl"
+      },
+      "artists": [
+        {
+          "name": "Peter Maxwell Davies",
+          "url": "https://open.spotify.com/artist/0IUwZRBFdts7QgNElmqsWR"
+        },
+        {
+          "name": "Steven Osborne",
+          "url": "https://open.spotify.com/artist/23G1DjI5kQBbjOaLbUONgK"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274333,
+      "name": "Farewell to Stromness",
+      "url": "https://open.spotify.com/track/08UoiHf28HFF7jgM97oqdW"
+    },
+    {
+      "album": {
         "name": "Piano Works",
         "url": "https://open.spotify.com/album/0HYTxeKs2ySnsuAkwnwDrd"
       },

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Pocket",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Worldpeace DMT",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -1996,6 +1996,24 @@
       "duration_ms": 291720,
       "name": "Fucking Mega",
       "url": "https://open.spotify.com/track/6tqvEXCweWY131rD6EeD4D"
+    },
+    {
+      "album": {
+        "name": "Gabriel",
+        "url": "https://open.spotify.com/album/2trgK2jomllLUNEY3bnaYt"
+      },
+      "artists": [
+        {
+          "name": "Worldpeace DMT",
+          "url": "https://open.spotify.com/artist/48Nf4afKn9nV8OqgnTP7dV"
+        }
+      ],
+      "date_added": "2026-09-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177520,
+      "name": "Gabriel",
+      "url": "https://open.spotify.com/track/3clpq7tgqi0jcvg16K3c0V"
     },
     {
       "album": {
